@@ -1,0 +1,31 @@
+§cKeystrokes disabled
+§aKeystrokes enabled
+§cKeystrokes are disabled due to the TASmod keystrokes. Please refer to /tasmod gui to change the settings
+Changed Keystroke-Settings for %s
+§cDuping disabled
+§aDuping enabled
+§cDupeMod is loaded, so this command is disabled
+§cDisabled Freezing when joining the world
+§aEnabled Freezing when joining the world
+§cDisabled Freezing when starting the server
+§aEnabled Freezing when starting the server
+§cDisabled Velocity when joining the world
+§aEnabled Velocity when joining the world
+§cDisabled Velocity when logging into the server
+§aEnabled Velocity when logging into the server
+Make a Savestate
+Making a savestate, please wait!
+Idea and code from MightyPork and bspkrs' WorldStateCheckpoints!
+Loading a savestate!
+§aPause-Gui enabled
+§cPause-Gui disabled
+/tastools <keystrokes | freeze | duping | velocity | reload | gui | pausemenu>
+/dupe
+/dragon <phase>
+/freeze
+/savestate <save | load>
+TASTools version %s for Minecraft version %s
+§cDisabled Logo in HUD
+§aEnabled Logo in HUD
+Changed Logo-Settings for %s
+Config reloaded!

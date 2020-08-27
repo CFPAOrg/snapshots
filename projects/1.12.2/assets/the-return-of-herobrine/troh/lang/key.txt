@@ -1,0 +1,15 @@
+item.troh.portal_orb.name
+item.troh.end_star.name
+item.troh.end_star_sword.name
+tile.troh.core_of_herobrine.name
+entity.herobrine.name
+entity.portal_orb_projectile.name
+advancements.troh.root.title
+advancements.troh.kill_herobrine.title
+advancements.troh.root.description
+advancements.troh.kill_herobrine.description
+tooltip.troh.blocks.core_of_herobrine
+chat.troh.entities.herobrine.spawned
+chat.troh.entities.herobrine.greeting
+chat.troh.entities.herobrine.taunt1
+chat.troh.entities.herobrine.taunt2

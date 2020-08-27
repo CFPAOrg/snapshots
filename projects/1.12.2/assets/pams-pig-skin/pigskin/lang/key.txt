@@ -1,0 +1,3 @@
+itemGroup.pigskin
+item.pigskinitem.name
+item.footballitem.name

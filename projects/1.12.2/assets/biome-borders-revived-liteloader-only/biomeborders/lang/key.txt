@@ -1,0 +1,5 @@
+biomeborders.config.title
+biomeborders.config.name
+biomeborders.config.radius
+biomeborders.config.lineheight
+biomeborders.control.toggle

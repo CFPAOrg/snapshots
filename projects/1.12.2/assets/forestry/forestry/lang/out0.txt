@@ -1,0 +1,94 @@
+%1$s was stabbed by a loose spring. %2$s was the negligent watchmaker.
+%1$s was stabbed by a loose spring.
+You already memorized this information.
+You memorize the note and dispose of the crumpled scrap of paper.
+You feel more confident in your ability to breed %1$s with %2$s to make %3$s!
+Aliases: %s
+Available Sub-Commands:
+Permission Level: %s
+You do not have permission to use this command.
+Various commands for Forestry
+Format: /%s <sub-command>
+- %s : Version information
+Prints current version
+Format: /%s
+- %s : List of Forestry Modules
+Lists all Forestry Modules. Green are active, red disabled.
+Format: /%s
+- %s : Information on a specific Module
+Prints information on a specific Module
+Format: /%s <module-name>
+Type '%s' for help.
+No information available for module %s.
+Forestry %1$s for Minecraft %2$s (Latest: %3$s).
+Fire Dampener
+Reduces maximum output to 10 RF/t
+Preserves fuel output
+Electric Boost I
+Increases output by 10 RF/t
+Increases intake by 4 EU/t
+Electric Boost II
+Increases output by 20 RF/t
+Increases intake by 7 EU/t
+Electric Choke
+Reduces output by 5 RF/t
+Reduces intake by 1 EU/t
+Electric Efficiency
+Reduces intake by 1 EU/t
+Speed Boost I
+Increases Speed by 12.5%
+Increases Power Use by 5%
+Speed Boost II
+Increases Speed by 25%
+Increases Power Use by 10%
+Machine Efficiency
+Decreases Power Use by 10%
+Not Available
+Nothing
+Electrical Engine
+In Electrical Engines
+Automatic Farm
+Automatic Farms
+Manual Farm
+Manual Farms
+Machine Upgrade
+Socketed Machines
+Cacti
+End
+Gourds
+Jungle
+Mushroom
+Nether
+Flowers
+Wheat
+Snow
+Ethanol
+Biomass
+Liquid Glass
+Honey
+Crushed Ice
+Fruit Juice
+Short Mead
+Milk
+Seed Oil
+Ethanol
+Biomass
+Liquid Glass
+Honey
+Crushed Ice
+Fruit Juice
+Short Mead
+Milk
+Seed Oil
+Access
+Active
+Player
+Trader Station
+Authority
+Classification
+Extinct
+Encyclopedia Minecraftia could not provide an entry for this specimen.
+Analytics available
+Territory
+Arid
+Beach

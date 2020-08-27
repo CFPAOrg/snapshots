@@ -1,0 +1,102 @@
+Water-Based Light Blue Dye
+Water-Based Magenta Dye
+Water-Based Orange Dye
+Water-Based White Dye
+Chemical Black Dye
+Chemical Red Dye
+Chemical Green Dye
+Chemical Brown Dye
+Chemical Blue Dye
+Chemical Purple Dye
+Chemical Cyan Dye
+Chemical Light Gray Dye
+Chemical Gray Dye
+Chemical Pink Dye
+Chemical Lime Dye
+Chemical Yellow Dye
+Chemical Light Blue Dye
+Chemical Magenta Dye
+Chemical Orange Dye
+Chemical White Dye
+Positive Matter
+Neutral Matter
+Urea
+Sodium Cyanate
+Sodium Bicarbonate
+Sodium Carbonate
+Calcium Acetate
+Sodium Cyanide
+Acetone Cyanohydrin
+Methyl Methacrylate
+Acrylic
+Hydrogen Peroxide
+Dymalloy
+Beryllium-Copper Alloy
+Aluminium-Copper Alloy
+Duranium-Fused Acrylic
+Dymalloy
+Beryllium-Copper Alloy
+Aluminium-Copper Alloy
+Duranium-Fused Acrylic
+Zircon
+Zirconium
+Citrine
+Alexandrite
+Onyx
+Spinel
+Zircon
+Zirconium
+Citrine
+Alexandrite
+Onyx
+Spinel
+Milk
+Cocoa
+Wheat
+Tiny Pile of Gunpowder
+Small Pile of Gunpowder
+Tiny Pile of Chad
+Small Pile of Chad
+Chad
+Tiny Pile of Rare Earth
+Small Pile of Rare Earth
+Rare Earth
+Tiny Pile of Ashes
+Small Pile of Ashes
+Ashes
+Tiny Pile of Bone Meal
+Small Pile of Bone Meal
+Bone Meal
+Centrifuged Cassiterite Sand
+Purified Cassiterite Sand
+Ground Cassiterite Sand
+Tiny Pile of Cassiterite Sand
+Small Pile of Cassiterite Sand
+Impure Pile of Cassiterite Sand
+Purified Pile of Cassiterite Sand
+Cassiterite Sand
+Tiny Pile of Dark Ashes
+Small Pile of Dark Ashes
+Dark Ashes
+Tiny Pile of Crushed Ice
+Small Pile of Crushed Ice
+Crushed Ice
+Tiny Pile of Polyethylene Pulp
+Small Pile of Polyethylene Pulp
+Polyethylene Pulp
+Polyethylene Sheet
+Epoxid Bar
+Tiny Pile of Epoxid Pulp
+Small Pile of Epoxid Pulp
+Epoxid Pulp
+Epoxid Chip
+Dense Epoxid Sheet
+Epoxid Sheet
+Thin Epoxid Sheet
+Tiny Pile of Polysiloxane Pulp
+Small Pile of Polysiloxane Pulp
+Polysiloxane Pulp
+Polysiloxane Sheet
+Tiny Pile of Polycaprolactam Pulp
+Small Pile of Polycaprolactam Pulp
+Polycaprolactam Pulp

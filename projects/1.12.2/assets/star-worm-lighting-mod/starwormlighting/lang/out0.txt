@@ -1,0 +1,104 @@
+Star Worm Lighting
+Star Worm Cobble
+Star Worm Vine
+SW Stone
+SW Granite
+SW Polished Granite
+SW Diorite
+SW Polished Diorite
+SW Andesite
+SW Polished Andesite
+SW Cobblestone
+SW Oak Wood Planks
+SW Spruce Wood Planks
+SW Birch Wood Planks
+SW Jungle Wood Planks
+SW Acacia Wood Planks
+SW Dark Oak Wood Planks
+SW Sand
+SW Red Sand
+SW Gravel
+SW Oak Wood
+SW Spruce Wood
+SW Birch Wood
+SW Jungle Wood
+SW Acacia Wood
+SW Dark Oak Wood
+SW Lapis Lazuli Block
+SW Sandstone
+SW Chiseled Sandstone
+SW Smooth Sandstone
+SW White Wool
+SW Orange Wool
+SW Magenta Wool
+SW Light Blue Wool
+SW Yellow Wool
+SW Lime Wool
+SW Pink Wool
+SW Gray Wool
+SW Light Gray Wool
+SW Cyan Wool
+SW Purple Wool
+SW Blue Wool
+SW Brown wool
+SW Green Wool
+SW Red Wool
+SW Black Wool
+SW Block of Gold
+SW Block of Iron
+SW Bricks
+SW Moss Stone
+SW Obsidian
+SW Block of Diamond
+SW Snow
+SW Clay
+SW Netherrack
+SW Soul Sand
+SW Stone Bricks
+SW Mossy Stone Bricks
+SW Cracked Stone Bricks
+SW Chiseled Stone Bricks
+SW Brown Mushroom
+SW Red Mushroom
+SW Nether Brick
+SW End Stone
+SW Block of Emerald
+SW Block of Redstone
+SW Block of Quartz
+SW Chiseled Quartz Block
+SW Pillar Quartz Block
+SW White Terracotta
+SW Orange Terracotta
+SW Magenta Terracotta
+SW Light Blue Terracotta
+SW Yellow Terracotta
+SW Lime Terracotta
+SW Pink Terracotta
+SW Gray Terracotta
+SW Cyan Terracotta
+SW Purple Terracotta
+SW Blue Terracotta
+SW Brown Terracotta
+SW Green Terracotta
+SW Red Terracotta
+SW Black Terracotta
+SW Slime Block
+SW Prismarine Bricks
+SW Dark Prismarine
+SW Terracotta
+SW Block of Coal
+SW Ice
+SW Red Sandstone
+SW Chiseled Red Sandstone
+SW Smooth Red Sandstone
+SW Purpur Block
+SW End Stone Bricks
+SW Nether Wart Block
+SW Nether Brick
+SW Bone Block
+SW White Glazed Terracotta
+SW Orange Glazed Terracotta
+SW Magenta Glazed Terracotta
+SW Light Blue Glazed Terracotta
+SW Yellow Glazed Terracotta
+SW Lime Glazed Terracotta

@@ -1,0 +1,7 @@
+item.sliced_slicingKnife.name
+item.sliced_breadSlice.name
+item.sliced_slicehandle.name
+item.sliced_sliceblade.name
+item.sliced_whetstone.name
+item.sliced_appleSlice.name
+itemGroup.tabName

@@ -1,0 +1,78 @@
+Ore Dictionary Filter
+Filters item extract and insert with ore dictionary (as Cover)/nCan be used as a Conveyor upgrade
+Fluid Filter
+Filters fluid fill and drain (as Cover)/nCan be used as a Pump upgrade
+Machine Controller
+Turns Machines ON/OFF
+Activity Detector
+Gives out Activity as Redstone
+Fluid Detector
+Gives out Fluid Amount as Redstone
+Item Detector
+Gives out Item Amount as Redstone
+Energy Detector
+Gives out Energy Amount as Redstone
+Player Detector
+Gives out close Players as Redstone
+Computer Monitor
+Displays Data
+Crafting Table Cover
+Advanced workbench on the machine's side
+Shutter Module
+Blocks side of the machine from any interactions
+Base Solar Panel
+Solar Panel (LV)
+Solar Panel (MV)
+Solar Panel (HV)
+Solar Panel (EV)
+Solar Panel (IV)
+Solar Panel (LuV)
+Solar Panel (UV)
+Portable Scanner
+Tricorder
+BrainTech Aerospace Advanced Reinforced Duct Tape FAL-84
+If you can't fix it with this, use more of it!
+Gelled Toluene
+Raw Explosive
+Purple Drank
+Fuel Binder
+Super Fuel Binder
+Magic Fuel Binder
+Thermite Dust
+Phenolic Board
+Glass Tube
+Vacuum Tube LV Circuit
+Silicon Dioxide PCB
+Phenolic PCB
+Reinforced Epoxy PCB
+Plastic PCB
+Epoxid PCB
+Fiberglass PCB
+Duranium-Fused Acrylic PCB
+Red Alloy Circuit Wiring
+Copper Circuit Wiring
+Electrum Circuit Wiring
+Aluminium Circuit Wiring
+Graphene Circuit Wiring
+Yttrium Barium Cuprate Circuit Wiring
+Tritanium Circuit Wiring
+Topaz System-on-Chip
+Ender System-on-Chip
+Nether Quartz System-on-Chip
+Lapis System-on-Chip
+Olivine System-on-Chip
+Emerald System-on-Chip
+Diamond System-on-Chip
+Rubber
+Plant Ball
+Tool Parts Box
+Contains some tool parts/nRight click to open
+Foam Sprayer
+Sprays Construction Foam/nRight click on a frame to foam connected frames/nUse iron metal to create reinforced stone/nFoam can be colored
+Energium Dust
+Compressed Fireclay
+Compressed Clay
+Fireclay Brick
+Coke Oven Brick
+Empty Wooden Form
+Brick Wooden Form

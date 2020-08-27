@@ -1,0 +1,8 @@
+Completely removes flux rifts at the cost of flux generation. No items will drop.
+Power
+Cleanliness
+Worst
+Bad
+Adequate
+Good
+Perfect

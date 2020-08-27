@@ -1,0 +1,6 @@
+item.mendinggems:mending_gem.name
+tooltip.mendinggems.mending_gem
+tier.mendinggems.tier_0
+tier.mendinggems.tier_1
+tier.mendinggems.tier_2
+tier.mendinggems.tier_3

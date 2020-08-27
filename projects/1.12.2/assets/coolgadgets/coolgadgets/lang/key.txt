@@ -1,0 +1,12 @@
+itemGroup.coolgadgets
+gui.calculator.button.element
+info.book.tooltip
+item.calculator.tooltip
+item.calculator.tooltip2
+item.superwrench.tooltip
+item.coolgadgets.book.name
+item.calculator.name
+item.crafting.name
+item.lunette.name
+item.superwrench.name
+info.book.landing

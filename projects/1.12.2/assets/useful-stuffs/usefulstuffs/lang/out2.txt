@@ -1,0 +1,37 @@
+Right click to fill
+Good to Health!
+Fire arrows of light!
+Charges itself when exposed to sunlight
+Well, moonlight is reflection of sunlight actually
+%s/400 light unit
+Provides light unit to gadgets that use light
+%s/32000 light unit
+Charges itself when exposed to sunlight
+Do the re-charge thingy in one machine!
+Being a couch potato, one can sleep at any time he want.
+Stabilize your pose
+Work along with Tank Frame, put this inside to form a tank
+Work as a big bucket, Shift-Right click to toggle mode
+Fluid: %s
+Amount: %1$s/%2$s mB
+Mode: Place
+Mode: Fill
+Work along with Fluid Containers, put them inside to form a tank
+Right click with a Fluid Container to insert, Shift-Right click with empty hand to take out, or use a pipe
+Leads you to the nearest nether fortress
+Right click in nether to update the compass
+Prevent Well of Water Fall to insert water into a set of specific block's sides.
+Shift-Right click a side of a block to bind, and Right click on the well to insert.
+Shoots Light Bulbs. Shift-Right click to open the container.
+Prefer drawing 250 light unit per shot if there is a light battery in the inventory.
+Will automatically put the picked up light bulbs into its container.
+Shift-Right click to pick up a block. The durability used depends on the block's properties (hardness, amount of states, isTileEnt). Enchant with Frugal can reduce the durability cost.
+Craft with slime balls to refill the durability.
+Reduce falling damage when equipped on head.
+Makes you float on water like a lily-pad.
+Provide 27 extra slots, press Useful Key to switch between them and the hotbar.
+Lily belt with fire resistance!
+A normal backpack. Press Useful Key to open the container when in Bauble slot.
+A mining backpack that will auto-collect mining resources. Press Useful Key to open the container when in Bauble slot.
+Shift-Right click to open configuration.
+Gathered from milk bag with fermented milk. Very good to your health.

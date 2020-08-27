@@ -1,0 +1,7 @@
+The Flint Ankh will save any items adjacent to it in the inventory in a 3x3 grid pattern, with the Ankh as the center. It will take damage each time the player dies with it in their inventory.
+Unique Crops
+Toggle Glasses Shader
+Battle Crop
+%1$s got dusted
+Set upgrade level [1-10]
+Held item either empty or not upgradeable.

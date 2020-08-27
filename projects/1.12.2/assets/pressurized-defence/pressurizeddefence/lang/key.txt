@@ -1,0 +1,14 @@
+tile.pressurizeddefence.boiler.name
+tile.pressurizeddefence.turret.name
+tile.pressurizeddefence.scalding_trap.name
+tile.pressurizeddefence.pipe.name
+tile.pressurizeddefence.blowback_cannon.name
+item.pressurizeddefence.turret_bullet.name
+item.pressurizeddefence.turret_bullet_light.name
+item.pressurizeddefence.turret_bullet_heavy.name
+item.pressurizeddefence.speed_upgrade.name
+entity.pressurizeddefence.turret_projectile.name
+death.attack.steam_turret
+death.attack.steam_scalding_trap
+itemGroup.pressurizeddefence
+tile.pressurizeddefence.steam

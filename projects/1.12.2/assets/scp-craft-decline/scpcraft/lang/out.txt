@@ -1,0 +1,42 @@
+Corroded Iron Door
+Sliding Door
+SCP-143 Leaves
+SCP-143 Log
+SCP-143 Sapling
+SCP-143 Plank
+Electric Wool
+Granite
+§7SCP-409
+SCP-822
+Grate
+Marble
+Oak Chair
+Stone Chair
+Marble Chair
+Granite Chair
+Oak Table
+Stone Table
+Marble Table
+Granite Table
+Flesh
+Bone
+SCP-§k079
+%s rotted away from SCP-106
+%s got cut in SCP-143
+%s got eaten by SCP-002
+%s stared at SCP-023
+%s got smashed away by SCP-096
+%s got electrocuted by SCP-594
+%s got crystalized
+%s became mad
+%s got his neck broken by SCP-173
+Electricity
+SCP-002
+Crystalization
+Madness
+Bloodstone
+Bloodstone Soft
+Bloodstone Medium
+SCP Blocks
+SCP Items
+SCPs

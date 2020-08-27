@@ -1,0 +1,55 @@
+Cache directory
+tpll command
+Force tp command
+Tile Scaling
+Tile cache size
+Show entities
+Double click delay
+Ignore projection warning
+Synchronize players
+Map sync tick interval
+Sync spectators
+Sync timeout
+Default player display
+Wikimedia maps
+Wikimedia Foundation, © OpenStreetMap contributors
+OpenStreetMap
+© OpenStreetMap contributors
+OpenStreetMap France
+© OpenStreetMap contributors, OSM France
+OpenStreetMap Humanitarian
+© OpenStreetMap contributors, Humanitarian OpenStreetMap Team
+OpenTopo Map
+© OpenStreetMap contributors, OpenTopo Team
+Watercolor
+Map tiles by Stamen Design, under CC BY 3.0. Data © OpenStreetMap contributors, under CC BY SA
+Terrain
+Map tiles by Stamen Design, under CC BY 3.0. Data © OpenStreetMap contributors, under ODbL
+Terramap key bindings
+Open map
+Toggle Terramap debug mod
+Teleport here
+Center map here
+Copy location to clipboard
+Copy Minecraft coordinates to clipboard
+Open location in OpenStreetMaps
+Open location on the BTE website
+Open location in Google Maps
+Open location in Google Earth web
+Open location in Google Earth Pro
+Set projection
+You can add as many lines as you need for your language here
+Terramap is not installed on the server!!
+There is no way to identify the projection used.
+Elements from the Minecraft world will not be displayed on the map.
+You can ask the server administrator to install Terramap,
+or you can manually set the projection used in the right click menu.
+Mouse position: %1$s° %2$s°
+X: %1$s Z: %2$s
+You player is outside the projected area
+Player position: %1$s° %2$s°
+%s is outside the projected area
+%1$s's position: %2$s° %3$s°
+Tracking %s
+Projection: %s
+Orientation: %s

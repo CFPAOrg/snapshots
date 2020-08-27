@@ -1,0 +1,14 @@
+Arrow Bolt
+Used by the Crossbow Turret. Projectiles have a tiny knockback effect and act like standard arrows, just smaller. Very precise.\n\nCan be packaged, whose items will provide 16x ammo.
+Shotgun Shell
+Used by the Shotgun Turret. One shell turns into 6 dispersed pebble projectiles when shot, which have no knockback effect.\nDoes not cause any immunity to the target, thus targets hit by multiple pebbles will take damage from all of them.\n\nCan be packaged, whose items will provide 16x ammo.
+Cryo Cell
+Used by the Cryolator Turret. This ammunition comes in 3 versions, which applies different slowness effects:\nCell SG1: Slowness I for 15s\nCell SG2: Slowness III for 10s\nCell SG3: Slowness V for 5s.\n\nDoes not cause immunity and any damage to the target.\n\nCan be packaged, whose items will provide 16x ammo.
+Revolver Bullets
+Used by the Revolver Turret, it has the same knockback effect like the Shotgun projectiles, but do more damage than the Arrow bolts from the Crossbow Turret. Unlike other ammo types, this provides double the rounds.\n\nCan be packaged, whose items will provide 16x ammo.
+Minigun Rounds
+Used by the Minigun Turret. Cartridges contain seeds which do little damage and no knockback, but like the shotgun pebbles, they do not cause any immunity to the target. This, in combination with the rapid firing rate of the turret, compensate for their weakness.\nDue to the rapid firing rate, a cartridge provides 4 shots instead of the usual 1.\n\nCan be packaged, whose items will provide 16x ammo.
+Electrolyte Cell
+Used by the Forcefield Turret. Provides energy necessary to charge up the forcefield.\n\nCan be packaged, whose items will provide 16x ammo.
+Flux Cell
+Used by the Laser Turret. Lasers have no knockback effect and don't damage anything immune to fire (unless upgraded), but deal quite a decent amount of damage and also sets the target on fire for 5 seconds.\n\nCan be packaged, whose items will provide 16x ammo.

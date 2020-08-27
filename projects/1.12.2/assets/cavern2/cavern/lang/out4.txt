@@ -1,0 +1,132 @@
+Loading is almost complete
+Regenerating %s...
+Backing up %s...
+%s was backed up
+Failed backing up %s
+%s was regenerated
+Failed to regenerate %s
+Dimension Regeneration
+Cannot be canceled
+Regenerate
+Backup
+Backing up dimension data before regeneration.
+Regenerating...
+Backing up..
+Regenerated
+Failed
+Mining Records
+Mining Score
+Cavern Portal
+Huge Cavern Portal
+Aqua Cavern Portal
+Mirage Portal
+Select a dimension
+Aquamarine Ore
+Block of Aquamarine
+Magnite Ore
+Block of Magnite
+Randomite Ore
+Hexcite Ore
+Block of Hexcite
+Fissured %s
+Cavenic Shroom
+Acresia
+Perverted %s
+Perverted Wood
+Perverted Leaves
+Perverted Sapling
+Slippery Ice
+Mirage Bookshelf
+Acresia
+Acresia Seeds
+Acresia Fruits
+Aquamarine
+Magnite Ingot
+Hexcite
+Icy Stick
+Miner's Orb
+Cavenic Orb
+Aquamarine Pickaxe
+Aquamarine Axe
+Aquamarine Shovel
+Magnite Sword
+Magnite Pickaxe
+Magnite Axe
+Magnite Shovel
+Hexcite Sword
+Hexcite Pickaxe
+Hexcite Axe
+Hexcite Shovel
+Hexcite Hoe
+Hexcite Helmet
+Hexcite Chestplate
+Hexcite Leggings
+Hexcite Boots
+Icy Sword
+Icy Pickaxe
+Icy Axe
+Icy Shovel
+Icy Hoe
+Icy Bow
+Cavenic Sword
+Cavenic Axe
+Cavenic Bow
+Mode
+Normal
+Rapid Fire
+Sniper
+Torch Shot
+Ore Compass
+Mirage World: %s
+Caveland
+Cavenia
+Frost Mountains
+Wide Desert
+Void
+Dark Forest
+Crown Cliffs
+Skyland
+You need a portal.
+Right-click the your mirage book to go back.
+Magic Book: %s
+You cannot use this yet.
+You cannot use this here.
+%s has been cast.
+Storage
+Heal
+Warp
+Warp point has been set.
+Warp point is too far away.
+Teleport
+Light
+You must have a torch.
+This spell is already active.
+Your light magic fades.
+Invisibility
+Summon
+Explosion
+Thunderbolt
+Infinity
+Overload
+Physical Boost
+Cavenic Skeleton
+Cavenic Creeper
+Cavenic Zombie
+Cavenic Spider
+Crazy Skeleton
+Crazy Creeper
+Crazy Zombie
+Crazy Spider
+Cavenic Bear
+Cavenic Witch
+Caveman
+Crystal Turret
+Sky Seeker
+Durang Hog
+Summoned %s
+Beam
+Cavern
+Huge Cavern
+Aqua Cavern
+Mirage Worlds
+Cavern

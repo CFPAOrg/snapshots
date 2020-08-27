@@ -1,0 +1,17 @@
+FILLSCREEN FIXNEWLINES An entity's visibility is multiplied by 1 + (this setting * armor)\n\nIf set to 0, there is no effect\n\nIf set to 0.25, an entity with 20 armor (full diamond) is 5x as likely to be seen\n \n
+Light Level (High/Bright)
+FILLSCREEN FIXNEWLINES At or above this light level, entities receive the maximum light level multiplier\n \n
+Light Level (Low/Dark)
+FILLSCREEN FIXNEWLINES At or below this light level, entities receive the minimum light level multiplier\n \n
+Multiplier (High/Bright)
+FILLSCREEN FIXNEWLINES The light level visibility multiplier when standing in bright areas\n\n0 means invisible, 1 means fully visible (other factors not accounted for)\n \n
+Multiplier (Low/Dark)
+FILLSCREEN FIXNEWLINES The light level visibility multiplier when standing in dark areas\n\n0 means invisible, 1 means fully visible (other factors not accounted for)\n \n
+Nightvision Bonus
+FILLSCREEN FIXNEWLINES When an entity has the nightvision effect, this value is added to their perceived light levels (and then set to 15 if larger than 15)\n \n
+Minimum Dimension Light Levels
+FILLSCREEN FIXNEWLINES The minimum light level Dynamic Stealth will detect when in a given dimension\n\nThese are mostly for dimensions with ambient lighting (eg. the nether and the end)\n\nThe 1st number is the dimension id, the 2nd is the minimum light level for that dimension\n \n
+Angle (Large/Wide; Near)
+Angle (Small/Thin; Far)
+Distance (Far)
+FILLSCREEN FIXNEWLINES The absolute maximum distance that an entity can see another entity from, in blocks\n\nExclusive, so if set to 0 mobs NEVER see anything, with a few exceptions, eg...\n\nZombies will still attack villagers as normal; this uses completely different logic than what I'm accessing atm so I'm not trying to change it for now\n\nSome mobs are not affected at all, for the same reason as stated above, including endermen and the ender dragon\n \n

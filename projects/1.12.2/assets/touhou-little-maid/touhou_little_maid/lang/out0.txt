@@ -1,0 +1,87 @@
+Touhou Little Maid: Main
+Touhou Little Maid: Garage Kit
+Touhou Little Maid: Chair
+Touhou Little Maid: Spell Card
+Touhou Little Maid: Maid Model Coupon
+Touhou Little Maid
+Danmaku
+Marisa's Broom
+Chair
+Cake Box
+Rinnosuke Morichika
+Maid Fairy
+Suitcase
+Backpack
+Trolley Audio
+Maid Vehicle
+Scarecrow
+Portable Audio
+Power Point
+Kappa's Compass
+Hakurei's Gohei
+§6Ultramarine Orb Elixir
+§6Explosion Protect Bauble
+§6Fire Protect Bauble
+§6Projectile Protect Bauble
+§6Potion Protect Bauble
+§6Fall Protect Bauble
+§6Drown Protect Bauble
+§6Tombstone Bauble
+§6Nimble Fabric
+Marisa's Broom
+Aya's Camera
+Photo
+Chair
+Hata Sasimono
+Album
+Shrine Lamp
+Spell Card
+Debug Danmaku Tool
+NPC Maid Tool
+Substitute Jizo
+Maid Model Coupon
+Gashapon
+Gashapon Coin
+Maid Backpack
+Suitcase
+Trolley Audio
+Cat Cart
+Wheel Chair
+Rickshaw
+Scarecrow
+Portable Audio
+Chisel
+Extinguisher
+Power Point
+Garage Kit
+Maid Interaction Panel
+Altar
+Tombstone
+Gashapon Machines
+§cUsage: /hata <reload>
+Has reloaded all hata texture
+§cUsage: /touhou_little_maid <power|maid_num> <get|set|add|min> <player> [value]
+Current Power: %.2f
+Current Maid Num: %d
+§cUsage: /spell_card <reload>
+Has reloaded all custom spell card
+§cUsage: /draw_coupon <reload>
+Has reloaded all draw coupon
+§cUsage: /maid_res <reload>
+§cTips: This command may not reload some resources
+Reload Time: %.3f ms
+Mode: %d
+Press the Alt key and scroll the mouse wheel to switch modes.
+Right click on the block to set the coordinates, then right click on the maid binding coordinates.
+Shift right click on the ground clear the coordinates.
+Need to work with the maid's home mode
+Current Mode: %s
+Remaining Usage Times: %d
+Entity Name: %s
+Model Name: %s
+This Photo Is Missing Maid Data
+Maid Name: %s
+Being able to capture maid, at least in most cases...
+Shfit right click on the top of the block to place it.
+Shift left hit can destroy it.
+Right click on the top of the block to place it.

@@ -1,0 +1,18 @@
+And despite the turrets' magical aiming properties, we couldn't invent one that fuels itself from the air around it, so until we manage to make that, you'll want to fuel your turrets with burnable fuel sources.
+You can insert coal into it from the sides of the machine with a hopper to fuel it, then you can insert your magical bullets from the top of the turret to load it up. For security reasons we had to deal with the hard way, the turret requires redstone power to operate.
+Only the placer of the turret will not be attacked by the turret. Otherwise, if you are closer than 4 blocks from the turret, it wont try to murder you.
+Balefire
+Reality-destroying fire in bullet form
+Balefire rounds have a tendency to "unexist" things they hit. Blocks and monsters die or vanish in its path, and it leaves a trail of fire.<br><br>A lady with a strangely ageless face gave us a huge pile of books on how to use it, but none of our scholars could get past the first one.
+Biotic
+Shoot to heal
+These bullets... heal people when they get shot. We're not sure how. This doesn't make any sense, does it?<br><br>We have it on good authority from an old lady and an angel that Biotic tech makes sense and has a perfect scientific explanation. However, their Swedish friend keeps ranting about how "the science doesn't check out." Well, Swedish man, we don't care, so long as it works. Healing bullets! Woo.
+Draconic
+Boom
+These bullets are really reactive. They explode. Hard.<br><br>Making them is a really bad idea. Well, unless you like fun.
+Firework
+Fancy colors
+One of our interns had some leftovers from the Fourth of July, so we strapped them to bullets. They make fancy splashes of color!
+Flash
+Just the way to kill your eyes
+Do you not like your enemies seeing things? Well, these bullets can solve that. They're so bright that even looking at their explosion can blind you.<br><br>You should probably look away when you fire them. We didn't think this through.

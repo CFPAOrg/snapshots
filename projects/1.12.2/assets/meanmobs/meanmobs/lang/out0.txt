@@ -1,0 +1,38 @@
+MeanMobs Config
+Endless Nightmare
+Set to true to make the earth stop on midnight.
+Mob Buffs
+Settings for mob buffs, such as extra health or speed.
+Loot System Mode
+0: Use the better loot system\n§e1: Use the better loot system along with Vanilla, will probably be buggy!\n§e2: Use the Vanilla loot system
+Max Speed Boost
+Up to this amount of additional speed\n§ewill be added to affected mobs on spawn.
+Max Follow Range Boost
+Up to this amount of additional follow range\n§ewill be added to affected mobs on spawn.
+Max Health Boost
+Up to this amount of additional max health\n§ewill be added to affected mobs on spawn.
+Zombie Gear Presets
+Zombies can spawn with this gear.\n§eFor the chance, 1 in §ox§r§e will make the gear succeed.\n§eFormat:\n§e<name>,<chance>,<mainhand>,<offhand>,<feet>,<legs>,<chest>,<head>,<speedModMultiplier>,<followRangeModMultiplier>,<healthModMultiplier>
+Skeleton Gear Presets
+Skeletons can spawn with this gear.\n§eFor the chance, 1 in §ox§r§e will make the gear succeed.\n§eFormat:\n§e<name>,<chance>,<mainhand>,<offhand>,<feet>,<legs>,<chest>,<head>,<speedModMultiplier>,<followRangeModMultiplier>,<healthModMultiplier>
+Summoning
+Settings for mobs summoning assistance.
+Summoning Effects
+Show smoke and play sounds when an entity is summoned.\n§eTurn off to make summoning more subtle.
+Zombie Helpers
+Mobs that Zombies will summon as assistance.\n§eFormat: <id>,<chance>
+Skeleton Helpers
+Mobs that Skeletons will summon as assistance.\n§eFormat: <id>,<chance>
+Zombie Summon Chance
+1 in §ox§r§e hits will summon another mob.
+Skeleton Summon Chance
+1 in §ox§r§e hits will summon another mob.
+Apocalypse Mode
+Settings for Apocalypse Mode
+Enabled
+Set to true to enable Apocalypse Mode.
+Debugging
+Settings for debugging the mod.
+Log Spawning Cancellations
+Enable to log mob spawning cancellations during Apocalypse Mode.
+Log Assistance Summoning

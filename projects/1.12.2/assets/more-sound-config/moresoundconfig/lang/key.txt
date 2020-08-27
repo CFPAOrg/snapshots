@@ -1,0 +1,4 @@
+msc.default
+msc.output
+msc.newdevice
+msc.activedevice

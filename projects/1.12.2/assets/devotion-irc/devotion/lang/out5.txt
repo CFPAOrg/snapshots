@@ -1,0 +1,36 @@
+Show Welcome Screen
+If set to true, DevotionIRC will show the welcome screen with suggested channels when joining a world.
+Terminal Style Input
+Puts the target channel name right into the chat box.
+Enable Fancy Overlay
+Should join/leave messages be displayed on a separate, smaller overlay?
+Fancy Overlay Lifetime
+Time in ticks that messages should stay on the overlay.
+Fancy Overlay Scale
+How should the fancy overlay be scaled compared to the chat?
+Twitch Name Badges
+If enabled, Twitch users will have their subscriber, mod and caster badges in chat. Requires EiraMoticons.
+Always Show Subscriber Badges
+Should Twitch subscriber badges be visible for every user of a channel, despite their subscription state?
+Relay Death Messages
+If set to true, Minecraft death messages will be sent to this IRC context.
+Relay Minecraft Join/Leave
+If set to true, Minecraft join/leave messages will be sent to this IRC context.
+Relay IRC Join/Leave
+If set to true, IRC join/leave messages from this IRC context will be sent to Minecraft chat.
+Relay Nick Changes
+If set to true, IRC nick changes from this IRC context will be sent to Minecraft chat.
+Relay Achievements
+If set to true, Minecraft Achievement messages will be sent to this IRC context.
+Enable Link Filter
+If set to true, links from this IRC context will be replaced by <removed link>.
+Hide IRC Notices
+If set to true, NOTICE messages from this IRC context will only be printed in the console.
+Convert Color Codes
+If set to true, colors from this IRC context will be translated into Minecraft colors and vice-versa.
+Allow Private Messages
+If set to true, private messages can be sent and received from this IRC context.
+Allow CTCP Queries
+If set to true, CTCP queries from this IRC context will be allowed.
+Send Auto Who
+If set to true, users who join this IRC context will be sent a list of all online Minecraft players.

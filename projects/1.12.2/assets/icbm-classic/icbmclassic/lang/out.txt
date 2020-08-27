@@ -1,0 +1,112 @@
+You must scan a coordinate!
+Region is being protected.
+Remote locked to: X:%x Y:%y Z:%z
+Remote out of electricity!
+Radar set to emit redstone
+Radar set to not emit redstone
+Insufficient electricity!
+Idle
+Frequency:
+X-Coord:
+Y-Coord:
+Z-Coord:
+X:
+Y:
+Z:
+Status:
+Voltage:
+Missile[%d, %d]
+Object[%d, %d]
+Frequency
+Proximity Detector
+All
+Players
+Mobs
+Detection Range
+Min
+Max
+Exclude
+Include
+Target:
+On
+Status:
+EMP Tower
+Missiles
+Electricity
+Both
+EMP Radius: %p blocks
+EMP Effect:
+Debilitate Electronics
+Disrupt Missiles
+Deplete Electricity
+Mode:
+Ready to blast!
+Launcher Platform
+Place Missile
+Launcher Control Panel
+Detonation Height:
+Lock Height:
+Missile Target
+Inaccuracy: %p blocks
+Not connected!
+Insufficient electricity!
+Missile silo is empty!
+Target is invalid!
+Target too close!
+Target too far!
+Ready to launch!
+Launch
+Cruise Launcher
+No Power!
+No Missile!
+Invalid Item!
+Invalid Missile Tier!
+Invalid Missile Type!
+Invalid Target!
+Target to close!
+3x3 not clear!
+Ready!
+Status: %s
+Warning: Cannot fire missile due to status error!
+Target data transferred from tool.
+Target data's world is not the same as this one!
+Tool does not contain any target data!
+Frequency set to %s
+Missile Coordinator
+Path Simulator
+From:
+To:
+Displacement: %p meters
+Arc: %p meters
+Time: %p seconds
+Direction:
+More features coming soon!
+Coordinates:
+Range
+Trigger:
+Detection:
+Radar on!
+No electricity!
+Terminal
+Ammunition
+Upgrades
+of %j
+User Access
+Frequency:
+Tracking:
+Frequency: Not set
+Saved coordinates:
+Meters
+Linked explosive:
+No Linked explosive
+Explosive tier
+Left-click on a mob (players aswell) and I will point to it.
+%s was crushed by the immense mass of the mighty black hole.
+%s suddenly started feeling not so well.
+%s breathed in too much of the green stuff.
+GPS data saved
+Invalid location
+Can't target another world
+No target set
+Data transferred
+GPS data cleared

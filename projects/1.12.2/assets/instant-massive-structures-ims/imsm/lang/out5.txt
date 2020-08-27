@@ -1,0 +1,47 @@
+Bridge Avenue L North-West
+Bridge Avenue L South-East
+Bridge Avenue L South-West
+Bridge Highway 1 East-West
+Bridge Highway 1 North-South
+Bridge Highway 2 East-West
+Bridge Highway 2 North-South
+Bridge Highway 3 East-West
+Bridge Highway 3 North-South
+Bridge Highway 4 East-West
+Bridge Highway 4 North-South
+Bridge Highway L North-East
+Bridge Highway L North-West
+Bridge Highway L South-East
+Bridge Highway L South-West
+Bridge Road 1 East-West
+Bridge Road 1 North-South
+Bridge Road 2 East-West
+Bridge Road 2 North-South
+Bridge Road L North-East
+Bridge Road L North-West
+Bridge Road L South-East
+Bridge Road L South-West
+Bridge Street 1 East-West
+Bridge Street 1 North-South
+Bridge Street 2 East-West
+Bridge Street 2 North-South
+Bridge Street L North-East
+Bridge Street L North-West
+Bridge Street L South-East
+Bridge Street L South-West
+Connector Avenue <> Street -1- Avenue East [] Street North-West-side
+Connector Avenue <> Street -1- Avenue East [] Street South-West-side
+Connector Avenue <> Street -1- Avenue North [] Street South-East-side
+Connector Avenue <> Street -1- Avenue North [] Street South-West-side
+Connector Avenue <> Street -1- Avenue South [] Street North-East-side
+Connector Avenue <> Street -1- Avenue South [] Street North-West-side
+Connector Avenue <> Street -1- Avenue West [] Street North-East-side
+Connector Avenue <> Street -1- Avenue West [] Street South-East-side
+Connector Avenue <> Street -L- Avenue East [] Street North
+Connector Avenue <> Street -L- Avenue East [] Street South
+Connector Avenue <> Street -L- Avenue North [] Street East
+Connector Avenue <> Street -L- Avenue North [] Street West
+Connector Avenue <> Street -L- Avenue South [] Street East
+Connector Avenue <> Street -L- Avenue South [] Street West
+Connector Avenue <> Street -L- Avenue West [] Street North
+Connector Avenue <> Street -L- Avenue West [] Street South

@@ -1,0 +1,2 @@
+item.ban_fishy.name
+item.kick_fishy.name

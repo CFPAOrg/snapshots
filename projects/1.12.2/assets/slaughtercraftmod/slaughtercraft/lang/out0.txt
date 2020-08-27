@@ -1,0 +1,120 @@
+SlaughterCraft Blocks
+SlaughterCraft Items And Food
+Butchers Table
+Tanning Rack
+Slow Roaster
+Cow Carcass
+Pig Carcass
+Chicken Carcass
+Sheep Carcass
+SteelOre
+Roast Mutton
+Roast Pork
+Roast Chicken
+Roasting Spit
+Uncooked Roast Mutton
+Uncooked Roast Pork
+Uncooked Roast Chicken
+Uncooked Roast Beef
+Zombie Carcass
+Zombie Villager Carcass
+Zombie Pigman Carcass
+Villager Carcass
+Vindicator Carcass
+Evoker Carcass
+Horse Carcass
+Mule Carcass
+Donkey Carcass
+Llama Carcass
+Slime Carcass
+Slime Skull
+Squid Carcass
+Creeper Carcass
+Salt Block
+Mortar And Pestle
+Salt Pile
+Bowl Of Salt
+Butchers Knife
+Stone Butchers Knife
+Flint Butchers Knife
+Steel
+Steel Ingot
+Slice Of Roast Beef
+Slice Of Roast Pork
+Slice Of Roast Mutton
+Slice Of Roast Chicken
+Untanned Cow Leather
+Untanned Sheep Skin
+Untanned Pig Skin
+Steel Rod
+Stone Pole
+Chicken Leg
+Chicken Wing
+Chicken Breast
+Chicken Neck
+Pig Leg
+Pork Belly
+Pork Shoulder
+Pork Rump
+Cow Leg
+Beef Belly
+Beef Shoulder
+Beef Rump
+Sheep Leg
+Mutton Shoulder
+Mutton Rump
+Mutton Belly
+Raw Creeper Steak
+Preserved Creeper Steak
+Cooked Chicken Leg
+Cooked Chicken Wing
+Cooked Chicken Breast
+Cooked Pork Leg
+Cooked Pork Belly
+Cooked Pork Shoulder
+Cooked Pork Rump
+Cooked beef Leg
+Cooked Beef Belly
+Cooked Beef Shoulder
+Cooked Beef Rump
+Cooked Mutton Leg
+Cooked Mutton Shoulder
+Cooked Mutton Rump
+Cooked Mutton Belly
+Cooked Creeper Steak
+Cooked Preserved Creeper Steak
+Cooked Mule Chunk
+Cooked Horse Chunk
+Cooked Donkey Chunk
+Cooked Llama Chunk
+Llama Meat Chunk
+Horse Meat Chunk
+Donkey Meat Chunk
+Mule Meat Chunk
+Cooked Calamari
+Raw Calamari
+Slime Skin Leather
+Slime Helmet
+Slime Chestplate
+Slime Boots
+Slime Leggings
+Squid Helmet
+Squid Chestplate
+Squid Boots
+Squid Leggings
+Chicken Broth
+Beef Broth
+Pork Broth
+Mutton Broth
+Fish Broth
+Chicken Soup
+Beef Soup
+Pork Soup
+Mutton Soup
+Fish Soup
+Chicken Stew
+Beef Stew
+Pork Stew
+Mutton Stew
+Fish Stew
+Food Hunger Values

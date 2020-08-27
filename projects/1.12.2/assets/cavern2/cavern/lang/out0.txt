@@ -1,0 +1,62 @@
+Edit
+Add
+Remove
+Clear
+Disabled
+Volume
+Have a nice cave life!
+A new version of %s is available
+You are using a Beta version of %s
+You are using an Alpha version of %s
+You are using a Dev version of %s
+Updated Cavern config files.
+Do you want to open the config?
+Cavern Configuration
+The latest version of Cavern is %s
+You are using the latest version
+You are using an older version
+You are using a beta version
+You are using an alpha version
+You are using a development version
+Detail info
+Display detailed information.
+Instant filter
+Filter instantly when enter character in filter-textbox.
+General Settings
+Change the settings contained in general.cfg
+Version Notify
+Whether to notify when a new version is available.
+Mining Point Items
+The items that can get mining points. (Will be automatically selected if none are specified.)
+Mining Points
+The mining points for each block.
+Mining Combo
+Whether to enable mining combos.
+Critical Mining
+If players may sometimes find extra ores while mining.
+Caveborn
+If enabled, the dimension that the player will spawn in when first logging in.  The player will also receive the "Caveborn Bonus Items."
+Disabled
+Cavern
+Huge Cavern
+Aqua Cavern
+Caveborn Bonus Items
+Extra starting items when starting as a caveborn.
+Range of Find Portal
+How far the portal must be found in the cave dimensions.
+Portal Cache
+Whether to cache cave portal teleports.
+Portal Menu
+Whether to open the menu on cave portals.
+Generous Randomite
+Whether to enable generous randomite drops.
+Randomite Exclude Items
+Banned items from randomite ore drop items.
+Sleep Waiting Time
+How long (in seconds) the player must wait before sleeping in the cave dimensions.
+Sleep Refresh
+If the player is healed when sleeping in the cave dimensions.
+Display Settings
+Change the settings contained in display.cfg
+Custom Loading Screen
+Whether to enable the custom loading screen for cave dimensions.

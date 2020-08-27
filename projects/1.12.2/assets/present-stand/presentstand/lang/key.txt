@@ -1,0 +1,17 @@
+itemGroup Present Stand 
+tile.white_present_stand.name
+tile.orange_present_stand.name
+tile.magenta_present_stand.name
+tile.light_blue_present_stand.name
+tile.yellow_present_stand.name
+tile.lime_present_stand.name
+tile.pink_present_stand.name
+tile.gray_present_stand.name
+tile.light_gray_present_stand.name
+tile.cyan_present_stand.name
+tile.purple_present_stand.name
+tile.blue_present_stand.name
+tile.brown_present_stand.name
+tile.green_present_stand.name
+tile.red_present_stand.name
+tile.black_present_stand.name

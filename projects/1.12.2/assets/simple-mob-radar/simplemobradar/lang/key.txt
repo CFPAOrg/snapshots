@@ -1,0 +1,9 @@
+item.simplemobradar.name
+item.simplepassiveradar.name
+string.simplemobradar.status
+string.simplemobradar.found
+string.simplemobradar.mob
+string.simplemobradar.notfound
+string.simplemobradar.inactive
+string.simplemobradar.distance
+string.simplemobradar.totalfound

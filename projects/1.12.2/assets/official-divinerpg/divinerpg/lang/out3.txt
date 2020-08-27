@@ -1,0 +1,125 @@
+Lamona Plant
+Marsine Plant
+Firestock Plant
+Pinfly Plant
+Eucalyptus
+Eucalyptus Planks
+Eucalyptus Log
+Eucalyptus Stairs
+Eucalyptus Slab
+Double Eucalyptus Slab
+Arcanium Torch
+Elevantium
+Arcanite Rails
+Acceleron
+Coalstone Furnace
+Coalstone Furnace
+Oceanfire Furnace
+Oceanfire Furnace
+Molten Furnace
+Molten Furnace
+Whitefire Furnace
+Whitefire Furnace
+Demon Furnace
+Demon Furnace
+Greenlight Furnace
+Greenlight Furnace
+Moonlight Furnace
+Moonlight Furnace
+Dark Bridge
+Slime Light
+Double Divine Slab
+Double Frozen Slab
+Double Eden Slab
+Double Wild Wood Slab
+Double Apalachia Slab
+Double Skythern Slab
+Double Mortum Slab
+White Mushroom
+Steel Door
+Truffle
+Luna Brick
+Crackle Spike
+Green Gem Top
+Purple Gem Top
+Dream Wrecker Spawner
+Experienced Cori Statue
+Iceika Chest
+Steel Door
+Soul Stone Door
+Soul Sludge Door
+Degraded Brick Door
+Ancient Brick Door
+Everfright Bow
+Bedrock Chunk
+Bacon
+Hot Pumpkin Pie
+Boiled Egg
+Cheese
+White Mushroom
+Advanced Mushroom Stew
+Chicken Dinner
+Tomato
+Donut
+Raw Empowered Meat
+Empowered Meat
+Magic Meat
+Enriched Magic Meat
+Snowflake
+Ice Shards
+Ice Stone
+Rupee Ingot
+Arlemite Ingot
+Realmite Ingot
+Shadow Bar
+Hellstone Ingot
+Netherite Ingot
+Bloodgem
+Jungle Shards
+Divine Shards
+Corrupted Shards
+Molten Shards
+Ender Shards
+Forbidden Fruit
+Terran Shards
+Cyclops Eye Shards
+Corrupted Bullet
+Jungle Stone
+Divine Stone
+Corrupted Stone
+Molten Stone
+Ender Stone
+Terran Stone
+Healing Stone
+Shadow Stone
+Aquatic Ingot
+Aquatic Pellets
+Pure Aquatic Pellets
+Cyclops Eye
+Crab Claw
+Legendary Ender Eye
+Shark Fin
+Whale Fin
+Liopleurodon Skull
+Liopleurodon Teeth
+Netherite Chunk
+Bluefire Stone
+Purple Blaze
+Fury Fire
+Aqua Ball
+Aquatic Blaze Rod
+Shadow Coins
+Green Diamond Chunk
+Gray Diamond Chunk
+Blue Diamond Chunk
+Red Diamond Chunk
+Yellow Diamond Chunk
+Bucket of Tar
+Mysterious Clock
+Watching Eye
+Call of the Watcher
+Infernal Flame
+Horde Horn
+White Mushroom Seeds
+Tomato Seeds
+Kraken Skin

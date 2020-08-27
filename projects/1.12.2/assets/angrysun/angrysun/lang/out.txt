@@ -1,0 +1,4 @@
+Solar protection hood
+Solar protection cape
+Stitched reed
+Solar protection durability: %s

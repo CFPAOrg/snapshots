@@ -1,0 +1,94 @@
+Wolf dies
+Wolf growls
+Wolf hurts
+Wolf shakes
+Zombie groans
+Zombie dies
+Zombie hurts
+Zombie infects
+Zombie Horse cries
+Zombie Horse dies
+Zombie Horse hurts
+Zombie Pigman grunts
+Zombie Pigman angers
+Zombie Pigman dies
+Zombie Pigman hurts
+Zombie Villager groans
+Zombie vociferates
+Zombie snuffles
+Zombie Villager dies
+Zombie Villager hurts
+Gear equipped
+Chain armor jingles
+Diamond armor clangs
+Elytra rustles
+Gold armor clinks
+Iron armor clanks
+Leather armor rustles
+Bottle fills
+Bucket empties
+Bucket fills
+Player teleports
+Fireball whooshes
+Flint and Steel click
+Hoe tills
+Shears click
+Shield blocks
+Shovel flattens
+Totem activates
+Rain falls
+[Debug]:
+Reloading all chunks
+Hitboxes: shown
+Hitboxes: hidden
+Render Distance: %s
+Chunk borders: shown
+Chunk borders: hidden
+Advanced tooltips: shown
+Advanced tooltips: hidden
+Unable to switch gamemode, no permission
+Pause on lost focus: enabled
+Pause on lost focus: disabled
+Key bindings:
+Reloaded resource packs
+Downloading Resource Pack
+Making Request...
+Downloading file (%s MB)...
+Move with %s, %s, %s and %s
+Jump with %s
+Look around
+Use your mouse to turn
+Find a tree
+Punch it to collect wood
+Destroy the tree
+Hold down %s
+Open your inventory
+Press %s
+Craft wooden planks
+The recipe book can help
+Adventuring Time
+Discover every biome
+Monsters Hunted
+Kill one of every hostile monster
+Monster Hunter
+Kill any hostile monster
+Adventure
+Adventure, exploration and combat
+Take Aim
+Shoot something with a bow and arrow
+Sweet dreams
+Change your respawn point
+Sniper duel
+Kill a skeleton with an arrow from more than 50 meters
+What a Deal!
+Successfully trade with a Villager
+Hired Help
+Summon an Iron Golem to help defend a village
+Postmortal
+Use a Totem of Undying to cheat death
+Husbandry
+The world is full of friends and food
+The Parrots and the Bats
+Breed two animals together
+Two by Two
+Breed all the animals!

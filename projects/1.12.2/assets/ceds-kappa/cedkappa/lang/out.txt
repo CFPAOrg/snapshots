@@ -1,0 +1,12 @@
+Big Sharpaste
+Add a lot of damage
+Multiple Projectiles
+Send multiple projectiles in a cone
+Bleeding
+Adds bleeding damage
+Enchant/Disenchant
+Item is too damaged
+Invalid command usage.
+Bleeding
+%1$s died to bleeding injuries
+%1$s was shocked to death

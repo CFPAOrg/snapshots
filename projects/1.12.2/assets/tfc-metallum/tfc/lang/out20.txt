@@ -1,0 +1,103 @@
+Tuyere Lithium
+Lithium Lamp
+%s Lithium Lamp
+Lamp Lithium
+Pick Lithium
+Pick Head Lithium
+Shovel Lithium
+Shovel Head Lithium
+Axe Lithium
+Axe Head Lithium
+Hoe Lithium
+Hoe Head Lithium
+Chisel Lithium
+Chisel Head Lithium
+Sword Lithium
+Sword Blade Lithium
+Mace Lithium
+Mace Head Lithium
+Saw Lithium
+Saw Blade Lithium
+Javelin Lithium
+Javelin Head Lithium
+Hammer Lithium
+Hammer Head Lithium
+Propick Lithium
+Propick Head Lithium
+Knife Lithium
+Knife Blade Lithium
+Scythe Lithium
+Scythe Blade Lithium
+Shears Lithium
+Unfinished Chestplate Lithium
+Chestplate Lithium
+Unfinished Greaves Lithium
+Greaves Lithium
+Unfinished Boots Lithium
+Boots Lithium
+Unfinished Helmet Lithium
+Helmet Lithium
+Lithium Shield
+Molten Zirconium
+Zirconium Ingot
+Unshaped Zirconium
+Zirconium Double Ingot
+Double Ingot Zirconium
+Zirconium Scrap
+Scrap Zirconium
+Zirconium Dust
+Dust Zirconium
+Zirconium Nugget
+Nugget Zirconium
+Zirconium Sheet
+Sheet Zirconium
+Zirconium Double Sheet
+Double Sheet Zirconium
+Anvil Zirconium
+Zirconium Tuyere
+Tuyere Zirconium
+Zirconium Lamp
+%s Zirconium Lamp
+Lamp Zirconium
+Pick Zirconium
+Pick Head Zirconium
+Shovel Zirconium
+Shovel Head Zirconium
+Axe Zirconium
+Axe Head Zirconium
+Hoe Zirconium
+Hoe Head Zirconium
+Chisel Zirconium
+Chisel Head Zirconium
+Sword Zirconium
+Sword Blade Zirconium
+Mace Zirconium
+Mace Head Zirconium
+Saw Zirconium
+Saw Blade Zirconium
+Javelin Zirconium
+Javelin Head Zirconium
+Hammer Zirconium
+Hammer Head Zirconium
+Propick Zirconium
+Propick Head Zirconium
+Knife Zirconium
+Knife Blade Zirconium
+Scythe Zirconium
+Scythe Blade Zirconium
+Shears Zirconium
+Unfinished Chestplate Zirconium
+Chestplate Zirconium
+Unfinished Greaves Zirconium
+Greaves Zirconium
+Unfinished Boots Zirconium
+Boots Zirconium
+Unfinished Helmet Zirconium
+Helmet Zirconium
+Zirconium Shield
+Molten Zircaloy
+Zircaloy Ingot
+Unshaped Zircaloy
+Zircaloy Double Ingot
+Double Ingot Zircaloy
+Zircaloy Scrap

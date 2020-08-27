@@ -1,0 +1,83 @@
+Black Wool Stairs
+White Wool Stairs
+Gray Wool Stairs
+Cyan Terracotta Stairs
+Light Blue Terracotta Stairs
+Light Gray Terracotta Stairs
+Red Terracotta Stairs
+Orange Terracotta Stairs
+Yellow Terracotta Stairs
+Magenta Terracotta Stairs
+Pink Terracotta Stairs
+Purple Terracotta Stairs
+Lime Terracotta Stairs
+Green Terracotta Stairs
+Blue Terracotta Stairs
+Brown Terracotta Stairs
+Black Terracotta Stairs
+White Terracotta Stairs
+Gray Terracotta Stairs
+Cyan Stained Glass Slab
+Light Blue Stained Glass Slab
+Light Gray Stained Glass Slab
+Red Stained Glass Slab
+Orange Stained Glass Slab
+Yellow Stained Glass Slab
+Magenta Stained Glass Slab
+Pink Stained Glass Slab
+Purple Stained Glass Slab
+Lime Stained Glass Slab
+Green Stained Glass Slab
+Blue Stained Glass Slab
+Brown Stained Glass Slab
+Black Stained Glass Slab
+White Stained Glass Slab
+Gray Stained Glass Slab
+Cyan Concrete Powder Slab
+Light Blue Concrete Powder Slab
+Light Gray Concrete Powder Slab
+Red Concrete Powder Slab
+Orange Concrete Powder Slab
+Yellow Concrete Powder Slab
+Magenta Concrete Powder Slab
+Pink Concrete Powder Slab
+Purple Concrete Powder Slab
+Lime Concrete Powder Slab
+Green Concrete Powder Slab
+Blue Concrete Powder Slab
+Brown Concrete Powder Slab
+Black Concrete Powder Slab
+White Concrete Powder Slab
+Gray Concrete Powder Slab
+Cyan Concrete Slab
+Light Blue Concrete Slab
+Light Gray Concrete Slab
+Red Concrete Slab
+Orange Concrete Slab
+Yellow Concrete Slab
+Magenta Concrete Slab
+Pink Concrete Slab
+Purple Concrete Slab
+Lime Concrete Slab
+Green Concrete Slab
+Blue Concrete Slab
+Brown Concrete Slab
+Black Concrete Slab
+White Concrete Slab
+Gray Concrete Slab
+Cyan Wool Slab
+Light Blue Wool Slab
+Light Gray Wool Slab
+Red Wool Slab
+Orange Wool Slab
+Yellow Wool Slab
+Magenta Wool Slab
+Pink Wool Slab
+Purple Wool Slab
+Lime Wool Slab
+Green Wool Slab
+Blue Wool Slab
+Brown Wool Slab
+Black Wool Slab
+White Wool Slab
+Gray Wool Slab

@@ -1,0 +1,2 @@
+item.ObsidianShard.name
+tile.Obsidianore.name

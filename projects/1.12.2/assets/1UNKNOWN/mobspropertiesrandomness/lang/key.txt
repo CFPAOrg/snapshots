@@ -1,0 +1,3 @@
+mobspropertiesrandomness.reload_json
+mobspropertiesrandomness.json_reload_error
+mobspropertiesrandomness.json_count

@@ -1,0 +1,49 @@
+Depleted MTRISO-241 Fuel Pebble
+Depleted MOX-241 Fuel Pellet
+Depleted MNI-241 Fuel Pellet
+Depleted MZA-241 Fuel Pellet
+Depleted LEA-242 TRISO Fuel Pebble
+Depleted LEA-242 Oxide Fuel Pellet
+Depleted LEA-242 Nitride Fuel Pellet
+Depleted LEA-242-Zirconium Alloy Fuel Pellet
+Depleted HEA-242 TRISO Fuel Pebble
+Depleted HEA-242 Oxide Fuel Pellet
+Depleted HEA-242 Nitride Fuel Pellet
+Depleted HEA-242-Zirconium Alloy Fuel Pellet
+Depleted LECm-243 TRISO Fuel Pebble
+Depleted LECm-243 Oxide Fuel Pellet
+Depleted LECm-243 Nitride Fuel Pellet
+Depleted LECm-243-Zirconium Alloy Fuel Pellet
+Depleted HECm-243 TRISO Fuel Pebble
+Depleted HECm-243 Oxide Fuel Pellet
+Depleted HECm-243 Nitride Fuel Pellet
+Depleted HECm-243-Zirconium Alloy Fuel Pellet
+Depleted LECm-245 TRISO Fuel Pebble
+Depleted LECm-245 Oxide Fuel Pellet
+Depleted LECm-245 Nitride Fuel Pellet
+Depleted LECm-245-Zirconium Alloy Fuel Pellet
+Depleted HECm-245 TRISO Fuel Pebble
+Depleted HECm-245 Oxide Fuel Pellet
+Depleted HECm-245 Nitride Fuel Pellet
+Depleted HECm-245-Zirconium Alloy Fuel Pellet
+Depleted LECm-247 TRISO Fuel Pebble
+Depleted LECm-247 Oxide Fuel Pellet
+Depleted LECm-247 Nitride Fuel Pellet
+Depleted LECm-247-Zirconium Alloy Fuel Pellet
+Depleted HECm-247 TRISO Fuel Pebble
+Depleted HECm-247 Oxide Fuel Pellet
+Depleted HECm-247 Nitride Fuel Pellet
+Depleted HECm-247-Zirconium Alloy Fuel Pellet
+Depleted LEB-248 TRISO Fuel Pebble
+Depleted LEB-248 Oxide Fuel Pellet
+Depleted LEB-248 Nitride Fuel Pellet
+Depleted LEB-248-Zirconium Alloy Fuel Pellet
+Depleted HEB-248 TRISO Fuel Pebble
+Depleted HEB-248 Oxide Fuel Pellet
+Depleted HEB-248 Nitride Fuel Pellet
+Depleted HEB-248-Zirconium Alloy Fuel Pellet
+Depleted LECf-249 TRISO Fuel Pebble
+Depleted LECf-249 Oxide Fuel Pellet
+Depleted LECf-249 Nitride Fuel Pellet
+Depleted LECf-249-Zirconium Alloy Fuel Pellet
+Depleted HECf-249 TRISO Fuel Pebble

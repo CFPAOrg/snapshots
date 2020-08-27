@@ -1,0 +1,40 @@
+Damage scales with caster max mana for Beam
+Whether the damage is flat or scales with caster's 'level'
+Damage Acceleration Factor for Mystic Staff Beam
+The damage the beam does will be multiplied by this amount every second
+Mystic Staff Beam Block Limit Per Tick
+How many blocks the beam can break per tick. Lowering this will lessen lag when using the beam
+Mystic Staff Beam Volume Factor
+How loud the beam is
+Rho Aias Mana Cost
+This is the cost of using the scroll
+Rho Aias Kill List Range
+How far away Rho Aias will delete entities
+Rho Aias Kill List
+Entities which Rho Aias will delete if within range
+Rho Aias Collision Kill List
+Entities which Rho Aias will delete if colliding with.
+Rho Aias Kill List Debug Log
+Logs detected entities from the kill list, for debug only
+Rho Aias Only Boops Caster When Sneaking
+Whether Rho Aias boops all the time or just when caster sneaking
+Shared Pain Mana Cost
+This is the cost of using the scroll
+Borrowed Authority Mana Cost
+This is the cost of using the scroll
+Borrowed Authority Time
+This is how long the effect lasts (in ticks)
+Borrowed Authority Self Damage
+This is how much damage done to the player when attacking something
+Borrowed Authority Damage Other
+This is how much damaqe is done when the player hits something
+Borrowed Authority Slowdown Factor (Wall)
+This is the slowdown factor when a punched thing hits a wall. Lower is slower
+Borrowed Authority Slowdown Factor (Air)
+This is the slowdown factor when a punched thing is flying through the air normally. Lower is slower
+Borrowed Authority Speed Multiplier
+This is the multiplier for speed when the buff is active. Lower is slower
+Borrowed Authority Block Resistance Limit
+Blocks with higher than this resistance will not be broken. Set to 0 for no breaking.
+Cup Of Heaven Mana Cost
+This is multiplied by the square root of the area of the target network, and then multiplied by the sum of potion to get the mana cost.

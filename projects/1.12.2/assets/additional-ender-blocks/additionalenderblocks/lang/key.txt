@@ -1,0 +1,16 @@
+tile.additionalenderblocks.purpur_smooth.name
+tile.additionalenderblocks.purpur_tiles.name
+tile.additionalenderblocks.purpur_carved.name
+tile.additionalenderblocks.purpur_prismatic.name
+tile.additionalenderblocks.purpur_cobble.name
+tile.additionalenderblocks.smooth_end_stone.name
+tile.additionalenderblocks.end_brick_chorus.name
+tile.additionalenderblocks.end_brick_carved.name
+tile.additionalenderblocks.end_brick_cracked.name
+tile.additionalenderblocks.end_stone_carved.name
+tile.additionalenderblocks.end_brick_slab.name
+tile.additionalenderblocks.end_brick_stairs.name
+tile.additionalenderblocks.smooth_end_stone_slab.name
+tile.additionalenderblocks.smooth_end_stone_stairs.name
+item.additionalenderblocks.end_door_item.name
+tile.additionalenderblocks.end_trapdoor.name

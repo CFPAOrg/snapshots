@@ -1,0 +1,52 @@
+Fortitude increases your health as well as boosts health regeneration.
+Bonuses
+Melee Power
+Ranged Power
+Magical Power
+Attack Speed
+Armor
+Toughness
+Critical Chance
+Critical Damage
+Health
+HP5
+Mana
+MP5
+Dungeon Brick
+Boss Door
+Common Chest
+Uncommon Chest
+Rare Chest
+Epic Chest
+Legendary Loot Chest
+Common Jar
+Uncommon Jar
+Rare Jar
+Epic Jar
+Legendary Jar
+Common Barrel
+Uncommon Barrel
+Rare Barrel
+Epic Barrel
+Legendary Barrel
+Common Crate
+Uncommon Crate
+Rare Crate
+Epic Crate
+Legendary Crate
+Barbarian
+Ghost
+Mummy
+Spectral Knight
+Bandit
+Banshee
+Golem
+Corrupted Knight
+%1$s was frozen solid.
+%1$s was frozen solid by %2$s. Unfortunately, %1$s wasn't thawed out in time.
+%1$s was disintegrated by a stray lightning bolt.
+%1$s was blasted with lightning bolts by %2$s.
+%1$s might have eaten something bad for lunch...
+%2$s poisoned %1$s's lunch! %1$s didn't quite make it.
+Loot Slash Conquer
+Loot Slash Conquer - Development

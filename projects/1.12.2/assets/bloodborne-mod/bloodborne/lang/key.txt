@@ -1,0 +1,10 @@
+item.pistola.name
+entity.hunter.name
+item.sawspearextended.name
+item.saveclawerextended.name
+item.hunteraxealabard.name
+item.hunteraxe.name
+item.saveclawer.name
+tile.workbench.name
+item.shotgun.name
+item.sawspear.name

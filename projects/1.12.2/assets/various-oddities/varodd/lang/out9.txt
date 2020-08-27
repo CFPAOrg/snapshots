@@ -1,0 +1,101 @@
+Alarmed block at [%s, %s, %s] has been removed!
+Lock key set to %s
+The %s failed to open the lock
+Only operators can set a World Guard to affect itself.
+Ignore power:
+Deny breaking:
+Deny placing:
+Deny interactions:
+NONE
+ALL
+BLOCKS
+MOBS
+seconds
+Time Source
+Global
+Local
+Precise
+Signal Style
+Reset
+Toggling
+Incremental
+Pulsed
+Avoid placing on:
+NONE
+ENTITIES
+MOBS
+PLAYERS
+III
+IV
+V
+Anchored
+Arcane Sight
+Arrow Resistance
+Arrow Immunity
+Climbing
+Deafened
+Entangled
+Fall Immunity
+Fall Resistance
+Fire Resistance
+Magic Immunity
+Magic Resistance
+Petrified
+Petrifying
+Revealed
+Silenced
+Swim Boost
+Wither Immunity
+Wither Resistance
+Potion of Anchoring
+Potion of Arcane Sight
+Potion of Arrow Resistance
+Potion of Arrow Immunity
+Potion of Climbing
+Potion of Deafened
+Potion of Entangled
+Potion of Fall Immunity
+Potion of Fall Resistance
+Potion of Fire Resistance
+Potion of Haste
+Potion of Magic Immunity
+Potion of Magic Resistance
+Potion of Petrification
+Potion of Silencing
+Potion of Swim Boost
+Potion of Wither Immunity
+Potion of Wither Resistance
+Potion of Anchoring
+Potion of Arcane Sight
+Potion of Arrow Resistance
+Potion of Arrow Immunity
+Potion of Climbing
+Potion of Deafened
+Potion of Entangled
+Potion of Fall Immunity
+Potion of Fall Resistance
+Potion of Fire Resistance
+Potion of Magic Immunity
+Potion of Magic Resistance
+Potion of Petrification
+Potion of Silencing
+Potion of Swim Boost
+Potion of Wither Immunity
+Potion of Wither Resistance
+Potion of Healing III
+Potion of Arcane Sight
+Potion of Arrow Resistance
+Potion of Climbing
+Potion of Fall Resistance
+Potion of Fire Resistance
+Potion of Magic Resistance
+Potion of Swim Boost
+Potion of Wither Resistance
+Splash Potion of Anchoring
+Splash Potion of Arcane Sight
+Splash Potion of Arrow Resistance
+Splash Potion of Arrow Immunity
+Splash Potion of Climbing
+Splash Potion of Deafened
+Splash Potion of Entangled
+Splash Potion of Fall Immunity

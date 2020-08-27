@@ -1,0 +1,93 @@
+NovaBlocks
+Spacesuit helmet
+Spacesuit
+Spacesuit pants
+Spacesuit boots
+Wrenchammer
+Roof railing
+Roof walling
+Guard rail
+White concrete slab
+Double white concrete slab
+Black concrete slab
+Double black concrete slab
+Blue concrete slab
+Double blue concrete slab
+Orange concrete slab
+Double orange concrete slab
+Light blue concrete slab
+Double light Blue concrete slab
+Light gray concrete slab
+Double light gray concrete slab
+Red concrete slab
+Double red concrete slab
+Magenta concrete slab
+Double magenta concrete slab
+Green concrete slab
+Double green concrete slab
+Brown concrete slab
+Double brown concrete slab
+Yellow concrete slab
+Double yellow concrete slab
+Lime concrete slab
+Double lime concrete slab
+Cyan concrete slab
+Double cyan concrete slab
+Purple concrete slab
+Double purple concrete slab
+Gray concrete slab
+Double gray concrete slab
+Pink concrete slab
+Double pink concrete slab
+Hazard slab
+Double danger slab
+Oak log slab
+Double oak log slab
+Birch log slab
+Double birch log slab
+Spruce log slab
+Double spruce log slab
+Jungle log slab
+Double jungle log slab
+Acacia log slab
+Double acacia log slab
+Dark oak log slab
+Double dark oak log slab
+Stone slab
+Double stone slab
+Mossy stone bricks slab
+Double mossy stone bricks slab
+Cracked stone bricks slab
+Double cracked stone bricks slab
+Chiseled stone slab
+Double chiseled stone slab
+Coarse dirt slab
+Andesite slab
+Polished andesite slab
+Granite slab
+Polished granite slab
+Diorite slab
+Polished diorite slab
+Gravel slab
+Sand slab
+Red sand slab 
+Smooth sandstone slab
+Carved sandstone slab
+Red smooth sandstone slab
+Red carved sandstone slab 
+Mossy cobblestone slab
+Clay slab
+Netherrack slab
+Soulsand slab
+Red nether brick slab
+Endstone slab
+End brick slab
+Prismarine slab
+Prismarine brick slab
+Dark prismarine slab
+Bone slab
+Nether wart slab
+Hay slab
+Double coarse dirt slab
+Double andesite slab
+Double polished andesite slab

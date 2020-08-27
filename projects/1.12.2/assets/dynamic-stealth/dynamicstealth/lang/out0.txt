@@ -1,0 +1,62 @@
+% Visibility Reduction
+% Sight
+% Noise Reduction
+% Hearing
+% Scent Reduction
+% Smelling
+Soul Sight
+Potion of Soul Sight
+Splash Potion of Soul Sight
+Lingering Potion of Soul Sight
+Arrow of Soul Sight
+Potion of Blindness
+Splash Potion of Blindness
+Lingering Potion of Blindness
+Arrow of Blindness
+Potion of Glowing
+Splash Potion of Glowing
+Lingering Potion of Glowing
+Arrow of Glowing
+§dMakes server reload config from file
+§aServer reloaded DS config from file
+§eNote: The "reset to default" buttons for DS may be glitched until MC is restarted
+§eNote: Some things may not update correctly until server reset (but most things should update just fine)
+§dTrue is normal/default, false means the player can always see you
+§dShow whether or not you're attempting to hide from the player
+§dShow a list of players you are NOT attempting to hide from
+§aYou are currently attempting to hide from all players
+§eYou are currently NOT attempting to hide from...%s
+§aYou are currently attempting to hide from %s
+§eYou are currently NOT attempting to hide from %s
+§aYou are now attempting to hide from %s
+§eYou are now NOT attempting to hide from %s
+§cThird argument must be one of these: §dt, true, f, false
+§cEntity not found for UUID: %s
+§cEntity for UUID is not an EntityLivingBase: %s
+§cThreat amount must be from 0 to 100 (inclusive)
+HP: %s / %s (%s%%)
+???
+Action: %s
+Fleeing from %s
+Searching...
+Idle (Passive)
+Idle (Non-Passive)
+Targeting %s
+Dazed
+Threat: %s%%
+Threat: N/A
+Distance: %s
+Client Settings
+Server Settings
+HUD
+FILLSCREEN What information you want to have displayed on the screen
+Entity Fading
+FILLSCREEN How entities fade in and out, if at all
+Main HUD Style
+On-point HUD Filter
+On-point HUD Style
+Targeting Filter
+Targeting HUD Style
+Light Gauge
+Stealth Gauge Opacity
+FILLSCREEN FIXNEWLINES How visible the stealth gauge is, transparency-wise\n\n0 means invisible, 1 means completely opaque\n \n

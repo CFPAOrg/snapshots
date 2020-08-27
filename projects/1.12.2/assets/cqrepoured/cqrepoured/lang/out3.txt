@@ -1,0 +1,96 @@
+Heavy Diamond Helmet
+Heavy Diamond Chestplate
+Heavy Diamond Leggings
+Heavy Diamond Boots
+Heavy Iron Helmet
+Heavy Iron Chestplate
+Heavy Iron Leggings
+Heavy Iron Boots
+Dyable Iron Helmet
+Dyable Iron Chestplate
+Dyable Iron Leggings
+Dyable Iron Boots
+Dyable Diamond Helmet
+Dyable Diamond Chestplate
+Dyable Diamond Leggings
+Dyable Diamond Boots
+Exporter Block
+Spawner
+Null Block
+Unlit Torch
+Oak Table
+Spruce Table
+Birch Table
+Jungle Table
+Acacia Table
+Dark Oak Table
+Boss Block
+Force Field Nexus (NYI)
+Carved Andesite
+Andesite Pillar
+Andesite Cube
+Andesite Scale
+Andesite Square
+Small Andesite Bricks
+Large Andesite Bricks
+Carved Diorite
+Diorite Pillar
+Diorite Cube
+Diorite Scale
+Diorite Square
+Small Diorite Bricks
+Large Diorite Bricks
+Carved Granite
+Granite Pillar
+Granite Cube
+Granite Scale
+Granite Square
+Small Granite Bricks
+Large Granite Bricks
+Carved Prismarine
+Prismarine Pillar
+Prismarine Cube
+Prismarine Square
+Small Prismarine Bricks
+Large Prismarine Bricks
+Carved Endstone
+Endstone Pillar
+Endstone Cube
+Endstone Scale
+Endstone Square
+Small Endstone Bricks
+Carved Purpur
+Purpur Cube
+Purpur Scale
+Small Purpur Bricks
+Large Purpur Bricks
+Carved Red Netherbrick
+Red Netherbrick Pillar
+Red Netherbrick Cube
+Red Netherbrick Scale
+Red Netherbrick Square
+Large Red Netherbricks
+Stone Pillar
+Stone Cube
+Stone Scale
+Stone Square
+Small Stone Bricks
+Exporter Chest Treasure
+Exporter Chest Food
+Exporter Chest Equipment
+Exporter Chest Utility
+Exporter Chest - Village Blacksmith
+Exporter Chest - Bonus Chest
+Exporter Chest - Dungeon
+Exporter Chest - End City
+Exporter Chest - Igloo
+Exporter Chest - Jungle Chest
+Exporter Chest - Jungle Dispenser
+Exporter Chest - Woodland Mansion
+Exporter Chest - Mineshaft
+Exporter Chest - Nether Fortress
+Exporter Chest - Pyramid
+Exporter Chest - Stronghold Corridor
+Exporter Chest - Stronghold Library
+Exporter Chest - Stronghold Mine
+Exporter Chest - Custom 1

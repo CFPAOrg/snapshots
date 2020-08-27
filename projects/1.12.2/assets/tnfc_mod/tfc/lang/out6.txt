@@ -1,0 +1,95 @@
+Constantan Scrap
+Constantan Dust
+Constantan Nugget
+Constantan Sheet
+Constantan Double Sheet
+Constantan Tuyere
+Constantan Pickaxe
+Constantan Pickaxe Head
+Constantan Shovel
+Constantan Shovel Head
+Constantan Axe
+Constantan Axe Head
+Constantan Hoe
+Constantan Hoe Head
+Constantan Chisel
+Constantan Chisel Head
+Constantan Sword
+Constantan Sword Blade
+Constantan Mace
+Constantan Mace Head
+Constantan Saw
+Constantan Saw Blade
+Constantan Shears
+Constantan Shield
+Constantan Javelin
+Constantan Javelin Head
+Constantan Hammer
+Constantan Hammer Head
+Constantan Prospector's Pickaxe
+Constantan Prospector's Pickaxe Head
+Constantan Knife
+Constantan Knife Blade
+Constantan Scythe
+Constantan Scythe Blade
+Constantan Lamp
+%s Constantan Lamp
+Unshaped Constantan
+Constantan Chestplate
+Constantan Greaves
+Constantan Boots
+Constantan Helmet
+Unfinished Constantan Chestplate
+Unfinished Constantan Boots
+Unfinished Constantan Helmet
+Unfinished Constantan Greaves
+Constantan Anvil
+Electrum Ingot
+Electrum Double Ingot
+Electrum Scrap
+Electrum Dust
+Electrum Nugget
+Electrum Sheet
+Electrum Double Sheet
+Electrum Tuyere
+Electrum Pickaxe
+Electrum Pickaxe Head
+Electrum Shovel
+Electrum Shovel Head
+Electrum Axe
+Electrum Axe Head
+Electrum Hoe
+Electrum Hoe Head
+Electrum Chisel
+Electrum Chisel Head
+Electrum Sword
+Electrum Sword Blade
+Electrum Mace
+Electrum Mace Head
+Electrum Saw
+Electrum Saw Blade
+Electrum Shears
+Electrum Shield
+Electrum Javelin
+Electrum Javelin Head
+Electrum Hammer
+Electrum Hammer Head
+Electrum Prospector's Pickaxe
+Electrum Prospector's Pickaxe Head
+Electrum Knife
+Electrum Knife Blade
+Electrum Scythe
+Electrum Scythe Blade
+Electrum Lamp
+%s Electrum Lamp
+Unshaped Electrum
+Electrum Chestplate
+Electrum Greaves
+Electrum Boots
+Electrum Helmet
+Unfinished Electrum Chestplate
+Unfinished Electrum Boots
+Unfinished Electrum Helmet
+Unfinished Electrum Greaves
+Electrum Anvil
+Invar Ingot

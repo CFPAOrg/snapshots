@@ -1,0 +1,17 @@
+Placeholder start research
+Placeholde finish research
+Necromancer Cape
+Placeholder start research
+Placeholde finish research
+Terramorfer
+In your wanderings, you have met many different biomes: forest, savanna, tundra, desert, swamps and many other. You came up with the idea of creating a terramorfer that would allow you to change the biome to the one you want...
+It was not easy, but you could create it. The taumic terramorfer. Its principle of operation is very simple: Install the terraformer in the right place, install a special focus on it, which is responsible for selecting the biome and feeding the essence. Terramorfer will gradually change the surrounding area. The range of terramorfer is 16 blocks. Depending on the installed focus, the terramorfer needs different essences. <BR>Тaiga: Gelum<BR>Desert: Ignis<BR>Nether: Potentia<BR>Jungle: Herba<BR>Mushroom Island: Praecantatio<BR>Plains: Terra<BR>Ice Plains: Gelum<BR>Forest: Herba<BR>Swamp: Aqua<BR>Savanna: Bestia
+Alchemy
+After the successful development of a terramorfer, you got the idea of a little fun with alchemy. What will come of it?
+And it turned out much more than you thought. A pair of simple experiments and you can easily learn how to turn one matter into another! But does it have side effects?
+Adding a little Tenebrae it dawned on you that the darkness is also material. And it is quite useful.
+Adding a little Lux dawned on you that the light is also material. And even quite useful.
+Ageing Stone
+Sometimes, sitting for hours at the fireplace with a hot mug of tea, you wondered what time is, and whether it is possible to manage it locally. And one of these evenings, it seems, you have found a solution...
+Ageing stone. Now you do not have to wait long for the animal to grow. This block will accelerate the growth of animals in the 7x7x5 zone. And no side effects... It seems...
+Stone Extruder

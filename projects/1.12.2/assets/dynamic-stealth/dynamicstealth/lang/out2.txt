@@ -1,0 +1,20 @@
+Use Depth
+FILLSCREEN FIXNEWLINES If false, on-point HUDs will display on top of blocks and models, but below shadows (bit glitchy when overlapping shadows)\n\nIf true, on-point HUDs will display on top of shadows correctly, but at their position in-world, ie. they can be hidden behind blocks/models\n \n
+3D Vertical Percentage
+FILLSCREEN FIXNEWLINES 3D position height is <this setting * entity height + vertical offset>\n\nBasically, if you want to use the top of the head as the base position (and then add offsets), set this to 1\n\nAt the feet would be 0, and 0.5 would make the base position the 3D center of the entity\n \n
+Account For Sneaking
+FILLSCREEN FIXNEWLINES If set to true, vertical position is shifted down a bit when the entity is sneaking, similar to default nameplate behavior\n \n
+3D Vertical Offset
+FILLSCREEN FIXNEWLINES 3D position height is <vertical percentage * entity height + this setting>\n\nSo if you want the 3D position to be half a  block above the head (synced with nameplate), set vertical percentage to 1, and this setting to 0.5\n \n
+3D Horizontal Percentage
+FILLSCREEN FIXNEWLINES This setting alters the horizontal 3D position *after* rotation happens\n\nIf you set this to 0.5, it will be centered on the left side of the entity, and -0.5 will be centered on the right\n \n
+2D Horizontal Offset
+FILLSCREEN FIXNEWLINES Slides the indicator left and right in relation to your screen\n \n
+2D Vertical Offset
+FILLSCREEN FIXNEWLINES Slides the indicator up and down in relation to your screen\n \n
+Scale
+FILLSCREEN FIXNEWLINES The scale of the indicator itself; how big the indicator is\n \n
+Max Distance
+FILLSCREEN FIXNEWLINES The maximum distance at which the targeting system will acquire a target\n \n
+Max Angle
+FILLSCREEN FIXNEWLINES The maximum angle at which the targeting system will acquire a target\nIf set to -1, targeting is disabled\n \n

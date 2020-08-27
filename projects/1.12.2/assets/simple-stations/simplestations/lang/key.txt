@@ -1,0 +1,3 @@
+tile.simplestations.simplecraftingtable.name
+gui.simplecraftingstation
+item.simple_crafting_station.desc

@@ -1,0 +1,124 @@
+Vanilla Changes
+GUI IDs
+Entity IDs
+Power Modification
+Ores
+Quartz
+Limestone
+Marble
+Cluster Size
+Chance to Generate
+Maximum Y
+Minimum Y
+Coal Generator
+Solar Generator
+Iron Builder
+Redstone Capacitor
+Crusher
+Sand Sifter
+Crafting Tablet
+Block Placer
+Obsidian Anvil
+Coal Generator Small Fuel Output
+Coal Generator Large Fuel Output
+Solar Generator Output
+Iron Builder Power Requirement
+Redstone Capacitor Input from Redstone
+Cable Transfer Distance
+Redstone Capacitor Storage
+Crusher Power Usage
+Sifter Power Usage
+Protect End Blocks
+Smelt Rotten Flesh
+Craft Notch Apple
+Craft String
+Stack Upsizer
+Anti-Trample
+Extra Stairs
+Classic Attacking
+No Potion Shift
+Client
+Client
+Capes
+Capes
+Capes
+Snow Buildup
+Piston Push Limit
+Dynamic Lighting
+1.13 Swimming
+Better Item Sorting
+GUI IDs
+Entity IDs
+%1$s coughed to death
+%1$s was crushed to death
+Quartz
+Obsidian Ingot
+Kiln Brick
+Redstone Plate
+Sap Ball
+Wood Gear
+Stone Gear
+Gold Gear
+Iron Gear
+Redstone Gear
+Obsidian Gear
+Enderium Gear
+Gold Plate
+Iron Plate
+Obsidian Plate
+Enderium Plate
+§9Gear Blueprint§r
+§9Ingot Blueprint§r
+§9Blueprint§r
+Quartz
+§4Ingot Press§r
+§4Block Press§r
+§4Press§r
+§4Plate Press§r
+§eBlock Cast§r
+§eIngot Cast§r
+§eNugget Cast§r
+§eSword Cast§r
+§ePickaxe Cast§r
+§eAxe Cast§r
+§eShovel Cast§r
+§eHoe Cast§r
+§eBucket Cast§r
+§eShear Cast§r
+§eBoots Cast§r
+§eLeggings Cast§r
+§eChestplate Cast§r
+§eHelmet Cast§r
+§eHorse Armor Cast§r
+§eCast§r
+Obsidian Boat
+Obsidian Sword
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Axe
+Obsidian Hoe
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Miner's Helmet
+Sand Dust
+Hammer
+Quiver
+Wrench
+Crafting Tablet
+Green Apple
+Seagrass
+Ender Pouch
+Redstone Wand
+Minecart with Ender Chest
+Piece of Cake
+Slices: %s
+Black Shield Pattern
+Red Shield Pattern
+Green Shield Pattern
+Brown Shield Pattern
+Blue Shield Pattern
+Purple Shield Pattern
+Cyan Shield Pattern
+Silver Shield Pattern

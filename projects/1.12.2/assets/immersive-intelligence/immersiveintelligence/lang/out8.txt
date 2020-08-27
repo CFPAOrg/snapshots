@@ -1,0 +1,13 @@
+Printing Press
+The Engineer's Book & Quill
+The Printing Press is a machine which can print out text on demand when it receives a data packet. The Press requires ink and paper to operate. To form it, use a hammer on the light engineering block in front of the machine.
+ The printing paper is a special thinned version of a standard one used in books, it is created by pressing a paper in a metal press. Machine requires different ink colors, depending on the CMYK values of the currently printed color.
+amount of inks depending on the color of currently printed character. Outputted printed pages should be removed immediately, as the press can only store 12 of them in its basket.
+String 't' - output type (text/construction/code)<br>Integer c - amount of copies<br>String 's' - text to print (if using the mode "text")<br>
+Data Input Machine
+The Input Outputter
+The Data Input Machine is an electronic device which consists of a wooden desk with a keyboard on top and a steel machine casing. A user can input data into it and send it by applying a redstone signal. After sending a data packet, the variables remain there and the machine can be used again. To operate, the device requires electricity. To form it use a hammer on the light engineering block to the left.
+The machine's interface consists of two parts. The storage part which is used to store punchtapes with data written on them and the data part. A punchtape can be inserted into a slot to read it (if the punchtape is written) or to write the machine's data packet into it (when the punchtape is empty). In the data section, variables can be added by using the '+' button. Then they can be edited or removed (hold shift). When editing the
+Arithmetic-Logic Machine
+Does Quick Maths
+The Arithmetic-Logic Machine is an electronic device, which primary task is to process and modify data. It requires energy and to operate.

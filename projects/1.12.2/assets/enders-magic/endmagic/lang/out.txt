@@ -1,0 +1,14 @@
+Teleporter Top
+This device is used to contain and channel any teleporter block's power, keeping it from dissipating back into the universe. It must be placed above a teleporter block, or the arcane power will not coalesce correctly.
+Ender Grass
+This grass is found on the upper edge of the End, growing sparse and occassionally dropping Purple Pearls. The grass has a strange relationship with the Ender Orchid, often leading astray those who seek the secrets of Enderite.
+Ender Orchid
+Thse beautiful and exotic flowers are often powered by the strange properties of Ender Ore. They often sproud above veins of the ore. But they also have a mysterious connection with the Ender Grass, fooling would-be explorers and keeping them from the real Ender Ore prize.
+Purple Ender Sprout
+This plant cannot survive direct sunlight. It prefers the dark and quiet, providing its seeds only when it deems the seeker fit to obtain them.
+Curse Bush
+There is a reason the Ender Dragon does not stray beyond his primary island. These can grow in the outer darkness of the End, and do not wish to be disturbed. They will not take kindly to intruders.
+Compressing Ender Diamonds
+You can create unique diamonds using the charcoals of trees in the end. Place a block of the charcoal right next to TNT, and surround both of them with obsidian on all sides. Then set off the TNT with a redstone signal to compress the charcoal into a diamond.
+Teleporter Construction
+Construction of either kind of teleporter has similar requirements. The Static and Dark Teleporters must both have a block placed on their North, South, East, West, and bottom faces, all of those blocks being of the same material. Then the Teleporter Top must be directly above the teleporters, with blocks of the same material on its North, South, East, West, and top faces. A Teleportation Binder is used to link the Static Teleporter with its destination Bone Block, or Dark Teleporter with another Dark Teleporter. When a redstone signal is applied, whatever is standing on the teleporter will be sent to the linked destination.

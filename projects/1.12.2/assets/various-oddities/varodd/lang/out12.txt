@@ -1,0 +1,41 @@
+No Types
+%s
+(%s)
+Types
+Properties
+Sit
+Become a Statue
+Petrified
+You have turned to stone.
+Revert to Normal
+CR %s
+The %s faction is now %s towards you
+%s was dissolved by acid
+%s froze to death
+%s was consumed by evil
+%s experience physics
+%s was cleansed by the divine
+%s died of a terrible sound
+%s died.
+%s was disintegrated
+%s turned to stone
+A somewhat adorable subterranean nuisance.
+An ancient construct assembled by hell itself and imbued with all its flame.
+Though smaller than its common relatives, this species compensates with a toxic venom.
+As wise as they are durable, these fowl creatures are mostly used as a self-replenishing food source.
+A typical farm animal, used as a source of milk, leather, etc.
+A creature composed of rustling vines known for its explosive pollination method.
+The traveler's faithful companion since time immemoriam.
+The twisted head of a lost priesthood, it viciously defends all that remains of its dwelling.
+That which subjugated and consumed the life of a plane, leaving only dominated shadows behind.
+Once, they were a civilisation. Now, they are only bestial reflections of themselves, enslaved to another's will.
+Sometimes when you crinkle physical space, something else pops out with you.
+Villagers who dabble in villainous magics are swiftly relegated to their cloaked mansions.
+A mixture of noxious vapour and damned souls, it wanders weeping for all eternity.
+Legend tells of a nation that fell into the sea, where the prideful clergy were made wardens of the ruins.
+A loyal and trustworthy steed.
+The dessicated remains of an explorer who died in searing heat.
+A tool of the Villagers, it fiercely fends off attacks on their settlements.
+The traveler's significantly ruder companion.
+Proof that even in the bowels of the underworld, life can find a way.
+A common cow afflicted with a virulent parasitic fungus, though it seems okay with it.

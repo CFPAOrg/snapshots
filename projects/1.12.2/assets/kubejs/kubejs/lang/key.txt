@@ -1,0 +1,3 @@
+commands.kubejs.usage
+commands.kubejs.reload.usage
+commands.kubejs.docs.usage

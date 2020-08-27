@@ -1,0 +1,8 @@
+reskillable.unlock.attributes.damagebuff
+reskillable.unlock.attributes.damagebuff.desc
+reskillable.unlock.attributes.resistancebuff
+reskillable.unlock.attributes.resistancebuff.desc
+reskillable.unlock.attributes.miningbuff
+reskillable.unlock.attributes.miningbuff.desc
+reskillable.unlock.attributes.adaptation
+reskillable.unlock.attributes.adaptation.desc

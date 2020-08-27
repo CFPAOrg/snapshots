@@ -1,0 +1,87 @@
+Colored Redstone Dust (%1$s)
+Block of Colored Redstone (%1$s)
+Colored Redstone Torch (%1$s)
+Colored Redstone Repeater (%1$s)
+Colored Redstone Comparator (%1$s)
+Colored Redstone Lamp (%1$s)
+RED
+BLACK
+GREEN
+BROWN
+BLUE
+PURPLE
+CYAN
+LIGHT GRAY
+GRAY
+PINK
+LIME
+YELLOW
+LIGHT BLUE
+MAGENTA
+ORANGE
+WHITE
+Waterproof!
+Despawn-proof!
+Fireproof!
+Explosion-proof!
+Cactus-proof!
+Burnable!
+Slimy!
+Withering!
+Sluggish!
+Speedy!
+Healthy!
+Alienated!
+Fishy!
+Soft!
+Edible!
+Colored Redstone Configuration
+Colored names/tooltips
+In-world recoloring
+Colored Properties
+Waterproof
+Despawn-proof
+Fireproof
+Explosion-proof
+Cactus-proof
+Burnable
+Burnable - Burning time
+Burnable - Catch fire
+Slimy
+Slimy - Spawn chance
+Withering
+Withering - Chance
+Withering - Duration
+Sluggish
+Sluggish - Chance
+Sluggish - Duration
+Speedy
+Speedy - Chance
+Speedy - Duration
+Healthy
+Healthy - Chance
+Healthy - Duration
+Alienated
+Alienated - Chance
+Fishy
+Fishy - Chance
+Soft
+Soft - Damage reduction
+Edible
+Edible - Hunger points
+Edible - Saturation points
+Edible - Saturation chance
+Edible - Saturation duration
+Edible - Nausea chance
+Edible - Nausea duration
+Mods Integration
+Chisel
+Albedo
+Colored Redstone Blocks
+Colored Redstone Torches
+Colored Redstone Lamps
+Light level of powered Colored Redstone Lamp strictly depends on the strength of provided redstone signal. For example, redstone signal of 15 gives light level 15 and redstone signal of 8 gives light level of 8.
+Redstone dust/wire can be recolored to any other color by using redstone dust and dye in crafting table or in-world without breaking actual block.
+Redstone block can be recolored to any other color by using redstone block and dye in crafting table or in-world without breaking actual block.
+Redstone torch can be recolored to any other color by using redstone torch and dye in crafting table or in-world without breaking actual block.
+Redstone repeater can be recolored to any other color by using redstone repeater and dye in crafting table or in-world without breaking actual block.

@@ -1,0 +1,120 @@
+Damascus Steel Pickaxe
+Damascus Steel Shovel
+Damascus Steel Sword
+Deep Iron Axe
+Deep Iron Hoe
+Deep Iron Pickaxe
+Deep Iron Shovel
+Deep Iron Sword
+Desichalkos Axe
+Desichalkos Hoe
+Desichalkos Pickaxe
+Desichalkos Shovel
+Desichalkos Sword
+Electrum Axe
+Electrum Hoe
+Electrum Pickaxe
+Electrum Shovel
+Electrum Sword
+Etherium Axe
+Etherium Hoe
+Etherium Pickaxe
+Etherium Shovel
+Etherium Sword
+Eximite Axe
+Eximite Hoe
+Eximite Pickaxe
+Eximite Shovel
+Eximite Sword
+Haderoth Axe
+Haderoth Hoe
+Haderoth Pickaxe
+Haderoth Shovel
+Haderoth Sword
+Hepatizon Axe
+Hepatizon Hoe
+Hepatizon Pickaxe
+Hepatizon Shovel
+Hepatizon Sword
+Ignatius Axe
+Ignatius Hoe
+Ignatius Pickaxe
+Ignatius Shovel
+Ignatius Sword
+Inolashite Axe
+Inolashite Hoe
+Inolashite Pickaxe
+Inolashite Shovel
+Inolashite Sword
+Kalendrite Axe
+Kalendrite Hoe
+Kalendrite Pickaxe
+Kalendrite Shovel
+Kalendrite Sword
+Krik Axe
+Krik Hoe
+Krik Pickaxe
+Krik Shovel
+Krik Sword
+Midasium Axe
+Midasium Hoe
+Midasium Pickaxe
+Midasium Shovel
+Midasium Sword
+Mithril Axe
+Mithril Hoe
+Mithril Pickaxe
+Mithril Shovel
+Mithril Sword
+Orichalcum Axe
+Orichalcum Hoe
+Orichalcum Pickaxe
+Orichalcum Shovel
+Orichalcum Sword
+Oureclase Axe
+Oureclase Hoe
+Oureclase Pickaxe
+Oureclase Shovel
+Oureclase Sword
+Platinum Axe
+Platinum Hoe
+Platinum Pickaxe
+Platinum Shovel
+Platinum Sword
+Prometheum Axe
+Prometheum Hoe
+Prometheum Pickaxe
+Prometheum Shovel
+Prometheum Sword
+Quicksilver Axe
+Quicksilver Hoe
+Quicksilver Pickaxe
+Quicksilver Shovel
+Quicksilver Sword
+Sanguinite Axe
+Sanguinite Hoe
+Sanguinite Pickaxe
+Sanguinite Shovel
+Sanguinite Sword
+Shadow Iron Axe
+Shadow Iron Hoe
+Shadow Iron Pickaxe
+Shadow Iron Shovel
+Shadow Iron Sword
+Shadow Steel Axe
+Shadow Steel Hoe
+Shadow Steel Pickaxe
+Shadow Steel Shovel
+Shadow Steel Sword
+Silver Axe
+Silver Hoe
+Silver Pickaxe
+Silver Shovel
+Silver Sword
+Steel Axe
+Steel Hoe
+Steel Pickaxe
+Steel Shovel
+Steel Sword
+Tartarite Axe
+Tartarite Hoe

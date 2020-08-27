@@ -1,0 +1,108 @@
+Ice And Fire Items
+Ice And Fire Blocks
+Empty
+Lectern
+Podium
+Oak Podium
+Spruce Podium
+Birch Podium
+Jungle Podium
+Acacia Podium
+Dark Oak Podium
+Fire Lily
+Frost Lily
+Pile of Gold
+Pile of Silver
+Silver Ore
+Sapphire Ore
+Silver Block
+Sapphire Block
+Charred Dirt
+Charred Grass
+Charred Stone
+Charred Cobblestone
+Charred Gravel
+Charred Grass Path
+Ash
+Frozen Dirt
+Frozen Grass
+Frozen Stone
+Frozen Cobblestone
+Frozen Gravel
+Frozen Grass Path
+Frozen Splinters
+Dragon Ice
+Dragon Ice Spikes
+Frozen Dragon Egg
+Brown Mushroom Pixie Hovel
+Red Mushroom Pixie Hovel
+Birch Pixie Hovel
+Oak Pixie Hovel
+Dark Oak Pixie Hovel
+Spruce Pixie Hovel
+Jar
+Pixie Jar
+Pink Pixie Jar
+Purple Pixie Jar
+Blue Pixie Jar
+Green Pixie Jar
+Yellow Pixie Jar
+Dragon Nest
+Block of Dragon Scales
+Block of Dragon Bones
+Dragon Bone Wall
+Block of Sea Serpent Scales
+Dragonforge Fire Brick
+Dragonforge Fire Core
+Dragonforge Fire Aperture
+Dragonforge Ice Brick
+Dragonforge Ice Core
+Dragonforge Ice Aperture
+Block of Fire Dragonsteel
+Block of Ice Dragonsteel
+Desert Myrmex Resin
+Sticky Desert Myrmex Resin
+Jungle Myrmex Resin
+Sticky Jungle Myrmex Resin
+Desert Myrmex Cocoon
+Jungle Myrmex Cocoon
+Desert Myrmex Bioluminescence
+Jungle Myrmex Bioluminescence
+Hardened Desert Myrmex Resin
+Hardened Jungle Myrmex Resin
+Desert Myrmex Resin Glass
+Jungle Myrmex Resin Glass
+Dreadstone
+Dreadstone Bricks
+Chiseled Dreadstone Bricks
+Cracked Dreadstone Bricks
+Mossy Dreadstone Bricks
+Dreadstone Chiseled Skull
+Dreadstone Tile
+Dreadstone Torch
+Burnt Out Torch
+Dreadstone Bricks Slab
+Dreadstone Bricks Stairs
+Dreadwood Log
+Dreadwood Planks
+Dreadwood Keyhole
+Dread Lands Portal
+Dreadstone Mob Spawner
+Bestiary
+Manuscript
+Sapphire
+Silver Ingot
+Silver Nugget
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Silver Pickaxe
+Silver Sword
+Silver Axe
+Silver Shovel
+Silver Hoe
+Fire Lily Mixture
+Frost Lily Mixture
+Dragon Egg
+Dragon Scales

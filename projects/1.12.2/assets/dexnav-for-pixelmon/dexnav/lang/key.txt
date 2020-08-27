@@ -1,0 +1,10 @@
+item.dexnav:dexnav.name
+dexnav.pokecheck.0
+dexnav.pokecheck.1
+dexnav.pokecheck.2
+dexnav.pokecheck.3
+dexnav.pokecheck.4
+dexnav.3star
+dexnav.2star
+dexnav.1star
+dexnav.0star

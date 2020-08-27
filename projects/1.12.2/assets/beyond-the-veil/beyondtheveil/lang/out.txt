@@ -1,0 +1,19 @@
+Summon a Surgeon.
+None
+The Great Dreamer
+Default
+Penitence
+Sacrifice
+The Power requires %1$s more seconds of cooldown.
+The Bauble requires %1$s more seconds of cooldown.
+The Roar requires %1$s more seconds of cooldown.
+My current position has been set as my return point.
+I must be in water to use this Power.
+My last return point was in a different dimension. Using this Power again in the next 20 seconds will remove the return point.
+My return point has been reset.
+A new book lies in my hands, ready to be written. Al Azif I shall call it.
+A fish? From nowhere? Did it jump in or...          ...I should keep at this for a while.
+I think I've gained enough fish. I should eat enough slugs, then commune with the Idol.
+I cannot sleep while transformed.
+I don't feel all too well.. I can't sleep.
+Beyond The Veil

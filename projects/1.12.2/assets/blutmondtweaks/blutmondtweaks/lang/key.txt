@@ -1,0 +1,8 @@
+item.ingot_vibranium.name
+tile.block_vibranium.name
+tile.ore_vibranium.name
+fluid.vibranium.name
+fluid.draconium.name
+fluid.awkended_draconium.name
+fuild.uranium.name
+material.vibranium.name

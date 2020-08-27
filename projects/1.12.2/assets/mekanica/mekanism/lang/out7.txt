@@ -1,0 +1,19 @@
+A filter-based, advanced sorting machine that can auto-eject specified items out of and into adjacent inventories and Logistical Transporters.
+A machine capable of converting gasses into their fluid form and vice versa.
+An elite machine capable of processing ores into four shards, serving as the initial stage of 400% ore processing.
+A machine that uses the process of electrolysis to split apart a certain gas into two different gasses.
+A machine used to process logs and other wood-based items more efficiently, as well as to obtain sawdust.
+An ultimate machine used to chemically dissolve all impurities of an ore, leaving an unprocessed slurry behind.
+An ultimate machine that cleans unprocessed slurry and prepares it for crystallization.
+An ultimate machine used to crystallize purified ore slurry into ore crystals.
+A machine capable of oxidizing solid materials into gas phase.
+A machine that produces a new gas by infusing two others.
+A machine that uses seismic vibrations to provide information on differing layers of the world.
+An advanced machine that processes a solid, liquid and gaseous mixture and creates both a gaseous and solid product.
+A handy, sturdy, portable tank that lets you carry multiple buckets of fluid wherever you please. Also doubles as a bucket!
+A machine that is capable of creating entire lakes by filling ravines with fluids.
+An advanced form of linear energy transfer that utilizes an extremely collimated beam of light.
+A block that can be used to merge, redirect and amplify laser beams, with fine controls over when to fire.
+A block used to merge and redirect laser beams. Collects drops from blocks it has broken.
+A machine that directs the neutron radiation of the sun into its internal reservoir, allowing for the slow creation of various isotopes.
+A machine used to unify and translate between various items and blocks using the Ore Dictionary.

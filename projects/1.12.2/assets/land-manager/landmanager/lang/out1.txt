@@ -1,0 +1,40 @@
+§7New claim request (%s) from %s for area %s
+Use "/lm members <subcommand>"
+Use "/lm members add <areaName> <playerName>" to add the player to the area
+%s was successfully added to area %s
+%s is already a member of area %s
+Use "/lm members remove <areaName> <playerName>" to remove the player from the area
+%s was successfully remove from area %s
+%s already isn't a member of area %s
+Use "/lm myareas [page] [areaNameRegex]" to list all your areas, optionally with a regex filter
+No areas found
+My Areas - Page %s / %s
+Use "/lm setowner <areaName> [playerName]" to set the player as the new owner of the area. OPs can provide no player to remove the owner
+You must be an OP or owner of the area to use this command
+The new owner of the area %s is %s
+Use "/lm show [areaName]". Providing no area will show all areas nearby
+Now showing area %s
+Use "/lm showoff"
+Not showing any areas
+Use "/lm op <subcommand>"
+Use "/lm op approve <requestId>" to approve a claim request. Check for requests using the 'requests' command
+No request with id %s
+Area %s does not exist
+Approved request %s - %s is now the owner of area %s
+Your request for area %s has been approved by %s!
+Use "/lm op delete <areaName>" to delete an area
+Deleted area %s
+Failed to delete area %s
+The area %s that you were a member of has been deleted!
+Use "/lm op disapprove <requestId>" to disapprove a claim request. Check for requests using the 'requests' command
+No request with id %s
+Area %s does not exist
+Disapproved request %s from %s for area %s
+Your request for area %s has been disapproved by %s!
+Use "/lm op requests [page] [areaNameRegex]". You can display requests for an area without providing the page
+No requests found
+Requests - Page %s / %s
+Approve request %s
+Disapprove request %s
+Use "/lm explosions <areaName>" to toggle explosion damage
+Use "/lm op explosions <areaName>" to toggle explosion damage

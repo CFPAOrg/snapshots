@@ -1,0 +1,70 @@
+Parcel Post
+Huron
+Mirkwood Spider
+Mountain Goblin
+Mordor Orc
+Warg
+Hobbit
+Mumakil
+Crebain
+Cave Troll
+Uruk Hai
+Barrow Wight
+Balrog
+Dwarf
+Human
+Elf
+Kine of Araw
+Goat
+Tree Ent
+Smeagol
+Frog
+Murder Frog
+Society Squirrel
+Witch-king of Angmar
+Fell Beast
+Nazgul
+Oath Breaker
+Midge Flies
+Thrush
+Gwaihir
+Great Eagle
+Chest
+Minotaur
+Rat
+Brigand
+Fell Spirit
+Great Golem
+Great Golem of §eAir
+Great Golem of §2Earth
+Great Golem of §4Fire
+Great Golem of §9Water
+Legendary §bMithril§r Golem
+Legendary §8Morgul§r Golem
+Stone Golem
+Watcher in the Water
+Swamp Hag
+Haradrim
+Duergar
+Goblin King
+Deep Claw
+Infected Walker
+Shelob
+Coin Banker
+Grocer
+Pet Supplies
+Junk Dealer
+TolkienTweaks Tools
+TolkienTweaks Materials & World Gen
+TolkienTweaks Mobs
+TolkienTweaks Food
+TolkienTweaks Quest
+TolkienTweaks Signs
+Middle-earth
+Adventure in the lands of Middle-earth
+Arda - Single Biome
+Used to test a single biome in Dev
+Mithril
+Morgul Iron
+Molten Mithril
+Molten Morgul Iron

@@ -1,0 +1,32 @@
+Orechid Vacuam
+Empty on the inside
+Orechid Vacuam
+Creates end ores from end stone
+The &1Orechid&0 is a great flower. The ability to create raw ores with &4Mana&0 can be a great boon to any sedentary botanist's life. It, however, can't create ores from the &4End&0. Getting that sorted out is easy, by switching the petals a bit, it'll create &4End&0 ores in &1End Stone&0 instead. The flower must be in the &4End&0 to work.
+&oWhy is there so much emptiness?&r.
+Polished White Sandstone
+White Sandstone Bricks
+Polished White Sandstone Slab
+Polished White Sandstone Slab
+White Sandstone Brick Slab
+White Sandstone Brick Slab
+White Sandstone Brick Stairs
+White Sandstone Wall
+White Sandstone Wall
+MIA encountered an error
+Please report it to MIA dev
+Don't automatically play other songs when this one finishes
+Automatically play the next song
+Always play songs in order
+Randomly pick the next song
+Play the next song when the current one finishes
+Repeat current song when it finishes
+(Autoplay needs to be on)
+Can't play music due to volume being disabled
+Slowly changes your size until you reach half of your normal size. After reaching that size, it allows you to climb and glide like you were smaller.
+Music Player
+Open music player GUI
+Play/stop playing song
+Play next song
+Play previous song
+Chance: %s%%

@@ -1,0 +1,5 @@
+key.mcreator.hinkam
+item.blades.name
+item.hikoblade.name
+itemGroup.tabtab
+item.broken.name

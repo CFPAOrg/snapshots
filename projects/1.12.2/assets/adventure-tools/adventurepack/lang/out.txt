@@ -1,0 +1,8 @@
+Escape Rope
+Flashlight
+Ender Lantern
+Mining Lantern
+Mining Helmet
+Explorer's Hat
+Cowboy Hat
+ Adventure Tools Config

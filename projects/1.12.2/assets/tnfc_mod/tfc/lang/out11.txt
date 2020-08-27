@@ -1,0 +1,116 @@
+Cobalt
+Constantan
+Electrum
+Invar
+Titanium
+Manyullyn
+Osmium
+Tungsten
+Tungsten Steel
+Nickel Silver
+Red Alloy
+Thorium
+Molten Antimony
+Molten Constantan
+Molten Electrum
+Molten Mithril
+Molten Invar
+Molten Aluminum
+Molten Aluminum Brass
+Molten Ardite
+Molten Cobalt
+Molten Manyullyn
+Molten Osmium
+Molten Titanium
+Molten Tungsten
+Molten Tungsten Steel
+Molten Nickel Silver
+Molten Red Alloy
+Raw Aluminum Bloom
+Refined Aluminum Bloom
+Raw Ardite Bloom
+Refined Ardite Bloom
+Raw Cobalt Bloom
+Refined Cobalt Bloom
+Stibnite
+Surface Stibnite
+Cobaltite
+Wolframite
+Bauxite
+Native Osmium
+Ardite
+Thorianite
+Surface Thorianite
+Chromite
+Pyrolusite
+Magnesite
+Spodumene
+Rutile
+Boron
+Molten Thorium
+Thorium Ingot
+Unshaped Thorium
+Thorium Double Ingot
+Double Ingot Thorium
+Thorium Scrap
+Scrap Thorium
+Thorium Dust
+Dust Thorium
+Thorium Nugget
+Nugget Thorium
+Thorium Sheet
+Sheet Thorium
+Thorium Double Sheet
+Double Sheet Thorium
+Anvil Thorium
+Thorium Tuyere
+Tuyere Thorium
+Thorium Lamp
+%s Thorium Lamp
+Lamp Thorium
+Pick Thorium
+Pick Head Thorium
+Shovel Thorium
+Shovel Head Thorium
+Axe Thorium
+Axe Head Thorium
+Hoe Thorium
+Hoe Head Thorium
+Chisel Thorium
+Chisel Head Thorium
+Sword Thorium
+Sword Blade Thorium
+Mace Thorium
+Mace Head Thorium
+Saw Thorium
+Saw Blade Thorium
+Javelin Thorium
+Javelin Head Thorium
+Hammer Thorium
+Hammer Head Thorium
+Propick Thorium
+Propick Head Thorium
+Knife Thorium
+Knife Blade Thorium
+Scythe Thorium
+Scythe Blade Thorium
+Shears Thorium
+Unfinished Chestplate Thorium
+Chestplate Thorium
+Unfinished Greaves Thorium
+Greaves Thorium
+Unfinished Boots Thorium
+Boots Thorium
+Unfinished Helmet Thorium
+Helmet Thorium
+Thorium Shield
+Raw Thorium Bloom
+Refined Thorium Bloom
+TNFC-Metallum
+TNFC-Metallum Mod Configuration
+Recipe Configuration
+Toggle advanced metals recipes on/off
+Ardite via Bloomery
+Register ardite recipe via bloomery?
+Aluminum via Bloomery
+Register aluminum recipe via bloomery?

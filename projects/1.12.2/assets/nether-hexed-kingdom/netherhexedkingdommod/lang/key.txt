@@ -1,0 +1,12 @@
+entity.nether_damned_guard.name
+tile.eternal_light.name
+tile.nether_deadstone.name
+tile.red_nether_brick_stairs.name
+tile.human_skeleton_top.name
+tile.human_skeleton_bottom.name
+tile.tile_stone_sword.name
+item.nether_helmet.name
+item.nether_chestplate.name
+item.nether_leggings.name
+item.nether_boots.name
+item.shield.nether_alloy_shield.name

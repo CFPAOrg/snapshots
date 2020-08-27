@@ -1,0 +1,143 @@
+DigiAnchovy
+DigiTrout
+DigiBlackTrout
+DigiSnapper
+DigiCatfish
+DigiSeaBass
+Red Berry
+Blue Apple
+Calm Berry
+Muscle Yam
+Chain Melon
+Red Card
+Chrondigizoit
+Red Digizoid Axe
+Red Digizoid Shovel
+Red Digizoid Hoe
+Red Digizoid Pickaxe
+Red Digizoid Sword
+Blue Digizoid Axe
+Blue Digizoid Shovel
+Blue Digizoid Hoe
+Blue Digizoid Pickaxe
+Blue Digizoid Sword
+Gold Digizoid Axe
+Gold Digizoid Shovel
+Gold Digizoid Hoe
+Gold Digizoid Pickaxe
+Gold Digizoid Sword
+Black Digizoid Axe
+Black Digizoid Shovel
+Black Digizoid Hoe
+Black Digizoid Pickaxe
+Black Digizoid Sword
+Obsidian Digizoid Axe
+Obsidian Digizoid Shovel
+Obsidian Digizoid Hoe
+Obsidian Digizoid Pickaxe
+Obsidian Digizoid Sword
+White Brush
+Red Brush
+Blue Brush
+Green Brush
+Yellow Brush
+Orange Brush
+Magenta Brush
+Pink Brush
+Cyan Brush
+Gray Brush
+Silver Brush
+Brown Brush
+Ruby Brush
+Sapphire Brush
+Emerald Brush
+Gold Brush
+Aquamarine Brush
+Raspberry Brush
+Olive Brush
+Purple Brush
+Lime Brush
+Light Blue Brush
+Black Gear
+Miracle Fruit
+Digianchovy Pizza
+Big Berry Milkshake
+Blue Apple Pie
+GB&J
+Digikebab
+Digiplatter
+Digislaw
+Ebiburger
+Fruit Salad
+Golden Butter
+Green Smoothie
+Mixed Berry Jam
+Prickly Toast
+Rain Salad
+Red Berry Jam
+Red Smoothie
+Toast&Jam
+Digizoid Poi
+H-Spirit of Fire
+B-Spirit of Fire
+Chrono Core
+Blue Card
+ Red Card
+Omega Sword
+Dramon Breaker
+Crystal Sword
+Double Axe
+Shaman Spear
+Aux Dagger
+Scale Scimitar
+Titanium Saber
+Broad Rapier
+Shade Mace
+Crystal Guard
+Double Plate
+Shaman Helm
+Aux Helm
+Scale Shield
+Titanium Shield
+Broad Shield
+Shade Helm
+Transcendent Sword
+Beast Sword
+Holy Rod
+Bone Club
+Thor's Hammer
+Merciful Light
+Analyzer
+Atk Chip
+Def Chip
+S.Atk Chip
+S.Def Chip
+Spe Chip
+Luk Chip
+BotaEgg
+PuniEgg
+NyokiEgg
+PabuEgg
+YuraEgg
+PichiEgg
+PoyoEgg
+YukimiBotaEgg
+YukimiBotaEgg
+ChiboEgg
+PururuEgg
+TsubuEgg
+LeafEgg
+JyariEgg
+ReleEgg
+ZeriEgg
+KiiEgg
+CocoEgg
+KetoEgg
+DodoEgg
+MokuEgg
+MetalKoroEgg
+ZuruEgg
+ArkadiEgg
+BomEgg
+DatiriEgg
+FufuEgg

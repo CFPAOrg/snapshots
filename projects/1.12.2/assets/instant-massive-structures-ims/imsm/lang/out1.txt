@@ -1,0 +1,105 @@
+3D Printing East
+3D Printing North
+3D Printing South
+3D Printing West
+Blue East
+Blue North
+Blue South
+Blue West
+Brick East
+Brick East-West
+Brick North
+Brick North-South
+Brick South
+Brick West
+Brown East
+Brown East II
+Brown North
+Brown North II
+Brown South
+Brown West
+Brown South II
+Brown West II
+Chimney East
+Chimney North
+Chimney South
+Chimney West
+Green East
+Green North
+Green South
+Green West
+Iron East
+Iron North
+Iron South
+Iron West
+Parabolic Antenna East
+Parabolic Antenna North
+Parabolic Antenna South
+Parabolic Antenna West
+Watertank
+Telescope East
+Telescope North
+Telescope South
+Telescope West
+Blue East
+Blue North
+Blue South
+Blue West
+Brick East
+Brick North
+Brick South
+Brick West
+Brown East
+Brown North
+Brown South
+Brown West
+Chemical Press East-West
+Chemical Press North-South
+Chimney East
+Chimney North
+Chimney South
+Chimney West
+Green East
+Green North
+Green South
+Green West
+Ice East
+Ice North
+Ice South
+Ice West
+Sandstone East
+Sandstone North
+Sandstone South
+Sandstone West
+Watertank East
+Watertank North
+Watertank South
+Watertank West
+High Density - Brick East-West
+High Density - Brick North-South
+High Density - Cyan East
+High Density - Cyan North
+High Density - Cyan South
+High Density - Cyan West
+High Density - Hole On Top East
+High Density - Hole On Top North
+High Density - Hole On Top South
+High Density - Hole On Top West
+High Density - Light Blue East-West
+High Density - Light Blue North-South
+High Density - Spirol Building East
+High Density - Spirol Building North
+High Density - Spirol Building South
+High Density - Spirol Building West
+Low Density - Blue East
+Low Density - Blue North
+Low Density - Blue South
+Low Density - Blue West
+Low Density - Green East
+Low Density - Green North
+Low Density - Green South
+Low Density - Green West
+Low Density - White East
+Low Density - White North
+Low Density - White South
+Low Density - White West

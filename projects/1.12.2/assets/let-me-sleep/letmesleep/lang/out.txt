@@ -1,0 +1,13 @@
+This bed is obstructed
+You can sleep only %s
+You can sleep only %s and %s
+at night
+from %s to %s
+during thunderstorms
+while it's raining
+during bad weather
+Respawn point set
+Set Respawn Point
+Set Respawn Point: %s
+[Confirm]
+Click to confirm

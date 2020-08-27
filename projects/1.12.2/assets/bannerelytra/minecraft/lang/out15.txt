@@ -1,0 +1,47 @@
+/replaceitem block <x> <y> <z> <slot> <item> [amount] [data] [dataTag]
+Data tag parsing failed: %s
+Block at %s, %s, %s is not a container
+Could not replace slot %s with %s * %s
+Replaced slot %s with %s * %s
+/stats <entity|block> ...
+/stats entity <selector> <mode> ...
+/stats entity <selector> set <stat> <selector> <objective>
+/stats entity <selector> clear <stat>
+/stats block <x> <y> <z> <mode> ...
+/stats block <x> <y> <z> set <stat> <selector> <objective>
+/stats block <x> <y> <z> clear <stat>
+Block at %s, %s, %s can not track stats
+Invalid parameters
+Cleared %s stats
+Storing %s stats in %s on %s
+/summon <entityname> [x] [y] [z] [dataTag]
+Object successfully summoned
+Unable to summon object
+Data tag parsing failed: %s
+Cannot summon the object out of the world
+/testforblock <x> <y> <z> <block> [dataValue|-1|state|*] [dataTag]
+The block at %s, %s, %s is %s (expected: %s)
+The block at %s, %s, %s had the data value of %s (expected: %s)
+The block at %s, %s, %s did not have the required NBT keys
+The block at %s, %s, %s is not a block entity and cannot support tag matching
+Successfully found the block at %s, %s, %s
+Cannot test for block outside of the world
+/setblock <x> <y> <z> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+Block placed
+Unable to place block
+Data tag parsing failed: %s
+Cannot place block outside of the world
+There is no such block with ID/name %s
+The block couldn't be placed
+/fill <x1> <y1> <z1> <x2> <y2> <z2> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+Cannot place blocks outside of the world
+Data tag parsing failed: %s
+%s blocks filled
+No blocks filled
+Too many blocks in the specified area (%s > %s)
+/clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+Cannot access blocks outside of the world
+Source and destination can not overlap
+%s blocks cloned
+No blocks cloned
+Too many blocks in the specified area (%s > %s)

@@ -1,0 +1,33 @@
+For compacting all your small and tiny dusts.
+For all your trash needs.
+Size(LxWxH): 3x3x3 (Hollow), Controller (Front Centered)
+2x Input Hatch (Side Centered)
+1x-3x Output Hatch (Side Centered)
+Reinforced Machine Casings for the rest (20 at least!)
+Size(LxWxH): 3x4x3 (Hollow), Controller (Front Centered)
+1x-2x Input Hatch (Side Centered)
+1x Dynamo Hatch (Back Centered)
+1x Output Hatch (Side Centered, COMPLETELY OPTIONAL)
+Standard Machine Casings for the rest (24 at least!)
+Size(LxWxH): 3x4x3 (Hollow), Controller (Front Centered)
+1x-2x Input Hatch (Side Centered)
+1x Dynamo Hatch (Back Centered)
+1x Output Hatch (Side Centered, COMPLETELY OPTIONAL)
+Reinforced Machine Casings for the rest (24 at least!)
+Temporary crafting on the go
+Mines any stone block at 4x the speed of a diamond drill.
+Can be upgraded to a diamond to do 3x3 but at 1/8th the speed.
+Can be eaten, but I wouldn't recommend it.
+Only for crafting, has no function.
+To remove Covers from Pipes
+Craft with 4 turbine blades to repair
+Enable/Disable Shearing
+Enabled Shearing
+Disabled Shearing
+Outputs Items
+Outputs Fluids
+Outputs Nothing
+Outputs Items and Fluids
+Tier set to tier 4
+Tier set to tier 5
+Press%1$s Shift%2$s for Structure Information

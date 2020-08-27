@@ -1,0 +1,22 @@
+Red Quartzium Platform
+Red Quartzium Shield
+White Quartzium Block
+White Quartzium Bricks
+White Quartzium Crystal
+White Quartzium Engineering Bricks
+White Quartzium Inverted Lamp
+White Quartzium Lamp
+White Quartzium Ore
+White Quartzium Plate
+White Quartzium Platform
+White Quartzium Shield
+Yellow Quartzium Block
+Yellow Quartzium Bricks
+Yellow Quartzium Crystal
+Yellow Quartzium Engineering Bricks
+Yellow Quartzium Inverted Lamp
+Yellow Quartzium Lamp
+Yellow Quartzium Ore
+Yellow Quartzium Plate
+Yellow Quartzium Platform
+Yellow Quartzium Shield

@@ -1,0 +1,14 @@
+Emerald
+The emerald can create a magical, superfast projectile that summons lightning upon hit and electrocutes its target. It does armor piercing damage and double the amount if the target is wet.\n\nSoldiers won't engage in close combat and keep their distance until the Emerald is empty.\n\n§7-§1 Offhand upgrade\n§7-§1 5 uses (emerald gem) or\n§7-§1 45 uses (emerald block)\n§7-§1 3-4 pts. direct damage\n§7-§1 ranged weapon\n§7-§1 double dmg. if target is wet
+Glistering Melon
+Glistering Melons are known for their healing properties, as people regularly use them as ingredient for certain potions. A soldier carrying one will heal any allies whose health dropped below 25%%, but won't attack anything in the mean time.\n\n§7-§1 Mainhand upgrade\n§7-§1 25 uses\n§7-§1 15 pts. health restore
+Nether Quartz
+With the resonating power of the Quartz, a soldier can create a shockwave effect that knocks back any surrounding soldiers. The soldier will do so when overwhelmed by the amount of enemies attacking it.\n\n§7-§1 Offhand upgrade\n§7-§1 4 uses\n§7-§1 0 pts. damage
+Egg
+The yolk of an Egg creates a sort of invisibility cloak for the soldier, unable to be seen by other soldiers (unless they have the {link:Glass|upgrades:goggles} upgrade). When combined with a {link:Shear Blade|upgrades:shearblade} upgrade, they'll do a critical hit upon first strike undetected.\n\n§7-§1 Misc. upgrade\n§7-§1 stealthed until first strike\n§7-§1 crit. hit chance with shears
+Bowl
+A soldier can use the Bowl as a shield in their offhand to reduce incoming damage by 50%%.\n\n§7-§1 Offhand upgrade\n§7-§1 50%% less damage taken
+Wheat
+Wheat has an interesting effect on the personality of a soldier. They become totally passive, unable to attack anything, even if attacked.\n\n§7-§1 Behavior upgrade\n§7-§1 makes soldiers passive
+Nether Warts
+The warts alter a soldiers vision so much, they start seeing their teammates as enemies, thus promptly attacking them.\n\n§7-§1 Behavior upgrade\n§7-§1 makes soldiers aggressive

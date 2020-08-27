@@ -1,0 +1,81 @@
+.
+Monster Totems
+Spirit Zombie
+Spirit Skeleton
+Spirit Creeper
+Spirit Spider
+Spirit Enderman
+Spirit Witch
+Spirit Silverfish
+Spirit Slime
+Spirit Blaze
+Spirit Ghast
+Spirit Zombie Pigman
+Spirit Magma Cube
+Spirit Cave Spider
+Spirit Husk
+Spirit Stray
+Spirit Wither Skeleton
+Spirit Zombie Villager
+Totem Base Tier I
+Totem Base Tier II
+Totem Base Tier III
+Zombie Infused Log
+Skeleton Infused Log
+Creeper Infused Log
+Spider Infused Log
+Enderman Infused Log
+Witch Infused Log
+Silverfish Infused Log
+Slime Infused Log
+Blaze Infused Log
+Ghast Infused Log
+Zombie Pigman Infused Log
+Magma Cube Infused Log
+Zombie Totem Head
+Skeleton Totem Head
+Creeper Totem Head
+Spider Totem Head
+Enderman Totem Head
+Witch Totem Head
+Silverfish Totem Head
+Slime Totem Head
+Blaze Totem Head
+Ghast Totem Head
+Zombie Pigman Totem Head
+Magma Cube Totem Head
+Overworld Totem Head
+Nether Totem Head
+Unnatural Totem Head
+Master Totem Head
+Carving Tool
+Spirit Knife
+§r§dDeveloper Wrench §e(Creative only)
+Zombie Spirit
+Skeleton Spirit
+Creeper Spirit
+Spider Spirit
+Enderman Spirit
+Witch Spirit
+Silverfish Spirit
+Slime Spirit
+Blaze Spirit
+Zombie Pigman Spirit
+Ghast Spirit
+Magma Cube Spirit
+Spirit Powder
+Spirit Ingot
+A mysterious, hard compressed powder
+A mysterious blade that seems to drop monster's spirits upon their death
+Used to toggle the settings of certain blocks
+An unusual element that is created by smelting Spirit Powder
+Use on Infused Logs to carve them into Totem Heads
+Right click on a log to infuse this spirit into it
+Press SHIFT for more information
+No information provided! Contact Mod Author!
+Carve with the Carving Tool to create a Zombie Totem Head
+Carve with the Carving Tool to create a Skeleton Totem Head
+Carve with the Carving Tool to create a Creeper Totem Head
+Carve with the Carving Tool to create a Spider Totem Head
+Carve with the Carving Tool to create a Enderman Totem Head
+Carve with the Carving Tool to create a Witch Totem Head

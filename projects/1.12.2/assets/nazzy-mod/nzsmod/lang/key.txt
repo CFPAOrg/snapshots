@@ -1,0 +1,13 @@
+item.fryingpan.name
+item.aptechka.name
+item.bate.name
+item.smallbackpack.name
+item.soda2.name
+item.food3.name
+item.soda3.name
+item.atv.name
+item.food2.name
+item.food.name
+item.soda1.name
+item.food4.name
+tile.tv.name

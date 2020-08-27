@@ -1,0 +1,4 @@
+export.threecore.name
+export.threecore.type
+export.threecore.filename
+export.threecore.biped_scale

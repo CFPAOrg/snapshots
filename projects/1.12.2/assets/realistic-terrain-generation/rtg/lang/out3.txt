@@ -1,0 +1,47 @@
+Gold Maximum Height
+The maximum height of gold generation
+Redstone Generation Settings
+Redstone Size
+The size of redstone veins generted in the world
+Redstone Count
+The amount of redstone veins per chunk
+Redstone Minimum Height
+The minimum height of redstone generation
+Redstone Maximum Height
+The maximum height of redstone generation
+Diamond Generation Settings
+Diamond Size
+The size of diamond veins generted in the world
+Diamond Count
+The amount of diamond veins per chunk
+Diamond Minimum Height
+The minimum height of diamond generation
+Diamond Maximum Height
+The maximum height of diamond generation
+Lapis Lazuli Generation Settings
+Lapis Lazuli Size
+The size of lapis lazuli veins generted in the world
+Lapis Lazuli Count
+The amount of lapis lazuli veins per chunk
+Lapis Lazuli Height
+The average height of lapis lazuli generation
+Lapis Lazuli Spread
+The average height spread of lapis lazuli generation
+RTG Global Config Settings
+Client Settings
+Settings relevant to the client
+WorldType Notification
+When enabled, this will display an informational message about RTG when entering the Customize World screen.\nThis will display once and automatically disable itself.
+RTG WorldType By Default
+Automatically select the RTG world type when creating a new world.
+Common Settings
+Settings relevant to the server
+Debug Settings
+Enable special debug logging
+!This setting has a severe performance penalty. Only enable if you know what you are doing!
+Patch Biome
+If RTG encounters an unsupported biome it will generate this biome instead.\nThis uses the standard ResourceLocation format: mod_id:biome_registry_name
+Biome Surface Settings
+Lush Riverbanks In Desert
+Set this to FALSE to prevent RTG from generating lush river bank decorations in hot biomes,\nlike Desert and Mesa. Lush decorations consist of tallgrass, trees, shrubs, and other flora.
+Surface Blend Radius

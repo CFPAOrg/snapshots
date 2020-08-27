@@ -1,0 +1,23 @@
+%s Ingot
+%s Dagger
+%s Parrying Dagger
+%s Longsword
+%s Katana
+%s Saber
+%s Rapier
+%s Greatsword
+%s Hammer
+%s Warhammer
+%s Spear
+%s Halberd
+%s Pike
+%s Lance
+%s-Strengthened Longbow
+%s-Strengthened Crossbow
+%s Throwing Knife
+%s Throwing Axe
+%s Javelin
+Weedwood
+Slimy Bone
+Valonite
+Octine

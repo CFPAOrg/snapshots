@@ -1,0 +1,4 @@
+item.immersiveengineering.bullet.floof_shooter.name
+item.immersiveengineering.bullet.floof_crafted.name
+item.immersiveengineering.bullet.floof_random.name
+chat.immersivefloofs.floofed

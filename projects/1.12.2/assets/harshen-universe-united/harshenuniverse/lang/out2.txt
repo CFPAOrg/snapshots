@@ -1,0 +1,85 @@
+Itium Ore
+Harshen Destroyed Plant
+Harshen Soul Flower
+Harshen Dimensional Rock
+Ritual Pedestal
+Plant of Gleam
+Crop of Gleam
+Heretic Cauldron
+§4Blood§r
+Pontus Dead Wood
+Pontus Dead Leaves
+Harshen Dimensional Gate (Pontus)
+Ritual Pedestal Slab
+Pontus Chaotic Rock
+Pontus Chaotic Wood
+Pontus Chaotic Leaves
+Harshen Display Block
+Harshen Spawner
+§4Blood Placer§r
+§4Blood Vessel§r
+Pontus Emerald Ore
+Archive
+§4Blood Factory§r
+Block of Heads
+Harshen Magic Table
+Gilded Obsidian
+Pontus Far Rock
+Pontus Far Wood
+Pontus Far Leaves
+Jewel Dirt
+Jewel Dirt
+§4Bloody Torch§r
+§4Bloody Wool§r
+§4Bloody Bed§r
+§5Akzenia Mushroom§r
+§2Nocturnal Torch§r
+Nocturne Bloom
+Harshen Dimensional Fluid
+Harshing Water
+§4Blood§r
+Lava
+Milk
+Magic Fluid
+Mixed Slots
+%s's access level was set to %s
+/harshencaste pontuslevel <level> OR /harshencaste pontuslevel <Player> <Level>
+Harshen Universe was reloaded
+[%s] The Mod is out of date. Your version %s, target version: %s. Click here to go to page
+Click To go to %s
+Mobs
+Potions
+Structures
+Dimensions
+Rituals
+Set the Block to set. Supports OreDict
+Examples: oreIron & harshenuniverse:harshen_soul_ore
+Accessory Item: %s
+Ring
+Pendant
+Earring
+Drains the soul of the target
+Very expensive matter
+Regenerates 1 heart
+every 5 seconds
+It can mine Harshen Soul Ore
+Gives you strength
+Holds the power of the old Koschei
+Can be mined only with
+A broken part of the Pontus Gate spawner
+Opens a temporary gate to the Pontus World
+Opens a permanent gate to the Pontus World
+Plantable only on
+Harshen Dimensional Dirt
+It can kill Ferrum King
+Splashes on the ground by players,
+witches and villagers when hurt
+Found in Pontus World
+Blood Storage
+Gives jump boost when worn
+Blinds the target when hit but also
+blinds you when hurt, but not as much
+Need to be organized
+Gives you full invisibility when worn
+Teleportation ring. Teleports you to the
+highest point in the direction you're looking

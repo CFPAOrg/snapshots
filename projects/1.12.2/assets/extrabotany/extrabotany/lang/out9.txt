@@ -1,0 +1,33 @@
+Pleiades Combat Maid Headgear
+Pleiades Combat Maid Suit
+Pleiades Combat Maid Skirt
+Pleiades Combat Maid Boots
+Overlord
+Starry Idol
+An improved version of Manasteel Armor,it gives the wearer a high mana discount.
+Starry Idol Headgear
+Starry Idol Suit
+Starry Idol Skirt
+Starry Idol Boots
+Miku Miku Dance
+Flux Manafield
+By passing &4Forge Energy&0 through a field of natural energy, its state can be transformed from redstone based energy into &4Mana&0.<br>Simply attaching &4FE&0 transporters, will start the conversion from &4FE&0 to &4Mana&0. A Mana Spreader is needed to transfer the &4Mana&0.
+Science Bitch!
+Converts Energy into Mana
+Mana Cocktail
+Hold an Empty Mana Glass Bottle and right-click a Mana Liquefaction Device with at least 25mb Fluided Mana or a Mana Pool with enough mana, and you will acquire a tasty drink.
+Cheers!
+Tasty
+Mana Liquefaction Device
+Mana Liquefaction Device will drain &4Fluided Mana&0 from liquid tank nearby and transfer into Mana. <br>If giving a redstone signal, it will drain mana, transform it into Fluided Mana and output to nearby liquid tank.
+Non-Science
+Liquid Mana
+Special-made Cocktail
+By crafting any flask/vial potion with a Mana Cocktail , you can make a Special-made Cocktail that can be drinked two more times than the original flask/vial and it has a longer effect. <br>Aditionaly very special potions have been added and can be crafted into Cocktails too.
+Greatly improve the efficiency of mining, but overdraft your luck
+High level of resistance, but slow as turtle.
+Gain super strength, but what's the cost?
+Almost all positive effects! But wouldn't last long
+One can make you floating, may be better if used on enemies?
+Infinite Wine
+Infinite Wine, that you can drink almost infinitly, it only costs mana to refill. To make one, you just need to combine a Special-made Cocktail with heroes medal.You can change the effects by crafting with other varieties of Special-made Cocktail. <br>Be carefull though, if you drink it all before it can refill, you will lose your relic and get a empty mana glass back, and you can only Restore 3 uses per minecraft day.

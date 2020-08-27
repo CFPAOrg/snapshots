@@ -1,0 +1,99 @@
+Tuyere Constantan
+Constantan Lamp
+%s Constantan Lamp
+Lamp Constantan
+Pick Constantan
+Pick Head Constantan
+Shovel Constantan
+Shovel Head Constantan
+Axe Constantan
+Axe Head Constantan
+Hoe Constantan
+Hoe Head Constantan
+Chisel Constantan
+Chisel Head Constantan
+Sword Constantan
+Sword Blade Constantan
+Mace Constantan
+Mace Head Constantan
+Saw Constantan
+Saw Blade Constantan
+Javelin Constantan
+Javelin Head Constantan
+Hammer Constantan
+Hammer Head Constantan
+Propick Constantan
+Propick Head Constantan
+Knife Constantan
+Knife Blade Constantan
+Scythe Constantan
+Scythe Blade Constantan
+Shears Constantan
+Unfinished Chestplate Constantan
+Chestplate Constantan
+Unfinished Greaves Constantan
+Greaves Constantan
+Unfinished Boots Constantan
+Boots Constantan
+Unfinished Helmet Constantan
+Helmet Constantan
+Constantan Shield
+Molten Electrum
+Electrum Ingot
+Unshaped Electrum
+Electrum Double Ingot
+Double Ingot Electrum
+Electrum Scrap
+Scrap Electrum
+Electrum Dust
+Dust Electrum
+Electrum Nugget
+Nugget Electrum
+Electrum Sheet
+Sheet Electrum
+Electrum Double Sheet
+Double Sheet Electrum
+Anvil Electrum
+Electrum Tuyere
+Tuyere Electrum
+Electrum Lamp
+%s Electrum Lamp
+Lamp Electrum
+Pick Electrum
+Pick Head Electrum
+Shovel Electrum
+Shovel Head Electrum
+Axe Electrum
+Axe Head Electrum
+Hoe Electrum
+Hoe Head Electrum
+Chisel Electrum
+Chisel Head Electrum
+Sword Electrum
+Sword Blade Electrum
+Mace Electrum
+Mace Head Electrum
+Saw Electrum
+Saw Blade Electrum
+Javelin Electrum
+Javelin Head Electrum
+Hammer Electrum
+Hammer Head Electrum
+Propick Electrum
+Propick Head Electrum
+Knife Electrum
+Knife Blade Electrum
+Scythe Electrum
+Scythe Blade Electrum
+Shears Electrum
+Unfinished Chestplate Electrum
+Chestplate Electrum
+Unfinished Greaves Electrum
+Greaves Electrum
+Unfinished Boots Electrum
+Boots Electrum
+Unfinished Helmet Electrum
+Helmet Electrum
+Electrum Shield
+Molten Red Alloy
+Red Alloy Ingot

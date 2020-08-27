@@ -1,0 +1,105 @@
+Einsteinium 257 Hexafluoride
+Einsteinium 253 Dioxide
+Einsteinium 255 Dioxide
+Einsteinium 257 Dioxide
+Fermium
+Fermium Dioxide
+Fermium Nitrate
+Fermium Hexachloride
+Fermium Hexafluoride
+Fermium 258 Hexafluoride
+Fermium 259 Hexafluoride
+Fermium 262 Hexafluoride
+Fermium 258 Dioxide
+Fermium 259 Dioxide
+Fermium 262 Dioxide
+Mendelevium
+Mendelevium Dioxide
+Mendelevium Nitrate
+Mendelevium Hexachloride
+Mendelevium Hexafluoride
+Mendelevium 259 Hexafluoride
+Mendelevium 261 Hexafluoride
+Mendelevium 263 Hexafluoride
+Mendelevium 259 Dioxide
+Mendelevium 261 Dioxide
+Mendelevium 263 Dioxide
+Sodium Potassium Alloy (Reactor Moderator)
+Lithium Hydroxide
+Lithium Fluoride
+Sodium Fluoride
+Potassium Fluoride
+FLiNaK (Reactor Moderator)
+Beryllium Fluoride
+FLiBe (Reactor Moderator)
+Lead Bismuth Eutatic (Reactor Moderator)
+Francium
+Radium
+Actinium
+Hafnium
+Rhenium
+Technetium
+Thalium
+Germanium
+Selenium
+Bromine
+Iodine
+Astatine
+Thorium 233
+Protactinium 233
+Uranium 233
+Uranium 234
+Uranium 239
+Neptunium 235
+Neptunium 237
+Neptunium 239
+Plutonium 239
+Plutonium 240
+Plutonium 245
+Americium 241
+Americium 243
+Americium 245
+Curium 245
+Curium 246
+Curium 247
+Curium 250
+Curium 251
+Berkelium 247
+Berkelium 249
+Berkelium 251
+Californium 251
+Californium 252
+Californium 253
+Californium 256
+Californium 257
+Einsteinium 253
+Einsteinium 255
+Einsteinium 257
+Fermium 257
+Fermium 258
+Fermium 259
+Fermium 262
+Fermium 263
+Mendelevium 259
+Mendelevium 261
+Mendelevium 263
+Hydrogen Fluoride
+Abyssal Alloy
+Organic Fertilizer
+UV Superconductor Base
+UV Superconductor
+Hot %s
+%s Hexachloride
+%s Hexafluoride
+Epoxy Resin Bar
+Tiny Pile of Epoxy Resin Pulp
+Small Pile of Epoxy Resin Pulp
+Epoxy Resin Pulp
+Epoxy Resin Chip
+Dense Epoxy Resin Sheet
+Epoxy Resin Sheet
+Thin Epoxy Resin Sheet
+Fiber-Reinforced Epoxy Resin Bar
+Tiny Pile of Fiber-Reinforced Epoxy Resin Pulp
+Small Pile of Fiber-Reinforced Epoxy Resin Pulp
+Fiber-Reinforced Epoxy Resin Pulp

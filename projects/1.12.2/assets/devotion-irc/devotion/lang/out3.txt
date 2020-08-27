@@ -1,0 +1,35 @@
+Bot Settings
+Bot settings and behaviour for the IRC chat. Can be overridden by servers and channels.
+Chat Settings
+General settings for IRC connections. Can be overridden by servers and channels.
+Addon Settings
+Settings for DevotionIRC addons that are not part of the core of the mod.
+Enable Player Colors
+If set to true, players can use the '/irc color' command to set a color for their MC nick. See also: colorBlacklist
+Player Color Blacklist
+A list of colors that players are not allowed to use as name colors when using the '/irc color' command.
+Register Short Commands
+If set to true, DevotionIRC will link commands such as /join, /msg or /nick to it's /irc <command> variants for quicker usage.
+Hide Player Tags
+If set to true, DevotionIRC will attempt to strip player name tags such as [Admin] (that were added by other mods) when sending to IRC.
+Debug Mode
+[Advanced] If set to true, raw IRC messages will be printed into the log for investigation purposes.
+[SSL] Trust all certificates
+[Advanced] If set to true, DevotionIRC will accept all SSL certificates without checking the truststore.
+[SSL] Custom TrustStore Path
+[Advanced] The path to a custom SSL truststore.
+[SSL] Disable Diffie Hellman encryption
+[Advanced] If set to true, disables DiffieHellman encryption for SSL connections to work around a Java issue.
+[Proxy] Host Address
+[Advanced] The address to a proxy you want connections to go through.
+[Proxy] Username
+[Advanced] The username to authenticate with the proxy, if necessary.
+[Proxy] Password
+[Advanced] The password to authenticate with the proxy, if necessary.
+Bind to IP
+[Advanced] The IP address to use for outgoing connections.
+Default Chat
+The default chat target to select when opening the chat for the first time.
+Auto Reset Chat
+Automatically switch back to Minecraft chat when the chat window is closed.
+Prevent User Ping

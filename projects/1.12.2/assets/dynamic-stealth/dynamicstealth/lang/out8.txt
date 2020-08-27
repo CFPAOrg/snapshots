@@ -1,0 +1,23 @@
+Allow "Name" Display
+FILLSCREEN FIXNEWLINES If enabled, clients can see the names of entities\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Allow "HP" Display
+FILLSCREEN FIXNEWLINES If enabled, clients can see the HP of entities\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Allow "Target's Target" Display
+FILLSCREEN FIXNEWLINES If enabled, clients can see what other entities are targeting\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Allow "Threat" Display
+FILLSCREEN FIXNEWLINES If enabled, clients can see the numerical threat % of entities\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Allow "Distance" Display
+FILLSCREEN FIXNEWLINES If enabled, clients can see the distance to entities\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Allow On-Point HUD
+FILLSCREEN FIXNEWLINES If enabled, clients can turn on/off a HUD which appears above each entity\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+OPHUD Range
+FILLSCREEN FIXNEWLINES The maximum distance at which on-point HUDs will appear on clients; impacts server performance if too high\n \n
+OPHUD Update Delay
+FILLSCREEN FIXNEWLINES How many ticks there are between on-point HUD updates; increasing this will reduce server load\n \n
+Use player senses
+FILLSCREEN FIXNEWLINES If enabled, stealth mechanics work on players\n\nBasically if this is turned on and that skeleton is holding still in the dark, you might not be able to see him until you get close\n \n
+Touch
+Sight
+Hearing
+Enable Touch
+FILLSCREEN FIXNEWLINES If true, entities can feel each other if they bump into one another\n \n

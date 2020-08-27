@@ -1,0 +1,5 @@
+item.cloudsword.name
+tile.nessipillar.name
+tile.nessipillar2.name
+item.monedanessi.name
+item.centavonessi.name

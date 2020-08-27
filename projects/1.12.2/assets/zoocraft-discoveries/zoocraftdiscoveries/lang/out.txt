@@ -1,0 +1,116 @@
+Zoocraft Discoveries Mod
+Clay Pantiles
+Assorted Clay Pantiles
+White Clay Pantiles
+Orange Clay Pantiles
+Magenta Clay Pantiles
+Light Blue Clay Pantiles
+Yellow Clay Pantiles
+Lime Clay Pantiles
+Pink Clay Pantiles
+Gray Clay Pantiles
+Light Gray Clay Pantiles
+Cyan Clay Pantiles
+Purple Clay Pantiles
+Blue Clay Pantiles
+Brown Clay Pantiles
+Green Clay Pantiles
+Red Clay Pantiles
+Black Clay Pantiles
+Laboratory Mosaic
+Crystal Glass
+Grid Glass
+Cookie Bush
+Regular Thatching
+Faded Thatching
+Aged Thatching
+Mossy Thatching
+Slate Tiles
+Particle Block [Spray]
+Particle Block [Swirls]
+Particle Block [Fountain]
+Particle Block [Enigma]
+Particle Block [Love]
+Particle Block [Firestorm]
+Particle Block [Music]
+Particle Block [Bubbles]
+Particle Block [Undead]
+Arctic Pine Wood
+Arctic Pine Planks
+Fishing Spear
+Giraffe Leather
+Camel Leather
+Gemsbok Leather
+Anteater Pelt
+Rhino Leather
+Chinchilla Fur
+Basil
+Oregano
+Sage
+Coriander
+Thyme
+Mint
+Rosemary
+Parsley
+Dill
+Chive
+Tarragon
+Saffron
+Bay Leaves
+Lemongrass
+Basil Seeds
+Bay Tree Seeds
+Chive Seeds
+Coriander Seeds
+Dill Seeds
+Lemongrass Seeds
+Mint Seeds
+Oregano Seeds
+Parsley Seeds
+Rosemary Seeds
+Saffron Bulbs
+Sage Seeds
+Tarragon Seeds
+Thyme Seeds
+IUCN - Extinct
+IUCN - Extinct Wild
+IUCN - Critically Endangered
+IUCN - Endangered
+IUCN - Vulnerable
+IUCN - Least Concern
+IUCN - Not Evaluated
+IUCN - Data Deficient
+IUCN - Near Threatened
+Bunny Slippers
+Clay Tile
+Blowpipe
+Iron Blowpipe
+Frogspawn
+Grass Bundle
+Tranquilizer Dart
+Poison Dart
+Insta-kill Dart
+Inflicts slowness V for 15 seconds
+Inflicts poison II for 10 seconds
+Creative only - Inflicts maximum damage
+Chinchilla
+Gecko
+Gemsbok
+Hedgehog
+Giraffe
+Giant Anteater
+Rhino
+Dart Frog
+Camel
+Capybara
+Porcupine
+Tapir
+Chinchilla chirps
+Chinchilla hurts
+Gecko hurts
+Camel hurts
+Frog croaks
+Infused with %s
+Potency: %s
+%1$s died by stepping on a hedgehog
+%1$s died by stepping on a porcupine

@@ -1,0 +1,10 @@
+itemGroup.gadgetrytransmission
+tile.energy_cable.name
+tile.fluid_pipe.name
+tile.item_pipe.name
+tile.energy_io.name
+tile.fluid_io.name
+tile.item_io.name
+tile_energy_i_o.module.battery.name
+tile_fluid_i_o.module.tank.name
+tile_item_i_o.module.inventory.name

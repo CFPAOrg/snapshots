@@ -1,0 +1,108 @@
+Blue Terracotta Barrel
+Brown Terracotta Barrel
+Green Terracotta Barrel
+Red Terracotta Barrel
+Black Terracotta Barrel
+Infested %s
+Jade Astrolabe
+Small Stone
+Pile of Ash
+Silkworm
+Wooden Mesh
+Silk Mesh
+Golden Mesh
+Diamond Mesh
+Wooden Hammer
+Stone Hammer
+Iron Hammer
+Golden Hammer
+Diamond Hammer
+Oak Seed
+Spruce Seed
+Birch Seed
+Jungle Seed
+Acacia Seed
+Dark Oak Seed
+Infested Leaves
+Infested Leaves
+Infested Vines
+Crook
+Bone Crook
+Aluminum Ore Gravel
+Aluminum Nether Gravel
+Aluminum End Gravel
+Aluminum Sand
+Aluminum Ore Dust
+Broken Aluminum Ore
+Broken Nether Aluminum Ore
+Broken End Aluminum Ore
+Crushed Aluminum Ore
+Powdered Aluminum Ore
+Aluminum Ingot
+Ardite Ore Gravel
+Ardite Nether Gravel
+Ardite End Gravel
+Ardite Sand
+Ardite Ore Dust
+Broken Ardite Ore
+Broken Nether Ardite Ore
+Broken End Ardite Ore
+Crushed Ardite Ore
+Powdered Ardite Ore
+Ardite Ingot
+Cobalt Ore Gravel
+Cobalt Nether Gravel
+Cobalt End Gravel
+Cobalt Sand
+Cobalt Ore Dust
+Broken Cobalt Ore
+Broken Nether Cobalt Ore
+Broken End Cobalt Ore
+Crushed Cobalt Ore
+Powdered Cobalt Ore
+Cobalt Ingot
+Copper Ore Gravel
+Copper Nether Gravel
+Copper End Gravel
+Copper Sand
+Copper Ore Dust
+Broken Copper Ore
+Broken Nether Copper Ore
+Broken End Copper Ore
+Crushed Copper Ore
+Powdered Copper Ore
+Copper Ingot
+Draconium Ore Gravel
+Draconium Nether Gravel
+Draconium End Gravel
+Draconium Sand
+Draconium Ore Dust
+Broken Draconium Ore
+Broken Nether Draconium Ore
+Broken End Draconium Ore
+Crushed Draconium Ore
+Powdered Draconium Ore
+Draconium Ingot
+Gold Ore Gravel
+Gold Nether Gravel
+Gold End Gravel
+Gold Sand
+Gold Ore Dust
+Broken Gold Ore
+Broken Nether Gold Ore
+Broken End Gold Ore
+Crushed Gold Ore
+Powdered Gold Ore
+Gold Ingot
+Iron Ore Gravel
+Iron Nether Gravel
+Iron End Gravel
+Iron Sand
+Iron Ore Dust
+Broken Iron Ore
+Broken Nether Iron Ore
+Broken End Iron Ore
+Crushed Iron Ore
+Powdered Iron Ore
+Iron Ingot
+Lead Ore Gravel

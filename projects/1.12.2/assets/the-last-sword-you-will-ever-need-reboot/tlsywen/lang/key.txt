@@ -1,0 +1,17 @@
+item.dragon_sword0.name
+item.dragon_sword1.name
+item.dragon_sword2.name
+item.dragon_sword3.name
+item.dragon_sword4.name
+item.dragon_sword5.name
+item.dragon_sword6.name
+item.dragon_sword7.name
+item.dragon_sword8.name
+item.dragon_sword9.name
+item.dragon_swordA.name
+item.dragon_helmet.name
+item.dragon_chestplate.name
+item.dragon_leggings.name
+item.dragon_boots.name
+item.dragon_crystal.name
+item.dragon_gem.name

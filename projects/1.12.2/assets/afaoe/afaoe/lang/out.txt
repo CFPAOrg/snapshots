@@ -1,0 +1,4 @@
+Coffee Maker
+This is an %1$simportant%2$s word, and here is %1$sanother%2$s.
+Grinder
+Tantum Initium

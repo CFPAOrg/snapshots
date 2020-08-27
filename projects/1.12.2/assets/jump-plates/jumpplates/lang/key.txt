@@ -1,0 +1,10 @@
+itemGroup.JumpPlates
+tile.jump_plate_white.name
+tile.jump_plate_orange.name
+tile.jump_plate_lightblue.name
+tile.jump_plate_yellow.name
+tile.jump_plate_lime.name
+tile.jump_plate_pink.name
+tile.jump_plate_red.name
+tile.jump_plate_purple.name
+tile.jump_plate_rainbow.name

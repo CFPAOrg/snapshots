@@ -1,0 +1,34 @@
+You need a diamond, gold ingot, emerald, magma cream, or blaze rod to get a scroll!
+The staff is on cooldown! You can't airbend with it!
+Slipstream is on cooldown! You can't use it!
+Cleanse is on cooldown! You can't use it!
+Purify is on cooldown! You can't use it!
+Restore is on cooldown! You can't use it!
+You need to unlock that ability before you can use it!
+Your bison is too hungry to fly! You need to feed it apples and hay so it can fly.
+Your bison is now sitting!
+Your bison does not have any
+inventory yet, but will gain
+more slots as it grows older.
+[error]You can't use bending while water skating until you unlock level II.[/error]
+The target must be on sand to be imprisoned.
+The target must be on an earth related block to be imprisoned.
+You redirected ${lightningbender}'s §l§blightning!
+\[AvatarMod2] To do so, in the radial menu, just hover over the ability and right click!
+Need to look directly at a water source or be nearby one!
+Need to look at or get near a water source block!
+This ability is still on cooldown!
+[bold][red]\[AvatarMod Announcement][/red] \[today]:[/bold] ${announcement}
+[bold][red]\[AvatarMod Announcement][/red] \[yesterday]:[/bold] ${announcement}
+[bold][red]\[AvatarMod Announcement][/red] \[${days} days ago]:[/bold] ${announcement}
+Your bison was called and will be here in approximately ${time} seconds!
+Bound this Bison Whistle to ${bison}.
+[error]This bison whistle has not been bound to a bison; sneak-click a bison with this to bind it.[/error]
+[error]${bison} no longer lives in the physical world.[/error]
+[error]You do not own this flying bison.[/error]
+[error]This flying bison is wild and you need to tame it first.[/error]
+Bound to %s
+Not bound
+Your flying bison ${bison} has been transferred to ${newOwner}.
+You now own ${oldOwner}'s flying bison ${bison}!
+[error]Nobody has recently requested a bison transfer.[/error]

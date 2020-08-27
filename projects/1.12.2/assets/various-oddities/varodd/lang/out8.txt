@@ -1,0 +1,116 @@
+Helpful
+Lantern
+Mimic Chest
+Trapped Mimic Chest
+Lim Obelisk
+Immovable Rod
+Stone of Alarm
+Kobold Egg
+Inert Kobold Egg
+Bulette Egg
+Inert Bulette Egg
+Inscribing
+Inscribing Table
+Alchemical Centrifuge
+Decorative Centrifuge
+Conjured Iron
+Conjured Ice
+Conjured Web
+Cold Air
+Solid Force
+Bar of Force
+Pile of Dust
+Stone Lock
+Iron Lock
+Golden Lock
+Diamond Lock
+Brazier
+Brazier
+Clay Pot
+Steel Pot
+Sconce
+Sconce
+Moss
+Phosphorescent Moss
+Glowing Mushroom
+White Glowing Mushroom
+Orange Glowing Mushroom
+Magenta Glowing Mushroom
+Light Blue Glowing Mushroom
+Yellow Glowing Mushroom
+Lime Glowing Mushroom
+Pink Glowing Mushroom
+Gray Glowing Mushroom
+Light Gray Glowing Mushroom
+Cyan Glowing Mushroom
+Purple Glowing Mushroom
+Blue Glowing Mushroom
+Brown Glowing Mushroom
+Green Glowing Mushroom
+Red Glowing Mushroom
+Black Glowing Mushroom
+Oak Pillar
+Spruce Pillar
+Birch Pillar
+Acacia Pillar
+Jungle Pillar
+Dark Oak Pillar
+Stone Pillar
+Granite Pillar
+Andesite Pillar
+Diorite Pillar
+Stone Brick Pillar
+Nether Brick Pillar
+End Brick Pillar
+Gear
+Guillotine Blade
+Simple Conveyor
+Simple Conveyor
+Simple Conveyor Track
+Simple Conveyor Track
+Average Conveyor
+Average Conveyor
+Average Conveyor Track
+Average Conveyor Track
+Superior Conveyor
+Superior Conveyor
+Superior Conveyor Track
+Superior Conveyor Track
+Campfire
+Lit Campfire
+Extinguished Campfire
+Alchemical Alembic
+World Guard
+World Regenerator
+Clock
+Missing Block
+Glowing Missing Block
+World Regenerator
+Super Barrier
+Whale Orifice
+Stomach Manager
+Whale Flesh
+Whale Cartilage
+Block of Moss
+Winch
+Disembodied Heart
+Ancient Statue
+Mountain Heart Ore
+Mountain Heart
+Feywild Rift
+Interior Rift
+Hive Creep
+Dead Hive Creep
+Inert Hive Creep
+Inert Dead Hive Creep
+Hive Creep Light
+Hive Strut
+Crystal of Sensing
+Crystal of Sensing
+Changeling Garden
+Entropic Decay
+Acid
+Grease
+Petrifying Gas
+Alarmed block at [%s, %s, %s] has been activated by %s!
+Stone of Alarm at [%s, %s, %s] has been broken!

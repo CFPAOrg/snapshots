@@ -1,0 +1,3 @@
+item.stickfall.name
+item.coinofflight.name
+item.swordofflight.name

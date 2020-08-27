@@ -1,0 +1,17 @@
+cannot.find.remove
+button.forget
+button.teleport
+enter.to.confirm
+name.your.telepad
+dragon.obstructs
+feet.color
+arrow.color
+no.power
+no.exp
+item.telepads.toggler.name
+item.telepads.transmitter.name
+tile.telepads.telepad.name
+item.telepads.ender_bead.name
+item.telepads.ender_bead_necklace.name
+item.telepads.tp_upgrade.name
+item.telepads.tp_upgrade_public.name

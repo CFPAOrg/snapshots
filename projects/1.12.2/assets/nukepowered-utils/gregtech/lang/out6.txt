@@ -1,0 +1,96 @@
+Advanced Sifting Machine IV
+Advanced Sifting Machine V
+Advanced Sifting Machine VI
+Advanced Sifting Machine VII
+Blaze Sweatshop T-6350
+Blaze Sweatshop T-6360
+Blaze Sweatshop T-6370
+Blaze Sweatshop T-6380
+Advanced Wiremill IV
+Advanced Wiremill V
+Advanced Wiremill VI
+Advanced Wiremill VII
+Assembly Line
+Steam Mixer
+Naquadah Reactor Mk. 1
+Naquadah Reactor Mk. 2
+Naquadah Reactor Mk. 3
+Naquadah Reactor Mk. 4
+Basic Mass Fabricator
+Advanced Mass Fabricator
+Advanced Mass Fabricator II
+Advanced Mass Fabricator III
+Advanced Mass Fabricator IV
+Advanced Mass Fabricator V
+Advanced Mass Fabricator VI
+Advanced Mass Fabricator VII
+Basic Replicator
+Advanced Replicator
+Advanced Replicator II
+Advanced Replicator III
+Advanced Replicator IV
+Advanced Replicator V
+Advanced Replicator VI
+Advanced Replicator VII
+Advanced Pump IV
+Advanced Pump V
+Advanced Pump VI
+Advanced Pump VII
+Advanced Air Collector III
+Atmosphere Collector
+Atmosphere Collector
+Producing The Purest Of Elements
+Fusion Reactor Computer Mark 1
+Fusion Reactor Computer Mark 2
+Fusion Reactor Computer Mark 3
+Basic Fisher
+Advanced Fisher
+Advanced Fisher II
+Advanced Fisher III
+Advanced Fisher VI
+Advanced Fisher V
+Advanced Fisher VI
+Advanced Fisher VII
+Assembly Line Casing
+Reinforced Glass
+Reactor Casing
+%s Bending Cylinder
+Small %s Bending Cylinder
+Cluster Mill
+Circuit Assembler
+Assembly Line
+Naquadah Reactor Fuels
+Replicator
+Mass Fabricator
+Disassembling
+Processing Array
+Plasma Turbine Fuels
+Coal Coke
+Phosphorous Pentoxide
+Phosphoric Acid
+Polyvinyl Acetate
+Phenol
+Bisphenol A
+Epoxy Resin
+Fiber-Reinforced Epoxy Resin
+Borosilicate Glass
+Polyvinyl Chloride
+Vinyl Chloride
+Ethylene
+Charcoal Byproducts
+Benzene
+Wood Gas
+Wood Vinegar
+Wood Tar
+Sodium Hydroxide
+Quicklime
+Acetone
+Sulfur Trioxide
+Sulfur Dioxide
+Glycerol
+Fish Oil
+Sodium Hydroxide Solution
+Methanol
+Carbon Monoxide
+Cetane-Boosted Diesel
+Diluted Sulfuric Acid

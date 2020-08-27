@@ -1,0 +1,47 @@
+Snowball
+Spark Bomb
+Spectral Pathway
+Spider Swarm
+Static Aura
+Summon Blaze
+Summon Ice Giant
+Summon Ice Wraith
+Summon Iron Golem
+Summon Lightning Wraith
+Summon Phoenix
+Summon Shadow Wraith
+Summon Skeleton
+Summon Skeleton Legion
+Summon Snow Golem
+Summon Spirit Horse
+Summon Spirit Wolf
+Summon Storm Elemental
+Summon Wither Skeleton
+Summon Zombie
+Telekinesis
+Thunderbolt
+Thunderstorm
+Tornado
+Transience
+Transportation
+Vanishing Box
+Wall of Frost
+Water Breathing
+Whirlwind
+Wither
+Wither Skull
+Grants the caster faster movement speed and greater jump height for 30 seconds.
+Fires a spark of lightning at the target.
+Prevents the target from using magic for 15 seconds.
+"Archers, fire!"
+Teleports the target against its will to a random location within a certain range.
+Tear reality asunder.
+Teleports the caster over a short distance to where they are pointing.
+Creates a zone of swirling icy wind which slows and continually damages anything trapped inside. The caster is immune to the damage but is still slowed.
+Fires a jet of bubbles which causes anything it hits to float upwards helplessly. The target will fall after a certain time or if it is damaged.
+Fires a spark of lightning at the target, which then chains to additional targets up to twice.
+Reveals the path to a remembered location. With this spell selected, sneak-right-click on a block to set the location. Cast this spell normally to reveal the path. The path will fade after 90 seconds.
+Creates cobwebs where you are pointing, which greatly hamper the movement of any creatures caught amongst them. The cobwebs will vanish after 20 seconds or if broken.
+Creates spectral armor around the caster which offers protection equal to that of iron armor. The armor lasts for 60 seconds. The caster must have an empty armor slot.
+Creates a spectral bow with unlimited arrows that lasts for 30 seconds.
+Creates a spectral pickaxe of equal strength to an iron pickaxe that lasts for 30 seconds.

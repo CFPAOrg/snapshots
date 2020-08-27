@@ -1,0 +1,9 @@
+Stone Hammer
+Compressed Hammer
+Double Compressed Hammer
+Stone Rod
+Iron Rod
+Double Compress Rod
+Compressed Rod
+CompressedHammers
+Enable recipe by configuring stone.

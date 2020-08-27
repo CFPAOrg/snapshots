@@ -1,0 +1,9 @@
+Mining Lantern
+Press %1$s%2$s%3$s to toggle the light on/off
+Albedo is §aloaded§7, lights will work! 
+Albedo is §cnot loaded§7, lights will not work! 
+Mining Lantern
+See others light
+Whether you want to see the light emitted by other players' lanterns.
+Mining Lantern
+Toggle lantern on/off

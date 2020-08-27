@@ -1,0 +1,104 @@
+0.035F
+0.05F
+75
+Elementaristics
+Elementaristic Essences
+Client
+Nexus Update Interval
+Mind Dimension ID
+Elementaristics' Particle Amount
+Show Magan Bar
+Aspect-based Cultist Textures
+Intoxicated
+Trance
+Focused
+Dread
+Contentment
+Ecstasy
+Fear
+Laughter
+Silence
+Shared Health
+Potential
+A Father's Blessing
+Gaseous Form
+Crystalline Shield
+Fireball Charge
+Counterspell Field
+%1$s felt the wind's rage
+%1$s felt the wind's rage invoked by %2$s
+"%1$s felt the wind's rage invoked by %2$s using %3$s
+%1$s's mind collapsed
+%1$s's mind collapsed because of %2$s
+"%1$s's mind collapsed because of %2$s using %3$s
+%1$s saw him
+%1$s saw him because of %2$s
+"%1$s saw him because of %2$s using %3$s
+Dragon's Breath
+Generic Projectile
+Nullifying Projectile
+Mana Projectile
+Fiery Projectile
+Watery Projectile
+Heavy Projectile
+Air Projectile
+Magan Projectile
+Ancient Call
+Call of Damnation
+Fireball Charge
+Cleanse
+Blink
+Crystal Protection
+Gaseous Form
+Counterspell
+Far Reach
+Elder Root
+Vibrant Quartz
+Chaotic Matter
+Maganized Matter
+Acceleration Module
+Unrefined Aether Cluster
+Unrefined Air Cluster
+Unrefined Earth Cluster
+Unrefined Fire Cluster
+Unrefined Water Cluster
+Magic Laudanum
+Bundle of Herbs
+Opium Petal
+Opium Seeds
+Blank Essence
+Ash
+Protoplasmic Sample
+Archaic Hammer Head
+Clot of Blood
+Mirror of the Soul
+Air Essence
+Hammer of Heat
+Sacrificial Dagger
+Heart of Stone
+Empty Tympanum
+Chaotic Incantation
+Incantation of Light
+Hungry Incantation
+Incantation of Forging
+Incantation of Recruitment
+Conflagrating Incantation
+Incantation of Wind
+Incantation of Gaia
+Incantation of Stars
+Incantation of the Depths
+Incantation of Compression
+Incantation of the Sun
+Incantation of the Moon
+Incantation of the Sky
+Binding Incantation
+Unbinding Incantation
+Sharing Incantation
+Incantation of Reforging
+Glorious Incantation
+Hollow Incantation
+Occult Contract
+Dimensional Nexus
+Cult Badge
+Golden Thread
+Purest Water

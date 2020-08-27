@@ -1,0 +1,46 @@
+Regular Pipe
+Micro Pipe
+Redstone Motor
+Flux Crystal Ore
+Redstone Flywheel
+Large Pipe
+Flux Crystal
+Sawtooth Sprocket
+Redstone Response Circuit
+Expandolic Bucket
+Turbine (Air)
+Redstone Toggle Circuit
+Redstone - RF Transformer
+Simple Torque System
+Spool of Redstone Wire
+One-Way Motion Transfer Mechanism
+Small Spring
+Bar Gear
+V-Tooth Gear
+Gear Assembly (Simple)
+Gears and Mechanisms
+Turbine Blade (Water)
+Redstone Circuit Stud
+Expanding
+Medium Spring
+Lock and Release Mechanism
+Gear Assembly (Complex)
+Powerful Torque System
+Spring Release Mechanism
+Thick Pipe
+Expandolic Piston
+Gasket
+Redstone Wire
+Turbine (Water)
+Gear Assembly (Average)
+Big Pipe
+Tiny Pipe
+Kinetic Dynamo
+Small Pipe
+Big Spring
+Spur Gear
+Durable Torque System
+Spiral Gear
+Telescoping Spikes
+Redstone Circuitry
+Turbine Blade (Air)

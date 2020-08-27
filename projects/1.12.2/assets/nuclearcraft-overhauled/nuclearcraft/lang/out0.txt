@@ -1,0 +1,47 @@
+Copper Ore
+Tin Ore
+Lead Ore
+Thorium Ore
+Uranium Ore
+Boron Ore
+Lithium Ore
+Magnesium Ore
+Copper Block
+Tin Block
+Lead Block
+Thorium Block
+Uranium Block
+Boron Block
+Lithium Block
+Magnesium Block
+Graphite Block
+Beryllium Block
+Zirconium Block
+Manganese Block
+Aluminum Block
+Silver Block
+Manganese Oxide Block
+Manganese Dioxide Block
+Heavy Water Moderator
+Fission Reactor Moderator
+Flux Factor: %s
+Efficiency Multiplier: %s
+Moderators are the medium through which one fission reactor cell/vessel sends neutron flux to another or itself. A moderator line consists of EITHER at most %s collimated moderators with a cell/vessel at one endpoint and a cell/vessel at the other OR at most %s collimated moderators with a cell/vessel at one endpoint and a neutron reflector at the other. Moderators are only considered 'active' if part of a line AND adjacent to at least one functional endpoint cell/vessel. A primed or functional cell/vessel sends flux down the line, either to be accepted by the other cell/vessel or to be sent back by the reflector. The total flux sent is the sum of flux factors of the moderators in the line. This is doubled in the case of reflection, and is multiplied by the reflector's reflectivity factor. Finally, the total efficiency of the cells at the line endpoints is multiplied by the mean efficiency of the lines it receives flux from - the efficiency of a line is the mean efficiency multiplier of the moderators in the line.
+Beryllium-Carbon Neutron Reflector
+Lead-Steel Neutron Reflector
+Fission Reactor Reflector
+Efficiency Multiplier: %s
+Reflectivity Factor: %s
+Uranium-238 Block
+Neptunium-237 Block
+Plutonium-242 Block
+Americium-243 Block
+Curium-246 Block
+Berkelium-247 Block
+Californium-252 Block
+Supercold Ice
+Nuclear Furnace
+Smelts items very quickly using uranium ingots and dust as fuel.
+Manufactory
+A handy machine that has many uses.
+Separator

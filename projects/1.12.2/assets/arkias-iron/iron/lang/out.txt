@@ -1,0 +1,77 @@
+IrON Ore
+Nether IrON Ore
+IrON Mixture
+Iridium Bricks
+Glowing Iridium Bricks
+Glowing Iridium Bricks
+Iridium Block
+Biridium Block
+Triridium Block
+Quadridium Block
+Quintridium Block
+Sextridium Block
+Septridium Block
+Octridium Block
+Nonadium Block
+Decadrium Block
+Fake Cobblestone
+Iridium Catalyst
+Biridium Catalyst
+Triridium Catalyst
+Quadridium Catalyst
+Quintridium Catalyst
+Sextridium Catalyst
+Septridium Catalyst
+Octridium Catalyst
+Nonadium Catalyst
+Decadrium Catalyst
+IrON
+Iridium Ingot
+Biridium Ingot
+Triridium Ingot
+Quadridium Ingot
+Quintridium Ingot
+Sextridium Ingot
+Septridium Ingot
+Octridium Ingot
+Nonadium Ingot
+Decadrium Ingot
+Iridium Catalyst
+Biridium Catalyst
+Triridium Catalyst
+Quadridium Catalyst
+Quintridium Catalyst
+Sextridium Catalyst
+Septridium Catalyst
+Octridium Catalyst
+Nonadium Catalyst
+Decadrium Catalyst
+Copper Ingot
+Blue Silver Ingot
+Tin Ingot
+Pink Lead Ingot
+FeAr Ingot
+Stone Hammer
+Coal Fragment
+Flight Chestplate
+IrON
+Iridium Catalyst
+Biridium Catalyst
+Triridium Catalyst
+Quadridium Catalyst
+Quintridium Catalyst
+Sextridium Catalyst
+Septridium Catalyst
+Octridium Catalyst
+Nonadium Catalyst
+Decadrium Catalyst
+Iridium Catalyst
+Biridium Catalyst
+Triridium Catalyst
+Quadridium Catalyst
+Quintridium Catalyst
+Sextridium Catalyst
+Septridium Catalyst
+Octridium Catalyst
+Nonadium Catalyst
+Decadrium Catalyst

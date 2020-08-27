@@ -1,0 +1,47 @@
+Lingering Potion of Annihilation
+Plasma Spear
+Oil Drill
+Pistol
+Oil Splitter
+Golden Pistol Handle
+Copper Ore
+ite.plasma_blaster.bullet
+Pistol
+item.katana.force_field
+Plastic Covered Iron Handle
+Pistol
+Pistol
+item.katana.force_field
+Pistol
+Pistol
+Green Plastic
+Bog
+Dry Rubber Tree Wood
+Lamp
+Sulfur
+Triple Rocket Engine
+Pistol
+Vessel Holder
+Coil
+Pistol
+Iron Rod
+Pistol
+item.katana.force_field
+Chemistry Lab
+Circuit Creator
+Wooden Muzzle
+Arrow of Potion of Annihilation
+Oil
+Plasma Spear
+Splash Potion of Annihilation
+Copper Wire
+Storage Device
+Natural Rubber
+Nether Blast Chamber
+Katana Sheat
+Pistol
+Stone Pistol Handle
+Iron Muzzle
+Pistol
+Wire
+Raw Quartz Shard

@@ -1,0 +1,3 @@
+setskin.missingargs
+setskin.clearedcache
+setskin.setplayer

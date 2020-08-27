@@ -1,0 +1,4 @@
+Try to animate the possibly imported models to fix their rotations?
+Don't touch this. Seriously.
+Time (in ticks) for tooltip to appear.
+Wax Tablet

@@ -1,0 +1,3 @@
+commands.fly.usage
+commands.fly.successfulon
+commands.fly.successfuloff

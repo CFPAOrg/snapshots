@@ -1,0 +1,76 @@
+Glowing Magenta Carpet
+Glowing Red Carpet
+Glowing Orange Carpet
+Glowing Gold Carpet
+Glowing Green Carpet
+Glowing Cyan Carpet
+Glowing Blue Carpet
+Glowing Purple Carpet
+Glowing White Stained Glass
+Glowing Magenta Stained Glass
+Glowing Red Stained Glass
+Glowing Orange Stained Glass
+Glowing Gold Stained Glass
+Glowing Green Stained Glass
+Glowing Cyan Stained Glass
+Glowing Blue Stained Glass
+Glowing Purple Stained Glass
+Glowing White Stained Glass Pane
+Glowing Magenta Stained Glass Pane
+Glowing Red Stained Glass Pane
+Glowing Orange Stained Glass Pane
+Glowing Gold Stained Glass Pane
+Glowing Green Stained Glass Pane
+Glowing Cyan Stained Glass Pane
+Glowing Blue Stained Glass Pane
+Glowing Purple Stained Glass Pane
+Glowing White Terracotta
+Glowing Magenta Terracotta
+Glowing Red Terracotta
+Glowing Orange Terracotta
+Glowing Gold Terracotta
+Glowing Green Terracotta
+Glowing Cyan Terracotta
+Glowing Blue Terracotta
+Glowing Purple Terracotta
+Glowing White Glazed Terracotta
+Glowing Magenta Glazed Terracotta
+Glowing Red Glazed Terracotta
+Glowing Orange Glazed Terracotta
+Glowing Gold Glazed Terracotta
+Glowing Green Glazed Terracotta
+Glowing Cyan Glazed Terracotta
+Glowing Blue Glazed Terracotta
+Glowing Purple Glazed Terracotta
+Glowing White Concrete Powder
+Glowing Magenta Concrete Powder
+Glowing Red Concrete Powder
+Glowing Orange Concrete Powder
+Glowing Gold Concrete Powder
+Glowing Green Concrete Powder
+Glowing Cyan Concrete Powder
+Glowing Blue Concrete Powder
+Glowing Purple Concrete Powder
+Glowing White Concrete
+Glowing Magenta Concrete
+Glowing Red Concrete
+Glowing Orange Concrete
+Glowing Gold Concrete
+Glowing Green Concrete
+Glowing Cyan Concrete
+Glowing Blue Concrete
+Glowing Purple Concrete
+Candle
+Light Gray Candle
+Gray Candle
+Black Candle
+Brown Candle
+Pink Candle
+Red Candle
+Orange Candle
+Yellow Candle
+Lime Candle
+Green Candle
+Cyan Candle
+Light Blue Candle
+Blue Candle

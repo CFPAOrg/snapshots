@@ -1,0 +1,7 @@
+tile.simplycrafting:simply_crafter.name
+tile.simplycrafting:simply_crafter.tooltip
+tile.simplycrafting:simply_crafter.jei.1
+tile.simplycrafting:simply_crafter.jei.2
+tile.simplycrafting:simply_crafter.jei.3
+tile.simplycrafting:simply_crafter.jei.4
+tile.simplycrafting:simply_crafter.jei.5

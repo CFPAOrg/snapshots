@@ -1,0 +1,4 @@
+item.soulminion.soulminion.name
+entity.soulminion.SoulMinion.name
+soulminion.newsoul
+soulminion.included_soul

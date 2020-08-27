@@ -1,0 +1,5 @@
+tile.flexiblemarker.name
+tile.marker16.name
+gui.left
+gui.forward
+gui.right

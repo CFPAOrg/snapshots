@@ -1,0 +1,14 @@
+entity.cow2.name
+entity.cow5.name
+item.porkchop.name
+item.doritos.name
+entity.cow.name
+entity.luckycow.name
+tile.pearleaves.name
+item.cookedsteak.name
+entity.cow4.name
+item.steak.name
+item.cookedporkchop.name
+entity.cow3.name
+item.grape.name
+item.pear.name

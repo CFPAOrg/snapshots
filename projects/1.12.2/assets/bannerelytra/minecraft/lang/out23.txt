@@ -1,0 +1,63 @@
+/worldborder set <sizeInBlocks> [timeInSeconds]
+Set world border to %s blocks wide (from %s blocks)
+World border is currently %s blocks wide
+Shrinking world border to %s blocks wide (down from %s blocks) over %s seconds
+Growing world border to %s blocks wide (up from %s blocks) over %s seconds
+/worldborder center <x> <z>
+Set world border center to %s, %s
+/worldborder damage <buffer|amount> ...
+/worldborder damage buffer <sizeInBlocks>
+Set world border damage buffer to %s blocks (from %s blocks)
+/worldborder damage amount <damagePerBlock>
+Set world border damage amount to %s per block (from %s per block)
+/worldborder warning <time|distance> ...
+/worldborder warning time <seconds>
+Set world border warning to %s seconds away (from %s seconds)
+/worldborder warning distance <distance>
+Set world border warning to %s blocks away (from %s blocks)
+/title <player> title|subtitle|actionbar|clear|reset|times ...
+/title <player> title|subtitle|actionbar <raw json title>
+/title <player> clear|reset
+/title <player> times <fadeIn> <stay> <fadeOut>
+Title command successfully executed
+/stopsound <player> [source] [sound]
+Source %s is unknown
+Stopped sound '%s' with source '%s' for %s
+Stopped source '%s' for %s
+Stopped all sounds for %s
+/locate <feature>
+Located %s at %s (y?) %s
+Unable to locate any %s feature
+Building Blocks
+Decoration Blocks
+Redstone
+Transportation
+Miscellaneous
+Search Items
+Foodstuffs
+Tools
+Combat
+Brewing
+Materials
+Survival Inventory
+Saved Toolbars
+Destroy Item
+Item toolbar saved (restore with %1$s+%2$s)
+Save toolbar with %1$s+%2$s
+Set Console Command for Block
+Command set: %s
+Console Command
+Use "@p" to target nearest player
+Use "@r" to target random player
+Use "@a" to target all players
+Use "@e" to target all entities
+Use "@s" to target the executing entity
+Previous Output
+Chain
+Repeat
+Impulse
+Conditional
+Unconditional
+Needs Redstone
+Always Active
+Command blocks are not enabled on this server

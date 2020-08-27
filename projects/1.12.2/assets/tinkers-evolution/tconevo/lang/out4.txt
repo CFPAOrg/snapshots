@@ -1,0 +1,36 @@
+Attuned (Discidia)
+§oEffervescent!§r\nThis tool is aligned with Discidia and deals increased damage.
+Attuned (Evorsio)
+§oEffervescent!§r\nThis tool is aligned with Evorsio and destroys blocks faster.
+Attuned (Vicio)
+§oEffervescent!§r\nThis tool is aligned with Vicio and grants speed on fully-charged hits.
+Attuned (Bootes)
+§oEffervescent!§r\nThis tool is aligned with Bootes and gains silk touch.
+Attuned (Fornax)
+§oEffervescent!§r\nThis tool is aligned with Fornax and ignites enemies on fully-charged hits.
+Attuned (Horologium)
+§oEffervescent!§r\nThis tool is aligned with Horologium and freezes time on fully-charged hits.
+Attuned (Lucerna)
+§oEffervescent!§r\nThis tool is aligned with Lucerna and illuminates enemies on fully-charged hits.
+Attuned (Mineralis)
+§oEffervescent!§r\nThis tool is aligned with Mineralis and gains fortune.
+Attuned (Octans)
+§oEffervescent!§r\nThis tool is aligned with Octans and is more efficient in water.
+Attuned (Pelotrio)
+§oEffervescent!§r\nThis tool is aligned with Pelotrio and repairs itself over time.
+Astral
+§oShimmering!§r\nThis armour piece can be attuned to a constellation at an Attunement Altar.
+Attuned (Aevitas)
+§oEffervescent!§r\nThis armour piece is aligned with Aevitas and grants regeneration after taking damage.
+Attuned (Armara)
+§oEffervescent!§r\nThis armour piece is aligned with Armara and affords increased protection.
+Attuned (Discidia)
+§oEffervescent!§r\nThis armour piece is aligned with Discidia and reflects a portion of incoming damage.
+Attuned (Evorsio)
+§oEffervescent!§r\nThis armour piece is aligned with Evorsio and grants haste.
+Attuned (Vicio)
+§oEffervescent!§r\nThis armour piece is aligned with Vicio and grants speed after taking damage.
+Attuned (Bootes)
+§oEffervescent!§r\nThis armour piece is aligned with Bootes and summons flares after taking damage.
+Attuned (Fornax)
+§oEffervescent!§r\nThis armour piece is aligned with Fornax and grants fire resistance.

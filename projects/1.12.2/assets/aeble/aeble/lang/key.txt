@@ -1,0 +1,10 @@
+itemGroup.tabAEble
+item.air_ring.name
+item.ice_ring.name
+item.regeneration_ring.name
+item.bubble_ring.name
+item.zanite_ring.name
+item.obsidian_ring.name
+item.valkyrie_belt.name
+item.luck_belt.name
+item.repulsion_belt.name

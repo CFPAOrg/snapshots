@@ -1,0 +1,11 @@
+item.vampirespear.name
+entity.vampire.name
+entity.blackknight.name
+item.trident.name
+item.whiteknightsword.name
+entity.drakula.name
+item.blackknightsword.name
+item.charredsword.name
+entity.whiteknight.name
+entity.drowned.name
+entity.charred.name

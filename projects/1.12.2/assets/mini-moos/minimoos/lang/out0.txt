@@ -1,0 +1,67 @@
+Fluid Moo
+Mini Moo
+Fool Moo
+Unstable Moo
+Void Moo
+Demon Moo
+Sacred Moo
+Twilight Moo
+Angel Moo
+Forsaken Moo
+§cYak Capone
+§cVeal Corleone
+§cTony Mootana
+§cEmilkio Barzini
+§cFrank Cattlello
+§cBig Scalda
+§cCostume King
+§cAbnormal Moo
+§5Spooky Moo
+§5Bunny Moo
+§5First Day Moo
+§5Golden Moo
+§5Queen Heart Moo
+§5Santa Moo
+§5Turkey Moo
+§6Costume Moo
+§6Statue Moo
+§6Svenieke Moo
+§6Bysco Moo
+Mini Moos
+Demon Soul
+Golden Essence
+Twilight Shard
+Angel Crystal
+§5Forsaken Fruit
+Mini Wheat
+The Mooing Star
+Fake Golden Ingot
+Feed it to a Fluid Moo to improve efficiency.
+Feed it to a Sacred or Demon moo to make them reproduce.
+You only need to feed it to one.
+Feed it to a Fluid Moo to improve quantity.
+Feed it to a Fluid Moo to double the chance of feed.
+Feed it to a Fluid Moo to change it's fluid randomly.
+Feed it to a Costume Moo to change it to a holiday moo.
+Is used to breed Fluid Moos (Only works with fluid moos).
+Try feed it to any moo to turn it into a boss. Only works in some moos, find out which ones.
+Feed it to a Fluid Moo to improve efficiency.
+ 
+§3Efficiency§r will lower the delay between milking cycles.
+Feed it to a Sacred or Demon moo to make them reproduce.
+ 
+You only need to feed it to one for it to reproduce.
+Feed it to a Fluid Moo to improve quantity.
+ 
+§3Quantity§r will increase the amount of buckets you get to milk each cycle.
+Feed it to a Fluid Moo to double the chance of feed.
+ 
+§3Double Chance§r will increase the chance to change the fluid of a moo when you feed it a "treat".
+Feed it to a Fluid Moo to change it's fluid randomly.
+ 
+Feed it to a Costume Moo to change it to a holiday moo.
+Is used to breed Fluid Moos.
+ 
+Feeding two moos of the same fluid will generate a child with the same fluid, however they have trouble reproducing with moos of the same type, so it might fail.
+ 
+Feeding two moos with different fluids that can generate an alloy/new fluid will result in a child of that new fluid. 

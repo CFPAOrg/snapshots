@@ -1,0 +1,48 @@
+This option should only be used to fix incorrect waypoint coordinates.
+Are you sure you would like to MULTIPLY all sub-world coordinates by 8?
+Are you sure you would like to DIVIDE all sub-world coordinates by 8?
+Share
+Are you sure you would like to share this waypoint with §cEVERYONE§f in chat?
+Please make sure you don't expose a secret location.
+Roof
+Partial
+Full
+Show Light Level
+[Go Up]
+[Go Down]
+Toggle All WP Sets Render
+Overlay Render Layer
+Display Game Time
+24h
+12h
+temporary
+Restore
+Biomes In Vanilla Mode
+Blink When Low
+Multiworld Detection
+Close
+WP Dist. Horis. Angle
+WP Dist. Vertic. Angle
+Teleportation
+Once disabled, can only be enabled through the config file!
+Disable if this is a simple server with a single world (no lobbies, game mode worlds etc). Multiworld detection can only cause issues on such servers. Installing the mod on server side should prevent the issues though.
+Teleport Chat Command
+Use Default
+Waypoint Name
+Center When Enlarged
+Zoom Out When Enlarged
+Sort By
+Reversed Sort Order
+Unsorted
+Name
+Initial
+Distance
+Mapping mode that can go deeper than the surface blocks, mainly to display underground caves and interiors of buildings. The roof size stands for the size of a solid horizontal "square" of blocks that needs to be detected above you to activate the cave mode.
+The limit per each entity category.
+Which ingame waypoints to show the distance to for.
+Display distance even when the waypoint is very close. This does not override the "Distance To WP" option.
+Scale for the arrow used in the non-rotating variant of the minimap and some other cases.
+Color of the arrow used in the non-rotating variant of the minimap and some other cases.
+Display player heads instead of coloured dots even if the TAB key is not pressed.
+How much to zoom further in when the cave maps mode is active.
+Display entities darker depending on their Y level relative to you.

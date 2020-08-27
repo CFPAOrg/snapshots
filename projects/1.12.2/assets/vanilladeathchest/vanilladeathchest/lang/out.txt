@@ -1,0 +1,59 @@
+Defense
+Damage unlocker instead of consume
+Defense entity drops experience
+Defense entity drops items
+Defense entity max distance squared
+Defense entity max distance squared from player
+Defense entity NBT
+Defense entity registry name
+Defense entity spawn count
+Unlocker
+Unlocker consume amount
+Unlocker meta
+Unlock failed message
+Unlock failed status message
+Miscellaneous
+Death chests disappear when emptied
+Drop death chests
+Gamerule default value
+Gamerule name
+/vdcreload
+/vdcreloadclient
+Protection
+Bypass if creative mode
+Bypass permission level
+Enabled
+Protection period in ticks
+Spawning
+Chat message
+Container display name
+Chest type
+Single only
+Single or double
+Shulker box
+Single or double shulker box
+§fWhite
+§6Orange
+§bMagenta
+§9Light blue
+§eYellow
+§aLime
+§dPink
+§8Gray
+§7Silver
+§3Cyan
+§5Purple
+§1Blue
+§6Brown
+§2Green
+§4Red
+§0Black
+§0R§1a§2n§3d§4o§5m
+Force place if location not found
+Location search radius
+Must be on solid blocks
+Registry name regex
+Use container in inventory
+Shulker box color
+/vdcreloadclient
+VanillaDeathChest client-sided configuration reloaded!

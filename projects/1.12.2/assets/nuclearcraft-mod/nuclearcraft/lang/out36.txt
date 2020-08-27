@@ -1,0 +1,31 @@
+Max number of tool uses. Order: boron, boron spaxelhoe, tough alloy, tough alloy spaxelhoe, hard carbon, hard carbon spaxelhoe, boron nitride, boron nitride spaxelhoe.
+Mining Speeds
+Attack Damages
+Enchantabilities
+Determines the quality of applied enchantments. Order: boron, boron spaxelhoe, tough alloy, tough alloy spaxelhoe, hard carbon, hard carbon spaxelhoe, boron nitride, boron nitride spaxelhoe.
+TiC Handle Modifiers
+Determines the Tinkers' Construct handle modifiers of the materials. Order: boron, tough alloy, hard carbon, boron nitride.
+TiC Tool Material Registration
+Will these materials be registered as tool materials for Tinkers' Construct? Order: boron, tough alloy, hard carbon, boron nitride, thorium, uranium, magnesium, chocolate.
+Armor Configs
+Configure armor.
+Durabilities
+Durabilities of armor types. Order: boron, tough alloy, hard carbon, boron nitride, hazmat.
+Boron Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Tough Alloy Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Hard Carbon Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Boron Nitride Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Hazmat Suit Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Enchantabilities
+Determines the quality of applied enchantments. Order: boron, tough alloy, hard carbon, boron nitride, hazmat.
+Toughnesses
+Toughnesses of armor types. Order: boron, tough alloy, hard carbon, boron nitride, hazmat.
+ConArm Armor Material Registration
+Will these materials be registered as armor materials for Construct's Armory? Order: boron, tough alloy, hard carbon, boron nitride, thorium, uranium, magnesium, chocolate.
+Entity Configs
+Configure entities.

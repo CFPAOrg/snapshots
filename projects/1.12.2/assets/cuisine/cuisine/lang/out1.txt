@@ -1,0 +1,166 @@
+Citrus Trapdoor
+Pomelo Sapling
+Citron Sapling
+Mandarin Sapling
+Grapefruit Sapling
+Orange Sapling
+Lemon Sapling
+Lime Sapling
+Pomelo Leaves
+Citron Leaves
+Mandarin Leaves
+Grapefruit Leaves
+Orange Leaves
+Lemon Leaves
+Lime Leaves
+Pomelo Leaves
+Citron Leaves
+Mandarin Leaves
+Grapefruit Leaves
+Oragne Leaves
+Lemon Leaves
+Lime Leaves
+Citrus Boat
+Telekinesis
+Tele... porting?
+Golden Apple
+Give extra effects
+Enchanted Golden Apple
+Give extra effects
+Flavor Enhancer
+Extra flavor
+Harmony
+Randomly remove an ingredient's negative traits
+Sophisticated
+Give small amount of xp
+Dispersal
+Drive away hositile mobs
+Power
+Gain Strength
+Clear Sight
+Gain nightvision
+Clear Sight Ⅱ
+Gain longer nightvision
+Jump Boost
+Gain Jump Boost effect
+Hot
+Something serious than spicy
+Always Edible
+Always Edible
+Puffer Poison
+Puffer Poison
+Water Breathing
+Water Breathing
+Fermented Saltwort
+Fermented Saltwort
+Sustained Release
+Poison Curing
+Heat Resistence
+Cold Resistence
+Spooky
+%s
+%s Cube
+Sliced %s
+Shredded %s
+Diced %s
+Minced %s
+Paste of %s
+%s Juice
+Mystical Thing
+Peanut
+Sesame
+Rice
+Soybean
+Tomato
+Chili
+Garlic
+Ginger
+Szechuan Peppercorn
+Scallion
+Turnip
+Cabbage
+Lettuce
+Corn
+Cucumber
+Green Pepper
+Red Pepper
+Leek
+Onion
+Eggplant
+Spinach
+Bamboo shoot
+Tofu
+Pickles
+Cactus
+Mandarin
+Citron
+Pomelo
+Orange
+Lemon
+Grapefruit
+Lime
+Empowered Citron
+Chorus Fruit
+Apple
+Golden Apple
+Golden Apple of Idun
+Golden Carrot
+Watermelon
+Pumpkin
+Carrot
+Potato
+Beetroot
+Mushroom
+Chicken
+Egg
+Beef
+Pork
+Mutton
+Rabbit
+Fish
+Pufferfish
+Cranberry
+Pineapple
+Blackberry
+Blueberry
+Cactus Fruit
+Cantaloupe
+Grape
+Kiwi
+Raspberry
+Strawberry
+Banana
+Cherry
+Dragonfruit
+Mango
+Papaya
+Peach
+Pear
+Plum
+Pomegranate
+Starfruit
+Gooseberry
+Apricot
+Date
+Fig
+Persimmon
+Pawpaw
+Soursop
+Guava
+Lychee
+Passion Fruit
+Rambutan
+Jackfruit
+Ironberry
+Wildberry
+Asparagus
+Beans
+Broccoli
+Cauliflower
+Celery
+Parsnip
+Radish
+Rutabaga
+Sweet Potato
+Artichoke
+Brussel Sprout

@@ -1,0 +1,101 @@
+Yellow Diorite
+Light Blue Diorite
+Magenta Diorite
+Orange Diorite
+White Diorite
+Black Polished Diorite
+Red Polished Diorite
+Green Polished Diorite
+Brown Polished Diorite
+Blue Polished Diorite
+Purple Polished Diorite
+Cyan Polished Diorite
+Light Gray Polished Diorite
+Gray Polished Diorite
+Pink Polished Diorite
+Lime Polished Diorite
+Yellow Polished Diorite
+Light Blue Polished Diorite
+Magenta Polished Diorite
+Orange Polished Diorite
+White Polished Diorite
+Black Andesite
+Red Andesite
+Green Andesite
+Brown Andesite
+Blue Andesite
+Purple Andesite
+Cyan Andesite
+Light Gray Andesite
+Gray Andesite
+Pink Andesite
+Lime Andesite
+Yellow Andesite
+Light Blue Andesite
+Magenta Andesite
+Orange Andesite
+White Andesite
+Black Polished Andesite
+Red Polished Andesite
+Green Polished Andesite
+Brown Polished Andesite
+Blue Polished Andesite
+Purple Polished Andesite
+Cyan Polished Andesite
+Light Gray Polished Andesite
+Gray Polished Andesite
+Pink Polished Andesite
+Lime Polished Andesite
+Yellow Polished Andesite
+Light Blue Polished Andesite
+Magenta Polished Andesite
+Orange Polished Andesite
+White Polished Andesite
+Black Dirt
+Red Dirt
+Green Dirt
+Brown Dirt
+Blue Dirt
+Purple Dirt
+Cyan Dirt
+Light Gray Dirt
+Gray Dirt
+Pink Dirt
+Lime Dirt
+Yellow Dirt
+Light Blue Dirt
+Magenta Dirt
+Orange Dirt
+White Dirt
+Black Coarse Dirt
+Red Coarse Dirt
+Green Coarse Dirt
+Brown Coarse Dirt
+Blue Coarse Dirt
+Purple Coarse Dirt
+Cyan Coarse Dirt
+Light Gray Coarse Dirt
+Gray Coarse Dirt
+Pink Coarse Dirt
+Lime Coarse Dirt
+Yellow Coarse Dirt
+Light Blue Coarse Dirt
+Magenta Coarse Dirt
+Orange Coarse Dirt
+White Coarse Dirt
+Black Cobblestone
+Red Cobblestone
+Green Cobblestone
+Brown Cobblestone
+Blue Cobblestone
+Purple Cobblestone
+Cyan Cobblestone
+Light Gray Cobblestone
+Gray Cobblestone
+Pink Cobblestone
+Lime Cobblestone
+Yellow Cobblestone
+Light Blue Cobblestone
+Magenta Cobblestone
+Orange Cobblestone
+White Cobblestone

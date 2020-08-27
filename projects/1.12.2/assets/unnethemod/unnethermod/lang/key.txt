@@ -1,0 +1,4 @@
+tile.frozenore.name
+item.unnether.name
+tile.frozenobsidian.name
+item.diaxon.name

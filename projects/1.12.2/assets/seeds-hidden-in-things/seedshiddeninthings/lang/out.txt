@@ -1,0 +1,11 @@
+Seeds Hidden in Things
+Seedy Poo
+Dropped Seedy Poo
+Seed Drop Weight
+The probability (as a percent) that a thrown Seedy Poo will drop a seed.
+Droppable Seeds
+The seeds that can drop from a Seedy Poo. Accepts item IDs and oreDict values.
+Poop Chance
+How likely an entity is to poop when the time comes (this is a percentage).
+Ticks to Poop Chance
+The number of seconds between poop chances.

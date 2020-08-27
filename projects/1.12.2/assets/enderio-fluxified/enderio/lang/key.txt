@@ -1,0 +1,8 @@
+enderio.power.symbol
+enderio.power.format
+enderio.power.format.of
+enderio.power.format.pertick
+enderio.power.format.name
+enderio.top.suffix.rf
+enderio.gui.stirling_generator.remaining
+tile.block_wired_charger.tooltip.detailed.line1

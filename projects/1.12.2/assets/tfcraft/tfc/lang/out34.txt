@@ -1,0 +1,100 @@
+Gold Double Sheet
+Lead Double Sheet
+Nickel Double Sheet
+Rose Gold Double Sheet
+Silver Double Sheet
+Tin Double Sheet
+Zinc Double Sheet
+Sterling Silver Double Sheet
+Wrought Iron Double Sheet
+Pig Iron Double Sheet
+Steel Double Sheet
+Platinum Double Sheet
+Black Steel Double Sheet
+Blue Steel Double Sheet
+Red Steel Double Sheet
+Bismuth Bronze Anvil
+Black Bronze Anvil
+Bronze Anvil
+Copper Anvil
+Wrought Iron Anvil
+Steel Anvil
+Black Steel Anvil
+Blue Steel Anvil
+Red Steel Anvil
+Bismuth Bronze Tuyere
+Black Bronze Tuyere
+Bronze Tuyere
+Copper Tuyere
+Wrought Iron Tuyere
+Steel Tuyere
+Black Steel Tuyere
+Blue Steel Tuyere
+Red Steel Tuyere
+Bismuth Bronze Pickaxe
+Black Bronze Pickaxe
+Bronze Pickaxe
+Copper Pickaxe
+Wrought Iron Pickaxe
+Steel Pickaxe
+Black Steel Pickaxe
+Blue Steel Pickaxe
+Red Steel Pickaxe
+Bismuth Bronze Pickaxe Head
+Black Bronze Pickaxe Head
+Bronze Pickaxe Head
+Copper Pickaxe Head
+Wrought Iron Pickaxe Head
+Steel Pickaxe Head
+Black Steel Pickaxe Head
+Blue Steel Pickaxe Head
+Red Steel Pickaxe Head
+Bismuth Bronze Shovel
+Black Bronze Shovel
+Bronze Shovel
+Copper Shovel
+Wrought Iron Shovel
+Steel Shovel
+Black Steel Shovel
+Blue Steel Shovel
+Red Steel Shovel
+Bismuth Bronze Shovel Head
+Black Bronze Shovel Head
+Bronze Shovel Head
+Copper Shovel Head
+Wrought Iron Shovel Head
+Steel Shovel Head
+Black Steel Shovel Head
+Blue Steel Shovel Head
+Red Steel Shovel Head
+Bismuth Bronze Axe
+Black Bronze Axe
+Bronze Axe
+Copper Axe
+Wrought Iron Axe
+Steel Axe
+Black Steel Axe
+Blue Steel Axe
+Red Steel Axe
+Bismuth Bronze Axe Head
+Black Bronze Axe Head
+Bronze Axe Head
+Copper Axe Head
+Wrought Iron Axe Head
+Steel Axe Head
+Black Steel Axe Head
+Blue Steel Axe Head
+Red Steel Axe Head
+Bismuth Bronze Hoe
+Black Bronze Hoe
+Bronze Hoe
+Copper Hoe
+Wrought Iron Hoe
+Steel Hoe
+Black Steel Hoe
+Blue Steel Hoe
+Red Steel Hoe
+Bismuth Bronze Hoe Head
+Black Bronze Hoe Head
+Bronze Hoe Head
+Copper Hoe Head

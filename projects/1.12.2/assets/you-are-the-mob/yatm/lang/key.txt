@@ -1,0 +1,16 @@
+yatm:zombie
+yatm:squid
+yatm:player
+yatm:creeper
+yatm:spider
+yatm:skeleton
+yatm:llama
+yatm:blaze
+yatm:zombie.desc
+yatm:creeper.desc
+yatm:llama.desc
+yatm:blaze.desc
+yatm.gui.done
+item.yatm.mob_ability.name
+entity.human.name
+entity.human_despawnable.name

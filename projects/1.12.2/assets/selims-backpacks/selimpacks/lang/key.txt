@@ -1,0 +1,12 @@
+item.selimpacks:backpack.name
+item.selimpacks:smelting_upgrade.name
+item.selimpacks:collection_upgrade.name
+item.selimpacks:capacity_upgrade.name
+item.selimpacks:ender_upgrade.name
+key.selimpacks.category
+key.selimpacks:open_backpack
+key.selimpacks:open_upgrades
+misc.selimpacks:backpack_tooltip
+misc.selimpacks:backpack_inv
+misc.selimpacks:upgrade_inv
+itemGroup.selimpacks

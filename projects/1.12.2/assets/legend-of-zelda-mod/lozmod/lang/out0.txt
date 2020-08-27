@@ -1,0 +1,111 @@
+Legend of Zelda Mod V4
+Boomerang [WIP]
+Magic Boomerang [WIP]
+Bomb
+Bomb Arrow [WIP]
+§aLink's Cap
+§aLink's Tunic
+§aLink's Tights
+§aLink's Boots
+Green Rupee
+Red Rupee
+Blue Rupee
+Yellow Rupee
+Silver Rupee
+Purple Rupee
+Orange Rupee
+Arrow
+Silver Arrow
+Hero's Bow
+Sword
+§3Sword L2
+§6Sword L3
+Non-powered Master Sword [WIP]
+1/2 Powered Master Sword [WIP]
+Master Sword
+Recorder [WIP]
+Magic Powder Bag
+Magic Powder
+Bag
+Wallet
+§3Wallet
+§6Wallet
+§bZora Cap
+§bZora Tunic
+§bZora Tights
+§4Goron Cap
+§4Goron Tunic
+§4Goron Tights
+§bHeavy Iron Boots [WIP]
+§4Hover Boots [WIP]
+§cHeart Container
+§cPiece of Heart
+§aGreen Leather
+§cRed Leather
+§bBlue Leather
+§6Triforce
+§6Triforce Piece
+§6Triforce Piece
+§6Triforce Piece
+§6Triforce Piece
+Music Disc
+Pedestal
+pedestalSword
+Magical Infuser
+?
+Hero's Bow
+Powerless Master Sword
+Healing Stone
+Healing Stone Recharge Station
+Energised XP Orb
+Powerless XP Orb
+Deku Shield
+Legend of Zelda Theme
+Legend of Zelda Mod v4
+Master Sword
+Triforce
+Master Sword Husk
+Itemized XP
+Healing Stone Station
+Healing Stone
+Acquire Green Rupee
+Craft Blue Rupee
+Craft Yellow Rupee
+Craft Red Rupee
+Craft Purple Rupee
+Craft Orange Rupee
+Craft Silver Rupee
+Humble Beginnings
+1k
+10k
+100k
+1m
+100m
+1b
+Acquire a Master Sword
+Acquire a Triforce
+Acquire a Master Sword Husk
+Acquire a Itemized XP
+Acquire a Healing Stone Station
+Acquire a Healing Stone
+Acquire Green Rupee from a Mob Drop
+Craft a Blue Rupee
+Craft a Yellow Rupee
+Craft a Red Rupee
+Craft a Purple Rupee
+Craft a Orange Rupee
+Craft a Silver Rupee
+Acquire at least one rupee.
+Acquire at least 1,000 rupees.
+Acquire at least 10,000 rupees.
+Acquire at least 100,000 rupees.
+Acquire at least 1,000,000 rupees.
+Acquire at least 100,000,000 rupees.
+Acquire at least 1,000,000,000 rupees.
+Emanates from Within
+A Strange Energy
+A Wise Energy
+A Powerful Energy
+A Courageous Energy
+"Fake" Triforce, Used for Achievement Reasons
+Right Click on any Block

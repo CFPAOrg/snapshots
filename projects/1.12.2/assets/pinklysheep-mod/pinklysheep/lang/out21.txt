@@ -1,0 +1,10 @@
+One of the new hostile mob drops added by Pinkly Sheep. Lapis Fragments are dropped by witches, Quartz Fragments from witches and pigmen, Slime Droplets from slimes, and Silverfish Dust from silverfish.
+One of the possible toxified crops or poisoned plants produced when you spam regular crops and flowers with Sludge Renew! Crops, grass, saplings require Silk Touch to harvest.
+One of two new mushrooms that will spawn on Pinkly Mycelium naturally. You can generate these mushrooms yourself by applying Moo Shroo Poo to dirt directly.
+Wild potatoes dropped by wild potato plants. Wild potato seedlings spawn occasionally when you apply Pinkly Poo to Dirty Dirt with water nearby. Needs Vanilla Food Pantry mod to extract enzymes to powders.
+Decayed remains of fish or other sea creatures found in a recovered trawl crate. Use Putrid Fish to create chum bait for polar bears and guardians. Use Fish Bones for bonemeal.
+Trawl crates that have been filled or are being filled by a trawl station. Occasionally you will dredge up old, damaged 'Lost+Found' sealed crates when fishing.
+One of the new squirmy things added by Pinkly Sheep. Most easily obtained by breaking manure blocks, rotting logs and hay bales, or green waste. You can farm squirmies if you need large quantities.
+One of the by-products you get from farming squirmies. All box-farmed squirmies produce slimy gunk. Earthworms can also produce vermimeal while larvae can produce sticky lil poops if given grass to eat.
+Albino melon and rainbow slices. Albino melon seedlings will generate occasionally when you apply Pinkly Poo to a dirt or grass area. Expect a spawn rate of about 1 seedling per 32 attempts. Rainbow slices drop from albino melons.
+Tainted Soul Sand sludge and Tainted Souls Warts. Create tainted soul sand sludge by placing soul sand in direct contact with toxic Pig Slurry. See wiki for detailed instructions on farming tainted souls and soul warts.

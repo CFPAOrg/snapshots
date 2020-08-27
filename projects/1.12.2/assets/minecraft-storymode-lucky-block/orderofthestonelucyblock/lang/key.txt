@@ -1,0 +1,14 @@
+item.prismarinegauntlet.name
+item.goldgauntlet.name
+tile.minecraftstorymodeluckyblock.name
+item.commandblocksword.name
+item.commandshovel.name
+tile.commandtable.name
+tile.orangeiron.name
+item.commandaxe.name
+item.commandhoe.name
+itemGroup.tabluckyblockstorymodetab
+item.commandsword.name
+item.islandsurvivalisland_trigger.name
+item.commandpickaxe.name
+item.redgauntlet.name

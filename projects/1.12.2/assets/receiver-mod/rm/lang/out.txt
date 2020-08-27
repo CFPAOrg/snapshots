@@ -1,0 +1,50 @@
+.45 Cartridge
+.45 Casing
+.45 Bullet
+.22 Cartridge
+.22 Casing
+.22 Bullet
+.38 Special Cartridge
+.38 Special Casing
+.38 Special Bullet
+9mm Cartridge
+9mm Casing
+9mm Bullet
+12 Guage Shell
+12 Guage Casing
+Pellets
+RPG
+Colt 1911
+Colt Magazine
+Glock Magazine
+Rifle
+Lens
+Binoculars
+Remington 870
+Glock 17
+Small Pile of Gunpowder
+Frag Grenade
+Thompson M1928A1
+Thompson Magazine
+S&W Model 10
+Cassette
+RPG 7
+Rifle Scope
+Bullet Crafter
+Bullet Crafter
+Gun Controls
+Add Bullet/Insert Clip
+Remove Bullet/Pull Back Slide
+Remove Clip
+Slide Lock
+.22 Shot
+Bolt Up
+Bolt Back
+Bolt Forward
+Bolt Down
+.45 Shot
+Slide Forward
+Slide Back
+Reciever Mod
+Target
+Turret

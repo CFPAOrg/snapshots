@@ -1,0 +1,47 @@
+Low charge
+Enough charge
+A lot of charge
+Very very much charge
+[Extreme Energy]: You don't have implant
+[Extreme Energy]: You already have one implant
+[Extreme Energy]: You don't have modules in implant
+[Extreme Energy]: You don't have armor core in implant
+[Extreme Energy]: You don't have energy to do this action
+You feel how the ground jumps out from under your feet
+Your hair on the body is electrified
+A spark flashed between your hands
+You feel the air around you being electrified
+You got a charge of energy
+You got a strong discharge of electricity directly from the air
+An electrical charge began to flow through your clothes. You are shining
+The air began to lift you
+Oops ... It looks like a powerful field has knocked all the electrons out of your battery in the implant
+Press shift to show craft
+[Extreme Energy]: You did not enter a name for the marker
+[Extreme Energy]: Marker with this name already exists
+[Extreme Energy]: Incorrect coordinates
+[Extreme Energy]: Incorrect color
+Basics
+Blocks
+Items
+Environment
+Modules
+Equipment
+Explode Machines
+If true, all machines from overvoltage will explode
+Show Frequency Waila
+If true, frequency will show in waila tooltip
+PotionElectricShock ID
+Under what ID this potion will be registered
+Maximum chunk reserve
+Determines how much maximum RF can accommodate the chunk
+ParticleCustomPortal ID
+Under what ID this particle will be registered
+Maximum radius of teleportation
+Defines the maximum radius for teleportation by the field converter
+Nuclear explosion after reactor overheating
+Will there be a nuclear explosion when the nuclear reactor overheats
+Charged crystals
+Will the crystals be charged when they drop from the ore? If false, they will be stacked and will not cause damage to the player.
+Random chunk charge
+If true, then the charge of the chunk will be completely randomly generated, else it will be medium (standard false, so that there are no annoying lightning throughout the map)

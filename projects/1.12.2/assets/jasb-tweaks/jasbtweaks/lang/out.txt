@@ -1,0 +1,39 @@
+Fertilized Dirt
+Rich Dirt
+Decorative Coal Ore
+Decorative Iron Ore
+Decorative Gold Ore
+Decorative Diamond Ore
+Decorative Emerald Ore
+Decorative Redstone Ore
+Decorative Lapis Ore
+Decorative Quartz Ore
+Decorative Copper Ore
+Decorative Tin Ore
+Decorative Silver Ore
+Decorative Lead Ore
+Decorative Nickel Ore
+Decorative Platinum Ore
+Opaque Glass
+Opaque Glass Pane
+Crushed Limestone
+Crushed Marble
+Crushed Basalt
+Compressed Limestone
+Compressed Marble
+Compressed Granite
+Compressed Andesite
+Compressed Diorite
+Compressed Basalt
+Crude Cobblestone Generator
+Crude Stone Variant Generator
+Sound Muffler
+Floaty Block
+Vacuum
+Limestone Pebble
+Marble Pebble
+Basalt Pebble
+Warning! Breaking this block will drop %s
+Breaking this block when has grown at least 1 tree will drop %s
+Strawberry
+Strawberries

@@ -1,0 +1,19 @@
+The radiation level, as a power of ten, at which the Geiger counter block will emit a full-strength comparator signal.
+Radiation Shielding Default Recipes
+If enabled, radiation shielding attachment recipes will be added for all registered armor pieces.
+Radiation Shielding ItemStack Blacklist
+List of armor item stacks for which shielding recipes will not be added by default. Format: 'modid:armorName:meta'.
+Radiation Shielding ItemStack Whitelist
+List of armor item stacks for which shielding recipes will be added. Mostly used when the automated shielding recipes are disabled. Format: 'modid:armorName:meta'.
+Radiation Default Armor Shielding
+List of armor item stacks and their default radiation shielding levels. Format: 'modid:armorName:meta_resistance'. Note: this is not the only way to add these values if you have CraftTweaker installed. Rad resistance can also be given to armor by changing their recipe such that an NBT tag called "ncRadiationResistance" with the double value equal to the resistance level is attached to it.
+Radiation HUD Size
+Modifier for the size of radiation info on the HUD.
+Radiation HUD Position
+Angle from the centre of the screen at which radiation info appears on the HUD. 0 degrees is the top of the screen, 45 is top-right, etc.
+HUD Cartesian Position
+Optional config to specify where the rads overlay should appear on the screen if not wanted on a side or at a corner - if used, this config will be used in place of the angle-based one. Two doubles are required [x, y] which specify how far right (x) and how far down (y) from the top-left corner of the screen the overlay is drawn at.
+HUD Text Outline
+If enabled, a black outline will surround the radiation counter text underneath the rad bar.
+Counter Required For Info
+If disabled, the rads overlay will show and the ticking will be heard even when a Geiger Counter is not being held.

@@ -1,0 +1,148 @@
+Player Head
+Creeper Head
+Dragon Head
+Time (Seconds)
+Amplifier
+Hide Particles
+Show Particles
+Add Trade
+Left click to edit
+Right click to remove
+Clear trades
+This is a copy of your inventory. Changes will not be saved.
+Add line
+Copy lore
+Copy tooltip
+Paste
+Insert
+Preview
+Scale
+Full Block
+Medium Shade
+Dark Shade
+Empty Space
+Enchantment: shown
+Enchantment: hidden
+Attribute Mod: shown
+Attribute Mod: hidden
+Unbreakable: shown
+Unbreakable: hidden
+Can Destroy: shown
+Can Destroy: hidden
+Can Place On: shown
+Can Place On: hidden
+Item Info: shown
+Item Info: hidden
+Edit String
+Entity Tags
+Mob Specific
+SkullOwner
+Breakable
+Unbreakable
+On fire for %s ticks
+Not on fire
+Change Custom Name
+No Gravity
+Gravity
+Invulnerable
+Vulnerable
+Custom Name Visible
+Custom Name Hidden
+Silent
+Not Silent
+Glowing
+Not Glowing
+%s Health
+Dead
+%s Absorption
+No Absorption
+Elytra Gliding
+Normal Falling
+AI Disabled
+AI Enabled
+Doesn't Despawn Normally
+Despawns As Normal
+Picks Up Loot
+Ignores Loot
+No Arms
+Has Arms
+Normal
+Small
+Visible
+Invisible
+Has Base Plate
+No Base Plate
+Not Marker
+Marker
+Equipment
+Pose
+%s ticks for egg
+Ready to lay egg
+Powered
+Unpowered
+Explosion Radius: %s
+No Explosion Radius
+Time to explode: %s
+Instant Explosion
+Ignited
+Unignited
+Undefined Lifetime
+Lifetime: %s
+PlayerSpawned: 0
+PlayerSpawned: 1
+Random Variant
+Red Variant
+Blue Variant
+Green Variant
+Cyan Variant
+Silver Variant
+Saddled
+Unsaddled
+White Wool
+Orange Wool
+Magenta Wool
+Light Blue Wool
+Yellow Wool
+Light Green Wool
+Pink Wool
+Gray Wool
+Light Gray Wool
+Cyan Wool
+Purple Wool
+Blue Wool
+Brown Wool
+Dark Green Wool
+Red Wool
+Black Wool
+Sheared
+Has Wool
+White
+Orange
+Magenta
+Light Blue
+Yellow
+Light Green
+Pink
+Gray
+Light Gray
+Cyan
+Purple
+Blue
+Brown
+Dark Green
+Red
+Black
+Size: %s
+Size: %s
+Random Skin
+Farmer Skin
+Librarian Skin
+Priest Skin
+Smith Skin
+Butcher Skin
+Nitwit Skin
+Willing
+Unwilling
+Johnny Behavior
+Normal Behavior
+Baby

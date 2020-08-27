@@ -1,0 +1,140 @@
+Blue Flag
+Light Blue Flag
+Green Flag
+Orange Flag
+Purple Flag
+Yellow Flag
+Red Flag
+Brown Flag
+Pink Flag
+Lime Flag
+Cyan Flag
+Magenta Flag
+White Flag
+Grey Flag
+Light Grey Flag
+American Flag
+Canadian Flag
+British Flag
+ Flag
+Chinese Flag
+Japanese Flag
+Russian Flag
+German Flag
+English Flag
+French Flag
+Soviet Flag
+Mexican Flag
+European Flag
+Italian Flag
+Spanish Flag
+Portuguese Flag
+South Korean Flag
+North Korean Flag
+Polish Flag
+Brazilian Flag
+Rainbow Flag
+Pirate Flag
+Nifty Flag
+Sun Lamp
+Moon Lamp
+Asphalt
+White Asphalt
+Yellow Asphalt
+Grey Asphalt
+Black Bricks
+Blue Bricks
+Light Blue Bricks
+Green Bricks
+Orange Bricks
+Purple Bricks
+Yellow Bricks
+Red Bricks
+Brown Bricks
+Pink Bricks
+Lime Bricks
+Magenta Bricks
+Cyan Bricks
+Grey Bricks
+Light Grey Bricks
+White Bricks
+Snow Bricks
+Small Snow Bricks
+Black Planks
+Blue Planks
+Light Blue Planks
+Green Planks
+Orange Planks
+Purple Planks
+Yellow Planks
+Red Planks
+Brown Planks
+Pink Planks
+Lime Planks
+Magenta Planks
+Cyan Planks
+Grey Planks
+Light Grey Planks
+White Planks
+Aloe Vera
+Red Cosmos
+White Cosmos
+Orange Cosmos
+Yellow Cosmos
+Pink Cosmos
+Blue Cosmos
+Alloy Smelter
+Crate
+Deep Fryer
+Deep Fryer
+Campstove
+Campstove
+Acid
+Lawn Flamingo
+Barrel
+Hazard Barrel
+Oil Barrel
+Safety Pole
+Traffic Cone
+Traffic Barrel
+Vending Machine
+Open Sign
+Stop Sign
+Crosswalk Sign
+Do Not Enter Sign
+Tunnel Sign
+Roundabout Sign
+Construction Sign
+No Exit Sign
+Crossroad Sign
+Yield Sign
+No Parking Sign
+No Stopping Sign
+Gravel Road Sign
+Junction Sign
+Ends Sign
+Traffic Light Sign
+Open Bridge Sign
+3 Way Sign
+4 Way Sign
+Winding Roads Sign
+Business Sign
+North Sign
+East Sign
+South Sign
+West Sign
+Left Arrow Sign
+Right Arrow Sign
+Left Sign
+Right Sign
+Left Added Lane Sign
+Right Added Lane Sign
+Left Lane Ends Sign
+Right Lane EndsSign
+Left Curve Sign
+Right Curve Sign
+Left Double Curve Sign
+Right Double Curve Sign
+Left Sharp Curve Sign
+Right Sharp Curve Sign
+Left Obstruction Sign

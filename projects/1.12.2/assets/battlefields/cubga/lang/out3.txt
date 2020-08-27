@@ -1,0 +1,77 @@
+Face Accessories
+Head Accessories
+Arms Accessories
+Back Accessories
+Torso Accessories
+Legs Accessories
+Feet Accessories
+Stats
+§lKills§r: %s
+§lWins§r: %s
+Lifestyle
+Dance
+Signal
+Infection
+Developer
+Event
+Premium
+Free
+Wave
+Say hello to your friends!
+/clearextras [player]
+Cleared the extras of %s, removing %s extras
+/clearbodies
+Cleared %s corpses
+/createzone [x] [z] [radius] [shape]
+Created %s zone at %s %s with radius %s
+/makechunklitagain
+Made chunk (%d, %d) lit again. Relog to see changes!
+Failed to update lighting for chunk!
+/reloadguns
+Reloaded guns in %sms
+/removezone
+Removed zone
+/resetbrittlebricks
+Removed Brittle Brick blocks from the world
+/setzone <x> <z> <radius> [time]
+/setzoneshape <shape>
+Set zone shape to %s
+/spawnufo
+Spawned UFO Bus
+/spawnbody [player]
+Spawned the body of %s
+/sponsor show [ticks] OR /sponsor clear
+Displayed sponsor overlay for %s ticks
+Cleared the sponsor overlay
+/testcountdown <ticks>
+Showed the countdown for %s ticks
+/testwinner [player]
+Showed %s winning a game
+/notify [player] [dataTag]
+Invalid Icon Type: %s
+Invalid Frame Type: %s
+Data tag parsing failed: %s
+Sent a notification to %s
+Sent a notification to no players
+Sent a notification to %s players
+/giveaccessory [player] [type] [data]
+Invalid accessory type '%s'
+Invalid data '%s' for type '%s'
+Invalid color '%s'. Must be a HEX value!
+Unable to add accessory to database
+Player already has that accessory
+Successfully gave accessory '%s' to %s
+/removeaccessory [player] [type] [data]
+Invalid accessory type '%s'
+Player doesn't have that accessory
+Unable to remove accessory from database
+Successfully took accessory '%s' from %s
+/giveemote [player] [emote]
+Invalid emote '%s'
+Unable to add emote to database
+Player already has that emote
+Successfully gave emote '%s' to %s
+/removeemote [player] [emote]
+Invalid emote '%s'
+Player doesn't have that emote
+Unable to remove emote from database

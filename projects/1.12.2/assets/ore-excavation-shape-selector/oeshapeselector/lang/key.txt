@@ -1,0 +1,7 @@
+oeshapeselector.key
+oeshapeselector.title
+oeshapeselector.tip
+oeshapeselector.noshape
+oeshapeselector.editshapes
+oeshapeselector.range
+oeshapeselector.unit

@@ -1,0 +1,13 @@
+Incremented the pact of %s to level %s
+%s does not currently have a pact
+Current pact of %s: %s (level %s)
+Set the current pact of %s to %s (level %s)
+Reloaded all pacts
+Could not recognise endgame %s
+No endgames are currently active.
+%s (%s)
+Current active endgames: %s
+Endgame %s is not currently active.
+Reduced the intensity of endgame %s by %s
+Increased the intensity of endgame %s by %s
+Cannot increase the intensity of non-ongoing endgames.

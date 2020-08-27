@@ -1,0 +1,110 @@
+Divergent Underground
+Stone
+Andesite Rock
+Diorite Rock
+Granite Rock
+Sandstone Chunk
+Red Sandstone Chunk
+Netherrack
+Endstone
+Gold Ore
+Iron Ore
+Copper Ore
+Uncut Emerald
+Uncut Diamond
+Chisel
+Stone
+Granite
+Andesite
+Diorite
+Iron Ore
+Gold Ore
+Coal Ore
+Diamond Ore
+Emerald Ore
+Lapis Ore
+Redstone Ore
+Andesite Cobblestone
+Diorite Cobblestone
+Granite Cobblestone
+Copper Ore
+Copper Ore
+Tin Ore
+Tin Ore
+Silver Ore
+Silver Ore
+Lead Ore
+Lead Ore
+Aluminum Ore
+Aluminum Ore
+Nickel Ore
+Nickel Ore
+Platinum Ore
+Platinum Ore
+Iridium Ore
+Iridium Ore
+Mithril Ore
+Mithril Ore
+Uncut Amethyst
+Uncut Ruby
+Uncut Peridot
+Uncut Topaz
+Uncut Tanzanite
+Uncut Malachite
+Uncut Sapphire
+Uncut Amber
+Amethyst Ore
+Ruby Ore
+Peridot Ore
+Topaz Ore
+Tanzanite Ore
+Malachite Ore
+Sapphire Ore
+Amber Ore
+Copper Ore
+Aluminum Ore
+Lead Ore
+Silver Ore
+Nickel Ore
+Uranium Ore
+Copper Ore
+Aluminum Ore
+Lead Ore
+Silver Ore
+Nickel Ore
+Uranium Ore
+Copper Ore
+Tin Ore
+Copper Ore
+Tin Ore
+Apatite Ore
+Tin Ore
+Copper Ore
+Lead Ore
+Uranium Ore
+Copper Ore
+Tin Ore
+Lead Ore
+Uranium Ore
+Copper Ore
+Tin Ore
+Osmium Ore
+Copper Ore
+Tin Ore
+Osmium Ore
+Limestone Chunk
+Permafrost Rock
+Brimstone Rock
+Basalt Rock
+Marble Rock
+Marble
+Limestone
+Basalt Cobblestone
+Limestone Cobblestone
+Marble Cobblestone
+Cobalt Ore
+Ardite Ore
+Cobalt Ore
+Ardite Ore
+Fossil
+Rock Crumbling

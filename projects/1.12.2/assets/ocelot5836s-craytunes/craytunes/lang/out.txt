@@ -1,0 +1,96 @@
+Armorstand placed
+Bat loop
+Cat hisses
+Cat purrs
+Cat purrs and meows
+Checken steps
+Cow steps
+Elder Guardian ambient land
+Elder Guardian dies land
+Elder Guardian Hurt Land
+Ender Dragon Fireball explodes
+Endermen ambient
+Endermen die
+Endermen hurt
+Endermen scream
+Endermen stare
+Endermen teleport
+Endermite steps
+Experience Bottle thrown
+Firework blasts far
+Firework large blast
+Firework large blast far
+Firework shoots
+Firework twinkles far
+Ghast screams
+Ghast warns
+Guardian ambient land
+Guardian dies land
+Guardian hurt land
+Horse lands
+Horse steps
+Horse steps on wood
+Hostile big fall
+Hostile death
+Hostile hurt
+Hostile small fall
+Hostile splashes
+Hostile Swims
+Hust steps
+Iron Golem attacks
+Iron Golem dies
+Iron Golem hurt
+Iron Golem steps
+Lingering Potion thrown
+Magma Cube jumps
+Inside minecart
+Mooshroom shear
+Pig steps
+Player attack crit
+Player attack knockback
+Player attack no damage
+Player attack strong
+Player attack sweeps
+Player attack weak
+Player big fall
+Player breath
+Player small fall
+Player splashes
+Player swims
+Polar Bear steps
+Sheep sheared
+Sheep steps
+Skulker hurt closed
+Silverfish steps
+Skeleton steps
+Slime jumps
+Small Magma Cube dies
+Small Magma Cube hurt
+Small Magma Cube squishes
+Small Slime dies
+Small Slime hurt
+Small Slime jumps
+Small Slime squishes
+Snowman ambient
+Snowman shoots
+Spider steps
+Splash Potion breaks
+Splash Potion throw
+Stray Steps
+Wither breaks block
+Wither skeleton steps
+Wolf howls
+Wolf pants
+Wolf steps
+Wolf whines
+Zombie attacks Wooden Door
+Zombie attacks Iron Door
+Zombie breaks Wooden Door
+Zombie steps
+Zombie Pigman ambient
+Zombie Pigman angry
+Zombie Pigman death
+Zombie Pigman hurt
+Zombie Villager steps
+Printer Prints
+Printer Prints Paper

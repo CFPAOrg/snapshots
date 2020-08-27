@@ -1,0 +1,9 @@
+advancements.poisonouspotatoachievment.descr
+item.poisonousdiamondpotato.name
+advancements.poisonouspotatoachievment.title
+advancements.poisonousdiamondpotatodeathachievement.descr
+advancements.diamondpotatoachievement.title
+item.explosivepotatoicon.name
+advancements.diamondpotatoachievement.descr
+item.diamondpotato.name
+advancements.poisonousdiamondpotatodeathachievement.title

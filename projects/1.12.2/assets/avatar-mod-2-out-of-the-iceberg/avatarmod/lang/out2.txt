@@ -1,0 +1,41 @@
+A message has been sent to ${oldOwner} to confirm the transfer of ${bison}.
+The transfer with ${newOwner} has been ignored.
+${oldOwner} has chosen not to respond to your transfer request.
+[error]This bison isn't yours. You can't transfer the bison since the owner ${owner} is offline.[/error]
+Your bison will now begin following you.
+Your bison has stopped following you.
+[error]Your bison is already nearby![/error]
+§2§lEarth §2§lControl
+Use earthbending to move bendable blocks. Place them in the desired position, or throw them at your enemies.
+Move and throw bendable blocks
+Faster and farther when thrown
+Twice the damage
+§2§l§oBlocky §2§l§oboomerang ;; Block comes back after successful mob hit
+§2§l§oLarge §2§l§oimpact ;; 1/2 chance to create an explosion on landing
+§2§lRavine
+Create a powerful yet small fissure in the ground. Only works on level ground and earth, but can do plenty of damage.
+Slow, basic ravine
+Faster speed
+Ravine travels farther unless there is an obstacle, more damage
+§2§l§oFissure ;; Destroys blocks under it, hit multiple enemies, but costs 1.5x chi
+§2§l§oShaking §2§l§oearth ;; Chance to knock armor and weapons off hit enemies
+§2§lWall
+Raise a protective barrier in front of yourself. It can block incoming projectiles and mobs.
+Summon a small wall
+Create a larger wall, further away
+Create a larger wall, even further away
+Create a massive wall, and shoot pieces of it
+Surround yourself by walls, and push your enemies away with them
+§2§lMine §2§lBlocks
+Quickly destroy blocks to mine out tunnels
+Mine a few blocks
+Mine out even more blocks
+Fortune level I when mining
+Mine very far, level III fortune
+Mine out ore veins, level IV fortune
+§2§lEarthspike
+Disrupt the ground and create a line of spikes that damage anything in its path
+Create smoother, less dangerous spikes
+More earth spikes, more damage
+Faster earth spikes
+§2§l§oOctopus §2§l§ofissure ;; Creates eight spikes in all directions

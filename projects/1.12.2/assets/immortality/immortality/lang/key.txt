@@ -1,0 +1,12 @@
+item.immortality.philosophers_stone.name
+tile.immortality.philosophers_stone_ore.name
+potion.effect.immortality_potion
+effect.immortality
+splash_potion.effect.immortality_potion
+lingering_potion.effect.immortality_potion
+tipped_arrow.effect.immortality_potion
+potion.effect.mortality_potion
+effect.mortality
+splash_potion.effect.mortality_potion
+lingering_potion.effect.mortality_potion
+tipped_arrow.effect.mortality_potion

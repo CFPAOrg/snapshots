@@ -1,0 +1,106 @@
+Chert Pitchblende
+Chert Cinnabar
+Chert Cryolite
+Chert Saltpeter
+Chert Serpentine
+Chert Sylvite
+Chert Borax
+Chert Olivine
+Chert Lapis Lazuli
+Chalk Native Copper
+Chalk Native Gold
+Chalk Native Platinum
+Chalk Hematite
+Chalk Native Silver
+Chalk Cassiterite
+Chalk Galena
+Chalk Bismuthinite
+Chalk Garnierite
+Chalk Malachite
+Chalk Magnetite
+Chalk Limonite
+Chalk Sphalerite
+Chalk Tetrahedrite
+Chalk Bituminous Coal
+Chalk Lignite
+Chalk Kaolinite
+Chalk Gypsum
+Chalk Satinspar
+Chalk Selenite
+Chalk Graphite
+Chalk Kimberlite
+Chalk Petrified Wood
+Chalk Sulfur
+Chalk Jet
+Chalk Microcline
+Chalk Pitchblende
+Chalk Cinnabar
+Chalk Cryolite
+Chalk Saltpeter
+Chalk Serpentine
+Chalk Sylvite
+Chalk Borax
+Chalk Olivine
+Chalk Lapis Lazuli
+Rhyolite Native Copper
+Rhyolite Native Gold
+Rhyolite Native Platinum
+Rhyolite Hematite
+Rhyolite Native Silver
+Rhyolite Cassiterite
+Rhyolite Galena
+Rhyolite Bismuthinite
+Rhyolite Garnierite
+Rhyolite Malachite
+Rhyolite Magnetite
+Rhyolite Limonite
+Rhyolite Sphalerite
+Rhyolite Tetrahedrite
+Rhyolite Bituminous Coal
+Rhyolite Lignite
+Rhyolite Kaolinite
+Rhyolite Gypsum
+Rhyolite Satinspar
+Rhyolite Selenite
+Rhyolite Graphite
+Rhyolite Kimberlite
+Rhyolite Petrified Wood
+Rhyolite Sulfur
+Rhyolite Jet
+Rhyolite Microcline
+Rhyolite Pitchblende
+Rhyolite Cinnabar
+Rhyolite Cryolite
+Rhyolite Saltpeter
+Rhyolite Serpentine
+Rhyolite Sylvite
+Rhyolite Borax
+Rhyolite Olivine
+Rhyolite Lapis Lazuli
+Basalt Native Copper
+Basalt Native Gold
+Basalt Native Platinum
+Basalt Hematite
+Basalt Native Silver
+Basalt Cassiterite
+Basalt Galena
+Basalt Bismuthinite
+Basalt Garnierite
+Basalt Malachite
+Basalt Magnetite
+Basalt Limonite
+Basalt Sphalerite
+Basalt Tetrahedrite
+Basalt Bituminous Coal
+Basalt Lignite
+Basalt Kaolinite
+Basalt Gypsum
+Basalt Satinspar
+Basalt Selenite
+Basalt Graphite
+Basalt Kimberlite
+Basalt Petrified Wood
+Basalt Sulfur
+Basalt Jet
+Basalt Microcline
+Basalt Pitchblende

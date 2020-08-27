@@ -1,0 +1,45 @@
+%s Ingot
+%s Dagger
+%s Parrying Dagger
+%s Longsword
+%s Katana
+%s Saber
+%s Rapier
+%s Greatsword
+%s Hammer
+%s Warhammer
+%s Spear
+%s Halberd
+%s Pike
+%s Lance
+%s-Strengthened Longbow
+%s-Strengthened Crossbow
+%s Throwing Knife
+%s Throwing Axe
+%s Javelin
+%s Quarterstaff
+%s Glaive
+Copper
+Tin
+Bronze
+Steel
+Silver
+Invar
+Platinum
+Electrum
+Nickel
+Lead
+Mithril
+Obsidian
+Adamantine
+Cold-Iron
+Antimony
+Bismuth
+Aquarium
+Quartz
+Zinc
+Brass
+Cupronickel
+Pewter
+Star-Steel
+Spartan Base Metals

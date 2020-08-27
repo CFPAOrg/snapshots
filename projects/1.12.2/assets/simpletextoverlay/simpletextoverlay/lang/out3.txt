@@ -1,0 +1,60 @@
+Off hand attack speed.
+Amulet bauble icon.
+Amulet bauble large icon.
+Amulet bauble name.
+Amulet bauble unique name.
+Ring bauble slot one icon.
+Ring bauble slot one large icon.
+Ring bauble one name.
+Ring bauble one unique name.
+Ring bauble slot two icon.
+Ring bauble slot two large icon.
+Ring bauble two name.
+Ring bauble two unique name.
+Belt bauble icon.
+Belt bauble large icon.
+Belt bauble name.
+Belt bauble unique name.
+Head bauble icon.
+Head bauble large icon.
+Head bauble name.
+Head bauble unique name.
+Body bauble icon.
+Body bauble large icon.
+Body bauble name.
+Body bauble unique name.
+Charm bauble icon.
+Charm bauble large icon.
+Charm bauble name.
+Charm bauble unique name.
+Light level at your current position.
+Light level at your current position (eye level).
+Light level at your current position without sunlight.
+Light level at your current position without sunlight (eye level).
+Sunlight level at your current position.
+Sunlight level at your current position (eye level).
+Player's score.
+Player's gamemode name.
+Player's gamemode id.
+Player's current health points.
+Player's maximum health points.
+Player's armor points.
+Player's food points.
+Player's maximum food points.
+Player's food saturation.
+Player's food exhaustion.
+Player's air ticks.
+Player's maximum air ticks.
+Player's level.
+Player's current experience.
+Player's experience until level up.
+Player's total required experience for the next level.
+Player's username.
+§etrue§r if the player is underwater, §efalse§r otherwise.
+§etrue§r if the player is wet, §efalse§r otherwise.
+§etrue§r if the player is alive, §efalse§r otherwise.
+§etrue§r if the player is on fire, §efalse§r otherwise.
+§etrue§r if the player is riding, §efalse§r otherwise.
+§etrue§r if the player is sneaking, §efalse§r otherwise.
+§etrue§r if the player is sprinting, §efalse§r otherwise.
+§etrue§r if the player is invisible, §efalse§r otherwise.

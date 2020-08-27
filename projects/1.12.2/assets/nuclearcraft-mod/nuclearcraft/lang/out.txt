@@ -1,0 +1,5 @@
+%1$s cooled off at the wrong time and place
+%1$s turned out to be far too alkaline
+%1$s was effectively pan-fried
+%1$s died as a result of extreme hypothermia
+%1$s died due to fatal radiation poisoning

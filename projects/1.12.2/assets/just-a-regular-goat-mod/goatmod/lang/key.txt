@@ -1,0 +1,15 @@
+item.hay.name
+item.goat_fur.name
+entity.goat.name
+item.goat_cheese.name
+item.goat_milk.name
+item.goatmod.goat_helmet.name
+item.goatmod.goat_chestplate.name
+item.goatmod.goat_leggings.name
+item.goatmod.goat_boots.name
+item.bloody_goat_fur.name
+item.ritual_knife.name
+item.used_ritual_knife.name
+entity.goatboss.name
+item.goat_sword.name
+item.ritual_orb.name

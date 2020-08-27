@@ -1,0 +1,8 @@
+config.bashfiremakerock:title
+config.bashfiremakerock:chance
+config.bashfiremakerock:blocks
+config.bashfiremakerock:blocks.allow
+config.bashfiremakerock:start
+config.bashfiremakerock:delay.min
+config.bashfiremakerock:delay.max
+bashfiremakerock:error.event.click

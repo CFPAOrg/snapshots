@@ -1,0 +1,26 @@
+Drawbridge
+[WIP] Advanced Drawbridge
+Extended Drawbridge
+Firestarter
+Aluminum Block
+Copper Block
+Tin Block
+Bronze Block
+Aluminum Ingot
+Copper Ingot
+Tin Ingot
+Bronze Ingot
+Aluminum Nugget
+Copper Nugget
+Tin Nugget
+Bronze Nugget
+Tinkers' Mechworks
+Drawbridge
+Advanced Drawbridge
+Extended Drawbridge
+§l§nStats:
+Max length: %d
+Extend Delay: %f
+Behaviour
+§9Extinguish
+§6Keep lit

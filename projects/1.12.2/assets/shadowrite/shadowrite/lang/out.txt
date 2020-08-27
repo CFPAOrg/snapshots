@@ -1,0 +1,16 @@
+Shadowrite
+Shadowrite Warrior
+Shadowrite Ore
+Shadowrite Singularity
+Shadow in a Bottle
+Shadow Cloth
+Shadow Fabric
+Shadowrite Gem
+Shadowrite Core
+Shadowrite Torch
+Shadow Feather
+The ancient shadows of past horrors have been released!
+Tonight the moon is away and so shadows come out to play!
+Allows holder to jump again while in mid-air - Usable in hotbar
+Removes fall damage and grants the user slow-fall by sneaking - Usable in hotbar
+Increases spawn rate of shadows while held

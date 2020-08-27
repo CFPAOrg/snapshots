@@ -1,0 +1,88 @@
+Removes %s [%s] at a rate of %s.
+Slow-Acting RadAway
+Removes %s [%s] at a rate of %s.
+Rad-X
+Increases rad resistance by %s for %s. The effect can be stacked, but higher levels of resistance will wear off more quickly.
+Portable Ender Chest
+Access your Ender Chest on the move.
+Domino's Special
+Paul's favorite - restore 16 hunger points with this beauty.
+Flour
+Graham Cracker
+Roasted Cocoa Beans
+Ground Cocoa Nibs
+Solidified Cocoa Butter
+Cocoa Solids
+Unsweetened Chocolate
+Dark Chocolate
+Milk Chocolate
+Gelatin
+Marshmallow
+Many civilizations would not have fallen with these on their side.
+S'more S'mingot
+MoreS'more DoubleS'mingot
+FourS'more QuadS'mingot
+Music Disc
+Dion - The Wanderer
+8-Bit Cover by '8 Bit Universe'
+Music Disc
+Skeeter Davis - The End of the World
+8-Bit Cover by 'GermanPikachuGaming'
+Music Disc
+Dire Straits - Money For Nothing
+8-Bit Cover by 'Omnigrad'
+Music Disc
+Ur-Quan Masters - Hyperspace
+Originally by Riku Nuottajärvi
+Feral Ghoul
+Output: %s-%s [Mean: %s]
+Base process time:
+Base process power:
+Base process radiation:
+Production rate:
+Flux required:
+Heat gen per flux:
+Efficiency contribution:
+Base depletion time:
+Base heat gen:
+Base efficiency:
+Fuel criticality:
+Fuel radiation:
+Self-priming!
+Base depletion time:
+Base heat gen:
+Base efficiency:
+Fuel criticality:
+Fuel radiation:
+Self-priming!
+Heat per input mB:
+Base depletion time:
+Base heat gen:
+Base efficiency:
+Fuel criticality:
+Fuel radiation:
+Self-priming!
+Base combo lifetime:
+Base max power:
+Optimal temperature:
+Mean lifetime:
+Power gen:
+Decay radiation:
+Depletion time:
+Cooling rate:
+Temperature:
+Heating provided:
+Cooling provided:
+Heating required:
+Cooling required:
+Condensing temperature:
+Heat removal required:
+Base energy density:
+Fluid expansion:
+Scrubbing lifetime:
+Required power:
+Efficiency multiplier:
+NuclearCraft
+NuclearCraft Materials
+NuclearCraft Radiation
+NuclearCraft Machines

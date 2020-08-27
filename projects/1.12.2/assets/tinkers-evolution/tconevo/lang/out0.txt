@@ -1,0 +1,85 @@
+Tinkers' Evolution
+Coalescence Matrix
+Pink Slime Crystal
+Plate of Unsealing
+Wyvern Metal Ingot
+Wyvern Metal Dust
+Wyvern Metal Nugget
+Wyvern Metal Plate
+Wyvern Metal Gear
+Draconic Metal Ingot
+Draconic Metal Dust
+Draconic Metal Nugget
+Draconic Metal Plate
+Draconic Metal Gear
+Chaotic Metal Ingot
+Chaotic Metal Dust
+Chaotic Metal Nugget
+Chaotic Metal Plate
+Chaotic Metal Gear
+Essence-Infused Ingot
+Essence-Infused Dust
+Essence-Infused Nugget
+Essence-Infused Plate
+Essence-Infused Gear
+Primal Metal Ingot
+Primal Metal Dust
+Primal Metal Nugget
+Primal Metal Plate
+Primal Metal Gear
+Bound Ingot
+Bound Metal Dust
+Bound Nugget
+Bound Plate
+Bound Gear
+Sentient Ingot
+Sentient Metal Dust
+Sentient Nugget
+Sentient Plate
+Sentient Gear
+Energium Ingot
+Energium Metal Dust
+Energium Nugget
+Energium Plate
+Energium Gear
+UU-Metal Ingot
+UU-Metal Dust
+UU-Metal Nugget
+UU-Metal Plate
+UU-Metal Gear
+Raw Meat Ingot
+Cooked Meat Ingot
+Internal Item
+Arcane Focus
+Sceptre
+The Sceptre is an arcane weapon that can be used for both melee and range attacks.\nRight-clicking launches a volley of missiles at the cost of durability.\nDeals magic damage.
+Pink Slimy Mud
+Wyvern Metal Block
+Draconic Metal Block
+Chaotic Metal Block
+Essence-Infused Metal Block
+Primal Metal Block
+Bound Metal Block
+Sentient Metal Block
+Energium Metal Block
+UU-Metal Block
+Immortality
+Potion of Undying
+Splash Potion of Undying
+Lingering Potion of Undying
+Mortal Wounds
+Potion of Suppressed Healing
+Splash Potion of Suppressed Healing
+Lingering Potion of Suppressed Healing
+Damage Reduction
+Potion of Endurance
+Splash Potion of Endurance
+Lingering Potion of Endurance
+Damage Boost
+Potion of Power
+Splash Potion of Power
+Lingering Potion of Power
+Depth Digger
+§oFresh-air-a-phobia?§r\nThis tool becomes more efficient at lower elevations.
+Aftershock
+§oLaevatein!§r\nThis weapon deals additional magical damage on fully-charged hits.

@@ -1,0 +1,74 @@
+§7Common Medium Currency Loot Box 
+§aUncommon Medium Currency Loot Box 
+§eRare Medium Currency Loot Box 
+§9Epic Medium Currency Loot Box 
+§6Legendary Medium Currency Loot Box 
+§dMythical Medium Currency Loot Box 
+§7Common Small Currency Loot Box 
+§aUncommon Small Currency Loot Box 
+§eRare Small Currency Loot Box 
+§9Epic Small Currency Loot Box 
+§6Legendary Small Currency Loot Box 
+§dMythical Small Currency Loot Box 
+§7Common Big Gear Loot Box 
+§aUncommon Big Gear Loot Box 
+§eRare Big Gear Loot Box 
+§9Epic Big Gear Loot Box 
+§6Legendary Big Gear Loot Box 
+§dMythical Big Gear Loot Box 
+§7Common Medium Gear Loot Box 
+§aUncommon Medium Gear Loot Box 
+§eRare Medium Gear Loot Box 
+§9Epic Medium Gear Loot Box 
+§6Legendary Medium Gear Loot Box 
+§dMythical Medium Gear Loot Box 
+§7Common Small Gear Loot Box 
+§aUncommon Small Gear Loot Box 
+§eRare Small Gear Loot Box 
+§9Epic Small Gear Loot Box 
+§6Legendary Small Gear Loot Box 
+§dMythical Small Gear Loot Box 
+Scales
+Stone
+Radiance
+Thief
+Magician
+Zephyr
+Ghost
+Follower
+Light
+Mountain
+Zeal
+Magma
+Bloom
+Purity
+Infinity
+Profound Sea
+Limitless
+Your Single Target Spell Projectiles now Home in on the target.
+Your Self Heal Spells now grant you AoE Regen.
+Your Self Heal Spells now boost your speed temporarily.
+Your Single Target Spell Projectiles now go through enemies.
+Your Self Heal Spells now cure you of a negative effect.
+Killing Blows with Bomb Spells grant you Energy Regen.
+Killing Blows with Bomb Spells grant you Mana Regen.
+Stats on Weapon
+Stats on Armor
+Stats on Jewelry
+Place in Item Modify Table
+Unlocks RuneWord Combination
+RuneWord
+Automatically salvages items
+Gears
+Spells
+Maps
+Runes
+None
+Bonus salvage chance
+Works If Equipped
+Press Shift For Setup Info
+Place An Item Of Maximum Rarity You want to
+salvage in your off-hand.
+Then right click with this bag.
+To Not Salvage Any Items, clear the config by
+Right Clicking the bag while shield slot is empty.

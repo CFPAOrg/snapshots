@@ -1,0 +1,9 @@
+Potion of Good Luck
+Splash Potion of Good Luck
+Lingering Potion of Good Luck
+Arrow of Good Luck
+Potion of Bad Luck
+Splash Potion of Bad Luck
+Lingering Potion of Bad Luck
+Arrow of Bad Luck
+Four-Leaf Clover

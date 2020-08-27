@@ -1,0 +1,3 @@
+tile.sugarblock.name
+entity.antitter.name
+entity.thiamasoth.name

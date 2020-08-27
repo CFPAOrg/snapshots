@@ -1,0 +1,111 @@
+Packed Ice Slab
+Magma Slab
+Nether Wart Slab
+Hardened Clay Slab
+Ice Slab
+Clay Slab
+Slab of Salt
+Sugar Cube Slab
+Soul Sand Slab
+Obsidian Slab
+Slab of Obsidian
+Obsidian Glass Slab
+Lapis Lazuli Slab
+Slab of Redstone
+Sticky Slab
+Slab of Iron
+Slab of Gold
+Slab of Diamond
+Slab of Emerald
+Slab of Ruby
+Slab of Sapphire
+Slab of Platinum
+Slab of Coal
+Slab of Charcoal
+Glass Slab
+Red Mushroom Block Slab
+Brown Mushroom Block Slab
+Compressed Cobblestone Slab
+Slab of Rubber
+Sand Slab
+Red Sand Slab
+Gravel Slab
+Snow Slab
+Netherrack Slab
+Mossy Stone Brick Slab
+Cracked Stone Brick Slab
+End Stone Slab
+End Brick Slab
+Prismarine Slab
+Prismarine Brick Slab
+Dark Prismarine Slab
+Packed Ice Slab
+Magma Slab
+Nether Wart Slab
+Hardened Clay Slab
+Ice Slab
+Clay Slab
+Slab of Salt
+Sugar Cube Slab
+Soul Sand Slab
+Obsidian Slab
+Slab of Obsidian
+Obsidian Glass Slab
+Lapis Lazuli Slab
+Slab of Redstone
+Sticky Slab
+Slab of Iron
+Slab of Gold
+Slab of Diamond
+Slab of Emerald
+Slab of Ruby
+Slab of Sapphire
+Slab of Platinum
+Slab of Coal
+Slab of Charcoal
+Glass Stairs
+Red Mushroom Block Stairs
+Brown Mushroom Block Stairs
+Compressed Cobblestone Stairs
+Stairs of Rubber
+Sand Stairs
+Red Sand Stairs
+Gravel Stairs
+Snow Stairs
+Netherrack Stairs
+Mossy Stone Brick Stairs
+Cracked Stone Brick Stairs
+End Stone Stairs
+End Brick Stairs
+Prismarine Stairs
+Prismarine Brick Stairs
+Dark Prismarine Stairs
+Packed Ice Stairs
+Magma Stairs
+Nether Wart Stairs
+Hardened Clay Stairs
+Ice Stairs
+Clay Stairs
+Stairs of Salt
+Sugar Cube Stairs
+Soul Sand Stairs
+Obsidian Stairs
+Stairs of Obsidian
+Obsidian Glass Stairs
+Lapis Lazuli Stairs
+Stairs of Redstone
+Sticky Stairs
+Stairs of Iron
+Stairs of Gold
+Stairs of Diamond
+Stairs of Emerald
+Stairs of Ruby
+Stairs of Sapphire
+Stairs of Platinum
+Stairs of Coal
+Stairs of Charcoal
+White Sand Stairs
+White Sand Slab
+Glass Door
+Cyan Stained Glass Door
+Light Blue Stained Glass Door

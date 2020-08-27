@@ -1,0 +1,28 @@
+MAX LEVEL
+seconds
+ticks
+ACTIVATION
+< Click any skill >
+SKILL DESCRIPTION
+SUMMARY
+Sword skills are acquired by finding and using skill orbs, and all sword skills first require knowledge of the Basic Sword Technique.\nBy default, a basic skill orb is granted upon first joining a world; more may be acquired either through exploration or combat.\nEvery skill is activated in a unique fashion, and each use adds a certain amount of exhaustion. Like any other strenuous activity, physical combat requires lots of energy.\nExhaustion is part of the vanilla hunger mechanic - please see the online Wiki for more information. As a reference, a normal attack adds 0.3 exhaustion.
+Armor Break
+While locked on, hold the attack key to charge up; once charged, the skill triggers automatically.
+Unleash a powerful and well aimed blow, inflicting full damage even against heavily armored opponents.
+Unleash an armor-penetrating blow
+Back Slice
+While locked on, hold left or right and tap forward twice, then attack at the right time.
+Quickly circle around and hit 'em where it hurts!\nSome enemies are more vulnerable to attacks from behind, and many have a small chance to lose any equipped chest armor. Higher tiers of armor are harder to knock off, even harder if enchanted with Unbreaking; Sharpness weapons gain a bonus to disarmor.\nNote that attacking too early, too late, or not from behind will only result in a standard attack.
+Attack Angle: %d degrees
+Disarmor Chance: %d%%
+Attack an enemy's vulnerable backside
+Heart Container
+Adds one full heart
+Dash
+While locked on, press the attack key while blocking to dash forward.
+Dash into an enemy at high speed, knocking the target back and inflicting minor damage. An effective dash requires sufficient space between you and your foe.
+Knockback: %d blocks
+Minimum Range: %s blocks
+Dash attack knocks target back
+Dodge
+Tap left or right to dodge an incoming attack. Must be locked on.

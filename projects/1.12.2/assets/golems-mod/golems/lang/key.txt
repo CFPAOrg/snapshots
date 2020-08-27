@@ -1,0 +1,10 @@
+item.golemsoul.name
+tile.lessergolemhead.name
+entity.GoldenGolem.name
+entity.CobbleGolem.name
+entity.CoalGolem.name
+entity.DiamondGolem.name
+entity.EmeraldGolem.name
+entity.LapizGolem.name
+entity.QuartzGolem.name
+entity.RedstoneGolem.name

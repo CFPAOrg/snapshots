@@ -1,0 +1,22 @@
+Natural Soul Sight
+FILLSCREEN FIXNEWLINES Entities in this list pretty much see everything\n\nAdding the player keyword to this list makes all players see all entities as if they had glowing (visible through walls)\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Warning Range
+FILLSCREEN FIXNEWLINES How far away entities can hear warnings, by default\n \n
+Notification Range
+FILLSCREEN FIXNEWLINES How far away entities can hear target death notifications, by default\n\nHearing a target death notification from an entity they trust makes them drop threat target\n \n
+No LOS Multiplier
+FILLSCREEN FIXNEWLINES If the observer doesn't have LOS to the source of the sound, its hearing range is multiplied by this\n \n
+Entity-Specific Settings (Advanced)
+CNPC Threat Settings
+Dealt Damage Multiplier
+FILLSCREEN FIXNEWLINES When an in-combat entity damages its current target, its threat is increased by the damage dealt times this, divided by its target's max HP\n \n
+"Attacked By Same" Multiplier
+FILLSCREEN FIXNEWLINES When an in-combat entity is attacked by its current target, its threat is increased by the damage taken times this, divided by its max HP\n \n
+"Attacked By Other" Multiplier
+FILLSCREEN FIXNEWLINES When an in-combat entity is attacked by something that is *not* its current target, its threat is decreased by damage taken times this, divided by its max HP\n \n
+Bypass Threat System (Global)
+FILLSCREEN FIXNEWLINES If enabled, all entities should bypass the threat system\n \n
+"Start of Combat" Threat
+FILLSCREEN FIXNEWLINES When an out-of-combat entity first enters combat, its threat is set to this\n\nThis can happen from an entity seeing a valid target to attack or from an entity taking damage while out of combat\n \n
+"Ally Killed" Threat
+FILLSCREEN FIXNEWLINES When an entity sees an ally die, increase threat\n \n

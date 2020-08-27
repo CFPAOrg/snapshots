@@ -1,0 +1,7 @@
+tile.ironfurnace.name
+tile.steampunkfurnace.name
+tile.barrel.name
+container.ironfurnace
+container.steampunkfurnace
+container.barrel
+itemGroup.tabFactory

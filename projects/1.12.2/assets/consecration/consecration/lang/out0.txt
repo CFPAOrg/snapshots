@@ -1,0 +1,51 @@
+Consecration
+Potion of Consecration
+Arrow of Consecration
+Splash Potion of Consecration
+Lingering Potion of Consecration
+Blessed Dust
+Fire Bomb
+Fire Stick
+Fire Arrow
+Blessing
+Reduces damage from undead attacks.
+Hunt the Night
+Smite the undead
+Holy Water
+Holy Water
+The water has been blessed by the priest
+The dust has been blessed by the priest
+You do not have enough experience to receive the blessing
+Dimension Permission Mode
+Set whether the dimension configuration is blacklisted or whitelisted
+Dimension List
+Set which dimensions are blacklisted or whitelisted for affected undead, leave blank to disable this option
+Blessing XP Level Cost
+Set how many levels a blessing from a villager priest costs
+Fire Smite Duration
+The amount of time, in seconds, that smiting from fire lasts
+Holy Smite Duration
+The amount of time, in seconds, that smiting from holy sources lasts
+Holy Entities
+A list of entities that will be able to damage and smite undead
+Holy Potions
+A list of potions that will be able to damage and smite undead
+Holy Weapons
+A list of items that will be able to damage and smite undead
+Holy Enchantments
+A list of enchantments will be able to damage and smite undead
+Holy Damage
+A list of damage types that will be able to damage and smite undead
+Holy Material
+A list of material names that will be able to damage and smite undead
+Auto-Include Default Undead Mobs
+Set to true to include all mobs that are listed as undead by default
+Undead Mobs
+A list of mobs that will be classified as undead in addition to the regular undead
+Damage Reduction
+Set undead natural damage reduction, in percent, against all non-holy damage
+Health Regen
+Set undead natural health regen, in half-hearts per second, when not smote
+Reduce Damage Against Non-Players
+Set to true to have undead reduce damage against non-player non-holy entities
+Bonus Speed Modifier

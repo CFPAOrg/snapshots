@@ -1,0 +1,11 @@
+item.BonesSword.name
+item.BonesAxe.name
+advancements.gettingupgraded.descr
+item.UpgradedBone.name
+advancements.gettingupgraded.title
+tile.WoodOre.name
+item.BonesPickaxe.name
+tile.PaperOre.name
+item.BoneShovel.name
+tile.Bones.name
+itemGroup.tabadditionalOresTab

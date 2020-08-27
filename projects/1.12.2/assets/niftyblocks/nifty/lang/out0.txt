@@ -1,0 +1,152 @@
+Gameboy
+Dark Matter
+Red Matter
+Iron Rod
+Cleaner
+Airhorn
+Match
+Handheld Air Raid Siren
+Duct Tape
+Pizza
+Lasagna
+Coke
+Coke Can
+Pepsi
+Pepsi Can
+Mountain Dew
+Mountain Dew Can
+Dr.Pepper
+Dr.Pepper Can
+Rootbeer
+Rootbeer Can
+Orange Soda
+Orange Soda Can
+Taco
+Burrito
+Cheese
+Cheese Bread
+Chocolate Bar
+Waffle
+Apple Pie
+Pizza
+Pickle
+Doughnut
+Hotdog
+Orange
+Pear
+Tomato
+Banana
+Blueberry
+Dog Food
+Ice Cream
+Cone
+Raw Bacon
+Cooked Bacon
+Blueberry Pie
+Fries
+Fried Chicken
+Fish Sticks
+Can of Beans
+Cooked Can of Beans
+Burger
+Aloe Vera Leaf
+Basic Chip
+Advanced Chip
+Elite Chip
+Lightbulb
+Raw Rubber
+Rubber Bar
+Raw Plastic
+Plastic Sheet
+Copper Ingot
+Tin Ingot
+Aluminum Ingot
+Steel Ingot
+Bronze Ingot
+Copper Plate
+Tin Plate
+Aluminum Plate
+Iron Plate
+Steel Plate
+Bronze Plate
+Raw Uranium
+Uranium Rod
+Refined Uranium
+Sulfur
+Copper Wire
+Insulated Wire
+Gear
+Chainsaw
+Drill
+Machete
+Steel Pickaxe
+Steel Axe
+Steel Shovel
+Steel Hoe
+Steel Sword
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Bronze Pickaxe
+Bronze Axe
+Bronze Shovel
+Bronze Hoe
+Bronze Sword
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Shotgun
+Shotgun Shell
+Hammer
+Cutter
+Mininuke
+Mininuke Launcher
+Nifty Block
+Wooden Scaffold
+Iron Scaffold
+Rich Gravel
+Ancient Wood Planks
+Ancient Cobblestone
+Ancient Gravel
+Ancient Fence
+Ancient Fence Gate
+Red Oak Sapling
+Red Oak Logs
+Red Oak Leaves
+Red Oak Wood Planks
+Red Oak Fence
+Red Oak Fence Gate
+Maple Sapling
+Maple Logs
+Maple Leaves
+Maple Wood Planks
+Maple Fence
+Maple Fence Gate
+Ancient Wood Stairs
+Maple Wood Stairs
+Red Oak Wood Stairs
+Ancient Wood Slab
+Maple Wood Slab
+Red Oak Wood Slab
+Rubber Sapling
+Rubber Logs
+Rubber Leaves
+Blueberry Bush
+Copper Ore
+Tin Ore
+Aluminum Ore
+Uranium Ore
+Sulfur Ore
+Block of Copper
+Block of Tin 
+Block of Aluminum 
+Block of Uranium
+Block of Sulfur
+Block of Steel 
+Block of Bronze 
+Block of Rubber
+Block of Dark Matter
+Block of Red Matter
+Framed Glass

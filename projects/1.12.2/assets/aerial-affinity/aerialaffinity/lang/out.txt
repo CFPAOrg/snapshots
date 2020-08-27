@@ -1,0 +1,2 @@
+Aerial Affinity
+Removes the mining speed penalty while flying.

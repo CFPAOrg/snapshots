@@ -1,0 +1,7 @@
+item.clothesline.clothesline.name
+item.clothesline.crank.name
+item.clothesline.spinner.name
+tile.clothesline.clotheslineAnchor.name
+subtitles.block.clothesline.clothesline_anchor.squeak
+subtitles.block.clothesline.clothesline_anchor.rope
+itemGroup.clothesline

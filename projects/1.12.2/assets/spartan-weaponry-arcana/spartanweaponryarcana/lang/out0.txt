@@ -1,0 +1,55 @@
+Livingwood Handle
+Livingwood Pole
+Dreamwood Handle
+Dreamwood Pole
+Dreamwood Crossbow Limb
+Manasteel
+Terrasteel
+Elementium
+Thaumium
+Void
+Dawnstone
+Manasteel Ingot
+Terrasteel Ingot
+Elementium Ingot
+Thaumium Ingot
+Void Metal Ingot
+Dawnstone Ingot
+Spartan Weaponry Arcana
+Mana Repair
+Repairs the weapon using Botania mana from Mana Tablets
+Terra Burst
+Unleashes a damage dealing Mana Burst when swinging the weapon while fully charged. Does not work with Throwing or Ranged Weapons.
+Pixielated
+Spawns a Pixie when hit by a mob (%s%% chance)
+Warped
+This weapon slowly repairs itself and seems to speak to you from the eldritch beyond, giving you Warp over time
+Manasteel Weaponry
+Mana-repairing Spartan Weaponry weapons 
+With the ability to make more specialized weapons using mundane materials, it makes sense that &1Manasteel&0 would also be suitable to use for these weapons. Using &1Manasteel&0 also allows these specialist weapons to regenerate using mana from &1Mana Tablets&0 or &1Mana Pools&0.<br>Making these weapons require &1Livingwood Handles&0 or &1Livingwood Poles&0.
+Livingwood Handle
+Livingwood Pole
+Manasteel Dagger
+Manasteel Longsword
+Manasteel Katana
+Manasteel Saber
+Manasteel Rapier
+Manasteel Greatsword
+Manasteel Hammer
+Manasteel Warhammer
+Manasteel Spear
+Manasteel Halberd
+Manasteel Pike
+Manasteel Lance
+Manasteel Longbow
+Manasteel Crossbow
+Manasteel Throwing Knife
+Manasteel Throwing Axe
+Manasteel Javelin
+Manasteel Boomerang
+Manasteel Battleaxe
+Manasteel Flanged Mace
+Manasteel Glaive
+Manasteel Quarterstaff
+Terrasteel Weaponry
+Just like specialized weapons made with &1Manasteel&0, the same weapons can be made using &1Terrasteel&0, which also have the same ability to regenerate using Mana using &1Mana Tablets&0 or &1Mana Pools&0.<br>Additionally, just like the &1Terra Blade&0, the weapon can send out a &4Mana Burst&0, which does damage equal to a melee attack. However, this doesn't work with Throwing or Ranged Weapons.

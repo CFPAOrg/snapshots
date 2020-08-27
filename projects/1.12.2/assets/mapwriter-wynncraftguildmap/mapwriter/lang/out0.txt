@@ -1,0 +1,55 @@
+Open map GUI
+New Waypoint
+Next map mode
+Next waypoint group
+Teleport to waypoint
+Minimap zoom in
+Minimap zoom out
+Underground map mode
+General
+Opens the General options
+Fullscreen map
+Opens the Fullscreen map options
+Large map
+Opens the Large map options
+Small map
+Opens the Small map options
+Linear texture scaling enabled
+Enabled linear texture scaling. (nearest is used otherwise)
+Use saved block colors
+Setting this to true will prevent the reloading of block colours, and enables you to define the colours yourself.
+Teleport enabled
+Enables teleporting to positions on the map
+Teleport Command
+The command used to teleport the player
+Max draw distance
+The square of the max distance from the player to map chunks at
+Map pixel snap
+Enables rounding the texture coordinates to the nearest pixel boundary. (this makes the map look less blurry in zoom level 0
+Max death markers
+The maximum amount of death markers
+Chunks per tick
+sets the maximum number of chunks updated per tick
+Save directory Override
+Override the directory MapWriter uses to store images and region
+Portnumber in world Name
+set to false to disable appending the port number to the world name for multiplayer worlds
+Underground Mode
+Enables the underground mode
+Region file output SP
+set to false to disable saving region files (mca files) in single player. prevents map regen if disabled
+Region file output MP
+set to false to disable saving region files (mca files) in multiplayer. prevents map regen if disabled
+Background Texture Mode
+Sets the type of background for the maps
+None
+Static
+Panning
+Zoom out levels
+Max number of steps you can zoom out. Larger values decrease performance.
+Zoom in levels
+Max number of steps you can zoom in. Does not affect performance.
+Texture size
+Sets the texture size of the map
+Enables realistic map
+Enable the use of a different height algorithm that makes the map look more realistic

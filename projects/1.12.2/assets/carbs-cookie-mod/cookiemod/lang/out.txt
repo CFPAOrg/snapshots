@@ -1,0 +1,89 @@
+Turky2349 Cookie
+Undead_Mage1806 Cookie
+UnhookedGecko Cookie
+UnhindgedGecko Cookie
+Vaarel Cookie
+Vegtable42 Cookie
+WikingKnight Cookie
+WolfricGames Cookie
+BipolarRed Cookie
+Ender_fs09 Cookie
+Gamerkitty_1 Cookie
+Kaelthalon Cookie
+Green Gem
+%1$s was asssinated by DbdKevin
+Blue Ingot
+Blue Axe
+Blue Shovel
+Blue Pickaxe
+Blue Hoe
+Blue Sword
+Chocolate Chip
+The Fighter's Sword
+Cookie Crumbler
+Cookie Crumbler
+Cookie Crumbler
+Cookie Cutter
+Cookie Cutter
+Cookie Cutter
+Cookie Mixer
+Cookie Mixer
+Cookie Mixer
+Cookie Dhoe
+Cookie Dhoe
+Cookie Dhoe
+Cookie Sword
+Cookie Sword
+Cookie Sword
+Blue Helmet
+Blue Chestplate
+Blue Leggings
+Blue Boots
+Block Name
+Cookie Block
+Chocolate Block
+Sugar Block
+Black RossBlock
+Gray RossBlock
+Blue RossBlock
+Blue/Cyan RossBlock
+Cyan RossBlock
+Cyan/Green RossBlock
+Green RossBlock
+Megenta RossBlock
+Salmon RossBlock
+Orange RossBlock
+Brown RossBlock
+Purple RossBlock
+Purple/Red RossBlock
+Red RossBlock
+Dark Green RossBlock
+Yellow RossBlock
+Blue Crops
+Blue Seeds
+Overworld Blue Ore
+Nether Blue Ore
+End Blue Ore
+Overworld Green Ore
+Nether Green Ore
+End Green Ore
+Overworld Cookie Ore
+Nether Cookie Ore
+End Cookie Ore
+Blue Sapling
+Cocoa Tree Sapling
+Blue Wood
+Cocoa Wood
+Blue Leaves
+Cocoa Leaves
+Blue Planks
+Cocoa Planks
+Blue Furnace
+CookieJar
+Fixing Bowl
+Advanced Fixing Bowl
+Modid Config File
+World Generation Options
+Tooltips Options
+Character Cookies Options
+Fixing Bowl Repair Options

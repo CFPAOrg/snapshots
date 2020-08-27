@@ -1,0 +1,19 @@
+Waterbreathing Wand
+Wand of the Fire Resistance
+Wand of the Saturation
+Solar wand
+Luna Wand
+Rocketflyingwand
+Simple Crafting Wand
+Crafting Wand
+Advanced Crafting Wand
+Elite Crafting Wand
+Super Crafting Wand
+Featherfalling Wand
+Press
+Expensive Wands
+The crafting of this wand is only possible by placing the items
+in a press. Sneak and Rigthclick with a
+(or a better one).
+There is not enough energy in your wand.
+This recipe could not be identified. Check the ingredients and the tier of your wand.

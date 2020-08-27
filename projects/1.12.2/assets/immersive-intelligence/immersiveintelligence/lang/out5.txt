@@ -1,0 +1,46 @@
+Craft the Chemical Dispenser
+No yellow ones, sorry!
+Craft an Inserter
+The Infiltrator
+Craft the Infrared Binoculars
+Comeback of the Zippo Guy
+Craft a Lighter
+Property of Hans
+Craft the infamous Machinegun
+Is the reactor OK?
+Craft an Alarm Siren
+Fluid Shock Therapy
+Create an Electrolyzer
+Hans 9000
+Prepare the MG for stationary defense
+Let me show you its Features!
+Upgrade the MG with an Infrared Scope, a Heavy Barrel and a Second Magazine
+Better than the World?
+Acquire a Platinum Ingot
+Defeating the Monster with Heat
+Acquire a Tungsten Ingot
+Faster than Dwarves
+Craft a Tungsten Drill Head
+Tinkering with Tools
+Craft a Diamond Tipped Tungsten Drill Head
+Quality: Masterwork
+Craft the Precision Assembler
+Low on ink
+Create a Printing Press
+Can it run Crysis?
+Produce an Processor Circuit Board
+Remote Control
+Create a Radio Station
+Stories of Deco Morreno
+The supreme quality has been achieved.
+Data Transmission
+Warfare
+Logistics
+Intelligence
+Data
+Controlling the Flow
+When you want to control an automated factory, power plant or a different complicated structure you need some kind of a control system. <br>Redstone is good for a start, but with lots of machines the messy nature of it starts to show - and that's an appropriate moment to introduce The Data System.
+Data, in contrast to a redstone signal, is sent in a asynchronous way via packets. This means, that the signal isn't being sent all the time, but only once. Each packet can contain 36 <link;data_variable_types;§n§oVariables§r;> of different types, labelled by one of the 26 letters and numbers 0-9. The packets are received and sent instantly, allowing them to travel vast distances without any loss in data they store.
+Variable Types
+Results May Vary
+There are multiple types of the variables a packet can hold. Each one has a default value (not to be confused with <link;data_variable_types_null;§o§nNull§r;>) and other parameters specific to their type.<br> The basic types are: <link;data_variable_types_null;§o§nNull§r;>, <link;data_variable_types_int;§o§nInteger§r;>, <link;data_variable_types_string;§o§nString§r;>, <link;data_variable_types_bool;§o§nBoolean§r;>, there are also a couple of more advanced types like <link;data_variable_types_itemstack;§o§nItemStack§r;>, <link;data_variable_types_array;§o§nArray§r;>, <link;data_variable_types_pair;§o§nPair§r;> and <link;data_variable_types_range;§o§nRange§r;>.

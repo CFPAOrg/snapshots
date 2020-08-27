@@ -1,0 +1,4 @@
+EXP Bottling Machine
+Bottled EXP
+Experience: %,d
+EXP Bottling Machine

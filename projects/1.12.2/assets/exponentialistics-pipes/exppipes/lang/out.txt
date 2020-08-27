@@ -1,0 +1,38 @@
+Exponentialistics Pipes
+Pipe
+Routing Pipe
+Provider Pipe
+Supplier Pipe
+Request Pipe
+No Insertion Pipe
+Crafting Pipe
+Extraction Pipe
+Polymorphic Provider Pipe
+Counting Pipe
+Stock Keeper Pipe
+Retriever Pipe
+Sequencer Pipe
+A pipe to move things, nothing smart here
+A pipe to move things to where they should be
+Exposes attached containers to the network
+Fills a container by requesting from the network
+Manually requests items
+Never inserts items in nearby containers
+Used with crafting patterns to craft things automatically
+Empties all attached containers
+Exposes attached containers and sinks already stored items
+Counts items
+Keeps the configured items and quantities in a container
+Retrieves all items stored on the network
+Sends items in sequence to other pipes
+Stack Display
+Buffered Stack Display
+Request Station
+Pipe Debug
+Crafting Pattern
+Pipe Upgrade
+Super Pipe Upgrade
+Extraction Speed Upgrade
+Item Lock Upgrade
+Locator
+Autolocator

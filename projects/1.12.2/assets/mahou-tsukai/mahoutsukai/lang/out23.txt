@@ -1,0 +1,26 @@
+Sympathetic Magic
+Sympathetic Magic refers to a symbolic magic, in which a target can be affected remotely through the use of a symbol. %%n%%nTo use a scrying circle for sympathetic magic, it must be actively scrying something. Also, an inventory under the scrying circle must contain Kodoku worms to act as fuel. Worms with higher kodoku values will increase the chance of successful sympathetic magic.
+Sympathetic Magic (cont.)
+When an active scrying circle with Kodoku worms underneath is set up, simply throw items for various effects on top of the circle. %%n%%nBlaze Powder - Fire%%n%%nRabbit Foot - Hop%%n%%nSplash Potions - Effects%%n%%nGlowstone Dust - Glowing%%n%%n(Effects continued on next page.)
+Sympathetic Magic (cont.)
+%%nRotten Flesh - Hunger%%n%%nKodoku worms - Misfortune %%n%%nMisfortune applies various effects such as being struck by lightning, dropping items, negative looting, tripping, breaking tools, increased aggro, with chances scaling depending on the quality of the worm.%%n%%n(Effects continued on next page.)
+Sympathetic Magic (cont.)
+%%nEnder Pearl - Teleports target (Players must have a contract with caster to be teleported)%%n%%nNether Wart - Confusion
+Countering Sympathetic Magic
+You can counter sympathetic magic against yourself by keeping a worm with a high kodoku value in your inventory. The higher the value, the less likely the magic will succeed against you, and there's even a chance it will be reflected to the caster.
+Memorized!
+Big Explosion Mode
+AOE Mode
+Beam Mode
+Kodoku
+Kodoku Value
+Your sympathetic magic has failed.. Perhaps a stronger kodoku?
+/mahoukodoku player_name kodoku_value
+Misfortune
+Confusion
+Kodoku Fire Chance
+Base chance of setting target on fire with kodoku value 1
+Kodoku Splash Potion Chance
+Base chance of applying potion to target with kodoku value 1
+Kodoku Hop Chance
+Base chance of making target jump with kodoku value 1

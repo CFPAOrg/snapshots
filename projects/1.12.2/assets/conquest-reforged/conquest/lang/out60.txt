@@ -1,0 +1,123 @@
+Terracotta Imbrices and Tegulae Layer
+Worn Diorite Bricks Layer
+Gray Concrete Layer
+Brick Fishscale Layer
+ Layer
+Scale
+Abacus
+Sextant
+Telescope
+Elven Telescope
+none
+none
+none
+Pile of Bones
+Corpse
+Vase
+none
+Stalactite
+Stalagmite
+none
+none
+none
+Charcoal
+Iron Chains
+Rusty Chains
+Small Iron Chains
+Gold Chains
+Rope Hook
+Metal Hook
+Hourglass
+Globe
+Compass
+Silver Coins
+Gold Coins
+Pot of Water
+Cannonball
+Hell's Eye
+Amphora
+none
+none
+none
+Stone Ash Plate
+none
+none
+none
+Elven Compass
+none
+Stone Water Plate
+Candle
+Lantern and Candle
+Hand Candle
+Candles
+Spice Jars
+Oak Log
+Oak Log (connecting)
+Mossy Oak Log
+Spruce Log
+Spruce Log (connecting)
+Mossy Spruce Log
+Birch Log
+Birch Log (connecting)
+Mossy Birch Log
+Jungle Log
+Jungle Log (connecting)
+Mossy Jungle Log
+Acacia Log
+Acacia Log (connecting)
+Mossy Acacia Log
+Dark Oak Log
+Dark Oak Log (connecting)
+Mossy Dark Oak Log
+Burnt Oak Log
+Birch Log
+Dark Birch Log
+Oak Platform
+Carved Oak Wood
+Spruce Platform
+Spruce Planks (Vertical)
+Carved Spruce Wood
+Carved Birch Wood
+Carved Jungle Wood
+Red Acacia Planks
+Carved Acacia Wood
+Carved Dark Oak Wood
+Driftwood
+Mossy Planks
+White Painted Planks
+Weathered White Planks
+Weathered Red Planks
+Red Painted Planks
+Weathered Light Red Planks
+Light Red Painted Planks
+Orange Painted Planks
+Weathered Yellow Planks
+Yellow Painted Planks
+Weathered Green Planks
+Green Painted Planks
+Weathered Light Green Planks
+Light Green Painted Planks
+Weathered Cyan Planks
+Cyan Painted Planks
+Weathered Dark Blue Planks
+Dark Blue Painted Planks
+Weathered Blue Planks
+Weathered Light Blue Planks
+Light Blue Painted Planks
+Purple Painted Planks
+Weathered Brown Planks
+Brown Painted Planks
+Barrel of Apples
+Sack of Apples
+Wicker Basket of Apples
+Barrel of Bread
+Sack of Bread
+Sack of Flour
+Barrel of Cabbage
+Sack of Cabbage
+Barrel of Fish
+Sack of Fish
+Barrel of Cocoa
+Sack of Cocoa
+Wicker Basket of Cocoa
+Barrel of Potatoes

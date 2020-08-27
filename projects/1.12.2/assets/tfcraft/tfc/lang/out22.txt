@@ -1,0 +1,100 @@
+Basalt Cinnabar
+Basalt Cryolite
+Basalt Saltpeter
+Basalt Serpentine
+Basalt Sylvite
+Basalt Borax
+Basalt Olivine
+Basalt Lapis Lazuli
+Andesite Native Copper
+Andesite Native Gold
+Andesite Native Platinum
+Andesite Hematite
+Andesite Native Silver
+Andesite Cassiterite
+Andesite Galena
+Andesite Bismuthinite
+Andesite Garnierite
+Andesite Malachite
+Andesite Magnetite
+Andesite Limonite
+Andesite Sphalerite
+Andesite Tetrahedrite
+Andesite Bituminous Coal
+Andesite Lignite
+Andesite Kaolinite
+Andesite Gypsum
+Andesite Satinspar
+Andesite Selenite
+Andesite Graphite
+Andesite Kimberlite
+Andesite Petrified Wood
+Andesite Sulfur
+Andesite Jet
+Andesite Microcline
+Andesite Pitchblende
+Andesite Cinnabar
+Andesite Cryolite
+Andesite Saltpeter
+Andesite Serpentine
+Andesite Sylvite
+Andesite Borax
+Andesite Olivine
+Andesite Lapis Lazuli
+Dacite Native Copper
+Dacite Native Gold
+Dacite Native Platinum
+Dacite Hematite
+Dacite Native Silver
+Dacite Cassiterite
+Dacite Galena
+Dacite Bismuthinite
+Dacite Garnierite
+Dacite Malachite
+Dacite Magnetite
+Dacite Limonite
+Dacite Sphalerite
+Dacite Tetrahedrite
+Dacite Bituminous Coal
+Dacite Lignite
+Dacite Kaolinite
+Dacite Gypsum
+Dacite Satinspar
+Dacite Selenite
+Dacite Graphite
+Dacite Kimberlite
+Dacite Petrified Wood
+Dacite Sulfur
+Dacite Jet
+Dacite Microcline
+Dacite Pitchblende
+Dacite Cinnabar
+Dacite Cryolite
+Dacite Saltpeter
+Dacite Serpentine
+Dacite Sylvite
+Dacite Borax
+Dacite Olivine
+Dacite Lapis Lazuli
+Quartzite Native Copper
+Quartzite Native Gold
+Quartzite Native Platinum
+Quartzite Hematite
+Quartzite Native Silver
+Quartzite Cassiterite
+Quartzite Galena
+Quartzite Bismuthinite
+Quartzite Garnierite
+Quartzite Malachite
+Quartzite Magnetite
+Quartzite Limonite
+Quartzite Sphalerite
+Quartzite Tetrahedrite
+Quartzite Bituminous Coal
+Quartzite Lignite
+Quartzite Kaolinite
+Quartzite Gypsum
+Quartzite Satinspar
+Quartzite Selenite
+Quartzite Graphite
+Quartzite Kimberlite

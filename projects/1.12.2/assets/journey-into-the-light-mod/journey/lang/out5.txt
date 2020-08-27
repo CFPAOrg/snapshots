@@ -1,0 +1,113 @@
+Nethic Grass
+Nethic Lamp
+Obelisk
+Observer Spawner
+Orbadite Block
+Orbadite Ore
+Overgrown Loot Box
+Overseer Elder Spawner
+Overseer Spawner
+Perma Flower
+Pink Cloudia Cloud
+Purple Gem Block
+Purplian Spawner
+Red Gems
+Rubble
+Sapphire Block
+Sapphire Ore
+Scorched Cactus
+Scorched Rubble
+Scorched Stalagmite
+Scorched Stalagmite
+Scorched Stalagmite
+Scorched Stalagmite
+Screamer Spawner
+Senterian Heart Block
+Senterian Heart Block
+Eye of the Heart
+Senterian Altar
+Senterian Bars
+Senterian Bricks
+Senterian Carved Rock
+Senterian Floor
+Senterian Glass
+Senterian Guardian Lamp
+Senterian Light Lamp
+Senterian Mellow Lamp
+senterianPortal
+Senterian Portal Frame
+Senterian Post
+Senterian Rock
+Sentry Lock
+Shadium Block
+Shadium Ore
+Shiver Flower
+Silverbot Spawner
+Sizzleberry Bush
+Deadblood Leaves
+Deadblood Log
+Sizzling Post
+Smithstone
+Smooth Glass
+Sorcerer Spawner
+Starlight Golem Spawner
+Starlight Transporter Spawner
+Stone Crafting Table
+Storon Block
+Storon Ore
+Summoning Table
+Swamp lily
+Swamp Shelf
+Swamp Fly Bottle
+Tainted Mud
+Tall Crumbling Plant
+Blue Tall Glowshroom
+Green Tall Glowshroom
+Red Tall Glowshroom
+Tall Golden Stalks
+Tall Goldite Stalks
+Tall Molten Plant
+Tall Terranian Shroom
+Tangleberry Bush
+Terranian Shroom
+Terrania Chest
+Terrania Lamp
+Terranian Flower
+Terranian Bars
+Terranian Dark Panels
+Terranian Dirt
+Terranian Grass
+Terrania Leaves
+Terranian Log
+Terranian Panels
+Terranian Post
+Terranian Stone
+Terranian Tallgrass
+Terrania Vine
+Terrania Portal
+Terrania Portal Frame
+Terrania Sapling
+Terrashroom Block
+Terrashroom Block
+Trophy
+Blazier Trophy
+Corallator Trophy
+Eudor Trophy
+Logger Trophy
+Nether Beast Trophy
+Thunderbird Trophy
+Scale Trophy
+Sentry King Trophy
+Soul Watcher Trophy
+Sky Stalker Trophy
+Terranian Protector Trophy
+Withering Beast Trophy
+Volcanic Sand
+White Block
+Witherwood Leaves
+Witherwood Log
+Workshop Carpet
+Workshop Stairs
+Workshop Stone
+Workshop Fence
+Yellow Gem Block

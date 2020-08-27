@@ -1,0 +1,64 @@
+Strike through text (§mEXAMPLE§r).
+Underlined text (§nEXAMPLE§r).
+Italic text (§oEXAMPLE§r).
+Reset formatting.
+Amount of maximum memory.
+Amount of total memory.
+Amount of free memory.
+Amount of memory in use.
+Current FPS.
+Current resource pack.
+Amount of rendered entities.
+Amount of loaded entities.
+Amount of loaded chunks.
+Server domain or IP and the port if it's not 25565, localhost if it's a local game.
+Server domain, localhost if it's a local game.
+Server IP, 127.0.0.1 if it's a local game.
+Server port, -1 if it's a local game.
+Current ping, -1 if no data.
+Current ping icon, empty string if no data.
+Forge version.
+MCP version.
+Minecraft version.
+Total active mods.
+Total mods.
+Vsync enabled.
+Type of clouds.
+CPU information.
+Debug screen entities information.
+Game display width.
+Game display height.
+Effect render stats.
+Number of hidden entities.
+Fancy graphics enabled/disabled.
+Framerate.
+Java 32-bit or 64-bit.
+Java version.
+Light updates.
+Maximum memory in MB.
+Total available memory in MB.
+Percent of memory useage.
+Amount of memory in use in MB.
+OpenGL vendor.
+OpenGL version.
+Provider name.
+Total render chunks.
+Render chunks many.
+Render chunks updated.
+Render chunks updated.
+Render debug info.
+Render distance chunks.
+Rendered chunks.
+VBO enabled/disabled.
+Video card information.
+Zero (0) used for comparison calculations in overlays.
+Name of the entity or block under the cursor, an empty string if there is nothing.
+Unique name of the entity or block under the cursor, an empty string if there is nothing.
+Entity id or block id under the cursor, zero if there is nothing.
+Block metadata under the cursor, zero if there is nothing.
+Weak redstone power of the block, -1 if there is nothing.
+Strong redstone power of the block, -1 if there is nothing.
+Input redstone power of the block, -1 if there is nothing.
+Block age.
+Block attached.
+Block axis.

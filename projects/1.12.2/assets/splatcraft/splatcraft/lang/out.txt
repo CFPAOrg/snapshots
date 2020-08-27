@@ -1,0 +1,62 @@
+Organic White
+Organic Orange
+Organic Magenta
+Organic Light Blue
+Organic Yellow
+Organic Lime
+Organic Pink
+Organic Gray
+Organic Light Gray
+Organic Cyan
+Organic Purple
+Organic Blue
+Organic Brown
+Organic Green
+Organic Red
+Organic Black
+Craft
+Inkwell Crafting
+Weapon Crafting
+Inkling Squid
+Inkling Squid
+Squid Bumper
+/turfwar <x1> <y1> <z1> <x2> <y2> <z2>
+§cCannot check for blocks outside of the world
+%s wins!
+§cNo ink was found on the designated area
+Rule %s has been updated to %s
+/splatcraftrules <rule name> [value]
+/clearink <x1> <y1> <z1> <x2> <y2> <z2>
+§cCannot check for blocks outside of the world
+Successfully cleared %s blocks
+Successfully recolored %s blocks to %s
+/inkcolor <player> <color>
+Changed %s's ink color to %s
+/colorscores <add|remove|list> <color>
+Criteria with the color %s already exists
+No criteria was found by the color '%s'
+Successfully added new criteria for the color '%s'
+Successfully removed criteria for the color '%s'
+There are no registered color criteria
+Showing %s registered color criteria:
+%s: displays as '%s'
+Failed to remove criteria for the color %s, as they're being used in the following objectives: %s
+Splatcraft Config
+Set first position to X: %s Y: %s Z: %s
+Set second position to X: %s Y: %s Z: %s
+Low Ink!
+Set Remote Mode to %s
+Splatcraft
+Squid
+%1$s was splatted by %2$s
+%1$s was splatted by %2$s using %3$s
+%1$s was crushed by %2$s
+%1$s was crushed by %2$s using %3$s
+%1$s drowned in enemy ink
+%1$s dissolved in water
+Blocks Inked
+Sub Weapons Used
+Special Weapons Used
+Time as a Squid
+Weapons Crafted
+Inkwells Filled

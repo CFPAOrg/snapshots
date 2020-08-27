@@ -1,0 +1,32 @@
+Click here to attach all pearls in your inventory to this belt
+Spell loaded from condex.
+Paper cleared.
+Spell saved to codex successfully! Open the book and check the new spell recipe tab.
+You do not have a codex in your inventory! Once you have one, you can save your spell into the book.
+Codex found, you can save spells.
+You can't create a loop.
+There's a loop somewhere! A spell should start from somewhere with no links to it and not make an infinite cycle.
+Those components can't be linked together like that!
+An Effect module cannot link to another components. They can only be linked from other components.
+To make your spell use that Event component, hook your Shape TO it, then hook the Event TO the Effect. Shape -> Event -> Effect
+Save
+Clear
+Load
+Load the last spell saved from the first codex found in your inventory.
+Remove all spell components on the paper.
+Store the recipe for the spell into the codexes in your inventory.
+No codex found in your inventory! Place one in your inventory to save properly.
+Shift + Scroll to flip pages
+Open recipe tab for more details
+Spell Recipe
+Spell Structure
+Spellforger's Codex
+Not By Raziel
+The 5 Steps To Becoming A Wizard
+Mobs
+Items And Blocks
+Dimensions
+Step 1: Mana
+Learn about what mana is and why you want it so badly
+Of all the energy sources a wizard can draw on, mana is the best. Light blue pools of this watery liquid can be found throughout the world; it also manifests itself in people and objects, giving a trained wizard a constant source of energy to draw on. With it, you can begin to be a threat in the world of wizardry, and begin to work magic.
+A fair warning, the liquid is barely stable. Think of it as a river. A small flow of water is nice to relax in and drift along with, but a raging rapid is not something you want to jump in the way of. Touching it will drain your hunger as it tries to purge your body, while also making you float due to the sheer energy of the liquid. As a result, it's next to impossible to drown in it.

@@ -1,0 +1,105 @@
+Adamantine Helmet
+Adamantine Chestplate
+Adamantine Leggings
+Adamantine Boots
+Amordrine Helmet
+Amordrine Chestplate
+Amordrine Leggings
+Amordrine Boots
+Angmallen Helmet
+Angmallen Chestplate
+Angmallen Leggings
+Angmallen Boots
+Atlarus Helmet
+Atlarus Chestplate
+Atlarus Leggings
+Atlarus Boots
+Astral Silver Helmet
+Astral Silver Chestplate
+Astral Silver Leggings
+Astral Silver Boots
+Black Steel Helmet
+Black Steel Chestplate
+Black Steel Leggings
+Black Steel Boots
+Brass Helmet
+Brass Chestplate
+Brass Leggings
+Brass Boots
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Carmot Helmet
+Carmot Chestplate
+Carmot Leggings
+Carmot Boots
+Celenegil Helmet
+Celenegil Chestplate
+Celenegil Leggings
+Celenegil Boots
+Ceruclase Helmet
+Ceruclase Chestplate
+Ceruclase Leggings
+Ceruclase Boots
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Damascus Steel Helmet
+Damascus Steel Chestplate
+Damascus Steel Leggings
+Damascus Steel Boots
+Deep Iron Helmet
+Deep Iron Chestplate
+Deep Iron Leggings
+Deep Iron Boots
+Desichalkos Helmet
+Desichalkos Chestplate
+Desichalkos Leggings
+Desichalkos Boots
+Electrum Helmet
+Electrum Chestplate
+Electrum Leggings
+Electrum Boots
+Etherium Helmet
+Etherium Chestplate
+Etherium Leggings
+Etherium Boots
+Eximite Helmet
+Eximite Chestplate
+Eximite Leggings
+Eximite Boots
+Haderoth Helmet
+Haderoth Chestplate
+Haderoth Leggings
+Haderoth Boots
+Hepatizon Helmet
+Hepatizon Chestplate
+Hepatizon Leggings
+Hepatizon Boots
+Ignatius Helmet
+Ignatius Chestplate
+Ignatius Leggings
+Ignatius Boots
+Inolashite Helmet
+Inolashite Chestplate
+Inolashite Leggings
+Inolashite Boots
+Kalendrite Helmet
+Kalendrite Chestplate
+Kalendrite Leggings
+Kalendrite Boots
+Krik Helmet
+Krik Chestplate
+Krik Leggings
+Krik Boots
+Lutetium Helmet
+Lutetium Chestplate
+Lutetium Leggings
+Lutetium Boots
+Midasium Helmet
+Midasium Chestplate
+Midasium Leggings
+Midasium Boots
+Mithril Helmet

@@ -1,0 +1,15 @@
+item.bluprium_dust.name
+item.bluprium_nugget.name
+item.bluprium_ingot.name
+tile.bluprium_ore.name
+tile.block_of_bluprium.name
+item.bluprium_sword.name
+item.bluprium_pickaxe.name
+item.bluprium_axe.name
+item.bluprium_shovel.name
+item.bluprium_hoe.name
+itemGroup.tab_bluprium_mod
+item.bluprium_helmet.name
+item.bluprium_chestplate.name
+item.bluprium_leggings.name
+item.bluprium_boots.name

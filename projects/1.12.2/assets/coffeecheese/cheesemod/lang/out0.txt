@@ -1,0 +1,101 @@
+Cheese Man
+Ham Man
+Cheese Golem
+Ham Golem
+Test Item
+Block O' Cheese
+Cheese Slice
+Cracker
+Crayfish Cracker
+Cheese N' Cracker
+Grilled Cheese N' Cracker
+Cheese N' Crayfish Cracker
+Grilled Cheese N' Crayfish Cracker
+Plain Toast
+French Toast
+Bread Slice
+Raw Ham
+Cooked Ham
+Cheese Toastie
+Grilled Cheese Toastie
+Raw Ham N' Cheese Toastie
+Cooked Ham N' Cheese Toastie
+Grilled Raw Ham N' Cheese Toastie
+Grilled Cooked Ham N' Cheese Toastie
+Dough
+Plain Pizza
+Uncooked Cheese Pizza
+Cheese Pizza
+Uncooked Ham N' Cheese Pizza
+Ham N' Cheese Pizza
+Uncooked Ham Pineapple N' Cheese Pizza
+Ham Pineapple N' Cheese Pizza
+Knife
+Cheese Knife
+Ham Raw Knife
+Ham Cooked Knife
+Cheese Metal Ingot
+Grilled Cheese Metal Ingot
+Ham Raw Metal Ingot
+Ham Cooked Metal Ingot
+Cheese Cutter
+Bit O' Cheese
+Bit O' Ham
+Grinding Stones
+Flour
+Salt
+Grilling Oil
+Smelting Oil
+Milk Curdler
+Rolling Pin
+Wooden Gear
+Pineapple
+Pineapple Plant
+Pineapple Ring
+Pineapple Bit
+Cheese Helmet
+Cheese Chestplate
+Cheese Leggings
+Cheese Boots
+Grilled Cheese Helmet
+Grilled Cheese Chestplate
+Grilled Cheese Leggings
+Grilled Cheese Boots
+Ham Raw Helmet
+Ham Raw Chestplate
+Ham Raw Leggings
+Ham Raw Boots
+Ham Cooked Helmet
+Ham Cooked Chestplate
+Ham Cooked Leggings
+Ham Cooked Boots
+Cheese Suit Hat
+Cheese Suit Chestplate
+Ham Suit Hat
+Ham Suit Chestplate
+Ham Suit Boots
+Cheese Metal Pickaxe
+Cheese Metal Axe
+Cheese Metal Hoe
+Cheese Metal Shovel
+Cheese Metal Sword
+Cheese Metal Multitool
+Grilled Cheese Metal Pickaxe
+Grilled Cheese Metal Axe
+Grilled Cheese Metal Hoe
+Grilled Cheese Metal Shovel
+Grilled Cheese Metal Sword
+Grilled Cheese Metal Multitool
+Ham Raw Metal Pickaxe
+Ham Raw Metal Axe
+Ham Raw Metal Hoe
+Ham Raw Metal Shovel
+Ham Raw Metal Sword
+Ham Raw Metal Multitool
+Ham Cooked Metal Pickaxe
+Ham Cooked Metal Axe
+Ham Cooked Metal Hoe
+Ham Cooked Metal Shovel
+Ham Cooked Metal Sword
+Ham Cooked Metal Multitool
+Cheese Planks

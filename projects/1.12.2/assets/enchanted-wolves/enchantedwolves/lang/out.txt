@@ -1,0 +1,27 @@
+Leather Collar
+Chain Collar
+Golden Collar
+Diamond Collar
+Marker Arrow
+Trauma
+Leech Fangs
+Hellhound
+Swiftness
+Buffness
+Toughness
+Disarm
+Frostbite
+Cushion
+Icy Paws
+Resurrection
+Reduces fall damage
+Increases attack damage
+Heal for a percentage of the damage dealt by basic attacks.
+Attacks set entities on fire. Also reduces fire damage taken.
+Increases armor.
+Increases armor toughness.
+Attacks have a percentage chance to Disarm the target. Preventing them from usingitems or attacking for a short duration.
+Attacks slow entities hit.
+Increases movement speed.
+On taking fatal damage reduces thisenchantment's level by 1  to heal to full and teleports the wolf to the owner.
+Enchanted Wolves

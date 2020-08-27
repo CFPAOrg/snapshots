@@ -1,0 +1,104 @@
+Quartzite Petrified Wood
+Quartzite Sulfur
+Quartzite Jet
+Quartzite Microcline
+Quartzite Pitchblende
+Quartzite Cinnabar
+Quartzite Cryolite
+Quartzite Saltpeter
+Quartzite Serpentine
+Quartzite Sylvite
+Quartzite Borax
+Quartzite Olivine
+Quartzite Lapis Lazuli
+Slate Native Copper
+Slate Native Gold
+Slate Native Platinum
+Slate Hematite
+Slate Native Silver
+Slate Cassiterite
+Slate Galena
+Slate Bismuthinite
+Slate Garnierite
+Slate Malachite
+Slate Magnetite
+Slate Limonite
+Slate Sphalerite
+Slate Tetrahedrite
+Slate Bituminous Coal
+Slate Lignite
+Slate Kaolinite
+Slate Gypsum
+Slate Satinspar
+Slate Selenite
+Slate Graphite
+Slate Kimberlite
+Slate Petrified Wood
+Slate Sulfur
+Slate Jet
+Slate Microcline
+Slate Pitchblende
+Slate Cinnabar
+Slate Cryolite
+Slate Saltpeter
+Slate Serpentine
+Slate Sylvite
+Slate Borax
+Slate Olivine
+Slate Lapis Lazuli
+Phyllite Native Copper
+Phyllite Native Gold
+Phyllite Native Platinum
+Phyllite Hematite
+Phyllite Native Silver
+Phyllite Cassiterite
+Phyllite Galena
+Phyllite Bismuthinite
+Phyllite Garnierite
+Phyllite Malachite
+Phyllite Magnetite
+Phyllite Limonite
+Phyllite Sphalerite
+Phyllite Tetrahedrite
+Phyllite Bituminous Coal
+Phyllite Lignite
+Phyllite Kaolinite
+Phyllite Gypsum
+Phyllite Satinspar
+Phyllite Selenite
+Phyllite Graphite
+Phyllite Kimberlite
+Phyllite Petrified Wood
+Phyllite Sulfur
+Phyllite Jet
+Phyllite Microcline
+Phyllite Pitchblende
+Phyllite Cinnabar
+Phyllite Cryolite
+Phyllite Saltpeter
+Phyllite Serpentine
+Phyllite Sylvite
+Phyllite Borax
+Phyllite Olivine
+Phyllite Lapis Lazuli
+Schist Native Copper
+Schist Native Gold
+Schist Native Platinum
+Schist Hematite
+Schist Native Silver
+Schist Cassiterite
+Schist Galena
+Schist Bismuthinite
+Schist Garnierite
+Schist Malachite
+Schist Magnetite
+Schist Limonite
+Schist Sphalerite
+Schist Tetrahedrite
+Schist Bituminous Coal
+Schist Lignite
+Schist Kaolinite
+Schist Gypsum
+Schist Satinspar
+Schist Selenite
+Schist Graphite

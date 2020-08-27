@@ -1,0 +1,15 @@
+item.moonshard.name
+item.martianpickaxe.name
+tile.martianrock.name
+lingering_potion.effect.marspotion
+tipped_arrow.effect.marspotion
+entity.marsthing.name
+tile.moonrock.name
+key.mcreator.etydt
+effect.marspotion
+potion.effect.marspotion
+splash_potion.effect.marspotion
+item.moon.name
+item.marsbar.name
+item.mars.name
+item.martiansword.name

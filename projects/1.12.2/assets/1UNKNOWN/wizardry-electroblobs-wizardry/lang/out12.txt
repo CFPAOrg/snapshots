@@ -1,0 +1,10 @@
+Whether to allow players to damage their designated allies using magic.
+Whether to allow players to disarm other players using the telekinesis spell. Set to false to prevent stealing of items.
+For those who like a sense of mystery! When set to true, spells you haven't cast yet will be unreadable until you cast them (on a per-world basis). Has no effect when in creative mode. Spells of identification will be unobtainable in survival mode if this is false.
+Whether you can switch between spells on a wand by scrolling with the mouse wheel while sneaking. Note that this will only affect you; other players connected to the same server obey their own settings.
+Whether summoned creatures can revenge attack their owner if their owner attacks them.
+Global damage scaling factor for the damage dealt by players casting spells, relative to 1.
+Global damage scaling factor for the damage dealt by NPCs casting spells, relative to 1.
+Upper limit for the multipliers passed into the /cast command. This is here to stop players from accidentally breaking a world/server. Large blast mutipliers can cause extreme lag - you have been warned!
+List of names of entities which summoned creatures and wizards are allowed to attack, in addition to the defaults. Add mod creatures to this list if you want summoned creatures to attack them and they aren't already doing so. Entity names are not case sensitive. For mod entities, prefix with the mod ID (e.g. wizardry:Wizard).
+List of names of entities which summoned creatures and wizards are specifically not allowed to attack, overriding the defaults and the whitelist. Add creatures to this list if allowing them to be attacked causes problems or is too destructive (removing creepers from this list is done at your own risk!). Entity names are not case sensitive. For mod entities, prefix with the mod ID (e.g. wizardry:Wizard).

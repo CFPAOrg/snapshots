@@ -1,0 +1,2 @@
+key.realdropsaddon.desc1
+key.realdropsaddon.desc2

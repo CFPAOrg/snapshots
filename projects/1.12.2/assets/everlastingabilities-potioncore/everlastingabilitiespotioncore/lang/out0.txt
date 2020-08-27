@@ -1,0 +1,76 @@
+Everlasting Abilities - Potion Core
+Trueshot
+Inflict more projectile damage
+Drowning
+Breath underwater but suffocate in air
+Antidote
+Prevents you from taking poison damage
+Purity
+Prevents you from taking wither damage
+Slowfall
+Slows your fall
+Solid Core
+Gives you knockback resistance
+Climbing
+Lets you climb walls like spiders
+Reach
+Increases your reach distance
+Iron Skin
+Increases your armor
+Diamond Skin
+Increases your armor toughness
+Recoil
+Reflects a portion of damage back to the attacker
+Magic Focus
+Increases magic damage
+Magic Shielding
+Take less damage from magic
+Revival
+Revive with 2 heart per level after death
+Repair
+Repair armor and held item
+Extension
+Increases length of a random active potion
+Bless
+Gives a random positive potion effect
+Cure
+Removes all bad potion effects
+Broken Armor
+Entities in the area have reduced armor levels
+Weight
+Entities in the area have negative jump boost
+Klutz
+Projectile damage from entities in the area is decreased
+Inversion
+Potion effects on entities in the area are inverted
+Vulnerable
+Damage for all entities in the area is multiplied
+Magic Inhibition
+Entities in the area have reduced magic damage decreased
+Explosion
+Entities in the area explode
+Combustion
+Entities in the area are set on fire
+Lightning
+Entities in the area are struck with lightning
+Launching
+Entities in the area are launched in the air
+Corrosion
+Entities in the area have their armor and held item damaged (except for gold)
+Disorganization
+Entities in the area have their inventories shuffled
+Perplexity
+Players in the area have their controls reversed
+Curse
+Entities in the area receive random bad potion effects
+Dispel
+Entities in the area have all their good potion effects removed
+%s configuration
+Item settings
+General settings
+Core settings
+Capability settings
+Ability settings
+Max trueshot level
+Rarity of trueshot
+Xp required per trueshot level

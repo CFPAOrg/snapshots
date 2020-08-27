@@ -1,0 +1,26 @@
+Should the music be forced off
+Happenes everytime the game is launched
+Should the second "secret" mode be on
+Not very secret
+The volume for the boss fight music
+What should the volume be while fighing the EnderDragon or the Wither
+The volume for the secret piarate mode
+What should the volume be while your in a boat and mode 2 is on
+The volume for hell
+What should the volume be while in hell
+[sounds_extended] Error in config file: Modded %s has an ID that dosn't exist
+[sounds_extended] The Mod is out of date. Your version %s, target version: %s.
+Sounds Extended Configuration File
+Which Sounds are Sounds Enabled?
+Choose which sounds are on and off
+The Server settings
+Control what happens when you connect to a server
+Use for Modded Support
+Use this to decide what modded biomes and dimensions should make what sounds
+General Settings
+The main overall settings
+The settings whereas you can change the volume of diffrent things
+Volume change
+%s has the traits %s
+%s hasn't got any traits
+%s hasn't been registered

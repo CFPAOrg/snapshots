@@ -1,0 +1,51 @@
+Staff of Skills
+Crystal of Skills
+Golden Horseshoe
+Combat Tab
+Golden Tab
+Utility Tab
+Awakening Tab
+Damage+
+Double Damage
+Attack Speed+
+Sword Proficiency
+Axe Proficiency
+Health+
+Health Multiplier
+Armor+
+Armor Toughness+
+Awakening
+Knockback Resistance
+Ranged Damage+
+Gold Damage+
+[WIP] Golden Mining+
+Golden Mending
+Luck+
+Movement+
+Feather Fall+
+Rare Drops+
+Rapid Regeneration
+Double Healing
+Damage++
+Increases damage by 1
+Doubles all bonus damage (toggleable)
+Increases attack speed by 0.4
+Increases sword damage by 1
+Increases axe damage by 1
+Increases your health by 1 heart
+Double your health!
+Increases armor by 1
+Increases armor toughness by 1
+Major increase in health, armor and movement
+Increases knockback resistance by 0.2
+Increases ranged damage by 10 percent
+Increases damage with golden tools by 10 percent
+Will increase mining level of golden pickaxe when done [WIP]
+Auto-repairs golden Equipment in main/offhand + hotbar (tier 2) + armor slots (tier 3). Tier also decreases repair delay
+Increases your luck by 0.1
+Increases your walking speed by 5 percent 
+Increases minimum falling height by 1 block per tier, reduces fall damage by 20 percent
+Increases your chance to get rare loot (from this mod) by 10 percent
+Rapidly regenerate lost health, increased by 15 per tier
+Doubles all healing from healing sources
+An additional increase in damage, increased by 0.02 per tier multiplied by unused skillpoints

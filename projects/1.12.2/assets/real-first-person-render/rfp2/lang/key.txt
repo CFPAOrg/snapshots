@@ -1,0 +1,6 @@
+key.rfp2.category
+key.arms.desc
+key.mod.desc
+key.head.desc
+rfp2.compatability.helditemconflictlist
+rfp2.compatability.mountconflictlist

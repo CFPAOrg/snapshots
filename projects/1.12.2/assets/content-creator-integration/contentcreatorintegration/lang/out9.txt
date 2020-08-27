@@ -1,0 +1,13 @@
+String to be put into the command.
+Should the command be executed as the streamer or the server? (Only if the command is serverside)
+Is the command a client side command?
+How to handle the feedback of the command? Leave it as null to silence feedback (will not silence command errors). Leave it an empty string to allow the feedback. Put a name in to attempt to capture the feedback into a global variable of said name (only if the command is "executeAsSelf"). This listens for feedback from the server and will stop after a second. Bear in mind that CCI has to guess which chat message received is the feedback from the command, so do your testing! Allows variable insertion for the name. The feedback can not be used in the same event, as there will be a delay from sending the command to the server and to wait for the feedback. To use the feedback you will need to use a staggered event, or another event and a later time.
+To be used with "handleFeedback". If you know which feedback translation keys to listen for, put them in the array. If not, leave null, and CCI will capture the first available command feedback. To be used with commands that return several lines of feedback. Eg: Doing "/time query daytime" will return a localizable string with the key "commands.time.query". Add that if you want to capture just that one feedback line.
+If you are connected to a server where you don't have CCI permissions/server doesn't have CCI installed, and "executeAsSelf" is enabled, CommandOutcome tries to send a chat message with the command instead. Turning this on disables that.
+Play a sound either client-side or server-side.
+Is the sound to be played on the client?
+The sound name, in resource location format. EG minecraft:entity.pig.ambient
+The target selector for the sound. Only for non-client side sounds.
+Volume of the sound
+Pitch of the sound
+Attempt to trigger even more events. Use this to trigger delayed events, such as when Requesting Statistics or awaiting Command Feedback. Be mindful that the event's conditions are checked before triggering, so any functional conditions need to be done in a ConditionalOutcome instead, if the event has a delay.

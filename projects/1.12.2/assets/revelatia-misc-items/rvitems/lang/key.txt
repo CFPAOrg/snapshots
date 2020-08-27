@@ -1,0 +1,9 @@
+item.naturestar.name
+item.progressicon.name
+item.radiantjewel.name
+item.ghastlystar.name
+item.icestar.name
+item.sorcererstar.name
+item.goldprogressicon.name
+item.darkirondust.name
+item.firestar.name

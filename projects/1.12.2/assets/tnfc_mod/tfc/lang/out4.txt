@@ -1,0 +1,94 @@
+Aluminum Brass Greaves
+Aluminum Brass Boots
+Aluminum Brass Helmet
+Unfinished Aluminum Brass Chestplate
+Unfinished Aluminum Brass Boots
+Unfinished Aluminum Brass Helmet
+Unfinished Aluminum Brass Greaves
+Aluminum Brass Anvil
+Red Alloy Ingot
+Red Alloy Double Ingot
+Red Alloy Scrap
+Red Alloy Dust
+Red Alloy Nugget
+Red Alloy Sheet
+Red Alloy Double Sheet
+Red Alloy Tuyere
+Red Alloy Pickaxe
+Red Alloy Pickaxe Head
+Red Alloy Shovel
+Red Alloy Shovel Head
+Red Alloy Axe
+Red Alloy Axe Head
+Red Alloy Hoe
+Red Alloy Hoe Head
+Red Alloy Chisel
+Red Alloy Chisel Head
+Red Alloy Sword
+Red Alloy Sword Blade
+Red Alloy Mace
+Red Alloy Mace Head
+Red Alloy Saw
+Red Alloy Saw Blade
+Red Alloy Shears
+Red Alloy Shield
+Red Alloy Javelin
+Red Alloy Javelin Head
+Red Alloy Hammer
+Red Alloy Hammer Head
+Red Alloy Prospector's Pickaxe
+Red Alloy Prospector's Pickaxe Head
+Red Alloy Knife
+Red Alloy Knife Blade
+Red Alloy Scythe
+Red Alloy Scythe Blade
+Red Alloy Lamp
+%s Red Alloy Lamp
+Unshaped Red Alloy
+Red Alloy Chestplate
+Red Alloy Greaves
+Red Alloy Boots
+Red Alloy Helmet
+Unfinished Red Alloy Chestplate
+Unfinished Red Alloy Boots
+Unfinished Red Alloy Helmet
+Unfinished Red Alloy Greaves
+Red Alloy Anvil
+Antimony Ingot
+Antimony Double Ingot
+Antimony Scrap
+Antimony Dust
+Antimony Nugget
+Antimony Sheet
+Antimony Double Sheet
+Antimony Tuyere
+Antimony Pickaxe
+Antimony Pickaxe Head
+Antimony Shovel
+Antimony Shovel Head
+Antimony Axe
+Antimony Axe Head
+Antimony Hoe
+Antimony Hoe Head
+Antimony Chisel
+Antimony Chisel Head
+Antimony Sword
+Antimony Sword Blade
+Antimony Mace
+Antimony Mace Head
+Antimony Saw
+Antimony Saw Blade
+Antimony Shears
+Antimony Shield
+Antimony Javelin
+Antimony Javelin Head
+Antimony Hammer
+Antimony Hammer Head
+Antimony Prospector's Pickaxe
+Antimony Prospector's Pickaxe Head
+Antimony Knife
+Antimony Knife Blade
+Antimony Scythe
+Antimony Scythe Blade
+Antimony Lamp
+%s Antimony Lamp

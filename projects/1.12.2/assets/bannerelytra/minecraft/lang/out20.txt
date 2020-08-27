@@ -1,0 +1,47 @@
+The dataTag does not match for %s
+Could not parse dataTag, reason: %s
+/scoreboard players set <player> <objective> <score> [dataTag]
+/scoreboard players add <player> <objective> <count> [dataTag]
+/scoreboard players remove <player> <objective> <count> [dataTag]
+/scoreboard players reset <player> [objective]
+Reset scores of player %s
+Reset score %s of player %s
+/scoreboard players list [name]
+Showing %s tracked players on the scoreboard:
+There are no tracked players on the scoreboard
+Showing %s tracked objective(s) for %s:
+- %2$s: %1$s (%3$s)
+Player %s has no scores recorded
+/scoreboard players enable <player> <trigger>
+Enabled trigger %s for %s
+Objective %s is not a trigger
+/scoreboard players test <player> <objective> <min> [max]
+No %s score for %s found
+Score %s is NOT in range %s to %s
+Score %s is in range %s to %s
+/scoreboard players operation <targetName> <targetObjective> <operation> <selector> <objective>
+No %s score for %s found
+Invalid operation %s
+Operation applied successfully
+/scoreboard players tag <player> <add|remove|list> <tagName> [dataTag]
+The dataTag does not match for %s
+Can't add more than %s tags to an entity
+Entity didn't have the %s tag
+Tag %s added
+Tag %s removed
+Tags on entity %s are:
+Players tag command failed, reason: %s
+/scoreboard teams <list|add|remove|empty|join|leave|option> ...
+/scoreboard teams add <name> [display name ...]
+A team with the name '%s' already exists
+The name '%s' is too long for a team, it can be at most %s characters long
+The display name '%s' is too long for a team, it can be at most %s characters long
+Added new team '%s' successfully
+/scoreboard teams list [name]
+Showing %s teams on the scoreboard:
+- %1$s: '%2$s' has %3$s players
+There are no teams registered on the scoreboard
+Showing %s player(s) in team %s:
+- %2$s: %1$s (%3$s)
+Team %s has no players
+/scoreboard teams empty <team>

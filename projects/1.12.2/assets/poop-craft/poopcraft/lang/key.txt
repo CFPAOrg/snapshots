@@ -1,0 +1,15 @@
+item.poopcraft.poop_human.name
+item.poopcraft.poop_chicken.name
+item.poopcraft.poop_zombie.name
+item.poopcraft.poop_soggy.name
+item.poopcraft.poop_default.name
+item.poopcraft.compost.name
+item.poopcraft.compost_bonemeal.name
+tile.poopcraft.toilet.name
+tile.poopcraft.composter.name
+tile.poopcraft.turbine.name
+fluid.poopcraft.fluid_methane
+tooltip.poopcraft.methane
+tooltip.poopcraft.compost
+tooltip.poopcraft.time
+itemGroup.poopcraft

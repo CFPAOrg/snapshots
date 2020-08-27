@@ -1,0 +1,97 @@
+Fluid Regulator (MV)
+Fluid Regulator (HV)
+Fluid Regulator (EV)
+Fluid Regulator (IV)
+Fluid Regulator (LuV)
+Fluid Regulator (UV)
+Conveyor Module (LV)
+8 Items / Second
+Conveyor Module (MV)
+32 Items / Second
+Conveyor Module (HV)
+1 Stack / Second
+Conveyor Module (EV)
+3 Stacks / Second
+Conveyor Module (IV)
+8 Stacks / Second
+Conveyor Module (LuV)
+16 Stacks / Second
+Conveyor Module (ZPM)
+16 Stacks / Second
+Conveyor Module (UV)
+16 Stacks / Second
+Electric Piston (LV)
+Electric Piston (MV)
+Electric Piston (HV)
+Electric Piston (EV)
+Electric Piston (IV)
+Electric Piston (LuV)
+Electric Piston (ZPM)
+Electric Piston (UV)
+Robot Arm (LV)
+Inserts at specified rates
+Robot Arm (MV)
+Inserts at specified rates
+Robot Arm (HV)
+Inserts at specified rates
+Robot Arm (EV)
+Inserts at specified rates
+Robot Arm (IV)
+Inserts at specified rates
+Robot Arm (LuV)
+Inserts at specified rates
+Robot Arm (ZPM)
+Inserts at specified rates
+Robot Arm (UV)
+Inserts at specified rates
+Field Generator (LV)
+Field Generator (MV)
+Field Generator (HV)
+Field Generator (EV)
+Field Generator (IV)
+Field Generator (LuV)
+Field Generator (ZPM)
+Field Generator (UV)
+Emitter (LV)
+Emitter (MV)
+Emitter (HV)
+Emitter (EV)
+Emitter (IV)
+Emitter (LuV)
+Emitter (ZPM)
+Emitter (UV)
+Sensor (LV)
+Sensor (MV)
+Sensor (HV)
+Sensor (EV)
+Sensor (IV)
+Sensor (LuV)
+Sensor (ZPM)
+Sensor (UV)
+Basic LV Circuit
+Intermediate MV Circuit
+Advanced HV Circuit
+Elite EV Circuit
+Master IV Circuit
+Expert LuV Circuit
+Ultimate UV Circuit
+Magical Circuit
+Data Stick
+A Low Capacity Data Storage
+Data Orb
+A High Capacity Data Storage
+Diamond Sawblade
+Diamond Grinding Head
+Tungsten Grinding Head
+Quantum Eye
+Improved Ender Eye
+Quantum Star
+Improved Nether Star
+Gravi Star
+Ultimate Nether Star
+Muffler Upgrade
+Makes Machines silent
+Lock Upgrade
+Protects your Machines
+Item Filter
+Filters item extract and insert as a cover/nCan be used as a Conveyor upgrade

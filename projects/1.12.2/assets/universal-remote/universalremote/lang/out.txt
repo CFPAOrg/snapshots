@@ -1,0 +1,18 @@
+Universal Remote
+Unbound
+Universal Remote is not bound to a block!
+Universal Remote's bound block is not loaded!
+<Hold shift to see instructions>
+Shift right-click on a block to bind to it
+Right-click in the air to activate bound block
+Universal Remote
+Universal Remote does not have enough power!
+Universal Remote bound to block.
+Bound block has been replaced and needs to be rebound.
+%s/%s Energy
+The bound block is in another dimension.
+Version %s is now available
+Download
+Click to download
+Universal Remote Configuration
+The target block is blacklisted.

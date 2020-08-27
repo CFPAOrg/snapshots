@@ -1,0 +1,26 @@
+Touch Reveals
+FILLSCREEN FIXNEWLINES If true, entities that bump into each other both have invisibility removed from them\n \n
+Unfeeling
+FILLSCREEN FIXNEWLINES Entities in this list don't notice when something bumps them\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Stealth Multipliers
+FILLSCREEN FIXNEWLINES Contains multipliers that increase stealth / decrease awareness\n\nWhichever of these multipliers is currently giving the best (lowest) multiplier is used\n \n
+Visibility Multipliers
+FILLSCREEN FIXNEWLINES Contains multipliers that decrease stealth / increase awareness\n\nWhichever of these multipliers is currently giving the worst (highest) multiplier is used\n \n
+Lighting
+FILLSCREEN How much of an effect lighting has on stealth.  Nightvision is in here as well
+Angle
+FILLSCREEN FOV angles
+Distance
+FILLSCREEN FOV distances
+Absolute Cases
+FILLSCREEN Special cases, eg. glowing
+Entity-Specific Settings (Advanced)
+Crouching Multiplier
+FILLSCREEN FIXNEWLINES Multiplies an entity's visibility by this decimal when crouching\n\nIf set to 1, there is no effect\n\nIf set to 0, crouching entities are invisible (except in special cases)\n \n
+Mob Head Multiplier
+FILLSCREEN FIXNEWLINES When an entity (including a player) is wearing a mob head, mobs of that type have reduced chance to realize they're a target\n\nIf set to 1, there is no effect\n\nIf set to 0, mobs of the mob head type cannot notice entities wearing their heads\n \n
+Invisibility Multiplier
+FILLSCREEN FIXNEWLINES Invisible entities' visibility is multiplied by this\n\nIf set to 1, there is no effect\n\nIf set to 0, invisible entities are, uh...invisible\n \n
+Blindness Multiplier
+FILLSCREEN FIXNEWLINES Blinded entities' detection range is multiplied by this\n\nIf set to 1, there is no effect\n\nIf set to 0, blind entities can't see\n \n
+Armor Multiplier (Cumulative)

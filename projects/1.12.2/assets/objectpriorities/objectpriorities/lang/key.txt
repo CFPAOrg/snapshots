@@ -1,0 +1,14 @@
+op.command.main.usage
+op.command.remove.invaliditem
+op.command.remove.invalidmeta
+op.command.remove.success
+op.command.remove.usage
+op.command.reload.started
+op.command.reload.success
+op.command.reload.notice
+op.command.reload.usage
+op.command.set.usage
+op.command.set.invalidpriority
+op.command.set.invalidmeta
+op.command.set.success
+op.priority.priority_tooltip_prefix

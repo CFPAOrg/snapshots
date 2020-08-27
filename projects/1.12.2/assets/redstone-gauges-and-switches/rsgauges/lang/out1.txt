@@ -1,0 +1,38 @@
+Can be activated with projectiles.
+Left-click with any dye to color tint the switch.
+Click with an Ender pearl to get a Switch Link Pearl linked to this switch.
+Click with a Switch Link Pearl to use this switch as link source.
+Left-click with a stack of redstone to set the hold-time between 0.1s (1) and 6.4s (64).
+Click on the touch config up/down buttons to set output power, entity filter, entity count, and sensitivity.
+Rotary Machine Switch
+Industrial Contact Lever
+Two-Button Machine Switch
+Small Light Switch
+ESTOP Button
+Hopper Blocker
+Industrial Rotary Lever
+Industrial Lever
+Old Fancy Lever
+Old Fancy Rotary Lever
+Bistable Switch
+Bistable Switch
+Bistable Switch
+Bistable Switch
+Bistable Switch
+Rustic Lever
+Rustic Two-Hinge Lever
+Rustic Rotary Lever
+Bistable Switch
+Bistable Switch
+Bistable Switch
+Rustic Nail Lever
+Bistable Glass Switch
+Bistable Glass Touch Switch
+Valve Switch
+Elevator Button
+§6A switch that is manually flipped on or off like a lever.\n§r
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} Can be shot off with a projectile.

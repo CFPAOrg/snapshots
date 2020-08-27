@@ -1,0 +1,9 @@
+item.manualgenerators.itemManualgenerator.name
+item.manualgenerators.itemIronRod.name
+item.manualgenerators.itemHandle.name
+item.manualgenerators.itemGenerator.name
+itemGroup.manualgenerators
+manualgenerators.notification.energy
+manualgenerators.notification.wrong
+manualgenerators.notification.hungry
+manualgenerators.notification.tooFar

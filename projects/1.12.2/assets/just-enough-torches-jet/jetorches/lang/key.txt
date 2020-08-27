@@ -1,0 +1,14 @@
+tab.jetorches.name
+tile.jetorches.torch_stone.name
+tile.jetorches.torch_nether.name
+tile.jetorches.torch_prismarine.name
+tile.jetorches.torch_obsidian.name
+tile.jetorches.torch_golden.name
+tile.jetorches.lamp_lapis.name
+tile.jetorches.lamp_obsidian.name
+tile.jetorches.lamp_quartz.name
+item.jetorches.stick_stone.name
+item.jetorches.stick_nether.name
+item.jetorches.stick_prismarine.name
+item.jetorches.stick_obsidian.name
+item.jetorches.stick_golden.name

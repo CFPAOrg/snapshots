@@ -1,0 +1,61 @@
+Human Effigy
+Cow Blood Drop
+Cow Blood Vial
+Grim Shears
+Human Soul Piece
+Long Bow
+§4Crystallized Fire§r
+§7Crystallized Grief§r
+§aCrystallized Memory§r
+§eCrystallized Oath§r
+§9Crystallized Woe§r
+TMG's Drill
+Tome of Knowledge
+Archeron Sword
+Crystallized Ender
+Teleportation Wand
+Archeron Ingot
+Levitation Wand
+Ethereal Fiber
+Revitalizing Rye
+Crystallized Glove
+Mule's Kick
+Talisman of Evasion
+Amulet of Reaching
+Amulet of Reaching (Creative)
+Health Charm
+Multiblock Validator
+Enchanted Stick
+Mythos Arrow
+Shulker Helmet
+Lightning in a Bottle
+Staff of Lightning
+Unrealized Mythos Pool
+Mythos Exciter
+Mythos Shatterer
+Mythos Flight Wand
+CTD Mythos
+A mod of magical items!
+Three times stronger than a normal bow.
+Takes 200 ticks per item for crafts to complete. Time will reset for each item change, and will scale up. IE: 32 Items will take 6,400 ticks to be crafted with.
+Place in any Bauble slot to stop the negatives effects from Crystallized gems.
+Right Click Grim Shears on a horse for a 2% chance of dropping.
+15% dodge chance when in your inventory.
+Shift + Right Click Crystallized item on Clay Bricks to get Crystallized Bricks. Each brick has a biome requirement or the ritual won't work.
+Dropped when killing cows. 100% for 1, 50% for 2, 25% for 3.
+Right click with ender pearl in off-hand to teleport to world spawn.
+20% chance to be dropped when you hit another player or a Villager with Grim shears.
+With a damaged item in your off-hand, right click Crystallized Memory to fully repair the item in your off-hand slot.
+§4Crystallized Fire Ore§r
+§7Crystallized Grief Ore§r
+§aCrystallized Memory Ore§r
+§eCrystallized Oath Ore§r
+§9Crystallized Woe Ore§r
+§4Crystallized Fire Bricks§r
+§4Crystallized Fire Stairs§r
+§eCrystallized Oath Bricks§r
+§eCrystallized Oath Stairs§r
+§9Crystallized Woe Bricks§r
+§9Crystallized Woe Stairs§r
+§aCrystallized Memory Stairs§r
+§aCrystallized Memory Block§r

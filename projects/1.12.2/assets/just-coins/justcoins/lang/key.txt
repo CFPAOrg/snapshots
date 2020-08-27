@@ -1,0 +1,6 @@
+item.copper_coin.name
+item.silver_coin.name
+item.gold_coin.name
+item.coin_sack.name
+commands.coin.success
+commands.coin.usage

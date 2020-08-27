@@ -1,0 +1,84 @@
+Andesite Stairs
+Polished Andesite Stairs
+Bedrock Stairs
+Bone Stairs
+Bookshelf Stairs
+Clay Stairs
+Coal Stairs
+Coal Ore Stairs
+Mossy Cobblestone Stairs
+Black Concrete Stairs
+Blue Concrete Stairs
+Brown Concrete Stairs
+Cyan Concrete Stairs
+Gray Concrete Stairs
+Green Concrete Stairs
+Light Blue Concrete Stairs
+Lime Concrete Stairs
+Magenta Concrete Stairs
+Orange Concrete Stairs
+Pink Concrete Stairs
+Black Concrete Powder Stairs
+Blue Concrete Powder Stairs
+Brown Concrete Powder Stairs
+Cyan Concrete Powder Stairs
+Gray Concrete Powder Stairs
+Green Concrete Powder Stairs
+Light Blue Concrete Powder Stairs
+Lime Concrete Powder Stairs
+Magenta Concrete Powder Stairs
+Orange Concrete Powder Stairs
+Pink Concrete Powder Stairs
+Purple Concrete Powder Stairs
+Red Concrete Powder Stairs
+Light Gray Concrete Powder Stairs
+White Concrete Powder Stairs
+Yellow Concrete Powder Stairs
+Purple Concrete Stairs
+Red Concrete Stairs
+Light Gray Concrete Stairs
+White Concrete Stairs
+Yellow Concrete Stairs
+Crafting Table Stairs
+Dark Prismarine Stairs
+Diamond Stairs
+Diamond Ore Stairs
+Diorite Stairs
+Polished Diorite Stairs
+Dirt Stairs
+Coarse Dirt Stairs
+Emerald Stairs
+Emerald Ore Stairs
+End Stone Brick Stairs
+End Stone Stairs
+Glass Stairs
+Black Stained Glass Stairs
+Blue Stained Glass Stairs
+Brown Stained Glass Stairs
+Cyan Stained Glass Stairs
+Gray Stained Glass Stairs
+Green Stained Glass Stairs
+Light Blue Stained Glass Stairs
+Lime Stained Glass Stairs
+Magenta Stained Glass Stairs
+Orange Stained Glass Stairs
+Pink Stained Glass Stairs
+Purple Stained Glass Stairs
+Red Stained Glass Stairs
+Light Gray Stained Glass Stairs
+White Stained Glass Stairs
+Yellow Stained Glass Stairs
+Glowstone Stairs
+Gold Stairs
+Gold Ore Stairs
+Granite Stairs
+Polished Granite Stairs
+Grass Stairs
+Gravel Stairs
+Hay Bale Stairs
+Ice Stairs
+Packed Ice Stairs
+Iron Stairs
+Iron Ore Stairs
+Jukebox Stairs
+Lapis Lazuli Stairs

@@ -1,0 +1,10 @@
+item.structureorb.name
+item.minafalsa.name
+item.lumberjacke.name
+itemGroup.tabstructureorbmod
+item.villageorb.name
+item.fort.name
+item.houseorb.name
+item.stonehouse.name
+item.towee.name
+item.wall.name

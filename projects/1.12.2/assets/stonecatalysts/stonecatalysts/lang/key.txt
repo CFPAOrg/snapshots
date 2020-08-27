@@ -1,0 +1,6 @@
+jei.stonecatalysts:category_stone_gen
+jei.stonecatalysts:category_cobblestone_gen
+jei.stonecatalysts:tooltip_flowing_lava
+jei.stonecatalysts:tooltip_stone_catalyst
+jei.stonecatalysts:tooltip_cobblestone_catalyst
+jei.stonecatalysts:information_tab_desc

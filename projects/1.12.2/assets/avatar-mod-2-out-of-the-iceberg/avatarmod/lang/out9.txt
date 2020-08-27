@@ -1,0 +1,44 @@
+§6§lStrong §6§lgusts ;; Sandstorm moves much faster and isn't disrupted by airbending
+§6§lHarsh §6§lgrains ;; Whirling sand grains cause continuous minor damage to targets
+§8§lExplosion
+Sparky-Sparky-Boom-Boom-Man!!! ;; Blow up pesky enemies with explosions! Be careful, though, as you can damage yourself!
+Stop.Farting.Then.Lighting.Matches! ;; Create an explosion at the BLOCK where you're looking; maximum range of 20 blocks. It can send enemies sky-high!
+Slightly bigger explosion! More satisfying when blowing up people!
+A maximum range of 30 blocks! Bigger explosion!
+§8§l§oSniper §8§l§oRifle ;; Ridiculous explosion range, a small explosion.
+§8§l§oBOOOOOOOOOOOOOOOOOOM ;; HUGE explosion where you're looking, does ridiculous damage on a direct hit. Only a 30 block range, though.
+§8§lExplosive Pillar
+Create a line of explosions that appear one after the other in the direction you're looking.
+BOOM-BOOM-BOOM-BOOM BOOOOOOOOOM!
+Explosions are bigger, occur more frequently, and travel further.
+SUPER-POWERED EXPLOSIONS BABY! Same as above :)
+§8§l§oEXPLOSION §8§l§oMACHINE §8§lGUN ;; Creates 3 explosive pillars that have small explosions and don't travel too far, but occur rapid-fire and are fun to use.
+§8§l§oBOOOOOM ;; Ridiculously big explosion that travels far, but doesn't occur frequently. Devastating.
+???
+Level I
+Level II
+Level III
+-MAX-
+First Path
+Second Path
+Ability Locked
+Coming soon!
+Ability Locked
+Press ${level} to unlock
+Locked but on creative mode
+Unlock Bending
+You can only use scrolls of the same or universal type
+Insert 3 scrolls of the same or universal type to unlock Bending
+No key
+Click to edit
+%1$s
+Click to edit
+type any key
+ESC to unbind
+%1$s
+Conflict w/ %1$s
+%1$s was incinerated by %2$s's §c§lfirebending!
+%1$s just got §c§lROASTED by %2$s !
+%1$s was §c§lFIRED by %2$s !
+%2$s §c§lincinerated %1$s with a §c§lfireball!
+%2$s was §c§lcremated away by %1$s's shockwave!

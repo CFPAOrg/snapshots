@@ -1,0 +1,16 @@
+Distance (Near)
+FILLSCREEN FIXNEWLINES The distance before an entity's sight starts degrading naturally (even in good conditions),  in blocks\n\nExclusive, so if set to 0 mobs NEVER see anything, with a few exceptions, eg...\n\n...zombies will still attack villagers as normal; this uses completely different logic than what I'm accessing atm so I'm not trying to change it for now\n\n...some mobs are not affected at all, for the same reason as stated above, including endermen and the ender dragon\n \n
+See Glowing
+FILLSCREEN FIXNEWLINES If set to true, glowing entities will be seen when inside another entity's FOV, ignoring all other factors\n\nAllows entities to see invisible players who are glowing, but does not remove invisibility; if glowing runs out before invisibility, you're hard to see again\n \n
+See Burning
+FILLSCREEN FIXNEWLINES If set to true, burning entities are always considered to be standing in full light\n \n
+Angle
+FILLSCREEN FIXNEWLINES How wide an entity's vision is, near and far away\n\nentityID, angleLarge, angleSmall\n\neg...\n\nminecraft:skeleton, 90, 45\n \n
+Distance
+FILLSCREEN FIXNEWLINES How far an entity can see, at the edge of its vision and at its focal point\n\nentityID, distanceFar, distanceNear\n\neg...\n\nminecraft:skeleton, 40, 3\n \n
+Lighting
+FILLSCREEN FIXNEWLINES How well an entity sees in the dark\n\nentityID, lightLevelHigh, lightMultHigh, lightLevelLow, lightMultLow\n\neg...\n\nminecraft:skeleton, 15, 1, 0, 0\n \n
+Naturally Bright
+FILLSCREEN FIXNEWLINES Entities in this list are always treated as if they are standing in max light level\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Natural Nightvision
+FILLSCREEN FIXNEWLINES Entities in this list ALWAYS get the nightvision bonus\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n

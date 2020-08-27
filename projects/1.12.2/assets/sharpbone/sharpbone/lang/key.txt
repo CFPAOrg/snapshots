@@ -1,0 +1,2 @@
+itemGroup.sharpbone
+item.sharp_bone.name

@@ -1,0 +1,15 @@
+Mob spawning, daylight cycle and weather disabled!
+Teleport to new coordinates, saving last position on a stack
+Teleported to %d,%d,%d - saved last position on stack
+Teleporting requires three coordinates: x, y, z
+Return to last position on stack
+Returned to %d,%d,%d; %d positions on stack
+No positions on stack
+Add caller's chunk to watch list for loading/unloading events
+Chunk %d,%d added to watch list
+Remove caller's chunk from watch list for chunk loading/unloading events
+Chunk %d,%d removed from watch list
+Remove all chunks from watch list for chunk loading/unloading events
+%d chunks removed from watch list
+%d chunks unloaded
+Multiblock Formed

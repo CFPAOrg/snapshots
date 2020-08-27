@@ -1,0 +1,8 @@
+Book of Absorption
+Your absorption:
+When used:
+Max Absorption
+Cost: %d levels
+Right click to use
+You can't use this
+Absorption

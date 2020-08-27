@@ -1,0 +1,2 @@
+key.categories.pmmo
+key.pmmo.showgui

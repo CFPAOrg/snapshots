@@ -1,0 +1,134 @@
+Steak Sandwich
+Cabbage
+Cabbage Crop
+Carrot Stick
+Chicken Nugget
+Chicken Sandwich
+ Chicken & Pork Sandwich
+Steamed Carrot
+Steamed Carrot Stick
+Cooked Rabbit Leg
+Corn
+Corn Crop
+Eggs
+Lemon
+Lemon Bush
+Lemon Crop
+Melon Slice
+Mixed Fruit Bowl
+Mixed Seeds
+Mixed Bush
+Orange
+Orange Bush
+Orange Crop
+Pork Sandwich
+Baked Potato Wedge
+Raw Rabbit Leg
+Raw Bacon
+Raw Beef Slice
+Raw Corn
+Potato Wedge
+Roasted Apple
+Roasted Beetroot Seeds
+Roasted Melon Seeds
+Roasted Mushroom
+Roasted Pumpkin Seeds
+Roasted Red Mushroom
+Roasted Seeds
+Strawberry
+Strawberry Crop
+Sugar Coated Apple
+Sugar Coated Lemon
+Sugar Coated Melon
+Sugar Coated Orange
+Sugar Coated Strawberry
+Toast
+Toasted Bacon & Egg Sandwich
+Tomato
+Tomato Crop
+Amazonite
+Amethyst
+Lignite
+Peridot
+Ruby
+Sapphire
+Hardened Topaz
+Topaz
+Amazonite Hoe
+Amethyst Hoe
+Emerald Hoe
+Peridot Hoe
+Ruby Hoe
+Sapphire Hoe
+Topaz Hoe
+Withered Hoe
+Blacksmith Repair Kit
+Blender
+Corn Seed
+Hammer
+Hot Water
+Knife
+Pop's Sign
+Strawberry Seed
+Staff of Time
+Topaz Handle
+VMP Upgrade
+Amazonite Ore
+Amethyst Ore
+Lignite Ore
+Peridot Ore
+Ruby Ore
+Sapphire Ore
+Topaz Ore
+Nether Coal Ore
+Nether Diamond Ore
+Nether Emerald Ore
+Nether Gold Ore
+Nether Iron Ore
+Nether Lapis Ore
+Nether Redstone Ore
+Amazonite Paxel
+Amethyst Paxel
+Diamond Paxel
+Emerald Paxel
+Gold Paxel
+Iron Paxel
+Stone Paxel
+Peridot Paxel
+Ruby Paxel
+Sapphire Paxel
+Topaz Paxel
+Withered Paxel
+Wooden Paxel
+Amazonite Picakxe
+Amethyst Pickaxe
+Emerald Pickaxe
+Peridot Pickaxe
+Ruby Pickaxe
+Sapphire Pickaxe
+Topaz Pickaxe
+Withered Pickaxe
+Mass Mining Pick
+Diamond Apple
+Emerald Apple
+Enchanted Diamond Apple
+Enchanted Emerald Apple
+Enchanted Iron Apple
+Holy Bread
+Iron Apple
+Amazonite Shovel
+Amethyst Shovel
+Emerald Shovel
+Peridot Shovel
+Ruby Shovel
+Sapphire Shovel
+Topaz Shovel
+Withered Shovel
+Amazonite Sword
+Amethyst Sword
+Emerald Sword
+Peridot Sword
+Ruby Sword
+Sapphire Sword
+Topaz Sword
+Withered Sword

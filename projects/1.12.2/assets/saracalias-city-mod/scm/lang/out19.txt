@@ -1,0 +1,108 @@
+1994 Opal Lesley 18-Wheeler
+1994 Opal Lesley 18-Wheeler
+1994 Opal Lesley 18-Wheeler
+Roadside Stone Block
+Roadside Grass Block
+Roadside Dirt Block
+Roadside Grass Block
+Roadside Dirt Block
+Roadside Stone Block
+Roadside Grass Block
+Roadside Dirt Block
+Roadside Grass Block
+Roadside Dirt Block
+Roadside Grass Block (Dark Road)
+Roadside Dirt Block (Dark Road)
+Roadside Stone Block (Dark Road)
+Roadside Grass Block (Dark Road)
+Roadside Dirt Block (Dark Road)
+Roadside Stone Block (Dark Road)
+Dark Road Block
+Single White Line
+Single White Line
+Single White Line
+Single White Line
+Double White Line
+Double White Line
+Double White Line
+Double White Line
+Broken Double White Line
+Single Yellow Line
+Single Yellow Line
+Single Yellow Line
+Single Yellow Line
+Double Yellow Line
+Double Yellow Line
+Double Yellow Line
+Double Yellow Line
+Broken Double Yellow Line
+Thick White Line
+Broken White Line
+Broken Yellow Line
+Broken Thick White Line
+Pedestrian Crossing
+Road Arrow
+Road Arrow
+Road Arrow
+Road Arrow
+Road Arrow
+Road Arrow
+Stop
+Stop
+Stop
+Only
+Only
+Only
+Keep
+Keep
+Keep
+Clear
+Clear
+Clear
+Bus
+Bus
+Bus
+Lane
+Lane
+Lane
+Entry
+Entry
+Entry
+Exit
+Exit
+Exit
+Speed Bump
+Road Reflector Block
+Dark Road
+Single White Line
+Double White Line
+Broken Double White Line
+Single Yellow Line
+Double Yellow Line
+Broken Double Yellow Line
+Roadside Grass Block (Light Road)
+Roadside Dirt Block (Light Road)
+Roadside Stone Block (Light Road)
+Roadside Grass Block (Light Road)
+Roadside Dirt Block (Light Road)
+Roadside Stone Block (Light Road)
+Light Road Block
+Single White Line
+Single White Line
+Single White Line
+Single White Line
+Double White Line
+Double White Line
+Double White Line
+Single Yellow Line
+Single Yellow Line
+Single Yellow Line
+Double Yellow Line
+Double Yellow Line
+Double Yellow Line
+Double White Line
+Broken Double White Line
+Single Yellow Line
+Double Yellow Line
+Broken Double Yellow Line
+Broken White Line

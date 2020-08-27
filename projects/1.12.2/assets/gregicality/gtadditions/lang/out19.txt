@@ -1,0 +1,90 @@
+Forge Energy Converter (ZPM)
+Forge Energy Converter (ZPM)
+Forge Energy Converter (UV)
+Forge Energy Converter (UV)
+Forge Energy Converter (UV)
+Forge Energy Converter (UV)
+Forge Energy Converter (MAX)
+Forge Energy Converter (MAX)
+Forge Energy Converter (MAX)
+Forge Energy Converter (MAX)
+FE
+GTEU
+FE
+EU
+Maximum %s OUT: §e%d FE§7/tick
+Maximum %s IN: §e%d FE§7/tick
+Converts %s to %s
+Converts EU to FE
+Converts FE to EU
+§cDisabled
+%s Ore Chunk
+%s Ore Chunk
+%s Ore Chunk
+Fine %s Ore Chunk
+Dense %s Ore
+Rich %s Ore
+Rich Granite %s Ore
+Rich Granite %s Ore
+Rich Marble %s Ore
+Rich Basalt %s Ore
+Rich Sand %s Ore
+Rich Gravel %s Ore
+Rich Nether %s Ore
+Rich End %s Ore
+Poor %s Ore
+Poor Granite %s Ore
+Poor Granite %s Ore
+Poor Marble %s Ore
+Poor Basalt %s Ore
+Poor Sand %s Ore
+Poor Gravel %s Ore
+Poor Nether %s Ore
+Poor End %s Ore
+Pure %s Ore
+Pure Granite %s Ore
+Pure Granite %s Ore
+Pure Marble %s Ore
+Pure Basalt %s Ore
+Pure Sand %s Ore
+Pure Gravel %s Ore
+Pure Nether %s Ore
+Pure End %s Ore
+%s Seed
+%s Essence
+%s crop
+Basic Electric Sieve
+Advanced Electric Sieve
+Advanced Electric Sieve II
+Advanced Electric Sieve III
+Advanced Electric Sieve IV
+Advanced Electric Sieve V
+Advanced Electric Sieve VI
+Advanced Electric Sieve VII
+Basic Electric Rock Breaker
+Advanced Electric Rock Breaker
+Advanced Electric Rock Breaker II
+Advanced Electric Rock Breaker III
+Advanced Electric Rock Breaker IV
+Advanced Electric Rock Breaker V
+Advanced Electric Rock Breaker VI
+Advanced Electric Rock Breaker VII
+Basic Bee Attractor
+Advanced Bee Attractor
+Advanced Bee Attractor II
+Advanced Bee Attractor III
+Advanced Bee Attractor IV
+Advanced Bee Attractor V
+Advanced Bee Attractor VI
+Advanced Bee Attractor VII
+Steam Pump
+Steam Sieve
+Steam Mixer
+Steam Rock Breaker
+Sandy %s Ore Chunk
+Basalt Pebble
+Black Granite Pebble
+Marble Pebble
+Red Granite Pebble
+Low Voltage Transformer 4 Amps
+Low Voltage Transformer 8 Amps

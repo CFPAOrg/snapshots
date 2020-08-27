@@ -1,0 +1,73 @@
+Black Gem
+Blue Gem
+Brown Gem
+Green Gem
+Orange Gem
+Purple Gem
+Red Gem
+Yellow Gem
+Dark Steel Ingot
+Ocean Ingot
+Rust Shard
+Barbarian Sword
+Blaze Sword
+Blessed Sword
+Bone Sword
+Celestial Axe
+Celestial Axe
+Celestial Axe
+Celestial Axe
+Celestial Axe
+Celestial Axe
+Celestial Axe
+Celestial Axe
+Cognac Sword
+Crimson Sword
+Dark Steel Sword
+Emerald Sword
+Iron Greatsword
+Neon Sword
+Ocean Sword
+Rusty Sword
+Sky Sword
+Tyrian Sword
+Worn Out Sword
+Tiger Sword
+Blessed Blade
+Blessed Hilt
+Celestial Hilt
+Celestial Axe Piece
+Cognac Hilt
+Cognac Blade
+Crimson Blade
+Crimson Hilt
+Iron Greatsword Blade
+Iron Greatsword Hilt
+Left Greatsword Piece
+Right Greatsword Piece
+Neon Blade
+Neon Hilt
+Ocean Hilt
+Ocean Blade
+Tiger Blade
+Tiger Hilt
+Tyrian Blade
+Dark Steel Pickaxe
+Dark Steel Axe
+Dark Steel Hoe
+Dark Steel Shovel
+Ocean Pickaxe
+Ocean Axe
+Ocean Hoe
+Ocean Shovel
+Dark Steel Ore
+Rusty Ore
+Black Gem Ore
+Blue Gem Ore
+Brown Gem Ore
+Green Gem Ore
+Orange Gem Ore
+Purple Gem Ore
+Red Gem Ore
+Yellow Gem Ore
+Kowloon's Swords

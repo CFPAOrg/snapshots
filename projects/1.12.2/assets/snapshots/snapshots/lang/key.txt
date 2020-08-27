@@ -1,0 +1,10 @@
+item.crystallizedhoney.name
+tile.honeycombblock.name
+tile.fullbeehive.name
+tile.beenest.name
+item.honeycomb.name
+tile.honeyblock.name
+tile.waxblock.name
+tile.beehive.name
+item.honeycombbottle.name
+tile.fullbeenest.name

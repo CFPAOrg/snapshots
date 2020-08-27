@@ -1,0 +1,118 @@
+Schist Kimberlite
+Schist Petrified Wood
+Schist Sulfur
+Schist Jet
+Schist Microcline
+Schist Pitchblende
+Schist Cinnabar
+Schist Cryolite
+Schist Saltpeter
+Schist Serpentine
+Schist Sylvite
+Schist Borax
+Schist Olivine
+Schist Lapis Lazuli
+Gneiss Native Copper
+Gneiss Native Gold
+Gneiss Native Platinum
+Gneiss Hematite
+Gneiss Native Silver
+Gneiss Cassiterite
+Gneiss Galena
+Gneiss Bismuthinite
+Gneiss Garnierite
+Gneiss Malachite
+Gneiss Magnetite
+Gneiss Limonite
+Gneiss Sphalerite
+Gneiss Tetrahedrite
+Gneiss Bituminous Coal
+Gneiss Lignite
+Gneiss Kaolinite
+Gneiss Gypsum
+Gneiss Satinspar
+Gneiss Selenite
+Gneiss Graphite
+Gneiss Kimberlite
+Gneiss Petrified Wood
+Gneiss Sulfur
+Gneiss Jet
+Gneiss Microcline
+Gneiss Pitchblende
+Gneiss Cinnabar
+Gneiss Cryolite
+Gneiss Saltpeter
+Gneiss Serpentine
+Gneiss Sylvite
+Gneiss Borax
+Gneiss Olivine
+Gneiss Lapis Lazuli
+Marble Native Copper
+Marble Native Gold
+Marble Native Platinum
+Marble Hematite
+Marble Native Silver
+Marble Cassiterite
+Marble Galena
+Marble Bismuthinite
+Marble Garnierite
+Marble Malachite
+Marble Magnetite
+Marble Limonite
+Marble Sphalerite
+Marble Tetrahedrite
+Marble Bituminous Coal
+Marble Lignite
+Marble Kaolinite
+Marble Gypsum
+Marble Satinspar
+Marble Selenite
+Marble Graphite
+Marble Kimberlite
+Marble Petrified Wood
+Marble Sulfur
+Marble Jet
+Marble Microcline
+Marble Pitchblende
+Marble Cinnabar
+Marble Cryolite
+Marble Saltpeter
+Marble Serpentine
+Marble Sylvite
+Marble Borax
+Marble Olivine
+Marble Lapis Lazuli
+Ash Log
+Aspen Log
+Birch Log
+Chestnut Log
+Douglas Fir Log
+Hickory Log
+Maple Log
+Oak Log
+Pine Log
+Sequoia Log
+Spruce Log
+Sycamore Log
+White Cedar Log
+Willow Log
+Kapok Log
+Acacia Log
+Rosewood Log
+Blackwood Log
+Palm Log
+Ash Planks
+Aspen Planks
+Birch Planks
+Chestnut Planks
+Douglas Fir Planks
+Hickory Planks
+Maple Planks
+Oak Planks
+Pine Planks
+Sequoia Planks
+Spruce Planks
+Sycamore Planks
+White Cedar Planks
+Willow Planks
+Kapok Planks

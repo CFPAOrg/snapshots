@@ -1,0 +1,35 @@
+White Potion Bear
+Orange Potion Bear
+Magenta Potion Bear
+Light Blue Potion Bear
+Yellow Potion Bear
+Lime Potion Bear
+Pink Potion Bear
+Gray Potion Bear
+Light Gray Potion Bear
+Cyan Potion Bear
+Purple Potion Bear
+Blue Potion Bear
+Brown Potion Bear
+Green Potion Bear
+Red Potion Bear
+Black Potion Bear
+Sponge Bear
+Activated White Potion Bear
+Activated Orange Potion Bear
+Activated Magenta Potion Bear
+Activated Light Blue Potion Bear
+Activated Yellow Potion Bear
+Activated Lime Potion Bear
+Activated Pink Potion Bear
+Activated Gray Potion Bear
+Activated Light Gray Potion Bear
+Activated Cyan Potion Bear
+Activated Purple Potion Bear
+Activated Blue Potion Bear
+Activated Brown Potion Bear
+Activated Green Potion Bear
+Activated Red Potion Bear
+Activated Black Potion Bear
+Activated Sponge Bear
+Potion Bears

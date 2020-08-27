@@ -1,0 +1,5 @@
+item.universalbestiary.bestiary.name
+item.universalbestiary.identifier.name
+item.universalbestiary.identifier.tooltip
+patchouli.universalbestiary.title
+patchouli.universalbestiary.landing

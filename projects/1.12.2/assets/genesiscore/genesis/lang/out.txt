@@ -1,0 +1,42 @@
+Genesis
+Genesis Configuration
+Other
+Other config options.
+Use low resolution textures
+Use low resolution textures for T-Shirts. Enabling it may increase Performance and prevent crashes.
+§a§lFreddy§r
+§6§lGabe§r
+§9§lUlrich§r
+§c§lFranky§r
+§c§lJim§r
+§a§lAnton§r
+§f§lWolfgang§r
+§b§lMine Sheep§r
+§3Genesis§r
+§f§lGeneration§r
+§aModblade§r
+§bRevolution§r
+§cArrival§r
+§d#BeschdeInternet T-Shirt§r
+44-Shirt
+3zahl - Shirt
+3eck - Shirt
+70% Save - Shirt
+§b#GENESIS - Shirt§r
+§bVisomelon Helmet Plus§r
+§bVisomelon Chestplate Plus§r
+§bVisomelon Leggings Plus§r
+§bVisomelon Boots Plus§r
+Nuclear Helmet
+Nuclear Chestplate
+Nuclear Leggings
+Nuclear Boots
+Autogrammkarte
+§aChaos Melon§r
+§aMod Bow§r
+Thief Mask
+§3Warp Shard§r
+§cSpace Shard§r
+§bChaos Shard§r
+§aMelon Shard§r
+§lFusion Shard§r

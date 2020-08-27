@@ -1,0 +1,3 @@
+tile.road.name
+tile.road_stairs.name
+tile.road_slab.name

@@ -1,0 +1,102 @@
+Golem Box
+Spawn Clay Golem.
+Blank Armor
+Iron Armor
+Diamond Armor
+Leads
+Leather Wedges
+Blank Rune
+There is no effect.
+Rune of Feoh
+Animal
+Rune of Ur
+Aggressive
+Rune of Thorn
+Prudence
+Rune of Ansur
+Response
+Rune of Rad
+Travel
+Rune of Ken
+Fire
+Rune of Geofu
+Gift
+Rune of Wynn
+Potential
+Rune of Hagall
+Destroy
+Rune of Nied
+Need
+Rune of Is
+Ice
+Rune of Jara
+Crop
+Rune of Yr
+Immortality
+Rune of Peortn
+Luck
+Rune of Eolh
+Protection
+Rune of Sigel
+Sun
+Rune of Tir
+Attack
+Rune of Beorc
+Heal
+Rune of Eoh
+Horse
+Rune of Mann
+Persons
+Rune of Lagu
+Water
+Rune of Ing
+Construction
+Rune of Othel
+Home
+Rune of Daeg
+Light.
+Catalyst Magic Powder
+Catalyst Magic Stick
+Magic Stick Harming
+Harming
+Magic Stick Healing
+Healing
+Glass Tube
+Water Tube
+Beetroot Tube
+Life Essence Tube
+BrickCauldron
+Fluid Beetroot
+Fluid Life Essence
+Golem
+Wolf Golem
+Horse Golem
+Iron Golem
+Prismarine Golem
+Wood Golem
+Stone Golem
+Sandstone Golem
+Andesite Golem
+Diorite Golem
+Granite Golem
+Standard Golem
+Simple Golem
+Stone Supply Cube
+Prismarine Llama Golem
+Birch Wood Cow Golem
+Hand
+Pac Pac
+Freeze
+Merchant Golem
+Golem Merchant
+Rune of Thorn
+Rune of Ken
+Rune of Is
+Rune of Eolh
+Rune of Tir
+Rune of Beorc
+Rune of Lagu
+First
+Start
+Golem's Diary
+nothing

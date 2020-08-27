@@ -1,0 +1,16 @@
+noctrl.current_changed
+noctrl.gui.rename
+noctrl.gui.icon
+noctrl.gui.yes
+noctrl.gui.no
+noctrl.gui.add.desc1
+noctrl.gui.add.desc2
+noctrl.gui.delete.desc
+noctrl.gui.rename.desc
+noctrl.gui.icon.desc
+noctrl.gui.yes.desc
+noctrl.gui.no.desc
+noctrl.gui.task.add
+noctrl.gui.task.rename
+noctrl.gui.task.icon
+key.noctrl.screen

@@ -1,0 +1,61 @@
+Fires a beam of intense freezing cold energy.
+Fires a beam of freezing cold energy.
+Creates a broad field within which creatures are prevented from moving towards you.
+Fires a beam of blistering fire energy.
+Fires a beam of light especially dangerous to undead.
+Creates a zone of silence around the target.
+Temporarily reduces the movement speed of the target entity.
+Petrifies the target/caster, rendering them higly resistant to harm whilst not sneaking.
+Returns a petrified creature to their standard condition.
+Emits a blinding burst of light from the target position, causing severe damage, especially to undead and slimes.
+Transports the caster up to 900 miles, with only a slight inaccuracy.
+Transports the target block up to 1300 miles, or stores it outside of normal space entirely.
+Creates a mighty barrier of flame to block passages or encircle a position.
+Creates a temporary impenetrable barrier of pure force.
+Creates an imposing barrier of ice to block passages or surround a position.
+Creates a formiddable barrier of solid iron.
+Creates a permanent plane of stone to block passages or encircle a position.
+Creates a temporary web that blankets the area.
+Blinds a target creature with 200 health or less.
+Slays a target creature with 100 health or less.
+Momentarily stuns a target creature with 150 health or less, causing them to drop their held items.
+Prevents eavesdropping by any mortal more than a handshake away from you.
+Pact of %s (level %s)
+Waited %s of %s
+Cannot be completed
+Travel to %s, %s, %s
+Kill %s %s of %s
+Slain by %s %s of %s
+All-Things
+Aberration
+Arthropod
+Beast
+Wyrm
+Fey
+Giant
+God
+Golem
+Man
+Outsider
+Plant
+Human
+Slime
+Undead
+Rat
+Creative Item
+Prop Item
+Loot Item
+Mob Drops
+Mundane Item
+Minor Magic Item
+Medium Magic Item
+Major Magic Item
+Artifact
+Abjuration
+Conjuration
+Divination
+Enchantment
+Evocation
+Illusion
+Necromancy
+Transmutation

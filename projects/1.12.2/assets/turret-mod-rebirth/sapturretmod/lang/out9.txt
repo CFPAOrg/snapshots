@@ -1,0 +1,21 @@
+Red Laser (Redstone)
+Blue Laser (Lapis Lazuli)
+This turret is ideal to burn your enemies into ashes! It is naturally immune to fire itself and has the same stats as the Laser Turret, except it does half the damage and technically shoots rapidly.
+Fire
+This turret is there if you want to snipe enemies in your area or just make sure there are no enemies! It has a really high range, although it has less health than the T3 Laser turret and a really high cooldown time!
+Plasma
+Use this turret if you want to shoot flying stuff like Ghasts. It has an enormous range of 50 blocks, horizontally as well as upwards. If you give it the fitting rocket, you can increase that range up to 100 blocks!
+Ballistic Rocket TB50
+Ballistic Rocket TB75
+Ballistic Rocket TB100
+Guided Rocket TG50
+Guided Rocket TG75
+Guided Rocket TG100
+This is one of the most powerful turrets you've ever seen! And because of that, it's rather expensive. It's projectiles can go through targets without losing velocity, hitting a maximum of 9 Entities behind the first one!
+Ender Shards
+You want some high-ranged AOE? Then use this turret! It is the most expensive turret but really powerful! It can fire different types of Artillery shells, so be aware what you're using!
+This supporter turret can slowdown enemies, although without dealing any damage. Give the other turrets the time needed to kill their targets with this turret!
+Snowballs
+You are bored from collecting XP orbs after a fight or just don't want to miss one? Or do you want to store your collected XP somewhere? This turret can collect nearby XP orbs and store them.
+You ever wanted to protect you from incoming projectiles? To walk safely through the Nether without need for glass tunnels? Or just to protect those villagers from those damn Zombies? The Forcefield Turret generates a protecting shield around it!
+This is the medic under the turrets. It will heal nearby turrets if they get damaged. It is ideal if you don't want to waste a hell lot of healing items for your turrets! Also it is more resistant against explosions than a chest.

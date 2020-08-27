@@ -1,0 +1,22 @@
+To take XP from Experience Bar
+To return XP to Experience Bar
+This item is currently unfinished and does not function.
+This item is set to be unattainable, rendered nonfunctional, or removed in a future version.
+Set Bonus:
+§b +Water Breathing
+§4 +Fire Resistance
+This Item will be removed in: 
+Drop the item version of rupees on the ground to be able to pick them up to convert them to the new system.
+Inventory Tab
+HUD Overlay
+%1$s was shot with a Hero Bow by %2$s"
+%1$s was shot with a Hero Bow (named %3$s) by %2$s"
+%1$s was shot with a Hero Bow in Silver Mode by %2$s"
+%1$s was shot with a Hero Bow in Silver Mode (named %3$s) by %2$s"
+%1$s was shot with a Hero Bow in BOMB Mode by %2$s"
+%1$s was shot with a Hero Bow in BOMB mode (named %3$s) by %2$s"
+Legend of Zelda Mod v4
+Introduction
+Rupees
+Magic Powder
+Armor

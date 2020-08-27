@@ -1,0 +1,9 @@
+timecore.genobj.cantcreatefolder
+timecore.genobj.cantcreatefile
+timecore.genobj.successgen
+command.timecore.help.msg
+command.timecore.help.usage
+command.timecore.genobj.usage
+command.timecore.main.usage
+command.timecore.genobj.unknown
+command.timecore.genobj.not_living

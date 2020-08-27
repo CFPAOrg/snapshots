@@ -1,0 +1,13 @@
+tile.sonyplaystation2.name
+tile.microsoftxboxone.name
+tile.sonyplaystation2slim.name
+tile.microsoftxbox360e.name
+tile.sonyplaystation3.name
+tile.microsoftxboxones.name
+tile.microsoftxboxonex.name
+itemGroup.tabsony
+itemGroup.tabmicrosoft
+tile.sonyplaystation4.name
+tile.microsoftxboxseriesx.name
+tile.microsoftxboxonesalldigital.name
+tile.sonyplaystation4slim.name

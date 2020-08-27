@@ -1,0 +1,77 @@
+Block at %1$d, %2$d, %3$d is incompatible with this multiblock
+Block at %1$d, %2$d, %3$d is not connected to this multiblock
+Block at %1$d, %2$d, %3$d is not valid for use in the multiblock's frame
+Block at %1$d, %2$d, %3$d is not valid for use in the multiblock's bottom layer
+Block at %1$d, %2$d, %3$d is not valid for use in the multiblock's top layer
+Block at %1$d, %2$d, %3$d is not valid for use in the multiblock's sides
+Block at %1$d, %2$d, %3$d is not valid for use in the multiblock's interior
+This multiblock doesn't show in the archive maps - lost a logic core, you have... how embarassing... how embarassing! Gather round the GitHub repository, clear your mind, and find your missing logic we will.
+Toggled vent to
+INPUT
+OUTPUT
+mode!
+Toggled side to
+Toggled opposite side to
+DEFAULT
+DISABLED
+HOT COOLANT OUT
+COOLANT SPREAD
+DEFAULT
+DISABLED
+DEPLETED OUT
+FUEL SPREAD
+DISABLED
+DEFAULT
+PRODUCT OUT
+INPUT SPREAD
+Hold Shift for more info
+Hold Ctrl for more info
+Nuclear Furnace
+Manufactory
+Separator
+Decay Hastener
+Fuel Reprocessor
+Alloy Furnace
+Fluid Infuser
+Melter
+Supercooler
+Electrolyzer
+Assembler
+Ingot Former
+Pressurizer
+Chemical Reactor
+Fluid Mixer
+Crystallizer
+Fluid Enricher
+Fluid Extractor
+Centrifuge
+Rock Crusher
+Machine Configuration
+Machine Interface
+Universal Bin
+Cobblestone Generator
+Compact Cobblestone Generator
+Dense Cobblestone Generator
+Infinite Water Source
+Compact Infinite Water Source
+Dense Infinite Water Source
+Nitrogen Collector
+Compact Nitrogen Collector
+Dense Nitrogen Collector
+Radiation Scrubber
+No cluster!
+Number of Clusters:
+Sparsity Efficiency Mult:
+Useful Components:
+Casing Temperature:
+Net Casing Heating:
+Effective Casing Heat:
+Reserved Casing Heat:
+Net Cluster Heating:
+Total Cluster Cooling:
+Mean Efficiency:
+Mean Heat Multiplier:
+Casing Heat Level:
+Fission Irradiator
+Cluster Heat Level:
+Solid Fuel Reactor

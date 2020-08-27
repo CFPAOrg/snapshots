@@ -1,0 +1,83 @@
+Selects the size of an inventory item stack
+Selector: Block Presence
+Selects a block's presence and solidity
+Selector: Saved Vector
+Selects a saved vector from Rod Memory
+Selector: Eidos Changelog
+Selects a position from the Eidos Changelog
+Operator: Sum
+A + B (+ C)
+Operator: Subtract
+A - B (- C)
+Operator: Multiply
+A * B (* C)
+Operator: Divide
+A / B
+Operator: Absolute
+Calculates the absolute value of a number
+Operator: Inverse
+Calculates a number's inverse
+Operator: Modulus
+A % B (Integer)
+Operator: Integer Divide
+A / B (Integer)
+Operator: Random
+Random between 0 and the given number (exclusive)
+Operator: Sine
+sin(A)
+Operator: Cosine
+cos(A)
+Operator: Arc Sine
+asin(A)
+Operator: Arc Cosine
+acos(A)
+Operator: Max
+Gets the largest value of those passed in
+Operator: Min
+Gets the smallest value of those passed in
+Operator: Square
+A^2
+Operator: Cube
+A^3
+Operator: Power
+A^B
+Operator: Square Root
+sqrt(A)
+Operator: Logarithm
+log(A) or logB(A)
+Operator: Ceiling
+Rounds up a number to an integer
+Operator: Floor
+Rounds down a number to an integer
+Operator: Round
+Rounds a number to an integer
+Operator: Entity Position
+Gets an Entity's position
+Operator: Entity Look
+Gets an Entity's look vector
+Operator: Entity Motion
+Gets an Entity's motion vector
+Operator: Entity Axial Look
+Gets an Entity's look vector, aligned to an axis
+Operator: Focused Entity
+Gets the entity the target entity is looking at
+Operator: Vector Raycast
+Gets a localized raycast's result (max 32)
+Operator: Vector Axis Raycast
+Gets a localized raycast's side axis (max 32)
+Operator: Vector Sum
+A + B (+ C)
+Operator: Vector Subtract
+A - B (- C)
+Operator: Vector Multiply
+A * B
+Operator: Vector Divide
+A / B
+Operator: Vector Cross Product
+A x B
+Operator: Vector Normalize
+Normalizes a Vector so its magnitude is 1
+Operator: Vector Negate
+Negates a vector
+Operator: Vector Magnitude
+Gets a vector's Magnitude

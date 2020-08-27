@@ -1,0 +1,21 @@
+Item
+Sandstone Sword
+Sandstone Pickaxe
+Sandstone Axe
+Sandstone Shovel
+Sandstone Hoe
+Red Sandstone Sword
+Red Sandstone Pickaxe
+Red Sandstone Axe
+Red Sandstone Shovel
+Red Sandstone Hoe
+Sandstone Helmet
+Sandstone Chestplate
+Sandstone Leggings
+Sandstone Boots
+Red Sandstone Helmet
+Red Sandstone Chestplate
+Red Sandstone Leggings
+Red Sandstone Boots
+Compressed Sandstone
+ Compressed Red Sandstone

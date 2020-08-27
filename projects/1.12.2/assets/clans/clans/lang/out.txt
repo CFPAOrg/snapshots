@@ -1,0 +1,29 @@
+You cannot interact with blocks this close to another clan's territory.
+You cannot interact with this block because it is locked by %s.
+You have been kicked out of %s due to inability to pay rent.
+%s has been disbanded due to inability to pay upkeep costs.
+Wilderness
+Underground
+You are now entering %s.
+~%s
+This land is not claimed.
+This land is not claimed, and is protected.
+%s's territory
+%s's borderlands
+The raid against %s has %s minutes remaining. You will glow until the raid ends. There are %s raiders still alive.
+The raid against %s has %s minutes remaining. The %s remaining defending players will glow until the raid ends.
+You have been removed from your raid because you spent too long outside the %s's territory.
+You are now considered killed for the purposes of determining raid victory because you spent too long outside the %s's territory.
+You are not in %s's territory. If you stay outside it for longer than %s seconds, you will be removed from the raid.
+You are not in %s's territory. If you stay outside it for longer than %s seconds, you will be considered killed when determining raid victory.
+The following item is not allowed during raids and has been confiscated: %s. You can reclaim it when the raid ends with /raid collect.
+A raiding party with %s members is preparing to raid %s. The raid will begin in %s seconds.
+Your raiding party, with %s members, is preparing to raid %s. The raid will begin in %s seconds.
+The raid against %s has begun!
+The raid against %s has ended!
+The raiders were victorious against %s!
+%s was victorious against the raiders!
+<%s Chat>
+[Next]
+[Previous]
+Page: %s/%s

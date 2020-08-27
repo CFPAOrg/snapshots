@@ -1,0 +1,52 @@
+Unable to host local game
+Started debug profiling
+Stopped debug profiling after %s seconds (%s ticks)
+Can't stop profiling when we haven't started yet!
+/debug <start|stop>
+/chunkinfo [<x> <y> <z>]
+Chunk location: (%s, %s, %s)
+No chunk found at chunk position %s, %s, %s
+Chunk is not empty.
+Chunk is empty.
+Chunk is not compiled.
+Chunk is compiled.
+Chunk has no renderable layers.
+Chunk has layers: %s
+Chunk has empty layers: %s
+%s layer's buffer contains %s vertices
+First 64 vertices are: %s
+/tellraw <player> <raw json message>
+Invalid json: %s
+/tell <player> <private message ...>
+You can't send a private message to yourself!
+You whisper to %s: %s
+%s whispers to you: %s
+/difficulty <new difficulty>
+Set game difficulty to %s
+/spawnpoint [player] [<x> <y> <z>]
+Set %s's spawn point to (%s, %s, %s)
+/setworldspawn [<x> <y> <z>]
+Set the world spawn point to (%s, %s, %s)
+/gamerule <rule name> [value]
+Game rule %s has been updated to %s
+No game rule called '%s' is available
+Only server owners can change '%s'
+/weather <clear|rain|thunder> [duration in seconds]
+Changing to clear weather
+Changing to rainy weather
+Changing to rain and thunder
+/testfor <player> [dataTag]
+%s did not match the required data structure
+Found %s
+Data tag parsing failed: %s
+/seed
+Seed: %s
+No players found to spread
+/spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+Spreading %s team(s) %s blocks around %s, %s (min %s blocks apart)
+Spreading %s player(s) %s blocks around %s, %s (min %s blocks apart)
+Successfully spread %s team(s) around %s, %s
+Successfully spread %s player(s) around %s, %s
+(Average distance between teams is %s blocks apart after %s iterations)
+(Average distance between players is %s blocks apart after %s iterations)
+Could not spread %s team(s) around %s, %s (too many players for space - try using spread of at most %s)

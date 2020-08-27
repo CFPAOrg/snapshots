@@ -1,0 +1,5 @@
+item.electrostatic:electric_upgrade0.name
+modifier.meme-electric.name
+modifier.meme-electric.desc
+modifier.meme-electric_armor.name
+modifier.meme-electric_armor.desc

@@ -1,0 +1,16 @@
+item.sandwaterwand.name
+item.fillwanddirt.name
+item.fillwandironore.name
+item.fillwandcobble.name
+item.fillwandstone.name
+item.exchangewand.name
+item.fillwandair.name
+item.gapfillwand.name
+item.gapfillwaterwand.name
+item.cubediggerwand.name
+item.removewaterwand.name
+item.fillwanduniversal.name
+item.arrowwand.name
+item.growwand.name
+item.torchwand.name
+item.filldownwand.name

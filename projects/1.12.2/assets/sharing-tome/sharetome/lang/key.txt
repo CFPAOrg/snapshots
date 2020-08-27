@@ -1,0 +1,5 @@
+sharetome.misc.give
+sharetome.misc.no_change
+sharetome.misc.write
+sharetome.tooltip.player
+item.sharetome:sharing_tome.name

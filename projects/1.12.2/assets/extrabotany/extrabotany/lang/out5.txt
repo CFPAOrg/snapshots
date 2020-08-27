@@ -1,0 +1,29 @@
+Lightning Energy
+Edelweiss
+Edelweiss will swallow the snow golem to produce mana.
+If you are reading this, you can read.
+A bit cruel
+Gemini Orchid
+A &1Gemini Orchid&0 is like a thermoelectric generator. If you place a block of lava in the corner diagonally opposite, and then place a block of water in another corner diagonally opposite, it will begin to produce mana. The higher the gap between two blocks' temperatures, the quicker mana will be generated. Since it is a passive flower, it will decay.
+I am power incarnate!
+Mirrortunia
+Mirrortunia will give players around a potion effect called "Mirror Force", and clear bad potion effects. <br> But it can't clear those bad effects which can't be removed with milk bucket.
+Enchanted Orchid
+The Enchanted Orchid can infuse grass blocks beneath it to create Enchanted Soil. It will need a Black Lotus, a large quantity of &4Mana&0 and a long time for each transformation.
+The truth is always one
+Knowledge is power and I know a lot
+Necrofleur
+Necrofleur will only target those non-player creatures with lower than half health. It will spread despair and strike them a heavy blow, reducing the following healings they will receive.
+Meteor Strike
+I will mourn your death
+Mana Buffer
+The Mana Buffer can store as much &4Mana&0 as 64 Mana Pools. It will drain &4Mana&0 from adjacent mana pools and supply it to a Mana Pool placed on top of it.
+Un...Deux...Trois...
+Store Mana
+Garden of King's Law
+Garden of King's Law can summon flowers which are recorded by it to give the enemy a heavy blow. Just place it on the Livingrock Pedestal, hold a flower and right-click to record. Different flowers will have different effects.
+For example, Blood Enchantress will deal high magic damage, Sunshine Lily will set enemies on fire. But not every type of flower can be recorded.
+Enuma Elish.
+Sha Nagba Imuru.
+Ultimate Flower Work
+Nightmare Fuel

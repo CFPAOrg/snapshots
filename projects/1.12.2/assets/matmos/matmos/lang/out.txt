@@ -1,0 +1,44 @@
+Override biome detection: %s
+Undefined biome (%d)
+Unnamed biome (%d)
+Disabled (use current biome)
+Only %s (%d)
+§6Dev mode: Viewing §e§o%s (%s)
+Close
+Done
+§6Use in OSD
+Reload file
+Make sounds.json
+Previous
+Next
+Global Volume Control: %d
+Minecraft base Ambient/Environment volume: %d
+Advanced options...
+Start Enabled: ON
+Start Enabled: OFF
+Discard
+Deltas?
+§6Dev/Editor mode
+Low-altitude ambiences
+High-altitude ambiences
+Open in Editor...
+§7Editor unavailable
+ON
+OFF
+MAtmos Expansions
+MAtmos Advanced options
+§eDev mode is enabled. This may cause Minecraft to run slower.
+§6Dev mode: On-screen Display
+Tip: Sounds broken? Restart MAtmos, or reload resource packs! (F3+T)
+Expansions inside ZIP files are not supported in this version.
+Please unzip the resource packs to be able to view them.
+File generated in %s
+Changes will be applied next time Resource Packs are reloaded.
+Create the sounds/ folder first.
+Create the minecraft/ folder first.
+No info.txt available.
+§7%dms
+Your MAtmos Resource Pack isn't enabled yet!
+Activate it in the Minecraft Options menu for it to run.
+You don't have any MAtmos Resource Pack installed!
+Put the Resource Pack in the resourcepacks/ folder.

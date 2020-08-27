@@ -1,0 +1,123 @@
+Wither Reaper Boots
+Ender Helmet
+Ender Chestplate
+Ender Leggings
+Ender Boots
+Yellow Ender Helmet
+Yellow Ender Chestplate
+Yellow Ender Leggings
+Yellow Ender Boots
+Red Ender Helmet
+Red Ender Chestplate
+Red Ender Leggings
+Red Ender Boots
+Green Ender Helmet
+Green Ender Chestplate
+Green Ender Leggings
+Green Ender Boots
+Blue Ender Helmet
+Blue Ender Chestplate
+Blue Ender Leggings
+Blue Ender Boots
+Gray Ender Helmet
+Gray Ender Chestplate
+Gray Ender Leggings
+Gray Ender Boots
+Jungle Helmet
+Jungle Chestplate
+Jungle Leggings
+Jungle Boots
+Frozen Helmet
+Frozen Chestplate
+Frozen Leggings
+Frozen Boots
+Corrupted Helmet
+Corrupted Chestplate
+Corrupted Leggings
+Corrupted Boots
+Terran Helmet
+Terran Chestplate
+Terran Leggings
+Terran Boots
+Diamond Helmet
+Diamond Chestplate
+Diamond Leggings
+Diamond Boots
+Iron Helmet
+Iron Chestplate
+Iron Leggings
+Iron Boots
+Gold Helmet
+Gold Chestplate
+Gold Leggings
+Gold Boots
+Slime Sword
+Ocean Knife
+Aquatic Maul
+Arlemite Stabber
+Bedrock Sword
+Realmite Sword
+Rupee Rapier
+Sandslash
+Divine Sword
+Blue Divine Sword
+Yellow Divine Sword
+Gray Divine Sword
+Red Divine Sword
+Green Divine Sword
+Bedrock Maul
+Jungle Knife
+Jungle Rapier
+Aquatic Trident
+Aquatic Dagger
+Aquaton
+Shark Sword
+Death Bringer
+Crabclaw Maul
+Poison Saber
+Fury Maul
+Corrupted Maul
+Frost Sword
+Inferno Sword
+Bloodgem Sword
+Molten Sword
+Scorching Sword
+Bluefire Sword
+Ender Sword
+Blue Ender Sword
+Black Ender Sword
+Green Ender Sword
+Red Ender Sword
+Yellow Ender Sword
+Cyclopsian Sword
+Flaming Fury
+Dual Claw
+Terran Dagger
+Terran Knife
+Terran Maul
+Aquatooth Sword
+Aquatooth Maul
+Hunter Bow
+Shadow Bow
+Ender Bow
+Bluefire Bow
+Inferno Bow
+Shuriken
+Vile Storm
+Scythe
+Frost Cannon
+Cyclopsian Staff
+Maelstrom
+Crab Anchor
+Shark Anchor
+Bowhead Anchor
+Liopleurodon Anchor
+Golden Fury
+Corrupted Cannon
+Ghast Cannon
+Crabclaw Cannon
+Bowhead Cannon
+Serenade of Health
+Serenade Striker
+Serenade of Death
+Serenade of Infusion

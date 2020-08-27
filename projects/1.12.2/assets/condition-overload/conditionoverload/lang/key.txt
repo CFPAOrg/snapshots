@@ -1,0 +1,5 @@
+item.wicked_jewel.name
+item.conditionoverload.wicked_jewel.desc
+item.conditionoverload.wicked_jewel.desc2
+modifier.condition_overload.name
+modifier.condition_overload.desc

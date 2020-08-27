@@ -1,0 +1,56 @@
+Curio
+Curious of Curio
+Ring
+Belt
+Amulet
+Tiara
+Mystic Crystal
+Air Crystal Shard
+Water Crystal Shard
+Earth Crystal Shard
+Fire Crystal Shard
+Mystic Crystal Dust
+Belt of Water Walking
+Amulet of Diving
+Ring of Flight
+Magnet Ring
+Speed Belt
+Wall climbing Belt
+Falling Belt
+Growth Pendant
+Amulet of Nightvision
+Amulet of the Fiery Core
+Deflection Tiara
+Mystic Ore
+Fire Crystal
+Water Crystal
+Earth Crystal
+Air Crystal
+Infusing Table
+Pedestal
+Base crafting item for rings.
+Base crafting item for belts.
+Base crafting item for amulets.
+Base crafting item for tiaras.
+Used in crafting recipes. Obtained by mining the crystal.
+Used in crafting recipes. Obtained by mining the crystal.
+Used in crafting recipes. Obtained by mining the crystal.
+Used in crafting recipes. Obtained by mining the crystal.
+Obtained by using a infused Mystic crystal to regain experience. Can be crafted back into a crystal.
+Used in crafting recipes. can be infused with XP. (right-click to return XP, Gives back dust). A infusion level is select by adding a lapis to the infusion table. 1 lapis is one step up.
+lets you walk on water. Press shift to fall back into the water.
+Lets you breathe underwater.
+Lets you fly like creative.
+Pull items toward you. Holding Shift will deactivate the effect.
+Makes you run and fly faster.
+Removes fall damage.
+Speeds up the growth of any plant. Has limited durability.
+Gives you night vision.
+Protects you from fire damage. Has limited durability.
+The base version deflects 50 percent of all projectiles. When infused with 50 experience level it will deflect 100 percent of all projectiles.
+Found in the overworld around the same level as diamond.
+Found in the nether.
+Found on the bottom of large bodies of water.
+Found in foresty area's.
+Found on the highest mountain.
+Infuse items with experience! the level is selected by adding lapis after the infusable item to select the level. right click to start the infusion and shift+right click to remove the item.

@@ -1,0 +1,31 @@
+Activate below [%%]
+Deactivate over [%%]
+Deactivate after
+inactivity [s]
+Save
+Invalid
+Energy stored: %s RF (Required: %s RF, %s s)
+Universe Dialer
+Not linked
+Gate is busy
+Nearby
+Memory
+Rings
+OpnCom
+Aborting dial
+Entry name
+OpenComputers' modem's address (Leave blank for broadcast)
+Modem's port
+OpenComputers parameters (comma separated)
+Save
+Invalid port
+Received response: 
+Universe dialer mode scroll
+Universe dialer mode up
+Universe dialer mode down
+Universe dialer address scroll
+Universe dialer address up
+Universe dialer address down
+Universe dialer remove address
+Universe dialer abort dialing
+Universe dialer program OC message

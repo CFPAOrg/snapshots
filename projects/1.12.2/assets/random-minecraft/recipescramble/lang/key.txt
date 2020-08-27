@@ -1,0 +1,7 @@
+item.scroll.name
+item.spinner.name
+entity.spinner.name
+entity.EntitySpinner.name
+item.vending.name
+entity.vending.name
+entity.EntityVendingMachine.name

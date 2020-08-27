@@ -1,0 +1,36 @@
+80% chance to redirect
+90% chance to redirect lightning
+90% chance to redirect lightning
+§b§lLightning §b§lSpear
+Create a throwable bolt of lightning
+Basic lightning spear, electrocutes targets in water
+Faster when thrown
+Deals much more damage
+§b§lPiercing bolt ;; Goes through enemies instead of stopping on the first one, so it can hurt many targets
+§b§lElectric cloud ;; When hitting a target, nearby targets within 2 blocks are also hurt
+§3§lIce §3§lPrison
+Encase an attacker in a block of ice to prevent them from following you for a short time.
+Delay your attackers.
+The prison lasts slightly longer.
+The prisoner takes damage when the ice shatters.
+§3§l§oFrostbite ;; The prisoner continually takes damage throughout the imprisonment.
+§3§l§oGlacier §3§l§oice ;; The ice cannot be melted by the sun or firebending.
+§3§lIce §3§lBurst
+Encase yourself in a sphere of ice to stop damage.  When broken, it shoots powerful shards in all directions.
+Protect yourself from damage
+The shards deal slightly more damage.
+The shield has a little more health.
+§3§l§oAiming §3§l§osystem ;; A few ice shards automatically target monsters, invaluable when there are many mobs attacking
+§3§l§oHardened §3§l§oice ;; The ice shield has much more health
+§6§lSand Prison
+Create a snare out of sand to temporarily capture your enemies
+Delay your attackers.
+You can catch targets in any earth block by manipulating the small sediments
+The prisoner receives a slowness effect after being freed
+§6§lCoarse §6§lgrains ;; The prisoner takes damage after being freed
+§6§lSolid §6§lsands ;; The sand can't be blown away by airbending
+§6§lSandstorm
+Create a whirling dust devil that picks up enemies and carries them away
+Pick up entities and throw them off, vulnerable to airbending moves
+Moves slightly faster and travels slightly farther
+Intense whiplash deals damage to targets when they are flung away

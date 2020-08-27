@@ -1,0 +1,8 @@
+Ender Frame
+The Ender Frame doesn't have an Eye of Ender
+Couldn't find a receiving teleporter within %s blocks
+The teleporter isn't finished or another teleporter is too close
+Space Bender
+Construct an Ender Frame
+Player teleports
+Teleporting fails

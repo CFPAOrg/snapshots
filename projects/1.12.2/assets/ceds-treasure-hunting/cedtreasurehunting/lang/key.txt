@@ -1,0 +1,9 @@
+itemGroup.cedtreasurehunting
+item.cedtreasurehunting.compass.name
+item.cedtreasurehunting.compassplus.name
+item.cedtreasurehunting.deliverer.name
+item.cedtreasurehunting.deliverer_piece.name
+tile.cedtreasurehunting.treasureBlock.name
+tile.cedtreasurehunting.protectorBlock.name
+tile.cedtreasurehunting.unbreakableLightBlock.name
+tile.cedtreasurehunting.guardsspawner.name

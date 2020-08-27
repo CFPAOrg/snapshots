@@ -1,0 +1,9 @@
+item.supersticksword.supersticksword.name
+item.supersticksword.stick_compressed.name
+item.supersticksword.stick_double.name
+item.supersticksword.stick_triple.name
+item.supersticksword.stick_quadruple.name
+item.supersticksword.stick_quintuple.name
+item.supersticksword.stick_sextuple.name
+item.supersticksword.stick_septuple.name
+item.supersticksword.stick_octuple.name

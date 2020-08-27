@@ -1,0 +1,3 @@
+mirror.tooltip.shiftForInfo
+mirror.tooltip.ctrlForInfo
+mirror.tooltip.altForInfo

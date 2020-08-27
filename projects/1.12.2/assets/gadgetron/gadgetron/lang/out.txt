@@ -1,0 +1,18 @@
+Intermediate Fabricator
+Advanced Fabricator
+Basic Extractor
+Intermediate Extractor
+Advanced Extractor
+Basic Processor
+Intermediate Processor
+Advanced Processor
+Gadgetron
+Open belt gui
+Delivering power to
+blocks
+Failed to add block to output list, check if the battery still exists
+PDA bound to block
+PDA unbounded
+Only blocks from the same dimension can added
+You cannot equip another belt
+You have no belt on

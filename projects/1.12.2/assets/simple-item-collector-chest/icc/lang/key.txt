@@ -1,0 +1,9 @@
+tile.icc:item_collector_chest.name
+tile.icc:item_collector_ender_chest.name
+tile.item_collector_shulker_box.name
+tile.adv_item_collector_chest.name
+container.icc
+container.icec
+container.icsb
+container.icca
+itemGroup.icc

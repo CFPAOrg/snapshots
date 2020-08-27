@@ -1,0 +1,9 @@
+itemGroup.iridiumtab
+item.prill_platina.name
+item.platina_190.name
+item.iridium_191.name
+item.iridium_193.name
+item.complex_compound_iridium.name
+tile.ore_overworld_platina.name
+tile.ore_nether_platina.name
+tile.ore_end_platina.name

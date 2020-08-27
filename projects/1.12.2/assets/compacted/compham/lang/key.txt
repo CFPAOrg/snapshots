@@ -1,0 +1,9 @@
+item.hammer_stone.name
+item.hammer_compressed.name
+item.hammer_double.name
+item.rod_stone.name
+item.rod_iron.name
+item.rod_double
+item.rod_compressed
+itemGroup.compham
+compham.tooltip.disabled

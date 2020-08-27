@@ -1,0 +1,64 @@
+Sentient
+§oIt knows what you've done...§r\nThis armour consumes demon will to increase its power.
+Willful
+§oYour soul is mine!§r\nThis armour ensnares the souls of those that would attack it.
+Livingrock
+Molten Livingrock
+Livingwood
+Dreamwood
+Manasteel
+Molten Manasteel
+Terrasteel
+Molten Terrasteel
+Elementium
+Molten Elementium
+Mana-Infused
+Mana Diamond
+Mana Pearl
+Dragonstone
+Mana-Infused
+§oMining in the database?§r\nThis tool repairs itself using mana.
+Aura Siphon
+§oWex trionis!§r\nThis weapon converts some damage dealt to bonus mana.
+Aura Siphoning: %s
+Voice of the Fae
+§oHey, listen!§r\nThis weapon may summon pixies to attack foes.
+Pixie Chance: %s
+Gaia's Wrath
+§oLight and darkness!§r\nThis weapon fires damaging beams when swung.
+Mana-Infused
+§oMining in the database?§r\nThis armour repairs itself using mana.
+Voice of the Fae
+§oHey, listen!§r\nThis armour may summon pixies to ward off attackers.
+Pixie Chance: %s
+Aura-Infused
+§oInto the breach!§r\nThis armour passively generates mana.
+Mana Affinity
+§oWarp not included!§r\nThis armour reduces mana costs.
+Mana Discount: -%s
+Will of Ahrim
+§oDusty ol' tome.§r\nCritical Hits apply a strong weakness effect.
+Will of Dharok
+§oIS COOKING!§r\nCritical Hit damage increases with lower HP.
+Will of Guthan
+§oDusty ol' tome.§r\nCritical Hits heal for a portion of damage dealt.
+Will of Karil
+§oDusty ol' tome.§r\nCritical Hits apply a wither effect.
+Will of Torag
+§oDusty ol' tome.§r\nCritical Hits apply a strong slowness effect.
+Will of Verac
+§oDusty ol' tome.§r\nCritical Hits pierce through armor.
+Draconium
+Molten Draconium
+Wyvern
+Wyvern Coalescence
+Draconic
+Draconic Coalescence
+Chaotic
+Destructured Chaos
+Soul Rend
+§oSoul steal!§r\nThis weapon has innate soul-stealing abilities.
+Evolved
+§oBalanced, as all things should be.§r\nThis tool uses energy and can be upgraded by fusion crafting.
+RF Capacity
+§oUnlimited power!§r\nThis tool has increased energy capacity.

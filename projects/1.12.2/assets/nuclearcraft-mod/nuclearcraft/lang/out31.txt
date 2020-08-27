@@ -1,0 +1,28 @@
+Plutonium Heat Gen
+Base heat the fuels produce. Order: LEP-239, LEP-239 Oxide, HEP-239, HEP-239 Oxide, LEP-241, LEP-241 Oxide, HEP-241, HEP-241 Oxide.
+Plutonium Radiation
+Base radiation the fuels produce while processing. Order: LEP-239, LEP-239 Oxide, HEP-239, HEP-239 Oxide, LEP-241, LEP-241 Oxide, HEP-241, HEP-241 Oxide.
+MOX Fuel Durations
+Base ticks the fuels last. Order: MOX-239, MOX-241.
+MOX Power Gen
+Base RF/t the fuels produce. Order: MOX-239, MOX-241.
+MOX Heat Gen
+Base heat the fuels produce. Order: MOX-239, MOX-241.
+MOX Radiation
+Base radiation the fuels produce while processing. Order: MOX-239, MOX-241.
+Americium Fuel Durations
+Base ticks the fuels last. Order: LEA-242, LEA-242 Oxide, HEA-242, HEA-242 Oxide.
+Americium Power Gen
+Base RF/t the fuels produce. Order: LEA-242, LEA-242 Oxide, HEA-242, HEA-242 Oxide.
+Americium Heat Gen
+Base heat the fuels produce. Order: LEA-242, LEA-242 Oxide, HEA-242, HEA-242 Oxide.
+Americium Radiation
+Base radiation the fuels produce while processing. Order: LEA-242, LEA-242 Oxide, HEA-242, HEA-242 Oxide.
+Curium Fuel Durations
+Base ticks the fuels last. Order: LECm-243, LECm-243 Oxide, HECm-243, HECm-243 Oxide, LECm-245, LECm-245 Oxide, HECm-245, HECm-245 Oxide, LECm-247, LECm-247 Oxide, HECm-247, HECm-247 Oxide.
+Curium Power Gen
+Base RF/t the fuels produce. Order: LECm-243, LECm-243 Oxide, HECm-243, HECm-243 Oxide, LECm-245, LECm-245 Oxide, HECm-245, HECm-245 Oxide, LECm-247, LECm-247 Oxide, HECm-247, HECm-247 Oxide.
+Curium Heat Gen
+Base heat the fuels produce. Order: LECm-243, LECm-243 Oxide, HECm-243, HECm-243 Oxide, LECm-245, LECm-245 Oxide, HECm-245, HECm-245 Oxide, LECm-247, LECm-247 Oxide, HECm-247, HECm-247 Oxide.
+Curium Radiation
+Base radiation the fuels produce while processing. Order: LECm-243, LECm-243 Oxide, HECm-243, HECm-243 Oxide, LECm-245, LECm-245 Oxide, HECm-245, HECm-245 Oxide, LECm-247, LECm-247 Oxide, HECm-247, HECm-247 Oxide.

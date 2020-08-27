@@ -1,0 +1,34 @@
+Frying Pan
+Frying Pan
+Smelter
+Smelter
+Cooking Pot
+Cooking Pot
+Cooking Range
+Cooking Range
+Boiled Egg
+Cooked Beans
+Cooked Potato
+Dough
+Pizza Dough
+Bread Dough
+Raw Meat Roll
+Raw Vegetable Bread
+Meat Roll
+Vegetable Bread
+Fine Bread
+Curd
+Flour
+Yeast
+Salt
+Plain Pizza
+Uncooked Fish Pizza
+Uncooked Meat Pizza
+Uncooked Sweet Pizza
+Uncooked Chicken Pizza
+Meat Pizza
+Sweet Pizza
+Chicken Pizza
+Fish Pizza
+Pots 'n Pans
+Ex Sartagine Foods

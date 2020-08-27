@@ -1,0 +1,2 @@
+kiwi.tip.press_shift
+item.kiwi.my_first_item.tip

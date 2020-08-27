@@ -1,0 +1,7 @@
+Lil Sip
+Big Chug
+Empty. Right-click on a tank, fluid block, or cow to fill.
+%d sips
+Mushroom Stew
+Milk
+%s took a sip of %s.

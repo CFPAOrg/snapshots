@@ -1,0 +1,28 @@
+Successfully removed emote '%s' from %s
+Battlefields
+Use Emote
+Open Emote Menu
+Show Map
+Infection
+%s fell into another dimension
+Battlefields Additions Config
+Client
+Client-only configs.
+UI
+UI settings / customization.
+Enable UI
+Determines whether or not the custom UI will show.
+Health Bar
+Health bar settings / customization.
+Enable XP Health Bar
+Determines whether or not the health bar will have the XP bar texture (Colorable).
+Enable Percentages
+Determines whether the health bar will use percentages.
+Health Bar Colors
+Determines what color will be used on the health bar.
+Red
+Red value of the health bar RGB.
+Green
+Green value of the health bar RGB.
+Blue
+Blue value of the health bar RGB.

@@ -1,0 +1,11 @@
+When making bullets, remember: there is no such thing as "the best bullet composition", add ingredients adjacent to your needs. Need a stun grenade? Use fireworks. Need a bullet that can penetrate trough steel? Use uranium cores. Keep in mind, that combining these two will result in lower suppression modifier of the fireworks, the cores modify the strengths of the effects. Some materials like brass raise it, while some like tungsten, steel or uranium decrease it.
+Use the data system to name and color your bullets. This will allow you to differentiate them easier, so you won't mistake an armour-piercing round for a high-explosive one. For coloring the machine requires a supply of inks to its tank, similar to the <link;printing_press;§o§nPrinting §o§nPress§r;>.
+Variables:<br>Integer 'p'-percentage proportion of the bullet components (0-100)<br>Integer or String 'c'-bullet casing's colour (Int - RGB, String - Hex)<br>String 'n' - bullet name.
+Logistics
+Logi, bmats ASAP!
+Logistics is a unique branch of engineering focused on storing, delivering and managing the way of transfer of goods. A good logistic system consists of a warehouse for storage and nearby production plants and factories for quick manufacturing of needed things. With the newest electronic and electric technology and some old rotary powered machines, creating a good delivery system is easier than ever.
+Packer
+Even more Pipes and Tunnels!
+Packer is a machine used to batch load items into containers such as crates or bullet magazines. For operation it requires power and a single data signal defining how much items should be put each time. To form it, use a hammer on the pipe above the conveyor belt.
+ The packer receives items to be packed from the side and containers onto the bottom conveyor.
+Variables:<br>Integer 'c'-items to pack<br>Integer or String (one_by_one, one_of_all) 'm'-item packing mode<br>Integer 'q' - insert quantity<br>Boolean 'i' - whether the machine should ignore empty stacks.

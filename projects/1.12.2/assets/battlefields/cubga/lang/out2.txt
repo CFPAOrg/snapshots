@@ -1,0 +1,60 @@
+Very fragile bricks, easily breakable by hand and gun.
+Contains a highly explosive crystal from another dimension.
+A very powerful (and highly explosive) crystal taken from another dimension.
+A colorful chest that contains goodies!
+ᚫᚾ ᚪᛞ ᛚᚢᚴᛁᛝ ᛒᛚᚪᚴ ᚠᚱᚣᛗ ᚣᚾᚣᚧᚣᚱ ᛞᛁᛗᛖᚾᚳᚣᚾ
+ᚫᚾ ᚪᛞ ᛚᚢᚴᛁᛝ ᛒᛚᚪᚴ ᚠᚱᚣᛗ ᚣᚾᚣᚧᚣᚱ ᛞᛁᛗᛖᚾᚳᚣᚾ
+End stone that was infected by an alien substance.
+The death of a dragon...
+Painful Spikes that are difficult to escape and hurt when touched.
+A button made of end stone.
+A pressure plate made of end stone.
+A wall made of end stone.
+A stair made of end stone.
+A slab made of end stone.
+A dirt block that was infected by an alien substance.
+A leaf block that was infected by an alien substance.
+A grass block that was infected by an alien substance.
+A log that was infected by an alien substance.
+A slab that was infected by an alien substance.
+Vines that were infected by an alien substance.
+Planks that were infected by an alien substance.
+Stairs that were infected by an alien substance.
+A slab that was infected by an alien substance.
+A crack in the world that shows an unknown dimension through it.
+A gateway into another dimension...
+A display of the entire map.
+A pad that gives accessories to the player.
+A floating item that shows off a stack!
+A stone pillar with a lip on the top and bottom.
+A quartz pillar with a lip on the top and bottom.
+A sandstone pillar with a lip on the top and bottom.
+A red sandstone pillar with a lip on the top and bottom.
+A purpur pillar with a lip on the top and bottom.
+Water that was infected by an alien substance.
+Lava that was infected by an alien substance.
+Display Name
+Render Display Name
+Always Render Display Name
+Can Take Stack
+Remove Stack on Take
+Discord
+Website
+PLAY
+Singleplayer
+Mutliplayer
+Settings
+Quit
+News
+Beaver (CA)
+Kangaroo (AU)
+Face
+Head
+Arms
+Back
+Torso
+Legs
+Feet
+Outfits
+Main Menu
+Customize Accessories

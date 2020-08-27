@@ -1,0 +1,130 @@
+Spodumene
+Pollucite
+Tantalite
+Lepidolite
+Glauconite
+Glauconite Sand
+Vermiculite
+Bentonite
+Fullers Earth
+Pitchblende
+Monazite
+Malachite
+Mirabilite
+Mica
+Trona
+Barite
+Gypsum
+Alunite
+Dolomite
+Wollastonite
+Zeolite
+Kyanite
+Kaolinite
+Talc
+Soapstone
+Concrete
+Magnetic Iron
+Magnetic Steel
+Magnetic Neodymium
+Tungstencarbide
+Vanadiumsteel
+HSS-G
+HSS-E
+HSS-S
+Tungstencarbide
+Vanadiumsteel
+HSS-G
+HSS-E
+HSS-S
+Acrylonitrile Butadiene Styrene (ABS)
+Acrylonitrile
+Ammonium Sulfate
+Ammonium Persulfate
+SOHIO Mixture
+Acetonitrile
+Chlorodifluoromethane
+2,2-Dichloro-1,1,1-Trifluoroethane
+Tetrachloroethylene
+Ethylene Dichloride
+Ferrous Chloride
+Ferric Chloride
+Trichlorotrifluoroethane
+Chlorotrifluoroethylene
+Polychlorotrifluoroethylene (PCTFE)
+Barium Sulfide
+Barium Nitrate
+Barium Oxide
+Barium Peroxide
+Hydrocyanic Acid
+Hydrofluoric Acid
+Phosphorous Pentoxide
+Phosphoric Acid
+Polyvinyl Acetate
+Phenol
+Bisphenol A
+Reinforced Epoxy Resin
+Fiberglass
+Borosilicate Glass
+Polyvinyl Chloride
+Vinyl Chloride
+Ethylene
+Charcoal Byproducts
+Benzene
+Wood Gas
+Wood Vinegar
+Wood Tar
+Sodium Hydroxide
+Quicklime
+Acetone
+Sulfur Trioxide
+Sulfur Dioxide
+Glycerol
+Methanol
+Carbon Monoxide
+Cetane-Boosted Diesel
+Diluted Sulfuric Acid
+Sodium Bisulfate
+Chloroform
+Diluted Hydrochloric Acid
+Hypochlorous Acid
+Ammonia
+Chloramine
+Dimethylamine
+1,1-Dimethylhydrazine
+Rocket Fuel
+Dinitrogen Tetroxide
+Silicone Rubber
+Polydimethylsiloxane
+Dimethyldichlorosilane
+Styrene
+Polystyrene
+Butadiene
+Raw Styrene-Butadiene Rubber
+Styrene-Butadiene Rubber
+Dichlorobenzene
+Hydrochloric Acid
+Acetic Acid
+Fermented Biomass
+Potash
+Soda Ash
+Nitric Oxide
+Methyl Acetate
+Ethenone
+Tetranitromethane
+Bio Diesel
+Raw Growth Medium
+Sterilized Growth Medium
+Vinyl Acetate
+Gallium Arsenide
+Polyphenylene Sulfide
+Nickel Sulfate Water Solution
+Blue Vitriol Water Solution
+Propane
+Propene
+Ethane
+Butene
+Butane
+Calcium Acetate Solution
+Cumene
+Indium Gallium Phosphide

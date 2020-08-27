@@ -1,0 +1,3 @@
+entity.crackedzombie.name
+entity.crackedpigzombie.name
+entity.crackedhusk.name

@@ -1,0 +1,91 @@
+§7Matriarch of the Keiga Family
+§7-
+§7Bibliophile with a Deciphering Eye
+§7The All-Too-Dangerous Backup Dancers
+§7The Yamanba who Surpasses This Floating World's Barriers
+§7The All-Too-Dangerous Backup Dancers
+§7-
+§7-
+§7Expose the Esoteric! The Secret Sealing Club's First President
+§7Parental Guardian of Ancient Fish
+§7The Moon Princess Connecting Sea and Mountain
+§7The Moon Princess Possessed by Divine Spirits
+§7The Most-Despicable and Disastrous Younger Twin Sister
+Cushion
+Class Desk
+Class Chair
+Kotatsu
+Play Station
+Tall Stool
+Low Stool
+Barbecue Booth
+Barbecue Booth
+Long Stool
+Square Table
+Mahjong Table
+Beach Chair
+Parasol
+Water Wheel
+Saisen Bako
+Well
+Torii
+Ema
+Anti-collision Bucket
+Park Bench
+Rinnosuke Children's Toys
+Moto
+Shinmyoumaru's Bowl
+Default Sound
+This voice was delivered by Amitoro's Voice Material Studio
+Night Sign "Night Bird"
+Metal Sign "Metal Fatigue"
+Magic Sign "Milky Way"
+Border Sign "Boundary Between Wave and Particle"
+Border Sign "Boundary Between Wave and Particle" 3D
+Maid Idel Sound
+Maid Attack Sound
+Maid Range Attack Sound
+Maid Danmaku Sttack Sound
+Maid Farm Sound
+Maid Feed Sound
+Maid Shears Sound
+Maid Get Milk Sound
+Maid Torch Sound
+Maid Feed Animal Sound
+Extinguishing Sound
+Maid Find Target Sound
+Maid Hurt Sound
+Maid Fire Hurt Sound
+Maid Player Hurt Sound
+Maid Tamed Sound
+Maid Get Item Sound
+Maid Death Sound
+Maid Feel Hot Sound
+Maid Feel Cold Sound
+Maid Rain Sound
+Maid Snow Sound
+Maid Morning Sound
+Maid Night Sound
+Credit Sound
+Camera Use Sound
+Album Open Sound
+Altar Craft Sound
+Rinnosuke Ambient Sound
+Rinnosuke Death Sound
+Rinnosuke Hurt Sound
+Box Open Sound
+Compass Select Point Sound
+Audio Music Sound
+Mode: %s
+Has Hata Sasimono
+Invulnerable
+Maid Owner: %s
+Mode:
+Has Hata Sasimono
+Invulnerable
+Maid Owner: %s
+Altar Craft
+Effect: %s
+Craft an Item
+Spawn New Maid
+Reborn Maid From Garage Kit

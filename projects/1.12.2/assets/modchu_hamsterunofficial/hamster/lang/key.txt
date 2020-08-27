@@ -1,0 +1,8 @@
+entity.EntityHamster.name
+entity.EntityHamsterMaster.name
+item.EntityHamster.name
+item.itemspawnegg_EntityHamster.name
+itemspawnegg_EntityHamster.name
+itemspawnegg_entityhamster.name
+itemspawnegg_EntityHamster
+itemspawnegg_entityhamster

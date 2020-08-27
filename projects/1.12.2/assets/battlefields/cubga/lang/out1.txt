@@ -1,0 +1,25 @@
+A brick that came off of a Brittle Brick. Craft a brittle brick with four bricks and hold right click to charge and throw the brick.
+A magical wand that allows full control over crystal containers. Simply click the container you want to add beams to and then press any other block to make a beam go to that position.
+A tool that can be used to change NBT values of specific block entities.
+A bush disguise. Hold right click to equip.
+Happy 22nd birthday Cray! Here's a treat from all of us at the Battlefields team.
+A powerful star that has been seen to infect people. Use at your own risk...
+A vial of pure infection essence...
+A melee weapon that might leave a dent in an opponent.
+A melee weapon that deals a little more damage than the standard baseball bat.
+A powerful sword that can make quick work of opponents.
+A very weak, but fast weapon to deal quick damage to opponents.
+A cast iron pan that will leave an opponent disoriented.
+High energy plasma. Used as ammo for the Railgun.
+Military grade first aid. Restores 100 percent of the player's health (10 hearts).
+Civilian grade first aid. Restores 50 percent of the player's health (5 hearts).
+A simple piece of cloth that covers wounds. Restores 10 percent of the player's health (2 hearts).
+An adhesive piece of fabric that covers small cuts. Restores 2.5 percent of the player's health (1/2 heart).
+A bottle of pills that will help to take the pain away.
+A bottle of pills that will help you run away.
+An empty coffee cup. Oh, and you can wear it on your head.
+A hot cup of coffee, pretty nice, right? Oh, and you can wear it on your head and drink it, but be careful, it's hot.
+The iconic symbol of the superior country, Canada.
+A modder's worst nightmare, the glitched texture.
+A gauntlet made out of the finest material. Made for the Master of Chiefs. Wait, no, the Mastef of Chiefs.
+A claw taken from the crayfish himself. You can put the claw on your head, but it might hurt.

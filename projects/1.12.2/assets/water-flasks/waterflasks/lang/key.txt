@@ -1,0 +1,9 @@
+item.waterflasks.bladder.name
+item.waterflasks.leather_side.name
+item.waterflasks.filled_leather_flask.name
+item.waterflasks.leather_flask.name
+item.waterflasks.broken_leather_flask.name
+item.waterflasks.filled_iron_flask.name
+item.waterflasks.iron_flask.name
+item.waterflasks.unfinished_iron_flask.name
+item.waterflasks.broken_iron_flask.name

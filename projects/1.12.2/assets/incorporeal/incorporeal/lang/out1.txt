@@ -1,0 +1,17 @@
+Symbiotic Hematophage
+Frame Screw
+Turn items in item frames
+The &1Frame Screw&0 has the ability to rotate the &4Items&0 in &1Item Frames&0. It's a small rod; placing it with either end pointing towards an &1Item Frame&0 and giving it a &4Redstone Signal&0 will cause the item to turn one step. Giving it a gentle tap will make it turn items in the other direction.<br>They are pushable with &1Pistons&0.
+Tokyo shinwa
+Earthen Devices
+Repeaters and comparators - just add water
+&1Redstone Roots&0 can be planted, and will eventually blossom into usable redstone components. Due to their natural construction, they can only be planted on &1Dirt&0-type blocks, but otherwise operate similarly to traditional redstone components.<br>A &1Redstone Root&0 will grow into a random &1Earthen Device&0 when planted.
+&1Earthen Repeaters&0 are repeaters that last exactly one second, over twice as long as the maximum-delay traditional repeater. They are the most common device that a &1Redstone Root&0 will grow into.
+&1Earthen Comparators&0 also have a one-second response and delay time. While they cannot compare redstone signal strengths, and don't have a subtraction mode, they can properly read from chests, item frames, and other comparator-attuned blocks, and will always output either a signal strength of 15 or 0.
+Unstable Cubes
+A decorative relic from a bygone era
+&1Unstable Cubes&0 are curious little critters. They cracke pleasantly and spin in a satisfying way when touched, but other than that, don't seem to do anything useful.
+Throwback Thursday, every day!
+Sweet Alexum
+Plays a beautiful(...?) song
+Legend has it that placing &1Note Blocks&0 around a mana-fed &1Sweet Alexum&0 flower will cause the note blocks to resonate with only the most beautiful of frequencies. For best results, four &1Note Blocks&0 are required to play all of the parts: one above &1sand&0, one above &1wood&0, one above &1rock&0, and one above a block composed of the &1purest balance&0.

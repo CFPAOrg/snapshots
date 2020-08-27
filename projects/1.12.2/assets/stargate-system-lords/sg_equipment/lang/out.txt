@@ -1,0 +1,13 @@
+Anubis Helmet
+Horus Helmet
+Apophis Helmet
+Jaffa Chestplate
+Jaffa Leggings
+Jaffa Boots
+Apophis System Lord Helmet
+System Lord Chestplate
+System Lord Leggings
+System Lord Boots
+Jaffa Staff
+Zat'nik'tel
+%1$s was vaporized by %2$s

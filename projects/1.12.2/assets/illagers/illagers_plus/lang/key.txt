@@ -1,0 +1,13 @@
+entity.furantur.name
+entity.hoarder.name
+entity.necromancer.name
+entity.illager_king.name
+entity.enchanter.name
+entity.archer.name
+config.illager_tower_freq.name
+config.illager_archer_tower_freq.name
+config.illager_centre_freq.name
+gui.config.illagers_plus.title
+gui.config.category.general.name
+gui.config.category.general.name.tooltip
+gui.config.category.general.title

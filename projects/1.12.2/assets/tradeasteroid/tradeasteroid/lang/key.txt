@@ -1,0 +1,16 @@
+entity.cupidblaze.name
+entity.hateworm.name
+entity.biffbaddy.name
+tile.cratefood.name
+tile.cratefluids.name
+entity.zeuscreeper.name
+item.asteroidbelttrigger.name
+tile.alloyblock2.name
+entity.zeusmob.name
+item.mittenzmasher.name
+item.almapage.name
+entity.aphroditeboss.name
+item.aphroheart.name
+tile.alloyblock1.name
+entity.biffboss.name
+tile.cratesupply.name

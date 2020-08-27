@@ -1,0 +1,11 @@
+entity.enderiozoo.enderminy.name
+entity.enderiozoo.concussioncreeper.name
+entity.enderiozoo.fallenknight.name
+entity.enderiozoo.fallenmount.name
+entity.enderiozoo.witherwitch.name
+entity.enderiozoo.withercat.name
+entity.enderiozoo.direwolf.name
+entity.enderiozoo.direslime.name
+entity.enderiozoo.owl.name
+entity.enderiozoo.lovechild.name
+entity.enderiozoo.epicsquid.name

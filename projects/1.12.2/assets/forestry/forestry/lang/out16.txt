@@ -1,0 +1,83 @@
+Farm Gearbox
+Farm Hatch
+Farm Valve
+Farm Control
+Mushroom
+Mushroom
+Arboretum
+Tree Farm
+Farm
+Crop Farm
+Mushroom Farm
+Infernal Farm
+Netherwart Farm
+Gourd Farm
+Melon and Pumpkin Farm
+Ender Farm
+Chorus Flower and Ender Lily Farm
+Peat Bog
+Peat Farm
+Rubber Farm
+Flexible Casing
+%s (Manual)
+%s (Managed)
+N
+S
+E
+W
+This item has been deprecated
+Place in crafting grid to get some resources back
+Greenhouse Block
+Greenhouse Energy Distributor
+Greenhouse Control
+Greenhouse Screen
+Greenhouse Roof Window
+Greenhouse Window
+Greenhouse Fan
+Greenhouse Heater
+Greenhouse Dehumidifier
+Greenhouse Humidifier
+Greenhouse Hygroregulator
+Habitat Former
+Habitat Screen
+Targeted: %s
+Value: %s
+Default: %s
+Temperature
+Humidity
+Habitats
+Selection
+Range
+%s Blocks
+Circular Mode Enabled
+Circular Mode Disabled
+Preview Mode Enabled
+Preview Mode Disabled
+Habitat Former
+Range
+Resources
+Speed
+Preview Mode: Active
+Preview Mode: Inactive
+Position '%s, %s, %s', Dimension '%s'
+Not Linked
+Temperature: %s
+Humidity: %s
+Temperature: %s, Humidity: %s
+No State Found
+Click and done!
+You can use the habitat buttons, the two climate bars in the upper center or the two text fields to change the targeted climate.
+What do you need?
+The habitat former uses energy to alter its temperature. And fluids like lava, water or crushed ice to alter its humidity and a small amount of its temperature.
+Everything you want
+Additional to the other options you can use the slot next to the habitat buttons to change the targeted climate to the preferred climate of a bee. Simply click with a bee on it.
+Wrong Resource
+The habitat former cannot reach the targeted humidity with the inserted fluid.
+- %s : Butterfly Commands
+Various commands related to butterflies
+Format: /%s <sub-command>
+- %s : Kills all Butterflies
+Kills all Butterflies in loaded chunks
+Format: /%s [<dimension#>]
+Killed %d butterflies
+Hybrid: %PRIMARY-%SECONDARY

@@ -1,0 +1,10 @@
+composter.compost_bin
+container.composter.compost_bin
+item.composter.compost.name
+tile.composter.compost_bin.name
+advancements.composter.make_compost.title
+advancements.composter.make_compost.description
+misc.composter.tooltip.composting.inactive
+misc.composter.tooltip.composting.active
+misc.composter.tooltip.advanced.composting.item
+misc.composter.tooltip.advanced.composting.output

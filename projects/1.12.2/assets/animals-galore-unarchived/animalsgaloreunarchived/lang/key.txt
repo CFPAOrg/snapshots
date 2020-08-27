@@ -1,0 +1,4 @@
+entity.bumblebee.name
+entity.crazyant.name
+entity.pinkworm.name
+entity.cabbagewhitecaterpillar.name

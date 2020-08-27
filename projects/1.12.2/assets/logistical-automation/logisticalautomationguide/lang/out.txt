@@ -1,0 +1,15 @@
+The Splitter is an upgraded Alternator that cuts each stack which enters it in half outputs them on opposite sides. (Note: If the stack is odd in size, the bigger half always comes out on the right)
+The Extractor is similar to a hopper and extracts items from the inventory behind it. It pulls out items in stacks of 4 and drops them onto the ground.
+The Blowtorch is a flamethrower which does three hearts of damage to the creature in front of it every two seconds.
+The Polydirectional Blowtorch is an upgraded Blowtorch which does three hearts of damage to every single creature around it every two seconds.
+The Grate is a simple block that let's small non-living entities pass through it while open. It can be controlled both by hand or via redstone.
+Introduction
+There are various useful machines you can create to automate different functions of your everyday life.
+Introduction
+Catwalks
+Catwalk Stairs
+Catwalk Pillars
+Decorational blocks are used for improving the look of the environment both inside and outside.
+Catwalks are blocks which can be suspended in mid-air to use as walkways.
+Catwalk Stairs are stairs which are designed to connect to catwalks.
+Catwalk Pillars are support pillars designed for holding up catwalks.

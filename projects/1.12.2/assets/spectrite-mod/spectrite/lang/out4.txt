@@ -1,0 +1,81 @@
+§7When attacking (#s cooldown):
+§9 Spectrite Damage II@
+§7When chopping (#s cooldown):
+§9 Chop 5 axe-effective blocks
+§7When attacking (#s cooldown):
+§9 Spectrite Damage I@
+§9 +1 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +2 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +4 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance III@
+§9 +0.5 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +1 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +2 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II@
+§7On Spectrite Arrow fired:
+§9 Bow item damage -97%
+§9 Spectrite Arrow cooldown -50%@
+§7On Spectrite Arrow fired:
+§9 Bow item damage -97%@
+§7On Spectrite Arrow fired:
+§9 Bow item damage -90%@
+§9 +4 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +8 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +16 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance III@
+§9 +2 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +4 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +8 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II@
+Increases the chance of nearby Spectrite mob spawns@
+§9 +2 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +4 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +8 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance III@
+§9 +1 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +2 Max Health

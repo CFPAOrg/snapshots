@@ -1,0 +1,85 @@
+Pink bones of the dead
+Gray bones of the dead
+Silver bones of the dead
+Cyan bones of the dead
+Purple bones of the dead
+Blue bones of the dead
+Brown bones of the dead
+Green bones of the dead
+Red bones of the dead
+Black bones of the dead
+White flag fabric
+Orange flag fabric
+Magenta flag fabric
+Light blue flag fabric
+Yellow flag fabric
+Lime flag fabric
+Pink flag fabric
+Gray flag fabric
+Silver flag fabric
+Cyan flag fabric
+Purple flag fabric
+Blue flag fabric
+Brown flag fabric
+Green flag fabric
+Red flag fabric
+Black flag fabric
+White border sticking
+Orange border sticking
+Magenta border sticking
+Blue border sticking
+Yellow border sticking
+Lime border sticking
+Pink border sticking
+Gray border sticking
+Silver border sticking
+Cyan border sticking
+Purple border sticking
+Blue border sticking
+Brown border sticking
+Green border sticking
+Red border sticking
+Black border sticking
+White ragged fabric
+Orange ragged fabric
+Magenta ragged fabric
+Light blue ragged fabric
+Yellow ragged fabric
+Lime ragged fabric
+Pink ragged fabric
+Gray ragged fabric
+Silver ragged fabric
+Cyan ragged fabric
+Purple ragged fabric
+Blue ragged fabric
+Brown ragged fabric
+Green ragged fabric
+Red ragged fabric
+Black ragged fabric
+White walker face
+Orange walker face
+Magenta walker face
+Light blue walker face
+Yellow walker face
+Lime walker face
+Pink walker face
+Gray walker face
+Silver walker face
+Cyan walker face
+Purple walker face
+Blue walker face
+Brown walker face
+Green walker face
+Red walker face
+Black walker face
+Reputation
+Faction
+Your reputation
+Killed members
+Homes destroyed
+Drops
+Backpack
+Alchemy Bag
+Creative only block for exporting dungeons. Select the area you want to export, and then save it.
+Splits the structure into 16x16x16 cubes for usually faster exportation and generation. Recommended to keep checked.
+Uses coordinates relative to the exporter block. The Selection Helper item takes care wether this is checked or not.

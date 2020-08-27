@@ -1,0 +1,133 @@
+Occurs between %START and %END.
+(Locked Mode)
+(Receiving Mode)
+(Resupply Mode)
+Has Mail
+Has Work
+Fuel
+Germlings
+Input
+Paper
+Resources
+Stamps
+Buffer
+Missing Drone
+Missing Queen or Princess
+No Frames
+Yes
+Ambrosia
+Apatite
+Apiarist's Backpack
+Apiarist's Shoes
+Apiarist's Shirt
+Apiarist's Hat
+Apiarist's Pants
+Ash
+Ash Block
+Ash Block
+Ash Block
+Ash Block
+Habitat Locator
+Minecart with Bee House
+Minecart with Apiary
+Cocoa Comb
+Darkened Comb
+Dripping Comb
+Frozen Comb
+Honey Comb
+Irradiated Comb
+Mellow Comb
+Mossy Comb
+Mysterious Comb
+Omega Comb
+Parched Comb
+Powdery Comb
+Reddened Comb
+Silky Comb
+Simmering Comb
+Stringy Comb
+Wheaten Comb
+Beeswax
+Habitat Locator
+Bituminous Peat
+Broken Pickaxe
+Broken Shovel
+Survivalist's Pickaxe
+Survivalist's Shovel
+Can
+%s Can
+Carton
+Basic Circuit Board
+Enhanced Circuit Board
+Intricate Circuit Board
+Refined Circuit Board
+Fits %s Electron Tube.
+Fits %s Electron Tubes.
+Dissipation Charge
+Use on a Rainmaker to stop the rain.
+Ice Shard
+Pulsating Dust
+Pulsating Mesh
+Scented Paneling
+Camouflaged Paneling
+Silk Wisp
+Woven Silk
+Crate
+Decaying Wheat
+Compost
+Fertilizer
+Impregnated Frame
+Proven Frame
+Untreated Frame
+Durability: %,d
+Uses: %,d
+Production: %.2fx
+Genetic Decay: %.2fx
+Cherry
+Chestnut
+Date
+Lemon
+Papaya
+Plum
+Walnut
+Bronze Gear
+Copper Gear
+Tin Gear
+Hardened Casing
+Honeydew
+Portable Analyzer
+Handheld Genetic Analyzer for bees, saplings, and butterflies.
+%s Charges
+Charged Drop
+Honey Drop
+Omega Drop
+Honeyed Slice
+Honey Pot
+Impregnated Casing
+Imprinter
+Infuser
+Bronze Ingot
+Copper Ingot
+Tin Ingot
+Iodine Capsule
+Use on a Rainmaker to make it rain.
+Pickaxe Kit
+Shovel Kit
+Letter
+Mouldy Wheat
+Mulch
+Spectacles
+Wear to see pollinated leaves and errors on multiblocks.
+Impregnated Stick
+Peat
+Phosphor
+Pipette
+Crystalline Pollen Cluster
+Pollen Cluster
+Propolis
+Pulsating Propolis
+Silky Propolis
+Sticky Propolis
+Refractory Capsule
+%s Capsule
+Refractory Wax

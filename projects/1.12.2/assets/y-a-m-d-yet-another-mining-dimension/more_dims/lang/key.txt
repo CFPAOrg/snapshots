@@ -1,0 +1,6 @@
+item.mockoverworld.name
+item.portallighter.name
+tile.overworldportal.name
+itemGroup.tabyamd
+tile.telepad.name
+item.tester.name

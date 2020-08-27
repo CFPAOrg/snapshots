@@ -1,0 +1,3 @@
+tile.amp.name
+tile.ampb.name
+tile.ampc.name

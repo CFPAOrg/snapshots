@@ -1,0 +1,88 @@
+Aluminum Ingot
+Aluminum Double Ingot
+Aluminum Scrap
+Aluminum Dust
+Aluminum Nugget
+Aluminum Sheet
+Aluminum Double Sheet
+Aluminum Tuyere
+Aluminum Pickaxe
+Aluminum Pickaxe Head
+Aluminum Shovel
+Aluminum Shovel Head
+Aluminum Axe
+Aluminum Axe Head
+Aluminum Hoe
+Aluminum Hoe Head
+Aluminum Chisel
+Aluminum Chisel Head
+Aluminum Sword
+Aluminum Sword Blade
+Aluminum Mace
+Aluminum Mace Head
+Aluminum Saw
+Aluminum Saw Blade
+Aluminum Shears
+Aluminum Shield
+Aluminum Javelin
+Aluminum Javelin Head
+Aluminum Hammer
+Aluminum Hammer Head
+Aluminum Prospector's Pickaxe
+Aluminum Prospector's Pickaxe Head
+Aluminum Knife
+Aluminum Knife Blade
+Aluminum Scythe
+Aluminum Scythe Blade
+Aluminium Lamp
+%s Aluminium Lamp
+Unshaped Aluminum
+Aluminum Chestplate
+Aluminum Greaves
+Aluminum Boots
+Aluminum Helmet
+Unfinished Aluminum Chestplate
+Unfinished Aluminum Boots
+Unfinished Aluminum Helmet
+Unfinished Aluminum Greaves
+Aluminum Anvil
+Aluminum Brass Ingot
+Aluminum Brass Double Ingot
+Aluminum Brass Scrap
+Aluminum Brass Dust
+Aluminum Brass Nugget
+Aluminum Brass Sheet
+Aluminum Brass Double Sheet
+Aluminum Brass Tuyere
+Aluminum Brass Pickaxe
+Aluminum Brass Pickaxe Head
+Aluminum Brass Shovel
+Aluminum Brass Shovel Head
+Aluminum Brass Axe
+Aluminum Brass Axe Head
+Aluminum Brass Hoe
+Aluminum Brass Hoe Head
+Aluminum Brass Chisel
+Aluminum Brass Chisel Head
+Aluminum Brass Sword
+Aluminum Brass Sword Blade
+Aluminum Brass Mace
+Aluminum Brass Mace Head
+Aluminum Brass Saw
+Aluminum Brass Saw Blade
+Aluminum Brass Shears
+Aluminum Brass Shield
+Aluminum Brass Javelin
+Aluminum Brass Javelin Head
+Aluminum Brass Hammer
+Aluminum Brass Hammer Head
+Aluminum Brass Prospector's Pickaxe
+Aluminum Brass Prospector's Pickaxe Head
+Aluminum Brass Knife
+Aluminum Brass Knife Blade
+Aluminum Brass Scythe
+Aluminum Brass Scythe Blade
+Aluminium Brass Lamp
+%s Aluminium Brass Lamp
+Unshaped Aluminum Brass
+Aluminum Brass Chestplate

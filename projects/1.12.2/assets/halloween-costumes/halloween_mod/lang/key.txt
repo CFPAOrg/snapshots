@@ -1,0 +1,13 @@
+item.scarboots.name
+item.scarlegs.name
+item.peppermint.name
+item.pumpkinbasket.name
+item.candy.name
+item.lolipop.name
+item.witherlegs.name
+item.witherhelmet.name
+item.scarhelmet.name
+item.candybowl.name
+item.scarbody.name
+item.witherbody.name
+item.witherboots.name

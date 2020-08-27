@@ -1,0 +1,128 @@
+Sugar Bag
+Bag
+Sponge Cake
+Chocolate Sponge Cake
+Coffee Sponge Cake
+Carrot Sponge Cake
+Pumpkin Sponge Cake
+Matcha Sponge Cake
+Berry Sponge Cake
+Lemon Sponge Cake
+Red Velvet Sponge Cake
+Cheese Cake
+Schwarzwald Cake
+Carrot Cake
+Red Velvet Cake
+Tiramisu
+Harvest Cake
+Matcha Cake
+Berry mix Cake
+Summer day Cake
+Latté Cake
+BLT Sandwich
+Club Sandwich
+Large BLT
+Large Club
+Bacon and egg sandwich
+Cheese Burger
+Ham and Cheese Bagel
+Round Bread
+Bagel
+Toast
+Light Roast Coffee Bean
+Light Roast Coffee Powder
+Bread Dough
+Round Bread Dough
+Bagel Dough
+Toast Dough
+Cloth
+Cake Roll
+Chocolate Cake Roll
+Coffee Cake Roll
+Carrot Cake Roll
+Pumpkin Cake Roll
+Matcha Cake Roll
+Berry Cake Roll
+Lemon Cake Roll
+Red Velvet Cake Roll
+Two Coffee Powder Bags
+Two Cocoa Bean Bags
+Two Cocoa Powder Bags
+Two Flour Bags
+Two Sugar Bags
+Two Raw Coffee Bean Bags
+Two Coffee Bean Bags
+Thermal Grinder
+Coffee Machine
+Coffee Seed
+Coffee Tree
+Ice cream Machine
+Roast Coffee Bean
+Raw Coffee Bean
+Roast Cocoa Bean
+Coffee Powder
+Cocoa Powder
+Cocoa Batter
+Flour
+Dough
+Cookie Dough
+Baguette Dough
+Chocolate Bar
+Chocolate Chip
+Baguette
+Cup
+Glass Cup
+Ice Slag
+Vanilla Seeds
+Vanilla
+Empty Syrup
+Syrup
+Caramel Syrup
+Vanilla Syrup
+Fruit Syrup
+Caramel Freddo
+Mocha Freddo
+Freddo
+Plate
+Clay Oven
+Hot Cocoa
+Thick Cocoa
+Hot Cocoa
+Thick Cocoa
+Sakura Latté
+Sakura Latté
+Iced Cocoa
+Iced Thick Cocoa
+Iced Sakura Latté
+Iced Cocoa
+Iced Thick Cocoa
+Iced Sakura Latté
+Vanilla Ice cream
+Chocolate Ice cream
+Coffee Ice cream
+Apple Ice cream
+Berry Ice cream
+Melon Ice cream
+Lemon Ice cream
+Cream
+Chocolate Cream
+Coffee Cream
+Apple Cream
+Mix berry Cream
+Lemon Cream
+Melon Cream
+Milk form
+Mixing Bowl
+Yeast
+Blueberry Bush
+Custard
+Blueberry
+Vanilla Cookie Sundae
+Chocolate Cookie Sundae
+Coffee Cookie Sundae
+Apple Cookie Sundae
+Berry Cookie Sundae
+Lemon Cookie Sundae
+Melon Cookie Sundae
+Raw Sponge Cake
+Raw Chocolate Sponge Cake

@@ -1,0 +1,40 @@
+Performance
+Particle Effects
+Enables particle effects. Note that Forestry respects Minecraft's reduced particle video settings.
+Backpack Resupply
+Enable backpack resupply. You may want to set this to false on busy servers.
+World Generation
+Retrogen
+Creates Forestry world generation in chunks that were created before the mod was added.
+Forced Retrogen
+Creates Forestry world generation in all chunks, even if they were generated there before.
+Generate Apatite
+Generates apatite ore blocks in the world.
+Generate Copper
+Generates copper ore blocks in the world.
+Generate Tin
+Generates tin ore blocks in the world.
+Ore generation Dimension Blacklist
+Disables the generation of all ore in the specified dimensions. Enter one dimension id per line.
+Beehives Generation Amount
+Sets how many beehives spawn in the world.
+Debug Beehive Generation
+Force Forestry to generate a beehive at every possible location. (This will break your world. Only useful to developers)
+Beehive Generation Dimension Blacklist
+Disables the generation of all hives in the specified dimensions. Enter one dimension id per line.
+Disables the generation of a specific hive in a specific biome or in a biome with a specific biome type. Just add the registry name of the biome or the name of the biome type to the property of the hive. Every biome type / registry name has to be in a seperate line. The global type can be used to blacklist a biome from all hive generation.
+Generate Villagers
+Generates Forestry villagers and their houses.
+Crafting
+Craft Bronze
+Enables the crafting recipe for bronze.
+Craft Stamps
+Enables the crafting recipe for stamps. Disable to use stamps as a currency.
+Disabled Stamps
+Disables the crafting recipe for certain stamps.
+Tweaks
+Mail Alert
+Enables the new mail alert box.
+Horizontal Position
+Horizontal Position of the mail alert box on the screen.
+Vertical Position

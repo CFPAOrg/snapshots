@@ -1,0 +1,13 @@
+tile.slab_stone.name
+tile.slab_stone_double.name
+tile.slab_stone_seamless.name
+tile.slab_stone_double_seamless.name
+tile.slab_gold.name
+tile.slab_gold_double.name
+tile.slab_gold_seamless.name
+tile.slab_gold_double_seamless.name
+tile.slab_diamond.name
+tile.slab_diamond_double.name
+tile.slab_diamond_seamless.name
+tile.slab_diamond_double_seamless.name
+itemGroup.pattislabs

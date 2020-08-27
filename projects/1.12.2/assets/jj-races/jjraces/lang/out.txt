@@ -1,0 +1,10 @@
+open gui configuration whit right click
+consume item mirror
+consume item comb
+enable dwarf race
+enable elf race
+enable kull race
+enable orc race
+enable grell race
+It is available for download, version
+of JJ Races

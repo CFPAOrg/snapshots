@@ -1,0 +1,113 @@
+Blue Steel Ingot
+Red Steel Ingot
+Bismuth Double Ingot
+Bismuth Bronze Double Ingot
+Black Bronze Double Ingot
+Brass Double Ingot
+Bronze Double Ingot
+Copper Double Ingot
+Gold Double Ingot
+Lead Double Ingot
+Nickel Double Ingot
+Rose Gold Double Ingot
+Silver Double Ingot
+Tin Double Ingot
+Zinc Double Ingot
+Sterling Silver Double Ingot
+Wrought Iron Double Ingot
+Pig Iron Double Ingot
+Steel Double Ingot
+Platinum Double Ingot
+Black Steel Double Ingot
+Blue Steel Double Ingot
+Red Steel Double Ingot
+Bismuth Scrap
+Bismuth Bronze Scrap
+Black Bronze Scrap
+Brass Scrap
+Bronze Scrap
+Copper Scrap
+Gold Scrap
+Lead Scrap
+Nickel Scrap
+Rose Gold Scrap
+Silver Scrap
+Tin Scrap
+Zinc Scrap
+Sterling Silver Scrap
+Wrought Iron Scrap
+Pig Iron Scrap
+Steel Scrap
+Platinum Scrap
+Black Steel Scrap
+Blue Steel Scrap
+Red Steel Scrap
+Bismuth Dust
+Bismuth Bronze Dust
+Black Bronze Dust
+Brass Dust
+Bronze Dust
+Copper Dust
+Gold Dust
+Lead Dust
+Nickel Dust
+Rose Gold Dust
+Silver Dust
+Tin Dust
+Zinc Dust
+Sterling Silver Dust
+Wrought Iron Dust
+Pig Iron Dust
+Steel Dust
+Platinum Dust
+Black Steel Dust
+Blue Steel Dust
+Red Steel Dust
+Bismuth Nugget
+Bismuth Bronze Nugget
+Black Bronze Nugget
+Brass Nugget
+Bronze Nugget
+Copper Nugget
+Gold Nugget
+Lead Nugget
+Nickel Nugget
+Rose Gold Nugget
+Silver Nugget
+Tin Nugget
+Zinc Nugget
+Sterling Silver Nugget
+Wrought Iron Nugget
+Pig Iron Nugget
+Steel Nugget
+Platinum Nugget
+Black Steel Nugget
+Blue Steel Nugget
+Red Steel Nugget
+Bismuth Sheet
+Bismuth Bronze Sheet
+Black Bronze Sheet
+Brass Sheet
+Bronze Sheet
+Copper Sheet
+Gold Sheet
+Lead Sheet
+Nickel Sheet
+Rose Gold Sheet
+Silver Sheet
+Tin Sheet
+Zinc Sheet
+Sterling Silver Sheet
+Wrought Iron Sheet
+Pig Iron Sheet
+Steel Sheet
+Platinum Sheet
+Black Steel Sheet
+Blue Steel Sheet
+Red Steel Sheet
+Bismuth Double Sheet
+Bismuth Bronze Double Sheet
+Black Bronze Double Sheet
+Brass Double Sheet
+Bronze Double Sheet
+Copper Double Sheet

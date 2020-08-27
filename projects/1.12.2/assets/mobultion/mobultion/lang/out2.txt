@@ -1,0 +1,14 @@
+A fireball-like item that will fire directly without placing it first. Upon hitting an entity will affect it with Hypnotizing effect.
+An arrow that will burn the entity upon hit and will turn sand to glass or water into cobble (configurable) but is destroyed afterwards.
+A drop by the sorcerer spider used to create the sorcerer breath. Can be eaten to give a random potion effect (vanilla or modded) but does not give any saturation bars.
+Wow, how many spiders have you killed to get this and for what?. This can be used to brew hypnotizing potion that will randomly push the affected entity.
+Why is it not black like the wither?? I do not know too. Drops from the wither spider and can be smelted to dry the mallow and to use the ashes as a brewing ingredient.
+Ashes that can be used to brew wither potions and wither arrows.
+Flesh pieces dropped from you chopping the poor pigmen. \nCan be used to craft pigsheath armor.
+A stinky disgusting armor that will help the player to avoid the rage of the pigmen. \nWill attract ocelots (non-tamed) and will make pigmen loyal to the player wearing a full set of this armor, defending the player against those who attack him.
+A piece of the fallen magma spiders which can be rejoined to form a nether ruby. \nCan be eaten?!
+A burning jewel from the deep nether that is necessary to craft the pigsheath helmet.
+A wand shaped by odin himself. After stealing it from the hands of the wanderer you can finally use to shot lightning bolts and kill everything (until it run out of juice and you end up traveling all night waiting for another storm).
+Why would you read what a hat would do?? It does nothing, jeeez.
+A Healer and a blesser that heals damaged spiders and gives spiders a blessing effect that has 50% chance to revive the spider upon death (similar to the totem of undying, but for spiders).
+A master of the mind with the ability to shot confusing projectiles to confuse the player making the player shake and move a bit (not nausea). The projectiles do some damage (between 1.5 to 2.5 hearts) so be careful.

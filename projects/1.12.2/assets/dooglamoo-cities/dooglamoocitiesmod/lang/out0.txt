@@ -1,0 +1,87 @@
+Farm
+Lumber Mill
+Quarry
+Fishery
+Garden
+Ranch
+Distributor
+Warehouse
+Bulldozer
+Large Tower
+Tower
+Large Factory
+Factory
+Office
+Road
+Intersection
+Carpenter
+Bakery
+Empty Large Lot
+Blacksmith
+Mine Shaft
+Textile
+Stonemason
+Craftsman
+Seller
+Buyer
+Tax Collector
+Cheater
+Coin Pouch
+Survey Tool
+Dooglamoo Cities
+Quality
+City Explorer Map
+Sapling
+food good enough to eat
+raw food to cook
+%s Low on %s
+%s Can't afford %s
+Inventory full
+Job completed!
+Doesn't know what color to dye %s
+This area is already in use
+Went out of business!
+Not equipped to export %s
+Not equipped to import %s
+Exported $%d %s
+Imported $%d %s
+Needs a slab to specify structure block type
+Doesn't know what kind of wood plank flooring to use
+Doesn't know what kind of stone or prismarine to use
+Doesn't know what kind of stained glass block to use
+Doesn't know what kind of lighting (%s) to use
+Doesn't know what kind of carpet to use
+This area is not secure
+We are being invaded!
+This location has too few farmable blocks: %d/%d
+Severe drought has hit our area!
+This location does not have enough water: %d/%d
+This location has too few plantable blocks: %d/%d
+Fire has started in our area!
+Mining stopped at level %d by %s
+Miners need proper tools to mine %s
+Loggers need proper tools to chop %s
+Farmers need proper tools to till %s
+This location has too few grass blocks: %d/%d
+This location has too few plantable/harvestable blocks: %d/%d
+Blight has spread through our area!
+in range: %s
+  <name distance inventory coins>
+City Founding
+Establishing industries and gathering resources
+City Building
+Placing infrastructure and growing the economy
+Elected Mayor
+Craft a coin pouch
+Agricultural Beginnings
+Place a Farm
+Renewable Lumber
+Place a Lumbermill
+Fishy Business
+Place a Fishery near some water
+A World of Color
+Place a Garden
+Carving out the Future
+Craft a Carpenter
+Going Underground
+Place a Mineshaft

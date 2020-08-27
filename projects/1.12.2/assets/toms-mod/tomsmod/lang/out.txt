@@ -1,0 +1,44 @@
+/tm_server_waypoint remove <waypoint name> <group>
+/tm_waypoint remove <waypoint name> <group> <player name>
+/tm_research <give|take> <name|*> [player] | /tm_research <clearScans>
+Unknown research '%s'
+Player %s already has research %s
+Player %s doesn't have research %s
+Successfully given all researches to %s
+Successfully given %s the research %s
+Successfully taken all researches from %s
+Successfully taken the research %s from %s
+/tm_reload
+Successfully reloaded Tom's Mod configs and recipes.
+Time to Research
+Craft a Research Table.
+This is not basic tap
+Craft a Tree Tap.
+Getting insulated
+Put a glass bottle on a tree tap wait until its full.
+Scientist
+Fluix
+White
+Orange
+Magenta
+Light Blue
+Yellow
+Lime
+Pink
+Gray
+Light Gray
+Cyan
+Purple
+Blue
+Brown
+Green
+Red
+Black
+Center
+North
+South
+East
+West
+Up
+Down
+Energy Type:

@@ -1,0 +1,15 @@
+tile.lowdenselapisore.name
+tile.lowdenseredstoneore.name
+tile.mediumcoalore.name
+tile.mediumgoldore.name
+tile.highdenseironore.name
+tile.lowgolodore.name
+tile.highgoldore.name
+tile.denseironoremedium.name
+tile.mediumdenseredstoneore.name
+tile.lowcoalore.name
+tile.highdenseredstoneore.name
+tile.highdenselapisore.name
+tile.lowdenseironore.name
+tile.mediumdenselapisore.name
+tile.highcoalore.name

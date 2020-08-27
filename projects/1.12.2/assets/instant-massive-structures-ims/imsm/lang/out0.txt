@@ -1,0 +1,102 @@
+Live Structure Remover
+Magic Pyramid Block
+Magic Tower Block
+Magic Enchantment Room Block
+Magic Lighthouse Block
+Magic House Block
+Magic Wooden Pen Block
+Magic Iron Pen Block
+Magic Netherbrick Pen Block
+Magic Huge Tree Block
+Magic Wheat Farm Block
+Magic Storehouse Block
+Magic Trapped House Block
+Magic Trapped House Block
+Magic Waterslide Block
+Magic Bunker Block
+Magic Arena Block
+Magic Lava-Arena Block
+Magic Sugar Cane Farm Block
+Magic Melon Farm Block
+Magic Pumpkin Farm Block
+Magic Prison Block
+Magic Prison Block
+Magic Rollercoaster Block
+Magic Skyscraper Block
+Magic Torchpattern Block
+Magic Airplane Block
+Magic Boat Block
+Magic Airballoon Block
+Magic Plane Block
+Magic Dungeon Block
+Magic Huge Pyramid Block
+Magic CastleTower Block
+Magic Haunted House Block
+Magic Mega Skyscraper Block
+Magic House Block
+Magic House Block
+Magic Stadium Block
+Magic Floating Sphere Block
+Magic Stadium Block
+Magic Rollercoaster Block
+Magic Column Block
+Magic Glass House Block
+Magic Standard Brick House Block
+Magic Street Block
+Magic Shelter Block
+Grass
+Park East
+Parking Garage East
+Parking Garage North
+Parking Garage South
+Parking Garage West
+Parking Lots East
+Parking Lots North
+Parking Lots South
+Parking Lots West
+Park North
+Park South
+Park West
+Plaza Fountain
+Plaza
+Soccer Stadium East-West
+Soccer Stadium North-South
+Square
+Square Tree East
+Square Tree North
+Square Tree South
+Square Tree West
+Carrots East-West
+Carrots North-South
+Farm East
+Farm North
+Farm South
+Farm West
+Potatoes
+Stable East-West
+Stable North-South
+Wheat
+Blue East
+Blue North
+Blue South
+Blue West
+Brick East
+Brick North
+Brick South
+Brick West
+Chimney East
+Chimney North
+Chimney South
+Chimney West
+Computer Chip East
+Computer Chip North
+Computer Chip South
+Computer Chip West
+Green East
+Green North
+Green South
+Hardened Clay West
+Light Blue East
+Light Blue North
+Light Blue South
+Light Blue West

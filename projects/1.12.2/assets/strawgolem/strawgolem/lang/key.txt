@@ -1,0 +1,3 @@
+entity.strawgolem.name
+strawgolem.general.replantenabled
+strawgolem.general.lifespan

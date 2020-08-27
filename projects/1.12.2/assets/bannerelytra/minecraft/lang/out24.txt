@@ -1,0 +1,101 @@
+Must be an opped player in creative mode
+Press %1$s to dismount
+Height limit for building is %s blocks
+When in main hand:
+When in off hand:
+When on feet:
+When on legs:
+When on body:
+When on head:
++%s %s
++%s%% %s
++%s%% %s
+-%s %s
+-%s%% %s
+-%s%% %s
+%s %s
+%s%% %s
+%s%% %s
+Horse Jump Strength
+Zombie Reinforcements
+Max Health
+Mob Follow Range
+Knockback Resistance
+Speed
+Attack Damage
+Attack Speed
+Luck
+Armor
+Armor Toughness
+Saved screenshot as %s
+Couldn't save screenshot: %s
+Black Banner
+Red Banner
+Green Banner
+Brown Banner
+Blue Banner
+Purple Banner
+Cyan Banner
+Light Gray Banner
+Gray Banner
+Pink Banner
+Lime Banner
+Yellow Banner
+Light Blue Banner
+Magenta Banner
+Orange Banner
+White Banner
+Shield
+Black Shield
+Red Shield
+Green Shield
+Brown Shield
+Blue Shield
+Purple Shield
+Cyan Shield
+Light Gray Shield
+Gray Shield
+Pink Shield
+Lime Shield
+Yellow Shield
+Light Blue Shield
+Magenta Shield
+Orange Shield
+White Shield
+Black Base Dexter Canton
+Red Base Dexter Canton
+Green Base Dexter Canton
+Brown Base Dexter Canton
+Blue Base Dexter Canton
+Purple Base Dexter Canton
+Cyan Base Dexter Canton
+Light Gray Base Dexter Canton
+Gray Base Dexter Canton
+Pink Base Dexter Canton
+Lime Base Dexter Canton
+Yellow Base Dexter Canton
+Light Blue Base Dexter Canton
+Magenta Base Dexter Canton
+Orange Base Dexter Canton
+White Base Dexter Canton
+Black Base Sinister Canton
+Red Base Sinister Canton
+Green Base Sinister Canton
+Brown Base Sinister Canton
+Blue Base Sinister Canton
+Purple Base Sinister Canton
+Cyan Base Sinister Canton
+Light Gray Base Sinister Canton
+Gray Base Sinister Canton
+Pink Base Sinister Canton
+Lime Base Sinister Canton
+Yellow Base Sinister Canton
+Light Blue Base Sinister Canton
+Magenta Base Sinister Canton
+Orange Base Sinister Canton
+White Base Sinister Canton
+Black Chief Dexter Canton
+Red Chief Dexter Canton
+Green Chief Dexter Canton
+Brown Chief Dexter Canton
+Blue Chief Dexter Canton

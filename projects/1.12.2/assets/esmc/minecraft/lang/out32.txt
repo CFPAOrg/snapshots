@@ -1,0 +1,124 @@
+Evoker prepares attack
+Evoker prepares summoning
+Evoker prepares charming
+Experience gained
+Firework blasts
+Firework launches
+Firework twinkles
+Something fell
+Burning
+Dying
+Sipping
+Eating
+Explosion
+Fire extinguishes
+Something hurts
+Something tripped
+Splashing
+Swimming
+Ghast cries
+Ghast dies
+Ghast hurts
+Ghast shoots
+Guardian flaps
+Guardian moans
+Guardian shoots
+Guardian curses
+Guardian dies
+Guardian flops
+Guardian hurts
+Horse neighs
+Horse neighs
+Horse armor equips
+Horse breathes
+Horse dies
+Horse eats
+Horse gallops
+Horse hurts
+Horse jumps
+Saddle equips
+Husk groans
+Husk dies
+Husk hurts
+Illusioner murmurs
+Illusioner casts spell
+Illusioner dies
+Illusioner hurts
+Illusioner displaces
+Illusioner prepares blindness
+Illusioner prepares mirror image
+Iron Golem attacks
+Iron Golem dies
+Iron Golem hurts
+Item breaks
+Item plops
+Item Frame fills
+Item Frame breaks
+Item Frame placed
+Item Frame empties
+Item Frame clicks
+Leash knot breaks
+Leash knot tied
+Lightning strikes
+Thunder roars
+Llama bleats
+Llama bleats angry
+Llama Chest equips
+Llama dies
+Llama eats
+Llama hurts
+Llama spits
+Llama steps
+Llama is decorated
+Magma Cube dies
+Magma Cube hurts
+Magma Cube squishes
+Minecart rolls
+Mule hee-haws
+Mule Chest equips
+Mule dies
+Mule hurts
+Painting breaks
+Painting placed
+Pig oinks
+Pig dies
+Pig hurts
+Saddle equips
+Burp
+Player dies
+Player hurts
+Player dings
+Polar Bear groans
+Polar Bear hums
+Polar Bear dies
+Polar Bear hurts
+Polar Bear roars
+Bottle smashes
+Bottle thrown
+Rabbit squeaks
+Rabbit attacks
+Rabbit dies
+Rabbit hurts
+Rabbit hops
+Sheep baahs
+Sheep dies
+Sheep hurts
+Shulker lurks
+Shulker closes
+Shulker dies
+Shulker hurts
+Shulker opens
+Shulker shoots
+Shulker teleports
+Shulker bullet explodes
+Shulker bullet breaks
+Silverfish hisses
+Silverfish dies
+Silverfish hurts
+Skeleton rattles
+Skeleton dies
+Skeleton hurts
+Skeleton shoots
+Skeleton Horse cries
+Skeleton Horse dies
+Skeleton Horse hurts

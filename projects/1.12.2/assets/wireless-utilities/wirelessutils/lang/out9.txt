@@ -1,0 +1,99 @@
+the filter items.
+This option is incompatible with
+other filtering modes.
+This option is incompatible with Match Mod.
+Fall Protection:
+Disabled
+Enabled
+When enabled, the Vaporizer will
+use a bit more energy to ensure
+that whatever it launches won't
+take any damage when it lands.
+---
+No
+Yes
+---
+Children
+Adults
+Ignore
+Collect till Full
+Collect then Void
+Void All
+Edit
+Save
+Clear
+Ctrl-click this button to clear this card.
+Lock Slots
+Clear Slot Locks
+Lock
+Unlock
+Lock with %s
+Lock: %s
+Round Robin
+Nearest First
+Furthest First
+Random
+Range
+Offset
+Show Working Area
+Hide Working Area
+Scroll to change colors.
+Range:
+Cost:
+%s (%s mB)
+Vertical:
+Horizontal:
+Volume:
+Max Volume:
+Height:
+Length:
+Width:
+Inventory Crafting
+Not Active
+Input: %s
+Using: %s mB of %s
+Using: %s RF
+Output: %s
+Click for Recipes
+Work Buffer
++%s/tick
+-%s/action
+This item cannot be removed.
+Max: %s
+Min: %s
+Range: %s to %s
+X: %s Y: %s Z: %s D: %s
+X: %s Y: %s Z: %s
+Side: %s
+Dim: %s
+Dim: %s (%s)
+%s (Configured)
+%s (Locked)
+This item is locked and cannot be reconfigured.
+%s (%s)
+Tier %s
+Creative
+This item will upgrade machines
+from %s to %s.
+This item will upgrade any
+machine to %s in one step.
+This item cannot be removed until
+all higher tiers of the item have
+also been removed.
+This item cannot be installed until
+all lower tiers of the item have
+been installed.
+Voiding Fluids
+%d of %d Channels
+Installed %s into %s.
+Could not install %s into %s.
+/wu_profile <start/stop>
+The Wireless Utilities profiler is already running.
+Started the Wireless Utilities profiler.
+The Wireless Utilities profiler is not running.
+Stopped the Wireless Utilities profiler after %s seconds (%s ticks).
+/wu_voidgen <entity-id> [crystallized:true/false] [entityTag]
+Entity tag parsing failed: %s
+No such entity: %s
+Created Void Pearl: %s
+/wu_fluidgen <held OR fluid-name> <mB/t> <energy> [color OR -] [fluidTag]

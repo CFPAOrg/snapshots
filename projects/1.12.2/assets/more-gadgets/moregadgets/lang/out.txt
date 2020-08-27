@@ -1,0 +1,59 @@
+Burnt Lapis Dust
+Air Filter
+Wooden Rebreather
+Stone Rebreather
+Iron Rebreather
+Gold Rebreather
+Diamond Rebreather
+Emerald Rebreather
+Wither Bread
+Ender Dragon Bread
+Soul Binder
+Fragment of a Soul
+Incomplete Soul Ripping Book
+Wooden Lucky Horseshoe
+Stone Lucky Horseshoe
+Iron Lucky Horseshoe
+Gold Lucky Horseshoe
+Diamond Lucky Horseshoe
+Emerald Lucky Horseshoe
+Shapeshifter's Tool Bag
+Heat Treated Soul Ripping Book
+§bAir:§7 %dx
+Improves sight & mining speed underwater
+§dSoulbound§r
+§8 - Press %s for more info§r
+§8 - %d%% chance to rip a piece of the soul from a dying enemy§r
+Your body is not ready to gain extra health from eating this
+You can gain §c+%d max hp§7 of §c%d hp§r
+You cannot gain more max hp
+Heals: §c%d§r
+Dropped by mobs killed with the §d%s§7 enchantment
+Created by throwing §9%s§7 into fire.
+Avoids death and gives the player health.
+Health given: %d
+Cooldown: %ds
+Throw into fire to get a enchanted %s§7 book
+Combine with any item stack of any size to soulbind the stack.
+§6Shapeshifter item 
+ §6- %s + right click to open
+§cSomething went wrong when enchanting, enchantment should have been %s. §cRight click item to correct the problem.
+Sometimes dropped by monsters killed with a weapon enchanted with the §dSoul Ripping§r enchantment.
+Used for items that have an impact on the soul.
+Prevents the item from dropping upon death. It will follow you through death.
+Current supported inventories are:
+All other inventories will add the soulbound items to the main player inventory, or if that is full, drop them on the ground where you died. They might be pe put into a gravestone, depending on the gravestone mod.
+ - Main player inventory
+ - Offhand slot
+ - Armor slots
+ - Baubles inventory
+ - Galacticraft extended player inventory
+§dSoul Ripping
+Cooldown
+Fire Recipes
+More Gadgets
+More Gadgets
+Server
+Client
+Use the custom health bar
+Soul fragment drop chance

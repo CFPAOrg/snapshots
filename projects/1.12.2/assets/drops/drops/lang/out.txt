@@ -1,0 +1,5 @@
+Drop will spawn midnight at
+Drop spawned at
+A drop will spawn on the next night.
+Drop has been captured at
+Drop was not captured. Removing drop at

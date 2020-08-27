@@ -1,0 +1,30 @@
+Smelter
+Harvesting a block gives you the smelted result of it. Works with fortune.
+Empowered Defence
+Empowers the shield's defence. Gives you a chance to negate shield from being disabled and being damaged while knockbacking the attacker farther and damages them based on their attack damage.
+Strafe
+Increases bow draw speed.
+Critical Strike
+Gives your attack a chance to deal extra damage based on your attack damage. Uses pseudo-random distribution instead of true random distribution.
+Rune: Resurrection
+When the user (must be a player) dies, they will respawn at their death point with their items intact.
+Ash Destroyer
+Deals extra damage if the enemy is on fire.
+Viper
+Deals extra damage to targets with poison and/or wither. 
+Desolator
+Attacks have a chance to apply negative resistance. If target has positive resistance active, gives extra damage instead. Also applies weakness.
+Disorientating Blade
+Attacks have a chance to disorient (applies potion effect related to disorientation). Also distrubs the victim's view (yaw and pitch).
+Envenomed
+Attacks apply poison and wither. Poison depends whether if its applicable to a mob or not.
+Levitator
+Attacks now applies levitation and increases fallen distance of the victim.
+Rune: Revival
+Gives the item a chance to resurrect if the item is about to be destroyed depending on the level. The durability restored is also depending on the level   
+Subject Mathematics
+One of the subject enchantments. Gives extra damage to all like sharpness and also gives you additional damage based on the target's hp.
+Subject Science
+Attacks have a chance to explode! Dealing massive damage to the target and nearby entities around it. The owner doesn't take the blast damage and the explosion doesn't damage the terrain. 
+Subject English
+One of the subject enchantments. Aside from the first extra damage, gives you additional damage on mobs that are 'smarter'(e.g. villagers, wolves, zombie pigmen, snow golems, and etc.). 

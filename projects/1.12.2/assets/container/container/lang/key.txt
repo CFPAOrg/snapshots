@@ -1,0 +1,9 @@
+item.container.compress_upgrade.name
+item.container.pickup_upgrade.name
+item.container.queue.name
+item.container.stack.name
+tile.container.bank.name
+tile.container.dock.name
+text.sort
+tooltip.container.itemstack.item
+tooltip.container.itemstack.remaining

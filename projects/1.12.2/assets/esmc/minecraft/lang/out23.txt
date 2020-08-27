@@ -1,0 +1,44 @@
+Could not spread %s player(s) around %s, %s (too many players for space - try using spread of at most %s)
+/recipe <give|take> [player] <name|*>
+Player %s already has a recipe for %s
+Player %s doesn't have the recipe for %s
+Successfully given all recipes to %s
+Successfully given %s the recipe for %s
+Successfully taken all recipes from %s
+Successfully removed the recipe for %s from %s
+%s is an unknown recipe
+%s is an unsupported recipe
+/worldborder <set|center|damage|warning|get|add> ...
+/worldborder add <sizeInBlocks> [timeInSeconds]
+/worldborder set <sizeInBlocks> [timeInSeconds]
+Set world border to %s blocks wide (from %s blocks)
+World border is currently %s blocks wide
+Shrinking world border to %s blocks wide (down from %s blocks) over %s seconds
+Growing world border to %s blocks wide (up from %s blocks) over %s seconds
+/worldborder center <x> <z>
+Set world border center to %s, %s
+/worldborder damage <buffer|amount> ...
+/worldborder damage buffer <sizeInBlocks>
+Set world border damage buffer to %s blocks (from %s blocks)
+/worldborder damage amount <damagePerBlock>
+Set world border damage amount to %s per block (from %s per block)
+/worldborder warning <time|distance> ...
+/worldborder warning time <seconds>
+Set world border warning to %s seconds away (from %s seconds)
+/worldborder warning distance <distance>
+Set world border warning to %s blocks away (from %s blocks)
+/title <player> title|subtitle|actionbar|clear|reset|times ...
+/title <player> title|subtitle|actionbar <raw json title>
+/title <player> clear|reset
+/title <player> times <fadeIn> <stay> <fadeOut>
+Title command successfully executed
+/stopsound <player> [source] [sound]
+Source %s is unknown
+Stopped sound '%s' with source '%s' for %s
+Stopped source '%s' for %s
+Stopped all sounds for %s
+/locate <feature>
+Located %s at %s (y?) %s
+Unable to locate any %s feature
+Building Blocks
+Decoration Blocks

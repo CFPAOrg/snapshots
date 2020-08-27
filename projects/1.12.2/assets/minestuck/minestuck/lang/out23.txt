@@ -1,0 +1,19 @@
+Set this to true to have back all old 2D item models.
+Display Color Selector on Login
+This option determines if the color selector should be displayed when entering a save file for the first time.
+Adapt Entry Block Height
+When on, you will be moved up on entry enough to make the top transferred non-air block placed at y:128 and all blocks above it ignored. (Which shouldn't be troubling as the ignored blocks should be handled as air) This will however make the entering the medium take slightly longer time.
+Allow Secondary Connections
+If this is set to true, other players in your session are allowed to act as your server player temporarily.
+Disable Grist Widget
+If you want to disable grist widgets because of exploits caused by other mods, you can do it here.
+Alchemy Grist Icons
+Replaces grist names in the alchemiter/grist widget with icons, and makes the entries adapt to each others length.
+Data Checker Permission
+Determines who's allowed to access the data checker. "No One": No one is allowed. "Only Operators": only those with a command permission of level 2 or more may access the data ckecker. (for single player, that would be if cheats are turned on) "Only Creative And Spectator": Only players with the creative or spectator gamemode may view the data checker. "Operators, Creative and Spectator": Only non-op survival/adventure players are prevented from using the data checker. "Anyone": No access restrictions are used.
+Vanilla Ore Drop
+If this is true, the custom vanilla ores added by this mod will drop the standard vanilla ores when mined, instead of the custom type.
+Pre-entry Rung Limit
+The highest rung you can get before entering medium. Note that the first rung is indexed as 0, the second as 1 and so on.
+Show Echeladder Progress
+If this is true, players will be able to see their progress towards the next rung. This is server side and will only be active in multiplayer if the server/Lan host has it activated.

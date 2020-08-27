@@ -1,0 +1,28 @@
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+Arrow Target
+Machine Button
+Fenced Machine Button
+Industrial Pull Handle Button
+Industrial Foot Button
+Industrial Button
+Old Fancy Button
+Old Fancy Chain Button
+Pulse Switch
+Small Old Fancy Button
+Rustic Button
+Rustic Small Button
+Rustic Chain Button
+Pulse switch
+Pulse switch
+Pulse switch
+Rustic Nail Button
+Glass Button
+Small Glass Button
+Glass Touch Button
+§6A switch that outputs a redstone signal for a short time, like a button.\n§r
+§6A target that emits a redstone pulse to the block it is attached to when it is hit with an arrow or activated by hand.\n§r\
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}

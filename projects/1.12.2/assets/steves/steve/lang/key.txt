@@ -1,0 +1,7 @@
+entity.newsteve.name
+item.spawnnewsteve.name
+itemGroup.tabsteves
+item.spawnadvancedsteve.name
+entity.prosteve.name
+entity.advancedsteve.name
+item.spawnprosteve.name

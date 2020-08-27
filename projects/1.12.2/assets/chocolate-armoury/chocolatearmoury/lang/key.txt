@@ -1,0 +1,10 @@
+item.wooden_dagger.name
+item.stone_dagger.name
+item.iron_dagger.name
+item.diamond_dagger.name
+item.golden_dagger.name
+item.wooden_katana.name
+item.stone_katana.name
+item.iron_katana.name
+item.diamond_katana.name
+item.golden_katana.name

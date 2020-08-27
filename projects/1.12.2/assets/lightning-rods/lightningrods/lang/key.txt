@@ -1,0 +1,5 @@
+language.name
+language.region
+language.code
+tile.lightningrods.lightning_rod.name
+itemGroup.lightningrods

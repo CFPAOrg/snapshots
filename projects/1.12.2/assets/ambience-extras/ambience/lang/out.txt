@@ -1,0 +1,47 @@
+Soundnizer
+Confirm
+Delete Region
+Save Region
+Show Region
+Region Name:
+Name
+Instant Play?
+Select Sound:
+Play at night?
+Position
+You must be inside a selected region to create!
+Configures a region to play a sound.
+Plays a sound when activated by redstone
+Plays a sound and flashs light when activated by redstone
+Sacred bell from the Consil of WaterSheep
+Alarm
+Alarm White
+Alarm Red
+Alarm Orange
+Alarm Yellow
+Alarm Lime
+Alarm Green
+Alarm Light Blue
+Alarm Cyan
+Alarm Blue
+Alarm Purple
+Alarm Magenta
+Alarm Pink
+Alarm Brown
+Alarm Lit
+Alarm Red Lit
+Alarm Orange Lit
+Alarm Yellow Lit
+Alarm Lime Lit
+Alarm Green Lit
+Alarm Light Blue Lit
+Alarm Cyan Lit
+Alarm Blue Lit
+Alarm Purple Lit
+Alarm Magenta Lit
+Alarm Pink Lit
+Alarm Brown Lit
+Speaker
+Bell of Consil of WaterSheep
+Reload the configs from Ambience
+Ambience

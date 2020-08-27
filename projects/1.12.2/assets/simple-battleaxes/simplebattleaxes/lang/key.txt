@@ -1,0 +1,5 @@
+item.wooden_battleaxe.name
+item.golden_battleaxe.name
+item.stone_battleaxe.name
+item.iron_battleaxe.name
+item.diamond_battleaxe.name

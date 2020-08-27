@@ -1,0 +1,4 @@
+Medaillon_ToolTip
+tile.travelmedaillonblock.name
+itemGroup.tabganlihongszeldatab
+item.travelmedaillon.name

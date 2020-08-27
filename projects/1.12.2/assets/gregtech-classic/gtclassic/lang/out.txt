@@ -1,0 +1,44 @@
+A chest-sized Buffer!
+Moves fluids from A to B
+A Buffer for managing fluids
+Does an "ok" job of turning things to dust...
+Does a great job of turning things to dust!
+Transmits redstone wirelessly within dimensions
+Install a Sensor Stick to set receiver position.
+Receives redstone signals from transmitters
+Relays attached inventories and tanks
+Cannot be attached to other extenders!
+A Buffer, which uses OrePrefixes to filter
+A Filter, which also buffers Items!
+Electric Cobble Generator Mk IV
+Displays Things
+Install a Sensor Stick to set target location.
+Sneak click empty handed to invert
+Test Text
+Sort Inventory
+Not Enough Power
+Structure is complete!
+Structure is not valid!
+Upload to Chest
+Download to Data Orb
+Absorb Player XP
+Absorb Lingering Potions
+Absorb End Portal Energy
+Warning only one per Portal!
+Clear Memory
+Scan Item
+Clear Target Item
+Shift crafting grid items into player inventory
+Shift crafting grid items into main inventory
+Emit Energy
+Emit Redstone
+Invert Redstone
+Invert Filter
+Ignore Nbt
++ 64
++ 1
+- 1
+- 64
+Use Redstone or Quartz to modulate Stone Types.
+%s EU
+GT-Classic

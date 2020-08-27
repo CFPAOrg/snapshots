@@ -1,0 +1,16 @@
+item.ashkantoboots.name
+item.mistyboots.name
+item.mistybody.name
+item.brockboots.name
+item.brockbody.name
+item.teamrocketgruntlegs.name
+item.brocklegs.name
+item.ashkantobody.name
+item.teamrocketgruntbody.name
+item.ashkantohelmet.name
+item.teamrocketgruntboots.name
+item.mistylegs.name
+item.teamrocketgrunthelmet.name
+itemGroup.tabpixelmonclothes
+item.ashkantolegs.name
+item.brock_trusty_frying_pan.name

@@ -1,0 +1,13 @@
+item.star_Fragment.name
+item.star_pickaxe.name
+item.star_axe.name
+item.star_shovel.name
+item.star_hoe.name
+item.star_sword.name
+item.star_helmet.name
+item.star_chestplate.name
+item.star_leggings.name
+item.star_boots.name
+tile.Quartz_blockc1.name
+tile.Quartz_blockc2.name
+tile.Star_block.name

@@ -1,0 +1,9 @@
+tile.fourleafclover.name
+item.bamboo.name
+tile.tskltlamp.name
+item.bambooknife.name
+tile.taskltlamp.name
+tile.ltb.name
+tile.jackoscarecrow.name
+tile.bushflowerpot.name
+tile.leavesflowerpot.name

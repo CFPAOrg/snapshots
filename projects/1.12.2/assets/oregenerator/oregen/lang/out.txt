@@ -1,0 +1,13 @@
+Crush Time: %s
+Spawns at:
+Maximum: %s
+Minimum: %s
+Dimension: %s
+Ore is disabled in the config
+A Crusher running on Coal or any other valid fuel source. \nEach of this mods Ore, Iron Ore and Gold Ore will output 2 dusts which can be smelted into an ingot each. \nIngots can be crushed into 1 dust. There is also a handful of other recipes available for the crusher.
+A Crusher running on Coal or any other valid fuel source. \nEach of this mods Ore, Iron Ore and Gold Ore will output 1 Dirty Chunk which can be used in another mod to clean them or be smelted into an ingot. \nIngots can be crushed into 1 dust. There is also a handful of other recipes available for the crusher.
+Base upgrade needed to craft other upgrades.
+This upgrade allows items to be put into and out of the Crusher with a Hopper and pipes.\nTop: Input of items.\nSide: Input of fuel\nBottom: Output of result.
+This upgrade disables the crushing sound. \nIt's a pleasure to your ears.
+This upgrade doubles the operational speed of the crusher.
+This upgrade can be installed by right-clicking it on the Crusher.

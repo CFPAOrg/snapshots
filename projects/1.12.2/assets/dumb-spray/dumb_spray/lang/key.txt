@@ -1,0 +1,15 @@
+effect.dumb_spray.regular_dumbness
+effect.dumb_spray.super_dumbness
+potion.effect.regular_dumbness
+potion.effect.super_dumbness
+lingering_potion.effect.regular_dumbness
+lingering_potion.effect.super_dumbness
+splash_potion.effect.regular_dumbness
+splash_potion.effect.super_dumbness
+tipped_arrow.effect.regular_dumbness
+tipped_arrow.effect.super_dumbness
+config.dumb_spray.enable_brewing_recipes
+config.dumb_spray.enable_brewing_recipes.tooltip
+config.dumb_spray.enable_dumb_command
+config.dumb_spray.enable_dumb_command.tooltip
+commands.dumb_spray.dumb.usage

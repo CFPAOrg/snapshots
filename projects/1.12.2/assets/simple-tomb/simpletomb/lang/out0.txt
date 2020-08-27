@@ -1,0 +1,47 @@
+Simple Grave
+Cross Grave
+Normal Grave
+Tombstone
+Grave Key
+R.I.P.
+died on
+Only owner has access
+The tomb disappears!
+You have recovered your lost items
+You need a key!
+This is the wrong key!
+No grave appeared as there were no items to be stored
+Your items lie on the ground; this place is not intended for graves
+There was nowhere to place the grave!
+The grave could not be placed!
+Tomb created at: %s
+[name:"Grave", x:%d, y:%d, z:%d, dim:%d]
+There's no save to restore
+Days: %d
+Distance: %d [%d, %d, %d] in dimension %d
+General
+Miscellaneous options
+Whether to handle player death
+Whether to log the positions of players' graves
+Whether to require a Grave's Key to access graves
+Whether to always give players a Grave's Key on death
+Allows teleportation to other dimensions
+Enables PvP mode, which allows players to open graves of players they kill
+The radius in which items should be collected when a grave is spawned
+The duration of the Ghostly Shape effect in seconds
+Whether to cancel the Ghostly Shape effect on breaking a block or opening a chest
+The chance that some items are lost on death
+The percentage of items that are lost on death
+Prevents death outside of world borders
+Whether graves should be allowed to bypass anti-griefing rules
+Unhandled Beneficial Effects
+Beneficial effects that can't used by certain features such as ânkh of pray, lollipop, scroll of preservation, alchemy perk and magic siphon enchantment
+Unhandled Harmful Effects
+Harmful effects that can't used by certain features such as tablet of cupidity and the enchantment plague bringer
+Replaceable blocks
+Blocks that can be replaced by graves
+Graveless Areas
+Coordinates where graves shouldn't spawn
+The chance that creatures appear after the contents of a grave are retrieved
+The Halloween features also happen outside the dates of the event
+Allows players to be hurt by special damages related to some items

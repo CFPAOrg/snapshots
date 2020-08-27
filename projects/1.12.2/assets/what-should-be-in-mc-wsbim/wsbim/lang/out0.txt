@@ -1,0 +1,84 @@
+What Should Be in Minecraft Settings
+WSBIM Settings
+Storage
+Tip: Hit (U) on your keyboard to view options for What Should Be in Minecraft
+Modify color for option
+Set Defaults
+Set All Defaults
+Open Config
+Options for What Should Be in Minecraft
+WSBIM Core Options
+More UI Settings
+UI Color Settings
+WARNING
+Warning
+You are about to reset all options
+Are you sure you want to do this?
+You are about to reset:
+Are you sure?
+One or more options on this page are
+SERVER side only, and the changes you
+make are only for Singleplayer or if
+you are hosting a LAN world.
+Hit "Done" to save + continue.
+You will be redirected out of minecraft to curseforge.
+You will be installing a new version for the mod:
+into your mods folder under the name:
+Clicking "Yes" will start the download.
+Red
+Green
+Blue
+Yes
+No
+WSBIM Options
+World Time:
+Change Options
+Edit File
+Get More WSBIM Mods...
+Language Selection...
+An update was found for
+Would you like to install it now?
+(Hitting YES will pause your game and bring you to the desktop)
+View Forums Page
+Heads Up Display (HUD) Settings
+UI Settings
+Item Tooltip Settings
+Manual Color Selection
+Day Time Color Selection
+Night Time Color Selection
+View more UI Settings...
+View Color Settings...
+Check For Updates
+Render Scoreboard
+Render Crosshairs
+Show Armor in HUD
+Armor Status in Creative
+Use Clear HUD Theme
+Render World Time
+Use WSBIM Pause Menu
+Background Opacity
+Foreground Opacity
+Text Color
+Background Color
+Foreground Color
+Day Text Color
+Day Background Color
+Day Foreground Color
+Night Text Color
+Night Background Color
+Night Foreground Color
+Button Layout
+Color Mode
+Detailed Item Tooltips
+NBT Data Tag Tooltips
+WSBIM Item Tooltips
+Use Dark Mod Container Textures
+Show Crafting Button
+Use Resource Pack tabs.png Texture
+Show Crafting Button in Inventory
+Advanced Resource Pack Support
+Play Open GUI Sound Effect
+Vanilla
+Transparent
+List
+Manual

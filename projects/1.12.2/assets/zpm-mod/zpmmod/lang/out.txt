@@ -1,0 +1,24 @@
+Zero Point Mod
+ZPM Controller (Small)
+ZPM Controller (Large)
+Enable
+Disable
+Active with redstone signal
+Active without redstone signal
+Ignore redstone signal
+Crafting item.
+Stored Energy:
+Put it in a controller to extract energy.
+ZPM
+Diamond Hardened Iron
+Dimensional Obsidian
+Electrode
+Ender Star
+Hardened Dimensional Star
+ZPM Casing
+ZPM Core
+ZPM Holder
+Enabled
+Disabled
+/3 ZPMs installed
+1/1 ZPMs installed

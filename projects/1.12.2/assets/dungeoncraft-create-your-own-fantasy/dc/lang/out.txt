@@ -1,0 +1,88 @@
+Gold Ring
+Spear
+Halberd
+Dagger
+Orc
+DungeonCraft Tab
+Goblin
+Quarterstaff
+Kobold
+Chain
+Lamia
+Ogre
+Skeleton
+Sahuagin
+Centaur
+Skeleton
+Axebeak
+Bullywug
+Gnoll
+Mammoth
+Dwarf
+Villager Guard
+Pony
+Staff
+Staff of Burning Hands
+Scroll of Burning Hands
+Mace
+Flail
+Tanned Leather
+Mooshroom Hide
+Cow Hide
+Copper Nugget
+Pig Hide
+Copper Ingot
+Copper Piece
+Copper Ore
+Silver Ore
+Silver Piece
+Gold Piece
+Horse Tail Hair
+Horse Hide
+Salt
+Silver Ingot
+Silver Nugget
+Raw Mammoth Shank
+Cooked Mammoth Shank
+Beef Jerkey
+Raw Horse Meat
+Mammoth Hide
+Cooked Horse Meat
+Salt Ore
+Rune Stone
+Ash
+Planar Scroll
+Mane
+Uridezu
+Taer
+Vampire
+Vampire Spawn
+Rothe
+Demogorgon
+Barbed Devil
+Deer
+Beef Jerky
+Yuan-Ti Abomination
+Yuan-Ti Halfblood
+Wooden Bucket
+Molten Copper
+Wooden Water Bucket
+Molten Iron
+Molten Gold
+Copper Dagger
+Copper Spear
+Silver Spear
+Silver Halberd
+Silver Dagger
+Copper Halberd
+Iron Short Sword
+Silver Short Sword
+Copper Short Sword
+Iron Long Sword
+Copper Long Sword
+Silver Long Sword
+Satyr
+Planar Scroll
+Sprite
+Redcap
+Planar Scroll

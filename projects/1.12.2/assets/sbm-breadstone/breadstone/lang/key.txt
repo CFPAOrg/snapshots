@@ -1,0 +1,17 @@
+itemGroup.breadstone
+tile.stalebreadblock.name
+tile.stalebreadslabhalf.name
+tile.stalebreadslabdouble.name
+tile.stalebreadslab.name
+item.stalebread.name
+item.stalebreadsword.name
+item.stalebreadpickaxe.name
+item.stalebreadaxe.name
+item.stalebreadshovel.name
+item.stalebreadhoe.name
+item.stalebreadhelmet.name
+item.stalebreadchestplate.name
+item.stalebreadleggings.name
+item.stalebreadboots.name
+item.stalebreadarrow.name
+entity.stalebreadarrow.name

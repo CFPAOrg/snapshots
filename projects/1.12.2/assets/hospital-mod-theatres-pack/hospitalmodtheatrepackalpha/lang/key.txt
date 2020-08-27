@@ -1,0 +1,16 @@
+tile.surgicalcabinet.name
+tile.surgicalworkcounter.name
+tile.surgicalworkstation.name
+tile.scrubsink.name
+tile.surgicalboom2.name
+tile.ortable.name
+tile.ultrasound.name
+tile.instrumenttrolley.name
+tile.storagetubsyellow.name
+tile.surgicaltrolley.name
+tile.anaestheticmachine.name
+tile.surgicallight.name
+tile.surgicalboom.name
+tile.storagetubs.name
+tile.workcountershelf.name
+tile.worktop.name

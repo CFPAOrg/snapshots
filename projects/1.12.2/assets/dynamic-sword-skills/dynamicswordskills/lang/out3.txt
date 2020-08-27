@@ -1,0 +1,23 @@
+A devastating quick-draw sword technique
+Parry
+While locked on, tap back just as an incoming attack is about to land to parry. Only weapon- or item-based attacks may be parried.
+Parrying is a fundamental defensive skill, even more powerful than blocking as it will completely negate damage when successful, as well as possibly disarming an attacker. The chance to disarm is affected greatly by timing, and is the sole deciding factor amongst opponents of equal skill.\nNote that it is impossible to parry natural attacks such as the feared zombie punch or creeper blast; only attacks with weapons or items may be parried.
+Base Disarm Chance: %d%%
+Max Timing Bonus: +%d%%
+Max Attacks Parried: %d
+Actively parry incoming attacks
+Rising Cut
+While locked on, crouch by pressing the sneak key, then jump and attack. 
+Fling an enemy into the air with an upward slash, following close behind for a possible second attack, in addition to the damage the target will take upon hitting the ground.
+Rising slash flings enemy upward
+Spin Attack
+While locked on, hold left or right to charge up; if using vanilla keys, both must be pressed and held, first one then the other, with the first key pressed determining the direction of the spin.
+Useful when surrounded by enemies, the player spins around once in a circle, damaging all within range for the same amount as a standard attack.
+Maximum Spins: %d
+Attacks all enemies in 360 degree arc
+Super Spin Attack
+Quickly tap the attack key while already spinning to spin an extra 360 degrees, up to the maximum arc.
+This skill improves upon the basic Spin Attack, but only when at full health. Benefits include increased range and the ability to spin multiple times. Note that exhaustion is added for each additional spin.
+Attacks all enemies in 720+ degree arc
+Basic Technique
+Press the Z-Targeting key, default 'x', with a target in clear sight and within the maximum range.

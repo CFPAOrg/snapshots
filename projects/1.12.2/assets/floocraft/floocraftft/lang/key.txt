@@ -1,0 +1,11 @@
+tile.blockfloosign.name
+tile.flootorch.name
+tile.greenflamesbusy.name
+tile.greenflamestemp.name
+tile.greenflamesidle.name
+tile.floowerpot.name
+item.floopowder.name
+item.itemfloosign.name
+subs.greened
+subs.tp
+subs.flick

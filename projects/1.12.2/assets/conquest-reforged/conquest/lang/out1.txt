@@ -1,0 +1,139 @@
+Stone Brick Slab
+Nether Brick Slab
+Quartz Slab
+Red Sandstone Slab
+Wood Slab
+Oak Wood Slab
+Spruce Wood Slab
+Birch Wood Slab
+Jungle Wood Slab
+Acacia Wood Slab
+Dark Oak Wood Slab
+Brick
+TNT
+Bookshelf
+Moss Stone
+Obsidian
+Torch
+Fire
+Monster Spawner
+Oak Wood Stairs
+Spruce Wood Stairs
+Birch Wood Stairs
+Jungle Wood Stairs
+Acacia Wood Stairs
+Dark Oak Wood Stairs
+Chest
+Trapped Chest
+Redstone Dust
+Diamond Ore
+Coal
+Block of Diamond
+Crafting Table
+Crops
+Farmland
+Furnace
+Sign
+Wooden Door
+Ladder
+Rail
+Powered Rail
+Activator Rail
+Detector Rail
+Cobblestone Stairs
+Sandstone Stairs
+Red Sandstone Stairs
+Lever
+Stone Pressure Plate
+Wooden Pressure Plate
+Weighted Pressure Plate (Light)
+Weighted Pressure Plate (Heavy)
+Iron Door
+Redstone Ore
+Redstone Torch
+Button
+Snow
+Carpet
+Black Carpet
+Red Carpet
+Green Carpet
+Brown Carpet
+Blue Carpet
+Purple Carpet
+Cyan Carpet
+Light Gray Carpet
+Gray Carpet
+Pink Carpet
+Lime Carpet
+Yellow Carpet
+Light Blue Carpet
+Magenta Carpet
+Orange Carpet
+White Carpet
+Ice
+Frosted Ice
+Packed Ice
+Cactus
+Clay
+Stained Hardened Clay
+Black Hardened Clay
+Red Hardened Clay
+Green Roof Tiles
+Brown Hardened Clay
+Blue Roof Tiles
+Purple Stucco
+Cyan Roof Tiles
+Light Gray Stucco
+Gray Roof Tiles
+Pink Roof Tiles
+Light Green Roof Tiles
+Yellow Hardened Clay
+Light Blue Roof Tiles
+Magenta Stucco
+Orange Hardened Clay
+White Hardened Clay
+Hardened Clay
+Sugar cane
+Jukebox
+Oak Fence
+Spruce Fence
+Birch Fence
+Jungle Fence
+Dark Oak Fence
+Acacia Fence
+Oak Fence Gate
+Spruce Fence Gate
+Birch Fence Gate
+Jungle Fence Gate
+Dark Oak Fence Gate
+Acacia Fence Gate
+Pumpkin Stem
+Pumpkin
+Jack o'Lantern
+Netherrack
+Soul Sand
+Glowstone
+Portal
+Black Wool
+Red Wool
+Green Wool
+Brown Wool
+Blue Wool
+Purple Wool
+Cyan Wool
+Light Gray Wool
+Gray Wool
+Pink Wool
+Lime Wool
+Yellow Wool
+Light Blue Wool
+Magenta Wool
+Orange Wool
+White Wool
+Lapis Lazuli Ore
+Lapis Lazuli Block
+Dispenser
+Dropper
+Note Block
+Cake
+This bed is occupied

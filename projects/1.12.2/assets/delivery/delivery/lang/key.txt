@@ -1,0 +1,7 @@
+container.delivery.store
+tile.delivery.store.name
+tile.delivery.crate.name
+tile.delivery.shipping_crate.name
+key.delivery.store
+item.delivery.store_book.name
+item.delivery.store_tech.name

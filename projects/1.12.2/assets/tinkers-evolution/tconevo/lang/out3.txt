@@ -1,0 +1,54 @@
+§oHeartwarming!§r\nThis armour extinguishes fires on its wearer, converting them to healing.
+Aspect of the Phoenix
+§oHeroes never die!§r\nThis armour sacrifices itself to save its wearer from death.
+Your armour's %s has kept you alive!
+Photosynthetic
+§oPhotosynthesis... photosynthesis...§r\nThis armour absorbs sunlight to repair itself.
+Radiant
+§oShines like the sun!§r\nThis armour briefly blinds attackers.
+Reactive
+§oThey'll never get me in here!§r\nThis armour grants increasing damage resistance after being attacked.
+Second Wind
+§oThe wind... it is blowing...§r\nThis armour provides regeneration after being attacked.
+Shadowstep
+§oNothing to see here...§r\nThis armour piece grants invisibility in the dark.
+Spectral
+§oIt's all a blur!§r\nThis armour grants its wearer a chance to evade incoming attacks.
+Evasion Chance: +%s
+Stifling
+§oLike punching a rock!§r\nThis armour weakens attackers.
+Stonebound
+§oYour armour absolutely loves stone!§r\nThis armour grows more effective as it wears out.
+Stonebound Defense: +%s
+Thundergod's Favour
+§oInsulated!§r\nThis armour grants immunity to lightning strikes.
+Strength of Will
+§oMaintaining focus!§r\nThis armour grants immortality when hit at full health.
+Fluxed
+§oIt's been years!§r\nThis armour consumes energy before durability.
+Photovoltaic
+§oEmissions-free!§r\nThis armour absorbs sunlight to recharge itself.
+Black Quartz
+Restonia Crystal
+Palis Crystal
+Diamatine Crystal
+Void Crystal
+Emeradic Crystal
+Enori Crystal
+Sunnarium
+Molten Sunnarium
+Sky Stone
+Molten Sky Stone
+Certus Quartz
+Fluix
+Fluix Steel
+Molten Fluix Steel
+Aquamarine
+Starmetal
+Molten Starmetal
+Astral
+§oShimmering!§r\nThis tool can be attuned to a constellation at an Attunement Altar.
+Attuned (Aevitas)
+§oEffervescent!§r\nThis tool is aligned with Aevitas and grants regeneration on fully-charged hits.
+Attuned (Armara)
+§oEffervescent!§r\nThis tool is aligned with Armara and grants resistance on fully-charged hits.

@@ -1,0 +1,6 @@
+itemGroup.drawbridge:tab
+tile.drawbridge:drawbridge.name
+drawbridge:container.drawbridge
+drawbridge:container.drawbridge.speed
+drawbridge:container.drawbridge.ticks
+drawbridge:container.drawbridge.needsrs

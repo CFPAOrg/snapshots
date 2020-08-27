@@ -1,0 +1,55 @@
+Mining ring. Teleports you to the
+lowest point in the direction you're looking
++4 hearts and provides Speed
+Adds 3 hearts and
+increases resistance by armor
+Damage taken from all zombies
+will be decreased to 1
+With your empty hand,
+you will deal more damage
+Gives you waterbreathing
+when worn
+Lets you see entities
+through walls/blocks
+Increased looting for when entities are killed
+You can see any block you want
+through blocks in a specific distance.
+Right click the pendant before wearing
+it to set a block. OreDict supported!
+Currently binded: 
+Block '%s' not found
+Cooks animals when killed
+and blocks when mined
+It has its own arrow
+Drains the soul of the target
+It will absorb all the taken damage
+in replace for durability
+While using an elytra, right click with 
+an empty hand to boost through the air
+Use ancient technology to summon lightning
+Meet with Harshen Magic
+Shoots an arrow that
+will pass through all blocks
+Works well with the Ender Necklace
+Saturates your hunger
+as much as it can do
++3 hearts when worn
+Keeps your items in your inventory over death
+Has only 24 uses
+Reach more with anything!
+(+2 blocks distance, approximately)
+Bleed yourself! (to obtain blood)
+Right click to spawn a skeleton
+Can be found in Jacob's Graveyard
+It will reflect half of the
+damage you took to the enemy
+It will prevent mobs attacking to players in the area it lights up or if
+a player holds it, unless any mob attacked by a player
+Full set will regenerate 1 heart every 6 seconds
+You can get healed while sleeping on it
+Still holds the tears of the elf Shio, as an artifact; it reminds the power of the elder frost giants
+Frosts target, and accelerates you by every hit
+A fallen wizards last wishes... A lodestar from nocturns of nights...
+Provides night vision as much as you wait near to it or while holding
+"Have a feeling, wanna scythe down anything..."
+Heals you back with the cost of targets soul, by causing a big lesion.

@@ -1,0 +1,12 @@
+item.yum.name
+tile.wall.name
+item.dragonsbreath.name
+item.ungotarmorbody.name
+item.sword.name
+item.ungotarmorlegs.name
+item.ungotarmorboots.name
+tile.fancy.name
+item.ungotpickaxe.name
+item.axe.name
+item.ungotarmorhelmet.name
+item.ungot.name

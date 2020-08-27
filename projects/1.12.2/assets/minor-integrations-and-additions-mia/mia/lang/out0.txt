@@ -1,0 +1,65 @@
+Minor Integrations and Additions
+Base settings
+Base additions settings
+Just Enough Resources
+Extra Utilities 2
+Thermal Expansion
+Thermal Foundation
+Tinker's Construct
+Ice and Fire
+Hatchery
+Thaumcraft
+Mo' Creatures
+Quark
+FutureMC
+Botania
+ExtraBotany
+CoFH Core
+Dungeon Tactics
+Harvestcraft
+Just Enough Items
+Natura
+Biomes O' Plenty
+Chisel
+Industrial Foregoing
+Aether
+Browse and manage base MIA settings
+Browse and manage base MIA addition settings
+Browse and manage Just Enough Resources settings
+Browse and manage Extra Utilities 2 settings
+Browse and manage Thermal Expansion settings
+Browse and manage Thermal Foundation settings
+Browse and manage Tinker's Construct settings
+Browse and manage Ice and Fire settings
+Browse and manage Hatchery settings
+Browse and manage Thaumcraft settings
+Browse and manage Mo' Creatures settings
+Browse and manage Quark settings
+Browse and manage FutureMC settings
+Browse and manage Botania settings
+Browse and manage ExtraBotany settings
+Browse and manage CoFH Core settings
+Browse and manage Dungeon Tactics settings
+Browse and manage Harvestcraft settings
+Browse and manage Just Enough Items settings
+Browse and manage Natura settings
+Browse and manage Biomes O' Plenty settings
+Browse and manage Chisel settings
+Browse and manage Industrial Foregoing settings
+Browse and manage Aether settings
+Enable external integrations
+Enable Just Enough Items integration
+Enable Just Enough Resources integration
+Enable Thermal Expansion integration
+Enable Extra Utilities 2 integration
+Enable Hatchery integration
+Enable Dungeon Tactics integration
+Enable Quark integration
+Enable FutureMC integration
+Enable Harvestcraft integration
+Enable Botania integration
+Enable Chisel integration
+Enable Industrial Foregoing integration
+Enable Ice and Fire additions
+Enable Tinker's Construct additions
+Enable Thermal Expansion additions

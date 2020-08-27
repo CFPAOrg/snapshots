@@ -1,0 +1,4 @@
+tile.sauce_station.name
+container.sauceconstruct.sauce_station
+sauceconstruct.config.sauce
+sauceconstruct.config.sauce.tooltip

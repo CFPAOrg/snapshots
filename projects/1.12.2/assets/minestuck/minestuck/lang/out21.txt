@@ -1,0 +1,82 @@
+Flame
+Fire
+Rock
+Stone
+Ore
+Petrification
+Sand
+Dunes
+Deserts
+Lush Deserts
+Sandstone
+Stony Deserts
+Shade
+Wood
+Oak
+Lumber
+Flora
+Flowers
+Thorns
+Rainbow
+Colors
+Rain
+Islands
+Clouds
+Sky
+End
+Dimension
+Buckets
+Cake
+Desserts
+Clockwork
+Gears
+Frogs
+Light
+Brightness
+Pulse
+Blood
+Rabbits
+Bunnies
+Silence
+Thought
+Thunder
+Lightning
+Storms
+Wind
+Monsters
+Towers
+Land of %s and %s
+Welcome to Land of %s and %s.
+You are currently in Land of %s and %s.
+You are currently not in a land dimension.
+Minestuck Configuration
+Entity Id Start
+The starting id for minestuck entities
+SkaiaProvider Type Id
+The id for the proider type for the skaia dimension
+Skaia Dimension Id
+The id for the skaia dimension
+LandProvider Type Id
+The id for the provider type for the land dimension
+Land Dimension Id Start
+The starting id for land dimensions
+Statistic Id Offset
+The starting id for minestuck achievements
+Biome Id Start
+The starting id for minestuck biomes
+Special Window Id Start
+The starting window id for special containers
+IDs
+Various integer IDs
+Initial Modus Size
+When a player is assigned a modus for the first time, that modus will have the size of this value.
+Default Modus Type
+This option determines what possible moduses that may be given to players when they first join the game. (0: Stack, 1: Queue, 2: StackQueue, 3: Tree)
+Modus Max Size
+The highest number of cards a modus can have. If the value is 0, a maximum size will be ignored.
+Force Auto-balance
+Determines if and how the auto-balance option (for the tree modus) should be forced. 'Both': Both options are available. 'On': Forced at on. 'Off': Forced at off.
+Force Hashmap Eject-by-chat
+Determines if and how the eject-by-chat option (for the hashmap modus) should be forced. 'Both': Both options are available. 'On': Forced at on. 'Off': Forced at off.
+Item Drop Mode
+"Items": Only the captchalouged items will be dropped. "Cards And Items": Cards will also be dropped, but you will always keep up to the initial modus size of cards. "All": All items in the sylladex will be dropped. Even the modus and the rest of the cards.

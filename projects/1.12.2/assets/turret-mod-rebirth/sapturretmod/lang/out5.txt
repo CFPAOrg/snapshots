@@ -1,0 +1,16 @@
+Crossbow Turret (T1)
+Meant for basic defense and beginners. Not very strong but one of the cheapest to make.
+Shotgun Turret (T1)
+Used for basic crowd control. Very weak but can hit multiple targets at once, due to its ammo dispersing into multiple projectiles.
+Cryolator Turret (T1)
+This one is of the supporting kind, as its not dealing any damage, but will slow down any target that it hits.\n\nIt'll only attack a target if it's not already slowed down, though, to not waste ammo.
+Revolver Turret (T2)
+Can be seen as the upgraded version of the Crossbow Turret, as it has more range, greater health and deals more damage, although with less knockback effect.
+Minigun Turret (T2)
+Deals low amounts of damage per projectile, but compensates for it with a rapid firing rate.\n\nDue to its high output, and since its shooting compartments aren't directly inside the head, it can store double the amount of rounds (512).
+Forcefield Turret (T2)
+This supportive turret creates a forcefield around it that protects the area from any intruders.\n\nTargets within the forcefield will immediately be pushed out, but make sure they don't get stuck, because the shield will quickly drain out in an attempt to get the entity out.
+Laser Turret (T3)
+Going with the theme, this can be considered as the upgraded version of the Crossbow and Revolver Turret. With more health, higher damage and firing rate, this can burn anything alive.\n\nIf the target is immune to fire, the turret can't damage it, so be careful to not let it waste ammo on nether creatures (or upgrade it).
+Flamethrower Turret (T3)
+This turret deals large amounts of damage on a rather short distance. Not only that, but it operates in an area of effect, meaning it can hit multiple targets in front of it.\n\nOh yeah, it deals fire damage if it wasn't obvious, thus it can't damage anything with fire-resistance if not upgraded.

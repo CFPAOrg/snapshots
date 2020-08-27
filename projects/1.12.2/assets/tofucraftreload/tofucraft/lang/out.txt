@@ -1,0 +1,11 @@
+Can't find Tofu Slime in this chuck.
+TofuForce Energy: %d/%d
+Generate TofuTerrain...
+Loading TofuWorld...
+TofuMetal
+TofuDiamond
+Absorption
+§oGood as Nutrition well§r\nTools with this will occasionally fill the belly and saturation when attacked (the higher the attack, the easier it is to fill the belly!)
+Tofu -Ishi-
+Tofu -Metal-
+Tofu -Diamond-

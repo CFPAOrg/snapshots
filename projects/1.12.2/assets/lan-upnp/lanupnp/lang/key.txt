@@ -1,0 +1,4 @@
+lanupnp.closelan
+lanupnp.shareToNet
+lanupnp.shareToLan
+menu.shareToLan

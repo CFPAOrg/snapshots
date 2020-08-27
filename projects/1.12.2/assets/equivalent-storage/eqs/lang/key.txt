@@ -1,0 +1,2 @@
+block.eqs:equivalence_engine.name
+gui.eqs:equivalence_engine

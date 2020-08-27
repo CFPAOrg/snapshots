@@ -1,0 +1,66 @@
+Pre-generate diameter
+If over 0, enables option for pre-gen of world on the server of specified chunk diameter. Requires mod on server.
+Public server list
+Whether the public server list is enabled
+Will automatically refresh!
+Public server list
+Servers are not endorsed!
+List: Public
+List: Invite
+Unique code: %s
+Invite friend
+Add friend
+Copy
+Refresh
+Friends list
+Friends unique code
+Friends display name
+Sort: %s
+Random
+Players
+Name
+Uptime
+Location
+Ping
+Friend request sent!
+Copied to clipboard
+Invite sent!
+Couldn't invite - server not public/mod not on server
+Invite could not be sent - not accepted?
+Server invite. Press %s or check friends list!
+Server invite
+You were invited to the below server by %s
+Do you wish to join the server?
+Unfortunately, the server isn't running the correct pack, so you cannot connect.
+Add to your server list? Applies for both Cancel and Connect.
+Cancel
+Connect
+ Public
+MineTogether
+Open Friends List
+Online Minigame services are not currently available to you.
+Are you sure you wish to remove the friend?
+Accept friend
+Add friend
+Please enter the name you want your friend to know you as
+Please enter the name you want your friend to know you as
+Public List
+Invite List
+Public
+Community
+Closed
+Server List
+Application List
+Type:
+Muted Player's List
+MineTogether
+Commands
+Group
+Server
+The requested user has been muted. Messages from this user will no longer be displayed.
+Befriend
+Mute
+Welcome new player!
+Our name is CreeperHost, and we created MineTogether to fill in some of the community features we felt modded Minecraft was missing.
+In doing so, we require a way to identify you to make sure we send you all the right information, like who is in your friends list etc.
+We do this by taking the unique identifier for your Minecraft account (UUID), then running it through the same kind of cryptography (hashing) that most websites use to keep your password secure and cannot be reversed.

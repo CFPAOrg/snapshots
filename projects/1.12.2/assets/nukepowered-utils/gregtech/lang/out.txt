@@ -1,0 +1,29 @@
+The Processing Array combines up to 16 single block machines in a single multiblock.
+The Fusion Reactor Mark 1 is a large multiblock structure used for fusing elements into heavier ones. The Mark 1 Fusion Reactor can use LuV, ZPM or UV Energy Hatches. For every Hatch it has its buffer increases by 100k.
+The Fusion Reactor Mark 2 is a large multiblock structure used for fusing elements into heavier ones. The Mark 2 Fusion Reactor can use ZPM or UV Energy Hatches. For every Hatch it has its buffer increases by 200k.
+The Fusion Reactor Mark 3 is a large multiblock structure used for fusing elements into heavier ones. The Mark 3 Fusion Reactor can only use UV Energy Hatches. For every Hatch it has its buffer increases by 400k.
+Curved %s Plate
+Double %s Ingot
+Microprocessor
+A Basic Circuit
+Programmed Circuit
+Integrated Logic Circuit
+A Basic Circuit
+Integrated Processor
+A Good Circuit
+Crystalprocessor Assembly
+A Master Circuit
+Quantumprocessor Assembly
+An Elite Circuit
+Neutronium Credit
+Sticky Resin
+Firebricks
+Structure: 3x3x4 (WxLxH) The entire structure is made out of Firebricks (32 in total)./nFirst Layer is a 3x3 square./nSecond, third, and fourth layers are hollow, without the middle block./nThis block goes on the middle of any side in the second layer./nThe sides of Blast Furnaces can be shared, if the side does not have a controller./n
+Wooden Barrel
+Bronze Drum
+Steel Drum
+Stainless Steel Drum
+Titanium Drum
+Tungstensteel Drum
+Water
+Lava

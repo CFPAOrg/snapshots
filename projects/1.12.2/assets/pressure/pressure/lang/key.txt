@@ -1,0 +1,5 @@
+splash_potion.effect.dyspnea
+effect.dyspnea
+lingering_potion.effect.dyspnea
+potion.effect.dyspnea
+tipped_arrow.effect.dyspnea

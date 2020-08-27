@@ -1,0 +1,43 @@
+And you created it. The Teleporter is a rather complex structure that carries whole pieces of space between artificially created holes in reality. For these purposes, you will need to create a special Platform on which the portable "space" will be placed, as well as the Restricting Circle around it. A special Spatial Matrix will control the movement of this "space". Unfortunately, the transfer can only be carried out between other similar structures. At the same time, you either have to own it, or you will need it to be allowed to move to it. <PAGE>The motion control system has a special interface. In it, you can select the point where you want to move (from the ones available to you), select those you allow (or do not allow) to navigate to you, as well as the charge indicator and the teleport start button. All those who stand on the platform, and not only those who activated the teleport (unauthorized creatures will not be moved) can move through the teleporter. <PAGE>In this case, there is one nuance - the teleporter can transfer you to another telepointer... Which no longer exists. Although, from this you can benefit ... Probably ... In any case, you have stange feeling what you "re-invented the bike"...
+Scan Enchanted Fabric
+Scan Carpet
+Scan Chest
+Scan Hungry Chest
+Scan Magic Pouch
+Scan Ender Chest
+Scan Ender Pouch
+Scan Armor Stand
+Scan Blaze
+Scan Wolf
+Scan Zombie
+Scan Skeleton
+Scan Wither Skeleton
+Scan Sand
+Scan Netherrack
+Scan Dirt
+Scan Podzol
+Scan Grass
+Scan Coarse Dirt
+Scan Clay
+Scan Sheep
+Scan Cow
+Scan Chicken
+Scan Pig
+Scan Horse
+Scan Rabbit
+Scan Llama
+Scan Cracked Stone Bricks
+Scan Clock
+Scan Thaumium Pickaxe
+Scan Thaumic Stone Extruder
+Scan Obsidian
+Scan Soul Sand
+Scan Torch
+Scan Thaumium Ingot
+Scan Shaded Block
+Scan Block of Light
+Scan Thaumium Helmet
+Scan Thaumium Boots
+Scan Thaumium Chestplate
+Scan Thaumium Leggins
+Scan Primordial Pearl

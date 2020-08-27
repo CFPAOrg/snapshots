@@ -1,0 +1,75 @@
+TabbyChat
+Whispers
+S -> R
+To/From
+Disabled
+<Angles>
+{Braces}
+[Brackets]
+(Parenthesis)
+<(Combo)Pl.>
+<[Combo]Pl.>
+TabbyChat 2 Settings
+Save
+Close
+General
+Server
+Filters
+Colors
+Advanced
+Log Chat
+Logs incoming chat to the logs
+Split log
+Splits the log by channel. Has no\neffect if chat logging is disabled.
+Timestamp Chat
+Style
+Color
+Anti Spam
+Suppresses spammed chat
+Prejudice
+How different 2 messages can be to count as spam.
+Unread Flashing
+Check for Updates
+Enable Channels
+Parse chat for new channels
+Enable Messages
+Parse chat for new PMs
+Channel Pattern
+Preset or custom patterns to match channels
+Message Pattern
+Preset or custom patterns to match PMs
+Use default channel
+Ignored Channels
+Channels to ignore.
+Channel Command
+The command to run when the a channel is activated.\
+Filters
+New
+Edit Filter
+Name
+Destinations
+A comma separated list of channels.
+Hide Matches
+Audio Notification
+Expression
+Regular Expression
+Ignore Case
+Raw input
+Channels
+Channel: %s
+Alias
+Prefix
+Hide Prefix
+Cmd
+Select a channel
+No channels discovered
+Forget
+Chatbox color
+Chat border color
+Chat text color
+Fade time (ticks)
+Chat visibility
+Hide channel delimeters*
+Enable spellcheck
+* Experimental and may not work right.
+There are %s completions. Press tab again to display them anyway.

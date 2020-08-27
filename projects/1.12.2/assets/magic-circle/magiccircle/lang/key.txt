@@ -1,0 +1,4 @@
+tile.sixstars.name
+itemGroup.tabrandomsmallobjects
+tile.diagramoftheuniverse.name
+tile.purplediagramoftheuniverse.name

@@ -1,0 +1,51 @@
+Pirates
+Pirate Hat
+Boots
+Cutlass
+Powder Flask
+Rum
+Telescope
+Treasure Map
+Compass
+Message in a bottle
+Sextant
+Ram Rod
+Lantern
+Hurdy Gurdy
+Grapple Hook
+Rope
+Sash
+Tricorn
+Bucket
+Flintlock
+Dingy
+Captain's Cutlass
+Dagger
+Hammer
+Glass
+Flintlock ball
+Hat
+Rapier
+Cannon
+Cell
+Railing
+Ratlines
+Ship's Bell
+Boat Sling
+Barrel
+Ghastly Planks
+Ghastly Railing
+Ghastly Stairs
+Ghastly Log
+Ghastly Bell
+Cursed Chest
+Forge
+Cannonball
+Square Sail
+Jib Sheet
+Capstan
+Cleat
+Ghost Pirate
+Cursed Chest
+World Gen
+Percent chance that a ship will spawn in a chunk

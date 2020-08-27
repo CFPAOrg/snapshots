@@ -1,0 +1,22 @@
+Paint Filler
+Paint Filler
+Paint Gun Mount
+White Dye Converter
+Yellow Dye Converter
+Red Dye Converter
+Used to create paint, then fill a paint gun.
+Fuel, then add white, yellow or red dye to begin!
+Allows pumping of items and paints in/out of the Paint Filler.
+Dye
+Mixes dyes with water for higher paint yields.
+Requires some method of transporting the paint!
+Compactor
+Compactor
+Tarmac Fragments
+Size to compress to
+Compacts Road Fragments into new Road Blocks
+Fabricator
+Fabricator
+Requires: 
+Click to select recipe
+Crafts decorative blocks to prettify your roads!

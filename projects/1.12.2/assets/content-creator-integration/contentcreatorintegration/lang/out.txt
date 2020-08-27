@@ -1,0 +1,36 @@
+The outcome to repeat
+A condition, if met, breaks the loop cycle.
+Heal or damage a list of targets.
+The target selector for the entities to affect.
+Amount of health to change. Positive values heal, negative values hurt.
+Sends an InterModComms runtime message to another mod.
+The modId of the mod to send this message to.
+The key/subject of the IMC message.
+The value/message of the IMC message.
+Pop-up a window that requires the player to hit Done.
+The information text for the pop up.
+An optional outcome to trigger after the player hits Done.
+Pop-up a window that requires the player to hit Yes or No.
+The information text for the pop up.
+Override text for the Yes button?
+Override text for the No button?
+An optional outcome to trigger after the player hits Yes.
+An optional outcome to trigger after the player hits No.
+Pop-up a window that requires the player to input some text.
+The information text for the pop up.
+Default text for the input box.
+The variable name to put the String from the input box once the player hits Done.
+An outcome to trigger after the player hits Done. Bear in mind that the variable this InputOutcome inserts into is not a global variable and thus will be discarded if not stored by in one.
+Force a set of entities matching the target selector to drop an item in a slot.
+The target selector for the entities to affect.
+The index/slot number for the inventories.
+The amount to drop from the stack.
+Uses the built in Narrator support to speak audibly.
+Message for narrator to say. Supports variable insertion
+Interrupts the currently speaking narrator line.
+Adjust the motion of a set of entities
+The target selector for the entities to affect.
+The amount of motion to apply.
+The axis to apply the motion to. Supports "x", "y", "z".
+Should the motion applied be relative to the entity instead of absolute?
+Apply this to just the player? Due to how Minecraft works, the player on the client has it's own motion and cannot be modified by the server.

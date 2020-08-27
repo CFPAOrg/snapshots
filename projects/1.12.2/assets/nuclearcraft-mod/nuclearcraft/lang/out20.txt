@@ -1,0 +1,79 @@
+Carobbiite
+Obtained alongside Diamonds when breaking Diamond Ore.
+Boron Arsenide
+Silicon
+Crushed Diamond
+Crushed Rhodochrosite
+Crushed Quartz
+Crushed Obsidian
+Hexagonal Boron Nitride
+Crushed Fluorite
+Sulfur
+Obtained alongside Coal when breaking Coal Ore.
+Crushed Coal
+Crushed Villiaumite
+Crushed Carobbiite
+Crushed Arsenic
+Crushed End Stone
+Bronze Ingot
+Tough Alloy
+Hard Carbon Alloy
+Magnesium Diboride Alloy
+Lithium Manganese Dioxide Alloy
+Steel Ingot
+Ferroboron Alloy
+Shibuichi Alloy
+Tin Silver Alloy
+Lead Platinum Alloy
+Extreme Alloy
+Thermoconducting Alloy
+Zircaloy
+Silicon Carbide Ingot
+SiC-SiC Ceramic Matrix Composite
+HSLA Steel Ingot
+Calcium Sulfate
+Crystal Binder
+Energetic Blend
+Sodium Fluoride
+Potassium Fluoride
+Sodium Hydroxide
+Potassium Hydroxide
+Borax
+Dimensional Blend
+Carbon-Manganese Blend
+Alugentum Dust
+Basic Plating
+Advanced Plating
+DU Plating
+Elite Plating
+Copper Solenoid
+Magnesium Diboride Solenoid
+Bioplastic
+Servomechanism
+Electric Motor
+Linear Actuator
+Machine Chassis
+Empty Frame
+Steel Frame
+Extreme Plating
+Silicon Carbide Fiber
+Speed Upgrade
+Increases the processing speed of machines at the cost of additional processing power. These upgrades can be stacked - the speed will increase %s with each additional upgrade while the power use will increase %s.
+Energy Upgrade
+Decreases the processing power of machines. These upgrades can be stacked, but the maximum number that will have an effect is equal to the number of installed speed upgrades. The power use will decrease %s with each additional upgrade.
+approximately
+Tiny Pile of Lead Dust
+Thorium-230
+Thorium-230 Oxide
+Tiny Clump of Thorium-230
+Tiny Clump of Thorium-230 Oxide
+Thorium-232
+Thorium-232 Oxide
+Tiny Clump of Thorium-232
+Tiny Clump of Thorium-232 Oxide
+An isotope of Thorium.
+Uranium-233
+Uranium-233 Oxide
+Tiny Clump of Uranium-233
+Tiny Clump of Uranium-233 Oxide
+Uranium-235

@@ -1,0 +1,111 @@
+Nyan Leggings
+Nyan Boots
+Chasmium Helmet
+Chasmium Chestplate
+Chasmium Leggings
+Chasmium Boots
+Goltox Helmet
+Goltox Chestplate
+Goltox Leggings
+Goltox Boots
+Energetic Steel Helmet
+Energetic Steel Chestplate
+Energetic Steel Leggings
+Energetic Steel Boots
+Fadesteel Helmet
+Fadesteel Chestplate
+Fadesteel Leggings
+Fadesteel Boots
+Elysium Helmet
+Elysium Chestplate
+Elysium Leggings
+Elysium Boots
+Gold Pellet
+Golden Pistol
+Golden Repeater
+Golden Shotgun
+Golden Rifle
+Swamp Slime
+Golden Maelstrom Core
+Starfall Staff
+Fly Wings
+Dark Fracture Stone
+Light Fracture Stone
+Fracture Granite
+Marine Rock
+Blue Granite
+Azure Cobblestone
+Blue Glowstone
+Fracture Grass
+Fracture Log
+Fracture Leaves
+Plum Log
+Plum Leaves
+Plum Filled Leaves
+Vines Block
+Ravine Vines
+Browned Grass
+Blue Daisy
+Ruby Orchid
+Tall Browned Grass
+Planks
+Fence
+Azure Plank Stairs
+Fracture Sapling
+Plum Sapling
+Large Plum Sapling
+Red Tipped Grass
+Maelstrom Block
+Decaying Maelstrom Block
+Fracture Maelstrom Core
+Maelstrom Bricks
+Maelstrom Brick Fence
+Maelstrom Brick Stairs
+Maelstrom Core
+Golden Maelstrom Core
+Coal Ore
+Diamond Ore
+Emerald Ore
+Lapis Ore
+Iron Ore
+Gold Ore
+Redstone Ore
+Lit Redstone Ore
+Chasmium Ore
+Maelstrom Stonebrick
+Maelstrom Stonebrick Stairs
+Maelstrom Stonebrick Fence
+Fracture Portal
+Fracture Stonebrick
+Fracture Stonebrick Stairs
+Cracked Fracture Stonebrick
+Carved Fracture Stonebrick
+Carved Fracture Stonebrick
+Carved Fracture Stonebrick
+Fracture Stonebrick Lamp
+Nexus Teleporter
+Cracked Quartz
+Fracture Key Block
+Fracture Dungeon Key Block
+Brown Key Block
+Red Key Block
+Blue Key Block
+Blue Dungeon Key Block
+Black Dungeon Key Block
+Sinister Maelstrom
+Nexus Portal
+Dark Nexus Portal
+Mega Structure Block
+Disappearing Spawner
+Black Air
+Temporary Lighting Updater
+Cliff Stone
+Red Cliff Stone
+Swamp Wood
+Swamp Wood
+Swamp Leaves
+Swamp Sapling
+Gold Stone
+Cracked Gold Stone
+Gold Stone Fence
+Gold Stone Stairs

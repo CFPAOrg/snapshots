@@ -1,0 +1,25 @@
+Replace Block:
+The block id to replace.
+Replace Block Meta:
+The block meta to replace. Use -1 for the block's default state.
+Replace Block With:
+The block id to replace the block with.
+Replacement Block Meta:
+The block meta for the replacement block. Use -1 for the block's default state.
+Enable Risky Blocks
+Enables using blocks that might crash/lag the game if used to replace another block. Enable at your own risk.
+Dimension List
+This is the Dimension Black/Whitelist. If it contains *, it is a blacklist. Otherwise, it is a whitelist.
+Replacement Percentage
+What percentage of blocks get replaced
+Multiply Removal Chance
+Multiplies the block removal chance by the block's y-value.
+Array lengths do not match!
+%s length was %s, expected %s
+WorldGen Block Replacer is improperly configured. The biome (%s) was not found.
+WorldGen Block Replacer is improperly configured. The block to replace (%s) was not found.
+WorldGen Block Replacer is improperly configured. The block to replace with (%s) was not found.
+WorldGen Block Replacer might be improperly configured. The block meta (%s) is out of the standard range.
+WorldGen Block Replacer might be improperly configured. The replace with meta (%s) is out of the standard range.
+WorldGen Block Replacer is configured not to use risky blocks, but you have specified a risky block to be used (%s). Defaulting to Stone instead.
+WorldGen Block Replacer is improperly configured, shutting down. See the logs to find out what wasn't configured properly.

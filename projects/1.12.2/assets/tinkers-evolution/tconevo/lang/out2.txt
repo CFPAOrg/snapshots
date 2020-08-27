@@ -1,0 +1,45 @@
+Opportunist Damage: +%s
+Overwhelm
+§oHeavy is the hand...§r\nThis weapon deals greater damage to armoured targets.
+Photosynthetic
+§oPhotosynthesis... photosynthesis...§r\nThis tool absorbs sunlight to repair itself.
+Piezoelectric
+§oElectromechanical!§r\nThis weapon converts damage from fully-charged hits into usable energy.
+Rejuvenating
+§oYour weapons betray you!§r\nThis weapon applies regeneration to attacked targets.
+Relentless
+§oSwift strikes!§r\nThis weapon induces a shorter invulnerability period in struck enemies.
+Ruination
+§oI met a traveller...§r\nThis weapon deals damage scaling with enemy health on fully-charged hits.
+Health Break: %s
+Staggering
+§o...and stay bashed!§r\nThis weapon briefly immobilizes enemies on fully-charged hits.
+Sundering
+§oBalance is weakness...§r\nThis weapon weakens attacked enemies.
+Thundergod's Wrath
+§oI condemn you!§r\nThis weapon calls down a bolt of lightning upon enemies struck at full health.
+Vampiric
+§oStill befriending mortals?§r\nThis weapon drains life energy from enemies to heal its wielder.
+Lifesteal: +%s
+Artifact
+§oOne-of-a-kind!§r\nThis tool cannot be modified or repaired until it is unsealed.
+Unsealed
+Fluxed
+§oIt's been years!§r\nThis tool consumes energy before durability.
+Photovoltaic
+§oEmissions-free!§r\nThis tool absorbs sunlight to recharge itself.
+Solar Power: %s
+Bulwark
+§oBlocked!§r\nThis armour reduces incoming damage by one heart, to a minimum of one heart.
+Celestial
+§oAbyssal wings!§r\nThis armour grants creative flight.
+Chilling Touch
+§oIce is nice!§r\nThis armour briefly slows attackers.
+Divine Grace
+§oSupport's on the way!§r\nThis armour amplifies received healing.
+Heal Amplification: +%s
+Energized
+§oBatteries included!§r\nThis armour consumes an internal energy buffer before durability.
+Gale Force
+§oWind blow!§r\nThis armour grants increased flight speed.
+Hearth's Embrace

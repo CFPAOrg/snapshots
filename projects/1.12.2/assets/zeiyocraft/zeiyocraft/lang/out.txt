@@ -1,0 +1,36 @@
+Amethyst Hoe
+Amethyst Pickaxe
+Amethyst Shovel
+Amethyst Axe
+Amethyst War Axe
+Amethyst Helmet
+Amethyst Chestplate
+Amethyst Leggings
+Amethyst Boots
+Vodka Extract
+Malt Seeds
+Barley
+Barley Seeds
+Barley
+Grapes
+Grape Seeds
+Grape
+Hemp
+Hemp Seeds
+Hemp
+Tankard
+Beer Tankard
+Wine Tankard
+Cider Tankard
+Vodka Tankard
+Copper Coin
+Silver Coin
+Gold Coin
+Key
+Chair
+Smoking Pipe
+Pipe with Hemp
+Rotten Flesh Block
+Chili Pepper
+Tomato
+Tomato Seeds

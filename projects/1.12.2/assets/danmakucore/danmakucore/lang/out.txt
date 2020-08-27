@@ -1,0 +1,40 @@
+Magenta
+Light Blue
+Yellow
+Lime
+Pink
+Gray
+Silver
+Cyan
+Purple
+Blue
+Brown
+Green
+Red
+Black
+Line Shot
+Random Ring Shot
+Wide Shot
+Circle Shot
+Ring Shot
+Sphere Shot
+No Special
+Fire
+Explosion
+Teleport
+Danmaku explosion
+Rainbow
+Shifting Rainbow
+White
+White
+Black
+Custom color
+/danmakucore <bombs|lives|power> <amount>
+/danmakucore bombs <amount>
+/danmakucore lives <amount>
+/danmakucore power <amount>
+/danmakucore score <amount>
+Set bombs to %d for %s
+Set lives to %d for %s
+Set power to %d for %s
+Set score to %d for %s

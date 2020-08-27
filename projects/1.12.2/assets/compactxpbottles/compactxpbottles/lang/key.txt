@@ -1,0 +1,4 @@
+item.x4experiencebottle.name
+item.x16experiencebottle.name
+item.x64experiencebottle.name
+item.x256experiencebottle.name

@@ -1,0 +1,36 @@
+Subject History
+One of the subject enchantments. Gives extra damage to all like sharpness. Aside from the first extra damage, attacks are stronger the more the world exists longer (in other words, a world that is played for 4 days in real time (total time played of course) gives more additional damage than newly created world).
+Subject P.E.
+One of the subject enchantments. Gives extra damage to all like sharpness. Attacks also have chance to trigger several potion effect related to exercise and health. 
+Subject Physics
+TBA
+Subject Chemistry
+Subject Biology
+Hors De Combat
+Attacks have a chance to cripple (applies potion effect related to cripple).
+Disarmament
+Grants you a chance to disarm your opponent in two ways: applies severe weakness or forces them to drop their held item.
+Advanced Respiration
+Advanced version of Respiration.
+Curse of Possession
+Items are unable to leave in the player's inventory
+Fiery Shield
+While blocking, burns the attacker
+Flinging
+Similar to Knockback, but the knockback is in a vertical motion.
+Adjuster
+Increases mining speed when wrong tools are used.
+Freezing
+Applies a guranteed slowness and mining fatigue potion effect on each hit. Each hit also increases the amplifier of the potion effect and if it reaches VIII, there is a chance that the mob will be frozen, disabling their ai and knockback. 
+Rune: Starfall
+Arrows shot into the sky will create a small arrow storm.
+Strengthened Vitality
+Increases your health depending on your max health.
+Difficulty's Endowment
+Increases or decreases your damage based on your world's difficulty.
+Splitshot
+Duplicates the arrow fired by the bow. Amount of arrows varies on the enchantment's level and each arrows fired damages the bow by 1.
+Moisturized
+Tilling will make the farmland automatically wet.
+Plowing
+Tilling area is increased while damages the hoe depending on the number of tilled dirt.

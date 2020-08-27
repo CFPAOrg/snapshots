@@ -1,0 +1,30 @@
+§6Metal floor trap door that swings open and emits a redstone signal when \
+§6A metal trap door that swings open emits a redstone signal when something touches it.§r\n\
+Industrial Infrared Entity Detector
+Industrial Linear Laser Entity Detector
+Industrial Local Light Sensor
+Industrial Day Timer Clock
+Industrial Rain Sensor
+Industrial Thunderstorm Detector
+Industrial Interval Signal Timer
+Glass Infrared Entity Detector
+Glass Linear Laser Entity Detector
+Glass Day Timer Clock
+Glass Interval Signal Timer
+Industrial Comparator Switch
+Door sensor
+§6A small device that observes a defined volume and emits a redstone signal if it sees an entity.§r\n\
+§6A small device that observes in one direction and emits a redstone signal if it senses an entity.§r\n\
+§6A small device that measures the local light level at its location and emits a redstone signal \
+§6A small device that emits a redstone signal from a configured start (day) time to a configured \
+§6A small wall mounted device that emits a redstone signal when it rains on it.§r\n\
+§6A small wall mounted device that emits a redstone signal when it senses a high electric \
+§6A small device that emits a rectangular redstone signal with a defined on- and off- time.§r\n\
+§6A small glass device that observes a defined volume and emits a redstone signal if it sees an entity.§r\n\
+§6A small glass device that observes in one direction and emits a redstone signal if it senses an entity.§r\n\
+§6A small glass device that emits a redstone signal from a configured start (day) time to a configured \
+§6A small device that emits a rectangular redstone signal with a defined on- and off- time.§r\n\
+§6A small device that that emits a redstone signal depending on the comparator output \
+§6A player detector that is mounted on walls above doors.§r
+Industrial Block Category Detector
+§6A switch emitting a redstone signal if one or more blocks in front if it match \

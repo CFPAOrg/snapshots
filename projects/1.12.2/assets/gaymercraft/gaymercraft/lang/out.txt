@@ -1,0 +1,14 @@
+Vertical Metamorphic Mesa Cobblestone Slab
+Vertical Metamorphic Forest Brick Slab
+Vertical Metamorphic Plains Brick Slab
+Vertical Metamorphic Mountain Brick Slab
+Vertical Metamorphic Fungal Brick Slab
+Vertical Metamorphic Swamp Brick Slab
+Vertical Metamorphic Desert Brick Slab
+Vertical Metamorphic Taiga Brick Slab
+Vertical Metamorphic Mesa Brick Slab
+Vertical White Pavement Slab
+Vertical Black Pavement Slab
+Vertical Blue Pavement Slab
+Vertical Red Pavement Slab
+Vertical Shimmerwood Planks Slab

@@ -1,0 +1,10 @@
+item.rawmuttonnugget.name
+item.cookedbeefnugget.name
+item.rawrabbitnugget.name
+item.cookedmuttonnugget.name
+item.rawbeefnugget.name
+item.chickennugget.name
+item.cookedporkchopnugget.name
+item.cookedchickennuggets.name
+item.cookedrabbitnugget.name
+item.rawporkchopnugget.name

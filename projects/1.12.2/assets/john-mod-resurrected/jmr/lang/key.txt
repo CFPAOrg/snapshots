@@ -1,0 +1,11 @@
+item.john_tear.name
+item.immortality_gem.name
+item.immortality_sword.name
+entity.john.name
+entity.babyjohn.name
+entity.megajohn.name
+effect.imoral_potion
+potion.effect.imoral_potion
+splash_potion.effect.imoral_potion
+lingering_potion.effect.imoral_potion
+tipped_arrow.effect.imoral_potion

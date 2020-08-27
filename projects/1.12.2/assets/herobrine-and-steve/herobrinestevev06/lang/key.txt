@@ -1,0 +1,13 @@
+tile.d.name
+item.dirtsword.name
+entity.herobrine.name
+key.mcreator.xd
+item.diammondblocksword.name
+entity.fire.name
+item.diammondcompacted.name
+item.compacteddiammondsword.name
+tile.estabilicer.name
+item.diamondblocksword.name
+tile.compacteddiammond.name
+entity.steve.name
+item.overpoweredsword.name

@@ -1,0 +1,12 @@
+Feather
+Feathers can be used by soldiers as parachutes, given their high air resistance. The soldier will slowly fall down without taking damage, but cannot attack anything whilst in mid-air.\n\n§7-§1 Misc. upgrade\n§7-§1 reduced fall speed\n§7-§1 prevents fall damage
+Foods
+Like us, soldiers can eat food to replenish their health. Unlike for us, the healing takes effect immediately. Soldiers will only eat food when their health is lower than 25%% .\n\n§7-§1 Misc. upgrade\n§7-§1 4 uses\n§7-§1 (hunger pts. / 2) health\n§1   restored\n§7-§1 drops bowl if food itself is\n§1   in a bowl
+Glass
+This material can be utilized to form goggles, which increases a soldiers range of sight and also makes them able to see enemies stealthed by an {link:Egg|upgrades:egg}.\n\nStained glass gives colored goggles.\n\nA Block provides material for infinite soldiers.\n\n§7-§1 Misc. upgrade\n§7-§1 2x vision range\n§7-§1 able to see stealthed enemies\n§7-§1 block provides infinite\n§1   material
+Leather
+Leather provides a tough protective layer that absorbs half the damage until it'll break eventually.\n\nCannot be worn together with {link:Rabbit Hide|upgrades:rabbithide}.\n\n§7-§1 Misc. upgrade\n§7-§1 20 uses\n§7-§1 50%% less damage taken\n§7-§1 incompatible with {link:Rabbit Hide|upgrades:rabbithide}
+Rabbit Hide
+As with {link:Leather|upgrades:leather}, Rabbit Hide provides a weaker protective layer that absorbs 1/8th the damage, but what it lacks on protective abilities, it makes up for it by giving the wearer a speed boost.\n\nCannot be worn together with Leather.\n\n§7-§1 Misc. upgrade\n§7-§1 20 uses\n§7-§1 12.5%% less damage taken\n§7-§1 25%% speed boost\n§7-§1 incompatible with {link:Leather|upgrades:leather}
+Sugar
+The energy provided by Sugar grants a soldier a speed boost. Does also work when on mounts.\n\nDoes not allow to be used together with any diamond-based upgrade.\n\n§7-§1 Misc. upgrade\n§7-§1 50%% speed boost\n§7-§1 incompatible with {link:Diamond|upgrades:diamond} and\n§1   {link:Diamond Block|upgrades:diamondblock}

@@ -1,0 +1,7 @@
+tile.fuel_crafter.name
+tile.tiny_compactor.name
+tooltip.fuel_crafter
+tooltip.tiny_compactor
+itemGroup.nuclear_helper
+container.fuel_crafter
+container.tiny_compactor

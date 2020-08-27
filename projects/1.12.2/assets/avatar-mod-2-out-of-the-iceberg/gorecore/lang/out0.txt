@@ -1,0 +1,47 @@
+A functional node.
+Yet another branch node.
+Help for %2$s: %1$s
+Missing argument: %1$s
+No subcommand "%1$s". Usage: %2$s
+Cannot convert "%1$s" to a %2$s.
+You need to be an operator to use that subcommand.
+The value %1$s for argument %2$s is not an option.
+The argument %1$d is only from %2$d-%3$d.
+The argument %1$f is only from %2$f-%3$f.
+     [title]---- [bold]Help for [value]${name}[/value][/bold] ----[/title]
+[bold]Description:[/bold] ${descr}
+[value]${node}[/value]
+, 
+, and 
+[bold]Valid sub-nodes: [/bold]
+[bold]Command overview: [/bold]
+    [title]---- [bold]Help for [value]${name}[/value][/bold] ----[/title]
+[bold]Note:[/bold] This is a [bold]branch node[/bold]. It does not perform anything on its own, you specify a sub-command below to execute.\n
+[bold]Description: [/bold]
+[bold]Options: [/bold]
+[value]${node}[/value]
+, 
+, or 
+[bold]Example:[/bold] ${path} [value]${node-name}[/value] --help
+    [title]---- [bold]Help for [value]${name}[/value][/bold] ----[/title]
+[bold]Description: [/bold]
+[bold]Arguments:[/bold]
+ ${argument}
+[bold]Arguments: [/bold][italic]There are no arguments.[/italic]
+[bold]Accepted input:[/bold]
+ ${input}
+The root branch for ${command}.
+Successfully synced the UUID of [value]${player}[/value] to online!
+Unable to sync UUID of [value]${player}[/value] with online; see log for details
+[value]${player}[/value]'s UUID is already using the online version.
+WARNING: This operation will delete player data for [value]${player}[/value]!
+If you want to continue, type in: [value]/gorecore fixid ${player} destroy-data[/value]
+You frost the cake.
+You frost the cake with small swirls.
+Frost the cake.
+You lick %1$s gallons of frosting off the cake. I don't think you can get diabetes as a kid...
+Lick frosting off the cake. That's naughty!!
+You are sad. You have no video games.
+You play %1$s.
+Play some video games.
+You buy %1$s video game(s).

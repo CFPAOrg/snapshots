@@ -1,0 +1,147 @@
+Molten Iron
+Molten Gold
+Molten Copper
+Molten Tin
+Molten Bronze
+Molten Electrum
+Molten Invar
+Molten Nickel
+Molten Zinc
+Molten Brass
+Molten Constantan
+Molten Silver
+Molten Steel
+Molten Lead
+Molten Alumina
+Molten Aluminium
+Molten Platinum
+Molten Iridium
+Molten Chrome
+Molten Tungsten
+Molten Cobalt
+Molten Uranium
+Molten Titanium
+Molten Refined Iron
+Molten Glass
+Molten Glass (Black)
+Molten Glass (Red)
+Molten Glass (Green)
+Molten Glass (Brown)
+Molten Glass (Blue)
+Molten Glass (Purple)
+Molten Glass (Cyan)
+Molten Glass (Light Gray)
+Molten Glass (Gray)
+Molten Glass (Pink)
+Molten Glass (Lime)
+Molten Glass (Yellow)
+Molten Glass (Light Blue)
+Molten Glass (Magenta)
+Molten Glass (Orange)
+Molten Glass (White)
+Molten Manasteel
+Molten Terrasteel
+Molten Elementium
+Molten Mithril
+Molten Signalum
+Molten Lumium
+Molten Redstone
+Molten Glowstone
+Molten Ender Pearl
+Molten Electrical Steel
+Molten Energetic Alloy
+Molten Vibrant Alloy
+Molten Redstone Alloy
+Molten Conductive Iron
+Molten Pulsating Iron
+Molten Dark Steel
+Molten Soularium
+Molten End Stone
+Molten End Steel
+Molten Iron Alloy
+Molten Osmium
+Molten Refined Obsidian
+Molten Refined Glowstone
+All
+Aluminum
+Carbon
+Chromium
+Cobalt
+Copper
+Gold
+Iron
+Lead
+Manganese
+Nickel
+Osmium
+Platinum
+Silver
+Tin
+Titanium
+Tungsten
+Uranium
+Chrome
+Zinc
+Stone
+Gunpowder
+Wood
+Endstone
+Netherrack
+Amethyst
+Brass
+Bronze
+Cobaltite
+Constantan
+Cupronickel
+Diamond
+Electrum
+Emerald
+Green Sapphire
+Invar
+Kanthal
+Nichrome
+Obsidian
+Olivine
+Ruby
+Sapphire
+Stainless Steel
+Steel
+Topaz
+Redstone
+Glowstone
+Thaumium
+Void Metal
+Manasteel
+Terrasteel
+Elementium
+Rubber
+Mithril
+Signalum
+Lumium
+Red Alloy
+Adamantine
+Atlarus
+Rubracium
+Haderoth
+Tartarite
+Midasium
+Damascus Steel
+Angmallen
+Quicksilver
+Orichalcum
+Celenegil
+Vyroxeres
+Sanguinite
+Carmot
+Infuscolium
+Meutoite
+Hepatizon
+Eximite
+Desichalkos
+Deep Iron
+Ceruclase
+BlackSteel
+Astral Silver
+Amordrine
+Alduorite
+Kalendrite

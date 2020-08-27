@@ -1,0 +1,48 @@
+MCT Smeltery IO
+Fuel Controller
+Casting Machine
+Powdered Fuel
+Iceball
+Base Upgrade
+Slot Size Upgrade 1
+Slot Size Upgrade 2
+Slot Size Upgrade 3
+Slot Size Upgrade 4
+Basin Upgrade
+Speed Upgrade
+Redstone Upgrade
+Fuel Controller
+Temperature
+Ratio
+Smeltery needs Items
+Smeltery at Capacity
+No Fuel
+No Smeltery Fuel
+No Controller
+Too Many Controllers
+Casting Machine
+Empty Tank
+Hold "Shift" to Unlock Button
+Lock or Unlock Upgrade/Cast Slots 
+Hold "Shift" to Unlock Button
+For Upgrade/Cast Extraction
+Lock Enabled
+Lock Disabled
+Smeltery IO
+Hold "Shift" for More Information
+Base Item for Upgrades
+Use in Upgrade Recipes
+For Casting Machine
+Increase Output Slot Size by 1 in Casting Machine
+For Casting Machine
+Increase Output Slot Size by 2 in Casting Machine
+For Casting Machine
+Increase Output Slot Size by 3 in Casting Machine
+For Casting Machine
+Increase Output Slot Size by 4 in Casting Machine
+For Casting Machine
+Switch to Basin Mode in Casting Machine
+For Casting Machine and Fuel Controller
+Increase Processing Speed
+For Casting Machine
+Casting Machine Controlled by Redstone Signal

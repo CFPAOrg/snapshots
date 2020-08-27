@@ -1,0 +1,60 @@
+Energy Input Hatch 64 Amps (LuV)
+Energy Input Hatch 128 Amps (LuV)
+Energy Input Hatch 4 Amps (ZPM)
+Energy Input Hatch 16 Amps (ZPM)
+Energy Input Hatch 64 Amps (ZPM)
+Energy Input Hatch 128 Amps (ZPM)
+Energy Input Hatch 4 Amps (UV)
+Energy Input Hatch 16 Amps (UV)
+Energy Input Hatch 64 Amps (UV)
+Energy Input Hatch 128 Amps (UV)
+Energy Output Hatch 16 Amps (ULV)
+Energy Output Hatch 32 Amps (ULV)
+Energy Output Hatch 64 Amps (ULV)
+Energy Output Hatch 128 Amps (ULV)
+Energy Output Hatch 16 Amps (LV)
+Energy Output Hatch 32 Amps (LV)
+Energy Output Hatch 64 Amps (LV)
+Energy Output Hatch 128 Amps (LV)
+Energy Output Hatch 16 Amps (MV)
+Energy Output Hatch 32 Amps (MV)
+Energy Output Hatch 64 Amps (MV)
+Energy Output Hatch 128 Amps (MV)
+Energy Output Hatch 16 Amps (HV)
+Energy Output Hatch 32 Amps (HV)
+Energy Output Hatch 64 Amps (HV)
+Energy Output Hatch 128 Amps (HV)
+Energy Output Hatch 16 Amps (EV)
+Energy Output Hatch 32 Amps (EV)
+Energy Output Hatch 64 Amps (EV)
+Energy Output Hatch 128 Amps (EV)
+Energy Output Hatch 16 Amps (IV)
+Energy Output Hatch 32 Amps (IV)
+Energy Output Hatch 64 Amps (IV)
+Energy Output Hatch 128 Amps (IV)
+Energy Output Hatch 16 Amps (LuV)
+Energy Output Hatch 32 Amps (LuV)
+Energy Output Hatch 64 Amps (LuV)
+Energy Output Hatch 128 Amps (LuV)
+Energy Output Hatch 16 Amps (ZPM)
+Energy Output Hatch 32 Amps (ZPM)
+Energy Output Hatch 64 Amps (ZPM)
+Energy Output Hatch 128 Amps (ZPM)
+Energy Output Hatch 16 Amps (UV)
+Energy Output Hatch 32 Amps (UV)
+Energy Output Hatch 64 Amps (UV)
+Energy Output Hatch 128 Amps (UV)
+Auric Fluoride Dust
+Naquadria Concentrate Dust
+Enriched Naquadah Concentrate Dust
+Naquadah Concentrate Dust
+Indium Trioxide Dust
+Indium Trifluoride Dust
+Antimony Trifluoride Dust
+Naquadric Solution
+Enriched Naquadric Solution
+Naquadriatic Solution
+Antimony Pentafluoride
+Fluoroantimonic Acid
+Fluoronaquadric Acid
+Fluoronaquadriatic Acid

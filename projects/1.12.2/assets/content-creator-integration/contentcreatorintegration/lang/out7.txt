@@ -1,0 +1,27 @@
+Checks for a player statistic. Please look at RequestStatisticsConditions first.
+The variable to put the statistic number into. Will return false if the statistics lookup failed.
+(DEPRECATED) Writes information into a global variable that will can be used elsewhere in other events. Local variables of the same name will still override these. If you want to check the content of a variable, use VariableCondition
+Name of the global variable to insert into. Will override existing variables.
+Content of the variable you are inserting into.
+Writes information into a variable to be used by other conditions/outcomes. For example, using multiple ConditionalOutcomes to see if a certain sentence should insert "month" or "months".
+Name of the variable to insert into. Will override existing variables.
+Content of the variable you are inserting into.
+Adds this variable to the global variables as well.
+Are you editing the notes externally? This condition will reload your notes.
+Use this to check if a variable is an array.
+The name of the variable you are targeting.
+Use this to check for a String in an array from a specific variable.
+The name of the variable you are targeting.
+The result you are hoping to match with within the array.
+Be case sensitive?
+Gets the length of an array. Returns false if the variable isn't an array.
+The name of the variable that stores the array.
+The name of the variable to store the result.
+Combines two arrays.
+The name of the variable with the first array.
+The name of the variable with the second array.
+The name of the variable to store the combined array.
+Deletes a string from the array. Returns false if the variable is not an array or the string is not found in the array.
+The name of the variable that stores the array.
+String to remove from the array.
+Adds a string to the array. Returns false if the variable is not an array.

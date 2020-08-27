@@ -1,0 +1,94 @@
+Cyan Dark Prismarine
+Light Gray Dark Prismarine
+Gray Dark Prismarine
+Pink Dark Prismarine
+Lime Dark Prismarine
+Yellow Dark Prismarine
+Light Blue Dark Prismarine
+Magenta Dark Prismarine
+Orange Dark Prismarine
+White Dark Prismarine
+Black Sea Lantern
+Red Sea Lantern
+Green Sea Lantern
+Brown Sea Lantern
+Blue Sea Lantern
+Purple Sea Lantern
+Cyan Sea Lantern
+Light Gray Sea Lantern
+Gray Sea Lantern
+Pink Sea Lantern
+Lime Sea Lantern
+Yellow Sea Lantern
+Light Blue Sea Lantern
+Magenta Sea Lantern
+Orange Sea Lantern
+White Sea Lantern
+Black Block of Coal
+Red Block of Coal
+Green Block of Coal
+Brown Block of Coal
+Blue Block of Coal
+Purple Block of Coal
+Cyan Block of Coal
+Light Gray Block of Coal
+Gray Block of Coal
+Pink Block of Coal
+Lime Block of Coal
+Yellow Block of Coal
+Light Blue Block of Coal
+Magenta Block of Coal
+Orange Block of Coal
+White Block of Coal
+Black Packet Ice
+Red Packet Ice
+Green Packet Ice
+Brown Packet Ice
+Blue Packet Ice
+Purple Packet Ice
+Cyan Packet Ice
+Light Gray Packet Ice
+Gray Packet Ice
+Pink Packet Ice
+Lime Packet Ice
+Yellow Packet Ice
+Light Blue Packet Ice
+Magenta Packet Ice
+Orange Packet Ice
+White Packet Ice
+Black Purpur Block
+Red Purpur Block
+Green Purpur Block
+Brown Purpur Block
+Blue Purpur Block
+Purple Purpur Block
+Cyan Purpur Block
+Light Gray Purpur Block
+Gray Purpur Block
+Pink Purpur Block
+Lime Purpur Block
+Yellow Purpur Block
+Light Blue Purpur Block
+Magenta Purpur Block
+Orange Purpur Block
+White Purpur Block
+Black End Stone Brick
+Red End Stone Brick
+Green End Stone Brick
+Brown End Stone Brick
+Blue End Stone Brick
+Purple End Stone Brick
+Cyan End Stone Brick
+Light Gray End Stone Brick
+Gray End Stone Brick
+Pink End Stone Brick
+Lime End Stone Brick
+Yellow End Stone Brick
+Light Blue End Stone Brick
+Magenta End Stone Brick
+Orange End Stone Brick
+White End Stone Brick
+Black Magma Block
+Red Magma Block
+Green Magma Block
+Brown Magma Block

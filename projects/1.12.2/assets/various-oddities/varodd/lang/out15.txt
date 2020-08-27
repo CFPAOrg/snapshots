@@ -1,0 +1,97 @@
+Now now, what curious need would you have to know of me?
+In an unknown age, it might have been an ally. That time has long since passed.
+A small reptilian creature given to opportunistic alliances.
+A vicious predator second only to one...
+The undisputed ruler of the badlands.
+Various Oddities
+%s Eggs
+%s Blocks
+%s Loot
+Kobold
+Uberwidren
+Pegasus
+Winged Donkey
+Goblin
+Troll
+Ogre
+Mimic
+Gryphon
+Monkey
+Crab
+Giant Crab
+Floating Skull
+Disembodied Head
+Rat
+Giant Rat
+Raven
+Giant
+Giant Zombie
+Scorpion
+Giant Scorpion
+Bulette
+Tortoise Merchant
+Hare Cartographer
+Mage Hand
+Force Shield
+Lightning Javelin
+Zombie Kobold
+Warg
+Worg
+Nether Golem
+End Golem
+Velociraptor
+Megaraptor
+Tyrannosaurus
+Scarecrow
+Whale
+The Witch
+Changeling
+Changeling (cow)
+Changeling (horse)
+Changeling (pig)
+Changeling (sheep)
+Changeling (villager)
+Marimo
+Fireball
+Force Shield
+Mage Hand
+Lock
+Wall of Fire
+Magic Missile
+Corpse
+Original concept by Carlyn Lim
+Will avoid %s
+Will attack %s
+Behaves like a %s
++ %s health
+- %s health
++ %s damage
+- %s damage
+Bulette growls
+Jimmy chatters
+Raven caws
+Raven squawks
+Raven dies
+/caster <add/read/remove/reset/set>
+Increased caster level of %s to %s
+/caster add [optional target] [value]
+Caster level of %s: %s
+/caster read [optional target]
+Decreased caster level of %s to %s
+/caster remove [optional target] [value]
+Reset caster level of %s to %s
+/caster reset [optional target]
+Set caster level of %s to %s
+/caster set [optional target] [value]
+/spell_list <add/clear/list/refresh/remove>
+Player %s has no spells to cast.
+Player %s can cast: %s
+Player %s's full spell list is: %s
+Added spell %s to %s's spell list.
+Removed spell %s from %s's spell list.
+Removed all spells from %s's spell list.
+Refreshed %s's available spells.
+Added %s to the journal of %s
+/journal add [optional target] [entry]
+Removed all entries in the journal of %s
+/journal add [optional target]

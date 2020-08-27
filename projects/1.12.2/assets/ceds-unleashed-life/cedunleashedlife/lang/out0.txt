@@ -1,0 +1,67 @@
+CedKilleur's Unleashed Life
+Farting Cow
+Cow
+Bubble Cow
+King Cow
+Mini Cow
+Mini Cow Pet
+Zombie CedKilleur
+Demonic Sheep
+Bovine Brevik
+The EFCCOCAD
+Exploding Farting Cows Canon Of Catastrophe And Destruction
+EFCCOCAD Ammo
+Needed to shoot with The EFCCOCAD
+Wirt's Bell
+Needed to spawn King Cow
+Wirt's Bell Part 1
+Combine with other parts to make the Wirt's Bell
+Wirt's Bell Part 2
+Combine with other parts to make the Wirt's Bell
+Wirt's Bell Part 3
+Combine with other parts to make the Wirt's Bell
+Wirt's Bell Part 4
+Combine with other parts to make the Wirt's Bell
+Ancient Artifact
+Right Click to teleport to the surface
+Sneak Right Click to obtain a part of the Wirt's Bell
+Baminomicow
+Contains Dungeon's locations
+EFCCOCAD muzzle
+EFCCOCAD chamber
+EFCCOCAD butt
+EFCCOCAD trigger
+1/4 part of EFCCOCAD
+1/4 part of EFCCOCAD
+1/4 part of EFCCOCAD
+1/4 part of EFCCOCAD
+Cow Level Teleporter
+Right Click to teleport to Cow Level
+Spear
+%1$s vanished in a gas explosion !
+%1$s was pierced to death !
+%1$s was blown up by the King Cow !
+%1$s was burnt to death !
+%1$s flew away with hot gas !
+_4entity.BossCow.name _cwill only show himself to one who holds the _6item.cedunleashedlife.wirt__bell.name
+_2Now you can claim yourself as a true warrior
+_5Only true warriors can mine here.
+_2You could be a true warrior if you defeat _4entity.BossCow.name
+_5Only true warriors can build here.
+JarnoVH
+CedKilleur
+Vash505
+Noxpai
+JBams
+M1Jordan
+Lycanite
+Naggih
+Kashdeya
+PinkBunneh
+Orician
+GhostlyKoala
+Ka13b
+_5Responsible for most of the custom mods, many configs, takes Madpack 4 to the next level.
+_2Main tester. A Madpack legend. Responsible for many nerfs, and also finding bugs/issues to make the pack a smoother experience.
+_2Tester. Great at thinking outside the box and sometimes inside the nether. Pretty sure he hacks the game for good RNG.
+_5Don't let him out of his cage. Responsible for most of the custom textures in the pack.

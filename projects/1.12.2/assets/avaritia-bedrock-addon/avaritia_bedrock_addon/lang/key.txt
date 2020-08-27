@@ -1,0 +1,17 @@
+item.bedrockarmorboots.name
+item.bedrockaxe.name
+item.bedrockpickaxe.name
+item.bedrocksring.name
+tile.bedrockstalbemachine.name
+itemGroup.tabbedrock
+item.bedrockbow.name
+tile.bedrockstableblock.name
+item.bedrockarmorlegs.name
+item.bedrockingot.name
+item.bedrockworld.name
+item.bedrockstick.name
+item.bedrockarmorhelmet.name
+item.bedrockarmorbody.name
+item.dedrocksword.name
+item.bedrockshovel.name
+item.bedrockguidebook.name

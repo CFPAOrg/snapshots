@@ -1,0 +1,128 @@
+Ability6
+Ability5
+Ability3
+Ability2
+Ability1
+Ability4
+Ability7
+Flight
+Quiver Backward
+Quiver Forward
+Suit Information
+TypicalHeroes Abilities
+TypicalHeroes Utility
+None
+Suit On/Off
+Shield
+Scroll Weapons
+Activate Repulsors
+Reset Weapon Scroll
+Flight Mode
+Shot Rifle
+Threw Batarang
+WonderWoman Bracelet
+Black Leather
+Black Diamond
+Batman Symbol
+Batman Utility Belt
+Batman Smoke Bomb
+Kryptonian Bone
+TG-Fiber
+Red TG-Fiber
+Yellow TG-Fiber
+Black TG-Fiber
+Blue TG-Fiber
+Zeus' Lightning
+Pym Particles
+Kryptonian DNA
+Kryptonian DNA Fragment
+TG Nano-Particles
+Nano-Tech
+God Essence
+Iron Fiber
+Uranium Ingot
+Super Soldier Composite
+Vibranium
+Vibranium Plate
+Gun Base
+Quiver
+Super Soldier Serum
+Radiation Vial
+Lightning Essence
+Amazonian Ore
+Black Diamond Block
+3D Printer Casing
+3D Printer Interface
+3D Printer Power Input
+3D Printer Glass
+Suit Maker
+Titanium Ore
+Nano Compacter
+Smelting Crucible
+Fuel Generator
+Titanium-Gold Block
+God Altar
+Kryptonite
+Codex
+DNA Extractor
+Typical Machine Unit
+Motherbox
+Metallic Shell
+Reinforced Glass
+Reinforced Door
+Control Panel
+Fusion Core
+Uranium Ore
+Uranium Block
+Vibranium Block
+Vibranium Ore
+Lightning Extractor
+Suit Maker
+Amazonian Ingot
+Red Amazonian Ingot
+Blue Amazonian Ingot
+Amazonian Steel Ingot
+Steel Ingot
+Titanium Ingot
+Titanium-Gold Ingot
+Circuit Board
+WonderWoman Sword
+WonderWoman Shield
+Steve Trevor Rifle
+Batman Batarang
+Batman Batarang (Explosive)
+Aquaman Trident
+Mjolnir
+Captain America Shield
+Electric Baton
+Loki Scepter
+Pistol
+Compound Bow
+WonderWoman Tiara
+WonderWoman Chestplate
+WonderWoman Skirt
+WonderWoman Boots
+Batman Cowl
+Batman Chest
+Batman Leggings
+Batman Boots
+Ironman Chest
+Ironman Helmet
+Ironman Legs
+Ironman Boots
+Ironman ArcReactor
+Antman Helmet
+Antman Chest
+Antman Legs
+Antman Boots
+Wasp Helmet
+Wasp Chest
+Wasp Legs
+Wasp Boots
+Superman Chest
+Superman Legs
+Superman Boots
+Hulk Head
+Hulk Chest
+Hulk Legs
+Hulk Feet

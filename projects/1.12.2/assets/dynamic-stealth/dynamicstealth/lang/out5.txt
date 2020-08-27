@@ -1,0 +1,28 @@
+Name
+FILLSCREEN FIXNEWLINES If true, the targeted entity's name is shown (if available)\n \n
+Health
+FILLSCREEN FIXNEWLINES If true, the targeted entity's health is shown (if available)\n \n
+Action
+FILLSCREEN FIXNEWLINES If true, the targeted entity's current action is shown (if available)\n \n
+Threat
+FILLSCREEN FIXNEWLINES If true, the targeted entity's threat level is shown (if available)\n \n
+Distance
+FILLSCREEN FIXNEWLINES If true, the targeted entity's distance is shown (if available)\n \n
+Show Light Gauge
+FILLSCREEN FIXNEWLINES Whether to show the light gauge\n \n
+Light Gauge Opacity
+FILLSCREEN FIXNEWLINES How visible the light gauge is, transparency-wise\n\n0 means invisible, 1 means completely opaque\n \n
+Light Gauge Color (Empty)
+FILLSCREEN FIXNEWLINES The color of an empty light gauge piece\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+Light Gauge Color (Full)
+FILLSCREEN FIXNEWLINES The color of a filled light gauge piece\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+Light Gauge Size
+FILLSCREEN FIXNEWLINES The size of the light gauge\n \n
+Light Gauge X Position
+FILLSCREEN FIXNEWLINES The x position of the light gauge\n\n0 is far left, 0.5 is center, 1 is far right\n \n
+Light Gauge Y Position
+FILLSCREEN FIXNEWLINES The y position of the light gauge\n\n0 is top, 0.5 is center, 1 is bottom\n \n
+Minimum Entity Opacity
+FILLSCREEN FIXNEWLINES The opacity of an entity when you just barely see it\n\nIf set to 0, entities on the edge of your vision are nearly invisible\n\nIf set to 1, entities always appear at full visibility\n \n
+Full Opacity At...
+FILLSCREEN FIXNEWLINES The stealth rating at or above which an entity is drawn at full opacity\n\nIf set to 1, entities are only drawn at full opacity in the very best of visibility conditions\n\nDecreasing the value makes entities appear opaque at further distances and in lower lighting, etc\n \n

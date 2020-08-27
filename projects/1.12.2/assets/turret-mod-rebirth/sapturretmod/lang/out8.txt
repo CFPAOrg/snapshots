@@ -1,0 +1,58 @@
+Power generated:
+Turret idles
+Turret gathers
+Turret breaks
+Turret damaged
+Shotgun Turret shoots
+Cryolator Turret shoots
+Minigun Turret shoots
+Revolver Turret shoots
+Laser Turret shoots
+Flamethrower Turret fires
+Sniper Turret shoots
+Healer Turret heals
+Flak Turret launches
+Artillery Turret shoots
+Bullet ricochets
+Projectile splashes
+Shield engages
+Turret Assembly Table
+Energy consumed:
+Processing time:
+Requires:
+Only Applicable On:
+<Hold Shift>
+Base for further upgrades. Not applicable to anything.
+Health I
+Increases the turret health by 25% .
+Health II
+Increases the turret health by an additional 25% (50% overall).
+Health III
+Increases the turret health by an additional 25% (75% overall).
+Health IV
+Increases the turret health by an additional 25% (100% overall).
+Reload I
+Decreases the reload time by 15% .
+Reload II
+Decreases the reload time by an additional 35% (50% overall).
+Upgrade Storage I
+Increases the available upgrade slots by 9.
+Upgrade Storage II
+Increases the available upgrade slots by 9.
+Upgrade Storage III
+Increases the available upgrade slots by 9.
+Ammunition Storage
+Increases the available ammo storage by 320 units.
+Turret Mod: Turrets
+Turret Mod: Items
+Turret Mod: Upgrades
+Arrows
+Turret which shoots pebbles. It has the same stats as the T1 turret, but makes the lowest damage. Ideal for hitting multiple targets at once.
+Pebbles
+Turret which shoots seeds. It has double the health as the T1 turrets, the fastest cooldown time but makes low damage. Ideal for crowd control in combination with the T1 Shotgun Turret.
+Wheat seeds
+Melon seeds
+Pumpkin seeds
+This turret has double the health and damage, +8 blocks more range, shoots twice as fast and is more expensive than the Crossbow Turret. Ideal for intermediate defense systems.
+Bullets
+This turret can be considered as the upgraded version of the Revolver turret. It shoots lasers which deal 6 HP of damage, it has 60 HP of health and 1.5 times more range! Choose one of these turrets for your advanced defense system.

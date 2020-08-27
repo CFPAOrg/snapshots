@@ -1,0 +1,12 @@
+tile.df.name
+entity.sim.name
+item.ice.name
+item.s.name
+entity.buffcow.name
+item.meat.name
+item.pr.name
+item.sw.name
+entity.golem.name
+item.amo.name
+item.ruby.name
+item.gun.name

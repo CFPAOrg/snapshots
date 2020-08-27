@@ -1,0 +1,105 @@
+Snow Covered House
+Magic Storehouse Block
+Remove a 16x16 Structure
+16x16 and 256 high
+16x16 and 32 high
+16x16 and 8 high
+Remove a 32x32 Structure
+32x32 and 16 high
+32x32 and 256 high
+32x32 and 8 high
+Remove a 64x64 Structure
+64x64 and 256 high
+Remove a 1 high Structure
+8x8 and 16 high
+8x8 and 256 high
+8x8 and 32 high
+Remove last placed structure
+Survival Structures
+Decoration
+Food
+Industry - High Density
+Industry - Medium Density
+Industry - Low Density
+Office
+Public
+Residental - Enormous Density
+Residental - High Density
+Residental - Medium Density
+Residental - Low Density
+Shopping - High Density
+Transport - Airport
+Transport - Harbour
+Transport - Public
+Transport - Roads
+Transport - Water
+Utility
+Structure Removers
+Other Structures
+World Generation (WATCH OUT)
+Live Structures
+Airship #02
+Building Complex
+Airship
+Miner Tent #03
+Miner Tent #02
+Lighthouse
+Miner Tent
+Nether Entrance Building
+Brick House
+Survivalists' Shack #08
+Survivalists' Shack #07
+Tent Camp
+Wooden House
+Cloud Generator
+Sandstone House Complex
+Immense Shopping Arcade
+Immense Quartz Building
+Brick Office
+Small Palace
+Sandstone Church
+Sandstone Villa
+Sandstone House
+Sandstone Chapel
+Brick 'n Planks Building
+Immense Palace
+Wooden Cabin
+Sandstone Palace
+Windmill
+Airballoon
+Airplane
+Boat
+Airship #02
+Airship #01
+F16
+Helicopter
+Fair - Freefall
+Mill
+Cinema
+Flying Helicopter
+Game Over Block
+Challenge One
+Challenge Two
+Challenge Three
+Challenge Four
+Challenge Five
+Challenge Six
+Challenge Seven
+Challenge Eight
+Challenge Nine
+Challenge Ten
+BlackRock
+Bus
+Double Decker Bus
+Ferris Wheel
+Christmas House
+Christmas House #2
+Christmas House #3
+Santa's Sleigh
+Santa's Sleigh #2
+Giant Snowman
+Giant Christmas Tree
+Christmas Marketplace
+Watermill
+Add a new structure!
+Your Own Structures!

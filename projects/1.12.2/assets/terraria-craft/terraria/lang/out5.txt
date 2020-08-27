@@ -1,0 +1,134 @@
+Campfire
+Lamp Post
+Pot
+Cobweb
+Cactus Work Bench
+Slime Work Bench
+Frozen Work Bench
+Dynasty Work Bench
+Boreal Wood Work Bench
+Golden Work Bench
+Granite Work Bench
+Meteorite Work Bench
+Firefly in a Bottle
+Lighning Bug in a Bottle
+Honey Block
+Martian Work Bench
+Slime Block
+Honey Dispenser
+Honey Work Bench
+Honey Door
+Cooking Pot
+Palm Wood Lantern
+Palm Wood Work Bench
+Glass Work Bench
+Honey Cup
+Wine Glass
+Dynasty Cup
+Chalice
+Pink Vase
+Mug
+Lihzahrd Work Bench
+Living Wood Work Bench
+Flesh Work Bench
+Bomb Statue
+Bunny Statue
+Chest Statue
+Worm Statue
+'0' Statue
+'1' Statue
+'2' Statue
+'3' Statue
+'4' Statue
+'5' Statue
+'6' Statue
+'7' Statue
+'8' Statue
+'9' Statue
+Heavy Work Bench
+Crimson Altar
+Solidifier
+'A' Statue
+'B' Statue
+'C' Statue
+'D' Statue
+'E' Statue
+'F' Statue
+'G' Statue
+'H' Statue
+'I' Statue
+'J' Statue
+'K' Statue
+'L' Statue
+'M' Statue
+'N' Statue
+'O' Statue
+'P' Statue
+'Q' Statue
+'R' Statue
+'S' Statue
+'T' Statue
+'U' Statue
+'V' Statue
+'W' Statue
+'X' Statue
+'Y' Statue
+'Z' Statue
+Boreal Lantern
+Steampunk Boiler
+Crystal Ball
+Jungle Crate
+Corrupt Crate
+Chinese Lantern
+Cog
+Crystal Lantern
+Hanging Jack 'O Lantern
+Jungle Thorny Bushes
+Crimson Thorny Bushes
+Corrupt Thorny Bushes
+Slime Door
+Steampunk Door
+Anvil Statue
+Pot Statue
+Cross Statue
+Marble Lantern
+Martian Lantern
+Meteorite Lantern
+Pearlwood Lantern
+Pumpkin Lantern
+Rich Mahogany Lantern
+Golden Lantern
+Vine Rope
+Silk Rope
+Web Rope
+Pillar Statue
+Drippler Statue
+Hornet Statue
+Lever
+Flesh Cloning Vat
+Corrupt Statue
+Axe Statue
+Bow Statue
+Boomerang Statue
+Hammer Statue
+Pickaxe Statue
+Potion Statue
+Shield Statue
+Spear Statue
+Sword Statue
+Green Slime Banner
+Blue Slime Banner
+Purple Slime Banner
+Red Slime Banner
+Yellow Slime Banner
+Black Slime Banner
+Pinky Banner
+Jungle Slime Banner
+Boot Statue
+Demon Eye Banner
+Eyeball Statue
+Gloom Statue
+Piggy Bank
+Mushroom Statue
+Sunflower Statue
+Tree Statue

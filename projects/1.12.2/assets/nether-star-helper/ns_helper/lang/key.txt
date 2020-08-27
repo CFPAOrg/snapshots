@@ -1,0 +1,12 @@
+item.netercore.name
+item.right.name
+item.up.name
+item.left.name
+item.realleft.name
+item.core.name
+itemGroup.tabqwsdqwd
+item.down.name
+item.centralcoreofcore.name
+item.hardglue.name
+tile.netehercoreore.name
+item.glue.name

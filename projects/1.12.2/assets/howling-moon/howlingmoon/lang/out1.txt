@@ -1,0 +1,63 @@
+Grants the ability to transform into a wolf.
+Gain access to a bigger, stronger form.
+Strength
+Rend
+Protection
+Movement Speed
+Jump Height
+Fall Distance
+Knockback
+Knockback Resistance
+Hunger
+Regeneration
+Clarity
+Exhilarating
+Resistance
+Dexterity
+Increases unarm damage by 15%%.
+Ignores 2 points of armor.
+Reduces damage taken by 8%% while not wearing armor.
+Increases movement speed.
+Increases jump height.
+Increases the distance able to fall without taking damage.
+Increases knockback with unarm attacks.
+Increases knockback resistance.
+Reduces the amount hunger while transformed.
+Slowly regenerate health, each point increases regeneration speed.
+Reduces the negative effects of exiting transformations.
+Gives temparory boost upon transformation. Increased saturation, and gives beneficial potion effects. Exhilarating can only activate once every 5 minutes.
+Each point grants immunity to a status effect. Immunity 1: Weakness. 2: Posion. 3: Slowness. 4: Fatigue. 5: Wither.
+Increases effectiveness with paws.
+Reset Ability Points
+Reset Attribute Points
+Reset Inclination
+Progress will be reseted to the point before choosing. 
+Cost 10 levels.
+Assign
+Close
+Confirm
+Empty Paw
+Keeps a assigned hotbar slot empty.
+Error. Good job breaking it fuzzy.
+Howling Moon
+Menu
+Transform
+Ability 1
+Ability 2
+%s is now a Werewolf
+%s is no longer a Werewolf
+/werewolf <true|false>
+Cannot set level of non-werewolf player.
+Cannot set were-levels below 1.
+Set were-level to %s for %d
+/werelevel <amount> or /werelevels <amount>
+Cannot set progress below 0.
+Cannot set progress of non-werewolf player.
+Set were-progress to (%d, %s) for %s
+/wereprogress <0-8> [-1, 0 , 1] or /werequests <0-8> [-1, 0, 1]
+Set Level Cap
+Spawn Silver Ore
+Werewolves Sleep
+Dimension ID
+Set the level cap for werewolves. I highly recommend not increasing it past the default.
+Configure if werewolves are allowed to sleep while transformed.

@@ -1,0 +1,47 @@
+Howl
+Climb
+Leap
+Night Vision
+Dash
+Ram
+Lift
+Shred
+Bite
+Paw
+Armor
+Scent Tracking
+Maim
+Tranquility
+Silver Blood
+Humanity
+Fear
+Berserk
+Feral
+Ingenuity
+Skillful
+Mastery
+Werewolf
+Wolf
+Beast
+Howl loud and summon wolf spirits. Strength and duration increase with level. Cooldown: 1 minute.
+Allows you to climb up certain blocks. Amount of possible climbable blocks increases with level.
+Allows you to leap forward at incredible speed.
+Gives access to night vision.
+While sprinting, entities that you collide with are knocked back and stunned.
+Allows you to pick up and carry entities. Must have nothing equipped in paws to carry.
+Unarm attacks inflict bleed.
+Bites the targeted player and infects them with your lycanthropy.
+Allows a werewolf to hold items in paws. The item's effectiveness however is reduced.
+Allows a werewolf to wear armor. Armor's effectiveness and mobility is reduced.
+Allows you to track entities by scent. Distance entities are trackable increases with level. Also able to set colors and entities tracked in menu.
+A special attack that injures the victim. Inflicting slowness and fatigue.
+Animals and Villagers no longer run away from you.
+Reduces weakness to silver and wolfsbane.
+Removes the negative effects of armor and equipped items while transformed.
+Some hostile mobs will become too afraid to attack. However they will still attack if provoked.
+Killing consecutively will temparory increases your strength for a short time. Effect strengthens with each kill.
+You have forsaken your humanity. Becoming one with the beast compeletely. Attributes and weaknesses are increased, even in human form. Armor and Tools are worthless to you transformed, and less effective even in human form.
+Increases exp gain.
+Increases Attribute points.
+Increases Attribute and Ability points.
+Grants the ability to transform into a werewolf. Increased movement speed, jump height, unarm attack damage and reduces damage taken.

@@ -1,0 +1,17 @@
+key.reelIn
+key.reelOut
+key.fishingmadebetter.category
+fishingmadebetter.subtitle.reeling
+fishingmadebetter.subtitle.fishsplashing
+item.fishingmadebetter.knife.name
+item.fishingmadebetter.scale_remover.name
+item.fishingmadebetter.fish_bucket.name
+item.fishingmadebetter.fish_tracker.name
+item.fishingmadebetter.fish_tracker_gold.name
+item.fishingmadebetter.fish_tracker_diamond.name
+item.fishingmadebetter.basic_fishing_rod.name
+item.fishingmadebetter.iron_fishing_rod.name
+item.fishingmadebetter.diamond_fishing_rod.name
+tile.fishingmadebetter.baitbox.name
+commands.fishingmadebetter.fishing.usage
+commands.fishingmadebetter.fishing.reload.usage

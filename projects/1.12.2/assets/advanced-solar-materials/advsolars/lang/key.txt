@@ -1,0 +1,4 @@
+item.advsolars.sunnarium.name
+item.advsolars.sunnarium_enriched.name
+item.advsolars.sunnarium_plate.name
+item.advsolars.sunnarium_enriched_plate.name

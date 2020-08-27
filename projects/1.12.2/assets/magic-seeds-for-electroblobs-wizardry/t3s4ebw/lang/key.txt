@@ -1,0 +1,2 @@
+item.magic_seed.name
+tile.crystal_crop.name

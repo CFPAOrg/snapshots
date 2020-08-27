@@ -1,0 +1,14 @@
+Paper
+Soldiers will wear paper as capes. No benefits whatsoever other than for looks.\n\nA book provides material for infinite soldiers.\n\n§7-§1 Misc. upgrade\n§7-§1 wearable cape\n§7-§1 book provides infinite\n§1   material
+Concrete Powder
+The powder can be used by soldiers as dye for capes. If the soldier also has an {link:Emerald|upgrades:emerald}, the lightning effect from that is also colorized.\n\nIt is not consumed by the soldier.\n\n§7-§1 Misc. upgrade\n§7-§1 colorizes {link:Capes|upgrades:paper}\n§7-§1 requires {link:Paper|upgrades:paper}
+Buttons
+Buttons can be used by soldiers as "brass knuckles" to increase their damage output when weaponless. Stone buttons are harder and gives a bigger damage boost.\n\n§7-§1 Misc. upgrade\n§7-§1 + 1 pts. damage (wood) or\n§7-§1 + 2 pts. damage (stone)\n§7-§1 only works when weaponless
+Clay
+Seen as an act of necromancy, soldiers are capable of reviving fallen teammates or clay creatures. The doll items must touch the ground to prevent them from dying again by fall damage.\n\n§7-§1 Misc. upgrade\n§7-§1 4 uses\n§7-§1 revives clay creatures
+Ghast Tear
+Similar to {link:Clay|upgrades:clay}, Ghast Tears can revive soldiers, but only those that are burnt to a brick; it does not matter which team the brick doll was associated with previously.\n\n§7-§1 Misc. upgrade\n§7-§1 2 uses\n§7-§1 revives brick soldiers
+Redstone
+A magical substance that can give life to any device. Soldiers will use it for a more... rudimentary use: throwing it at others to blind them and make them unable to attack anyone.\n\nAlso works with throwable weapons.\n\nA Block provides material for infinite soldiers.\n\n§7-§1 Misc. upgrade\n§7-§1 4 uses\n§7-§1 blinds targets for 3 sec.\n§7-§1 block provides infinite\n§1   material
+Slimeball
+Slimeballs can be used on enemies; due to their viscosity and stickyness, those affected cannot move around for awhile.\n\nAlso works with throwable weapons.\n\nA Block provides material for infinite soldiers.\n\n§7-§1 Misc. upgrade\n§7-§1 5 uses\n§7-§1 prevents walking for 3 sec.\n§7-§1 block provides infinite\n§1   material

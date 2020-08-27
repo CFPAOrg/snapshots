@@ -1,0 +1,4 @@
+tile.brazierfurnace.name
+itemGroup.ThousandDegreeKnifeMod
+item.thousanddegreeknife.ironknife.name
+item.thousanddegreeknife.thousanddegreeknife.name

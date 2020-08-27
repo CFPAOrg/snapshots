@@ -1,0 +1,11 @@
+Modulus
+Equipment
+Normal
+Vest
+Upper Face
+Lower Face
+Backpack
+Gloves
+Arms
+Accessory
+Any

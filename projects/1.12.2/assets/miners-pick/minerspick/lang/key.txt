@@ -1,0 +1,3 @@
+advancements.ezdiamonds.descr
+item.minerspick.name
+advancements.ezdiamonds.title

@@ -1,0 +1,7 @@
+item.icecreamvanillafood.name
+item.icecreamstrawberryfood.name
+tile.strawberryplantplant.name
+item.icecreamchocolatefood.name
+itemGroup.tabmorefood
+item.icecreamconeitem.name
+item.strawberryfood.name

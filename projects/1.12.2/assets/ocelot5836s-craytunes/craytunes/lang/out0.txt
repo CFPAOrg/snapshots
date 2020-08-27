@@ -1,0 +1,134 @@
+English
+United States
+en_us
+Play
+Stop
+Master
+Music
+Record
+Weather
+Items
+Blocks
+Entity
+Ambient
+Vanilla
+Modded
+Switch to this tab
+Button Click
+Toast Slides Out
+Challenge Completed
+Toast Slides In
+Creative
+Credits
+Dragon Fight
+End
+Game
+Menu
+Nether
+Rain falls from above
+Equip Generic Armor
+Empty Glass Bottle
+Fill Glass Bottle with Dragon Breath
+Empty Lava Bucket
+Fill Lava Bucket
+Elytra Flying
+Shield Breaks
+Anvil breaks
+Anvil fall
+Anvil hit
+Anvil placed
+Anvil step
+Cloth Breaks
+Cloth fall
+Cloth Hit
+Cloth Place
+Cloth Step
+Dispenser launches
+Enchantment table use
+End gateway spawns
+Enderchest closes
+Enderchest opens
+Fence Gate closes
+Fence Gate opens
+Glass Breaks
+Glass fall
+Glass hit
+Glass Place
+Glass Step
+Grass Breaks
+Grass fall
+Grass hit
+Grass Place
+Grass Step
+Grass Breaks
+Grass fall
+Grass hit
+Grass Place
+Grass Step
+Iron Door closes
+Iron Door opens
+Ladder breaks
+Ladder falls
+Ladder hit
+Ladder fall
+Ladder Step
+Lava pops
+Metal breaks
+Metal falls
+Metal hit
+Metal fall
+Metal Step
+Metal pressure plate clicks off
+Metal pressure plate clicks on
+Note Block base drum
+Note Block base drum
+Note Block harp
+Note Block hat
+Note Block pling
+Note Block snare drum
+Piston contracts
+Piston extends
+Portal travel
+Portal trigger
+Sand breaks
+Sand falls
+Sand hit
+Sand placed
+Sand Step
+Slime breaks
+Slime falls
+Slime hit
+Slime placed
+Slime Step
+Snow breaks
+Snow falls
+Snow hit
+Snow placed
+Snow Step
+Stone breaks
+Stone falls
+Stone hit
+Stone placed
+Stone Step
+Stone Button clicks off
+Stone Button clicks on
+Stone Pressure Plate clicks off
+Stone Pressure Plate clicks on
+Tripwire clicks off
+Tripwire clicks on
+Lily Pad placed
+Wood breaks
+Wood falls
+Wood hit
+Wood placed
+Wood Step
+Wooden Button clicks off
+Wooden Button clicks on
+Wooden Pressure Plate clicks off
+Wooden Pressure Plate clicks on
+Wooden Door closes
+Wooden Door opens
+Wooden Trapoor closes
+Wooden Trapoor opens
+Armorstand breaks
+Armorstand hit

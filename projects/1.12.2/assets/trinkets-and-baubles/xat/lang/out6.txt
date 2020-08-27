@@ -1,0 +1,53 @@
+Ender Queen's Crown Settings
+Water Hurts
+If the Player Should Take Damage when wet
+Chance to Ignore Damage
+Should taking damage have a chance to be ignored?
+Chance for Enderman
+Should Taking Damage have a chance to Spawn an Enderman?
+Enderman Spawn Chance
+1 in X chance to to ignore damage and spawn an Enderman to fight for you
+Endermen Follow
+Nearby Endermen Follow you if enabled
+Endermen Retaliate
+When Attacking an Enderman should it fight back?
+Endermen Drop XP
+When Killing an Enderman Should it drop Experience?
+Endermen Drop Items
+When Killing an Enderman Should it drop Items?
+Immune to Cold
+If Tough as Nails is Installed Should the player be Immune to Cold
+Ring of the Fairies Settings
+Ring of the Dwarves Settings
+Ring of the Titans Settings
+Shield of Honor Settings
+Ignore Damage
+While Enabled, every X Hits, Nullify the Next Incoming Attack
+Required Hits
+How many Hits before the Next Attack is Ignored
+Explosion Resistance
+Resistance to Explosions
+Explosion Resistance Amount
+Multiply Incoming Explosion Source Damage by this Amount
+Resistance Level
+Level of Resistance when worn. Default 0
+Resistance Stacks
+If the Shield of Honors Resistance should Stack with Resistance from other sources
+Epic Pro Gamer
+Only Disable this if you're 'The' Epic Pro Gamer (Easter Egg)
+Ignore Headshots
+If First aid is installed, Chance to Ignore Fatal Head Damage\nOnly Triggers if the Next Attack was supposed to kill you
+Headshots Ignore Chance
+1 in X Chance to Ignore Fatal Headshot Damage
+Stone of Inertia Null Settings
+Modify Fall Damage
+Should the Stone of Inertia Null Modify Fall Damage?
+Modified Fall Damage Amount
+Multiply Fall Damage by This Amount
+Stone of Greater Inertia
+Modify Fall Damage
+Should the Stone of Greater Inertia Modify Fall Damage?
+Modified Fall Damage Amount
+Multiply Fall Damage by This Amount
+Modify Jump Height
+Should the Stone of Greater Inertia Modify Jump Height?

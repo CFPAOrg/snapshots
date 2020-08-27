@@ -1,0 +1,5 @@
+text.drops.spawning
+text.drops.spawningNow
+text.drops.forced
+text.drops.captured
+text.drops.despawned

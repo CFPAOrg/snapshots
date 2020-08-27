@@ -1,0 +1,10 @@
+item.running_shoes.name
+item.leather_running_shoes.name
+item.iron_running_shoes.name
+item.gold_running_shoes.name
+item.diamond_running_shoes.name
+item.sprinting_shoes.name
+item.leather_sprinting_shoes.name
+item.iron_sprinting_shoes.name
+item.gold_sprinting_shoes.name
+item.diamond_sprinting_shoes.name

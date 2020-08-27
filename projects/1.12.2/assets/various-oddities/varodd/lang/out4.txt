@@ -1,0 +1,28 @@
+Restores 2-9 points of health to the target injured entity or caster.
+Restores 5-19 points of health to the target injured entity or caster.
+Restores 8-29 points of health to the target injured entity or caster.
+Restores 11-39 points of health to the target injured entity or caster.
+Creates a forbidding region of impermeable darkness.
+Creatures a large forbidding region of impermeable darkness.
+Prevents the target from escaping through teleportation or to other dimensions.
+Prevents any attempt to teleport into or out of the target region, including through other dimensions./nFor travel into the region, the region must be loaded for prevention to function.
+Fires a beam of devastatingly destructive energy.
+Attempts to unravel the magic of an ongoing targeted spell or all such spells within a 6-block radius.
+Fires a beam that temporarily degrades the target's combat ability.
+Instantly slays a single creature.
+Launches a small projectile that detonates ferociously on impact.
+Petrifies a target, rendering it inert.
+Surrounds the target position with an inescapable enclosure of pure force, with optional bars.
+Detects and identifies nearby magical constructs.
+Imbues a 5x5 chunk region with a semblance of persistent life.
+Transports the caster to any point in the same dimension, with perfect precision.
+Temporarily paralyses the target creature.
+Temporarily paralyses the target HUMANOID creature.
+Renders the target entity or caster temporarily imperceptible by conventional means.
+Unseals a single binding, temporarily suppressing any magical effects upon it.
+Projects a lengthy line of lightning
+Imbues a single chunk with a semblance of persistent life.
+Imbues a 3x3 chunk region with a semblance of persistent life.
+Reinforces a locking mechanism, preventing lockpicking attempts.
+Launches a series of homing spectral projectiles.
+Travel instantaneously to another plane of existence.

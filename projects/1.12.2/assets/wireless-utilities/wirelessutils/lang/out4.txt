@@ -1,0 +1,69 @@
+This augment attaches an extra
+condenser to a machine, filling
+that machine's tank with fluid
+in exchange for energy.
+Fluid: %s
+Rate: %s mB/t
+Power Usage: %s
+Trapped Cows: %s
+Trapped Mooshrooms: %s
+Invert Augment
+This augment allows certain machines
+to behave in an inverted way, such as by
+extracting fluids instead of inserting them.
+Sided I/O Control Augment
+This augment allows certain machines
+to automatically import or export
+resources to or from the
+surrounding machinery, as well as
+close off sides from external access.
+Crop Augment
+This augment allows certain machines
+to interact with crops, such as by harvesting
+the crops or using bonemeal on them.
+Crop Augments will also harvest trees
+so long as they have the base of the
+tree within their work area.
+Inventory Augment
+This augment allows a machine to
+operate on items within the inventories
+of blocks in addition to the blocks
+themselves.
+Chunk Loading Augment
+This augment causes a machine to
+force all of its targets to stay
+loaded at all times as long as the
+machine itself remains loaded.
+Target Slot Augment
+This augment increases the number of
+slots available for Positional Cards
+in Positional machines.
+Slot Augments cannot be removed
+while cards are stored in the
+slots they added.
+Range Augment
+This augment increases the maximum
+distance that a machine can affect.
+Interdimensional
+Range Augments cannot be removed
+when a target requires the Range
+Augment to be within range.
+Filter Augment
+This augment prevents
+matching items from being
+inserted into the inventory
+of machines.
+When held in your off-hand,
+this augment will stop you
+from picking up items that
+match its filters.
+Voiding Items
+Ignoring NBT
+Ignoring Metadata
+Using Ore Dictionary
+Matching Mod Items
+- %s
+%s Hold §e§oAlt§r§7 for %s Items
+Remote Side Augment
+This augment allows Directional
+Machines to target different sides

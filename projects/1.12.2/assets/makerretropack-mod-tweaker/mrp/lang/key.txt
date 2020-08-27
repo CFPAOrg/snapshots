@@ -1,0 +1,2 @@
+item.mrp:infinitysoul.name
+item.mrp:creative.name

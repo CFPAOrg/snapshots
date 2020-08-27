@@ -1,0 +1,81 @@
+Clay Dark Orange
+Clay Light Orange
+Clay Sunny Orange
+Clay Orange
+Clay Deep Orange
+Clay Orange Red
+Clay White Gray
+Clay Light Gray
+Clay Gray
+Clay Dark Gray
+Clay Gray Black
+Clay Light Warm Gray
+Clay Warm Gray
+Clay Middle Warm Gray
+Clay Dark Warm Gray
+Clay Warm Black Gray
+Clay Light Cool gray
+Clay Cool Gray
+Clay Dark Cool Gray
+Clay Cool Blue Gray
+Clay Cool Dark Blue Gray
+Tinted Glass Light Warm Pink
+Tinted Glass Light Red
+Tinted Glass Bright Red
+Tinted Glass Red
+Tinted Glass Blood Red
+Tinted Glass Light Cool Pink
+Tinted Glass Pink
+Tinted Glass Hot Pink
+Tinted Glass Dark Pink
+Tinted Glass Fuchsia
+Tinted Glass Baby Pink
+Tinted Glass Light Salmon Red
+Tinted Glass Salmon Red
+Tinted Glass Brown Red
+Tinted Glass Dark Brown Red
+Tinted Glass Light Magenta
+Tinted Glass Magenta
+Tinted Glass Dark Magenta
+Tinted Glass Violet
+Tinted Glass Dark Violet
+Tinted Glass Light Violet
+Tinted Glass Light Purple
+Tinted Glass Purple
+Tinted Glass Dark Purple
+Tinted Glass Royal Blue
+Tinted Glass Light Lavender
+Tinted Glass Lavender
+Tinted Glass Azure Blue
+Tinted Glass Dark Blue
+Tinted Glass Midnight Blue
+Tinted Glass Light Blue
+Tinted Glass Light Sky Blue
+Tinted Glass Sky Blue
+Tinted Glass Dark Sky Blue
+Tinted Glass Navy Blue
+Tinted Glass Light Baby Blue
+Tinted Glass Baby Blue
+Tinted Glass Bright Blue
+Tinted Glass Medium Blue
+Tinted Glass Deep Blue
+Tinted Glass Light Aqua Blue
+Tinted Glass Aqua Blue
+Tinted Glass Dark Aqua Blue
+Tinted Glass Ocean Blue
+Tinted Glass Midnight Blue
+Tinted Glass Soft Orange
+Tinted Glass Sienna brown
+Tinted Glass Burnt Sienna Brown
+Tinted Glass Earth Brown
+Tinted Glass Soil Brown
+Tinted Glass Light Beige
+Tinted Glass Beige
+Tinted Glass Terracotta Red
+Tinted Glass Brown
+Tinted Glass Saddle Brown
+Tinted Glass Light Gray Brown
+Tinted Glass Gray Brown
+Tinted Glass Middle Gray Brown
+Tinted Glass Gray Brown
+Tinted Glass Dark Gray Brown

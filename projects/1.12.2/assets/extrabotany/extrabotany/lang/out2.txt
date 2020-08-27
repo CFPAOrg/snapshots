@@ -1,0 +1,60 @@
+Game Crash
+Enchanted Orchid
+I have no time playing games
+Edelweiss
+Do you want to build a snowman?
+Mirrortunia
+Mirror,mirror,on the wall
+Necrofleur
+Necrofleur Petite
+The only cure is Dying
+The only cure is Dying
+Fluided Mana
+Fluided Mana
+ExtraBotany
+Wings: Godness
+Wings: Flandre
+Wings: Rainbow
+Wings: Steampunk
+Wings: Jim
+Repair Upgrade I
+Repair Upgrade II
+Repair Upgrade III
+Sharpness Upgrade I
+Sharpness Upgrade II
+Sharpness Upgrade III
+Sharpness Upgrade IV
+Sharpness Upgrade V
+Sharpness Upgrade VI
+Sharpness Upgrade VII
+Sharpness Upgrade VIII
+Sharpness Upgrade IX
+Sharpness Upgrade X
+Range Upgrade I
+X:
+Y:
+Z:
+Dim:
+Configuration: 
+%s is preparing a SPECIAL attack!
+5 seconds left before %s uses his SPECIAL attack!
+%s will do massive damage to one random player! Who will be the lucky one ?
+%s deals massive damage to you!
+The Gaia Guardian summoned its minions. You better kill the minions first ;-)
+Natural Breath: 
+Blessing of Mana(Deactivated)
+Blessing of Mana&b(Activated)
+Blessing of Regeneration(Deactivated)
+Blessing of Regeneration&4(Activated)
+Blessing of Senro(Deactivated)
+Blessing of Senro&2(Activated)
+You have the chance to get the following items:
+This Block has been disabled. Don't craft or use it.
+Failed to bind. Check whether the position is right or not, or maybe it's not from the same dimension.
+This is, to me, the loveliest and saddest landscape in the world.
+It is the same as that on the preceding page, but I have drawn it again to impress it on your memory.
+It is here that the little prince appeared on Earth, and disappeared.
+Look at it carefully so that you will be sure to recognise it in case you travel some day to the African desert.
+And, if you should come upon this spot, please do not hurry on.
+Wait for a time, exactly under the star.
+Then, if a little man appears who laughs, who has golden hair and who refuses to answer questions, you will know who he is.

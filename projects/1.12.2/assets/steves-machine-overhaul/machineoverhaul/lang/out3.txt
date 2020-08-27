@@ -1,0 +1,107 @@
+Splash Potion of Slow Falling
+Arrow of Slow Falling
+Lingering Potion of Slow Falling
+Potion of Darkness
+Splash Potion of Darkness
+Arrow of Darkness
+Lingering Potion of Darkness
+Potion of Adhesion
+Splash Potion of Adhesion
+Arrow of Adhesion
+Lingering Potion of Adhesion
+Magic Protection
+Lava Walker
+Auto-Smelt
+Magnetism
+(WIP) Vein Miner
+Persistent
+Zeus
+Retrieval
+Reach
+Keeping
+Knockback Protection
+Puncture
+Seaking
+Sharpness
+Smite
+Bane of Arthropods
+Knockback
+Fire Aspect
+Sweeping Edge
+Protection
+Fire Protection
+Feather Falling
+Blast Protection
+Projectile Protection
+Respiration
+Aqua Affinity
+Depth Strider
+Frost Walker
+Efficiency
+Silk Touch
+Unbreaking
+Looting
+Fortune
+Luck of the Sea
+Lure
+Power
+Flame
+Punch
+Infinity
+Thorns
+Mending
+§cCurse of Binding§7
+§cCurse of Vanishing§7
+Coal Generator
+Solar Generator
+Redstone Capacitor
+Crusher
+Sand Sifter
+Block Placer
+Obsidian Anvil
+Obsidian Boat
+Minecart with Ender Chest
+Engineer
+Zombie Villager
+Redstone Colossus
+TNT
+Item Frame
+Item Frame
+Stairs
+Parrot
+Parrot Egg
+Light Overlay
+WAILA
+Machine Overhaul
+Screen Zoom
+Type: %s
+Increases underwater mining rate
+Increases damage to arthropods
+Reduces explosion damage
+Prevents removal of items (except for in creative)
+Item destroyed on death
+Increases underwater movement speed
+Increases mining speed
+Reduces fall damage
+Sets target on fire
+Reduces fire damage
+Arrows set target on fire
+Increases block drops
+Turns water beneath the player into ice
+Shooting consumes no arrows
+Increases knockback
+Increases mob loot
+Increases fishing luck
+Increases fishing rate
+Repair items with experience
+Increases arrow damage
+Reduces projectile damage
+Reduces most types of damage
+Increases arrow knockback
+Extends underwater breathing time
+Increases damage
+Mined blocks drop themselves
+Increases damage to undead mobs
+Increases sweeping attack damage
+Damages attackers
+Increases effective durability

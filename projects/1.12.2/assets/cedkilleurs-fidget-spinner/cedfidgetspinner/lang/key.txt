@@ -1,0 +1,3 @@
+itemGroup.cedfidgetspinner
+item.cedfidgetspinner.fidgetspinner.name
+spinning

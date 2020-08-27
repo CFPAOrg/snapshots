@@ -1,0 +1,94 @@
+Technetium Ingot
+60k Helium Coolant Cell
+180k Helium Coolant Cell
+360k Helium Coolant Cell
+Thorium Cell
+Dual Thorium Cell
+Quad Thorium Cell
+Plutonium Cell
+Dual Plutonium Cell
+Quad Plutonium Cell
+Energy Flow Circuit
+Data Control Circuit
+Data Storage Circuit
+Superconductor
+Data Orb
+Data Orb
+Braintech Aerospace Advanced Reinforced Duct Tape FAL-84
+Lithium Battery
+Lapotronic Energy Orb
+Lithium Batpack
+Lapotron Pack
+Glass Tube
+Destructopack
+Crafting Tablet
+Electromagnet
+Tesla Staff
+Rock Cutter
+Jack Hammer
+Portable Scanner
+Debug Scanner
+Echotron
+Cloaking Device
+Personal Forcefield Generator
+Light Helmet
+Spring Boots
+Magnifying Glass
+Empty Spray Can
+Magical Spray Can
+Super Fuel Binder
+Magic Super Fuel Binder
+Sensor Stick
+Bauxia
+Platina
+Rubeus
+Sapphirum
+God of Thunder
+Titania
+Scheelinium
+Hydrogen
+Tritium
+Helium-3
+Helium
+Deuterium
+Beryllium
+Oxygen
+Sodium
+Methane
+Potassium
+Mercury
+Calcium
+Nitrogen
+Chlorine
+Oil
+Neon
+Argon
+Lubricant
+Fuel
+Incredible Magic Dye
+Spawns rarely at all heights in any biome
+Spawns between Y level 10-30 in JUNGLE biomes
+Spawns between Y level 0 - 48 in HOT biomes
+Spawns between Y level 0 - 48 in OCEAN biomes
+Spawns between Y level 50 - 120 in FOREST/PLAINS biomes
+Mobile trash can
+Become a walking vacuum!
+O V E R C H A R G E D
+Mines 3x3 of any stone block
+Invisibility Field
+QwerTech intensifies
+Can be painted white to remove color
+Can be painted different colors
+Can be used as a beacon base
+Mobs cannot spawn on this block
+Automatic Crafting Table Mk III
+Charges all the things
+Now with more dedotated WAM!
+Portable tank, capacity of 32 buckets
+Sneak click empty handed to toggle output
+Reveals entities using echo location
+Uploads and downloads contents to data orbs
+2 Milliards, uhh I mean billion, items to store here!
+With a capacity of 488.28125 Chunks!
+Creates UU as fast as you can supply it.
+Now upgraded with internal tank for fluids!!!

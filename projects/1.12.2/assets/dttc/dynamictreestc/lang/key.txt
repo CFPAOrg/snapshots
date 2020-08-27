@@ -1,0 +1,6 @@
+item.dynamictreestc:greatwoodseed.name
+item.dynamictreestc:silverwoodseed.name
+tile.dynamictreestc:leaves0.name
+tile.dynamictreestc:leaves_silverwood.name
+tile.dynamictreestc:greatwoodbranch.name
+tile.dynamictreestc:silverwoodbranch.name

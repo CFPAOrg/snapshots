@@ -1,0 +1,5 @@
+item.beatdownstick.beatdownstick.name
+item.beatdownstick.superbeatdownstick.name
+item.beatdownstick.cheesyburger.name
+item.beatdownstick.supercheesyburger.name
+death.attack.beatdownstick.annihilate

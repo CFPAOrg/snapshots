@@ -1,0 +1,6 @@
+Start profiling.
+Done! Output saved to logs/jecharacters-profiler.txt.
+Oops! An error occurred when writing the file.
+If you see this, there is an error in Just Enough Characters.
+/jech [profile] / [verbose true/false]
+Unknown command.

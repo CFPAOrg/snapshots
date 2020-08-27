@@ -1,0 +1,112 @@
+You can only sleep at night
+You may not rest now, the bed is too far away
+You may not rest now, there are monsters nearby
+Your home bed was missing or obstructed
+Locked chest
+Wooden Trapdoor
+Iron Trapdoor
+Cobweb
+Stone Brick
+Stone Brick
+Mossy Stone Brick
+Cracked Stone Brick
+Black Marble Column
+Stone Monster Egg
+Stone Monster Egg
+Cobblestone Monster Egg
+Stone Brick Monster Egg
+Mossy Stone Brick Monster Egg
+Cracked Stone Brick Monster Egg
+Chiseled Stone Brick Monster Egg
+Piston
+Sticky Piston
+Iron Bars
+Melon
+Brick Stairs
+Stone Brick Stairs
+Vines
+Nether Brick
+Nether Brick Fence
+Nether Brick Stairs
+Nether Wart
+Cauldron
+Enchantment Table
+Anvil
+Anvil
+Slightly Damaged Anvil
+Very Damaged Anvil
+End Stone
+End Portal
+Mycelium
+Lily Pad
+Dragon Egg
+Redstone Lamp
+Cocoa
+Ender Chest
+Emerald Ore
+Block of Emerald
+Block of Redstone
+Tripwire
+Tripwire Hook
+Command Block
+Repeating Command Block
+Chain Command Block
+Beacon
+Primary Power
+Secondary Power
+Cobblestone Wall
+Mossy Cobblestone Wall
+Carrots
+Potatoes
+Daylight Sensor
+Nether Quartz Ore
+Hopper
+Block of Quartz
+Block of Quartz
+Chiseled Quartz Block
+Pillar Quartz Block
+Quartz Stairs
+Slime Block
+Prismarine
+Prismarine Brick
+Dark Prismarine
+Sea Lantern
+End Rod
+Chorus Plant
+Chorus Flower
+Purpur Block
+Purpur Pillar
+Purpur Stairs
+Purpur Slab
+End Stone Bricks
+Beetroots
+Grass Path
+Magma Block
+Nether Wart Block
+Big Red Nether Brick
+Bone Block
+Observer
+White Shulker Box
+Orange Shulker Box
+Magenta Shulker Box
+Light Blue Shulker Box
+Yellow Shulker Box
+Lime Shulker Box
+Pink Shulker Box
+Gray Shulker Box
+Light Gray Shulker Box
+Cyan Shulker Box
+Purple Shulker Box
+Blue Shulker Box
+Brown Shulker Box
+Green Shulker Box
+Red Shulker Box
+Black Shulker Box
+White Glazed Terracotta
+Orange Glazed Terracotta
+Magenta Glazed Terracotta
+Light Blue Glazed Terracotta
+Yellow Glazed Terracotta
+Lime Glazed Terracotta
+Pink Glazed Terracotta
+Gray Glazed Terracotta

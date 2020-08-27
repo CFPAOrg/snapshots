@@ -1,0 +1,112 @@
+Alternate effect: %s
+Casting Time: %s
+Contains %s spells
+Duration: %s
+ACTIVE
+INACTIVE
+Level %s %s
+Level %s %s (%s)
+(Dismissible)
+Range: %s
+Components: %s
+Focus: %s
+Items:
+Insufficient Caster Level
+Contains writings on %s creatures
+Player
+Terrible magic defeats the attack enchantment!
+Terrible magic defeats the movement enchantment!
+Counteracting %s modifiers to attacking
+Counteracting %s modifiers to moving
+No Mode
+Black
+Blue
+Brown
+Cyan
+Gray
+Green
+Light Blue
+Lime
+Magenta
+Orange
+Pink
+Purple
+Red
+Silver
+Yellow
+White
+Boonsteal
+Eminence
+Ender Beam
+Fire Breathing
+Royal Hunt
+King's Summons
+Children of Entropy
+Tyrant's Decree
+Acid Arrow
+Antimagic Field
+Arcane Sight
+Bull's Strength
+Circle Against Evil
+Circle Against Holy
+Cure Minor Wounds
+Cure Light Wounds
+Cure Moderate Wounds
+Cure Serious Wounds
+Cure Critical Wounds
+Darkness
+Deeper Darkness
+Dimensional Anchor
+Dimensional Lock
+Disintegrate
+Dispel Magic
+Ray of Enfeeblement
+Finger of Death
+Fireball
+Flesh to Stone
+Forcecage
+Greater Arcane Sight
+Greater Dispel Magic
+Greater Living Terrain
+Greater Teleport
+Hold Monster
+Hold Person
+Invisibility
+Knock
+Lesser Living Terrain
+Lightning Bolt
+Living Terrain
+Lock
+Magic Missile
+Plane Shift
+Polar Ray
+Ray of Frost
+Repulsion
+Scorching Ray
+Searing Light
+Silence
+Slow
+Statue
+Stone to Flesh
+Summon Monster %s
+Sunburst
+Teleport
+Teleport Object
+Wall of Fire
+Wall of Force
+Wall of Ice
+Wall of Iron
+Wall of Stone
+Web
+Word of Blindness
+Word of Death
+Word of Stunning
+Zone of Silence
+Launches a caustic projectile.
+Surrounds the caster in a magical deadzone, preventing spellcasting near them.
+Detects nearby magical constructs.
+Provides a temporary boon to the target entity (standard) or caster (alt-fire).
+A forbidding circle against Evil creatures.
+A forbidding circle against Holy creatures.
+It can be inverted to instead contain them.
+Restores 1 point of health to the target injured entity or caster.

@@ -1,0 +1,4 @@
+tile.wooden_scaffold.name
+tile.iron_scaffold.name
+enchantment.big_holes
+enchantment.big_holes.desc

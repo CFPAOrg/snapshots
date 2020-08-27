@@ -1,0 +1,15 @@
+item.bedrock_fragment.name
+item.bedrock_stick.name
+item.bedrock_ultimate.name
+item.bedrock_sword.name
+item.bedrock_pickaxe.name
+item.bedrock_axe.name
+item.bedrock_shovel.name
+item.bedrock_hoe.name
+item.bedrock_helmet.name
+item.bedrock_chestplate.name
+item.bedrock_leggings.name
+item.bedrock_boots.name
+item.bedrock_bow.name
+item.bedrock_arrow.name
+entity.bedrock_arrow.name

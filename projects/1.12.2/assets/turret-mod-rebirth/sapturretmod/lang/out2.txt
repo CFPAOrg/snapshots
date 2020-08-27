@@ -1,0 +1,14 @@
+Health II
+Increases the maximum turret health by an additional 25%% (50%% in total).\n\nThis upgrade further strengthens the structure of the turret chassis.\nIt will not increase the turrets health automatically! You must heal it afterwards.
+Health III
+Increases the maximum turret health by an additional 25%% (75%% in total).\n\nThis upgrade strengthens the structure of the turret chassis even further.\nIt will not increase the turrets health automatically! You must heal it afterwards.
+Health IV
+Increases the maximum turret health by an additional 25%% (100%% in total).\n\nThis upgrade strengthens the structure of the turret chassis to the maximum. Note that it isn't applicable to turrets higher than Tier 3, as their structure won't allow further manipulation.\nIt will not increase the turrets health automatically! You must heal it afterwards.
+Reload I
+Decreases the reload time by 15%% .\n\nIt cools down the parts of the loading mechanism, so it can work faster at the same temperature.\nBe careful with faster shooting turrets, mobs that get hit will get some kind of immunity aura that usually lasts a second. Those with that aura won't get hurt, thus wasting ammunition.\n\nNotice: The Forcefield Turret will use this upgrade to increase its regeneration speed by the same percentage.
+Reload II
+Decreases the reload time by an additional 35%% (50%% in total).\n\nIt cools down the parts of the loading mechanism better, so the reload can be done even quicker at the same temperature.\n\nNotice: The Forcefield Turret will use this upgrade to increase its regeneration speed by the same percentage.
+Upgrade Storage I
+Adds 9 more upgrade slots (18 in total).\n\nProvides an upgrade co-processor to handle 9 more upgrades.
+Upgrade Storage II
+Adds 9 more upgrade slots (27 in total).\n\nProvides an upgrade co-processor to handle 9 more upgrades.

@@ -1,0 +1,3 @@
+item.betterblink.teleporter.name
+itemGroup.betterblink
+info.teleporter

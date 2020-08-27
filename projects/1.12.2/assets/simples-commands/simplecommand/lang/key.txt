@@ -1,0 +1,6 @@
+item.commandstickextinguishentity.name
+item.commandstickcheckarmorofentity.name
+item.commandstickcleareffects.name
+item.bookofcommand.name
+item.commandstickdespawnentity.name
+item.commandstickburnentity.name

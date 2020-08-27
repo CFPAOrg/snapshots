@@ -1,0 +1,5 @@
+Iron Cluster
+Bedrock Rock
+Coal Cluster
+Gold Cluster
+Diamond Cluster

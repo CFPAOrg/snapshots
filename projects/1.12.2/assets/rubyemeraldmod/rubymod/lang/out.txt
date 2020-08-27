@@ -1,0 +1,21 @@
+Ruby
+Ruby Pickaxe
+Emerald Pickaxe
+Block of Ruby
+Ruby Axe
+Emerald Axe
+Ruby Shovel
+Emerald Shovel
+Ruby Hoe
+Emerald Hoe
+Ruby Sword
+Emerald Sword
+Ruby Ore
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots

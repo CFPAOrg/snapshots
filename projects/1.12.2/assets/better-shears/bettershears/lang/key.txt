@@ -1,0 +1,10 @@
+itemGroup.bettershearstab
+item.unfired_clay_shears.name
+item.wooden_shears.name
+item.flint_shears.name
+item.gold_shears.name
+item.clay_shears.name
+item.diamond_shears.name
+item.obsidian_shears.name
+item.emerald_shears.name
+item.star_shears.name

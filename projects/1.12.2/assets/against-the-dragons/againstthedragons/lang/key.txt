@@ -1,0 +1,7 @@
+item.dragonslayer_ingot.name
+item.sword_of_the_dragonslayer.name
+item.dragonhunter_helmet.name
+item.dragonhunter_chestplate.name
+item.dragonhunter_leggings.name
+item.dragonhunter_boots.name
+itemGroup.Against the Dragons!

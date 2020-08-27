@@ -1,0 +1,146 @@
+Donkey
+Mule
+Parrot
+Llama
+Polar Bear
+Alpaca
+Duck
+Goat
+Black Panther
+Ocelot
+Saber Tooth
+Camel
+Lion
+Hyena
+%1$s died of dehydration
+%1$s died of food poisoning
+%1$s died by having it's feathers plucked
+Overburdened
+Thirst
+Food Poisoning
+Sheep♂
+Sheep♀
+Bull
+Cow
+Bear♂
+Bear♀
+Pig♂
+Pig♀
+Rooster
+Chicken
+Buck
+Doe
+Pheasant♂
+Pheasant♀
+Rabbit♂
+Rabbit♀
+Wolf♂
+Wolf♀
+Stallion
+Mare
+Donkey♂
+Donkey♀
+Mule♂
+Mule♀
+Parrot♂
+Parrot♀
+Llama♂
+Llama♀
+Polar Bear♂
+Polar Bear♀
+Alpaca♂
+Alpaca♀
+Drake
+Duck
+Goat♂
+Goat♀
+Ocelot♂
+Ocelot♀
+Cat♂
+Cat♀
+Panther♂
+Panther♀
+Saber Tooth♂
+Saber Tooth♀
+Camel♂
+Camel♀
+Lion
+Lioness
+Hyena♂
+Hyena♀
+Ceramic item breaks
+Firestarter sizzles
+The sound of music!!!
+Javelin thrown
+Rooster cries
+Quern grinds
+Bellows puff
+Dirt slides
+Rock slides
+Hammer bangs on anvil
+Deer snorts
+Deer cries
+Deer hurts
+Deer dies
+Bear grunts
+Bear cries
+Baby bear cries
+Bear hurts
+Bear dies
+Pheasant clucks
+Baby pheasant clucks
+Pheasant hurts
+Pheasant dies
+Alpaca bleats
+Alpaca bleats
+Alpaca hurt
+Alpaca dies
+Footsteps
+Duck clucks
+Duck clucks
+Duck hurt
+Duck dies
+Goat baahs
+Goat baahs
+Goat hurt
+Goat dies
+Camel grunts
+Camel cries
+Camel hurt
+Camel dies
+Panther grunts
+Panther cries
+Panther hurt
+Panther dies
+Saber Tooth grunts
+Saber Tooth cries
+Saber Tooth hurt
+Saber Tooth dies
+Lion grunts
+Lion roars
+Lion hurt
+Lion dies
+Hyena grunts
+Hyena cries
+Hyena hurts
+Hyena dies
+Crickets
+Frogs
+TerraFirmaCraft
+TFC's main line of progression.
+Just a Rock
+Pick up a Stone from the ground.
+Paleolithic!
+Enter the Stone Age by knapping a stone tool.
+Grasping at Straws
+Cut some grass with a knife or scythe to get straw.
+Timberrr!
+Use an axe to get cut down a tree.
+Embers
+Craft a firestarter from two sticks.
+The Fire Pit
+Throw a log and three stick to the ground, then light them up.
+A Better Fuel
+Make charcoal by lighting some log piles on a pit and covering them.
+Locating Clay
+Find and dig clay for pottery.

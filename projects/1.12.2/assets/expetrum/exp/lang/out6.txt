@@ -1,0 +1,155 @@
+Rose Alloy Watering Can
+Iron Watering Can
+Steel Watering Can
+Tool Steel Watering Can
+Stone Gardening Tool
+Copper Gardening Tool
+Bronze Gardening Tool
+Bismuth Bronze Gardening Tool
+Leaded Bronze Gardening Tool
+Manganese Bronze Gardening Tool
+Rose Alloy Gardening Tool
+Iron Gardening Tool
+Steel Gardening Tool
+Tool Steel Gardening Tool
+Stone Saw
+Copper Saw
+Bronze Saw
+Bismuth Bronze Saw
+Leaded Bronze Saw
+Manganese Bronze Saw
+Stone Chisel
+Copper Chisel
+Bronze Chisel
+Bismuth Bronze Chisel
+Leaded Bronze Chisel
+Manganese Bronze Chisel
+Rose Alloy Chisel
+Iron Chisel
+Steel Chisel
+Tool Steel Chisel
+Rose Alloy Saw
+Iron Saw
+Steel Saw
+Tool Steel Saw
+Basket
+Barley
+Green Beans
+Beetroot
+Cabbage
+Carrot
+Cassava
+Corn
+Cucumber
+Eggplant
+Garlic
+Leek
+Lettuce
+Millet
+Oat
+Onion
+Parsnip
+Peas
+Green Pepper
+Yellow Pepper
+Red Pepper
+Potato
+Pumpkin
+Radish
+Rice
+Rye
+Sorghum
+Spinach
+Sweet Potato
+Tomato
+Turnip
+Wheat
+Blackberries
+Cloudberries
+Raspberries
+Blueberries
+Cranberries
+Elderberries
+Gooseberries
+Hackberries
+Strawberries
+Wolfberries
+Salmonberries
+Crowberries
+Apple
+Olives
+Peach
+Orange
+Pear
+Plum
+Banana
+Lemon
+Apricot
+Walnut
+Cherries
+Pomegranate
+Grapefruit
+Avocado
+Carambola
+Egg
+Raw Chicken
+Cooked Chicken
+Raw Beef
+Cooked Beef
+Raw Lamb
+Cooked Lamb
+Raw Pork
+Cooked Pork
+Cheese
+Barley Grains
+Millet Grains
+Oat Grains
+Rice Grains
+Rye Grains
+Sorghum Grains
+Wheat Grains
+Barley Flour
+Millet Flour
+Oat Flour
+Rice Flour
+Rye Flour
+Sorghum Flour
+Wheat Flour
+Barley Dough
+Millet Dough
+Oat Dough
+Rice Dough
+Rye Dough
+Sorghum Dough
+Wheat Dough
+Barley Bread
+Millet Bread
+Oat Bread
+Rice Bread
+Rye Bread
+Sorghum Bread
+Wheat Bread
+Clay
+Twine
+Plant Fiber
+Anthracite Coal
+Bituminous Coal
+Lignite Coal
+Ash
+Charcoal
+Kaolin Clay
+Kaolin Powder
+Kaolin Brick
+Fire Clay
+Fire Brick
+Flint Powder
+Metallurgic Charcoal Flux
+Copper Coated Fire Brick
+Hay
+Hide
+Wool
+Copper Rim
+Soaked Hide
+Prepared Hide
+Leather
+Leather Straps

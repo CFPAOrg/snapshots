@@ -1,0 +1,6 @@
+itemGroup.volumetricflask
+item.volumetricflask.volumetric_flask.name
+item.volumetricflask.part_o_interface.name
+tile.volumetricflask.o_interface.name
+tile.volumetricflask.buffer.name
+tile.volumetricflask.filler.name

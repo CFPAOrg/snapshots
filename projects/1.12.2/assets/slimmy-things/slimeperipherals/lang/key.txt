@@ -1,0 +1,11 @@
+itemGroup.slimeperipherals
+tile.slimeperipherals.magnetic_card_reader.name
+tile.slimeperipherals.rfid_antenna.name
+tile.slimeperipherals.rfid_writer.name
+tile.slimeperipherals.electronic_lock.name
+tile.slimeperipherals.electronic_pad_designer.name
+item.slimeperipherals.magnetic_card.name
+item.slimeperipherals.rfid_card.name
+item.slimeperipherals.electronic_pad.name
+container.slimeperipherals.electronic_pad_designer
+slimeperipherals.peripheral.access_refused

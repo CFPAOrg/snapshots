@@ -1,0 +1,68 @@
+§eYour points for stand up is not enough
+§eIt's is the Fate,for everyone
+§bIf you found that your STAND lost when you travel to a dimension.Don't worry!Just log out and log in again,the problem is solved.
+Your Stand attack yourself---you have a bad luck
+Your Stand :
+§6Crisp
+§4Spicy
+§lLime
+§8§lIt's awesome!!
+§l%s has freed the supreme power of §e§lLord Lu§7§l, walking through the void, like terror!
+§eYour points for fire the bomb is not enough
+§eMode:%s
+§eThis stand hasn't other mode
+You are not the owner of this master ball
+This master ball is empty
+Capture successful! -§e%s
+§eQuestion, are you my Master?
+§eLet's go!
+§eFight with me, my master!
+§eUndead!Infinity!Ah-ha-ha-ha-ha~ Stand Power!!!
+§eUh-ha-ha-ha-ha-ha~
+§eI won't pass the game level! lady!
+§eAh ~ Marisa ~
+Process
+Fuel Point
+Item Pool
+Energy
+Point-%s
+Require-%s
+§eHuaji Age Settings
+The Terrain destruction of the big explosion created by the big hero's bow
+Can THE WORLD stop the time of players?
+The flight height of the multi knife
+Dose The Infinite Charm Change mode when dress Orga suit?
+STAND Settings
+Stand Tip
+Need the moving sound for you stand?
+Stand HUD -x
+Stand HUD -y
+Stand Lost Notice
+Punish for stand users(Out of Time)
+The possibility of Stand weak up fail 
+Noise mask in time stop
+Gears effects for time stop
+The icon display in time stop
+The fog in the time stop(do not recommend if your GPU is not supported)
+Use HUAJI particle to replace the emerald splash
+Use Hope Flower BGM
+The fog density in time stop(Need the fog Open)
+Glow the player which let stand idle
+The swing speed of maid
+The swing amount of maid
+Empty
+Default
+§e§lThe World
+§5§lStar Platinum
+§a§lHierophant Green
+§4§lOrga Requiem
+§d§lKiller §f§lQueen
+§c§lM§f§la§c§li§f§ld
+Default
+Idle
+Punch
+Protect
+Fly
+§e§lThe World!!!
+§5§lStar Platinum!The World!!! 
+§a§lTake that! Emerald splash with a radius of 20 meters!!!

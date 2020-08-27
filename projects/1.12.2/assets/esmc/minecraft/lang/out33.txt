@@ -1,0 +1,120 @@
+Slime attacks
+Slime dies
+Slime hurts
+Slime squishes
+Snowball flies
+Snow Golem dies
+Snow Golem hurts
+Spider hisses
+Spider dies
+Spider hurts
+Squid swims
+Squid dies
+Squid hurts
+Stray rattles
+Stray dies
+Stray hurts
+TNT fizzes
+Vex vexes
+Vex shrieks
+Vex dies
+Vex hurts
+Villager mumbles
+Villager dies
+Villager hurts
+Villager disagrees
+Villager trades
+Villager agrees
+Vindicator mutters
+Vindicator dies
+Vindicator hurts
+Witch giggles
+Witch dies
+Witch drinks
+Witch hurts
+Witch throws
+Wither angers
+Wither dies
+Wither hurts
+Wither attacks
+Wither released
+Wither Skeleton rattles
+Wither Skeleton dies
+Wither Skeleton hurts
+Wolf pants
+Wolf dies
+Wolf growls
+Wolf hurts
+Wolf shakes
+Zombie groans
+Zombie dies
+Zombie hurts
+Zombie infects
+Zombie Horse cries
+Zombie Horse dies
+Zombie Horse hurts
+Zombie Pigman grunts
+Zombie Pigman angers
+Zombie Pigman dies
+Zombie Pigman hurts
+Zombie Villager groans
+Zombie vociferates
+Zombie snuffles
+Zombie Villager dies
+Zombie Villager hurts
+Gear equipped
+Chain armor jingles
+Diamond armor clangs
+Elytra rustles
+Gold armor clinks
+Iron armor clanks
+Leather armor rustles
+Bottle fills
+Bucket empties
+Bucket fills
+Player teleports
+Fireball whooshes
+Flint and Steel click
+Hoe tills
+Shears click
+Shield blocks
+Shovel flattens
+Totem activates
+Rain falls
+[Debug]:
+Reloading all chunks
+Hitboxes: shown
+Hitboxes: hidden
+Render Distance: %s
+Chunk borders: shown
+Chunk borders: hidden
+Advanced tooltips: shown
+Advanced tooltips: hidden
+Unable to switch gamemode, no permission
+Pause on lost focus: enabled
+Pause on lost focus: disabled
+Key bindings:
+Reloaded resource packs
+Downloading Resource Pack
+Making Request...
+Downloading file (%s MB)...
+spam
+spam
+spam
+spam
+spam
+spam
+spam
+spam
+spam
+spam
+spam
+spam
+Adventuring Time
+Discover every biome
+Monsters Hunted
+Kill one of every hostile monster
+Manster Hunter
+Kill any hostile monster
+Adventure
+Adventure, exploration and combat

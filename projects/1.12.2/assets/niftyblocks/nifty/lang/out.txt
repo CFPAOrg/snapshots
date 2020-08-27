@@ -1,0 +1,55 @@
+Right Obstruction Sign
+Left Sharp Turn Sign
+Right Sharp Turn Sign
+No Left Turn Sign
+No Right Turn Sign
+Left Side Road Sign
+Right Side Road Sign
+Left Oneway Sign
+Right Oneway Sign
+Slow Sign
+Fallout Shelter Sign
+Radiation Warning Sign
+Keep Out Sign
+Railroad Sign
+Railroad Ahead Sign
+Narrow Road Sign
+Narrow Bridge Sign
+5 km/h Sign
+10 km/h Sign
+15 km/h Sign
+20 km/h Sign
+25 km/h Sign
+30 km/h Sign
+40 km/h Sign
+50 km/h Sign
+60 km/h Sign
+70 km/h Sign
+80 km/h Sign
+90 km/h Sign
+100 km/h Sign
+110 km/h Sign
+120 km/h Sign
+130 km/h Sign
+140 km/h Sign
+Tomato Crop
+Flax Crop
+Flax Crop
+Orange Crop
+Orange Crop
+Pear Crop
+Pear Crop
+Metal Post
+Wooden Post
+Traffic Light
+Yellow Traffic Light
+Street Light
+Tomato Seeds
+Flax Seeds
+Orange Seeds
+Pear Seeds
+Tube Light
+NiftyBlocks
+NiftyBlocks: Signs
+NiftyBlocks: Flags
+Deep Fryer

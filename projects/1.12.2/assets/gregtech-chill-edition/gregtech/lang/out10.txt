@@ -1,0 +1,127 @@
+Platinum Group Sludge
+Ferrite Mixture
+Nickel Zinc Ferrite
+Indium Concentrate
+Lead-Zinc Solution
+Tetrafluoroethylene
+Salt Water
+Hydro-Cracked Ethane
+Hydro-Cracked Ethylene
+Hydro-Cracked Propene
+Hydro-Cracked Propane
+Hydro-Cracked Light Fuel
+Hydro-Cracked Butane
+Hydro-Cracked Naphtha
+Hydro-Cracked Heavy Fuel
+Hydro-Cracked Refinery Gas
+Hydro-Cracked Butene
+Hydro-Cracked Butadiene
+Steam-Cracked Ethane
+Steam-Cracked Ethylene
+Steam-Cracked Propene
+Steam-Cracked Propane
+Steam-Cracked Light Fuel
+Steam-Cracked Butane
+Steam-Cracked Naphtha
+Steam-Cracked Heavy Fuel
+Steam-Cracked Refinery Gas
+Steam-Cracked Butene
+Steam-Cracked Butadiene
+Bio Gas
+Heavy Oil
+Raw Oil
+Light Oil
+Natural Gas
+Sulfuric Gas
+Refinery Gas
+Sulfuric Naphtha
+Sulfuric Light Fuel
+Sulfuric Heavy Fuel
+Naphtha
+Light Fuel
+Heavy Fuel
+LPG
+Cracked Light Fuel
+Cracked Heavy Fuel
+Chloromethane
+Allyl Chloride
+Isoprene
+Massicot
+Antimony Trioxide
+Zincite
+Cobalt Oxide
+Arsenic Trioxide
+Cupric Oxide
+Ferrosilite
+Magnesia
+Terrasteel
+Manasteel
+Mana Pearl
+Mana Diamond
+Thaumium
+Void
+Livingwood
+Livingrock
+Elven Elementium
+Gaia
+Peridot
+Aquamarine
+Charged Certus Quartz
+Adamantine
+Xenotime
+Peridot
+Aquamarine
+Charged Certus Quartz
+Adamantine
+Tenorite
+Cuprite
+Bornite
+Chalcocite
+Enargite
+Tennantite
+Siderite
+Geothite
+Hematite
+Taconite
+Vibranium
+Vibranium
+Polyacrylonitrile
+Carbon-Fibre Reinforced Polymer
+Bedrock
+Oops
+Nitrogen Tetroxide
+Juice
+Primitive
+Basic
+Good
+Advanced
+Data
+Elite
+Master
+Ultimate
+Magical
+Superconductor
+UU-Amplifier
+UU-Matter
+Naquadah
+Naquadah Alloy
+Enriched Naquadah
+Tritanium
+Duranium
+Naquadah
+Naquadah Alloy
+Enriched Naquadah
+Tritanium
+Duranium
+Water-Based Black Dye
+Water-Based Red Dye
+Water-Based Green Dye
+Water-Based Brown Dye
+Water-Based Blue Dye
+Water-Based Purple Dye
+Water-Based Cyan Dye
+Water-Based Light Gray Dye
+Water-Based Gray Dye
+Water-Based Pink Dye
+Water-Based Lime Dye
+Water-Based Yellow Dye

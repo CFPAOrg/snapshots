@@ -1,0 +1,5 @@
+tile.present.name
+tile.present_empty.name
+presents:container.present.contents
+presents:container.present.explosion
+presents:container.present.ownerinfo

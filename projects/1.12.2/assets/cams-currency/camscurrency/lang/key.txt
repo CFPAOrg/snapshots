@@ -1,0 +1,7 @@
+item.dupondius.name
+item.denarius.name
+item.aureus.name
+item.dupondius.info
+item.denarius.info
+item.aureus.info
+itemGroup.currency_tab

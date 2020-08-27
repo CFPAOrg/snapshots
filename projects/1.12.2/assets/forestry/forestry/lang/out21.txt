@@ -1,0 +1,40 @@
+Analyzer Block Energy Usage
+Energy use of Analyzer Block per work cycle.
+Research Mutation Multiplier
+Multiplies the chance of a mutation when it has been discovered in the Escritoire.
+Research Mutation Max
+The maximum percentage boost that can be applied by researching a mutation in the Escritoire.
+Difficulty
+Game Mode
+Set to your preferred game mode. Mismatch with the server may cause visual glitches with recipes.
+Recreate Definitions
+Forces recreation of the game mode definitions in config/forestry/gamemodes.
+Structures
+Disabled Structures
+List specific structures to disable them.
+Add fertilizers to Forestry. An entry has to look like this: modID:itemName:MetaData;fertilizerValue. You need to separate every entry in a separate line. You can't remove auto generated entries you only can deactivate them if you set their value to 0.
+Fluids
+Enables %s fluid.
+Fluid Blocks
+Enables %s in-world fluid block.
+Debug Mode
+Enable Debug mode (only useful to developers).
+Beekeeping Mode
+Change the beekeeping mode.
+Second Princess Chance
+Percent chance of a second princess drop, for limited/skyblock maps.
+Accepted Flowers
+Accepted flowers allow bees to work. Format is 'modid:name:meta', one per line. The format for wildcard  metadata is 'modid:name'.
+Plantable Flowers
+Plantable flowers are placed by bees. All plantable flowers are automatically accepted flowers. Format is 'modid:name:meta', one per line. The format for wildcard  metadata is 'modid:name'.
+Max Flowers Spawned
+The maximum number of flowers for hives to spawn nearby over time.
+Ticks per Cycle
+The number of ticks per bee work cycle.
+Peaceful Hive Damage
+Whether bees can damage a player playing on peaceful mode.
+Underwater Hive Damage
+Whether bees can damage a player while they are underwater.
+Defend Hive Damage
+The bees only attack the player if he starts to destroy the hive.
+Player Hive Damage

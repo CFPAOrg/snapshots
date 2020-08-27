@@ -1,0 +1,88 @@
+Low Density - Yellow East
+Low Density - Yellow North
+Low Density - Yellow South
+Low Density - Yellow West
+Medium Density - Cyan East
+Medium Density - Cyan North
+Medium Density - Cyan South
+Medium Density - Cyan West
+Medium Density - Light Blue East
+Medium Density - Light Blue North
+Medium Density - Light Blue South
+Medium Density - Light Blue West
+Medium Density - Pink East
+Medium Density - Pink North
+Medium Density - Pink South
+Medium Density - Pink West
+Medium Density - Sandstone East
+Medium Density - Sandstone North
+Medium Density - Sandstone South
+Medium Density - Sandstone West
+Fire Service Big East
+Fire Service Big North
+Fire Service Big South
+Fire Service Big West
+Fire Service Small East
+Fire Service Small North
+Fire Service Small South
+Fire Service Small West
+ Hospital Big East
+Hospital Big North
+Hospital Big South
+Hospital Big West
+Hospital Small East
+Hospital Small North
+Hospital Small South
+Hospital Small West
+Library East-West
+Library North-South
+Police Big East
+Police Big North
+Police Big South
+Police Big West
+Police Small East
+Police Small North
+Police Small South
+Police Small West
+School Big North-East
+School Big North-West
+School Big South-East
+School Big South-West
+School Small North-East
+School Small North-West
+School Small South-East
+School Small South-West
+Townhall Big East-West
+Townhall Big North-South
+Townhall Small East
+Townhall Small North
+Townhall Small South
+Townhall Small West
+University East
+University North
+University South
+University West
+$ Block
+$$$ Brick Big East
+$$$ Brick Big North
+$$$ Brick Big South
+$$$ Brick Big West
+$$$ Brick Small
+$$ Grey East
+$$ Grey North
+$$ Grey South
+$$ Grey West
+$$$ Modern East
+$$$ Modern North
+$$$ Modern South
+$$$ Modern West
+$$ Red East-West
+$$ Red North-South
+$ Round
+$ Stone East
+$ Stone North
+$ Stone South
+$ Stone West
+$$$ Stone East
+$$$ Stone North
+$$$ Stone South

@@ -1,0 +1,16 @@
+Stick
+A Stick is like a wooden sword for a soldier, increasing their damage output for a limited amount of uses.\n\n§7-§1 Mainhand upgrade\n§7-§1 20 uses\n§7-§1 + 2-3 pts. damage
+Arrow
+The Arrow provides 3 upgrades at once: {link:Feather|upgrades:feather}, {link:Stick|upgrades:stick} and {link:Flint|upgrades:flint}.\n\n§7-§1 Mainhand upgrade\n§7-§1 will not drop items
+Bone
+Works like a {link:Stick|upgrades:stick} with more damage, uses and reach, but soldiers cannot mount anything.\n\n§7-§1 Mainhand upgrade\n§7-§1 30 uses\n§7-§1 + 3-4 pts. damage\n§7-§1 + 40%% reach
+Blaze Rod
+The fiery equivalent to the {link:Stick|upgrades:stick}. Weaker attack damage but sets target on fire for 3 seconds\n\n§7-§1 Mainhand upgrade\n§7-§1 20 uses\n§7-§1 + 1-2 pts. damage\n§7-§1 ablaze target for 3 sec.
+Shear Blades
+An assassins blade, this does a critical hit when first attacking while stealthed with an {link:Egg|upgrades:egg}.\nCan be dual wielded for double the damage or be used in the offhand.\n\n§7-§1 Main-/Offhand upgrade\n§7-§1 25 uses\n§7-§1 + 1-2 pts. damage\n§7-§1 + 3-4 pts. critical damage\n§7-§1 dual-wieldable
+Gravel
+Pebbles from Gravel can be used as projectiles to be thrown as a ranged weapon.\n\nSoldiers won't engage in close combat and keep their distance until the Gravel is empty.\n\n§7-§1 Offhand upgrade\n§7-§1 15 uses\n§7-§1 2-3 pts. damage\n§7-§1 ranged weapon
+Snow
+Snow can be formed into tiny snowball projectiles to be thrown by soldiers. When hit, the target gets a slowdown effect for 5 seconds but no damage occurs.\n\nSoldiers won't engage in close combat and keep their distance until the Snow is empty.\n\n§7-§1 Offhand upgrade\n§7-§1 5 uses (snowball) or\n§7-§1 10 uses (snow layer) or\n§7-§1 20 uses (snow block)\n§7-§1 0 pts. damage\n§7-§1 ranged weapon\n§7-§1 5 sec. slowdown on target
+Fire Charge
+The Fire Charge is a throwable weapon that ignites the target for 5 seconds\n\nSoldiers won't engage in close combat and keep their distance until the Fire Charge is empty.\n\n§7-§1 Offhand upgrade\n§7-§1 15 uses\n§7-§1 1-2 pts. damage\n§7-§1 ranged weapon\n§7-§1 ablaze target for 5 sec.

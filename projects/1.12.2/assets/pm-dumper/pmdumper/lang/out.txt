@@ -1,0 +1,4 @@
+/pmdumper <dumper name> <%s>. Available dumpers: %s.
+Successfully created the %s dump! Outputs:
+CSV Table
+Amounts

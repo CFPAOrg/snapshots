@@ -1,0 +1,51 @@
+Profit Remaining:
+$%s
+Speed:
+%smB per tick
+Empty
+Unowned
+Idle
+Please activate this machine with a Corporate Card.
+Empty Bottle
+Bottle of %s (%smB)
+A small, highly-disposable plastic bottle used to hold liquid. Vanishes when emptied. Primarily used by machines to salvage liquid that might be destroyed when they are picked up.
+Shipping Depot
+The Shipping Depot is the place where work orders for items or liquids is fulfilled. Simply deposit the desired items or liquids, and watch the progress bar fill up. Profit is generated upon completion of a work order.
+Item: %s
+Quantity: %s
+Profit: $%s
+%d / %d
+Start
+Job: %s (%d)
+Automatically generate new work order
+Discard work order and get new one
+Liquid Shipping Depot
+The Liquid Shipping Depot is the place where work orders for liquids are fulfilled. Simply deposit the desired liquids, and watch the progress bar fill up. Profit is generated upon completion of a work order.
+Liquid: %s
+Quantity: %smB
+Vending Machine
+Manufactory Supplier
+%d seconds
+Choose
+Level Up
+Quantity: %s every %ds
+Equivalent to a full stack every %d ticks
+Max Level
+Automatically levels you up when you have enough progress
+Work Voucher
+Blank?
+%s (%2s/%1s)
+MegaCorp Employee Handbook
+MegaCorp Employee Handbook
+Back
+Close
+Home
+The page "%s" could not be found.
+See Also:
+There was an error executing the command. Check the logs for details
+Done.
+You don't own a corporation.
+Usage: megacorp setRewardLevel <reward_id> <level>
+Level is invalid
+Reward does not exist
+Done. Quests dumped to config/megacorp/loaded_quests.json

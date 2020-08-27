@@ -1,0 +1,82 @@
+Splash Potion with Infection
+Lingering Potion of Infection
+Infection Tipped Arrow
+Spider Toxin
+Splash of Spider Venom
+Lingering Spider Venom
+Venom Tipped Arrow
+Creeper in a Potion
+Splash Potion of Creeper
+Lingering Potion of Creeper
+Arrow of tick, tick, BOOM!
+Potion of Pinkly Fury
+Splash Potion of Pinkly Fury
+Lingering Potion of Pinkly Fury
+Arrow of Pinkly Pain
+Potion of Pinkly Fury
+Splash Potion of Pinkly Fury
+Lingering Potion of Pinkly Fury
+Arrow of Pinkly Pain
+Potion of Pinkly Fury II
+Splash Potion of Pinkly Fury II
+Lingering Potion of Pinkly Fury II
+Arrow of Serious Pinkly Pain
+The Crazies
+Splash of The Crazies
+Lingering Crazies
+Arrow of The Crazies
+The Crazies
+Splash of The Crazies
+Lingering Crazies
+Arrow of The Crazies
+The Crazy Crazies
+Splash of The True Crazies
+Lingering Crazy Crazies
+Arrow of The Crazy Crazies
+Potion of Knockback Resistance
+Splash Potion of Knockback Resistance
+Lingering Potion of Knockback Resistance
+Arrow of Knockback Resistance
+Potion of Knockback Resistance
+Splash Potion of Knockback Resistance
+Lingering Potion of Knockback Resistance
+Arrow of Knockback Resistance
+Potion Magnifier
+Splash Potion Magnifier
+Lingering Potion Magnifier
+Potion Magnifier Tipped Arrow
+Liquid Slime
+Nether Slurry
+Pinked Slurry
+Rainbow Slurry
+Toxic Slurry
+Item (%s) sent to player's ender chest.
+Item (%s) was dropped at %d,%d,%d.
+Too soon to use again...
+You have achieved '%1$s' status with this weapon.
+D'oh! I, %1$s, shot my eye out!
+Removed accumulated toxin: %s
+And so we begin...
+Harvester of Hearts
+Bean Axed
+Bean Choppy Lately
+Bean Gold Chopping
+Sir Bean Chops-a-Lot
+Bean Axed
+Bean Chop Fee-Fi-Foey
+Bean Flying Chopper First-Class
+Bean Axed
+Breakin' Bean
+Axel: The Bean Stalker
+Bean Vexed Lately
+Hoe Hoe Hoe
+The Preciouses
+%s's Stuff!
+Free Junk an' Stuff
+Mr. G's Lunchbox
+Pooped Loot
+Friend of %s
+%s the Vex
+mini-%s
+Infernal Stalk Wraith
+Hearty Blood Stew

@@ -1,0 +1,95 @@
+Chinese Workshop
+Chinese Workshop | Construction Blocks
+Chinese Workshop | Decoration
+Chinese Workshop | Items
+Press %s and scroll to select item
+Chinese Workshop
+Select
+Black Brick Wall
+Andesite Road
+Red Pillars
+Dark Green Pillars
+White Gray Wall
+Stone Tower Lamp
+Red Lantern
+Candle
+White Lantern
+Dougong
+Men Dun
+Threshold
+Carving
+Oak Tree Altar
+Spruce Tree Altar
+Jungle Tree Altar
+Birch Tree Altar
+Acacia Tree Altar
+Big Oak Tree Altar
+Stool
+Table
+White Gray Wall Stairs
+Paper Window
+Diorite Fence
+Small Black Brick Wall
+Small White Gray Wall
+Oak Chinese Fence
+Andesite Fence
+Lithel Deco
+Andesite Road Stairs
+Oak Wall
+Chinese Wooden Door
+Chinese High Door
+Upper Door Frame
+Black Roof Tile
+Black Roof Tile Ridge
+Black Roof Tile Ridge Top
+Black Roof Tile Ridge Edge
+Black Roof Tile Ridge J
+Black Roof Tile J
+Black Roof Tile Slab
+Black Roof Tile Slab Top
+Thin White Gray Wall
+Black Roof Tile Edge
+Black Roof Tile Edge
+Black Roof Tile Edge Slab
+Black Roof Tile Edge Slab Top
+Black Roof Tile Ridge Edge Top
+Yellow Roof Tile
+Yellow Roof Tile Ridge
+Yellow Roof Tile Ridge Top
+Yellow Roof Tile Ridge Edge
+Yellow Roof Tile Ridge J
+Yellow Roof Tile J
+Yellow Roof Tile Slab
+Yellow Roof Tile Slab Top
+Yellow Roof Tile Edge
+Yellow Roof Tile Edge
+Yellow Roof Tile Edge Slab
+Yellow Roof Tile Edge Slab Top
+Yellow Roof Tile Ridge Edge Top
+Block of Black Clay
+福
+Rammed Earth
+Rammed Earth Wall
+Rammed Earth Stairs
+Diorite Window
+Rouge Brick
+Rouge Brick Wall
+Palace Lantern
+Rouge Brick Stairs
+Black Brick Wall Stairs
+Thatch Roof
+Thatch Tile Ridge Roof
+Thatch Tile Ridge Roof TOP
+Thatch Tile Roof Slab
+Thatch Tile Roof Slab TOP
+Wooden Window
+Wooden Threshold
+Thatch Roof Tile Edge
+Thatch Roof Tile Edge J
+Thatch Roof Tile Edge Slab
+Thatch Roof Tile Edge Slab TOP
+Thatch Tile Ridge Roof Edge
+Thatch Tile Ridge Roof Edge TOP
+Field Ridge
+Red Stained Wooden Planks
+Red Stained Wooden Planks Wall

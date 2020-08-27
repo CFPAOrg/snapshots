@@ -1,0 +1,60 @@
+Water Breathing
+Night Vision
+Invisibility
+Lv
+Overpowered
+Overpowered Mod by ADDSynth
+Collect Gems
+Collect all 8 types of gems needed to craft the Overpowered Gem.
+Energy Crystal
+Craft an Energy Crystal.
+Overpowered Tools
+Craft an Energy Tool.
+Light Block
+Craft a Light Block
+Void Crystal
+Use the Inverter to make a Void Crystal.
+Void Tools
+Craft any Void Tool.
+Null Block
+Craft a Null Block.
+Gem Converter
+Craft a Gem Converter
+Master Converter
+Convert 1,000 Gems.
+Laser
+Craft a Laser Housing
+Fire Laser
+Activate a Laser.
+Maximum Distance
+Fire a laser the maximum distance you can set.
+Inverter
+Craft an Inverter
+Identifier
+Craft an Identifier.
+New Identity
+Use the Identifier to identify something.
+Portal
+Craft a Portal Control Panel.
+Unknown Dimension
+Enter the Unknown Dimension.
+Unknown Technology
+Find an Unknown Technology in the Unknown Dimension.
+Fusion Energy Construction
+Craft all the components needed to construct the Fusion Energy structure.
+Fusion Energy
+Activate a Fusion Energy Structure.
+Black Hole
+Craft a Black Hole.
+Dimensional Anchor
+Craft a Dimensional Anchor.
+World Destroyer
+Use a Black Hole to destroy part of the world.
+Bronze Trophy
+Get a Bronze Trophy.
+Silver Trophy
+Get a Silver Trophy.
+Gold Trophy
+Get a Gold Trophy.
+Platinum Trophy
+Get a Platinum Trophy.

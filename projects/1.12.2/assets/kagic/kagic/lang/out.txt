@@ -1,0 +1,27 @@
+Let an Agate (or yourself) micromanage.
+The Burden
+Align an Aquamarine.
+DIY
+Send a Topaz into battle.
+%1$s was poofed
+%1$s was poofed by %2$s
+%1$s was poofed by %2$s using %3$s
+%1$s was shattered
+%1$s was shattered by %2$s
+%1$s was shattered by %2$s using %3$s
+%1$s was barraged by lasers
+%1$s was barraged by lasers from %2$s
+%1$s was viciously torn apart and eaten by slags.
+Configure KAGIC
+Update notifications?
+Use metrics?
+Can gems make sounds?
+Spawn Meteor Rubies?
+One Meteor Ruby per how many days?
+Instruct Injector setup?
+Can gems rebel?
+Display facet/cut gem names?
+Kindergarten biome weight:
+Floating Peaks biome weight:
+Strawberry Battlefield biome weight:
+Ruin dimensions:

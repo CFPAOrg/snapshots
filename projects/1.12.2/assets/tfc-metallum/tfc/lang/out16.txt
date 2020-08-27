@@ -1,0 +1,81 @@
+Greaves Tungsten
+Tungsten Unfinished Boots
+Unfinished Boots Tungsten
+Tungsten Boots
+Boots Tungsten
+Tungsten Unfinished Helmet
+Unfinished Helmet Tungsten
+Tungsten Helmet
+Helmet Tungsten
+Tungsten Shield
+Molten Tungsten Steel
+Tungsten Steel Ingot
+Unshaped Tungsten Steel
+Tungsten Steel Double Ingot
+Double Ingot Tungsten Steel
+Tungsten Steel Scrap
+Scrap Tungsten Steel
+Tungsten Steel Dust
+Dust Tungsten Steel
+Tungsten Steel Nugget
+Nugget Tungsten Steel
+Tungsten Steel Sheet
+Sheet Tungsten Steel
+Tungsten Steel Double Sheet
+Double Sheet Tungsten Steel
+Tungsten Steel Anvil
+Anvil Tungsten Steel
+Tungsten Steel Tuyere
+Tuyere Tungsten Steel
+Tungsten Steel Lamp
+%s Tungsten Steel Lamp
+Lamp Tungsten Steel
+Tungsten Steel Pickaxe
+Pick Tungsten Steel
+Tungsten Steel Pickaxe Head
+Pick Head Tungsten Steel
+Tungsten Steel Shovel
+Shovel Tungsten Steel
+Tungsten Steel Shovel Head
+Shovel Head Tungsten Steel
+Tungsten Steel Axe
+Axe Tungsten Steel
+Tungsten Steel Axe Head
+Axe Head Tungsten Steel
+Tungsten Steel Hoe
+Hoe Tungsten Steel
+Tungsten Steel Hoe Head
+Hoe Head Tungsten Steel
+Tungsten Steel Chisel
+Chisel Tungsten Steel
+Tungsten Steel Chisel Head
+Chisel Head Tungsten Steel
+Tungsten Steel Sword
+Sword Tungsten Steel
+Tungsten Steel Sword Blade
+Sword Blade Tungsten Steel
+Tungsten Steel Mace
+Mace Tungsten Steel
+Tungsten Steel Mace Head
+Mace Head Tungsten Steel
+Tungsten Steel Saw
+Saw Tungsten Steel
+Tungsten Steel Saw Blade
+Saw Blade Tungsten Steel
+Tungsten Steel Javelin
+Javelin Tungsten Steel
+Tungsten Steel Javelin Head
+Javelin Head Tungsten Steel
+Tungsten Steel Hammer
+Hammer Tungsten Steel
+Tungsten Steel Hammer Head
+Hammer Head Tungsten Steel
+Tungsten Steel Prospector's Pickaxe
+Propick Tungsten Steel
+Tungsten Steel Prospector's Pickaxe Head
+Propick Head Tungsten Steel
+Tungsten Steel Knife
+Knife Tungsten Steel
+Tungsten Steel Knife Blade
+Knife Blade Tungsten Steel
+Tungsten Steel Scythe

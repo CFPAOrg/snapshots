@@ -1,0 +1,10 @@
+Add
+Edit
+Remove
+Biome: %s
+Editing
+Adding
+%s Layer
+Count: %d
+Example: [layerSize]*[layerMaterial]:[metaData]
+1*minecraft:stone:2

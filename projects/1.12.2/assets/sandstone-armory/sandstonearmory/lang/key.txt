@@ -1,0 +1,21 @@
+// item."item".name
+item.sandstone_sword.name
+item.sandstone_pickaxe.name
+item.sandstone_axe.name
+item.sandstone_shovel.name
+item.sandstone_hoe.name
+item.red_sandstone_sword.name
+item.red_sandstone_pickaxe.name
+item.red_sandstone_axe.name
+item.red_sandstone_shovel.name
+item.red_sandstone_hoe.name
+item.sandstone_helmet.name
+item.sandstone_chestplate.name
+item.sandstone_leggings.name
+item.sandstone_boots.name
+item.red_sandstone_helmet.name
+item.red_sandstone_chestplate.name
+item.red_sandstone_leggings.name
+item.red_sandstone_boots.name
+tile.compressed_sandstone.name
+tile.red_compressed_sandstone.name

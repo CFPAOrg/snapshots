@@ -1,0 +1,59 @@
+Can
+Gold Can
+Holy Can
+Demonic Can
+Ancient Can
+Aluminum Ingot
+Small Vial
+Vial
+Large Vial
+Small Vial of Water
+Vial of Water
+Large Vial of Water
+Electrodust
+Hydrodust
+Ghost Hydrodust
+Condensed Sugar
+Condensed Redstone
+Crystallized Sugar
+Crystallized Redstone
+Ghost Sugar
+Ghost Redstone
+Soda
+Gold Soda
+Holy Soda
+Demonic Soda
+Ancient Soda
+Flavor Packet of Lethargy
+Flavor Packet of Alacrity
+Flavor Packet of Constitution
+Flavor Packet of Aquatic Respiration
+Flavor Packet of Appetence
+Flavor Packet of Toxicity
+Flavor Packet of Fortitude
+Flavor Packet of Pyro Immunity
+Flavor Packet of Abhorrence
+Flavor Packet of Feebility
+Flavor Packet of Myopia
+Flavor Packet of Apacity
+Flavor Packet of Reclamation
+Flavor Packet of Photoreception
+Flavor Packet of Debility
+Flavor Packet of Atrophy
+Flavor Packet of Harm
+Flavor Packet of Leaping
+Flavor Packet of Immunity
+Flavor Packet of Imperceptibility
+Flavor Packet of Vigor
+Flavor Packet of Imbibity
+Flavor Packet of Engorgement
+Flavor Packet of Vibrancy
+Flavor Packet of Suspension
+Flavor Packet of Prosperity
+Flavor Packet of Tragedy
+Aluminum Ore
+Carbonizer
+Mixer
+Carbonizer
+Mixer
+Cola Craft

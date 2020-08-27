@@ -1,0 +1,17 @@
+item.dollar2.name
+item.dollar100.name
+tile.bonsai.name
+item.woodmanaxe.name
+tile.moneyblock.name
+item.dollar5.name
+fluid.toxicwaste
+item.fertilizer.name
+tile.irongate.name
+tile.huyghjvgc.name
+itemGroup.tabutilitaria
+item.toxicwastebucket.name
+item.dollar10.name
+item.dollar1.name
+item.dollar50.name
+tile.toxicbarrel.name
+item.fireAxe.name

@@ -1,0 +1,96 @@
+Can paint things in Pink
+Spray Can (Gray)
+Can paint things in Gray
+Spray Can (Light Gray)
+Can paint things in Light Gray
+Spray Can (Cyan)
+Can paint things in Cyan
+Spray Can (Purple)
+Can paint things in Purple
+Spray Can (Blue)
+Can paint things in Blue
+Spray Can (Brown)
+Can paint things in Brown
+Spray Can (Green)
+Can paint things in Green
+Spray Can (Red)
+Can paint things in Red
+Spray Can (Black)
+Can paint things in Black
+Match
+Match Box
+Lighter
+Platinum Lighter
+A known Prank Master is engraved on it
+Iridium Alloy Ingot
+Used to make Iridium Plate
+Small Battery Hull
+An empty LV Battery Hull
+Medium Battery Hull
+An empty MV Battery Hull
+Large Battery Hull
+An empty HV Battery Hull
+Tantalum Capacitor
+Reusable
+Small Acid Battery
+Single Use
+Small Mercury Battery
+Single Use
+Small Cadmium Battery
+Reusable
+Small Lithium Battery
+Reusable
+Small Sodium Battery
+Reusable
+Medium Acid Battery
+Single Use
+Medium Mercury Battery
+Single Use
+Medium Cadmium Battery
+Reusable
+Medium Lithium Battery
+Reusable
+Medium Sodium Battery
+Reusable
+Large Acid Battery
+Single Use
+Large Mercury Battery
+Single Use
+Large Cadmium Battery
+Reusable
+Large Lithium Battery
+Reusable
+Large Sodium Battery
+Reusable
+Energy Crystal
+Lapotron Crystal
+Master Energy Orb
+Expert Lapotronic Energy Orb
+Ultimate Lapotronic Energy Orb
+Integrated Circuit
+Carbon Fibre
+Electric Motor (LV)
+Electric Motor (MV)
+Electric Motor (HV)
+Electric Motor (EV)
+Electric Motor (IV)
+Electric Motor (LuV)
+Electric Motor (ZPM)
+Electric Motor (UV)
+Electric Pump (LV)
+640MB / Second (as Cover)
+Electric Pump (MV)
+2560MB / Second (as Cover)
+Electric Pump (HV)
+10240MB / Second (as Cover)
+Electric Pump (EV)
+40,960MB / Second (as Cover)
+Electric Pump (IV)
+163,840MB / Second (as Cover)
+Electric Pump (LuV)
+655,360MB / Second (as Cover)
+Electric Pump (ZPM)
+655,360MB / Second (as Cover)
+Electric Pump (UV)
+655,360MB / Second (as Cover)
+Fluid Regulator (LV)

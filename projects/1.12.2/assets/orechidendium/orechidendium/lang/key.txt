@@ -1,0 +1,8 @@
+botania.nei.orechidEndium
+tile.botania:flower.orechidEndium.name
+tile.botania:flower.orechidEndium.reference
+botania.entry.orechidEndium
+botania.tagline.orechidIgnem
+botania.page.orechidEndium0
+botania.page.orechidEndium1
+botania.subtitle.orechidEndium

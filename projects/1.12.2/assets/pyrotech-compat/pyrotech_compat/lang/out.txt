@@ -1,0 +1,74 @@
+Scoria Anvil
+Andesite Anvil
+Diorite Anvil
+Netherrack Rock
+Red Granite Rock
+Black Granite Rock
+Rhyolite Rock
+Andesite Rock
+Gabbro Rock
+Basalt Rock
+Komatiite Rock
+Dacite Rock
+Gneiss Rock
+Eclogite Rock
+Marble Rock
+Quartzite Rock
+Blue Schist Rock
+Green Schist Rock
+Soapstone Rock
+Migmatite Rock
+Chalk Rock
+Shale Rock
+Siltstone Rock
+Dolomite Rock
+Greywacke Rock
+Chert Rock
+Red Granite Sandstone Rock
+Black Granite Sandstone Rock
+Rhyolite Sandstone Rock
+Andesite Sandstone Rock
+Gabbro Sandstone Rock
+Basalt Sandstone Rock
+Komatiite Sandstone Rock
+Dacite Sandstone Rock
+Gneiss Sandstone Rock
+Eclogite Sandstone Rock
+Marble Sandstone Rock
+Quartzite Sandstone Rock
+Blue Schist Sandstone Rock
+Green Schist Sandstone Rock
+Soapstone Sandstone Rock
+Migmatite Sandstone Rock
+Limestone Sandstone Rock
+Chalk Sandstone Rock
+Shale Sandstone Rock
+Siltstone Sandstone Rock
+Lignite Sandstone Rock
+Dolomite Sandstone Rock
+Greywacke Sandstone Rock
+Chert Sandstone Rock
+Red Granite Sand Pile
+Black Granite Sand Pile
+Rhyolite Sand Pile
+Andesite Sand Pile
+Gabbro Sand Pile
+Basalt Sand Pile
+Komatiite Sand Pile
+Dacite Sand Pile
+Gneiss Sand Pile
+Eclogite Sand Pile
+Marble Sand Pile
+Quartzite Sand Pile
+Blue Schist Sand Pile
+Green Schist Sand Pile
+Soapstone Sand Pile
+Migmatite Sand Pile
+Limestone Sand Pile
+Chalk Sand Pile
+Shale Sand Pile
+Siltstone Sand Pile
+Lignite Sand Pile
+Dolomite Sand Pile
+Greywacke Sand Pile
+Chert Sand Pile

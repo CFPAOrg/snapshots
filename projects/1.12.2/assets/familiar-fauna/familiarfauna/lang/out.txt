@@ -1,0 +1,20 @@
+Familiar Fauna
+Mob Settings
+Enable/disable mobs, change spawn rates, etc.
+Butterfly
+Deer
+Dragonfly
+Pixie
+Snail
+Turkey
+Bug Habitat
+Bug Habitat - Butterfly
+Bug Habitat - Dragonfly
+Bug Habitat - Pixie
+Bug Net
+Pixie Dust
+Snail Shell
+Raw Turkey Leg
+Cooked Turkey Leg
+Raw Venison
+Cooked Venison

@@ -1,0 +1,7 @@
+item.korenbody.name
+item.scanner.name
+item.korenhelmet.name
+itemGroup.tabshit
+item.korenlegs.name
+item.korenboots.name
+item.ssadsad.name

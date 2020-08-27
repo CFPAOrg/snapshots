@@ -1,0 +1,17 @@
+Shovel of the Purifier
+Ring of Nutrition
+Bloody Scrivener's Tools
+Lost Magic
+You have eaten garbage.
+You have eaten something nourishing.
+Eat some junk food.
+Eat something nourishing.
+Apocrypha
+Lost Magic
+Some avenues of research don't seem to fit neatly into established categories. Sometimes they're too weird, too forbidden, too spooky, or just too sinful for this sweet earth.<BR>I can probably just stick any researches that don't fit into other categories into this section of my Thaumonomicon.<PAGE><PAGE> <IMG>lostmagic:textures/misc/sigiloss2.png:0:0:128:128:.75</IMG> §oSome kind of magical sigil§r
+Shovel of the Purifier
+Releasing too much flux into the aura sure does make a mess sometimes. Some of the more physical symptoms seem resistant to standard methods of removal.<BR>Maybe I can infuse a thaumium tool with something to make it more effective.
+By combining silverwood, auram shards, and quicksilver with a thaumium shovel, I've designed a tool capable of digging up taint. It is even more effective against tainted blocks than it is against regular dirt. If you press right click with it, it will also vaporize any flux goo in a small radius.<BR>That'll show those stupid purple blocks who's boss!
+Bloody Scrivener's Tools
+Nothing more frustrating than having to bring my train of thought to a screeching halt in the middle of research just because my inkwell ran out of ink. I have a lot of knowledge to uncover and don't have time for petty things like inkwells! I'll just write my notes in my own blood if I have to!<BR>Actually, that gives me an idea...
+By enhancing my inkwell with blood magic, I've created a scribing tool that fills itself from life force instead of ink. The bloody scrivener's tool can draw from LP instead of ink when writing, but may need contact with human warmth to recharge if it runs out.<BR>Right click the tool to bind it to your LP network. It will take 25 LP per point of damage.

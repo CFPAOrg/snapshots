@@ -1,0 +1,114 @@
+TARDIS Mod Blocks
+TARDIS Mod Items
+Strange Blocks
+TARDIS Key
+Coordinate Logger
+Exotronic Circuitry
+Sonic Screwdriver
+Dalek Gunstick
+Trionic Power Cell
+Dalek Ray Gun
+Void Spectacles
+Gallifreyan Fob Watch
+Fez
+Bowtie
+Sonic Umbrella
+Sonic Umbrella
+Sonic Blaster
+Sonic Cane
+Vortex Manipulator
+Fluid Links
+Dematerialization Circuit
+Artron Capacitor
+Sonic Torch Pen
+TARDIS Manual
+Space Suit Helmet
+Space Suit Chestpiece
+Space Suit Leggings
+First Doctor's Cane
+Fourth Doctor's Hat
+Symbiotic Nuclei
+Stattenheim Remote
+Ruby
+Thirteen's Coat
+Sonic Shades
+Time Vector Generator
+Bio-Dampener
+Bottle of Mercury
+Cinnabar Dust
+Interstitial Antenna
+Hellbent Roundel Door
+Hellbent Corridor Entrance
+TARDIS Key
+Marker
+Interior Door
+Thirteen's Sonic
+Chameleon Circuit
+Bessie
+Temporal Grace Circuits
+TARDIS Toolkit
+Stabilizer circuits
+Thermocouplings
+Third Doctor's Sonic Screwdriver
+TARDIS Ancillary doors
+Repair Capsule
+Trophy
+Defabricator
+TARDIS Diagnostic Tool
+Bound to TARDIS Console at %s
+Remote bound to TARDIS at:
+TARDIS arriving in
+Artron Banks
+TARDIS Exterior:
+To bind, right click on a console.
+Right click the console to repair all non-destroyed systems by 15
+Stored Artron
+Found in the heart of a supernova.
+Exterior located at %s
+seconds
+TARDIS
+Console
+Roundel
+TARDIS Door
+TARDIS
+Lamp
+Homing Beacon
+Chronodyne Generator
+Grate
+Temporal Laboratory
+Umbrella Stand
+Alembic
+Food Machine
+Electric Interface Panel
+Meglos
+TARDIS Console
+Toyota Block
+Ruby Ore
+Holoprojector
+TARDIS Coral
+Cinnabar Ore
+Hellbent Floor
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Roundel
+Hellbent Roundel
+Hellbent Roundel
+Hellbent Roundel
+Hellbent Wall Silver
+Hellbent Wall
+Hellbent Vents
+Hellbent Fault Locator Lights
+Hellbent Monitor
+Hellbent Pole
+Hellbent Ceiling Thing
+S13 Roundel
+S13 Roundel
+S13 Roundel
+S13 Roundel
+S13 Roundel

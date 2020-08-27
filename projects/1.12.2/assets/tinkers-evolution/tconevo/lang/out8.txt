@@ -1,0 +1,90 @@
+Lonsdaleite
+Mica
+Molten Mica
+Apatite
+Apiary Affinity
+§oBee-utiful!§r\nThis armour protects its wearer from bees.
+Essence-Infused
+Molten Metallic Essence
+Meaty
+Pink Slime
+Pink Metal
+Molten Pink Metal
+Rubber
+Advanced Alloy
+Energium
+Molten Energium Metal
+Carbon Fiber
+Iridium
+Molten Iridium
+UU-Metal
+Eutectic UU-Metal Alloy
+Electric
+§oHAYO!§r\nThis tool consumes electricity before durability.
+Electric
+§oHAYO!§r\nThis armour consumes electricity before durability.
+Osmium
+Molten Osmium
+Refined Obsidian
+Molten Refined Obsidian
+Refined Glowstone
+Molten Refined Glowstone
+HDPE
+Ghostwood
+Bloodwood
+Darkwood
+Fusewood
+Absorption
+§oKnockoff runic shielding?§r\nThis armour grants additional absorption hearts.
+Dark Matter
+Dark Liquid
+Red Matter
+Red Liquid
+Eternal Density
+§oFlower power!§r\nThis weapon condenses the energy from its strikes into EMC.
+EMC Conversion: +%s
+Superdense
+§oNot overpowered!§r\nThis armour slightly mitigates most forms of incoming damage.
+Damage Taken: -%s
+Ultradense
+§oExtremely not overpowered!§r\nThis armour significantly mitigates most forms of incoming damage.
+Damage Taken: -%s
+Fluxed Electrum
+Molten Fluxed Electrum
+Flux Crystal
+Gelid Enderium
+Molten Gelid Enderium
+Gelid Gem
+Fluxed
+Thaumium
+Molten Thaumium
+Void Metal
+Molten Void Metal
+Primal Metal
+Molten Primal Metal
+Amber
+Quicksilver
+Warping
+§oStrange whispers reveal secrets...§r\nThis accursed weapon saps at the sanity of those that bear its strikes.
+Warping
+§oStrange whispers reveal secrets...§r\nThis accursed plate saps at the sanity of those that would strike it.
+Tin
+Aluminium
+Nickel
+Platinum
+Molten Platinum
+Invar
+Molten Invar
+Constantan
+Molten Constantan
+Signalum
+Molten Signalum
+Lumium
+Molten Lumium
+Enderium
+Molten Enderium
+Magic
+Potency
+The magical power harbored in this material.\nDetermines how effective a magical tool is at its job.
+%1$s choked on some very tough meat
+%1$s was annihilated by %2$s using dark energy

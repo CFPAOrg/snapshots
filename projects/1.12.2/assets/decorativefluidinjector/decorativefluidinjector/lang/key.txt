@@ -1,0 +1,4 @@
+tile.filled_glass.name
+item.syringe_item_empty.name
+item.syringe_item_full.name
+item.syringe_item.desc

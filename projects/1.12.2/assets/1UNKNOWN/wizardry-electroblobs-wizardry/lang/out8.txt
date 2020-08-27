@@ -1,0 +1,23 @@
+Creates a protective barrier of force that blocks projectiles and magic. Also grants the caster a weak resistance effect.
+Boom.
+"Ahhhh! They're MULTIPLYING!"
+Allows the caster to sense the locations of nearby creatures, even through walls, for 20 seconds.
+Engulfs the target in slime which slows and continually damages it. The slime bursts after 10 seconds.
+Launches a smoke bomb in the direction you are pointing which explodes on impact, releasing smoke and blinding nearby creatures for a short time.
+Sets a trap on the ground which damages and briefly slows the creature that triggers it.
+Launches a snowball in the direction you are pointing.
+Launches a shock charge in the direction you are pointing which releases sparks at nearby enemies on impact.
+Creates an indestructible magical bridge in front of you which extends for 15 blocks. The bridge vanishes after 60 seconds.
+Summons a swarm of venomous spiders to fight for you. The spiders will disappear after 30 seconds or if they are killed.
+Surrounds the caster with lightning for 30 seconds, firing a spark of lightning at anything that hits them.
+Summons a blaze to fight for you. The blaze will disappear after 30 seconds or if it is killed.
+"Smash them!"
+Summons an ice wraith to fight for you. The ice wraith will disappear after 30 seconds or if it is killed.
+Automatic automated autonomous automaton.
+Summons a lightning wraith to fight for you. The lightning wraith will disappear after 30 seconds or if it is killed.
+From the ashes...
+Summons a shadow wraith to fight for you.
+Summons a skeleton to fight for you. The skeleton will disappear after 30 seconds or if it is killed.
+"Rise, undead army!"
+Creates a snow golem to fight for you. Lasts until the snow golem dies.
+Summons a spirit horse for you to ride. The spirit horse will vanish a short while after it is dismounted, or you can dismiss it by shift-right-clicking on it with any wand.

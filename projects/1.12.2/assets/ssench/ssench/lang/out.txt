@@ -1,0 +1,6 @@
+Craftable
+Storage
+Teleport"
+Enable Craftable Enchantment
+Enable Storage Enchantment
+Enable Teleport Enchantment

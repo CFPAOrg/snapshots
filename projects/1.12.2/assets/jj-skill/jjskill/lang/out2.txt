@@ -1,0 +1,58 @@
+Gives off a mystical barrier that largely protects from any damage the creatures within its area
+Maximum level learned
+Experience necessary
+JJ Skill is a mod that brings more than 30 skills to the world of Minecraft, so to make it feel like an MMORPG. Skills will be both for combat (PVP and PVE) and for farming. By collecting the Red Experience Points looted by mobs, you will be able to raise every skill up to level 10. To every level will correspond ever better stats. Thanks to the use of the Press, you'll be able to imprint on your weapons any of your learnt skills.
+The mod adds a new type of Red Experience, that behaves in the same way as the classic EXP in vanilla Minecraft. Accumulating experience, you'll be able to train your Skills.  To view the accumulated experience, press the key
+It is possible to obtain more experience by drinking from the experience bottles you can find in dungeon chests.
+This mod adds 15 weapons (3 Swords, 3 Bows, 3 Battle Axes, 3 Daggers, and 3 Staves). The skills can be associated to some weapons/items up to 3 skills each. You're able to bring with you up to 3 skilled weapons/items. To change the selected skill, press the key
+Type:
+ACTIVE
+PASSIVE
+Parameters
+Duration
+Cooldown
+Power
+Energy Consumption
+Lvl 1
+Lvl 10
+Basics
+Weapons
+Red Experience
+Multiblock Structure
+List of Skills
+JJ Skill
+Open Skill GUI
+Switch Skill Item
+Reset your skills
+Reset your experience
+Number of Clones
+Dematerialized Blocks
+Number of Arrows
+Arrow Damage
+Damage Rate
+Range
+Healing Value
+Jump Power
+Power
+Number of Uses
+Fall Damage Multiplier
+Speed Multiplier
+Number of Hooks
+Bleeding Damage
+Inflicted Bleedings
+Seconds of Fire 
+Damage
+Success Rate
+Absorption
+Mob Healing Value
+Player Healing Value
+Health Valuse Activation
+Speed
+Number of Uses
+Enabled Skill
+Max Learnable Lvl
+Max Applicable Lvl
+List of Skillable Items
+Necessary Experience
+Duration
+Cooldown

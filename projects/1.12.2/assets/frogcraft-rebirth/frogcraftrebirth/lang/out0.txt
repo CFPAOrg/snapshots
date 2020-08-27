@@ -1,0 +1,122 @@
+Mobile Power Supply
+§oThe best camping gear
+60K Ammonia Coolant Cell
+180K Ammonia Coolant Cell
+360K Ammonia Coolant Cell
+A ordinary %s ammonia coolant cell
+Uranium Decay Battery
+Thorium Decay Battery
+Plutonium Decay Battery
+A radioactive decay battery
+Provide you with infinite electricity at a high cost!
+Nitric Acid Bucket
+Warning: Super Corrosive!
+Aluminium Ingot
+Al
+Magnalium Ingot
+MgAl₂
+Titanium Ingot
+Ti
+Aluminium Dust
+Al
+Magnalium Dust
+MgAl₂
+Titanium Dust
+Ti
+Small Pile of Aluminium Dust
+Al
+Small Pile of Magnalium Dust
+MgAl₂
+Small Pile of Titanium Dust
+Ti
+Aluminium Plate
+Al
+Magnalium Plate
+MgAl₂
+Titanium Plate
+Ti
+Dense Aluminium Plate
+Al
+Dense Magnalium Plate
+MgAl₂
+Dense Titanium Plate
+Ti
+Aluminium Casing
+Al
+Magnalium Casing
+MgAl₂
+Titanium Casing
+Ti
+Crushed Carnallite
+4KCl.MgBr₂.8H₂O
+Crushed Dewalquite
+25Al₂O₃.TiO₂.V₂O₅
+Crushed Fluorapatite
+Ca₅F(PO₄)₃
+Purified Carnallite
+4KCl.MgBr₂.8H₂O
+Purified Dewalquite
+25Al₂O₃.TiO₂.V₂O₅
+Purified Fluorapatite
+Ca₅F(PO₄)₃
+Carnallite Dust
+4KCl.MgBr₂.8H₂O
+Dewalquite Dust
+25Al₂O₃.TiO₂.V₂O₅
+Fluorapatite Dust
+Ca₅F(PO₄)₃
+Small Pile of Carnallite Dust
+4KCl.MgBr₂.8H₂O
+Small Pile of Dewalquite Dust
+25Al₂O₃.TiO₂.V₂O₅
+Small Pile of Fluorapatite Dust
+Ca₅F(PO₄)₃
+Ammonium Nitrate Dust
+NH₄NO₃
+Calcite Dust
+CaCO₃
+Calcium Silicate Dust
+CaSiO₃
+Gypsum Dust
+CaSO₄
+Quicklime Dust
+CaO
+Silica Dust
+SiO₂
+Slaked Lime Dust
+Ca(OH)₂
+Urea Dust
+CO(NH₂)₂
+Small Pile of Ammonium Nitrate Dust
+NH₄NO₃
+Small Pile of Calcite Dust
+CaCO₃
+Small Pile of Calcium Silicate Dust
+CaSiO₃
+Small Pile of Gypsum Dust
+CaSO₄
+Small Pile of Quicklime Dust
+CaO
+Small Pile of Silica Dust
+SiO₂
+Small Pile of Slaked Lime Dust
+Ca(OH)₂
+Small Pile of Urea Dust
+CO(NH₂)₂
+Aluminium (III) Oxide
+Al₂O₃
+Calcium Fluoride
+CaF₂
+Magnesium Bromide
+MgBr₂
+Potassium Chloride
+KCl
+Sodium Chloride
+NaCl
+Titanium (IV) Oxide
+TiO₂
+Vanadium (V) Oxide
+V₂O₅
+Briquette
+Chinese Style!
+Lipid Cluster

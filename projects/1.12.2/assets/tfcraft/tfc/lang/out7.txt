@@ -1,0 +1,42 @@
+World Regen Settings
+Min Time
+The minimum time for a chunk to be unoccupied for it's resources (berry bushes, debris and crops) to naturally regenerate. (In days). After this amount, regeneration will scale up based on how long since this duration, up to a maximum of 4x.
+Debris Modifier
+The weight for loose rocks and sticks regeneration in the world.
+Food Settings
+Settings for various aspects of food, from decay to abundance.
+Decay Modifier
+Decay Stack Time
+The number of hours to which initial food decay will be synced. When a food item is dropped, it's initial expiration date will be rounded to the closest multiple of this (in hours).
+Enable Crop Death
+If false, crops will never die under any circumstances.
+Wild Crops Rarity
+Berry Bush Rarity
+Fruit Tree Rarity
+Crop Growth Time Modifier
+Modifier for how long crops take to grow.
+Berry Bush Time Modifier
+Modifier for how long berry bushes take to grow fruits.
+Fruit Tree Time Modifier
+Modifier for how long fruit trees take to grow trunks / leaves / fruits.
+Misc Settings
+Settings for various miscellaneous things.
+Default Month Length
+The default length of a month (in days) when a new world is started. This can be changed in existing worlds via the /timetfc command.
+Plant Growth Rate
+Leaf Movement Modifier
+Berry Bush Movement Modifier
+Snow Movement Modifier
+Minimum Plant Movement Modifier
+Stone Gem Drop Chance
+Chance that mining a raw stone will drop a gem. Gem grade is random from: 16/31 Chipped, 8/31 Flawed, 4/31 Normal, 2/31 Flawless and 1/31 Exquisite.
+Firestarter Success Chance
+Chance for the fire starter to be successful
+Nugget Metal Amount
+The amount of metal contained in a small ore / nugget.
+Poor Ore Metal Amount
+The amount of metal contained in a poor ore.
+Normal Ore Metal Amount
+The amount of metal contained in a normal ore.
+Rich Ore Metal Amount
+The amount of metal contained in a rich ore.

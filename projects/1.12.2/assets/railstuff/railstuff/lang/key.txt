@@ -1,0 +1,14 @@
+tile.railstuff.manual_switch_stand.name
+tile.railstuff.red_flag.name
+tile.railstuff.yellow_flag.name
+tile.railstuff.green_flag.name
+tile.railstuff.blue_flag.name
+tile.railstuff.end_abs.name
+tile.railstuff.signal_head.name
+tile.railstuff.mast.name
+tile.railstuff.milepost.name
+tile.railstuff.whistle.name
+item.railstuff.rolling_stock_assigner.name
+item.railstuff.paperwork.name
+item.railstuff.signal_surveyor.name
+itemGroup.RailStuff

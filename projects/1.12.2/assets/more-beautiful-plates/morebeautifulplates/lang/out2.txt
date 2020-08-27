@@ -1,0 +1,62 @@
+Mycelium Pressure Plate
+Nether Bricks Pressure Plate
+Nether Wart Block Pressure Plate
+Netherrack Pressure Plate
+Oak Log Pressure Plate
+Obsidian Pressure Plate
+Orange Concrete Pressure Plate
+Orange Concrete Powder Pressure Plate
+Orange Glazed Terracotta Pressure Plate
+Orange shulker Box Pressure Plate
+Orange Stained Glass Pressure Plate
+Orange Terracotta Pressure Plate
+Orange Wool Pressure Plate
+Packed Ice Pressure Plate
+Pillar Quartz Block Pressure Plate
+Pink Concrete Pressure Plate
+Pink Concrete Powder Pressure Plate
+Pink Glazed Terracotta Pressure Plate
+Pink shulker Box Pressure Plate
+Pink Stained Glass Pressure Plate
+Pink Terracotta Pressure Plate
+Pink Wool Pressure Plate
+Prismarine Bricks Pressure Plate
+Prismarine Pressure Plate
+Pumpkin Pressure Plate
+Purple Concrete Pressure Plate
+Purple Concrete Powder Pressure Plate
+Purple Glazed Terracotta Pressure Plate
+Purple shulker Box Pressure Plate
+Purple Stained Glass Pressure Plate
+Purple Terracotta Pressure Plate
+Purple Wool Pressure Plate
+Purpur Block Pressure Plate
+Purpur Pillar Pressure Plate
+Quartz Ore Pressure Plate
+Red Concrete Pressure Plate
+Red Concrete Powder Pressure Plate
+Red Glazed Terracotta Pressure Plate
+Red Mushroom Block Pressure Plate
+Red Nether Bricks Pressure Plate
+Red Sand Pressure Plate
+Red Sandstone Pressure Plate
+Red shulker Box Pressure Plate
+Red Stained Glass Pressure Plate
+Red Terracotta Pressure Plate
+Red Wool Pressure Plate
+Redstone Block Pressure Plate
+Redstone Ore Pressure Plate
+Sand Pressure Plate
+Sandstone Pressure Plate
+Sea Lantern Pressure Plate
+Slime Pressure Plate
+Smooth Red Sandstone Pressure Plate
+Smooth Sandstone Pressure Plate
+Snow Pressure Plate
+Soul Sand Pressure Plate
+Sponge Pressure Plate
+Spruce Log Pressure Plate
+Spruce Pressure Plate
+Stone Andesite Pressure Plate
+Stone Andesite Smooth Pressure Plate
+Stone Bricks Pressure Plate

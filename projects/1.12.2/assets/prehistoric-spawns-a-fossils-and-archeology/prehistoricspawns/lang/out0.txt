@@ -1,0 +1,73 @@
+Allosaurus Settings
+Spawn Allosaurus?
+Minimum Allosaurus pack size
+Maximum Allosaurus pack size
+Allosaurus Spawns (Vanilla)
+Ankylosaurus Settings
+Spawn Ankylosaurus?
+Minimum Ankylosaurus herd size
+Maximum Ankylosaurus herd size
+Ankylosaurus Spawns (Vanilla)
+Arthropleura Settings
+Spawn Arthropleura?
+Minimum Arthropleura swarm size
+Maximum Arthropleura swarm size
+Arthropleura Spawns (Vanilla)
+Brachiosaurus Settings
+Spawn Brachiosaurus?
+Minimum Brachiosaurus herd size
+Maximum Brachiosaurus herd size
+Brachiosaurus Spawns (Vanilla)
+Ceratosaurus Settings
+Spawn Ceratosaurus?
+Minimum Ceratosaurus pack size
+Maximum Ceratosaurus pack size
+Ceratosaurus Spawns (Vanilla)
+Citipati Settings
+Spawn Citipati?
+Minimum Citipati herd size
+Maximum Citipati herd size
+Citipati Spawns (Vanilla)
+Crassigyrinus Settings
+Spawn Crassigyrinus?
+Minimum Crassigyrinus herd size
+Maximum Crassigyrinus herd size
+Crassigyrinus Spawns (Vanilla)
+Compsognathus Settings
+Spawn Compsognathus?
+Minimum Compsognathus pack size
+Maximum Compsognathus pack size
+Compsognathus Spawns (Vanilla)
+Confuciusornis Settings
+Spawn Confuciusornis?
+Minimum Confuciusornis flock size
+Maximum Confuciusornis flock size
+Confuciusornis Spawns (Vanilla)
+Deinonychus Settings
+Spawn Deinonychus?
+Minimum Deinonychus pack size
+Maximum Deinonychus pack size
+Deinonychus Spawns (Vanilla)
+Dilophosaurus Settings
+Spawn Dilophosaurus?
+Minimum Dilophosaurus pack size
+Maximum Dilophosaurus pack size
+Dilophosaurus Spawns (Vanilla)
+Diplocaulus Settings
+Spawn Diplocaulus?
+Minimum Diplocaulus herd size
+Maximum Diplocaulus herd size
+Diplocaulus Spawns (Vanilla)
+Dodo Settings
+Spawn Dodo?
+Minimum Dodo flock size
+Maximum Dodo flock size
+Dodo Spawns (Vanilla)
+Dryosaurus Settings
+Spawn Dryosaurus?
+Minimum Dryosaurus herd size
+Maximum Dryosaurus herd size
+Dryosaurus Spawns (Vanilla)
+Edaphosaurus Settings
+Spawn Edaphosaurus?
+Minimum Edaphosaurus herd size

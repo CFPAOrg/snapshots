@@ -1,0 +1,6 @@
+tile.palmstocker.name
+tile.baobabstocker.name
+tile.jacarandastocker.name
+tile.sakurastocker.name
+tile.bamboostocker.name
+tile.firstocker.name

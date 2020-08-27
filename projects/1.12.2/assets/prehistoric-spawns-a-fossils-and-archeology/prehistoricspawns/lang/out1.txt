@@ -1,0 +1,75 @@
+Maximum Edaphosaurus herd size
+Edaphosaurus Spawns (Vanilla)
+Elasmotherium Settings
+Spawn Elasmotherium?
+Minimum Elasmotherium herd size
+Maximum Elasmotherium herd size
+Elasmotherium Spawns (Vanilla)
+Gallimimus Settings
+Spawn Gallimimus?
+Minimum Gallimimus herd size
+Maximum Gallimimus herd size
+Gallimimus Spawns (Vanilla)
+Gastornis Settings
+Spawn Gastornis?
+Minimum Gastornis flock size
+Maximum Gastornis flock size
+Gastornis Spawns (Vanilla)
+Henodus Settings
+Spawn Henodus?
+Minimum Henodus group size
+Maximum Henodus group size
+Henodus Spawns (Vanilla)
+Icthyosaurus Settings
+Spawn Icthyosaurus?
+Minimum Icthyosaurus pod size
+Maximum Icthyosaurus pod size
+Icthyosaurus Spawns (Vanilla)
+Kelenken Settings
+Spawn Kelenken?
+Minimum Kelenken flock size
+Maximum Kelenken flock size
+Kelenken Spawns (Vanilla)
+Liopleurodon Settings
+Spawn Liopleurodon?
+Minimum Liopleurodon school size
+Maximum Liopleurodon school size
+Liopleurodon Spawns (Vanilla)
+Mammoth Settings
+Spawn Mammoth?
+Minimum Mammoth herd size
+Maximum Mammoth herd size
+Mammoth Spawns (Vanilla)
+Megalania Settings
+Spawn Megalania?
+Minimum Megalania pack size
+Maximum Megalania pack size
+Megalania Spawns (Vanilla)
+Megaloceros Settings
+Spawn Megaloceros?
+Minimum Megaloceros herd size
+Maximum Megaloceros herd size
+Megaloceros Spawns (Vanilla)
+Megalodon Settings
+Spawn Megalodon?
+Minimum Megalodon school size
+Maximum Megalodon school size
+Megalodon Spawns (Vanilla)
+Megalograptus Settings
+Spawn Megalograptus?
+Minimum Megalograptus pod size
+Maximum Megalograptus pod size
+Megalograptus Spawns (Vanilla)
+Meganeura Settings
+Spawn Meganeura?
+Minimum Meganeura swarm size
+Maximum Meganeura swarm size
+Meganeura Spawns (Vanilla)
+Mosasaurus Settings
+Spawn Mosasaurus?
+Minimum Mosasaurus school size
+Maximum Mosasaurus school size
+Mosasaurus Spawns (Vanilla)
+Pachycephalosaurus Settings
+Spawn Pachycephalosaurus?
+Minimum Pachycephalosaurus herd size

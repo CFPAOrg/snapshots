@@ -1,0 +1,51 @@
+Spawns between Y levels 0 - 64 in ALL biomes.
+Spawns very rarely between Y level 0 - 80 in the END.
+You'll have a blast!
+Structure:
+3x4x3 hollow(lava or air in center) rectangle of (34) Standard, Reinforced, or Advanced Machine Casings,
+Controller centered in front at the bottom
+*Slaps roof of Electrolyzer*
+This bad boy can process so much stuff!
+Over 9000 Gibbl!
+Ultimaceratron 42b
+Get mo Planks for ya Logs
+Cools down anything
+HighTech combination smelter
+Avengers, Assemble!
+Let 2 chemical substances react together with this!
+Like a Refinery, but with byproducts, and more Energy Efficient
+Smelts together alloys using fuel.
+You'll have a blast!
+Structure:
+3x5x3 hollow rectangle of (41) Fire Bricks,
+Controller centered at the second lowest layer
+Casts molten fluids into solids.
+Melts metals
+Boo, he's bad! We want BENDER!!!
+Slices blocks into plates
+Produces metal rods more efficiently
+Produces wires more efficiently
+Universal Machine for Metal Working
+Did you really read the instruction Manual?
+Compresses stuff
+Extracts stuff
+The second most effective way of burning Fuel
+Converts 500 mb of lava/tick and 5 mb of water/tick to 800 mb of steam/tick
+Consumes 1600 mb of Steam per tick
+About 42 small Gas Turbines worth
+Generate power from Flatulence, uhh I mean Me
+For inputting Materials into Multiblocks
+For exporting Materials from Multiblocks
+Generating electric Energy from Multiblocks
+Output Tier can be cycled with hammer(will be screwdriver later)
+For Controlling Multiblocks with Redstone
+To inject your fusable Materials into the coils
+Extract your fused Materials out of the coils
+Increases storage of Fusion Reactor by 10kk eu
+and inputs eu directly into fusion reactor
+Generates eu from Fusion Reactor
+FUUUUUUUU-SION, HAH!
+See gui for details on the structure
+For all kinds of projects. Can charge tools
+For storing a set of armor
+For storing a set of armor and charging it

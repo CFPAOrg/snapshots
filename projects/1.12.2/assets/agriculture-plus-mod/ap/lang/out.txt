@@ -1,0 +1,83 @@
+Cutting Knife
+Mortar & Pestle
+Roller
+Pot
+Squeezer
+Shredder
+Chopper
+Waffle Cutter
+Barley Seed
+Tomato Seed
+Olive Seed
+Garlic Seed
+Barley Plant
+Tomato Plant
+Olive Crop
+Garlic Plant
+Barley
+Flour
+Dough
+Cookie Dough
+Chocolate Chip Cookie Dough
+Sugar Cookie dough
+Olive Oil
+Shredded Cheese
+Pizza Sauce
+Salt
+Stack of Raw Pepperoni
+Stack of Cooked Pepperoni
+Stack of Raw Sausage
+Stack of Cooked Sausage
+Stack of Raw Chopped Sausage
+Stack of Cooked Chopped Sausage
+Garlic
+Garlic Salt
+Raw Pizza Dough
+Rolled Pizza Dough
+Tomato Paste
+Pizza Bread
+Pizza Bread w/ Sauce
+Pancake Mix
+Raw Waffle
+Raw Pancake
+Syrup
+Sliced Bread
+Sliced Raw Meat
+Sliced Cooked Meat
+Cheese
+Sliced Cheese
+Sliced Tomato
+Raw Sausage
+Cooked Sausage
+Raw Chopped Sausage
+Cooked Chopped Sausage
+Raw Pepperoni
+Cooked Pepperoni
+Tomato
+Olive
+Meat Sandwich
+Meat & Cheese Sandwich
+Meat, Cheese, & Tomato Sandwich
+Chocolate Chip Cookie
+Sugar Cookie
+Cheese Pizza Slice
+Cheese & Pepperoni Pizza Slice
+Cheese & Sausage Pizza Slice
+Meat Lovers Pizza Slice
+Plain Waffle
+Waffle w/ Syrup
+Plain Pancake
+Pancake w/ Syrup
+Apple Juice
+Carrot Juice
+Melon Juice
+Orange Juice
+Cheese Pizza
+Cheese & Pepperoni Pizza
+Cheese & Sausage Pizza
+Meat Lovers Pizza
+Bottle
+Salt Ore
+Lemon Plank
+Lemon Log
+Agri Plus

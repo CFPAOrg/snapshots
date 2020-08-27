@@ -1,0 +1,31 @@
+Capacitor Wall
+Capacitor Glass
+Capacitor Controller
+Opal Capacitor
+Topaz Capacitor
+Ruby Capacitor
+Sapphire Capacitor
+Multi Capacitor
+Basic Collector
+Speed Collector
+Fire Collector
+Healing Collector
+Strength Collector
+Opal Generator
+Topaz Generator
+Ruby Generator
+Sapphire Generator
+Mode Changed To: %d
+%d
+%d
+%d
+%d
+%d
+Strength Creeper
+Speed Creeper
+Fire Creeper
+Healing Creeper
+Elemental Mastery Machines
+Elemental Mastery Tools
+Elemental Mastery Tools
+Elemental Mastery Tools

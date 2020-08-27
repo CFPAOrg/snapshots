@@ -1,0 +1,29 @@
+§a/filter §b<list|add|remove|edit|config>
+§alist§r: shows the indexed current filter list
+§aadd §b<item>§r: appends <item> to the list
+§aremove §b<index>§r: removes item with id <index> from the list
+§aedit §b<index> <item>§r: edits item with id <index> so that it now equals <item>
+§aconfig §b<field> <value>§r: Modifies the config with name <field>'s data to <value>
+§cFilter list is empty! Add items using /filter add <item>
+§bCurrent items in filter:
+§a[%d§a] %s
+§cUsage: /filter add <item>
+§cError: This item is already in the filter list
+Successfully added §a"%s§a" at index §a[%d§a]
+§cUsage: /filter remove <index>
+§cFilter list is empty! Add items using /filter add <item>
+§cError: <index> must be an integer
+§cError: <index> must be between 1 and %d
+Successfully removed §a"%s§a" at index §a[%d§a]
+§cUsage: /filter edit <index> <item>
+§cFilter list is empty! Add items using /filter add <item>
+§cError: <index> must be an integer
+§cError: <index> must be between 1 and %d
+Successfully edited item at index §a[%d§a] to §a"%s§a"
+§cUsage: /filter config <field> <value>
+§cError: valid options: enabled, filtermode, gamemodes
+§bUpdated config option %s §bto %s
+§cError: valid options: true, false
+§cError: valid options: whitelist, blacklist
+§cError: valid options: adventure, creative, survival
+§cError: valid options for %s§c: true, false

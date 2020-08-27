@@ -1,0 +1,13 @@
+item.azuritearmorlegs.name
+item.azuritearmorbody.name
+item.azuritearmorboots.name
+itemGroup.tabazuritetab
+item.azuritearmorhelmet.name
+item.azuriteaxe.name
+item.azuritehoe.name
+item.azuriteshovel.name
+tile.azuriteblock.name
+item.azurite.name
+tile.azuriteore.name
+item.azuritesword.name
+item.azuritepickaxe.name

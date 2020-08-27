@@ -1,0 +1,11 @@
+language.name
+language.region
+language.code
+category.minihud
+minihud.key.togglemode
+minihud.message.toggled_debug_mode.collisions
+minihud.message.toggled_debug_mode.height_map
+minihud.message.toggled_debug_mode.neighbor_updates
+minihud.message.toggled_debug_mode.pathfinding
+minihud.message.toggled_debug_mode.solid_faces
+minihud.message.toggled_debug_mode.water

@@ -1,0 +1,35 @@
+. Rightclick furnace with chimneys to auto stack them on top.
+Used to unlock Darkstone Gates. Single use!
+Used to unlock Moon Temple Gates. Single use!
+Used to unlock Moon Temple's inner room. Single use!
+Used to unlock Runestone Gates. Single use!
+Used to unlock Runestone Dungeon's loot room.
+Got from breaking lavender plants with a sickle or farmed.
+Got from lavender in the crafting table.
+Has a chance to highlight nearby entities!
+Locates nearby Aurorian dungeons.
+Used to locate dungeons. Sneak-click to switch modes.
+Used to pick Runestone Gates. High chance of breaking.
+Found on Moon Temple pillar islands, used for crafting Moon Temple keys.
+Hold block to Charge at foes and knock them up in the air!
+Moonstone loves the moon! Consumes less durability at night and more during the day.
+Used to craft the Moon Temple Cell Key.
+Bouncy!
+Got from breaking aurorian tallgrass with a sickle.
+Is used to construct The Aurorian portal. Create it the same way you would build the Nether portal, then light with flint and steel!
+Hold shift for more info
+Magical Silentwood has a chance to heal itself when chopping Silentwood Logs!
+Current Mining level:
+Magical Silentwood can mine higher leveled blocks like diamond when at lower durability!
+Can be used to light fires or The Aurorian Portal when one is in both hands!
+Tasty!
+Has Thorns III but only when crouched!
+Does poison damage when it hits an entity.
+Huge chunk of meat, will take a while to eat! Finishing it will give you a random buff!
+Select a block to gain bonus mining speed towards that type! Selecting a block costs a lot of durability.
+Lights whoever is in front of you on fire when blocking! Blocking for too long will cause it to overheat.
+Gives you a short boost of health at the cost of weakness and slowness!
+Will cleanse poison but gives you slowness.
+Moonwater
+Aurorian Coal Block
+Aurorian Coal Ore

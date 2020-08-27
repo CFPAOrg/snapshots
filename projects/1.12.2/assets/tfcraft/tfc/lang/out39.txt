@@ -1,0 +1,75 @@
+Unshaped Zinc
+Unshaped Sterling Silver
+Unshaped Wrought Iron
+Unshaped Pig Iron
+Unshaped Platinum
+Unshaped Steel
+Unshaped Black Steel
+Unshaped Blue Steel
+Unshaped Red Steel
+Unshaped Weak Steel
+Unshaped Weak Black Steel
+Unshaped Weak Blue Steel
+Unshaped Weak Red Steel
+Unshaped High Carbon Steel
+Unshaped High Carbon Black Steel
+Unshaped High Carbon Blue Steel
+Unshaped High Carbon Red Steel
+Empty Ingot Mold
+Unknown Alloy
+Pick Head Mold
+Shovel Head Mold
+Axe Head Mold
+Hoe Head Mold
+Chisel Head Mold
+Sword Blade Mold
+Mace Head Mold
+Saw Blade Mold
+Javelin Head Mold
+Hammer Head Mold
+Prospectors Pickaxe Head Mold
+Knife Blade Mold
+Scythe Blade Mold
+Bronze Pick Head Mold
+Bronze Shovel Head Mold
+Bronze Axe Head Mold
+Bronze Hoe Head Mold
+Bronze Chisel Head Mold
+Bronze Sword Blade Mold
+Bronze Mace Head Mold
+Bronze Saw Blade Mold
+Bronze Javelin Head Mold
+Bronze Hammer Head Mold
+Bronze Prospectors Pickaxe Head Mold
+Bronze Knife Blade Mold
+Bronze Scythe Blade Mold
+Black Bronze Pick Head Mold
+Black Bronze Shovel Head Mold
+Black Bronze Axe Head Mold
+Black Bronze Hoe Head Mold
+Black Bronze Chisel Head Mold
+Black Bronze Sword Blade Mold
+Black Bronze Mace Head Mold
+Black Bronze Saw Blade Mold
+Black Bronze Javelin Head Mold
+Black Bronze Hammer Head Mold
+Black Bronze Prospectors Pickaxe Head Mold
+Black Bronze Knife Blade Mold
+Black Bronze Scythe Blade Mold
+Bismuth Bronze Pick Head Mold
+Bismuth Bronze Shovel Head Mold
+Bismuth Bronze Axe Head Mold
+Bismuth Bronze Hoe Head Mold
+Bismuth Bronze Chisel Head Mold
+Bismuth Bronze Sword Blade Mold
+Bismuth Bronze Mace Head Mold
+Bismuth Bronze Saw Blade Mold
+Bismuth Bronze Javelin Head Mold
+Bismuth Bronze Hammer Head Mold
+Bismuth Bronze Prospectors Pickaxe Head Mold
+Bismuth Bronze Knife Blade Mold
+Bismuth Bronze Scythe Blade Mold
+Copper Pick Head Mold
+Copper Shovel Head Mold
+Copper Axe Head Mold
+Copper Hoe Head Mold

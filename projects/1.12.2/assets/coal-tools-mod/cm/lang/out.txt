@@ -1,0 +1,12 @@
+Coal Ingot
+Coal Sword
+Coal Shovel
+Coal Pickaxe
+Coal Axe
+Coal Hoe
+Coal Stairs
+Coal Helmet
+Coal Chestplate
+Coal Leggings
+Coal Boots
+Coal Tools

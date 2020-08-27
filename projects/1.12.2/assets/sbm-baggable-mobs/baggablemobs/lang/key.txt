@@ -1,0 +1,8 @@
+item.baggablemobs:mob_bag.name
+itemGroup.baggablemobs
+tooltip.profession
+tooltip.a_friendly
+tooltip.any
+tooltip.right_click
+tooltip.mob_to_capture
+tooltip.captured_mob

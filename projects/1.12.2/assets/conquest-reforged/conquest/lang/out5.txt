@@ -1,0 +1,90 @@
+Gold Horse Armor
+Diamond Horse Armor
+Prismarine Shard
+Prismarine Crystals
+Chorus Fruit
+Popped Chorus Fruit
+Beetroot
+Beetroot Seeds
+Beetroot Soup
+Dragon's Breath
+Elytra
+Totem of Undying
+Shulker Shell
+Iron Nugget
+Knowledge Book
+Plastered Stone
+Plastered Stone Tiles
+Hewn Stone
+Hewn Stone with Stone Brick
+Hewn Stone Tiles
+Colorful Slate
+Carved Runes
+Carved Runes (Connected)
+Old Cobblestone
+Frozen Cobblestone
+Fishscale Cobble
+Dirty Fishscale Cobblestone
+Cobblestone with Brick
+Lapis Lazuli Block 2
+Marble Pedestal
+Mossy Cobblestone
+Overgrown Cobblestone
+Cobblestone with Vines
+Overgrown Stone Brick
+Chiseled Stone Brick
+Stone Cobblestone
+Terracotta Imbrices and Tegulae
+Gothic Sandstone Column
+none
+Portcullis Groove
+Chiseled Stone
+Stone Pillar
+Nether Brick Column
+Big Nether Brick
+Nether Brick Pillar
+Carved Nether Brick
+Natural Red Mossy Sandstone
+Red Tiles
+Tudor / Frame
+Tudor \ Frame
+Tudor X Frame
+Tudor ^ Frame
+Tudor V Frame
+Tudor Box Frame
+Tudor / Frame (Vertical Connection)
+Tudor \ Frame (Vertical Connection)
+Tudor Box Frame (Vertical Connection)
+Dark Tudor / Frame
+Dark Tudor \ Frame
+Dark Tudor X Frame
+Dark Tudor ^ Frame
+Dark Tudor V Frame
+Dark Tudor Box Frame
+Dark Tudor / Frame (Vertical Connection)
+Dark Tudor \ Frame (Vertical Connection)
+Dark Tudor Box Frame (Vertical Connection)
+Brick X Frame
+Brick / Frame
+Brick \ Frame
+Brick ^ Frame
+Brick V Frame
+Brick Box Frame
+Brick / Frame (Vertical Connection)
+Brick \ Frame (Vertical Connection)
+Brick Box Frame (Vertical Connection)Gray Tudor X Frame
+Dark Red Brick X Frame
+Dark Red Brick / Frame
+Dark Red Brick \ Frame
+Dark Red Brick ^ Frame
+Dark Red Brick V Frame
+Dark Red Brick Box Frame
+Dark Red Brick / Frame (Vertical Connection)
+Dark Red Brick \ Frame (Vertical Connection)
+Dark Red Brick Box Frame (Connected)
+Red Brick X Frame
+Red Brick / Frame
+Red Brick \ Frame
+Red Brick ^ Frame
+Red Brick V Frame
+Red Brick Box Frame

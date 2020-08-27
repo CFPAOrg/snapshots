@@ -1,0 +1,5 @@
+Electrostatic Upgrade
+Electrostatic!
+§oActuation-packed!\n§rGrants the tool an energy buffer that is consumed in place of durability.
+Electrostatic!
+§oActuation-packed!\n§rGrants the armour an energy buffer that is consumed in place of durability.

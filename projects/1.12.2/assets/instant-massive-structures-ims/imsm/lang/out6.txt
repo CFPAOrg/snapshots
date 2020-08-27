@@ -1,0 +1,29 @@
+Connector Avenue <> Street -T- Avenue East [] Street North-South
+Connector Avenue <> Street -T- Avenue East-West [] Street North
+Connector Avenue <> Street -T- Avenue East-West [] Street South
+Connector Avenue <> Street -T- Avenue North-South [] Street East
+Connector Avenue <> Street -T- Avenue North-South [] Street West
+Connector Avenue <> Street -T- Avenue North [] Street East-West
+Connector Avenue <> Street -T- Avenue South [] Street East-West
+Connector Avenue <> Street -T- Avenue West [] Street North-South
+Connector Avenue <> Street -X- Avenue East-West [] Street North-South
+Connector Avenue <> Street -X- Avenue North-South [] Street East-West
+Connector Avenue <>  Bridge - Avenue Bridge East [] Avenue West
+Connector Avenue <> Bridge - Avenue Bridge North [] Avenue South
+Connector Avenue <> Bridge - Avenue Bridge South [] Avenue North
+Connector Avenue <> Bridge - Avenue Bridge West [] Avenue East
+Connector Road <> Bridge - Road Bridge East [] Road West
+Connector Road <> Bridge - Road Bridge North [] Road South
+Connector Road <> Bridge - Road Brdige South [] Road North
+Connector Road <> Bridge - Road Bridge West [] Road East
+Connector Street <> Bridge - Street Bridge East [] Street West
+Connector Street <> Bridge - Street Bridge North [] Street South
+Connector Street <> Bridge - Street Bridge South [] Street North
+Connector Street <> Bridge - Street Bridge West [] Street East
+Connector Highway <> Avenue - Highway East [] Avenue West
+Connector Highway <> Avenue - Highway North [] Avenue South
+Connector Highway <> Avenue - Highway South [] Avenue North
+Connector Highway <> Avenue - Highway West [] Avenue East
+Connector Highway Floor <> Avenue - Highway Floor East [] Avenue West
+Connector Highway Floor <> Avenue - Highway Floor North [] Avenue South
+Connector Highway Floor <> Avenue - Highway Floor South [] Avenue North

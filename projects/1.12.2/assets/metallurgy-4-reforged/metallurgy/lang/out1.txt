@@ -1,0 +1,112 @@
+Mithril Chestplate
+Mithril Leggings
+Mithril Boots
+Orichalcum Helmet
+Orichalcum Chestplate
+Orichalcum Leggings
+Orichalcum Boots
+Osmium Helmet
+Osmium Chestplate
+Osmium Leggings
+Osmium Boots
+Oureclase Helmet
+Oureclase Chestplate
+Oureclase Leggings
+Oureclase Boots
+Platinum Helmet
+Platinum Chestplate
+Platinum Leggings
+Platinum Boots
+Prometheum Helmet
+Prometheum Chestplate
+Prometheum Leggings
+Prometheum Boots
+Quicksilver Helmet
+Quicksilver Chestplate
+Quicksilver Leggings
+Quicksilver Boots
+Sanguinite Helmet
+Sanguinite Chestplate
+Sanguinite Leggings
+Sanguinite Boots
+Shadow Iron Helmet
+Shadow Iron Chestplate
+Shadow Iron Leggings
+Shadow Iron Boots
+Shadow Steel Helmet
+Shadow Steel Chestplate
+Shadow Steel Leggings
+Shadow Steel Boots
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Tartarite Helmet
+Tartarite Chestplate
+Tartarite Leggings
+Tartarite Boots
+Vulcanite Helmet
+Vulcanite Chestplate
+Vulcanite Leggings
+Vulcanite Boots
+Vyroxeres Helmet
+Vyroxeres Chest
+Vyroxeres Leggings
+Vyroxeres Boots
+Road
+Striped Road
+Block of Charcoal
+Bitumen Block
+Sulfur Block
+Electrum Block
+Copper Block
+Bronze Block
+Manganese Block
+Tin Block
+Steel Block
+Hepatizon Block
+Prometheum Block
+Angmallen Block
+Eximite Block
+Meutoite Block
+Desichalkos Block
+Black Steel Block
+Infuscolium Block
+Carmot Block
+Astral Silver Block
+Oureclase Block
+Deep Iron Block
+Quicksilver Block
+Mithril Block
+Haderoth Block
+Atlarus Block
+Adamantine Block
+Celenegil Block
+Tartarite Block
+Rubracium Block
+Midasium Block
+Shadow Steel Block
+Lemurite Block
+Vyroxeres Block
+Kalendrite Block
+Krik Block
+Sanguinite Block
+Alduorite Block
+Ignatius Block
+Shadow Iron Block
+Damascus Steel Block
+Orichalcum Block
+Ceruclase Block
+Vulcanite Block
+Inolashite Block
+Amordrine Block
+Zinc Block
+Silver Block
+Platinum Block
+Brass Block
+Lutetium Block
+Osmium Block

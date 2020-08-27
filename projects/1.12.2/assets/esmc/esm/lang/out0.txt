@@ -1,0 +1,116 @@
+Aikerum Crystal
+Bronze Ingot
+Coal Lump
+Copper Lump
+Copper Ingot
+Depleted Uranium Lump
+Depleted Uranium Ingot
+Diamond Crystal
+Emerald Crystal
+Gold Lump
+Infinium Goo
+Infinium Ingot
+Iron Lump
+Iron Ingot
+Mese Crystal
+Mese Crystal Fragment
+Obsidian Crystal
+Obsidian Shard
+Purpellium Lump
+Purpellium Ingot
+Ruby Crystal
+Tin Lump
+Tin Ingot
+Bucket - O - Barf
+Admin TNT Block [NOVELTY]
+Aikerum Block
+Aikerum Ore
+Bones Block [NOVELTY]
+Bronze Block
+City Block  [NOVELTY]
+Coal Ore Block
+Copper Block
+Copper Ore
+Cursed Stone [NOVELTY]
+Depleted Uranium Ore
+Desert Cobble Block
+Desert Stone
+Desert Stone Block
+Diamond Block
+Diamond Ore
+Emerald Block
+Emerald Ore
+Gold Block
+Gold Ore
+Infinium Block
+Infinium Ore
+Iron Block
+Iron Ore
+Kick Voting Block [NOVELTY]
+Steel Ladder
+Lag Block [My skuchayem i lyubyat vas.]
+Lapis Block
+Lapis Ore
+Mese Block
+Meselamp Block
+Mese Ore
+Nyancat Block
+Obsidian Block
+Obsidian Brick Block
+Obsidian Glass Block
+Protector Block
+Purpellium Block
+Purpellium Ore
+Redstone Block
+Redstone Ore
+Lit Redstone Ore
+Rainbow Block
+Ruby Block
+Ruby Ore
+Stone Block
+Stone Block
+Teleport Block [NOVELTY]
+Tin Block
+Tin Ore
+Vendor Depositor Block [NOVELTY]
+Vendor Vendor Block [NOVELTY]
+Extreme Survival Chest
+Copper Slab
+Double Copper Slab
+Aikerum Crystal Axe
+Aikerum Crystal Pickaxe
+Aikerum Crystal Shovel
+Aikerum Crystal Sword
+Bronze Axe
+Bronze Pickaxe
+Bronze Shovel
+Bronze Sword
+Emerald Crystal Axe
+Emerald Crystal Pickaxe
+Emerald Crystal Shovel
+Emerald Crystal Sword
+Infinium Axe
+Infinium Pickaxe
+Infinium Shovel
+Infinium Sword
+Obsidian Axe
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Sword
+Purpellium Axe
+Purpellium Pickaxe
+Purpellium Shovel
+Purpellium Sword
+Ruby Crystal Axe
+Ruby Crystal Pickaxe
+Ruby Crystal Shovel
+Ruby Crystal Sword
+Tin Axe
+Tin Pickaxe
+Tin Shovel
+Tin Sword
+Aikerum Crystal Helmet
+Aikerum Crystal Chestplate
+Aikerum Crystal Leggings
+Aikerum Crystal Boots
+Bronze Helmet

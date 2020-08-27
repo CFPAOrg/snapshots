@@ -1,0 +1,11 @@
+item.railsplus.ingot_steel.name
+item.railsplus.coke.name
+item.railsplus.rail_steel.name
+tile.railsplus.rail_steel.name
+item.railsplus.rail_steel_powered.name
+tile.railsplus.rail_steel_powered.name
+item.railsplus.rail_steel_brake.name
+tile.railsplus.rail_steel_brake.name
+tile.railsplus.blast_furnace.name
+itemGroup.railsplus.general
+itemGroup.railsplus.transportation

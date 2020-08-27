@@ -1,0 +1,39 @@
+I've got 99 problems and you ain't one!
+Larger, and you can now push stone buttons!
+Stronger push, larger, you can now push iron doors and trapdoors!
+§f§l§oExtinguish ;; Destroys weaker projectiles
+§f§l§oVacuum ;; Sucks enemies TOWARDS you
+§f§lAir Jump
+Manipulate the air around you to boost off the ground. Perfect for catching up to an unsuspecting enemy.
+Jump through the air
+Slightly improved jumping power
+Even better jumping
+§f§l§oDouble-jump ;; Costs double chi
+§f§l§oGround §f§l§opound ;; Attack nearby enemies on land
+§f§lAirblade
+A spinning disc of air powerful enough to cut flesh. Can be deadly in quick succession.
+Slice n' Dice!
+Higher speeds and damage
+Can now cut blocks
+§f§l§oDragon §f§l§oClaw ;; Shoot 5 smaller, ultra-fast airblades that pierces enemies!
+§f§l§oCyclone §f§l§oCleave ;; Super massive, destroys most blocks.
+§f§lAir Bubble
+Create a bubble of air around you to protect yourself from incoming attacks. However, it takes lots of chi to maintain.
+*Can't touch this*
+Medium-sized air bubble
+More knockback
+§f§l§oPressured §f§l§obubble ;; Very large size
+§f§l§oUndercurrent ;; Limited hovering, disabled by sneak
+§f§lCloudburst
+Create a whirling ball of air which can be thrown at enemies; creates a mini burst of air where it lands.
+That was a big burp!
+Faster speed when thrown, larger explosion of air, you can now push stone buttons!
+Much more damage, bigger air explosion, you can now push iron trapdoors and doors!
+§f§l§oChi §f§l§oSmash ;; Temporarily applies severe debuffs to targets' bending power
+§f§l§oAbsorption ;; Cloudburst can absorb incoming projectiles, which increases its damage
+§f§lSlipstream
+Surround yourself in a veil of air, increasing your movement speed.
+Basic speed boost
+Increase your jumping height
+Intermittently become invisible and increase the power of the buffs.
+§f§l§oDivine §f§l§oBreeze ;; Become stronger in melee and airbending combat

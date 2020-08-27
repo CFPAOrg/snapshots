@@ -1,0 +1,2 @@
+item.maille.chainmesh.name
+item.maille.chainlinks.name

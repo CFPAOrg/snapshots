@@ -1,0 +1,99 @@
+Storage
+Ice Maker
+Obsidian Chest
+Mixed Metal Chest
+Dye Press
+Are you sure you want to delete %s items?
+They will be lost for a long time (forever)
+WSBIM Legacy Options
+Generate Mud Pits
+Enable Colored Stone
+Enable Emerald Tools
+Enable Obsidian Tools
+Enable Obsidian Armor
+Enable Emerald Armor
+World Generation
+Items (Restart Required)
+Blocks (Restart Required)
+An update was found for
+Would you like to install it now?
+(Hitting YES will pause your game and bring you to the desktop)
+*Ice Maker Humming*
+*Ice maker pushing cubes**
+*Trash Can Being Emptied*
+*Item thrown into Trash Can*
+WSBIM: Legacy Items
+WSBIM: Legacy Blocks
+WSBIM: Colored Blocks and Lighting
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Axe
+Obsidian Hoe
+Obsidian Sword
+Mixed Metal Sword
+Mixed Metal Pickaxe
+Mixed Metal Shovel
+Mixed Metal Axe
+Mixed Metal Hoe
+Stone Helmet
+Stone Chestplate
+Stone Leggings
+Stone Boots
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Stone Plate
+Cobblestone Plate
+Diamond Plate
+Iron Plate
+Cobblestone Helmet
+Cobblestone Chestplate
+Cobblestone Leggings
+Cobblestone Boots
+ Wooden Plate
+Wooden Helmet
+Wooden Chestplate
+Wooden Leggings
+Wooden Boots
+Mixed Metal Contents
+Mixed Metal Ingot
+Mixed Metal Helmet
+Mixed Metal Chestplate
+Mixed Metal Leggings
+Mixed Metal Boots
+Obsidian Plate
+Plate
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Emerald Sword
+Emerald Pickaxe
+Emerald Shovel
+Emerald Axe
+Emerald Hoe
+Melted Emerald
+Ice Maker
+Dye Press
+Wooden Table
+Leather Block
+Red Leather Block
+Black Leather Block
+Green Leather Block
+Brown Leather Block
+Light Blue Leather Block
+Blue Leather Block
+Purple Leather Block
+Cyan Leather Block
+Light Gray Leather Block
+Gray Leather Block
+Pink Leather Block
+Lime Green Leather Block
+Yellow Leather Block
+Light Blue Leather Block
+Magenta Leather Block
+Orange Leather Block
+White Leather Block
+Red Stone
+Black Stone

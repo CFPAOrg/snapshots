@@ -1,0 +1,10 @@
+item.craftingcatalysts.tier_one_catalyst.name
+item.craftingcatalysts.tier_two_catalyst.name
+item.craftingcatalysts.tier_three_catalyst.name
+item.craftingcatalysts.tier_four_catalyst.name
+item.craftingcatalysts.tier_five_catalyst.name
+item.craftingcatalysts.tier_six_catalyst.name
+item.craftingcatalysts.tier_seven_catalyst.name
+item.craftingcatalysts.tier_eight_catalyst.name
+item.craftingcatalysts.tier_nine_catalyst.name
+item.craftingcatalysts.tier_ten_catalyst.name

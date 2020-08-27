@@ -1,0 +1,14 @@
+itemGroup.jewellery
+item.si1_diamond.name
+item.vs1_diamond.name
+item.vvs_diamond.name
+item.gemstone.name
+item.gold_plate.name
+item.chain_si1.name
+item.chain_vs1.name
+item.chain_vvs.name
+item.chain_gemstone.name
+item.chain_gold_plate.name
+item.benjamin.name
+tile.racks.name
+entity.brokeboy.name

@@ -1,0 +1,8 @@
+item.netherarmorboots.name
+tile.netherzboze.name
+item.netherarmorhelmet.name
+item.nethersword.name
+tile.nethergrassblock.name
+item.netherarmorbody.name
+item.nethernugget.name
+item.netherarmorlegs.name

@@ -1,0 +1,170 @@
+Gamerules
+Edit Blocks
+Sign Editor
+Note Editor
+Custom Item
+Enchantment
+Recipes
+Containers
+Multiplayer
+Summon
+Custom Item
+Enchantment
+Recipes
+Edit Blocks
+Sign Editor
+Note Block Editor
+Scoreboard
+World
+Gamerules
+Player
+Experience
+Advancements
+Butcher
+Change World
+Potions
+Containers
+Multiplayer
+Grant
+Revoke
+Only
+Until
+From
+Through
+Everything
+Singleplayer World
+Multiplayer Server
+Radius
+Configure
+Slaughter
+Kick
+Ban
+Pardon
+Permissions
+Runtime
+Whitelist
+Username
+Reason
+Give Permissions
+Take Permissions
+Save World
+Autosave: %s
+Stop Server
+Reload Whitelist
+Whitelist: %s
+Add
+Remove
+Effect
+Give
+Remove
+Remove All
+Amplifier
+Ambient: %s
+Particles: %s
+Bottle
+Splash
+Lingering
+Arrow
+Entities
+Items
+Scoreboard
+Resourcepack
+Change World
+World
+Blocks
+Player
+Start
+Enchantment
+Attributes
+Give
+Item
+Lore I
+Lore II
+Custom Name
+Level
+Enchant
+Look at a Sign and press '%s'
+Text Line I
+Text Line II
+Text Line III
+Text Line IV
+Command
+Done
+Format Text Line
+Look at a Note Block and press '%s'
+C
+D
+E
+F
+G
+A
+B
+Commandblock Messages
+Disable Speed Check
+Daylight Cycle
+Entity Drops
+Fire Spread
+Mob Drops
+Mob Spawning
+Block Drops
+Keep Inventory
+Log Admin Commands
+Mob Griefing
+Natural Regeneration
+Random Tick Speed
+Reduced Debug Info
+Command Feedback
+Death Messages
+Spawn Radius
+Spectators Generate Chunks
+Weather Cycle
+Max Entitiy Cramming
+Anncounce Advancements
+Limited Crafting
+Game Loop Function
+Command Chain Length
+Start
+World
+Statistics
+n/a
+Spawn
+Name
+World Type
+Seed
+World Time
+Played
+Coordinates
+Fill
+Replace
+Clone
+Block ID Replace
+Block ID Place
+Block ID To Fill
+Replace
+Masked
+Filtered
+Set Pos 1
+Set Pos 2
+Give
+Take
+List
+Below Name
+Sidebar
+Sidebar Team
+Objective
+Create
+Display
+Undisplay
+Remove
+Player Air
+Player Armor
+Death Count
+Dummy
+Player Food
+Player Health
+Killed By Team
+Experience Level
+Players Killed
+Stat
+Crafting Table Interaction
+Break Item

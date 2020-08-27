@@ -1,0 +1,60 @@
+Chop, Chop!
+Craft a chopping block
+Creative Crafting
+Craft a worktable
+Improvement, Indubitably
+Craft a flint or bone pickaxe
+Cobble Cumulation
+Mine or craft cobblestone
+Stalwart Stone
+Fire cobblestone into stone
+Practical Pits
+Craft a Pit Kiln
+Strictly Straw
+Craft a Straw Bale
+Simply Slabs
+Craft a Stone Slab
+Gratefully, Granite
+Craft a Granite Anvil
+Modest Masonry
+Use the Granite Anvil to craft a Masonry Brick
+Blustering Bellows
+Craft a Bellows
+Automated Airflow
+Craft a Mechanical Bellows
+Constructive Compression
+Craft a Mechanical Compactor
+Hardworking Hopper
+Craft a Mechanical Hopper
+Formidable Fuel
+Use a Pit Burn to collect Charcoal
+Adequate Appliances
+Make each Stone Combustion Machine
+Sufficiently Slaked
+Create Slaked Lime
+Refined Refractory
+Craft a Refractory Brick
+Fine Fuel
+I liked carbon before it was Coal
+Frightful Fuel
+Create Living Tar
+Budding Bloom
+Craft a Bloomery
+Inflexible Iron
+Craft an Iron Ingot
+Clever Crafting
+Step up your crafting game
+Improved Instruments
+Craft each brick combustion machine
+Furnace, Finally
+Craft a Furnace
+Nefarious Nether
+Build, light, and enter a Nether Portal
+Foul Forge
+Craft a Wither Forge
+Obstinate Obsidian
+Craft an Obsidian Pickaxe
+The client-side modules enabled in Pyrotech's module config don't match the modules enabled on the server. The server expects: %s.
+[Pyrotech] Please restart the game.
+[Pyrotech] Generated wood recipes will load the next time the game is launched.
+[Pyrotech] Generated ore recipes will load the next time the game is launched.

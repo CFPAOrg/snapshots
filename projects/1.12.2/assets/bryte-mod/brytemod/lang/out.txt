@@ -1,0 +1,21 @@
+Fly Potion
+Fly Splash Potion
+Fly Lingering Potion
+Fly Arrow
+Bio Hazard
+Biohazard Potion
+Biohazard Splash Potion
+Biohazard Lingering Potion
+Biohazard Arrow
+André
+Spooder
+Snake
+Bug
+Insomnium
+Bee
+Wasp
+Snarf
+TEST ONE BIOME
+MULTI BIOME
+BRYTE
+%1$s rotted away. You'll need a Biohazard Suit, made from Snake Skin.

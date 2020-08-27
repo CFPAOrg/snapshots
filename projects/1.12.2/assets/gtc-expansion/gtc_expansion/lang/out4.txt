@@ -1,0 +1,105 @@
+Crushed Tungsten Ore
+Crushed Bauxite Ore
+Crushed Galena Ore
+Crushed Pyrite Ore
+Crushed Platinum Ore
+Crushed Sphalerite Ore
+Crushed Cinnabar Ore
+Crushed Iridium Ore
+Crushed Tetrahedrite Ore
+Crushed Chromite Ore
+Crushed Cassiterite Ore
+Purified Crushed Tungsten Ore
+Purified Crushed Bauxite Ore
+Purified Crushed Galena Ore
+Purified Crushed Pyrite Ore
+Purified Crushed Platinum Ore
+Purified Crushed Sphalerite Ore
+Purified Crushed Cinnabar Ore
+Purified Crushed Iridium Ore
+Purified Crushed Tetrahedrite Ore
+Purified Crushed Chromite Ore
+Purified Crushed Cassiterite Ore
+Tiny Antimony Dust
+Tiny Sulfur Dust
+Tiny Zinc Dust
+Tiny Grossular Dust
+Tiny Yellow Garnet Dust
+Tiny Redstone Dust
+Tiny Manganese Dust
+Tiny Platinum Dust
+Tiny Phosphorus Dust
+Tiny Titanium Dust
+Tiny Iridium Dust
+Tiny Nickel Dust
+Tiny Osmium Dust
+Tiny Chromite Dust
+Tiny Chrome Dust
+Bronze File
+Iron File
+Diamond File
+Steel File
+Tungstensteel File
+Ruby File
+Sapphire File
+Bronze Crowbar
+Iron Crowbar
+Steel Crowbar
+Tungstensteel Crowbar
+Bronze Hammer
+Iron Hammer
+Diamond Hammer
+Steel Hammer
+Tungstensteel Hammer
+Ruby Hammer
+Sapphire Hammer
+Bronze Wrench
+Iron Wrench
+Diamond Wrench
+Steel Wrench
+Tungstensteel Wrench
+Ruby Wrench
+Sapphire Wrench
+Flint Sword
+Steel Sword
+Tungstensteel Sword
+Ruby Sword
+Sapphire Sword
+Flint Shovel
+Steel Shovel
+Tungstensteel Shovel
+Ruby Shovel
+Sapphire Shovel
+Flint Axe
+Steel Axe
+Tungstensteel Axe
+Ruby Axe
+Sapphire Axe
+Flint Pickaxe
+Steel Pickaxe
+Tungstensteel Pickaxe
+Ruby Pickaxe
+Sapphire Pickaxe
+Iridium Alloy Ingot
+Conveyor Module
+Pump Module
+Computer Monitor
+Diamond Grinder
+Wolframium Grinder
+Constantan Heating Coil
+Nichrome Heating Coil
+Kanthal Heating Coil
+Match
+Match Box
+Magnifying Glass
+Fire Clay
+Unfired Fire Brick
+Fire Brick
+Unfired Brick
+Machine Parts
+Advanced Circuit Parts
+Basic Circuit Board
+Advanced Circuit Board
+Processor Circuit Board
+Diamond Sawblade
+Oilberry

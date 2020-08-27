@@ -1,0 +1,147 @@
+Granite Pressure Plate
+Barley
+Beets
+Cabbage
+Carrots
+Garlic
+Green Beans
+Jute
+Maize
+Oats
+Onion
+Potatoes
+Red Bell Peppers
+Rice
+Rye
+Soybeans
+Squash
+Sugarcane
+Tomatoes
+Wheat
+Yellow Bell Peppers
+Bismuth Lamp
+Bismuth Bronze Lamp
+Black Bronze Lamp
+Brass Lamp
+Bronze Lamp
+Copper Lamp
+Gold Lamp
+Lead Lamp
+Nickel Lamp
+Rose Gold Lamp
+Silver Lamp
+Tin Lamp
+Zinc Lamp
+Sterling Silver Lamp
+Wrought Iron Lamp
+Pig Iron Lamp
+Steel Lamp
+Platinum Lamp
+Black Steel Lamp
+Blue Steel Lamp
+Red Steel Lamp
+%s Bismuth Lamp
+%s Bismuth Bronze Lamp
+%s Black Bronze Lamp
+%s Brass Lamp
+%s Bronze Lamp
+%s Copper Lamp
+%s Gold Lamp
+%s Lead Lamp
+%s Nickel Lamp
+%s Rose Gold Lamp
+%s Silver Lamp
+%s Tin Lamp
+%s Zinc Lamp
+%s Sterling Silver Lamp
+%s Wrought Iron Lamp
+%s Pig Iron Lamp
+%s Steel Lamp
+%s Platinum Lamp
+%s Black Steel Lamp
+%s Blue Steel Lamp
+%s Red Steel Lamp
+TFC Debug Wand
+Firestarter
+Straw
+Leather
+Spindle
+Quern Handstone
+Bucket
+%s Bucket
+Jug
+%s Jug
+Unfired Clay Flower Pot
+Mortar
+Halter
+Wrought Iron Grill
+Alabaster Brick
+Gold Rod
+Wrought Iron Rod
+Steel Rod
+Brass Mechanisms
+Glue
+Native Copper
+Native Gold
+Native Platinum
+Hematite
+Native Silver
+Cassiterite
+Galena
+Bismuthinite
+Garnierite
+Malachite
+Magnetite
+Limonite
+Sphalerite
+Tetrahedrite
+Bituminous Coal
+Lignite
+Kaolinite
+Gypsum
+Satinspar
+Selenite
+Graphite
+Kimberlite
+Petrified Wood
+Sulfur
+Jet
+Microcline
+Pitchblende
+Cinnabar
+Cryolite
+Saltpeter
+Serpentine
+Sylvite
+Borax
+Olivine
+Lapis Lazuli
+Poor Native Copper
+Poor Native Gold
+Poor Native Platinum
+Poor Hematite
+Poor Native Silver
+Poor Cassiterite
+Poor Galena
+Poor Bismuthinite
+Poor Garnierite
+Poor Malachite
+Poor Magnetite
+Poor Limonite
+Poor Sphalerite
+Poor Tetrahedrite
+Poor Bituminous Coal
+Poor Lignite
+Poor Kaolinite
+Poor Gypsum
+Poor Satinspar
+Poor Selenite
+Poor Graphite
+Poor Kimberlite
+Poor Petrified Wood
+Poor Sulfur
+Poor Jet
+Poor Microcline
+Poor Pitchblende
+Poor Cinnabar
+Poor Cryolite

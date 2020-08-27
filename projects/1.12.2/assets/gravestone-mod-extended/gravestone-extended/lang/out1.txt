@@ -1,0 +1,89 @@
+Lingering Potion of Purification
+Arrow of Purification
+Bone Skin
+Potion of Bone Skin
+Splash Potion of Bone Skin
+Lingering Potion of Bone Skin
+Arrow of Bone Skin
+Rust
+Potion of Rust
+Splash Potion of Rust
+Lingering Potion of Rust
+Arrow of Rust
+Return back to home
+Recall Potion
+Splash Recall Potion
+Lingering Recall Potion
+Arrow of Recall
+Sets Target on Fire
+Potion of Burning
+Splash Potion of Burning
+Lingering Potion of Burning
+Arrow of Burning
+Bleeding
+Potion of Bleeding
+Splash Potion of Bleeding
+Lingering Potion of Bleeding
+Arrow of Bleeding
+Breathlessness
+Potion of Breathlessness
+Splash Potion of Breathlessness
+Lingering Potion of Breathlessness
+Arrow of Breathlessness
+Inferno
+Potion of Inferno
+Splash Potion of Inferno
+Lingering Potion of Inferno
+Arrow of Inferno
+Cursed Inferno
+Potion of Cursed Inferno
+Splash Potion of Cursed Inferno
+Lingering Potion of Cursed Inferno
+Arrow of Cursed Inferno
+Cursed Flame
+Potion of Cursed Flame
+Splash Potion of Cursed Flame
+Lingering Potion of Cursed Flame
+Arrow of Cursed Flame
+Potion of Hunger
+Splash Potion of Hunger
+Lingering Potion of Hunger
+Arrow of Hunger
+Potion of Blindness
+Splash Potion of Blindness
+Lingering Potion of Blindness
+Arrow of Blindness
+Potion of Nausea
+Splash Potion of Nausea
+Lingering Potion of Nausea
+Arrow of Nausea
+Potion of Resistance
+Splash Potion of Resistance
+Lingering Potion of Resistance
+Arrow of Resistance
+Potion of Levitation
+Splash Potion of Levitation
+Lingering Potion of Levitation
+Arrow of Levitation
+Potion of Withering
+Splash Potion of Withering
+Lingering Potion of Withering
+Arrow of Withering
+Gravestone Chisel
+Bone Fishing Pole
+Bone Shovel
+Iron Bone Shovel
+Golden Bone Shovel
+Diamond Bone Shovel
+Bone Pickaxe
+Iron Bone Pickaxe
+Golden Bone Pickaxe
+Diamond Bone Pickaxe
+Bone Axe
+Iron Bone Axe
+Golden Bone Axe
+Diamond Bone Axe
+Bone Hoe
+Iron Bone Hoe
+Golden Bone Hoe
+Diamond Bone Hoe

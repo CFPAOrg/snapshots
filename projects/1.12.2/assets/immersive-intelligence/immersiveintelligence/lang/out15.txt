@@ -1,0 +1,16 @@
+Ballistic Computer
+Calculate this to that
+The Ballistic Computer is a device that translates a position vector and bullet mass to yaw and pitch used by most data-driven weapons.
+Variables input:<br>Integers 'x','y','z' - the position to fire onto<br>Integer 'm' - the bullet's mass<br>Variables output:<br>Integer 'p' - the pitch rotation of the gun<br>Integer 'y' - the yaw rotation of the gun
+Ammunition Crate
+Coloured green, not Blu
+The Ammunition Crate is a portable storage for all the bullets and empty casings. It can be used to load a revolver or a speedloader, by creating a load pattern and putting the cartridges inside. To reclaim a revolver from the crate, use it with an empty hand.
+Chemical Dispenser
+A flame in the Black night
+A device invented by the same engineer, who designed the electric hammer, originally for watering crops and stopping fires, it also can be used for precise spraying a position with an incendiary liquid.
+The Chemical Dispenser requires power supplied trough a wire to the device's connector, a data signal (or a constant redstone signal) to decide about its actions and fluid to the input on the back.
+Variables:<br>Integer 'a'-amount of fluid to spray<br>Boolean 'i' - should the fluid be ignited<br>Integers 'y','p' - yaw and pitch of the nozzle<br>
+Ammunition Factory
+Still better that making pens!
+The Ammunition Factory is a heavy, multi-section machine which produces ammunition of all types. You can produce grenades, bullets and shells here and their effect depends on materials used.
+The machine requires a power supply and can be given an optional data signal to change the bullets' fuse time, colouration and name. The basic ingredients of ammunition are:<br>The core - made of metal, such as steel or brass<br>The components - explosive materials, tracer dust, incendiary materials, fireworks, etc.<br>Gunpowder - the amount used depends of ammunition's calliber.<br>The higher the calliber the bigger the capacity for the components, thus bigger the mass.

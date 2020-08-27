@@ -1,0 +1,44 @@
+Double Compressed Atom
+Atom
+Atomic Pickaxe
+Atomic Sword
+Atomic Double Ended
+Atomic Helmet
+Atomic Chestplate
+Atomic Leggings
+Atomic Boots
+Bronze ingot
+Bronze Sword
+Bronze Pickaxe
+Bronze Shovel
+Bronze Axe
+Bronze Double Ended
+Bronze Dagger
+Bronze Multitool
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Bronze Block
+Bronze Ore
+Bronze Mace
+Bronze Mace Head
+Steel ingot
+Steel Sword
+Steel Pickaxe
+Steel Shovel
+Steel Axe
+Steel Double Ended
+Steel Dagger
+Steel Multitool
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Steel Block
+Steel Ore
+Steel Mace
+Steel Mace Head
+Firework Sword
+Ender Sword
+Blaze Sword

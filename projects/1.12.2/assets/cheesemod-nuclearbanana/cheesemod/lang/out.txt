@@ -1,0 +1,37 @@
+Cheese Mod
+This command is just for testing purposes, it will set your hunger bar to half a point.
+Oak Cheese Maker
+Spruce Cheese Maker
+Birch Cheese Maker
+Jungle Cheese Maker
+Acacia Cheese Maker
+Dark Oak Cheese Maker
+Cheese Cauldron
+Cheese Knife
+Pizza Cutter
+Pizza
+Pizza Slice
+Melted Cheese
+Cheeseburger
+Emmental
+Feta
+Gorgonzola
+Roquefort
+Mozzarella
+Brie
+Parmesan
+Gouda
+Cheddar
+Camembert
+Manchego
+Emmental
+Feta
+Gorgonzola
+Roquefort
+Mozzarella
+Brie
+Parmesan
+Gouda
+Cheddar
+Camembert
+Manchego

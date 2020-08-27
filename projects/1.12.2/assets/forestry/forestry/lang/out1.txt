@@ -1,0 +1,77 @@
+Portable Genetic Analyzer
+Supply bee, sapling, butterfly or an other individual and provide honey or honeydew as a pacifier.
+Artificial Origin
+Behaviour
+%s Generations in Captivity
+Possible Mutations
+Natural Origin
+Possible Produce
+Possible Specialty
+Active Species
+Inactive Species
+Products
+Mutations
+Further Mutations
+Resultant Mutations
+This individual has currently no integration for the database.
+Blank
+Cave Dwelling
+Climate
+Cold
+Crop
+Current Biome
+Current Output
+Damp
+Derelict
+Desert
+Did you know
+Diurnal
+Drones
+Effect
+Empty
+Empty Socket
+Multiblock Camouflage Slot
+Camouflage Slot
+Removable with a Soldering Iron
+Energy
+Environment
+Evolution
+Mated
+Fertility
+Fireproof
+Flower Type
+Tolerant Flyer
+Tolerant Flyer
+General
+Heat
+Hellish
+Hot
+Humidity
+Humidity Tolerance
+Hybrid
+Icy
+(You Cheater!)
+GENOME IMPRINTER
+Inactive
+Life
+Lifespan
+Normal
+Examine Specimens
+Place a genetic sample in the center to begin. Place more in the left slots and examine them for help.
+Attempt No. %s
+I have found a curious specimen on my travels.
+This strange fellow needs further investigation.
+Elated, I wanted to start at once with my research.
+I was amazed at the wondrous nature of it.
+The specimen twitched, while I inspected it more closely.
+Strange markings on the underside made me curious.
+This will be the talk of the society when I am done investigating.
+After some prodding I discovered an interesting new lead.
+I scratched my head at this discovery and questioned everything.
+I thought my eyes deceived me, but there it was.
+A previously unseen dot led me to question the specimen's classification.
+My screams of frustration had the housekeeper look into my study in worry.
+In a frenzy and on the verge of despair, I ripped up all the notes!
+This... just doesn't make any sense!
+It just cannot be. It didn't do that before!
+The sledgehammer barely made a dent, so I sent for the chainsaw.

@@ -1,0 +1,10 @@
+Wool
+Wool can be used as padding for either {link:Leather|upgrades:leather} or {link:Rabbit Hide|upgrades:rabbithide} armor, thus reducing incoming damage even more.\n\nDifferent colors of wool make for different colors of padding.\n\nIt is not consumed by the soldier.\n\n§7-§1 Enhancement upgrade\n§7-§1 requires {link:Leather|upgrades:leather}§1 or\n   {link:Rabbit Hide|upgrades:rabbithide}\n§7-§1 - 1 pts. damage taken
+Sugar Cane
+The hollow innards of the Sugar Cane is ideal as a guide for projectiles. This'll increase throwing range and makes soldiers way more accurate. Together with the {link:Emerald|upgrades:emerald} upgrade, it'll boost the damage output as well.\n\n§7-§1 Enhancement upgrade\n§7-§1 requires throwable upgrade\n§1   like {link:Gravel|upgrades:gravel}§1, {link:Snow|upgrades:snow}§1,\n§1   {link:Fire Charge|upgrades:firecharge}§1 or {link:Emerald|upgrades:emerald}
+Coal
+Fueling the flames of fire-based upgrades, this adds additional burn time to anything attacked or adds an additional use in case of {link:Blaze Powder|upgrades:blazepowder}.\n\n§7-§1 Enhancement upgrade\n§7-§1 requires {link:Blaze Rod|upgrades:blazerod}§1,\n   {link:Fire Charge|upgrades:firecharge}§1 or {link:Blaze Powder|upgrades:blazepowder}\n§7-§1 2x burn time\n§7-§1 + 1 use for Blaze Powder
+Gold Ingot
+The Gold Ingot - only to be used by leaders - boosts the number of uses for depletable upgrades and the damage dealt. It also gives an additional protective layer, reducing incoming damage.\n\n§7-§1 Enhancement upgrade\n§7-§1 requires {link:Gold Nugget|upgrades:goldnugget}\n§7-§1 2x uses on all upgrades\n§7-§1 + 1-2 pts. damage\n§7-§1 - 1 pts. damage taken
+Glowstone
+This material makes soldiers glow in the dark™, nothing else really.\n\nA block provides material for infinite soldiers.\n\n§7-§1 Misc. upgrade\n§7-§1 glows in the dark\n§7-§1 block provides infinite\n§1   material

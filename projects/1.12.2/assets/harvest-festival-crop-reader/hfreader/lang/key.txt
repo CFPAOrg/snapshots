@@ -1,0 +1,2 @@
+item.testowy.name
+itemGroup.hfreadertab

@@ -1,0 +1,58 @@
+Cloth
+Oil
+Adhesive
+Molotov Cocktail
+Aluminum
+Acid
+Antiseptic
+Fertilizer
+Copper
+Lead
+Silver
+Steel
+Gear
+Asbestos
+Screw
+Spring
+Ballistic Fiber
+Ceramic
+Circuitry
+Concrete
+Cork
+Crystal
+Fiber-Optics
+Fiberglass
+Nuclear Material
+Plastic
+Rubber
+Baseball bat
+Noodle Cup
+Brahmin Meat
+Ribeye Steak
+Nuka-Cola
+Alcohol
+Stimpak
+Jet
+Cigarette
+Mini Nuke
+Vault-Tec Manual
+Tattered Vault-Tec Manual
+Vault Dweller's Survival Guide
+T-45 Helmet
+Rusted T-45 Helmet
+T-51 Helmet
+Army Helmet
+Waste Dirt
+Cooking Station
+Nuka-Cola Machine
+Medkit
+Cooking Station
+Fallout Mod: Components
+Fallout Mod: Blocks
+Fallout Mod: Food
+Fallout Mod: Medical
+Fallout Mod: Melee Weapons
+Fallout Mod: Explosives
+Brahmin
+Radroach
+Wasteland

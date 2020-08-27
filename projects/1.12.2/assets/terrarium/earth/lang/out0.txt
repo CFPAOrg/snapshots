@@ -1,0 +1,69 @@
+Earth
+Earth Debug
+Earth Toolbox
+You are at %s
+Earth Debug Toolbox
+Terrarium data:
+Set Spawnpoint
+Locate Player
+Teleport Player
+Preload World
+Downloading Chunks
+Retry
+Download
+Run in Background
+Initializing
+Teleport
+Copied to clipboard!
+Please Wait
+Preparing Terrarium for use...
+This may take a minute
+An error occurred
+Failed to prepare Terrarium for use!
+Please check your internet connection and try again
+World Settings
+World Scale
+Terrestrial Height Scale
+Oceanic Height Scale
+Height Offset
+The amount of meters in real life representing one block in-game
+Elevation multiplier from meters to blocks for terrain above sea level
+Elevation multiplier from meters to blocks for terrain below sea level
+The height in-game that corresponds to sea-level
+Ecological Settings
+Add Trees
+Add Grass
+Add Flowers
+Add Cacti
+Add Sugar Cane
+Add Pumpkins & Melons
+If enabled, trees will be generated
+If enabled, grass will be generated
+If enabled, flowers will be generated
+If enabled, cacti will be generated
+If enabled, sugar cane will be generated
+If enabled, pumpkins and melons will be generated
+Geological Settings
+Cave Generation
+Ravine Generation
+Ore Generation
+If enabled, caves will be generated randomly
+If enabled, ravines will be generated randomly
+If enabled, ores will be generated randomly
+Structure Settings
+Add Strongholds
+Add Villages
+Add Mineshafts
+Add Temples
+Add Ocean Monuments
+Add Woodland Mansions
+If enabled, strongholds will be generated randomly
+If enabled, villages will be generated randomly
+If enabled, mineshafts will be generated randomly
+If enabled, temples will be generated randomly
+If enabled, ocean monuments will be generated randomly
+If enabled, woodland mansions will be generated randomly
+Compatibility Settings
+Compatibility Mode (Experimental)
+Add Biomes O' Plenty Biomes and Trees
+Experimental modded compatibility mode: may slow down generation or break altogether!

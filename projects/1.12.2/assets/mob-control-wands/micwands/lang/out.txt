@@ -1,0 +1,27 @@
+Wand of Silence
+Wand of Ages
+Wand of Following
+Wand of Immolation
+Wand of Enfeeblement
+Wand of Pacification
+%s is now enchanted to be silent!
+%s is now unenchanted from being silent.
+%s is now enchanted to stay baby forever!
+%s is now unenchanted from staying baby forever.
+%s is now following you.
+%s is no longer following you.
+%s has been enfeebled!
+%s is already enfeebled.
+%s has been pacified!
+%s is already pacified.
+%s has been set on permanent fire!
+%s has been extinguished.
+%s's name metadata has been reset.
+This creature is already being owned by someone else.
+This creature is already tamed and owned by you.
+This wand can not be used on a creature immune to fire.
+This wand works on %s only.
+neutral baby creatures
+living creatures
+neutral or pacified creatures
+hostile living creatures

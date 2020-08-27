@@ -1,0 +1,16 @@
+Write the text to display here.
+Define if the spotlight need to be powered by redstone to be active.
+You can change the text's rotation there.
+Some properties for the text.
+You can change the beam's texture right there.
+When you put something in this slot the main beam will take its texture.
+When you put something in this slot the secondary beam will take its texture.
+This button allows you to add one key at a selected time, this key takes all the values of the spotlight at the time of the key's creation.
+This button deletes the selected key, a confirmation will be required.
+This button resets the time of the timeline to 0.
+This button toggles the smooth mode, when the mode is not active laser values change when a key is reached, otherwise the values change gradually (whenever possible).
+This represents the timeline, you can see the green bar indicating the current time, indicative graduations and saved key (red cross) by clicking on the cross you selected it.
+Here's a great part of this block, the timeline. This is a place you can configure key which store configuration to reach at the given time. For example you can create a color gradient.
+This button enables or disables the flow of time to the timeline.
+Click this button to create the key to the specified time just above.
+This slider allows you to choose at which time key will be created.

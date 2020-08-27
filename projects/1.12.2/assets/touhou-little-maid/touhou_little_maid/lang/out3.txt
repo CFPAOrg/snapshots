@@ -1,0 +1,119 @@
+Big Star
+Petal
+Knife
+Master Spark
+Bullet
+Kunai
+Rain Drop
+Arrow Head
+Butterfly
+Glowey Ball
+Idle
+Attack
+Bow
+Danmaku
+Farm
+Sugarcane
+Melon
+Cocoa
+Grass
+Snow
+Feed
+Shears
+Milk
+Torch
+Breed
+Extinguishing
+HP: %f/%f
+AR: %f/20.0
+AT: %f
+Exp: %d
+Main
+Inventory
+Bauble
+Skill (WIP)
+Pick Mode Is Enable.
+Pick Mode Is Disable.
+Click this button to set whether the maid takes the initiative to pick up the entity item.
+Home Mode Is Enable.
+Home Mode Is Disable.
+Click this button to set whether the maid will follow the player.
+Change Skin
+Change Hata Sasimono
+Close
+Open Sound Credit GUI
+Open Maid Resources Pack Download GUI
+Show Maid Pos
+Clear Maid Pos
+Maid Riding Setting
+Close
+Show/Hide Floor
+Return
+Beg Status
+Walk Status
+Sit Status
+Normal Ride Status
+Ride Broom Status
+Show Helmet
+Show Chest Plate
+Show Leggings
+Show Boots
+Show Main Hand Item
+Show Off Hand Item
+Show Hata Sasimono
+Show Arrow
+Apply Data
+Height
+Show Ref Character
+Shift Click To Make Ten Times Modification
+Gravity
+Floating
+Loaded Animation File: %s
+Load Debug Animation File
+File Alteration: ON
+File Alteration: OFF
+Reset Animation
+Apply Texture
+Close
+Disassembly
+Show Sasimono
+Hide Sasimono
+Scroll the mouse wheel to switch styles
+Player: %s
+Storage: %s
+Cost: %s/h
+Put One
+Put All
+Take One
+Take All
+Not Download
+Downloaded
+Downloading
+Need Update
+REMEMBER TO LOAD THE PACK
+Author: %s
+,
+Size: %s
+Upload Time: %s
+License: %s
+There seems to be something wrong with the network...
+Please click on the top left button and wait a few seconds
+Reload
+All Resources Pack
+Maid Resources Pack
+Chair Resources Pack
+Sound Resources Pack
+Open Resources Gui
+Please slide the mouse wheel to scroll the inventory.
+JavaScript File
+Close
+The name of the player skin you want to use:
+The display text on the scarecrow brand:
+ID Illegal
+Importer: %s
+§c§l[LIST] §6§l%s
+%s %s Create
+Track
+Play
+Tags: §9%s
+Description: %s

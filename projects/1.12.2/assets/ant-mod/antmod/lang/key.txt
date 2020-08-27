@@ -1,0 +1,6 @@
+item.spawnerqueenant.name
+entity.antqueen.name
+entity.antworker.name
+tile.antegg.name
+entity.trader.name
+entity.villagersoldier.name

@@ -1,0 +1,126 @@
+Malachite leggings
+Malachite boots
+Malachite 
+Malachite dust
+Tourmaline sword
+Tourmaline shovel
+Tourmaline pickaxe
+Tourmaline axe
+Tourmaline hoe
+Tourmaline helmet
+Tourmaline chestplate
+Tourmaline leggings
+Tourmaline boots
+Tourmaline 
+Tourmaline dust
+Chrysocolla sword
+Chrysocolla shovel
+Chrysocolla pickaxe
+Chrysocolla axe
+Chrysocolla hoe
+Chrysocolla helmet
+Chrysocolla chestplate
+Chrysocolla leggings
+Chrysocolla boots
+Chrysocolla 
+Chrysocolla dust
+Jasper sword
+Jasper shovel
+Jasper pickaxe
+Jasper axe
+Jasper hoe
+Jasper helmet
+Jasper chestplate
+Jasper leggings
+Jasper boots
+Jasper 
+Jasper dust
+Ametrine sword
+Ametrine shovel
+Ametrine pickaxe
+Ametrine axe
+Ametrine hoe
+Ametrine helmet
+Ametrine chestplate
+Ametrine leggings
+Ametrine boots
+Ametrine 
+Ametrine dust
+Ruby ore
+Ruby block
+Ruby sand
+Ruby glass
+Sapphire ore
+Sapphire block
+Sapphire sand
+Sapphire glass
+Amethyst ore
+Amethyst block
+Amethyst sand
+Amethyst glass
+Topaz ore
+Topaz block
+Topaz sand
+Topaz glass
+Phoenixite ore
+Phoenixite block
+Phoenixite sand
+Phoenixite glass
+Jade ore
+Jade block
+Jade sand
+Jade glass
+Citrine ore
+Citrine block
+Citrine sand
+Citrine glass
+Garnet ore
+Garnet block
+Garnet sand
+Garnet glass
+Spinel ore
+Spinel block
+Spinel sand
+Spinel glass
+Onyx ore
+Onyx block
+Onyx sand
+Onyx glass
+Agate ore
+Agate block
+Agate sand
+Agate glass
+Malachite ore
+Malachite block
+Malachite sand
+Malachite glass
+Tourmaline ore
+Tourmaline block
+Tourmaline sand
+Tourmaline glass
+Chrysocolla ore
+Chrysocolla block
+Chrysocolla sand
+Chrysocolla glass
+Jasper ore
+Jasper block
+Jasper sand
+Jasper glass
+Ametrine ore
+Ametrine block
+Ametrine sand
+Ametrine glass
+Nether Agate Ore
+Nether Amethyst Ore
+Nether Sapphire Ore
+Nether Topaz Ore
+Nether Ruby Ore
+Nether Phoenixite Ore
+Nether Jade Ore
+Nether Citrine Ore
+Nether Garnet Ore
+Nether Spinel Ore
+Nether Onyx Ore
+Nether Malachite Ore
+Nether Tourmaline Ore
+Nether Chrysocolla Ore

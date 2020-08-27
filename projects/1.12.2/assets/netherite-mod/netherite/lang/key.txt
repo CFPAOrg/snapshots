@@ -1,0 +1,13 @@
+tile.ancient_debris.name
+tile.netherite_block.name
+item.netherite_ingot.name
+item.netherite_scrap.name
+item.netherite_sword.name
+item.netherite_shovel.name
+item.netherite_pickaxe.name
+item.netherite_hoe.name
+item.netherite_axe.name
+item.netherite_helmet.name
+item.netherite_chestplate.name
+item.netherite_leggings.name
+item.netherite_boots.name

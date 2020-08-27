@@ -1,0 +1,31 @@
+NaK Coolant Cooling Rates
+Heat removed per tick. Order: base, redstone, quartz, gold, glowstone, lapis, diamond, liquid helium, ender, cryotheum, iron, emerald, copper, tin, magnesium.
+Max Redstone Signal Heat
+Percentage heat level of a salt fission reactor at which Redstone Emitters will output a full-strength redstone signal.
+Max Fuel Distribution Rate
+The maximum rate at which fuel distributors and retrievers can push to and pull from fuel vessels in mB/s.
+Fission Vessel Spread Ratio
+Multiplier for the fraction of stored fluid that vessels will spread to adjacent components.
+Coolant Heater Spread Ratio
+Multiplier for the fraction of stored fluid that heaters will spread to adjacent components.
+Heat Exchanger Configs
+Configure aspects of heat exchangers.
+Minimum Structure Length
+Minimum side length of heat exchangers.
+Maximum Structure Length
+Maximum side length of heat exchangers.
+Tube Conductivity
+Multiplier for heat transfer rate to and from this type of tube. For heat exchanging tubes, heating recipes will be faster by this factor while cooling recipes will be slower by this factor. For condensation tubes, recipes will simply be faster by this factor. Order: copper, hard carbon, thermoconducting alloy.
+Coolant Heat Multiplier
+Multiplier for the heat required to cool hot coolant.
+Alternate Exhaust Steam Recipe
+Will exhaust steam be heated into standard steam rather than low pressure steam?
+Exchanger Tube Tank Capacities
+The input and output tank capacities of each exchanger tube.
+Condenser Tube Tank Capacities
+The input and output tank capacities of each condenser tube.
+Exchanger Tube Spread Ratio
+Multiplier for the fraction of stored fluid that exchanger tubes will spread to adjacent components.
+Condenser Tube Spread Ratio
+Multiplier for the fraction of stored fluid that condenser tubes will spread to adjacent components.
+Turbine Configs

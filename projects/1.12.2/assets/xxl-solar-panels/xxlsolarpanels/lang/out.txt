@@ -1,0 +1,18 @@
+Super powerful panel
+Fantastic solar panel
+Perfect solar panel
+High level energy storage
+Lirium ore
+Lirium block
+Charged Lirium block
+Nether star block
+Lirium shard
+Solar core
+Advanced solar core
+Perfect solar core
+Generated in nether at a height
+of 12 to 26 blocks
+Minimum: 1 Maximum: 3
+%s
+%s
+Output: %s Eu/t

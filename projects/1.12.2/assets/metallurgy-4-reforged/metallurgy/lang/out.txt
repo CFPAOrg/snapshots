@@ -1,0 +1,9 @@
+§8The Attack Speed is directly proportional to Darkness
+§8Wither II
+§cFire Aspect II
+§aPoisons your target
+§8The Mining Speed is directly proportional to Darkness
+§6§lWelcome to Metallurgy 4: Reforged
+§6For more info, bug reports and suggestions here's the github repository link:
+https://github.com/Davoleo/Metallurgy-4-Reforged
+You can disable this message from the mod configuration

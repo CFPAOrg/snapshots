@@ -1,0 +1,11 @@
+item.cellframe.name
+tile.moonpanel.name
+item.solarframe.name
+item.energyorb.name
+item.rubydrill.name
+tile.solarpanel.name
+item.moonframe.name
+tile.highsolarpanel.name
+tile.mediumsolarpanel.name
+itemGroup.tabsimplesolarpanels
+tile.ultrasolarpanel.name

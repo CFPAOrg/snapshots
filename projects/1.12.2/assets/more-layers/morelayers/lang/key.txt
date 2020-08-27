@@ -1,0 +1,17 @@
+itemGroup.Layers
+tile.dirt_layer.name
+tile.coarse_dirt_layer.name
+tile.podzol_layer.name
+tile.mycelium_layer.name
+tile.grass_layer.name
+tile.grass_path_layer.name
+tile.sand_layer.name
+tile.gravel_layer.name
+tile.cobblestone_layer.name
+tile.mossy_cobblestone_layer.name
+tile.oak_leaves_layer.name
+tile.birch_leaves_layer.name
+tile.spruce_leaves_layer.name
+tile.jungle_leaves_layer.name
+tile.dark_oak_leaves_layer.name
+tile.acacia_leaves_layer.name

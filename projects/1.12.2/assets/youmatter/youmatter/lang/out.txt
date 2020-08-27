@@ -1,0 +1,39 @@
+YouMatter
+Replicator
+U-Matter Creator
+Encoder
+Scanner
+Thumb Drive
+Portable Black Hole
+Compute Module
+Machine Casing
+Transistor
+Transistor (Raw)
+U-Matter
+Stabilizer
+"§7Crafting Item. Can be found in End Cities."
+§7Crafting Item.
+§5Data stored.
+§cNo Data stored.
+(%s/%s KB used)
+Encoder
+U-Matter Creator
+Replicator
+Scanner
+§cYou need to place an Encoder
+§cnext to this block so that
+§cdata can be transmitted.
+§cYou need to insert a thumb drive first.
+§cYour thumb drive is full.
+§6Energy
+Stored: %s FE
+§6U-Matter
+Amount: %s mB
+§6Stabilizer
+Amount: %s mB
+§6Active
+§6Paused
+Click to change
+§6Perform infinite runs
+§6Perform single run
+§aRequired Amount: %s mB

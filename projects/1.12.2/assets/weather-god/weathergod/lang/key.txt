@@ -1,0 +1,2 @@
+entity.pogoda0.name
+entity.godofweather.name

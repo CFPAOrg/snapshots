@@ -1,0 +1,127 @@
+Gray Pale Dexter
+Pink Pale Dexter
+Lime Pale Dexter
+Yellow Pale Dexter
+Light Blue Pale Dexter
+Magenta Pale Dexter
+Orange Pale Dexter
+White Pale Dexter
+Black Pale Sinister
+Red Pale Sinister
+Green Pale Sinister
+Brown Pale Sinister
+Blue Pale Sinister
+Purple Pale Sinister
+Cyan Pale Sinister
+Light Gray Pale Sinister
+Gray Pale Sinister
+Pink Pale Sinister
+Lime Pale Sinister
+Yellow Pale Sinister
+Light Blue Pale Sinister
+Magenta Pale Sinister
+Orange Pale Sinister
+White Pale Sinister
+Black Pale
+Red Pale
+Green Pale
+Brown Pale
+Blue Pale
+Purple Pale
+Cyan Pale
+Light Gray Pale
+Gray Pale
+Pink Pale
+Lime Pale
+Yellow Pale
+Light Blue Pale
+Magenta Pale
+Orange Pale
+White Pale
+Black Fess
+Red Fess
+Green Fess
+Brown Fess
+Blue Fess
+Purple Fess
+Cyan Fess
+Light Gray Fess
+Gray Fess
+Pink Fess
+Lime Fess
+Yellow Fess
+Light Blue Fess
+Magenta Fess
+Orange Fess
+White Fess
+Black Bend
+Red Bend
+Green Bend
+Brown Bend
+Blue Bend
+Purple Bend
+Cyan Bend
+Light Gray Bend
+Gray Bend
+Pink Bend
+Lime Bend
+Yellow Bend
+Light Blue Bend
+Magenta Bend
+Orange Bend
+White Bend
+Black Bend Sinister
+Red Bend Sinister
+Green Bend Sinister
+Brown Bend Sinister
+Blue Bend Sinister
+Purple Bend Sinister
+Cyan Bend Sinister
+Light Gray Bend Sinister
+Gray Bend Sinister
+Pink Bend Sinister
+Lime Bend Sinister
+Yellow Bend Sinister
+Light Blue Bend Sinister
+Magenta Bend Sinister
+Orange Bend Sinister
+White Bend Sinister
+Black Paly
+Red Paly
+Green Paly
+Brown Paly
+Blue Paly
+Purple Paly
+Cyan Paly
+Light Gray Paly
+Gray Paly
+Pink Paly
+Lime Paly
+Yellow Paly
+Light Blue Paly
+Magenta Paly
+Orange Paly
+White Paly
+Black Saltire
+Red Saltire
+Green Saltire
+Brown Saltire
+Blue Saltire
+Purple Saltire
+Cyan Saltire
+Light Gray Saltire
+Gray Saltire
+Pink Saltire
+Lime Saltire
+Yellow Saltire
+Light Blue Saltire
+Magenta Saltire
+Orange Saltire
+White Saltire
+Black Chevron
+Red Chevron
+Green Chevron
+Brown Chevron
+Blue Chevron
+Purple Chevron
+Cyan Chevron

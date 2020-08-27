@@ -1,0 +1,11 @@
+item.charcoalblockmod.goldencharcoal.name
+item.charcoalblockmod.goldencoal.name
+item.charcoalblockmod.megacoal.name
+item.charcoalblockmod.supercoal.name
+item.charcoalblockmod.supermegacoal.name
+tile.charcoalblockmod.charcoal_block.name
+tile.charcoalblockmod.goldencharcoal_block.name
+tile.charcoalblockmod.goldencoal_block.name
+tile.charcoalblockmod.megacoal_block.name
+tile.charcoalblockmod.supercoal_block.name
+tile.charcoalblockmod.supermega_coal_block.name

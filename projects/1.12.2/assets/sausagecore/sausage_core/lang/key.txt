@@ -1,0 +1,46 @@
+itemGroup.sausage_core
+item.sausage_core.sausage.name
+item.sausage_core.sausage.info
+item.sausage_core.debug_stick.name
+item.sausage_core.info_card.name
+generator.sausage_core.village
+generator.sausage_core.customSize
+generator.sausage_core.customSize.title
+generator.sausage_core.chaosBiomes
+generator.sausage_core.buffet
+generator.sausage_core.buffet.title
+death.attack.overeating
+sausage_core.info_card.Please visit
+sausage_core.info_card.for more information
+sausage_core.info_card.No %s is detected
+sausage_core.general.spawnInfoCard
+sausage_core.general.testAl
+sausage_core.debug_stick.mode.switch
+sausage_core.debug_stick.mode.block
+sausage_core.debug_stick.mode.entity
+commands.sausage_core.data.usage
+commands.sausage_core.data.success
+advancement.sausage.root.title
+advancement.sausage.root.description
+advancement.sausage.sausage.title
+advancement.sausage.sausage.description
+guide.sausage_core.title
+guide.sausage_core.CATEGORY.general
+guide.sausage_core.CATEGORY.chapter_2
+guide.sausage_core.general.introduction
+guide.sausage_core.general.ingredient
+guide.sausage_core.general.world_type
+guide.sausage_core.general.debugging
+guide.sausage_core.general.introduction.info.1
+guide.sausage_core.general.ingredient.info.0
+guide.sausage_core.general.ingredient.info.1
+guide.sausage_core.general.ingredient.info.2
+guide.sausage_core.general.world_type.info.0
+guide.sausage_core.general.world_type.info.1
+guide.sausage_core.general.debugging.info.0
+guide.sausage_core.general.debugging.info.1
+guide.sausage_core.chapter_2.episode_1
+guide.sausage_core.chapter_2.episode_1.info.0
+guide.sausage_core.chapter_2.episode_1.info.1
+guide.sausage_core.chapter_2.episode_1.info.2
+guide.sausage_core.chapter_2.episode_1.info.3

@@ -1,0 +1,55 @@
+This hippogryph's home position was removed.
+This cockatrice is wandering.
+This cockatrice is sitting.
+This cockatrice is following.
+This cockatrice is patrolling.
+This cockatrice's home position was removed.
+This cockatrice's home position has been set to %d, %d, %d.
+You have raised your reputation with this Myrmex Colony by %d, to %d.
+§cYou have lowered your reputation with this Myrmex Colony by %d, to %d.
+This Myrmex Colony is now neutral towards you.
+§cThis Myrmex Colony is now hostile towards you.
+This Myrmex Colony is now willing to trade with you.
+§cThis Myrmex Colony will now refuse to trade with you.
+You can now use a Myrmex Staff on this colony.
+§cYou can no longer use a Myrmex Staff on this colony.
+This Rouge Myrmex does not have a hive!
+Staff set to %d's Colony, centered at %d, %d, %d.
+Staff set to this Myrmex's Colony, centered at %d, %d, %d.
+§cThis staff is already set to this colony!
+§cThis staff is not set to any Myrmex Colony.
+Bound to colony at
+Not bound to any colony
+%d's Colony
+Myrmex Colony
+Colony Opinion: %d
+Rooms:
+Food Room (%d, %d, %d)
+Nursery Room (%d, %d, %d)
+Misc Room (%d, %d, %d)
+Entrance Surface (%d, %d, %d)
+Entrance Bottom (%d, %d, %d)
+Delete
+Enable Reproduction
+Disable Reproduction
+Create Food Room
+Create Nursery Room
+Create Misc Room
+Create Entrance(Surface)
+Create Entrance(Bottom)
+Creating new room at (%d, %d, %d)
+§cThere is already a room at this location§r(%d, %d, %d)!
+Added a food room at this location(%d, %d, %d)
+Added a nursery room at this location(%d, %d, %d)
+Added a misc room at this location(%d, %d, %d)
+Added a Entrance(bottom) room at this location(%d, %d, %d)
+Added a Entrance(surface) room at this location(%d, %d, %d)
+Worker
+Soldier
+Queen
+Royal
+Sentinel
+This amphithere's home position has been set to %d, %d, %d.
+This amphithere is wandering.
+This amphithere is sitting.
+This amphithere is following.

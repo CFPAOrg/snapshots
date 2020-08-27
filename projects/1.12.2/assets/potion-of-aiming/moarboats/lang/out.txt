@@ -1,0 +1,28 @@
+Chest module
+Furnace Engine
+Rope
+Modular Boat
+You can't link a boat to itself!
+Back already occupied
+Front already occupied
+Boat helm
+Remaining on current item
+Estimated running time
+Lock in place
+Moar Boats
+Fishing module
+Missing storage!
+Select the last boat in the chain first, and then the one before in said chain!
+Boat Seat
+Boat Seat
+Nothing to configure!
+Sit and enjoy the ride!
+Click with an empty hand to sit!
+Locked by redstone!
+Waterborne redstone conductor
+Deploying the anchor updates your spawnpoint!
+Deploy anchor
+Bring back anchor
+Anchor moving, hold still...
+Spawn point set!
+Anchor module

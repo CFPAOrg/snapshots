@@ -1,0 +1,53 @@
+/sburbServer <client player> <server player>
+Successfully set %s's server player as %s.
+/setRung <target player> <target rung> [progress]
+Successfully changed %s's rung to %d with %d%% progress.
+/porkhollow <send|take> [target player] <amount>
+Successfully sent %s boondollars to %s.
+Successfully took out %s boondollars from your porkhollow.
+You don't have enough boondollars.
+/tpStruct village
+/landDebug <~ OR terrainlandspect titlelandspect ...>
+Clear message
+Disconnect
+%s
+Activate edit mode
+Give items
+Open to clients
+Resume connection
+Connected to %s
+Connection failed
+Client is already active
+Connection closed
+Server closed
+Can't reach skaianet
+Server offline
+Select a server below
+Server with your name exists
+Waiting for server...
+Waiting for client...
+Stopped resuming
+Client
+Server
+Game session is full
+Select a Color
+Server player's session is full
+Client player's session is full
+You don't have enough boondollars for that!
+You need a %s for that!
+Thanks!
+Thank you!
+...
+:(
+My dad was blown away in one of the recent wind storms.
+If only I was faster than the wind! That would be fun!
+Actually, nevermind. I would be burned on a pyre for being a witch due to our primal society.
+Some people say the oceans of blood are actually kool-aid. I'm too scared to taste it for myself.
+You don't want to know what it's like to be outside when it rains. You can't tell who's a murderer or who forgot an umbrella!
+If you're looking for a good land to swim in, it's definitely not this one.
+OH GOD IS THAT BLOOD oh wait nevermind.
+Some people say at night, skeletons riding skeleton horses come through the town.
+Every once in a blue moon, lightning strikes and burns down the village. We have to rebuild it!
+Those darn doomsayers, preaching about the Apocalypse and The Reckoning and such!
+What's The Reckoning? It's when meteors from The Veil are sent towards Skaia.
+Like any reasonable %s believes in that!

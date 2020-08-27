@@ -1,0 +1,58 @@
+Oniric Incense
+Slug
+Slug Catcher
+Test Item
+Canoe
+Flute of The Outer Gods
+Saw Cleaver
+Wolf Medallion
+Cup of Ale
+Cup of Mead
+Cup of Rum
+Cup of Vodka
+Cup of Wine
+Empty Cup
+Tablet
+Bronze Sphere
+Blackjack
+Dorsal Spine
+Heart
+Villager
+Weeper
+Fletum
+Surgery Tools
+Bone Tiara
+Bleeding Belt
+Dream Bottle
+Redstone Grass Seeds
+Ghost Grass Seeds
+Vanilla Grass Seeds
+Shoggoth Map
+Shoggoth
+Blood Covenant
+Ring of Revelation
+Charm of Azacno
+Crown of Thorns
+Coral Staff
+Blood Sigil: Zombie
+Blood Sigil: Skeleton
+Sacrificial Knife
+Memory Phial
+Al Azif
+Blood Sigil: Player
+Blood Sigil: Pathway
+Gear
+Crucible
+Surgeon Summons
+§5§oThe sensation I get by touching, seeing or even thinking of this flute is truly bizarre. It's as if it does not exist in my world.. and yet it's there, in my hands.
+§5§oThis weapon.. this bizarre metal contraption, is a masterwork of engineering. Capable of effortlessly switching between its normal and extended form, it also enables its wielder to dodge in the same style of its ancient owners.
+§5§oThis metal artifact gives a soft hum whenever close to monsters, alerting its wearer to their presence. It was no doubt used by hunters in eras long past.
+§5§oNo no no, this isn't possible, this simply can't be. I KNOW this sphere. I KNOW I've held it. I just.. don't remember it. It must've been in the hamlet where I found it for aeons, by now?
+§5§oA weapon wielded by demon slayers of yore. Immensely powerful, but needs a long recharge after every use.
+%1$s experience currently stashed.
+§5§oAn ancient stony slab with weird inscriptions on it. Can I decipher it?
+§5§oWillpower resides in the spine.
+§5§oA set of tools used for surgery. Somewhat rusty, but I am certain my patients won't mind.
+§5§oA villager lacking his dorsal spine. He'll never get up.
+§5§oAn unconscious villager, ready for experimentation.
+§5§oA villager without a heart. Soon, he will expire.

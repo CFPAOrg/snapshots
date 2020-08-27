@@ -1,0 +1,2 @@
+item.phone.name
+tile.speaker.name

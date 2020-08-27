@@ -1,0 +1,101 @@
+Obsidian Flakes
+Obsidian-Emerald
+Obsidian-Diamond
+Obsidian-Cryosteel Ingot
+Obsidian-Gold Ingot
+Obsidian-Iron Ingot
+Obsidian-Lapis
+Caramel
+Seed Obsidian Corns
+Immortal Obsidian Guide
+Portable Portal
+Tharator
+Pumpkin-Cat
+Illager Golem
+Iron Golem
+Kippunny
+Obsidian Corn
+Pop-Corn
+Sugar Stick
+Caramel Apple
+Evil Apple
+Gold Apple
+Raw Kippunny
+Cooked Kippunny
+Manipulate Obsidian
+Separator 
+Lucky Block
+Obsidian Ore
+Obsidian Podzol
+Obsidian Mycelium
+Obsidian Dirt
+Mini-Pumpkin
+Base of the Portal
+Dark Oak Wood
+Obsidian Brick
+Obsidian Chiseled
+Obsidian Lines
+Door Lock
+Door Frame
+BedBrick
+White Pumpkin of Illager Golem
+Violet Mushroom
+Dark Grass
+Violet Mushroom Block
+Obsidian Leaves
+Obsidian Log
+Obsidian Sapling
+Obsidian Plank
+Obsidian Door
+Obsidian Wood Slab
+Double Obsidian Slab
+Obsidian Wood Trapdoor
+Key
+Obsidian Wrench
+Obsidian-Emerald Hammer
+Obsidian-Emerald Multi-Tool T2
+Obsidian-Emerald Multi-Tool T1
+Obsidian-Emerald Sword
+Obsidian-Emerald Shovel
+Obsidian-Emerald Pickaxe
+Obsidian-Emerald Axe
+Obsidian-Emerald Hoe
+Obsidian-Diamond Hammer
+Obsidian-Diamond Multi-Tool T2
+Obsidian-Diamond Multi-Tool T1
+Obsidian-Diamond Sword
+Obsidian-Diamond Shovel
+Obsidian-Diamond Pickaxe
+Obsidian-Diamond Axe
+Obsidian-Diamond Hoe
+Obsidian-Cryosteel Hammer
+Obsidian-Cryosteel Multi-Tool T2
+Obsidian-Cryosteel Multi-Tool T1
+Obsidian-Cryosteel Sword
+Obsidian-Cryosteel Shovel
+Obsidian-Cryosteel Pickaxe
+Obsidian-Cryosteel Axe
+Obsidian-Cryosteel Hoe
+Obsidian-Gold Hammer
+Obsidian-Gold Multi-Tool T2
+Obsidian-Gold Multi-Tool T1
+Obsidian-Gold Sword
+Obsidian-Gold Shovel
+Obsidian-Gold Pickaxe
+Obsidian-Gold Axe
+Obsidian-Gold Hoe
+Obsidian-Iron Hammer
+Obsidian-Iron Multi-Tool T2
+Obsidian-Iron Multi-Tool T1
+Obsidian-Iron Sword
+Obsidian-Iron Shovel
+Obsidian-Iron Pickaxe
+Obsidian-Iron Axe
+Obsidian-Iron Hoe
+Emerald Sword
+Emerald Shovel
+Emerald Pickaxe
+Emerald Axe
+Emerald Hoe
+Obsidian Helmet
+Obsidian Chestplate

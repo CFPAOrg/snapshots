@@ -1,0 +1,12 @@
+item.super_cheaty_sword.name
+item.super_cheaty_pickaxe.name
+item.super_cheaty_shovel.name
+item.super_cheaty_axe.name
+item.super_cheaty_helmet.name
+item.super_cheaty_chestplate.name
+item.super_cheaty_leggings.name
+item.super_cheaty_boots.name
+item.god_apple.name
+tile.cheaty_chest.name
+config.armor
+config.tools

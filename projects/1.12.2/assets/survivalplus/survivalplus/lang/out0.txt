@@ -1,0 +1,114 @@
+%1$s fell off a ladder and was smooshed
+%1$s fell off some vines and was smooshed
+%1$s fell out of the water and was smooshed
+%1$s has been smooshed
+%1$s was doomed to smoosh
+%1$s was doomed to smoosh by %2$s
+%1$s was doomed to smoosh by %2$s using %3$s
+%1$s smooshed and was finished by %2$s
+%1$s smooshed and was finished by %2$s using %3$s
+%1$s has been smooshed
+%1$s has been smooshed whilst trying to escape %2$s
+SurvivalPlus
+SurvivalPlus Materials
+SurvivalPlus Blocks
+SurvivalPlus Foodstuffs
+SurvivalPlus Gems
+SurvivalPlus Combat
+SurvivalPlus Tools
+Tin Ingot
+Copper Ingot
+Bronze Ingot
+Bronze Nugget
+Titanium Ingot
+Titanium Nugget
+Titanium Dust
+Crushed Titanium Ore
+Purified Crushed Titanium Ore
+Tiny Pile of Titanium Dust
+Titanium Plate
+Dense Titanium Plate
+Titanium Item Casing
+Copper Dust
+Tin Dust
+Bucket of Charcoal
+Paper Cup
+White Dye
+Apple Pie
+Beef Pie
+Pork Pie
+Chicken Pie
+Mutton Pie
+Rabbit Pie
+Vegetable Pie
+Onion
+Onion Seeds
+Onion Soup
+Fried Egg
+Roasted Carrot
+Cheese
+Cheese Bread
+Melted Cheese Bread
+Cupcake
+Cheese Cupcake
+Sponge Cupcake
+Cheese Cake
+Sponge Cake
+Onion Crop
+Baked Apple
+Fried Onion
+Block of Copper
+Block of Tin
+Copper Ore
+Tin Ore
+Amethyst
+Ruby
+Pearl
+Topaz
+Sapphire
+Spinel
+Block of Bronze
+Titanium Ore
+Block of Titanium
+Cardboard
+White Cardboard
+Light Gray Cardboard
+Gray Cardboard
+Black Cardboard
+Red Cardboard
+Orange Cardboard
+Yellow Cardboard
+Lime Cardboard
+Green Cardboard
+Light Blue Cardboard
+Cyan Cardboard
+Blue Cardboard
+Purple Cardboard
+Magenta Cardboard
+Pink Cardboard
+Brown Cardboard
+Campfire
+Campfire
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Stone Helmet
+Stone Chestplate
+Stone Leggings
+Stone Boots
+Titanium Helmet
+Titanium Chestplate
+Titanium Leggings
+Titanium Boots
+Oak Helmet
+Oak Chestplate
+Oak Leggings
+Oak Boots
+Spruce Helmet
+Spruce Chestplate
+Spruce Leggings
+Spruce Boots
+Birch Helmet
+Birch Chestplate
+Birch Leggings

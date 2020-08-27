@@ -1,0 +1,26 @@
+Hardcore Stacks
+If enabled, the radioactive stacks in a player's inventory will irradiate the chunk the player is in as well as the player directly.
+Hardcore Containers
+The radioactive stacks in container blocks will irradiate the chunk the tile entity is in at a rate of this fraction of their base radiation level.
+Radiation From Dropped Items
+Radioactive items dropped on the ground will irradiate the chunk they are in.
+Radiation Death Persistence
+If enabled, players' rad levels will persist on death.
+Death Persistence Fraction
+Specifies the fraction of the player's rad level that persists if Radiation Death Persistence is enabled.
+Post-Death Immunity Time
+Number of seconds players will have radiation immunity after death due to radiation.
+Player Radiation Effects
+Lists of potion effects experienced at various percentages of radiation level by players. Format: 'radPercent_potionNameA@strength,potionNameB@strength,...,potionNameZ@strength'.
+Passive Entity Radiation Effects
+Lists of potion effects experienced at various percentages of radiation level by passive entities. Format: 'radPercent_potionNameA@strength,potionNameB@strength,...,potionNameZ@strength'.
+Mob Radiation Effects
+Lists of potion effects experienced at various percentages of radiation level by mobs. Format: 'radPercent_potionNameA@strength,potionNameB@strength,...,potionNameZ@strength'.
+Horse Armor
+If enabled, horses can be equipped with radiation-protective armor.
+Other Configs
+Miscellaneous configurations.
+Single Creative Tab
+Combine all creative tabs into a single large one?
+Register Processors
+Register processors to the game? Order: Nuclear Furnace, Manufactory, Isotope Separator, Decay Hastener, Fuel Reprocessor, Alloy Furnace, Fluid Infuser, Melter, Supercooler, Electrolyzer, Neutron Irradiator, Ingot Former, Pressurizer, Chemical Reactor, Salt Mixer, Crystallizer, Fluid Enricher, Fluid Extractor, Centrifuge, Rock Crusher.

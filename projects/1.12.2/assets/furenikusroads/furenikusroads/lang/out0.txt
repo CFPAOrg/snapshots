@@ -1,0 +1,102 @@
+Tar
+White Paint
+Yellow Paint
+Red Paint
+Standard Tarmac Road
+Concrete Road
+Concrete Road
+Light Tarmac Road
+Dark Tarmac Road
+Pale Tarmac Road
+Red Tarmac Road
+Blue Tarmac Road
+White Tarmac Road
+Yellow Tarmac Road
+Green Tarmac Road
+Fine Tarmac Road
+Mud Road
+Dried Mud Road
+Stone Road
+Grass Road
+Dirt Road
+Sand Road
+Gravel Road
+Sidewalk
+Clean Sidewalk
+Dark Sidewalk
+Tan Sidewalk
+Paint Filler
+Tar Distiller
+Road Factory
+Tarmac Cutter
+Crusher
+Paint Oven
+Compactor
+Fabricator
+Paint Filler Hopper
+Electric Paint Filler
+Electric Tar Distiller
+Electric Road Factory
+Electric Tarmac Cutter
+Electric Crusher
+Electric Paint Oven
+Electric Compactor
+Electric Fabricator
+Curb (Unpainted)
+Curb (White)
+Curb (Yellow)
+Curb (Red)
+Tactile Sidewalk
+Manhole Cover
+Manhole Cover
+Street Light
+Street Light (Long)
+Street Light
+Street Light (Long)
+Street Light (Slant)
+Street Light (Slant)
+Post (Large)
+Post (Medium)
+Post (Small)
+Post (Large)
+Post (Medium)
+Post (Small)
+Horizontal Post (Large)
+Horizontal Post (Medium)
+Horizontal Post (Small)
+Road Barrier Standard (Mid)
+Road Barrier Standard (Edge)
+Road Barrier Standard (Double Edge)
+Road Barrier Standard End (Mid)
+Road Barrier Tall (Mid)
+Road Barrier Tall (Edge)
+Road Barrier Tall (Double Edge)
+Concrete Barrier (Mid)
+Concrete Barrier (Mid)
+Bars (Mid)
+Bars (Mid)
+Bars (Mid)
+Concrete Wall (Mid)
+Concrete Wall (Mid)
+Bars with Concrete Post (Mid)
+Bars with Concrete Post (Mid)
+Concrete Wall with Pole (Mid)
+Concrete Wall with Pole (Mid)
+Barrier Low (Mid)
+Concrete Wall (Edge)
+Concrete Wall (Edge)
+Bars (Edge)
+Bars (Edge)
+Bars (Edge)
+Concrete Barrier (Edge)
+Concrete Barrier (Edge)
+Bars with Concrete Post (Edge)
+Bars with Concrete Post (Edge)
+Concrete Wall with Pole (Edge)
+Concrete Wall with Pole (Edge)
+Barrier Low (Edge)
+Bars (Double Edge)
+Bars (Double Edge)
+Bars (Double Edge)
+Concrete Wall (Double Edge)
+Concrete Wall (Double Edge)

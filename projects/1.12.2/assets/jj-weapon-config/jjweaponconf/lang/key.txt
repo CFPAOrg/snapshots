@@ -1,0 +1,7 @@
+config.general.weapons
+config.general.weapons_desc
+tooltip.find
+tooltip.speed
+tooltip.damage
+jjweaponconf.chat.new_update_1
+jjweaponconf.chat.new_update_2

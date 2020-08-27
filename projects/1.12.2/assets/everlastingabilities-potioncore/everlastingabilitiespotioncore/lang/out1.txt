@@ -1,0 +1,81 @@
+Max drowining level
+Rarity of drowining
+Xp required per drowining level
+Max antidote level
+Rarity of antidote
+Xp required per antidote level
+Max purity level
+Rarity of purity
+Xp required per purity level
+Max slowfall level
+Rarity of slowfall
+Xp required per slowfall level
+Max solid core level
+Rarity of solid core
+Xp required per solid core level
+Max climb level
+Rarity of climb
+Xp required per climb level
+Max reach level
+Rarity of reach
+Xp required per reach level
+Max iron skin level
+Rarity of iron skin
+Xp required per iron skin level
+Max diamond skin level
+Rarity of diamond skin
+Xp required per diamond skin level
+Max recoil level
+Rarity of recoil
+Xp required per recoil level
+Max magic focus level
+Rarity of magic focus
+Xp required per magic focus level
+Max magic shielding level
+Rarity of magic shielding
+Xp required per magic shielding level
+Max revival level
+Rarity of revival
+Xp required per revival level
+Max repair level
+Rarity of repair
+Xp required per repair level
+Max extension level
+Rarity of extension
+Xp required per extension level
+Max bless level
+Rarity of bless
+Xp required per bless level
+Max cure level
+Rarity of cure
+Xp required per cure level
+Max broken armor level
+Rarity of broken armor
+Xp required per broken armor level
+Max weight level
+Rarity of weight
+Xp required per weight level
+Max klutz level
+Rarity of klutz
+Xp required per klutz level
+Max invert level
+Rarity of invert
+Xp required per invert level
+Max vulnerable level
+Rarity of vulnerable
+Xp required per vulnerable level
+Max magic inhibition level
+Rarity of magic inhibition
+Xp required per magic inhibition level
+Max explosion level
+Rarity of explosion
+Xp required per explosion level
+Max combustion level
+Rarity of combustion
+Xp required per combustion level
+Max lightning level
+Rarity of lightning
+Xp required per lightning level
+Max launch level
+Rarity of launch
+Xp required per launch level

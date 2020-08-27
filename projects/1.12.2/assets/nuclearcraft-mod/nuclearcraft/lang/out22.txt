@@ -1,0 +1,93 @@
+Tiny Clump of Californium-250 Oxide
+Californium-251
+Californium-251 Oxide
+Tiny Clump of Californium-251
+Tiny Clump of Californium-251 Oxide
+Californium-252
+Californium-252 Oxide
+Tiny Clump of Californium-252
+Tiny Clump of Californium-252 Oxide
+An isotope of Californium.
+TBU Fuel
+TBU Oxide Fuel
+LEU-233 Fuel
+LEU-233 Oxide Fuel
+HEU-233 Fuel
+HEU-233 Oxide Fuel
+LEU-235 Fuel
+LEU-235 Oxide Fuel
+HEU-235 Fuel
+HEU-235 Oxide Fuel
+LEN-236 Fuel
+LEN-236 Oxide Fuel
+HEN-236 Fuel
+HEN-236 Oxide Fuel
+LEP-239 Fuel
+LEP-239 Oxide Fuel
+HEP-239 Fuel
+HEP-239 Oxide Fuel
+LEP-241 Fuel
+LEP-241 Oxide Fuel
+HEP-241 Fuel
+HEP-241 Oxide Fuel
+MOX-239 Fuel
+MOX-241 Fuel
+LEA-242 Fuel
+LEA-242 Oxide Fuel
+HEA-242 Fuel
+HEA-242 Oxide Fuel
+LECm-243 Fuel
+LECm-243 Oxide Fuel
+HECm-243 Fuel
+HECm-243 Oxide Fuel
+LECm-245 Fuel
+LECm-245 Oxide Fuel
+HECm-245 Fuel
+HECm-245 Oxide Fuel
+LECm-247 Fuel
+LECm-247 Oxide Fuel
+HECm-247 Fuel
+HECm-247 Oxide Fuel
+LEB-248 Fuel
+LEB-248 Oxide Fuel
+HEB-248 Fuel
+HEB-248 Oxide Fuel
+LECf-249 Fuel
+LECf-249 Oxide Fuel
+HECf-249 Fuel
+HECf-249 Oxide Fuel
+LECf-251 Fuel
+LECf-251 Oxide Fuel
+HECf-251 Fuel
+HECf-251 Oxide Fuel
+Base process time: %s min
+Base power: %s RF/t
+Base heat gen: %s H/t
+Depleted TBU Fuel
+Depleted TBU Oxide Fuel
+Depleted LEU-233 Fuel
+Depleted LEU-233 Oxide Fuel
+Depleted HEU-233 Fuel
+Depleted HEU-233 Oxide Fuel
+Depleted LEU-235 Fuel
+Depleted LEU-235 Oxide Fuel
+Depleted HEU-235 Fuel
+Depleted HEU-235 Oxide Fuel
+Depleted LEN-236 Fuel
+Depleted LEN-236 Oxide Fuel
+Depleted HEN-236 Fuel
+Depleted HEN-236 Oxide Fuel
+Depleted LEP-239 Fuel
+Depleted LEP-239 Oxide Fuel
+Depleted HEP-239 Fuel
+Depleted HEP-239 Oxide Fuel
+Depleted LEP-241 Fuel
+Depleted LEP-241 Oxide Fuel
+Depleted HEP-241 Fuel
+Depleted HEP-241 Oxide Fuel
+Depleted MOX-239 Fuel
+Depleted MOX-241 Fuel
+Depleted LEA-242 Fuel
+Depleted LEA-242 Oxide Fuel
+Depleted HEA-242 Fuel
+Depleted HEA-242 Oxide Fuel

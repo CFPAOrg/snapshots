@@ -1,0 +1,46 @@
+Types of log types to write to disk. Putting socket_event in is the only way to see the raw event information (from the log file) as it is not printed to console. Everything else will still be print to console.
+Default profile name. If set to "default loads from the main CCI directory. If set, will read from that folder within the main CCI directory instead. Change in-game with /cci profile <name>
+Whitelisted Users. These users will be able to trigger serverside outcomes.
+Converts the list of whitelisted users to be the list of blacklisted users.
+/cci profile <name>
+Profile changed to %s
+Error changing profile to %s
+/cci replay <layer> <index (0-19)>
+No cache for %s found.
+No events logged for %s.
+Index too high!
+/cci reconnect <layer|all>
+Failed to reconnect %s
+/cci disconnect <layer|all>
+Failed to disconnect %s
+No sockets.
+You are trying to whitelist another user from a client! It has to be done on the server console!
+Whitelisted %s.
+That user is already whitelisted.
+%s not whitelisted.
+%s removed from whitelist.
+Blacklist now set to %s
+CCI Debug Mode turned on.
+Debug Mode allows CCI to read past Streamlabs/StreamElements events in a "test.log" file. Copy out their event lines from the logs and put it in a "test.log" file in your profile folder (where all the json files are). Hit Shift+Tab to cycle through the lines of test.log. You should have your console open to see the outputs.
+Successfully dumped cached events to dump.json.
+Failed to dump events to dump.json
+Add New Component
+Remove Current Component
+Move Component Up
+Move Component Down
+Edit Component
+Enter Component
+Save and Apply
+Reload Configuration Files
+Exit Without Saving
+Save and Exit
+Statistics
+Shift-click to reset statistics
+Statistics
+Editing
+Invalid input
+Confirm exit?
+Detected changes. Are you sure you would like to exit?
+Sidebar
+Statistics collection disabled!
+Content Creator Integration has taken effect on:

@@ -1,0 +1,16 @@
+itemGroup.wishingforsunshine
+tile.well.name
+wishingforsunshine.message.rain
+wishingforsunshine.message.thunder
+wishingforsunshine.message.sunshine
+wishingforsunshine.message.sunrise
+wishingforsunshine.message.midday
+wishingforsunshine.message.sunset
+wishingforsunshine.message.midnight
+wishingforsunshine.type.midday
+wishingforsunshine.type.midnight
+wishingforsunshine.type.rain
+wishingforsunshine.type.sunrise
+wishingforsunshine.type.sunset
+wishingforsunshine.type.sunshine
+wishingforsunshine.type.thunder

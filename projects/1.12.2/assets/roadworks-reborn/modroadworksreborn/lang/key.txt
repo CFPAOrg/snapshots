@@ -1,0 +1,12 @@
+tile.modroadworksreborn.tar.name
+item.modroadworksreborn.sidestripepainter.name
+item.modroadworksreborn.sidestripepainteryellow.name
+item.modroadworksreborn.midstripepainter.name
+item.modroadworksreborn.midstripepainteryellow.name
+item.modroadworksreborn.extrastripepainter.name
+item.modroadworksreborn.extrastripepainteryellow.name
+item.modroadworksreborn.arrowpainter.name
+item.modroadworksreborn.arrowpainteryellow.name
+itemGroup.Roadworks Reborn
+key.extrastripepainter.change
+key.roadworksreborn.category

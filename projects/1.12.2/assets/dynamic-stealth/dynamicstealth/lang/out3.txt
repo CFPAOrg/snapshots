@@ -1,0 +1,26 @@
+Bypass
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an entity that bypasses the threat system\n \n
+Idle (Passive)
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an idle passive entity\n \n
+Idle (Non-Passive)
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an idle non-passive entity.  This also applies to idle passive entities if the server has passive recognition disabled\n \n
+Attacking You
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an entity that is attacking YOU\n \n
+Attacking Other
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an entity that is attacking something besides you\n \n
+Searching
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an entity that is actively searching for a target\n \n
+Fleeing (Passive)
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on a passive entity that is fleeing\n \n
+Fleeing (Non-Passive)
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on a non-passive entity that is fleeing\n \n
+Dazed
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on a dazed entity\n \n
+Glow
+FILLSCREEN FIXNEWLINES If true, the currently targeted entity is highlighted with a glow effect\n \n
+State-Colored Glow
+FILLSCREEN FIXNEWLINES If this and Glow are both set to true, the currently targeted entity glows in a color pertaining to its current state instead of white\n \n
+Reticle Opacity
+FILLSCREEN FIXNEWLINES How visible the targeting reticle is, transparency-wise\n\n0 means invisible, 1 means completely opaque\n \n
+Default Reticle Color
+FILLSCREEN FIXNEWLINES The color of the targeting reticle, if state-colored reticle is false\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n

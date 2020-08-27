@@ -1,0 +1,46 @@
+Transparent Solar Panel which generates energy if one of two blocks in front are in sunlight.
+Generates energy using the movement of wind.
+Generates energy using the movement of tides.
+Stores energy for later use. Input on Green side, output on Red.
+Increases the efficiency of adjacent machines.
+The main control block for an Aquaponic Tank
+An automation port for an Aquaponic Tank
+A decorative plastic frame
+Responds to messages sent by the player
+A nozzle used by the Diffuser.
+A crafting ingredient used to create nozzles.
+Multiplies the range and effectiveness of the Diffuser by %1$s and %2$s respectively.
+Multiplies the range of the Diffuser by %s.
+Multiplies the effectiveness of the Diffuser by %s.
+Used in the Optimiser. Provides %s Cores.
+A bulb used in a Hydroponic Grow Light.
+An empty syringe used for collecting tissue samples from animals.
+Raw Synthetic %s Meat
+Cooked Synthetic %s Meat
+Sample of %s Tissue
+Syringe of %s Tissue
+Looks like %s meat
+Tastes like %s meat
+A sample containing %s tissue.
+A syringe containing %s tissue.
+Requires %sRF per tick.
+Requires %smB of fluid per tick.
+Requires %smB of water per tick.
+Requires %smB of CO2 per tick.
+Requires %sC heat per tick.
+Provides a %s percent growth boost per tick;
+Only functions in Ocean, Deep Ocean and Beach biomes.
+Requires at least %s surrounding water blocks.
+Requires at least %s surrounding air blocks.
+Must be placed at water's surface.
+(x2 when at level between Y%1$s and Y%2$s)
+Generates %sRF per tick.
+Provides %smB of fluid per tick.
+Provides %smB of water per tick.
+Provides %smB of CO2 per tick.
+Generates %sK heat per tick.
+Provides a %s percent chance of growth boost per tick.
+Gains %1$sK in sunlight and loses %2$sK in darkness.
+Boosts plant growth up to %s blocks below.
+Boosts plant growth up to %s blocks to the North, East, South or West sides.
+Boosts machine efficiency up to %s blocks to the North, East, South or West sides.

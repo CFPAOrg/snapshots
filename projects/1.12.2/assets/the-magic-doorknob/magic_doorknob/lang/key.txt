@@ -1,0 +1,7 @@
+item.magic_doorknob.magic_doorknob.diamond.name
+item.magic_doorknob.magic_doorknob.gold.name
+item.magic_doorknob.magic_doorknob.iron.name
+item.magic_doorknob.magic_doorknob.stone.name
+item.magic_doorknob.magic_doorknob.wood.name
+tile.magic_doorknob.magic_doorway.name
+tile.magic_doorknob.magic_door.name

@@ -1,0 +1,2 @@
+enchantment.air_hop
+enchantment.airhop.air_hop.desc

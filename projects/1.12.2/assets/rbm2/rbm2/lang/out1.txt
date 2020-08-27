@@ -1,0 +1,60 @@
+Iron Reinforced Red Terracotta
+Iron Reinforced Black Terracotta
+Gold Reinforced Stone
+Gold Reinforced Andesite
+Gold Reinforced Granite
+Gold Reinforced Diorite
+Gold Reinforced Polished Diorite
+Gold Reinforced Polished Granite
+Gold Reinforced Polished Andesite
+Gold Reinforced Cobblestone
+Gold Reinforced Moss Stone
+Gold Reinforced Sandstone
+Gold Reinforced Bricks
+Gold Reinforced End Stone
+Gold Reinforced End Stone Bricks
+Gold Reinforced Nether Brick
+Gold Reinforced Netherrack
+Gold Reinforced Purpur
+Gold Reinforced Purpur Pillar
+Gold Reinforced Block Of Quartz
+Gold Reinforced Chiseled Sandstone
+Gold Reinforced Smooth Sandstone
+Gold Reinforced Chiseled Red Sandstone 
+Gold Reinforced Smooth Red Sandstobe 
+Gold Reinforced Red Sandstone
+Gold Reinforced Stone Bricks
+Gold Reinforced Cracked Stone Bricks
+Gold Reinforced Mossy Stone Bricks
+Gold Reinforced Chiseled Stone Bricks
+Gold Reinforced Terracotta
+Gold Reinforced White Terracotta
+Gold Reinforced Orange Terracotta
+Gold Reinforced Magenta Terracotta
+Gold Reinforced Light Blue Terracotta
+Gold Reinforced Yellow Terracotta
+Gold Reinforced Lime Terracotta
+Gold Reinforced Pink Terracotta
+Gold Reinforced Gray Terracotta
+Gold Reinforced Light Gray Terracotta
+Gold Reinforced Cyan Terracotta
+Gold Reinforced Purple Terracotta
+Gold Reinforced Blue Terracotta
+Gold Reinforced Brown Terracotta
+Gold Reinforced Green Terracotta
+Gold Reinforced Red Terracotta
+Gold Reinforced Black Terracotta
+ Diamond Reinforced Oak Planks
+ Diamond Reinforced Birch Planks
+ Diamond Reinforced Spruce Planks
+ Diamond Reinforced Jungle Planks
+ Diamond Reinforced Acacia Planks
+ Diamond Reinforced Dark Oak Planks
+Diamond Reinforced Stone
+Diamond Reinforced Andesite
+Diamond Reinforced Granite
+Diamond Reinforced Diorite
+Diamond Reinforced Polished Diorite
+Diamond Reinforced Polished Granite
+Diamond Reinforced Polished Andesite
+Diamond Reinforced Cobblestone

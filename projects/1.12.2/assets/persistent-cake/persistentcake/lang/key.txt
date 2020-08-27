@@ -1,0 +1,4 @@
+config.persistentcake.harvestcraft
+config.persistentcake.harvestcraft.tooltip
+config.persistentcake.vanilla
+config.persistentcake.vanilla.tooltip

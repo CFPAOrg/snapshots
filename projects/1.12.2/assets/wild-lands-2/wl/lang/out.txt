@@ -1,0 +1,30 @@
+Jerboa
+Slug
+Frog
+Turkey
+Bison
+Raw Frog Leg
+Cooked Frog Leg
+Cooked Medium Bird Meat
+Raw Medium Bird Meat
+Platypus
+Buffalo
+Otter
+Giraffe
+Secretary Bird
+Turkey Egg
+Secretary Bird Egg
+Snail
+Praying Mantis
+Armadillo
+Jellyfish
+Raw Large Bird Meat
+Cooked Large Bird Meat
+Raw Small Bird Meat
+Cooked Small Bird Meat
+Raw Large Mammal Meat
+Cooked Large Mammal Meat
+Raw Small Mammal Meat
+Cooked Small Mammal Meat
+Cooked Medium Mammal Meat
+Raw Medium Mammal Meat

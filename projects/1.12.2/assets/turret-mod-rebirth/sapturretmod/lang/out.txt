@@ -1,0 +1,52 @@
+Forcefield Turret (TS)
+Healing Turret (TS)
+Ammo Items
+Arrow Pack
+Pebbles
+Pebble
+Bullets
+Bullet Pack
+FT Fuel
+FT Fuel Pack
+Glistering Melon Bundle
+Ender Pearl Bundle
+Turret Control Unit
+Turret Info Book
+Mobile Base
+High Tech Turret Module
+TB50 Ballistic Rocket
+TB75 Ballistic Rocket
+TB100 Ballistic Rocket
+TG50 Guided Rocket
+TG75 Guided Rocket
+TG100 Guided Rocket
+Artillery Shell
+Artillery Shell
+Big Artillery Shell
+Big Artillery Shell
+Napalm Artillery Shell
+Napalm Artillery Shell
+Big Napalm Artillery Shell
+Big Napalm Artillery Shell
+Frag Artillery Shell
+Frag Artillery Shell
+Turret Music Disc
+Kubbi - Tidal Force
+Turret Mod
+Turret Mod Menu
+Get the Infos!
+Read the Turret Info Book
+First Strike!
+Cause your first death with your turret
+Multi-Kill!
+Kill multiple targets with your Shotgun Turret
+Take The Control!
+Use the TCU on a turret for the first time
+Cam-Kill!
+Kill something while riding your turret
+Upgrade Your Stuff!
+Upgrade one of your turrets for the first time
+Piercing Blast!
+Cause 10 Kills in 10 seconds with your T2 Minigun Turret
+Turret labels will be rendered
+Turret labels won't be rendered

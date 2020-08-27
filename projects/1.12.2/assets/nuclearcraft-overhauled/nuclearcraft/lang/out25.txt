@@ -1,0 +1,95 @@
+LEU-233
+LEU-233 Carbide
+HEU-233
+HEU-233 Carbide
+LEU-235
+LEU-235 Carbide
+HEU-235
+HEU-235 Carbide
+LEN-236
+LEN-236 Carbide
+HEN-236
+HEN-236 Carbide
+LEP-239
+LEP-239 Carbide
+HEP-239
+HEP-239 Carbide
+LEP-241
+LEP-241 Carbide
+HEP-241
+HEP-241 Carbide
+MIX-239
+MIX-239 Carbide
+MIX-241
+MIX-241 Carbide
+LEA-242
+LEA-242 Carbide
+HEA-242
+HEA-242 Carbide
+LECm-243
+LECm-243 Carbide
+HECm-243
+HECm-243 Carbide
+LECm-245
+LECm-245 Carbide
+HECm-245
+HECm-245 Carbide
+LECm-247
+LECm-247 Carbide
+HECm-247
+HECm-247 Carbide
+LEB-248
+LEB-248 Carbide
+HEB-248
+HEB-248 Carbide
+LECf-249
+LECf-249 Carbide
+HECf-249
+HECf-249 Carbide
+LECf-251
+LECf-251 Carbide
+HECf-251
+HECf-251 Carbide
+TBU TRISO Fuel Pebble
+TBU Oxide Fuel Pellet
+TBU Nitride Fuel Pellet
+TBU-Zirconium Alloy Fuel Pellet
+LEU-233 TRISO Fuel Pebble
+LEU-233 Oxide Fuel Pellet
+LEU-233 Nitride Fuel Pellet
+LEU-233-Zirconium Alloy Fuel Pellet
+HEU-233 TRISO Fuel Pebble
+HEU-233 Oxide Fuel Pellet
+HEU-233 Nitride Fuel Pellet
+HEU-233-Zirconium Alloy Fuel Pellet
+LEU-235 TRISO Fuel Pebble
+LEU-235 Oxide Fuel Pellet
+LEU-235 Nitride Fuel Pellet
+LEU-235-Zirconium Alloy Fuel Pellet
+HEU-235 TRISO Fuel Pebble
+HEU-235 Oxide Fuel Pellet
+HEU-235 Nitride Fuel Pellet
+HEU-235-Zirconium Alloy Fuel Pellet
+LEN-236 TRISO Fuel Pebble
+LEN-236 Oxide Fuel Pellet
+LEN-236 Nitride Fuel Pellet
+LEN-236-Zirconium Alloy Fuel Pellet
+HEN-236 TRISO Fuel Pebble
+HEN-236 Oxide Fuel Pellet
+HEN-236 Nitride Fuel Pellet
+HEN-236-Zirconium Alloy Fuel Pellet
+LEP-239 TRISO Fuel Pebble
+LEP-239 Oxide Fuel Pellet
+LEP-239 Nitride Fuel Pellet
+LEP-239-Zirconium Alloy Fuel Pellet
+HEP-239 TRISO Fuel Pebble
+HEP-239 Oxide Fuel Pellet
+HEP-239 Nitride Fuel Pellet
+HEP-239-Zirconium Alloy Fuel Pellet
+LEP-241 TRISO Fuel Pebble
+LEP-241 Oxide Fuel Pellet
+LEP-241 Nitride Fuel Pellet
+LEP-241-Zirconium Alloy Fuel Pellet
+HEP-241 TRISO Fuel Pebble
+HEP-241 Oxide Fuel Pellet
+HEP-241 Nitride Fuel Pellet

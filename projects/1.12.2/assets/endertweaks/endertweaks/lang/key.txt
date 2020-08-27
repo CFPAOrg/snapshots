@@ -1,0 +1,6 @@
+item.mite_scale.name
+item.dragon_helmet.name
+item.dragon_legs.name
+item.dragon_boots.name
+tile.mite_nest.name
+tile.glass_ender.name

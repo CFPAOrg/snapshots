@@ -1,0 +1,39 @@
+modifies the amount of seed oil squeezed from a single seed. other sources are based off this.
+modifies the amount of juice squeezed from a single apple. other sources are based off this.
+modifies the chance of mulch per squeezed apple.
+Enable the clockwork engine.
+Redstone Flux
+Enable Redstone Flux power support.
+MJ
+Enable MJ power support.
+Tesla
+Enable Tesla power support.
+Power Display Mode
+The format power will be displayed in in engine/machine interfaces.
+Enabled machines.
+List of enabled machines. Note that some things may be impossible to do if you change this!
+New custom bee name
+New custom tree name
+Forest Drone
+New Dark Oak Pollen Name
+New custom bee species name
+New custom tree species name
+New Forest drone species name when used in a beealyzer
+New Dark Oak pollen species name when used in a treealyzer
+New custom adjective
+New custom adjective for slowest worker speed, replacing forestry.allele.slowest
+New custom adjective for slowest flower pollination, replacing forestry.allele.slowest
+New custom adjective for low yield, replacing forestry.allele.low
+Slowest Worker
+Chestnut Stairs
+Kapok Wood Planks
+Wenge Wood Slab
+Mahogany Wood
+Larch Fence
+Place Forestry Frames in an Apiary to improve the bees' production rate and reduce the genetic decay of Ignoble bees.
+Pieces of the Apiarist's Suit protect the wearer from negative bee effects. A full suit offers complete protection.
+The Habitat Locator searches for the closest ideal habitat for a bee. When it has located a spot, it will point the way there. When the current location is ideal, it will spin steadily.
+The Scoop is used to break bee hives found in the world, it will collect the bees inside. It can also be used to catch butterflies by right-clicking them.
+Creative-only. Creates hybrid bees of any type.
+Used to infuse Mead with Pollen Clusters and create Curative Mead.
+Circuit Boards can be fitted with Electron Tubes by using a Soldering Iron. Once complete, they can be placed in the sockets on machine guis. Use a Soldering Iron to remove them from a socket.

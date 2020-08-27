@@ -1,0 +1,41 @@
+NuclearCraft Multiblocks
+NuclearCraft Miscellaneous
+NuclearCraft Configs
+World Gen Configs
+Configure world generation.
+Dimension List
+List of IDs of dimensions to whitelist/blacklist for ore generation.
+Whitelist/Blacklist (false/true)
+Is the dimension list a whitelist (false) or a blacklist (true)?
+Generate Ores
+Will ores generate in the world? Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Chunk Sizes
+Numbers of ore blocks per ore chunk. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Spawn Rates
+Rates at which ores generate. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Minimum Gen Heights
+Minimum heights at which ores generate. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Maximum Gen Heights
+Maximum heights at which ores generate. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Enable Extra Ore Drops
+Will vanilla ores drop extra resources? Order: rhodochrosite, beryllium dust, zirconium dust, fluorite, sulfur, villiaumite, carobbiite.
+Hide Disabled Ores
+Remove disabled ores from the Ore Dictionary and JEI?
+Ore Harvest Levels
+Pickaxe harvest levels of ores. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Generate Wasteland Biome
+Will the Wasteland Biome generate in the Overworld?
+Wasteland Biome Gen Weight
+The weight assigned to the generation of the Wasteland Biomes - higher numbers correspond to higher generation rates.
+Enable Wasteland Dimension
+Will the Wasteland Dimension be generated?
+Wasteland Dimension ID
+Set the dimension ID for the Wasteland Dimension.
+Mushroom Spread Rate
+Glowing Mushroom spread rate.
+Generate Mushrooms
+Will glowing mushrooms generate in the nether?
+Mushroom Gen Size
+Determines how many glowing mushrooms will spawn at a time.
+Mushroom Gen Rate
+Determines how often glowing mushrooms will spawn.

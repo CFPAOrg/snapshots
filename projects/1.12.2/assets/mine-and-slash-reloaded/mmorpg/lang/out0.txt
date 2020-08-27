@@ -1,0 +1,108 @@
+Common Ore
+Uncommon Ore
+Rare Ore
+Epic Ore
+Legendary Ore
+Mythical Ore
+Common Ore Block
+Uncommon Ore Block
+Rare Ore Block
+Epic Ore Block
+Legendary Ore Block
+Mythical Ore Block
+Mine and Slash
+Unique Gear
+Crafting Items
+LootBoxes
+Gear Modify Station
+Gear Repair Station
+Gear Salvage Station
+Map Device
+Precious Ore that can be used in many ways
+If your experience bar is full, use this item to levelup!
+Creates a pack of level one gear.
+Three Furnaces below, five iron wills above,
+seed in the middle, materialize hope!
+Put Inside Repair Station to decrease fuel consumption.
+Fuel Multiplier
+This Gem can be inserted into a Socket slot
+§7Common Axe
+§aUncommon Axe
+§eRare Axe
+§9Epic Axe
+§6Legendary Axe
+§dMythical Axe
+§7Common Boots
+§aUncommon Boots
+§eRare Boots
+§9Epic Boots
+§6Legendary Boots
+§dMythical Boots
+§7Common Bow
+§aUncommon Bow
+§eRare Bow
+§9Epic Bow
+§6Legendary Bow
+§dMythical Bow
+§7Common Bracelet
+§aUncommon Bracelet
+§eRare Bracelet
+§9Epic Bracelet
+§6Legendary Bracelet
+§dMythical Bracelet
+§7Common Charm
+§aUncommon Charm
+§eRare Charm
+§9Epic Charm
+§6Legendary Charm
+§dMythical Charm
+§7Common Chest
+§aUncommon Chest
+§eRare Chest
+§9Epic Chest
+§6Legendary Chest
+§dMythical Chest
+§7Common Hammer
+§aUncommon Hammer
+§eRare Hammer
+§9Epic Hammer
+§6Legendary Hammer
+§dMythical Hammer
+§7Common Helmet
+§aUncommon Helmet
+§eRare Helmet
+§9Epic Helmet
+§6Legendary Helmet
+§dMythical Helmet
+§7Common Necklace
+§aUncommon Necklace
+§eRare Necklace
+§9Epic Necklace
+§6Legendary Necklace
+§dMythical Necklace
+§7Common Pants
+§aUncommon Pants
+§eRare Pants
+§9Epic Pants
+§6Legendary Pants
+§dMythical Pants
+§7Common Ring
+§aUncommon Ring
+§eRare Ring
+§9Epic Ring
+§6Legendary Ring
+§dMythical Ring
+§7Common Staff
+§aUncommon Staff
+§eRare Staff
+§9Epic Staff
+§6Legendary Staff
+§dMythical Staff
+§7Common Sword
+§aUncommon Sword
+§eRare Sword
+§9Epic Sword
+§6Legendary Sword
+§dMythical Sword
+§7Adventure Map
+§aAdventure Map

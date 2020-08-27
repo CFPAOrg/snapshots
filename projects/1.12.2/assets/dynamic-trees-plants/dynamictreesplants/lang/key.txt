@@ -1,0 +1,17 @@
+item.dynamictreesplants:blackkauriseed.name
+item.dynamictreesplants:brazilianpineseed.name
+item.dynamictreesplants:incensecedarseed.name
+item.dynamictreesplants:murraypineseed.name
+item.dynamictreesplants:ashenseed.name
+item.dynamictreesplants:blazingseed.name
+item.dynamictreesplants:crystalseed.name
+tile.dynamictreesplants:leaves0.name
+tile.dynamictreesplants:leaves1.name
+tile.dynamictreesplants:blackkauribranch.name
+tile.dynamictreesplants:brazilianpinebranch.name
+tile.dynamictreesplants:incensecedarbranch.name
+tile.dynamictreesplants:murraypinebranch.name
+tile.dynamictreesplants:ashenbranch.name
+tile.dynamictreesplants:blazingbranch.name
+tile.dynamictreesplants:crystalbranch.name
+tile.dynamictreesplants:darkcrystalbranch.name

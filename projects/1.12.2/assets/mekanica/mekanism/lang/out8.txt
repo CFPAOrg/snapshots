@@ -1,0 +1,18 @@
+A machine that serves as an upgrade to regular machinery, allowing for multiple processing operations to occur at once.
+A condensed, coiled resistor capable of converting electrical energy directly into heat energy.
+A machine that uses energy to rapidly craft items and blocks from Crafting Formulas. Doubles as an advanced crafting bench.
+A machine that is capable of producing large quantities of heat energy by burning combustible items.
+A highly-advanced block capable of transmitting any practical resource across long distances and dimensions.
+A generator that uses the heat of lava or other burnable resources to produce energy.
+A generator that uses the power of the sun to produce energy.
+A generator that harnesses the molecular varying gasses to produce energy.
+A generator that burns organic materials of the world to produce energy.
+An advanced generator that directly absorbs the sun's rays with little loss to produce energy.
+A generator that uses the strength of the wind to produce energy, with greater efficiency at higher levels.
+The steel rod that is used to house Turbine Blades within an Industrial Turbine.
+A connector that is placed on the highest Turbine Rotor of an Industrial Turbine to carry kinetic energy into its Electromagnetic Coils.
+A block that converts kinetic energy from a Rotational Complex into useable electricity. These can be placed in any arrangement above your Rotational Complex, as long as they are all touching each other and the complex itself.
+Pressure-resistant casing used in the creation of an Industrial Turbine.
+A type of Turbine Casing that includes a port for the transfer of energy and steam.
+A type of Turbine Casing with an integrated vent for the release of steam. These should be placed on the level of or above the turbine's Rotational Complex.
+A block that condenses steam processed by an Industrial Turbine into reusable water. These can be placed in any arrangement above your rotational complex.

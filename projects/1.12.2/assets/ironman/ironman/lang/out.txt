@@ -1,0 +1,39 @@
+IronMan
+IronMan Suits
+Sensor Suit
+%NAME %PART
+Chestpiece
+Legs
+Boots
+Faceplate
+Exit Suit
+Toggle Flight
+Mark 1
+Mark 2
+Mark 30
+Mark 43
+Mark 45
+War Machine Mark 2
+Arc Reactor
+Palladium Core
+Suit Spawner
+%SUIT Helmet
+%SUIT Faceplate
+%SUIT Chest
+%SUIT Right Arm
+%SUIT Left Arm
+%SUIT Right Leg
+%SUIT Left Leg
+Suit Constructor
+Repulsor on
+Repulsor off
+Repulsor shot
+Durability
+Damage Reduction
+Vertical Flight Speed
+Horizontal Flight Speed
+Construct
+System: %s
+On
+Off
+Dismantle

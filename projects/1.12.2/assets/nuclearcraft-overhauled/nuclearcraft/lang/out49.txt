@@ -1,0 +1,31 @@
+Horse Armor
+If enabled, horses can be equipped with radiation-protective armor.
+Registration Configs
+Configure content registration.
+Register Processors
+Register processors to the game? Order: Nuclear Furnace, Manufactory, Separator, Decay Hastener, Fuel Reprocessor, Alloy Furnace, Fluid Infuser, Melter, Supercooler, Electrolyzer, Assembler, Ingot Former, Pressurizer, Chemical Reactor, Fluid Mixer, Crystallizer, Fluid Enricher, Fluid Extractor, Centrifuge, Rock Crusher.
+Register Passive Machines
+Register passive machine to the game? Order: Cobblestone Generator, Infinite Water Source, Nitrogen Collector.
+Register Batteries
+Register battery blocks to the game? Order: Voltaic Pile, Lithium Ion Battery.
+Quantum Computer Registration
+Register quantum computers to the game?
+Register Tools
+Register tool types to the game? Order: boron, tough alloy, hard carbon, boron nitride.
+TiC Tool Material Registration
+Will these materials be registered as tool materials for Tinkers' Construct? Order: boron, tough alloy, hard carbon, boron nitride, thorium, uranium, magnesium, chocolate.
+Register Armor
+Register armor types to the game? Order: boron, tough alloy, hard carbon, boron nitride.
+ConArm Armor Material Registration
+Will these materials be registered as armor materials for Construct's Armory? Order: boron, tough alloy, hard carbon, boron nitride, thorium, uranium, magnesium, chocolate.
+Entity Spawn Registration
+Will these entities be registered to spawn? Order: feral ghoul.
+Register Fluid Blocks
+Register fluid blocks? Keep false if running low on block IDs.
+Register CoFH Fluid Alternatives
+Register alternative Thermal Foundation fluids? It is recommended that this is set to true if no CoFH mods are installed.
+Register Base EMC Values
+Register NC raw material EMC values if ProjectE is installed?
+Misc Configs
+Miscellaneous configurations.
+Single Creative Tab

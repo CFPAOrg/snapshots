@@ -1,0 +1,16 @@
+item.lightpowder.name
+tile.aqua_light.name
+tile.lit_aqua_light.name
+tile.blue_light.name
+tile.lit_blue_light.name
+tile.green_light.name
+tile.lit_green_light.name
+tile.orange_light.name
+tile.lit_orange_light.name
+tile.purple_light.name
+tile.lit_purple_light.name
+tile.red_light.name
+tile.lit_red_light.name
+tile.yellow_light.name
+tile.lit_yellow_light.name
+itemGroup.aquatab

@@ -1,0 +1,106 @@
+Magical Bow: Manalite
+Ore Compass
+Composite Sword
+Composite Pickaxe
+Composite Axe
+Composite Shovel
+Composite Hoe
+Composite Helmet
+Composite Chestplate
+Composite Leggings
+Composite Boots
+Cavenic Skeleton
+Cavenic Creeper
+Cavenic Zombie
+Cavenic Spider
+Crazy Skeleton
+Crazy Creeper
+Crazy Zombie
+Crazy Spider
+Cavenic Bear
+Cavenic Witch
+Summoned
+Caveman
+%1$s exhausted MP to death
+Cavern
+Cavern
+Enter the Cavern dimension
+Aquamarine
+Acquire an aquamarine
+Aqua Cavern
+Enter the Aqua Cavern dimension
+Aqua Mining
+Construct an aquamarine pickaxe
+Magniter
+Smelt a magnite ingot
+Restive Tool
+Construct a magnite tool
+Sweet Jewel
+Acquire a hexcite
+Strange Ore
+Mine a randomite ore
+Miner's Treasure
+Acquire a miner's thought orb
+Ore Finder
+Construct a ore compass
+Ruins Cavern
+Enter the Ruins Cavern dimension
+Wonder Fissure
+Mine a fissure block
+Iron Miner
+Become a iron miner
+Gold Miner
+Become a gold miner
+Hexcite Miner
+Become a hexcite miner
+Diamond Miner
+Become a diamond miner
+Good Mine!
+Mine many ores continuously
+Where to plant?
+Pick up a sapling
+Caveland
+Enter the Caveland dimension
+Sturdy Crop
+Harvest an acresia with shears
+Ice Stuff
+Acquire a packed ice
+Ice Cavern
+Enter the Ice Cavern dimension
+Ice Charge
+Charge an ice equipment with ice
+Beware of Slip
+Walk on a slippery ice
+Study Magic
+Acquire a magical book
+Take a break
+Use too much magic
+Magical Power
+Acquire a manalite
+Magical Boost
+Construct a magical weapon
+Magician
+Become a magician
+Flamethrower
+Success a flame breath magic
+Exploder
+Success a explosion magic
+Warp
+Success a warp magic
+Summoner
+Success a summon magic
+Compositer
+Success a compositing magic
+Fantastic Tools
+Construct a composite tool by the compositing magic
+Mage
+Become a mage
+Grand Mage
+Become a grand mage
+Cavenic Hunter
+Kill one of every cavenic monster
+Cavenic Orb
+Obtain a cavenic orb
+Bow Expert
+Obtain a cavenic bow
+Hello, Caveman

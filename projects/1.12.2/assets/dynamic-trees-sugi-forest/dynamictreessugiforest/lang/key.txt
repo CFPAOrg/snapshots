@@ -1,0 +1,3 @@
+item.dynamictreessugiforest:sugiseed.name
+tile.dynamictreessugiforest:leaves0.name
+tile.dynamictreessugiforest:sugibranch.name

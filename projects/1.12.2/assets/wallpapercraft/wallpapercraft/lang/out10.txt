@@ -1,0 +1,94 @@
+Damask Salmon Red
+Damask Brown Red
+Damask Dark Brown Red
+Damask Light Magenta
+Damask Magenta
+Damask Dark Magenta
+Damask Violet
+Damask Dark Violet
+Damask Light Violet
+Damask Light Purple
+Damask Purple
+Damask Dark Purple
+Damask Royal Blue
+Damask Light Lavender
+Damask Lavender
+Damask Azure Blue
+Damask Dark Blue
+Damask Midnight Blue
+Damask Light Blue
+Damask Light Sky Blue
+Damask Sky Blue
+Damask Dark Sky Blue
+Damask Navy Blue
+Damask Light Baby Blue
+Damask Baby Blue
+Damask Bright Blue
+Damask Medium Blue
+Damask Deep Blue
+Damask Light Aqua Blue
+Damask Aqua Blue
+Damask Dark Aqua Blue
+Damask Ocean Blue
+Damask Midnight Blue
+Damask Soft Orange
+Damask Sienna brown
+Damask Burnt Sienna Brown
+Damask Earth Brown
+Damask Soil Brown
+Damask Light Beige
+Damask Beige
+Damask Terracotta Red
+Damask Brown
+Damask Saddle Brown
+Damask Light Gray Brown
+Damask Gray Brown
+Damask Middle Gray Brown
+Damask Gray Brown
+Damask Dark Gray Brown
+Damask Light Green Blue
+Damask Light Turquoise Blue
+Damask Turquoise Blue
+Damask Teal Blue
+Damask Dark Teal Blue
+Damask Light Seafoam Blue Green
+Damask Seafoam Blue Green
+Damask Blue Green
+Damask Dark Blue Green
+Damask Dark Pine Blue Green
+Damask Light Green
+Damask Light Spring Green
+Damask Spring Green
+Damask Green
+Damask Dark Green
+Damask Light Summer Green
+Damask Summer Green
+Damask Lush Green
+Damask Deep Lush Green
+Damask Dark Lush Green
+Damask Light Spring Green
+Damask Spring Green
+Damask Light Olive Green
+Damask Olive Green
+Damask Moss Green
+Damask Light Lemon Yellow
+Damask Lemon Yellow
+Damask Sunny Yellow
+Damask Soft Yellow
+Damask Orange Yellow
+Damask Light Sand Yellow
+Damask Light Yellow
+Damask Yellow
+Damask Gold Yellow
+Damask Dark Orange
+Damask Light Orange
+Damask Sunny Orange
+Damask Orange
+Damask Deep Orange
+Damask Orange Red
+Damask White Gray
+Damask Light Gray
+Damask Gray
+Damask Dark Gray
+Damask Gray Black
+Damask Light Warm Gray

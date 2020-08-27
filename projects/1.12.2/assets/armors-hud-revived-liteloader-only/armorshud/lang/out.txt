@@ -1,0 +1,9 @@
+Toggle Armors HUD
+Cycle HUD Location
+Armors HUD Settings
+Bottom Right
+Bottom Left
+Top Center
+AHUDR: Enabled
+AHUDR: Disabled
+Armors HUD Revived

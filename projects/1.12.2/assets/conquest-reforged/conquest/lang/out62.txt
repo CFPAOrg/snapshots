@@ -1,0 +1,68 @@
+Jungle Frame Planks Arrow Slit
+none
+Oak Planks 1 Arrow Slit
+Reinforced Oak Planks Arrow Slit
+Nailed Oak Planks Arrow Slit
+Iron Spruce Planks Arrow Slit
+Ash Planks Arrow Slit
+Vertical Oak Planks Arrow Slit
+White Painted Planks Arrow Slit
+Gray Painted Planks Arrow Slit
+Horizontal Carved Spruce Wood Arrow Slit
+Pine Planks Arrow Slit
+Stave Planks Arrow Slit
+Wall of Oak Logs Arrow Slit
+Wall of Spruce Logs Arrow Slit
+None
+None
+Oak Beam Capital
+Spruce Wood Planks Capital
+Oak Platform Capital
+Spruce Platform Capital
+Spruce Planks (Vertical) Capital
+Red Acacia Planks Capital
+Driftwood Capital
+Mossy Planks Capital
+Birch Wood Planks Capital
+Jungle Wood Planks Capital
+Acacia Wood Planks Capital
+Dark Oak Wood Planks Capital
+Dark Wood Planks Capitol
+Plain Light Birch Planks Capitol
+Jungle Frame Planks Capitol
+none
+Oak Planks 1 Capitol
+Reinforced Oak Planks Capitol
+Nailed Oak Planks Capitol
+Iron Spruce Planks Capitol
+Ash Planks Capitol
+Vertical Oak Planks Capitol
+White Painted Planks Capitol
+Gray Painted Planks Capitol
+Horizontal Carved Spruce Wood Capitol
+Pine Planks Capitol
+Stave Planks Capitol
+Wall of Oak Logs Capitol
+Wall of Spruce Logs Capitol
+none
+none
+Oak Beam Capital Directional
+Spruce Wood Planks Capital Directional
+Oak Platform Capital Directional
+Spruce Platform Capital Directional
+Spruce Planks (Vertical) Capital Directional
+Red Acacia Planks Capital Directional
+Driftwood Capital Directional
+Mossy Planks Capital Directional
+Birch Wood Planks Capital Directional
+Jungle Wood Planks Capital Directional
+Acacia Wood Planks Capital Directional
+Dark Oak Wood Planks Capital Directional
+Dark Wood Planks Capital Directional
+Plain Light Birch Planks Capital Directional
+Jungle Frame Planks Capital Directional
+Wooden Desk
+Oak Planks 1 Capital Directional
+Reinforced Oak Planks Capital Directional
+Nailed Oak Planks Capital Directional
+Iron Spruce Planks Capital Directional

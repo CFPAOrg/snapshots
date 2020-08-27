@@ -1,0 +1,3 @@
+&6Invalid Number!
+&6Invalid block name(id)!
+&6Invalid Color value or name!

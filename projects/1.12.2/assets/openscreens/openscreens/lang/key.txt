@@ -1,0 +1,17 @@
+itemGroup.openscreens
+tile.openscreens.backflatscreen1.name
+tile.openscreens.backflatscreen2.name
+tile.openscreens.backflatscreen3.name
+tile.openscreens.frontflatscreen1.name
+tile.openscreens.frontflatscreen2.name
+tile.openscreens.frontflatscreen3.name
+tile.openscreens.holoscreen1.name
+tile.openscreens.holoscreen2.name
+tile.openscreens.holoscreen3.name
+tooltip.openscreens.holoscreen.info
+tooltip.openscreens.holoscreen.dyeable
+tooltip.openscreens.holoscreen.moreinfo
+tooltip.openscreens.holoscreen.left
+tooltip.openscreens.holoscreen.right
+tooltip.openscreens.holoscreen.front
+tooltip.openscreens.holoscreen.top

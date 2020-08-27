@@ -1,0 +1,3 @@
+key.autopresetmap.category
+key.autopresetmap.change_action
+chat.autopresetmap.change_action

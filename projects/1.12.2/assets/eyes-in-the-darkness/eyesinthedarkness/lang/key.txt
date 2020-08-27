@@ -1,0 +1,4 @@
+sound.eyesinthedarkness.eyes.laugh
+sound.eyesinthedarkness.eyes.disappear
+sound.eyesinthedarkness.eyes.jumpscare
+entity.eyes.name

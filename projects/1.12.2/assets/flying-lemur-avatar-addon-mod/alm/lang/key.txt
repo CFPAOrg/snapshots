@@ -1,0 +1,2 @@
+entity.ascended_flying_lemur.name
+entity.flying_lemur.name

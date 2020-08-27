@@ -1,0 +1,15 @@
+itemGroup.hcmb
+itemGroup.hcmb.microblocks
+item.hcmb:microblock.name
+item.hcmb:stone_handle.name
+item.hcmb:iron_saw.name
+item.hcmb:gold_saw.name
+item.hcmb:diamond_saw.name
+item.hcmb:emerald_saw.name
+item.hcmb:bedrock_saw.name
+hcmb:type.cover
+hcmb:type.anticover
+hcmb:type.panel
+hcmb:type.slab
+hcmb:type.antipanel
+hcmb:type.antislab

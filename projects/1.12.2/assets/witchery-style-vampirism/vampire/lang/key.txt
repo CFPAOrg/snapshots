@@ -1,0 +1,8 @@
+itemGroup.vampire
+item.vampire.stake.name
+item.vampire.chalice.name
+item.vampire.cape.name
+item.vampire.cross.name
+item.vampire.pocketwatch.name
+keybind.vampire.category
+keybind.vampire.bat

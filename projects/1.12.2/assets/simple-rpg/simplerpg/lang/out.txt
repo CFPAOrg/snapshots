@@ -1,0 +1,6 @@
+Magic Stick
+Passive
+Fire
+Lightning
+Wind
+Void

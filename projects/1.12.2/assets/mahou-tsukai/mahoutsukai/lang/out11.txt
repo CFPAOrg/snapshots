@@ -1,0 +1,51 @@
+An offset in case you don't want 0,0 to be a leyline
+Leylines Affect Mana
+Set this to false if you don't like ley lines affecting mana regen
+Leylines Render distance
+How far away Leylines can be seen
+Leylines Render height
+The Y value Ley Lines should render at
+The Fae make noise
+Toggle for Fae Sounds
+Fae Spawn Rate factor
+Modifier for Fae spawn rate
+Fae Min Spawn Count
+Min number of Fae
+Fae Max Spawn Count
+Max number of fae
+Fae are ambient
+If true, fae are ambient creatures. If false, they are normal creatures.
+Fae Spawn Weight
+Spawn weight over other creatures
+Leylines are runes
+If false, will show lines instead of runes. Lines not may not be compatible with shaders.
+Leyline Dimension List Is Blacklist
+If true, the dimension list is a blacklist. If false it is a whitelist.
+Leyline Dimension List
+Whitelist or blacklist of dimension IDs
+Shared Vision Mana Cost
+This is the cost of using the scroll
+Recall Familiar Mana Cost
+This is the cost of using the scroll
+Summon Familiar Mana Cost
+This is the cost of using the scroll
+Familiar Time to Report Surroundings
+How often the familiar tries to talk to you
+Familiar Health
+How much health the familiar has
+Familiar Ouch Chance
+The chance that a familiar will complain about being hurt.
+Familiar Exchange Mana Cost
+This is the cost of using the scroll
+Familiar's Garden Mana Cost
+This is the cost of using the scroll
+Familiar's Garden Range
+This is the range of the effect from the familiar
+Familiar's Garden Duration
+This is how many ticks it lasts from the time of using the scroll.
+Messages are sent to Action Bar
+Messages are sent to Action Bar as opposed to the Chat window
+Retribution Mana Cost (Per difference)
+This is how much mana the scroll costs per point difference.
+Retribution Mana Cost Percent Based
+Whether Retribution drains mana based on difference in health or difference in percent health.

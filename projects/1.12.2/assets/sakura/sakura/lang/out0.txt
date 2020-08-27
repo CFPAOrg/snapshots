@@ -1,0 +1,129 @@
+Kawara Block
+Kawara
+Tan Tatami
+Tatami
+No Skirt Tan Tatami
+No Skirt Tatami
+Half Tan Tatami
+Half Tatami
+No Skirt Half Tan Tatami
+No Skirt Half Tatami
+Tan Tatami Carpet
+Tatami Carpet
+No Skirt Tan Tatami Carpet
+No Skirt Tatami Carpet
+Bamboo Door
+Bamboo
+Bamboo Shoot
+Bamboo Lantern
+Bamboo Block
+Bamboo Slab
+Red MapleLeaves
+Yellow MapleLeaves
+Orange MapleLeaves
+Green MapleLeaves
+Maple Log
+Maple Log
+Red MapleSapling
+Yellow MapleSapling
+Orange MapleSapling
+Green MapleSapling
+Sakura Leaves
+Sakura Sapling
+Sakura Log
+Campfire
+Lighting Campfire
+CampfirePot
+Lighting CampfirePot
+StoneMortar
+Pepper Splint
+Vanilla Splint
+Grape Splint Stand
+Grape Splint
+Shoji
+Andon
+Rapeseed Crop
+Tomato Crop
+Eggplant Crop
+Cabbage Crop
+Radish Crop
+Redbean Crop
+Buckwheat Crop
+Pepper Crop
+Vanilla Crop
+Grape Vine
+Grape Leaves
+Maple Syrup Cauldron
+RiceCrop
+Chestnut Burr
+Sakura Diamond Ore
+Sakura Plank
+Maple Plank
+Bamboo Plank
+Barrel
+Distillation Barrel
+Kitsunebi
+Windbell
+Sunburnt Bamboo Fence
+Bamboo Fence
+Sunburnt Bamboo Slab
+Sunburnt Bamboo Block
+Buckwheat Dough
+Unfinished Udon
+Ramen Dough
+Taiko
+Maple Spile
+Bamboo Plank Slab
+Bamboo Plank Stairs
+Sakura Plank Slab
+Sakura Plank Stairs
+Maple Plank Slab
+Maple Plank Stairs
+Green Fallen Leaves
+Orange Fallen Leaves
+Red Fallen Leaves
+Yellow Fallen Leaves
+Maple Cauldron
+Straw Slab
+Straw Block
+Straw Stairs
+Bamboo Stairs
+Sunburnt Bamboo Stairs
+Bamboo Charcoal Block
+Tatara
+Iron Sand
+Pasta Dough
+Obon
+White Noren
+Pink Noren
+Blue Noren
+Fallen Leaves With Mushroom
+Zabuton
+Straw Web
+White Lantern
+Red Lantern
+Stone Lantern
+Cobblestone Lantern
+Mossy Stone Lantern
+Tempura Plate
+Sushi Plate
+Katsu Teishoku
+Burger Teishoku
+Tempura Teishoku
+Fried Teishoku
+Tamagoyaki Teishoku
+Yakiniku Teishoku
+Raw Fish Teishoku
+Cooked Fish Teishoku
+Machined Fish
+Futon
+Silk
+Bento Box
+Matsutake
+Shimeji
+Edodes
+Roasted Matsutake
+Fish Nimono
+Radish Nimono
+Pumpkin Nimono
+Okinoyaki

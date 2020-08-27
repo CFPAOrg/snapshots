@@ -1,0 +1,32 @@
+Slow-Acting RadAway Rad Removal Rate
+The rate at which rads is removed when using Slow-Acting RadAway in Rad/t.
+Rad Poisoning Time
+The time taken for a dose of radiation poisoning to be added to the player's rad count in ticks.
+RadAway Cooldown Time
+The time that must be waited between doses of RadAway in ticks.
+Rad-X Rad Resistance
+Controls the amount of rad resistance gained when consuming Rad-X.
+Rad-X Lifetime
+The time taken for one dose of Rad-X to wear off in ticks.
+Rad-X Cooldown Time
+The time that must be waited between doses of Rad-X in ticks.
+Radiation Shielding Levels
+The rad resistance levels provided by the three levels of shielding. Order: light, medium, heavy.
+Radiation Container Shielding
+If enabled along with hardcore containers, radiation shielding can be applied to tile entities.
+Radiation Hazmat Shielding
+The rad resistance levels provided by each piece of the hazmat suit. Order: headwear, chestpiece, leggings, boots.
+Scrubber Max Removal Rate
+The maximum rate at which a 100% efficiency scrubber will remove radiation as a fraction of the radiation level of the chunk it is in. Only applies when using linear scrubbing mechanics.
+Scrubber Search Radius
+The range of scrubbers' search for occluding blocks.
+Non-linear Scrubber Mechanics
+Use a non-linear scrubbing rate equation instead of the linear behaviour?
+Non-linear Scrubber Parameters
+Scrubber Recipe Lifetime
+The lifetime in ticks of one item or 250 mB of fluid in an active scrubber. Order: borax dust, RadAway, Slow-Acting RadAway
+Scrubber Recipe Power Use
+The power in RF/t scrubbers need to be supplied to run with these ingredients. Order: borax dust, RadAway, Slow-Acting RadAway
+Scrubber Recipe Efficiency
+The efficiency multiplier of an active scrubber using these ingredients. Order: borax dust, RadAway, Slow-Acting RadAway
+Geiger Block Comparator Scale

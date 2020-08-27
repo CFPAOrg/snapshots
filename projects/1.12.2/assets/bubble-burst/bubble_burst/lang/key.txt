@@ -1,0 +1,5 @@
+item.fire_stick.name
+item.bomb.name
+itemGroup.bubble_bursttab
+app.bubble_burst.bubble_game.name
+app.bubble_burst.bubble_game.desc

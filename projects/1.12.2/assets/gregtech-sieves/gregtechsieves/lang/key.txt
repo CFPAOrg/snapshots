@@ -1,0 +1,10 @@
+gregtechsieves.machine.sieve.steam.name
+gregtechsieves.machine.sieve.lv.name
+gregtechsieves.machine.sieve.mv.name
+gregtechsieves.machine.sieve.hv.name
+gregtechsieves.machine.sieve.ev.name
+gregtechsieves.machine.sieve.iv.name
+gregtechsieves.machine.sieve.luv.name
+gregtechsieves.machine.sieve.zpm.name
+gregtechsieves.machine.sieve.uv.name
+recipemap.electric_sieve.name

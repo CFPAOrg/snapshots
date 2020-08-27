@@ -1,0 +1,9 @@
+dimstack.tooltip
+item.dimstack.key.name
+tile.dimstack.portal.name
+dimstack.the_end.name
+dimstack.EREBUS.name
+dimstack.overworld.name
+dimstack.The Beneath.name
+dimstack.the_nether.name
+dimstack.teleport.info

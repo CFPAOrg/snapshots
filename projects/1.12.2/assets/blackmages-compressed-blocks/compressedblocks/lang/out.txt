@@ -1,0 +1,18 @@
+Compressed Granite
+Compressed Diorite
+Compressed Andesite
+Compressed Dirt
+Compressed Gravel
+Compressed Sand
+Compressed Red Sand
+Compressed Netherrack
+Compressed Soul Sand
+Compressed Oak Wood
+Compressed Spruce Wood
+Compressed Birch Wood
+Compressed Jungle Wood
+Compressed Acacia Wood
+Compressed Dark Oak Wood
+Compressed Clay
+Compressed Cobblestone
+Compressed Blocks

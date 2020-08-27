@@ -1,0 +1,7 @@
+fasttrading.subtitles.buttonswitching
+fasttrading.tooltip.enablebutton
+fasttrading.tooltip.disablebutton
+fasttrading.tooltip.addbutton
+fasttrading.tooltip.removebutton
+fasttrading.tooltip.lockbutton
+fasttrading.tooltip.unlockbutton

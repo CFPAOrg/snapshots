@@ -1,0 +1,14 @@
+item.disc_1.name
+item.disc_2.name
+item.disc_3.name
+item.disc_4.name
+item.disc_5.name
+item.disc_6.name
+item.disc_7.name
+item.record.disc_1.desc
+item.record.disc_2.desc
+item.record.disc_3.desc
+item.record.disc_4.desc
+item.record.disc_5.desc
+item.record.disc_6.desc
+item.record.disc_7.desc

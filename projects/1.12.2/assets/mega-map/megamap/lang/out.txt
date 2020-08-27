@@ -1,0 +1,6 @@
+Mega Map
+Empty Mega Map
+(%s,%s)-(%s,%s)
+(%s,%s)#%s %s %s
+No map found in hand
+Map filled

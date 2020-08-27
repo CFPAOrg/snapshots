@@ -1,0 +1,90 @@
+World Handler Settings
+Settings
+Skin
+Butcher
+Sliders
+Biome Indicator
+Command Syntax
+Shortcuts
+Key Shortcuts
+Tooltips
+Watch
+Smooth Watch
+Pause Game
+Custom Times
+Permission Query
+Highlight Blocks
+Custom Dawn Ticks
+Custom Noon Ticks
+Custom Sunset Ticks
+Custom Midnight Ticks
+Block Placing Mode
+Displays a text when you walk into another biome
+Displays the current command at the bottom
+Adds a row of buttons at the top for quick access
+Enables button keys for pos1 and pos2
+Whether or not to display tooltips
+Whether or not to display a watch
+Whether or not the watch pointers move smooth
+Whether or not to pause the game when the gui is opened
+Whether or not to use the custom times
+Whether or not the permission query is enabled
+Whether or not selected blocks will be highlighted
+Ticks upon dawn
+Ticks upon noon
+Ticks upon sunset
+Ticks upon midnight
+Block placing mode
+Icon Size
+Label Color
+Headline Color
+Background Red
+Background Green
+Background Blue
+Button Red
+Button Green
+Button Blue
+Textures
+Sharp Tab Edges
+Draw Background
+Background Alpha
+Button Alpha
+Size of the icons
+Label color
+Headline color
+Background red
+Background green
+Background blue
+Button red
+Button green
+Button blue
+Background texture
+Disables the background blending
+Background drawing enabled
+Background alpha
+Button alpha
+Butcher %s Enabled
+Max Potion Amplifier
+Max Item Enchantment
+Max Item Attribute
+Max Summon Potion Amplifier
+Max Summon Potion Minutes
+Max Summon Attributes
+Max Experience
+Max Player Points
+Maximum value for the potion amplifier
+Maximum value for an item enchantment
+Maximum value for an item attribute
+Maximum value for the potion amplifier for summon
+Maximum value for the potion duration in minutes for summon
+Maximum value for attributes
+Maximum value for experience
+Maximum value for player points
+Objectives
+Teams
+Players
+Player
+Experience
+Advancements
+Summon
+World

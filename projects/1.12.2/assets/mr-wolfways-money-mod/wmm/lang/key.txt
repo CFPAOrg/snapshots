@@ -1,0 +1,11 @@
+item.bill5.name
+item.bill.name
+tile.atm.name
+item.bill3.name
+item.bill7.name
+item.atmcomponent.name
+item.bill4.name
+item.atmshell.name
+item.bill2.name
+item.bill6.name
+itemGroup.tabwolfwaymoney

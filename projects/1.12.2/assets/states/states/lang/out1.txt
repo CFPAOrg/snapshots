@@ -1,0 +1,72 @@
+Balance
+Bank
+Municipality
+Custom Tax
+Mailbox
+Coordinates
+District
+Owner
+Price
+Tax
+Type
+&9Chunk Type not found.
+Use &7/ck types &9to see available chunk types.
+&2Please use the &sell/buy &2feature instead.
+&9Chunk given to the &2%s&9!
+&2Chunk set to &cPUBLIC&2!
+&2It is still yours, but anyone can edit blocks.
+Last Edit
+Last Tax Coll.
+Linked Chunks
+Linked To
+Whitelist
+Claimbed By
+Created/Claimed
+Transit Zone
+Force Loaded
+&9You can not blacklist council members!
+&cKick them from the council first!
+&9You can not kick council members!
+&cKick them from the council first!
+That player isn't a citizen of this Municipality.
+That player is already a citizen of this Municipality.
+&ePlayer isn't part of the council.
+&eThat player is already a Council member.
+Do you want to add &a%s
+to the chunk's whitelist/access?
+Do you want to remove &b%s
+from the chunk's whitelist/access?
+Do you want to add &a%s
+to the municipality's blacklist?
+Do you want to remove &b%s
+from the municipality's blacklist?
+Do you want to add &a%s
+to the state's blacklist?
+Do you want to remove &b%s
+from the state's blacklist?
+Are you sure to kick &b%s
+from the municipality?
+You have been kicked from the Municipality (%s)!
+Are you sure to invite &a%s
+to join the municipality?
+You have been invited to join the Municipality %s
+&7&oInvite sent! (Will be valid for 2 days.)
+Remove &b%s&r from linked?
+Link &a%s&r?
+Invalid chunk format, is it separated?
+&cYou must be the Owner of the other chunk!
+&bCan not link chunk to itself!
+&eMunicipality not found.
+&eMunicipality has no Mayor.
+Are you sure to invite
+&a%s?
+Your Municipality was invited to join the State of %s
+&7&oInvite sent! (Will be valid for 12 days.)
+Are you sure to kick
+7b%s?
+&eCannot kick Capital!
+Kick &b%s
+from the council?
+You have been kicked from the Municipality Council of %s!
+Invite &a%s
+to join the council?

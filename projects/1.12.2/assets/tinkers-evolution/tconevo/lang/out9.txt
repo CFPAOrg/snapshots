@@ -1,0 +1,38 @@
+%1$s was annihilated by %2$s using the dark energy of %3$s
+Flight Speed
+Damage Taken
+Evasion Chance
+Only players can use this command.
+You need a Tinkers' Construct item to use this command.
+Unknown modifier: %s
+/tconevo <modadd|modmax|artifactget|artifactreload> ...
+/tconevo modadd <modifier> [level]
+Could only apply modifier "%s" %s time(s).
+Applied modifier "%s" %s time(s).
+Failed to apply modifier: %s
+/tconevo modmax
+Maximized tool.
+Failed to maximize tool: %s
+/tconevo artifactget <artifact>
+Received artifact "%s".
+Unknown artifact: %s
+Reloaded artifacts.
+/tconevoclient <matrenderinfo>
+Hold a Tinkers' Construct tool part to use this command.
+Two energetic traits are conflicting!
+Cannot modify a sealed artifact tool!
+Reload Render Info
+Nothing to render!
+-
+Basic
+Wyvern
+Draconic
+Chaotic
+Toolsmithing
+Basic Toolsmithing
+Through my study of alchemical metallurgy, I've discovered a means of fashioning powerful tools and weapons from magical metals. However, this equipment can be quite bland. Sometimes, I wish I had something more exciting than these cut-and-paste swords and shovels.<BR>It might be possible to shape these fantastic materials into more modular forms...
+By combining my thaumaturgical prowess and the art of tool-tinkering, I've managed to devise a means of building modular tools using magical metals and materials.<BR>Most materials should be easy enough to work with by hand, but metals will likely need to be melted down in order to shape them into tools.
+Study a means of building tools
+Primal Metal
+By coalescing the potent swirling energies of the primordial pearl into a metal form, I might be able to construct tools suffused with immense magical potential.
+The strangely iridescent metal I've created seems to react very violently to objects of this plane. When it comes in contact with mundane matter, it breaks it down into its most basic elements in a burst of magical energy.<BR>Perhaps I can use this property to enhance the abilities of my weapons...?

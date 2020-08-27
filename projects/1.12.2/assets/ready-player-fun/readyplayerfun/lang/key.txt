@@ -1,0 +1,2 @@
+server
+ENABLE_WELCOME_MESSAGE.tooltip

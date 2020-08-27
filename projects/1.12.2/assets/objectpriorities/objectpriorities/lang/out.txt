@@ -1,0 +1,14 @@
+/priorities <setPriority, removePriority, resetPriority, reloadPriorities>
+Error: The item "%s" was not found!
+Error: The meta value "%s" is not valid!
+Removed priority for %s.
+/priorities removePriority <unlocalized | oredict name> [meta] (no params for held item)
+Reloading priorities, expect lag.
+priority reload complete. Sending updated data to clients.
+Restart or use "/priorities reloadPriorities" when all changes are complete.
+/priorities reloadPriorities
+/priorities setPriority [unlocalized | oredict name] [meta] [priority value], /priorities setPriority [priority value] (for held item)
+Error: The priority "%s" is not valid!
+Error: The meta value "%s" is not valid!
+Set priority for %s to %s!
+Object Priority:

@@ -1,0 +1,78 @@
+Prefab Text: Bus
+Prefab Text: Taxi
+Prefab Text: Lane
+Prefab Text: Keep
+Prefab Text: Clear
+Prefab Text: Turn
+Prefab Text: Left
+Prefab Text: Right
+Prefab Text: Only
+Prefab Text: No
+Prefab Text: Entry
+Prefab Text: Town
+Prefab Text: City
+Prefab Text: C'tre
+Bike Icon
+Chevron (Left)
+Chevron (Mid)
+Chevron (Mid)
+Chevron (Right)
+Chevron (Left, Thin)
+Chevron (Mid, Thin)
+Chevron (Mid, Thin)
+Chevron (Right, Thin)
+Filter Lane (Left)
+Filter Lane (Right)
+Filter Lane (Left, Thin)
+Filter Lane (Right, Thin)
+Filter Lane (Left, Hidden)
+Filter Lane (Right, Hidden)
+Central Divider (Half, Right)
+Central Divider (Half, Right)
+Central Divider (Half, Left)
+Central Divider (Half, Left)
+Central Divider (Half, Right, Thin)
+Central Divider (Half, Right, Thin)
+Central Divider (Half, Left, Thin)
+Central Divider (Half, Left, Thin)
+Central Divider (Full)
+Junction Fork
+Junction Fork (Thin)
+Junction Fork (Chevron, Thin)
+Junction Fork (Chevron)
+Filter Lane Thin->Thick L Back Continuous
+Filter Lane Thin->Thick L Back
+Filter Lane Thin->Thick L Forward Continuous
+Filter Lane Thin->Thick L Forward
+Filter Lane Thin->Thin L Back Continuous
+Filter Lane Thin->Thin L Back
+Filter Lane Thin->Thin L Forward Continuous
+Filter Lane Thin->Thin L Forward
+Filter Lane Thick->Thick L Back Continuous
+Filter Lane Thick->Thick L Back
+Filter Lane Thick->Thick L Forward Continuous
+Filter Lane Thick->Thick L Forward
+Thin Mid Line to Thick Filter Line L
+Thin Mid Line to Thick Filter Line R
+Thick Mid Line to Thick Filter Line R
+Thick Mid Line to Thick Filter Line R
+Snow (But magic snow that settles on roads)
+Pneumatic Drill
+Tarmac Rammer
+Paint Gun
+Paint Scraper
+Wrench
+Pneumatic Drill Bit
+Machine Frame
+Electric Machine Frame
+Tool Handle
+Large Glass Tank
+Small Glass Tank
+Paint Gun Barrel
+Paint Gun Display
+Dried Coal
+Cement Dust
+Limestone Dust
+Clinker Mix
+Iron Tarmac Cutter Blade
+Gold Tarmac Cutter Blade

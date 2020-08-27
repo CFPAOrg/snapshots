@@ -1,0 +1,8 @@
+Re-names items you give him. Operation consumes 40 energy.
+Generates cobblestone in front of him. Doesn't consume any energy.
+Farms saplings that are directly underneath him, and gives various different items. Operation consumes 200 energy.
+Catches items from fishing. Operation consumes 400 energy. Requires water at the direction where he is facing to, 1 block down. 
+Not functional on server side because the spells cause issues. Under construction!!
+Shamanism
+Totemcarver
+ToteMeter Was Used

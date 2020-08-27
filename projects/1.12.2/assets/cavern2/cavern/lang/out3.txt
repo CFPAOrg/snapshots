@@ -1,0 +1,81 @@
+Void
+The dimension id of the The Void. Set to 0 to disable.
+Dark Forest
+The dimension id of the Dark Forest. Set to 0 to disable.
+Crown Cliffs
+The dimension id of the Crown Cliffs. Set to 0 to disable.
+Skyland
+The dimension id of the Skyland. Set to 0 to disable.
+Biome Settings
+Change the biome settings of this dimension.
+Weight
+Generation weight.
+Terrain Block
+The terrain block's registry name.
+Terrain Block Metadata
+The terrain block's metadata.
+Top Block
+The top block's registry name.
+Top Block Metadata
+The top block's metadata.
+Vein Settings
+Change the ore vein settings of this dimension.
+Block
+The block's registry name
+Block Metadata
+The block's metadata.
+Target Block
+The target block's registry name.  This is the block the vein will try to generate inside.
+Target Block Metadata
+The target block's metadata.  This is the block the vein will try to generate inside..
+Weight
+How likely this vein is to try generating, relative to other veins.
+Chance
+The chance for this vein to generate.
+Size
+How large a vein is.
+Height
+The vein height.
+Minimum Height
+The min height this vein can generate at.
+Maximum Height
+The max height this vein can generate at.
+Biomes
+The biomes this vein can generate in.
+Block Selection
+Block Selection
+%d blocks selected
+Item Selection
+Item Selection
+%d items selected
+Biome Selection
+%d biomes selected
+Top Block
+Filler Block
+Temperature
+Rainfall
+Type
+Entity Selection
+%d entities selected
+Ore Dictionary Selection
+%d oredict entries selected
+%d entries selected
+Block
+Oredict
+You are not tired. You cannot sleep for %d minutes.
+You are not strong enough.  You must be a %s or higher.
+You require a mirage book.
+You may not travel yet.
+You find extra minerals in these ores.
+Dimension unloaded
+Beginner
+Stone Miner
+Iron Miner
+Magnite Miner
+Gold Miner
+Aqua Miner
+Hexcite Miner
+Diamond Miner
+%s is now a %s.
+Please wait a moment
+Loading terrain

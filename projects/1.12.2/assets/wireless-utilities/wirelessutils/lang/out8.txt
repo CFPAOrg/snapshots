@@ -1,0 +1,90 @@
+Click here to un-lock.
+This item is currently locked
+against all changes.
+Click here to lock.
+This item is currently unlocked
+and can be modified by anyone.
+Decrease by %s
+Decrease all by %s
+Increase by %s
+Increase all by %s
+X:
+Y:
+Z:
+Power at Tick
+Owner: %s
+(Not Set)
+Round Robin
+Per Target:
+Maximum
+World Tick Rate
+Minimum
+%s Ticks
+Run Every:
+Work
+Rate: %s
+Targets: %s of %s
+Current Rate:
+Maximum Rate:
+Sustained Rate:
+Active Targets:
+%s of %s
+Unable to Run
+Machine Cannot Run
+This machine cannot currently run.
+Entities/t
+Entities/s
+Entities/t
+s/Entity
+Please install a valid module.
+This entity cannot be spawned.
+Please install a valid entity template.
+Please install a valid modifier.
+Please configure the installed module.
+The target whitelist is empty.
+The configured module cannot run in this machine.
+Please insert a weapon for the Slaughter Module to use.
+There are too many entities nearby to spawn more.
+Please insert items into the input buffer.
+Please remove items from the output buffer.
+Items/s
+Items/t
+s/Item
+Buffer
+Input / Output
+Item Charging
+Item Condensing
+Main
+Module
+As Player:
+When enabled, the Vaporizer will
+fully simulate a player using its
+weapon, increasing support for
+certain weapons at the cost of
+reduced quality and performance.
+Drops:
+Experience:
+Blacklist:
+Whitelist:
+Ignore Metadata: %s
+When this is enabled, meta values
+on items, such as damage, will be
+ignored when filtering.
+Ignore NBT: %s
+When this is enabled, NBT data
+on items will be ignored when
+filtering.
+Use Ore Dictionary: %s
+When this is enabled, items will be
+checked against the ore dictionary
+for filtering. Equivalent items will
+be treated equally.
+Matching Ores:
+Voiding Items: %s
+When this is enabled, items that
+don't match this filter will be
+immediately deleted.
+Match Mod: %s
+When this is enabled, items will
+be matched so long as they are
+added by the same mod as one of

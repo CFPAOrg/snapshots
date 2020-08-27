@@ -1,0 +1,11 @@
+item.wikizoomer.entity_binder.name
+item.wikizoomer.entity_binder.desc
+gui.wikizoomer.close
+gui.wikizoomer.greenscreen
+gui.wikizoomer.zoom
+tile.wikizoomer.item_zoomer.name
+tile.wikizoomer.entity_zoomer.name
+tile.wikizoomer.item_zoomer.desc0
+tile.wikizoomer.item_zoomer.desc1
+tile.wikizoomer.entity_zoomer.desc0
+tile.wikizoomer.entity_zoomer.desc1

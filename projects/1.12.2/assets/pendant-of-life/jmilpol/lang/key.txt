@@ -1,0 +1,2 @@
+item.pendant.name
+item.everlasting_pendant.name

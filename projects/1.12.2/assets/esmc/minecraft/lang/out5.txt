@@ -1,0 +1,132 @@
+Copy of original
+Copy of a copy
+Tattered
+Trade something else to unlock!
+Air
+Barrier
+Stone
+Granite
+Polished Granite
+Diorite
+Polished Diorite
+Andesite
+Polished Andesite
+Hay Bale
+Grass Block
+Dirt
+Dirt
+Coarse Dirt
+Podzol
+Cobblestone
+Wooden Planks
+Oak Wood Planks
+Spruce Wood Planks
+Birch Wood Planks
+Jungle Wood Planks
+Acacia Wood Planks
+Dark Oak Wood Planks
+Oak Sapling
+Spruce Sapling
+Birch Sapling
+Jungle Sapling
+Acacia Sapling
+Dark Oak Sapling
+Dead Bush
+Bedrock
+Water
+Lava
+Sand
+Sand
+Red Sand
+Sandstone
+Sandstone
+Chiseled Sandstone
+Smooth Sandstone
+Red Sandstone
+Red Sandstone
+Chiseled Red Sandstone
+Smooth Red Sandstone
+Gravel
+Gold Ore
+Iron Ore
+Coal Ore
+Wood
+Oak Wood
+Spruce Wood
+Birch Wood
+Jungle Wood
+Acacia Wood
+Dark Oak Wood
+Leaves
+Oak Leaves
+Spruce Leaves
+Birch Leaves
+Jungle Leaves
+Acacia Leaves
+Dark Oak Leaves
+Grass
+Shrub
+Grass
+Fern
+Sponge
+Wet Sponge
+Glass
+Stained Glass
+Black Stained Glass
+Red Stained Glass
+Green Stained Glass
+Brown Stained Glass
+Blue Stained Glass
+Purple Stained Glass
+Cyan Stained Glass
+Light Gray Stained Glass
+Gray Stained Glass
+Pink Stained Glass
+Lime Stained Glass
+Yellow Stained Glass
+Light Blue Stained Glass
+Magenta Stained Glass
+Orange Stained Glass
+White Stained Glass
+Stained Glass Pane
+Black Stained Glass Pane
+Red Stained Glass Pane
+Green Stained Glass Pane
+Brown Stained Glass Pane
+Blue Stained Glass Pane
+Purple Stained Glass Pane
+Cyan Stained Glass Pane
+Light Gray Stained Glass Pane
+Gray Stained Glass Pane
+Pink Stained Glass Pane
+Lime Stained Glass Pane
+Yellow Stained Glass Pane
+Light Blue Stained Glass Pane
+Magenta Stained Glass Pane
+Orange Stained Glass Pane
+White Stained Glass Pane
+Glass Pane
+Wool
+Flower
+Dandelion
+Flower
+Poppy
+Blue Orchid
+Allium
+Azure Bluet
+Red Tulip
+Orange Tulip
+White Tulip
+Pink Tulip
+Oxeye Daisy
+Plant
+Sunflower
+Lilac
+Double Tallgrass
+Large Fern
+Rose Bush
+Peony
+Mushroom
+Block of Gold
+Block of Iron
+Stone Slab

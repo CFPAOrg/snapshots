@@ -1,0 +1,35 @@
+Real Time
+MC-World Time
+Join World
+On Game Start
+Off
+Food Item Stats
+hunger
+saturation
+Wolves will eat this food
+Enchantable
+Modifies Blocks
+Uncommon
+Rare
+EPIC
+Once opened for the first time,
+this chest will be locked out to
+other players and only you can
+break or open the chest.
+Stores up to 104 items!
+Stores up to
+items
+Repairable
+Value Name
+Value
+Press
+for a list of tags.
+The Modder did not give this block an unlocalized name!
+The Modder did not give this item an unlocalized name!
+Open Storage Item
+WSBIM Keybinds
+GUI Opened
+Iron Rod
+Golden Rod
+/craft
+Dear %s, you are sleeping. Get some rest :)

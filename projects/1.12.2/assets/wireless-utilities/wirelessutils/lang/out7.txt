@@ -1,0 +1,37 @@
+Using augments, it's possible to wirelessly connect a large area!
+The Positional RS Network connects specific positions.
+Place a Positional Card in one of the Positional RS Network's slots to tell it to connect that block.
+Using augments, it's possible to add more than one Positional Card.
+Augments can also help you connect blocks farther away from the Positional RS Network. Eventually, even across dimensions!
+The Directional AE Network connects your network in a direction.
+Initially, the Directional AE Network only connects one block in front of it in the direction it's facing.
+Using augments, it's possible to wirelessly connect a large area!
+The Positional AE Network connects specific positions.
+Place a Positional Card in one of the Positional AE Network's slots to tell it to connect that block.
+Using augments, it's possible to add more than one Positional Card.
+Augments can also help you connect blocks farther away from the Positional AE Network. Eventually, even across dimensions!
+The Directional Vaporizer vaporizes entities in a direction.
+The behavior of a Vaporizer depends entirely on its installed Module. Without a Module, it won't run.
+Modules allow a Vaporizer to teleport entities, kill them, spawn copies, or to push them around.
+Using augments, it's possible to increase a Vaporizer's range and further customize its capabilities.
+The Positional Vaporizer vaporizes entities at specific positions.
+The behavior of a Vaporizer depends entirely on its installed Module. Without a Module, it won't run.
+Modules allow a Vaporizer to teleport entities, kill them, spawn copies, or to push them around.
+Using augments, it's possible to increase a Vaporizer's range and further customize its capabilities.
+I/O Control
+Mode: %s
+Input
+Output
+Passive
+Active
+Disabled
+Input
+Output
+Side: %s
+Top
+Left
+Right
+Bottom
+Front
+Back
+Open the standard GUI for this item.

@@ -1,0 +1,23 @@
+Using augments, it's possible to wirelessly send fluids to a large area!
+Augments can also be used to send fluids into items in inventories or to place fluids directly in the world.
+When an Invert Augment is present it will extract fluids instead of sending them.
+The Positional Condenser transfers fluids to specific positions.
+Place a Positional Card in one of the Positional Condenser's slots to tell it to send fluid to that block.
+Using augments, it's possible to add more than one Positional Card.
+Augments can also let you send fluids farther away or at a greater rate.
+Augments can also be used to send fluids into items in inventories or to place fluids directly in the world.
+When an Invert Augment is present it will extract fluids instead of sending them.
+The Directional Desublimator transfers items in a direction.
+Initially, the Directional Desublimator only transfers items into the block directly in front of it.
+Using augments, it's possible to transfer items wirelessly to a large area!
+Augments can also let you send items farther away or at a greater rate.
+Capacity Augments will increase the size of the internal item buffer.
+When an Invert Augment is present, the Desublimator will extract items from its targets rather than inserting them.
+The Positional Desublimator transfers items to specific positions.
+Place a Positional Card in one of the Positional Desublimator's slots to tell it to send items to that block.
+Using augments, it's possible to add more than one Positional Card.
+Augments can also let you send items farther away or at a greater rate.
+Capacity Augments will increase the size of the internal item buffer.
+When an Invert Augment is present, the Desublimator will extract items from its targets rather than inserting them.
+The Directional RS Network connects your network in a direction.
+Initially, the Directional RS Network only connects one block in front of it in the direction it's facing.

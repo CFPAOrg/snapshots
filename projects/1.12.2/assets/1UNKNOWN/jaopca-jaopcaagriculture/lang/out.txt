@@ -1,0 +1,6 @@
+%s Essence
+%s Seeds
+%s Crops
+%s Crux
+%s Crop
+%s Seeds.

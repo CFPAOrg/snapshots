@@ -1,0 +1,101 @@
+Wrought Iron Hoe Head
+Steel Hoe Head
+Black Steel Hoe Head
+Blue Steel Hoe Head
+Red Steel Hoe Head
+Bismuth Bronze Chisel
+Black Bronze Chisel
+Bronze Chisel
+Copper Chisel
+Wrought Iron Chisel
+Steel Chisel
+Black Steel Chisel
+Blue Steel Chisel
+Red Steel Chisel
+Bismuth Bronze Chisel Head
+Black Bronze Chisel Head
+Bronze Chisel Head
+Copper Chisel Head
+Wrought Iron Chisel Head
+Steel Chisel Head
+Black Steel Chisel Head
+Blue Steel Chisel Head
+Red Steel Chisel Head
+Bismuth Bronze Sword
+Black Bronze Sword
+Bronze Sword
+Copper Sword
+Wrought Iron Sword
+Steel Sword
+Black Steel Sword
+Blue Steel Sword
+Red Steel Sword
+Bismuth Bronze Sword Blade
+Black Bronze Sword Blade
+Bronze Sword Blade
+Copper Sword Blade
+Wrought Iron Sword Blade
+Steel Sword Blade
+Black Steel Sword Blade
+Blue Steel Sword Blade
+Red Steel Sword Blade
+Bismuth Bronze Mace
+Black Bronze Mace
+Bronze Mace
+Copper Mace
+Wrought Iron Mace
+Steel Mace
+Black Steel Mace
+Blue Steel Mace
+Red Steel Mace
+Bismuth Bronze Mace Head
+Black Bronze Mace Head
+Bronze Mace Head
+Copper Mace Head
+Wrought Iron Mace Head
+Steel Mace Head
+Black Steel Mace Head
+Blue Steel Mace Head
+Red Steel Mace Head
+Bismuth Bronze Saw
+Black Bronze Saw
+Bronze Saw
+Copper Saw
+Wrought Iron Saw
+Steel Saw
+Black Steel Saw
+Blue Steel Saw
+Red Steel Saw
+Bismuth Bronze Saw Blade
+Black Bronze Saw Blade
+Bronze Saw Blade
+Copper Saw Blade
+Wrought Iron Saw Blade
+Steel Saw Blade
+Black Steel Saw Blade
+Blue Steel Saw Blade
+Red Steel Saw Blade
+Bismuth Bronze Shears
+Black Bronze Shears
+Bronze Shears
+Copper Shears
+Wrought Iron Shears
+Steel Shears
+Black Steel Shears
+Blue Steel Shears
+Red Steel Shears
+Bismuth Bronze Shield
+Black Bronze Shield
+Bronze Shield
+Copper Shield
+Wrought Iron Shield
+Steel Shield
+Black Steel Shield
+Blue Steel Shield
+Red Steel Shield
+Bismuth Bronze Javelin
+Black Bronze Javelin
+Bronze Javelin
+Copper Javelin
+Wrought Iron Javelin
+Steel Javelin

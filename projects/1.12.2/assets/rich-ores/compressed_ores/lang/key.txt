@@ -1,0 +1,8 @@
+tile.compressedredstone.name
+tile.compressedgoldore.name
+tile.compressedironore.name
+tile.compresseddiamond.name
+tile.compressedemeraldore.name
+tile.compressedcoalore.name
+tile.richorebreaker.name
+tile.compressedlapis.name

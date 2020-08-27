@@ -1,0 +1,161 @@
+$19.99 Wrench
+Charcoal Wrench
+Coal Wrench
+Lapis Wrench
+Gold Wrench
+Redstone Wrench
+Diamond Wrench
+Emerald Wrench
+Nether Quartz Wrench
+Bootleg Charcoal Wrench
+Bootleg Coal Wrench
+Bootleg Lapis Wrench
+Bootleg Gold Wrench
+Bootleg Redstone Wrench
+Bootleg Diamond Wrench
+Bootleg Emerald Wrench
+Bootleg Nether Quartz Wrench
+Tiny Wrench
+Glass Wrench
+Glass Pane Wrench
+Dirt Wrench
+Exclusive Wrench
+Missing Texture Wrench
+Lazy Programming Wrench
+Litter Wrench
+Ash Wrench
+Fossilized Blueberry Wrench
+Fool's Gold Wrench
+Red Powder Wrench
+Graphite Wrench
+Nether Shard Wrench
+Filler Wrench
+Anime Arc Wrench
+Uncraftable Wrench
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Pink 0
+Pink 1
+Pink 2
+Pink 3
+Pink 4
+Pink 5
+Pink 6
+Pink 7
+Pink 8
+Pink 9
+Copper 0
+Copper 1
+Copper 2
+Copper 3
+Copper 4
+Copper 5
+Copper 6
+Copper 7
+Copper 8
+Copper 9
+$4.99 0
+$4.99 1
+$4.99 2
+$4.99 3
+$4.99 4
+$4.99 5
+$4.99 6
+$4.99 7
+$4.99 8
+$4.99 9
+$9.99 0
+$9.99 1
+$9.99 2
+$9.99 3
+$9.99 4
+$9.99 5
+$9.99 6
+$9.99 7
+$9.99 8
+$9.99 9
+$14.99 0
+$14.99 1
+$14.99 2
+$14.99 3
+$14.99 4
+$14.99 5
+$14.99 6
+$14.99 7
+$14.99 8
+$14.99 9
+$19.99 0
+$19.99 1
+$19.99 2
+$19.99 3
+$19.99 4
+$19.99 5
+$19.99 6
+$19.99 7
+$19.99 8
+$19.99 9
+Item Item Ingot
+Pixel Ingot
+Tear
+Angry Tear
+Sadness Tear
+Joy Tear
+Shame Tear
+Fear Tear
+Envy Tear
+Determination Tear
+Love Tear
+Happiness Tear
+Acceptance Tear
+Burnt Tear
+Litter
+Ruby
+Missing Texture
+Lazy Programming
+Stone Pebbles
+Nether Pebbles
+End Stone Pebbles
+Dirt Pebbles
+I Can't Believe It's Not Flint
+Useless Charcoal
+Useless Coal
+Useless Iron Ingot
+Useless Lapis Lazuli
+Useless Gold Ingot
+Useless Redstone
+Useless Diamond
+Useless Emerald
+Useless Nether Quartz
+Flesh Flesh
+Essence Essence
+Salt
+Brown Salt
+Banana
+Banana Bunch
+Bunches of Banana Bunch
+Tons of Banana Bunch
+DK's Banana Hoard
+Pineapple
+Salted Pineapple
+Brown Salted Pineapple
+Tin Foil
+Tin Foil Hat
+Klay
+Klaye
+Klaa
+Kla
+Kly
+Iren Inget
+Iren Angyt
+Irin Angst
+Irun Aimbot
+Irwin Dingus
+Inked Feather

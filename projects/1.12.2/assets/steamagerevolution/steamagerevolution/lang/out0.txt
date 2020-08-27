@@ -1,0 +1,101 @@
+Steam Age Revolution
+%s Solution
+%s Lattice
+%s Heavy Ore
+%s Heavy Ore Tell
+Charcoal Powder
+Fluid Canister
+Hammer
+Gear Die
+TEST Die
+Clockwork Wings
+Steam-Powered Sword
+Steam-Powered Pickaxe
+Steam-Powered Shovel
+Steam-Powered Axe
+Steam-Powered Hoe
+Drill Base
+Stone Drill
+Gold Drill
+Iron Drill
+Diamond Drill
+Rocketfist
+Entrenching Tool
+Flask
+Lens
+Goggles
+Seam Miner Cart
+Ore Carrier Cart
+Fluid IO
+Casting Block
+Steamer Trunk
+Steam Vent
+Fume Collector
+Pneumatic Sender
+Pneumatic Tube
+Pneumatic Router
+Boiler Casing
+Boiler Water Input
+Boiler Pressure Monitor
+Boiler Pressure Valve
+Boiler Solid Firebox
+Boiler Liquid Firebox
+Boiler Steam Output
+Boiler Gauge
+Steam Hammer Head
+Steam Hammer Structure
+Steam Hammer Anvil
+Steam Hammer Shielding
+Tank Casing
+Tank Valve
+Tank Window
+Steam Furnace Casing
+Steam Furnace Injector
+Alloy Forge Frame
+Alloy Forge Output
+Alloy Forge Hardened Frame
+Alloy Forge Input
+Steam Furnace Item Input
+Steam Furnace Item Output
+Steam Furnace Steam Input
+Crucible Item Input
+Crucible Steam Input
+Crucible Fluid Output
+Crucible Casing
+Steelworks Frame
+Steelworks Carbon Input
+Steelworks Iron Input
+Steelworks Output
+Steelworks Steam Input
+Kiln Frame
+Kiln Door
+Kiln Steam Input
+Kiln Window
+Vat Frame
+Vat Output
+Vat Input
+Distiller Radiator
+Distiller Hotplate
+Distiller Fluid Output
+Distiller Tank
+Distiller Fluid Input
+Distiller Item Output
+Fluid Hopper
+Charcoal Block
+Grinder Frame
+Grinder Blades
+Grinder Output
+Dead Inventor
+Seam Miner Cart
+Carrier Cart
+A New Age
+Now craft a hammer
+Hammertime
+Pulverise zinc and copper, combine the two...
+Brass Monkeys
+A new material! The foundation of everything to come...
+Multiblock is missing required part: %s
+Interior of the alloy forge must be filled with lava
+Bottom layer of the Distiller must be composed entirely of radiator blocks
+Second-from-bottom layer of the Distiller must be composed entirely of hotplate blocks
+Steam

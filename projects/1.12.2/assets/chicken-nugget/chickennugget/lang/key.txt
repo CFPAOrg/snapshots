@@ -1,0 +1,11 @@
+itemGroup.chickennugget
+item.chickennugget.chicken_nugget.name
+item.chickennugget.chicken_nugget_cooked.name
+chickennugget.jei.craft_chicken.title
+chickennugget.jei.craft_nugget.title
+fluid.chicken
+chickennugget.jei.cast_chicken.title
+chickennugget.jei.melt_chicken.title
+tile.chickennugget.chicken_head.name
+chickennugget.jei.decapitate_chicken.title
+item.chickennugget.chicken_head.hint

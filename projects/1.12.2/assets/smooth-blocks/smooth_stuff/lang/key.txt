@@ -1,0 +1,3 @@
+tile.tamesandstone.name
+tile.tamestoneslab.name
+tile.tameredsandstone.name

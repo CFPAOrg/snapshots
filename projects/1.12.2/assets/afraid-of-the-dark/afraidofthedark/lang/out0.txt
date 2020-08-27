@@ -1,0 +1,116 @@
+Blood Stained Journal
+Astral Silver Sword
+Igneous Sword
+Astral Silver Ingot
+Crossbow
+Wrist Crossbow
+Wooden Bolt
+Iron Bolt
+Silver Bolt
+Igneous Bolt
+Star Metal Bolt
+Igneous Helmet
+Igneous Chestplate
+Igneous Leggings
+Igneous Boots
+Igneous Gem
+Telescope
+Sextant
+Sunstone Fragment
+Star Metal Fragment
+Star Metal Helmet
+Star Metal Chestplate
+Star Metal Leggings
+Star Metal Boots
+Star Metal Staff
+Star Metal Khopesh
+Vitae Lantern
+Cloak of Agility
+Research Scroll
+Star Metal Plate
+Enchanted Skeleton Bone
+Sleeping Potion
+Eldritch Metal Ingot
+Star Metal Ingot
+Blade of Exhumation
+Flask of Souls
+Werewolf Blood
+Gnomish Metal Ingot
+Artwork
+Wand
+Insanity's Heights
+Debug
+Schematic Creator
+Bone Dust
+Desert Fruit
+Magic Essence
+Mystic Opal
+Power Core
+Sapphire Heart
+Smokey Quartz
+Mystic Topaz
+Cursed Veil
+Nightmare Stone
+Cursed Heart
+Cultist Tome
+Advanced Telescope
+Mastercrafted Telescope
+Lens
+Silver Ore
+Darkness
+Gravewood
+Gravewood Planks
+Gravewood Stairs
+Gravewood Slab
+Gravewood Double Slab
+Gravewood Leaves
+Gravewood Sapling
+Gravewood Fence
+Gravewood Fence Gate
+Gravewood Door
+Mangrove
+Mangrove Planks
+Mangrove Stairs
+Mangrove Slab
+Mangrove Double Slab
+Mangrove Leaves
+Mangrove Sapling
+Mangrove Fence
+Mangrove Fence Gate
+Mangrove Door
+Sacred Mangrove
+Sacred Mangrove Planks
+Sacred Mangrove Stairs
+Sacred Mangrove Slab
+Sacred Mangrove Double Slab
+Sacred Mangrove Leaves
+Sacred Mangrove Sapling
+Sacred Mangrove Fence
+Sacred Mangrove Fence Gate
+Sacred Mangrove Door
+Sunstone Ore
+Astral Silver Ore
+Meteor
+Star Metal Ore
+Igneous Block
+Spring
+Dark Forest
+Vitae Disenchanter
+Void Chest
+Void Chest Portal
+Eldritch Obsidian
+Amorphous Eldritch Metal
+Eldritch Stone
+Gnomish Metal Plate
+Gnomish Metal Strut
+Glow Stalk
+Enaria Spawner
+Enaria's Altar
+Imbued Cactus
+Imbued Cactus Blossom
+Desert Oasis
+Spell Altar
+Lens Cutter
+Afraid of the Dark
+Afraid of the Dark
+Roll with Cloak of Agility

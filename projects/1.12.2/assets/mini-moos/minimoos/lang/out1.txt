@@ -1,0 +1,46 @@
+§o(Note: Only alloys that require 2 fluids will work and you can use tinkers' construct alloys in JEI to check for those alloys).
+Try feed it to any moo to turn it into a boss.
+Only works in some moos, find out which ones.
+/spawnmoo <fluidName> <x> <y> <z>
+Unable to spawn fluid moo(s)
+Can't spawn moos in unloaded chunks
+Spawned %s fluid moo(s)
+%s just got fooled by a Small Cow!
+%s mixed something wrong, that moo looks explosive!
+%s, what have you done?! That moo is drinking lava!
+Kay, bye!
+You tilted my hat boy? Are you blind?
+Mind your business, your I will mind you boy!
+Protection isn't free %s!
+What are you doing? I should slap you!
+How nice, %s! I'm afraid I just didn't like it!
+A fine day, for a successful business.
+%s!! You need people like me so you can point your foolish finger and say that's the bad guy!
+I'M REEELOOOOOAADDDINNNNGGG!
+I'm getting you a one way ticket to regeneration.
+Leave me alone, %s! Or I will hunt you down!
+Where's Johnny? Out of the way boy!
+Now that's the right answer, %s! Here's a penny.
+HEY %s!! That's my cigar, it was cuban you FOOL!
+DO YOU WANT TO START A WAR %s?!?
+Look at you, %s! The streets thaugh you nothing, what a noob!
+Leave me alone %s! I gotta update FoolCraft!
+Another Issue %s? That's like ten thousand already!
+I just fixed something, stop breaking it %s!!
+Take this Iron Golem, I'm Out!
+Mooououououououuohh!!!!
+%s! Let me slap you a little!
+Up you go, %s!!!
+Slapppppppp ohoh!!!
+%s, did you drunk the wrong potion?!?
+Rotten fleshyyy!!!
+Moooohhhh! Mooohhhh! Mooohhh!
+Beeh Có!!
+♫ You gonna bring the sexy back. Mooo! The other cows don't know how to act. Mooo! ♫
+♫ I think it's funny, mooing behind your back. Mooo! I moo around, not gonna cut you any slack. Mooo! ♫
+♫ Mooing in a bridge! ♫
+What a nice boy you are %s! Here is a present!
+You naughty boy, take this! Mooo!
+Moo! oh! oh! oh!
+Glo! Glo!
+I will be the first to... MOOOOOOO!!!!!

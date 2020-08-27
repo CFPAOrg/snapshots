@@ -1,0 +1,57 @@
+Minestuck
+The Beginning of Something Really Excellent
+Connect
+Create a connection with someone.
+A New World
+Create, and use the Cruxite Artifact.
+Step Towards Alchemy
+Getting a punch designix is the first step to alchemizing something else!
+Can I Get A, Uh...
+Successfully place and consume an order.
+Gold Farming
+It begins to dawn on you that everything you just did may have been a colossal waste of time.
+Uprooting
+Remove the root card in a tree modus with a bunch of items.
+The Big One
+Kill an ogre.
+Dungeon Explorer
+Find a Dungeon to explore!
+There's no Place Like Home
+Find a Return Node and jump in to return home.
+Commune
+Visit a village and talk to a consort.
+Buyer Beware
+Buy an item from a shady consort.
+Crunchy and High in Protein
+Eat a bug.
+A New Type of Frustrating
+Equip a new modus.
+A Full Set
+Try a new modus type.
+Aspect Effects have been toggled on
+Aspect Effects have been toggled off
+/checkLand
+/grist [player] <add|set> <gristtype value ...> OR /grist [player] get
+%s has:%s
+Invalid grist name: %s
+Successfully increased grist value for "%s"
+Successfully changed grist value for "%s"
+/gristSend <player> <gristtype value ...>
+Successfully gave grist to %s: %s
+You are not permitted to send grist to %s.
+Invalid Command: "%s"
+/sburbSession <session name> <add|name|title|landTerrain|landTitle|define> [values ...]
+Successfully added/removed %d/%d players.
+Renamed "%3$s"'s session "%1$s" to "%2$s".
+Named "%2$s"'s session as "%1$s".
+"%s" is not a valid title class.
+"%s" is not a valid title aspect.
+Successfully predefined %s's title as %s
+Successfully predefined %s's terrain land aspect as %s
+Successfully predefined %s's title land aspect as %s
+/tpz [player] <transportalizer code>
+Couldn't find transportalizer with ID "%s"
+Successfully teleported %s to transprtalizer "%s"
+Failed the teleport.
+This command is only useable by players.
+This command is only useable by players. Try /grist instead.

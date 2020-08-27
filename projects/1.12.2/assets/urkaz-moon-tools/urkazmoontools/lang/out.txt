@@ -1,0 +1,13 @@
+Lunar Clock
+Lunar Sensor
+The 'Lunar Sensor' emits Redstone signal only at night.
+Full Moon in 'Lunar Sensor' has strenght 8 instead of 1.
+Moon Phase: 
+Full Moon
+Waning Gibbous
+Third Quarter
+Waning Crescent
+New Moon
+Waxing Crescent
+First Quarter
+Waxing Gibbous

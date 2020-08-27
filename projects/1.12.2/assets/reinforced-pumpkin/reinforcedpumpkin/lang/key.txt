@@ -1,0 +1,6 @@
+tile.reinforced_pumpkin.name
+tile.reinforced_pumpkin_gold.name
+tile.reinforced_pumpkin_diamond.name
+tile.reinforced_lantern.name
+tile.reinforced_lantern_gold.name
+tile.reinforced_lantern_diamond.name

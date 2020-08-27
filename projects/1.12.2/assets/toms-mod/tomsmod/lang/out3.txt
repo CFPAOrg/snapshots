@@ -1,0 +1,103 @@
+Basic Circuit Components
+Normal Circuit Components
+Advanced Circuit Components
+Elite Circuit Components
+Raw Basic Circuit
+Raw Normal Circuit
+Raw Advanced Circuit
+Raw Elite Circuit
+Unassembled Basic Circuit
+Unassembled Normal Circuit
+Unassembled Advanced Circuit
+Unassembled Elite Circuit
+Small Circuit Panel
+Large Circuit Panel
+Small Photoactive Circuit Panel
+Large Photoactive Circuit Panel
+Basic Chipset
+Advanced Chipset
+Basic Chipset Base
+Advanced Chipset Base
+Advanced Alloy Base
+Copper Mesh
+Electron Tube
+Nixie Tube
+Bronze Grinder
+Steel Grinder
+Diamond Grinder
+Redstone Crystal
+Tin Lightweight Casing
+Steel Lightweight Casing
+Titanium Lightweight Casing
+Chrome Plate
+Chrome Ingot
+Chrome Dust
+Tiny Pile of Chrome Dust
+Chrome Wire
+Chrome Nugget
+Chrome Crystal
+Chrome Wire Coil
+Crushed Chrome Ore
+Crushed Nether Chrome Ore
+Crushed End Chrome Ore
+Chrome Research Component
+Chrome Shard
+Dirty Chrome Dust
+Chrome Clump
+Titanium Plate
+Titanium Ingot
+Titanium Dust
+Tiny Pile of Titanium Dust
+Titanium Wire
+Titanium Nugget
+Titanium Crystal
+Titanium Wire Coil
+Crushed Titanium Ore
+Crushed Nether Titanium Ore
+Crushed End Titanium Ore
+Titanium Research Component
+Titanium Shard
+Dirty Titanium Dust
+Titanium Clump
+Copper Plate
+Copper Ingot
+Copper Dust
+Tiny Pile of Copper Dust
+Copper Wire
+Copper Nugget
+Copper Crystal
+Copper Wire Coil
+Crushed Copper Ore
+Crushed Nether Copper Ore
+Crushed End Copper Ore
+Copper Research Component
+Copper Shard
+Dirty Copper Dust
+Copper Clump
+Tin Plate
+Tin Ingot
+Tin Dust
+Tiny Pile of Tin Dust
+Tin Wire
+Tin Nugget
+Tin Crystal
+Tin Wire Coil
+Crushed Tin Ore
+Crushed Nether Tin Ore
+Crushed End Tin Ore
+Tin Research Component
+Tin Shard
+Dirty Tin Dust
+Tin Clump
+Nickel Plate
+Nickel Ingot
+Nickel Dust
+Tiny Pile of Nickel Dust
+Nickel Wire
+Nickel Nugget
+Nickel Crystal
+Nickel Wire Coil
+Crushed Nickel Ore
+Crushed Nether Nickel Ore
+Crushed End Nickel Ore
+Nickel Research Component

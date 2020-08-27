@@ -1,0 +1,34 @@
+Whether bees can damage other entities than the player.
+Leaf Self Pollination
+If true bees will pollinate leaves with themselves to speed up getting a homozgous genome.
+Ignoble Decay
+Whether ignoble bees will eventually die out.
+Species Blacklist
+Add species to blacklist identified by their uid, one per line.
+Get the butterfly spawn rarity by their uid, one per line.
+Butterfly Spawn Limit
+Butterflies will stop natural spawning once this limit is reached.
+Spawn Butterflies From Leaves
+Whether butterflies should spawn from the leaves of trees.
+Butterfly Maximum
+New butterflies will stay in item form and will not take flight once this limit is reached.
+Maximum Distance To Home
+Butterflies will fly home if they are too far away from it.
+Butterfly Pollination
+Allow butterflies to pollinate leaves.
+Generate Butterfly Cocoons
+Whether cocoons containing butterfiles should generate in the world
+Butterfly Cocoon Frequency
+How often butterfly cocoons should generate
+Serum Drop Chance
+How often cocoons should drop a serum
+Second Serum Drop Chance
+How often cocoons should drop a second serum
+Loot drops from cocoons. Format is modid:name:meta;chance
+Add itemStacks for the %s's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
+Add ore dictionary names for the %s's backpack here in the format 'oreDictName'. Regular expressions may also be used.
+Added items. The format is 'modid:meta:name'. For wildcard metadata the format is 'modid:name'.
+Blacklisted items. The format is 'modid:meta:name'. For wildcard metadata the format is 'modid:name'.
+Added oredict. Format is 'oreDictName'. Regular expressions may also be used. See backpack config for more information.
+Blacklisted oredict. Format is 'oreDictName'. Regular expressions may also be used. See backpack config for more information.
+Game Mode

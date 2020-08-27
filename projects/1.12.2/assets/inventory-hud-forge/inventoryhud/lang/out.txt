@@ -1,0 +1,19 @@
+Inventory HUD (Forge)
+Toggle on/off
+ArmorStatus HUD
+Inventory HUD
+Potions HUD
+Inventory HUD+ Settings
+Inventory HUD orientation
+Inventory HUD position (X)
+Inventory HUD position (Y)
+Toggle on by default
+Is Armor Damage HUD enabled
+Is Potions HUD enabled
+Potion HUD position (X)
+Potion HUD position (Y)
+Potion HUD orientation
+Armor HUD orientation
+Armor HUD position (X)
+Armor HUD position (Y)
+Hide if durability is above this:

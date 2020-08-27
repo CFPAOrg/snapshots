@@ -1,0 +1,9 @@
+item.rarefiber.name
+tile.fiberscaffolding.name
+item.plantfiber.name
+item.cookedplantfiber.name
+item.fiberbundle.name
+item.cookedrarefiber.name
+tile.fiberreeds.name
+tile.hardfiberscaffolding.name
+item.cookedfiberbundle.name

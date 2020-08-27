@@ -1,0 +1,60 @@
+Switch-Bow
+Arrow-Dispenser
+Pedestal
+Switch-Bow
+Switch-Crossbow
+Quiver
+Big-Quiver
+Love-Potion
+Thunder-Arrow
+TNT-Arrow
+Frost-Arrow
+Air-Arrow
+Teleport-Arrow
+Vampire-Arrow
+Wither-Arrow
+Torch-Arrow
+Sliver-Arrow
+Underwater-Arrow
+Reinforced Arrow
+Love-Arrow
+Fire-Arrow
+Bone-Arrow
+Rocket-Arrow
+Love-Arrow (AOE)
+Luck-Arrow
+Redstone-Arrow
+Burial-Arrow
+Chorus-Arrow
+Sprinkler-Arrow
+Dragon-Arrow
+Triple-Arrow
+Protector-Arrow
+Knockback-Arrow
+Bouncy-Arrow
+Arrow of the Searcher
+Piercing-Arrow
+Thunderstorm-Arrow
+Bone-Arrow(AOE)
+Transforming Sliver-Arrow
+Burial-Arrow(AOE)
+FireStorm-Arrow
+Transforming Luck-Arrow
+Air-Arrow(AOE)
+Transforming Love-Arrow(AOE)
+Freeze
+In Love
+Pull-Speed
+Scope
+Reduce Cooldown
+Store:
+Switch-Bow
+next Arrow
+previous Arrow
+Switch-Bow
+A mystial pulsation surrounds the bow.
+First Love
+You fall into your first Love.
+Shoot-Angle
+Firing Range
+Shoot-Count

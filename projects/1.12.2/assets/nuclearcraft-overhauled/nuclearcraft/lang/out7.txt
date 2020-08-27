@@ -1,0 +1,31 @@
+Rotates the target qubits about the spatial Z-axis.
+Quantum Computer Controlled Pauli-X Gate
+Performs a controlled rotation on the target qubits by 180 degrees about the X-axis of the Bloch sphere.
+Quantum Computer Controlled Pauli-Y Gate
+Performs a controlled rotation on the target qubits by 180 degrees about the Y-axis of the Bloch sphere.
+Quantum Computer Controlled Pauli-Z Gate
+Performs a controlled rotation on the target qubits by 180 degrees about the Z-axis of the Bloch sphere.
+Quantum Computer Controlled Hadamard Gate
+Applies a controlled Hadamard transform to the target qubits.
+Quantum Computer Controlled S Gate
+Performs a controlled phase shift on the true-value components of the target qubits by 90 degrees.
+Quantum Computer Controlled Inverse S Gate
+Performs a controlled phase shift on the true-value components of the target qubits by 270 degrees.
+Quantum Computer Controlled T Gate
+Performs a controlled phase shift on the true-value components of the target qubits by 45 degrees.
+Quantum Computer Controlled Inverse T Gate
+Performs a controlled phase shift on the true-value components of the target qubits by 315 degrees.
+Quantum Computer Controlled Phase Gate
+Performs a controlled phase shift on the true-value components of the target qubits by a chosen angle.
+Quantum Computer Controlled X-Rotation Gate
+Performs a controlled rotation on the target qubits about the spatial X-axis.
+Quantum Computer Controlled Y-Rotation Gate
+Performs a controlled rotation on the target qubits about the spatial Y-axis.
+Quantum Computer Controlled Z-Rotation Gate
+Performs a controlled rotation on the target qubits about the spatial Z-axis.
+Quantum Computer Swap Gate
+Swaps two collections of qubits.
+Quantum Computer Controlled Swap Gate
+Performs a controlled swap on two collections of qubits.
+Quantum Computer Connector
+Quantum Computer Port (WIP)

@@ -1,0 +1,9 @@
+item.basaltstaff.name
+item.repairkitelderprismarine.name
+item.slatestaff.name
+item.jasperstaff.name
+item.elderprismarinestaff.name
+item.permafroststaff.name
+item.brimstonestaff.name
+item.limestonestaff.name
+item.marblestaff.name

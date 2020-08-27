@@ -1,0 +1,35 @@
+itemGroup.simplehammers
+item.wooden_hammer.name
+item.stone_hammer.name
+item.iron_hammer.name
+item.gold_hammer.name
+item.diamond_hammer.name
+item.obsidian_hammer.name
+item.bedrock_hammer.name
+item.wooden_excavator.name
+item.stone_excavator.name
+item.iron_excavator.name
+item.gold_excavator.name
+item.diamond_excavator.name
+item.obsidian_excavator.name
+item.bedrock_excavator.name
+Simple Hammers/Hammer Mining Settings
+Simple Hammers/Excavator Mining Settings
+Simple Hammers/Misc Settings
+wood_hammer_mining_area
+stone_hammer_mining_area
+iron_hammer_mining_area
+gold_hammer_mining_area
+diamond_hammer_mining_area
+obsidian_hammer_mining_area
+wood_excavator_mining_area
+stone_excavator_mining_area
+iron_excavator_mining_area
+gold_excavator_mining_area
+diamond_excavator_mining_area
+obsidian_excavator_mining_area
+blocks_per_tick
+multimine_centered
+Simple Hammers/Hammer Mining Settings.tooltip
+Simple Hammers/Excavator Mining Settings.tooltip
+Simple Hammers/Misc Settings.tooltip

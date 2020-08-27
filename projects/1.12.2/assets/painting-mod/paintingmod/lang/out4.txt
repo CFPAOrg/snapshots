@@ -1,0 +1,113 @@
+Lime Obsidian
+Yellow Obsidian
+Light Blue Obsidian
+Magenta Obsidian
+Orange Obsidian
+White Obsidian
+Black Diamond Block
+Red Diamond Block
+Green Diamond Block
+Brown Diamond Block
+Blue Diamond Block
+Purple Diamond Block
+Cyan Diamond Block
+Light Gray Diamond Block
+Gray Diamond Block
+Pink Diamond Block
+Lime Diamond Block
+Yellow Diamond Block
+Light Blue Diamond Block
+Magenta Diamond Block
+Orange Diamond Block
+White Diamond Block
+Black Ice
+Red Ice
+Green Ice
+Brown Ice
+Blue Ice
+Purple Ice
+Cyan Ice
+Light Gray Ice
+Gray Ice
+Pink Ice
+Lime Ice
+Yellow Ice
+Light Blue Ice
+Magenta Ice
+Orange Ice
+White Ice
+Black Clay Block
+Red Clay Block
+Green Clay Block
+Brown Clay Block
+Blue Clay Block
+Purple Clay Block
+Cyan Clay Block
+Light Gray Clay Block
+Gray Clay Block
+Pink Clay Block
+Lime Clay Block
+Yellow Clay Block
+Light Blue Clay Block
+Magenta Clay Block
+Orange Clay Block
+White Clay Block
+Black Snow Block
+Red Snow Block
+Green Snow Block
+Brown Snow Block
+Blue Snow Block
+Purple Snow Block
+Cyan Snow Block
+Light Gray Snow Block
+Gray Snow Block
+Pink Snow Block
+Lime Snow Block
+Yellow Snow Block
+Light Blue Snow Block
+Magenta Snow Block
+Orange Snow Block
+White Snow Block
+Black Netherrack
+Red Netherrack
+Green Netherrack
+Brown Netherrack
+Blue Netherrack
+Purple Netherrack
+Cyan Netherrack
+Light Gray Netherrack
+Gray Netherrack
+Pink Netherrack
+Lime Netherrack
+Yellow Netherrack
+Light Blue Netherrack
+Magenta Netherrack
+Orange Netherrack
+White Netherrack
+Black Soul Sand
+Red Soul Sand
+Green Soul Sand
+Brown Soul Sand
+Blue Soul Sand
+Purple Soul Sand
+Cyan Soul Sand
+Light Gray Soul Sand
+Gray Soul Sand
+Pink Soul Sand
+Lime Soul Sand
+Yellow Soul Sand
+Light Blue Soul Sand
+Magenta Soul Sand
+Orange Soul Sand
+White Soul Sand
+Black Glowstone
+Red Glowstone
+Green Glowstone
+Brown Glowstone
+Blue Glowstone
+Purple Glowstone
+Cyan Glowstone
+Light Gray Glowstone
+Gray Glowstone
+Pink Glowstone
+Lime Glowstone

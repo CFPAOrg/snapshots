@@ -1,0 +1,46 @@
+ADDSynthCore
+Caution Block
+Music Box
+Music Sheet
+Wooden Scythe
+Stone Scythe
+Iron Scythe
+Golden Scythe
+Diamond Scythe
+North
+South
+West
+East
+Up
+Down
+Harp
+Bass
+Bass Drum
+Snare Drum
+Click
+Bell
+Chime
+Flute
+Guitar
+Xylophone
+Scythes are used to cut leaves off of trees very quickly. They are mined as though you mined them by hand.
+Press keys on your keyboard to change notes. Arrange notes on the grid, and press PLAY to hear the current Music Box. Activate a Music Box with a redstone signal. When one Music Box is done playing, it will search in the NEXT direction for another Music Box and play that one.
+The Music Sheet can be used to copy Music Box data to other Music Boxes. Right-click a Music Box to copy data. When the Music Sheet has data, right-click Music Boxes to paste. Right-clicking without looking at a Music Box will clear the data.
+Play
+Next
+Speed
+ticks
+bpm
+Current Note
+Instrument
+Music Sheet cleared.
+Music data copied to Music Sheet.
+Music Sheet pasted to Music Box.
+ADDSynthCore
+Core mod required for all of ADDSynth's mods.
+Caution Block
+Craft a Caution Block
+Music Box
+Craft a Music Box
+Scythe
+Craft a Scythe

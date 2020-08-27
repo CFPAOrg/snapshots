@@ -1,0 +1,7 @@
+item.sips.lil_sip.name
+item.sips.big_chug.name
+desc.sips.empty
+desc.sips.sips
+fluid.mushroom_stew
+fluid.milk
+death.sipped

@@ -1,0 +1,9 @@
+Freelancer
+Freelancer: +20 Skill Points | No Extra XP
+LevelUp! Configuration Screen
+Allow HUD : %b
+Render HUD on Top Left : %b
+Render HUD on Exp Bar : %b
+FOV is based on speed : %b
+Sneak attack for %d x damage!
+§e§l[Level Up!]§r§e You must reach level 4 before choosing a class.§r

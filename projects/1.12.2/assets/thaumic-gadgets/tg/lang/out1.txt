@@ -1,0 +1,60 @@
+Ancient Holder
+Pillar of Creation
+Book Holder
+Holder
+Ancient Holder Blank
+Pillar of Creation Blank
+Spinning Wheel
+Spinning Wheel
+Cutting Table
+Cutting Table
+Thaumic Extruder
+Upgraded Thaumic Extruder
+Infernal Blast Furnace
+Terramorfer
+Focus (Taiga)
+Focus (Desert)
+Focus (Hell)
+Focus (Jungle)
+Focus (Mushroom)
+Focus (Plains)
+Focus (Ice Plains)
+Focus (Forest)
+Focus (Swamp)
+Focus (Savanna)
+Shade Rose Bush
+Shade Rose
+Light Rose Bush
+Light Rose
+Primal Regeneration
+Teleportator Name:
+Position:
+Choose Desired Point:
+Ignore All Lists
+Use Blacklist
+Use Whitelist
+Not Enought Vis
+Teleport to Selected Position
+Limiting Contour
+Platform
+Spatial Matrix
+Teleportator
+Thaumic Gadgets
+Corrupted Observer
+Thaumic Gadgets
+Thaumic Gadgets
+The beginning of a new way
+Weaving
+Magic cloth. It would seem that in it this? What else can you do with it, except as a magician's attire. But still... And what if we twist several types of fabric and, say, stretched to the size of a thaum metal thread?
+Surprisingly, it worked. However, it was not fabric a ... Yarn. yarn, quite suitable for creating a different fabric. Now it remains to think of an application for it...
+Upgraded Weaving
+Magic cloth. It would seem that in it this? What else can you do with it, except as a magician's attire. But still... And what if we twist several types of fabric and, say, stretched to the size of a thaum metal thread?
+Combining the previous success and new knowledge, you created a light, shadow, ethereal and hollow yarn, as well as fabrics - Light, shadow, hollow, enchanted and changeable. Soon, you can find them application...
+Flying Carpet
+Placeholder start research
+Placeholde finish research
+Better Flying Carpet
+Placeholder start research
+Placeholde finish research
+Magic Bags
+You constantly do not have enough pockets to carry all these things. Always like this. Just go in search of adventure - and find something interesting, and then more, more... And already full pockets... You need to solve this problem.

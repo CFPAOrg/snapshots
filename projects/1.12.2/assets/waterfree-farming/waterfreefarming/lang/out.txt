@@ -1,0 +1,19 @@
+Fertilized Dirt
+Tilled Fertilized Dirt
+Redstone Infused Fertilized Dirt
+Redstone Infused Tilled Fertilized Dirt
+Controller Fertilized Dirt
+Controller Tilled Fertilized Dirt
+Fertilize Machine
+Injector
+Fertilized Sand
+Controller Fertilized Sand
+Redstone Infused Fertilized Sand
+Water Tank
+Clay Hoe
+Detector
+Pipes
+Waterfree Farming
+Fertilize Machine
+Injector
+Controller

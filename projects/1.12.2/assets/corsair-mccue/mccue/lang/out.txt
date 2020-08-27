@@ -1,0 +1,69 @@
+Add
+Delete
+Trigger
+Animation
+Shader
+Trigger: %s
+Animation: %s
+Shader: %s
+...right-click to configure...
+...left-click to select...
+Edit
+IF
+THEN
+WITH
+Trigger Key:
+If %s, then %s with %s.
+Attack Entity
+you attack entity
+Block Destroyed
+you destroy block (no drops)
+Block Harvested
+you harvest block (with drops)
+Player Hurt
+you get hurt
+Load Complete
+minecraft finishes loading
+Button Clicked
+GUI button is clicked
+Redstone Trigger
+in-world block triggered
+Block Placed
+you place block
+Flash LED
+flash LED
+Double Flash LED
+double-Flash LED
+Color Shader
+color
+"%s" color
+Rainbow Shader
+rainbow
+RGB Mouse
+RGB Keyboard
+RGB Mouse Pad
+RGB Headset Stand
+RGB Headset
+RGB DRAM
+Unkn. RGB Device
+§aTRUE
+§cFALSE
+Trigger Key
+Flash Time (MS)
+Sine Interpolation
+Brightness Amplitude [0-100]
+1-st Wave Flash Time (MS)
+1-st Wave Sine Interpolation
+1-st Wave Brightness Amplitude [0-100]
+2-nd Wave Flash Time (MS)
+2-nd Wave Sine Interpolation
+2-nd Wave Brightness Amplitude [0-100]
+Shader Color
+Rainbow Speed
+Redstone Trigger
+Mouse Zone 1
+Mouse Zone 2
+Mouse Zone 3
+Mouse Zone 4
+Mouse Zone 5
+Mouse Zone 6

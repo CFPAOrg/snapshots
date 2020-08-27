@@ -1,0 +1,85 @@
+Advanced Torch
+Advanced Torch (Red)
+Advanced Torch (Blue)
+Advanced Torch (Green)
+Advanced Torch (Purple)
+Soul Fire Torch
+Advanced Torch (White)
+Advanced Torch (Pink)
+Advanced Torch (Yellow)
+Advanced Torch (Lime)
+Advanced Torch (Brown)
+Advanced Torch (Gray)
+Advanced Torch (Light Gray)
+Advanced Torch (Black)
+Advanced Lantern
+Advanced Lantern (Blue)
+Advanced Lantern (Red)
+Advanced Lantern (Green)
+Advanced Lantern (Purple)
+Soul Fire Lantern
+Advanced Lantern (White)
+Advanced Lantern (Pink)
+Advanced Lantern (Yellow)
+Advanced Lantern (Lime)
+Advanced Lantern (Brown)
+Advanced Lantern (Gray)
+Advanced Lantern (Light Gray)
+Advanced Lantern (Black)
+Tiki Torch
+Tiki Torch (Red)
+Tiki Torch (Green)
+Tiki Torch (Blue)
+Tiki Torch (Purple)
+Tiki Torch Base
+Tiki Torch (White)
+Tiki Torch (Pink)
+Tiki Torch (Yellow)
+Tiki Torch (Lime)
+Tiki Torch (Brown)
+Tiki Torch (Gray)
+Tiki Torch (Light Gray)
+Tiki Torch (Black)
+Candle
+Candle (Red)
+Candle (Green)
+Candle (Blue)
+Candle (Purple)
+Candle (White)
+Candle (Pink)
+Candle (Yellow)
+Candle (Lime)
+Candle (Brown)
+Candle (Gray)
+Candle (Light Gray)
+Candle (Black)
+Colored Redstone Lamp
+Colored Redstone Lamp (Green)
+Colored Redstone Lamp (Blue)
+Colored Redstone Lamp (Red)
+Colored Redstone Lamp (Purple)
+Colored Redstone Lamp (White)
+Colored Redstone Lamp (Pink)
+Colored Redstone Lamp (Yellow)
+Colored Redstone Lamp (Lime)
+Colored Redstone Lamp (Brown)
+Colored Redstone Lamp (Light Gray)
+Colored Redstone Lamp (Gray)
+Colored Redstone Lamp (Black)
+Suspicious Lamp
+Dangerous Lamp
+Solar Fence Light
+Disco Light
+Edge Light (Bottom)
+Edge Light (Top)
+Switch Board
+Camp Fire
+A campfire that can be used to cook food and provide light
+Gets put out by rain
+Spongebob Camp Fire
+A campfire straight out of Spongebob. It cooks, provides light and works underwater!
+Does not get put out by rain
+Lighter Tool
+Hyper Lighting
+Hyper Lighting Machines
+Candle in a Jar

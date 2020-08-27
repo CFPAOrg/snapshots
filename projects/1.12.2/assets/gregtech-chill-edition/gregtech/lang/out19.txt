@@ -1,0 +1,78 @@
+Ultimate Air Collector
+Collects air from adjacent air blocks
+Tesla Coil
+Damages all living entities within 7 blocks range/nConsumes 2500 EU for 1 damage point/nInternal buffer Capacity: §e256k EU
+Fusion Reactor
+Fusion Reactor [Mark II]
+The Fusion Reactor is a large multiblock structure used for fusing elements into heavier ones. The Mark 1 Fusion Reactor can use LuV, ZPM or UV Energy Hatches./nFor every Hatch it has its buffer increases by 100k.
+The Fusion Reactor Mark 2 is a large multiblock structure used for fusing elements into heavier ones./nThe Mark 2 Fusion Reactor can only use UV Energy Hatches./nFor every Hatch it has its buffer increases by 200k.
+Bedrock Drill
+The Assembly Line is a large multiblock structure consisting of 5 to 16 "slices"./nIn theory, it's a large Assembler, used for creating advanced crafting components.
+Allow Input from Output Side
+Disallow Input from Output Side
+Main
+Materials
+Ores
+Clay
+Slimeball
+Peat
+Stickyresin
+Coal
+Oil
+Redstone
+Lapis
+Certus
+Ruby
+Sapphire
+Diamond
+Olivine
+Emerald
+Copper
+Tin
+Lead
+Iron
+Steel
+Nickel
+Zinc
+Silver
+Gold
+Aluminium
+Titanium
+Chrome
+Manganese
+Tungsten
+Platinum
+Iridium
+Uranium
+Plutonium
+Naquadah
+Catches Butterflies on Leftclick
+Activates and Deactivates Machines
+Rotates Blocks on Rightclick
+by %s
+Can paint things in white
+Can paint things in orange
+Can paint things in magenta
+Can paint things in light blue
+Can paint things in yellow
+Can paint things in lime
+Can paint things in pink
+Can paint things in gray
+Can paint things in gray
+Can paint things in cyan
+Can paint things in purple
+Can paint things in blue
+Can paint things in brown
+Can paint things in green
+Can paint things in red
+Can paint things in black
+Remaining Uses: %d
+Usable for Prospecting
+Primitive Blast Furnace
+Electric Blast Furnace
+Vacuum Freezer
+Implosion Compressor
+Pyrolyse Oven
+Distillation Tower
+Multi Smelter
+Cracker Unit

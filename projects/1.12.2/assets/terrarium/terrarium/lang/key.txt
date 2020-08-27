@@ -1,0 +1,15 @@
+gui.terrarium.accept
+gui.terrarium.preset
+gui.terrarium.remote_data_warning.1
+gui.terrarium.remote_data_warning.2
+gui.terrarium.remote_data_warning.3
+gui.terrarium.remote_data_warning.4
+gui.terrarium.remote_data_warning.5
+gui.terrarium.select_preset.name
+options.terrarium.customize_world_title.name
+options.terrarium.preview_world_title.name
+property.terrarium.slider_range.name
+property.terrarium.slider_fine.name
+property.terrarium.locked.name
+toast.terrarium.data_failure.title
+toast.terrarium.data_failure.desc

@@ -1,0 +1,30 @@
+English
+US
+en_US
+Komodo
+Savanna
+Griseus
+Perentie
+Lace
+Iguana
+Chameleon
+Crocodile
+Desert Tortoise
+Little Turtle
+Large Crocodile
+Alligator
+Tortoise
+Crocodile Monitor
+Megalania
+Cooked Reptile Meat
+Raw Reptile Meat
+Reptile Hide
+Cooked Turtle Meat
+Raw Turtle Meat
+Turtle Hide
+Cooked Croc Meat
+Raw Croc Meat
+Croc Hide
+Cooked Megalania Meat
+Raw Megalania Meat
+Megalania Hide

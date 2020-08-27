@@ -1,0 +1,46 @@
+Static FoV
+Set to true to disable all vanilla FoV modifiers
+Super Static FoV
+Set to true to disable all FoV modifiers, including modded ones
+Flying
+Configure flying FoV settings
+Modifier
+The modifier to multiply by the original FoV modifier
+Max Value
+The maximum FoV flying modifier value
+Min Value
+The minimum FoV flying modifier value
+Aiming
+Configure aiming FoV settings
+Modifier
+The modifier to multiply by the original FoV modifier
+Max Value
+The maximum FoV aiming modifier value
+Min Value
+The minimum FoV aiming modifier value
+Speed
+Configure speed FoV settings
+Sprinting
+Configure sprinting FoV settings
+Modifier
+The modifier to multiply by the original FoV modifier
+Max Value
+The maximum FoV sprinting modifier value
+Min Value
+The minimum FoV sprinting modifier value
+Effects
+Configure speed potion effects FoV settings
+Modifier
+The modifier to multiply by the original FoV modifier
+Max Value
+The maximum FoV effects modifier value
+Min Value
+The minimum FoV effects modifier value
+Underwater
+Configure underwater FoV settings
+Modifier
+The modifier to multiply by the original FoV modifier
+Max Value
+The maximum FoV underwater modifier value
+Min Value
+The minimum FoV underwater modifier value

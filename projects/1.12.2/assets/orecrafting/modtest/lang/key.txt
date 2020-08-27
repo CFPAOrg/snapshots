@@ -1,0 +1,11 @@
+commands.kill2.usage
+achievement.cheater
+achievement.cheater.desc
+achievement.diamondore
+achievement.diamondore.desc
+achievement.skyblock
+achievement.skyblock.desc
+achievement.kill_block_entity
+achievement.kill_block_entity.desc
+entity.testmod.block_entity.name
+entity.testmod.BlockEntity.name

@@ -1,0 +1,92 @@
+Obsidian Sword
+Sand Pink
+Fence Cobblestone Green
+Stairs Mossy Cobble Grey Lgt
+Walls Mossy Cobble Purple
+Andesite Blue Polished
+Stairs Coarse Dirt Blue Light
+Cavern Stone Lime Slab
+NetherRack Orange Brick
+Slab Iron Block Magenta
+Nether Brick Pink
+Stairs Cobblestone Red
+Slab Red Sand
+Stairs Sand Cyan
+Slab Andesite Green
+Slab Coarse Dirt Lime
+Slab Sand Purple
+Cobble Purple
+Stairs Mossy Cobble Blue
+Slab Bricks Green
+Smooth Stone Grey Mid
+Fence Cobblestone Magenta
+Crate Plank Grey Dark
+CoarseDirtDeepRed
+Fence Andesite Blue Light
+Stones Bricks
+Nether Brick Orange
+Stairs Iron Lime
+Slab Cobble Magenta
+Slab Bricks Black
+Fence Bricks Green
+Stone Brick Carved Grey Dark
+Andesite Green
+Mossy Cobble Grey Dark
+Walls Bricks Orange
+Fence Stone Blue
+Walls Andesite Lime
+Fence Cobblestone Purple
+Smooth Stone Lime
+Stairs Smooth Stone Purple
+CratePlankDeepGrey
+Mossy Cobble Purple
+Iron Pink
+Stairs Cobblestone Pink
+Column Stone Black
+Slab Andesite Polished Lime
+Slab Andesite Polished Magenta
+Crate Plank Red
+Stairs Coarse Dirt Orange
+Fence Cobblestone White
+Smooth Stone Grey Light
+Slab Andesite Brown
+NetherRack Mid Grey Brick
+Iron Dark Grey
+Gravel Orange
+Fence Andesite Purple
+NetherRack Yellow
+Walls Bricks Multi
+Stone Blue Light
+Walls Mossy Cobble Magenta
+Stone Brick Grey Dark
+Walls Cobblestone White
+Fence Iron Grey Mid
+Fence Bricks Pink
+Slab Sand Grey Mid
+Stairs Gravel
+Slab Andesite Polished White
+Stone Brick Carved Purple
+Slab Iron Block
+Andesite Lime Polished
+Gravel Cyan
+Nether Brick Mid Grey
+Coarse Dirt White
+Crate Nut
+Slab Mossy Cobble Green
+Stairs Bricks Pink
+Stairs Andesite Grey Mid
+Forest Igniter
+Stone Orange
+Walls Andesite Green
+Cavern Stone Orange
+Stone Cyan
+Mossy Cobble Blue
+Stairs Mossy Cobble Brown
+NetherRack Mid Grey
+Slab Mossy Cobble Cyan
+Stairs Cobblestone Orange
+Slab Cobble Black
+Fence Bricks Deep Red
+Walls Mossy Cobble Pink
+Mossy Stone Brick Blue
+CrateWorldIgniter

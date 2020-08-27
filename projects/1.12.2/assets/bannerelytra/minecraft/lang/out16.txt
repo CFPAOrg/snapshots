@@ -1,0 +1,54 @@
+/testforblocks <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [mode]
+Cannot access blocks outside of the world
+Source and destination are not identical
+%s blocks compared
+Too many blocks in the specified area (%s > %s)
+/blockdata <x> <y> <z> <dataTag>
+Block data updated to: %s
+Data tag parsing failed: %s
+Cannot change block outside of the world
+The target block is not a data holder block
+The data tag did not change: %s
+/entitydata <entity> <dataTag>
+Entity data updated to: %s
+Data tag parsing failed: %s
+%s is a player and cannot be changed
+The data tag did not change: %s
+/effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
+There is no such mob effect with ID %s
+Given %1$s (ID %2$s) * %3$s to %4$s for %5$s seconds
+Took %1$s from %2$s
+Took all effects from %s
+Couldn't take %1$s from %2$s as they do not have the effect
+Couldn't take any effects from %s as they do not have any
+/enchant <player> <enchantment ID> [level]
+There is no such enchantment with ID %s
+The target doesn't hold an item
+The selected enchantment can't be added to the target item
+%1$s can't be combined with %2$s
+Enchanting succeeded
+/particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode] [player] [params]
+Playing effect %s for %s times
+Unknown effect name (%s)
+Invalid param given (%s)
+/clear [player] [item] [data] [maxCount] [dataTag]
+Cleared the inventory of %s, removing %s items
+%s has %s items that match the criteria
+Could not clear the inventory of %s, no items to remove
+Data tag parsing failed: %s
+/toggledownfall
+Toggled downfall
+/time <set|add|query> <value>
+Added %s to the time
+Set the time to %s
+Time is %s
+/list
+There are %s/%s players online:
+There are %s total banned IP addresses:
+There are %s total banned players:
+/banlist [ips|players]
+/kill [player|entity]
+Killed %s
+Kicked %s from the game
+Kicked %s from the game: '%s'
+/kick <player> [reason ...]

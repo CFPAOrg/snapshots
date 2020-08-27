@@ -1,0 +1,4 @@
+Time Between Animals
+Angry Wolves
+Animal Spawn Radius
+Animal Spawn Height

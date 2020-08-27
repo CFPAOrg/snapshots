@@ -1,0 +1,93 @@
+Pick Head Hsla Steel
+Shovel Hsla Steel
+Shovel Head Hsla Steel
+Axe Hsla Steel
+Axe Head Hsla Steel
+Hoe Hsla Steel
+Hoe Head Hsla Steel
+Chisel Hsla Steel
+Chisel Head Hsla Steel
+Sword Hsla Steel
+Sword Blade Hsla Steel
+Mace Hsla Steel
+Mace Head Hsla Steel
+Saw Hsla Steel
+Saw Blade Hsla Steel
+Javelin Hsla Steel
+Javelin Head Hsla Steel
+Hammer Hsla Steel
+Hammer Head Hsla Steel
+Propick Hsla Steel
+Propick Head Hsla Steel
+Knife Hsla Steel
+Knife Blade Hsla Steel
+Scythe Hsla Steel
+Scythe Blade Hsla Steel
+Shears Hsla Steel
+Unfinished Chestplate Hsla Steel
+Chestplate Hsla Steel
+Unfinished Greaves Hsla Steel
+Greaves Hsla Steel
+Unfinished Boots Hsla Steel
+Boots Hsla Steel
+Unfinished Helmet Hsla Steel
+Helmet Hsla Steel
+Hsla Steel Shield
+Molten Ferroboron
+Ferroboron Ingot
+Unshaped Ferroboron
+Ferroboron Double Ingot
+Double Ingot Ferroboron
+Ferroboron Scrap
+Scrap Ferroboron
+Ferroboron Dust
+Dust Ferroboron
+Ferroboron Nugget
+Nugget Ferroboron
+Ferroboron Sheet
+Sheet Ferroboron
+Ferroboron Double Sheet
+Double Sheet Ferroboron
+Anvil Ferroboron
+Ferroboron Tuyere
+Tuyere Ferroboron
+Ferroboron Lamp
+%s Ferroboron Lamp
+Lamp Ferroboron
+Pick Ferroboron
+Pick Head Ferroboron
+Shovel Ferroboron
+Shovel Head Ferroboron
+Axe Ferroboron
+Axe Head Ferroboron
+Hoe Ferroboron
+Hoe Head Ferroboron
+Chisel Ferroboron
+Chisel Head Ferroboron
+Sword Ferroboron
+Sword Blade Ferroboron
+Mace Ferroboron
+Mace Head Ferroboron
+Saw Ferroboron
+Saw Blade Ferroboron
+Javelin Ferroboron
+Javelin Head Ferroboron
+Hammer Ferroboron
+Hammer Head Ferroboron
+Propick Ferroboron
+Propick Head Ferroboron
+Knife Ferroboron
+Knife Blade Ferroboron
+Scythe Ferroboron
+Scythe Blade Ferroboron
+Shears Ferroboron
+Unfinished Chestplate Ferroboron
+Chestplate Ferroboron
+Unfinished Greaves Ferroboron
+Greaves Ferroboron
+Unfinished Boots Ferroboron
+Boots Ferroboron
+Unfinished Helmet Ferroboron
+Helmet Ferroboron
+Ferroboron Shield
+Molten Tough

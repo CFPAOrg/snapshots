@@ -1,0 +1,79 @@
+Tungsten Steel Mace Head
+Tungsten Steel Saw
+Tungsten Steel Saw Blade
+Tungsten Steel Shears
+Tungsten Steel Shield
+Tungsten Steel Javelin
+Tungsten Steel Javelin Head
+Tungsten Steel Hammer
+Tungsten Steel Hammer Head
+Tungsten Steel Prospector's Pickaxe
+Tungsten Steel Prospector's Pickaxe Head
+Tungsten Steel Knife
+Tungsten Steel Knife Blade
+Tungsten Steel Scythe
+Tungsten Steel Scythe Blade
+Tungsten Steel Lamp
+%s Tungsten Steel Lamp
+Unshaped Tungsten Steel
+Tungsten Steel Chestplate
+Tungsten Steel Greaves
+Tungsten Steel Boots
+Tungsten Steel Helmet
+Unfinished Tungsten Steel Chestplate
+Unfinished Tungsten Steel Boots
+Unfinished Tungsten Steel Helmet
+Unfinished Tungsten Steel Greaves
+Tungsten Steel Anvil
+Nickel Silver Ingot
+Nickel Silver Double Ingot
+Nickel Silver Scrap
+Nickel Silver Dust
+Nickel Silver Nugget
+Nickel Silver Sheet
+Nickel Silver Double Sheet
+Nickel Silver Tuyere
+Nickel Silver Pickaxe
+Nickel Silver Pickaxe Head
+Nickel Silver Shovel
+Nickel Silver Shovel Head
+Nickel Silver Axe
+Nickel Silver Axe Head
+Nickel Silver Hoe
+Nickel Silver Hoe Head
+Nickel Silver Chisel
+Nickel Silver Chisel Head
+Nickel Silver Sword
+Nickel Silver Sword Blade
+Nickel Silver Mace
+Nickel Silver Mace Head
+Nickel Silver Saw
+Nickel Silver Saw Blade
+Nickel Silver Shears
+Nickel Silver Shield
+Nickel Silver Javelin
+Nickel Silver Javelin Head
+Nickel Silver Hammer
+Nickel Silver Hammer Head
+Nickel Silver Prospector's Pickaxe
+Nickel Silver Prospector's Pickaxe Head
+Nickel Silver Knife
+Nickel Silver Knife Blade
+Nickel Silver Scythe
+Nickel Silver Scythe Blade
+Nickel Silver Lamp
+%s Nickel Silver Lamp
+Unshaped Nickel Silver
+Nickel Silver Chestplate
+Nickel Silver Greaves
+Nickel Silver Boots
+Nickel Silver Helmet
+Unfinished Nickel Silver Chestplate
+Unfinished Nickel Silver Boots
+Unfinished Nickel Silver Helmet
+Unfinished Nickel Silver Greaves
+Nickel Silver Anvil
+Aluminum
+Aluminum Brass
+Antimony
+Ardite

@@ -1,0 +1,43 @@
+Poison Cloud
+Create a poisonous cloud of gas
+Every 3 points of <POTENCY> increases the level of poison by 1. Potency above 3 will also inflict nausea.
+Will inflict poison on each entity within <AREA> blocks.
+Lasts half a second for each point of <DURATION>.
+Decay
+Causes the target to decay, slowing and withering them.
+Every 5 points of <POTENCY> increases the level of slowness and wither by 1.
+Lasts half a second for each point of <DURATION>.
+Grace
+Grants increased movement speed until the next attack, which will automatically crit.
+Lasts half a second for each point of <DURATION>, until an attack is made.
+Shatter
+Deals damage to a target, increased for each level of slowness or frost on them.
+Deals a base damage of <POTENCY>/2, increased by 50% per level of slowness or frost.
+Sonic Scream
+Deals damage to a target. If they die from this, they explode, dealing the same damage to all entities in an area.
+Deals <POTENCY>/2 damage.
+Secondary explosion deals damage to all entities within <AREA>/2 blocks.
+Suffocate
+Causes the target to suffocate as if they had run out of air.
+Lasts half a second for each point of <DURATION>.
+Bouncing
+Entities hit by this spell will bounce on everything they fall on. Blocks hit will also become bouncy.
+Lasts half a second for each point of <DURATION>.
+On Block Collision
+This event triggers when the spell collides with a block. Place directly before an effect to cause it to only affect blocks.
+On Entity Collision
+This event triggers when the spell collides with an entity. Place directly before an effect to cause it to only affect entities.
+Extend Range
+Lengthens the range of reach of the spell.
++ Range
+Extend Effect
+Extends the length of time the spell lasts.
++ Time
+Increase Area
+Increases the spell's area of effect.
++ Area
+Increase Power
+Amplifies a spell's strength.
++ Power
+Increase Speed
+Increases the velocity of the spell, as with projectiles.

@@ -1,0 +1,3 @@
+tile.laser.name
+tile.shield.name
+itemGroup.tabLasers

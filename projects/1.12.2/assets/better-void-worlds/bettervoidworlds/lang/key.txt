@@ -1,0 +1,15 @@
+ouw.portalblock.portalto
+SharedVoid
+ouw.PrivateVoid
+ouw.portalblock.broken
+the_nether
+the_end
+overworld
+itemGroup.bettervoidworlds
+ouw.waila.canpvd
+ouw.waila.nay
+ouw.waila.hba
+ouw.waila.tt
+ouw.waila.pt
+ouw.block.pta
+ouw.block.dim

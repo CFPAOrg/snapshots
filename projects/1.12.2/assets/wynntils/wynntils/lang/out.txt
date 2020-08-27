@@ -1,0 +1,54 @@
+English
+ United States
+en_us
+Wyntils
+Click here to edit Wynncraft RichPresence configurations
+Market Account
+Don't change this if you have no idea what it is
+Inventory Configs
+Wynncraft RichPresence
+Discord Configurations
+Click here to edit some discord configurations
+Available: Any, Stable, Canary, PTB
+Collect data from your client to provide game bomb info
+If you want to reset your market account, set this to YES and save the settings
+Expansion
+Chat Settings
+Party Chat
+Guild Chat
+Main Chat
+Enable Chat
+Player Inventory
+Chest Inventory
+Items
+§5Mythic
+§bLegendary
+§dRare
+§eUnique
+§aSet
+Normal
+Nameplate
+Name Format
+Id'd Name Format
+Unid'd Name Format
+Highlight on the ground
+Highlight in Inventories
+Announcements
+Announcement Size
+Play Sound
+Sound Location
+Powders
+§c✹ Fire
+§b❉ Water
+§f❋ Air
+§e✦ Thunder
+§2✤ Earth
+§8✣ Blank
+Name Format
+Highlight Colour
+Tier I
+Tier II
+Tier III
+Tier IV
+Tier V
+Tier VI

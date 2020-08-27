@@ -1,0 +1,74 @@
+Crystalized Block
+Crystalized Ingot
+Crystalized Dust
+Crystalized Nugget
+Crystalized Pickaxe
+Crystalized Axe
+Crystalized Shovel
+Crystalized Sword
+Crystalized Hoe
+Crystalized Shears
+Crystalized Helmet
+Crystalized Chestplate
+Crystalized Leggings
+Crystalized Boots
+Infusion Furnace
+Infusion Furnace
+Infusion              Furnace
+65.5m Storage Part
+262m Storage Part
+1b Storage Part
+65.5m Storage Disk
+262m Storage Disk
+1b Storage Disk
+Crystalized Bucket
+Crystalized
+Crystalized
+Welcome to More Refined Storage
+Suit Up
+Stand out from the crowd with a stylish pair of crystalized leggings!
+Sheep Shearing
+Finally, shears that don't break instantly!
+Coalescence
+Craft a Fusion Furnace to open up new possibilities
+Glace Skeleton
+Glace Skeleton
+Frost Shot
+Potion of Freezing
+Splash Potion of Freezing
+Arrow of Freezing
+Lingering Potion of Freezing
+Freeze
+Anti Freeze
+Freezing
+Progress: %s
+Infusion Furnace
+Infusion Furnace
+Will be dropped by a Glace Skeleton that spawn on snow.
+Structure
+> new line
+More Refined Storage Guide
+Blocks
+Items
+Mobs
+Tools
+Combat Tools
+Enchanting
+Crystalized Dust
+Crystalized Ingot
+Crystalized Nugget
+65.5m Storage Part
+262m Storage Part
+1b Storage Part
+65.5m Storage Disk
+262m Storage Disk
+1b Storage Disk
+A crystalized nugget can be retrieved from a Crystalized Chicken. This can be used to create an Crystalized Ingot.
+A crystalized ingot is made by combining crystalized dust, iron and prismarine crystals in the infusion furnace. The crystalized ingot is used in making bigger drives, armor and tools.
+crystalized dust can be obtained by killing glace skeleton, but is also the main part of the crystalized ingot
+Is used to make the 65m storage disk
+Is used to make the 262m storage disk
+Is used to make the 1b storage disk
+This storage disk can hold 65 million items.
+This storage disk can hold 262 million items.
+This storage disk can hold 1 billion items.

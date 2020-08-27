@@ -1,0 +1,6 @@
+item.selector.name
+item.debugger.name
+tile.single_teleporter.name
+tile.area_teleporter.name
+tile.creative_generator.name
+itemGroup.structuralrelocation

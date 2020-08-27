@@ -1,0 +1,36 @@
+NVL's Tools
+NVL's Blocks
+§5Enchantment Transfer Table
+§bDecrafting Table
+§eBlock Compressor
+§bSpawn Point Terminal
+§bHolographic Sign
+§bEmergency Teleporter
+No saved coordinates found for this dimension!!!
+Teleport was costing you life points (Try keeping emeralds or diamonds in your inventory)
+Teleport was costing you diamonds!
+Teleport was costing you emeralds!
+Your spawn point in this dimension set to: 
+required: 
+A recipe available but requires more: §e
+requirement: 
+Store compressed items
+Transfer compressed items to East
+Transfer compressed items to West
+Transfer compressed items to Up
+Transfer compressed items to Down
+Transfer compressed items to North
+Transfer compressed items to South
+East-West direction
+North-South direction
+Projects to East
+Projects to West
+Projects to North
+Projects to South
+Do not project
+This is the latest advancements of the compressor family. It compresses any compressible blocks from §dwood§f though §7cobblestone§f or even the §eingots§f.\nYou can set it to automatically output the compressed materials to the next available container on the GUI.
+Do you remember the feeling when you used up all of your precious diamonds to craft a second shovel instead of a pickaxe and there is no going back?\nNow there is! This table can decraft anything (or showing you the original recipe :))\nCompatible with any vanilla or §eIC2§f recipe.
+This table lets you to transfer enchantments between enchantable items and magic books.\nIt is using §9lapis lazuli§f for the operations.
+This terminal allows you set your Spawn Point. It is very useful to use before you go to a dangerous mission.
+With this tool you can teleport yourself to the latest saved spawn point in that dimension. The cost will be either §a1 emerald§f or §e3 diamonds§f or almost all of your §clife points§f!
+A holographic projection next to the HoloSign block which projects the picture of the item you choose. You can choose the direction of the projection too.

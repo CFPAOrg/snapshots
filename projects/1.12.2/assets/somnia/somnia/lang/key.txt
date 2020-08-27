@@ -1,0 +1,14 @@
+somnia.config.title
+somnia.config.fatigue
+somnia.config.sideEffects
+somnia.config.sideEffects.tooltip
+somnia.config.logic
+somnia.config.options
+somnia.config.performance
+somnia.config.timings
+somnia.status.armor
+somnia.status.cooldown
+somnia.status.expired
+somnia.status.not_now
+somnia.status.waiting
+somnia.status.waiting_players

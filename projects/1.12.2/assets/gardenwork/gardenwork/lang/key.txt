@@ -1,0 +1,3 @@
+tile.gardenworkbench.name
+tile.growthaccelerator.name
+item.fertilizer.name

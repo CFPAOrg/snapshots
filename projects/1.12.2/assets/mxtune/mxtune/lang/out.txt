@@ -1,0 +1,59 @@
+Hold Ctrl + Left-Mouse-Click
+Hold Ctrl + Spacebar and use Up/Down arrow keys.
+%s - To toggle rows selection.
+%s - To clear
+Click entry to show songs in the Day and Night lists.
+Double-Click entry to apply it to the Staff of Music.
+Default Playlists:
+%s - Apply to remove a playlist. World/Biome/Chunk
+%s - Apply to Chunks that you don't want World-Dimemsion/Biome background music.
+Upload Playlist: %s
+Uploading %s of %s: %s
+MxTune Music File (.mxt) is missing or corrupt: %s
+Song Not Found in Music Library! %s of %s: %s
+Set Staff of Music Playlist to: %s
+Failed to Set Staff of Music Playlist!
+Playing (%s) %s
+MXT Filename:
+Status
+Chars: %s, Duration: %s, Metadata: %s
+Volume
+Pan Left
+Pan Right
+Reverb
+Chorus
+Last Song Playlist: '%s'-%s, Song Duration: %s
+Last Song Title: '%s'
+Night
+Day
+[null]
+[ No Playlist ]
+[ No Music ]
+Ready to play music.
+MIDI subsystem failure! Unable to play music!
+Increase memory, change JVM options and/or reduce the number of mods used.
+If using a large sound font, try a smaller one.
+No Soundbank loaded
+Can't join a group because Music Options [Mute All] is enabled.
+Can't join %s's group because they are muted in Music Options.
+Cannot sleep while in a JAM.
+The Master Volume is OFF! Can't Play!
+The Jukebox/Note Blocks Volume is OFF! Can't Play!
+Joined %s's group
+%s joined the group
+Can't join %s's group. Too many members.
+%s can't join group. Too many members.
+Can't join a group if you are a member of a group.
+%s is not the leader of the group.
+No Error. %s
+Unexpected type $s
+Unable to create folder: %s and/or file: %s
+Network Timeout: request took longer than > %s seconds.
+Network Data Error. %s
+Unexpected data error. %s
+MML server side validation failure! Please review the log files.
+Out of Music Paper!
+"You don't have permission to update server files."
+Normal
+Infinity
+Musician

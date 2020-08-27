@@ -1,0 +1,29 @@
+Base RF/t the fuel combos produce. Order: H-H, H-D, H-T, H-He3, H-Li6, H-Li7, H-B11, D-D, D-T, D-He3, ..., D-B11, T-T, ..., T-B11, ..., B11-B11.
+Fusion Fuel Combo Heat Variables
+Heat variables that determine the efficiency curves of the fuel combos. These are proportional to the optimal temperatures. Order: H-H, H-D, H-T, H-He3, H-Li6, H-Li7, H-B11, D-D, D-T, D-He3, ..., D-B11, T-T, ..., T-B11, ..., B11-B11.
+Fusion Fuel Combo Radiation
+Base radiation the fuel combos produce while processing. Order: H-H, H-D, H-T, H-He3, H-Li6, H-Li7, H-B11, D-D, D-T, D-He3, ..., D-B11, T-T, ..., T-B11, ..., B11-B11.
+Electromagnet Power
+RF/t required to keep an electromagnet active.
+Heat Exchanger Configs
+Configure aspects of heat exchangers.
+Minimum Structure Length
+Minimum side length of heat exchangers.
+Maximum Structure Length
+Maximum side length of heat exchangers.
+Tube Conductivity
+Multiplier for heat transfer rate to and from this type of tube. For heat exchanging tubes, heating recipes will be faster by this factor while cooling recipes will be slower by this factor. For condensation tubes, recipes will simply be faster by this factor. Order: copper, hard carbon, thermoconducting alloy.
+Coolant Heat Multiplier
+Multiplier for the heat required to cool hot coolant.
+Alternate Exhaust Steam Recipe
+Will exhaust steam be heated into standard steam rather than low pressure steam?
+Turbine Configs
+Configure aspects of turbines.
+Minimum Structure Length
+Minimum side length of turbines.
+Maximum Structure Length
+Maximum side length of turbines.
+Rotor Blade Efficiency
+Multiplier for the energy transferred from the fluid flow to this type of rotor blade. Order: steel, extreme alloy, SiC-SiC CMC.
+Rotor Blade Expansion Coefficient
+Coefficient by which a set of this type of rotor blade multiplies the volume of the fluid in the oncoming flow. Order: steel, extreme alloy, SiC-SiC CMC.

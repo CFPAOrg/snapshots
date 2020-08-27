@@ -1,0 +1,136 @@
+Terraria Craft: Items
+Terraria Craft: Tools
+Terraria Craft: Weapons
+Terraria Craft: Accessories
+Terraria Craft: Blocks
+Terraria Craft: Armor
+Terraria World
+Achievements
+Terrarian Music
+Terrarian Ambience
+You were slain...
+Change World Curse
+World Size: %s
+Expert Mode: %s
+ON
+OFF
+Tiny
+Small
+Medium
+Large
+Humongous
+Terraria Crafting
+<B>
+Alchemical Station
+<T>
+Any Furnace
+Hellforge (or better)
+Adamantite/Titanium Forge
+<T>
+Any Anvil
+Mythril/Orichalcum Anvil
+Table and Chair
+Crafting
+item crafted
+Whoopie Cushion
+Iron Bar
+Gold Bar
+Copper Bar
+Tin Bar
+Lead Bar
+Silver Bar
+Tungsten Bar
+Platinum Bar
+Crimtane Bar
+Demonite Bar
+Meteorite Bar
+Hellstone Bar
+Hallowed Bar
+Chlorophyte Bar
+Cobalt Bar
+Adamantite Bar
+Mythril Bar
+Orichalcum Bar
+Palladium Bar
+Titanium Bar
+Shroomite Bar
+Spectre Bar
+Luminite Bar
+Copper Coin
+Silver Coin
+Gold Coin
+Platinum Coin
+Mana Crystal
+Mana Star
+Heart
+Flower of Fire
+Band of Regeneration
+Band of Starpower
+Mana Regeneration Band
+Hermes Boots
+Wand of Sparking
+Fallen Star
+Aglet
+Cloud in a Bottle
+Fart in a Jar
+Lens
+Black Lens
+Wooden Arrow
+Flaming Arrow
+Jester's Arrow
+Venom Arrow
+Copper Pickaxe
+Lead Pickaxe
+Tin Pickaxe
+Silver Pickaxe
+Tungsten Pickaxe
+Gold Pickaxe
+Platinum Pickaxe
+Nightmare Pickaxe
+Deathbringer Pickaxe
+Molten Pickaxe
+Cobalt Pickaxe
+Palladium Pickaxe
+Copper Axe
+Lead Axe
+Tin Axe
+Silver Axe
+Tungsten Axe
+Copper Broadsword
+Lead Broadsword
+Tin Broadsword
+Silver Broadsword
+Tungsten Broadsword
+Enchanted Sword
+Starfury
+Copper Bow
+Lead Bow
+Tin Bow
+Silver Bow
+Tungsten Bow
+Lesser Healing Potion
+Lesser Mana Potion
+Spelunker Potion
+Water Bottle
+Regeneration Potion
+Mining Potion
+Healing Potion
+Mana Potion
+Greater Healing Potion
+Ammo Reservation Potion
+Greater Mana Potion
+Super Healing Potion
+Super Mana Potion
+Wire
+Blinkroot
+Waterleaf
+Moonglow
+Deathweed
+Fireblossom
+Shiverthorn
+Gel
+Pink Gel
+Daybloom
+Antlion Mandible
+Pixie Dust
+Unicorn Horn

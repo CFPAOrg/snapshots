@@ -1,0 +1,35 @@
+SimpleLogic
+Bundled Transposition Matrix
+NAND Gate
+AND Gate
+NOR Gate
+OR Gate
+XOR Gate
+XNOR Gate
+Inverted Buffer Gate
+Buffer Gate
+Pulse Former
+Multiplexer
+Set-Reset Latch
+Randomizer
+Synchronizer
+Bundled Inverter
+Bundled Transceiver
+Bundled Transposer
+Repeater
+Comparator
+Timer
+%s ticks
+Compare
+Subtract
+%s s
+%s m
+%s m %s s
+Redstone Cable
+%s Insulated Cable
+Bundled Cable
+%s Bundled Cable
+Freestanding Redstone Cable
+Freestanding %s Insulated Cable
+Freestanding Bundled Cable
+Freestanding %s Bundled Cable

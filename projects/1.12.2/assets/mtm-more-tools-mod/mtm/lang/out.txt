@@ -1,0 +1,31 @@
+End Food
+Chomik Fruit
+Cooked Chomik Fruit
+MTM
+End Drink
+Prismarine Shovel
+Prismarine Sword
+Quartz Hoe
+Blaze Bow
+Quartz Sword
+Steel Bow
+Blackstone Ore
+ChomikPlant
+End Crops
+Quartz Pickaxe
+Rapid-Fire Bow
+EndWheat
+Quiver
+Quartz Shovel
+End Seeds
+Steel String
+Prismarine Hoe
+Prismarine Pickaxe
+E
+Quartz Axe
+Enderium Piece
+Blackstone
+Endcrop
+Prismarine Axe
+Enderium Bow
+Enderium Ore

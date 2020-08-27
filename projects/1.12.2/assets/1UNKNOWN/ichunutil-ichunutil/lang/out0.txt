@@ -1,0 +1,29 @@
+General Options
+Gameplay
+Global Options
+Server Options
+Client Only
+Block
+These options are general options that don't fit any other category.
+These options affect the gameplay while using the mod.
+These options affect both servers and clients that load the mod.
+These options affect only the server that loads the mod.
+These options affect only the client that loads the mod.\nIf you are looking for keybinds, look for them in ichunutil_keybinds.cfg.
+These options affect the blocks in the mod.
+Key Binds
+If you're reading this in the config file, I would strongly recommend changing the keybinds in-game.\niChunUtil uses custom keybinds. Go to the controls/keybinds page and click on the bottom right corner.\n\nIf you really have to edit the config file, the format is <key code>, and append either ":SHIFT", ":CTRL", or ":ALT" for keys you want to hold down at the same time.\nFor key codes go to: http://minecraft.gamepedia.com/Key_codes \nExample: 48:SHIFT:ALT will bind to the B key when you hold Shift and Alt (On a QWERTY keyboard).
+These key binds allow a combination of Shift/Ctrl/Alt
+Try holding those down when setting a key bind
+If you want to bind Shift/Ctrl/Alt, hold them for 3 seconds. Last key held will be bound.
+Enable Stencils?
+Enable Latched Renderer Spawn?
+Set this to 0 if you're crashing when the game launches because you do not have stencils enabled.
+Set this to 0 if you find that iChunUtil is spawning a lot of these entities and is causing lag. Might affect some of my mods. I've not been able to pinpoint the issue, mind, but if you are not having any memory issues ignore this setting.
+Compact Porkchop Block
+Configs for the compact porkchop block module in iChunUtil.
+Allow Compact Raw Porkchop?
+Enable the Compact Raw Porkchop block recipe?
+EULA
+EULA settings.
+EULA acknowledged
+String to say that you've acknowledged the EULA\nIf this config is for a server, set it to true.

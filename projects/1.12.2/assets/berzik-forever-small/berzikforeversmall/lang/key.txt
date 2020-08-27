@@ -1,0 +1,9 @@
+itemGroup.foreversmall
+item.umbrella2.name
+item.flame_iron_ignot.name
+item.sizechestplate.name
+item.sizehead.name
+item.sizeleggs.name
+item.sizeboots.name
+berzikforeversmall.key.power1
+berzikforeversmall.key.power2

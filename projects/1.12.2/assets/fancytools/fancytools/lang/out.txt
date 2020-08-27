@@ -1,0 +1,10 @@
+Emerald Axe
+Emerald Hoe
+Emerald Pickaxe
+Emerald Shovel
+Emerald Sword
+Obsidian Axe
+Obsidian Hoe
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Sword

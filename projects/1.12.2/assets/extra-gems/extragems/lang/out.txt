@@ -1,0 +1,97 @@
+ExtraGems
+You have not enough experience levels!
+Use it on a bookshelf...
+To get the Charged Amethyst, click with a Amethyst and enough experience levels on a bookshelf.
+Ruby Block
+Sapphire Block
+Amethyst Block
+Topaz Block
+Crystal Block
+Ruby Ore
+Sapphire Ore
+Amethyst Ore
+Topaz Ore
+Crystal Ore
+Ruby
+Sapphire
+Amethyst
+Topaz
+Crystal
+Charged Ruby
+Charged Sapphire
+Charged Amethyst
+Charged Topaz
+Charged Crystal
+Charged Diamond
+Charged Emerald
+Gem Charger
+Emerald Amulet
+Ruby Amulet
+Sapphire Amulet
+Amethyst Amulet
+Topaz Amulet
+Crystal Amulet
+Diamond Amulet
+Emerald Sword
+Emerald Pickaxe
+Emerald Axe
+Emerald Shovel
+Emerald Hoe
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Ruby Sword
+Ruby Pickaxe
+Ruby Axe
+Ruby Shovel
+Ruby Hoe
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Sapphire Sword
+Sapphire Pickaxe
+Sapphire Axe
+Sapphire Shovel
+Sapphire Hoe
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Amethyst Sword
+Amethyst Pickaxe
+Amethyst Axe
+Amethyst Shovel
+Amethyst Hoe
+Amethyst Helmet
+Amethyst Chestplate
+Amethyst Leggings
+Amethyst Boots
+Topaz Sword
+Topaz Pickaxe
+Topaz Axe
+Topaz Shovel
+Topaz Hoe
+Topaz Helmet
+Topaz Chestplate
+Topaz Leggings
+Topaz Boots
+Crystal Sword
+Crystal Pickaxe
+Crystal Axe
+Crystal Shovel
+Crystal Hoe
+Crystal Helmet
+Crystal Chestplate
+Crystal Leggings
+Crystal Boots
+ Sword
+ Pickaxe
+ Axe
+ Shovel
+ Hoe
+ Helmet
+ Chestplate
+ Leggings
+ Boots

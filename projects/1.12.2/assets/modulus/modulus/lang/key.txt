@@ -1,0 +1,11 @@
+itemGroup.modulusTab
+button.equipment
+button.normal
+name.Vest
+name.UpperFace
+name.LowerFace
+name.Backpack
+name.Gloves
+name.Arms
+name.Accessory
+name.Any

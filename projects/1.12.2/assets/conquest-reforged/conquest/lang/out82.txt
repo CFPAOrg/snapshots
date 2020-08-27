@@ -1,0 +1,194 @@
+Dirt with Cobblestone Border Layer
+Dirt with Log Border Layer
+Black Dirt Layer
+Ice Block
+Red Crystal
+Blue Crystal
+Green Crystal
+Purple Crystal
+Light Green Crystal
+Crystallized Ice
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Packed Ice Slab
+none
+none
+none
+none
+none
+none
+none
+Icicles
+Broken Bottle
+Bottle
+Potion Glass
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Snow Stairs
+none
+Wool Slab
+Orange Wool Slab
+Magenta Wool Slab
+Light Blue Wool Slab
+Yellow Wool Slab
+Lime Wool Slab
+Pink Wool Slab
+Gray Wool Slab
+Light Gray Wool Slab
+Cyan Wool Slab
+Purple Wool Slab
+Blue Wool Slab
+Brown Wool Slab
+Green Wool Slab
+Red Wool Slab
+Black Wool Slab
+Wall of Rope
+Fishing Net
+Bear Hide
+Rope
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Black Curtain
+Blue Curtain
+Brown Curtain
+Green Curtain
+Purple Curtain
+Red Curtain
+White Curtain
+Cobweb Pane
+none
+none
+none
+none
+none
+none
+none
+none
+Clothesline
+Decorative Flags
+Decorative Flags 2
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+White Paper Lantern
+Yellow Paper lantern
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Pile of Paper
+Book
+Net
+Net on the Ground
+Bear Skin
+Bear Skin
+Wolf Skin
+Sheep Skin
+Hay on the Ground
+Rope
+Hanging Bags
+none
+none
+none
+none
+none
+Noose
+Open Book and Inkpot
+Chess Board
+none
+Raven
+Hawk
+Owl
+Seagull
+Duck
+Pigeon
+Bluejay
+Bat
+Rat
+Toad
+Flies
+Steam
+Smoke
+none
+none
+none
+Mirror
+Mirror
+Dirty Ice
+Glacier Ice
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Glass Block (No Connected Textures)
+Straight Glass Block
+Straight Glass Block 2
+Fancy Glass Block
+Fancy Glass Block 2
+Dragon Glass Block
+Dragon Glass Block 2
+Window
+Brown Window (CTM Elongated)
+Brown Window (CTM Round Top)
+Yellow window
+Yellow Window (CTM Round Top)
+Yellow Window (CTM Elongated)
+Green Window
+Green Window (CTM Round Top)
+Green Window (CTM Elongated)
+White Window

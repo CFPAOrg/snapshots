@@ -1,0 +1,26 @@
+Heat Exchanger Vent
+Used to move fluid in and out of the exchanger. Will push to [accept from] accepting [pushing] tubes.
+Copper Heat Exchanger Tube
+Hard Carbon Heat Exchanger Tube
+Thermoconducting Alloy Heat Exchanger Tube
+Conductivity Multiplier: %s
+Holds and transports heat-exchanging fluids. If heating/cooling and adjacent to a cooling/heating exchanger tube, heat will be received/extracted at a rate proportional to the other tube's recipe temperature difference. If the output temperature of the cooled fluid is lower than the output temperature of the heated fluid, the adjacent tubes flows must not be parallel. Place against another exchanger tube while sneaking to copy across its side configuration.
+Copper Condensation Tube
+Hard Carbon Condensation Tube
+Thermoconducting Alloy Condensation Tube
+Conductivity Multiplier: %s
+Holds and transports fluids to condense. The condensation rate is proportional to the number of adjacent blocks of fluid colder than the input condensing fluid temperature; the colder the adjacent fluid, the faster the condensation - the speed bonus is the natural logarithm of the ratio of the fluids' temperatures. Place against another condensation tube while sneaking to copy across its side configuration.
+Heat Exchanger Computer Port
+Used to access the exchanger via OpenComputers.
+Turbine Controller
+The heart of the turbine - one is needed in the wall for it to form.
+Turbine Wall
+Comprises the faces of the turbine structure.
+Transparent Turbine Wall
+Comprises the faces of the turbine structure.
+Turbine Frame
+Comprises the edges and corners of the turbine structure.
+Turbine Rotor Shaft
+Connects the rotor blades to the dynamo to convert the generated kinetic energy into electrical energy. Must be placed axially as a cuboid along the centre of the turbine interior.
+Steel Turbine Rotor Blade
+Extreme Alloy Turbine Rotor Blade

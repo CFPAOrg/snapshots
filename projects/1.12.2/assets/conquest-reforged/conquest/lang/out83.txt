@@ -1,0 +1,94 @@
+White Window (CTM Round Top)
+White Window (CTM Eliongated)
+Shoji
+Iron Bars
+Asian Window
+Brown Window 2 (CTM Round Top)
+Yellow Window 2 (CTM Round Top)
+Green Window 2 (CTM Round Top)
+White Window 2 (CTM Round Top)
+Carved Gothic Window
+Elven Window
+Wooden Pane
+none
+none
+none
+Hobbit Window 5
+Hobbit Window 6
+Hobbit Window 7
+Hobbit Window 8
+Yellow Hobbit Window 1
+Yellow Hobbit Window 2
+Yellow Hobbit Window 3
+Yellow Hobbit Window 4
+Yellow Hobbit Window 5
+Yellow Hobbit Window 6
+Yellow Hobbit Window 7
+Yellow Hobbit Window 8
+Large Hobbit Window 1
+Large Hobbit Window 2
+Large Hobbit Window 3
+Large Hobbit Window 4
+Wooden Pane 1
+Sindar Window
+Stone Arch Window
+Noldor Window
+Hobbit Window 1
+Hobbit Window 2
+Hobbit Window 3
+Hobbit Window 4
+Wooden Pane 2
+Thick Cloud
+Thin Cloud
+none
+none
+none
+none
+none
+Straight Glass Block Vertical Slab
+Straight Glass Block 2 Vertical Slab
+Dirty Ice Vertical Slab
+Glacier Ice Vertical Slab
+Glass Block (No Connected Textures) Trapdoor
+Straight Glass Block Trapdoor
+Window Trapdoor
+Yellow Window Trapdoor
+Green Window Trapdoor
+White Window Trapdoor
+Asian Window Trapdoor
+Shoji Trapdoor
+Dirty Ice Trapdoor
+Glacier Ice Trapdoor
+Dirty Ice Slab
+Glacier Ice Slab
+ Slab
+ Slab
+ Slab
+ Slab
+ Slab
+ Slab
+Straight Glass Pane
+Fancy Glass Pane
+Dragon Glass Pane
+Brown Window Pane (CTM Round Top)
+Brown Window Pane
+Brown Window Pane (CTM Elongated)
+Yellow Window Pane
+Yellow Window Pane (CTM Round Top)
+Yellow Window Pane (CTM Elongated)
+Green Window Pane
+Green Window Pane (CTM Round Top)
+Green Window Pane (CTM Elongated)
+White Window Pane
+White Window Pane (CTM Round Top)
+White Window Pane (CTM Elongated)
+Shoji Pane
+Invisible Glass Pane
+Asian Window Pane
+Brown Window Pane 2 (CTM Round Top)
+Yellow Window Pane 2 (CTM Round Top)
+Green Window Pane 2 (CTM Round Top)
+White Window Pane 2 (CTM Round Top)
+Carved Gothic Window Pane
+Elven Window Pane
+Wooden Pane Pane

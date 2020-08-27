@@ -1,0 +1,6 @@
+enchantment.ssench.craftable
+enchantment.ssench.storage
+enchantment.ssench.teleport
+text.ssench.enable_craftable
+text.ssench.enable_storage
+text.ssench.enable_teleport

@@ -1,0 +1,145 @@
+true
+Healthy
+Injured
+Heavily Injured
+Dying
+Nearly Dead
+Dead
+Saturated
+Not Hungry
+Peckish
+Slightly Hungry
+Hungry
+Very Hungry
+Starving
+Not Thirsty
+Slightly Thirsty
+Thirsty
+Very Thirsty
+Extremely Thirsty
+Dying Of Dehydration
+Freezing To Death
+Freezing To Death
+Extremely Cold
+Very Cold
+Cold
+Slightly Cold
+Normal
+Slightly Hot
+Hot
+Very Hot
+Extremely Hot
+Boiling Alive
+I'm Fine
+I'm Hurt
+I'm Happy
+My Bones Are Broken
+I Am Bleeding
+I Feel Dizzy
+I Feel Bad
+I Am Dying
+Spring
+Summer
+Autumn
+Winter
+Calm
+Light Air
+Light Breeze
+Gentle Breeze
+Moderate Breeze
+Fresh Breeze
+Fresh Wind
+Strong Wind
+Fresh Gale
+Strong Gale
+Whole Gale
+Storm
+Hurricane
+Freezing Cold
+Very Cold
+Cold
+Slightly Cold
+Water Freezing
+Warm
+Very Warm
+Hot
+Insanely Hot
+It's Raining
+Very Dry
+Dry
+Normal
+Slightly Wet
+Wet
+Very Wet
+It Will Rain Any Minute
+Underground Blocks
+Ores
+Common Blocks
+Plantlife
+Misc Blocks
+Metals
+Tools
+Food
+Misc Items
+Acanthite (Silver)
+Barite (Barium)
+Bauxite (Aluminum)
+Beryl (Gemstones)
+Bornite (Copper)
+Cassiterite (Tin)
+Chalcocite (Copper)
+Chalcopyrite (Copper)
+Chromite (Chromium)
+Cinnabar (Mercury)
+Cobaltite (Cobalt)
+Coltan (Tantalum)
+Dolomite (Magnesium)
+Galena (Lead)
+Native Gold (Gold)
+Hematite (Iron)
+Ilmenite (Titanium)
+Magnetite (Iron)
+Malachite (Copper)
+Molybdenite (Molybdenum)
+Pentlandite (Nickel)
+Pyrolusite (Manganese)
+Scheelite (Tungsten)
+Sperrylite (Platinum)
+Sphalerite (Zinc)
+Uraninite (Uranium)
+Wolframite (Tungsten)
+Lignite (Coal)
+Bituminous Coal (Coal)
+Anthracite (Type Of Coal)
+Graphite (Graphite)
+Bismuthinite (Bismuth)
+Richness: Poor
+Richness: Normal
+Richness: Rich
+Water
+Milk
+Oil
+Clay
+Tannin
+Olive Oil
+Walnut Oil
+Fruit Juice
+Brine
+Ore
+ExPetrum
+⚖ %d Gram   ⊞ %s
+Tiny
+Small
+Normal
+Big
+Huge
+%s%% Rotten
+%s Gram
+Water: %dmb
+It's empty
+There is some liquid
+It's half way filled
+It's mostly filled
+It's full of liquid
+Liquid
+§4This tool has been disabled by ExPetrum! It can only be used for crafting!

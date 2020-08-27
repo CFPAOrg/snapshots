@@ -1,0 +1,8 @@
+item.mightyarchitect.blueprint_empty.name
+item.mightyarchitect.blueprint_filled.name
+item.mightyarchitect.wand_symmetry.name
+item.mightyarchitect.wand_architect.name
+item.mightyarchitect.wand_fill.name
+tile.mightyarchitect.slice_marker.name
+tile.mightyarchitect.design_anchor.name
+itemGroup.mightyArchitectTab

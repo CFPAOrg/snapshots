@@ -1,0 +1,9 @@
+tile.strawberryblockstage2.name
+item.strawberryseeds.name
+tile.strawberryblockcrop4.name
+tile.strawberryblockstage0.name
+tile.test.name
+tile.strawberryblockstage1.name
+tile.strawberryblockstage3.name
+item.strawberry.name
+item.strawberrypie.name

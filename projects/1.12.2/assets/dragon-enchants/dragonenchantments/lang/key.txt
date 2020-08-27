@@ -1,0 +1,16 @@
+enchantment.dragon_enchants:berserk
+enchantment.dragon_enchants:cloud_walker
+enchantment.dragon_enchants:dolphin
+enchantment.dragon_enchants:dragon_slayer
+enchantment.dragon_enchants:enderference
+enchantment.dragon_enchants:end_walker
+enchantment.dragon_enchants:homing
+enchantment.dragon_enchants:life_steal
+enchantment.dragon_enchants:solar_powered
+enchantment.dragon_enchants:soul_devour
+enchantment.dragon_enchants:storm_protection
+enchantment.dragon_enchants:storm_strider
+enchantment.dragon_enchants:thunder_aspect
+enchantment.dragon_enchants:venomous
+enchantment.dragon_enchants:void_hunger
+enchantment.dragon_enchants:void_walker

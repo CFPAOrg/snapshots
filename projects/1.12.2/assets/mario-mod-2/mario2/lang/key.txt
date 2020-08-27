@@ -1,0 +1,95 @@
+itemGroup.tabMarioBlocks
+itemGroup.tabMarioItems
+entity.mario2:goomba.name
+entity.mario2:koopa.name
+entity.mario2:boo.name
+entity.mario2:BobOmb.name
+entity.mario2:BulletBill.name
+entity.mario2:Cheep-Cheep.name
+entity.mario2:HammerBro.name
+entity.mario2:toad.name
+entity.mario2:bowser.name
+entity.mario2:beetle.name
+entity.mario2:yoshi.name
+entity.mario2:spiny.name
+entity.mario2:lakitu.name
+entity.mario2:mario.ShellEntity.name
+tile.mario2:marioBlockPipeBase.name
+tile.mario2:marioBlockPipe.name
+tile.mario2:marioBlockQuestionMark.name
+tile.mario2:marioBlockQuestionMarkSMB.name
+tile.mario2:marioBlockQuestionMarkUndergroundSMB.name
+tile.mario2:marioBlockQuestionMarkCastleSMB.name
+tile.mario2:marioBlockEmptyQuestionMark.name
+tile.mario2:marioBlockEmptyQuestionMarkSMB.name
+tile.mario2:marioBlockEmptyQuestionMarkUndergroundSMB.name
+tile.mario2:marioBlockEmptyQuestionMarkCastleSMB.name
+tile.mario2:marioBlockBrick.name
+tile.mario2:marioBlockGround.name
+tile.mario2:marioBlockDecoration.name
+tile.mario2:marioBlockBrickUnderground.name
+tile.mario2:marioBlockGroundUnderground.name
+tile.mario2:marioBlockNoteBlock.name
+tile.mario2:marioBlockUndergroundDecoration.name
+tile.mario2:marioBlockGroundSnow.name
+tile.mario2:Cloud Block.name
+tile.mario2:Trampoline.name
+tile.mario2:Underwater Plant.name
+tile.mario2:marioBlockBeanstalk.name
+tile.mario2:marioBlockGroundUnderwater.name
+tile.mario2:marioBlockInvisibleBlock.name
+tile.mario2:marioBlockInvisibleBlockEmpty.name
+tile.mario2:marioBlockInvisibleBlockSMB.name
+tile.mario2:marioBlockInvisibleBlockEmptySMB.name
+tile.mario2:marioBlockCastleBrick.name
+tile.mario2:marioBlockCastleWall.name
+tile.mario2:Castle Entry Block.name
+tile.mario2:marioBlockLog.name
+tile.mario2:marioBlockLeaves.name
+tile.mario2:marioBlockPlanks.name
+tile.mario2:marioBlockSapling.name
+item.mario2:Flagpole.name
+item.mario2:itemMushroom.name
+item.mario2:item1Up.name
+item.mario2:itemFireFlower.name
+item.mario2:itemStarMan.name
+item.mario2:Bob-Omb.name
+item.mario2:Green Shell.name
+item.mario2:Shell Helmet.name
+item.mario2:Shell Chestplate.name
+item.mario2:Shell Leggings.name
+item.mario2:Shell Boots.name
+item.mario2:Marios Cap.name
+item.mario2:itemCape.name
+item.mario2:Marios Jumpsuit.name
+item.mario2:Marios Boots.name
+item.mario2:POW Block.name
+item.mario2:Goomba Fangs.name
+item.mario2:Ivory.name
+item.mario2:Ivory Spade.name
+item.mario2:Ivory Hammer.name
+item.mario2:Ivory Pickaxe.name
+item.mario2:Ivory Axe.name
+item.mario2:Ivory Sword.name
+item.mario2:Ivory Hoe.name
+item.mario2:itemCoin.name
+item.mario2:Fireball.name
+item.mario2:Fire Spit.name
+item.mario2:itemCoinGreen.name
+item.mario2:itemCoinBlue.name
+item.mario2:itemCoinRed.name
+item.mario2:itemCoinPurple.name
+item.mario2:itemCoinBlack.name
+item.mario2:itemPipeLink.name
+tile.mario2:marioBlockMarioMaker.name
+tile.mario2:marioBlockGroundSMW.name
+tile.mario2:marioBlockGroundUndergroundSMW.name
+tile.mario2:marioBlockQuestionMarkSMB3.name
+tile.mario2:marioBlockEmptyQuestionMarkSMB3.name
+tile.mario2:marioBlockInvisibleBlockSMB3.name
+tile.mario2:marioBlockInvisibleBlockEmptySMB3.name
+item.mario2:records.smbUnderwater.name
+item.record.mario2:smbUnderwater.desc
+item.mario2:itemDebug.name
+item.mario2:errorname
+gui.mario2:marioMaker

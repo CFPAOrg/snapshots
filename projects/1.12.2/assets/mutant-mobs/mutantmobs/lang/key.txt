@@ -1,0 +1,6 @@
+entity.mutant_spider.name
+entity.mutant_cavespider.name
+entity.mutant_pigman.name
+entity.mutant_irongolem.name
+entity.acid_spit.name
+entity.minionbaby_spider.name

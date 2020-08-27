@@ -1,0 +1,55 @@
+Avatar Mod
+Display bending list
+Cheat Earthbending
+Throw Block
+Pick up block
+Earthbending
+Use Bending
+Cycle Bending Left
+Cycle Bending Right
+Skills Menu
+Switch Path
+Confirm Bison Transfer
+§8§lCombustionbending
+§8§lCombustionbender
+§2§lEarthbending
+§2§lEarthbender
+§c§lFirebending
+§c§lFirebender
+§9§lWaterbending
+§9§lWaterbender
+§f§lAirbending
+§f§lAirbender
+§b§lLightningbending
+§b§lLightningbender
+§3§lIcebending
+§3§lIcebender
+§6§lSandbending
+§6§lSandbender
+§aUniversal
+Manage a player's bending controllers.
+[error][error_value]${player}[/error_value] is not a registered account.[/error]
+[italic][value]${player}[/value] is a non-bender.[/italic]
+[bold]Listing [value]${amount}[/value] bending controllers for [value]${player}[/value][/bold]:
+[error]Ability XP must be from [error_value]0[/error_value] to [error_value]100[/error_value].
+[bold]Successfully set [value]${player}'s[/value] experience for [value]${ability}[/value] to [value]${amount}[/value][/bold]
+[bold][value]${player}'s[/value] experience for [value]${ability}[/value] is [value]${amount}[/value][/bold]
+[error]An error occurred while trying to reload the configuration[/error]
+[error]Details: [error_value]${details}[/error_value] see log for more[/error]
+[bold]Successfully reloaded configuration values[/bold]
+[error]Progression points must be more than 0.[/error]
+locked
+level I
+level II
+level III
+level IV
+level IV, first path
+level IV, second path
+There isn't an ability called %s
+[error]You haven't learned ${bending} yet. To get it, type in: [error_value]/avatar bending add ${username} ${bending}[/error_value][/error]
+Not enough chi!
+Cannot use air bubble with elytra
+Bison is at ${food}%% food, ${health}%% health, and ${domestication} domestication.
+This bender's pack is empty. They probably wouldn't have any scrolls to give you.
+You need a diamond, gold, or emerald, to get a scroll!
+You need a diamond, gold, emerald, dragon's breath, totem of undying, or elytra to get a scroll!

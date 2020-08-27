@@ -1,0 +1,21 @@
+Fires a shard of ice in the direction you are pointing which damages and slows targets when hit.
+Creates a shroud of cold around the caster for 30 seconds, causing anything that attacks them to be frozen.
+Causes razor-sharp ice spikes to rise from the ground where you are pointing, skewering any creatures caught amongst them.
+Freezes the target solid for 20 seconds or until broken out. The target cannot move or do anything while frozen but is also impervious to all damage.
+Sets the target on fire for 10 seconds. Also works like a flint and steel.
+Temporarily imbues the first weapon on the caster's hotbar with magic, rendering it more effective. The magic wears off after 45 seconds.
+Emits an intimidating growl which causes nearby creatures to run away in fear. Fear stricken creatures will recover after 30 seconds.
+Grants the caster and all nearby allies increased strength for 45 seconds.
+Makes the caster invisible for 30 seconds.
+Changes the weather in the world.
+Greatly improves the caster's damage resistance for 30 seconds.
+Causes the caster to jump upwards several blocks and slightly forward.
+Raises the caster upwards while the use item button is held. Will also negate fall damage if used before hitting the ground.
+Creates a stream of withering energy in the direction you are pointing which drains the life of the target and uses it to gradually regenerate your health.
+Creates a magical point of light which illuminates the surrounding area. Lasts for 30 seconds.
+Shoots an arrow of lightning in the direction you are pointing.
+Causes lightning to strike where you are pointing.
+Sends a disk of lightning flying off in the direction you are pointing, which seeks targets.
+"I smite you by the wrath of the heavens!"
+Charges the ground around the caster with lightning, damaging and repelling nearby creatures.
+Creates a stream of lightning in the direction you are pointing which continually damages targets.

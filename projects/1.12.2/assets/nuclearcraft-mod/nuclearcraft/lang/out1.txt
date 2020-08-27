@@ -1,0 +1,47 @@
+Fusion Connector
+Connects a fusion core to its ring of electromagnets. Four sets of them are required for each side of the core.
+Reactor Cell
+Used in fission reactors to house the fission fuels. The more cells placed, the more rapidly fuel is used. %s
+Cells will be more efficient for each other cell they are adjacent to, or for each adjacent line of moderator blocks, of length %s at most, ending with another cell.
+Empty Cooler
+Water Cooler
+Must be adjacent to at least one Reactor Cell or active moderator block.
+Redstone Cooler
+Must be adjacent to at least one Reactor Cell.
+Quartz Cooler
+Must be adjacent to at least one active moderator block.
+Gold Cooler
+Must be adjacent to at least one valid Water Cooler and one valid Redstone Cooler.
+Glowstone Cooler
+Must be adjacent to at least two active moderator blocks.
+Lapis Cooler
+Must be adjacent to at least one Reactor Cell and one Reactor Casing.
+Diamond Cooler
+Must be adjacent to at least one valid Water Cooler and one valid Quartz Cooler.
+Liquid Helium Cooler
+Must be adjacent to exactly one valid Redstone Cooler and at least one Reactor Casing.
+Enderium Cooler
+Must be adjacent to exactly three Reactor Casings at exactly one vertex.
+Cryotheum Cooler
+Must be adjacent to at least two Reactor Cells.
+Iron Cooler
+Must be adjacent to at least one valid Gold Cooler.
+Emerald Cooler
+Must be adjacent to at least one active moderator block and one Reactor Cell.
+Copper Cooler
+Must be adjacent to at least one valid Glowstone Cooler.
+Tin Cooler
+Must be adjacent to at least two valid Lapis Coolers along a common axis.
+Magnesium Cooler
+Must be adjacent to at least one Reactor Casing and one active moderator block.
+Cooling rate:
+Reactor Door
+Reactor Trapdoor
+Thorium-230 Block
+Uranium-238 Block
+Neptunium-237 Block
+Plutonium-242 Block
+Americium-243 Block
+Curium-246 Block
+Berkelium-247 Block
+Californium-252 Block

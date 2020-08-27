@@ -1,0 +1,42 @@
+To create a star put Gunpowder and any Minecraft dye in your crafting grid. For a shape effect add one of these: Fire Charge, Gold Nugget, Head (any), Feather. For additional effects add Glowstone Dust and/or a Diamond.
+The minimum ingredients for Firework Rockets is one Paper and up to three Gunpowder. Gunpowder determines the flight duration. Up to seven Firework Stars can be added. Without a Firework Star there is no explosion effect.
+Waterworks Configuration
+Rain Collection
+Groundwater Pump
+Rockets
+Disable Registry
+Disable Recipes
+Wooden Rain Tank Fillrate
+Wooden Rain Tank Capacity
+Rain Collector Fillrate
+Rain Collector Capacity
+Rain Collector Range
+Wooden Rain Tank JEI Description
+Rain Collector Multiblock JEI Description
+Wrench JEI Description
+Fillrate
+Capacity
+Energy Base Usage
+Energy Pipe Multiplier
+Energy Capacity
+Energy Input
+Energy Pipe Placement
+Safety
+Check Bedrock
+JEI Description
+Rain Duration
+Rain Max Multiplier
+Clear Sky Duration
+Clear Sky Max Multiplier
+Clear Sky Max Random Additional Days
+Vanilla Firework Charge Description
+Vanilla Fireworks Description
+Firework Rockets JEI Description
+Rain Rocket
+Anti Rain Rocket
+Groundwater Pump
+Rain Collector Multiblock
+Water Pipe
+Wooden Rain Tank
+Recipe Rain Rocket
+Recipe Anti Rain Rocket

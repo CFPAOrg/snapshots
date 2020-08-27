@@ -1,0 +1,40 @@
+Worse Barrels
+Worse Oak Barrel
+Worse Spruce Barrel
+Worse Jungle Barrel
+Worse Acacia Barrel
+Worse Birch Barrel
+Worse Dark Oak Barrel
+Worse Black Concrete Barrel
+Worse Red Concrete Barrel
+Worse Green Concrete Barrel
+Worse Brown Concrete Barrel
+Worse Blue Concrete Barrel
+Worse Purple Concrete Barrel
+Worse Cyan Concrete Barrel
+Worse Light Gray Concrete Barrel
+Worse Gray Concrete Barrel
+Worse Pink Concrete Barrel
+Worse Lime Concrete Barrel
+Worse Yellow Concrete Barrel
+Worse Light Blue Concrete Barrel
+Worse Magenta Concrete Barrel
+Worse Orange Concrete Barrel
+Worse White Concrete Barrel
+Worse Black Terracotta Barrel
+Worse Red Terracotta Barrel
+Worse Green Terracotta Barrel
+Worse Brown Terracotta Barrel
+Worse Blue Terracotta Barrel
+Worse Purple Terracotta Barrel
+Worse Cyan Terracotta Barrel
+Worse Light Gray Terracotta Barrel
+Worse Gray Terracotta Barrel
+Worse Pink Terracotta Barrel
+Worse Lime Terracotta Barrel
+Worse Yellow Terracotta Barrel
+Worse Light Blue Terracotta Barrel
+Worse Magenta Terracotta Barrel
+Worse Orange Terracotta Barrel
+Worse White Terracotta Barrel
+The %s isn't allowed in the barrel!

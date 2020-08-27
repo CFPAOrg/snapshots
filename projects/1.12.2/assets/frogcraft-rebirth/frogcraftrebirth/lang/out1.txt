@@ -1,0 +1,114 @@
+With animal fat as its major source
+Shattered Coal Coke
+Efficient Fuel
+Phosphorus
+P
+Potassium
+K
+Ammonia
+NH₃
+Argon
+Ar
+Benzene
+C₆H₆
+Bromine
+Br₂
+Carbon Dioxide
+CO₂
+Carbon Monoxide
+CO
+Coal Tar
+What the hell does it contain?!
+Fluorine
+F₂
+Methane
+CH₄
+Nitric Acid
+HNO₃
+Nitrogen
+N₂
+Nitrogen Monoxide
+NO
+Oleum
+H₂SO₄·SO₃
+Oxygen
+O₂
+Sulfuric Acid
+H₂SO₄
+Sulfur Dioxide
+SO₂
+Sulfur Trioxide
+SO₃
+Goldclod
+Magical fertilizer additive
+Electrolyzer Component
+Electrolyze the reactant
+Heating Component
+Provide heat to an endothermic reaction
+Ammonia Catalyst
+Necessary for ammonia manufacturing
+Vanadium Pentoxide Catalyst
+Necessary for SO₃ manufacturing
+Carnallite Ore
+Dewalquite Ore
+Fluorapatite Ore
+Condense Tower
+Liquid Outlet
+Condense Tower Wall
+Hybrid Storage Unit (HSU)
+Ultimate Hybrid Storage Unit (UHSU)
+EV Transformer
+Combustion Furnace
+Advanced Chemical Reactor
+Industrial Air Pump
+Pyrolyzer
+Liquefier
+Advanced Blast Furnace
+Nitric Acid
+Origin of Chemical Industry
+BEHOLD, THE ADVANCED CHEMICAL REACTOR
+EV Transformer
+Step down to 2048 EU/packet
+Blown away by potassium
+Never toss alkaline metal with water!
+Power of gas
+A invisible power
+Say goodbye to ITNT
+You no longer have to prepare tons of ITNT
+Infinite raw material
+You have learnt how to get raw material from air
+Larger MFSU
+Stores 100000000EU!
+Hentai MFSU
+Stores 1000000000EU!
+Goldclod
+Goldclod is mine!
+Way towards chemistry
+Will there be any interesting reactions?
+Separate them?
+Seems to be missing something...
+Separate them.
+You have learnt how to separate liquid mixtures
+Suicide Expert
+HSU
+UHSU
+Percentage: %.2f%%
+EU: %d
+Max. EU: %d
+Output: %d EU/tick
+Pyrolyzer
+Combustion Furnace
+Mobile Power Supply
+Name: %s
+Amount: %d mB
+No fluid in this tank
+Condensation
+Pyrolysis
+Adv. Chemical Reactor
+Advanced Blast Furnace
+Total: %d EU
+Power: %d EU/t
+Time in ticks: %d
+Reaction tick under catalyst
+This reaction requires catalyst
+Output liquid

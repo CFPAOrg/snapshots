@@ -1,0 +1,31 @@
+Annoying Dog barks
+Cape Feather used
+Smash Ball used
+Cappy mumbles
+Cappy running out of steam
+Cappy got on someone's head
+Cappy enjoingly mumbles
+Cappy asks for help
+Toad mumbles
+Toad hurts
+Toad dies
+Mubble
+A grand new journey
+It's mine! Gold!
+Find coins
+The Deluxe Treatment
+Find a Super Crown
+Recovery
+Obtain a bandage
+Super-Stars
+Craft all the caps
+Vanadiums!
+Acquire vanadiums
+It's All Connected
+Get your hand on a Tetris Block
+/motion <entity> <set|add> [dX] [dY] [dZ]
+Changed the motion of %s to %s, %s, %s
+How paradoxal... :)
+That's for you, §6Pixel§r!
+Hey! I thought you already had this on your head, §6Evan§r!
+Come on, you're the one who needs it the least, aren't you, Mr. "§6Sossie§r"?

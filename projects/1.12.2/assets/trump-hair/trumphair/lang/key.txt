@@ -1,0 +1,3 @@
+item.trump_hair.name
+item.trump_hairt1.name
+itemGroup.trumptab

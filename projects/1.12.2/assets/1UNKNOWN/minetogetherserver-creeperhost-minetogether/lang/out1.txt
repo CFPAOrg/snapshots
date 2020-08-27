@@ -1,0 +1,48 @@
+Account exists with this email. Please login or try another email address.
+Please wait. Account being created
+Error occurred while creating account. Error:
+Please go back and correct the errors
+Please wait. Order being placed
+Error occurred while placing order. Error:
+Please contact support if the problem persists
+Order successful! Please click the button below to pay!
+Your server will then be set up with the latest modpack version!
+Cancel order
+To continue to place an order, please click the "Place order" button below.
+By continuing, you agree to CreeperHost's (Terms Of Service|https://creeper.host/tos) and (Policies|https://creeper.host/policies).
+An order and invoice will be generated, but you are under no obligation to pay.
+They will be automatically cancelled after 72 hours if no payment is received.
+Click to open in your web browser
+Previous Step
+Next Step
+Cancel
+Login
+Logging in
+Try again
+Done
+Place order
+View invoice
+Back to quote
+Expected Average Player Count
+All data is transmitted via SSL, no payment details
+will be taken in the client. You will be redirected outside
+of the client to CreeperHost's secure portal to make payment
+Current dimension TPS:
+Entities for current dimension
+CreeperHost Config
+Curse Project ID
+The ID of your curse project for your pack
+Promotional Code
+Your CreeperHost promotional code
+CreeperHost Enabled
+Whether the CreeperHost server host integration is enabled. Disable this if you want to use another host's plugin
+MP Menu Enabled
+Whether the entry in the Multiplayer Menu is enabled
+Main Menu Enabled
+Whether the button in the Main Menu is enabled. Note: may not take effect if you have a menu replacement
+Server host button brand
+Whether the server host button should be branded or generic
+Server host menu brand
+Whether the Multiplayer Menu entry should be branded or generic
+SIV integration
+Whether SIV integration is enabled. If so, hold down Shift + TAB to see in game (if SIP is installed)

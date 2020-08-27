@@ -1,0 +1,19 @@
+Extra inventory that can hold whatever is set in the configs in /config/forestry/backpacks.cfg
+Extra inventory that automatically picks up building-related items.
+Extra inventory that automatically picks up dirt, cobble, and other low-value mining-related items.
+Extra inventory that automatically picks up plants and related items.
+Extra inventory that automatically picks up mob drops and related items.
+Extra inventory that automatically picks up ores and valuable mining-related items.
+Extra inventory that automatically picks up bees.
+Extra inventory that automatically picks up butterflies.
+Causes Rain
+Stops Rain
+Speed: %s
+Duration: %s ticks
+Farming
+Soil
+Germlings
+Products
+Charcoal Pile
+Chance: %s
+The amount of this item is affected by the fortune enchantment.

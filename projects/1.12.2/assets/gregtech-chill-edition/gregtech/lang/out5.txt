@@ -1,0 +1,76 @@
+%s Sword
+%s Pickaxe
+%s Shovel
+%s Axe
+%s Hoe
+%s Saw
+Can also harvest Ice
+%s Hammer
+Crushes ores instead of harvesting them
+%s Soft Hammer
+%s Wrench
+Hold left click to dismantle machines
+%s File
+%s Crowbar
+Dismounts covers and rotates rails
+%s Screwdriver
+Click on a cover to configure it
+%s Mortar
+%s Wire Cutter
+%s Scoop
+%s Branch Cutter
+%s Universal Spade
+%s Knife
+%s Butchery Knife
+Has a slow Attack Rate
+%s Sense
+Because a scythe doesn't make sense
+%s Plow
+Used to get rid of snow
+%s Plunger
+%s Chainsaw (LV)
+Can also harvest Ice
+%s Chainsaw (MV)
+Can also harvest Ice
+%s Chainsaw (HV)
+Can also harvest Ice
+%s Wrench (LV)
+Hold Leftclick to dismantle Machines
+%s Wrench (MV)
+Hold Leftclick to dismantle Machines
+%s Wrench (HV)
+Hold Leftclick to dismantle Machines
+%s Buzzsaw (LV)
+Not suitable for harvesting Blocks
+%s Screwdriver (LV)
+Adjusts Covers and Machines
+%s Turbine Rotor
+Turbine Rotors for your Power Station
+%s Magnifying Glass
+Primary material: %s (Level %s)
+Attack damage: %d
+Mining speed: %d
+Durability: %d/%d
+Rotor Efficiency: %d%%
+Has a chance to drop double crushed ores
+Ore Dictionary Filter
+Ore Dictionary Name
+(Use * for Wildcard)
+Fluid Filter
+Filter Fill
+Filter Drain
+Item Filter
+Filter Insert
+Filter Extract
+Conveyor Cover Settings (%s)
+%s Items / Second
+Mode: Export
+Mode: Import
+Item Filter
+Ore Dictionary Name
+(use * for wildcard)
+Robotic Arm Settings (%s)
+Transfer Any
+Supply Exact
+Keep Exact
+§eTransfer Any§r - in this mode, cover will transfer as much items matching it's filter as possible./n§eSupply Exact§r - in this mode, cover will supply items in portions specified in item filter slots (or transfer rate for ore dictionary filter). If amount of items is less than portion size, items won't be moved./n§eKeep Exact§r - in this mode, cover will keep specified amount of items in the destination inventory, supplying additional amount of items if required./n§7Tip: left/right click on filter slots to change item amount,  use shift clicking to change amount faster.

@@ -1,0 +1,3 @@
+itemGroup.sgextras
+item.ancient_tablet.name
+tile.block_activator.name

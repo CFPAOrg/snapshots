@@ -1,0 +1,48 @@
+Thor Chest
+Thor Legs
+Thor Boots
+Black Widow Chest
+Black Widow Legs
+Black Widow Boots
+Hawkeye Chest
+Hawkeye Legs
+Hawkeye Boots
+Captain America Helmet
+Captain America Chest
+Captain America Legs
+Captain America Boots
+Flash Helmet
+Flash Chest
+Flash Legs
+Flash Boots
+Cyborg Helmet
+Cyborg Chest
+Cyborg Legs
+Cyborg Boots
+Shazam Chest
+Shazam Legs
+Shazam Boots
+General Zod Chest
+General Zod Legs
+General Zod Boots
+Loki Helmet
+Loki Chest
+Loki Legs
+Loki Boots
+Ares Helmet
+Ares Chestplate
+Ares Leggings
+Ares Boots
+Steve Trevor Hoodie
+Steve Trevor Jacket
+Steve Trevor Leggings
+Steve Trevor Boots
+Suits
+Weapons and Tools
+Materials
+Machines
+Blocks
+Superheroes
+Molten Titanium
+Molten Gold
+Molten Titanium-Gold

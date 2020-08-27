@@ -1,0 +1,8 @@
+tile.brazier.name
+gui.brazier.added_bonus
+gui.brazier.jei.seconds_per
+gui.brazier.jei.bonus_per
+gui.brazier.jei.time_total
+itemGroup.brazier
+research.brazier.title
+research.brazier.stage.1

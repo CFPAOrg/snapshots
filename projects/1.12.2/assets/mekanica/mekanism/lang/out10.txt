@@ -1,0 +1,104 @@
+Turbine Rotor
+Rotational Complex
+Electromagnetic Coil
+Turbine Casing
+Turbine Valve
+Turbine Vent
+Saturating Condenser
+Reactor Controller
+Reactor Frame
+Neutron Capture Plate
+Reactor Port
+Reactor Logic Adapter
+Reactor Glass
+Laser Focus Matrix
+Fuel
+Sun
+BioFuel
+Dump
+Air-Cooled
+Water-Cooled
+Min. Inject Rate
+Ignition Temp
+Max. Plasma Temp
+Max. Casing Temp
+Passive Generation
+Steam Production
+General Settings
+Generator Settings
+Generation Settings
+Settings regarding MekanicaGenerators' general configuration
+Settings regarding enabling and disabling of specific generators
+Settings regarding the energy usage of generators
+Wood Paxel
+Stone Paxel
+Iron Paxel
+Diamond Paxel
+Gold Paxel
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Obsidian Paxel
+Obsidian Pickaxe
+Obsidian Axe
+Obsidian Shovel
+Obsidian Hoe
+Obsidian Sword
+Osmium Helmet
+Osmium Chestplate
+Osmium Leggings
+Osmium Boots
+Osmium Paxel
+Osmium Pickaxe
+Osmium Axe
+Osmium Shovel
+Osmium Hoe
+Osmium Sword
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Bronze Paxel
+Bronze Pickaxe
+Bronze Axe
+Bronze Shovel
+Bronze Hoe
+Bronze Sword
+Glowstone Helmet
+Glowstone Chestplate
+Glowstone Leggings
+Glowstone Boots
+Glowstone Paxel
+Glowstone Pickaxe
+Glowstone Axe
+Glowstone Shovel
+Glowstone Hoe
+Glowstone Sword
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Steel Paxel
+Steel Pickaxe
+Steel Axe
+Steel Shovel
+Steel Hoe
+Steel Sword
+Lapis Lazuli Helmet
+Lapis Lazuli Chestplate
+Lapis Lazuli Leggings
+Lapis Lazuli Boots
+Lapis Lazuli Paxel
+Lapis Lazuli Pickaxe
+Lapis Lazuli Axe
+Lapis Lazuli Shovel
+Lapis Lazuli Hoe
+Lapis Lazuli Sword
+General Settings
+Armor Balance
+Tools Balance
+Settings regarding MekanicaTools' general configuration
+Settings regarding the protection values and balance of MekanicaTools armor sets
+Settings regarding the efficiency values and balance of MekanicaTools tool sets
+Setup world rules for testing (no mob spawning, daylight cycle or weather)

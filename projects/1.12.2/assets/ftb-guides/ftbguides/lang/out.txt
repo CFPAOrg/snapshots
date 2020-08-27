@@ -1,0 +1,32 @@
+Quest Block
+FTB Guides Common
+Modpack Guide Version
+Flash Guides Button
+Base URI
+FTB Guides Client
+Use Unicode Font
+Background Alpha
+Last Guide Version
+Hide Missing Mod Guides
+Hide Other Guides
+Theme
+Guides
+New version available!
+Open Guide
+Home
+Server Info
+Unsupported format! Please update FTB Guides or contact mod author!
+Failed to load commands
+Open in Browser
+Server Info
+Server Info
+Mod
+Mods
+Modpack
+Modpacks
+Other
+Other
+Dark
+Light
+Solarized Dark
+Solarized Light

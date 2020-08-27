@@ -1,0 +1,5 @@
+friendlymobs.config.title
+friendlymobs.config.general.friendlyMobs
+friendlymobs.config.general.friendlyMobs.tooltip
+friendlymobs.config.select.mob
+friendlymobs.config.select.mob.selected

@@ -1,0 +1,16 @@
+itemGroup.moneymodtab
+item.piece_de_un_centime.name
+item.piece_de_deux_centimes.name
+item.piece_de_cinq_centimes.name
+item.piece_de_dix_centimes.name
+item.piece_de_vingt_centimes.name
+item.piece_de_cinquante_centimes.name
+item.piece_de_un_euro.name
+item.piece_de_deux_euros.name
+item.billet_de_cinq_euros.name
+item.billet_de_dix_euros.name
+item.billet_de_vingt_euros.name
+item.billet_de_cinquante_euros.name
+item.billet_de_cent_euros.name
+item.billet_de_deux_cent_euros.name
+item.billet_de_cinq_cent_euros.name

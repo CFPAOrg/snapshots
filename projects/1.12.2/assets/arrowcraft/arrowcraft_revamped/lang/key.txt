@@ -1,0 +1,9 @@
+item.flashboots.name
+effect.speedforce
+item.flashhelmet.name
+potion.effect.speedforce
+item.flashbody.name
+splash_potion.effect.speedforce
+tipped_arrow.effect.speedforce
+item.flashlegs.name
+lingering_potion.effect.speedforce

@@ -1,0 +1,46 @@
+Ghast Sister
+Cute Blaze
+Cute Cave Spider
+Cute Creeper
+Cute Enderman
+Cute Ghast
+Cute Guardian
+Cute Elder Guardian
+Cute Magma Cube
+Cute Zombie Pigman
+Cute Silverfish
+Cute Skeleton
+Cute Wither Skeleton
+Cute Stray
+Cute Slime
+Cute Spider
+Cute Villager
+Cute Witch
+Cute Wolf
+Cute Zombie
+Cute Zombie Villager
+Cute Husk
+Cute Iron Golem
+Cute Snow Golem
+Cute Mooshroom
+This will turn most of the mod on or off. Everything but the Ghast Sister's rendering will be disabled if it's off.
+Enable Mod
+Enable special options
+This will enable special options like scaled hitboxes for most mobs, instead of just replacing them graphically. This decreases compatibility with other mods like mobtalker, since the mobs are replaced with a new one. Once the mod's uninstalled, these mobs will be deleted instead of reverting to original.
+Human Mobs Models
+Replaces the models with more blocky minecraft-y versions of themselves.
+Separate entities
+This will spawn the cute mob model enemies as variations of the original mobs instead of replacing the original ones' models, so both can coexist. Note, this disables the regular mob replacement. Requires minecraft to be restarted.
+Replace animals
+This will replace animals with their humanoid versions. In case you're not comfortable with killing them for food, you can turn it off.
+Starting Entity ID
+Entity ID offset. This will change the ID number for Ghast Sister/GhastS enemy and any additional mobs such as the separated mobs.
+Set up general things here.
+General options
+Allows you to control which hostile mob models are replaced with Mobtalker designs.
+Hostile mob model replacement
+Allows you to control which passive mob models are replaced with Mobtalker designs.
+Passive mob model replacement
+Allows you to change the model scale setting to match the hitboxes.
+Hitbox and scale settings
+Various mob-related options that didn't fit in the other categories go here.

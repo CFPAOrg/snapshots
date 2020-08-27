@@ -1,0 +1,4 @@
+itemGroup.flopper
+general.flopper.description
+tile.blocks.flopper.flopper.name
+tile.blocks.flopper.flopper.info

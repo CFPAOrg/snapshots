@@ -1,0 +1,110 @@
+Purified Pile of Pitchblende
+Pitchblende
+Tiny Pile of Kaolinite
+Small Pile of Kaolinite
+Kaolinite
+Centrifuged Talc
+Purified Talc
+Ground Talc
+Tiny Pile of Talc
+Small Pile of Talc
+Impure Pile of Talc
+Purified Pile of Talc
+Talc
+Tiny Pile of Flour
+Small Pile of Flour
+Flour
+Ore Washer
+Thermal Centrifuge
+Extractor
+Recycler
+Furnace
+Scanner
+Ore Byproduct List
+Replicator
+Assembly Line
+Assembler
+Press
+Pulverization
+Unpackager
+Plasma Arc Furnace
+Precision Laser Engraver
+Mixer
+Autoclave
+Electromagnetic Separator
+Electromagnetic Polarizer
+Chemical Bath
+Brewery
+Fluid Heater
+Distillery
+Fermenter
+Fluid Solidifier
+Packager
+Fusion Reactor
+Start: %sEU
+Centrifuge
+Electrolyzer
+Blast Furnace
+Heat Capacity: %sK
+Implosion Compressor
+Vacuum Freezer
+Chemical Reactor
+Distillation Tower
+Cracking Unit
+Pyrolyse Oven
+Wiremill
+Metal Bender
+Alloy Smelter
+Canning Machine
+Lathe
+Cutting Saw
+Slicer
+Extruder
+Hammer
+UU Amplifier
+Diesel Generator Fuel
+Fuel Value: %s EU
+Gas Turbine Fuel
+Fuel Value: %s EU
+Thermal Generator Fuel
+Semi-Fluid Boiler Fuels
+Plasma Generator Fuels
+Magic Fuels
+Fuel Value: %s EU
+Forge Hammer
+Compressor
+Packer
+Unpacker
+Diesel Generator
+Gas Turbine
+Steam Turbine
+Semi-Fluid Fuels
+Mass Fabricator
+Right click on machine to clear 1000MB out of the machine's output tank./nOr use it while sneaking to clear 1000MB out of the machine's input tank./nPlease note: input tank clearing works only on GregTech machines!
+Foam
+Reinforced Foam
+Petrified Foam
+Reinforced Stone
+Rubber Wood
+Rubber Leaves
+Rubber Sapling
+Surface Rock
+Lava
+Water
+LV Machine Casing
+MV Machine Casing
+HV Machine Casing
+EV Machine Casing
+IV Machine Casing
+LuV Machine Casing
+UV Machine Casing
+Distilled Water
+Dirty %s Slurry
+Clean %s Slurry
+When used in §aElectric Blast Furnace§7:
+  Base Heating Capacity: §e%dK
+When used in §aMulti Smelter§7:
+  Level: §e%d
+  Energy Discount: §a%dx
+Cupronickel Coil Block
+Kanthal Coil Block

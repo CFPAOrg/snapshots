@@ -1,0 +1,13 @@
+tile.legendariumblock.name
+itemGroup.tablegendariummod
+item.legendariumarmorlegs.name
+item.legendariumsword.name
+item.legendarium.name
+item.legendariumarmorboots.name
+item.hiddensword.name
+item.legendariumpickaxe.name
+item.legendariumshovel.name
+item.legendariumarmorhelmet.name
+tile.legendariumore.name
+item.legendariumaxe.name
+item.legendariumarmorbody.name

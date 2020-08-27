@@ -1,0 +1,34 @@
+Baccano!
+Holy Grenade
+When a Special-made Cocktail is crafted with Popped Chorus Fruit. You make a Holy Grenade! The Holy Grenade will deal massive damage after exploding, giving bad effects to other creatures and giving the good effects to players. <br>A perfect item, but why is it a grenade?
+Art is explosion
+Shadow Warrior
+With the magic of Gilded Mashed Potato, we can use Nightmare Fuel and a Elementium Ingot to make Shadowium. It's a very special kind of material.
+And Then There Were None.
+With the power of Shadowium, Armour crafted with it will give wearer speed, strength, and night vision when the night comes. A sword made of it also seems to call upon Shadow pixies
+Shadow Warrior Helmet
+Shadow Warrior Chestplate
+Shadow Warrior Leggings
+Shadow Warrior Boots
+Shadow Katana
+Not A Vampire
+Livingrock Barrel
+A Livingrock Barrel can simply contain 16 buckets of liquid. It will also supply water to the Altar next to it if it has any.
+Minecraft is too easy.
+Simple
+Super Crown
+When you are equipping the Starry Idol Armor Set or the Pleiades Combat Maid Armor Set, the Super Crown will reduce damage you take by 2.
+You are not Toadette.
+Cat Mario
+Pure Daisy Pendant
+By holding a Pure Daisy Pendant and right-clicking a block, you can instanly transform blocks like a pure daisy, at the cost of a little mana. After 64 uses, it will cool down for 2.5min, and it only cools down when it is equipped.
+My beauty is in position.
+Now You See Me, Now You Don't
+Origin Creation - Omniscience
+Origin Creation - The Omniscience relic can simulate some of the Relics by sneak and right-clicking to switch its form. Keeping other forms will cost &4Mana&0.
+java.lang.NullPointerException
+Spear of Subspace
+Using the Spear of Subspace will summon energies from subspace to attack enemies.
+Orichalcos Ingot
+Core of God
+A upgrade to the Flügel tiara, the Core of God alows infinite flight at the cost of &4Mana&0. The Core of God also gives a slight strength boost and provides faster flight than the tiara

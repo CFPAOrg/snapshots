@@ -1,0 +1,13 @@
+Power Consolidation
+This circle, when placed on the floor, will spawn a lake. Each growth of the lake costs %%val0 mana. When the lake has reached full size, the caster can throw in an enchanted sword in order to get Caliburn, a holy sword which will have the damage of the sword plus extra based on its enchantments. (hint: holier is better!) %%n %%nExchanging a sword costs %%val1 mana.
+Power Consolidation (cont.)
+The holy sword, Caliburn, has several properties. First, undead and unholy monsters will fear it and attempt to flee. Second, right-clicking will pull both the caster and such monsters closer. Lastly, as Caliburn is a sword, the Power Consolidation process can be repeated by simply enchanting it.
+Treasury Projection
+This scroll give the user a gauntlet which will project weapons and tools from the user's treasury - their inventory, some modded bags, and their ender chest, and fling them at the target block they are looking at. %%n %%nIt drains %%val0 mana on using the scroll, and %%val1 mana per weapon projected.
+Shared Pain
+When used on another mob or player, this scroll will replicate damage and potions that affect the caster to the target. %%n %%nIt drains %%val0 mana on using the scroll.
+Rho Aias
+This scroll creates a large shield in front of the caster in the direction it is used. Mobs bounce off of it, and various projectiles are deleted by it. If desired, the caster can also bounce on it by sneaking. %%n %%nIt drains %%val0 mana on use.
+Staff of Explosive Mana Condensation
+This scroll summons a staff with explosive power. The staff has a long charge up time (the beam in the middle indicates readiness), and creates a large explosion. Shift right clicking with the staff will change it to fire multiple, smaller, explosions, and shift right clicking again will enable a beam mode.
+Staff of Explosive Mana Condensation (cont.)

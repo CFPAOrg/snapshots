@@ -1,0 +1,74 @@
+Big Stick
+§a<Big>§r Bow
+§3<Gargantuan>§r Bow
+§3<Gargantuan>§r Arrow
+§a<Big>§r Arrow
+§a<Big>§r Diamond Sword
+§a<Big>§r Gold Sword
+§a<Big>§r Iron Sword
+§a<Big>§r Stone Sword
+§a<Big>§r Wooden Sword
+§3<Gargantuan>§r Diamond Sword
+§3<Gargantuan>§r Gold Sword
+§3<Gargantuan>§r Iron Sword
+§3<Gargantuan>§r Stone Sword
+§3<Gargantuan>§r Wooden Sword
+§a<Big>§r Diamond Pickaxe
+§a<Big>§r Gold Pickaxe
+§a<Big>§r Iron Pickaxe
+§a<Big>§r Stone Pickaxe
+§a<Big>§r Wooden Pickaxe
+§3<Gargantuan>§r Diamond Pickaxe
+§3<Gargantuan>§r Gold Pickaxe
+§3<Gargantuan>§r Iron Pickaxe
+§3<Gargantuan>§r Stone Pickaxe
+§3<Gargantuan>§r Wooden Pickaxe
+§a<Big>§r Diamond Shovel
+§a<Big>§r Gold Shovel
+§a<Big>§r Iron Shovel
+§a<Big>§r Stone Shovel
+§a<Big>§r Wooden Shovel
+§3<Gargantuan>§r Diamond Shovel
+§3<Gargantuan>§r Gold Shovel
+§3<Gargantuan>§r Iron Shovel
+§3<Gargantuan>§r Stone Shovel
+§3<Gargantuan>§r Wooden Shovel
+§a<Big>§r Diamond Axe
+§a<Big>§r Gold Axe
+§a<Big>§r Iron Axe
+§a<Big>§r Stone Axe
+§a<Big>§r Wooden Axe
+§3<Gargantuan>§r Diamond Axe
+§3<Gargantuan>§r Gold Axe
+§3<Gargantuan>§r Iron Axe
+§3<Gargantuan>§r Stone Axe
+§3<Gargantuan>§r Wooden Axe
+Compressed Cobblestone
+§a<Big>§r Multi-Axe
+§3<Gargantuan>§r Multi-Axe
+§a<Big>§r Multi-Pick
+§3<Gargantuan>§r Multi-Pick
+§a<Big>§r Multi-Shovel
+§3<Gargantuan>§r Multi-Shovel
+§a<Big>§r Multi-Sword
+§3<Gargantuan>§r Multi-Sword
+§a<Big>§r Arrow
+§3<Gargantuan>§r Arrow
+§a<Big>§r Shield
+§a<Big>§r Black Shield
+§a<Big>§r White Shield
+§a<Big>§r Gray Shield
+§a<Big>§r Light Blue Shield
+§a<Big>§r Light Gray Shield
+§a<Big>§r Pink Shield
+§a<Big>§r Blue Shield
+§a<Big>§r Brown Shield
+§a<Big>§r Cyan Shield
+§a<Big>§r Green Shield
+§a<Big>§r Lime Shield
+§a<Big>§r Yellow Shield
+§a<Big>§r Magenta Shield
+§a<Big>§r Orange Shield
+§a<Big>§r Purple Shield
+§a<Big>§r Red Shield
+§aG§r§2-§aWeapons§r

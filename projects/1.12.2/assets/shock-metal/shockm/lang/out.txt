@@ -1,0 +1,31 @@
+Shock Metal Ingot
+Pulvarised Shock Metal
+A guide on Shock Metal
+Frame: Diamond
+Shock Metal
+Currently work in progress!!!
+Molecular Manipulator
+Shock Metal Axe
+Shock Metal Hoe
+Shock Metal Pickaxe
+Shock Metal Shovel
+Shock Metal Sword
+Shock Metal Helmet
+Shock Metal Chestplate
+Shock Metal Leggings
+Shock Metal Boots
+Shock Metal Block
+Shock Metal Ore
+Molecular Manipulator
+Shock Metal
+Shock Metal Config
+ Shock Metal Damage Value
+ Enable Thermal Expansion Integration
+ Enable Tinkers Construct Integration
+ Enable / Disable Shockmetal sword lightning ability
+Configure General Setings
+Configure Mod Integration Settings
+Molten Shock Metal
+Molten Shock Metal
+Atom Ripper
+Sets fire to the Un-dead, absorbing their matter to heal your wounds!

@@ -1,0 +1,95 @@
+Fairy Selected. [mode: fairy moving]
+Fairy Selected. [mode: fairy aiming]
+Glass Orb
+Mana Orb 0%
+Mana Orb 10%
+Mana Orb 20%
+Mana Orb 30%
+Mana Orb 40%
+Mana Orb 50%
+Mana Orb 60%
+Mana Orb 70%
+Mana Orb 80%
+Mana Orb 90%
+Mana Orb 100%
+Levitation Orb 0%
+Levitation Orb 10%
+Levitation Orb 20%
+Levitation Orb 30%
+Levitation Orb 40%
+Levitation Orb 50%
+Levitation Orb 60%
+Levitation Orb 70%
+Levitation Orb 80%
+Levitation Orb 90%
+Levitation Orb 100%
+Wisdom Wood Stick
+Wisdom Wood Door
+Wisdom Wood Log
+Wisdom Wood Planks
+Wisdom Wood Pigmented Planks
+Wisdom Wood Slab
+Wisdom Wood Stairs
+Wisdom Wood Trapdoor
+Wisdom Wood Fence
+Wisdom Wood Fence Gate
+Wisdom Wood
+Wisdom Leaves
+Halo Infuser
+You're a Wizard, Harry
+Create a book to aid in your delve into magic
+Not a Mana Pool
+Discover a pool of liquid Mana in your travels
+Sugar and Spice
+Melt redstone in fire to make Devil Dust
+§oCRUNCH.§r
+Crash straight through Bedrock to the Underworld above
+Nacre
+Mana
+%s drowned in power
+%s was pulverized
+%s was pulverized by %s
+Glass shatters
+Dust fizzes
+Dust sizzles
+Harp plays
+Bell tolls
+Liquid bubbles
+Spirit whispers
+Spirit zaps
+Electrical humming
+Sparkling noises
+Crash
+Feather
+Ascension
+Hermetic Seal
+Ghostform
+Frictionless
+Overdrive
+Unwinding
+Corruption
+Wizardry
+Pearl Swapping
+Output replaces liquid
+Consumes the liquid used
+Needs %d source blocks of liquid
+Item Burning
+Fire
+Fluid Recipe
+Spell:
+<Sneak for info>
+<Ctrl for more info>
+&7<- &8Shift for more info&7 ->
+Wizardry Update Changelog
+There's a new Wizardry update available.
+Your version:
+New version:
+Materials Required
+Range: 
+Antigravity Well
+Repulses all entities around the target.
+Pushes away all entities within <AREA> blocks and farther than 2 blocks from the center.
+Pushes entities in with with a force dependent on <POTENCY>.
+Lasts half a second for each point of <DURATION>.
+Reinforcements
+Summons undead mobs to aid in battle.

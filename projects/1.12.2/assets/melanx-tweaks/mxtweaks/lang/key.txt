@@ -1,0 +1,22 @@
+itemGroup.MelanX Tweaks
+item.mana_petal_white.name
+item.mana_petal_orange.name
+item.mana_petal_magenta.name
+item.mana_petal_lightblue.name
+item.mana_petal_yellow.name
+item.mana_petal_lime.name
+item.mana_petal_pink.name
+item.mana_petal_gray.name
+item.mana_petal_lightgray.name
+item.mana_petal_cyan.name
+item.mana_petal_purple.name
+item.mana_petal_blue.name
+item.mana_petal_brown.name
+item.mana_petal_green.name
+item.mana_petal_red.name
+item.mana_petal_black.name
+item.rune_of_infinity.name
+tile.compressed_cobblestone.name
+tile.infinity_block.name
+tile.pink_living_rock.name
+tile.compressed_pink_living_rock.name

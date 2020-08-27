@@ -1,0 +1,6 @@
+item.giantstonesword.name
+item.giantwoodsword.name
+itemGroup.tabcreativetab
+item.giantdiamondsword.name
+item.giantgoldsword.name
+item.giantironsword.name

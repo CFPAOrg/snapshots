@@ -1,0 +1,68 @@
+Operator: Vector Construct
+Constructs a Vector from XYZ parameters
+Operator: Vector Extract X
+Extracts the X coordinate from a Vector
+Operator: Vector Extract Y
+Extracts the Y coordinate from a Vector
+Operator: Vector Extract Z
+Extracts the Z coordinate from a Vector
+Operator: Vector Project
+Projects Vector A onto Vector B
+Operator: Vector Dot Product
+A . B
+Operator: Closest to Point
+Gets the closest entity in a list to a point 
+Operator: Random Entity
+Gets a random entity from a list
+Operator: Add To List
+Adds target entity to a list
+Operator: Remove From List
+Removes target entity from a list
+Constant: Number
+Select and type to set value
+Constant: Pi
+Returns the value of Pi
+Constant: e
+Returns the value of e
+Constant: Wrapper
+A wrapper for a constant for stat calculation
+Connector
+Connects stuff and things
+Error Suppressor
+Suppresses errors thrown by the spell
+Trick: Debug
+For testing. Prints out the target
+Trick: Sleep
+Delays the spell for the amount of ticks passed in
+Trick: Die
+Stops spell execution if target is within ]-1, 1[
+Trick: Evaluate
+Evaluates a value. Does nothing with it
+Trick: Add Motion
+Adds motion to target Entity
+Trick: Explode
+Goes boom
+Trick: Break Block
+Breaks a block
+Trick: Break Block Sequence
+Breaks a sequence of blocks defined by a Vector
+Trick: Place Block
+Places a block (the one to the right of the Rod)
+Trick: Place Block Sequence
+Places a sequence of blocks defined by a Vector
+Trick: Infusion
+Infuses Gold into Psimetal
+Trick: Blink
+Blinks forward
+Trick: Mass Blink
+Blinks everybody forward
+Trick: Mass Add Motion
+Adds motion to all entities in target Entity List
+Trick: Mass Exodus
+Moves all entities in target Entity List to target position
+Trick: Move Block
+Moves a block by target (normalized) axial vector
+Trick: Collapse Block
+Collapses a block, as if it were sand
+Trick: Smite
+Calls down lightning at the given point

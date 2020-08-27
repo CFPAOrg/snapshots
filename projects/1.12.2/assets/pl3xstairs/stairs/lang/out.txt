@@ -1,0 +1,87 @@
+Lapis Lazuli Ore Stairs
+Acacia Leaves Stairs
+Birch Leaves Stairs
+Dark Oak Leaves Stairs
+Jungle Leaves Stairs
+Oak Leaves Stairs
+Spruce Leaves Stairs
+Acacia Log Stairs
+Birch Log Stairs
+Dark Oak Log Stairs
+Jungle Log Stairs
+Oak Log Stairs
+Spruce Log Stairs
+Magma Stairs
+Melon Stairs
+Brown Mushroom Stairs
+Red Mushroom Stairs
+Mycelium Stairs
+Netherrack Stairs
+Nether Wart Stairs
+Note Block Stairs
+Obsidian Stairs
+Podzol Stairs
+Prismarine Stairs
+Prismarine Brick Stairs
+Pumpkin Stairs
+Purpur Pillar Stairs
+Chiseled Quartz Stairs
+Quartz Ore Stairs
+Pillar Quartz Stairs
+Red Nether Brick Stairs
+Red Sand Stairs
+Chiseled Red Sandstone Stairs
+Smooth Red Sandstone Stairs
+Redstone Stairs
+Redstone Lamp Stairs
+Lit Redstone Lamp Stairs
+Redstone Ore Stairs
+Lit Redstone Ore Stairs
+Sand Stairs
+Chiseled Sandstone Stairs
+Smooth Sandstone Stairs
+Sea Lantern Stairs
+Slime Stairs
+Snow Stairs
+Soul Sand Stairs
+Sponge Stairs
+Wet Sponge Stairs
+Stone Stairs
+Chiseled Stone Brick Stairs
+Cracked Stone Brick Stairs
+Mossy Stone Brick Stairs
+Terracotta Stairs
+Black Terracotta Stairs
+Blue Terracotta Stairs
+Brown Terracotta Stairs
+Cyan Terracotta Stairs
+Gray Terracotta Stairs
+Green Terracotta Stairs
+Light Blue Terracotta Stairs
+Lime Terracotta Stairs
+Magenta Terracotta Stairs
+Orange Terracotta Stairs
+Pink Terracotta Stairs
+Purple Terracotta Stairs
+Red Terracotta Stairs
+Light Gray Terracotta Stairs
+White Terracotta Stairs
+Yellow Terracotta Stairs
+TNT Stairs
+Black Wool Stairs
+Blue Wool Stairs
+Brown Wool Stairs
+Cyan Wool Stairs
+Gray Wool Stairs
+Green Wool Stairs
+Light Blue Wool Stairs
+Lime Wool Stairs
+Magenta Wool Stairs
+Orange Wool Stairs
+Pink Wool Stairs
+Purple Wool Stairs
+Red Wool Stairs
+Light Gray Wool Stairs
+White Wool Stairs
+Yellow Wool Stairs
+Stairs

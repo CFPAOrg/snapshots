@@ -1,0 +1,74 @@
+Dark Cobble Sandstone Arch
+Light Mortar Slate Stairs
+Light Mortar Slate Arch
+Red Stucco Stairs
+Red Stucco Arch
+White Plaster Stairs
+White Plaster Arch
+Clean Magenta Stucco Stairs
+Clean Magenta Stucco Arch
+Clean Light Gray Stucco Stairs
+Clean Light Gray Stucco Arch
+Clean Yellow Stucco Stairs
+Clean Yellow Stucco Arch
+Clean White Plaster Stairs
+Clean White Plaster Arch
+Clean Purple Stucco Stairs
+Clean Purple Stucco Arch
+Orange Plaster Stairs
+Orange Plaster Arch
+Hewn Stone Tiles Stairs
+Hewn Stone Tiles Arch
+Seashell Wall Stairs
+Seashell Wall Arch
+Smooth Andesite Stairs
+Smooth Andesite Arch
+Rough Granite Stairs
+Natural Andesite Stairs
+Circular Carved Stone Floor Stairs
+Circular Carved Stone Floor Arch
+Gray Tiles Stairs
+Gray Tiles Arch
+Brown Wood Shingles Stairs
+Gray Wood Shingles Stairs
+Light Blue Roof Tiles Stairs
+Brown-Gray Wood Shingles Stairs
+Light Red Roof Tiles Stairs
+Red Roof Tiles Stairs
+Auburn Roof Tiles Stairs
+Wavy Blue Roof Tiles Stairs
+Wavy Red Roof Tiles Stairs
+Wavy Gray Roof Tiles Stairs
+Blue Schist Stairs
+Mossy Auburn Roof Tiles Stairs
+Wavy Gold Roof Tiles Stairs
+Wavy Light Gray Roof Tiles Stairs
+Smooth Calcite Stairs
+Rough Calcite Stairs
+Ruined Stone Brick Stairs
+Ruined Stone Brick Arch
+Worn Plaster with Red Masonry Lines Stairs
+Worn Plaster with Red Masonry Lines Arch
+Plaster with Red Masonry Lines Stairs
+Plaster with Red Masonry Lines Arch
+Plaster with Masonry Lines Stairs
+Plaster with Masonry Lines Arch
+Dark Sandstone Brick Stairs
+Dark Sandstone Brick Arch
+Small Diorite Brick Stairs
+Small Diorite Brick Arch
+Mud Brick Stairs
+Mud Brick Arch
+Poor Roman Brick Stairs
+Poor Roman Arch
+Dark Red Sandstone Stairs
+Dark Red Sandstone Arch
+Broken Reticulated Brick Stairs
+ Arch
+Brich Fishscale Stairs
+Travertine Slab Arch
+Peach Stucco Stairs
+Peach Stucco Arch
+Plastered Stone Small Arch
+Plastered Stone Tiles Small Arch
+Hewn Stone Tiles Small Arch

@@ -1,0 +1,4 @@
+itemGroup.dinoutil
+item.coin_pouch.name
+item.rainbow_axe.name
+enchantment.level.20

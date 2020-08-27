@@ -1,0 +1,163 @@
+Hematite Ore
+Hematite Ore
+Magnetite Ore
+Magnetite Ore
+Limonite Ore
+Limonite Ore
+Siderite Ore
+Siderite Ore
+Petalite Ore
+Petalite Ore
+Lignite Ore
+Lignite Coal
+Bituminous Ore
+Bituminous Coal
+Anthracite Ore
+Anthracite Coal
+Magnesite Ore
+Magnesite Ore
+Bauxite Ore
+Bauxite Ore
+Argentite Ore
+Argentite Ore
+Bismuthinite Ore
+Bismuthinite Ore
+Cassiterite Ore
+Cassiterite Ore
+Chromite Ore
+Chromite Ore
+Cobaltite Ore
+Cobaltite Ore
+Galena Ore
+Galena Ore
+Garnierite Ore
+Garnierite Ore
+Ilmenite Ore
+Ilmenite Ore
+Osmiridium Ore
+Osmiridium Ore
+Malachite Ore
+Malachite Ore
+Monazite Ore
+Monazite Ore
+Native Gold Ore
+Native Gold Ore
+Native Platinum Ore
+Native Platinum Ore
+Iridosmine Ore
+Iridosmine Ore
+Pentladite Ore
+Penladite Ore
+Sphalerite Ore
+Sphalerite Ore
+Wolframite Ore
+Wolframite Ore
+Tetrahedrite Ore
+Tetrahedrite Ore
+Uraninite Ore
+Uraninite Ore
+Mythril Ore
+Mythril Ore
+Gem Ore
+Invalid Gem Drop
+Adamantine Ore
+Adamantine Ore
+Cinnabar Ore
+Cinnabar Ore
+Lapis Ore
+Lapis Ore
+Fossil
+Fossil
+Dust
+Stone Prospecting Pick
+Iron Prospecting Pick
+Gem Prospecting Pick
+Steel Prospecting Pick
+Copper Prospecting Pick
+Bronze Prospecting Pick
+Rock
+Sharp Rock on a Stick
+Sharp Rock
+Amber
+Amethyst
+Aquamarine
+Beryl
+Bloodstone
+Citrine
+Diamond
+Emerald
+Garnet
+Jade
+Jasper
+Moonstone
+Onyx
+Opal
+Pectolite
+Peridot
+Quartz
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Topaz
+Turquoise
+Tourmaline
+Zircon
+Mixed
+Conglomerate
+Sandstone
+Shale
+Limestone
+Dolomite
+Salt
+Chert
+Diatomite
+Claystone
+Gneiss
+Phyllite
+Schist
+Slate
+Marble
+Quartzite
+Granulite
+Ecologite
+Skarn
+Gabbro
+Granite
+Pegatite
+Diorite
+Andesite
+Basalt
+Obsidian
+Rhyolite
+Scoria
+Eclogite
+Cobblestone
+Smooth
+Brick
+Gravel
+Sand
+Igneous
+Metamorphic
+Sedimentary
+Clastic
+Intrusive
+Extrusive
+Foliated
+Non-Foliated
+Chemical
+BioChemical
+Grade
+Range:
+Mode: %MODE%
+Weight
+Total Weight
+Blocks
+Ore
+Misc
+Name: %NAME%
+Rock Types: %TYPES%
+Mode Switched to %MODE%
+Found:
+A Motherload of %ORE%
+A Huge sample of %ORE%

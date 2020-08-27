@@ -1,0 +1,28 @@
+Ring of Parkour
+Ring of Wall-Run will enable you to climb any wall you want, and Ring of Wall-Jump enables you to "jump" on the wall at most 5 times until you reach the ground.
+While Ring of Parkour combines both.
+Ring of Elven King
+Ring of Elven King can perform three common baubles' abilities. Just carry a Bauble Case and put the bauble you want in the first three slots. Not all the baubles can be simulated.
+Walking Cane
+Walking Cane can increase one's speed when he is holding it. What's more, you can right-click to dash a long distance, which costs just a little mana.
+ALL FOR ONE
+As the upgraded version of Elven King, ALL FOR ONE can perform all the baubles' abilities in the Bauble Case.
+Das Rheingold
+Das Rheingold can empty the binding of a relic, just crafting the relic with it. If you want to bind the relic to a specific person, hold the Das Rheingold and right-click him, then the crafting will make the relic bind to him.
+Challenge Ticket
+Challenge Ticket can be used as a one-shot thing to summon Gaia Guardian III. Like how you use gaia ingot to summon Gaia Guardian II.
+Goblin Slayer Armor
+Photonium is the opposite side of Shadowium.
+It can be used to make Goblin Slayer Armor, which powers player during day time, enabling him to regenerate more quickly and deal extra damage to non-undead creatures.
+Goblin Slayer Helmet
+Goblin Slayer Chestplate
+Goblin Slayer Leggings
+Goblin Slayer Boots
+New Mana Lens
+Mana Lens: Push will enable Mana Burst to force the first entity it collide to move with it.
+Push
+Mana Lens: Smelt is like a furnace, it will enable Mana Burst to smelt the block ti collide.
+Smelt
+Mana Lens: Mana is like a Mana Pool, it will infuse the item with mana. If you place a Alchemy Catalyst or a Conjuration Catalyst under the spreader, it will do the cocorresponding work.
+Mana
+Mana Lens: Potion will add potion effects to the entity collided. Craft the lens with the brew flask to decide its effect.

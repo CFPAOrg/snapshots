@@ -1,0 +1,3 @@
+tile.fossilfood.breadstone_ore.name
+item.fossilfood.fossilbread.name
+item.fossilfood.fossiltoast.name

@@ -1,0 +1,48 @@
+ UNITED STATES ENGLISH
+Carpenter's Blocks
+Carpenter's Hammer
+Carpenter's Chisel
+Carpenter's Door
+Carpenter's Bed
+Carpenter's Tile
+Carpenter's Barrier
+Carpenter's Bed
+Carpenter's Block
+Carpenter's Button
+Carpenter's Daylight Sensor
+Carpenter's Collapsible Block
+Carpenter's Door
+Carpenter's Garage Door
+Carpenter's Gate
+Carpenter's Hatch
+Carpenter's Ladder
+Carpenter's Lever
+Carpenter's Pressure Plate
+Carpenter's Wedge Slope
+Carpenter's Oblique Interior Slope
+Carpenter's Oblique Exterior Slope
+Carpenter's Prism Slope
+Carpenter's Prism Wedge Slope
+Carpenter's Stairs
+Carpenter's Torch
+Carpenter's Safe
+Carpenter's Flower Pot
+Carpenter's Tile
+POLARITY: Normal redstone output.
+POLARITY: Inverted redstone output.
+ACTIVATION: Will behave like an iron door.
+ACTIVATION: Will behave like a wooden door.
+TRIGGER: Only activate for players.
+TRIGGER: Only activate for monsters.
+TRIGGER: Only activate for animals.
+TRIGGER: Activate for all entities.
+CONTROL: Safe locked.
+CONTROL: Safe unlocked.
+AUTOMATION: Items can be inserted and extracted.
+AUTOMATION: Disabled.
+AUTOMATION: Items can be inserted only.
+AUTOMATION: Items can be extracted only.
+CONTROL: This block is locked.
+SENSITIVITY: Toggles state at player sleep threshold (sunrise and sunset).
+SENSITIVITY: Toggles state at monster spawn light threshold (including storms).
+SENSITIVITY: Redstone output changes based on position of the sun.

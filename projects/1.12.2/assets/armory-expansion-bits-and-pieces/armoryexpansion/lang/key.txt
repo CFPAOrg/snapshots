@@ -1,0 +1,6 @@
+material.heartfiredragon.name
+material.hearticedragon.name
+material.fleshfiredragon.name
+material.fleshicedragon.name
+material.enchantedfabric.name
+material.silkycloth.name

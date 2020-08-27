@@ -1,0 +1,33 @@
+You have successfully granted %s access to the block you are looking at.
+/clan denyaccess <player>
+Denies a player access to the locked block you are looking at. You can only deny access to blocks if you are the player who locked it or have the "lockadmin" clan permission.
+You cannot deny access to this block because it is locked by %s.
+You are not looking at a block or are too far from the block to deny access to it.
+You have successfully denied %s access to the block you are looking at.
+/clan lockinfo
+View lock information about the block you are looking at.
+Owner: %s
+Type: %s
+Overrides:
+%s: allowed
+%s: denied
+You are not looking at a block or are too far from the block to view lock information.
+/clan territorymessagemode <chat|action_bar|off> [showdescription: true|false]
+Set how territory messages will display for you. Chat shows it in chat, action bar shows it in the action bar, and off turns them off. showdescription only makes a difference when using chat; descriptions cannot be shown in the action bar.
+You have successfully updated your territory message mode.
+/clan undergroundmessages <on|off>
+Set if you see messages when moving between being above ground and below ground for Wilderness purposes.
+You have successfully updated your underground message mode.
+/opclan abandonclaim
+Abandon a claim, regardless of who owns it.
+/opclan addfunds <clan> <amount>
+Add funds to any clan's balance.
+/opclan autoabandon
+Automatically abandon claims as you walk around, regardless of who owns them.
+You are now autoabandoning land for everyone.
+You are no longer autoabandoning land for everyone.
+/opclan autoclaim <clan>
+Automatically claim land for a clan as you walk around, regardless of who currently owns it.
+/opclan buildadmin
+Enter admin mode, allowing you to build/destroy/interact/attack on any clan's territory.
+You are now in Build Admin mode.

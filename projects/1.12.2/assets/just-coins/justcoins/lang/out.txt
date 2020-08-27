@@ -1,0 +1,6 @@
+Copper Coin
+Silver Coin
+Gold Coin
+Coin Sack
+Given %s * %s to %s
+/coin <Player> <copper|silver|gold|sack> [quantity]

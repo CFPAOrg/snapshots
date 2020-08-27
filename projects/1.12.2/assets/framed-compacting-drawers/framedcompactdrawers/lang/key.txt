@@ -1,0 +1,4 @@
+tile.framedcompactdrawers.framed_compact_drawer.name
+tile.framedcompactdrawers.framed_drawer_controller.name
+tile.framedcompactdrawers.framed_slave.name
+itemGroup.framed_compacting_drawers

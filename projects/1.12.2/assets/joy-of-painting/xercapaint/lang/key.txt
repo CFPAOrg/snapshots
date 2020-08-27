@@ -1,0 +1,9 @@
+itemGroup.paint_tab
+item.item_palette.name
+item.item_canvas.name
+item.item_canvas_large.name
+item.item_canvas_long.name
+item.item_canvas_tall.name
+palette.basic_count
+palette.custom_count
+palette.empty

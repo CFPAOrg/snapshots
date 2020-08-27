@@ -1,0 +1,3 @@
+tile.spawn_upgraderi.name
+tile.spawn_upgraderii.name
+tile.spawn_upgraderiii.name

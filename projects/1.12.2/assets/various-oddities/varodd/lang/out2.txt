@@ -1,0 +1,74 @@
+A modest skip in your step
+Behold, Springheel Steve!
+A magical tool for resisting constraints of motion
+Your hand tingles with youthful endurance
+It pulses in rhythm with your heart
+Imbued with mild protective magics
+Look ma, no flippers!
+As graceful as a salmon
+No ice required!
+Not even the gods could shift it, but the lightest touch might
+A convenient bag for the carrying of things
+The alchemist's vital tool, when in a hurry
+It's durable properties might be exploitable...
+It's durable properties might be exploitable...
+It burrows and bites at all things that have been made to move
+It busily munches on magical auras afflicting the wearer.
+Try not to overfeed it!
+Keeps unwanted pests at bay
+Hmm, needs a few shakes
+It needs to be properly stewed
+Restores motion to the motionless
+A layman's tool for repelling vulnerable undead
+A makeshift device that repels vulnerable undead
+A scholar's sigil, which undead cannot tolerate
+The mark of a noble priest, standing against the undead
+A powerful emblem to repel the mightiest of undead
+A convenient tool for measuring time
+The discarded shell of a strange nomad...
+It always pays to keep track of things
+The wisdom of a lost soul...
+It sizzles even against the air
+It's scalding to the touch
+A blessed tonic, anathema to the evil and undead
+An effective, if unpalatable, curative against mundane poisons
+It writhes against the glass, trying to constrict all it touches
+A single loud bang and then...
+Phylactery of %s
+Unique mob
+Time until spawn: %s
+Unable to spawn
+Alexandrite
+Amber
+Amethyst
+Diamond
+Citrine
+Emerald
+Garnet
+Jacinth
+Jade
+Jasper
+Malachite
+Opal
+Pearl
+Peridot
+Ruby
+Sardonyx
+Topaz
+Zircon
+Standard
+Alt-Fire
+Reset
+Distance: %s metres
+Destination invalid
+Begin pact
+Decline pact
+Pacts
+The Witch in the Woods
+The Storm Sage
+%s XP
+Assorted loot
+Function trigger (%s)
+Unlock recipes (%s)
+Owner: %s
+Bound to someone else

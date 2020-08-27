@@ -1,0 +1,11 @@
+I created the substance. Now I want to try out if I could increase the strenght of the creature.
+Success. The new enchantment is indeed potent, but it will not work alone I'll need some internal reinforcements, or else the limbs will fall off. <LINE> Now that I see some of the applications and limitations of this technique, I want to see if I can create an enchant, that would transcend the abilities of one creature, and make it behave like it's something else. <BR><BR>A spider should suffice.
+Was a little harder than expected, but the property transfer was successfull. <LINE> Before moving forward, I want to see if speed has the same limitations as strength.
+Interestingly, it does not. Still needs some getting used to.<LINE> Lastly, I want to see, if increased vitality would be the answer to the fragility problem of strength.
+That's it for now. I need to learn more before I can do more.
+The vitality enchantment will increase the creature's regenerative abilities.
+The strength enchantment will increase the power output of the creature's muscles.
+The spider limbs enchantment, infuses the creature with the essence of a spider, allowing it to climb up walls, and stick to them.
+The speed enchantment increases the movement speed of the creature.<LINE> Because they target similar musche groups, the strenght enchant will cause it to increase the fall damage that the creature takes. <LINE> Because of the hardening effects of the protection enchant that is affecting movement to a degree, it will cause the creature to need more enegry to function,
+The fertility enchantment allows enchanted animals to give birth to additional offspring. Each enchanted parent provides one extra baby. <LINE> Creatures with higher intellect are somewhat unaffected.
+The protection enchantment is very straightforward: every level will divide the damage that the enchanted creature will take.

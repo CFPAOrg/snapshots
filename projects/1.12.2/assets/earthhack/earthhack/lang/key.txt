@@ -1,0 +1,15 @@
+item.carbon.name
+item.carbon_stick.name
+item.compacted_carbon.name
+item.carbon_pickaxe.name
+item.carbon_axe.name
+item.carbon_shovel.name
+item.carbon_hoe.name
+item.carbon_sword.name
+item.carbon_helmet.name
+item.carbon_chestplate.name
+item.carbon_leggings.name
+item.carbon_boots.name
+tile.compacted_carbonblock.name
+itemGroup.basictab
+itemGroup.toolstab

@@ -1,0 +1,45 @@
+The name '%s' is too long for an objective, it can be at most %s characters long
+The display name '%s' is too long for an objective, it can be at most %s characters long
+Added new objective '%s' successfully
+/scoreboard objectives remove <name>
+Removed objective '%s' successfully
+Showing %s objective(s) on scoreboard:
+- %s: displays as '%s' and is type '%s'
+There are no objectives on the scoreboard
+/scoreboard players <set|add|remove|reset|list|enable|test|operation|tag> ...
+The name '%s' is too long for a player, it can be at most %s characters long
+Set score of %s for player %s to %s
+The dataTag does not match for %s
+Could not parse dataTag, reason: %s
+/scoreboard players set <player> <objective> <score> [dataTag]
+/scoreboard players add <player> <objective> <count> [dataTag]
+/scoreboard players remove <player> <objective> <count> [dataTag]
+/scoreboard players reset <player> [objective]
+Reset scores of player %s
+Reset score %s of player %s
+/scoreboard players list [name]
+Showing %s tracked players on the scoreboard:
+There are no tracked players on the scoreboard
+Showing %s tracked objective(s) for %s:
+- %2$s: %1$s (%3$s)
+Player %s has no scores recorded
+/scoreboard players enable <player> <trigger>
+Enabled trigger %s for %s
+Objective %s is not a trigger
+/scoreboard players test <player> <objective> <min> [max]
+No %s score for %s found
+Score %s is NOT in range %s to %s
+Score %s is in range %s to %s
+/scoreboard players operation <targetName> <targetObjective> <operation> <selector> <objective>
+No %s score for %s found
+Invalid operation %s
+Operation applied successfully
+/scoreboard players tag <player> <add|remove|list> <tagName> [dataTag]
+The dataTag does not match for %s
+Can't add more than %s tags to an entity
+Entity didn't have the %s tag
+Tag %s added
+Tag %s removed
+Tags on entity %s are:
+Players tag command failed, reason: %s
+/scoreboard teams <list|add|remove|empty|join|leave|option> ...

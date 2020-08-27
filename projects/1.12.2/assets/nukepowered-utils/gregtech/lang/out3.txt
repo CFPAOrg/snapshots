@@ -1,0 +1,58 @@
+§bAdvanced Impeller jetpack
+Battery pack (§eLV§r)
+Battery pack (§eMV§r)
+Battery pack (§eHV§r)
+§eNanoMuscle™ Suite Chestplate
+§eNanoMuscle™ Suite Leggins
+§eNanoMuscle™ Suite Boots
+§eNanoMuscle™ Suite Helmet
+§bAdvanced NanoMuscle™ Suite Chestplate
+§bQuarkTech™ Suite Chestplate
+§bQuarkTech™ Suite Leggins
+§bQuarkTech™ Suite Boots
+§bQuarkTech™ Suite Helmet
+§5Advanced QuarkTech™ Suite Chestplate
+§ePower impeller
+§bAdvanced power impeller
+§5Gravitation engine unit
+In developing
+Max size: §a%s
+Generation: §a%s §7EU/t
+Can be placed as a multiblock to the maximum size
+Basic photoelectric cell
+A primitive photoelectric cell.
+Polycrystalline silicon solar panel
+A good choice between the cost of production and energy production.
+Monocrystalline silicon solar panel
+The best power efficiency, but cost of production is big.
+Processing Array
+§eHigh-current power inverter Mk.I
+§bHigh-current power inverter Mk.II
+§dHigh-current power inverter Mk.III
+Solar panel-only mode: %s
+Powerfull step-up power inverter. To toggle modes hit with mallet
+Making to many heat while working, be careful!
+Powerfull device let you controll your solar fields
+Advanced power controller for expensive panels
+§eVending Machine
+Vending Machine
+Basic Circuit Assembling Machine
+Advanced Circuit Assembling Machine
+Advanced Circuit Assembling Machine II
+Advanced Circuit Assembling Machine III
+Advanced Circuit Assembling Machine IV
+Advanced Circuit Assembling Machine V
+Advanced Circuit Assembling Machine VI
+Advanced Circuit Assembling Machine VII
+Basic Disassembling Machine
+Advanced Disassembling Machine
+Advanced Disassembling Machine II
+Advanced Disassembling Machine III
+Advanced Disassembling Machine IV
+Advanced Disassembling Machine V
+Advanced Disassembling Machine VI
+Advanced Disassembling Machine VII
+Basic Cluster Mill
+Advanced Cluster Mill
+Advanced Cluster Mill II
+Advanced Cluster Mill III

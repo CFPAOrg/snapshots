@@ -1,0 +1,7 @@
+itemGroup.mirageorb
+item.mirageorb.name
+item.mirageorb.tooltip.1
+item.mirageorb.tooltip.2
+item.mirageorb.tooltip.3
+item.mirageorb.message.cost
+entity.mirageorb.playerghost.name

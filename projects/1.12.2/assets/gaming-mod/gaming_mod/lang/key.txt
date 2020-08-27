@@ -1,0 +1,5 @@
+item.controller.name
+itemGroup.tabgamingtab
+tile.monitor.name
+tile.acoustic.name
+item.headsethelmet.name

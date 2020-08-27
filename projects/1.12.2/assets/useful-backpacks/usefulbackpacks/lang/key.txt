@@ -1,0 +1,4 @@
+itemGroup.usefulbackpacks:tab
+usefulbackpacks:item.backpack.small.name
+usefulbackpacks:item.backpack.medium.name
+usefulbackpacks:item.backpack.large.name

@@ -1,0 +1,42 @@
+Grey jeans
+Grey boots
+Red cap
+White t-shirt
+Grey bike jacket
+Black bike jacket
+Grey mask
+Orange jumper §8[Close]
+Orange jumper §8[Open]
+Purple jumper
+Bleeding
+Bleeding
+§6§n§oRight Click§r §9§n§oto complete the Weapon
+§9§n§oItem Quality:§r §6Perfect
+§9§n§oItem Quality:§r §2Good
+§9§n§oItem Quality:§r §4Bad
+§9§n§oItem Ability:§r §a§lStop bleeding
+§c§lTest Item
+§9§n§oWeapon Quality:§r §6Perfect
+§9§n§oWeapon Quality:§r §2Good
+§9§n§oWeapon Quality:§r §4Bad
+§6§n§oLegendary Weapon
+§r
+§9§n§oWeapon Quality:§r §6Perfect
+§9§n§oWeapon Quality:§r §2Good
+§9§n§oWeapon Quality:§r §4Bad
+§9§n§oWeapon Ability:§r §4§lBURN!
+§9§n§oAmount of Uses:§r §c§l1
+§9§n§oAmount of Uses:§r §c§l2
+§9§n§oAmount of Uses:§r §a§l3
+§9§n§oAmount of Uses:§r §a§l4
+§9§n§oAmount of Uses:§r §a§l5
+§9§n§oAmount of Uses:§r §e§l6
+§9§n§oAmount of Uses:§r §e§l7
+§9§n§oAmount of Uses:§r §e§l8
+§9§n§oAmount of Uses:§r §e§l9
+§9§n§oAmount of Uses:§r §e§l0
+§9§n§oArmor Ability:§r §a§lStop bleeding
+§9§n§oArmor Ability:§r §8§lHide player nick
+%1$s bled to death
+DGArmors
+Normal

@@ -1,0 +1,4 @@
+item.magicalstone.name
+item.infusingring.name
+item.infusedring.name
+itemGroup.infusedring

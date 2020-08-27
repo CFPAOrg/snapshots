@@ -1,0 +1,79 @@
+Which fluids are valid fuels for lamps?
+Chisel
+Has Delay
+Does the chisel have a delay on use?
+Hammer in Offhand
+If true, hammer must be in offhand for chisel use. If false, hammer can be in offhand or toolbar.
+Small Vessel
+Tank Storage
+How much metal (units / mB) can a small vessel hold?
+Sluice
+Tank Storage
+Tank Storage
+The radius sluice works, in chunks.
+Ticks
+The amount of ticks a sluice uses to work.
+Ore Chance
+Chance that a sluice operation produce small ore.
+Gem Chance
+Chance that a sluice operation produce gems.
+Diamond Chance
+Chance that a diamond is dropped when sluice produce gems.
+Client Settings
+Tooltip Settings
+Show Item Tool Class Tooltip
+Show ItemStack tool classes when advanced tooltips are enabled. (F3+H)
+Show Item Ore Dictionary Tooltip
+Show ItemStack OreDictionary matches when advanced tooltips are enabled. (F3+H)
+Show Item NBT Tooltip
+Show ItemStack NBT on the tooltip when advanced tooltips are enabled. (F3+H)
+Prospectors Pick Output to Actionbar
+Should the prospectors pick output to the actionbar? (the space just above the hotbar)
+Ore Tooltip Mode
+Mode used on ore tooltips.
+Specific Decay Tooltip Mode
+Mode used on decay tooltips.
+Time Tooltip Info Mode
+Mode used on time tooltips.
+Display Settings
+Health Display Format
+Use Vanilla Health Bar
+Disable TFC health bar and use vanilla instead?
+Use Vanilla Hunger Bar
+Disable TFC hunger bar and use vanilla instead?
+Hide Thirst Bar
+Hide the thirst bar?
+Rotten Food Overlay Color
+Animals Settings
+Various animals configuration like gestation periods, number of children and spawn rarity.
+Alpaca
+Sheep
+Cow
+Goat
+Chicken
+Duck
+Pig
+Camel
+Llama
+Horse
+Donkey
+Mule
+Ocelot
+Wolf
+Bear
+Polar Bear
+Lion
+Panther
+Saber Tooth
+Hyena
+Deer
+Parrot
+Pheasant
+Rabbit
+Adulthood
+How many days until this animal is a full grown adult?
+Elderly
+Gestation
+How many days until this animal gives birth?
+Hatch
+How many days it is needed for this animal finish hatching?

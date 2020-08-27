@@ -1,0 +1,66 @@
+HEP-241-Zirconium Alloy Fuel Pellet
+MTRISO-239 Fuel Pebble
+MOX-239 Fuel Pellet
+MNI-239 Fuel Pellet
+MZA-239 Fuel Pellet
+MTRISO-241 Fuel Pebble
+MOX-241 Fuel Pellet
+MNI-241 Fuel Pellet
+MZA-241 Fuel Pellet
+LEA-242 TRISO Fuel Pebble
+LEA-242 Oxide Fuel Pellet
+LEA-242 Nitride Fuel Pellet
+LEA-242-Zirconium Alloy Fuel Pellet
+HEA-242 TRISO Fuel Pebble
+HEA-242 Oxide Fuel Pellet
+HEA-242 Nitride Fuel Pellet
+HEA-242-Zirconium Alloy Fuel Pellet
+LECm-243 TRISO Fuel Pebble
+LECm-243 Oxide Fuel Pellet
+LECm-243 Nitride Fuel Pellet
+LECm-243-Zirconium Alloy Fuel Pellet
+HECm-243 TRISO Fuel Pebble
+HECm-243 Oxide Fuel Pellet
+HECm-243 Nitride Fuel Pellet
+HECm-243-Zirconium Alloy Fuel Pellet
+LECm-245 TRISO Fuel Pebble
+LECm-245 Oxide Fuel Pellet
+LECm-245 Nitride Fuel Pellet
+LECm-245-Zirconium Alloy Fuel Pellet
+HECm-245 TRISO Fuel Pebble
+HECm-245 Oxide Fuel Pellet
+HECm-245 Nitride Fuel Pellet
+HECm-245-Zirconium Alloy Fuel Pellet
+LECm-247 TRISO Fuel Pebble
+LECm-247 Oxide Fuel Pellet
+LECm-247 Nitride Fuel Pellet
+LECm-247-Zirconium Alloy Fuel Pellet
+HECm-247 TRISO Fuel Pebble
+HECm-247 Oxide Fuel Pellet
+HECm-247 Nitride Fuel Pellet
+HECm-247-Zirconium Alloy Fuel Pellet
+LEB-248 TRISO Fuel Pebble
+LEB-248 Oxide Fuel Pellet
+LEB-248 Nitride Fuel Pellet
+LEB-248-Zirconium Alloy Fuel Pellet
+HEB-248 TRISO Fuel Pebble
+HEB-248 Oxide Fuel Pellet
+HEB-248 Nitride Fuel Pellet
+HEB-248-Zirconium Alloy Fuel Pellet
+LECf-249 TRISO Fuel Pebble
+LECf-249 Oxide Fuel Pellet
+LECf-249 Nitride Fuel Pellet
+LECf-249-Zirconium Alloy Fuel Pellet
+HECf-249 TRISO Fuel Pebble
+HECf-249 Oxide Fuel Pellet
+HECf-249 Nitride Fuel Pellet
+HECf-249-Zirconium Alloy Fuel Pellet
+LECf-251 TRISO Fuel Pebble
+LECf-251 Oxide Fuel Pellet
+LECf-251 Nitride Fuel Pellet
+LECf-251-Zirconium Alloy Fuel Pellet
+HECf-251 TRISO Fuel Pebble
+HECf-251 Oxide Fuel Pellet
+HECf-251 Nitride Fuel Pellet
+HECf-251-Zirconium Alloy Fuel Pellet
+Fission Reactor Fuel

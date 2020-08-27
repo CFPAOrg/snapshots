@@ -1,0 +1,11 @@
+Use a &1Wand of the Forest&0 to display the uplink a &1Cygnus Spark&0 has with its master spark - it could hop through multiple intermediary sparks. Use it while &4sneaking&0 will remove the spark, possibly breaking some connections.<br>Much like &1Corporea Sparks&0, you can also color &1Cygnus Sparks&0 with &1floral powder&0, separating them into up to sixteen channels.
+My boy's got his own ringtone
+It's the only one I know, it's the only one I know
+Cygnus Funnel
+Move data point-to-point
+The &1Cygnus Funnel&0, when given a redstone signal, performs a &4funnel action&0: it moves &4Cygnus data&0 from a &4source&0 to a &4sink&0. Normally, the &4source&0 is whatever is against the back of the arrow, and the &4sink&0 is whatever is against the tip. Each end of the arrow lights up when it is placed against a valid &4source&0 or &4sink&0. A list of &4sources&0 and &4sinks&0 is available at the end of this entry.
+If the &1Cygnus Funnel&0 has a &1Cygnus Spark&0 placed on it, only one end of the &4funnel action&0 needs to be adjacent to it. The other end of the action is completed by the &4Stack&0 associated with the &4Cygnus Network&0's &1Master Cygnus Spark&0 - when acting as a &4data source&0 it will &4pop&0 data off of the &4Stack&0, and when &4sinking data&0 it will &4push&0. (The associated end of the arrow does not light up when the &4funnel action&0 is completed like this.)
+&4Funnel actions&0 are usually non-destructive, meaning that &4souring&0 data from something will source a copy of it, and will not touch the original.
+Do it all, do it all, I swear I can do it all
+&4Sourcing&0 from a &1Corporea Retainer&0 returns the retained &3Corporea Request&0. &4Sinking&0 a &3request&0 injects it, keeping the position.
+&4Sourcing&0 from a &1Corporea Crystal Cube&0 returns a &3Corporea Request&0 for the displayed item and count. &4Sinking&0 a &3request&0 sets the item (not the count).

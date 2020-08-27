@@ -1,0 +1,113 @@
+$$$ Stone West
+$$ Yellow
+$$$ Blue East
+$$ Blue East-West
+$$$ Blue North
+$$ Blue North-South
+$$$ Blue South
+$$$ Blue West
+$$$ Brick East
+$ Brick East-West
+$$$ Brick North
+$ Brick North-South
+$$$ Brick South
+$$$ Brick West
+$$ Green Grey East
+$$ Green Grey North
+$$ Green Grey South
+$$ Green Grey West
+$$$ Red Corner North-East
+$$$ Red Corner North-West
+$$$ Red Corner South-East
+$$$ Red Corner South-West
+$$ Yellow East
+$$ Yellow North
+$$ Yellow South
+$$ Yellow West
+$ Stone East
+$ Stone North
+$ Stone South
+$ Stone West
+$$$ Stone East
+$$$ Stone North
+$$$ Stone South
+$$$ Stone West
+$$$ Yellow East
+$$$ Yellow North
+$$$ Yellow South
+$$$ Yellow West
+$$ Beige East
+$$ Beige North
+$$ Beige South
+$$ Beige West
+$ Cyan East
+$ Cyan North
+$ Cyan South
+$ Cyan West
+$ Green East
+$ Green North
+$ Green South
+$ Green West
+$$ Green East II
+$$ Green North II
+$$ Green South II
+$$ Green West II
+$ Light Blue East
+$ Light Blue North
+$ Light Blue South
+$ Light Blue West
+$$ Light Blue East II
+$$ Light Blue North II
+$$ Light Blue South II
+$$ Light Blue West II
+$- Light Grey East
+$ Light Grey North
+$ Light Grey South
+$ Light Grey West
+$$$ Modern East
+$$$ Modern North
+$$$ Modern South
+$$$ Modern West
+$ Orange East
+$ Orange North
+$ Orange South
+$ Orange West
+$$ Red East
+$$ Red North
+$$ Red South
+$$ Red West
+$$$ Stone East
+$$$ Stone North
+$$$ Stone South
+$$$ Stone West
+$$ White East
+$$ White North
+$$ White South
+$$ White West
+$$$ Wood East
+$$$ Wood North
+$$$ Wood South
+$$$ Wood West
+$ Yellow East
+$ Yellow North
+$ Yellow South
+$ Yellow West
+$$ Yellow East II
+$$ Yellow North II
+$$ Yellow South II
+$$ Yellow West II
+$$ Blue Green East
+$$ Blue Green North
+$$ Blue Green South
+$$ Blue Green West
+$$ Blue Red East
+$$ Blue Red North
+$$ Blue Red South
+$$ Blue Red West
+$$$ Brick East
+$$$ Brick North
+$$$ Brick South
+$$$ Brick West
+$ Horizontal East
+$ Horizontal North
+$ Horizontal South

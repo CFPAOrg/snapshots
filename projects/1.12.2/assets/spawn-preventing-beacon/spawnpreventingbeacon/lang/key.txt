@@ -1,0 +1,2 @@
+effect.spawnpreventingbeacon:spawn_preventing
+spawnpreventingbeacon.config.spawn_prevented_mobs_list

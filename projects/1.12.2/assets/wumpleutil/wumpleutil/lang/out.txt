@@ -1,0 +1,14 @@
+nameKey: %s
+Repairing Block
+Repair: %s / §a%s§r : §c%s§r
+Date %s Time %s
+When %s / %s
+DimRatio %s for %s
+§eNon-expiring§r
+§4Expired§r
+Timer: %s §6(Day %s/%s)§r
+§aLasts %3$s days§r
+Refreshing: %s/100
+Crafting
+Inactive
+Active, %s items

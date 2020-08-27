@@ -1,0 +1,18 @@
+E-Vaporate
+Blender
+Vape
+Vape Fluid
+Liquid Vape
+Add your favorite food to the blender
+Add some water to the blender
+Fluid
+Item
+Amount
+Vape Juice
+Vape Juice
+Uses left
+Heal Amount
+Saturation Amount
+Press shift for more info
+You have to press shift
+Press ctrl for more info

@@ -1,0 +1,18 @@
+An advanced complex of coolant systems, conductors and transformers capable of expanding the Energized Induction Matrix's maximum rate of energy transfer.
+A modular, somewhat dangerous radiator that is capable of emitting massive amounts of heat to its surroundings.
+A block used disperse steam throughout a multiblock structure. These should form a gapless, horizontal plane in order to properly control steam flow.
+A pressure-resistant, dense casing used in the creation of a Thermoelectric Boiler multiblock.
+A valve that can be placed on a Thermoelectric Boiler multiblock, allowing for the insertion of energy and water along with the extraction of produced steam.
+A central control hub for managing the security of all your owned machinery.
+A simple machine used to enrich ores into two of their dust counterparts, as well as perform many other operations.
+A fairly advanced machine used to compress osmium into various dusts in order to create their ingot counterparts.
+A machine used to combine dusts and cobblestone to form their ore counterparts.
+A machine used to crush ingots into their dust counterparts, as well as perform many other operations.
+A highly-advanced, filter-based, auto-miner that can mine whatever block you tell it to within a 32 block (max) radius.
+A machine used to infuse various materials into (generally) metals to create metal alloys and other compounds.
+An advanced machine capable of processing ores into three clumps, serving as the initial stage of 300% ore processing.
+A simple machine that serves as a Mekanica-based furnace that runs off of energy.
+A machine capable of teleporting players to various locations defined by another teleporter.
+An advanced, upgradeable pump, capable of extracting any type of fluid.
+A 54-slot chest that can be opened anywhere- even from your own inventory.
+A universal chargepad that can charge any energized item from any mod.

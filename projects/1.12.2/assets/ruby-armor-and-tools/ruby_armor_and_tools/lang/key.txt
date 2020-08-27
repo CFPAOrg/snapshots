@@ -1,0 +1,13 @@
+tile.rubyblock.name
+item.rubyarmorlegs.name
+item.rubyarmorboots.name
+itemGroup.tabrubyaddons
+item.rubyshovel.name
+item.rubyarmorhelmet.name
+item.rubysword.name
+tile.rubyore.name
+item.rubyaxe.name
+item.rubypickaxe.name
+item.rubyhoe.name
+item.ruby.name
+item.rubyarmorbody.name

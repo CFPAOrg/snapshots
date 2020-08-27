@@ -1,0 +1,33 @@
+Control whether Possessed Boxer Husks exist.
+Possessed Boxer Skeletons
+Control whether Possessed Boxer Skeletons exist.
+Possessed Boxer Strays
+Control whether Possessed Boxer Strays exist.
+Possessed Boxer Wither Skeletons
+Control whether Possessed Boxer Wither Skeletons exist.
+Aesthetics Settings
+Control some aesthetic settings.
+Shade Possess Undead Effects
+Whether to spawn particles when a Shade possesses a compatible undead mob.
+Multi-color Possessed Zombie Eyes
+Control whether Possessed Zombies have multi-color eyes.
+Multi-color Possessed Husk Eyes
+Control whether Possessed Husks have multi-color eyes.
+Multi-color Possessed Skeleton Eyes
+Control whether Possessed Skeletons have multi-color eyes.
+Multi-color Possessed Stray Eyes
+Control whether Possessed Strays have multi-color eyes.
+Multi-color Possessed Wither Skeleton Eyes
+Control whether Possessed Wither Skeletons have multi-color eyes.
+Multi-color Possessed Zombie Eyes Chance
+One in §ox§r§e Possessed Zombies will have multi-color eyes.\n§eSet to 0 to disable Possessed Zombies having multi-colored eyes.
+Multi-color Possessed Husk Eyes Chance
+One in §ox§r§e Possessed Husks will have multi-color eyes.\n§eSet to 0 to disable Possessed Husks having multi-colored eyes.
+Multi-color Possessed Skeleton Eyes Chance
+One in §ox§r§e Possessed Skeletons will have multi-color eyes.\n§eSet to 0 to disable Possessed Skeletons having multi-colored eyes.
+Multi-color Possessed Stray Eyes Chance
+One in §ox§r§e Possessed Strays will have multi-color eyes.\n§eSet to 0 to disable Possessed Strays having multi-colored eyes.
+Multi-color Possessed Wither Skeleton Eyes Chance
+One in §ox§r§e Possessed Wither Skeletons will have multi-color eyes.\n§eSet to 0 to disable Possessed Wither Skeletons having multi-colored eyes.
+Multi-color Possessed Wither Hunchbone Eyes
+Control whether Possessed Wither Hunchbones have multi-color eyes.

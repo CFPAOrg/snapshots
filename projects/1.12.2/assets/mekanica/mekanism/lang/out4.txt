@@ -1,0 +1,154 @@
+Toggle operation
+Secondary energy
+Auto-sort
+Smelting
+Enriching
+Crushing
+Compressing
+Combining
+Purifying
+Injecting
+Infusing
+S. Reader
+Solids
+Fluids
+Reading
+Create New Filter
+OreDict Filter
+No key
+Same key
+Mod ID Filter
+No ID
+Same ID
+Oredictionificator Filter
+Item Filter
+No item
+ItemStack Details
+Min
+Max
+Material Filter
+Using material of
+Portable Teleporter
+Robit
+Robit Smelting
+Robit Inventory
+Robit Crafting
+Hi, I'm
+Toggle 'follow' mode
+Rename this Robit
+Teleport back home
+Toggle 'drop pickup' mode
+Following
+Drop pickup
+Owner
+Set password
+Enter password
+Field(s) empty
+Not matching
+Identical
+Invalid
+Password
+Default
+Auto
+Round-robin
+Not ready
+Ready
+No frame
+No link
+Links > 2
+Needs energy
+You don't have access to this Teleporter.
+No frequency
+You don't have access to this Entangloporter.
+Digital Miner Config
+Auto-pull
+Replace block
+Reset
+Silk touch
+Pull
+Silk
+To mine
+Running
+Inverse mode
+Require replace
+Fuzzy mode
+Missing block
+Energy Capacity
+Low Power
+Shaped
+Shapeless
+Public
+Private
+Trusted
+Configurate
+Empty
+Rotate
+Wrench
+Reset Electric Pump calculation
+Diverter mode changed to
+%s behavior bumped to
+Current %s behavior
+No link
+Bound to
+dimension
+Set link to block
+Reset Fluidic Plenisher calculation
+Toggled Induction Port transfer mode to
+Color bumped to
+Current color
+Toggled Reactor Port eject mode to
+Connection type changed to
+Normal
+Push
+Pull
+None
+Speed
+Energy
+Inventory
+Stored energy
+Authenticated
+Locked
+Recipe type
+Hold
+for a description
+for details
+Fire Mode
+Capacity
+Pump Rate
+Items
+Blocks
+universal
+Fluids
+Gasses
+Capable of transferring
+Only used if no other paths available
+Controllable by redstone
+No gas stored
+Stored
+Channel
+Mode
+Efficiency
+Mode toggled to
+Flowing
+yes
+no
+Name
+Block data
+Block
+Metadata
+Tile
+Key(s) found
+No key
+HP
+Configure State
+Output Rate
+Insufficient Fuel
+Ready for Reaction
+Speed
+and
+Heat
+Item amount
+Invalid
+Encoded
+Ingredients
+Conduction

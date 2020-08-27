@@ -1,0 +1,100 @@
+Shadow Legacy
+SL Decorative
+Shadow Ward
+Frostbite
+Hypothermia
+Defusion Ritual
+Exorcism Ritual
+Fusion Ritual
+Growth Ritual
+Transmutation Ritual
+Void Ritual
+Knowledge Ritual
+Arcane Basin
+Color:
+Colorless
+Black
+Red
+Green
+Brown
+Blue
+Purple
+Cyan
+Light Gray
+Gray
+Pink
+Lime
+Yellow
+Light Blue
+Magenta
+Orange
+White
+Ritual Reagent
+Ingredient
+Result
+Add Quest to Tracker
+Remove Quest from Tracker
+Exit Instance
+Enter Instance
+Complete Instance:
+Variant:
+No Template
+Shifting Items
+Not Shifting Items
+Cancel Research
+Generate new Puzzle
+Attempt Completion
+Force Completion With:
+Mirrors
+Splitters
+Dual Mirrors
+Previous Page
+Next Page
+Insufficient Mana
+Missing Required Research
+Magic does not work here
+Toggle Help Screen
+Dimension
+Activate block to mark location
+Resonates near Stone
+Mana Cost
+Corruption Cost
+Required Research
+Mana Discount
+Corruption Discount
+Right-Click to insert Mana
+Sneak + Right-Click to extract Mana
+Bound to your soul
+Bound to another's soul
+Stored Corruption:§d
+Stored Mana:§b
+Loading
+Loading.
+Loading..
+Loading...
+§l§2Activated
+§l§4Deactivated
+§6Left-Click to Toggle
+§eRight-Click to View Entry
+Mana Bar
+Control whether the Mana Bar should be visible or not!
+Quest Tracker
+Control whether the Quest Tracker should be visible or not!
+Contact Smelting
+Mined blocks are automatically smelted! (Where Applicable) (Stacks with Fortune)
+Bountiful Harvest
+Adds an additional level of fortune when mining blocks!
+Soft Hands
+Silk Touch when mining blocks!
+Step Assist
+Uphill step-assist makes full blocks climbable like stairs or slabs!
+Windswept
+Permanent Speed Boost effect! (Stacks with Beacons)
+Uplifted
+Permanent Jump Boost effect! (Stacks with Beacons)
+Far Reach
+Increase your Reach Distance, allowing you to break, place and interact with blocks from further away!
+Fists of Fury
+Massive unarmed damage boost, now you deal 4 damage per strike!
+Burning Hands
+Adds Fire Aspect to all melee attacks!

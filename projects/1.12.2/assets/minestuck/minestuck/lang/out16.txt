@@ -1,0 +1,108 @@
+Tartarus Tackler
+Wyvern Whacker
+Otherworld Overlord
+Vanilla Vanquisher
+Forum Frequenter
+Forge Fidaddler
+Installed Initiate
+Master Of Mods
+Dersite Bishop
+Dersite Pawn
+Dersite Rook
+Prospitan Bishop
+Prospitian Pawn
+Prospitian Rook
+Frog
+Salamander
+Nakagator
+Iguana
+Turtle
+Salamanders
+Nakagators
+Iguanas
+Turtles
+Imp
+%s Imp
+Ogre
+%s Ogre
+Giclops
+%s Giclops
+Basilisk
+%s Basilisk
+Lich
+%s Lich
+%s Grist
+Amber
+Amethyst
+Artifact
+Build
+Caulk
+Chalk
+Cobalt
+Diamond
+Garnet
+Gold
+Iodine
+Marble
+Mercury
+Quartz
+Ruby
+Rust
+Shale
+Sulfur
+Tar
+Uranium
+Zillium
+You do not have enough grist for that, and need: %s
+Grist Cache
+Strife Specibus
+Captchalouge Deck
+Echeladder
+Attack
+Health
+Cache Limit
+Damage boost against underlings:
+Damage against underlings: +%d%%
+Underling damage decreased to:
+Underling damage: -%.1f%%
+Deploy List
+Sylladex
+Use Item
+Kind Abstratus
+Cruxtruder
+Punch designix
+Totem Lathe
+Alchemiter
+Cookalyzer
+GristWidget 12000
+Not Alchemizable
+Not Available
+Free!
+STOP
+GO
+Select Grist Type
+Select Color
+Are you sure you want to continue?
+This will empty your sylladex.
+Empty Sylladex
+Auto-balance Active
+Auto-balance Inactive
+Quick Eject Active
+Quick Eject Inactive
+Choose Your Title
+%s is already used
+Claw Hammer
+An average hammer found in about any garage. It can also destroy blocks
+Sledgehammer
+A decently large, yet average, hammer. It can also destroy blocks
+Blacksmith's Hammer
+A strong hammer that would commonly be found in a blacksmiths. It can also break blocks
+Pogo Hammer
+A slimy hammer with the ability to bounce back your enemies. It can also break blocks
+Telescopic Sassacrusher
+OH ho! The perfect hammer for the dashing young gent who loves a pranksters gambit or a good grist horde!
+Regihammer
+Fear No Anvil
+What's to fear with this around? This uber hammer can break blocks and deal massive damage.
+Melt-Masher
+This hot-commodity of a hammer looks like it came fresh out of the furnace! Leaves foes with third-degree burns.

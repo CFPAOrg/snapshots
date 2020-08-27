@@ -1,0 +1,10 @@
+item.jcore.name
+item.violet_ingot.name
+item.charm_of_life.name
+item.charm_of_sacrifice.name
+item.charm_of_destruction.name
+item.charm_of_teleportation.name
+item.charm_of_cloaking.name
+item.charm_of_breath.name
+item.blank_charm.name
+item.charm_of_flight.name

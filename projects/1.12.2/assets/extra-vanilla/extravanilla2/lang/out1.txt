@@ -1,0 +1,126 @@
+Redstone Mud
+Glowstone Mud
+Ender Dust
+Ender Mud
+Glowstone Ingot
+Black Seeds
+Blue Seeds
+Light Blue Seeds
+Red Seeds
+Orange Seeds
+Yellow Seeds
+Lime Seeds
+Green Seeds
+Brown Seeds
+Cyan Seeds
+Purple Seeds
+Pink Seeds
+Magenta Seeds
+White Seeds
+Gray Seeds
+Silver Seeds
+Molten Iron
+Obsidian Dust
+Nether Dust
+Obsidian Ingot
+Obsidian Mud
+Molten Iron with Nether Dust
+Netherite Ingot
+TeleStick
+Advanced TeleStick
+Iron Cutter
+Stone Cutter
+Fried Egg
+Cooked Flesh
+Shield Handle
+Melon Juice
+Apple Juice
+Carrot Juice
+Cactus Fruit Juice
+Chocolate Milk
+Milk
+Pumpkin Soup
+Carrot Soup
+Cheese
+Cheese
+Ender Sword
+Big Ender Sword
+Ender Ingot
+Diamond Shears
+Golden Shears
+Emerald Shears
+Obsidian Shears
+Emerald Sword
+Emerald Axe
+Emerald Pickaxe
+Emerald Shovel
+Emerald Hoe
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Lapis Sword
+Lapis Axe
+Lapis Pickaxe
+Lapis Shovel
+Lapis Hoe
+Lapis Helmet
+Lapis Chestplate
+Lapis Leggings
+Lapis Boots
+Lapis Ingot
+Glowstone Sword
+Glowstone Axe
+Glowstone Pickaxe
+Glowstone Shovel
+Glowstone Hoe
+Glowstone Battleaxe
+Big Glowstone Sword
+Redstone Axe
+Redstone Sword
+Redstone Pickaxe
+Redstone Hoe
+Redstone Shovel
+Redstone Helmet
+Redstone Chestplate
+Redstone Leggings
+Redstone Boots
+Redstone Ingot
+Active Redstone Axe
+Active Redstone Sword
+Active Redstone Pickaxe
+Active Redstone Hoe
+Active Redstone Shovel
+Active Redstone Helmet
+Active Redstone Chestplate
+Active Redstone Leggings
+Active Redstone Boots
+Active Redstone Ingot
+Obsidian Axe
+Obsidian Sword
+Obsidian Pickaxe
+Obsidian Hoe
+Obsidian Shovel
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Netherite Axe
+Netherite Sword
+Netherite Pickaxe
+Netherite Hoe
+Netherite Shovel
+Netherite Helmet
+Netherite Chestplate
+Netherite Leggings
+Netherite Boots
+Nether Axe
+Nether Sword
+Nether Pickaxe
+Nether Hoe
+Nether Shovel
+Nether Helmet
+Nether Chestplate
+Nether Leggings
+Nether Boots
+Hardened Leather Cap

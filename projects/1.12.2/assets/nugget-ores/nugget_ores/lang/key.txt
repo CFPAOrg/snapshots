@@ -1,0 +1,10 @@
+item.coalnugget.name
+item.diamondnugget.name
+tile.diamondnuggetore.name
+tile.goldnuggetore2.name
+item.emeraldnugget.name
+tile.coalnuggetore.name
+tile.ironnuggetore.name
+tile.emeraldnuggetore.name
+itemGroup.tabnuggetorescreativetab
+itemGroup.tabnuggetorescreativetab2

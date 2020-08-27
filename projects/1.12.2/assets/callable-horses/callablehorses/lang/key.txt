@@ -1,0 +1,17 @@
+key.callablehorses.category
+key.sethorse.desc
+key.callhorse.desc
+key.showstats.desc
+callablehorses.error.dim
+callablehorses.error.riding
+callablehorses.error.nohorse
+callablehorses.error.notriding
+callablehorses.error.alreadyowned
+callablehorses.error.alreadypersonal
+callablehorses.error.area
+callablehorses.error.range
+callablehorses.error.setarea
+callablehorses.error.nospace
+callablehorses.success
+callablehorses.alert.death
+callablehorses.alert.offlinedeath

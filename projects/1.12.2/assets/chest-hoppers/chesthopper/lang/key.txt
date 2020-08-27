@@ -1,0 +1,8 @@
+itemGroup.chesthopper
+container.chest_hopper
+tile.chest_hopper.name
+tile.iron_chest_hopper.name
+tile.gold_chest_hopper.name
+tile.diamond_chest_hopper.name
+tile.copper_chest_hopper.name
+tile.silver_chest_hopper.name

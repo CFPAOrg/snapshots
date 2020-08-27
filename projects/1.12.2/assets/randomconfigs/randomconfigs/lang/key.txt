@@ -1,0 +1,3 @@
+commands.asreloadclient.usage
+commands.asreloadclient.failure
+commands.asreloadclient.success

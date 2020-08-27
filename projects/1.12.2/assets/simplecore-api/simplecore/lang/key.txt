@@ -1,0 +1,9 @@
+itemGroup.SimpleBlocks
+itemGroup.SimpleDecorations
+itemGroup.SimpleMaterials
+itemGroup.SimpleTools
+itemGroup.SimpleCombat
+itemGroup.SimpleMachines
+tile.test_furnace.name
+tile.lit_test_furnace.name
+container.test_furnace

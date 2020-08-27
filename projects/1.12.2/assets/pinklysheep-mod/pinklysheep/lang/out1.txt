@@ -1,0 +1,71 @@
+Wild Red Potato
+Wild Potato Tubers (Poison)
+Wild Blue Potato Tubers
+Wild Gold Potato Tubers
+Wild Red Potato Tubers
+Prepped Wild Potatoes
+Roasted Wild Potatoes
+Rainbow Seeds
+Plant in the middle of a 5x5 farming plot
+Rainbow Slice
+Rotting Molded Potatoes
+Stork Apple
+Use to transport non-hostile animals and villagers
+{SUMM}. To capture, sneak and right click on the target entity. You might have to first tame an animal before you can capture it.
+Stork Egg
+Witch's Stork Apple
+Wild Potatoes
+Beanstalk Eye
+Beanstalk Eye (Angry)
+Beanstalk Animal Feed Station
+Beanstalk Grow!
+Required fertilizer for normal beanstalk saplings
+Beanstalk Bark Lamp
+Hearty Harvester
+Beanstalk Heart Wood
+Beanstalk Heart Wood (Damaged)
+Beanstalk Heart Mulch
+Use to fertilize a STUNTED beanstalk sapling; see what 'pops' out!
+Beanstalk Core
+Beanstalk Young Core
+Beanstalk Heartworm
+Use to make reforging materials or to convert inchoate gold to living gold
+Beanstalk Leaves
+Bone Leech
+Dropped by beanstalk leaves. Use to create a bound talisman
+Beanstalk Wood
+Beanstalk Knot Wood
+Beanstalk Wood Planks
+Fire and spawn proof
+Beanstalk Pink Planks
+Fire and spawn proof
+Beanstalk Parquet Planks
+Fire and spawn proof
+Beanstalk Dark Wood Planks
+Fire and spawn proof
+Beanstalk Wood Bricks
+Fire and spawn proof
+Beanstalk Heart Wood Planks
+Fire proof
+Beanstalk Golden Wood Planks
+Fire proof
+Reforger's Sword Core
+Material used in some reforger specialty weapons
+Beanstalk Sapling
+Grows from a Lost Bean
+Beanstalk Wood Slab
+Beanstalk Pink Slab
+Beanstalk Parquet Slab
+Beanstalk Dark Wood Slab
+Beanstalk Wood Brick Slab
+Beanstalk Heart Wood Slab
+Beanstalk Golden Wood Slab
+Beanstalk Wood Stairs
+Beanstalk Parquet Stairs
+Beanstalk Pink Stairs
+Beanstalk Dark Wood Stairs
+Beanstalk Wood Brick Stairs
+Beanstalk Heart Wood Stairs
+Beanstalk Golden Wood Stairs
+Stunted Beanstalk Sapling
+Generated very rarely when you plant rainbow seeds on blessed earth

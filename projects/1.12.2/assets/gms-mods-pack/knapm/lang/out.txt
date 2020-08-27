@@ -1,0 +1,83 @@
+Cloth Gag
+Ropes
+Iron Knife
+Stone Knife
+Golden Knife
+Rope arrow
+Ballgag
+Ballgag with strap
+Panel Gag
+Latex Gag
+Wrap Gag
+Duct Tape
+Red Duct Tape
+Green Duct Tape
+Magenta Duct Tape
+Purple Duct Tape
+Pink Duct Tape
+Orange Duct Tape
+Yellow Duct Tape
+Lime Duct Tape
+Blue Duct Tape
+Light Blue Duct Tape
+Brown Duct Tape
+Black Duct Tape
+White Duct Tape
+Clear Duct Tape
+Caution Duct Tape
+Tape Gag
+Red Tape Gag
+Green Tape Gag
+Magenta Tape Gag
+Purple Tape Gag
+Pink Tape Gag
+Orange Tape Gag
+Yellow Tape Gag
+Lime Tape Gag
+Blue Tape Gag
+Light Blue Tape Gag
+Brown Tape Gag
+Black Tape Gag
+White Tape Gag
+Clear Tape Gag
+Clear Tape Gag (stuffed) 
+Caution Tape Gag
+Wrap
+Straitjacket
+Latex Sack
+Ropes trap
+Padded Block
+Padded Pane
+Padded Cell Door
+/untie <player>
+/restrain <player>
+/fullyrestrain <player>
+/gag <player>
+/ungag <player>
+/kidnapset <player>
+/spawnkidnapper <player>
+/enslave <player>
+/me <action>
+/pm <message>
+/talkarea <value>
+/bounty <player>
+Use to keep someone from talking
+Use to restrain someone
+Use to escape from ropes (%f%% success)
+Ties up the player target on hit (80% success)
+A trap to restrain someone when walks on it!
+A padded pane which could be open / close
+Kidnapping tools
+Kidnapper
+(Do not Spawn)
+Bounties
+Delete bounty
+There are no bounties for now
+Client : %s
+Target : %s
+Reward : %s
+Time : %s hours and %s minutes
+Struggle
+Tighten binds of slaves
+Bounties list
+Kidnap Mod

@@ -1,0 +1,5 @@
+item.ghast_leather.name
+item.ghast_helmet.name
+item.ghast_chestplate.name
+item.ghast_leggings.name
+item.ghast_boots.name

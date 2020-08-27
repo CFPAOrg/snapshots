@@ -1,0 +1,38 @@
+Pedestal Crafting
+Item Display Speed
+The speed at which items rotate, rise and fall on the pedestals - rotations/sec
+Pedestal
+Pedestal
+Diamond Pedestal
+Emerald Pedestal
+Glowstone Pedestal
+Gold Pedestal
+Grass Pedestal
+Iron Pedestal
+Lapis Pedestal
+Acacia Wood Pedestal
+Dark Oak Wood Pedestal
+Birch Wood Pedestal
+Jungle Wood Pedestal
+Oak Wood Pedestal
+Spruce Wood Pedestal
+Obsidian Pedestal
+Quartz Pedestal
+Sandstone Pedestal
+Pedestal Core
+Diamond Pedestal Core
+Emerald Pedestal Core
+Glowstone Pedestal Core
+Gold Pedestal Core
+Grass Pedestal Core
+Iron Pedestal Core
+Lapis Pedestal Core
+Acacia Wood Pedestal Core
+Dark Oak Wood Pedestal Core
+Birch Wood Pedestal Core
+Jungle Wood Pedestal Core
+Oak Wood Pedestal Core
+Spruce Wood Pedestal Core
+Obsidian Pedestal Core
+Quartz Pedestal Core
+Sandstone Pedestal Core

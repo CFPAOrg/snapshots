@@ -1,0 +1,12 @@
+death.attack.helmet
+d3.minesafety.config.title
+d3.minesafety.config.yLevel
+d3.minesafety.config.yLevel.tooltip
+d3.minesafety.config.chance
+d3.minesafety.config.chance.tooltip
+d3.minesafety.config.timeout
+d3.minesafety.config.timeout.tooltip
+d3.minesafety.config.message
+d3.minesafety.config.message.tooltip
+d3.minesafety.config.dimlist
+item.depth_gauge.name

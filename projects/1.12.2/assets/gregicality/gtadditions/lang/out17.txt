@@ -1,0 +1,159 @@
+It's the upgraded version of The Primitive Blast Furnace.
+Wooden Barrel
+Bronze Drum
+Steel Drum
+Stainless Steel Drum
+Titanium Drum
+Tungstensteel Drum
+Wooden Crate
+Bronze Crate
+Steel Crate
+Stainless Steel Crate
+Titanium Crate
+Tungstensteel Crate
+Water
+Lava
+Assembler IV
+Autoclave IV
+Laser Engraver IV
+Lignite Comb
+Coal Comb
+Sticky Comb
+Oil Comb
+Stone Comb
+Certus Comb
+Redstone Comb
+Lapis Comb
+Ruby Comb
+Sapphire Comb
+Diamond Comb
+Olivine Comb
+Emerald Comb
+Slag Comb
+Coppon Comb
+Tine Comb
+Plumbia Comb
+Ferru Comb
+Steeldust Comb
+Nickeldust Comb
+Galvania Comb
+Argentia Comb
+Aurelia Comb
+Bauxia Comb
+Pyrolusium Comb
+Titanium Comb
+Chromium Comb
+Scheelinium Comb
+Platina Comb
+Quantaria Comb
+Urania Comb
+Plutonium Comb
+Stargatium Comb
+Slime
+Lignite
+Rubbery
+Coal
+Oil
+Redstone
+Lapis
+Certus
+Ruby
+Sapphire
+Diamond
+Olivine
+Emerald
+Copper
+Tin
+Lead
+Iron
+Steel
+Nickel
+Zinc
+Silver
+Gold
+Aluminium
+Titanium
+Chrome
+Manganese
+Tungsten
+Platinum
+Iridium
+Uranium
+Plutonium
+Naquadah
+Aluminium
+Chrome
+Iridium
+Manganese
+Molybdenum
+Neodymium
+Darmstadtium
+Osmium
+Palladium
+Thorium
+Titanium
+Tungsten
+Uranium
+Uranium-235
+Brass
+Invar
+Magnalium
+Stainless Steel
+Ultimet
+Wrought Iron
+Osmiridium
+Sterling Siver
+Rose Gold
+Black Bronze
+Bismuth Bronze
+Black Steel
+Red Steel
+Blue Steel
+Damascus Steel
+Tungstensteel
+Cobalt Brass
+Tungsten Carbide
+Vanadiumsteel
+HSS-G
+HSS-E
+HSS-S
+Naquadah
+Naquadah Alloy
+Enriched Naquadah
+Tritanium
+Duranium
+Neutronium
+Blue Topaz
+Diamond
+Emerald
+Green Sapphire
+Ruby
+Sapphire
+Tanzanite
+Topaz
+Olivine
+Opal
+Amethyst
+Red Garnet
+Yellow Garnet
+Vinteum
+Xenon
+Krypton
+Neon
+Zirconium
+Cubic Zirconia
+Prasiolite
+Magneto Resonatic
+Dibismuthhydroborat
+Bismuth Tellurite
+Circuit Compound MK3
+Yttrium Oxide
+Enderium
+Calcium Tungstate
+Sodium Tungstate
+Tungstic Acid
+Tungsten Trioxide
+Tungsten Hexachloride
+GTEU Energy Converter (ULV)
+GTEU Energy Converter (ULV)
+GTEU Energy Converter (ULV)

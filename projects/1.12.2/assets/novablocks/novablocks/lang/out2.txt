@@ -1,0 +1,96 @@
+Andesite slope
+Polished andesite slope
+Granite slope
+Polished granite slope
+Diorite slope
+Polished diorite slope 
+Gravel slope
+Sand slope
+Red sand slope
+Sandstone slope
+Cut sandstone slope
+Chiseled sandstone slope
+Red sandstone slope
+Red cut sandstone slope
+Red chiseled sandstone slope
+Mossy cobblestone slope
+Obsidian slope
+Snow slope
+Clay slope
+Netherrack slope
+Soulsand slope
+Nether brick slope
+Red nether brick slope
+Endstone slope
+End brick slope
+Prismarine slope
+Prismarine brick slope
+Dark prismarine slope
+Bone slope
+Nether wart slope 
+Hay slope
+Coarse dirt half slope
+Andesite half slope
+Polished andesite half slope
+Granite half slope
+Polished granite half slope
+Diorite half slope
+Polished diorite half slope 
+Gravel half slope
+Sand half slope
+Red sand half slope
+Sandstone half slope
+Cut sandstone half slope
+Chiseled sandstone half slope
+Red sandstone half slope
+Red cut sandstone half slope
+Red chiseled sandstone half slope
+Mossy cobblestone half slope
+Obsidian half slope
+Snow half slope
+Clay half slope
+Netherrack half slope
+Soulsand half slope
+Nether brick half slope
+Red nether brick half slope
+Endstone half slope
+End brick half slope
+Prismarine half slope
+Prismarine brick half slope
+Dark prismarine half slope
+Bone half slope
+Nether wart half slope 
+Hay half slope
+Red metal half slope
+Rusty metal half slope
+Red metal slope
+Rusty metal slope
+Modern full door
+Iron beam
+Copper beam
+Steel beam
+Aluminium beam
+Hazard beam
+Oak structure
+Birch structure
+Spruce structure
+Jungle structure
+Dark oak structure
+Acacia structure
+Red metal beam
+Rusty metal beam
+Hazard block
+Red metal block
+Rusty metal block
+Red metal platform
+White concrete slope
+Orange concrete slope
+Magenta concrete slope
+Light blue concrete slope
+Yellow concrete slope
+Lime concrete slope
+Pink concrete slope
+Gray concrete slope
+Light gray concrete slope
+Cyan concrete slope
+Purple concrete slope

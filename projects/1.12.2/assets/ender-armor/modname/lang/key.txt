@@ -1,0 +1,14 @@
+item.enderarmorhelmet.name
+item.enderaboots.name
+item.enderarmorlegs.name
+item.enderarmorbody.name
+item.enderingot.name
+item.enderarmorboots.name
+item.enderahelmet.name
+tile.Enderore.name
+item.endersworde.name
+tile.enderblock.name
+tile.enderore.name
+itemGroup.tabendertab
+item.enderalegs.name
+item.enderabody.name

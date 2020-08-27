@@ -1,0 +1,46 @@
+Chess
+Type
+Color
+Max
+King
+Queen
+Rook
+Knight
+Bishop
+Pawn
+White
+Black
+White king
+White queen
+White rook
+White knight
+White bishop
+White pawn
+Black king
+Black queen
+Black rook
+Black knight
+Black bishop
+Black pawn
+Chess timer
+King
+Queen
+Rook
+Knight
+Bishop
+Pawn
+Pawn Frenzy
+Bishop Frenzy
+Knight Frenzy
+Rook Frenzy
+Queen Frenzy
+Knight
+Started ritual
+Cancelled %s rituals
+No ritual found for that pattern.
+The correct blocks are not used for that ritual.
+That ritual can not be used oriented in that way.
+Found multiple kings in the ritual.
+A king was not found for the ritual.
+The king was destroyed. The ritual has been cancelled.
+A special block was broken, which canceled the ritual.

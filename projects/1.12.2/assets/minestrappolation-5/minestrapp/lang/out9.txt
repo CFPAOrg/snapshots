@@ -1,0 +1,126 @@
+Irradium
+Copper Nugget
+Tin Nugget
+Bronze Nugget
+Steel Nugget
+Torite Nugget
+Glacierite Nugget
+Blazium Nugget
+Archantine Nugget
+Dimensium Nugget
+Adamantium Nugget
+Copper Ingot
+Tin Ingot
+Bronze Ingot
+Steel Ingot
+Torite Ingot
+Archantine Ingot
+Glacierite Ingot
+Blazium Ingot
+Dimensium Ingot
+Adamantium Ingot
+Salt
+Sunstone Shard
+Desert Quartz
+Rock Crystal
+Irradiant Quartz
+Meurodite
+Blaze Shard
+Glacieric Ice Shard
+Soul Gem
+Plant Fibers
+Mana Leaf
+Clutchthorn Fibers
+Clutchthorn Petal
+Coconut Shell
+Sawdust
+Tree Bark
+Glowing White Dye
+Glowing Magenta Dye
+Glowing Red Dye
+Glowing Orange Dye
+Glowing Gold Dye
+Glowing Green Dye
+Glowing Cyan Dye
+Glowing Blue Dye
+Glowing Purple Dye
+Animal Bones
+Tallow
+Wing Sinew
+Horse Hide
+Pig Skin
+Wolf Hide
+Polar Bear Pelt
+Sheep Hoof
+Spider Leg
+Mooshroom Hide
+Creeper Carapace
+Ghast Hide
+Skeletal Hand
+Reanimated Arm
+Effervexcense
+Cured Rabbit Hide
+Cured Cow Hide
+Cured Horse Hide
+Cured Pig Skin
+Cured Wolf Hide
+Cured Flesh
+Cured Rotten Flesh
+Poorly Scudded Hide
+Small Scudded Hide
+Scudded Hide
+Large Scudded Hide
+Botched Leather
+Suede
+Leather
+Fine Leather
+Cured Polar Bear Pelt
+Cured Mooshroom Hide
+Cured Ghast Hide
+Mana-Cured Polar Bear Pelt
+Mana-Cured Mooshroom Hide
+Mana-Cured Creeper Carapace
+Mana-Cured Ghast Hide
+Mystic Scudded Hide
+Legendary Scudded Hide
+Mystic Leather
+Legendary Leather
+Poor Tannic
+Tannic
+Fine Tannic
+Tanning Solvent
+Mud Brick
+Portar
+Tin Plating
+Bronze Plating
+Steel Plating
+Meurodite Plating
+Copper Plating
+Gold Plating
+Iron Plating
+Torite Plating
+Glacierite Plating
+Blazium Plating
+Diamond Plating
+Archantine Plating
+Dimensium Plating
+Reinforced Stick
+Wing Segment
+Propeller
+Inert Chip
+Technological Doodad
+Advanced Tech Doodad
+Magnet
+Fiberous Mesh
+Red Axial Anchor
+Green Axial Anchor
+Blue Axial Anchor
+Dimensium Glider Frame
+Heart Piece
+Heart Container
+Glow Paste
+'Health Crystal'
+Redwood Boat
+Frozen Oak Boat
+Charwood Boat
+Palm Boat

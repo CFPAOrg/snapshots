@@ -1,0 +1,63 @@
+Magical Psi
+&7Hold &bSHIFT&7 for more info
+&aComponent Type&7: %s
+(none)
+Stats
+Notching
+Magical Psi Master Keybind
+&dSpell Selected&7: %s
+Name:
+Inscription Successful
+Inscription Errored
+Your Rod's Stats are too weak to cast this Spell.
+Constant
+Next Page
+Previous Page
+Config
+It seems like someone else is using this. Probably better not to mess with it. 
+You have no idea how to operate this.
+Level %d
+Level %d - Level Points: %d
+Level %d (Creative) - Level Points: %d
+Locked
+Requirements
+Learn
+Level Up
+Psi Beta | Not final!
+&bType&7: %s
+&bCost Multiplier&7: %s%%
+You got 1 Level Point
+Unequip your Rod and press [%s] to use it!
+Import from Clipboard
+Export to Clipboard
+(Must be holding SHIFT)
+Import error: Malformed String: %s
+Import error: Missing spell runes used for import.
+Load?
+[Spectator Mode]
+The other Rod in your inventory is interfering with your cast. You can only have one Rod on you at a time.
+&7Addon: &9%s
+^Trick: (.+)$
+&eInscriber Help
+Ctrl
+Cmd
+Press Enter to commit
+Use ; to change line
+Selected: [%d, %d] | Cursor: [%d, %d]
+Selected: [%d, %d]
+You have reached level 25. While there are more levels to earn and more runes to unlock, this is the last level in which you will receive more Psi energy, so your Psi energy will be left at a maximum of 5000 from now on, instead of continuing to expand.
+Spell stored
+Rod assembled
+Rod casts
+Rod loopcasts
+Seems like Psi is outdated. What a shame.
+Are you Psiched to update Psi?
+Psi is outdated. You expected a funny message but it's just outdated, sorry :(
+You can download the new Psi update from the servers at Magic High School.
+Psi is outdated. On the flip pside, you can update it.
+Only Weeds leave Psi outdated.
+Don't be a Psicho, update Psi.
+Psi is up to date. Psiche! I fooled you.
+You should update Psi, get it from the webpsite.
+Don't confuse yourself like a Psiduck, update Psi.
+You are running Psi build %s, the latest is build %s.

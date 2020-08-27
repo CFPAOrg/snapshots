@@ -1,0 +1,85 @@
+Production Rate:
+Fission Fuel Cell
+Cluster Heat Level:
+Molten Salt Reactor
+Mean Heating Speed:
+Fission Fuel Vessel
+Cluster Heat Level:
+Fission Coolant Heater
+Cluster Heat Level:
+Fusion Reactor
+Ring Incomplete
+Ring Incomplete
+Ring Interior Blocked
+E-magnets not Powered
+Invalid Structure
+No Problem
+Toroid Size:
+Energy:
+Power:
+Temp:
+Temperature:
+Temperature Change:
+Active Cooling Rate:
+Efficiency:
+Current Fuels:
+Empty
+Unable to access the fusion reactor - the structure is incomplete
+Heat Exchanger (WIP)
+Number of Tubes:
+Mean Efficiency:
+Max Mean Efficiency:
+Tubes Active:
+Turbine
+Power Output:
+Dynamo Efficiency:
+Coil Counts:
+Expansion:
+Rotor Efficiency:
+Input Rate:
+Rate Power Bonus:
+Energy Stored:
+Process Power:
+Power Gen:
+Speed Multiplier:
+Power Multiplier:
+Does not require energy!
+Shift Click to clear tank
+Shift Click to clear filter
+Prevent Input Overflow
+Void Leftover Fluid
+Void Output Overflow
+Efficiency/Heat Comparator
+Side Configuration
+Redstone Control
+Input Slot Configuration
+Input Tank Configuration
+Output Slot Configuration
+Output Tank Configuration
+Upgrade Slot Configuration
+Slot Setting:
+Tank Setting:
+DEFAULT
+VOID EXCESS
+VOID ALL
+BOTTOM:
+TOP:
+LEFT:
+RIGHT:
+FRONT:
+BACK:
+INPUT
+OUTPUT
+BOTH
+DISABLED
+Shift click to clear out ALL components' items and fluids
+%4$s is not a valid block at [%1$d, %2$d, %3$d]
+There must be a controller for the multiblock to form
+There must only be one controller for the multiblock to form
+This is not a solid fuel reactor - there must be no cells for it to form!
+This is not a solid fuel reactor - there must be no sinks for it to form!
+This is not a molten salt reactor - there must be no vessels it to form!
+This is not a molten salt reactor - there must be no heaters it to form!
+Has no target!
+Targeting %4$s at [%1$d, %2$d, %3$d]
+This is not a heat exchanger; there must be no exchanger tubes it to form

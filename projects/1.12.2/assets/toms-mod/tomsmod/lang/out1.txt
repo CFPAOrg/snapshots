@@ -1,0 +1,96 @@
+Elite Extruder Module
+Ultimate Extruder Module
+Raw Mercury
+Bauxite Dust
+Mercury Crystal
+Upgrade Frame
+Mortar and Pestle
+Stone Bowl
+Netherrack Dust
+Bottle of Resin
+Tree Tap
+Bronze Wire Cutters
+Steel Wire Cutters
+Quartz Wire Cutters
+Titanium Wire Cutters
+Advanced Alloy Wire Cutters MK1
+Advanced Alloy Wire Cutters MK2
+Enderium Wire Cutters
+Aluminum Wire Cutters
+Refined Clay
+Refined Brick
+Flint Hammer Head
+Basic Circuit
+Normal Circuit
+Advanced Circuit
+Elite Circuit
+Basic Circuit Components
+Normal Circuit Components
+Advanced Circuit Components
+Elite Circuit Components
+Basic Circuit Plate
+Advanced Circuit Plate
+Bronze Pipe
+Coal Coke
+Soldering Alloy Ingot
+Raw Silicon
+Silicon
+Silicon Plate
+Rubber
+Glass Dust
+Glass Fiber
+Glass Mesh
+Raw Circuit Board
+Iron Wire Cutters
+Tungsten Plate
+Tungsten Dust
+Tiny Pile of Tungsten Dust
+Tungsten Ingot
+Tungsten Nugget
+Tungsten Crystal
+Crushed Tungstate Ore
+Crushed End Tungstate Ore
+Tungstate Shard
+Tungstate Clump
+Tungsten Research Component
+Tungstensteel Wire Cutters
+Wolframium Hammer
+Wolframium Grinder
+Tungstate Dust
+Hot Tungstensteel Ingot
+Hot Tungsten Ingot
+Tungsten Wire Coil
+Tungsten Wire
+Tungstensteel Plate
+Tungstensteel Ingot
+Tungstensteel Dust
+Tiny Pile of Tungstensteel Dust
+Tungstensteel Hammer
+Tungstensteel Nugget
+Tungstensteel Research Component
+Enderium Base Dust
+Cupronickel Ingot
+Cupronickel Heating Coil
+Tin Turbine
+Generator
+Solar Panel Component MK1
+Steel Pipe
+Electric Motor
+Plastic Sheet
+Crushed Monazit Ore
+Crushed End Monazit Ore
+Basic Card
+Raw Basic Circuit Plate
+Raw Normal Circuit Plate
+Raw Advanced Circuit Plate
+Raw Elite Circuit Plate
+Unassembled Basic Circuit Plate
+Unassembled Normal Circuit Plate
+Unassembled Advanced Circuit Plate
+Unassembled Elite Circuit Plate
+Circuit Drawing Pen (Filled)
+Empty Blueprint
+Empty Big Blueprint
+Basic Circuit Blueprint
+Normal Circuit Blueprint
+Advanced Circuit Blueprint

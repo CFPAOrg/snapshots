@@ -1,0 +1,85 @@
+Dark Oak Roof Inner
+Dark Oak Roof Lower
+Dark Oak Roof Steep
+Dark Oak Roof Straight
+Acacia Roof Top
+Acacia Roof
+Acacia Roof Outer
+Acacia Roof Inner
+Acacia Roof Lower
+Acacia Roof Steep
+Acacia Roof Straight
+Oak Planks Roof Top
+Oak Planks Roof
+Oak Planks Roof Outer
+Oak Planks Roof Inner
+Oak Planks Roof Lower
+Oak Planks Roof Steep
+Oak Planks Roof Straight
+Spruce Planks Roof Top
+Spruce Planks Roof
+Spruce Planks Roof Outer
+Spruce Planks Roof Inner
+Spruce Planks Roof Lower
+Spruce Planks Roof Steep
+Spruce Planks Roof Straight
+Birch Planks Roof Top
+Birch Planks Roof
+Birch Planks Roof Outer
+Birch Planks Roof Inner
+Birch Planks Roof Lower
+Birch Planks Roof Steep
+Birch Planks Roof Straight
+Jungle Planks Roof Top
+Jungle Planks Roof
+Jungle Planks Roof Outer
+Jungle Planks Roof Inner
+Jungle Planks Roof Lower
+Jungle Planks Roof Steep
+Jungle Planks Roof Straight
+Dark Oak Planks Roof Top
+Dark Oak Planks Roof
+Dark Oak Planks Roof Outer
+Dark Oak Planks Roof Inner
+Dark Oak Planks Roof Lower
+Dark Oak Planks Roof Steep
+Dark Oak Planks Roof Straight
+Acacia Planks Roof Top
+Acacia Planks Roof
+Acacia Planks Roof Outer
+Acacia Planks Roof Inner
+Acacia Planks Roof Lower
+Acacia Planks Roof Steep
+Acacia Planks Roof Straight
+Oak Attic Window
+Spruce Attic Window
+Birch Attic Window
+Jungle Attic Window
+Acacia Attic Window
+Dark Oak Attic Window
+Gutter Base Corner
+Gutter Black Corner
+Gutter Gray Corner
+Gutter Light Gray Corner
+Gutter White Corner
+Steep Base Corner
+Steep White Corner
+Steep Light Gray Corner
+Steep Gray Corner
+Steep Black Corner
+Steep Acacia Plank Corner
+Steep Acacia Corner
+Steep Birch Plank Corner
+Steep Birch Corner
+Steep Dark Oak Plank Corner
+Steep Dark Oak Corner
+Steep Jungle Plank Corner
+Steep Jungle Corner
+Steep Oak Plank Corner
+Steep Oak Corner
+Steep Spruce Plank Corner
+Steep Spruce Corner
+Black Striped Awning
+Blue Striped Awning
+Brown Striped Awning
+Cyan Striped Awning

@@ -1,0 +1,12 @@
+The void scythe, as well as the taum-scythe, cuts down the leaves in a wide area, but in a larger radius - 7x7x5 and like all objects made of void metal gradually self-repairing. Deals 10 damage per attack.
+A Shaded scythe, as well as a taum-scythe, cuts down leaves in a wide area, but in a larger radius - 9x7x9 and like all objects made of shaded metal allows you to cut faster and gradually self-repair at nighttime. Deals 11 damage per attack.
+A Light scythe, as well as a taum-scythe, cuts down leaves in a wide area, but in a larger radius - 9x7x9 and like all objects made of light metal allows you to cut faster and gradually self-repair at daytime. Deals 11 damage per attack.
+Scythe of Death
+Placeholder start research
+Placeholde finish research
+Garment of Death
+Placeholder start research
+Placeholde finish research
+Jewellery
+Once you accidentally spilled some of the essence on the stone and he... Filled with it. Having studied its properties, you thought that why not try it with other stones and essences?
+Definitely, the result is interesting. But for a stable effect, you need a table and tools. By creating tools for cutting stones and putting them on the table, you can create sharp magic stones. To do this, you need the essence and the stone itself. But there is one thing - the essence in its usual sense is not suitable for these purposes. A substance disintegrator built into the table allows you to direct the essence directly to the stone. <BR>You can fill the following types of stones: Quartz - 50 units, Amber - 40 units, Lapis - 35 units, Diamond - 25 units and Emerald - 20 units. The stone has an instant effect, but it only lasts for one application, after which it collapses.<BR> Effects of stones: Perditio - Gives a "death look" for 3 minutes; Ordo - Removes negative effects; Terra - Gives "Resistance Damage"; Aqua - Freezes water into ice and turns lava into obsidian in a 5x5x5 area; Ignis - gives "Fire Resistance" for 5 minutes; Aer - Gives "Speed 2" and "Jumping 2" for 3 minutes.<PAGE><IMG>tg:textures/gui/research/recipe_cutting_table.png:0:0:195:149:1</IMG>

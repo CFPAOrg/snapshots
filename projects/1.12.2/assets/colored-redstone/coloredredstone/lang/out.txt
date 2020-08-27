@@ -1,0 +1,10 @@
+Redstone comparator can be recolored to any other color by using redstone comparator and dye in crafting table or in-world without breaking actual block.
+Redstone lamp can be recolored to any other color by using redstone lamp and dye in crafting table or in-world without breaking actual block.
+Recoloring using crafting table or in-world requires 1 dye item.
+Recoloring using crafting table requires 8 dye items and in-world recoloring requires 9 dye items of the same color.
+Recoloring using crafting table or in-world requires 1 dye item.
+Recoloring using crafting table or in-world requires 3 dye items of the same color.
+Recoloring using crafting table or in-world requires 3 dye items of the same color.
+Recoloring using crafting table or in-world requires 4 dye items of the same color.
+To apply new color to the block using in-world mechanic simply right click the block with the desire dye.
+To apply new color to the block using in-world mechanic simply shift + right click the block with the desire dye.

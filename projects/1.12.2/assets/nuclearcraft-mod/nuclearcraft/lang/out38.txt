@@ -1,0 +1,27 @@
+Block Stack Radiation
+List of blocks and their radiation levels. Can be used to overwrite default values. Format: 'modid:name:meta_radiationLevel'.
+Fluid Stack Radiation
+List of fluids and their radiation levels. Can be used to overwrite default values. If the fluid has a corresponding block, then it will also be given a radiation level. Format: 'fluidName_radiationLevel'.
+Food Radiation and Resistance
+List of foods and the rads and rad resistance gained on consumption. Negative values mean rads and rad resistance will be lost. Can be used to overwrite default values. Format: 'modid:name:meta_radiationLevel_radiationResistance'.
+Ore Stack Radiation Blacklist
+List of ore dict entries that will be forced not have a radiation level. Format: 'oreName'.
+Item Stack Radiation Blacklist
+List of items that will be forced not have a radiation level. Format: 'modid:name:meta'.
+Block Stack Radiation Blacklist
+List of blocks that will be forced not have a radiation level. Format: 'modid:name:meta'.
+Fluid Radiation Blacklist
+List of fluids that will be forced not have a radiation level. Format: 'fluidName'.
+Max Player Rads
+The maximum number of rads a player can have before the radiation is fatal.
+Player Radiation Decay Rate
+The rate at which player radiation decreases over time, as a fraction of the player's current radiation level per tick.
+Entity Radiation Decay Rate
+The rate at which entity radiation decreases over time, as a fraction of the entity's current radiation level per tick.
+Chunk Radiation Spread Rate
+Controls the rate at which radiation will spread from chunk to chunk.
+Chunk Radiation Spread Gradient
+Controls how high the ratio of radiation levels between chunks must be for radiation to spread between them.
+Chunk Radiation Decay Rate
+Controls the rate at which radiation decreases in a chunk over time.
+Lowest Radiation Rate

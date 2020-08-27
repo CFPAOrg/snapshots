@@ -1,0 +1,20 @@
+Small Animal Net
+Medium Animal Net
+Big Animal Net
+Small Mob Net
+Big Mob Net
+Caught Animal/Mob
+Mob Core
+NPC Net
+Spawner Fragmental
+AnimalNet Items
+You need a bigger net!
+This entity can not be caught!
+%s is too big and can not be caught!
+You need an animal net to catch normal animals!
+You need a mob net to catch mobs!
+You need a npc net to catch npcs!
+You need a npc net to catch villager!
+This mob
+This animal
+This npc

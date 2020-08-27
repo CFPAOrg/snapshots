@@ -1,0 +1,13 @@
+item.iron_hook.name
+item.excluder.name
+tile.accelerate_torch.name
+tile.rose.name
+tile.furnace_iron.name
+tile.furnace_gold.name
+tile.furnace_diamond.name
+tile.furnace_hell.name
+itemGroup.tweakscraft
+message.speed_changed
+message.mode_changed
+message.stopped
+gui.excluder.title

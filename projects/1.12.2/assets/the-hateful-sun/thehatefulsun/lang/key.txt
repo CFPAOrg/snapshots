@@ -1,0 +1,3 @@
+death.attack.sunlight
+death.attack.sunlight
+entity.thehatefulsun.amalgamation

@@ -1,0 +1,16 @@
+item.netheritepickaxe.name
+tile.blockofnetherite.name
+item.netheritearmorhelmet.name
+itemGroup.tabnetheriteold
+item.netheritearmorbody.name
+item.netheritearmorboots.name
+item.netheritesword.name
+tile.smithingtable.name
+item.netheriteingot.name
+item.netheriteshovel.name
+item.netheriteaxe.name
+item.netheritearmorlegs.name
+item.netheritehoe.name
+tile.nethergoldore.name
+item.netheritescrap.name
+tile.ancientdebris.name

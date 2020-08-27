@@ -1,0 +1,111 @@
+Mossy Stone
+Overgrown Cave Block
+Icy Cave Block
+Cryolite Ore
+Blue Ice
+Purple Ice
+Emerald Cave Block
+Carpeted Sickly Mossy Stone
+Sickly Mossy Stone
+Sickly Cave Block
+Fruit-Bearing Sickly Mossy Stone
+Depleted Edenite Ore
+Mycelium Stone
+Mycelium Cave Block
+Silverfish Cave Block
+Gravel Cave Block
+Copper Scaffolding
+Iron Scaffolding
+Glowshroom
+Large Glowshroom
+Large Mushroom
+Large Mushroom
+Large Stalagmite
+Large Stalagmite
+Large Stalagmite
+Large Stalagmite
+Large Stalactite
+Large Stalactite
+Large Stalactite
+Large Stalactite
+Stalagmite
+Stalagmite
+Stalagmite
+Stalagmite
+Stalactite
+Stalactite
+Stalactite
+Stalactite
+Stalactite Block
+Small Stalactite Block
+Purple Icicle
+Blue Icicle
+Smooth Andesite Stairs
+Smooth Diorite Stairs
+Smooth Granite Stairs
+Andesite Bricks Stairs
+Diorite Bricks Stairs
+Granite Bricks Stairs
+Charged
+Potion of Energy
+Splash Potion of Energy
+Lingering Potion of Energy
+Arrow of Energy
+Drained
+Potion of Fatigue
+Splash Potion of Fatigue
+Lingering Potion of Fatigue
+Arrow of Fatigue
+Fortitude
+Potion of Fortitude
+Splash Potion of Fortitude
+Lingering Potion of Fortitude
+Arrow of Fortitude
+Starstruck
+Potion of Dazing
+Splash Potion of Dazing
+Lingering Potion of Dazing
+Arrow of Dazing
+Nether Quartz Ore
+Nether Hellfire Ore
+Block of Hellfire
+Ice Machine
+Ice Machine
+Ice Machine
+Ice Machine
+Ice Machine
+Block of Depleted Edenite
+Edenite Grower
+Chandelier Plant
+Wilting Chandelier Plant
+Gelon
+Gelon
+Slime Stew
+Sporing Mycelium Stone
+Sickly Mossy Cobblestone
+Sandstone Cave Block
+Bone Fossil Ore
+Shell Fossil Ore
+Coal Ore
+Iron Ore
+Gold Ore
+Diamond Ore
+Emerald Ore
+Redstone Ore
+Lapis Lazuli Ore
+Sulphur Ore
+Stalactite
+Stalagmite
+Large Stalactite
+Large Stalagmite
+Crying Obsidian
+Respawn Anchor
+Block of Depleted Cryolite
+Depleted Cryolite
+Sporing Mycelium
+Depleted Cryolite Ore
+Stone
+Stone
+Large Mushroom Spawning Block
+Large Mushroom Spawning Block
+Nether Sulphur Ore

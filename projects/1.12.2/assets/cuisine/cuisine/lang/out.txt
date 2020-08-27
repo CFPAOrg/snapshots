@@ -1,0 +1,28 @@
+Discord
+Thanks for playing Cuisine!\n\nTo start, garther all kinds of raw food materials, and build yourself some basic processing devices.\n\nInstall Patchouli mod to unlock detailed information in this manual. We recommened to install JEI for recipes lookup.\n\nJoin our Discord to catch up latest news!
+Edit food name
+This dish is too heavy for you to stiring
+You can't add more ingredients
+Basin - Squeezing
+Basin - Throwing
+Basin - Heating
+Firepit - Fuels
+Burn Heat: %d
+Burn Level: %d
+Culinary 101
+$(br)$(br)The Comprehensive Guide on Mastering Culinary Art
+Special Item:
+Container:
+Vege Juice: §2%s
+Fruit Juice: §4%s
+[Parse Error]
+Expertise
+Proficiency
+Culinary Level Up!
+New skill get!
+%s up to %d!
+My lover is this country.
+Prepare for your five-color cards yet?
+/culinaryskill <Player> get <SkillPoint> or /culinaryskill <Player> set <SkillPoint> <value>
+Water
+Milk

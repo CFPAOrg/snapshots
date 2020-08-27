@@ -1,0 +1,60 @@
+WallpaperCraft
+WallpaperCraft color scrolling
+§aHold the §f[
+] §akey and scroll the mouse
+§awheel to change the shade of the color
+§aUsed as alternative for expensive vanilla dyes
+§5Use scrolling to get this wood type
+Compatibility related settings
+Crafting related settings
+Debugging related settings
+Enable tooltip hints
+Enable tooltip hints for mod blocks
+Enable Chisel compatibility
+Enable this to initialize Chisel compatibility
+Register vanilla blocks to OreDictionary
+Enable this to register vanilla wool and wood planks to OreDictionary, if they aren't already registered to it
+Enable Forestry wood planks scrolling
+Enable this to make Forestry wood planks scrollable
+Max Colored Paste uses
+Determines how many times a piece colored paste can be used before it disappears
+Max pattern presses uses
+Determines how many times a pattern press can be used before it breaks. Set to '0' to disable durability
+Logging level
+0 - disable logging; 1 - 'debug' level; 2 - 'verbose' level
+Redirect debug to latest.log file
+Enable this to make all mod logs go to 'latest.log' file instead of 'debug.log'
+Red colored paste
+Yellow colored paste
+Green colored paste
+Cyan colored paste
+Blue colored paste
+Purple colored paste
+Brown colored paste
+Gray colored paste
+Blank Pattern Press
+Solid Pattern Press
+Bricks Pattern Press
+Wool Pattern Press
+Checkered Pattern Press
+Clay Pattern Press
+Diagonally Dotted Pattern Press
+Dotted Pattern Press
+Floral Pattern Press
+Striped Pattern Press
+Frosted Glass Pattern Press
+Textured Glass Pattern Press
+Tinted Glass Pattern Press
+Stone Bricks Pattern Press
+Rippled Pattern Press
+Stamp Pattern Press
+Stone Lamp Pattern Press
+Damask Pattern Press
+Jewel Pattern Press
+Aura Lamp Pattern Press
+Fancy Tiles Pattern Press
+Colored Bricks Pattern Press
+Wood Planks Pattern Press
+Grass Cloth Pattern Press
+Honeycomb Pattern Press
+Leafy Pattern Press

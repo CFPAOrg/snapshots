@@ -1,0 +1,16 @@
+item.cosmeticbeds.cosmetic_bed.white.name
+item.cosmeticbeds.cosmetic_bed.orange.name
+item.cosmeticbeds.cosmetic_bed.magenta.name
+item.cosmeticbeds.cosmetic_bed.lightBlue.name
+item.cosmeticbeds.cosmetic_bed.yellow.name
+item.cosmeticbeds.cosmetic_bed.lime.name
+item.cosmeticbeds.cosmetic_bed.pink.name
+item.cosmeticbeds.cosmetic_bed.gray.name
+item.cosmeticbeds.cosmetic_bed.silver.name
+item.cosmeticbeds.cosmetic_bed.cyan.name
+item.cosmeticbeds.cosmetic_bed.purple.name
+item.cosmeticbeds.cosmetic_bed.blue.name
+item.cosmeticbeds.cosmetic_bed.brown.name
+item.cosmeticbeds.cosmetic_bed.green.name
+item.cosmeticbeds.cosmetic_bed.red.name
+item.cosmeticbeds.cosmetic_bed.black.name

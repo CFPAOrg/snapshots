@@ -1,0 +1,13 @@
+item.urkazmoontools.moonclock.name
+tile.urkazmoontools.moonsensor.name
+urkazmoontools.config.sensoronlynight
+urkazmoontools.config.sensorshiftphases
+urkazmoontools.moonclock.phaseTooltip
+urkazmoontools.moonclock.phase0
+urkazmoontools.moonclock.phase1
+urkazmoontools.moonclock.phase2
+urkazmoontools.moonclock.phase3
+urkazmoontools.moonclock.phase4
+urkazmoontools.moonclock.phase5
+urkazmoontools.moonclock.phase6
+urkazmoontools.moonclock.phase7

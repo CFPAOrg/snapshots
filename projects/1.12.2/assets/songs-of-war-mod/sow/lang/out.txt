@@ -1,0 +1,83 @@
+SOW-Weapons and Tools
+SOW-Crafting Materials
+SOW-Misallanious
+Songs Of War
+Activate Agressium Song
+Activate Mobilium Song
+Activate Protissium Song
+Activate Supporium Song
+Handle-Size 1
+Handle-Size 2
+Handle-Size 3
+Sendaris Iron
+Voltaris Iron
+Mendoris Iron
+Kaltaris Iron
+Nestoris Iron
+Sendaris Diamond
+Voltaris Diamond
+Mendoris Diamond
+Kaltaris Diamond
+Nestoris Diamond
+Ender Iron
+Nether Iron
+Walls Of Time
+Crafting Anvil
+Teleportation Beacon
+Chisel
+Sickle
+Eddy's Beverage
+Necromancer Wither
+Kaltaris Master Staff
+Nestoris Master Staff
+Mendoris Master Staff
+Sendaris Master Staff
+Iron Axe L:13 W:11
+Iron Axe L:15 W:7
+Iron Axe L:16 W:9
+Iron Axe L:18 W:12
+Iron Axe L:18 W:8
+Iron Axe L:7 W:6
+Iron Claw
+Iron Knife L:11 W:4
+Iron Mase L:5 W:6
+Iron Scythe
+Iron Spear L:14 W:6
+Iron Spear L:3 W:2
+Iron Spear L:9 W:11
+Iron Staff L:12 W:7
+Iron Staff L:7 W:12
+Iron Staff L:9 W:6
+Iron Sword L:10 W:2
+Iron Sword L:11 W:5
+Iron Sword L:13 W:5
+Iron Sword L:17 W:5
+Iron Sword L:21 W:5
+Diamond Axe L:16 W:9
+Diamond Double Hook
+Diamond Spear: L:9 W:6
+Diamond Staff L:12 W:9
+Diamond Staff L:9 W:4
+Diamond Sword L:20 W:7
+Iron Sword L:14 W:5
+Diamond Sword L:21 W:8
+Iron Sword L:17 W:6
+Ender Sword L:17 W:6
+Firey Sword L:14 W:5
+Firey Sword L:21 W:8
+Stone Sword L:12 W:4
+Hammer
+Golden Staff L:19 W:13
+Iron Spear L:11 W:5
+Iron Sword L:10 W:3
+Iron Sword L:19 W:6
+Iron Sword L:20 W:6
+Diamond Spear L:9 W:11
+Iron Spear L:5 W:3
+Iron Sword L:13 W:4
+Diamond Hammer
+Diamond Sword L:10 W:2
+Iron Sword L:10 W:4
+Diamond Sword L:10 W:4
+Iron Hook L:19 W:3
+Iron Spear L:12 W:9

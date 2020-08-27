@@ -1,0 +1,4 @@
+cleardespawn.general.timeflash
+cleardespawn.general.timeflash.tooltip
+cleardespawn.general.urgentflash
+cleardespawn.general.urgentflash.tooltip

@@ -1,0 +1,4 @@
+Glass filled with liquid
+Empty syringe
+Full syringe (%d/%d %s)
+You can fill this syringe by right clicking a fluid source. Then, you can fill %d glass blocks with the liquid.

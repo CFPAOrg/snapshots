@@ -1,0 +1,42 @@
+White Brownie
+Dark Brownie
+Wafer Stick
+Sugar Crystal
+Lump of Gummy
+Lump of Red Gummy
+Lump of Orange Gummy
+Lump of Yellow Gummy
+Lump of White Gummy
+Lump of Green Gummy
+Gummy Worm
+Red Gummy Worm
+Orange Gummy Worm
+Yellow Gummy Worm
+White Gummy Worm
+Green Gummy Worm
+Magic Piece of Candy
+Milk Chocolate Pickaxe
+Dark Chocolate Pickaxe
+White Chocolate Pickaxe
+Milk Chocolate Axe
+Dark Chocolate Axe
+White Chocolate Axe
+Milk Chocolate Shovel
+Dark Chocolate Shovel
+White Chocolate Shovel
+Milk Chocolate Sword
+Dark Chocolate Sword
+White Chocolate Sword
+Cotton Candy Pickaxe
+Cotton Candy Axe
+Cotton Candy Shovel
+Cotton Candy Sword
+Liquid Chocolate
+Liquid Candy
+Cotton Candy Sheep
+Easter Chicken
+Gummy Mouse
+Gummy Bear
+Candy World - Items
+Candy World - Blocks
+Candy World - Tools

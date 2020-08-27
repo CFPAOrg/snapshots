@@ -1,0 +1,17 @@
+[gc-format]`2`l|2_multicommand_name|  >`r This
+[gc-format]`2`l|2_multicommand_name| >`r The number must be an `9integer`r
+[gc-format]`2`l|2_multicommand_name| >`r That argument must be a `9number`r
+[gc-format]`2`l|2_multicommand_name| >`r That argument must be a `9number`r
+[gc-format]`2`l|2_multicommand_name| >`r That argument must be an `9integer`r
+[gc-format]`2`l|2_multicommand_name| >`r That argument must be `9true or false`r
+[gc-format]`2`l|2_multicommand_name| |4_usc_name| >`r Incorrect usage. Use the command like this: `9|2_multicommand_name| |4_usc_name| |6_usc_usage|`r.
+[gc-format]`2`l|2_multicommand_name| |4_usc_name| >`r The player `9|15_specified_player|`r is not a registered player.
+[gc-format]`2`l|2_multicommand_name| |4_usc_name| >`r There was a technical error getting the UUID for `9|15_specified_player|`r, consult your log for details. It may be a bug, but there are other causes of this problem as well.
+[gc-format]`6`lWow!`r `d`l|1_player_name|`r, the creator of `d`l|2_mod_name|`r, is here!
+[gc-format]`6`lWow!`r `d`l|1_player_name|`r, a coder of `d`l|2_mod_name|`r, has joined!
+[gc-format]`6`lWelcome!`r `2`l|1_player_name|`r, helped make textures for `2`l|2_mod_name|`r!
+[gc-format]`6`aWelcome!`r |`2`l|1_player_name|`r helped translate `2`l|2_mod_name|!
+[gc-format]`6`aThanks`r to `2`l|1_player_name|`r for giving ideas to `2`l|2_mod_name|`r!
+[gc-format]`a`lWelcome back!`r `a`l|1_player_name|`r was an early player of `a`l|2_mod_name|`r!
+[gc-format]`6`lWelcome back!`r `6`l|1_player_name|`r donated to help support the making of `6`l|2_mod_name|`r. `6`lAwesome!`r
+[gc-format]`a`lWelcome back!`r `a`l|1_player_name|`r was the first commentor on `a`l|2_mod|name|`r!

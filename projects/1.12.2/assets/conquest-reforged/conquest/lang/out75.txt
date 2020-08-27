@@ -1,0 +1,62 @@
+Pine Planks Vertical Slab
+Stave Planks Vertical Slab
+Goat Sallow Log Vertical Slab
+Orange Pine Log Vertical Slab
+Transition Pine Log Vertical Slab
+Pine Log 1 Vertical Slab
+Pine Log 2 Vertical Slab
+Thatch Vertical Slab
+Gray Woven Thatch Vertical Slab
+Gray Thatch Vertical Slab
+Light Thatch Vertical Slab
+Dark Thatch Vertical Slab
+Brown Thatch Vertical Slab
+Wall of Oak Logs Vertical Slab
+Wall of Spruce Logs Vertical Slab
+Oak Log Design Vertical Slab
+Towel Rack
+Aspen Log Vertical Slab
+none
+none
+Mossy Spruce Log Corner Block
+Mossy Birch Log Corner Block
+Mossy Jungle Log Corner Block
+Mossy Acacia Log Corner Block
+Mossy Dark Oak Log Corner Block
+Mossy Oak Log Corner Block
+Burnt Oak Log Corner Block
+Ornamental Log Corner Block
+Dark Ornamental Log Corner Block
+Birch Log Corner Block
+Dark Birch Log Corner Block
+Rope Around a Log Corner Block
+Chains Around a Log Corner Block
+Carved Oak Wood Corner Block
+Carved Spruce Wood Corner Block
+Carved Birch Wood Corner Block
+Carved Jungle Wood Corner Block
+Carved Acacia Wood Corner Block
+Carved Dark Oak Wood Corner Block
+Weathered White Planks Corner Block
+White Painted Planks Corner Block
+Weathered Red Planks Corner Block
+Red Painted Planks Corner Block
+Weathered Light Red Planks Corner Block
+Light Red Painted Planks Corner Block
+Orange Painted Planks Corner Block
+Weathered Yellow Planks Corner Block
+Yellow Painted Planks Corner Block
+Weathered Green Planks Corner Block
+Green Painted Planks Corner Block
+Weathered Light Green Planks Corner Block
+Light Green Painted Planks Corner Block
+Weathered Cyan Planks Corner Block
+Cyan Painted Planks Corner Block
+Weathered Dark Blue Planks Corner Block
+Dark Blue Painted Planks Corner Block
+Weathered Blue Planks Corner Block
+Weathered Light Blue Planks Corner Block
+Light Blue Painted Planks Corner Block
+Purple Painted Planks Corner Block
+Weathered Brown Planks Corner Block
+Brown Painted Planks Corner Block

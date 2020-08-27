@@ -1,0 +1,4 @@
+tile.simplewoodenpipes.pipe.name
+tile.simplewoodenpipes.pump.name
+simplewoodenpipes.tooltip.pipe.low_temp_only
+simplewoodenpipes.tooltip.pipe.add_piston

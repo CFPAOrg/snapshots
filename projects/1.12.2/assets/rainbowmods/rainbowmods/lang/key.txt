@@ -1,0 +1,12 @@
+item.rainbowsethelmet.name
+item.rainbowmodsazada.name
+item.rainbowsetlegs.name
+item.rainbowsetboots.name
+entity.rainbowmodsalextools.name
+item.rainbowmodsmanzana.name
+item.rainbowmodspico.name
+item.rainbowmodsespada.name
+item.rainbowmodshacha.name
+item.rainbowmodspala.name
+item.rainbowmodsmultiusos.name
+item.rainbowsetbody.name

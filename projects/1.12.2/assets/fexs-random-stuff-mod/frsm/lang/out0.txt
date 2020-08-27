@@ -1,0 +1,142 @@
+FRSM - Blocks
+FRSM - Food
+FRSM - Materials
+FRSM - Tools
+FRSM - Technical Things
+FRSM - Models & Toys
+FRSM - Robots
+Experimental FRSM Things
+FRSM - Pipes
+FRSM - Street Stuff
+FRSM - Treepots
+Bacon
+Raw Bacon
+Brush
+Cheese
+Cheese Pie
+White Cheese
+Chocolate Bar
+White Chocolate Bar
+Chocolate Cookie
+Chocolate Milk
+Omelet
+Cup
+Cacao Drink
+Donut
+Hamburger
+Iron Saw
+Glass Jar
+Key
+Keyboard
+Laptop Mainboard
+NESR - Not Existing Stuff Replace
+Paint Bucket
+White Paint Set
+Orange Paint Set
+Magenta Paint Set
+Light Blue Paint Set
+Yellow Paint Set
+Lime Paint Set
+Pink Paint Set
+Gray Paint Set
+Light Gray Paint Set
+Cyan Paint Set
+Purple Paint Set
+Blue Paint Set
+Brown Paint Set
+Green Paint Set
+Red Paint Set
+Black Paint Set
+Customisable Paint Set
+Desktop Computer Mainboard
+Pizza
+Planks - Oak
+Potato Chips Bag
+Potato Chips with Cheese
+Single-Core Processor
+Dual-Core Processor
+Quad-Core Processor
+RBC
+Redstone Input
+RGC
+RRC
+RYC
+Ham
+Stone Mug
+Stone Mug with Beer
+Empty Tiles
+Tomato
+Tomato Jar
+Tomato Seeds
+Tomato Soup
+TV Controller
+TV Screen Large
+TV Screen Medium
+TV Screen Small
+UpGrade Kit
+Asphalt
+Asphalt
+Asphalt Slab
+Full Asphalt Block
+Asphalt Slab
+Bench
+Bench
+Bench
+Bench
+Bus Station
+Bus Stop Sign
+Deco Model Car
+Chimney
+Clock (1)
+Clock (1c)
+Clock (1w)
+Clock (2)
+Clock (2c)
+Clock (2w)
+Cobblestone
+Cobblestone
+Cobblestone
+Cobblestone
+Cobblestone
+Cobblestone
+Cobblestone
+CobbleStone
+CobbleStone
+CobbleStone
+CobbleStone
+CobbleStone
+CobbleStone
+CobbleStone
+CobbleStone
+CobbleStone
+Crate
+Deco Block (1)
+Deco Block (2)
+Electric Pizza Oven
+Iron Fence
+Framed Glowstone
+Fridge
+Furnace
+Lit Furnace
+Iron Barrel
+Kitchen Deco (1)
+Kitchen Deco (2)
+Lamp
+Lamp (Off)
+Laptop
+Black Laptop
+Blue Laptop
+Green Laptop
+Red Laptop
+White Laptop
+Model Rail
+Model Rail Turn
+Model Station (1)
+Model Station (2)
+Model Station (3)
+Officechair
+Palet 1x1 (0)
+Palet 1x1 (1)
+Palet 1x1 (2)
+Desktop Computer Hardware
+Monitor, Keyboard and Mouse

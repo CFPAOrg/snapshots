@@ -1,0 +1,29 @@
+You don't have enough money to do that.
+You were killed, your balance is now: %s
+You just killed someone, your balance is now: %s
+%s can only be used by players.
+Balance: %s
+/balance
+Shows your current account balance.
+/convert
+Converts what you're holding into currency.
+You have exchanged %s %s for %s each, earning a total of %s. Your balance is now %s.
+The item you are holding has no value.
+/pay <player> <amount>
+Pay a player money from your account.
+You cannot pay someone negative amount.
+You sent %s to %s.
+You received %s from %s.
+/wallet <give|take|set|balance> <player> <amount>
+The admin command for managing account balances.
+%s added to %s balance
+%s taken from %s balance
+%s balance set to %s
+%s balance: %s
+You cannot do this because it would set the %s's balance below zero.
+/geconhelp [page]
+The Grand Economy help command.
+%s: %s
+[Next]
+[Previous]
+Page: %s/%s

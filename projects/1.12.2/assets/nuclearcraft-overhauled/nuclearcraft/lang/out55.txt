@@ -1,0 +1,51 @@
+Money For Nothing
+Hyperspace
+Boron
+Tough Alloy
+Hard Carbon
+Boron Nitride
+Thorium
+Uranium
+Magnesium
+Chocolate
+Moldable
+§oMaître Chocolatier.§r\nBlend additional modifiers into your tool.
+Uplifting
+§oThis day we fight!§r\nOccasionally regenerates health on use.
+Withering
+§oDeath makes monsters of us all.§r\nWithers enemies on hit.
+Moldable
+§oMaître Chocolatier.§r\nBlend additional modifiers into your armor.
+Poisonous
+§oSo many to kill... so little time.§r\nPoisons enemies on contact.
+Uplifting
+§oI bid you stand!§r\nOccasionally regenerates health when hit.
+Withering
+§oWe may have years, we may have hours...§r\nWithers enemies on contact.
+Set filter to:
+Qubit ID:
+Your Rad-X wore off...
+A nasty metallic taste develops in the mouth and a painful headache begins to build... you are suffering from radiation poisoning! It would be wise to get hold of a Geiger counter to discern the severity of the situation...
+Your RadAway cooldown is at
+Your Rad-X cooldown is at
+Active radiation removal rate:
+Immune for:
+Immune!
+/nc_set_chunk_radiation <radiation_level> [coord_x] [coord_z]
+/nc_set_chunk_radius_radiation <radiation_level> <chunk_radius>
+/nc_set_world_radiation <radiation_level>
+/nc_set_world_radiation <radiation_level> [player]
+Radiation is enabled on this server!
+Radiation is enabled on this server! It is recommended that it is enabled on the client side too, along with a restart, in order to see all radiation-related items in JEI!
+%1$s was Bose-Einstein condensated
+%1$s was incinerated by plasma
+%1$s was vaporized 
+%1$s would have fared better in a kettle
+%1$s went to hell but didn't come back
+%1$s tried swimming in what was left of their fission reactor
+%1$s cooled off at the wrong time and place
+%1$s turned out to be far too alkaline
+%1$s was effectively pan-fried
+%1$s died as a result of extreme hypothermia
+%1$s was fried by a fission reactor
+%1$s died due to fatal radiation poisoning

@@ -1,0 +1,6 @@
+commands.inventorysave.success
+commands.inventorysave.fail
+commands.inventorysave.usage
+commands.inventoryload.success
+commands.inventoryload.fail
+commands.inventoryload.usage

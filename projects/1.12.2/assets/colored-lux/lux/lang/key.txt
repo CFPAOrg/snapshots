@@ -1,0 +1,14 @@
+options.lux:lighting
+options.lux:lighting.desc
+options.lux:packs
+options.lux:packs.desc
+luxPack.title
+luxPack.folderInfo
+luxPack.openFolder
+luxPack.incompatible.confirm.title
+luxPack.incompatible.confirm.api
+luxPack.incompatible.confirm.mods
+luxPack.available.title
+luxPack.selected.title
+luxPack.incompatible.api
+luxPack.incompatible.mods

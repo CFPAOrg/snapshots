@@ -1,0 +1,122 @@
+10%% increased throwing critical strike chance
+Ancient Cobalt Helmet
+Ancient Cobalt Breastplate
+Ancient Cobalt Leggings
+Increases maximum mana by 40</br>4%% increased magic critical strike chance
+Increases maximum mana by 20</br>4%% increased magic critical strike chance
+Increases maximum mana by 20</br>4%% increased magic critical strike chance
+The Undertaker
+Gladiator Helmet
+Gladiator Breastplate
+Gladiator Leggings
+Jungle Hat
+Jungle Shirt
+Jungle Pants
+Vine
+Rain Hat
+Rain Coat
+Turtle Shell
+Ancient Cloth
+Bee Wax
+Beetle Husk
+Gold Dust
+Ichor
+Empty Bullet
+Forbidden Fragment
+Explosive Powder
+Frost Core
+Snow Hood
+Snow Coat
+Snow Pants
+Pink Snow Hood
+Pink Snow Coat
+Pink Snow Pants
+Bloody Tear
+Solar Tablet Fragment
+Solar Tablet
+Holy Hand Grenade
+%,d defense
+30%% increased mining speed
+%,d%% extra melee damage
+%,d%% chance to not consume thrown item
+Redstone Transceiver
+Work Bench
+Clay Pot
+Bottle
+Furnace
+Torch
+Blue Pressure Plate
+Brown Pressure Plate
+Gray Pressure Plate
+Green Pressure Plate
+Yellow Pressure Plate
+Red Pressure Plate
+Waterleaf Seeds
+Blinkroot Seeds
+Moonglow Seeds
+Deathweed Seeds
+Shiverthorn Seeds
+Fireblossom Seeds
+Daybloom Seeds
+Mushroom
+Glowing Mushroom
+Heart Statue
+Star Statue
+Alchemical Station
+Crystal Shard
+Wooden Crate
+Iron Crate
+Sky Crate
+Golden Crate
+Teleporter
+Mud Block
+Dirt Block
+Stone Block
+Hellforge
+Adamantite Forge
+Slime Statue
+Titanium Forge
+Dart Trap
+Iron Anvil
+Lead Anvil
+Mythril Anvil
+Orichalcum Anvil
+Life Crystal
+Copper Ore
+Tin Ore
+Iron Ore
+Lead Ore
+Silver Ore
+Tungsten Ore
+Gold Ore
+Platinum Ore
+Demonite Ore
+Crimtane Ore
+Meteorite Ore
+Hellstone Ore
+Adamantite Ore
+Chlorophyte Ore
+Mythril Ore
+Cobalt Ore
+Luminite
+Orichalcum Ore
+Palladium Ore
+Titanium Ore
+Obsidian
+Ash Block
+Clay Block
+Sand Block
+Snow Block
+Glass
+Life Fruit
+Sandstone Block
+Cactus
+Thin Ice
+Ice
+Silt
+Tinkerer's Workshop
+Wood
+Boreal Wood
+Palm Wood
+Rich Mahogany
+Pearlwood

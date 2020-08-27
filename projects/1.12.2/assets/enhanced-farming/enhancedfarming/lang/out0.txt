@@ -1,0 +1,144 @@
+Enhanced Farming Config
+Enhanced Farming
+Mint Crop
+Nether Flower Crop
+Tomato Crop
+Cucumber Crop
+Aubergine Crop
+Grape Crop
+Pineapple Crop
+Corn Crop
+Onion Crop
+Garlic Crop
+Lettuce Crop
+Apple Leaves
+Blooming Apple Leaves
+Lemon Leaves
+Blooming Lemon Leaves
+Orange Leaves
+Blooming Orange Leaves
+Cherry Leaves
+Blooming Cherry Leaves
+Pear Leaves
+Blooming Pear Leaves
+Banana Leaves
+Blooming Banana Leaves
+Avocado Leaves
+Blooming Avocado Leaves
+Mango Leaves
+Blooming Mango Leaves
+Olive Leaves
+Blooming Olive Leaves
+Apple Seeds
+Lemon Seeds
+Orange Seeds
+Cherry Seeds
+Pear Seeds
+Banana Seeds
+Avocado Seed
+Mango Seed
+Olive Seeds
+Crop Sticks
+Scarecrow
+Mint Seeds
+Nether Flower Seeds
+Tomato Seeds
+Cucumber Seeds
+Aubergine Seeds
+Grape Seeds
+Corn Seeds
+Pineapple Seeds
+Onion Seeds
+Garlic Seeds
+Lettuce Seeds
+Pot
+Cutting Board
+Mortal And Pestle
+Mint
+Lemon
+Orange
+Cherry
+Pear
+Banana
+Olive
+Avocado
+Mango
+Tomato
+Cucumber
+Aubergine
+Grapes
+Pineapple
+Corn
+Onion
+Garlic
+Lettuce
+Golden lemon
+Golden Orange
+Chocolate Bar
+Chocolate Candy
+Chocolate Cherry
+Chocolate Banana
+Mint Chocolate Bar
+Mint Tea
+Apple Juice
+Lemonade
+Orange Juice
+Cherry Juice
+Pear Juice
+Banana Juice
+Grape Juice
+Mango Juice
+Pineapple Juice
+Milk Bottle
+Cold Chocolate Bottle
+Hot Chocolate Bottle
+Boiled Water
+Apple Smoothie
+Lemon Smoothie
+Orange Smoothie
+Cherry Smoothie
+Pear Smoothie
+Banana Smoothie
+Grape Smoothie
+Mango Smoothie
+Pineapple Smoothie
+Cucumber Smoothie
+Stock
+Salt
+Flour
+Dough
+Olive Oil
+Pasta
+Raw Fries
+Fruit Salad
+Salad
+Corn Soup
+Cucumber Soup
+Tomato Soup
+Potato Soup
+Carrot Soup
+Onion Soup
+Chicken Noodle Soup
+Hamburger
+Chicken Burger
+Cheese Burger
+Boiled Egg
+Baked Egg
+Sliced Bread
+Cheese
+Spaghetti
+Fruit Jam
+Fries
+Fish And Chips
+Potato Chips
+Guacamole
+Guac and Chips
+Egg Sandwich
+Bacon Sandwich
+Chicken Sandwich
+Jam And Cheese Sandwich
+Pineapple Pizza
+Cheese Pizza
+Bacon Pizza
+Apple Pie
+Banana Cream Pie

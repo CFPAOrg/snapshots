@@ -1,0 +1,114 @@
+Main Noise Scale Y
+Main Noise Scale Z
+Depth Noise Scale X
+Depth Noise Scale Z
+Depth Noise Exponent
+Depth Base Size
+Coordinate Scale
+Height Scale
+Height Stretch
+Upper Limit Scale
+Lower Limit Scale
+Biome Depth Weight
+Biome Depth Offset
+Biome Scale Weight
+Biome Scale Offset
+Sea Level
+Caves
+Strongholds
+Villages
+Mineshafts
+Temples
+Ocean Monuments
+Woodland Mansions
+Ravines
+Dungeons
+Dungeon Count
+Water Lakes
+Water Lake Rarity
+Lava Lakes
+Lava Lake Rarity
+Lava Oceans
+Biome
+Biome Size
+River Size
+Spawn Size
+Spawn Tries
+Min. Height
+Max. Height
+Center Height
+Spread Height
+Customize World Presets
+Presets
+Water World
+Isle Land
+Caver's Delight
+Mountain Madness
+Drought
+Caves of Chaos
+Good Luck
+Survival Mode
+Creative Mode
+Adventure Mode
+Spectator Mode
+Hardcore Mode!
+Your game mode has been updated to %s
+Previous Page
+Next Page
+Close Menu
+Teleport to Player
+Select a player to teleport to
+Teleport to Team Member
+Select a team to teleport to
+Press a key to select a command, and again to use it.
+Game Mode
+Survival
+Search for resources, crafting, gain
+levels, health and hunger
+Creative
+Unlimited resources, free flying and
+destroy blocks instantly
+Spectator
+You can look but don't touch
+Hardcore
+Same as survival mode, locked at hardest
+difficulty, and one life only
+Adventure
+Same as survival mode, but blocks can't
+be added or removed
+More World Options...
+Generate Structures:
+Villages, dungeons etc
+World Type:
+Normal
+Allow Cheats:
+Commands like /gamemode, /xp
+Hardcore:
+World is deleted upon death
+Bonus Chest:
+Default
+Superflat
+Large Biomes
+AMPLIFIED
+Customized
+Debug Mode
+Notice: Just for fun, requires beefy computer
+Select Server
+empty
+Join Server
+Direct Connect
+Edit
+Delete
+Add Server
+Minecraft Server
+Are you sure you want to remove this server?
+will be lost forever! (A long time!)
+Delete
+Refresh
+(Hidden)
+Edit Server Info
+Server Name
+Server Address
+Done
+Hide Address
+Server Resource Packs

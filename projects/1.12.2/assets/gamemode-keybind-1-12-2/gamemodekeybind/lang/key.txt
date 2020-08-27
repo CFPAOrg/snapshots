@@ -1,0 +1,6 @@
+key.mcreator.spectator
+key.mcreator.tt
+key.mcreator.creative
+key.mcreator.adventure
+itemGroup.tabhiddentab
+key.mcreator.survival

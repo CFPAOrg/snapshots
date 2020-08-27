@@ -1,0 +1,5 @@
+loyaltyrewards.config.title
+loyaltyrewards.rewarded.message
+loyaltyrewards.rewarded.toast.message
+loyaltyrewards.inventory.full
+loyaltyrewards.stat.playNotIdle

@@ -1,0 +1,10 @@
+Golem Soul
+Lesser Golem Head
+Golden Golem
+CobbleStone Golem
+Coal Golem
+Diamond Golem
+Emerald Golem
+Lapis Golem
+Quartz Golem
+Redstone Golem

@@ -1,0 +1,9 @@
+tile.bauxiteore.name
+item.aluminumingot.name
+item.pistol.name
+tile.steelore.name
+item.steel.name
+item.hammer.name
+item.steelplate.name
+item.aluminumplate.name
+item.pistolbullet.name

@@ -1,0 +1,8 @@
+item.power.name
+item.soul.name
+item.guantletweapon.name
+item.guantletweaponfull.name
+item.mind.name
+item.space.name
+item.reality.name
+item.time.name

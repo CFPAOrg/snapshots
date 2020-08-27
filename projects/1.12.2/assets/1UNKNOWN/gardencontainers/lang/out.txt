@@ -1,0 +1,55 @@
+Pottery
+Clay Pattern Stamp
+Clay Pattern Stamp
+This stamp is obscured by dirt.\nWash it in a cauldron.
+Large Flower Pot
+Raw Large Flower Pot
+Black Large Flower Pot
+Red Large Flower Pot
+Green Large Flower Pot
+Brown Large Flower Pot
+Blue Large Flower Pot
+Purple Large Flower Pot
+Cyan Large Flower Pot
+Light Gray Large Flower Pot
+Gray Large Flower Pot
+Pink Large Flower Pot
+Lime Large Flower Pot
+Yellow Large Flower Pot
+Light Blue Large Flower Pot
+Magenta Large Flower Pot
+Orange Large Flower Pot
+White Large Flower Pot
+Medium Flower Pot
+Black Medium Flower Pot
+Red Medium Flower Pot
+Green Medium Flower Pot
+Brown Medium Flower Pot
+Blue Medium Flower Pot
+Purple Medium Flower Pot
+Cyan Medium Flower Pot
+Light Gray Medium Flower Pot
+Gray Medium Flower Pot
+Pink Medium Flower Pot
+Lime Medium Flower Pot
+Yellow Medium Flower Pot
+Light Blue Medium Flower Pot
+Magenta Medium Flower Pot
+Orange Medium Flower Pot
+White Medium Flower Pot
+Oak Window Box
+Spruce Window Box
+Birch Window Box
+Jungle Window Box
+Acacia Window Box
+Dark Oak Window Box
+Stone Window Box
+Stone Brick Window Box
+Mossy Stone Brick Window Box
+Brick Window Box
+Nether Brick Window Box
+Sandstone Window Box
+Decorative Flower Pot
+Decorative Flower Pot (Chiseled)
+Decorative Flower Pot (Pillar)
+Pottery Table

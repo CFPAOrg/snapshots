@@ -1,0 +1,5 @@
+config.doubleslabs.slab_blacklist
+config.doubleslabs.replace_same_slab
+config.doubleslabs.disable_vertical_slab_placement
+config.doubleslabs.alternate_vertical_slab_placement
+config.doubleslabs.lazy_vertical_slabs

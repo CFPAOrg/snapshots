@@ -1,0 +1,16 @@
+tile.doublecompresseddirt.name
+item.sillimaniteshovel.name
+item.turnipsoup.name
+entity.turnipman.name
+tile.quadruplecompresseddirt.name
+item.turnip.name
+itemGroup.tabflordcore
+tile.compresseddirt.name
+item.axe1.name
+tile.triplecompresseddirt.name
+item.sillimanitepickaxe.name
+item.sillimaniteingot.name
+item.firegem.name
+item.sword1.name
+tile.sillimaniteore.name
+tile.firegemore.name

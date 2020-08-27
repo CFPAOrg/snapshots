@@ -1,0 +1,10 @@
+Ion Pickaxe
+Ion Diamond
+Ion Shovel
+Ion Sword
+Ion Axe
+Obsidian Stick
+Ion Chest
+Ion Legs
+Ion Boots
+Ion Head

@@ -1,0 +1,16 @@
+language.name
+language.region
+language.code
+itemGroup.tesserakt
+tile.tesserakt.tesserakt.name
+tile.tesserakt.frame_empty.name
+tile.tesserakt.frame_full.name
+death.attack.dimensional_squish
+item.tesserakt.dimensional_bag.name
+item.tesserakt.ender_star.name
+tile.tesserakt.dim_bag_wall_block.name
+tile.tesserakt.dim_bag_controller.name
+tile.tesserakt.dim_bag_telporter.name
+tile.tesserakt.ender_wool.name
+tesserakt.bag_craft.error
+tesserakt.room_upgrade.error

@@ -1,0 +1,16 @@
+tile.sealanternblack.name
+tile.sealanternblue.name
+tile.sealanternbrown.name
+tile.sealanterncyan.name
+tile.sealanterngray.name
+tile.sealanterngreen.name
+tile.sealanternlight_blue.name
+tile.sealanternlight_gray.name
+tile.sealanternlime.name
+tile.sealanternmagenta.name
+tile.sealanternorange.name
+tile.sealanternpink.name
+tile.sealanternpurple.name
+tile.sealanternred.name
+tile.sealanternwhite.name
+tile.sealanternyellow.name

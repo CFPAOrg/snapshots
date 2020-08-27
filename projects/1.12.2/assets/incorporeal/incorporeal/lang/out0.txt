@@ -1,0 +1,81 @@
+Incorporeal
+Ticket Conjurer
+Corporea Ticket (blank)
+Corporea Ticket (%sx %s)
+Rod of the Fractured Space
+Red String Liar
+Corporea Inhibitor
+Corporea Solidifier
+Corporea Spark Tinkerer
+Corporea Retainer Evaporator
+Frame Tinkerer
+Frame Screw
+Frame Screw (Reversed)
+Soul Core Frame
+Ender Soul Core
+Corporetic Soul Core
+Blood Soul Core
+Earthen Repeater
+Earthen Comparator
+Red String Tile
+Corporea Tile
+Frosted Red String
+Corporea Bricks
+LokiW
+Red String Tile Slab
+Corporea Tile Slab
+Corporea Brick Slab
+LokiW Slab
+Red String Tile Stairs
+Corporea Tile Stairs
+Corporea Brick Stairs
+LokiW Stairs
+Red String Tile Wall
+Corporea Brick Wall
+LokiW Wall
+LokiW Fence
+LokiW Fence Gate
+Black Unstable Cube
+Red Unstable Cube
+Green Unstable Cube
+Brown Unstable Cube
+Blue Unstable Cube
+Purple Unstable Cube
+Cyan Unstable Cube
+Light Gray Unstable Cube
+Gray Unstable Cube
+Pink Unstable Cube
+Lime Unstable Cube
+Yellow Unstable Cube
+Light Blue Unstable Cube
+Magenta Unstable Cube
+Orange Unstable Cube
+White Unstable Cube
+Forgotten Shrine
+Cygnus Word Pattern: %s
+Cygnus Crystal Cube Pattern: %s
+Master Cygnus Spark
+Cygnus Spark
+Cygnus Ticket
+Cygnus Crystal Cube
+Cygnus Word
+Cygnus Funnel
+Cygnus Retainer
+Sanvocalia
+Sanvocalia Petite
+Teknopathetic
+Teknopathetic
+Sweet Alexum
+Sweet Alexum Petite
+This is so sad
+This is so sad
+Sanvocalia
+Sanvocalia Petite
+Sweet Alexum
+Sweet Alexum Petite
+Corporea
+Cygnus
+&3Sky&7 Knowledge
+Frame Tinkerer
+Swap items in item frames
+The &1Frame Tinkerer&0 is an indispensable tool for any advanced corporeticist. It acts like a &1Spark Tinkerer&0 - drop an item on it, give it a redstone signal, and the item will change places with one in a random nearby &1Item Frame&0. Note that, unlike the &1Spark Tinkerer&0, the &1Frame Tinkerer&0 doesn't have a dedicated inventory to place items. Just dropping the item on top will suffice. They are also pushable with &1Pistons&0.

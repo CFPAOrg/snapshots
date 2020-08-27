@@ -1,0 +1,27 @@
+Legend has it that any who fired an arrow upon the walker king would find a sword in their back and the king behind them. Perhaps collecting both his sword and his shield would allow you the same ability?
+Click right click to fire, requires bullets.
+Bullet Damage
+Ignite on hit
+Fire Rate
+Accuracy
+Hold shift to view description
+Rear Damage
+Charging...
+Ability on cooldown, Remaining time: 
+Drink to restore 2 hearts.
+A mystical object created by an ancient race. Hold Right click to set a position, then do it again to teleport there. Sneak while holding Right-click to remove the saved location.
+Current Position:
+The flames consume those who cross your path, a simple right-click and they'll feel your wrath. Also lights torches.
+Right-click to shoot your goo, my dude.
+It's a gun on a stick. Man, those dwarves are geniuses.
+A left-click restores the health that you need, I don't actually remember what this does, but I had to make descriptions for all of these out of greed.
+Contains:
+Empty
+Left-click a mob to store it, right-click to summon that mob. Can be put in a single use spawner so that spawner spawns the stored mob.
+Undertech Prototype Fyrebird mk7 22mm nozzle flame expulsion unit. A right-mouse press should expel fire directly forwards. Internal Gel Cartridges should be able to extract slime from anywhere in the inventory. Current model requires regular reload, as no regenerating source of slime has been discovered. 
+Creative only item. Right-click with it to open a GUI, items placed in this GUI can be accessed later by left-clicking any mob with this badge again, and will be dropped when the attached mob is killed.
+Right-click to open.
+Right-click to open. Only stores potions.
+Right-click to shoot hook. Once the hook hits a wooden block, you will be pulled to it.
+Right-click to shoot hook. Once the hook hits a block, you will be pulled to it.
+Right-click to shoot hook. Once the hook hits a block, you will be pulled to it.

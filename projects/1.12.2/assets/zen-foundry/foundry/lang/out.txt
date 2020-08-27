@@ -1,0 +1,53 @@
+Used to cast rods from molten metal.//Right click to remove the rod after it's solidified.
+Used to cast blocks from molten metal.//Right click to remove the block after it's solidified.
+Used to craft molds.//Requires Unfired Porcelain Block and fuel to make molds.
+Uses solid fuel to generate heat for a Melting Crucible.
+Small Porcelain Ball
+Ingot Mold
+Plate Mold
+Gear Mold
+Rod Mold
+Block Mold
+Slab Mold
+Stairs Mold
+Nugget Mold
+Pickaxe Mold
+Axe Mold
+Sword Mold
+Shovel Mold
+Hoe Mold
+Shears Mold
+Helmet Mold
+Chestplate Mold
+Leggings Mold
+Boots Mold
+Sickle Mold
+Hammer Mold
+Excavator Mold
+Gringding Ball Mold
+Melting Crucible
+%d K
+Metal Caster
+Alloy Mixer
+Alloying Crucible
+Metal Infuser
+Mold Station
+Fluid Heater Fuels
+Ingot Casting Table
+Plate Casting Table
+Rod Casting Table
+Block Casting Table
+Depth: %d
+Fire mold
+Remove
+Melting Crucible
+Temperature: %d K
+Melt: %d K
+Energy: %d FE / %d FE
+{0,choice,0#0 blocks|1#1 block|1<{0} blocks} 
+{0,choice,0#0 ingots|1#1 ingot|1<{0} ingots} 
+{0,choice,0#0 nuggets|1#1 nugget|1<{0} nuggets} 
+Mode: Ignore Restone
+Mode: Redstone signal OFF
+Mode: Redstone signal ON
+Mode: Redstone pulse

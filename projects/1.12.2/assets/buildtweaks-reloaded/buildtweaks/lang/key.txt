@@ -1,0 +1,16 @@
+item.item_pressed_blutonium.name
+item.item_dry_draconium_dust.name
+item.item_reinforced_dry_leather.name
+item.item_salted_leather.name
+item.item_draconic_crafting_core.name
+item.item_clean_quartz_dust.name
+item.item_reinforced_obsidian_plating.name
+tile.block_machine_frame_basic.name
+tile.block_machine_frame_hardened.name
+tile.block_machine_frame_reinforced.name
+tile.block_machine_frame_resonant.name
+tile.block_factory_machine.name
+tile.block_draconium_dust.name
+tile.block_dry_draconium_dust.name
+tile.block_quartzsand.name
+itemGroup.buildtweaks

@@ -1,0 +1,2 @@
+enchantment.aerial_affinity
+enchantment.aerialaffinity.aerial_affinity.desc

@@ -1,0 +1,12 @@
+Philosopher's Stone
+Philosopher's Stone Ore
+Potion of Immortality
+Immortality
+Splash Potion of Immortality
+Lingering Potion of Immortality
+Arrow of Immortality
+Potion of Mortality
+Mortality
+Splash Potion of Mortality
+Lingering Potion of Mortality
+Arrow of Mortality

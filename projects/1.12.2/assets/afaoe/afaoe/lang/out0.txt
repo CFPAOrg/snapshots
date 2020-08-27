@@ -1,0 +1,104 @@
+AFAOE
+AFAOE Decoration
+AmazingFoodStuffs Config
+God Fame
+Fame Minion
+Cheddar
+Flour
+Dough
+Wheat Dough
+Provolone
+Muenster
+Mozzarella
+Curd
+Cheese Sugar
+Wheat Bun
+White Bun
+White Roll
+Tortilla
+Lettuce
+Onion
+Tomato
+Jalapeño
+Shelled Sunflower Seed
+Sunflower Seed
+Mint Seeds
+Cherry Seed
+Red Pepper Seed
+Yellow Pepper Seed
+Green Pepper Seed
+Greenbean Seed
+Blueberry Seed
+Endive Seed
+Eggplant Seed
+Strawberry Seed
+Celery Seed
+Mint Sprig
+Mint Leaf
+Sliced Onion
+Sliced Tomato
+Sliced Jalapeño
+Cherry
+Blueberry
+Green Pepper
+Red Pepper
+Yellow Pepper
+Greenbean
+Celery
+Strawberry
+Maraschino Cherry
+Eggplant
+Endive
+Salt
+Baking Soda
+Tomato Sauce
+Sour Cream
+Onion Seed
+Tomato Seed
+Jalapeño Seed
+Lettuce Seed
+Pasta Dough
+Noodles
+Gelatin Powder
+Tofu
+Raw Tenderized Beef
+Cooked Tenderized Beef
+Sliced Beef
+Cubed Beef
+Raw Tenderized Chicken
+Cooked Tenderized Chicken
+Sliced Chicken
+Cubed Chicken
+Meat Balls
+Pastrami
+Pepperoni
+Sliced Pepperoni
+Beef, Cheddar, Lettuce & Tomato on Wheat
+Beef, Cheddar, Lettuce & Tomato on White
+Beef, Cheddar & Lettuce on Wheat
+Beef, Cheddar & Lettuce on White
+Beef, Cheddar & Tomato on Wheat
+Beef, Cheddar & Tomato on White
+Beef & Cheddar on Wheat
+Beef & Cheddar on White
+Beef, Lettuce & Tomato on Wheat
+Beef, Lettuce & Tomato on White
+Beef & Lettuce on Wheat
+Beef & Lettuce on White
+Beef, Mozzarella, Lettuce & Tomato on Wheat
+Beef, Mozzarella, Lettuce & Tomato on White
+Beef, Mozzarella & Lettuce on Wheat
+Beef, Mozzarella & Lettuce on White
+Beef, Mozzarella & Tomato on Wheat
+Beef, Mozzarella & Tomato on White
+Beef & Mozzarella on Wheat
+Beef & Mozzarella on White
+Beef, Muenster, Lettuce & Tomato on Wheat
+Beef, Muenster, Lettuce & Tomato on White
+Beef, Muenster & Lettuce on Wheat
+Beef, Muenster & Lettuce on White
+Beef, Muenster & Tomato on Wheat
+Beef, Muenster & Tomato on White
+Beef & Muenster on Wheat
+Beef & Muenster on White
+Beef, Provolone, Lettuce & Tomato on Wheat

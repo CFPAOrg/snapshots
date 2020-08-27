@@ -1,0 +1,13 @@
+item.jackal_helmet.name
+item.bird_helmet.name
+item.serpent_guard_helmet.name
+item.serpent_guard_chestplate.name
+item.serpent_guard_leggings.name
+item.serpent_guard_boots.name
+item.serpent_guard_helmet_gold.name
+item.serpent_guard_chestplate_gold.name
+item.serpent_guard_leggings_gold.name
+item.serpent_guard_boots_gold.name
+item.matok_staff.name
+item.zat_gun.name
+death.attack.energyBolt

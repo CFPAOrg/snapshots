@@ -1,0 +1,45 @@
+Download FFmpeg
+Rules
+Deposit
+Withdraw
+You bought this chunk for %s$.
+You don't have enough money to buy this chunk!
+Current Chunk Price: %s$
+If you unclaim a chunk, the team leader will get 50$ as a refund.
+Your balance was reset due to a global money reset
+$%,d
+Agree
+Are you sure you have read everything? Ignoring the rules can lead to you being jailed or even banned!
+Something is preventing you from taking this...
+Red
+Green
+Blue
+Save
+Celios Device Color
+Changing the color costs you %s$!
+You can't use commands in jail!
+Transfer
+You don't have enough money!
+You transfered $%s to %s!
+You received $%s from %s!
+That player can't be found!
+Updated balance:
+Space Stone
+Power Stone
+Reality Stone
+Time Stone
+Soul Stone
+Mind Stone
+Missing...
+The new stonekeeper of the %s is %s!
+Money
+PVP
+%s tried to join with a VPN. They have been kicked.
+Hello %s, \n We have detected that you're using a VPN! \n Please turn it off in order to join the server! \n NOTE: You have not been banned!
+CraftfallEssentials
+Has permission to use abilities here, on the client
+Has permission to use abilities here, on the server
+New Balance
+Press %s to open!
+Acquired Celios Device!
+You are currently jailed!

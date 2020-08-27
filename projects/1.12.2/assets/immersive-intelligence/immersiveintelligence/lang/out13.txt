@@ -1,0 +1,21 @@
+Binoculars
+The Eyes of the Science
+The Binoculars are a tool, that allows further vision. They are based on the same magnification principle the scope of the <link;railgun;§o§nRailgun§r;>.
+The Infrared Binoculars are an upgraded version of the regular ones. When provided energy i.e. from a <link;powerpack;§o§nCapacitor §o§nBackpack§r;> it allows night vision, don't use them in lighted areas, it could severely blind you.
+Infiltrator's Goggles
+Übervision
+Infrared Observer
+The Big Brother
+Radar
+A relic from Dover
+Strategic Command Table
+The Art of War
+Warfare
+Engineer & Conquer
+Warfare is a branch of engineering focused on defense and offense against enemies. Engineered inventions have revolutionised the modern way of combat, swords and shields have become obsolete, the era of projectile weapons has come. Modern warfare is based on both precise and fast attacks with range superior to any weapon of the past.
+Machinegun
+Property of Hans
+The machinegun is a pioneering, sophisticated new invention, that allows effective defense against all sorts of threats. Unlike most manned weapons, the machinegun can not be fired on the go. In order to fire it has to be displaced on a block with enough space. The MG uses disposable magazines, which can be loaded with bullets in the <link;packer;§o§nPacker§r;>.
+While firing bullets, casings drop on the ground to be picked. The MG is prone to overheating, which depends on the firing rate. The gun like most modern-day equipment allows for different configurations using upgrades, such as water cooling, scopes, change of bipod and more.
+The heavy barrel is a modification, which increases the gun fire rate dramatically, but by that also increases the speed of the gun overheating. Firing the gun with short bursts is the best tactic using this upgrade.
+The heavy barrel is a modification that allows to fill the tank underneath the barrel with coolant (such as water), this almost eliminates the gun overheating. Laying suppresive fire with this upgrade is a good idea, but you have to do it with precision, because of the gun's slow firing rate.

@@ -1,0 +1,4 @@
+time_between_animals
+angry_wolves
+animal_spawn_radius
+animal_spawn_height

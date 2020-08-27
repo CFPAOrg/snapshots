@@ -1,0 +1,6 @@
+itemGroup.diveGearTab
+item.divehelmet.name
+item.divehelmetlighted.name
+item.divechest.name
+item.divelegs.name
+item.diveboots.name

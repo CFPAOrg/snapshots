@@ -1,0 +1,10 @@
+tile.redwoodlog.name
+advancements.fruiteat.descr
+tile.bloodleavesfruit.name
+tile.bloodwood.name
+fluid.blood
+tile.bloodfence.name
+tile.bloodleaves.name
+tile.bloodstairs.name
+item.bloodfruit.name
+advancements.fruiteat.title

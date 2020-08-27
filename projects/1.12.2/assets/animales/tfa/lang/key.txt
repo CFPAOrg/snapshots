@@ -1,0 +1,8 @@
+entity.tfa_shark.name
+entity.tfa_crocodile.name
+entity.tfa_piranha.name
+entity.tfa_ostrich.name
+entity.tfa_penguin.name
+item.master_whip.name
+item.cw_logo.name
+itemGroup.tfa_tab

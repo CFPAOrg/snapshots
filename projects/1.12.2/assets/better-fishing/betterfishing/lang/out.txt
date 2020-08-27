@@ -1,0 +1,48 @@
+Reel In
+Reel Out
+Better Fishing
+Reeling
+Fish Splashing
+Tuna
+Catfish
+Carp
+Mackerel
+Salmon
+Bass
+Cod
+Trout
+General Bait
+Tuna Bait
+Catfish Bait
+Carp Bait
+Mackerel Bait
+Salmon Bait
+Bass Bait
+Cod Bait
+Trout Bait
+Tuna Slice
+Catfish Slice
+Carp Slice
+Mackerel Slice
+Salmon Slice
+Bass Slice
+Cod Slice
+Trout Slice
+Cooked Tuna Slice
+Cooked Catfish Slice
+Cooked Carp Slice
+Cooked Mackerel Slice
+Cooked Salmon Slice
+Cooked Bass Slice
+Cooked Cod Slice
+Cooked Trout Slice
+Fish Bucket
+Fish Oil
+Fish Tracker
+Knife
+Basic Fishing Rod
+Iron Fishing Rod
+Diamond Fishing Rod
+Oven
+Oven
+Fish Bucket

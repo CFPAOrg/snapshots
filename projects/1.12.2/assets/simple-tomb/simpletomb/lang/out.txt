@@ -1,0 +1,1 @@
+Automatically equips any equipable items when respawning after a death

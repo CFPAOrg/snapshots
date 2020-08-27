@@ -1,0 +1,19 @@
+Sword Of The Darkest Nightmares
+Phantom of the Night
+Pickaxe Of Dark Nightmares
+Dark Nightmare Ore
+Dark Nightmare Ingot
+AXE NAME
+Cloaked Helmet
+Cloaked Chestplate
+Cloaked Leggings
+Cloaked Boots
+Guardian of Light
+LUCKY BLOCK NAME
+Frag Grenade
+Cluster Frag Grenade
+Lava Grenade
+STRUCTURE NAME
+Dagger Infused Tesla Airstrike Caller
+Flame-Zooka
+Creep Cannon

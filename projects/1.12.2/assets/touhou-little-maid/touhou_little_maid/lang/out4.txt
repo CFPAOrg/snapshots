@@ -1,0 +1,86 @@
+§nSchedule: %d/%d
+Track Name
+Artists
+Album
+Time
+The mod detects that the NetEase Cloud Music playlist is empty. The reasons may be as follows:\n\n- NetEase Cloud Music is not open for use in your region\n- Your current network environment cannot connect to NetEase Cloud Music server\n- Netease Cloud Music blocks the IP you use\n- Other unknown network issues\n\nCurrently, only NetEase Cloud Music is supported, so only players from China Mainland can use it, we apologize for this.\nHowever, we will add more support from other music websites in the future, so stay tuned.\n\nPlease note: This is a network problem between you and NetEase Cloud Music, not a mod bug!\n\n[Press Esc to exit this interface]
+Version: %s
+Date: %s
+Shift Click To Open The Details GUI
+Sound Pack List
+Double Click Open The Url
+Double Click Play The Sound
+Name
+Count
+Touhou Project Model
+Default Model
+Deafult Chair Model
+Reimu Hakurei
+Ran Yakumo
+Momiji Inubashiri
+Satori Komeiji
+Reisen Udongein Inaba
+Kanako Yasaka
+Sekibanki
+Hata no Kokoro
+Nitori Kawashiro
+Sanae Kochiya
+Sakuya Izayoi
+Iku Nagae
+Cirno
+Daiyousei
+Kaguya Houraisan
+Suwako Moriya
+Wakasagihime
+Flandre Scarlet
+Fujiwara no Mokou
+Kisume
+Chen
+Suika Ibuki
+Star Sapphire
+Youmu Konpaku
+Luna Child
+Remilia Scarlet
+Sunny Milk
+Alice Margatroid
+Alice
+Patchouli Knowledge
+Hong Meiling
+Koakuma
+Letty Whiterock
+Lunasa Prismriver
+Merlin Prismriver
+Lyrica Prismriver
+Marisa Kirisame
+Tenshi Hinanawi
+Lily White
+Lily White (Black)
+Koishi Komeiji
+Utsuho Reiuji
+Rin Kaenbyou
+Rumia
+Okina Matara
+Mystia Lorelei
+Yachie Kitcho
+Yuyuko Saigyouji
+Shion Yorigami
+Sagume Kishin
+Yukari Yakumo
+Tewi Inaba
+Wriggle Nightbug
+Keine Kamishirasawa
+Eirin Yagokoro
+Mima
+Yuuka Kazami
+Komachi Onozuka
+Eiki Shiki, Yamaxanadu
+Aya Shameimaru
+Medicine Melancholy
+Shizuha Aki
+Hina Kagiyama
+Yamame Kurodani
+Yuugi Hoshiguma
+Minoriko Aki
+Parsee Mizuhashi
+Nazrin
+Minamitsu Murasa

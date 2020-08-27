@@ -1,0 +1,16 @@
+tile.powerpiston.name
+tile.powerpiston_sticky.name
+tile.rotatorcw.name
+tile.rotator180.name
+tile.rotatorccw.name
+tile.capacitor.name
+tile.extendrepeater.name
+tile.detector.name
+tile.resister.name
+item.bluestone.name
+tile.wireless_lever.name
+tile.wireless_button.name
+tile.wireless_reciever.name
+tile.placer.name
+tile.breaker.name
+item.fake.name

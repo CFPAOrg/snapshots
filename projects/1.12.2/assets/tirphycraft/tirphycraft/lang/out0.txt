@@ -1,0 +1,134 @@
+Dungeon Brick
+Cloud
+Frozen Crystal
+Black Crystal
+Sun Stone
+Mushroom Block
+Pyrodes Furnace
+Alloy Furnace
+Noxis Stone
+Noxis Cobblestone
+Noxis Dirt
+Noxis Frozen Dirt
+Noxis Grass
+Laputa Grass
+Noxis Frozen Grass
+Laputa Dirt
+Laputa Stone
+Laputa Cobblestone
+Pyrodes Block
+Heavy Block
+Nixium Block
+Coal on Coke Block
+Coppir Log
+Silvir Log
+Goldir Log
+Froz log
+Mystical Log
+Mushroom Log
+Coppir Sapling
+Silvir Sapling
+Goldir Sapling
+Basic Sapling
+Froz Sapling
+Coppir Leaves
+Silvir Leaves
+Goldir Leaves
+Blue Leaves
+Yellow Leaves
+White Leaves
+Purple Leaves
+Green Leaves
+Froz leaves
+Coppir Planks
+Silvir Planks
+Goldir Planks
+Froz Planks
+Purodes Ore (noxis)
+Coal on Coke Ore (noxis)
+Tenium Ore (noxis)
+Crystal Ore (noxis)
+Smoker
+Bush
+Bush (red)
+Bush (blue)
+Bush (green)
+Froz Stone
+Froz Cobblestone
+Coppir Stairs
+Silvir Stairs
+Goldir Stairs
+Froz Stairs
+Noxis Brick Stairs
+Laputa Brick Stairs
+Froz Brick Stairs
+Boss Wall
+Boss Door
+Pillar
+Queen Creeper Egg
+Pharaon Egg
+Hell King Egg
+Poseidon Egg
+Artikon Egg
+Purodes Ore (overworld)
+Coal on Coke Ore (overworld)
+Tenium Ore (overworld)
+Crystal Ore (overworld)
+Purodes Ore (laputa)
+Coal on Coke Ore (laputa)
+Tenium Ore (laputa)
+Crystal Ore (laputa)
+Nixium Crystal
+Laputa Grass (white)
+Laputa Grass (dark)
+Blue Rose
+Powder Snow
+Laputa Portal
+Froz Portal
+Portal Base
+Noxis Brick
+Laputa Brick
+Froz Brick
+Fragment
+Fragment
+Fragment
+Fragment
+Fragment
+Parachute
+Anti Amulet
+Amulet Health
+Amulet Health
+Amulet Health
+Amulet Attack
+Amulet Attack
+Amulet Attack
+Amulet Speed
+Amulet Speed
+Amulet Speed
+Crystal
+Crystal Purodes
+Crystal Pyrodes Poly
+Heavy Ingot
+Nixium Ingot
+Tenium Ingot
+Diamond Nugget
+ Mummy Wraps
+Empty Syringe
+Coins
+Queen Heart
+Explosion Core
+Life Core
+Explosion Sword
+Return Clock
+Noxis Clock
+Laputa Clock
+Froz Clock
+Coal on Coke
+Pyrodes Boots
+Pyrodes Leggings
+Pyrodes Chestplate
+Pyrodes Helmet
+Heavy Boots
+Heavy Leggings
+Heavy Chestplate
+Heavy Helmet

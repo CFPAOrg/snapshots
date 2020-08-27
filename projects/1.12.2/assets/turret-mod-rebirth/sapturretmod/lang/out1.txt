@@ -1,0 +1,38 @@
+Speed Upgrade
+Used in the Turret Assembly Table
+This optimizes the assembly process and makes the assembly table 4x faster. Since this optimization isn't free to come by, it'll increase the energy consumption of the current crafting operation by 10%% (after the 4x increase of RF/t).
+Filter Upgrade
+Used in the Turret Assembly Table
+This will filter what's going into the assembly table.\nAfter right-clicking you can configure the filter. In empty slots can go anything. In configured slots can only go the item configured (obviously), but those items won't go anywhere else, not even in empty configured slots.\nShift-right-click clears the filter.\n\nThe filter operates not only on the user-side of things (putting stuff into the table via GUI) but also with external insertion devices like the hopper.\n\nPlease note that you can't configure the stack size of items, thus it will always try to put a whole stack (depends on how many items can be stacked together) in a slot.\n\nf you want to put in more than 1 stack into the table, you can configure 2 or more slots with the same item.
+Configured
+Right-click to configure, Shift-right-click to clear config.
+Arrow Bolt
+Arrow Bolt Pack
+Shotgun Shell
+Shotgun Shell Pack
+Cryo Cell SG1
+Cryo Cell SN1 Pack
+Cryo Cell SG2
+Cryo Cell SN2 Pack
+Cryo Cell SG3
+Cryo Cell SN3 Pack
+Revolver Bullets
+Revolver Bullet Pack
+Minigun Rounds
+Minigun Rounds Pack
+Electrolyte Cell
+Electrolyte Cell Pack
+Flux Cell
+Flux Cell Pack
+Fuel Tank
+Fuel Tank Pack
+Repair Kit 05HS
+Repair Kit 10HS
+Repair Kit 15HS
+Repair Kit 20HS
+Repair Kit 01H40R
+Turret Upgrade
+Empty
+This is the crafting base for all other upgrades. Not applicable to anything.
+Health I
+Increases the maximum turret health by 25%% .\n\nThis upgrade strengthens the structure of the turret chassis.\nIt will not increase the turrets health automatically! You must heal it afterwards.

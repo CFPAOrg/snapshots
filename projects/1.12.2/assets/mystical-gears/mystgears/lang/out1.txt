@@ -1,0 +1,12 @@
+Axles
+Axles are used to transfer mechanical power between generators, gearboxes and machines that use it. Axles don't lose power over distance, so their transfer range is virtually unlimited.
+Gearboxes
+Gearbox Frames are the heart-piece of mechanical transfer. One gear can be attached on each side, but only sides with axles or other machines attached will need one. There is an input side marked by a strip, and all other sides are outputs. The input power will be divided between each used output, so if two axles were attached, each would receive half power.
+Mergeboxes
+Mergebox Frames are another important part in mechanical systems. They function opposite to a regular gearbox, instead of splitting power, power will be merged together. Note that all inputs must be the same speed to be summed up. Additionally, anytime the power changes, the mergebox will disengage the output gear for a short time as the internal ratios adjust.
+Vis Powered Motor
+I should look into methods to produce mechanical power first, then I'll see what I could use it for.
+I've created a motor that generates mechanical power out of vis in the aura, this should be sufficient for powering any mechanical devices I make. For every point of vis, this motor will run for 5 seconds with 30 mechanical power. I should be careful not to leave these running when I'm not using them, else I could completely drain the aura. That's why I added a mechanism that allows the motor to be disabled with a redstone signal.
+Essentia Powered Motor
+The vis in the aura is a precious resource and I'd rather use alternatives if I can find any. I might be able to power my mechanical machines with essentia instead.
+I've successfully created a motor that runs on essentia instead of vis, unfortunately it only works with certain types of essentia. For every motus essentia, this motor will run for 5 seconds with 30 mechanical power. For every potentia essentia, this motor will run for 2,5 seconds with 60 mechanical power. For every machina essentia, this motor will run for 10 seconds with 20 mechanical power. This motor can also be disabled with a redstone signal.

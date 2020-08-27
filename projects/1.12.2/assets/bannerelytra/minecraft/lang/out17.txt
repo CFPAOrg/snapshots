@@ -1,0 +1,63 @@
+Opped %s
+Could not op %s
+/op <player>
+De-opped %s
+Could not de-op %s
+/deop <player>
+/say <message ...>
+Banned player %s
+Could not ban player %s
+/ban <name> [reason ...]
+Unbanned player %s
+Could not unban player %s
+/pardon <name>
+You have entered an invalid IP address or a player that is not online
+Banned IP address %s
+Banned IP address %s belonging to %s
+/ban-ip <address|name> [reason ...]
+You have entered an invalid IP address
+Unbanned IP address %s
+/pardon-ip <address>
+/save-all [flush]
+Saving is already turned on
+/save-on
+Saving is already turned off
+/save-off
+Turned on world auto-saving
+Turned off world auto-saving
+Saving...
+Saved the world
+Saving failed: %s
+Flushing all saves...
+Flushing completed
+/stop
+Stopping the server
+/tp [target player] <destination player> OR /tp [target player] <x> <y> <z> [<yaw> <pitch>]
+Teleported %s to %s
+Teleported %s to %s, %s, %s
+Unable to teleport because players are not in the same dimension
+/teleport <entity> <x> <y> <z> [<y-rot> <x-rot>]
+Teleported %s to %s, %s, %s
+There are %s (out of %s seen) whitelisted players:
+Turned on the whitelist
+Turned off the whitelist
+Reloaded the whitelist
+Added %s to the whitelist
+Could not add %s to the whitelist
+/whitelist add <player>
+Removed %s from the whitelist
+Could not remove %s from the whitelist
+/whitelist remove <player>
+/whitelist <on|off|list|add|remove|reload>
+/advancement <grant|revoke|test> <player>
+No advancement was found by the name '%1$s'
+The advancement '%1$s' does not contain the criterion '%2$s'
+/reload
+Successfully reloaded loot tables, advancements and functions
+/function <name> [if <selector>|unless <selector>]
+Unknown function '%s'
+Executed %2$s command(s) from function '%1$s'
+Skipped execution of function '%1$s'
+/advancement grant <player> <only|until|from|through|everything>
+/advancement grant <player> only <advancement> [criterion]
+Couldn't grant the advancement '%1$s' to %2$s because they already have it

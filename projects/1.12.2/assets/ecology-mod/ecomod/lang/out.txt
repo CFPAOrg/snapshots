@@ -1,0 +1,8 @@
+Right-click the first item(set in the world) with the second
+Pollution Effect:
+Trigger Type:
+OR
+AND
+Triggered when at least one type of environmental pollution is greater than of this value.
+Triggered when environmental pollution is greater than this value in all types.
+Pollution Effects

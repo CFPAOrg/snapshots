@@ -1,0 +1,94 @@
+Conglomerate Native Platinum
+Conglomerate Hematite
+Conglomerate Native Silver
+Conglomerate Cassiterite
+Conglomerate Galena
+Conglomerate Bismuthinite
+Conglomerate Garnierite
+Conglomerate Malachite
+Conglomerate Magnetite
+Conglomerate Limonite
+Conglomerate Sphalerite
+Conglomerate Tetrahedrite
+Conglomerate Bituminous Coal
+Conglomerate Lignite
+Conglomerate Kaolinite
+Conglomerate Gypsum
+Conglomerate Satinspar
+Conglomerate Selenite
+Conglomerate Graphite
+Conglomerate Kimberlite
+Conglomerate Petrified Wood
+Conglomerate Sulfur
+Conglomerate Jet
+Conglomerate Microcline
+Conglomerate Pitchblende
+Conglomerate Cinnabar
+Conglomerate Cryolite
+Conglomerate Saltpeter
+Conglomerate Serpentine
+Conglomerate Sylvite
+Conglomerate Borax
+Conglomerate Olivine
+Conglomerate Lapis Lazuli
+Dolomite Native Copper
+Dolomite Native Gold
+Dolomite Native Platinum
+Dolomite Hematite
+Dolomite Native Silver
+Dolomite Cassiterite
+Dolomite Galena
+Dolomite Bismuthinite
+Dolomite Garnierite
+Dolomite Malachite
+Dolomite Magnetite
+Dolomite Limonite
+Dolomite Sphalerite
+Dolomite Tetrahedrite
+Dolomite Bituminous Coal
+Dolomite Lignite
+Dolomite Kaolinite
+Dolomite Gypsum
+Dolomite Satinspar
+Dolomite Selenite
+Dolomite Graphite
+Dolomite Kimberlite
+Dolomite Petrified Wood
+Dolomite Sulfur
+Dolomite Jet
+Dolomite Microcline
+Dolomite Pitchblende
+Dolomite Cinnabar
+Dolomite Cryolite
+Dolomite Saltpeter
+Dolomite Serpentine
+Dolomite Sylvite
+Dolomite Borax
+Dolomite Olivine
+Dolomite Lapis Lazuli
+Chert Native Copper
+Chert Native Gold
+Chert Native Platinum
+Chert Hematite
+Chert Native Silver
+Chert Cassiterite
+Chert Galena
+Chert Bismuthinite
+Chert Garnierite
+Chert Malachite
+Chert Magnetite
+Chert Limonite
+Chert Sphalerite
+Chert Tetrahedrite
+Chert Bituminous Coal
+Chert Lignite
+Chert Kaolinite
+Chert Gypsum
+Chert Satinspar
+Chert Selenite
+Chert Graphite
+Chert Kimberlite
+Chert Petrified Wood
+Chert Sulfur
+Chert Jet
+Chert Microcline

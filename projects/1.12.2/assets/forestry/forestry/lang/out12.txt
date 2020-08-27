@@ -1,0 +1,42 @@
+"There is no more noble occupation in the world than to breed another bee."|Binnie, Apiarist
+"I am Alpha and Omega, the beginning and the end, the first and the last."|Pahimar, beekeeper
+"Whatever you do, do not, I repeat, DO NOT drop the dragon e..."|"Sir" Sengir, Last Words
+Requiring massive amounts of alchemically bound matter, these little fellows could flood a world in energy.|Beekeeper's Lexicon
+"Rain in May promises much hay."|M. Ages, Rural Beekeeper
+"Crossbreeding with the desert kind was a mistake. My bees withdrew more and more from the outside world."|Beekeeping 101
+Not many bee species are able to survive in the nether. And even those are severly affected by their hellish environment.|Beekeeping 101
+"I was unsure whether it was alive as it lay there in the palm of my hand, glimmering and pulsating, oozing a coldness I never felt before. Then I heard the pile of bones behind me rattle..."|Beekeeping 101
+Considered extinct until some were found by adventurers in a deep dungeon.|Apiarist's Grimoire
+"Dance my pretties! Dance!"|Tipsy Witch of the East
+"Trick or Tricky Treat!"|Tricky Bee
+"My travels along the jungle river allowed me to catch many of these poisonous specimen. Unfortunately I had lost my only austere branch to crocodiles a while back."|Beekeeping 101
+Unweary. Then they die.|Beekeeping 101
+A rare subspecies rarely seen cohabiting in mundane hives.|Apiarist's Grimoire
+"Veni, vidi, vici!"|Apinus Julius Caesar
+"It ate my face! It ate my face!"|K.M.
+Common, but winter-hardened bee tribe; Cultivation in warmer climates is a challenge.|Beekeeping 101
+Agrarian
+Austere
+Boggy
+Common
+End
+Festive
+Frozen
+Heroic
+Industrious
+Infernal
+Monastic
+Noble
+Reddened
+Tropical
+Vengeful
+Princess
+Drone
+Queen
+Multi-Block: 3x3x3 with 3x1x3 wood slabs on the top
+Alveary
+Alveary Swarmer
+Alveary Fan
+Alveary Heater
+Alveary Hygroregulator
+Alveary Stabiliser

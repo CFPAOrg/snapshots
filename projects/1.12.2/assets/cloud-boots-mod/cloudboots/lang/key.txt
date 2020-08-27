@@ -1,0 +1,2 @@
+item.cloud_boots.name
+item.golden_feather.name

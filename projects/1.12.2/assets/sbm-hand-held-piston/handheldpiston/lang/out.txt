@@ -1,0 +1,13 @@
+Basic Hand-held Piston
+Sticky Hand-held Piston
+Advanced Hand-held Piston
+This block cannot be pushed.
+This tile entity cannot be pushed.
+Mode: §bAll
+Mode: §eEntity
+Mode: §cSelf
+Mode: §cAdvanced
+Hold §bSHIFT§f for more
+Adjusts piston settings
+§5While holding §bshift:
+§bMouse wheel §5to cycle modes

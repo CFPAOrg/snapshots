@@ -1,0 +1,117 @@
+Okra
+Peas
+Rhubarb
+Seaweed
+Winter Squash
+Zucchini
+Water Chestnut
+Tamarind
+Walnut
+Chestnut
+Fermented Saltwort
+Table Salt
+Crude Salt
+Sugar
+Brown Sugar
+Chili Powder
+Szechuan Peppercorn Powder
+Water
+Soy Sauce
+Sesame Oil
+Edible Oil
+Rice Vinegar
+Fruit Vinegar
+Drinks
+Smoothie
+%s Smoothie
+Gelo
+%s Gelo
+Soda
+%s Soda
+Wine
+%s Wine
+Snownee
+%s Snownee
+Soy Milk
+Milk
+Soy Sauce
+Sesame Oil
+Edible Oil
+Rice Vinegar
+Fruit Vinegar
+Beet Juice
+Sugarcane Juice
+Juice
+Food points: %.d
+Saturation: {0,number,#.##}
+Properties:
+Major ingredients:
+Seasonings:
+Remain: {0,choice,0#0 times|1#1 time|1<{0} times}
+Remain: %d mB
+{0,choice,0#0 serves|1#1 serve|1<{0} serves} left
+{0,choice,0#0 serves|1#1 serve|1<{0} serves} left
+<Hold Shift to show details>
+Watery crops
+Hellish crops
+Desert crops
+Crops from plain
+Crops from cave
+Crops from wetland
+Does not consume solvent
+Apparently this dish is empty, and it looks shining.
+Tips from Cuisine：
+You do not have Patchouli installed, so you cannot see the entire content in manual.
+Dispersal
+Hot
+Effect Resistance
+Cold Blood
+Fortified
+Drunk
+Potion of Dispersal
+Splash Potion of Dispersal
+Lingering Potion of Dispersal
+Arrow of Dispersal
+Potion of Hot
+Splash Potion of Hot
+Lingering Potion of Hot
+Arrow of Hot
+Potion of Cold Blood
+Splash Potion of Dispersal
+Lingering Potion of Dispersal
+Arrow of Cold Blood
+Potion of Fortification
+Splash Potion of Fortification
+Lingering Potion of Fortification
+Arrow of Fortification
+Crisp
+Aromatic
+Gelatinous
+Sticky
+Juicy
+Refreshing
+Oily
+Plain
+Undercooked
+Overcooked
+Double Chopping
+Skilled Chopping
+Bigger Size
+Fewer Losses
+Progression
+Progression-related variables
+Axe Chopping
+Allow chopping board to chop woods (for pack devs)
+Fully grown
+Growth: %d%%
+Cannot grow
+Mature
+Blossom
+Fruited
+Burn Time: %d
+Heat: %d°C
+Water amount: %d
+Oil amount: %d
+Progress:{0,choice,-1# suspended|0.0< {0,number,percent}|1.0<}
+Fluid: %s * %d mB
+Close

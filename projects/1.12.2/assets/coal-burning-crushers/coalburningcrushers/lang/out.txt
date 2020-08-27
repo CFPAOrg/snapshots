@@ -1,0 +1,31 @@
+Iron Dust
+Gold Dust
+Copper Dust
+Copper Ingot
+Tin Dust
+Tin Ingot
+Lead Dust
+Lead Ingot
+Uranium Dust
+Uranium Ingot
+Silver Dust
+Silver Ingot
+Aluminum Dust
+Aluminum Ingot
+Silicon
+Iron Crusher
+Iron Crusher
+Gold Crusher
+Gold Crusher
+Diamond Crusher
+Diamond Crusher
+Glass Crusher
+Glass Crusher
+Obsidian Crusher
+Obsidian Crusher
+Coal Burning Crushers
+Iron Crusher
+Gold Crusher
+Diamond Crusher
+Glass Crusher
+Obsidian Crusher

@@ -1,0 +1,116 @@
+Cinnabar Ore
+Ink Powder Ore
+Blackrock Ore
+Redins Ore
+Shell Ore
+Corundum Ore
+Nitre Ore
+Pyrophyllite Ore
+Iceland Spar Ore
+Spinel Ore
+Talcum Ore
+Tourmaline Ore
+Immersed Silver Ore
+Mithril Ore
+Adamantine Ore
+Inert Witherium Ore
+Witherium Ore
+Rutile Ore
+Polarium Ore
+Halleium Ore
+Altairium Ore
+Hothium Ore
+Tonium Ore
+Stellarium Ore
+Sun Stone Ore
+Moon Stone Ore
+Wild Tree Root
+Opal Ore
+Topaz Ore
+Lizanite Ore
+Cordierite Ore
+Prehnite Ore
+Proustite Ore
+Broken Bedrock Ore
+Vibrating Crystal Ore
+Lava Crystal Ore
+Steamium Ore
+Aventurine Ore
+Ulun Ore
+Potos Ore
+Furutorin Ore
+Heavesand Ore
+Chloroplast Ore
+Blood Sand
+Meteorolite
+Block of Cinnabar
+Block of Ink Powder
+Block of Stellarium
+Block of Royal Alloy
+Block of Immersed Silver
+Block of Mithril
+Block of Adamantine
+Block of Blackrock
+Block of Inert Witherium
+Block of Witherium
+Block of Corundum
+Block of Nitre
+Block of Pyrophyllite
+Block of Iceland Spar
+Block of Spinel
+Block of Talcum
+Block of Tourmaline
+Block of Redins
+Block of Titanium
+Block of Polarium
+Block of Halleium
+Block of Altairium
+Block of Hothium
+Block of Tonium
+Block of Cocoa
+Stellarium Obsidian
+Blood Pumpkin
+Weeping Pumpkin
+Consolidated Glass
+Coagulated Blood Sand
+Block of Sun Stone
+Block of Moon Stone
+Block of Irisia
+Fulgurite
+Block of Opal
+Block of Topaz
+Block of Lizanite
+Block of Cordierite
+Block of Prehnite
+Block of Proustite
+Cloud
+Block of Oraclium
+Block of Vibrating Crystal
+Block of Lava Crystal
+Block of Steamium
+Block of Aventurine
+Block of Ulun
+Block of Potos
+Block of Furutorin
+Block of Heavesand
+Block of Chloroplast
+Molten Royal Alloy
+Molten Stellarium
+Molten Hothium
+Molten Cinnabar
+Molten Immersed Silver
+Molten Mithril
+Molten Adamantine
+Molten Inert Witherium
+Molten Witherium
+Molten Polarium
+Molten Halleium
+Molten Altairium
+Molten Cocoa
+Molten Titanium
+Molten Tonium
+Molten Irisia
+Molten Oraclium
+Molten Steamium
+Molten Chloroplast
+Ender Turbulence

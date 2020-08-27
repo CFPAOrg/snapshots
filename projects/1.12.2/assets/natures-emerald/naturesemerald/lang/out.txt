@@ -1,0 +1,101 @@
+Kyanite Dust
+Fluorite Dust
+Kyanite Ingot
+Fluorite Ingot
+Jadeite
+Silicon
+Carbon
+Golden Beryl
+Raw Usha
+Cooked Usha
+Usha Biscuit
+Kyanite Ore
+Fluorite Ore
+Jadeite Ore
+Golden Beryl Ore
+Silicon Ore
+Carbon Ore
+Kyanite Block
+Fluorite Block
+Cooked Carrot
+Carrot N Potato
+Meat Mixture
+Jadeite Block
+Chick N Mutton
+Golden Beryl Block
+Silicon Block
+Carbon Block
+Carbon Plate
+Silicon Carbide
+Terra Fuse
+Terra Block
+Kyanite Axe
+Kyanite Pickaxe
+Kyanite Shovel
+Kyanite Sword
+Kyanite Hoe
+Fluorite Axe
+Fluorite Pickaxe
+Fluorite Shovel
+Fluorite Sword
+Fluorite Hoe
+Jadeite Axe
+Jadeite Pickaxe
+Jadeite Shovel
+Jadeite Sword
+Jadeite Hoe
+Kyanite Helmet
+Kyanite Chestplate
+Kyanite Leggings
+Kyanite Boots
+Fluorite Helmet
+Fluorite Chestplate
+Fluorite Leggings
+Fluorite Boots
+Jadeite Helmet
+Jadeite Chestplate
+Jadeite Leggings
+Jadeite Boots
+Beryl Helmet
+Beryl Chestplate
+Beryl Leggings
+Beryl Boots
+Ash Wood
+Ash Wood Planks
+Ash Leaves
+Ash Sapling
+Cedar Wood
+Cedar Wood Planks
+Cedar Leaves
+Cedar Sapling
+Terra
+Usha
+Berrenda
+Mira Flower
+Maya Flower
+Merlot Flower
+Marmalade Flower
+Apple Sauce
+Watermelon Sauce
+Pumpkin Sauce
+Rotten Flesh Soup
+Greenstone
+Polished Greenstone
+Greenstone Bricks
+Chiseled Greenstone Bricks
+Ash Wood Stairs
+Cedar Wood Stairs
+Aplosite Ore
+Aplosite Shard
+Aplosite Block
+Damper Dough
+Damper
+Raw Sirloin
+Cooked Sirloin
+Greenstone Stairs
+Polished Greenstone Stairs
+Natures Emerald Materials
+Natures Emerald Food
+Natures Emerald Blocks
+ Natures Emerald Tools
+ Natures Emerald Armor

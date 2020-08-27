@@ -1,0 +1,8 @@
+generator.chunk_survival
+chunk_survival.customize.title
+chunk_survival.customize.size
+chunk_survival.customize.spacing
+chunk_survival.customize.lava
+chunk_survival.customize.randomChunks
+chunk_survival.customize.chunkGrid
+chunk_survival.customize.probability

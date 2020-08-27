@@ -1,0 +1,41 @@
+Tiny Pile of Silicone Rubber Pulp
+Small Pile of Silicone Rubber Pulp
+Silicone Rubber Pulp
+Silicone Rubber Chip
+Dense Silicone Rubber Sheet
+Silicone Rubber Sheet
+Thin Silicone Rubber Sheet
+Polystyrene Bar
+Tiny Pile of Polystyrene Pulp
+Small Pile of Polystyrene Pulp
+Polystyrene Pulp
+Polystyrene Chip
+Dense Polystyrene Sheet
+Polystyrene Sheet
+Thin Polystyrene Sheet
+Styrene-Butadiene Rubber Bar
+Tiny Pile of Styrene-Butadiene Rubber Pulp
+Small Pile of Styrene-Butadiene Rubber Pulp
+Styrene-Butadiene Rubber Pulp
+Styrene-Butadiene Rubber Chip
+Dense Styrene-Butadiene Rubber Sheet
+Styrene-Butadiene Rubber Sheet
+Thin Styrene-Butadiene Rubber Sheet
+Tiny Pile of Mince Meat
+Small Pile of Mince Meat
+Mince Meat
+The Coke Oven is a 3x3 multiblock structure used for turning Coal into Coal Coke, Lignite into Lignite Coke and Logs into Charcoal, with Creosote Oil as a byproduct.
+The Assembly Line is a large multiblock structure consisting of 5 to 16 "slices". In theory, it's large Assembling Machine, used for creating advanced crafting components.
+The Fusion Reactor Mark 1 is a large multiblock structure used for fusing elements into heavier ones. The Mark 1 Fusion Reactor can use LuV, ZPM or UV Energy Hatches. For every Hatch it has its buffer increases by 100k.
+The Fusion Reactor Mark 2 is a large multiblock structure used for fusing elements into heavier ones. The Mark 2 Fusion Reactor can use ZPM or UV Energy Hatches. For every Hatch it has its buffer increases by 200k.
+The Fusion Reactor Mark 3 is a large multiblock structure used for fusing elements into heavier ones. The Mark 3 Fusion Reactor can only use UV Energy Hatches. For every Hatch it has its buffer increases by 400k.
+Curved %s Plate
+Double %s Ingot
+Microprocessor
+A Basic Circuit
+Programmed Circuit
+Integrated Logic Circuit
+A Basic Circuit
+Integrated Processor
+A Good Circuit
+Crystalprocessor Assembly

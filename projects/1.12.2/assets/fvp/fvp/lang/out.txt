@@ -1,0 +1,99 @@
+Fex's Vehicle Pack
+C1R1
+C2
+C4 (Van)
+C5 Classic
+C8
+C9
+Ci Dieci
+T1P
+Autobus 1B
+T2
+Universal Trailer 1
+Ci Undici
+T3
+C1R1 Wheel T1
+C1R1 Wheel T2
+C2R2T1 Wheel
+C4R1 Wheel
+T1 Back Wheel
+T1 Front Wheel
+T2 Wheel
+C10 Doors
+C10 Hood
+C10 Interior
+C10 Lights
+ C10 License Plates
+C10 Seats
+C10 Steering Wheel
+C10 Trailer Hitch
+C10 Trunk
+C1R1 Back Seats
+C1R1 Doors
+C1R1 Front Seats
+C1R1 Interior
+C1R1 Lights
+C1R1
+C2 Doors
+C2 Interior
+C2 Lights
+C2 Steering Wheel
+C4 Front Seats
+C4 Interior
+C4 Lights
+C4 Steering Wheel
+C5 Interior
+C5 Lights
+C5 Seats
+C5 Steering Wheel
+C9 Bumper
+C9 Doors
+C9 Hood
+C9 Interior
+C9 Lights
+C9 Seats
+C9 Steering Wheel
+C9 Trunk
+T1 Deflector
+T1 Front Seats
+T1 Lights
+T1 Snowplow
+T1 Steering Wheel
+T1 Trailer Connector
+T1 Cargobox
+T1 Tow Upgrade
+T1 Liquid Tank
+T1 Container Holder
+AB1 Doors
+AB1 Driver Seat
+AB1 Engine
+AB1 Generic Lights
+AB1 Passenger Seats
+AB1 Steering Wheel
+C8 Bumpers
+C8 Doors, Trunk and Hood
+C8 Interior
+C8 Lights
+C8 Seats
+C8 Steering Wheel
+T2 Doors
+T2 Interior
+T2 Lights
+T2 Rear Fenders
+T2 Side Skirts
+T2 Trailer Connector
+T2 Steering Wheel
+TR1 Container Holder
+TR1 Fenders
+TR1 License Plate
+TR1 Lights
+TR1 Type 1 Upgrade
+C11 Doors
+C11 Hood
+C11 Interior
+C11 Lights
+C11 Roof
+C11 Seats
+C11 Steering Wheel
+C11 Trunk
+ST1 Bogie

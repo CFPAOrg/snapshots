@@ -1,0 +1,46 @@
+If Tough as Nails is installed, Potions give water
+Restoration Potion Catalyst
+This is the Item Used to Craft this Potion in a Brewing Stand
+Fairy Effect Duration
+How Long in Ticks the Tranformation Lasts
+Fairy Potion Catalyst
+This is the Item Used to Craft this Potion in a Brewing Stand
+Dwarf Effect Duration
+How Long in Ticks the Tranformation Lasts
+Dwarf Potion Catalyst
+This is the Item Used to Craft this Potion in a Brewing Stand
+Titan Effect Duration
+How Long in Ticks the Tranformation Lasts
+Titan Potion Catalyst
+This is the Item Used to Craft this Potion in a Brewing Stand
+Potions work on Players only
+Whether the transformation potions should only work on players or if they should work on all mobs.
+Item Settings
+Ring of Enchanted Eyes Settings
+Prevent Blindness
+Should the Ring of Enchanted Eyes Prevent Blindness?
+Stone of Negative Gravity Settings
+Dragon's Eye Settings
+Treasure Finder
+Can The Dragon's Eye Detect Nearby Blocks
+Treasure Finder Range
+WARNING! SETTING THESE VALUES TOO HIGH WILL CAUSE YOU TO LAG. Try to Keep within a range of 4-16
+Vertical Distance
+How Far Vertically(Up, Down) in Blocks the Dragon's Eye effect triggers. Default 6, MIN 0, MAX 32
+Horizontal Distance
+How Far Horizontally(N, E, S, W) in Blocks the Dragon's Eye effect triggers. Default 12, MIN 0, MAX 32
+Block Settings
+Treasure Finder Block list
+What the Treasure Finding Feature of the Dragon's Eye can Detect
+Prevent Blindness
+Should the Dragon's Eye Prevent Blindness?
+Immune to Heat
+If Tough as Nails is Installed Should the player be Immune to Heat
+Dragon's Growl
+When The Treasure Finder is Enabled, Should There be a Growl the Treasure Finder Pings Treasure
+Dragon's Growl Trigger
+Determines When the Dragon's Growl Happens\nOptions:\nSNEAK\nSTAND\nBOTH
+Dragon's Growl Volume
+Dragon's Growl Volume Control
+Refresh Rate
+Determines of Often the Treasure Finder Pings for Treasure

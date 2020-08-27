@@ -1,0 +1,3 @@
+gulliverreborn.commands.mysize.usage
+gulliverreborn.commands.basesize.usage
+death.attack.gulliverreborn.crushing

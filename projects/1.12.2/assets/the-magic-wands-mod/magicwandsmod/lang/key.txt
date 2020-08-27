@@ -1,0 +1,6 @@
+tile.magicdustore.name
+key.mcreator.ultrakeybind1
+key.mcreator.ultrakeybind2
+itemGroup.tabmagicmodtab
+item.ultramagicwand.name
+item.magicdust.name

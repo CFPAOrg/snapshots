@@ -1,0 +1,15 @@
+Tangible Boundary
+The Tangible Boundary is a large invisible barrier with range %%val2 that you can pass through, but mobs, arrows, and other entities cannot. It will not replace solid blocks other than grass, nor will it replace water. %%n %%nIt drains %%val0 mana from the caster every %%val1 second(s).
+Gravity Boundary
+The Gravity Boundary increases the gravity for mobs other than the caster in an area of range %%val2. %%n %%nIt drains %%val0 mana from the caster every %%val1 second(s).
+Boundary of Drain Life
+The Boundary of Drain Life slowly drains health from nearby mobs in a range of %%val2. For every health drained, health, hunger, or mana is restored to the caster, in that order, according to the caster's needs. %%n %%nIt drains %%val0 mana from the caster every %%val1 second(s).
+Ascension
+This spell, when used without a cloth, will teleport any thing (including items and mobs) on top of it to the highest solid Y value it can find. The scroll version of this spell will simply transport the caster. %%n %%nIt drains %%val0 mana from the caster per teleport.
+Protective Displacement
+Ever wondered what it's like to be an Enderman? The Protective Displacement scroll will randomly teleport you when you would otherwise have been hit by an arrow. %%n %%nIt drains %%val0 mana from the caster when used, and provides a set number of teleports - it is not time based.
+Projectile Displacement
+A Projectile Displacement scroll teleports you to the last arrow you shot. %%n %%nIt drains %%val0 mana from the caster on use.
+Ordered Displacement
+An Ordered Displacement circle on the ground teleports any thing on top of it to a nearby Ordered Displacement circle. Which one it teleports you to depends on the order in which you placed the circles. You can sneak to stop teleporting. %%n %%nIt drains %%val0 mana from the caster per teleport.
+Equivalent Displacement

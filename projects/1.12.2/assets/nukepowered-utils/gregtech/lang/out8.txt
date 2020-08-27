@@ -1,0 +1,66 @@
+Alumino Silicate Wool
+Mica Based Pulp
+Mica Based Pulp
+Iron III Chloride
+Quartz Sand
+Electrical Steel
+Epoxy Resin Bar
+Tiny Pile of Epoxy Resin Pulp
+Small Pile of Epoxy Resin Pulp
+Epoxy Resin Pulp
+Epoxy Resin Chip
+Dense Epoxy Resin Sheet
+Epoxy Resin Sheet
+Thin Epoxy Resin Sheet
+Fiber-Reinforced Epoxy Resin Bar
+Tiny Pile of Fiber-Reinforced Epoxy Resin Pulp
+Small Pile of Fiber-Reinforced Epoxy Resin Pulp
+Fiber-Reinforced Epoxy Resin Pulp
+Fiber-Reinforced Epoxy Resin Chip
+Dense Fiber-Reinforced Epoxy Resin Sheet
+Fiber-Reinforced Epoxy Resin Sheet
+Thin Fiber-Reinforced Epoxy Resin Sheet
+Borosilicate Glass Bar
+Tiny Pile of Borosilicate Glass Pulp
+Small Pile of Borosilicate Glass Pulp
+Borosilicate Glass Pulp
+Borosilicate Glass Chip
+Dense Borosilicate Glass Sheet
+Borosilicate Glass Sheet
+Thin Borosilicate Glass Sheet
+Polyvinyl Chloride Bar
+Tiny Pile of Polyvinyl Chloride Pulp
+Small Pile of Polyvinyl Chloride Pulp
+Polyvinyl Chloride Pulp
+Polyvinyl Chloride Chip
+Dense Polyvinyl Chloride Sheet
+Polyvinyl Chloride Sheet
+Thin Polyvinyl Chloride Sheet
+Silicone Rubber Bar
+Tiny Pile of Silicone Rubber Pulp
+Small Pile of Silicone Rubber Pulp
+Silicone Rubber Pulp
+Silicone Rubber Chip
+Dense Silicone Rubber Sheet
+Silicone Rubber Sheet
+Thin Silicone Rubber Sheet
+Polystyrene Bar
+Tiny Pile of Polystyrene Pulp
+Small Pile of Polystyrene Pulp
+Polystyrene Pulp
+Polystyrene Chip
+Dense Polystyrene Sheet
+Polystyrene Sheet
+Thin Polystyrene Sheet
+Styrene-Butadiene Rubber Bar
+Tiny Pile of Styrene-Butadiene Rubber Pulp
+Small Pile of Styrene-Butadiene Rubber Pulp
+Styrene-Butadiene Rubber Pulp
+Styrene-Butadiene Rubber Chip
+Dense Styrene-Butadiene Rubber Sheet
+Styrene-Butadiene Rubber Sheet
+Thin Styrene-Butadiene Rubber Sheet
+Tiny Pile of Mince Meat
+Small Pile of Mince Meat
+Mince Meat
+The Assembly Line is a large multiblock structure consisting of 5 to 16 "slices". In theory, it's large Assembling Machine, used for creating advanced crafting components.

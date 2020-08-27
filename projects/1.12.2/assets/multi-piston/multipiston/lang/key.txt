@@ -1,0 +1,3 @@
+tile.multipiston.multipiston.name
+com.multipiston.coremod.gui.multipiston.range
+com.multipiston.coremod.gui.multipiston.speed

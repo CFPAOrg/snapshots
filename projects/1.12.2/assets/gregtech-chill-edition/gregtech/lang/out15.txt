@@ -1,0 +1,72 @@
+Steam Compressor
+High Pressure Steam Compressor
+Steam Forge Hammer
+High Pressure Steam Forge Hammer
+Steam Furnace
+High Pressure Steam Furnace
+Steam Alloy Smelter
+High Pressure Steam Alloy Smelter
+Basic Diesel Generator
+Intermediate Diesel Generator
+Advanced Diesel Generator
+Elite Diesel Generator
+Basic Steam Turbine
+Intermediate Steam Turbine
+Advanced Steam Turbine
+Elite Steam Turbine
+Basic Gas Turbine
+Intermediate Gas Turbine
+Advanced Gas Turbine
+Elite Gas Turbine
+Intermediate Magic Energy Absorber
+Advanced Magic Energy Absorber
+Elite Magic Energy Absorber
+Master Magic Energy Absorber
+Expert Magic Energy Absorber
+Max Voltage OUT: §a2048 §7(§aEV§7)/nCollects energy from ender crystals in 64 blocks/nEach ender crystal adds 32 EU/t to output/nPlace Dragon Egg on top to amplify output/n/nWhen amplified:/nEach ender crystal adds 128 EU/t
+Magic Energy Converter
+Voltage OUT: §a128 §7(§aMV§7)/nCollects essentia from containers within 16 blocks/nConsumes 20 Potentia per second
+Basic Electric Furnace
+Intermediate Electric Furnace
+Advanced Electric Furnace
+Elite Electric Furnace
+Basic Macerator
+Intermediate Macerator
+Advanced Macerator
+Elite Macerator
+Master Macerator
+Expert Macerator
+Ultimate Macerator
+Basic Alloy Smelter
+Intermediate Alloy Smelter
+Advanced Alloy Smelter
+Elite Alloy Smelter
+Master Alloy Smelter
+Expert Alloy Smelter
+Ultimate Alloy Smelter
+Basic Assembler
+Intermediate Assembler
+Advanced Assembler
+Elite Assembler
+Master Assembler
+Expert Assembler
+Ultimate Assembler
+Basic Autoclave
+Intermediate Autoclave
+Advanced Autoclave
+Elite Autoclave
+Master Autoclave
+Expert Autoclave
+Ultimate Autoclave
+Basic Bending Machine
+Intermediate Bending Machine
+Advanced Bending Machine
+Elite Bending Machine
+Master Bending Machine
+Elite Bending Machine
+Ultimate Bending Machine
+Basic Brewery
+Intermediate Brewery
+Advanced Brewery
+Elite Brewery
+Master Brewery

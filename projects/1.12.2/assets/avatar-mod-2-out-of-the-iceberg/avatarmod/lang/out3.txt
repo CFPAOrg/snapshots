@@ -1,0 +1,34 @@
+§2§l§oFlash §2§l§ofissure ;; Travels much faster and deals twice the damage
+§2§lRestore
+ Use the energy of the earth to aid you in combat, increasing your toughness.
+ Gain Resistance, but at the cost of your speed. The tortoise and the.... tortoise???
+ You can draw energy from the surrounding area to slowly heal yourself.
+ The amount of speed you lose is decreased, and your regeneration speed is increased. You also receive strength.
+ §2§l§oGuardian §2§l§oof §2§l§oLife ;; Your strength and resistance are increased.
+ §2§l§oSustenance §2§l§oof §2§l§oLife ;; You receive instantaneous health, and your hunger disappears.
+§c§lLight Fire
+A small, utility type ability to light fires. It's less practical in combat than some other abilities.
+You weren't able to light the fire. Maybe you should try again...
+When you don't succeed, keep trying, otherwise mobs will start spawning...
+Greater chance of creating fire
+Greater chance of creating fire
+§c§l§oFlame §c§l§odrive ;; Create a line of fire in the direction you're looking
+§c§l§oFlame §c§l§owall ;; Light nearby blocks on fire as well
+§c§lFire Arc
+Make a flaming whip of fire and throw it at your enemies.
+Create a fire arc
+Moves faster
+Tons more damage, and you can redirect fire arcs that you look at in a 3 block radius!
+§c§l§oLarge §c§l§ofire ;; Can make even more fire upon landing
+§c§l§oBoomerang ;; Comes back upon a successful hit
+§c§lFlamethrower
+Generate a stream of powerful, close-ranged flames. A trademark of Firebending.
+Attack within a short range
+Nearly twice as many flames; but more chi
+Longer range, more precise, HUUUUGE damage increase
+§c§l§oFlamestream ;; Extremely long-ranged, concentrated flames
+§c§l§oThe world will burn!! ;; Unfocused flames that create fires everywhere
+§c§lFireball
+Create a glowing orb of flame. It makes a firey explosion on impact.
+I ate too many chilies!
+Bigger, bigger explosion!!!

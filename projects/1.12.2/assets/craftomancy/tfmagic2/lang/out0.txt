@@ -1,0 +1,132 @@
+Craftomancy
+Mana Crystal
+Mana Crystal Ore
+Red Magite Ore
+Yellow Magite Ore
+Green Magite Ore
+Blue Magite Ore
+Black Magite Ore
+White Magite Ore
+Red Magite Block
+Yellow Magite Block
+Green Magite Block
+Blue Magite Block
+Black Magite Block
+White Magite Block
+Essence Extractor
+Arcane Infuser
+Mana Collector
+Sealed Arcana
+Keystone
+Red Magite
+Yellow Magite
+Green Magite
+Blue Magite
+Black Magite
+White Magite
+Scorchbloom
+Fluteweed
+Rockgrass
+Frostbell
+Brightroot
+Gloomthorn
+Red Charged Crystal
+Yellow Charged Crystal
+Green Charged Crystal
+Blue Charged Crystal
+Black Charged Crystal
+White Charged Crystal
+Magic Silk
+Arcane Soul
+Arcane Tome
+Music Disc
+Music Disc
+Music Disc
+Music Disc
+Music Disc
+Music Disc
+CactusCoffee - The Two of Us
+CactusCoffee - Climbing the Tower
+CactusCoffee - Footprints in the Sky
+CactusCoffee - Map and Compass
+CactusCoffee - Moments to Remember
+CactusCoffee - Where are We Going?
+Red Crystal Sword
+Yellow Crystal Sword
+Green Crystal Sword
+Blue Crystal Sword
+Black Crystal Sword
+White Crystal Sword
+Wooden Staff
+Iron Staff
+Obsidian Staff
+Underworld Staff
+Grand Staff
+Legendary Staff
+Red Mage Hood
+Red Mage Robes
+Red Mage Pants
+Red Mage Boots
+Yellow Mage Hood
+Yellow Mage Robes
+Yellow Mage Pants
+Yellow Mage Boots
+Green Mage Hood
+Green Mage Robes
+Green Mage Pants
+Green Mage Boots
+Blue Mage Hood
+Blue Mage Robes
+Blue Mage Pants
+Blue Mage Boots
+Black Mage Hood
+Black Mage Robes
+Black Mage Pants
+Black Mage Boots
+White Mage Hood
+White Mage Robes
+White Mage Pants
+White Mage Boots
+Ignite
+Grenade
+Pressure Cook
+Vulcanize
+Magma Shield
+Lava Bomb
+Eruption
+Flame Trail
+Solar Flare
+Haste
+Spark
+Acid Fog
+Airburst
+Tailwind
+Squall
+Megavolt
+Spirit Sentry
+Storm Call
+Siphon
+Venom
+Bloom
+Rockhide
+Excavate
+Fissure
+Blight
+Petrify
+Overgrow
+Ice Bullets
+Frostbite
+Wellspring
+Tidal Wave
+Chillstride
+Gills
+Crystallize
+Maelstrom
+Absolute Zero
+Chaos Orb
+Blind
+Curse
+Nullify
+Blink
+Seeker
+Vanish

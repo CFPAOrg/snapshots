@@ -1,0 +1,17 @@
+itemGroup.cases
+items.case.name
+cases.gui.open-btn
+cases.gui.accept-btn
+cases.condition.untouched
+cases.condition.minimal_wear
+cases.condition.used
+cases.condition.well_worn
+cases.condition.scarred
+cases.open-message
+cases.tooltip.broken
+cases.tooltip.contents
+commands.cases.reload_failed
+commands.cases.reload_success
+commands.cases.nbt
+commands.cases.nbt_empty
+commands.cases.usage

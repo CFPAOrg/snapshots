@@ -1,0 +1,6 @@
+itemGroup.malisisswitches
+tile.basicSwitch1.name
+tile.lightSwitch1.name
+tile.relay.name
+item.powerLinker.name
+item.greenstone_dust.name

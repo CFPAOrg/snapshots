@@ -1,0 +1,56 @@
+Consume 37500mB of Air and 10mB of Carbon Dioxide per Second .
+Use Liquid Hydrogen to boost by 3 the output energy (4mB/second /2048 EU/t)
+Default Efficiency is 60%%.
+Above LuV is 40%%
+Above ZPM is 20%%
+Above UV is 10%%
+Quicker than the Blast Furnace
+The Large Naquadah Reactor has no efficiency loss.
+Some Naquadah fuels react with Potassium Plasma and Produce more than 1UV.
+The Battery Tower is a large multiblock battery that can store large amounts of EU.
+All the cells in the tower need to be of the same tier and the tower will drain 10%% of the cells voltage per tick.
+The input/output hatches can not be of a higher tier than the tier of the cells.
+Screw to change recipe. Currently using: %s
+Efficiency: %s %%
+Energy using: %d EU
+Current Drilling Fluid: %.2fmB
+Overheat !
+Tile entity mode
+Entity mode
+Current Max Tiered Voltage: %d EU/t
+The framework casings define which tier of recipe the multiblock is able to run.
+Current size: %d
+Fuel Unit Left: %d Units
+Fuel Efficiency: %d %%
+Carbon Dioxide: %dmB
+Potassium Plasma: %dmb
+Liquid hydrogen: %dmB
+Air: %dmB
+Hydrogen needed to boost: %dmB
+Boosted !
+Current multiplier: %d
+Chunk: %d
+Chunk to mine: %d
+Speed: %d Blocks/tick
+Done !
+%d EU / %d EU
+Coolant: %s Min Temp: %dC
+Heat Produce: %d C/sec
+Rod Heat Factor: %d%%
+Produce Hot Coolant !
+Input: %s EU / %s Amps
+Output: %s EU / %s Amps
+Amps Input/t: %s
+Amps Output/t: %s
+Curved %s Plate
+Double %s Ingot
+Small %s Pipe
+%s Pipe
+Large %s Pipe
+%s Nitrate
+%s Dioxide
+%s Hexafluoride
+Sticky Resin
+Firebricks
+%s Metal Casing
+Structure: 3x3x4 (WxLxH) The entire structure is made out of Firebricks (32 in total)./nFirst Layer is a 3x3 square./nSecond, third, and fourth layers are hollow, without the middle block./nThis block goes on the middle of any side in the second layer./nThe sides of Blast Furnaces can be shared, if the side does not have a controller./n

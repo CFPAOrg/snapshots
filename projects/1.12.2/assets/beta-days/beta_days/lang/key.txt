@@ -1,0 +1,17 @@
+beta_days.general.gameplay_features.disablecombatcooldown
+beta_days.general.gameplay_features.disablesprinting
+beta_days.general.gameplay_features.hungerdisabled
+beta_days.general.gameplay_features.originalbow
+beta_days.general.gameplay_features.disableexperiencedrop
+beta_days.general.gameplay_features.disablefoodstacking
+beta_days.general.gameplay_features
+beta_days.general.clientside_features.customdimensionmessages
+beta_days.general.clientside_features.oldhud
+beta_days.general.clientside_features
+beta_days.general.clientside_features.disablenetherfog
+beta_days.general.clientside_features.disablecombatsounds
+beta_days.general.clientside_features.oldingameversion
+beta.menu.enterNether
+beta.menu.enterEnd
+beta.menu.leaveNether
+beta.menu.leaveEnd

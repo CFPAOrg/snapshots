@@ -1,0 +1,2 @@
+Your LOVE increased.
+Your earned %d EXP. (LOVE %d, Total EXP %d，EXP %d)

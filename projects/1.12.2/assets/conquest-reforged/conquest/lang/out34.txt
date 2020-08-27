@@ -1,0 +1,79 @@
+Dark Cobblestone Capital Directional
+Dark Cobble Sandstone Capital Directional
+Light Mortar Slate Capital Directional
+White Plaster Capital Directional
+none
+Clean Light Gray Stucco Capital Directional
+Clean Yellow Stucco Capital Directional
+Clean White Plaster Capital Directional
+Hewn Stone Tiles Capital Directional
+Plastered Stone Tiles Capital Directional
+Dark Gray Stonebrick Capital Directional
+none
+Dirty Sandstone Cobble Capital Directional
+Worn Peach Plaster Capital Directional
+Worn Dark Brown Plaster Capital Directional
+Yellow Cobblestone Plaster Capital Directional
+Light Blue Plaster Capital Directional
+Dry Stone Cobble Capital Directional
+Dark Sandstone  Capital Directional
+Harad Orange Wall Capital Directional
+Seashell Wall Capital Directional
+Travertine Slab Capital Directional
+Peach Stucco Capital Directional
+none
+Sandstone Column
+Red Column
+Blue Column
+Gold Column
+Marble Column
+Elven Clean Pillar
+Elven Wave Pillar
+Marble Ionian Capital
+Sandstone Ionian Column
+none
+none
+none
+Plastered Stone Wall
+Hewn Stone Wall
+Mossy Stone Brick Wall
+Stone Brick Wall
+Black Marble Column Wall
+Nether Brick Wall
+Brick Wall
+Dark Red Brick Wall
+Red Brick Wall
+Roman Brick Wall
+Travertine Brick Wall
+Big Sandstone Wall
+Sandstone Wall
+Sandstone Brick Wall
+Quartz Pillar Wall
+Red Roof Tiles Wall
+Pink Roof Tiles Wall
+Gray Roof Tiles Wall
+Brown Roof Tiles Wall
+Blue Roof Tiles Wall
+Cyan Roof Tiles Wall
+Light Blue Roof Tiles Wall
+Green Roof Tiles Wall
+Light Green Roof Tiles Wall
+Oxidized Copper Roof Wall
+Colorful Slate Wall
+Old Cobblestone Wall
+Frozen Cobblestone Wall
+Dark Iron Wall
+Cobblestone Wall
+Overgrown Cobblestone Wall
+Cobblestone with Vines Wall
+Cracked Stone Brick Wall
+Large Sandstone Slab Wall
+Portcullis Groove Wall
+Stone Pillar Wall
+Nether Brick Column Wall
+Big Nether Brick Wall
+Nether Brick Pillar Wall
+Red Tiles Wall
+Iron Wall
+Sandstone Column Wall
+Sandstone Capital Column Wall

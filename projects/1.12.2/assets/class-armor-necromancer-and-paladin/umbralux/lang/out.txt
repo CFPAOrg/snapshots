@@ -1,0 +1,29 @@
+Umbra Calvariae
+Necromancer Hood
+Necromancer Chestplate
+Necromancer Leggings
+Necromancer Boots
+Umbra KiteShield
+Gladius Lux
+Golden Lux Shield
+Paladin Helmet
+Paladin Chestplate
+Paladin Leggings
+Paladin Boots
+Dark Leather
+Gilded Iron
+Bone Plating
+Gilded Plating
+%1$s was obliterated by a necromancer's Minion.
+%1$s was obliterated by a necromancer's Minion while fighting %2$s.
+%1$s returns to the abyss of the Nether.
+%1$s was enlightened and went to meet his maker.
+%1$s was enlightened and got send by %2$s to meet his maker.
+Skeleton Minion
+Zombie Minion
+Necromancer Cloud
+Dreath Breath
+Zombie Minion
+Skeleton Minion
+Gladius Lux
+Necromancer and Paladin Classes

@@ -1,0 +1,39 @@
+Blocks
+Variants Drop
+Variants Still Drop with Silk Touch
+Shade Overlay Models
+Shade Overrides
+Enable Transparency
+Enable Advancements
+Background Block Imitation
+Generate Overlays from Resource Pack
+Enable Furnace Recipes
+Enable Ore Dictionary
+Automatically Disable Vanilla Variants
+Dense Ore Variants
+General Dense Ore Settings
+Enable Dense Variants
+Smelting Multiplier
+Drop Multiplier
+Random Drop Count
+Dense Ore Frequency
+Dense
+World Generation Settings
+Enable Generation Features
+Dimension Whitelist
+Biome Specific Generation
+Enable Vanilla Ore Generation
+Enable Vanilla Stone Generation
+Enable OSV Ore Generation
+Enable OSV Stone Generation
+Avoid Duplicate UBC Variants
+Large Ore Clusters
+Default Probability For Unselected Chunks
+Block Registry
+Block Registry
+Test For Duplicates
+Property Groups
+Block Groups
+Mod Support
+Ore Variants
+Dense Variants

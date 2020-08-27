@@ -1,0 +1,13 @@
+container.garden
+container.compostBin
+item.soilTestKit.name
+item.soilTestKitUsed.name
+item.compostPile.name
+itemGroup.gardenCore
+soilkit.rainfall
+soilkit.temperature
+item.gardenTrowel.name
+tile.gardenSoil.name
+tile.potteryTable.name
+tile.compostBin.name
+tile.gardenFarmland.name

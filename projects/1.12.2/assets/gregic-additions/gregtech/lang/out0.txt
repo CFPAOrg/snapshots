@@ -1,0 +1,97 @@
+Processor Assembly
+An Advanced Circuit
+Nanoprocessor Assembly
+An Extreme Circuit
+Wetwareprocessor Assembly
+An Ultimate Circuit
+Coated Circuit Board
+A Basic Board
+Epoxy Circuit Board
+An Advanced Board
+Fiber-Reinforced Circuit Board
+An Extreme Board
+Multilayer Fiber-Reinforced Circuit Board
+An Elite Board
+Phenolic Circuit Board
+A Good Board
+Plastic Circuit Board
+A Good Board
+Wetware Lifesupport Circuit Board
+The Board That Keeps Life
+Monocrystalline Silicon Boule
+Raw Circuit
+Glowstone doped Monocrystalline Silicon Boule
+Raw Circuit
+Naquadah doped Monocrystalline Silicon Boule
+Raw Circuit
+Coke Oven Brick
+Firebrick
+Advanced Electronic Circuit
+Good Integrated Circuit
+A Good Circuit
+Basic Circuit
+A Basic Circuit
+Vacuum Tube
+A Very Simple Circuit
+Diode
+Basic Electronic Component
+Capacitor
+Electronic Component
+Glass Fiber
+B(SiO2)7
+Glass Tube
+Petri Dish
+For Cultivating Cells
+Resistor
+Basic Electronic Component
+Small Coil
+Basic Electronic Component
+SMD Capacitor
+Electronic Component
+SMD Diode
+Electronic Component
+SMD Resistor
+Electronic Component
+SMD Transistor
+Electronic Component
+Transistor
+Basic Electronic Component
+Unfired Clay Brick
+Unfired Coke Oven Brick
+Compressed Fireclay
+Brick-Shaped
+Ultimate Crystalcomputer
+An Ultimate Circuit
+Elite Nanocomputer
+An Elite Circuit
+Master Quantumcomputer
+A Master Circuit
+Wetware Supercomputer
+A Super Circuit
+Crystalprocessor Mainframe
+A Super Circuit
+Nanoprocessor Mainframe
+A Master Circuit
+Mainframe
+An Elite Circuit
+Quantumprocessor Mainframe
+An Ultimate Circuit
+Wetware Mainframe
+An Infinite Circuit
+ASoC
+Advanced System on a Chip
+Integrated Logic Circuit
+Integrated Circuit
+Central Processing Unit
+Integrated Circuit
+High Power IC
+High Power Circuit
+NAND Memory Chip
+Integrated Circuit
+Nanocomponent Central Processing Unit
+Power Circuit
+NOR Memory Chip
+Integrated Circuit
+Power IC
+Power Circuit
+QBit Processing Unit

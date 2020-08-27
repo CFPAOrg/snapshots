@@ -1,0 +1,50 @@
+Scan Any Thaumcraft Boss
+Scan Void Sword
+Scan Void Axe
+Scan Oval Aer Crystal
+Scan Oval Ingis Crystal
+Scan Oval Aqua Crystal
+Scan Oval Terra Crystal
+Scan Oval Ordo Crystal
+Scan Oval Perditio Crystal
+Scan Helmet of Light
+Scan Chestplate of Light
+Scan Leggins of Light
+Scan Boots of Light
+Scan Shaded Helmet
+Scan Shaded Chestplate
+Scan Shaded Leggins
+Scan Boots
+Scan Oak Leaves
+Scan Tall Grass
+Scan Villager
+Scan Eldritch Guardian
+Scan Wither
+Scan Diamond
+Scan Emerald
+Scan Amber
+Scan Nether Quartz
+Scan Bow
+Scan Arrow
+Scan Iron Sword
+Scan Iron Pickaxe
+Scan Dechantment Table
+Scan Any Enchanted Book
+Scan Experience Orb
+Scan Eye of Ancient
+Scan Dragon Egg
+Scan Enderman
+Scan Ender Pearl
+Scan Crimson Portal
+Scan Thaumometr
+Scan Glass Block
+Scan Gemcutter Table
+Scan Goggles of Revealing
+Scan Echo Loc Lense
+Scan Night Vision Lense
+Scan Death Gaze Lense
+Scan Compass
+Scan Empty Map
+Scan End Portal
+Scan Nether Portal
+Scan Ender Eye

@@ -1,0 +1,5 @@
+item.opwoodensword.name
+item.opstonesetbody.name
+item.opstonesethelmet.name
+item.opstonesetlegs.name
+item.opstonesetboots.name

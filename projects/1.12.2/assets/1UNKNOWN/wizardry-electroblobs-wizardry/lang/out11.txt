@@ -1,0 +1,47 @@
+Telekinetic Disarmament
+Discovery Mode
+Enable Shift-Scrolling
+Minion Revenge Targeting
+Player Damage Scaling Factor
+NPC Damage Scaling Factor
+Cast Command Multiplier Limit
+Summoned Creature Target Whitelist
+Summoned Creature Target Blacklist
+Spell HUD Position
+Cast Spell Command Name
+Discover Spell Command Name
+Set Ally Command Name
+View Allies Command Name
+Mobs Immune To Fire
+Mobs Immune To Ice
+Mobs Immune To Lightning
+Mobs Immune To Wither
+Mobs Immune To Poison
+Frost Potion ID
+Transience Potion ID
+Fireskin Potion ID
+Ice Shroud Potion ID
+Static Aura Potion ID
+Decay Potion ID
+Sixth Sense Potion ID
+Arcane Jammer Potion ID
+Mind Trick Potion ID
+Mind Control Potion ID
+Font of Mana Potion ID
+Fear Potion ID
+Magic Sword Enchantment ID
+Magic Bow Enchantment ID
+Flaming Weapon Enchantment ID
+Freezing Weapon Enchantment ID
+Rarity of wizard towers. Higher numbers are rarer. Set to 0 to disable wizard towers completely.
+List of dimension ids in which crystal ore will generate. Note that removing the overworld (id 0) from this list will make the mod VERY difficult to play!
+List of dimension ids in which crystal flowers will generate.
+List of dimension ids in which wizard towers will generate.
+The chance for mobs to drop a spell book when killed. The greater this number, the more often they will drop. Set to 0 to disable spell book drops. Set to 200 for guaranteed drops.
+Whether to generate wizardry loot in dungeon chests.
+Whether firebombs can be crafted or not.
+Whether poison bombs can be crafted or not.
+Whether smoke bombs can be crafted or not.
+Whether to require a magic crystal in the shapeless crafting recipe for blank scrolls. Set to true if another mod adds a conflicting recipe.
+Whether players are allowed to teleport through unbreakable blocks (e.g. bedrock) using the phase step spell.
+Whether to show summoned creatures' names and owners above their heads.

@@ -1,0 +1,26 @@
+Black Iron Ingot
+Blood Iron Ingot
+Fire Ingot
+Crimson Ingot
+Cobalt Ingot
+Silver Ingot
+Black Iron Sword
+Fire Sword
+Blood Iron Sword
+Vampiric Sword
+Crimson Sword
+Cobalt Sword
+Silver Sword
+Infested Sword
+Block of Black Iron
+Block of Condensed Fire
+Block of Blood Iron
+Black Iron Ore
+Fire Ore
+Blood Iron Ore
+Crimson Ore
+Block of Crimson
+Block of Cobalt
+Cobalt Ore
+Block of Silver
+Silver Ore

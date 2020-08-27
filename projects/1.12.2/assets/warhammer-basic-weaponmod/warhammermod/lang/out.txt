@@ -1,0 +1,50 @@
+Cartridge
+Bullet
+Grenade
+Shotgun Shells
+Warpstone
+Beer
+Ghal Maraz
+War Pick
+Drakegun
+Thunderer Handgun
+Grudge-Raker
+Blunderbuss
+Diamond Chainmail Helmet
+Diamond Chainmail
+Diamond Chainmail Leggings
+Diamond Chainmail Boots
+Musket
+Nuln Repeater Handgun
+Flintlock Pistol
+Grenade Launcher
+Diamond Gunsword
+Iron Gunsword
+Warplock Jezzail
+Sling
+Ratling Gun
+Wooden Spear
+Stone Spear
+Iron Spear
+Gold Spear
+Diamond Spear
+Diamond Warhammer
+wooden Warhammer
+stone Warhammer
+iron Warhammer
+gold Warhammer
+Wooden Knife
+Stone Knife
+Iron Knife
+Gold Knife
+Diamond Knife
+Diamond Halberd
+Gold Halberd
+Iron Halberd
+Stone Halberd
+Wooden Halberd
+Dwarf
+Pegasus
+Pirate Skeleton
+skaven
+tblock

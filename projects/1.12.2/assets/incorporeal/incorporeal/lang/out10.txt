@@ -1,0 +1,11 @@
+Take my hand, crush it up
+Does nothing whatsoever. This is the state &1Cygnus Words&0 come in when you place them.
+Pops the top item off of the &4stack&0, then pushes it back on twice, duplicating it. Works on any datatype and never pushes an error, unless the &4stack&0 is empty, in which case it pushes a &3Stack underflow&0.
+Pops the top two items off of the &4stack&0 and pushes their sum. Instead, pushes an &3Invalid math operation: Too big&0 or &3Too small&0 if the value is larger or smaller than the maximum number.
+Pops the top two items off of the &4stack&0 and pushes the top item minus the second item. Instead, pushes an &3Invalid math operation: Too big&0 or &3Too small&0 if the value is larger or smaller than the maximum number.
+Works the same as addition, but pushes their product instead! All the same possible errors apply.
+Works the same as subtraction, but pushes their quotient instead! All the same possible errors apply, with the additional requirement that the second number must not be 0 lest an &3Invalid math operation: Divide by zero&0 is pushed.
+Works the same as division, but computes the remainder of the first number divided by the second number, instead of the quotient. This operation is sometimes called "mod" or "modulus", and the second number still cannot be zero.
+Pops a &3Corporea Request&0 off the top of the &4stack&0, and pushes a &3Number&0 representing its size (i.e. it turns &35 white wool&0 into just &35&0).
+Pops a &3Number&0 off the top of the &4stack&0, then pops a &3Corporea Request&0, and pushes a new &3Corporea Request&0 with its count set to the value of the &3Number&0 (i.e. it turns a &4stack&0 with the number &35&0 at the head and the request &31 white wool&0 below it into a &4stack&0 with &35 white wool&0 at the head).
+Pops two &3Corporea Requests&0 off the top, then pushes a new &3Corporea Request&0 where the item is set from the request on the top and the count is set from the request on the bottom (i.e. it turns a stack with the request &35 white wool&0 at the head and the request &364 diamond block&0 below it into a stack with &364 white wool&0 at the head).

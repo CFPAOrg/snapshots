@@ -1,0 +1,84 @@
+Drowned King
+§bAquatic Pie
+Kraken
+§eRing of No Fire
+§bAquatic Gem
+Trident (2)
+§bAquatic Helmet
+§3Super §bFish §fSword
+§3Aquatic Lucky Leggings
+§eRing of No Damage
+Lucky Structure Block
+§3Disguised §bFish§f Leggings
+§bSecret Structure
+§0Stealth §8Fish§7 Leggings
+§0Stealth §8Fish§7 Body
+§bAquatic Melon
+§bPrismarine §7Bridge Builder
+§bFish §3Block
+§6Super §eFlying§f Boots
+Prismarine Crate
+§bSolid Water Block
+§6Super §eFlying§f Leggings
+§3Prismarine §bPickaxe
+§bAquatic Leggings
+§8Cobblestone§7 Bridge Builder
+§0Stealth §8Fish§7 Boots
+§3Disguised §bFish§f Chestplate
+§6Super §eFlying§f Chestplate
+§bFish Temple
+§3Prismarine §bPlasma §fGun
+§5Dead Infection§d Block
+§bAquatic Gemstone
+Magical Water
+§bMagic §3Trident
+§3§lSuper §b§lPrismarine §f§lBlaster
+§6Super §eFlying§f Helmet
+test Leggings
+Drowned
+Evil Lucky Block
+§e§lMonocles§6§l
+§3§lSea §b§lCrown Boots
+§3Water §bCannon
+erroritem
+§3§lSea §b§lCrown Body
+§3Prismarine §bSword
+§3Disguised §bFish§f Boots
+Golden Apple
+§3Disguised §bFish§f Helmet
+§bLucky Maze
+§0Stealth §8Fish§7 Helmet
+§bAquatic Boots
+Swarm
+§b§lAquatic Sword
+§eRing of Good Effects
+test Helmet
+§b§lAquatic Apple
+§e§lMonocles§6§l Body
+Trident (1)
+§bSuper Mega Prismarine Hammer
+§5Infection§d Block §4REMOVED
+Fish Structure Lucky Block
+§bOcean Monument
+§5Dead Infection§d Block
+§aLoot Bag
+§3Aquatic Lucky Helmet
+Golden Apple
+§3§lSea §b§lCrown Leggings
+test Boots
+§e§lMonocles§6§l Leggings
+§b§lOverpowered §3§lFish Wand
+§eSponge Barrier
+§eSponge §6Cannon
+Cannon Ball
+§3Aquatic Lucky Boots
+§e§lMonocles§6§l Boots
+§bAquatic Body
+§3§lSea §b§lCrown
+§eRing of Arrow Firing
+test Body
+§3Aquatic Lucky Chestplate
+Splash Potion of TNT
+§6§lGolden Sheet
+§eRing of Flight
+Sea Weed

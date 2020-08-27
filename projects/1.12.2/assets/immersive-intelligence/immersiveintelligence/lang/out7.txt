@@ -1,0 +1,15 @@
+Basic circuits are used to make basic-tier electronic devices and machines, such as the Printing Press, the <link;arithmetic_logic_machine;§o§nArithmetic-Logic §o§nMachine§r;> and the <link;data_input_machine;§o§nData §o§nInput §o§nMachine§r;>.
+Advanced circuits are a direct upgrade to their predecessors, they still use vacuum tubes, but because of the new alloy used, their capabilities are much better. They are made of an upgraded circuit board and a chip composed of upgraded vacuum tubes.
+Because of their fast transmission rate, they can be refitted for performing more advanced arithmetic, logic, text and even item-processing operations. Because of their superior speed, they are used in wireless transmission and advanced computing machines.
+Processor circuits are the most advanced and powerful circuits in the world, crafted using silicon, advanced electronic alloy and various other materials during a multi-step assembly process.
+Currently processors are not used in making anything, so build them more as a challenge than an actually needed item.
+Chemical Bath
+The Bulbulator
+The Chemical Bath is a machine, constructed of an industrial-size steel bathtub and a moving carriage with a grasper. The machine is commonly used for etching raw circuits in acid. To form it use a hammer on the middle sheetmetal block.
+Precision Assembler
+The Godly Artisan
+The Precision Assembler is an advanced machine used for crafting items with high precision. It requires an Assembly Scheme and some precise tools for operation. To form it, use a hammer on the wooden scaffolding block.
+the machine uses only the amount it needs and outputs scrap along with the produced item. Its most common use is electonic component production.
+Electrolyzer
+The fluid shock therapy
+The Electrolyzer is a machine which uses the electrolysis process to split a fluid into two different ones. It can split water into hydrogen and oxygen and brine into chlorine and hydrogen. It requires electricity to operate. To form the block, use a hammer on the heavy engineering block in front of the machine.

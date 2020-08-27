@@ -1,0 +1,72 @@
+Maximum Pachycephalosaurus herd size
+Pachycephalosaurus Spawns (Vanilla)
+Parasaurolophus Settings
+Spawn Parasaurolophus?
+Minimum Parasaurolophus herd size
+Maximum Parasaurolophus herd size
+Parasaurolophus Spawns (Vanilla)
+Phorusrhacos Settings
+Spawn Phorusrhacos?
+Minimum Phorusrhacos flock size
+Maximum Phorusrhacos flock size
+Phorusrhacos Spawns (Vanilla)
+Platybelodon Settings
+Spawn Platybelodon?
+Minimum Platybelodon herd size
+Maximum Platybelodon herd size
+Platybelodon Spawns (Vanilla)
+Plesiosaurus Settings
+Spawn Plesiosaurus?
+Minimum Plesiosaurus school size
+Maximum Plesiosaurus school size
+Plesiosaurus Spawns (Vanilla)
+Pteranodon Settings
+Spawn Pteranodon?
+Minimum Pteranodon flock size
+Maximum Pteranodon flock size
+Pteranodon Spawns (Vanilla)
+Quagga Settings
+Spawn Quagga?
+Minimum Quagga herd size
+Maximum Quagga herd size
+Quagga Spawns (Vanilla)
+Sarcosuchus Settings
+Spawn Sarcosuchus?
+Minimum Sarcosuchus group size
+Maximum Sarcosuchus group size
+Sarcosuchus Spawns (Vanilla)
+Smilodon Settings
+Spawn Smilodon?
+Minimum Smilodon pack size
+Maximum Smilodon pack size
+Smilodon Spawns (Vanilla)
+Spinosaurus Settings
+Spawn Spinosaurus?
+Minimum Spinosaurus group size
+Maximum Spinosaurus group size
+Spinosaurus Spawns (Vanilla)
+Stegosaurus Settings
+Spawn Stegosaurus?
+Minimum Stegosaurus herd size
+Maximum Stegosaurus herd size
+Stegosaurus Spawns (Vanilla)
+Therizinosaurus Settings
+Spawn Therizinosaurus?
+Minimum Therizinosaurus herd size
+Maximum Therizinosaurus herd size
+Therizinosaurus Spawns (Vanilla)
+Tiktaalik Settings
+Spawn Tiktaalik?
+Minimum Tiktaalik school size
+Maximum Tiktaalik school size
+Tiktaalik Spawns (Vanilla)
+Titanis Settings
+Spawn Titanis?
+Minimum Titanis flock size
+Maximum Titanis flock size
+Titanis Spawns (Vanilla)
+Triceratops Settings
+Spawn Triceratops?
+Minimum Triceratops herd size
+Maximum Triceratops herd size
+Triceratops Spawns (Vanilla)

@@ -1,0 +1,83 @@
+Impulse Spells
+Elemental Spells
+Projectiles
+Trinity
+Arc
+Range Modifier
+Lobbing Modifiers
+Advanced Targeting
+Javelin
+Channeling
+AOE Targeting
+Projectile Scattering
+Blink
+Shadow Strike
+Void Damage
+Gravity Well
+Spell Amplification
+Spell Efficiency
+Disk
+Blasting
+Arcane Archery
+Void Energy
+Arcane Forge
+Arcane Furnace
+§BBasin Recipes Completed:
+§BWater Tool Effects Used:
+§BEarth Tool Effects Used:
+§BFire Tool Effects Used:
+§BFalls Survived:
+§BLight Tool Effects Used:
+§BDark Tool Effects Used:
+§BSpells Cast with Staff:
+§BSpells Cast with Staff (Mana Cost > 2):
+§BMobs hit with Staff:
+§BMobs hit with Staff (Golden Caps):
+§BRitual Circles Drawn:
+Help Screen
+To complete the research you simply have to redirect the beam using the provided mirrors such that it reaches all of the end points at once. Mirrors are placed by Left-Clicking them onto a tile, they can be removed by holding Shift while Left-Clicking. Mirrors can be rotated using the mouse wheel (This can be done in the placement preview and even on already placed mirrors), or by Right-Clicking placed ones (Holding shift when Right-Clicking will rotate the mirror the other way). Holding Shift while scrolling on an empty tile will cycle through the mirror types, you can also just click on the buttons to change the type.
+Current Objective
+Meeting of Minds
+Open your quest journal (Default: X)
+Start Instance: Arcane Creator
+Finish Instance: Arcane Creator
+Translate the Arcana Mysterium
+Arcane Creator
+§cNo valuable blocks detected!
+§BInsufficient Levels!
+froze to death
+became waterlogged
+returned to the earth
+became ash
+was blown away
+became drained
+lost their mind
+was consumed by shadows
+fused with the void
+Current:§B
+Targeting
+Spell
+Modifier
+Current Spell:
+Self
+Touch
+Projectile
+Selected Block
+AOE
+Trinity
+Arc
+Javelin
+Scatter
+Channeling
+Disk
+Amplified
+Ranged
+Frugal
+Lobbing
+Healing
+Regeneration
+Blink
+Dig
+Pull
+Push
+Lift

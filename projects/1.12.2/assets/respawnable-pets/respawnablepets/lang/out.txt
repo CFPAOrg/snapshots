@@ -1,0 +1,6 @@
+Etheric Gem
+Allows you to toggle pet respawning by punching
+%s will now respawn on death
+%s will no longer respawn on death
+%s does not belong to you
+%s is a blacklisted entity

@@ -1,0 +1,70 @@
+On TileEntity mode only adjacent blocks are speedup. On Random Tick, it is %dx%d blocks radius.
+Nuclear Reactor
+Nuclear Breeder Reactor
+Boiling Uranium Nuclear Reactor
+Boiling Plutonium Nuclear Reactor
+Simple Ore Washer
+Instead of using cauldron...
+Producing The Purest Of Elements
+Fusion Reactor Computer Mark 1
+Fusion Reactor Computer Mark 2
+Fusion Reactor Computer Mark 3
+Basic Chunk Miner
+Advanced Chunk Miner
+Advanced Chunk Miner II
+Basic Large Miner
+Large Miner
+Advanced Large Miner
+Mine all ore in an area of %dx%d Chunks. Break down Ore as Hammer tool using fortune %s.
+Mine all ores in the current chunk.
+Consume %dmb of %s per tick
+Hot Coolant Rotor Holder (ULV)
+Hot Coolant Rotor Holder (LV)
+Hot Coolant Rotor Holder (MV)
+Hot Coolant Rotor Holder (HV)
+Hot Coolant Rotor Holder (EV)
+Hot Coolant Rotor Holder (IV)
+Hot Coolant Rotor Holder (LuV)
+Hot Coolant Rotor Holder (ZPM)
+Hot Coolant Rotor Holder (UV)
+Hot Coolant Rotor Holder (MAX)
+Filtered Output Hatch (ULV)
+Filtered Output Hatch (LV)
+Filtered Output Hatch (MV)
+Filtered Output Hatch (HV)
+Filtered Output Hatch (EV)
+Filtered Output Hatch (IV)
+Filtered Output Hatch (LuV)
+Filtered Output Hatch (ZPM)
+Filtered Output Hatch (UV)
+Filtered Output Hatch (MAX)
+[Deprecated] Coke Oven Chute
+[Deprecated] Coke Oven Faucet
+Coke Oven Bricks
+Assembly Line Casing
+Chemically Inert Casing
+Assembler Casing
+Integral Framework I
+§eMax Voltage ULV
+Integral Framework II
+§eMax Voltage LV
+Integral Framework III
+§eMax Voltage MV
+Integral Framework IV
+§eMax Voltage HV
+Integral Framework V
+§eMax Voltage EV
+Integral Framework VI
+§eMax Voltage IV
+Integral Framework VII
+§eMax Voltage LuV
+Integral Framework VIII
+§eMax Voltage ZPM
+Integral Framework IX
+§eMax Voltage UV
+Integral Framework X
+§eMax Voltage MAX
+Reinforced Glass
+Borosilicate Reinforced Glass
+Nickel Reinforced Glass
+Chrome Reinforced Glass

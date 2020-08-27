@@ -1,0 +1,54 @@
+No entries in found in the journal of %s
+The journal of %s contains the following entries:
+ Mobs: %s
+ Players: %s
+/journal list [optional target]
+Mob name %s was not recognised
+Couldn't find player %s
+Removed %s from the journal of %s
+/journal remove [optional target] [entry]
+Added the following types to %s: %s
+/types add [username or namespace identifier] [types]
+Removed all creature types from %s
+/types clear [username or namespace identifier]
+Definition of %s:
+/types define [creature type]
+Found nothing for %s
+  Mobs: %s
+  Players: %s
+Found the following for %s:
+/types list [creature type]
+Removed type %s from %s
+/types remove [username or namespace identifier] [creature type]
+Set the creature types of %s to %s
+/types set [username or namespace identifier] [creature types...]
+%s has no assigned creature types
+/types view [username or namespace identifier]
+%s returned the following creature types: %s
+/query <biomes/spawns>
+/biomequery biomes [count/here/source name]
+Current registered biomes:
+There are currently %s registered biomes
+Found %s registered biomes for %s:
+Found no registered biomes for %s:
+This is a %s biome
+/biomequery spawns <biome name>
+Spawns present in %s:
+/dim <dimension name or ID>
+Teleporting %s to %s dimension
+Teleporting %s to %s dimension at [%s, %s, %s]
+Error parsing dimension!
+/faction <add/read/remove/reset/set>
+Increased reputation of %s with %s to %s
+/faction add [optional target] [faction] [value]
+Reputation of %s with %s: %s
+/faction read [optional target] [faction]
+Decreased reputation of %s with %s to %s
+/faction remove [optional target] [faction] [value]
+Reset reputation of %s with %s to %s
+/faction reset [optional target] [faction]
+Set reputation of %s with %s to %s
+/faction set [optional target] [faction] [value]
+/pact <clear/decrement/endgame/increment/read/set>
+Cleared the current pact of %s
+Decremented the pact of %s to level %s

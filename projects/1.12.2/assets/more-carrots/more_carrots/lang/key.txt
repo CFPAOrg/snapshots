@@ -1,0 +1,9 @@
+item.compressedcarrot.name
+item.quintuplecompressedcarrot.name
+item.doublecompressedcarrot.name
+item.septuplecompressedcarrot.name
+itemGroup.tabmorecarrots
+item.triplecompressedcarrot.name
+item.sextuplecompressedcarrtot.name
+item.quadruplecompressedcarrot.name
+item.octuplecompressedcarrot.name

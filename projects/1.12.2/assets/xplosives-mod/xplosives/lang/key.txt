@@ -1,0 +1,16 @@
+item.detonator_remote.name
+item.hand_cannon.name
+item.dynamite.name
+tile.detonator.name
+tile.packed_tnt.name
+tile.fireblast_tnt.name
+tile.cluster_bomb.name
+tile.physics_bomb.name
+tile.bonemeal_bomb.name
+tile.lightning_conductor.name
+tile.incendiary_bomb.name
+tile.hydrogen_bomb.name
+tile.arrow_bomb.name
+tile.tipped_arrow_bomb.name
+tile.snowball_bomb.name
+itemGroup.Explosives

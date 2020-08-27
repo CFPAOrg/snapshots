@@ -1,0 +1,92 @@
+Cataclasite Spodumene
+Cataclasite Stibnite
+Cataclasite Mawsonite
+Cataclasite Beryl
+Cataclasite Zircon
+Cataclasite Villiaumite
+Cataclasite Rhodochrosite
+Cataclasite Fluorite
+Cataclasite Carobbiite
+Cataclasite Arsenic
+Cataclasite Spike 
+Cataclasite Button 
+Cataclasite Rock
+Cataclasite Brick
+Raw Cataclasite
+Smooth Cataclasite
+Cataclasite Cobble
+Cataclasite Bricks
+Cataclasite Sand
+Cataclasite Gravel
+Cataclasite Dirt
+Cataclasite Clay
+Cataclasite Grass
+Cataclasite Dry Grass
+Cataclasite Clay Grass
+Cataclasite Path
+Cataclasite FarmLand
+Smooth Cataclasite Stairs
+Cataclasite Cobble Stairs
+Cataclasite Bricks Stairs
+Smooth Cataclasite Slab
+Cataclasite Cobble Slab
+Cataclasite Bricks Slab
+Smooth Cataclasite Double Slab
+Cobble Cataclasite Double Slab
+Bricks Cataclasite Double Slab
+Smooth Cataclasite Wall
+Cataclasite Cobble Wall
+Cataclasite Bricks Wall
+Mylonite Native Copper
+Mylonite Native Gold
+Mylonite Native Platinum
+Mylonite Hematite
+Mylonite Native Silver
+Mylonite Cassiterite
+Mylonite Galena
+Mylonite Bismuthinite
+Mylonite Garnierite
+Mylonite Malachite
+Mylonite Magnetite
+Mylonite Limonite
+Mylonite Sphalerite
+Mylonite Tetrahedrite
+Mylonite Bituminous Coal
+Mylonite Lignite
+Mylonite Kaolinite
+Mylonite Gypsum
+Mylonite Satinspar
+Mylonite Selenite
+Mylonite Graphite
+Mylonite Kimberlite
+Mylonite Petrified Wood
+Mylonite Sulfur
+Mylonite Jet
+Mylonite Microcline
+Mylonite Pitchblende
+Mylonite Cinnabar
+Mylonite Cryolite
+Mylonite Saltpeter
+Mylonite Serpentine
+Mylonite Sylvite
+Mylonite Borax
+Mylonite Olivine
+Mylonite Lapis Lazuli
+Mylonite Native Ardite
+Mylonite Rutile
+Mylonite Native Osmium
+Mylonite Bauxite
+Mylonite Wolframite
+Mylonite Cobaltite
+Mylonite Thorianite
+Mylonite Chromite
+Mylonite Pyrolusite
+Mylonite Magnesite
+Mylonite Spodumene
+Mylonite Stibnite
+Mylonite Mawsonite
+Mylonite Beryl
+Mylonite Zircon
+Mylonite Villiaumite
+Mylonite Rhodochrosite
+Mylonite Fluorite

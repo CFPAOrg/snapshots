@@ -1,0 +1,68 @@
+General
+General options.
+Alignment
+Alignment offset options.
+Filename
+The configuration that should be loaded on startup.
+Replace Debug Overlay
+Replace the debug overlay (F3) with the SimpleTextOverlay overlay.
+Debug Overlay File
+The file used for the debug overlay (F3).
+Show in Chat
+Display the overlay in chat.
+Show on Player List
+Display the overlay on the player list.
+Scale
+The overlay will be scaled by this amount.
+Show Potion Effects
+Display the vanilla potion effects overlay.
+Show Item Overlay
+Display the item overlay on icon (durability, stack size).
+Top Left
+Offsets for the top left side of the screen (X<space>Y).
+Top Center
+Offsets for the top center side of the screen (X<space>Y).
+Top Right
+Offsets for the top right side of the screen (X<space>Y).
+Middle Left
+Offsets for the middle left side of the screen (X<space>Y).
+Middle Center
+Offsets for the middle center side of the screen (X<space>Y).
+Middle Right
+Offsets for the middle right side of the screen (X<space>Y).
+Bottom Left
+Offsets for the bottom left side of the screen (X<space>Y).
+Bottom Center
+Offsets for the bottom center side of the screen (X<space>Y).
+Bottom Right
+Offsets for the bottom right side of the screen (X<space>Y).
+Tag List
+Formatting
+Miscellaneous
+Mouse Over
+Nearby Players
+Player - Equipment
+Player - General
+Player - Position
+Player - Potion Effects
+Riding
+Time
+World
+Black color (§0EXAMPLE§r).
+Dark blue color (§1EXAMPLE§r).
+Dark green color (§2EXAMPLE§r).
+Dark aqua color (§3EXAMPLE§r).
+Dark red color (§4EXAMPLE§r).
+Dark purple color (§5EXAMPLE§r).
+Gold color (§6EXAMPLE§r).
+Gray color (§7EXAMPLE§r).
+Dark grey color (§8EXAMPLE§r).
+Blue color (§9EXAMPLE§r).
+Green color (§aEXAMPLE§r).
+Aqua color (§bEXAMPLE§r).
+Red color (§cEXAMPLE§r).
+Light purple color (§dEXAMPLE§r).
+Yellow color (§eEXAMPLE§r).
+White color (§fEXAMPLE§r).
+Obfuscated text (§kEXAMPLE§r).
+Bold text (§lEXAMPLE§r).

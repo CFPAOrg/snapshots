@@ -1,0 +1,87 @@
+Minestrapp Environmental Blocks
+Minestrapp Wood Blocks
+Minestrapp Stone Blocks
+Minestrapp Ores
+Minestrapp Resource Blocks
+Minestrapp Minerals
+Minestrapp Crafting Ingredients
+Minestrapp Food
+Minestrapp Dyeables
+Minestrapp Decorative Blocks
+Minestrapp Utility Blocks
+Minestrapp Tools
+Minestrapp Combat
+Cow Hide
+Clay Brick
+Iron Cauldron
+Human Skull
+Clay Bricks
+Iron Cauldron
+Chiseled Stone Monster Egg
+Clay Brick Stairs
+Cobblestone Stairs
+Oak Plank Stairs
+Acacia Plank Stairs
+Birch Plank Stairs
+Dark Oak Plank Stairs
+Jungle Plank Stairs
+Spruce Plank Stairs
+Mossy Cobblestone
+Clay Brick Slab
+Stone Brick Slab
+Chiseled Stone
+Acacia Plank Slab
+Dark Oak Plank Slab
+Birch Plank Slab
+Jungle Plank Slab
+Oak Plank Slab
+Spruce Plank Slab
+Glowpumpkin
+Wheat Seeds
+Polished Nether Quartz
+Polished Nether Quartz
+Chiseled Nether Quartz
+Nether Quartz Pillar
+Nether Quartz Slab
+Nether Quartz Stairs
+Potion of Infection
+Potion of Water Aversion
+Potion of Grip
+Potion of Restoration
+Potion of Angst
+Potion of Calm
+Potion of Efficiency
+Potion of Lethargy
+Splash Potion of Infection
+Splash Potion of Water Aversion
+Splash Potion of Grip
+Splash Potion of Restoration
+Splash Potion of Angst
+Splash Potion of Calm
+Splash Potion of Efficiency
+Splash Potion of Lethargy
+Lingering Potion of Infection
+Lingering Potion of Water Aversion
+Lingering Potion of Grip
+Lingering Potion of Restoration
+Lingering Potion of Angst
+Lingering Potion of Calm
+Lingering Potion of Efficiency
+Lingering Potion of Lethargy
+Arrow of Infection
+Arrow of Water Aversion
+Arrow of Grip
+Arrow of Restoration
+Arrow of Angst
+Arrow of Calm
+Arrow of Efficiency
+Arrow of Lethargy
+Total Stoner
+Collect all 10 types of cobblestone.
+The Absolute Madmason
+Craft every single stone decor block in the game, INCLUDING the slabs and stairs.
+Big Penny
+Smelt a copper ingot.
+The Pipes are Broken
+Craft a copper item pipe.
+Tin Outta Ten

@@ -1,0 +1,100 @@
+Useful Stuffs
+Light Shooter
+Light Shooter
+Umbrella
+Water Filter
+Compact Storage Unit
+Bento Box
+Building Wand
+Infinite Building Wand
+Building Wizard
+Packing Glue
+FlipFlop Core
+Belt of Floating Lily
+Storage Bag
+White Berry
+Orange Berry
+Magenta Berry
+Light Blue Berry
+Yellow Berry
+Lime Berry
+Pink Berry
+Gray Berry
+Light Gray Berry
+Cyan Berry
+Purple Berry
+Blue Berry
+Brown Berry
+Green Berry
+Red Berry
+Black Berry
+Belt of Fiery Lily
+Backpack
+Mining Backpack
+Water Source
+Milk Bag
+Milk Bag (Empty)
+Milk Bag (Fermented)
+Milk Bag (Partially Fermented)
+Cheese
+Bow of Sunshine
+Light Battery
+Triangular Prism
+Universal Core
+Charm of Potato (WIP)
+Ring of Stabilizing
+Basic Fluid Container
+Better Fluid Container
+Advanced Fluid Container
+Reinforced Fluid Container
+Extraordinary Fluid Container
+Basic Fluid Container (Place)
+Better Fluid Container (Place)
+Advanced Fluid Container (Place)
+Reinforced Fluid Container (Place)
+Extraordinary Fluid Container (Place)
+Basic Fluid Container (Fill)
+Better Fluid Container (Fill)
+Advanced Fluid Container (Fill)
+Reinforced Fluid Container (Fill)
+Extraordinary Fluid Container (Fill)
+Fortress Compass
+Light Bulb
+Well of Water Fall
+Rain Detector
+Campfire of Traveller's Wisdom
+Unstackable Filing Cabinet
+NBT Filing Cabinet
+T-FlipFlop
+Glued Box
+White Berry Bush
+Orange Berry Bush
+Magenta Berry Bush
+Light Blue Berry Bush
+Yellow Berry Bush
+Lime Berry Bush
+Pink Berry Bush
+Gray Berry Bush
+Light Gray Berry Bush
+Cyan Berry Bush
+Purple Berry Bush
+Blue Berry Bush
+Brown Berry Bush
+Green Berry Bush
+Red Berry Bush
+Black Berry Bush
+Portal Muffler
+Player Detector
+Fiery Lily
+Milk Fermenter
+Universal User
+Tank Frame
+Stone Pressure Plate (Inverted)
+Wooden Pressure Plate (Inverted)
+Crafting ingredient
+§o<Hold Shift for details>
+§lWIP Item/Block
+Ammo: %1$s/%2$s
+Right click to launch
+Shift-Right click to open GUI
+Combined with a hopper, automatically load when Light Bulbs being picked up

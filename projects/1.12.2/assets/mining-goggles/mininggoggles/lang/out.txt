@@ -1,0 +1,16 @@
+Mining Goggles
+Module
+Range
+--Modules--
+Hold Shift
+§cModules are disabled while used as a bauble
+Night Vision
+Auto-Feed
+Mining Boost
+Movement Speed
+Damage Resistance
+Water-Breathing
+Mining Goggles
+Open Filter GUI
+Open Modules GUI
+§cNo Goggles Found, §b(Must be on head or held)

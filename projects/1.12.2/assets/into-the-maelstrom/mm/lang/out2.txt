@@ -1,0 +1,104 @@
+Brownstone Pillar
+Polished Brownstone
+Gold Stone Lamp
+Swamp Planks
+Chiseled Cliff Stone
+Swamp Brick
+Cracked Swamp Brick 
+Golden Valley Portal
+Swamp Plank Stairs
+Swamp Plank Fence
+Crimson Portal
+Crimson Maelstrom Bricks
+Crimson Maelstrom Brick Fence
+Crimson Maelstrom Brick Stairs
+Crimson Lamp
+Chain
+Chains
+Large Chain
+Industrial Lamp
+Darkened Stonebrick Stairs
+Darkened Stonebrick Pillar
+Redstone Bricks
+Iron Grate
+Darkened Stonebrick
+Darkened Stonebrick
+Cracked Darkened Stonebrick
+Cracked Redstone Bricks
+Maelstrom Scout
+Maelstrom Cauldron
+Azure Elk
+Maelstrom Crawler
+Maelstrom Illager
+Azure Villager
+Maelstrom Mage
+Fracture Golem
+Floating Skull
+Herobrine
+Herobrine
+Nexus Gunsmith
+Nexus Mage
+Nexus Armorer
+Nexus Saiyan
+Nexus Bladesmith
+Golden Pillar
+Statue of Nirvana
+Maelstrom Statue of Nirvana
+Maelstrom Witch
+Cliff Stone Golem
+Swamp Crawler
+Maelstrom Executioner
+Maelstrom Minotaur
+Swamp Fly
+White Monolith
+Maelstrom Champion
+Maelstrom Healer
+Maelstrom Gauntlet
+Projectile
+Shade Attack
+Maelstrom Shrapnel
+Beast Breath
+Iron Pellet
+Cannon Projectile
+Will-O-The-Wisp
+Quake Projectile
+Skull Attack
+Azure Portal
+Energy Shot
+Redstone
+Fireball
+Black Slash
+Black Fireball
+Golden Bullet
+Golden Repeater
+Pillar Flames
+Golden Rune
+Golden Shade Thrust
+Golden Projectile
+Golden Projectile
+Golden Fireball
+Maelstrom Quake
+Maelstrom Missile
+Golem's Geyser
+Brownstone Bullet
+Cliff Portal
+Explosion
+Azure Bullet
+Swamp Spittle
+Nexus Particle
+Iron Shade Attack
+Maelstrom Wisp
+Maelstrom Meteor
+Meteor Summoner
+Minotaur Fissure
+Maelstrom Monolith
+Monolith
+Maelstrom Lancer
+%1$s succumbed to the maelstrom
+%1$s was pwned by a maelstrom mob
+%1$s was pwned by another player using maelstrom powers
+%1$s was shot to death by a maelstrom mob
+%1$s was pummeled to death by a maelstrom mob
+%1$s was blown up by the maelstrom
+%1$s was blown up by the maelstrom while fighting %2$s
+%1$s was magicked by a maelstrom mob

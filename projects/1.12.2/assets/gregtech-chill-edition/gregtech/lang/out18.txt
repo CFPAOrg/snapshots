@@ -1,0 +1,73 @@
+High Voltage Battery Buffer
+Extreme Voltage Battery Buffer
+Extreme Voltage Battery Buffer
+Extreme Voltage Battery Buffer
+Extreme Voltage Battery Buffer
+Insane Voltage Battery Buffer
+Insane Voltage Battery Buffer
+Insane Voltage Battery Buffer
+Insane Voltage Battery Buffer
+Ludicrous Voltage Battery Buffer
+Ludicrous Voltage Battery Buffer
+Ludicrous Voltage Battery Buffer
+Ludicrous Voltage Battery Buffer
+ZPM Voltage Battery Buffer
+ZPM Voltage Battery Buffer
+ZPM Voltage Battery Buffer
+ZPM Voltage Battery Buffer
+Ultimate Voltage Battery Buffer
+Ultimate Voltage Battery Buffer
+Ultimate Voltage Battery Buffer
+Ultimate Voltage Battery Buffer
+MAX Voltage Battery Buffer
+MAX Voltage Battery Buffer
+MAX Voltage Battery Buffer
+MAX Voltage Battery Buffer
+Transform Down:
+Transforming Down, In: %dV %d Amp, Out: %dV %d Amp
+Transform Up:
+Transforming Up, In: %dV %d Amp, Out: %dV %d Amp
+Low Voltage Transformer
+Medium Voltage Transformer
+High Voltage Transformer
+Extreme Voltage Transformer
+Insane Voltage Transformer
+Ludicrous Voltage Transformer
+ZPM Voltage Transformer
+Ultimate Voltage Transformer
+MAX Voltage Transformer
+Low Voltage Battery Charger
+Medium Voltage Battery Charger
+High Voltage Battery Charger
+Extreme Voltage Battery Charger
+Insane Voltage Battery Charger
+Ludicrous Voltage Battery Charger
+ZPM Voltage Battery Charger
+Ultimate Voltage Battery Charger
+MAX Voltage Battery Charger
+Pumping Area: %dx%d
+Pumps Fluid every %d ticks
+Basic Pump
+Intermediate Pump
+Advanced Pump
+Elite Pump
+Master Pump
+Expert Pump
+Ultimate Pump
+Item Capacity: %d items
+Current Item Amount:
+Quantum Chest
+Master Quantum Chest
+Expert Quantum Chest
+Black Hole Chest
+Fluid Capacity: %dMB
+Quantum Tank
+Master Quantum Tank
+Expert Quantum Tank
+Black Hole Tank
+Basic Air Collector
+Intermediate Air Collector
+Advanced Air Collector
+Elite Air Collector
+Master Air Collector
+Expert Air Collector

@@ -1,0 +1,96 @@
+Green Per Bend Inverted
+Brown Per Bend Inverted
+Blue Per Bend Inverted
+Purple Per Bend Inverted
+Cyan Per Bend Inverted
+Light Gray Per Bend Inverted
+Gray Per Bend Inverted
+Pink Per Bend Inverted
+Lime Per Bend Inverted
+Yellow Per Bend Inverted
+Light Blue Per Bend Inverted
+Magenta Per Bend Inverted
+Orange Per Bend Inverted
+White Per Bend Inverted
+Black Per Bend Sinister Inverted
+Red Per Bend Sinister Inverted
+Green Per Bend Sinister Inverted
+Brown Per Bend Sinister Inverted
+Blue Per Bend Sinister Inverted
+Purple Per Bend Sinister Inverted
+Cyan Per Bend Sinister Inverted
+Light Gray Per Bend Sinister Inverted
+Gray Per Bend Sinister Inverted
+Pink Per Bend Sinister Inverted
+Lime Per Bend Sinister Inverted
+Yellow Per Bend Sinister Inverted
+Light Blue Per Bend Sinister Inverted
+Magenta Per Bend Sinister Inverted
+Orange Per Bend Sinister Inverted
+White Per Bend Sinister Inverted
+Black Roundel
+Red Roundel
+Green Roundel
+Brown Roundel
+Blue Roundel
+Purple Roundel
+Cyan Roundel
+Light Gray Roundel
+Gray Roundel
+Pink Roundel
+Lime Roundel
+Yellow Roundel
+Light Blue Roundel
+Magenta Roundel
+Orange Roundel
+White Roundel
+Black Lozenge
+Red Lozenge
+Green Lozenge
+Brown Lozenge
+Blue Lozenge
+Purple Lozenge
+Cyan Lozenge
+Light Gray Lozenge
+Gray Lozenge
+Pink Lozenge
+Lime Lozenge
+Yellow Lozenge
+Light Blue Lozenge
+Magenta Lozenge
+Orange Lozenge
+White Lozenge
+Black Per Pale
+Red Per Pale
+Green Per Pale
+Brown Per Pale
+Blue Per Pale
+Purple Per Pale
+Cyan Per Pale
+Light Gray Per Pale
+Gray Per Pale
+Pink Per Pale
+Lime Per Pale
+Yellow Per Pale
+Light Blue Per Pale
+Magenta Per Pale
+Orange Per Pale
+White Per Pale
+Black Per Fess
+Red Per Fess
+Green Per Fess
+Brown Per Fess
+Blue Per Fess
+Purple Per Fess
+Cyan Per Fess
+Light Gray Per Fess
+Gray Per Fess
+Pink Per Fess
+Lime Per Fess
+Yellow Per Fess
+Light Blue Per Fess
+Magenta Per Fess
+Orange Per Fess
+White Per Fess
+Black Per Pale Inverted
+Red Per Pale Inverted

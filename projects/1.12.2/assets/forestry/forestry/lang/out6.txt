@@ -1,0 +1,108 @@
+Wax with a high melting point.
+%s's Notes
+Use this note in your hand to gain its knowledge.
+Royal Jelly
+Scoop
+Break hives to collect bees.
+Soldering Iron
+Solders Electron Tubes to Circuit Boards.
+Bee Smoker
+Calms wild bees
+Stamp (1n)
+Stamp (2n)
+Stamp (5n)
+Stamp (10n)
+Stamp (20n)
+Stamp (50n)
+Stamp (100n)
+Stamp
+Sturdy Casing
+Copper Electron Tube
+Tin Electron Tube
+Bronze Electron Tube
+Iron Electron Tube
+Golden Electron Tube
+Diamantine Electron Tube
+Obsidian Electron Tube
+Blazing Electron Tube
+Rubberised Electron Tube
+Emerald Electron Tube
+Apatine Electron Tube
+Lapis Electron Tube
+Ender Electron Tube
+Orchid Electron Tube
+Used to program circuit boards.
+Wax Capsule
+Can't hold hot liquids.
+%s Capsule
+Wax Cast
+Wood Pulp
+Wrench
+Shift-Use to rotate blocks.
+Camouflage Spray Can
+Forestry Apiculture
+Forestry Arboriculture
+Forestry
+Forestry Lepidopterology
+Forestry Agriculture
+Analyzer
+Escritoire
+Database
+Electrical Engine
+Converts EU to RF.
+Peat-fired Engine
+Generates RF from peat.
+Biogas Engine
+Generates RF from organic fluids and lava.
+Bio Generator
+Generates EU from Biomass or Ethanol.
+Clockwork Engine
+Generates small amounts of RF. Right-click to wind it up.
+Bottler
+Carpenter
+Centrifuge
+Fermenter
+Moistener
+Squeezer
+Still
+Rainmaker
+Thermionic Fabricator
+Rain Tank
+Worktable
+Mailbox
+Trade Station
+Stamp Collector
+Apatite Ore
+Copper Ore
+Tin Ore
+Block of Apatite
+Block of Copper
+Block of Tin
+Block of Bronze
+Ash Bricks
+Ash Brick Stairs
+Humus
+Bog Earth
+Peat
+Cocoa Comb Block
+Darkened Comb Block
+Dripping Comb Block
+Frozen Comb Block
+Honey Comb Block
+Irradiated Comb Block
+Mellow Comb Block
+Mossy Comb Block
+Mysterious Comb Block
+Omega Comb Block
+Parched Comb Block
+Powdery Comb Block
+Reddened Comb Block
+Silky Comb Block
+Simmering Comb Block
+Stringy Comb Block
+Wheaten Comb Block
+Adventuring Backpack
+Woven Adventuring Backpack
+Building Backpack
+Woven Building Backpack
+Digging Backpack

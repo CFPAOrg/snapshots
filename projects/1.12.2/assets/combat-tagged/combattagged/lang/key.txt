@@ -1,0 +1,12 @@
+combattagged.config.bypassItems
+combattagged.config.bypassItems.tooltip
+combattagged.config.cooldown
+combattagged.config.cooldown.tooltip
+combattagged.config.deathMessage
+combattagged.config.deathMessage.tooltip
+combattagged.config.showMessages
+combattagged.config.showMessages.tooltip
+combattagged.config.smiteCommand
+combattagged.config.smiteCommand.tooltip
+combattagged.config.lightning
+combattagged.config.lightning.tooltip

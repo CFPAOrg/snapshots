@@ -1,0 +1,43 @@
+Fluid tag parsing failed: %s
+Not holding an item containing fluid to copy.
+There is no such fluid with name: %s
+Created Augment: %s
+Not holding an item that can be edited.
+Created Item: %s
+Void Pearl Captures
+Thrown Pearls
+Crystallized Void Pearls
+Wireless Utilities
+Because wires just get in the way.
+Get Fluxed
+Infuse an Ender Pearl with Redstone's potential energy.
+Charged Pearl
+Find a way to energize a Fluxed Pearl.
+Storm Chaser
+Toss a Fluxed Pearl into the sky when the time is right.
+Refreshing
+Toss a Charged Pearl into water.
+So Hot Right Now
+Toss a Charged Pearl into lava.
+This Way!
+Construct a Directional Charger.
+My Machine is Augmented
+Install an augment.
+Getting an Upgrade
+Upgrade a machine.
+GPS
+Store a position within a Positional Card.
+Locked On!
+Construct a Positional Charger.
+Repulsion
+Throw a pearl that bounces 10 times before stopping.
+Long Distance Runaround
+Throw a pearl that travels at least 300 blocks (horizontally) before stopping.
+Roundabout
+Throw a pearl that travels at least 200 blocks (horizontally), but that stops within 10 blocks of where it started.
+Enlightened
+Toss a Fluxed Pearl against a Redstone Lamp.
+For Whom The Void Tolls
+Scorch a Pearl, and then toss it into the portal to the End.
+It Tolls for Thee
+Capture something in a Void Pearl.

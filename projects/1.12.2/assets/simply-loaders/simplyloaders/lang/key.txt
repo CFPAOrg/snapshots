@@ -1,0 +1,8 @@
+tile.simplyloaders.loader.name
+tile.simplyloaders.unloader.name
+tile.simplyloaders.entityLoader.name
+tile.simplyloaders.entityUnloader.name
+tile.simplyloaders.raintank.name
+tile.simplyloaders.fluidloader.name
+tile.simplyloaders.fluidunloader.name
+item.simplyloaders.tankcart.name

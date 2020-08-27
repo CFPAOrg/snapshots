@@ -1,0 +1,95 @@
+Open the menu
+Press the '%1$s' key to open the menu.
+Is this a bug?
+Get a Bug Blox
+It's a G-G-Ghost!
+Get a Ghost Blox
+Eye on the Prize
+Get a Prize Blox
+A recipe?
+Get a Recipe
+Master Chef
+Learn all the recipes
+Nobody wore this
+Wear the Organization XIII robe
+Nobody owned this
+Get a weapon form the Organization XIII
+Will I be able to make better items?
+Get a Synthesis Table 
+A Keychain? Why would I want it? 
+Obtain your first Keychain
+Its still broken
+Get the Incomplete χ-Blade
+One key to rule them all
+Get the χ-Blade
+Is this half a dream?
+Get Nightmare's End or Mirage Split
+Is this a dream?
+Get the Combined Keyblade
+Why?
+Get a Wooden Stick
+It's always rainy in Minecraft
+Get an Umbrella
+I hope it was worth it
+Get any of the Ultima Weapon
+This looks like a regular sword
+Get the Dream Sword
+I'm half way!
+Reach level 50
+I'm at the top!
+Reach level 100
+Am I rich?
+Get 1.000.000 Munny
+I guess I have the key to this one
+Get a KKChest
+Do I need a license?
+Equip a Drive Form
+Like a Wizard!
+Equip a Magic Spell
+Protecting from Darkness
+Wear a Keyblade Armor
+Free, but it still costs
+Try out the Free Development
+How much will it hold?
+Obtain a Synthesis Bag
+Symphony of Sorcery
+Play a music disc
+KINGDOM HEARTS!
+Get Kingdom Hearts
+Familiar Face!
+Another Familiar Face!
+Craft Wehavecookies56's head
+Craft Abelatox's head
+Kingdom Keys (Items)
+Kingdom Keys (Blocks)
+Normal Blox
+Hard Blox
+Metal Blox
+Danger Blox
+Bounce Blox
+Blast Blox
+Prize Blox
+Rare Prize Blox
+Ghost Blox
+Magnet Blox
+Pedestal
+When powered with redstone the %s turns transparent and has no collision
+The %s deals 1.5 hearts of damage when touching or hitting it
+When standing on the %s it causes entities to bounce
+Hold shift for more info
+Blazing Ore
+Blazing Ore
+Bright Ore
+Dark Ore
+Dark Ore
+Dark Ore
+Dense Ore
+Energy Ore
+Energy Ore
+Frost Ore
+Lightning Ore
+Lucid Ore
+Power Ore
+Power Ore
+Remembrance Ore
+Serenity Ore

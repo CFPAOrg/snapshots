@@ -1,0 +1,63 @@
+Weightless
+After hitting an entity there is a chance to get your arrow back.
+Iincreases your movement speed.
+Increases backstab damage.
+Your attacks are more likely to stun the enemy.
+Arrows you shoot will explode on impact.
+This enchatnment will allow shields to block more damage.
+Increases damage over time if you keep attacking.
+Any ore you mine has a small chance to drop diamonds.
+Your attacks are more likely to disarm the enemy.
+Increases the amount of experience you get from killing enemies.
+Throws any enemy you hit into air.
+Increases jump height.
+Lets you shoot multiple arrows at once.
+Make arrows you shoot fly faster and further.
+Damage dealt by the item partially ignores armor.
+Increases bow/crossbow drawing speed.
+Deals damage to any enemy, who hits you when you're blocking..
+Any drops from blocks you mine will be smelted.
+Lets you more blocks at once.
+Partially blocks magic damage as well.
+Heals you for portion of damage dealt.
+Slightly increases mining speed on ALL blocks.
+Increases natural regeneration rate.
+Decreases blocking speed reduction.
+Configuration
+Customize max level of mod enchantments (setting it to 0 will disable the enchantment completely).
+Set whether mod enchantments are treasure or not .Treasure enchantment cannot be obtained thru enchanting table.
+Configure stats of tools made of common materials (harvest level, durability, efficiency, damage, enchantability).
+Other settings
+Enchantment levels
+Treasure enchantments
+Material stats
+Other settings
+Copper
+Bronze
+Invar
+Aluminium
+Electrum
+Silver
+Steel
+Signalum
+Lumium
+Enderium
+Allow FOV changes
+Allow crossmod integration
+Allow vanilla shields
+Stun
+Milk
+Cure
+Dispell
+Ender Warp
+Antiwarp
+Potion of Blindness
+Potion of Decay
+Potion of Ender Warp
+Potion of Antiwarp
+Milky Potion
+Potion of Cure
+Potion of Dispel
+Splash Potion of Blindness
+Splash Potion of Decay
+Splash Potion of Eder Warp

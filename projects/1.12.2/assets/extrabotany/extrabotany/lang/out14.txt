@@ -1,0 +1,26 @@
+Ring of Mana Drive
+After equipping Ring of Mana Drive, your mana will spread into air, supplying the functional flowers nearby.
+Power Frame
+Place a mana item in the Power Frame, and the Power Frame will extract mana from the mana pool above and transfer to the mana item. Giving a redstone signal will make the process reverse.
+Supply Bag Limited Edition
+Supply Bag Limited Edition only has 100 stacks of items, including rare relic Silent Eternity and rare Mana Lens: SUPERCONDUCTOR, meaning that you could obtain all these things with 100 draws. <br>Spare supply bag will become 2 Emeralds.
+Silent Eternity is a very powerful relic but hard to use. It has 666 mana storage and when you equip it, it will recover 666 mana every tick. When it is equiped, any normal kind of health recovery is banned, but if you stay still, you will quickly recover your health and be immune to most kind of damage. Any movement will interrupt this behavior. <br> Silent Eternity will also freeze the water and the lava under your feet.
+Mana Lens: SUPERCONDUCTOR can make mana transfer become much more efficient, while making the mana beam become really dangerous to players. <br>The mana beam will deal high damage to only players.
+Limited Supply
+Welcome to the World of the supreme principle of Mana
+Waila Support for Mana Pool
+Waila Support for Flux Manafield
+Waila Support for Mana Buffer
+Waila Support for Mana Liquefaction
+Enable Flux Manafield
+Enable Mana Liquefaction Device
+Enable Summoning Gaia Guardian III
+Enable Gaia Guardian III to Disarm
+Enable Gaia Guardian III to destroy block
+Enable The One Probe Support
+Enable Gaia Guardian III to release Sword Domain
+Enable Monster to hold a Halloween Candy Night when spawning
+The chance that monster will hold a Halloween Candy Night when spawning
+Enable Construct's Armory Compat
+Deep Dark Fantasy
+Eat a Nightmare Fuel.(Unbelievable)

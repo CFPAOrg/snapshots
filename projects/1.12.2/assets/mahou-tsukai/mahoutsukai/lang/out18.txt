@@ -1,0 +1,16 @@
+Minor Clairvoyance
+When used, the caster will be able to see the predicted path of certain mobs. Unfortunately, some mobs are an enigma and cannot be predicted accurately, such as skeletons. %%n %%nIt drains %%val0 mana on use.
+Mystic Eyes of the Black Flame
+When used, black flames will sprout at the caster's viewing location for a short time. These flames spread somewhat quickly, but do not consume blocks and inflict wither damage to those who come in contact with them. %%n %%nIt drains %%val0 mana from the caster on use.
+Mystic Eyes of Death Collection
+When used, the caster collects souls upon seeing death - this death can occur in any way, but the caster does have to be looking at it. If the caster has collected enough souls, their death will be prevented in exchange for souls, whether or not the eyes are active. %%n %%nIt drains %%val0 mana from the caster on use.
+Mystic Eyes of Reversion
+When used, mobs and players in the caster's view will lose their buffs, along with certain other qualities, depending on the mob. Water mobs will no longer breathe underwater - nether mobs will be affected by fire and lava. Endermen, Shulker boxes and the Wither will no longer be immune to arrows. Husks can catch fire in the sun. %%n %%nIt drains %%val0 mana from the caster on use.
+Mystic Eyes of Fay Sight
+Very simply, this spell allows the player to see Leylines and the Fae. %%n %%nIt drains %%val0 mana from the caster on use.
+Summon Familiar
+When used, the player summons a familiar. This familiar will report on interesting players, mobs, and blocks that it sees, and will chunk load the area around it. %%n %%nIt drains %%val0 mana on use.
+Recall Familiar
+When used, the player's familiar, if it exists, will be recalled to the player. %%n %%nIt drains %%val0 mana on use.
+Familiar Exchange
+When used, the caster will switch places with the familiar if it exists. %%n %%nIt drains %%val0 mana from the caster on use.

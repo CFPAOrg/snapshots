@@ -1,0 +1,94 @@
+Etching Acid
+Hydrofluoric Acid
+Sulfuric Acid
+Nitric Acid
+Oxygen
+Hydrogen
+Chlorine
+Brine
+Ammonia
+Hexamine
+Methanol
+Siren Howling
+Printing Press Working
+Paper Falling
+Machinegun Noises
+Heavy Barrel Machinegun Noises
+Water Cooled Machinegun Noises
+Machinegun Reloading
+Howitzer Firing
+Howitzer Moving
+Howitzer Doors Opening
+Howitzer Doors Closing
+Inserter Noises
+Projectile breaking trough metal
+Projectile bouncing off metal
+Minecart with Wooden Crate
+Minecart with Reinforced Crate
+Minecart with Steel Crate
+Minecart with Wooden Barrel
+Minecart with Metal Barrel
+Skycrate
+Bullet
+Shrapnel
+Machinegun
+Allows to set frequency for basic radio devices.
+An upgraded model for setting higher frequencies.
+Frequency: %s
+Max Frequency: %s
+Capacity: %s / %s mB
+Cannot change size when contains fluid.
+Allows the machine to do operations such as:
+An empty page ready to be printed.
+A page containing some text.
+A page containing some code written in a programming language.
+A page containing information on how to build a structure.
+§4Infrared§r Vision Active!
+§cInfrared§r Vision Disabled!
+Used to create: %s
+Items Created: %s
+§4Hold Control§r
+§cHold Control for more info§r
+§6Hold Shift§r - Materials Used
+§4Hold Control§r - Tools Used
+Materials used:
+Tools used:
+Storage
+Variables
+Data
+Redstone
+Type:
+Add a new variable
+Set
+Change the value of a variable
+Remove
+Remove a variable
+Properties
+Apply
+Value:
+Operation:
+Conditional Variable:
+None
+Variable:
+Shrapnel
+Armor Piercing
+High Explosive
+Incendiary
+Tracer
+Flare
+Chemical
+Special Purpose
+Fitted with %s
+Mass: %s
+Caliber: %s bCal
+Both
+Left
+Right
+Suppressed
+Armour Penetrated
+Radio frequency has been set to %s
+Invalid frequency, basic devices can use frequencies up to %s!
+Current frequency: %s
+Advanced engineering requires advanced tools... you need an Electric Hammer to build this machine!
+Durability: %1$s / %2$s
+Yaw: %s

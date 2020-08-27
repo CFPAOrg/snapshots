@@ -1,0 +1,89 @@
+Aunis
+Aunis
+Ancient Analyzer
+DHD Control Crystal
+Fast dialer (debug)
+DHD Glyph Crystal
+Stargate Glyph Crystal
+Milky Way Glyphs Crystal
+Pegasus Glyphs Crystal
+Universe Glyphs Crystal
+Naquadah Ore
+Naquadah Ore (Stone)
+Naquadah Block
+Naquadah Shard
+Refined Naquadah Alloy Ingot
+Naquadah Alloy Ingot
+You can't see me block
+Stargate Base (Milky Way)
+Stargate Ring (Milky Way)
+Stargate Chevron (Milky Way)
+Dial Home Device (DHD)
+Capacitor Bank
+Capacitor Bank (Empty)
+Stargate Base (Orlin)
+Stargate Ring (Orlin)
+Stargate Base (Universe)
+Stargate Chevron (Universe)
+Stargate Ring (Universe)
+Crystal Seed
+Blank Crystal
+Teleportation Crystal
+Power Crystal
+Ender Crystal
+Light Crystal
+White Crystal
+Control Circuit Base 
+Naquadah Control Circuit 
+Crystal Control Circuit 
+Bright Red Button (BRB)
+Stargate Ring Fragment
+Universe Ring Fragment
+Crystal Holder
+Notebook Page
+Mysterious Page
+Empty
+Who knows where it leads
+Molten Silicon
+Refined Silicon
+Power Blend
+Teleportation Blend
+Ender Blend
+Light Blend
+Liquid Naquadah
+Refined Naquadah
+Liquid Naquadah Alloy
+Unable to close the gate on this end
+DHD is not linked to the gate
+DHD has no control crystal
+DHD requires at least 10,000uI to operate properly
+Computer dial is in progress
+Insufficient power
+Transport rings fragment
+Transport rings controller
+Controller not linked
+Transport rings
+Unable to reach this address
+Duplicate address
+Wrong address, should be 1-6
+Rings obstructed, clear 5x5 area around rings
+Target rings obstructed, clear 5x5 area around target rings
+Rings busy
+Target rings busy
+Rings No. %s
+Rings not in grid
+Address
+Name
+Save
+Number expected
+No such map
+Stargates %s
+Wrong ID or not given any
+Wrong map or not given any
+Wrong sender (not a player)
+Giving page to %s
+No map or wrong map given
+Giving Page to %s
+Targeted block is not a Stargate Base
+No map or wrong map given
+Address should be a space-separated list of 7 symbols (English names)

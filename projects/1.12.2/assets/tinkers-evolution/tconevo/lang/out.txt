@@ -1,0 +1,2 @@
+Tinkers' Infusion Enchantment
+The infusion enchantment process that I designed for simple tools and weapons also seems to work as expected for modular equipment. I should keep this in mind when I go back to the forge.

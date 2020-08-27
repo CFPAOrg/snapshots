@@ -1,0 +1,6 @@
+This will make Zombie Pigman extend its arms forward.
+Extend Zombie Pigman's arms
+When holding a bow, the skeleton will use a different animation.
+Skeleton - aimed bow
+This will make Zombie extend its arms forward.
+Extend Zombie's arms

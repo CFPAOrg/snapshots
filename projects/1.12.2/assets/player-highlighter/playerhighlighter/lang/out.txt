@@ -1,0 +1,2 @@
+Distance from camera
+In first person, how far ahead will the 'center' where all the lines come from be projected? Negative values look weird (because it puts it behind the camera), but some may like it.

@@ -1,0 +1,35 @@
+Entity Lines
+Entities: Players
+Other players
+Entites: Creatures
+Non-hostile creatures / animals, including water animals.
+Entities: Monsters
+Hostile monsters.
+Entities: Other living
+Other living entities (including villagers), but excluding ambient mobs
+Enable
+Enable highlighting for this category?
+Maximum distance
+Distance beyond which entities of this type will be ignored. Note that servers often don't send entities beyond ~128 blocks away (8 chunks); often even less. There is also no point in setting this beyond render distance×16 as well.
+Maximum vertical distance
+Vertical (Y-component only) distance beyond which entities of this type will be ignored. In other words, if the entity is this many blocks below or above you, it will not be tracked.
+Red
+Red component for drawing this category's color
+Green
+Green component for drawing this category's color
+Blue
+Blue component for drawing this category's color
+Ignore fake players
+Whether the mode should attempt to filter out "fake" players (NPCs used on some servers). This uses the player list to check if the player exists, so it may not work on all servers. Turn this off if some (real) players are not getting tracked.
+Respect team colors
+Whether players should be highlighted with their team's color (if they have one) instead of the one configured above.†
+Display mode
+EVERYONE: show all players; TEAM_ONLY: display only your team; ENEMY_ONLY: show only enemies. Players without a team are always displayed regardless of this setting. If you don't have a team this option has no effect.
+Enable
+Whether lines should be drawn at all. This is the value applied on MC startup. Using the keybind only temporarily switches this value.
+Smooth lines
+Whether a form of anti-aliasing should be applied to lines drawn.
+Infinite lines
+Currently has little effect.
+Line width
+The width of lines (in pixels). For non-smooth lines 1 is fine for most resolutions; for smooth lines it's better to have this greater.

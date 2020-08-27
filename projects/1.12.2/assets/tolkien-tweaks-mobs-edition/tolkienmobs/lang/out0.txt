@@ -1,0 +1,80 @@
+Unknown Structure!
+You can't place that there!
+Not enough information to spawn structure!
+/tmstructurespawn <structure name> <x> <y> <z>
+Cozy Fireplace
+§3Glorfindel's Beryl
+§5Stone Heart
+§5Watcher's Heart
+§5Dark Sigil
+§3Fortress Plans
+§3Key-Stone
+§9Black Steed's Bridle
+§6Lost Artifact
+§5Manuscript page
+§3Cave completion Token
+§3Watcher Token
+§5Cromhes’ Armour (Repaired)
+§2Fine Cloth
+§9Thrór's Hammer
+§5Cromhes’ Shield (Repaired)
+§5Cromhes’ Sword (Repaired)
+§4Apostle
+§5Ashen Scroll
+§5Translated Scroll
+§2Hag Hops
+§3Hobbit Story
+§6Bilbo's Story
+§3Petunia's Manuscript
+§2Ancient Tome
+§5Cromhes’ Armour
+§5Broken Helm
+§5Bandit's Key
+§5Worn-out Pickaxe
+§5Damaged Shield
+§5Cromhes’ Shield
+§5Cromhes’ Sword
+§2Woven Basket
+§5Statue Rubbing
+§9Faction Token
+§3Faction Coin
+Bronze Coin
+Silver Coin
+Gold Coin
+Mithril Coin
+§4Pungent Herb
+Lock-Pick
+§5Sword Hilt
+Reforged Sword
+Key Fragment
+Oil-covered Key
+§5Bilbo's Nugget
+§3Dungeon Key
+§6Thurdan's Letter
+§5Special Magic Cloth
+§2Pile of Bones
+§2Ancient Rune Stone
+TBD
+TBD
+TBD
+Magical gem loaned to you to help on your search
+This heart has a disturbing and fearful energy
+This heart looks like it has seen better days
+Dark symbol dropped by a minion
+Seemingly fragile, surprising it survived so long
+Almost forgotten, this is the "Key" to opening a secret entrance
+Taken from the corpse of an evil Horse
+Hope of Vengeance
+The smith has done an amazing job on this sword
+This shield hails from an unknown origin though it belongs to Cromhes
+After repairs Cromhes' armour looks amazing
+Item Thonrum wanted repaired
+Item Thonrum wanted repaired
+Item Thonrum wanted repaired
+Proof of killing the troll
+Proof of defeating the Watcher
+Item stolen from Cromhes while he was held captive
+Item stolen from Cromhes while he was held captive
+Item stolen from Cromhes while he was held captive
+A tattered scroll, covered in small runes
+A scroll translated by Elrond with instructions to get into the dungeons of Moria

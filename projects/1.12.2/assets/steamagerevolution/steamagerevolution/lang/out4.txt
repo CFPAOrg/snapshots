@@ -1,0 +1,15 @@
+Sulphuric acid
+Sulphuric acid is created from sulphur dioxide and water in a vat. Sulphur dioxide is collected by the Fume Collector when placed on top of a vanilla furnace and sulphur crystals are used as fuel for that furnace. 
+Industrial Potions
+Potions can be brewed at an industrial scale using vats. Fill the vat with water and then throw in nether wart to make the Awkward Solution. Any potion may be created by this method. To consume these potions, a FluidIO can place them into a Flask, which will hold three buckets worth of the potion. Potions are drunk a bucket at a time.
+Material Synthesis
+Vats may also be used to synthesise uncommon materials. Combining lava and redstone dust will produce liquid glowstone, which can then be solidified in the casting block. Combining water, sugar, dirt and rotten flesh will synthesise slime which may then be distilled into its solid form. 
+Other Utilities
+Fluid IO
+The Fluid IO will transfer fluids from its internal buffers into items that can hold fluids such as buckets or canisters, and vice versa.
+Steam Vent
+On a redstone signal, consumes steam to shoot a hot steam jet in the direction it is facing, scalding all in its path. Right click with a wrench to adjust facing direction. 
+Clockwork Wings
+§oDon't fly too close to the sun, Icarus§r The clockwork wings provide a very rudimentary form of flight. By repeatedly tapping the jump key the player can move vertically, and then holding shift will allow them to glide downwards. The process is slower than Elytra. Furthermore, the player cannot boost themselves above Y160, and the process of manually flapping the wings is very labour intensive meaning it will drain hunger very fast. Provided the player has energy left, the wings will also protect the player from fall damage. 
+Steam-Powered Tools
+Unbreakable tools fuelled by harnessing the raw power of steam. Fill the tool's internal buffer with a Fluid IO or equivalent, and use like any other tool. When the internal tank empties and the tool stops functioning, simply re-fill. Easy. 

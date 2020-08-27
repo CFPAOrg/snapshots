@@ -1,0 +1,11 @@
+/kill2 [player|entity]
+Cheater
+Execute a Command that needs OP.
+Diamond Ore
+Craft a Diamond Ore with Stone and Diamonds!
+Skyblock!
+Skyblock or a Cheater? Die form Void Damage (this is only possible on a Skyblock world or by being killed with the /kill Command)
+Block Killer
+Kill a Block Entity
+Block Entity
+Block Entity

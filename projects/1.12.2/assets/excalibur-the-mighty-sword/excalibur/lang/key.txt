@@ -1,0 +1,4 @@
+tile.rock.name
+item.shrineblueprint.name
+item.excalibur.name
+tile.excaliburinrock.name

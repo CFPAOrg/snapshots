@@ -1,0 +1,7 @@
+mkmmod.config.melee
+mkmmod.config.bow
+mkmmod.config.projectile
+mkmmod.config.fire
+mkmmod.config.fall
+mkmmod.config.explosion
+mkmmod.config.void

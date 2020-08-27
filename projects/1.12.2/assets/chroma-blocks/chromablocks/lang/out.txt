@@ -1,0 +1,16 @@
+Black Chroma Block
+Blue Chroma Block
+Brown Chroma Block
+Cyan Chroma Block
+Gray Chroma Block
+Green Chroma Block
+Light Blue Chroma Block
+Silver Chroma Block
+Lime Chroma Block
+Magenta Chroma Block
+Orange Chroma Block
+Pink Chroma Block
+Purple Chroma Block
+Red Chroma Block
+White Chroma Block
+Yellow Chroma Block

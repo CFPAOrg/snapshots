@@ -1,0 +1,8 @@
+tile.compressedoaklog.name
+tile.tinychest.name
+tile.compressedjunglelog.name
+tile.compresseddarkoak.name
+tile.compressedbirchlog.name
+itemGroup.tabtinychesttab
+tile.compressedsprucelog.name
+tile.compressedacacialog.name

@@ -1,0 +1,5 @@
+galaxy.wormhole
+solarsystem.secondSystem
+star.epsystem
+planet.fakeOverworld
+planet.fakeRocks

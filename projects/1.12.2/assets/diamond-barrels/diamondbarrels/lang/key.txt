@@ -1,0 +1,8 @@
+tile.wood_barrel.name
+tile.iron_barrel.name
+tile.diamond_barrel.name
+tile.obsidian_barrel.name
+container.wood_barrel
+container.iron_barrel
+container.diamond_barrel
+container.obsidian_barrel

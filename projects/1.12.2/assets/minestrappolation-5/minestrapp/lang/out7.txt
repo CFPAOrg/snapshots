@@ -1,0 +1,88 @@
+Purple Candle
+Magenta Candle
+Glowing White Candle
+Glowing Magenta Candle
+Glowing Red Candle
+Glowing Orange Candle
+Glowing Yellow Candle
+Glowing Green Candle
+Glowing Cyan Candle
+Glowing Blue Candle
+Glowing Purple Candle
+Block of Cork
+Tiled Glass
+Bricked Glass
+Wooden Window
+Iron Window
+Steel Window
+Tiled Glass Pane
+Bricked Glass Pane
+Wooden Window Pane
+Iron Window Pane
+Steel Window Pane
+Steel Mesh
+Bronze Honeycomb
+Steel Honeycomb
+Meurodite Honeycomb
+Rope
+Dimensional Rope
+Charwood Door
+Ice Bauble
+Sunstone Bauble
+Glowstone Bauble
+Blue Glowshroom Bauble
+Green Glowshroom Bauble
+Purple Glowshroom Bauble
+Blazium Bauble
+Red Cobblestone Wall
+Deep Red Cobblestone Wall
+Deep Cobblestone Wall
+Cold Cobblestone Wall
+Deep Cold Cobblestone Wall
+Cracked Icestone Wall
+Cracked Glacierrock Wall
+Cobbled Oceanstone Wall
+Cobbled Reefstone Wall
+Mossy Red Cobblestone Wall
+Deep Mossy Red Cobblestone Wall
+Deep Mossy Cobblestone Wall
+Mossy Cold Cobblestone Wall
+Deep Mossy Cold Cobblestone Wall
+Snowy Cracked Icestone Wall
+Snowy Cracked Glacierrock Wall
+Mossy Cobbled Oceanstone Wall
+Mossy Cobbled Reefstone Wall
+Resolute Gray Chandelier
+Resolute Red Chandelier
+Resolute Cyan Chandelier
+Resolute Purple Chandelier
+Spooky Black Chandelier
+Spooky Orange Chandelier
+Spooky Lime Chandelier
+Spooky Purple Chandelier
+Simple Normie Jack o'Lantern
+Average Normie Jack o'Lantern
+Complex Normie Jack o'Lantern
+Simple Grumpy Jack o'Lantern
+Average Grumpy Jack o'Lantern
+Complex Grumpy Jack o'Lantern
+Simple Dumpy Jack o'Lantern
+Average Dumpy Jack o'Lantern
+Complex Dumpy Jack o'Lantern
+Simple Creepy Jack o'Lantern
+Average Creepy Jack o'Lantern
+Complex Creepy Jack o'Lantern
+Simple Smiley Jack o'Lantern
+Average Smiley Jack o'Lantern
+Complex Smiley Jack o'Lantern
+Smashed Jack-o'-Lantern
+Woven Plate
+Slate Plate
+Copper Plate
+Bronze Plate
+Steel Plate
+Golden Plate
+Bat Skull
+Chicken Skull
+Cow Skull
+Horse Skull

@@ -1,0 +1,43 @@
+Enderman - Use accurate model size
+This will adjust the hitbox to match model's size.
+Ghast - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Ghast - Use accurate model size
+This will adjust the hitbox to match model's size.
+Guardian - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Guardian - Use accurate model size
+This will adjust the hitbox to match model's size.
+MagmaCube - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+MagmaCube - Use accurate model size
+This will adjust the hitbox to match model's size.
+Silverfish - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Silverfish - Use accurate model size
+This will adjust the model size to match the hitbox's size.
+Wither Skeleton - Use accurate model size
+This will adjust the hitbox to match model's size.
+Slime - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Slime - Use accurate model size
+This will adjust the hitbox to match model's size.
+Spider - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Spider - Use accurate model size
+This will adjust the hitbox to match model's size.
+Iron Golem - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Iron Golem - Use accurate model size
+This will adjust the hitbox to match model's size.
+Mooshroom - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Mooshroom - Use accurate model size
+This will hide the blaze rods floating around Blaze.
+Hide Blaze's Blaze rods
+This will hide the smoke particles appearing around Blaze.
+Hide Blaze's smoke particles
+This will allow spawning of the Ghast Sister mob.
+Spawn Ghast Sister
+This will make the Ghast Sister mob more difficult.
+Brutal Ghast Sister

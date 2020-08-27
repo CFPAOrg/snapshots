@@ -1,0 +1,40 @@
+Blocks
+Blocks
+Update Check
+If this is on, after entering the first world after startup, you will be notified if there are any updates for Spectrite
+Generate Spectrite Dungeon
+If enabled, each world will generate a Spectrite Dungeon
+Generate Spectrite Skull
+If enabled, Spectrite Skull structures will generate
+Items
+Items
+Mobs
+Mobs
+Spectrite Armour Bonuses Mode
+Half Bonuses
+Normal Bonuses
+Overpowered Bonuses
+Mode for how overpowered the Spectrite Armour bonuses are - HALF_BONUSES: Half Bonuses; NORMAL_BONUSES: Normal Bonuses; OVERPOWERED_BONUSES: Overpowered Bonuses
+Spectrite Arrow Damage Mode
+Spectrite Damage
+Explosion
+Explosion + Spectrite Damage
+Mode for what happens when a Spectrite Arrow hits - SPECTRITE_DAMAGE: Spectrite Damage Only; EXPLOSION: Explosion Only; SPECTRITE_DAMAGE_EXPLOSION: Spectrite Damage + Explosion
+Spectrite Chest Enchantment Rate
+Chance that, after 200 ticks, a Spectrite Chest will select a random slot and attempt to enchant the item with Superchromaticity (percentage)
+Spectrite Spawns per Chunk (The End)
+Number of chances that a Spectrite Ore vein will have to spawn in each chunk
+Spectrite Spawns per Chunk (Nether)
+Number of chances that a Spectrite Ore vein will have to spawn in each chunk
+Spectrite Spawns per Chunk
+Number of chances that a Spectrite Ore vein will have to spawn in each chunk
+Spectrite Crystal Effect Range
+Range in blocks from a placed Spectrite Crystal within which the chances of a Spectrite Mob spawning will be increased
+Spectrite Dungeon Chest Mode
+No Spectrite Chests
+High tier only
+Medium and high tiers
+All tiers
+Mode to determine which chests in a Spectrite Dungeon are Spectrite Chests - NONE: No Spectrite Chests; HIGH_TIER_ONLY: High tier chests only; MEDIUM_AND_HIGH_TIER: Medium and high tier chests only; ALL_TIERS: All tiers
+Spectrite Enderman Spectrite Orb Drop Rate
+Chance that a Spectrite Enderman will drop a random Spectrite Orb (percentage)

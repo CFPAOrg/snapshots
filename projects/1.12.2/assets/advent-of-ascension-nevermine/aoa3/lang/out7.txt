@@ -1,0 +1,46 @@
+制作一座 Voxxulon 雕像
+恶魔面具
+制作一个 Voxxulon 雕像
+无害的
+无保护地踏入 Vox 池塘
+糟糕……
+参观 Vox 池塘
+这看起来不太健康
+击败 Voxxulon，未知
+喷溅与擦除
+无效参数: % 1 $ s
+此参数不能在控制台或命令方块中使用: % 1 $ s
+找不到任何名为 % 1 $ s 的在线玩家
+没有名为 % 1 $ s 的技能
+AoAPortalReset-重置所有保存的传送门位置 (如果你卡在主世界之外，请使用这个)。要求在命令后输入 “是” 以确认
+你保存的传送门位置已被删除
+用法:/aoaportalreset 
+当前活跃事件:
+Aoaaevent-开始/停止天气事件直到下一个周期，或者检查哪些是激活的
+可用事件:
+未找到名为 % 1 $ s 的事件
+用法:/aoaevent start 
+如果尚未开始，则开始事件: % 1 $ s
+用法:/aoaevent stop 
+如果没有停止则停止事件: % 1 $ s
+用法:/aoaevent [list | check | start | stop]
+将 % 1 $ s 的 % 2 $ s 等级提高到 % 3 $ s
+用法:/aoaskill addlevel  [玩家]
+将 % 3 $ s 经验加入到 % 1 $ s 的 % 2 $ s 技能中
+用法:/aoaskill addxp  [xp | player ]
+% 1$ s:% 2$ s (% 3$ s/% 4$ s)
+玩家: % 1 $ s
+用法:/aoaskill check  
+AoASkill-检查任何在线玩家的给定技能的统计数据，设置给定的等级，或加/减经验
+将 % 1 $ s 的 % 2 $ s 级别降低到 % 3 $ s
+用法:/aoaskill removelevel  [player]
+从 % 1 $ s 的 % 2 $ s 技能中减去 % 3 $ s 经验
+用法:/aoaskill removexp  [xp | player ]
+设置 % 1 $ s 的 % 2 $ s 为 % 3 $ s
+用法:/aoaskill setlevel  [level | player ]
+用法:/aoaskill [addxp | removexp | check | setlevel | addlevel | removelevel]
+AoAStructure-查看可用结构，并随意生成
+无效的结构名: % 1 $ s
+可用结构: % 1 $ s
+第 % 1 $ s/% 2 $ s 页。输入/aoastructure list  查看其它页面
+结构已成功生成: '% 1 $ s' 位于: % 2 $ s，% 3 $ s，% 4 $ s

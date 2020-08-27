@@ -1,0 +1,93 @@
+It's not lunacy, it's just bloodshed
+Warm to the touch, hot to the target
+Relatively weak, compared to its non-arcane version
+Can be used as fuel
+Is it you or is it me, would you know or would you see?
+Will you ever know what you have done after drinking this?
+Wolves shall devour the Lamb
+Smells like
+Bound Aspect:
+Current Power:
+Current Magan:
+Bound X-Coordinates:
+Bound Y-Coordinates:
+Bound Z-Coordinates:
+Current Spell:
+No current Spell
+Owner:
+Acquaintances:
+Aspects:
+Power:
+Rite:
+Magan needed:
+Item Power needed:
+Soul needed:
+Aspects needed:
+Enlightenment's Sighing
+The Feast on the Soul
+Chaos Rite
+Forging Rite
+Lunatic's Rite
+Soul's Conflagration
+Wind's Wrath
+Gaia's Gaze
+Space Exilation
+Astral Drowning
+Compression of the Soul
+Rite of the Sun
+Rite of the Moon
+Rite of the Shifting Clouds
+Rite of the Shared Frame
+Rite of the Falling Towers
+Reshaping Rite
+Rite of the Patchwork
+Glorious Rite
+Rite of the Hollow Soul
+Rite of the Pact
+Silver Thread
+Cultist
+Protoplasmic Slime
+Dimensional Nexus
+Aether Elemental
+Elementaristics
+Next
+Previous
+Slime Master Key
+Current Tasks:
+Go to
+Fetch
+Grab a stack
+Store a stack
+Navigate to
+Wait
+Collect
+Store
+Current Mode:
+Local Item Power:
+Progress:
+Progress: §2ready
+Local Aspects:
+Aspects Needed:
+Current Energy:
+Draining Energy from:
+Transferring Energy to:
+(too far!)
+Bound to
+Deity:
+Nexus at
+Current Magan:
+Bound Position:
+Set Bound Position to
+§2Successfully added task
+§cThere are too many tasks specified for another to be added
+§2Cleared stored tasks
+§2The Protoplasmic Slime will execute the given tasks
+§dThe Protoplasmic Slime will now not execute tasks
+§cNo timer specified
+§6"Before magic, there were seven children in Nothingness"
+§6"When magic was born, one lost his skin"
+§6"Anguish remained"
+§6"Do you know that tale?"
+This is more potent than I thought... I might experience visions
+The Cultist will stay here
+The Cultist will closely follow you

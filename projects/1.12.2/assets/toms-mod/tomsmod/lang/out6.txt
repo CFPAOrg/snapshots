@@ -1,0 +1,98 @@
+Lead Wire
+Lead Nugget
+Lead Crystal
+Lead Wire Coil
+Crushed Lead Ore
+Crushed Nether Lead Ore
+Crushed End Lead Ore
+Lead Research Component
+Lead Shard
+Dirty Lead Dust
+Lead Clump
+Obsidian Plate
+Obsidian Ingot
+Obsidian Dust
+Tiny Pile of Obsidian Dust
+Obsidian Wire
+Obsidian Nugget
+Obsidian
+Obsidian Wire Coil
+Crushed Obsidian Ore
+Crushed Nether Obsidian Ore
+Crushed End Obsidian Ore
+Obsidian Research Component
+Obsidian Shard
+Dirty Obsidian Dust
+Obsidian Clump
+Nether Quartz Plate
+Nether Quartz Ingot
+Nether Quartz Dust
+Tiny Pile of Nether Quartz Dust
+Nether Quartz Wire
+Nether Quartz Nugget
+Nether Quartz
+Nether Quartz Wire Coil
+Crushed Nether Quartz Ore
+Crushed Nether Nether Quartz Ore
+Crushed End Nether Quartz Ore
+Nether Quartz Research Component
+Nether Quartz Shard
+Dirty Nether Quartz Dust
+Nether Quartz Clump
+Lithium Plate
+Lithium Ingot
+Lithium Dust
+Tiny Pile of Lithium Dust
+Lithium Wire
+Lithium Nugget
+Lithium Crystal
+Lithium Wire Coil
+Crushed Lithium Ore
+Crushed Nether Lithium Ore
+Crushed End Lithium Ore
+Lithium Research Component
+Lithium Shard
+Dirty Lithium Dust
+Lithium Clump
+Red Alloy Plate
+Red Alloy Ingot
+Redstone Dust
+Tiny Pile of Redstone Dust
+Red Alloy Wire
+Redstone Nugget
+Redstone Crystal
+Red Alloy Wire Coil
+Crushed Redstone Ore
+Crushed Nether Redstone Ore
+Crushed End Redstone Ore
+Red Alloy Research Component
+Redstone Shard
+Dirty Redstone Dust
+Redstone Clump
+Diamond Plate
+Diamond Ingot
+Diamond Dust
+Tiny Pile of Diamond Dust
+Diamond Wire
+Diamond Nugget
+Diamond
+Diamond Wire Coil
+Crushed Diamond Ore
+Crushed Nether Diamond Ore
+Crushed End Diamond Ore
+Diamond Research Component
+Diamond Shard
+Dirty Diamond Dust
+Diamond Clump
+Glowstone Plate
+Glowstone Ingot
+Glowstone Dust
+Tiny Pile of Glowstone Dust
+Glowstone Wire
+Glowstone Nugget
+Glowstone Crystal
+Glowstone Wire Coil
+Crushed Glowstone Ore
+Crushed Nether Glowstone Ore
+Crushed End Glowstone Ore
+Glowstone Research Component

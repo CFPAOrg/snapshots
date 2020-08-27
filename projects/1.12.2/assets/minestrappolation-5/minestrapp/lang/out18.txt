@@ -1,0 +1,34 @@
+Determines whether Creeping Glow Moss generates in the overworld and End.
+Generate Savanna Grass
+Determines whether Savanna Grass replaces all Tall Grass in savannas.
+Determines whether Savanna Grass replaces all Tall Grass in savannas.
+Generate Tundra Grass
+Determines whether Tundra Grass replaces all Tall Grass in snowy biomes.
+Determines whether Tundra Grass replaces all Tall Grass in snowy biomes.
+Generate Berry Bushes
+Determines whether Raspberry, Blueberry, Strawberry, Blackberry, and Voidberry Bushes generate in their respective biomes.
+Determines whether Raspberry, Blueberry, Strawberry, Blackberry, and Voidberry Bushes generate in their respective biomes.
+Generate Mana Bushes
+Determines whether Mana Bushes generate on beaches and mushroom islands.
+Determines whether Mana Bushes generate on beaches and mushroom islands.
+Generate Glowshrooms
+Determines whether Glowshrooms generate in the overworld and the Nether.
+Determines whether Glowshrooms generate in the overworld and the Nether.
+Generate Infectious Mushrooms
+Determines whether Infectious Mushrooms generate on Mushroom Islands.
+Determines whether Infectious Mushrooms generate on Mushroom Islands.
+Generate Hanging Glow Moss
+Determines whether Hanging Glow Moss generates in the Nether and the End.
+Determines whether Hanging Glow Moss generates in the Nether and the End.
+Generate Clutchthorn
+Determines whether Clutchthorn generates in the End.
+Determines whether Clutchthorn generates in the End.
+Generate Terracreep
+Determines whether Terracreep generates in the End.
+Determines whether Terracreep generates in the End.
+Generate Lava Sponges
+Determines whether Lava Sponges generate in the End.
+Determines whether Lava Sponges generate in the End.
+Generate Endermite Hives
+Determines whether Endermite Hives generate in the End.
+Determines whether Endermite Hives generate in the End.

@@ -1,0 +1,32 @@
+Speed Upgrade Power Laws
+Power laws for speed upgrades. Order: Processing Time, Processing Power.
+Speed Upgrade Multipliers
+Base multipliers for speed upgrades. Order: Processing Time, Processing Power.
+Energy Upgrade Power Laws
+Power laws for energy upgrades. Order: Processing Power.
+Energy Upgrade Multipliers
+Base multipliers for energy upgrades. Order: Processing Power.
+RF per IC2 EU
+Conversion ratio between Redstone Flux and IC2 Energy Units.
+Enable GTCE EU Support
+If true, energy from GTCE can be accepted and emitted by NC machines.
+Enable Mekanism Gas Support
+If true, gas from Mekanism can be handled by NC machines.
+Machine Update Rate
+Ticks per machine update - used for various processes such as GUI updates and multiblock structure checks.
+Passive Production Rate
+Rates at which passive machines produce materials. Order: Helium Collector, Cobblestone Generator, Infinite Water Source, Nitrogen Collector.
+Passive Pushing
+Will passive machines that produce materials automatically push to adjacent inventories and fluid handlers?
+Cobble Gen Power Use
+RF/s required for Cobblestone Generator to run.
+Ore Processing
+Can NuclearCraft machines process ores?
+Manufactory Wood Processing
+Specify the size of the output stack for Manufactory wood processing recipes. Order: Logs->Planks, Planks->Sticks.
+Rock Crusher Alternate Recipes
+Use an alternate set of recipes for the Rock Crusher that only produce NC dusts?
+Register GTCE Recipes
+If enabled, recipes of the corresponding NC machine will also be added for GTCE machines. Order: Manufactory, Isotope Separator, Decay Hastener, Fuel Reprocessor, Alloy Furnace, Fluid Infuser, Melter, Supercooler, Electrolyzer, Neutron Irradiator, Ingot Former, Pressurizer, Chemical Reactor, Salt Mixer, Crystallizer, Fluid Enricher, Fluid Extractor, Centrifuge, Rock Crusher.
+GTCE Recipe Logging
+Will GTCE recipe additions be logged?

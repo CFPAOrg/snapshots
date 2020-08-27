@@ -1,0 +1,40 @@
+Minimum Y Level for Predators
+The min Y value a spawn has to be for spawn protection to prevent predators. Anything below it will not be prevented.
+Maximum Y Level for Predators
+The max Y value a spawn has to be for spawn protection to prevent predators. Anything above it will not be prevented.
+Damage Type Settings
+Slashing Damage Sources
+Damage Source Types that will default to Slashing damage.
+Piercing Damage Sources
+Damage Source Types that will default to Piercing damage.
+Crushing Damage Sources
+Damage Source Types that will default to Crushing damage.
+Slashing Damage Entities
+Damage Source Entities that will default to Slashing damage.
+Piercing Damage Entities
+Damage Source Entities that will default to Piercing damage.
+Crushing Damage Entities
+Damage Source Entities that will default to Crushing damage.
+Player Settings
+Inventory Crafting Table
+Enable a 3x3 crafting inventory via key binding.
+Player Minimum Health Modifier
+Player Maximum Health Modifier
+Player Thirst Decay
+Player Natural Regeneration Modifier
+Peaceful Difficulty Passive Stats Regen
+Should the player receive passive regeneration of health, food, and thirst, while in peaceful mode similar to vanilla?
+Hunger Passive Exhaustion Modifier
+Nutrition Rotation Hunger Window
+The amount of replenished hunger before the player's nutrition will lose the first food consumed. Most TFC foods have 4 hunger. Example: Multiply Vanilla hunger(20) by 4 to get one food bar worth of food before the first food is lost from the cycle.
+Drink Delay
+Delay (in ticks) for drinking water by hand
+Thirst debuff chance on salty drink
+Chance that a salty drink apply a thirst effect.
+Quiver Search Locations
+Which inventory slots will ammo refill/pickup search for quivers?
+World Gen Settings
+Various aspects of world generation
+Hemisphere Type
+Temperature Mode
+This controls how temperature is affected by how far from equator you are.

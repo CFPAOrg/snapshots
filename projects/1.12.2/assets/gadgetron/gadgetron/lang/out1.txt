@@ -1,0 +1,113 @@
+Raritanium Crystal
+Adamantine Ore
+Carbonox Ore
+Trillium Ore
+Titanium Ore
+Adamantine Block
+Carbonox Block
+Trillium Block
+Titanium Block
+Trillium
+Machine Block
+Basic Fuel Generator
+Basic Coal Generator
+Basic Battery
+Basic Fluid Smelter
+Basic Extractor
+Basic Processor
+Basic Fabricator
+Intermediate Fuel Generator
+Intermediate Coal Generator
+Intermediate Battery
+Intermediate Fluid Smelter
+Intermediate Extractor
+Intermediate Processor
+Intermediate Fabricator
+Advanced Fuel Generator
+Advanced Coal Generator
+Advanced Battery
+Advanced Fluid Smelter
+Advanced Extractor
+Advanced Processor
+Advanced Fabricator
+Trillium
+Empty
+Progress
+Energy Stored
+Push
+Pull
+Input
+Capacity
+Top
+Front
+Left
+Right
+Back
+Bottom
+Auto Input
+Auto Output
+Items
+Fluid
+Close
+I/O Config
+Output/B
+Show belt
+Battery
+Coal Generator
+Fuel Generator
+Fluid Smelter
+Extractor
+Processor
+Fabricator
+Burns: %ds
+Generate: %dRF/t
+Gadgetron
+Gadgetron Machines
+Gadgetron
+Trillium ore cause poison
+Trillium tools cause poison
+Worldgen
+Raritanium
+Adamantine
+Carbonox
+Trillium
+Titanium
+Retrogen ores
+Only works once for every chunk
+Log retrogen messages
+Generate ore
+Ore veins per chunk
+Minimum ores in a vein 
+Maximum ores in a vein
+Minimum height a vein can spawn
+Maximum height a vein can spawn
+Dimension blacklist
+Input dimension ids 
+Ore replaces block type
+Input only one block, using mod_id:name or minecraft:name
+Machines
+RF/t consumption
+RF capacity
+Generate mB per operation
+Tank capacity
+Speed modifier
+mB/T consumption
+Consume mB/T per operation
+RF/t generation
+Output RF/t
+Input RF/t
+Ticks between auto I/O
+Max fluid auto I/O
+Basic Coal Generator
+Intermediate Coal Generator
+Advanced Coal Generator
+Basic Fuel Generator
+Intermediate Fuel Generator
+Advanced Fuel Generator
+Basic Battery
+Intermediate Battery
+Advanced Battery
+Basic Fluid Smelter
+Intermediate Fluid Smelter
+Advanced Fluid Smelter
+Basic Fabricator

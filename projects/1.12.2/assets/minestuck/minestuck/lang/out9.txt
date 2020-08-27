@@ -1,0 +1,33 @@
+Been to the shop? They've got the best %s in the area!
+I used to be an adventurer like you, then I never got the disks.
+Beware the man who speaks in hands, wait...wrong game.
+Maybe you should do something more productive than talking to NPCs.
+I like crumpled hats, they're comfy and easy to wear!
+We would love to invite you, %s, to our secret wizards cult.
+Meet me by dawn with mercury, salt, and sulfur to begin the initiation.
+Secret wizards? Th-there are no secret wizards! Wh-what're you speaking of, o-outlandish traveller?
+I bought a bunch of stocks on the market... Now I'm broke...
+Please, I need to pay for my children to attend college...
+Wow, you have so many boondollars! I'll never make that much in my short, amphibious lifetime.
+They are coming...
+Huh? 'Who the fuck is They'? What kind of question is that?! I don't know! Who the fuck are you?
+I heard that the true name of the %s is %s. Isn't that cool?
+Hey there! I've got a wonderful item here for just 1000 boondollars? How about it kid?
+This consort is way too nice to ever scam you! Surely you can trust them?
+Buy "Wonderful item" [Pay 1000 boondollars]
+Sure! Why not?
+ Here you are!
+Do not buy from cheery salesman.
+No thanks! I'm short on cash.
+Oh! No worries! How about I sell it to you for just 500 boondollars instead??
+Still do not buy from cheery salesman.
+I'm sorry, I meant *really* short on cash...
+Buy that cheap item! [pay 500 boondollars]
+Sure! I'd be glad to!
+Thank you for your money!
+It's a wonderful day. Hopefully some monster underneath the planet's surface doesn't eat us all!
+I heard a floating island just appeared somewhere near here recently and falling chunks destroyed a village underneath it!
+My brother found a magic ring while fishing recently!
+Frog, it's such a wonderful day to just walk around a village.
+Holy leapin' god, you have such wonderful hair! Can I eat some?
+I feel like our king just sits around doing nothing but eating weird glowing mushrooms! So lazy!

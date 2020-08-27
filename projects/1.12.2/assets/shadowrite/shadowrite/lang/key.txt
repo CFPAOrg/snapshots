@@ -1,0 +1,16 @@
+itemGroup.Shadowrite
+entity.shadowwarrior.name
+tile.shadowrite_ore.name
+item.shadowrite_singularity.name
+item.shadow_bottle.name
+item.shadow_cloth.name
+item.shadow_fabric.name
+item.shadowrite_gem.name
+item.shadowrite_core.name
+item.shadowrite_torch.name
+item.shadow_feather.name
+message.player.shadowsreleased
+message.player.darkmoon
+tooltip.shadowbottle
+tooltip.shadowfeather
+tooltip.shadowritetorch

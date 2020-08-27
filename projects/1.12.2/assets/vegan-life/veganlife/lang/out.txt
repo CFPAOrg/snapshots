@@ -1,0 +1,62 @@
+Vegan Life
+%1$s : %2$s
+Growth
+%1$d%%
+Retting
+%1$d%%
+Retted
+You must place this block in water!
+Jute Stalk
+Jute Fibre
+Jute Seeds
+Burlap
+Bale of Jute
+Jute Crop
+Potato Starch
+Plastic Rod
+Bioplastic
+Kapok Tuft
+Kapok Block
+White Kapok Block
+Orange Kapok Block
+Magenta Kapok Block
+Light Blue Kapok Block
+Yellow Kapok Block
+Lime Kapok Block
+Pink Kapok Block
+Gray Kapok Block
+Light Gray Kapok Block
+Cyan Kapok Block
+Purple Kapok Block
+Blue Kapok Block
+Brown Kapok Block
+Green Kapok Block
+Red Kapok Block
+Black Kapok Block
+Resin
+Rosin
+Sulfur
+Saltpeter
+Doll's Eye
+Fragment of Suffering
+Proof of Suffering
+Faux Feather
+False Morel
+Faux Rabbit's Foot
+Sunflower Seeds
+Vegetable Oil
+Vegetable Wax
+Black Vegetable Ink
+White Vegetable Ink
+Frozen Bubble
+Soap
+Soap Solution
+Raw Ender
+Raw Ender
+Wood Ash Lye
+ Wood Ash Lye
+Encrusted Obsidian
+Ender Rift
+Flying End Block
+Papier-M�ch�
+Blank Mob Head

@@ -1,0 +1,15 @@
+increasemobs.config.title
+increasemobs.config.aroundPlayersOnly
+increasemobs.config.aroundPlayersOnly.tooltip
+increasemobs.config.monster
+increasemobs.config.monster.tooltip
+increasemobs.config.ambient
+increasemobs.config.ambient.tooltip
+increasemobs.config.waterCreature
+increasemobs.config.waterCreature.tooltip
+increasemobs.config.entry.enabled
+increasemobs.config.entry.enabled.tooltip
+increasemobs.config.entry.spawnWeight
+increasemobs.config.entry.spawnWeight.tooltip
+increasemobs.config.entry.dimensions
+increasemobs.config.entry.dimensions.tooltip

@@ -1,0 +1,3 @@
+tile.light.name
+item.flashlight.name
+key.mcreator.switchhatlightkeybind

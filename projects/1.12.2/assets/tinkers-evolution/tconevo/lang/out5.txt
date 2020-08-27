@@ -1,0 +1,44 @@
+Attuned (Horologium)
+§oEffervescent!§r\nThis armour piece is aligned with Horologium and freezes attackers in time.
+Attuned (Lucerna)
+§oEffervescent!§r\nThis armour piece is aligned with Lucerna and grants night vision.
+Attuned (Mineralis)
+§oEffervescent!§r\nThis armour piece is aligned with Mineralis and causes similar blocks to visibly resonate.
+Attuned (Octans)
+§oEffervescent!§r\nThis armour piece is aligned with Octans and grants water breathing.
+Attuned (Pelotrio)
+§oEffervescent!§r\nThis armour piece is aligned with Pelotrio and repairs itself over time.
+Crystal Matrix
+Amorphous Crystal Matrix
+Neutronium
+Hyperdense Neutron Fluid
+Infinity
+Flow of Infinity
+Condensing
+§oTry not to think about it.§r\nSlain foes and broken blocks may leave behind a smattering of neutrons.
+Neutron Chance: %s
+Infinitum
+§oProven by induction!§r\nThis equipment is indestructible.
+Omnipotence
+§oBegone!§r\nThis tool defies the will of gods.
+Null Almighty
+§oThe power of the trickster!§r\nThis armour grants 25% resistance to all incoming damage.
+Eternity
+§oFalling in and out of time...§r\nThis armour grants the immortality effect.
+Bound
+Molten Bound Metal
+Sentient
+Fluidic Sentience
+Crystalys
+§oI'm not afraid of the darkness!§r\nThis weapon shatters soul networks to manifest weak blood shards.
+Bloodbound
+§oThe multitudinous seas incarnadine...§r\nThis tool siphons its user's life essence to prevent damage to itself.
+Sentient
+§oIt knows what you've done...§r\nThis tool consumes demon will to increase its power.
+Willful
+§oYour soul is mine!§r\nThis weapon severs the strands of demonic will that bind its enemies.
+Soul Guard
+§oOn that day, the reaper laid down his scythe...§r\nThis armour siphons its user's life essence to mitigate a portion of incoming damage.
+Soul Guard: +%s
+Bloodbound
+§oThe multitudinous seas incarnadine...§r\nThis armour siphons its user's life essence to prevent damage to itself.

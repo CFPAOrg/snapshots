@@ -1,0 +1,20 @@
+Splash Potion of Antiwarp
+Splash Milky Potion
+Splash Potion of Cure
+Splash Potion of Dispel
+Lingering Potion of Blindness
+Lingering Potion of Decay
+Lingering Potion of Eder Warp
+Lingering Potion of Antiwarp
+Lingering Milky Potion
+Lingering Potion of Cure
+Lingering Potion of Dispel
+of Blindness
+Arrow of Decay
+Arrow of Eder Warp
+Arrow of Antiwarp
+Milky Arrow
+Arrow of Cure
+Arrow of Dispel
+Antiwarp
+Dispel

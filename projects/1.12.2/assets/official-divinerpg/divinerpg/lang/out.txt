@@ -1,0 +1,18 @@
+Swim Faster
+Wither Protection
+Arcana Regeneration
+Poison Resistance
+Slows Hostile Mobs Within %s Blocks
+Increased Mining Speed
+Iceika
+Massive Buff
+Step Assist
+%sx Times Slower
+%sx Times Faster
+Fills %s Hunger Points
+%s Saturation
+Pet Food
+Replenishes %s Health
+Rive
+Aftershock
+Will summon in %s seconds

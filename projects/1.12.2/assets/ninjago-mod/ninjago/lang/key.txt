@@ -1,0 +1,12 @@
+item.sword_fire.name
+item.nunchucks_lightning.name
+item.shurikens_ice.name
+item.scythe_earth.name
+item.helmet_fire.name
+item.chestplate_fire.name
+item.leggings_fire.name
+item.boots_fire.name
+item.helmet_lightning.name
+item.chestplate_lightning.name
+item.leggings_lightning.name
+item.boots_lightning.name

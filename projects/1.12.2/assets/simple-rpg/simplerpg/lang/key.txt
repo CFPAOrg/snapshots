@@ -1,0 +1,6 @@
+item.magicstick.name
+mode.passive.name
+mode.fire.name
+mode.lightning.name
+mode.wind.name
+mode.void.name

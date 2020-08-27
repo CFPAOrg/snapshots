@@ -1,0 +1,8 @@
+tile.luckyores.baseluckyore.name
+tile.luckyores.badluckyore.name
+item.luckyores.glowshard.name
+item.luckyores.tunnelpickaxe.name
+item.luckyores.treasureshovel.name
+item.luckyores.woodaxe.name
+item.luckyores.hatesword.name
+item.luckyores.farmhoe.name

@@ -1,0 +1,89 @@
+Blue concrete slope
+Brown concrete slope
+Green concrete slope
+Red concrete slope
+Black concrete slope
+Oak slope
+Birch slope
+Spruce slope
+Jungle slope
+Dark oak slope
+Acacia slope
+Stone slope
+Cobblestone slope
+Stone bricks slope
+Mossy stone bricks slope
+Cracked stone bricks slope
+Chiseled stone bricks slope
+Bricks slope
+Terracotta stairs
+Terracotta slope
+Terracotta slab
+White terracotta stairs
+White terracotta slope
+White terracotta slab
+Orange terracotta stairs
+Orange terracotta slope
+Orange terracotta slab
+Magenta terracotta stairs
+Magenta terracotta slope
+Magenta terracotta slab
+Gray terracotta stairs
+Gray terracotta slope
+Gray terracotta slab
+Light gray terracotta stairs
+Light gray terracotta slope
+Light gray terracotta slab
+Light blue terracotta stairs
+Light blue terracotta slope
+Light blue terracotta slab
+Blue terracotta stairs
+Blue terracotta slope
+Blue terracotta slab
+Purple terracotta stairs
+Purple terracotta slope
+Purple terracotta slab
+Green terracotta stairs
+Green terracotta slope
+Green terracotta slab
+Pink terracotta stairs
+Pink terracotta slope
+Pink terracotta slab
+Red terracotta stairs
+Red terracotta slope
+Red terracotta slab
+Black terracotta stairs
+Black terracotta slope
+Black terracotta slab
+Cyan terracotta stairs
+Cyan terracotta slope
+Cyan terracotta slab
+Lime terracotta stairs
+Lime terracotta slope
+Lime terracotta slab
+Yellow terracotta stairs
+Yellow terracotta slope
+Yellow terracotta slab
+Brown terracotta stairs
+Brown terracotta slope
+Brown terracotta slab
+White wool stairs
+White wool slope
+White wool slab
+Orange wool stairs
+Orange wool slope
+Orange wool slab
+Magenta wool stairs
+Magenta wool slope
+Magenta wool slab
+Gray wool stairs
+Gray wool slope
+Gray wool slab
+Light gray wool stairs
+Light gray wool slope
+Light gray wool slab
+Light blue wool stairs
+Light blue wool slope
+Light blue wool slab
+Blue wool stairs
+Blue wool slope

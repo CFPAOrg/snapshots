@@ -1,0 +1,23 @@
+Solid Gas
+Diode
+Hematite Ingot
+Resistor
+Basic PCB
+Hematite helmet
+Hematite chestplate
+Hematite leggings
+Hematite boots
+Advanced PCB
+OP Helmet
+OP Chestplate
+OP Leggings
+OP Boots
+OP Armor Controller
+Nektar
+Solid Gas ore
+Hematite ore
+Solid Gas Generator
+Teleporter
+Solid Gas Generator
+OP Generators
+Talos

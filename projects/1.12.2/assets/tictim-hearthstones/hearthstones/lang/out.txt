@@ -1,0 +1,7 @@
+§eUpgrades Normal Tavern to Guild Tavern.§r
+§oUsed to make the Tavern.§r
+§8§oUpgrades... nothing.§r
+§aPublic Tavern§r grants both §aaccess and modification§r of the Tavern to §aeveryone§r even if they are not the owner of the Tavern. But they can't make Tavern not public, of course.
+§6Protected Tavern§r §6allows everyone to use§r the Tavern. However the property can be §6changed only by the owner, or player with OP permission§r.
+§cPrivate Tavern§r can be used only by §cyou and player with OP permission§r.
+Quickcast

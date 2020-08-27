@@ -1,0 +1,14 @@
+itemGroup.tabSpookytree
+tile.spookytree_leaves.name
+tile.spookytree_sapling.name
+tile.spookytree_log.name
+tile.spookytree_planks.name
+tile.spookytree_halfslab.name
+tile.spookytree_doubleslab.name
+tile.spookytree_stairs.name
+tile.spookytree_fence.name
+tile.spookytree_fencegate.name
+tile.spookytree_button.name
+tile.spookytree_pressureplate.name
+tile.spookytree_door.name
+tile.spookytree_trapdoor.name

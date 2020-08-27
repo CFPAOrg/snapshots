@@ -1,0 +1,106 @@
+Eraser Bomb Yukari Mk-6
+Stone Small Srairs
+Cobblestone Small Srairs
+Stone Bricks Small Srairs
+Floor Tile Small Srairs
+Floor Tile Small Srairs
+Floor Tile Small Srairs
+Floor Tile Small Srairs
+Bricks Small Srairs
+Nether Brick Small Srairs
+Quartz Block Small Srairs
+Black Quartz Small Srairs
+Sandstone Small Srairs
+Red Sandstone Small Srairs
+Red Wool Small Srairs
+Yellow Wool Small Srairs
+Oak Small Srairs
+Spruce Small Srairs
+Birch Small Srairs
+Jungle Small Srairs
+Acacia Small Srairs
+Dark Oak Small Srairs
+Oak Ladder
+Oak Ladder
+Oak Ladder
+Oak Ladder
+Spruce Ladder
+Spruce Ladder
+Spruce Ladder
+Spruce Ladder
+Birch Ladder
+Birch Ladder
+Birch Ladder
+Birch Ladder
+Jungle Ladder
+Jungle Ladder
+Jungle Ladder
+Jungle Ladder
+Iron Ladder
+Basalt
+Polished Basalt
+Basalt Brick
+Chiseled Basalt
+Granite Brick
+Chiseled Granite
+Diorite Brick
+Chiseled Diorite
+Andesite Brick
+Chiseled Andesite
+Black Stone
+Floor Tile
+Imported From Sayo
+Invisible Button
+Invisible Button
+Black Quartz Ore
+Black Quartz Slab
+Black Quartz Slab
+Black Quartz Stairs
+Basalt Wall
+Black Door
+Brown Door
+Cyan Door
+Gray Door
+Light Brown Door
+Light Gray Door
+Purple Door
+Red Door
+White Door
+Powered Ballastless Track
+Black Quartz
+Black Door
+Brown Door
+Cyan Door
+Gray Door
+Light Brown Door
+Light Gray Door
+Purple Door
+Red Door
+White Door
+Fluorescent Lamp
+Bright Emergency Light
+Dark Emergency Light
+Bright White Concrete
+Bright Orange Concrete
+Bright Magenta Concrete
+Bright Light Blue Concrete
+Bright Yellow Concrete
+Bright Lime Concrete
+Bright Pink Concrete
+Bright Gray Concrete
+Bright Light Gray Concrete
+Bright Cyan Concrete
+Bright Purple Concrete
+Bright Blue Concrete
+Bright Brown Concrete
+Bright Green Concrete
+Bright Red Concrete
+Bright Black Concrete
+Brown Tatami Stairs
+Stone Pillars
+Red Pillars
+White Framed Lamp Slab
+Orange Framed Lamp Slab
+Magenta Framed Lamp Slab
+Light Blue Framed Lamp Slab
+Yellow Framed Lamp Slab

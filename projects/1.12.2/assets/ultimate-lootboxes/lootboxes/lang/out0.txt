@@ -1,0 +1,144 @@
+Wooden Box
+Iron Box
+Gold Box
+Diamond Box
+End Box
+Hungry Box
+World Box
+Medieval Box
+Ancient Box
+Dagger Box
+Sword Box
+Greatsword Box
+Katana Box
+Club Box
+Axe Box
+Spear Box
+Bow Box
+Shield Box
+Home Run Box
+Kyber Box
+Gemstone Box
+Crystal Box
+Obsidian Box
+Glass Box
+Dragon Box
+Venom Box
+Flame Box
+Frost Box
+Cosmic Box
+Mythical Box
+Cataclysm Box
+Small Guns Box
+Standard Guns Box
+Big Guns Box
+Energy Guns Box
+Explosives Box
+Airstrike Box
+Ammo Box
+Mushroom Box
+Hylian Box
+Terrarian Box
+Gummi Box
+Marvel Box
+DC Box
+Meridian Box
+Eos Box
+Daedric Box
+Middle Earth Box
+Souls Box
+Baseball Bat
+Black Baseball Bat
+Red Baseball Bat
+Blue Baseball Bat
+Acacia Baseball Bat
+Birch Baseball Bat
+Spruce Baseball Bat
+§eAluminum Baseball Bat
+§aHome Run Bat
+§dGreen Lightsaber
+§dBlue Lightsaber
+§dRed Lightsaber
+§dPurple Lightsaber
+§6Blaster Pistol
+Blaster Round
+Crowbar
+Wrench
+Cane
+Yardstick
+§bChainsaw
+Butter Knife
+Carving Knife
+Tree Branch
+Frying Pan
+Night Stick
+§bCattle Prod
+§dLongbow
+§dCrossbow
+§aIron Mace
+§aBattle Axe
+§aWarhammer
+§aHalberd
+§aCudgel
+§aLance
+§cFire Lance
+§aClay Bomb
+§dMaquahuitl
+§aGoedendag
+§dPata
+§dMambele
+§6Bladed Shield
+§dHaladie
+§bShotel
+Iron Shield
+Gold Shield
+Diamond Shield
+Emerald Shield
+Obsidian Shield
+Moonstone Shield
+§aFloral Shield
+§aFamiliar Shield
+Kite Shield
+Emerald Sword
+Obsidian Sword
+Moonstone Sword
+Stone Dagger
+Iron Dagger
+Gold Dagger
+Diamond Dagger
+Emerald Dagger
+Obsidian Dagger
+Moonstone Dagger
+Emerald Axe
+Obsidian Axe
+Moonstone Axe
+§aAthame
+§bAssassin's Dagger
+§bPoison Dagger
+§bSmouldering Blade
+§bFrostbane
+§eRusted Sword
+Soldier's Sword
+Blackiron Blade
+Broken Sword
+§bLightbringer
+§bDeathbringer
+Stone Katana
+Iron Katana
+Gold Katana
+Diamond Katana
+Emerald Katana
+Obsidian Katana
+§aChain Blade
+§bDark Blade
+§bPhantom Blade
+§bAssassin's Sword
+Masamune
+§aWood Cutter's Axe
+§bDemon Axe
+§bPoison Axe
+§bFlame Axe
+§bFrost Axe
+Wooden Club
+Reinforced Club
+Stone Club

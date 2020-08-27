@@ -1,0 +1,2 @@
+item.leathermagicitem.name
+item.ironringofspeed.name

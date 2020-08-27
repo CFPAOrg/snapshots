@@ -1,0 +1,13 @@
+item.squid_sword.name
+item.squid_ingot.name
+item.squid_shovel.name
+item.squid_axe.name
+item.squid_hoe.name
+item.squid_pickaxe.name
+item.squid_helmet.name
+item.squid_chestplate.name
+item.squid_leggings.name
+item.squid_boots.name
+item.squid_apple.name
+tile.squid_ore_block.name
+tile.squid_block.name

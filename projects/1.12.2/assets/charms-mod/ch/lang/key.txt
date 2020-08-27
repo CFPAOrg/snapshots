@@ -1,0 +1,6 @@
+item.zaheercharm.name
+item.voidcharm.name
+item.shieldcharm.name
+item.antimagiccharm.name
+item.zombiecharm.name
+item.firecharm.name

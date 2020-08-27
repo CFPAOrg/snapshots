@@ -1,0 +1,16 @@
+item.tntexploder.name
+item.uzi.name
+item.pistol.name
+item.shotgunbody.name
+key.mcreator.gunequipment
+item.rifleround.name
+item.shotgunpump.name
+item.shotgun.name
+item.katana.name
+item.upgraded_shotgun.name
+itemGroup.tabgunammo
+item.rifle.name
+itemGroup.tabweapons
+item.bat.name
+item.shotgunshell.name
+item.pistolbullet.name

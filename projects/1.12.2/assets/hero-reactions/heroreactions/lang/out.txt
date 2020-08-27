@@ -1,0 +1,16 @@
+Log In To Hero (for streamers)
+Redirect to Hero.tv
+Click the button to be redirected to Hero.tv.
+You will get a token, which you can copy and paste here.
+You only ever have to do this process once.
+Authorization Code (paste here)
+Example: KLX2-7V3D-PMNS
+Login info already stored! You're good to go.
+Clear info
+Account info saved successfully!
+Error, please try again.
+Submit Token
+Help/More Info
+Cancel
+Go Back
+Toggle Overlay

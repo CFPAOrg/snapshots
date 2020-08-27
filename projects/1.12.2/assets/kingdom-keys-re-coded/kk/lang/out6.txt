@@ -1,0 +1,127 @@
+Midnight Roar Chain
+Mirage Split Chain
+Missing Ache Chain
+Monochrome Chain
+Moogle O Glory Chain
+Mysterious Abyss Chain
+Nightmare's End Chain
+Combined Keyblade Chain
+No Name Chain
+Oathkeeper Chain
+Oblivion Chain
+Ocean's Rage Chain
+Olympia Chain
+Omega Weapon Chain
+Ominous Blight Chain
+One-Winged Angel Chain
+Pain of Solitude Chain
+Photon Debugger Chain
+Pixie Petal Chain
+Pumpkinhead Chain
+Rainfell Chain
+Rejection of Fate Chain
+Royal Radiance Chain
+Rumbling Rose Chain
+Shooting Star Chain
+Sign of Innocence Chain
+Silent Dirge Chain
+Skull Noise Chain
+Sleeping Lion Chain
+Soul Eater Chain
+Spellbinder Chain
+Star Seeker Chain
+Starlight Chain
+Stormfall Chain
+Stroke of Midnight Chain
+Sweet Dreams Chain
+Sweet Memories Chain
+Sweetstack Chain
+Three Wishes Chain
+Total Eclipse Chain
+Treasure Trove Chain
+True Light's Flight Chain
+Twilight Blaze Chain
+Two Become One Chain
+Ultima Weapon (KH1) Chain
+Ultima Weapon (KH2) Chain
+Ultima Weapon (KH3) Chain
+Ultima Weapon (BBS) Chain
+Ultima Weapon (DDD) Chain
+Umbrella Chain
+Unbound Chain
+Foreteller Ira's Keyblade Chain
+Foreteller Aced's Keyblade Chain
+Victory Line Chain
+Void Gear Chain
+Foreteller Ava's Keyblade Chain
+Way to the Dawn Chain
+Wayward Wind Chain
+Winner's Proof Chain
+Wishing Lamp Chain
+Wishing Star Chain
+Young Xehanort's Keyblade Chain
+Zero/One Chain
+Reports
+Keyblades
+COMMANDS
+Attack
+Portal
+Magic
+Items
+Drive
+Revert
+Limit
+PORTALS
+MAGIC
+Fire
+Fira
+Firaga
+Blizzard
+Blizzara
+Blizzaga
+Thunder
+Thundara
+Thundaga
+Cure
+Cura
+Curaga
+Gravity
+Gravira
+Graviga
+Aero
+Aerora
+Aeroga
+Stop
+Stopra
+Stopga
+TRANSFORM
+Valor Form
+Wisdom Form
+Limit Form
+Master Form
+Final Form
+Menu
+World Time
+Played Time
+Items
+Abilities
+Customize
+Party
+Status
+Journal
+Config
+Munny
+Items
+Keychain
+Org. Weapon
+Synthesis Bag
+Potions
+Spells
+Drive Forms
+Stock
+Back
+Config
+Change the interface color by entering a RGB value
+Show hearts on hud
+Enable custom music
+Kingdom Hearts 1 Fire?

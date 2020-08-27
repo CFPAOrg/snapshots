@@ -1,0 +1,2 @@
+item.coin_small.name
+item.coin_big.name

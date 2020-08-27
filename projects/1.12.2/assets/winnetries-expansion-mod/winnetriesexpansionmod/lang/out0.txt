@@ -1,0 +1,124 @@
+%1$sThis is an artefact%2$s
+%1$sFor decoration use only%2$s
+Expansionmod
+White Stained Clayball
+Orange Stained Clayball
+Magenta Stained Clayball
+Light Blue Stained Clayball
+Yellow Stained Clayball
+Lime Stained Clayball
+Pink Stained Clayball
+Gray Stained Clayball
+Light Gray Stained Clayball
+Cyan Stained Clayball
+Purple Stained Clayball
+Blue Stained Clayball
+Brown Stained Clayball
+Green Stained Clayball
+Red Stained Clayball
+Black Stained Clayball
+White Brick
+Orange Brick
+Magenta Brick
+Light Blue Brick
+Yellow Brick
+Lime Brick
+Pink Brick
+Gray Brick
+Light Gray Brick
+Cyan Brick
+Purple Brick
+Blue Brick
+Brown Brick
+Green Brick
+Red Brick
+Black Brick
+Bucket Cast
+Metal Press Mold: Metal Bucket
+Clay Bucket
+Terracotta Bucket
+Terracotta Water Bucket
+Terracotta Lava Bucket
+Clay Gear
+Clay Plate
+Terracotta Gear
+Terracotta Plate
+Clay Flower Pot
+Tin Nugget
+Invar Nugget
+Bronze Nugget
+Solder Nugget
+Tin Ingot
+Invar Ingot
+Bronze Ingot
+Solder Ingot
+Tin Plate
+Invar Plate
+Bronze Plate
+Solder Plate
+Tin Grit
+Invar Grit
+Bronze Grit
+Solder Grit
+Calcium Carbonate
+Natrium Carbonate
+Silica
+Silica Blend
+Solder Wire
+Solder Wire Coil
+Metal Press Mold: Arrow Head
+Metal Press Mold: Hopper
+Steel Arrow Head
+Metal Press Mold: Metal Trapdoor
+Copper Gear
+Tin Gear
+Bronze Gear
+Iron Gear
+Steel Gear
+Gold Gear
+Silver Gear
+Electrum Gear
+Constantan Gear
+Nickel Gear
+Invar Gear
+Lead Gear
+Aluminum Gear
+Apple Juice
+Carrot Juice
+Chorusfruit Juice
+Melon Juice
+Cactus Juice
+Pumpkin Juice
+Lemon Juice
+Plum Juice
+Cherry Juice
+Tropical Juice
+Beetroot Juice
+Apple Cider
+Plum Wine
+Chocolate Milk
+Molten Invar
+Molten Bronze
+Molten Tin
+Molten Solder
+Molten Constantan
+Molten Uranium
+Apple Juice
+Beetroot Juice
+Carrot Juice
+Melon Juice
+Pumpkin Juice
+Cactus Juice
+Chorusfruit Juice
+Lemon Juice
+Cherry Juice
+Tropical Juice
+Plum Juice
+Chocolate Milk
+Plum Wine
+Apple Cider
+Molten Invar
+Molten Tin
+Molten Bronze
+Molten Solder
+Molten Constantan

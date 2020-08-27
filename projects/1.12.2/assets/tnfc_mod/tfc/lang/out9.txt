@@ -1,0 +1,93 @@
+Titanium Saw Blade
+Titanium Shears
+Titanium Shield
+Titanium Javelin
+Titanium Javelin Head
+Titanium Hammer
+Titanium Hammer Head
+Titanium Prospector's Pickaxe
+Titanium Prospector's Pickaxe Head
+Titanium Knife
+Titanium Knife Blade
+Titanium Scythe
+Titanium Scythe Blade
+Titanium Lamp
+%s Titanium Lamp
+Unshaped Titanium
+Titanium Chestplate
+Titanium Greaves
+Titanium Boots
+Titanium Helmet
+Unfinished Titanium Chestplate
+Unfinished Titanium Boots
+Unfinished Titanium Helmet
+Unfinished Titanium Greaves
+Titanium Anvil
+Tungsten Ingot
+Tungsten Double Ingot
+Tungsten Scrap
+Tungsten Dust
+Tungsten Nugget
+Tungsten Sheet
+Tungsten Double Sheet
+Tungsten Tuyere
+Tungsten Pickaxe
+Tungsten Pickaxe Head
+Tungsten Shovel
+Tungsten Shovel Head
+Tungsten Axe
+Tungsten Axe Head
+Tungsten Hoe
+Tungsten Hoe Head
+Tungsten Chisel
+Tungsten Chisel Head
+Tungsten Sword
+Tungsten Sword Blade
+Tungsten Mace
+Tungsten Mace Head
+Tungsten Saw
+Tungsten Saw Blade
+Tungsten Shears
+Tungsten Shield
+Tungsten Javelin
+Tungsten Javelin Head
+Tungsten Hammer
+Tungsten Hammer Head
+Tungsten Prospector's Pickaxe
+Tungsten Prospector's Pickaxe Head
+Tungsten Knife
+Tungsten Knife Blade
+Tungsten Scythe
+Tungsten Lamp
+%s Tungsten Lamp
+Unshaped Tungsten
+Tungsten Chestplate
+Tungsten Greaves
+Tungsten Boots
+Tungsten Helmet
+Unfinished Tungsten Chestplate
+Unfinished Tungsten Boots
+Unfinished Tungsten Helmet
+Unfinished Tungsten Greaves
+Tungsten Anvil
+Tungsten Steel Ingot
+Tungsten Steel Double Ingot
+Tungsten Steel Scrap
+Tungsten Steel Dust
+Tungsten Steel Nugget
+Tungsten Steel Sheet
+Tungsten Steel Double Sheet
+Tungsten Steel Tuyere
+Tungsten Steel Pickaxe
+Tungsten Steel Pickaxe Head
+Tungsten Steel Shovel
+Tungsten Steel Shovel Head
+Tungsten Steel Axe
+Tungsten Steel Axe Head
+Tungsten Steel Hoe
+Tungsten Steel Hoe Head
+Tungsten Steel Chisel
+Tungsten Steel Chisel Head
+Tungsten Steel Sword
+Tungsten Steel Sword Blade
+Tungsten Steel Mace

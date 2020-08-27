@@ -1,0 +1,23 @@
+Ignite HUD Configuration
+Vanilla
+Settings of the Vanilla features.
+Durabilities & Item/Block Count
+Show/hide the durabilities and the item/block count display.
+Entity Stats & Health Bar
+Show/hide stats and health bar of the entities nearby.
+Time
+Show/hide the time display.
+Tough As Nails
+Settings of the Tough As Nails features.
+Thirst
+Show/hide the thirst value of the player.
+Player Temperature
+Show/hide the temperature of the player.
+Scaling Health
+Settings of the Scaling Health features.
+Difficulty
+Show/hide the value for the player difficulty and the bar for the area difficulty.
+Bloodmoon
+Settings of the Bloodmoon features.
+Bloodmoon Time
+In the Time Display, change the moon icon and the color for red when the bloodmoon is happening (does not work with Time Type: 'real').

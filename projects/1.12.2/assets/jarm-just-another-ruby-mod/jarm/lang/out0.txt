@@ -1,0 +1,138 @@
+Ruby
+Ruby Sword
+Ruby Pickaxe
+Ruby Axe
+Ruby Shovel
+Lapis Lazuli Axe
+Lapis Lazuli Sword
+Lapis Lazuli Pickaxe
+Lapis Lazuli Shovel
+Lapis Lazuli Hoe
+Ruby Hoe
+Emerald Hoe
+Emerald Axe
+Emerald Pickaxe
+Emerald Sword
+Emerald Shovel
+Ruby Boots
+Ruby Leggings
+Ruby Chestplate
+Ruby Helmet
+Prismarine Helmet
+Lapis Lazuli Boots
+Lapis Lazuli Leggings
+Lapis Lazuli Chestplate
+Lapis Lazuli Helmet
+Emerald Boots
+Emerald Leggings
+Emerald Chestplate
+Emerald Helmet
+Amethyst Helmet
+Amethyst Chestplate
+Amethyst Leggings
+Amethyst Boots
+Amethyst Axe
+Amethyst Sword
+Amethyst Pickaxe
+Amethyst Shovel
+Amethyst Hoe
+Shulker Helmet
+Shulker Chestplate
+Shulker Leggings
+Shulker Boots
+Ruby Hammer
+Amethyst Hammer
+Braunite Gem
+Braunite Helmet
+Braunite Chestplate
+Braunite Leggings
+Braunite Boots
+Braunite Hoe
+Braunite Axe
+Braunite Pickaxe
+Braunite Sword
+Braunite Shovel
+Braunite Hammer
+Amber
+Cinnibar
+Fossil
+Jade
+Chunk of Meteor
+Opal
+Saphire
+Tin Ingot
+Copper Ingot
+Lead Ingot
+Silver Ingot
+Tungsten Ingot
+Aluminium Ingot
+Platinum Ingot
+Cobalt Ingot
+Mythrill Ingot
+Titanium Ingot
+Luminite Ingot
+Uranium Ingot
+Nickel Ingot
+Steel Ingot
+Osmium Ingot
+Amber Hammer
+Amber Axe
+Amber Sword
+Amber Pickaxe
+Amber Shovel
+Amber Hoe
+Cinnibar Hammer
+Cinnibar Axe
+Cinnibar Sword
+Cinnibar Pickaxe
+Cinnibar Shovel
+Cinnibar Hoe
+Jade Hammer
+Jade Axe
+Jade Sword
+Jade Pickaxe
+Jade Shovel
+Jade Hoe
+Opal Hammer
+Opal Axe
+Opal Sword
+Opal Pickaxe
+Opal Shovel
+Opal Hoe
+Saphire Hammer
+Saphire Axe
+Saphire Sword
+Saphire Pickaxe
+Saphire Shovel
+Saphire Hoe
+Meteorite Hammer
+Meteorite Axe
+Meteorite Sword
+Meteorite Pickaxe
+Meteorite Shovel
+Meteorite Hoe
+Tin Axe
+Tin Sword
+Tin Pickaxe
+Tin Shovel
+Tin Hoe
+Copper Hammer
+Copper Axe
+Copper Sword
+Copper Pickaxe
+Copper Shovel
+Copper Hoe
+Lead Hammer
+Lead Axe
+Lead Sword
+Lead Pickaxe
+Lead Shovel
+Lead Hoe
+Silver Hammer
+Silver Axe
+Silver Sword
+Silver Pickaxe
+Silver Shovel
+Silver Hoe
+Tungsten Hammer
+Tungsten Axe

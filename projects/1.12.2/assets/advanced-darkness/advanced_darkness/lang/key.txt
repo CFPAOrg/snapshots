@@ -1,0 +1,2 @@
+tile.advanced_darkness.lantern.name
+death.attack.darkness

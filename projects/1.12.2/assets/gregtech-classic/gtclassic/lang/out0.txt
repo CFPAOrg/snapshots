@@ -1,0 +1,124 @@
+Block of Electrum
+Block of Titanium
+Block of Iridium
+Block of Tungsten
+Block of Sapphire
+Block of Chrome
+Block of Ruby
+Block of Aluminium
+Block of Platinum
+Block of Thorium
+Block of Plutonium
+Block of Nickel
+Block of Invar
+Block of Technetium
+Brittle Charcoal
+Solid Super Fuel
+Magic Solid Super Fuel
+Iridium Ore
+Sheldonite Ore
+Ruby Ore
+Sapphire Ore
+Bauxite Ore
+Bedrock Ore
+Fusion Coil
+Lapotron Block
+Highly Advanced Machine Block
+Orechid
+Tungsten Mining Pipe
+Light Source
+Electric Craftingtable
+Disassembler
+Charge-O-Mat
+Computer Cube
+Industrial Centrifuge
+Matter Fabricator
+UUM-Assembler
+Echotron
+Digital Chest
+Quantum Chest
+Quantum Tank
+Player Detector
+Monster Repellator
+Microwave Energy Transmitter
+Bedrock Miner
+Fusion Reactor
+Lightning Rod
+Charcoal Pile Igniter
+Dragon Egg Energy Siphon
+Magic Energy Converter
+Magic Energy Absorber
+AESU
+IDSU
+LESU
+Tesseract Generator
+Tesseract Terminal
+Low Voltage Battery Block
+Supercondensator
+Superconductor Cable
+Basic Worktable
+Cabinet
+Drum
+Item Translocator
+Large Item Buffer
+Small Item Buffer
+Fluid Translocator
+Fluid Buffer
+Data Cable
+Flint Mortar
+Iron Mortar
+Redstone Transmitter
+Redstone Receiver
+Block Extender
+Type Filter
+Item Filter
+Electric Rock Breaker
+Display Screen
+Redstone Controlled Lamp
+Electrum Dust
+Eye of Ender Dust
+Titanium Dust
+Lazurite Dust
+Green Sapphire Dust
+Calcite Dust
+Pyrite Dust
+Iridium Dust
+Lithium Dust
+Tungsten Dust
+Carbon Dust
+Sapphire Dust
+Chrome Dust
+Bauxite Dust
+Sodalite Dust
+Ruby Dust
+Ender Pearl Dust
+Silicon Dust
+Aluminium Dust
+Flint Dust
+Emerald Dust
+Uranium Dust
+Thorium Dust
+Plutonium Dust
+Basalt Dust
+Platinum Dust
+Phosphorus Dust
+Sulfur Dust
+Nickel Dust
+Invar Dust
+Technetium Dust
+Brown Dye Dust
+Wood Pulp
+Sapphire
+Ruby
+Electrum Ingot
+Titanium Ingot
+Iridium Ingot
+Tungsten Ingot
+Chrome Ingot
+Silicon Ingot
+Aluminium Ingot
+Thorium Ingot
+Plutonium Ingot
+Platinum Ingot
+Nickel Ingot
+Invar Ingot

@@ -1,0 +1,9 @@
+itemGroup.tabmomoney
+item.cash.name
+item.goldcoins.name
+tile.blockofmoney.name
+item.stackomoney.name
+item.hammer.name
+item.paperbits.name
+item.goldcoin.name
+item.emeraldbits.name

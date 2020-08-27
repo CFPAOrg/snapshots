@@ -1,0 +1,3 @@
+item.torc.name
+item.rotten_carrot.name
+itemGroup.hungering

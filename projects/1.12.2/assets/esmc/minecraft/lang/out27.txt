@@ -1,0 +1,91 @@
+Light Gray Chevron
+Gray Chevron
+Pink Chevron
+Lime Chevron
+Yellow Chevron
+Light Blue Chevron
+Magenta Chevron
+Orange Chevron
+White Chevron
+Black Inverted Chevron
+Red Inverted Chevron
+Green Inverted Chevron
+Brown Inverted Chevron
+Blue Inverted Chevron
+Purple Inverted Chevron
+Cyan Inverted Chevron
+Light Gray Inverted Chevron
+Gray Inverted Chevron
+Pink Inverted Chevron
+Lime Inverted Chevron
+Yellow Inverted Chevron
+Light Blue Inverted Chevron
+Magenta Inverted Chevron
+Orange Inverted Chevron
+White Inverted Chevron
+Black Base Indented
+Red Base Indented
+Green Base Indented
+Brown Base Indented
+Blue Base Indented
+Purple Base Indented
+Cyan Base Indented
+Light Gray Base Indented
+Gray Base Indented
+Pink Base Indented
+Lime Base Indented
+Yellow Base Indented
+Light Blue Base Indented
+Magenta Base Indented
+Orange Base Indented
+White Base Indented
+Black Chief Indented
+Red Chief Indented
+Green Chief Indented
+Brown Chief Indented
+Blue Chief Indented
+Purple Chief Indented
+Cyan Chief Indented
+Light Gray Chief Indented
+Gray Chief Indented
+Pink Chief Indented
+Lime Chief Indented
+Yellow Chief Indented
+Light Blue Chief Indented
+Magenta Chief Indented
+Orange Chief Indented
+White Chief Indented
+Black Per Bend Sinister
+Red Per Bend Sinister
+Green Per Bend Sinister
+Brown Per Bend Sinister
+Blue Per Bend Sinister
+Purple Per Bend Sinister
+Cyan Per Bend Sinister
+Light Gray Per Bend Sinister
+Gray Per Bend Sinister
+Pink Per Bend Sinister
+Lime Per Bend Sinister
+Yellow Per Bend Sinister
+Light Blue Per Bend Sinister
+Magenta Per Bend Sinister
+Orange Per Bend Sinister
+White Per Bend Sinister
+Black Per Bend
+Red Per Bend
+Green Per Bend
+Brown Per Bend
+Blue Per Bend
+Purple Per Bend
+Cyan Per Bend
+Light Gray Per Bend
+Gray Per Bend
+Pink Per Bend
+Lime Per Bend
+Yellow Per Bend
+Light Blue Per Bend
+Magenta Per Bend
+Orange Per Bend
+White Per Bend
+Black Per Bend Inverted
+Red Per Bend Inverted

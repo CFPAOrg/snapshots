@@ -1,0 +1,2 @@
+death.attack.hypothermia
+death.attack.hyperthermia

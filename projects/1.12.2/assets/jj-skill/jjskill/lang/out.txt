@@ -1,0 +1,13 @@
+Energy Consumption
+Learning Reward
+Mob Defence
+Banned Blocks
+Mostra messaggio nuovo Aggiornamento
+Item Potenziamento
+Numero massimo item skillati in Inventario
+Durata della limitazione dell'esperienza in ore
+Massima Esperienza ottenibile durante la limitazione
+Lista mob che droppano le armi
+Difficoltà di drop delle armi
+Esperienza default delle Bottiglie
+General

@@ -1,0 +1,10 @@
+tile.fcl:workbench.name
+tile.fcl:blueprinttable.name
+gui.fcl.blueprinttable0.catdesc
+gui.fcl.blueprinttable2.recstatus
+gui.fcl.blueprinttable2.craftsuccess
+gui.fcl.blueprinttable2.craftmissing
+gui.fcl.recipe.testcat0
+gui.fcl.recipe.testcat1
+gui.fcl.recipe.testcat2
+gui.fcl.recipe.generic

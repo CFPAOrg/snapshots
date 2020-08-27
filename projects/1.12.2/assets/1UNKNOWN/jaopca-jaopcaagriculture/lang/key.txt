@@ -1,0 +1,6 @@
+item.jaopca.essence.name
+item.jaopca.mysticalSeeds.name
+tile.jaopca.mysticalCrops.name
+tile.jaopca.crux.name
+plant.jaopca.mystical
+plant.desc.jaopca.mystical

@@ -1,0 +1,61 @@
+&bEvent&7: Damage
+&bEvent&7: Tick
+&bEvent&7: Jump
+&bEvent&7: Low Light
+&bEvent&7: Underwater
+&bEvent&7: On Fire
+&bEvent&7: Low Health
+ &dKeybinds
+  Delete Rune: &dDelete
+  Clear Grid: &d%1$s-Shift-Delete
+  Shift Grid: &d%1$s + Arrow Keys
+  Copy/Cut/Paste: &d%1$s-C/%1$s-X/%1$s-V
+  Undo/Redo: &d%1$s-Z/%1$s-Y
+  Open Panel/Select Rune: &dEnter
+  Set Parameter: &dNumber Keys + Arrow Keys
+  Set Comment: &d%1$s-D
+  Switch Focus: &dTab
+  Show Tooltip: &dAlt
+  Move Cursor: &dArrow Keys
+  Upload To Imgur: &d%1$s-Shift-Alt-G
+  Share To Reddit: &d%1$s-Shift-Alt-R
+ &dSearch Terms
+  Accepting Type: &din:(type)
+  Outputting Type: &dout:(type)
+  Name Begins With: &d(name)_
+  Name Ends With: &d_(name)
+Selector: Caster
+Selects the person casting the spell
+Selector: Focal Point
+Selects the Focal Point Entity of this spell
+Selector: Nearby Items
+Selects items near the given position
+Selector: Nearby Living
+Selects living beings near the given position
+Selector: Nearby Enemies
+Selects enemies near the given position
+Selector: Nearby Animals
+Selects animals near the given position
+Selector: Nearby Projectiles
+Selects projectiles near the given position
+Selector: Nearby Smeltables
+Selects smeltable items near the given position
+Selector: Loopcast Index
+Selects the amount of loopcast executions done
+Selector: Block Broken
+Selects the Block Broken (for Tools)
+Selector: Block Broken Side
+Selects the side in which a Block was broken (for Tools)
+Selector: Attack Target
+Selects the entity attacked by a caster
+Selector: Sneak Status
+Selects if the caster is sneaking (1 if no, 0 if yes)
+Selector: Time
+Selects the Rod's internal time (in ticks)
+Selector: Attacker
+Selects the entity that attacked the caster
+Selector: Damage Taken 
+Selects the amount of damage the caster took
+Selector: Ruler Vector 
+Selects the vector defined by a Vector Ruler
+Selector: Item Presence

@@ -1,0 +1,31 @@
+Oats
+Mob Drops Storage Blocks
+Skeleton Arm
+Cow Hide
+Mooshroom Hide
+Brown Mooshroom Hide
+Creepy Moss
+Leather Strip
+Block of Blaze Powder
+Block of Bones
+Block of Rotten Flesh
+Bundle of Sticks
+Bunch of Blaze Rods
+Bundle of Feathers
+Block of Spider Eyes
+Block of Gunpowder
+Block of Leather
+Cow Pattern Block
+Mooshroom Pattern Block
+Brown Mooshroom Pattern Block
+Block of Creepy Moss
+Nest
+ Block of Ink Sacs
+Creepy Moss Carpet
+Cow Pattern Carpet
+Mooshroom Pattern Carpet
+Brown Mooshroom Pattern Carpet
+Stick Mat
+Leather Mat
+Armed and Ready
+Loot a skeleton's arm.

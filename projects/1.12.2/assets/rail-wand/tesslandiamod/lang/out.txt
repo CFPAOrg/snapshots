@@ -1,0 +1,11 @@
+Weapons Tab
+Demon Sword
+Rail Wand
+Bionic Helmet
+Bionic Chestplate
+Bionic Leggings
+Bionic Boots
+Rail Wand: path started
+Rail Wand: path succeeded
+Rail Wand: path failed
+Rail Wand: invalid location

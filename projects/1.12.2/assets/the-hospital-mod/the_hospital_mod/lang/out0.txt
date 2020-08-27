@@ -1,0 +1,82 @@
+Fetal Monitoring Workstation
+Creative_Theatres
+Hospital Bed
+Ward - The Hospital Mod
+Office Printer
+Office Wall Phone
+Prescription Shelf
+Vinyl Floor - White (Type 1)
+Pharmacy Counter (with Logo)
+Vinyl Wall - Aqua (Type 1)
+Plastered Wall - Beige
+Office Desk (With Back)
+Bedside Head Unit
+Brick (Red)
+Surgical Trolley
+Office Desk Phone
+Capsule Filling Machine
+Vinyl Wall - Blue (Type 1)
+Radiology - The Hospital Mod
+Surgical Refridgerated Cabinet
+Drinks Fridge
+Brick (Beige)
+Vinyl Floor - Beige (Type 2)
+Refridgerated Centrifuge
+Pharmacy - The Hospital Mod
+Hand Sanitiser Dispenser
+Medical Gas Alarm Panel
+Vinyl Wall - Green (Type 1)
+Decorative Divide
+Medication Drawers
+Ward Storage Drawers
+Patient Informaiton Point
+Cleaning Trolley
+Vinyl Wall - Salmon (Type 2)
+Creative_Facilities
+ePOS Cashier System
+Compounding Isolator
+Vinyl Floor - Green (Type 1)
+Plastered Wall (Green)
+Plastered Wall (White)
+Computer Screen (X-RAY Viewer)
+LED Square Light - On (Hand Activated)
+Plastered Wall (Blue)
+Wall Storage Tubs (Yellow)
+CT Scanner
+Pharmacy Counter
+Plastered Wall (Sky Blue)
+X-Ray Light
+Vinyl Floor - Blue (Type 2)
+Ultrasound
+Facilities - The Hospital Mod
+Brick (Dark)
+Life Support/Syringe Pumps
+Surgical Instruments
+X Pharmacy GUIX
+X-Ray Machine
+Prescription Basket (Empty)
+Vinyl Wall - White (Type 1)
+Ward Resus Trolley
+Rack Shelving (Empty)
+Brick (Grey)
+Store Shelf (Stocked)
+Surgical Worktop/Table
+Medical Gas (Ceiling Mounted)
+Vinyl Floor - Light Blue (Type 1)
+Bottle Filling Machine
+Cladding (Stone Effect)
+Illuminated Pharmacy Sign
+X-RAY Light Box (Blank)
+Wet Floor Sign
+LED Square Light (Redstone Powered)
+Vinyl Floor - Aqua (Type 2)
+Operating Table
+Rack Shelves (Linen)
+Vinyl Wall - Aqua (Type 2)
+Fire Exit Sign (Wall Mounted)
+Surgical Workstation
+LED Light (Hand Activated)
+X-RAY Light Box (Chest)
+Prescription Basket
+Plastered Wall (Lime)
+Waste Bin (Clinical Waste)

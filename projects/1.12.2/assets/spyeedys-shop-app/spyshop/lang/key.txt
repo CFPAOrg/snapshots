@@ -1,0 +1,8 @@
+app.spyshop.shop.name
+app.spyshop.shop.desc
+app.spyshop.shop.author
+appShop.balance
+appShop.category.food
+appShop.category.armor
+appShop.category.tool
+appShop.category.block

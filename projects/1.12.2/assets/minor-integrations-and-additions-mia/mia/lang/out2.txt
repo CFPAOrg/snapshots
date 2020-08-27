@@ -1,0 +1,33 @@
+Register custom loot for loot bags
+Squid drops calamari
+Balance modded food similarly to vanilla ones
+Register aspects for other mods
+Orechid Vacuam ore dictionary
+Register shady merchant trades in JER
+Blacklist laser drill Aether biome for non-Aether ores
+Allow new Freezer fuels
+Enable loot bag category
+Enable alchemical cauldron category
+Enable orechid vacuam category
+Add all supported enchantments as ancient tomes
+Add supported items to enchanted book tooltips
+Add ancient tome crafting
+Enable new Froster recipes
+Enable new Laser Drill entries
+Enable new Protein Generator entries
+Enable Tree Fluid Extractor entries
+Buff silver weapons from other mods
+Replace fish drops
+/size <player> <size> or /size [size]
+/size
+%s size modifier is %s (actual size is %s)
+Succesfully changed %s size modifier to %s
+%s is not a player nor a valid size
+Progress
+Speed: %s
+Not enough grass and dirt in vicinity
+Not enough water in vicinity
+Loot Bags
+When provided with eggs (either manually, or by any means of automation), and if at least a single output slot is empty, it will check how good an egg is, compare it with eggs already kept there, and put all but best eggs in output slot.\nEach of the slots is only checking for one of the 3 stats, so it'll allow to select the preferred stat. (It still needs some work, it doesn't stack eggs with same stats from 2 different chickens.)
+With the help of miniaturization and magic, this block provides perfect conditions to live for 9 pixies. Over time, this block is going to accumulate pixie dust, which is a nice addition to providing housing for those small, annoying creatures. Pixie dust is going to be collected faster the more pixies are there. Pixie dust extraction can be automated. This block accepts pixie jars as well as some mob capturing items.
+(Wuss mode needs to be enabled in Thaumcraft options for this block to be possible to unlock and for it to work!) If this block is placed in area with high enough Flux content, and there's more Flux than Vis, it will drain Flux over time and create Void Seeds. There is, however, a chance for them to turn into a Primordial Pearl. The chance is increased the more Void Seeds are there and this can only happen when Void Seeds are created - there's no point in holding an entire stack of them there. Primordial pearls will be created weak, but will increase in strength as Flux is drained by Void Creator.

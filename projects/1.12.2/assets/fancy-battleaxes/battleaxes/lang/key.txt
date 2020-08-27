@@ -1,0 +1,10 @@
+item.amethyst_battleaxe.name
+item.iron_battleaxe.name
+item.gold_battleaxe.name
+item.diamond_battleaxe.name
+item.nickel_battleaxe.name
+item.ruby_battleaxe.name
+item.sapphire_battleaxe.name
+item.silver_battleaxe.name
+item.titanium_battleaxe.name
+item.stone_battleaxe.name

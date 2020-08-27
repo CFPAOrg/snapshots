@@ -1,0 +1,7 @@
+language.name
+language.region
+language.code
+item.ERASER.name
+item.FILLER.name
+tile.counter.name
+labyrinth.tab

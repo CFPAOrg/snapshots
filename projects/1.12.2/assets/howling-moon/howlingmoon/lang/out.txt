@@ -1,0 +1,66 @@
+You now have the ability to shift into beast form. It may help you sprint through the tunnel. But take care to not touch the walls for you are bigger in that form!
+You are now able to spread our gift to others.
+Use everything you have to make to the end and prove your mastery. If you are carrying valuable items I suggest jumping out and storing them before atempting.
+You have completed your training and proved your mastery to us. Whether you have choosen to control the beast within or embrace it, we are proud have our gift run within you.
+Inclination is now %s.
+Werewolf
+Abilities
+Texture
+Model
+Gray
+White
+Black
+Red
+Timber
+Custom 
+Wolf
+Beast
+Status
+Normal
+Infected
+Immune
+Off
+On
+Skills
+Inclination
+Calm
+Protector
+Guardian
+Savage
+Beast
+Predator
+Neutral
+Keep paw empty
+Enter slot number, (0 - 8), to keep empty. Any other value will turn off ability
+Slot
+Forward
+Aim
+Ability
+Ability Toggle
+None
+Click to change
+Activate
+Leap: Sneak + Jump
+Leap: Sprint + Jump
+Climb: Sprint
+Do not climb while holding Sprint
+Only climb while holding Sprint
+Hold position while climbing
+Clamp onto wall while climbing
+Clamp onto wall
+Forward: Up, Back: Down
+While climbing only
+While on ground only
+While holding Sprint key
+Scent Tracking Color
+Color Settings
+Monsters
+Animals
+Creatures
+Others
+Edit
+Clear
+Ignore
+Cancel
+Disabled
+Specific

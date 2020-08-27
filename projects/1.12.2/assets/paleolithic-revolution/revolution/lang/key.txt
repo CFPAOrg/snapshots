@@ -1,0 +1,9 @@
+entity.female.name
+entity.male.name
+item.man_meat.name
+item.cooked_man_meat.name
+item.spawner.name
+item.mutator.name
+item.generator.name
+item.fertilizer.name
+item.amplifier.name

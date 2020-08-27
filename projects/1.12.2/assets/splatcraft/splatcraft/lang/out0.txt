@@ -1,0 +1,158 @@
+Splatcraft
+Inked Block
+Empty Inkwell
+Inkwell
+Ink Canvas
+Inked Wool
+Grate
+Barrier Bar
+Sunken Crate
+Crate
+Power Egg Block
+Block of Sardinium
+Sardinium Ore
+Ink Vat
+Ammo Knights Workbench
+Stage Barrier
+Stage Void
+Power Egg
+Can of Power Eggs
+Sardinium
+Ink Disruptor
+Turf Scanner
+Top-Down
+Multi-Layered
+Color Transmutator
+All
+Whitelist Player Color
+Blacklist Player Color
+(%s,%s,%s)
+(%s,%s,%s) to (%s,%s,%s)
+Filter
+Organic Filter
+Neon Filter
+Pastel Filter
+Enchanted Filter
+Creative Filter
+Use it in an Ink Vat to get more colors!
+Ink Cloth Hat
+Ink Cloth Shirt
+Ink Cloth Pants
+Ink Cloth Boots
+It matches your ink color!
+Squid Bumper
+Splatfest Band
+Ink Tank
+Ink: %s / %s
+Classic Ink Tank
+Ink Tank Jr.
+Only works with Junior weapons.
+Hero Tank
+Armored Ink Tank
+Splattershot
+Tentatek Splattershot
+Wasabi Splattershot
+Splattershot Jr.
+Splattershot Pro
+Splattershot 2
+Aerospray MG
+Aerospray RG
+.52 Gal
+.52 Gal Deco
+.96 Gal
+.96 Gal Deco
+Blaster
+Grim Blaster
+Range Blaster
+Grim Range Blaster
+Clash Blaster
+Clash Blaster Neo
+Rapid Blaster
+Rapid Blaster Pro
+Luna Blaster
+Splat Charger
+Bento Splat Charger
+Splat Charger 2
+Classic Squiffer
+Splatterscope
+Splatterscope 2
+E-Liter 3K
+E-Liter 4K
+Splat Roller
+Krak-On Splat Roller
+CoroCoro Splat Roller
+Splat Roller 2
+Carbon Roller
+Inkbrush
+Octobrush
+Splat Dualie
+Enperry Splat Dualie
+Dualie Squelcher
+Slosher
+Classic Slosher
+Soda Slosher
+Tri-Slosher
+Shooters
+Rollers
+Chargers
+Blasters
+Dualies
+Sloshers
+Splatlings
+Brellas
+Sub Weapons
+Special Weapons
+Ink Tanks
+Aerospray
+E-Liter
+Splat Dualies
+Dualie Squelchers
+Original
+Classic
+Custom
+Deco
+Kensa
+Hero
+Hero Replica
+Ultimate
+Tentatek
+Krak-On
+Enperry
+Neo
+Wasabi
+CoroCoro
+Bento
+Grim
+Permanent
+Soda
+3K
+4K
+MG
+RG
+PG
+Orange
+Blue
+Pink
+Green
+Light Blue
+Turquoise
+Yellow
+Lilac
+Lemon
+Plum
+Mint
+Cyan
+Peach
+Cherry
+Neon Pink
+Neon Green
+Neon Orange
+Neon Blue
+White
+Undyed
+Cobalt
+Red Thing
+Icy Mint
+Floral Pink
+Hero Yellow
+Octo Pink

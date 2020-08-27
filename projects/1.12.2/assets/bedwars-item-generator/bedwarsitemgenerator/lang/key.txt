@@ -1,0 +1,9 @@
+language.name
+language.region
+language.code
+itemGroup.bedwarsitemgenerator
+tile.bedwarsitemgenerator.iron_gen.name
+tile.bedwarsitemgenerator.gold_gen.name
+tile.bedwarsitemgenerator.diamond_gen.name
+tile.bedwarsitemgenerator.obsidian_gen.name
+tile.bedwarsitemgenerator.custom_gen.name

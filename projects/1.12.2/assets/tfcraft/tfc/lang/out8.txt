@@ -1,0 +1,53 @@
+Iron Ore Dictionary in Wrought Iron
+Add iron ore dictionary (ie: ingotIron, oreIron) to wrought iron items?
+Plate Ore Dictionary in Sheets
+Add plate ore dictionary (plateIron, plateBronze) to sheets?
+Wooden Bucket Fluid Whitelist
+Allowed fluids to be picked up by the wooden bucket.
+Blue Steel Bucket Whitelist
+List of fluids allowed to be picked up by blue steel bucket
+Red Steel Bucket Whitelist
+List of fluids allowed to be picked up by red steel bucket
+Pluckable Entities
+Entities that drop a feather when shift right clicked.
+Pluckable Entities Damage Per Feather
+How much damage is done to an entity when a feather is plucked.
+Rock Mining Time Modifier
+Log Mining Time Modifier
+Device Settings
+Various configuration settings for devices (ie: Bloomery, Small Vessel, Barrel)
+Temperature Settings
+Global Temperature Modifier
+Heating Temperature Modifier
+Barrel
+Tank Storage
+How much fluid (mB) can a barrel hold?
+Fluid Whitelist
+List of fluids allowed to be inserted into a barrel.
+Blast Furnace
+Consumption
+Bloomery
+Ticks
+Crucible
+Tank Storage
+How much metal (units / mB) can a crucible hold?
+Accept Pouring from All Slots
+Let crucibles accept pouring metal (from small vessels / molds) from all 9 input slots at the same time.
+Pouring Speed
+How fast should crucibles accept fluids from molds / small vessel?
+Charcoal Pit
+Ticks
+Charcoal Forge
+Rain drop burning ticks removal
+Number of burning ticks that is removed when the charcoal forge is on rain (random ticks). This effectively makes the charcoal forge consumes more fuel when it is raining above it.
+Fire Pit
+Ticks
+Rain drop burning ticks removal
+Number of burning ticks that is removed when the fire pit is on rain (random ticks). This effectively makes the fire pit consumes more fuel when it is raining above it.
+Pit Kiln
+Ticks
+Lamp
+Tank Storage
+How much fuel (mB) can a metal lamps hold?
+Burn Rate
+Accepted Fuels

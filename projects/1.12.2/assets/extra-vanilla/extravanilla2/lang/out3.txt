@@ -1,0 +1,103 @@
+Dark Oak Hoe
+Big Dark Oak Sword
+Dark Oak Battleaxe
+Jungle Sword
+Jungle Axe
+Jungle Pickaxe
+Jungle Shovel
+Jungle Hoe
+Big Jungle Sword
+Jungle Battleaxe
+Oak Battleaxe
+Big Oak Sword
+Smooth Stone
+Smooth Quartz 
+Smooth Sandstone
+Red Smooth Sandstone
+Andesite Bricks
+Granite Bricks
+Diorite Bricks
+Mixed Bricks
+Sandy Bricks
+Sandstone Bricks
+Red Sandstone Bricks
+Sandstone Bricks
+Red Sandstone Bricks
+Carved Melon
+Carved Pumpkin
+Magma Bricks
+Obsidian Bricks
+Lapis Bricks
+Glowstone Bricks
+Redstone Bricks
+Iron Ladder
+Acacia Stripped Log
+Acacia Stripped Wood
+Acacia Wood
+Oak Stripped Log
+Oak Stripped Wood
+Oak Wood
+Dark Oak Stripped Log
+Dark Oak Stripped Wood
+Dark Oak Wood
+Spruce Stripped Log
+Spruce Stripped Wood
+Spruce Wood
+Jungle Stripped Log
+Jungle Stripped Wood
+Jungle Wood
+Birch Stripped Log
+Birch Stripped Wood
+Birch Wood
+Block of Lapis
+Block of Glowstone
+Block of Redstone
+Block of Active Redstone
+Block of Netherite
+Black Stained Planks
+Blue Stained Planks
+Brown Stained Planks
+Gray Stained Planks
+Green Stained Planks
+Light Blue Stained Planks
+Lime Stained Planks
+Magenta Stained Planks
+Orange Stained Planks
+Cyan Stained Planks
+Pink Stained Planks
+Purple Stained Planks
+Red Stained Planks
+Silver Stained Planks
+White Stained Planks
+Yellow Stained Planks
+Black Stained Bricks
+Blue Stained Bricks
+Brown Stained Bricks
+Gray Stained Bricks
+Green Stained Bricks
+Light Blue Stained Bricks
+Lime Stained Bricks
+Magenta Stained Bricks
+Orange Stained Bricks
+Cyan Stained Bricks
+Pink Stained Bricks
+Purple Stained Bricks
+Red Stained Bricks
+Silver Stained Bricks
+White Stained Bricks
+Yellow Stained Bricks
+Black Quilted Wool
+Blue Quilted Wool
+Brown Quilted Wool
+Gray Quilted Wool
+Green Quilted Wool
+Light Blue Quilted Wool
+Lime Quilted Wool
+Magenta Quilted Wool
+Orange Quilted Wool
+Cyan Quilted Wool
+Pink Quilted Wool
+Purple Quilted Wool
+Red Quilted Wool
+Silver Quilted Wool
+White Quilted Wool

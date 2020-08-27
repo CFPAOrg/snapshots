@@ -1,0 +1,107 @@
+Distortion Guitar
+Acoustic Bass
+Fingered Bass
+Pick Bass
+Violin
+Viola
+Cello
+Double Bass
+Pizzicato
+Harp
+Timpani
+Strings
+Slow Strings
+Synth Strings
+Concert Choir
+Orchestra Hit
+Trumpet
+Trombone
+Tuba
+Muted Trumpet
+Brass Section
+Soprano Sax
+Alto Sax
+Tenor Sax
+Baritone Sax
+Oboe
+English Horn
+Bassoon
+Clarinet
+Piccolo
+Flute
+Recorder
+Pan Flute
+Irish Tin Whistle
+Ocarina
+Sitar
+Banjo
+Shamisen
+Koto
+Bagpipes
+Fiddle
+Shenai
+Steel Drums
+Taiko Drums
+Melodic Tom
+Coupled Harpsichord
+Square Wave
+Saw Wave
+Pipe Organ 2
+Sine Wave
+M Lute
+M Ukulele
+M Mandolin
+M Whistle
+M Roncadora
+M Flute
+M Chalumeau
+M Tuba
+M Lyre
+M Electric Guitar
+M Piano
+M Violin
+M Cello
+M Harp
+T Flute
+T Whistle
+M Bass Drum
+M Snare
+M Cymbals
+M Hand Chime
+Standard Set
+Orchestra Set
+No Sheet Music Found
+mxTune
+Music Plays
+mxTune General Settings
+mxTune General
+mxTune Client Settings
+mxTune Client
+mxTune Recipe Settings
+mxTune Recipe
+General Settings
+General Settings
+Disable JAM Party Right Click
+Disables joining parties when clicking on another player that's hosting a JAM session. Also disables the JAM party management gui's.
+Listener Range
+The radius around a music source in blocks in which a player can hear music.
+Show Welcome Status Message
+Exactly as the name implies, if true the welcome message is displayed.
+Jam Abort Distance
+The maximum distance between group members. Exceeding this distance will stop the music.
+More Debug Messages
+Shows more debug messages in the console/log window of the launcher and latest log file. Also enables debug text in the instrument overlay.
+Automatically configure sound channels
+Automatically configure sound channels
+Vanilla Music
+Music Options
+Disable Creative Music
+Disable Creative Mode Music
+Disable Credits Music
+Disable Credits Music
+Disable End Dragon Music
+Disable End Dragon Music
+Disable End Music
+Disable End Music
+Disable Game Music
+Disable Game Mode Music

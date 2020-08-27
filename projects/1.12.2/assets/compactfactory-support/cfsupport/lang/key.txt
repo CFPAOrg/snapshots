@@ -1,0 +1,14 @@
+item.diamondcoin.name
+tile.compactwallblack.name
+item.tincoin.name
+item.emeraldcoin.name
+item.ironcoin.name
+item.goldencoin.name
+item.cfdimension_trigger.name
+item.bronzecoin.name
+tile.compactwallwhite.name
+item.patterncore.name
+item.wetpattern.name
+item.coppercoin.name
+item.obsidiancoin.name
+item.woodencoin.name

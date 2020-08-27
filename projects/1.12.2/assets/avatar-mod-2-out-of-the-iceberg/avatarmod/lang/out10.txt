@@ -1,0 +1,47 @@
+%2$s was §c§lconflagrated by %1$s's fire burst!
+%1$s drowned from %2$s's §9§lwaterbending!
+%2$s's §9§lwater §9§larc drowned %1$s !
+%1$s §9§lcan't §9§lsurf!
+%1$s couldn't handle the §9§lpressure of %2$s's §9§lWater §9§lCannon!
+%2$s was §9§ldrowned by %1$s's hydrowave!
+%2$s was §9§lblasted by %1$s's §9§ltorrential burst!
+%1$s was blasted away with %2$s's §f§lairbending!
+%1$s was §f§lsliced by %2$s !
+%2$s was §f§lblown away by %1$s's shockwave!
+%2$s was §f§lripped apart by %1$s's air burst!
+%1$s was crushed with %2$s's §2§learthbending!
+%2$s §2§lsmashed %1$s with a §2§lblock!
+%2$s §2§lcrushed %1$s in a §2§lravine!
+%2$s §2§lstabbed %1$s with §2§learthspikes!
+%2$s was §2§lcrushed by %1$s's shockwave!
+%2$s was §2§lsmashed by %1$s's tectonic explosion!
+%1$s suffocated from %2$s's §6§lsandbending!
+%1$s was §6§lentombed by %1$s's §6§lsand §6§lprison!
+%2$s was §6§lflung by %1$s's §6§lsandstorm!
+%2$s was §6§lsuffocated by %1$s's sand wave!
+%2$s was §6§lsuffocated by %1$s's sand burst!
+%1$s was blown to smithereens by %2$s's §8§lcombustionbending!
+%2$s was §8§lexplodinated by %1$s's explosion!
+%2$s was §8§lannihilated by %1$s's explosion!
+%1$s was shocked with %2$s's §b§llightningbending!
+%2$s §b§lredirected lightning to §b§lelectrocute %1$s !
+%1$s had a hole §b§lvaporised in them with %2$s's §b§llightning spear!
+%2$s was §b§lvaporised by %1$s's plasma wave!
+%2$s was §b§lvaporised by %1$s's lightning burst!
+%1$s was frozen by %2$s's §3§licebending!
+The §3§lintense §3§lfrost of %2$s's §3§lice §3§lprison §3§lfroze %1$s !
+%2$s was §3§lstabbed by %1$s's §3§lice §3§lshard!
+%2$s was §3§lfrozen by %1$s's ice wave!
+%2$s was §3§lshattered by %1$s's ice burst!
+§f§lAirbender
+§c§lFirebender
+§9§lWaterbender
+Flying Bison
+Otter Penguin
+Ostrich Horse
+Avatar Items
+§d§lScroll
+§f§lAirbending §d§lScroll
+§c§lFirebending §d§lScroll
+§2§lEarthbending §d§lScroll
+§9§lWaterbending §d§lScroll

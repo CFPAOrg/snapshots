@@ -1,0 +1,10 @@
+item.alarmclock.name
+string.alarmclock.dawn
+string.alarmclock.dusk
+string.alarmclock.noon
+string.alarmclock.midnight
+string.alarmclock.herebedragons
+string.alarmclock.sleeptil
+string.alarmclock.alarmset
+string.alarmclock.notyourbed
+string.alarmclock.noservers

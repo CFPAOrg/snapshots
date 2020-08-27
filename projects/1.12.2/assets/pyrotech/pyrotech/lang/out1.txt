@@ -1,0 +1,121 @@
+Flint Shard
+Bone Shard
+Plant Fibers
+Dried Plant Fibers
+Twine
+Charcoal Flakes
+Masonry Brick
+Lump of Clay
+Iron Shard
+Diamond Shard
+Board
+Coal Pieces
+Potash Mulch
+Tarred Board
+Pulp
+Durable Twine
+Stone Rod
+Burned Food
+Crushed Limestone
+Kindling
+Tarred Kindling
+Crushed Flint
+Glass Shard
+Obsidian Shard
+Gold Shard
+Baked Apple
+Roasted Carrot
+Roasted Egg
+Roasted Brown Mushroom
+Roasted Red Mushroom
+Roasted Beetroot
+Crude Hammer
+Stone Hammer
+Flint Hammer
+Bone Hammer
+Iron Hammer
+Golden Hammer
+Diamond Hammer
+Obsidian Hammer
+Straw Bale
+Block of Coal Coke
+Log Pile
+Refractory Block
+Limestone
+Refractory Glass
+Slag Glass
+Fossil Ore
+Dense Coal Ore
+Dense Nether Coal
+Cobbled Andesite
+Cobbled Diorite
+Cobbled Granite
+Cobbled Limestone
+Masonry Bricks
+Mulched Farmland
+Tarred Planks
+Wood Chips
+Ash Pile
+Tarred Wool
+Block of Charcoal
+Tar Bale
+Living Tar
+Stone Rock
+Andesite Rock
+Diorite Rock
+Granite Rock
+Dirt Clump
+Sand Pile
+Sandstone Rock
+Grass Clump
+Pile of Wood Chips
+Limestone Rock
+Red Sand Pile
+Input Capacity: %s%d
+Output Capacity: %s%d mB
+Fuel Capacity: %s%d
+Fuel Modifier: %s%d%%
+Self-extinguishes on recipe completion.
+Hold %s<SHIFT>%s for info.
+Uses: %d / %d
+Uses: %d
+Durability: %d / %d
+Durability: %d
+Indestructible
+Can hold hot fluids.
+Breaks with hot fluids.
+Burn Time: %s
+Capacity: %d mB
+%s: %d / %d
+Rate: %d mB/t
+Shutoff: %d mB
+Capacity: %d items
+Capacity: %d / %d items
+Drains collectors in a %dx%d range in front of the block.
+Valid for refractory structure.
+%s: %sx%d
+%s: %s%d%%
+%s: %sx%d in %dx%d
+Keeps contents when broken.
+Destroys contents when broken.
+Efficiency:
+%s: %s%d%%
+Burns up over time.
+Lasts forever.
+Extinguished by rain.
+Stays lit in the rain.
+%s: %d
+Capacity: %d of %d
+Recipe: %s
+Recipe: %s (%s)
+Cog: %s
+%s: %d of %d mB
+Empty: %d of %d mB
+Fuel: %s%s
+Logs: %d of %d
+Ash: %d of %d
+Burn Time: %s
+Blade: %s
+Speed: %d%%
+Hammered: %d%%
+Integrity: %d%%

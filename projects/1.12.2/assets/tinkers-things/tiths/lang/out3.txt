@@ -1,0 +1,51 @@
+Drilled
+Add one modifier slot by reducing damage and durability
+Phantasmic
+§oOnly I can see it?§r\nWhat on earth is it?
+Hemolytic
+To heal the tool when dealing damage
+Wither Flowing
+§oYour life drains§r\nTo wither and weaken your enemy
+Carbonizing
+§oFine§r\n
+Sun Power
+§o§r\nTo slowly heal the tool at day time
+Moon Power
+§o§r\nTo slowly heal the tool at night time
+Lionheart
+§oYou no longer fear§r\nEvery time you hit enemy, this will provide you a lionheart effect
+Terrifying
+§oHuh§r\nTo weaken your enemy
+Thunder Waving
+§oThumping§r\nTo increase the damage and knockback the monsters around
+Gluttonic
+§oI just want to eat§r\nTo make yourself hungry, but recover when killing.\nAll drops will be removed
+Moonlight
+§oSee the light§r\nTo provide night vision effect when hit target
+Nature Blessing
+§oGreetings from nature§r\nYour tool will automatically repair itself when close to wood
+Chemical Instable
+§oLet me see...§r\nTo explode with a small chance when using
+Infernal Blazing
+§oEndless purgatory§r\nTo burn user when being hold
+Dragon Killer
+§oNo more DRAGON§r\nTo deal more damage to DRAGON
+Midas Desiring
+§o祸福倚伏§r\n将挖到的金矿石直接转化为双倍的金锭, 有几率将掉落物转化为金子, 但是会慢慢吞食背包里的金子
+Gorgeous
+§oColorful black§r\nTo increase damage
+Peace Energetic
+§oExperience tranquility§r\nTo heal user when not moving
+Hyper
+§oI feel so high§r\nTo provide speed and haste effects when using
+Dichroic
+§oDoes it look different?§r\nTo incease speed in a bright place and increase damage in a dark place
+Life Inspiring
+§oI won't go die easily§r\nTo provide regeneration effect when user is in danger
+Oracular
+§oSoul washing§r\nCleansing buffs of target and debuffs of user\nTo heal user with a small chance
+Thermal Gathering
+§oI'm so hot§r\nReduce fire damage you taken and your tool will automatically repair itself when close to heat source
+Steamy
+§o-50% off§r\nTo decrease damage and increase knockback
+Decoying

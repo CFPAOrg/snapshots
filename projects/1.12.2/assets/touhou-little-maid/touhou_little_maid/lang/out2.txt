@@ -1,0 +1,78 @@
+Backpack level not match, need %s§r but is %s§r.
+Backpack level is biggest.
+Reloading resource information...
+Slash blade position is changed!
+Maid Pos Cleared!
+Entity Riding: ON
+Entity Riding: OFF
+Your lack of knowledge does not know how to use this item
+Please right click on the clay block
+Please have a photo of the maid in your offhand
+Maid Death Pos:
+JourneyMap:
+Click to create waypoint.
+Ctrl + click to view on map.
+Single Point
+Muti-Point Reentry
+Muti-Point Closure
+Set Range
+None
+§4§lHOME MODE IS DISABLE
+§6§lUnset Pos
+§a§lMaid Pos: %d, %d, %d
+The song is already playing ~
+This song does not exist, please check whether it is removed
+%1$s was killed by %2$s using danmaku
+%1$s was shot by %2$s using danmaku
+%1$s was pummeled by %2$s using danmaku
+Maid Config
+Maid Tamed Item
+Maid Temptation Item
+Maid Talk Interval (tick)
+Maid Pickup Sound Interval (Pickup Counts)
+Maid Hurt Sound Interval (tick)
+Maid Always Show Hat
+Maid Enabled Tasks
+Disable Player Change Maid Skin
+Owner Max Maid Num
+Vanilla Config
+Change XP Orb Texture
+Change Slime Model To Yukkuri
+Change Totem Model To Life Point
+Mob Config
+Maid Fairy Power Point
+Maid Fairy Spawn Probability
+Rinnosuke Power Point
+Rinnosuke Spawn Probability
+Misc Config
+Shirne Lamp Effect Cost
+Shrine Lamp Max Storage
+Player Death Loss Power Point
+Only Creative Player Can Ride Broom
+Power Point HUD Position X
+Power Point HUD Position Y
+Override NPC Render
+Only creative player can change chair model
+Only creative player can destroy chair
+Will the danmaku be affected by the fluid?
+Give Guide Book?
+Gashapon Config
+Purchase Gashapon Item
+Purchase Gashapon Price
+UR Level Gashapon's Weights
+SSR Level Gashapon's Weights
+SR Level Gashapon's Weights
+R Level Gashapon's Weights
+N Level Gashapon's Weights
+Music Config
+Player Name Reg
+Receive Music
+Pellet
+Ball
+Orbs
+Big Ball
+Bubble
+Heart
+Jellybean
+Amulet
+Star

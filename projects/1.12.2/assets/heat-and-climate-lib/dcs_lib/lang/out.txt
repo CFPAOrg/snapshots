@@ -1,0 +1,55 @@
+Climate Checker
+Repair Patty
+Can check the climate in the right-click position (range 2)
+Max Durability
+Harvest Level
+Climate Resistance
+Lshift Key: expand tooltip
+Climate Smelting
+Climate Crafting
+Mill Recipe
+Fluid Processing
+Reactor Processing
+Climate Crops
+Climate Effective Tiles
+Spinning Machine
+Biome Climate Data
+Crusher Recipe
+%1$s was burnt browned.
+%1$s became a sherbet.
+Cold Resistance
+Potion of Cold Resistance
+Splash Potion of Cold Resistance
+Lingering Potion of Cold Resistance
+SPRING
+SUMMER
+AUTUMN
+WINTER
+Heat Tier
+TEMP
+Humidity
+HUM
+Airflow
+AIR
+ABSOLUTE
+FROSTBITE
+CRYOGENIC
+COLD
+COOL
+NORMAL
+WARM
+HOT
+BOIL
+OVEN
+KILN
+SMELTING
+UHT
+INFERNO
+DRY
+NORMAL
+WET
+UNDERWATER
+TIGHT
+NORMAL
+FLOW
+WIND

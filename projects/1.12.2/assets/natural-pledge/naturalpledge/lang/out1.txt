@@ -1,0 +1,98 @@
+Iridescent Planks
+Iridescent Planks Slab
+Iridescent Planks Slab
+Iridescent Planks Slab
+Iridescent Log
+Iridescent Log
+Iridescent Log
+Iridescent Leaves
+Iridescent Leaves
+Iridescent Leaves
+Iridescent Sapling
+Iridescent Lantern
+Dry Iridescent Log
+Golden Iridescent Log
+Vivid Iridescent Log
+Scorched Iridescent Log
+Infused Iridescent Log
+Mutated Iridescent Log
+Dry Iridescent Leaves
+Golden Iridescent Leaves
+Vivid Iridescent Leaves
+Scorched Iridescent Leaves
+Infused Iridescent Leaves
+Mutated Iridescent Leaves
+Dry Iridescent Planks
+Golden Iridescent Planks
+Vivid Iridescent Planks
+Scorched Iridescent Planks
+Infused Iridescent Planks
+Mutated Iridescent Planks
+Dry Iridescent Planks Slab
+Golden Iridescent Planks Slab
+Vivid Iridescent Planks Slab
+Scorched Iridescent Planks Slab
+Infused Iridescent Planks Slab
+Mutated Iridescent Planks Slab
+Sealing Oak Log
+Sealing Oak Planks
+Sealing Oak Planks Slab
+Sealing Oak Leaves
+Sealing Oak Sapling
+Sonic Amplifier
+Thunderous Oak Log
+Thunderous Oak Planks
+Thunderous Oak Planks Slab
+Thunderous Oak Leaves
+Thunderous Oak Sapling
+Circuitree Log
+Circuitree Planks
+Circuitree Planks Slab
+Circuitree Leaves
+Circuitree Sapling
+Calico Log
+Calico Planks
+Calico Planks Slab
+Calico Leaves
+Calico Sapling
+Corporea Resonator
+Ender Actuator
+The Actuator screams with the song of your soul...
+Confusion Trap
+Inferno Trap
+Acceleration Trap
+Immobility Trap
+Visual Irritation Trap
+Red Pulse Trap
+Divine Wrath Trap
+&cERROR&r
+White
+Orange
+Magenta
+Light Blue
+Yellow
+Lime
+Pink
+Gray
+Light Gray
+Cyan
+Purple
+Blue
+Brown
+Green
+Red
+Black
+Bifrost
+Aurora
+Color: #%s
+Color Mixture
+Press &b%s&7 to open the Baubles menu
+Radius: %s Blocks
+Seeking %s, %s blocks away
+Seeking %s, close by
+Seeking %s, a great distance away
+Seeking %s, an eternity away
+Seeking a location, %s blocks away
+Seeking a location, a great distance away
+Seeking a location, close by
+White Iridescent Shard

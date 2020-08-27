@@ -1,0 +1,38 @@
+Exempt Mob Classes
+Any mobs of classes with class pathes in this list will not aggro on shooters.
+Grenades
+Properties relating to missiles.
+Explosion Radius
+The max distance which the explosion is effective to.
+Grenades
+Properties relating to grenades.
+Explosion Radius
+The max distance which the explosion is effective to.
+Stun Grenades
+Blinding/deafening properties of stun grenades.
+Blind
+Blinding properties of stun grenades.
+Deafen
+Deafening properties of stun grenades.
+Effect Criteria
+Criteria that determines the presence/absence and duration of the blinding effect.
+Overlay Alpha
+After the duration drops to this many ticks, the transparency of the overlay when blinded will gradually fade to 0 alpha.
+Overlay Fade Threshold
+Transparency of the overlay when blinded will be this alpha value, before eventually fading to 0 alpha.
+Effect Criteria
+Criteria that determines the presence/absence and duration of the deafening effect.
+Sound Percentage
+Volume of most game sounds when deafened will play at this percent, before eventually fading back to %100.
+Sound Fade Threshold
+After the duration drops to this many ticks, the ringing volume will gradually fade to 0 and other sound volumes will fade back to %100.
+Ring Volume
+Volume of the ringing sound when deafened will play at this volume, before eventually fading to 0.
+Radius
+Grenade must be no more than this many meters away to have an effect.
+Max Duration
+Effect will have this duration (in ticks) if the grenade is directly at the player's eyes while looking directly at it.
+Min Duration By Distance
+Effect will have this duration (in ticks) if the grenade is the maximum distance from the player's eyes while looking directly at it.
+Angle Of Effect
+Angle between the eye/looking direction and the eye/grenade direction must be no more than half this many degrees to have an effect.

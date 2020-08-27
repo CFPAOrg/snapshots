@@ -1,0 +1,17 @@
+Right click with the Soldering Iron in hand to open the soldering gui. There, you can select the type of circuit to make and attach Electron Tubes to Circuit Boards. Can be used to remove a circuit board from a socket.
+Electron Tubes can be attached to Circuit Boards using a Soldering Iron. They have many purposes displayed on the tooltip, which depend on the circuit type selected in the Soldering Iron. Once soldered, they cannot be removed from a Circuit Board.
+Rich soil that can grow plants and doesn't require water. Degrades into sand over time.
+Slowly turns into peat if left to soak near water for a while.
+Block version of the Portable Genetic Analyzer. Requires power and liquid honey.
+Play a matching mini-game to research bee, tree, and butterfly mutations. Gives research notes that boost mutation rates, and other rewards.
+Can pick up small amounts of liquid. In Forestry GUIs, you can hold a pipette and click the tanks to fill or drain them directly.
+A stackable package that contains a bronze shovel. Use it in your hand to open.
+A stackable package that contains a bronze pickaxe. Use it in your hand to open.
+Rich fertilizer. Can be used as bonemeal on crops and saplings. Required in order to run a Forestry farm.
+Collects water when it rains. Can automatically output water from the bottom side.
+Advanced crafting table with an inventory. Remembers up to 9 recipes. Has the ability to choose the crafting result when there is a recipe conflict.
+Guarantees a sapling drop when breaking Forestry leaves. Has a very limited number of uses.
+Guarantees a sapling drop when breaking Forestry leaves. They can only be purchased from villagers.
+Allows players to send letters to trade stations and other players. Opening any mailbox will show the player their own mail.
+An automatic mailbox that lets players set up a trading deal.
+Creative-only. Collects all the stamps used by mailing letters. Useful for servers with a stamp economy.

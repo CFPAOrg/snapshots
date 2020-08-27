@@ -1,0 +1,15 @@
+Handy Mods
+Ender Box
+Item Holder (Opaque)
+Item Holder (Transparent)
+Chesty Crafting Table
+Ender Boxer
+Ender Boxed
+Can be placed around blocks to move them around without breaking them, allowing you to e.g. move chests around easily.
+Empty
+Contains %s
+Contains %s (%s)
+A single-item container. This version has better performance because it doesn't display the contained item.
+A single-item container. This version displays the contained item.
+A crafting table that keeps its contents when you close the GUI.
+Encases the block it's pointing at in an ender box while provided with a redstone signal, for lag management (both FPS and TPS).

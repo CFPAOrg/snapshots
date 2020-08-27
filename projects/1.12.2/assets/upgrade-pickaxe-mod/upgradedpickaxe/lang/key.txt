@@ -1,0 +1,7 @@
+itemGroup.UpgradedPickTab
+item.upgradedpickaxe.diamond.name
+item.upgradedpickaxe.iron.name
+item.upgradedpickaxe.gold.name
+item.upgradedpickaxe.stone.name
+item.upgradedpickaxe.wood.name
+item.upgradedpickaxe.stick.name

@@ -1,0 +1,10 @@
+item.greenkybercrystal.name
+item.kybercrystal.name
+item.bluekybercrystal.name
+item.redlightsaber.name
+item.greenlightsaber.name
+item.lightsaberhandle.name
+item.redkybercrystal.name
+item.bluelightsaber.name
+itemGroup.tablightsabermod
+tile.kyberore.name

@@ -1,0 +1,31 @@
+Steel Ingot
+Copper Ingot
+Tin Ingot
+Titanium Plate
+Arc Reactor
+Shuriken
+Gauntlet
+Mjnoir
+Tony Stark
+Steel Sword
+Tin Sword
+Mark 42 Helmet
+Mark 42 Chestplate
+Mark 42 Leggings
+Mark 42 Boots
+Block of Steel
+Block of Copper
+Block of Tin
+Armour Charger
+Armour Charger(Charging)
+Steel Ore
+Tin Ore
+Copper Ore
+Burning Steel
+Hero Core
+Enjoy
+Launch a World with HeroCore installed.
+Syconn's Hero Mod
+Switch's Gauntlet Mode
+Switch's Hammers Mode
+Switch's Fly Mode

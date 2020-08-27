@@ -1,0 +1,7 @@
+Weapons to Configure
+Add weapons to configure by following this format mod_id:weapon_name/damage/speed_attack
+When in main hand:
+ Attack Speed
+ Attack Damage
+It is available for download, version
+of JJ Weapon Config

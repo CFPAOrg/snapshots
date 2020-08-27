@@ -1,0 +1,6 @@
+item.crystalframe.name
+itemGroup.tabcrystalsofsao
+item.antidotecrystal.name
+item.essenceoflife.name
+item.teleportcrystal.name
+item.healcrystal.name

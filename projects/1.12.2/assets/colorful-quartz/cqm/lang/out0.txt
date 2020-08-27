@@ -1,0 +1,85 @@
+Red Nether Quartz
+Blue Nether Quartz
+Black Nether Quartz
+Brown Nether Quartz
+Cyan Nether Quartz
+Gray Nether Quartz
+Green Nether Quartz
+Light Blue Nether Quartz
+Light Gray Nether Quartz
+Lime Nether Quartz
+Magenta Nether Quartz
+Orange Nether Quartz
+Pink Nether Quartz
+Purple Nether Quartz
+Yellow Nether Quartz
+Black Paint
+Blue Paint
+Brown Paint
+Cyan Paint
+Gray Paint
+Green Paint
+Light Blue Paint
+Light Gray Paint
+Lime Paint
+Magenta Paint
+Orange Paint
+Pink Paint
+Purple Paint
+Red Paint
+White Paint
+Yellow Paint
+Red Block of Quartz
+Blue Block of Quartz
+Black Block of Quartz
+Brown Block of Quartz
+Cyan Block of Quartz
+Gray Block of Quartz
+Green Block of Quartz
+Light Blue Block of Quartz
+Light Gray Block of Quartz
+Lime Block of Quartz
+Magenta Block of Quartz
+Orange Block of Quartz
+Pink Block of Quartz
+Purple Block of Quartz
+Yellow Block of Quartz
+Black Pillar Quartz Block
+Blue Pillar Quartz Block
+Brown Pillar Quartz Block
+Cyan Pillar Quartz Block
+Gray Pillar Quartz Block
+Green Pillar Quartz Block
+Light Blue Pillar Quartz Block
+Light Gray Pillar Quartz Block
+Lime Pillar Quartz Block
+Magenta Pillar Quartz Block
+Orange Pillar Quartz Block
+Pink Pillar Quartz Block
+Purple Pillar Quartz Block
+Red Pillar Quartz Block
+Yellow Pillar Quartz Block
+Black Chiseled Quartz Block
+Blue Chiseled Quartz Block
+Brown Chiseled Quartz Block
+Cyan Chiseled Quartz Block
+Gray Chiseled Quartz Block
+Green Chiseled Quartz Block
+Light Blue Chiseled Quartz Block
+Light Gray Chiseled Quartz Block
+Lime Chiseled Quartz Block
+Magenta Chiseled Quartz Block
+Orange Chiseled Quartz Block
+Pink Chiseled Quartz Block
+Purple Chiseled Quartz Block
+Red Chiseled Quartz Block
+Yellow Chiseled Quartz Block
+Black Nether Quartz Ore
+Blue Nether Quartz Ore
+Brown Nether Quartz Ore
+Cyan Nether Quartz Ore
+Gray Nether Quartz Ore
+Green Nether Quartz Ore
+Light Blue Nether Quartz Ore
+Light Gray Nether Quartz Ore
+Lime Nether Quartz Ore

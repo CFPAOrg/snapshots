@@ -1,0 +1,15 @@
+An Equivalent Displacement circle on the ground can be linked (by shift-right-clicking) to another equivalent displacement circle anywhere in the world or across dimensions. However, a teleport between the two can only happen if there is something on BOTH circles. That something can be an item or mob, and the chunks must be loaded. %%n %%nIt drains %%val0 mana from the caster per teleport.
+Mental Displacement
+A mental displacement scroll allows the caster to temporarily leave his body behind and explore the world in a certain radius. %%n %%nIt drains %%val0 mana from the caster on use.
+Scrying
+A Scrying circle on the ground allows the player to see a named mob or player from afar, for a short amount of time. Simply drop a nametag on the circle, and if a mob or player with this name exists, it will be shown with its surroundings. %%n %%nIt drains %%val0 mana from the caster per nametag.
+Strengthening
+A Strengthening scroll will strengthen the first thing on your hotbar, or your off-hand if you're holding something. Strengthened items are temporarily unbreakable, do more damage, and have increased mining capabilities. %%n %%nIt drains %%val0 mana from the caster on use.
+Projection
+The first use of this scroll memorizes a tool or weapon you're looking at (for the whole stack!). The second use gives you a copy of the tool with limited durability. %%n %%nIt drains %%val0 mana from the caster each time the scroll is used.
+Proximity Projection
+Using this scroll grants the caster a weapon, which allows the caster to simultaneously teleport to and attack an entity they can see at long range. %%n %%nIt drains %%val0 mana from the caster on use of the scroll.
+Weapon Projectiles
+Using this scroll grants the caster a bow, which can shoot tools and weapons. %%n %%nIt drains %%val0 mana from the caster on use of the scroll.
+Reality Marble
+This scroll teleports the user (and optionally, a target the user is looking at) to a fixed spot in the Reality Marble. If the user has a target, one of the two must die for the other to leave. Otherwise, taking damage will allow the player to leave. %%n %%nIt drains %%val0 mana from the caster on use.

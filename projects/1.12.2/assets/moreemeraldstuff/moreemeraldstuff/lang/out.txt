@@ -1,0 +1,80 @@
+Emerald Axe
+Emerald Shovel
+Emerald Shovel
+Emerald Sword
+Emerald Totem
+Citrine Helmet
+Emerald Boots
+Emerald Apple
+Pyrite Sword
+Amethyst Body
+Pyrite Axe
+Emerald Sword
+Citrine Body
+Emerald Axe
+Citrine Sword
+Emerald Helmet
+Pyrite Body
+Emerald Shovel
+Citrine Axe
+Amethyst Pickaxe
+Citrine Leggings
+Citrine Ore
+Emerald Body
+Pyrite Boots
+Amethyst Ore
+Amethyst Leggings
+Pyrite Body
+You've made a Emerald Tool!
+Citrine Pickaxe
+Reinforced Emerald Axe
+Amethyst Body
+Emerald Pickaxe
+Pyrite Shovel
+block.115
+Citrine Shovel
+Amethyst Leggins
+entity.115
+f
+Amethyst Sword
+Pyrite Helmet
+Pyrite Pickaxe
+Citrine Boots
+Amethyst Block
+Citrine
+Emerald Leggings
+Pyrite Ore
+Pyrite Leggings
+Amethyst Helmet
+Amethyst Ore
+Amethyst Boots
+Pyrite Boots
+MES Blocks
+Going green!
+That Purple Crystal
+Amethyst Helmet
+Emerald Dust
+Amethyst Axe
+Crystal Thief
+Emerald Leggins
+You've found Amethyst!
+Amethyst Boots
+Citrine Helmet
+Emerald Body
+Amethyst
+Pyrite Leggins
+Emerald Axe
+Emerald Boots
+Emerald Pickaxe
+Amethyst Shovel
+Pyrite Helmet
+Pyrite
+Reinforced Emerald Pickaxe
+Citrine Boots
+Reinforced Emerald Sword
+Citrine Body
+Citrine Leggins
+Emerald Shovel
+Emerald Helmet
+block.115.mad
+Emerald Shovel

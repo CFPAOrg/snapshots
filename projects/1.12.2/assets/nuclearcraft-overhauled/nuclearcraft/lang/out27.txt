@@ -1,0 +1,53 @@
+Base depletion time: %s
+Base heat gen: %s
+Base efficiency: %s
+Criticality factor: %s
+Self-priming!
+Depleted TBU TRISO Fuel Pebble
+Depleted TBU Oxide Fuel Pellet
+Depleted TBU Nitride Fuel Pellet
+Depleted TBU-Zirconium Alloy Fuel Pellet
+Depleted LEU-233 TRISO Fuel Pebble
+Depleted LEU-233 Oxide Fuel Pellet
+Depleted LEU-233 Nitride Fuel Pellet
+Depleted LEU-233-Zirconium Alloy Fuel Pellet
+Depleted HEU-233 TRISO Fuel Pebble
+Depleted HEU-233 Oxide Fuel Pellet
+Depleted HEU-233 Nitride Fuel Pellet
+Depleted HEU-233-Zirconium Alloy Fuel Pellet
+Depleted LEU-235 TRISO Fuel Pebble
+Depleted LEU-235 Oxide Fuel Pellet
+Depleted LEU-235 Nitride Fuel Pellet
+Depleted LEU-235-Zirconium Alloy Fuel Pellet
+Depleted HEU-235 TRISO Fuel Pebble
+Depleted HEU-235 Oxide Fuel Pellet
+Depleted HEU-235 Nitride Fuel Pellet
+Depleted HEU-235-Zirconium Alloy Fuel Pellet
+Depleted LEN-236 TRISO Fuel Pebble
+Depleted LEN-236 Oxide Fuel Pellet
+Depleted LEN-236 Nitride Fuel Pellet
+Depleted LEN-236-Zirconium Alloy Fuel Pellet
+Depleted HEN-236 TRISO Fuel Pebble
+Depleted HEN-236 Oxide Fuel Pellet
+Depleted HEN-236 Nitride Fuel Pellet
+Depleted HEN-236-Zirconium Alloy Fuel Pellet
+Depleted LEP-239 TRISO Fuel Pebble
+Depleted LEP-239 Oxide Fuel Pellet
+Depleted LEP-239 Nitride Fuel Pellet
+Depleted LEP-239-Zirconium Alloy Fuel Pellet
+Depleted HEP-239 TRISO Fuel Pebble
+Depleted HEP-239 Oxide Fuel Pellet
+Depleted HEP-239 Nitride Fuel Pellet
+Depleted HEP-239-Zirconium Alloy Fuel Pellet
+Depleted LEP-241 TRISO Fuel Pebble
+Depleted LEP-241 Oxide Fuel Pellet
+Depleted LEP-241 Nitride Fuel Pellet
+Depleted LEP-241-Zirconium Alloy Fuel Pellet
+Depleted HEP-241 TRISO Fuel Pebble
+Depleted HEP-241 Oxide Fuel Pellet
+Depleted HEP-241 Nitride Fuel Pellet
+Depleted HEP-241-Zirconium Alloy Fuel Pellet
+Depleted MTRISO-239 Fuel Pebble
+Depleted MOX-239 Fuel Pellet
+Depleted MNI-239 Fuel Pellet
+Depleted MZA-239 Fuel Pellet

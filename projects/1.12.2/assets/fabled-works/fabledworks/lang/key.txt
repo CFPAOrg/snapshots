@@ -1,0 +1,6 @@
+fabledworks.level.legendary
+fabledworks.level.epic
+fabledworks.level.rare
+fabledworks.level.uncommon
+fabledworks.with
+fabledworks.and

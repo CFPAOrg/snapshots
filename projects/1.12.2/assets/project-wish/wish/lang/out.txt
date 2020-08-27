@@ -1,0 +1,109 @@
+A Large sample of %ORE%
+A Medium sample of %ORE%
+A Small sample of %ORE%
+Traces of %ORE%
+Hematite Sludge
+Magnetite Sludge
+Limonite Sludge
+Siderite Sludge
+Petalite Sludge
+Lignite Sludge
+Bituminous Sludge
+Anthracite Sludge
+Magnesite Sludge
+Bauxite Sludge
+Argentite Sludge
+Bismuthinite Sludge
+Cassiterite Sludge
+Chromite Sludge
+Cobaltite Sludge
+Galena Sludge
+Garnierite Sludge
+Ilmenite Sludge
+Osmiridium Sludge
+Malachite Sludge
+Monazite Sludge
+Native Gold Sludge
+Native Platinum Sludge
+Iridosmine Sludge
+Pentladite Sludge
+Sphalerite Sludge
+Wolframite Sludge
+Tetrahedrite Sludge
+Uraninite Sludge
+Mythril Sludge
+Gem Sludge
+Adamantine Sludge
+Cinnabar Sludge
+Lapis Sludge
+Fossil Sludge
+Hematite Shard
+Magnetite Shard
+Limonite Shard
+Siderite Shard
+Petalite Shard
+Lignite Shard
+Bituminous Shard
+Anthracite Shard
+Magnesite Shard
+Bauxite Shard
+Argentite Shard
+Bismuthinite Shard
+Cassiterite Shard
+Chromite Shard
+Cobaltite Shard
+Galena Shard
+Garnierite Shard
+Ilmenite Shard
+Osmiridium Shard
+Malachite Shard
+Monazite Shard
+Native ShardGold Shard
+Native ShardPlatinum Shard
+Iridosmine Shard
+Pentladite Shard
+Sphalerite Shard
+Wolframite Shard
+Tetrahedrite Shard
+Uraninite Shard
+Mythril Shard
+Gem Shard
+Adamantine Shard
+Cinnabar Shard
+Lapis Shard
+Fossil Shard
+Hematite Crystal
+Magnetite Crystal
+Limonite Crystal
+Siderite Crystal
+Petalite Crystal
+Lignite Crystal
+Bituminous Crystal
+Anthracite Crystal
+Magnesite Crystal
+Bauxite Crystal
+Argentite Crystal
+Bismuthinite Crystal
+Cassiterite Crystal
+Chromite Crystal
+Cobaltite Crystal
+Galena Crystal
+Garnierite Crystal
+Ilmenite Crystal
+Osmiridium Crystal
+Malachite Crystal
+Monazite Crystal
+Native CrystalGold Crystal
+Native CrystalPlatinum Crystal
+Iridosmine Crystal
+Pentladite Crystal
+Sphalerite Crystal
+Wolframite Crystal
+Tetrahedrite Crystal
+Uraninite Crystal
+Mythril Crystal
+Gem Crystal
+Adamantine Crystal
+Cinnabar Crystal
+Lapis Crystal
+Fossil Crystal

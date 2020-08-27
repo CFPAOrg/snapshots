@@ -1,0 +1,28 @@
+Wooden Brush
+Iron Brush
+Golden Brush
+Diamond Brush
+Fluix Brush
+Signalum Brush
+Natureshaper's Brush
+Thaumium Brush
+Elementium Brush
+Starmetal Brush
+Avarus Brush
+Only Operator players can use the Brush!
+The Brush cannot be used in this dimension!
+One of the blocks you tried to modify was in someone's else protected territory!
+You do not have a proper Block assigned to your Brush!
+You need to have at least 2 points to use the Curve mode!
+The curve you want to build is too big!
+The Unde Queue is empty!
+Hollow
+Filled
+Building
+Smoothening
+Undo
+Naturalize
+Lower/Raise
+Shape
+Curve
+This is an natureshaper's brush. It has only 15%% chance of consuming the block, but will not return it on undo.

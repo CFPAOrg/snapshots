@@ -1,0 +1,11 @@
+advancements.netheriteadvancement.title
+itemGroup.tabnetheritetab
+advancements.netheriteadvancement.descr
+item.netheritepickaxe.name
+item.netheritesword.name
+item.ingotnetherite.name
+item.netheriteshovel.name
+item.netheriteaxe.name
+item.netheritehoe.name
+tile.ancientdebris.name
+item.netheritescrap.name

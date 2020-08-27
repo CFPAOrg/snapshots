@@ -1,0 +1,12 @@
+Upgrade Storage III
+Adds 9 more upgrade slots (36 in total).\n\nProvides an upgrade co-processor to handle 9 more upgrades.
+Ammunition Storage
+Increases ammo storage by 100%% .\n\nDuplicates the ammo container inside the turret for more ammunition storage.
+Smart Targeting
+Adds a targeting co-processor for smarter target selection. This unlocks a new tab in the TCU that gives you finer targeting control.\n\nThe target list supersedes these settings, meaning if it's set to target tamed creatures, it still won't shoot at tamed wolves if wolves are not set as a target.\n\nBy default, the co-processor is configured to ignore entities targeted by turrets of the same type. The TCU allows further customization:\n\n§3Turret Awareness§0\nChecks surrounding turrets and only allows entities that are not targeted, if enabled.\n\n§3Tamed Awareness§0\nChecks tamed entities and, if configured, their owners.\n\n§3Age Awareness§0\nChecks the age of a targeted entity and only allows either children or adults, if enabled.\n\n§3Count Awareness§0\nCounts targetable entities and compares either the sum of all types (global) or each sum of each type (individual; e.g. sum of cows and sum of pigs). Allows only targeting if the amount is / amounts are above or below the specified value. The value can be between 0 and 256 (inclusive).
+Economy I
+Reduces ammo consumption by an average of 10%% .\n\nCoats the ammo container of a turret with the dust of an emerald, after which the turret has a chance to not consume ammo.
+Economy II
+Reduces ammo consumption by an additional average of 35%% .\n\nReplaces components of the ammo container with gold parts and strengthens the effect of the emerald coating with diamond dust, so the chance of the turret not consuming ammo will be further increased.
+Infinitas Oeconomia
+Stops ammo consumption altogether when ammo container is filled.\n\nCoats the ammo container of a turret with the magic of the Infinity enchantment. The container will then never deplete its supply, but it must be filled to the max with rounds, otherwise it will resort to the other Economy upgrades to reduce ammo usage.

@@ -1,0 +1,43 @@
+§etrue§r if the player is eating, §efalse§r otherwise.
+§etrue§r if the player is flying, §efalse§r otherwise.
+Player's X chunk coordinate.
+Player's Z chunk coordinate.
+Player's X chunk offset coordinate (0-15).
+Player's Y chunk offset coordinate (0-15).
+Player's Z chunk offset coordinate (0-15).
+Player's X coordinate.
+Player's Y coordinate.
+Player's Y coordinate (eye level).
+Player's Z coordinate.
+Player's X coordinate rounded to the closest whole number.
+Player's Y coordinate rounded to the closest whole number.
+Player's Y coordinate rounded to the closest whole number (eye level).
+Player's Z coordinate rounded to the closest whole number.
+Player's speed.
+Player's speed along the x axis.
+Player's speed along the y axis.
+Player's speed along the z axis.
+Player's speed horizontally.
+Player's pitch in degrees from -90 to +90.
+Player's direction in degrees from -180 to +180.
+Rough direction the player is currently facing (South, West, North, East).
+Fine direction the player is currently facing (South, South West, West, North West, ...).
+Abbreviated rough direction the player is currently facing (S, W, N, E).
+Abbreviated fine direction the player is currently facing (S, SW, W, NW, ...).
+Axis direction the player is currently facing (+Z, -X, -Z, +X).
+A small textual direction HUD.
+Long axis direction the player is currently facing (like F3 debug screen).
+Name of the x-th potion effect.
+Duration of the x-th potion effect in seconds.
+Duration of the x-th potion effect in ticks.
+§etrue§r if the potion effect is negative, §efalse§r otherwise.
+Icon of the x-th potion effect.
+Large icon of the x-th potion effect.
+§etrue§r if the player is riding a horse, §efalse§r otherwise.
+Horse's health.
+Horse's maximum health.
+Horse's speed.
+Horse's jump strength.
+ID of the current season, startint at 0 (Spring).
+The current season.
+ID of the current subseason, starting at 0 (Early Spring).

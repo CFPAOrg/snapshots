@@ -1,0 +1,103 @@
+Ender Tall Grass
+Ender Orchid
+Static Teleporter Base
+Dark Teleporter Base
+Blast Furnace
+Portal
+Teleporter Top
+Curse Bush
+Block of Dragon Charcoal
+Block of Natural Charcoal
+Block of Immortal Charcoal
+Block of Phantom Charcoal
+Block of Dragon Steel
+Block of Natural Steel
+Block of Immortal Steel
+Block of Phantom Steel
+Block of Enderite
+Ender Ore
+Chrysofillum Vine
+Chrysofillum Flower
+Chrysofillum Fruit
+Dragon Wood
+Natural Wood
+Immortal Wood
+Phantom Wood
+Dragon Leaves
+Natural Leaves
+Immortal Leaves
+Phantom Leaves
+Dragon Sapling
+Natural Sapling
+Immortal Sapling
+Phantom Sapling
+Dragon Planks
+Natural Planks
+Immortal Planks
+Phantom Planks
+Dragon Slab
+Natural Slab
+Immortal Slab
+Phantom Slab
+Live Growth
+Dead Growth
+Frozen Growth
+Live End Stone
+Dead End Stone
+Frozen End Stone
+Purple Pearl Seeds
+Purple Pearl
+Blue Pearl
+Ender Arrow
+Libro Ender Magica
+Ender Apple
+Ender Compass
+Teleportation Binder
+Enderite
+Dragon Charcoal
+Nature Charcoal
+Immortal Charcoal
+Phantom Charcoal
+Dragon Steel Ingot
+Nature Steel Ingot
+Immortal Steel Ingot
+Ghost Steel Ingot
+Compressed Dragon Diamond
+Compressed Nature Diamond
+Compressed Immortal Diamond
+Compressed Ghost Diamond
+Natural Steel Shovel
+Natural Steel Pickaxe
+Natural Steel Axe
+Natural Steel Sword
+Natural Steel Hoe
+Natural Steel Helmet
+Natural Steel Chestplate
+Natural Steel Leggings
+Natural Steel Boots
+Immortal Steel Shovel
+Immortal Steel Pickaxe
+Immortal Steel Axe
+Immortal Steel Sword
+Immortal Steel Hoe
+Immortal Steel Helmet
+Immortal Steel Chestplate
+Immortal Steel Leggings
+Immortal Steel Boots
+Dragon Steel Shovel
+Dragon Steel Pickaxe
+Dragon Steel Axe
+Dragon Steel Sword
+Dragon Steel Hoe
+Dragon Steel Helmet
+Dragon Steel Chestplate
+Dragon Steel Leggings
+Dragon Steel Boots
+Phantom Steel Shovel
+Phantom Steel Pickaxe
+Phantom Steel Axe
+Phantom Steel Sword
+Phantom Steel Hoe
+Phantom Steel Helmet
+Phantom Steel Chestplate
+Phantom Steel Leggings

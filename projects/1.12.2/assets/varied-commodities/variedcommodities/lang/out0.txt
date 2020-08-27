@@ -1,0 +1,152 @@
+You have 10 seconds to place an Icon
+VariedCommodities Weapons
+VariedCommodities Armors
+VariedCommodities Blocks
+VariedCommodities Items
+Damage
+Confusion
+Infinite
+Poison
+Already in use
+Trade
+Waiting for trade to start
+Trade was cancelled
+Trade completed succesfully
+Carpentry Bench
+Blood Block
+Banner
+Wall Banner
+Chair
+Crate
+Tall Lamp
+Weapon Rack
+Wool Couch
+Wooden Table
+Wooden Couch
+Lamp
+Candle
+Stool
+Big Sign
+Barrel
+Shelf
+Sign
+Tombstone
+Campfire
+Beam
+Pedestal
+Trading Block
+Crystal
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Banjo
+Violin
+Violin Bow
+Harp
+Guitar
+French Horn
+Ocarina
+Clarinet
+Wooden Coin
+Stone Coin
+Bronze Coin
+Iron Coin
+Golden Coin
+Diamond Coin
+Emerald Coin
+Wooden Gun
+Stone Gun
+Iron Gun
+Golden Gun
+Diamond Gun
+Bronze Gun
+Emerald Gun
+Machine Gun
+Bullet
+Wooden Trident
+Stone Trident
+Iron Trident
+Golden Trident
+Diamond Trident
+Bronze Trident
+Emerald Trident
+Cursed Trident
+Demonic Trident
+Frost Trident
+Mithril Trident
+Nature Spell
+Arcane Spell
+Lightning Spell
+Ice Spell
+Fire Spell
+Dark Spell
+Holy Spell
+Kunai
+Reverse Kunai
+Shuriken
+Giant Shuriken
+Katana
+Kukri
+Ninja Claw
+Steel Claw
+Bear Claw
+Katar
+Golf Club
+Magic Wand
+Chicken Sword
+Handcuffs
+Hammer
+Baseball Bat
+Lead Pipe
+Cleaver
+Saber
+Hockey Stick
+Sledgehammer
+Broken Bottle
+Combat Knife
+Lighter
+Baton
+GunChainsaw
+Rapier
+Crowbar
+Pipe Wrench
+Wrench
+Swiss Army Knife
+Leaf Blade
+Round Wooden Shield
+Round Stone Shield
+Round Iron Shield
+Round Golden Shield
+Round Diamond Shield
+Round Bronze Shield
+Round Emerald Shield
+Demonic Shield
+Frost Shield
+Mithril Shield
+Wooden Shield
+Stone Shield
+Iron Shield
+Golden Shield
+Diamond Shield
+Bronze Shield
+Emerald Shield
+Steel Tower Shield
+Steel Cryscent Shield
+Steel Scutum Shield
+Steel Heater Shield
+Wooden Spear
+Stone Spear
+Iron Spear

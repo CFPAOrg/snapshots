@@ -1,0 +1,120 @@
+Debug
+Crossbow
+Big Shield
+Round Shield
+Diamond Hammer
+Golden Hammer
+Iron Hammer
+Stone Hammer
+Wooden Hammer
+Diamond Battle Axe
+Golden Battle Axe
+Iron Battle Axe
+Stone Battle Axe
+Wooden Battle Axe
+Diamond Spear
+Golden Spear
+Iron Spear
+Stone Spear
+Wooden Spear
+Diamond Nunchaku
+Golden Nunchaku
+Iron Nunchaku
+Stone Nunchaku
+Wooden Nunchaku
+Diamond Dagger
+Golden Dagger
+Iron Dagger
+Stone Dagger
+Wooden Dagger
+Copper Hammer
+Bronze Hammer
+Invar Hammer
+Silver Hammer
+Electrum Hammer
+Aluminium Hammer
+Steel Hammer
+Signalum Hammer
+Lumium Hammer
+Enderium Hammer
+Copper Battle Axe
+Bronze Battle Axe
+Invar Battle Axe
+Silver Battle Axe
+Electrum Battle Axe
+Aluminium Battle Axe
+Steel Battle Axe
+Signalum Battle Axe
+Lumium Battle Axe
+Enderium Battle Axe
+Copper Spear
+Bronze Spear
+Invar Spear
+Silver Spear
+Electrum Spear
+Aluminium Spear
+Steel Spear
+Signalum Spear
+Lumium Spear
+Enderium Spear
+Copper Dagger
+Bronze Dagger
+Invar Dagger
+Silver Dagger
+Electrum Dagger
+Aluminium Dagger
+Steel Dagger
+Signalum Dagger
+Lumium Dagger
+Enderium Dagger
+Copper Nunchaku
+Bronze Nunchaku
+Invar Nunchaku
+Silver Nunchaku
+Electrum Nunchaku
+Aluminium Nunchaku
+Steel Nunchaku
+Signalum Nunchaku
+Lumium Nunchaku
+Enderium Nunchaku
+Dragon Bone Hammer
+Dragon Bone Spear
+Dragon Bone Battle Axe
+Dragon Bone Dagger
+Dragon Bone Nunchaku
+Desert Myrmex Chitin Hammer
+Desert Myrmex Chitin Spear
+Desert Myrmex Chitin Battle Axe
+Desert Myrmex Chitin Dagger
+Desert Myrmex Chitin Nunchaku
+Jungle Myrmex Chitin Hammer
+Jungle Myrmex Chitin Spear
+Jungle Myrmex Chitin Battle Axe
+Jungle Myrmex Chitin Dagger
+Jungle Myrmex Chitin Nunchaku
++4 damage against non-arthropods
+Vampirism
+Agility
+Arrow Recovery
+Assassinate
+Bash
+Blast
+Blocking Power
+Combo
+Disarm
+Heavy
+High Jump
+Impale
+Diamonds Everywhere
+Reflection
+Tunneling
+Smelting
+Education
+Versatility
+Multishot
+Rapid Fire
+Penetration
+Spellproof
+Range
+Fling
+Vitality

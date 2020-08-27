@@ -1,0 +1,8 @@
+container.jukebox
+tile.jukebox:jukebox.name
+jukebox.pause
+jukebox.play
+jukebox.next
+jukebox.previous
+jukebox.nowplaying
+jukebox.paused

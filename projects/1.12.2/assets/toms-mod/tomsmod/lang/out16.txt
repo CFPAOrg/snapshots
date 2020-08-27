@@ -1,0 +1,93 @@
+Clearing: %s.
+Hold Sneak to drop item
+Tom's Mod Buckets
+Tom's Mod Energy
+Tom's Mod Materials
+Tom's Mod Items
+Tom's Mod Blocks
+Tom's Mod Transport
+Tom's Mod Storage
+Tom's Mod Tools & Combat
+Tom's Mod Defense
+Tom's Mod Factory
+Plasma
+Enriched Plasma
+Deuterium
+Tritium
+Coolant
+Fusion Compound
+Hot Coolant
+Hydrogen
+Steam
+Titanium Ore Slurry
+Clean Uranium Ore Slurry
+Lithium Ore Slurry
+Clean Tin Ore Slurry
+Gold Ore Slurry
+Zinc Ore Slurry
+Clean Nickel Ore Slurry
+Clean Copper Ore Slurry
+Chrome Ore Slurry
+Clean Gold Ore Slurry
+Clean Silver Ore Slurry
+Tin Ore Slurry
+Clean Zinc Ore Slurry
+Clean Lithium Ore Slurry
+Platinum Ore Slurry
+Iron Ore Slurry
+Clean Platinum Ore Slurry
+Clean Iron Ore Slurry
+Nickel Ore Slurry
+Copper Ore Slurry
+Uranium Ore Slurry
+Silver Ore Slurry
+Lead Ore Slurry
+Clean Chrome Ore Slurry
+Clean Lead Ore Slurry
+Clean Blue Metal Ore Slurry
+Titanium Ore Slurry
+Blue Metal Ore Slurry
+Clean Bauxite Ore Slurry
+Bauxite Ore Slurry
+Clean Enderium Ore Slurry
+Enderium Ore Slurry
+Clean Mercury Ore Slurry
+Mercury Ore Slurry
+Clean Tungstate Ore Slurry
+Tungstate Ore Slurry
+Oil
+Sulfuric Acid
+Hydrogen Chloride
+Water
+Lava
+Creosote Oil
+Oxygen
+Fuel
+LPG
+Kerosene
+Photoactive Liquid
+Heat Conducting Paste
+Resin
+Iron Chloride
+Concentrated Resin
+Tom's Mod
+Tablet Up
+Tablet Down
+Tablet Left
+Tablet Right
+Tablet Enter
+Tablet Back
+Tablet Interact
+Tablet Menu
+Configure
+Tablet Function 1
+Tablet Function 2
+Tablet Function 3
+Tablet Function 4
+%s was fried by a forcefield!
+%s disregarded the warnings and was fried!
+%1$s tried to swim in acid
+/tm_waypoint <function>
+/tm_server_waypoint <function>
+/tm_server_waypoint add <waypoint name> <group> <x> <y> <z> <dimension> [icon location] [color] [reloadable] [beam type] [label type] [beam texture]
+/tm_waypoint add <waypoint name> <group> <x> <y> <z> <dimension> <player name> [icon location] [color] [reloadable] [beam type] [label type] [beam texture]

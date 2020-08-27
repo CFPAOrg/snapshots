@@ -1,0 +1,5 @@
+itemGroup.tabbedwars
+tile.diamondgenerator.name
+tile.irongenerator.name
+tile.emeraldgenerator.name
+tile.goldgenerator.name

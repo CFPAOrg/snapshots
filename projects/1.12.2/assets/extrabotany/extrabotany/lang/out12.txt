@@ -1,0 +1,30 @@
+Potion
+Mana Lens: Cloud will create a potion cloud when the Mana Burst collide with entity.
+Cloud
+Mana Lens: Track will enable Mana Burst to locate the first entity within 3 meters and keep tracking until either is dead.
+Track
+Judah Oath
+Use mana to set up Judah Oath, it will imprison the creatures in its range and shoot divine spear to attack them.
+Judah Oath
+Judah Oath KIRA
+Oath of Sakura
+Tri-Bloodstone
+Bottled Flame
+After you equip it, Bottled Flame will automatically consume Torches in your inventory and place it when you are in the dark.
+Bottled Flame
+Bottled Star
+Bottled Star require a little &4Mana&0 to set up and then it will summon a lot of stars to attack the enemies.
+Bottled Star
+Bottled Pixie
+Bottled Star require a little &4Mana&0 to summon a pixie to help you fight. The pixie only attack hostile mobs and it is quite naughty :3
+Bottled Pixie
+Dimension Catalyst
+Dimension Catalyst connects the Overworld with other two dimensions. You can use mana to transform resources from overworld to those from other dimensions.
+Dimension Catalyst
+ExtraBotany
+From The New World
+Welcome to the World of the supreme principle of Mana! You are the one who has great potential and I believe you will have a shiny, bright future. I am sure you are hunger for more knowledge. Follow me, I will pass on my knowledge and experience to you.
+Hold the lexicon and right-click a Livingrock Pedestal with a Spirit Fuel, and you will unlock the new knowledge type. <br>To obtain Spirit Fuel, you have to eat one Nightmare Fuel or put it in a Livingrock Pedestal under Sun for 5 mins.
+The New World
+Herrscher of the Void—The Final Combat
+After you defeated Gaia Guardian III ,you get the permission to challenge Herrscher of The Void. The medal for heroism has huge energy fluctuation. You need the ancient spirits of light and dark and the power of Ritual of Gaia to stabilize it.

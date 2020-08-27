@@ -1,0 +1,27 @@
+Granted the entire advancement '%1$s' to %2$s
+Couldn't grant the criterion '%3$s' of advancement '%1$s' to %2$s because they already have it
+Granted the criterion '%3$s' of advancement '%1$s' to %2$s
+/advancement grant <player> until <advancement>
+Couldn't grant the advancement '%1$s' or its ancestors to %2$s because they already have them all
+Granted '%1$s' and all ancestors (%3$s total granted) to %2$s
+/advancement grant <player> from <advancement>
+Couldn't grant the advancement '%1$s' or its descendants to %2$s because they already have them all
+Granted '%1$s' and all descendants (%3$s total granted) to %2$s
+/advancement grant <player> through <advancement>
+Couldn't grant the advancement '%1$s', its ancestors or its descendants to %2$s because they already have them all
+Granted '%1$s', all ancestors and all descendants (%3$s total granted) to %2$s
+/advancement grant <player> everything
+Couldn't grant any advancements to %1$s because they already have them all
+Granted every advancement (%2$s total granted) to %1$s
+/advancement revoke <player> <only|until|from|through|everything>
+/advancement revoke <player> only <advancement> [criterion]
+Couldn't revoke the advancement '%1$s' from %2$s because they haven't started it
+Revoked the entire advancement '%1$s' from %2$s
+Couldn't revoke the criterion '%3$s' of advancement '%1$s' from %2$s because they haven't started it
+Revoked the criterion '%3$s' of advancement '%1$s' from %2$s
+/advancement revoke <player> until <advancement>
+Couldn't revoke the advancement '%1$s' or its ancestors from %2$s because they haven't started any
+Revoked '%1$s' and all ancestors (%3$s total revoked) from %2$s
+/advancement revoke <player> from <advancement>
+Couldn't revoke the advancement '%1$s' or its descendants from %2$s because they haven't started any
+Revoked '%1$s' and all descendants (%3$s total revoked) from %2$s

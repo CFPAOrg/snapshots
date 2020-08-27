@@ -1,0 +1,102 @@
+Arcane Workbench
+Crystal Ore
+Petrified Stone
+Ice Statue
+Crystal Flower
+Snare
+Stone of Transportation
+Spectral Block
+Block of Crystal
+Magic Crystal
+Magic Wand
+Apprentice Wand
+Advanced Wand
+Master Wand
+Spell Book
+Tome of Arcana
+Upgrades any %1$s
+wand to %1$s tier
+The Wizard's Handbook
+by %1$s
++%1$s %2$s potency
+Current Spell: %1$s
+Mana: %1$s/%2$s
+%1$s has been added to your list of allies
+%1$s has been removed from your list of allies
+Wand of Embers
+Wand of Frost
+Wand of Sparks
+Wand of Shadows
+Wand of the Forest
+Wand of Mystery
+Wand of Healing
+Apprentice Pyromancer Wand
+Apprentice Ice Mage Wand
+Apprentice Storm Mage Wand
+Apprentice Necromancer Wand
+Apprentice Earth Mage Wand
+Apprentice Sorcerer Wand
+Apprentice Healer Wand
+Wand of the Pyromancer
+Wand of the Ice Mage
+Wand of the Storm Mage
+Wand of the Necromancer
+Wand of the Earth Mage
+Wand of the Sorcerer
+Wand of the Healer
+Master Pyromancer Wand
+Master Ice Mage Wand
+Master Storm Mage Wand
+Master Necromancer Wand
+Master Earth Mage Wand
+Master Sorcerer Wand
+Master Healer Wand
+Spectral Sword
+Spectral Pickaxe
+Spectral Bow
+Mana Flask
+Wand Storage Upgrade
+Wand Siphon Upgrade
+Wand Condenser Upgrade
+Wand Range Upgrade
+Wand Duration Upgrade
+Wand Cooldown Upgrade
+Wand Blast Upgrade
+Wand Attunement Upgrade
+Flaming Axe
+Frost Axe
+Firebomb
+Poison Bomb
+Smoke Bomb
+Blank Scroll
+Scroll of %1$s
+Scroll "%1$s"
+Scroll of Identification
+%1$sIdentifies an unknown
+%1$sspell book or scroll
+Nothing to identify!
+Arcane Seal of Protection
+%1$sUpgrades any wizard armour
+%1$sto make it %2$slegendary
+Magical Silk
+Legendary
+-%1$s %2$s cost
+Mana: %1$s/%2$s
+Wizard Hat
+Wizard Robes
+Wizard Leggings
+Wizard Boots
+Pyromancer Hat
+Pyromancer Robes
+Pyromancer Leggings
+Pyromancer Boots
+Ice Mage Hat
+Ice Mage Robes
+Ice Mage Leggings
+Ice Mage Boots
+Storm Mage Hat
+Storm Mage Robes
+Storm Mage Leggings
+Storm Mage Boots
+Necromancer Hat
+Necromancer Robes

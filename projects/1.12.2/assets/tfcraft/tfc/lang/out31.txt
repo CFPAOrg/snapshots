@@ -1,0 +1,125 @@
+Poor Saltpeter
+Poor Serpentine
+Poor Sylvite
+Poor Borax
+Poor Olivine
+Poor Lapis Lazuli
+Rich Native Copper
+Rich Native Gold
+Rich Native Platinum
+Rich Hematite
+Rich Native Silver
+Rich Cassiterite
+Rich Galena
+Rich Bismuthinite
+Rich Garnierite
+Rich Malachite
+Rich Magnetite
+Rich Limonite
+Rich Sphalerite
+Rich Tetrahedrite
+Rich Bituminous Coal
+Rich Lignite
+Rich Kaolinite
+Rich Gypsum
+Rich Satinspar
+Rich Selenite
+Rich Graphite
+Rich Kimberlite
+Rich Petrified Wood
+Rich Sulfur
+Rich Jet
+Rich Microcline
+Rich Pitchblende
+Rich Cinnabar
+Rich Cryolite
+Rich Saltpeter
+Rich Serpentine
+Rich Sylvite
+Rich Borax
+Rich Olivine
+Rich Lapis Lazuli
+Native Copper Nugget
+Native Gold Nugget
+Native Platinum Nugget
+Small Hematite
+Native Silver Nugget
+Small Cassiterite
+Small Galena
+Small Bismuthinite
+Small Garnierite
+Small Malachite
+Small Magnetite
+Small Limonite
+Small Sphalerite
+Small Tetrahedrite
+Small Bituminous Coal
+Small Lignite
+Small Kaolinite
+Small Gypsum
+Small Satinspar
+Small Selenite
+Small Graphite
+Small Kimberlite
+Small Petrified Wood
+Small Sulfur
+Small Jet
+Small Microcline
+Small Pitchblende
+Small Cinnabar
+Small Cryolite
+Small Saltpeter
+Small Serpentine
+Small Sylvite
+Small Borax
+Small Olivine
+Small Lapis Lazuli
+Granite Rock
+Diorite Rock
+Gabbro Rock
+Shale Rock
+Claystone Rock
+Rocksalt Rock
+Limestone Rock
+Conglomerate Rock
+Dolomite Rock
+Chert Rock
+Chalk Rock
+Rhyolite Rock
+Basalt Rock
+Andesite Rock
+Dacite Rock
+Quartzite Rock
+Slate Rock
+Phyllite Rock
+Schist Rock
+Gneiss Rock
+Marble Rock
+Granite Rock
+Granite Brick
+Diorite Brick
+Gabbro Brick
+Shale Brick
+Claystone Brick
+Rocksalt Brick
+Limestone Brick
+Conglomerate Brick
+Dolomite Brick
+Chert Brick
+Chalk Brick
+Rhyolite Brick
+Basalt Brick
+Andesite Brick
+Dacite Brick
+Quartzite Brick
+Slate Brick
+Phyllite Brick
+Schist Brick
+Gneiss Brick
+Marble Brick
+Granite Brick
+Bunch of Sticks
+Ash Lumber
+Aspen Lumber
+Birch Lumber
+Chestnut Lumber

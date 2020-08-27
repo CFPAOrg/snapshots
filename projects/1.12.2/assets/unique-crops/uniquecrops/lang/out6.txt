@@ -1,0 +1,22 @@
+The metastable crops exist in a state where delicate harvesting is needed to handle them. Bring shears, lest you yield nothing when the whole crops break. They need to be surrounded by each other in order to grow.
+These crops suck, but that doesn't mean they are useless. By setting up a mirror that faces a farmland plot, one can plant/harvest vampire crops by clicking on the mirror. They will only reveal themselves through the mirror's reflection, and will only grow during a new moon.
+They are crops with a magnetic personality. In fact, they are so magnetic, they can be attracted to one another. Growing two crops of opposing polarities at a distance more than one block apart will make them move towards each other. The farther apart they are, the more likely they will drop their item. One can use a blue or red dye to change their respective polarity.
+The Guide
+The Multiblocks
+Craft with any tool or armor. Makes subsequent repairs cheaper.
+Stuff this in a chicken to make it lay eggs faster.
+Combine with tools and armor that can be upgraded in an anvil.
+Go hunt for mobs wearing boots with this in your inventory.
+Keep in hotbar. Makes some mobs easier to deal with.
+Players being disruptive in court? Throw the book at them!
+Consumable item: Sends the player to the highest block directly above them. Works in the nether.
+Emits redstone signal based on the time of day you set it at.
+GET RID OF THOSE PESKY BATS. NO DROPS.
+Blocks arrow damage so long as you have a shield equipped in the off hand.
+Automatically fills up your hunger at the cost of emblem's durability.
+Grants an appetite for certain metals and gems.
+Gain additional toughness for each piece of armor above leather tier.
+Reduces recharge time on attack strength.
+Enables faster block mining as long as the main hand has no items equipped.
+Allows shearing sheep for wool of a random color.
+Nullifies all potion effects, good or bad.

@@ -1,0 +1,29 @@
+§5Black Opal
+§dAmethyst
+§dAmethyst Ore
+§5Black Opal Ore
+§dNether Amethyst Ore
+§dEnd Amethyst Ore
+§5Nether Black Opal Ore
+§5End Black Opal Ore
+§dAmethyst Block
+§5Black Opal Block
+§dAmethyst Sword
+§dAmethyst Pickaxe
+§dAmethyst Shovel
+§dAmethyst Axe
+§dAmethyst Hoe
+§5Black Opal Sword
+§5Black Opal Pickaxe
+§5Black Opal Shovel
+§5Black Opal Axe
+§5Black Opal Hoe
+§dAmethyst Helmet
+§dAmethyst Chestplate
+§dAmethyst Leggings
+§dAmethyst Boots
+§5Black Opal Helmet
+§5Black Opal Chestplate
+§5Black Opal Leggings
+§5Black Opal Boots
+§dOres Above Diamonds

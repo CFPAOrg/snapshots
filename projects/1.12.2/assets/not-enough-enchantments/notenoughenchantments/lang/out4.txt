@@ -1,0 +1,39 @@
+Upgraded Potentials
+Reduces XP cost in anvil enchanting.
+Natural Blocking
+When wielding a shield, The Shield will naturally block a percentage of damage taken. This damage is dealt on the shield instead of the wielder.
+Brutality
+Damage dealt against armor/s worn by entities is increased.
+Cryogenic
+Burning Shield
+Reflects a portion of damage done by attackers while burning them. Doesn't negate shield disabling attacks.
+Inner Berserk
+Increases the damage the user deals the more the lower the user's health is.
+Curse of Vulnerability
+Amplifies the user's damage taken.
+Rune: Sealed Curses 
+Attacks gives a chance to enchant a curse enchantment to the attacked entity if they have worn equipment.
+Curse of Inaccuracy
+Curses the user in their attacks, causing melee attacks to miss and launching arrows from bow to be inaccurate.
+Dark Shadows
+Attacks deal extra damage if both user and the target is on dim areas. Level III and above applies blindness.
+Rune: Arrow Piercing
+Arrows now pierce against armor. 
+Curse Amplifier
+Amplifies the curses the user currently has.
+Ancient Sealed Curses
+An ancient enchantment that causes attacks to curse the held and worn equipment/s of an entity.
+Curse of Holding
+Curses a player if it is holding this item. Does not curse entities for technical reasons like decreasing TPS in a server.
+Curse of Decay
+Curses an item to decay very fast if left in the ground.
+Light Weight
+The user (must be a player) jumps higher. Minimum requirement for taking fall damage is extended.
+Luck Magnification
+The user (must be a player) is subjected to luck amplification.
+Unreasonable
+Destroys the reasoning of an entity, making it mad at random entities nearby it.
+Evasion
+Grants the user a chance to evade attacks. If the attack is evaded, the user performs a jump-like action (can be disabled in the config).
+Instability
+A form of curse that increases the damage of a tool the lower the durability it has. The tool suffers by taking damage proportional to the damage it inflicted.

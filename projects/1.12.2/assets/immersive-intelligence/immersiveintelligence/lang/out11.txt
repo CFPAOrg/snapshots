@@ -1,0 +1,14 @@
+Variables<br>String 'm' - item take mode (set/add)<br>Integer 'c' - amount of items<br>Boolean 'b' - can pick blocks (from minecarts)<br>String 'f' - filter mode (whitelist, blacklist, none)<br>String 'g' - advanced filter mode (exact, item, oredict)<br> String 'w' - minecart take mode (items / block)<br>ItemStacks '1'-'0' - item filters
+The fluid inserter is a precise limiter of fluid transfer. In some situations you want to insert only a required amount, this device does exactly that.
+Variables<br>String 'm' - item take mode (set/add)<br>Integer 'c' - amount of fluid (mB)<br>
+Alarm Siren
+The reactor is OK, was, at least.
+The alarm siren is a device, which emits a loud noise when provided a redstone signal. Redstone wire can be attached from any side. The siren, like every redstone connector, can be reconfigured to use a different redstone channel (default is white).
+Radio Station
+The Wireless Wire™
+The Radio Station is a device for sending and receiving data wirelessly. Radio stations can only communicate, when they are in range (which is lower in bad weather), when they work on the same frequency and when both towers are given enough electrical energy.
+The Radio Station is an advanced multiblock, which means it can be only built using an Electric Engineer's Hammer in a 2-step process. In the first stage the multiblock must be built and then a hammer has to be used on the upper advanced electronic engineering block, in the second energy (trough using the electric hammer) has to be provided to finish it.
+The Radio Station's frequency can be set by using a Radio Tuner. There are 2 versions of the tuner with different ranges of frequencies. The radio station can use only the basic range.
+Small Data Devices
+The Gray Future Cubes
+The data merger is a machine which can combine two data inputs from the sides into an output to the front. The machine has a toggle for the preferred side to take variable from. Each variable also has a side override mode, green is the left and red is the right, darker colours remove the variable if the latest packet from that side doesn't contain the variable.

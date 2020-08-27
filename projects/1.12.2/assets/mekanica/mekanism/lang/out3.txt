@@ -1,0 +1,174 @@
+Client-specific settings regarding Mekanica and all its modules
+Condensentrating
+Decondensentrating
+Power
+Confirm
+Open
+All OK
+None
+New
+Edit
+Save
+Output
+Delete
+Status
+Auto-eject
+ItemStack
+OreDict
+Material
+Out
+No fluid
+Empty
+Volume
+Start
+Stop
+Config
+Teleport
+Eject
+Input
+Strict Input
+Slots
+State
+On
+Off
+Filters
+Filter
+Idle
+Data
+New Filter
+Energy
+Gas
+Dumping
+Dumping Excess
+Mod ID
+Key
+ID
+Finished
+All is well!
+Upgrade
+Infinite
+Min
+Max
+Delay
+No Delay
+Fuel
+Heat
+Formed
+Incomplete
+Induction Matrix
+Matrix Statistics
+Turbine Statistics
+Boiler Statistics
+Main
+Outputting
+Receiving
+Dimensions
+Constituents
+cells
+providers
+Structure
+Dynamic Tank
+Industrial Turbine
+Thermoelectric Boiler
+Visuals
+Radius too big to display visuals
+Can't Eject
+Undefined
+Owner
+Public
+Private
+Add
+Set
+Freq
+Security
+Index
+Producing
+Max Output
+Storing
+Sky blocked
+No wind
+Using
+Needed
+Free Buffer
+Insufficient energy buffer!
+No recipe
+Conflict
+Height
+Mult
+Chunk
+Vibrating
+Abundancy
+Next Item
+Last Item
+Compatible OreDict Key
+Toggle Cooling Measurements
+Active cooling
+Redstone mode
+Move Up
+Move Down
+Flow rate
+Max flow
+Tank Volume
+Steam Flow
+Production
+Blades
+Coils
+Dispersers
+Vents
+Max Production
+Limiting
+Steam Input
+Capacity
+Unit
+Temp
+Usage
+Transferred
+Dissipated
+Boil Rate
+Max Boil
+Max Water
+Max Steam
+Heat Transfer
+Superheaters
+Boil Capacity
+Encode Formula
+Auto-Mode
+Craft Single Item
+Craft Available Items
+Fill/Empty Grid
+No Owner
+Security Override
+Remove
+Trusted Players
+Public Mode
+Private Mode
+Trusted Mode
+Security Offline
+You don't have access.
+Overridden
+You now own this item.
+Frequency
+Mode
+Burn Rate
+Entity Detection
+Energy Contents
+Redstone Output
+Max Water Output
+Stock Control
+Allow Default
+Size Mode
+Injection Rate
+Upgrades
+Supported
+No selection
+Amount
+Max
+Effect
+C. Infuser
+C. Dissolution Chamber
+Thermal E. Controller
+No key.
+Configuration
+Side Config
+Transporter Config
+Strict Input

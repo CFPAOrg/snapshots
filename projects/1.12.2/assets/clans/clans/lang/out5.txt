@@ -1,0 +1,36 @@
+You have promoted %s to %s in %s.
+%s has been promoted to %s in %s by %s.
+You have been promoted in %s to %s by %s.
+The player %s could not be promoted.
+/clan home
+Teleport to your clan's home.
+%s does not have a home. A clan leader should use /clan sethome to set one.
+Preparing to teleport you to the %s clan home. Remain still and avoid damage for %s seconds.
+Your clan home teleport was cancelled.
+You cannot use this command until your cooldown runs out in %s seconds.
+Error teleporting to clan home. Ensure that it is not blocked.
+Error teleporting you back to the dimension you were in.
+Error teleporting to clan home dimension.
+/clan home is disabled on this server.
+/clan sethome
+Set your clan's home.
+You are too close to another clan's home. You must be at least %s blocks away from other clans' homes to set your clan home. Use /clan fancymap to see where nearby clans are.
+%s home set.
+Clan home can only be set in clan territory.
+/clan unsethome
+Remove your clan's home.
+%s home removed.
+%s does not have a home.
+/clan trapped
+Teleport out of another clan's territory if you are stuck.
+No, you're not trapped in someone else's claim.
+/clan permissions [page]
+See what your clan's permissions are currently set to.
+%s: %s
+Player Override: %s: %s
+/clan set <permission> [player] <value>
+Set values for your clan's permissions. With a player, the value is true or false. Otherwise, you are setting the rank that has access, and your options are MEMBER, ADMIN, LEADER, or ANY. Note that each rank includes higher ranks, and ANY allows players that aren't in the clan. To see your current permissions, use /clan permissions.
+Invalid permission: %s
+Permission set succeeded!
+/clan lock [private|clan|open]
+Locks the block you are looking at. Modes: private(default): private to the player who locked it; clan: accessible to the whole clan; open: accessible to anyone, even players who are not in the clan

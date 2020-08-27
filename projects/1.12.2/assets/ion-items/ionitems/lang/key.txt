@@ -1,0 +1,10 @@
+item.ion_pickaxe.name
+item.ion_diamond.name
+item.ion_shovel.name
+item.ion_sword.name
+item.ion_axe.name
+item.obsidian_stick.name
+item.ion_chest.name
+item.ion_legs.name
+item.ion_boots.name
+item.ion_head.name

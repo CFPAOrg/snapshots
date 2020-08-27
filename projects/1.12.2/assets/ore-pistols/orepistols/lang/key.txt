@@ -1,0 +1,7 @@
+item.redstonegun.name
+item.lapisgun.name
+item.bullet.name
+item.goldgun.name
+item.emeraldgun.name
+item.diamondgun.name
+item.dualies.name

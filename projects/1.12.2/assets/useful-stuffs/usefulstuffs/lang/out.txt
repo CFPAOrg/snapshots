@@ -1,0 +1,38 @@
+Leads you to the nearest nether fortress.
+Right click in nether to update the compass.
+Milk Fermenter
+Forming a Tank
+Collecting Cheese
+LightBulb
+Potion of Floating LilyPad
+Splash Potion of Floating LilyPad
+Lingering Potion of Floating LilyPad
+Li-ly
+Arrow of Floating LilyPad
+Potion of Fiery LilyPad
+Splash Potion of Fiery LilyPad
+Lingering Potion of Fiery LilyPad
+Fiery Li-ly
+Arrow of Fiery LilyPad
+Potion of Parachute
+Splash Potion of Parachute
+Lingering Potion of Parachute
+Parachute
+Arrow of Parachute
+%s Filing Cabinet
+Campfire of Traveller's Wisdom
+BuffDiameter:%s
+Milk Fermenter
+Universal User
+UsefulStuffs
+Useful Key
+Frugal
+Reduce the durability cost of Packing GLue
+Blessing of Artemis
+Makes the light-using gadgets able to charge during the night
+Fast Draw
+Increase the draw speed of bows
+Endest
+End-er than the Enders. Arrows damage Endermen
+Look at yourself. A couch potato.
+You can only sleep at night ( %s )

@@ -1,0 +1,51 @@
+X-Enchanted Book
+X-Enchanted Book
+X-Enchanted Tool
+X-Enchanted Combat Gear
+X-Enchanted Helmet
+X-Enchanted Chestplate
+X-Enchanted Leggings
+X-Enchanted Lucky Pants
+X-Enchanted Flight Boots
+X-Enchanted Speedy Boots
+X-Enchanted Sword
+X-Enchanted Shovel
+X-Enchanted Pickaxe
+X-Enchanted Hatchet
+Pinky The Brainer
+Attack Amplify
+Animosity
+Bludgeoning
+Frost Aspect
+Damage Recoil
+Bane of Witches
+Luck of Jack
+Dodging
+Damage Dispersion
+Damage Ghosting
+Sensate Protection
+Undying Force
+Warding
+Corrupting Taint
+Economical
+Keepsake
+Parasitic Mending
+Scavenger Heal
+Uncrossing
+Unenchanting
+X-Amplify
+Amplifier for all standard attack damage enchantments; each level adds 3 pts up to a max of 15 additional pts.
+For those looking to channel some serious ill-will via sword play
+Like Smite but targeted at witches.
+Gives a bit of Jack's luck when storming your nearest beanstalk.
+Puts a numbing chill on any mob but especially those immune to fire. At level III damage is permanent.
+Random multipler for most damage caused by the PinklySheep mod's custom swords.
+Recoils a portion of most damage back to the ultimate source without damaging your own armor or annoying silverfish.
+When applied on an anvil, removes the Curse of Vanishing from an item.
+When applied on an anvil, removes ALL curse enchantments from an item.
+When applied on an anvil, erases ALL enchantments from an item.
+When used on an anvil, increases by one any enchantments at or over their normal max levels. (Over-levels them!) 
+Disperses a portion of incoming INDIRECT damage based on the combined enchantment level of all armor.
+Wards off a portion of the damage done by magic potions (and other sources of magic damage at level III).
+Multiplier for Damage Dispersion but also works as a death-protection shield of last-resort.
+Causes the attacked mob to sometimes shed health and experience points as player pick-up-able drops.

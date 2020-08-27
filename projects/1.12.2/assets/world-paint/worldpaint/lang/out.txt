@@ -1,0 +1,19 @@
+World Paint
+Painting Boots
+Paint
+Paint Scrubber
+Paintbrush
+Color Picker
+Removed all paint blocks. Took %sms
+Paint Color: %s
+Black
+Blue
+Gray
+Green
+Orange
+Pink
+Purple
+Red
+White
+Yellow
+Unknown

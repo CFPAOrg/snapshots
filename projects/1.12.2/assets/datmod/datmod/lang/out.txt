@@ -1,0 +1,101 @@
+DatMod
+Advancements for DatMod
+The Ultimate Pick!
+You crafted the Ultimate Pickaxe!
+Get Diamondium
+You picked up Diamondium Ore!
+Get Emeraldi
+You picked up Emeraldi Ore!
+Get Goldirite
+You picked up Goldirite Ore!
+Get Ironium
+You picked up Ironium Ore!
+Ore Excavator
+Congratulations, you beat DatMod! Just kidding, get to crafting some machines!
+Diamondium Block
+Diamondium Ore
+Emeraldi Block
+Emeraldi Ore
+Goldirite Block
+Goldirite Ore
+Ironium Block
+Ironium Ore
+DatMod
+Coal Axe
+Coal Boots
+Coal Chestplate
+Coal Helmet
+Coal Leggings
+Coal Hoe
+Coal Pickaxe
+Coal Shovel
+Coal Sword
+Diamondium
+Diamondium Axe
+Diamondium Boots
+Diamondium Chestplate
+Diamondium Helmet
+Diamondium Hoe
+Diamondium Leggings
+Diamondium Pickaxe
+Diamondium Shovel
+Diamondium Sword
+Emeraldi
+Emeraldi Axe
+Emeraldi Boots
+Emeraldi Chestplate
+Emeraldi Helmet
+Emeraldi Hoe
+Emeraldi Leggings
+Emeraldi Pickaxe
+Emeraldi Shovel
+Emeraldi Sword
+Goldirite Axe
+Goldirite Boots
+Goldirite Chestplate
+Goldirite Helmet
+Goldirite Hoe
+Goldirite Ingot
+Goldirite Leggings
+Goldirite Pickaxe
+Goldirite Shovel
+Goldirite Sword
+Ironium Axe
+Ironium Boots
+Ironium Chestplate
+Ironium Helmet
+Ironium Hoe
+Ironium Leggings
+Ironium Pickaxe
+Ironium Shovel
+Ironium Sword
+Ironium Ingot
+Lapis Lazuli Axe
+Lapis Lazuli Boots
+Lapis Lazuli Chestplate
+Lapis Lazuli Helmet
+Lapis Lazuli Hoe
+Lapis Lazuli Leggings
+Lapis Lazuli Pickaxe
+Lapis Lazuli Shovel
+Lapis Lazuli Sword
+Magnet
+Nether Quartz Axe
+Nether Quartz Boots
+Nether Quartz Chestplate
+Nether Quartz Helmet
+Nether Quartz Hoe
+Nether Quartz Leggings
+Nether Quartz Pickaxe
+Nether Quartz Shovel
+Nether Quartz Sword
+Redstone Axe
+Redstone Boots
+Redstone Chestplate
+Redstone Helmet
+Redstone Hoe
+Redstone Leggings
+Redstone Pickaxe
+Redstone Shovel
+Redstone Sword
+Ultimate Pickaxe

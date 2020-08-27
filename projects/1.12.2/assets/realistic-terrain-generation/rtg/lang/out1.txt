@@ -1,0 +1,67 @@
+The chance that a vanilla surface lava lake will generate
+Vanilla Underground Lake Settings
+Water Lakes
+Enable vanilla underground water lakes
+Water Lake Chance 1/x
+The chance that a vanilla underground water lake will generate
+Lava Lakes
+Enable vanilla underground lava lakes
+Lava Lake Chance 1/x
+The chance that a vanilla underground lava lake will generate
+Water and Lava Spouts (1/x chance)
+Water Spout Chance
+A 1/x chance that a water spout will generate on the side of a hill or cave wall
+Lava Spout Chance
+A 1/x chance that a lava spout will generate on the side of a hill or cave wall
+Structure Settings
+Village Settings
+Villages
+Enable village generation
+Village Distance
+The minimum distance between villages
+Village Size
+Adjusts the average size of villages
+Mineshaft Settings
+Mineshafts
+Enable mineshaft generation
+Mineshaft Chance
+The Chance that a mineshaft will generate
+Dungeon Settings
+Dungeons
+Enable dungeon generation
+Dungeon Chance
+The chance that a dungeon will generate
+Scattered Feature Settings
+Scattered Features
+Enable scattered features (desert/jungle temples, witch huts, igloos, etc..)
+Temple Distance
+The distance between scattered features
+Ocean Monument Settings
+Ocean Monuments
+Enable Ocean Monument generation
+Separation
+Ocean Monument Separation
+Spacing
+Ocean Monument Spacing
+Woodland Mansion Settings
+Woodland Mansions
+Enable Woodland Mansion generation
+Mansion Separation
+The minimum distance between Woodland Mansions
+Mansion Spacing
+The maximum distance between Woodland Mansions
+Stronghold Settings
+Strongholds
+Enable Strongholds
+Stronghold Count
+The amount of strongholds that will generate in a world
+Distance
+Minimum distance between strongholds?
+Spread
+Stronghold Spread
+Ore Generation Settings
+Dirt Generation Settings
+Dirt Size
+The size of dirt pockets generted in the world
+Dirt Count
+The amount of dirt pockets per chunk

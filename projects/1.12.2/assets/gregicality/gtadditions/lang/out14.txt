@@ -1,0 +1,14 @@
+The Large Circuit Assembly Line is use to create high tier circuit.
+The Processing Array combines up to 16 single block machines in a single multiblock, effectively easing automation.
+The Volcanus is built as EBF. It consume 40L of Pyrotheum per sec and it is 3x faster.
+The large bending and forming is 6x faster on the same voltage,  Processes 4 items per voltage tier difference.
+The multi use is 3.5x faster on the same voltage, has 80%% EUt discount  and Processes 2 items per voltage tier difference.
+The washing plant is 5x faster on the same voltage and Processes 4 items per voltage tier difference.
+The GA Distillation Tower is a multiblock structure consisting of 2-12 layers. It's used for distilling fluids, but unlike the Distillery, gives you multiple outputs per input, including item outputs. Every layer has a different output.
+The Fusion Reactor Mark 1 is a large multiblock structure used for fusing elements into heavier ones. The Mark 1 Fusion Reactor can use LuV, ZPM or UV Energy Hatches. For every Hatch it has its buffer increases by 100k.
+The Fusion Reactor Mark 2 is a large multiblock structure used for fusing elements into heavier ones. The Mark 2 Fusion Reactor can use ZPM or UV Energy Hatches. For every Hatch it has its buffer increases by 200k.
+The Fusion Reactor Mark 3 is a large multiblock structure used for fusing elements into heavier ones. The Mark 3 Fusion Reactor can only use UV Energy Hatches. For every Hatch it has its buffer increases by 400k.
+The Nuclear Reactor and the Nuclear Breeder Reactor use Nuclear Power to generate Hot Coolant.
+Coolant is fluid and can be Steam(150C), Deuterium(450C), Sodium(800C), Sodium Potassium Alloy(900C), FLiNaK(1800C), FLiBe(1700C) and Lead Bismuth Eutatic(1900C).
+The Nuclear Reactor will drain all coolant store in Hatches and 1 Bucket of Coolant decrease Temperature by 1C.
+The fluid output can be coolant if the temperature of the core is lesser than coolant temperature and hot coolant otherwise (can be both if too much coolant is added)

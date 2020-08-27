@@ -1,0 +1,85 @@
+Energy Module
+Energy Cluster
+MAX Battery
+Mica Based Sheet
+Mica Insulator Sheet
+Mica Insulator Foil
+Basic Circuit Board
+Good Phenolic Circuit Board
+Good Plastic Circuit Board
+Advanced Circuit Board
+Extreme Circuit Board
+Elite Circuit Board
+Master Circuit Board
+Basic stator
+Advanced stator
+Advanced stator II
+Advanced stator III
+Advanced stator IV
+Advanced stator V
+Advanced stator VI
+Superconducting stator
+Basic rotor
+Advanced rotor
+Advanced rotor II
+Advanced rotor III
+Advanced rotor IV
+Advanced rotor V
+Advanced rotor VI
+Superconducting rotor
+Steel Motor casing
+Aluminium Motor casing
+Stainless Motor casing
+Titanium Motor casing
+Tungstensteel Motor casing
+HSS-G Motor casing
+HSS-E Motor casing
+Neutronium Motor casing
+Magnetically permeable plate set
+Fe₂₆Si
+Ferrite core plates set
+NiZnFe₄O₈
+BrainTech Aerospace Advanced Reinforced Duct Tape FAL-84
+If you can't fix it with this, use more of this!
+Polycrystalline solar cell
+Can produce energy from sun!
+Monocrystalline solar cell
+Can produce energy from sun!
+Thin monocrystalline silicon plate
+It is really clean!
+%s Credit
+%s Credits
+Wallet
+Credits: %s
+Right click it while holding to open wallet UI
+Shift-right click while holding to add all credits from inventory to wallet
+NanoMuscle™ Suite: NightVision enabled
+NanoMuscle™ Suite: NightVision disabled
+QuarkTech™ Suite: NightVision enabled
+QuarkTech™ Suite: NightVision disabled
+Jetpack: hover mode enabled
+Jetpack: hover mode disabled
+§aON
+§cOFF
+Energy level: %s
+Fuel level: %s
+Hover mode: %s
+Supply mode: %s
+Fly mode: %s
+GraviEngine: %s
+Energy Supply: Gadgets charging enabled
+Energy Supply: Gadgets charging disabled
+Supply mode: %s
+To change mode shift-right click when holding item
+No machines installed
+Required EU/t: %s (%s)
+Owner successfully set to %s
+Available deals:
+%s deals
+Credits:
+Mode
+credits
+OreDict
+Exact
+§eLiquid fuel jetpack
+§eImpeller jetpack

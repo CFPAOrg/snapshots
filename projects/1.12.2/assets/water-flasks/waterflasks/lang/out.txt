@@ -1,0 +1,9 @@
+Bladder
+Leather Flask Side
+%s Leather Flask
+Empty Leather Flask
+Broken Leather Flask
+%s Iron Flask
+Empty Iron Flask
+Unfinished Iron Flask
+Broken Iron Flask

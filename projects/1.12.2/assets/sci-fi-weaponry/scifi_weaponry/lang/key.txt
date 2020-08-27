@@ -1,0 +1,12 @@
+item.blazedyeblue.name
+item.blazebladebattery.name
+item.blazebladered.name
+item.blazelauncher.name
+item.blazeblaster2.name
+item.blazeblasterbolt.name
+item.blazebladeblue.name
+item.blazeblaster.name
+item.blazebladehandle.name
+item.blazedyered.name
+itemGroup.tabscifiweaponrycombat
+item.blazeblade.name

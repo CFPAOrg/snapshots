@@ -1,0 +1,121 @@
+Lead Shovel
+Lead Sword
+Platinum Axe
+Platinum Pickaxe
+Platinum Hoe
+Platinum Shovel
+Platinum Sword
+Static Axe
+Static Pickaxe
+Static Hoe
+Static Shovel
+Static Sword
+Energized Axe
+Energized Pickaxe
+Energized Hoe
+Energized Shovel
+Energized Sword
+Lumum Axe
+Lumum Pickaxe
+Lumum Hoe
+Lumum Shovel
+Lumum Sword
+Sapphire Axe
+Sapphire Pickaxe
+Sapphire Hoe
+Sapphire Shovel
+Sapphire Sword
+Ruby Axe
+Ruby Pickaxe
+Ruby Hoe
+Ruby Shovel
+Ruby Sword
+Static Helmet
+Static Chestplate
+Static Leggings
+Static Boots
+Energized Helmet
+Energized Chestplate
+Energized Leggings
+Energized Boots
+Lumum Helmet
+Lumum Chestplate
+Lumum Leggings
+Lumum Boots
+Static Belt
+Energized Belt
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Tin Helmet
+Tin Chestplate
+Tin Leggings
+Tin Boots
+Lead Helmet
+Lead Chestplate
+Lead Leggings
+Lead Boots
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Platinum Helmet
+Platinum Chestplate
+Platinum Leggings
+Platinum Boots
+Aluminium Helmet
+Aluminium Chestplate
+Aluminium Leggings
+Aluminium Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Undead Helmet
+Undead Chestplate
+Undead Leggings
+Undead Boots
+Skeleton Helmet
+Skeleton Chestplate
+Skeleton Leggings
+Skeleton Boots
+Canister
+Canister
+Canister
+Canister
+Static Metal
+Energized Metal
+Lumum Metal
+Regular
+Input
+Input 2
+Output
+Output 2
+Output 3
+Disabled
+RF/t
+Power Control
+Minimum
+Maximum
+Confirm
+RPM
+Up
+Down
+East
+West
+North
+South
+Top
+Bottom
+Right
+Left
+Front
+Back
+§aStatic Metal
+§bEnergized Metal
+§eLumum Metal

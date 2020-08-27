@@ -1,0 +1,12 @@
+tile.stripped_acacia_log.name
+tile.stripped_acacia_wood.name
+tile.stripped_birch_log.name
+tile.stripped_birch_wood.name
+tile.stripped_dark_oak_log.name
+tile.stripped_dark_oak_wood.name
+tile.stripped_jungle_log.name
+tile.stripped_jungle_wood.name
+tile.stripped_oak_log.name
+tile.stripped_oak_wood.name
+tile.stripped_spruce_log.name
+tile.stripped_spruce_wood.name

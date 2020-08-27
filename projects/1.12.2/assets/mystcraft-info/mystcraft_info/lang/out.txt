@@ -1,0 +1,19 @@
+Solid Block
+Structural Block
+Sea Block
+Terrain Block
+Uncommon Sunset
+Sunset
+Angle
+Period
+Phase
+Color
+Color Gradient
+Angle
+Period
+Phase
+Basic Color
+Basic Color Gradient
+Large Feature
+Medium Feature
+Small Feature

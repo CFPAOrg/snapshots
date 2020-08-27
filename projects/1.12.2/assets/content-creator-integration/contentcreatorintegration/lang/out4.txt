@@ -1,0 +1,31 @@
+Use this to check for a content in the event's message.
+Do you want to search for a specific variable name? Remove to look for the default variable "message".
+Does this require an exact phrase?
+Is this phrase case sensitive?
+What is the phrase?
+Use this to check for a specific variable.
+The name of the variable you are targeting
+The result you are hoping to match with. If you are looking to see if this is contained in within the variable result, use MessageCondition instead with optionalVariableName set.
+Be case sensitive?
+Check from global variables.
+Use this to check if a variable exists.
+The name of the variable you are targeting.
+Check if it's specifically a global variable.
+Use this to check if a variable is a number.
+The name of the variable you are targeting.
+Removes a variable from the variables list
+The name of the variable you are targeting.
+Removes this variable from the global variables as well.
+Use this to for a random chance for this condition to be met.
+What is the chance for this condition to be met? 0.0 to 1.0.
+Use this to see if a certain target exists or not.
+Target selector string to target.
+Use this condition to load a note/note array into a variable. It will fail if the note/note array doesn't exist. Put note conditions higher up so the later conditions and outcomes will be able to use what's in the variable.
+Name of the note.
+Name of the variable to insert the note/note array. Will override event variables if they already exist.
+Load the notes array instead of the simple note?
+Should this condition be met even if the note or note array doesn't exist?
+If the note does not exist, should there be a default variable value set?
+Use this condition for multiple conditions. Potentially used for a nested OR statement if "any" is turned on.
+Array of conditions.
+Will any of the conditions met trigger this condition? Basically an AND and OR switch.

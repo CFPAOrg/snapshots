@@ -1,0 +1,3 @@
+item.spawn_zawa_custom.name
+item.spawn_zawa_custom_water.name
+item.spawn_zawa_custom_flying.name

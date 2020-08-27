@@ -1,0 +1,49 @@
+Practical Space Fireworks
+Fuel Tank
+Fuel Valve
+Cubic Strut
+Sloped Strut
+Simple Thruster
+Payload Separator
+Terrain Scanner
+Weather Scanner
+Laser
+Laser Strength
+Small Solar Panel
+Large Solar Panel
+Simple Entity Detector
+State
+Simple Entity Marker
+Simple Battery
+Advanced Battery
+Battery
+Satellite Controller
+Remote Control System
+Air Intake
+Air Compressor
+Air Separator
+Kerosene Extractor
+Target Selector
+Mirror
+Light Filament
+Fuel Valve
+%s firing at [x:%s, y:%s, z:%s]
+Use on a fuel tank to attach in-place
+Kerosene
+Liquid Oxygen
+Liquid Nitrogen
+Filtered Air
+Compressed Air
+Spacecraft
+%s was atomized by %s
+Looking at: %s
+Has fuel valve
+Strut Your Stuff
+Craft a strut cube
+Payload separator connects
+Payload separator disconnects
+Spacecraft launches
+Laser fires
+Fuel Valve
+No controller!
+Cannot load fuel

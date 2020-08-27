@@ -1,0 +1,2 @@
+advancements.awwman.descr
+advancements.awwman.title

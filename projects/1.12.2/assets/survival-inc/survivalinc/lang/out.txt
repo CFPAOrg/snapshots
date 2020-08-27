@@ -1,0 +1,27 @@
+Slowdown Threshold
+The percentage of wetness that should start weighing the player down
+Sunlight Multiplier
+The multiplier applied to passive drying rate when the player is exposed to sunlight
+Towel Capacity
+The capacity of towel in % of the player's wetness
+Towel Dry Rate
+The rate at which towels dry when placed on top of operating furnace
+Passive Drying Rate
+The rate at which wetness passively decreases
+Seasons
+Settings regarding season behavior
+Enable Seasons
+Should seasonal mechanics be included in the game?
+Durations
+Temperatures
+The temperature offset of the individual seasons, applied to each biome temperature. Order of values: [WINTER, SPRING, SUMMER, AUTUMN]
+Melt Controller
+The melting controller to be used. See the wiki for explanation.
+Starting Season
+The season the player spawns in in a new world.
+Starting Day
+The day in the season player spawns in in a new world.
+Ghost
+Ghost related settings
+Enable Ghost
+Should spawning ghost on death instead of respawn be enabled?

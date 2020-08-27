@@ -1,0 +1,76 @@
+This %s is too young.
+This %s has low familiarity.
+This is a male!
+This is a male!
+This %s wool has not grown up yet.
+This %s is not ready to be milked.
+This %s is not ready to lay eggs.
+Found %s
+Found traces of %s
+Found a small sample of %s
+Found a medium sample of %s
+Found a large sample of %s
+Found a very large sample of %s
+Found nothing of interest.
+Spawn point set.
+This bed is too uncomfortable to sleep.
+Smoked
+Brined
+Brining
+Salted
+Pickled
+Preserved
+Vinegar preserved
+Charcoal Grilled
+Wood Grilled
+Pickling
+Brining
+Preserving in vinegar
+Prospecting: %s
+Smithing: %s
+Agriculture: %s
+Butchering: %s
+Novice
+Adept
+Expert
+Master
+Crafting GUI
+Place Item Holder Block
+Change Item Mode
+Stack food
+Spawn Fuzzing Radius
+Flat Bedrock
+Ravine Rarity
+Ravine Height
+Ravine Variability
+Surface Ravine Rarity
+Surface Ravine Height
+Surface Ravine Variability
+River Ravine Rarity
+General Settings
+TerraFirmaCraft general mod configuration and compatibility
+Debug Settings
+Enable
+Activates some extra wand features. Enables extra item tooltips.
+Debug Worldgen (DANGER)
+Debug worldgen [DANGER] Your world will be affected! Do not use on your proper world files!
+Debug Worldgen (safe)
+Debug worldgen [safe] This will print out debug into duing world gen and create some image mapsp, does not affect the world.
+Override Settings
+Various override settings, some for compatibility
+Enable Ingot Piles
+Enable ingot pile placement in world.
+Enable Log Piles
+Enable log pile placement in world.
+Enable Thatch Bed
+Enable the creation of thatch beds.
+Enable Grass Path
+Enable the creation of grass paths.
+Enable Stone Anvil
+Enable the creation of stone anvils.
+Enable Torch Override
+Turn this off if you have conflicts with other mods.
+Torch Burnout Time
+Enable TFC Lava/Water Mixing
+Overrides lava and water making vanilla stones to TFC variants.
+Default level-type Override

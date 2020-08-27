@@ -1,0 +1,3 @@
+misc.refinedstorage:energy_stored
+misc.refinedstorage:energy_usage
+misc.refinedstorage:energy_usage_minimal

@@ -1,0 +1,84 @@
+Double Sheet Beryllium
+Anvil Beryllium
+Beryllium Tuyere
+Tuyere Beryllium
+Beryllium Lamp
+%s Beryllium Lamp
+Lamp Beryllium
+Pick Beryllium
+Pick Head Beryllium
+Shovel Beryllium
+Shovel Head Beryllium
+Axe Beryllium
+Axe Head Beryllium
+Hoe Beryllium
+Hoe Head Beryllium
+Chisel Beryllium
+Chisel Head Beryllium
+Sword Beryllium
+Sword Blade Beryllium
+Mace Beryllium
+Mace Head Beryllium
+Saw Beryllium
+Saw Blade Beryllium
+Javelin Beryllium
+Javelin Head Beryllium
+Hammer Beryllium
+Hammer Head Beryllium
+Propick Beryllium
+Propick Head Beryllium
+Knife Beryllium
+Knife Blade Beryllium
+Scythe Beryllium
+Scythe Blade Beryllium
+Shears Beryllium
+Unfinished Chestplate Beryllium
+Chestplate Beryllium
+Unfinished Greaves Beryllium
+Greaves Beryllium
+Unfinished Boots Beryllium
+Boots Beryllium
+Unfinished Helmet Beryllium
+Helmet Beryllium
+Beryllium Shield
+Molten Beryllium Copper
+Beryllium Copper Ingot
+Unshaped Beryllium Copper
+Beryllium Copper Double Ingot
+Double Ingot Beryllium Copper
+Beryllium Copper Scrap
+Scrap Beryllium Copper
+Beryllium Copper Dust
+Dust Beryllium Copper
+Beryllium Copper Nugget
+Nugget Beryllium Copper
+Beryllium Copper Sheet
+Sheet Beryllium Copper
+Beryllium Copper Double Sheet
+Double Sheet Beryllium Copper
+Beryllium Copper Anvil
+Anvil Beryllium Copper
+Beryllium Copper Tuyere
+Tuyere Beryllium Copper
+Beryllium Copper Lamp
+%s Beryllium Copper Lamp
+Lamp Beryllium Copper
+Beryllium Copper Pickaxe
+Pick Beryllium Copper
+Beryllium Copper Pickaxe Head
+Pick Head Beryllium Copper
+Beryllium Copper Shovel
+Shovel Beryllium Copper
+Beryllium Copper Shovel Head
+Shovel Head Beryllium Copper
+Beryllium Copper Axe
+Axe Beryllium Copper
+Beryllium Copper Axe Head
+Axe Head Beryllium Copper
+Beryllium Copper Hoe
+Hoe Beryllium Copper
+Beryllium Copper Hoe Head
+Hoe Head Beryllium Copper
+Beryllium Copper Chisel
+Chisel Beryllium Copper
+Beryllium Copper Chisel Head

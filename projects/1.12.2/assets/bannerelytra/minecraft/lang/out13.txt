@@ -1,0 +1,121 @@
+Splash Potion of Levitation
+Splash Potion of Luck
+Lingering Uncraftable Potion
+Lingering Water Bottle
+Mundane Lingering Potion
+Thick Lingering Potion
+Awkward Lingering Potion
+Lingering Potion of Night Vision
+Lingering Potion of Invisibility
+Lingering Potion of Leaping
+Lingering Potion of Fire Resistance
+Lingering Potion of Swiftness
+Lingering Potion of Slowness
+Lingering Potion of Water Breathing
+Lingering Potion of Healing
+Lingering Potion of Harming
+Lingering Potion of Poison
+Lingering Potion of Regeneration
+Lingering Potion of Strength
+Lingering Potion of Weakness
+Lingering Potion of Levitation
+Lingering Potion of Luck
+II
+III
+Sharpness
+Smite
+Bane of Arthropods
+Knockback
+Fire Aspect
+Sweeping Edge
+Protection
+Fire Protection
+Feather Falling
+Blast Protection
+Projectile Protection
+Respiration
+Aqua Affinity
+Depth Strider
+Frost Walker
+Efficiency
+Silk Touch
+Unbreaking
+Looting
+Fortune
+Luck of the Sea
+Lure
+Power
+Flame
+Punch
+Infinity
+Thorns
+Mending
+Curse of Binding
+Curse of Vanishing
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+Advancements
+Statistics
+There doesn't seem to be anything here...
+Advancement Made!
+Challenge Complete!
+Goal Reached!
+Statistic
+General
+Blocks
+Items
+Mobs
+Times Used
+Times Mined
+Times Depleted
+Times Crafted
+You killed %s %s
+%s killed you %s time(s)
+You have never killed %s
+You have never been killed by %s
+Times Played
+Worlds Created
+Saves Loaded
+Multiplayer Joins
+Games Quit
+Time Played
+Since Last Death
+Sneak Time
+Distance Walked
+Distance Crouched
+Distance Sprinted
+Distance Fallen
+Distance Swum
+Distance Flown
+Distance Climbed
+Distance Dove
+Distance by Minecart
+Distance by Boat
+Distance by Pig
+Distance by Horse
+Distance by Elytra
+Jumps
+Items Dropped
+Dropped
+Picked Up
+Damage Dealt
+Damage Taken
+Number of Deaths
+Mob Kills
+Animals Bred
+Player Kills
+Fish Caught
+Treasure Fished
+Junk Fished
+Talked to Villagers
+Traded with Villagers
+Cake Slices Eaten
+Cauldrons Filled

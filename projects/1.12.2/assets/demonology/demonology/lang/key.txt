@@ -1,0 +1,11 @@
+itemGroup.demonology
+tile.demonology:altar_basic.name
+tile.demonology:ritual_stone.name
+entity.soul.name
+entity.demonic_eye.name
+entity.wraith.name
+item.demonology:soul_flask.name
+item.demonology:reapers_knife.name
+item.demonology:evil_eye.name
+item.demonology:demonic_pulsator.name
+item.demonology:demonic_rod.name

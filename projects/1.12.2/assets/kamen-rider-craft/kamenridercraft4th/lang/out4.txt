@@ -1,0 +1,104 @@
+Shield Switch
+Gatling Switch
+Fire Switch
+Stealth Switch
+Hammer Switch
+Water Switch
+Medical Switch
+Pen Switch
+Wheel Switch
+Screw Switch
+Hand Switch
+Schop Switch
+N Magnet Switch
+S Magnet Switch
+Freeze Switch
+Claw Switch
+Board Switch
+Giantfoot Switch
+Aero Switch
+Gyro Switch
+Net Switch
+Stamper Switch
+Cosmic Switch
+Rocket Switch Super-1
+Launcher Switch Super-2
+Drill Switch Super-3
+Clear Drill Switch
+Core Switch
+SOLU Switch
+Gate Switch
+WizarSwordGun
+AxCalibur
+AxCalibur
+WizarSwordGun (Mage Ver)
+Mirage Magnum
+Dice Saber
+Hamel Cane
+Dis Halberd
+Wizard Helmet
+Wizard Chestplate
+Wizard Leggings
+WizarDriver
+Flame Wizard Ring
+Water Wizard Ring
+Hurricane Wizard Ring
+Land Wizard Ring
+Flame Dragon Wizard Ring
+Water Dragon Wizard Ring
+Hurricane Dragon Wizard Ring
+Land Dragon Wizard Ring
+Infinity Wizard Ring
+Musou Saber
+Musou Saber (Naginata Mode)
+Musou Saber (Naginata Mode)
+Musou Saber (Kusarigama Mode)
+DJ Gun
+DJ Gun (Taiken Mode)
+Kagematsu
+Donkachi
+Melon Defender
+Pine Iron
+Ichigo Kunai
+Daidaimaru
+Daidaimaru(Blood Orange Ver)
+Banana Spear
+Joushuimu
+Sheimu
+Dau
+Guronbaryamu
+Gaim Helmet
+Gaim Chestplate
+Gaim Leggings
+Sengoku Driver (Gaim)
+Sengoku Driver (Baron)
+Sengoku Driver (Ryugen)
+Sengoku Driver (Zangetsu)
+Sengoku Driver (Gridon)
+Sengoku Driver (Kurokage)
+Sengoku Driver (Bravo)
+Sengoku Driver (Knuckle)
+Sengoku Driver (Bujin Gaim)
+Sengoku Driver (Fifteen)
+Sengoku Driver (Mars)
+Sengoku Driver (Kamuro)
+Sengoku Driver (Jam)
+Sengoku Driver (Kurokage Troopers)
+Sengoku Driver (Proto Gaim)
+Sengoku Driver (Proto Baron)
+Sengoku Driver (Proto Ryugen)
+Sengoku Driver (Proto Gridon)
+Sengoku Driver (Proto Bravo)
+Genesis Driver (Zangetsu Shin)
+Genesis Driver (Duke)
+Genesis Driver (Sigurd)
+Genesis Driver (Marika)
+Genesis Driver (Baron)
+Genesis Driver (Kurokage Shin)
+Matsubokkuri Lockseed
+Kurumi Lockseed
+Donguri Lockseed
+Melon Lockseed
+Pine Lockseed
+Ichigo Lockseed
+Orange Lockseed

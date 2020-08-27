@@ -1,0 +1,84 @@
+Dimensions
+Dimension List
+Set Dimension IDs for this mod?
+TARDIS Dimension
+Space Dimension
+Should the dimensions in the below list be used as a whitelist?
+Telos Dimension ID
+Entities
+Should this mod add Mobs?
+Chance That A Cyberman Will Spawn (Per Chunk)
+Chance That An Adipose Will Spawn (Per Chunk)
+Misc
+Give player a TARDIS key when they join the world?
+Maximum number of blocks the TARDIS should travel when using the randomizer
+Should the camera shake when taking off/landing?
+Enable BOTI?
+Time Rotor Handbrake
+Space Control - X
+Space Control - Y
+Space Control - Z
+Dimensional Control
+Screen
+Coordinate Randomizer
+Door
+Waypoint Input
+Waypoint Slot
+Real-World Flight Interface
+Refueller
+Landing Type Selector
+Directional Control
+TARDIS
+Fast Return
+Telepathic Circuits
+Door Switch
+Coordinate Increment Modifier
+Communicator
+Stabilizers
+Monitor
+Waypoint Selector
+Stabilizers On
+Stabilizers Off
+Dalek
+Adipose
+Invasion Cyberman
+was converted!
+Interior Pos:
+Mouse over console controls to learn about them.
+The Dematerialization Circuit has been fried!
+Tardis now fueling...
+Tardis no longer fueling.
+Could not find %s on planet %s!
+Relocating you to this capsule's outer plasmic shell!
+You cannot currently do that
+Please remain in the confines of your own capsule
+Vworp
+TARDIS flying
+Sonic Screwdriver buzzes
+Dalek ray fired
+Dalek
+Force Field
+Locked
+Door Opens
+Door Closes
+Cloister bell
+Drum beat
+ TARDIS stutters
+Vortex Manipulator teleportation
+No TARDIS found
+No player found with this username
+The selected TARDIS is being summoned to you.
+TARDIS deleted
+No sub-systems found
+Sub-system restored
+/tardis interior [player]
+/tardis grow
+/summon tardis <player>
+/tardis remove <player>
+/tardis restoresys <player> <system1> [system2] [system3]...
+Travel
+Please follow me.
+Wait here.
+Go back to the TARDIS and wait for me.
+I need you to go get the TARDIS.
+Good work with those Daleks!

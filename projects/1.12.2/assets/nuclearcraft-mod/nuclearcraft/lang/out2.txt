@@ -1,0 +1,67 @@
+Supercold Ice
+Nuclear Furnace
+Smelts items very quickly using uranium and thorium ingots and dust as fuel.
+Nuclear Furnace
+Manufactory
+A handy machine that has many uses.
+Manufactory
+Isotope Separator
+Separates materials into their isotopes.
+Isotope Separator
+Decay Hastener
+Forces radioactive materials to decay.
+Decay Hastener
+Fuel Reprocessor
+Extracts materials from depleted fuel.
+Fuel Reprocessor
+Alloy Furnace
+Combines base metals into alloys.
+Alloy Furnace
+Fluid Infuser
+Enhances materials with fluids.
+Fluid Infuser
+Melter
+Melts down materials.
+Melter
+Supercooler
+Lowers the temperature of fluids.
+Supercooler
+Electrolyzer
+Splits compounds into their elements.
+Electrolyzer
+Neutron Irradiator
+Induces changes to nuclear structure.
+Neutron Irradiator
+Ingot Former
+Forms ingots and gems from molten materials.
+Ingot Former
+Pressurizer
+Processes items under immense pressure.
+Pressurizer
+Chemical Reactor
+Houses reactions between fluids.
+Chemical Reactor
+Salt Mixer
+Blends fluids together.
+Salt Mixer
+Crystallizer
+Precipitates solids from solution.
+Crystallizer
+Fluid Enricher
+Enriches fluids with materials.
+Fluid Enricher
+Fluid Extractor
+Draws fluids from materials.
+Fluid Extractor
+Centrifuge
+Separates the isotopes of fluid materials.
+Centrifuge
+Rock Crusher
+Smashes up rock to produce mineral dusts.
+Rock Crusher
+Machine Interface
+Automation can access the machine directly adjacent to this block. Can only extend one adjacent machine at maximum.
+Buffer
+Can store up to a stack of items, 32000 RF of energy and 16000 mB of fluid. Will offload energy and materials into adjacent machines and active coolers. Can be placed in the shell of fission structures for transportation into and out of the reactor.
+Active Fluid Cooler
+Pump coolant into this block to cool down fission and fusion reactors. Must be placed in a fission structure or on the diagonal of a fusion ring. If used to cool a fission reactor, the requirements for each fluid type are the same as the passive counterpart, but active coolers can not be used to support other coolers' placement rules. If used to cool a fusion reactor, it is much more efficient for a cooler to have a partner on the exact opposite side of the entire fusion ring.

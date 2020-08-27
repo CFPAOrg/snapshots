@@ -1,0 +1,117 @@
+Hellfire Ingot
+Onyx Ingot
+Inferno Steel Ingot
+Soulsteel Ingot
+Inferno Iron Ingot
+Bloodiron Ingot
+Quartz Vile
+Blood Vile
+Water Vile
+Soul Vile
+Hellstone Vile
+Wither Infused Glowstone Dust
+Flame Infused Glowstone Dust
+Empowered Glowstone Dust
+Hellstone Mixture
+Bloodstone
+Wither Shadow
+Hellstone Crystal
+Shadow Diamond
+Quartz Shard
+Soul
+Hellfire Stick
+Teargold Ingot
+ Infernal Gem
+Hellstone Shard
+Infernal Gem Helment
+Infernal Gem Chestplate
+Infernal Gem Leggings
+Infernal Gem Boots
+Hellfire Helment
+Hellfire Chestplate
+Hellfire Leggings
+Hellfire Boots
+Onyx Helment
+Onyx Chestplate
+Onyx Leggings
+Onyx Boots
+Soulsteel Helment
+Soulsteel Chestplate
+Soulsteel Leggings
+Soulsteel Boots
+Bloodiron Helment
+Bloodiron Chestplate
+Bloodiron Leggings
+Bloodiron Boots
+Teargold Helment
+Teargold Chestplate
+Teargold Leggings
+Teargold Boots
+Quartz Helment
+Quartz Chestplate
+Quartz Leggings
+Quartz Boots
+Infernal Gem Sword
+Infernal Gem Pickaxe
+Infernal Gem Axe
+Infernal Gem Shovel
+Infernal Gem Hoe
+Hellfire Sword
+Hellfire Pickaxe
+Hellfire Axe
+Hellfire Shovel
+Hellfire Hoe
+Onyx Blade
+Onyx Pickaxe
+Onyx Axe
+Onyx Shovel
+Onyx Hoe
+Soulsteel Sword
+Soulsteel Pickaxe
+Soulsteel Axe
+Soulsteel Shovel
+Soulsteel Hoe
+Bloodiron Sword
+Bloodiron Pickaxe
+Bloodiron Axe
+Bloodiron Shovel
+Bloodiron Hoe
+Teargold Sword
+Teargold Pickaxe
+Teargold Axe
+Teargold Shovel
+Teargold Hoe
+Quartz Sword
+Quartz Pickaxe
+Quartz Axe
+Quartz Shovel
+Quartz Hoe
+Hellfire Block
+Block Of Dreams
+Block Of Nightmares
+Onyx Block
+Blood Infused Inferno Stone
+Bloodiron Block
+Burnt Sand
+Empowered Glowstone
+Flame Infused Glowstone
+Hell Dirt
+Hellfire Ore
+Hellstone
+Hellstone Forge
+Inferno Iron Ore
+Inferno Steel Ore
+Inferno Stone
+Inferno Iron Block
+Inferno Steel Block
+Onyx Ore
+Soulsteel Block
+Wither Infused Glowstone
+Withered Iron Block
+Withered Sand
+Teargold Block
+Teargold Ore
+Hellstone Forge
+Infernal Gem Block
+Inferal Gem Ore
+The Inferno Dimension

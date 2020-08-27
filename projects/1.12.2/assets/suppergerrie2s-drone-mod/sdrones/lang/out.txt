@@ -1,0 +1,22 @@
+Hauler Drone
+Fighter Drone
+Tree Farm Drone
+Crop Farm Drone
+Archer Drone
+Drone Stick
+Hauler Drone
+Fighter Drone
+Tree Farm Drone
+Crop Farm Drone
+Archer Drone
+Arrow
+Drone bleeps
+Drone is driving
+Right click to select drone.
+Shift+Right click in air to deselect drones.
+Shift+Right on drone to kill drone.
+Right click on block to set home.
+%1$s, level: %2$s
+Storage Upgrade
+Upgrade Drone
+Drones

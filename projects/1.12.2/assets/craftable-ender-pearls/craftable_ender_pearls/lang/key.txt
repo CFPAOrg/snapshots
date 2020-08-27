@@ -1,0 +1,3 @@
+tile.rubyblock.name
+tile.rubyore.name
+item.ruby.name

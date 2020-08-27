@@ -1,0 +1,11 @@
+Unknown function type: %s, function: %s
+Model variable not found: %s
+Missing end token: %s
+Invalid character: '%c', in: %s
+Missing expression
+Unknown function: %s
+There are %d model packs.
+Reloaded models for %d player(s)
+Changed the model of %d player(s) to %s
+Cleared the model for %d player(s)
+/custommodel <refresh|list|reload|select|clear> ...

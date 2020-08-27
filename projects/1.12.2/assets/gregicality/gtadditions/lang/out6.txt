@@ -1,0 +1,74 @@
+Hot Coolant Turbine
+Large Transformer
+Void Ore Miner
+Industrial Primitive Blast Furnace
+Cryogenic Freezer
+Advanced Distillation Tower
+Chemical Plant
+Large Rocket Engine
+Alloy Blast Furnace
+Large Forge Hammer
+Large Naquadah Reactor
+Battery Tower
+Naquadah Reactor Mk. 1
+Naquadah Reactor Mk. 2
+Naquadah Reactor Mk. 3
+Naquadah Reactor Mk. 4
+Basic Rocket Engine
+Advanced Rocket Engine
+Turbo Rocket Engine
+Basic Mass Fabricator
+Advanced Mass Fabricator
+Advanced Mass Fabricator II
+Advanced Mass Fabricator III
+Advanced Mass Fabricator IV
+Advanced Mass Fabricator V
+Advanced Mass Fabricator VI
+Advanced Mass Fabricator VII
+Basic Replicator
+Advanced Replicator
+Advanced Replicator II
+Advanced Replicator III
+Advanced Replicator IV
+Advanced Replicator V
+Advanced Replicator VI
+Advanced Replicator VII
+Basic Decay Chamber
+Advanced Decay Chamber
+Advanced Decay Chamber II
+Advanced Decay Chamber III
+Advanced Decay Chamber IV
+Advanced Decay Chamber V
+Advanced Decay Chamber VI
+Basic Green House
+Advanced Green House
+Advanced Green House II
+Advanced Green House III
+Advanced Green House IV
+Advanced Green House V
+Advanced Green House VI
+Advanced Green House VII
+Advanced Pump IV
+Advanced Pump V
+Advanced Pump VI
+Advanced Pump VII
+Advanced Air Collector III
+Atmosphere Collector
+Advanced Atmosphere Collector
+Basic Chemical Dehydrator
+Advanced Chemical Dehydrator
+Advanced Chemical Dehydrator II
+Advanced Chemical Dehydrator III
+Advanced Chemical Dehydrator IV
+Advanced Chemical Dehydrator V
+Advanced Chemical Dehydrator VI
+Advanced Chemical Dehydrator VII
+Basic World Accelerator
+Advanced World Accelerator
+Advanced World Accelerator II
+Advanced World Accelerator III
+Advanced World Accelerator IV
+Advanced World Accelerator V
+Advanced World Accelerator VI
+Advanced World Accelerator VII
+Increase tick update per tick. 2 modes: TileEntity or Random Tick. Use screwdriver to change mode.

@@ -1,0 +1,7 @@
+entity.fire_whirl.name
+entity.saber_moose.name
+entity.bombardier_beetle.name
+entity.beaver_duck.name
+entity.platypus_egg.name
+item.platypus_egg.name
+item.omlette.name

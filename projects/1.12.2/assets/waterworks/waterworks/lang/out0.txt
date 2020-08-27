@@ -1,0 +1,30 @@
+Pipe Wrench
+Rain Rocket
+Anti Rain Rocket
+Energy Adapter
+Controller
+Wooden Rain Tank
+Water Pipe
+Collector Block
+Rain Collector Controller
+Groundwater Pump
+Waterworks
+Used to increase size of multiblock rain collector
+Controller for the multiblock rain collector
+Bad weather incoming
+Rain duration
+Brings back the sunshine
+Anti rain duration
+Anti rain multiplier
+Maximum random additional days
+Collectors found
+Found Controller at
+No Controller found
+The Groundwater Pump extracts water from below bedrock. It needs clear sight to bedrock. Place water pipes into its inventory and give it some power to run. Pipes will be placed automatically.
+Used to increase the size of the rain collector multiblock. Place it down at a cardinal face of the controller or at a cardinal face of another collector. After the placement right click the controller with the Pipe Wrench. Every additional collector needs clear sight to the sky and will increase the yield of the multiblock structure.
+The heart of the rain collector multiblock structure. Collects water when it is raining and needs clear sight to the sky. Add collectors on the cardinal faces to increase the yield. Start a search for valid collectors by right clicking with a Pipe Wrench on it.
+A simple rain tank that collects water when its raining. It needs clear sight to the sky.
+A decorative block that is needed for the Groundwater Pump to work properly
+Use a Minecraft Rocket and some Ghast Tears to craft a Rain Rocket. More Tears equals a longer duration.
+Use a Minecraft Rocket and some dry Sponges to craft an Anti Rain Rocket. More Sponges will increase the good weather duration. A random additional time is added to the fixed value in the tooltip. You will get back your Sponges as wet version.
+Use this wrench with a right click on a Rain Collector Controller to let it search for Rain Collectors. The One Probe (mod) will show connection details.

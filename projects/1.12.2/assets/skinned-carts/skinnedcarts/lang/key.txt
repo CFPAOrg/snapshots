@@ -1,0 +1,16 @@
+itemGroup.skinnedcarts
+skinnedcarts.config.title
+item.skinnedcarts:elephant_minecart.name
+item.skinnedcarts:frog_minecart.name
+item.skinnedcarts:panda_minecart.name
+item.skinnedcarts:pelican_minecart.name
+item.skinnedcarts:pufferfish_minecart.name
+item.skinnedcarts:snail_minecart.name
+item.skinnedcarts:turtle_minecart.name
+entity.skinnedcarts:ElephantMinecart.name
+entity.skinnedcarts:FrogMinecart.name
+entity.skinnedcarts:PandaMinecart.name
+entity.skinnedcarts:PelicanMinecart.name
+entity.skinnedcarts:PufferFishMinecart.name
+entity.skinnedcarts:SnailMinecart.name
+entity.skinnedcarts:TurtleMinecart.name

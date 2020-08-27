@@ -1,0 +1,114 @@
+The magic does not meet the conditions
+Please wait a moment
+Loading terrain
+Loading terrain is almost done
+Regenerating the %s dimension...
+Backing up the %s dimension folder...
+%s dimension folder was backed up
+Failed to backing up the %s dimension folder
+%s dimension was regenerated
+Failed to regenerating the %s dimension
+Dimension Regeneration
+Cannot be canceled after the regeneration starts
+Regenerate
+Backup
+If checked, backing up dimension data before the regeneration.
+Regenerating...
+Backing up..
+Regenerated
+Failed
+Cavern Portal
+Aqua Cavern Portal
+Caveland Portal
+Ice Cavern Portal
+Ruins Cavern Portal
+Huge Cavern Portal
+Aquamarine Ore
+Block of Aquamarine
+Magnite Ore
+Block of Magnite
+Randomite Ore
+Hexcite Ore
+Block of Hexcite
+Fissured %s
+Manalite Ore
+Block of Manalite
+Acresia
+Perverted %s
+Perverted Wood
+Perverted Leaves
+Perverted Sapling
+Slippery Ice
+Acresia
+Acresia Seeds
+Acresia Fruits
+Aquamarine
+Magnite Ingot
+Hexcite
+Ice Stick
+Miner's Thought Orb
+Cavenic Orb
+Manalite
+Aquamarine Pickaxe
+Aquamarine Axe
+Aquamarine Shovel
+Magnite Sword
+Magnite Pickaxe
+Magnite Axe
+Magnite Shovel
+Hexcite Sword
+Hexcite Pickaxe
+Hexcite Axe
+Hexcite Shovel
+Hexcite Hoe
+Hexcite Helmet
+Hexcite Chestplate
+Hexcite Leggings
+Hexcite Boots
+Ice Sword
+Ice Pickaxe
+Ice Axe
+Ice Shovel
+Ice Hoe
+Ice Bow
+Magical Book
+Flame Breath
+Explosion
+Thunderbolt
+Venom Blast
+Return
+Your respawn point does not exist
+Heal
+Holy Bless
+Holy Bless magic cannot use yet
+Storage
+Stock
+Warp
+Warp Point
+Warp Point has been set
+Warp Point is too far
+Torch
+You do not have enough Torches
+You are already performing the torch magic
+Torch magic has been disappeared
+Summon
+Compositing
+Compositing magic has been failed
+Flying
+Infinity
+Infinity magic cannot use yet
+Invisible
+Teleport
+Elixir
+Medium Elixir
+High Elixir
+Awakening Elixir
+Heal MP
+Cavenic Bow
+Mode
+NORMAL
+RAPID
+SNIPE
+TORCH
+Magical Sword: Manalite
+Magical Axe: Manalite

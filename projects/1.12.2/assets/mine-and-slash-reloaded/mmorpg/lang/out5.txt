@@ -1,0 +1,54 @@
+Hopefully works better than the last time.
+Turn trash into treasure!
+There is always a better choice
+There is always a better choice
+When there is hope, there is a way.
+I command you to change!
+I command you to change!
+Anything can change.
+Luck is Ethereal and yet affects everything.
+Luck is Ethereal and yet affects everything.
+Luck is Ethereal and yet affects everything.
+Luck is Ethereal and yet affects everything.
+You start to feel the essence of Luck.
+Grasp Luck with your own hands.
+Add a prefix
+Transform unique (same tier)
+Add another secondary stat
+Add a suffix
+Permanently adds a Chaos stat
+Increases item level
+Re-rolls all numbers on a gear
+Transform Common Item
+Re-rolls prefix
+Re-rolls suffix
+Transform any rarity gear into higher rarity
+Re-rolls numbers of a prefix
+Re-rolls numbers of a suffix
+Re-rolls unique stat numbers
+Infuses an item with Attack Modifiers
+Infuses an item with Defense Modifiers
+Infuses an item with Resource Modifiers
+Used when attempting Infusion Upgrading
+Used when attempting Infusion Upgrading
+Used when attempting Infusion Upgrading
+You have Leveled Up!
+Weapon Durability is Too Low.
+Teleport Canceled, Please don't move while teleporting.
+Teleport has begun, please stay put.
+You aren't inside a map world!
+This world doesn't appear to exist, the time probably ran out.
+You can't enter this world, it is closed and is set for deletion.
+You are traveling to a Map World of dimension Id:
+Maximum Player Count for this Map has been reached.
+Not a map world or was probably closed after time ran out. Deleting portal block.
+You are too low level.
+Not Enough Mana
+Not Enough Energy
+You can't delete this world
+This map world has run out of time, teleporting players back
+Time Ticks away, remaining Map time is:
+Player died in a Map World:
+Map Time penalty activated
+A piece of gear is too high level for you, no stats added!
+Minutes

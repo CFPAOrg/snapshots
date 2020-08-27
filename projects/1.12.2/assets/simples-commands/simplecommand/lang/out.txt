@@ -1,0 +1,6 @@
+Command Stick Extinguish Entity
+Command Stick Check Armor Of Entity
+Command Stick Clear Effects
+Book Of Commands
+Command Stick Despawn Entity
+Command Stick Burn Entity

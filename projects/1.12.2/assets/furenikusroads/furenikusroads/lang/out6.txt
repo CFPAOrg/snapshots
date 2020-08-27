@@ -1,0 +1,103 @@
+Central Divider (Full)
+Junction Fork
+Junction Fork (Thin)
+Junction Fork (Chevron, Thin)
+Junction Fork (Chevron)
+Filter Lane Thin->Thick L Back Continuous
+Filter Lane Thin->Thick L Back
+Filter Lane Thin->Thick L Forward Continuous
+Filter Lane Thin->Thick L Forward
+Filter Lane Thin->Thin L Back Continuous
+Filter Lane Thin->Thin L Back
+Filter Lane Thin->Thin L Forward Continuous
+Filter Lane Thin->Thin L Forward
+Filter Lane Thick->Thick L Back Continuous
+Filter Lane Thick->Thick L Back
+Filter Lane Thick->Thick L Forward Continuous
+Filter Lane Thick->Thick L Forward
+Thin Mid Line to Thick Filter Line L
+Thin Mid Line to Thick Filter Line R
+Thick Mid Line to Thick Filter Line R
+Thick Mid Line to Thick Filter Line R
+Straight Line
+Straight Line (Connecting)
+Thick Straight Line
+Thick Straight Line (Connecting)
+Straight Double Line
+Straight Double Line (Connecting)
+Thick Straight Double Line
+Thick Straight Double Line (Connecting)
+Double Side Line
+Thick Double Side Line
+Side Line
+Thick Side Line
+Edge Side Line
+Thick Edge Side Line
+Straight Double Line (Half)
+Straight Double Line (Dashed)
+Straight Short Line
+Thick Straight Short Line
+Side Short Line
+Handicapped Icon
+Chevron Icon
+Pedestrian Icon
+Merge Arrow Icon
+Give Way Icon
+Arrow (Line)
+Arrow (Forward)
+Arrow (Side)
+Arrow (Diagonal Line)
+Arrow (Diagonal)
+Crosswalk
+Crosswalk (Thin)
+Crossing Line
+Junction Enter Right
+Junction Exit Left
+Junction Enter Right Mid
+Junction Enter Left
+Junction Exit Right
+Junction Enter Left Mid
+Hatching Box
+Letter A
+Letter B
+Letter C
+Letter D
+Letter E
+Letter F
+Letter G
+Letter H
+Letter I
+Letter J
+Letter K
+Letter L
+Letter M
+Letter N
+Letter O
+Letter P
+Letter Q
+Letter R
+Letter S
+Letter T
+Letter U
+Letter V
+Letter W
+Letter X
+Letter Y
+Letter Z
+Number 0
+Number 1
+Number 2
+Number 3
+Number 4
+Number 5
+Number 6
+Number 7
+Number 8
+Number 9
+?
+!
+#
+/
+Prefab Text: Slow
+Prefab Text: Stop
+Prefab Text: Bike

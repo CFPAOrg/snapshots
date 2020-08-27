@@ -1,0 +1,4 @@
+item.houraielixir.hourai_elixir.name
+houraielixir.tooltip
+houraielixir.become_immortal
+houraielixir.already_immortal

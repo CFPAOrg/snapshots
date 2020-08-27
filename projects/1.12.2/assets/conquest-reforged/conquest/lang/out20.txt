@@ -1,0 +1,51 @@
+Sandstone Cobble Vertical Slab
+Mossy Sandstone Vertical Slab
+Sandstone Frieze Vertical Slab
+Sandstone with Inscriptions Vertical Slab
+Sandstone Brick Vertical Slab
+Clay Tile Vertical Slab
+Mixed Clay Tile Vertical Slab
+Light Clay Tile Vertical Slab
+Rusty Iron Vertical Slab
+Tudor / Frame Vertical Slab
+Tudor \ Frame Vertical Slab
+Tudor X Frame Vertical Slab
+Tudor ^ Frame Vertical Slab
+Tudor V Frame Vertical Slab
+Tudor Box Frame Vertical Slab
+Tudor / Frame Vertical Slab (Vertical Connection)
+Tudor \ Frame Vertical Slab (Vertical Connection)
+Tudor Box Frame Vertical Slab (Vertical Connection)
+Dark Tudor / Frame Vertical Slab
+Dark Tudor \ Frame Vertical Slab
+Dark Tudor X Frame Vertical Slab
+Dark Tudor ^ Frame Vertical Slab
+Dark Tudor V Frame Vertical Slab
+Dark Tudor Box Frame Vertical Slab
+Dark Tudor / Frame Vertical Slab (Vertical Connection)
+Dark Tudor \ Frame Vertical Slab (Vertical Connection)
+Dark Tudor Box Frame Vertical Slab (Vertical Connection)
+Brick X Frame Vertical Slab
+Brick / Frame Vertical Slab
+Brick \ Frame Vertical Slab
+Brick ^ Frame Vertical Slab
+Brick V Frame Vertical Slab
+Brick Box Frame Vertical Slab
+Brick / Frame Vertical Slab (Vertical Connection)
+Brick \ Frame Vertical Slab (Vertical Connection)
+Brick Box Frame Vertical Slab (Vertical Connection)
+Dark Red Brick X Frame Vertical Slab
+Dark Red Brick / Frame Vertical Slab
+Dark Red Brick \ Frame Vertical Slab
+Dark Red Brick ^ Frame Vertical Slab
+Dark Red Brick V Frame Vertical Slab
+Dark Red Brick Box Frame Vertical Slab
+Dark Red Brick / Frame Vertical Slab (Vertical Connection)
+Dark Red Brick \ Frame Vertical Slab (Vertical Connection)
+Dark Red Brick Box Frame Vertical Slab (Vertical Connection)
+Red Brick / Frame Vertical Slab
+Red Brick \ Frame Vertical Slab
+Red Brick X Frame Vertical Slab
+Red Brick ^ Frame Vertical Slab
+Red Brick V Frame Vertical Slab
+Red Brick Box Frame Vertical Slab

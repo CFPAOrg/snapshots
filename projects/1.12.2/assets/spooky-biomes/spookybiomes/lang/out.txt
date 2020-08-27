@@ -1,0 +1,58 @@
+Spooky Biomes
+Sorbus Log
+Sorbus Leaves
+Sorbus Planks
+Sorbus Sapling
+Sorbus Gate
+Sorbus Door
+Sorbus Trapdoor
+Sorbus Stairs
+Sorbus Fence
+Sorbus Slab
+Ghostly Log
+Ghostly Leaves
+Ghostly Planks
+Ghostly Sapling
+Ghostly Gate
+Ghostly Door
+Ghostly Trapdoor
+Ghostly Stairs
+Ghostly Fence
+Ghostly Slab
+Seeping Log
+Seeping Leaves
+Seeping Planks
+Seeping Sapling
+Seeping Gate
+Seeping Door
+Seeping Trapdoor
+Seeping Stairs
+Seeping Fence
+Seeping Slab
+Blood Log
+Blood Leaves
+Blood Planks
+Blood Sapling
+Blood Gate
+Blood Door
+Blood Trapdoor
+Blood Stairs
+Blood Fence
+Blood Slab
+Bloodied Dirt
+Bloodied Grass
+Sorbus Door
+Ghostly Door
+Seeping Door
+Blood Door
+The Forgotten Warlock
+Biome Generation
+Biome Generation
+Biome settings for Spooky Biomes
+Ghostly Biome Weight
+Sorbus Biome Weight
+Tree Generation
+Tree Generation
+Tree generation settings for Spooky Biomes trees
+Ghostly Trees on hills
+Sorbus Trees on hills

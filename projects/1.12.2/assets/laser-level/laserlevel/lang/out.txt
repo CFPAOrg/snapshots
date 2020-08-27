@@ -1,0 +1,27 @@
+Laser Level - List
+Add
+Delete
+Edit
+Done
+Laser Level - Edit
+Marker Length:
+X:
+Y:
+Z:
+Dim:
+%s: %d
+Spacing
+Red
+Green
+Blue
+Down
+Up
+North
+South
+West
+East
+ON
+OFF
+Set to Player
+LaserLevel
+Open Marker List

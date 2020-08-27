@@ -1,0 +1,90 @@
+Seaside Red Sandstone
+Snowy Granite
+Greywacke
+Gray Tiles
+Red Clay
+Smooth Marble Capital Column
+Elven Pillar 1
+Decorative Dark Stone Pillar
+Elven Pillar 2
+Gray Ivory Pillar
+White Ivory Pillar
+Planning Sign (Approved)
+Planning Sign (Middleclass)
+Planning Sign (Name)
+Planning Sign (Comment)
+Planning Sign (Other)
+Planning Sign
+Planning Sign (Special)
+Planning Sign (Waitting Approval)
+Planning Sign (Not Approved)
+Planning Sign (Upperclass)
+Planning Sign (Lowerclass)
+Planning Sign (Update)
+Brown Wood Shingles
+Gray Wood Shingles
+Light Blue Roof Tiles
+Brown-Gray Wood Shingles
+Light Red Roof Tiles
+Red Roof Tiles
+Auburn Roof Tiles
+Wavy Blue Roof Tiles
+Wavy Red Roof Tiles
+Wavy Gray Roof Tiles
+Smooth Marble Column
+Mossy Auburn Roof Tiles
+Wavy Gold Roof Tiles
+Wavy Light Gray Roof Tiles
+Blue Tudor / Frame
+Blue Tudor \ Frame
+Blue Tudor X Frame
+Blue Tudor ^ Frame
+Blue Tudor V Frame
+Blue Tudor Box Frame
+Mud Tudor X Frame
+Mud Tudor / Frame
+Mud Tudor \ Frame
+Mud Tudor Box Frame
+Mud Tudor ^ Frame
+Mud Tudor V Frame
+Red Tudor / Frame
+Red Tudor \ Frame
+Red Tudor X Frame
+Red Tudor ^ Frame
+Red Tudor V Frame
+Red Tudor Box Frame
+Wattle Tudor X Frame
+Wattle Tudor / Frame
+Wattle Tudor \ Frame
+Wattle Tudor Box Frame
+Wattle Tudor ^ Frame
+Wattle Tudor V Frame
+Peach Plaster
+Yellow Tudor X Frame
+Yellow Tudor / Frame
+Yellow Tudor \ Frame
+Yellow Tudor V Frame
+Yellow Tudor ^ Frame
+Worn Plaster with Red Masonry Lines
+Elven Carved Wood Wall 1
+Elven Carved Wood Wall 2
+Elven Carved Wood Wall 3
+Orange Red Brick
+Light Gray Stonebrick
+Dark Gray Stonebrick
+Plaster with Red Masonry Lines
+Gray Tudor / Frame
+Gray Tudor \ Frame
+Gray Tudor X Frame
+Gray Tudor ^ Frame
+Dirty Sandstone Cobble
+Fancy Tudor  Frame 1
+Fancy Tudor  Frame 2
+Worn Peach Plaster
+Worn Dark Brown Plaster
+Gray Tudor V Frame
+Yellow Cobblestone Plaster
+Yellow Tudor Box Frame
+Dark Sandstone Big Slab
+Limestone Big Slab
+Dark Mud Stonebrick

@@ -1,0 +1,124 @@
+Scientist Villager Trades
+Multiblock Hatch
+Multiblock Fluid Port
+Tablet Crafter
+Item Proxy
+Generator
+Research Table
+Item Amount: %d
+Requirements
+Running...
+Missing
+Required Researches
+Copy
+Configure Lens
+Write Card
+New
+Edit
+Delete
+Power Drain
+Action Range
+Inform Range
+Next
+Select Amount
+Start
+%,d / %,d mB
+Pattern Options
+Please Wait
+Time (in ticks):
+Use Ore Dictionary
+Ignore Ore Dictionary
+Use Metadata
+Ignore Metadata
+Use NBT
+Ignore NBT
+> %s
+  %s
+Amount: %s
+Thermal Capacity: %,d K
+Refinery
+Plastic Factory
+Right click to change stack size
+Shift to decrease stack size
+Ctrl to change stack size by %d
+High Redstone
+Low Redstone
+Switch
+Ignore
+Share Power with Touching Machines
+Don't Share Power
+ <-
+Balance power in all connected capacitors
+Transfers all the power into this capacitor
+Player
+Generic
+Priority:
+Missing Steel Boiler on Top
+Invalid Table Level
+Missing Required Scans
+Basic
+Bronze
+Electrical
+MV
+Advanced
+Laboratory
+Research
+Acids
+Power
+Power II
+Hammer
+Mortar and Pestle
+Bronze Age
+Basic Boiler
+Basic Bronze Machines
+Bronze Alloy Smelter
+Bronze Plate Bending Machine
+Refined Bricks
+Coke Oven
+Blast Furnace
+Advanced Boiler
+Advanced Steam Furnace
+Advanced Steam Crusher
+Rubber Processing
+Basic Turbine
+Soldering
+Multimeter
+LV Cable
+Battery Box
+Basic LV Machines
+LV Wire Processing
+Speed Upgrade
+LV Plate Bender
+LV Alloy Smelter
+LV Pump
+Electrical Soldering Station
+Industrial Blast Furnace
+Fluid Transposer
+Water Collector
+Advanced Tank
+LV Solar Panel
+MV Transformer
+MV Cable
+MV Circuit
+MV Machines
+Refinery
+Multiblock Components
+Electrolyzer
+Centrifuge
+Advanced Multiblock Parts
+Plastic Processing
+Advanced Circuit
+HV Cable
+HV Transformer
+HV Machines
+Elite Tank
+Ultimate Tank
+Configurable Chest & Open Crate
+Advanced Extruder Module
+Advanced Steam Turbine
+Charger
+Configurator
+Geothermal Boiler
+Geothermal Generator
+UV Lightbox
+Liquid Fueled Boiler

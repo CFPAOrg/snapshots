@@ -1,0 +1,17 @@
+item.beebarker.bee_barker.name
+beebarker.beeCharge
+beebarker.beeCharge.unlimited
+beebarker.easteregg.item
+death.attack.beeburnt
+death.attack.beestung
+beebarker.config.prop.beeBarkerChance.name
+beebarker.config.prop.maxBeeCharge.name
+beebarker.config.prop.beeDamage.name
+beebarker.config.prop.beeCount.name
+beebarker.config.prop.easterEgg.name
+beebarker.config.prop.beeBarkerChance.comment
+beebarker.config.prop.maxBeeCharge.comment
+beebarker.config.prop.beeDamage.comment
+beebarker.config.prop.beeCount.comment
+beebarker.config.prop.easterEgg.comment
+entity.BeeEnt.name

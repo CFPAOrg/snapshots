@@ -1,0 +1,6 @@
+itemGroup.multibeds
+item.multibeds.beds.baffle.name
+item.multibeds.beds.cloud.name
+item.multibeds.beds.earth.name
+item.multibeds.beds.spread.name
+item.multibeds.beds.decorative.name

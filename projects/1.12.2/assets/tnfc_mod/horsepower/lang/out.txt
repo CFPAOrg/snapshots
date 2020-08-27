@@ -1,0 +1,42 @@
+Manual Chopping Block
+Press (Item)
+Press (Fluid)
+Time to chop: [%1] [%2->lap|laps]
+Time to grind: [%1] [%2->lap|laps]
+Time to press: [%1] [%2->lap|laps]
+Chance: [%1]%
+Amount of chops: [%1]
+Amount returned (rounded up): [%1]%
+Chance for +1: [%1]%
+Amount returned with [%1]%[%2] is represented in the output slot
+General
+Client
+Recipes
+Misc
+Grindstone Recipes
+Hand Grindstone Recipes
+Chopping Recipes
+Manual Chopping Recipes
+Horse Powered Mob List
+Chopping Block Axes
+Harvestable Percentages
+Horse Power
+Grinding: [%1]%
+Windup: [%1]%
+Chopping: [%1]%
+Pressing: [%1]%
+Show items
+Grinding:
+Windup:
+Chopping:
+Pressing:
+Horse Powered
+The start of automation
+Grindy
+Grind some wheat to flour
+Horse Grindstone Labor
+Put a horse to work grinding things
+Horse Chopping Labor
+Make a horse work for you chopping blocks
+Horse Press Labor
+Make a horse press things for you

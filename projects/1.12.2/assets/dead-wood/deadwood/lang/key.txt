@@ -1,0 +1,2 @@
+tile.deadwood.dead_planks.name
+tile.deadwood.dead_log.name

@@ -1,0 +1,75 @@
+Keystroke Sneak Rainbow
+Keystroke Blocking Rainbow
+Keystroke CPS Rainbow
+Keystroke RCPS Rainbow
+Right Click to Add Party
+[YTChat] View Count Color
+[YTChat] View Count Value Color
+This will show overall Server TPS to testing performance. (Only works with client)
+This will show TPS each dimension if available. 
+Right click on the button to see more info.
+Current Profile is '%s'
+Always
+Pointed
+Disabled
+Left
+Right
+Hotbar
+Hotbar Left
+Hotbar Right
+Default
+None
+Reverse
+Vertical
+Horizontal
+Damage/Max Damage
+Percent
+Only Damage
+Icon/Time
+Keystroke
+Custom
+Only Ping
+Ping and Delay
+Indicatia
+Toggle Sprint
+Toggle Sneak
+Recording Overlay
+Quick Config GUI
+Custom Cape GUI
+Donator GUI
+This command is not allowed on Hypixel!
+/afk <start:reason|stop|change_reason|mode...>
+/afk mode <idle|move|360|360_move>
+/autologin <add|remove|list> <command> <value>
+/autologin <add|remove|list|function> <command> <value>
+/autologin function help
+Showing %s auto login data entry
+- Auto Login Data for '%s' created by '%s'
+There are no auto login data entries was saved
+/inprofile <add|load|save|remove|list>
+/inprofile add <name>
+/inprofile load <name>
+/inprofile save <name>
+/inprofile remove <name>
+There are no profile data entries was saved
+Showing %s profile data entry
+- Profile Data : '%s' %s
+Currently used!
+/indicatia <toggle_sprint|toggle_sneak|gui>
+/indicatia toggle_sprint <enable|disable|mode>
+/indicatia toggle_sneak <enable|disable|mode>
+/indicatia toggle_sprint mode <key_binding|command>
+/indicatia toggle_sneak mode <key_binding|command>
+/slimeseed <seed>
+/realmsmsg <message...>
+/inhidename <add|remove> <name>
+/autofish <enable|disable>
+I'm back from %s! AFK Time is : %s minutes
+You didn't start using /afk command!
+Already start AFK!
+Reason
+AFK for now
+Change AFK Reason from %s to %s
+Set AFK mode to %s
+An Auto Login data already added!
+Set an Auto Login data for this server!

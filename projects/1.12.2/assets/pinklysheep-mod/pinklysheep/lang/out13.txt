@@ -1,0 +1,107 @@
+Dimension: %s
+Target: 
+Last used: 
+%1$d %2$d %3$d
+Spawn
+Last Death
+Spawn: 
+Single Clickable
+Pearl targeted: %s
+JumpTo denied: %s
+Mis-matched dimension
+Teleport not allowed (other mod or modpack config)
+No indicated destination
+Unsafe destination (no buffer found within one block radius)
+Pearl or station uses at zero(0).
+Invalid player state (not connected, sleeping, etc.)
+Reforge request rejected: %s
+cannot change chest or chest is part of a pair
+unspecified reason (check game logs)
+nothing to reforge in chest
+item cannot be reforged by FeeFiFoFum blacksmiths (yet)
+item too damaged, too reworked (over repaired), or somehow unusable
+too many items (reforge one item per request)
+insufficient materials (give 1 diamond + 2 iron + fanciirite for a new sword)
+given materials unable to reconstruct any reforger's specialty weapon
+unusable workbook
+too many reforger gems (use least skill level needed to fulfill your request)
+Various materials...
+Small token of thanks!
+same
+add
+remove
+Processing...please wait
+*
+Adept
+Broken
+Bulky
+Charmed
+Deadly
+Demonic
+Dull
+Epic
+Flawed
+Frenzied
+Godly
+Jinxed
+Keen
+Legendary
+Light
+Murderous
+Nasty
+Pristine
+Quick
+Resilient
+Ruthless
+Sighted
+Shoddy
+Superior
+Terrible
+Regeneration
+Speed
+x
+Max Health Boost
+Luck
+Fire Resistance
+Strength
+Damage Resistance II
+x
+Damage Absorption
+Water Breathing
+Pinkly Awesomeness
+Suspicious Brew...
+x
+Instant Healing
+Speed (++)
+Night Vision
+x
+Strength (++)
+Haste
+Knockback Resistance (++)
++1 Power Up!
+Spawn Bonus
+End City Treasure
+Simple Dungeon
+Village Blacksmith's
+Abandoned Mineshaft
+Nether Fortress Bridge
+Stronghold Library
+Stronghold Crossing
+Stronghold Corridor
+Desert Pyramid
+Jungle Temple
+Jungle Temple Dispenser
+Igloo
+Woodland Mansion
+Witch
+Stray
+Elder Guardian
+Iron Golem
+Ender Dragon
+Fishing
+Fishing Junk
+Fishing Treasure
+Fishin' Fish
+Lib: Sample General
+Lib: Sample Optional
+Lib: Sample Enchant

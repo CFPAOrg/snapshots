@@ -1,0 +1,6 @@
+item.aerialitearmorlegs.name
+tile.randomblock.name
+item.aerialitearmorbody.name
+item.aerialitearmorhelmet.name
+item.aerialitearmorboots.name
+item.aerialiteingot.name

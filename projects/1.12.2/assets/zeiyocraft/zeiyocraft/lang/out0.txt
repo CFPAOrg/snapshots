@@ -1,0 +1,132 @@
+This key does not fit the lock
+This block is locked with a key
+Successfully locked the block
+The key needs to be renamed before you can lock this block
+You need to have the correct key in your inventory to destroy this block
+Successfully unlocked the block
+Chocolate Cake
+Weird Cake
+Hard-boiled Egg
+Vegetable Stew
+Apple Pie
+Purified Flesh
+Cheese
+Wooden War Axe
+Stone War Axe
+Gold War Axe
+Iron War Axe
+Diamond War Axe
+Steel Ingot
+Block of Steel
+Steel Sword
+Steel Hoe
+Steel Pickaxe
+Steel Shovel
+Steel Axe
+Steel War Axe
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Bronze Ingot
+Bronze Block
+Bronze Sword
+Bronze Hoe
+Bronze Pickaxe
+Bronze Shovel
+Bronze Axe
+Bronze War Axe
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Tin Ingot
+Copper Ingot
+Tin Ore
+Tin Block
+Copper Ore
+Copper Block
+Electrum Ingot
+Electrum Block
+Electrum Sword
+Electrum Hoe
+Electrum Pickaxe
+Electrum Shovel
+Electrum Axe
+Electrum War Axe
+Electrum Helmet
+Electrum Chestplate
+Electrum Leggings
+Electrum Boots
+Silver Ingot
+Silver Block
+Silver Ore
+Onyx
+Block of Onyx
+Onyx Ore
+Onyx Sword
+Onyx Hoe
+Onyx Pickaxe
+Onyx Shovel
+Onyx Axe
+Onyx War Axe
+Onyx Helmet
+Onyx Chestplate
+Onyx Leggings
+Onyx Boots
+Ruby
+Block of Ruby
+Ruby Ore
+Ruby Sword
+Ruby Hoe
+Ruby Pickaxe
+Ruby Shovel
+Ruby Axe
+Ruby War Axe
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Sapphire
+Block of Sapphire
+Sapphire Ore
+Sapphire Sword
+Sapphire Hoe
+Sapphire Pickaxe
+Sapphire Shovel
+Sapphire Axe
+Sapphire War Axe
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Jade
+Block of Jade
+Jade Ore
+Jade Sword
+Jade Hoe
+Jade Pickaxe
+Jade Shovel
+Jade Axe
+Jade War Axe
+Jade Helmet
+Jade Chestplate
+Jade Leggings
+Jade Boots
+Nacre
+Block of Nacre
+Nacre Ore
+Nacre Sword
+Nacre Hoe
+Nacre Pickaxe
+Nacre Shovel
+Nacre Axe
+Nacre War Axe
+Nacre Helmet
+Nacre Chestplate
+Nacre Leggings
+Nacre Boots
+Amethyst
+Block of Amethyst
+Amethyst Ore
+Amethyst Sword

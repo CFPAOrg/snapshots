@@ -1,0 +1,80 @@
+Eutectic NaK-Carobbiite Mixture
+Eutectic NaK-Carobbiite Mixture
+Hot Eutectic NaK-Carobbiite Mixture
+Hot Eutectic NaK-Carobbiite Mixture
+Eutectic NaK-Arsenic Mixture
+Eutectic NaK-Arsenic Mixture
+Hot Eutectic NaK-Arsenic Mixture
+Hot Eutectic NaK-Arsenic Mixture
+Eutectic NaK-Nitrogen Mixture
+Eutectic NaK-Nitrogen Mixture
+Hot Eutectic NaK-Nitrogen Mixture
+Hot Eutectic NaK-Nitrogen Mixture
+Eutectic NaK-Helium Mixture
+Eutectic NaK-Helium Mixture
+Hot Eutectic NaK-Helium Mixture
+Hot Eutectic NaK-Helium Mixture
+Eutectic NaK-Enderium Mixture
+Eutectic NaK-Enderium Mixture
+Hot Eutectic NaK-Enderium Mixture
+Hot Eutectic NaK-Enderium Mixture
+Eutectic NaK-Cryotheum Mixture
+Eutectic NaK-Cryotheum Mixture
+Hot Eutectic NaK-Cryotheum Mixture
+Hot Eutectic NaK-Cryotheum Mixture
+Radiation:
+Rad Resistance:
+Food Effects:
+Copper Ingot
+Tin Ingot
+Lead Ingot
+Thorium Ingot
+Uranium Ingot
+Boron Ingot
+Lithium Ingot
+Magnesium Ingot
+Graphite Ingot
+Beryllium Ingot
+Zirconium Ingot
+Manganese Ingot
+Aluminum Ingot
+Silver Ingot
+Manganese Oxide Ingot
+Manganese Dioxide Ingot
+Copper Dust
+Tin Dust
+Lead Dust
+Thorium Dust
+Uranium Dust
+Boron Dust
+Lithium Dust
+Magnesium Dust
+Graphite Dust
+Beryllium Dust
+Obtained alongside Coal when breaking Coal Ore.
+Zirconium Dust
+Obtained alongside Nether Quartz when breaking Nether Quartz Ore.
+Manganese Dust
+Aluminum Dust
+Silver Dust
+Manganese Oxide Dust
+Manganese Dioxide Dust
+Rhodochrosite
+Obtained alongside Redstone when breaking Redstone Ore.
+Cubic Boron Nitride
+Fluorite
+Obtained alongside Lapis Lazuli when breaking Lapis Lazuli Ore.
+Villiaumite
+Obtained alongside Diamonds when breaking Diamond Ore.
+Carobbiite
+Obtained alongside Diamonds when breaking Diamond Ore.
+Boron Arsenide
+Silicon
+Crushed Diamond
+Crushed Rhodochrosite
+Crushed Quartz
+Crushed Obsidian
+Hexagonal Boron Nitride
+Crushed Fluorite
+Sulfur
+Obtained alongside Coal when breaking Coal Ore.

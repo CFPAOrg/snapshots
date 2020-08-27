@@ -1,0 +1,100 @@
+%1$s was ended by an unfriendly sting while fighting %2$s.
+%1$s was ended by an unfriendly sting.
+%1$s walked into Chernobyl without their helmet on. %2$s watched and cackled.
+%1$s walked into Chernobyl without their helmet on.
+%1$s was slain by heroic bees! %2$s is forever in their debt.
+%1$s was slain by heroic bees!
+Aggress.
+Beatific
+Creeper
+Drunkard
+Explorer
+Freezing
+Fertile
+Heroic
+Flammable
+Ends
+Poison
+Mycophilic
+None
+Radioact.
+Reanimation
+Repulsion
+Resurrection
+Snow
+Simplifies beebreeding by drastically increasing mutation rate and removing the chance for genetic fatigue.
+Reducing mutation rate slightly while increasing lifespan of individual queens by 50%%.
+Halves mutation rate, increases lifespan of individual queens by 500%% and reduces fertility by 20%%.
+Cuts mutation rate to 20%%, increases lifespan tenfold and reduces fertility by 40%%.
+Recommended mode for the normal player.
+Drone
+%SPECIES %TYPE
+Larvae
+%SPECIES %TYPE
+Princess
+%SPECIES %TYPE
+Queen
+%SPECIES %TYPE
+%PRIMARY-%SECONDARY Hybrid
+Austere
+Avenging
+Boggy
+Common
+Cultivated
+Darkened
+Demonic
+Diligent
+Edenic
+Ender
+Exotic
+Fiendish
+Forest
+Frugal
+Glacial
+Hermitic
+Heroic
+Icy
+Imperial
+Industrious
+Leporine
+Majestic
+Marshy
+Meadows
+Merry
+Miry
+Modest
+Monastic
+Noble
+Omega
+Phantasmal
+Reddened
+Rural
+Farmerly
+Agrarian
+Secluded
+Sinister
+Spectral
+Steadfast
+Tipsy
+Tricky
+Tropical
+Unweary
+Valiant
+Vengeful
+Vindictive
+Wintry
+Ignoble Stock
+Pristine Stock
+- %s : Beekeeping Commands
+Commands relating to beekeeping.
+Format: /%s <sub-command>
+- %s : Give Bees
+Give a player drones, princesses, queens, or larvae.
+Format: /%s <species-name> <bee-type> [<player-name>]
+Available bee types: %s
+%1$s was given a %2$s %3$s.
+- %s : Beekeeping Mode Commands
+Commands relating to Beekeeping Modes.
+Format: /%s <sub-command>
+- %s : Beekeeping Mode Info
+Information about current and available beekeeping modes.

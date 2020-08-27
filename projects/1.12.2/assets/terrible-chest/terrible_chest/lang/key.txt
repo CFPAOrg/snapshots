@@ -1,0 +1,9 @@
+tile.terrible_chest.terrible_chest.name
+item.terrible_chest.diamond_sphere.name
+container.terrible_chest.terrible_chest
+gui.terrible_chest.terrible_chest.count
+terrible_chest.config.config_title
+terrible_chest.config.use_itemhandler_capability
+terrible_chest.config.stop_item_collection_and_deliver
+terrible_chest.config.maxPageLimit
+terrible_chest.config.slotStackLimit

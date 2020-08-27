@@ -1,0 +1,40 @@
+Shades Possess Undead
+Control whether Shades will possess compatible undead mobs when at 1/4 health or lower.
+Shade Possession Eye Type
+Control what eye type Possessed Undead will have when possessed by a Shade.\n§eThe default value is two red eyes (supports multi-colored eyes); eye type is forced to be the set value when a Shade possesses a compatible undead mob.
+Shadow Remnant Chance
+Mutated Wolf Fleeing Health Percentage
+Mutated Horse Fleeing Health Percentage
+Mutated Cow Fleeing Health Percentage
+Mutated Ocelot Fleeing Health Percentage
+Mutated Pig Fleeing Health Percentage
+Mutated Donkey Fleeing Health Percentage
+Mutated Sheep Fleeing Health Percentage
+Mutated Llama Fleeing Health Percentage
+Mutated Horse Armor Spawning Iron Chance
+Mutated Horse Armor Spawning Gold Chance
+Mutated Horse Armor Spawning Diamond Chance
+Possessed Wither Skeleton Fortress Restriction
+Turn this off to disable Possessed Wither Skeletons\n§espawning only in Nether Fortresses.
+Possessed Zombie Spawn Rate
+Control the spawn rate of Possessed Zombies.
+Possessed Skeleton Spawn Rate
+Control the spawn rate of Possessed Skeletons.
+Possessed Skeleton Fortress Spawn Rate
+Control the spawn rate of Possessed Skeletons in Nether Fortresses.
+Possessed Husk Spawn Rate
+Control the spawn rate of Possessed Husks.
+Possessed Stray Spawn Rate
+Control the spawn rate of Possessed Strays.
+Possessed Wither Skeleton Spawn Rate
+Control the spawn rate of Possessed Wither Skeletons.\n§eOnly works if Possessed Wither Skeleton Fortress Restriction is off.
+Possessed Wither Skeleton Fortress Spawn Rate
+Control the spawn rate of Possessed Wither Skeletons in Nether Fortresses.
+Possessed Zombies
+Control whether Possessed Zombies exist.
+Possessed Husks
+Control whether Possessed Husks exist.
+Possessed Skeletons
+Control whether Possessed Skeletons exist.
+Possessed Strays
+Control whether Possessed Strays exist.

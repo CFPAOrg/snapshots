@@ -1,0 +1,9 @@
+item.dynamictreesthaumicbases:goldenoakseed.name
+item.dynamictreesthaumicbases:enderoakseed.name
+item.dynamictreesthaumicbases:hellishoakseed.name
+item.dynamictreesthaumicbases:rainbowcactusseed.name
+tile.dynamictreesthaumicbases:leaves0.name
+tile.dynamictreesthaumicbases:goldenoakbranch.name
+tile.dynamictreesthaumicbases:enderoakbranch.name
+tile.dynamictreesthaumicbases:hellishoakbranch.name
+tile.dynamictreesthaumicbases:rainbowcactusbranch.name

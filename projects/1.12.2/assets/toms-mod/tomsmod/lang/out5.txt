@@ -1,0 +1,104 @@
+Greenium Nugget
+Greenium Crystal
+Greenium Wire Coil
+Crushed Greenium Ore
+Crushed Nether Greenium Ore
+Crushed End Greenium Ore
+Greenium Research Component
+Greenium Shard
+Dirty Greenium Dust
+Greenium Clump
+Iron Plate
+Iron Ingot
+Iron Dust
+Tiny Pile of Iron Dust
+Iron Wire
+Iron Nugget
+Iron Crystal
+Iron Wire Coil
+Crushed Iron Ore
+Crushed Nether Iron Ore
+Crushed End Iron Ore
+Iron Research Component
+Iron Shard
+Dirty Iron Dust
+Iron Clump
+Gold Plate
+Gold Ingot
+Gold Dust
+Tiny Pile of Gold Dust
+Gold Wire
+Gold Nugget
+Gold Crystal
+Gold Wire Coil
+Crushed Gold Ore
+Crushed Nether Gold Ore
+Crushed End Gold Ore
+Gold Research Component
+Gold Shard
+Dirty Gold Dust
+Gold Clump
+Red Diamond Plate
+Red Diamond Ingot
+Red Diamond Dust
+Tiny Pile of Red Diamond Dust
+Red Diamond Wire
+Red Diamond Nugget
+Red Diamond
+Red Diamond Wire Coil
+Crushed Red Diamond Ore
+Crushed Nether Red Diamond Ore
+Crushed End Red Diamond Ore
+Red Diamond Research Component
+Red Diamond Shard
+Dirty Red Diamond Dust
+Red Diamond Clump
+Quartz Plate
+Quartz Ingot
+Quartz Dust
+Tiny Pile of Quartz Dust
+Quartz Wire
+Quartz Nugget
+Quartz
+Quartz Wire Coil
+Crushed Quartz Ore
+Crushed Nether Quartz Ore
+Crushed End Quartz Ore
+Quartz Research Component
+Quartz Shard
+Dirty Quartz Dust
+Quartz Clump
+Silver Plate
+Silver Ingot
+Silver Dust
+Tiny Pile of Silver Dust
+Silver Wire
+Silver Nugget
+Silver Crystal
+Silver Wire Coil
+Crushed Silver Ore
+Crushed Nether Silver Ore
+Crushed End Silver Ore
+Silver Research Component
+Silver Shard
+Dirty Silver Dust
+Silver Clump
+Lapis Lazuli Plate
+Lapis Lazuli Ingot
+Lapis Lazuli Dust
+Tiny Pile of Lapis Lazuli Dust
+Lapis Lazuli Wire
+Lapis Lazuli Nugget
+Lapis Lazuli
+Lapis Lazuli Wire Coil
+Crushed Lapis Lazuli Ore
+Crushed Nether Lapis Lazuli Ore
+Crushed End Lapis Lazuli Ore
+Lapis Lazuli Research Component
+Lapis Lazuli Shard
+Dirty Lapis Lazuli Dust
+Lapis Lazuli Clump
+Lead Plate
+Lead Ingot
+Lead Dust
+Tiny Pile of Lead Dust

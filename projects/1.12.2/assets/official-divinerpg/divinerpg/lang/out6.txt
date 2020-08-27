@@ -1,0 +1,113 @@
+Skythern Blitz
+Mortum Blitz
+Halite Blitz
+Eden Phaser
+Wildwood Phaser
+Apalachia Phaser
+Skythern Phaser
+Mortum Phaser
+Halite Phaser
+Eden Arrow
+Wildwood Arrow
+Fury Arrow
+Eden Bow
+Wildwood Bow
+Apalachia Bow
+Skythern Bow
+Mortum Bow
+Halite Bow
+Twilight Bow
+Eden Pickaxe
+Wildwood Pickaxe
+Apalachia Pickaxe
+Skythern Pickaxe
+Mortum Pickaxe
+Eden Axe
+Wildwood Axe
+Apalachia Axe
+Skythern Axe
+Mortum Axe
+Eden Shovel
+Wildwood Shovel
+Apalachia Shovel
+Skythern Shovel
+Mortum Shovel
+Angelic Helmet
+Angelic Chestplate
+Angelic Leggings
+Angelic Boots
+Divine Helmet
+Divine Chestplate
+Divine Leggings
+Divine Boots
+Bedrock Helmet
+Bedrock Chestplate
+Bedrock Leggings
+Bedrock Boots
+Realmite Helmet
+Realmite Chestplate
+Realmite Leggings
+Realmite Boots
+Elite Realmite Helmet
+Elite Realmite Chestplate
+Elite Realmite Leggings
+Elite Realmite Boots
+Arlemite Helmet
+Arlemite Chestplate
+Arlemite Leggings
+Arlemite Boots
+Rupee Helmet
+Rupee Chestplate
+Rupee Leggings
+Rupee Boots
+Yellow Rupee Helmet
+Yellow Rupee Chestplate
+Yellow Rupee Leggings
+Yellow Rupee Boots
+Red Rupee Helmet
+Red Rupee Chestplate
+Red Rupee Leggings
+Red Rupee Boots
+Green Rupee Helmet
+Green Rupee Chestplate
+Green Rupee Leggings
+Green Rupee Boots
+Blue Rupee Helmet
+Blue Rupee Chestplate
+Blue Rupee Leggings
+Blue Rupee Boots
+Gray Rupee Helmet
+Gray Rupee Chestplate
+Gray Rupee Leggings
+Gray Rupee Boots
+Kraken Helmet
+Kraken Chestplate
+Kraken Leggings
+Kraken Boots
+Jack O Man Helmet
+Jack O Man Chestplate
+Jack O Man Leggings
+Jack O Man Boots
+Inferno Helmet
+Inferno Chestplate
+Inferno Leggings
+Inferno Boots
+Aquastrive Helmet
+Aquastrive Chestplate
+Aquastrive Leggings
+Aquastrive Boots
+Shadow Helmet
+Shadow Chestplate
+Shadow Leggings
+Shadow Boots
+Netherite Helmet
+Netherite Chestplate
+Netherite Leggings
+Netherite Boots
+Skeleman Helmet
+Skeleman Chestplate
+Skeleman Leggings
+Skeleman Boots
+Wither Reaper Helmet
+Wither Reaper Chestplate
+Wither Reaper Leggings

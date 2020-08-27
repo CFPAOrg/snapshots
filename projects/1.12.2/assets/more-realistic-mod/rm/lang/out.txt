@@ -1,0 +1,66 @@
+Red Diamond Pickaxe
+Red Diamond Hoe
+Red Diamond Axe
+Red Diamond Sword
+Red Diamond Shovel
+Emerald Pickaxe
+Emerald Hoe
+Emerald Axe
+Emerald Sword
+Emerald Spade
+Blue Diamond Pickaxe
+Blue Diamond Hoe
+Blue Diamond Axe
+Blue Diamond Sword
+Blue Diamond Shovel
+Yellow Diamond Pickaxe
+Yellow Diamond Hoe
+Yellow Diamond Axe
+Yellow Diamond Sword
+Yellow Diamond Spade
+Green Diamond Pickaxe
+Green Diamond Hoe
+Green Diamond Axe
+Green Diamond Sword
+Green Diamond Spade
+Pink Diamond Pickaxe
+Pink Diamond Hoe
+Pink Diamond Axe
+Pink Diamond Sword
+Pink Diamond Spade
+Purple Diamond Pickaxe
+Purple Diamond Hoe
+Purple Diamond Axe
+Purple Diamond Sword
+Purple Diamond Spade
+Orange Diamond Pickaxe
+Orange Diamond Hoe
+Orange Diamond Axe
+Orange Diamond Sword
+Orange Diamond Spade
+Peridot Pickaxe
+Peridot Hoe
+Peridot Axe
+Peridot Sword
+Peridot Spade
+Amyethyst Pickaxe
+Amyethyst Hoe
+Amyethyst Axe
+Amyethyst Sword
+Amyethyst Spade
+Titanium Pickaxe
+Titanium Hoe
+Titanium Axe
+Titanium Sword
+Titanium Spade
+Vandium Pickaxe
+Vandium Hoe
+Vandium Axe
+Vandium Sword
+Vandium Spade
+Wooden Double Sided Battle Axe 
+Stone Double Sided Battle Axe 
+Gold Double Sided Battle Axe 
+Diamond Double Sided Battle Axe 
+Iron Double Sided Battle Axe 
+Emerald Double Sided Battle Axe 

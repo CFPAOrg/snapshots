@@ -1,0 +1,71 @@
+Adamantine Ingot
+Carbonox Ingot
+Trillium Ingot
+Titanium Ingot
+Adamantine Dust
+Carbonox Dust
+Trillium Dust
+Titanium Dust
+Raritanium Rod
+Titanium Reinforced Black Leather
+Belt
+Lead-Platinum Blend
+Redstone-Glowstone Blend
+Tin-Silver Blend
+Silicon
+Adamantine Plate
+Carbonox Plate
+Trillium Plate
+Titanium Plate
+Raritanium Shard
+Conducting Metal Ingot
+Raritanium Enhanced Plate
+Conducting Metal Wire
+Circuit
+Raritanium Hammer
+Raritanium Pickaxe
+Raritanium Axe
+Raritanium Sword
+Raritanium Hoe
+Raritanium Shovel
+Adamantine Pickaxe
+Adamantine Axe
+Adamantine Sword
+Adamantine Hoe
+Adamantine Shovel
+Carbonox Pickaxe
+Carbonox Axe
+Carbonox Sword
+Carbonox Hoe
+Carbonox Shovel
+Trillium Pickaxe
+Trillium Axe
+Trillium Sword
+Trillium Hoe
+Trillium Shovel
+Titanium Pickaxe
+Titanium Axe
+Titanium Sword
+Titanium Hoe
+Titanium Shovel
+PDA 
+Power Distribution A-tuner
+Poisonous
+Bound to
+in
+Not bound
+Right click to put on belt
+To open belt gui when equipped press
+On contact with the pickaxe head applies �2Poison II�r for 30 seconds
+On contact with the axe head applies �2Poison II�r for 30 seconds
+On contact with the sword blade applies �2Poison II�r for 30 seconds
+On contact with the hoe head applies �2Poison II�r for 30 seconds
+On contact with the shovel head applies �2Poison II�r for 30 seconds
+Carrying this ore will apply the �2Poison I�r effect
+A rare hard crystal has the same durability as Adamantine
+A hard metal has the same durability as Raritanium
+A very hard metal, its durability is far superior to Adamantine, Raritanium and Trillium
+A hard poisonous metal, its durability is superior to Adamantine, but inferior to Carbonox
+A belt that can be equiped and can safely store 27 slots of items and other items if other gadgetron mods are used
+The Power Distribution A-tuner or shorten PDA, is used to connect battery to machines
+Does only work in the same dimension as the battery

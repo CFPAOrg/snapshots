@@ -1,0 +1,50 @@
+Bark
+Oak Bark
+Spruce Bark
+Birch Bark
+Jungle Bark
+Acacia Bark
+Dark Oak Bark
+Ironwood Bark
+Olive Bark
+Oak Bark Stairs
+Spruce Bark Stairs
+Birch Bark Stairs
+Jungle Bark Stairs
+Acacia Bark Stairs
+Dark Oak Bark Stairs
+Ironwood Bark Stairs
+Olive Bark Stairs_chair
+Oak Bark Slab
+Spruce Bark Slab
+Birch Bark Slab
+Jungle Bark Slab
+Acacia Bark Slab
+Dark Oak Bark Slab
+Ironwood Bark Slab
+Olive Bark Slab
+Oak Bark Chair
+Spruce Bark Chair
+Birch Bark Chair
+Jungle Bark Chair
+Acacia Bark Chair
+Dark Oak Bark Chair
+Ironwood Bark Chair
+Olive Bark Chair
+Oak Bark Table
+Spruce Bark Table
+Birch Bark Table
+Jungle Bark Table
+Acacia Bark Table
+Dark Oak Bark Table
+Ironwood Bark Table
+Olive Bark Table
+Oak Stump
+Spruce Stump
+Birch Stump
+Jungle Stump
+Acacia Stump
+Dark Oak Stump
+Ironwood Stump
+Olive Stump
+Tatami Mat

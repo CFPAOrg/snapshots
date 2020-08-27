@@ -1,0 +1,5 @@
+entity.nightmares.hag.name
+entity.nightmares.shadow.name
+entity.nightmares.spider.name
+death.nightmare.attack
+nightmare.default.alert

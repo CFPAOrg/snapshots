@@ -1,0 +1,90 @@
+Spectrite Dungeon
+Spectrite Ore
+Spectrite Ore
+Spectrite Skull Structure
+Spectrite Skull Structure
+Spectrite Settings
+%1$s was killed by %2$s using spectrite damage
+%1$s was killed by %2$s using %3$s
+%1$s was dissolved in molten spectrite
+%1$s was dissolved in molten spectrite whilst trying to escape %2$s
+%1$s was killed by spectrite damage
+Agility
+Amphibious
+Berserk
+Endurance
+Lightweight
+Prosperity
+Resilience
+§7No Effects
+Spectrite Damage
+Spectrite Resist
+Spectrite Power
+Superchromaticity
+Spectrite Area Effect Cloud
+Spectrite Arrow
+Spectrite Blaze
+Spectrite Creeper
+Spectrite Crystal
+Spectrite Enderman
+Spectrite Golem
+Spectrite Skeleton
+Spectrite Tipped Arrow
+Spectrite Wither
+Spectrite Wither Skeleton
+Spectrite Wither Skull
+Molten Spectrite
+Diamond Rod
+Spectrite Arrow
+Diamond Spectrite Arrow
+Spectrite Axe
+Diamond Spectrite Axe
+Spectrite Blaze Powder
+Spectrite Blaze Rod
+Spectrite Bone
+Perfect Spectrite Boots
+Spectrite Boots
+Spectrite Bow
+Diamond Spectrite Bow
+Spectrite Brick
+Perfect Spectrite Chestplate
+Spectrite Chestplate
+Spectrite Compass
+Spectrite Crystal
+Spectrite Dust
+Spectrite Gem
+Perfect Spectrite Helmet
+Spectrite Helmet
+Perfect Spectrite Leggings
+Spectrite Leggings
+Perfect Spectrite Orb
+Spectrite Orb
+Spectrite Pickaxe
+Diamond Spectrite Pickaxe
+Spectrite Rod
+Spectrite Shield
+Diamond Spectrite Shield
+Spectrite Shovel
+Diamond Spectrite Shovel
+Spectrite Star
+Spectrite Legend Blade
+Spectrite Sword
+Diamond Spectrite Sword
+Invulnerable Spectrite Wither Skull
+Invulnerable Spectrite Wither Rod
+Spectrite Wither Rod
+Spectrite Wither Skeleton Skull
+Spectrite Wither Skull
+Invulnerable Spectrite Wither Tail
+Spectrite Wither Tail
+Invulnerable Spectrite Wither Torso
+Spectrite Wither Torso
+Spectrite
+§7On impact:
+§9 Spectrite Damage IV@
+§7On impact:
+§9 Spectrite Damage III@
+§7On impact:
+§9 Spectrite Damage II@
+§7When chopping (#s cooldown):
+§9 Chop 9 axe-effective blocks

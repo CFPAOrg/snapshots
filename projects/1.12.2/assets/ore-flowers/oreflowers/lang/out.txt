@@ -1,0 +1,91 @@
+Poorjoe
+Horsetail
+Vallozia
+Flame Lily
+tansy
+Hauman
+Leadplant
+Red Amaranth
+Mustard
+Shrub Violet
+Affine
+Clover
+Camellia
+Malva
+Melastoma
+Rapeseed
+Milkwort
+Desert Madwort
+Zilla
+Mexican Marigold
+Red Sorrel
+Chandelier Tree
+Aveloz
+Copper Flower
+Sheeps Fescue
+Primrose
+Indian Paintbrush
+Broadleafed Arrowhead
+Stoneroot
+Poorjoe
+Horsetail
+Vallozia
+Flame Lily
+tansy
+Hauman
+Leadplant
+Red Amaranth
+Mustard
+Shrub Violet
+Affine
+Clover
+Camellia
+Malva
+Melastoma
+Rapeseed
+Milkwort
+Desert Madwort
+Zilla
+Mexican Marigold
+Red Sorrel
+Chandelier Tree
+Aveloz
+Copper Flower
+Sheeps Fescue
+Primrose
+Broadleafed Arrowhead
+Indian Paintbrush
+Stoneroot
+Sticky Goo
+Iron Ore Data Manipulator
+Gold Ore Data Manipulator
+Diamond Ore Data Manipulator
+Redstone Ore Data Manipulator
+Ore Data Reader
+Iron Indicator
+Gold Indicator
+Diamond Indicator
+Redstone Indicator
+Tin Indicator
+Copper Indicator
+Lead Indicator
+Uranium Indicator
+Silver Indicator
+Nickel Indicator
+Aluminum Indicator
+Platinum Indicator
+Zinc Indicator
+Fluorite Indicator
+Cadmium Indicator
+Thorium Indicator
+Osmium Indicator
+Stone Indicator
+Shows non-zero accessible ore counts
+Shows all accessible ore counts when crouched
+Adds 32 units of ore data to this chunk slice
+Subtracts 32 units when crouched
+April Fools!
+An Indication
+A Growing Search
+Find an ore indicator plant
+Grow an ore indicator plant

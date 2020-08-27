@@ -1,0 +1,13 @@
+item.handheldpiston:basic.name
+item.handheldpiston:sticky.name
+item.handheldpiston:advanced.name
+item.handheldpiston:banned.block.name
+item.handheldpiston:banned.tile.name
+item.handheldpiston:mode.all.info
+item.handheldpiston:mode.entity.info
+item.handheldpiston:mode.self.info
+item.handheldpiston:mode.advanced.info
+item.handheldpiston:more.info
+item.handheldpiston:info
+item.handheldpiston:use.info
+item.handheldpiston:wheel.info

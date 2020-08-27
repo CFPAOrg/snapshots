@@ -1,0 +1,9 @@
+tile.block_energydandron_capacitor.name
+tile.botania:flower.energydandron.name
+tile.botania:flower.liquido.name
+tile.botania:flower.trashonadro.name
+tile.botania:flower.willy.name
+tile.botania:flower.bloody.name
+tile.botania:flower.warponator.name
+tile.botania:flower.visonadru.name
+tile.botania:flower.emcmaxima.name

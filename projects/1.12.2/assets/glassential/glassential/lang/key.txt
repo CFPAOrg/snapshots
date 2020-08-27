@@ -1,0 +1,17 @@
+tile.glassential.glass_clear.name
+tile.glassential.glass_light.name
+tile.glassential.glass_redstone.name
+tile.glassential.glass_dark.name
+tile.glassential.glass_ghostly.name
+tile.glassential.glass_ethereal.name
+tile.glassential.glass_ethereal_reverse.name
+item.glassential.glass_cutter_iron.name
+config.glassential.title
+config.glassential.glass_clear
+config.glassential.glass_light
+config.glassential.glass_redstone
+config.glassential.glass_dark
+config.glassential.glass_ghostly
+config.glassential.glass_ethereal
+config.glassential.glass_ethereal_reverse
+config.glassential.glass_cutter_iron

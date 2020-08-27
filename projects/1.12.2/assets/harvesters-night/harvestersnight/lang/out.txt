@@ -1,0 +1,16 @@
+The Harvester's Scythe
+The Harvester
+The Harvester charges
+The Harvester uses magic
+The Harvester appears
+The Harvester hurts
+The Harvester dies
+Harverster's Night
+Harvester spawn weight (0 disable spawn)
+1 in X chance to actually spawn
+Dimension ID whitelist (true) or blacklist (false)
+Dimension IDs white/blacklist
+Is the Harvester a boss?
+Show boss health bar?
+Does lightning strikes on Harvester spawn?
+Does Harvester laughs on spawn?

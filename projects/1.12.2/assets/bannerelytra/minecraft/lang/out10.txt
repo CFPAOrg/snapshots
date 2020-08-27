@@ -1,0 +1,125 @@
+Burst
+Unknown Shape
+Nether Brick
+Nether Quartz
+Armor Stand
+Iron Horse Armor
+Gold Horse Armor
+Diamond Horse Armor
+Prismarine Shard
+Prismarine Crystals
+Chorus Fruit
+Popped Chorus Fruit
+Beetroot
+Beetroot Seeds
+Beetroot Soup
+Dragon's Breath
+Elytra
+Black Elytra
+Red Elytra
+Green Elytra
+Brown Elytra
+Blue Elytra
+Purple Elytra
+Cyan Elytra
+Light Gray Elytra
+Gray Elytra
+Pink Elytra
+Lime Elytra
+Yellow Elytra
+Light Blue Elytra
+Magenta Elytra
+Orange Elytra
+White Elytra
+Totem of Undying
+Shulker Shell
+Iron Nugget
+Knowledge Book
+Inventory
+Item Hopper
+Crafting
+Dispenser
+Dropper
+Furnace
+Enchant
+1 Lapis Lazuli
+%s Lapis Lazuli
+1 Enchantment Level
+%s Enchantment Levels
+Level requirement: %s
+%s . . . ?
+Repair & Name
+Enchantment Cost: %1$s
+Too Expensive!
+Item Selection
+Brewing Stand
+Chest
+Large Chest
+Ender Chest
+Beacon
+Shulker Box
+and %s more...
+Unable to open. Loot not generated yet.
+%s is locked!
+Structure saved as '%s'
+Unable to save structure '%s'
+Structure loaded from '%s'
+Structure '%s' position prepared
+Structure '%s' is not available
+Size successfully detected for '%s'
+Unable to detect structure size, add corners with matching structure names
+Save
+Load
+Data
+Corner
+Save: %s
+Load: %s
+Data: %s
+Corner: %s
+Save mode - write to file
+Load mode - load from file
+Data mode - game logic marker
+Corner mode - placement and size marker
+Structure Name
+Custom Data Tag Name
+Relative Position
+Structure Size
+Structure Integrity and Seed
+Include entities:
+Detect structure size and position:
+DETECT
+SAVE
+LOAD
+Show invisible blocks:
+Show bounding box:
+Dyed
+Unbreakable
+Can break:
+Can be placed on:
+Color: %s
+NBT: %s tag(s)
+Durability: %s / %s
+Woodland Explorer Map
+Ocean Explorer Map
+Unknown Map
+(Level %s/%s)
+Scaling at 1:%s
+Item
+Experience Orb
+Small Fireball
+Fireball
+Dragon Fireball
+Potion
+Arrow
+Snowball
+Painting
+Armor Stand
+Mob
+Monster
+Creeper
+Skeleton
+Wither Skeleton
+Stray
+Spider
+Giant
+Zombie

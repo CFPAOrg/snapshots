@@ -1,0 +1,110 @@
+Steel Boiler
+Rubber Boiler
+Steam Rubber Processor
+Electrical Rubber Processor
+Nether Blue Metal Ore
+Nether Copper Ore
+Nether Tin Ore
+Nether Nickel Ore
+End Nickel Ore
+Nether Titanium Ore
+End Titanium Ore
+Nether Red Diamond Ore
+Nether Platinum Ore
+End Platinum Ore
+Nether Silver Ore
+End Silver Ore
+Nether Uranium Ore
+Nether Zinc Ore
+Nether Chrome Ore
+Nether Sulfur Ore
+Nether Bauxite Ore
+End Tungstate Ore
+Enderium Ore
+Network Router
+Advanced Network Router
+Machine Base
+Steel Scaffolding
+Iron Sheets
+Steel Sheets
+MV Laser Receiver
+HV Laser Receiver
+Large Battery Box
+MV Battery Box
+HV Battery Box
+Nether Iron Ore
+Nether Gold Ore
+Nether Lapis Ore
+Nether Redstone Ore
+Nether Diamond Ore
+End Gold Ore
+End Diamond Ore
+Improved Blast Furnace
+Conveyor Belt (Slow)
+Conveyor Belt
+Conveyor Belt Slope (Up)
+Conveyor Belt Slope (Down)
+Conveyor Belt (Omnidirectional) (Slow)
+Conveyor Belt (Omnidirectional)
+Oil Shale
+Oil Sand
+Template
+Oil Sand
+Aluminum Sheets
+Open Crate
+Creative Generator
+Furnace Generator
+Extracting Conveyor Belt
+Advanced Water Collector
+MV Cable
+HV Cable
+LV Cable
+Item Duct (WIP)
+Filter (WIP)
+Servo (WIP)
+Import Bus
+Export Bus
+Storage Bus
+Interface
+FluidDuct
+Fluid Servo
+Basic Terminal
+Crafting Terminal
+Pattern Terminal
+FluidDuct (Opaque)
+SteamDuct
+Owner:
+Mode:
+Input
+Output
+Empty
+Fluid:
+Energy Stored:
+Capacity: %,d mB
+Stored: %,d / %,d mB
+!!! WARNING: TICK SPEEDING DETECTED !!!
+Tick speeding is disabled. Skipping all non normal ticks.
+Use the Multimeter
+Advanced Crafing
+Crushing
+Wiremill
+Required Level: %d
+Plate Bending Machine
+Alloy Smelter
+Recipe Level: %s
+Heat Required: %,d K
+Blast Furnace
+Process Time: %d tick(s)
+Basic Blast Furnace Required
+Coiler Plant
+Electrical Required
+Mixing
+UV Light Box
+Laser Engraving
+In World Crafting
+Output chance: %s
+Tank filled with 1000 mb of fluid
+Coke Oven
+Required Researches:
+Hold [SHIFT] to show required researches.
+Research Tree

@@ -1,0 +1,5 @@
+itemGroup.tabUltimateStorage
+tile.ultimate_chest.name
+container.ultimate_chest
+item.ultimate_bag.name
+container.ultimate_bag

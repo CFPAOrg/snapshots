@@ -1,0 +1,10 @@
+itemGroup.unclunkify
+item.unclunkify:misc0.name
+tile.unclunkify:machine0.name
+tile.unclunkify:machine1.name
+unclunkify.gui.high_temp_furnace
+unclunkify.gui.ore_crusher
+unclunkify.tooltip.heat
+unclunkify.tooltip.spin_up
+unclunkify.tooltip.burn_time
+unclunkify.tooltip.progress

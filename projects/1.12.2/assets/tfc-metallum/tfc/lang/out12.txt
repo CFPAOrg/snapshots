@@ -1,0 +1,103 @@
+Mace Cobalt
+Cobalt Mace Head
+Mace Head Cobalt
+Cobalt Saw
+Saw Cobalt
+Cobalt Saw Blade
+Saw Blade Cobalt
+Cobalt Javelin
+Javelin Cobalt
+Cobalt Javelin Head
+Javelin Head Cobalt
+Cobalt Hammer
+Hammer Cobalt
+Cobalt Hammer Head
+Hammer Head Cobalt
+Cobalt Prospector's Pickaxe
+Propick Cobalt
+Cobalt Prospector's Pickaxe Head
+Propick Head Cobalt
+Cobalt Knife
+Knife Cobalt
+Cobalt Knife Blade
+Knife Blade Cobalt
+Cobalt Scythe
+Scythe Cobalt
+Cobalt Scythe Blade
+Scythe Blade Cobalt
+Cobalt Shears
+Shears Cobalt
+Cobalt Unfinished Chestplate
+Unfinished Chestplate Cobalt
+Cobalt Chestplate
+Chestplate Cobalt
+Cobalt Unfinished Greaves
+Unfinished Greaves Cobalt
+Cobalt Greaves
+Greaves Cobalt
+Cobalt Unfinished Boots
+Unfinished Boots Cobalt
+Cobalt Boots
+Boots Cobalt
+Cobalt Unfinished Helmet
+Unfinished Helmet Cobalt
+Cobalt Helmet
+Helmet Cobalt
+Cobalt Shield
+Raw Cobalt Bloom
+Refined Cobalt Bloom
+Molten Manyullyn
+Manyullyn Ingot
+Unshaped Manyullyn
+Manyullyn Double Ingot
+Double Ingot Manyullyn
+Manyullyn Scrap
+Scrap Manyullyn
+Manyullyn Dust
+Dust Manyullyn
+Manyullyn Nugget
+Nugget Manyullyn
+Manyullyn Sheet
+Sheet Manyullyn
+Manyullyn Double Sheet
+Double Sheet Manyullyn
+Manyullyn Anvil
+Anvil Manyullyn
+Manyullyn Tuyere
+Tuyere Manyullyn
+Manyullyn Lamp
+%s Manyullyn Lamp
+Lamp Manyullyn
+Manyullyn Pickaxe
+Pick Manyullyn
+Manyullyn Pickaxe Head
+Pick Head Manyullyn
+Manyullyn Shovel
+Shovel Manyullyn
+Manyullyn Shovel Head
+Shovel Head Manyullyn
+Manyullyn Axe
+Axe Manyullyn
+Manyullyn Axe Head
+Axe Head Manyullyn
+Manyullyn Hoe
+Hoe Manyullyn
+Manyullyn Hoe Head
+Hoe Head Manyullyn
+Manyullyn Chisel
+Chisel Manyullyn
+Manyullyn Chisel Head
+Chisel Head Manyullyn
+Manyullyn Sword
+Sword Manyullyn
+Manyullyn Sword Blade
+Sword Blade Manyullyn
+Manyullyn Mace
+Mace Manyullyn
+Manyullyn Mace Head
+Mace Head Manyullyn
+Manyullyn Saw
+Saw Manyullyn
+Manyullyn Saw Blade
+Saw Blade Manyullyn
+Manyullyn Javelin

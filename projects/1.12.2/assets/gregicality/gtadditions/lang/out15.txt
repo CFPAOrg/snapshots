@@ -1,0 +1,26 @@
+Each Coolant has there own Max Temperature, If the Temperature of The Reactor exceed the max temperature the reactor cooldown by Stoping the recipe.
+The Core of the reactor can be Nuclear Material and higher tier add more thermal flexibility to the Coolant.
+Tips 1: Pump is a must have in this build to regulate coolant otherwise the core will stay cool and never produce hot coolant.
+Tips 2: Coolant is in a closed loop, Hot Coolant turbine output Coolant.
+Hatches and Buses can be placed anywhere on Lead Casing.
+Multiblock Recipe: §e%s§r
+EUt Multiplier: §e%.1f§r
+Duration Multiplier: §e%.1f§r
+Max Parallel: §e%d§7 Per Overclocking Tier
+Boost Chance: §e%d%%§r
+The Void Ore Miner will produce tons of ores.
+It will consume Pyrotheum and Cryotheum alternatively each sec.
+Temperature will increase if there is only Pyrotheum and will decrease if there is only Cryotheum.
+First step, will be to only feed with Pyrotheum and then, when the temperature is a the perfect spot, slowly add Cryotheum.
+If temperature is above the max temperature the Void Ore Miner will stop working and slowly cool down.
+Large Transformer can convert any GTEU/AMPS by any GTEU/AMPS.
+The Industrial Primitive Blast Furnace is a large multiblock structure consisting of 1 to 64 "slices".
+It's the upgraded version of The Primitive Blast Furnace.
+The Industrial Primitibe Blast Furnace can be automate and speed up.
+Will produce Cobblestone, Andesite, Diorite and Granite. have to be ajacent to lava and water.
+The Cryogenic Freezer is built as the Vacuum Freezer. It consume 20L of Cryotheum per sec and it is 2x faster and process 4 items at one time.
+The Advanced Distillation Tower is built as the the Distillation Tower with 26 layer.
+2 Modes :
+Duration Depend on Coil Tier.
+The Large Rocket Engine will produce large amounts of power.
+It will consume Rocket Fuel as quickly as you can supply it.

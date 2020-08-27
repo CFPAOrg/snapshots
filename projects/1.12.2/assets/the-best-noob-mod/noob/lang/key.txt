@@ -1,0 +1,7 @@
+item.mudpickaxe.name
+item.mudsword.name
+itemGroup.tabnoobtab
+item.noobdim.name
+item.mudaxe.name
+item.noobfood.name
+tile.noobchest.name

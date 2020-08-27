@@ -1,0 +1,15 @@
+tile.corruption.name
+item.deprivedchunk.name
+tile.bleachstone.name
+entity.slug.name
+tile.messinfertile.name
+entity.chickenhead.name
+entity.thcreeper.name
+entity.sirenhead.name
+tile.useddepravity.name
+entity.crawler.name
+tile.depravity.name
+tile.wombsiding.name
+fluid.bleach
+entity.hoarder.name
+item.coruptionmess.name

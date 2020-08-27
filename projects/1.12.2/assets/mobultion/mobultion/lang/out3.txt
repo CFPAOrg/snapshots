@@ -1,0 +1,10 @@
+A nether and desert monster that hates water and rain but vengeful and dangerous. Will burn the player for 3 seconds (configurable) plus a small random.
+A small spider that randomly spawns with other spiders (1% chance configurable), that will possess other spiders and give them strength and speed.
+An extremely dangerous mob that has a small chance to lay an egg and will spawn at least one egg upon death.
+A mean and magical spider that spawn in the swamps and can cast spells to summon 3 to 7 (based on difficulty) spiders that range from vanilla to this mod's other spiders (configurable).
+A fast moving spider that hovers and walks one block high blocks making him a deadly rocket.
+A three headed monster that has 15 hearts and will lose a head every third of its health. Will wither the player for 5 seconds (configurable) on each hit.
+A master piece of a texture made by nox-cgt, this corrupted skeleton has been trapped inside temples and left to rot but instead it holds a bone from its dead ancestors and seek those who to try to steal the loot from the desert temples.
+An annoying skeleton with a squeaky laugh (can be disabled) roams the land to shot his arrows at the player causing one of the most annoying effects that last for 10 seconds, the jokerness effect which renders play cards symbols on the screen (only four symbols and fade fast). Its arrows do a slight damage (half a heart, can be increased).
+A lava dipped skeleton with an eternal flame burning in its chest to represent its fury and vengeance. Will spawn in hot biomes and on nether fortresses, will burn on hit by arrow and the arrow will turn water to cobble or sand to glass (if not configured otherwise).
+A master of healing arts and the shaman of his village, this skeleton will heal damaged skeletons and help to revive skeleton remains. Has a chance to drop his wand but since the player do not know how to use it, the player may use this wand 6 times to heal 2 hearts with cool down after each one.

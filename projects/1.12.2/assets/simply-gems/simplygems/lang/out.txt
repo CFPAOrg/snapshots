@@ -1,0 +1,65 @@
+Simply Gems
+Cinnabar
+Goshenite
+Jade
+Morganite
+Phosphophyllite
+Red Beryl
+Rutile
+Rutile
+Bort
+Benitoite
+Euclase
+Neptunite
+Yellow Diamond
+Zircon
+Zircon
+Zircon
+Zircon
+Obsidian Gem
+Amethyst
+Alexandrite
+Antarcticite
+Padparadscha
+Cairngorm
+Ghost Quartz
+Watermelon Tourmaline
+Sphene
+Hemimorphite
+Peridot
+Chrysoberyl
+Blue Zoisite
+Lightning Ridge Black Opal
+White Opal
+Black Opal
+Unakite
+Red Diamond
+Azurite
+Green Diamond
+Hornblende
+Ruby
+Sapphire
+Topaz
+Phosphophyllite Ore
+Alexandrite Ore
+Azurite Ore
+Benitoite Ore
+Beryl Ore
+Blue Zoisite Ore
+Cinnabar Ore
+Diamonds Ore
+Hemimorphite Ore
+Hornblende Ore
+Jade Ore
+Topaz Ore
+Neptunite Ore
+Obsidian Gem Ore
+Opal Ore
+Peridot Ore
+Quartz Ore
+Ruby Ore
+Sapphire Ore
+Sphene Ore
+Unakite Ore
+Watermelon Tourmaline Ore
+Zircon Ore

@@ -1,0 +1,51 @@
+Chiseled Elder Stone Bricks
+Elder Stone Brick Stairs
+Elder Stone Slab
+Heart
+Sacrificial Altar Core
+Blood Stone Bricks
+Blood Stone Brick Stairs
+Blood Stone Brick Slab
+Blood Well
+Statue
+Statue of Sacrifice
+Statue of Penitence
+Memory Sieve
+City Mapper
+Gear Bench
+Dream Focus: Items
+Dream Focus: Fluids
+Dream Focus: Villagers
+Megydrea
+Curtain
+Tears
+Nothing happens. For some reason, I feel relieved.
+More slugs must be consumed to commune.
+NEW POWER: Hold Power key ('R' by default) to choose Power, tap it to cast.
+My skin crawls. The Communion is sealed.
+My spine rattles. The voice is inhuman, my will falters.
+My heart trembles. Terrible things were spoken, the link strengthened.
+I shed a tear. New knowledge was granted, an agonizing Truth.
+This Lacrymatory is already bound.
+The %1$s is now bound to the Lacrymatory.
+The City Mapper is slowly loading the surrounding environment.
+Someone else is currently using the City Mapper.
+Someone else is still using the City Mapper.
+I still can't use the City Mapper.. because of someone else.
+Some damn fool is still using the City Mapper, preventing me from using it.
+Someone else's still using the Mapper.. we should get rid of them.
+Someone else is currently using the City Mapper.
+The other heart is too far away.
+something may have happened to the other heart. I should go check.
+This heart's position is now stored in my coral staff.
+This heart is linked to coordinates x: %1$s, y: %2$s, z: %3$s.
+This heart is not linked.
+This heart's link has been cleared.
+The heart at coordinates x: %1$s, y: %2$s, z: %3$s is now linked to this one.
+This altar's structure is incomplete.
+%1$s Blood Skeletons and %2$s Blood Zombies are stored in this well. Or, rather, the otherworldly place it is linked to.
+This Statue is owned by %1$s.
+This Statue is mine.
+This Statue is mine to claim.
+I do not know who this Statue is linked to.
+This Statue is already mine.

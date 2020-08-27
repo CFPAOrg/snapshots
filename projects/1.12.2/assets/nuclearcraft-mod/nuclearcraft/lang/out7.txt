@@ -1,0 +1,63 @@
+Superconducting Supercooler
+Requires %s and %s of liquid helium to stay active.
+Superconducting Supercooler
+Helium Collector
+Compact Helium Collector
+Dense Helium Collector
+Produces %s of helium constantly.
+Cobblestone Generator
+Compact Cobblestone Generator
+Dense Cobblestone Generator
+Produces %s constantly if supplied %s.
+Produces %s constantly.
+Cobblestone
+Infinite Water Source
+Compact Infinite Water Source
+Dense Infinite Water Source
+Produces %s of water constantly.
+Nitrogen Collector
+Compact Nitrogen Collector
+Dense Nitrogen Collector
+Produces %s of nitrogen constantly.
+Collector
+Radiation Scrubber
+Reduces the radiation level of the chunk it is placed in. Its effectiveness is dependent on the amount of free space around it, removing a maximum of %s of the radiation in its chunk. The collective contribution from all scrubbers in the chunk will stack linearly. %s
+Reduces the radiation level of the chunk it is placed in. Its effectiveness is dependent on the amount of free space around it. Alone, it will remove a maximum of %s of the radiation in its chunk, though the collective contribution from all scrubbers in the chunk will stack non-linearly. The radiation level will fall approximately linearly at first, but eventually doubly exponentially in the limit of many scrubbers. %s
+Requires %s RF/t and %s Borax/s to run.
+Requires %s RF/t to run.
+Geiger Counter Block
+Reads the radiation level of the chunk it is placed in.
+Glowing Mushroom
+Wasteland Earth
+Tritium Lamp
+Tritium Lantern
+Oxygen
+Oxygen
+Hydrogen
+Hydrogen
+Deuterium
+Deuterium
+Tritium
+Tritium
+Helium-3
+Helium-3
+Helium
+Helium
+Steam
+Steam
+High Pressure Steam
+High Pressure Steam
+Exhaust Steam
+Exhaust Steam
+Low Pressure Steam
+Low Pressure Steam
+Low Quality Steam
+Low Quality Steam
+Preheated Water
+Preheated Water
+Condensate Water
+Condensate Water
+Liquid Helium
+Liquid Helium
+Liquid Nitrogen
+Liquid Nitrogen

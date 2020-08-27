@@ -1,0 +1,14 @@
+You can click 'More Info' to learn a little more about this and access links to our privacy policy and terms of service.
+Beyond this magical accept button, is a world of multiplayer servers, global (all servers and even single player) chat and much more, we hope you'll join us!
+To provide your consent to us storing data for you, please click 'Accept', otherwise please click 'Decline' and this part of the mod will be disabled.
+The data we collect is a hash of your Minecraft UUID to our servers which may be identifying information, despite our efforts to anonymize it.
+We only use this in order to find servers which you are invited to, to provide an in game friends list, to provide an identifier for chat, and to enable tracking of free Mini-Game credits used.
+To view the CreeperHost LTD privacy policy, please click (here|https://www.creeperhost.net/privacy). To view our TOS, click (here|https://www.creeperhost.net/tos).
+If you consent to this, please press 'Accept'. Otherwise, press 'Decline'. If you decline this, you will be unable to access the feature.
+Public Servers don't have any limitations on entry. Anyone can join and immediately start playing, and their player bases can be large, but their open nature can increases the chance of being griefed.
+Community Servers are still relatively open, but will require being added to an approved list of members to join, offering some increased security and peace of mind with vetted users.
+Closed Servers require a direct invite from the server owner to join. Usually for groups of friends, these servers may be smaller in population, but with the highest level of trust between users.
+Server Type
+Cancel
+Are you sure you wish to invite this person to a group chat?
+Once this has been done, it cannot be undone and you will need to create a new group to remove them.\n\nIf you are already in someone else's group chat, you will leave it.

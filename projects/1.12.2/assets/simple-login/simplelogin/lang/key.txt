@@ -1,0 +1,2 @@
+simplelogin_notify_register
+simplelogin_notify_login

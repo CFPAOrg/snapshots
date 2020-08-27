@@ -1,0 +1,54 @@
+Crossing Base
+Crossing Gate
+Crossing Lamps
+Pole
+Crossbuck (Pole)
+SafeTran Type 3
+Overhead (Pole)
+Overhead
+Overhead Lamps
+Overhead Crossbuck
+SafeTran Mechanical
+Sign
+Cone
+Channelizer
+Drum
+Street Light (Single)
+Street Light (Double)
+Traffic Light Control Box
+Wig Wag
+Island Shunt
+Border Shunt
+Type 3 Barrier
+Type 3 Barrier
+Guardrail
+WCH Electronic Bell
+Horizontal Pole
+Traffic Sensor (Left)
+Traffic Sensor (Straight)
+Crossing Gate Relay
+Tuner
+Traffic Light Frame
+Bulb (Green)
+Bulb (Yellow)
+Bulb (Red)
+Left Arrow Bulb (Green)
+Left Arrow Bulb (Yellow)
+Left Arrow Bulb (Red)
+White Concrete Barrier
+Orange Concrete Barrier
+Magenta Concrete Barrier
+Light Blue Concrete Barrier
+Yellow Concrete Barrier
+Lime Concrete Barrier
+Pink Concrete Barrier
+Gray Concrete Barrier
+Light Gray Concrete Barrier
+Cyan Concrete Barrier
+Purple Concrete Barrier
+Blue Concrete Barrier
+Brown Concrete Barrier
+Green Concrete Barrier
+Red Concrete Barrier
+Black Concrete Barrier
+Traffic Control

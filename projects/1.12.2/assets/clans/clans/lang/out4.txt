@@ -1,0 +1,39 @@
+/clan autodecline [clan]
+Automatically decline invitations from any clan or a clan you specify.
+You are now automatically declining all invitations.
+You are now automatically declining invitations from %s.
+You are no longer automatically declining all invitations.
+You are no longer automatically declining invitations from %s.
+/clan demote <player>
+Demote a player in your clan, Leader to Admin or Admin to Member.
+You have demoted %s to %s in %s.
+You have been demoted in %s to %s by %s.
+The player %s could not be demoted.
+/clan invite <send|revoke|list> <player>|[page]
+Invite a player to your clan, revoke an invite to a player, or list all players your clan has invited.
+You have invited %s to join %s.
+You have been invited to join %1$s. To join %1$s, type /clan accept. To decline, type /clan decline.
+The player %s has already been invited to join %s.
+The player %s is already in %s.
+The player %s is already in a clan.
+The player %s is not accepting invites from %s.
+The player %s is not accepting invites.
+The clan %s has revoked their invitation for you to join.
+You have revoked the invite for %s to join %s.
+/clan kick <player>
+Kick a player out of your clan.
+To leave a clan, use /clan leave.
+You do not have the authority to kick out %s.
+You have kicked %s out of %s.
+You have been kicked out of %s by %s.
+%s has been kicked out of %s by %s.
+The player %s could not be kicked from %s. If %1$s is the only leader of %2$s, another leader should be promoted to leader before attempting to kick %1$s.
+/clan leave
+Leave your clan.
+You are the last member of %s. To disband it, use /clan disband.
+You cannot leave %s without a leader. Promote someone else to be a leader before leaving.
+You have left %s.
+%s has left %s.
+Internal Error: You were unable to be removed from %s. Server owners, please report this.
+/clan promote <player>
+Promote a player in your clan. Member to Admin or Admin to Leader.

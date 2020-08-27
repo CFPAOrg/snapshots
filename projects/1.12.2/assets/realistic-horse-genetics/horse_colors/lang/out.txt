@@ -1,0 +1,118 @@
+Horse
+Donkey
+Mule
+Gene Book
+Gender Change Potion
+Realistic Horse Genetics
+Physical examination
+Genetic tests
+This will have no effect unless gender is enabled in the configuration
+Extension
+e
+e
+e
+e
+E
+E
+E
+E
+Agouti
+a
+A
+A
+A
+A
+A
+A
+A
+Dun
+nd2
+nd1
+D
+D
+Gray
+g
+G
+Cream
++
+sn
+prl
+Cr
+Silver Dapple
+z
+Z
+Liver Chestnut
+Flaxen1
+Flaxen2
+Dapples
+Sooty1
+Sooty2
+Sooty3
+Mealy1
+Mealy2
+Mealy3
+White Suppression
+KIT
++
++
++
++
++
++
++
+W20
++
++
++
+To
+Sb1
+To+W20
+Rn
+W
+Frame Overo
++
+O
+MITF
+SW1
++
++
++
+PAX3
+Leopard Complex
++
+Lp
+Pattern 1
++
+PATN
+Health
+Lung health
+Gut health
+Hoof health
+Immune system
+Jump Power
+Bascule
+Agility
+Conformation
+Speed
+Quickness
+Stride
+Conformation
+Speed and Jumping
+Athleticism
+Energy
+Abysmal
+Poor
+Average
+Good
+Excellent" ,
+Extremely inbred
+Inbred
+Mediocre
+Diverse
+Diverse
+immune.best used to be outbred, but that was too confusing.
+This horse is deaf due to a lack of pigment in the inner ear.
+This horse has eye abnormalities due to the silver dapple gene.
+This horse has recurrent uveitis, an eye disorder related to the leopard complex gene and other risk factors.
+This horse has night blindness caused by the leopard complex gene.
+This horse has an increased risk of melanomas due to the gray gene."

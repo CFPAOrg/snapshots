@@ -1,0 +1,19 @@
+The §lHeafty Wrench§r can be enchanted with §lUnbreaking§r, §lMending§r, §lEfficancy§r, and §lFire Aspect§r. §lUnbreaking§r works as normal. §lMending§r will slowly repair the §lHefty Wrench§r for free, even charging it when it is fully repaired, up to 1600. §lEfficancy§r will reduce the energy cost of the upgrades by 300 per level. §lFire Aspect§r, with the §lThermal Upgrade§r, will add an additional 1 fire damage and 4 seconds burn time per level.
+Fuel
+Integrity
+Environmental Suit
+Solar Panel
+Advanced Tools
+Electric! Shocks enemies!
+Thermal! Sets enemies on fire!
+Magical! Deals unblockable damage!
+Can be quite shocking!
+Bringing the heat!
+Not quite a magic missile, but it works!
+Fits in the non existent palm of your hand!
+Damage
+Knockback
+Magical Damage
+Electric Damage
+Thermal Damage
+%1$s was cooked alive!

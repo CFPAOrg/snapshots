@@ -1,0 +1,35 @@
+Boran Chunk
+Borath Chunk
+Boran Sword
+Boran Pickaxe
+Boran Axe
+Boran Shovel
+Boran Hoe
+Boran Helmet
+Boran Leggings
+Boran Chestplate
+Grassite Chestplate
+Boran Boots
+Grassite
+Grassite Sword
+Grassite Pickaxe
+Grassite Axe
+Grassite Shovel
+Grassite Hoe
+Borath Drill
+Borath Sword
+Gratome Ingot
+Gratome Sword
+Gratome Pickaxe
+Gratome Axe
+Boran Auto-Bow
+Boran Ore
+Boran Block
+Borath Block
+Screen
+Spaceship
+Falium Crystal
+Power Core
+Iron Plate
+Grassite Block
+Resources ++

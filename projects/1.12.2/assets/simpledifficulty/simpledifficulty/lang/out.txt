@@ -1,0 +1,59 @@
+Cold Resistance
+Heat Resistance
+Hyperthermia
+Hypothermia
+Thirsty
+Chilling
+Heating
+Reduces player temperature when worn
+Increases player temperature when worn
+Purified Water
+SimpleDifficulty
+Broken Canteen
+Empty Canteen
+Water Canteen
+Purified Canteen
+Charcoal Filter
+Ice Chunk
+Ice Helmet
+Ice Chestplate
+Ice Leggings
+Ice Boots
+Apple Juice
+Beetroot Juice
+Cactus Juice
+Carrot Juice
+Chorus Fruit Juice
+Glistering Melon Juice
+Golden Apple Juice
+Golden Carrot Juice
+Melon Juice
+Pumpkin Juice
+Magma Chunk
+Purified Water Bottle
+Thermometer
+Cloth Hood
+Cloth Jacket
+Cloth Pants
+Cloth Shoes
+Lingering Potion of Cold Resistance
+Lingering Potion of Cold Resistance
+Lingering Potion of Heat Resistance
+Lingering Potion of Heat Resistance
+Potion of Cold Resistance
+Potion of Cold Resistance
+Potion of Heat Resistance
+Potion of Heat Resistance
+Splash Potion of Cold Resistance
+Splash Potion of Cold Resistance
+Splash Potion of Heat Resistance
+Splash Potion of Heat Resistance
+Campfire
+Chiller
+Heater
+Purified Water
+Rain Collector
+Arrow of Cold Resistance
+Arrow of Cold Resistance
+Arrow of Heat Resistance
+Arrow of Heat Resistance

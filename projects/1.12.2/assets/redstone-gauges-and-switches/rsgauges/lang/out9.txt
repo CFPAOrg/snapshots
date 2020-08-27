@@ -1,0 +1,60 @@
+Redstone-Sensitive Glass Block (Magenta-Stained)
+Redstone-Sensitive Glass Block (Light-Blue-Stained)
+Redstone-Sensitive Glass Block (Lime-Stained)
+Redstone-Sensitive Glass Block (Pink-Stained)
+Redstone-Sensitive Glass Block (Gray-Stained)
+Redstone-Sensitive Glass Block (Light-Gray-Stained)
+Redstone-Sensitive Glass Block (Cyan-Stained)
+Redstone-Sensitive Glass Block (Purple-Stained)
+Redstone-Sensitive Glass Block (Brown-Stained)
+Redstone-Sensitive Glass Block (Black-Stained)
+Redstone-Sensitive Glass Block (Inverted, Light Emitting)
+§6Glass block that emits light when it is powered by a redstone signal, similar to a redstone lamp.
+§6Glass block that normally emits light like a redstone lamp, and switches off \
+§6Glass block that changes from transparent to colored when it is powered by a redstone \
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+The qube
+It's a developer block that is not supposed to be craftable or used in the game.
+Switch Link Pearl
+§6Created by left clicking a switch with an Ender pearl. Remote activates that \
+%1$s
+power: %1$s
+no output
+weak
+strong
+weak inverted
+strong inverted
+pulse: %1$ss (%2$s ticks)
+tinted %1$s
+white
+orange
+magenta
+light blue
+yellow
+lime
+pink
+gray
+light gray
+cyan
+purple
+blue
+brown
+green
+red
+black
+sensor range: %1$s

@@ -1,0 +1,88 @@
+Neptunium-237-Zirconium Alloy
+Plutonium-238
+Plutonium-238 Carbide
+Plutonium-238 Oxide
+Plutonium-238 Nitride
+Plutonium-238-Zirconium Alloy
+Plutonium-239
+Plutonium-239 Carbide
+Plutonium-239 Oxide
+Plutonium-239 Nitride
+Plutonium-239-Zirconium Alloy
+Plutonium-241
+Plutonium-241 Carbide
+Plutonium-241 Oxide
+Plutonium-241 Nitride
+Plutonium-241-Zirconium Alloy
+Plutonium-242
+Plutonium-242 Carbide
+Plutonium-242 Oxide
+Plutonium-242 Nitride
+Plutonium-242-Zirconium Alloy
+Americium-241
+Americium-241 Carbide
+Americium-241 Oxide
+Americium-241 Nitride
+Americium-241-Zirconium Alloy
+Americium-242
+Americium-242 Carbide
+Americium-242 Oxide
+Americium-242 Nitride
+Americium-242-Zirconium Alloy
+Americium-243
+Americium-243 Carbide
+Americium-243 Oxide
+Americium-243 Nitride
+Americium-243-Zirconium Alloy
+Curium-243
+Curium-243 Carbide
+Curium-243 Oxide
+Curium-243 Nitride
+Curium-243-Zirconium Alloy
+Curium-245
+Curium-245 Carbide
+Curium-245 Oxide
+Curium-245 Nitride
+Curium-245-Zirconium Alloy
+Curium-246
+Curium-246 Carbide
+Curium-246 Oxide
+Curium-246 Nitride
+Curium-246-Zirconium Alloy
+Curium-247
+Curium-247 Carbide
+Curium-247 Oxide
+Curium-247 Nitride
+Curium-247-Zirconium Alloy
+Berkelium-247
+Berkelium-247 Carbide
+Berkelium-247 Oxide
+Berkelium-247 Nitride
+Berkelium-247-Zirconium Alloy
+Berkelium-248
+Berkelium-248 Carbide
+Berkelium-248 Oxide
+Berkelium-248 Nitride
+Berkelium-248-Zirconium Alloy
+Californium-249
+Californium-249 Carbide
+Californium-249 Oxide
+Californium-249 Nitride
+Californium-249-Zirconium Alloy
+Californium-250
+Californium-250 Carbide
+Californium-250 Oxide
+Californium-250 Nitride
+Californium-250-Zirconium Alloy
+Californium-251
+Californium-251 Carbide
+Californium-251 Oxide
+Californium-251 Nitride
+Californium-251-Zirconium Alloy
+Californium-252
+Californium-252 Carbide
+Californium-252 Oxide
+Californium-252 Nitride
+Californium-252-Zirconium Alloy
+TBU
+TBU Carbide

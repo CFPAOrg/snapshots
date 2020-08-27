@@ -1,0 +1,32 @@
+Push Puzzle Block
+Depressible Puzzle Block
+Starting Puzzle Block
+Red Push Puzzle Block
+Red Depressible Puzzle Block
+Red Starting Puzzle Block
+Blue Push Puzzle Block
+Blue Depressible Puzzle Block
+Blue Starting Puzzle Block
+Green Push Puzzle Block
+Green Depressible Puzzle Block
+Green Starting Puzzle Block
+Cyan Push Puzzle Block
+Cyan Depressible Puzzle Block
+Cyan Starting Puzzle Block
+Magenta Push Puzzle Block
+Magenta Depressible Puzzle Block
+Magenta Starting Puzzle Block
+Yellow Push Puzzle Block
+Yellow Depressible Puzzle Block
+Yellow Starting Puzzle Block
+Hourglass
+Transient Puzzle Block
+Secret Transient Puzzle Block
+Activate Puzzle Block
+Breakable Stone
+Subtle Breakable Stone
+Secret Breakable Stone
+Breakable Stone Edge
+Bomb
+Resettable Switch Default On
+Resettable Switch Default Off

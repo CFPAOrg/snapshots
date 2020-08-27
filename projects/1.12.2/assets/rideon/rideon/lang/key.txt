@@ -1,0 +1,4 @@
+key.rideon
+messege.rideon.switching
+messege.rideon.enabled
+messege.rideon.invalid

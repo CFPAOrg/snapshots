@@ -1,0 +1,15 @@
+Data router allows to direct a packet into a specific side, which is defined by one of the packet's variables (can be set on the router by sneak using hammer). The variable has to be an integer.<br>Top - 0<br>Bottom - 1<br>North - 2<br>South - 3<br>East - 4<br>West - 5
+The redstone buffer is a device which can hold an incoming data packet, until it doesn't receive a redstone signal.
+The timed buffer is a device, which can hold an incoming data packet for a given amount of time. The duration is set by the variable '0' (a number of ticks to wait).
+The small data buffer is a device which can hold up to 4 packets and can release them using the First-In-First-Out method when given a redstone signal.
+Data Wiring
+Not really powerlines
+Trough the wires, data is sent and received immediately. In some cases using <link;radio_station;§o§nWireless §o§nTransmission§r;> might be better, but wires offer better stability during harsh weather and are cheaper.
+Data wires like most cabling have their own relays and connectors, which split and connect machines. These can be used to create great logistic, warfare, intelligence and production networks.
+Data Wiring
+Not really powerlines
+Trough the wires, data is sent and received immediately. In some cases using <link;radio_station;§o§nWireless §o§nTransmission§r;> might be better, but wires offer better stability during harsh weather and are cheaper.
+Data wires like most cabling have their own relays and connectors, which split and connect machines. These can be used to create great logistic, warfare, intelligence and production networks.
+Intelligence
+Science's most powerful weapon
+Intelligence is a branch of engineering focused on espionage, infiltration, sabotage and reconnaissance.<br>Intelligence offers multiple tools and machines to observe and predicate enemy movements. These include simple ones like the Binoculars and advanced like the Infrared Observer or Strategic Command Table.

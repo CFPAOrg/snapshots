@@ -1,0 +1,14 @@
+item.spawn_pet.name
+item.treat
+item.craft_wand.name
+item.treat_skull_swarm.name
+item.treat_bomb.name
+item.treat_super_bomb.name
+item.treat_blood_bunny.name
+item.treat_potion.name
+entity.head_pet.name
+entity.head_evil.name
+tile.head_crafter.name
+itemGroup.tabHeadPets
+gui.texturemode
+gui.namemode

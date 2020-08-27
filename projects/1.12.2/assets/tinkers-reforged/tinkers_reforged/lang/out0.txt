@@ -1,0 +1,106 @@
+Tinkers' Reforged
+Kovar Glass
+Lavium Nugget
+Lavium Ingot
+Lavium Dust
+Lavium Plate
+Lavium Gear
+Qivium Nugget
+Qivium Ingot
+Qivium Dust
+Qivium Plate
+Qivium Gear
+Kovar Nugget
+Kovar Ingot
+Kovar Plate
+Kovar Gear
+Gladius
+A broadsword with a bit more damage and less attack speed but slow enemies.
+Gladius Bindings
+Club
+A powerful weapon that knock your enemies on impact
+Club Head
+Curved Blade
+Khopesh
+A egyptian broadsword.
+Great Blade
+Greatsword
+A great and powerful sword.
+Runic Knife
+A Knife used to get Moss from mossy blocks.
+Molten Infused Iron
+Molten of the sky
+Starmetal
+Molten Blutonium
+Molten Ludicrite
+Molten Qivium
+Molten Lavium
+Molten Kovar
+Molten Osmium
+Molten Refined Obsidian
+Molten Refined Glowstone
+Molten Ventium
+Molten Horizonite
+Molten Pyrope
+Molten Black Quartz
+Molten Enori
+Molten Palis
+Molten Void
+Molten Emeradic
+Molten Redstonia
+Molten Diamantine
+Lavium
+Enderium
+Signalum
+Lumium
+Platinum
+Iridium
+Invar
+Aluminum
+Infused Iron
+Ancient Wood
+Material Of The Sky
+Black Quartz
+Enori Crystal
+Void Crystal
+Redstonia Crystal
+Emeradic Crystal
+Diamantine Crystal
+Palis Crystal
+Certus Quartz
+Fluix Crystal
+Starmetal
+Limestone
+Khnumite
+Ventium
+Horizonite
+Pyrope
+Turquoise
+Charoite
+Diopside
+Amethyst
+Osmium
+Refined Obsidian
+Refined Glowstone
+HDPE Sheet
+Runestone
+Yellorium
+Blutonium
+Ludicrite
+Cyanite
+Lavium
+Qivium
+Signal
+§oDude, stop hitting those Creepers!§r\nHitting Creeper make them explode.
+Ender
+§oDon't look in their eyes!§r\nDeal double damage to Ender Mobs.
+Enderfestation
+§oHate these little pest, they spawn everywhere!§r\nMining blocks have a chance of spawning an endermite.
+Bright
+§oYo Sun gimme your power!§r\nYour tool gain more damage/mining speed with a open sun.
+Astral
+§oI can see in the dark!§r
+Aura Infusion
+§oThe Tool seems to self repair but at what cost?§r\nRepair your tool using aura.
+Pyromancy
+§oBy fire be purged!§r\nCrits set the target on fire.

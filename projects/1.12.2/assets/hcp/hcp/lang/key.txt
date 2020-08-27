@@ -1,0 +1,15 @@
+itemGroup.fvtm:hcp
+item.hcp:container_crane.name
+item.hcp:container_crane.1_straight.name
+item.hcp:container_crane.4_straight.name
+item.hcp:container_crane.8_straight.name
+item.hcp:container_crane.16_straight.name
+item.hcp:medium_fluid.name
+item.hcp:medium.name
+item.hcp:medium_refrigerator.name
+item.hcp:tiny.name
+item.hcp:lcc_cabin.name
+item.hcp:lcc_engine.name
+item.hcp:lcc_holder.name
+item.hcp:lcc_wheels.name
+item.hcp:large_container_crane.name

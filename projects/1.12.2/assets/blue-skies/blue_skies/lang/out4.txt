@@ -1,0 +1,101 @@
+Pyrope Helmet
+Pyrope Chestplate
+Pyrope Leggings
+Pyrope Boots
+Turquoise Helmet
+Turquoise Chestplate
+Turquoise Leggings
+Turquoise Boots
+Diopside Helmet
+Diopside Chestplate
+Diopside Leggings
+Diopside Boots
+Charoite Helmet
+Charoite Chestplate
+Charoite Leggings
+Charoite Boots
+Horizonite Helmet
+Horizonite Chestplate
+Horizonite Leggings
+Horizonite Boots
+Shadow Helmet
+Shadow Chestplate
+Shadow Leggings
+Shadow Boots
+Potion of Bad Luck
+Splash Potion of Bad Luck
+Lingering Potion of Bad Luck
+Arrow of Bad Luck
+White Illager Eye
+Orange Illager Eye
+Magenta Illager Eye
+Light Blue Illager Eye
+Yellow Illager Eye
+Lime Illager Eye
+Pink Illager Eye
+Gray Illager Eye
+Light Gray Illager Eye
+Cyan Illager Eye
+Purple Illager Eye
+Blue Illager Eye
+Brown Illager Eye
+Green Illager Eye
+Red Illager Eye
+Black Illager Eye
+White Illager Pupil
+Orange Illager Pupil
+Magenta Illager Pupil
+Light Blue Illager Pupil
+Yellow Illager Pupil
+Lime Illager Pupil
+Pink Illager Pupil
+Gray Illager Pupil
+Light Gray Illager Pupil
+Cyan Illager Pupil
+Purple Illager Pupil
+Blue Illager Pupil
+Brown Illager Pupil
+Green Illager Pupil
+Red Illager Pupil
+Black Illager Pupil
+White Illager Face
+Orange Illager Face
+Magenta Illager Face
+Light Blue Illager Face
+Yellow Illager Face
+Lime Illager Face
+Pink Illager Face
+Gray Illager Face
+Light Gray Illager Face
+Cyan Illager Face
+Purple Illager Face
+Blue Illager Face
+Brown Illager Face
+Green Illager Face
+Red Illager Face
+Black Illager Face
+White Dusk Arc
+Orange Dusk Arc
+Magenta Dusk Arc
+Light Blue Dusk Arc
+Yellow Dusk Arc
+Lime Dusk Arc
+Pink Dusk Arc
+Gray Dusk Arc
+Light Gray Dusk Arc
+Cyan Dusk Arc
+Purple Dusk Arc
+Blue Dusk Arc
+Brown Dusk Arc
+Green Dusk Arc
+Red Dusk Arc
+Black Dusk Arc
+White Poisonous Arc
+Orange Poisonous Arc
+Magenta Poisonous Arc
+Light Blue Poisonous Arc
+Yellow Poisonous Arc
+Lime Poisonous Arc
+Pink Poisonous Arc
+Gray Poisonous Arc
+Light Gray Poisonous Arc

@@ -1,0 +1,40 @@
+English
+Rotten Food
+Spoiled Milk
+Rotted Item
+Biodegradable Item
+Esky
+Freezer
+Larder Box
+Icebox
+Esky
+Freezer
+Larder Box
+Icebox
+10 Second Rule
+Eat rotten food
+Just Guzzle It
+Drink spoiled milk
+§4Decaying§r
+§ePreserved§r
+§aFresh %3$s days§r
+Rotten: %s §6(Day %s/%s)§r
+Date %s Time %s
+When %s / %s
+DimRatio %s for %s
+§7Ambient temperature§r
+§3Chilled§r
+§9Cold§r
+§bFrozen§r
+§bRefreshed§r
+§dTepid§r
+§4Warm§r
+§cHot§r
+Open
+Close
+Open
+Close
+Open
+Close
+Open
+Close

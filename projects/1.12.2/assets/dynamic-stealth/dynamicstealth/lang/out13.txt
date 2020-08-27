@@ -1,0 +1,20 @@
+"Warned" Threat
+FILLSCREEN FIXNEWLINES When an entity heeds a warning from another entity, its threat is set to this (if less than this)\n \n
+Unseen Target Minimum Threat Level
+FILLSCREEN FIXNEWLINES If an entity's threat level falls below this and they don't see their target, they go out-of-combat / stop searching\n \n
+Unseen Target Degredation Rate
+FILLSCREEN FIXNEWLINES Every time an entity updates and their target's position is unknown, this is subtracted from their threat\n \n
+Flee Degredation Rate
+FILLSCREEN FIXNEWLINES How fast the threat gauge decreases while fleeing; lower number means they flee for a longer time\n \n
+Seen Target Threat Rate
+FILLSCREEN FIXNEWLINES Every time an entity updates and their target is visible and reachable, this is added to their threat\n \n
+Owned Can't Reach Degredation Rate
+FILLSCREEN FIXNEWLINES Every time an owned entity updates and can't reach their target, this is subtracted from their threat\n \n
+Threat Bypass
+FILLSCREEN FIXNEWLINES Entities in this bypass the threat system\n\nThis means they will not use the search AI, will appear with ???? as their target and threat level in the targeting HUD, and always appear as full alert in the on-point HUD\n\nFor some entities, this option is necessary for them to work right, such as slimes.  For others, like the ender dragon and other players, it has no effect besides how they appear in the HUD\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Passiveness
+FILLSCREEN FIXNEWLINES Sets whether the threat system detects and entity as passive or not\n\nentityID, passivity\n\neg...\n\nminecraft:skeleton, true\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Faction Threat Bypass
+FILLSCREEN FIXNEWLINES All CNPCs in these factions will bypass the threat system\n \n
+Ownership
+Teams

@@ -1,0 +1,87 @@
+Advanced Radio Tuner
+Machinegun
+Tungsten Drill Head
+Diamond-Tipped Iron Drill Head
+Diamond-Tipped Steel Drill Head
+Diamond-Tipped Tungsten Drill Head
+Water Cooled Barrel
+Heavy Barrel
+Second Magazine
+Belt Fed Ammunition Loader
+Precise Bipod
+Field Bipod
+Scope
+Infrared Scope
+Tracer Dust
+Skycrate Mount
+Electric Skycrate Mount
+Uses water to cool down the MG. Increases the max amount of heat the MG can take.
+Dramatically increases fire rate, has higher recoil and overheats faster.
+Allows to use ammunition from two magazines, needs to be reloaded separately.
+Allows to take ammunition from an ammo crate below the player. Increases setting up time.
+Increases setting up time, decreases recoil
+Decreases setting up time, increases recoil
+Allows to aim at distant things
+Allows nightvision, requires a power source such as a capacitor backpack.
+Data Cable Coil
+Blank Page
+Printed Text
+Printed Code
+Printed Construction Scheme
+Precision Buzzsaw
+Precision Drill
+Precision Inserter
+Precision Solderer
+Precision Welder
+Precision Hammer
+Iron Saw Blade
+Steel Saw Blade
+Tungsten Saw Blade
+ 1 bCal)
+Artillery Shell Casing
+Artillery Shell
+Grenade Casing
+Grenade
+Machinegun Bullet Casing
+Machinegun Bullet
+Submachinegun Bullet Casing
+Submachinegun Bullet
+Revolver Cartridge Casing
+Revolver Cartridge
+TNT
+RDX
+HMX
+Steel Core
+Brass Core
+Tungsten Core
+Lead Core
+Uranium Core
+Machinegun Magazine
+Submachinegun Magazine
+Submachinegun Drum Magazine
+Automatic Revolver Magazine
+Copper Gear
+Brass Gear
+Iron Gear
+Steel Gear
+Tungsten Gear
+Cloth Motor Belt
+Steel Motor Belt
+Engineer's Wrench
+Electric Wrench
+Engineer's Tachometer
+Engineer's Torque Meter
+Platinum Ore
+Platinum Sheetmetal
+Platinum Block
+Platinum Sheetmetal Slab
+Platinum Slab
+Zinc Ore
+Zinc Sheetmetal
+Zinc Block
+Zinc Sheetmetal Slab
+Zinc Slab
+Tungsten Ore
+Tungsten Sheetmetal
+Tungsten Block
+Tungsten Sheetmetal Slab

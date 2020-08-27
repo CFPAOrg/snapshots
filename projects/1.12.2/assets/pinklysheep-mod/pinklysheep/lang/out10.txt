@@ -1,0 +1,49 @@
+Blooded Gold Sword
+{SUMM}. Inflicts secondary bleeding and corrosion attacks on hit targets.
+Blooded Lapis Sword
+{SUMM}. Inflicts secondary bleeding and corrosion attacks on hit targets.
+Blooded Emerald Sword
+{SUMM}. Inflicts secondary bleeding and corrosion attacks on hit targets.
+Blooded Sword
+{SUMM}. Inflicts secondary bleeding and corrosion attacks on hit targets.
+Olympian Sword
+Colossus Sword
+Colossus Sword Relic
+Shiny Colossus Sword
+Chillossus Sword
+Blaezin Hacker
+{SUMM}. Can bypass armored defense. Causes ongoing bleeding of hit targets.
+Endermand Hacker
+{SUMM}. Can bypass armored defense. Causes ongoing bleeding of hit targets.
+Illusionary Hacker
+{SUMM}. Can bypass armored defense. Causes ongoing bleeding of hit targets.
+Bigly Olympian Sword
+{SUMM}. Can cause serious armor damage to primary target.
+Bigly Colossus Sword
+{SUMM}. Can cause serious armor damage to primary target.
+Bigly Evil Dumpling
+NULLIFIED: %1$s
+%1$s died trying to cross slurry
+%1$s suffocated in a pile o' poo sludge
+%1$s was killed by condemned earth
+%1$s was poisoned to death
+%1$s was burned by a lava blade's grim flame
+%1$s was killed by frosty suspension
+%1$s was killed by a fatal piercing blow
+%1$s was killed by a mob-zapper
+%1$s died of rainbow awesomeness!
+%1$s was kungfu'd by an angry beanstalk
+%1$s died from bleeding and trauma caused by a severe laceration
+%1$s died from severe bleeding
+%1$s was bludgeoned to death
+%1$s was killed by ender fever
+%1$s was overwhelmed by the foul of some nearby stinky source
+%1$s was overwhelmed by the foul of some nearby stinky source (probably %2$s)
+%1$s was killed by some form of venom
+%1$s died from the effects of an unidentified hemotoxin
+%1$s was killed by HELL FIRE
+%1$s was killed by HELL FIRE
+%1$s died from the crazies. Bummer
+%1$s died from potion intoxication
+%1$s was killed by over stimulation
+%1$s died from cardiac arrest caused by too much stimulant too quickly

@@ -1,0 +1,4 @@
+entity.ItemFrame.name
+entity.MinecartHopper.name
+entity.MinecartChest.name
+entity.MinecartFurnace.name

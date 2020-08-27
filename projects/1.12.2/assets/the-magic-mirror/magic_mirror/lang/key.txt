@@ -1,0 +1,3 @@
+tile.magic_mirror.magic_mirror.name
+commands.magic_mirror.usage
+commands.magic_mirror.debug.reflections

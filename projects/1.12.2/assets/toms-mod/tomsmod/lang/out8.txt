@@ -1,0 +1,97 @@
+Sky Quartz Clump
+Fluix Plate
+Fluix Ingot
+Fluix Dust
+Tiny Pile of Fluix Dust
+Fluix Wire
+Fluix Nugget
+Fluix Crystal
+Fluix Wire Coil
+Crushed Fluix Ore
+Crushed Nether Fluix Ore
+Crushed End Fluix Ore
+Fluix Research Component
+Fluix Shard
+Dirty Fluix Dust
+Fluix Clump
+Bronze Plate
+Bronze Ingot
+Bronze Dust
+Tiny Pile of Bronze Dust
+Bronze Wire
+Bronze Nugget
+Bronze Crystal
+Bronze Wire Coil
+Crushed Bronze Ore
+Crushed Nether Bronze Ore
+Crushed End Bronze Ore
+Bronze Research Component
+Bronze Shard
+Dirty Bronze Dust
+Bronze Clump
+Aluminum Plate
+Aluminum Ingot
+Aluminum Dust
+Tiny Pile of Aluminum Dust
+Aluminum Wire
+Aluminum Nugget
+Aluminum Crystal
+Aluminum Wire Coil
+Crushed Bauxite Ore
+Crushed Nether Bauxite Ore
+Crushed End Aluminum Ore
+Aluminum Research Component
+Aluminum Shard
+Dirty Aluminum Dust
+Aluminum Clump
+Glass Cable - Fluix
+Glass Cable - White
+Glass Cable - Orange
+Glass Cable - Magenta
+Glass Cable - Light Blue
+Glass Cable - Yellow
+Glass Cable - Lime
+Glass Cable - Pink
+Glass Cable - Gray
+Glass Cable - Light Gray
+Glass Cable - Cyan
+Glass Cable - Purple
+Glass Cable - Blue
+Glass Cable - Brown
+Glass Cable - Green
+Glass Cable - Red
+Glass Cable - Black
+Covered Cable - Fluix
+Covered Cable - White
+Covered Cable - Orange
+Covered Cable - Magenta
+Covered Cable - Light Blue
+Covered Cable - Yellow
+Covered Cable - Lime
+Covered Cable - Pink
+Covered Cable - Gray
+Covered Cable - Light Gray
+Covered Cable - Cyan
+Covered Cable - Purple
+Covered Cable - Blue
+Covered Cable - Brown
+Covered Cable - Green
+Covered Cable - Red
+Covered Cable - Black
+Smart Cable - Fluix
+Smart Cable - White
+Smart Cable - Orange
+Smart Cable - Magenta
+Smart Cable - Light Blue
+Smart Cable - Yellow
+Smart Cable - Lime
+Smart Cable - Pink
+Smart Cable - Gray
+Smart Cable - Light Gray
+Smart Cable - Cyan
+Smart Cable - Purple
+Smart Cable - Blue
+Smart Cable - Brown
+Smart Cable - Green
+Smart Cable - Red
+Smart Cable - Black

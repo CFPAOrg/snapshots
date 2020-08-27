@@ -1,0 +1,12 @@
+item.wood_fiber.name
+item.savilior_seed.name
+item.savilior.name
+item.limarion_seed.name
+item.limarion.name
+item.instis_seed.name
+item.instis.name
+item.random_berry.name
+item.ghost_berry.name
+item.strange_mixture.name
+item.blend.name
+itemGroup.arcrops

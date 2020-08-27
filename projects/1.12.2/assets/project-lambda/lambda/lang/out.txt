@@ -1,0 +1,56 @@
+Project Lambda
+HEV Helmet
+HEV Chest
+HEV Leggings
+HEV Boots
+Mark IV
+Medkit
+Battery
+Sentry Gun
+Crowbar
+Glock 17
+Colt Python
+MP5
+Franchi SPAS-12
+Crossbow
+RPG Launcher
+Tau Cannon
+XVL1456
+Gluon Gun
+Hivehand
+MK5 Grenade
+Satchel Charge
+Satchel Remote
+Snark Hive
+9x19mm Glock 17 Magazine
+.357 Magnum Rounds
+9x19mm MP5 Magazine
+40x46mm Grenade
+12-Gauge Buckshot Shells
+Feathered Dart Magazine
+Rocket
+Depleted Uranium-235
+Laser Tripmine
+Medical Repair Station
+Charging Station
+Medkit
+Battery
+Bullet
+Bolt
+Headcrab
+Headcrab Zombie
+Vortigaunt
+Houndeye
+Barnacle
+Hornet
+Snark
+Grenade
+Rocket
+Grenade
+Satchel Charge
+Sentry Gun
+Project Lambda Keys
+Interact
+Reload
+Primary Fire
+Secondary Fire

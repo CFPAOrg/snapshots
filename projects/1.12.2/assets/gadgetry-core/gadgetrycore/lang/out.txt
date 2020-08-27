@@ -1,0 +1,16 @@
+Gadgetry: Core
+Redmetal Ingot
+Redmetal Nugget
+Steel Ingot
+Steel Nugget
+Wrench
+Redmetal Coil
+Silicon
+Redmetal Block
+Steel Block
+Alloy Furnace
+Alloy Furnace
+inventory
+Allow %1$s output?
+Alloy Recipe
+Toggle %1$s output?

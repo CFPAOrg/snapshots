@@ -1,0 +1,77 @@
+Nether Mine Options
+Advanced Nether Ore World Generation Settings
+Nether Ore World Generation
+Recipe Settings (Restart Required)
+Nether Ore (Block) Settings
+Generate Nether Ores
+Generate All Nether Ores
+Smelt To Ores
+Nether Ore Smelting
+Nether Ore Macerator Recipes
+Require Silk Touch
+Macerate To Gems
+Minimum Y
+Maximum Y
+Enable Nether Ore Explosions
+Explosion Chance (Percentage)
+Explosion Power
+Explosion Chain Reactions
+Anger Zombie Pigmen
+Anger Pigmen Radius (Blocks)
+Adjust Settings By Difficulty
+View More World Gen Settings....
+Coal Groups Per Chunk
+Diamond Groups Per Chunk
+Gold Groups Per Chunk
+Iron Groups Per Chunk
+Lapis Groups Per Chunk
+Redstone Groups Per Chunk
+Copper Groups Per Chunk
+Tin Groups Per Chunk
+Emerald Groups Per Chunk
+Silver Groups Per Chunk
+Lead Groups Per Chunk
+Uranium Groups Per Chunk
+Nikolite Groups Per Chunk
+Ruby Groups Per Chunk
+Peridot Groups Per Chunk
+Sapphire Groups Per Chunk
+Platinum Groups Per Chunk
+Nickel Groups Per Chunk
+Steel Groups Per Chunk
+Iridium Groups Per Chunk
+Osmium Groups Per Chunk
+Sulfur Groups Per Chunk
+Titanium Groups Per Chunk
+Mithril Groups Per Chunk
+Adamantium Groups Per Chunk
+Rutile Groups Per Chunk
+Tungsten Groups Per Chunk
+Amber Groups Per Chunk
+Tennantite Groups Per Chunk
+Salt Groups Per Chunk
+Saltpeter Groups Per Chunk
+Magnesium Groups Per Chunk
+Coal Blocks Per Group
+Diamond Blocks Per Group
+Gold Blocks Per Group
+Iron Blocks Per Group
+Lapis Blocks Per Group
+Redstone Blocks Per Group
+Copper Blocks Per Group
+Tin Blocks Per Group
+Emerald Blocks Per Group
+Silver Blocks Per Group
+Lead Blocks Per Group
+Uranium Blocks Per Group
+Nikolite Blocks Per Group
+Ruby Blocks Per Group
+Peridot Blocks Per Group
+Sapphire Blocks Per Group
+Platinum Blocks Per Group
+Nickel Blocks Per Group
+Steel Blocks Per Group
+Iridium Blocks Per Group
+Osmium Blocks Per Group
+Sulfur Blocks Per Group
+Titanium Blocks Per Group

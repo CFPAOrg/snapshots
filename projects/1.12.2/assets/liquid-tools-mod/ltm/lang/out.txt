@@ -1,0 +1,12 @@
+Static Lava
+Water In Glass
+Lava Axe
+Lava Hoe
+Lava Pickaxe
+Lava Shovel
+Lava Sword
+Water Axe
+Water Hoe
+Water Pickaxe
+Water Shovel
+Water Sword

@@ -1,0 +1,3 @@
+tile.octahedroid_octahedroid.name
+config.client.title
+config.balance.title

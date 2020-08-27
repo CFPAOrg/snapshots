@@ -1,0 +1,4 @@
+tile.medicstation.name
+tile.mediccore.name
+tile.medicpowercore.name
+item.medicplate.name

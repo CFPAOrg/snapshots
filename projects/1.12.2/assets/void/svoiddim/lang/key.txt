@@ -1,0 +1,7 @@
+item.void_chunk.name
+item.ruby.name
+tile.voidstone.name
+tile.void_altar.name
+tile.void_ore.name
+tile.ruby_ore.name
+itemGroup.void_tab

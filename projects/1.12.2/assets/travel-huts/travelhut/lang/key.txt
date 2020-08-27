@@ -1,0 +1,6 @@
+travelhut.config.title
+tile.blockhutportal.name
+tile.blockhutportalglass.name
+travelhut.command.usage
+travelhut.command.error.console
+travelhut.command.error.location

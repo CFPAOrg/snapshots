@@ -1,0 +1,6 @@
+itemGroup.jammachine.tab_label
+tile.jammachine:sequencer.name
+item.jammachine:punchcardblank.name
+item.jammachine:punchcardwritten.name
+item.jammachine:punchcard.name
+tile.jammachine:controller.name

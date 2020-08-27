@@ -1,0 +1,70 @@
+Raritanium
+Coin
+Coin
+Coin
+Coin
+Gold Chip
+Motor
+Wood Knob
+Stone Knob
+Iron Knob
+Gold Knob
+Diamond Knob
+Starlight Knob
+Wood Sledgehammer
+Stone Sledgehammer
+Iron Sledgehammer
+Gold Sledgehammer
+Diamond Sledgehammer
+Starlight Sledgehammer
+Security Wrench
+Wallet
+Pencil
+Brush
+Eraser
+Builder's Kit
+Blender
+Torch Belt
+Location Link Book
+Interaction Link Book
+Player Link Book
+Speed Upgrade
+Range Upgrade
+Building Unit Template
+ Interaction Interface Filter
+Raritanium Ore
+Blueprint (Black)
+Blueprint (Red)
+Blueprint (Green)
+Blueprint (Brown)
+Blueprint (Blue)
+Blueprint (Purple)
+Blueprint (Cyan)
+Blueprint (Gray)
+Blueprint (Silver)
+Blueprint (Pink)
+Blueprint (Lime)
+Blueprint (Yellow)
+Blueprint (Light Blue)
+Blueprint (Magenta)
+Blueprint (Orange)
+Blueprint (White)
+Marker
+Iron Scaffold
+Torch Placer
+Bank
+Network Cable
+Network Cable (Opaque)
+Network Gate
+Network Gate
+Interaction Interface
+Interaction Terminal
+Mining Unit
+Quarry Unit
+Building Unit
+Trading Post
+Market
+Book Stand
+Calemi's Utilities
+ Calemi's Utilities Config
+Crushing

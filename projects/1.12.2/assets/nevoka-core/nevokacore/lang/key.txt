@@ -1,0 +1,9 @@
+itemGroup.NevokaBlocks
+itemGroup.NevokaDecorations
+itemGroup.NevokaMaterials
+itemGroup.NevokaTools
+itemGroup.NevokaCombat
+itemGroup.NevokaMachines
+tile.nevokacore.test_furnace.name
+tile.nevokacore.lit_test_furnace.name
+container.nevokacore.test_furnace

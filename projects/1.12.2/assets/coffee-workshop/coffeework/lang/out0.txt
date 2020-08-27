@@ -1,0 +1,108 @@
+Espresso
+Café Americano
+Iced Americano
+Café Americano Fruit
+Iced Americano Fruit
+Sparking Americano
+Sparking Americano Fruit
+Café Latté
+Fruit Latté
+Caramel Latté
+Chocolate Latté
+Mint Latté
+Vanilla Latté
+Iced Latté
+Iced Fruit Latté
+Iced Caramel Latté
+Iced Chocolate Latté
+Iced Mint Latté
+Iced Vanilla Latté
+Cappuccino
+Macchiato
+Mochaccino
+Iced Cappuccino
+Iced Macchiato
+Iced Mochaccino
+Green tea
+Black tea
+Sweet Milk Tea
+Mandarin Drink
+Iced Mandarin Drink
+Iced Milk Tea
+Iced Green tea
+Iced Black tea
+Instant Coffee
+Cold Brew
+Fruit Cold Brew
+Cold Brew Latté
+Fruit Cold Brew Latté
+Caramel Cold Brew Latté
+Chocolate Cold Brew Latté
+Mint Cold Brew Latté
+Vanilla Cold Brew Latté
+Iced Cold Brew
+Iced Fruit Cold Brew
+Iced Cold Brew Latté
+Iced Fruit Cold Brew Latté
+Iced Caramel Cold Brew Latté
+Iced Chocolate Cold Brew Latté
+Iced Mint Cold Brew Latté
+Iced Vanilla Cold Brew Latté
+ColdBrew Pot
+ColdBrew Pot(Empty)
+ColdBrew Bottle
+Café Americano
+Iced Americano
+Café Americano Fruit
+Iced Americano Fruit
+Sparking Americano
+Sparking Americano Fruit
+Café Latté
+Fruit Latté
+Caramel Latté
+Chocolate Latté
+Mint Latté
+Vanilla Latté
+Iced Latté
+Iced Fruit Latté
+Iced Caramel Latté
+Iced Chocolate Latté
+Iced Mint Latté
+Iced Vanilla Latté
+Cappuccino
+Macchiato
+Mochaccino
+Iced Cappuccino
+Iced Macchiato
+Iced Mochaccino
+Green tea
+Black tea
+Sweet Milk Tea
+Mandarin Drink
+Iced Mandarin Drink
+Iced Milk Tea
+Iced Green tea
+Iced Black tea
+Instant Coffee
+Cold Brew
+Fruit Cold Brew
+Cold Brew Latté
+Fruit Cold Brew Latté
+Caramel Cold Brew Latté
+Chocolate Cold Brew Latté
+Mint Cold Brew Latté
+Vanilla Cold Brew Latté
+Iced Cold Brew
+Iced Fruit Cold Brew
+Iced Cold Brew Latté
+Iced Fruit Cold Brew Latté
+Iced Caramel Cold Brew Latté
+Iced Chocolate Cold Brew Latté
+Iced Mint Cold Brew Latté
+Iced Vanilla Cold Brew Latté
+Raw Coffee Bean Bag
+Coffee Bean Bag
+Coffee Powder Bag
+Cocoa Bean Bag
+Cocoa Powder Bag
+Flour Bag

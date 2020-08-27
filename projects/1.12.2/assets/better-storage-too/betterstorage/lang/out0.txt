@@ -1,0 +1,83 @@
+Cardboard Box
+%% Capacity
+Storage Crate
+Keyring
+Locker
+Large Locker
+Reinforced Chest
+Large Reinforced Chest
+Reinforced Locker
+Large Reinforced Locker
+Lockpicking
+Enable or disable lockpicking enchantment.
+Morphing
+Enable or disable morphing enchantment.
+Unlocking
+Enable or disable unlocking enchantment.
+Persistance
+Enable or disable persistance enchantment.
+Security
+Enable or disable security enchantment.
+Shock
+Enable or disable shock enchantment.
+Trigger
+Enable or disable trigger enchantment.
+Better Storage Too
+Copper
+Diamond
+Emerald
+Gold
+Iron
+Silver
+Steel
+Tin
+Zinc
+Cardboard Box
+Enable or disable cardboard boxes.
+Storage Crate
+Enable or disable storage crates.
+Block of Flint
+Enable or disable block of flint.
+Locked Iron Door
+Enable or disable lockable doors.\n(Requires keys enabled)
+Locker
+Enable or disable lockers.
+Reinforced Chest
+Reinforced %s Chest
+Enable or disable reinforced chests.
+Reinforced Locker
+Reinforced %s Locker
+Enable or disable reinforced lockers.\n(No effect if lockers are disabled)
+Slime in a Bucket
+Enable or disable slime buckets.
+Cardboard Axe
+Enable or disable cardboard axe.
+Cardboard Boots
+Enable or disable cardboard boots.
+Cardboard Chestplate
+Enable or disable cardboard chestplate.
+Cardboard Helmet
+Enable or disable cardboard helmet.
+Cardboard Hoe
+Enable or disable cardboard hoe.
+Cardboard Leggings
+Enable or disable cardboard leggings.
+Cardboard Pickaxe
+Enable or disable cardboard pickaxe.
+Cardboard Sheet
+Enable or disable cardboard sheets.
+Cardboard Shovel
+Enable or disable cardboard shovel.
+Cardboard Sword
+Enable or disable cardboard sword.
+Key
+Enable or disable keys.
+Keyring
+Enable or disable keyrings.\n(Requires keys enabled)
+Lock
+Enable or disable locks.\n(Requires keys enabled)
+Master Key
+Enable or disable master key.\n(Requires keys enabled)
+Contains: %s
+Contains items.
+... Plus %s more.

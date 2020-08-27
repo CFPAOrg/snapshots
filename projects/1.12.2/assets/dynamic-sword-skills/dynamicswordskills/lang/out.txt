@@ -1,0 +1,14 @@
+The most basic technique revolves around awareness of one's opponents, always keeping an enemy in sight. This is the foundation of all other combat skills, and is typically referred to as "locking on."\nConsecutive strikes while locked on build upon each other to form a "combo," each strike becoming more powerful than the last as the combo grows, provided that each strike is dealt before the timer expires. Landing a blow resets the timer for the next strike.\nThe combo ends when one of the following occurs: the maximum combo size is reached, the combo timer expires before the next successful strike, or the player suffers damage from a single source exceeding their damage tolerance.
+Max Combo Size: %d
+Damage Tolerance: %s
+Target foes and perform deadly combos
+Sword Beam
+While wielding a sword and locked on, first crouch by sneaking, then attack.
+By channeling vital energy through the sword, one can unleash a powerful attack capable of striking foes from afar.\nDamage is a percentage of the sword's attack bonus; however, the beam's attack power diminishes with each target struck.\nIn order to perform such a technique, one must be at or near full health.
+Max Missing Hearts: %f
+Shoot a powerful beam of energy
+Sword Break
+Tap 'down' or 'back' while blocking just as the foe's strike is about to land.
+A hard parry that greatly damages any weapon thus struck, while at the same blocking the attack. Like any parry, it must be well timed to be effective.
+Damage: up to %d durability
+Damage or destroy an opponent's weapon

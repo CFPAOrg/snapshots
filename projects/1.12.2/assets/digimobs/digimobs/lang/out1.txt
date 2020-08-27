@@ -1,0 +1,145 @@
+Yellow D-Power
+Light Blue D-Power
+Magenta D-Power
+Orange D-Power
+White Datalink
+Black Datalink
+Red Datalink
+Green Datalink
+Brown Datalink
+Blue Datalink
+Purple Datalink
+Cyan Datalink
+Silver Datalink
+Gray Datalink
+Pink Datalink
+Lime Datalink
+Yellow Datalink
+Light Blue Datalink
+Magenta Datalink
+Orange Datalink
+Black Xros Loader
+Red Xros Loader
+Green Xros Loader
+Brown Xros Loader
+Blue Xros Loader
+Purple Xros Loader
+Cyan Xros Loader
+Silver Xros Loader
+Gray Xros Loader
+Pink Xros Loader
+Lime Xros Loader
+Yellow Xros Loader
+Light Blue Xros Loader
+Magenta Xros Loader
+Orange Xros Loader
+White Xros Loader
+Black V-Pet
+Red V-Pet
+Green V-Pet
+Brown V-Pet
+Blue V-Pet
+Purple V-Pet
+Cyan V-Pet
+Silver V-Pet
+Gray V-Pet
+Pink V-Pet
+Lime V-Pet
+Yellow V-Pet
+Light Blue V-Pet
+Magenta V-Pet
+Orange V-Pet
+White V-Pet
+Begin Story Mode
+Packet
+D-Terminal
+Case
+Circuit Board
+LCD Screen
+Computer Chip
+Gear
+Small HP Floppy
+Medium HP Floppy
+Large HP Floppy
+Super HP Floppy
+Small EG Floppy
+Medium EG Floppy
+Large EG Floppy
+Byte
+Megabyte
+Gigabyte
+Terabyte
+Virus Data
+Dragon Chip
+Beast Chip
+Bird Chip
+Insect Chip
+Ivy Chip
+Fish Chip
+Holy Chip
+Virus Chip
+Alarm Clock
+EvoLiner
+DigiMatrix
+Viral Digivice
+Tag
+Digitear
+Digi-Core
+Corrupted Digi-Core
+Riding Glove
+Acorn
+Courage
+Friendship
+Love
+Knowledge
+Sincerity
+Reliability
+Hope
+Light
+Darkness
+Crest of Courage
+Crest of Friendship
+Crest of Love
+Crest of Knowledge
+Crest of Sincerity
+Crest of Reliability
+Crest of Hope
+Crest of Light
+Crest of Darkness
+Pokeball?
+Small Meat
+Large Meat
+Sirloin
+Moldy Meat
+Big Berry
+Golden Acorn
+Hawk Radish
+Orange Banana
+Power Fruit
+Power Ice
+Prickly Pear
+Sage Fruit
+Super Carrot
+Super Veggy
+Sweet Nut
+Grey Claws
+Blue Crystal
+Flaming Wings
+Horn Helmet
+White Wings
+Ice Crystal
+Fireball
+Water Bottle
+Red Shell
+Flaming Mane
+Black Wings
+Metal Parts
+Moon Mirror
+Fatal Bone
+Cyber Parts
+Noble Mane
+X Bandage
+Silver Ball
+Metal Armor
+Red Ruby
+Beetlepearl

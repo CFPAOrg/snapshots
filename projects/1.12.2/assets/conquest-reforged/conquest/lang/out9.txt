@@ -1,0 +1,101 @@
+Light Blue Plaster
+Dry Stone Cobble
+Elven Wall 4
+Dark Sandstone
+Harad Orange Wall
+Colorful Fishscale Cobble
+Engraved Elven Design
+Seashell Wall
+Sindarin Wall
+Sindarin Wall 1
+Sindarin Wall 2
+Sindarin Wall 3
+Sindarin Wall 4
+Sindarin Wall 5
+Engraved Elven Design 1
+Dwarven Runes Blue Schist
+Dwarven Pillar Blue Schist 1
+Dwarven Design Blue Schist
+Dwarven Pillar Blue Schist 2
+Dwarven Blue Schist Design
+Circular Carved Stone Floor
+Marble Base Design
+Marble Base Design 2
+White Plaster Design
+White Plaster Design 2
+Calcite
+Rough Calcite
+Smooth Calcite
+Ruined Stone Brick
+Plaster with Masonry Lines
+Worn Diorite Bricks
+Marble Slab
+Marble Blue Wall
+Asian Wall Design
+Cyclopean Masonry
+Dark Sandstone Brick
+Small Diorite Brick
+Mud Brick
+Poor Roman Brick
+Dark Red Sandstone
+Marble Base (Flat Model)
+Marble and Sandstone Base (Flat Model)
+Sandstone Base (Flat Model)
+none
+Engraved II
+Engraved III
+Blue Tudor Box Frame 2
+Blue Tudor Narrow Backslash Frame
+Blue Tudor Narrow Slash Frame
+Brick Fishscale
+Broken Reticulated Brick
+Engraved Conquest Symbol
+Gilded Wallpaper
+Gray Tudor Box Frame 1
+Gray Tudor Box Frame 2
+Gray Tudor Narrow Backslash Frame
+Gray Tudor Narrow Slash Frame
+Engraved J
+Layered Chalk
+Mud Tudor Box Frame 2
+Mud Tudor Narrow Backslash Frame
+Mud Tudor Narrow Slash Frame
+Peach Stucco
+Red Tudor Box Frame 2
+Red Tudor Narrow Backslash Frame
+Red Tudor Narrow Slash Frame
+Roman Brick with Peach Stucco
+Travertine Slab
+Engraved U
+Engraved W
+Wattle Tudor Box Frame 2
+Wattle Tudor Narrow Backslash Frame
+Wattle Tudor Narrow Slash Frame
+Engraved X
+Engraved Y
+Yellow Tudor Box Frame 2
+Yellow Tudor Narrow Backslash Frame
+Yellow Tudor Narrow Slash
+Engraved Z
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Plastered Stone Newel Cap
+Smooth Andesite Newel Cap
+Stone Newel Cap
+Sandstone Newel Cap
+Quartz Newel Cap
+Hewn Stone Newel Cap
+Colorful Slate Newel Cap

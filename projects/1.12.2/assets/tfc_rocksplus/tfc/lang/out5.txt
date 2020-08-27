@@ -1,0 +1,89 @@
+Jaspillite Pitchblende
+Jaspillite Cinnabar
+Jaspillite Cryolite
+Jaspillite Saltpeter
+Jaspillite Serpentine
+Jaspillite Sylvite
+Jaspillite Borax
+Jaspillite Olivine
+Jaspillite Lapis Lazuli
+Jaspillite Native Ardite
+Jaspillite Rutile
+Jaspillite Native Osmium
+Jaspillite Bauxite
+Jaspillite Wolframite
+Jaspillite Cobaltite
+Jaspillite Thorianite
+Jaspillite Chromite
+Jaspillite Pyrolusite
+Jaspillite Magnesite
+Jaspillite Spodumene
+Jaspillite Stibnite
+Jaspillite Mawsonite
+Jaspillite Beryl
+Jaspillite Zircon
+Jaspillite Villiaumite
+Jaspillite Rhodochrosite
+Jaspillite Fluorite
+Jaspillite Carobbiite
+Jaspillite Arsenic
+Jaspillite Spike 
+Jaspillite Button 
+Jaspillite Rock
+Jaspillite Brick
+Raw Jaspillite
+Smooth Jaspillite
+Jaspillite Cobble
+Jaspillite Bricks
+Jaspillite Sand
+Jaspillite Gravel
+Jaspillite Dirt
+Jaspillite Clay
+Jaspillite Grass
+Jaspillite Dry Grass
+Jaspillite Clay Grass
+Jaspillite Path
+Jaspillite FarmLand
+Smooth Jaspillite Stairs
+Jaspillite Cobble Stairs
+Jaspillite Bricks Stairs
+Smooth Jaspillite Slab
+Jaspillite Cobble Slab
+Jaspillite Bricks Slab
+Smooth Jaspillite Double Slab
+Cobble Jaspillite Double Slab
+Bricks Jaspillite Double Slab
+Smooth Jaspillite Wall
+Jaspillite Cobble Wall
+Jaspillite Bricks Wall
+Travertine Native Copper
+Travertine Native Gold
+Travertine Native Platinum
+Travertine Hematite
+Travertine Native Silver
+Travertine Cassiterite
+Travertine Galena
+Travertine Bismuthinite
+Travertine Garnierite
+Travertine Malachite
+Travertine Magnetite
+Travertine Limonite
+Travertine Sphalerite
+Travertine Tetrahedrite
+Travertine Bituminous Coal
+Travertine Lignite
+Travertine Kaolinite
+Travertine Gypsum
+Travertine Satinspar
+Travertine Selenite
+Travertine Graphite
+Travertine Kimberlite
+Travertine Petrified Wood
+Travertine Sulfur
+Travertine Jet
+Travertine Microcline
+Travertine Pitchblende
+Travertine Cinnabar
+Travertine Cryolite
+Travertine Saltpeter
+Travertine Serpentine

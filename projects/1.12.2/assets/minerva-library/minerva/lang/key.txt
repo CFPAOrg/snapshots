@@ -1,0 +1,6 @@
+gui.mvguicfg.pick
+gui.mvguicfg.orig
+gui.mvguicfg.hide
+gui.mvguicfg.size
+gui.mvguicfg.close
+minerva.config_gui

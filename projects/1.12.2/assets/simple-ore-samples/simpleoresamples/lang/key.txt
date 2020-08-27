@@ -1,0 +1,3 @@
+oresample.hidden
+oresample.generic
+oresample.unknown_ore

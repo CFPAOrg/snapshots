@@ -1,0 +1,9 @@
+item.Mobball_empty.name
+item.Mobball.name
+item.mobseeds.name
+item.strange_fruit.name
+itemGroup.MobCrops
+tile.cropsmaker.name
+item.basic_catalyst.name
+item.upgrade_catalyst.name
+container.machine

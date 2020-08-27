@@ -1,0 +1,129 @@
+DivineRPG: Blocks
+DivineRPG: Ranged Weapons
+DivineRPG: Melee Weapons
+DivineRPG: Tools
+DivineRPG: Raw Materials
+DivineRPG: Armor
+DivineRPG: Spawner
+DivineRPG: Utility
+DivineRPG: Food and Agriculture
+DivineRPG: Vethea
+Divine Sapling
+Rupee Ore
+Arlemite Ore
+Realmite Ore
+Bloodgem Ore
+Netherite Ore
+Rupee Block
+Arlemite Block
+Realmite Block
+Bloodgem Block
+Netherite Block
+Spider Pumpkin
+Ender Pumpkin
+Creeper Pumpkin
+Skeleton Pumpkin
+Blaze Pumpkin
+Zombie Pumpkin
+Frost Pumpkin
+Cyclops Pumpkin
+Ghast Pumpkin
+Glacon Pumpkin
+Ender Watcher Pumpkin
+Jungle Spider Pumpkin
+Hellspider Pumpkin
+Aqua Torch
+Skeleton Torch
+Checker
+Rainbow Wool
+Crate
+Plank Design
+Blue Stone
+Blue Vane
+Cyan Vane
+Purple Vane
+Red Vane
+Yellow Vane
+Divine Rock
+Smoldering Tar
+Asphalt
+Fancy Wool
+Teal Steel
+Red Steel
+Purple Steel
+Green Steel
+Yellow Steel
+Blue Steel
+White Steel
+Black Steel
+Orange Steel
+Bright Red Steel
+Aquatonic Bricks
+Arlemite Bricks
+Darkstone Bricks
+Diamond Bricks
+Gold Bricks
+Green Bricks
+Iron Bricks
+Lapis Lazuli Bricks
+Lava Bricks
+Netherite Bricks
+Pink Bricks
+Purple Bricks
+Realmite Bricks
+Redstone Bricks
+Eden Bricks
+Wildwood Bricks
+Apalachia Bricks
+Skythern Bricks
+Milk Stone Bricks
+Rupee Minibricks
+Realmite Minibricks
+Arlemite Minibricks
+Minibricks
+Bloodgem Minibricks
+Netherite Minibricks
+Bedrock Minibricks
+Aqua Lamp
+Arlemite Lamp
+Blaze Lamp
+Bluefire Lamp
+Diamond Lamp
+Divine Lamp
+Draken Lamp
+Eden Lamp
+Ender Lamp
+Ender Stone Lamp
+Gold Lamp
+Ice Lamp
+Jungle Lamp
+Kraken Lamp
+Lapis Lazuli Lamp
+Lava Lamp
+Milky Lamp
+Molten Lamp
+Netherite Lamp
+Realmite Lamp
+Redstone Ore Lamp
+Rupee Lamp
+Terran Lamp
+Milk Stone
+Darkstone
+Spike Block
+Hot Spike Block
+Slime Light
+Dark Bridge
+Blue Fence
+Red Fence
+Green Fence
+Blue Fence
+Red Fence
+Green Fence
+Ayeraco Spawn
+Sunstorm Statue
+Termasect Statue
+King of Scorchers Statue
+Ancient Entity Statue
+Blue Ayeraco Statue
+Red Ayeraco Statue
+Green Ayeraco Statue

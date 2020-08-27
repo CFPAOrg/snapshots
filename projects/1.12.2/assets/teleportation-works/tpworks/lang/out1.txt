@@ -1,0 +1,41 @@
+When cycling through Teleport Beacon destinations, include same beacon as an option.
+Rail Cooldown Time
+Cooldown time (in ticks) after a Teleport Rail teleports a minecart, during which it will not teleport another cart.
+Rails Can Send To Beacons
+When cycling through Teleport Rail destinations, include saved Teleport Beacons.
+World Settings
+General settings for how this mod affects your world
+Add Items to Spawn Chest
+Add basic Teleportation items to Spawn Chest. Must set BEFORE generating a new world.
+Crafting Difficulty
+HARD difficulty requires an Eye of Ender instead of an Ender Pearl in wands and beacons.
+Teleportation Works
+/td <list | # | prev | next | delete> <# | beacons | rails | invalid>
+Must include teleport destination number
+You have no valid teleport destinations in your network
+There are no teleport destinations of type %s in your network
+%s is an invalid teleport destination number in your network
+Active teleport destination: %s
+Teleport destination %s REMOVED from your network
+Cannot remove Overworld spawn bed - this is a fixed teleport destination
+All teleport blocks REMOVED from your network
+Teleport beacon %s ADDED to your network
+Teleport beacon %s REMOVED from your network
+Teleport beacon: %s has no destination
+Teleport beacon: %s teleports to %s
+Teleport beacon: %s FOUND in your network
+Teleport destination CLEARED
+No teleport destination set
+No viable teleport destinations available in your network
+INVALID teleport block: %s REMOVED from your network
+Teleport destination SET to %s
+No teleport destination set for dispenser
+Dispenser teleports to: %s
+Teleport destination network full (limit: %s)
+Teleport rail %s ADDED to your network
+Teleport rail %s REMOVED from your network
+Teleport rail: %s has no destination
+Teleport rail: %s teleports to %s
+Teleport rail: %s FOUND in your network
+Eye of Ender Shard
+Bow of Teleportation

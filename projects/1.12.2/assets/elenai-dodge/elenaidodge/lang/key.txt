@@ -1,0 +1,10 @@
+key.elenaidodge.dodge
+effect.can_dodge
+effect.can_dodge_airborne
+effect.cannot_dodge
+reskillable.unlock.elenaidodge.dodgetrait
+reskillable.unlock.elenaidodge.dodgetrait.desc
+reskillable.unlock.elenaidodge.wallgrabtrait
+reskillable.unlock.elenaidodge.wallgrabtrait.desc
+reskillable.unlock.elenaidodge.walljumptrait
+reskillable.unlock.elenaidodge.walljumptrait.desc

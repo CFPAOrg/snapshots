@@ -1,0 +1,23 @@
+You are K.O.
+Accept your Fate
+Press %s to open death screen.
+%d seconds left to be rescued
+Rescuing %s
+%1$s was not rescued in time
+Send Ping
+Max Death Ticks
+The time in ticks in which a player can still be rescued from death. 20 ticks are one second.
+TeamUp Integration
+Requires TeamUp mod. This makes Team Up's chat features work on the death screen as well.
+Ping Integration
+Requires Ping mod. This adds a 'Send Ping' button to the death screen.
+Auto Ping on Death
+Requires Ping Compatibility to be enabled. Automatically sends a ping upon your death.
+Max Rescue Distance
+The distance at which a player can rescue another.
+Rescue Time
+The time in ticks it takes to rescue a player. 20 ticks are one second.
+Rescue Respawn Health
+The amount of health to respawn with when a player was rescued, out of 20.
+Rescue Respawn Food Level
+The food level to respawn with when a player was rescued, out of 20.

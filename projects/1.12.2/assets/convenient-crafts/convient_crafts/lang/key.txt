@@ -1,0 +1,9 @@
+item.coalnugget.name
+item.leatherpiece.name
+item.diamondnuggets.name
+item.blankdisc.name
+tile.compressedcoalblock.name
+item.chainlink.name
+item.rottenball.name
+advancements.bedrockadv.title
+advancements.bedrockadv.descr

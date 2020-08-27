@@ -1,0 +1,16 @@
+effect.sticky
+tile.orangegeldropper.name
+tipped_arrow.effect.sticky
+lingering_potion.effect.sticky
+tile.bluegel.name
+splash_potion.effect.sticky
+entity.orangegelmass.name
+tile.bluegelsphere.name
+tile.purplegel.name
+tile.purplegelroof.name
+tile.bluegeldropper.name
+tile.orangegelspher.name
+itemGroup.tabportalgels
+entity.bluegelmass.name
+potion.effect.sticky
+tile.orangegel.name

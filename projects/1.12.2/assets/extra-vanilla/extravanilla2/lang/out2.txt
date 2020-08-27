@@ -1,0 +1,115 @@
+Hardened Leather Tunic
+Hardened Leather Leggings
+Hardened Leather Boots
+Hardened Leather
+Prismarine Helmet
+Prismarine Chestplate
+Prismarine Leggings
+Prismarine Boots
+Glowstone Helmet
+Glowstone Chestplate
+Glowstone Leggings
+Glowstone Boots
+Oak Helmet
+Oak Chestplate
+Oak Leggings
+Oak Boots
+Birch Helmet
+Birch Chestplate
+Birch Leggings
+Birch Boots
+Dark Oak Helmet
+Dark Oak Chestplate
+Dark Oak Leggings
+Dark Oak Boots
+Jungle Helmet
+Jungle Chestplate
+Jungle Leggings
+Jungle Boots
+Acacia Helmet
+Acacia Chestplate
+Acacia Leggings
+Acacia Boots
+Spruce Helmet
+Spruce Chestplate
+Spruce Leggings
+Spruce Boots
+Brown Villager Robe
+Brown Villager Sleeves
+White Villager Robe
+White Villager Sleeves
+Green Villager Robe
+Green Villager Sleeves
+Purple Villager Robe
+Purple Villager Sleeves
+Villager Shoes
+Big Redstone Sword
+Big Active Redstone Sword
+Big Lapis Sword
+Big Emerald Sword
+Big Wooden Sword
+Big Iron Sword
+Big Golden Sword
+Big Stone Sword
+Big Diamond Sword
+Big Obsidian Sword
+Big Netherite Sword
+Big Nether Sword
+Redstone Battleaxe
+Active Redstone Battleaxe
+Obsidian Battleaxe
+Lapis Battleaxe
+Emerald Battleaxe
+Diamond Battleaxe
+Golden Battleaxe
+Iron Battleaxe
+Stone Battleaxe
+Wooden Battleaxe
+Netherite Battleaxe
+Nether Battleaxe
+Andesite Sword
+Andesite Axe
+Andesite Pickaxe
+Andesite Shovel
+Andesite Hoe
+Andesite Battleaxe
+Big Andesite Sword
+Granite Sword
+Granite Axe
+Granite Pickaxe
+Granite Shovel
+Granite Hoe
+Granite Battleaxe
+Big Granite Sword
+Diorite Sword
+Diorite Axe
+Diorite Pickaxe
+Diorite Shovel
+Diorite Hoe
+Diorite Battleaxe
+Big Diorite Sword
+Birch Sword
+Birch Axe
+Birch Pickaxe
+Birch Shovel
+Birch Hoe
+Big Birch Sword
+Birch Battleaxe
+Spruce Sword
+Spruce Axe
+Spruce Pickaxe
+Spruce Shovel
+Spruce Hoe
+Big Spruce Sword
+Spruce Battleaxe
+Acacia Sword
+Acacia Axe
+Acacia Pickaxe
+Acacia Shovel
+Acacia Hoe
+Big Acacia Sword
+Acacia Battleaxe
+Dark Oak Sword
+Dark Oak Axe
+Dark Oak Pickaxe
+Dark Oak Shovel

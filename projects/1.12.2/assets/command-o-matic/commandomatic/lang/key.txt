@@ -1,0 +1,6 @@
+commandomatic.commands.enchant.usage
+commandomatic.commands.enchant.set
+commandomatic.commands.enchant.add
+commandomatic.commands.enchant.clear
+commandomatic.commands.enchant.notenchanted
+commandomatic.commands.publish.usage

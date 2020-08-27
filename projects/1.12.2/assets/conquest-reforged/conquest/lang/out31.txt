@@ -1,0 +1,75 @@
+Dark Cobblestone Balustrade
+Dark Cobble Sandstone Balustrade
+Light Mortar Slate Balustrade
+White Plaster Balustrade
+none
+Clean Light Gray Stucco Balustrade
+Clean Yellow Stucco Balustrade
+Clean White Plaster Balustrade
+Large Amphora
+Hewn Stone Tiles Balustrade
+Plastered Stone Tiles Balustrade
+Dry Stone Cobble Balustrade
+Dark Sandstone Balustrade
+Harad Orange Wall Balustrade
+Seashell Wall Balustrade
+Jam Jars
+ Balustrade
+Peach Stucco Balustrade
+Travertine Slab Balustrade
+ Balustrade
+Plastered Stone Capital
+Hewn Stone Capital
+Colorful Slate Capital
+Old Cobblestone Capital
+Frozen Cobblestone Capital
+Dirty Fishscale Cobblestone Capital
+Stucco Capital
+Overgrown Cobblestone Capital
+Cobblestone with Vines Capital
+Calcite Capital
+Portcullis Groove Capital
+Big Nether Brick Capital
+Carved Nether Brick Capital
+Red Tiles Capital
+Dark Iron Capital
+Smooth Calcite Capital
+Ruined Stone Brick Capital
+Dark Sandstone Brick Capital
+Small Diorite Brick Capital
+Mud Brick Capital
+Poor Roman Capital
+Dark Red Sandstone Capital
+none
+Sandstone Cornice Capital
+Sandstone Base Column Capital
+Marble and Sandstone Base Capital
+Marble Cornice Block Capital
+Marble Base Capital
+Smooth White Marble Capital
+none
+Large Marble Slab (No Side CTM) Capital
+Large Sandstone Slab (No Side CTM) Capital
+Large Sandstone Inscribed Slab (No Side CTM) Capital
+Big Black Slab (No Side CTM) Capital
+Big Black Slab Inscribed (No Side CTM) Capital
+Diorite Brick Capital
+Travertine Brick Capital
+Big Sandstone Brick Capital
+Sandstone Cobble Capital
+Mossy Sandstone Capital
+Sandstone Frieze Capital
+Sandstone Brick Capital
+Rusty Iron Block Capital
+Mossy Brick Capital
+Dark Red Brick Capital
+Mossy Dark Red Brick Capital
+Red Brick Capital
+Mossy Red Brick Capital
+Roman Brick Capital
+White Stucco Capital
+Tan Stucco Capital
+Brown Stucco Capital
+Gilded Bronze Block Capital
+Polished Granite Capital
+Polished Diorite Capital

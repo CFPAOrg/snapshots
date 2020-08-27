@@ -1,0 +1,71 @@
+Highway Floor Driveway East-West-East-side
+Highway Floor Driveway East-West-West-side
+Highway Floor Driveway & Exit East-West-East-side
+Highway Floor Driveway & Exit East-West-West-side
+Highway Floor Driveway & Exit North-South-North-side
+Highway Floor Driveway & Exit North-South-South-side
+Highway Floor Driveway North-South-North-side
+Highway Floor Driveway North-South-South-side
+Highway Floor Exit East-West-East-side
+Highway Floor Exit East-West-West-side
+Highway Floor Exit North-South-North-side
+Highway Floor Exit North-South-South-side
+Highway Floor L North-East
+Highway Floor L North-West
+Highway Floor L South-East
+L South-West
+Highway Floor T North-East-West
+Highway Floor T North-South-East
+Highway Floor T North-South-West
+Highway Floor T South-East-West
+Highway Floor X
+Highway L North-East
+Highway L North-West
+Highway L South-East
+Highway L South-West
+Highway T North-East-West
+Highway T North-South-East
+Highway T North-South-West
+Highway T South-East-West
+Highway X
+Connector Hightram <> Tram - Hightram East [] Tram West
+Connector Hightram <> Tram - Hightram North [] Tram South
+Connector Hightram <> Tram - Hightram South [] Tram North
+Connector Hightram <> Tram - Hightram West [] Tram East
+Hightram 1 East-West
+Hightram 1 North-South
+Hightram E East
+Hightram E North
+Hightram E South
+Hightram E West
+Hightram L North-East
+Hightram L North-West
+Hightram L South-East
+Hightram L South-West
+Hightram Station East-West
+Hightram Station North-South
+Hightram X
+Tram 1 East-West
+Tram 1 North-South
+Tram E East
+Tram E North
+Tram E South
+Tram E West
+Tram L North-East
+Tram L North-West
+Tram L South-East
+Tram L South-West
+Track 1 East-West
+Track 1 North-South
+Track E East
+Track E North
+Track E South
+Track E West
+Track L North-East
+Track L North-West
+Track L South-East
+Track L South-West
+Tram Station East-West
+Tram Station North-South
+Tram X
+Road 1 East-West

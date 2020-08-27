@@ -1,0 +1,7 @@
+Switching button
+Enable automatic trading
+Disable automatic trading
+Add this merchant to\nautomatic trading list
+Remove this merchant\nfrom automatic trading list
+Only automatic trading at this price
+Unlock the price

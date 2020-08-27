@@ -1,0 +1,16 @@
+item.ingot_copper.name
+item.check.name
+tile.ore_copper.name
+tile.shop.name
+tile.seller.name
+tile.atm.name
+tile.buyer.name
+itemGroup.adminshop
+buttontext.buy
+error.buy.storeFormat
+error.sell.storeFormat
+rateTick
+rateSec
+rateMin
+isItem
+isFluid

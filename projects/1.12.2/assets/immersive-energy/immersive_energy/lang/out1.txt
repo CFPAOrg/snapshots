@@ -1,0 +1,10 @@
+The §lPortable Solar Panel§r is a small, but complex machine. It uses the <link;solar_panel;§o§nSolar_Panel_Array§r;0> to generate power, and the stores it in the base. The base also functions as a connector allowing for LV and MV cables to be connected. Should it stop producing power, any stored will slowly be lost. There are various factors that change the output: time of day, height, weather, and biome. 
+Due to the delicate nature of the <link;solar_panel;§o§nSolar_Panel_Array§r;0>, the §lPortable Solar Panel§r can't be hand crafted. Thankfully, the base is sturdy enough that, in the event that the block under it breaks, the §lPortable Solar Panel§r won't be damaged.
+Biome Modifiers:
+Hefty Wrench
+Percussive Maintenance
+The §lHefty Wrench§r is a mid game alternative to the hammer and can be used to rotate blocks, form multiblocks, and configure sides, while also functioning as a weapon, though at the cost of not being able to make plates or grit. A fully charged attack from it is capable of disabling shields similar to an axe.
+The §lHefty Wrench§r requires a dedicated blueprint to craft, the same blueprint is used to craft the <link;hefty_wrench;§o§nUpgrades§r;2>.
+There are three main §lUpgrades§r, §lElectric§r, §lThermal§r, and §lMagical§r.<br>The §lElectric Upgrade§r shocks enemies dealing an extra 6 electric damage, and shocking the target for a short while. Anyone wearing some form of <link;teslaCoil;§o§nFaraday_Suit§r;2> will be immune to this extra damage.
+The §lThermal Upgrade§r deals an extra 2 fire damage, setting them on fire for 4 seconds.<br>The §lMagical Upgrade§r deals an extra 4 magic damage, piercing most armor. Each of them will add 1600 energy storage, and will require that amount of energy to work.
+There's also a §lCapacitor Addon§r, which adds an extra 28800 to energy storage. With Immersive Intelligence, this also allows the §lHefty Wrench§r to function as an §lAdvanced Hammer§r and form advanced multiblocks.

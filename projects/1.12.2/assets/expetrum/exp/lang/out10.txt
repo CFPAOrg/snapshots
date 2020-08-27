@@ -1,0 +1,129 @@
+Unfinished Bronze Boots
+Unfinished Bismuth Bronze Helmet
+Unfinished Bismuth Bronze Chestplate
+Unfinished Bismuth Bronze Greaves
+Unfinished Bismuth Bronze Boots
+Unfinished Leaded Bronze Helmet
+Unfinished Leaded Bronze Chestplate
+Unfinished Leaded Bronze Greaves
+Unfinished Leaded Bronze Boots
+Unfinished Manganese Bronze Helmet
+Unfinished Manganese Bronze Chestplate
+Unfinished Manganese Bronze Greaves
+Unfinished Manganese Bronze Boots
+Unfinished Rose Alloy Helmet
+Unfinished Rose Alloy Chestplate
+Unfinished Rose Alloy Greaves
+Unfinished Rose Alloy Boots
+Unfinished Iron Helmet
+Unfinished Iron Chestplate
+Unfinished Iron Greaves
+Unfinished Iron Boots
+Unfinished Steel Helmet
+Unfinished Steel Chestplate
+Unfinished Steel Greaves
+Unfinished Steel Boots
+Unfinished Tool Steel Helmet
+Unfinished Tool Steel Chestplate
+Unfinished Tool Steel Greaves
+Unfinished Tool Steel Boots
+Light Backpack
+Traveler's Backpack
+Water Bottle
+Salt Water Bottle
+Milk Bottle
+Juice Bottle
+Olive Oil Bottle
+Walnut Oil Bottle
+Brine Bottle
+Tannin Bottle
+Oil Bottle
+Amethyst
+Aquamarine
+Diamond
+Emerald
+Lapis
+Onyx
+Opal
+Peridot
+Ruby
+Sapphire
+Topaz
+Tourmaline
+Turquoise
+Zircon
+Tin
+Barium
+Copper
+Aluminum
+Chromium
+Cobalt
+Tantalum
+Magnesium
+Lead
+Gold
+Iron
+Titanium
+Molybdenum
+Nickel
+Manganese
+Tungsten
+Platinum
+Zinc
+Uranium
+Bismuth
+Silver
+Iridium
+Osmium
+Bronze
+Bismuth Bronze
+Leaded Bronze
+Brass
+Manganese Bronze
+Aluminum Bronze
+Sterling Silver
+Electrum
+Sterling Platinum
+Invar
+Cast Iron
+Pig Iron
+Steel
+HSLA Steel
+Stainless Steel
+Tool Steel
+Solder
+Alnico
+Duralumin
+Rose Alloy
+Nichrome
+Vitallium
+Unknown Alloy
+Cold
+Warm ☐☐☐☐
+Warm ☑☐☐☐
+Warm ☑☑☐☐
+Warm ☑☑☑☐
+Warm ☑☑☑☑
+Hot ☐☐☐☐
+Hot ☑☐☐☐
+Hot ☑☑☐☐
+Hot ☑☑☑☐
+Hot ☑☑☑☑
+Very Hot ☐☐☐☐
+Very Hot ☑☐☐☐
+Very Hot ☑☑☐☐
+Very Hot ☑☑☑☐
+Very Hot ☑☑☑☑
+Brown ☐☐☐☐
+Brown ☑☐☐☐
+Brown ☑☑☐☐
+Brown ☑☑☑☐
+Brown ☑☑☑☑
+§4Red ☐☐☐☐
+§4Red ☑☐☐☐
+§4Red ☑☑☐☐
+§4Red ☑☑☑☐
+§4Red ☑☑☑☑
+§6Orange ☐☐☐☐
+§6Orange ☑☐☐☐
+§6Orange ☑☑☐☐

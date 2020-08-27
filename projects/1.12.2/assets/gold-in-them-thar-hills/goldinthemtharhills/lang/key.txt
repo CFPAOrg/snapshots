@@ -1,0 +1,4 @@
+tile.goldinthemtharhills.sluice.name
+tile.goldinthemtharhills.iron_sluice.name
+item.goldinthemtharhills.gold_pan.name
+itemGroup.gitth

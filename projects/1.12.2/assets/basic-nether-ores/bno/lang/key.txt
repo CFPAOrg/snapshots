@@ -1,0 +1,16 @@
+itemGroup.basicnetherorestab
+item.nugget_Copper.name
+item.nugget_Tin.name
+item.ingot_Copper.name
+item.ingot_Tin.name
+tile.block_copper.name
+tile.block_tin.name
+tile.ore_netheremerald.name
+tile.ore_netherdiamond.name
+tile.ore_netherredstone.name
+tile.ore_netherlapis.name
+tile.ore_nethercoal.name
+tile.ore_nethergold.name
+tile.ore_netheriron.name
+tile.ore_nethertin.name
+tile.ore_nethercopper.name

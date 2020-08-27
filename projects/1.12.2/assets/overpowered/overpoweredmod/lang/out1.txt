@@ -1,0 +1,60 @@
+Ring
+Ring
+Ring
+Ring
+Tin Ingot
+Copper Ingot
+Aluminum Ingot
+Steel Ingot
+Bronze Ingot
+Silver Ingot
+Platinum Ingot
+Titanium Ingot
+Tin Block
+Copper Block
+Aluminum Block
+Steel Block
+Bronze Block
+Silver Block
+Platinum Block
+Titanium Block
+Tin Ore
+Copper Ore
+Aluminum Ore
+Silver Ore
+Platinum Ore
+Titanium Ore
+Iron Plate
+Gold Plate
+Tin Plate
+Copper Plate
+Aluminum Plate
+Steel Plate
+Bronze Plate
+Silver Plate
+Platinum Plate
+Titanium Plate
+Black Holes are not allowed in this Dimension.
+§5Singularity Event§r detected at coordinates: %s , %1$s , %2$s
+Lens
+Rotate
+Error
+Invalid
+Invalid Shape
+Normal
+Obstructed
+No Bridge
+No Lens
+Off
+Activated
+Input
+Max Extract
+Overpowered Tools have 3x the durability of Diamond tools, and are generally faster and stronger. Overpowered tools cannot be enchanted.
+Void Tools are still being worked on. Although they currently have 5x the durability of Diamond tools, they are not faster or stronger. Void tools cannot be enchanted.
+The Generator is the primary means of generating Energy. You can insert either an Energy Crystal, Energy Crystal Shards, or a Light Block. Each generate Energy at different rates.
+Data Cable is used in the construction of the Portal and the construction of the Fusion Energy structure, as well as some crafting recipes.
+The Gem Converter, as the name implies, allows you to convert one gem type to another. This machine works with Ruby, Topaz, Citrine, Emerald, Diamond, Sapphire, Amethyst, and Quartz.
+This machine will transform Energy Crystals into Void Crystals, and transforms Void Crystals into Energy Crystals.
+Insert a Book and a type of gem, and this machine will enchant the Book. The enchantment you get depends on the gem type.
+Monsters will occasionally drop an unidentified item. Insert those items into this machine and it will identify them for you.
+The Portal Control Panel is the machine that generates the Portal to the Unknown Dimension. It must be connected to the main Portal Frame using Data Cable.

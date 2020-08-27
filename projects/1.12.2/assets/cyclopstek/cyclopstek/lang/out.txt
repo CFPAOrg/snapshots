@@ -1,0 +1,4 @@
+Cyclops Eye
+Cyclops
+%s was melted by Cyclop's eye beam
+Beacon Eye

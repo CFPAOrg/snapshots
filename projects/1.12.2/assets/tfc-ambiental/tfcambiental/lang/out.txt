@@ -1,0 +1,2 @@
+%1$s froze to death.
+%1$s died of heatstroke.

@@ -1,0 +1,5 @@
+teleportingxp.config.title
+teleportingxp.general.prioritizenoncreative
+teleportingxp.general.prioritizenoncreative.tooltip
+teleportingxp.general.ignoregamerule
+teleportingxp.general.ignoregamerule.tooltip

@@ -1,0 +1,37 @@
+mnxemeralds
+Emerald Nugget
+Emerald Nugget Dust
+Emerald Axe
+Emerald Pickaxe
+Emerald Hoe
+Emerald Shovel
+Emerald Sword
+§bEmerald Nugget Apple
+§dEmerald Super Apple
+§bEmerald Nugget Carrot
+§dEmerald Super Block
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+§bEmerald Block Axe
+§bEmerald Block Pickaxe
+§bEmerald Block Hoe
+§bEmerald Block Shovel
+§bEmerald Block Sword
+§bEmerald Block Helmet
+§bEmerald Block Chestplate
+§bEmerald Block Leggings
+§bEmerald Block Boots
+§dEmerald Super Axe
+§dEmerald Super Pickaxe
+§dEmerald Super Shovel
+§dEmerald Super Hoe
+§dEmerald Super Sword
+§dEmerald Super Helmet
+§dEmerald Super Chestplate
+§dEmerald Super Leggings
+§dEmerald Super Boots
+Emerald Fence
+Emerald Slab
+Emerald Stairs

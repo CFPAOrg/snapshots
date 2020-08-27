@@ -1,0 +1,16 @@
+death.attack.torched
+death.attack.torchedSelf
+death.attack.torchedRand
+death.attack.torchedFire
+death.attack.torchedFireSelf
+death.attack.rpt
+death.attack.rptSelf
+death.attack.rptRand
+item.torched.torchgun.name
+item.torched.torchrocket.name
+item.torched.torchfirework.name
+item.torched.torchlauncher.name
+entity.torchEnt.name
+entity.torchFireworkEnt.name
+subtitles.torched.firingrpt
+subtitles.torched.firingtorchgun

@@ -1,0 +1,15 @@
+Steam Output: %sMB/t
+Usage: /gregtech <worldgen/util>
+Usage: /gregtech worldgen <reload>
+Usage: /gregtech worldgen reload
+Worldgen successfully reloaded from config.
+Worldgen reload failed. Check console for errors.
+Usage: /gregtech util <hand>
+Usage: /gregtech util hand
+Item: %s (Metadata: %d)
+Electric Info: %d / %d EU - Tier: %d; Is Battery: %s
+Fluid Info: %s %d / %dMB; Can Fill: %s; Can Drain: %s
+Ore Prefix: %s; Material: %s
+Tool Stats Class: %s
+Meta Item Name: %s
+This command is only usable by a player.

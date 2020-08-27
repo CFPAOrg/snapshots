@@ -1,0 +1,14 @@
+Mystic Code
+The Mystic Code is an item which holds three stacks of scrolls. Shift right click opens the inventory. The keybind %%k switches between the scrolls. Clicking or holding right click uses the currently selected scroll.
+Mystic Code - First Sorcery
+The Mystic Code - First Sorcery is a variant of the mystic code, which has a set durability, but also allows for the reuse of scrolls it contains.
+Mahoujin Projector
+The Mahoujin Projector is a decorative block, which simply displayes runes and a magic circle. Right clicking on the block allows you to configure the size, angle, color, speed, etc. You can load in custom circles and runes through the config.
+Mana Circuits
+Mana Circuits are blocks which store mana. Mana in them can be used by the player when nearby, as long as the player owns the block. Whoever right clicks a mana circuit first after it is placed owns the block. Right click to put mana in. Shift right click to turn it on or off.
+Boundaries
+Boundaries are a category of AOE spells which operate in a radius around a placed circle, and drain mana on a fixed basis. You can turn them on and off by right clicking them. A redstone signal will also invert their on/off status. %%n%%nBoundaries give off comparator output - 0 when off, 1 when on. %%n%%nLastly, boundary scrolls can be used to quickly place boundaries in another location.
+Kodoku
+Kodoku refers to the practice of encouraging conflict between a number living things, and then harnessing the strongest surviving thing's essence for power using special Kodoku worms. %%n %%nEvery time a monster kills something, their kodoku value goes up by 1, plus the kodoku value of the monster it killed. When you have a specimen with a high kodoku value, simply place a hungry kodoku worm on it (right-click) and kill the specimen.
+Kodoku (cont.)
+When a worm consumes the essence of a mob with a high kodoku value, you can simply right-click to pick it up. Worms with high kodoku values have a number of uses. %%n %%nWhen burned, these worms will generate mana for any nearby mana circuits. The amount of mana depends on how close to a leyline the burning occurred. %%n%%nThese worms can also be used for sympathetic magic.

@@ -1,0 +1,7 @@
+Protects against High Pressure Atmospheres
+Broken %1$s
+Upgrade Base
+Carbonsilk
+Ceramic
+Ceramic Ingot
+Carbonsilk Reinforced Ceramic Ingot

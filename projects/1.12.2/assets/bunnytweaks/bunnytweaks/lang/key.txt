@@ -1,0 +1,13 @@
+itemGroup.tabBunnyTweaks
+key.categories.bunnytweaks
+item.poptart.name
+item.morganite.name
+tile.marble_block.name
+tile.morganite_block.name
+item.morganite_sword.name
+item.morganite_shovel.name
+item.morganite_pickaxe.name
+item.morganite_axe.name
+item.morganite_hoe.name
+entity.bunny.name
+item.yuno_katana.name

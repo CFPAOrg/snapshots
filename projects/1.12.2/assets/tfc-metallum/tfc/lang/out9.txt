@@ -1,0 +1,103 @@
+Javelin Invar
+Invar Javelin Head
+Javelin Head Invar
+Invar Hammer
+Hammer Invar
+Invar Hammer Head
+Hammer Head Invar
+Invar Prospector's Pickaxe
+Propick Invar
+Invar Prospector's Pickaxe Head
+Propick Head Invar
+Invar Knife
+Knife Invar
+Invar Knife Blade
+Knife Blade Invar
+Invar Scythe
+Scythe Invar
+Invar Scythe Blade
+Scythe Blade Invar
+Invar Shears
+Shears Invar
+Invar Unfinished Chestplate
+Unfinished Chestplate Invar
+Invar Chestplate
+Chestplate Invar
+Invar Unfinished Greaves
+Unfinished Greaves Invar
+Invar Greaves
+Greaves Invar
+Invar Unfinished Boots
+Unfinished Boots Invar
+Invar Boots
+Boots Invar
+Invar Unfinished Helmet
+Unfinished Helmet Invar
+Invar Helmet
+Helmet Invar
+Invar Shield
+Molten Aluminium
+Aluminium Ingot
+Unshaped Aluminium
+Aluminium Double Ingot
+Double Ingot Aluminium
+Aluminium Scrap
+Scrap Aluminium
+Aluminium Dust
+Dust Aluminium
+Aluminium Nugget
+Nugget Aluminium
+Aluminium Sheet
+Sheet Aluminium
+Aluminium Double Sheet
+Double Sheet Aluminium
+Aluminium Anvil
+Anvil Aluminium
+Aluminium Tuyere
+Tuyere Aluminium
+Aluminium Lamp
+%s Aluminium Lamp
+Lamp Aluminium
+Aluminium Pickaxe
+Pick Aluminium
+Aluminium Pickaxe Head
+Pick Head Aluminium
+Aluminium Shovel
+Shovel Aluminium
+Aluminium Shovel Head
+Shovel Head Aluminium
+Aluminium Axe
+Axe Aluminium
+Aluminium Axe Head
+Axe Head Aluminium
+Aluminium Hoe
+Hoe Aluminium
+Aluminium Hoe Head
+Hoe Head Aluminium
+Aluminium Chisel
+Chisel Aluminium
+Aluminium Chisel Head
+Chisel Head Aluminium
+Aluminium Sword
+Sword Aluminium
+Aluminium Sword Blade
+Sword Blade Aluminium
+Aluminium Mace
+Mace Aluminium
+Aluminium Mace Head
+Mace Head Aluminium
+Aluminium Saw
+Saw Aluminium
+Aluminium Saw Blade
+Saw Blade Aluminium
+Aluminium Javelin
+Javelin Aluminium
+Aluminium Javelin Head
+Javelin Head Aluminium
+Aluminium Hammer
+Hammer Aluminium
+Aluminium Hammer Head
+Hammer Head Aluminium
+Aluminium Prospector's Pickaxe
+Propick Aluminium
+Aluminium Prospector's Pickaxe Head

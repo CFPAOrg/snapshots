@@ -1,0 +1,14 @@
+itemGroup.bedrockminerTab
+tile.bedrock_infused_obsidian.name
+tile.bedrock_breaker.name
+tile.bedrock_breaker_on.name
+item.bedrock_chunk.name
+item.bedrock_sword.name
+item.bedrock_shovel.name
+item.bedrock_pickaxe.name
+item.bedrock_axe.name
+item.bedrock_hoe.name
+item.bedrock_helmet.name
+item.bedrock_chestplate.name
+item.bedrock_leggings.name
+item.bedrock_boots.name

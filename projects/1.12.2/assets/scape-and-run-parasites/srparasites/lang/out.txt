@@ -1,0 +1,103 @@
+Primitive Longarms
+Primitive Manducater
+Primitive Summoner
+Primitive Reeker
+Primitive Yelloweye
+Primitive Bolster
+Infected Big Spider
+Infected Human
+Infected Villager
+Walking Head
+Infected Cow
+Walking Head
+Infected Pig
+Walking Head
+Infected Sheep
+Walking Head
+Infected Wolf
+Walking Head
+Infected Alafha
+Heavy Carrier
+Buglin
+Flying Carrier
+Rupter
+Beckon Stage I
+Beckon Stage II
+Beckon Stage III
+Warden
+Sentry
+Kyphosis
+Ancient Dreadnaut
+Ancient Overlord
+Vigilante
+Moving Flesh
+Adapted Longarms
+Adapted Summoner
+Adapted Manducater
+Adapted Reeker
+Adapted Yelloweye
+Adapted Bolster
+SR:Parasites
+Spawn Infected Big Spider
+Spawn Infected Human
+Spawn Infected Villager
+Spawn Walking Head (Villager)
+Spawn Infected Cow
+Spawn Walking Head (Cow)
+Spawn Infected Pig
+Spawn Walking Head (Pig)
+Spawn Infected Sheep
+Spawn Walking Head (Sheep)
+Spawn Infected Wolf
+Spawn Walking Head (Wolf)
+Spawn Infected Alafha
+Spawn Heavy Carrier
+Spawn Flying Carrier
+Spawn Buglin
+Spawn Rupter
+Spawn Beckon Stage I
+Spawn Beckon Stage II
+Spawn Beckon Stage III
+Spawn Warden
+Spawn Sentry 
+Spawn Kyphosis
+Spawn Ancient Dreadnaut
+Spawn Ancient Overlord
+Spawn Vigilante
+Spawn Moving Flesh
+Spawn Primitive Longarms
+Spawn Primitive Manducater
+Spawn Primitive Summoner
+Spawn Primitive Yelloweye
+Spawn Primitive Reeker
+Spawn Primitive Bolster
+Spawn Adapted Longarms
+Spawn Adapted Summoner
+Spawn Adapted Reeker
+Spawn Adapted Manducater
+Spawn Adapted Yelloweye
+Spawn Adapted Bolster
+NULL
+Living Scythe
+Living Greatbow
+Living Greatbow Upper Limb
+Living Greatbow Lower Limb
+Living Greatbow String
+Living Greatbow Grip
+Living Greatbow core
+Living Scythe Back
+Living Scythe Blade
+Living Scythe Core
+Living Scythe Handle
+Living Scythe Head
+Longarm Armor Fragment
+Summoner Core
+Yelloweye Bone
+Reeker Blade
+Manducater Orb
+Infected Flesh
+Infested Block
+Infested Block
+Veins
+Infested Block Residue
+Web Block

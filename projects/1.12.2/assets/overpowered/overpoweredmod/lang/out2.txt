@@ -1,0 +1,9 @@
+The main portal frame consists of a ring of blocks arranged in a 5x5 area. 8 Portal Frames must be placed in the corners and sides while the other spaces can be filled with either Data Cable or the Iron Frame Block. Finally, a different gem Block must be inserted into each Portal Frame before you can generate the portal.
+This is the machine that controls how Lasers operate. Attach Lasers pointing in the direction you want to fire. Access the machine and set how far you want the laser to shoot. Then, once the laser has built up enough energy, a redstone signal will fire the laser. If multiple Laser machines are adjacent to each other, they will all fire at once.
+These are the Laser Cannons that you attach to Laser Machines. Access the Laser machine to configure how the Laser operates. Lasers will mine blocks as though you mined them with the correct tool. Entities caught in the Laser Beams will also get set on fire.
+The Energy Suspension Bridge, when supplied with power and activated with a redstone signal, will spawn an energy bridge across to another Energy Suspension Bridge. You must insert a Lens of the color you want. And the space between the two Energy Suspension Blocks must be clear.
+This device of unknown origins is used in the highest-tier machines such as the Advanced Ore Refinery and Crystal Matter Generator, and can only by found in the Unknown Dimension.
+Insert Ores into this machine and it will produce double the output. Automatically works with Ores from other mods if they've registered their Ore with an Ore tag.
+This machine requires a lot of power, and must be running at all times. After a while, it will generate a random gem shard. You can combine 9 gem shards of the same type to make a full gem.
+This currently has no purpose.
+Whoa. Be careful with this! If you place this down, it will erase your world! I don't know how you got this, but you should destroy it immediately!

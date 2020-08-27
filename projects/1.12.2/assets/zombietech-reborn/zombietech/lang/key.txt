@@ -1,0 +1,10 @@
+item.chargedchip.name
+entity.fatzombie.name
+entity.crawler.name
+entity.hugezombie.name
+entity.runner.name
+entity.mutantzombie.name
+entity.tank.name
+entity.cyborg.name
+item.electronicchip.name
+item.electrosword.name

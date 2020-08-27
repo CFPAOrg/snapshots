@@ -1,0 +1,10 @@
+gui.button.play
+gui.button.singleplayer
+gui.button.multiplayer
+gui.button.discord
+gui.button.superhero
+gui.subtitle.status
+gui.button.news
+gui.button.quit
+gui.button.settings
+gui.title.mainmenu

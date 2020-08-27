@@ -1,0 +1,76 @@
+Lemurite
+Inolashite
+Shadow Iron
+Shadow Steel
+Oureclase
+Ignatius
+Vulcanite
+Prometheum
+Ironwood
+Steeleaf
+Knightmetal
+Redstone Alloy
+Energetic Alloy
+Vibrant Alloy
+Dark Steel
+Pulsating Iron
+Electrical Steel
+Soularium
+Alumina
+All
+Ore
+Ingot
+Dust
+Nugget
+Block
+Tiny Dust
+Small Dust
+Plate
+Gear
+Rod
+Gem
+Planks
+Crushed Ore
+Purified Crushed Ore
+Dense Plate
+Casing
+Cable
+Native Cluster
+Poor Ore
+Progress:
+Temperature:
+Fluid:
+Foundry
+Refractory Casing (Standard)
+Refractory Casing (Advanced)
+Refractory Casing (Basic)
+Melting Crucible (Basic)
+Melting Crucible (Standard)
+Melting Crucible (Advanced)
+Metal Caster
+Alloy Mixer
+Metal Infuser
+Material Router
+Induction Heater
+Alloying Crucible
+Fluid Heater
+Ingot Casting Table
+Plate Casting Table
+Rod Casting Table
+Block Casting Table
+Mold Crafting Station
+Burner Heater
+Bronze Cauldron
+Melts ore and metals.//Must be placed above a heater block.//Can reach up to $CRUCIBLE_BASIC_MAX_TEMP K.
+Melts ore and metals.//Must be placed above a heater block.//Can reach up to $CRUCIBLE_STANDARD_MAX_TEMP K.
+Melts ore and metals.//Must be placed above a heater block.//Can reach up to $CRUCIBLE_ADVANCED_MAX_TEMP K.
+Casts items from molten metal using mold.//Requires RF, FE, or Tesla to operate.
+Casts items from molten metal using mold.
+Mixes up to 4 molten metals to make alloys.//Requires RF, FE, or Tesla to operate.
+Mixes 2 molten metals to make alloys.
+Infuses items into molten metals.//Requires RF, FE, or Tesla to operate.
+Sorts items by material and type.//Currently is broken. Will be fixed in the future.
+Uses energy to generate heat for a Melting Crucible.//Requires RF, FE, or Tesla to operate.
+Uses fluid with high temperature to generate heat for a Melting Crucible.
+Used to cast ingots from molten metal.//Right click to remove the ingot after it's solidified.
+Used to cast plates from molten metal.//Right click to remove the plate after it's solidified.

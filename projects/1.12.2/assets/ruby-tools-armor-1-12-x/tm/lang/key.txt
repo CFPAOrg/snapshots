@@ -1,0 +1,14 @@
+item.ruby.name
+tile.ruby_block.name
+tile.ruby_ore.name
+item.ruby_sword.name
+item.ruby_pickaxe.name
+item.ruby_axe.name
+item.ruby_shovel.name
+item.ruby_hoe.name
+item.ruby_helmet.name
+item.ruby_chestplate.name
+item.ruby_leggings.name
+item.ruby_boots.name
+item.ruby_apple.name
+item.enchanted_ruby_apple.name

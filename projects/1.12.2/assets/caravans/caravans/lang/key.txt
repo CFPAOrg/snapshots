@@ -1,0 +1,9 @@
+text.arriving
+text.buy_entity
+text.sell_entity
+entity.caravans.caravan.villager.name
+entity.caravans.leader.name
+caravan.never_arrived
+caravan.while_trading
+caravan.while_leaving
+caravan.has_left

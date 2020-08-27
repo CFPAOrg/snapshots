@@ -1,0 +1,6 @@
+item.potasium.name
+item.sulfur.name
+tile.potassium_stone_block.name
+tile.sulfur_ore_block.name
+tile.sulfur_ore_nether_block.name
+tile.lamp_block.name

@@ -1,0 +1,129 @@
+Black Hungerstone
+Green Hungerstone
+Crypt Floor
+Hall Wall
+Blue Karos Bricks
+Black Karos Bricks
+Infusion Table
+Heliotic Beam
+Karos Dispenser
+Nightmare Bed Block
+Eden Dirt
+Wildwood Dirt
+Apalachia Dirt
+Skythern Dirt
+Mortum Dirt
+Eden Grass
+Wildwood Grass
+Apalachia Grass
+Skythern Grass
+Mortum Grass
+Eden Ore
+Wildwood Ore
+Apalachia Ore
+Skythern Ore
+Mortum Ore
+Eden Block
+Wildwood Block
+Apalachia Block
+Skythern Block
+Mortum Block
+Eden Sapling
+Wildwood Sapling
+Apalachia Sapling
+Skythern Sapling
+Mortum Sapling
+Eden Leaves
+Wildwood Leaves
+Apalachia Leaves
+Skythern Leaves
+Mortum Leaves
+Eden Log
+Wildwood Log
+Apalachia Log
+Skythern Log
+Mortum Log
+Eden Planks
+Wildwood Planks
+Apalachia Planks
+Skythern Planks
+Mortum Planks
+Eden Stairs
+Wildwood Stairs
+Apalachia Stairs
+Skythern Stairs
+Mortum Stairs
+Eden Slab
+Wildwood Slab
+Apalachia Slab
+Skythern Slab
+Mortum Slab
+Twilight Stone
+Wildwood Vine
+Blue Fire
+Eden Portal
+Wildwood Portal
+Apalachia Portal
+Skythern Portal
+Mortum Portal
+Eden Torch
+Eden Chest
+Apalachia Rails
+Moonbulb Plant
+Purple Glowbone Plant
+Pink Glowbone Plant
+Sky Plant
+Sunbloom
+Eden Brush
+Sun Blossom
+Moonlight Fern
+Moon Bud
+Wildwood Tallgrass
+Dusk Flower
+Dusk Bloom
+Apalachia Tallgrass
+Skythern Brush
+Dust Lily
+Dust Brambles
+Demon Brambles
+Eye Plant
+Mortum Brush
+Arcanite Dirt
+Arcanite Grass
+Arcanium Ore
+Arcanium Metal
+Arcanite Tubes
+Arcanium Power
+Dungeon Lamp
+Heat Trap
+Heat Trap
+Soul Stone
+Soul Sludge
+Degraded Brick
+Dark Degraded Brick
+Ancient Brick
+Ancient Stone
+Light Degraded Brick
+Stained Glass
+Dungeon Prisoner Spawner
+Razorback Spawner
+Death Hound Spawner
+Deathcryx Spawner
+Living Statue Spawner
+Roamer Spawner
+Ancient Tile
+Star Bridge
+Soul Sludge Door
+Ancient Brick Door
+Soul Stone Door
+Degraded Brick Door
+Dramix Altar
+Parasecta Altar
+Arcanium Extractor
+Arcana Portal
+Arcana Portal Frame
+Arcana Portal Frame
+Aquamarine Plant
+Eucalyptus Plant
+Hitchak Plant
+Veilo Plant

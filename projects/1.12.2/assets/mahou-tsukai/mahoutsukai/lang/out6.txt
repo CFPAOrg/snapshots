@@ -1,0 +1,38 @@
+How far down gets changed by the Alchemical Exchange
+Alchemical Exchange Mana Cost (per block changed)
+This is the cost for each block changed by the circle
+Alchemical Exchange Dirt Class Blocks
+This is a list of blocks available in the dirt-class exchange.
+Alchemical Exchange Stone Class Blocks
+This is a list of blocks available in the stone-class exchange.
+Alchemical Exchange Metal Class Blocks
+This is a list of blocks available in the metal-class exchange.
+Alchemical Exchange Gem Class Blocks
+This is a list of blocks available in the gem-class exchange.
+Alchemical Exchange Clay Class Blocks
+This is a list of blocks available in the clay-class exchange.
+Alchemical Exchange Wood Class Blocks
+This is a list of blocks available in the wood-class exchange.
+Alchemical Exchange Special Class Blocks
+This is a list of blocks available in the special-class exchange.
+Alchemical Exchange Grass Class Blocks
+This is a list of blocks available in the grass-class exchange.
+Alchemical Exchange Fluid Class Blocks
+This is a list of blocks available in the fluid-class exchange.
+Alchemical Exchange Moving Fluid Class Blocks
+This is a list of blocks available in the moving-fluid-class exchange.
+Catalyst Exchange Operation Cycle (in Ticks)
+This is how often the circle checks for catalysts on top to change
+Catalyst Exchange Mana Cost (per catalyst changed)
+This is the cost for each catalyst exchanged by the circle
+Chronal Exchange Operation Cycle (in Ticks)
+This is how often the circle restores or deducts mana
+Chronal Exchange Mana Gain & Loss
+This is how much mana is gained or lost every cycle
+Durability Exchange Operation Cycle (in Ticks)
+This is how often the circle restores mana
+Durability Exchange Mana Gain Limit
+This is the limit on mana restored per cycle
+Durability Exchange Efficiency
+Take this much durability per mana point gained
+Damage Exchange Mana Cost

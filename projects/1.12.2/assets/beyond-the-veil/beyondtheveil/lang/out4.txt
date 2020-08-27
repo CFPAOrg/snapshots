@@ -1,0 +1,79 @@
+Masses of flesh,<BR>born from unfiltered Chaos.<BR>Among their screeches<BR>you can hear weeping.
+Fear the Judgement<BR>of Dagon, ArchPriest<BR>of The Great Dreamer.<BR>Do not seek it.
+Necklace
+Ring 1
+Ring 2
+Belt
+Head
+Body
+Trinket
+Left click to set as current active bauble (only one allowed)./Right click to toggle passive effect./Green: Active Bauble, passive on./Yellow: Active Bauble, passive off./Purple: Non Active Bauble, passive on./Red: Non Active Bauble, passive off.
+Currently active.
+Currently not active.
+Passive on.
+Passive off.
+Summon Deep Ones
+Transform
+Water Walking
+Rip Spine
+Fill with Water
+Rend Heart
+Rip Spine
+Fill with Water
+Rend Heart
+Millibuckets: %1$s
+Center X: %1$s
+Center Y: %1$s
+Facing: %1$s
+Length: %1$s 
+Width: %1$s 
+Size: %1$sx%2$s 
+North
+East
+South
+West
+Create
+Save Changes
+Reload Map
+TIP: It is recommended to increase GUI size for the purpose of this task.
+You Drowned
+Believe in the Great Dreamer
+Believe in the gods of your ancestors
+Believe in Yourself
+Believe
+Know
+YOU ARE 
+NOTHING
+INSIGNIFICANT
+WORTHLESS
+I am the Gnawing Sensation at the back of your mind
+The Great Dreamer won't listen to you.
+The gods of your ancestors do not exist.
+Progress
+Dodge
+Use/Manage Baubles
+Use/Select Power
+Tall Tower
+Tower
+Large Tower
+Pyramid
+Wall
+Road
+Clinic
+Great Shrine
+A Shoggoth that keeps slaying others will eventually turn upon its master.
+IT IS NOT ALLIANCE I SEEK
+YOU WILL SERVE ME
+GRAND REWARDS AWAIT YOUR SUCCESS
+UNSPEAKABLE CONSEQUENCES WILL FOLLOW YOUR FAILURES
+YOU ARE MY HERALD
+BRING THIS GOLD TO THE DWELLERS
+SO THAT THEY MAY KNOW YOU AS MY AMBASSADOR
+THEN COMMUNE WITH GOD'S IDOL
+I WILL HEAR YOU
+These three golden blocks must be brought to the Fisherman Dwellers. We should make haste.
+YOU WILL JOIN MY RANKS
+PROVE YOUR WORTH TO ME
+SLAY THREE OF MY ELDER GUARDIANS
+THEN COMMUNE WITH GOD'S IDOL
+Three Elder Guardians, in their ancient ocean monuments. A trifle, right?

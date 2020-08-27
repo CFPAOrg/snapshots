@@ -1,0 +1,4 @@
+creaturebeacons.general.creaturetype
+creaturebeacons.general.creaturetype.tooltip
+creaturebeacons.general.creaturelist
+creaturebeacons.general.creaturetype.tooltip

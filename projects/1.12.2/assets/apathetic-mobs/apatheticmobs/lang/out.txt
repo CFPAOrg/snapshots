@@ -1,0 +1,3 @@
+/apatheticwhitelist <get/add/remove> <playername>
+Player not found!
+ is already whitelisted!

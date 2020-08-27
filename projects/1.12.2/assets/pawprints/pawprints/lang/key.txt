@@ -1,0 +1,2 @@
+entity.bilby.name
+entity.pinkfairy.name

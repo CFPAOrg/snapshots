@@ -1,0 +1,93 @@
+Debugger Mode: %s
+Transceiver
+Transmitter
+Receiver
+Internal: speed %s RPM / torque %s Nm.
+Internal: speed %s RPM / torque %s Nm. External: speed %s RPM / torque %s Nm.
+Can't attach motor belts to a wire connector
+One does not simply attach belts to a wire system
+As I said, you CAN'T connect them, stop trying
+Listen to me, if you try to connect them once again...
+WHAT PART OF YOU CAN'T ATTACH BELTS YOU DO NOT UNDERSTAND?!
+Just leave me alone... Dummkopf! Here, have an advancement, and now f**k off!
+You're really boring, even i, MotorBeltUtils.java have feelings, ok?!
+You cannot attach this belt here
+You are in the wrong dimension
+You cannot attach a belt to the same point
+You are too far away from the previous connection
+The connection is obstructed
+The connection exists already
+One of the connection points is invalid
+Speed
+RPM
+Torque
+Nm
+Addition
+Subtraction
+Multiplication
+Division
+Power
+Root
+Max
+Min
+AND
+OR
+NOT
+NAND
+NOR
+XOR
+XNOR
+Greater
+Less
+Greater or Equal
+Less or Equal
+Equal
+Join
+Filter
+Format
+Conditional Construct - Null
+Conditional Construct - Boolean
+Conditional Construct - Integer
+Conditional Construct - String
+Get Quantity
+Set Quantity
+Get Durability
+Set Durability
+Get NBT
+Set NBT
+Can Stack With
+Matches OreDictionary
+Null
+Boolean
+Integer
+String
+Expression
+Accessor
+ItemStack
+True
+False
+Basic Circuits
+Advanced Circuits
+Processors
+Basic Functional Circuits
+Advanced Functional Circuits
+Springs
+Immersive Intelligence
+RTFM?
+Powerful Conveying
+Link two mechanical wheels with a belt coil
+Who dares wins
+You had enough? Now give me a rest.
+Better, Harder, Faster!
+Produce an Advanced Circuit Board
+Bertha's Sister
+Create an Artillery Howitzer
+The Bulbulator
+Create a Chemical Bath
+Beep boop?
+Produce a Circuit Board
+The Crimson Inserter
+Craft an upgraded version of the inserter.
+Tactical Observation
+Craft the binoculars
+A Flame in the Black night

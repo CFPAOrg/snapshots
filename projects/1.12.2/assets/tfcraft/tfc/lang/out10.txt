@@ -1,0 +1,122 @@
+Babies per Gestation
+How many babies are born when this animal gives birth?
+Wool Ticks Cooldown
+How many ticks are needed for this animal grow back wool?
+Milk Ticks Cooldown
+How many ticks it is needed for this animal give milk?
+Egg Laying Ticks Cooldown
+How many ticks it is needed for this animal to lay eggs?
+Old Death Chance
+Chunk Generation Spawn Rarity
+Hunted Entities
+This controls which registered entities are hunted by this animals (unless tamed), in priority order. You must specify by 'modid:entity'. Invalid entries will be ignored.
+Food List
+This controls which items are considered food for this animal. You must specify by 'ore:tag' or 'modid:item [meta]'. Invalid entries will be ignored.
+Accept Rotten Foods
+Does this animal eat rotten foods?
+TFC Misc
+TFC Rock & Soil Blocks
+TFC Rock Items
+TFC Wood
+TFC Decorations
+TFC Pottery
+TFC Metal
+TFC Gems
+TFC Foodstuffs
+TFC Plants
+Green Dye
+Red Dye
+Yellow Dye
+Blue Dye
+Black Dye
+Brown Dye
+White Dye
+TFC Classic
+Unknown Alloy
+Bismuth
+Bismuth Bronze
+Black Bronze
+Brass
+Bronze
+Copper
+Gold
+Lead
+Nickel
+Rose Gold
+Silver
+Tin
+Zinc
+Sterling Silver
+Wrought Iron
+Pig Iron
+Steel
+Platinum
+Black Steel
+Blue Steel
+Red Steel
+Weak Steel
+Black Weak Steel
+Blue Weak Steel
+Red Weak Steel
+High Carbon Steel
+Black High Carbon Steel
+Blue High Carbon Steel
+Red High Carbon Steel
+Sedimentary
+Metamorphic
+Igneous Intrusive
+Igneous Extrusive
+Tier 0
+Tier I
+Tier II
+Tier III
+Tier IV
+Tier V
+Tier VI
+Tiny
+Very Small
+Small
+Normal
+Large
+Very Large
+Huge
+Very Light
+Light
+Medium
+Heavy
+Very Heavy
+Warming
+Hot
+Very Hot
+Faint Red
+Dark Red
+Bright Red
+Orange
+Yellow
+Yellow White
+White
+Brilliant White
+Catching Fire
+Lit
+Light Hit
+Medium Hit
+Hard Hit
+Draw
+Bend
+Punch
+Shrink
+Upset
+Hit Any
+Hit Not Last
+Hit Last
+Hit Second Last
+Hit Third Last
+Draw Any
+Draw Last
+Draw Not Last
+Draw Second Last
+Draw Third Last
+Punch Any
+Punch Last
+Punch Not Last
+Punch Second Last

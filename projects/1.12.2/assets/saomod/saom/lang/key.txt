@@ -1,0 +1,16 @@
+item.dragon_ice_crystal.name
+item.dragon_ice_ingot.name
+item.gigas_cedar_branch.name
+item.elucidator.name
+item.dark_repulser.name
+item.excalibur.name
+item.calibur.name
+item.black_one.name
+item.blue_rose_sword.name
+item.osmanthus_blade.name
+item.dragon_bone_axe.name
+tile.marble_block.name
+tile.gigas_cedar_log.name
+tile.gigas_cedar_leaves.name
+tile.gigas_cedar_sapling.name
+itemGroup.saomodtab

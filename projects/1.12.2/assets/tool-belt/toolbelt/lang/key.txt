@@ -1,0 +1,11 @@
+item.toolbelt.belt.name
+item.toolbelt.pouch.name
+key.toolbelt.open
+key.toolbelt.category
+key.toolbelt.slot
+text.toolbelt.empty
+text.toolbelt.swap
+text.toolbelt.insert
+text.toolbelt.extract
+text.toolbelt.tooltip
+text.toolbelt.name

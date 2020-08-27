@@ -1,0 +1,8 @@
+itemGroup.tabwirelessenergynetwork
+item.ash.name
+item.energyorb.name
+tile.wirelessstorage.name
+tile.airfilter.name
+tile.energydownloader.name
+tile.generator.name
+tile.energyuploader.name

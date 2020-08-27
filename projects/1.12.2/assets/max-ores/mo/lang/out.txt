@@ -1,0 +1,78 @@
+Chalcanthite
+Amethyst
+Ruby
+Titanium Ingot
+Titanium Nugget
+Copper Ingot
+Copper Nugget
+Building Blocks
+Decoration Blocks
+Miscellaneous
+Tools
+Combat
+Ores Furnace
+Ores Furnace
+Block of Solid Obsidian
+Chalcanthite Ore
+Block of Chalcanthite
+Block of Solid Chalcanthite
+Block of Polished Chalcanthite
+Amethyst Ore
+Block of Amethyst
+Block of Solid Amethyst
+Block of Polished Amethyst
+Ruby Ore
+Block of Ruby
+Block of Solid Ruby
+Block of Polished Ruby
+Titanium Ore
+Block of Titanium
+Block of Polished Titanium
+Copper Ore
+Block of Copper
+Block of Polished Copper
+Chalcanthite Sword
+Chalcanthite Shovel
+Chalcanthite Pickaxe
+Chalcanthite Axe
+Chalcanthite Hoe
+Amethyst Sword
+Amethyst Shovel
+Amethyst Pickaxe
+Amethyst Axe
+Amethyst Hoe
+Ruby Sword
+Ruby Shovel
+Ruby Pickaxe
+Ruby Axe
+Ruby Hoe
+Titanium Sword
+Titanium Shovel
+Titanium Pickaxe
+Titanium Axe
+Titanium Hoe
+Copper Sword
+Copper Shovel
+Copper Pickaxe
+Copper Axe
+Copper Hoe
+Chalcanthite Helmet
+Chalcanthite Chestplate
+Chalcanthite Leggings
+Chalcanthite Boots
+Amethyst Helmet
+Amethyst Chestplate
+Amethyst Leggings
+Amethyst Boots
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Titanium Helmet
+Titanium Chestplate
+Titanium Leggings
+Titanium Boots
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots

@@ -1,0 +1,5 @@
+FreeCam
+Toggle FreeCam Mode
+Roll Left
+Roll Right
+Roll Reset

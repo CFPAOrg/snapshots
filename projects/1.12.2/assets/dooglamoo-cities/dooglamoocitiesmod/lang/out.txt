@@ -1,0 +1,39 @@
+Disable Fishery
+Set to true to disable Fishery crafting recipe in survival.
+Disable Garden
+Set to true to disable Garden crafting recipe in survival.
+Disable Ranch
+Set to true to disable Ranch crafting recipe in survival.
+Disable Distributor
+Set to true to disable Distributor crafting recipe in survival.
+Disable Warehouse
+Set to true to disable Warehouse crafting recipe in survival.
+Disable Bulldozer
+Set to true to disable Bulldozer crafting recipe in survival.
+Disable Carpenter
+Set to true to disable Carpenter crafting recipe in survival.
+Disable Bakery
+Set to true to disable Bakery crafting recipe in survival.
+Disable Blacksmith
+Set to true to disable Blacksmith crafting recipe in survival.
+Disable Mineshaft
+Set to true to disable Mineshaft crafting recipe in survival.
+Disable Textile
+Set to true to disable Textile crafting recipe in survival.
+Disable Stonemason
+Set to true to disable Stonemason crafting recipe in survival.
+Disable Craftsman
+Set to true to disable Craftsman crafting recipe in survival.
+Disable Seller
+Set to true to disable Seller crafting recipe in survival.
+Disable Buyer
+Set to true to disable Buyer crafting recipe in survival.
+Disable Taxcollector
+Set to true to disable Taxcollector crafting recipe in survival.
+Iron Blocks
+Street Lights
+Window Glass
+Mob Spawners
+If false, no mob spawners will generate in buildings.
+Blaze Spawners
+If true, blaze spawners will generate in place of cave spider spawners in Towers.

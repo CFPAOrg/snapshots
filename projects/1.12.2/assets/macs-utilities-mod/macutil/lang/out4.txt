@@ -1,0 +1,104 @@
+Light Blue Chair (Spruce)
+Lime Chair (Spruce)
+Magenta Chair (Spruce)
+Orange Chair (Spruce)
+Pink Chair (Spruce)
+Purple Chair (Spruce)
+Red Chair (Spruce)
+Light Gray Chair (Spruce)
+White Chair (Spruce)
+Yellow Chair (Spruce)
+Black Chair (Dark Oak)
+Blue Chair (Dark Oak)
+Brown Chair (Dark Oak)
+Cyan Chair (Dark Oak)
+Gray Chair (Dark Oak)
+Green Chair (Dark Oak)
+Light Blue Chair (Dark Oak)
+Lime Chair (Dark Oak)
+Magenta Chair (Dark Oak)
+Orange Chair (Dark Oak)
+Pink Chair (Dark Oak)
+Purple Chair (Dark Oak)
+Red Chair (Dark Oak)
+Light Gray Chair (Dark Oak)
+White Chair (Dark Oak)
+Yellow Chair (Dark Oak)
+Black Chair (Jungle)
+Blue Chair (Jungle)
+Brown Chair (Jungle)
+Cyan Chair (Jungle)
+Gray Chair (Jungle)
+Green Chair (Jungle)
+Light Blue Chair (Jungle)
+Lime Chair (Jungle)
+Magenta Chair (Jungle)
+Orange Chair (Jungle)
+Pink Chair (Jungle)
+Purple Chair (Jungle)
+Red Chair (Jungle)
+Light Gray Chair (Jungle)
+White Chair (Jungle)
+Yellow Chair (Jungle)
+Black Chair (Acacia)
+Blue Chair (Acacia)
+Brown Chair (Acacia)
+Cyan Chair (Acacia)
+Gray Chair (Acacia)
+Green Chair (Acacia)
+Light Blue Chair (Acacia)
+Lime Chair (Acacia)
+Magenta Chair (Acacia)
+Orange Chair (Acacia)
+Pink Chair (Acacia)
+Purple Chair (Acacia)
+Red Chair (Acacia)
+Light Gray Chair (Acacia)
+White Chair (Acacia)
+Yellow Chair (Acacia)
+Oak Table
+Oak Table
+Oak Table
+Oak Table
+Oak Table
+Oak Table
+Birch Table
+Birch Table
+Birch Table
+Birch Table
+Birch Table
+Birch Table
+Spruce Table
+Spruce Table
+Spruce Table
+Spruce Table
+Spruce Table
+Spruce Table
+Dark Oak Table
+Dark Oak Table
+Dark Oak Table
+Dark Oak Table
+Dark Oak Table
+Dark Oak Table
+Acacia Table
+Acacia Table
+Acacia Table
+Acacia Table
+Acacia Table
+Acacia Table
+Jungle Table
+Jungle Table
+Jungle Table
+Jungle Table
+Jungle Table
+Jungle Table
+Toxic Waste
+Wood Chisel
+Stone Chisel
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Emerald Pickaxe
+Emerald Axe
+Emerald Sword

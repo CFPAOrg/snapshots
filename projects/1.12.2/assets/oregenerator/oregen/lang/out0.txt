@@ -1,0 +1,130 @@
+OreGen
+Copper Ore
+Tin Ore
+Silver Ore
+Lead Ore
+Aluminum Ore
+Nickel Ore
+Sulfur Ore
+Saltpeter Ore
+Uranium Ore
+Platinum Ore
+Iridium Ore
+Mithril Ore
+Nth Ore
+Uru Ore
+Zinc Ore
+Copper Block
+Tin Block
+Silver Block
+Lead Block
+Aluminum Block
+Nickel Block
+Bronze Block
+Steel Block
+Uranium Block
+Platinum Block
+Iridium Block
+Mithril Block
+Nth Block
+Uru Block
+Thorium Block
+Zinc Block
+Coal Powered Crusher
+Copper Ingot
+Tin Ingot
+Silver Ingot
+Lead Ingot
+Aluminum Ingot
+Nickel Ingot
+Bronze Ingot
+Steel Ingot
+Uranium Ingot
+Platinum Ingot
+Iridium Ingot
+Mithril Ingot
+Nth Ingot
+Uru Ingot
+Thorium Ingot
+Zinc Ingot
+Copper Nugget
+Tin Nugget
+Silver Nugget
+Lead Nugget
+Aluminum Nugget
+Nickel Nugget
+Bronze Nugget
+Steel Nugget
+Uranium Nugget
+Platinum Nugget
+Iridium Nugget
+Mithril Nugget
+Nth Nugget
+Uru Nugget
+Thorium Nugget
+Zinc Nugget
+Copper Dust
+Tin Dust
+Silver Dust
+Lead Dust
+Aluminum Dust
+Nickel Dust
+Bronze Dust
+Steel Dust
+Sulfur Dust
+Saltpeter Dust
+Uranium Dust
+Platinum Dust
+Coal Dust
+Iron Dust
+Gold Dust
+Diamond Dust
+Iridium Dust
+Mithril Dust
+Nth Dust
+Uru Dust
+Thorium Dust
+Zinc Dust
+Dirty Copper Chunk
+Dirty Tin Chunk
+Dirty Silver Chunk
+Dirty Lead Chunk
+Dirty Aluminum Chunk
+Dirty Nickel Chunk
+Dirty Bronze Chunk
+Dirty Steel Chunk
+Dirty Uranium Chunk
+Dirty Platinum Chunk
+Dirty Iridium Chunk
+Dirty Mithril Chunk
+Dirty Nth Chunk
+Dirty Uru Chunk
+Dirty Thorium Chunk
+Dirty Iron Chunk
+Dirty Gold Chunk
+Dirty Zinc Chunk
+Clean Copper Chunk
+Clean Tin Chunk
+Clean Silver Chunk
+Clean Lead Chunk
+Clean Aluminum Chunk
+Clean Nickel Chunk
+Clean Bronze Chunk
+Clean Steel Chunk
+Clean Uranium Chunk
+Clean Platinum Chunk
+Clean Iridium Chunk
+Clean Mithril Chunk
+Clean Nth Chunk
+Clean Uru Chunk
+Clean Thorium Chunk
+Clean Iron Chunk
+Clean Gold Chunk
+Clean Zinc Chunk
+Blank Upgrade
+ISided Upgrade
+Sound Muffler Upgrade
+Speed Upgrade
+Coal Powered Crusher
+%s Crusher Successfully upgraded with %s.
+%s Crusher already has %s upgrade.

@@ -1,0 +1,123 @@
+Frosty
+Thundering
+Thirst Of Lightning
+Water Shield
+Inner Spirit
+Percent
+Prefix
+Suffix
+Stats
+Primary Stats
+Secondary Stats
+Chaos Stats
+Unique Stats
+Level
+Rarity
+Unsalvageable
+Multi
+Tier
+Bonus Loot Amount
+Minutes
+Player Affixes
+Mob Affixes
+World Type
+Mana Cost
+Base Value
+Scaling Value
+By
+Resources
+Regeneration
+Attack
+Spell Damage
+Elemental Attack Damage
+Plus All Elemental Damage
+Spell To Attack Damage Conversion
+Defenses
+Penetration
+Weapon Damage
+Misc
+Not a Map World
+Put Map
+Sacrifice Map For Tier
+Sacrifice Map For Level
+Start
+Dealt
+Took
+From
+To
+Damage
+Progress
+Fuel
+NPC
+Mob
+Animal
+Item
+Currency
+Map
+Spell
+Socket
+Sockets
+Empty
+Square
+Circle
+Infusion
+Bonus Success Rate
+Major Success Chance
+Major Failure Chance
+Arid Highland
+Badlands
+Cliffs
+Red Desert
+Thicket
+Entities
+§eThorn Bracers
+§eLeggings of the Glacier
+§eAxe of Blazing Cuts
+§eFrostFire Ring
+§eThunder Bracers
+§eHeavenly Fire Charm
+§eThunderstorm Staff
+§eWooden Plate
+§eFrostburn Bracers
+§eRooted Leggings
+§eCharm of the River Dragon
+§eTree Trunks
+§eThunder Atronach Helmet
+§eHammer of Thor
+§eSword of the Nature Spirit
+§eRing of Unlimited Endurance
+§eVampire Staff
+§eStaff of Permafrost
+§eLightning Coil Leggings
+§eArmor of the Thunderstorm
+§eThief's Chestplate
+§eMountain Breaker
+§eRing of Precision
+§eFlaming Steps
+§eThunderstorm Axe
+§eBlade of Doom
+§eFlaming Fists
+§eAmulet of the Glacier
+§eIce Steps
+§eFlame Atronach Helmet
+§eLightning Tendril Boots
+§eBurning Man Chestplate
+§eSpirit Spring Charm
+§eArmor of the Glacier
+§eCharm of Heavenly Tribulations
+§eIce Elemental Sword
+§eIce Seer Eyes
+§eHelmet of Mana
+§eRooted Thunder Bracers
+§eWorldbreaker Staff
+§eBurning Man Amulet
+§eInner Spirit Amulet
+§eAmulet of the Oak
+§eFlaming Leggings
+§eRing of Swiftness
+§eAmulet of the Thunderstorm
+§eLeaf Covering
+§eAxe of Frostfire
+§eStaff of Volcanoes
+§eShirt of the Arcane
+Fools fight for treasure, but I keep on living.

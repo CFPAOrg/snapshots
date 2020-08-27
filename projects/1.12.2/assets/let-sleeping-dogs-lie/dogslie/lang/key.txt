@@ -1,0 +1,5 @@
+lsdl.config.dogsSpawnLying
+lsdl.config.timeBeforeLie
+lsdl.config.rangeBeforeGettingUp
+lsdl.config.enabledPoses
+lsdl.config.attemptModWolfSupport

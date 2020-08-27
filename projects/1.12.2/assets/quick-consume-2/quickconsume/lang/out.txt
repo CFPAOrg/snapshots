@@ -1,0 +1,5 @@
+Potion Bag
+In Bag:
+Quick Consume
+Consume Item In Food Slot
+Auto Consume

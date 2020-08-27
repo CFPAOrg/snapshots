@@ -1,0 +1,3 @@
+itemGroup.dungeonmodTab
+item.skull_sword.name
+item.lancer.name

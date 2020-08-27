@@ -1,0 +1,34 @@
+If true, TFC will try and force the `level-type` setting to `tfc_classic` during DedicatedServer startup or define it as default world type for clients.
+Force Default Ore Gen File
+If true, TFC will override default ore gen file. Pack Makers: Disable this to keep your ore gen file from being reset to default.
+Remove Vanilla Recipes
+Remove Vanilla Loots
+Force No Vanilla Natural Regeneration
+If true, this will force the gamerule naturalRegeneration to be false. Note: this DOES NOT AFFECT TFC's natural regeneration. If you set naturalRegeneration to true, then you will have both TFC regeneration and normal vanilla regeneration (which is much faster).
+Force Replace Vanilla Animals
+If true, this will replace vanilla animals with the TFC counterpart under any spawning circumstances (ie: mob spawner, etc).
+Fallable settings
+Fallable blocks configuration
+Enable Fallable Blocks
+If false, fallable blocks (ie: dirt, stone) will never fall.
+Falling Blocks Destroy Ores
+If false, fallable blocks (ie: dirt, stone) will never destroy ore blocks.
+Falling Blocks Destroy Items
+If false, fallable blocks (ie: dirt, stone) will never destroy loose items.
+Falling Blocks Hurt Entities
+If false, fallable blocks (ie: dirt, stone) will never hurt entities.
+Rock Collapse Chance
+Chance that mining a raw rock triggers a collapse.
+Propagate Collapse Chance
+Chance that collapsing blocks propagate the collapse. Influenced by distance from epicenter of collapse.
+Horizontal Support Range
+The horizontal radius of the support range of support beams.
+Upwards Support Range
+The upwards range support range of support beams.
+Downwards Support Range
+The downwards support range of support beams.
+Chiseling Causes Collapses
+Should chiseling raw stone blocks cause collapses?
+Explosion Causes Collapses
+Should exploding raw stone blocks cause collapses?
+Difficulty Settings

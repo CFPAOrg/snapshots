@@ -1,0 +1,4 @@
+sidebar_button.ftbtutorialmod.tutorials
+ftbtutorialmod.gui.failed_to_load
+ftbtutorialmod.gui.exit
+commands.open_tutorial.usage

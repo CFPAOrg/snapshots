@@ -1,0 +1,53 @@
+Windmill
+Big Windmill
+Mechanical Timer
+Mechanical Toggler
+Wooden Axle
+Ratiobox
+Mechanical Press
+Quern
+Gin
+Single Assembler
+Double Assembler
+Advanced Assembler
+Cotton Seeds
+Hand Crank
+Wind Vane
+Wooden Mechanical Hopper
+Hay Compactor
+Feeding Trough
+Thatch
+Block of Thatch
+Hay Bed
+Hay Feed
+Molten Steel [WIP]
+Solid Steel [WIP]
+Extrusion Form [WIP]
+Extrusion Receptacle [WIP]
+Windmill Blade
+Speckled Gear
+Plywood Gear
+Stone Disk
+Sandstone Disk
+Red Sandstone Disk
+Cotton
+Cotton Wool
+Cotton Candy
+Cotton Candy on a Stick
+Sawdust
+Plywood
+Flour
+Wheat Chaff
+Quern
+Gin
+Single Assembler
+Double Assembler
+Advanced Assembler
+Hay Compactor
+§7Multiblock
+Limits power to more than %s
+Limits power to less than %s
+Limits power to exactly %s
+Can be combined in a crafting grid
+§d%s%% Chance
+§dWill be placed at the output.

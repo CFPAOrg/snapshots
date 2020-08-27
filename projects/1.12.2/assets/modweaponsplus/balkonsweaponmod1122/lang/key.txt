@@ -1,0 +1,17 @@
+item.blunderbuss.name
+item.cannon.name
+item.bolt.name
+item.battleaxegold.name
+item.battleaxestone.name
+itemGroup.tabbalkonsweaponsmod1122
+item.blowgun.name
+item.boomerangstone.name
+item.battleaxediamond.name
+item.blunderironpart.name
+item.battleaxeiron.name
+item.boomeranggold.name
+item.cannonball.name
+item.boomerangdiamond.name
+item.boomerangiron.name
+item.battleaxewood.name
+item.boomerangwood.name

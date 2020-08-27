@@ -1,0 +1,47 @@
+Elevator Pad
+White Elevator Pad
+Orange Elevator Pad
+Magenta Elevator Pad
+Light-Blue Elevator Pad
+Yellow Elevator Pad
+Lime Elevator Pad
+Pink Elevator Pad
+Gray Elevator Pad
+Silver Elevator Pad
+Cyan Elevator Pad
+Purple Elevator Pad
+Blue Elevator Pad
+Brown Elevator Pad
+Green Elevator Pad
+Red Elevator Pad
+Black Elevator Pad
+White Redstone Elevator Pad
+Orange Redstone Elevator Pad
+Magenta Redstone Elevator Pad
+Light-Blue Redstone Elevator Pad
+Yellow Redstone Elevator Pad
+Lime Redstone Elevator Pad
+Pink Redstone Elevator Pad
+Gray Redstone Elevator Pad
+Silver Redstone Elevator Pad
+Cyan Redstone Elevator Pad
+Purple Redstone Elevator Pad
+Blue Redstone Elevator Pad
+Brown Redstone Elevator Pad
+Green Redstone Elevator Pad
+Red Redstone Elevator Pad
+Black Redstone Elevator Pad
+Player used elevator
+Main
+Enable Mob Spawning
+Allow Any Entity
+Require Line of Sight
+Require Color Match
+XP Cost
+Enable XP Distance Scaling
+Min Spacing
+Max Spacing
+Teleport Delay
+Content
+Enable Basic
+Enable Redstone

@@ -1,0 +1,40 @@
+Spectrite Max Vein Size (The End)
+Maximum vein size of a Spectrite Ore vein
+Spectrite Max Vein Size (Nether)
+Maximum vein size of a Spectrite Ore vein
+Spectrite Max Vein Size
+Maximum vein size of a Spectrite Ore vein
+Spectrite Max Height (The End)
+Maximum height in blocks that a Spectrite Ore vein will originate
+Spectrite Max Height (Nether)
+Maximum height in blocks that a Spectrite Ore vein will originate
+Spectrite Max Height
+Maximum height in blocks that a Spectrite Ore vein will originate
+Spectrite Min Vein Size (The End)
+Minimum vein size of a Spectrite Ore vein
+Spectrite Min Vein Size (Nether)
+Minimum vein size of a Spectrite Ore vein
+Spectrite Min Vein Size
+Minimum vein size of a Spectrite Ore vein
+Spectrite Min Height (The End)
+Minimum height in blocks that a Spectrite Ore vein will originate
+Spectrite Min Height (Nether)
+Minimum height in blocks that a Spectrite Ore vein will originate
+Spectrite Min Height
+Minimum height in blocks that a Spectrite Ore vein will originate
+Spectrite Mob Armour Drop Rate
+Drop rate for each piece of armour on a Spectrite Mob (percentage)
+Spectrite Mob Arrow Drop Rate
+Drop rate for a Spectrite Mob's Spectrite Arrows (percentage)
+Spectrite Mob Bow Drop Rate
+Drop rate for a Spectrite Mob's Spectrite Bow (percentage)
+Spectrite Mob Spawn Rate (Spectrite Crystal)
+Chance that a mob in range of a Spectrite Crystal will spawn as a Spectrite mob instead (percentage) (overrides Spectrite Mob Spawn Rate)
+Spectrite Mob Legend Sword Rate
+Chance that a Spectrite Mob's Spectrite Sword will be substituted with a Spectrite Legend Blade (percentage)
+Spectrite Mob Perfect Weapon Rate
+Chance that a Spectrite Mob's Spectrite Weapon will be substituted with a Perfect Spectrite Weapon (percentage)
+Spectrite Mob Spawn Rate
+Chance that a mob will spawn as a Spectrite Mob (percentage)
+Spectrite Mob Sword Drop Rate
+Drop rate for a Spectrite Mob's Spectrite Sword (percentage)

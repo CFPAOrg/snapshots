@@ -1,0 +1,43 @@
+Scrap
+Pile of Scrap
+Chipped Iron Gear
+Chipped Gold Gear
+Chipped Copper Gear
+Chipped Tin Gear
+Chipped Silver Gear
+Chipped Lead Gear
+Chipped Aluminum Gear
+Chipped Nickel Gear
+Chipped Platinum Gear
+Chipped Iridium Gear
+Chipped Mana-Infused Gear
+Chipped Steel Gear
+Chipped Electrum Gear
+Chipped Invar Gear
+Chipped Bronze Gear
+Chipped Constatan Gear
+Chipped Signalum Gear
+Chipped Lumium Gear
+Chipped Enderium Gear
+Chipped Fluxed Electrum Gear
+Dented Iron Plate
+Dented Gold Plate
+Dented Copper Plate
+Dented Tin Plate
+Dented Silver Plate
+Dented Lead Plate
+Dented Aluminum Plate
+Dented Nickel Plate
+Dented Platinum Plate
+Dented Iridium Plate
+Dented Mana-Infused Plate
+Dented Steel Plate
+Dented Electrum Plate
+Dented Invar Plate
+Dented Bronze Plate
+Dented Constatan Plate
+Dented Signalum Plate
+Dented Lumium Plate
+Dented Enderium Plate
+Dented Fluxed Electrum Plate
+You don't find any useful scrap

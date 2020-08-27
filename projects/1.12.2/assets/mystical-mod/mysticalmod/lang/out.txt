@@ -1,0 +1,55 @@
+Mystical Ingot
+Mystical Fuel
+Mystical Sword
+Mystical Shovel
+Mystical Pickaxe
+Mystical Axe
+Mystical Hoe
+Mystical Nugget
+Mystical Powder
+Mystical Steel Ingot
+Steel Ingot
+Iron Plate
+Mystical Steel Plate
+Chip
+Mystical Coin
+Mystical Apple
+Mystical Bow
+Mystical Necklace
+Beacon Shards
+Beacon Amulet
+Growth Amulet
+Mystical Upgrade
+Mystical Block
+Mystical Ore
+Mystical Stairs
+Compactor
+Mystical Lamp
+Mystical Steel Block
+Mystical Teleporter Block
+Mystical Grass Block
+Slot Machine
+Slot Machine (Down)
+Reversing Furnace
+Teleporter
+Mystical Helmet
+Mystical Chestplate
+Mystical Leggins
+Mystical Boots
+Mystical Steel Helmet
+Mystical Steel Chestplate
+Mystical Steel Leggins
+Mystical Steel Boots
+Mystical Mod
+Compactor
+Molten Mystical Steel
+Mystical Zombie
+Mystical Zombie hurts
+Mystical Zombie dies
+Mystical Zombie groans
+You can be teleported only if you are in the Overworld or in the Mystical Dimension.
+Teleporter
+Inventory
+Compactor
+Inventory
+Reversing Furnace

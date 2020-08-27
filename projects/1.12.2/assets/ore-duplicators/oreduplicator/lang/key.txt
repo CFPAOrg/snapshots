@@ -1,0 +1,17 @@
+tile.creativeoredup.name
+tile.diamondoredup.name
+tile.emeraldoredup.name
+block.oreduplicator.emeraldoredup
+block.oreduplicator.goldenoredup
+block.oreduplicator.diamondoredup
+block.oreduplicator.nether_starblock
+block.oreduplicator.netherstarordup
+block.oreduplicator.woodenoredup
+tile.goldenoredup.name
+tile.netherstarordup.name
+tile.woodenoredup.name
+block.oreduplicator.creativeoredup
+block.oreduplicator.ironoredup
+tile.nether_starblock.name
+itemGroup.taboreduptab
+tile.ironoredup.name

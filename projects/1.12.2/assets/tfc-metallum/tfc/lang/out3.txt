@@ -1,0 +1,105 @@
+Villiaumite Schist
+Villiaumite Gneiss
+Villiaumite Marble
+Rhodochrosite Granite
+Rhodochrosite Diorite
+Rhodochrosite Gabbro
+Rhodochrosite Shale
+Rhodochrosite Claystone
+Rhodochrosite Rocksalt
+Rhodochrosite Limestone
+Rhodochrosite Conglomerate
+Rhodochrosite Dolomite
+Rhodochrosite Chert
+Rhodochrosite Chalk
+Rhodochrosite Rhyolite
+Rhodochrosite Basalt
+Rhodochrosite Andesite
+Rhodochrosite Dacite
+Rhodochrosite Quartzite
+Rhodochrosite Slate
+Rhodochrosite Phyllite
+Rhodochrosite Schist
+Rhodochrosite Gneiss
+Rhodochrosite Marble
+Fluorite Granite
+Fluorite Diorite
+Fluorite Gabbro
+Fluorite Shale
+Fluorite Claystone
+Fluorite Rocksalt
+Fluorite Limestone
+Fluorite Conglomerate
+Fluorite Dolomite
+Fluorite Chert
+Fluorite Chalk
+Fluorite Rhyolite
+Fluorite Basalt
+Fluorite Andesite
+Fluorite Dacite
+Fluorite Quartzite
+Fluorite Slate
+Fluorite Phyllite
+Fluorite Schist
+Fluorite Gneiss
+Fluorite Marble
+Carobbiite Granite
+Carobbiite Diorite
+Carobbiite Gabbro
+Carobbiite Shale
+Carobbiite Claystone
+Carobbiite Rocksalt
+Carobbiite Limestone
+Carobbiite Conglomerate
+Carobbiite Dolomite
+Carobbiite Chert
+Carobbiite Chalk
+Carobbiite Rhyolite
+Carobbiite Basalt
+Carobbiite Andesite
+Carobbiite Dacite
+Carobbiite Quartzite
+Carobbiite Slate
+Carobbiite Phyllite
+Carobbiite Schist
+Carobbiite Gneiss
+Carobbiite Marble
+Arsenic Granite
+Arsenic Diorite
+Arsenic Gabbro
+Arsenic Shale
+Arsenic Claystone
+Arsenic Rocksalt
+Arsenic Limestone
+Arsenic Conglomerate
+Arsenic Dolomite
+Arsenic Chert
+Arsenic Chalk
+Arsenic Rhyolite
+Arsenic Basalt
+Arsenic Andesite
+Arsenic Dacite
+Arsenic Quartzite
+Arsenic Slate
+Arsenic Phyllite
+Arsenic Schist
+Arsenic Gneiss
+Arsenic Marble
+Native Ardite
+Poor Native Ardite
+Rich Native Ardite
+Small Native Ardite
+Rutile
+Poor Rutile
+Rich Rutile
+Small Rutile
+Native Osmium
+Poor Native Osmium
+Rich Native Osmium
+Small Native Osmium
+Bauxite
+Poor Bauxite
+Rich Bauxite
+Small Bauxite
+Wolframite
+Poor Wolframite

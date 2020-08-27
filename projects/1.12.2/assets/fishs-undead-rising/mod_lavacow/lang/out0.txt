@@ -1,0 +1,132 @@
+Nether Stew
+Cane Beef
+Cane Pork
+Cane Rotten Flesh
+Potion of Fission
+Hyphae
+Glow Shroom
+Parasite
+Cooked Parasite
+Piranha
+Cooked Piranha
+Cheirolepis
+Cooked Cheirolepis
+Minced meat
+Meat Ball
+Fangtooth
+Bone Sword
+Intestine
+Frozen Thigh
+Poisonous Spore
+Undying Heart
+Golden Heart
+Molten Meat
+Molten Axe
+Molten Hammer
+Molten Heart
+Potion of MOOten Lava
+Swine Mask
+Plagued Porkchop
+Green Bacon & Eggs
+Plagued Hide    
+Scythe Claw
+Azrael's Scythe
+"Famine"
+Mimicrab Claw
+Baked Mimicrab Claws
+Silky Sludge
+Mossy Stick
+Sludge Pile
+"Pestilence"
+Burnt Ovipositor
+"War"
+Molten Frypan
+Molten Helmet
+Molten Chestplate
+Molten Leggings
+Molten Boots
+Ptera Wing
+Fried Ptera Wing
+Poison Stinger
+Vespa Carapace
+Tooth Dagger 
+Bee Sting
+Sausage Roll
+Swine Tunics
+Swine Pants
+Swine Boots
+Swarmer
+Cooked Swarmer
+Swarmer Launcher
+Cursed Fabric
+Pet Bandage
+Holy Sludge
+Holy Grenade
+Black Feather
+Shattered Ice
+Halo Necklace
+Dream Catcher
+Glow Shroom Cap
+Glow Shroom Stem
+Bloodtooth
+Cordyceps
+Veil Shroom
+Midnight Mourne
+Raven Whistle
+Acidic Heart
+Famine Helmet
+Famine Tunics
+Famine Pants
+Famine Boots
+Foul Bristle
+Crab Cake
+Molten Meat
+Vespa Carapace
+Scythe Claw
+Broodmother
+§oEnjoy a Wormy Cuddle§r\nSpawn a Vespa larva during combat or when a block is harvested.
+Famine
+§oHorseman of Famine§r\nGives Hunger. Restore 1 hunger points when hitting a non-undead entity or harvesting a block.      
+Moogma
+Mycosis
+Parasite
+Foglet
+Frigid
+Undead Swine
+Salamander
+Ithaqua
+Mimicrab
+Sludge Lord
+Lil'Sludge
+Raven
+Ptera
+Vespa
+Scarecrow
+Vespa Cocoon
+Swarmer
+Piranha
+Osvermis
+Seagull
+Penghoul
+Undertaker
+Unburied
+Parasite squirms
+Parasite dies
+Parasite hurts
+Foglet groans
+Foglet dies
+Foglet hurts
+Undead Swine snuffles
+Undead Swine snuffles
+Undead Swine dies
+Undead Swine hurts
+Salamander groans
+Salamander dies
+Salamander hurts
+Mimicrab snaps
+Ithaqua barks
+Ithaqua howls
+Ithaqua dies
+Ithaqua hurts
+Mimicrab clicks
+Mimicrab dies

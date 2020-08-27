@@ -1,0 +1,3 @@
+entity.happycreeper.name
+entity.test1.name
+item.happycreeperskin.name

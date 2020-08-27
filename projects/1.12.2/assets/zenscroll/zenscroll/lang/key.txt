@@ -1,0 +1,9 @@
+zenscroll.config.modifierKey
+zenscroll.config.reversed
+zenscroll.config.enabled
+zenscroll.tooltip
+zenscroll.options.modifier_key
+zenscroll.jei.notBound
+zenscroll.jei.creativeOnly
+zenscroll.jei.scroll.title
+zenscroll.kick.uCheatin

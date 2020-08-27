@@ -1,0 +1,15 @@
+itemGroup.tabHandyMods
+tile.handymods.ender_box.name
+tile.handymods.item_holder_opaque.name
+tile.handymods.item_holder_transparent.name
+tile.handymods.chesty_crafting_table.name
+tile.handymods.ender_boxer.name
+tile.handymods.ender_boxed.name
+tooltip.handymods.ender_box.default
+tooltip.handymods.ender_box.empty
+tooltip.handymods.ender_box.contains_block
+tooltip.handymods.ender_box.contains_block.advanced
+tooltip.handymods.item_holder_opaque.default
+tooltip.handymods.item_holder_transparent.default
+tooltip.handymods.chesty_crafting_table.default
+tooltip.handymods.ender_boxer.default

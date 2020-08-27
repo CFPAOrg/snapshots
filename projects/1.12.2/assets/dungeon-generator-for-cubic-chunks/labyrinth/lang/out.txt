@@ -1,0 +1,7 @@
+English
+US
+en_US
+Block eraser tool
+Block filler tool
+Counter
+Dungeon generator for Cubic Chunks mod

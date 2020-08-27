@@ -1,0 +1,73 @@
+Forest Troll Leather Leggings
+Forest Troll Leather Boots
+Frost Troll Leather Helmet
+Frost Troll Leather Chestplate
+Frost Troll Leather Leggings
+Frost Troll Leather Boots
+Mountain Troll Leather Helmet
+Mountain Troll Leather Chestplate
+Mountain Troll Leather Leggings
+Mountain Troll Leather Boots
+-10%% Projectile Damage
+-30%% Projectile Damage
+-20%% Projectile Damage
+-10%% Projectile Damage
+Sickly Dragon Meal
+Stunts dragon growth
+Desert Myrmex Egg
+Jungle Myrmex Egg
+Desert Myrmex Resin Chunk
+Jungle Myrmex Resin Chunk
+Desert Myrmex Chitin
+Jungle Myrmex Chitin
+Myrmex Stinger
+Desert Myrmex Staff
+Jungle Myrmex Staff
+Desert Myrmex Chitin Sword
+Jungle Myrmex Chitin Sword
+Desert Myrmex Chitin Pickaxe
+Jungle Myrmex Chitin Pickaxe
+Desert Myrmex Chitin Axe
+Jungle Myrmex Chitin Axe
+Desert Myrmex Chitin Shovel
+Jungle Myrmex Chitin Shovel
+Desert Myrmex Chitin Hoe
+Jungle Myrmex Chitin Hoe
+Desert Myrmex Stinger Sword
+Jungle Myrmex Stinger Sword
+Desert Myrmex Chitin Helmet
+Desert Myrmex Chitin Chestplate
+Desert Myrmex Chitin Leggings
+Desert Myrmex Chitin Boots
+Jungle Myrmex Chitin Helmet
+Jungle Myrmex Chitin Chestplate
+Jungle Myrmex Chitin Leggings
+Jungle Myrmex Chitin Boots
+Amphithere Feather
+Amphithere Arrow
+Knocks all mobs back with the power of an ampithere's wings!
+Sea Serpent Fang
+Sea Serpent Scales
+Sea Serpent Scales
+Sea Serpent Scales
+Sea Serpent Scales
+Sea Serpent Scales
+Sea Serpent Scales
+Sea Serpent Scales
+Tide Guardian Helmet
+Tide Guardian Chestplate
+Tide Guardian Leggings
+Tide Guardian Boots
+Tide Arrow
+Not Inundated by water!
+Provides Water Breathing
+Provides Strength when wet, increasing levels with full set
+Iron Chain Link
+Iron Chain
+Similar to a lead, can be tied to wall blocks
+Cannot be broken, Can be used on most mobs
+Sticky Iron Chain
+Used to connect two chained mobs
+Loses stickiness after use
+Creative Dragon Meal
+Instantly tame any Dragon

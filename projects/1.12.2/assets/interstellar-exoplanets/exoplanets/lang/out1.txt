@@ -1,0 +1,105 @@
+(§eYz Ceti B§r) Gravel
+(§eYz Ceti B§r) Igneous Rock
+(§eYz Ceti B§r) Metamorphic Rock
+(§eYz Ceti B§r) Sedimentary Rock
+(§6Yz Ceti C§r) Loose Sediment
+(§6Yz Ceti C§r) Loose Sediment 2
+(§6Yz Ceti C§r) Gravel
+(§6Yz Ceti C§r) Igneous Rock
+(§6Yz Ceti C§r) Metamorphic Rock
+(§6Yz Ceti C§r) Sedimentary Rock
+(§bYz Ceti D§r) Loose Sediment
+(§bYz Ceti D§r) Loose Sediment 2
+(§bYz Ceti D§r) Gravel
+(§bYz Ceti D§r) Igneous Rock
+(§bYz Ceti D§r) Metamorphic Rock
+(§bYz Ceti D§r) Sedimentary Rock
+(§9Trappist1 1c§r) Surface Rock
+(§aTrappist1 1e§r)
+(§aTrappist1 1e§r) Dirt
+(§aTrappist1 1e§r) Strange Grass
+(§aTrappist1 1e§r) Planetary Stone
+(§9Trappist1 1c§r) Dirt
+(§9Trappist1 1c§r) Dirt
+§cVolcanic Cooled Chunk
+§cVolcanic Molten Chunk
+§cVolcanic Ash Surface
+Hydralic Bottom Support
+Hydralic Middle Beam
+Hydralic Top Support
+Slanted Horizontal Block
+Slanted Roof
+Lever Door Controller
+Button Door Controller
+Gui Door Controller
+Alarm Lamp
+Alarm Lamp
+Wall Light
+Wall Light
+MetalBlock Lamp
+Meta Lamp Block
+Cellar Lamp
+Cellar Lamp
+Inset Lamp
+Inset Lamp
+Bronze Block
+Brass Block
+Steel Block
+2219-Aluminum Block
+Copper Ore
+Tin Ore
+Lead Ore
+Nickel Ore
+Platinum Ore
+Aluminium Ore
+Titanium Ore
+Tungsten Ore
+Silver Ore
+Zinc Ore
+Copper Block
+Tin Block
+Lead Block
+Nickel Block
+Platinum Block
+Aluminium Block
+Titanium Block
+Tungsten Block
+Silver Block
+Zinc Block
+Alloy Refinery
+Metal Furnace
+Bronze Alloy Dust
+Brass Alloy Dust
+Steel Alloy Dust
+2219-Aluminum Alloy Dust
+Bronze Alloy Ingot
+Brass Alloy Ingot
+Steel Alloy Ingot
+2219-Aluminum Alloy Ingot
+Copper Dust
+Tin Dust
+Lead Dust
+Nickel Dust
+Platinum Dust
+Aluminium Dust
+Titanium Dust
+Tungsten Dust
+Silver Dust
+Zinc Dust
+Copper Ingot
+Tin Ingot
+Lead Ingot
+Nickel Ingot
+Platinum Ingot
+Aluminium Ingot
+Titanium Ingot
+Tungsten Ingot
+Silver Ingot
+Zinc Ingot
+Copper Sheet
+Tin Sheet
+Lead Sheet
+Nickel Sheet
+Platinum Sheet
+Aluminium Sheet
+Titanium Sheet

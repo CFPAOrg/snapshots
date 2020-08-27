@@ -1,0 +1,45 @@
+Metalworks
+Blast furnace
+Photovoltaic Panel
+Cable
+Duster
+Geothermal Generator
+Crusher
+Super Charger
+Battery Pack (Low)
+Bio Generator
+Fluid Tank
+Steel Ingot
+Steel Nugget
+Metal Shielding
+Control Circuit
+Steel Pickaxe
+Steel Axe
+Steel Sword
+Steel Shovel
+Steel Boots
+Steel Chestplate
+Steel Leggings
+Steel Helmet
+Battery
+Photovoltaic Cell
+Quartz Sand
+Steel Dust
+Bio Waste
+Produces cheap energy out of blocks around it. NL Produces a very little amount of energy.
+Crushes you loved material NL to it's substantial parts.
+Produces cheap energy out of the sun. NL Peak energy: §c8 CF/t§7 NL Formerly known as §oSolar Panel§r
+Grinds two materials down to a dust
+Heats items up to their melt point NL and combines them to cool them down
+Transfer: §c1000 CF/t
+A really fast way to charge up your energetic items. NL Transfer: §c15000 CF/t§7
+The tiniest way to store some energy. NL Orange is input and Black is output. NL Storage: §c100000 CF§7 NL I/O: §c5000 CF§7
+Uses biological matter off all kinds and liquids to produce a certain amount of CF/t. However it will also produce useless waste.
+This tank can hold up to 20 buckets of your lovely fluids. NL This can don't push fluids in any direction, you have to pull it out!
+Blast Furnace
+Duster
+Geothermal Generator
+Crusher
+Bio Generator
+Machine configurations
+Enable configurations

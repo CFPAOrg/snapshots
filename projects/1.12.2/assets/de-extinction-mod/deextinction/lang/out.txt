@@ -1,0 +1,103 @@
+Banksia DNA
+Banksia Fossil
+Dirty Banksia Fossil
+Sequoiadendron
+Sequoiadendron Sapling
+Sequoiadendron Wood
+Sequoiadendron Leaves
+Sequoiadendron Wood Planks
+Sequoiadendron Door
+Sequoiadendron Fence Gate
+Sequoiadendron Fence
+Sequoiadendron Slab
+Sequoiadendron Slabs
+Sequoiadendron Stairs
+Sequoiadendron Trapdoor
+Sequoiadendron Data Disk
+Sequoiadendron DNA
+Sequoiadendron Fossil
+Dirty Sequoiadendron Fossil
+Stone Fossil Block (Animal)
+Stone Fossil Block (Plant)
+Stone Fossil Block (Fungus)
+Granite Fossil Block (Animal)
+Granite Fossil Block (Plant)
+Granite Fossil Block (Fungus)
+Diorite Fossil Block (Animal)
+Diorite Fossil Block (Plant)
+Diorite Fossil Block (Fungus)
+Andesite Fossil Block (Animal)
+Andesite Fossil Block (Plant)
+Andesite Fossil Block (Fungus)
+Sandstone Fossil Block (Animal)
+Sandstone Fossil Block (Plant)
+Sandstone Fossil Block (Fungus)
+Cleaning Table
+DNA Extractor
+DNA Decoder
+No DNA sequence is saved!
+DNA sequence is saved!
+DNA sequences are saved!
+DNA Editor
+De-Extinction Machine
+Microscope
+Egg Block
+(Creative) Random DNA when placed
+Cleaning Table
+DNA Extractor
+DNA Decoder
+Requires a DNA Bottle!
+Requires a data disk!
+DNA Editor
+Add Floppy Disk
+Start
+Cancel
+De-Extinction Machine
+Microscope
+View Sample
+Remove Sample
+Sample
+DNA
+Health
+Healthy
+Slightly injured
+Injured
+Badly injured
+Age
+Gender
+Analyzing
+Rock Pick
+Cleaning Brush
+DNA Bottle
+Floppy Disk
+(Creative) Right Click to define DNA
+DNA
+Viability
+Floppy Disk Empty
+Empty Syringe
+Embryo Inseminated
+Syringe with Blood
+Health
+Attack
+Movement
+Knockback
+Gender
+Male
+Female
+Sitting
+Not Sitting
+day
+days
+month
+months
+year
+years
+newborn
+De-Extinction Blocks
+De-Extinction Items
+De-Extinction Research
+Adenine
+Cytosine
+Guanine
+Thymine
+Uracil

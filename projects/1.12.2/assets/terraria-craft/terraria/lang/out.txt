@@ -1,0 +1,67 @@
+Mine your first nugget of ore with a pickaxe.
+Heart Breaker
+Discover and smash your first heart crystal underground.
+Heavy Metal
+Obtain an anvil made from iron or lead.
+Star Power
+Craft a mana crystal out of fallen stars, and consume it.
+It's Hard!
+Unleash the ancient spirits of light and darkness across your world, enabling much stronger foes and showering the world with dazzling treasures (and rainbows!).
+Begone, Evil!
+Smash a demon or crimson altar with a powerful, holy hammer.
+Extra Shiny!
+Mine a powerful ore that has been newly blessed upon your world.
+Photosynthesis
+Mine chlorophyte, an organic ore found deep among the thickest of flora.
+Get a Life
+Consume a life fruit, which grows in the thick of subterranean jungle grass.
+Into Orbit
+You can only go down from here!
+Rock Bottom
+The only way is up!
+Pretty in Pink
+Kill pinky.
+Miner for Fire
+Craft a molten pickaxe using the hottest of materials.
+Watch Your Step!
+Become a victim to a nasty underground trap.
+Marathon Medalist
+Travel a total of 20K blocks on foot.
+Topped Off
+Attain maximum health and mana possible without accessories or buffs.
+You Can Do It!
+Survive your character's first full night.
+From Mod Author
+/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <include air true|false> <name>
+Life: %s
+Mana
+%s has defeated %,d-th %s!
+Corruption
+Crimson
+Desert
+Forest
+Graveyard
+Jungle
+Meteorite
+Mushroom
+Ocean
+Snow
+Space
+Underworld
+Green Slime
+Blue Slime
+Baby Slime
+Pinky
+NPC
+Bunny
+Demon Eye
+Firefly
+Worm
+Red Slime
+Purple Slime
+Yellow Slime
+Black Slime
+Drippler
+Jungle Slime
+Eater of Souls
+Crimera

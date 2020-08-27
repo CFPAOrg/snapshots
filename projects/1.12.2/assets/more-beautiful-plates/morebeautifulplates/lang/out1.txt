@@ -1,0 +1,58 @@
+Gold Block Pressure Plate
+Gold Ore Pressure Plate
+Gravel Pressure Plate
+Gray Concrete Pressure Plate
+Gray Concrete Powder Pressure Plate
+Gray Glazed Terracotta Pressure Plate
+Gray shulker Box Pressure Plate
+Gray Stained Glass Pressure Plate
+Gray Terracotta Pressure Plate
+Gray Wool Pressure Plate
+Green Concrete Pressure Plate
+Green Concrete Powder Pressure Plate
+Green Glazed Terracotta Pressure Plate
+Green shulker Box Pressure Plate
+Green Stained Glass Pressure Plate
+Green Terracotta Pressure Plate
+Green Wool Pressure Plate
+Hardened Clay Pressure Plate
+Hay Block Pressure Plate
+Ice Pressure Plate
+Iron Block Pressure Plate
+Iron Ore Pressure Plate
+Jungle Log Pressure Plate
+Jungle Pressure Plate
+Lapis Block Pressure Plate
+Lapis Ore Pressure Plate
+Light Blue Concrete Pressure Plate
+Light Blue Concrete Powder Pressure Plate
+Light Blue Glazed Terracotta Pressure Plate
+Light Blue shulker Box Pressure Plate
+Light Blue Stained Glass Pressure Plate
+Light Blue Terracotta Pressure Plate
+Light Blue Wool Pressure Plate
+Light Gray Concrete Pressure Plate
+Light Gray Concrete Powder Pressure Plate
+Light Gray Glazed Terracotta Pressure Plate
+Light Gray shulker Box Pressure Plate
+Light Gray Stained Glass Pressure Plate
+Light Gray Terracotta Pressure Plate
+Light Gray Wool Pressure Plate
+Lime Concrete Pressure Plate
+Lime Concrete Powder Pressure Plate
+Lime Glazed Terracotta Pressure Plate
+Lime shulker Box Pressure Plate
+Lime Stained Glass Pressure Plate
+Lime Terracotta Pressure Plate
+Lime Wool Pressure Plate
+Magenta Concrete Pressure Plate
+Magenta Concrete Powder Pressure Plate
+Magenta Glazed Terracotta Pressure Plate
+Magenta shulker Box Pressure Plate
+Magenta Stained Glass Pressure Plate
+Magenta Terracotta Pressure Plate
+Magenta Wool Pressure Plate
+Magma Pressure Plate
+Melon Block Pressure Plate
+Mossy Cobblestone Pressure Plate
+Mossy Stone Bricks Pressure Plate

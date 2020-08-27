@@ -1,0 +1,96 @@
+Red Large Bricks Slab
+Orange Large Bricks Slab
+Yellow Large Bricks Slab
+Lime Large Bricks Slab
+Green Large Bricks Slab
+Cyan Large Bricks Slab
+Light Blue Large Bricks Slab
+Blue Large Bricks Slab
+Purple Large Bricks Slab
+Magenta Large Bricks Slab
+Pink Large Bricks Slab
+White Large Bricks Slab
+Light Gray Large Bricks Slab
+Gray Large Bricks Slab
+Black Large Bricks Slab
+Brown Large Bricks Slab
+Red Vase
+Orange Vase
+Yellow Vase
+Lime Vase
+Green Vase
+Cyan Vase
+Light Blue Vase
+Blue Vase
+Purple Vase
+Magenta Vase
+Pink Vase
+White Vase
+Light Gray Vase
+Gray Vase
+Black Vase
+Brown Vase
+Amethyst Ore
+Aventurine Ore
+Carnelian Ore
+Chalcopyrite Ore
+Citrine Ore
+Jade Ore
+Jasper Ore
+Labradorite Ore
+Mica Ore
+Moonstone Ore
+Rose Quartz Ore
+Sodalite Ore
+Amethyst Tile Style 1
+Amethyst Tile Style 2
+Amethyst Tile Style 3
+Amethyst Tile Style 4
+Amethyst Tile Style 5
+Amethyst Tile Style 6
+Aventurine Tile Style 1
+Aventurine Tile Style 2
+Aventurine Tile Style 3
+Aventurine Tile Style 4
+Aventurine Tile Style 5
+Aventurine Tile Style 6
+Carnelian Tile Style 1
+Carnelian Tile Style 2
+Carnelian Tile Style 3
+Carnelian Tile Style 4
+Carnelian Tile Style 5
+Carnelian Tile Style 6
+Chalcopyrite Tile Style 1
+Chalcopyrite Tile Style 2
+Chalcopyrite Tile Style 3
+Chalcopyrite Tile Style 4
+Chalcopyrite Tile Style 5
+Chalcopyrite Tile Style 6
+Citrine Tile Style 1
+Citrine Tile Style 2
+Citrine Tile Style 3
+Citrine Tile Style 4
+Citrine Tile Style 5
+Citrine Tile Style 6
+Jade Tile Style 1
+Jade Tile Style 2
+Jade Tile Style 3
+Jade Tile Style 4
+Jade Tile Style 5
+Jade Tile Style 6
+Jasper Tile Style 1
+Jasper Tile Style 2
+Jasper Tile Style 3
+Jasper Tile Style 4
+Jasper Tile Style 5
+Jasper Tile Style 6
+Labradorite Tile Style 1
+Labradorite Tile Style 2
+Labradorite Tile Style 3
+Labradorite Tile Style 4
+Labradorite Tile Style 5
+Labradorite Tile Style 6
+Mica Tile Style 1
+Mica Tile Style 2
+Mica Tile Style 3
+Mica Tile Style 4

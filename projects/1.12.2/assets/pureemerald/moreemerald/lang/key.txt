@@ -1,0 +1,13 @@
+item.emerald_sword.name
+item.emerald_shovel.name
+item.emerald_pickaxe.name
+item.emerald_axe.name
+item.emerald_hoe.name
+item.emerald_helmet.name
+item.emerald_chestplate.name
+item.emerald_leggings.name
+item.emerald_boots.name
+item.emerald_fragment.name
+item.pure_emerald.name
+tile.ore_overworld_emerald_fragment.name
+itemGroup.moreemeraldtab

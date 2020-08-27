@@ -1,0 +1,51 @@
+You may want to increase rent to %s and/or find a way to reduce upkeep.
+You may want to find a way to reduce upkeep.
+%s is not earning or losing money.
+Rent is due in %s hours.
+Upkeep is due in %s hours.
+This clan is a server clan.
+Raid Rewards Multiplier: %s
+/clan disband
+Disband your clan.
+You have disbanded %s.
+%s has been disbanded by %s.
+You cannot disband %1$s using /clan disband because it is a server clan. Use /opclan disband %1$s to disband it.
+%s does not have enough funds to disband. Current requirement: %s.
+/clan form <name>
+Form a new clan.
+Clan formed.
+You have insufficient funds to form a clan. It costs %s.
+You are already in a clan.
+/clan list [sort|invites] [page]
+View a list of clans. Use 'invites' to see which clans have invited you to join, or sort by [money|land|members|rewardmult], any other sort is alphabetical.
+Clans on this server:
+(%s) %s - %s
+%s - %s
+There are no clans on this server.
+You don't have any pending invites.
+/clan playerinfo [player]
+View what clans a player is in.
+You must specify a player when viewing details from the console. Use %s to get the details of a player.
+Target player %s was not found.
+Player name: %s
+Clans:
+Leader of %s
+Admin of %s
+Member of %s
+%s is not in any clans.
+Win-Loss Ratio: %s
+Last Seen: %s
+/clan setbanner [banner]
+Set your clan's banner to one you are holding, or type the banner's NBT form.
+The clan banner you have specified is invalid.
+The clan banner you have specified is already taken.
+Clan banner for %s set.
+You are not holding a banner.
+/clan setcolor <color>
+Set the clan's color for clan chat, fancymap, Dynmap, etc. Basic color names, Hex colors(0x######), and RGB Ints are supported.
+%s color set.
+The color %s is invalid.
+/clan setdefault <clan>
+Sets the clan to use when you don't type /clan [clanname] <subcommand> [args...].
+Your default clan has been set to %s.
+/clan setdescription <new description>

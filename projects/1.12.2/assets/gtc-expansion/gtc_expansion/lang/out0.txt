@@ -1,0 +1,102 @@
+Block of Antimony
+Block of Steel
+Block of Invar
+Block of Zinc
+Block of Lead
+Block of Platinum
+Block of Brass
+Block of Tungstensteel
+Block of Nickel
+Block of Constantan
+Block of Osmium
+Block of Manganese
+Block of Magnalium
+Block of Stainless Steel
+Block of Bismuth
+Block of Red Garnet
+Block of Yellow Garnet
+Block of Green Sapphire
+Block of Olivine
+Brass Item Pipe
+Large Brass Item Pipe
+Small Steel Fluid Pipe
+Steel Fluid Pipe
+Large Steel Fluid Pipe
+Small Stainless Steel Fluid Pipe
+Stainless Steel Fluid Pipe
+Large Stainless Steel Fluid Pipe
+Small Tungstensteel Fluid Pipe
+Tungstensteel Fluid Pipe
+Large Tungstensteel Fluid Pipe
+Pyrite Ore
+Cinnabar Ore
+Sphalerite Ore
+Tungstate Ore
+Sheldonite Ore
+Olivine Ore
+Sodalite Ore
+Olivine Ore
+Cassiterite Ore
+Tetrahedrite Ore
+Galena Ore
+Chromite Ore
+Industrial Blast Furnace
+Industrial Electrolyzer
+Implosion Compressor
+Industrial Grinder
+Industrial Sawmill
+Vacuum Freezer
+Alloy Smelter
+Assembling Machine
+Chemical Reactor
+Distillation Tower
+Alloy Furnace
+Primitive Blast Furnace
+Fluid Caster
+Fluid Smelter
+Plate Bending Machine
+Plate Cutting Machine
+Lathe
+Wiremill
+Extruder
+Microwave Oven
+Stone Compressor
+Stone Extractor
+Diesel Generator
+Thermal Boiler
+Large Steam Turbine
+Large Gas Turbine
+Gas Turbine
+Fusion Control Computer
+Locker
+Electric Locker
+Advanced Worktable
+Dust Bin
+Trash Bin
+Standard Machine Casing
+Reinforced Machine Casing
+Advanced Machine Casing
+Fire Clay
+Fire Bricks
+Iridium Reinforced Tungstensteel Block
+Tungstensteel Reinforced Stone
+Electrum Cable
+Insulated Electrum Cable
+2xInsulated Electrum Cable
+4xInsulated Electrum Cable
+Aluminium Cable
+Insulated Aluminium Cable
+2xInsulated Aluminium Cable
+4xInsulated Aluminium Cable
+Input Hatch
+Output Hatch
+Dynamo Hatch
+Machine Control Hatch
+Fusion Material Injector
+Fusion Material Extractor
+Fusion Energy Injector
+Fusion Energy Extractor
+Olivia
+Nickelback
+Galvania
+Oilberry

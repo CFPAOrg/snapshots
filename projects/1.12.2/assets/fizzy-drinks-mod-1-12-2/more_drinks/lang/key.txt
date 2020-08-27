@@ -1,0 +1,14 @@
+item.kolanuts.name
+item.cocacola.name
+item.fantaorange.name
+item.sprite.name
+item.redbull.name
+item.lemon.name
+item.orange.name
+item.drpepper.name
+item.monsterengery.name
+item.mountaindew.name
+item.dietcoke.name
+item.cherry.name
+item.lime.name
+itemGroup.tabfizzydrinks

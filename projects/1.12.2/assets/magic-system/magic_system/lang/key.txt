@@ -1,0 +1,6 @@
+tile.luminouselementblock.name
+item.umbraelement.name
+item.crystal.name
+item.thermalelement.name
+item.cryogenicelement.name
+item.ironchunk.name

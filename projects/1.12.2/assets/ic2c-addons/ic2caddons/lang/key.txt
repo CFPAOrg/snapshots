@@ -1,0 +1,16 @@
+item.nano_bow.name
+item.uranium_rod.name
+item.uranium_rod_energized.name
+item.uranium_arrow.name
+item.uranium_arrow_energized.name
+death.attack.ic2caddons_nanobow
+death.attack.ic2caddons_nanobow.item
+itemGroup.tabIc2cAddons
+IC2CAddons.tooltip
+tooltip.ic2caddons.expandable
+tooltip.ic2caddons.item.nano_bow
+tooltip.ic2caddons.item.nano_bow.modeinfo
+tooltip.ic2caddons.item.nano_bow.modeinfountrack
+tooltip.ic2caddons.item.nano_bow.mode
+tooltip.ic2caddons.item.nano_bow.zoominfo
+tooltip.ic2caddons.item.nano_bow.zoom

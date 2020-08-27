@@ -1,0 +1,13 @@
+item.flameboots.name
+item.cloverleaf.name
+item.tntboots.name
+tile.clover.name
+item.hydroboots.name
+item.villagerboots.name
+item.slimeboots.name
+item.luckyboots.name
+item.airboots.name
+item.magicboots.name
+item.musicboots.name
+item.ultraboots.name
+item.loveboots.name

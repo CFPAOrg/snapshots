@@ -1,0 +1,11 @@
+item.neblosteak.name
+tile.neblohanaore.name
+advancements.installthemod.title
+advancements.installthemod.descr
+item.neblotonicingot.name
+item.akbullers.name
+entity.nebula.name
+item.neblotonicsword.name
+item.nebulotitusak.name
+item.neblotonicpickaxe.name
+itemGroup.tabnebulacraft

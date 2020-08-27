@@ -1,0 +1,102 @@
+Jar Of Bugs
+Onion
+This "cool" vegetable is actually just an onion.
+Irradiated Steak
+Steak (over)cooked using the power of uranium!
+Fungal Spore
+You must live off the land, and in this land, it means eating this.
+Sporeo
+Huh. Who knew fungal spores could be so delicious?
+Morel Mushroom
+A delicacy amongst both humans and consorts.
+French Fry
+Thresh Prince DVD
+Game Bro Magazine
+Game Grl Magazine
+Midnight Crew Poster
+Sweet Bro and Hella Jeff Poster
+Fraymotifs Shop Sign
+Food Shop Sign
+Crumply Hats Shop Sign
+General Shop Sign
+Candy Shop Sign
+Captcharoid Camera
+Cat Claws
+Cat Claws
+Bowl of Leaves
+It's literally just salad, Gordon Ramsay would not approve.
+Strawberry chunk
+It tastes a lot better than it looks.
+Carving Tool
+Crumply Hat
+Frog Statue Replica
+Stone Eyeballs
+Stone Slab
+Glowystone Dust
+Catboss - Emissary of Dance
+Catboss - Dance-Stab-Dance
+SinFrog - Retro Battle Theme
+Fake Arm
+Fool your friends with this super-realistic fake arm!
+Rock Cookie
+It's as edible as a rock
+Kundler Shelled Surprise Embryo
+Oh boy! You sure can't wait to find out what's contained inside the Surprise Embryo!
+The Egg of Unknowable, Horrible Truths
+This egg somehow knows your name.
+WOW! NO WAY! You found a %s inside your Surprise Embryo!
+Boondollars
+Amount: %s
+ShatterBeacon
+Net
+Perfect for catching bugs and frogs!
+Golden Grasshopper
+Frog
+Totally Normal Frog
+Ruby Contraband
+Tiny Genesis Frog
+Frog
+Golden Frog
+Frog
+Random Frog
+Genetically Modified Frog
+Totally Normal Frog
+Ruby Contraband
+Tiny Genesis Frog
+frog.null.name
+Golden Frog
+§k Susan
+Lighter Eyes
+Darker Eyes
+Blank Eyes
+Solid-Colored Belly
+Spotted Belly
+Striped Belly
+Tiny
+Small
+Normal Sized
+Big
+Huge
+Minestuck
+Minestuck
+Exit Edit Mode
+View General Minestuck Gui
+Captchalouge Held Item
+Toggle Aspect Effects
+Open Sylladex
+Land of %s and %s
+Fungi
+Dank
+Must
+Mycelium
+Mold
+Mildew
+Forests
+Trees
+Boreal Forests
+Taigas
+Cold Forests
+Frost
+Ice
+Snow
+Heat

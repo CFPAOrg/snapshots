@@ -1,0 +1,67 @@
+Positional Cards.
+Work Glasses
+Work Glasses allow you to see the working
+areas of machines and Positional Cards
+through walls.
+Stabilized %s
+Flies accurately and consistently
+when shot from a Dispenser.
+Player Positional Card
+Sneak-Use this item to set it
+to yourself.
+to yourself and to open a GUI
+for setting what can
+be accessed.
+%s (%s)
+Player: %s
+No target has been set.
+Absolute Positional Card
+Sneak-Use this item on a block to
+store its position and side.
+%s (%s)
+Distance: %s
+The target location is not within range.
+No target has been set.
+Relative Positional Card
+You can Sneak-Use this item on a block
+to set an origin, and then Sneak-Use
+it on another block to store the
+relative position, or just Use it to
+open its GUI to enter numbers directly.
+%s (%s)
+Distance: %s
+The target location is not within range.
+No target has been set.
+Absolute Area Card
+Sneak-Use this item on a block to
+store its anchor position and side,
+then use it to open a GUI to set
+its range.
+%s (%s)
+Distance: %s
+Area: %sh x %sw x %sl
+The target location is not within range.
+No target has been set.
+Relative Area Card
+You can Sneak-Use this item on a block
+to set an origin, and then Sneak-Use
+it on another block to store the
+relative position, or just Use it to
+open its GUI to enter numbers directly.
+%s (%s)
+Distance: %s
+Area: %sh x %sw x %sl
+The target location is not within range.
+No target has been set.
+Fluxed Pearl
+The pearl seems to be reacting
+to the clouds above.
+Adding redstone to an Ender Pearl
+seems to have reduced its capability
+for teleportation but given it
+strange powers over flux.
+Coating an Ender Pearl with Redstone muffles its teleportation abilities.
+Instead, these pearls create a pulse of flux when they hit a block.
+Fluxed Pearls bounce when they hit slime blocks, and they can be fired from Dispensers.
+Charged Pearl
+A Fluxed Pearl that has been exposed to a lot of energy.\n

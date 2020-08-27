@@ -1,0 +1,10 @@
+itemGroup.tabquickcheatmodtab
+key.mcreator.duplicationblockkey
+item.blackpickaxeofdestruction.name
+item.quickcheatmodlogo.name
+key.mcreator.easycheatkey
+key.mcreator.quickcheatkey
+key.mcreator.duplicationitemkey
+key.mcreator.cookandsmeltiteminmainhandkeybinding
+item.blackbladeofdeath.name
+key.mcreator.quickcheatkeybinding

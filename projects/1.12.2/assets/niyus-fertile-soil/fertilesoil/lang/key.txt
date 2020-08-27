@@ -1,0 +1,4 @@
+item.fertilesoil.fertiliser.name
+tile.fertilesoil.fertilesoil.name
+tile.fertilesoil.fertilesoiltilled.name
+tile.fertilesoil.composter.name

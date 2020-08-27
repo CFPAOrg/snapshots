@@ -1,0 +1,58 @@
+Mining Point Position
+The display position of mining point.
+Top Right
+Top Left
+Buttom Right
+Buttom Left
+Hidden
+Show Miner Rank
+Whether to show the miner rank along with mining points.
+Always Show Miner Status
+Whether to always show the mining status.
+Slippery Ice Custom Color
+Whether to enable custom color for Slippery Ice.
+Mining Points Customize
+Mining Point
+How many mining points this block is worth.
+Mining Assist Settings
+Change the settings contained in mining-assist.cfg
+Effective Items
+The effective items for Mining Assist. (Will be automatically selected if none are specified.)
+Miner Rank
+The mining rank required for Mining Assist.
+Beginner
+Stone Miner
+Iron Miner
+Magnite Miner
+Gold Miner
+Aqua Miner
+Hexcite Miner
+Diamond Miner
+Actual Mining
+Whether to apply actual mining. No matter how much you mine, you can get mining points and mining combo only once.
+Collect Drops
+Whether to collect drops.
+Collect Experiences
+Whether to collect experience drops.
+Priority Vein Mining
+Whether to give priority to Vein Mining over other modes.
+Vein Target Blocks
+The target blocks for Vein Mining. (Will be automatically selected if none are specified.)
+Area Target Blocks
+The target blocks for Area Mining. (Will be automatically selected if none are specified.)
+Tunnel Target Blocks
+The target blocks for Tunnel Mining. (Will be automatically selected if none are specified.)
+Vein Mining Limit
+The max number of blocks that vein mining will break at once.
+Area Mining
+Modified Hardness
+Whether to enable the modified hardness system for Mining Assist.
+Mining Assist Notifications
+If the current mining assist type will be sent in chat when logging in.
+Dimension Settings
+Change the settings for cave dimensions
+Cavern
+Change the settings contained in cavern-dimension.cfg
+Huge Cavern
+Change the settings contained in hugecavern-dimension.cfg
+Aqua Cavern

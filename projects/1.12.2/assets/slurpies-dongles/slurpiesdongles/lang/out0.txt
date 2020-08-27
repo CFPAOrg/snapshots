@@ -1,0 +1,113 @@
+A new update is available for %s
+Amazonite Helmet
+Amazonite Chestplate
+Amazonite Leggings
+Amazonite Boots
+Amethyst Helmet
+Amethyst Chestplate
+Amethyst Leggings
+Amethyst Boots
+Peridot Helmet
+Peridot Chestplate
+Peridot Leggings
+Peridot Boots
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Topaz Helmet
+Topaz Chestplate
+Topaz Leggings
+Topaz Boots
+Withered Helmet
+Withered Chestplate
+Withered Leggings
+Withered Boots
+Amazonite Axe
+Amethyst Axe
+Emerald Axe
+Peridot Axe
+Ruby Axe
+Sapphire Axe
+Topaz Axe
+Withered Axe
+Amazonite Battleaxe
+ Amethyst Battleaxe
+Diamond Battleaxe
+Emerald Battleaxe
+Golden Battleaxe
+Iron Battleaxe
+Peridot Battleaxe
+Ruby Battleaxe
+Sapphire Battleaxe
+Stone Battleaxe
+Topaz Battleaxe
+Withered Battleaxe
+Wooden Battleaxe
+Block of Amazonite
+Block of Amethyst
+Blender
+Blue Bricks
+Cyan Bricks
+Green Bricks
+Orange Bricks
+Purple Bricks
+Rainbow Bricks
+Yellow Bricks
+Blue Glowstone
+Gray Glowstone
+Green Glowstone
+Orange Glowstone
+Pink Glowstone
+Purple Glowstone
+Red Glowstone
+Block of Hardened Topaz
+Block of Lignite
+Block of Peridot
+Reinforced Obsidian
+Block of Ruby
+Block Sapphire
+Block of Topaz
+Absorption Charm
+Absorption Charm Tier 2
+Fire Resistance Charm
+Night Vision Charm
+Health Regeneration Charm
+Regeneration Charm Tier 2
+Speed Charm
+Speed Charm Tier 2
+Strength Charm
+Strength Charm Tier 2
+Water Breathing Charm
+Apple Juice
+Apple Slushee
+Black Coffee
+Carrot Juice
+Coffee
+Lemonade
+Melon Juice
+Melon Slushee
+Orange Juice (OJ)
+Orange Slushee
+Strawberry Juice
+Strawberry Slushee
+Tomato Juice
+Blue Glowstone Dust
+Gray Glowstone Dust
+Green Glowstone Dust
+Orange Glowstone Dust
+Purple Glowstone Dust
+Pink Glowstone Dust
+Red Glowstone Dust
+Apple Slice
+Bacon
+Bacon & Egg Sandwich
+Bacon & Potato Beef Stew
+Bacon & Potato Chicken Stew
+Jimmer's Beef Jerky
+Steak & Chicken Sandwich
+Steak & Pork Sandwich

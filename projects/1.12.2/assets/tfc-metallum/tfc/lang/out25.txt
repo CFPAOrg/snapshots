@@ -1,0 +1,94 @@
+Tough Ingot
+Unshaped Tough
+Tough Double Ingot
+Double Ingot Tough
+Tough Scrap
+Scrap Tough
+Tough Dust
+Dust Tough
+Tough Nugget
+Nugget Tough
+Tough Sheet
+Sheet Tough
+Tough Double Sheet
+Double Sheet Tough
+Anvil Tough
+Tough Tuyere
+Tuyere Tough
+Tough Lamp
+%s Tough Lamp
+Lamp Tough
+Pick Tough
+Pick Head Tough
+Shovel Tough
+Shovel Head Tough
+Axe Tough
+Axe Head Tough
+Hoe Tough
+Hoe Head Tough
+Chisel Tough
+Chisel Head Tough
+Sword Tough
+Sword Blade Tough
+Mace Tough
+Mace Head Tough
+Saw Tough
+Saw Blade Tough
+Javelin Tough
+Javelin Head Tough
+Hammer Tough
+Hammer Head Tough
+Propick Tough
+Propick Head Tough
+Knife Tough
+Knife Blade Tough
+Scythe Tough
+Scythe Blade Tough
+Shears Tough
+Unfinished Chestplate Tough
+Chestplate Tough
+Unfinished Greaves Tough
+Greaves Tough
+Unfinished Boots Tough
+Boots Tough
+Unfinished Helmet Tough
+Helmet Tough
+Tough Shield
+Molten Magnesium Diboride
+Magnesium Diboride Ingot
+Unshaped Magnesium Diboride
+Magnesium Diboride Double Ingot
+Double Ingot Magnesium Diboride
+Magnesium Diboride Scrap
+Scrap Magnesium Diboride
+Magnesium Diboride Dust
+Dust Magnesium Diboride
+Magnesium Diboride Nugget
+Nugget Magnesium Diboride
+Magnesium Diboride Sheet
+Sheet Magnesium Diboride
+Magnesium Diboride Double Sheet
+Double Sheet Magnesium Diboride
+Anvil Magnesium Diboride
+Magnesium Diboride Tuyere
+Tuyere Magnesium Diboride
+Magnesium Diboride Lamp
+%s Magnesium Diboride Lamp
+Lamp Magnesium Diboride
+Pick Magnesium Diboride
+Pick Head Magnesium Diboride
+Shovel Magnesium Diboride
+Shovel Head Magnesium Diboride
+Axe Magnesium Diboride
+Axe Head Magnesium Diboride
+Hoe Magnesium Diboride
+Hoe Head Magnesium Diboride
+Chisel Magnesium Diboride
+Chisel Head Magnesium Diboride
+Sword Magnesium Diboride
+Sword Blade Magnesium Diboride
+Mace Magnesium Diboride
+Mace Head Magnesium Diboride
+Saw Magnesium Diboride
+Saw Blade Magnesium Diboride
+Javelin Magnesium Diboride

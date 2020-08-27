@@ -1,0 +1,88 @@
+Brown Sleeved Transportalizer
+Green Sleeved Transportalizer
+Red Sleeved Transportalizer
+Black Sleeved Transportalizer
+Ruby Red Transportalizer
+A slightly safer transportalizer!
+Golden Transportalizer
+No need to worry about those pesky imps using your transportalizers anymore, or anything that isn't a player, really.
+Paradox Transportalizer
+Your one-way ticket back to Earth, Make sure to pack a way back home.
+Vis Nerds
+Mana Gummy Drop
+Acheron
+%s Acheron
+Vis
+Mana
+Machine Assembly
+This is not your transportalizer!
+Successfully withdrawn %s Boondollars
+Successfully sent %s Boondollars to %s
+Black Light Symbol
+Red Light Symbol
+Green Light Symbol
+Brown Light Symbol
+Blue Light Symbol
+Purple Light Symbol
+Cyan Light Symbol
+Light Gray Light Symbol
+Gray Light Symbol
+Pink Light Symbol
+Lime Light Symbol
+Yellow Light Symbol
+Light Blue Light Symbol
+Magenta Light Symbol
+Orange Light Symbol
+White Light Symbol
+Black Void Symbol
+Red Void Symbol
+Green Void Symbol
+Brown Void Symbol
+Blue Void Symbol
+Purple Void Symbol
+Cyan Void Symbol
+Light Gray Void Symbol
+Gray Void Symbol
+Pink Void Symbol
+Lime Void Symbol
+Yellow Void Symbol
+Light Blue Void Symbol
+Magenta Void Symbol
+Orange Void Symbol
+White Void Symbol
+Black Space Symbol
+Red Space Symbol
+Green Space Symbol
+Brown Space Symbol
+Blue Space Symbol
+Purple Space Symbol
+Cyan Space Symbol
+Light Gray Space Symbol
+Gray Space Symbol
+Pink Space Symbol
+Lime Space Symbol
+Yellow Space Symbol
+Light Blue Space Symbol
+Magenta Space Symbol
+Orange Space Symbol
+White Space Symbol
+Black Time Symbol
+Red Time Symbol
+Green Time Symbol
+Brown Time Symbol
+Blue Time Symbol
+Purple Time Symbol
+Cyan Time Symbol
+Light Gray Time Symbol
+Gray Time Symbol
+Pink Time Symbol
+Lime Time Symbol
+Yellow Time Symbol
+Light Blue Time Symbol
+Magenta Time Symbol
+Orange Time Symbol
+White Time Symbol
+Black Mind Symbol
+Red Mind Symbol
+Green Mind Symbol
+Brown Mind Symbol

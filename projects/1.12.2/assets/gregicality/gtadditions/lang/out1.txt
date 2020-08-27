@@ -1,0 +1,97 @@
+Raw Circuit
+HPIC Wafer
+Raw Circuit
+Naquadah doped Wafer
+Raw Circuit
+NAND Memory Chip (Wafer)
+Raw Circuit
+NanoCPU Wafer
+Raw Circuit
+NOR Memory Chip (wafer)
+Raw Circuit
+PIC Wafer
+Raw Circuit
+QBit Wafer
+Raw Circuit
+Random Acccess Memory Chip (Wafer)
+Raw Circuit
+Wafer
+Raw Circuit
+SoC Wafer
+Raw Circuit
+Acacia Brick Form
+Birch Brick Form
+Dark Oak Brick Form
+Jungle Brick Form
+Oak Brick Form
+Spruce Brick Form
+Raw Carbon Fibers
+Mixed Metal plate
+Advanced Alloy Plate
+Raw Crystal Chip
+Raw Crystal Processor
+Crystal Processing Unit
+Crystal CPU
+Crystal SoC
+Crystal System on a Chip
+Stemcells
+Raw Intelligence
+Lapotron Crystal
+Iridium Alloy Plate
+Uncompressed Iridium Alloy Plate
+Neutron Reflector
+Neuro Processing Unit
+Apatine Electrode
+Blazing Electrode
+Bronze Electrode
+Copper Electrode
+Diamantine Electrode
+Emerald Electrode
+Ender Electrode
+Golden Electrode
+Iron Electrode
+Lapis Electrode
+Obsidian Electrode
+Orchid Electrode
+Rubberised Electrode
+Tin Electrode
+Mica Based Sheet
+Mica Insulator Sheet
+Mica Insulator Foil
+Energy Module
+Energy Cluster
+MAX Battery
+%s Small Turbine Rotor
+%s Medium Turbine Rotor
+%s Large Turbine Rotor
+%s Huge Turbine Rotor
+Duct Tape
+§eLiquid fuel jetpack
+§eThruster Jetpack
+§bAdvanced Thruster Jetpack
+Battery pack (§eLV§r)
+Battery pack (§eMV§r)
+Battery pack (§eHV§r)
+§eNanoMuscle™ Suite Chestplate
+§eNanoMuscle™ Suite Leggins
+§eNanoMuscle™ Suite Boots
+§eNanoMuscle™ Suite Helmet
+§bAdvanced NanoMuscle™ Suite Chestplate
+§bQuarkTech™ Suite Chestplate
+§bQuarkTech™ Suite Leggins
+§bQuarkTech™ Suite Boots
+§bQuarkTech™ Suite Helmet
+§5Advanced QuarkTech™ Suite Chestplate
+§ePower Thruster
+§bAdvanced Power Thruster
+§5Gravitation Engine Unit
+Nano SMD Capacitor
+Wetware SMD Capacitor
+Quantum SMD Capacitor
+Crystal SMD Capacitor
+Refined SMD Capacitor
+Nano SMD Resistor
+Wetware SMD Resistor
+Quantum SMD Resistor
+Crystal SMD Resistor
+Refined SMD Resistor

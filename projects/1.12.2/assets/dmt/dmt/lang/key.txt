@@ -1,0 +1,6 @@
+item.dmt.cured_leather.name
+item.dmt.spawn_barrier_block.name
+item.dmt.armor_storage_block.name
+tile.spawn_barrier_block.name
+tile.armor_storage_block.name
+tile.player_detector_block.name

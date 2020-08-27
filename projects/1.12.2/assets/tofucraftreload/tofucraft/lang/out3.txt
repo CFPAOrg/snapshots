@@ -1,0 +1,85 @@
+Squeeze SoyMilk from Tofu Cow
+Bitter work
+Get Bittern from SaltFurnace
+Salty work
+Get Salt from SaltFurnace
+Caring Shooting
+Shoot ZundaArrow on mob and healing mob
+Enter TofuWorld
+Entered TofuWorld
+Ancient Tofu Guardian
+Defeat TofuGandlem and get Tofu Force Core
+Salt Furnace
+Tofu Force Storage
+Tofu Compressor
+Tofu Aggregator
+Tofu Force Oven
+Tofu Force Crasher
+Soy Milk
+Zunda SoyMilk
+Hell Soy Milk
+Soy Sauce
+Bittern
+Mineral Soy Milk
+Strawberry Jam
+Soup Stock
+Glowing
+Potion of Glowing
+Filling
+Potion of Filling
+Batch
+Drain
+Tofu Cow
+Tofu Slime
+Tofu Creeper
+Tofunian
+Tofu Chinger
+Tofu Spider
+Fukumame
+TofuFish
+TofuTurret
+TofuMindCore
+TofuGandlem
+Tofu Cook
+/tofuslimecheck
+Tofu Slimes habit in this chunk
+Tofu Slimes cannot be seen in this chunk
+/tofucreeperspawn
+Tofu Creeper spawns at %s
+Tofu Force
+Empty
+Dump
+Redstone.
+Signal detected
+No signal
+Tofu Force.
+Powered
+Not powered
+TF Input
+TF Produced
+%.1f sec.
+The first day of soy milk. Drink every day to get healthy!
+Soy milk after %1$s days. Today's effect is level %2$s
+%1$s days of soy milk in a row! Today's effect is level %2$s
+Random effect (one of flavors)
+Drink daily to boost effect!
+Today's effect. Level %1$s
+TofuCraft has been updated to %1$s, available at %2$s
+§eTofuCraft§r has been updated to §a%1$s§r! %2$s
+§nDownload here§r
+[TofuCraft] §c*WARNING*§r Different potion IDs with server.
+Please change them in the setting file as follows, or the game will CRASH.
+Tofu Craftsman
+Fisher Tofunian
+Guard Tofunian
+Tofu Smith
+TofuWorld's DimensionID
+Trader
+Tofunian mutters
+Tofunian agrees
+If it is in the inventory, it will consume durability or energy to restore your health.
+If it was broken, you can use it again by repairing it and charging it with TF.
+Broken
+A clump of tofu that will grow overtime in the cost of TF.
+At least it was not infected by some strange bacteria...
+Found Tofu Slime's existence in this chuck.

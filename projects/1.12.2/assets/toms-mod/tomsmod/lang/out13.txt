@@ -1,0 +1,95 @@
+Liquid Fueled Advanced Boiler
+Liquid Fueled Generator
+Laser Engraver
+Basic Chipset
+Advanced Chipset
+Elite Extruder Module
+Machine Upgrades
+Power Converter Upgrades
+Electrical Rubber Processor
+Steam Mixer
+Mixer
+Improved Blast Furnace
+FluidDuct
+Conveyor Belts
+EnderLink Power
+Advanced Water Collector
+Energy
+Capacity
+Range
+Linked Devices
+Master
+Block Modification
+Configuration
+Field Transport
+Stay In Area
+Have Inventory
+Use Switch
+Rights Modification
+Access Denied.
+%sAccess Denied.
+N/A
+[%s] 
+Access Granted.
+%sAccess Granted.
+%sSuccess: Transmission Complete
+%sFail: Detected Obstacle.
+%sNot Enough Power, please charge.
+Inform
+Kill
+Search Inventory
+Kill All
+Kill Hostile
+Kill Friendly
+!!!! [Area Defense] You have illegal goods. %s will be confiscated !!!!
+!!!! [Security Station][%s] Warning: You are now in Scanning range !!!!
+!!!! [Area Defense] Get out immediately, you have no right to be here !!!!
+!!!! [Area Defense] You have been warned. !!!!
+!!!! [Area Defense] Leave or Die !!!!
+Sort By Item Amount
+Sort By Item Name
+Sort By Mod
+Auto Search
+Standard Search
+Auto Search Keep
+Standard Search Keep
+JEI Synced Auto Search
+JEI Synced Standard Search
+JEI Synced Auto Search Keep
+JEI Synced Standard Search Keep
+Show Stored and Craftable
+Show Stored Only
+Show Crafting Only
+White List
+Black List
+Not Enough Crafting CPUs or Memory installed
+Missing Items
+Crafting Status
+To Craft: %s
+Available: %s
+Missing: %s
+Stored: %d
+Crafting: %s
+Crafting CPU: %s
+Automatic
+No Crafting CPUs are Available
+#%d
+Craft
+Crafting Plan - %s Bytes Used : %s Operations : Time ~ %s:%s
+Storage: %s : Processors: %s
+Stored Only
+Stored and Craftable
+Item is in the invalid hand, use it in the Main hand.
+[%s] %s
+Active
+Inactive
+Output Slots Stuffed
+Missing Required Researches
+Wrong Station
+Crafting Failed
+Too Complex Crafting
+%s * %d
+Basic
+Bronze Upgrade
+Electrical Upgrade
+Electrical II Upgrade

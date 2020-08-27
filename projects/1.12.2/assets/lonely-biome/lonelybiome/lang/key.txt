@@ -1,0 +1,10 @@
+lonelybiome.config.maintitle
+lonelybiome.config.biome
+lonelybiome.config.biome.tooltip
+lonelybiome.config.disable
+lonelybiome.config.ensureStrongholds
+lonelybiome.config.ensureStrongholds.tooltip
+lonelybiome.config.ensureVillages
+lonelybiome.config.ensureVillages.tooltip
+lonelybiome.config.biomeTypeBlacklist
+lonelybiome.config.biomeTypeBlacklist.tooltip

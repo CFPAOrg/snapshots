@@ -1,0 +1,17 @@
+Disable Combat Cooldown
+Disable Sprinting
+Disable Hunger
+Classic Bow
+Disable Mob Experience Drops
+Disable Food Stacking
+Gameplay Features
+Custom Dimension Messages
+Old HUD
+Clientside Features
+Disable Nether Fog
+Disable Combat Sounds
+Display Version In-game
+Entering the Nether
+Entering the End
+Leaving the Nether
+Leaving the End

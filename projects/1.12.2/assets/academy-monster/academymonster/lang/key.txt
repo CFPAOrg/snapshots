@@ -1,0 +1,11 @@
+am.app.aim_scanner_no_focus.name
+am.app.aim_scanner_skill_list.name
+ac.settings.prop.open_aim_scanner
+am.aim_scanner_skill_list.notinstalled
+ac.app.aim_scanner.name
+ac.ability.MineRay.name
+ac.ability.meltdowner.electron_curtain.name
+ac.ability.teleporter.loc_manip
+entity.academymonster.am_fake_railgun.name
+entity.academymonster.am_insane_meltdowner.name
+item.railgun_core.name

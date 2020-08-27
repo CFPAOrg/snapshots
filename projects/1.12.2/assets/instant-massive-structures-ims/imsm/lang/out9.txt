@@ -1,0 +1,98 @@
+Road 1 North-South
+Road E East
+Road E North
+Road E South
+Road E West
+Road L North-East
+Road L North-West
+Road L South-East
+Road L South-West
+Road T North-East-West
+Road T North-South-East
+Road T North-South-West
+Road T South-East-West
+Road X
+Street 1 East-West
+Street 1 North-South
+Street E East
+Street E North
+Street E South
+Street E West
+Street L North-East
+Street L North-West
+Street L South-East
+Street L South-West
+Street Roundabout
+Street T North-East-West
+Street T North-South-East
+Street T North-South-West
+Street T South-East-West
+Street X
+1-Corner North-East
+1-Corner North-West
+1-Corner South-East
+1-Corner South-West
+2-Corner East
+2-Corner North
+2-Corner South
+2-Corner West
+3-Corner NorthEast-NorthWest-SouthEast
+3-Corner NorthEast-NorthWest-SouthWest
+3-Corner SouthEast-SouthWest-NorthEast
+3-Corner SouthEast-SouthWest-NorthWest
+4-Corner
+Power Nuclear East
+Power Nuclear North
+Power Nuclear South
+Power Nuclear West
+Power Oil Coal East
+Power Oil Coal North
+Power Oil Coal West
+Power Oil Coal South
+Power Solar
+Power Wind East
+Power Wind North
+Power Wind South
+Power Wind West
+Pumpjack East-West
+Pumpjack North-South
+Scrap Burning East
+Scrap Burning North
+Scrap Burning South
+Scrap Burning West
+Scrap Heap East
+Scrap Heap North
+Scrap Heap South
+Scrap Heap West
+Scrap Recyclye East
+Scrap Recycle North
+Scrap Recycle South
+Scrap Recycle West
+Water Pump East
+Water Pump North
+Water Pump South
+Water Pump West
+Water Tower
+Water Treatment East
+Water Treatment North
+Water Treatment South
+Water Treatment West
+Big Brick/Quartz Building
+Sandstone Building
+Lighthouse
+Stables
+Survivalists' Shack #01
+Survivalists' Shack #02
+Survivalists' Shack #03
+Survivalists' Shack #04
+Big Wooden House #02
+Big Wooden House #03
+Survivalists' Shack #05
+Survivalists' Shack #06
+Temple
+Small Sandstone Building
+Wooden Building
+Big Wooden House
+Checkerboard Generator
+Atlantis Generator
+World Magnifier

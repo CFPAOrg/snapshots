@@ -1,0 +1,159 @@
+Elderberry
+Gooseberry
+Green Apple
+Lemon
+Olive
+Olive Paste
+Orange
+Peach
+Plum
+Raspberry
+Red Apple
+Snowberry
+Strawberry
+Wintergreen Berry
+Barley
+Barley Grain
+Barley Flour
+Barley Dough
+Barley Bread
+Maize
+Maize Grain
+Cornbread
+Cornmeal Flour
+Cornmeal Dough
+Oat
+Oat Grain
+Oat Flour
+Oat Dough
+Oat Bread
+Rice
+Rice Grain
+Rice Flour
+Rice Dough
+Rice Bread
+Rye
+Rye Grain
+Rye Flour
+Rye Dough
+Rye Bread
+Wheat
+Wheat Grain
+Wheat Flour
+Wheat Dough
+Wheat Bread
+Beet
+Cabbage
+Carrot
+Garlic
+Green Bean
+Green Bell Pepper
+Onion
+Potato
+Red Bell Pepper
+Seaweed
+Soybean
+Squash
+Tomato
+Yellow Bell Pepper
+Cheese
+Cooked Egg
+Sugarcane
+Raw Beef
+Raw Pork
+Raw Chicken
+Raw Mutton
+Raw Fish
+Raw Bear Meat
+Raw Calamari
+Raw Horse Meat
+Raw Pheasant
+Raw Venison
+Raw Rabbit Meat
+Raw Wolf Meat
+Raw Hyena Meat
+Raw Duck
+Raw Chevon
+Raw Gran Feline Meat
+Raw Camelidae
+Cooked Beef
+Cooked Pork
+Cooked Chicken
+Cooked Mutton
+Cooked Fish
+Cooked Bear Meat
+Cooked Calamari
+Cooked Horse Meat
+Cooked Pheasant
+Cooked Venison
+Cooked Rabbit Meat
+Cooked Wolf Meat
+Cooked Hyena Meat
+Cooked Duck
+Cooked Chevon
+Cooked Gran Feline
+Cooked Camelidae
+Barley Bread Sandwich
+Cornbread Sandwich
+Rye Bread Sandwich
+Oat Bread Sandwich
+Wheat Bread Sandwich
+Rice Bread Sandwich
+Wholesome Soup
+Tasty Soup
+Filling Soup
+Hearty Soup
+Creamy Soup
+Cruchy Salad
+Sweet Salad
+Healthy Salad
+Flavorful Salad
+Disgusting Salad
+Barley Seeds
+Beet Seeds
+Cabbage Seeds
+Carrot Seeds
+Garlic Seeds
+Green Bean Seeds
+Jute Seeds
+Maize Seeds
+Oat Seeds
+Onion Seeds
+Potato Seeds
+Red Bell Pepper Seeds
+Rice Seeds
+Rye Seeds
+Soybean Seeds
+Squash Seeds
+Sugarcane Seeds
+Tomato Seeds
+Wheat Seeds
+Yellow Bell Pepper Seeds
+Pumpkin Seeds
+Melon Seeds
+Jute
+Jute Fiber
+Dirty Jute Net
+Jute Net
+Jute Disc
+Olive Jute Disc
+Burlap Cloth
+Raw Bloom
+Refined Bloom
+Raw Iron Bloom
+Refined Iron Bloom
+Wool
+Wool Yarn
+Wool Cloth
+Silk Cloth
+Quiver
+Sheep
+Cow
+Bear
+Pig
+Chicken
+Deer
+Pheasant
+Rabbit
+Wolf
+Horse

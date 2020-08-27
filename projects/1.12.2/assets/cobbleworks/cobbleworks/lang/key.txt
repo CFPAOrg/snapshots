@@ -1,0 +1,11 @@
+item.cobbleworks.upgrade0.name
+item.cobbleworks.upgrade1.name
+item.cobbleworks.upgrade2.name
+item.cobbleworks.upgrade3.name
+item.cobbleworks.upgrade4.name
+item.cobbleworks.guideBook.name
+tile.cobbleworks.cobblegen.name
+tile.cobbleworks.advgen.name
+tile.cobbleworks.customgen.name
+container.cobblegen
+itemGroup.cobbleworks

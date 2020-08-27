@@ -1,0 +1,2 @@
+Only player can use this command.
+Your ping is %s.

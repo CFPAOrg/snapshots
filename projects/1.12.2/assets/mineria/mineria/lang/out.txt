@@ -1,0 +1,85 @@
+Lead Ore
+Titane Ore
+Copper Ore
+Lonsdaleite Ore
+Nether Gold Ore
+Silver Ore
+Lead Block
+Titane Block
+Copper Block
+Lonsdaleite Block
+Silver Block
+Compressed Lead Block
+Blue Glowstone
+Mineral Sand
+Lead Spike
+Compressed Lead Spike
+Infested Netherrack
+XP Wall
+XP Block
+Titane Extractor
+Extractor
+Gold Stick
+Iron Stick
+Filter
+XP Orb
+Vanadium Ingot
+Vanadium Helmet
+Copper Ingot
+Copper Bow
+Copper Stick
+Copper Sword
+Lead Ingot
+Lead Sword
+Lead Nugget
+Compressed Lead Ingot
+Compressed Lead Sword
+Lonsdaleite
+Lonsdaleite Axe
+Lonsdaleite Dagger
+Lonsdaleite Double Axe
+Lonsdaleite Pickaxe
+Lonsdaleite Shovel
+Lonsdaleite Sword
+Lonsdaleite Hoe
+Lonsdaleite Boots
+Lonsdaleite Leggings
+Lonsdaleite Chestplate
+Lonsdaleite Helmet
+Silver Ingot
+Silver Apple
+Silver Nugget
+Silver Stick
+Silver Axe
+Silver Pickaxe
+Silver Shovel
+Silver Sword
+Silver Hoe
+Silver Boots
+Silver Leggings
+Silver Chestplate
+Silver Helmet
+Titane Ingot
+Titane Nugget
+Titane Axe
+Titane Dagger
+Titane Double Axe
+Titane Hoe
+Titane Pickaxe
+Titane Shovel
+Titane Sword
+Titane Boots
+Titane Leggings
+Titane Chestplate
+Titane Helmet
+Titane Sword With Copper Handle
+Titane Sword With Silver Handle
+Titane Sword With Gold Handle
+Titane Sword With Iron Handle
+Bread Boys - Unacceptable
+Golden Fish
+Mineria
+Titane Extractor
+XP Block
+Give XP
+Extractor

@@ -1,0 +1,110 @@
+§bEnergized Processor
+§eLumum Processor
+Copper Wire
+Silver Wire
+Gold Wire
+Copper Coil
+Silver Coil
+Gold Coil
+Base Gate Plate
+Gate Power Sync
+Inverted Gate Power Sync
+Gate Servo
+Diode
+Transistor
+Memory Chip
+Internal Clock
+Logic Gate Base Plate
+Basic Upgrade Plate
+Static Upgrade Plate
+Energized Upgrade Plate
+Lumum Upgrade Plate
+Distillery Grain
+Wheat Flour
+Potato Flour
+Potato Bread
+Apple Pie
+§aStatic Pie
+§bEnergized Pie
+§eLumum Pie
+Gear Mold
+Plate Mold
+Wire Mold
+Blank Mold
+Basic Speed Upgrade
+Basic Power Upgrade
+Basic Tank Upgrade
+Basic Range Upgrade
+Static Speed Upgrade
+Static Power Upgrade
+Static Tank Upgrade
+Static Range Upgrade
+Static Quarrying Upgrade
+Energized Speed Upgrade
+Energized Power Upgrade
+Energized Tank Upgrade
+Energized Quarrying Upgrade
+Energized Range Upgrade
+Lumum Speed Upgrade
+Lumum Power Upgrade
+Lumum Tank Upgrade
+Lumum Quarrying Upgrade
+Lumum Range Upgrade
+Creative Speed Upgrade
+Teleport Upgrade
+Experience Vacuum Upgrade
+Basic Output Multiplier Upgrade
+Static Output Multiplier Upgrade
+Energized Output Multiplier Upgrade
+Lumum Output Multiplier Upgrade
+Digistore Capacity Upgrade
+§5Digistore Void Upgrade
+Static Plant
+Energized Plant
+Lumum Plant
+Static Conduit
+Fluid Conduit
+Item Conduit
+Crop Generator
+Crop Generator
+Fluid Infuser
+Fluid Generator
+Squeezer
+Powered Grinder
+Powered Furnace
+Fusion Furnace
+Basic Tank
+Advanced Tank
+Basic Battery
+Static Battery
+Energized Battery
+Lumum Battery
+Block Breaker
+Solid Generator
+Water Generator
+Industrial Furnace
+Industrial Grinder
+Basic Solar Panel
+Static Solar Panel
+Energized Solar Panel
+Lumum Solar Panel
+Creative Solar Panel
+Soldering Table
+Quarry
+Basic Farmer
+Powered Lumberjack
+Charging Station
+Fermenter
+Heating Element 
+Condenser
+Distillery
+Mechanical Squeezer
+Former
+Esoteric Enchanter
+Supersonic Centrifuge 
+Digistore
+Digistore Manager
+Digistore Network Extender
+Digistore I/O Port
+Lumber Mill
+Static Lamp

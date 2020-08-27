@@ -1,0 +1,16 @@
+Shared Vision
+When used on a mob or player, the caster will see through its eyes. %%n %%nIt drains %%val0 mana from the caster on use.
+Familiar's Garden
+ When used while a familiar is active, the familiar will activate its garden. Mobs and players in the garden will not be able to harm each other. The affected area moves with the familiar, and particles are produced to show the area. %%n %%nIt drains %%val0 mana from the caster on use.
+Damage Exchange
+When used, the player will convert damage taken into mana a set number of times (not time-based). %%n %%nIt drains %%val0 mana on use.
+Chronal Exchange
+When placed on the floor, this circle will generate mana for 12 hours a day, centered on the time of placement. For the other 12 hours, it will drain mana from the caster, gems, or mana circuits. %%n %%nIt will drain or restore %%val0 mana every so often.
+Durability Exchange
+When placed on the floor, this circle will convert the durability of items on top of it into mana. Alternatively, it can do so from a chest underneath it as well. %%n %%nIt can restore a maximum of %%val0 mana per second.
+Catalyst Exchange
+When placed on the floor, this circle will convert any powdered catalysts on top of it into a new random powdered catalyst. %%n %%nIt drains %%val0 mana from the caster per transformation.
+Alchemical Exchange
+This circle will, once a day around the time of placement, convert blocks underneath it into random other blocks of the same class. For example, dirt may become sand, diamonds may become emeralds, etc. However, this only works on natural blocks, and will not work on things such as bricks or diamond blocks. %%n %%nIt drains %%val0 mana from the caster per transformation.
+Contract
+When two players create their own contract circles, and stand on them nearby, a contract will be formed between the players. Contracts allow players to bypass certain effects such as boundaries and some mystic eyes. To break a contract, one player need only damage the other. %%n %%nIt drains %%val0 mana from each player when a contract is formed.

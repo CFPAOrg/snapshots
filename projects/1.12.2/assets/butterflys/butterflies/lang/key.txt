@@ -1,0 +1,6 @@
+item.lepidopterology_book.name
+entity.butterflies.butterfly.name
+item.butterfly.name
+item.butterfly_net.name
+tile.butterfly_case.name
+config.butterfly.name

@@ -1,0 +1,5 @@
+feedback.boost.fail
+feedback.boost.mismatch
+binding.boost.category
+binding.boost.description
+binding.toggleElytraFlight.description

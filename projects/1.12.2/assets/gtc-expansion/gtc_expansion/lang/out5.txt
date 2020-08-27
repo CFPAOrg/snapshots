@@ -1,0 +1,100 @@
+Magical Dye
+Lava Filter
+Battery Hull
+Large Battery Hull
+Acid Battery
+Mercury Battery
+Sodium Battery
+Large Acid Battery
+Large Mercury Battery
+Large Lithium Battery
+Large Sodium Battery
+Steel Jackhammer
+Diamond Jackhammer
+Diamond Chainsaw
+Insulation Cutter
+Hardening Spray
+Bronze Turbine Rotor
+Steel Turbine Rotor
+Magnalium Turbine Rotor
+Tungstensteel Turbine Rotor
+Carbon Turbine Rotor
+Osmium Turbine Rotor
+Osmiridium Turbine Rotor
+Blank Mold
+Rod Mold
+Cell Mold
+Wire Mold
+Casing Mold
+Small Pipe Mold
+Medium Pipe Mold
+LargePipe Mold
+Block Mold
+Ingot Mold
+Nugget Mold
+Plate Mold
+Gear Mold
+Crafting Tablet
+Integrated Circuit
+Sulfuric Acid
+Silicon
+Crude Oil
+Propane
+Diesel
+Nitro-CoalFuel
+Naphtha
+Nitro Diesel
+Glyceryl
+Nitrogen Dioxide
+Sodium Sulfide
+Sodium Persulfate
+Gasoline
+Nitro-Carbon
+Nitric Acid
+Biofuel
+Coalfuel
+Carbon Dioxide
+Molten Antimony
+Molten Iron
+Molten Gold
+Molten Copper
+Molten Tin
+Molten Silver
+Molten Uranium
+Molten Bronze
+Molten Iridum
+Molten Titanium
+Molten Tungsten
+Molten Aluminium
+Molten Electrum
+Molten Chrome
+Molten Platinum
+Molten Steel
+Molten Thorium
+Molten Plutonium
+Molten Red Alloy
+Molten Invar
+Molten Zinc
+Molten Manganese
+Molten Magnalium
+Molten Constantan
+Molten Lead
+Molten Brass
+Molten Stainless Steel
+Molten Tungstensteel
+Molten Nickel
+Molten Osmium
+Molten Osmiridium
+Molten Nichrome
+Molten Refined Iron
+Molten Technetium
+Spawns between Y level 0 - 64 in the NETHER.
+Spawns between Y level 64 - 128 in the NETHER.
+Spawns between Y level 32 - 96 in the NETHER.
+Spawns between Y level 0 - 80 in the END.
+Spawns very rarely between Y level 0 - 80 in the END.
+Spawns semi rarely between Y level 0 - 80 in the END.
+Spawns between Y level 0 - 80 in the END.
+Spawns in stalactites in hollows hills in the Twilight Forest.
+Spawns very rarely but as huge veins between Y level 30 - 80 in COLD, CONIFEROUS, MOUNTAIN, and MUSHROOM biomes.
+Spawns between Y level 20 - 70 in JUNGLE, MOUNTAIN, MUSHROOM, and SWAMPY biomes.

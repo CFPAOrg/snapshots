@@ -1,0 +1,37 @@
+Capsule
+Activated
+Deployed
+One Use
+Recovery
+Blueprint
+Uncharged Blueprint
+Empty
+Unlabeled
+Capture Base
+Destroyed after deployment
+Takes items from linked inventory to build structure
+Upgrades
+Overpowered
+Designed by
+* Left click: charge from inventory\n* Right click: undo last deploy\n* Sneak+Right click: link inventory
+* Right click: instant deploy\n* Sneak+Right click: link inventory
+* Left click: rotate\n* Sneak+Left click: mirror
+Some complex blocks can't rotate
+Instantaneous
+There were no Capture Base around.
+Can't merge with destination, a block is preventing the deployment.
+Can't deploy : %s in the way !
+Capsule "%s" was not found in the world "structures" folder
+A technical error occured while using the Capsule Mod. Please check the server logs.
+Error: the capsule template file %s was not found.
+Capsules can't be used here, it might be a protected area.
+An error occured during blueprint template creation. This blueprint might not work.
+Some blocks are not supported in blueprints. Ignored in blueprint: %s
+Can't undeploy: you may charge the blueprint capsule (left click in air), or ensure the area you want to undeploy matches the blueprint structure (no removed or added blocks, no items in inventories).
+Size
+Recall
+Capsules
+Place under the region you want to capture with a capsule. Displays a preview of the capture when holding an empty capsule.
+Capture a region using a Capture Base. Right click to activate, right click again to throw.\n* Can be upgraded if empty by crafting with Popped Chorus Fruit.
+One Use Capsule.\nIs linked to the same content as the Capsule it was crafted from.\nTip : Craft one and place it in a safe place in case the original capsule is lost.
+Created by capturing a region using an empty capsule on a Capture Base.\nRight click to activate, Then throw and deploy. Right click to undeploy.\n* Can be emptied in a crafting table (a recovery capsule is given back).\n* Can by dyed.

@@ -1,0 +1,34 @@
+Items ' GuardsCraft
+Crown
+Halberd 
+Lance
+Mallet
+War axe
+Knife
+greaves
+Milician
+Swordman
+Lancer
+Malletman
+Axeman
+Halberdier
+Javelinman
+Slingshotman
+Bowman
+Heavy bowman
+CrossBowman
+Culverinman
+Recruitment of a milician
+Recruitment of a swordman
+Recruitment of a lancer
+Recruitment of a malletman
+Recruitment of an axeman
+Recruitment of an halberdier
+Recruitment of a javelinman
+Recruitment of a slingshotman
+Recruitment of a bowman
+Recruitment of an heavy bowman
+Recruitment of a crossbowman
+Recruitment of a culverinman
+Recruit desk for units melee
+Recruit desk for units distance

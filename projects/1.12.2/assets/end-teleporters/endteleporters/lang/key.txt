@@ -1,0 +1,8 @@
+tile.ender_frame.name
+tile.ender_frame.noEye
+tile.ender_frame.noTeleporter
+tile.ender_frame.notFinished
+advancements.end.craft_ender_frame.title
+advancements.end.craft_ender_frame.description
+subtitles.block.ender_frame.teleport
+subtitles.block.ender_frame.teleport_fail

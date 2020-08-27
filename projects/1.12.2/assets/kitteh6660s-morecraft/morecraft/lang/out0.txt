@@ -1,0 +1,126 @@
+Block of Bones
+Block of Rotten Flesh
+Blazing Block
+Block of Ender Pearl
+Block of Gunpowder
+Ruby Ore
+Block of Ruby
+Netherwood Log
+Netherwood Leaves
+Netherwood Sapling
+Netherwood Planks
+Netherwood Stairs
+Netherwood Slab
+Netherwood Fence
+Netherwood Chest
+Netherwood Trapped Chest
+Netherwood Crafting Table
+End Stone Brick Stairs
+End Stone Brick Slab
+Stone Stairs
+Bedrock Bricks
+Soul Glass
+Soul Glass Pane
+Bone Ladder
+Glowstone Torch
+Cooked Flesh
+Spider
+Fried Spider
+Apple Pie
+Cake Slice
+Squid
+Calamari
+Fried Egg
+Raw Guardian Meat
+Cooked Guardian Meat
+Nether Apple
+Ruby
+Wither Bone
+Enderdragon Scales
+Netherwood Boat
+Nether Brick Door
+Netherwood Door
+Glass Door
+Bone Door
+Nether Brick Fence Gate
+Netherwood Fence Gate
+Slime Helmet
+Slime Chestplate
+Slime Leggings
+Slime Boots
+Flesh Helmet
+Flesh Chestplate
+Flesh Leggings
+Flesh Boots
+Spider Silk Helmet
+Spider Silk Chestplate
+Spider Silk Leggings
+Spider Silk Boots
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Obsidian Pickaxe
+Obsidian Axe
+Obsidian Shovel
+Obsidian Hoe
+Obsidian Sword
+Bone Helmet
+Bone Chestplate
+Bone Leggings
+Bone Boots
+Bone Pickaxe
+Bone Axe
+Bone Shovel
+Bone Hoe
+Bone Sword
+Wither Bone Helmet
+Wither Bone Chestplate
+Wither Bone Leggings
+Wither Bone Boots
+Wither Bone Pickaxe
+Wither Bone Axe
+Wither Bone Shovel
+Wither Bone Hoe
+Wither Bone Sword
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Emerald Pickaxe
+Emerald Axe
+Emerald Shovel
+Emerald Hoe
+Emerald Sword
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Ruby Pickaxe
+Ruby Axe
+Ruby Shovel
+Ruby Hoe
+Ruby Sword
+Blaze Helmet
+Blaze Chestplate
+Blaze Leggings
+Blaze Boots
+Blaze Pickaxe
+Blaze Axe
+Blaze Shovel
+Blaze Hoe
+Blaze Sword
+Ender Helmet
+Ender Chestplate
+Ender Leggings
+Ender Boots
+Ender Pickaxe
+Ender Axe
+Ender Shovel
+Ender Hoe
+Ender Sword
+Netherrack Pickaxe
+Netherrack Axe
+Netherrack Shovel
+Netherrack Hoe
+Netherrack Sword

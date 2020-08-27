@@ -1,0 +1,11 @@
+The machine consists of several parts, some wirecoils, a bunch of steel plates and few electron tubes, but the most important ones are the data input port, on which a connector needs to be placed and a built-in redstone output connector, to which you can attach a wire. In the user interface there are two sections, data to redstone and the opposite. After you add an entry, you have to specify the variable letter and the corresponding redstone colour.
+Conveyor Scanner
+Get the camera!
+The conveyor scanner is a device consisting of a conveyor, a camera with a special lens and an electronic device which processes information. Then an item passes trough the Conveyor Scanner, its properties are read and sent in an ItemStack type variable 's' inside a Data Packet. To operate, the machine requires electricity. To form it use a hammer on the conveyor.
+Inserters
+No yellow this time!
+The Precision Insertion Device, also known as the Inserter is a device used to transfer items from one inventory to another. Item inserters consists of an arm and motors for rotation and handling the item pickup. Fluid inserters use pipes and automatic valves. Inserters are able to take and output from and to any horizontal side desired.
+The Inserter's sides can be configured with a hammer (sneak to set output). Inserters require electricity to run and data to tell them what to do.
+The basic inserter is used for simple, but controlled item transfer. Made of basic circuits and mechanical components, it is a cheap and easy way to determine how many items should be transfered from one block to other.
+Variables<br>String 'm' - item take mode (set/add)<br>Integer 'c' - amount of items<br>
+The advanced inserter is an upgraded version, which allows to filter picking certain items and allows picking up crates and barrels from minecarts. The Advanced Inserters are much faster, but they also drain more power.

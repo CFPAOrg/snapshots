@@ -1,0 +1,95 @@
+S13 Roundel
+S13 Floor
+S13 Floor
+Brachacki Table
+Json Tester
+Telos Sand
+Moon Dirt
+Steady State Micro-Welding Station
+Zero Room
+Zero Room Slab
+Zero Room Stairs
+Mysterious Suitcase
+Chair
+Armillary Sphere
+Toyota Spinny Thingamajig
+Sonic Workbench
+ARS Tree Egg
+Table
+Dalek Tractor Beam
+Dalek hull
+Dalek Hull Slab
+Artron Bank
+Strange Grass
+Strange Dirt
+Strange Stone
+TARDIS locked!
+TARDIS unlocked!
+This TARDIS is now double locked!
+Double lock lifted.
+killed by a Dalek Ray Gun!
+was deleted.
+was exterminated!
+%s was poisoned via mercury exposure!
+was deleted.
+fried by a forcefield!
+was exterminated!
+disintegrated by a laser!
+Recall Mode
+Tinker Mode
+Room Gen - Hallway
+Room Gen - Small Room
+Dismantle Roundel Panel
+Return From H.A.D.S
+Block interactions
+Entity interactions
+Signal TARDIS
+Entity Interact
+It doesn't work on wood!
+To open the door, you must sonic the bottom of the door!
+Ammo left: %s
+No Ammo!
+Press %s to load %s
+Press %s for more info!
+You don't own a TARDIS
+TARDIS in flight!
+TARDIS will search upwards for a landing spot
+TARDIS will search downwards for a landing spot
+TARDIS is now facing north
+TARDIS is now facing east
+TARDIS is now facing south
+TARDIS is now facing west
+The outer plasmic shell cannot be found! Please land again.
+TARDIS Coordinate modifier is
+H.A.D.S has been enabled
+H.A.D.S has been disabled
+Chameleon Circuit
+Toggle H.A.D.S
+Toggle hum
+Find nearest Rift
+Sub-System readout
+Change Console
+Architectural Reconfiguration System
+Regenerate Console Room
+Double Lock Doors
+Consume Dimensional Rift
+Repair the TARDIS
+Waypoint
+Change Interior
+Stealth Mode
+Disengaged Stealth Mode
+Stealth Mode Engaged!
+§4Escape§r
+Forcefield
+TARDIS hull is no longer repairing
+TARDIS hull is now repairing
+Flight System
+Dimensional Dams
+Fluid Links
+Interstitial Antenna
+Chameleon Circuit
+Temporal Grace Circuits
+Stabilizers
+Thermo-Couplings
+Nav-Com Dimension is:
+Dalek Invasion at:

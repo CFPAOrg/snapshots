@@ -1,0 +1,4 @@
+Item Frame
+Minecart with Hopper
+Minecart with Chest
+Minecart with Furnace

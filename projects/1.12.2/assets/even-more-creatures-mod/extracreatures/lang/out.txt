@@ -1,0 +1,91 @@
+Charger
+Chester
+End Chester
+Xmas Chester
+Double Chester
+Mutated Creeper
+Half Zombie
+Gnoll
+SlimeClops
+Mutated Mushroom
+Ghoul
+The Great Hunger
+Turtle
+Gold Hoarder
+Mr Creeping Boom
+Mr Exploding Boom
+Nether Brain
+Netherrack Blocky Monster
+Magma Blocky Monster
+Obsidian Blocky Monster
+Material Blocky Monster
+Crabus The Great
+Jungle Beast
+Nether Imp
+Bone Cocon
+Wither Bone Cocon
+Fire Imp
+Demonic Ender Eye
+Cave Spider Tribesman
+Infernus Beast
+Pingu The Ice Penguin
+Furnor The Iron Beast
+Melon Seed
+Web String
+Block Of Gold
+Quick Sand
+Poisoned Quick Sand
+Netherrack(Blocky Monster Egg)
+Magma Block(Blocky Monster Egg)
+Obsidian(Blocky Monster Egg)
+Stone(Blocky Monster Egg)
+End Stone(Blocky Monster Egg)
+Coal Ore(Blocky Monster Egg)
+Iron Ore(Blocky Monster Egg)
+Gold Ore(Blocky Monster Egg)
+Redstone Ore(Blocky Monster Egg)
+Lapis Ore(Blocky Monster Egg)
+Diamond Ore(Blocky Monster Egg)
+Emerald Ore(Blocky Monster Egg)
+Nether Quartz Ore(Blocky Monster Egg)
+Fire Block
+Ender Block
+Freezing Block
+Wither Bone Block
+Rotten Flesh Block
+Ancient Magma Crate
+Ancient Ice Crate
+Ancient Ender Crate
+Frozen Hills
+Frozen Flatlands
+Magical Forest
+Dead Lands
+Gold Ingot
+Demonic Trident
+Broken Demonic Trident
+Infernus Beast's Eye
+Fire Imp's Wing
+Fire Shard
+Ender Shard
+Freezing Shard
+Wooden Head Cutter
+Stone Head Cutter
+Iron Head Cutter
+Gold Head Cutter
+Diamond Head Cutter
+Withering Bone
+Pingu's Egg
+Fire Sword
+Freezing Sword
+Ender Sword
+Winged Fire Boots
+Ethernal Magma Chestplate
+Warping Chestplate
+Ghast's Helmet
+Slimy Boots
+/locate <feature>
+Located %s at %s (y?) %s
+Unable to locate any %s feature
+Extra Creatures Blocks
+Extra Creatures Items
+Frozen World

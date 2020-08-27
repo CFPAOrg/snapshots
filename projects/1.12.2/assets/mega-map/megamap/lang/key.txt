@@ -1,0 +1,6 @@
+item.megamap.megamap_filled.name
+item.megamap.megamap_empty.name
+misc.megamap.tooltip.debug.dims
+misc.megamap.tooltip.debug.stats
+command.megamap.fillmegamap.nomap
+command.megamap.fillmegamap.filledmap

@@ -1,0 +1,108 @@
+Light Blue Candy Cane Pillar
+Cyan Candy Cane Pillar
+Green Candy Cane Pillar
+Lime Candy Cane Pillar
+Yellow Candy Cane Pillar
+Orange Candy Cane Pillar
+Red Candy Cane Pillar
+Pink Candy Cane Pillar
+Magenta Candy Cane Pillar
+Purple Candy Cane Pillar
+Brown Candy Cane Pillar
+White Candy Cane Pillar
+Light Gray Candy Cane Pillar
+Gray Candy Cane Pillar
+Black Candy Cane Pillar
+Green Hill Grass Block
+Green Hill Dirt
+Marble Zone Stone
+Yellow Studiopolis Clapper
+Blue Studiopolis Clapper
+Spring
+Scarlet Grass Block
+Scarlet Grass
+Scarlet Mushroom
+Scarlet Orchid
+Iron Scaffolding
+Purple Bricks
+Purple Brick Stairs
+Cyan Bricks
+Cyan Brick Stairs
+Elder Pebbles
+Space Matter
+Space Obsidian
+Blue Puyo
+Turquoise Puyo
+Green Puyo
+Yellow Puyo
+Red Puyo
+Purple Puyo
+Garbage Puyo
+Point Puyo
+Hard Puyo
+Iron Puyo
+Puyo Block
+Rewind Block
+Koretato Block
+Vanadium
+Bandage
+Wheat Flour
+Caramel Cube
+Crêpe
+Chocolate Crêpe
+Caramel Crêpe
+Candy Cane
+Burger
+Tomato
+Salad
+Cheese
+Totem of Ascending
+Super Mushroom
+Peach
+Cape Feather
+Super Cape Feather
+Super Star
+Yellow Coin
+Red Coin
+Blue Coin
+Smash Ball
+Annoying Dog
+Blank Music Disc
+Super Mario 3D World - Champion's Road
+Splatoon 2 - Fly Octo Fly
+Castlevania Judgement - Vampire Killer
+C418 - Sweden (NoteBlock Remix)
+Super Mario Galaxy - Buoy Base Galaxy (NoteBlock Remix)
+Mario Kart DS - Waluigi Pinball (NoteBlock Remix)
+Donkey Kong Country: Tropical Freeze - Harvest Hazards (NoteBlock Remix)
+Headphones
+Christmas Hat
+Cappy
+Luigi Cap
+Wario Cap
+Waluigi Cap
+Vanish Cap
+Wing Cap
+Gooigi's Cap
+Princess Peach's Crown
+Princess Daisy's Crown
+Rosalina's Crown
+Pink Gold Peach's Crown
+Super Crown
+Broque Monsieur's Head
+Bandana
+Snorlax Hat
+Top Hat
+Ralsei's Hat
+King Round Mask
+Baldi's Head
+Mayro's Cap
+NoteBlock's Head
+Toad
+Chincho
+? Block drops power up
+? Block drops coin
+Note Block used
+Rewind Block disappears
+Rewind Block reappears
+Annoying Dog disappears

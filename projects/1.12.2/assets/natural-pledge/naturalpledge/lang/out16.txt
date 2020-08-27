@@ -1,0 +1,19 @@
+An unstable light source
+The &1Crackling Star&0 is the form of the stars, trapped upon earth, and brought forth through &4Iridescence&0. They appear as a ball of light, but will distribute their mass to a &1Crackling Star&0 it's bound to with a &1Wand of the Forest&0. They give off light with the same strength as &1Glowstone&0, and can be made in any of the colors of &4Iridescence&0.
+Wire's frames
+Weighted Belt
+Prevents floating
+While waterwalking is nice, sometimes a priest of &3Njord&0 needs to walk on the bottom of the ocean. While sneaking can work, it's sometimes nicer to just sink. The &1Weighted Belt&0 will drag you down in air, and prevent waterwalking.
+Fancier cement shoes
+Tome of the Ages
+Break down enchantments
+Enchantments rarely go exactly as planned, and using &1Spellbinding Cloth&0 doesn't give anything back. The &1Tome of the Ages&0 transfers one enchantment at a time into the ancient collective knowledge of the forests, and releases the experience of the enchantment, which can be retrieved with a simple use of the book. Sneak-using the book will steal your experience, allowing you to store it, if imperfectly.
+All hail the second Eaton
+Remote Corporea
+Request items from a Corporea network remotely
+The &1Corporea Resonator&0 and its counterpart, the &1Stone of Recall&0, allow for accessing a corporea network from far away. If you bind a &1Stone&0 to a &1Resonator&0 as if it was a &1Waystone&0, holding the Stone will allow you to trigger the &1Resonator&0 as if it was a &1Corporea Index&0, dropping the results as if it was a &1Corporea Funnel&0.
+Let's Go! Soul Resonance!
+I can't remember...
+Ender Actuator
+Control your Ender Chest remotely
+The &1Ender Actuator&0 is an interesting block, allowing resonance with your &4Ender Chest&0 from across the world. To activate one, click a disabled one and it will begin to shine. As long as you are in the same dimension as a bound &1Actuator&0, it will act as an interface for your &4Ender Chest&0 for machines to use.

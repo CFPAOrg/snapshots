@@ -1,0 +1,47 @@
+Block of Sapphire
+Block of Enderite
+Block of Bronze
+Copper Ore
+Block of Charcoal
+Aluminum Ore
+Sapphire Ore
+Ruby Ore
+Block of Tin
+Block of Copper
+Block of Silver
+Block of Steel
+Sulfur
+Blackstone
+Tin Ingot
+Enderite Ore
+Netherite Ingot
+Steel Ingot
+Zinc Ore
+Sulfur Ore
+Cobalt Ingot
+Brass Ingot
+Tin Ore
+Sapphire
+Netherite Scrap
+Netherite Ore
+Advanced Alloy Furnace
+Block of Sulfur
+Silver Ingot
+Copper Ingot
+Block of Netherite
+Zinc Ingot
+Nether Gold Ore
+Block of Zinc
+Cobalt Ore
+Block of Ruby
+Prismarine Ore
+Bronze Ingot
+Block of Aluminum
+Block of Cobalt
+Block of Brass
+Enderite
+Aluminum Ingot
+Fossil Ore
+Alloy Furnace
+Silver Ore
+Ruby

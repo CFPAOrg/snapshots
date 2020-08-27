@@ -1,0 +1,96 @@
+Butterfly
+%SPECIES %TYPE
+Serum
+%SPECIES %TYPE
+Caterpillar
+%SPECIES %TYPE
+Cocoon
+%SPECIES %TYPE
+Brimstone Moth
+Latticed Heath
+Blue Duke
+Menelaus Blue Morpho
+Peleides Blue Morpho
+Rhetenor Blue Morpho
+Blue Wing
+Comma
+Diana Fritillary
+Glasswing
+Glassy Tiger
+Leopard Lacewing
+Malachite
+Monarch
+Painted Beauty
+Postman
+Speckled Wood
+Canary Speckled Wood
+Madeiran Speckled Wood
+Emerald Peacock
+Black Swallowtail
+Citrus Swallowtail
+Spicebush Swallowtail
+Thoas Swallowtail
+Zebra Swallowtail
+Brimstone
+Cabbage White
+Gozora Azure
+Orange Tip
+Palaeno Sulphur
+Common Clouded Yellow
+Eastern Bath White
+Holly Blue
+Atlas Moth
+Bombyx Mori Moth
+Possible Butterfly Loot
+Possible Caterpillar Loot
+Possible Cocoon Loot
+None
+Butterfly
+Lepidopterist's Backpack
+Moth
+Lepidopterist's Chest
+Cannot resend letter.
+- %s : Mail System Commands
+Various commands related to the mail system
+Format: /%s <sub-command>
+- %s : A list of all trade stations.
+Lists all trade stations and their available trades.
+Format: /%s
+- %s : Toggle virtual mode on a specified trade station.
+Toggles virtual mode on a specified trade station. This mode does not consume items.
+Format: /%s <trade-station-name>
+No trade station by the name of '%s' was found.
+Set virtualization for '%s' to %s.
+Trade station is full.
+Trade station demands more.
+Trade station ran out of paper.
+Trade station ran out of stamps.
+Trade station has run out of supplies.
+Recipient's mailbox is full.
+Letter is not sendable.
+Letter is not sufficiently stamped.
+Recipient has no mailbox.
+Trade is available.
+Trade station cannot send the response letter. %s
+Can only write one letter at a time.
+Use
+Close
+Trade
+All
+Offline
+Online
+No trades available.
+for
+%s will trade
+Catalogue
+Lists all available Trade Station trades.
+Apiarist's Pipe
+Genetic Filter
+Genetic Filter
+Filter Selection
+Anything
+Closed
+Items
+Cave-Dwellers
+Strong Flyers
+Nocturnal

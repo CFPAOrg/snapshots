@@ -1,0 +1,27 @@
+MacroKey Keybinding Configuration
+Layer: %s
+Right-click to open the MacroKey GUI
+Master
+MacroKey Keybinding
+Add Macro
+Layer Editor
+Layer Switch
+X
+Create Macro
+Edit Macro
+Command
+Trigger
+Hold to repeat
+Enable macro
+Save Macro
+Layer Management
+Add Layer
+Create Layer
+Edit Layer
+Save Layer
+Layer %s - %s macro's active.
+Enabled
+Disabled
+Edit
+MacroKey Keybinding
+Open Macro Management GUI

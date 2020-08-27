@@ -1,0 +1,5 @@
+English
+US
+en_US
+Quick save game
+Quick load game

@@ -1,0 +1,18 @@
+modifier.crystalline.name
+§oNot just pretty.§r\nExtra damage reduction.
+Fireproof
+§oFrom the depths of hell.§r\nProvides protection from fire damage and your armor doesn't take damage from fire damage.
+modifier.intangible.name
+§oLike a wisp of smoke.§r\nProjectiles sometimes go right through you.
+modifier.limited.name
+§oLIMITED POWER§r\nYou take more damage.
+Renewable Energy
+§oWaste not, want not.§r\nWhen you take damage, your blood occasionally drops as coagulated blood.
+modifier.short_fuse.name
+§oExplosive personality.§r\nBeing attacked sometimes causes a small explosion.
+modifier.supermassive.name
+§oAn immovable object.§r\nMakes you immune to knockback.
+modifier.unbreakable.name
+§oCan't break this.§r\nPrevents the armor from taking damage.
+Untamed
+§oBro that's wild.§r\nOccasionally heals you.

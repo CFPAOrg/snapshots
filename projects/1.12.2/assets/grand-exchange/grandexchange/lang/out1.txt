@@ -1,0 +1,30 @@
+/ge identify
+Identify the item id and meta of the item you are holding.
+This item is: %s
+/ge myoffers [filter] [page]
+View your offers. Use a filter if you wish to look for a specific item, regex is supported.
+No buy results found.
+No sell results found.
+/ge opoffers [filter] [page]
+View unlimited server offers. Use a filter if you wish to look for a specific item, regex is supported.
+/ge sell <item> <meta> <amount> <price> [nbt] or /ge sell <offer number> [amount]
+Sell an item on the market. Either put out an offer to sell for a price, or provide an offer number to sell to. Items you are selling will be taken from your inventory. Server owners may specify a non-refundable tax that must be paid when doing this.
+Error: You do not have enough of that item in your inventory to make this offer.
+Error: Something went wrong when removing items from your inventory.
+/ge opsell <item> <meta> <price> [nbt]
+Create an unlimited sell offer for an item on behalf of the server. You will not receive the currency or lose any items.
+/ge selloffers [filter] [page]
+View sell offers. Use a filter if you wish to look for a specific item, regex is supported.
+Nobody is selling anything.
+/ge sellthis <amount> <price>
+Sell the item you are holding on the market. Items you are selling will be taken from your inventory. Server owners may specify a non-refundable tax that must be paid when doing this.
+/ge opsellthis <price>
+Create an unlimited sell offer for the item you are holding on behalf of the server. You will not receive the currency or lose any items.
+/ge help [page|subcommand]
+The Grand Exchange help command.
+%s: %s
+Invalid help parameter: %s. Please enter a page number or subcommand.
+[ID: %s] %s x %s wanted for %s each.
+[ID: %s] %s x %s with NBT %s wanted for %s each.
+Grand Exchange: Finished buying %s x %s at %s each.
+Grand Exchange: Finished buying %s x %s with NBT %s at %s each.

@@ -1,0 +1,34 @@
+itemGroup.twistedtweaks
+Blocks.tooltip
+Items.tooltip
+Acid Rain.tooltip
+Enchantments.tooltip
+Settings.tooltip
+Potions.tooltip
+Spawning.tooltip
+Starve Death.tooltip
+Tweaks.tooltip
+tile.liquid_void.name
+tile.glowstone_torch.name
+tile.unlit_torch.name
+enchantment.galvanised
+potion.tweaks.twisted.acid.burn
+advancements.twistedtweaks.root.title
+advancements.twistedtweaks.root.description
+advancements.twistedtweaks.burn_acid.title
+advancements.twistedtweaks.burn_acid.description
+advancements.twistedtweaks.blind_acid.title
+advancements.twistedtweaks.blind_acid.description
+death.attack.tweaks.twisted.acid.rain
+item.record.name
+item.record.test.desc
+item.torch_oil.name
+item.torch_paste.name
+tt.command.error.generic
+tt.command.error.invalidoption
+tt.command.error.invalidclear
+tt.command.error.invalidinventory
+tt.command.success.clearall
+tt.command.success.clearplayer
+tt.info.torch.litamount
+tt.info.torch.littime

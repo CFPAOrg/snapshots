@@ -1,0 +1,17 @@
+item.reinforced_stick.name
+item.reinforced_leather_square.name
+item.reinforced_leather_wing.name
+item.leather_harness.name
+item.hardened_leather.name
+item.diamond_reinforced_stick.name
+item.diamond_reinforced_hard_leather_square.name
+item.diamond_reinforced_wing.name
+item.diamond_harness.name
+item.ender_infused_leather.name
+item.ender_infused_leather_square
+item.ender_infused_wing.name
+item.ender_infused_harness.name
+item.ender_pearl_dust.name
+item.wooden_elytra.name
+item.diamond_elytra.name
+itemGroup.tabElytraCrafting

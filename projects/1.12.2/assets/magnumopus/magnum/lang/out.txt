@@ -1,0 +1,49 @@
+Mysterious Vitrified Stone
+Vitrified Pillar
+Anemoi
+Arges
+Anointing Oil
+Sanctified Water
+Sanguine Vita
+Sanguine Siccus
+Anemoi
+Arges
+Anointing Oil
+Sanctified Water
+Sanguine Vita
+Sanguine Siccus
+Horde Spider
+Wraith
+Ghost
+Orc
+Mad Baby
+You have consumed the flesh of men
+You have committed murdered
+You have made a sacrifice
+This is a debug tool
+Drains Life Essence
+Regenerates from Life Essence
+Stealth Capability
+Casts Ephemeral Blocks
+Casts Ephemeral Arrows
+Can capture blood
+Can contain a potion
+Contains Blood of
+Contains Potion of
+Heart of
+heart is beating
+Burning Hot
+Can be heated by Fire
+Becomes Progressively Stronger
+Bone of
+Flesh of
+Wraith Breathing
+Wraith Death
+Faiding Heart Beat
+Blade Stabbing
+%s has been sacrificed
+%1$s was sacrificed whilst fighting %2$s
+%s has been murdered
+%1$s was murdered whilst fighting %2$s
+/actual <cmd> <player>
+'%s'

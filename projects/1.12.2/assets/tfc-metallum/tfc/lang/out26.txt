@@ -1,0 +1,111 @@
+Javelin Head Magnesium Diboride
+Hammer Magnesium Diboride
+Hammer Head Magnesium Diboride
+Propick Magnesium Diboride
+Propick Head Magnesium Diboride
+Knife Magnesium Diboride
+Knife Blade Magnesium Diboride
+Scythe Magnesium Diboride
+Scythe Blade Magnesium Diboride
+Shears Magnesium Diboride
+Unfinished Chestplate Magnesium Diboride
+Chestplate Magnesium Diboride
+Unfinished Greaves Magnesium Diboride
+Greaves Magnesium Diboride
+Unfinished Boots Magnesium Diboride
+Boots Magnesium Diboride
+Unfinished Helmet Magnesium Diboride
+Helmet Magnesium Diboride
+Magnesium Diboride Shield
+Molten Uranium
+Uranium Ingot
+Unshaped Uranium
+Uranium Double Ingot
+Double Ingot Uranium
+Uranium Scrap
+Scrap Uranium
+Uranium Dust
+Dust Uranium
+Uranium Nugget
+Nugget Uranium
+Uranium Sheet
+Sheet Uranium
+Uranium Double Sheet
+Double Sheet Uranium
+Anvil Uranium
+Uranium Tuyere
+Tuyere Uranium
+Uranium Lamp
+%s Uranium Lamp
+Lamp Uranium
+Pick Uranium
+Pick Head Uranium
+Shovel Uranium
+Shovel Head Uranium
+Axe Uranium
+Axe Head Uranium
+Hoe Uranium
+Hoe Head Uranium
+Chisel Uranium
+Chisel Head Uranium
+Sword Uranium
+Sword Blade Uranium
+Mace Uranium
+Mace Head Uranium
+Saw Uranium
+Saw Blade Uranium
+Javelin Uranium
+Javelin Head Uranium
+Hammer Uranium
+Hammer Head Uranium
+Propick Uranium
+Propick Head Uranium
+Knife Uranium
+Knife Blade Uranium
+Scythe Uranium
+Scythe Blade Uranium
+Shears Uranium
+Unfinished Chestplate Uranium
+Chestplate Uranium
+Unfinished Greaves Uranium
+Greaves Uranium
+Unfinished Boots Uranium
+Boots Uranium
+Unfinished Helmet Uranium
+Helmet Uranium
+Uranium Shield
+Antimony
+Constantan
+Electrum
+Red Alloy
+Mithril
+Nickel Silver
+Invar
+Aluminium
+Aluminium Brass
+Ardite
+Cobalt
+Manyullyn
+Osmium
+Titanium
+Tungsten
+Tungsten Steel
+Boron
+Thorium
+Manganese
+Magnesium
+Lithium
+Zirconium
+Zircaloy
+Beryllium
+Beryllium Copper
+Hsla Steel
+Ferroboron
+Tough
+Magnesium Diboride
+Uranium
+Stibnite
+Surface Stibnite
+Cobaltite
+Wolframite
+Bauxite

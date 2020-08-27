@@ -1,0 +1,21 @@
+If set to true, fire ignores the fire resistance of humid biomes\n\nThis affects block destruction (burn) chance and natural fire spread chance in humid biomes\n \n
+Ignore Rain
+If set to true, fire ignores rain\n\nWHEN IT'S RAINING this affects chance of fire extinguishing from rain, chance of natural fire spread, and chance of fire spread when fire destroys (burns) a block\n \n
+Disable Fires From Lava
+Whether fire spreading from lava is disabled\n \n
+Disable Fires From Lightning
+Whether fire spreading from lightning is disabled\n \n
+LOS-Only Fire Spread
+Whether fire requires line-of-sight to spread to a new location\n \n
+Max Burn Spread Chance
+When a fire at the MAXIMUM age (15 in vanilla) destroys (burns through) a block, the chance that the broken (burnt) block is replaced with fire\n\nDoes nothing if fire never destroys blocks, eg. if dontDestroyBlocks is set to true\n\nUses a full-number percentage (25 means 25% chance, 75 means 75% chance)\n \n
+Min Burn Spread Chance
+When a fire at the MINIMUM age (0 in vanilla) destroys (burns through) a block, the chance that the broken (burnt) block is replaced with fire\n\nDoes nothing if fire never destroys blocks, eg. if dontDestroyBlocks is set to true\n\nUses a full-number percentage (25 means 25% chance, 75 means 75% chance)\n \n
+Reach (Upwards)
+The maximum upward distance fire can naturally spread to when updating (eg. between two trees)\n \n
+Reach (Downwards)
+The maximum downward distance fire can naturally spread to when updating (eg. between two trees)\n \n
+Reach (Sideways)
+The maximum horizontal distance fire can naturally spread to when updating (eg. between two trees)\n \n
+Spread Strength (Block Destroyed)
+When fire spreads by destroying a block, the new fire's duration is set to the duration of the fire it came from, multiplied by this\n\nFire's lifetime is only measured in integers from 0 to 15, so if you set the percentage to anything lower than 7 it will be the same as if you set it to 0\n\nUses a full-number percentage (25 means 25% strength, 75 means 75% strength)\n\nThe normal vanilla fire mechanics don't use a percentage reduction like this, so set this to -1 if you want vanilla mechanics in this regard\n \n

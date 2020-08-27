@@ -1,0 +1,29 @@
+Compressed Vis Battery
+Defiled Ground
+Featherweight
+Manabound
+Allows items to be repaired by mana found in your inventory, but at a greater cost than regular mana-based tools.
+Blood Apple
+Golden Potato
+Silvered Potato
+Silvered Carrot
+Silvered Melon
+Silvered Apple
+Wings
+Variegated
+Potion of Fisher's Boon
+Potion of Wings
+Splash Potion of Wings
+Lingering Potion of Wings
+Splash Potion of Fisher's Boon
+Lingering Potion of Fisher's Boon
+Tipped Arrow
+Tipped Arrow
+Fisher's Boon
+Variegated
+Activate off-hand item
+Potion of Attraction
+Splash Potion of Attraction
+Lingering Potion of Attraction
+Tipped Arrow
+Attraction

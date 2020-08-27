@@ -1,0 +1,30 @@
+§oI have already studied this research scroll.
+Scroll is corrupt.
+Spell set to %1$s.
+Invalid spell stored on the wand, please update it with crouch & right click.
+No spell set on wand, please do so with crouch & right click.
+You do not have any spells to bind to the wand.
+§oI can't see anything through these thick clouds. Maybe I could move to a higher elevation.
+§oI'll need a %1$s§o bolt in my inventory to shoot.
+§oCrossbow will now fire %1$s§o bolts.
+Star metal staff is on cooldow (%1$ss)!
+The block whispers to me... what does it mean?
+§oBased off of this information the meteor fell around %1$s§o, %2$s§o.
+§oThe values entered do not make sense. I should try to re-enter the meteor's data or observe a new meteor.
+It appears that this is a %1$s meteor falling to earth. I have observed some information on it:
+Drop Angle: %1$s°, Latitude: %2$s°, Longitude: %3$s°
+§oI should probably write these values down and later calculate the landing position using my sextant.
+§oI'll need to do some more research before I can craft this.
+§5[Afraid of the Dark] %1$s chunks are still being generated, please wait while these finish generating...
+I'll need more energy to perform the ability.
+I can't understand who I'm fighting...
+My mind is too clouded to cast spells here.
+Invalid spell. Make sure to have delivery methods on each spell stage and a power source!
+You must be in creative mode to cast this spell.
+Not enough experience levels to cast this spell.
+Spell '%1$s' saved successfully.
+Property %1$s did not have a valid value - %2$s
+All properties saved successfully.
+§oThe book appears to be empty.
+The lens cutter can only make lenses out of glass.
+§oI don't understand how this works.

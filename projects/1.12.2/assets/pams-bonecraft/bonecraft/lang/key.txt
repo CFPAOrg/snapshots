@@ -1,0 +1,11 @@
+itemGroup.tabBonecraft
+tile.pamfossil.name
+item.boneaxeitem.name
+item.bonehoeitem.name
+item.bonepickaxeitem.name
+item.boneshovelitem.name
+item.bonesworditem.name
+item.bonehelmitem.name
+item.bonechestitem.name
+item.bonelegsitem.name
+item.bonebootsitem.name

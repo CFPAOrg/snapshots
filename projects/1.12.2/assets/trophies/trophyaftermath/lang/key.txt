@@ -1,0 +1,12 @@
+item.trophy_ruby.name
+item.trophy_sapphire.name
+item.trophy_emerald.name
+item.trophy_diamond.name
+tile.block_trophy_basic.name
+tile.block_trophy.name
+advancements.trophy.basic_trophy.title
+advancements.trophy.basic_trophy.description
+advancements.trophy.grand_gems.title
+advancements.trophy.grand_gems.description
+advancements.trophy.jeweled_trophy.title
+advancements.trophy.jeweled_trophy.description

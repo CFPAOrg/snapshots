@@ -1,0 +1,30 @@
+Industrial Dimmer
+power: %1$s
+§6An industrial manual redstone power dimmer.§r\n\
+Industrial Switch Link Receiver
+Industrial Cased Switch Link Receiver
+Industrial Pulse Switch Link Receiver
+Industrial Cased Pulse Switch Link Receiver
+Industrial Switch Link Sender
+Industrial Switch Link Pulse Sender
+§6A small industrial bistable switching device that is optimised to be \
+§6A full block cased industrial bistable switching device that is optimised to be \
+§6A small industrial pulse switching device that is optimised to be used as a Switch Link \
+§6A full block industrial pulse switching device that is optimised to be used as a Switch Link \
+§6A small industrial switching device that is optimised to be \
+§6A small industrial pulse switching device that is optimised to be used as a Switch Link relay \
+Yellow power plant
+Red power plant
+§6Artificial yellow flower that looks very similar to dandelion, \
+§6Artificial yellow flower that looks very similar to a poppy, \
+Knock Detector Pulse Switch (industrial)
+Knock Detector Bistable Switch (industrial)
+§6Emits a redstone pulse when the adjacent block of its facing is clicked.§r ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+§6Switches on/off when the adjacent block of its facing is clicked.§r ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+Redstone-Sensitive Glass Block (Light Emitting)
+Redstone-Sensitive Glass Block (White-Stained)
+Redstone-Sensitive Glass Block (Red-Stained)
+Redstone-Sensitive Glass Block (Green-Stained)
+Redstone-Sensitive Glass Block (Blue-Stained)
+Redstone-Sensitive Glass Block (Yellow-Stained)
+Redstone-Sensitive Glass Block (Orange-Stained)

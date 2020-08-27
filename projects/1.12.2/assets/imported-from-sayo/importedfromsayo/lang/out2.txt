@@ -1,0 +1,93 @@
+Green Vending Machine
+Lime Vending Machine
+Lime Vending Machine
+Lime Vending Machine
+Lime Vending Machine
+Yellow Vending Machine
+Yellow Vending Machine
+Yellow Vending Machine
+Yellow Vending Machine
+Locker
+Locker
+Locker
+Locker
+Green Vending Machine
+Green Vending Machine
+Green Vending Machine
+Green Vending Machine
+Lime Vending Machine
+Lime Vending Machine
+Lime Vending Machine
+Lime Vending Machine
+Yellow Vending Machine
+Yellow Vending Machine
+Yellow Vending Machine
+Yellow Vending Machine
+Locker
+Locker
+Locker
+Locker
+White Vending Machine
+Red Vending Machine
+Blue Vending Machine
+Orange Vending Machine
+Green Vending Machine
+Lime Vending Machine
+Yellow Vending Machine
+Locker
+White Teleport Charm
+Orange Teleport Charm
+Magenta Teleport Charm
+Light Blue Teleport Charm
+Yellow Teleport Charm
+Line Teleport Charm
+Pink Teleport Charm
+Gray Teleport Charm
+Light Gray Teleport Charm
+Cyan Teleport Charm
+Purple Teleport Charm
+Blue Teleport Charm
+Brown Teleport Charm
+Green Teleport Charm
+Red Teleport Charm
+Black Teleport Charm
+White Teleport Circle
+Orange Teleport Circle
+Magenta Teleport Circle
+Light Blue Teleport Circle
+Yellow Teleport Circle
+Lime Teleport Circle
+Pink Teleport Circle
+Gray Teleport Circle
+Light Gray Teleport Circle
+Cyan Teleport Circle
+Purple Teleport Circle
+Blue Teleport Circle
+Brown Teleport Circle
+Green Teleport Circle
+Red Teleport Circle
+Black Teleport Circle
+Mob2Egg
+Bright Emergency light
+Dark Emergency light
+Shading Glass
+Reinforced Shading Glass
+Ender Steel Block
+Imitation Solor
+Eraser Bomb Akane Mk-1
+Eraser Bomb Akane Mk-2
+Eraser Bomb Akane Mk-3
+Eraser Bomb Akane Mk-4
+Eraser Bomb Akane Mk-5
+Eraser Bomb Akane Mk-6
+Eraser Bomb Aoi Mk-1
+Eraser Bomb Aoi Mk-2
+Eraser Bomb Aoi Mk-3
+Eraser Bomb Aoi Mk-4
+Eraser Bomb Aoi Mk-5
+Eraser Bomb Aoi Mk-6
+Eraser Bomb Yukari Mk-1
+Eraser Bomb Yukari Mk-2
+Eraser Bomb Yukari Mk-3
+Eraser Bomb Yukari Mk-4
+Eraser Bomb Yukari Mk-5

@@ -1,0 +1,87 @@
+Blueschist Thorianite
+Blueschist Chromite
+Blueschist Pyrolusite
+Blueschist Magnesite
+Blueschist Spodumene
+Blueschist Stibnite
+Blueschist Mawsonite
+Blueschist Beryl
+Blueschist Zircon
+Blueschist Villiaumite
+Blueschist Rhodochrosite
+Blueschist Fluorite
+Blueschist Carobbiite
+Blueschist Arsenic
+Blueschist Spike 
+Blueschist Button 
+Blueschist Rock
+Blueschist Brick
+Raw Blueschist
+Smooth Blueschist
+Blueschist Cobble
+Blueschist Bricks
+Blueschist Sand
+Blueschist Gravel
+Blueschist Dirt
+Blueschist Clay
+Blueschist Grass
+Blueschist Dry Grass
+Blueschist Clay Grass
+Blueschist Path
+Blueschist FarmLand
+Smooth Blueschist Stairs
+Blueschist Cobble Stairs
+Blueschist Bricks Stairs
+Smooth Blueschist Slab
+Blueschist Cobble Slab
+Blueschist Bricks Slab
+Smooth Blueschist Double Slab
+Cobble Blueschist Double Slab
+Bricks Blueschist Double Slab
+Smooth Blueschist Wall
+Blueschist Cobble Wall
+Blueschist Bricks Wall
+Greenschist Native Copper
+Greenschist Native Gold
+Greenschist Native Platinum
+Greenschist Hematite
+Greenschist Native Silver
+Greenschist Cassiterite
+Greenschist Galena
+Greenschist Bismuthinite
+Greenschist Garnierite
+Greenschist Malachite
+Greenschist Magnetite
+Greenschist Limonite
+Greenschist Sphalerite
+Greenschist Tetrahedrite
+Greenschist Bituminous Coal
+Greenschist Lignite
+Greenschist Kaolinite
+Greenschist Gypsum
+Greenschist Satinspar
+Greenschist Selenite
+Greenschist Graphite
+Greenschist Kimberlite
+Greenschist Petrified Wood
+Greenschist Sulfur
+Greenschist Jet
+Greenschist Microcline
+Greenschist Pitchblende
+Greenschist Cinnabar
+Greenschist Cryolite
+Greenschist Saltpeter
+Greenschist Serpentine
+Greenschist Sylvite
+Greenschist Borax
+Greenschist Olivine
+Greenschist Lapis Lazuli
+Greenschist Native Ardite
+Greenschist Rutile
+Greenschist Native Osmium
+Greenschist Bauxite
+Greenschist Wolframite
+Greenschist Cobaltite
+Greenschist Thorianite
+Greenschist Chromite
+Greenschist Pyrolusite

@@ -1,0 +1,8 @@
+Aged Rum (Jump Boost)
+Aged Whiskey (Haste)
+Aged Rye Whiskey (Haste)
+Aged Corn Whiskey (Haste)
+Aged Vodka (Resistance)
+Aged Cider (Speed)
+Aged Beer (Health Boost)
+Aged Sake (Night Vision)

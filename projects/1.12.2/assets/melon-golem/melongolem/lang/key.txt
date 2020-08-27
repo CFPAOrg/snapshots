@@ -1,0 +1,4 @@
+entity.melongolem.melon_golem.name
+entity.melongolem.melon_slice.name
+entity.melongolem.tiny_melon_golem.name
+item.melongolem.melonstick.name

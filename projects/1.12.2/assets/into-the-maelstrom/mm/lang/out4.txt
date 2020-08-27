@@ -1,0 +1,48 @@
+Shoots short range fireball
+Made in honor of the gods of destruction
+Adds %s
+Summons a meteor up to 50 blocks away
+Mana Cost
+Use to unlock mana
+Deals %s damage to %s mobs
+Reduces %s type damage by %s
+Deals %s damage
+Deals %s damage per meter
+Full set: Speed
+Full set: Resistance
+Full set: Poison Reduction
+Full set: Strength
+Full set: Rainbows when sprinting
+Full set: Jump Boost and Speed
+Full set: Partial Knockback Resistance
+Full set: Random Strong Regeneration
+In survival mode, accessed only in the Nexus dimension
+Can hold, place, and mine %s
+Shoots short range magic
+Grants extreme regeneration and absorption
+Shoots a medium range beam
+An Elytra forged in an unbreaking metal.
+Barribob - New World
+Barribob - Wandering
+Congrats! You have reached the ending. See the mod page for more details.
+Give to herobrine to craft
+You over there. You look like an adventurer.
+If you get me some pearls, I'll give you something good.
+Come on, there's no need for violence.
+Thanks! Now, let me try to kill you.
+I just want to see how strong you are for fun.
+Fascinating. I guess you can fight.
+Maybe instead of killing you, you can be my slave.
+If you find any key fragments, give them to me, and I'll craft another key.
+That way, I can unlock the way to those annoying maelstrom generals.
+And you can do your exploration or whatever. Everybody wins.
+Pipe down, the battle's over.
+Do you have fragments for the next key? If not, then GTFO.
+Don't attack me you dweeb. Only I'm allowed to attack unprovoked.
+Not bad. Now go get some more fragments for me.
+Do you have fragments for the next key? If not, then GTFO.
+How about you go left click some maelstrom instead?
+Try taking on this dimension. I'm sure it won't be that bad.
+Guess you're too stupid to see that I'm ignoring you.
+Fantastic. You've proved very handy, but
+I'll be doing the rest. I can't let you have all the fun.

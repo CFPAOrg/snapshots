@@ -1,0 +1,33 @@
+Slowdown II
+Slowdown your targets even more with this upgrade!
+Movement Blocking
+Entirely blocks the movement of a target! Don't let your turrets get endangered by incoming, revengeful enemies!
+Turret-XP Collecting
+You want to get the XP from your turrets and store it in the Collector? Then upgrade it with this! The Collector turret is then able to extract the XP from nearby turrets.
+Item Collecting
+You're afraid of losing your items upon death or just don't want to run around to get your drops from fought mobs? With this upgrade the Collector turret can store items in adjacent chests! Put chests to the sides or below the turret, so that it can reach them.
+Range Increase I
+You think the shield is too small? Then upgrade your Forcefield Turret with this to increase the shield's size up to 16 blocks.
+Range Increase II
+You still think the shield not big enough? This upgrade will allow the Forcefield turret to generate a shield with a size of 32 blocks!
+Shield Strenghtener
+This upgrade will increase the shield points from your Forcefield Turret up to 5000. A stronger shield for hordes of enemies!
+Shield Healer
+A shield will be healed 5 times faster than regular whilst upgraded with this one!
+Density Increaser
+If you don't want to let mobs get to your defense, use this upgrade! It increases the density of the shield, so that mobs (which are marked in the target list) will be pushed out of the Forcefield.
+Range Extender
+Use the power of gold to increase the range of the Collector turret! Reach further distant items and XP, to be exact in a range of 64 blocks!
+Description
+Basic Values
+Ammo and Health Items
+Upgrades
+Turret Info - Description
+Turret Info - Values
+Turret Info - Items
+Turret Info - Upgrades
+max. ammo capacity
+The maximal capacity of ammunition this turret can hold.
+max. health points
+The maximal health points this turret can have.
+upper Y-Range

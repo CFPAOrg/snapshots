@@ -1,0 +1,4 @@
+item.feederhelmet:feeder_helmet_module.name
+item.feederhelmet:feeder_helmet_module.desc
+item.feederhelmet:feeder_helmet_module_installed.text
+itemGroup.feederhelmet

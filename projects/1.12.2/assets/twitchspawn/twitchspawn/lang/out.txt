@@ -1,0 +1,30 @@
+§nTwitchSpawn Loading Errors
+§4TSL Error: §4%2$s
+§4JSON Error: §4%2$s
+§4TOML Error: §4%2$s
+§4Unknown Error: §4%2$s (%3$s)
+§3>> Successfully reloaded all the configs
+§4>> Failed to reload. Syntax errors: %1$s
+§4>> TwitchSpawn should be stopped in order to be able to reload configs.
+§4>> You do not have permission to reload TwitchSpawn configs.
+§3>> TwitchSpawn is currently running. [ON]
+§3>> TwitchSpawn is currently not running. [OFF]
+§a>> TwitchSpawn is now started on this server!
+§4>> TwitchSpawn is already running.
+§4>> You do not have permission to start TwitchSpawn.
+§6>> TwitchSpawn stopped by %1$s (Reason: %2$s)
+§4>> TwitchSpawn is already stopped.
+§4>> You do not have permission to stop TwitchSpawn.
+§3>> Rulesets loaded for: %1$s
+§3>> Default ruleset loaded includes following:%2$s
+§3>> Ruleset loaded for %1$s includes following:%2$s
+§4>> No ruleset was loaded for %1$s
+§4>> Missing event name in simulation object. Expected \event\ field.
+§4>> Invalid event name -> %1$s
+§a>> Simulation fired off successfully %1$s
+§4>> You do not have permission to simulate an event.
+§4>> No ruleset associated with %1$s
+§a>> Successfully queued rules for %1$s
+§4>> You do not have permission to test rulesets.
+§4>> You do not have permission to execute actions.
+Cannot load TwitchSpawn

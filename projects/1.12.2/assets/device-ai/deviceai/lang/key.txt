@@ -1,0 +1,5 @@
+app.deviceai.ai_app.name
+app.deviceai.ai_app.desc
+item.ai_item.name
+tile.ai_block.name
+itemGroup.deviceAITab

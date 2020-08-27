@@ -1,0 +1,34 @@
+Expanded Arcanum
+Control Seal: Shear
+Instrument: %s
+Note: %s
+Piano
+Bass Drum
+Snare
+Clicks
+Bass Guitar
+Flute
+Bell
+Guitar
+Chime
+Xylophone
+Mimic Fork
+Thaumium Drill Head
+Void Drill Head
+Native Cluster Extraction Module
+Gives the Mining Drill a chance to extract Native Clusters from mined ores, stacks up to 4
+Native Aluminum Cluster
+Native Nickel Cluster
+Native Uranium Cluster
+Expanded Arcanum
+Additional Purification
+Expanding on my earlier work with Metal Purification, I've also found a way to process some more exotic Minerals found in the world.
+Immersive Engineering Purification
+My latest experiments have resulted in a way to process Bauxite, Nickel, and Uranium into Native Clusters
+Mimic Fork
+Note Blocks are a device I've been thinking of a lot lately. They are simple things that respond to touch or Redstone to emit one single pure note... But of what utility are they really?<BR>Any usage requires a Note Block to be setup in a specific location and manually configured to the desired note.<BR>There must be a better way...
+I've found my answer with Mimic Fork <BR>The Mimic Fork has a few functions, It can store musical notes to evoke them at a later point. It also allows you to set an Arcane Ear or Note Block's Note setting by Right-Clicking the Mimic Fork on either device. You are also able to set the Instrument and Note type of a given Note Block or Arcane Ear by instead Sneak-Right Clicking on the device.
+Control Seal: Shear
+I should be able to design a seal to allow the properly equipped golems to harvest wool from my sheep for me. I may need to see about attaching a shear of some sort to the golem's frame.
+This seal allows a Smart Golem equipped with Claw Hands to shear animals within the range of the control seal.<BR>Any items generated this way are dropped at the golem's feet and will need to be collected for proper storage.
+Expanding Arcanum

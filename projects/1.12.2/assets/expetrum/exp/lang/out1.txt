@@ -1,0 +1,109 @@
+§fCan Work
+ §fCan Weld
+ §f!Danger!
+ ⏐
+Weld
+New Age Achieved!
+The animal is scared of you.
+The animal is cautious of you.
+The animal is neutral to you.
+The animal trusts you.
+The animal trusts you completely.
+§6Fertilized
+This animal doesn't want any food now.
+This animal is pregnant.
+The animal doesn't trust you enough to do that.
+%dmb
+%d℃
+%d Prog.
+%d Ticks
+Req. Anvil Tier:
+Stone
+Copper
+Bronze
+Iron
+Steel
+Tool/HSLA Steel
+Pickled
+Well Cooked
+Close the game
+Continue anyway.
+Security Exception
+Only download mods from trusted sources!
+ExPetrum has detected that the mod jar you are running is not the same jar that the author of the mod distributed! This may mean many things most of them negative. At the very least the jar was modified. At worst a virus software was injected into the mod jar. If you downloaded the mod from anywhere else rather than curseforge.com §4IMMEDIATELY CLOSE YOUR GAME AND DELETE THE JAR FILE!§f If you did download the mod from curseforge I would suggest checking your PC for viruses as the jar was obviously modified. Lastly if you are seeing this error and you have built the mod from sources yourself - you can safely ignore it.
+Smelting
+Pottery
+Welding
+Smithing
+Alloying
+Quern
+Scraping Rack
+Spinning Wheel
+Bloomery
+Barrel
+Fruit Press
+Blast Furnace
+Bend
++10 Prog|-5 Int
+Upset
++5 Prog|-5 Int|+1 Heat
+Punch
++5 Prog|-15 Int
+Sharpen
++5 Prog|-10 Int|+1 Heat
+Clear
++5 Int
+Hit
++10 Prog|-5 Int|+1 Heat
+Swag
++5 Prog|+5 Int
+Swipe
++20 Prog|-20 Int|+1 Heat
+Mend
++10 Int|+1 Heat
+Extract
+-10 Int|-1 Heat
+Combine
++20 Prog|-10 Int|+1 Heat
+Melt
++20 Int|+2 Heat
+Overheat
+Take|2|Damage
+-10 Int
+Stone
+Stone (Tile)
+Stone (Brick)
+Stone (Small Brick)
+Pebbles
+Boulder
+Worked Boulder
+Rock
+Boulder With Ore
+Dirt
+Sand
+Coral
+Coral
+Snow Layer
+Ice
+Farmland
+Grass
+Dry Grass
+Dead Grass
+Lily Pad
+Cattail
+Tallgrass
+Seaweed
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log

@@ -1,0 +1,39 @@
+Possessed Wither Skeletons
+Control whether Possessed Wither Skeletons exist.
+Possessed Wither Hunchbone Spawn Rate
+Control the spawn rate of Possessed Wither Hunchbones.
+Possessed Wither Hunchbone Fortress Spawn Rate
+Control the spawn rate of Possessed Wither Hunchbones in Nether Fortresses.
+Possessed Wither Hunchbone Restriction
+Turn this off to disable Possessed Wither Hunchbones\n§espawning only in Nether Fortresses.
+Possessed Withered Zombie Spawn Rate
+Control the spawn rate of Possessed Withered Zombies.
+Possessed Hunchbone Spawn Rate
+Control the spawn rate of Possessed Hunchbones.
+Possessed Hunchbone Fortress Spawn Rate
+Control the spawn rate of Possessed Hunchbones in Nether Fortresses.
+Possessed Withered Zombies
+Control whether Possessed Withered Zombies exist.
+Possessed Wither Hunchbones
+Control whether Possessed Wither Hunchbones exist.
+Possessed Hunchbones
+Control whether Possessed Hunchbones exist.
+Possessed Boxer Wither Skeleton Spawn Rate
+Control the spawn rate of Possessed Boxer Wither Skeletons.
+Possessed Boxer Wither Skeleton Fortress Spawn Rate
+Control the spawn rate of Possessed Boxer Wither Skeletons in Nether Fortresses.
+Possessed Boxer Wither Skeleton Fortress Restriction
+Turn this off to disable Possessed Boxer Wither Skeletons\n§espawning only in Nether Fortresses.
+Possessed Boxer Zombie Spawn Rate
+Control the spawn rate of Possessed Boxer Zombies.
+Possessed Boxer Skeleton Spawn Rate
+Control the spawn rate of Possessed Boxer Skeletons.
+Possessed Boxer Skeleton Fortress Spawn Rate
+Control the spawn rate of Possessed Boxer Skeletons in Nether Fortresses.
+Possessed Boxer Husk Spawn Rate
+Control the spawn rate of Possessed Boxer Husks.
+Possessed Boxer Stray Spawn Rate
+Control the spawn rate of Possessed Boxer Strays.
+Possessed Boxer Zombies
+Control whether Possessed Boxer Zombies exist.
+Possessed Boxer Husks

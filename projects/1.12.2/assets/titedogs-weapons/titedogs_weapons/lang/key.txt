@@ -1,0 +1,6 @@
+item.bazooka.name
+item.rocket.name
+item.bullet.name
+item.ironbroadsword.name
+item.ironhammer.name
+itemGroup.tabtitedogsweapons

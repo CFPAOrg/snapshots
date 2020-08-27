@@ -1,0 +1,36 @@
+Only the Most Accomplished Warrior is deserving of this Item. When Equipped Gives Resistance. (If Enabled) Ignores Damage every so many hits. (If First Aid is Installed and Enabled) has a chance to Ignore Fatal Headshot Damage.
+Gives a Permanent Fairy Effect, which can be removed with the Potion of Restoration. The splash and lingering variants will NOT work!
+Gives a Permanent Dwarf Effect, which can be removed with the Potion of Restoration. The splash and lingering variants will NOT work!
+Client Settings
+Settings with only visual effects.
+Trinkets Gui
+Settings regarding the Trinkets Gui on the client.
+Magic Food Settings
+Settings regarding the transformation foods.
+Potion Settings
+Settings regarding the potions.
+Server Settings
+Settings which change the gameplay.
+Trinkets Gui
+Settings regarding the Trinkets Gui on the server.
+Trinkets Gui Enabled
+Should Trinkets and Baubles Container be Enabled\nIf Disabled, please use "Baubles" by Azanor, Otherwise you wont be able to use this mod
+Item Enabled
+If this Item Should be added to the Registry on Load
+Render Trinkets
+Main Render Control for all Trinkets
+Render Trinket
+Render Trinket effects on the player
+Replace EntityRenderer
+When using the Enchanted Race rings, should Trinkets and Baubles Replace the EntityRenderer to solve some of the camera clipping issues?
+EntityRenderer Fog
+When Trinket and Baubles Replaces the EntityRenderer is breaks some settings with Optifine, Specifically Fog, use this to turn Fog on or off
+Foods Enabled
+If Trinkets and Baubles Food Items Should be added to the Registry on Load
+Transformative Effects
+Should the Magical Foods Tranform the player.
+Keep Effect
+Should the player keep the tranformation effect even on death, essentially making the Tranformation permanent.
+Potions Enabled
+Should Trinkets and Baubles Potions Be Added to the Registry on Load
+Potions Give Water

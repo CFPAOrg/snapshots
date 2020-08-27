@@ -1,0 +1,5 @@
+entity.GuardIllager.name
+item.guard_helm.name
+guardillagers:subtitles.guardillager.ambient
+guardillagers:subtitles.guardillager.hurt
+guardillagers:subtitles.guardillager.die

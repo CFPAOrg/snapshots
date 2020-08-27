@@ -1,0 +1,15 @@
+Flavor Distributor
+Transfers Flavor Energy.
+It's a flavored version of Energy Distributor.\nIt transfers flavored energy (like mana).
+Chunk Sprayer
+Charges nearby chunks with Flavor Energy.
+Flavored version of Chunk Sprayer.
+Entity Charger
+Takes energy from nearby blocks or World Chunk Energy
+It doesn't contain any energy.\nConnect an Entity Charger to a nearby block or charge a chunk using Energy Distributor and Chunk Charger.
+Wireless Energy Transferrer (WET)
+Reserve 3x3x3 block space on the front and a block on the back
+The front facing tells you where to use a 3x3x3 area.\nRight-click with EMPTY hand to change modes.\nThis block transfers energy from/to World Chunk Energy when no block was found on the opposite side.
+Flux Energy Generator
+Generates energy.
+This machine uses fuel, catalyst, hot fluid and clean fluid. Only fuel is mandatory.

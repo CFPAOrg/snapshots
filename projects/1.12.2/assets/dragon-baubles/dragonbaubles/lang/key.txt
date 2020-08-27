@@ -1,0 +1,11 @@
+item.icestridercharm.name
+item.heartfeltpendant.name
+item.skeletaldeflectorring.name
+item.dwarfingsash.name
+item.naturalcharm.name
+item.invisibiltycloak.name
+item.crownofhealing.name
+item.airspiritscharm.name
+item.firespiritsrobe.name
+item.waterspiritstotem.name
+item.lighttiara.name

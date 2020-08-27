@@ -1,0 +1,40 @@
+Crystalized Sword
+Crystalized Helmet
+Crystalized Chestplate
+Crystalized Leggings
+Crystalized Boots
+The crystalized sword can be made by 2 crystalized ingots and a stick in a crafting table. The sword does 6 attack damage.
+A helmet made of crystalized ingots.
+A chestplate made of crystalized ingots.
+Leggings made of crystalized ingots.
+Boots made of crystalized ingots.
+Crystalized Axe
+Crystalized Pickaxe
+Crystalized Shovel
+Crystalized Hoe
+Crystalized Shears
+An axe made of crystalized ingots
+A pickaxe made of crystalized ingots
+A shovel made of crystalized ingots
+A hoe made of crystalized ingots
+Shears made of crystalized ingots
+Crystalized Block
+Infusion Furnace
+The infusion furnace is used to make crystalized ingots.
+A crystalized block is a block made of 9 crystalized ingots.
+Glace Skeleton
+A glace skeleton is a creature that shoots frozen balls that give you a freezing effect if they hit you and they only spawn on snow. they drop the crystalized dust if you kill them.
+Freezing Book
+Anti-freeze Book
+Potion
+Splash Potion
+Lingering Potion
+Tipped Arrow
+Enchantment to give the freezing effect to your bow.
+Enchantment to give you resistance against freezing when applied on your chestplate.
+Potion that gives you freezing
+Spreads the freezing effect in a small area you throw it.
+A throwable potion to give a freezing effect to the one you hit with it
+An arrow with the freezing effect applied on it.
+Crystalized
+Crystalized

@@ -1,0 +1,100 @@
+Tabula
+Controls
+Selected Cube Name
+Dimensions
+Position
+Offset
+Rotation
+Opacity
+MC Scale
+Custom Scale
+Texture Offset
+Mirror
+Mirror Texture
+New Project
+Project Name
+Author Name
+Texture width and height
+Project Scale
+Edit Project
+Model Tree
+New Cube
+New Group
+Delete
+Edit Metadata
+Texture
+Load Texture
+Clear Texture
+Listen
+Listen for texture changes (If the texture is yours)
+Remote Texture
+No Texture
+Import Model To Current Project
+Texture
+Import the Texture (if available) as well?
+Import Minecraft Model
+New?
+Import the model into a new project?
+Load Texture
+Update?
+Update the texture dimensions of the project?
+Chat
+Hit ENTER to send
+Project not saved!
+Project is not saved!
+Would you like to save before closing?
+Open Project
+Opening...
+Failed to open file.
+About
+Mod Version: 
+Developer: 
+Textures: 
+Contributions: 
+Testers: 
+Current Localization: iChun
+Function and UI are based off the original Techne by ZeuX and r4wk
+If you have any issues or suggestions go to the following link
+Project is open source and can be found at:
+Animation
+New Animation
+Edit Animation
+Delete Animation
+Play Animation
+Stop Animation
+New Component
+Edit Component
+Delete Component
+Split Component. This resets the Component Progression
+Edit Component Progression
+Select a Cube to animate first!
+Select an Animation first!
+New Animation
+Animation Name
+Does the animation loop?
+Edit Animation
+New Animation Component
+Component Name
+Component length (in ticks)
+Edit Animation Component
+Component Start Tick
+Edit Animation Component Progression
+Animation Progression
+Reset
+Play Anim
+Play the animation while you are editing the progression?
+Invalid progression curve!
+Animation Keyframe Info: 
+Select Theme
+Settings
+Render Model Rotation Point
+Failed to layout textures.
+Project Metadata
+Metadata
+Set Ghost Model
+Export Project
+Export Failed!
+Texture Map
+Export as Java Class
+Package For Class
+Java Class

@@ -1,0 +1,93 @@
+Nether Star Axe
+Nether Star Shovel
+Chain
+Red Sand Dust
+Pile of Red Sand
+Gravel Dust
+Pile of Gravel
+Gravel Helmet
+Gravel Chestplate
+Gravel Leggings
+Gravel Boots
+Gravel Sword
+Gravel Pickaxe
+Gravel Hoe
+Gravel Axe
+Gravel Shovel
+Ruby Ore
+Ruby Block
+Gold Ore
+Iron Pyrite Block
+Titanium Ore
+Titanium Block
+Californium Ore
+Unstable Californium Block
+Stabilized Californium Block
+Rhodium Ore
+Rhodium Block
+Nether Star Block
+Nether Ruby Ore
+Nether Gold Ore
+Nether Rhodium Ore
+Nether Titanium Ore
+Nether Californium Ore
+Nether Coal Ore
+Nether Lapis Lazuli Ore
+Nether Iron Ore
+Nether Gold Ore
+Nether Diamond Ore
+Nether Emerald Ore
+Nether Redstone Ore
+End Ruby Ore
+End Gold Ore
+End Rhodium Ore
+End Titanium Ore
+End Californium Ore
+End Coal Ore
+End Lapis Lazuli Ore
+End Iron Ore
+End Gold Ore
+End Diamond Ore
+End Quartz Ore
+End Emerald Ore
+End Redstone Ore
+Quartz Ore
+Fighting Dirty
+Obtain a Dirt Sword
+I Am Titanium
+Mine some Titanium Ore
+Lonely Rhod
+Mine some Rhodium Ore
+Wait A Minute...
+Smelt some Iron Pyrite (a.k.a "Fool's Gold")
+Radioactive
+Mine some Californium
+Better Than Diamond!
+Obtain Ruby
+Dirt Rich
+Obtain a Pile of Dirt
+Getting Defensive
+Obtain a Rhodium Sword
+Throw It!
+Obtain a rock
+Coal Miner
+Obtain a Coal Nugget
+Iron Man
+Obtain an Iron Nugget
+Made of Diamonds
+Obtain a Diamond Nugget
+True Metal
+Obtain a Titanium Sword
+Facade
+Obtain a "Fool's Gold" Sword
+Poisonous!
+Obtain a Californium Sword
+Shiny!
+Obtain a Ruby Sword
+Valuable
+Obtain an Emerald Sword
+Try Hard
+You literally crafted a block of Nether Stars.
+Resource Overhaul
+Thrown Rock
+Resource Overhaul

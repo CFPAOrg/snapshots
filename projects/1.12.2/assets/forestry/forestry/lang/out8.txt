@@ -1,0 +1,51 @@
+No rain
+Operation is only possible when it is raining.
+Never rains
+This location never receives rain.
+Sky obstructed
+Clear the area above this machine so it can gather rain.
+Honey required
+This gadget requires honey drops or honeydew for operation.
+Nothing to analyze
+Supply a specimen to analyze.
+Forced Cooldown
+The engine has overheated and must cool down before it can start again.
+No electricity
+Your world is barren of any electricity. (Install IndustrialCraft\u00b2.)
+No fuel
+This engine requires fuel to run. Replenish this machine's fuel supplies.
+Not warmed up
+This engine requires a heat source to run. Refill the heating tank.
+Need Stamps
+The trade station requires more stamps to pay postage.
+Need Paper
+The trade station requires more paper to send letters.
+Need Supplies
+The trade station requires more supplies to send.
+No Trade Set
+The trade station requires items to Send and Receive.
+Invalid Name
+A Trade Station name must consist of letters and numbers only.
+Not Unique
+Trade Station names must be unique and this name is already taken.
+No Recipient
+You need to address your letter to a recipient to send it.
+Stamps Needed
+Apply more stamps to pay the postal service.
+Layout Mismatch
+Amount of tubes does not match size of circuit board.
+Board Missing
+Insert a circuit board to solder the selected tubes onto it.
+No Layouts Found
+No layouts available due to the current game settings.
+No Farmland
+Smooth sandstone, bricks or stone bricks create a platform the farm will build on.
+No Fertilizer
+Farms require fertilizer for function. Compost is insufficient.
+No Water
+Depending on rainfall, temperature and humidity farms need to be supplied with varying amounts of water.
+Apiarist
+%1$s encountered a swarm of bees. %2$s stole their apiarist's suit.
+%1$s encountered a swarm of bees. That had to sting.
+%1$s was killed by wild bees. %2$s stole their apiarist's suit.
+%1$s was killed by wild bees. They should have used a Smoker.

@@ -1,0 +1,10 @@
+tile.iron_crusher_idle.name
+tile.iron_crusher_active.name
+tile.iron_smelter_idle.name
+tile.iron_smelter_active.name
+tile.iron_compressor_idle.name
+tile.iron_compressor_active.name
+itemGroup.simpleop
+container.crusher
+container.smelter
+container.compressor

@@ -1,0 +1,37 @@
+This is the delay between projectiles of the gauntlet
+Treasury Projection Warmup
+This is the wind up time each projectile has before firing.
+Treasury Projection Max Distance For Spawn
+This is the max distance between the target and the projectile spawn
+Treasury Projection Min Distance For Spawn
+This is the min distance between the target and the projectile spawn
+Treasury Projection Ignore Item Selection. Allow everything except blacklist
+Ignore whitelist; allow everything
+Treasury Projection Ignore Item Selection. Reject all except whitelist
+Ignore whitelist & blacklist; allow everything
+Treasury Projection Whitelist
+A list of additional registry names which will be considered for selection in Treasury Projection
+Treasury Projection Blacklist
+A list of  registry names which will be not considered for selection in Treasury Projection
+Strengthening Mana Cost
+This is the cost of using the scroll
+Reality Marble Mana Cost
+This is the cost of using the scroll
+Reality Marble Dimension ID (-1 will pick the next free one)
+If you have dimension conflicts, change this to something else
+Marble Dimension Sword Durability
+Durability of swords spawned in the Marble Dimension
+Marble Dimension Sword Frequency (Higher is less swords)
+Distance between swords spawned in the Marble Dimension
+Marble Dimension Sword Chance (Between 0 and 1, where 1 is cloudy with a 100% chance of swords)
+Probability of sword spawn
+Reality Marble Sword Spawn List
+These will spawn in the Reality Marble as entities.. No guarantees on functionality if you change this.
+Crimson Black Keys Summon Mana Cost
+This is the cost of using the scroll
+Projection Mana Cost
+This is the cost of using the scroll
+Projection Blacklist
+A list of item names which cannot be projected. Such as minecraft:diamond_sword , for example.
+Projected Item Durability Factor
+Either the amount of damage a projected item takes from its max, or the total durability of the projected item

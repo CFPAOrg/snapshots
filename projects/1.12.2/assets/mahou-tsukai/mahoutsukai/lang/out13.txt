@@ -1,0 +1,51 @@
+Toggle bleeding potion effect display
+Blood circles on solid only
+If true, only allow blood circles on solid blocks
+Mana Up Counter
+How much mana is spent before it increases
+Mana Increase Amount
+How much max mana increases every time it does
+Passive Mana Regen
+How much mana players regen per tick
+Mana Recovery Factor when Sleeping
+Percentage of max mana players get back by sleeping
+Magic Circle URLs
+A list of URLs to pull Magic Circle textures from
+Magic Runes URLs
+A list of URLs to pull Magic Runes textures from
+Mahoujin Projector Default Rotation Speed
+Base rotation speed for projector
+Mahoujin Projector Continues Rotating When Redstone Applied
+Stop spinning when powered off
+Proximity Projection Durability
+How much durability the Proximity Projection Keys have
+Creative Mode Ignores Mana Costs
+If true, mana cost of things is ignored in creative mode
+R:
+G:
+B:
+Alpha:
+Size:
+X:
+Y:
+Z:
+Yaw:
+Pitch:
+Speed:
+Ring Angle:
+Ring Height:
+Circle List Index:
+Runes List Index:
+Yaw Speed:
+Pitch Speed:
+Rotation:
+Mahou Tsukai Knowledge Compendium
+Cloth Optional
+No Cloth
+Cloth Required
+Alarm Boundary
+The Alarm Boundary is perhaps the most basic of boundary magic - it simply alerts you to mobs and players as they enter the range (%%val2) of the boundary. %%n %%nIt drains %%val0 mana from the caster every %%val1 second(s). %%n%%nAlarm boundaries will also output a comparator value of 15 when it detects anything in the boundary.
+Displacement Boundary
+The Displacement Boundary teleports entities that attempt to enter the range (%%val2) of the boundary to the other side of the boundary. In doing so, it will attempt to displace blocks that would suffocate said entity. %%n %%nIt drains %%val0 mana from the caster every %%val1 second(s).
+Enclosure Boundary
+The Enclosure Boundary raises the floor around you to create a makeshift set of walls with radius %%val1. %%n %%nIt drains %%val0 mana from the caster for every layer of blocks that it raises.

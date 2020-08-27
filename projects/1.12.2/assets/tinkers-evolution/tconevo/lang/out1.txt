@@ -1,0 +1,42 @@
+Battle Furor
+§oHwæt!§r\nThis weapon grants its wielder increasing attack damage on fully-charged hits.
+Blasting
+§oI don't even think once!§r\nThis tool produces explosive results.
+Cascading
+§oIt's all coming down!§r\nThis tool destroys falling blocks in columns.
+Chain Lightning
+§oFull bridge rectifier!§r\nThis weapon's fully-charged attacks have a chance of arcing to nearby enemies.
+Lightning Chance: %s
+Corrupting
+§oA glimpse of the void...§r\nThis weapon inflicts increasing wither on fully-charged hits.
+Crystalline
+§oYou could buy a very small piano!§r\nThis weapon deals greater damage at higher durability.
+Crystalline Damage: +%s
+Culling
+§oOnly the worthy will survive.§r\nThis weapon deals increased damage to enemies with less health than its wielder.
+Culling Damage: +%s
+Deadly Precision
+§oJust buy six daedalus 4Head§r\nThis weapon deals greatly increased damage on critical strikes.
+Bonus Crit Damage: +%s
+Energized
+§oBatteries included!§r\nThis tool consumes an internal energy buffer before durability.
+Executor
+§oSee ya!§r\nThis weapon deals bonus damage based on the target's missing health.
+Execution Damage: +%s
+Fertilizing
+§oGreen terra!§r\nThis tool can be used to fertilize crops at a large durability cost.
+Fleet of Foot
+§oStay still--I'm trying to shoot you!§r\nThis weapon grants a burst of speed to its wielder on fully-charged hits.
+Force of Impact
+§oSuffering is magic!§r\nThis weapon deals greater damage at high velocity.
+Juggernaut
+§oA titanic strike!§r\nThis weapon deals increased damage based on its wielder's current health.
+Luminiferous
+§oRelativistic!§r\nThis weapon reveals the positions of struck enemies.
+Modifiable
+§oThe infinite spring!§r\nThis equipment has additional free modifier slots.
+Mortal Wounds
+§oA mortal reminder!§r\nThis weapon reduces the enemy's healing for a duration.
+Heal Reduction: -%s
+Opportunist
+§oI've been waiting for this!§r\nThis weapon deals increased damage to debuffed targets.

@@ -1,0 +1,50 @@
+Other mob settings
+This will change the Blaze model into the mobtalker design.
+Blaze
+This will change the Creeper model into the mobtalker design.
+Creeper
+This will change the Cave Spider model into the mobtalker design.
+Cave Spider
+This will change the Enderman model into the mobtalker design.
+Enderman
+This will change the Ghast model into the mobtalker design.
+Ghast
+This will change the Guardian model into the mobtalker design.
+Guardian
+This will change the Zombie Pigman model into the mobtalker design.
+Zombie Pigman
+This will change the Magma Cube model into the mobtalker design.
+Magma Cube
+This will change the Silverfish model into the mobtalker design.
+Silverfish
+This will change the Skeleton model into the mobtalker design.
+Skeleton
+This will change the Slime model into the mobtalker design.
+Slime
+This will change the Spider model into the mobtalker design.
+Spider
+This will change the Witch model into the mobtalker design.
+Witch
+This will change the Zombie model into the mobtalker design.
+Zombie
+This will change the Iron Golem model into the mobtalker design.
+Iron Golem
+This will enable the spawn eggs for both vanilla golems.
+Enable Vanilla Golem Spawn Eggs
+This will change the Mooshroom model into the mobtalker design.
+Mooshroom
+This will change the Snow Golem model into the mobtalker design.
+Snow Golem
+This will change the Villager model into the mobtalker design.
+Villager
+This will change the Zombie Villager model into the mobtalker design.
+Zombie Villager
+This will change the Wolf model into the mobtalker design.
+Wolf
+This will adjust the hitbox to match model's size.
+Cave Spider - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Cave Spider - Use accurate model size
+This will adjust the hitbox to match model's size.
+Enderman - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.

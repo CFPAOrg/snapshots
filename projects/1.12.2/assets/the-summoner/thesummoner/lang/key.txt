@@ -1,0 +1,3 @@
+entity.thesummoner.summoner.name
+item.thesummoner:summoner_orb.name
+item.thesummoner:enhanced_summoner_orb.name

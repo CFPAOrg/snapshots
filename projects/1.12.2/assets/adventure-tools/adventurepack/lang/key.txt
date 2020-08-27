@@ -1,0 +1,8 @@
+item.escape_rope.name
+item.flashlight.name
+item.lantern.name
+item.mining_lantern.name
+item.mining_helmet.name
+item.explorer_hat.name
+item.cowboy_hat.name
+adventurepack.config 

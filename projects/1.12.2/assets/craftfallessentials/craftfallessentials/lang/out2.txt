@@ -1,0 +1,67 @@
+You have successfully changed that painting!
+/snowfix <radius>
+%s snow blocks removed, %s new ones added
+/tps
+TPS: %s/20
+Max Memory: %sMB
+Memory Usage: (%s) %sMB
+Free Memory: %sMB
+/regions reload
+Regions reloaded! (%s regions found)
+Example Regions have been stored to a file!
+Region visibility has been toggled!
+/enderchest <player>
+/modlist <player>
+%s's mods:
+/resourcepacks <player>
+%s's packs:
+/checkfake [player]
+You are not holding any item!
+%s is not holding any item!
+You are holding a fake item
+%s is holding a fake item
+You are not holding a fake item
+%s is not holding a fake item
+/blocklog
+The Blocklog is busy right now
+You are now a Blocklog inspector
+You are no longer a Blocklog inspector
+No interaction found for %s, %s, %s
+Block: %s
+Player: %s
+Action: %s
+Time: %s
+/cleartracker <all|space|reality|power|mind|soul|time>
+Removed every stonekeeper from the infinity tracker
+Removed %s stonekeeper from the infinity tracker
+There is no such stone!
+/persistentsound <player> <sound>
+The sound %s does not exist!
+§a%s §8» §7%s
+Celion Wrist Mounted Assisted Teleportation Device MK III
+Teleportation
+Communication
+Keep Inv
+Send TPA
+Players
+Options
+Locations of Infinity Stones:
+Find ∞
+§lLast Seen:§r XYZ: %s/%s/%s in dimension %s
+Lore Books
+%s$ was paid to keep items.
+Following cutscenes were not found in the cutscenes folder:
+Do you want to download them?
+Missing cutscenes
+This popup can be disabled in the config.
+Download
+Close
+Read more
+News
+Set Home
+Go Back
+On
+Off
+The cutscene '%s' was successfully downloaded!
+CraftfallEssentials requires FFmpeg to play cutscenes inside the game. If you want to view those please download FFmpeg. In case you dont want to download this, the mod will view text popups to summarize the missing cutscene.
+CraftfallEssentials requires FFmpeg to play cutscenes inside the game. If you want to view those please download FFmpeg and place its contents in a 'ffmpeg' folder in your Minecraft directory. In case you dont want to install this, the mod will view text popups to summarize the missing cutscene.

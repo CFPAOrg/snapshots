@@ -1,0 +1,34 @@
+It is recommended that you do not claim this chunk of land because it is within %s blocks of another clan's home. Type /clan claim again to claim this land anyways. Try using /clan fancymap to help determine where other clans are.
+It is recommended that you do not claim this land because it would be within %s blocks of another clan's home. Type /clan claim again to claim this land anyways. Try using /clan fancymap to help determine where other clans are.
+%s is already at or above its current max claim count of %s.
+Claiming %s chunks would put %s above its max claim count of %s. It has currently claimed %s chunks.
+You cannot claim this chunk of land because it is not next to another of %s's claims.
+You cannot claim this land because it would not connect to another of %s's claims.
+Land claimed for %s.
+Insufficient funds in %s's account to claim chunk. It costs %s.
+Insufficient funds in %s's account to claim %s chunks. It costs %s.
+Starting to claim everything within the radius you requested, please wait...
+You cannot claim land in this dimension.
+/clan autoabandon
+Automatically abandon claims as you enter them.
+You are now autoabandoning land for %s.
+You are no longer autoabandoning land for %s.
+/clan autoclaim
+Automatically claim land as you enter it.
+You are now autoclaiming land for %s.
+You are no longer autoclaiming land for %s.
+/clan fancymap
+View a large claim map color coded using clan colors.
+/clan map
+View a small claim map color coded by what clans you are in.
+/clan seechunk [on|off]
+See the edges of the chunk you are currently standing in. On and off are for toggling if this happens as you walk around.
+/clan accept <clan>
+Accept an invitation to join a clan.
+You joined %s.
+%s joined %s.
+You haven't been invited to join %s.
+/clan decline <clan> [block]
+Decline an invitation to join a clan.
+You declined the invitation to join %s.
+%s declined an invitation to join %s.

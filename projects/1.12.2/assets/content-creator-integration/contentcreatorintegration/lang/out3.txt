@@ -1,0 +1,26 @@
+List of conditions required to trigger the event.
+List of outcomes to trigger if the event meets the conditions.
+Optional name for this event, for Editor readability.
+The name of mapping to the Constant Event to reference. If this is set, we check against the Constant Event's conditions and trigger their outcomes.
+Disable this event?
+Does this event trigger from any condition that is met?
+Does triggering this event still allow other events to trigger?
+If there are multiple outcomes for the event, only the first outcome that succeeds?
+How long to play the event, in ticks. Only if the event type has been registered a queue. Set to -1 to skip the queue.
+How long of a delay, in ticks, before playing the event.
+How long of a delay, in ticks, before playing the event (from a variable). This has a higher priority than "delay".
+How often this event can be triggered, in ticks. Remove to have no cooldown.
+How often this event can be triggered, in ticks (from a variable). Remove to have no cooldown. This has a higher priority than "cooldown".
+Normally, if this event is on cooldown (and "allowsOtherEventsToTrigger" is disabled) and things meet the conditions, this event stops other events triggering. This disables that.
+If the condition isn't met, consider it met and vice versa.
+Use this to check for a specific username.
+Username to check for.
+Use this to check for a specific value.
+Do you want to search for a specific variable name? Remove to look for the default variable "amount".
+Amount to check for.
+Use this to check for a range of values.
+Do you want to search for a specific variable name? Remove to look for the default variable "amount".
+Minimum range (inclusive). Remove to have no minimum range.
+Maximum range (inclusive). Remove to have no maximum range.
+Minimum range (inclusive) from a range. Takes priority over the number value.
+Maximum range (inclusive) from a range. Takes priority over the number value.

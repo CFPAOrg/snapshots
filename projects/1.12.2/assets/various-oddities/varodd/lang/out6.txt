@@ -1,0 +1,113 @@
+Acid
+Air
+Cold
+Darkness
+Death
+Earth
+Electricity
+Evil
+Fear
+Fire
+Force
+Good
+Healing
+Light
+Mind-Affecting
+Sonic
+Water
+25ft + 5ft/2 CL
+100ft + 10ft/CL
+400ft + 40ft/CL
+Touch
+Personal
+Unlimited
+Seconds
+Instantaneous
+Permanent
+Abjure
+Arrow
+Chaos
+Darkness
+Empower
+Cold
+Beam
+Trickery
+Vapour
+Water
+Acid
+Change
+Death
+Earth
+Object
+Order
+Self
+Sustenance
+Time
+Undeath
+Area
+Fire
+Force
+Harm
+Light
+Lightning
+Path
+Motion
+Purity
+Unholy
+Air
+Condemnation
+Creation
+Distance
+Heal
+Holy
+Sound
+Space
+Precision
+Vision
+Simple
+Average
+Good
+Superior
+Afflicted by antimagic
+Insufficient target(s) available
+Missing one or more components
+Cannot speak
+Cannot move
+Missing focus item
+Unsuitable environment
+Unknown problem
+Can be cast
+Caster level too low
+Speech
+Gesture
+Items
+Focus
+Supertype
+Subtype
+Aberration
+Aberrations are creatures with very unusual physical structures, which might not even adhere to normal physics or biology
+No special properties
+Arthropod
+Arthropods are typically non-mammalian creatures with a hard exoskeleton, such as spiders or most insects
+No special properties
+Aquatic
+Aquatic-type creatures are perfectly capable of breathing underwater
+Immune to drowning
+Great Beast
+Great Beasts are typically animal-like but are often hardier or imbued with magical properties
+No special properties
+Cold
+Cold-type creatures are happily at home in frigid environments
+Immune to cold damage/nVulnerable to fire damage
+Dragon
+Dragons are reptilian creatures of great power and ability
+Immune to paralysis
+Evil
+Evil-type creatures are prone to acts of villainy and despotism
+Immune to evil damage/nVulnerable to holy damage
+Fey
+Fey are tricksters and deal-makers, often springing from a segment of the natural world containing powerful magic
+Vulnerable to silver and iron weapons
+Fire
+Fire-type creatures can endure even the harshest of hot environments
+Immune to fire damage/nVulnerable to cold damage

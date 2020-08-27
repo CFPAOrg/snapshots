@@ -1,0 +1,116 @@
+TofuCraft
+Soybean
+Hell Soybean
+Tofu Block
+Kinugoshi Tofu Block
+Momen Tofu Block
+Solid Tofu Block
+Metal Tofu Block
+Grilled Tofu Block
+Koya-Tofu Block
+Fried Tofu Pouch Block
+Fried Tofu Block
+Egg Tofu Block
+Annin-Tofu Block
+Sesame Tofu Block
+Zunda Tofu Block
+Strawberry Tofu Block
+Miso Tofu Block
+Hell Tofu Block
+Glow Tofu Block
+Diamond Tofu Block
+Minced Tofu Block
+Green Onion
+Salt Furnace
+Tofu Cake
+Tofu Portal Block
+Morijio
+Miso Barrel
+Natto Bed
+Sesame
+Natto Block
+Sprouts
+Salt Block
+Yuba
+Miso Tofu Barrel
+Glowtofu Barrel
+Tofu Machine Case
+Tofu Force Storage
+TF Antenna
+TF Ultrawave Antenna
+TF Superwave Antenna
+TF Saturator
+TF Condenser
+TF Reformer
+TF Mix Reformer
+Tofu Ore
+Tofu Diamond Ore
+Tofu Gem Barrel
+High-Powered Tofu Gem Block
+Chikuwa Platform Block
+Tofu Chikuwa Platform Block
+Cultivated Tofu
+Salt Pan
+Soy Milk
+Hell Soy Milk
+Soy Sauce
+TofuChest
+Apricot Leaves
+Tofu Leaves
+Apricot Wood
+Apricot Sapling
+Tofu Sapling
+Kinugoshi Tofu Stairs
+Momen Tofu Stairs
+IshiTofu Stairs
+MetalTofu Stairs
+ZundaTofu Stairs
+IshiTofu BrickStairs
+Solid Tofu Stairs
+Metal Tofu Stairs
+Grilled Tofu Stairs
+Koya-Tofu Stairs
+Fried Tofu Pouch Stairs
+Fried Tofu Stairs
+Egg Tofu Stairs
+Annin-Tofu Stairs
+Sesame Tofu Stairs
+Zunda Tofu Stairs
+Strawberry Tofu Stairs
+Hell Tofu Stairs
+Glow Tofu Stairs
+Diamond Tofu Stairs
+Miso Tofu Stairs
+Kinugoshi Tofu Slab
+Momen Tofu Slab
+Solid Tofu Slab
+IshiTofu Brick Slab
+Metal Tofu Slab
+Grilled Tofu Slab (Old)
+Koya-Tofu Slab
+Fried Tofu Pouch Slab
+Fried Tofu Slab
+Egg Tofu Slab
+Annin-Tofu Tofu Slab
+Sesame Tofu Slab
+Zunda Tofu Slab
+Strawberry Tofu Slab
+Hell Tofu Slab
+Glow Tofu Slab
+Diamond Tofu Slab
+Miso Tofu Slab
+Grilled Tofu Slab
+Glow Tofu Slab
+KinuTofu Door
+MomenTofu Door
+IshiTofu Door
+MetalTofu Door
+%s Fence Gate
+TofuIshiBrick Ladder
+TofuKinu Ladder
+TofuMomen Ladder
+TofuIshi Ladder
+TofuMetal Ladder
+TofuZunda Ladder
+TofuKinu Torch
+TofuMomen Torch

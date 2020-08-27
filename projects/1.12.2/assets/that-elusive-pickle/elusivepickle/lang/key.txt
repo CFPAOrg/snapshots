@@ -1,0 +1,6 @@
+item.elusivepickle:part_a.name
+item.elusivepickle:part_b.name
+item.elusivepickle:part_c.name
+item.elusivepickle:part_d.name
+item.elusivepickle:pickle.name
+itemGroup.elusivepickle

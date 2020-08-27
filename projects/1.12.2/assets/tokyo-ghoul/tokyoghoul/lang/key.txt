@@ -1,0 +1,6 @@
+item.cooked_human_flesh.name
+item.kagune1.name
+item.human_flesh.name
+advancements.advbecomeghoul.title
+advancements.advbecomeghoul.descr
+entity.ghoul.name

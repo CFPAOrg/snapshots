@@ -1,0 +1,12 @@
+item.redstonesword.name
+item.redstoneaxe.name
+item.redstoneshovel.name
+item.redstonearmorbody.name
+item.redstonearmorboots.name
+item.bullet.name
+item.redstoneak47.name
+item.redstonepickaxe.name
+item.redstonearmorlegs.name
+item.redstonestick.name
+item.redstonearmorhelmet.name
+item.redstonescythe.name

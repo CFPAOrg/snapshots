@@ -1,0 +1,115 @@
+Overpowered
+Overpowered - Machines
+Overpowered - Gems
+Overpowered - Tools
+Overpowered - Metals
+Ruby Shard
+Topaz Shard
+Citrine Shard
+Emerald Shard
+Diamond Shard
+Sapphire Shard
+Amethyst Shard
+Quartz Shard
+Ruby
+Topaz
+Citrine
+Sapphire
+Amethyst
+Ruby Block
+Topaz Block
+Citrine Block
+Sapphire Block
+Amethyst Block
+Ruby Ore
+Topaz Ore
+Citrine Ore
+Sapphire Ore
+Amethyst Ore
+Energy Crystal Shards
+Energy Crystal
+Void Crystal
+Light Block
+Null Block
+Energy Sword
+Energy Pickaxe
+Energy Axe
+Energy Shovel
+Energy Hoe
+Energy Scythe
+Null Sword
+Null Pickaxe
+Null Axe
+Null Shovel
+Null Hoe
+Energized Power Core
+Nullified Power Core
+Energy Grid
+Container
+Beam Emitter
+Unknown Technology
+Fusion Core
+Dimensional Anchor
+Data Cable
+Generator
+Gem Converter
+Inverter
+Magic Infuser
+Identifier
+Energy Suspension Bridge
+Portal Frame
+Portal Control Panel
+Crystal Matter Generator
+Advanced Ore Refinery
+Fusion Chamber
+Fusion Control Unit
+Fusion Control Laser
+Fusion Energy Converter
+Focus Lens
+Red Lens
+Orange Lens
+Yellow Lens
+Green Lens
+Cyan Lens
+Blue Lens
+Magenta Lens
+Laser Housing
+White Laser
+Red Laser
+Orange Laser
+Yellow Laser
+Green Laser
+Cyan Laser
+Blue Laser
+Magenta Laser
+Iron Frame Block
+Black Hole
+Trophy Base
+Bronze Trophy
+Silver Trophy
+Gold Trophy
+Platinum Trophy
+Unidentified Leather Cap
+Unidentified Leather Armor
+Unidentified Leather Pants
+Unidentified Leather Boots
+Unidentified Chainmail Helmet
+Unidentified Chainmail Armor
+Unidentified Chainmail Leggings
+Unidentified Chainmail Boots
+Unidentified Iron Helmet
+Unidentified Iron Chestplate
+Unidentified Iron Leggings
+Unidentified Iron Boots
+Unidentified Gold Helmet
+Unidentified Gold Chestplate
+Unidentified Gold Leggings
+Unidentified Gold Boots
+Unidentified Diamond Helmet
+Unidentified Diamond Chestplate
+Unidentified Diamond Leggings
+Unidentified Diamond Boots
+Unidentified Ring
+Unidentified Ring
+Unidentified Ring
+Unidentified Ring

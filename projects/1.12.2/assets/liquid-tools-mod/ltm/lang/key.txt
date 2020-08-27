@@ -1,0 +1,12 @@
+item.static_lava.name
+item.water_in_glass.name
+item.lava_axe.name
+item.lava_hoe.name
+item.lava_pickaxe.name
+item.lava_shovel.name
+item.lava_sword.name
+item.water_axe.name
+item.water_hoe.name
+item.water_pickaxe.name
+item.water_shovel.name
+item.water_sword.name

@@ -1,0 +1,12 @@
+item.ingot_coal.name
+item.sword_coal.name
+item.spade_coal.name
+item.pickaxe_coal.name
+item.axe_coal.name
+item.hoe_coal.name
+tile.stairs_coal.name
+item.helmet_coal.name
+item.chestplate_coal.name
+item.leggings_coal.name
+item.boots_coal.name
+itemGroup.modtab

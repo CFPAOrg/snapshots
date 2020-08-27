@@ -1,0 +1,79 @@
+Creative Mode Only
+Fire Dragonsteel Ingot
+Fire Dragonsteel Sword
+Fire Dragonsteel Axe
+Fire Dragonsteel Pickaxe
+Fire Dragonsteel Shovel
+Fire Dragonsteel Hoe
+Fire Dragonsteel Helmet
+Fire Dragonsteel Chestplate
+Fire Dragonsteel Leggings
+Fire Dragonsteel Boots
+Ice Dragonsteel Ingot
+Ice Dragonsteel Sword
+Ice Dragonsteel Axe
+Ice Dragonsteel Pickaxe
+Ice Dragonsteel Shovel
+Ice Dragonsteel Hoe
+Ice Dragonsteel Helmet
+Ice Dragonsteel Chestplate
+Ice Dragonsteel Leggings
+Ice Dragonsteel Boots
+Pixie Wings
+§6Rare drop§r
+§6Legendary Weapon
+Death Worm Tongue
+§6Rare drop§r
+Death Worm Gauntlet
+Death Worm Gauntlet
+Death Worm Gauntlet
+Lashes target with its tongue for 3 damage
+Pulls target to player
+Pixie Wand
+Shoots a magic charge that deals 5 damage and makes target levitate
+Uses Pixie Dust as Ammunition
+Myrmex Swarm
+Myrmex Swarm
+Summons 5 Myrmex Swarmers that will defend you for 30 seconds
+Single Use Only
+Hippogryph Talon
+§6Rare drop§r
+Hippogryph Talon Sword
+Always slashes target, dealing extra damage
+Eye of Cyclops
+Area of Effect Weapon
+Inflicts weakness to all nearby hostiles when held
+Cockatrice Eye
+§6Rare drop§r
+Cockatrice Scepter
+Withers target when used
+Can target multiple close entities
+Siren Tear
+§6Rare drop§r
+Siren Flute
+Makes targets fall in love for 10 seconds
+Mobs in love will not be able to attack
+Hippocampus Fin
+§6Rare drop§r
+Hippocampus Slapper
+§dComical Weapon§r
+Dazes and slows targets; it's quite confusing to be hit with a fish tail
+Stymphalian Bird Feather Bundle
+Launches sharp feathers in 8 directions around the user
+Stymphalian Bird Dagger
+Extremely fast attack speed
+Amphithere Macuahuitl
+Knocks entities up and back
+Disables shields
+Tide Trident
+Very strong trident weapon
+Pierces through multiple enemies
+Hippogryph Skull
+Cyclops Skull
+Cockatrice Skull
+Stymphalian Bird Skull
+Troll Skull
+Amphithere Skull
+Sea Serpent Skull
+Hydra Skull
+Dread Thrall's Sword

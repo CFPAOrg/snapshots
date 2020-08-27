@@ -1,0 +1,39 @@
+Ghostly Config
+Logging
+Set to true to enable debug logging.\n§eNote: Uses INFO level, not DEBUG level.
+Mob Settings
+Control settings for certain mobs
+Possessed Swords
+Control whether Possessed Swords exist.\n§eWARNING: ALL POSSESSED WEAPONS ARE BUGGY AND\n§eNEARLY IMPOSSIBLE TO HIT!
+Shade Spawn Rate (Nether)
+Control the spawn rate of Shades in the Nether.
+Shade Spawn Rate (Overworld)
+Control the spawn rate of Shades in the Overworld.
+Shade Spawn Rate (End)
+Control the spawn rate of Shades in the End.
+Darkness Mage Spawn Rate
+Control the spawn rate of Darkness Mages.
+Spiritual Turret Spawn Rate
+Control the spawn rate of Spiritual Turrets.
+Sickened Spider Spawn Rate
+Control the spawn rate of Sickened Spiders.
+Mutated Wolf Cold Forest Spawn Rate
+Control the spawn rate of Mutated Wolves in cold forests (any biome that is considered to be cold and a forest by Forge).
+Mutated Wolf Forest Spawn Rate
+Control the spawn rate of Mutated Wolves in forests (any biome that is considered to be not cold and a forest by Forge).
+Mutated Horse Plains Spawn Rate
+Control the spawn rate of Mutated Horses in plains (any biome that is considered to be not a savanna and a plains by Forge).
+Mutated Horse Savanna Spawn Rate
+Control the spawn rate of Mutated Horses in savannas (any biome that is considered to be a savanna by Forge).
+Mutated Cow Spawn Rate
+Control the spawn rate of Mutated Cows.
+Mutated Ocelot Spawn Rate
+Control the spawn rate of Mutated Ocelots.
+Mutated Pig Spawn Rate
+Control the spawn rate of Mutated Pigs.
+Mutated Donkey Plains Spawn Rate
+Control the spawn rate of Mutated Donkeys in plains (any biome that is considered to be not a savanna and a plains by Forge).
+Mutated Donkey Savanna Spawn Rate
+Control the spawn rate of Mutated Donkeys in savannas (any biome that is considered to be a savanna by Forge).
+Mutated Sheep Spawn Rate
+Control the spawn rate of Mutated Sheep.

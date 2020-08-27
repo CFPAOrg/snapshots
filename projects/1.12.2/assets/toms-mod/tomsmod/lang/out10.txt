@@ -1,0 +1,120 @@
+Force Capacitor
+Security Station
+Force Field Projector
+Force Field
+Defense Station
+Basic Terminal
+Drive
+Energy Acceptor
+Interface
+Crafting Controller
+Creative Energy Cell
+Pattern Terminal
+Molecular Assembler
+Chrome Ore
+Sulfur Ore
+Mercury Ore
+Bauxite Ore
+Rubber Wood
+Crusher
+Sky Quartz Ore
+Cyanite Ore
+Rubber Leaves
+Aluminum Block
+Advanced Alloy MK1 Block
+Advanced Alloy MK2 Block
+Blue Metal Block
+Bronze Block
+Sky Quartz Block
+Chrome Block
+Copper Block
+Electrum Block
+Enderium Block
+Fluix Block
+Greenium Block
+Lead Block
+Brass Block
+Nickel Block
+Quartz Block
+Red Diamond Block
+Silver Block
+Steel Block
+Tin Block
+Titanium Block
+Uranium Block
+Zinc Block
+Plate Bending Machine
+Platinum Block
+Wiremill
+Coiler Plant
+Sky Stone
+Oil
+Basic Tank
+Rubber Sapling
+Basic Boiler
+Advanced Boiler
+Advanced Tank
+Water Collector
+Elite Tank
+Ultimate Tank
+Steam Crusher
+Steam Furnace
+Steam Alloy Smelter
+Advanced Steam Furnace
+Advanced Steam Crusher
+Steam Plate Bending Machine
+Electric Furnace
+Induction Furnace
+Alloy Smelter
+Tree Tap
+Bronze Machine Frame
+Crafting Terminal
+Basic Solar Panel
+Coal Coke Block
+Steam Soldering Station
+Coke Oven Bricks
+Blast Furnace Bricks
+Coke Oven
+Blast Furnace
+Laser Transformer
+Laser to HV Transformer
+Basic Turbine
+Battery Box
+Tungsten Block
+Tungstensteel Block
+Tungstate Ore
+Soldering Station
+Pump
+Fluid Transposer
+Industrial Blast Furnace
+Monazit Ore
+End Monazit Ore
+Refinery Controller
+Steel Slab
+Refinery Heater
+Output Hatch
+Engineering Block
+Aluminum Machine Frame
+Hardened Glass
+Hardened Ender Glass
+Steel Fence
+Advanced Turbine
+Charger
+Geothermal Generator
+Liquid Fueled Generator
+Geothermal Boiler
+Liquid Fueled Boiler
+Advanced Liquid Fueled Boiler
+UV Lightbox
+Plastic Processing Factory Controller
+Hardened Glass Pane
+Sulfuric Acid
+Steam Mixer
+Mixer
+Laser Engraver
+Storage System Controller
+Burnt Sky Stone
+Flint Block
+Sulfur Block
+Red Alloy Block
+HV Capacitor

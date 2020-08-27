@@ -1,0 +1,15 @@
+Lumbering
+Imperishable
+Your most recent death was at [X: %s, Y: %s, Z: %s]
+Mighty %s
+Hungry %s
+Ranger %s
+Arcane %s
+Pyro %s
+Zestonian %s
+Hardened %s
+Agile %s
+V-Tweaks Online Wiki
+Welcome %s! Seems like this is your first time running V-Tweaks in this world! Here's a link to an online wiki if you're interested, keep in mind some features may be disabled!
+§3While Sneaking:§r Fells an entire tree when breaking any wood block of the tree. §4§lWorks on non-trees too§r
+Saves your tool or armor piece from breaking, thus §ldisabling the item's functionality until repaired.§r

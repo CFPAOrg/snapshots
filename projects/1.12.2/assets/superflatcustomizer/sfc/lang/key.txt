@@ -1,0 +1,10 @@
+sfc.createWorld.customize.flat.addLayer
+sfc.createWorld.customize.flat.editLayer
+sfc.createWorld.customize.flat.removeLayer
+sfc.createWorld.customize.flat.biome
+sfc.createWorld.customize.flat.editing
+sfc.createWorld.customize.flat.adding
+sfc.createWorld.customize.flat.layer
+sfc.createWorld.customize.flat.count
+sfc.createWorld.customize.flat.example.line1
+sfc.createWorld.customize.flat.example.line2

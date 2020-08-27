@@ -1,0 +1,13 @@
+itemGroup.tab_real_drops
+item.dust_sulfur.name
+item.dust_saltpeter.name
+item.rod_blaze_unfired.name
+item.silver_ingot.name
+item.silver_nugget.name
+tile.saltpeter_ore.name
+tile.sulfur_sand.name
+tile.silver_ore.name
+tile.silver_block.name
+tile.quartz_ore.name
+tile.ardite_ore.name
+tile.cobalt_ore.name

@@ -1,0 +1,104 @@
+%1$s was killed by %2$s using %3$s
+%1$s was killed trying to hurt %2$s
+%1$s hit the ground too hard
+%1$s fell out of the world
+%1$s was roasted in dragon breath
+%1$s experienced kinetic energy
+%1$s went off with a bang
+Respawn
+Spectate world
+Delete world
+Title screen
+Score
+Game over!
+You died!
+Leave server
+Are you sure you want to quit?
+No Effects
+Speed
+Slowness
+Haste
+Mining Fatigue
+Strength
+Instant Health
+Instant Damage
+Jump Boost
+Nausea
+Regeneration
+Resistance
+Fire Resistance
+Water Breathing
+Invisibility
+Blindness
+Night Vision
+Hunger
+Weakness
+Poison
+Wither
+Health Boost
+Absorption
+Saturation
+Glowing
+Luck
+Bad Luck
+Levitation
+Uncraftable Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Arrow of Night Vision
+Arrow of Invisibility
+Arrow of Leaping
+Arrow of Fire Resistance
+Arrow of Swiftness
+Arrow of Slowness
+Arrow of Splashing
+Arrow of Water Breathing
+Arrow of Healing
+Arrow of Harming
+Arrow of Poison
+Arrow of Regeneration
+Arrow of Strength
+Arrow of Weakness
+Arrow of Levitation
+Arrow of Luck
+When Applied:
+Uncraftable Potion
+Water Bottle
+Mundane Potion
+Thick Potion
+Awkward Potion
+Potion of Night Vision
+Potion of Invisibility
+Potion of Leaping
+Potion of Fire Resistance
+Potion of Swiftness
+Potion of Slowness
+Potion of Water Breathing
+Potion of Healing
+Potion of Harming
+Potion of Poison
+Potion of Regeneration
+Potion of Strength
+Potion of Weakness
+Potion of Levitation
+Potion of Luck
+Splash Uncraftable Potion
+Splash Water Bottle
+Mundane Splash Potion
+Thick Splash Potion
+Awkward Splash Potion
+Splash Potion of Night Vision
+Splash Potion of Invisibility
+Splash Potion of Leaping
+Splash Potion of Fire Resistance
+Splash Potion of Swiftness
+Splash Potion of Slowness
+Splash Potion of Water Breathing
+Splash Potion of Healing
+Splash Potion of Harming
+Splash Potion of Poison
+Splash Potion of Regeneration
+Splash Potion of Strength
+Splash Potion of Weakness

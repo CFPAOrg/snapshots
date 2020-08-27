@@ -1,0 +1,24 @@
+An extra utility
+The planks work too
+Thunderous Oak
+A lightning rod
+The &1Thunderous Oak&0 absorbs lightning that strikes around it, preventing it from harming or transforming anything at all. Any of the blocks in one of these trees can absorb lightning.
+Thor'll hate you
+The planks work too
+Circuitree
+A redstone emitter
+The &1Circuitree&0 emits a redstone signal of a strength equal to the number of &1Circuitree&0 blocks consecutively above it. Any block from the tree can be used in the stack, including the sapling.
+I deeply apologize for the pun
+The planks work too
+Calico Tree
+An explosion absorber
+The &1Calico Tree&0 is so cat-like, it scares more than just creepers away, it actually scares off any explosion at all. Any block from the tree can be used for this, including the sapling.
+Not a scratching post
+The planks work too
+The Ritual of Gaia III
+Sight, Sound, Strength, Power, Glory, Speed!
+The ritual performed to face off against the soul of the Earth is a incredible challenge, which allows one to obtain &5Relics&0 and &1Gaia Spirits&0. As you fight, this ritual connects you to the &3Divine&0 by your struggles. So, maybe you could... invert that connection. Through that, you would force a fragment of the &3Divine&0 into your &1Priestly Emblem&0.
+By using &1Divine Ritual Cores&0, you can modify the &4Ritual of Gaia&0 to do just that. These devices focus the energy of the &3Divine&0 into the Guardian, giving it power and health as the ritual plays out. The moment you slay the &4Guardian&0, that focused energy will leap into your &1Priestly Emblem&0. The power you could gain from this connection is staggering.
+The Ritual of Gaia III
+Seek the center to change the world
+The ritual performed to face off against the soul of the Earth is a incredible challenge, which allows one to obtain &5Relics&0 and &1Gaia Spirits&0. As you fight, this ritual connects you to the &3Divine&0 by your struggles. So, maybe you could... invert that connection. Through that, you would force a fragment of the &3Divine&0 into your &1Priestly Emblem&0.

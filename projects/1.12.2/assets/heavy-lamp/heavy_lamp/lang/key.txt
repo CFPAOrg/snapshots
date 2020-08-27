@@ -1,0 +1,2 @@
+item.heavylamp.name
+tile.heavylamp.name

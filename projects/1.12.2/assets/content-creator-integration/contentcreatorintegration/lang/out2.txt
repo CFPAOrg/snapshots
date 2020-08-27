@@ -1,0 +1,32 @@
+%1$s %2$s %3$s events
+%1$s %2$s %3$s events totalling %4$s
+No events...yet!
+Consider donating via the CurseForge page!
+"Totalling X" is just a total of bits/viewers/months/raiders, etc. Anything that was put in the amount variable.
+Variables of the last %s events:
+Hold Shift and Ctrl to show the values of the variables (limited to 5 events). This list is scrollable with the scroll wheel.
+Events for: %s
+These are constant definitions. They're special and don't get events.
+This window shows information about the selected element. Manipulate them with the controls under each browser window.
+Full documentation for this mod can be found at: https://content-creator-integration.readthedocs.io
+Shift + Click to open URL
+Connecting
+Connected
+Authenticated
+Failed to connect
+Reconnecting
+Disconnected
+Disabling reconnects
+Failed to reconnect
+Loaded online configs
+List of event types and configurations
+List of events to execute when this configuration file gets loaded (and when it is reloaded). Only global variables will be passed initially but you can add more variables in each event's conditions and outcomes. All events will be executed, the event's allowsOtherEventsToTrigger isn't used here.
+This is the online source for this EventConfiguration. Ignore this field. If the name in the UI does not have an asterisk (*), then this file was loaded locally.
+This is to define what type of EventConfiguration this is if pulled from an online source. Set this is you want to host this file online, eg: streamlabs/streamelements/chat/etc. Bear in mind that retrieving an online file will override local configs.
+This configuration file was from an online source.
+List of condition constants
+List of outcome constants
+List of event constants
+Which account is this configuration for. If null, will be applied to all accounts.
+Which event types should be queued?
+List of event types

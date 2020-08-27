@@ -1,0 +1,31 @@
+Server reloaded config from file (the "reset to default" buttons for SB may be glitched until MC is restarted)
+Press the SetBonus GUI key for details
+Set Bonus
+Open Bonus Screen
+Wrong number of arguments for equipment: %s
+No equipment id specified for equipment: %s
+Not enough arguments for set: %s
+No set id specified for set: %s
+No set requirements found for set: %s
+Not enough arguments for bonus: %s
+No bonus id specified for bonus: %s
+Third argument must be a number from 0 to 1 (inclusive): %s
+Malformed set requirement for bonus: %s
+Unrecognized bonus requirement: %s
+Not enough arguments for attribute bonus: %s
+Bonus ID not found (%s) for attribute modifier bonus: %s
+Not enough arguments for potion bonus: %s
+Bonus ID not found (%s) for potion bonus: %s
+Wrong number of arguments for slot/equipment definition: %s
+Unknown slot (%s) in slot/equipment definition: %s
+Equipment ID not found (%s) in slot/equipment definition: %s
+Client Settings
+Server Settings
+Enable Tooltips
+FIXNEWLINES FILLSCREEN Whether or not to show set bonus information in discovered set item tooltips\n \n
+Equipment
+Sets
+Bonuses
+Attribute Modifiers
+Potion Effects
+FIXNEWLINES FILLSCREEN Constant potion effects received as part of a bonus\n\nLayout is...\nBonus id, potion.level, potion.level, etc.\n\neg...\n\nThis makes the Dual Wield bonus from the bonus example give haste 2\nDualWieldSnD, haste.2\n\nAnd this does the same thing, but the potion effect is only active for 5 seconds, every 10 seconds (5 on, 5 off, repeat)\nDualWieldSnD, haste.2.100.200\n \n

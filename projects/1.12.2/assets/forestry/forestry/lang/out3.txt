@@ -1,0 +1,31 @@
+Engines going into forced cooldown will also lose a significant chunk of their stored energy.
+Cooldown means energy loss!
+Main task of carpenters is the compression of your surplus resources. Many bulk blocks and items can be packaged into crates.
+Crate your Surplus!
+Engines are capable of buffering a lesser amount of energy if it cannot be transmitted to the target.
+Buffering Energy!
+An engine's energy output is measured in RF/t, which stands for "Redstone Flux per tick". Each second has 20 ticks.
+Say Redstone Flux!
+You can use a wide variety of fuels for your biogas engine: Biomass, seed oil, honey, milk and even water!
+Use all the fuels!
+Though you can use water in a biogas engine, it is terribly inefficient and will constantly consume lava.
+Careful with water!
+Different fuels will net you different energy outputs in a biogas engine. Outputs range from 10 RF/t to 50 RF/t.
+Choose your fuel!
+Contrary to peat-fired engines disabled biogas engines will not waste the biomass currently in the system.
+Fuel is conserved
+Peat-fired engines can use untreated peat, but they can also use bituminous peat to double their energy output.
+Use all the fuels!
+Disabled peat-fired engines continue to burn peat already removed from the stash without generating energy from it.
+Beware wasting energy!
+You can use batteries to run your electrical engines without needing to wire them up.
+Charge those batteries!
+Electrical engines can be outfitted with circuit boards to choke their power output to 10 RF/t and also reduce their energy demand.
+Regulate Output
+Jungle flowers are ferns or vines.
+What's a jungle flower?
+Netherwart are the nether flowers.
+What's a nether flower?
+Engines can overheat if the energy they produce is not consumed. Reaching melting point will force them into cooldown.
+Beware Overheating!
+Bio generators accept both biomass and biofuel. They are at their most efficient with biofuel.

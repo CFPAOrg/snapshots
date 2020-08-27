@@ -1,0 +1,57 @@
+#darkaqua:$chance: #gold:Chance to ignore damage
+#darkaqua:$chance: #gold:Chance to spawn an Enderman
+and follow you
+#red:Weakness to water
+#gold:Immunity to cold
+Disabled endermen static effect
+Shield of Honor
+@explosionresist:
+@damageignored:
+#darkaqua:$explosionresistamount: #gold:Explosion damage resistance 
+#gold:Damage ignored: #darkaqua:$damageignoredhitcount:
+@headshots:
+#darkaqua:$headshotchance:#gold: Chance to ignore headshot
+Disables explosion blur
+Dwarf Stout
+#aqua:I might be able to remove the effects
+#aqua:by drinking some sort of potion
+<#blue:Use a Potion of Restoration to undo#reset:>
+Fairy Dew
+#aqua:I might be able to remove the effects
+#aqua:by drinking some sort of potion
+<#blue:Use a Potion of Restoration to undo#reset:>
+Titan's Spirit
+#aqua:I might be able to remove the effects
+#aqua:by drinking some sort of potion
+<#blue:Use a Potion of Restoration to undo#reset:>
+Enhanced Potion
+Enhanced Splash Potion
+Enhanced Lingering Potion
+Enhanced Tipped Arrow
+Enhanced
+#gold:Heals 2.5 hearts
+#gold:Restores 50 mana
+#green:Used to craft the Potion of Restoration
+#green:Used to craft the Fairy Transformation Potion
+#green:Used to craft the Dwarf Transformation Potion
+#green:Used to craft the Titan Transformation Potion
+Potion of Restoration
+Splash Potion of Restoration
+Lingering Potion of Restoration
+Tipped Arrow of Restoration
+Restorative
+#gold:Heals 10 hearts
+#gold:Removes potion effects
+#gold:Removes transformative effects from enchanted food
+Potion of Fairy Transformation
+Splash Potion of Fairy Transformation
+Lingering Potion of Fairy Transformation
+Tipped Arrow of Fairy Transformation
+Fairy Transformation
+Become a Fairy for $fairyticks: seconds
+Potion of Dwarf Transformation
+Splash Potion of Dwarf Transformation
+Lingering Potion of Dwarf Transformation
+Tipped Arrow of Dwarf Transformation
+Dwarf Transformation
+Become a Dwarf for $dwarfticks: seconds

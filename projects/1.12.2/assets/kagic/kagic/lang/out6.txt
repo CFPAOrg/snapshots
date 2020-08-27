@@ -1,0 +1,92 @@
+I sense %1$s below us.
+I sense a cave below us.
+I sense a pool of %1$s below us.
+I sense %1$s above us.
+I sense a cave above us.
+I sense a pool of %1$s above us.
+I sense %1$s around us.
+I sense a cave around us.
+I sense a pool of %1$s around us.
+I sense nothing...
+Let me see...
+Watch out my %1$s!
+Setting a course for Homeworld
+Setting a course for Earth
+If only it was that easy for him to return.
+At least someone besides her parents cared.
+Cheeseburger Backpack
+Connie's Backpack
+Unaligned
+Owned by %1$s
+Owned by Yellow Diamond
+Owned by Blue Diamond
+Owned by White Diamond
+Rebel
+Loner
+Hostile
+Unknown
+me
+follow|come with me
+come
+stop|halt|stay
+kill (.+)|fight (.+)|destroy (.+)|defeat (.+)
+help (.+)|assist (.+)
+retreat|back
+heal (.+)|revive (.+)
+give me (.+)|bring me (.+)
+take this|have this
+give me|bring me
+fuse|combine
+unfuse|defuse
+scan|look around
+train
+warp to (.+)|warp to (.+)
+Preparing holo-pearl!
+This warp pad doesn't have enough clearance!
+This warp pad is broken!
+That warp pad doesn't have enough clearance!
+That warp pad is broken!
+We're already at that warp pad!
+Warping to %1$s!
+I couldn't find a warp pad named %1$s!
+Installed KAGIC
+Thank you!
+Gem Forger
+Smelt a gem base.
+Kindergartener
+Place an injector.
+Gem Commander
+Craft a Gem Staff.
+I Made You
+Align a Gem.
+I'm An Eternal Flame!
+Enrage a Ruby.
+Your Clarity!
+Ride a Sapphire.
+What A Mystery!
+I predict that you'll get this achievement!
+I'm Reporting This!
+Let a Peridot survey.
+Hello, Corn!
+Teach a Peridot to farm.
+That Will Be All!
+Interact with a Pearl.
+Renegade Pearl
+Give a Pearl a sword.
+To The Forge!
+Interact with a Bismuth.
+Now That's A Weapon
+Get a Breaking Point.
+My Best Work
+Get a Fair Fight.
+Fighting Is My Life!
+Enrage a Jasper.
+Step Off!
+Enrage an Amethyst.
+Revolution!
+Enrage a Rose Quartz.
+Give Me A Lift!
+Ride a Lapis Lazuli.
+I'm Not The Shortest!
+Enrage a Carnelian.
+Shoulders Square!

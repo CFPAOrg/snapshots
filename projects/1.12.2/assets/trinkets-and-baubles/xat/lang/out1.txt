@@ -1,0 +1,55 @@
+#green:Grants Levitation while held
+Stone of Inertia Null
+#darkaqua:$inertianullfd:#reset:#gold: Resistance to fall damage
+Stone of Greater Inertia
+#darkaqua:$greaterinertiafd:#reset:#gold: Resistance to fall damage
+Stone of the Sea
+@bubbles:
+@betterswimming:
+#gold:Infinite oxygen at #reset:[#darkaqua:$bubbles:#reset:]#gold: bubbles
+#darkgreen:Enhanced Swimming
+@tanthirst:
+#gold:Immunity to Thirst
+Disables the blur when entering water
+Polarized Stone
+@collect:
+<#yellow:*magnetkb:#reset: or #yellow:Right-Click#reset:>
+@repel:
+<#yellow:*auxkb:#reset: + #yellow:*magnetkb:#reset: or #yellow:Sneak#reset: + #yellow:Right-Click#reset:>
+#gold:Pulls nearby items @collectxp:
+and XP Orbs $collecttoggle:
+#gold:Repels arrows $repeltoggle:
+Collection mode $collecttoggle:
+Repel mode $repeltoggle:
+Dragon's Eye
+#gold:Grants Fire Resistance
+#darkgreen:Grants Night Vision $nightvision: #reset:<#yellow:*denvkb:#reset:>
+@treasurefinder:
+#darkgreen:Grants Night Vision $nightvision:
+#gold:Current Target: #darkaqua:#underline:$target: #reset:<#yellow:*deofkb:#reset:>
+#gold:Immunity to Blindness $blindness:
+#gold:I need more#white: $target:#gold: for my Treasury $looking:
+#gold:I need more #red:$target:#gold: to breathe?
+I think my Treasury is sufficiently full $looking:
+@heatimmune:
+#gold:Immunity to heat
+Disables fire splat effect
+Poison Stone
+#gold:Immunity To Poison
+#gold:Immunity to Hunger
+@poison:
+@bonusdamage:
+#darkaqua:$poisonchance:#darkgreen: Chance to poison enemies
+#darkgreen:Deals $damagemultiplier: Damage to poisoned enemies
+Wither Ring
+#gold:Immunity to Wither
+@wither:
+@leech:
+#darkaqua:$witherchance:#darkgreen: Chance to wither enemies
+#darkgreen:Heals #darkaqua:$leechamount:#darkgreen: hearts when attacking withered enemies
+Ender Queen's Crown
+#gold:Royalty
+#darkgreen:Endermen fight for you @endermenfollow:
+@damageignored:
+@endermenchance:
+@waterhurts:

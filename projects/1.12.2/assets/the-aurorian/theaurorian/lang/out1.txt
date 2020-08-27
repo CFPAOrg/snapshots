@@ -1,0 +1,63 @@
+Silentwood Pickaxe
+Silentwood Shovel
+Silentwood Sickle
+Silentwood Stick
+Silentwood Sword
+Silkberry
+Silkberry Jam
+Silkberry Jam Sandwich
+Silkshroom Stew
+Spiked Chestplate
+Sticky Spiker
+Strange Meat
+Lavender Tea
+Petunia Tea
+Lavender Seed Tea
+Silkberry Tea
+Runestone Dungeon Keeper Trophy
+Moon Queen Trophy
+Spider Mother Trophy
+Umbra Ingot
+Umbra Pickaxe
+Umbra Shield
+Umbra Sword
+Weeping Willow Sap
+The Aurorian
+Aurorian Steel
+Aurorian Stone
+Cerulean
+Moonstone
+Silentwood
+§oPower of The Aurorian flows!§r\nIt's faster in The Aurorian.
+Aurorian Empowered
+§oIt's a Nightowl!§r\nHas a 50% chance to not take duribility when it's night but 50% to take more during the day!
+Moonlit
+§oIt's a Nightowl!§r\nHas a 50% chance to not take duribility when it's night but 50% to take more during the day!
+Moonlit
+I need a key
+or a lockpick
+No Moonlight Detected!
+Currently disabled by redstone power.
+Locator set to Runestone
+Locator set to Moontemple
+Locator set to Darkstone
+Heals mainhand item when held in offhand!
+Has a faint dreadful aura. Used for crafting the Moontemple Key.
+Pulsates with corrupted power. Used for crafting the Darkstone Key.
+Purple, but still tasty!
+Can chop down whole trees!
+Mines faster a short while after mining an ore!
+Has the ability to levitate everyone nearby!
+Purple, but still tasty!
+Jump while sneaking to do an extra high jump! Also blocks fall damage.
+Enchantments on this item will level up over time!
+Aurorian Stone can fell whole Silentwood Trees at the cost of extra durability!
+Aurorian Stone has a chance to heal itself when mining Aurorian Stone!
+How'd this get here??
+Can be placed!
+Ores drop ingots plus a few nuggets!
+Will repair items in your mainhand when blocking attacks!
+Charge up to fire a Crystalline Beam!
+Can only be placed up to
+blocks away from the gate's keyhole on the X or Z axis.
+Increases speed of Aurorian Furnace! Max chimneys per furnace is

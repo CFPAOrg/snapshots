@@ -1,0 +1,84 @@
+Disable Menu Music
+Disable Menu Music
+Disable Nether Music
+Disable Nether Music
+Normal sound channels (manual)
+Number of normal sound channels to configure in the sound system (manual)
+Streaming sound channels (manual)
+Number of streaming sound channels to configure in the sound system (manual)
+Show player name in window title
+Updates on logon and/or changing dimension
+MML Site Link
+Enter a valid URL. Please test the URL thoroughly. If it is not a valid link it will appear RED in the MML Simple Editor dialog.
+Enabled Recipes
+Remove a recipe to disable it. Alternately append _off. *** Requires MC Restart - Cannot be changed while IN-WORLD ***
+soundRangeInfinityAllowed <player> [true|false]
+mxTuneServerUpdateAllowed <player> [true|false]
+mxTune Server Update Refused. Ask the Server Admin for rights.
+Open Party
+Music Options
+A-Z
+Z-A
+Normal
+ [Managed by Owner]
+Play
+Play Part
+Play All
+Stop
+New
+Import
+Open
+Save
+Save As
+Pick File
+Paste MML
+Save/Done
+Send
+Select
+Import MML
+Manage Music
+Open Folder
+Refresh
+Paste from Clipboard
+Copy to Clipboard
+*Write*
+*Upload*
++
+-
+Total Duration:
+Search:
+Title:
+Author:
+Source:
+Melody:
+Chord %s:
+Jam Session
+Join this Group?
+mxTune Music Options
+Whitelist
+Players
+Blacklist
+mxTune Volume
+Mute Off
+Mute Others
+Mute Blacklist
+Allow Whitelist
+Mute All
+HUD Position
+Adjust mxTune HUD
+HUD Size
+MML Simple Editor
+No Soundbank loaded
+Enter a Title!
+Paste MML in clipboard format!
+Instruments
+Title / MML@:
+Ignore Parse Errors
+Lock
+[Unlocked]: Top and Bottom inventory access is enabled. Non-owners can view contents. Start playing by SHIFT RIGHT-CLICK-ing the block.
+[Locked]: Top and Bottom inventory access is disabled. Non-owners cannot view contents. Non owners can start playing by RIGHT-CLICK-ing the block.
+Locked
+Unlocked
+Backside Redstone Input Toggle
+Enables or Disables Redstone input from the Backside.
+Plays when the input changes state from off to on.

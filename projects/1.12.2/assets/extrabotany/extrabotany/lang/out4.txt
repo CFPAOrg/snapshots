@@ -1,0 +1,27 @@
+Ding dong, here I come to find you.
+Rush!Rush!Rush!
+Bell Flower
+When placed in the open, the Bell Flower creates &4Mana&0 from wind. The higher it is, the more mana it produces. A Livingrock Pedestal nearby with a Nature Orb in it can increase its mana generation efficiency. Since it is a passive flower, it will decay.
+Only the storms can knock down the trees.
+Mana from wind
+Annoying Flower
+The Annoying Flower can fish in nearby Livingrock Pedestal filled with water. For that process it will use mana. Feeding Fried Chicken Legs to it will significantly increase the efficiency and the chance of getting treasure.
+RK800.
+Cooked Chicken can be fried by soaking it in &4Mana&0. Fried Chicken Legs restore more hunger and give saturation.
+Neither a angel or a devil
+Time to fish.
+Manalinkium
+The Manalinkium can wirelessly transfer &4Mana&0 to a Mana Pool. Right-clicking it with a Position Reader that has the position of a Mana Pool stored will start the process.
+This is too real.
+A multiblock structure is needed to function.
+The Manalinkium has to be placed one above the empty middle block.
+Wireless Transmission
+Stardust Lotus
+The Stardust Lotus uses &4Mana&0 to create a portal that teleports creatures to a specified location. Right-clicking it with a Position Reader that has a position stored will transfer that position to the Stardust Lotus. Throwing a paper onto the Stardust Lotus starts the portal creation. A circle of sparkles around the flower shows that it is ready.
+Better than wolves.
+A multiblock structure is needed to function.
+The Stardust Lotus has to be placed one above the empty middle block.
+Directional Teleport
+Reikar Lily
+The Reikar Lily turns the tremendous energy of lightning into &4Mana&0. When a lightning bolt hits nearby, it will generate a great amount of &4Mana&0 immediately and continue to produce &4Mana&0 for a long time.
+I Choose You!

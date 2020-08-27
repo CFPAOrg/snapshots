@@ -1,0 +1,112 @@
+Storm Bomb
+Detonator
+Large Body
+Dire Plant
+White Mushroom
+Dusk
+Creeper
+Moogle
+The Command Menu is the menu displayed in the bottom left corner of the HUD. It has 4 options, Attack, Magic, Items and Drive, for info on these options refer to their respective pages.\n\nThe menu can be navigated using the Command Menu keybinds (default: Arrow keys) it can also be navigated by holding the hold keybind (default: Alt) and scrolling the mouse wheel, left click to enter, right click to go back.
+Main Configuration
+Balance Configuration
+Keyblades
+Aerial Dive
+Aerial Finish
+Aerial Sprial
+Aerial Sweep
+Ars Arcanum
+Auto Final
+Auto Limit
+Auto Master
+Auto Summon
+Auto Valor
+Auto Wisdom
+Blitz
+Counterattack
+Counterguard
+Crescent
+Dodge Slash
+Explosion
+Finishing Leap
+Flash Step
+Gravity Break
+Guard
+Guard Break
+Horizontal Slash
+Hurricane Blast
+Magnet Splash
+Ragnarok
+Retaliating Slash
+Ripple Drive
+Round Break
+Slapshot
+Sliding Dash
+Sonic Blade
+Strike Raid
+Stun Impact
+Upper Slash
+Vortex
+Zantetsuken
+Aerial Dodge
+Dodge Roll
+Glide
+High Jump
+Quick Run
+Aerial Recovery
+Air Combo Boost
+Air Combo Plus
+Berserk
+Berserk Charge
+Blizzard Boost
+Blizzard Screen
+Combination Boost
+Combo Boost
+Combo F Boost
+Combo Master
+Combo Plus
+Critical Plus
+Cure Boost
+Damage Control
+Damage Drive
+Dark Screen
+Defender
+Treasure Magnet
+Drive Boost
+Drive Converter
+Encounter Plus
+Endless Magic
+EXP Walker
+Experience Boost
+Finish Boost
+Finishing Plus
+Fire Boost
+Fire Screen
+Form Boost
+HP Boost
+HP Gain
+HP Prize Plus
+Item Boost
+Jackpot
+Leaf Bracer
+Light & Dark
+Lucky Lucky
+Magic Lock-On
+MP Haste
+MP Hastega
+MP Hastera
+MP Rage
+Negative Combo
+Once More
+Reaction Boost
+Scan
+Second Chance
+Summon Boost
+Synch Blade
+Tech Boost
+Thunder Boost
+Thunder Screen
+Zero EXP
+The keyblades are the main weapon type in the mod
+It's one of the few weapons which can defeat heartless
+and the only one to collect hearts
+Keyblades can be obtained through creation at either

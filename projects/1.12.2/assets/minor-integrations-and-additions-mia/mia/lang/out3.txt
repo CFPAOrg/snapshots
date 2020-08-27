@@ -1,0 +1,51 @@
+Alchemical Cauldron
+Produces %s-%s, increased by 1 for every fortune level
+Produces %s, increased by 1 for every fortune level
+Each looting level increases potential maximum level by 1
+Can be obtained by fishing.
+Can be obtained by fishing (counts as treasure).
+Allows user to jump really high.
+While using rocket leggings, those goggles allow the user to glide.
+Those boot let the user bounce after jumping.
+By using this rope, the user is transported to a safe place.
+At the cost of 5 experience levels, this item prevents death and restores health to full, after which it'll be destroyed.
+Can be used to access your personal Ender Chest from your inventory.
+While held in your second hand, it can be used to fix whichever item you're holding in your main one. That item will need to be repaired later in an anvil to get rid of it.
+Dropped from defeated enemies, can be collected with a bottle.
+Can be lit with flint and steel and can be extinguished with an empty hand.
+Can be lit with flint and steel and can be extinguished with an empty hand. Banishes any monsters that come near.
+Protect the user from the effect of traps.
+Can only be obtained by Dungeon Tactics developer (or anyone impersonating them who knows how to obtain it)
+Orechid Vacuam
+Chance affected by doing Thaumic research
+Chance affected by having this item in inventory
+Only last enemy drops this item
+Only when named one of the following: %s
+Only when adult
+Only when not adult
+Only when carrying this item
+Fire Dragon Chests
+Ice Dragon Chests
+Myrmex Loot
+Desert Myrmex Food
+Jungle Myrmex Food
+Myrmex Trash
+Cyclops Cave
+Hydra Cave
+Pirate Ships
+Buried Treasure
+Obsidian Spikes
+DT Dungeon
+DT Tower
+DT Mini Bunker
+DT Pirate Ship
+DT Gypsy Wagon
+DT Wizard Tower
+Bronze Dungeon Reward
+Bronze Dungeon Chests
+Silver Dungeon Reward
+Silver Dungeon Chests
+Gold Dungeon Reward
+Music Player
+Ring of the Kobold
+Armored Glass

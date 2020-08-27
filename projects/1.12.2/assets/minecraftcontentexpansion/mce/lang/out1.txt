@@ -1,0 +1,110 @@
+Bronze Axe
+Bronze Spade
+Bronze Hoe
+Bronze Sword Blade
+Bronze Pickaxe Head
+Bronze Axe Head
+Bronze Spade Head
+Bronze Hoe Head
+Titanium Sword
+Titanium Pickaxe
+Titanium Axe
+Titanium Spade
+Titanium Hoe
+Titanium Sword Blade
+Titanium Pickaxe Head
+Titanium Axe Head
+Titanium Spade Head
+Titanium Hoe Head
+Steel Sword
+Steel Pickaxe
+Steel Axe
+Steel Spade
+Steel Hoe
+Steel Sword Blade
+Steel Pickaxe Head
+Steel Axe Head
+Steel Spade Head
+Steel Hoe Head
+Unim Ore
+Ruby Ore
+Ascabit Ore
+Copper Ore
+Tin Ore
+Titanium Ore
+Nether Amethyst Ore
+Nether Gold Ore
+Nether Diamond Ore
+Unim Block
+Ruby Block
+Ascabit Block
+Copper Block
+Tin Block
+Bronze Block
+Titanium Block
+Reinforced Dirt
+Reinforced Stone
+Reinforced Sand
+Basalt Cobblestone
+Basalt
+Basalt Brick
+Basalt Stairs
+Basalt Slab
+Basalt Wall
+Cement
+Cement Plate
+Large Brick
+Marble Cobblestone
+Marble
+Marble Brick
+Marble Lamp
+Marble Stairs
+Marble Slab
+Marble Wall
+Obsidian Brick
+Quartz Brick
+Limestone
+Limestone Brick
+Limestone Stairs
+Limestone Slab
+Sandstone Button
+Coal Generator
+Battery
+Kiln
+Smelter
+Solar Panel
+Drying Rack
+Oak Wood Chopping Block
+Spruce Wood Chopping Block
+Birch Wood Chopping Block
+Jungle Wood Chopping Block
+Nether Wood
+Nether Wood Leaves
+Nether Wood Sapling
+Nether Wood Planks
+Nether Wood Stairs
+Nether Wood Slab
+Soul Glass
+Coal Generator
+Battery
+Kiln
+Smelter
+Solar Panel
+Drying Rack
+Chopping Block
+Oil
+MCE Items
+MCE Blocks
+MCE Tools
+MCE Armor
+MCE Food
+MCE Heads
+Stone Age
+First Tool
+You first need to get some flint, plant fiber and sticks to craft your first primitive tool:\nthe flint hatchet.
+Better Tools
+As you may already noticed breaking stone will give you small rocks instead of the full block.\n\nUse 4 rocks to craft 2 cobblestone.
+You can also use the rocks to craft stone tool heads and with them craft stone tools.
+Torch
+Kiln
+The Kiln is a oven that is used to process clay and to craft cement.\nIt can also produce charcoal.

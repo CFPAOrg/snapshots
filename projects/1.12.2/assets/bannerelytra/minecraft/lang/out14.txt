@@ -1,0 +1,62 @@
+Water Taken from Cauldron
+Armor Pieces Cleaned
+Banners Cleaned
+Interactions with Brewing Stand
+Interactions with Beacon
+Droppers Searched
+Hoppers Searched
+Dispensers Searched
+Note Blocks Played
+Note Blocks Tuned
+Plants Potted
+Trapped Chests Triggered
+Ender Chests Opened
+Items Enchanted
+Records Played
+Interactions with Furnace
+Interactions with Crafting Table
+Chests Opened
+Shulker Boxes Opened
+Times Slept in a Bed
+%1$s Mined
+%1$s Crafted
+%1$s Used
+%1$s Depleted
+New Recipes Unlocked!
+Check your recipe book
+An unknown error occurred while attempting to perform this command
+You do not have permission to use this command
+Invalid command syntax
+Player '%s' cannot be found
+Entity '%s' cannot be found
+Selector '%s' found nothing
+The entity UUID '%s' is in an invalid format
+Entity type '%s' is invalid
+Unknown command. Try /help for a list of commands
+'%s' is not a valid parameter
+'%s' is not a valid number
+'%s' is not true or false
+The number you have entered (%s) is too small, it must be at least %s
+The number you have entered (%s) is too big, it must be at most %s
+'%s' is not a state for block %s
+Usage: %s
+Invalid selector argument: '%s'
+You must specify which player you wish to perform this action on.
+/setidletimeout <minutes>
+Successfully set the idle timeout to %s minutes.
+Cannot give player negative experience points
+Given %s experience to %s
+Given %s levels to %s
+Taken %s levels from %s
+/xp <amount> [player] OR /xp <amount>L [player]
+/playsound <sound> <source> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+Played sound '%s' to %s
+Player %s is too far away to hear the sound
+Source %s is unknown
+/give <player> <item> [amount] [data] [dataTag]
+There is no such item with name %s
+There is no such block with name %s
+Given %s * %s to %s
+Data tag parsing failed: %s
+/replaceitem <entity|block> ...
+/replaceitem entity <selector> <slot> <item> [amount] [data] [dataTag]

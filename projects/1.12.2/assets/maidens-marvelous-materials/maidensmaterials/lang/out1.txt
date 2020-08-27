@@ -1,0 +1,100 @@
+Blue Clay Mix
+Purple Clay Mix
+Magenta Clay Mix
+Pink Clay Mix
+White Clay Mix
+Light Gray Clay Mix
+Gray Clay Mix
+Black Clay Mix
+Brown Clay Mix
+Red Brick
+Orange Brick
+Yellow Brick
+Lime Brick
+Green Brick
+Cyan Brick
+Light Blue Brick
+Blue Brick
+Purple Brick
+Magenta Brick
+Pink Brick
+White Brick
+Light Gray Brick
+Gray Brick
+Black Brick
+Brown Brick
+Red Wood Stain
+Orange Wood Stain
+Yellow Wood Stain
+Lime Wood Stain
+Green Wood Stain
+Cyan Wood Stain
+Light Blue Wood Stain
+Blue Wood Stain
+Purple Wood Stain
+Magenta Wood Stain
+Pink Wood Stain
+White Wood Stain
+Light Gray Wood Stain
+Gray Wood Stain
+Black Wood Stain
+Brown Wood Stain
+Red Dye Bath
+Orange Dye Bath
+Yellow Dye Bath
+Lime Dye Bath
+Green Dye Bath
+Cyan Dye Bath
+Light Blue Dye Bath
+Blue Dye Bath
+Purple Dye Bath
+Magenta Dye Bath
+Pink Dye Bath
+White Dye Bath
+Light Gray Dye Bath
+Gray Dye Bath
+Black Dye Bath
+Brown Dye Bath
+Red Clay Vase (Unfired)
+Orange Clay Vase (Unfired)
+Yellow Clay Vase (Unfired)
+Lime Clay Vase (Unfired)
+Green Clay Vase (Unfired)
+Cyan Clay Vase (Unfired)
+Light Blue Clay Vase (Unfired)
+Blue Clay Vase (Unfired)
+Purple Clay Vase (Unfired)
+Magenta Clay Vase (Unfired)
+Pink Clay Vase (Unfired)
+White Clay Vase (Unfired)
+Light Gray Clay Vase (Unfired)
+Gray Clay Vase (Unfired)
+Black Clay Vase (Unfired)
+Brown Clay Vase (Unfired)
+Ornamental Grass Path
+Ornamental Grass
+Ornamental Grass with Flowers
+Ornamental Dirt
+Fairy Glow Cup
+Vine Tie
+Vanishing Flowers
+Mixed Cobblestone
+Mixed Brick
+Floral Essence Block
+Earthen Essence Block
+Vine-covered Cobblestone (Crabapple)
+Vine-covered Cobblestone (Dogwood)
+Vine-covered Cobblestone (Jacaranda)
+Vine-covered Cobblestone (Laburnum)
+Vine-covered Cobblestone (Paulownia)
+Vine-covered Cobblestone (Silverbell)
+Vine-covered Cobblestone (Wisteria)
+Amethyst Block
+Aventurine Block
+Carnelian Block
+Chalcopyrite Block
+Citrine Block
+Jade Block
+Jasper Block
+Labradorite Block
+Mica Block

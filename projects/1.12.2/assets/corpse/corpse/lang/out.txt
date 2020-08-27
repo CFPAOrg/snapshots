@@ -1,0 +1,18 @@
+Corpse
+Corpse of %s
+Previous
+Next
+%s of %s
+Death History
+Name
+yyyy/MM/dd HH:mm:ss
+Dimension
+Location
+Items
+Open Death History
+No Death History
+Invalid Arguments
+Teleport to death location %s
+Can't teleport! You are in another dimension.
+You don't have permission to teleport!
+Teleport

@@ -1,0 +1,45 @@
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+ Dark Steel Helmet
+ Dark Steel Chestplate
+ Dark Steel Leggings
+ Dark Steel Boots
+ Vibranium Helmet
+ Vibranium Chestplate
+ Vibranium Leggings
+ Vibranium Boots
+ Dark Steel Block
+ Dark Steel Ore
+ Ruby Block
+ Vibranium Block
+ Vibranium Chest
+ Darkness Block
+ Ruby Ore
+ Nether Ruby Ore
+ Dark Steel Ore
+ Vibranium Ore
+ End Vibranium Ore
+ Dark Steel Axe
+ Dark Steel Sword
+ Dark Steel Pickaxe
+ Dark Steel Hoe
+ Dark Steel Shovel
+Ruby Sword
+Ruby Shovel
+Ruby Pickaxe
+Ruby Axe
+Ruby Hoe
+Vibranium Sword
+Vibranium Shovel
+Vibranium Pickaxe
+Vibranium Axe
+Vibranium Hoe
+ Ruby Gem
+ Dark Steel Ingot
+ Ruby Gem Dust
+ Steel Dust
+ Vibranium Ingot
+Cloud Chest
+ Cyber Reboot Tab

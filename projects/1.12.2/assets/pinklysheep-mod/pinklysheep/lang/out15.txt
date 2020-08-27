@@ -1,0 +1,74 @@
+Arrow of Corrosion
+Potion of Corrosion
+Splash Potion of Corrosion 
+Lingering Potion of Corrosion
+Arrow of Corrosion
+Hallucinogen
+Hallucinogen Splash
+Lingering Hallucinogen
+Arrow of Hallucinations
+Strong Hallucinogen
+Strong Hallucinogen Splash
+Lingering Hallucinogen
+Arrow of Strong Hallucinations
+Potion of Sedation
+Splash Potion of Sedation
+Lingering Potion of Sedation
+Arrow of Sedation
+Potion of Aaaarghh! Sedation
+Splash of Aaaarghh! Sedation
+Lingering Aaaarghh! Sedation
+Arrow of Aaaarghh! Sedation
+Potion of Withering
+Splash Potion of Withering
+Lingering Potion of Withering
+Arrow of Withering
+Potion of Withering
+Splash Potion of Withering
+Lingering Potion of Withering
+Arrow of Withering
+Strong Stink Potion
+Splash o' Eye-Watering Stink
+Lingering Waft o' the Truly Funky
+Arrow of "OMG, what is that SMELL?!"
+Stink Potion
+Splash o' Stink
+Lingering Waft o' the Funky
+Arrow of "What is that smell?!"
+Potion of Damage Absorption
+Splash Potion of Damage Absorption
+Lingering Potion of Damage Absorption
+Arrow of Damage Absorption
+Potion of Damage Resistance
+Splash Potion of Damage Resistance
+Lingering Potion of Damage Resistance
+Arrow of Damage Resistance
+Potion of Damage Resistance
+Splash Potion of Damage Resistance
+Lingering Potion of Damage Resistance
+Arrow of Damage Resistance
+Potion of Saturation
+Splash Potion of Saturation 
+Lingering Potion of Saturation
+Arrow of Saturation
+Potion of Saturation
+Splash Potion of Saturation 
+Lingering Potion of Saturation
+Arrow of Saturation
+Potion of Saturation
+Splash Potion of Saturation 
+Lingering Potion of Saturation
+Arrow of Saturation
+Potion of Haste
+Splash Potion of Haste
+Lingering Potion of Haste
+Arrow of Haste
+Potion of Haste II
+Splash Potion of Haste II
+Lingering Potion of Haste II
+Arrow of Haste II
+Wound Infection Potion
+Splash Potion with Infection
+Lingering Potion of Infection
+Arrow with Infection
+Wound Infection Potion

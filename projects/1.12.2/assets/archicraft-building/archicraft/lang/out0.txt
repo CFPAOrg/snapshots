@@ -1,0 +1,124 @@
+Bio house
+Scanner
+Bio base
+Bio greenhouse
+Filler
+Bio factory
+Bio apartment
+Bio duplex
+Bio residential district
+Bio street
+Bio crossing
+Bio avenue
+Bio square
+Bio light
+Arch light
+Okeanos light
+Luxark light
+Alqaz light
+Bio luminary
+Arch luminary
+Okeanos luminary
+Luxark luminary
+Alqaz luminary
+Log path
+Plank path
+Slab path
+Stone path
+Grid floor
+Bio lamp
+Arch lamp
+Okeanos lamp
+Luxark lamp
+Alqaz lamp
+Bio door
+Arch door
+Okeanos door
+Luxark door
+Alqaz door
+Shop stall
+Bread stall
+Livestock stall
+Crops stall
+Fish stall
+Meat stall
+Seeds stall
+Metals stall
+Coal stall
+Dye stall
+Books stall
+Bio garden
+Gatherer stall
+Beekeeper stall
+Potions stall
+Flower stall
+Sapling stall
+§eBio barn§r
+Designed by Lombardita
+§bBio tower§r
+Where nature reaches the sky
+Columner
+Linear
+Pottery stall
+Jam stall
+Weaver stall
+Crystals stall
+Barbecue stall
+Arch house
+Arch base
+Arch greenhouse
+Arch street
+Arch crossing
+Arch avenue
+Arch duplex
+Arch garden
+Arch residential district
+Arch square
+Arch factory
+Arch apartment
+§eArch laboratory§r
+A safe place for your experiments
+Copy Up
+§bArch tower§r
+The top of technology
+Alqaz house
+Alqaz base
+Alqaz greenhouse
+Alqaz street
+Alqaz crossing
+Alqaz avenue
+Alqaz square
+Alqaz garden
+Alqaz duplex
+Alqaz market
+Alqaz apartment
+Alqaz factory
+§eAlqaz Alcázar§r
+The palace in the desert
+§bAlqaz Alhambra§r
+The core of the desert
+Okeanos basic compartment
+Okeanos reinforced compartment
+Okeanos basic crossing
+Okeanos reinforced crossing
+Okeanos hatch compartment
+Okeanos small dome
+Okeanos small arc dome
+Okeanos small room
+Okeanos small arc room
+Okeanos greenhouse dome
+Okeanos house
+Okeanos base
+Okeanos greenhouse
+Okeanos floating runway
+Okeanos runway pillar
+Okeanos medium dome
+Okeanos medium arc dome
+Okeanos medium room
+Okeanos medium arc room
+Okeanos warehouse dome
+Okeanos residential dome
+Okeanos warehouse
+Okeanos platform
+Okeanos small pyramid
+Okeanos medium pyramid

@@ -1,0 +1,10 @@
+item.hellaxe.name
+item.ngpick.name
+item.hellstaff.name
+item.redbaxe.name
+item.vinedsword.name
+item.ngsword.name
+item.ironbaxe.name
+item.uppsword.name
+itemGroup.tabpoweredtools
+item.grassedmultipickaxe.name

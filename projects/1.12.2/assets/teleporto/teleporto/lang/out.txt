@@ -1,0 +1,27 @@
+Primal Teleport
+Teleports you to world's spawn point.
+Global Primal Teleport
+Teleports you to the global spawn point.
+Des Focus
+Stores a location and the rotations. Shift + RMB to bind your current data.
+Dimension: %s
+Telenergy Meter
+Measures the information about telenergy in you or in a block.
+Portable Teleport
+Teleports you to the given location. Shift + RMB to open GUI.
+Teleporting Station
+Teleports entities to the given location. RMB to open GUI.
+Telecore
+Capacity Upgrade
+Speed Upgrade
+Capacity Downgrade
+Speed Downgrade
+Things stores 50 more telenergy.
+Things restores 1 more telenergy per second.
+Things stores 50 less telenergy.
+Things restores 1 less telenergy per second.
+Ender Circuit
+Telenergy: %1$s / %2$s
+§cNot enough telenergy! You need at least %s§c.
+§aCurrent: %s§a.   Max: %s§a.   Per Second: %s§a.
+Teleporto

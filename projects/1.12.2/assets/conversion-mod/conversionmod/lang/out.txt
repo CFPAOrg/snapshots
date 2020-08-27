@@ -1,0 +1,30 @@
+Conversion Mod
+Conversion Ball [WIP]
+Conversion Wand [WIP]
+Red Diamond
+Red Coal
+Red Diamond Ingot
+Red Diamond Dust
+Gravel Dust
+Flint Dust
+Small Backpack [WIP]
+Medium Backpack [WIP]
+Big Backpack [WIP]
+Portable Crafting Table [WIP]
+Red Diamond Axe
+Red Diamond Pickaxe
+Red Diamond Spade
+Red Diamond Hoe
+Red Diamond Sword
+Red Diamond Helmet
+Red Diamond Chestplate
+Red Diamond Leggings
+Red Diamond Boots
+XP Stone
+XP Netherrack
+Red Diamond Ore
+Nether Red Diamond Ore
+Red Coal Ore
+Nether Red Coal Ore
+Red Coal Block
+Red Diamond Block

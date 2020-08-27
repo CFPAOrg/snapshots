@@ -1,0 +1,68 @@
+%s valid aluminum sink
+%s valid aluminum sinks
+%s valid silver sink
+%s valid silver sinks
+%s valid fluorite sink
+%s valid fluorite sinks
+%s valid villiaumite sink
+%s valid villiaumite sinks
+%s valid carobbiite sink
+%s valid carobbiite sinks
+%s valid arsenic sink
+%s valid arsenic sinks
+%s valid liquid nitrogen sink
+%s valid liquid nitrogen sinks
+%s valid liquid helium sink
+%s valid liquid helium sinks
+%s valid enderium sink
+%s valid enderium sinks
+%s valid cryotheum sink
+%s valid cryotheum sinks
+%s of any heater
+any %s heaters
+%s functional standard heater
+%s functional standard heaters
+%s functional iron heater
+%s functional iron heaters
+%s functional redstone heater
+%s functional redstone heaters
+%s functional quartz heater
+%s functional quartz heaters
+%s functional obsidian heater
+%s functional obsidian heaters
+%s functional nether brick heater
+%s functional nether brick heaters
+%s functional glowstone heater
+%s functional glowstone heaters
+%s functional lapis heater
+%s functional lapis heaters
+%s functional gold heater
+%s functional gold heaters
+%s functional prismarine heater
+%s functional prismarine heaters
+%s functional slime heater
+%s functional slime heaters
+%s functional end stone heater
+%s functional end stone heaters
+%s functional purpur heater
+%s functional purpur heaters
+%s functional diamond heater
+%s functional diamond heaters
+%s functional emerald heater
+%s functional emerald heaters
+%s functional copper heater
+%s functional copper heaters
+%s functional tin heater
+%s functional tin heaters
+%s functional lead heater
+%s functional lead heaters
+%s functional boron heater
+%s functional boron heaters
+%s functional lithium heater
+%s functional lithium heaters
+%s functional magnesium heater
+%s functional magnesium heaters
+%s functional manganese heater
+%s functional manganese heaters
+%s functional aluminum heater
+%s functional aluminum heaters

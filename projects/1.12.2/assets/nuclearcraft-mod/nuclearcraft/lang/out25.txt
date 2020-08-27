@@ -1,0 +1,54 @@
+Music Disc
+Dire Straits - Money For Nothing
+8-Bit Cover by 'Omnigrad'
+Music Disc
+Ur-Quan Masters - Hyperspace
+Originally by Riku Nuottajärvi
+Feral Ghoul
+Output: %s-%s [Mean: %s]
+Base process time:
+Base process power:
+Fission cooling rate:
+Base Fusion cooling rate:
+Base depletion time:
+Base power gen:
+Base heat gen:
+Base combo lifetime:
+Base max power:
+Optimal temperature:
+Mean lifetime:
+Power gen:
+Depletion time:
+Base heat gen:
+Cooling rate:
+Temperature:
+Heating provided:
+Cooling provided:
+Heating required:
+Cooling required:
+Condensing temperature:
+Heat removal required:
+Base energy density:
+Fluid expansion:
+Must be adjacent to at least one active Fission Vessel or active moderator.
+Must be adjacent to at least one active Fission Vessel.
+Must be adjacent to at least one active moderator.
+Must be adjacent to at least one valid NaK Coolant Heater and one valid NaK-Redstone Coolant Heater.
+Must be adjacent to at least two active moderator blocks.
+Must be adjacent to at least one active Fission Vessel and one Reactor Wall.
+Must be adjacent to at least one valid NaK Coolant Heater and one valid NaK-Quartz Coolant Heater.
+Must be adjacent to exactly one valid NaK-Redstone Coolant Heater and at least one Reactor Wall.
+Must be adjacent to exactly three Reactor Walls at exactly one vertex.
+Must be adjacent to at least two Fission Vessels.
+Must be adjacent to at least one valid NaK-Gold Coolant Heater.
+Must be adjacent to at least one active moderator and one active Fission Vessel.
+Must be adjacent to at least one valid NaK-Glowstone Coolant Heater.
+Must be adjacent to at least two valid NaK-Lapis Coolant Heaters along a common axis.
+Must be adjacent to at least one Reactor Wall and one active moderator.
+NuclearCraft
+NuclearCraft Base Blocks
+NuclearCraft Base Items
+NuclearCraft Radiation
+NuclearCraft Machines
+NuclearCraft Fission Blocks
+NuclearCraft Fission Materials

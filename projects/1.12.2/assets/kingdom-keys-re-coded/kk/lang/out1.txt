@@ -1,0 +1,123 @@
+Stormy Ore
+Tranquil Ore
+Twilight Ore
+Twilight Ore
+Synthesis Table
+Chest
+Yes I know, the chest is stuck open right now.
+Will only open with a keyblade in hand
+Save Point
+Sneak while standing on it to set your spawn point
+Station of Awakening Door
+Station of Awakening floor
+Organization Portal
+Rank
+C
+B
+A
+S
+Blazing Shard
+Blazing Stone
+Blazing Gem
+Blazing Crystal
+Bright Shard
+Bright Stone
+Bright Gem
+Bright Crystal
+Dark Shard
+Dark Stone
+Dark Gem
+Dark Crystal
+Dense Shard
+Dense Stone
+Dense Gem
+Dense Crystal
+Energy Shard
+Energy Stone
+Energy Gem
+Energy Crystal
+Frost Shard
+Frost Stone
+Frost Gem
+Frost Crystal
+Lightning Shard
+Lightning Stone
+Lightning Gem
+Lightning Crystal
+Lost Illusion
+Lucid Shard
+Lucid Stone
+Lucid Gem
+Lucid Crystal
+Manifest Illusion
+Mythril Shard
+Mythril Stone
+Mythril Gem
+Mythril Crystal
+Orichalcum
+Orichalcum+
+Power Shard
+Power Stone
+Power Gem
+Power Crystal
+Remembrance Shard
+Remembrance Stone
+Remembrance Gem
+Remembrance Crystal
+Serenity Shard
+Serenity Stone
+Serenity Gem
+Serenity Crystal
+Stormy Shard
+Stormy Stone
+Stormy Gem
+Stormy Crystal
+Tranquil Shard
+Tranquil Stone
+Tranquil Gem
+Tranquil Crystal
+Twilight Shard
+Twilight Stone
+Twilight Gem
+Twilight Crystal
+Organization Hood
+Organization Coat
+Organization Leggings
+Organization Boots
+Organization Hood
+Organization Coat
+Organization Leggings
+Organization Boots
+Aqua's Helmet
+Aqua's Chestplate
+Aqua's Leggings
+Aqua's Boots
+Eraqus's Helmet
+Eraqus's Chestplate
+Eraqus's Leggings
+Eraqus's boots
+Terra's Helmet
+Terra's Chestplate
+Terra's Leggings
+Terra's Boots
+Ventus's Helmet
+Ventus's Chestplate
+Ventus's Leggings
+Ventus's Boots
+Nightmare Ventus's Helmet
+Nightmare Ventus's Chestplate
+Nightmare Ventus's Leggings
+Nightmare Ventus's Boots
+Anticoat Helmet
+Anticoat Chestplate
+Anticoat Leggings
+Anticoat Boots
+Vanitas Helmet
+Vanitas Chestplate
+Vanitas Leggings
+Vanitas Boots
+Empty Bottle
+Potion
+Hi-Potion
+Mega-Potion
+Ether

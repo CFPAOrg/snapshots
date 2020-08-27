@@ -1,0 +1,19 @@
+Raw Terillium
+§aTerillium
+Blaze Coal
+§4Red Diamond
+§dEnderium Ingot
+Copper Ingot
+Tin Ingot
+Bronze Ingot
+Terillium Ore
+Blaze Coal Block
+Blaze Coal Ore
+Enderium Ore
+Terillium Block
+Red Diamond Ore
+Enderium Block
+Red Diamond Block
+Copper Ore
+Tin Ore
+Forge Your World: Resource

@@ -1,0 +1,11 @@
+item.titaniumbootslegs.name
+item.titaniumbootshelmet.name
+itemGroup.tabsimplytitaniumtab
+tile.titaniumtorch.name
+item.titaniumnugget.name
+tile.titaniumore.name
+item.titaniumdagger.name
+tile.titaniumblock.name
+item.titaniumbootsbody.name
+item.titaniumingot.name
+item.titaniumbootsboots.name

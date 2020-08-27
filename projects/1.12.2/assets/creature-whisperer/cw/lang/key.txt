@@ -1,0 +1,11 @@
+entity.cw_yeti.name
+entity.cw_ent.name
+item.hypno_cookie.name
+item.diamond_yeti_armor.name
+item.iron_yeti_armor.name
+item.gold_yeti_armor.name
+item.master_whip.name
+item.ent_seed.name
+item.magic_water.name
+item.cw_logo.name
+itemGroup.cwtab

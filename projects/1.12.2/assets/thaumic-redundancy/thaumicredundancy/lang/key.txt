@@ -1,0 +1,4 @@
+item.redundancy_boots.name
+item.redundancy_legs.name
+item.redundancy_chest.name
+item.redundancy_head.name

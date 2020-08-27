@@ -1,0 +1,87 @@
+Pedestal Bottom
+Pedestal Top
+Pedestal
+Dense Coal Ore
+Dense Iron Ore
+Dense Gold Ore
+Dense Redstone Ore
+Dense Diamond Ore
+Dense Nether Quartz Ore
+Dense Lapis Ore
+Compressed Cobblestone
+Double Compressed Cobblestone
+Triple Compressed Cobblestone
+Quadruple Compressed Cobblestone
+Quintuple Compressed Cobblestone
+Sextuple Compressed Cobblestone
+Septuple Compressed Cobblestone
+Octuple Compressed Cobblestone
+Nonuple Compressed Cobblestone
+Decuple Compressed Cobblestone
+Stone Stairs
+Granite Stairs
+Diorite Stairs
+Andesite Stairs
+Polished Granite Stairs
+Polished Diorite Stairs
+Polished Andesite Stairs
+Dirt Stairs
+Oak Log Stairs
+Spruce Log Stairs
+Birch Log Stairs
+Jungle Log Stairs
+Acacia Log Stairs
+Dark Oak Log Stairs
+White Wool Stairs
+Orange Wool Stairs
+Magenta Wool Stairs
+Light Blue Wool Stairs
+Yellow Wool Stairs
+Lime Wool Stairs
+Pink Wool Stairs
+Gray Wool Stairs
+Light Gray Wool Stairs
+Cyan Wool Stairs
+Purple Wool Stairs
+Blue Wool Stairs
+Brown Wool Stairs
+Green Wool Stairs
+Red Wool Stairs
+Black Wool Stairs
+White Terracotta Stairs
+Orange Terracotta Stairs
+Magenta Terracotta Stairs
+Light Blue Terracotta Stairs
+Yellow Terracotta Stairs
+Lime Terracotta Stairs
+Pink Terracotta Stairs
+Gray Terracotta Stairs
+Light Gray Terracotta Stairs
+Cyan Terracotta Stairs
+Purple Terracotta Stairs
+Blue Terracotta Stairs
+Brown Terracotta Stairs
+Green Terracotta Stairs
+Red Terracotta Stairs
+Black Terracotta Stairs
+White Concrete Stairs
+Orange Concrete Stairs
+Magenta Concrete Stairs
+Light Blue Concrete Stairs
+Yellow Concrete Stairs
+Lime Concrete Stairs
+Pink Concrete Stairs
+Gray Concrete Stairs
+Light Gray Concrete Stairs
+Cyan Concrete Stairs
+Purple Concrete Stairs
+Blue Concrete Stairs
+Brown Concrete Stairs
+Green Concrete Stairs
+Red Concrete Stairs
+Black Concrete Stairs
+Mossy Cobblestone Stairs
+Glowstone Stairs
+Red Nether Brick Stairs
+Mossy Stone Brick Stairs
+Cracked Stone Brick Stairs

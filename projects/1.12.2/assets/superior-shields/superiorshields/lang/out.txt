@@ -1,0 +1,3 @@
+Occasionally feeds the wearer when hit
+Makes nearby enemies float when depleted
+Speeds up the wearer when depleted

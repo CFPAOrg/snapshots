@@ -1,0 +1,9 @@
+A caravan is arriving from the %s!
+Selling:
+Buying:
+Caravaneer
+Leader
+A caravaneer never found a player...
+Did you kill that Caravaneer?
+A caravaneer never made it home
+The Caravan has left.

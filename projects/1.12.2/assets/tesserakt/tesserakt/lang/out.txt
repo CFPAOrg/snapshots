@@ -1,0 +1,16 @@
+English
+United States
+en_us
+Tesserakt
+Tesserakt
+Tesserakt Frame (Empty)
+Tesserakt Frame (Full)
+%s was Dimensionnaly Squished!
+Dimensional Bag
+Ender Star
+Dimensional Canvas
+Dimensional Bag Controller
+Dimensional Portal
+Ender Wool
+Hum...I should try to surround the block with obsidian
+I need %d Ender Stars

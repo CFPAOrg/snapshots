@@ -1,0 +1,29 @@
+MalisisAdvert
+Advert
+Advertisement Manager
+Close
+View
+Edit
+Delete
+Add
+Refresh
+Name
+URL
+No advert saved.
+Downloading advert list.
+Panel
+Triangular Column
+Billboard
+Type
+Small foot
+Full foot
+Wall
+Rotating
+Billboard (Wall)
+Advert Selection
+Model :
+Advert
+Clipping :
+From
+to
+Save

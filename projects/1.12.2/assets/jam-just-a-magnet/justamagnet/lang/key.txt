@@ -1,0 +1,3 @@
+jam.toggle.desc
+jam.toggle.enabled
+jam.toggle.disabled

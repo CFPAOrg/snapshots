@@ -1,0 +1,56 @@
+Turn Into Bubbles
+Turns blocks and entities into bubbles
+Create Fake Item
+Create fake items
+Create Fake Block
+Create fake block
+/money [player] OR /money <set/withdraw/deposit> <player> [amount]
+Your balance: %s$
+%s's balance: %s$
+Set %s's balance to %s$
+Withdrawn %s$ from %s's balance
+That player doesn't have enough money!
+You need to hold coins in your hand to deposit it!
+Deposited %s$ to %s's balance
+/cutscenes <cutscene> [pause] OR /cutscenes <cutscene> <player> [pause]
+That cutscene does not exist!
+/popup <player> <title> <text>
+/rules
+/reply <message>
+/sit
+You must be standing on ground to sit down!
+/jail set <jail cell> <player> OR /jail imprison <player> OR /jail release <player> OR /jail emptycell <cell> OR /jail info [cell] OR /jail add <cell id> <x> <y> <z> [dim] OR /jail remove <cell>
+This jail cell does not exist!
+This jail cell already contains %s!
+%s was put into jail cell '%s'.
+There is no free jail cell!
+This player is not in jail!
+%s got released from jail cell '%s'.
+This jail cell does not contain a player!
+Jail cell '%s' contains %s. (Pos: %s, %s, %s in dim %s)
+Jail cell '%s' contains no player. (Pos: %s, %s, %s in dim %s)
+Jail cell '%s' was added. (Pos: %s, %s, %s in dim %s)
+A jail cell with the id '%s' already exists!
+Jail cell '%s' was removed.
+/lorebook <list|add|remove> [player] [book]
+Added all lore books to player!
+Lore book was successfully added!
+Was not able to add lore book!
+Removed all lore books from player!
+Lore book was successfully removed!
+Was not able to remove lore book!
+/reloadbroadcasts
+§9§l[§7§lBROADCAST§9§l] §r
+Broadcast messages have been reloaded!
+/broadcast <message>
+§9§l[§7§lBROADCAST§9§l] §r
+/freeze <player>
+You have been frozen!
+You have been unfrozen!
+You froze %s!
+You unfroze %s!
+/nameitem <name>
+You have changed the name of '%s' to '%s'
+You are not holding an item in your hand!
+/painting
+There is no painting in front of you!

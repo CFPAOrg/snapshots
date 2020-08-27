@@ -1,0 +1,8 @@
+entity.glowstick.name
+item.whiteglowstick.name
+item.redglowstick.name
+item.blueglowstick.name
+item.pinkglowstick.name
+item.purpleglowstick.name
+item.greenglowstick.name
+item.yellowglowstick.name

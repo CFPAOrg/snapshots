@@ -1,0 +1,4 @@
+spellchecker.config.title
+configgui.spellchecker.language_check.language.info
+configgui.spellchecker.checking.threshold.info
+configgui.spellchecker.general.suggestionsize.info

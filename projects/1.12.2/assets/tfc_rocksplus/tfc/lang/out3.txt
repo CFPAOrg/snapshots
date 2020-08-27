@@ -1,0 +1,93 @@
+Carbonatite Cobble Wall
+Carbonatite Bricks Wall
+Foidolite Native Copper
+Foidolite Native Gold
+Foidolite Native Platinum
+Foidolite Hematite
+Foidolite Native Silver
+Foidolite Cassiterite
+Foidolite Galena
+Foidolite Bismuthinite
+Foidolite Garnierite
+Foidolite Malachite
+Foidolite Magnetite
+Foidolite Limonite
+Foidolite Sphalerite
+Foidolite Tetrahedrite
+Foidolite Bituminous Coal
+Foidolite Lignite
+Foidolite Kaolinite
+Foidolite Gypsum
+Foidolite Satinspar
+Foidolite Selenite
+Foidolite Graphite
+Foidolite Kimberlite
+Foidolite Petrified Wood
+Foidolite Sulfur
+Foidolite Jet
+Foidolite Microcline
+Foidolite Pitchblende
+Foidolite Cinnabar
+Foidolite Cryolite
+Foidolite Saltpeter
+Foidolite Serpentine
+Foidolite Sylvite
+Foidolite Borax
+Foidolite Olivine
+Foidolite Lapis Lazuli
+Foidolite Native Ardite
+Foidolite Rutile
+Foidolite Native Osmium
+Foidolite Bauxite
+Foidolite Wolframite
+Foidolite Cobaltite
+Foidolite Thorianite
+Foidolite Chromite
+Foidolite Pyrolusite
+Foidolite Magnesite
+Foidolite Spodumene
+Foidolite Stibnite
+Foidolite Mawsonite
+Foidolite Beryl
+Foidolite Zircon
+Foidolite Villiaumite
+Foidolite Rhodochrosite
+Foidolite Fluorite
+Foidolite Carobbiite
+Foidolite Arsenic
+Foidolite Spike 
+Foidolite Button 
+Foidolite Rock
+Foidolite Brick
+Raw Foidolite
+Smooth Foidolite
+Foidolite Cobble
+Foidolite Bricks
+Foidolite Sand
+Foidolite Gravel
+Foidolite Dirt
+Foidolite Clay
+Foidolite Grass
+Foidolite Dry Grass
+Foidolite Clay Grass
+Foidolite Path
+Foidolite FarmLand
+Smooth Foidolite Stairs
+Foidolite Cobble Stairs
+Foidolite Bricks Stairs
+Smooth Foidolite Slab
+Foidolite Cobble Slab
+Foidolite Bricks Slab
+Smooth Foidolite Double Slab
+Cobble Foidolite Double Slab
+Bricks Foidolite Double Slab
+Smooth Foidolite Wall
+Foidolite Cobble Wall
+Foidolite Bricks Wall
+Arkose Native Copper
+Arkose Native Gold
+Arkose Native Platinum
+Arkose Hematite
+Arkose Native Silver
+Arkose Cassiterite
+Arkose Galena

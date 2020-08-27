@@ -1,0 +1,5 @@
+tile.infilter_block_infilter.name
+tooltip.infilter.name
+description.jei_compat.how_to_active
+description.jei_compat.how_to_active_1
+chat.infilter.name

@@ -1,0 +1,17 @@
+Cases
+Case
+Open Case
+Take
+Untouched
+Minimal Wear
+Used
+Well Worn
+Scarred
+%s has just opened a %s and got %dx%s
+This item has broken data, discard it!
+In this case:
+Reload failed: %s
+Reload successfully completed!
+NBT: %s
+This item has no NBT tags
+/cases [reload]

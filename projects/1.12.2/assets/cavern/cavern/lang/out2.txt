@@ -1,0 +1,58 @@
+Aqua Cavern
+Change the settings contained in aquacavern-dimension.cfg
+Caveland
+Change the settings contained in caveland-dimension.cfg
+Ice Cavern
+Change the settings contained in icecavern-dimension.cfg
+Ruins Cavern
+Change the settings contained in ruinscavern-dimension.cfg
+Cavenia
+Change the settings contained in cavenia-dimension.cfg
+Huge Cavern
+Change the settings contained in hugecavern-dimension.cfg
+Dimension Disabled
+Whether to disable the dimension.
+Dimension
+Specify the dimension id of the dimension.
+World Height
+Specify the world height of the dimension.
+Random Seed
+Whether to set world seed randomly in the dimension.
+Biome Type
+Specify the biome type for the dimension.
+Natural
+Square
+Large Square
+Generate Caves
+Whether to generate caves in the dimension.
+Generate Ravine
+Whether to generate ravine in the dimension.
+Generate Extreme Caves
+Whether to generate extreme caves in the dimension.
+Generate Extreme Ravine
+Whether to generate extreme ravine in the dimension.
+Generate Lakes
+Whether to generate lakes in the dimension.
+Generate Dungeons
+Whether to generate dungeons in the dimension.
+Generate Tower Dungeons
+Whether to generate tower dungeons in the dimension.
+Generate Mineshaft
+Whether to generate mineshaft in the dimension.
+Generate River
+Whether to generate river in the dimension.
+Dungeon Mobs
+Specify the mobs for dungeons in the dimension.
+Tower Dungeon Mobs
+Specify the mobs for tower dungeons in the dimension.
+Monster Spawn Weight
+Specify the spawn weight for monster in the dimension. If specify to 0, monster spawning will be naturally.
+Cave Brightness
+Specify the world brightness for the dimension.
+Decorate Torches
+Whether to decorate torches in the dimension.
+Bonus Chest
+Specify the chances of include bonus in chest.
+Keep Inventory
+Whether to enable keep inventory on death in the dimension.
+Keep Experiences

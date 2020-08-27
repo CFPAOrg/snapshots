@@ -1,0 +1,9 @@
+Modifier Key
+Reversed
+Enabled
+%s-scroll to cycle
+Scroll Modifier Key
+No ZenScroll modifier key bound
+%s-scroll to cycle in creative
+Scrolling
+Invalid scroll packet, u cheatin?

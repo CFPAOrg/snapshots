@@ -1,0 +1,67 @@
+Stripping the Land
+Place a Quarry
+Goods Must Move!
+Craft a Distributor
+Where to Put It
+Craft a Warehouse
+Construction Materials
+Craft a Stonemason
+Domesticating Livestock
+Place a Ranch
+Superior Workmanship
+Craft a Craftsman
+Urbanization
+Place an Office
+Becoming Global
+Craft a Buyer
+Expanding the Economy
+Craft a Seller
+Industrial Revolution
+Craft a Blacksmith
+Workers Demand Cake
+Craft a Bakery
+The Lap of Luxury
+Craft a Textile
+Organized Labor
+Place a Factory
+Arteries of the City
+Place a Road
+City Expansion
+Place an Intersection
+Where to Go But Up
+Place a Large Factory
+Clearing the Way
+Craft a Bulldozer
+Down with Taxes!
+Craft a Tax Collector
+Modern Age
+Place a Tower
+The Sky is the Limit
+Place a Large Tower
+Millionaire!
+Hold a $1000000 coin pouch in your inventory
+General Settings
+Change general game settings.
+Economy Settings
+Change fees and rates and how the economy works.
+Global Market Prices
+Change item prices.
+Construction Settings
+Change options for building and road construction.
+Industry Settings
+Change how industries operate.
+Abandoned City Generation
+Change how abandoned cities are generated.
+Server Only Mod
+If true, only structure generation and locating services are enabled and clients do not need the mod installed.
+Extra Minable Blocks
+List of additional blocks that can be mined by industries or replaced during construction.
+Extra Ore Blocks
+List of additional valuable ore blocks that can be mined out of the walls of a Mineshaft.
+Banned Imports
+List of items or blocks that buildings should not import from the global market.
+Fee Exemption Cap
+Industries holding less than this amount of money are exempt from paying any fees or investments.
+Building Investment Rate
+Each building charges this percentage when collecting investments each day from non-exempt industries in it's area until it reaches it's minimum investment amount.
+Distributor Fee Rate

@@ -1,0 +1,87 @@
+Guns of Chickens : Items
+Guns of Chickens : Blocks
+Guns of Chickens : Utils
+Guns of Chickens
+Chicken Furnace
+Chicken Chest
+Show Logo
+Show Mod Version
+Show Hour
+KiKi
+Chicken Enchant
+Black Chicken Launcher
+Chicken With TNT
+Blue Chicken Launcher
+Gray Chicken Launcher
+Green Chicken Launcher
+Brown Chicken Launcher
+Multicolored Chicken Launcher
+Orange Chicken Launcher
+Pink Chicken Launcher
+Red Chicken Launcher
+White Chicken Launcher
+Yellow Chicken Launcher
+Chicken Ingot
+Chicken Helmet
+Chicken Chestplate
+Chicken Leggings
+Chicken Boots
+Chicken Sword
+Chicken Axe
+Chicken Pickaxe
+Chicken Hoe
+Chicken Shovel
+Chicken Gunpowder
+Chicken Apple (Mining)
+Block Decrafter
+Inverser
+Chicken Apple (PVP)
+Chicken Medkit
+Chicken Heart
+Chicken Coal
+Chicken Diamond
+Chicken Diamond Helmet
+Chicken Diamond Chestplate
+Chicken Diamond Leggings
+Chicken Diamond Boots
+Chicken Diamond Sword
+Chicken Diamond Axe
+Chicken Diamond Pickaxe
+Chicken Diamond Hoe
+Chicken Diamond Shovel
+Chicken Diamond Ingot
+Chicken Stick
+Ultimate Ingot
+Ultimate Helmet
+Ultimate Chestplate
+Ultimate Leggings
+Ultimate Boots
+Ultimate Sword
+Ultimate Pickaxe
+Ultimate Hoe
+Ultimate Shovel
+Ultimate Axe
+Black Chicken Block
+White Chicken Block
+Blue Chicken Block
+Red Chicken Block
+Yellow Chicken Block
+Multicolored Chicken Block
+Pink Chicken Block
+Green Chicken Block
+Orange Chicken Block
+Brown Chicken Block
+Gray Chicken Block
+Chicken Ore
+Chicken TNT
+Chicken Block
+Chicken Coal Ore
+Chicken Ladder
+Chicken Diamond Ore
+Chicken Diamond Block
+Chicken Wood
+Chicken Furnace
+Chicken Chest
+Ultimate Block
+Dimension Changer
+Chicken Dirt

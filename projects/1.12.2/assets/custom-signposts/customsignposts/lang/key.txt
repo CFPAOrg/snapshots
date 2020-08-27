@@ -1,0 +1,16 @@
+container.customsignposts.signpost
+itemGroup.customsignposts.tabSignposts
+customsignposts.distance
+customsignposts.angle
+customsignposts.coord
+customsignposts.bearing
+item.customsignposts.oak_signpost.name
+item.customsignposts.spruce_signpost.name
+item.customsignposts.birch_signpost.name
+item.customsignposts.jungle_signpost.name
+item.customsignposts.acacia_signpost.name
+item.customsignposts.dark_oak_signpost.name
+item.customsignposts.cobblestone_signpost.name
+item.customsignposts.nether_brick_signpost.name
+item.customsignposts.sandstone_signpost.name
+item.customsignposts.red_sandstone_signpost.name

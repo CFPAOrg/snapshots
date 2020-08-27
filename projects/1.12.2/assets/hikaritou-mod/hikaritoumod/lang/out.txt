@@ -1,0 +1,43 @@
+Inferior Tamahagane
+Hot Inferior Tamahagane
+Covered Tamahagane
+Tamahagane Ingot
+Inferior Blade
+Normal Blade
+Inferior Shaft
+Normal Shaft
+Kozuchi
+Tamahagane Kozuchi
+Tamahagane Pickaxe
+Tamahagane Axe
+Tamahagane Hoe
+Tamahagane Shovel
+Ashes
+Cheap Katana
+Normal Katana
+Hot Tamahagane Ingot
+Folded Tamahagane
+Double Folded Tamahagane
+Triple Folded Tamahagane
+Quadruple Folded Tamahagane
+Hot Folded Tamahagane
+Hot Double Folded Tamahagane
+Hot Triple Folded Tamahagane
+Hot Quadruple Folded Tamahagane
+Good Shaft
+Good Blade
+Good Katana
+Meitou Kokuhikari
+Fancy Shaft
+Covered Blade
+Hot Blade
+Hardened Blade
+Sharp Hardened Blade
+Diamond Dust
+Grind Stone
+Water Casket
+HikariTou Mod
+blocktemplate
+Tatara
+Tatara
+Tatara Chimney

@@ -1,0 +1,5 @@
+item.dynamictreesextrautils2:ferrousjuniperseed.name
+item.dynamictreesextrautils2:ferrousjuniperburntseed.name
+tile.dynamictreesextrautils2:leaves_ferrous_juniper.name
+tile.dynamictreesextrautils2:ferrousjuniperbranch.name
+tile.dynamictreesextrautils2:ferrousjuniperbranchburnt.name

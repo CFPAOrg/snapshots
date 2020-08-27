@@ -1,0 +1,17 @@
+entity.rogue.name
+item.demoniteaxe.name
+item.demonite.name
+item.demonitenugget.name
+item.club.name
+item.demonitesword.name
+item.demoniteshovel.name
+entity.scorpian.name
+item.demonpitchfork.name
+entity.netherrogue.name
+tile.demonblock.name
+entity.poltergeist.name
+entity.cyclops.name
+item.demonitepickaxe.name
+entity.troll.name
+item.scorpionclaw.name
+item.soulorb.name

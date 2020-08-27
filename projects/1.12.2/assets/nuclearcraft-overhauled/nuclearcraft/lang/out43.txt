@@ -1,0 +1,36 @@
+TiC Handle Modifiers
+Determines the Tinkers' Construct handle modifiers of the materials. Order: boron, tough alloy, hard carbon, boron nitride.
+Armor Configs
+Configure armor.
+Durabilities
+Durabilities of armor types. Order: boron, tough alloy, hard carbon, boron nitride, hazmat.
+Boron Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Tough Alloy Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Hard Carbon Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Boron Nitride Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Hazmat Suit Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Enchantabilities
+Determines the quality of applied enchantments. Order: boron, tough alloy, hard carbon, boron nitride, hazmat.
+Toughnesses
+Toughnesses of armor types. Order: boron, tough alloy, hard carbon, boron nitride, hazmat.
+Entity Configs
+Configure entities.
+Entity Tracking Range
+The range at which Minecraft will send tracking updates for NC entities.
+Radiation Configs
+Configure aspects of nuclear radiation.
+Enable Radiation
+Will nuclear radiation exist in the world? Note that the game will require a restart for radiation-related items to be shown in JEI after enabling this feature.
+Radiation World Chunks Per Tick
+The maximum number of chunks in which radiation will be updated per tick.
+Radiation Player Tick Rate
+The number of ticks between each player radiation update.
+World Background Radiation
+List of dimensions and their background radiation levels. Format: 'dimID_radiationLevel'.
+Biome Background Radiation
+List of biomes and their background radiation levels. These values stack with the underlying world's background radiation. Format: 'modid:biomeName_radiationLevel'.

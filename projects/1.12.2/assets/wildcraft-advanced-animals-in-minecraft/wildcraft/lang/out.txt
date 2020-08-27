@@ -1,0 +1,15 @@
+Damage Cap
+Maximum Health Levels
+The maximum number of times a wolf can level up its health stat
+Maximum Speed Levels
+The maximum number of times a wolf can level up its speed stat
+Maximum Damage Levels
+The maximum number of times a wolf can level up its damage stat
+Minimum Wild Base Health
+Maximum Wild Base Health
+Minimum Wild Base Speed
+The minimum number of speed points a wild wolf can spawn with [vanilla wolves have the equivalent of 5-6 points in speed]
+Maximum Wild Base Speed
+The maximum number of speed points a wild wolf can spawn with [vanilla wolves have the equivalent of 5-6 points in speed]
+Minimum Wild Base Damage
+Maximum Wild Base Damage

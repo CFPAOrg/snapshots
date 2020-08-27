@@ -1,0 +1,2 @@
+item.stickofdeath.stick_death.name
+rickroll.subtitle.rickroll

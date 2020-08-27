@@ -1,0 +1,51 @@
+Change the settings contained in aquacavern-dimension.cfg
+Mirage Worlds
+Change the settings contained in mirageworlds-dimension.cfg
+Caveland
+Change the settings contained in caveland-dimension.cfg
+Cavenia
+Change the settings contained in cavenia-dimension.cfg
+Dimension
+The dimension id of the dimension. Set to 0 to disable.
+World Height
+The world height of the dimension.
+Portal Ignition Items
+A list of items that will light the portal to this dimension. If nothing is selected, the default item will be used.
+Generate Caves
+If caves generate in this dimension.
+Generate Ravine
+If ravines generate in this dimension.
+Generate Extreme Caves
+If extreme caves generate in this dimension.
+Generate Extreme Ravine
+If extreme ravines generate in this dimension.
+Generate Lakes
+If lakes generate in this dimension.
+Generate Dungeons
+If dungeons generate in this dimension.
+Generate Tower Dungeons
+If tower dungeons generate in this dimension.
+Generate Mineshaft
+If mineshafts generate in this dimension.
+Generate River
+If rivers generate in this dimension.
+Generate Mirage Library
+If mirage libraries generate in this dimension.
+Dungeon Mobs
+A list of mobs that can be used for dungeon spawners.
+Tower Dungeon Mobs
+A list of mobs that can be used for tower dungeon spawners.
+Flood Depth
+How deep flood water is in this dimension.
+Monster Spawn Weight
+The spawn weight for additional monster spawns in this dimension.  Set to 0 to use natural spawns.
+Crazy Spawn Chance
+The spawn chance for crazy monster spawns in this dimension. Set to 0 to disable crazy monster spawns.
+Cave Brightness
+The global light level for this dimension.
+Automatic Veins Gen
+If veins generate by automatic collect from ore dictionary in this dimension.
+Frost Mountains
+The dimension id of the Frost Mountains. Set to 0 to disable.
+Wide Desert
+The dimension id of the Wide Desert. Set to 0 to disable.

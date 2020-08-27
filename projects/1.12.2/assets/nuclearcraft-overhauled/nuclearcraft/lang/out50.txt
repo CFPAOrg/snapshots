@@ -1,0 +1,25 @@
+Combine all creative tabs into a single large one?
+Ctrl For More Info
+Hold down the control key rather than the shift key to show extra tooltip info?
+JEI Chance Output Display
+Will the chance item output cycle in JEI include empty stacks if a possible output stack size is 0? If false, a minimum stack size of 1 shall be shown - although some info about the recipe is lost this way, it looks much neater. This will only effect the outputs in JEI and not the actual functioning of the machines.
+Enable Rare Drops
+Will mobs drop rare items?
+Enable Dungeon Loot
+Will NuclearCraft loot generate in chests?
+Enable Ore Dict Raw Material Recipes
+Will Ore Dictionary inputs be used for 'ingot <-> block' crafting and 'dust -> ingot' furnace recipes? If false, the NC ingredient will be used.
+Enable Ore Dict Mod Priority
+Will Ore Dictionary outputs be prioritised according to the mod list below? If false, the default Ore Dict entry will be used when deciding machine outputs.
+Ore Dict Mod Priority
+Determines the priority of each mod's ore dictionary entries - earlier mods' IDs in this list have a higher priority. This is used to determine which mod's corresponding item is produced in machine recipes. If no matching mod is found, the default entry is used.
+This method doesn't show in the archive maps - lost a method, you have... how embarassing... how embarassing! Gather round the GitHub repository, clear your mind, and find your missing method we will.
+Invalid method number
+%s arguments used, expected %s
+Invalid argument %s, expected %s
+Number argument %s too small, expected at least %s
+Number argument %s too large, expected %s at most
+Multiblock validation was successful
+Multiblock is too small
+Multiblock is too large, it may be at most %1$d blocks in the %2$s dimension
+Multiblock is too small, it must be at least %1$d blocks in the %2$s dimension

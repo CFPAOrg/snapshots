@@ -1,0 +1,4 @@
+item.wseed.name
+item.wfragment.name
+itemGroup.tabMagic
+tile.withercrops.name

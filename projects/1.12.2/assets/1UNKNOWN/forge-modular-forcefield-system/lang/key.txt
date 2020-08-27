@@ -1,0 +1,4 @@
+commands.forge.usage
+commands.forge.usage.tracking
+commands.forge.tps.summary
+commands.forge.tracking.te.enabled

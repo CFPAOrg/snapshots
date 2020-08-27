@@ -1,0 +1,17 @@
+Advanced Chemical Reactor is a highly-advanced machine that is capable to allow many chemical reaction happen inside of it. \nIt has 5 input slots, 5 output slots, individual cell input/output slot and a reaction module slot.
+Air Pump is a machine that can produce high-pressure air. Place one of it below Liquefier will automatically supply Liquefier with high-pressure air. 
+Pyrolyzer can use extreme amount of heat to decompose several substances. \nPower requirement is vary on recipes. 
+Liquefier can convert high-pressure air into liquefied air. It requires an Air Pump below it in order to get air supply.
+Condense Tower is a multiblock structure that can separate liquid mixture into several pure liquid, based on differences among boiling point of liquids.
+Config Settings
+General
+All configurable variables used by FrogCraft: Rebirth are here.
+Modpack Mode
+Set it to true to disable all recipes. Useful for modpack creators.
+Air Pump Gen. Rate
+EU consumption rate of Air Pump, in EU/t.
+Air Pump Power
+Liquid air generation speed of Air Pump, in mB/t.
+Combustion Furnace Output Power
+Energy generation rate of Combustion Furnace, in EU/t.
+FrogCraft: Rebirth

@@ -1,0 +1,7 @@
+enchantment.OreGen
+oregen.jei.recipe.oregen
+oregen.jei.desc.cobble
+oregen.jei.desc.oregenbook
+oregen.jei.lore.oregenbook
+oregen.jei.lore.oregenbook1
+oregen.jei.lore.oregenbook2

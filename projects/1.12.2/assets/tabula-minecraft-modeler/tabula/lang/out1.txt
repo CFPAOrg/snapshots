@@ -1,0 +1,77 @@
+Class Name
+Project Texture
+Block JSON
+Export Block JSON
+File Name
+Corner of block is at (0, 0) (click to change)
+Center of block is at (0, 0) (click to change)
+Block model is relative to wood block (click to change)
+New Project
+Edit Project
+Open Project
+Save
+Save As
+Import Project
+Import From Minecraft
+Export Project
+Cut
+Copy
+Paste
+Paste In Place
+Paste Without Children
+Undo
+Redo
+Toggle Chat Window
+Add Editor
+Remove Editor
+Theme Selector
+Settings
+About this mod
+Exit Tabula
+Block
+Toggle showing the block
+Automatically Layout Textures
+Set Ghost Model
+Open Working Directory
+Users In Session
+Editor
+Host
+%s has joined the session.
+%s has left the session.
+%s timed out.
+%1$s opened %2$s.
+%s is allowed to edit models.
+%1$s has added %2$s as an editor.
+%1$s has removed %2$s as an editor.
+%s is already an editor.
+%s is not an editor.
+%s is host and cannot be removed as an editor.
+You are hosting this Tabula session.
+%s is hosting this Tabula session.
+%s (host) is unavailable. They might have crashed or disconnected. Consider saving the models for them before exiting.
+%s (host) has ended session.
+Multiplayer
+Others
+Multiplayer settings for Tabula sessions
+Other configs that don't really fit. You probably don't want to touch these.
+Favorite Theme
+Render Model Rotation Point
+Render Workspace Block
+Render Grid
+Render Model Controls
+Swap Position/Offset
+Chat Sound
+Allow Everyone To Edit
+Allowed Editors
+Animate Imports
+Chat Window Settings
+Tooltip Time
+Favorite Colour Theme for Tabula's Interface
+Should the rotation point of selected model parts be rendered
+Should the block in the workspace be rendered
+Should the grid in the workspace be rendered
+Should the controls on the model be rendered
+Swap the position and offset of the model when changing either value?
+Enable chat sounds?
+Allow anyone who connects to your Tabula session to edit the model
+People allowed to edit models in your multiplayer Tabula session.\nSeparate usernames by with a comma and a space (", " - no quotes)

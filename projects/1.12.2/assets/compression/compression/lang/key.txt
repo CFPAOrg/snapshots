@@ -1,0 +1,9 @@
+itemGroup.compression
+item.compression:ItemDenseArmor_head.name
+item.compression:ItemDenseArmor_chest.name
+item.compression:ItemDenseArmor_legs.name
+item.compression:ItemDenseArmor_feet.name
+tile.compression.compressor.0.name
+tile.compression.compressor.1.name
+compression:container.compressor.0
+compression:container.compressor.1

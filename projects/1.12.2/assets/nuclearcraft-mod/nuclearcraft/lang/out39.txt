@@ -1,0 +1,23 @@
+The lowest rate of player and chunk irradiation possible in Rad/t - amounts below this are ignored.
+Chunk Radiation Limit
+The maximum chunk radiation level possible in Rad/t. A negative value means there is no limit.
+Radiation Block Mutations
+A list of mutation results, the material properties of the blocks which should mutate to them, and the threshold radiation level at which the mutation should occur. All arguments of the chosen parameters have to match those of the target block for a mutation to happen. The parameters 'isLiquid', 'isSolid', 'blocksLight', 'blocksMovement', 'getCanBurn', 'isReplaceable', 'isOpaque' and 'isToolNotRequired' are boolean-valued, 'materialMapColor' is integer-valued and 'getPushReaction' is an EnumPushReaction, with the possible values being 'normal', 'destroy', 'block', 'ignore' or 'pushOnly'. More precise control through a recipe system is available via NC's CraftTweaker integration. Format: 'modid:name:meta_radiationThreshold_parameterA@argumentA,parameterB@argumentB,...,parameterZ@argumentZ'.
+Radiation Block Mutation Threshold
+The chunk radiation level in Rad/t beyond which blocks will start to be affected by radiation.
+Radiation Block Mutation Max Rate
+The maximum number of attempts per chunk radiation update to mutate blocks.
+Radiation Rain Multiplier
+Multiplies the rate of irradiation while in rain.
+Radiation Swimming Multiplier
+Multiplies the rate of irradiation while swimming.
+RadAway Rads Removed
+The total number of rads removed when using RadAway.
+Slow-Acting RadAway Rads Removed
+The total number of rads removed when using Slow-Acting RadAway.
+RadAway Rad Removal Rate
+The rate at which rads is removed when using RadAway in Rad/t.
+Slow-Acting RadAway Rad Removal Rate
+The rate at which rads is removed when using Slow-Acting RadAway in Rad/t.
+Rad Poisoning Time
+The time taken for a dose of radiation poisoning to be added to the player's rad count in ticks.

@@ -1,0 +1,122 @@
+Maelstrom Armor
+Extended Reach
+Recharge
+Damage
+Impact
+Enflame
+Maelstrom Destroyer
+Maelstrom Protection
+Maelstrom Sharpness
+Critical Hit
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+Water Walker
+Now Entering:
+The Fracture
+The Nexus
+The Golden Canyon
+The Crimson Kingdom
+Maelstrom Mod Items
+Maelstrom Mod Blocks
+Herobrine's Epic Crafts
+You haven't unlocked mana yet!
+Something is trying to enter this world
+Something has entered this world
+Herobrine's Cookies PLZ DONT TAKE
+World
+Fracture Dimension Id
+Nexus Dimension Id
+Cliff Dimension Id
+Dark Nexus Dimension Id
+Invasion Time
+Render Cliff Fog
+Invasion Warning Time
+Gui
+Maelstrom Armor Bar X Offset
+Maelstrom Armor Bar Y Offset
+Mana Bar X Offset
+Mana Bar Y Offset
+Show Gun Cooldown Bar
+Show Mana Bar
+Show Armor Bar
+Balancing
+Base Armor Toughness
+Base Mob Armor
+Base Weapon Damage
+Progression Scale
+Base Mob Damage
+Elemental Factor
+Entities
+Use Vanilla Pathfinding
+Attack All Mobs
+Display Mob Level
+Server
+Sync Config On Login
+Shader Compatability
+Render Custom Skies
+Right click on a key block in the Nexus to activate
+A key to a dimension, coming soon!
+Close range shotgun attack
+Medium range and melee attack
+Close range explosive attack
+Short range piercing flame attack
+Short range ground attack
+Maelstrom Level: %s
+An accurate energy sniper rifle
+Deals more damage the farther it travels
+Ammo use: %s
+%s second reload time
+Has massive sweep attack
+Has no sweep attack
+Medium range gun
+Short range repeating gun
+Wielding Kanshou and Bakuya together grants Strength II
+Long range gun
+Pierces through multiple enemies
+Slows enemies on sweep attack
+Has large sweep attack
+Poisons on charged attack
+Grants resistance on sweep attack
+Explodes on charged attack
+Launches sweep attack
+Gives a small upward boost
+Reduces falling damage
+Gives a short speed boost

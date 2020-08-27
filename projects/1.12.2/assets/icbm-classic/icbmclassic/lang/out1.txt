@@ -1,0 +1,90 @@
+Launcher Control Panel T1
+Launcher Control Panel T2
+Launcher Control Panel T3
+Used to fire missiles from launchers
+Launcher Support Frame T1
+Launcher Support Frame T2
+Launcher Support Frame T3
+Improves accuracy of missiles
+Radar Station
+Detects missiles in flight
+EMP Tower
+Drains energy from tiles, entities and devices
+Cruise Launcher
+Dummy-fires a missile without target data
+Missile Coordinator
+Oversized calculator. Calculates flight paths
+Reinforced Rail
+Hardened against explosives
+Redmatter Ore
+Oh shiz, how did you get that? Put it down, it could explode!
+One
+Two
+Three
+Four
+Condensed Explosives
+Shrapnel Explosives
+Incendiary Explosives
+Debilitation Explosives
+Chemical Explosives
+Anvil Explosives
+Repulsive Explosives
+Attractive Explosives
+Nightmare Explosives
+Fragmentation Explosives
+Contagious Explosives
+Sonic Explosives
+Breaching Explosives
+Thermobaric Explosives
+Nuclear Explosives
+EMP Explosives
+Exothermic Explosives
+Endothermic Explosives
+Anti-Gravitational Explosives
+Ender Explosives
+Hypersonic Explosives
+Antimatter Explosives
+Red Matter Explosives
+Conventional Missile
+Shrapnel Missile
+Incendiary Missile
+Debilitation Missile
+Chemical Missile
+Anvil Missile
+Repulsive Missile
+Attractive Missile
+Fragmentation Missile
+Contagious Missile
+Sonic Missile
+Breaching Missile
+Thermobaric Missile
+Nuclear Missile
+EMP Missile
+Exothermic Missile
+Endothermic Missile
+Anti-Gravitational Missile
+Ender Missile
+Hypersonic Missile
+Antimatter Missile
+Red Matter Missile
+Explosive Cart
+Shrapnel Minecart
+Incendiary Minecart
+Debilitation Minecart
+Chemical Minecart
+Anvil Minecart
+Repulsive Minecart
+Attractive Minecart
+Nightmare Minecart
+Fragmentation Minecart
+Contagious Minecart
+Sonic Minecart
+Breaching Minecart
+Thermobaric Minecart
+Nuclear Minecart
+EMP Minecart
+Exothermic Minecart
+Endothermic Minecart
+Anti-Gravitational Minecart
+Ender Minecart
+Hypersonic Minecart

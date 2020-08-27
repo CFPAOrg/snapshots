@@ -1,0 +1,57 @@
+%s functional silver heater
+%s functional silver heaters
+%s functional fluorite heater
+%s functional fluorite heaters
+%s functional villiaumite heater
+%s functional villiaumite heaters
+%s functional carobbiite heater
+%s functional carobbiite heaters
+%s functional arsenic heater
+%s functional arsenic heaters
+%s functional liquid nitrogen heater
+%s functional liquid nitrogen heaters
+%s functional liquid helium heater
+%s functional liquid helium heaters
+%s functional enderium heater
+%s functional enderium heaters
+%s functional cryotheum heater
+%s functional cryotheum heaters
+%s rotor bearing
+%s valid coil connector
+%s valid coil connectors
+%s of any dynamo coil
+any %s dynamo coils
+%s magnesium dynamo coil
+%s magnesium dynamo coils
+%s beryllium dynamo coil
+%s beryllium dynamo coils
+%s aluminum dynamo coil
+%s aluminum dynamo coils
+%s gold dynamo coil
+%s gold dynamo coils
+%s copper dynamo coil
+%s copper dynamo coils
+%s silver dynamo coil
+%s silver dynamo coils
+be constant
+%s linearly
+%s quadratically
+%s cubically
+%s quartically
+%s quintically
+%s sextically
+%s septically
+%s octically
+%s nonically
+%s decically
+%s undecically
+%s duodecically
+%s tredecically
+%s quattuordecically
+%s quindecically
+increase
+decrease
+increase approximately
+decrease approximately
+%1$s %2$s
+with

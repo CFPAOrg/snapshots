@@ -1,0 +1,36 @@
+Register Passive Machines
+Register passive machine to the game? Order: Helium Collector, Cobblestone Generator, Infinite Water Source, Nitrogen Collector.
+Register Tools
+Register tool types to the game? Order: boron, tough alloy, hard carbon, boron nitride.
+Register Armor
+Register armor types to the game? Order: boron, tough alloy, hard carbon, boron nitride.
+Ctrl For More Info
+Hold down the control key rather than the shift key to show extra tooltip info?
+JEI Chance Output Display
+Will the chance item output cycle in JEI include empty stacks if a possible output stack size is 0? If false, a minimum stack size of 1 shall be shown - although some info about the recipe is lost this way, it looks much neater. This will only effect the outputs in JEI and not the actual functioning of the machines.
+Generate Wasteland Biome
+Will the Wasteland Biome generate in the Overworld?
+Wasteland Biome Gen Weight
+The weight assigned to the generation of the Wasteland Biomes - higher numbers correspond to higher generation rates.
+Enable Wasteland Dimension
+Will the Wasteland Dimension be generated?
+Wasteland Dimension ID
+Set the dimension ID for the Wasteland Dimension.
+Mushroom Spread Rate
+Glowing Mushroom spread rate.
+Generate Mushrooms
+Will glowing mushrooms generate in the nether?
+Mushroom Gen Size
+Determines how many glowing mushrooms will spawn at a time.
+Mushroom Gen Rate
+Determines how often glowing mushrooms will spawn.
+Enable Rare Drops
+Will mobs drop rare items?
+Enable Dungeon Loot
+Will NuclearCraft loot generate in chests?
+Register Fission Fluid Blocks
+Register fission fluid and molten salt coolant blocks? Keep false if running low on block IDs.
+Register CoFH Fluid Alternatives
+Register alternative Thermal Foundation fluids? It is recommended that this is set to true if no CoFH mods are installed.
+Register Base EMC Values
+Register NC raw material EMC values if ProjectE is installed?

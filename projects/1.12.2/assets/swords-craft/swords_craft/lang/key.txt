@@ -1,0 +1,16 @@
+item.pinkdiamondpickaxe.name
+item.pinkdiamondshowel.name
+item.dimension1.name
+item.pinkdiamondsword.name
+item.pinkdiamondaxe.name
+itemGroup.tabitemsswordscraft
+item.armorlegs.name
+item.armorhelmet.name
+item.armorboots.name
+item.pinkdiamond.name
+itemGroup.tabarmorsswordscraft
+tile.pinkdiamondblock.name
+item.armorbody.name
+tile.pinkdiamondore.name
+itemGroup.tabtoolsswordscraft
+itemGroup.tabblocksswordscrft

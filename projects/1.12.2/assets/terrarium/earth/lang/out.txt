@@ -1,0 +1,38 @@
+Generate biomes and trees from the BoP mod. This should probably be used in addition to Compatibility Mode
+Barren Earth
+The bare surface of the earth at 1:40m scale with no additional generation
+Intercontinental
+Survival-friendly earth at 1:2000m scale where continents are fairly small
+Modded Intercontinental
+Survival & mod-friendly earth at 1:2000m where continents are fairly small
+Playable Earth
+Survival-friendly earth at 1:70m scale with all vanilla generation
+Modded Playable Earth
+Survival & mod-friendly earth at 1:70m scale with all vanilla & modded generation
+Scenic Earth
+A scenic, but not survival-friendly representation of the Earth
+Cannot use command in this world
+geotp <latitude> <longitude> OR geotp <place>
+Could not find "%s"
+Teleported %s to %.5f, %.5f
+An error occurred while finding "%s": %s: %s
+geotool
+Map
+Display Panorama
+Preload World
+geodebug
+Searching for nearby panoramas...
+Found no nearby panoramas!
+Found a panorama nearby! Move into the marked area to display it!
+An error occurred locating nearby panoramas
+Immersed in located panorama!
+Street View Zoom
+The zoom level to load street view images at. Higher values means higher resolution
+Use OpenStreetMap Geocoder
+If true, the Nominatim OpenStreetMap Geocoder will be used instead of Google's
+Accepted Remote Data Warning
+If true, you will no longer be warned about remote data usage. (Automatically set through GUI)
+Loading API keys...
+Loading climate raster...
+Loading remote index...
+Downloading

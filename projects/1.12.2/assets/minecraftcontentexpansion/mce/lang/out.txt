@@ -1,0 +1,12 @@
+Chopping Block
+The chopping block can be used to effectively process wood. So for example you can make planks and slabs.\nSimply punch the wood with your axe to process it.
+Metal Age
+Getting ingots
+To smelt ores into ingots you need a smelter.\nCrafting the smelter requires cement which can be produced with the kiln. 
+The Smelter needs heat to process ores.\nIs the heat under 3/4 the smelter will stop processing and you need to burn some coal.
+Industrial Age
+Produce Energy
+A simple way to produce energy is by burning coal.
+You can also gain energy with solar power.
+Store Energy
+Craft a battery to store up to 200000 FE.

@@ -1,0 +1,88 @@
+NCC Blocks
+NCC Items
+NCC Food
+NCC Tools
+NCC Money
+10 Castol Cent (s)
+20 Castol Cent (s)
+50 Castol Cent (s)
+1 Castol Euro (s)
+2 Castol Euro (s)
+5 Castol Euro (s)
+10 Castol Euro (s)
+20 Castol Euro (s)
+50 Castol Euro (s)
+100 Castol Euro (s)
+200 Castol Euro (s)
+500 Castol Euro (s)
+1000 Castol Euro (s)
+1 Castol Euro Bundle (s) (8)
+2 Castol Euro Bundle (s) (16)
+5 Castol Euro Bundle (s) (40)
+10 Castol Euro Bundle (s) (80)
+20 Castol Euro Bundle (s) (160)
+50 Castol Euro Bundle (s) (400)
+100 Castol Euro Bundle (s) (800)
+200 Castol Euro Bundle (s) (1600)
+500 Castol Euro Bundle (s) (4000)
+1000 Castol Euro Bundle (s) (8000)
+1 Castol Euro Pallet (s) (64)
+2 Castol Euro Pallet (s) (128)
+5 Castol Euro Pallet (s) (320)
+10 Castol Euro Pallet (s) (640)
+20 Castol Euro Pallet (s) (1280)
+50 Castol Euro Pallet (s) (3200)
+100 Castol Euro Pallet (s) (6400)
+200 Castol Euro Pallet (s) (12800)
+500 Castol Euro Pallet (s) (32000)
+1000 Castol Euro Pallet (s) (64000)
+Wupperium dust
+Wupperium ingot
+Dark soul ingot
+Caramel
+Candied apple
+Apple stripes
+Apple strip bag
+Bag
+Aloha ingot
+Aloha stick
+Aloha dust
+Blue flint and steel
+Green flint and steel
+Witherstorm netherstar
+Command book (Crafting only)
+Amulet from the heros of the stone
+Wupperium pickaxe
+Wupperium axe
+Wupperium shovel
+Wupperium hoe
+Wupperium sword
+Command sword
+Command pickaxe
+Command axe
+Command shovel
+Command hoe
+Aloha sword
+Adminsword (Are You God?)
+Wupperium boots
+Wupperium helmet
+Wupperium chestplate
+Wupperium leggins
+Police helmet
+Police chestplate
+Police leggins
+Police boots
+Aloha block
+Wupperium ore
+Wupperium block
+Target
+Target
+Target
+Target
+Crying obsidian
+Glowing Obsidian
+Unknown
+Free
+Redstone heart
+Dark soul ore
+Dark soul block

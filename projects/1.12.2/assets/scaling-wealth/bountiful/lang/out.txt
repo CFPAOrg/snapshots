@@ -1,0 +1,31 @@
+Bounty
+Bounty Board
+Bounty Board
+§4This bounty has expired.
+§6Bounty Fulfilled!
+§aCannot fulfill bounty, you don't have everything needed!
+§6No bounties available, come back later!
+Json config files reloaded.
+Reloading data..
+§aBounty requirements met. Fullfill your bounty by right clicking on a bounty board.
+§cYou need to kill more mobs to fulfill this bounty.
+§6Rarity not found!
+Common
+Uncommon
+Rare
+Epic
+Bounties Taken
+Bounties Completed (Total)
+Bounties Completed (Common)
+Bounties Completed (Uncommon)
+Bounties Completed (Rare)
+Bounties Completed (Epic)
+§4Your config file does not contain enough valid bounties. Reverting to previous bounty data.
+Hold Shift for item details
+Time To Complete
+Required
+Rewards
+Expired
+Requirements not met.
+§6Requires:§f
+§6Rewards:§f

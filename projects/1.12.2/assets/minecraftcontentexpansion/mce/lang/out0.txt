@@ -1,0 +1,141 @@
+Unim
+Unim Ingot
+Ruby
+Ascabit Ingot
+Copper Ingot
+Tin Ingot
+Bronze Ingot
+Titanium Ingot
+Steel Ingot
+Steel Fragments
+Amethyst
+Solar Cell
+Steel Frame
+Plant Fiber
+Rock
+Animal Hide
+Animal Fat
+Dough
+Chain
+Leather Strip
+Cement Mixture
+Unfired Clay Bucket
+Clay Bucket
+Clay Bucket with Water
+Clay Bucket with Milk
+Stone Door
+Sandstone Door
+Nether Wood Door
+Glass Door
+Sandstone Button
+Tomato
+Grape
+Strawberry
+Corn
+Bacon
+Cooked Bacon
+Fried Egg
+Cheese
+Pizza
+Chocolate
+Popcorn
+Purified Meat
+Beef Jerky
+Vegetable Soup
+Pumpkin Soup
+Cactus Soup
+Fish Soup
+Unim Helmet
+Unim Chestplate
+Unim Leggings
+Unim Boots
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Ascabit Helmet
+Ascabit Chestplate
+Ascabit Leggings
+Ascabit Boots
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Tin Helmet
+Tin Chestplate
+Tin Leggings
+Tin Boots
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Titanium Helmet
+Titanium Chestplate
+Titanium Leggings
+Titanium Boots
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Flint Hatchet Head
+Flint Hatchet
+Stone Knife
+Iron Knife
+Diamond Knife
+Stone Sword Blade
+Stone Pickaxe Head
+Stone Axe Head
+Stone Spade Head
+Stone Hoe Head
+Unim Sword
+Unim Pickaxe
+Unim Axe
+Unim Spade
+Unim Hoe
+Unim Sword Blade
+Unim Pickaxe Head
+Unim Axe Head
+Unim Spade Head
+Unim Hoe Head
+Ruby Sword
+Ruby Pickaxe
+Ruby Axe
+Ruby Spade
+Ruby Hoe
+Ruby Sword Blade
+Ruby Pickaxe Head
+Ruby Axe Head
+Ruby Spade Head
+Ruby Hoe Head
+Ascabit Sword
+Ascabit Pickaxe
+Ascabit Axe
+Ascabit Spade
+Ascabit Hoe
+Ascabit Sword Blade
+Ascabit Pickaxe Head
+Ascabit Axe Head
+Ascabit Spade Head
+Ascabit Hoe Head
+Copper Sword
+Copper Pickaxe
+Copper Axe
+Copper Spade
+Copper Hoe
+Copper Sword Blade
+Copper Pickaxe Head
+Copper Axe Head
+Copper Spade Head
+Copper Hoe Head
+Tin Sword
+Tin Pickaxe
+Tin Axe
+Tin Spade
+Tin Hoe
+Tin Sword Blade
+Tin Pickaxe Head
+Tin Axe Head
+Tin Spade Head
+Tin Hoe Head
+Bronze Sword
+Bronze Pickaxe

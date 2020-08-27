@@ -1,0 +1,122 @@
+Diamond Drill
+Drill
+Chainsaw
+Diamond Chainsaw
+Onyx Axe
+Onyx Hoe
+Onyx Shovel
+Onyx Sword
+Onyx Pickaxe
+Amethyst Pickaxe
+Amethyst Sword 
+Amethyst Shovel
+Amethyst Axe
+Amethyst Hoe
+Zeux Axe
+Zeux Pickaxe
+Zeux Hoe
+Zeux Sword
+Zeux Shovel
+Khalzit Axe
+Khalzit Pickaxe
+Khalzit Hoe
+Khalzit Sword
+Khalzit Shovel
+Sphalzite Axe
+Sphalzite Pickaxe
+Sphalzite Hoe
+Sphalzite Shovel
+Sphalzite Sword
+Nether Sword
+Nether Shovel
+Nether Hoe
+Nether Axe
+Nether Pickaxe
+Bronze Sword
+Bronze Shovel
+Bronze Hoe
+Bronze Axe
+Bronze Pickaxe
+Khalzit Bar
+Khalzit Dust
+Onyx Bar
+Amethyst
+Sphalzite Bar
+Sphalzite Chunk
+Zeux Bar
+Zeux Dust
+Aluminum Bar
+Aluminum Can
+Nether Dust
+Nether Diamond
+Ocean Chunk
+Ocean Diamond
+Energy Crystal Mesh
+Energy Crystal
+Copper Coil
+Copper Bar
+Motor
+Tin Bar
+Bronze Bar
+Uranium
+Rubbery Ball
+Onyx Boots
+Onyx Chestplate
+Onyx Helmet
+Onyx Leggings
+Nether Boots
+Nether Chestplate
+Nether Helmet
+Nether Leggings
+Ocean Boots
+Ocean Chestplate
+Ocean Helmet
+Ocean Leggings
+Rubber Helmet
+Rubber Chestplate
+Rubber Leggings
+Rubber Boots
+Sugar Bread
+Pudding Bread
+Donut
+Pancake Batter
+Pancake
+Chocolate Apple
+Apple juice
+Canned Fish
+Canned Pork
+Canned Beef
+Khalzit Brick
+Khalzit Block
+Khalzit Light
+Onyx Block
+Onyx Brick
+Onyx Light
+Amethyst Block
+Amethyst Brick
+Amethyst Light
+Zeux Brick
+Zeux Block
+Zeux Light
+Sphalzite Block
+Sphalzite Brick
+Sphalzite Light
+Aluminum Block
+Aluminum Brick
+Aluminum Light
+Khalzit Ore
+Onyx Ore
+Amethyst Ore
+Sphalzite Ore
+ Zeux Ore
+Aluminum Ore
+Nether Ore
+Ocean Ore
+Copper Ore
+Tin Ore
+Uranium Ore
+Experience Ore
+Oily Stone
+Compressor
+Compressor
+Infinity Craft

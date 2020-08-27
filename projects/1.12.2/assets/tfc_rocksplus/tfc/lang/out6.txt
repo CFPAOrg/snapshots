@@ -1,0 +1,89 @@
+Travertine Sylvite
+Travertine Borax
+Travertine Olivine
+Travertine Lapis Lazuli
+Travertine Native Ardite
+Travertine Rutile
+Travertine Native Osmium
+Travertine Bauxite
+Travertine Wolframite
+Travertine Cobaltite
+Travertine Thorianite
+Travertine Chromite
+Travertine Pyrolusite
+Travertine Magnesite
+Travertine Spodumene
+Travertine Stibnite
+Travertine Mawsonite
+Travertine Beryl
+Travertine Zircon
+Travertine Villiaumite
+Travertine Rhodochrosite
+Travertine Fluorite
+Travertine Carobbiite
+Travertine Arsenic
+Travertine Spike 
+Travertine Button 
+Travertine Rock
+Travertine Brick
+Raw Travertine
+Smooth Travertine
+Travertine Cobble
+Travertine Bricks
+Travertine Sand
+Travertine Gravel
+Travertine Dirt
+Travertine Clay
+Travertine Grass
+Travertine Dry Grass
+Travertine Clay Grass
+Travertine Path
+Travertine FarmLand
+Smooth Travertine Stairs
+Travertine Cobble Stairs
+Travertine Bricks Stairs
+Smooth Travertine Slab
+Travertine Cobble Slab
+Travertine Bricks Slab
+Smooth Travertine Double Slab
+Cobble Travertine Double Slab
+Bricks Travertine Double Slab
+Smooth Travertine Wall
+Travertine Cobble Wall
+Travertine Bricks Wall
+Wackestone Native Copper
+Wackestone Native Gold
+Wackestone Native Platinum
+Wackestone Hematite
+Wackestone Native Silver
+Wackestone Cassiterite
+Wackestone Galena
+Wackestone Bismuthinite
+Wackestone Garnierite
+Wackestone Malachite
+Wackestone Magnetite
+Wackestone Limonite
+Wackestone Sphalerite
+Wackestone Tetrahedrite
+Wackestone Bituminous Coal
+Wackestone Lignite
+Wackestone Kaolinite
+Wackestone Gypsum
+Wackestone Satinspar
+Wackestone Selenite
+Wackestone Graphite
+Wackestone Kimberlite
+Wackestone Petrified Wood
+Wackestone Sulfur
+Wackestone Jet
+Wackestone Microcline
+Wackestone Pitchblende
+Wackestone Cinnabar
+Wackestone Cryolite
+Wackestone Saltpeter
+Wackestone Serpentine
+Wackestone Sylvite
+Wackestone Borax
+Wackestone Olivine
+Wackestone Lapis Lazuli
+Wackestone Native Ardite

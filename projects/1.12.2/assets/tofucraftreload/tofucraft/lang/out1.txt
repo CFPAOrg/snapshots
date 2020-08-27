@@ -1,0 +1,138 @@
+TofuIshi Torch
+TofuMetal Torch
+TofuZunda Torch
+%s Trapdoor
+%s Wall
+TofuIshi Brick
+TofuZunda Brick
+TofuZunda SmoothBrick
+NaturalTofu
+ZundaGrass
+Tofu Diamond Ore
+Tofu BedRock
+Tofu FarmLand
+Tofu Log
+Yuba Grass
+Yuba Noren
+TofuFlower
+Doubanjiang Barrel
+Tofu Machine Case
+Rice Crop
+Lit Saltfurnace
+TFBattery
+TFAntenna Basic
+Tofu WorkStation
+Tofu Compressor
+Tofu Aggregator
+Advanced Tofu Aggregator
+Tofu Force Collector
+Tofu Force Oven
+Tofu Force Crasher
+Soybeans
+Hell Soybeans
+Kinugoshi Tofu
+Momen Tofu
+Solid Tofu
+Metal Tofu
+Grilled Tofu
+Koya-Tofu
+Fried Tofu Pouch
+Fried Tofu
+Egg Tofu
+Annin-Tofu
+Sesame Tofu
+Zunda Tofu
+Strawberry Tofu
+Miso Tofu
+Hell Tofu
+Glowtofu
+Diamond Tofu
+Minced Tofu
+Soy Milk Bucket
+Hell Soy Milk Bucket
+Soy Sauce Bucket
+Salt
+Purification Salt
+Salty Melon
+Tasty Stew
+Tasty Beef Stew
+Bittern
+Tofu Cake
+Tofu Staff
+Kouji Base
+Kouji
+Boiled Hot Tofu
+Miso
+Triple Tofu Toast
+Morijio
+Tofu Bugle
+Miso Soup
+Tofu Dengaku
+Edamame Beans
+Zunda (Edamame Paste)
+Boiled Edamame
+Barrel
+Miso Barrel
+Bun with Zunda
+Soy Sauce Bottle
+Parched Soybeans
+Kinako
+Nikujaga Stew
+Defatting Potion
+Soup Stock
+Soybean Oil
+Fried Tofu Pouch with Soup
+Bun with Kinako
+Soy Milk
+Kinako Soy Milk
+Cocoa Soy Milk
+Zunda Soy Milk
+Apple Soy Milk
+Pumpkin Soy Milk
+Ramune Soy Milk
+Strawberry Soy Milk
+Sakura Soy Milk
+Annin Soy Milk
+Pudding Soy Milk
+Soy Milk Tea
+Koya-Tofu Boiled in Stock
+Koya-Tofu Stew
+Natto
+Natto Hiyayakko
+Apricot Seed
+Apricot
+Filter Cloth
+Okara
+Minced Potato
+Raw Starch
+Starch
+Apricot Seed Powder
+Leek
+Sesame
+Okara Stick
+Natto Rice
+Natto Rice with Leek
+Zundama
+Gelatin
+Gelatin Base
+Divine Beans
+Tofu Scoop
+Doubanjiang
+Strawberry Jam
+Tofu Slime Radar
+Yuba
+Miso Tofu Barrel
+Glowtofu Barrel
+Tofu Gem
+Diamond Tofu Nugget
+Tofu Hamburg (Raw)
+TF Capacitor
+Tofu Chikuwa
+Fried Tofu Slice
+Mapo Tofu
+Riceball
+Salty Riceball
+Roasted Miso Riceball
+Roasted Soy Riceball
+Sprout Saute
+Boiled Sprouts

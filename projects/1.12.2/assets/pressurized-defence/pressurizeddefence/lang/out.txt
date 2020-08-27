@@ -1,0 +1,14 @@
+Steam Boiler
+Turret
+Scalding Trap
+Pipe
+Blowback Cannon
+Turret Bullet
+Light Turret Bullet
+Heavy Turret Bullet
+Speed Upgrade
+Turret
+%1$s was fatally shot by a turret
+%1$s suffered severe burns from a scalding trap
+Pressurized Defence
+Steam: %1$s/%2$s

@@ -1,0 +1,4 @@
+tile.exp_bottling.exp_bottling_machine.name
+item.exp_bottling.bottled_exp.name
+item.exp_bottling.bottled_exp.tooltip.0
+container.exp_bottling.exp_bottling_machine

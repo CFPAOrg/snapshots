@@ -1,0 +1,97 @@
+$ Horizontal West
+$$ Orange Green East
+$$ Orange Green North
+$$ Orange Green South
+$$ Orange Green West
+$$$ Quartz East
+$$$ Quartz North
+$$$ Quartz South
+$$$ Quartz West
+$$$ Red Green East
+$$$ Red Green North
+$$$ Red Green South
+$$$ Red Green West
+$ Roof East
+$ Roof North
+$ Roof South
+$ Roof West
+$$$ Stone 1 East-West
+$$$ Stone 1 North-South
+$$$ Stone 2 East-West
+$$$ Stone 2 North-South
+$$$ Stone Corner North-East
+$$$ Stone Corner North-West
+$$$ Stone Corner South-East
+$$$ Stone Corner South-West
+$ Stone East
+Medium Density - Stone End North-East-West
+$$$ Stone End North-South-East
+$$$ Stone End North-South-West
+$$$ Stone End South-East-West
+$ Stone North
+$ Stone South
+$ Stone West
+$ Vertical East
+$ Vertical North
+$ Vertical South
+$ Vertical West
+$$ Yellow Red East
+$$ Yellow Red North
+$$ Yellow Red South
+$$ Yellow Red West
+Quartz East-West
+Quartz North-South
+Brick East
+Brick North
+Brick South
+Brick West
+Green East
+Green North
+Green South
+Green West
+Orange East
+Orange North
+Orange South
+Orange West
+Pink East
+Pink North
+Pink South
+Pink West
+Modern East
+Modern North
+Modern South
+Modern West
+Quartz East
+Quartz North
+Quartz South
+Quartz West
+Runway East-West - Building North
+Runway East-West - Building South
+Runway North-South - Building East
+Runway North-South - Building West
+Avenue 1 East-West
+Avenue 1 North-South
+Avenue 2 East-West
+Avenue 2 North-South
+Avenue E East
+Avenue E North
+Avenue E South
+Avenue E West
+Avenue L North-East
+Avenue L North-West
+Avenue L South-East
+Avenue L South-West
+Avenue T North-East-West
+Avenue T North-South-East
+Avenue T North-South-West
+Avenue T South-East-West
+Avenue X
+Bridge Avenue 1 East-West
+Bridge Avenue 1 North-South
+Bridge Avenue 2 North-South
+Bridge Avenue 2 East-West
+Bridge Avenue 3 East-West
+Bridge Avenue 3 North-South
+Bridge Avenue 4 East-West
+Bridge Avenue 4 North-South
+Bridge Avenue L North-East

@@ -1,0 +1,63 @@
+Trinkets
+Trinkets and Baubles
+ These are informational example text, they do not show up in game.
+ Tooltips for Items go up to 10
+ item.item.glow_ring.0.tooltip1, item.glow_ring.0.tooltip2, etc.
+ There are 3 Compatability Texts per Item, examples are
+ There are Color Codes that can be used to give the text below colors in game
+ Color Codes Start with Hashtag # and end with a Semi colon :, Example: #gold:, #darkgreen:, etc.
+ Colors... "black", "white", "red", "darkred", "blue", "darkblue", "green", "darkgreen", "lightpurple", "darkpurple", "yellow", "aqua", "darkaqua", "gray", "darkgray", "gold", "reset".
+ "strikethrough", "underline", "italic", "bold". Can also be used, Example: #strikethrough:, #bold:, etc.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<Hold Shift>
+<Hold Ctrl>
+This item doesn't give any attribute modifiers.
+While equipped:
+Attack Speed
+Attack Damage
+Health
+Armor
+Armor Toughness
+Knockback Resistance
+Movement Speed
+Swim Speed
+Step Height
+Jump Height
+#reset:(#green:On#reset:)
+#reset:(#red:Off#reset:)
+#reset:[#green:Enabled#reset:]
+#reset:[#red:Disabled#reset:]
+Trinkets and Baubles
+Cycle Target Treasure
+Toggle Night Vision
+Toggle Magnet
+Aux Key
+Trinkets Gui
+Open
+Close
+Enchanted Race
+Glowing Ingot
+Glowing Powder
+Glowing Gem
+Ring of Enchanted Eyes
+#darkgreen:Grants Night Vision
+%blindness:
+#gold:Immunity to Blindness
+Ring of the Fairies
+#gold:Reduces size to 1/4th of normal
+@creativeflight:
+#gold:Grants Creative flight
+Ring of the Dwarves
+#gold:Reduces size to 3/4th of normal
+@fortune:
+@skilledminer:
+@staticminer:
+#gold:Pseudo-Fortune
+#darkgreen:Skilled miner
+#darkgreen:Static mining speed
+Ring of the Titans
+#gold:Increases player size to 3x of normal
+Stone of Negative Gravity
+#darkgreen:Makes gravity not affect you when worn
+<#yellow:Left Click#reset:> to go #darkgreen:up
+<#yellow:Sneak#reset:> + <#yellow:Left Click#reset:> to go #darkgreen:down

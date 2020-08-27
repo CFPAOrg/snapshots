@@ -1,0 +1,10 @@
+item.experiencedigger.name
+item.gravel_pickaxe.name
+item.emeraldpickaxe.name
+item.andesitepickaxe.name
+item.sand_pickaxe.name
+item.coal_pickaxe.name
+item.glasspickaxe.name
+item.dirtpickaxe.name
+item.dioritepickaxe.name
+item.granitepickaxe.name

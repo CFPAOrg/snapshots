@@ -1,0 +1,4 @@
+tile.projecttable:project_table.name
+tile.projecttable:project_table.tooltip
+gui.projecttable:project_table.show_only_craftable
+gui.projecttable:project_table.tool_indicator

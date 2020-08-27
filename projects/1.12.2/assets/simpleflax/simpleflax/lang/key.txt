@@ -1,0 +1,3 @@
+tile.simpleflax.flax.name
+tile.simpleflax.wild_flax.name
+item.simpleflax.seeds.name

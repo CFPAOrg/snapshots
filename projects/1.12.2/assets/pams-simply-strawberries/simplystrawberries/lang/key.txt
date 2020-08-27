@@ -1,0 +1,6 @@
+itemGroup.simplystrawberries
+tile.simplystrawberries.strawberryCrop.name
+item.simplystrawberries.strawberryseeditem.name
+item.simplystrawberries.strawberryitem.name
+item.simplystrawberries.strawberrymilkshakeitem.name
+item.simplystrawberries.strawberrymelonsaladitem.name

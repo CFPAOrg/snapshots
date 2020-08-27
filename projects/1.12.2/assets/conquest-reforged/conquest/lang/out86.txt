@@ -1,0 +1,137 @@
+Slate
+Shale
+Copper Ore
+Tin Ore
+Serpentinite
+Smooth Limestone
+Natural Andesite
+Marble
+Rough Marble
+Uncut Marble
+Gneiss
+Andesite
+Weathered Andesite
+Eroded Gneiss
+Dark Rough Marble
+Rough Granite
+Smooth Red Granite
+Red Granite
+Gray and Pink Granite
+Basalt
+Gray Quartzite
+Pink Quartzite
+Weathered Granite
+Yellow Quartzite
+Spruce Chair
+Fancy Chair
+Small Bench
+Small Bench Half
+Wooden Pole
+Empty Small Rack
+Empty Rack
+Rack of Pitchforks, Scyths, and Flails
+Rack of Brooms, Pitchforks, and Shovels
+Rack of Sickles and Hatchets
+Rack of Muskets
+Rack of Halberds
+Rack of Pistols
+Rack of Crossbows
+Rack of Daggers
+Rack of Military Flails
+Rack of War Hammers
+Rack of Maces
+Rack of Axes
+Rack of Swords
+Grape Vine Sapling
+Birch Sapling
+Downy Willow Sapling
+Gorse Sapling
+Larch Sapling
+Horse Chestnut Sapling
+Mallorn Sapling
+Orange Tree Sapling
+Pear Tree Sapling
+Plum Tree Sapling
+Rowan Tree Sapling
+Willow Sapling
+Dark Oak Sapling
+Jungle Tree Sapling
+Alder Sapling
+Oak Sapling
+Spruce Sapling
+Pine Sapling
+Apple Tree Sapling
+Cherry Tree Sapling
+Acacia Sapling
+Aspen Sapling
+ Sapling
+Hand Cart
+White Cloud 0
+White Cloud 1
+White Cloud 2
+White Cloud 3
+White Cloud 4
+White Cloud 5
+White Cloud 6
+White Cloud 7
+White Cloud 8
+White Cloud 9
+White Cloud 10
+White Cloud 11
+White Cloud 12
+White Cloud 13
+White Cloud 14
+White Cloud 15
+Painting
+Painting Zero
+Painting One
+Painting Two
+Painting Three
+Painting Four
+Painting Five
+Painting Six
+Painting Seven
+Painting Eight
+Painting Nine
+Barley Seeds
+Wild Wheat Seeds
+Rice
+Corn
+Legume Seeds
+Beans
+Cabbage Seeds
+Turnip Seeds
+Tobacco Seeds
+Hemp Seeds
+Flax Seeds
+Merge Brush
+Replace Brush
+Barley
+Tobacco
+Hemp
+Flax
+Rowan Berries
+Holly Berries
+Cherries
+Orange
+Pear
+Plum
+Grapes
+Hawthorn Berries
+Beautyberries
+Raspberries
+Blackberries
+Bilberries
+Lingonberries
+Rice
+Corn
+Legumes
+Beans
+Cabbage
+Turnip
+Banana
+Onion
+Bottle of Wine
+Copper and Tin Ore
+Bronze Ingot
+Iron and Coal

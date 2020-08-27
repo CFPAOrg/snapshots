@@ -1,0 +1,24 @@
+Lantern Corps Universe
+Green Lantern Power Battery
+Green Lantern Ring
+Hal Jordan's Mask (Green Lantern)
+Hal Jordan's Chest (Green Lantern)
+Hal Jordan's Legs (Green Lantern)
+Hal Jordan's Boots (Green Lantern)
+Hal Jordan (Green Lantern)
+Green Lantern
+Aura
+Create a protective barrier on you to protect you from the lack of oxygen in space and allow you to fly.
+Projectiles
+Summon a projectile construct of your choosing
+Lantern Power
+The root ability of all other Lantern abilities
+Recharge Lantern
+Recharges Lantern Energy by activating the power battery.
+Requires %s Lantern Energy.
+Requires you to be looking at a block.
+Dinosaur
+Create a Triceratorps construct that will charge at mobs, pushing them back!
+Plane
+Create a plane construct to engulf your enemies in an explosion!
+Select a projectile

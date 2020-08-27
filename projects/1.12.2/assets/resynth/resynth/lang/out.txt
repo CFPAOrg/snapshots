@@ -1,0 +1,30 @@
+Tin Seeds
+Tin Plant
+Organic Tin Ore
+Silver Seeds
+Silver Plant
+Organic Silver Ore
+Lead Seeds
+Lead Plant
+Organic Lead Ore
+Aluminum Seeds
+Aluminum Plant
+Organic Aluminum Ore
+Nickel Seeds
+Nickel Plant
+Organic Nickel Ore
+Platinum Seeds
+Platinum Plant
+Organic Platinum Ore
+Iridium Seeds
+Iridium Plant
+Organic Iridium Ore
+Mana Infused Seeds
+Mana Infused Plant
+Organic Mana Infused Ore
+Yellorite Seeds
+Yellorite Plant
+Organic Yellorite Ore
+Draconium Seeds
+Draconium Plant
+Draconium Shard

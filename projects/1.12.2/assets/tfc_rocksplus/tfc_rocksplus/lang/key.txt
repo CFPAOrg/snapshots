@@ -1,0 +1,2 @@
+item.tfc_rocksplus.powder.uranium.name
+item.tfc_rocksplus.powder.manganese.name

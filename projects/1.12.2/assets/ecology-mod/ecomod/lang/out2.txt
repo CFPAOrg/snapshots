@@ -1,0 +1,45 @@
+Invalid MODE!!! It has to be ADD or REMOVE or SAVE or LOAD or GET.
+Invalid arguments! At least 1 has to be.
+Invalid arguments! For ADD mode there has to be exactly 5 arguments /TEPollutionConfig ADD [tileId] [air] [water] [soil]
+Unable to add TileEntity to TEPollutionConfig!
+Added to TEPollutionConfig: %s
+Invalid arguments! For REMOVE mode there has to be exactly 2 arguments /TEPollutionConfig REMOVE [tileId]
+Removed %s from TEPollutionConfig
+Attempted to remove %s from TEPollutionConfig but there is no such entry
+Loading TEPollutionConfig from the config file.
+Saving TEPollutionConfig to the config file
+Failed to save TEPollutionConfig!
+Invalid arguments! For GET mode there has to be exactly 2 arguments /TEPollutionConfig GET [tileId]
+Attempted to get %s from TEPollutionConfig but there is no such entry
+Not enough energy to work!
+The energy buffer must be filled completely!
+No data about this chunk was retrieved 
+by this analyzer yet! Analyze this chunk!
+Pollution Effects:
+Energy:
+Max Energy:
+Filling:
+Chunk Position:
+Chunk Pollution:
+Analyzed:
+Analyze Chunk
+Filter Capacity
+Insert a filter!
+Press SHIFT for more information
+These filters are used by Respirator
+Right Click '%s' with this item to make a corresponding machine
+[EcologyMod]Right Click 'Empty Machine Frame' with this item to make a Pollution Analyzer Computer Interface
+Sneak to view detailed pollution information.
+Working
+Not Working
+You are unable to eat or to drink while wearing a respirator!
+You are feeling ill. Perhaps the air is not clean enough.
+You've eaten polluted food!
+[EcologyMod]EcologyMod is not working correctly! During the loading ASM transformers had failed for the following classes: %s. Look for reasons in the log and try to fix them if possible or send your log to 
+Environmental Pollution
+Environmental Pollution
+Air
+Water
+Soil
+Air Filtration
+Manually Assembly

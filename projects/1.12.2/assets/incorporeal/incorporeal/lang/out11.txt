@@ -1,0 +1,13 @@
+Pops a &3Stack&0 off the &4stack&0 and pushes a &3Number&0 representing its depth.<br>(Recall that &3Stack&0 datatypes can be siphoned off of &1Master Cygnus Sparks&0 with a &1Cygnus Funnel&0, and manipulated as items!)
+Cygnus Crystal Cubes
+Predicates on the stack
+&1Cygnus Crystal Cubes&0 test some condition against a &4stack&0. They are used similar to a &1Cygnus Word&0 - place them down, attach them to a &4Cygnus Network&0 by placing a &1Cygnus Spark&0 on top, and program them with a &1Cygnus Crystal Cube Pattern&0. The result of the condition can be viewed with a &1Comparator&0 - 15 if true, 0 if false.
+&1Cygnus Crystal Cube Patterns&0 are not consumed when programming the &1Crystal Cube&0, and you can reprogram a &1Crystal Cube&0 as many times as you like. The empty &1Crystal Cube Pattern&0 is the only craftable one; the rest can be obtained by scrolling through them.<br>A list of &1Crystal Cube Patterns&0 and their effects is at the end of this entry.
+I felt the compression
+Always returns &3False&0 no matter what is going on on the &4Stack&0. This is the state &1Cygnus Crystal Cubes&0 come in when you place them.
+&3True&0 if the &4stack&0 contains no elements. &3False&0 otherwise.
+&3True&0 if the &4stack&0 contains sixteen elements (pushing another item onto the stack would delete the bottommost element). &3False&0 otherwise.
+&3True&0 if the top two items on the &4stack&0 have the same value, for some sense of that word dependent on the types of them. &3False&0 if the items are different or if the items have different types.
+&3True&0 if the top two items on the &4stack&0 have the same type. &3False&0 otherwise.
+&3True&0 if the top item on the &4stack&0 is smaller than the item underneath it. &3False&0 otherwise, including cases where the top two items are not comparable.
+&3True&0 if the top item on the &4stack&0 is larger than the item underneath it. &3False&0 otherwise, including cases where the top two items are not comparable.

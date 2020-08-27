@@ -1,0 +1,4 @@
+System Default
+Output: %s
+Choose the new output device
+Currently active: %s

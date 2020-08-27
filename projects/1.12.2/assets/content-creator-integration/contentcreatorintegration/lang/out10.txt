@@ -1,0 +1,35 @@
+List of events to attempt to trigger.
+Writes a note to file.
+Name of the note. If a note already exists by this name, it will be overwritten. You can use the note condition to see if the note exists first.
+Content of note.
+Add the content to the end of the simple note, or add a new element into the notes array?
+Do we put the note content into the notes array?
+Makes an entity mount another entity. Returns false if it failed.
+Target selector for the rider.
+Target selector for the entity to be ridden.
+Force the ride.
+Force the rider to ride the topmost entity on the entity to ride.
+Use this outcome for multiple outcomes. For times you want only a single outcome to be triggered but at the same time, multiple.
+List of outcomes
+Stop on the first outcome that succeeds?
+Use this outcome to call a constant outcome.
+Name of the constant outcome.
+Use this outcome to check for a specific condition before triggering.
+The condition to check.
+The outcome to trigger.
+An optional outcome to trigger if the condition isn't met.
+Use this outcome to send put a message in chat if the player is in the world.
+Message to send. Supports Minecraft's Text Formatting
+Put the message in the player's Action Bar instead?
+Use this outcome to send put a message in chat if the player is in the world.
+Title for the toast.
+Subtitle for the toast
+Color for the title. Supports hex values.
+Color for the subtitle. Supports hex values.
+An outcome that does nothing.
+Deletes info of a note. If the note is empty then it will be removed anyway.
+Name of the note.
+Content to remove from array. Only used if deletionType is 3.
+An outcome that repeatedly attempts an outcome.
+How many times to repeat the outcome? The iteration count is stored in the $iteCount variable.
+Variable to pull an array. If this is used, 'times' is ignored, and the array will be looped through instead. The array content being looped through will be put in the $arrayObject variable and removed once it is done. The iteration count is stored in the $iteCount variable.

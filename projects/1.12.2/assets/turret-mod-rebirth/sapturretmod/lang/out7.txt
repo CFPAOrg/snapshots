@@ -1,0 +1,77 @@
+Fuel Tank
+Used by the Flamethrower Turret. Flames have, like lasers, no knockback effect and are ineffective against fire-resistant targets (unless upgraded). They deal a hefty amount of damage and sets targets on fire for 5 seconds.\nLike the minigun cartridges, a tank provides 16 shots, due to the rapid firing rate of the turret.\n\nCan be packaged, whose items will provide 16x ammo.
+Info about this mod
+Turrets
+Ammunition
+Upgrades
+Miscellaneous
+About
+Health
+Range
+Ammo Capacity
+Ammo Useable
+Assembly Recipe
+Crafting Table Recipe
+Damage Per Projectile
+Turret Applicable
+Rounds Provided
+Upgrade Prerequisite
+%.1f HP
+%d Rounds
+%s Blocks
+%.2fx efficiency
+decays in %s
+Name:
+Version:
+Author:
+Credits:
+Health: %s
+Ammo: %s
+Target: %s
+Pers. Shield: %s
+Pers. Shield: Recovering %s
+Shield: %s
+Shield: Recovering %s
+Turret Info
+Entity Target Settings
+Player Target Settings
+Smart Target Settings
+Upgrades
+Dismantle Turret
+Activate Turret
+Deactivate Turret
+Show Range
+Hide Range
+Select All
+Deselect All
+Select Monster
+Select Animals
+Select Other
+Whitelist Mode
+Blacklist Mode
+Eject All Upgrades
+Ignore other turrets
+Ignore entities targeted\nby turrets of the same type
+Ignore entities targeted\nby turrets of all types
+Target all tamed creatures
+Only target tamed creatures\nfrom targeted players
+Don't target tamed creatures
+Target children and adults
+Target only children
+Target only adults
+Ignore entity count
+Don't target anything if global\nentity amount is less than...
+Don't target anything if global\nentity amount is greater than...
+Don't target entities of the\nsame type if amount of\nthat type is less than...
+Don't target entities of the\nsame type if amount of\nthat type is greater than...
+You need a chest in your inventory to dismantle!
+Turret Awareness
+Tamed Awareness
+Age Awareness
+Count Awareness
+Cancel
+Automate
+Manual
+Crafting:
+using %d RF/t
+Effectiveness:

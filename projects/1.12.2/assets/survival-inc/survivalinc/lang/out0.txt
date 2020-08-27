@@ -1,0 +1,42 @@
+Melting Snow
+Melting Ice
+Water Canteen
+Feather Fan
+Towel
+Survival Inc.
+%1$s's organs have died desperately searching for a molecule of water
+%1$s has standed by their bonfire a little too long
+%1$s forgot to pack a bunch of clothing
+Creepy Static Noise
+Client
+Client-Only Settings
+Bar Transparency
+The transparency of the HUD
+HUD Position
+The position of the HUD, represented by an expression. The expression can use mathematical symbols, as well as 2 defined variables: $w and $h, representing scaled width and height respectively.
+Autumn Foliage Color
+The color multiplier applied to each RGB component of the original foliage color during autumn
+Heat
+Settings regarding Body Heat mechanics
+Enable Heat
+Determines if the heat mechanics should take part in the game.
+Block Scan Range
+The maximum distance to detect heat emmiting blocks from
+Cave Temperature
+The ambient temperature of caves
+Distribution Vector
+The conductivity distribution vector. Describes how much conductivity each armor piece contributes to the total.
+Proximity Scaling
+A value indicating the smoothness of radiant heat transition.
+Temperature Coefficient
+The number used to convert biome temperatures to Survival Inc scale. Commonly used value is the Schoperation's constant (78.0)
+Wetness Multiplier
+The multiplier applied to the wetness fraction used to calculate heat exchange modifier.
+Heat Exchange Factor
+How quickly you can heat up when you are in the desert? (units/tick)
+Block Heat Map
+A list of block registry names and their radiant heat, separated by a single space character.
+Armor Conductivity
+The conductivity of individual armor materials. Each entry contains name of armor material (enum), and their associated conductivity multiplier.
+Fire Duration
+When the player passes certain temperature, they catch on fire. Fire duration is the additional time in seconds this fire lasts after returning to normal. Setting this to 0 disables catching on fire, and uses Hyperthermia damage instead.

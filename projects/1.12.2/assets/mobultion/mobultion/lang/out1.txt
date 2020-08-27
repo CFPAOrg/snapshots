@@ -1,0 +1,14 @@
+This item will decrease eating time by half if held in the offHand while eating. Has 100 durability.
+An enderpearl that is almost twice as fast but greatly less accurate and will cause 3 hearts of damage instead of 2.5.
+An enderpearl that is 20% slower but greatly more accurate and will cause no damage.
+An enderpearl that is 10% faster with a little bit better accuracy, causes normal enderpearl damage and has a 50% (configurable) chance to break instead of teleporting. Will cause thorns damage to the hit entity on impact.
+A proof of power over the vampires that can be crushed to one single bonemeal (why would you do that). Can be crafted with three strings to make a Fang necklace.
+The fang necklace is a bauble (if baubles is present) that once has 5 fangs will give permanent night vision if worn (or put in the off hand or selected if baubles is not present).
+A cursed fire sword that will abide the owner's orders as long as the player take care of it. Once under 230 durability will try to burn the owner or damage itself. Will create lava if the player killed a magma zombie with it(configurable).
+A bow from the master snipers of the forest. Has better accuracy and speed than other bows(maybe).
+A tool with no current usefulness right now.
+Congrats, you are looking at the most useless item yet it took a full day to model. Good job me. However due to a lot of time on hand this hat can be brewed to a jokerness potion.
+A wand that can only be used by the shamans, since you are not a shaman you can use it for up to 6 times to heal 2 hearts with a cool down of course.
+A health pack directly from that first aid kit that expired 20 years ago. However you can still use it to heal 2 hearts up to 3 times with cool down of course.
+An arrow with barely any damage that will affect the hit entity with Jokerness effect.
+A shard that dropped with the angel spider directly from heaven that can heal corruption and give one golden heart upon eating it.

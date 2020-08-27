@@ -1,0 +1,7 @@
+item.mining_dimension.dimensionalteleporter
+biome.mining_dimension.mining
+item.mining_dimension.miningdimension
+tile.stonesmoothbrick.name
+item.dimensionalteleporter.name
+item.miningdimension.name
+item.miningdimensionportaligniter.name

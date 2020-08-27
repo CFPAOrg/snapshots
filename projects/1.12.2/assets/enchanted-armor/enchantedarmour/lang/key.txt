@@ -1,0 +1,8 @@
+item.fireproof_helmet.name
+item.fireproof_chestplate.name
+item.fireproof_leggings.name
+item.fireproof_boots.name
+item.water_helmet.name
+item.water_chestplate.name
+item.water_leggings.name
+item.water_boots.name

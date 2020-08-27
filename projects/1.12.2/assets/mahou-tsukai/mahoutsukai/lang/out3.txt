@@ -1,0 +1,42 @@
+This is the range of the boundary
+Tangible Boundary Operation Cycle (in Ticks)
+This is how often the boundary does it's thing
+Ascension Operation Cycle (in Ticks)
+This is how often the circle checks for things to teleport
+Ascension Mana Cost Per Teleport
+This is the cost of using the scroll (also the cost per teleport if not a scroll)
+Equivalent Displacement Operation Cycle (in Ticks)
+This is how often the circle checks for things to teleport
+Equivalent Displacement Cooldown (in Ticks)
+This is the cooldown between teleports (so you don't get shot back and forth rapidly)
+Equivalent Displacement Mana Cost Per Teleport
+This is the cost per teleport
+Mental Displacement Mana Cost
+This is the cost of using the scroll
+Mental Displacement Range from Starting Point
+This is how far you can go before being sent back to your body
+Projectile Displacement Mana Cost
+This is the cost of using the scroll
+Ordered Displacement Operation Cycle (in Ticks)
+This is how often the circle checks for things to teleport
+Ordered Displacement Cooldown (in Ticks)
+This is the cooldown between teleports (so you don't get shot back and forth rapidly)
+Ordered Displacement Mana Cost Per Teleport
+This is the cost per teleport
+Ordered Displacement Radius for Nearby Circles
+This is the max distance between ordered displacement circles.
+Protective Displacement Mana Cost
+This is the cost of using the scroll
+Scrying Mana Cost
+This is the cost per name tag
+Scrying Duration
+This is how long (in ticks) before a single name tag use runs out
+Scrying Block Cycle
+This is how often a Scrying tile entity will send updates
+Bow of Weapon Projectiles Summon Mana Cost
+This is the cost of using the scroll
+Treasury Projection Scroll Mana Cost
+This is the cost of using the scroll
+Treasury Projection Gauntlet Mana Cost
+This is the cost per projectile when using the gauntlet
+Treasury Projection Cooldown

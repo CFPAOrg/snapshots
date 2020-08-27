@@ -1,0 +1,44 @@
+Because of harsh environmental conditions animals can spawn no more here.
+Because soil is oversaturated with poisonous substances fertilizers do not have an effect.
+Crops can grow no more here, but you still can fertilize them with bonemeal unless you have a bonemeal restricting effect.
+Ecology Mod
+You notice that something is wrong with the environment.
+Environmental Disaster
+Have more than 1000000 pollution of each type!
+Bitterly-Sweet Dreams
+Get sick after sleeping in polluted air
+The Next Morning
+Get poisoned after sleeping in polluted air
+Breathe Deeper
+Breathe the Smog
+It Is Raining... Acid!
+Be Caught In The Acid Rain
+Lucky Fishing!
+Try Fishing In A Fishless Water
+Yummy!
+Eat Polluted Food
+Eat Me!
+Eat Very Polluted Food
+No Fertilizers!
+Use Bonemeal... And Realize That It's Impossible Due To Pollution!
+The Basis
+Craft Basic Machine Frame
+Worth It?
+Craft Advanced Machine Frame
+Air Treatment
+Craft Filter Core(To make a corresponding machine click on a machine frame)
+It Is A Thing!
+Craft Advanced Filter Core(To make a corresponding machine click on a machine frame)
+Forewarned Is Forearmed!
+Craft Analyzer Core(To make a machine click on a machine frame)
+True Stalking Experience!
+Craft A Respirator
+WorldProcessingThread for dimension %s was not found!
+/getTileEntityID [x] [y] [z] (coords are optional) - gets ID of a TileEntity at the defined pos or just beneath the sender and puts it to the clipboard
+TileEntity not found at %s!
+/loadPollutionManager {dimension} - load the dimension's PollutionManager from its default file
+Forced loading of a PollutionManager for dimension %s failed!
+/savePollutionManager {dimension} - save the dimension's pollution manager to its default file
+Saving of a PollutionManager for dimension %s failed!
+/clearPollutionManager {dimension} - clear the dimension's pollution manager
+/TEPollutionConfig [ADD|REMOVE|SAVE|LOAD|GET] [tileId] ([air] [water] [soil])

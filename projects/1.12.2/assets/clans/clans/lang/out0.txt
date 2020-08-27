@@ -1,0 +1,54 @@
+This is a new clan.
+Internal Error: Clan economy account not found. Server owners, please report this.
+Internal Error: Player economy account not found. Server owners, please report this.
+Internal Error: The server was null! Server owners, please report this.
+/clan [clan] <command> [parameters]
+/opclan <command> [parameters]
+/raid <command> [parameters]
+Raiding is disabled on this server.
+/clan help [page|subcommand]
+The clan help command.
+/opclan help [page|subcommand]
+The opclan help command.
+/raid help [page|subcommand]
+The raid help command.
+You must be a player to do this.
+You are not in %s.
+The clan %s was not found.
+The player %s was not found.
+You do not have enough funds to do this.
+%s does not have enough funds to do this.
+You are not a leader of %s.
+You are not an admin of %s.
+The player %s is not in %s.
+You cannot use %s on %s because it is a server clan.
+%s could not be identified as a boolean.
+The block you are looking at is not locked.
+The lock type '%s' is invalid.
+The chunk you are standing in is not claimed by %s.
+%s: %s
+Invalid help parameter: %s. Please enter a page number or subcommand.
+/clan banner
+Turn the banner you are holding into the clan banner.
+%s does not have a banner.
+You are not holding a banner.
+/clan clanchat
+Toggle if you are talking in clan chat.
+/clan details [clan]
+View details about a clan.
+You are not in a clan. Use %s to get the details of another clan.
+You must specify a clan when viewing details from console. Use %s to get the details of a clan.
+Target clan %s was not found.
+Clan name: %s
+Clan description: %s
+Number of claims: %s
+Number of members: %s
+Members:
+Leader %s (WLR %s, last seen %s)
+Admin %s (WLR %s, last seen %s)
+%s (WLR %s, last seen %s)
+%s has no members.
+Clan Upkeep (expenses) is %s every %s days.
+Clan Rent (income) is %s every %s days.
+Individual rent is %s every %s days.
+Approximate financial trend is %s every day.

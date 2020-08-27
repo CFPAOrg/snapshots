@@ -1,0 +1,68 @@
+Top Right
+Top Left
+Buttom Right
+Buttom Left
+Hidden
+Show Miner Rank
+Whether to show the miner rank along with mining points.
+Always Show Miner Status
+Whether to always show the miner status.
+Hunting Point Position
+Specify the display position of hunting point.
+Top Right
+Top Left
+Buttom Right
+Buttom Left
+Hidden
+Show Hunter Rank
+Whether to show the hunter rank along with hunting points.
+Magician Point Position
+Specify the display position of magician point.
+Top Right
+Top Left
+Buttom Right
+Buttom Left
+Hidden
+Show Magician Rank
+Whether to show the magician rank along with magician points.
+Slippery Ice Custom Color
+Whether to enable custom color for Slippery Ice.
+Mining Points Customize
+Mining Point
+Specify the mining point for the block.
+Mining Assist Settings
+Change the settings contained in mining-assist.cfg
+Effective Items
+Specify the effective items for Mining Assist. (Or Automatically decide if not specified)
+Miner Rank
+Specify the miner rank required for Mining Assist.
+Beginner
+Stone Miner
+Iron Miner
+Magnite Miner
+Gold Miner
+Aqua Miner
+Hexcite Miner
+Diamond Miner
+Collect Drops
+Whether to collect the drops.
+Collect Experiences
+Whether to collect the experiences.
+Quick Target Blocks
+Specify the target blocks for Quick Mining. (Or Automatically decide if not specified)
+Ranged Target Blocks
+Specify the target blocks for Ranged Mining. (Or Automatically decide if not specified)
+Adit Target Blocks
+Specify the target blocks for Adit Mining. (Or Automatically decide if not specified)
+Quick Mining Limit
+Specify the upper limit of Quick Mining.
+Ranged Mining
+Specify the range of Ranged Mining.
+Modified Hardness
+Whether to enable the modified block hardness for Mining Assist.
+Mining Assist Notify
+Whether to notify the state of Mining Assist when logging in to the world.
+Dimension Settings
+Change the settings for cave dimensions
+Cavern
+Change the settings contained in cavern-dimension.cfg

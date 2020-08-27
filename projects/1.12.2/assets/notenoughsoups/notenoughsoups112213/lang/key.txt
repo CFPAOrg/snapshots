@@ -1,0 +1,12 @@
+item.egyszeruleves.name
+item.glowstonesoup.name
+itemGroup.tabnotenoughtsouptab
+item.carrotsoup.name
+item.potatosoup.name
+item.simplesoup.name
+itemGroup.tabnotenoughtsoupstab
+item.salt.name
+tile.saltore.name
+item.stonesoup.name
+item.goldenapplesoup.name
+item.dogsoup.name

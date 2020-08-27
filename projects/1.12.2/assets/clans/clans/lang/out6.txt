@@ -1,0 +1,24 @@
+This block is already locked by %s.
+You cannot lock that. If you believe this is in error, please contact your server's administrator.
+You are not looking at a block or are too far from the block to lock it.
+The block you are looking at is not claimed by %s.
+You have successfully locked the block you are looking at.
+%s does not allow you to use lock type %s.
+/clan lockchunk [private|clan|open]
+Locks all unlocked lockable blocks in the chunk. Modes: private(default): private to the player who locked it; clan: accessible to the whole clan; open: accessible to anyone, even players who are not in the clan
+You have successfully locked all lockable blocks in the chunk.
+/clan unlock
+Unlocks the block you are looking at. Only the player who locked it or players with "lockadmin" clan permission can do this.
+You cannot unlock this block because it is locked by %s.
+You are not looking at a block or are too far from the block to unlock it.
+You have successfully unlocked the block you are looking at.
+/clan unlockchunk [player|all]
+Unlocks all your locked blocks in the chunk. Only players with "lockadmin" clan permission can use the player|all option, setting a player clears locks by the specified player, saying all clears all locks.
+You have successfully unlocked all of your locked blocks in the chunk.
+You have successfully unlocked all of %s's locked blocks in the chunk.
+You have successfully unlocked all locked blocks in the chunk.
+You do not have permission to unlock other players' blocks in this clan.
+/clan grantaccess <player>
+Grants a player access to the locked block you are looking at. You can only grant access to blocks if you are the player who locked it or have the "lockadmin" clan permission.
+You cannot grant access to this block because it is locked by %s.
+You are not looking at a block or are too far from the block to grant access to it.

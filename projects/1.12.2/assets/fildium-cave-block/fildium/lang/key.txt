@@ -1,0 +1,12 @@
+item.balflid.name
+item.helmetfboots.name
+item.helmetflegs.name
+item.epefild.name
+item.ingotfildium.name
+tile.fildiumore.name
+item.helmetfbody.name
+itemGroup.tabfildiummenu
+tile.caveblock.name
+item.helmetfhelmet.name
+tile.fildiumblock.name
+item.inbotfil.name

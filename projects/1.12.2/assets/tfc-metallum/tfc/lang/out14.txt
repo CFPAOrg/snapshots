@@ -1,0 +1,103 @@
+Knife Osmium
+Osmium Knife Blade
+Knife Blade Osmium
+Osmium Scythe
+Scythe Osmium
+Osmium Scythe Blade
+Scythe Blade Osmium
+Osmium Shears
+Shears Osmium
+Osmium Unfinished Chestplate
+Unfinished Chestplate Osmium
+Osmium Chestplate
+Chestplate Osmium
+Osmium Unfinished Greaves
+Unfinished Greaves Osmium
+Osmium Greaves
+Greaves Osmium
+Osmium Unfinished Boots
+Unfinished Boots Osmium
+Osmium Boots
+Boots Osmium
+Osmium Unfinished Helmet
+Unfinished Helmet Osmium
+Osmium Helmet
+Helmet Osmium
+Osmium Shield
+Molten Titanium
+Titanium Ingot
+Unshaped Titanium
+Titanium Double Ingot
+Double Ingot Titanium
+Titanium Scrap
+Scrap Titanium
+Titanium Dust
+Dust Titanium
+Titanium Nugget
+Nugget Titanium
+Titanium Sheet
+Sheet Titanium
+Titanium Double Sheet
+Double Sheet Titanium
+Titanium Anvil
+Anvil Titanium
+Titanium Tuyere
+Tuyere Titanium
+Titanium Lamp
+%s Titanium Lamp
+Lamp Titanium
+Titanium Pickaxe
+Pick Titanium
+Titanium Pickaxe Head
+Pick Head Titanium
+Titanium Shovel
+Shovel Titanium
+Titanium Shovel Head
+Shovel Head Titanium
+Titanium Axe
+Axe Titanium
+Titanium Axe Head
+Axe Head Titanium
+Titanium Hoe
+Hoe Titanium
+Titanium Hoe Head
+Hoe Head Titanium
+Titanium Chisel
+Chisel Titanium
+Titanium Chisel Head
+Chisel Head Titanium
+Titanium Sword
+Sword Titanium
+Titanium Sword Blade
+Sword Blade Titanium
+Titanium Mace
+Mace Titanium
+Titanium Mace Head
+Mace Head Titanium
+Titanium Saw
+Saw Titanium
+Titanium Saw Blade
+Saw Blade Titanium
+Titanium Javelin
+Javelin Titanium
+Titanium Javelin Head
+Javelin Head Titanium
+Titanium Hammer
+Hammer Titanium
+Titanium Hammer Head
+Hammer Head Titanium
+Titanium Prospector's Pickaxe
+Propick Titanium
+Titanium Prospector's Pickaxe Head
+Propick Head Titanium
+Titanium Knife
+Knife Titanium
+Titanium Knife Blade
+Knife Blade Titanium
+Titanium Scythe
+Scythe Titanium
+Titanium Scythe Blade
+Scythe Blade Titanium
+Titanium Shears
+Shears Titanium
+Titanium Unfinished Chestplate

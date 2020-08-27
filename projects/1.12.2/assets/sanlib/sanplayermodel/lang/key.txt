@@ -1,0 +1,4 @@
+key.sapmanpack.updateKey
+key.categories.sapmanpack
+commands.sanlibc.usage
+commands.sanlibc.reloadModels

@@ -1,0 +1,83 @@
+Replenishes %s Arcana
+%s Melee Damage
+%s Ranged Damage
+%s Ranged and Melee Damage
+%s Arcana Damage
+%s%% Damage Reduction (%s%% Full)
+Ammo: %s
+Infinite Ammo
+Explosive Projectiles
+Homing Projectiles
+Full Set Perks: 
+No Protection
+Vethean
+Efficiency: %s
+Cannot Block
+Poisons mobs for %s seconds
+Burns mobs for %s seconds
+Slows mobs for %s seconds
+Lauches you into the air
+Does not prevent fall damage
+Pulls mobs toward you
+Slows mobs for 5 seconds
+This item can only be used in Mortum.
+Gives Speed and Water Breathing for 30 seconds.
+Poisons Enemies
+Teleport to bed or spawn point
+Shoots Lightning
+Gives the user regeneration
+Heals the user
+Poisons enemies for 2 seconds
+Returns to sender
+This item is not yet complete
+On use: Teleports the player
+Bouncing Projectile
+Deals 20 Damage to Player
+Projectile splits into 5 on impact
+Spawns a friendly Wraith
+13 Attack Damage
+20 Health
+Despawns after a short time
+Casts light when thrown
+Drops an explosive meteor from the sky
+Knocks mobs away
+Speeds up player when used
+Use on arcanite dirt to purify.
+Spawns a pet Fyracryx
+Spawns a pet Seimer
+Spawns a pet Golem Of Rejuvenation
+Spawns a pet Paratiku
+Spawns a pet Ehu
+Spawns a pet Husk
+Spawns a pet Stone Golem
+Spawns a pet Smelter
+Spawns a pet Snapper
+Spawns a pet White Grizzle
+Spawns a pet Brown Grizzle
+Single Use
+Blasts open blocked doors in the Dungeon of Arcana
+Explosive homing projectile
+Drops a star from the sky
+Drops several stars from the sky
+Dimension: %s
+Harvest level: %s
+Fire Protection
+No Fall Damage
+Flight
+%sx Movement Speed
++%s Melee Damage
++%s%% Ranged Damage
+Refills Hunger
+%s%% Damage Reduction
+%sx Jump Height
++%s Twilight Ore Drops
+Health Regeneration
+Health Regenerates Underwater
+Block Damage Protection
+Night Vision
+Explosion Protection
+%s%% Ranged Damage Protection
+%s%% Melee Damage Protection
++%s%% Arcana Damage Protection
+Breathe Underwater
+%sx Scythe Damage

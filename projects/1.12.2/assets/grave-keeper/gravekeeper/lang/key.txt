@@ -1,0 +1,14 @@
+tile.gravekeeper.death_chest.name
+item.gravekeeper.death_certificate.name
+gravekeeper.command.list_header
+gravekeeper.command.restored_sender
+gravekeeper.command.restored_target
+gravekeeper.chat.grave_placed
+gravekeeper.chat.world_xyz
+gravekeeper.chat.inspect.elapsed_yours
+gravekeeper.chat.inspect.delayed_yours
+gravekeeper.chat.inspect.guarded_yours
+gravekeeper.chat.inspect.elapsed_other
+gravekeeper.chat.inspect.delayed_other
+gravekeeper.chat.inspect.guarded_other
+gravekeeper.chat.inspect.survival_required

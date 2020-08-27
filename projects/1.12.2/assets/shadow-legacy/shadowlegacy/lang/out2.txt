@@ -1,0 +1,108 @@
+Complex Amplification Rod
+Infused Amplification Rod
+Iron-Capped Simple Staff
+Gold-Capped Simple Staff
+Mana-Capped Simple Staff
+Iron-Capped Complex Staff
+Gold-Capped Complex Staff
+Mana-Capped Complex Staff
+Iron-Capped Infused Staff
+Gold-Capped Infused Staff
+Mana-Capped Infused Staff
+Iron-Capped Simple Staff
+Gold-Capped Simple Staff
+Mana-Capped Simple Staff
+Iron-Capped Complex Staff
+Gold-Capped Complex Staff
+Mana-Capped Complex Staff
+Iron-Capped Infused Staff
+Gold-Capped Infused Staff
+Mana-Capped Infused Staff
+Iron-Capped Simple Wand
+Gold-Capped Simple Wand
+Mana-Capped Simple Wand
+Iron-Capped Complex Wand
+Gold-Capped Complex Wand
+Mana-Capped Complex Wand
+Iron-Capped Infused Wand
+Gold-Capped Infused Wand
+Mana-Capped Infused Wand
+Iron-Capped Simple Wand
+Gold-Capped Simple Wand
+Mana-Capped Simple Wand
+Iron-Capped Complex Wand
+Gold-Capped Complex Wand
+Mana-Capped Complex Wand
+Iron-Capped Infused Wand
+Gold-Capped Infused Wand
+Mana-Capped Infused Wand
+§aEmerald Tablet
+§dMonutan's Stone
+Focusing Crystal
+Arcane Runestone
+Crystal Runestone
+Mirror
+Splitter
+Beam Emitter
+Beam Collector
+Dual Mirror
+Beam Blocker
+Glowing Anomaly
+Lordic Stone
+Crystal Block
+Spell Workbench
+Mana-Infused Metal Block
+Imbued Inscription Tile
+Arcane Bow
+Void Crystal
+Crystal
+Iron
+Copper
+Gold
+Tin
+Silver
+Lead
+Aluminum
+Zinc
+Nickel
+Titanium
+Osmium
+Platinum
+Arcane Forge
+Arcane Furnace
+Completed
+Locked
+Missing Required Research
+Obtainable
+§BNew Research Unlocked!
+§2Bius
+§5Alcheu
+§EElemthe
+§3Ceruke
+Basics
+Dusts
+Crystals
+Arcane Chalk
+Ritual Circles
+Crystal Tools
+Arcane Basin
+Celestial Reflection
+Arcane Plates
+Elemental Tools
+Basin Crafting
+Water Artifacts
+Earth Artifacts
+Fire Artifacts
+Air Artifacts
+Light Artifacts
+Dark Artifacts
+Block Transmutation
+Casting Staves
+Improved Staff Rods
+Ultimate Staff Rods
+Improved Staff Caps
+Ultimate Staff Caps
+Improved Chalk
+Casting Wands
+Rune Casting
+Advanced Runestones

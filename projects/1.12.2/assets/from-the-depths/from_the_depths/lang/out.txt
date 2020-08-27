@@ -1,0 +1,43 @@
+Chicken Coop
+Totem of Summoning
+Totem of Summoning
+Double Compressed Stone
+Granite Slab
+Altar of Summoning
+General
+Config
+Oak
+Spruce
+Birch
+Jungle
+Acacia
+Dark Oak
+Structure Facing
+Glass Color
+Note: If you're facing north, choose south so the structure is facing you.
+Cannot build structure due to protected blocks/area.
+Build!
+Cancel
+Preview!
+Structure Complete!
+Right-click on any block in the world to remove the preview.
+North
+East
+South
+West
+White
+Orange
+Magenta
+Light Blue
+Yellow
+Lime
+Pink
+Gray
+Silver
+Cyan
+Purple
+Blue
+Brown
+Green
+Red
+Black

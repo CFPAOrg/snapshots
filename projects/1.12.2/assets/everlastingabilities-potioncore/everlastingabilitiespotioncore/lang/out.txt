@@ -1,0 +1,23 @@
+Max corrosion level
+Rarity of corrosion
+Xp required per corrosion level
+Max disorganization level
+Rarity of disorganization
+Xp required per disorganization level
+Max perplexity level
+Rarity of perplexity
+Xp required per perplexity level
+Max curse level
+Rarity of curse
+Xp required per curse level
+Max dispel level
+Rarity of dispel
+Xp required per dispel level
+Ability totem in lootchests
+Send anonymous analytics
+Anonymous id
+Crash on invalid Recipe
+Crash on Compatibility issue
+Develop mode
+Version
+Version check

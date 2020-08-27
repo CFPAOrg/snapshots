@@ -1,0 +1,7 @@
+item.highly_advanced_alloy_plate.name
+item.silver_infused_steel_ingot.name
+item.silver_infused_steel_plate.name
+item.dense_silver_infused_steel_plate.name
+tile.silver_infused_steel_block.name
+tile.silver_infused_steel_machine.name
+tile.advanced_silver_infused_steel_machine.name

@@ -1,0 +1,106 @@
+Diorite Tetrahedrite
+Diorite Bituminous Coal
+Diorite Lignite
+Diorite Kaolinite
+Diorite Gypsum
+Diorite Satinspar
+Diorite Selenite
+Diorite Graphite
+Diorite Kimberlite
+Diorite Petrified Wood
+Diorite Sulfur
+Diorite Jet
+Diorite Microcline
+Diorite Pitchblende
+Diorite Cinnabar
+Diorite Cryolite
+Diorite Saltpeter
+Diorite Serpentine
+Diorite Sylvite
+Diorite Borax
+Diorite Olivine
+Diorite Lapis Lazuli
+Gabbro Native Copper
+Gabbro Native Gold
+Gabbro Native Platinum
+Gabbro Hematite
+Gabbro Native Silver
+Gabbro Cassiterite
+Gabbro Galena
+Gabbro Bismuthinite
+Gabbro Garnierite
+Gabbro Malachite
+Gabbro Magnetite
+Gabbro Limonite
+Gabbro Sphalerite
+Gabbro Tetrahedrite
+Gabbro Bituminous Coal
+Gabbro Lignite
+Gabbro Kaolinite
+Gabbro Gypsum
+Gabbro Satinspar
+Gabbro Selenite
+Gabbro Graphite
+Gabbro Kimberlite
+Gabbro Petrified Wood
+Gabbro Sulfur
+Gabbro Jet
+Gabbro Microcline
+Gabbro Pitchblende
+Gabbro Cinnabar
+Gabbro Cryolite
+Gabbro Saltpeter
+Gabbro Serpentine
+Gabbro Sylvite
+Gabbro Borax
+Gabbro Olivine
+Gabbro Lapis Lazuli
+Shale Native Copper
+Shale Native Gold
+Shale Native Platinum
+Shale Hematite
+Shale Native Silver
+Shale Cassiterite
+Shale Galena
+Shale Bismuthinite
+Shale Garnierite
+Shale Malachite
+Shale Magnetite
+Shale Limonite
+Shale Sphalerite
+Shale Tetrahedrite
+Shale Bituminous Coal
+Shale Lignite
+Shale Kaolinite
+Shale Gypsum
+Shale Satinspar
+Shale Selenite
+Shale Graphite
+Shale Kimberlite
+Shale Petrified Wood
+Shale Sulfur
+Shale Jet
+Shale Microcline
+Shale Pitchblende
+Shale Cinnabar
+Shale Cryolite
+Shale Saltpeter
+Shale Serpentine
+Shale Sylvite
+Shale Borax
+Shale Olivine
+Shale Lapis Lazuli
+Claystone Native Copper
+Claystone Native Gold
+Claystone Native Platinum
+Claystone Hematite
+Claystone Native Silver
+Claystone Cassiterite
+Claystone Galena
+Claystone Bismuthinite
+Claystone Garnierite
+Claystone Malachite
+Claystone Magnetite
+Claystone Limonite
+Claystone Sphalerite
+Claystone Tetrahedrite

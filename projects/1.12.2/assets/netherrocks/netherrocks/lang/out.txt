@@ -1,0 +1,6 @@
+§aSet Bonus: No fall damage.
+§aAuto smelts when mining.
+§aInstant charcoal while felling trees.
+§aInstant glass when digging up sand.
+§aHarnesses the power of fire.
+§aGrants night vision on hit. Blinds and slows target.

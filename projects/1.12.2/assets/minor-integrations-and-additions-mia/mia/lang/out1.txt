@@ -1,0 +1,64 @@
+Enable Thermal Foundation additions
+Enable Extra Utilities 2 additions
+Enable Hatchery additions
+Enable Thaumcraft additions
+Enable Mo' Creatures additions
+Enable Dungeon Tactics additions
+Enable Quark additions
+Enable Natura additions
+Enable Biomes O' Plenty additions
+Enable Botania additions
+Enable Aether additions
+Enable Aether Continuation additions
+Enable Aether: Lost Content additions
+Add cooked mob drops
+Music player volume
+Disable any new recipes added by mods
+Disable any new ore dictionary entries
+Show error toasts
+More Sandstone Settings
+Enable more sandstone
+Enable more sandstone Quark blocks
+Enable more sandstone FutureMC walls
+Force more sandstone
+Force more sandstone stairs and slabs
+Force more sandstone Quark walls
+Force more sandstone FutureMC walls
+Enable white sandstone
+Enable white sandstone Quark walls
+EVTP settings
+Enable EVTP
+Enable Armored Glass
+Enable packed paper block
+Enable golden torch
+Enable dead flowers
+Enable stone doors
+Enable redstone lantern
+Dead flower spawn chance
+Experimental size feature
+Enable experimental size feature
+Minimum player size
+Maximum player size
+Minimum mob size
+Maximum mob size
+Scale movement speed
+Scale strength
+Scale max health
+Scale current health when growing
+Scale reach
+Scale swim speed
+Fix entity rendering at small sizes
+Fix player rendering in inventory
+Entities banned from size change
+Can mob size change
+Can enties crush smaller ones
+Can players crush other players
+Entities banned from crushing others or being crushed
+Do small players get hurt while walking through roses
+Do small players get slowed down while walking through plants
+Can small players climb some blocks
+Can small players climb any blocks while holding slime
+Can small players glide while holding paper
+Do small players get flight height boost while gliding over hot blocks
+Thaumcraft integration
+Register custom lucky eggs

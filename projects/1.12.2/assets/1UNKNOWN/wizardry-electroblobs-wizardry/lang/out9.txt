@@ -1,0 +1,26 @@
+Summons a spirit wolf companion to fight for you. The spirit wolf will only disappear if it is killed, or you can dismiss it by shift-right-clicking on it with any wand.
+"Storm Elemental: An ancient manifestation of the elements, it can hardly contain the raw power churning within it." - The Wizard's Guide to Arcane Beings, Volume II
+Summons a wither skeleton to fight for you. The wither skeleton will disappear after 30 seconds or if it is killed.
+Summons a zombie to fight for you. The zombie will disappear after 30 seconds or if it is killed.
+Moves an item or other small object towards you, or right-clicks the block you are looking at. Can also be used to disarm players.
+Shoots a bolt of thunder which knocks back targets.
+"Mwahahahahahaha!"
+Unleashes a tornado in the direction you are pointing which hurls anything in its path skywards.
+Makes the caster transient for 20 seconds. The caster is immune to all damage while transient but cannot break or place blocks or cause any damage.
+Transports the caster to their remembered stone circle. To use this spell, make a circle of stones of transportation, then right click it with a wand.
+Grants the caster access to their ender chest storage.
+Winter at your fingertips.
+Allows the caster to breathe underwater for 60 seconds.
+Causes the target to be blown upwards and away from you at speed.
+Fires a ray of darkness which withers anything it touches.
+Launches a wither skull in the direction you are pointing.
+The rain begins to stop...
+The heavens open...
+Your remembered stone circle is missing or obstructed...
+You must remember the location of a stone circle first!
+Your remembered stone circle is in another dimension...
+Searching...
+The path revealed upon casting %1$s will now lead back to this point
+Your remembered location is too far away or inaccessible...
+You must remember a location first!
+Your remembered location is in another dimension...

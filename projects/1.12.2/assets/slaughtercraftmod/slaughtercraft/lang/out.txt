@@ -1,0 +1,85 @@
+Mob Drops
+World Generation
+Miscellaneous
+Make Food Always Edible
+Make Chicken Necks Edible
+Add Butchers Building To Plains Biome
+Add Butchers Building To Forest Biome
+Add Butchers Building To Taiga Biome
+Add Butchers Building To Jungle Biome
+Add Butchers Building To Savanna Biome
+Add Butchers Building To Desert Biome
+Add Butchers Building To Mushroom Biome
+Add Butchers Building To Mesa Biome
+Add Butchers Building To Hills Biome
+Steel Ore Spawn Chance
+Steel Ore Min Spawn Height
+Steel Ore Max Spawn Height
+Override Mob Drops
+Add Default Drops To Carcasses
+Drop Default And Carcass On Death
+Chicken Leg
+Chicken Wing
+Chicken Breast
+Chicken Neck
+Pig Leg
+Pig Belly
+Pig Shoulder
+Pig Rump
+Cow Leg
+Cow Belly
+Cow Shoulder
+Cow Rump
+Mutton Leg
+Mutton Shoulder
+Mutton Rump
+Mutton Belly
+Cooked Chicken Leg
+Cooked Chicken Wing
+Cooked Chicken Breast
+Cooked Pig Leg
+Cooked Pig Belly
+Cooked Pig Shoulder
+Cooked Pig Rump
+Cooked Cow Leg
+Cooked Cow Belly
+Cooked Cow Shoulder
+Cooked Cow Rump
+Cooked Mutton Leg
+Cooked Mutton Shoulder
+Cooked Mutton Rump
+Cooked Mutton Belly
+Cooked Squid
+Raw Calamari
+Cooked Calamari
+Cooked Horse Meat
+Horse Meat
+Cooked Donkey Meat
+Donkey Meat
+Cooked Mule Meat
+Mule Meat
+Cooked Llama Meat
+Llama Meat
+Creeper Steak Raw
+Creeper Steak Cooked
+ Roast Beef Slice
+Roast Chicken Slice
+Roast Pork Slice
+Roast Mutton Slice
+Chicken
+Pork Broth
+Beef Broth
+Mutton Broth
+Fish Broth
+Chicken Soup
+Pork Soup
+Beef Soup
+Mutton Soup
+Fish Soup
+Chicken Stew
+Pork Stew
+Beef Stew
+Mutton Stew
+Fish Stew
+Preserved Creeper Steak Raw
+Preserved Creeper Steak Cooked

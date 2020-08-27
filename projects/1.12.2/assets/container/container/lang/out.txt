@@ -1,0 +1,9 @@
+Compress Upgrade
+Pickup Upgrade
+Queue
+Stack
+Bank
+Dock
+Sort
+%s x%d
+and %d more...

@@ -1,0 +1,8 @@
+item.combat_staff_fire.name
+item.combat_staff_ice.name
+item.combat_staff_acid.name
+tile.enchanted_wood.name
+item.nether_crystal.name
+item.ice_crystal.name
+item.acid_crystal.name
+itemGroup.magiccraft

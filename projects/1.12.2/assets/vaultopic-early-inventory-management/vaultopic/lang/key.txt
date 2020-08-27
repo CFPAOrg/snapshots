@@ -1,0 +1,9 @@
+item.vaultopic.vault_searcher.name
+item.vaultopic.view_small.name
+item.vaultopic.view_big.name
+item.vaultopic.vice.name
+key.vaultopic.view
+key.vaultopic.viewlast
+key.vaultopic.vice
+key.vaultopic.category
+itemGroup.vaultopic

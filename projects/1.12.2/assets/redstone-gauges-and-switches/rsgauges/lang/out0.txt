@@ -1,0 +1,46 @@
+${other.key.help}".
+Gauges and Switches
+Gauges and Switches Config
+alarm siren
+§6[§9SHIFT§r More info§6]§r
+§6[§9CTRL-SHIFT§r Help§6]§r
+Analog Voltmeter Redstone Gauge
+Analog Bar Redstone Gauge
+Small Digital Display Redstone Gauge
+Glass Bar Redstone Gauge
+Glass Tube Redstone Gauge
+Small Analog Voltmeter Redstone Gauge
+Rustic Circular Wall Meter Redstone gauge
+§6A display device that can be attached to a solid block to visualise the \
+${tile.rsgauges.flatgauge1.help}
+${tile.rsgauges.flatgauge1.help}
+${tile.rsgauges.flatgauge1.help}
+${tile.rsgauges.flatgauge1.help}
+${tile.rsgauges.flatgauge1.help}
+${tile.rsgauges.flatgauge1.help}
+White LED Redstone Indicator
+White Blinking LED Redstone Indicator
+Green LED Redstone Indicator
+Yellow LED Redstone Indicator
+Red LED Redstone Indicator
+Alarm Lamp
+Green Blinking LED Redstone Indicator
+Yellow Blinking LED Redstone Indicator
+Red LED Redstone Indicator
+Alarm Siren
+Rustic Redstone Semaphore
+§6A small device that can be attached to a block to indicate \
+${tile.rsgauges.indicator_led_white.help}
+${tile.rsgauges.indicator_led_white.help}
+${tile.rsgauges.indicator_led_white.help}
+${tile.rsgauges.indicator_led_white.help} Blinks with a frequency of about 0.5Hz.
+${tile.rsgauges.indicator_led_white.help} Blinks with a frequency of about 0.5Hz.
+${tile.rsgauges.indicator_led_white.help} Blinks with a frequency of about 0.5Hz.
+${tile.rsgauges.indicator_led_white.help} Blinks with a frequency of about 0.5Hz.
+§6A red lamp that blinks when detecting a redstone signal from the block \
+§6A siren that frequently emits an alarm sound when detecting a redstone \
+§6A small metal case with a semaphore flag, which raises \
+Activate while already active to extend the pulse time.
+Can be placed on hoppers.
+Left-click with a stack of redstone to set a fixed pulse time between 0.1s (1) and 6.4s (64).
+Click with a Redstone Torch to configure the output (cycles through the options that this switch supports).

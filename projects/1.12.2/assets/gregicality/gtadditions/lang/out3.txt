@@ -1,0 +1,71 @@
+§b§oIV Circuit
+Master Magneto Resonatic Circuit
+§b§oLuV Circuit
+Ultimate Magneto Resonatic Circuit
+§b§oZPM Circuit
+Superconductor Magneto Resonatic Circuit
+§b§oUV Circuit
+Infinite Magneto Resonatic Circuit
+§b§oMAX Circuit
+Cosmic Circuit
+Cosmic Processor
+Cosmic Assembly
+Cosmic Computer
+NanoMuscle™ Suite: NightVision enabled
+NanoMuscle™ Suite: NightVision disabled
+QuarkTech™ Suite: NightVision enabled
+QuarkTech™ Suite: NightVision disabled
+Jetpack: hover mode enabled
+Jetpack: hover mode disabled
+§aON
+§cOFF
+Energy level: %s
+Fuel level: %s
+Hover mode: %s
+Supply mode: %s
+Fly mode: %s
+GraviEngine: %s
+Energy Supply: Gadgets charging enabled
+Energy Supply: Gadgets charging disabled
+Supply mode: %s
+To change mode shift-right click when holding item
+Amperage IN: §a%d §7
+Basic Circuit Assembling Machine
+Advanced Circuit Assembling Machine
+Advanced Circuit Assembling Machine II
+Advanced Circuit Assembling Machine III
+Advanced Circuit Assembling Machine IV
+Advanced Circuit Assembling Machine V
+Advanced Circuit Assembling Machine VI
+Advanced Circuit Assembling Machine VII
+Basic Cluster Mill
+Advanced Cluster Mill
+Advanced Cluster Mill II
+Advanced Cluster Mill III
+Advanced Cluster Mill IV
+Advanced Cluster Mill V
+Advanced Cluster Mill VI
+Advanced Cluster Mill VII
+Electron Excitement Processor
+Electron Excitement Processor
+Electron Excitement Processor
+Electron Excitement Processor
+Blend-O-Matic 9001
+Blend-O-Matic 9002
+Blend-O-Matic 9003
+Blend-O-Matic 9004
+Advanced Alloy Smelter IV
+Advanced Alloy Smelter V
+Advanced Alloy Smelter VI
+Advanced Alloy Smelter VII
+Advanced Amplifabricator IV
+Advanced Amplifabricator V
+Advanced Amplifabricator VI
+Advanced Amplifabricator VII
+Advanced Arc Furnace IV
+Advanced Arc Furnace V
+Advanced Arc Furnace VI
+Advanced Arc Furnace VII
+Advanced Assembling Machine IV
+Advanced Assembling Machine V
+Advanced Assembling Machine VI

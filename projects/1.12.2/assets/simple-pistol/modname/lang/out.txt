@@ -1,0 +1,9 @@
+Bauxite Ore
+Aluminum Ingot
+Pistol
+Steel Ore
+Steel Ingot
+Hammer
+Steel Plate
+Aluminum Plate
+Pistol Bullet

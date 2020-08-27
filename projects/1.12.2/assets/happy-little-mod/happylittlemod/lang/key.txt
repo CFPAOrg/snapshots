@@ -1,0 +1,2 @@
+prefixes.happylittlemod:happy
+prefixes.happylittlemod:happy_little

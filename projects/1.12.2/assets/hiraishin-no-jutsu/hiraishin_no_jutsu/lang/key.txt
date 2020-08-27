@@ -1,0 +1,4 @@
+item.hiraishin_kunai.name
+item.reinforced_iron.name
+item.black_iron_hiraishin.name
+itemGroup.hiraishin_no_jutsu

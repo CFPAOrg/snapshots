@@ -1,0 +1,52 @@
+of blocks than the sides facing
+the machines themselves.
+This item is disabled in configuration.
+Required Machine Level: %s
+Energy Usage:
+%sx
++ %s
+- %s
+- %s
+%s %s
+RF/action
+per action
+Work Buffer Usage:
+Hold §e§oCtrl§r§7 for Valid Augments
+Valid Augments:
+- %s
+None
+Hold §e§oCtrl§r§7 for Valid Machines
+Valid Machines:
+- %s
+None
+Capacity Augment
+This augment greatly increases the
+quantity of resources that a machine
+can store in its internal buffer.
+This augment cannot be removed when
+doing so would make the fluid tank
+too small to hold its contents.
+This augment cannot be removed when
+doing so would make the item buffer
+too small to hold its contents.
+Transfer Augment
+This augment greatly increases the
+rate at which a machine can transfer
+resources into its targets.
+Directional Volume: %s Blocks
+Directional Max Range: %s
+Directional Range: %sx%sx%s
+Positional Range: %s
+%s Blocks
+Interdimensional
+The Directional Charger charges things in a direction.
+Initially, the Directional Charger only charges one block in front of it in the direction it's facing.
+Using augments, it's possible to wirelessly charge a large area!
+An augment can also be used to allow the Directional Charger to charge items inside of chests, drawers, and other such blocks.
+The Positional Charger charges things in specific positions.
+Place a Positional Card in one of the Positional Charger's slots to tell it to charge that block.
+Using augments, it's possible to add more than one Positional Card.
+Augments can also help you charge blocks farther away from the Positional Charger. Eventually, even across dimensions!
+An augment can also be used to allow the Positional Charger to charge items inside of chests, drawers, and other such blocks.
+The Directional Condenser transfers fluids in a direction.
+Initially, the Directional Condenser only condenses fluid into the block directly in front of it.

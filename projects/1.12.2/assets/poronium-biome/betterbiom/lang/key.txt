@@ -1,0 +1,6 @@
+entity.guardianp.name
+tile.poroniumplant.name
+item.poroniumstar.name
+entity.porinium.name
+tile.poronium.name
+tile.blockhardporonium.name

@@ -1,0 +1,10 @@
+tile.uselessnetherreactorcore.name
+tile.netherreactor3.name
+tile.creativenetherreactorecore.name
+entity.originalzombiepigman.name
+tile.netherreactor.name
+tile.doublestoneslab.name
+tile.glowingobsidian.name
+tile.glowingobsidian2.name
+tile.netherreactor2.name
+fluid.originallava

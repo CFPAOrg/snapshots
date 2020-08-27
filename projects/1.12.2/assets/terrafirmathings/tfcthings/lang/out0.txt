@@ -1,0 +1,68 @@
+Snow Shoes
+Whetstone
+Honing Steel
+Diamond Grit Honing Steel
+Honing Steel Head
+Diamond Grit Honing Steel Head
+Diamond Grit
+Sling
+Reinforced Sling
+Gold Crown
+Platinum Crown
+Bear Trap Half
+Pig Iron Carrot
+Metal Bracing
+Bismuth Bronze Rope Javelin
+Black Bronze Rope Javelin
+Black Steel Rope Javelin
+Blue Steel Rope Javelin
+Bronze Rope Javelin
+Copper Rope Javelin
+Red Steel Rope Javelin
+Steel Rope Javelin
+Wrought Iron Rope Javelin
+Black Steel Hook Javelin Head
+Blue Steel Hook Javelin Head
+Red Steel Hook Javelin Head
+Steel Hook Javelin Head
+Black Steel Hook Javelin
+Blue Steel Hook Javelin
+Red Steel Hook Javelin
+Steel Hook Javelin
+Bismuth Bronze Prospectors Hammer
+Black Bronze Prospectors Hammer
+Black Steel Prospectors Hammer
+Blue Steel Prospector's Hammer
+Bronze Prospectors Hammer
+Copper Prospectors Hammer
+Red Steel Prospectors Hammer
+Steel Prospectors Hammer
+Wrought Iron Prospectors Hammer
+Unfired Prospectors Hammer Head Mold
+Prospectors Hammer Head Mold
+Bismuth Bronze Prospectors Hammer Mold
+Black Bronze Prospectors Hammer Mold
+Bronze Prospectors Hammer Mold
+Copper Prospectors Hammer Mold
+Bismuth Bronze Prospectors Hammer Head
+Black Bronze Prospectors Hammer Head
+Black Steel Prospectors Hammer Head
+Blue Steel Prospectors Hammer Head
+Bronze Prospectors Hammer Head
+Copper Prospectors Hammer Head
+Red Steel Prospectors Hammer Head
+Steel Prospectors Hammer Head
+Wrought Iron Prospectors Hammer Head
+Bear Trap
+Pigvil
+Reinforced Support Beam [Unused]
+Snare
+Pigvil
+This item can't get any sharper right now
+This block seems safe to mine
+This block seems somewhat unstable...
+This block cannot cause a cave-in
+This block seems safe to mine, but it is supporting loose rubble
+This block seems somewhat unstable, it is also supporting loose rubble
+This block cannot cause a cave-in, but it is supporting loose rubble
+I'm not detecting any rock types in this area. I should try somewhere else...

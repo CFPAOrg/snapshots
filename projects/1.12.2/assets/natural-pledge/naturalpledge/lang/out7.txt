@@ -1,0 +1,17 @@
+Bring it on! I &olive&0 for this!
+Faith in Thor
+Thunder, strength, and wrath
+The &4Æsir&0 god of the sky, &3Thor&0, seems like a powerful god to ally with. Wielding his aspect of the &3Divine&0 makes your body makes your body swift, similar to the &1Soujourner's Sash&0. When using axes, the closest thing you could find to a hammer, &3Thor&0 will add force to your hit, slowing down whatever poor mob is stricken.
+In anger smite the earth
+Battle Magic
+The art of war
+The first spell that &3Thor&0's emblem grants, &1Lightning Strike&0, is a very simple lightning spell. Electricity will arc out of the caster, striking whatever they're looking at within 10 blocks. This won't do much unless you hit a mob, of course.
+The second spell of &3Thor&0, &1Thunder's Force&0, is a strength spell. While you have the &1Terrestrial Focus&0, for half a minute you will hit with over twice the force you'd normally wield. Giving the &1Focus&0 to someone else in that time will treat them as if they had been the one to cast the spell.
+The third spell of &3Thor&0, &1Chains of Iron&0, almost seems to intrude upon the domain of &4Movement magic&0. It pulls the mob you look at towards you, as if you were a magnet and it iron. The pulled mob becomes slow for ten seconds, making their escape much harder.
+The fourth spell of &3Thor&0, &1Hypercharge&0, forces electric energy into the air where it hits, creating a pocket of electric charge. Anyone foolish enough to walk into it will be
+The final spell of &3Thor&0, &1Thunder Infusion&0, forces power into regular iron, making &1Thundersteel&0. If you can somehow augment your emblem's power, the metal might be more potent.
+Block of awesome
+And back again
+Priestly Fashion - Thor
+Smashy smashy
+No priest would be caught dead without a ceremonial robe, although robes aren't actually required to pay allegiance to a divinity.<br>These robes, beyond being fashionable, provide a tangible benefit. Thor's robes shield their wearer from the brunt of fall damage, instead spreading it to anything around.

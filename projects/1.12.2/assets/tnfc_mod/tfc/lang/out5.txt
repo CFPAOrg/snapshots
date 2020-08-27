@@ -1,0 +1,108 @@
+Unshaped Antimony
+Antimony Chestplate
+Antimony Greaves
+Antimony Boots
+Antimony Helmet
+Unfinished Antimony Chestplate
+Unfinished Antimony Boots
+Unfinished Antimony Helmet
+Unfinished Antimony Greaves
+Antimony Anvil
+Ardite Ingot
+Ardite Double Ingot
+Ardite Scrap
+Ardite Dust
+Ardite Nugget
+Ardite Sheet
+Ardite Double Sheet
+Ardite Tuyere
+Ardite Pickaxe
+Ardite Pickaxe Head
+Ardite Shovel
+Ardite Shovel Head
+Ardite Axe
+Ardite Axe Head
+Ardite Hoe
+Ardite Hoe Head
+Ardite Chisel
+Ardite Chisel Head
+Ardite Sword
+Ardite Sword Blade
+Ardite Mace
+Ardite Mace Head
+Ardite Saw
+Ardite Saw Blade
+Ardite Shears
+Ardite Shield
+Ardite Javelin
+Ardite Javelin Head
+Ardite Hammer
+Ardite Hammer Head
+Ardite Prospector's Pickaxe
+Ardite Prospector's Pickaxe Head
+Ardite Knife
+Ardite Knife Blade
+Ardite Scythe
+Ardite Scythe Blade
+Ardite Lamp
+%s Ardite Lamp
+Unshaped Ardite
+Ardite Chestplate
+Ardite Greaves
+Ardite Boots
+Ardite Helmet
+Unfinished Ardite Chestplate
+Unfinished Ardite Boots
+Unfinished Ardite Helmet
+Unfinished Ardite Greaves
+Ardite Anvil
+Cobalt Ingot
+Cobalt Double Ingot
+Cobalt Scrap
+Cobalt Dust
+Cobalt Nugget
+Cobalt Sheet
+Cobalt Double Sheet
+Cobalt Tuyere
+Cobalt Pickaxe
+Cobalt Pickaxe Head
+Cobalt Shovel
+Cobalt Shovel Head
+Cobalt Axe
+Cobalt Axe Head
+Cobalt Hoe
+Cobalt Hoe Head
+Cobalt Chisel
+Cobalt Chisel Head
+Cobalt Sword
+Cobalt Sword Blade
+Cobalt Mace
+Cobalt Mace Head
+Cobalt Saw
+Cobalt Saw Blade
+Cobalt Shears
+Cobalt Shield
+Cobalt Javelin
+Cobalt Javelin Head
+Cobalt Hammer
+Cobalt Hammer Head
+Cobalt Prospector's Pickaxe
+Cobalt Prospector's Pickaxe Head
+Cobalt Knife
+Cobalt Knife Blade
+Cobalt Scythe
+Cobalt Scythe Blade
+Cobalt Lamp
+%s Cobalt Lamp
+Unshaped Cobalt
+Cobalt Chestplate
+Cobalt Greaves
+Cobalt Boots
+Cobalt Helmet
+Unfinished Cobalt Chestplate
+Unfinished Cobalt Boots
+Unfinished Cobalt Helmet
+Unfinished Cobalt Greaves
+Cobalt Anvil
+Constantan Ingot
+Constantan Double Ingot

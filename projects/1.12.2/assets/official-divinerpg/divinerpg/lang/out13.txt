@@ -1,0 +1,51 @@
+Incoming punch!
+Looks like I'm done with this. You're next!
+This kill is mine!
+You're my kill!
+No! Die before me!
+Sit down human!
+You don't deserve to be near a guardian of Arksiane!
+Taste fist!
+You dare wake me from my slumber?!
+You think you can fight me?
+I am the great guardian of Heliosis!
+Your future is dark.
+Rain rain come my way
+Kill this human, kill it today!
+You're nothing compared to me! Nothing!
+Heliosis! Avenge me!
+You should run while you still have the chance to live.
+I do love the smell of death!
+CHARRGEE!
+Come feel the Soul of Arksiane.
+Arksiane, give me fire!
+Stop at once in the name of the great Arksiane!
+Speed!
+Explosions!
+Strength!
+Unable to check for latest version, you may want to check your internet connection!
+The Green Ayeraco has been called upon
+The Blue Ayeraco has been called upon
+The Red Ayeraco has been called upon
+The Yellow Ayeraco has been called upon
+The Purple Ayeraco has been called upon
+The Ayeraco Horde has arrived!
+The King of the Scorchers can only be spawned in the Nether.
+The Ayeraco Horde can only be spawned in The End.
+The Watcher can only be spawned in the Nether.
+The Ancient Entity can only be spawned in the Overworld.
+You can only use the Nightmare Bed in a dark place.
+You can only use the Nightmare Bed in the overworld.
+You can't change initial position.
+Thank you %s for downloading and playing DivineRPG!
+Unable to check for latest version, you may want to check your internet connection!
+A DivineRPG update is avaliable.
+[DivineRPG is out of date. The latest version is %s]
+Welcome DivineRPG developer! %s is on the DivineRPG dev team.
+Welcome DivineRPG tester! %s kindly offered their time to help test DivineRPG. Thank you for your service!
+Welcome DivineRPG patreon! %s kindly supported the DivineRPG dev team, thank you for your help!
+%s Uses Remaining
+Harvest Level: +
+Infinite Uses
+Heals %s hearts on use
+Consumes %s Arcana

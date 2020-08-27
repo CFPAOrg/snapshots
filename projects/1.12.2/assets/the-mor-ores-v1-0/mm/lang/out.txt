@@ -1,0 +1,24 @@
+Ruby
+Copper Ingot
+Ruby Block
+Ruby Ore
+Candy Cane
+Copper Ore
+Ruby Sword
+Ruby Pickaxe
+Ruby Axe
+Emerald Axe
+Emerald Pickaxe
+Emerald Shovel
+Emerald Sword
+Ruby Shovel
+Ruby Helmet
+Ruby Leggings
+Ruby Boots
+Ruby Chestplate
+Emerald Helmet
+Emerald Chestplate
+Emerald Boots
+Emerald Leggings
+Ruby Apple
+Metal Foundary

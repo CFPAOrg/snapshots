@@ -1,0 +1,13 @@
+item.reinaysingot.name
+tile.reinaysore.name
+item.reinayshelmetlegs.name
+item.reinayshelmetboots.name
+itemGroup.tabreinaysoretab
+item.reinayssword.name
+tile.reinaysblock.name
+item.reinaysaxe.name
+item.reinayshoe.name
+item.reinayshelmetbody.name
+item.reinayspickaxe.name
+item.reinayshelmethelmet.name
+item.reinaysshovel.name

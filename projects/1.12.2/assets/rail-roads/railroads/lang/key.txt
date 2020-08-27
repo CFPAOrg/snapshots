@@ -1,0 +1,7 @@
+itemGroup.railroads
+item.railroads.rail_riders.name
+item.railroads.rail_riders.tooltip
+railroads.keybinds.riders
+railroads.keybinds.category
+railroads.tooltip.installed.0
+railroads.tooltip.installed.1

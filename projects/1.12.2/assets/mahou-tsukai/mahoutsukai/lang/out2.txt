@@ -1,0 +1,50 @@
+Interesting Block Report
+Peaceful Garden
+Bleeding
+Immunity Exchange
+Insight
+Alarm Boundary Mana Cost Per Cycle
+This is the mana cost per cycle
+Alarm Boundary Mana Cycle (in seconds)
+This is how often the boundary drains mana
+Alarm Boundary Radius (in blocks)
+This is the range of the boundary
+Alarm Boundary Operation Cycle (in Ticks)
+This is how often the boundary does it's thing
+Messages are sent to Action Bar
+Messages are sent to Action Bar as opposed to the Chat window
+Displacement Boundary Mana Cost Per Cycle
+This is the mana cost per cycle
+Displacement Boundary Mana Cycle (in seconds)
+This is how often the boundary drains mana
+Displacement Boundary Radius (in blocks)
+This is the range of the boundary
+Displacement Boundary Operation Cycle (in Ticks)
+This is how often the boundary does it's thing
+Drain Life Boundary Mana Cost Per Cycle
+This is the mana cost per cycle
+Drain Life Boundary Mana Cycle (in seconds)
+This is how often the boundary drains mana
+Drain Life Boundary Radius (in blocks)
+This is the range of the boundary
+Drain Life Boundary Operation Cycle (in Ticks)
+This is how often the boundary does it's thing
+Gravity Boundary Mana Cost Per Cycle
+This is the mana cost per cycle
+Gravity Boundary Mana Cycle (in seconds)
+This is how often the boundary drains mana
+Gravity Boundary Radius (in blocks)
+This is the range of the boundary
+Gravity Boundary Operation Cycle (in Ticks)
+This is how often the boundary does it's thing
+Enclosure Boundary Mana Cost Per Cycle
+This is the mana cost per cycle
+Enclosure Boundary Operation Cycle (in Ticks)
+This is how often the boundary does it's thing
+Enclosure Boundary Radius (in blocks)
+This is the range of the boundary
+Tangible Boundary Mana Cost Per Cycle
+This is the mana cost per cycle
+Tangible Boundary Mana Cycle (in seconds)
+This is how often the boundary drains mana
+Tangible Boundary Radius (in blocks)

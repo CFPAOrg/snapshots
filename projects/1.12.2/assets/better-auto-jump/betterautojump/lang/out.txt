@@ -1,0 +1,6 @@
+English
+US
+en_US
+Toggle Walking/Sprinting
+Better Auto Jump
+Hold §nSprint§r Key

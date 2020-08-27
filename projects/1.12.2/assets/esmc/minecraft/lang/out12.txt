@@ -1,0 +1,86 @@
+%1$s was fireballed by %2$s using %3$s
+%1$s was TKO'd by %2$s
+%1$s was assaulted by %2$s using %3$s
+%1$s was quantified by %2$s using magic
+%1$s was ended by %2$s using %3$s
+%1$s was busted up trying to grip up on %2$s
+%1$s missed the air-cushion, oh wait, this is a block game!
+%1$s decided life was too difficult in the void
+%1$s was melted in dragon halitosis
+%1$s experienced kinetic energy, which, in some cases could be considered CHEATING and that is why we disabled Elytras due to exploit
+%1$s went off with a bang
+R E S U R R E C T
+Spectate world
+Delete world
+Title screen
+Score
+Game over!  Nice try though, we told you this was difficult.
+Don't quit!! It only gets better once you get established!
+Leave this terrible place
+Are you sure you want to quit?  Just play for a bit more, you can do this, champ!
+No Effects
+Speed
+Slowness
+Haste
+Mining Fatigue
+Strength
+Instant Health
+Instant Damage
+Jump Boost
+Nausea
+Regeneration
+Resistance
+Fire Resistance
+Water Breathing
+Invisibility
+Blindness
+Night Vision
+Hunger
+Weakness
+Poison
+Wither
+Health Boost
+Absorption
+Saturation
+Glowing
+Luck
+Bad Luck
+Levitation
+Uncraftable Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Arrow of Night Vision
+Arrow of Invisibility
+Arrow of Leaping
+Arrow of Fire Resistance
+Arrow of Swiftness
+Arrow of Slowness
+Arrow of Splashing
+Arrow of Water Breathing
+Arrow of Healing
+Arrow of Harming
+Arrow of Poison
+Arrow of Regeneration
+Arrow of Strength
+Arrow of Weakness
+Arrow of Levitation
+Arrow of Luck
+When Applied:
+Fill it with water, bud.  Or use it in a strange ES container for advanced crafting
+Water Bottle
+Mundane Potion
+Thick Potion
+Awkward Potion
+Potion of Night Vision
+Potion of Invisibility
+Potion of Leaping
+Potion of Fire Resistance
+Potion of Swiftness
+Potion of Slowness
+Potion of Water Breathing
+Potion of Healing
+Potion of Harming
+Potion of Poison
+Potion of Regeneration

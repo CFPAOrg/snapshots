@@ -1,0 +1,6 @@
+Sword
+Dagger
+Mace
+Swords are the most basic weapon available. They have average attack speed, decent damage, and can perform a sweep attack if you're moving slowly. They are made with a sword blade, a crossguard, a handle, and optionally an adornment.
+Daggers are fast weapons that deal low damage. Their short length means you have to get very close to your target if you want to attack. Their range is half that of a sword. Daggers are made with a dagger blade, a handle, and optionally an adornment.
+Maces are blunt weapons that are slightly slower than swords, but do slightly more damage. They cannot perform sweep attacks, but critical strikes will briefly stun the opponent and all attacks have a chance to do extra damage to the target's armor. Maces are made with a mace head, a haft, a handle, and optionally an adornment.

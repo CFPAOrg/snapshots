@@ -1,0 +1,5 @@
+FILLSCREEN FIXNEWLINES Whether to load the blindness potion recipe (thick potion + ink sac)\n \n
+Glowing Potions
+FILLSCREEN FIXNEWLINES Whether to load glowing potions (accessible from the brewing tab of the creative menu)\n \n
+Glowing Potion Recipes
+FILLSCREEN FIXNEWLINES Whether to load the glowing potion recipe (thick potion + glowstone dust)\n \n

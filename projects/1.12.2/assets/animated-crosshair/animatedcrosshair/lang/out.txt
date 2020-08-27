@@ -1,0 +1,21 @@
+«
+»
+Save
+Configuration
+Configure
+Enabled
+Disabled
+Colors
+Red
+Green
+Blue
+Chroma
+Precise values can be edited in
+[AnimatedCrosshair]
+The currently active crosshair does not have a valid properties file! It will not be rendered.
+There was an issue reading that file!
+You have an invalid configuration, and we weren't able to repair it! Try deleting your config file.
+Negative Color
+Scale
+Framerate
+Frame Count

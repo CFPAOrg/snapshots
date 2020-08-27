@@ -1,0 +1,2 @@
+tile.sct.smart_workbench.name
+tile.sct.smart_workbench_slab.name

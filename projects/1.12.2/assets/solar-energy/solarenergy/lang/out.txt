@@ -1,0 +1,63 @@
+Solar Energy
+Energy
+Stored Energy
+Capacity
+Produces
+In
+Out
+Output
+Max Production
+Producing
+Energy Needed
+Throughput
+Basic Battery
+Regular Battery
+Intermediate Battery
+Advanced Battery
+Elite Battery
+Ultimate Battery
+Basic Dense Battery
+Regular Dense Battery
+Intermediate Dense Battery
+Advanced Dense Battery
+Elite Dense Battery
+Ultimate Dense Battery
+Basic Solar Generator
+Regular Solar Generator
+Intermediate Solar Generator
+Advanced Solar Generator
+Elite Solar Generator
+Ultimate Solar Generator
+Energy Assembler
+Energy Cable
+Basic Energy Core
+Regular Energy Core
+Intermediate Energy Core
+Advanced Energy Core
+Elite Energy Core
+Ultimate Energy Core
+Basic Solar Cell
+Regular Solar Cell
+Intermediate Solar Cell
+Advanced Solar Cell
+Elite Solar Cell
+Ultimate Solar Cell
+Basic Battery Cell
+Regular Battery Cell
+Intermediate Battery Cell
+Advanced Battery Cell
+Elite Battery Cell
+Ultimate Battery Cell
+Lead Ingot
+Basic Dense Energy Core
+Regular Dense Energy Core
+Intermediate Dense Energy Core
+Advanced Dense Energy Core
+Elite Dense Energy Core
+Ultimate Dense Energy Core
+Basic Dense Battery Cell
+Regular Dense Battery Cell
+Intermediate Dense Battery Cell
+Advanced Dense Battery Cell
+Elite Dense Battery Cell
+Ultimate Dense Battery Cell

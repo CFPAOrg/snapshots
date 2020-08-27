@@ -1,0 +1,48 @@
+Shift left hit can destroy it.
+Shift right click can open skin gui.
+Input
+Output
+Blacklist
+Whitelist
+§4Warning: This item has many problems and will be removed in a future version. Please do not use and craft!
+Right click on the maid to apply hata sasimono.
+Storage Situation: %d/%d
+Storage Power: %s
+The item can not be crafted, you need to build an altar to spawn a maid.
+For craft details, please refer to JEI.
+Author: %s
+Version: %s
+Spell Cooldown: %d ticks
+Only For Debug
+Right click on the maid to make it invulnerability, creative only
+Maid Model: %s
+Draw a gashapon by right-click on gashapon coin or emerald (default).
+§a[Maid Bauble]
+Need to be placed in the maid's bauble inventory
+Player Name: %s
+Text: %s
+[Special]
+Write point success!
+Write point fail!
+§4Write fail: dupplicate point!
+§4Write fail: point is too far!
+§4Write fail: point list is full!
+Compass pos cleared!
+IO Mode: Input
+IO Mode: Output
+Filter Mode: Blacklist
+Filter Mode: Whitelist
+This damnable place can't place the maid.
+This damnable photo don't have NBT data.
+You don't have enough power.
+Tombstone Place Fail!
+Tombstone Has Been Taken Back!
+[{"text":"[Touhou Little Maid] ","color":"green","bold":true},{"text":"Click Here","color":"gold","underlined":true,"bold":false,"clickEvent":{"action":"open_url","value":"https://media.forgecdn.net/files/2731/963/Patchouli-1.0-20.jar"},"hoverEvent":{"action":"show_text","value":"https://www.curseforge.com/minecraft/mc-mods/patchouli"}},{"text":" To Install Patchouli Mod To Get The Manual","color":"yellow","bold":false}]
+Only creative mode player can ride it, but you can disable it by modifying the configuration.
+Current Type: %s
+You can no longer tame maids, you have reached the limit (%d/%d)
+Model switch is disabled.
+Please set this NPC model as maid model.
+§b[Small BackPack]
+§a[Middle BackPack]
+§c[Big BackPack]

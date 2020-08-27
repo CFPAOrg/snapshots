@@ -1,0 +1,5 @@
+language.name
+language.region
+language.code
+quicksave_quickload.save
+quicksave_quickload.load

@@ -1,0 +1,9 @@
+tile.woodenstairs.name
+item.petrifiedsapling.name
+itemGroup.tablepidodendron
+tile.sapling.name
+tile.woodenslab.name
+tile.woodentrapdoor.name
+tile.woodenplanks.name
+tile.woodenlog.name
+tile.treeleaves.name

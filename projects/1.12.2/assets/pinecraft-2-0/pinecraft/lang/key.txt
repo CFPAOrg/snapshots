@@ -1,0 +1,16 @@
+item.pineapplearmorhelmet.name
+tile.pineappleblock.name
+item.pineapplepizza.name
+item.pineappleingot.name
+item.pineapplesword.name
+item.pineapplearmorlegs.name
+entity.pinobrine.name
+item.pineappleshovel.name
+itemGroup.tabpineapplecreativetab
+item.pineappleaxe.name
+item.pineapplehoe.name
+item.pineapple.name
+item.pineapplearmorboots.name
+item.pineapplepickaxe.name
+tile.pineore.name
+item.pineapplearmorbody.name

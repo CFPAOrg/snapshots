@@ -1,0 +1,12 @@
+item.PowerStone.name
+item.TimeStone.name
+item.RealityStone.name
+item.SoulStone.name
+item.MindStone.name
+item.power_orb.name
+item.Eye_Of_Agamotto.name
+gm.abilities.powerstone.name
+gm.abilities.timestone.name
+gm.abilities.soulstone.name
+gm.abilities.realitystone.name
+gm.abilities.mindstone.name

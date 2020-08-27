@@ -1,0 +1,33 @@
+Reduces the radiation level of the chunk it is placed in. Its effectiveness depends on the amount of free space around it. Alone, it will remove a maximum of %s of the radiation in its chunk at %s efficiency, though the collective contribution from all scrubbers in the chunk will stack non-linearly. The radiation level will fall approximately linearly at first, but eventually doubly exponentially in the limit of many scrubbers. The efficiency and required power depends on the rad-clearing agent being used.
+100%
+Geiger Counter Block
+Reads the radiation level of the chunk it is placed in.
+Glowing Mushroom
+Wasteland Earth
+Tritium Lamp
+Tritium Lantern
+Quantum Computer Controller
+Quantum Computer Qubit
+Quantum Computer Pauli-X Gate
+Rotates the target qubits by 180 degrees about the X-axis of the Bloch sphere.
+Quantum Computer Pauli-Y Gate
+Rotates the target qubits by 180 degrees about the Y-axis of the Bloch sphere.
+Quantum Computer Pauli-Z Gate
+Rotates the target qubits by 180 degrees about the Z-axis of the Bloch sphere.
+Quantum Computer Hadamard Gate
+Applies a Hadamard transform to the target qubits.
+Quantum Computer S Gate
+Shifts the phase of the true-value components of the target qubits by 90 degrees.
+Quantum Computer Inverse S Gate
+Shifts the phase of the true-value components of the target qubits by 270 degrees.
+Quantum Computer T Gate
+Shifts the phase of the true-value components of the target qubits by 45 degrees.
+Quantum Computer Inverse T Gate
+Shifts the phase of the true-value components of the target qubits by 315 degrees.
+Quantum Computer Phase Gate
+Shifts the phase of the true-value components of the target qubits by a chosen angle.
+Quantum Computer X-Rotation Gate
+Rotates the target qubits about the spatial X-axis.
+Quantum Computer Y-Rotation Gate
+Rotates the target qubits about the spatial Y-axis.
+Quantum Computer Z-Rotation Gate

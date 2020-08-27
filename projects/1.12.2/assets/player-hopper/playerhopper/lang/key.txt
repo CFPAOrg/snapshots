@@ -1,0 +1,7 @@
+tile.playerhopper.name
+playerhopper.player.added
+playerhopper.player.removed
+playerhopper.item.added.begin
+playerhopper.item.added.end
+playerhopper.item.removed.begin
+playerhopper.item.removed.end

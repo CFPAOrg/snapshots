@@ -1,0 +1,78 @@
+The current sub season.
+The current tropical season.
+Duration of an entire cycle (a 'year') in ticks.
+Time elapsed for the current cycle (a 'year') in ticks.
+Duration of a single day in ticks.
+Day of the current season.
+Duration of a single season in ticks.
+Number of days elapsed.
+Duration of a single sub season in ticks.
+Minecraft day, starting from 0.
+Minecraft hour.
+Minecraft minute.
+Minecraft time (24 hour format).
+Minecraft time (12 hour format).
+Real time (24 hour format).
+Real time (12 hour format).
+World name.
+World size.
+World size in MiB.
+World seed.
+World difficulty name.
+World difficulty id.
+Local difficulty.
+Dimension name.
+Dimension id.
+Biome name.
+Biome id.
+Moon phase.
+§etrue§r if it's daytime, §efalse§r otherwise.
+§etrue§r if it's raining, §efalse§r otherwise.
+§etrue§r if it's thundering, §efalse§r otherwise.
+§etrue§r if it's snowing, §efalse§r otherwise.
+Time until the next weather change.
+§etrue§r if slimes can spawn, §efalse§r otherwise.
+§etrue§r if the current chunk is a slime chunk, §efalse§r otherwise.
+§etrue§r if the world is in hardcore mode, §efalse§r otherwise.
+Biome temperature.
+Biome temperature at your current position.
+Biome humidity.
+Local difficulty clamped.
+Simple Text Overlay
+Toggle Overlay
+Cycle Overlays
+/sto <reload|load|save|enable|disable|taglist|config|cycle> [filename]
+Reloading...
+Loading %s...
+Saving %s...
+Done!
+Something went wrong!
+Simple Text Overlay is now enabled.
+Simple Text Overlay is now disabled.
+Unknown command!
+Filename required!
+Spring
+Summer
+Autumn
+Winter
+Early Spring
+Mid Spring
+Late Spring
+Early Summer
+Mid Summer
+Late Summer
+Early Autumn
+Mid Autumn
+Late Autumn
+Early Winter
+Mid Winter
+Late Winter
+Early Dry
+Mid Dry
+Late Dry
+Early Wet
+Mid Wet
+Late Wet
+Armor temperature offset int (-25 to 25).
+Armor temperature offset celcius (-48.3 to 48.3).
+Armor temperature offset fahrenheit (-118.94 to 118.94).

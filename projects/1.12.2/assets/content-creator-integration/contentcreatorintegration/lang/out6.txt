@@ -1,0 +1,41 @@
+Converts a String to lower case.
+Source String.
+Name of the variable to insert the result into. Will override existing variables.
+Replaces a String within a String with another String. Supports regex.
+Source String.
+Target String.
+Replacement String.
+Name of the variable to insert the result into. Will override existing variables.
+Use this to use a literal string rather than a regex pattern matcher.
+Splits a string with the listed pattern. Result is an array.
+Source String.
+Pattern to split by
+Name of the variable to insert the result into. Will override existing variables. Result is an array.
+Do we omit empty strings?
+Takes a part of a String based on the given parameters. Returns false if the indices are incorrect.
+Source String.
+Start index for substring
+End index for substring (optional)
+Name of the variable to insert the result into. Will override existing variables.
+Trims the whitespace around a String
+Source String.
+Name of the variable to insert the result into. Will override existing variables.
+Converts a String to upper case.
+Source String.
+Name of the variable to insert the result into. Will override existing variables.
+Puts the length of a string into a variable.
+Source String.
+Name of the variable to insert the result into. Will override existing variables.
+Checks if a string contains a target string
+Source String.
+Target String.
+Checks if a string ends with a target string
+Source String.
+Target String.
+Checks if a string equals to the target string
+Source String.
+Target String.
+Checks if a string starts with a target string
+Source String.
+Target String.
+If you want to check the player's statistics, you need to request this from the server first. Put this in an event and in that same event, set a reasonable delay, such as 20 ticks or so (varies depending on player ping). In one of the outcomes, use an EventOutcome that has a StatisticsCondition to actually check the stat and act upon it.

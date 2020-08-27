@@ -1,0 +1,109 @@
+ID Card
+Frequency Installer
+Charge Detector
+Tablet
+Energy Cell Balancer
+Refrigerant
+Uranium
+Uranium Dust
+Californium
+Nuclear Fuel
+Power Suppressor
+Copper Ingot
+Heavy Ingot
+Copper Dust
+Copper Nugget
+Iron Dust
+Gold Dust
+Coal Dust
+Heavy Dust
+Power Crystal
+Power Crystal
+High Power Crystal
+High Power Crystal
+Extreme Power Crystal
+Extreme Power Crystal
+Small Capacitor
+Average Capacitor
+Big Capacitor
+Creative Capacitor
+Copper Coil
+Electric Transmitter
+Energy Cell
+Relay
+Path Searching Board
+Radiator
+Life Module
+Electrical Module
+Aggressive Module
+Strange Module
+Luck Module
+Teleport Module
+Plant Module
+Water Module
+Lava Module
+Security Module
+Wind Module
+Shield Module
+Lightning Module
+Organic Generator
+Kinetic Generator
+Solar Generator
+Electrostatic Generator
+Thermal Generator
+Miniature Nuclear Reactor
+Field visualizer
+Entity Analyzer
+Scanner
+Navigation module
+Antenna
+Case
+Copper Blank
+Copper Wires
+Electrical Board
+Electric Carver
+Iron Blank
+Iron Cylinder
+Iron Rod
+Processor
+Force Field Component
+Heavy Blank
+Heavy Plate
+Empty capsule
+Tough Iron Rod
+Reinforced Heavy Plate
+Basic Armor Core
+Advanced Armor Core
+Extreme Armor Core
+NI-01
+NI-05
+NI-10
+Injector
+Error
+Energy Multi Tool
+Energy Sword
+Energy Boots
+Energy Helmet
+Energy Leggings
+Energy Chestplate
+Heavy Boots
+Heavy Helmet
+Heavy Leggings
+Heavy Chestplate
+Energy Grenade
+Increases the throughput of machines
+Adds 100000 to the maximum RF
+Reduces voltage losses with increasing radius
+Add 5 to max radius
+Adds 5 to the max voltage or 100,000 to the max RF
+HP Regeneration and not only
+Will you test your luck?
+Very strange module
+This module can bite your finger
+The current is dangerous!
+Do you like plants?
+What could be better than teleports?
+Ooooh, this is lava!
+In my childhood I did not know how to swim, so I walked on water
+It will save you from overvoltage, probably
+Gas flows take me to the world of miracles

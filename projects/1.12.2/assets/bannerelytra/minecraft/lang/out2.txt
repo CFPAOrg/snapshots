@@ -1,0 +1,74 @@
+Enabled
+Disabled
+Prompt
+LAN World
+Scanning for games on your local network
+Start LAN World
+Settings for Other Players
+Minecraft Online World
+Play Multiplayer
+Connect
+Enter the IP of a server to connect to it:
+This server recommends the use of a custom resource pack.
+Would you like to download and install it automagically?
+Loading terrain
+Downloading statistics...
+Leave Bed
+%s joined the game
+%s (formerly known as %s) joined the game
+%s left the game
+... and %s more ...
+Cancelled
+Can't connect to server
+Can't resolve hostname
+Client out of date!
+(no connection)
+Old
+Pinging...
+Server out of date!
+???
+Received unrequested status
+Authentication servers are down. Please try again later, sorry!
+You are banned from this server.
+You logged in from another location
+Flying is not enabled on this server
+Disconnected
+You have been idle for too long!
+Illegal characters in chat
+Attempting to attack an invalid entity
+Invalid move player packet received
+Invalid move vehicle packet received
+You have been IP banned.
+Kicked by an operator.
+Outdated client! Please use %s
+Outdated server! I'm still on %s
+Server closed
+Took too long to log in
+Failed to verify username!
+Cannot send chat message
+<%s> %s
+%s says %s
+* %s %s
+[%s] %s
+[%s: %s]
+%s has made the advancement %s
+%s has completed the challenge %s
+%s has reached the goal %s
+Are you sure you want to open the following website?
+Never open links from people that you don't trust!
+Copy to Clipboard
+Do you want to open this link or copy it to your clipboard?
+Open in browser
+Play Demo World
+Reset Demo World
+This demo will last five game days, do your best!
+Day Two
+Day Three
+Day Four
+This is your last day!
+Your time is almost up!
+You have passed your fifth day, use F2 to save a screenshot of your creation
+The demo time has expired, buy the game to continue or start a new world!
+Remaining time: %s
+Demo time's up!
+Use the %1$s, %2$s, %3$s, %4$s keys and the mouse to move around

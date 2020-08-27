@@ -1,0 +1,14 @@
+misc.wumpleutil.debug.namekey
+tile.wumpleutil.repairing_block.name
+misc.wumpleutil.debug.repairtimes
+misc.wumpleutil.tooltip.advanced.datetime
+misc.wumpleutil.tooltip.advanced.expire
+misc.wumpleutil.tooltip.advanced.dimratio
+misc.wumpleutil.tooltip.timer.nonexpiring
+misc.wumpleutil.tooltip.timer.expired
+misc.wumpleutil.tooltip.timer.timer
+misc.wumpleutil.tooltip.timer.crafting
+misc.wumpleutil.tooltip.advanced.refreshing
+container.wumpleutil.targetcrafting
+misc.wumpleutil.tooltip.targetcrafting.inactive
+misc.wumpleutil.tooltip.targetcrafting.active

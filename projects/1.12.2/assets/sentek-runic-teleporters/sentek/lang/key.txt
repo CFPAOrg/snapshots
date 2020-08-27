@@ -1,0 +1,6 @@
+tile.blocknode.name
+tile.blockcore.name
+tile.blockmcore.name
+tile.blockrcore.name
+tile.blockgnode.name
+tile.blockwnode.name

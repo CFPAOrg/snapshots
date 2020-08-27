@@ -1,0 +1,38 @@
+§9§l§oWater spear ;; Super-duper-ultra fast, really high damage, breaks blocks!
+§9§lWave
+Summon a wave of water to destroy your enemies, travels a little on land.
+Make your enemies wave goodbye
+A lot more damage
+Much larger
+§9§l§oTsunami ;; Creates a massive wave
+§9§l§oForce §9§l§owave ;; Very fast waves, explosions
+§9§lWater §9§lBubble
+Suspend and transport a bubble of water. Can be used like a long-range bucket.
+Short-ranged water bubble, water dries up after impact
+Throw the bubble much farther
+Bubble creates permanent water source on landing
+Throw water bubble very far
+Doesn't use up water to create bubble - infinite water
+§9§lWater §9§lSkate
+Run on the surface of water. Useful as an evasive ability, or just to get around.
+Slip across the water, can't use abilities
+Can use abilities while skating
+Much faster, and you can now skate on flowing water!
+§9§l§oBalanced §9§l§oskating ;; Can skate even on solid blocks!
+§9§l§oWatery §9§l§oimpact ;; Smash the ground after jumping
+§9§lWater §9§lCannon
+Make a continuous stream of water acts as crowd control. It takes a while to charge up, and takes 3 water charges out of water pouches.
+Basic water cannon
+Deals more damage, slightly larger
+Deals even more damage; you can now just be near a waterbendable block to use water cannon, you don't have to look at one!
+§9§l§oTitanium §9§l§oTearer ;; Unleash a hydro-powered beam of such force that it can tear through steel!
+§9§l§oRapidfire ;; Rapidly create many smaller streams of water that pierces through enemies!
+§9§lCleanse
+Grant yourself and nearby players restorative health effects, plus bending buffs
+§oIt's §olike §oa §ofree §oshower!
+Share regeneration with nearby players
+Give yourself saturation
+§9§l§oInvigoration ;; Also receive instant health boost
+§9§l§oFocus ;; Deal much more damage in combat and move much more quickly
+§f§lAir Gust
+Generate a strong gust of air to push enemies back, allowing you to focus on another problem.

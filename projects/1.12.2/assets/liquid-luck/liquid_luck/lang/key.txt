@@ -1,0 +1,9 @@
+potion.effect.good_luck_potion
+splash_potion.effect.good_luck_potion
+lingering_potion.effect.good_luck_potion
+tipped_arrow.effect.good_luck_potion
+potion.effect.bad_luck_potion
+splash_potion.effect.bad_luck_potion
+lingering_potion.effect.bad_luck_potion
+tipped_arrow.effect.bad_luck_potion
+item.liquid_luck.clover.name

@@ -1,0 +1,30 @@
+Dazzle
+$COLOR $STYLE
+Analog $COLOR $STYLE
+Classic Lamp
+Modern Lamp
+Pulsating Lamp
+Sea Lantern
+Black
+Red
+Green
+Brown
+Blue
+Purple
+Cyan
+Light Gray
+Gray
+Pink
+Lime
+Yellow
+Light Blue
+Magenta
+Orange
+White
+Use a Redstone Torch to invert
+Invisible Light Source (how are you reading this?!)
+Dim Redstone Torch
+%s Dust Light
+Light Sensor
+Light Panel
+WARNING: Unfinished!

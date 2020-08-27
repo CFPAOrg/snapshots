@@ -1,0 +1,26 @@
+§f§l§oRun §f§l§olike §f§l§othe §f§l§owind ;; You can now run on air! Potion effects are stronger, you're more frequently invisible.
+§f§lAir Burst
+Slowly draw the surrounding air inwards, then release it in a massive blast that knocks back enemies!
+"Nope!" nearby enemies, blasting them away with a shockwave of air.
+Charge timed reduced; damage, radius, and knockback increased.
+Everything is enhanced!
+§f§lPiercing Winds ;; Way higher damage, and release winds of such ferocity that they blind, weaken, and slow enemies!
+§f§lMaximum Pressure ;; Slowly draw enemies in before firing them away!! A massive radius!
+§b§lLightning §b§lArc
+Create imposing arcs of electricity to electrocute your enemies! Explode on impact with the ground, but not mobs or players.
+Intimidate potential boyfriends
+Lightning travels faster, bigger explosion on colliding with the ground.
+Lightning does more damage, bigger explosion on colliding with the ground.
+§b§lFurious lightning ;; Does more damage, slightly smaller, another bolt
+§b§lLarge thunderbolts ;; Has a larger hitbox, and does all of its damage instantly, then explodes, instead of sticking. Additionally, its explosion is huge!
+§b§lLightning §b§lRaze
+Rain down lightning bolts where you're looking! Pretty inaccurate.
+MWAHAHAHAHAHAHA
+Frequency of lightning bolts increased, along with duration, number of bolts, and the accuracy.
+Everything gets better, including the damage!
+§b§lZeus' §b§lWrath ;; Super accurately rain down super-fast and dangerous bolts of lightning where you're looking.
+§b§lThor's §b§lWrath ;; Snipe your enemies with a massive cloud of lightning that you can control, spawnable from up to 20 blocks away! Pretty low damage, though.
+§b§lLightning §b§lRedirection
+Represents your ability to redirect lightning, doesn't appear in the radial menu
+60% chance to redirect lightning, be careful!
+70% chance to redirect

@@ -1,0 +1,2 @@
+item.prospector.name
+item.prospector_compass.name

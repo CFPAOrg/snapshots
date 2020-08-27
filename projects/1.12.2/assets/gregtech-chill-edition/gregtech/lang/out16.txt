@@ -1,0 +1,92 @@
+Expert Brewery
+Ultimate Brewery
+Basic Canner
+Intermediate Canner
+Advanced Canner
+Elite Canner
+Master Canner
+Expert Canner
+Ultimate Canner
+Can fill or drain any fluid container!
+Basic Centrifuge
+Intermediate Centrifuge
+Advanced Centrifuge
+Elite Centrifuge
+Master Centrifuge
+Expert Centrifuge
+Ultimate Centrifuge
+Basic Chemical Bath
+Intermediate Chemical Bath
+Advanced Chemical Bath
+Elite Chemical Bath
+Master Chemical Bath
+Expert Chemical Bath
+Ultimate Chemical Bath
+Basic Chemical Reactor
+Intermediate Chemical Reactor
+Advanced Chemical Reactor
+Elite Chemical Reactor
+Master Chemical Reactor
+Expert Chemical Reactor
+Ultimate Chemical Reactor
+Basic Compressor
+Intermediate Compressor
+Advanced Compressor
+Elite Compressor
+Master Compressor
+Expert Compressor
+Ultimate Compressor
+Basic Cutter
+Intermediate Cutter
+Advanced Cutter
+Elite Cutter
+Master Cutter
+Expert Cutter
+Ultimate Cutter
+Basic Distillery
+Intermediate Distillery
+Advanced Distillery
+Basic Electrolyzer
+Intermediate Electrolyzer
+Advanced Electrolyzer
+Elite Electrolyzer
+Master Electrolyzer
+Expert Electrolyzer
+Ultimate Electrolyzer
+Basic Extractor
+Intermediate Extractor
+Advanced Extractor
+Elite Extractor
+Master Extractor
+Expert Extractor
+Ultimate Extractor
+Basic Extruder
+Intermediate Extruder
+Advanced Extruder
+Elite Extruder
+Master Extruder
+Expert Extruder
+Ultimate Extruder
+Basic Fluid Extractor
+Intermediate Fluid Extractor
+Advanced Fluid Extractor
+Elite Fluid Extractor
+Master Fluid Extractor
+Expert Fluid Extractor
+Ultimate Fluid Extractor
+Basic Fluid Heater
+Intermediate Fluid Heater
+Advanced Fluid Heater
+Elite Fluid Heater
+Master Fluid Heater
+Expert Fluid Heater
+Ultimate Fluid Heater
+Basic Fluid Solidifier
+Intermediate Fluid Solidifier
+Advanced Fluid Solidifier
+Elite Fluid Solidifier
+Master Fluid Solidifier
+Expert Fluid Solidifier
+Ultimate Fluid Solidifier
+Basic Forge Hammer
+Intermediate Forge Hammer

@@ -1,0 +1,75 @@
+Coke Oven
+Coke Oven Hatch
+Allows automation access to coke oven. Must be centered on coke oven side.
+Diesel Engine
+Large Steam Turbine
+Large Gas Turbine
+Large Plasma Turbine
+Large Bronze Boiler
+Large Steel Boiler
+Large Titanium Boiler
+Large Tungstensteel Boiler
+Structure: 3x3x4 (WxLxH) The entire structure is made out of Primitive Bricks (32 in total)./nFirst Layer is a 3x3 square./nSecond, third, and fourth layers are hollow, without the middle block./nThis block goes on the middle of any side in the second layer./nThe sides of Blast Furnaces can be shared, if the side does not have a controller./n
+Item Input for Multiblocks
+Input Bus (ULV)
+Input Bus (LV)
+Input Bus (MV)
+Input Bus (HV)
+Input Bus (EV)
+Input Bus (IV)
+Input Bus (LuV)
+Input Bus (ZPM)
+Input Bus (UV)
+Input Bus (MAX)
+Item Output for Multiblocks
+Output Bus (ULV)
+Output Bus (LV)
+Output Bus (MV)
+Output Bus (HV)
+Output Bus (EV)
+Output Bus (IV)
+Output Bus (LuV)
+Output Bus (ZPM)
+Output Bus (UV)
+Output Bus (MAX)
+Fluid Input for Multiblocks
+Input Hatch (ULV)
+Input Hatch (LV)
+Input Hatch (MV)
+Input Hatch (HV)
+Input Hatch (EV)
+Input Hatch (IV)
+Input Hatch (LuV)
+Input Hatch (ZPM)
+Input Hatch (UV)
+Input Hatch (MAX)
+Fluid Output for Multiblocks
+Output Hatch (ULV)
+Output Hatch (LV)
+Output Hatch (MV)
+Output Hatch (HV)
+Output Hatch (EV)
+Output Hatch (IV)
+Output Hatch (LuV)
+Output Hatch (ZPM)
+Output Hatch (UV)
+Output Hatch (MAX)
+Energy Input for Multiblocks
+Energy Input Hatch (ULV)
+Energy Input Hatch (LV)
+Energy Input Hatch (MV)
+Energy Input Hatch (HV)
+Energy Input Hatch (EV)
+Energy Input Hatch (IV)
+Energy Input Hatch (LuV)
+Energy Input Hatch (ZPM)
+Energy Input Hatch (UV)
+Energy Input Hatch (MAX)
+Energy Output Hatch (ULV)
+Energy Output Hatch (LV)
+Energy Output Hatch (MV)
+Energy Output Hatch (HV)
+Energy Output Hatch (EV)
+Energy Output Hatch (IV)
+Energy Output Hatch (LuV)
+Energy Output Hatch (ZPM)

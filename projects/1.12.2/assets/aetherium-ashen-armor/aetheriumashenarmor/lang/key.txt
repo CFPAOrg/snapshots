@@ -1,0 +1,4 @@
+item.aetherium_ashen_cloak_head.name
+item.aetherium_ashen_cloak_chest.name
+item.aetherium_ashen_cloak_legs.name
+item.aetherium_ashen_cloak_boots.name

@@ -1,0 +1,10 @@
+item.obsidian_sword.name
+item.obsidian_axe.name
+item.obsidian_pickaxe.name
+item.obsidian_spade.name
+item.obsidian_hoe.name
+tile.endstuff.name
+item.obsidian_helm.name
+item.obsidian_ches.name
+item.obsidian_legs.name
+item.obsidian_boot.name

@@ -1,0 +1,94 @@
+/maketree [wood] -> Grows a tree of the type specified.
+Missing Wood argument! /maketree [wood]
+Tree type %s not found!
+Conditions not met to make tree here!
+/heat <amount> -> sets the itemheat to amount.
+Missing amount argument! /heat <amount>
+The item in your mainhand does not have the item heat capability!
+Can only be used by a player.
+/stripworld <radiusInBlocks> -> [DANGER] Strips all stone variant blocks + water.
+Missing radius! /stripworld <radiusInBlocks>
+Done!
+Will decay in about %s day(s)!
+§fTool Class:§7 %s
+§fTool Classes:
+§fOre Dictionary name:§7 %s
+§fOre Dictionary names:
+§fMetal:§7 %s
+%d units
+%d / %d units
+§6%d total units
+%d units / §6%d total
+Smelt in %s
+ - Liquid
+ - Solid
+Empty
+Contains %1$d mB of %2$s
+%d mB
+Contains %1$dx %2$s
+ and %1$dx %2$s
+Contains %1$dx %2$s
+Empty
+Empty
+%1$dx %2$s
+Can Weld
+Can Work
+Danger!!
+Plans
+This Anvil is too low tier!
+There is no flux in the anvil!
+The item(s) are not hot enough to work!
+The item(s) can't be welded!
+There is no hammer in the anvil!
+That would destroy the input!
+Result:
+Seal Barrel
+Unseal Barrel
+Cooling
+Calendar
+Season : %s
+Day : %s
+Date : %s
+%s %s %02d, %04d
+PT: %d | CT: %d
+Expires on: %s
+Rotten - I wouldn't eat that.
+Never Expires
+Nutrition:
+ - Saturation: %s%%
+ - Water: %s%%
+ - %s: %s
+Hold (Shift) for Nutrition Info
+%sToo cold%s
+%sToo dry%s
+%sToo hot%s
+Rainfall:
+Temperature:
+%sGood%s
+%sToo wet%s
+Ore
+Fuel
+Melt
+Invalid Structure!
+Seal Large Vessel
+Unseal Large Vessel
+Seal Powderkeg
+Unseal Powderkeg
+This area seems to be overworked. You probably wouldn't find much.
+Skill Bonus: %0.1f%%
+Contains %1$d mB of %2$s
+< 1 unit
+Previous Page
+Next Page
+Empty
+Add Ingredients
+Boiling
+Servings: %d
+Fertilized
+Will hatch in %d days
+Will hatch today!
+This %s is too old to mate.
+This %s has low familiarity to mate.
+This %s is pregnant!
+This %s is resting from today's mating.
+This %s is too old.

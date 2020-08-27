@@ -1,0 +1,27 @@
+Aspect Effects
+If this is true, players will gain certain potion effects once they reach a certain rung based on their aspect.
+Echeladder Animation
+Allows basic control of the "rung gained" amination in the echeladder.
+UUID Identification
+If this is set to true, minestuck will use uuids to refer to players in the saved data. On false it will instead use the old method based on usernames.
+Player-selected Title
+Enable this to let players select their own title. They will however not be able to select the Lord or Muse as class.
+Can Break Gates
+Lets gates be destroyed by explosions. Turning this off will make gates use the same explosion resistance as bedrock.
+Disable Giclops
+Right now, the giclops pathfinding is currently causing huge amounts of lag due to their size. This option is a short-term solution that will disable giclops spawning and remove all existing giclopses.
+Transportalizer-Forbidden Dimensions
+A list of dimension id's that you cannot travel to or from using transportalizers.
+Ore Multiplier
+Multiplies the cost for the 'contents' of an ore. Set to 0 to disable alchemizing ores.
+Stop Second Entry
+If this is true, players may only use an artifact once, even if they end up in the overworld again.
+Grist Refund
+Enable this and players will get a (full) grist refund from breaking blocks in editmode.
+Cruxtruder Intake
+If enabled, the regular cruxtruder will require raw cruxite to function, which is inserted through the pipe.
+Alchemiter Max Stacks
+The number of stacks that can be alchemized at the same time with the alchemiter.
+Skaianet Check
+If enabled, will during certain moments perform a check on all connections and computers that are in use. Recommended to turn off if there is a need to improve performance, however skaianet-related bugs might appear when done so.
+Default color selected. You can bring up the color selection gui again through the sburb client program, but only until you connect to a server player!

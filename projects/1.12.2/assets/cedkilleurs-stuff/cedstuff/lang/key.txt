@@ -1,0 +1,16 @@
+itemGroup.cedstuff
+item.cedstuff.autosmelter.name
+item.cedstuff.lucky_charm.name
+item.cedstuff.leathered_iron_ingot.name
+item.cedstuff.leathered_iron_stick.name
+item.cedstuff.DiamondMultiTool.name
+item.cedstuff.double_firecharge.name
+item.cedstuff.triple_firecharge.name
+item.cedstuff.quadruple_firecharge.name
+item.cedstuff.extreme_firecharge.name
+item.cedstuff.CobbleHelmet.name
+item.cedstuff.CobbleChestplate.name
+item.cedstuff.CobbleLeggings.name
+item.cedstuff.CobbleBoots.name
+tile.pulverizatorfurnace.name
+tile.PulverizatorFurnace.name

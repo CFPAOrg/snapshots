@@ -1,0 +1,108 @@
+Mithril Shovel Head
+Mithril Axe
+Mithril Axe Head
+Mithril Hoe
+Mithril Hoe Head
+Mithril Chisel
+Mithril Chisel Head
+Mithril Sword
+Mithril Sword Blade
+Mithril Mace
+Mithril Mace Head
+Mithril Saw
+Mithril Saw Blade
+Mithril Shears
+Mithril Shield
+Mithril Javelin
+Mithril Javelin Head
+Mithril Hammer
+Mithril Hammer Head
+Mithril Prospector's Pickaxe
+Mithril Prospector's Pickaxe Head
+Mithril Knife
+Mithril Knife Blade
+Mithril Scythe
+Mithril Scythe Blade
+Mithril Lamp
+%s Mithril Lamp
+Unshaped Mithril
+Mithril Chestplate
+Mithril Greaves
+Mithril Boots
+Mithril Helmet
+Unfinished Mithril Chestplate
+Unfinished Mithril Boots
+Unfinished Mithril Helmet
+Unfinished Mithril Greaves
+Mithril Anvil
+Osmium Ingot
+Osmium Double Ingot
+Osmium Scrap
+Osmium Dust
+Osmium Nugget
+Osmium Sheet
+Osmium Double Sheet
+Osmium Tuyere
+Osmium Pickaxe
+Osmium Pickaxe Head
+Osmium Shovel
+Osmium Shovel Head
+Osmium Axe
+Osmium Axe Head
+Osmium Hoe
+Osmium Hoe Head
+Osmium Chisel
+Osmium Chisel Head
+Osmium Sword
+Osmium Sword Blade
+Osmium Mace
+Osmium Mace Head
+Osmium Saw
+Osmium Saw Blade
+Osmium Shears
+Osmium Shield
+Osmium Javelin
+Osmium Javelin Head
+Osmium Hammer
+Osmium Hammer Head
+Osmium Prospector's Pickaxe
+Osmium Prospector's Pickaxe Head
+Osmium Knife
+Osmium Knife Blade
+Osmium Scythe
+Osmium Scythe Blade
+Osmium Lamp
+%s Osmium Lamp
+Unshaped Osmium
+Osmium Chestplate
+Osmium Greaves
+Osmium Boots
+Osmium Helmet
+Unfinished Osmium Chestplate
+Unfinished Osmium Boots
+Unfinished Osmium Helmet
+Unfinished Osmium Greaves
+Osmium Anvil
+Titanium Ingot
+Titanium Double Ingot
+Titanium Scrap
+Titanium Dust
+Titanium Nugget
+Titanium Sheet
+Titanium Double Sheet
+Titanium Tuyere
+Titanium Pickaxe
+Titanium Pickaxe Head
+Titanium Shovel
+Titanium Shovel Head
+Titanium Axe
+Titanium Axe Head
+Titanium Hoe
+Titanium Hoe Head
+Titanium Chisel
+Titanium Chisel Head
+Titanium Sword
+Titanium Sword Blade
+Titanium Mace
+Titanium Mace Head
+Titanium Saw

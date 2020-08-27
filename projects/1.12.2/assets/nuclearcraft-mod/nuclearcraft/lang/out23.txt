@@ -1,0 +1,82 @@
+Depleted LECm-243 Fuel
+Depleted LECm-243 Oxide Fuel
+Depleted HECm-243 Fuel
+Depleted HECm-243 Oxide Fuel
+Depleted LECm-245 Fuel
+Depleted LECm-245 Oxide Fuel
+Depleted HECm-245 Fuel
+Depleted HECm-245 Oxide Fuel
+Depleted LECm-247 Fuel
+Depleted LECm-247 Oxide Fuel
+Depleted HECm-247 Fuel
+Depleted HECm-247 Oxide Fuel
+Depleted LEB-248 Fuel
+Depleted LEB-248 Oxide Fuel
+Depleted HEB-248 Fuel
+Depleted HEB-248 Oxide Fuel
+Depleted LECf-249 Fuel
+Depleted LECf-249 Oxide Fuel
+Depleted HECf-249 Fuel
+Depleted HECf-249 Oxide Fuel
+Depleted LECf-251 Fuel
+Depleted LECf-251 Oxide Fuel
+Depleted HECf-251 Fuel
+Depleted HECf-251 Oxide Fuel
+Depleted Uranium Nuclear Fuel
+Depleted MOX Nuclear Fuel
+Boron-10
+Tiny Clump of Boron-10
+Boron-11
+Tiny Clump of Boron-11
+An isotope of Boron.
+Lithium-6
+Tiny Clump of Lithium-6
+Lithium-7
+Tiny Clump of Lithium-7
+An isotope of Lithium.
+Boron Sword
+Boron Pickaxe
+Boron Shovel
+Boron Axe
+Boron Hoe
+Boron Spaxelhoe
+A universal tool made up of all of the standard Boron tools.
+Tough Alloy Sword
+Tough Alloy Pickaxe
+Tough Alloy Shovel
+Tough Alloy Axe
+Tough Alloy Hoe
+Tough Alloy Spaxelhoe
+A universal tool made up of all of the standard Tough Alloy tools.
+Hard Carbon Sword
+Hard Carbon Pickaxe
+Hard Carbon Shovel
+Hard Carbon Axe
+Hard Carbon Hoe
+Hard Carbon Spaxelhoe
+A universal tool made up of all of the standard Hard Carbon tools.
+Boron Nitride Sword
+Boron Nitride Pickaxe
+Boron Nitride Shovel
+Boron Nitride Axe
+Boron Nitride Hoe
+Boron Nitride Spaxelhoe
+A universal tool made up of all of the standard Boron Nitride tools.
+Boron Helmet
+Boron Chestplate
+Boron Leggings
+Boron Boots
+Tough Alloy Helmet
+Tough Alloy Chestplate
+Tough Alloy Leggings
+Tough Alloy Boots
+Hard Carbon Helmet
+Hard Carbon Chestplate
+Hard Carbon Leggings
+Hard Carbon Boots
+Boron Nitride Helmet
+Boron Nitride Chestplate
+Boron Nitride Leggings
+Boron Nitride Boots
+Hazmat Suit Headwear
+Hazmat Suit Chestpiece

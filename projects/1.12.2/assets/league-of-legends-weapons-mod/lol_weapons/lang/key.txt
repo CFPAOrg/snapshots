@@ -1,0 +1,13 @@
+item.w.name
+item.d.name
+item.wda.name
+item.a.name
+item.wd.name
+entity.dwd.name
+item.s.name
+item.duskbladeofdrakktharr.name
+item.wdaw.name
+item.youmuu.name
+item.busteddraktharr.name
+item.wew.name
+item.lorddominiksregards.name

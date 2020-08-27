@@ -1,0 +1,72 @@
+Observatory
+Creative
+Experience
+Dig
+Explosion
+Teleport
+Grow
+Heal
+Feed
+Potion Effect
+Smoke Screen
+Burn
+Cleanse
+Extinguish
+Ender Pocket
+Freeze
+Charm
+Self
+Projectile
+AOE
+Laser
+Delay
+I'm not sure how to use this
+Magical items will never break.
+Magical armor will never break.
+Use %1$s to perform a roll in
+the current direction of movement
+Flask unbound
+Hold this in your hotbar while
+killing a mob to bind this flask
+Flask bound to: %1$s
+Flask complete, cooldown is %1$s§
+Flask bound to: %1$s
+Kills: %1$s/%2$s
+Knocks back enemies that hit you.
+Gives you two absorption hearts per piece.
+Right click to use an AOE fire strike
+centered on the block you are looking
+at when charged to 100%
+Soulbound to %1$s
+Unbound
+Cheatsheet
+Click researches to unlock them.
+Scroll part %1$s/%2%$s of the research %3$s.
+%1$s
+Scroll is corrupt.
+Right click to use an AOE knockback and
+damage attack when charged to 100%
+Spell: %1$s
+Cost: %1$s
+Spell on wand is invalid.
+Wand does not have a spell bound yet.
+Do so with crouch & right click.
+Crouch & Right click to change crossbow bolt type.
+Bow will fire: %1$s bolts.
+Bow is loaded
+Bow is unloaded
+Use %1$s to fire a bolt in the current look direction.
+Crouch & %1$s to change bolt type.
+Accurate to %1$s blocks
+§cWhat have I done?
+§oI expected something to happen... but nothing did. Perhaps the name I signed was incorrect?
+§oI need to fill out all the fields to accurately predict the meteor's landing coordinates.
+§oThe calculation was not successful, the values entered must be integers.
+§oWrist crossbow(s) will now fire %1$s§o bolts.
+§oWrist crossbow(s) are reloading...
+§oI'll need a %1$s§o bolt in my inventory to shoot.
+§oI'll need a wrist crossbow in my inventory to shoot.
+§oI'm too tired to roll again (%1$s§os).
+§oI need to be on the ground to roll.
+§oI'm not sure how to open this chest.
+The void chest refuses to work in this dimension.

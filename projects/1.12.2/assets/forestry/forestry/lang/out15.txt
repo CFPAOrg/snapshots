@@ -1,0 +1,122 @@
+Acacia
+Apple Oak
+Balsa
+Blue Mahoe
+Bull Pine
+Coast Sequoia
+Common Walnut
+Dark Oak
+Date Palm
+Desert Acacia
+Giant Sequoia
+Grandidier's Baobab
+Hill Cherry
+Jungle
+Kapok
+Lemon
+Mundane Larch
+Myrtle Ebony
+Papaya
+Plum
+Red Spruce
+Silver Birch
+Silver Lime
+Sipiri
+Sugar Maple
+Sweet Chestnut
+Teak
+Wenge
+White Poplar
+White Willow
+Yellow Meranti
+Ipe
+Padauk
+Cocobolo
+Zebrawood
+%TYPE Fence
+%TYPE Fence Gate
+%TYPE Wood
+%TYPE Wood Planks
+%TYPE Wood Slab
+%TYPE Wood Slab
+%TYPE Stairs
+%TYPE Door
+Larch
+Teak
+Desert Acacia
+Lime
+Chestnut
+Wenge
+Baobab
+Sequoia
+Kapok
+Ebony
+Mahogany
+Balsa
+Willow
+Walnut
+Greenheart
+Cherry
+Mahoe
+Poplar
+Palm
+Papaya
+Pine
+Plum
+Maple
+Citrus
+Giant Sequoia
+Ipe
+Padauk
+Cocobolo
+Zebrawood
+%s (Fireproof)
+Grafter
+Proven Grafter
+Arborist's Chest
+Sapling
+Leaves
+Pod
+Manual %s
+Managed %s
+Arboretum
+Crop Farm
+Shroom Farm
+Succulent Farm
+Peat Bog
+Infernal Farm
+Reed Farm
+Orchard
+Gourd Farm
+Cocoa Plantation
+Ender Farm
+Orchid Farm
+Rubber Plantation
+Farm
+By Heat
+By Humidity
+Overall
+By Rainfall
+Hydration Required
+Use a soldering iron to turn your tree farm into any kind of farm you like.
+Program your farms!
+Soil goes into the left slots, seeds or saplings into the right slots of the reservoir on the top right part.
+Soil goes left, seeds go right!
+Smooth sandstone, bricks or stone bricks create a platform the farm will build on.
+Lay out your farmland!
+All farms need fertilizer to work. Compost or mulch will not suffice.
+Fertilizer needed!
+Use gearboxes to attach engines or power lines to your farm.
+Supply power!
+Hatches are a pipe or tube's best friend. Use them to automate transport.
+Batten down the hatches!
+Apart from the automatic farms there are manual farms which will only maintain the farm, but not build it.
+Manual farms!
+Almost all farms require water. Use valve blocks for automation.
+Supply water!
+Fertilizer
+Water Tank
+Soil
+Multi-Block: 3x4x3 - 5x4x5
+Material:
+Farm Block

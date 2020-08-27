@@ -1,0 +1,119 @@
+Lemon Green Tea
+Mint Tea
+Barley Tea
+Brown Rice Tea
+Beer
+Doburoku
+Sake
+Shouchu
+Red Wine
+White Wine
+Champagne
+Rum
+Vodka
+Whiskey
+Brandy
+Gin
+Tequila
+Liqueur
+Cocoa Liqueur
+Kir
+Royal Kir
+Margarita
+Paradise
+Sidecar
+French 75
+John Collins
+Daiquiri
+Between the Sheets
+Black Russian
+Godfather
+Godmother
+Grasshopper
+Mint Julep
+Mojito
+Rusty Nail
+Lemon Margarita
+Russian Spring
+Alexander
+Aviation
+Porto Flip
+Red Eyes
+Spritzer
+Panache
+Screwdriver
+Bloody Mary
+Saketini
+Beer Margarita
+Long Island Iced Tea
+Highball
+Porchcrawler
+Stinger
+Negroni
+Old Fashioned
+Whiskey Sour
+Gimlet
+Tequila Sunrise
+Flying Grasshopper
+Eggnog
+Scorpion
+Moscow Mule
+Boilermaker
+Food Oil
+Grape Fluid
+Red Wine
+Green Grape Fluid
+White Wine
+Champagne
+Doburoku
+Sake
+Shouchu
+Beer
+Vodka
+Rum
+Brandy
+Whiskey
+Liqueur
+Cocoa Liqueur
+Maple Syrup
+Yeast Liquid
+Hot Spring Water
+Kimono Texture
+Haori Texture
+Sakura
+Retract Katana into Sheath
+You must hold a Shinai with BOTH hands.
+You shouldn't wield two Katanas with both hands.
+You should pull out your Katana with an empty hand.
+Stone Mortar
+Campfire Pot
+This barrel contains %1$s liquid
+This barrel is empty
+Cooking Pot
+Stone Mortar
+Barrel
+Distillation Barrel
+Liquid to Bucket
+Open-air Drying
+Deer
+Samurai Illager
+Japanese Farmer
+Japanese Fisher
+Japanese Trader
+Liquor Trader
+Silk Trader
+There are many plants in this world. This book mainly describes things that must-see for harvesters
+Sakura
+Vannila Weight
+Changes generate rate of Vanilla. Increase value to gen more Vanilla.
+Pepper Weight
+Changes generate rate of Pepper. Increase value to gen more Pepper.
+BambooShot Weight
+Changes generate rate of BambooShot. Increase value to gen more BambooShot.
+Iron Sand Amount
+Hardcore Iron Ingot Recipes
+Hot Spring Weight
+Sakura Diamond Generated Everywhere
+Remaining fuel: %1$s Ticks
+Item in campfire: %1$s
+Hardcore Japan-flavored iron smelting mechanics is enabled. Enjoy Forging!

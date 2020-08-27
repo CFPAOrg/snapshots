@@ -1,0 +1,10 @@
+itemGroup.ClassicDungeonPack
+item.iron_key.name
+item.gold_key.name
+item.locked_iron_door.name
+item.locked_gold_door.name
+item.throwable_stone.name
+tile.hidden_button.name
+tile.spikes.name
+tile.stone_trap_door.name
+tile.grate.name

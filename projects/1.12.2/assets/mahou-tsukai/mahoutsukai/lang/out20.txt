@@ -1,0 +1,14 @@
+Immunity Exchange
+This scroll can be used on either the player or something the player is looking at. The target of the scroll will take no damage from repeated damage sources, but will take double damage from a damage source that was different from the last one. %%n %%nIt drains %%val0 mana from the caster on use.
+Retribution
+A Scroll of Retribution exchanges the health percentage of the caster with the health percentage of the target. It drains mana based on the difference between the user and target's health. The cost is %%val0 times the difference in health points.
+Mystic Eyes of Insight
+The Mystic Eyes of Insight allow the user to see more information about a target, such as its inventory, and, in the case of living creatures, their buffs, debuffs, etc. The mana cost is %%val0 per scroll.
+Mahou Tsukai
+A mahoutsukai, simply, is a magic user. And congrats! You are one such magic user. %%n%%nLet's first see how to draw a circle in blood. It's easy - just take damage, and quickly use the keybind %%k to draw a circle in blood on the floor. If successful, you'll see a blood circle on the ground, and a mana bar (Mahou X/Y) somewhere on your screen. Note: there is a dagger to damage yourself, if you prefer.
+Mana
+Using mana increases your maximum mana capacity over time - it's like exercising. You will naturally recover some mana over time, depending on how full your hunger is. Sleeping will regen a good chunk of your mana, and sleep is important, so sleep often!
+Attuned Gems
+If you craft an Attuner with a Diamond or Emerald, you can get an attuned gem. These gems will store mana for you, if you right click while holding the gem. Spells will automatically draw from any gems on your person.
+Performing Magic
+To perform Magic, we need a few things - mana, (optionally, depending on the recipe) a cloth, a blood circle, and 3 powdered catalysts. If the recipe is for a scroll, you'd put the cloth down first, and then draw a blood circle on top. Otherwise, simply put the circle on the floor. Take your powdered catalysts and right click the circle to add them to it.

@@ -1,0 +1,13 @@
+tile.pt2001homeassistant.name
+tile.pt2007acousticfoam.name
+tile.pt2009largetvwall.name
+tile.pt2010lboxconsole.name
+tile.pt2003mediumtvwall.name
+tile.pt2011mechpro.name
+tile.pt2001mediumtv.name
+tile.pt2008largetv.name
+tile.pt2005cinemadisplay.name
+tile.pt2006microphone.name
+tile.pt2004surroundspeaker.name
+tile.pt2013surface.name
+tile.pt2012mixer.name

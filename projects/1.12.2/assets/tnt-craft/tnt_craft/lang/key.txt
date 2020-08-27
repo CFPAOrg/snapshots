@@ -1,0 +1,7 @@
+tile.falingstone.name
+tile.compackdia.name
+item.tntbow.name
+itemGroup.tabtntcraft
+item.tntarrow.name
+tile.tnt.name
+fluid.lickwidruber

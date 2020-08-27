@@ -1,0 +1,76 @@
+§eGOH - Rare Rune 
+§9GOH - Epic Rune 
+§6GOH - Legendary Rune 
+§dGOH - Mythical Rune 
+§7ANO - Common Rune 
+§aANO - Uncommon Rune 
+§eANO - Rare Rune 
+§9ANO - Epic Rune 
+§6ANO - Legendary Rune 
+§dANO - Mythical Rune 
+§7ITA - Common Rune 
+§aITA - Uncommon Rune 
+§eITA - Rare Rune 
+§9ITA - Epic Rune 
+§6ITA - Legendary Rune 
+§dITA - Mythical Rune 
+§7RAH - Common Rune 
+§aRAH - Uncommon Rune 
+§eRAH - Rare Rune 
+§9RAH - Epic Rune 
+§6RAH - Legendary Rune 
+§dRAH - Mythical Rune 
+§7DOS - Common Rune 
+§aDOS - Uncommon Rune 
+§eDOS - Rare Rune 
+§9DOS - Epic Rune 
+§6DOS - Legendary Rune 
+§dDOS - Mythical Rune 
+§7CEN - Common Rune 
+§aCEN - Uncommon Rune 
+§eCEN - Rare Rune 
+§9CEN - Epic Rune 
+§6CEN - Legendary Rune 
+§dCEN - Mythical Rune 
+§7BER - Common Rune 
+§aBER - Uncommon Rune 
+§eBER - Rare Rune 
+§9BER - Epic Rune 
+§6BER - Legendary Rune 
+§dBER - Mythical Rune 
+§7VOH - Common Rune 
+§aVOH - Uncommon Rune 
+§eVOH - Rare Rune 
+§9VOH - Epic Rune 
+§6VOH - Legendary Rune 
+§dVOH - Mythical Rune 
+§7XAH - Common Rune 
+§aXAH - Uncommon Rune 
+§eXAH - Rare Rune 
+§9XAH - Epic Rune 
+§6XAH - Legendary Rune 
+§dXAH - Mythical Rune 
+§7Common Big Spell Loot Box 
+§aUncommon Big Spell Loot Box 
+§eRare Big Spell Loot Box 
+§9Epic Big Spell Loot Box 
+§6Legendary Big Spell Loot Box 
+§dMythical Big Spell Loot Box 
+§7Common Medium Spell Loot Box 
+§aUncommon Medium Spell Loot Box 
+§eRare Medium Spell Loot Box 
+§9Epic Medium Spell Loot Box 
+§6Legendary Medium Spell Loot Box 
+§dMythical Medium Spell Loot Box 
+§7Common Small Spell Loot Box 
+§aUncommon Small Spell Loot Box 
+§eRare Small Spell Loot Box 
+§9Epic Small Spell Loot Box 
+§6Legendary Small Spell Loot Box 
+§dMythical Small Spell Loot Box 
+§7Common Big Currency Loot Box 
+§aUncommon Big Currency Loot Box 
+§eRare Big Currency Loot Box 
+§9Epic Big Currency Loot Box 
+§6Legendary Big Currency Loot Box 
+§dMythical Big Currency Loot Box 

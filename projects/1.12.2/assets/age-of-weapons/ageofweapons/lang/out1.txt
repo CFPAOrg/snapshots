@@ -1,0 +1,125 @@
+Golden Skewer
+Diamond Skewer
+Recurve Bow
+Wooden Battle Axe
+Stone Battle Axe
+Iron Battle Axe
+Golden Battle Axe
+Diamond Battle Axe
+Stone Flail
+Iron Flail
+Golden Flail
+Diamond Flail
+Wooden Halbert
+Stone Halbert
+Iron Halbert
+Golden Halbert
+Diamond Halbert
+Wooden Longsword
+Stone Longsword
+Iron Longsword
+Golden Longsword
+Diamond Longsword
+Wooden Spear
+Stone Spear
+Iron Spear
+Golden Spear
+Diamond Spear
+Wooden Trident
+Stone Trident
+Iron Trident
+Golden Trident
+Diamond Trident
+Wooden War Axe
+Stone War Axe
+Iron War Axe
+Golden War Axe
+Diamond War Axe
+Wooden War Hammer
+Stone War Hammer
+Iron War Hammer
+Golden War Hammer
+Diamond War Hammer
+Longbow
+Crossbow
+Hammer
+Wooden Scythe
+Stone Scythe
+Iron Scythe
+Golden Scythe
+Diamond Scythe
+Wooden Lance
+Stone Lance
+Iron Lance
+Golden Lance
+Diamod Lance
+Wooden Heavy Staff
+Stone Heavy Staff
+Iron Heavy Staff
+Golden Heavy Staff
+Diamond Heavy Staff
+Wooden Multi Tool
+Stone Multi Tool
+Iron Multi Tool
+Golden Mutli Tool
+Diamond Multi Tool
+Old Ammo
+Old Shotgun Ammo
+Cannonball
+Pebble
+Compound Bow
+Dynamite
+Nails
+Toxic Nails
+Soldier Helmet
+Soldier Chestplate
+Soldier Leggings
+Soldier Boots
+Mystic Knive
+Pufferfish on a stick
+Unholy Scepter
+Basic Wand
+Nether Wand
+Aether Wand
+Curse Wand
+Holy Wand
+Maelstrom Wand
+Offensive Warhorn
+Defensive Warhorn
+Storm Wand
+Scepter of Changing
+Wooden Claw
+Stone Claw
+Iron Claw
+Golden Claw
+Diamond Claw
+Wooden Claw Sword
+Stone Claw Sword
+Iron Claw Sword
+Golden Claw Sword
+Diamond Claw Sword
+Wooden Claymore
+Stone Claymore
+Iron Claymore
+Golden Claymore
+Diamond Claymore
+Long Wooden Claymore
+Long Stone Claymore
+Long Iron Claymore
+Long Golden Claymore
+Long Diamond Claymore
+Wooden Dragonslayer Sword
+Stone Dragonslayer Sword
+Iron Dragonslayer Sword
+Golden Dragonslayer Sword
+Diamond Dragonslayer Sword
+Light Bow
+Shadow Bow
+Wooden Katana
+Stone Katana
+Iron Katana
+Golden Katana
+Diamond Katana
+Wooden Ninjatō
+Stone Ninjatō
+Iron Ninjatō

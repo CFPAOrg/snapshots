@@ -1,0 +1,27 @@
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+Industrial Door Contact Mat
+Industrial Contact Mat
+Industrial Shock Sensitive Contact Mat
+Rustic Door Pressure Plate
+Rustic Pressure Plate
+Rustic Shock Sensitive Pressure Plate
+Configurable Glass Contact Plate
+Glass Contact Plate
+§6An industrial floor contact mat that emits a redstone signal when exposed to mechanical pressure \
+§6An industrial floor contact mat that emits a redstone signal when exposed to mechanical pressure on \
+§6An industrial contact mat emitting a redstone pulse when exposed to mechanical shock from above \
+§6A metal plate that emits a redstone signal when exposed to mechanical pressure from above \
+§6A metal plate that emits a redstone signal when exposed to mechanical pressure from above \
+§6A metal plate emitting a redstone pulse when exposed to mechanical shock from above \
+§6A glass floor plate that changes color and emits a redstone signal when exposed to mechanical pressure on the top \
+§6A glass floor plate that changes color and emits a redstone signal when exposed to mechanical pressure on the top \
+Industrial Shock Activated Trapdoor
+Industrial Sensitive Shock Activated Trapdoor
+Industrial Fall-Through Detection Frame
+Rustic Shock Activated Trapdoor
+Rustic Sensitive Shock Activated Trapdoor
+Rustic Fall-Through Detector Trapdoor
+§6An industrial floor trap door that swings open and emits a redstone signal when \
+§6An industrial floor trap door that swings open and emits a redstone signal when \
+§6An industrial sensor frame that emits a redstone signal when something falls through it.§r\n\
+§6A metal floor trap door that swings open and emits a redstone signal when \

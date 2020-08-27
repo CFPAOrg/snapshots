@@ -1,0 +1,13 @@
+block.minecraft.bed.obstructed
+block.minecraft.bed.no_sleep.short_message
+block.minecraft.bed.no_sleep.long_message
+block.minecraft.bed.no_sleep.night
+block.minecraft.bed.no_sleep.time
+block.minecraft.bed.no_sleep.thunder
+block.minecraft.bed.no_sleep.rain
+block.minecraft.bed.no_sleep.bad_weather
+block.minecraft.bed.spawn_set
+multiplayer.spawn.button
+multiplayer.spawn.message
+multiplayer.spawn.confirm
+multiplayer.spawn.tooltip

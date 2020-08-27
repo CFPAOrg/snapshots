@@ -1,0 +1,9 @@
+dynamistics.category.title.ae2.pattern.crafting_substitute
+dynamistics.category.title.ae2.pattern.crafting_nonsubstitute
+dynamistics.category.title.ae2.pattern.processing
+dynamistics.category.title.pauto.unpackage
+dynamistics.category.title.pauto.package
+dynamistics.category.title.pauto.process
+dynamistics.category.title.pauto.holder
+dynamistics.recipe.text.package_processing_extra
+dynamistics.recipe.text.show_jei_categories

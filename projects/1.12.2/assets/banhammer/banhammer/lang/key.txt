@@ -1,0 +1,7 @@
+item.ban_modifier.name
+item.kick_modifier.name
+itemGroup.banhammer
+modifier.banhammer.ban.name
+modifier.banhammer.ban.desc
+modifier.banhammer.kick.name
+modifier.banhammer.kick.desc

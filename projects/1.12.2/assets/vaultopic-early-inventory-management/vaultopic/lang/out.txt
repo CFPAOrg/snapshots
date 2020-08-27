@@ -1,0 +1,9 @@
+Vault Searcher
+V.I.E.W. (Vaultopic Inventory Explorer Workbot)
+V.I.E.W. X (Vaultopic Inventory Explorer Workbot eXtended)
+V.I.C.E. (Vaultopic Item Crafting Entity)
+VIEW: Search
+VIEW: Search Last
+VICE: Craft
+Vaultopic
+Vaultopic

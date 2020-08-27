@@ -1,0 +1,111 @@
+Quantum CPU
+Random Access Memory Chip
+Integrated Circuit
+SoC
+System on a Chip
+Crystalprocessor
+An Elite Circuit
+Nanoprocessor
+An Advanced Circuit
+Quantumprocessor
+An Extreme Circuit
+Wetwareprocessor
+A Master Circuit
+ASoC Wafer
+Raw Circuit
+Integrated Logic Circuit (Wafer)
+Raw Circuit
+Central Processing Unit (wafer)
+Raw Circuit
+Glowstone doped Wafer
+Raw Circuit
+HPIC Wafer
+Raw Circuit
+Naquadah doped Wafer
+Raw Circuit
+NAND Memory Chip (Wafer)
+Raw Circuit
+NanoCPU Wafer
+Raw Circuit
+NOR Memory Chip (wafer)
+Raw Circuit
+PIC Wafer
+Raw Circuit
+QBit Wafer
+Raw Circuit
+Random Acccess Memory Chip (Wafer)
+Raw Circuit
+Wafer
+Raw Circuit
+SoC Wafer
+Raw Circuit
+Raw Carbon Fibers
+Mixed Metal plate
+Advanced Alloy Plate
+Raw Crystal Chip
+Raw Crystal Processor
+Crystal Processing Unit
+Crystal CPU
+Crystal SoC
+Crystal System on a Chip
+Stemcells
+Raw Intelligence
+Lapotron Crystal
+Iridium Alloy Plate
+Uncompressed Iridium Alloy Plate
+Neutron Reflector
+Extreme Computer
+An Extreme Circuit
+Neuro Processing Unit
+Neuto CPU
+Apatine Electrode
+Blazing Electrode
+Bronze Electrode
+Copper Electrode
+Diamantine Electrode
+Emerald Electrode
+Ender Electrode
+Golden Electrode
+Iron Electrode
+Lapis Electrode
+Obsidian Electrode
+Orchid Electrode
+Rubberised Electrode
+Tin Electrode
+Unfired Seared Brick
+Mold Form (Anvil)
+Mold Form (Ball)
+Mold Form (Block)
+Mold Form (Bottle)
+Mold Form (Cylinder)
+Mold Form (Coinage)
+Mold Form (Gear)
+Mold Form (Ingot)
+Mold Form (Name)
+Mold Form (Nuggets)
+Mold Form (Plate)
+Mold Form (Small Gear)
+Shape (Axe Head)
+Shape (Block)
+Shape (Bolt)
+Shape (Bottle)
+Shape (Cell)
+Shape (File Head)
+Shape (Gear)
+Shape (Hammer Head)
+Shape (Hoe Head)
+Shape (Ingot)
+Shape (Large Pipe)
+Shape (Medium Pipe)
+Shape (Pickaxe Head)
+Shape (Plate)
+Shape (Ring)
+Shape (Rod)
+Shape (Saw Blade)
+Shape (Shovel Head)
+Shape (Small Pipe)
+Shape (Sword Blade)
+Shape (Tiny Pipe)
+Shape (Wire)
+Energy Module
+Energy Cluster

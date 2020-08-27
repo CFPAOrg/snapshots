@@ -1,0 +1,92 @@
+Materialis
+Blacklist
+Materials Blacklist
+Modules Blacklist
+Gold
+Quartz
+Diamond
+Emerald
+Leather
+Tin
+Zinc
+Brass
+Nickel
+Aluminum
+Aluminum Brass
+Fairy Ingot
+Fairy Nugget
+Fairy Block
+Molten Fairy
+Fairy
+Pokefennium Ingot
+Pokefennium Nugget
+Pokefennium Block
+Molten Pokefennium
+Pokefennium
+Red Aurum Ingot
+Red Aurum Nugget
+Red Aurum Block
+Molten Red Aurum
+Red Aurum
+Drulloy Ingot
+Drulloy Nugget
+Drulloy Block
+Molten Drulloy
+Drulloy
+Alumite Ingot
+Alumite Nugget
+Alumite Block
+Molten Alumite
+Alumite
+Bamboo
+Jade
+Fly Wing
+Dragonfly Wing
+Exoskeleton
+Reinforced Exoskeleton
+Rhino Plate
+Living
+Wildwood
+Ghostwood
+Ghostwood
+Bloodwood
+Darkwood
+Fusewood
+Flamestring
+Impskin
+Neptunium
+Molten Neptunium
+Crystal Matrix
+Neutronium
+Infinity
+Infinity
+Blinding
+§oCan't see.§r\nInflicts hit targets with blindness.
+Bloodthirst
+§oSlurp.§r\nYour tool loves blood, when you take damage, it will absorb your blood to repair itself.
+Cosmic
+§oFrom the limitless reaches of space.§r\nExtra modifiers, instakill and fortune X.
+Crystalline
+§oNot just pretty.§r\nIncreases mining speed and attack damage.
+Depth Digger
+§oDig deep.§r\nIncreases mining speed the lower you are below sea level.
+Fancy
+§oExpensive and shiny.§r\nDoesn't do anything special, just looks cool.
+Intangible
+§oLike a wisp of smoke.§r\nOccasionally deals extra damage that goes right through armor.
+Limited
+§oLIMITED POWER§r\nDecreases attack damage and mining speed.
+Phasing
+§oWooosh.§r\nArrows fly right through blocks.
+Short Fuse
+§oExplosive personality.§r\nAttacking or mining sometimes causes a small explosion.
+Supermassive
+§oBONK.§r\nGreatly increases knockback.
+Unbreakable
+§oCan't break this.§r\nPrevents the tool from taking damage.
+Unlimited
+§oUNLIMITED POWER§r\nNegates the effect of the limited trait.
+modifier.blinding.name
+§oCan't see.§r\nSometimes inflicts attackers with blindness.
+modifier.cosmic.name
+§oFrom the limitless reaches of space.§r\nExtra modifiers and invincibility.

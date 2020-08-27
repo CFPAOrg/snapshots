@@ -1,0 +1,56 @@
+Fission Reactor Power Port
+Fission Reactor Vent
+Fission Neutron Irradiator
+Ra-Be Fission Neutron Source
+Po-Be Fission Neutron Source
+Cf-252 Fission Neutron Source
+Efficiency Multiplier: %s
+Boron-Silver Fission Neutron Shield
+Heat Gen Per Flux: %s
+Efficiency Multiplier: %s
+Fission Redstone Port (WIP)
+Fission Computer Port (WIP)
+Used to access the reactor via OpenComputers.
+Fission Neutron Irradiator Port
+Fission Fuel Cell Port
+Fission Fuel Vessel Port
+Fission Coolant Heater Port
+Standard Fission Coolant Heater Port
+Iron Fission Coolant Heater Port
+Redstone Fission Coolant Heater Port
+Quartz Fission Coolant Heater Port
+Obsidian Fission Coolant Heater Port
+Nether Brick Fission Coolant Heater Port
+Glowstone Fission Coolant Heater Port
+Lapis Fission Coolant Heater Port
+Gold Fission Coolant Heater Port
+Prismarine Fission Coolant Heater Port
+Slime Fission Coolant Heater Port
+End Stone Fission Coolant Heater Port
+Purpur Fission Coolant Heater Port
+Diamond Fission Coolant Heater Port
+Emerald Fission Coolant Heater Port
+Copper Fission Coolant Heater Port
+Fission Coolant Heater Port
+Tin Fission Coolant Heater Port
+Lead Fission Coolant Heater Port
+Boron Fission Coolant Heater Port
+Lithium Fission Coolant Heater Port
+Magnesium Fission Coolant Heater Port
+Manganese Fission Coolant Heater Port
+Aluminum Fission Coolant Heater Port
+Silver Fission Coolant Heater Port
+Fluorite Fission Coolant Heater Port
+Villiaumite Fission Coolant Heater Port
+Carobbiite Fission Coolant Heater Port
+Arsenic Fission Coolant Heater Port
+Liquid Nitrogen Fission Coolant Heater Port
+Liquid Helium Fission Coolant Heater Port
+Enderium Fission Coolant Heater Port
+Cryotheum Fission Coolant Heater Port
+Fission Neutron Shield Manager (WIP)
+Solid Fuel Fission Controller
+Solid Fuel Fission Fuel Cell
+Water Fission Heat Sink
+Iron Fission Heat Sink
+Redstone Fission Heat Sink

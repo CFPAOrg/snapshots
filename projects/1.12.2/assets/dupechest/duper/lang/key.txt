@@ -1,0 +1,4 @@
+tile.thing.name
+tile.testcontainerblock.name
+tile.special_ore.name
+item.thing_ingot.name

@@ -1,0 +1,104 @@
+Table
+Elven Table
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Wicker Chair
+Oak Wood Chair
+Red Cushion Chair
+Blue Cushion Chair
+Black Cushion Chair
+Green Cushion Chair
+Leather Chair
+Metal Mesh Chair
+Wicker Chair
+Wooden Stool
+none
+none
+none
+none
+none
+none
+Wicker Chair
+Oak Wood Chair
+Red Cushion Chair
+Blue Cushion Chair
+Black Cushion Chair
+Green Cushion Chair
+Leather Chair
+Metal Mesh Chair
+Wicker Chair
+none
+none
+none
+none
+none
+none
+none
+Oak Log Stairs
+Spruce Log Stairs
+Birch Log Stairs
+Jungle Log Stairs
+Acacia Log Stairs
+Dark Oak Log Stairs
+Wooden Supports
+Oak Planks Stairs
+Spruce Planks Stairs
+Birch Planks Stairs
+Jungle Planks Stairs
+Red Acacia Planks Stairs
+Acacia Planks Stairs
+Driftwood Stairs
+Mossy Planks Stairs
+Mossy Oak Log Stairs
+Mossy Spruce Log Stairs
+Mossy Birch Log Stairs
+Mossy Jungle Log Stairs
+Mossy Acacia Log Stairs
+Mossy Dark Oak Log Stairs
+Ivy Oak Log Stairs
+Burnt Oak Log Stairs
+Ornamental Log Stairs
+Dark Ornamental Log Stairs
+Birch Log Stairs
+Dark Birch Log Stairs
+Weathered White Planks Stairs
+White Painted Planks Stairs
+Weathered Red Planks Stairs
+Red Painted Planks Stairs
+Weathered Light Red Planks Stairs
+Light Red Painted Planks Stairs
+Orange Painted Planks Stairs
+Weathered Yellow Planks Stairs
+Yellow Painted Planks Stairs
+Weathered Green Planks Stairs
+Green Painted Planks Stairs
+Weathered Light Green Planks Stairs
+Light Green Painted Planks Stairs
+Weathered Cyan Planks Stairs
+Cyan Painted Planks Stairs
+Weathered Dark Blue Planks Stairs
+Dark Blue Painted Planks Stairs
+Weathered Blue Planks Stairs
+Weathered Light Blue Planks Stairs
+Light Blue Painted Planks Stairs
+Purple Painted Planks Stairs
+Weathered Brown Planks Stairs
+Brown Painted Planks Stairs
+Oak Platform Stairs
+Spruce Platform Stairs
+Spruce Planks (Vertical) Stairs
+Beech Log Stairs
+Mossy Beech Log Stairs
+Dark Wood Planks Stairs
+Plain Light Birch Planks Stairs

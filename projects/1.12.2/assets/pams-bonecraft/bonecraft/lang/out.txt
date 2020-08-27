@@ -1,0 +1,11 @@
+BoneCraft
+Fossil
+Bone Axe
+Bone Hoe
+Bone Pickaxe
+Bone Shovel
+Bone Sword
+Bone Helm
+Bone Chest
+Bone Legs
+Bone Boots

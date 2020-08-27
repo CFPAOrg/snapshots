@@ -1,0 +1,3 @@
+itemGroup.holdyerbreath
+item.air_bottle.name
+item.empty_air_bottle.name

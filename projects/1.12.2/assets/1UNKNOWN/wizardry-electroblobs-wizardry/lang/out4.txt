@@ -1,0 +1,22 @@
+Creates a spectral sword of equal strength to an iron sword that lasts for 30 seconds.
+Removes all potion effects currently affecting the caster, good or bad.
+Causes the target's soul to be inextricably bound to that of the caster, meaning all damage dealt to the caster is also dealt to the victim. Lasts until either the victim or the caster dies.
+Fires a slow moving bolt of dark energy in the direction you are pointing, which withers whatever it hits.
+Grants the caster night vision for 45 seconds.
+Fires a dart in the direction you are pointing which damages and weakens its target.
+Creates a patch of decay on the ground which infects any creature that touches it, causing lingering damage over time and spreading more decay wherever it walks.
+Creates an illusory clone of the caster which tricks mobs into attacking it instead. The decoy will vanish after 30 seconds.
+Causes an explosion where you are pointing, damaging all nearby creatures - including the caster, if they are too close.
+"Your arrows are no match for me!"
+A true master of earth magic can move mountains.
+Traps the target in a sphere of darkness which pulls it helplessly upwards and continually damages it.
+Launches a fireball in the direction you are pointing.
+Shoots a jet of fire a short distance in front of you.
+Lanches a firebomb in the direction you are pointing which explodes on impact, setting targets on fire.
+Grants the caster fire resistance for 30 seconds.
+Places a magical fire trap on the ground which damages and sets on fire the creature that triggers it.
+Cloaks the caster in flames for 30 seconds, causing anything that attacks them to catch fire.
+"I am the dragon."
+Creates a stream of flames in the direction you are pointing which sets on fire and continually damages targets.
+Creates a flaming axe which sets enemies on fire when hit. Lasts for 30 seconds.
+Temporarily imbues the first weapon on the caster's hotbar with the power of flame, causing it to set fire to its victims. The magic wears off after 45 seconds.

@@ -1,0 +1,117 @@
+Fragile Obsidian Hoe
+Fragile Obsidian Sword
+Obsidian Axe
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Hoe
+Obsidian Sword
+Glass Axe
+Glass Pickaxe
+Glass Shovel
+Glass Hoe
+Glass Sword
+Staff of Healing
+Ruby Bow
+Sapphire Axe
+Sapphire Pickaxe
+Sapphire Shovel
+Sapphire Hoe
+Sapphire Sword
+Bedrock Bow
+Poppy Sword
+Platinum Axe
+Platinum Pickaxe
+Platinum Shovel
+Platinum Hoe
+Platinum Sword
+Sapphire Bow
+Enderman Skeleton's Bow
+Light Bow
+Cactus Axe
+Cactus Pickaxe
+Cactus Shovel
+Cactus Hoe
+Cactus Sword
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Bedrock Helmet
+Bedrock Chestplate
+Bedrock Leggings
+Bedrock Boots
+Wooden Helmet
+Wooden Chestplate
+Wooden Leggings
+Wooden Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Cactus Helmet
+Cactus Chestplate
+Cactus Leggings
+Cactus Boots
+Feather Boots
+Shulker Boots
+Platinum Helmet
+Platinum Chestplate
+Platinum Leggings
+Platinum Boots
+Cow Boi Hat
+Food Cap
+Food Chestplate
+Food Pants
+Food Boots
+Weighted Feather Boots
+Ruby Ore
+Block of Ruby
+Block of Obsidian
+Compressed Stone
+Compressed Sandstone
+Cracked Compressed Sandstone
+Compressed Red Sandstone
+Cracked Compressed Red Sandstone
+Compressed Block of Quartz
+Quartz Ore
+Lettuce
+Ender Magic Ore
+Nether Gold Ore
+Sugar Cube
+Block of Charcoal
+Nether Diamond Ore
+Nether Emerald Ore
+Block of Sapphire
+Nether Sapphire Ore
+Obsidian Glass
+Cracked Nether Brick
+Salt Ore
+Bone Ore
+Piston Crate
+Sticky Piston Crate
+Nether Sunstone Ore
+Block of Sunstone
+Block of Salt
+Quartz Lamp
+Lit Quartz Lamp
+Ender Lapis Lazuli Ore
+Nether Crystalline Sulfur Ore
+Netherrack Crafting Table
+Block of Platinum
+Platinum Ore
+Bedrock Anvil
+Fragile Ice
+Gravel Gold Ore
+Gravel Iron Ore
+Gravel Quartz Ore
+Gravel Experience Ore
+Rainbow Block
+Sandstone Crafting Table
+Red Sandstone Crafting Table
+Block of Rubber
+Compressed Cobblestone
+Compressed Food

@@ -1,0 +1,34 @@
+The owner of this chest has been set to %1$s
+Player %1$s was added to this chest's friend list.
+Player %1$s was removed from this chest's friend list.
+The account %1$s does not exist, are you sure you spelled the name correctly?
+§oI can't edit the access of this chest
+§oI can't access this chest
+/AOTD, /aotd, and /afraidofthedark work for all commands:
+/AOTD help - Lists all AOTD Commands
+/AOTD dungeon - Lists all dungeon Commands
+AOTD dungeon commands:
+/AOTD dungeon - Lists all dungeon Commands
+/AOTD dungeon types - Lists all dungeon types present possible
+/AOTD dungeon list - Lists all dungeons present in the world
+/AOTD dungeon list <type> - Lists all dungeons of a type present in the world. See /AOTD dungeon types
+/AOTD dungeon info - Gets dungeon information in the player's current chunk
+/AOTD dungeon regenerate - Regenerates a dungeon in the player's current chunk
+Registered dungeon types:
+Structure %1$s with corner at [%2$s, %3$s, %4$s]
+Extra NBT debug info: %1$s
+No structures in your chunk.
+Must be in the overworld to get a chunk's structure info
+No structures in your chunk to regenerate.
+Must be in the overworld to regenerate a chunk's structure.
+All Overworld dungeons:
+%1$s with corner at [%2$s, %3$s, %4$s] ~ %5$s blocks away.
+Overworld dungeons of type [%1$s]:
+Unknown structure type [%1$s]
+An error occoured when computing a re-spawn position upon returning to your dimension later so the teleport can't happen. Try finding a more open place to enter the portal/chest at!
+An error occoured when computing a re-spawn position upon returning to your dimension later so the teleport can't happen. Try finding a more open place to enter the portal/chest at!
+Flask is on cooldown (%1$ss)!
+Flask is unbound or incomplete!
+§oI cannot comprehend this journal...
+This scroll is not complete yet.
+§oI don't understand the material referenced in this research scroll.

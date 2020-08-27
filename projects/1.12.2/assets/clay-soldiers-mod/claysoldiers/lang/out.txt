@@ -1,0 +1,15 @@
+Dispenser behavior
+Are you tired of placing dolls on your own? If you're looking for a way to spawn clay creatures automatically, look no further than the handy dispenser! If one is activated whilst having one or multiple dolls in its inventory, the creature will spawn where the dispenser is firing at. The dispenser will only place 1 creature at a time and, if multiple stack slots are occupied, will choose randomly which slot will be dispensed.\n\nPutting a disruptor in there will also work! When activated the dispenser will disrupt according to the disruptors' settings.
+Inventory Access
+If you don't want to always drop items on the ground for soldiers to pick it up, you can have them pick it up from chests nearby.\n\nNaturally, soldiers won't look for inventories. To make them do so you need to attach an Item Frame containing a brick doll to an inventory of your choosing. Make sure the frame is within the sight of the soldier - putting a frame on just the front of a chest will prevent soldiers standing behind the chest from accessing it.\n\nIf you want to make sure only a specific team can access an inventory, use the doll of that team instead of the brick doll.\n\nYou can attach a frame to any block with an inventory, be it chests, trapped chests, hoppers, droppers, dispensers and much more, and the soldiers are able to access it.
+Search
+Results matching with title
+Results matching with entry text
+About
+Version:
+Authors:
+Credits:
+Links:
+Github Source
+Issues and Suggestions
+CurseForge page

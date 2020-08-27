@@ -1,0 +1,13 @@
+advancements.a.title
+tile.bonecomp.name
+entity.husky.name
+advancements.icewolfbiomevisit.descr
+item.wolfsword.name
+item.wolfdimesion.name
+advancements.wolfdimension.descr
+advancements.a.descr
+advancements.icewolfbiomevisit.title
+item.extraaple.name
+item.exe.name
+advancements.wolfdimension.title
+itemGroup.tabwolfdimens

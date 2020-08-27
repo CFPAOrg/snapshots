@@ -1,0 +1,7 @@
+item.sangamir.gocraft.name
+itemGroup.sangamir
+sangamir.config.title
+sangamir.general.enableBlockIdGUI
+sangamir.general.enableItemIdGUI
+sangamir.general.enableItemRepair
+sangamir.general.enableGoCraft

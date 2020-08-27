@@ -1,0 +1,19 @@
+English
+US
+en_US
+Aim for a head
+Like in rotten pumpkin!
+Make a headshot
+Receive headshot
+Headshot protection: %d
+No head protection
+Weak head protection
+Miserable head protection
+Awful head protection
+Bad head protection
+Normal head protection
+Good head protection
+Excellent head protection
+Marvelous head protection
+Exceptional head protection
+Perfect head protection

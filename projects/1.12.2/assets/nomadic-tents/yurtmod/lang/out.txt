@@ -1,0 +1,67 @@
+Pink Shamiyana Wall (Cosmetic)
+Purple Shamiyana Wall (Cosmetic)
+Red Shamiyana Wall (Cosmetic)
+Silver Shamiyana Wall (Cosmetic)
+White Shamiyana Wall (Cosmetic)
+Yellow Shamiyana Wall (Cosmetic)
+Yurt Wall (Cosmetic)
+Yurt Wall (Cosmetic)
+Yurt Roof (Cosmetic)
+Bedouin Wall (Cosmetic)
+Bedouin Roof (Cosmetic)
+Indlu Wall (Cosmetic)
+Indlu Wall (Cosmetic)
+Dirt (Indestructible)
+Barrier
+Small Yurt
+Medium Yurt
+Large Yurt
+Huge Yurt
+Giant Yurt
+Mega Yurt
+Small Tepee
+Medium Tepee
+Large Tepee
+Huge Tepee
+Giant Tepee
+Mega Tepee
+Small Bedouin
+Medium Bedouin
+Large Bedouin
+Huge Bedouin
+Giant Bedouin
+Mega Bedouin
+Small Indlu
+Medium Indlu
+Large Indlu
+Huge Indlu
+Giant Indlu
+Mega Indlu
+Small Shamiyana
+Medium Shamiyana
+Large Shamiyana
+Huge Shamiyana
+Giant Shamiyana
+Mega Shamiyana
+Golden Crossbeam
+Obsidian Crossbeam
+Diamond Crossbeam
+Stone Tent Shovel
+Iron Tent Shovel
+Golden Tent Shovel
+Obsidian Tent Shovel
+Diamond Tent Shovel
+Tent Mallet
+Super Tent Mallet
+Tent Canvas
+Yurt Wall Section
+Tepee Wall Section
+Bedouin Wall Section
+Indlu Wall Section
+Shamiyana Wall Section
+Extra-dimensional space!
+Depth Upgrades: %s / %s
+Teleporting is not allowed inside your tent.
+Progress: %s
+Upgrade Tent Size
+Upgrade Tent Depth

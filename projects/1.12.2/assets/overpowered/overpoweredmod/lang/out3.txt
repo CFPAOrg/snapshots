@@ -1,0 +1,28 @@
+Part of the Fusion Energy structure, this is the block that is in the center. It must contain a Fusion Core in order to be considered valid.
+Part of the Fusion Energy structure. You need 6 of these to be placed on each side of the Fusion Chamber, 5 blocks away. Each one must be connected to each other and the Fusion Energy Converter with Data Cable.
+Part of the Fusion Energy structure. You must craft 6 of these and place them on each Fusion Control Unit, pointing towards the Fusion Chamber.
+Part of the Fusion Energy structure. You must first set up the other blocks in their correct positions, then connect the Fusion Energy Converter with the Fusion Control Units using Data Cable. The Fusion Chamber must also contain a Fusion Core. Once everything is set up correctly, activate the Fusion Energy Converter with a redstone signal to turn it on and start generating Energy.
+Auto Shutoff
+Lasers
+Distance
+Current Energy
+Required Energy
+Generate Portal
+No Data Cable Connected.
+Portal requires 8 Portal Frame Blocks.
+Too Many Portal Frame Blocks.
+Portal is not constructed correctly.
+Obstruction detected in portal frame.
+Portal Control Panel is off.
+Incorrect Items in Portal Frames.
+Not enough Energy.
+Player is in Creative Mode.
+Portal is Ready.
+§cBeware§r: Traveling to the Unknown Dimension is still buggy. There's a chance you may spawn in the air and fall to your death! (I believe this occurs when you enter for the first time because the dimension hasn't loaded yet.) We recommend entering the portal in Creative Mode, or disabling the Portal in the config. (Boots with Feather Falling IV won't work. I've tried.) If you're quick to enter the portal a second time before the portal goes away you might spawn on the ground. Enter at your own risk! This will get fixed in a later update.
+Strength
+Speed
+Haste
+Luck
+Extra Health
+Jump Skill
+Fire Immunity

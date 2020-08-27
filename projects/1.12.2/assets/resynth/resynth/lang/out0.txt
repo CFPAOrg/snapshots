@@ -1,0 +1,118 @@
+Resynth
+Resynth Seeds
+Resynth Produce
+Mineral Infused Stone
+Mineral Enriched Soil
+Mystical Seed Pod
+Mineral Rock
+Dense Mineral Rock
+Mineral Crystal
+Mineral Hoe
+Iron Seeds
+Gold Seeds
+Clay Seeds
+End Stone Seeds
+Sand Seeds
+Mineral Seeds
+Diamond Seeds
+Redstone Seeds
+Lapis Lazuli Seeds
+Coal Seeds
+Emerald Seeds
+Quartz Seeds
+Glowstone Seeds
+Ender Pearl Seeds
+Gunpowder Seeds
+Blaze Seeds
+Bone Seeds
+String Seeds
+Feather Seeds
+Ghast Seeds
+Nether Star Seeds
+Spider Eye Seeds
+Slime Seeds
+Shulker Seeds
+Ink Seeds
+Leather Seeds
+Rotten Flesh Seeds
+Prismarine Crystal Seeds
+Prismarine Shard Seeds
+Rabbit Foot Seeds
+Dragon's Breath Seeds
+Iron Plant
+Gold Plant
+Clay Plant
+End Stone Plant
+Sand Plant
+Mineral Straw Patch
+Diamond Straw Patch
+Redstone Straw Patch
+Lapis Lazuli Straw Patch
+Coal Straw Patch
+Emerald Straw Patch
+Quartz Straw Patch
+Glowstone Straw Patch
+Ender Pearl Flower
+Gunpowder Flower
+Blaze Flower
+Bone Flower
+String Flower
+Feather Flower
+Ghast Flower
+Nether Star Flower
+Spider Eye Flower
+Slime Flower
+Shulker Flower
+Ink Flower
+Leather Flower
+Rotten Flesh Flower
+Prismarine Crystal Flower
+Prismarine Shard Flower
+Rabbit Foot Flower
+Dragon's Breath Flower
+Organic Iron Ore
+Organic Gold Ore
+Organic Clay Block
+Organic End Stone
+Organic Sand Block
+Mineral Shard
+Diamond Shard
+Redstone Shard
+Lapis Lazuli Shard
+Coal Shard
+Emerald Shard
+Quartz Shard
+Glowstone Shard
+Ender Pearl Bulb
+Gunpowder Bulb
+Blaze Bulb
+Bone Bulb
+String Bulb
+Feather Bulb
+Ghast Bulb
+Nether Star Bulb
+Spider Eye Bulb
+Slime Bulb
+Shulker Bulb
+Ink Bulb
+Leather Bulb
+Rotten Flesh Bulb
+Prismarine Crystal Bulb
+Prismarine Shard Bulb
+Rabbit Foot Bulb
+Dragon's Breath Bulb
+Certus Quartz Crystal Seeds
+Certus Quartz Crystal Patch
+Certus Quartz Crystal Shard
+Apatite Seeds
+Apatite Patch
+Apatite Shard
+Cobalt Seeds
+Cobalt Plant
+Organic Cobalt Ore
+Ardite Seeds
+Ardite Plant
+Organic Ardite Ore
+Copper Seeds
+Copper Plant
+Organic Copper Ore

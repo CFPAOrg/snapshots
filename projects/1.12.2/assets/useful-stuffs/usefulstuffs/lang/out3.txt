@@ -1,0 +1,25 @@
+Buffs player inside a range. Place logs in the 5x5 area above it to increase the range. The maximum diameter is 16.
+Consumes fuel to work, the bigger the radius, the faster the fuel goes out.
+Sneak-Right click a log with a Flint and Steel to craft.
+The craft is disabled in config.
+Capable of storing 1080 unstackable items, and only capable of storing unstackables.
+Capable of storing 1080 stacks that has NBT data, and only capable of storing them.
+Transfers water to the surrounding area. Can be filtered with a Water Filter.
+Shuts the mouth of the nether portal beside it.
+Emit redstone signal if there is a player nearby.
+Emit redstone signal if there is a player nearby the area it is facing.
+Naturally generated above the lava sea in the nether.
+A machine that will simulate actions of a player with the recharge functionality planted in. No more piping in and out.
+An alternative food source, can be used in dyes in recipes.
+Stores 8 buckets worth of milk inside. Put inside a Milk Fermenter to make cheese. Drinking partially fermented milk is known bad to health.
+%sx√buckets ticks
+A bow that shoots arrow of light, recharge using the sunlight. The charging speed depends on the position of the sun. Those which are blessed by Artemis seem to be able to recharge using the moonlight.
+A battery that stores light, can provide energy to gadgets which use light.
+There is a chance that chickens will drop them when falling.
+Enabled in UsefulStuffs config.
+Makes player able to get on bed even it is not night time. The power of couch potato will make you fall asleep immediately, straight to the start of the next day.
+Only works when there is exact one player in the world. (WIP Item)
+Remove the mining speed debuff when you are not on the ground.
+Work as a big bucket, Shift-Right click to toggle mode.
+Work along with Fluid Containers.
+Right click a Tank Frame with a Fluid Container or use a pipe to form a tank, Shift-Right click with empty hand to take the Fluid Container out.

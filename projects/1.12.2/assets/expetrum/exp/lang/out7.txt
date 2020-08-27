@@ -1,0 +1,118 @@
+Soaked Wool
+Copper Pins
+Carded Wool
+Wool Yarn
+Woven Cloth
+Wooden Needle
+Raw Iron Bloom
+Refined Iron Bloom
+Treated Stick
+Iron Lock
+Iron Nails
+Small Iron Gear
+Medium Iron Gear
+Large Iron Gear
+Iron Gear Assembly
+Water Wheel Blade
+Windmill Blade
+Sawmill Blade
+Charred Bone
+Charred Bone Ash
+Iron Rod
+Wood Pulp
+Compressed Wood Pulp
+Rock Salt
+Salt
+Acanthite Ore
+Barite Ore
+Bauxite Ore
+Beryl Ore
+Bornite Ore
+Cassiterite Ore
+Chalcocite Ore
+Chalcopyrite Ore
+Chromite Ore
+Cinnabar Ore
+Cobaltite Ore
+Coltan Ore
+Dolomite Ore
+Galena Ore
+Gold Ore
+Hematite Ore
+Ilmenite Ore
+Magnetite Ore
+Malachite Ore
+Molybdenite Ore
+Pentlandite Ore
+Pyrolusite Ore
+Scheelite Ore
+Sperrylite Ore
+Sphalerite Ore
+Uraninite Ore
+Wolframite Ore
+Lignite Ore
+Bituminous Coal Ore
+Anthracite Ore
+Graphite Ore
+Bismuthinite Ore
+Clay Pickaxe Mold
+Clay Axe Mold
+Clay Shovel Mold
+Clay Hoe Mold
+Clay Sword Mold
+Clay Knife Mold
+Clay Scythe Mold
+Clay Battleaxe Mold
+Clay Hammer Mold
+Clay Spear Mold
+Clay Watering Can Mold
+Clay Gardening Tool Mold
+Clay Saw Mold
+Clay Chisel Mold
+Ceramic Pickaxe Mold
+Ceramic Axe Mold
+Ceramic Shovel Mold
+Ceramic Hoe Mold
+Ceramic Sword Mold
+Ceramic Knife Mold
+Ceramic Scythe Mold
+Ceramic Battleaxe Mold
+Ceramic Hammer Mold
+Ceramic Spear Mold
+Ceramic Watering Can Mold
+Ceramic Gardening Tool Mold
+Ceramic Saw Mold
+Ceramic Chisel Mold
+Filled Pickaxe Mold
+Filled Axe Mold
+Filled Shovel Mold
+Filled Hoe Mold
+Filled Sword Mold
+Filled Knife Mold
+Filled Scythe Mold
+Filled Battleaxe Mold
+Filled Hammer Mold
+Filled Spear Mold
+Filled Watering Can Mold
+Filled Gardening Tool Mold
+Filled Saw Mold
+Filled Chisel Mold
+Clay Ingot Mold
+Ceramic Ingot Mold
+Filled Ingot Mold
+Clay Pot
+Clay Jug
+Clay Bowl
+Pot
+Jug
+Ceramic Bowl
+Full Jug
+Fire Starter
+Wooden Bucket
+Wooden Bucket With Fresh Water
+Wooden Bucket With Salt Water
+Wooden Bucket With Milk
+Grindstone
+Tin Clump
+Barium Clump
+Copper Clump

@@ -1,0 +1,6 @@
+item.diamond_multitool.name
+item.golden_multitool.name
+item.iron_multitool.name
+item.stone_multitool.name
+item.wooden_multitool.name
+item.bedrock_multitool.name

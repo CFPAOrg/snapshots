@@ -1,0 +1,22 @@
+Generate Pumice
+If true, Pumice will generate in the world. If disabled, this will also disable the polishing stone item.
+Generate Nether Stones
+If true, Umberstone, Alunite and Cormalite will generate in the Nether. Disabling this will also disable Gold Ore Deposits in Umberstone.
+Generate Endfections
+If disabled, this will prevent incursions into the Nether from the End. Disabling this will prevent the acquisition of End stone and Shulker Boxes before the End, as well as the ability to move End Portal Frame blocks. Shulkers can be disabled seperately below.
+Generate Soilstone
+If disabled, this will prevent Soilstone and all related blocks from generating in the world, though they will still be craftable.
+Generate Trees
+If disabled, World Gen of new trees (Yew, Beech, etc) will be prevented.
+Allow Shulkers to Generate in Nether
+If disabled, shulkers will not generate in Endfections. If Endfections are disabled, this config does nothing.
+Allow Mithril
+If disabled, will prevent generation of Mithril in the world, as well as all tools and related blocks.
+Allow Dense Ores
+If disabled, Dense variants of vanilla ores will not generate. Disable if another mod is already doing so.
+Allow Studded Coal Ores
+If enabled, coal will (very rarely) spawn other ores within itself.
+Allow Emerald Deposits
+If enabled, emerald deposits will spawn in all biomes with roughly the same rarity as vanilla diamond deposits.
+Allow Fortune to Affect Gold and Iron
+If enabled, gold and iron ores will drop a fortune-friendly alternative. Disable if another mod adds this functionality.  Disabling this will disable the dense variants of gold and iron ores, if dense ores are enabled.

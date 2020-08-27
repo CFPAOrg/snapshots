@@ -1,0 +1,50 @@
+Reinforced Twine
+Trawl Bait
+Empty Trawl Crate
+Trawl Crate
+Trawl Crate Rebind Tool
+Use to reseal a placed trawl crate. Sneak and right click on crate's chest
+Sealed Trawl Crate
+Trawl Netting
+Trawl Station
+Temple Preciouses
+Eye of Giants
+Eye of Giants (Guardians)
+Eye of Giants (Dragons)
+Eye of Giants (Golems)
+Eye of Giants (Mr. G)
+Eye of Giants (Withers)
+Eye of Giants (Zombies)
+White Dye
+Green Dye
+Dark Brown Dye
+Ink Black Dye
+Lapis Blue Dye
+Lime Green Dye
+Lime Yellow Dye
+Pinkly Dye
+Purple Dye
+Barren Talisman
+Totem Talisman
+Haunted Talisman
+Phoenix Talisman
+Olive Boots Cover
+Reward. Combine with boots on a crafting grid to add a chloroplast coat. Single install. Outfit all pieces of your armor set for a fully formed armor skin
+Olive Chestplate Cover
+Reward. Combine with chestplate on a crafting grid to add a chloroplast coat. Single install. Outfit all pieces of your armor set for a fully formed armor skin
+Olive Helmet Cover
+Reward. Combine with helmet on a crafting grid to add a chloroplast coat. Single install. Outfit all pieces of your armor set for a fully formed armor skin
+Olive Leggings Cover
+Reward. Combine with leggings on a crafting grid to add a chloroplast coat. Single install. Outfit all pieces of your armor set for a fully formed armor skin
+Drunken Crystal Sword
+Apprentice reforger's sword
+{SUMM}. Influences were hidden, mistakes were made. Bearer must exhibit 'the crazies' (or be tipsy) for sword to respond.
+Grim Reaper Sword
+Master reforger's sword
+{SUMM}. Deals an instant death blow to the creature it's targeted for. Must be fed a steady diet of tainted souls to retain this deadly touch.
+Hellfire Sword
+Master reforger's sword
+{SUMM}. Sparks an unstoppable all-consuming fire in the core of the hit target. Corruptible.
+Lava Blade Sword
+Journeyman reforger's sword
+{SUMM}. Inflicts the debilitating burns of lava with every blow while protecting the wielder from fiery blowback.

@@ -1,0 +1,36 @@
+/advancement revoke <player> through <advancement>
+Couldn't revoke the advancement '%1$s', its ancestors or its descendants from %2$s because they haven't started any
+Revoked '%1$s', all ancestors and all descendants (%3$s total revoked) from %2$s
+/advancement revoke <player> everything
+Couldn't revoke any advancements to %1$s because they haven't started any
+Revoked every advancement (%2$s total revoked) from %1$s
+/advancement test <player> <advancement> [criterion]
+Player %1$s has completed criterion '%3$s' of advancement '%2$s'
+Player %1$s has not completed criterion '%3$s' of advancement '%2$s'
+Player %1$s has completed advancement '%2$s'
+Player %1$s has not completed advancement '%2$s'
+/scoreboard <objectives|players|teams> ...
+Only one user wildcard allowed
+All matches failed
+No team was found by the name '%s'
+No objective was found by the name '%s'
+The objective '%s' is read-only and cannot be set
+/scoreboard objectives <list|add|remove|setdisplay> ...
+/scoreboard objectives setdisplay <slot> [objective]
+No such display slot '%s'
+Cleared objective display slot '%s'
+Set the display objective in slot '%s' to '%s'
+/scoreboard objectives add <name> <criteriaType> [display name ...]
+Invalid objective criteria type '%s'
+An objective with the name '%s' already exists
+The name '%s' is too long for an objective, it can be at most %s characters long
+The display name '%s' is too long for an objective, it can be at most %s characters long
+Added new objective '%s' successfully
+/scoreboard objectives remove <name>
+Removed objective '%s' successfully
+Showing %s objective(s) on scoreboard:
+- %s: displays as '%s' and is type '%s'
+There are no objectives on the scoreboard
+/scoreboard players <set|add|remove|reset|list|enable|test|operation|tag> ...
+The name '%s' is too long for a player, it can be at most %s characters long
+Set score of %s for player %s to %s

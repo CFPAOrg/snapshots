@@ -1,0 +1,30 @@
+Arrow of Size Stabilization
+Size Steal
+Shrinking
+Kobold Blessing
+Shrinking
+Size Steal
+Egg Sorter
+Pixie Dust Collector
+Void Creator
+Void Creator
+I have a strange feeling that I'm missing something, or rather, the world I'm in is. It feels like it's too safe to access more... "advanced" research. I should try to to look deeper into that.
+That's it! Based on what I've gathered from the Crimson Cultists I managed to create a device that's going to create a rare and powerful material - Void Seeds - from the flux in the area it's placed in. It requires more Flux than Vis to be present, as well as enough of it to start the process.
+Focus Effect: Size Change
+I'm fascinated by the potions capable of changing one's size. I'm going to start by analyzing the Kobold Ring, as it's connected to the concept of changing the size of a person.
+Now I have access to the effects of size changing. This could come in handy when trying to move through tight spaces, or when tryinng to weaken my foes.
+Focus Effect: Size Stabilization
+Considering I've managed to gain the ability of changing size of creatures, I wonder if I could achieve an effect reverting the size back to original?
+It was slightly harder than changing the size itself, but I've achieved it. Being able to return back to my original size should be rather useful. It should at least stop me from hitting my head every time I'm going thorough the doors...
+Focus Effect: Size Stealing
+Changing the size of others or myself is useful, but I wonder if I'll be able to use for more combat focused situations?
+I've achieved an effect of stealing the size of my foes, which will both weaken them and strengthen me in the process.
+Size change
+Allows you to change size of the target
+Size steal
+Allows you to steal the size of the target
+Size stabilization
+Stabilizes the target to their original size
+Change type
+Growth
+Shrinking

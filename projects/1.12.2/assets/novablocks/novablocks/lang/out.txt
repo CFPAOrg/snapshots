@@ -1,0 +1,44 @@
+Light gray wool half slope
+Light gray terracotta half slope
+Cyan wool half slope
+Cyan terracotta half slope
+Purple wool half slope
+Purple terracotta half slope
+Blue wool half slope
+Blue terracotta half slope
+Brown wool half slope
+Brown terracotta half slope
+Green wool half slope
+Green terracotta half slope
+Red wool half slope
+Red terracotta half slope
+Black wool half slope
+Black terracotta half slope
+Dirt half slope
+Coal block half slope
+Iron block half slope
+Gold block half slope
+Lapis block half slope
+Redstone block half slope
+Diamond block half slope
+Emerald block half slope
+Cobblestone half slope
+Stone half slope
+Stone bricks half slope
+Mossy stone bricks half slope
+Cracked stone bricks half slope
+Chiseled stone bricks half slope
+Bricks half slope
+Iron pole
+Siren
+Modern lever
+This beam has reached its minimum connection points.
+Alarm 1 selected (12.5s)
+Alarm 2 selected (15s)
+Alarm 3 selected (2s)
+NovaBlocks Configuration
+Armors
+All armors configurations.
+Spacesuit gravity effect
+Spacesuit Gravity Effect
+State of the gravity effect of the spacesuit.

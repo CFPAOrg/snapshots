@@ -1,0 +1,74 @@
+Spotlight
+The SpotLight Mod
+Config saver
+Config saver
+Add Key
+Are you sure you want to remove this key ?
+Alpha: 
+Angles
+Angle %s: 
+Back
+Properties
+Scroll speed: 
+Blue: 
+Bold
+Cancel
+Colors
+Configs
+Create Key
+Erase Key
+Delete Key
+Spotlight - %s
+Double
+Green: 
+Italic
+Beam height: 
+Mode Beam
+Mode Text
+Obfuscated
+Off
+On
+Overwrite Key
+Red: 
+Reset Time
+Auto. rotation %s: %s
+Reverse rotation %s: %s
+Rotation speed %s: 
+Secondary lazer: %s
+Shadow
+Sides: 
+Simple
+Main beam size: 
+Sec. beam size: 
+Smooth Mode
+Strike throught
+Text & colors
+Text height: 
+Text scale: 
+Textures
+3D Text
+Time: 
+Timeline
+Timeline %s
+Translate
+Translate speed: 
+Reverse translate
+Underline
+This spotlight is locked you can't open it!
+This spotlight is locked you can't break it!
+Create a key at the given time.
+Set the time for the key.
+This button get you back to the previous menu.
+Here you can change the rotations of the beams.
+Here there are some other options for the beams.
+This slider adjust the alpha component of the main beam between 0 and 1.
+This slider adjusts the blue component of the main beam between 0 and 255.
+This slider adjusts the green component of the main beam between 0 and 255.
+This slider adjusts the red component of the main beam between 0 and 255.
+This slider adjust the alpha component of the second beam between 0 and 1.
+This slider adjusts the blue component of the second beam between 0 and 255.
+This slider adjusts the green component of the second beam between 0 and 255.
+This slider adjusts the red component of the second beam between 0 and 255.
+This button takes you to the configuration interface of the beam's colors. The colors of the two beams are independent and uses the standard RGB color system. This is how colors are displayed on your screen.
+Open the configs saving screen.
+You can put a disk here to save the current spotlight's configuration in it.

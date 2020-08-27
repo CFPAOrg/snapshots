@@ -1,0 +1,95 @@
+Super Mario Blocks
+Super Mario Items
+Goomba
+Koopa
+Boo
+BobOmb
+Bullet Bill
+Cheep-Cheep
+Hammer Bro
+Toad
+Bowser
+Beetle
+Yoshi
+Spiny
+Lakitu
+Shell
+Pipe Base
+Pipe
+?-Block
+?-Block
+Underground ?-Block
+Castle ?-Block
+Empty ?-Block
+Empty ?-Block
+Empty Underground ?-Block
+Empty Castle ?-Block
+Brick Block
+Ground Block
+Decoration Block
+Underground Brick Block
+Underground Ground Block
+Note Block
+Underground Decoration Block
+Snow Ground Block
+Cloud Block
+Trampoline
+Underwater Plant
+Beanstalk
+Underwater Ground Block
+Invisible Block
+Empty Invisible Block
+Invisible Block
+Empty Invisible Block
+Castle Brick Block
+Castle Wall Block
+Castle Entry Block
+Wood
+Leaves
+Wood Planks
+Sapling
+Flagpole
+Mushroom
+1-Up Mushroom
+Fire Flower
+Starman
+Bob-Omb
+Shell
+Shell Helmet
+Shell Chestplate
+Shell Leggings
+Shell Boots
+Mario's Cap
+Mario's Cape
+Mario's Jumpsuit
+Mario's Boots
+POW Block
+Goomba Fangs
+Ivory
+Ivory Spade
+Ivory Hammer
+Ivory Pickaxe
+Ivory Axe
+Ivory Sword
+Ivory Hoe
+Coin
+Fireball
+Fire Spit
+Green Coin
+Blue Coin
+Red Coin
+Dragon Coin
+Wither Coin
+Pipe Link
+Mario Maker
+Ground Block
+Underground Ground Block
+?-Block
+Empty ?-Block
+Invisible Block
+Empty Invisible Block
+Music Disc
+Super Mario Bros. - Underwater
+Debug Item
+HOW DID YOU MANAGE THIS?! REPORT THIS TO THE MOD AUTHOR!
+Mario Maker

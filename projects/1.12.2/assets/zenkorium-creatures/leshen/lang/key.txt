@@ -1,0 +1,9 @@
+entity.leshen.name
+entity.summoned_spider.name
+entity.summoned_wolf.name
+entity.howler.name
+block.leshen_roots.name
+block.leshen_urn.name
+item.life_drain.name
+item.root_attack.name
+item.wolf_summon.name

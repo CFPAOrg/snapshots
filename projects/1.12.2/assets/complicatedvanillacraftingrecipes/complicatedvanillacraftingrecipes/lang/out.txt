@@ -1,0 +1,70 @@
+The Emerald Pickaxe is used for mining useful minerals, such a pickaxe breaks only Diamond Ore and nothing else.
+End Pickaxe
+The End Pickaxe is used for mining useful minerals, such a pickaxe already breaks all the ores and all the above ores.
+Head Clay Axe
+Head Wood Pickaxe
+Head Limestone Pickaxe
+Head Cobblestone Pickaxe
+Head Coal Limestone Pickaxe
+Head Painted Lapis Iron Pickaxe
+Head Quartz Pickaxe
+Head Redstone Pickaxe
+Head Obsidian Pickaxe
+Head Emerald Pickaxe
+Head End Pickaxe
+Cloth
+Hauberk Rings
+Wheel
+Pivot
+§oChisel Hopper
+§lUses only for creating Vanilla Hopper
+Clay Solution
+Hoop Clipper
+Working Fabric
+Small Working Fabric
+Limestone Ingot
+Concrete
+Wood Varnish
+Handle
+Handle Roller
+Roller
+Metal File
+Handle Gavel
+Wrench
+Spatula
+Handle a Screwdriver
+§oDrill
+§lAlso used for only twistings bolts.
+Pliers
+§oLarge Screwdriver
+§lUses for twistings bolts.
+Tool Box
+Tape Measure
+§oHacksaw
+§lUsed for sawing wood.
+Handle Axe
+Hacksaw Blade
+Hacksaw Handle
+Foam Coating
+Vise
+Combustible Material
+Gel Fuel
+Concrete Powder
+Quicklime Powder
+Fender
+Plastic
+Small Fireplace Door
+Large Fireplace Door
+Coral Powder
+Sandpaper
+Clay Clump
+Clay Nugget
+Gavel
+Glue
+Clay Stick
+Clay Handle
+Roasted Head Axe
+Roasted Head Hoe
+Roasted Head Shovel
+Glass Substance
+Dolomite Rock

@@ -1,0 +1,17 @@
+A kind of early-game solution to automatically cutting down trees. Create one in the center of a tree farm, and they will periodically grow a block higher, as high as the highest tree block it can find, cutting it down and any nearby logs. When it cannot find any more, the growth is reset. Caution should be taken in cultivating more than one Lignator, as they can chop down other Lignators.
+Seed Crafting Recipe
+Hourglass Conversion
+Cocito Smelting Recipe
+Crop Powered Enchanting
+Randomly ticks crops in an area around and on the same Y level as it is. Occasionally there is a chance that yellow sparks will emit from the block. Rightclicking it will provide crops around it a speed boost for a short time. Cannot be placed near other harvest traps.
+When held in the offhand, along with the Wildwood Staff in the main hand, the orb boosts the range in which to search for nearby vanilla crops to steal growth ticks from.
+This staff uses the power of crops to construct multiblocks, enchant, and so on. To fill it up with crop power, one must have vanilla crops growing nearby, in order to steal their growth ticks.
+Setting this inside the center of a Weatherflesia will set its biome to that the Weatherflesia is constructed in. Additionally, the Weatherflesia will charge up the brush, the strength of the charge depending on the length of time from when it was constructed.
++10 Upgrade: Axe gives beheading abilities to the player who wields it against mobs.
++10 Upgrade: Sword will now ignore the invulnerability time of the victims.
++10 Upgrade: Breaking sand and gravel will not cause the blocks to fall.
++10 Upgrade: Grants the pickaxe the ability to pick up mob spawners and silverfish blocks.
++10 Upgrade: Grants night vision to the wearer when in darkness.
++10 Upgrade: Will make most mobs ignore the wearer.
+Charge speed scales up with upgrade level.
++10 Upgrade: Will let the player see unusually pink blocks deep underground when using pixel vision.

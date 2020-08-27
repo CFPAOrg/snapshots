@@ -1,0 +1,2 @@
+tile.filteredhopper.name
+block.filteredhopper.filteredhopper

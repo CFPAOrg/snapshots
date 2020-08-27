@@ -1,0 +1,4 @@
+item.cyclops_eye.name
+entity.Cyclops.name
+death.attack.eye_beam
+tile.beacon_eye.name

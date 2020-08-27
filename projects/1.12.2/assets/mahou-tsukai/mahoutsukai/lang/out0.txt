@@ -1,0 +1,85 @@
+Attuner
+Attuned Diamond
+Attuned Emerald
+Dagger
+Caliburn
+Hammer
+Mortar
+Mortar and Pestle
+Pestle
+Mystic Staff of Explosive Mana Condensation
+Powdered Diamond
+Powdered Emerald
+Powdered Iron
+Powdered Gold
+Powdered Ender
+Powdered Eye
+Powdered Quartz
+Fae Essence
+Treasury Projection Gauntlet
+Scroll of the Treasury Projection Gauntlet
+Scroll of the Boundary of Drain Life
+Scroll of the Alarm Boundary
+Scroll of the Gravity Boundary
+Scroll of the Displacement Boundary
+Scroll of the Tangible Boundary
+Scroll of the Enclosure Boundary
+Scroll of Projection
+Scroll of Weapon Projectiles
+Scroll of Strengthening
+Scroll of Proximity Projection
+Scroll of the Reality Marble
+Scroll of Projectile Displacement
+Scroll of Ascension
+Scroll of Mental Displacement
+Scroll of Protective Displacement
+Scroll of Damage Absorption
+Scroll of Explosive Mana Condensation
+Scroll of the Mystic Eyes of Clairvoyance
+Scroll of Rho Aias
+Scroll of Shared Pain
+Scroll of Borrowed Authority
+Scroll of the Mystic Eyes of Reversion
+Scroll of the Cup Of Heaven
+Scroll of the Mystic Eyes of Binding
+Scroll of Spatial Disorientation
+Scroll of Summon Familiar
+Scroll of Recall Familiar
+Scroll of the Familiar's Garden
+Scroll of Immunity Exchange
+Scroll of Shared Vision
+Scroll of the Mystic Eyes of Insight
+Scroll of Familiar Exchange
+Scroll of the Mystic Eyes of the Black Flame
+Scroll of the Mystic Eyes of Death Collection
+Scroll of the Mystic Eyes of Fay Sight
+Mystic Staff of Spatial Disorientation
+Bow of Weapon Projectiles
+Crimson Black Keys of Proximity Projection
+Mystic Code
+Mystic Code - First Sorcery
+Scroll of Retribution
+Invisible Barrier
+Black Fire
+Spell Cloth
+Mahoujin Projector
+Familiar
+Draw Mahoujin
+Mahou Tsukai
+Change Mystic Code
+Mahou Tsukai
+Murky Water
+/maxmahou player_name new_mahou_limit
+Oi oi,
+Hey,
+Hey hey,
+MASTER,
+Ne ne,
+Oh,
+MASTER
+I found
+!
+I think there's some
+nearby...
+there's a
+over there!

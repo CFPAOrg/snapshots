@@ -1,0 +1,65 @@
+List of teams: 
+%s is not in a team
+%s is in the following team: %2$s
+Error: No such team
+List of players: 
+Error: Invalid config option
+Successfully altered team configuration
+Error: That name is taken
+Successfully created team: 
+Error: Player is already in your team
+You have received an invitation to join the team: 
+Successfully invited player: %s
+Error: You have not been invited to a team
+%s has joined your team
+Successfully joined the team: %s
+You have been kicked from your team
+Successfully kicked %s from your team
+Error: You own this team - you cannot leave it until it is empty
+Successfully left your team
+Error: No such team '%s'
+Successfully removed the team: %s
+Error: no such player %s
+Error: You are not the owner of this team!
+Error: You are not in a team!
+Error: You are already in a team
+Error: Error: No player called %s in your team
+Unknown Player
+Invited to team: 
+%s to accept
+Transfer Item: %s
+Go back
+Enter name:
+Set Priority Players:
+Close Menu
+Manage Team
+Create Team
+List Teams
+Transfer Items
+Configure HUD
+Teams GUI
+Advancement Sync: 
+Friendly Fire: 
+Team Config: %s
+Create Team
+Team Creator
+Taken Names:
+Invite Players
+Kick Players
+Team Options
+Leave Team
+Team Editor: %s
+Invite Player
+Invite Players: %s
+Kick Player
+Kick Players: %s
+Elligible Players:
+Teams List
+Player List: %s
+That feature is disabled!
+Player List
+Toggle Status Overlay
+Accept Team Invite
+Switch Chat Tab
+Toggle Compass Overlay
+Missing/invalid arguments. Type /help for proper usage

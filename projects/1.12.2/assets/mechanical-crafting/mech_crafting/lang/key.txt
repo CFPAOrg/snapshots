@@ -1,0 +1,3 @@
+tile.mechanical_crafter.name
+tile.sturdy_gearbox.name
+container.mechanical_crafter

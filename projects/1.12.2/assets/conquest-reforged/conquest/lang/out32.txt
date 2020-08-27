@@ -1,0 +1,67 @@
+Polished Andesite Capital
+Cobblestone Capital
+Sandstone Capital
+Iron Capital
+Brick Capital
+Mossy Cobblestone Capital
+Stone Brick Capital
+Mossy Stone Brick Capital
+Cracked Stone Brick Capital
+Nether Brick Capital
+Quartz Capital
+Light Gray Stucco Capital
+Prismarine Brick Capital
+Dark Prismarine Capital
+Red Sandstone Capital
+Purpur Capital
+Nether Wart Brick Capital
+Roman Vertical Brick Capital
+Dark Roman Brick Capital
+Dark Cobblestone Capital
+Dark Cobble Sandstone Capital
+Light Mortar Slate Capital
+White Plaster Capital
+Clean Light Gray Stucco Capital
+Clean Yellow Stucco Capital
+Clean White Plaster Capital
+Hewn Stone Capital
+Plastered Stone Tiles Capital
+Smooth Andesite Capital
+none
+Peach Plaster Capital
+Orange Red Brick Capital
+Light Gray Stonebrick Capital
+Dark Gray Stonebrick Capital
+none
+Dirty Sandstone Cobble Capital
+Worn Peach Plaster Capital
+Worn Dark Brown Plaster Capital
+Yellow Cobblestone Plaster Capital
+Light Blue Plaster Capital
+Dry Stone Cobble Capital
+Dark Sandstone Capital
+Harad Orange Wall Capital
+Seashell Wall Capital
+Light Gray Concrete Capital
+Travertine Slab Capital
+Peach Stucco Capital
+Plastered Stone Capital Directional
+Hewn Stone Capital Directional
+Colorful Slate Capital Directional
+Old Cobblestone Capital Directional
+Frozen Cobblestone Capital Directional
+Smooth Andesite Capital Directional
+Dirty Fishscale Cobblestone Capital Directional
+Overgrown Cobblestone Capital Directional
+Cobblestone with Vines Capital Directional
+Ruined Stone Brick Capital Directional
+Portcullis Groove Capital Directional
+Big Nether Brick Capital Directional
+Carved Nether Brick Capital Directional
+Red Tiles Capital Directional
+Dark Iron Capital Directional
+Peach Plaster  Capital Directional
+Orange Red Brick  Capital Directional
+Stucco Capital Directional
+Smooth White Marble Capital Directional
+Light Gray Stonebrick  Capital Directional

@@ -1,0 +1,13 @@
+tile.sugarblock.name
+entity.htyryt.name
+tile.prismarinecrystalblock.name
+item.lavenderitem.name
+tile.paperblock.name
+tile.charcoalblock.name
+tile.leatherblock.name
+tile.driftwood.name
+tile.stringblock.name
+tile.sugarcaneblock.name
+tile.gunpowderblock.name
+tile.blazepowderblock.name
+tile.lavender.name

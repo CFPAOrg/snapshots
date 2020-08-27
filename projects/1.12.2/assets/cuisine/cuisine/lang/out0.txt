@@ -1,0 +1,105 @@
+Cuisine
+Kitchen Knife
+Left ot right click on chopping board to chop things into various forms
+Iron Spatula
+A cooking tool. Right click wok with this to stir-fry ingredients in that wok.
+Fan
+Make firepit hotter and thus burning fuel even quicker. Can also blow away things.
+Wok
+Wok is just a cooking vessel. Place it on a fire pit, dump ingredients in, and use Iron Spatula on it...
+Spice Bottle
+Right click to pick fluid up, or dump seasonings into cooking vessel.
+%s
+Bottle of %s
+Dish
+Drink
+Culinary Manual
+Wooden Arm
+Can simulate right-clicking when used in Dispenser
+Wooden Handle
+Crude Salt
+Salt
+Chili Powder
+Szechuan Pepper Powder
+Bamboo Charcoal
+Brown Sugar
+Mortar
+Mortar with Water
+Peanut
+Sesame
+Rice
+Soybean
+Tomato
+Chili
+Garlic
+Ginger
+Szechuan Peppercorn
+Scallion
+Turnip
+Cabbage
+Lettuce
+Corn
+Cucumber
+Green Pepper
+Red Pepper
+Leek
+Onion
+Eggplant
+Spinach
+Bamboo Shoot
+Tofu
+White Rice
+Flour
+Dough
+Rice Powder
+Pickled Pepper
+Pickled Cabbage
+Pickled Turnip
+Pickled Cucumber
+Mandarin
+Citron
+Pomelo
+Orange
+Lemon
+Grapefruit
+Lime
+Empowered Citron
+Citrus Boat
+Citrus Door
+Soy Milk
+Mortar
+Fire Pit
+Wok on a Fire Pit
+Barbecue Rack
+Mill
+Jar
+Wooden Basin
+Earthen Basin
+White-Colored Earthen Basin
+Orange-Colored Earthen Basin
+Magenta-Colored Earthen Basin
+Light-Blue-Colored Earthen Basin
+Yellow-Colored Earthen Basin
+Lime-Colored Earthen Basin
+Pink-Colored Earthen Basin
+Gray-Colored Earthen Basin
+Light-Gray-Colored Earthen Basin
+Cyan-Colored Earthen Basin
+Purple-Colored Earthen Basin
+Blue-Colored Earthen Basin
+Brown-Colored Earthen Basin
+Green-Colored Earthen Basin
+Red-Colored Earthen Basin
+Black-Colored Earthen Basin
+Drinkro™
+Tofu Block
+Soymilk will solidify into tofu block when touching vinegar or crude salt; break tofu block to get tofu.
+Chopping Board
+Plate
+Right click wok to get your dish out
+Bamboo
+Bamboo
+Citrus Wood
+Citrus Wood Planks
+Citrus Fence
+Citrus Fence Gate

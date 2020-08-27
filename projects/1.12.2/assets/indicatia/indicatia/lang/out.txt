@@ -1,0 +1,48 @@
+Cannot use Auto Login command in Singleplayer!
+Cannot use Auto Login command in Realms server!
+Remove an Auto Login data from the server!
+No Auto Login data was set for this server!
+Reset realms message
+Set realms message to "%s"
+Already added!
+Already removed!
+Enabled Toggle Sprint
+Disabled Toggle Sprint
+Enabled Toggle Sneak
+Disabled Toggle Sneak
+Set Toggle Sprint to use 
+Ping
+Key Binding
+Command
+Cannot create profile name with 'default'!
+Profile data was already created by name '%s'!
+Add profile data name '%s'
+Cannot load profile data, empty profile data file!
+Load profile by name '%s'
+Save profile data by name '%s'
+Couldn't save profile to '%s'!
+Cannot remove default profile!
+Remove profile by name '%s'
+Cannot remove or find profile by name '%s'!
+Set slime chunk seed to %s
+Do you want to disconnect?
+Click again to Disconnect
+Refresh
+Check
+Help
+Auto Login Function set to this server!
+Reset Cape
+Reset current cape texture
+Reset Path
+Reset donator file path
+Example
+Reset CPS
+Preview
+Enabled Autofish
+Disabled Autofish
+You are not held a Fishing Rod!
+Already start Autofish!
+You didn't start using /autofish command!
+You must hold a Fishing Rod while AFK!
+Are you want to restore default config?
+Config '%s' has been reset to default setting!

@@ -1,0 +1,74 @@
+Chisel Head Beryllium Copper
+Beryllium Copper Sword
+Sword Beryllium Copper
+Beryllium Copper Sword Blade
+Sword Blade Beryllium Copper
+Beryllium Copper Mace
+Mace Beryllium Copper
+Beryllium Copper Mace Head
+Mace Head Beryllium Copper
+Beryllium Copper Saw
+Saw Beryllium Copper
+Beryllium Copper Saw Blade
+Saw Blade Beryllium Copper
+Beryllium Copper Javelin
+Javelin Beryllium Copper
+Beryllium Copper Javelin Head
+Javelin Head Beryllium Copper
+Beryllium Copper Hammer
+Hammer Beryllium Copper
+Beryllium Copper Hammer Head
+Hammer Head Beryllium Copper
+Beryllium Copper Prospector's Pickaxe
+Propick Beryllium Copper
+Beryllium Copper Prospector's Pickaxe Head
+Propick Head Beryllium Copper
+Beryllium Copper Knife
+Knife Beryllium Copper
+Beryllium Copper Knife Blade
+Knife Blade Beryllium Copper
+Beryllium Copper Scythe
+Scythe Beryllium Copper
+Beryllium Copper Scythe Blade
+Scythe Blade Beryllium Copper
+Beryllium Copper Shears
+Shears Beryllium Copper
+Beryllium Copper Unfinished Chestplate
+Unfinished Chestplate Beryllium Copper
+Beryllium Copper Chestplate
+Chestplate Beryllium Copper
+Beryllium Copper Unfinished Greaves
+Unfinished Greaves Beryllium Copper
+Beryllium Copper Greaves
+Greaves Beryllium Copper
+Beryllium Copper Unfinished Boots
+Unfinished Boots Beryllium Copper
+Beryllium Copper Boots
+Boots Beryllium Copper
+Beryllium Copper Unfinished Helmet
+Unfinished Helmet Beryllium Copper
+Beryllium Copper Helmet
+Helmet Beryllium Copper
+Beryllium Copper Shield
+Molten Hsla Steel
+Hsla Steel Ingot
+Unshaped Hsla Steel
+Hsla Steel Double Ingot
+Double Ingot Hsla Steel
+Hsla Steel Scrap
+Scrap Hsla Steel
+Hsla Steel Dust
+Dust Hsla Steel
+Hsla Steel Nugget
+Nugget Hsla Steel
+Hsla Steel Sheet
+Sheet Hsla Steel
+Hsla Steel Double Sheet
+Double Sheet Hsla Steel
+Anvil Hsla Steel
+Hsla Steel Tuyere
+Tuyere Hsla Steel
+Hsla Steel Lamp
+%s Hsla Steel Lamp
+Lamp Hsla Steel
+Pick Hsla Steel

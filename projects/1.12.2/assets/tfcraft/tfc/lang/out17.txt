@@ -1,0 +1,85 @@
+Rocksalt Cobble Double Slab
+Limestone Cobble Double Slab
+Conglomerate Cobble Double Slab
+Dolomite Cobble Double Slab
+Chert Cobble Double Slab
+Chalk Cobble Double Slab
+Rhyolite Cobble Double Slab
+Basalt Cobble Double Slab
+Andesite Cobble Double Slab
+Dacite Cobble Double Slab
+Quartzite Cobble Double Slab
+Slate Cobble Double Slab
+Phyllite Cobble Double Slab
+Schist Cobble Double Slab
+Gneiss Cobble Double Slab
+Marble Cobble Double Slab
+Granite Brick Double Slab
+Diorite Brick Double Slab
+Gabbro Brick Double Slab
+Shale Brick Double Slab
+Claystone Brick Double Slab
+Rocksalt Brick Double Slab
+Limestone Brick Double Slab
+Conglomerate Brick Double Slab
+Dolomite Brick Double Slab
+Chert Brick Double Slab
+Chalk Brick Double Slab
+Rhyolite Brick Double Slab
+Basalt Brick Double Slab
+Andesite Brick Double Slab
+Dacite Brick Double Slab
+Quartzite Brick Double Slab
+Slate Brick Double Slab
+Phyllite Brick Double Slab
+Schist Brick Double Slab
+Gneiss Brick Double Slab
+Marble Brick Double Slab
+Granite Native Copper
+Granite Native Gold
+Granite Native Platinum
+Granite Hematite
+Granite Native Silver
+Granite Cassiterite
+Granite Galena
+Granite Bismuthinite
+Granite Garnierite
+Granite Malachite
+Granite Magnetite
+Granite Limonite
+Granite Sphalerite
+Granite Tetrahedrite
+Granite Bituminous Coal
+Granite Lignite
+Granite Kaolinite
+Granite Gypsum
+Granite Satinspar
+Granite Selenite
+Granite Graphite
+Granite Kimberlite
+Granite Petrified Wood
+Granite Sulfur
+Granite Jet
+Granite Microcline
+Granite Pitchblende
+Granite Cinnabar
+Granite Cryolite
+Granite Saltpeter
+Granite Serpentine
+Granite Sylvite
+Granite Borax
+Granite Olivine
+Granite Lapis Lazuli
+Diorite Native Copper
+Diorite Native Gold
+Diorite Native Platinum
+Diorite Hematite
+Diorite Native Silver
+Diorite Cassiterite
+Diorite Galena
+Diorite Bismuthinite
+Diorite Garnierite
+Diorite Malachite
+Diorite Magnetite
+Diorite Limonite
+Diorite Sphalerite

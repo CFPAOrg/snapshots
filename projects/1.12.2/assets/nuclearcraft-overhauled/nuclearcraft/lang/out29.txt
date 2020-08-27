@@ -1,0 +1,74 @@
+Depleted HECf-249 Oxide Fuel Pellet
+Depleted HECf-249 Nitride Fuel Pellet
+Depleted HECf-249-Zirconium Alloy Fuel Pellet
+Depleted LECf-251 TRISO Fuel Pebble
+Depleted LECf-251 Oxide Fuel Pellet
+Depleted LECf-251 Nitride Fuel Pellet
+Depleted LECf-251-Zirconium Alloy Fuel Pellet
+Depleted HECf-251 TRISO Fuel Pebble
+Depleted HECf-251 Oxide Fuel Pellet
+Depleted HECf-251 Nitride Fuel Pellet
+Depleted HECf-251-Zirconium Alloy Fuel Pellet
+Depleted Uranium Nuclear Fuel
+Depleted MOX Nuclear Fuel
+Boron-10
+Boron-11
+Lithium-6
+Lithium-7
+Boron Sword
+Boron Pickaxe
+Boron Shovel
+Boron Axe
+Boron Hoe
+Boron Spaxelhoe
+A universal tool made up of all of the standard Boron tools.
+Tough Alloy Sword
+Tough Alloy Pickaxe
+Tough Alloy Shovel
+Tough Alloy Axe
+Tough Alloy Hoe
+Tough Alloy Spaxelhoe
+A universal tool made up of all of the standard Tough Alloy tools.
+Hard Carbon Sword
+Hard Carbon Pickaxe
+Hard Carbon Shovel
+Hard Carbon Axe
+Hard Carbon Hoe
+Hard Carbon Spaxelhoe
+A universal tool made up of all of the standard Hard Carbon tools.
+Boron Nitride Sword
+Boron Nitride Pickaxe
+Boron Nitride Shovel
+Boron Nitride Axe
+Boron Nitride Hoe
+Boron Nitride Spaxelhoe
+A universal tool made up of all of the standard Boron Nitride tools.
+Boron Helmet
+Boron Chestplate
+Boron Leggings
+Boron Boots
+Tough Alloy Helmet
+Tough Alloy Chestplate
+Tough Alloy Leggings
+Tough Alloy Boots
+Hard Carbon Helmet
+Hard Carbon Chestplate
+Hard Carbon Leggings
+Hard Carbon Boots
+Boron Nitride Helmet
+Boron Nitride Chestplate
+Boron Nitride Leggings
+Boron Nitride Boots
+Hazmat Suit Headwear
+Hazmat Suit Chestpiece
+Hazmat Suit Leggings
+Hazmat Suit Boots
+Lithium Ion Cell
+Multitool
+Cleared stored multitool info!
+Copied component info to multitool!
+Connected component to monitor!
+All %s shields should now be connected to this manager!
+Qubit ID: %s
+Created new qubit ID set starting with %s!
+Created new qubit ID list starting with %s!

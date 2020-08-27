@@ -1,0 +1,63 @@
+Gold Brick Block
+Beanstalk only loot item
+Stalkstone
+Stalkstone Remnants
+Infested Stalkstone
+Inchoate Gold
+Beanstalk only loot item. Claim then put in offhand or activate to repair X-enchanted gear automatically
+Living Gold
+Mr. G's Golden Precious
+Beanstalk loot only item
+Stalk Nuts
+Dropped by beanstalk leaves
+Roasted Stalk Nuts
+Bones Grinding Stone
+Beanstalk only loot item
+Bones Grinding Slab
+Gold Stalk Nut Paste
+Mr. G's Golden Grain Feed
+Place into a beanstalk animal feed station
+Fine Bones Flour
+Bones Bread Dough
+Bones Bread
+Simply delicious anytime!
+Hearty Blood Stew
+Beanstalk only loot item
+Coarse Fanciirite
+Use to improve the decorations of reforged items
+Reforge Coupon
+Given out rarely as a 'thank you' after a reforge. Use it to repair your workbook or to reduce the cost of your next reforge
+Apprentice Reforger's Gem
+Synthetic Reforger Gem
+Use as a reforge material or combine with a tainted Dark Tome to create an apprentice's gem
+Journeyman Reforger's Gem
+Master Reforger's Gem
+Reforger Gem Remnant
+Fragment of a long lost Reforger's gem found in dungeon chests. Universal repair material
+Reforger's Offer
+Details of a proposed reforging operation based on a specific request. Use it to accept or reject the new item
+Reforger's Workbook
+Beanstalk loot item. Use to access the FeeFiFoFum blacksmithing services
+Air Grabidy Block
+Placeable mid-air; does not require an adjacent object
+Albino Mycelium
+Initial conversion stage of rainbow slurry soaked mycelium
+Pinkly Mycelium
+Altitude Dust
+Ancient Netherrack Ore
+Found occasionally in the Nether
+Bleaching Crystals
+Dropped from bleaching crystals ore
+Bleaching Crystals Ore
+Found occasionally in the Nether
+Bleaching Powder
+Blight Grub
+Dropped from blighted wheat
+Roasted Grub
+Stops poison and hallucinations
+Broken Enchanted Book
+Liquid Slime
+Nether Slurry
+Pinked Slurry
+Rainbow Slurry
+Submerge mycelium to form albino mycelium (eventually)

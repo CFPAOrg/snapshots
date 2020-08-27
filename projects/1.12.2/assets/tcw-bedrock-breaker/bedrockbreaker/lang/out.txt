@@ -1,0 +1,14 @@
+Unbreakium
+Blue Activated Unbreakium
+Pink Activated Unbreakium
+White Activated Unbreakium
+Compressed Lapis Block
+Breaker Pick Blade
+Breaker Pick
+§9This pickaxe is strong enough to break bedrock, but is also very fragile.
+§b%s lapis
+§b(%s stored)
+Press Shift for more info
+§9Hold right click to charge the pickaxe using lapis in your inventory.
+§9When fully charged, it will glow, and will not take any damage from breaking bedrock. (Breaking other blocks will still damage it)
+§9This pickaxe's magic is very unstable, so it can not be safely enchanted.

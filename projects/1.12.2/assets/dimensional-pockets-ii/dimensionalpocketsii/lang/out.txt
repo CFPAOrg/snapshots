@@ -1,0 +1,54 @@
+Dimensional Pockets
+Dimensional Shard
+Dimensional Metal Ingot
+Dimensional Wrench
+General Modifier
+Energy Modifier
+Fluid Modifier
+Item Modifier
+Dimensional Ore
+Block of Dimensional Material
+Block of Dimensional Metal
+Dimensional Pocket
+Dimensional Core
+Dimensional Wall
+Dimensional Wall
+Dimensional Wall Connector
+Dimensional Energy Display
+Dimensional Fluid Display
+/dimshift <destination dimension>(As a number, Eg: 0 [Overworld])
+--- Showing help for Dimensional Pockets ---
+/dimhelp [ page ]
+/recoverpocket <pocket number> (Specifies the pocket to recover) / "length" (This will show how many pockets exist in the registry)
+Pocket number specified is more than the amount of pockets in the registry.
+You cannot recover this pocket as it does not belong to you.
+You must be in Creative mode to use this command.
+/recoverpocketadmin <pocket number> (Specifies the pocket to recover) / "length" (This will show how many pockets exist in the registry)
+Pocket number specified is more than the amount of pockets in the registry.
+/setspawn (Sets the current position you are standing to the entry point when you enter this pocket.)
+Dimensional Pocket
+Connector Configuration
+Allowed Players:
+Pocket Owner:
+Configuration:
+Legend:
+Layout:
+Internals:
+Null Creator!
+Surrounding:
+Pocket Items:
+[Locked]
+[Unlocked]
+Pocket Locked.
+Pocket Unlocked.
+This Pocket has been locked by: 
+Owned by:
+Currently: 
+This Pocket is locked. You must unlock before removal.
+Only the owner of this Pocket can remove it.
+You cannot access the settings of this pocket.
+You cannot access the settings of this pocket.
+The creator field is null.
+Side has been cycled.
+Pocket is null. Seek help from the Mod Creator.
+Creator:

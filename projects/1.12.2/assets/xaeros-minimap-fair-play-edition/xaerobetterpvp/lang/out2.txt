@@ -1,0 +1,69 @@
+Keep Entity Info For
+Reach Distance
+Max Amount of Hearts
+Show Current Biome
+Auto
+Are you sure you would like to reset default settings?
+This action can't be reversed.
+Health In Numbers
+yaw
+true
+false
+Team Colours
+Quick Waypoint
+Show Entity Depth
+Held Item Full Amount
+Display Flowers
+Display Entity Model
+WP Name Above Distance
+Max WP Draw Dist.
+Default Teleport Command
+Min WP Draw Dist.
+Other Teams
+Armour In Numbers
+Armour Value
+Arrow Scale
+Arrow Colour
+Smooth Dots
+Caves Zoom-in
+Lock Player Heads
+Use Java (CPU) based equivalent of the mod instead of OpenGL (GPU). Safe mode is a plan B, incase the mod fails normally. Not all features work in safe mode.
+Entity Height Limit
+World Map
+Use World Map Chunks
+Patreon Capes
+Entity Radar
+Potion Effects (SP only)
+Potion Effects Scale
+Terrain Depth
+Terrain Slopes
+Block Transparency
+Team
+World/Server
+Sub-World/Dimension
+Switch Waypoint Set
+Waypoint Opacity Ingame
+Waypoint Opacity On Map
+Hide IPs/World Names
+Open On Key Press
+Options
+Make World/Server Auto
+Are you sure?
+This will swap all waypoint data of the selected world/server and the automatic world/server, thus simulate making the selected world automatic. Make sure you know what you're doing.
+Make Sub-world Auto
+Are you sure?
+This will swap all waypoint data of the selected sub-world and the automatic sub-world, thus simulate making the selected sub-world automatic. Make sure you know what you're doing.
+Delete World/Server
+Would you like to delete all waypoints data for the selected world/server?
+This action cannot be reverted. Make sure you know what you're doing.
+Delete Sub-world
+Would you like to delete all waypoints data for the selected sub-world?
+This action cannot be reverted. Make sure you know what you're doing.
+Always Disp. WP Dist.
+Item Tooltip
+Item Tooltip Settings
+Minimum Lines
+Show For
+Player Head Names
+Sub-World Coordinates * 8
+Sub-World Coordinates / 8

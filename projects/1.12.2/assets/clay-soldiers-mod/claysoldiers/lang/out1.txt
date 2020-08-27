@@ -1,0 +1,53 @@
+Oak|Jungle Gecko
+Oak|Acacia Gecko
+Oak|Dark Oak Gecko
+Spruce|Oak Gecko
+Spruce|Spruce Gecko
+Spruce|Birch Gecko
+Spruce|Jungle Gecko
+Spruce|Acacia Gecko
+Spruce|Dark Oak Gecko
+Birch|Oak Gecko
+Birch|Spruce Gecko
+Birch|Birch Gecko
+Birch|Jungle Gecko
+Birch|Acacia Gecko
+Birch|Dark Oak Gecko
+Jungle|Oak Gecko
+Jungle|Spruce Gecko
+Jungle|Birch Gecko
+Jungle|Jungle Gecko
+Jungle|Acacia Gecko
+Jungle|Dark Oak Gecko
+Acacia|Oak Gecko
+Acacia|Spruce Gecko
+Acacia|Birch Gecko
+Acacia|Jungle Gecko
+Acacia|Acacia Gecko
+Acacia|Dark Oak Gecko
+Dark Oak|Oak Gecko
+Dark Oak|Spruce Gecko
+Dark Oak|Birch Gecko
+Dark Oak|Jungle Gecko
+Dark Oak|Acacia Gecko
+Dark Oak|Dark Oak Gecko
+Shear Blade
+Clay Lexicon
+Clay Statistics Display
+Soldiers
+Mounts
+Clay Soldiers (Dolls)
+Clay Soldiers (Misc. Items)
+Upgrades
+Main Hand Upgrades
+This type of upgrade is held in the main hand of soldiers. It usually increases the damage output and/or applies a special effect when attacking.\n\nA Soldier can only hold one upgrade of this type at once.
+Off Hand Upgrades
+Held in the off hand of soldiers, this type is used for support stuff or ranged weaponry.\n\nA Soldier can only hold one upgrade of this type at once.
+Core Upgrades
+An item of this type is inserted into the Soldiers body, adding additional protection or effects to the Soldier.\n\nA Soldier can only hold one upgrade of this type at once.
+Behavior Upgrades
+Those items alter the behavior of Soldiers when given, changing what they see as enemy or ally and other things.\n\nA Soldier can only hold one upgrade of this type at once.
+Miscellaneous Upgrades
+Considered "additional items" for a Soldier, their effects can range from purely cosmetics over effects to buffs and debuffs.\n\nA Soldier can usually hold multiple upgrades of this type at once, except if an upgrade has specific restrictions.
+Enhancement Upgrades
+Upgrading an upgrade can be very useful, thus this type of upgrade exist, increasing the durability and/or effects of upgrades.\n\nA Soldier can only hold upgrades of this type with the presence of the upgrade which the enhancement applies to.

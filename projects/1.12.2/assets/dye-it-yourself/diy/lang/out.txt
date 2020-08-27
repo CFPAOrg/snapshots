@@ -1,0 +1,19 @@
+General
+General config
+Sheep eat flower
+If Sheep should eat flowers
+Sheep take flower color
+Sheep should take the color of the flower they eat
+Dye drop
+Dye drop
+Sheep should drop dye
+Should sheep drop dye
+Maximum of dye Sheep should drop at the time
+Maximum dye dropped
+Minimum of dye Sheep should drop at the time
+Minimum dye dropped
+Max time until next dye
+Min time until next dye
+Color: R: %d G: %d B: %d
+Dye Brush
+Right click while sneaking to change the color and right click to dye a sheep

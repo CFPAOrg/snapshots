@@ -1,0 +1,35 @@
+Oats
+Brickery
+Mossy Bricks
+Cracked Bricks
+Mixed Cobble
+Brick Tile
+Weathered Bricks
+Brick Path
+Terracotta Tile
+Terracotta Tile
+Red Terracotta Tile
+Orange Terracotta Tile
+Yellow Terracotta Tile
+Lime Terracotta Tile
+Green Terracotta Tile
+Cyan Terracotta Tile
+Light Blue Terracotta Tile
+Blue Terracotta Tile
+Purple Terracotta Tile
+Magenta Terracotta Tile
+Pink Terracotta Tile
+White Terracotta Tile
+Light Gray Terracotta Tile
+Gray Terracotta Tile
+Black Terracotta Tile
+Brown Terracotta Tile
+Oak Flooring
+Dark Oak Flooring
+Birch Flooring
+Jungle Flooring
+Spruce Flooring
+Acacia Flooring
+Brick Furnace
+(Lit) Brick Furnace
+Brick Furnace

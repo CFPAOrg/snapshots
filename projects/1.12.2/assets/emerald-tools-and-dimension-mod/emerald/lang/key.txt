@@ -1,0 +1,16 @@
+item.emeraldshovel.name
+tile.emeraldnuggetore.name
+item.emerald_pick.name
+tile.emerwood.name
+tile.emeraldportalframe.name
+item.emeraldsoup.name
+item.emeraldsword.name
+item.emeralshere.name
+item.emeraldwand.name
+item.wizardemerald.name
+item.emeraldnugget.name
+item.emeralddimension.name
+itemGroup.tabemeraldmod
+tile.emeraldleaves.name
+item.emeraldhoe.name
+item.emeraldaxe.name

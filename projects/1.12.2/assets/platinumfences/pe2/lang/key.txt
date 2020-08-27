@@ -1,0 +1,8 @@
+item.ingot_steel.name
+item.ingot_steel_matte.name
+item.hardened_dark_clay.name
+tile.dark_clay.name
+tile.secure_fence.name
+tile.secure_hot_fence.name
+tile.secure_electrical_fence.name
+item.dark_clay_ball.name

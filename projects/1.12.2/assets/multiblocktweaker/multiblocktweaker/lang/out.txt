@@ -1,0 +1,1 @@
+Inputs consumed %s%% of the time.

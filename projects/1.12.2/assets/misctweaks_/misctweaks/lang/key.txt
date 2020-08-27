@@ -1,0 +1,5 @@
+misctweaks.config.game_options
+misctweaks.config.world
+misctweaks.config.hunger
+misctweaks.config.client
+misctweaks.config.miscellaneous

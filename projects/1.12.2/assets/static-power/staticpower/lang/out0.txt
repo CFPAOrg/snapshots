@@ -1,0 +1,132 @@
+Static Power
+Basic
+Creative
+Iron
+Gold
+Tin
+Copper
+Silver
+Lead
+Nickel
+Aluminium
+Diamond
+Emerald
+Obsidian
+Sapphire
+Ruby
+Static
+Energized
+Lumum
+WoodenWheel
+Boot Mold
+Reinforced Basic Boot
+Basic Roller Skate
+Reinforced Roller Blade
+Electric Roller Blade
+§aStatic Seeds
+§aStatic Crop
+§bEnergized Seeds
+§bEnergized Crop
+§eLumum Seeds
+Depleted Crop
+§bEnergized Fluid Bucket
+§eLumum Fluid Bucket
+§aStatic Fluid Bucket
+Basic Portable Battery
+Static Portable Battery
+Energized Portable Battery
+Lumum Portable Battery
+Basic Item Filter
+Upgraded Item Filter
+Advanced Item Filter
+Iron Plate
+Copper Plate
+Tin Plate
+Silver Plate
+Gold Plate
+Lead Plate
+Nickel Plate
+Platinum Plate
+Aluminium Plate
+Redstone Alloy Plate
+Inert Infusion Plate
+§aStatic Plate
+§bEnergized Plate
+§eLumum Plate
+Iron Ingot
+Copper Ingot
+Tin Ingot
+Silver Ingot
+Gold Ingot
+Lead Ingot
+Nickel Ingot
+Platinum Ingot
+Aluminium Ingot
+Redstone Alloy Ingot
+Inert Infusion Ingot
+§aStatic Ingot
+§bEnergized Ingot
+§eLumum Ingot
+Iron Dust
+Copper Dust
+Tin Dust
+Silver Dust
+Gold Dust
+Lead Dust
+Nickel Dust
+Platinum Dust
+Aluminium Dust
+Redstone Alloy Dust
+Inert Infusion Dust
+§aStatic Dust
+§bEnergized Dust
+§eLumum Dust
+Coal Dust
+Ruby Dust
+Sapphire Dust
+Obsidian Dust
+Cobalt Dust
+Ardite Dust
+Copper Nugget
+Tin Nugget
+Silver Nugget
+Lead Nugget
+Nickel Nugget
+Platinum Nugget
+Aluminium Nugget
+Redstone Alloy Nugget
+Inert Infusion Nugget
+§aStatic Nugget
+§bEnergized Nugget
+§eLumum Nugget
+Iron Gear
+Copper Gear
+Tin Gear
+Silver Gear
+Gold Gear
+Lead Gear
+Nickel Gear
+Platinum Gear
+Aluminium Gear
+Redstone Alloy Gear
+Inert Infusion Gear
+§aStatic Gear
+§bEnergized Gear
+§eLumum Gear
+Ruby
+Sapphire
+Sulfur
+Saltpeter
+Charcoal Dust
+§aStatic Infusion Blend
+§bEnergized Infusion Blend
+§eLumum Infusion Blend
+§aStatic Energy Crystal
+§bEnergized Energy Crystal
+§eLumum Energy Crystal
+Silicon
+Rubber
+Wood Pulp
+I/O Port
+Basic Processor
+§aStatic Processor

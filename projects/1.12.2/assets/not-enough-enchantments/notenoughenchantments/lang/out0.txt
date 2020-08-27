@@ -1,0 +1,34 @@
+Rune: Piercing Capabilities
+One of the runes. Allows your attack to pierce through an enemy's armor by 25% with each level.
+Atomic Deconstructor
+Your attacks has a very low chance that can gurantee a instant kill.
+Heavy Weight
+Reduces attack speed.
+Lifesteal
+Heals you based on your damage dealt.
+Purging Blade
+Gives your attack a chance to purge one of the enemies' potion effect. It doesn't matter whether the potion effect is positive or negative.
+Reviled Blade
+Your damage grows the more the lower your opponent's health is.
+Rusted
+Decays (Damages) the item if it stays in the user's inventory.
+Combat Veterancy
+Amplifies the healing rate of the user. This includes instant healinge effects like instant health potions.
+Parry
+Melee attacks done from enemies has a chance to be parried and they will be knockbacked as if they are damaged. In other words, attacks from enemies has a chance to be blocked.
+Counter Attack
+Melee attacks done from enemies has a chance to make you attack them automatically.
+Mortalitas
+For each death by a weapon enchanted with this enchantment, the killer gains a little damage.
+Blessed Edge
+Variant of smite, deals extra damage to undead and heals you for a percentage of your damage dealt.
+Cursed Edge
+While you deal extra damage, you will also take damage based from your attack damage.
+Unpredictable
+Literally makes your damage unpredictable from negative to positive while negative heals. Damage that is randomized is based on your damage.
+Purification
+Purifies certain entities if they are purifiable.
+Swifter Slashes
+Gives you an additional attack speed. Moreover, it gives you a chance to pierce mob invulnerability period, allowing you to attack rapidly, but with the cost of reduced damage. 
+Fiery Edge
+A variant of fire aspect that burns mobs for extended period of time. Also gives the user a chance to ignore the invulnerability of an entity if its on fire.

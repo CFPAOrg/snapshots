@@ -1,0 +1,63 @@
+If the Mod Tough as Nails is Installed
+First Aid Settings
+Baubles
+If the mod Baubles is installed what bauble slot should it use\nAvailable Types:\nTrinket, Any, All\nAmulet, Necklace, Pendant\nRing, Rings\nBelt\nHead, Hat\nBody, Chest\nCharm
+Bauble Type
+If the mod Baubles is installed what bauble slot should it use\nAvailable Types:\nTrinket, Any, All\nAmulet, Necklace, Pendant\nRing, Rings\nBelt\nHead, Hat\nBody, Chest\nCharm
+Attributes
+"For Mor Information on Attributes"\n"https://minecraft.gamepedia.com/Attribute"
+Enable Attribute Modifier
+Armor
+Attribute Modifier Amount
+Armor Amount
+Determines the Math used for the Attribute Modifer
+Armor Operation
+Enable Attribute Modifier
+Armor Toughness
+Attribute Modifier Amount
+Armor Toughness Amount
+Determines the Math used for the Attribute Modifer
+Armor Toughness Operation
+Enable Attribute Modifier
+Attack Speed
+Attribute Modifier Amount
+Attack Speed Amount
+Determines the Math used for the Attribute Modifer
+Attack Speed Operation
+Enable Attribute Modifier
+Damage
+Attribute Modifier Amount
+Damage Amount
+Determines the Math used for the Attribute Modifer
+Damage Operation
+Enable Attribute Modifier
+Health
+Attribute Modifier Amount
+Health Amount
+Determines the Math used for the Attribute Modifer
+Health Operation
+Enable Attribute Modifier
+Knockback
+Attribute Modifier Amount
+Knockback Amount
+Determines the Math used for the Attribute Modifer
+Knockback Operation
+Enable Attribute Modifier
+Luck
+Attribute Modifier Amount
+Luck Amount
+Determines the Math used for the Attribute Modifer
+Luck Operation
+Enable Attribute Modifier
+Reach
+Attribute Modifier Amount
+Reach Amount
+Determines the Math used for the Attribute Modifer
+Reach Operation
+Enable Attribute Modifier
+Movement Speed
+Attribute Modifier Amount
+Movement Speed Amount
+Determines the Math used for the Attribute Modifer
+Movement Speed Operation
+Enable Attribute Modifier

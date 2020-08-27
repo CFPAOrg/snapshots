@@ -1,0 +1,112 @@
+English
+United States
+en_us
+Done
+Cancel
+Back
+Back to title screen
+Back to server list
+Up
+Down
+Yes
+No
+None
+All
+Right Click for more
+Showing all
+Showing craftable
+Hello, world!
+Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!
+%%s %%%s %%%%s %%%%%s
+hi %
+hi %  s
+%s %s
+world
+Game Menu
+Solo Play
+Online Play
+Realms
+Settings...
+Exit
+Save and Quit to Title
+Unplug Network
+Back to Blockgame
+Generating Chaos
+Loading blocks
+Building biomes and land
+Converting map
+Resurrect
+Open to LAN
+Select Map
+blank
+Map
+Play Selected Map
+Create New Map
+Re-Create
+Play New Demo Map
+Delete
+Edit
+Edit Map
+Reset Icon
+Open Folder
+Save Map
+Are you sure you want to delete this map?
+will be lost forever! (NO UNDO!)
+Delete
+Must be converted!
+New Map
+Copy of %s
+Map Name
+Will be saved in:
+Seed for the map generator
+Leave blank for a random seed
+Cheats
+Customize
+Version:
+unknown
+Do you really want to load this map?
+This map was saved in version '%s' and loading it in this version could cause corruption!
+Use Anyway
+Map was saved in a newer version,
+loading this map could cause problems!
+Don't forget to backup this map
+before you load it in this snapshot.
+Unable to load map
+Unable to read or access folder where game maps are saved!
+Presets
+Select a Preset
+Use Preset
+Want to share your preset with someone? Use the below box!
+Alternatively, here's some we made earlier!
+Superflat Customization
+Layer Material
+Height
+Add Layer
+Edit Layer
+Remove Layer
+Top - %s
+%s
+Bottom - %s
+Classic Flat
+Tunnelers' Dream
+Water World
+Overworld
+Snowy Kingdom
+Bottomless Pit
+Desert
+Redstone Ready
+The Void
+Basic Settings
+Ore Settings
+Advanced Settings (Expert Users Only!)
+Extra Advanced Settings (Expert Users Only!)
+Randomize
+Previous Page
+Next Page
+Defaults
+This will overwrite your current
+settings and cannot be undone.
+Warning!
+Main Noise Scale X
+Main Noise Scale Y
+Main Noise Scale Z

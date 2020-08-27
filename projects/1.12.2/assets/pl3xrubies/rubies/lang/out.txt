@@ -1,0 +1,22 @@
+Ruby
+Ruby Sword
+Ruby Pickaxe
+Ruby Axe
+Ruby Shovel
+Ruby Hoe
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Block of Ruby
+Ruby Ore
+Ruby Stairs
+Ruby Ore Stairs
+Ore Chance
+Number of chances per attempt
+Ore Vein Size
+Maximum vein size
+Ore Y Min
+Minimum Y coordinate
+Ore Y Max
+Maximum Y coordinate

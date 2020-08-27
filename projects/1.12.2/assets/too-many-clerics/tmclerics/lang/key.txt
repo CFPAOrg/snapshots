@@ -1,0 +1,4 @@
+potion.effect.tmclerics.amnesia
+splash_potion.effect.tmclerics.amnesia
+lingering_potion.effect.tmclerics.amnesia
+tipped_arrow.effect.tmclerics.amnesia

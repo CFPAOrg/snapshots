@@ -1,0 +1,27 @@
+Stores a teleport destination separate from your wand.
+Must still use Arrow of Teleportation to teleport target.
+Sneak while using bow (%s+%s) to store active destination.
+Sneak while attacking (%s+%s) to clear its destination.
+Splash Potion of Teleportation
+Splash Potion of Teleportation II
+Arrow of Teleportation
+Wand of Teleportation
+- Sleep in a bed or use your wand on a teleport block to add it to your network.
+- Charge up your wand (hold %s) to teleport to your active destination.
+- Use your wand in air to show your active destination.
+- %s+%s to change your active destination.
+Teleport Beacon
+- Toggle inclusion in your network using a Wand of Teleportation.
+- %s+%s with a Wand to change active destination.
+- %s+%s to clear its destination.
+- Rename a beacon in an anvil.
+Teleport Rail
+- Toggle inclusion in your network using a Wand of Teleportation.
+- %s+%s with a Wand to change active destination.
+- %s+%s to clear its destination.
+- Rename a rail in an anvil.
+Arrow of Teleportation
+Teleportation
+Teleportation (%s x %s x %s)
+Teleport Beacon Activated
+Teleport Beacon Deactivated

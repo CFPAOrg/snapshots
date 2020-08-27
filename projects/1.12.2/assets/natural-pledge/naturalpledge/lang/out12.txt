@@ -1,0 +1,21 @@
+Dirt in lots of colors
+Using the power of &4Iridescence&0, you can make dirt that shimmers every color of the rainbow. This mystical dirt is capable of growing trees and plants without water or a hoe. It can be converted back to regular dirt using a &1Pure Daisy&0.
+Beauty from the dross
+Using the &1Iridescent Sapling&0, you can create a variety of tree that grows in all the colors of &1Iridescent Dirt&0. This can be achieved simply by planting the sapling on any colored dirt and letting it grow.
+2x4s
+Aurora Dirt
+One dirt, lots of colors
+By combining dirt with the shimmering essence of a &1Mana Pearl&0, you can make dirt that captures the threads of magic in the world, having a different color based on its location. This mystical dirt is also capable of growing trees and plants without water or a hoe. It can be converted back to regular dirt using a &1Pure Daisy&0.
+Seek the hour of twilight in the forest of silence
+Break it down
+Iridescent Lantern
+A power-level indicating light
+The &1Iridescent Lantern&0 glows with all the colors of the rainbow. While black in appearance when first set down, giving it a redstone signal will change its color. The higher the signal, the farther down the rainbow the color becomes.<br>If given a full-strength signal, the &1Iridescent Lantern&0 will glow throughout the vibrant rainbow.
+Disco ball
+Fists of Thunder
+A weapon that gets better in pairs
+The &1Fists of Thunder&0 are the standard weapons of any priest of &3Thor&0. One is formidable enough, acting like a quicker &1Iron Sword&0. If you have one on each hand, though, you can block with them as if they were a shield. They can be enchanted to make them heavier or lighter, changing their properties.
+Stopping power
+Sealing Oak
+Sound muffling tree
+The &1Sealing Oak&0 dampens the effects of loud sounds around it, causing anything around it to sound strangely far away. With enough, it's nearly impossible to hear. Any of the blocks in one of these trees can seal sounds.

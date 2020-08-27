@@ -1,0 +1,40 @@
+Phantom Steel Boots
+Natural Diamond Shovel
+Natural Diamond Pickaxe
+Natural Diamond Axe
+Natural Diamond Sword
+Natural Diamond Hoe
+Immortal Diamond Shovel
+Immortal Diamond Pickaxe
+Immortal Diamond Axe
+Immortal Diamond Sword
+Immortal Diamond Hoe
+Dragon Diamond Shovel
+Dragon Diamond Pickaxe
+Dragon Diamond Axe
+Dragon Diamond Sword
+Dragon Diamond Hoe
+Phantom Diamond Shovel
+Phantom Diamond Pickaxe
+Phantom Diamond Axe
+Phantom Diamond Sword
+Phantom Diamond Hoe
+Ender's Magic
+Only Grows on End Stone
+Libro Ender Magica
+Items
+Blocks
+Plants
+Mechanics
+Ender Apple
+This strange fruit enhances the effects of potions and magic. Some Dust Traders say that you can become a beautiful nymph by eating many of them, but some scholars argue that the Dust Trader word for "beautiful nymph" is an improper translation of "purple hag."
+Libro Ender Magica - A Guidebook to the End
+Myserious laws govern the universe, beyond those which mortals can comprehend. She knows this. She knows all. The knowledge contained in this book is not dangerous, but its use can result in great harm. Learn the lessons obtained from this tome, but do not seek to discover from whence this book has come. Such knowledge is forbidden, and not meant for the fragile minds that will try to understand it.
+Ender Arrow
+The powerful Enderman will not be able to avoid a true shot from this arrow, and will be paralyzed in its fright. But when the arrow strikes true, the Enderman is freed from its paralysis. Then, the archer should begin to fear.
+Purple Pearl
+Throwing variant of the Ender Pearl will allow you to teleport other creatures to you, damaging them in the process. Excellent for fast or hard to catch prey.
+Blue Pearl
+Unlike the Purple Pearl, this one will allow you and your prey to change places, damaging them at the same time.
+Teleportation Binder
+A dash of Enderite, an Eye of Ender, and some Glowstone is all you need. For a Dark Teleporter, sneak and right click on the base, then right click on another base to link them. For a Static Teleporter, sneak and right click on the base, then right click on the Bone Block to set the one-way destination.

@@ -1,0 +1,39 @@
+Infused Slimey Chestplate
+Infused Slimey Leggings
+Infused Slimey Helmet
+Infused Slime
+Research Results
+Organic Curiosity
+Vaporous Curiosity
+Infused Curiosity
+Animated Curiosity
+Experiment Table
+Arcane Sieve
+Great Oak Sapling
+Silver Oak Sapling
+Tainted Oak Sapling
+Paving stone of binding empowerment
+Paving stone of binding disempowerment
+Straw
+Flesh
+Slime
+Leather
+The golem is a mechanical skeleton coated with straws.Increased dexterity, low durability
+The golem is a artifical zombie.
+The golem is made out of slime, making it wiggly.
+The golem is made out of leather, and has increased carrying capacity, due to internal packet that I could put in it.
+Thaumic Arcana
+Swaps the descriptions of specific items
+Thaumic Arcana configs reloaded
+Failed to reload rendering. Check the console output for details.
+spawnArcanaStructure x y z <structure_name>
+Invaliid structure name
+/tascar <player> <check|setdamage> <number>>
+ Target can not be scarred!
+Focusing on:
+Possible results:
+Expected_result
+%s% of the result will be considered
+Unused!
+Infused with %s
+Contains:

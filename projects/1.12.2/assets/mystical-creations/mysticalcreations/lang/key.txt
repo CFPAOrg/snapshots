@@ -1,0 +1,5 @@
+item.mysticalcreations.seeds.name
+item.mysticalcreations.essence.name
+item.mysticalcreations.chunk.name
+tile.mysticalcreations.crop.name
+jei.crux_crop

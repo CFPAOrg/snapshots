@@ -1,0 +1,20 @@
+Botania Needs These Things!
+Enable Manacapacitors
+Capacity of Manasteel Manacapacitor
+Capacity of Elementium Manacapacitor
+Capacity of Terrasteel Manacapacitor
+Manasteel Manacapacitor
+Charged Manasteel Manacapacitor
+Terrasteel Manacapacitor
+Charged Terrasteel Manacapacitor
+Elementium Manacapacitor
+Charged Elementium Manacapacitor
+Mana Charger
+Manacapacitors
+Manacapacitors are another way to store mana. They are not like rings or tablets you can't use mana from them to feed your tools.<br>Change the pool mod to "From pool to item" and throw capacitor into it. The capacitor will become charged. If you want to transfer mana from a charged capacitor to a pool, change the pool mod to "From item to pool".
+Сheck the config to find out the capacity of the capacitor.
+Сheck the config to find out the capacity of the capacitor.
+Сheck the config to find out the capacity of the capacitor.
+Mana Charger
+How often did you forget about your Terra Shatterer floating in the pool?<br>Now you can sleep well.
+Sets on the Mana Pool.

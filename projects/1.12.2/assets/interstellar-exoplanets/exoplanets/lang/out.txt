@@ -1,0 +1,27 @@
+Tungsten Sheet
+Silver Sheet
+Zinc Sheet
+Copper Gear
+Tin Gear
+Lead Gear
+Nickel Gear
+Platinum Gear
+Aluminium Gear
+Titanium Gear
+Tungsten Gear
+Silver Gear
+Zinc Gear
+Bronze Alloy Sheet
+Brass Alloy Sheet
+Steel Alloy Sheet
+2219-Aluminum Alloy Sheet
+Bronze Alloy Gear
+Brass Alloy Gear
+Steel Alloy Gear
+2219-Aluminum Alloy Sheet
+EXO1 Planetary Rocket
+Molten Mantle
+Molten Mantle
+Alloy Refinery (Exoplanets)
+Ores cook more slowly and with more fuel, but will produce dust in addition to the usual ingot.
+WIP

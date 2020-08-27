@@ -1,0 +1,4 @@
+tcu:gui.imagePreview.loadingPreview
+tcu:gui.imagePreview.close
+tcu:gui.imagePreview.copyToClipboard
+tcu:gui.imagePreview.openInBrowser

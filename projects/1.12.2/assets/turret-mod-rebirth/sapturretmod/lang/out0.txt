@@ -1,0 +1,24 @@
+Turret Assembly Table
+Misc Stuff
+Turrets
+Ammunition
+Repair Kits
+Upgrades
+The assembly table is an essential part for your turret cravings, as it crafts any item and turret you need or want.\n\nTo operate it you need power as well as the items required for the item you want to craft. It currently only accepts Redstone Flux as energy.\n\nIf you think it's too slow or you want to automate it, there are a couple of upgrades available.
+Electrolyte Generator
+This machine creates energy from items (mostly food) with high enough acid or base by reacting with the electrolyte within them.\nThe more items are put in it, the higher the efficiency of the generator.\n\nEach item has its own effectiveness and decay time, which dictate how much power can be generated in total. The effectiveness level also influences the amount of power the generator can produce in a moment, but there is only so much the generator can transfer internally, so there is a cap of 200 RF/t.\n\nItems used up in the generator may produce byproducts, which could be §2trash§0 or rarely something §dvaluable§0.
+Turret Info Tablet
+Gives information about the\nitems in the Turret Mod.
+Defense Turret
+Name: %s
+Health: %s HP
+Turret Control Unit
+TCU (Turret Control Unit)
+TCU (Turret Corrosion Unity)
+TCU (Trigger Capacity Uranus)
+TCU (Timmy Cleans Utilities)
+TCU (Transient Colossal Uppercut)
+This item is a configuration and info tool for placed turrets.\n\nLooking at a turret with this tool in hand shows an info label on it with information about its name, health and ammo.\n\nRight-Clicking a turret with it will open a GUI that lets you see detailed info and configure it, like targets and upgrades.
+Automation Upgrade
+Used in the Turret Assembly Table
+This enables automation of the assembly table. Once this is applied, a button will appear where you can toggle the assembly table between manual and automation mode.\n\nIn manual mode it will act like without the upgrade, crafting items on your command.\n\nIn automation mode, you can tell it to craft a specific item. Once the items and the power are available, it'll start crafting and keep crafting until it runs out of ingredients, energy or space in the output slot.\nYou cannot change the item crafted until you cancel it.

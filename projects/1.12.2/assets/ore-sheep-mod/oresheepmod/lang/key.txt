@@ -1,0 +1,4 @@
+entity.Ore Sheep.name
+commands.oresheepmod.ignoreGameRuleMobGriefing.invalid
+commands.oresheepmod.ignoreGameRuleMobGriefing.valid
+commands.oresheepmod.ignoreGameRuleMobGriefing.usage

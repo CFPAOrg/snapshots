@@ -1,0 +1,46 @@
++ Speed
+Beam
+The spell will affect a beam coming from the caster.
+Traces a line up to <RANGE> blocks long.
+Gains <POTENCY> points per cast, runs subsequent spell components after reaching 10 points.
+Arc
+The spell will affect an arc in front of the caster.
+Maximum distance and spread increased per point of <RANGE>.
+Spell fires along <POTENCY> random lines within the cone's spread.
+Projectile
+The spell will be a projectile, launched from the caster.
+The projectile will travel up to 2*<RANGE> blocks before casting subsequent components.
+The projectile will travel <SPEED> blocks per second.
+Self
+The spell will affect the caster directly.
+Touch
+The spell will affect what the caster is touching.
+Zone
+The spell will be a circular area, and cast itself persistently.
+Casts subsequent components on entities and blocks within <AREA> blocks of the center, horizontally.
+Gains <POTENCY> points per cast, runs subsequent spell components after reaching 20 points.
+Casts subsequent components on entities and blocks up to <RANGE> blocks above the center.
+Zone lasts half a second for every point of <DURATION>.
+Not a Mana Pool
+Discover a pool of raw liquid Mana
+Index
+Spell Recipe
+You are not a player.
+/wizardry help
+/wizardry genstaff
+/wizardry genpearl
+/wizardry tptorikki
+/wizardry tpunderworld
+/wizardry listmodules
+/wizardry debug <module name>. Get a list of all modules from /wizardry listmodules
+Module not found. Get a list of all modules from /wizardry listmodules
+Don't let your bugs be thugs! Use our patented Magic-o-gon spray for only $9.99
+There's magic in the air...
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+I am now up back up to... One. Wizardry. Update.
+GET IN THE UPDATE, SHINJI
+it's outdated my dudes
+yo dawg we heard you like changelogs so we put changelogs in your changelogs so you can change while you log
+*:･ﾟ✧ᕕ( ᐛ )ᕗ
+Belt Full
+Click any of the pearls to pop them out of the belt

@@ -1,0 +1,90 @@
+NuclearCraft Guide
+Overhaul Edition
+The official guide for NuclearCraft: Overhauled.
+zero
+one
+two
+three
+four
+five
+six
+no
+and
+or
+%1$s %2$s
+%1$s, %2$s
+%1$s %2$s %3$s
+%1$s, %2$s %3$s
+%1$s.
+Must be adjacent to
+at least %1$s
+at least %1$s along a common axis
+at least %1$s along common axes
+at least %1$s at a common vertex
+exactly %1$s
+exactly %1$s which must share a common axis
+exactly %1$s which must share common axes
+exactly %1$s which must share a common vertex
+at most %1$s
+at most %1$s along a common axis
+at most %1$s along common axes
+absolutely %1$s
+!common axis&&!common axes&&!common vertex
+common axis||common axes||common vertex
+share a common||share common
+%s reactor casing
+%s reactor casing
+%s functional fuel cell
+%s functional fuel cells
+%s functional fuel vessel
+%s functional fuel vessels
+%s active moderator
+%s active moderators
+%s active reflector
+%s active reflectors
+%s of any sink
+any %s sinks
+%s valid water sink
+%s valid water sinks
+%s valid iron sink
+%s valid iron sinks
+%s valid redstone sink
+%s valid redstone sinks
+%s valid quartz sink
+%s valid quartz sinks
+%s valid obsidian sink
+%s valid obsidian sinks
+%s valid nether brick sink
+%s valid nether brick sinks
+%s valid glowstone sink
+%s valid glowstone sinks
+%s valid lapis sink
+%s valid lapis sinks
+%s valid gold sink
+%s valid gold sinks
+%s valid prismarine sink
+%s valid prismarine sinks
+%s valid slime sink
+%s valid slime sinks
+%s valid end stone sink
+%s valid end stone sinks
+%s valid purpur sink
+%s valid purpur sinks
+%s valid diamond sink
+%s valid diamond sinks
+%s valid emerald sink
+%s valid emerald sinks
+%s valid copper sink
+%s valid copper sinks
+%s valid tin sink
+%s valid tin sinks
+%s valid lead sink
+%s valid lead sinks
+%s valid boron sink
+%s valid boron sinks
+%s valid lithium sink
+%s valid lithium sinks
+%s valid magnesium sink
+%s valid magnesium sinks
+%s valid manganese sink
+%s valid manganese sinks

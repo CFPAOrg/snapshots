@@ -1,0 +1,137 @@
+Douglas Fir Lumber
+Hickory Lumber
+Maple Lumber
+Oak Lumber
+Pine Lumber
+Sequoia Lumber
+Spruce Lumber
+Sycamore Lumber
+White Cedar Lumber
+Willow Lumber
+Kapok Lumber
+Acacia Lumber
+Rosewood Lumber
+Blackwood Lumber
+Palm Lumber
+Ash Boat
+Aspen Boat
+Birch Boat
+Chestnut Boat
+Douglas Fir Boat
+Hickory Boat
+Maple Boat
+Oak Boat
+Pine Boat
+Sequoia Boat
+Spruce Boat
+Sycamore Boat
+White Cedar Boat
+Willow Boat
+Kapok Boat
+Acacia Boat
+Rosewood Boat
+Blackwood Boat
+Palm Boat
+Ash Door
+Aspen Door
+Birch Door
+Chestnut Door
+Douglas Fir Door
+Hickory Door
+Maple Door
+Oak Door
+Pine Door
+Sequoia Door
+Spruce Door
+Sycamore Door
+White Cedar Door
+Willow Door
+Kapok Door
+Acacia Door
+Rosewood Door
+Blackwood Door
+Palm Door
+Agate
+Amethyst
+Beryl
+Diamond
+Emerald
+Garnet
+Jade
+Jasper
+Opal
+Ruby
+Sapphire
+Topaz
+Tourmaline
+Flawed Agate
+Flawed Amethyst
+Flawed Beryl
+Flawed Diamond
+Flawed Emerald
+Flawed Garnet
+Flawed Jade
+Flawed Jasper
+Flawed Opal
+Flawed Ruby
+Flawed Sapphire
+Flawed Topaz
+Flawed Tourmaline
+Flawless Agate
+Flawless Amethyst
+Flawless Beryl
+Flawless Diamond
+Flawless Emerald
+Flawless Garnet
+Flawless Jade
+Flawless Jasper
+Flawless Opal
+Flawless Ruby
+Flawless Sapphire
+Flawless Topaz
+Flawless Tourmaline
+Chipped Agate
+Chipped Amethyst
+Chipped Beryl
+Chipped Diamond
+Chipped Emerald
+Chipped Garnet
+Chipped Jade
+Chipped Jasper
+Chipped Opal
+Chipped Ruby
+Chipped Sapphire
+Chipped Topaz
+Chipped Tourmaline
+Exquisite Agate
+Exquisite Amethyst
+Exquisite Beryl
+Exquisite Diamond
+Exquisite Emerald
+Exquisite Garnet
+Exquisite Jade
+Exquisite Jasper
+Exquisite Opal
+Exquisite Ruby
+Exquisite Sapphire
+Exquisite Topaz
+Exquisite Tourmaline
+Bismuth Ingot
+Bismuth Bronze Ingot
+Black Bronze Ingot
+Brass Ingot
+Bronze Ingot
+Copper Ingot
+Gold Ingot
+Lead Ingot
+Nickel Ingot
+Rose Gold Ingot
+Silver Ingot
+Tin Ingot
+Zinc Ingot
+Sterling Silver Ingot
+Wrought Iron Ingot
+Pig Iron Ingot
+Steel Ingot
+Platinum Ingot
+Black Steel Ingot

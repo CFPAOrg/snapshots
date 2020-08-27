@@ -1,0 +1,9 @@
+lingering_potion.effect.death_curse
+item.death_note.name
+item.death_note_page.name
+effect.death_curse
+splash_potion.effect.death_curse
+entity.prisoner.name
+tipped_arrow.effect.death_curse
+entity.ryuk.name
+potion.effect.death_curse

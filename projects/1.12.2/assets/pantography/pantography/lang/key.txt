@@ -1,0 +1,4 @@
+pantography.pantograph.
+container.pantography.pantograph
+tile.pantography.pantograph.name
+pantography.subtitle.pantograph_use

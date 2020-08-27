@@ -1,0 +1,74 @@
+Antimatter Minecart
+Red Matter Minecart
+Slightly more destructive version of TNT
+Erupts in a barrage of metal fragments
+Catches the place on fire
+Confusion and disorientation for all around
+Can't fight if you can't breathe
+What's up doc
+Pushes everyone away
+Pulls everyone in
+Devastates the landscape with high velocity fragments
+Have you ever heard of the plague?
+Who needs to be a ninja to sneak in after that much noise?
+When you need a door
+Mini-nuke in a can. Or at least as close as the North can get
+Hi! I'm a nuclearholic..
+Over 9000? Not anymore
+You thought the sun was hot
+They call me Mr. Freeze
+I think your base looks better floating
+Let's relocate that base of yours
+I feel bad for your ears
+F2ohslGivm8
+11
+Yogscast? Diggy diggy hole
+Be a shame if your base was compacted into nothing
+Voltz special... The Bomb
+The wheels on the bus go round and round
+Did a cow just fly by the window?
+Oh god it's sucking me in
+There is no escape
+Not even light....
+Into the void
+Oh? You think you can escape
+Oh baby come back
+Missile Module
+Anti-ballistic Missile
+Cluster Missile
+Nuclear Cluster Missile
+Homing Missile
+Conventional Grenade
+Shrapnel Grenade
+Incendiary Grenade
+Debilitation Grenade
+Chemical Grenade
+Anvil Grenade
+Repulsive Grenade
+Attractive Grenade
+Concrete
+Compact Concrete
+Reinforced Concrete
+Reinforced Glass
+Glass Pressure Plate
+Glass Button
+Camouflage
+Proximity Detector
+Spikes
+Poison Spikes
+Flammable Spikes
+Battery Box
+Now tracking:
+Tracker out of electricity!
+Tracker is banned in this area!
+Defuser out of electricity!
+Calling air strike in:
+Incoming air strike!
+Laser Designator frequency set:
+Frequency must be greater than zero.
+Calling air strike into designated position!
+Laser designator out of electricity!
+Laser designator frequency not set!
+Scanned coordinates: X:%x Y:%y Z:%z - Distance: %d
+Radar Gun out of electricity!
+Coordinate information transferred!

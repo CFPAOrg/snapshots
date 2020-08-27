@@ -1,0 +1,55 @@
+Rumor has it that Charged Pearls were first discovered when a frustrated miner threw one into the heart of a storm cloud.
+Quenched Pearl
+Scorched Pearl
+Crystallized Void Pearl
+Smashing a Void Pearl up against an Ender Crystal has somehow crystallized the Void Pearl itself.
+Void Pearls in this state become very stable, and they can't be used to capture creatures anymore. However, any creatures previously trapped inside become somehow easier to access.
+Void Pearl
+Contains: %s
+Baby %s
+Health: %s
+Value: %s
+Empty
+Throwing a Scorched Pearl into an End Portal has filled it with nothingness.
+The void seeks to be filled, and to that end, it seems to suck up any creature it comes into contact with.
+Stabilized Ender Pearls behave similarly to Fluxed Pearls, in that they can be bounced and fired from Dispensers.
+If a Stabilized Ender Pearl is shot from a Dispenser rather than thrown, it will teleport a nearby creature to itself when it lands.
+The stabilization also seems to have made the process safer.
+Ender Coil
+Machine Panel
+Upgrade Kit
+Conversion Kit
+Module Base
+Animal Slaughter Module
+This module will kill any living
+creatures unfortunate enough to
+wander into it. It produces meat
+or pink slime, depending on its
+configuration.
+The Vaporizer fluid tank contains an invalid fluid.
+The Vaporizer's fluid tank is full.
+Producing: %s
+Slaughter Module
+This module will kill any living
+creatures unfortunate enough to
+find themselves in the working
+area of its Vaporizer.
+This is a valid weapon.
+This is not a valid weapon.
+Simulating Player
+Drops: %s
+Experience: %s
+Theoretical Slaughter Module
+This module will theoretically
+kill theoretical duplicates of
+a captured creature.
+Killing Exact Copies
+Do Not Kill Exact Copies
+Drops: %s
+- %s
+%s Hold §e§oCtrl§r§7 for %s Items
+Age: %s
+Filter living creatures based
+upon their adulthood.
+Name: %s
+Filter entities based upon

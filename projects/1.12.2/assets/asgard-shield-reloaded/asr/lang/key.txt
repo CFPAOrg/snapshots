@@ -1,0 +1,5 @@
+item.diamond_giant_sword.name
+item.iron_giant_sword.name
+item.golden_giant_sword.name
+item.stone_giant_sword.name
+item.wooden_giant_sword.name

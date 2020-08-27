@@ -1,0 +1,55 @@
+The Multi Smelter is multiblock structure used for smelting massive amounts of items at once. Different tiers of coils provide speed boost and energy efficiency gain. 16 is base value of items smelted per operation, and can be multiplied by using higher level coils.
+Large Boilers are multiblocks that generate steam from energy source and water. Usually either solid fuel or some high-density fluid acts like energy source for large boiler. Tiers differ only by amount of steam outputted.
+Large Turbines are multiblocks that generate power from steam, gases and plasma by them spinning turbine's rotor. Energy output is based on rotor efficiency and current speed of turbine.
+By changing drill head types of the Bedrock Drilling Unit, you can increase the tier to get even better materials. These materials are mined from the core of the earth.
+Throw into Cauldron to get clean Dust
+%d/%dL %s
+Empty
+%d/%d EU - Tier §e%d
+Configuration: %d
+Invalid item
+Empty
+Empty Shape Plate
+Dynamite
+Mold (Plate)
+Mold (Gear)
+Mold (Bottle)
+Mold (Ingot)
+Mold (Ball)
+Mold (Block)
+Mold (Nuggets)
+Mold (Small Gear)
+Extruder Shape (Plate)
+Extruder Shape (Rod)
+Extruder Shape (Screw)
+Extruder Shape (Ring)
+Extruder Shape (Cell)
+Extruder Shape (Wire)
+Extruder Shape (Tiny Pipe)
+Extruder Shape (Small Pipe)
+Extruder Shape (Normal Pipe)
+Extruder Shape (Large Pipe)
+Extruder Shape (Huge Pipe)
+Extruder Shape (Block)
+Extruder Shape (Gear)
+Empty Plastic Fuel Can
+Used to store Fuels
+Plastic Fuel Can
+Burns well in Diesel Generators
+Spray Can (Empty)
+Can be filled with sprays of various colors
+Empty Cell
+%s Cell
+Spray Can (White)
+Can paint things in White
+Spray Can (Orange)
+Can paint things in Orange
+Spray Can (Magenta)
+Can paint things in Magenta
+Spray Can (Light Blue)
+Can paint things in Light Blue
+Spray Can (Yellow)
+Can paint things in Yellow
+Spray Can (Lime)
+Can paint things in Lime
+Spray Can (Pink)

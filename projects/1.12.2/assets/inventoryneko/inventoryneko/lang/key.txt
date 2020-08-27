@@ -1,0 +1,5 @@
+item.inventoryneko.neko.name
+item.inventoryneko.tora.name
+item.inventoryneko.dog.name
+item.inventoryneko.sakura.name
+item.inventoryneko.tomoyo.name

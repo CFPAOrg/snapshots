@@ -1,0 +1,45 @@
+Tyrannosaurus Settings
+Spawn Tyrannosaurus?
+Minimum Tyrannosaurus pack size
+Maximum Tyrannosaurus pack size
+Tyrannosaurus Spawns (Vanilla)
+Velociraptor Settings
+Spawn Velociraptor?
+Minimum Velociraptor pack size
+Maximum Velociraptor pack size
+Velociraptor Spawns (Vanilla)
+ Spawn in Vanilla biomes?
+ Beach spawn weight
+ Birch forest spawn weight
+ Birch forest hills spawn weight
+ Cold beach spawn weight
+ Cold taiga spawn weight
+ Cold taiga hills spawn weight
+ Deep ocean spawn weight
+ Desert spawn weight
+ Desert hills spawn weight
+ Extreme hills spawn weight
+ Frozen ocean spawn weight
+ Forest spawn weight
+ Forest hills spawn weight
+ Frozen river spawn weight
+ Nether (hell) spawn weight
+ Ice mountains spawn weight
+ Ice plains spawn weight
+ Jungle spawn weight
+ Jungle edge spawn weight
+ Jungle hills spawn weight
+ Mesa spawn weight
+ Mushroom spawn weight
+ Ocean spawn weight
+ Plains spawn weight
+ Mega (redwood) taiga spawn weight
+ Mega (redwood) taiga hills spawn weight
+ River spawn weight
+ Roofed forest spawn weight
+ Savanna spawn weight
+ Savanna plateau spawn weight
+ Stone beach spawn weight
+ Swamp spawn weight
+ Taiga spawn weight
+ Taiga hills spawn weight

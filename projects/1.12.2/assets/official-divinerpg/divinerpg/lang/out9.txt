@@ -1,0 +1,162 @@
+The King's Boots
+%1$s fell into a trap
+%1$s walked on spikes
+%1$s melted in acid
+%1$s was killed by magic
+Acid Hag
+Advanced Cori
+Alicanto
+Ancient Entity
+Angry Bunny
+Apalachia Cadillion
+Apalachia Golem
+Apalachia Tomo
+Arid Warrior
+Ayeraco Blue
+Ayeraco Green
+Ayeraco Purple
+Ayeraco Red
+Ayeraco Yellow
+Basilisk
+Behemoth
+Biphron
+Bunny
+Caveclops
+Cave Crawler
+Crab
+Crypt Keeper
+Cyclops
+Cymesoid
+Datticon
+Deathcryx
+Death Hound
+Demon Of Darkness
+Densos
+Desert Crawler
+Dissiment
+Dramix
+Dreamwrecker
+Dungeon Constructor
+Dungeon Demon
+Dungeon Prisoner
+Duo
+Eden Cadillion
+Eden Tomo
+Ehu
+Enchanted Archer
+Enchanted Warrior
+Ender Spider
+Ender Triplets
+Ender Watcher
+Ent
+Enthralled Dramcryx
+Epiphite
+Eternal Archer
+Fractite
+Frost
+Frosty
+Frost Archer
+Fyracryx
+Galroid
+Glacon
+Glacide
+Golem Of Rejuvenation
+Gorgosion
+Greenfeet
+Brown Grizzle
+White Grizzle
+Hastreus
+Helio
+Hell Pig
+Hell Spider
+Herbomancer
+Herbomancer's Minion
+Hive Queen
+Hive Soldier
+Hover Stinger
+Husk
+Jack 'O' Man
+Jungle Bat
+Jungle Dramcryx
+Jungle Spider
+Karos
+Karot
+Kazrotic
+King Crab
+King Of Scorchers
+Kobblin
+Lady Luna
+Leorna
+Lheiva
+Liopleurodon
+Livestock Merchant
+Lorga
+Lorga Flight
+Lord Vatticus
+Madivel
+Mage
+Mandragora
+Megalith
+Miner
+Moon Wolf
+Mortum Archer
+Mortum Cadillion
+Mysterious Man
+Mysterious Man
+Mysterious Man
+Mystic
+Parasecta
+Paratiku
+Projectiles
+Pumpkin Spider
+Quadro
+Raglok Gogdure
+Raglok
+Rainbour
+Razorback
+Reyvor
+Roamer
+Rollum
+Rotatick
+Saguaro Worm
+Samek
+Scorcher
+Seimer
+Shadahier
+Shark
+Skythern Archer
+Skythern Fiend
+Skythern Golem
+Smelter
+Snapper
+Sorcerer
+Soul Fiend
+Soul Spider
+Soul Stealer
+Spellbinder
+Stone Golem
+Sun Archer
+Tamed Angry Bunny
+Temple Guardian
+The Eye
+The Grue
+The Hunger
+The Watcher
+Tocaxin
+Twilight Archer
+Twilight Demon
+Twins
+Vamacheron
+Verek
+Vermenous
+Vermsillion
+Vhraak
+Vhraak
+Weak Cori
+Whale
+Wildfire
+Wildwood Cadillion
+Wildwood Golem
+Wildwood Tomo
+Workshop Merchant
+Workshop Tinkerer

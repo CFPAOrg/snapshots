@@ -1,0 +1,35 @@
+Spectrite Healing Orb Effect Cooldown
+Cooldown in seconds for Spectrite Healing Orb activation
+Spectrite Healing Orb Effect Duration
+Duration in seconds for Spectrite Healing Orb activation effect
+Spectrite Skeleton Sword Rate
+Chance that a Spectrite Skeleton will hold a sword instead of a bow (percentage)
+Spectrite Skull Chest Mode
+No Spectrite Chests
+High tier only
+Medium and high tiers
+All tiers
+Mode to determine which chests in a Spectrite Skull structure are Spectrite Chests - NONE: No Spectrite Chests; HIGH_TIER_ONLY: High tier chests only; BOTH_TIERS: Both medium and high tier chests
+High Tier Chest Rate
+Chance that a Spectrite Skull structure will use the same loot table as the best chest in a Spectrite Dungeon instead of the regular middle tier loot table
+Spectrite Skull Spawn Rate
+Chance that any group of 4 chunks in the Surface or Nether will attempt to spawn a Spectrite Skull structure (percentage)
+Spectrite Skull Surface Generation Rate
+Chance that, when a Spectrite Skull structure spawns in the overworld, it will spawn on the surface
+Spectrite Tool Cooldown
+Cooldown in seconds for Spectrite Tool enhanced uses
+Spectrite Weapon Cooldown
+Cooldown in seconds for Spectrite Weapon/Tool Spectrite Damage attacks
+Spectrite Wither Rod Cooldown
+Cooldown in seconds for Spectrite Wither Rod uses
+Spectrite Wither Rod Griefing
+If enabled, Spectrite Wither Rods can break blocks
+Spectrite Wither Rod Smaller Explosion
+If enabled, make the Spectrite Wither Rod skull explosion a little weaker
+Spectrite Wither Rod Weaker Spectrite Damage
+If enabled, reduce the Spectrite Wither Rod skull Spectrite Damage level by 1
+Spectrite Wither Skeleton Bow Rate
+Chance that a Spectrite Wither Skeleton will hold a bow instead of a sword (percentage)
+Short Spectrite Wither Skeletons
+If enabled, Spectrite Wither Skeletons will use the same height as regular skeletons
+Spectrite Dungeon

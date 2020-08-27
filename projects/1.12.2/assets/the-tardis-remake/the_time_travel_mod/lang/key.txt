@@ -1,0 +1,10 @@
+tile.tardisoar.name
+item.fob.name
+entity.darlek.name
+tile.round.name
+tile.welding.name
+item.biggerontheinside.name
+tile.coral.name
+item.cybercircuit.name
+item.coraloar.name
+tile.hide.name

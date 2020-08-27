@@ -1,0 +1,31 @@
+Amphibolite Golem
+Andesite Golem
+Basalt Golem
+Basaltic Glass Golem
+Chert Golem
+Conglomerate Golem
+Diabase Golem
+Diorite Golem
+Dolomite Golem
+Gabbro Golem
+Gneiss Golem
+Granite Golem
+Hornfels Golem
+Limestone Golem
+Marble Golem
+Novaculite Golem
+Pegmatite Golem
+Peridotite Golem
+Phosphorous Golem
+Phyllite Golem
+Quartzite Golem
+Rhyolite Golem
+Rock Salt Golem
+Schist Golem
+Scoria Golem
+Shale Golem
+Siltstone Golem
+Slate Golem
+Sulfur Golem
+Tuff Golem
+May combust randomly

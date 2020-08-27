@@ -1,0 +1,92 @@
+Blue wool slab
+Purple wool stairs
+Purple wool slope
+Purple wool slab
+Green wool stairs
+Green wool slope
+Green wool slab
+Pink wool stairs
+Pink wool slope
+Pink wool slab
+Red wool stairs
+Red wool slope
+Red wool slab
+Black wool stairs
+Black wool slope
+Black wool slab
+Cyan wool stairs
+Cyan wool slope
+Cyan wool slab
+Lime wool stairs
+Lime wool slope
+Lime wool slab
+Yellow wool stairs
+Yellow wool slope
+Yellow wool slab
+Brown wool stairs
+Brown wool slope
+Brown wool slab
+Dirt stairs
+Dirt slope
+Dirt slab
+Iron block stairs
+Iron block slope
+Iron block slab
+Gold block stairs
+Gold block slope
+Gold block slab
+Coal block stairs
+Coal block slope
+Coal block slab
+Emerald block stairs
+Emerald block slope
+Emerald block slab
+Diamond block stairs
+Diamond block slope
+Diamond block slab
+Lapis block stairs
+Lapis block slope
+Lapis block slab
+Redstone block stairs
+Redstone block slope
+Redstone block slab
+Concrete half slope
+Terracotta half slope
+White concrete half slope
+Orange concrete half slope
+Magenta concrete half slope
+Light blue concrete half slope
+Yellow concrete half slope
+Lime concrete half slope
+Pink concrete half slope
+Gray concrete half slope
+Light gray concrete half slope
+Cyan concrete half slope
+Purple concrete half slope
+Blue concrete half slope
+Brown concrete half slope
+Green concrete half slope
+Red concrete half slope
+Black concrete half slope
+Oak half slope
+Birch half slope
+Spruce half slope
+Jungle half slope
+Dark oak half slope
+Acacia half slope
+White wool half slope
+White terracotta half slope
+Orange wool half slope
+Orange terracotta half slope
+Magenta wool half slope
+Magenta terracotta half slope
+Light blue wool half slope
+Light blue terracotta half slope
+Yellow wool  half slope
+Yellow terracotta  half slope
+Lime wool half slope
+Lime terracotta half slope
+Pink wool half slope
+Pink terracotta half slope
+Gray wool half slope
+Gray terracotta half slope

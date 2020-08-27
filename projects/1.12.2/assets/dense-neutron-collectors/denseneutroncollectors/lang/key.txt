@@ -1,0 +1,6 @@
+tile.denseneutroncollectors:compressed_neutron_collector.name
+tile.denseneutroncollectors:double_compressed_neutron_collector.name
+tile.denseneutroncollectors:triple_compressed_neutron_collector.name
+container.compressed_neutron_collector
+container.double_compressed_neutron_collector
+container.triple_compressed_neutron_collector

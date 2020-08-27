@@ -1,0 +1,11 @@
+itemGroup.tesslandiamod.tab_WeaponTab
+item.demon_sword.name
+item.rail_wand.name
+item.bionic_helmet.name
+item.bionic_chestplate.name
+item.bionic_leggings.name
+item.bionic_boots.name
+tesslandiamod.subtitle.path_start
+tesslandiamod.subtitle.path_success
+tesslandiamod.subtitle.path_fail
+tesslandiamod.subtitle.path_invalid

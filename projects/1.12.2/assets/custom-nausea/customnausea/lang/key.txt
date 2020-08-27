@@ -1,0 +1,10 @@
+customnausea.general.nausea
+customnausea.general.nausea.tooltip
+customnausea.general.nausea.modifier
+customnausea.general.nausea.modifier.tooltip
+customnausea.general.nausea.stumblingmovement
+customnausea.general.nausea.stumblingmovement.tooltip
+customnausea.general.portal
+customnausea.general.portal.tooltip
+customnausea.general.portal.modifier
+customnausea.general.portal.modifier.tooltip

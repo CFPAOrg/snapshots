@@ -1,0 +1,129 @@
+Lime Glazed Terracotta
+Pink Glazed Terracotta
+Gray Glazed Terracotta
+Light Gray Glazed Terracotta
+Cyan Glazed Terracotta
+Purple Glazed Terracotta
+Blue Glazed Terracotta
+Brown Glazed Terracotta
+Green Glazed Terracotta
+Red Glazed Terracotta
+Black Glazed Terracotta
+Black Concrete
+Red Concrete
+Green Concrete
+Brown Concrete
+Blue Concrete
+Purple Concrete
+Cyan Concrete
+Light Gray Concrete
+Gray Concrete
+Pink Concrete
+Lime Concrete
+Yellow Concrete
+Light Blue Concrete
+Magenta Concrete
+Orange Concrete
+White Concrete
+Black Concrete Powder
+Red Concrete Powder
+Green Concrete Powder
+Brown Concrete Powder
+Blue Concrete Powder
+Purple Concrete Powder
+Cyan Concrete Powder
+Light Gray Concrete Powder
+Gray Concrete Powder
+Pink Concrete Powder
+Lime Concrete Powder
+Yellow Concrete Powder
+Light Blue Concrete Powder
+Magenta Concrete Powder
+Orange Concrete Powder
+White Concrete Powder
+Structure Void
+Structure Block
+Name Tag
+Lead
+Iron Shovel
+Iron Pickaxe
+Iron Axe
+Flint and Steel
+Apple
+Cookie
+Bow
+Arrow
+Spectral Arrow
+Tipped Arrow
+Coal
+Charcoal
+Diamond
+Emerald
+Iron Ingot
+Gold Ingot
+Iron Sword
+Wooden Sword
+Wooden Shovel
+Wooden Pickaxe
+Wooden Axe
+Stone Sword
+Stone Shovel
+Stone Pickaxe
+Stone Axe
+Diamond Sword
+Diamond Shovel
+Diamond Pickaxe
+Diamond Axe
+Stick
+Bowl
+Mushroom Stew
+Golden Sword
+Golden Shovel
+Golden Pickaxe
+Golden Axe
+String
+Feather
+Gunpowder
+Wooden Hoe
+Stone Hoe
+Iron Hoe
+Diamond Hoe
+Golden Hoe
+Seeds
+Pumpkin Seeds
+Melon Seeds
+Melon
+Wheat
+Bread
+Leather Cap
+Leather Tunic
+Leather Pants
+Leather Boots
+Chain Helmet
+Chain Chestplate
+Chain Leggings
+Chain Boots
+Iron Helmet
+Iron Chestplate
+Iron Leggings
+Iron Boots
+Diamond Helmet
+Diamond Chestplate
+Diamond Leggings
+Diamond Boots
+Golden Helmet
+Golden Chestplate
+Golden Leggings
+Golden Boots
+Flint
+Raw Porkchop
+Cooked Porkchop
+Raw Chicken
+Cooked Chicken
+Raw Mutton
+Cooked Mutton
+Raw Rabbit
+Cooked Rabbit
+Rabbit Stew
+Rabbit's Foot
+Rabbit Hide

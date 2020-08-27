@@ -1,0 +1,19 @@
+Places a magical lightning trap on the ground which damages the creature that triggers it and chains lightning to other nearby creatures.
+"Focus. Channel the storm in your mind through your wand and unleash its fury."
+Fires a bolt of magical energy in the direction you are pointing.
+Changes the target into another form. Only works on some creatures.
+Some wizards just want to see the world burn...
+Takes control of the target's mind for 30 seconds, causing it switch sides and fight for the caster instead. Will not work on creatures that are too strong-willed.
+Confuses and disorients the target for 15 seconds, rendering it unable to attack effectively. The effect will be dispelled if the target takes damage.
+To get a spell book with the /give command, use metadata: /give [player] wizardry:spell_book 1 [spell id] (if you found this book in a chest, some other mod has messed things up).
+Improves the caster's damage resistance for 30 seconds.
+Turns the target to stone until broken out, with a chance for it to break out when it is dark. The target cannot move or do anything while petrified but is also impervious to all damage.
+Teleports the caster through a 1 block thick wall in front of them. Range upgrades will increase the thickness you can teleport through.
+The darkness will consume them all...
+Smelts up to 5 smeltable items in the caster's inventory. Items on the hotbar will be smelted first.
+Allows the caster to craft items as if they were at a crafting table.
+Fires poison in the direction you are pointing.
+Lanches a poison bomb in the direction you are pointing which explodes on impact, poisoning nearby creatures.
+Replenishes the caster's food level by 6 hunger points.
+Creates a ring of fire around the caster, damaging all nearby enemies and setting them on fire.
+Creates a wall of darkness in front of the caster which causes half of all incoming damage to be inflicted upon the attacker instead.

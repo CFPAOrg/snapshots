@@ -1,0 +1,2 @@
+item.pathos.syringe.name
+item.pathos.filled_syringe.name

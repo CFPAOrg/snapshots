@@ -1,0 +1,35 @@
+Each distributor charges this percentage when collecting fees each day from non-exempt industries in it's area.
+Distributor Fee Cap
+The maximum fee a distributor can collect from an industry during it's collection tick.
+Warehouse Fee Rate
+Each warehouse charges this percentage when collecting fees twice a day from non-exempt distributors in it's area.
+Warehouse Fee Cap
+The maximum fee a warehouse can collect from a distributor during it's collection tick.
+Prices In Tooltips
+If true and an item has a money value that is greater than 0, shows the money value of the item in the item tooltip.
+Large Tower Import
+Set to false to disable importing of diamonds, obsidian, golden apples, etc.
+Expert Mode
+If set to true, the only ways of getting money into the game are loot chests, emerald crafted coin pouches, and selling items to the Global Market. Makes the game more challenging.
+Global Market Enabled
+If true, buildings are allowed to import and export items on the Global Market, otherwise importing and exporting are disabled.
+Lights In Buildings
+Ladders In Buildings
+If true, buildings get ladders by default, otherwise, user can choose by placing a ladder in the building inventory.
+Supports Under Roads
+If false, roads will not build supports in open space under the road. Should be false in things like Skyblock maps for example.
+Fire Disaster
+Drought Disaster
+Blight Disaster
+Invasion Disaster
+Out-of-Business Disaster
+Full Inventory Notification
+If true, displays a chat msg every time an industry can't work because of a full inventory.
+Auto Ownership
+Set to true to have players names automatically added to crafted industry blocks.
+Disable Farm
+Set to true to disable Farm crafting recipe in survival.
+Disable Lumbermill
+Set to true to disable Lumbermill crafting recipe in survival.
+Disable Quarry
+Set to true to disable Quarry crafting recipe in survival.

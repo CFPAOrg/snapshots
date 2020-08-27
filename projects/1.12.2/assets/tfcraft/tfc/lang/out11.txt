@@ -1,0 +1,126 @@
+Punch Third Last
+Bend Any
+Bend Last
+Bend Not Last
+Bend Second Last
+Bend Third Last
+Upset Any
+Upset Last
+Upset Not Last
+Upset Second Last
+Upset Third Last
+Shrink Any
+Shrink Last
+Shrink Not Last
+Shrink Second Last
+Shrink Third Last
+Winter
+Late Winter
+Early Spring
+Spring
+Late Spring
+Early Summer
+Summer
+Late Summer
+Early Autumn
+Autumn
+Late Autumn
+Early Winter
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Grain
+Vegetables
+Fruit
+Protein
+Dairy
+Alloying recipes
+Anvil recipes
+Barrel recipes
+Blast Furnace recipes
+Bloomery recipes
+Casting recipes
+Chisel Smoothing recipes
+Heating recipes
+Clay knapping
+Fire clay knapping
+Leather knapping
+Stone knapping
+Metal Heating recipes
+Loom recipes
+Quern recipes
+Rock Layer Ores
+Vein Information
+Welding recipes
+Instant
+%d hours
+Used for firing pottery and melting your first metals. Place up to 4 items (Default Hotkey: V) into a 1x1 hole, then fill (right-click) with 8 straw and 8 logs and light it with a fire starter or drop a torch on top. Recipe is complete after the fire on top goes out.
+Items can be placed on the ground, mostly for placing into a pit kiln. Use the Place key (default V) to place each item (up to 4) on a single block.
+Category
+Layers
+Top
+Middle
+Bottom
+Min Y
+Max Y
+Rarity
+%s%% chunks
+Loose Rock
+Salt Water
+Fresh Water
+Hot Spring Water
+Rum
+Beer
+Whiskey
+Rye Whiskey
+Corn Whiskey
+Sake
+Vodka
+Cider
+Vinegar
+Brine
+Olive Oil
+Olive Oil Water
+Tannin
+Limewater
+Milk
+Curdled Milk
+Vinegar Milk
+Molten Bismuth
+Molten Bismuth Bronze
+Molten Black Bronze
+Molten Brass
+Molten Bronze
+Molten Copper
+Molten Gold
+Molten Lead
+Molten Nickel
+Molten Rose Gold
+Molten Silver
+Molten Tin
+Molten Zinc
+Molten Sterling Silver
+Molten Wrought Iron
+Molten Pig Iron
+Molten Steel
+Molten Platinum
+Molten Black Steel
+Molten Blue Steel
+Molten Red Steel
+Molten Weak Steel

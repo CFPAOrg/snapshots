@@ -1,0 +1,80 @@
+Light Gray Quartzium Inverted Lamp
+Light Gray Quartzium Lamp
+Light Gray Quartzium Ore
+Light Gray Quartzium Plate
+Light Gray Quartzium Platform
+Light Gray Quartzium Shield
+Lime Quartzium Block
+Lime Quartzium Bricks
+Lime Quartzium Crystal
+Lime Quartzium Engineering Bricks
+Lime Quartzium Inverted Lamp
+Lime Quartzium Lamp
+Lime Quartzium Ore
+Lime Quartzium Plate
+Lime Quartzium Platform
+Lime Quartzium Shield
+Magenta Quartzium Block
+Magenta Quartzium Bricks
+Magenta Quartzium Crystal
+Magenta Quartzium Engineering Bricks
+Magenta Quartzium Inverted Lamp
+Magenta Quartzium Lamp
+Magenta Quartzium Ore
+Magenta Quartzium Plate
+Magenta Quartzium Platform
+Magenta Quartzium Shield
+Orange Quartzium Block
+Orange Quartzium Bricks
+Orange Quartzium Crystal
+Orange Quartzium Engineering Bricks
+Orange Quartzium Inverted Lamp
+Orange Quartzium Lamp
+Orange Quartzium Ore
+Orange Quartzium Plate
+Orange Quartzium Platform
+Orange Quartzium Shield
+Pink Quartzium Block
+Pink Quartzium Bricks
+Pink Quartzium Crystal
+Pink Quartzium Engineering Bricks
+Pink Quartzium Inverted Lamp
+Pink Quartzium Lamp
+Pink Quartzium Ore
+Pink Quartzium Plate
+Pink Quartzium Platform
+Pink Quartzium Shield
+Purple Quartzium Block
+Purple Quartzium Bricks
+Purple Quartzium Crystal
+Purple Quartzium Engineering Bricks
+Purple Quartzium Inverted Lamp
+Purple Quartzium Lamp
+Purple Quartzium Ore
+Purple Quartzium Plate
+Purple Quartzium Platform
+Purple Quartzium Shield
+Quartzium Anchor
+Quartzium Aquifer
+Quartzium Flame
+Quartzium Floodgate
+Quartzium Flux Void
+Quartzium Guardian
+Quartzium Ice
+Quartzium Inferno
+Quartzium Item Void
+Quartzium Levitator
+Quartzium Liquid Void
+Quartzium Magma
+Quartzium Sand
+Quartzium Slime
+Quartzium Soil
+Quartzium Sun
+Red Quartzium Block
+Red Quartzium Bricks
+Red Quartzium Crystal
+Red Quartzium Engineering Bricks
+Red Quartzium Inverted Lamp
+Red Quartzium Lamp
+Red Quartzium Ore
+Red Quartzium Plate

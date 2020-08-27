@@ -1,0 +1,84 @@
+Whether to enable keep experiences on death in the dimension.
+Biomes Customize
+Change the biome generation settings of the dimension.
+Weight
+Specify the weight for generation.
+Terrain Block
+Specify the block name of terrain block.
+Terrain Block Metadata
+Specify the block metadata of terrain block.
+Top Block
+Specify the block name of top block.
+Top Block Metadata
+Specify the block metadata of top block.
+Veins Customize
+Change the vein generation settings of the dimension.
+Block
+Specify the block name of generation block.
+Block Metadata
+Specify the block metadata of generation block.
+Target Block
+Specify the block name of generation target block.
+Target Block Metadata
+Specify the block metadata of generation target block.
+Weight
+Specify the weight for generation.
+Chance
+Specify the chance for generation.
+Size
+Specify the vein size for generation.
+Height
+Specify the height for generation.
+Minimum Height
+Specify the minimum height for generation.
+Maximum Height
+Specify the maximum height for generation.
+Biomes
+Specify the accept biomes for generation.
+Select the block
+Select the blocks
+%d blocks selected
+Select the item
+Select the items
+%d items selected
+Select the biomes
+%d biomes selected
+Top Block
+Filler Block
+Temperature
+Rainfall
+Type
+Select the mobs
+%d mobs selected
+Select the ore dictionaries
+%d ore dictionaries selected
+%d entries selected
+Block
+Ore Dict
+You are not tired. You cannot sleep until %d minutes at least.
+Beginner
+Stone Miner
+Iron Miner
+Magnite Miner
+Gold Miner
+Aqua Miner
+Hexcite Miner
+Diamond Miner
+Congratulations! %s has promoted to the %s rank.
+Chicken
+Noob
+Novice Hunter
+Hunter
+Cavenic Hunter
+Crazy Hunter
+Ranger
+Crazy Ranger
+Congratulations! %s has promoted to the %s rank.
+Beginner
+Novice Magician
+Magician
+Mage
+Grand Mage
+Congratulations! %s has promoted to the %s rank.
+The magic beyond your magical knowledge
+You did not have enough MP

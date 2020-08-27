@@ -1,0 +1,12 @@
+itemGroup.wowweapons
+item.marlis_touch.name
+item.thunderfury.name
+item.touch_of_chaos.name
+item.thoughtblighter.name
+item.doomfinger.name
+item.anzusscorn.name
+item.armageddon.name
+item.frostmourne.name
+item.ashbringer.name
+item.swordofathousandtruths.name
+wowweapons.config.title

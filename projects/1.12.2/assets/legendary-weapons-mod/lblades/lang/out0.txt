@@ -1,0 +1,103 @@
+Explosion Blade
+Whirlwind Blade
+Holy Punisher
+§4Ch§cr§fis§atm§2as §4Sp§cec§fi§aa§2l
+Soul Slasher
+Thunderstorm Blade
+Snake's Venom Blade
+Red Dragon's Breathing Sword
+§dUltimate Flower Sword
+Sword Of Destruction
+Divine Blade
+Aqua Sword
+Aqua Shovel
+Aqua Axe
+Aqua Pickaxe
+Aqua Hoe
+Lazurite Sword
+Lazurite Shovel
+Lazurite Axe
+Lazurite Pickaxe
+Lazurite Hoe
+Primarite Sword
+Primarite Shovel
+Primarite Axe
+Primarite Pickaxe
+Primarite Hoe
+Oceanite Sword
+Oceanite Shovel
+Oceanite Axe
+Oceanite Pickaxe
+Oceanite Hoe
+Staff Of Fire
+Staff Of Thunder
+Staff Of Teleportation
+Staff Of Withering
+Staff Of Explosions
+Elixir Of SelfDestructing Body
+Elixir Of Immortality
+Elixir Of Water Healing
+Elixir Of Tornado Lifting
+Elixir Of Freezing Death
+Elixir Of Luck
+Elixir Of The Forcefield
+Elixir Of Bone Erosion
+Elixir Of Second Chance 
+Elixir Of Wither Resistance 
+Elixir Of Poison Resistance
+Elixir Of Magic Shield
+Elixir Of Flight
+Elixir Of Fall Resistance
+Prismarine Rod
+Ring Of Void
+Ring Of Fire
+Ring Of Magic
+Ring Of Gliding
+Ring Of Explosions
+Ring Of Poison
+Ring Of Wither
+Ring Of Protection
+Ring Of Magnetism
+Ring Of Flight
+Ring Of Ocean
+Water Abyss Key
+Aqua Gem
+Primarite Gem
+Lazurite Gem
+Oceanite Gem
+Spirit Shard
+Heart Of Ocean
+Depths Of Void Key
+Astral Rift Key
+Explosion
+Ocean Dweller
+Santa's Gift Box
+Solid Void Block
+Void Portal
+Aqua Ore
+Hot Prismarine
+Astral Stone
+Spirit Ore
+Block Of Paradox
+Oceanite Ore
+Primarite Ore
+Lapis Lazuli Ore
+Lazurite Ore
+Aqua Block
+Primarite Block
+Oceanite Block
+Lazurite Block
+Tornado Lift
+Immortality
+%1$s has frozen to death
+%1$s has been squashed by the force!
+%1$s has been turned into dust
+%1$s body has been vaporized by lightning strike
+%1$s soul has been taken away by Soul Slasher
+Bones of %1$s have fallen apart!
+%1$s has been consumed by darkness!
+%1$s was destroyed by %2$s godly power!
+LW: Swords & Staffs
+LW: Materials
+LW: Water Abyss
+LW: Planet Of Titans

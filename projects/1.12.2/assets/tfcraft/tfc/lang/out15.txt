@@ -1,0 +1,94 @@
+Quartzite Path
+Slate Path
+Phyllite Path
+Schist Path
+Gneiss Path
+Marble Path
+Granite Farmland
+Diorite Farmland
+Gabbro Farmland
+Shale Farmland
+Claystone Farmland
+Rocksalt Farmland
+Limestone Farmland
+Conglomerate Farmland
+Dolomite Farmland
+Chert Farmland
+Chalk Farmland
+Rhyolite Farmland
+Basalt Farmland
+Andesite Farmland
+Dacite Farmland
+Quartzite Farmland
+Slate Farmland
+Phyllite Farmland
+Schist Farmland
+Gneiss Farmland
+Marble Farmland
+Smooth Granite Stairs
+Smooth Diorite Stairs
+Smooth Gabbro Stairs
+Smooth Shale Stairs
+Smooth Claystone Stairs
+Smooth Rocksalt Stairs
+Smooth Limestone Stairs
+Smooth Conglomerate Stairs
+Smooth Dolomite Stairs
+Smooth Chert Stairs
+Smooth Chalk Stairs
+Smooth Rhyolite Stairs
+Smooth Basalt Stairs
+Smooth Andesite Stairs
+Smooth Dacite Stairs
+Smooth Quartzite Stairs
+Smooth Slate Stairs
+Smooth Phyllite Stairs
+Smooth Schist Stairs
+Smooth Gneiss Stairs
+Smooth Marble Stairs
+Granite Cobble Stairs
+Diorite Cobble Stairs
+Gabbro Cobble Stairs
+Shale Cobble Stairs
+Claystone Cobble Stairs
+Rocksalt Cobble Stairs
+Limestone Cobble Stairs
+Conglomerate Cobble Stairs
+Dolomite Cobble Stairs
+Chert Cobble Stairs
+Chalk Cobble Stairs
+Rhyolite Cobble Stairs
+Basalt Cobble Stairs
+Andesite Cobble Stairs
+Dacite Cobble Stairs
+Quartzite Cobble Stairs
+Slate Cobble Stairs
+Phyllite Cobble Stairs
+Schist Cobble Stairs
+Gneiss Cobble Stairs
+Marble Cobble Stairs
+Granite Brick Stairs
+Diorite Brick Stairs
+Gabbro Brick Stairs
+Shale Brick Stairs
+Claystone Brick Stairs
+Rocksalt Brick Stairs
+Limestone Brick Stairs
+Conglomerate Brick Stairs
+Dolomite Brick Stairs
+Chert Brick Stairs
+Chalk Brick Stairs
+Rhyolite Brick Stairs
+Basalt Brick Stairs
+Andesite Brick Stairs
+Dacite Brick Stairs
+Quartzite Brick Stairs
+Slate Brick Stairs
+Phyllite Brick Stairs
+Schist Brick Stairs
+Gneiss Brick Stairs
+Marble Brick Stairs
+Smooth Granite Slab
+Smooth Diorite Slab
+Smooth Gabbro Slab
+Smooth Shale Slab

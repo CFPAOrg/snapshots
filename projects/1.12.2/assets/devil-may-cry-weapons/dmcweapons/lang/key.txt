@@ -1,0 +1,7 @@
+itemGroup.swords
+item.devilsworddante.name
+item.spada.name
+item.redqueen.name
+item.rebellion.name
+item.yamato.name
+item.coyote-a.name

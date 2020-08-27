@@ -1,0 +1,75 @@
+Stupid Onions...
+Find a Rutabaga.
+Making Friends
+Familiarize an animal.
+Man's Best Friend
+Reach maximum familiarity with a wolf.
+Spinning Away
+Craft a spindle to turn wool into string.
+Loony Loom
+Craft a loom with which to turn string into cloth.
+Good Night's Rest
+Craft a bed using wool or silk cloth made in the loom.
+Hunter
+Kill an animal.
+Bear in Mind
+Kill a bear.
+A Weird Rock
+Pick up nugget from the ground.
+Prospecting
+Craft a prospector's pick.
+Geologist
+Get a rock from every stone type and a specimen from every gem.
+DIAM- Oh Wait...
+Find Diamonds.
+Carboniferous
+Find Bituminous Coal or Lignite.
+Writing Stone
+Find Graphite.
+Pink Unicorn
+Find Kaolinite.
+Good for your Plants
+Find Sylvite.
+Pretty Ironic
+Find Hematite, Limonite or Magnetite Ore.
+Gold Rush
+Find Navite Gold Ore.
+Silver Bullet
+Find Navite Silver Ore.
+Dime and Nickel
+Find Garnierite Ore.
+Contains %s
+Flux
+Air Temperature: %dºC
+Contains %d units of %s
+A guide for TFC-TNG, a total conversion mod for 1.12.2
+%d Minutes Remaining
+%d Hours Remaining
+%d Ticks Remaining
+Unlit
+Needs %d Straw
+Needs %d Logs
+Making: %s
+No Recipe
+Contains %dmB of %s
+Sealed: %s
+Making: %d units of %s
+Ores: %d/%d
+Fuel: %d/%d
+Not Formed
+Harvesting Seasons:
+Mature
+Dead Crop
+Wild Crop
+Growth: %s
+Growing
+Not Growing
+Can Milk
+Can Mate
+Has Eggs
+Becomes adult in %s
+Familiarized
+Not familiarized
+Animal is old
+Pregnant
+Shearable

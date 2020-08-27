@@ -1,0 +1,16 @@
+item.gogglesMining.name
+item.module.name
+tooltip.range.name
+tooltip.modules.name
+tooltip.holdshift.name
+tooltip.baubles.name
+module.nightVision.name
+module.autoFeed.name
+module.haste.name
+module.movementSpeed.name
+module.resistance.name
+module.waterBreathing.name
+key.mininggoggles.category
+key.filter.desc
+key.toggle.desc
+chat.gogglesmissing.name

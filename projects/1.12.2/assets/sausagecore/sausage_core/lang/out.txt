@@ -1,0 +1,6 @@
+§lDebug Stick§r is a very handy tool to switch block states, query blocks' states and NBTs and entities' NBTs.\nshift + use in the open air to switch among modes.
+Episode 1
+§lContent§r\n1. Preface\n2. Untitled\n3. Steve & Alex: 9th grade Guardian
+§lPreface§r\nSausageCore: Hot Dog Leading!\nYou shall be our leader!
+§lUntitled§r\nNo translation for this page currently. Toggle to CN-ZH to view the original text.\nMaybe U can help me with it?
+§lSteve & Alex: 9th grade Guardian§r\nFor 800 years, Minecraft has been protected by Steve and Alex. But no one knows every four years two new warriors are chosen. Two freshmen to fight the forces of evil. You are Steve(or Alex). You are Minecraft Guardian!

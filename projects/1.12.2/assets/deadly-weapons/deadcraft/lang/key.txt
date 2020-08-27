@@ -1,0 +1,7 @@
+tile.deadstone.name
+item.ultimatelegs.name
+item.ultimatebody.name
+item.dead_trigger.name
+item.ultimateboots.name
+item.ultimatehelmet.name
+item.deadsword.name

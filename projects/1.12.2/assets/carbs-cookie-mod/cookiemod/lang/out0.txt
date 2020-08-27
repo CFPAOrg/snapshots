@@ -1,0 +1,90 @@
+Mod Name Tab
+Carbs Cookie Mod
+Item Name
+Rolling Pin
+Carbs Coin ( Iron )
+Carbs Coin ( Gold )
+Carbs Coin ( Diamond )
+Hunger Cookie
+Stat Eraser
+Cookie Dough
+Chocolate Chip Cookie Dough
+Flat Cookie Dough
+Flat Chocolate Chip Cookie Dough
+CarbsCookie ( Baked )
+CarbsCookie ( Raw )
+Sugar Cookie ( Raw )
+Sugar Cookie ( Baked )
+Bottle of Chocolate
+Bottle of Frosting
+Fresh Baked Cookies
+Prepared Cookie Sheet
+Cookie Sheet
+Cookie Cutter ( Circle )
+Cookie Cutter ( Crumbler )
+Cookie Cutter ( Cutter )
+Cookie Cutter ( DHoe )
+Cookie Cutter ( Mixer )
+Cookie Cutter ( Sword Blade )
+Cookie Cutter ( Character )
+Cookie Crumbler Head ( Raw )
+Cookie Cutter Head ( Raw )
+Cookie DHoe Head ( Raw )
+Cookie Mixer Head ( Raw )
+Cookie Sword Blade ( Raw ) 
+Cookie Character ( Raw )
+Cookie Crumbler Head ( Baked )
+Cookie Cutter Head ( Baked )
+Cookie DHoe Head ( Baked )
+Cookie Mixer Head ( Baked )
+Cookie Sword Blade ( Baked ) 
+Cookie Character ( Baked )
+Starter LootBox ( Cookie / Vanilla Items )
+Survival LootBox ( Cookie / Vanilla Items )
+AbandonCaptain Cookie
+Adamantine11 Cookie
+Anokie Cookie
+AriannaCelestine Cookie
+Asshatdress Cookie
+Carbs_ Cookie
+CHELseaofblue Cookie
+Circathis Cookie
+CKoledo Cookie
+cryptk33p3r Cookie
+Darkosto Cookie
+DBDKevin Cookie
+DecentFarts Cookie
+DemonicSoulz Cookie
+Dimc93 Cookie
+Dinosaurus05 Cookie
+Dragoncraze Cookie
+Enderfs09 Cookie
+FrankThePegasus Cookie
+Gamerkitty_1 Cookie
+GirlSpoon Cookie
+HoloTheWiseWolf Cookie
+Jazzeojo Cookie
+Jenfinite Cookie
+JJames5725 Cookie
+Kayell Cookie
+Kebbrokk Cookie
+KissOfFate Cookie
+Legendaryhon Cookie
+Lucy2Bad Cookie
+Matty_Boo Cookie
+Mesonicbore10 Cookie
+Missdiamonder Cookie
+Miznobody Cookie
+MyWastedFantasy Cookie
+Nauspratus Cookie
+PilsworthProdigy Cookie
+PupperGames Cookie
+RedneckYoda Cookie
+RiseUpSammy Cookie
+Rydawg Cookie
+SimplySadi Cookie
+StarsPlaysMC Cookie
+Teacup_Gaming Cookie
+TealOldMan Cookie
+TheWhiteFoxGod Cookie
+Thunust Cookie

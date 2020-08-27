@@ -1,0 +1,138 @@
+PnK: Ancient Netherrack
+PnK: Decayed Fish
+PnK: Plantables
+PnK: Random Farming Things
+PnK: Slurried Things
+XI
+XII
+XIII
+XIV
+XV
+XVI
+XVII
+XVIII
+XIX
+XX
+XXV
+XxX
+IV
+V
+VI
+Unknown
+Hidden
+Parrots!
+Bat Head
+Blaze Head
+Cat Head
+Cave Spider Head
+Chicken Head
+Cow Head
+Creeper Head
+Dragon Head Plaque
+Elder Guardian Head Plaque
+Enderman Head
+Endermite Head
+Evoker Head
+Ghast Head
+Guardian Head
+Horse Head
+Husk Head
+Iron Golem Head
+Evil Bunny Head
+Llama Head
+Magma Cube Head
+Mooshroom Head
+Ocelot Head
+Blue Parrot Head
+Arley Head
+Gray Parrot Head
+Red Parrot Head
+Yellow Parrot Head
+Pig Head
+Polar Bear Head
+Rabbit Head
+Sheep Head
+Pinkly Sheep Head
+Yellow Sheep Head
+Silverfish Head
+Slime Head
+Shulker Head
+Skeleton Head
+Snowman Head
+Spider Head
+Squid Head
+Stray Head
+Flattened Head Plaque
+Vex Head
+Villager Head
+Vindicator Head
+Witch Head
+Wither Head
+Wither Skeleton Head
+Wolf Head
+Zombie Head
+Zombie Pigman Head
+Zombie Villager Head
+Protects against:
+Enhancements: 
+Arrows
+Creeper blasts 
+Enchantable 
+Fireballs
+TnT explosions
+Lightening strikes 
+Luck 
+Minions 
+Other projectiles
+Sensate 
+Reinforced 
+Wither skulls
+Modifier extras----
+Reforged extras----
+When in main hand base is:
+When in off hand base is:
+All enchantments removed:
+Base Durability
+Durability
+Piercing
+Hit Precision
+Knockback
+Scavenger Heal
+Parasitic Mending
+Void Piercing
+Animosity
+%s %s
+ Beacon-in-a-Bowl
+ Fall and Lava Protection
+ +6 Max Health
+ +%1$d Experience Levels
+Corrupting Ender Taint
+Pillager's Greed Taint
+Corrosion
+Extreme Gravity
+Fatigue
+Ailing
+Infection
+Jump Fail
+Infection
+Lacerating
+Bleeding
+Stink
+Hellfire
+Dousing
+Venom
+Hemotoxin Shock
+The Crazies
+Explosion
+Pink Fury
+Stimulant
+Steadfast
+Instant Potion Magnify
+Constantly Feeds
+Potion of No Jumping!
+Jump Fail Splash Potion
+Jump Fail Lingering Potion
+Arrow of No Jumping!
+Potion of Corrosion
+Splash Potion of Corrosion 
+Lingering Potion of Corrosion

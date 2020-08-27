@@ -1,0 +1,5 @@
+tile.invisiblights.light_source.name
+item.invisiblights.light_rod.name
+item.invisiblights.light_rod_powered.name
+item.invisiblights.light_rod_electric.name
+tooltip.invisiblights.energy

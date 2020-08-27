@@ -1,0 +1,130 @@
+testitem
+Second Grilled Brick
+Copper Ingot
+Tin Ingot
+Lead Ingot
+Nickel Ingot
+Silver Ingot
+Ruby
+Sapphire
+Permafrost Ingot
+Centerl Ingot
+Fictnium Ingot
+Realite
+Copper Nugget
+Tin Nugget
+Lead Nugget
+Nickel Nugget
+Silver Nugget
+Centerl Nugget
+Iron Gear
+Copper Gear
+Tin Gear
+Lead Gear
+Nickel Gear
+Centerl Gear
+Silver Gear
+Permafrost Powder
+Tea Leaves
+Tea Cup
+Tea Leaves Powder
+Needle
+Broken Needle
+Otyacraft Dictionary
+Tea and Tea Cup
+Silver Apple
+Second Grilled Brick Sword
+Second Grilled Brick Shovel
+Second Grilled Brick Pickaxe
+Second Grilled Brick Axe
+Second Grilled Brick Hoe
+Second Grilled Brick Helmet
+Second Grilled Brick Chestplate
+Second Grilled Brick Leggings
+Second Grilled Brick Boots
+Copper Sword
+Copper Shovel
+Copper Pickaxe
+Copper Axe
+Copper Hoe
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Tin Sword
+Tin Shovel
+Tin Pickaxe
+Tin Axe
+Tin Hoe
+Tin Helmet
+Tin Chestplate
+Tin Leggings
+Tin Boots
+Lead Sword
+Lead Shovel
+Lead Pickaxe
+Lead Axe
+Lead Hoe
+Lead Helmet
+Lead Chestplate
+Lead Leggings
+Lead Boots
+Nickel Sword
+Nickel Shovel
+Nickel Pickaxe
+Nickel Axe
+Nickel Hoe
+Nickel Helmet
+Nickel Chestplate
+Nickel Leggings
+Nickel Boots
+Ruby Sword
+Ruby Shovel
+Ruby Pickaxe
+Ruby Axe
+Ruby Hoe
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Sapphire Sword
+Sapphire Shovel
+Sapphire Pickaxe
+Sapphire Axe
+Sapphire Hoe
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Silver Sword
+Silver Shovel
+Silver Pickaxe
+Silver Axe
+Silver Hoe
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Centerl Sword
+Centerl Shovel
+Centerl Pickaxe
+Centerl Axe
+Centerl Hoe
+Centerl Helmet
+Centerl Chestplate
+Centerl Leggings
+Centerl Boots
+Permafrost Sword
+Permafrost Shovel
+Permafrost Pickaxe
+Permafrost Axe
+Permafrost Hoe
+Permafrost Helmet
+Permafrost Chestplate
+Permafrost Leggings
+Permafrost Boots
+Tea Flower
+Tea Seed
+Radeon Vii
+Radeon Pro v340
+REFIsword

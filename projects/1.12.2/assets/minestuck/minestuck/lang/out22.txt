@@ -1,0 +1,33 @@
+Drop Items In Cards
+If this is true, and both items and cards are dropped on death, the items will be dropped while inside the cards. Otherwise items and cards will instead be dropped separately.
+Modus
+Modus-related stuff
+Private Computers
+Set this to true to make computers only accessible by the owner of the computer. (the player who turned on the computer)
+Give Items Button
+If this is set to true, the 'Activate Editmode' button will be replaced by the old 'Give Items' button.
+Card In Deploylist
+Turn this to true to add a punched card (with a card punched to it) to the deploy list.
+Portable Machines In Deploylist
+Determines if the small portable machines should be included in the deploy list.
+Card Cost
+An integer to control the cost of captchalouge cards.
+Include Captcha Card Recipe
+Set this to false to remove the crafting recipe for captchalouge cards.
+Generate Card As Loot
+Set this to true to make captchalouge cards generate in dungeon/stronghold chests.
+Generate Cruxite Ore
+Determines if cruxite ore should be ganerated in the overworld.
+Global Session
+If true, all players will be joining the same session. This doesn't do that much yet since nothingso far is dependent of the session structure.
+Overworld Edit Range
+The maximum amount of blocks away from the computer an editmode player is allowed to be before entering the medium.
+Land Edit Range
+The maximum amount of blocks away from the spawn an editmode player is allowed to be after entering the medium.
+Artifact Range
+The radius of the area brought to the medium.
+Create Crater on Entry
+Turning this off will prevent minestuck from creating craters when players enter the medium. Items and tile entities will still be removed from where the crater should be.
+Keep the Medium Loaded
+Having this on will make medium dimensions and the area around the spawn stay loaded.
+Use Old Item Models

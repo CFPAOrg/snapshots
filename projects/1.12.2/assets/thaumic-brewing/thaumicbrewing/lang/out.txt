@@ -1,0 +1,16 @@
+For better or worse, these foul concoctions are even more potent than before.
+Extended Basic Potions
+Several types of brewed potions can have the duration of their effects extended by adding some glowstone dust to the mix.  How do I recreate that with alchemy?
+Strangely enough, Lux essentia was the answer.  I wouldn't have expected it to have time-related effects, but then again it is found in the glowstone that brewing uses.  Perhaps there's some unseen connection between the two arts.
+Extended Advanced Potions
+It stands to reason that if basic potions can have their effects extended, then advanced potions should as well.  Only one way to find out.
+As with my earlier experiments, a little bit of Lux has extended the effects of my advanced potions.
+Extended Debilitating Potions
+Perhaps these debilitating potions can have their effects extended as well.  Assuming, of course, that I'm willing to partake in that kind of research.
+Light is a strange thing to be adding to such dark mixtures, but alchemy doesn't always conform to our expectations.  Nonetheless, it accomplished my goals here.
+Splash Potions
+Sometimes I don't want to drink a potion myself, but rather apply its effects to another.  At a brewing stand I'd add a pinch of gunpowder to cause the flask to burst.  How can I recreate that effect using essentia?
+The gunpowder angle was a red herring, but I've found my answer.  By adding some Aqua essentia to the any potion, I can cause it to splash readily upon contact with a surface.
+Lingering Potions
+Some rare brews can have their effects linger in a cloud upon exposure to the air, but the main ingredient for that, dragon's breath, isn't the easiest thing to come by.  I'm going to need another solution if I want to replicate this.
+A little outside-the-box thinking has brought to me the answer: Spiritus!  Just as the spirits of the lost linger, so too shall any potions that I infuse with it.

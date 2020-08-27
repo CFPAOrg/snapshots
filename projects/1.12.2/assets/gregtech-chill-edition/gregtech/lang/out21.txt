@@ -1,0 +1,83 @@
+Energy Output Hatch (UV)
+Energy Output Hatch (MAX)
+Rotor Holder for Multiblocks/nHolds Rotor in place so it will not fly away
+Rotor Holder (ULV)
+Rotor Holder (LV)
+Rotor Holder (MV)
+Rotor Holder (HV)
+Rotor Holder (EV)
+Rotor Holder (IV)
+Rotor Holder (LuV)
+Rotor Holder (ZPM)
+Rotor Holder (UV)
+Rotor Holder (MAX)
+Voltage IN: §a%d §7(§a%s§7)
+Voltage OUT: §a%d §7(§a%s§7)
+Internal Energy Capacity: §9%d
+Amperage IN: §e%d
+Amperage IN up to: §e%d
+Amperage OUT: §e%d
+Amperage OUT up to: §e%d
+Item Slots: %d
+Fluid Capacity: %dMB
+Contains %sMB of %s
+Total: %d EU
+Usage: %d EU/t
+Generation: %d EU/t
+Duration: %.1f secs
+Amperage: %d
+Not consumed in process
+Chance: %s%%
+Temperature: %dK
+Energy To Start: %dEU
+§7Click with a empty fluid container to fill it from tank.
+§7(Shift-clicking will fill all containers in your hand)
+§7Click with a filled fluid container to empty in into tank.
+§7(Shift-clicking will empty all containers in your hand)
+%s Plasma
+Dirty %s Slurry
+Clean %s Slurry
+Empty
+§7%,d/%,d
+§7Temperature: %dK
+§7State: Gaseous
+§7State: Liquid
+Fuel Amount:
+Fluid Amount:
+Toggle View (Fluids)
+Toggle View (Items)
+Allow Overclocking
+Disable Overclocking
+Empty (No Item)
+§eClick with item to override
+Voltage: §a%d §7(§a%s§7)
+Amperage: §e%d
+Loss per block: §c%d
+Transfer: §e%dMB/t
+Max Temperature: §c%dK
+Can't transfer gases.
+Work Paused.
+Running perfectly.
+Idling.
+WARNING: Machine needs more energy.
+Progress: %s%%
+Invalid structure.
+Invalid amount of inputs/outputs.
+Max EU/t: %s (%s)
+Outputting: %s EU/t
+Max Temperature: %sK
+Heating Coil Level: %s
+Heating Coil EU Boost: %sx
+Distilling %s
+Cracking %s
+Lubricant Amount: %sL
+Fuel Amount: %sL (%s)
+Oxygen Amount: %sL
+Oxygen boosted.
+Supply oxygen to boost.
+Fuel Amount: %sL (%s)
+Rotor Speed: %s / %s RPM
+Rotor Efficiency: %s%%
+Rotor Durability: %s%%
+WARNING: Rotor Durability below %s%% (%s%%)
+Temperature: %s / %s C

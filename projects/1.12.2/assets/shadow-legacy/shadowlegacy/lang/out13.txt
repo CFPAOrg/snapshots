@@ -1,0 +1,34 @@
+Frost
+Flame
+Dark Damage
+Shadow Damage
+Void Damage
+Gravity Well
+Blasting
+Maximum Spell Cost
+Insufficient Rod Strength!
+Requires Both Hands!
+Cannot cast with Wand!
+Refocus Crystal
+Missing Focusing Crystal
+Invalid Spell
+You... you are not the Thelos! how have you managed to contact me?
+I did not mean to intrude.
+I came seeking advice.
+I am not one who can be easily contacted, your ability to do so can hardly be coincidental.
+Magic is a mysterious thing.
+Perhaps we were fated to meet?
+Indeed, and that is why we must take care when attempting to work alongside it.
+Could I ask for some advice?
+An interesting conjecture. But there must be some purpose for why we have met, why would you wish to meet me?
+I suppose I would seek advice.
+Why would you wish to have my advice, surely you know who I am seeing as you came here with a purpose?
+You are Monutan, the creator of magic.
+I wish to learn magic from you.
+Then you should know that I left the High Council of Overlords in disgrace. I am a fool and should never have given the power of the elements to the Los, for if I had not, we would not have lived through these near 1000 years of hostility between the different nations of the Los.
+I wish to stop the war.
+I have the mistake of giving my power to the Los once before, why should I offer you more power?
+I wish to stop the war.
+And why should I trust you? You belong to the Nation of Darkness, why should you wish to see this war end with neither the Cosmics or Naturals victorious?
+There is no victory to find here.
+You do show much wisdom... Perhaps I am mistaken. However I have learned much from the past and so I shall not teach you directly, you see to do that would be to give you power you have not truly earned, I see in you the potential to do great things and so I will instead set you a task. Translate this text The Arcana Mysterium, my book of knowledge compiled from my discoveries throughout the first era. In translating it you will learn not only how to fully master the element of darkness but also gain some understanding of the others.

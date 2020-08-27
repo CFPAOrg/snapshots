@@ -1,0 +1,104 @@
+HUAJI
+HUAJI Age-Infinite Galaxy
+HUAJI Age-JOstack
+HUAJI Age-Vehicle
+HUAJI bomb
+HUAJI Ore
+HUAJI Star Block
+Airspace Star Block
+HUAJI Blender
+HUAJI Polyfurnace
+§eThe second to the foil
+HUAJI Fragment
+Expended View
+HUAJI Star
+HUAJI Ingot
+HUAJI Sword
+Star Sword
+Spicy Sword-§eH
+Neutron Star Fragment
+Airspace Star 
+Infinite Universe Star
+Fried Rice With Eggs
+Fried Ultimate Rice With Eggs
+§o§lMultiple superposition state HUAJI star
+§dArrow for Stand
+§bWave Crystal
+Wave Knife
+§lTrigger
+§8§lMaster §f§lBall
+§aBike Key
+§eVehicle Pack
+%s was dead of world line converge
+%s has been compressed into a PNG image
+%s become the stella in the sky
+%s feels good
+%s was killed by %s
+%s was been killed by Golden Experience Requiem
+%s was killed in a second
+%s was squeezed to a point
+%s was broken down by void
+%s was destroyed by wave
+§9Orga Requiem
+§eBurst
+§eWarning:§4The Burst Mode might cause an irretrivable situation,do not easily fire this bow with pulling fully!!!
+HUAJI Helmet
+HUAJI Chestplate
+HUAJI Leggings
+HUAJI Boots
+§eTHE ARROW
+Super Plugin Helmet
+Fake Ether 
+Ether Circumflux Board
+Redstone Druse
+§4Bow of the great hero
+§4Exglutenbur
+Flash Dough
+Raw Gluten
+Baking Gluten
+Orga's hair
+Orga's clothes
+Orga's pants
+Orga's boots
+Hope Element
+Hope Flower
+§bInfinite §8Armor Charm
+§eRunning Orga
+Orga's Hair Knife
+Multi Stacks Knife
+Shiny Stacks Knife
+§e§lDio Bread
+§eRoad Roller
+§8The Assassin's Black Car
+§4Unbroken STEEL Flag
+§4STEEL Flag
+STELL Logo
+§lLOOT STICK
+§3§lLord Core
+Fate Tarot 
+§oDisc  
+§lThe Singularity
+§eLord Key
+HUAJI
+Five-fold Power
+Hope Flower
+§eRequiem
+§eRequiem Target
+Orga Target
+§b§lStand Power
+HUAJI Age
+Switch
+Stand Up
+Stand Power
+Stand Mode Change
+Stand:
+Stage:
+Press %s to Stand up
+Press %s to use Skill
+Press %s to switch Stand mode
+Skill Cost:  §b§l%s
+Energy:
+Sheer Heart Attack
+STAND
+§ePush %s to change mode
+The method of unsealing(Press Shift to see more)

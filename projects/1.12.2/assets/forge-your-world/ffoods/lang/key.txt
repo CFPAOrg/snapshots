@@ -1,0 +1,15 @@
+item.flour.name
+item.toast.name
+item.applejam.name
+item.appletoast.name
+item.cereals.name
+item.chocolatecereals.name
+item.cerealsbowl.name
+item.chocolatecerealsbowl.name
+item.kitchenknife.name
+item.barley.name
+item.barley_seeds.name
+item.beer.name
+item.beermug.name
+itemGroup.tabFoods
+tile.applejamjar.name

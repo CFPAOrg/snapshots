@@ -1,0 +1,17 @@
+tile.white_easter_egg.name
+tile.black_easter_egg.name
+tile.red_easter_egg.name
+tile.brown_easter_egg.name
+tile.blue_easter_egg.name
+tile.purple_easter_egg.name
+tile.cyan_easter_egg.name
+tile.silver_easter_egg.name
+tile.gray_easter_egg.name
+tile.pink_easter_egg.name
+tile.lime_easter_egg.name
+tile.yellow_easter_egg.name
+tile.light_blue_easter_egg.name
+tile.magenta_easter_egg.name
+tile.orange_easter_egg.name
+tile.green_easter_egg.name
+entity.easter_bunny.name

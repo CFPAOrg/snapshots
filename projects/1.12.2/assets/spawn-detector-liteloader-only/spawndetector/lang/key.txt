@@ -1,0 +1,7 @@
+spawndetector.configpanel.title
+spawndetector.configpanel.button.mode
+spawndetector.configpanel.button.intensity
+spawndetector.configpanel.button.radius
+spawndetector.configpanel.mode.0
+spawndetector.configpanel.mode.1
+spawndetector.controls.toggle

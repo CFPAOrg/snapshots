@@ -1,0 +1,36 @@
+Witch Doctor
+Totem Expansion
+/totem [player] [item]
+/totem [player] [item]
+Gave player effect
+Gave player effect
+Invalid totem
+Spelunking
+Totem Base
+Totem of Undying Head
+Revives you from the dead
+Totem of Ascending
+Totem of Ascending Head
+Saves you from a lethal fall (or the void)
+Totem of Smouldering
+Totem of Smouldering Head
+Saves you from accidental trips into lava
+Totem of Breathing
+Totem of Breathing Head
+Saves you from the depths
+Totem of Defusing
+Totem of Defusing Head
+Defuses any explosions you are involved with
+Totem of Repairing
+Totem of Repairing Head
+Repairs a broken tool after it breaks
+Totem of Spelunking
+Totem of Spelunking Head
+Grants the ability to detect ores around you
+Totem of Advancing
+Totem of Advancing Head
+Advances time forward
+Totem of Recalling
+Totem of Recalling Head
+Sends you back home
+§c§oThe totem shakes, but can not find your home.

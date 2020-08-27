@@ -1,0 +1,84 @@
+Red Granite
+Black Granite
+Rhyolite
+Andesite
+Gabbro
+Basalt
+Komatiite
+Dacite
+Red Granite Overgrown Stone
+Black Granite Overgrown Stone
+Rhyolite Overgrown Stone
+Andesite Overgrown Stone
+Gabbro Overgrown Stone
+Basalt Overgrown Stone
+Komatiite Overgrown Stone
+Dacite Overgrown Stone
+Snowy Red Granite Overgrown Stone
+Snowy Black Granite Overgrown Stone
+Snowy Rhyolite Overgrown Stone
+Snowy Andesite Overgrown Stone
+Snowy Gabbro Overgrown Stone
+Snowy Basalt Overgrown Stone
+Snowy Komatiite Overgrown Stone
+Snowy Dacite Overgrown Stone
+Red Granite Cobblestone
+Black Granite Cobblestone
+Rhyolite Cobblestone
+Andesite Cobblestone
+Gabbro Cobblestone
+Basalt Cobblestone
+Komatiite Cobblestone
+Dacite Cobblestone
+Red Granite Mossy Cobblestone
+Black Granite Mossy Cobblestone
+Rhyolite Mossy Cobblestone
+Andesite Mossy Cobblestone
+Gabbro Mossy Cobblestone
+Basalt Mossy Cobblestone
+Komatiite Mossy Cobblestone
+Dacite Mossy Cobblestone
+Red Granite Bricks
+Black Granite Bricks
+Rhyolite Bricks
+Andesite Bricks
+Gabbro Bricks
+Basalt Bricks
+Komatiite Bricks
+Dacite Bricks
+Gneiss
+Eclogite
+Marble
+Quartzite
+Blue Schist
+Green Schist
+Soapstone
+Migmatite
+Gneiss Overgrown Stone
+Eclogite Overgrown Stone
+Marble Overgrown Stone
+Quartzite Overgrown Stone
+Blue Schist Overgrown Stone
+Green Schist Overgrown Stone
+Soapstone Overgrown Stone
+Migmatite Overgrown Stone
+Snowy Gneiss Overgrown Stone
+Snowy Eclogite Overgrown Stone
+Snowy Marble Overgrown Stone
+Snowy Quartzite Overgrown Stone
+Snowy Blue Schist Overgrown Stone
+Snowy Green Schist Overgrown Stone
+Snowy Soapstone Overgrown Stone
+Snowy Migmatite Overgrown Stone
+Gneiss Cobblestone
+Eclogite Cobblestone
+Marble Cobblestone
+Quartzite Cobblestone
+Blue Schist Cobblestone
+Green Schist Cobblestone
+Soapstone Cobblestone
+Migmatite Cobblestone
+Gneiss Mossy Cobblestone
+Eclogite Mossy Cobblestone
+Marble Mossy Cobblestone
+Quartzite Mossy Cobblestone

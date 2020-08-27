@@ -1,0 +1,44 @@
+Custom NPCs Factions
+FILLSCREEN These settings only matter if Custom NPCs is installed
+Help Same Entity Type
+FILLSCREEN FIXNEWLINES Whether to help entities of the same type\n\nEg. if set to true, skeletons will help other skeletons (but not zombies)\n \n
+Help Owner
+FILLSCREEN FIXNEWLINES Help our owner (if we have one)\n \n
+Help If Same Owner
+FILLSCREEN FIXNEWLINES Help them if we both have the same owner (if we have one)\n \n
+Dedicated
+FILLSCREEN FIXNEWLINES DON'T help them if they don't have the same owner (if we have one)\n \n
+Help Owned
+FILLSCREEN FIXNEWLINES Help them if we own them\n \n
+Help Same Team
+FILLSCREEN FIXNEWLINES Help other entities on our team\n \n
+Don't Help Other Teams
+FILLSCREEN FIXNEWLINES Make sure NOT to help entities on other teams\n \n
+Help If Good Rep
+FILLSCREEN FIXNEWLINES Help npcs in the same faction and players with good faction rep\n \n
+Don't Help If Bad Rep
+FILLSCREEN FIXNEWLINES Make sure NOT to help those we're hostile to\n \n
+Attack (Melee)
+FILLSCREEN When anything attacks anything else (melee)
+Attack (Ranged)
+FILLSCREEN When anything attacks anything else (ranged)
+Stealth Attack (Melee)
+FILLSCREEN When something attacks an unaware victim (melee)
+Stealth Attack (Ranged)
+FILLSCREEN When something attacks an unaware victim (ranged)
+Assassination (Melee)
+FILLSCREEN When something kills without being detected (melee)
+Assassination (Ranged)
+FILLSCREEN When something kills without being detected (ranged)
+Calm Down
+FILLSCREEN When something was fleeing, but ran out of threat
+Give Up Search
+FILLSCREEN When something was searching for a target, but ran out of threat
+Rally
+FILLSCREEN When something was fleeing, but regained health
+Desperation
+FILLSCREEN When something is cornered while fleeing
+Can't Reach
+FILLSCREEN When something cannot reach its target
+Remove Invisibility On Hit
+FILLSCREEN FIXNEWLINES If set to true, when one living entity hits another living entity, they both lose invisibility\n\nThis happens before any new effects are applied\n \n

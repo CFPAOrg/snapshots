@@ -1,0 +1,92 @@
+Bronze Double Sheet
+Bismuth Bronze Double Sheet
+Leaded Bronze Double Sheet
+Brass Double Sheet
+Manganese Bronze Double Sheet
+Aluminum Bronze Double Sheet
+Sterling Silver Double Sheet
+Electrum Double Sheet
+Sterling Platinum Double Sheet
+Invar Double Sheet
+Cast Iron Double Sheet
+Pig Iron Double Sheet
+Steel Double Sheet
+HSLA Steel Double Sheet
+Stainless Steel Double Sheet
+Tool Steel Double Sheet
+Solder Double Sheet
+AlNiCo Double Sheet
+Duralumin Double Sheet
+Rose Alloy Double Sheet
+Nichrome Double Sheet
+Vitallium Double Sheet
+Unknown Alloy Double Sheet
+Wool Card
+Bronze Tuyere
+Bismuth Bronze Tuyere
+Leaded Bronze Tuyere
+Manganese Bronze Tuyere
+Rose Alloy Tuyere
+Iron Tuyere
+Steel Tuyere
+Tool Steel Tuyere
+Flint And Iron
+Copper Helmet
+Copper Chestplate
+Copper Greaves
+Copper Boots
+Leather Helmet
+Leather Jacket
+Leather Leggings
+Leather Boots
+Cloth Helmet
+Cloth Jacket
+Cloth Leggings
+Cloth Boots
+Bronze Helmet
+Bronze Chestplate
+Bronze Greaves
+Bronze Boots
+Bismuth Bronze Helmet
+Bismuth Bronze Chestplate
+Bismuth Bronze Greaves
+Bismuth Bronze Boots
+Leaded Bronze Helmet
+Leaded Bronze Chestplate
+Leaded Bronze Greaves
+Leaded Bronze Boots
+Manganese Bronze Helmet
+Manganese Bronze Chestplate
+Manganese Bronze Greaves
+Manganese Bronze Boots
+Rose Alloy Helmet
+Rose Alloy Chestplate
+Rose Alloy Greaves
+Rose Alloy Boots
+Iron Helmet
+Iron Chestplate
+Iron Greaves
+Iron Boots
+Steel Helmet
+Steel Chestplate
+Steel Greaves
+Steel Boots
+Tool Steel Helmet
+Tool Steel Chestplate
+Tool Steel Greaves
+Tool Steel Boots
+Unfinished Copper Helmet
+Unfinished Copper Chestplate
+Unfinished Copper Greaves
+Unfinished Copper Boots
+Unfinished Leather Helmet
+Unfinished Leather Jacket
+Unfinished Leather Leggings
+Unfinished Leather Boots
+Unfinished Cloth Helmet
+Unfinished Cloth Jacket
+Unfinished Cloth Leggings
+Unfinished Cloth Boots
+Unfinished Bronze Helmet
+Unfinished Bronze Chestplate
+Unfinished Bronze Greaves

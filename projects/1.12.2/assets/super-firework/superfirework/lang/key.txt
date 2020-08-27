@@ -1,0 +1,2 @@
+item.super_firework.name
+item.clone_firework.name

@@ -1,0 +1,4 @@
+key.categories.autowalkstacksize
+key.autoaction
+key.autowalk
+key.autojump

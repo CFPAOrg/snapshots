@@ -1,0 +1,14 @@
+Somnia Config
+Fatigue
+Side effects
+Fatigue levels to enter each side effect stage, their potion IDs, amplifiers and duration (ticks)
+Logic
+Options
+Performance
+Timings
+That armor looks uncomfortable
+You're not tired yet
+You can't sleep forever
+Something is keeping you awake
+Waiting for server
+Waiting for other players to sleep

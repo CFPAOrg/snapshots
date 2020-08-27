@@ -1,0 +1,97 @@
+You have successfully leveled up an entity!
+You have successfully leveled down an entity!
+Successfully increased rarity of an entity!
+Successfully decreased rarity of an entity!
+No targets found
+Not Enough Experience
+Cannot be higher than maximum level!
+has died by the hands of
+A mysterious flying building has spawned somewhere near a certain player?
+Infusion Successful!
+This Infusion was incredibly Successful!
+Infusion Failed.
+The Infusion failed horribly.
+Sword
+Axe
+Bow
+Hammer
+Staff
+Pants
+Chest
+Boots
+Helmet
+Ring
+Charm
+Bracelet
+Necklace
+Shield
+Common
+Uncommon
+Rare
+Epic
+Legendary
+Mythical
+Unique
+Adventure Map
+Put in Map Device to Use
+Client
+Server
+Droprates
+Mine and Slash
+Lenghty Gear Tooltips
+Non Mod Heal Multiplier
+Other Entities
+Maps Start To Drop at Lvl
+Unarmed Energy Cost
+Currency Start To Drop at Lvl
+Rarity Weights
+Map ID Start
+Map IDs Reserved
+Map Dimensions Config
+Dimensions Config
+Base Player Stats
+Loot Multiplier
+Experience Multiplier
+Currency Droprate
+Spell Droprate
+Map Droprate
+Unique Droprate
+Gear Droprate
+Compatible Items Droprate
+Item on Ground Rarity Particles
+Show Chat Combat Log
+Show Floating Damage Numbers
+Show Mob Health Bar
+Show Low Resource (Mana, Energy) Warnings
+Show Floating Experience Numbers
+Player GUI Overlay Type
+Mob Lvl Per Distance
+Mob Lvl 1 Area
+Player Lvl Cap
+Normal World Mob Lvl Cap
+Exp Multiplier
+Level ups cost tokens
+Max Players in Map
+Entities under System
+Non Mod Damage Multiplier
+Maximum Mob Level
+Minimum Mob Level
+Dimension ID
+Items Under System
+Crafted Items are Under System
+[Shift]: Info, [Ctrl]: Show Enchants
+Affix Rarity Loot Bonus
+§7Auto Salvage Bag
+§aAuto Salvage Bag
+§eAuto Salvage Bag
+§9Auto Salvage Bag
+§6Auto Salvage Bag
+§dAuto Salvage Bag
+§7MOS - Common Rune 
+§aMOS - Uncommon Rune 
+§eMOS - Rare Rune 
+§9MOS - Epic Rune 
+§6MOS - Legendary Rune 
+§dMOS - Mythical Rune 
+§7GOH - Common Rune 
+§aGOH - Uncommon Rune 

@@ -1,0 +1,15 @@
+tile.darkkinetic.name
+tile.hosting.name
+tile.spellbound.name
+tile.mythic.name
+tile.infinity.name
+tile.colony.name
+tile.clearkinetic.name
+item.kineticlogo.name
+item.sherman.name
+entity.Sherman.name
+entity.Namrehs.name
+entity.Tea.name
+tile.kinetic.name
+itemGroup.tabKinetic
+item.claimstick.name

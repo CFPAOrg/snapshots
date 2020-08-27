@@ -1,0 +1,135 @@
+Toggle Sneak
+Enchants Color
+Durability In
+Hunger Notification
+Health Notification
+Explosion Notification
+"Being Shot" Notific.
+XP Drops
+Custom Settings
+Reset Defaults
+Quick Item Use
+Display Enchants
+Cave Maps
+Disp. Other Teams
+On-map Waypoints
+Display Players
+Display Mobs
+Display Items
+Display Other
+Zoom
+Minimap Size
+Entity Amount
+Black
+Dark Blue
+Dark Green
+Dark Aqua
+Dark Red
+Dark Purple
+Gold
+Gray
+Dark Gray
+Blue
+Green
+Aqua
+Red
+Purple
+Yellow
+White
+Percent
+Numeral
+Both
+Tiny
+Small
+Medium
+Large
+PVP Sprint
+Quick Eat
+Toggle Sneak
+Quick Use 1
+Quick Use 2
+Quick Use 3
+Quick Use 4
+Quick Use 5
+Quick Use 6
+Quick Use 7
+Quick Use 8
+Quick Use 9
+Minimap Zoom In
+Minimap Zoom Out
+ON
+OFF
+Restores
+Top-Left
+Top-Right
+Teleport
+Waypoints
+Display Coordinates
+Disable/Enable
+disabled
+Click and drag to move the minimap around.
+Change Position
+Bottom-Left
+Bottom-Right
+In-game Waypoints
+Next >>
+<< Prev
+Lock North
+Latest Death
+Old Death
+Deathpoints
+Chunk Grid
+Entity Colours
+Players
+Friendly Mobs
+Hostile Mobs
+Items
+Other Entities
+Low Hunger
+Low Health
+Enlarge Minimap
+Beta
+Potion Status Settings
+Potion Effect Names
+Opacity
+Slime Chunks
+Unlimited
+Keep Old Deathpoints
+Toggle Minimap
+Anti-Aliasing
+Safe Mode
+Transfer
+Transfer All Waypoints
+Clear Set
+From
+To
+Seed To Use:
+Distance To WP
+Ingame Waypoints Scale
+Block Colours
+Accurate
+Vanilla
+Lighting
+Low Air Notification
+Low Air
+Looking At
+All
+Display Redstone
+Are you sure you would like to clear current set
+All the waypoints will be deleted from the set.
+Default
+New Waypoint Set
+World
+Set
+Delete Set
+Are you sure you would like to delete current set
+The set will be removed from current world.
+Toggle Ingame Waypoints
+Entity Dots Scale
+Entity Info
+Toggle Slime Chunks
+Toggle Chunk Grid
+Compass Over Waypoints
+Display Hostile Mobs
+An interface displaying information about the living entity that you are pointing at including players.
+Entity Info Settings

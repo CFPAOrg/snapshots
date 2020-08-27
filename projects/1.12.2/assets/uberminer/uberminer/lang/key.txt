@@ -1,0 +1,10 @@
+itemGroup.uberminer
+item.tool_uber.name
+item.uber_debugger.name
+item.bow_uber.name
+item.range_modifier.name
+item.speed_modifier.name
+item.uber_powder_1.name
+item.uber_powder_2.name
+tile.block_ubertable.name
+tile.block_ubercrafter.name

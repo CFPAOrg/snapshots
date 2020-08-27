@@ -1,0 +1,12 @@
+item.obsidianglass.name
+item.smoothobsidianshovel.name
+tile.netherfurnace.name
+item.smoothobsidiansword.name
+tile.smoothobsidian.name
+item.obsidiandimension_trigger.name
+item.smoothobsidianaxe.name
+item.smoothobsidianhoe.name
+tile.chiseledsmoothobsidianbrick.name
+item.smoothobsidianpickaxe.name
+tile.smoothobsidianbricks.name
+item.firecrystal.name

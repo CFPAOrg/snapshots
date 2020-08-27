@@ -1,0 +1,5 @@
+itemGroup.infinitystorage
+tile.infinitystorage:ultimate_chest.name
+item.infinitystorage:ultimate_bag.name
+container.infinitystorage.infinity_bag
+container.infinitystorage.ultimate_chest

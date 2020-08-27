@@ -1,0 +1,119 @@
+Thaumic Gadgets
+Open Mode GUI
+Armor Ability
+Open Lense GUI
+Gemcutter's Tools
+Yarn
+Golden Yarn
+Thauminium Yarn
+Magic Yarn
+Yarn of Light
+Shaded Yarn
+Ether Yarn
+Void Yarn
+Decorated Fabric
+Enchanted Fabric
+Fabric of Light
+Shaded Fabric
+Void Fabric
+Bewitched Fabric
+Volatile Fabric
+Wolf Hide
+Ingot of Light
+Shaded Ingot
+Nugget of Light
+Shaded Nugget
+Sharped Crystal (Aer)
+Sharped Crystal (Terra)
+Sharped Crystal (Ignis)
+Sharped Crystal (Aqua)
+Sharped Crystal (Ordo)
+Sharped Crystal (Perditio)
+Oval Crystal (Aer)
+Oval Crystal (Terra)
+Oval Crystal (Ignis)
+Oval Crystal (Aqua)
+Oval Crystal (Ordo)
+Oval Crystal (Perditio)
+Crystal Dust
+Ash
+Primal Axe
+Primal Hammer
+Primal Sword
+Belt of Light
+Helm of Light
+Chestplate of Light
+Leggins of Light
+Boots of Light
+Sword of Light
+Axe of Light
+Hoe of Light
+Pickaxe of Light
+Shovel of Light
+Shears of Light
+Scythe of Light
+Shaded Belt
+Shaded Helmet
+Shaded Chestplate
+Shaded Leggins
+Shaded Boots
+Shaded Sword
+Shaded Axe
+Shaded Hoe
+Shaded Pickaxe
+Shaded Shovel
+Shaded Shears
+Shaded Scythe
+Primal Helmet
+Primal Chestplate
+Primal Leggins
+Primal Boots
+Primal Helmet Upgraded
+Primal Chestplate Upgraded
+Primal Leggins Upgraded
+Primal Boots Upgraded
+Current Aspect: 
+Current Gem: 
+Thaumium Scythe
+Void Scythe
+Magic Pouch
+Enchanted Pouch
+Bewitched Pouch
+Hungry Magic Pouch
+Hungry Enchanted Pouch
+Hungry Bewitched Pouch
+Ender Pouch
+Void Pouch
+Lense Pouch
+Soulbinded!
+Unbinded!
+Don't touch it! It's not your!
+Blank Lense
+Night Vision Lense
+Echo Loc Lense
+Death Gaze Lense
+Fire Lense
+Knockback Lense
+Decay Lense
+Fortified Glass Shard
+Seeker Amulet
+Shade Rose Bush Seed
+Shade Rose Seed
+Shade Rose Petal
+Light Rose Bush Seed
+Light Rose Seed
+Light Rose Petal
+Shaded Metal Block
+Block of Light Metal
+Light Ore
+Shaded Ore
+Fortified Glass
+Fortified Glass Pane
+Statue
+Ancient Sarcophagus
+Ancient Cache
+Dummy Block
+Ageing Stone
+Dechantment Table
+Eye of the Ancient
+Greater Spire

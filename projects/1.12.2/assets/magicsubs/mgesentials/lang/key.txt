@@ -1,0 +1,4 @@
+entity.blackgolem.name
+entity.thanos.name
+entity.mobinfect.name
+item.dimesions1_trigger.name

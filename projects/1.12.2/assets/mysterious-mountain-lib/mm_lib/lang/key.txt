@@ -1,0 +1,2 @@
+mm_lib.info.welcome
+mm_lib.info.welcome_foolish

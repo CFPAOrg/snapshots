@@ -1,0 +1,3 @@
+/fly [<player>]
+Toggling flight on for %s
+Toggling flight off for %s

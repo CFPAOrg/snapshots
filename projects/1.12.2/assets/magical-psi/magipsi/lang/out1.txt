@@ -1,0 +1,15 @@
+["Click for... [",{"text":"Download","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click this to automatically download the latest version","color":"aqua"}},"clickEvent":{"action":"run_command","value":"/psi-download-latest %version%"}},"] [",{"text":"Website","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to the mod's website","color":"aqua"}},"clickEvent":{"action":"open_url","value":"http://psi.vazkii.us/downloads.php"}},"] [",{"text":"Changelog","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to the version's Changelog","color":"aqua"}},"clickEvent":{"action":"open_url","value":"http://psi.vazkii.us/changelog.php#%version%"}},"]"]
+[{"text":"Starting download of %s. Please do not remove your hard disk. Enjoying ","color":"yellow"},{"text":"Psi","color":"aqua"},{"text":"? Consider supporting ","color":"yellow"},{"text":"Vazkii","color":"light_purple"},{"text":" on ","color":"yellow"},{"text":"[Patreon]","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to Vazkii's Patreon","color":"light_purple"}},"clickEvent":{"action":"open_url","value":"http://www.patreon.com/Vazkii"}},{"text":"!","color":"yellow"}]
+Finished downloading %s. Delete your old Psi .jar and reload your game to update.
+You already downloaded the latest version. Close your game, delete the old version from your mods folder and load it again to update!
+The update is already downloading, give it some time, will you?
+Woah! It seems like something went wrong while trying to download the Psi update. Is psi.vazkii.us down?
+Sorry. This feature is currently disabled due to server host problems, it should be back soon.
+Rod Constructor
+Spell Inscriber
+Psidust Block
+Psimetal Block
+Psigem Block
+Dark Psimetal Plate
+Dark Psimetal Flow Plate
+Bright Psimetal Plate

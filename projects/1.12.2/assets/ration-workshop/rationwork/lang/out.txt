@@ -1,0 +1,40 @@
+Can
+OatMeal Can
+Mashed Potato Can
+Browned Meat Can
+Meat Stew Can
+Instant Coffee Can
+Instant Tea Can
+Cocoa Beverage Can
+Lemon Beverage Can
+OatMeal Bar
+Freeze Dried Mashed Potato Bar
+Meat Bar
+Freeze Dried Meat Stew Bar
+Freeze Dried Chicken & Rice Bar
+Instant Coffee Bag
+Instant Tea Bag
+Cocoa Beverage Bar
+Lemon Beverage Bar
+Bouillon Cube
+Apple Beverage Bar
+Grape Beverage Bar
+Orange Beverage Bar
+Chicken & Rice Can
+Meat Mashed Potato Can
+Bouillon Can
+Meat Soup Can
+Chocolate OatMeal Can
+Caramel OatMeal Can
+Apple Beverage Can
+Grape Beverage Can
+Orange Beverage Can
+Milk Can
+Milk Coffee Can
+Milk Tea Can
+Emergency Ration Can
+Survival Ration Can
+Assault Ration Can
+Empty Water Bottle
+Water Bottle
+Ration Workshop

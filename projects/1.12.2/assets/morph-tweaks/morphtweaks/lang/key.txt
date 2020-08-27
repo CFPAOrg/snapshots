@@ -1,0 +1,15 @@
+tile.new_tf_portal.name
+tile.voidifier.name
+tile.enchanter.name
+item.new_tf_portal.name
+item.capture_wand.name
+generator.morphtweaks.info
+generator.morphtweaks
+itemGroup.morphtweaks
+tooltip.profession
+tooltip.a_friendly
+tooltip.any
+tooltip.right_click
+tooltip.mob_to_capture
+tooltip.captured_mob
+enchantment.morphtweaks.soul_bound.name

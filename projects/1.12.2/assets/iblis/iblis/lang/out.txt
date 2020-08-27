@@ -1,0 +1,44 @@
+beginners
+novices
+experienced
+professionals
+experts
+ultimate
+Damage: %0.1f
+Iblis items
+%1$s was shot by %2$s
+Adventurer diary
+Guide
+Six barrels shotgun
+Shotgun bullet
+Shotgun shot
+Steel ingot
+Bronze ingot
+Sterilize in furnace before use
+Medkit
+Boulder
+Throwing knife
+Double crossbow
+Crossbow bolt
+Steel nugget
+Trigger spring
+Steel helmet
+Steel chestplate
+Steel leggins
+Steel boots
+Grape
+Chemical lab installation
+Iron with coal
+Iron ore with coal
+Slag
+A smell of enemy
+Overheating
+Do not craft item. Use resources to train only.
+General
+Characteristics
+Characteristics start level
+Characteristics points per level
+Characteristics cap
+Skills
+Skills cap
+Skills XP

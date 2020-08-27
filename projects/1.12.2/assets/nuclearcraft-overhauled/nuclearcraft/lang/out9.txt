@@ -1,0 +1,90 @@
+Corium
+Crushed Ice
+Crushed Ice
+Slurry Ice
+Slurry Ice
+Chocolate Liquor
+Chocolate Liquor
+Cocoa Butter
+Cocoa Butter
+Molten Unsweetened Chocolate
+Molten Unsweetened Chocolate
+Molten Dark Chocolate
+Molten Dark Chocolate
+Molten Milk Chocolate
+Molten Milk Chocolate
+Molten Sugar
+Molten Sugar
+Molten Gelatin
+Molten Gelatin
+Hydrated Gelatin
+Hydrated Gelatin
+Milk
+Milk
+Liquid Marshmallow
+Liquid Marshmallow
+Carbon Dioxide
+Carbon Dioxide
+Carbon Monoxide
+Carbon Monoxide
+Molten Sodium
+Molten Sodium
+Molten Potassium
+Molten Potassium
+Eutectic NaK Alloy
+Eutectic NaK Alloy
+Hot Eutectic NaK Alloy
+Hot Eutectic NaK Alloy
+Emergency Coolant
+Used to remove excess casing heat from molten salt fission reactors.
+Emergency Coolant
+Heated Emergency Coolant
+Heated Emergency Coolant
+Sodium Fluoride Solution
+Sodium Fluoride Solution
+Potassium Fluoride Solution
+Potassium Fluoride Solution
+Sodium Hydroxide Solution
+Sodium Hydroxide Solution
+Potassium Hydroxide Solution
+Potassium Hydroxide Solution
+Borax Solution
+Borax Solution
+Irradiated Borax Solution
+Irradiated Borax Solution
+Molten Sodium Hydroxide
+Molten Sodium Hydroxide
+Molten Potassium Hydroxide
+Molten Potassium Hydroxide
+Sublimated Arsenic
+Sublimated Arsenic
+Molten Boron Arsenide
+Molten Boron Arsenide
+Silicon Carbide Vapor
+Silicon Carbide Vapor
+Molten Zirconium
+Molten Zirconium
+Molten Manganese Dioxide
+Molten Manganese Dioxide
+Molten Alugentum
+Molten Alugentum
+Molten Alumina
+Molten Alumina
+Molten Thorium
+Molten Thorium
+Molten Uranium
+Molten Uranium
+Molten Uranium-233
+Molten Uranium-233
+Molten Uranium-233-Zirconium Alloy
+Molten Uranium-233-Zirconium Alloy
+Molten Uranium-235
+Molten Uranium-235
+Molten Uranium-235-Zirconium Alloy
+Molten Uranium-235-Zirconium Alloy
+Molten Uranium-238
+Molten Uranium-238
+Molten Uranium-238-Zirconium Alloy
+Molten Uranium-238-Zirconium Alloy
+Molten Neptunium-236
+Molten Neptunium-236

@@ -1,0 +1,31 @@
+Psio
+PSI Cell
+PSI-O Cell
+PSI-Dyne Cell
+PSI-Force Cell
+Star of PSI
+PSI Stimulator
+Psi Glass
+Flux Resonator
+Psionic Lensing Pedestal
+Cold Light Projector
+Sanguine Psiogenesis Device
+Psionic Induction Cage
+Potentia Inverter
+Trick: Draw Energy
+Transfers PSI from a block to the caster
+Flux Resonator
+Cold Light Projector
+Sanguine Psiogenesis Device
+Potentia Inverter
+(Creative-Only)
+Stores psionic energy.
+Provides infinite psionic energy.
+Single-use shot of psionic energy.
+Produces psionic energy from FE.
+Produces psionic energy from mana.
+Produces psionic energy from liquid starlight.
+Produces psionic energy from life essence.
+Produces psionic energy from ember.
+Produces psionic energy from potentia essentia.
+PSI Cell

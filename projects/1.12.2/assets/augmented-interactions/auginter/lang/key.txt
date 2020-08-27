@@ -1,0 +1,7 @@
+auginter.config
+key.categories.auginter
+key.auginter.skipAnimation
+command.usage.auginter
+command.usage.auginter.animation
+commands.auginter.animation.enable
+commands.auginter.animation.disable

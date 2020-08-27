@@ -1,0 +1,74 @@
+Ceiling Lamp (Zone-I) [Zone-I]
+Collar of Control (010) [Green]
+Ceiling Lamp (Zone-I) [Zone-I]
+CellPhone Tree Plank (3421)
+SO The Living Dimension BOTTOM
+CherryOS Buried (Yellow)
+SO Co C Yellow Body
+Snoozee (1926-3)
+Collar of Control (010) [Prism]
+Coffee Machine (Aesthetic)
+Flopsy (1926-2)
+Small Flood Lamp (Zone-II)
+Coffee Machine (Joe)
+Crafted and spawned in SCP-003 "The Biological Motherboard"
+Zone-II Floor
+Biological Mothorboard (003)
+Super Human
+Travelling Garden Eels (3375)
+SO Items
+Crafted and spawned in SCP-626 "Vision Altering Sculpture"
+Mewts Sock
+Zone-II Wall C
+Cabinet Maze Wall Top
+Crafted and spawned in SCP-1926 "The Mewts"
+Attic Plank
+Cabinet Maze Wall Bottom
+Coffee Machine (Mug) (Aesthetic)
+/advancement grant @e from scp_obscure:SOSCPObscureRootAdvancement
+Cabinet Maze Cabinet BOTTOM
+You're not Supposed to have this...
+The Foot of The Bed (072)
+Crafted and spawned in SCP-1926-3 "Snoozee"
+Cabinet Maze StairsB
+Cabinet Maze StairsA [Corroded]
+Tube
+Cabinet Maze Monster (432-1)
+Zone-I Wall A1
+Cabinet Maze Cabinet TOP
+Cabinet Maze FloorA
+Predatory Holly Bush (046)
+SO Co C Prism Boots
+Small Flood Lamp (Zone-I) [On]
+Zone-I Floor
+CellPhone Tree Leaves (3421)
+SO Co C Orange Boots
+Cabinet Maze Wall Bottom [Cracked]
+Travelling Garden Eels (3375)
+Crafted and spawned in SCP-3386 (The Night Owls)
+Cabinet Maze Exit
+The Vision Altering Sculpture
+SO Co C Orange Body
+Jorge
+SO Co C Blue Boots
+Desk (Right)
+SO Blocks
+Tube in Grass
+The Hand from Under The Bed (072)
+Attempted to go up into SCP-2740 "It Wasn't There"
+The Spiral Path
+Cabinet Maze Wall Middle [Cracked]
+Holly
+Cup o' Joe (198)
+CellPhone Tree Sapling (3421)
+SO Co C Prism Leggings
+Cup o' Joe
+Collars of Control
+The Hanged King (701-1) Essence
+The Mewts (Snoozee)
+Zone-II Wall B
+The Night Owls (3386) Essence
+SO Co C Purple Leggings
+SO Co C Green Boots
+CellPhone Tree Log[?] (3421)
+Cherry OS Cellphone (Blue)

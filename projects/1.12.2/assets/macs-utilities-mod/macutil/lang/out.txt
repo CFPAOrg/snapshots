@@ -1,0 +1,7 @@
+Emerald Hoe
+Emerald Shovel
+Berries
+Berry Seeds
+Sun Stone
+Moon Stone
+Usage: /getblock <x> <y> <z> OR /getblock <x> <z>

@@ -1,0 +1,7 @@
+language.name
+language.region
+language.code
+jev.category.fluid_extracting.title
+jev.category.fluid_mixing.title
+jev.category.vehicle.title
+jev.category.vehicle.materials

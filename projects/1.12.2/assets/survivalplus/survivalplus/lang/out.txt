@@ -1,0 +1,48 @@
+/emportant <message>
+* %s has an emportant message to announce to everyone: %s
+SurvivalPlus
+Enhanced Survival Experience
+SurvivalPlus Installation
+Download and Install SurvivalPlus
+coolsim thanks you for downloading SurvivalPlus!
+Be sure to check out the official SurvivalPlus Add-ons on CurseForge!
+Cheese Conquers All!
+Craft Cheese
+The Strongest Material of Them All
+Construct Cardboard from eight sticks
+The Ultimate Food of Power!
+Smelt Cheese Bread into its melted form
+Cake, But Cheese Flavoured!
+Wheat, sugar, milk, eggs and CHEESE!
+Unlimited Power!
+Place a Campfire
+Would you like a cupcake?
+Craft a Cheese Cupcake
+This is an old version of %s! Version %s is now available!
+Please click to download!
+%s no longer supports Minecraft Version %s! Please update to a newer Minecraft Version for more features!
+Click Here to Join the Official Discord Server for:
+Click to Join!
+[SurvivalPlus Creator]
+coolsim the grand creator of SurvivalPlus joined the game
+coolsim the grand creator of SurvivalPlus left the game
+coolsim has been killed too many times in a row and thus has not dropped a head!
+SurvivalPlus Config
+Enable Sponge Recipe
+Enable Galacticraft Cheese Block Recipe
+Enable IC2 Config Generation
+Disable SurvivalPlus Copper Ore Gen
+Disable SurvivalPlus Tin Ore Gen
+Disable SurvivalPlus Titanium Ore Gen
+Disable SurvivalPlus Amethyst Gen
+Disable SurvivalPlus Ruby Gen
+Disable SurvivalPlus Topaz Gen
+Disable SurvivalPlus Sapphire Gen
+Disable SurvivalPlus Pearl Gen
+Disable SurvivalPlus Spinel Gen
+Disable IC2 Industrial Credit EMC Value
+Enable Replace BOP Terrestrial Artifact Recipe
+Define the Permission Level of the Wak Command
+Disable SurvivalPlus Update Checker Message
+Disable Sounds Played Through sun.audio
+Disable SurvivalPlus Thank You Message

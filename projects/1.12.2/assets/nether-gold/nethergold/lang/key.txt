@@ -1,0 +1,16 @@
+item.ingot_nether_gold.name
+item.dust_nether_gold.name
+item.sword_nether_gold.name
+item.shovel_nether_gold.name
+item.pickaxe_nether_gold.name
+item.axe_nether_gold.name
+item.hoe_nether_gold.name
+item.helmet_nether_gold.name
+item.chestplate_nether_gold.name
+item.leggings_nether_gold.name
+item.boots_nether_gold.name
+tile.ore_nether_gold.name
+tile.block_nether_gold.name
+mods.tips.nethergold.1
+mods.tips.nethergold.2
+mods.tips.nethergold.3

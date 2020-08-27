@@ -1,0 +1,112 @@
+Elemental Items:Items
+Elemental Items:Combat
+Elemental Items:Tools
+Elemental Items:Blocks
+Crystal
+Fire Crystal
+Ice Shard
+Water Crystal
+Leaf Crystal
+Earth Crystal
+Sky Crystal
+Ender Crystal
+Crystal Pickaxe
+Fire Pickaxe
+Ice Pickaxe
+Water Pickaxe
+Leaf Pickaxe
+Earth Pickaxe
+Sky Pickaxe
+Ender Pickaxe
+Crystal Shovel
+Fire Shovel
+Ice Shovel
+Water Shovel
+Leaf Shovel
+Earth Shovel
+Sky Shovel
+Ender Shovel
+Crystal Axe
+Fire Axe
+Ice Axe
+Water Axe
+Leaf Axe
+Earth Axe
+Sky Axe
+Ender Axe
+Crystal Sword
+Fire Sword
+Ice Sword
+Water Sword
+Leaf Sword
+Earth Sword
+Sky Sword
+Ender Sword
+Sword of Life and Death
+Frost Fire Sword
+Steam Sword
+Meteor Sword
+Glacial Sword
+Blizzard Sword
+Void Sword
+Jungle Sword
+Typhoon Sword
+Pollen Sword
+Crystal Ore
+Fire Crystal Ore
+Cracked Ice
+Water Crystal Ore
+Leaf Crystal Ore
+Earth Crystal Ore
+Sky Crystal Ore
+End Crystal Ore
+Crystal Block
+Fire Crystal Block
+Ice Crystal Block
+Water Crystal Block
+Leaf Crystal Block
+Earth Crystal Block
+Sky Crystal Block
+End Crystal Block
+Crystal Helmet
+Fire Helmet
+Ice Helmet
+Water Helmet
+Leaf Helmet
+Earth Helmet
+Sky Helmet
+Ender Helmet
+Crystal Chestplate
+Fire Chestplate
+Ice Chestplate
+Water Chestplate
+Leaf Chestplate
+Earth Chestplate
+Sky Chestplate
+Ender Chestplate
+Crystal Leggings
+Fire Leggings
+Ice Leggings
+Water Leggings
+Leaf Leggings
+Earth Leggings
+Sky Leggings
+Ender Leggings
+Crystal Boots
+Fire Boots
+Ice Boots
+Water Boots
+Leaf Boots
+Earth Boots
+Sky Boots
+Ender Boots
+Crystal Arrow
+Fire Arrow
+Water Arrow
+Ice Arrow
+Leaf Arrow
+Earth Arrow
+Airrow
+Ender Arrow
+Flamethrower
+Armor Crusher

@@ -1,0 +1,6 @@
+fighterspath.bar_name
+potion.effect.fighters_brew
+splash_potion.effect.fighters_brew
+lingering_potion.effect.fighters_brew
+tipped_arrow.effect.fighters_brew
+fighters_brew

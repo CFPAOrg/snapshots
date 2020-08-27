@@ -1,0 +1,38 @@
+Backpack Sides
+Backpack Frame
+Metal Press Mold: Axe
+Metal Press Mold: Blank 
+Metal Press Mold: Block
+Metal Press Mold: Bucket 
+Metal Press Mold: Chisel
+Metal Press Mold: Double Ingot
+Metal Press Mold: Hammer 
+Metal Press Mold: Hoe
+Metal Press Mold: Hopper
+Metal Press Mold: Javelin 
+Metal Press Mold: Knife
+Metal Press Mold: Lamp
+Metal Press Mold: Mace 
+Metal Press Mold: Pick 
+Metal Press Mold: ProPick 
+Metal Press Mold: Saw
+Metal Press Mold: Scythe 
+Metal Press Mold: Shears
+Metal Press Mold: Sheet
+Metal Press Mold: Shovel
+Metal Press Mold: Sword
+Metal Press Mold: Tuyere
+Weak Steel Dust
+Weak Red Steel Dust
+Weak Blue Steel Dust
+High Carbon Steel Dust
+High Carbon Blue Steel Dust
+High Carbon Red Steel Dust
+Black Steel Amalgam
+Blue Steel Amalgam
+Red Steel Amalgam
+Copper Fishhook
+Red Gemmed Latch
+Wood Pulp
+Plow
+Plow

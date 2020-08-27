@@ -1,0 +1,101 @@
+Harshen Universe
+Harshen Soul Fragment
+Soul Harsher Sword
+Soul Harsher Pickaxe
+Harshen Dimensional Door
+Itium
+Harshen Crystal
+Harshen Soul Ingot
+Pontus Ring
+Bloody Earring
+§4Blood Essence§r
+Harshen Jaguar Armor Helmet
+Harshen Jaguar Armor Chestplate
+Harshen Jaguar Armor Leggings
+Harshen Jaguar Armor Boots
+§4Bloody Armor Helmet§r
+§4Bloody Armor Chestplate§r
+§4Bloody Armor Leggings§r
+§4Bloody Armor Boots§r
+Pontus World Gate Part
+Pontus World Gate Spawner First Part
+Pontus World Gate Spawner Second Part
+Pontus World Gate Spawner Third Part
+Pontus World Gate Spawner
+Pontus World Gate Spawner
+Enhanced Pontus World Gate Spawner
+Light Emitted Seed
+Light Emitted Essence
+Blood Collector
+Blood Collector
+Blood Collector
+Blood Collector
+Blood Collector
+Blood Collector
+Blood Collector
+Ritual Crystal
+Ritual Crystal (passive)
+Ritual Crystal (active)
+Soulless Knight Sword
+§2Empowered Soul Harsher Sword§r
+Guidance of Harshen Universe (WIP)
+Soul Infused Ingot
+Empty Glass Container
+Glass Container: Void
+Glass Container: Regeneration
+Glass Container: Cure
+Glass Container: %s
+Feather Earring
+Fearring
+One Ring
+Criminal Pendant
+Telering
+Blood Infused Ender Eye
+Elemental Pendant
+Ritual Sticks
+Ritual Stick
+Heretic Stick
+Powder of Heretism
+Zombie Eye
+Zombi Pendant
+§4Bloody Apple§r
+Pontus Cube
+§4Bloody Pontus Cube§r
+Minering
+Punchy Ring
+Looting Earring
+Ender Necklace
+Soul Shield
+Aqua Earring
+Iron Bow
+§bEnion Bow§r
+Xray Necklace
+Fiery Ring
+§5Soul Ripper Bow§r
+Valor Badge
+Iron Scythe
+§5Raptor Scythe§r
+Elytra Pendant
+Mystic Feather
+§bLightning Staff§r
+Solidifying Paste
+Ender Bow
+Feeding Earring
+Iron Heart
+§4Ring of Blood§r
+Soul Binding Pendant
+Reach Pendant
+Empty Ring
+Gillette
+§4Gillette§r
+§4Cursed Bone§r
+Soul Harsher Spade
+Reflector Pendant
+Broken Arrow
+§5Akzenia Soup§r
+§bDark Ewydoen§r
+Harshen Night Blade
+Telering Teleport Key
+Minering Teleport Key
+Accessory Inventory
+Ritual built wrong at %s, %s, %s. Expected %s, got %s

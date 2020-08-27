@@ -1,0 +1,116 @@
+Adamantine Ore
+Alduorite Ore
+Astral Silver Ore
+Atlarus Ore
+Tar Ore
+Carmot Ore
+Ceruclase Ore
+Copper Ore
+Deep Iron Ore
+Eximite Ore
+Ignatius Ore
+Infuscolium Ore
+Kalendrite Ore
+Lemurite Ore
+Lutetium Ore
+Manganese Ore
+Midasium Ore
+Meutoite Ore
+Mithril Ore
+Orichalcum Ore
+Osmium Ore
+Oureclase Ore
+Platinum Ore
+Potash Ore
+Phosphorite Ore
+Prometheum Ore
+Rubracium Ore
+Sanguinite Ore
+Shadow Iron Ore
+Silver Ore
+Sulfur Ore
+Tin Ore
+Vyroxeres Ore
+Vulcanite Ore
+Zinc Ore
+Crusher
+Alloyer
+§cCrusher
+§eAlloyer
+§4Sublimation Chamber
+Obscure
+Blinds your enemy for some time
+Opistognathus
+Increase attack/mining speed in water
+Volcanic
+Sets your enemy on fire for a certain amount of time (depending on the level of the trait)
+Duplication
+Has a chance to duplicate drops
+Life Steal
+Has a "luck" based chance to heal by 10% of the dealt damage
+Wither
+Applies wither effect on your enemy
+King Dice
+Applies a random effect on your enemy
+Adamantine Axe
+Adamantine Hoe
+Adamantine Pickaxe
+Adamantine Shovel
+Adamantine Sword
+Amordrine Axe
+Amordrine Hoe
+Amordrine Pickaxe
+Amordrine Shovel
+Amordrine Sword
+Angmallen Axe
+Angmallen Hoe
+Angmallen Pickaxe
+Angmallen Shovel
+Angmallen Sword
+Astral Silver Axe
+Astral Silver Hoe
+Astral Silver Pickaxe
+Astral Silver Shovel
+Astral Silver Sword
+Atlarus Axe
+Atlarus Hoe
+Atlarus Pickaxe
+Atlarus Shovel
+Atlarus Sword
+Black Steel Axe
+Black Steel Hoe
+Black Steel Pickaxe
+Black Steel Shovel
+Black Steel Sword
+Brass Axe
+Brass Hoe
+Brass Pickaxe
+Brass Shovel
+Brass Sword
+Bronze Axe
+Bronze Hoe
+Bronze Pickaxe
+Bronze Shovel
+Bronze Sword
+Carmot Axe
+Carmot Hoe
+Carmot Pickaxe
+Carmot Shovel
+Carmot Sword
+Celenegil Axe
+Celenegil Hoe
+Celenegil Pickaxe
+Celenegil Shovel
+Celenegil Sword
+Ceruclase Axe
+Ceruclase Hoe
+Ceruclase Pickaxe
+Ceruclase Shovel
+Ceruclase Sword
+Copper Axe
+Copper Hoe
+Copper Pickaxe
+Copper Shovel
+Copper Sword
+Damascus Steel Axe
+Damascus Steel Hoe

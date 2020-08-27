@@ -1,0 +1,46 @@
+Vertical Position of the mail alert box on the screen.
+Hints
+Enables the hints tab on machine and engine guis.
+Tab Speed
+Set the speed at which the gui side tabs open and close.
+Energy Tab
+Display the energy statistics tab on energy consumers.
+Liquid Tooltip
+Display liquid amounts in tank tooltips.
+Permissions
+Enables access restrictions on Forestry machines.
+Version Check
+Enables update and version check notice.
+Humus Degrade Delimiter
+Set how many stages humus has before it turns into sand.
+Farm Size
+Sets the size multiplier of the farmland.
+Farm Fertilizer
+Sets the multiplier of the multifarm and the cultivation farms. All cultivation farms alway use the double amount of fertilizer.
+Square Farms
+Makes farms use a square layout instead of a diamond one.
+EnderLily Farm Support
+Enables farm support for Extra Utilities Ender-lily seeds.
+Red Orchid Farm Support
+Enables farm support for Extra Utilities Red Orchid.
+Magical Crops Farm Support
+Enables farm support for Magical Crops.
+Cultivation Farm Size
+Sets the size of the farmland that is used by all cultivation farms.
+Ring Cultivation Farms
+Makes cultivation farms use a ring layout like the layout of the old farms. The farmland size of the ring layout is always one block smaller.
+Inner Ring Size
+Sets the size of the inner ring of the ring layout.
+Capsule Pickup
+Enables the function that cans and capsules can pick up fluids from the world.
+Reuseable Capsules
+Capsules are no longer consumed after being emptied.
+Amount Base
+The base amount that the wood pile will drop if the wall blocks are no registered pile waal blocks.
+Wall Check Range
+Sets the amount of blocks that the wood pile will check if it is a valid charcoal pile wall block.
+Forester's Manual
+Players who enter the world for the first time get a Forester's Manual.
+Genetics
+Pollinate Vanilla Trees
+Allow bees to pollinate vanilla tree leaves. When disabled, vanilla trees must be analyzed before they can be pollinated.

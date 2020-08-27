@@ -1,0 +1,48 @@
+There is no such block with ID/name %s
+The block couldn't be placed
+/fill <x1> <y1> <z1> <x2> <y2> <z2> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+Cannot place blocks outside of the world
+Data tag parsing failed: %s
+%s blocks filled
+No blocks filled
+Too many blocks in the specified area (%s > %s)
+/clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+Cannot access blocks outside of the world
+Source and destination can not overlap
+%s blocks cloned
+No blocks cloned
+Too many blocks in the specified area (%s > %s)
+/testforblocks <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [mode]
+Cannot access blocks outside of the world
+Source and destination are not identical
+%s blocks compared
+Too many blocks in the specified area (%s > %s)
+/blockdata <x> <y> <z> <dataTag>
+Block data updated to: %s
+Data tag parsing failed: %s
+Cannot change block outside of the world
+The target block is not a data holder block
+The data tag did not change: %s
+/entitydata <entity> <dataTag>
+Entity data updated to: %s
+Data tag parsing failed: %s
+%s is a player and cannot be changed
+The data tag did not change: %s
+/effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
+There is no such mob effect with ID %s
+Given %1$s (ID %2$s) * %3$s to %4$s for %5$s seconds
+Took %1$s from %2$s
+Took all effects from %s
+Couldn't take %1$s from %2$s as they do not have the effect
+Couldn't take any effects from %s as they do not have any
+/enchant <player> <enchantment ID> [level]
+There is no such enchantment with ID %s
+The target doesn't hold an item
+The selected enchantment can't be added to the target item
+%1$s can't be combined with %2$s
+Enchanting succeeded
+/particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode] [player] [params]
+Playing effect %s for %s times
+Unknown effect name (%s)
+Invalid param given (%s)
+/clear [player] [item] [data] [maxCount] [dataTag]

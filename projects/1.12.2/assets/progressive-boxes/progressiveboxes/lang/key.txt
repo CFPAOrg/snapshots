@@ -1,0 +1,6 @@
+itemGroup.progressiveboxes
+item.progressiveboxes.progressivebox.name
+commands.pb_testroll.usage
+commands.pb_testroll.playeronly
+commands.pb_testroll.unknownbox
+commands.pb_reload.usage

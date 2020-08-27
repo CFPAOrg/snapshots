@@ -1,0 +1,88 @@
+Molten Uranium
+Apple Juice
+Beetroot Juice
+Carrot Juice
+Melon Juice
+Pumpkin Juice
+Cactus Juice
+Chorusfruit Juice
+Lemon Juice
+Cherry Juice
+Tropical Juice
+Plum Juice
+Chocolate Milk
+Plum Wine
+Apple Cider
+Wooden Hoe
+Wooden Shovel
+Wooden Axe
+Wooden Pickaxe 
+Wooden Sword
+Stone Hoe
+Stone Shovel
+Stone Axe
+Stone Pickaxe 
+Stone Sword
+White Stained Clay
+Orange Stained Clay
+Magenta Stained Clay
+Light Blue Stained Clay
+Yellow Stained Clay
+Lime Stained Clay
+Pink Stained Clay
+Gray Stained Clay
+Light Gray Stained Clay
+Cyan Stained Clay
+Purple Stained Clay
+Blue Stained Clay
+Brown Stained Clay
+Green Stained Clay
+Red Stained Clay
+Black Stained Clay
+White Terracotta Carved Brick
+Orange Terracotta Carved Brick
+Magenta Terracotta Carved Brick
+Light Blue Terracotta Carved Brick
+Yellow Terracotta Carved Brick
+Lime Terracotta Carved Brick
+Pink Terracotta Carved Brick
+Gray Terracotta Carved Brick
+Light Gray Terracotta Carved Brick
+Cyan Terracotta Carved Brick
+Purple Terracotta Carved Brick
+Blue Terracotta Carved Brick
+Brown Terracotta Carved Brick
+Green Terracotta Carved Brick
+Red Terracotta Carved Brick
+Black Terracotta Carved Brick
+White Terracotta Slab
+Orange Terracotta Slab
+Magenta Terracotta Slab
+Light Blue Terracotta Slab
+Yellow Terracotta Slab
+Lime Terracotta Slab
+Pink Terracotta Slab
+Gray Terracotta Slab
+Light Gray Terracotta Slab
+Cyan Terracotta Slab
+Purple Terracotta Slab
+Blue Terracotta Slab
+Brown Terracotta Slab
+Green Terracotta Slab
+Red Terracotta Slab
+Black Terracotta Slab
+White Terracotta Stairs
+Orange Terracotta Stairs
+Magenta Terracotta Stairs
+Light Blue Terracotta Stairs
+Yellow Terracotta Stairs
+Lime Terracotta Stairs
+Pink Terracotta Stairs
+Gray Terracotta Stairs
+Light Gray Terracotta Stairs
+Cyan Terracotta Stairs
+Purple Terracotta Stairs
+Blue Terracotta Stairs
+Brown Terracotta Stairs
+Green Terracotta Stairs
+Red Terracotta Stairs

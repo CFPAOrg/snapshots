@@ -1,0 +1,15 @@
+Open Config
+Pickup Upgrade from Slot #%d
+Default Satellite ID
+Result Pipe ID
+N/C
+Satellite ID
+Package Config
+Blocking Mode
+Off
+Off
+Wait for Completion
+Wait for Empty Inventory
+Redstone Active Low
+Redstone Active High
+Change

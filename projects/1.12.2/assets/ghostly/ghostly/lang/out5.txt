@@ -1,0 +1,27 @@
+Multi-color Possessed Hunchbone Eyes
+Control whether Possessed Hunchbones have multi-color eyes.
+Multi-color Possessed Withered Zombie Eyes
+Control whether Possessed Withered Zombies have multi-color eyes.
+Multi-color Possessed Wither Hunchbone Eyes Chance
+One in §ox§r§e Possessed Wither Hunchboness will have multi-color eyes.\n§eSet to 0 to disable Possessed Wither Hunchbones having multi-colored eyes.
+Multi-color Possessed Hunchbone Eyes Chance
+One in §ox§r§e Possessed Hunchbones will have multi-color eyes.\n§eSet to 0 to disable Possessed Hunchbones having multi-colored eyes.
+Multi-color Possessed Withered Zombie Eyes Chance
+One in §ox§r§e Possessed Withered Zombies will have multi-color eyes.\n§eSet to 0 to disable Withered Zombies having multi-colored eyes.
+Multi-color Possessed Boxer Zombie Eyes
+Control whether Possessed Boxer Zombies have multi-color eyes.
+Multi-color Possessed Boxer Husk Eyes
+Control whether Possessed Boxer Husks have multi-color eyes.
+Multi-color Possessed Boxer Skeleton Eyes
+Control whether Possessed Boxer Skeletons have multi-color eyes.
+Multi-color Possessed Boxer Stray Eyes
+Control whether Possessed Boxer Strays have multi-color eyes.
+Multi-color Possessed Boxer Wither Skeleton Eyes
+Control whether Possessed Boxer Wither Skeletons have multi-color eyes.
+Multi-color Possessed Boxer Zombie Eyes Chance
+One in §ox§r§e Possessed Boxer Zombies will have multi-color eyes.
+Multi-color Possessed Boxer Husk Eyes Chance
+One in §ox§r§e Possessed Boxer Husks will have multi-color eyes.\n§eSet to 0 to disable Possessed Husks having multi-colored eyes.
+Multi-color Possessed Boxer Skeleton Eyes Chance
+One in §ox§r§e Possessed Boxer Skeletons will have multi-color eyes.\n§eSet to 0 to disable Possessed Skeletons having multi-colored eyes.
+Multi-color Possessed Boxer Stray Eyes Chance

@@ -1,0 +1,20 @@
+AFarmK - Movement Toggles
+Toggle Shift
+Toggle LeftClick
+Toggle RightClick
+Toggle Forward
+Toggle Backwards
+Toggle Left
+Toggle Right
+Toggle Jump
+Reset Toggles
+AFarmK - Profile Toggles
+Profile 1
+Profile 2
+Profile 3
+Profile 4
+Profile 5
+Profile 6
+Profile 7
+Profile 8
+Profile 9

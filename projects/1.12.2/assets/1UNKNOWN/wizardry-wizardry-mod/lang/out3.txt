@@ -1,0 +1,39 @@
+Lightning
+Shoot a lightning bolt that shocks and burns everything in its path. Functions slightly differently depending on the previous Shape in the spell.
+The lightning bolt and its offshoots can be up to <RANGE> blocks long.
+Deals <POTENCY> lightning damage.
+Entities hit are ignited for <DURATION> seconds.
+Low Gravity
+The target becomes half their weight, jumping high and floating down.
+Jump height increased and fall damage decreased per point of <POTENCY>.
+The effect lasts half a second for each point of <DURATION>.
+Phase
+The target becomes incorporeal, phasing through blocks temporarily. If cast on blocks, turns an area of blocks incorporeal instead.
+The effect lasts for <DURATION> seconds.
+Affects all blocks within <AREA> blocks of the target block. No effect on entities.
+Phase effect reaches <RANGE> blocks past the target block. No effect on entities.
+Place
+Places the selected block.
+Can place blocks in up to <AREA> positions at once.
+Substitute
+Swaps the caster's position with that of the target. Blocks work similarly.
+Can swap up to <AREA> blocks at once. No effect on entities.
+Telekinesis
+Levitates blocks and entities.
+Grabs all entities and items within <AREA> blocks of the center.
+Thrive
+Heals entities and speeds growth.
+Entities are healed for 1/4 heart per point of <POTENCY>. No effect on blocks.
+Time Slow
+Dilates an entity's time. Can suspend their time completely.
+Slows down an entity to 1/<POTENCY> normal time.
+Effect lasts half a second per point of <DURATION>.
+Time Lock
+Once the spell expires, reverts the target block or entity to its previous state when the spell was cast.
+Effect lasts half a second per point of <DURATION>.
+Vanish
+The target can't see anyone when they're moving, but when they're still, they're invisible.
+Effect lasts for <DURATION> seconds.
+Zoom
+Zoom directly to the targeted position.
+Instantly moves you up to <RANGE> blocks.

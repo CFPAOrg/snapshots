@@ -1,0 +1,140 @@
+Dynasty Wood
+Sunflower
+Chest
+Gold Chest
+Purple Ice
+Ebonstone
+Ebonsand Block
+Ebonsandstone Block
+Vile Mushroom
+Red Ice
+Crimstone Block
+Crimsand Block
+Crimsandstone Block
+Vicious Mushroom
+Ebonwood
+Shadewood
+Gray Bricks
+Red Bricks
+Ebonstone Bricks
+Pearlstone Bricks
+Sandstone Bricks
+Snow Bricks
+Ice Bricks
+Mudstone Bricks
+Rainbow Bricks
+Iridescent Bricks
+Copper Bricks
+Tin Bricks
+Silver Bricks
+Tungsten Bricks
+Gold Bricks
+Platinum Bricks
+Demonite Bricks
+Crimtane Bricks
+Meteorite Bricks
+Obsidian Bricks
+Hellstone Bricks
+Cobalt Bricks
+Mythril Bricks
+Chlorophyte Bricks
+Luminite Bricks
+Asphalt Block
+Sawmill
+Used for advanced wood crafting
+Crystal Block
+Sunplate Block
+Marble Block
+Granite Block
+Chain
+Cloud
+Rain Cloud
+Demon Altar
+Jungle Spores
+Purple Torch
+Yellow Torch
+Blue Torch
+Green Torch
+Red Torch
+White Torch
+Orange Torch
+Pink Torch
+Ice Torch
+Rainbow Torch
+Amethyst Ore
+Diamond Ore
+Emerald Ore
+Ruby Ore
+Sapphire Ore
+Topaz Ore
+Slush
+Loom
+Used for crafting cloth
+Gray Stucco
+Red Stucco
+Green Stucco
+Yellow Stucco
+Smooth Granite
+Smooth Marble
+Rope
+Extractinator
+Table
+Banquet Table
+Wooden Chair
+Bar Stool
+Wooden Door
+Switch
+Ice Chest
+Living Wood Chest
+Shadow Chest
+Ivy Chest
+Water Chest
+Safe
+Chain Lantern
+Diabolist Lamp
+Alchemy Lantern
+Oil Rag Sconse
+Brass Lantern
+Caged Lantern
+Cariage Lantern
+Mushroom Lantern
+Wooden Door
+Cactus Door
+Glass Door
+Ebonwood Door
+Star in a Bottle
+Glass Kiln
+Ebonwood Lantern
+Livingwood Door
+Mushroom Door
+Skyware Door
+Pumpkin Door
+Obsidian Door
+Dungeon Door
+Lihzahrd Door
+Lihzahrd Brick
+Sky Mill
+Skyware Lantern
+Glass Lantern
+Heart Lantern
+Flesh Lantern
+Obsidian Lantern
+Living Loom
+Cactus Lantern
+Granite Lantern
+Spooky Lantern
+Shadewood Lantern
+Dynasty Lantern
+Honey Lantern
+Alchemy Table
+Bone Lantern
+Granite Door
+Bone Door
+Frozen Lantern
+Lihzahrd Lantern
+Boreal Door
+Livingwood Lantern
+Slime Lantern
+Spooky Wood
+Lihzahrd Furnace
+Steampunk Lantern

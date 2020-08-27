@@ -1,0 +1,19 @@
+Magic Essence
+Staff
+Dark Essence
+Electric Essence
+Fire Essence
+Ice Essence
+Life Essence
+Poison Essence
+Water Essence
+Wind Essence
+Heal Staff
+Electric Staff
+Fire Staff
+Dark Staff
+Water Staff
+Ice Staff
+Poison Staff
+Wind Staff
+Elementary Staffs

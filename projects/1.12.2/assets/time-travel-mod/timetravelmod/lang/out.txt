@@ -1,0 +1,25 @@
+A new Time Travel Mod version is available! Check it out in its CourseForge page!
+%s is playing too much with time
+You can't travel to your time line or from nether or end!
+Old West
+Present
+Controller circuit
+Creative time machine
+Heavy block
+Heavy ingot
+Reinforced heavy block
+Temporal cauldron
+Temporal explosion
+Time crystal
+Time crystal ore
+Time machine basic block
+Time machine control panel
+Time machine core
+Heavy block
+Reinforced heavy block
+Temporal cauldron
+Temporal explosion
+Time crystal ore
+Time machine basic block
+Time machine control panel
+Time machine core

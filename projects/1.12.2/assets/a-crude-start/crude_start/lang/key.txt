@@ -1,0 +1,8 @@
+item.crudeweedwacker.name
+item.crudeaxehead.name
+item.crudeshovelhead.name
+tile.branch.name
+tile.rock.name
+item.crudeaxe.name
+item.crudehandle.name
+item.crudeshovel.name

@@ -1,0 +1,38 @@
+XP
+Hold
+Shift
+for more details.
+An item that stores energy.
+Current Power:
+Max Power:
+Release
+for less details.
+Ctrl
+for NBT information.
+A block that stores a fluid.
+Pickaxe that uses energy
+Power Left
+Output
+Input
+None
+Disabled
+Input
+Output
+Normal
+Disabled
+No Connection
+Interface Normal
+Interface Output
+Interface Input
+Disabled
+Screen
+Energy
+Fluid
+Item
+No Connection
+Cable
+Other Cable
+Interface Normal
+Interface Output
+Interface Input
+Disabled

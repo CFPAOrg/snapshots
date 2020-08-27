@@ -1,0 +1,74 @@
+Ultimate Compression
+Ultimate Food Compression
+Ultimate Gear Compression
+Compressed Iron Ore
+Compressed Gold ore
+Compressed Diamond Ore
+Compressed Iron Ingot
+Compressed Gold Ingot
+Compressed Diamond
+Compressed Coal
+Compressed Block of Diamond
+Double Compressed Block of Diamond
+Compressed Block of Iron
+Double Compressed Block of Iron
+Compressed Block of Gold
+Double Compressed Block of Gold
+Compressed Block of Redstone
+Double Compressed Block of Redstone
+Compressed Block of Emerald
+Double Compressed Block of Emerald
+Compressed Block of Coal
+Compressed Block of Sand
+Double Compressed Block of Sand
+Compressed Block of Dirt
+Double Compressed Block of Dirt
+Compressed Glass
+Double Compressed Glass
+Compressed Block of Obsidian
+Double Compressed Block of Obsidian
+Compressed Oak Log
+Compressed Birch Log
+Compressed Spruce Log
+Compressed Jungle Log
+Compressed Acacia Log
+Compressed Dark Oak Log
+Double Compressed Oak Log
+Double Compressed Birch Log
+Double Compressed Spruce Log
+Double Compressed Jungle Log
+Double Compressed Acacia Log
+Double Compressed Dark Oak Log
+Compressed Oak Planks
+Compressed Birch Planks
+Compressed Spruce Planks
+Compressed Jungle Planks
+Compressed Acacia Planks
+Compressed Darkoak Planks
+Double Compressed Oak Planks
+Double Compressed Birch Planks
+Double Compressed Spruce Planks
+Double Compressed Jungle Planks
+Double Compressed Acacia Planks
+Double Compressed Darkoak Planks
+Compressed Apple
+Compressed Baked Potato
+Compressed Beetroot Soup
+Compressed Beetroot
+Compressed Bread
+Compressed Carrot
+Compressed Clownfish
+Compressed Cookie
+§bCompressed Golden Apple§r
+Compressed Golden Carrot
+Compressed Melon Slice
+Compressed Mushroom Stew
+Compressed Poisonous Potato
+Compressed Potato
+Compressed Pufferfish
+Compressed Pumpkin Pie
+Compressed Rabbit Stew
+Compressed Rotten Flesh
+Compressed Spider Eye
+Compressed Cooked Chicken
+Compressed Cooked Cod

@@ -1,0 +1,71 @@
+ICBM-Classic
+General
+Launcher
+Blast
+Fuse Times
+Bomb Carts
+Explosives
+Grenades
+EMP
+Missile
+Battery
+Thread
+Item
+Industrial Craft 2
+Debug
+Blast triggered with explosive %1$s and scale %2$f at [%3$s@%4$d, %5$d, %6$d, %7$d].
+Blast sent queue with explosive %1$s and scale %2$f. When done processing it will trigger at [%3$s@%4$d, %5$d, %6$d, %7$d].
+Unexpect error creating blast, see console for details.
+Blast was blocked by a forge event, see console for details.
+BlastFactory did not generate a blast, see console for details.
+Blast was already triggered, this should never happen and is a bug.
+Command received an unknown blast status code, see console for details.
+Explosive with ID '%1$s' could not be found
+Scale must be greater than zero!
+Triggering %10$d blasts with explosive %1$s and scale %2$f at [%3$s@%4$d, %5$d, %6$d, %7$d] with a spread of %8$d over a distance %9$d.
+Removed %1$d blast and %2$d entities within %3$d meters
+Removed %1%d entities within %2$d meters
+Unknown command. See %s help for more info.
+Toxin
+Virus
+Frost Bite
+Radiation
+Battery
+Used to store and transport power
+Sulfur
+Used in the creation of gunpowder
+Saltpeter
+Used in the creation of gunpowder
+Poison Powder
+Used in the creation of explosives
+Antidote
+Cures all effects
+Radar Gun
+Stores GPS data
+Remote Detonator
+Remotely fire a missile
+Defuser
+Remove explosives safely, even after they have gone off
+Laser Designator
+Remotely fire a missile
+Tracker
+Track entities and set homing missiles
+Signal Disrupter
+Jam frequencies to prevent detection or missile launches
+Rocket Launcher
+This rocket launcher can fire up to Tier %s rockets
+Creative: Bypasses tier restriction
+Steel Ingot
+Copper Ingot
+Steel Clump
+Iron Plate
+Steel Plate
+Copper Wire
+Gold Wire
+Basic Circuit
+Advanced Circuit
+Elite Circuit
+Launcher Platform T1
+Launcher Platform T2
+Launcher Platform T3
+Hold missiles in place before launch

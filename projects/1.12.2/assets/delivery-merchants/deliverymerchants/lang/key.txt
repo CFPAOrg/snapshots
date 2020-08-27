@@ -1,0 +1,2 @@
+tile.deliverymerchants.merchant_spawner.name
+entity.merchant.name

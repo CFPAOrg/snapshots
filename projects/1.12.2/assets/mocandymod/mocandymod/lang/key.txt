@@ -1,0 +1,15 @@
+item.caramel.name
+item.lollipop.name
+item.chocolate.name
+item.nutella.name
+item.nut.name
+item.breadslice.name
+item.nutellabreadslice.name
+item.moltencaramel.name
+item.candycane.name
+item.nesquik.name
+item.cherry.name
+tile.caramel_block.name
+tile.chocolate_block.name
+tile.lollipop_block.name
+tile.sugar_block.name

@@ -1,0 +1,96 @@
+Arcanum
+Blood Diamond Ore
+Void Diamond Ore
+Green Sapphire Ore
+Vanilla Random Ore
+Mod Random Ore
+Sulfur Ore
+Bone Ore
+Flesh Ore
+Blood Diamond Block
+Void Diamond Block
+Green Sapphire Block
+Green Sapphire Coal Block
+Sulfur Block
+Bone Block
+Flesh Block
+Blood Diamond
+Void Diamond
+Green Sapphire Ingot
+Green Sapphire Coal
+Infernal Diamond
+Blood Diamond Axe
+Void Diamond Axe
+Green Sapphire Axe
+Infernal Diamond Axe
+Infernal Axe
+Blood Diamond Hoe
+Void Diamond Hoe
+Green Sapphire Hoe
+Infernal Diamond Hoe
+Infernal Hoe
+Blood Diamond Pickaxe
+Void Diamond Pickaxe
+Green Sapphire Pickaxe
+Infernal Diamond Pickaxe
+Infernal Pickaxe
+Blood Diamond Shears
+Void Diamond Shears
+Green Sapphire Shears
+Infernal Diamond Shears
+Infernal Shears
+Blood Diamond Shovel
+Void Diamond Shovel
+Green Sapphire Shovel
+Infernal Diamond Shovel
+Infernal Shovel
+Blood Diamond Sword
+Void Diamond Sword
+Green Sapphire Sword
+Infernal Diamond Sword
+Infernal Sword
+Blood Diamond Helmet
+Void Diamond Helmet
+Green Sapphire Helmet
+Infernal Diamond Helmet
+Infernal Helmet
+Blood Diamond Chestplate
+Void Diamond Chestplate
+Green Sapphire Chestplate
+Infernal Diamond Chestplate
+Infernal Chestplate
+Blood Diamond Leggings
+Void Diamond Leggings
+Green Sapphire Leggings
+Infernal Diamond Leggings
+Infernal Leggings
+Blood Diamond Boots
+Void Diamond Boots
+Green Sapphire Boots
+Infernal Diamond Boots
+Infernal Boots
+BloodDiamond Stick
+Quartz Stick
+Basic Beating Stick
+Infernal Beating Stick
+Magic Hammer
+Infusion Wand
+Arc Wrench
+MCU Furnace
+Arc Furnace
+Fermenter
+Green Sapphire Torch
+Mountain Dew Mix
+SawDust
+Empty Can
+Red Cup
+Mountain Dew
+Beer
+Beer
+Corton Wine
+Hammer
+Crushed Apple
+Toast
+Apple Cider
+Warm Apple Cider
+Energy Conduit

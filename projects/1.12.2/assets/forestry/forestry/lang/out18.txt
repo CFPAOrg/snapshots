@@ -1,0 +1,49 @@
+Pure-Bred
+Pure Cave-Dwellers
+Pure Flyers
+Pure Nocturnal
+Any Bees
+Queen
+Drones
+Princesses
+Any Tree
+Sapling
+Pollen
+Any Butterfly
+Butterfly
+Caterpillar
+Serum
+Cocoon
+Adds bees, beekeeping and bee products. Affects world generation.
+Adds additional tree species and products.
+Adds backpacks.
+Adds a guide book that contains information about all other modules.
+Adds wood piles, loam and a charcoal production.
+Core mechanics for Forestry. Required by all other modules.
+Adds crates.
+Adds automatic farms for a wide variety of products.
+Adds a new storage block for bees / trees and butterflies.
+Adds several RF engines.
+Adds a wide variety of machines to craft, produce and process products.
+Adds automatic multiblock farm for a wide variety of products.
+Adds fluids, fluid blocks, and fluid containers.
+Adds food.
+Adds a greenhouse multiblock.
+Butterflies. Shiny.
+Adds Forestry's mail and trade system.
+Adds a filter for sorting items with genetic material
+Adds a crafting table that can save 8 recipes.
+Compatibility module for Actually Additions.
+Compatibility module for Better With Mods. Enables farming hemp.
+Compatibility module for BuildCraft. Currently version 7.99.
+Compatibility module for Biomes O Plenty. Enables farming BoP saplings.
+Compatibility module for EnderIO.
+Compatibility module for Extra Utilities. Enables farming ender lilies and red orchid.
+Compatibility module for HarvestCraft. Enables farming HarvestCraft plants and trees.
+Compatibility module for IC2. Adds electrical engine and generator for power conversion.
+Compatibility module for Immersive Engineering.
+Compatibility module for Mystical Agriculture. Enables farming Mystical Agriculture crops.
+Compatibility module for Natura. Enables farming Natura saplings.
+Compatibility module for Roots.
+Compatibility module for Rustic.
+Compatibility module for Tech reborn. Enables harvesting rubber from rubber trees.

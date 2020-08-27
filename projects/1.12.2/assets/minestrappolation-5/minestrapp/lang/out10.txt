@@ -1,0 +1,124 @@
+Empty Seed Pouch
+Seed Pouch
+Satchel
+Backpack
+Copper Mining Sieve
+Iron Mining Sieve
+Bronze Mining Sieve
+Archantine Mining Sieve
+Broken Archantine Mining Sieve
+Adamantium Mining Sieve
+Copper Saw Blade
+Iron Saw Blade
+Bronze Saw Blade
+Steel Saw Blade
+Archantine Saw Blade
+Wooden Hang Glider
+Reinforced Hang Glider
+Axial Hang Glider
+Primitive Cap
+Primitive Tunic
+Primitive Pants
+Primitive Boots
+Tin Helmet
+Tin Chestplate
+Tin Leggings
+Tin Boots
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Meurodite Helmet
+Meurodite Chestplate
+Meurodite Leggings
+Meurodite Boots
+Torite Helmet
+Torite Chestplate
+Torite Leggings
+Torite Boots
+Archantine Helmet
+Archantine Chestplate
+Archantine Leggings
+Archantine Boots
+Blazium Helmet
+Blazium Chestplate
+Blazium Leggings
+Blazium Boots
+Glacierite Helmet
+Glacierite Chestplate
+Glacierite Leggings
+Glacierite Boots
+Copper Pickaxe
+Copper Axe
+Copper Shovel
+Copper Hoe
+Bronze Pickaxe
+Bronze Axe
+Bronze Shovel
+Bronze Hoe
+Steel Pickaxe
+Steel Axe
+Steel Shovel
+Steel Hoe
+Meurodite Pickaxe
+Meurodite Axe
+Meurodite Shovel
+Meurodite Hoe
+Torite Pickaxe
+Torite Axe
+Torite Shovel
+Torite Hoe
+Archantine Pickaxe
+Archantine Axe
+Archantine Shovel
+Archantine Hoe
+Blazium Pickaxe
+Blazium Axe
+Blazium Shovel
+Blazium Hoe
+Glacierite Pickaxe
+Glacierite Axe
+Glacierite Shovel
+Glacierite Hoe
+Bedrock Pickaxe
+Bedrock Axe
+Bedrock Shovel
+Bedrock Hoe
+Adamantium Pickaxe
+Adamantium Axe
+Adamantium Shovel
+Adamantium Hoe
+Gold Dagger
+Gold Scepter
+Wooden Dagger
+Wooden Club
+Stone Dagger
+Stone Mace
+Copper Sword
+Copper Dagger
+Copper Mace
+Bronze Sword
+Bronze Dagger
+Bronze Mace
+Steel Sword
+Steel Dagger
+Steel Mace
+Meurodite Sword
+Meurodite Dagger
+Meurodite Mace
+Torite Sword
+Torite Dagger
+Torite Mace
+Iron Dagger
+Iron Mace
+Diamond Dagger
+Diamond Mace
+Archantine Sword
+Archantine Dagger
+Archantine Mace
+Blazium Sword
+Blazium Dagger

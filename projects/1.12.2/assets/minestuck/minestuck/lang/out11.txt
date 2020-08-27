@@ -1,0 +1,49 @@
+OH MY %s! I'M ACTUALLY ON SKAIA!
+Oh my...! I'm actually on skaia!
+You know, I have actually visited skaia at one point!
+I sense the presence of the %s. Tell me if you see them, ok?
+Present yourself as the %s.
+I am the %s.
+OH MY %s
+"Agree" to do that.
+Hehe, ok I will.
+Hey kid... I'll give you something special for 1000 boondollars...
+This consort seems pretty shady. You're not sure whether or not to trust them...
+Buy "Something special" [Pay 1000 boondollars]
+Ok... Sure??
+Here, kid.
+Do not buy from the shadowy dealer.
+Uh, no thanks...
+You're missin' out kiddo. %s it. I'll sell you this thing for 500 boondollars.
+It may be a deception, do not buy the "thing"!
+I said no already.
+buy it already! [Pay 500 boondollars]
+ Sure! Fine! Ok! Jeez...
+Thanks for your cash.
+%s has been sleeping for a thousand years. I shudder at the thought of their return.
+What?
+The... what?
+The Denizen is the One that Slumbers in our very soil. It is eternally waiting for the %s to awaken it. Then they will be given The Choice, and their victory will be determined by what they choose.
+Ask if the denizens are bad or not.
+Were these 'denizens' bad?
+How am I supposed to know if they were good or bad? There's more to a living being than just black and white!
+I'm hungry. Have any bugs? Maybe a chocolate chip cookie? Mmm.
+A %s! Could I have some?
+Yes
+Sure, here.
+No
+I don't really want to give this away.
+Thank you! I will remember your kindness for the rest of my short life.
+But I am starving here! What if I paid you 10 boondollars for it?
+Sure
+Sure, I can agree to that.
+Too Cheap
+I won't let it go that cheap.
+Finally!
+You are given 10 boondollars for the %s.
+Fine. I will just go and find a real food store.
+It's hard to catch our food with the Breeze carrying them away and whatnot!
+Hope you like red meat!
+Rabbit stew! Mmmm!
+Lightning-smoked meat really adds to the flavor!
+Frog legs are good but eating them is heresy! Buy some of our food instead!

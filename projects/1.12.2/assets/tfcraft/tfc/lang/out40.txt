@@ -1,0 +1,91 @@
+Copper Chisel Head Mold
+Copper Sword Blade Mold
+Copper Mace Head Mold
+Copper Saw Blade Mold
+Copper Javelin Head Mold
+Copper Hammer Head Mold
+Copper Prospectors Pickaxe Head Mold
+Copper Knife Blade Mold
+Copper Scythe Blade Mold
+Unfired Ingot Mold
+Unfired Pick Head Mold
+Unfired Shovel Head Mold
+Unfired Axe Head Mold
+Unfired Hoe Head Mold
+Unfired Chisel Head Mold
+Unfired Sword Blade Mold
+Unfired Mace Head Mold
+Unfired Saw Blade Mold
+Unfired Javelin Head Mold
+Unfired Hammer Head Mold
+Unfired Prospectors Pickaxe Head Mold
+Unfired Knife Blade Mold
+Unfired Scythe Blade Mold
+Small Vessel
+Small Unfired Vessel
+Small White Vessel
+Small Orange Vessel
+Small Magenta Vessel
+Small Light Blue Vessel
+Small Yellow Vessel
+Small Lime Vessel
+Small Pink Vessel
+Small Gray Vessel
+Small Light Gray Vessel
+Small Cyan Vessel
+Small Purple Vessel
+Small Blue Vessel
+Small Brown Vessel
+Small Green Vessel
+Small Red Vessel
+Small Black Vessel
+Small Unfired White Vessel
+Small Unfired Orange Vessel
+Small Unfired Magenta Vessel
+Small Unfired Light Blue Vessel
+Small Unfired Yellow Vessel
+Small Unfired Lime Vessel
+Small Unfired Pink Vessel
+Small Unfired Gray Vessel
+Small Unfired Light Gray Vessel
+Small Unfired Cyan Vessel
+Small Unfired Purple Vessel
+Small Unfired Blue Vessel
+Small Unfired Brown Vessel
+Small Unfired Green Vessel
+Small Unfired Red Vessel
+Small Unfired Black Vessel
+Unfired Large Vessel
+Spindle Head
+Unfired Spindle Head
+Ceramic Pot
+Unfired Pot
+Unfired Jug
+Ceramic Bowl
+Unfired Bowl
+Fire Brick
+Unfired Fire Brick
+Fire Clay
+Unfired Clay Brick
+Small Raw Hide
+Medium Raw Hide
+Large Raw Hide
+Small Soaked Hide
+Medium Soaked Hide
+Large Soaked Hide
+Small Scraped Hide
+Medium Scraped Hide
+Large Scraped Hide
+Small Prepared Hide
+Medium Prepared Hide
+Large Prepared Hide
+Small Sheep Skin
+Medium Sheep Skin
+Large Sheep Skin
+Banana
+Blackberry
+Blueberry
+Bunchberry
+Cherry
+Cloudberry
+Cranberry

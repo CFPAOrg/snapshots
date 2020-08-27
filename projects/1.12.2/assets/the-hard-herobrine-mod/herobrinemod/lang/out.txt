@@ -1,0 +1,26 @@
+Herobrine (Phase 1)
+Herobrine (Phase 2)
+Herobrine (Phase 3)
+Enhanced Sword
+Enhanced Helmet
+Enhanced Chestplate
+Enhanced Leggings
+Enhanced Boots
+Twice Enhanced Sword
+Twice Enhanced Helmet
+Twice Enhanced Chestplate
+Twice Enhanced Leggings
+Twice Enhanced Boots
+Thrice Enhanced Sword
+Thrice Enhanced Helmet
+Thrice Enhanced Chestplate
+Thrice Enhanced Leggings
+Thrice Enhanced Boots
+Fully Enhanced Sword
+Fully Enhanced Helmet
+Fully Enhanced Chestplate
+Fully Enhanced Leggings
+Fully Enhanced Boots
+Herobrine Spawn Item
+%1$s was slain by the bane of Minecraft
+%1$s was vaporized

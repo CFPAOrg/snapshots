@@ -1,0 +1,54 @@
+This is not a condenser; there must be no condenser tubes it to form
+There must be two sets of rotor bearings in opposing walls of the turbine for it to form
+The walls housing the rotor bearings must be square for the turbine to form
+Inlets and outlets must be installed opposite each other on the walls housing the rotor bearings for the turbine to form
+The sets of rotor bearings must be square and centred in the middle of each opposing wall for the turbine to form
+The rotor shaft must be fully connected to each set of rotor bearings for the turbine to form
+The space between the sets of rotor blades and stators must be empty for the turbine to form
+The rotor blades or stators about each section of the rotor shaft must be of the same type for the turbine to form
+Each section of the rotor shaft must have rotor blades or stators of the same type extend fully to the wall for the turbine to form
+There are %s qubits connected to this quantum computer; there can only be %s at most for it to form
+Collector
+Fission Moderator
+Fission Reflector
+Fission Irradiator
+Pebble Bed Fission
+Solid Fuel Fission
+Fission Moderators
+Fission Reflectors
+Solid Fuel Fission Heating
+Molten Salt Fission
+Molten Salt Cooling
+Heat Exchanger Tube
+Condensation Tube
+Turbine
+Radiation Scrubber
+NuclearCraft
+Nuclear Physics, Minecraft Style
+Industrializing
+Craft a Manufactory
+Fractionalization
+Craft a Separator
+Electric Avenue
+Craft a Basic Voltaic Pile
+Fizzing Electrodes
+Craft an Electrolyzer
+Alpha Power
+Craft a Decay Generator
+Mr. Dilkington
+Craft a Universal Bin
+Mary Poppins
+Craft a Portable Ender Chest
+Overclocking
+Craft a Speed Upgrade
+Polynomial Quenching
+Craft an Energy Upgrade
+Cubic Extension
+Craft a Machine Interface
+Smelting up a Storm
+Craft an Alloy Furnace
+Picking up the Pieces
+Craft a Fuel Reprocessor
+Extreme Radiation
+Craft a Decay Hastener
+Elon's Footsteps

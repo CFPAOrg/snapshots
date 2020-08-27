@@ -1,0 +1,37 @@
+Accepted Blocks
+Hm, what to pick..
+Index 1
+Index 2
+Treated-Wood.<br><br><br><br><br><br>The old-school.
+Nether Bricks<br><br><br><br><br><br><br><br><br><br><br>The hot-headed.
+Iron<br><br><br><br><br><br>The rusty-boi.
+Gold<br><br><br><br><br><br>The gangsta-bling.
+Copper<br><br><br><br><br><br>The common.
+Lead<br><br><br><br><br><br>The heavy.
+Silver<br><br><br><br><br><br>The shiny.
+Nickel<br><br><br><br><br><br>The half band.
+Constantan<br><br><br><br><br><br>The weirdo.
+Electrum<br><br><br><br><br><br>The shocker.
+Uranium<br>Emits a little bit of light aswell.<br>Though it seems only as much as a redstone torch.<br><br>The long half-life.
+Aluminium? No.<br>Aluminum? Nah.<br>Alumum. Perfect.<br><br><br><br>The split-opinion.
+Steel<br><br><br><br><br><br>The stronger rusty-boi.
+Concrete<br><br><br><br><br><br><br><br><br><br><br><br><br>The crumbly.
+Leaded Concrete<br><br><br><br><br><br><br><br><br><br><br><br><br>The reinforced crumbly.
+Index Page 1
+Index Page 2
+Treated Wood
+Netherbrick
+Iron
+Gold
+Copper
+Lead
+Silver
+Nickel
+Constantan
+Electrum
+Uranium
+Aluminium
+Steel
+Concrete
+Concrete (Leaded)
+Expected: %s

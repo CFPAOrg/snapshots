@@ -1,0 +1,15 @@
+Evading a blow takes more than quick feet - it's all about timing. Dodge early and the enemy is likely to adjust; dodge at just the right moment to gain up to a 20% bonus in addition to the base evasion chance.
+Base Dodge Chance: %d%%
+Max Timing Bonus: +%d%%
+Actively evade incoming blows
+Ending Blow
+While locked on and after striking the same opponent consecutively two or more times, quickly tap forward twice and attack.
+Throw an enemy off balance with consecutive blows and press the advantage with a ferocious attack to finish the enemy off.\nWhen used to finish off an enemy, bonus experience is awarded equal to the skill level of the player, plus an additional amount up to the final remaining health value of the slain foe.\nThis skill is not without risk, however; should the enemy survive, you will be flat-footed and vulnerable for the duration listed, or twice that time if your attack misses completely. Reckless use of this skill may very well result in an untimely demise.
+Finish off a vulnerable enemy
+Leaping Blow
+Hold block while locked on to a target and jump into the air; upon landing, you will automatically perform a leaping slash. Shield is not required.
+A powerful technique, the leaping blow is capable of striking and debilitating many foes at once. Enemies within the area of effect are weakened in addition to taking damage.\nTargets are affected based on their proximity to the center of the attack path; those further to the sides suffer less damage and a reduced weakness duration.\nDamage is calculated based on the attack bonus of the weapon used to perform the attack, plus bonus damage proportional to the skill level of the attacker.
+A multi-target leaping slash
+Mortal Draw
+While locked on and empty- handed, hold the block key and press attack right as an enemy's strike is about to land; requires a sword to be in the hotbar.
+Battoujutsu, also known as the art of unsheathing or drawing the sword, is one of the most difficult and deadly skills to master.\nWhen executed properly, the incoming attack is not only entirely neutralized, but the attacker is left completely vulnerable to attack, allowing the sword master to strike with the utmost efficacy.\nA successful battoujutsu inflicts double damage to the target, including all enchantment bonuses. This skill cannot be used in quick succession, as the sword must be placed back in its sheath before it may again be drawn.

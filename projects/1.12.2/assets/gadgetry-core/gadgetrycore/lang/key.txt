@@ -1,0 +1,16 @@
+itemGroup.gadgetrycore
+item.redmetal_ingot.name
+item.redmetal_nugget.name
+item.steel_ingot.name
+item.steel_nugget.name
+item.wrench.name
+item.redmetal_coil.name
+item.silicon.name
+tile.redmetal_block.name
+tile.steel_block.name
+tile.alloy_furnace.name
+gadgetrycore.inventory.alloy_furnace.name
+tile_alloy_furnace.module.inventory.name
+gadgetrycore.gui.toggleoutput
+gadgetrycore.jei.alloyrecipe.title
+gadgetrycore.gui.toggleoutput

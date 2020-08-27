@@ -1,0 +1,100 @@
+Trick: Blaze
+Creates fire at the given point
+Trick: Torrent
+Creates water at the given point
+Trick: Overgrow
+Fertilizes a block at the given point
+Trick: Greater Infusion
+Infuses Diamonds into Psigems
+Trick: Ebony And Ivory
+Infuses Coal and Quartz. Must be used in the End
+Trick: Speed
+Applies a Speed effect
+Trick: Haste
+Applies a Haste effect
+Trick: Strength
+Applies a Strength effect
+Trick: Jump Boost
+Applies a Jump Boost effect
+Trick: Water Breathing
+Applies a Water Breathing effect
+Trick: Fire Resistance
+Applies a Fire Resistance effect
+Trick: Invisibility
+Applies an Invisibility effect
+Trick: Regeneration
+Applies a Regeneration effect
+Trick: Resistance
+Applies a Resistance effect
+Trick: Slowness
+Applies a Slowness effect
+Trick: Weakness
+Applies a Weakness effect
+Trick: Wither
+Applies a Wither effect
+Trick: Ignite
+Sets an entity on fire
+Trick: Eidos Anchor
+Returns the caster to current position after target Time
+Trick: Eidos Reversal
+Takes the caster back in time
+Trick: Smelt Item
+Smelts an item entity into its smelted counterpart
+Trick: Smelt Block
+Smelts a block into its smelted counterpart
+Trick: Conjure Block
+Conjures a block in the given position
+Trick: Conjure Light
+Conjures a light in the given position
+Trick: Conjure Block Sequence
+Conjures a block sequence
+Trick: Switch Focus Slot
+Changes the focused slot of this spell
+Trick: Save Vector
+Saves a vector to Rod Memory
+Target
+Number
+Number A
+Number B
+Number C
+Number D
+Vector A
+Vector B
+Vector C
+Vector D
+Position
+Ray
+Max
+Min
+Power
+Direction
+Speed
+X
+Y
+Z
+Radius
+Distance
+Time
+List
+Constant
+Shift
+Slot
+Base
+None
+Any
+Number
+Number
+Number
+Vector
+Entity
+Entity (Living)
+Entity (Living)
+Entity (Player, Living)
+Entity List
+No Spell to compile
+Spell is Unnamed
+Spell has no Tricks
+A required Parameter is not set
+A Parameter is facing an empty cell
+A Parameter is facing an invalid piece
+Two or more Parameters are sharing a side

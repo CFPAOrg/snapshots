@@ -1,0 +1,56 @@
+Shrink Disc
+Grow Disc
+Regulator
+Ant Antenna
+Filter
+EMP Communication Device
+Shrink Size Coil
+Growth Size Coil
+Shrunken Structure
+Shrunken Suit
+Structure Shrinker
+Ant-Man
+Tier 1
+Ant-Man's Helmet
+Ant-Man's Chestpiece
+Ant-Man's Pants
+Ant-Man's Boots
+Ant-Man
+Tier 2
+Ant-Man's Helmet
+Ant-Man's Chestpiece
+Ant-Man's Pants
+Ant-Man's Boots
+Ant-Man
+Tier 3
+Ant-Man's Helmet
+Ant-Man's Chestpiece
+Ant-Man's Pants
+Ant-Man's Boots
+Wasp
+Tier 2
+Wasp's Helmet
+Wasp's Chestpiece
+Wasp's Pants
+Wasp's Boots
+Shrink Pym Particles
+Grow Pym Particles
+Sent himself into the Quantum Realm
+Sent %s into the Quantum Realm
+/quantumrealm <entity>
+Pym Particles
+Regulator
+Shrink Suit
+Pym Tech
+Shrink
+Grow
+§cYou don't have enough Shrink Pym Particles!
+§cYou don't have enough Grow Pym Particles!
+Infinite
+Save
+Bounding Box: %s
+ON
+OFF
+Reset
+Size: %sx
+%s suffocated while being small

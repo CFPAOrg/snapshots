@@ -1,0 +1,49 @@
+Wither Bone
+Refined Haft
+Treated Wood
+Withered Bone
+Leather
+Cloth
+Diamond
+Emerald
+Quartz
+Prismarine
+Ender Pearl
+Lapis Lazuli
+Ender Biotite
+Ruby
+Amethyst
+Peridot
+Topaz
+Tanzanite
+Malachite
+Sapphire
+Amber
+Obsidian
+Aquamarine
+Harvest Level
+Durability
+Efficiency
+Attack Damage
+Enchantability
+Harvest Level Bonus
+Durability Modifier
+Efficiency Modifier
+Attack Damage Bonus
+Enchantability Modifier
+*Tools made with blaze rod hafts will start fires when used on a block, much like a flint and steel.
+*When a block is mined with a tool made with an end rod haft, any dropped items will have no gravity.
+*Tools use eight times as much durability when not in the nether.
+*Tools made with prismarine are faster when the user is wet.
+*Tools made with lapis lazuli can be enchanted up to level 50 instead of 30. Additionally, mining blocks or killing mobs with a lapis lazuli adorned tool will sometimes grant extra experience orbs.
+*Tools adorned with ender pearls will be able to mine blocks at a slightly greater distance than normal tools.
+*Tools made with withered bones will inflict opponents with withering when landing a critical strike. The effect will be more potent if the tool is made with multiple withered bones.
+*Tools and weapons made with void metal will slowly repair themselves when damaged and inflict weakness upon struck mobs and players. They also tend to warp the mind of anyone who wields them.
+Pickaxe
+Axe
+Shovel
+Hoe
+Hand Pick
+Hammer
+Pickaxes are used to mine stone and metal-based blocks. A pickaxe is not a great weapon, but can still be used as one in a pinch. They are made with a pickaxe head, a haft, a handle, and optionally an adornment.
+Axes are used to break wood-based blocks. They can also be used as weapons, dealing high damage at low speed, with the added bonus of momentarily disabling the target's shield. Axes are made with an axe head, a haft, a handle, and optionally an adornment.

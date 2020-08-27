@@ -1,0 +1,5 @@
+biomeheighttweaker.config.biomeheight
+biomeheighttweaker.config.biomevar
+biomeheighttweaker.config.village
+biomeheighttweaker.config.alt_caves
+biomeheighttweaker.config.gui.title

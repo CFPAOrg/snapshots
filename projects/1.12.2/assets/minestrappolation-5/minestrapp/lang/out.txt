@@ -1,0 +1,25 @@
+Vanilla Tweaks
+Determine which Vanilla features Minestrapp alters.
+Remove Vanilla Recipes
+Determines whether all Vanilla recipes replaced by Minestrapp ones will be removed on launch. Does not disable Minestrapp replacement recipes from being added.
+Determines whether all Vanilla recipes replaced by Minestrapp ones will be removed on launch. Does not disable Minestrapp replacement recipes from being added.
+Starting Health
+Determines how much health players start with in survival.
+Determines how much health players start with in survival.
+Maximum Health
+Determines the maximum amount of health players can reach using Heart Containers.
+Determines the maximum amount of health players can reach using Heart Containers.
+Light Freezing
+Deep Freezing
+Sieving
+In-World Block Interactions
+Sawmill
+Sawmill
+Alloy Smelting
+Crushing
+Light Freezing
+Deep Freezing
+Sieving
+Pressurizing
+In-World Block Interactions
+Milling

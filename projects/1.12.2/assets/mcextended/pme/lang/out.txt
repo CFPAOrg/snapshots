@@ -1,0 +1,70 @@
+ME Blocks
+ME Items
+ME Combat
+ME Tools
+Storage Key
+Heart of The Guardian
+Exploding Arrow
+Gold Bow
+Iron Bow
+Diamond Bow
+Obsidian Bow
+Big Oak Plank
+Iron Saw
+Oak Plank
+Obsidian Sword
+Obsidian Pickaxe
+Obsidian Axe
+Obsidian Shovel
+Obsidian Arrow
+Diamond Arrow
+Emerald Arrow
+Gold Arrow
+Emerald Sword
+Emerald Axe
+Emerald Pickaxe
+Emerald Shovel
+Obsidian Shard
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Emerald Shield
+Obsidian Shield
+Diamond Shield
+Iron Shield
+Fiery Pickaxe
+Emerald Bow
+Fiery Shovel
+Pier Door
+Storage Wall
+Large Chest
+Pier
+Pier Stairs
+Pier Slab
+Pier Glass Pane
+Lamppost
+Crate
+Lantern
+Barrel
+Pier Bench
+Carpenters Table
+Pier Fence
+Pier Base
+Pier Base (Solid)
+Pier Chair
+Chandelier
+Pier Fence Gate
+Pier Bridge
+Pier Bookshelf
+Display Cabinet
+Candle
+Storage Shelf
+All The Storage!
+Craft the Storage Key, and gain access to the Storage Dimension
+tpdim <id|name>
+§2[Minecraft Extended]: §fUpdate available: %s

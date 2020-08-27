@@ -1,0 +1,52 @@
+Your linker was cleared.
+Link cleared!
+Link started!
+Link created!
+This block has reached it's link limit.
+Link failed!
+That block to too far to be linked.
+That link to too short.
+You can't link those blocks together.
+This face has already been linked.
+Can send power
+Can not send power
+Can send items
+Can not send items
+Stored Anima:
+Max Anima:
+Links
+Anima Mundi
+Anima Mundi Beta! Advancements Coming Soon :)
+Anima Mundi
+Capacity
+Recharge Delay
+Recharge Rate
+Node Linker
+Anima Shard
+Crystal Anima Shard
+Dark Anima Shard
+Link Analyser
+Anima Jar
+Basic Shield
+Sturdy Shield
+Rapid Shield
+Anima Core
+Extractor
+Destroyer
+Anima Node
+Inserter
+Sucker
+Splitter
+Sorter
+Block of Anima
+Block of Crystal Anima
+Block of Dark Anima
+Anima Ore
+Anima Brick
+Crystal Anima Brick
+Dark Anima Brick
+Buffered Inserter
+Solar Collector
+Lunar Collector
+Anima Generator
+Charger

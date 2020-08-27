@@ -1,0 +1,130 @@
+Opal
+Topaz
+Ruby
+Sapphire
+Multi Gem
+Opal Pickaxe
+Topaz Pickaxe
+Ruby Pickaxe
+Sapphire Pickaxe
+Opal Axe
+Topaz Axe
+Ruby Axe
+Sapphire Axe
+Opal Sword
+Topaz Sword
+Ruby Sword
+Sapphire Sword
+Opal Hoe
+Topaz Hoe
+Ruby Hoe
+Sapphire Hoe
+Opal Shovel
+Topaz Shovel
+Ruby Shovel
+Sapphire Shovel
+Opal Miner
+Topaz Miner
+Ruby Miner
+Sapphire Miner
+Wooden Miner
+Stone Miner
+Iron Miner
+Golden Miner
+Diamond Miner
+Opal Farmer
+Topaz Farmer
+Ruby Farmer
+Sapphire Farmer
+Wooden Farmer
+Stone Farmer
+Iron Farmer
+Golden Farmer
+Diamond Farmer
+Opal Multi-Tool
+Topaz Multi-Tool
+Ruby Multi-Tool
+Sapphire Multi-Tool
+Wooden Multi-Tool
+Stone Multi-Tool
+Iron Multi-Tool
+Golden Multi-Tool
+Diamond Multi-Tool
+Strength Pickaxe
+Strength Shovel
+Strength Axe
+Strength Sword
+Speed Sword
+Healing Sword
+Healing Axe
+Flame Sword
+Flame Pickaxe
+Flame Axe
+Flame Shovel
+Opal Helmet
+Opal Chestplate
+Opal Leggings
+Opal Boots
+Topaz Helmet
+Topaz Chestplate
+Topaz Leggings
+Topaz Boots
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Speed Helmet
+Speed Chestplate
+Speed Leggings
+Speed Boots
+Fire Helmet
+Fire Chestplate
+Fire Leggings
+Fire Boots
+Healing Helmet
+Healing Chestplate
+Healing Leggings
+Healing Boots
+Strength Helmet
+Strength Chestplate
+Strength Leggings
+Strength Boots
+Tool Binder
+Opal Energy Core
+Topaz Energy Core
+Ruby Energy Core
+Sapphire Energy Core
+Multi Energy Core
+Active Opal Energy Core
+Active Topaz Energy Core
+Active Ruby Energy Core
+Active Sapphire Energy Core
+Active Multi Energy Core
+Energy Core Fragment
+Opal Dust
+Topaz Dust
+Ruby Dust
+Sapphire Dust
+Multi Gem Dust
+Small Pile of Opal Dust
+Small Pile of Topaz Dust
+Small Pile of Ruby Dust
+Small Pile of Sapphire Dust
+Opal Nugget
+Topaz Nugget
+Ruby Nugget
+Sapphire Nugget
+Small Heart
+Linking Tool
+Opal Block
+Topaz Block
+Ruby Block
+Sapphire Block
+Opal Ore
+Topaz Ore
+Ruby Ore
+Sapphire Ore

@@ -1,0 +1,129 @@
+Forceful Strike
+Adds Knockback to all melee attacks!
+Void Soul
+Regenerate your mana twice as fast!
+Swift Arm
+Permanent Haste effect! (Stacks with Beacons)
+Magnetic Core
+Sneak to magnet items towards you!
+Mystical Maintenance
+Held tools repair over time!
+Flurry
+Faster attack speeds make everything better!
+Aquatic
+Faster mining and longer hold breath time while in water!
+Poisoned Touch
+Adds Poison to all melee attacks!
+Alphos
+Berohs
+Centheros
+Daeteros
+Eatros
+Phataeroh
+Geatris
+Hohnari
+Inimi
+Jindoh
+Kaldohs
+Lindis
+Mioh
+Niruae
+Ohea
+Poiae
+Qweria
+Risu
+Siru
+Teatri
+Uaei
+Verios
+Wearoh
+Xandu
+Yannis
+Zaxi
+Planks
+Cobblestone
+Stone
+Bricks
+Big Bricks
+Cracked Big Bricks
+Chiseled Big Bricks
+Stone Tiles
+Prism Bricks
+Stone Panel
+Glowstone
+Lantern
+Lamp
+Planks
+Flat Block
+Big Tile
+Marbled Stone
+Marbled Bricks
+Marbled Big Bricks
+Plank Stairs
+Cobblestone Stairs
+Stone Stairs
+Brick Stairs
+Big Brick Stairs
+Cracked Big Brick Stairs
+Chiseled Big Brick Stairs
+Stone Tile Stairs
+Prism Brick Stairs
+Stone Panel Stairs
+Flat Block Stairs
+Big Tile Stairs
+Marbled Stone Stairs
+Marbled Brick Stairs
+Marbled Big Brick Stairs
+Plank Slab
+Cobblestone Slab
+Stone Slab
+Brick Slab
+Big Brick Slab
+Cracked Big Brick Slab
+Chiseled Big Brick Slab
+Stone Tile Slab
+Prism Brick Slab
+Stone Panel Slab
+Flat Block Slab
+Big Tile Slab
+Marbled Stone Slab
+Marbled Brick Slab
+Marbled Big Brick Slab
+Crystal Deposit
+Block Transmuter
+§BArcana Mysterium
+Arcane Chalk
+Mana-Infused Chalk
+Simple
+§9Damp
+§6Dense
+§4Searing
+§eFloating
+§lBright
+§7Murky
+§bPure
+Mana-Infused
+Elemental Dust
+Crystal
+Crystal Seed
+Crystal Pick
+Crystal Axe
+Crystal Shovel
+Crystal Hoe
+Crystal Sword
+Arcane Workbench
+Advanced Arcane Workbench
+Void Workbench
+Ritual Circle
+Arcane Basin
+Blank Plate
+Plate of Healing
+Plate of Defence
+Plate of Agility
+Plate of Combat
+Plate of Transposition
+Plate of Purity
+Plate of Change
+Mana-Infused Ingot
+Artifact
+Simple Amplification Rod

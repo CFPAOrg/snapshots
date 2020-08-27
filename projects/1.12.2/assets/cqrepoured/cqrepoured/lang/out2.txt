@@ -1,0 +1,123 @@
+Ignores all entities which are not listed in cqrepoured.cfg -> advanced -> specialEntities. Recommended to keep checked.
+Super Tool (Creative Only)
+Healing Potion
+Teleport Stone
+Soul Bottle
+Mob To Spawner Tool
+Spawner Converter
+Badge
+Backpack
+Spiked Glove
+Alchemy Bag
+Selection Selector Helper
+Path Tool
+Cursed Bone
+Dummy Shield
+Dragon Helmet
+Iron Dagger
+Diamond Dagger
+Monking Dagger
+Ninja Dagger
+Turtle Sword
+Spider Sword
+Bull Battle Axe
+Moonlight
+Sunshine
+Pigman Shield
+Pirate Shield
+Specter Shield
+Goblin Shield
+Mummy Shield
+Rainbow Shield
+Rusted Shield
+Turtles Shield
+Triton Shield
+Walker Sword
+Walker King Shield
+Ice Bull Shield
+Carl
+Dragon Shield
+Fiery Shield
+Goblin Shield
+Monkey Shield
+Moon Shield
+Bandaged Shield
+Pigman Shield
+Pirate Shield
+Pirate Shield
+Rainbow Shield
+Mirror Shield
+Rusted Shield
+Skeleton Shield
+Specter Shield
+Spider Shield
+Sun Shield
+Tomb Shield
+Triton Shield
+Turtle Infantry Shield
+Warped Shield
+Walker Shield
+Walker Shield
+Zombie Shield
+Monking Great Sword
+Bull Greatsword
+Diamond Greatsword
+Iron Greatsword
+Diamond Spear
+Iron Spear
+Attack Range
+Staff
+Fire Staff
+Vampiric Staff
+Wind Staff
+Poison Staff
+Spider Staff
+Gun Staff
+Healing Staff
+Thunder Staff
+Revolver
+Captain Revolver
+Musket
+Musket with Iron Dagger
+Musket with Diamond Dagger
+Musket with Monking Dagger
+Iron Bullets
+Gold Bullets
+Diamond Bullets
+Fiery Bullets
+Cannon Ball
+Flamethrower
+Bubble Gun
+Advanced Bubble Gun
+Hookshot
+Longshot
+Cloud Boots
+Golden Feather
+Monking Bone
+King Crown
+Inquisition Helmet
+Inquisition Chestplate
+Inquisition Leggings
+Inquisition Boots
+Bull Helmet
+Bull Chestplate
+Bull Leggings
+Bull Boots
+Bull Leather
+Bull Horn
+Turtle Helmet
+Turtle Chestplate
+Turtle Leggings
+Turtle Boots
+Turtle Scale
+Slime Helmet
+Slime Chestplate
+Slime Leggings
+Slime Boots
+Regenerating Slime Ball
+Spider Helmet
+Spider Chestplate
+Spider Leggings
+Spider Boots
+Spider Leather
+Giant Spider Poison

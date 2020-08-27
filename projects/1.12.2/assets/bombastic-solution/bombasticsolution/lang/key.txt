@@ -1,0 +1,10 @@
+item.potassiumnitratepowder.name
+item.coaldust.name
+item.charcoaldust.name
+item.pestleandmortar.name
+item.sulfur.name
+tile.potassiumnitrateore.name
+tile.potassiumnitrateblock.name
+tile.sulfurore.name
+tile.sulfurblock.name
+itemGroup.tabBombasticSolutionMod

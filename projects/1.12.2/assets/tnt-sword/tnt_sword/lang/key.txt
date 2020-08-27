@@ -1,0 +1,2 @@
+item.tntpart.name
+item.tntsword.name

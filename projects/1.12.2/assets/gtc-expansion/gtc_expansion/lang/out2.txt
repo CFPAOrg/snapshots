@@ -1,0 +1,123 @@
+Small Neodymium Dust
+Small Uvarovite Dust
+Small Technetium Dust
+Small Chromite Dust
+Kanthal Dust
+Battery Alloy Dust
+Antimony Dust
+Steel Dust
+Saltpeter Dust
+Invar Dust
+Sulfur Dust
+Zinc Dust
+Grossular Dust
+Ash
+Magnesium Dust
+Magnetite Dust
+Phosphorus Dust
+Manganese Dust
+Andradite Dust
+Dark Ash
+Constantan Dust
+Lead Dust
+Almandine Dust
+Pyrope Dust
+Green Sapphire Dust
+Galena Dust
+Endstone Dust
+Chrome Dust
+Brass Dust
+Marble Dust
+Tungstensteel Dust
+Sphalerite Dust
+Cinnabar Dust
+Olivine Dust
+Spessartine Dust
+Basalt Dust
+RedRock Dust
+Nickel Dust
+Osmium Dust
+Osmiridium Dust
+Diamond Dust
+Granite Dust
+Nichrome Dust
+Slag Dust
+Stainless Steel Dust
+Tetrahedrite Dust
+Stone Dust
+Cobalt Dust
+Pyrolusite Dust
+Red Garnet Dust
+Yellow Garnet Dust
+Red Alloy Dust
+Magnalium Dust
+Nichrome Dust
+Uvarovite Dust
+Chromite Dust
+Cassiterite Dust
+Green Sapphire
+Olivine
+Red Garnet
+Yellow Garnet
+Kanthal Ingot
+Battery Alloy Ingot
+Antimony Ingot
+Steel Ingot
+Invar Ingot
+Zinc Ingot
+Magnalium Ingot
+Constantan Ingot
+Lead Ingot
+Brass Ingot
+Tungstensteel Ingot
+Nickel Ingot
+Osmium Ingot
+Osmiridium Ingot
+Nichrome Ingot
+Manganese Ingot
+Stainless Steel Ingot
+Red Alloy Ingot
+Hot Kanthal Ingot
+Hot Nichrome Ingot
+Hot Tungsten Ingot
+Hot Tungstensteel Ingot
+Hot Iridium Ingot
+Hot Osmium Ingot
+Hot Osmiridium Ingot
+Kanthal Nugget
+Battery Alloy Nugget
+Antimony Nugget
+Tungsten Nugget
+Red Alloy Nugget
+Thorium Nugget
+Invar Nugget
+Zinc Nugget
+Bronze Nugget
+Silver Nugget
+Steel Nugget
+Manganese Nugget
+Magnalium Nugget
+Bismuth Bronze Nugget
+Copper Nugget
+Electrum Nugget
+Constantan Nugget
+Lead Nugget
+Aluminium Nugget
+Platinum Nugget
+Tin Nugget
+Chrome Nugget
+Brass Nugget
+Plutonium Nugget
+Stainless Steel Nugget
+Technetium Nugget
+Tungstensteel Nugget
+Titanium Nugget
+Iridium Nugget
+Nickel Nugget
+Osmium Nugget
+Osmiridium Nugget
+Silicon Nugget
+Nichrome Nugget
+Kanthal Plate
+Battery Alloy Plate
+Antimony Plate

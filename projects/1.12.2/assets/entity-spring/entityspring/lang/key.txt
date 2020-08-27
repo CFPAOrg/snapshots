@@ -1,0 +1,4 @@
+item.spring.description
+item.spring.name
+item.spring.notToSelf
+item.cutter.name

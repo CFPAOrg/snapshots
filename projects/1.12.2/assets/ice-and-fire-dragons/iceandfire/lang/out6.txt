@@ -1,0 +1,83 @@
+Cannot add pages
+Costs:
+%s Manuscripts
+Contains:
+Hold §e[SHIFT]§r§7 to view contents
+Introduction
+Fire Dragon
+Fire Dragon Eggs
+Ice Dragon
+Ice Dragon Eggs
+Dragon Materials
+Blood Alchemy
+Snow Villagers
+Tamed Dragons
+Hippogryphs
+Gorgons
+Pixies
+Cyclopes
+Sirens
+Hippocampi
+Death Worms
+Cockatrices
+Stymphalian Birds
+Trolls
+Myrmex
+Amphitheres
+Sea Serpents
+Dragon Forge
+Hydra
+The Undead
+No new information can be added.
++2 damage against undead
++4 damage against non-arthropods and deathworms
+poisons for 10 seconds
++8 damage against Ice Dragons
+Ignites and knocks back targets
++8 damage against Fire Dragons
+Freezes targets
+This dragon is now Wandering.
+This dragon is now Following.
+This dragon is now Staying.
+This dragon is now Sleeping.
+The dragon known as
+This dragon has been teleported.
+§cCould not find a dragon bound to this crystal.
+ is now Wandering.
+ is now Following.
+ is now Staying.
+ is now Sleeping.
+This dragon has grown to Stage 
+!
+ has grown to Stage 
+was split in two by a dragon
+was torn to shreds by a dragon
+was devoured by a dragon
+was turned into KFC by a dragon
+was incinerated by a dragon
+was turned to ash by a dragon
+was frozen by a dragon
+was turned to ice by a dragon
+was put into suspended animation by a dragon
+was turned to stone by a gorgon
+was turned into gorgonzola by a gorgon
+was solidified by a gorgon
+Dragon Strike
+Dragon Breath
+Dragon Down
+Change 3rd person camera for dragon
+Mythological Creature, Legendary Being, Cryptid, Fearsome Critter
+Dragon
+Ice and Fire
+Enter a world of magical creatures
+Book of Monsters
+Using 3 manuscripts found in dungeons, create a bestiary
+Would you Like to Know More?
+Craft a lectern to learn more about the world of Ice and Fire
+Dragonslayer
+Kill an ice dragon or a fire dragon
+Mother of Dragons
+Obtain a dragon egg
+Dragon Commander
+Craft a dragon command staff to control your dragons
+The Song of the Dragons

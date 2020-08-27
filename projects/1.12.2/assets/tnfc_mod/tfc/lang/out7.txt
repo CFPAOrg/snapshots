@@ -1,0 +1,106 @@
+Invar Double Ingot
+Invar Scrap
+Invar Dust
+Invar Nugget
+Invar Sheet
+Invar Double Sheet
+Invar Tuyere
+Invar Pickaxe
+Invar Pickaxe Head
+Invar Shovel
+Invar Shovel Head
+Invar Axe
+Invar Axe Head
+Invar Hoe
+Invar Hoe Head
+Invar Chisel
+Invar Chisel Head
+Invar Sword
+Invar Sword Blade
+Invar Mace
+Invar Mace Head
+Invar Saw
+Invar Saw Blade
+Invar Shears
+Invar Shield
+Invar Javelin
+Invar Javelin Head
+Invar Hammer
+Invar Hammer Head
+Invar Prospector's Pickaxe
+Invar Prospector's Pickaxe Head
+Invar Knife
+Invar Knife Blade
+Invar Scythe
+Invar Scythe Blade
+Invar Lamp
+%s Invar Lamp
+Unshaped Invar
+Invar Chestplate
+Invar Greaves
+Invar Boots
+Invar Helmet
+Unfinished Invar Chestplate
+Unfinished Invar Boots
+Unfinished Invar Helmet
+Unfinished Invar Greaves
+Invar Anvil
+Manyullyn Ingot
+Manyullyn Double Ingot
+Manyullyn Scrap
+Manyullyn Dust
+Manyullyn Nugget
+Manyullyn Sheet
+Manyullyn Double Sheet
+Manyullyn Tuyere
+Manyullyn Pickaxe
+Manyullyn Pickaxe Head
+Manyullyn Shovel
+Manyullyn Shovel Head
+Manyullyn Axe
+Manyullyn Axe Head
+Manyullyn Hoe
+Manyullyn Hoe Head
+Manyullyn Chisel
+Manyullyn Chisel Head
+Manyullyn Sword
+Manyullyn Sword Blade
+Manyullyn Mace
+Manyullyn Mace Head
+Manyullyn Saw
+Manyullyn Saw Blade
+Manyullyn Shears
+Manyullyn Shield
+Manyullyn Javelin
+Manyullyn Javelin Head
+Manyullyn Hammer
+Manyullyn Hammer Head
+Manyullyn Prospector's Pickaxe
+Manyullyn Prospector's Pickaxe Head
+Manyullyn Knife
+Manyullyn Knife Blade
+Manyullyn Scythe
+Manyullyn Scythe Blade
+Manyullyn Lamp
+%s Manyullyn Lamp
+Unshaped Manyullyn
+Manyullyn Chestplate
+Manyullyn Greaves
+Manyullyn Boots
+Manyullyn Helmet
+Unfinished Manyullyn Chestplate
+Unfinished Manyullyn Boots
+Unfinished Manyullyn Helmet
+Unfinished Manyullyn Greaves
+Manyullyn Anvil
+Mithril Ingot
+Mithril Double Ingot
+Mithril Scrap
+Mithril Dust
+Mithril Nugget
+Mithril Sheet
+Mithril Double Sheet
+Mithril Tuyere
+Mithril Pickaxe
+Mithril Pickaxe Head
+Mithril Shovel

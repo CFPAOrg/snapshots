@@ -1,0 +1,50 @@
+Large Marble Slab (No Side CTM) Capital Directional
+Large Sandstone Slab (No Side CTM) Capital Directional
+Large Sandstone Inscribed Slab (No Side CTM) Capital Directional
+Big Black Slab No Side CTM Capital Directional
+Big Black Slab Inscribed (No Side CTM) Capital Directional
+Diorite Brick Capital Directional
+Travertine Brick Capital Directional
+Big Sandstone Brick Capital Directional
+Sandstone Cobble Capital Directional
+Mossy Sandstone Capital Directional
+Sandstone Frieze Capital Directional
+Sandstone Brick Capital Directional
+Light Gray Concrete Capital Directional
+Rusty Iron Block Capital Directional
+Mossy Brick Capital Directional
+Dark Red Brick Capital Directional
+Mossy Dark Red Brick Capital Directional
+Red Brick Capital Directional
+Mossy Red Brick Capital Directional
+Roman Brick Capital Directional
+White Stucco Capital Directional
+Tan Stucco Capital Directional
+Brown Stucco Capital Directional
+Dark Sandstone Brick Capital Directional
+Small Diorite Brick Capital Directional
+Mud Brick Capital Directional
+Poor Roman Brick Capital Directional
+Dark Red Sandstone Capital Directional
+Gilded Bronze Block Capital Directional
+Polished Granite Capital Directional
+Polished Diorite Capital Directional
+Polished Andesite Capital Directional
+Cobblestone Capital Directional
+Sandstone Capital Directional
+Iron Capital Directional
+Brick Capital Directional
+Mossy Cobblestone Capital Directional
+Stone Brick Capital Directional
+Mossy Stone Brick Capital Directional
+Cracked Stone Brick Capital Directional
+Nether Brick Capital Directional
+Quartz Capital Directional
+Light Gray Stucco Capital Directional
+Prismarine Brick Capital Directional
+Dark Prismarine Capital Directional
+Red Sandstone Capital Directional
+Purpur Capital Directional
+Nether Wart Brick Capital Directional
+Roman Vertical Brick Capital Directional
+Dark Roman Brick Capital Directional

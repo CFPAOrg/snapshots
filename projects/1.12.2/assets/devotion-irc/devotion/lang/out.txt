@@ -1,0 +1,14 @@
+Color for IRC NOTICE messages.
+Text Color (Emote)
+Color for emote messages.
+DevotionIRC
+Share Screenshot
+Recording Notification
+Livestream Notification
+Toggle Chat Target
+Open Screenshot Archive
+Open DevotionIRC Menu
+Channel Broadcaster
+Channel Moderator
+Channel Subscriber
+Twitch Turbo

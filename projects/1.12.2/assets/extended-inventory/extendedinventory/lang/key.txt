@@ -1,0 +1,6 @@
+itemgroup.extendedinventory
+item.extendedinventory:backpack.name
+item.extendedinventory:hotbar_link.name
+item.extendedinventory:chest_link.name
+item.extendedinventory:ie_module_export.name
+item.extendedinventory:ie_module_import.name

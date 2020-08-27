@@ -1,0 +1,99 @@
+Mace Head Nickel Silver
+Nickel Silver Saw
+Saw Nickel Silver
+Nickel Silver Saw Blade
+Saw Blade Nickel Silver
+Nickel Silver Javelin
+Javelin Nickel Silver
+Nickel Silver Javelin Head
+Javelin Head Nickel Silver
+Nickel Silver Hammer
+Hammer Nickel Silver
+Nickel Silver Hammer Head
+Hammer Head Nickel Silver
+Nickel Silver Prospector's Pickaxe
+Propick Nickel Silver
+Nickel Silver Prospector's Pickaxe Head
+Propick Head Nickel Silver
+Nickel Silver Knife
+Knife Nickel Silver
+Nickel Silver Knife Blade
+Knife Blade Nickel Silver
+Nickel Silver Scythe
+Scythe Nickel Silver
+Nickel Silver Scythe Blade
+Scythe Blade Nickel Silver
+Nickel Silver Shears
+Shears Nickel Silver
+Nickel Silver Unfinished Chestplate
+Unfinished Chestplate Nickel Silver
+Nickel Silver Chestplate
+Chestplate Nickel Silver
+Nickel Silver Unfinished Greaves
+Unfinished Greaves Nickel Silver
+Nickel Silver Greaves
+Greaves Nickel Silver
+Nickel Silver Unfinished Boots
+Unfinished Boots Nickel Silver
+Nickel Silver Boots
+Boots Nickel Silver
+Nickel Silver Unfinished Helmet
+Unfinished Helmet Nickel Silver
+Nickel Silver Helmet
+Helmet Nickel Silver
+Nickel Silver Shield
+Molten Invar
+Invar Ingot
+Unshaped Invar
+Invar Double Ingot
+Double Ingot Invar
+Invar Scrap
+Scrap Invar
+Invar Dust
+Dust Invar
+Invar Nugget
+Nugget Invar
+Invar Sheet
+Sheet Invar
+Invar Double Sheet
+Double Sheet Invar
+Invar Anvil
+Anvil Invar
+Invar Tuyere
+Tuyere Invar
+Invar Lamp
+%s Invar Lamp
+Lamp Invar
+Invar Pickaxe
+Pick Invar
+Invar Pickaxe Head
+Pick Head Invar
+Invar Shovel
+Shovel Invar
+Invar Shovel Head
+Shovel Head Invar
+Invar Axe
+Axe Invar
+Invar Axe Head
+Axe Head Invar
+Invar Hoe
+Hoe Invar
+Invar Hoe Head
+Hoe Head Invar
+Invar Chisel
+Chisel Invar
+Invar Chisel Head
+Chisel Head Invar
+Invar Sword
+Sword Invar
+Invar Sword Blade
+Sword Blade Invar
+Invar Mace
+Mace Invar
+Invar Mace Head
+Mace Head Invar
+Invar Saw
+Saw Invar
+Invar Saw Blade
+Saw Blade Invar
+Invar Javelin

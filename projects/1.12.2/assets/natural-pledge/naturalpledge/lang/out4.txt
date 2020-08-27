@@ -1,0 +1,60 @@
+Thunderclast
+§oIt's heavy...§r\nIt might hit hard, but it's really hard to hold now.
+Sparking
+§oSimply shocking results!§r\nIt shocks things! And sometimes other things!
+Storming
+§oIt's raining somewhere§r\nMake your enemies fly any which way!
+Aerodynamic
+§oIt's a bit high up here§r\nThis tool is completely unfazed by being in the air.
+Soulbonded
+§oPhotosynthesize!§r\nBe like a tree, and your bonded tool will grow back like one.
+&4Forbidden&7 Knowledge
+%s had a crisis of faith
+%s discovered kinetic energy
+%s discovered %s had kinetic energy
+%s found out earthquakes hurt
+%s heard from %s that earthquakes hurt
+The New Millenium
+Pledge your soul to a divinity
+Glass of Time
+Channel your soul through a Terrestrial Focus
+Chaining Intention
+Infuse the Divine into your Priestly Emblem
+Pitch-Black Forest
+Forge the essence of new life from the power of Idunn
+Electric Angel
+Forge lightning into metal from the power of Thor
+Blue Sky Fish
+Forge the storm into crystal from the power of Njord
+Platinum Disco
+Forge Iridescence from the power of Heimdall
+Soleil
+Forge Embers from the power of Loki (not the dwarf kind)
+Eternal Song
+Create the Apples of Immortality from the true power of Idunn
+God Slaying Machine
+Create Mjolnir from the true power of Thor
+Rising Hero
+Create the Arrows of Ascension from the true power of Njord
+Lost One's Weeping
+Create Gjallerhorn from the true power of Heimdall
+Dawn of the Red Sea
+Create the Fist of Perdition from the true power of Loki
+Celestial Symphony
+Call forth the blood of gods
+The 13th Apocalypse
+Draw forth the blood of gods
+Deity's Disfavor
+Rooted
+Drab Vision
+Overcharged
+Featherweight
+Immortality
+Everburn
+Truesight
+Monochromacy
+Divinity's Grace
+Divinity
+Divine Faith
+Kneel before the gods
+Traces of divine work are evident in this world. &4Mana&0, for one. The stuff of magic isn't possibly made by mortal hand. It is only a question of how to connect with these gods.

@@ -1,0 +1,105 @@
+Javelin Manyullyn
+Manyullyn Javelin Head
+Javelin Head Manyullyn
+Manyullyn Hammer
+Hammer Manyullyn
+Manyullyn Hammer Head
+Hammer Head Manyullyn
+Manyullyn Prospector's Pickaxe
+Propick Manyullyn
+Manyullyn Prospector's Pickaxe Head
+Propick Head Manyullyn
+Manyullyn Knife
+Knife Manyullyn
+Manyullyn Knife Blade
+Knife Blade Manyullyn
+Manyullyn Scythe
+Scythe Manyullyn
+Manyullyn Scythe Blade
+Scythe Blade Manyullyn
+Manyullyn Shears
+Shears Manyullyn
+Manyullyn Unfinished Chestplate
+Unfinished Chestplate Manyullyn
+Manyullyn Chestplate
+Chestplate Manyullyn
+Manyullyn Unfinished Greaves
+Unfinished Greaves Manyullyn
+Manyullyn Greaves
+Greaves Manyullyn
+Manyullyn Unfinished Boots
+Unfinished Boots Manyullyn
+Manyullyn Boots
+Boots Manyullyn
+Manyullyn Unfinished Helmet
+Unfinished Helmet Manyullyn
+Manyullyn Helmet
+Helmet Manyullyn
+Manyullyn Shield
+Molten Osmium
+Osmium Ingot
+Unshaped Osmium
+Osmium Double Ingot
+Double Ingot Osmium
+Osmium Scrap
+Scrap Osmium
+Osmium Dust
+Dust Osmium
+Osmium Nugget
+Nugget Osmium
+Osmium Sheet
+Sheet Osmium
+Osmium Double Sheet
+Double Sheet Osmium
+Osmium Anvil
+Anvil Osmium
+Osmium Tuyere
+Tuyere Osmium
+Osmium Lamp
+%s Osmium Lamp
+Lamp Osmium
+Osmium Pickaxe
+Pick Osmium
+Osmium Pickaxe Head
+Pick Head Osmium
+Osmium Shovel
+Shovel Osmium
+Osmium Shovel Head
+Shovel Head Osmium
+Osmium Axe
+Axe Osmium
+Osmium Axe Head
+Axe Head Osmium
+Osmium Hoe
+Hoe Osmium
+Osmium Hoe Head
+Hoe Head Osmium
+Osmium Chisel
+Chisel Osmium
+Osmium Chisel Head
+Chisel Head Osmium
+Osmium Sword
+Sword Osmium
+Osmium Sword Blade
+Sword Blade Osmium
+Osmium Mace
+Mace Osmium
+Osmium Mace Head
+Mace Head Osmium
+Osmium Saw
+Saw Osmium
+Osmium Saw Blade
+Saw Blade Osmium
+Osmium Javelin
+Javelin Osmium
+Osmium Javelin Head
+Javelin Head Osmium
+Osmium Hammer
+Hammer Osmium
+Osmium Hammer Head
+Hammer Head Osmium
+Osmium Prospector's Pickaxe
+Propick Osmium
+Osmium Prospector's Pickaxe Head
+Propick Head Osmium
+Osmium Knife

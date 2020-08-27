@@ -1,0 +1,41 @@
+%s was boiled alive.
+%s explored cryogenics.
+%s was shocked.
+%s glows with joy now.
+%s put his head into turbine.
+%s exploded.
+%s exploded with help of %s.
+%s was boiled alive by %s.
+%s was grinded dead.
+Machine Controller Settings
+Normal
+Inverted
+Min Redstone Strength: %d
+Control Machine
+Control Cover (Top)
+Control Cover (Bottom)
+Control Cover (South)
+Control Cover (North)
+Control Cover (East)
+Control Cover (West)
+Ignore Damage
+Respect Damage
+Ignore NBT
+Respect NBT
+Contains %s mb of %s
+Requires Redstone Input To Work
+While working, constantly consumes %d EU/t
+Max Voltage IN: �a%d �7(�a%s�7)
+Energy:
+Progress:
+Working Disabled
+Multiblock Pattern
+The Primitive Blast Furnace (PBF) is multiblock structure used for cooking steel in early game stage. Although not being very fast, it will provide your with steel for your first setups.
+The Coke Oven is multiblock structure used for getting coke and creosote in early game stage. It doesn't require fuel and has internal tank of 32 buckets of creosote. Inventory can be accessed via Coke Oven Hatch.
+The Vacuum Freezer is multiblock structure mainly used for freezing Hot Ingots into regular Ingots. However, it can also freeze other substances, such as Water.
+The Implosion Compressor is a multiblock structure that uses explosives to turn gem dusts into the corresponding gems.
+The Pyrolyze Oven is a multiblock structure used for turning Logs into Charcoal and Creosote Oil, or Ash and Heavy Oil.
+The Cracker Unit is a multiblock structure used for turning Light and Heavy Fuel into their Cracked variants.
+The Diesel Engine is a multiblock structure that acts as a Diesel Generator for EV power.
+The Distillation Tower is a multiblock structure used for distilling the various types of Oil and some of their byproducts.
+The Electric Blast Furnace (EBF) is multiblock structure used for smelting alloys, cooking metals and refining ores. It is required for obtaining high-tier alloys and metals, such as aluminium, stainless steel and titanium, naquadah alloy.

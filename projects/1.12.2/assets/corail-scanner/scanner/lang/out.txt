@@ -1,0 +1,26 @@
+Scanner
+Allow you to find a specific type of block
+Right-click while sneaking to select a block type to look for
+Energy Left
+Battery
+Allow to recharge the scanner
+Max energy for a battery
+Range of the scanner in blocks
+Highlight founded blocks
+Activate the scanner sound
+Favorite Sound
+The scanner is discharged
+This block can't be selected
+You selected %s
+Discharged
+Scanning for
+Awaiting
+no target
+Scanner
+Tutorial to explain some features of Scanner
+A new source of energy
+You crafted a battery
+The scan is at your fingertips
+You crafted a scanner
+And go again !
+You recharged a scanner

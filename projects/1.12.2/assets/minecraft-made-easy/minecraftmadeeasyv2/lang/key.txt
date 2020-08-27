@@ -1,0 +1,7 @@
+item.dirtsword.name
+item.dirtarmourhelmet.name
+item.dirtarmourbody.name
+item.zombiestew.name
+item.dirtarmourlegs.name
+item.dirtpickaxe.name
+item.dirtarmourboots.name

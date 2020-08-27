@@ -1,0 +1,72 @@
+%1$s was stabbed with a rock by %2$s
+%1$s was fatally poisoned
+%1$s was fatally poisoned by %2$s's venom
+%1$s was struck by %2$s
+Uncivilized
+Ability
+Increases the power of all other arcs.
+Grants a 10%% movement speed increase.
+Grants a 25%% movement speed increase.
+Grants invisibility while sneaking.
+Grants full invisibility while sneaking without smoke.
+Auto-Smelt
+Strong attack power
+Fast attack speed
+Spawn dimension based Zeal Fires
+Not yet implemented
+Set mobs on fire
+Cons
+Regens the target
+Slow attack speed
+Light Blue Skies Portals
+Creative Only
+Arcs
+Supporter Perks
+Developer Options
+X Teleport Offset
+Y Teleport Offset
+Z Teleport Offset
+X Spawn Offset
+Y Spawn Offset
+Z Spawn Offset
+You're missing dungeon keys.
+Treasure Chest
+Blue Skies Configuration
+Dimension Settings
+Change the settings for the dimensions of the game.\nAdvanced users only.
+Other
+Other options that don't affect main gameplay can be found here.
+Extra Blue Lore Tab
+The extra bookmark is a server utility that adds an extra index tab to the blue lore. It can be edited in the lang file.
+Everbright Dimension ID
+Set the Dimension ID for the Everbright.
+Everdawn Dimension ID
+Set the Dimension ID for the Everdawn.
+Developer Mode
+Developer mode outputs extra content to the console for development purposes.
+Visual Options
+Snow Fog
+Snow Wind Sound
+Desert Wind Sound
+Boss Music
+Enables boss music.
+Unknown Page
+Snowcap Mushroom
+Baneful Mushroom
+How did you get this page? No matter. It's not as if this contains any useful information.
+Next Page
+Previous Page
+Everbright
+Everdawn
+Misc
+DVD
+About
+About
+Snowcap Mushroom
+Frost Spirit
+Raspberry Bush
+About
+Baneful Mushroom
+Nycto Bug
+Nectarine
+Igneous Root

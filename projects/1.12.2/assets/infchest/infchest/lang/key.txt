@@ -1,0 +1,2 @@
+tile.infchest.infchest.name
+tile.infchest.deque.name

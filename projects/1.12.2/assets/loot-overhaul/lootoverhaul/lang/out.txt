@@ -1,0 +1,12 @@
+Successfully set %1$s for %2$s entity
+Successfully set %1$s for %2$s entities
+Successfully added %1$s for %2$s entity
+Successfully added %1$s for %2$s entities
+Successfully multiplied %1$s for %2$s entity
+Successfully multiplied %1$s for %2$s entities
+Successfully divided %1$s for %2$s entity
+Successfully divided %1$s for %2$s entities
+Successfully modulated %1$s for %2$s entity
+Successfully modulated %1$s for %2$s entities
+Test passed: %1$s %2$s for %3$s entity
+Test %1$s passed for %3$s entities

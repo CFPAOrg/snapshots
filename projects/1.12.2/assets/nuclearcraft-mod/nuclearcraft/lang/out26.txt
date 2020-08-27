@@ -1,0 +1,38 @@
+NuclearCraft Fission Fuels
+NuclearCraft Fusion
+NuclearCraft Molten Salt Fission
+NuclearCraft Heat Exchanger
+NuclearCraft Turbine
+NuclearCraft Condenser
+NuclearCraft Accelerator
+NuclearCraft Fluids
+NuclearCraft Miscellaneous
+NuclearCraft Configs
+Ore Configs
+Configure ore generation.
+Dimension List
+List of IDs of dimensions to whitelist/blacklist for ore generation.
+Whitelist/Blacklist (false/true)
+Is the dimension list a whitelist (false) or a blacklist (true)?
+Generate Ores
+Will ores generate in the world? Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Chunk Sizes
+Numbers of ore blocks per ore chunk. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Spawn Rates
+Rates at which ores generate. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Minimum Gen Heights
+Minimum heights at which ores generate. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Maximum Gen Heights
+Maximum heights at which ores generate. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Enable Extra Ore Drops
+Will vanilla ores drop extra resources? Order: rhodochrosite, beryllium dust, zirconium dust, fluorite, sulfur, villiaumite, carobbiite.
+Hide Disabled Ores
+Remove disabled ores from the Ore Dictionary and JEI?
+Ore Harvest Levels
+Pickaxe harvest levels of ores. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Processor Configs
+Configure processors.
+Processing Times
+Base ticks per process. Order: Manufactory, Isotope Separator, Decay Hastener, Fuel Reprocessor, Alloy Furnace, Fluid Infuser, Melter, Supercooler, Electrolyzer, Neutron Irradiator, Ingot Former, Pressurizer, Chemical Reactor, Salt Mixer, Crystallizer, Fluid Enricher, Fluid Extractor, Centrifuge, Rock Crusher.
+Processing Power Use
+Base RF/t use during processing. Order: Manufactory, Isotope Separator, Decay Hastener, Fuel Reprocessor, Alloy Furnace, Fluid Infuser, Melter, Supercooler, Electrolyzer, Neutron Irradiator, Ingot Former, Pressurizer, Chemical Reactor, Salt Mixer, Crystallizer, Fluid Enricher, Fluid Extractor, Centrifuge, Rock Crusher.

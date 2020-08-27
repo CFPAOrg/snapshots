@@ -1,0 +1,110 @@
+Redstone
+Transportation
+Miscellaneous
+Search Items
+Foodstuffs
+Tools
+Combat
+Brewing
+Materials
+Survival Inventory
+Saved Toolbars
+Destroy Item
+Item toolbar saved (restore with %1$s+%2$s)
+Save toolbar with %1$s+%2$s
+Set Console Command for Block
+Command set: %s
+Console Command
+Use "@p" to target nearest player
+Use "@r" to target random player
+Use "@a" to target all players
+Use "@e" to target all entities
+Use "@s" to target the executing entity
+Previous Output
+Chain
+Repeat
+Impulse
+Conditional
+Unconditional
+Needs Redstone
+Always Active
+Command blocks are not enabled on this server
+Must be an opped player in creative mode
+Press %1$s to dismount
+Height limit for building is %s blocks
+When in main hand:
+When in off hand:
+When on feet:
+When on legs:
+When on body:
+When on head:
++%s %s
++%s%% %s
++%s%% %s
+-%s %s
+-%s%% %s
+-%s%% %s
+%s %s
+%s%% %s
+%s%% %s
+Horse Jump Strength
+Zombie Reinforcements
+Max Health
+Mob Follow Range
+Knockback Resistance
+Speed
+Attack Damage
+Attack Speed
+Luck
+Armor
+Armor Toughness
+Saved screenshot as %s
+Couldn't save screenshot: %s
+Black Banner
+Red Banner
+Green Banner
+Brown Banner
+Blue Banner
+Purple Banner
+Cyan Banner
+Light Gray Banner
+Gray Banner
+Pink Banner
+Lime Banner
+Yellow Banner
+Light Blue Banner
+Magenta Banner
+Orange Banner
+White Banner
+Shield
+Black Shield
+Red Shield
+Green Shield
+Brown Shield
+Blue Shield
+Purple Shield
+Cyan Shield
+Light Gray Shield
+Gray Shield
+Pink Shield
+Lime Shield
+Yellow Shield
+Light Blue Shield
+Magenta Shield
+Orange Shield
+White Shield
+Black Base Dexter Canton
+Red Base Dexter Canton
+Green Base Dexter Canton
+Brown Base Dexter Canton
+Blue Base Dexter Canton
+Purple Base Dexter Canton
+Cyan Base Dexter Canton
+Light Gray Base Dexter Canton
+Gray Base Dexter Canton
+Pink Base Dexter Canton
+Lime Base Dexter Canton
+Yellow Base Dexter Canton
+Light Blue Base Dexter Canton
+Magenta Base Dexter Canton
+Orange Base Dexter Canton

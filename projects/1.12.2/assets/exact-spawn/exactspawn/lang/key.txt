@@ -1,0 +1,4 @@
+commands.exactspawn.usage
+commands.exactspawn.set.usage
+commands.exactspawn.setpitch.usage
+commands.exactspawn.setyaw.usage

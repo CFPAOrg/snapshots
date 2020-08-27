@@ -1,0 +1,36 @@
+Set explosions to %s for area %s
+Use "/lm hostiles <areaName>" to toggle hostile entity spawning
+Use "/lm op hostiles <areaName>" to toggle hostile entity spawning
+Set hostile entity spawning to %s for area %s
+Use "/lm interactions <areaName>" to toggle player interactions (right clicking) with blocks
+Use "/lm op interactions <areaName>" to toggle player interactions (right clicking) with blocks
+Set interactions to %s for area %s
+Use "/lm passives <areaName>" to toggle passive entity spawning
+Use "/lm op passives <areaName>" to toggle passive entity spawning
+Set passive entity spawning to %s for area %s
+Use "/lm rename <areaName> <newAreaName>" to rename an area
+Use "/lm op rename <areaName> <newAreaName>" to rename an area
+You successfully renamed the area %s to %s
+The new area name '%s' is invalid! It must not contain spaces or special characters other than '_'
+Use "/lm tool" to give yourself the admin tool
+Use "/lm op tool" to give yourself the admin tool
+No room in inventory for tool
+CREATE
+DELETE
+ALLOCATE
+CLEAR_ALLOCATION
+CLAIM
+Min/Max Y
+Confirm
+Area name:
+Add
+Kick
+Pass
+Show Boundaries
+Interactions
+Passive Spawning
+Hostiles Spawning
+Explosions
+Owner
+You don't have permission to change this!
+Wilderness

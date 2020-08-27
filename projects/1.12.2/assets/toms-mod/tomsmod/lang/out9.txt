@@ -1,0 +1,102 @@
+Large Bandwidth Cable - Fluix
+Large Bandwidth Cable - White
+Large Bandwidth Cable - Orange
+Large Bandwidth Cable - Magenta
+Large Bandwidth Cable - Light Blue
+Large Bandwidth Cable - Yellow
+Large Bandwidth Cable - Lime
+Large Bandwidth Cable - Pink
+Large Bandwidth Cable - Gray
+Large Bandwidth Cable - Light Gray
+Large Bandwidth Cable - Cyan
+Large Bandwidth Cable - Purple
+Large Bandwidth Cable - Blue
+Large Bandwidth Cable - Brown
+Large Bandwidth Cable - Green
+Large Bandwidth Cable - Red
+Large Bandwidth Cable - Black
+Fusion Core
+Fusion Energy Injector
+Ender Memory
+Tritium
+Hot Coolant
+Fusion Compound
+Plasma
+Deuterium
+Enriched Plasma
+Coolant
+Fusion Charger
+Fusion Controller
+Multiblock Casing
+Basic Machine Frame
+Steel Machine Frame
+Chrome Machine Frame
+Titanium Machine Frame
+Fusion Fluid Injector
+Fusion Fluid Extractor
+Multiblock Energy Port
+Multiblock Hatch
+Multiblock Fluid Hatch
+Multiblock Heat Port
+Multiblock Pressure Port
+Hydrogen
+Centrifuge
+Electrolyzer
+Multiblock Fuel Rod
+Energy Cell Frame
+Energy Cell Side
+Energy Cell Core
+Advanced Multiblock Casing
+Proxy
+Energy Sensor
+Fusion Pre Heater
+Coolant Tower
+Multiblock Compressor
+Basic Monitor
+GPU
+Tablet Access Point
+Tablet Controller
+Antenna
+Wireless Peripheral
+Antenna Controller
+Tablet Crafter
+Wireless Charger
+Item Proxy
+Controller Box
+Ender Player Sensor
+Computer Controlled Advanced Command Block
+Camera
+Jammer
+Holotape Writer
+Holotape Reader
+Magnetic Card Device
+Magnetic Card Reader
+Door
+Redstone Port
+Computer Regulator
+Generator
+MK1 Laser Energy Transmitter
+MK1 Energy Storage
+Platinum Ore
+Blue Metal Ore
+Copper Ore
+Tin Ore
+Nickel Ore
+Titanium Ore
+Red Diamond Ore
+Quartz Ore
+Silver Ore
+Lead Ore
+MK2 Laser Energy Transmitter
+MK3 Laser Energy Transmitter
+MK2 Energy Storage
+MK3 Energy Storage
+Uranium Ore
+Lithium Ore
+Zinc Ore
+Research Table
+HV Transformer
+MV Transformer
+Configurable Chest
+Force Converter
+Lava Generator

@@ -1,0 +1,95 @@
+Spruce Crafting Table
+Birch Crafting Table
+Jungle Crafting Table
+Acacia Crafting Table
+Dark Oak Crafting Table
+Spruce Bookshelf
+Birch Bookshelf
+Jungle Bookshelf
+Acacia Bookshelf
+Dark Oak Bookshelf
+Silk
+Nether Reactor Core
+Red Dragon Egg
+Magic Infused Sponge
+Artificial Rain Generator
+Lodestone
+Compressed Stone Stairs
+Compressed Sandstone Stairs
+Cracked Compressed Sandstone Stairs
+Compressed Red Sandstone Stairs
+Cracked Compressed Red Sandstone Stairs
+Compressed Quartz Stairs
+Compressed Sandstone Slab
+Compressed Sandstone Slab
+Cracked Compressed Sandstone Slab
+Cracked Compressed Sandstone Slab
+Compressed Red Sandstone Slab
+Compressed Red Sandstone Slab
+Cracked Compressed Red Sandstone Slab
+Cracked Compressed Red Sandstone Slab
+Compressed Quartz Slab
+Compressed Quartz Slab
+Obsidian Button
+Obsidian Pressure Plate
+Obsidian Door
+Quartz Door
+Red Nether Brick Slab
+Red Nether Brick Slab
+Red Nether Brick Stairs
+Rainbow Stairs
+Rainbow Slab
+Rainbow Slab
+Cracked Nether Brick Slab
+Cracked Nether Brick Slab
+Cracked Nether Brick Stairs
+Dirt Slab
+Dirt Slab
+Dirt Stairs
+Coarse Dirt Slab
+Coarse Dirt Slab
+Coarse Dirt Stairs
+Hay Slab
+Hay Slab
+Hay Stairs
+Stone Slab
+Stone Slab
+Stone Stairs
+Andesite Slab
+Andesite Slab
+Andesite Stairs
+Polished Andesite Slab
+Polished Andesite Slab
+Polished Andesite Stairs
+Granite Slab
+Granite Slab
+Granite Stairs
+Polished Granite Slab
+Polished Granite Slab
+Polished Granite Stairs
+Diorite Slab
+Diorite Slab
+Diorite Stairs
+Polished Diorite Slab
+Polished Diorite Slab
+Polished Diorite Stairs
+Mossy Cobblestone Stairs
+Mossy Cobblestone Slab
+Mossy Cobblestone Slab
+Glass Slab
+Red Mushroom Block Slab
+Brown Mushroom Block Slab
+Compressed Cobblestone Slab
+Slab of Rubber
+Sand Slab
+Red Sand Slab
+Gravel Slab
+Snow Slab
+Netherrack Slab
+Mossy Stone Brick Slab
+Cracked Stone Brick Slab
+End Stone Slab
+End Brick Slab
+Prismarine Slab
+Prismarine Brick Slab
+Dark Prismarine Slab

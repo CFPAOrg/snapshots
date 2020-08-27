@@ -1,0 +1,89 @@
+Diamond Tarmac Cutter Blade
+Iron Tarmac Cutter Blade
+Gold Tarmac Cutter Blade
+Diamond Tarmac Cutter Blade
+Iron Tarmac Cutter Blade
+Gold Tarmac Cutter Blade
+Diamond Tarmac Cutter Blade
+Iron Tarmac Cutter Blade
+Gold Tarmac Cutter Blade
+Diamond Tarmac Cutter Blade
+Tarmac Road Fragment
+Concrete Road Fragment
+Concrete Road Fragment
+Light Road Fragment
+Fine Road Fragment
+Dark Road Fragment
+Pale Road Fragment
+Red Road Fragment
+Blue Road Fragment
+White Road Fragment
+Yellow Road Fragment
+Green Road Fragment
+Mud Road Fragment
+Stone Road Fragment
+Grass Road Fragment
+Dirt Road Fragment
+Gravel Road Fragment
+Sand Road Fragment
+Sidewalk Fragment
+Clean Sidewalk Fragment
+Dark Sidewalk Fragment
+Tan Sidewalk Fragment
+White Paint
+Yellow Paint
+Red Paint
+Tar
+[Fureniku's Roads] Roads
+[Fureniku's Roads] Sidewalks
+[Fureniku's Roads] Tools
+[Fureniku's Roads] Road Parts
+[Fureniku's Roads] Line Paints
+[Fureniku's Roads] Icon Paints
+[Fureniku's Roads] Letter Paints
+[Fureniku's Roads] Text Paints
+[Fureniku's Roads] Junction Paints
+Input
+Output
+Fuel
+Tar Bucket Input
+Tar Bucket Output
+Fluid Bucket Input
+Fluid Bucket Output
+Empty Bucket for fluid
+Empty Bucket from fluid
+Valid Recipes:
+Currently unused
+Road Block
+Road Block (Cut)
+Road Fragments
+Crusher
+Crusher
+Crushes blocks to make different blocks!
+Road Factory
+Road Factory
+Tar Distiller Linked
+Tar Distiller not found.
+Place Tar Distiller to the left,
+or manually add Tar.
+Link
+Create road blocks from their base block.
+Tip: Place to the right of a Tar Distiller!
+Modifier Slot
+All recipes require 1000mb of Tar per 8 blocks
+Use Standard Tarmac or Crushed Rock & Tar with
+a dye to craft coloured roads
+Red Dye
+Blue Dye
+Yellow Dye
+Green Dye
+White Dye
+Tar Distiller
+Tar Distiller
+Creates tar from input items.
+Currently only takes coal. Fuel with lava.
+Tarmac Cutter
+Tarmac Cutter
+Cutter Blade
+Cuts tarmac down to size
+Use Tarmac Cutter Blades to set the required size.

@@ -1,0 +1,13 @@
+Squid Sword
+Squid Ingot
+Squid Shovel
+Squid Axe
+Squid Hoe
+Squid Pickaxe
+Squid Helmet
+Squid Chestplate
+Squid Leggings
+Squid Boots
+Squid Apple
+Squid Ore
+Block of Squid

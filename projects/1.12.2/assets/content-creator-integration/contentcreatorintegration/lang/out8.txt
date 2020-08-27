@@ -1,0 +1,27 @@
+The name of the variable that stores the array.
+String to add to the array.
+Create the array if it doesn't exist?
+Add to global variables?
+Explodes the array into a different variable per object. Returns false if the variable isn't an array.
+The name of the variable that stores the array.
+The name of the variable to store the results. Size of array will be stored in variable <name>Length, and each individual object will be stored in variable <name>0-(length-1)
+Gets a random string from a list of strings.
+Array of strings to pick from.
+Variable name to insert the result into.
+A condition that is just always met.
+Gets the lines of a file. Each line will be in variable $<file_name>_<line>, eg "$file_1" "$file_2". Total lines will be in $<file_name>_count, eg "$file_count".
+File Name.
+A condition, that if passes or fails, triggers a specific condition. A pre-check if you want.
+The condition to check first.
+If the condition passes, return this condition's result.
+If the condition fails, return this condition's results. Optional. Will return false if the condition is not met and this is not set.
+Makes Strings safe to be inserted into JSON lines
+Source string.
+Name of the variable to insert the result into. Will override existing variables.
+A condition that repeatedly calls a condition. This is for functional conditions.
+How many times to repeat the condition? The iteration count is stored in the $iteCount variable.
+Variable to pull an array. If this is used, 'times' is ignored, and the array will be looped through instead. The array content being looped through will be put in the $arrayObject variable and removed once it is done. The iteration count is stored in the $iteCount variable.
+The condition to repeat
+A condition, if met, breaks the loop cycle.
+The weight of this outcome, if there are multiple outcomes for this event.
+Trigger a client-side or server-side command.

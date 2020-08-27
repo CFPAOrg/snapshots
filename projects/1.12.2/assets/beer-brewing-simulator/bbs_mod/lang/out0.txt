@@ -1,0 +1,155 @@
+English
+United States
+en_us
+Beer Brewing Simulator Hops
+Beer Brewing Simulator Pellets
+Beer Brewing Simulator Rhizomes
+Beer Brewing Simulator Machines
+Beer Brewing Simulator Items
+Beer Brewing Simulator Fluids
+Spoon
+Sanitizer
+Water Gallon
+Liquid Malt Extract - Pilsen 3.3lb
+Liquid Malt Extract - Extra Light 3.3lb
+Liquid Malt Extract - Wheat 3.3lb
+Liquid Malt Extract - Light 3.3lb
+Liquid Malt Extract - Munich 3.3lb
+Liquid Malt Extract - Amber 3.3lb
+Liquid Malt Extract - Dark 3.3lb
+Priming Sugar
+Yeast
+Thermometer
+Water Keg
+Mash Keg
+Hot Wort Keg
+Wort Keg
+Beer Keg
+Empty Keg
+Grafter
+Beer Bottle
+Micro Brewer
+Micro Pack
+Basic Block
+Beer
+Wort
+Beer LB1
+Beer LB2
+Beer LB3
+Beer LB4
+Beer LB5
+Beer LB1
+Beer LB2
+Beer LB3
+Beer LB4
+Beer LB5
+Wort Bucket
+No Hops
+Beer Bucket
+Unclassified Beer
+Malt
+Malt Seeds
+Pilsen Malt
+Pilsen Malt Seeds
+Munich Malt
+Munich Malt Seeds
+Amber Malt
+Amber Malt Seeds
+Dark Malt
+Dark Malt Seeds
+Admiral
+Ahtanum
+Amarillo®
+Aquila
+Aramis
+Aurora
+Banner
+BC Golding
+Bitter Gold
+Blanc
+Bobek
+Bramling Cross
+Bravo
+Brewer's Gold Germany
+Brewer's Gold USA
+Bullion
+Cascade
+Celeia
+Centennial
+Challenger
+Chelan
+Chinook
+Citra
+Cluster
+Columbus
+Comet
+Crystal
+Dr Rudi
+East Kent Golding
+Ekuanot
+Ella
+Eroica
+Falconers Flight®
+First Gold
+Fuggle UK
+Galaxy
+Galena
+Glacier
+Gold
+Golding UK
+Golding USA
+Green Bullet
+Hallertau Mittelfruh
+Hallertau USA
+HBC 431 Experimental
+HBC 438 Experimental
+HBC 472 Experimental
+HBC 682 Experimental
+Helga
+Herald
+Herkules
+Hersbrucker
+Horizon
+Huell Melon
+Huller Bitterer
+Kohatu
+Liberty
+Loral®
+Lubelska
+Magnum
+Mandarina Bavaria
+Merkur
+Millenium
+Mosaic®
+Motueka
+Mount Hood
+Mount Rainier
+Nelson Sauvin
+Newport
+Northdown
+Northern Brewer
+Nugget
+Olympic
+Omega
+Opal
+Orion
+Pacific Gem
+Pacific Jade
+Pacifica
+Palisade®
+Perle Germany
+Perle USA
+Phoenix
+Pilgrim
+Pioneer
+Polaris
+Premiant
+Pride of RingWood
+Progress
+Rakau
+Record
+Riwaka
+Saaz
+Santiam
+Saphir
+Satus

@@ -1,0 +1,19 @@
+Solar Panel Ejector
+Solar Panel Injector
+Progress
+Processing
+Attached Panel: %s
+Max. Generation: %,d FE/tick
+Any Helmet is Required
+Helmet With Panel is Required
+Any Solar Panel is Required
+Solar Flux Additions
+Solar Flux Additions
+A portable solar invention!
+This mod adds a way to attach any solar panel from SolarFluxReborn onto any helmet. No hard recipes - you only need a single machine to attach them.
+Solar Injector
+Apply the power!
+This machine allows to attach solar panels to helmets. Simply provide it with clean RF/FE energy, click it with a helmet and a panel and just wait a few seconds. The new helmet will pop from it's front face.
+Solar Ejector
+Here to fix your derp!
+This machine allows to detach solar panels from a helmet. Simply provide it with clean RF/FE energy, click it with a helmet (with solar) and a panel and just wait a few seconds. The original helmet and attached solar will drop from it's front face.

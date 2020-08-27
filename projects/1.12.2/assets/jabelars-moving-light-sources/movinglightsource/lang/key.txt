@@ -1,0 +1,11 @@
+mod_motto
+config.held_items.name
+config.held_items.tooltip
+config.torches_burn.name
+config.torches_burn.tooltip
+config.burning_entities.name
+config.burning_entities.tooltip
+config.fire_enchantments.name
+config.fire_enchantments.tooltip
+config.entity_items.name
+config.entity_items.tooltip

@@ -1,0 +1,60 @@
+Has a chance of transforming a mob when hitting them.
+Reduces all damage you give and take to 0.
+Any work done on an anvil will not damage the anvil.
+Any thrown items will have farther distance. Some will hurt.
+Makes enchanted books edible. The more enchantments on one, the more filling.
+Rightclick on any non-player, non-boss creature.
+Put in a goblet placed on the ground.
+Sneak around on carpet to build up static electricity!
+Rightclick to open GUI. Crouch + rightclick to set teleport.
+Absorbs damage while blocking with it. Explodes on last durability, followed by a cooldown.
+A bunch of diamonds!
+When powered, allows certain crops directly adjacent to it to ignore their own growth conditions.
+Boots that are speedy. Sprinting will give a brief burst of speed. Strength depends on upgrade level.
+Pulls in nearby items. The higher the upgrade level, the bigger the range.
+Feroxia growth conditions
+Plantable crops
+General things
+REEEEE
+Obtain a Normie seed.
+Arr Tee Eff Em
+Craft the Guide book.
+Crafty plants
+Craft some Artisia seeds.
+Abstract concepts
+Obtain Abstract seeds.
+Glitter for one night
+Obtain Cinderbella seeds.
+Generating cobblestone
+Obtain Cobblonia seeds.
+High on the Goldenrods
+Obtain Collis seeds.
+Ensnaring your enemies
+Obtain Devil's Snare seeds.
+Floaty plums
+Obtain Dirigible Plum seeds.
+16 colors to day and night
+Obtain Dyeius seeds.
+Endermen's favorite plants
+Obtain Ender lily seeds.
+Legally binding
+Obtain EULA seeds.
+Wild and undomesticated
+Obtain Feroxia spores.
+By order of the Emperor
+Obtain Imperia seeds
+Is it there?
+Obtain Invisibilia seeds.
+Making repairs
+Obtain Malleatoris seeds.
+April 20th
+Obtain Mary Jane seeds.
+Living backwards in time
+Obtain Merlinia seeds.
+Some things can take a while
+Obtain Millennium seeds.
+Two to the one to the three
+Obtain Musica seeds.
+They planted too deep
+Obtain Petramia seeds.
+Mosaic hell

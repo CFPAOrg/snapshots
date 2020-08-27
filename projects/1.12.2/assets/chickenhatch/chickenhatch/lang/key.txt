@@ -1,0 +1,2 @@
+item.rottenEgg.name
+item.eggShell.name

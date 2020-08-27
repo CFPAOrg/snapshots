@@ -1,0 +1,89 @@
+First aid kit (prop)
+Official Majonaise prop
+Wheat
+Loot Spawner
+Player Crate
+Gun Workbench
+Copper Ore
+Mine
+School Chair
+Desk
+Storage Base
+Storage Top
+Window (1x1)
+Window (1x2)
+Window (2x1)
+Window (2x2)
+Locker
+Screen
+Single Box
+Double Box
+Sandbag
+Wooden Crate
+Vent
+Empty Crate
+Ammo Crate
+Gun Crate
+Wooden Stairs
+Clean Metal
+Dark Wood
+Sandbag Sand
+Tire
+Tire Stack
+Metal Table
+Road Blocker
+Modern Lamp
+Lamp Base
+Lamp Post
+Lamp Top
+Radiator
+Wooden Chest
+Wood Tile
+PUBGMC: Items
+PUBGMC: Blocks
+PUBGMC: Guns
+PUBGMC: Accessories
+Airdrop
+Loot Spawner
+Gun Workbench
+Ammo
+Firemode
+Damage
+Velocity
+Gravity
+Rate of fire
+Reload time
+Ammo type
+Max ammo
+Hold SHIFT for more info!
+Hold CTRL to show attachments!
+seconds
+blocks per second
+blocks per second
+shots per second
+9mm Bullet
+Shotgun Ammo
+.45acp Bullet
+5.56mm Bullet
+7.62mm Bullet
+.300 Magnum bullet
+Flare
+SINGLE
+BURST
+FULL-AUTO
+Right-Click to throw. Run to throw further
+Fuse
+4 seconds
+Fire
+10 seconds
+Range
+4 blocks
+Water will extinguish the fire!
+Effect
+20 seconds
+Water will cancel the effect!
+%s has been run over by wild vehicle!
+%s couldn't outrun the zone.
+%s shot %s's head off using %s!
+%s shot %s using %s
+Enemy AI

@@ -1,0 +1,74 @@
+Light Gray Stonebrick Newel Cap
+Dark Gray Stonebrick Newel Cap
+none
+Dirty Sandstone Cobble Newel Cap
+Worn Peach Plaster Newel Cap
+Worn Dark Brown Plaster Newel Cap
+Yellow Cobblestone Plaster Newel Cap
+Light Blue Plaster Newel Cap
+Dry Stone Cobble Newel Cap
+Dark Sandstone Newel Cap
+Harad Orange Wall Newel Cap
+Seashell Wall Newel Cap
+Chandelier
+none
+none
+none
+none
+Elven Torch (Off)
+none
+Elven Torch (Low)
+Hanging Opaque Lantern (Low)
+Hanging Lantern (Low)
+none
+Elven Torch (Medium)
+Hanging Opaque Lantern (Medium)
+Hanging Lantern (Medium)
+none
+Elven Torch
+Hanging Opaque Lantern
+Hanging Lantern
+none
+Stone Gargoyle
+Sandstone Gargoyle
+none
+none
+Plastered Stone Corner Block
+Cobblestone Corner Block
+Smooth Andesite Corner Block
+Circular Carved Stone Floor Corner Block
+Hewn Stone Corner Block
+Colorful Slate Corner Block
+Old Cobblestone Corner Block
+Frozen Cobblestone Corner Block
+Dirty Fishscale Cobblestone Corner Block
+Mossy Cobblestone Corner Block
+Overgrown Cobblestone Corner Block
+Cobblestone with Vines Corner Block
+Marble Pedestal Corner Block
+Gray Tiles Corner Block
+Portcullis Groove Corner Block
+Chiseled Stone Corner Block
+Stone Pillar Corner Block
+Nether Brick Column Corner Block
+Big Nether Brick Corner Block
+Nether Brick Pillar Corner Block
+Carved Nether Brick Corner Block
+Red Tiles Corner Block
+Dark Iron Corner Block
+Iron Block Corner Block
+Sandstone Column Corner Block
+Sandstone Capital Column Corner Block
+Sandstone Base Column Corner Block
+Red Column Corner Block
+Red Marble Capital Column Corner Block
+Red Marble Base Column Corner Block
+Red Sandstone Capital Column Corner Block
+Red Sandstone Base Column Corner Block
+Blue Column Corner Block
+Blue Marble Capital Column Corner Block
+Blue Marble Base Column Corner Block
+Blue Sandstone Capital Column Corner Block
+Blue Sandstone Base Column Corner Block
+Gold Column Corner Block
+Gold Marble Capital Column Corner Block

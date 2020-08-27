@@ -1,0 +1,14 @@
+tile.bedrockbreaker.unbreakium.name
+tile.bedrockbreaker.activatedUnbreakium.name
+tile.bedrockbreaker.activatedUnbreakiumPink.name
+tile.bedrockbreaker.activatedUnbreakiumWhite.name
+tile.bedrockbreaker.compressedLapis.name
+item.bedrockbreaker.breakerBlade.name
+item.bedrockbreaker.breakerPick.name
+item.bedrockbreaker.breakerPick.tooltip
+item.bedrockbreaker.breakerPick.tooltip.charge
+item.bedrockbreaker.breakerPick.tooltip.stored
+item.bedrockbreaker.breakerPick.tooltip.shift
+item.bedrockbreaker.breakerPick.tooltip.1
+item.bedrockbreaker.breakerPick.tooltip.2
+item.bedrockbreaker.breakerPick.tooltip.3

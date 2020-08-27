@@ -1,0 +1,16 @@
+tile.block_o_water.name
+tooltip.blockOWater.canPush
+tooltip.blockOWater.cantPush
+tooltip.blockOWater.requiresWaterBiome
+tooltip.blockOWater.netherDisabled
+config.generation
+config.generation.tooltip
+config.pushing
+config.pushing.tooltip
+config.conditions
+config.conditions.tooltip
+config.client
+config.client.tooltip
+config.client.tooltips
+config.client.tooltips.tooltip
+itemGroup.itemGroupBlockOWater

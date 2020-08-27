@@ -1,0 +1,42 @@
+Mushroom Cow
+Vex
+Horse
+Guardian
+Sheep
+Illusioner
+Evoker
+Wolf
+Wither Skeleton
+Lava Slime
+Slime
+Silverfish
+Donkey
+Squid
+Cat
+Bat
+Lucky Block
+Zombie
+Vindicator
+Pig
+Dragon
+Chicken
+Villager
+Ghast
+Shulker
+Cave Spider
+Rabbit
+Witch
+Craftable Animals
+Spider
+Endermite
+Skeleton
+Wither
+Blaze
+Cow
+Creeper
+Elder Guardian
+Pigzombie
+Giant
+Polar Bear
+Enderman
+Iron Golem

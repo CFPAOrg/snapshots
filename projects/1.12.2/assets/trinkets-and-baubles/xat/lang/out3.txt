@@ -1,0 +1,21 @@
+Potion of Titan Transformation
+Splash Potion of Titan Transformation
+Lingering Potion of Titan Transformation
+Tipped Arrow of Titan Transformation
+Titan Transformation
+Become a Titan for $titanticks: seconds
+Crafting Material
+Crafting Material
+Crafting Material
+Grants Night Vision When Worn
+Imbues the Wearer with Traits of the Fairy People. Abilities include flight, climbing and a tiny stature.
+Imbues the Wearer with Traits of the Dwarven People. Abilities include enhanced mining techniques that make excavation easier and help preserve mineral deposits.
+When worn the Wearer floats in place, While held in ones hand causes the holder to float into the air uncontrollably
+When worn the Wearer Is Immune to fall damage and knockback.
+When worn the Wearer Is Immune to fall damage, has increased jump height and increase in speed while sprinting.
+When worn the Wearer can move swiftly in water, and has infinite air when on their last air bubble.
+Pulls nearby Items and Xp toward the Wearer, when held it can also stop arrows in their tracks. Toggle Magnet on and off by Right-Clicking in your Hand. Toggle Repelling on and off by Sneak+Right-Clicking in your hand(Aux Key + Magnet Keybind when Equipped).
+When worn Imbues the Wearer with Magical Eyes Similar to a Dragons, Immune to Fire, Able to see through the darkness and find treasure on a whim.
+When worn, the Wearer has immunity to Poison, and has a chance to deal extra damage to poisoned enemies. 
+When worn, the Wearer has immunity to Wither, and has a chance to gain health from attacking a Withered enemy.
+Those who Wear this Crown are seen as Absolute Royalty in the eyes of the Endermen. If the Wearer is attacked in proximity of Endermen, they will come to the rescue. Endermen are so loyal to Royalty they will literally allow the Wearer to kill them without fighting back. They will also follow the Wearer around.

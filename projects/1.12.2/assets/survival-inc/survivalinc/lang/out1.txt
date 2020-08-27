@@ -1,0 +1,46 @@
+Condition Damage
+The damage applied each "hit" on the player by hypothermia and optionally hyperthermia.
+Hydration
+Settings regarding Hydration mechanics
+Enable Hydration
+Determines if the hydration mechanics should take part in the game.
+Sip Volume
+The amount of hydration recovered with each sip from water puddle
+Sweating Multiplier
+The multiplier applied to passive drain when the sweating threshold heat is crossed
+Sweating Threshold
+The minimal amount of heat that causes increased sweating
+Passive Drain
+The rate at which hydration passively decreases
+Sanity
+Settings regarding Mental Sanity mechanics
+Enable Sanity
+Determines if the sanity mechanics should take part in the game.
+Wetness Annoyance
+The minimal level of wetness that starts to be annoying to the character, thus losing sanity.
+Comfort Light Level
+The lowest sanity-neutral light level.
+Dark Spookiness Base
+The rate at which light level of 0 takes your sanity per tick.
+Animal Tame Boost
+The amount of sanity added by taming an animal
+Friendly Mob Bonus
+The amount of sanity added each tick by standing near friendly entity
+Hostile Mob Modifier
+The amount of sanity taken each tick by standing near hostile entity 
+Night Time Drain
+The amount passively drain during night
+Sleep Restoration
+The fraction of maximum value of sanity recovered by sleeping
+Tamed Multiplier
+The multiplier of Friendly Mob Bonus when the entity is also tamed
+Hallucination Threshold
+The lowest value of sanity beyond which hallucinations may occur.
+Food Bonus Map
+The map of food items and their respective sanity bonuses. The target item's value is added to the current sanity when the item is consumed.
+Wetness
+Settings regarding Wetness mechanics
+Enable Wetness
+Determines if the wetness mechanics should take part in the game.
+Minimal Walk Speed
+The maximum slowdown debuff that can be applied (fraction of the original speed)

@@ -1,0 +1,8 @@
+dc.message.deathAndRank
+dc.message.death
+dc.message.rank
+dc.command.resetAll
+dc.command.resetPlayer
+dc.command.noDeathsPlayer
+dc.command.noDeaths
+dc.command.leaderboard

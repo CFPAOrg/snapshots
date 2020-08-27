@@ -1,0 +1,25 @@
+Soar like an eagle.
+"We were filled with an intense magical energy appearing to emanate from the centre of the..." - Extract from the journal of a forgotten mage; the rest of the page has been burnt away.
+It feels amazing.
+Shoots an arrow of force in the direction you are pointing.
+Creates a forcefield around the caster which repels creatures and deflects projectiles.
+Launches a sphere of force which damages and repels nearby creatures on impact.
+"How dare you enter my forest!"
+Freezes the target for 10 seconds. Will also freeze water and create snow on the ground.
+Temporarily imbues the first weapon on the caster's hotbar with the power of frost, causing it to freeze its victims. The magic wears off after 45 seconds.
+Creates a frozen axe which freezes enemies when hit. Lasts for 30 seconds.
+Creates a stream of frost in the direction you are pointing which slows and continually damages targets.
+Places a magical ice trap on the ground which damages and freezes the creature that triggers it.
+Allows the caster to glide downwards while in the air and holding the use item button.
+Launches a large fireball in the direction you are pointing which explodes on impact.
+Heals the caster by 4 hearts.
+Heals the caster and all nearby allies and summoned creatures by 3 hearts.
+Grows all crops near the caster. Also grows tall grass and flowers on grass.
+It was during the great winter of the third age that the ice mages discovered their true power.
+Heals the caster by 2 hearts.
+Heals the target by 2 and a half hearts.
+Creates a zone of healing energy which regenerates the health of any ally inside it. Any undead inside the healing aura will slowly take damage.
+Creates a floating spark which moves towards enemies.
+"You shall be frozen for an eternity!"
+Launches an ice charge which explodes on impact, freezing nearby creatures and releasing shards in all directions.
+Fires a great spear of ice in the direction you are pointing which overpenetrates targets, damaging and freezing them in the process.

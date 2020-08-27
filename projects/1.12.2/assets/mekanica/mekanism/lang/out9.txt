@@ -1,0 +1,87 @@
+Reinforced glass that can be used in the Fusion Reactor multiblock.
+A panel of Reactor Glass that is capable of absorbing optical energy and thereby heating up the Fusion Reactor.
+The controlling block for the entire Fusion Reactor structure.
+Reinforced framing that can be used in the Fusion Reactor multiblock.
+A block that can be used to both block Fusion Reactor radiation and assist in the production of Tritium.
+A block of reinforced framing that is capable of managing both the gas and energy transfer of the Fusion Reactor.
+A block that can be used to allow basic monitoring of a reactor using redstone.
+A strong mineral that can be found at nearly any height in the world. It is known to have many uses in the construction of machinery.
+A common, conductive material that can be used in the production of wires. Its ability to withstand high heats also makes it essential to advanced machinery.
+A lightweight, yet sturdy, conductive material that is found slightly less commonly than Copper.
+None
+Input
+Output
+Energy
+Gas
+Extra
+Infuse
+Fluid
+Fill
+Empty
+Charge
+Discharge
+Disabled
+High
+Low
+Pulse
+Always active
+Active with signal
+Active without signal
+Only active upon first receiving signal
+Both
+Fill
+Empty
+Black
+Dark Blue
+Dark Green
+Dark Aqua
+Dark Red
+Purple
+Orange
+Grey
+Dark Grey
+Indigo
+Bright Green
+Aqua
+Red
+Pink
+Yellow
+White
+Brown
+Bright Pink
+Black
+Blue
+Brown
+Green
+Cyan
+Dark Red
+Purple
+Orange
+Light Grey
+Grey
+Light Blue
+Lime
+Aqua
+Red
+Pink
+Magenta
+Yellow
+White
+Disabled
+Will not emit a redstone signal
+Ready for Ignition
+Reactor has reached the required heat level to ignite
+Heat Capacity Met
+The reactor's core heat capacity has been met
+Insufficient Fuel
+The reactor has insufficient fuel to sustain a reaction
+Mekanica
+Solar Panel
+Hohlraum
+Turbine Blade
+Heat Generator
+Solar Generator
+Gas-Burning Generator
+Bio-Generator
+Advanced Solar Generator
+Wind Generator

@@ -1,0 +1,4 @@
+tile.boss_activator.name
+tc.research_category.WARFARE
+research.crimsonwarfare.WARFARE.title
+research.crimsonwarfare.WARFARE.stage.1

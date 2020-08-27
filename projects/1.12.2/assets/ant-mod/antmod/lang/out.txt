@@ -1,0 +1,6 @@
+Ant Queen
+Ant Queen
+Ant Worker
+Ant Egg
+Ant Trader
+Villager Soldier

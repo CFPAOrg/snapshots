@@ -1,0 +1,2 @@
+entity.kingshroomer.name
+tile.goldenmushroomblock.name

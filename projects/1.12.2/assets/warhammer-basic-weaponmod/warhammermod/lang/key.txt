@@ -1,0 +1,50 @@
+item.cartridge.name
+item.bullet.name
+item.grenade.name
+item.shotgun shells.name
+item.warpstone.name
+item.beer.name
+item.Ghal Maraz.name
+item.war pick.name
+item.Drakegun.name
+item.thunderer handgun.name
+item.GrudgeRaker.name
+item.blunderbuss.name
+item.diamond chainmail helmet.name
+item.diamond chainmail.name
+item.diamond chainmail leggings.name
+item.diamond chainmail boots.name
+item.musket.name
+item.nuln repeater handgun.name
+item.flintlock pistol.name
+item.grenade launcher.name
+item.diamond gunsword.name
+item.iron gunsword.name
+item.warplock jezzail.name
+item.sling.name
+item.ratling gun.name
+item.wooden spear.name
+item.stone spear.name
+item.iron spear.name
+item.gold spear.name
+item.diamond spear.name
+item.diamond warhammer.name
+item.wooden warhammer.name
+item.stone warhammer.name
+item.iron warhammer.name
+item.gold warhammer.name
+item.wooden knife.name
+item.stone knife.name
+item.iron knife.name
+item.gold knife.name
+item.diamond knife.name
+item.diamond halberd.name
+item.gold halberd.name
+item.iron halberd.name
+item.stone halberd.name
+item.wooden halberd.name
+entity.dwarf.name
+entity.pegasus.name
+entity.Pirate Skeleton.name
+entity.skaven.name
+tile.tblock.name

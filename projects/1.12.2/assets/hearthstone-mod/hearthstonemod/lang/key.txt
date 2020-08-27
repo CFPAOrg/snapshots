@@ -1,0 +1,6 @@
+item.hearthstone.name
+msg.hearthstoneOnCooldown.txt
+msg.hearthstoneNoBed.txt
+msg.hearthstoneMissingBed.txt
+msg.hearthstoneLinked.txt
+msg.hearthstoneCastCanceled.txt

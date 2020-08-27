@@ -1,0 +1,58 @@
+Alveary Sieve
+Apiary
+Apiarist's Chest
+Bee House
+Forest Hive
+Meadows Hive
+Modest Hive
+Tropical Hive
+Ender Hive
+Wintry Hive
+Marshy Hive
+Swarm Hive
+Lit Dyed Candle
+Unlit Dyed Candle
+Lit Candle
+Unlit Candle
+Candle Stump
+Forester's Manual
+Crafting
+About the book
+§oThese scraps of knowledge have been obtained and compiled by Binnie, and represent the remains of Beekeeping 101 and Forester's Almanac, two books by a mad apiarist know only as 'Sir' Sengir.§r
+| Binnie, Editor
+Categories
+Core
+Lepidopterology
+Mail
+Habitat Former
+Beekeeping
+Arboriculture
+Farming
+Genetics
+The MultiBlock is not connected to a controller. This could be due to lag, or a bug. If the problem persists, try breaking and re-placing the block.
+(%s) - Block is not valid for use in the machine's interior.
+A multiblock part is incompatible with this type (%s).
+The multiblock is too small. It must be at least %dx%dx%d in size.
+The multiblock is too large, it may be at most %d blocks wide.
+The multiblock is too large, it may be at most %d blocks high.
+The multiblock is too large, it may be at most %d blocks deep.
+The multiblock is too small, it must be at least %d blocks wide.
+The multiblock is too small, it must be at least %d blocks high.
+The multiblock is too small, it must be at least %d blocks deep.
+The Alveary must have wooden slabs on top.
+The alveary needs space around the top for the bees to enter and exit.
+The Alveary must have plain alveary blocks for the top level.
+The Alveary must have plain alveary blocks for the interior.
+The Farm must have plain farm blocks for the third level.
+The Farm must have plain farm blocks for the interior.
+The farm must have a gearbox to accept power and do work.
+Alveary
+Farm
+Arborist
+None
+- %s : Treekeeping Commands
+Commands relating to trees.
+Format:/%s <sub-command>
+- %s : Spawn Tree
+Spawn a tree near the player.
+Format:/%s <species-name> [<player-name>]

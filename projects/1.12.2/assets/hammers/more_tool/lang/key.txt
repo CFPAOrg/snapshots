@@ -1,0 +1,5 @@
+item.diamondhammer.name
+item.woodhammer.name
+item.goldhammer.name
+item.ironhammer.name
+item.stonehammer.name

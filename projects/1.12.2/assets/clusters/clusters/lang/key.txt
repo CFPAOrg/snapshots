@@ -1,0 +1,5 @@
+tile.ironcluster.name
+tile.bedrockrock.name
+tile.coalcluster.name
+tile.goldcluster.name
+tile.diamondcluster.name

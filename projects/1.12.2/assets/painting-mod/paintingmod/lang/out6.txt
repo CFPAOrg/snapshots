@@ -1,0 +1,90 @@
+Light Blue Nether Brick
+Magenta Nether Brick
+Orange Nether Brick
+White Nether Brick
+Black End Stone
+Red End Stone
+Green End Stone
+Brown End Stone
+Blue End Stone
+Purple End Stone
+Cyan End Stone
+Light Gray End Stone
+Gray End Stone
+Pink End Stone
+Lime End Stone
+Yellow End Stone
+Light Blue End Stone
+Magenta End Stone
+Orange End Stone
+White End Stone
+Black Block of Emerald
+Red Block of Emerald
+Green Block of Emerald
+Brown Block of Emerald
+Blue Block of Emerald
+Purple Block of Emerald
+Cyan Block of Emerald
+Light Gray Block of Emerald
+Gray Block of Emerald
+Pink Block of Emerald
+Lime Block of Emerald
+Yellow Block of Emerald
+Light Blue Block of Emerald
+Magenta Block of Emerald
+Orange Block of Emerald
+White Block of Emerald
+Black Block of Quartz
+Red Block of Quartz
+Green Block of Quartz
+Brown Block of Quartz
+Blue Block of Quartz
+Purple Block of Quartz
+Cyan Block of Quartz
+Light Gray Block of Quartz
+Gray Block of Quartz
+Pink Block of Quartz
+Lime Block of Quartz
+Yellow Block of Quartz
+Light Blue Block of Quartz
+Magenta Block of Quartz
+Orange Block of Quartz
+White Block of Quartz
+Black Prismarine
+Red Prismarine
+Green Prismarine
+Brown Prismarine
+Blue Prismarine
+Purple Prismarine
+Cyan Prismarine
+Light Gray Prismarine
+Gray Prismarine
+Pink Prismarine
+Lime Prismarine
+Yellow Prismarine
+Light Blue Prismarine
+Magenta Prismarine
+Orange Prismarine
+White Prismarine
+Black Prismarine Brick
+Red Prismarine Brick
+Green Prismarine Brick
+Brown Prismarine Brick
+Blue Prismarine Brick
+Purple Prismarine Brick
+Cyan Prismarine Brick
+Light Gray Prismarine Brick
+Gray Prismarine Brick
+Pink Prismarine Brick
+Lime Prismarine Brick
+Yellow Prismarine Brick
+Light Blue Prismarine Brick
+Magenta Prismarine Brick
+Orange Prismarine Brick
+White Prismarine Brick
+Black Dark Prismarine
+Red Dark Prismarine
+Green Dark Prismarine
+Brown Dark Prismarine
+Blue Dark Prismarine
+Purple Dark Prismarine

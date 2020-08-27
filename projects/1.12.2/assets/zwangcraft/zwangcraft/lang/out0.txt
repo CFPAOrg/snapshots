@@ -1,0 +1,125 @@
+Previously "Double Furnace"
+ZwangCraft Mod
+CreativeTab Zwangcraft
+Blasting-Card
+Blasting-Card Chip
+Blasting-Card Plate
+Blasting-Card Raw
+Blasting-Card Stripe
+Iron Stick
+Iron Cross
+The Zwangcraft Wrench
+Iron Plate
+Steel Plate
+Sand Dust
+Concrete Dust
+Battery
+Concrete Ingot
+Concrete Ingot Black
+Concrete Ingot Blue
+Concrete Ingot Brown
+Concrete Ingot Cyan
+Concrete Ingot Gray
+Concrete Ingot Green
+Concrete Ingot Light Blue
+Concrete Ingot Light Gray
+Concrete Ingot Lime
+Concrete Ingot Magenta
+Concrete Ingot Orange
+Concrete Ingot Pink
+Concrete Ingot Purple
+Concrete Ingot Red
+Concrete Ingot White
+Concrete Ingot Yellow
+zChest
+zFluid Tank
+Randomized Grass
+Wall 01
+Wall 02
+Wall 03
+Metalplate 01
+Metalplate 02
+Metalplate 03
+Metalplate 04
+Metalplate 05
+zBox Off
+zBox On
+zBox Explode
+Block Raw Case
+ZwangCraft Breaker
+ZwangCraft Presser
+ZwangCraft Drawbridge
+Raw Concrete
+Green Hedges
+Green N Weed 01
+Green N Weed 02
+Green N Weed 03
+Green N Weed 04
+Green N Weed 05
+Green N Weed 06
+Green N Weed 07
+Green N Weed 08
+Door 01
+Door 01 Extra
+Door 02
+Door 02 Extra
+Door 03
+Door 03 Extra
+Door 04
+Door 04 Extra
+Block Set 1-9 Beam
+Block Set 1-1
+Block Set 1-2
+Block Set 1-3
+Block Set 1-4
+Block Set 1-5
+Block Set 1-6
+Block Set 1-7
+Block Set 1-8
+Block Set 1-9
+Block Set 2-1
+Block Set 2-2
+Block Set 2-3
+Block Set 2-4
+Block Set 2-5
+Block Set 2-6
+Block Set 2-7
+Block Set 2-8
+Block Set 3-1
+Block Set 3-2
+Block Set 3-3
+Block Set 3-4
+Block Set 3-5
+Block Set 3-6
+Block Set 3-7
+Block Set 4-1
+Block Set 4-2
+Block Set 5-1
+Block Set 5-2
+Block Set 5-3
+Block Set 5-4
+Block Set 5-5
+Block Set 5-6
+Block Set 5-7
+Block Set 5-8
+Block Set 5-9
+Block Set 5-10
+Block Set 5-11
+Block Set 5-12
+Block Set 6-1
+Block Set 6-2
+Block Set 6-3
+Block Set 6-4
+Block Set 6-5
+Block Set 6-6
+Block Set 6-7
+Block Set 6-8
+Block Set 6-9
+Block Set 6-10
+Block Set 6-11
+Block Set 6-12
+Block Set 7-1
+Block Set 7-2
+Block Set 8-1
+Block Set 9-1
+Block Set 9-2

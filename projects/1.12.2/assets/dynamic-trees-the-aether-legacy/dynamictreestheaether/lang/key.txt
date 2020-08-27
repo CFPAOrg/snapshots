@@ -1,0 +1,10 @@
+item.dynamictreestheaether:skyrootseed.name
+item.dynamictreestheaether:goldenoakseed.name
+item.dynamictreestheaether:crystalseed.name
+item.dynamictreestheaether:holidayseed.name
+tile.dynamictreestheaether:leaves0.name
+tile.dynamictreestheaether:leaves_crystal.name
+tile.dynamictreestheaether:skyrootbranch.name
+tile.dynamictreestheaether:goldenoakbranch.name
+tile.dynamictreestheaether:crystalbranch.name
+tile.dynamictreestheaether:holidaybranch.name

@@ -1,0 +1,30 @@
+%s
+§aSUCCESS
+Not enough arguments for item filter: %s
+Too many arguments for item filter: %s
+Bad item name: %s
+Bad item meta: %s
+Item for item filter not found: %s
+Each NBT tag can only be set to one value!  Error in item filter: %s
+Malformed attribute modifier string: %s
+Not enough arguments for potion effect (should be min of 1): %s
+Too many arguments for potion effect (should be max of 3): %s
+ResourceLocation for potion not found: %s
+Amplifier for potion is not a number: %s
+Duration for potion is not a number: %s
+Interval for potion is not a number: %s
+Could not find player entity: %s
+Use Entity Render Fixer
+FILLSCREEN If enabled, runs some code to reset certain openGL settings after each entity renders\n\nOnly use this if you need it to fix a graphical issue\n \n
+GUI Config
+Focus Zoom on Mouse by Default
+FILLSCREEN Whether zooming in/out focuses on the mouse position or not in a zoomable GUI view (if not, center of view is used instead)\nWhichever mode is *NOT* the default can be accessed by holding the ctrl key while using zoom controls\n \n
+Reset Zoom (Mouse Button)
+FILLSCREEN Which mouse button resets the zoom level in a zoomable GUI view (click)\n \n
+Pan (Mouse Button)
+FILLSCREEN Which mouse button pans the view in a pannable GUI view (hold and drag)\n \n
+Zoom Rate
+FILLSCREEN How fast zoomable views zoom\n \n
+%s is set to %s for %s
+%s is not yet set for %s
+No render modes set for %s

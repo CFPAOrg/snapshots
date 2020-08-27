@@ -1,0 +1,20 @@
+Nether Jasper Ore
+Nether Ametrine Ore
+Ruby Glass Pane
+Sapphire Glass Pane
+Amethyst Glass Pane
+Topaz Glass Pane
+Phoenixite Glass Pane
+Jade Glass Pane
+Citrine Glass Pane
+Garnet Glass Pane
+Spinel Glass Pane
+Onyx Glass Pane
+Agate Glass Pane
+Malachite Glass Pane
+Tourmaline Glass Pane
+Chrysocolla Glass Pane
+Jasper Glass Pane
+Ametrine Glass Pane
+Gems++ Items
+Gems++ Blocks

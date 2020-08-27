@@ -1,0 +1,131 @@
+%s %s
+States Stuff
+Invalid Mail
+Empty Mail
+Expired Mail
+Private Mail
+Invite Mail
+System Mail
+Area View
+District
+Municipality
+State
+Union
+Company
+Player Settings
+Chunk Manager
+Properties
+&aWelcome back $0&a!
+&2You are currently in &7DIM($0)&0.
+&2You are currently in a district called &7$0&2.
+&2Which is part of the &6$1 &7$0&2.
+&2In the State of &7$0&2.
+&6You have &7no mailbox set&6!
+&6You have &7$0 &6votes waiting! &7/st-vote my-votes
+&2&oMunicipality mayor was &c&oreset&2&o.
+&6%s&9 is now the new Capital!
+&2&oState Leader was &c&oreset&2&o.
+District: %s
+Municipality: %s
+State: %s
+%s
+Chunk %s
+Municipalities
+Neighbors
+WhiteList
+BlackList
+Citizens
+Ditricts
+Council
+Links
+&7&oAdmin bypass mode.
+&7Chunk is linked to a chunk at &2%sx&7, &2%sz&7.
+&7Please make changes to that chunk, they will be copied to this one.
+&7Alternatively unlink this chunk.
+no one
+no tax
+NO MAILBOX
+not for sale
+none
+unknown
+nothing
+&cNo Permission
+&cPlayer not found in Cache.
+&cInvalid HEX String.
+&cNot a (valid) number.
+&cName is too short!
+&cPlayer not found in Council or Citizens.
+&cThat Municipality isn't part of our State.
+Nickname is too short.
+Nickname is too long.
+&aChange Applied
+&aEntry already present.
+District ID
+Name
+Municipality
+Manager
+Price
+Type
+Color
+Icon/Logo
+Chunk Tax
+Last Edit
+Neighbors
+Chunks
+Foreign Settlers
+Unclaim Bankrupt
+Creator
+Created
+Ruleset
+Mailbox
+Allow Explosions
+Municipality ID
+Name
+State
+Mayor
+Price
+Type
+Color
+Citizen
+Balance
+Citizen Tax
+Last Edit
+Council
+Districts
+Neighbors
+Open To Join
+Kick Bankrupt
+Chunk Totals
+Creator
+Created
+ForceLoaded Chunks
+Ruleset
+Mailbox
+Blacklisted
+Icon/Logo
+Abandoned
+Abandoned Since
+Abandoned By
+State ID
+name
+Capital
+Leader
+Price
+Color
+Citizen
+Balance
+Chunk Tax
+Citizen Tax
+Last Edit
+Council
+Municipalities
+Neighbors
+Creator
+Created
+Ruleset
+Mailbox
+Blacklisted
+Icon/Logo
+UUID
+Custom Nickname
+Custom Chatcolor

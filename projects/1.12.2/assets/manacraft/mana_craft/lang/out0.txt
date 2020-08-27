@@ -1,0 +1,95 @@
+Define General Settings for ManaCraft
+Define Ore Generation Settings for ManaCraft
+Get mana from somewhere else
+Mana Get！
+There's no space or dash between ball and game
+Ballgame
+Do not refer to a C++ library here, well, not important, either
+Boost
+shoot a mana ball with a mana wand
+Cool Wand!
+build a charged Mana Producer
+Energize!
+Sorry, No information provided here, Why not have a look at its lore?
+Final Hoe!
+launch a floating mana ball without a floating enchantment
+Fly soooo high
+Worse than pig!
+BOOM!
+Balls protect me around
+Protect Around
+Feel the power of Mana!
+ManaCraft
+Shiny, Again!
+Shiny Diamond
+Shiny!
+Shiny Orichalcum
+Strange to say... Do you know why there is a pair of shears colored so dark?
+Strange Shears?
+summoned a mana shooter
+The Tall Guy
+idle
+Mana Booster
+Mana Producer
+Mana Evoker
+Floating
+Mana Evoker
+Mana Recycler
+Mana Magician
+Mana Armorer
+Mana Summoner
+Mana Tool Magician
+Mana Weapon Magician
+Mana Shooter
+Mana Booster Fuel
+Power:%d
+Time:%d
+Mana Producer Recipe
+Blue Shit
+Mana
+Mana Apple
+Mana Axe
+Mana Ball
+Mana Boots
+Mana Chestplate
+Mana Coal
+Mana Diamond
+Mana Dust
+Mana Helmet
+Mana Hoe
+Orichalcum Ingot
+Mana Leggings
+Orichalcum Nugget
+Mana Pickaxe
+Mana Pork
+Mana Producer Generator
+Mana Record
+Mana Rod
+Mana Shears
+Mana Shovel
+Mana Sword
+Mana Wand
+Eric Fullerton & Yaossg - Chaos Minecraft's End
+Mana Craft
+Lingering Potion of Mana Evoker
+Armor Reduction Amounts
+Boost Limit
+Boost Radius
+Checking delay of Mana Producer
+Self Destroy Without energizing
+Mana Tools/Weapons/Armors Durability
+Mana Tools/Weapons/Armors Enchantability
+Enable Enchanter
+Enable Final Hoe
+Mana Invoke Chance
+Mana Loot
+Min Speed Of Floating Mana Ball
+Grass Mana
+Health ratio
+Mana Producer Generator replaces blocks
+Mana Armor Toughness
+Village Variant for Mana Biome
+Village Mana Structure
+Plugin for Tinkers' Construct
+Max Height of Orichalcum Ore
+Max Height of Mana Ore

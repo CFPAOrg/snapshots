@@ -1,0 +1,29 @@
+Obtain a Pickaxe of Corporeality
+Ghostly
+The root advancement for Ghostly
+Evil Spirits, Beware
+Obtain a Bow of Corporeality
+The Spirits Dislike You
+Be killed by any Possessed Undead, or a Shade. Unaffected by mod compatibility
+You've Angered the Spirits
+Be killed by all Possessed Undead, and a Shade. Unaffected by mod compatibility
+Spirit Vanquisher
+Kill any Possessed Undead, or a Shade. Unaffected by mod compatibility
+Spirits Vanquished
+Kill all Possessed Undead, and a Shade. Unaffected by mod compatibility
+Venomous and Ranged
+Obtain a Venombow
+Partially incorporeal entities hit with this take full damage
+Partially incorporeal entities hit or shot with this take full damage
+Damages and knocks back partially incorporeal entities by 1.5x
+Accepted by normal bows, however will be counted as an ordinary arrow
+You should probably only use this with a Bow of Corporeality or Venombow of Corporeality
+Withers all fully corporeal entities, if possible
+Dust arrows with this to make them damage and knock back partially incorporeal entities by 1.5x
+They will also wither all fully corporeal entities, if possible
+Can be used to make Venombows and Venombows of Corporeality
+Anything shot with this will be poisoned, if possible
+Will not accept Tipped Arrows or Dusted Arrows of Corporeality
+Will not accept Tipped Arrows, but will accept Dusted Arrows of Corporeality
+%s died by expelling too many pieces from itself
+%s was shadow-orbed by %s

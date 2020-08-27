@@ -1,0 +1,6 @@
+Set beam target to X: %s, Y: %s, Z: %s
+Beam target has been reset
+X: %d, Y: %d, Z: %d
+(With Base Plate)
+Base plate enabled
+Base plate disabled

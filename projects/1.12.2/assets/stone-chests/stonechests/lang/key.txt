@@ -1,0 +1,16 @@
+tile.stonechests.chest.cobble.name
+tile.stonechests.chest.stone.name
+tile.stonechests.chest.granite.name
+tile.stonechests.chest.granite_smooth.name
+tile.stonechests.chest.diorite.name
+tile.stonechests.chest.diorite_smooth.name
+tile.stonechests.chest.andesite.name
+tile.stonechests.chest.andesite_smooth.name
+container.cobble.chest
+container.stone.chest
+container.granite.chest
+container.granite_smooth.chest
+container.diorite.chest
+container.diorite_smooth.chest
+container.andesite.chest
+container.andesite_smooth.chest

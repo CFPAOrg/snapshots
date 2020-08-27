@@ -1,0 +1,83 @@
+Glass Things
+XX
+Hether Star Katalist
+Ultimate Sword
+Pink Glass Sword
+Magenta Glass Sword
+Brown Glass Sword
+Lime Glass Sword
+Gray Glass Sword
+Blue Glass Sword
+Light Blue Glass Sword
+Steel Ingot
+Steel Rod
+Part Of The Sword (Left)
+Part Of The Sword (Right)
+Yellow Glass Sword
+Diamond Glass Panel
+Orange Glass Sword
+Green Glass Sword
+Black Glass Sword
+Light Gray Glass Sword
+Cyan Glass Sword
+Red Glass Sword
+Purple Glass Sword
+White Glass Sword
+Steel Block
+White Glass Pickaxe
+Red Glass Pickaxe
+Magenta Glass Pickaxe
+Purple Glass Pickaxe
+Yellow Glass Pickaxe
+Gray Glass Pickaxe
+Cyan Glass Pickaxe
+Black Glass Pickaxe
+Orange Glass Pickaxe
+Blue Glass Pickaxe
+Light Blue Glass Pickaxe
+Lime Glass Pickaxe
+Brown Glass Pickaxe
+Pink Glass Pickaxe
+Green Glass Pickaxe
+ Part Of The Pickaxe (Left)
+ Part Of The Pickaxe (Right)
+Ultimate Pickaxe
+ Light Gray Glass Pickaxe
+Red Glass Axe
+Orange Glass Axe
+Yellow Glass Axe
+Gray Glass Axe
+Blue Glass Axe
+Light Blue Glass Axe
+Lime Glass Axe
+Black Glass Axe
+Magenta Glass Axe
+Purple Glass Axe
+Pink Glass Axe
+Green Glass Axe
+Cyan Glass Axe
+Brown Glass Axe
+Light Gray Glass Axe
+White Glass Axe
+Ultimate Glass Axe
+The Upper Part Of The Axe
+The Ower Part Of The Axe
+Red Glass Shovel
+White Glass Shovel
+Orange Glass Shovel
+Magenta Glass Shovel
+Light Blue Glass Shovel
+Yellow Glass Shovel
+Light Green Glass Shovel
+Pink Glass Shovel
+Gray Glass Shovel
+Light Gray Glass Shovel
+Cyan Glass Shovel
+Purple Glass Shovel
+Blue Glass Shovel
+Brown Glass Shovel
+Green Glass Shovel
+Black Glass Shovel
+Utimate Glass Sword
+Part Of The Shovel (Left)
+Part Of The Shovel (Right)

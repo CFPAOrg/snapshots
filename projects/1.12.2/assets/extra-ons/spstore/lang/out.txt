@@ -1,0 +1,19 @@
+Clicker
+Karaoke
+Microphone
+HDMI Cable
+Phone
+Head Phones
+Controller
+Monitor
+Central Unit
+Computer Mouse
+Console
+Gaming Chair
+Extra-Ons
+%s isn't compatible
+You need to right-click a central unit first
+You need to right-click a monitor now
+Now right-click a monitor to link it
+Link successful
+Link failed

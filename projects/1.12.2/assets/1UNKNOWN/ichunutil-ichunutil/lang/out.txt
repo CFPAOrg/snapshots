@@ -1,0 +1,16 @@
+You can disable this console message by going to the iChunUtil config and setting the "eulaAcknowledged" config to "true" (no quotes).
+By using iChunUtil
+you agree to its EULA
+Minimize
+Expand
+OK
+Cancel
+Clear
+Alert!
+Save As
+File Name
+Overwrite?
+File already exists! Confirm overwrite?
+Failed to save file.
+Compact Raw Porkchop
+Block Entity

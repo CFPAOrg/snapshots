@@ -1,0 +1,12 @@
+commands.tpx.dimension.notFound
+commands.tpx.usage
+commands.tpx.success.entity
+commands.tpx.success.coordinates
+death.message.location
+death.message.coordinates
+death.message.tooltip
+death.message.distance
+death.message.distance.amount
+death.message.distance.dimension
+death.message.distance.close
+deathScreen.coordinates

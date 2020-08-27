@@ -1,0 +1,32 @@
+Use this condition to call a constant condition.
+Name of the constant condition.
+Use this condition to check if a mod is loaded.
+ID of the mod.
+Condition will be met if you can trigger server-side outcomes.
+Insert a specific target's information into a variable. Always meets condition. Will insert a blank string if target or argument cannot be found.
+Target selector string to target.
+Arguments: name, location[x/y/z], rotation[yaw/pitch], look[x/y/z][number], radius[x/y/z/h][number], biome, dim/dimension, light[block], diff/difficulty, time, day
+Variable name to insert the result into.
+Do simple arithmetic calculations on variables. Inserts 0 if something failed. Will always return a double-type number. Use round/floor/ceil to convert value1 to a integer-type (whole number).
+Function to use: +, -, x, /, pow, sqrt, mod, max, min, round, floor, ceil, log, signum, abs, sin, cos, tan, asin, acos, atan. Trigonometric functions uses degrees. Some operations only use the first variable.
+First value, can be a variable name or number.
+Second value, can be a variable name or number.
+Variable name to insert the result into.
+Gets a random number between two values.
+First value, can be a variable name.
+Second value, can be a variable name.
+Variable name to insert the result into.
+Round off the number to the nearest Integer?
+Puts two objects together into a variable as a String.
+First part. Supports variables.
+Last part. Supports variables.
+Name of the variable to insert into. Will override existing variables.
+Compares a String to another String (for ordering).
+Source String.
+String to compare with.
+Name of the variable to insert the result into. Will override existing variables.
+Checks a String for the index of the target String.
+Source String.
+Target String.
+Check for last index instead of first index
+Name of the variable to insert the result into. Will override existing variables.

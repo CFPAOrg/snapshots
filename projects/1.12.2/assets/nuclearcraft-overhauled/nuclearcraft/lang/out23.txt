@@ -1,0 +1,83 @@
+Crushed Coal
+Crushed Villiaumite
+Crushed Carobbiite
+Crushed Arsenic
+Crushed End Stone
+Bronze Ingot
+Tough Alloy
+Hard Carbon Alloy
+Magnesium Diboride Alloy
+Lithium Manganese Dioxide Alloy
+Steel Ingot
+Ferroboron Alloy
+Shibuichi Alloy
+Tin Silver Alloy
+Lead Platinum Alloy
+Extreme Alloy
+Thermoconducting Alloy
+Zircaloy Ingot
+Silicon Carbide Ingot
+SiC-SiC Ceramic Matrix Composite
+HSLA Steel Ingot
+Calcium Sulfate
+Crystal Binder
+Energetic Blend
+Sodium Fluoride
+Potassium Fluoride
+Sodium Hydroxide
+Potassium Hydroxide
+Borax
+Irradiated Borax
+Dimensional Blend
+Carbon-Manganese Blend
+Alugentum Dust
+Basic Plating
+Advanced Plating
+DU Plating
+Elite Plating
+Copper Solenoid
+Magnesium Diboride Solenoid
+Bioplastic
+Servomechanism
+Electric Motor
+Linear Actuator
+Machine Chassis
+Empty Frame
+Steel Chassis
+Extreme Plating
+Silicon Carbide Fiber
+Empty Heat Sink
+Pyrolytic Carbon
+Speed Upgrade
+Increases the processing speed of machines at the cost of additional processing power. These upgrades can be stacked - the speed will %s each additional upgrade while the power use will %s.
+Energy Upgrade
+Decreases the processing power of machines. These upgrades can be stacked, but the maximum number that will have an effect is equal to the number of installed speed upgrades. The power use will %s each additional upgrade.
+Bismuth Dust
+Radium Dust
+Polonium Dust
+Protactinium-Enriched Thorium Dust
+Protactinium-233 Dust
+Uranium-233
+Uranium-233 Carbide
+Uranium-233 Oxide
+Uranium-233 Nitride
+Uranium-233-Zirconium Alloy
+Uranium-235
+Uranium-235 Carbide
+Uranium-235 Oxide
+Uranium-235 Nitride
+Uranium-235-Zirconium Alloy
+Uranium-238
+Uranium-238 Carbide
+Uranium-238 Oxide
+Uranium-238 Nitride
+Uranium-238-Zirconium Alloy
+Neptunium-236
+Neptunium-236 Carbide
+Neptunium-236 Oxide
+Neptunium-236 Nitride
+Neptunium-236-Zirconium Alloy
+Neptunium-237
+Neptunium-237 Carbide
+Neptunium-237 Oxide
+Neptunium-237 Nitride

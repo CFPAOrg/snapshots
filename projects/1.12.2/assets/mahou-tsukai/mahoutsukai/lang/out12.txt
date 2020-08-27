@@ -1,0 +1,49 @@
+Retribution Entity Blacklist
+A list of entity registry names this spell won't work against
+Insight Mana Cost
+The cost of using the scroll.
+Mystic Eyes of Insight Time
+How long the buff lasts
+Insight Left X Offset
+Added X value to left tab position of Mystic Eyes of Insight
+Insight Left Y Offset
+Added Y value to left tab position of Mystic Eyes of Insight
+Insight Right X Offset
+Added X value to right tab position of Mystic Eyes of Insight
+Insight Right Y Offset
+Added Y value to right tab position of Mystic Eyes of Insight
+Insight Bottom X Offset
+Added X value to bottom tab position of Mystic Eyes of Insight
+Insight Bottom Y Offset
+Added Y value to bottom tab position of Mystic Eyes of Insight
+Client GUI Mahou Placement X
+X value of Mahou value on screen
+Client GUI Mahou Placement Y
+Y value of Mahou value on screen
+Global Look Range
+The block range value for any spells which use the player's line of sight
+Creative Mode Requires Scrolls
+If false, scrolls will not disappear in creative.
+Mystic Code Ring Speed
+Ring speed for the Mystic Code
+Boundary Spin Speed
+Spinning speed for boundaries
+Mana Circuit Magitech Capacity
+How much this circuit can hold
+Magitech Mana Circuit Capacity
+How much this circuit can hold
+Mana Circuit (any) Range
+How far away things can be from a Mana Circuit to use it
+Overall Max Mana Cap
+How high a player's personal mana can go
+Magic damages the player
+Should magic damage the player
+Mana Damage is Flat
+If Magic damages the player, should it be flat damage or based on mana used
+Magic damage value
+If damage is flat, this value is dealt to player's health. If not flat, this value is multiplied by mana used and rounded up.
+Magic Damage Type - Generic or Magic
+What type of damage magic damage inflicts.
+Mystic Code - First Sorcery Durability
+How much durability the Mystic Code - First Sorcery item has
+Show Bleeding Effect

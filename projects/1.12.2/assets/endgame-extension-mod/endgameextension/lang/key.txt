@@ -1,0 +1,14 @@
+#item.item.name
+itemGroup.endtab
+item.endgameextension.quenched_nether_star.name
+item.endgameextension.nether_star_shard.name
+item.wither_sword.name
+item.wither_pickaxe.name
+item.wither_shovel.name
+item.wither_axe.name
+item.wither_hoe.name
+tile.flower_asphodel.name
+tile.wither_rose.name
+tile.block_of_nether_star.name
+tile.soul_bricks.name
+tile.chiseled_soul_bricks.name

@@ -1,0 +1,5 @@
+Swim Speed
+Attribute Modifier Amount
+Swim Speed Amount
+Determines the Math used for the Attribute Modifer
+Swim Speed Operation

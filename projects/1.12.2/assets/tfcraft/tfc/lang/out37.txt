@@ -1,0 +1,80 @@
+Steel Scythe Blade
+Black Steel Scythe Blade
+Blue Steel Scythe Blade
+Red Steel Scythe Blade
+Bismuth Bronze Chestplate
+Black Bronze Chestplate
+Bronze Chestplate
+Copper Chestplate
+Wrought Iron Chestplate
+Steel Chestplate
+Black Steel Chestplate
+Blue Steel Chestplate
+Red Steel Chestplate
+Bismuth Bronze Greaves
+Black Bronze Greaves
+Bronze Greaves
+Copper Greaves
+Wrought Iron Greaves
+Steel Greaves
+Black Steel Greaves
+Blue Steel Greaves
+Red Steel Greaves
+Bismuth Bronze Boots
+Black Bronze Boots
+Bronze Boots
+Copper Boots
+Wrought Iron Boots
+Steel Boots
+Black Steel Boots
+Blue Steel Boots
+Red Steel Boots
+Blue Steel Bucket
+Red Steel Bucket
+%s Bucket
+%s Bucket
+Bismuth Bronze Helmet
+Black Bronze Helmet
+Bronze Helmet
+Copper Helmet
+Wrought Iron Helmet
+Steel Helmet
+Black Steel Helmet
+Blue Steel Helmet
+Red Steel Helmet
+Unfinished Bismuth Bronze Chestplate
+Unfinished Black Bronze Chestplate
+Unfinished Bronze Chestplate
+Unfinished Copper Chestplate
+Unfinished Wrought Iron Chestplate
+Unfinished Steel Chestplate
+Unfinished Black Steel Chestplate
+Unfinished Blue Steel Chestplate
+Unfinished Red Steel Chestplate
+Unfinished Bismuth Bronze Boots
+Unfinished Black Bronze Boots
+Unfinished Bronze Boots
+Unfinished Copper Boots
+Unfinished Wrought Iron Boots
+Unfinished Steel Boots
+Unfinished Black Steel Boots
+Unfinished Blue Steel Boots
+Unfinished Red Steel Boots
+Unfinished Bismuth Bronze Helmet
+Unfinished Black Bronze Helmet
+Unfinished Bronze Helmet
+Unfinished Copper Helmet
+Unfinished Wrought Iron Helmet
+Unfinished Steel Helmet
+Unfinished Black Steel Helmet
+Unfinished Blue Steel Helmet
+Unfinished Red Steel Helmet
+Unfinished Bismuth Bronze Greaves
+Unfinished Black Bronze Greaves
+Unfinished Bronze Greaves
+Unfinished Copper Greaves
+Unfinished Wrought Iron Greaves
+Unfinished Steel Greaves
+Unfinished Black Steel Greaves
+Unfinished Blue Steel Greaves
+Unfinished Red Steel Greaves

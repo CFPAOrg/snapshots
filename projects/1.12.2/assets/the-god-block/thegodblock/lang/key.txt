@@ -1,0 +1,8 @@
+language.name
+language.region
+language.code
+itemGroup.thegodblock
+tile.thegodblock.thenothing.name
+item.thegodblock.quanta.name
+item.thegodblock.atomic_string.name
+item.thegodblock.universal_binder.name

@@ -1,0 +1,91 @@
+entity type: %1$s
+creatures
+players
+mobs
+animals
+villagers
+objects
+everything
+entity threshold: %1$s
+power: %1$s
+%1$s%2$s%3$s%4$s
+lux
+on: %1$s%2$s
+off: %1$s%2$s
+power: %1$s
+debounce: %1$s %2$s
+%1$s%2$s%3$s%4$s
+on-level: %1$s
+off-level: %1$s
+power: %1$s
+comparator mode
+used inventory slots
+free inventory slots
+%1$s%2$s%3$s%4$s
+on: %1$s
+off: %1$s
+power: %1$s
+random: %1$s
+power: %1$s
+power: %1$s
+%1$s%2$s%3$s%4$s%5$s
+on: %1$ss
+off: %1$ss
+power: %1$s
+ramp: %1$s
+STANDBY
+sensitivity: %1$s
+normal
+high
+entity threshold: %1$s
+entity type: %1$s
+everything
+creatures
+players
+mobs
+animals
+villagers
+objects
+power: %1$s
+%1$s%2$s%3$s%4$s%5$s
+range: %1$s
+threshold: %1$s
+power: %1$s
+debounce: %1$s
+filter: %1$s
+any block
+solid
+liquid
+air
+wood log
+fertile soil
+soil
+plant
+crop
+mature crop
+ore (dict)
+sapling (dict)
+wooden (dict)
+stone (dict)
+glass (dict)
+water/ice
+clay/ceramics
+planks (dict)
+slab (dict)
+Linked to %1$s.
+Target is %1$s blocks away.
+(too far away)
+Target switch is too far away from you
+Target switch is broken or relocated
+Target switch memorized
+This switch cannot be a link target
+Link pearl plugged
+This switch cannot link to target switches
+Already linked to the target of that pearl
+Target is too far away for this switch
+Link pearl don't like that switch
+Trigger as source output.
+Trigger on source activation.
+Trigger on source deactivation.
+Trigger on source change.
+Trigger as source inverse output.

@@ -1,0 +1,38 @@
+Error: Item not found.
+Error: Invalid meta.
+Error: Amount cannot be less than 1.
+You cannot pay someone negative amount. That would be rude.
+Invalid NBT specified.
+Invalid offer number.
+Wrong offer type.
+You must be a player to do this.
+Invalid page number.
+No results found.
+You are not buying or selling anything.
+This item cannot be traded on the Grand Exchange.
+Error: You aren't holding anything.
+Invalid regex search: %s
+You do not have enough %s to pay the tax for that. Amount required: %s.
+Offer succeeded. Your balance is now %s
+Offer succeeded. Your balance is now %s
+Offer succeeded.
+/ge <command> [parameters]
+/ge buy <item> <meta> <amount> <price> [nbt] or /ge buy <offer number> [amount]
+Buy an item from the market. Either put out an offer to buy for a price, or provide an offer number to buy from.
+Purchase succeeded. Your balance is now %s. You can collect your items with /ge collect
+/ge opbuy <item> <meta> <price> [nbt]
+Create an unlimited buy offer for an item on behalf of the server. You will not receive the items or spend the currency.
+/ge buyoffers [filter] [page]
+View buy offers. Use a filter if you wish to look for a specific item, regex is supported.
+Nobody is buying anything.
+/ge canceloffer <buy|sell|any> <filter> [meta] [price] or /ge canceloffer <offer number>
+Cancel all of your offers that match the specified criteria, or a specific offer using the offer number.
+No offers were found that match your criteria.
+Offer cancelled: %s.
+Offer cancelled: %s. You can collect your items with /ge collect
+/ge collect [filter]
+Collect items from your partially or completely fulfilled buy offers. Use a filter to specify what item you want to collect.
+You have run out of room for collection. Make room in your inventory and try again.
+Collection successful.
+You don't have anything to collect.
+You don't have anything matching "%s" to collect.

@@ -1,0 +1,8 @@
+item.dynamictreestconstruct:slimeblueseed.name
+item.dynamictreestconstruct:slimepurpleseed.name
+item.dynamictreestconstruct:slimemagmaseed.name
+tile.dynamictreestconstruct:leaves0.name
+tile.dynamictreestconstruct:slimebluebranch.name
+tile.dynamictreestconstruct:slimepurplebranch.name
+tile.dynamictreestconstruct:slimemagmabranch.name
+tile.dynamictreestconstruct:rootyslimydirt.name

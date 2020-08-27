@@ -1,0 +1,9 @@
+config.title
+config.capeUrl
+chat.setcapecommand.wrongusage
+chat.setcapecommand.playeronly
+gui.capeurl.title
+gui.capeurl.current
+gui.capeurl.checkbox.advancedcapes
+gui.capeurl.checkbox.custom
+gui.capeurl.button.seturl

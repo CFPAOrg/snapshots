@@ -1,0 +1,15 @@
+enchantment.vtweaks:lumbering
+enchantment.vtweaks:imperishable
+vtweaks.deathpoint.msg
+vtweaks.mighty.challenger.mob
+vtweaks.hungry.challenger.mob
+vtweaks.ranger.challenger.mob
+vtweaks.arcane.challenger.mob
+vtweaks.pyro.challenger.mob
+vtweaks.zestonian.challenger.mob
+vtweaks.reinforced.challenger.mob
+vtweaks.agile.challenger.mob
+vtweaks.intro.link
+vtweaks.intro.message
+enchantment.vtweaks.lumbering.desc
+enchantment.vtweaks.imperishable.desc

@@ -1,0 +1,6 @@
+ui.backpack.name
+item.small_backpack.name
+item.medium_backpack.name
+item.large_backpack.name
+key.openBackpack
+key.categories.yabm

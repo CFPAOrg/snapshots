@@ -1,0 +1,7 @@
+itemGroup.watercan
+item.watercan.watercan.wood.name
+item.watercan.watercan.stone.name
+item.watercan.watercan.iron.name
+item.watercan.watercan.diamond.name
+item.watercan.watercan.gold.name
+tooltip.watercan.capacity

@@ -1,0 +1,6 @@
+Allow warp points
+Allow warp points setting
+Maximim warp points
+Maximim warp points per user
+SimpleHomes
+Fast home teleporting

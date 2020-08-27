@@ -1,0 +1,54 @@
+Dig Speed
+§oNow, this is pod racing!§r\nThis tool has increased mining speed.
+Dig AOE
+§oOnly happy accidents!§r\nThis tool breaks blocks in a large area.
+Attack Damage
+§oTons of damage!§r\nThis weapon deals increased melee damage.
+Attack AOE
+§oYoshitsune!§r\nThis weapon strikes enemies in a large area.
+Arrow Damage
+§oYou got peeped!§r\nThis ammo deals greater damage.
+Draw Speed
+§oWhere's the drama in that?§r\nThis weapon can be drawn faster.
+Arrow Speed
+§oWarp speed!§r\nThis weapon fires shots at higher velocity.
+Reaping
+§oDark metamorphosis!§r\nThis weapon has an additional chance to drop mob souls.
+Entropic
+§oShield breaker!§r\nThis weapon inflicts increased entropy on energy shields.
+Entropic Strike: +%s
+Flux Burn
+§oThe magic ends here.§r\nThis weapon drains energy from armour and deals a portion of it as additional damage.
+Flux Burn: %s
+Primordial
+§oThe magic! It calls to me!§r\nThis weapon converts a portion of its damage to chaos damage.
+Chaos Damage: %s
+Evolved
+§oBalanced, as all things should be.§r\nThis armour grants an energy shield and can be upgraded by fusion crafting.
+RF Capacity
+§oUnlimited power!§r\nThis armour has increased energy capacity.
+Shield Capacity
+§oDeflector shields up!§r\nThis armour can sustain a larger energy shield.
+Shield Recovery
+§oNon-eutactic!§r\nThis armour recovers from shield entropy faster.
+Move Speed
+§oSweet dreams are made of this...§r\nThis armour grants increased movement speed.
+Jump Boost
+§oA not-so-secret exit!§r\nThis armour grants increased jump height.
+Chaos Resistance
+§oIridescent!§r\nThis armour reduces incoming chaos damage.
+Chaos Resist: +%s
+Final Guard
+§oLook out!§r\nThis armour will save you from death if it has enough stored energy.
+Final Guard Cost: %s
+Your armour's %s has kept you alive!
+Ender Crystal
+Pulsating Crystal
+Vibrant Crystal
+Weather Crystal
+Litherite
+Erodium
+Kyronite
+Pladium
+Ionite
+Aethium

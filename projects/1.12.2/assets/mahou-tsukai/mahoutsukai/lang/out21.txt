@@ -1,0 +1,14 @@
+Catalysts
+There are seven catalysts representing each of the known categories of magic. Powdered Catalysts are created by taking a Hammer or a Mortar and Pestle, and smashing these catalysts. 
+Catalysts (cont.)
+The categories are: %%n%%nIron - Boundaries%%n%%nEnder Pearl - Displacement%%n%%nDiamond - Projection%%n%%nEmerald - Exchange%%n%%nGold - Mystic%%n%%nQuartz - Intelligence%%n%%nEnder Eye - Mystic Eyes
+Spell categories
+Boundaries deal with AOE effects centered on a magic circle.%%n%%nDisplacement spells deal with teleportation magic.%%n%%nProjection spells deal with weapons.%%n%%nExchange spells usually involve a trade of some sort, often to refund or generate mana.
+Spell categories (cont.)
+Mystic spells are unique, often offenseive spells, which provide miscellaneous effects.%%n%%nMystic Eyes spells deal with sight based effects.%%n%%nIntelligence spells deal with decision making, often focused around entities.%%n%%nThere are also some rumored secret spells..
+Leylines
+Leylines connect certain points throughout the world. They can only be seen with Mystic Eyes of Fay Sight. Being near a leyline or leypoint increases mana regeneration based on a percentage of your maximum mana. %%n%%nThe Fae spawn near leylines.%%n%%nFurthermore, Leylines will boost elytra if you fly along the leyline.
+The Fae
+The Fae are spiritlike creatures that spawn near leylines. Like leylines, they can also only be seen with Mystic Eyes of Fay Sight. Their laughter sounds like bells, and they drop Fae Essence upon death.%%n%%n The Fae are particularly attracted to magic being performed on leypoints. %%n%%nThey are breedable through the use of any Powdered Catalyst.
+Fae Essence
+Fae Essence is dropped by the fae. Right clicking with fae essence will place a fae circle. Scrolls and stationary circles created by fae essence can be used by anyone. You can claim a fae circle by right clicking it, and it will drain mana from you when used. Most importantly, because Fae Essence is not bound to a user, it is ideal for automated scroll creation.

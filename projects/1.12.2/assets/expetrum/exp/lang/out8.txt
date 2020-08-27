@@ -1,0 +1,112 @@
+Aluminum Clump
+Chromium Clump
+Cobalt Clump
+Tantalum Clump
+Magnesium Clump
+Lead Clump
+Gold Clump
+Iron Clump
+Titanium Clump
+Molybdenum Clump
+Nickel Clump
+Manganese Clump
+Tungsten Clump
+Platinum Clump
+Zinc Clump
+Uranium Clump
+Bismuth Clump
+Silver Clump
+Iridium Clump
+Osmium Clump
+Bronze Clump
+Bismuth Bronze Clump
+Leaded Bronze Clump
+Brass Clump
+Manganese Bronze Clump
+Aluminum Bronze Clump
+Sterling Silver Clump
+Electrum Clump
+Sterling Platinum Clump
+Invar Clump
+Cast Iron Clump
+Pig Iron Clump
+Steel Clump
+HSLA Steel Clump
+Stainless Steel Clump
+Tool Steel Clump
+Solder Clump
+AlNiCo Clump
+Duralumin Clump
+Rose Alloy Clump
+Nichrome Clump
+Vitallium Clump
+Unknown Alloy Clump
+Tin Sheet
+Barium Sheet
+Copper Sheet
+Aluminum Sheet
+Chromium Sheet
+Cobalt Sheet
+Tantalum Sheet
+Magnesium Sheet
+Lead Sheet
+Gold Sheet
+Iron Sheet
+Titanium Sheet
+Molybdenum Sheet
+Nickel Sheet
+Manganese Sheet
+Tungsten Sheet
+Platinum Sheet
+Zinc Sheet
+Uranium Sheet
+Bismuth Sheet
+Silver Sheet
+Iridium Sheet
+Osmium Sheet
+Bronze Sheet
+Bismuth Bronze Sheet
+Leaded Bronze Sheet
+Brass Sheet
+Manganese Bronze Sheet
+Aluminum Bronze Sheet
+Sterling Silver Sheet
+Electrum Sheet
+Sterling Platinum Sheet
+Invar Sheet
+Cast Iron Sheet
+Pig Iron Sheet
+Steel Sheet
+HSLA Steel Sheet
+Stainless Steel Sheet
+Tool Steel Sheet
+Solder Sheet
+AlNiCo Sheet
+Duralumin Sheet
+Rose Alloy Sheet
+Nichrome Sheet
+Vitallium Sheet
+Unknown Alloy Sheet
+Tin Double Sheet
+Barium Double Sheet
+Copper Double Sheet
+Aluminum Double Sheet
+Chromium Double Sheet
+Cobalt Double Sheet
+Tantalum Double Sheet
+Magnesium Double Sheet
+Lead Double Sheet
+Gold Double Sheet
+Iron Double Sheet
+Titanium Double Sheet
+Molybdenum Double Sheet
+Nickel Double Sheet
+Manganese Double Sheet
+Tungsten Double Sheet
+Platinum Double Sheet
+Zinc Double Sheet
+Uranium Double Sheet
+Bismuth Double Sheet
+Silver Double Sheet
+Iridium Double Sheet
+Osmium Double Sheet

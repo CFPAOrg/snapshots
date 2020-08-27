@@ -1,0 +1,16 @@
+tile.chromablocks:chroma_black.name
+tile.chromablocks:chroma_blue.name
+tile.chromablocks:chroma_brown.name
+tile.chromablocks:chroma_cyan.name
+tile.chromablocks:chroma_gray.name
+tile.chromablocks:chroma_Green.name
+tile.chromablocks:chroma_light_blue.name
+tile.chromablocks:chroma_Silver.name
+tile.chromablocks:chroma_lime.name
+tile.chromablocks:chroma_magenta.name
+tile.chromablocks:chroma_orange.name
+tile.chromablocks:chroma_pink.name
+tile.chromablocks:chroma_purple.name
+tile.chromablocks:chroma_red.name
+tile.chromablocks:chroma_white.name
+tile.chromablocks:chroma_yellow.name

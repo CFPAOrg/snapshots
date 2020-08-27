@@ -1,0 +1,101 @@
+General
+Miscellaneous settings and controls
+Client
+Settings affecting visuals and details on the client-side
+Mob
+Settings for individual Oddities and general controls
+Magic
+The spell system allows a diverse and powerful magic playstyle
+Phylactery
+The phylactery system allows any item to be a mob spawner
+Creature Type
+Controls for what types are applied to each mob/player
+World Options
+Controls for world generation
+Odd %s Egg
+Inscribed %s Egg
+Brooch of Shielding
+Arrow of %s Slaying
+Still-Beating Heart
+Calligrapher's Ink
+Blessed Book
+Blessed Book (%s)
+Slippers of Spider Climbing
+Boots of Speed
+Bottle of Air
+Decanter of Endless Water
+Diamond Coin
+Gold Coin
+Iron Coin
+Coin Purse
+Stone Coin
+Compound Scroll of %s
+Crowbar
+Deviled Egg
+Dust of Dryness
+Dust of Disappearance
+Dust of Appearance
+Goblin Ear
+Hunter's Eye
+Flask of Liquid Ozone
+Sustaining Spoon
+Lens of Detection
+Goblet of Blood
+Hand of the Mage
+Hen of the Mage
+Hare Mask
+Frog Hat
+Magician's Hat
+Lesbian Flag
+Gay Flag
+Bisexual Flag
+Transgender Flag
+Nonbinary Flag
+Genderqueer Flag
+Genderfluid Flag
+Asexual Flag
+Aromantic Flag
+Intersex Flag
+Pansexual Flag
+Polysexual Flag
+Queer Flag
+Helm of Underwater Action
+Horn of Blasting
+Greater Horn of Blasting
+Iron Chunk
+Javelin of Lightning
+Lantern
+Lantern of Revealing
+Cartographer Map
+Merchant Staff
+%s Lock
+Mage Apple
+%s Inscriber's Ink
+Magnifying Glass
+Bottle of Moss
+Faustian Contract
+Periapt of Antitoxin
+Binding Potion
+Amulet of Natural Armor
+Bracers of Armor
+Red String of Fate
+Restorative Ointment
+Ring of Blinking
+Ring of Climbing
+Improved Ring of Climbing
+Ring of Feather Falling
+Ring of Sustenance
+Ring of Shielding
+Ring of Invisibility
+Ring of Jumping
+Improved Ring of Jumping
+Ring of Unfettered Motion
+Ring of Protection
+Ring of Regeneration
+Ring of %s
+Ring of Swimming
+Improved Ring of Swimming
+Ring of Water Walking
+Ritualistic Dagger
+Satchel
+Potion Case

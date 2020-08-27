@@ -1,0 +1,3 @@
+Display any item! If the item is a bauble the pedestal will give the effect of that bauble to the player who placed the block in a area of 25 blocks.
+Curio
+Toggle Amulet of Growth

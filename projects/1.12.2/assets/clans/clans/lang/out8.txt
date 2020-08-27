@@ -1,0 +1,45 @@
+You are no longer in Build Admin mode.
+/opclan claim <clan>
+Claim a 16x16 chunk of land for the target clan, regardless of who currently owns it.
+/opclan setrank <clan> <member|admin|leader> <player>
+Make a player a rank in a clan.
+You have made %s a %s in %s.
+You have been made a %s in %s by %s.
+/opclan disband <clan>
+Disband any clan.
+/opclan kick <clan> <member>
+Kick a member from any clan.
+/opclan setcolor <clan> <color>
+Change any clan's color.
+/opclan setdescription <clan> <new description>
+Set any clan's description.
+/opclan setname <clan> <newname>
+Set any clan's name.
+/opclan setshield <clan> <duration>
+Set the amount of shield for any clan, in minutes.
+Improperly formatted shield duration.
+Clan shield for %s set to %s minutes.
+/opclan setserver <clan> <true|1|false|0>
+Set if a clan is a server clan. Server clans cannot be raided and do not use economy features.
+You have made %s a server clan.
+You have removed the server status from %s.
+/opclan set <clan> <option> <value>
+Set various options for a clan. Valid options are maxclaims, mobspawning, claimcost, mobdamage, upkeepexemption, dynmapvisible, server, pvp.
+You have successfully set the %s option for %s to %s.
+The option %s was not found.
+/opclan tp <clan>
+Teleport to a clan's home.
+You are not in a raiding party.
+You are not in an active raid.
+/raid collect
+Collect your blocks placed/forbidden items from during a raid.
+You have run out of room for collection. Make room in your inventory and try again.
+Collection successful.
+You don't have anything to collect.
+You cannot collect items while raiding.
+/raid invite <player>
+Invite a player to join the raiding party you are in.
+You have been invited to a raiding party against %1$s. To join, type /raid join %1$s.
+You successfully invited %s to the raiding party.
+You cannot invite someone to raid a clan they are a part of.
+Your raiding party cannot hold any more people. It has %s raiders and the limit is currently %s.

@@ -1,0 +1,14 @@
+Magma Cream
+Magma Cream can be carried by soldiers as a trap for their enemies. When an enemy kills the soldier with a meelee attack, this will attach to the killer and after a period of time, it'll explode, killing them (unless they are equipped with the {link:String|upgrades:string} upgrade) and damaging anyone else around it.\n\n§7-§1 Misc. upgrade\n§7-§1 attaches to enemies\n§7-§1 explodes after 2 sec.\n§7-§1 incompatible with {link:Gunpowder|upgrades:gunpowder}\n§1   and {link:Firework Star|upgrades:fireworkstar}
+Gold Nugget
+The Gold Nugget will form into a crown to wear once given to a soldier, making them the leader of their team. Everyone that can see the wearer of the crown and is in the same team will follow the leader.\n\n§7-§1 Misc. upgrade\n§7-§1 team follows wearer
+Red Mushroom
+Soldiers with Red Mushrooms will coat their weaponry and bodies with it, poisoning enemies for 5 seconds.\n\n§7-§1 Misc. upgrade\n§7-§1 1 use\n§7-§1 poisons target for 5 sec.
+Gunpowder
+Ingesting Gunpowder will cause soldiers to explode upon their death.\n\n§7-§1 Misc. upgrade\n§7-§1 explodes on death\n§7-§1 incompatible with {link:Magma Cream|upgrades:magmacream}\n§1   and {link:Firework Star|upgrades:fireworkstar}
+Firework Star
+Similar to {link:Gunpowder|upgrades:gunpowder} but not as dangerous, soldiers will combust into sparkles. The explosion is purely aesthetic and its looks depend on the star given.\n\n§7-§1 Misc. upgrade\n§7-§1 combusts on death\n§7-§1 incompatible with {link:Magma Cream|upgrades:magmacream}\n§1   and {link:Gunpowder|upgrades:gunpowder}
+Brown Mushroom
+A Brown Mushroom can be used like regular {link:Food|upgrades:food}, restoring 10 HP when a soldiers health is below 25%% .\n\n§7-§1 Misc. upgrade\n§7-§1 2 uses\n§7-§1 10 pts. of health restored
+Heads and Skulls
+Another aesthetical item, soldiers will wear those like a helmet.\n\n§7-§1 Misc. upgrade\n§7-§1 wearable headgear

@@ -1,0 +1,5 @@
+tile.treasurelvl2.name
+tile.treasurelvl3.name
+tile.stonepot.name
+tile.bigclaypot.name
+tile.treasurelvl1.name

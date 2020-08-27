@@ -1,0 +1,73 @@
+Mithril Reinforced Glass
+Haderoth Reinforced Glass
+Atlarus Reinforced Glass
+Adamantine Reinforced Glass
+Celenegil Reinforced Glass
+Tartarite Reinforced Glass
+Rubracium Reinforced Glass
+Midasium Reinforced Glass
+Shadow Steel Reinforced Glass
+Lemurite Reinforced Glass
+Vyroxeres Reinforced Glass
+Kalendrite Reinforced Glass
+Krik Reinforced Glass
+Sanguinite Reinforced Glass
+Alduorite Reinforced Glass
+Ignatius Reinforced Glass
+Shadow Iron Reinforced Glass
+Damascus Steel Reinforced Glass
+Orichalcum Reinforced Glass
+Ceruclase Reinforced Glass
+Vulcanite Reinforced Glass
+Inolashite Reinforced Glass
+Amordrine Reinforced Glass
+Zinc Reinforced Glass
+Silver Reinforced Glass
+Platinum Reinforced Glass
+Brass Reinforced Glass
+Lutetium Reinforced Glass
+Osmium Reinforced Glass
+Etherium Reinforced Glass
+Armor Effects
+General
+Registry
+Rubracium Gauntlet
+Tool Effects
+World Generation
+Clear Vision
+Night Vision
+Diver
+Well Fed
+Jump Master
+Poison Immunity
+Quick Action
+Resistance IV
+Strength
+Volcanic
+§oNo Blindness >:(§r\nMakes you immune to blindness
+§oNo carrots required§r\nAllows you to see in the dark
+§oAqua-bound!§r\nIt makes it easier for you to do things underwater
+§oThe taste of hard work§r\nReplenishes your food bar if you have enough experience.
+§oWheeee!§r\nIncreases jump height.
+§oTastes like coconut... and metal§r\nGrants immunity to poison.
+§oBow Tender§r\nStretching a bow becomes faster
+§oHard as nails§r\nReduces incoming damage even further than you'd expect.
+§oI bet I could lift that§r\nIncreases damage dealt \n(can be level I or level II)
+§oFire-bound!§r\nIt makes you immune to fire
+Metallurgy Armor
+Metallurgy Blocks
+Metallurgy Dusts
+Metallurgy Fluids
+Metallurgy Ingots
+Metallurgy Nugets
+Metallurgy Special
+Metallurgy Ores
+Metallurgy Tools
+Adamantine Dust
+Alduorite Dust
+Amordrine Dust
+Angmallen Dust
+Astral Silver Dust
+Atlarus Dust
+Black Steel Dust
+Brass Dust

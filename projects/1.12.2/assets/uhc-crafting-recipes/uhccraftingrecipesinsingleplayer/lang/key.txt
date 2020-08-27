@@ -1,0 +1,4 @@
+itemGroup.tabuhc
+item.dragonsword.name
+item.vorpalsword.name
+item.philosopherspickaxe.name

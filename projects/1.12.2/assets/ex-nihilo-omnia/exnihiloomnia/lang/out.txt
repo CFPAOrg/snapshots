@@ -1,0 +1,87 @@
+Lead Nether Gravel
+Lead End Gravel
+Lead Sand
+Lead Ore Dust
+Broken Lead Ore
+Broken Nether Lead Ore
+Broken End Lead Ore
+Crushed Lead Ore
+Powdered Lead Ore
+Lead Ingot
+Nickel Ore Gravel
+Nickel Nether Gravel
+Nickel End Gravel
+Nickel Sand
+Nickel Ore Dust
+Broken Nickel Ore
+Broken Nether Nickel Ore
+Broken End Nickel Ore
+Crushed Nickel Ore
+Powdered Nickel Ore
+Nickel Ingot
+Osmium Ore Gravel
+Osmium Nether Gravel
+Osmium End Gravel
+Osmium Sand
+Osmium Ore Dust
+Broken Osmium Ore
+Broken Nether Osmium Ore
+Broken End Osmium Ore
+Crushed Osmium Ore
+Powdered Osmium Ore
+Osmium Ingot
+Platinum Ore Gravel
+Platinum Nether Gravel
+Platinum End Gravel
+Platinum Sand
+Platinum Ore Dust
+Broken Platinum Ore
+Broken Nether Platinum Ore
+Broken End Platinum Ore
+Crushed Platinum Ore
+Powdered Platinum Ore
+Platinum Ingot
+Silver Ore Gravel
+Silver Nether Gravel
+Silver End Gravel
+Silver Sand
+Silver Ore Dust
+Broken Silver Ore
+Broken Nether Silver Ore
+Broken End Silver Ore
+Crushed Silver Ore
+Powdered Silver Ore
+Silver Ingot
+Tin Ore Gravel
+Tin Nether Gravel
+Tin End Gravel
+Tin Sand
+Tin Ore Dust
+Broken Tin Ore
+Broken Nether Tin Ore
+Broken End Tin Ore
+Crushed Tin Ore
+Powdered Tin Ore
+Tin Ingot
+Uranium Ore Gravel
+Uranium Nether Gravel
+Uranium End Gravel
+Uranium Sand
+Uranium Ore Dust
+Broken Uranium Ore
+Broken Nether Uranium Ore
+Broken End Uranium Ore
+Crushed Uranium Ore
+Powdered Uranium Ore
+Uranium Ingot
+Yellorite Ore Gravel
+Yellorite Nether Gravel
+Yellorite End Gravel
+Yellorite Sand
+Yellorite Ore Dust
+Broken Yellorite Ore
+Broken Nether Yellorite Ore
+Broken End Yellorite Ore
+Crushed Yellorite Ore
+Powdered Yellorite Ore
+Yellorite Ingot

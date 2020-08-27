@@ -1,0 +1,5 @@
+itemGroup.exptran
+tile.exp_translator.name
+item.vial_empty.name
+item.vial_exp.name
+item.vial_exp_large.name

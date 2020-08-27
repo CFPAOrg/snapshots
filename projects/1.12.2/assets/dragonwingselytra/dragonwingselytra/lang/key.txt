@@ -1,0 +1,4 @@
+itemGroup.tabDWE
+item.messiah.dwe.dragonwings.name
+messiah.dwe.equiphead
+messiah.dwe.isImbued

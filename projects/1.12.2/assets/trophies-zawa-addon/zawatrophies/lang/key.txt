@@ -1,0 +1,3 @@
+item.trophy_head.name
+tile.trophy_plaque.name
+config.zawatrophies.name

@@ -1,0 +1,6 @@
+item.DiamondIgniter.name
+tile.DiamondObsidian.name
+tile.SleepsBlock.name
+item.diamondDimension_trigger.name
+item.Item01.name
+key.mcreator.sleepsBind

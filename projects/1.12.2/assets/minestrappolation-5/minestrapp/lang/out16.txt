@@ -1,0 +1,31 @@
+Generate Sunstone Deposits
+Determines whether Sunstone Deposits will generate in the overworld and the End.
+Determines whether Sunstone Deposits will generate in the overworld and the End.
+Generate Icicles
+Determines whether Glacieric Icicles will generate in cold caves.
+Determines whether Glacieric Icicles will generate in cold caves.
+Generate Glacieric Ice Mounds
+Determines whether Glacieric Ice Mounds will generate in snow biomes.
+Determines whether Glacieric Ice Mounds will generate in snow biomes.
+Generate Archantine Ore
+Determines whether Archantine Ore will generate. Dunno why you'd even bother turning this one off though, seeing as it's nigh impossible to find Archantine as-is...
+Determines whether Archantine Ore will generate. Dunno why you'd even bother turning this one off though, seeing as it's nigh impossible to find Archantine as-is...
+Generate Blazium Ore
+Determines whether Blazium Ore will generate in the Nether.
+Determines whether Blazium Ore will generate in the Nether.
+Generate Shimmering Ore
+Determines whether Shimmering Ore will generate below the Lava in the Nether.
+Determines whether Shimmering Ore will generate below the Lava in the Nether.
+Generate Soul Ore
+Determines whether Soul Ore will generate in the Nether.
+Determines whether Soul Ore will generate in the Nether.
+Generate Dimensium Ore
+Determines whether Dimensium Ore will generate in the End.
+Determines whether Dimensium Ore will generate in the End.
+Generate Buried Heart Pieces
+Determines whether Buried Heart Pieces generate in the Overworld, Nether, and End.
+Determines whether Buried Heart Pieces generate in the Overworld, Nether, and End.
+Generate Clay Soil
+Determines whether Clay Soil replaces all Dirt in jungles, swamps, and warm biomes.
+Determines whether Clay Soil replaces all Dirt in jungles, swamps, and warm biomes.
+Generate Permafrost

@@ -1,0 +1,7 @@
+Set undead natural bonus speed modifier
+Reliquary Glowing Water
+Set to true to give Reliquary's Glowing Water smiting
+MK-Ultra Holy Damage
+List of abilities from MK-Ultra that will deal holy damage
+Tinkers' Holy Modifiers
+List of modifiers from Tinkers' Construct that will smite

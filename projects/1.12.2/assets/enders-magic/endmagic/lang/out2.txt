@@ -1,0 +1,16 @@
+Ender Compass
+A tool used to more easily locate End Fotresses without having to throw out your Eyes of Ender.
+Crystal Compression
+Each type of charcoal from the end can make a specific kind of compressed diamond
+You must encase the TNT and the charcoal next to each other inside a coccoon of obsidian, covering all faces except where the two are touching.
+Set off the TNT, then dig through the obsidian coccoon to reveal the newly made diamond.
+Enderite
+This mystical material has incredible properties, and can only be found in the End. Malleable enough to shape as desired, yet resistant to corrosion, this substance has amazing build potential. It also forms the basis of an incredible arcane theory involving instant transferrence of material from one location to another. But does your spirit travel with your body?
+Ender Ore
+Beneath the barren surface of the End lies this miraculous ore. Its properties can cause Ender Orchids to grow directly above it. But be aware that if Ender Grass grows near the Orchids, it may be a trick. Be respectful toward this miraculous ore. After all, she hears everything...
+Blast Furnace
+A leftover relic of the Dark Blacksmiths, a construction capable of generating incredible heat utilizing the charcoal wrought from End Trees. The Dark Blacksmiths pioneered methods of combining these charcoals with the iron of other dimensions to produce metals of extraordinary quality. The process of creating ender steels is long and arduous, requiring patience and resolve.
+Static Teleporter Base
+This arcane device can form a resonant bond with Bone Blocks, allowing material to be transported instantaneously between them. The journey, however, is one-way, due to the properties of bone.
+Dark Teleporter Base
+This device is one of the most powerful ever made by the Dark Blacksmiths, completed just before she decided to intervene and rip the knowledge from them. It can form resonant connections with other Dark Teleporters, allowing travel from one to the other.

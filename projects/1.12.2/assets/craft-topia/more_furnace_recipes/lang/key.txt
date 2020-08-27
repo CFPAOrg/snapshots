@@ -1,0 +1,8 @@
+item.tinsword.name
+item.tin.name
+item.tinaxe.name
+item.tinhoe.name
+item.tinshovel.name
+tile.tinore.name
+item.purplegrass.name
+item.tinpickaxe.name

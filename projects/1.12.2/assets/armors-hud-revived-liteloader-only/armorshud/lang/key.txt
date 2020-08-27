@@ -1,0 +1,9 @@
+armorshud.control.toggle
+armorshud.control.cycle
+armorshud.config.title
+armorshud.config.bottomright
+armorshud.config.bottomleft
+armorshud.config.topcenter
+armorshud.config.toggle.true
+armorshud.config.toggle.false
+armorshud.config.name

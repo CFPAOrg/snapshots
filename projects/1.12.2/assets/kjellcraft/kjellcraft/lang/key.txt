@@ -1,0 +1,15 @@
+item.congratulations_disc.name
+item.lasagna12_disc.name
+item.lasagna_disc.name
+tile.throttle.name
+kjellcraft.subtitle.lasagna_menu
+kjellcraft.subtitle.record_lasagna
+kjellcraft.subtitle.record_lasagnaV12
+kjellcraft.subtitle.record_congratulations
+item.record.congratulations.desc
+item.record.lasagna.desc
+item.record.lasagna12.desc
+menu.subscribers
+menu.subscribers.error.0
+menu.subscribers.error.1
+menu.subscribers.error.2

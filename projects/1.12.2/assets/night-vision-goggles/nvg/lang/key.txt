@@ -1,0 +1,13 @@
+itemGroup.nvg
+item.goggles.name
+nvg.gui.keybinds.mob_vision
+nvg.gui.keybinds.night_vision
+nvg.gui.keybinds.both
+nvg.potion.mob_vision
+nvg.text.tooltip
+nvg.text.tooltip2
+nvg.text.tooltip3
+nvg.text.tooltip4
+nvg.text.tooltip2_active
+nvg.text.tooltip3_active
+nvg.gui.keygroup

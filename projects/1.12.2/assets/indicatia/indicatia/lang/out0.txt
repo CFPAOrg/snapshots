@@ -1,0 +1,107 @@
+General Settings
+Donation Settings
+Extended Config
+Custom Color Settings
+Render Info Settings...
+Custom Color Settings...
+Offset Settings...
+Hypixel Settings...
+Reset Config
+Keystroke Custom Color
+Render Info Custom Color
+Preview
+Swap Render Info
+Custom Cape
+Health Status
+Keystroke Position
+Equipment Ordering
+Equipment Direction
+Equipment Status
+Equipment Position
+Potion HUD Style
+Potion HUD Position
+CPS Position
+Ping Mode
+CPS Opacity
+FPS
+XYZ
+Direction
+Biome
+Ping
+Ping to Second
+Server IP
+Server IP with MC
+Equipment HUD
+Potion HUD
+Keystroke
+Keystroke Mouse Button
+Keystroke Sprint/Sneak
+Keystroke Blocking
+CPS
+RCPS
+Slime Chunk
+Real Time
+Game Time
+Game Weather
+Moon Phase
+Potion HUD Icon
+TPS
+TPS All Dimensions
+Alternate Potion Color
+Armor HUD Y Offset
+Potion HUD Y Offset
+Keystroke Y Offset
+Maximum Potion Display
+Potion Length Y Offset
+Potion Length Y Offset (Overlap)
+FPS Color
+XYZ Color
+Biome Color
+Direction Color
+Ping Color
+Ping to Second Color
+Server IP Color
+Equipment Status Color
+Arrow Count Color
+CPS Color
+RCPS Color
+Slime Chunk Color
+Top Donator Name Color
+Recent Donator Name Color
+TPS Color
+Real Time Color
+Game Time Color
+Game Weather Color
+Moon Phase Color
+FPS Value Color
+FPS 26 & 40 Color
+FPS < 25 Color
+XYZ Value Color
+Direction Value Color
+Biome Value Color
+Ping Value Color
+Ping 200 & 300 Color
+Ping 300 & 500 Color
+Ping > 500 Color
+Server IP Value Color
+CPS Value Color
+RCPS Value Color
+Slime Chunk Value Color
+Top Donator Value Color
+Recent Donator Value Color
+TPS Value Color
+Real Time HHMMSS Value Color
+Real Time DDMMYY Value Color
+Game Time Value Color
+Game Weather Value Color
+Moon Phase Value Color
+Keystroke WASD Color
+Keystroke Mouse Button Color
+Keystroke Sprint Color
+Keystroke Sneak Color
+Keystroke Blocking Color
+Keystroke CPS Color
+Keystroke RCPS Color
+Keystroke WASD Rainbow
+Keystroke Mouse Button Rainbow
+Keystroke Sprint Rainbow

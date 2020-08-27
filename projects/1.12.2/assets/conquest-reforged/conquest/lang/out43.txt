@@ -1,0 +1,73 @@
+Light Gray Stonebrick Small Pillar
+Dark Gray Stonebrick Small Pillar
+Dark Sandstone Brick Small Pillar
+Dirty Sandstone Cobble Small Pillar
+Worn Peach Plaster Small Pillar
+Worn Dark Brown Plaster Small Pillar
+Yellow Cobblestone Plaster Small Pillar
+Dark Mud Stonebrick Small Pillar
+Light Blue Plaster Small Pillar
+Dry Stone Cobble Small Pillar
+Dark Sandstone Small Pillar
+Harad Orange Wall Small Pillar
+Seashell Wall Small Pillar
+Dwarven Pillar Blue Schist 1 Small Pillar
+Dwarven Pillar Blue Schist 2 Small Pillar
+Elven Clean Pillar Small Pillar
+Roman Brick Small Pillar
+Roman Vertical Brick Small Pillar
+Travertine Brick Small Pillar
+Terracotta Imbrices and Tegulae Small Pillar
+Marble Base Design Small Pillar
+Marble Base Design 2 Small Pillar
+White Plaster Design Small Pillar
+White Plaster Design 2 Small Pillar
+Calcite Small Pillar
+Smooth Calcite Small Pillar
+Ruined Stone Brick Small Pillar
+Small Diorite Brick Small Pillar
+Mud Brick Small Pillar
+Poor Roman Brick Small Pillar
+Dark Red Sandstone Small Pillar
+Travertine Slab Small Pillar
+Peach Stucco Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+ Small Pillar
+Plastered Stone Stairs
+Plastered Stone Arch
+Plastered Stone Tiles Stairs
+Hewn Stone Tiles Stairs
+Cobblestone Arch
+Dark Red Brick Stairs
+Red Brick Stairs
+Roman Brick Stairs
+Travertine Brick Stairs
+Big Sandstone Stairs
+Sandstone Brick Stairs
+Sandstone Cornice Stairs
+Sandstone Base Column Stairs
+Marble and Sandstone Base Stairs
+Marble Cornice Block Stairs
+Marble Base Stairs
+Red Roof Tiles Stairs
+Pink Roof Tiles Stairs
+Gray Roof Tiles Stairs
+Brown Roof Tiles Stairs
+Blue Roof Tiles Stairs
+Cyan Roof Tiles Stairs
+Light Blue Roof Tiles Stairs
+Green Roof Tiles Stairs
+Light Green Roof Tiles Stairs
+Oxidized Copper Roof Stairs

@@ -1,0 +1,4 @@
+Thing
+DupeChest
+Special Ore
+Thing Ingot

@@ -1,0 +1,10 @@
+Saws made of different materials can be mounted. While every saw is effective at cutting wood, saws made of hard materials like steel and tunsten can even cut trough metals.
+The machine requires a constant supply of rotary power to it's side. Resources can be inserted to table's right side and processed items are outputted to the wooden storage box on the ground
+Rotary Power
+Things start turning!
+Rotary power is an old-fashioned alternative to electric power. Instead of wires and connectors, wheels and motor belts are used. The power system utilizes 2 factors: torque - in Newton metres (Nm) and speed in RPM. Machines require different torque and speed to work effectively.
+If any of those values surpasses the limit, the machine explodes. Power can be merged and splitted using <link;rotary_power3;§o§nGearboxes§r;>.
+The wheel is used to transfer mechanical (rotary) power between devices. After placing it can be connected to another wheel using a motor belt, the same way connectors are linked with wires.
+The motor belts are the main transmission element of every rotary power network. They differ with the amount of torque and speed they can transfer. If the torque or the speed it too high for the belt, it detaches from the wheel and falls on the ground. Use different materials for different needs - steel might be more resistant to torque, but power losses are higher.
+The Gearboxes are used to link multiple wheels together, their sides can be changed to input, output or nothing. Inputted torque from all inputs is summed and then divided equally between all outputs. You can use the gearbox to merge torque to make it higher or divide it between 2 or more wheels. The gearbox requires gears of certain resistance to torque and speed to operate on full power.
+The Transmission Boxes are used to connect mechanical devices using a different standard of axles, they can be used to connect a windmill or a waterwheel to a motor belt network or output mechanical energy to a dynamo.

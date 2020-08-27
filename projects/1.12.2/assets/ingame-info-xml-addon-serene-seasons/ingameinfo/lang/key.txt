@@ -1,0 +1,14 @@
+ingameinfoxml.tag.category.sereneseasons.name
+ingameinfoxml.tag.serseason.desc
+sereneseasons.subseason.earlyspring.desc
+sereneseasons.subseason.midspring.desc
+sereneseasons.subseason.latespring.desc
+sereneseasons.subseason.earlysummer.desc
+sereneseasons.subseason.midsummer.desc
+sereneseasons.subseason.latesummer.desc
+sereneseasons.subseason.earlyautumn.desc
+sereneseasons.subseason.midautumn.desc
+sereneseasons.subseason.lateautumn.desc
+sereneseasons.subseason.earlywinter.desc
+sereneseasons.subseason.midwinter.desc
+sereneseasons.subseason.latewinter.desc

@@ -1,0 +1,14 @@
+itemGroup.skeletalband
+skeletalband.instrument.0
+skeletalband.instrument.1
+skeletalband.instrument.2
+skeletalband.instrument.3
+skeletalband.instrument.4
+skeletalband.instrument.5
+skeletalband.instrument.6
+skeletalband.instrument.7
+skeletalband.instrument.8
+skeletalband.instrument.9
+skeletalband.uploadplay
+skeletalband.openmidifolder
+entity.musical_skeleton.name

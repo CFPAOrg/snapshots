@@ -1,0 +1,5 @@
+tile.clean_prismarine.name
+tile.clean_prismarine_2.name
+tile.clean_prismarine_3.name
+tile.clean_prismarine_lamp.name
+itemGroup.clean_prismarine

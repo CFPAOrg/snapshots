@@ -1,0 +1,6 @@
+tile.transport.item_loader.name
+tile.transport.fe_loader.name
+tile.transport.diamond_crossing.name
+tile.transport.holding.name
+tile.transport.wye.name
+tile.transport.switch.name

@@ -1,0 +1,7 @@
+Shape Selector
+OreExcavation: Shape Selector
+Tip: Use the mouse wheel to cycle shapes.
+No Shape
+Edit Shapes
+Range
+Blocks

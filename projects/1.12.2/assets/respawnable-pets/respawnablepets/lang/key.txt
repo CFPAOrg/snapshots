@@ -1,0 +1,6 @@
+item.respawnablepets.etheric_gem.name
+respawnablepets.tooltip
+respawnablepets.enable_respawn
+respawnablepets.disable_respawn
+respawnablepets.not_owner
+respawnablepets.blacklisted

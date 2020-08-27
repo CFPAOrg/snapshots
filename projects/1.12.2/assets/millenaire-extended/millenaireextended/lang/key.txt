@@ -1,0 +1,17 @@
+item.book_franksigmar_one.name
+book.franksigmarbook1.text1
+book.franksigmarbook1.text3
+item.book_franksigmar_two.name
+book.franksigmarbook2.text1
+book.franksigmarbook2.text3
+item.book_franksigmar_three.name
+item.book_franksigmar_four.name
+item.book_franksigmar_five.name
+item.book_franksigmar_six.name
+item.book_franksigmar_seven.name
+item.book_franksigmar_eight.name
+item.book_franksigmar_nine.name
+item.book_franksigmar_ten.name
+item.book_franksigmar_eleven.name
+item.book_franksigmar_twelve.name
+item.book_franksigmar_thirteen.name

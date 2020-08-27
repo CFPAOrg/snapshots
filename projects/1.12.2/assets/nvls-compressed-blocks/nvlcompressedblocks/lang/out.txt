@@ -1,0 +1,24 @@
+NVL's Tools
+NVL's Compressed Blocks
+§7Superior Glass
+§7Compressed Dirt
+§7Compressed Cobblestone
+§7Compressed Sandstone
+§7Compressed Red-Sandstone
+§7Compressed Acacia Planks
+§7Compressed DarkOak Planks
+§7Compressed Birch Planks
+§7Compressed Jungle Planks
+§7Compressed Oak Planks
+§7Compressed Spruce Planks
+§8Super Dense Dirt
+§8Super Dense Cobblestone
+§8Super Dense Sandstone
+§8Super Dense Red-Sandstone
+§8Super Dense Acacia Planks
+§8Super Dense DarkOak Planks
+§8Super Dense Birch Planks
+§8Super Dense Jungle Planks
+§8Super Dense Oak Planks
+§8Super Dense Spruce Planks
+A hardened glass block which is much more resistant to explosions and harder to break.

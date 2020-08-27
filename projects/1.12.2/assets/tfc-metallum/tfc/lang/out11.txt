@@ -1,0 +1,114 @@
+Chestplate Aluminium Brass
+Unfinished Greaves Aluminium Brass
+Greaves Aluminium Brass
+Unfinished Boots Aluminium Brass
+Boots Aluminium Brass
+Unfinished Helmet Aluminium Brass
+Helmet Aluminium Brass
+Aluminium Brass Shield
+Molten Ardite
+Ardite Ingot
+Unshaped Ardite
+Ardite Double Ingot
+Double Ingot Ardite
+Ardite Scrap
+Scrap Ardite
+Ardite Dust
+Dust Ardite
+Ardite Nugget
+Nugget Ardite
+Ardite Sheet
+Sheet Ardite
+Ardite Double Sheet
+Double Sheet Ardite
+Anvil Ardite
+Ardite Tuyere
+Tuyere Ardite
+Ardite Lamp
+%s Ardite Lamp
+Lamp Ardite
+Pick Ardite
+Pick Head Ardite
+Shovel Ardite
+Shovel Head Ardite
+Axe Ardite
+Axe Head Ardite
+Hoe Ardite
+Hoe Head Ardite
+Chisel Ardite
+Chisel Head Ardite
+Sword Ardite
+Sword Blade Ardite
+Mace Ardite
+Mace Head Ardite
+Saw Ardite
+Saw Blade Ardite
+Javelin Ardite
+Javelin Head Ardite
+Hammer Ardite
+Hammer Head Ardite
+Propick Ardite
+Propick Head Ardite
+Knife Ardite
+Knife Blade Ardite
+Scythe Ardite
+Scythe Blade Ardite
+Shears Ardite
+Unfinished Chestplate Ardite
+Chestplate Ardite
+Unfinished Greaves Ardite
+Greaves Ardite
+Unfinished Boots Ardite
+Boots Ardite
+Unfinished Helmet Ardite
+Helmet Ardite
+Ardite Shield
+Raw Ardite Bloom
+Refined Ardite Bloom
+Molten Cobalt
+Cobalt Ingot
+Unshaped Cobalt
+Cobalt Double Ingot
+Double Ingot Cobalt
+Cobalt Scrap
+Scrap Cobalt
+Cobalt Dust
+Dust Cobalt
+Cobalt Nugget
+Nugget Cobalt
+Cobalt Sheet
+Sheet Cobalt
+Cobalt Double Sheet
+Double Sheet Cobalt
+Cobalt Anvil
+Anvil Cobalt
+Cobalt Tuyere
+Tuyere Cobalt
+Cobalt Lamp
+%s Cobalt Lamp
+Lamp Cobalt
+Cobalt Pickaxe
+Pick Cobalt
+Cobalt Pickaxe Head
+Pick Head Cobalt
+Cobalt Shovel
+Shovel Cobalt
+Cobalt Shovel Head
+Shovel Head Cobalt
+Cobalt Axe
+Axe Cobalt
+Cobalt Axe Head
+Axe Head Cobalt
+Cobalt Hoe
+Hoe Cobalt
+Cobalt Hoe Head
+Hoe Head Cobalt
+Cobalt Chisel
+Chisel Cobalt
+Cobalt Chisel Head
+Chisel Head Cobalt
+Cobalt Sword
+Sword Cobalt
+Cobalt Sword Blade
+Sword Blade Cobalt
+Cobalt Mace

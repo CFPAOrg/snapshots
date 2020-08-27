@@ -1,0 +1,45 @@
+Relay Broadcast Messages
+If set to true, Minecraft server broadcasts (/say) will be sent to this IRC context.
+Ident
+The ident for your IRC user. No effect in channels.
+Description
+The description for your IRC user. No effect in channels.
+Quit Message
+The message shown to others when you leave IRC.
+Message Format
+The name to the message format used to display chat messages. See /eirairc/formats/.
+Nick Format
+The format to put the nick in (previously nickPrefix and nickSuffix). %s will be replaced by the nick. No effect in channels. Example: %s-IG
+Enable InterOp
+Allows the usage of InterOp commands between Minecraft and IRC.
+InterOp Auth List
+The list of IRC auth usernames that may run InterOp commands from IRC.
+Disabled Native Commands
+The list of IRC commands (such as !who) that are disabled. Supports "*" for all.
+Disabled InterOp Commands
+The list of minecraft commands (such as /stop) that are disabled for InterOp.
+Auto Join
+If set to true, DevotionIRC will automatically join this server / channel on startup.
+List Users on Join
+If set to true, DevotionIRC will automatically print a list of all IRC users to the chat.
+Read Only
+If set to true, DevotionIRC will only read messages from IRC, but never send any to this IRC context.
+Muted
+If set to true, DevotionIRC will not show messages from this IRC context in chat at all.
+Show Name Flags
+Should names be prefixed with @ for OPs and + for voice?
+Sub Only (Twitch)
+Should only messages from Twitch subscribers be shown in Minecraft?
+Name Color (Minecraft)
+Color for default Minecraft names.
+Name Color (Minecraft OP)
+Color for operator Minecraft names.
+Name Color (IRC)
+Color for default IRC names.
+Name Color (IRC OP)
+Color for operator IRC names.
+Name Color (IRC Voice)
+Color for voiced IRC names.
+Name Color (IRC Private)
+Color for IRC names in private chat.
+Text Color (IRC Notice)

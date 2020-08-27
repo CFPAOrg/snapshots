@@ -1,0 +1,106 @@
+Enderium Block
+Chromium Block
+Chromium Ore
+Chromium Dust
+Chromium Ingot
+Chromium Nugget
+Signalum Block
+Signalum Dust
+Signalum Ingot
+Signalum Nugget
+Molten Osmium
+Molten Iridium
+Molten Yellorium
+Molten Uranium
+Molten Titanium
+Molten Platinum
+Molten Alumite
+Molten Chromium
+Molten Signalum
+Molten Glowstone
+Molten Refined Obsidian
+Molten Invar
+Molten Enderium
+Molten Redstone
+Molten Carbon
+Molten Sapphire
+Molten Fire
+Redstone Gear
+Copper Gear
+Enderium Gear
+Obsidian Gear
+Platinum Gear
+Steel Gear
+Zinc Gear
+Aluminum Gear
+Bauxite Gear
+Chromium Gear
+Glowstone Gear
+Iridium Gear
+Iron Gear
+Lead Gear
+Nickel Gear
+Osmium Gear
+Refined Obsidian Gear
+Signalum Gear
+Silver Gear
+Tin Gear
+Titanium Gear
+Uranium Gear
+Yellorium Gear
+Ardite Gear
+Cobalt Gear
+Emerald Gear
+Gold Gear
+Knightslime Gear
+Manyullyn Gear
+PigIron Gear
+Stone Gear
+Electrum Gear
+Invar Gear
+Sapphire Gear
+Alumite Gear
+Bronze Gear
+Osmium
+Iridium
+Yellorium
+Uranium
+Titanium
+Platinum
+Alumite
+Refined Obsidian
+Invar
+Enderium
+Glowstone
+Sapphire
+Chromium
+Signalum
+Emerald
+Zinc
+Fire
+Copper Plate
+Glowstone Plate
+Steel Plate
+Alumite Plate
+Enderium Plate
+Signalum Plate
+Zinc Plate
+Yellorium Plate
+Uranium Plate
+Titanium Plate
+Tin Plate
+Silver Plate
+Sapphire Plate
+Platinum Plate
+Osmium Plate
+Nickel Plate
+Lead Plate
+Iridium Plate
+Chromium Plate
+Bauxite Plate
+Aluminum Plate
+Redstone Plate
+Gold Plate
+Iron Plate
+Stone Plate
+Bronze Plate

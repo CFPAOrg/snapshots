@@ -1,0 +1,72 @@
+Cosmic Armory Mod
+Cosmic Forge
+Bedrock Miner
+Solar Dust Collector
+Cosmic Enscriber
+Cosmic Compressor
+Meteorite Chunk
+Meteorite Sword
+Meteorite Pickaxe
+Meteorite Shovel
+Meteorite Hoe
+Meteorite Axe
+Meteorite Ingot
+Dense Rock
+Dense Steel Sword
+Dense Steel Pickaxe
+Dense Steel Shovel
+Dense Steel Hoe
+Dense Steel Axe
+Dense Steel Ingot
+Comet Tail Dust
+Comet Tail Ingot
+Comet Sword
+Comet Pickaxe
+Comet Shovel
+Comet Hoe
+Comet Axe
+Stone Gear
+Crown Shell
+Cascading Shell
+Universal Shells
+Walking Shells
+Titan Hammer
+Horizon Breaker
+Gemstone of the Cosmos
+Iron Rod
+Planetary Crust
+Galactic Nucleus
+Colossal Splitter
+Enigmatic Heart
+Devoid Heart
+Cosmic Gauntlet
+Compressed Gold
+Sturdy Gold Ingot
+Dense Steel Chestplate
+Dense Steel Helmet
+Dense Steel Boots
+Dense Steel Leggings
+Cascading Breastplate
+Galaxy Crown
+Plane Walkers
+Universal Striders
+Meteorite Chestplate
+Meteorite Helmet
+Meteorite Boots
+Meteorite Leggings
+Comet Chestplate
+Comet Helmet
+Comet Boots
+Comet Leggings
+Meteorite Block
+Cosmic Forge
+Bedrock Miner
+Meteorite Ingot Block
+Dense Steel Block
+Dust Collector
+Cosmic Enscriber (WIP)
+Cosmic Compressor
+Astral Well
+Cosmic Soil
+Cosmic Grass Block
+Nova Shield

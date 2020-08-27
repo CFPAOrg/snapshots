@@ -1,0 +1,13 @@
+itemGroup.magic_staffs
+item.base_staff.name
+item.electric_staff.name
+item.fire_staff.name
+item.life_staff.name
+item.toxic_staff.name
+item.magic_essence.name
+item.electric_essence.name
+item.fire_essence.name
+item.life_essence.name
+item.toxic_essence.name
+tile.infuser.name
+container.infuser

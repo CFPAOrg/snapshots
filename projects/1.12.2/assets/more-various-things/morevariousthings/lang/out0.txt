@@ -1,0 +1,137 @@
+Coal powder
+Ash dust
+Eternal stick
+Jade
+Ruby
+Sapphire
+Topaz
+Super quartz
+Amethyst
+Opal
+Onyx
+Garnet
+Adamantite ingot
+Orichalcum ingot
+Crow feather
+Crow egg
+Tanzanite
+Hammer
+Copper ingot
+Copper sword
+Uranium sword
+Uranium ingot
+Uranium rod
+Insane
+Autumn Leaves
+Autumn Leaves
+Autumn Leaves
+Sandstone sword
+Sandstone pickaxe
+Sandstone axe
+Sandstone hoe
+Sandstone shovel
+Netherrack sword
+Netherrack shovel
+Netherrack axe
+Netherrack pickaxe
+Netherrack hoe
+Sapphire sword
+Sapphire shovel
+Sapphire axe
+Sapphire pickaxe
+Sapphire hoe
+Sapphire helmet
+Sapphire chestplate
+Sapphire leggings
+Sapphire boots
+Ruby sword
+Ruby shovel
+Ruby axe
+Ruby pickaxe
+Ruby hoe
+Ruby helmet
+Ruby chestplate
+Ruby leggings
+Ruby boots
+Jade sword
+Jade shovel
+Jade axe
+Jade pickaxe
+Jade hoe
+Jade helmet
+Jade chestplate
+Jade leggings
+Jade boots
+Topaz sword
+Topaz shovel
+Topaz axe
+Topaz pickaxe
+Topaz hoe
+Topaz helmet
+Topaz chestplate
+Topaz leggings
+Topaz boots
+Super quartz sword
+Super quartz axe
+Super quartz pickaxe
+Super quartz shovel
+Super quartz hoe
+Amethyst sword
+Amethyst axe
+Amethyst pickaxe
+Amethyst shovel
+Amethyst hoe
+Amethyst helmet
+Amethyst chestplate
+Amethyst leggins
+Amethyst boot
+Opal sword
+Opal axe
+Opal pickaxe
+Opal shovel
+Opal hoe
+Opal helmet
+Opal chestplate
+Opal leggins
+Opal boot
+Onyx sword
+Onyx axe
+Onyx pickaxe
+Onyx shovel
+Onyx hoe
+Onyx helmet
+Onyx chestplate
+Onyx leggins
+Onyx boot
+Garnet sword
+Garnet axe
+Garnet pickaxe
+Garnet shovel
+Garnet hoe
+Garnet helmet
+Garnet chestplate
+Garnet leggins
+Garnet boot
+Adamantite sword
+Adamantite axe
+Adamantite pickaxe
+Adamantite shovel
+Adamantite hoe
+Adamantite helmet
+Adamantite chestplate
+Adamantite leggins
+Adamantite boot
+Orichalcum sword
+Orichalcum axe
+Orichalcum pickaxe
+Orichalcum shovel
+Orichalcum hoe
+Orichalcum helmet
+Orichalcum chestplate
+Orichalcum leggins
+Orichalcum boot
+Tanzanite sword
+Tanzanite axe
+Tanzanite pickaxe
+Tanzanite shovel
+Tanzanite hoe

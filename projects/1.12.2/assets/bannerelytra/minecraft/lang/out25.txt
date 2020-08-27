@@ -1,0 +1,102 @@
+Purple Chief Dexter Canton
+Cyan Chief Dexter Canton
+Light Gray Chief Dexter Canton
+Gray Chief Dexter Canton
+Pink Chief Dexter Canton
+Lime Chief Dexter Canton
+Yellow Chief Dexter Canton
+Light Blue Chief Dexter Canton
+Magenta Chief Dexter Canton
+Orange Chief Dexter Canton
+White Chief Dexter Canton
+Black Chief Sinister Canton
+Red Chief Sinister Canton
+Green Chief Sinister Canton
+Brown Chief Sinister Canton
+Blue Chief Sinister Canton
+Purple Chief Sinister Canton
+Cyan Chief Sinister Canton
+Light Gray Chief Sinister Canton
+Gray Chief Sinister Canton
+Pink Chief Sinister Canton
+Lime Chief Sinister Canton
+Yellow Chief Sinister Canton
+Light Blue Chief Sinister Canton
+Magenta Chief Sinister Canton
+Orange Chief Sinister Canton
+White Chief Sinister Canton
+Black Base
+Red Base
+Green Base
+Brown Base
+Blue Base
+Purple Base
+Cyan Base
+Light Gray Base
+Gray Base
+Pink Base
+Lime Base
+Yellow Base
+Light Blue Base
+Magenta Base
+Orange Base
+White Base
+Black Chief
+Red Chief
+Green Chief
+Brown Chief
+Blue Chief
+Purple Chief
+Cyan Chief
+Light Gray Chief
+Gray Chief
+Pink Chief
+Lime Chief
+Yellow Chief
+Light Blue Chief
+Magenta Chief
+Orange Chief
+White Chief
+Black Pale Dexter
+Red Pale Dexter
+Green Pale Dexter
+Brown Pale Dexter
+Blue Pale Dexter
+Purple Pale Dexter
+Cyan Pale Dexter
+Light Gray Pale Dexter
+Gray Pale Dexter
+Pink Pale Dexter
+Lime Pale Dexter
+Yellow Pale Dexter
+Light Blue Pale Dexter
+Magenta Pale Dexter
+Orange Pale Dexter
+White Pale Dexter
+Black Pale Sinister
+Red Pale Sinister
+Green Pale Sinister
+Brown Pale Sinister
+Blue Pale Sinister
+Purple Pale Sinister
+Cyan Pale Sinister
+Light Gray Pale Sinister
+Gray Pale Sinister
+Pink Pale Sinister
+Lime Pale Sinister
+Yellow Pale Sinister
+Light Blue Pale Sinister
+Magenta Pale Sinister
+Orange Pale Sinister
+White Pale Sinister
+Black Pale
+Red Pale
+Green Pale
+Brown Pale
+Blue Pale
+Purple Pale
+Cyan Pale
+Light Gray Pale
+Gray Pale
+Pink Pale
+Lime Pale

@@ -1,0 +1,52 @@
+Sick of hand crafting with UU? Look no further.
+Round and round it goes!
+Uncrafts craftables with an 80 percent chance of return.
+Mines bedrock ore in a 5x5 area below it
+Must be placed on bedrock/bedrock ore
+Requires tungsten mining pipes to function
+Use lubricant to negate damage to pipes
+Outputs to the top.
+Detects player activity in a radius
+Range: 8 unpowered, 32 powered.
+Sneak click empty handed to toggle mode
+Stops nasty creatures from spawning,
+Range: 16 unpowered, 64 powered.
+Transmits energy wirelessly within dimensions
+Install a Sensor Stick to set target position.
+FUUUUUUUU-SION, HAH!
+Structure:
+5x1x5 "circular" ring of (24) Fusion Coils,
+Controller centered in the ring
+Power In: Left, Right, Up, or Down
+Power Out: Front or Back
+Psssst its free energy!
+Structure:
+Controller, with 8-255 iron fence rods on top
+Power Out: Front, Back, Left, Right, or Down
+Converts logs into Brittle Charcoal blocks,
+Must be placed on a log,
+Logs can be placed in any shape,
+Logs must be surrounded by dirt or grass,
+Processes up to 800 logs at a time
+Harness the teleportation power of the dragon egg!
+A generator running off magic fuel
+Absorbs magic energy and disenchants items
+Can be used as a battery item or block,
+Accepts power from any side except the top,
+Outputs power only through top side
+Modular energy storage
+Sneak click empty handed to toggle redstone modes
+Power In: Back, Left, Right, Up, or Down
+Power Out: Front
+Energy storage with adjustable output
+Sneak click empty handed to toggle redstone modes
+Interdimensional Storage Unit
+Sneak click empty handed to toggle redstone modes
+Generates a tesseract for the attached inventory
+Accesses tesseracts remotely,
+Install a Sensor Stick to set target tesseract location.
+Transforms extremely high energy sources to a usable level
+For all kinds of projects
+PrEmIuM dOuBlE cHeSt
+Moves items from A to B
+A small directable Hopper with an inbuilt Energy Conduit

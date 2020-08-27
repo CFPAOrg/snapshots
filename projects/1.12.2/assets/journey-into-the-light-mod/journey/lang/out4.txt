@@ -1,0 +1,129 @@
+Silver Sprouts
+Silver Tall Grass
+Euca Dungeon Bricks
+Euca Dungeon Bricks
+Euca Blue Flower
+Euca Bricks
+Euca Chest
+Dark Green Euca Leaves
+Euca Dirt
+Golden Euca Leaves
+Golden Euca Log
+Golden Euca Stairs
+Euca Grass
+Light Green Euca Leaves
+Euca Portal
+Euca Portal Frame
+Euca Pumpkin
+Euca Sapling
+Euca Grass
+Silver Euca Leaves
+Euca Stone
+Euca Tall Flowers
+Euca Tall Grass
+Euca Tile
+Essential Fire
+Firestone Ore
+Flairium Block
+Flairium Ore
+Flame Flower
+Frostberry Thorn
+Frostbiter Spawner
+Frozen Blooms
+Frozen Bricks
+Frozen Chest
+Frozen Dirt
+Frozen Flower
+Frozen Glass
+Frozen Grass
+Ice Sapling
+Frozen Lamp
+Frozen Leaves
+Frozen Log
+Frozen Planks
+Frozen Portal
+Frozen Portal Frame
+Frozen Sapling
+Frozen Stone
+Blue Glowshroom
+Green Glowshroom
+Red Glowshroom
+Gold Loot Box
+Goldbot Spawner
+Golden Bloom
+Golden Bulb
+Golden Stalks
+Golden Euca Plank
+Goldite Bulb
+Goldite Dirt
+Goldite Sunflower
+Goldite Grass
+Goldite Oak Log
+Goldite Stalks
+Gorbite Block
+Gorbite Ore
+Green Gem Block
+Grindstone
+Heat Sand
+Nethic Soil
+Hell Bell
+Hell Thorn
+Hellbot Spawner
+Hellshroom
+Hellstone Block
+Hellstone Ore
+HellThornRoot
+Hellwing Spawner
+Hot Brick
+Hot Brick Fence
+Hot Brick Stairs
+Hot Glass
+Hot Ground
+Ice Bud
+Ice Bush
+Ice Leaves
+Ice Log
+Ice Stone
+Icicle
+Redstone Igniter
+Redstone Igniter
+Incubator
+Incubator
+Inferno Plant
+Iridium Block
+Iridium Ore
+Iron Loot Box
+Journey Chest
+Juiceberry Bush
+Korite Block
+Korite Ore
+Deconstructed Lament
+Lament Box of Fire
+Lament Box of Heaven
+Lament Box of Decay
+Lament Box of Darkness
+Lament Box of Light
+Lament Box of Hell
+Lament Box of Death
+Lament Box of Life
+Large Nether Brick
+Lava Bloom
+Lava Rock
+Light Blue Cloudia Cloud
+Locked Chest
+Lunite Block
+Lunite Ore
+Lunium Block
+Lunium Ore
+Mage Wall
+Magic Explosive
+Mekyum Block
+Mekyum Ore
+Mini Ghast Spawner
+Mossy Essence Stone
+Nether Chest
+Deadblood Sapling
+Netherweed
+Nethican Sludge
+Nethic Dungeon Bricks
+Nethic Gemstone Block

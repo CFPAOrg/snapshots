@@ -1,0 +1,100 @@
+White Card Table
+Orange Card Table
+Magenta Card Table
+Light Blue Card Table
+Yellow Card Table
+Lime Card Table
+Pink Card Table
+Gray Card Table
+Light Gray Card Table
+Cyan Card Table
+Purple Card Table
+Blue Card Table
+Brown Card Table
+Green Card Table
+Red Card Table
+Black Card Table
+White Double Card Table
+Orange Double Card Table
+Magenta Double Card Table
+Light Blue Double Card Table
+Yellow Double Card Table
+Lime Double Card Table
+Pink Double Card Table
+Gray Double Card Table
+Light Gray Double Card Table
+Cyan Double Card Table
+Purple Double Card Table
+Blue Double Card Table
+Brown Double Card Table
+Green Double Card Table
+Red Double Card Table
+Black Double Card Table
+White Arcade Machine
+Orange Arcade Machine
+Magenta Arcade Machine
+Ligh Blue Arcade Machine
+Yellow Arcade Machine
+Lime Arcade Machine
+Pink Arcade Machine
+Gray Arcade Machine
+Light Gray Arcade Machine
+Cyan Arcade Machine
+Purple Arcade Machine
+Blue Arcade Machine
+Brown Arcade Machine
+Green Arcade Machine
+Red Arcade Machine
+Black Arcade Machine
+White Slot Machine
+Orange Slot Machine
+Magenta Slot Machine
+Light Blue Slot Machine
+Yellow Slot Machine
+Lime Slot Machine
+Pink Slot Machine
+Gray Slot Machine
+Light Gray Slot Machine
+Cyan Slot Machine
+Purple Slot Machine
+Blue Slot Machine
+Brown Slot Machine
+Green Slot Machine
+Red Slot Machine
+Black Slot Machine
+White Dice
+Orange Dice
+Magenta Dice
+Light Blue Dice
+Yellow Dice
+Lime Dice
+Pink Dice
+Gray Dice
+Light Gray Dice
+Cyan Dice
+Purple Dice
+Blue Dice
+Brown Dice
+Green Dice
+Red Dice
+Black Dice
+White Mino (Sudoku)
+Orange Mino (Craps)
+Magenta Mino
+Light Blue Mino
+Yellow Mino (SicBo)
+Lime Mino (Simon)
+Pink Mino (FanTan)
+Gray Mino
+Light Gray Mino (Minesweeper)
+Cyan Mino (Halma)
+Purple Mino
+Blue Mino (Memory)
+Brown Mino
+Green Mino (Mystic Square)
+Red Mino (Roulette)
+Black Mino
+White Arcade Chip
+Orange Arcade Chip (Snake)
+Magenta Arcade Chip
+Light Blue Arcade Chip (MeanMinos)

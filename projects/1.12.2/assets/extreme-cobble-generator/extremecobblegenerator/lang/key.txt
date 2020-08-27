@@ -1,0 +1,2 @@
+itemGroup.extremecobblegenerator:tab
+tile.extremecobblegenerator:cobblegenerator.name

@@ -1,0 +1,64 @@
+Wireless Utilities
+Angled Slime
+Bounces pearls! At angles!
+Note: This block is still a
+work in progress, and the
+physics might not behave how
+you would expect.
+Chunk Charger
+The Chunk Charger charges things
+in a chunk! A whole chunk. One
+single chunk. No more, no less.
+Directional Charger
+The Directional Charger charges things
+in a direction! Given a Range Augment,
+the machine will empower a custom
+rectangular region.
+Positional Charger
+The Positional Charger charges things
+at set positions, as specified by
+Positional Cards.
+Directional Condenser
+The Directional Condenser transmits
+fluids in a direction.
+Positional Condenser
+The Positional Condenser transmits
+fluids to set positions, as
+specified by Positional Cards.
+Directional Desublimator
+The Directional Desublimator transmits
+items in a direction.
+Positional Desublimator
+The Positional Desublimator transmits
+items to set positions, as specified
+by Positional Cards.
+Directional Vaporizer
+The Directional Vaporizer works by
+vaporizing entities within its working
+area and then processing them with its
+installed module.
+Positional Vaporizer
+The Positional Vaporizer works by
+vaporizing entities at set positions
+and then processing them with its
+installed module.
+Infinite Wireless Transmitter
+Directional RS Network
+The Directional RS Network gets
+your network connected wirelessly in
+a direction! Given a Range Augment, it
+will connect a custom rectangular region.
+Positional RS Network
+The Positional RS Network gets
+your network connected wirelessly at
+set positions, as specified by
+Positional Cards.
+Directional AE Network
+The Directional AE Network gets
+your network connected wirelessly in
+a direction! Given a Range Augment, it
+will connect a custom rectangular region.
+Positional AE Network
+The Positional AE Network gets
+your network connected wirelessly at
+set positions, as specified by

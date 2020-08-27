@@ -1,0 +1,8 @@
+tile.endironore.name
+tile.endemeraldore.name
+tile.endgoldore.name
+tile.endredstoneore.name
+itemGroup.tabendores
+tile.endlapisore.name
+tile.endcoalore.name
+tile.enddiamondore.name

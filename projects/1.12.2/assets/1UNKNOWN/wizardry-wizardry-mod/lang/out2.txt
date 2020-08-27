@@ -1,0 +1,34 @@
+Summoned zombies last <DURATION> seconds.
+Break
+Breaks blocks and damages armor.
+Breaks up to <AREA> blocks. No effect on entities.
+Breaks blocks with up to <POTENCY> hardness. Does <POTENCY> damage to a target's armor.
+Burn
+Ignites the target block or entity.
+Lights all blocks within <AREA> blocks on fire. No effect on entities.
+Lights target entity on fire for <DURATION> seconds. No effect on blocks.
+Crashing Fall
+Distribute some of the target's impact damage into any nearby entities.
+<RANGE> increases area checked for nearby entities.
+Effect lasts half a second for each point of <DURATION>.
+Extract
+Extracts items from the target entity or block with an inventory. Respects locked containers.
+The time it takes the item to delay pickup by the nearest entity.
+Less than quarter power searches inventory back to front, less than half searches front to back (hotbar first), more than that removes baubles first, then armpr, then inventory front to back.
+Frost
+Makes opponents slip and slide as if on ice, extinguishes fires, cools liquids, and causes snowfall.
+Extinguishes fires, cools liquids, and places snow within <AREA> blocks of the target. No effect on entities.
+Makes opponents slippery for half a second per point of <DURATION>.
+Gravity Well
+Draws in all entities around the target.
+Pulls in all entities within <AREA> blocks and farther than 2 blocks from the center.
+Pulls entities in with with a force dependent on <POTENCY>.
+Lasts half a second for each point of <DURATION>.
+Leap
+Thrusts you upwards and forwards.
+Can jump in the air once for every 10 points of <POTENCY>. Divides fall distance by 1 + <POTENCY>/8, rounded up.
+Leech
+Will deal magic damage to a target. If that target dies, you get some of their mana into yourself.
+Does a point of magic damage (1 heart) per point of <POTENCY>.
+Illumination
+Places a magical light source at the target location.

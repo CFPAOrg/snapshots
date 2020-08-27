@@ -1,0 +1,2 @@
+tile.avaritiarecipemakerblock.name
+tile.vanillarecipemakerblock.name

@@ -1,0 +1,82 @@
+Algane
+Basic Laser Rifle Casing
+Advanced Laser Rifle Casing
+Elite Laser Rifle Casing
+Ultimate Laser Rifle Casing
+Simple Laser Rifle Core
+Repeating Laser Rifle Core
+Shock Rifle Core
+Shock Orb Projector Core
+Tau Cannon Core
+Laser Modifier
+Rare Laser Modifier
+Modifier Slot Unavailable
+Modifier Kit
+Rare Modifier Kit
+Optical Component Core
+Modifier Component
+Tau Condenser Casing
+Tau Condenser
+Photonic Armament Assembler
+Modifier Manipulator
+Basic Laser Turret Casing
+Advanced Laser Turret Casing
+Elite Laser Turret Casing
+Ultimate Laser Turret Casing
+Photonic Armament Assembler
+Modifier Manipulator
+Laser Turret Casing
+Energy: %s
+Heat: %s
+Power Modifier: %s
+Efficiency Modifier: %s
+Overheat Modifier: %s
+Damage Output: %s
+Energy Usage: %s
+Overheat Rate: %s
+Magnitude: %s
+%s / %s
+Semi-Automatic
+Automatic
+Charge Shot
+Damage
+Fire Rate
+Range
+High Knockback
+Splash Damage
+Use to create a modifier.
+Install!
+Augment!
+Laser rifle has no core!
+Laser rifle has no energy cell!
+Laser rifle is overheating!
+Damage Output
+Energy Usage
+Overheat Rate
+Basic %s
+Advanced %s
+Elite %s
+Ultimate %s
+Laser Rifle
+Laser Repeater
+Shock Rifle
+Shock Orb Projector
+Tau Cannon
+%s Turret
+%1$s absorbed too many photons
+%1$s was lased by %2$s
+%1$s was lased by %2$s using %3$s
+%1$s was bathed in anti-photons
+%1$s was bathed in anti-photons by %2$s
+%1$s was bathed in anti-photons by %2$s using %3$s
+%1$s was caught in an anti-photon blast
+%1$s was blasted with anti-photons by %2$s
+%1$s was blasted with anti-photons by %2$s using %3$s
+%1$s was annihilated
+%1$s was annihilated by %2$s
+%1$s was annihilated by %2$s using %3$s
+%1$s absorbed too many tau particles
+%1$s was blasted with tau particles by %2$s
+%1$s was blasted with tau particles by %2$s using %3$s
+Algane Manual
+This manual will provide instructions and support for the use of your recently-purchased Algane(TM) Photonic Weapons System(R).

@@ -1,0 +1,22 @@
+Warp Controller
+Warper
+Ender Charger
+Warp Card
+Filter
+Ender Infused Steel
+Ender Dust
+Faux Ender Dust
+Quirky Perks
+Add New Interface
+Remove Current Interface
+Reset Filtered Items
+Using Blacklist
+Using Whitelist
+Ignore Oredictionary
+Use Oredictionary
+Strict Metadata
+Fuzzy Metadata
+Strict NBT Data
+Fuzzy NBT Data
+Do not accept Empty
+Accept Empty

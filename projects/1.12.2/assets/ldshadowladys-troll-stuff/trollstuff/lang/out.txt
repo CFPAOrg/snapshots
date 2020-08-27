@@ -1,0 +1,43 @@
+Oak Troll Door
+Iron Ore
+Diamond Ore
+Coal Ore
+Coal Ore
+Stone
+Coal Ore
+Oak Planks
+Emerald Ore
+TNT
+Emerald Ore
+Diamond Block
+Redstone Ore
+Iron Ore
+Redstone Ore
+Gold Ore
+Diamond Ore
+Diamond Ore
+Diamond Ore
+Extreme TNT
+Stone
+Redstone Ore
+Coal Ore
+Coal Ore
+Emerald Ore
+Diamond Ore
+Dirt
+Diamond
+Coal
+Iron Ingot
+Emerald
+Bread
+Diamond Pickaxe
+Troll Sword
+TNT Wand
+Use: Defuse Troll TNT Blocks
+%1$s blew up from Extreme Troll TNT.
+%1$s was blown up from Extreme Troll TNT whilst fighting %2$s.
+Troll Stuff
+HAH!
+Bye Bye!
+No diamonds for you!
+TROLOLOLOLOLOLOLOLOOLLOOLOL!

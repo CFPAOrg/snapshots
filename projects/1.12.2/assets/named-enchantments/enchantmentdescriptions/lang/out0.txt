@@ -1,0 +1,46 @@
+Hold %s%s%s for enchantment descriptions.
+-General protection against attacks, fire, lava, and falling
+-Reduces damage caused by fire and lava
+-Reduces fall and teleportation damage
+-Reduces blast and explosion damage
+-Reduces projectile damage
+-Extends underwater breathing
+-Speeds up how fast you can mine blocks underwater
+-Causes damage to attackers
+-Speeds up how fast you can move underwater
+-Freezes water into ice so that you can walk on it
+-Cursed item can not be removed from player
+-Increases attack damage dealt to mobs
+-Increases attack damage against undead mobs
+-Increases attack damage against spiders
+-Sends enemies backwards
+-Sets target on fire
+-Increases amount of loot dropped when mob is killed
+-Increases damage of sweep attack
+-Increases how fast you can mine
+-Mines blocks themselves
+-Increases durability of item
+-Increases block drops from mining
+-Increases damage dealt by bow
+-Increases knockback dealt
+-Turns arrows into flaming arrows
+-Shoots an infinite amount of arrows
+-Increases chances of catching valuable items
+-Increases the rate of fish biting your hook
+-Uses xp to mend your tools, weapons and armor
+-Cursed item will disappear after player dies
+-Extra XP form mobs and drops
+-Chance to teleport attackers away
+-Makes item shimmer as if it were enchanted
+-Applied withering to target (Melee Weapons)
+-Prevents items from being lost on death
+-Applies withering to the target (Bows)
+-Smelts whatever is mined
+-Adds an additional soul per level
+-Heals the user when a mob or player dies
+-Greatly increases damage and a chance to drop mob or player heads
+-Increases the amount of experience gained when using a tool, sword or bow
+-Instantly smelt the drops of broken blocks.
+-Bows shoot multiple arrows at once, at the cost of only one arrow
+-Increases the storage capacity of certain items and blocks that store things.
+-Instantly crush broken ore blocks into multiple piles of dust

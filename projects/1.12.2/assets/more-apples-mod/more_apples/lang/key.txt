@@ -1,0 +1,3 @@
+item.diamondapple.name
+item.woodapple.name
+item.emeraldapple.name

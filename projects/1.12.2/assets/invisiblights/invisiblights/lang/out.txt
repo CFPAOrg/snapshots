@@ -1,0 +1,5 @@
+Light Source
+Rod of Light
+Rod of Light (Powered)
+Rod of Light (Electric)
+Energy: %1$d/%2$d FE [%3$d%%]

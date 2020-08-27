@@ -1,0 +1,98 @@
+Javelin Manganese
+Javelin Head Manganese
+Hammer Manganese
+Hammer Head Manganese
+Propick Manganese
+Propick Head Manganese
+Knife Manganese
+Knife Blade Manganese
+Scythe Manganese
+Scythe Blade Manganese
+Shears Manganese
+Unfinished Chestplate Manganese
+Chestplate Manganese
+Unfinished Greaves Manganese
+Greaves Manganese
+Unfinished Boots Manganese
+Boots Manganese
+Unfinished Helmet Manganese
+Helmet Manganese
+Manganese Shield
+Raw Manganese Bloom
+Refined Manganese Bloom
+Molten Magnesium
+Magnesium Ingot
+Unshaped Magnesium
+Magnesium Double Ingot
+Double Ingot Magnesium
+Magnesium Scrap
+Scrap Magnesium
+Magnesium Dust
+Dust Magnesium
+Magnesium Nugget
+Nugget Magnesium
+Magnesium Sheet
+Sheet Magnesium
+Magnesium Double Sheet
+Double Sheet Magnesium
+Anvil Magnesium
+Magnesium Tuyere
+Tuyere Magnesium
+Magnesium Lamp
+%s Magnesium Lamp
+Lamp Magnesium
+Pick Magnesium
+Pick Head Magnesium
+Shovel Magnesium
+Shovel Head Magnesium
+Axe Magnesium
+Axe Head Magnesium
+Hoe Magnesium
+Hoe Head Magnesium
+Chisel Magnesium
+Chisel Head Magnesium
+Sword Magnesium
+Sword Blade Magnesium
+Mace Magnesium
+Mace Head Magnesium
+Saw Magnesium
+Saw Blade Magnesium
+Javelin Magnesium
+Javelin Head Magnesium
+Hammer Magnesium
+Hammer Head Magnesium
+Propick Magnesium
+Propick Head Magnesium
+Knife Magnesium
+Knife Blade Magnesium
+Scythe Magnesium
+Scythe Blade Magnesium
+Shears Magnesium
+Unfinished Chestplate Magnesium
+Chestplate Magnesium
+Unfinished Greaves Magnesium
+Greaves Magnesium
+Unfinished Boots Magnesium
+Boots Magnesium
+Unfinished Helmet Magnesium
+Helmet Magnesium
+Magnesium Shield
+Raw Magnesium Bloom
+Refined Magnesium Bloom
+Molten Lithium
+Lithium Ingot
+Unshaped Lithium
+Lithium Double Ingot
+Double Ingot Lithium
+Lithium Scrap
+Scrap Lithium
+Lithium Dust
+Dust Lithium
+Lithium Nugget
+Nugget Lithium
+Lithium Sheet
+Sheet Lithium
+Lithium Double Sheet
+Double Sheet Lithium
+Anvil Lithium
+Lithium Tuyere

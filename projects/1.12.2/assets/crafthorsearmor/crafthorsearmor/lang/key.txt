@@ -1,0 +1,2 @@
+item.crafthorsearmor.horse_armor.chain.name
+item.crafthorsearmor.horse_armor.leather.name

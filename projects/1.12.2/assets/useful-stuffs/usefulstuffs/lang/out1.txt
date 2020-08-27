@@ -1,0 +1,43 @@
+Draw %s light unit per shot
+Using charge from battery has been disabled in config
+Automatically fill the %1$sx%2$s area around it
+TransferRate: %smB per tick*side
+Install to a Well of Water Fall to prevent it from sending water to certain sides of blocks
+Shift+Right click to bind a side of the block
+Right click on a Well to install
+Place logs in the 5x5 area beneath it to boost the effect
+Acquire from lighting a log up while sneaking
+1080 slots for unstackable items
+1080 slots for stacks with NBT
+Holds 6 stacks of food
+Place blocks from the block player looking at to the player
+Put block in offhand to specify blocks to be placed
+MaxRange: %s blocks
+MaxRange: %1$s blocks, %2$sUnlimited durability
+Nothing is in the box
+If you get this in the game, report to the author
+Block Stored: %s
+Cannot pick up unbreakable blocks!
+Shift-Right click to pick a block up
+The durability cost per operation depends on the block.Try to enchant Frugal on this
+Haven't tried Potion of Floating Lily?It makes you float on the water!
+Provide extra 27 slots
+Press %s to switch between them and your current toolbar
+Mute the sound of Nether Portal nearby it
+You are too noisy, man
+Emits redstone signal when there is a player in the %1$sx%2$sx%3$s area around it
+Immune to Fire Damage!
+When equipped on head, falling damage is reduced by 30%s
+When equipped on bauble slot, press %s to open backpack
+This backpack already has another backpack in it !
+Just a normal backpack
+Automatically collect mining resources
+Shift-Right click to open config gui, Equip on bauble slot to make Auto-Pickup work
+Ferments the milk in a milk bag into cheese
+%s/8 buckets of milk
+%s/8 bucket of milk
+%s fermented
+Put in a Milk Fermenter to make cheese
+Shift+Right click to load, Right click to use
+Fill this with 2 buckets of water to make this a infinite source
+Right click to place, Shift+Right click to fill

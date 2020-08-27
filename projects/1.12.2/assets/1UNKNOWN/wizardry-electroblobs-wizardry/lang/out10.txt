@@ -1,0 +1,70 @@
+Frostbite
+Fireskin
+Ice Shroud
+Static Aura
+Transience
+Decay
+Sixth Sense
+Arcane Jammer
+Mind Trick
+Mind Control
+Font of Mana
+Fear
+Imbuement
+Imbuement
+Fire Imbuement
+Frost Imbuement
+Wizardry
+Next Spell
+Previous Spell
+%1$s was killed by %2$s using magic
+%1$s was killed by %2$s using magic
+/%1$s <spell> [player] [damage multiplier] [range multiplier] [duration multiplier] [blast multiplier]
+Successfully cast %1$s
+Successfully cast %1$s; repeat the command to stop
+Successfully cast %1$s as %2$s
+Successfully cast %1$s as %2$s; repeat the command to stop
+Unable to cast %1$s
+There is no such spell with ID %1$s
+/%1$s <player> [player]
+%1$s has been added to %2$s's list of allies
+%1$s has been removed from %2$s's list of allies
+Players cannot be an ally of themselves!
+You do not have permission to change other players' allies
+/%1$s [player]
+Players allied to you: %1$s
+Players allied to %1$s: %2$s
+You do not have permission to view other players' allies
+None
+/%1$s <spell/all/clear> [player]
+There is no such spell with ID %1$s
+Cleared all spell discovery data for %1$s
+Added all spells to %1$s's spell discovery data
+Added %1$s to %2$s's spell discovery data
+Removed %1$s from %2$s's spell discovery data
+Mod Options
+Configure Spells
+Select which spells are enabled
+Spell Configuration
+Set a spell to false to disable it.
+Configure Resistances
+Configure which mobs are immune to different types of magic
+Resistance Configuration
+See descriptions of individual options for more details.
+Configure IDs
+Change the IDs used by wizardry
+ID Configuration
+Change these IDs if they conflict with another mod.
+Tower Rarity
+Ore Dimensions
+Flower Dimensions
+Tower Dimensions
+Spell Book Drop Chance
+Generate Loot
+Firebomb Is Craftable
+Poison Bomb Is Craftable
+Smoke Bomb Is Craftable
+Use Alternate Scroll Recipe
+Teleport Through Unbreakable Blocks
+Show Summoned Creature Names
+Friendly Fire

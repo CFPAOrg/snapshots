@@ -1,0 +1,6 @@
+General ScalingGUIs settings.
+AUTO (MAX)
+SMALL
+NORMAL
+LARGE
+MAIN GUI SCALE

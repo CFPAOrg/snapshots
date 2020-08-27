@@ -1,0 +1,8 @@
+tile.condensertiered_1.name
+tile.condensertiered_2.name
+tile.condensertiered_3.name
+tile.condensertiered_4.name
+tile.condensertiered_5.name
+tile.condensertiered_6.name
+tile.condensertiered_7.name
+tile.condensertiered_8.name

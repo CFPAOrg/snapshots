@@ -1,0 +1,9 @@
+Body temperature int (0 to 25).
+Body temperature celcius (34.33 to 39.88).
+Body temperature fahrenheit (93.80 to 103.80).
+Environment temperature int (0 to 25).
+Environment temperature celcius (-4.2 to 48.3).
+Environment temperature farenheit (24.44 to 118.94).
+Normal Warp.
+Permanent Warp.
+Temporary Warp.

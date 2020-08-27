@@ -1,0 +1,3 @@
+chest-locator.key.main_category
+chest-locator.key.options
+chest-locator.gui.options.title

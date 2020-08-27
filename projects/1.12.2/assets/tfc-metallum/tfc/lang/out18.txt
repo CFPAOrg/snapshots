@@ -1,0 +1,108 @@
+Greaves Boron
+Boron Unfinished Boots
+Unfinished Boots Boron
+Boron Boots
+Boots Boron
+Boron Unfinished Helmet
+Unfinished Helmet Boron
+Boron Helmet
+Helmet Boron
+Boron Shield
+Raw Boron Bloom
+Refined Boron Bloom
+Molten Thorium
+Thorium Ingot
+Unshaped Thorium
+Thorium Double Ingot
+Double Ingot Thorium
+Thorium Scrap
+Scrap Thorium
+Thorium Dust
+Dust Thorium
+Thorium Nugget
+Nugget Thorium
+Thorium Sheet
+Sheet Thorium
+Thorium Double Sheet
+Double Sheet Thorium
+Anvil Thorium
+Thorium Tuyere
+Tuyere Thorium
+Thorium Lamp
+%s Thorium Lamp
+Lamp Thorium
+Pick Thorium
+Pick Head Thorium
+Shovel Thorium
+Shovel Head Thorium
+Axe Thorium
+Axe Head Thorium
+Hoe Thorium
+Hoe Head Thorium
+Chisel Thorium
+Chisel Head Thorium
+Sword Thorium
+Sword Blade Thorium
+Mace Thorium
+Mace Head Thorium
+Saw Thorium
+Saw Blade Thorium
+Javelin Thorium
+Javelin Head Thorium
+Hammer Thorium
+Hammer Head Thorium
+Propick Thorium
+Propick Head Thorium
+Knife Thorium
+Knife Blade Thorium
+Scythe Thorium
+Scythe Blade Thorium
+Shears Thorium
+Unfinished Chestplate Thorium
+Chestplate Thorium
+Unfinished Greaves Thorium
+Greaves Thorium
+Unfinished Boots Thorium
+Boots Thorium
+Unfinished Helmet Thorium
+Helmet Thorium
+Thorium Shield
+Raw Thorium Bloom
+Refined Thorium Bloom
+Molten Manganese
+Manganese Ingot
+Unshaped Manganese
+Manganese Double Ingot
+Double Ingot Manganese
+Manganese Scrap
+Scrap Manganese
+Manganese Dust
+Dust Manganese
+Manganese Nugget
+Nugget Manganese
+Manganese Sheet
+Sheet Manganese
+Manganese Double Sheet
+Double Sheet Manganese
+Anvil Manganese
+Manganese Tuyere
+Tuyere Manganese
+Manganese Lamp
+%s Manganese Lamp
+Lamp Manganese
+Pick Manganese
+Pick Head Manganese
+Shovel Manganese
+Shovel Head Manganese
+Axe Manganese
+Axe Head Manganese
+Hoe Manganese
+Hoe Head Manganese
+Chisel Manganese
+Chisel Head Manganese
+Sword Manganese
+Sword Blade Manganese
+Mace Manganese
+Mace Head Manganese
+Saw Manganese
+Saw Blade Manganese

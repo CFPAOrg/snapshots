@@ -1,0 +1,7 @@
+entity.zombie.name
+tile.mirror.name
+entity.cow.name
+entity.chicken.name
+entity.pig.name
+item.oppositedimension.name
+entity.skeleton.name

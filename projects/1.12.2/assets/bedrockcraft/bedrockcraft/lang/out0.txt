@@ -1,0 +1,90 @@
+Energy: %s / %s
+Apple Juice
+Notch Apple Juice
+Mixed Potion
+Profile: %s
+Bedrock-Alloy
+Bedrock Axe
+Bedrock Boots
+Bedrock Chestplate
+Bedrock Dust
+Bedrock Helmet
+Bedrock Hoe
+Bedrock Leggings
+Bedrock Pickaxe
+Bedrock Shovel
+Bedrock Sword
+Deeprock
+Failed Potion
+High Energy Crystal
+Origin Pearl
+Redrock
+BedrockCraft
+The Origin-Infuser is working. %s left for next pearl.
+IV
+V
+Invalid Redrock
+Wireless-Redstone id: %s
+Advanced Brewery
+Bedrock-Anvil
+Bedrock-Breaker
+High Energy Generator
+Origin-Infuser
+Redrock Receiver
+Redrock Sender
+Bedrock-Pumpkin
+The Bedrock would be too far away from the voidic powers
+Enderman Protection
+Bedrock Golem
+Bedrock Rose
+%s was killed by voidic powers creeping around.
+Ender-Rift
+Empty-Rift
+Contains %s of %s destructive energy
+Any Helmet
+Any Chestplate
+Any Leggings
+Any Boots
+Any Sword
+Any Axe
+Any Pickaxe
+Any Shovel
+Any Hoe
+The next bedrock is available in %s seconds
+The kiln is idle
+The kiln was built invalid
+Origin Fire
+Origin Flint and Steel
+Bedrock-Kiln
+Diorite-Pedestal
+Bedrock-Ritual
+It seems like there's a dimensional barrier between you and your destination
+Unbound Pearl
+Advanced Ender Pearl
+Void-Ore
+Void-Beacon
+Black Totem
+Void Ingot
+Bedrock-Materials
+Immortality Ring
+Void-Tool
+Shape: SWORD
+Shape: AXE
+Shape: PICKAXE
+Shape: SHOVEL
+Shape: HOE
+Modifier: DAMAGE
+Modifier: DIG AOE
+Modifier: SPEED
+Focus: ARROW
+Focus: LIGHTNING
+Focus: WITHER
+Toolsforge
+Material Cost: %s
+This beacon seems to have powers forbidden in this world...
+Origin Fragment
+Bedrock-Information
+Bedrock-Dust Infusion
+Unique Pair
+Place a bedrock above an activated beacon leaving a space of 1 block in between. Now bring the beacon into an explosion. Stand back, it's crushing with a big BOOM unless stabilized. (See Bedrock Rose)
+Place the Empty Rift on top of the Bedrock-Well in the End while the Ender-Dragon is still alive and no Ender-Crystals have been destroyed. It will then charge up.

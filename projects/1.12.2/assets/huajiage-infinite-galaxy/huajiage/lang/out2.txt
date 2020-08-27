@@ -1,0 +1,41 @@
+§6It is the aggregate of Lord.Lu's great power
+Stand Name:
+Stage:
+Model：
+Author：
+Stand:
+Stage:
+Model:
+Author:
+Warning !!!You must prepare your beat equipment to protect yourself,once you died before the end of the effect, you will regret to make this!
+The mysterious key handed down from ancient times is said to further liberate the supreme power of the terror of §e§lLord Lu§7 in the §3§lLord Core
+Wave - §9%s
+Capacity - §b%s
+Charge Hit - §e%s
+§9Wave - §b%s
+Reset Time - §b%ss
+Hit Charge - §e%s
+The Orga leader's sharp, blade-shaped bangs are full of the element of hope (for throwing use, the lower the hit, the higher the damage, and the mark can be attached during the execution of the Requiem).
+You think I'm a yin-yang Orb ? Ko no Master Ball da!§b(Press shift to see more)
+§eServant:%s
+§eMaster:%s
+Empty
+I'm just a key for bike
+Store:
+§b To celebrate! The birth of the most powerful king of Mars---Orga Izka
+§lFrom now on it's called %s §lSquare！
+Oh,pretty shot.
+§bKeep going now!Rider!
+§2Colonel, what are you doing? Colonel!
+§4The way is open. Keep going!§lRide On！
+§6§lAll useless!Ride On！
+§6(BGM)
+%s is plug-in
+Maybe ether is the key?
+§eThe World!!! Time Stop !
+§5§lStar Platinum-§b§lThe World!!!
+Stacks:
+[{"text":"[ HUAJI Age II]:","color":"yellow","bold":true},{"text":"In order to get the best game experience please INSTILL ","color":"aqua","bold":false},{"text":"Patchouli Mod","color":"green","underlined":true,"bold":true,"clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/mc-mods/patchouli"},"hoverEvent":{"action":"show_text","value":"https://www.curseforge.com/minecraft/mc-mods/patchouli"}},{"text":"to elicit the HUAJI Tutorial","color":"aqua","bold":false}]
+ is stored
+You may already have a STAND , if you want to change it , please find a empty tarot card to unload it.  
+§eYour points for stand skill is not enough

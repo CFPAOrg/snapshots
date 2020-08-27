@@ -1,0 +1,110 @@
+Bright Psimetal Flow Plate 
+Ebony Psimetal Block
+Ivory Psimetal Block
+Conjured Block
+Psidust
+Psimetal Ingot
+Psigem
+Ebony Psimetal Ingot
+Ivory Psimetal Ingot
+Ebony Substance
+Ivory Substance
+Focusing Rod
+Iron Rod Frame
+Gold Rod Frame
+Psimetal Rod Frame
+Ebony Psimetal Rod Frame
+Ivory Psimetal Rod Frame
+Creative Rod Frame
+Humble Rod Crux
+Quick Rod Crux
+Bright Rod Crux
+Swift Rod Crux
+Radiant Rod Crux
+Minor Rod Notch
+Flashing Rod Notch
+Medium Rod Notch
+Beaming Rod Notch
+Major Rod Notch
+Glowing Rod Source
+Sparkling Rod Source
+Bursting Rod Source
+White Rod Varnish
+Orange Rod Varnish
+Magenta Rod Varnish
+Light Blue Rod Varnish
+Yellow Rod Varnish
+Lime Rod Varnish
+Pink Rod Varnish
+Gray Rod Varnish
+Light Gray Rod Varnish
+Cyan Rod Varnish
+Purple Rod Varnish
+Blue Rod Varnish
+Brown Rod Varnish
+Green Rod Varnish
+Red Rod Varnish
+Black Rod Varnish
+Rainbow Rod Varnish
+Psi Rod Varnish
+Spell Node
+Programmed Spell Node
+Projectile Spell Node
+Inscribed Projectile Spell Node
+Loopcast Spell Node
+Inscribed Loopcast Spell Node
+Circle Spell Node
+Inscribed Circle Spell Node
+Grenade Spell Node
+Inscribed Grenade Spell Node
+Charge Spell Node
+Inscribed Charge Spell Node
+Mine Spell Node
+Inscribed Mine Spell Node
+Mindful Scroll
+Psimetal Shovel
+Psimetal Pickaxe
+Psimetal Axe
+Psimetal Sword
+Spell Detonator
+Focusing Plate Helmet
+Focusing Plate Chestplate
+Focusing Plate Leggings
+Focusing Plate Boots
+Focusing Plate Tablet
+Focusing Plate Light Sensor
+Focusing Plate Water Sensor
+Focusing Plate Heat Sensor
+Focusing Plate Stress Sensor
+Vector Ruler
+%s overflowed their Psionic Energy
+Frame
+Crux
+Notch
+Source
+Varnish
+Efficiency
+Potency
+Complexity
+Projection
+Bandwidth
+Notches
+Overflow
+Complexity
+Amount of actions
+Potency
+Power of the spell
+Cost
+Psi cost on casting
+Projection
+Amount of tricks
+Bandwidth
+Spell width or height (largest)
+Normal
+Projectile
+Loopcast
+Spell Circle
+Grenade
+Charge
+Mine
+(No Event Handler)

@@ -1,0 +1,103 @@
+Arkose Bismuthinite
+Arkose Garnierite
+Arkose Malachite
+Arkose Magnetite
+Arkose Limonite
+Arkose Sphalerite
+Arkose Tetrahedrite
+Arkose Bituminous Coal
+Arkose Lignite
+Arkose Kaolinite
+Arkose Gypsum
+Arkose Satinspar
+Arkose Selenite
+Arkose Graphite
+Arkose Kimberlite
+Arkose Petrified Wood
+Arkose Sulfur
+Arkose Jet
+Arkose Microcline
+Arkose Pitchblende
+Arkose Cinnabar
+Arkose Cryolite
+Arkose Saltpeter
+Arkose Serpentine
+Arkose Sylvite
+Arkose Borax
+Arkose Olivine
+Arkose Lapis Lazuli
+Arkose Native Ardite
+Arkose Rutile
+Arkose Native Osmium
+Arkose Bauxite
+Arkose Wolframite
+Arkose Cobaltite
+Arkose Thorianite
+Arkose Chromite
+Arkose Pyrolusite
+Arkose Magnesite
+Arkose Spodumene
+Arkose Stibnite
+Arkose Mawsonite
+Arkose Beryl
+Arkose Zircon
+Arkose Villiaumite
+Arkose Rhodochrosite
+Arkose Fluorite
+Arkose Carobbiite
+Arkose Arsenic
+Arkose Spike 
+Arkose Button 
+Arkose Rock
+Arkose Brick
+Raw Arkose
+Smooth Arkose
+Arkose Cobble
+Arkose Bricks
+Arkose Sand
+Arkose Gravel
+Arkose Dirt
+Arkose Clay
+Arkose Grass
+Arkose Dry Grass
+Arkose Clay Grass
+Arkose Path
+Arkose FarmLand
+Smooth Arkose Stairs
+Arkose Cobble Stairs
+Arkose Bricks Stairs
+Smooth Arkose Slab
+Arkose Cobble Slab
+Arkose Bricks Slab
+Smooth Arkose Double Slab
+Cobble Arkose Double Slab
+Bricks Arkose Double Slab
+Smooth Arkose Wall
+Arkose Cobble Wall
+Arkose Bricks Wall
+Jaspillite Native Copper
+Jaspillite Native Gold
+Jaspillite Native Platinum
+Jaspillite Hematite
+Jaspillite Native Silver
+Jaspillite Cassiterite
+Jaspillite Galena
+Jaspillite Bismuthinite
+Jaspillite Garnierite
+Jaspillite Malachite
+Jaspillite Magnetite
+Jaspillite Limonite
+Jaspillite Sphalerite
+Jaspillite Tetrahedrite
+Jaspillite Bituminous Coal
+Jaspillite Lignite
+Jaspillite Kaolinite
+Jaspillite Gypsum
+Jaspillite Satinspar
+Jaspillite Selenite
+Jaspillite Graphite
+Jaspillite Kimberlite
+Jaspillite Petrified Wood
+Jaspillite Sulfur
+Jaspillite Jet
+Jaspillite Microcline

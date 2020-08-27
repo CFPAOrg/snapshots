@@ -1,0 +1,4 @@
+item.milkshake.name
+item.happymeal.name
+item.fries.name
+item.bigmac.name

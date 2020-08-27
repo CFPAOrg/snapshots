@@ -1,0 +1,33 @@
+Armor Softened
+Potion of Armor Softening
+Splash Potion of Armor Softening
+Arrow of Armor Softening
+Lingering Potion of Armor Softening
+Void Infected
+Potion of Void Infecting
+Splash Potion of Void Infecting
+Arrow of Void Infecting
+Lingering Potion of Void Infecting
+Acid Wetted
+Potion of Acid Wetting
+Splash Potion of Acid Wetting
+Arrow of Acid Wetting
+Lingering Potion of Acid Wetting
+Lionheart
+Potion of Lionheart
+Splash Potion of Lionheart
+Arrow of Lionheart
+Lingering Potion of Lionheart
+Icy
+Potion of Icy
+Splash Potion of Icy
+Arrow of Icy
+Lingering Potion of Icy
+%1$s has some mental problem
+%1$s was refracted into pieces
+Heart of %1$s was paralyzed
+[Tinkers' Things] Welcome to use this mod! (This message can be disabled in config)
+[Tinkers' Things] Warning: You are using a §1beta§r version of mod, used for §2preview and testing§r, any contents could be §6modified or deleted§r in the future. This version of mod is §4NOT RECOMMENDED§r for server use. (This message can be disabled in config)
+[Tinkers' Things] Warning:  You are using a §1alpha§r version of mod, which only used for §2preview and testing§r, any contents could be §6modified or deleted§r in the future. And this mod has §4NOT§r been well tested and may have some bugs. Please §4DO NOT§r use this mod for survival mode or server gaming!
+[Tinkers' Things] Warning:  You are using a §1indev§r version of mod, please §4DO NOT§r distribute mod of this version!
+Exp get when used:

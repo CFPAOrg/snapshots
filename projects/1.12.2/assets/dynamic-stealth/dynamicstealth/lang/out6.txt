@@ -1,0 +1,27 @@
+AI
+Client HUD allowances
+Senses
+Threat System
+FILLSCREEN FIXNEWLINES The threat system decides when an entity switches from one attack target to another\n\nThis is similar to threat systems found in some MMORPGs\n \n
+Helper System
+FILLSCREEN Which entities come to the aid of which other entities
+Interactions
+FILLSCREEN Things that happen under special circumstances, eg. stealth attacks
+Items
+Entity-Specific Full Bypass
+FILLSCREEN Entities in this list will completely bypass all DS systems!
+Head Turn Speed
+FILLSCREEN FIXNEWLINES How quickly entities' heads spin during eg. a search sequence\n \n
+Entity-Specific Settings (Advanced)
+Flee
+Can't Reach
+Prevent Pet Teleport
+FILLSCREEN FIXNEWLINES If set to true, wolves, cats, and parrots do not teleport while following their owners\n \n
+Add Null Checks to AI
+FILLSCREEN FIXNEWLINES AI classes to add null checks to (to prevent DS compat-related crashes with AI tasks that don't do null checks)\n\nSyntax is...\nmodid, PartialClassName\n\nmodid is the exact modid of the mod which contains the crashing AI task class\n\nPartialClassName is at least part of the name of the crashing AI task class.  This is a 'contains' check, so any AI task class containing this string as part of its name will have null checks added to it\n \n
+Head Turn Speed
+FILLSCREEN FIXNEWLINES How quickly entities' heads spin during eg. a search sequence\n\nentityID, headTurnSpeed\n\neg...\n\nminecraft:skeleton, 5\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Entity-Specific Flee Thresholds
+FILLSCREEN FIXNEWLINES The % of health at which entities start to flee\n\nentityID, fleeThreshold\n\neg...\n\nminecraft:skeleton, 70\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+HP Threshold
+FILLSCREEN FIXNEWLINES The %% of health at which entities start to flee\n \n

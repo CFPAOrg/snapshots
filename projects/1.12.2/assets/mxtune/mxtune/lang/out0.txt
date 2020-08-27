@@ -1,0 +1,91 @@
+mxTune
+Making Music Starts with Paper
+Paper and Ink
+You need to dirty your hands
+Write Music
+Put pen to the paper
+Buzzing your Lips
+Play Brass Instruments
+Bing Bam Bada-Rum Bing Bong
+Get the Rhythm On with those Percussion
+Strum Thrum Pling Twang
+Pluck those Strings and Grind some Riffs
+Mellow and Smooth, or Raspy and Sassy
+Makethose Reedy Tones Real
+Rosin, Bow and String
+Strings of Joy, Wonder and Melancholy!
+Mellifluous Euphony
+Put Wind in the Pipes
+A Lip Numbing Experience
+Play All the Brass
+Fingers Mallets Sticks
+Play All the Percussion
+Calluses and Broken Strings
+Plucked Them All
+Single Reed!? Too Easy
+Wet All The Reeds
+Twisting Pegs and Crossing Bridges
+Play All the Strings
+Hyperventilated on the Edge
+Played All the Pipes
+Musical Automata
+Craft machines to play music
+Mechanical Genius
+Crafted All Mellifluous Automata
+Spinet Piano
+Music Paper
+Right click to enter MML
+"Sheet Music" - Should never be seen unless the Name is removed.
+Error: No MML Found!
+Lute
+Ukulele
+Mandolin
+Whistle
+Roncadora
+Flute
+Chalumeau
+Tuba
+Lyre
+Electric Guitar
+Violin
+Cello
+Harp
+Tuned Flute
+Tuned Whistle
+Bass Drum
+Snare Drum
+Cymbels
+Hand Chimes
+Recorder
+Trumpet
+Harpsichord
+Harpsichord Coupled
+Standard Perc. Set
+Orchesta Perc. Set
+Piano
+Title
+Shift + right click to insert/remove music
+Creatve Staff of Music
+Shift-Right-Click: Open Playlist Manager, Ctrl+Right-Click: Apply Playlist to Current Chunk, Sneak+Ctrl+Right-Click: Apply Playlist to Current World
+Chunk Tool
+Right-Click to Start
+Gui Test
+Right-Click to open Gui under test
+Band Amp
+Once placed in the world, right click to open inventory. Add up to 12 instruments loaded with sheet music. Activate using a button, or sneak + right click.
+Acoustic Piano
+Electric Piano
+FM Piano
+Harpsichord
+Celeste
+Glockenspiel
+Music Box
+Vibraphone
+Xylophone
+Pipe Organ
+Accordion
+Harmonica
+Nylon Guitar
+Steel Guitar
+Jazz Guitar
+Overdrive Guitar

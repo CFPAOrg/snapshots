@@ -1,0 +1,25 @@
+/f3 <grant|revoke> <aspect|all> <username|all>
+There is no such debug aspect with name '%s'
+'%s' debug aspect was granted to '%s'
+'%s' debug aspect was revoked from '%s'
+Replacements
+Persist Death
+Should the aspects be locked after death?
+X
+Supports the use of colour codes (e.g. '&k')
+Y
+Supports the use of colour codes (e.g. '&k')
+Z
+Supports the use of colour codes (e.g. '&k')
+Facing
+Supports the use of colour codes (e.g. '&k')
+Chunk X
+Supports the use of colour codes (e.g. '&k')
+Chunk Y
+Supports the use of colour codes (e.g. '&k')
+Chunk Z
+Supports the use of colour codes (e.g. '&k')
+Day
+Supports the use of colour codes (e.g. '&k')
+Difficulty
+Supports the use of colour codes (e.g. '&k')

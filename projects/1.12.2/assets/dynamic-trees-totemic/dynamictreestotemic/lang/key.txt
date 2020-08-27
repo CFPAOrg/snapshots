@@ -1,0 +1,3 @@
+item.dynamictreestotemic:redcedarseed.name
+tile.dynamictreestotemic:leaves0.name
+tile.dynamictreestotemic:redcedarbranch.name

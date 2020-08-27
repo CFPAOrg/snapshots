@@ -1,0 +1,5 @@
+item.chemxtweaks.coin_a.name
+item.chemxtweaks.coin_b.name
+item.chemxtweaks.coin_c.name
+item.chemxtweaks.coin_d.name
+itemGroup.chemxtweaks

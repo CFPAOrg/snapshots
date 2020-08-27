@@ -1,0 +1,8 @@
+item.superpickaxe.name
+item.cobblestoneahelmet.name
+item.cobblestoneaboots.name
+item.craftingknife.name
+item.cobblestoneabody.name
+item.cookedflesh.name
+item.gun.name
+item.cobblestonealegs.name

@@ -1,0 +1,8 @@
+Length of Winter
+Length of Winter in Minecraft days. Set to 0 for it to never occur.
+Length of Spring
+Length of Spring in Minecraft days. Set to 0 for it to never occur.
+Length of Summer
+Length of Summer in Minecraft days. Set to 0 for it to never occur.
+Length of Autumn
+Length of Autumn in Minecraft days. Set to 0 for it to never occur.

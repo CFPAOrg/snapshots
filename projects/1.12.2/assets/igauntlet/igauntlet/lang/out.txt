@@ -1,0 +1,70 @@
+Infinity Gauntlet
+Mind Stone
+Space Stone
+Time Stone
+Reality Stone
+Power Stone
+Soul Stone
+Uru Ingot
+Dwarf Hammer
+Awesome Mix Vol. 1
+ Eye of Agamotto
+Walkman
+Awesome Mix
+IGauntlet Tab
+Ash Pile
+Uru Ore
+Tesseract
+Dwarven Stone
+Dwarven Dirt
+Dwarven Cobblestone
+Dwarven Planks
+Dwarven Forge
+Manipulator
+Quick Sand
+Laser
+%1$s got hit by a laser!
+%1$s turned to ashes!
+%1$s felt the power!
+You have drifted!
+Don't hold it for too long!
+Entities Frozen!
+Entities Unfrozen!
+You have been teleported back!
+There needs to be more than one entity in range!
+The cooldown hasn't passed yet!
+Snap is disabled in config!
+This stone hasn't been added yet! Stone :
+You haven't selected a stone yet!
+Revived Ash Piles!
+Couldn't revive any ash piles!
+ You have been spaired!
+Update Checker
+Drift Timeout
+Minimum Drift Range
+Maximum Drift Range
+Extension Range
+Cooldown
+Snap
+CustomDimensionID
+SnapPlayerKill
+Dwarf Dimension ID
+Freeze Range
+Space Stone
+Revive Ash Range
+Revive Ash
+Time Stone
+Reality Stone
+Mind Stone
+Power Stone
+Soul Stone
+ Explode Blocks
+Time Speed
+QuickSand Timer
+QuickSand Range
+Awesome Mix 1
+Snap
+Gauntlet Hum
+I don't feel good Mr Stark!
+Snap
+Special

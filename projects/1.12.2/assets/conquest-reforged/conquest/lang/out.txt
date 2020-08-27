@@ -1,0 +1,47 @@
+Steel Ingot
+Bronze Axe
+Bronze Hoe
+Bronze Pickaxe
+Bronze Shovel
+Bronze Sword
+Steel Axe
+Steel Hoe
+Steel Pickaxe
+Steel Shovel
+Steel Sword
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Hops
+Pile of Apples
+Pile of Potatoes
+Pile of Fish
+Pile of Cocoa Beans
+Pile of Bread
+Pile of Beetroots
+Pile of Hops
+Pile of Cabbage
+Pile of Grapes
+Hammer
+Gold Coin
+Iron Chain
+Paint Brush
+Chisel
+Needle
+Sickle
+Tongs
+Bowsaw
+Campfire
+Basic Refined Blocks
+Advanced Refined Blocks
+Furniture
+Topography
+Organic Blocks
+Open Game Folder
+Show Block Ids
+Conquest

@@ -1,0 +1,58 @@
+/irc <command>
+/servirc <command>
+General Commands:
+IRC Commands:
+InterOp Commands:
+Special Commands:
+/[serv]irc connect <server> [password]
+Could not connect to %s
+/[serv]irc disconnect [server]
+Disconnecting from %s
+/[serv]irc join [server/]<channel> (ex. irc.esper.net/#DevotionIRC)
+Joining channel %s on %s
+/[serv]irc leave [server/]<channel> (ex. irc.esper.net/#DevotionIRC)
+Leaving channel %s on %s
+/[serv]irc who [(<server>|<channel>)]
+%s users online in %s
+[%s] No users online in %s.
+/[serv]irc msg <channel|nick> <message ...>
+Private messages are not enabled.
+/[serv]irc ctcp <channel|nick> <ctcp query ...>
+CTCP queries are not enabled.
+/[serv]irc help <topic>
+/[serv]irc nick [server] <nick>
+[%s] Changing nick to %s
+/servirc twitch <username> <oauth>
+/irc ghost [server] <username>
+/servirc nickserv <username> <password>
+Updated nickserv information for %s
+/irc color <color>
+Name color set to '%s'.
+Name color reset.
+The color '%s' is not allowed on this server.
+'%s' is not a valid color. Use TAB to loop through valid options.
+/irc ignore <nick>
+The user %s is already on your ignore list.
+The user %s is not known to DevotionIRC yet.
+The user %s has been added to your ignore list.
+/irc unignore <nick>
+The user %s is not on your ignore list.
+The user %s is not known to DevotionIRC yet.
+The user %s has been removed from your ignore list.
+InterOP is not enabled.
+/irc op <channel> <user>
+Opping user %s from channel %s
+/irc deop <channel> <user>
+Deopping user %s from channel %s
+/irc voice <channel> <user>
+Voicing user %s from channel %s
+/irc devoice <channel> <user>
+Devoicing user %s from channel %s
+/irc kick <channel> <user> [reason]
+Kicking user %s from channel %s
+/irc ban <channel> <user> [reason]
+Banning user %s from channel %s
+/irc unban <channel> <user>
+Unbanning user %s from channel %s
+/irc umode <channel> <user> <flags>
+Mode %s for user %s in channel %s

@@ -1,0 +1,8 @@
+item.goldenhammer.name
+item.redstonehammer.name
+item.diamondhammer.name
+itemGroup.tabhammercraft
+item.obsidianhammer.name
+item.woodenhammer.name
+item.ironhammer.name
+item.stonehammer.name

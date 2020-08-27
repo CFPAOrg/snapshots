@@ -1,0 +1,2 @@
+tamedrespawn.tamed.message
+tamedrespawn.horse.message

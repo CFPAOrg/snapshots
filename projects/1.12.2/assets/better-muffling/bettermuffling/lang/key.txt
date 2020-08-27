@@ -1,0 +1,7 @@
+gui.muffling_block.title
+button.muffling_block.range.name
+button.muffling_block.placer_only.on.name
+button.muffling_block.placer_only.off.name
+tile.bettermuffling.muffling_block.name
+advancements.muffling.title
+advancements.muffling.description

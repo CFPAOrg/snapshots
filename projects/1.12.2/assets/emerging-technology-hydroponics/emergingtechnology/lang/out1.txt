@@ -1,0 +1,80 @@
+Battery
+Biomass Generator
+Tidal Generator
+Wind Generator
+Biochar Block
+Algorithmic Optimizer
+Guide Light
+Smart Speaker
+Hydroponic Grow Bed
+Harvester
+Water Filler
+CO2 Scrubber
+CO2 Diffuser
+Nutrient Injector
+Hydroponic Grow Light
+Hydroponic Frame
+Aquaponic Frame
+Aquaponic Glass
+Aquaponic Base
+Aquaponic Controller
+Aquaponic Port
+Processor
+Shredder
+Waste Collector
+Block of Bioplastic
+Block of Clear Bioplastic
+Basic Machine Case
+Fabricator
+Bioplastic Ladder
+Shredded Plastic Block
+Shredded Plant Block
+Shredded Starch Block
+Solar Cooker
+Tissue Bioreactor
+Tissue Scaffolder
+Algae Bioreactor
+Piezoelectric Generator
+Solar Panel
+Solar Glass
+Battery
+Biomass Generator
+Tidal Generator
+Wind Generator
+Biochar Block
+Algorithmic Optimizer
+Guide Light
+Smart Speaker
+Carbon Dioxide
+Carbon Dioxide
+Nutrient Fluid
+Nutrient Fluid
+Polluted Dirt
+Polluted Dirt
+Polluted Dirt
+Polluted Sand
+Polluted Sand
+Polluted Sand
+Polluted Gravel
+Polluted Gravel
+Polluted Gravel
+Aquaponic Tank
+Emerging Technology
+Burns Biomass to produce energy.
+Processes animal tissues into usable samples.
+Uses CO2 to produce Algae. Produces faster with Grow Light and bulb above.
+Slowly collects waste plastic and other items when placed in water.
+Uses direct sunlight to cook food items.
+Automates the printing of plastic components.
+Fills adjacent fluid tanks with water.
+Harvests crops automatically.
+Captures CO2 from the surrounding atmosphere.
+Diffuses CO2 to boost surround plants' growth.
+Injects nutrients into water to produce Nutrient Fluid.
+Plants grown on this block can receive a growth boost.
+Provides a growth boost to plants grown below.
+Generates a tiny amount of energy when stepped on.
+Processes raw materials into usable plastics.
+Forms Tissue Samples into synthetic animal products.
+Shreds plants and plastic items into raw materials for the Processor.
+Generates energy when in sunlight.

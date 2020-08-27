@@ -1,0 +1,3 @@
+tile.paintatt:painting_machine.name
+paintatt:gui.progress
+item_group.paintatt

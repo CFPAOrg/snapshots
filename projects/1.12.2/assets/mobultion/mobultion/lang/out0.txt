@@ -1,0 +1,108 @@
+Health pack
+Fire Sword
+Healing Wand
+Heart Arrow
+Forest Bow
+Fork
+Knife
+Hammer
+Hat
+Holy Shard
+Hypno Ball
+Ender Flake
+Ender Blaze
+Ender Glass Shot
+Corrupted Bone
+Corrupted Bonemeal
+Fang Necklace
+Fang
+Magma Arrow
+Magic touch
+Sorcerer Breath
+Wither Spine
+Spine Ash
+PigSheath Helmet
+PigSheath Tunic
+PigSheath Leggings
+PigSheath Boots
+Flaming Chip
+Nether Ruby
+Pigman Flesh
+Thunder Wand
+Hay Hat
+Corrupted Skeleton
+Jester Skeleton
+Magma Skeleton
+Shaman Skeleton
+Sniper Skeleton
+Withering Skeleton
+Skeleton Remains
+Vampire Skeleton
+Heart Arrow
+Magma Arrow
+Angel Spider
+Hypno Spider
+Magma Spider
+Mini Spider
+Mother Spider
+Sorcerer Spider
+Speedy Spider
+Wither Spider
+Spider Egg
+Doctor Zombie
+Goro Zombie
+Knight Zombie
+Magma Zombie
+Worker Zombie
+Ravenous Zombie
+Magma Enderman
+Ice Enderman
+Wanderer Enderman
+Gardener Enderman
+Glass Enderman
+WoodMite
+Blessed
+Jokerness
+Freeze
+Hypnotize
+Vomit
+Potion of Jokerness
+Splash Potion of Jokerness
+Lingering Potion of Jokerness
+Arrow of Jokerness
+Potion of Jokerness
+Splash Potion of Jokerness
+Lingering Potion of Jokerness
+Arrow of Jokerness
+Potion of Hypnotizing
+Splash Potion of Hypnotizing
+Lingering Potion of Hypnotizing
+Arrow of Hypnotizing
+Potion of Hypnotizing
+Splash Potion of Hypnotizing
+Lingering Potion of Hypnotizing
+Arrow of Hypnotizing
+Potion of Hypnotizing
+Splash Potion of Hypnotizing
+Lingering Potion of Hypnotizing
+Arrow of Hypnotizing
+Potion of Wither
+Splash Potion of Wither
+Lingering Potion of Wither
+Arrow of Wither
+Blessed
+Fire arrow being shot
+Entity re-spawning
+Magma skeleton remains dies
+Sniper skeleton shoots
+Jester laughs
+Ravenous zombie eats
+Ravenous zombie burps
+Magic shield block
+Vampire skeleton bites
+Vampire skeleton morphs
+Ravenous zombie pukes
+Magma enderman spits
+Mobultion Tab
+An ingredient to make corrupted bone meal. Can be combined with a holy Shard to make a normal bone.
+This item has a 50/50 chance to either work like bonemeal or to kill your plant, use on your own risk. PS: turn the corrupted bone to a normal bone using a holy shard to avoid the risk.

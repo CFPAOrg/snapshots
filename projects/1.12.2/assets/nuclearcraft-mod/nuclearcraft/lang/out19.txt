@@ -1,0 +1,86 @@
+Hot Eutectic NaK-Ender Mixture
+Hot Eutectic NaK-Ender Mixture
+Molten Cryotheum
+Molten Cryotheum
+Eutectic NaK-Cryotheum Mixture
+Eutectic NaK-Cryotheum Mixture
+Hot Eutectic NaK-Cryotheum Mixture
+Hot Eutectic NaK-Cryotheum Mixture
+Molten Iron
+Molten Iron
+Eutectic NaK-Iron Mixture
+Eutectic NaK-Iron Mixture
+Hot Eutectic NaK-Iron Mixture
+Hot Eutectic NaK-Iron Mixture
+Molten Emerald
+Molten Emerald
+Eutectic NaK-Emerald Mixture
+Eutectic NaK-Emerald Mixture
+Hot Eutectic NaK-Emerald Mixture
+Hot Eutectic NaK-Emerald Mixture
+Molten Copper
+Molten Copper
+Eutectic NaK-Copper Mixture
+Eutectic NaK-Copper Mixture
+Hot Eutectic NaK-Copper Mixture
+Hot Eutectic NaK-Copper Mixture
+Molten Tin
+Molten Tin
+Eutectic NaK-Tin Mixture
+Eutectic NaK-Tin Mixture
+Hot Eutectic NaK-Tin Mixture
+Hot Eutectic NaK-Tin Mixture
+Molten Magnesium
+Molten Magnesium
+Eutectic NaK-Magnesium Mixture
+Eutectic NaK-Magnesium Mixture
+Hot Eutectic NaK-Magnesium Mixture
+Hot Eutectic NaK-Magnesium Mixture
+Radiation:
+Rad Resistance:
+Food Effects:
+Copper Ingot
+Tin Ingot
+Lead Ingot
+Thorium Ingot
+Uranium Ingot
+Boron Ingot
+Lithium Ingot
+Magnesium Ingot
+Graphite Ingot
+Beryllium Ingot
+Zirconium Ingot
+Manganese Ingot
+Aluminum Ingot
+Silver Ingot
+Thorium Oxide Ingot
+Uranium Oxide Ingot
+Manganese Oxide Ingot
+Manganese Dioxide Ingot
+Copper Dust
+Tin Dust
+Lead Dust
+Thorium Dust
+Uranium Dust
+Boron Dust
+Lithium Dust
+Magnesium Dust
+Graphite Dust
+Beryllium Dust
+Obtained alongside Coal when breaking Coal Ore.
+Zirconium Dust
+Obtained alongside Nether Quartz when breaking Nether Quartz Ore.
+Manganese Dust
+Aluminum Dust
+Silver Dust
+Thorium Oxide Dust
+Uranium Oxide Dust
+Manganese Oxide Dust
+Manganese Dioxide Dust
+Rhodochrosite
+Obtained alongside Redstone when breaking Redstone Ore.
+Cubic Boron Nitride
+Fluorite
+Obtained alongside Lapis Lazuli when breaking Lapis Lazuli Ore.
+Villiaumite
+Obtained alongside Diamonds when breaking Diamond Ore.

@@ -1,0 +1,102 @@
+Maiden's Materials Blocks
+Maiden's Materials Items
+Gatherer's Glee
+Floral Fortune
+Potion of Gatherer's Glee
+Potion of Floral Fortune
+Splash Potion of Gatherer's Glee
+Splash Potion of Floral Fortune
+Lingering Potion of Gatherer's Glee
+Lingering Potion of Floral Fortune
+Arrow of Gatherer's Glee
+Arrow of Floral Fortune
+Fancy Feet
+Flower Power
+Marvelous Materials Manual
+Pruning Shears
+ Mortar & Pestle
+Mica Powder
+Grout
+Guide Book
+Door Plans Style 1
+Door Plans Style 2
+Door Plans Style 3
+Door Plans Style 4
+Door Plans Style 5
+Door Plans Style 6
+Whitewash
+SilverBell Blossoms
+Crabapple Blossoms
+Dogwood Blossoms
+Paulownia Blossoms
+Laburnum Blossoms
+Jacaranda_Blossoms
+Wisteria Blossoms
+Floral Essence
+Amethyst Chunk
+Aventurine Chunk
+Carnelian Chunk
+Chalcopyrite Chunk
+Citrine Chunk
+Jade Chunk
+Jasper Chunk
+Labradorite Chunk
+Mica Chunk
+Moonstone Chunk
+Rose Quartz Chunk
+Sodalite Chunk
+Earthen Essence
+Dark Iron Mixture
+Dark Iron Ingot
+Dark Iron Inlay
+Amethyst Fragments
+Aventurine Fragments
+Carnelian Fragments
+Chalcopyrite Fragments
+Citrine Fragments
+Jade Fragments
+Jasper Fragments
+Labradorite Fragments
+Mica Fragments
+Moonstone Fragments
+Rose Quartz Fragments
+Sodalite Fragments
+Pulverized Red Pigment
+Pulverized Orange Pigment
+Pulverized Yellow Pigment
+Pulverized Lime Pigment
+Pulverized Green Pigment
+Pulverized Cyan Pigment
+Pulverized Light Blue Pigment
+Pulverized Blue Pigment
+Pulverized Purple Pigment
+Pulverized Magenta Pigment
+Pulverized Pink Pigment
+Pulverized White Pigment
+Pulverized Light Gray Pigment
+Pulverized Gray Pigment
+Pulverized Black Pigment
+Pulverized Brown Pigment
+Red Clay
+Orange Clay
+Yellow Clay
+Lime Clay
+Green Clay
+Cyan Clay
+Light Blue Clay
+Blue Clay
+Purple Clay
+Magenta Clay
+Pink Clay
+White Clay
+Light Gray Clay
+Gray Clay
+Black Clay
+Brown Clay
+Red Clay Mix
+Orange Clay Mix
+Yellow Clay Mix
+Lime Clay Mix
+Green Clay Mix
+Cyan Clay Mix
+Light Blue Clay Mix

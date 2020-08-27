@@ -1,0 +1,13 @@
+itemGroup.ultimatools
+item.beginner.name
+item.scholar.name
+item.farmer.name
+item.forest_runner.name
+item.knight.name
+item.lighter.name
+item.soothsayer.name
+item.blood_magician.name
+item.ultima_fighter.name
+item.cursed_knight.name
+item.ultima_god.name
+item.ore_better.name

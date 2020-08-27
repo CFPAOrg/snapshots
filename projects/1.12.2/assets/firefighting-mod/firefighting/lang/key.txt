@@ -1,0 +1,15 @@
+itemGroup.fftab
+item.asbestos.name
+item.tubing.name
+item.fire_extinguisher.name
+item.water_tanks.name
+item.fire_hose.name
+tile.hydrant.name
+tile.sprinkler.name
+tile.asbestos_plank0.name
+tile.asbestos_plank1.name
+tile.asbestos_plank2.name
+tile.asbestos_plank3.name
+tile.asbestos_plank4.name
+tile.asbestos_plank5.name
+death.attack.asbestos_damage

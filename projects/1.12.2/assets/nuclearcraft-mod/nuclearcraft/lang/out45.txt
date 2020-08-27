@@ -1,0 +1,121 @@
+Hold Ctrl for more info
+Nuclear Furnace
+Manufactory
+Isotope Separator
+Decay Hastener
+Fuel Reprocessor
+Alloy Furnace
+Fluid Infuser
+Melter
+Supercooler
+Electrolyzer
+Neutron Irradiator
+Ingot Former
+Pressurizer
+Chemical Reactor
+Salt Mixer
+Crystallizer
+Fluid Enricher
+Fluid Extractor
+Centrifuge
+Rock Crusher
+Machine Configuration
+Machine Interface
+Buffer
+Universal Bin
+Fission Controller (Old)
+Fission Controller
+Fission Controller
+Fission Reactor Port
+Fusion Core
+Fusion Core
+Fusion Core
+Fusion Electromagnet
+Transparent Fusion Electromagnet
+Superconducting Electromagnet
+Superconducting Supercooler
+Helium Collector
+Compact Helium Collector
+Dense Helium Collector
+Cobblestone Generator
+Compact Cobblestone Generator
+Dense Cobblestone Generator
+Infinite Water Source
+Compact Infinite Water Source
+Dense Infinite Water Source
+Nitrogen Collector
+Compact Nitrogen Collector
+Dense Nitrogen Collector
+Radiation Scrubber
+Fission Reactor
+Casing Incomplete
+Casing Incomplete at
+Extra Controller at
+Casing In Interior at
+Invalid Structure
+No Problem
+Pos
+No Fuel
+Fuel
+Cells:
+Efficiency:
+Heat Level:
+Net Heat Gen:
+Cooling Rate:
+Heat Multiplier:
+Fuel Remaining:
+TBU
+LEU
+HEU
+LEN
+HEN
+LEP
+HEP
+MOX-239
+MOX-241
+LEA
+HEA
+LECm
+HECm
+LEB
+HEB
+LECf
+HECf
+Ox
+Fusion Reactor
+Ring Incomplete
+Ring Incomplete
+Ring Interior Blocked
+E-magnets not Powered
+Invalid Structure
+No Problem
+Toroid Size:
+Energy:
+Power:
+Temp:
+Temperature:
+Temperature Change:
+Active Cooling Rate:
+Efficiency:
+Current Fuels:
+Empty
+Unable to access the fusion reactor - the structure is incomplete
+Molten Salt Reactor
+BlockPos
+Fission Vessels:
+Coolant Heaters:
+Mean Raw Efficiency:
+Max Mean Raw Efficiency:
+Mean Heat Multiplier:
+Max Mean Heat Multiplier:
+Cooling Efficiency:
+Heat Stored:
+Net Heat Gen:
+Cooling Rate:
+Heat Exchanger
+Number of Tubes:
+Mean Efficiency:
+Max Mean Efficiency:
+Tubes Active:
+Turbine
+Power:

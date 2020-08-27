@@ -1,0 +1,4 @@
+item.thermalunderwear_head.name
+item.thermalunderwear_chest.name
+item.stitched_reed.name
+tooltip.thermalunderwear.damage

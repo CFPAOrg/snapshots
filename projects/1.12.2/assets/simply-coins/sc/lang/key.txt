@@ -1,0 +1,7 @@
+item.unus.name
+item.quinque.name
+item.decem.name
+item.quindecim.name
+item.coin_pouch.name
+itemGroup.coinstab
+coinpouch.text.gui

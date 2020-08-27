@@ -1,0 +1,3 @@
+Painting Machine
+Progress: %1$d%%
+Paint ALL the things!

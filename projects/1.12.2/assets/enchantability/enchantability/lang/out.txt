@@ -1,0 +1,19 @@
+You can only enchant yourself with one enchant.
+This enchantment does not effect you.
+No information given.
+Following effects applied:
+Self Enchant:
+Reduces the block damages cause by explosions which affected you.
+Increases output of manual crafting (Terms and Conditions apply).
+Empowers you from the sun, inhibits you during night.
+Increases experience from smelting items.
+Allows you to walk on air.
+Travel from voids of The End to the heavens of the Overworld.
+Increases your reach distance.
+Increases Experience dropped from killing monsters.
+Enhances the eaten foods with special effects at a cost of XP (Terms and Conditions apply).
+Reflects arrows shot at you.
+Increases the mining speed with your bare hands.
+Prevents animals from getting hurt when you attack.
+Decreases your speed when you fall.
+Causes lightning to strike when you hit enemies with a sword.

@@ -1,0 +1,33 @@
+Copper Ore
+Tin Ore
+Lead Ore
+Thorium Ore
+Uranium Ore
+Boron Ore
+Lithium Ore
+Magnesium Ore
+Copper Block
+Tin Block
+Lead Block
+Thorium Block
+Uranium Block
+Boron Block
+Lithium Block
+Magnesium Block
+Graphite Block
+Graphite is only considered active if adjacent to at least one Reactor Cell. Active graphite increases a reactor's efficiency, but also produces some extra heat. For each graphite block the additional power generated is equal to %s, and the additional heat generated is equal to %s.
+Beryllium Block
+Beryllium is only considered active if adjacent to at least one Reactor Cell. Active beryllium increases a reactor's efficiency, but also produces some extra heat. For each beryllium block the additional power generated is equal to %s, and the additional heat generated is equal to %s.
+Zirconium Block
+Manganese Block
+Aluminum Block
+Silver Block
+baseRF*cellEff/%s RF/t for each adjacent reactor cell
+baseHeat*cellEff/%s H/t for each adjacent reactor cell
+Fission Reactor Moderator
+Fission Reactor Casing
+Used in the construction of fission reactors. To form a valid structure, build a cuboid shell of casing, making sure to *exclude* the edges. Then place a fission controller along an edge, at a corner or within one of the faces of the structure. If the GUI shows an error, make sure the structure is valid. Then fill the interior with reactor cells, coolers and moderator blocks to start generating energy from your fission fuels!
+Blast Block
+A highly blast resistant block which is perfect for protection against explosives.
+Transparent Fission Reactor Casing
+Used in the construction of fission reactors. To form a valid structure, build a cuboid shell of casing, making sure to *exclude* the edges. Then place a fission controller along an edge, at a corner or within one of the faces of the structure. If the GUI shows an error, make sure the structure is valid. Then fill the interior with reactor cells, coolers and moderator blocks to start generating energy from your fission fuels!

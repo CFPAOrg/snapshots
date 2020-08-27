@@ -1,0 +1,117 @@
+Obsidian TNT
+Enriched Alloy
+Reinforced Alloy
+Atomic Alloy
+Energy Tablet
+Speed Upgrade
+Energy Upgrade
+Filter Upgrade
+Muffling Upgrade
+Gas Upgrade
+Anchor Upgrade
+Robit
+Atomic Disassembler
+Electric Bow
+Enriched Iron
+Compressed Carbon
+Compressed Redstone
+Compressed Diamond
+Compressed Obsidian
+Portable Teleporter
+Teleportation Core
+Configurator
+Network Reader
+Walkie-Talkie
+Jetpack
+Scuba Tank
+Gas Mask
+Dictionary
+Electrolytic Core
+Sawdust
+Salt
+Brine Bucket
+Lithium Bucket
+Heavy Water Bucket
+Free Runners
+Armored Jetpack
+Configuration Card
+Seismic Reader
+HDPE Pellet
+HDPE Rod
+HDPE Sheet
+PlaStick
+Substrate
+Flamethrower
+Gauge Dropper
+Bio Fuel
+Crafting Formula
+Basic Control Circuit
+Advanced Control Circuit
+Elite Control Circuit
+Ultimate Control Circuit
+Basic Gas Tank
+Advanced Gas Tank
+Elite Gas Tank
+Ultimate Gas Tank
+Creative Gas Tank
+Basic Fluid Tank
+Advanced Fluid Tank
+Elite Fluid Tank
+Ultimate Fluid Tank
+Creative Fluid Tank
+Cardboard Box
+Bounding Block
+Salt Block
+Osmium Block
+Bronze Block
+Refined Obsidian
+Charcoal Block
+Refined Glowstone
+Steel Block
+Basic Bin
+Advanced Bin
+Elite Bin
+Ultimate Bin
+Creative Bin
+Teleporter Frame
+Steel Casing
+Dynamic Tank
+Structural Glass
+Dynamic Valve
+Copper Block
+Tin Block
+Thermal Evaporation Controller
+Thermal Evaporation Valve
+Thermal Evaporation Block
+Induction Casing
+Induction Port
+Basic Induction Cell
+Advanced Induction Cell
+Elite Induction Cell
+Ultimate Induction Cell
+Basic Induction Provider
+Advanced Induction Provider
+Elite Induction Provider
+Ultimate Induction Provider
+Superheating Element
+Pressure Disperser
+Boiler Casing
+Boiler Valve
+Security Desk
+Enrichment Chamber
+Osmium Compressor
+Combiner
+Crusher
+Factory
+Metallurgic Infuser
+Purification Chamber
+Energized Smelter
+Teleporter
+Electric Pump
+Personal Chest
+Chargepad
+Logistical Sorter
+Digital Miner
+Rotary Condensentrator
+Chemical Oxidizer
+Chemical Infuser

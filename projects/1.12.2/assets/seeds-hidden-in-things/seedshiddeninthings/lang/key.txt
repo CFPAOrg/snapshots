@@ -1,0 +1,11 @@
+itemGroup.seedshiddeninthings
+item.daemonumbra.seedshiddeninthings.seedypoo.name
+item.item.daemonumbra.seedshiddeninthings.seedypoo
+daemonumbra.seedshiddeninthings.config.seedrng
+daemonumbra.seedshiddeninthings.config.seedrng.tooltip
+daemonumbra.seedshiddeninthings.config.seeds
+daemonumbra.seedshiddeninthings.config.seeds.tooltip
+daemonumbra.seedshiddeninthings.config.poopchance
+daemonumbra.seedshiddeninthings.config.poopchance.tooltip
+daemonumbra.seedshiddeninthings.config.timetopoopchance
+daemonumbra.seedshiddeninthings.config.timetopoopchance.tooltip

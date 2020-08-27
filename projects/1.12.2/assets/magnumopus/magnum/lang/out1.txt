@@ -1,0 +1,100 @@
+Vitrified Frame Chest Plate
+Vitrified Frame Leggings
+Vitrified Frame Boots
+Vitrified Mesh Helmet
+Vitrified Mesh Chest Plate
+Vitrified Mesh Leggings
+Vitrified Mesh Boots
+Sinuous Flesh Helmet
+Sinuous Flesh Chest Plate
+Sinuous Flesh Leggings
+Sinuous Flesh Boots
+Grave Soil
+Ephemeral Stone
+Ignitor
+Block Breaker
+Rain Detector
+Moon Phase Detector
+Vitrified Stone Drain
+Vitrified Pitfall Spikes
+Vitrified Stone Stairs
+Spider Egg
+Jungle Spider Egg
+Jungle Spider Egg
+Nether Spider Egg
+Void Spider Egg
+Vitrified Spider Egg
+Mud Sarira Urn
+Adobe Sarira Urn
+Terracotta Sarira Urn
+Ciniscotta Sarira Urn
+White Candle
+Orange Candle
+Magenta Candle
+Light Blue Candle
+Yellow Candle
+Lime Candle
+Pink Candle
+Gray Candle
+Silver Candle
+Cyan Candle
+Pruple Candle
+Blue Candle
+Brown Candle
+Green Candle
+Red Candle
+Black Candle
+Lit White Candle
+Lit Orange Candle
+Lit Magenta Candle
+Lit Light Blue Candle
+Lit Yellow Candle
+Lit Lime Candle
+Lit Pink Candle
+Lit Gray Candle
+Lit Silver Candle
+Lit Cyan Candle
+Lit Pruple Candle
+Lit Blue Candle
+Lit Brown Candle
+Lit Green Candle
+Lit Red Candle
+Lit Black Candle
+Anchored Stone
+Orange Anchored Stone
+Magenta Anchored Stone
+Light Blue Anchored Stone
+Yellow Anchored Stone
+Lime Anchored Stone
+Pink Anchored Stone
+Gray Anchored Stone
+Silver Anchored Stone
+Cyan Anchored Stone
+Pruple Anchored Stone
+Blue Anchored Stone
+Brown Anchored Stone
+Green Anchored Stone
+Red Anchored Stone
+Black Anchored Stone
+Anchored Glass
+Orange Anchored Glass
+Magenta Anchored Glass
+Light Blue Anchored Glass
+Yellow Anchored Glass
+Lime Anchored Glass
+Pink Anchored Glass
+Gray Anchored Glass
+Silver Anchored Glass
+Cyan Anchored Glass
+Purple Anchored Glass
+Blue Anchored Glass
+Brown Anchored Glass
+Green Anchored Glass
+Red Anchored Glass
+Black Anchored Glass
+Vitrified Stone
+Smooth Vitrified Stone
+Stacked Vitrified Stone
+Vitrified Brick
+Vitrified Cobblestone
+Chiseled Vitrified Stone

@@ -1,0 +1,67 @@
+Blue Rose Boots
+Blue Rose Leggings
+Blue Rose Chestplate
+Blue Rose Helmet
+Nixium Boots
+Nixium Leggings
+Nixium Chestplate
+Nixium Helmet
+Tenium Boots
+Tenium Leggings
+Tenium Chestplate
+Tenium Helmet
+Pyrodes Shovel
+Pyrodes Axe
+Pyrodes Pickaxe
+Pyrodes Sword
+Pyrodes Hoe
+Pyrodes Large Sword
+Heavy Shovel
+Heavy Axe
+Heavy Pickaxe
+Heavy Sword
+Heavy Hoe
+Heavy Large Sword
+Nixium Shovel
+Nixium Axe
+Nixium Pickaxe
+Nixium Sword
+Nixium Hoe
+Nixium Large Sword
+Tenium Shovel
+Tenium Axe
+Tenium Pickaxe
+Tenium Sword
+Tenium Hoe
+Tenium Large Sword
+Crystal Stick
+Coppir Stick
+Silvir Stick
+Goldir Stick
+Staff Heal
+Staff Teleportation
+Staff Explosion
+Staff FireBall
+Staff Heal
+Staff Teleportation
+Staff Explosion
+Staff FireBall
+Staff Heal
+Staff Teleportation
+Staff Explosion
+Staff FireBall
+Frozen Buffalo Raw
+Frozen Buffalo
+Frozen Boarchop Raw
+Frozen Boarchop
+Fruit Ball : Red
+Fruit Ball : Blue
+Fruit Ball : Green
+Rose Finder
+Froz Key
+Pyrodes Bow
+Blue Rose Petal
+Ankh
+Gas Mask
+Blue Rose Shard
+Tirphy Craft

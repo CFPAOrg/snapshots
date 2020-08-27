@@ -1,0 +1,91 @@
+Everdawn Blocks
+Blue Skies Misc Blocks
+Blue Skies Misc
+Blue Skies Tools
+Blue Skies Combat
+Dungeon Objects
+Moonstone shatters
+Portal shimmers
+Ominous woosh
+Snow blows
+Dust blows
+Azulfo huffs
+Azulfo hurts
+Azulfo dies
+Reindeer whispers
+Reindeer grunts
+Reindeer dies
+Stardust Ram baahs
+Stardust Ram dies
+Firefly squishes
+Nycto Bug buzzes
+Nycto Bug chomps
+Nycto Bug hurts
+Nycto Bug dies
+Frost Spirit whispers
+Frost Spirit hurts
+Frost Spirit shatters
+Venom Spider gurgles
+Venom Spider hurts
+Venom Spider dies
+Venom Spider spits
+Summoner grumbles
+Summoner hurts
+Summoner dies
+Summoner casts spell
+Summoner regenerates
+Summoner prepares attack
+Summoner prepares summoning
+Alchemist grunts
+Alchemist hurts
+Alchemist dies
+Alchemist casts spell
+Alchemist prepares rock formation
+Alchemist regenerates
+Alchemist charges
+Alchemist prepares conversion
+Alchemist prepares potion clouds
+Alchemist prepares attack
+Blue Skies
+Forever Bright?
+Forever Dawn?
+Now You're Thinking with Portals!
+Infusion!
+Thinking Different!
+Bane of my Existence
+Exterminator!
+A New Dawn
+A Bright Future!
+My, My, This Blue Sky Pie!
+Regrowth
+Staying Pink
+1 Down, 3 to go
+Tragic Magic!
+Potent Opponent!
+The Blue Skies Mod.
+Build an Everbright portal and enter it.
+The Everdawn Dimension.
+Build an Everdawn portal and enter it.
+Enter both the Everbright and Everdawn.
+Find an Infused Dusk Arc Sword from a dungeon.
+Find a Different Sword from a dungeon.
+Walk into a Baneful Mushroom and enjoy the consiquences.
+Kill all of the hostile bugs in the Everdawn.
+Punch a Lunar Log.
+Punch a Bluebright Log.
+Make a Cherry Pie.
+Obtain a Cherry Tree Sapling.
+Grow and eat a Pink Raspberry.
+Obtain a key from a dungeon.
+Kill the Summoner Illager Boss.
+Kill the Alchemist Illager Boss.
+Stargazer
+Observer
+Gate Keeper
+Nightwatcher
+Wrangler
+Breeder
+Shoveler
+%1$s was chomped by %2$s
+%1$s was turned into rubble
+%1$s was stabbed with a rock

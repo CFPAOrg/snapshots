@@ -1,0 +1,12 @@
+item.trollhuntingbody.name
+advancements.becomehunterachievement.title
+item.trollhuntinghelmet.name
+item.amuletwith1.name
+item.amulet.name
+item.trollhuntinglegs.name
+advancements.becomehunterachievement.descr
+item.birthstone.name
+tile.stonecombiner.name
+item.swordofdaylight.name
+itemGroup.tabtrollhunter
+item.trollhuntingboots.name

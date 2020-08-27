@@ -1,0 +1,6 @@
+item.craftableobsidianstonepebble.name
+item.craftableobsidianobsidianshard.name
+item.craftableobsidianironhammer.name
+item.craftableobsidianironchisel.name
+item.craftableobsidianstonepowder.name
+item.craftableobsidianmagmacore.name

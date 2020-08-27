@@ -1,0 +1,72 @@
+JumpTo Station
+Sneak and right click to store a shared targeted JumpTo Pearl and a stack of ender pearls as "fuel"
+Poisoned Plant
+Poisoned Crop
+Poisoned Sapling
+Poisoned Grass
+Poisoned Flowers
+Worked Red Flint
+Lapis Lazuli Fragment
+Waastis Eaticus Larva
+Dropped from manure blocks
+Sticky Lil Poops
+Nature's glue...
+Whack a' Leaf Stick
+Shears leaves, vines, and grass. Harvests albino apples from dark oak trees
+Concentrated Life Essence
+Obtain by combining 3 life essence items
+Life Essence
+Obtain by draining absorbed life essence from a barren talisman
+Lift Twine
+Liquid Slime
+Snacks on player Xp so don't stand in it!
+Locked Enchantment Book
+Lumiball
+Lumiball Splotch
+Throwable light source
+Macuahuitl
+Manure
+Dropped occasionally by cows, horses, llamas, and other animals
+Ball o' Manure
+Block of Manure
+Tool Mending Table
+Repairs tools and weapons using mending twine and a bit o' Xp
+Mending Twine
+Mob Spawner
+Mob-Zapper!
+Mob-Zap o' Meter
+Place down to see if you're within a Mob Zapper protected zone (will light up)
+Moo Shroo Poo
+Dropped rarely by mooshroom cows
+Moo Shroo Poo Fungi
+Grows only on pinkly mycelium
+Mud Slicer
+Use to slice skulls into flat head plaquettes
+Netherrack Gravel
+Pre Gravel
+Nether Slurry
+Wart Compost
+Will spontaneously sprout netherwarts
+Depleted Compost
+Dropped from depleted or dried compost blocks
+Obsidian Obliterator
+Loot only item. Use to quickly mine obsidian blocks and shards
+Packed Pinkly Eggs
+Lots o' Slimy Gunk
+Lots o' Slimy Gunk
+Lots o' Plain Caca
+Lots o' Pinkly Caca
+Lots o' Toxic Caca
+Parrot Egg
+Dropped occasionally by cuddling parrots
+Parrot Feather
+Piercing Marble
+Piercing Striker
+Pigmanosaurus Poo
+Fossilized Pigmanosaurus Poo
+Fossilized Pigmanosaurus Poo
+Fossilized Pigmanosaurus Poo
+Pillaging Sword
+Triggers special drops when used against hapless villagers, but take care not to anger their protectors!
+Pinked Slurry
+Pinkly Egg

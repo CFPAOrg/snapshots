@@ -1,0 +1,64 @@
+Twitch Username
+OAuth Token
+Login anonymously (read-only)
+Connect
+Oops! Something went wrong.
+To Clipboard
+The server would like to redirect DevotionIRC:
+Server:
+Channel(s):
+The server would like to disable DevotionIRC.
+Always allow this server to redirect me
+Allow
+Reject
+Channel Bot Commands: %s
+Unknown command. Type HELP to see a list of all available commands.
+Message sent to %s: %s
+%d players online:
+No players online.
+You do not have permission to use this command.
+You are not authenticated with IRC services.
+This command has been blacklisted from InterOp.
+That player cannot be found.
+This is not a multiplayer world. Use /irc instead.
+This command only works on the server side. Use the GUI (default: I) or the config file for the client settings.
+Usage:
+<link removed>
+%s is not supported on this server.
+Now chatting to %s
+Connecting to %s
+Reconnecting to %s in %d seconds...
+Connected to %s
+Disconnected from %s
+%s has changed the topic for %s:
+The channel %s is configured as read-only.
+Nickname %s is already in use. Trying %s
+%s is not a valid nickname.
+Could not connect to %s: %s
+IRC Error: '%s' %s
+IRC Error: %s
+IRC Error: Calm down, you're typing too fast!
+IRC Error: Services are currently offline.
+You are already connected to %s
+You have joined %s in %s already.
+You have to specify a channel.
+You have to specify a server.
+The server at %s cannot be found.
+The user %s cannot be found.
+Invalid target. Expected %s.
+You are not connected to the server at %s.
+You are not connected to IRC.
+You are not on channel %s
+You need to be identified with IRC services to join %s
+General
+Basic DevotionIRC Settings
+Network (Advanced)
+Advanced network settings to configure SSL usage and proxies
+Screenshots
+Screenshot Settings
+Notifications
+Notification Settings
+Compatibility (Advanced)
+Compatibility Settings
+Theme
+Color settings for names and text in chat. Can be overridden by servers and channels.

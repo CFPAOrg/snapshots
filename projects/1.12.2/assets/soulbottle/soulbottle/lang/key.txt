@@ -1,0 +1,4 @@
+item.soul_bottle.name
+item.enderpearl_bottle.name
+soulbottle.not_included
+soulbottle.included

@@ -1,0 +1,95 @@
+Granite Bauxite
+Diorite Bauxite
+Gabbro Bauxite
+Shale Bauxite
+Claystone Bauxite
+Rocksalt Bauxite
+Limestone Bauxite
+Conglomerate Bauxite
+Dolomite Bauxite
+Chert Bauxite
+Chalk Bauxite
+Rhyolite Bauxite
+Basalt Bauxite
+Andesite Bauxite
+Dacite Bauxite
+Quartzite Bauxite
+Slate Bauxite
+Phyllite Bauxite
+Schist Bauxite
+Gneiss Bauxite
+Marble Bauxite
+Granite Wolframite
+Diorite Wolframite
+Gabbro Wolframite
+Shale Wolframite
+Claystone Wolframite
+Rocksalt Wolframite
+Limestone Wolframite
+Conglomerate Wolframite
+Dolomite Wolframite
+Chert Wolframite
+Chalk Wolframite
+Rhyolite Wolframite
+Basalt Wolframite
+Andesite Wolframite
+Dacite Wolframite
+Quartzite Wolframite
+Slate Wolframite
+Phyllite Wolframite
+Schist Wolframite
+Gneiss Wolframite
+Marble Wolframite
+Granite Native Ardite
+Diorite Native Ardite
+Gabbro Native Ardite
+Shale Native Ardite
+Claystone Native Ardite
+Rocksalt Native Ardite
+Limestone Native Ardite
+Conglomerate Native Ardite
+Dolomite Native Ardite
+Chert Native Ardite
+Chalk Native Ardite
+Rhyolite Native Ardite
+Basalt Native Ardite
+Andesite Native Ardite
+Dacite Native Ardite
+Quartzite Native Ardite
+Slate Native Ardite
+Phyllite Native Ardite
+Schist Native Ardite
+Gneiss Native Ardite
+Marble Native Ardite
+Granite Native Osmium
+Diorite Native Osmium
+Gabbro Native Osmium
+Shale Native Osmium
+Claystone Native Osmium
+Rocksalt Native Osmium
+Limestone Native Osmium
+Conglomerate Native Osmium
+Dolomite Native Osmium
+Chert Native Osmium
+Chalk Native Osmium
+Rhyolite Native Osmium
+Basalt Native Osmium
+Andesite Native Osmium
+Dacite Native Osmium
+Quartzite Native Osmium
+Slate Native Osmium
+Phyllite Native Osmium
+Schist Native Osmium
+Gneiss Native Osmium
+Marble Native Osmium
+Granite Cobaltite
+Diorite Cobaltite
+Gabbro Cobaltite
+Shale Cobaltite
+Claystone Cobaltite
+Rocksalt Cobaltite
+Limestone Cobaltite
+Conglomerate Cobaltite
+Dolomite Cobaltite
+Chert Cobaltite
+Chalk Cobaltite

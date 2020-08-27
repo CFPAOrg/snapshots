@@ -1,0 +1,6 @@
+bobsans.simplehomes.config.allowWarpPoints
+bobsans.simplehomes.config.allowWarpPoints.tooltip
+bobsans.simplehomes.config.maximumWarpPoints
+bobsans.simplehomes.config.maximumWarpPoints.tooltip
+bobsans.simplehomes.keys.general
+bobsans.simplehomes.keys.fastHome

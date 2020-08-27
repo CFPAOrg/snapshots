@@ -1,0 +1,19 @@
+Completely unreadable!
+Corporea Solidifier
+Treat corporea requests as items
+The &1Corporea Solidifier&0 acts as a replacement for the &1Corporea Retainer&0. When placed next to a &1Corporea Interceptor&0, the &1Corporea Solidifier&0, instead of remembering the interceptor's request, will create a &1Corporea Ticket&0 containing the item and item count of the request.
+Note that the &1Sanvocalia&0 functional flower seems to be particularly interested in the energies these &1Corporea Tickets&0 give off.
+Up, up, down, up
+Corporea Spark Tinkerer
+Change corporea networks with redstone
+The &1Corporea Spark Tinkerer&0 works much like a &1Spark Tinkerer&0, but for &1Corporea Spark&0 networks, as opposed to &1Spark Augments&0. When the &1Corporea Spark Tinkerer&0 is placed next to a block with a &1Corporea Spark&0 on it, it will switch colors with a random adjacent &1Corporea Spark&0 when given a redstone signal.
+The color of the &1Corporea Spark Tinkerer&0 itself can be manually adjusted by rubbing some &1Floral Powder&0 against it.
+Flip and invert
+Corporea Retainer Evaporator
+Wither away a retainer signal
+The &1Corporea Retainer Evaporator&0 is an addon to the &1Corporea Retainer&0, similar to how the &1Corporea Retainer&0 is itself an addon for the &1Corporea Interceptor&0. When the &1Corporea Retainer Evaporator&0 receives a redstone signal, the item counts of all stored requests in adjacent &1Corporea Retainers&0 will decrease by 1.
+Note that this process is destructive; powering the &1Corporea Retainer&0 after decrementing its request size will cause it to perform a request of the new size. Using multiple retainers off of the same &1Corporea Interceptor&0 could prove useful.
+Cha os [Chal len ge ]
+Soul Cores
+Spirit-specific interactions
+&1Soul Cores&0 surround and envelop a &4Player's Soul&0 in a light &4Mana&0 solution, ever-so-slightly reanimating it. The &4Soul&0 is stabilized as a disembodied head, and while not capable of too much remaining brain function, is somehow entangled with the real, live &4Player&0. Provided that they're in the same &4Dimension&0.

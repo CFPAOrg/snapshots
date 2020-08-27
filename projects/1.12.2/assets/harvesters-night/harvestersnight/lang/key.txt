@@ -1,0 +1,16 @@
+item.harvestersnight.harvester_scythe.name
+entity.harvestersnight.harvester.name
+subtitles.harvestersnight.entity.harvester.charge
+subtitles.harvestersnight.entity.harvester.spell
+subtitles.harvestersnight.entity.harvester.spawn
+subtitles.harvestersnight.entity.harvester.hurt
+subtitles.harvestersnight.entity.harvester.die
+config.harvestersnight.title
+config.harvestersnight.weight
+config.harvestersnight.chance
+config.harvestersnight.mode
+config.harvestersnight.dim
+config.harvestersnight.isboss
+config.harvestersnight.healthbar
+config.harvestersnight.lightning
+config.harvestersnight.laugh

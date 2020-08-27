@@ -1,0 +1,48 @@
+Codex
+End City Book
+Fortress Book
+Mansion Book
+Mineshaft Book
+Monument Book
+Stronghold Book
+Temple Book
+Village Book
+Jungle Temple Book
+Desert Pyramid Book
+Swamp Hut Book
+Igloo Book
+Moon Village Book
+Koentus Village Book
+Fronos Village Book
+Nibiru Village Book
+Abandoned Base Book
+Lunarin Style Gold Brick
+Lunarin Style Iron Brick
+Farmer
+Fisherman
+Shepherd
+Fletcher
+Librarian
+Cleric
+Armorer
+Weapon Smith
+Tool Smith
+Butcher
+Leatherworker
+Nitwit
+Cartographer
+Blacksmith
+Mason
+Controls everything that's not name syllable pools
+Collection of the pools of syllables accessible to the name generator
+O, brave new world that has such people in't!
+§aEmerald Standard
+Obtain the maximum reputation in a village
+§6Archaeologist
+Identify multiple different kinds of structures
+§4You're A Monster
+Obtain the minimum reputation in a village
+Ghost Town
+Create a Village Book for an empty village
+§cFidelity
+Befriend a lonely golem

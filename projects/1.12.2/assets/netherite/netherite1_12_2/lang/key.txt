@@ -1,0 +1,16 @@
+advancements.finalstage.descr
+item.netheritepickaxe.name
+tile.blockofnetherite.name
+item.netheritearmorhelmet.name
+item.netheritearmorbody.name
+item.netheritearmorboots.name
+advancements.finalstage.title
+item.netheritesword.name
+item.netheriteingot.name
+item.netheriteshovel.name
+item.netheritehoe.name
+item.netheriteaxe.name
+itemGroup.tabnetherite
+item.netheritearmorlegs.name
+tile.ancientdebris.name
+item.netheritescrap.name

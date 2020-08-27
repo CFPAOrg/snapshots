@@ -1,0 +1,17 @@
+tile.cubeloader.cubeloader.name
+tile.cubeloader.unloaddetector.name
+tile.cubeloader.unloaddetector.tooltip
+itemGroup.cubeloader
+cubeloader.gui.cubeloader.button.enable
+cubeloader.gui.cubeloader.button.disable
+cubeloader.gui.cubeloader.slider.x
+cubeloader.gui.cubeloader.slider.y
+cubeloader.gui.cubeloader.slider.z
+cubeloader.gui.cubeloader.status.disabled
+cubeloader.gui.cubeloader.status.nofuel
+cubeloader.gui.cubeloader.status.enabled
+cubeloader.gui.cubeloader.owner
+cubeloader.gui.cubeloader.owner.unknown
+cubeloader.gui.cubeloader.localcubesloaded
+cubeloader.gui.cubeloader.localcubesloaded.override.1
+cubeloader.gui.cubeloader.overcap

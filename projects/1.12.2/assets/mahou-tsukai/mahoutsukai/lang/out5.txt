@@ -1,0 +1,39 @@
+Projected Durability Flat Value
+Whether the projected durability is based on max damage (false) or just flat (true)
+Power Consolidation Sword Exchange Mana Cost
+This is the cost per sword transformation.
+Power Consolidation Lake Mana Cost
+This is the cost per cycle for creating the lake.
+Power Consolidation Lake Operation Cycle (in Ticks)
+This is how often the lake does it's thing to make a lake
+Power Consolidation Lake Size
+This is the max radius of the lake
+Power Consolidation Lake Threshhold
+This is the minimum threshhold a lake needs to be to be able to transform a sword into Caliburn.
+Power Consolidation Nerf Factor
+This is a nerf factor applied to enchantments to reduce the amount of power that can be consolidated. Lower is less nerf.
+Power Consolidation Fog Radius
+This is the distance before the lake begins to generate fog. (Note: Higher values may decrease FPS)
+Caliburn Pull Radius
+This is the range for pulling undead mobs with Caliburn
+Caliburn Durability
+How much durability Caliburn has.
+Caliburn Fear Radius
+This is the range for undead mobs to fear Caliburn
+Caliburn Sweep Radius
+Entities must be this close to the wielder of Caliburn to be affected by the sweep.
+Caliburn Sweep Look Vector Radius
+Entities must be this close to the wielder of Caliburn's look vector to be affected by the sweep.
+Caliburn Attack Cap
+The highest attack Caliburn can go to
+Caliburn Ring Speed
+Multiplier for Caliburn ring speed
+Caliburn Blacklist
+Acts as a blacklist if the toggle is on
+Caliburn Blacklist Toggle
+Toggles the blacklist functionality
+Power Consolidation Retro Fog Fix
+Toggles whether it water should attempt to create tile entities. Only needed for old worlds with murky water in them.
+Alchemical Exchange Operation Cycle (in Ticks)
+This is how often the circle changes a layer underneath it
+Alchemical Exchange Height (in blocks)

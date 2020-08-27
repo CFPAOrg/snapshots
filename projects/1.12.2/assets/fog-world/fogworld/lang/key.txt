@@ -1,0 +1,5 @@
+death.attack.fog
+death.attack.fog.player
+fogworld.config.title
+fogworld.general.fogbiomeblacklist
+fogworld.general.fogdimensionblacklist

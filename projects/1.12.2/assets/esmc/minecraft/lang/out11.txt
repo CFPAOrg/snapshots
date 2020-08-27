@@ -1,0 +1,86 @@
+Wither
+Witch
+Guardian
+Elder Guardian
+Shulker
+Polar Bear
+Evoker
+Vex
+Vindicator
+Parrot
+Illusioner
+Farmer
+Fisherman
+Shepherd
+Fletcher
+Librarian
+Cleric
+Armorer
+Weapon Smith
+Tool Smith
+Butcher
+Leatherworker
+Nitwit
+Cartographer
+Pig
+Sheep
+Cow
+Chicken
+Squid
+Wolf
+Ocelot
+Cat
+Bat
+Horse
+Donkey
+Mule
+Skeleton Horse
+Zombie Horse
+Rabbit
+The Killer Bunny
+Llama
+Block of TNT
+Falling Block
+Minecart
+Minecart with Hopper
+Minecart with Chest
+Boat
+unknown
+%1$s fell off a ladder putting up Christmas lights
+%1$s fell off some vines when touching a spider
+%1$s fell out of the water thast carried them swiftly down to safety
+%1$s fell from a very high monument
+%1$s was doomed to fall
+%1$s was doomed to fall by %2$s
+%1$s was doomed to fall by %2$s using %3$s
+%1$s fell too far and was finished by %2$s
+%1$s fell too far and was finished by %2$s using %3$s
+%1$s was struck by lightning whilst flying a kite
+%1$s went up in flames, Disco Inferno!
+%1$s walked into fire whilst fighting %2$s
+%1$s burned and didn't get to the ER in time
+%1$s was burnt to a crisp whilst fighting %2$s
+%1$s couldn't resist the warm glow of lava
+%1$s tried to swim in lava to escape %2$s
+%1$s discovered floor was lava
+%1$s walked into danger zone due to %2$s
+%1$s suffocated in a wall
+%1$s was squished too much
+%1$s forgot floaties and drowned
+%1$s drowned whilst trying to escape %2$s
+%1$s starved to death because this game is too hard.  LOL
+%1$s was hugging a cactus
+%1$s walked into a cactus whilst trying to escape %2$s
+%1$s commited sudoku
+%1$s E X P L O D E D
+%1$s was blown up by %2$s
+%1$s was killed by magic
+%1$s withered away
+%1$s was squashed by a falling anvil
+%1$s was squashed by a falling block
+%1$s was tore up from the floor up by %2$s
+%1$s was hurted for calling Oerkii a fool by %2$s
+%1$s was smoked by %2$s using %3$s
+%1$s was shot by %2$s
+%1$s was shot by %2$s using %3$s
+%1$s was fireballed by %2$s

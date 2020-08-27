@@ -1,0 +1,64 @@
+Pinkly Sheep 4.0
+Wabbity Mistake (PnK)
+Wabbity Mistake (PnK)
+Wabbity Mistake (PnK)
+Wabbity Mistake (PnK)
+Pinkly Sheep
+General Settings
+Animal Drops' Volumes
+Pinkly Effects
+Mod Integration
+(%1$d uses left)
+(1 use left)
+(%1$d/%2$d uses left)
+(~%1$d uses left)
++RSHIFT
++LSHIFT
++RSHIFT for full description...
++LSHIFT for more details...
++%1$s for %2$s
++%1$s+%2$s to %3$s
+Albino Apple
+Dropped from leaves of dark oak trees grown in forests or swamps
+Albino Melon
+Harvest to obtain random rainbow slices
+Obtain plants by applying pinkly poo to a grass area. Look for the glowing baby melon stems at night. Let plant produce one melon before breaking
+Albino Melon Seed
+Dropped from mature albino melon plants only
+Albino Melon Plant
+Antibiotic (Infection)
+Clears up wound infections pronto and restores your natural healing ability
+Antitoxin (Spider Venom)
+Stops effects of venom and purges any accumulated venom toxin from your system
+Stunted Carrot
+Obtain by applying sludge renew to a carrot field
+Toxic Carrots
+Toxic Potato
+Obtain by applying sludge renew to a potato field
+Toxic Potatoes
+Tainted Souls Wart
+Grows only on Tainted Souls Sand
+Tainted Souls Wart
+Blighted Wheat
+Blighted Wheat Seeds
+Obtain by spamming a wheat field with Sludge Renew!
+Medicated Bandages
+Use to mitigate bleeding damage from gashing weapons and to stop infection
+Bandages
+Use to mitigate bleeding damage from gashing weapons
+SunFrost Dried Potatoes
+Can poison you. Eat directly only if desperate!
+SunFrost Dryable Potatoes
+Place in open, cold, dry place to process
+Dead Albino Melon Plant
+Jack's Lost Beans
+Plant in the middle of a 5x5 dirt plot for a beanstalk sapling
+{SUMM}. Found rarely in a stronghold's library or in a lucky nitwit's inventory.
+Miner's Stew (+Veggie)
+Miner's Stew (+Chicken)
+Miner's Stew (+Meat)
+Miner's Stew
+Pinkly Apple
+Wild Blue Potato
+Wild Potato (Poison)
+Wild Gold Potato

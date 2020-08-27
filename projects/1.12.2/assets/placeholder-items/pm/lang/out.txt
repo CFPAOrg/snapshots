@@ -1,0 +1,49 @@
+Placeholders
+Placeholder 1
+Placeholder 2
+Placeholder 3
+Placeholder 4
+Placeholder 5
+Placeholder 6
+Placeholder 7
+Placeholder 8
+Placeholder 9
+Placeholder 10
+Placeholder 11
+Placeholder 12
+Placeholder 13
+Placeholder 14
+Placeholder 15
+Placeholder 16
+Placeholder Ore 1
+Placeholder Ore 2
+Placeholder Ore 3
+Placeholder Ore 4
+Placeholder Ore 5
+Placeholder Ore 6
+Placeholder Ore 7
+Placeholder Ore 8
+Placeholder Ore 9
+Placeholder Ore 10
+Placeholder Ore 11
+Placeholder Ore 12
+Placeholder Ore 13
+Placeholder Ore 14
+Placeholder Ore 15
+Placeholder Ore 16
+Placeholder Stone 1
+Placeholder Stone 2
+Placeholder Stone 3
+Placeholder Stone 4
+Placeholder Stone 5
+Placeholder Stone 6
+Placeholder Stone 7
+Placeholder Stone 8
+Placeholder Stone 9
+Placeholder Stone 10
+Placeholder Stone 11
+Placeholder Stone 12
+Placeholder Stone 13
+Placeholder Stone 14
+Placeholder Stone 15
+Placeholder Stone 16

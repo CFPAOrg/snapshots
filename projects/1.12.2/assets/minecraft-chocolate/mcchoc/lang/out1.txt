@@ -1,0 +1,104 @@
+Amethyst Block
+Amethyst Stairs
+Peridot
+Peridot Ore
+Peridot Block
+Peridot Stairs
+Malachite
+Malachite Block
+Malachite Pillar
+Chiseled Malachite Block
+Malachite Stairs
+Malachite Ore
+Carnelian
+Carnelian Block
+Carnelian Pillar
+Chiseled Carnelian Block
+Carnelian Stairs
+Carnelian Ore
+Turquoise
+Turquoise Block
+Turquoise Pillar
+Chiseled Turquoise Block
+Turquoise Stairs
+Turquoise Ore
+Wax
+Gold Door
+Gold Fence
+Gold Fence Gate
+Iron Fence
+Iron Fence Gate
+Copper Door
+Copper Fence
+Copper Fence Gate
+Lead Door
+Lead Fence
+Lead Fence Gate
+Silver Door
+Silver Fence
+Silver Fence Gate
+Steel Door
+Steel Fence
+Steel Fence Gate
+Aluminum Door
+Aluminum Fence
+Aluminum Fence Gate
+Titanium Door
+Titanium Fence
+Titanium Fence Gate
+Tungsten Door
+Tungsten Fence
+Tungsten Fence Gate
+Black Redstone Lamp
+Red Redstone Lamp
+Green Redstone Lamp
+Brown Redstone Lamp
+Light Gray Redstone Lamp
+Purple Redstone Lamp
+Gray Redstone Lamp
+Lime Redstone Lamp
+Yellow Redstone Lamp
+Cyan Redstone Lamp
+Magenta Redstone Lamp
+Orange Redstone Lamp
+Blue Redstone Lamp
+Light Blue Redstone Lamp
+White Redstone Lamp
+Pink Redstone Lamp
+Spike Trap
+Poison Spike Trap
+Black Terracotta Switch
+Red Terracotta Switch
+Green Terracotta Switch
+Brown Terracotta Switch
+Light Gray Terracotta Switch
+Gray Terracotta Switch
+Purple Terracotta Switch
+Lime Terracotta Switch
+Yellow Terracotta Switch
+Cyan Terracotta Switch
+Magenta Terracotta Switch
+Orange Terracotta Switch
+Blue Terracotta Switch
+Light Blue Terracotta Switch
+White Terracotta Switch
+Pink Terracotta Switch
+Oak Switch
+Spruce Switch
+Birch Switch
+Jungle Switch
+Acacia Switch
+Dark Oak Switch
+Black Concrete Switch
+Red Concrete Switch
+Green Concrete Switch
+Brown Concrete Switch
+Light Gray Concrete Switch
+Dark Gray Concrete Switch
+Purple Concrete Switch
+Lime Concrete Switch
+Yellow Concrete Switch
+Cyan Concrete Switch
+Magenta Concrete Switch
+Orange Concrete Switch
+Blue Concrete Switch

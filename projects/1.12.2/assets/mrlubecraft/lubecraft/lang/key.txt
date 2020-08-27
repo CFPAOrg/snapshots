@@ -1,0 +1,15 @@
+item.lubeingot.name
+item.lubearmorlegs.name
+item.lubeaxe.name
+item.lubehoe.name
+tile.lubechest.name
+item.lubearmorhelmet.name
+item.lubesword.name
+tile.lubeyingotblock.name
+item.lubearmorboots.name
+item.lubeshovel.name
+itemGroup.tablubecraft
+item.lubepick.name
+entity.lubemrlubert.name
+tile.lubeore.name
+item.lubearmorbody.name

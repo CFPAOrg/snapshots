@@ -1,0 +1,66 @@
+§5§oBoth the spine and the heart were ripped out of this villager. Truly, a worthless wretch.
+§5§oA Weeper without its spine is nothing but its head.
+§5§oAn abomination.
+§5§oOne does not need a heart to weep. It will survive just fine.
+§5§oA Weeper without its spine is nothing but its head.
+§5§oA disembodied head, content in its sorrow.
+§5§oIt sleeps. Don't awaken it. Please.
+Containing: 
+Stored tears: %1$s mB
+NONE
+This Statue is owned by %1$s.
+This Statue has no owner.
+This phial stores %1$s.
+This phial is empty. 
+This Sigil contains %1$s Blood Skeletons.
+This Sigil contains %1$s Blood Zombies.
+This Sigil is bound to no location.
+This Sigil is bound to x: %1$s, y: %2$s, z: %3$s.
+This Sigil is bound to no Player.
+This Sigil is bound to %1$s.
+Medallion's humming. There is 1 enemy nearby.
+Medallion's humming. There are %1$s enemies nearby.
+There are creepers.
+The last clicked heart is at coordinates x: %1$s, y: %2$s, z: %3$s.
+Cleared the last stored position.
+This Sigil is now linked to %1$s undead.
+This Sigil is empty.
+This Well has no more of these undead.
+This mob is not at full health.
+This mob does not serve me.
+This location is now bound in the Sigil.
+The bound Player is not currently in this world.
+This container's location has been bound to the Surgeon Summons.
+The Surgeon Summons are no longer bound to a container.
+There is not enough space to summon the Surgeon.
+The Blood Crown pierced my forehead! I should prepare for the worst, in a matter of seconds.
+Barrel
+Blue Bricks
+Damp Canopy
+Damp Canopy (Wood)
+Damp Log
+Damp Stone
+Damp Wood
+Damp Wood Fence
+Damp Wood Stairs
+Dark Sand
+Fume Spreader
+Idol
+Lamp
+Slug Bait
+Worn Bricks
+Worn Brick Stairs
+Sleep Chamber
+Advanced Sleep Chamber
+Beanstalk
+Redstone Grass
+Ghost Grass
+Arboreal Generator
+Sapling Shrub
+Terra Plant
+Vijhiss
+Plant Mutator
+Watery Cradle
+Lacrymatory
+Elder Stone Bricks
+Elder Bricks

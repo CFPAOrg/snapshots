@@ -1,0 +1,28 @@
+This mod is outdated
+Latest version: %s
+Downloading latest version
+Downloading file %s
+Installing file %s
+Finishing installation
+The latest version has been installed successfully
+This mod has been uninstalled
+Please restart the game
+Could not install, check logs for more information
+Could not uninstall, check logs for more information
+%d DLC(s)
+Changelog
+Description
+Mod Bar
+One or more mods have been installed
+Please restart the game to apply the changes
+Quit now
+Later
+Double click on a mod to install the latest version
+Uninstalled mods can be reinstalled immediately
+Waiting for mods to finish installing
+Your Minecraft is using an outdated java version
+More Information
+Please configure your launcher to use a recent version of Java
+Update All
+All
+Ladysnake

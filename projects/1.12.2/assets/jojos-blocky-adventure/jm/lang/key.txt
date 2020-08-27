@@ -1,0 +1,12 @@
+item.stand_arrow.name
+item.stone_mask.name
+item.mysterious_shard.name
+item.requiem_arrow.name
+item.vampire_flesh.name
+tile.mysterious_ore.name
+tile.mysterious_block.name
+item.stand_sword.name
+item.mysterious_helmet.name
+item.mysterious_chestplate.name
+item.mysterious_leggings.name
+item.mysterious_boots.name

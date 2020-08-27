@@ -1,0 +1,52 @@
+Magic Settings
+Mana Enabled
+Mana Regen Rate
+How Often in Ticks Mana Regenerates
+Mana Regen Timeout
+How long after spending mana before it begins to regenerate
+Race Settings
+Fairy Race Settings
+Creative Flight
+Grants the player Creative Flight if Enabled
+Creative Flight Speed
+Change the flight speed from the Vanilla Default of 0.05
+Creative Flight Speed Amount
+Directly Sets the Movement speed for Creative Flight
+Climbing
+Should the Player be able to Climb Blocks?
+Climable Blocks
+List of Blocks the player can Climb when Wearing the Ring of the Fairies
+Jump Height Adjustment
+Adjusts the players Jump and Step Height to Match the players Size
+Dwarf Race Settings
+Block Settings
+Blocks Give XP
+Should Blocks Give Bonus XP?
+Bonus XP Min
+Bonus XP Max
+Bonus XP Block List
+Blocks in this List will give bonus XP Randomly between Bonus_XP_Min and Bonus_XP_Max
+Minimum XP Blocks
+Should Blocks give at Least 1 XP
+Minimum XP Block List
+Blocks in this List will Always Give 1 XP when Broken
+Natural Fortune
+Should the Ring of the Dwarves Have a Natural Fortune Ability
+Natural Fortune Stacking
+Should the Ring of the Dwarves Natural Fortune Ability Stack with the Fortune Enchantment?
+Natural Fortune Block List
+Natural Fortune only works on Blocks in this List
+Skilled Miner
+Should the Dwarves Ring lower the mining level requirement for pickaxes. IE. an Iron Pickaxe will be able to break Obsidian?
+Static Mining
+When Mining, Mining Speed is static at (Block Hardness * 4), Not Including other Modifiers.
+Titan Race Settings
+Jump Height Adjustment
+Adjusts the players Jump and Step Height to Match the players Size
+Heavy Player
+If Enabled the player will sink faster in water and make it more difficult to swim up
+Trample Farmland
+If Enabled the player will trample farmland in a 3x3 under the player
+Compatability Settings
+Settings which affect how this mod works with other mods.
+Tough as Nails

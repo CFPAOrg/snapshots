@@ -1,0 +1,3 @@
+curses.config.mode.name
+curses.config.show_books.name
+curse.general_tooltip

@@ -1,0 +1,2 @@
+itemGroup.portalroom
+item.tp_stick.name

@@ -1,0 +1,80 @@
+Memorials
+Corpses
+Gravestone mod Items
+Cross Memorial
+Obelisk
+Steve Statue
+Villager Statue
+Angel Statue
+Dog Statue
+Cat Statue
+Creeper Statue
+Celtic Cross
+Gallows
+Gibbet
+Stocks
+Burning Stake
+Night Stone
+Thunder Stone
+Darkness is coming!
+Withered Glass
+Withered Glass Pane
+Wither Spawner
+Skeleton Spawner
+Zombie Spawner
+Spider Spawner
+Bone Block
+Bone Block with Skull
+Skull Crawler's Bone Block
+Skull Crawler's Bone Block with Skull
+Bone Slab
+Bone Stairs
+Pile of Bones
+Pile of Bones with Skull
+Pile of Bones with Skull Crawler
+Chest with Bats
+Chest with Skeleton
+Chest with Ravens
+Chest with Ghost
+Candle
+Skull Candle
+Wither Skull Candle
+Zombie Skull Candle
+Altar
+Catacombs Portal
+Frozen Lava
+Shadow of Death
+Deals extra 2.5 damage per level to non spider and non undead mobs
+Poisoned Blade
+Applies poison to a target for 10 seconds per level
+Withered Blade
+Applies wither to a target for 5 seconds per level
+Vampiric Touch
+Converts 20 percent of damage done by this weapon to health
+Necrotic Corrosion
+10 percent(per level) of damage dealt by this weapon ignores armor
+Pain Mirror
+Reflects all blocked damage with 10 percent chance per level
+Bone Rain
+Uses bone meal on a block
+Hellish Angling
+Allows one to fish in lava
+Bloody Replication
+Exchange 0.25 - 1.5 health points(depends on enchantment level) to copy of the wood log block instead of its destruction
+Frozen Nether
+Freezes lava under the player into frozen lava.
+Web Crawler
+Allows to move normally in the web.
+Soul Bound
+Keeps item in your inventory on death.
+Curse of Starvation
+Applies hunger for 10 seconds per item
+Curse of Awkwardness
+Deals damage to yourself instead of enemy with 10 percent chance
+Curse of Fragility
+Item get additional damage at usage
+Curse of the Broken Hook
+Adds 30 percent chance to lose your catch
+Remove all negative effects
+Potion of Purification
+Splash Potion of Purification

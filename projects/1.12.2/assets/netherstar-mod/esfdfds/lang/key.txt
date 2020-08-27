@@ -1,0 +1,3 @@
+item.netherstarsword.name
+item.netherstarpickaxe.name
+item.moltennetherstar.name

@@ -1,0 +1,8 @@
+shatter.config.cat.clientOnly.name
+shatter.config.cat.clientOnly.comment
+shatter.config.prop.enableBossShatter.name
+shatter.config.prop.enablePlayerShatter.name
+shatter.config.prop.enableChildShatter.name
+shatter.config.prop.enableBossShatter.comment
+shatter.config.prop.enablePlayerShatter.comment
+shatter.config.prop.enableChildShatter.comment

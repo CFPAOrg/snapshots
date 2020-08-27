@@ -1,0 +1,123 @@
+Chalk Magnesite
+Rhyolite Magnesite
+Basalt Magnesite
+Andesite Magnesite
+Dacite Magnesite
+Quartzite Magnesite
+Slate Magnesite
+Phyllite Magnesite
+Schist Magnesite
+Gneiss Magnesite
+Marble Magnesite
+Granite Boron
+Diorite Boron
+Gabbro Boron
+Shale Boron
+Claystone Boron
+Rocksalt Boron
+Limestone Boron
+Conglomerate Boron
+Dolomite Boron
+Chert Boron
+Chalk Boron
+Rhyolite Boron
+Basalt Boron
+Andesite Boron
+Dacite Boron
+Quartzite Boron
+Slate Boron
+Phyllite Boron
+Schist Boron
+Gneiss Boron
+Marble Boron
+Granite Spodumene
+Diorite Spodumene
+Gabbro Spodumene
+Shale Spodumene
+Claystone Spodumene
+Rocksalt Spodumene
+Limestone Spodumene
+Conglomerate Spodumene
+Dolomite Spodumene
+Chert Spodumene
+Chalk Spodumene
+Rhyolite Spodumene
+Basalt Spodumene
+Andesite Spodumene
+Dacite Spodumene
+Quartzite Spodumene
+Slate Spodumene
+Phyllite Spodumene
+Schist Spodumene
+Gneiss Spodumene
+Marble Spodumene
+Granite Rutile
+Diorite Rutile
+Gabbro Rutile
+Shale Rutile
+Claystone Rutile
+Rocksalt Rutile
+Limestone Rutile
+Conglomerate Rutile
+Dolomite Rutile
+Chert Rutile
+Chalk Rutile
+Rhyolite Rutile
+Basalt Rutile
+Andesite Rutile
+Dacite Rutile
+Quartzite Rutile
+Slate Rutile
+Phyllite Rutile
+Schist Rutile
+Gneiss Rutile
+Marble Rutile
+Bauxite
+Poor Bauxite
+Rich Bauxite
+Small Bauxite
+Native Ardite
+Poor Native Ardite
+Rich Native Ardite
+Native Ardite Nugget
+Native Osmium
+Poor Native Osmium
+Rich Native Osmium
+Native Osmium Nugget
+Wolframite
+Poor Wolframite
+Rich Wolframite
+Small Wolframite
+Cobaltite
+Poor Cobaltite
+Rich Cobaltite
+Small Cobaltite
+Stibnite
+Poor Stibnite
+Rich Stibnite
+Small Stibnite
+Thorianite
+Poor Thorianite
+Rich Thorianite
+Small Thorianite
+Chromite
+Poor Chromite
+Rich Chromite
+Small Chromite
+Magnesite
+Poor Magnesite
+Rich Magnesite
+Small Magnesite
+Boron
+Poor Boron
+Rich Boron
+Small Boron
+Pyrolusite
+Poor Pyrolusite
+Rich Pyrolusite
+Small Pyrolusite
+Spodumene
+Rutile
+Poor Rutile
+Rich Rutile
+Small Rutile

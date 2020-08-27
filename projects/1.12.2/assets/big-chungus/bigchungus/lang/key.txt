@@ -1,0 +1,13 @@
+itemGroup.tabbigchungustab
+advancements.bigchungusachievement.title
+advancements.spawningbigchungus.descr
+advancements.ps4rightclick.descr
+tile.playstation4.name
+tile.ps4.name
+item.compactdisk.name
+item.bigchungusegg.name
+advancements.bigchungusachievement.descr
+item.bigchungusnormalv.name
+advancements.spawningbigchungus.title
+advancements.ps4rightclick.title
+entity.bigchungus.name

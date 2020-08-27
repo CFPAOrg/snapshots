@@ -1,0 +1,15 @@
+tile.CorruptedGrassTopping.name
+fluid.errorLiquid
+itemGroup.tabforbiddenQuests
+advancements.forbiddenshardcrafting.descr
+tile.Errordian.name
+item.CorruptedEssence.name
+advancements.forbiddenshardcrafting.title
+tile.CorruptedGrass1.name
+tile.ForbiddenShardBlock.name
+item.errorDimension_trigger.name
+advancements.ach1.descr
+tile.CorruptedDirt.name
+item.ForbiddenCore.name
+item.ForbiddenShard.name
+advancements.ach1.title

@@ -1,0 +1,76 @@
+Gravitation Chestplate
+Advanced Nano Chestplate
+Advanced Electric Jetpack
+Nuclear Gravitation Chestplate
+Advanced Nuclear Nano Chestplate
+Advanced Nuclear Jetpack
+Advanced Lappack
+Ultimate Lappack
+Gravitool
+Advanced Diamond Drill
+Advanced Chainsaw
+Advanced Diamond Chainsaw
+Vajra
+Relocator
+Super Conductor Cover
+Super Conductor
+Cooling Core
+Gravitation Engine
+Magnetron
+Vajra Core
+Engine Booster
+Work in progress
+Current Tool Mode: %1$s
+Cycle Through the Different Modes
+Silk Touch Mode: %1$s
+Note: Requires the completely lossless Precision Wrench by default.
+Wrench
+Hoe
+Treetap
+Screwdriver
+Enable/Disable Tree Chopping
+Enable/Disable Shearing
+Normal
+Low Power
+Fine
+Big Holes
+Medium Holes
+Tunnel Holes
+Personal
+Portal
+to Translocator
+Enable/Disable Silktouch
+Enabled
+Disabled
+Enabled Tree Chopping
+Disabled Tree Chopping
+Enabled Shearing
+Disabled Shearing
+Set Mode to Normal
+Set Mode to Low Power
+Set Mode to Fine
+Set Mode to Big Holes
+Set Mode to Medium Holes
+Set Mode to Tunnel Holes
+Set Mode to Personal
+Set Mode to Portal
+Set Mode to Translocator
+Set Mode to Wrench
+Set Mode to Hoe
+Set Mode to Treetap
+Set Mode to Screwdriver
+Gravitation Engine Enabled
+Gravitation Engine Disabled
+Silk Touch Enabled
+Silk Touch Disabled
+Energy Level
+Jetpack Engine On
+Hover Mode
+Extreme Hover Mode
+Gravi Engine On
+When the Gravitation Engine is Enabled,
+When the Gravitation Engine is Disabled,
+%1$s & %2$s
+Double %1$s
+Fly like in Creative
+Enable/Disable the Gravitation Engine

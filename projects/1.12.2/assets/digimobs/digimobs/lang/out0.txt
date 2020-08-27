@@ -1,0 +1,105 @@
+Welcome to Digimobs.
+Are you ready to begin your story?
+Or do you need more time?
+I'm ready!
+Your partner is waiting for you.
+What was its name again?
+Random?
+Quest Complete!
+has decided to join your team!
+The Digiegg hatched!
+digivolve to...
+armor digivolve to...
+DNA digivolve to...
+Mode Change!
+degenerated to
+Your digimon has not met the requirements to digivolve!
+Remember: Must have at least 100 energy!
+Remember: Digimon will not digivolve if starving!
+This is a jogress evolution! It requires 2 digimon!
+Close
+Digimon: 
+Digimobs
+Select Digimon
+Rotate Command Wheel
+Execute Command
+Switch Command Wheels
+To Remove
+Display Digimobs Wiki
+Blocks & Items
+Entities
+Digimobs Wiki
+Digimobs Equipment
+Digimobs Machines
+Left click to navigate to the next page
+Right click to navigate to the previous page
+Tier 1 Weapons
+Tier 1 Armor
+Matchmaker 
+Intro
+Getting Started
+Controls
+Stats
+Battling 101
+Crest Perk System
+Changelog
+Dev: Intro
+Dev: Item & Block Page
+Dev: Page Commands
+Dev: For Modders
+Shapeless Crafting
+Shaped Crafting
+Digimobs Items
+ Digimobs Food
+ Evolution Items
+ Digimobs Blocks
+Digimobs Tools
+Digimobs Weapons
+Digimobs Armor
+Digimobs Accessories
+Creative Only
+Digivice
+ Digivice 01
+Black Digivice
+Red Digivice
+Green Digivice
+Brown Digivice
+Blue Digivice
+Purple Digivice
+Cyan Digivice
+Silver Digivice
+Gray Digivice
+Pink Digivice
+Lime Digivice
+Yellow Digivice
+Light Blue Digivice
+Magenta Digivice
+Orange Digivice
+White Digivice
+Black D3 Digivice
+Red D3 Digivice
+Green D3 Digivice
+Brown D3 Digivice
+Blue D3 Digivice
+Purple D3 Digivice
+Cyan D3 Digivice
+Silver D3 Digivice
+Gray D3 Digivice
+Pink D3 Digivice
+Lime D3 Digivice
+Yellow D3 Digivice
+Light Blue D3 Digivice
+Magenta D3 Digivice
+Orange D3 Digivice
+White D3 Digivice
+Black D-Power
+Red D-Power
+Green D-Power
+Brown D-Power
+Blue D-Power
+Purple D-Power
+Cyan D-Power
+Silver D-Power
+Gray D-Power
+Pink D-Power
+Lime D-Power

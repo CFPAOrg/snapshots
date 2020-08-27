@@ -1,0 +1,44 @@
+Blistering Heat
+Obtain a full set of blazium armor. Then let an overworld mob attack you.
+Creepy Quarry
+Collect some hazardous terracreep spores.
+The Delicious Honey
+Raid an endermite hive for its honey.
+Long Live the Queen
+Break into a mite hive and steal their babies like the monster you are.
+Dope Rope
+Craft some infinitely long, multi-dimensional rope.
+God-Tier
+Craft a block of undead-smiting godstone.
+Minestrapp Configuration
+Blocks
+Alter various Minestrapp block properties.
+Spike Item Entity Limit
+Limits how many item entities can be generated within a 5x5 area by any Spikes.
+Limits how many item entities can be generated within a 5x5 area by any Spikes.
+Is Glacial Invincium Minable
+Determines whether Glacial Invincium be harvested with a Pickaxe.
+Determines whether Glacial Invincium be harvested with a Pickaxe.
+World Generation
+Toggle aspects of Minestrapp's custom world generation.
+Generate Desert Quartz Deposits
+Determines whether Desert Quartz deposits will generate in Desert & Mesa biomes.
+Determines whether Desert Quartz deposits will generate in Desert & Mesa biomes.
+Generate Salt Ore
+Determines whether Salt Ore will generate in Ocean & Mushroom biomes.
+Determines whether Salt Ore will generate in Ocean & Mushroom biomes.
+Generate Copper Ore
+Determines whether Copper Ore will generate.
+Determines whether Copper Ore will generate.
+Generate Tin Ore
+Determines whether Tin Ore will generate.
+Determines whether Tin Ore will generate.
+Generate Meurodite Ore
+Determines whether Meurodite Ore will generate.
+Determines whether Meurodite Ore will generate.
+Generate Torite Ore
+Determines whether Torite Ore will generate in Jungles, Roofed Forests, and Swamps.
+Determines whether Torite Ore will generate in Jungles, Roofed Forests, and Swamps.
+Generate Irradium Ore
+Determines whether Irradium Ore will generate.
+Determines whether Irradium Ore will generate.

@@ -1,0 +1,104 @@
+Elite Circuit Blueprint
+Impure Fluix Crystal
+Impure Fluix Dust
+Fluix Reactor Blueprint
+Advanced Fluix Reactor Blueprint
+Acid Resistant Ink Bottle
+Circuit Drawing Pen (Empty)
+Quantum Circuit
+Fluix Circuit
+Quantum Circuit Blueprint
+Fluix Circuit Blueprint
+Raw Chalk
+Photoactive Basic Circuit Plate
+Photoactive Advanced Circuit Plate
+Chalk
+Tin Can
+Photactive Material Can
+UV Light Bulb
+Research Table Upgrade (Unknown)
+Research Table Upgrade (Bronze)
+Research Table Upgrade (Electrical)
+Photoactive Material Can
+Basic Chipset
+Basic Chipset Blueprint
+Advanced Chipset
+Advanced Chipset Blueprint
+Fluix Chipset
+Fluix Chipset Blueprint
+Quantum Chipset
+Quantum Chipset Blueprint
+Laser Module
+Blueprint Fluix Empty
+Raw Electrical Steel Dust
+Electrical Steel Ingot
+Electrical Steel Plate
+Research Table Upgrade (MV Electrical)
+Research Table Upgrade (HV Electrical)
+Obsidian Rod
+Flint Pickaxe
+Flint Pickaxe Head
+Flint Sword
+Flint Sword Head
+Flint Hoe
+Flint Hoe Head
+Flint Shovel
+Flint Shovel Head
+Diamond Pickaxe Head
+Diamond Axe Head
+Diamond Hoe Head
+Diamond Shovel Head
+Diamond Sword Head
+Copper Axe
+Copper Pickaxe
+Copper Shovel
+Copper Hoe
+Copper Sword
+Bronze Axe
+Bronze Pickaxe
+Bronze Shovel
+Bronze Hoe
+Bronze Sword
+Brass Plate
+Brass Ingot
+Brass Dust
+Brass Nugget
+Research Component Base
+RF Converter Module
+Tesla Converter Module
+Basic Processor
+Basic Memory
+Basic Controller Motherboard
+Basic Server Tower Motherboard
+Basic Chipset
+Heat Conducting Paste Can
+Small Heat Sink
+Large Heat Sink
+Small Fan
+Large Fan
+Logic Processor
+Arithmetic Logic Unit
+Memory Unit
+Central Unit
+Quartz
+Logic Processor Blueprint
+Vulcainzing Agents
+Stone Dust
+Crushed Obsidian
+Steel Rod
+Rosin
+Bottle of Concentrated Resin
+Steel Axe
+Steel Pickaxe
+Steel Shovel
+Steel Hoe
+Steel Sword
+Build Guide
+Uranium 235
+Uranium 238
+Uranium 235 Nugget
+Blueprint
+Basic Circuit
+Normal Circuit
+Advanced Circuit
+Elite Circuit

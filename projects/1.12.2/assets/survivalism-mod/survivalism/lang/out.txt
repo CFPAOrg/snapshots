@@ -1,0 +1,43 @@
+Survivalism
+Brewing Barrel
+Soaking Barrel
+Storage Barrel
+Crushing Vat
+Composting Bin
+Drying Rack
+Mixing Vat
+Mixing Spoon
+Compost
+Press Shift for More Information!
+Sealed:
+Main:
+Secondary:
+Input:
+Output:
+Item:
+Input Item:
+Output Item:
+Sealed:
+Jumps:
+Stirs Left:
+Time Left:
+Time:
+Decrease Amount:
+Decrease Chance:
+%d mB
+Clicks: %d
+No Input
+No Output
+Use Chance: 100
+Use Chance:
+Ticks:
+Jumps:
+Stirs:
+Brewing
+Soaking
+Crushing
+Boot Multiplier
+Mixing
+Drying Rack
+You couldn't muster enough strength to crush this item...
+No matter how much you stir and stir, the liquids don't seem to want to merge...

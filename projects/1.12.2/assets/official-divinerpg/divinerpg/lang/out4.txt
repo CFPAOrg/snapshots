@@ -1,0 +1,132 @@
+Kraken Scale
+Teleportation Crystal
+Eden Soul
+Wildwood Soul
+Apalachia Soul
+Skythern Soul
+Mortum Soul
+Eden Fragments
+Wildwood Fragments
+Apalachia Fragments
+Skythern Fragments
+Mortum Fragments
+Eden Gem
+Wildwood Gem
+Apalachia Gem
+Skythern Gem
+Mortum Gem
+Eden Chunk
+Wildwood Chunk
+Apalachia Chunk
+Skythern Chunk
+Mortum Chunk
+Eden Dust
+Wildwood Dust
+Apalachia Dust
+Skythern Dust
+Mortum Dust
+Twilight Clock
+Eden Sparkles
+Base Spawn Crystal
+Densos Crystal
+Karot Crystal
+Reyvor Crystal
+Soul Fiend Crystal
+Twilight Demon Crystal
+Vamacheron Crystal
+Eternal Archer Crystal
+Icicle Bane
+Icine Sword
+Enderice
+Snowslash
+Glacier Sword
+Frostking Sword
+Frozen Maul
+Frossivence
+Sound of Carols
+Sound of Music
+Frostclaw Cannon
+Fractite Cannon
+Snowflake Shuriken
+Serenade of Ice
+Egg Nog
+Peppermints
+Chocolate Log
+Snow Cones
+Fruit Cake
+Winterberry
+Icicle Bow
+Snowstorm Bow
+Santa Cap
+Santa Tunic
+Santa Pants
+Santa Boots
+Snow Globe
+Dirty Pearls
+Clean Pearls
+Polished Pearls
+Shiny Pearls
+Barred Door
+Teaker Lump
+Amthirmis Lump
+Darven Lump
+Cermile Lump
+Pardimal Lump
+Quadrotic Lump
+Karos Lump
+Heliosis Lump
+Arksiane Lump
+Teaker Disk
+Amthirmis Disk
+Darven Disk
+Cermile Disk
+Pardimal Disk
+Quadrotic Disk
+Karos Disk
+Heliosis Disk
+Arksiane Disk
+Teaker Staff
+Amthirmis Staff
+Darven Staff
+Cermile Staff
+Pardimal Staff
+Quadrotic Staff
+Karos Staff
+Heliosis Staff
+Arksiane Staff
+Honeysuckle
+Honeychunk
+Dream Carrot
+Dream Melon
+Dream Pie
+Dream Cake
+Dream Sweets
+Dream Sours
+Acid
+Band of Heiva Hunting
+Miner's Amulet
+Hammer Template
+Backsword Template
+Bow Template
+Cannon Template
+Claw Template
+Disk Template
+Staff Template
+Degraded Template
+Finished Template
+Glistening Template
+Demonized Template
+Tormented Template
+Teaker Cannon
+Amthirmis Cannon
+Darven Cannon
+Cermile Cannon
+Pardimal Cannon
+Quadrotic Cannon
+Karos Cannon
+Heliosis Cannon
+Arksiane Cannon
+Teaker Hammer
+Amthirmis Hammer
+Darven Hammer
+Cermile Hammer

@@ -1,0 +1,83 @@
+Nickel Shard
+Dirty Nickel Dust
+Nickel Clump
+Platinum Plate
+Platinum Ingot
+Platinum Dust
+Tiny Pile of Platinum Dust
+Platinum Wire
+Platinum Nugget
+Platinum Crystal
+Platinum Wire Coil
+Crushed Platinum Ore
+Crushed Nether Platinum Ore
+Crushed End Platinum Ore
+Platinum Research Component
+Platinum Shard
+Dirty Platinum Dust
+Platinum Clump
+Advanced Alloy MK1 Plate
+Advanced Alloy MK1 Ingot
+Advanced Alloy MK1 Dust
+Tiny Pile of Advanced Alloy MK1 Dust
+Advanced Alloy MK1 Wire
+Advanced Alloy MK1 Nugget
+Advanced Alloy MK1 Crystal
+Advanced Alloy MK1 Wire Coil
+Crushed Advanced Alloy MK1 Ore
+Crushed Nether Advanced Alloy MK1 Ore
+Crushed End Advanced Alloy MK1 Ore
+Advanced Alloy MK1 Research Component
+Advanced Alloy MK1 Shard
+Dirty Advanced Alloy MK1 Dust
+Advanced Alloy MK1 Clump
+Advanced Alloy MK2 Plate
+Advanced Alloy MK2 Ingot
+Advanced Alloy MK2 Dust
+Tiny Pile of Advanced Alloy MK2 Dust
+Advanced Alloy MK2 Wire
+Advanced Alloy MK2 Nugget
+Advanced Alloy MK2 Crystal
+Advanced Alloy MK2 Wire Coil
+Crushed Advanced Alloy MK2 Ore
+Crushed Nether Advanced Alloy MK2 Ore
+Crushed End Advanced Alloy MK2 Ore
+Advanced Alloy MK2 Research Component
+Advanced Alloy MK2 Shard
+Dirty Advanced Alloy MK2 Dust
+Advanced Alloy MK2 Clump
+Uranium Plate
+Uranium Ingot
+Uranium Dust
+Tiny Pile of Uranium Dust
+Uranium Wire
+Uranium Nugget
+Uranium Crystal
+Uranium Wire Coil
+Crushed Uranium Ore
+Crushed Nether Uranium Ore
+Crushed End Uranium Ore
+Uranium Research Component
+Uranium Shard
+Dirty Uranium Dust
+Uranium Clump
+Blue Metal Plate
+Blue Metal Ingot
+Blue Metal Dust
+Tiny Pile of Blue Metal Dust
+Blue Metal Wire
+Blue Metal Nugget
+Blue Metal Crystal
+Blue Metal Wire Coil
+Crushed Blue Metal Ore
+Crushed Nether Blue Metal Ore
+Crushed End Blue Metal Ore
+Blue Metal Research Component
+Blue Metal Shard
+Dirty Blue Metal Dust
+Blue Metal Clump
+Greenium Plate
+Greenium Ingot
+Greenium Dust
+Tiny Pile of Greenium Dust
+Greenium Wire

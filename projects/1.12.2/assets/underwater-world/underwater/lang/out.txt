@@ -1,0 +1,43 @@
+Underwater World
+Kelp
+Seagrass
+Short Seagrass
+Coral
+Coral
+Coral
+Coral
+Coral
+Treasure Chest
+Dried Kelp Block
+Wet Oak Planks
+Wet Birch Planks
+Wet Jungle Planks
+Wet Spruce Planks
+Wet Dark Oak Planks
+Wet Acacia Planks
+Wet Oak Stairs
+Wet Birch Stairs
+Wet Jungle Stairs
+Wet Spruce Stairs
+Wet Dark Oak Stairs
+Wet Acacia Stairs
+Wet Oak Fence
+Wet Birch Fence
+Wet Jungle Fence
+Wet Spruce Fence
+Wet Dark Oak Fence
+Wet Acacia Fence
+Wet Oak Slab
+Wet Birch Slab
+Wet Jungle Slab
+Wet Spruce Slab
+Wet Dark Oak Slab
+Wet Acacia Slab
+Wet Oak Trapdoor
+Wet Oak Door
+Treasure Chest Placeholder
+Resources Chest Placeholder
+Food Chest Placeholder
+Leather Chest Placeholder
+Treasure Chest
+Dried Kelp

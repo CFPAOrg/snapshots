@@ -1,0 +1,5 @@
+category.witcher
+item.steelsword.name
+item.witcherpotion.name
+item.steelingot.name
+tile.steelore.name

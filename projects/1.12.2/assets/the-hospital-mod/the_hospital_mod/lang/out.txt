@@ -1,0 +1,54 @@
+Sterile Work Counter (With Shelf)
+Suspended Ceiling
+Vinyl Floor - Red (Type 1)
+Smooth Concrete
+Vinyl Floor - Grey (Type 2)
+X-RAY Light Box (Neck)
+Red Desk Tray
+Pharmacy Counter (Stocked)
+X-RAY Bucky Stand
+Vinyl Wall - Red (Type 1)
+IV Stand
+Vinyl Wall - Beige (Type 2)
+Vinyl Wall - Light Blue (Type 1)
+Computer (CT Scan Viewer)
+Computer Screen (CT Scan Viewer)
+Wall Storage Tubs (Red)
+Anaesthetic Machine
+X-RAY Light Box (Feet)
+Medical Workstation Cart
+Roll Cage (Storage)
+Theatres - The Hospital Mod
+Laboratory Fridge
+Heart Rate Monitor
+Vinyl Floor - Grey
+Surgical Lamp
+Blue Desk Tray
+Vinyl Wall - Grey (Type 1)
+Waste Bin (Domestic Waste)
+Ventilation
+Fire Extinguisher
+X-RAY Light Box (Hands)
+Vinyl Wall - Blue (Type 2)
+Creative_Ward
+Vinyl Floor - Salmon (Type 2)
+Vinyl Floor - Aqua (Type 1)
+Surgical Instrument Trolley
+Vinyl Floor - Grey (Type 1)
+Analytical Balance
+Worktop
+Scrub Sink
+Creative_Radiology
+Office Desk
+X-RAY Light Box (Arms)
+Fire Exit Sign (Ceiling Mounted)
+Sterile Worktop
+Operating Room Control Panel
+Cardboard Box
+Plastered Wall (Grey)
+Worktop (With Shelf)
+Store Shelf (Empty)
+LED Square Light (On) Redstone Powered
+Vinyl Floor - Blue (Type 1)
+Vinyl Wall - Grey (Type 2)
+Computer (X-Ray Viewer)

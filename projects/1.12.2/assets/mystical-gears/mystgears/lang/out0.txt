@@ -1,0 +1,47 @@
+Mystical Mechanics
+@material Gear
+Black Hole Gear
+Googly Eye
+Light Flywheel
+Heavy Flywheel
+Gearbox Cover
+Wooden
+Aetherium
+Neutronium
+Elementium
+Void Metal
+Redstone Dynamo
+Windup Box
+Drill
+Diamond Drill
+Mechanical Turret
+Mechanical Dial
+Ember Gatling Gun
+Witchburn Gatling Gun
+Gearanium
+Mechanical Bellows
+Vis Motor
+Essentia Motor
+Mechanical Pattern Crafter
+Aura Engine
+Can be used in a gearbox
+Max power: @power
+Power transfer: @transferx
+Takes some time to speed up and slow down
+You spin me right round
+Mechanical Power: %s
+§9⬊§r Mechanical Power: %s
+§6⬉§r Mechanical Power: %s
+Gearanium
+Converts mana to rotational energy
+The &1Gearanium&0 produces &4Mechanical Energy&0 at the cost of &4Mana&0. This energy can be taken out by connecting the flower to any mechanical input such as an &1Axle&0. Connecting the flower to multiple inputs will divide the power between them like a &1Gearbox&0. This flower can also be planted on mechanical inputs to output power from the bottom.
+&oThe wheels on the bus go round and round.
+Mechanical Bellows
+Speeds up furnaces with mechanical power
+The &1Mechanical Bellows&0 are an upgraded version of the &1Manatide Bellows&0 that use &4Mechanical Energy&0 to pump autonomously. With this, they lose their ability to speed up the transfer rate of &1Mana Pools&0 since the mechanism prevents the bellows from moving magically. They can still speed up furnaces however.
+&oFeed the fire. Break your vision.
+Mystical Mechanics
+Mystical Mechanics
+Using various materials, I have designed a system for transmitting mechanical energy across various distances between machines. I should make some devices to utilize this system next.
+Gears
+Gears are used as interfaces for connecting axles to gearboxes or machines. Gears can be made out of various materials, each with their own properties. Every gear has a maximum amount of power it can transfer and a multiplier for the power transferred. Unsurprisingly, sturdier materials make for better gears. I have also created gears that can be controlled with redstone, the redstone gear will only rotate when the gearbox it's in is powered with redstone, the inverted redstone gear does the opposite.

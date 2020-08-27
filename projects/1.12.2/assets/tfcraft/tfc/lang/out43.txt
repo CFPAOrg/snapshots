@@ -1,0 +1,76 @@
+Handicrafts
+Knap a piece of pottery from clay and fire it in a pit kiln.
+D'OH!
+Get an Unknown Ingot from a botched alloy.
+Hammer Time
+Hit some igneous stone with a hammer to make your first anvil.
+Pouring Metal
+Craft a fired mold with which to cast a metal tool.
+The Copper Age
+Enter the Copper Age by making a copper tool.
+Time to Mine (Finally!)
+Craft a pickaxe.
+Carpenter
+Craft a saw.
+Do a Barrel Roll!
+Craft a barrel using lumber made with your saw.
+The Grind
+ Craft a Quern.
+In Flux
+Get some flux to start welding.
+Dropping an Anvil
+Craft a Copper Anvil from double ingots made via welding.
+The Flattening
+Craft a metal sheet from a double ingot.
+Take Cover!
+Craft a shield from a double sheet.
+Soak and Scrape
+Soak a raw hide in limewater, then scrape it on top of a log.
+Genuine Leather
+Soak a scraped hide in fresh water and then in tannin.
+Blow You Away
+Use leather to make a bellows.
+The Bronze Age
+Enter the Bronze Age by crafting any Bronze Anvil.
+Ironworks
+Craft a Bloomery.
+In Bloom
+Use the bloomery to produce an iron bloom.
+The Iron Age
+Enter the Iron Age getting a wrought iron ingot.
+Knight in Shining Armor
+Equip a full iron armor set.
+Blast Off!
+Craft a Blast Furnace.
+Fireproof
+Craft some fire clay.
+Making a Chimney
+Make four fire brick blocks, for building a blast furnace.
+Metallurgic!
+Knap a Crucible from fire clay.
+Industrialized
+Get a Steel Ingot.
+Light My Fire
+Craft a Flint and Steel.
+Back In Black
+Get a Black Steel Ingot.
+Blue Ogre
+Get a Blue Steel Ingot.
+Red Ogre
+Get a Red Steel Ingot.
+Super Hot Sauce
+Craft a Blue Steel Bucket.
+Tsunami
+Craft a Red Steel Bucket.
+All This for a Bucket?!
+Combine the Red and Blue Steel Buckets into a vanilla Bucket.
+TerraFirmaCraft World
+Explore TFC's world for resources.
+Gatherer
+Get seeds from a wild crop.
+Farmer
+Harvest a fully grown crop.
+Baking Bread
+Make a loaf of bread.
+Botanist
+Get the seeds of every crop.

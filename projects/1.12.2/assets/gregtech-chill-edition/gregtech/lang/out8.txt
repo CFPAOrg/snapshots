@@ -1,0 +1,172 @@
+Kanthal
+Lazurite
+Magnalium
+Magnalium
+Magnesite
+Magnetite
+Molybdenite
+Molybdenite
+Nichrome
+Nichrome
+Niobium Nitride
+Niobium-Titanium
+Niobium-Titanium
+Nitro-Carbon
+Nitrogen Dioxide
+Obsidian
+Obsidian
+Phosphate
+Pig Iron
+Pig Iron
+Polyethylene
+Epoxid
+Polysiloxane
+Polycaprolactam
+Polytetrafluoroethylene
+Powellite
+Pumice
+Pyrite
+Pyrolusite
+Pyrope
+Rock Salt
+Rubber
+Rubber
+Raw Rubber
+Ruby
+Ruby
+Salt
+Saltpeter
+Sapphire
+Sapphire
+Scheelite
+Silicon Dioxide
+Snow
+Sodalite
+Sodium Persulfate
+Sodium Sulfide
+Hydrogen Sulfide
+Witherite
+Soldering Alloy
+Spessartine
+Sphalerite
+Stainless Steel
+Steel
+Stibnite
+Sulfuric Acid
+Tanzanite
+Tetrahedrite
+Topaz
+Tungstate
+Ultimet
+Uraninite
+Uvarovite
+Vanadium-Gallium
+Soldering Alloy
+Spessartine
+Sphalerite
+Stainless Steel
+Steel
+Stibnite
+Sulfuric Acid
+Tanzanite
+Tetrahedrite
+Topaz
+Tungstate
+Ultimet
+Uraninite
+Uvarovite
+Vanadium-Gallium
+Wood
+Wrought Iron
+Wrought Iron
+Wulfenite
+Yellow Limonite
+Yttrium Barium Cuprate
+Yttrium Barium Cuprate
+Nether Quartz
+Certus Quartz
+Nether Quartz
+Certus Quartz
+Quartzite
+Quartzite
+Graphite
+Graphene
+Jasper
+Osmiridium
+Graphite
+Graphene
+Jasper
+Osmiridium
+Sealed Wood
+Glass
+Perlite
+Borax
+Lignite Coal
+Olivine
+Opal
+Amethyst
+Redstone
+Lapis Lazuli
+Blaze
+Enderpearl
+Endereye
+Flint
+Olivine
+Opal
+Amethyst
+Redstone
+Lapis Lazuli
+Blaze
+Enderpearl
+Endereye
+Flint
+Diatomite
+Volcanic Ashes
+Niter
+Pyrotheum
+Apatite
+Sterling Silver
+Rose Gold
+Black Bronze
+Bismuth Bronze
+Black Steel
+Red Steel
+Blue Steel
+Damascus Steel
+Tungstensteel
+Red Alloy
+Apatite
+Sterling Silver
+Rose Gold
+Black Bronze
+Bismuth Bronze
+Black Steel
+Red Steel
+Blue Steel
+Damascus Steel
+Tungstensteel
+Red Alloy
+Nitro-Diesel
+Phosphor
+Basalt
+Andesite
+Diorite
+Red Garnet
+Yellow Garnet
+Marble
+Sugar
+Vinteum
+Redrock
+Potassium Feldspar
+Biotite
+Black Granite
+Red Granite
+Chrysotile
+Realgar
+Vanadium Magnetite
+Basaltic Mineral Sand
+Granitic Mineral Sand
+Garnet Sand
+Quartz Sand
+Bastnasite
+Pentlandite

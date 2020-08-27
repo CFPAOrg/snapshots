@@ -1,0 +1,4 @@
+itemGroup.CloneLand
+item.teleporter.name
+item.dimensionalcore.name
+tile.cloneportalblock.name

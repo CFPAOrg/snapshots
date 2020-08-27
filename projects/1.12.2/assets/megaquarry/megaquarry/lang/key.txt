@@ -1,0 +1,4 @@
+tile.blockQuarry.name
+tile.blockBetterQuarry.name
+tile.blockFilteredQuarry.name
+itemGroup.megaquarry

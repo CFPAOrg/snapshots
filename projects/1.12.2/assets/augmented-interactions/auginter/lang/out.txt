@@ -1,0 +1,7 @@
+Augmented Interactions Config
+Augmented Interactions
+Skip Animation
+/auginter <animation>
+/auginter animation <player> <true|false>
+Enabled all animations for %s
+Disabled all animations for %s

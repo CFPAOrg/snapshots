@@ -1,0 +1,22 @@
+Global Multipliers
+Multipliers for how fast fire naturally spreads and how fast fire burns blocks\n\nAlso includes the setting for how often fire updates (which makes everything fire-related faster or slower)\n \n
+Special Toggles
+Includes whether certain sources can start fires, whether fire ignores rain, and other oddities\n \n
+Burn Spread Chances
+These determine how often fire spreads to adjacent blocks after burning a block\n \n
+Fire Spread Ranges / Reach
+How far fire can naturally spread from one block to another in each direction\n \n
+Spread Strengths (Advanced)
+How much "life" new fires have when spreading\n \n
+Block-Specific Settings (Advanced)
+Block Transformations
+This allows you to set what a block will become when it burns\nEg. you can make grass blocks turn to dirt by using this setting:\nminecraft:grass, minecraft:dirt\n\nKeep in mind that this won't do anything unless you make sure the first block is actually flammable (and maybe give it encouragement too, depending; see the MC wiki for more info on those stats)\n \n
+Burn Speed Multiplier
+How fast blocks are destroyed (burnt) when 'on fire', as a multiplier (2 means twice as fast, 0.5 means half as fast)\n\nAKA flammability multiplier\n\nSet this to 0 to make it so fire doesn't break (burn) blocks at all (but can still be lit)\n \n
+Spread Speed Multiplier
+How fast fire spreads, as a multiplier (2 means twice as fast, 0.5 means half as fast)\n\nAKA encouragement multiplier\n \n
+Tick Delay
+The number of game ticks before fire blocks update themselves\n\nThe lower you set this, the faster fire works (in every way)\n \n
+Tick Delay Randomization
+By default, MC adds 0-9 ticks to each tick delay\n\nThe lower you set this, the faster fire works (in every way), and the less random it works, time-wise (but not to any noticeable degree for the latter)\n \n
+Ignore Humid Biomes

@@ -1,0 +1,29 @@
+Stealth Gauge Color
+FILLSCREEN FIXNEWLINES The color of the stealth gauge\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+Stealth Gauge Rim Color
+FILLSCREEN FIXNEWLINES The color of the stealth gauge's rim and arrow\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+Stealth Gauge Size
+FILLSCREEN FIXNEWLINES The size of the stealth gauge\n \n
+Stealth Gauge Mode
+Stealth Gauge X Position
+FILLSCREEN FIXNEWLINES The x position of the stealth gauge\n\n0 is far left, 0.5 is center, 1 is far right\n \n
+Stealth Gauge Y Position
+FILLSCREEN FIXNEWLINES The y position of the stealth gauge\n\n0 is top, 0.5 is center, 1 is bottom\n \n
+Bypass
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for entities that bypass the threat system\n \n
+Idle (Passive)
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for idle passive entities\n \n
+Idle (Non-Passive)
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for idle non-passive entities.  This also applies to idle passive entities if the server has passive recognition disabled\n \n
+Attacking You
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for entities that are attacking YOU\n \n
+Attacking Other
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for entities which are attacking something besides you\n \n
+Searching
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for alerted entities who are actively searching for a target\n \n
+Fleeing (Passive)
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for passive entities that are fleeing\n \n
+Fleeing (Non-Passive)
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for non-passive entities that are fleeing\n \n
+Dazed
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for dazed entities\n \n

@@ -1,0 +1,13 @@
+screenshotgallery.config.folder
+screenshotgallery.config.formatting
+screenshotgallery.config.auto_upload
+screenshotgallery.ftp
+screenshotgallery.ftp.host
+screenshotgallery.ftp.user
+screenshotgallery.ftp.password
+screenshotgallery.ftp.path
+screenshotgallery.ftp.url
+sidebar_button.screenshotgallery.gallery
+commands.screenshotgallery.usage
+gui.close
+gui.open

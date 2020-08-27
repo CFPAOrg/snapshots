@@ -1,0 +1,14 @@
+item.redscritters.viscacha
+entity.californiaquail.name
+item.redscritters.rosyboa
+entity.guineafowl.name
+entity.redscritters.rosyboa
+entity.chuckwalla.name
+entity.redscritters.viscacha
+entity.redscritters.guineafowl
+item.redscritters.guineafowl
+entity.serval.name
+entity.rosyboa.name
+item.redscritters.serval
+entity.redscritters.serval
+entity.viscacha.name

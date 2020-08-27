@@ -1,0 +1,8 @@
+item.amythestingot.name
+item.amythesthoe.name
+item.amythestaxe.name
+item.amythestshovel.name
+tile.amythest.name
+item.amythestpickaxe.name
+item.amythestsword.name
+tile.amythestblock.name

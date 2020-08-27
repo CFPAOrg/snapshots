@@ -1,0 +1,112 @@
+If you want to change the color, you can bring up the color selection gui again through the sburb client program, but only until you connect to a server player!
+You are not allowed to access other players computers.
+This transportalizer is currently disabled with a redstone signal.
+The destination seems to be blocked.
+The transportalizer appears to need more space above it to function.
+Transportalizers have been disabled for this dimension.
+Transportalizers have been disabled for the destination dimension.
+The destination gate seems to have been destroyed.
+The land this gate leads to does not exist yet!
+[HASHMAP] %s %% %s -> %s
+Both
+Off
+On
+Items
+Cards And Items
+All
+No One
+Only Operators
+Only Creative And Spectator
+Operators, Creative and Spectator
+Anyone
+Slow
+Normal
+Fast
+Nothing
+Bladekind
+Bowkind
+Pickaxekind
+Axekind
+Hoekind
+Spadekind
+Hammerkind
+Canekind
+Clubkind
+Sicklekind
+Sporkkind
+Warhorn sounds
+Spooky whispers
+Estrogen-empowered screech
+Echeladder levels up
+Nakagator naks
+Nakagator hurts
+Nakagator dies
+Iguana thips
+Iguana hurts
+Iguana dies
+Salamander glubs
+Salamander hurts
+Salamander dies
+Turtle hurts
+Turtle dies
+Frog croaks
+Frog hurts
+Frog dies
+Imp screeches
+Imp hurts
+Imp dies
+Ogre grunts
+Ogre hurts
+Ogre dies
+Basilisk hisses
+Basilisk hurts
+Basilisk dies
+Lich whispers
+Lich hurts
+Lich dies
+Giclops wants to eat'cha
+Giclops hurts
+Giclops dies
+Oil
+Blood
+Brain Juice
+Paint
+End Fluid
+Light Water
+Oil
+Blood
+Brain Juice
+Paint
+End Fluid
+Light Water
+Chalk
+Chalk Bricks
+Chiseled Chalk Bricks
+Polished Chalk
+Black Chess Tile
+White Chess Tile
+Light Grey Chess Tile
+Dark Grey Chess Tile
+Cruxite Block
+Uranium Block
+Perfectly Generic Object
+Skaia Portal
+Cruxite Ore
+Uranium Ore
+Quartz Ore
+Cruxtruder
+Punch Designix
+Totem Lathe
+Alchemiter
+Holopad
+Cruxtruder
+Punch Designix
+Totem Lathe
+Alchemiter
+GristWidget 12000
+SBURB Computer
+Crockertop
+Hubtop
+Laptop
+Lunchtop
+Layered Sand

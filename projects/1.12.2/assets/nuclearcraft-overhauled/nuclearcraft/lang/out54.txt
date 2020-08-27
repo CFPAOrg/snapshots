@@ -1,0 +1,94 @@
+Craft a Basic Lithium Ion Battery
+Production Line
+Craft an Assembler
+Eco-Friendly
+Craft a Basic Solar Panel
+Warm Green Glow
+Craft a Uranium RTG
+Soaking it Up
+Craft a Fluid Infuser
+Hot and Spicy
+Craft a Melter
+The Full Poliakoff
+Craft a Chemical Reactor
+Hoth Machine
+Craft a Supercooler
+Squeezing the Sponge
+Craft a Fluid Extractor
+Chemical Brewery
+Craft a Fluid Enricher
+Kitchen Nightmare
+Craft a Nuclear Furnace
+Sweet Neptune
+Obtain some Neptunium
+Demon Core
+Craft a Plutonium RTG
+Ceramic Mold
+Craft an Ingot Former
+Blend and Fold
+Craft a Fluid Mixer
+Breaking Bad
+Craft a Crystallizer
+James Bond
+Craft a Centrifuge
+Rolling Stones
+Craft a Rock Crusher
+Criticality
+Obtain some Plutonium
+Rad-Spangled Power
+Craft an Americium RTG
+The Terror of Knowing
+Craft a Pressurizer
+In Physics We Trust
+Obtain some Americium
+End of the Line
+Craft a Californium RTG
+Curious Marie
+Obtain some Curium
+Made in Alameda
+Obtain some Berkelium
+California Dreamin'
+Obtain some Californium
+Splitting the Atom
+Craft a Solid Fuel Fission Controller
+Next Gen Nuclear
+Craft a Molten Salt Fission Controller
+Thermal Contact
+Craft a Heat Exchanger Controller
+Respecting Rankine
+Craft a Turbine Controller
+Completing the Circle
+Craft a Condenser Controller
+Pripyat Preparations
+Craft a Geiger Counter
+Ridding the Rads
+Make some RadAway
+Imitative Immunity
+Make some Rad-X
+Brave Sir Robin
+Craft some Heavy Radiation Shielding
+Pollution Control
+Craft a Radiation Scrubber
+The Lansdell Manoeuvre
+Make a Marshmallow
+Gather Round the Campfire
+Make a S'more S'mingot
+S'more of the Same
+Make a MoreS'more DoubleS'mingot
+Even S'more Where That Came From
+Make a FourS'more QuadS'mingot
+Fusion Reactor Running
+Turbine Running
+Geiger Tick
+Use RadAway
+Use Rad-X
+Chems Wear Off
+Rad Poisoning
+Feral Ghoul Ambient
+Feral Ghoul Hurt
+Feral Ghoul Death
+Feral Ghoul Step
+Feral Ghoul Fall
+Feral Ghoul Charge
+Wanderer
+End of the World

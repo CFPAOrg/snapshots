@@ -1,0 +1,47 @@
+Enchanted Fabric Handle
+Treated Leather Handle
+Treated Fabric Handle
+Dragon Bone Shard
+Bamboo
+Aquarium
+Zinc
+Platinum
+Adamantine
+Cold-Iron
+Pewter
+Antimony
+Bismuth
+Cupronickel
+Brass
+Invar
+Mithril
+Star-Steel
+Enchanted Fabric
+Treated Leather
+Treated Fabric
+Dragon Bone
+Bamboo
+Aquarium
+Zinc
+Platinum
+Adamantine
+Cold-Iron
+Pewter
+Antimony
+Bismuth
+Cupronickel
+Brass
+Invar
+Mithril
+Star-Steel
+Redstone
+Enchanted Fabric
+Treated Leather
+Treated Fabric
+Dragon Bone
+*Tools made with cold-iron will do an extra 1.5 hearts of damage to fiery enemies.
+*Tools made with adamantine will do an extra 2 hearts of damage to enemies with a max health higher than 10 hearts.
+*Tools made with aquarium will do an extra 2 hearts of damage to aquatic enemies.
+*Tools made with star-steel will repair 1 damage every 10 seconds.
+*Tools made with silver blades or heads will deal an extra 2 hearts of damage to undead enemies.
+*Tools made with lead will poison enemies for a maximum 3 hearts of damage over 6 seconds.

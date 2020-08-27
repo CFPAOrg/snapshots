@@ -1,0 +1,28 @@
+... a vacillating doubt, with the mindset of nothing being eternal, sooner or later meeting its fate.
+It looks like the Dissolution mod has been installed on this minecraft instance. Do you want to be affected by its revamped death system ?
+Yes, I know what the so-called "death system" implies and entails. I want to be affected by it and I won't blame Dissolution or its creators for any intended behaviour stemming from it. I may however provide feedback and report issues for any unintended side effect or behaviour.
+No, I don't want this mod to affect me in any way that doesn't involve other players.
+This is a dialogue prompted by the Dissolution mod. More information can be found at https://minecraft.curseforge.com/projects/dissolution.
+You feel heavy all of a sudden.
+Your soul is now %s
+Remnant
+vanilla player
+Despite the headache, you feel abnormally lightened.
+Wandering Soul
+Eau De Mort
+Ghast Water
+Sanguine Potion
+Eau De Mort
+Brain
+Human Flesh
+Heart
+Sanguine Potion
+Dissolution
+Lingering Obnoxious Potion
+Obnoxious Potion
+Splash Obnoxious Potion
+%s is not a valid soul state
+You feel your body fading away as the world starts rejecting any hostility
+As your last memory fades away, so does your soul. You feel the cold hands of inexistence grabbing your back, and gradually all of yourself. You realize you are no longer part of this world, physically and mentally, and that it is time to let go...
+Your last memories fade away with the wind, as you realize you won't get an experience like this again. Maybe some day you can come back to this life, but not today...
+%1$s's soul faded away with their last memory.

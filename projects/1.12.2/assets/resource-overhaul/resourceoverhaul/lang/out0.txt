@@ -1,0 +1,117 @@
+Ruby
+Ruby Nugget
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Ruby Sword
+Ruby Pickaxe
+Ruby Shovel
+Ruby Hoe
+Ruby Axe
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Emerald Pickaxe
+Emerald Sword
+Emerald Hoe
+Emerald Axe
+Emerald Shovel
+Emerald Nugget
+Dirt Helmet
+Dirt Chestplate
+Dirt Leggings
+Dirt Boots
+Dirt Pickaxe 
+Dirt Sword
+Dirt Hoe
+Dirt Axe
+Dirt Shovel
+Dirt Dust
+Pile of Dirt
+Stone Helmet
+Stone Chestplate
+Stone Leggings
+Stone Boots
+Stone Pebble
+Rock
+Iron Pyrite "Fool's Gold"
+Iron Pyrite Nugget
+Iron Pyrite Helmet
+Iron Pyrite Chestplate
+Iron Pyrite Leggings
+Iron Pyrite Boots
+Iron Pyrite Sword
+Iron Pyrite Pickaxe
+Iron Pyrite Shovel
+Iron Pyrite Axe
+Iron Pyrite Hoe
+Lapis Lazuli Nugget
+Lapis Lazuli Helmet
+Lapis Lazuli Chestplate
+Lapis Lazuli Leggings
+Lapis Lazuli Boots
+Lapis Lazuli Sword
+Lapis Lazuli Pickaxe
+Lapis Lazuli Hoe
+Lapis Lazuli Axe
+Lapis Lazuli Shovel
+Diamond Nugget
+Iron Nugget
+Coal Nugget
+Charcoal Nugget
+Brick Piece
+Netherbrick Nugget
+Netherrack Dust
+Pile of Netherrack
+Sand Dust
+Pile of Sand
+Clay Bit
+Glowstone Powder
+Nether Star Shard
+Oak Stick
+Cooked Chicken Nugget
+Raw Chicken Nugget
+Titanium Nugget
+Titanium Ingot
+Titanium Helmet
+Titanium Chestplate
+Titanium Leggings
+Titanium Boots
+Titanium Sword
+Titanium Pickaxe
+Titanium Hoe
+Titanium Axe
+Titanium Shovel
+Unstable Californium Ingot
+Unstable Californium Nugget
+Stabilized Californium Ingot
+Stabilized Californium Nugget
+Californium Helmet
+Californium Chestplate
+Californium Leggings
+Californium Boots
+Californium Sword
+Californium Pickaxe
+Californium Hoe
+Californium Axe
+Californium Shovel
+Rhodium Nugget
+Rhodium Ingot
+Rhodium Sword
+Rhodium Pickaxe
+Rhodium Hoe
+Rhodium Axe
+Rhodium Shovel
+Rhodium Helmet
+Rhodium Chestplate
+Rhodium Leggings
+Rhodium Boots
+Nether Star Helmet
+Nether Star Chestplate
+Nether Star Leggings
+Nether Star Boots
+Nether Star Sword
+Nether Star Pickaxe
+Nether Star Hoe

@@ -1,0 +1,16 @@
+gui.heroreactions.login.title
+gui.heroreactions.login.heroButton
+gui.heroreactions.login.instructions1
+gui.heroreactions.login.instructions2
+gui.heroreactions.login.instructions3
+gui.heroreactions.login.tokenLabel
+gui.heroreactions.login.tokenExample
+gui.heroreactions.login.tokenAlreadyPresent
+gui.heroreactions.login.clearInfo
+gui.heroreactions.login.successToken
+gui.heroreactions.login.failToken
+gui.heroreactions.login.submit
+gui.heroreactions.login.help
+gui.heroreactions.login.cancel
+gui.heroreactions.login.goBack
+key.heroreactions.toggle

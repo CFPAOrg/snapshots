@@ -1,0 +1,17 @@
+OpenScreens
+Flatscreen (Back) (Tier 1)
+§eFlatscreen (Back) (Tier 2)
+§bFlatscreen (Back) (Tier 3)
+Flatscreen (Front) (Tier 1)
+§eFlatscreen (Front) (Tier 2)
+§bFlatscreen (Front) (Tier 3)
+Holo Screen (Tier 1)
+§eHolo Screen (Tier 2)
+§bHolo Screen (Tier 3)
+§7With an empty hand, §lSneak/Shift+RCLICK§r§7 sides to adjust size
+§7Use dyes to color background
+§fHold SHIFT for more info
+§7Left -> Decrease Width
+§7Right -> Increase Width
+§7Front -> Decrease Height
+§7Top -> Increase Height

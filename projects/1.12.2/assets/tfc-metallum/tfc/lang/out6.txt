@@ -1,0 +1,108 @@
+Unshaped Red Alloy
+Red Alloy Double Ingot
+Double Ingot Red Alloy
+Red Alloy Scrap
+Scrap Red Alloy
+Red Alloy Dust
+Dust Red Alloy
+Red Alloy Nugget
+Nugget Red Alloy
+Red Alloy Sheet
+Sheet Red Alloy
+Red Alloy Double Sheet
+Double Sheet Red Alloy
+Anvil Red Alloy
+Red Alloy Tuyere
+Tuyere Red Alloy
+Red Alloy Lamp
+%s Red Alloy Lamp
+Lamp Red Alloy
+Pick Red Alloy
+Pick Head Red Alloy
+Shovel Red Alloy
+Shovel Head Red Alloy
+Axe Red Alloy
+Axe Head Red Alloy
+Hoe Red Alloy
+Hoe Head Red Alloy
+Chisel Red Alloy
+Chisel Head Red Alloy
+Sword Red Alloy
+Sword Blade Red Alloy
+Mace Red Alloy
+Mace Head Red Alloy
+Saw Red Alloy
+Saw Blade Red Alloy
+Javelin Red Alloy
+Javelin Head Red Alloy
+Hammer Red Alloy
+Hammer Head Red Alloy
+Propick Red Alloy
+Propick Head Red Alloy
+Knife Red Alloy
+Knife Blade Red Alloy
+Scythe Red Alloy
+Scythe Blade Red Alloy
+Shears Red Alloy
+Unfinished Chestplate Red Alloy
+Chestplate Red Alloy
+Unfinished Greaves Red Alloy
+Greaves Red Alloy
+Unfinished Boots Red Alloy
+Boots Red Alloy
+Unfinished Helmet Red Alloy
+Helmet Red Alloy
+Red Alloy Shield
+Molten Mithril
+Mithril Ingot
+Unshaped Mithril
+Mithril Double Ingot
+Double Ingot Mithril
+Mithril Scrap
+Scrap Mithril
+Mithril Dust
+Dust Mithril
+Mithril Nugget
+Nugget Mithril
+Mithril Sheet
+Sheet Mithril
+Mithril Double Sheet
+Double Sheet Mithril
+Mithril Anvil
+Anvil Mithril
+Mithril Tuyere
+Tuyere Mithril
+Mithril Lamp
+%s Mithril Lamp
+Lamp Mithril
+Mithril Pickaxe
+Pick Mithril
+Mithril Pickaxe Head
+Pick Head Mithril
+Mithril Shovel
+Shovel Mithril
+Mithril Shovel Head
+Shovel Head Mithril
+Mithril Axe
+Axe Mithril
+Mithril Axe Head
+Axe Head Mithril
+Mithril Hoe
+Hoe Mithril
+Mithril Hoe Head
+Hoe Head Mithril
+Mithril Chisel
+Chisel Mithril
+Mithril Chisel Head
+Chisel Head Mithril
+Mithril Sword
+Sword Mithril
+Mithril Sword Blade
+Sword Blade Mithril
+Mithril Mace
+Mace Mithril
+Mithril Mace Head
+Mace Head Mithril
+Mithril Saw
+Saw Mithril
+Mithril Saw Blade

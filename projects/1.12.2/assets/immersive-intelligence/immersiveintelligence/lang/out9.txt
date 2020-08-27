@@ -1,0 +1,12 @@
+When a data packet is received at the left side of the machine, it uses functional circuits placed into 4 slots in the rack to change variables accordingly. The machine iterates trough all the circuits and then trough variables alphabetically and sets their values to the result of the given Expression. The expression consists of 2 values and an operator (+,-,*, etc.). Each circuit has a list of available expressions. The expression can also have a Conditional Variable (a Boolean),
+The machine also offers a non-standard datatype, the Accessor, which doesn't hold any value of its own, but can get a value from variable from the received packet. The variable in an expression can be toggled to an Accessor by clicking the '@' button.
+Arithmetic Circuit<br>This circuit  is used to calculate basic math expressions such as addition, subtraction, multiplication and division.
+Advanced Arithmetic Circuit<br> This circuit allows to calculate more advanced math expressions such as raising a number to a power, getting a square root or getting the lowest or highest number from two.
+Logic Circuit<br> This circuit is used for basic logic expressions (like a logic gate) such as AND, OR, NOT.
+Comparator Circuit<br>This circuit allows to compare two integers and returns a boolean.
+Advanced Logic Circuit<br> This circuit can perform advanced logic operations, such as NAND, NOR, XOR and XNOR and the basic ones.
+Text Processor Circuit<br> This circuit can do basic text processing, currently only allows to merge two Strings.
+ItemStack Operations Circuit<br> This circuit can get and manipulate the properties of an ItemStack datatype, it can be used for getting/setting the stack's NBT, meta and id. Can be used in combination with other circuits to control a logistic system.
+Redstone Interface
+The Equivalent Exchange
+The Redstone Interface is a bridge between the old, but still used redstone and the new data system. It can convert data from and to a redstone signal. Because it's only a converter, the machine doesn't use any power.

@@ -1,0 +1,21 @@
+Number of blocks of red crystals in the cluster
+Chance of the spawning cluster of red crystal
+Maximum height of the red crystal cluster
+Minimum height of the red crystal cluster
+Number of blocks of copper in the cluster
+Chance of the spawning cluster of copper
+Maximum height of the copper cluster
+Minimum height of the copper cluster
+Number of blocks of red yellow in the cluster
+Chance of the spawning cluster of yellow crystal
+Maximum height of the yellow crystal cluster
+Minimum height of the yellow crystal cluster
+Is ore generation turn on in this mod
+Number of blocks of blue crystal in the cluster
+Chance of the spawning cluster of blue crystal
+Maximum height of the blue crystal cluster
+Minimum height of the blue crystal cluster
+Number of blocks of uranium in the cluster
+Chance of the spawning cluster of uranium
+Maximum height of the uranium cluster
+Minimum height of the uranium cluster

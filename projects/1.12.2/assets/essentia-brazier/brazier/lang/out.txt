@@ -1,0 +1,8 @@
+Essentia Brazier
+Bonus: %.1fs added per point.
+%.1fs/point
+%.1fs/point bonus
+Time required: %.1fs
+Essentia Brazier
+Fire & Curiosities
+You have discovered a way to reinforce a regular furnace with arcane stone and iron, insulating it and reinforcing it to the point where temperatures are high enough to turn essentia directly to ash.<BR/>Although a slow process, you can sift through the resulting ashes and hopefully discover a rare curiosity or gem that may aid in your researches.<BR/>Strangely enough, experimention with varying types of essentia has indicated that the more complex an essentia is, regardless of crystal or liquid form, the quicker and hotter it burns.

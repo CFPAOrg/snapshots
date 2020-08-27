@@ -1,0 +1,3 @@
+item.warp_charm.name
+item.warp_charm.tooltip
+itemGRoup.nocturnal

@@ -1,0 +1,11 @@
+item.crafted_matter.name
+item.crafted_antimatter.name
+item.antimatter_grenade.name
+item.blueprint.name
+tile.blueprint_maker.name
+tile.antimatter_printer.name
+tile.antimatter_condenser.name
+tile.antimatter_inverter.name
+tile.anti_block.name
+tile.matter_crafter.name
+itemGroup.craftmatter

@@ -1,0 +1,42 @@
+Mithril Blocks Per Group
+Adamantium Blocks Per Group
+Rutile Blocks Per Group
+Tungsten Blocks Per Group
+Amber Blocks Per Group
+Tennantite Blocks Per Group
+Salt Blocks Per Group
+Saltpeter Blocks Per Group
+Magnesium Blocks Per Group
+Nether Mine
+Nether Coal
+Nether Diamond Ore
+Nether Gold Ore
+Nether Iron Ore
+Nether Lapis Lazuli Ore
+Nether Redstone Ore
+Nether Copper Ore
+Nether Tin Ore
+Nether Emerald Ore
+Nether Silver Ore
+Nether Lead Ore
+Nether Uranium Ore
+Nether Nikolite Ore
+Nether Ruby Ore
+Nether Peridot Ore
+Nether Sapphire Ore
+Nether Platinum Ore
+Nether Nickel Ore
+Nether Steel Ore
+Nether Iridium Ore
+Nether Osmium Ore
+Nether Sulfur Ore
+Nether Titanium Ore
+Nether Mithriil Ore
+Nether Adamantium Ore
+Nether Rutile Ore
+Nether Tungsten Ore
+Nether Amber Ore
+Nether Tennantite Ore
+Nether Salt
+Nether Saltpeter
+Nether Magnesium Ore

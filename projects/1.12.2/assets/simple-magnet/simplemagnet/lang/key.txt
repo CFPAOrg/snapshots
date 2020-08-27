@@ -1,0 +1,3 @@
+itemGroup.simplemagnet
+item.simple_magnet.name
+item.simple_magnet_ring.name

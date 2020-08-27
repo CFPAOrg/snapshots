@@ -1,0 +1,92 @@
+Cavern Stone Lime
+Walls Bricks Blue
+Slab Andesite Pink
+Stairs Gravel White
+NetherRack Magenta
+Walls Bricks Deep Grey
+Fence Mossy Cobble Green
+Crate Plank Pink
+Obsidian Armor Body
+Iron Purple
+Slab Smooth Stone Magenta
+NetherRack Brown
+Mossy Stone Brick Black
+Slab Andesite Polished Grey Dark
+Stone Brick Blue
+Stairs Smooth Stone Red
+Fence Bricks Brown
+Slab Andesite Polished Orange
+Stairs Andesite Orange
+Stairs Red Sand
+Brick Brown
+Walls Stone White
+Fence Andesite Black
+Walls Andesite Blue Light
+Cavern Stone Brown Slab
+Stairs Bricks Brown
+Fence Bedrock
+Slab Andesite Polished Pink
+Walls Cobblestone Grey Light
+Slab Bricks Multi
+Slab Andesite Blue Light
+Cavern Lamp
+Stairs Sand Purple
+Stairs Andesite Yellow
+Walls Andesite Purple
+Compressed Cobble Four
+Cobble Grey Mid
+Book Shelf One
+Stairs Mossy Cobble Blue Lgt
+Stairs Smooth Stone White
+Mossy Stone Brick Cyan
+Fence Bricks Cyan
+Crate Plank Magenta
+Stairs Sand Black
+Slab Andesite Grey Mid
+Stairs Smooth Stone Blue Light
+Gravel White
+Stairs Sand Pink
+Obsidian Axe
+Slab Cobble Purple
+Mossy Stone Brick Lime
+Stone Brick Cracked Purple
+Flesh Slab Upper
+Cavern Stone Grey Mid
+Wall Cobblestone Grey Dark
+Stairs Coarse Dirt Pink
+Fence Andesite Cyan
+Slab Cobble Grey Light
+Slab Coarse Dirt Cyan
+Stairs Stone Magenta
+Obsidian Shovel
+Stone Brick Yellow
+Stone Brick Magenta
+Obsidian PickAxe
+Walls Mossy Cobble Grey Dark
+Andesite Black
+Slab Andesite Polished Yellow
+Crate Stick
+Slab Andesite Cyan
+Slab Bricks Blue Light
+Fence Cobblestone Cyan
+Stairs Iron Blue Light
+Cobble Magenta
+Crate Plank Red Slab
+Fence Bricks Magenta
+Fence Bricks Grey Mid
+Stairs Smooth Stone Lime
+Obsidian Hoe
+Cavern Stone Purple
+Slab Gravel Green
+Slab Gravel
+Fence Stone Grey Dark
+CoarseDirtMidGrey
+Stairs Mossy Cobble Orange
+Mossy Cobble Black
+Slab Mossy Cobble Black
+Slab Stone Blue
+Andesite Red
+Crate Plank Yellow
+Cavern Stone Yellow Slab
+Stairs Sand Brown
+Stairs Iron White

@@ -1,0 +1,31 @@
+Quinseptuagintanongentuple
+Sexseptuagintanongentuple
+Septenseptuagintanongentuple
+Duodeoctogintanongentuple
+Undeoctogintanongentuple
+Octogintanongentuple
+Unoctogintanongentuple
+Duooctogintanongentuple
+Treoctogintanongentuple
+Quattuoroctogintanongentuple
+Quinoctogintanongentuple
+Sexoctogintanongentuple
+Septenoctogintanongentuple
+Duodenonagintanongentuple
+Undenonagintanongentuple
+Nonagintanongentuple
+Unnonagintanongentuple
+Duononagintanongentuple
+Trenonagintanongentuple
+Quattuornonagintanongentuple
+Quinnonagintanongentuple
+Sexnonagintanongentuple
+Septennonagintanongentuple
+Duodemilluple
+Undemilluple
+Milluple
+Preston Configuration
+%s/%s %s
+%s Compressed %s
+Preston
+Isochoric Compressor

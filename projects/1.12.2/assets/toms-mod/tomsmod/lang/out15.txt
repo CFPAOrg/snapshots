@@ -1,0 +1,73 @@
+Can Be Inserted into Server Towers: %s
+Can Communicate with Server Towers: %s
+Max Auto Crafting Tasks: %d
+Requires 2 Gold Nuggets And 1 Silicon Plate
+Recipe: Break Obsidian with bronze level hammer, or Obsidian block in the crusher.
+Formatting Mode: %s
+%d x %s
+, or 
+Currently Showing: %s
+%d of %d
+All
+Blueprint: %s
+Generates %d ELP/t when active
+Uses %d ELP/t when active
+Uses 1 ELP/200 mb of water collected
+Basic Fluix Reactor
+Advanced Fluix Reactor
+Basic Circuit
+Normal Circuit
+Advanced Circuit
+Elite Circuit
+Basic Chipset
+Normal Chipset
+Advanced Chipset
+Elite Chipset
+Elite Circuit Template
+Energy Stored %s: %d/%d
+Burn Time Left: %d
+Currently Burning: %s
+Contains: %s
+Device Stats:
+Ready: %s
+Yes
+No
+|  %s
+Name: %s
+Working Cycle: %s
+Active: %s
+Injectors Ready: %s
+Formed: %s
+Fluid Stored: %s mb/%s mb
+Tank %s
+Fluid Name: %s
+Empty
+Position Saved
+Destination Obstructed
+There is nothing to configure!
+[%s] Fail: Object not in Switch-enabled mode.
+Comparator Value: %d
+[Field Security] 
+[Storage System] Auto-Crafting started. Crafting: %s, Crafting Time ~ %d min(s) %d sec.
+[Storage System] Auto-Crafting calculation failed! Error: %s.
+[CPU %s] Currently Crafting: %s.
+[CPU %s] No Crafting Job.
+Waiting For:
+%s,
+%s ...
+Stored:
+Crafting for %d min(s) %d sec, %d min(s) %d sec remaining.
+Crafting for %d min(s) %d sec, %d min(s) %d sec remaining. Delay: %d min(s) %d sec.
+[CPU %s] Cancelled Crafting %s. Crafted for %d min(s) %d sec, %d min(s) %d sec remained.
+[CPU %s] Do you wand to cancel the crafting? Crafting: %s. Crafting for %d min(s) %d sec, %d min(s) %d sec remaining.
+Sneak Click to Cancel Crafting.
+Redstone Mode: Active with Redstone
+Redstone Mode: Active without Redstone
+Scanning Successful
+Can't use tree tap on this side.
+Can't use tree tap on a closed hole. Use an axe to open it.
+Mode: Step Up
+Mode: Step Down
+Link Successful
+Working at: %d, %d, %d.
+Upgrade Failed.

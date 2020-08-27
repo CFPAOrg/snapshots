@@ -1,0 +1,107 @@
+Glowstone Shard
+Dirty Glowstone Dust
+Glowstone Clump
+Zinc Plate
+Zinc Ingot
+Zinc Dust
+Tiny Pile of Zinc Dust
+Zinc Wire
+Zinc Nugget
+Zinc Crystal
+Zinc Wire Coil
+Crushed Zinc Ore
+Crushed Nether Zinc Ore
+Crushed End Zinc Ore
+Zinc Research Component
+Zinc Shard
+Dirty Zinc Dust
+Zinc Clump
+Mercury Plate
+Mercury Ingot
+Mercury Dust
+Tiny Pile of Mercury Dust
+Mercury Wire
+Mercury Nugget
+Mercury
+Mercury Wire Coil
+Crushed Mercury Ore
+Crushed Nether Mercury Ore
+Crushed End Mercury Ore
+Mercury Research Component
+Mercury Shard
+Dirty Mercury Dust
+Mercury Clump
+Enderium Plate
+Enderium Ingot
+Enderium Dust
+Tiny Pile of Enderium Dust
+Enderium Wire
+Enderium Nugget
+Enderium Crystal
+Enderium Wire Coil
+Crushed Enderium Ore
+Crushed Nether Enderium Ore
+Crushed Enderium Ore
+Enderium Research Component
+Enderium Shard
+Dirty Enderium Dust
+Enderium Clump
+Steel Plate
+Steel Ingot
+Steel Dust
+Tiny Pile of Steel Dust
+Steel Wire
+Steel Nugget
+Steel Crystal
+Steel Wire Coil
+Crushed Steel Ore
+Crushed Nether Steel Ore
+Crushed End Steel Ore
+Steel Research Component
+Steel Shard
+Dirty Steel Dust
+Steel Clump
+Electrum Plate
+Electrum Ingot
+Electrum Dust
+Tiny Pile of Electrum Dust
+Electrum Wire
+Electrum Nugget
+Electrum Crystal
+Electrum Wire Coil
+Crushed Electrum Ore
+Crushed Nether Electrum Ore
+Crushed End Electrum Ore
+Electrum Research Component
+Electrum Shard
+Dirty Electrum Dust
+Electrum Clump
+Coal Plate
+Coal Ingot
+Coal Dust
+Tiny Pile of Coal Dust
+Coal Wire
+Coal Nugget
+Coal Crystal
+Coal Wire Coil
+Crushed Coal Ore
+Crushed Nether Coal Ore
+Crushed End Coal Ore
+Coal Research Component
+Coal Shard
+Dirty Coal Dust
+Coal Clump
+Sky Quartz Plate
+Sky Quartz Ingot
+Sky Quartz Dust
+Tiny Pile of Sky Quartz Dust
+Sky Quartz Wire
+Sky Quartz Nugget
+Sky Quartz
+Sky Quartz Wire Coil
+Crushed Sky Quartz Ore
+Crushed Nether Sky Quartz Ore
+Crushed End Sky Quartz Ore
+Sky Quartz Research Component
+Sky Quartz Shard
+Dirty Sky Quartz Dust

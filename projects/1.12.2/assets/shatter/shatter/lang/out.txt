@@ -1,0 +1,8 @@
+Client Only
+These settings affect only the client that loads the mod.
+Enable Shatter - Boss mobs
+Enable Shatter - Player mobs
+Enable Shatter - Child mobs
+The reason this is disabled by default is due to rendering issues that may occur due to some boss' unique models.\nGood examples are the Minecraft's Ender Dragon, and TwilightForest's Naga and Hydra.
+Enable Shatter on Players?
+The reason this is disabled by default is due to rendering issues that occur due to the way Minecraft rescales children.\nShattering child mobs will show an adult model.

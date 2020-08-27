@@ -1,0 +1,153 @@
+Bone Sword
+Iron Bone Sword
+Golden Bone Sword
+Diamond Bone Sword
+Bone Shield
+Diving Helmet
+Provides unlimited breath under the water
+Diving Chestplate
+Diving Leggings
+Diving Boots
+Swamp Thing Mask
+Swamp Thing Shirt
+Swamp Thing Pants
+Swamp Thing Boots
+Mummy Mask
+Mummy Shirt
+Mummy Pants
+Mummy Boots
+Bone Helmet
+Bone Chestplate
+Bone Leggings
+Bone Boots
+Toxic Slime
+Raven Feather
+Raven Claws
+Ooze
+Piece of Mummy Cloth
+Piece of Diving Suit
+Bat Wing
+Enchanted Skull
+Enchanted Wither Skull
+Slime Chunk
+Imp Skull
+Ender Skull
+Cemetery Key
+Server Cemetery Key
+Frozen Mirror
+Steve Corpse
+Player Corpse
+Villager Corpse
+Horse Corpse
+Dog Corpse
+Cat Corpse
+Zombie Corpse
+Zombie Villager Corpse
+Skeleton Corpse
+Witch Corpse
+Name
+Profession
+Farmer
+Librarian
+Priest
+Smith
+Butcher
+Undertaker
+Brewer
+Thaumaturge
+Beekeeper
+Lumberjack
+Unknown
+Career
+Unknown
+Horse Type
+Horse
+Donkey
+Mule
+Zombie Horse
+Skeleton Horse
+Unknown
+Horse Variant
+Max Health
+Speed
+Jump Strength
+Collar
+White
+Orange
+Purple
+Azure
+Yellow
+Lime
+Pink
+Grey
+Light Gray
+Turquoise
+Violet
+Blue
+Brown
+Green
+Red
+Black
+Unknown
+Dog type
+Cat type
+Ocelot
+Black
+Red
+Siamese
+Unknown
+Mob type
+Zombie
+Skeleton
+Ghost
+Husk Zombie
+Stray Skeleton
+Wither Skeleton
+Zombie Pigmen
+Undertaker's Backpack
+Undertaker's Woven Backpack
+Set grave text
+Done
+Set random text
+Resurrect
+Enchant
+Disenchant
+%d levels required
+Resurrection
+Enchanting
+Disenchanting
+Gravestone
+Memorial
+Enchanted
+Mossy
+Required items
+Zombie Dog
+Skeleton Dog
+Zombie Cat
+Skeleton Cat
+Skull Crawler
+Stray Skull Crawler
+Wither Skull Crawler
+Zombie Skull Crawler
+Husk Skull Crawler
+Zombie Pigman Skull Crawler
+Raven
+Skeleton Raider
+Zombie Raider
+Skeleton
+Undertaker
+Toxic Sludge
+Possessed Armor
+Mummy
+Drowned
+Phantom Diver
+Vampire Bat
+Withered Bat
+Barghest
+Swamp Thing
+Toxic Water
+Toxic Water
+This key was activated by
+You can't use this key!
+Your soul is bounded to this cemetery!
+Your pet's souls are bounded to this cemetery!

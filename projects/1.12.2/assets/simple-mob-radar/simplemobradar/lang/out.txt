@@ -1,0 +1,9 @@
+Simple Mob Radar
+Simple Passive Radar
+Status
+Found
+Mob
+Not Found
+Inactive
+Distance
+Total Found

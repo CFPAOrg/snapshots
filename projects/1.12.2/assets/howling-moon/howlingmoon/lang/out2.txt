@@ -1,0 +1,47 @@
+Generate silver ore in world.
+Set the mod's Dimension ID.
+Silver Ore
+Wolfsbane
+Hunter's Banner
+Silver Ingot
+Silver Sword
+Hardsilver Sword
+Moon Pearl
+Wolfsbane Potion
+Wolfsbane
+Bleeding
+Wolfsbane
+Silver Poisoning
+Howling Moon Rising
+Werewolf
+Hunter
+Village Werewolf
+Village Hunter
+You are infected with lycanthropy!
+A full moon rises! The beast within takes hold!
+The beast within takes hold!
+The beast within is restless!
+Your body is calmed, the lycanthropy infection is gone.
+The wolfsbane subdues the beast, you are no longer a werewolf!
+The wolfsbane cures your infection!
+Wolfsbane courses through your veins, you are immune to the lycanthropy infection!
+Wolfsbane is expelled from your body, you are susceptible to the lycanthropy infection!
+The potion has no effect.
+The beast within is restless!
+You dreamed you were hunting in a far off place.
+You faintly recall hearding whispers in your sleep.
+The wolf within awakens! You gain the ability to shift into a wolf.
+The beast within awakens! You gain the ability to shift into a more powerful form.
+Another part of the wolf within awakens!
+Welcome pup. Come talk with me. You have much to learn.
+Use your wolf form to reach the next area to continue your training.
+Hello again pup. I have more to teach you.
+Use your night vision to navagate through the maze.
+Your training is almost complete. Talk with me.
+Test out your beast form and dash through the tunnel. Careful of the walls.
+This is it. Talk to me for your final challenge.
+Make it to the end to prove your mastery.
+You now have the ability to shift into a wolf. Use it to reach the next area and our brethern with teach you more.
+You can now summon members of the pack by howling.
+You can now see clearly in the darkness. Use it to help you reach the end. You will then have to make a choice.
+You must choose what kind of wolf you want to be. Speak with one of us three to change. Once you leave it will be set.

@@ -1,0 +1,14 @@
+item.gem_exp.name
+item.gem_exp_hardened.name
+item.gem_exp_indestructible.name
+item.gem_redoxin.name
+item.gem_priscaline.name
+item.shard_priscaline.name
+item.shard_redoxin.name
+item.shard_exp.name
+tile.ore_exp.name
+tile.ore_priscaline.name
+tile.ore_redoxin.name
+tile.block_exp_compressed.name
+tile.block_exp_densecompressed.name
+itemGroup.tabExpCraft

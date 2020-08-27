@@ -1,0 +1,15 @@
+ivchain.entity
+ivchain.count
+ivchain.dexnav.chaincheck
+ivchain.dexnav.pokecheck.0
+ivchain.dexnav.pokecheck.1
+ivchain.dexnav.pokecheck.2
+ivchain.dexnav.pokecheck.3
+ivchain.dexnav.pokecheck.4
+item.ivchain:dexnav.name
+ivchain.dexnav.trackeroff
+ivchain.dexnav.trackeron
+ivchain.dexnav.3star
+ivchain.dexnav.2star
+ivchain.dexnav.1star
+ivchain.dexnav.0star

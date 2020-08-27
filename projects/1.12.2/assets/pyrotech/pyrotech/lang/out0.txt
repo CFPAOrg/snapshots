@@ -1,0 +1,139 @@
+Pyrotech
+Unfired Clay Bucket
+%s Clay Bucket
+Clay Bucket
+Milk Clay Bucket
+%s Stone Bucket
+Stone Bucket
+Milk Stone Bucket
+%s Wooden Bucket
+Wooden Bucket
+Milk Wooden Bucket
+Bow Drill
+Flint and Tinder
+Matchstick
+Stone Igniter
+Refractory Igniter
+Fiber Torch
+Stone Torch
+Shelf
+Durable Shelf
+Stash
+Durable Stash
+Crate
+Durable Crate
+Wood Rack
+Stone Tank
+Refractory Tank
+Rock Bag
+Durable Rock Bag
+Stone Faucet
+Refractory Faucet
+Tinder
+Pit Kiln
+Campfire
+Crude Drying Rack
+Drying Rack
+Chopping Block
+Granite Anvil
+Ironclad Anvil
+Worktable
+Stone Worktable
+Compacting Bin
+Soaking Pot
+Slag
+%s Slag
+Flint Tongs
+Bone Tongs
+Stone Tongs
+Iron Tongs
+Golden Tongs
+Diamond Tongs
+Obsidian Tongs
+Bloom
+%s Bloom
+Bloomery
+Wither Forge
+Slag Heap
+%s Slag Heap
+Stone Sawmill Blade
+Flint Sawmill Blade
+Bone Sawmill Blade
+Iron Sawmill Blade
+Golden Sawmill Blade
+Diamond Sawmill Blade
+Obsidian Sawmill Blade
+Wooden Cog
+Stone Cog
+Flint Cog
+Bone Cog
+Iron Cog
+Golden Cog
+Diamond Cog
+Obsidian Cog
+Stone Kiln
+Stone Oven
+Stone Sawmill
+Stone Crucible
+Refractory Kiln
+Refractory Oven
+Refractory Sawmill
+Refractory Crucible
+Mechanical Hopper
+Mechanical Compactor
+Mechanical Mulcher
+Bellows
+Mechanical Bellows
+Wood Tar
+Wood Tar
+Coal Tar
+Coal Tar
+Stone Collector
+Refractory Collector
+Stone Drain
+Refractory Drain
+Crude Axe
+Crude Hoe
+Crude Pickaxe
+Crude Shovel
+Crude Fishing Rod
+Bone Axe
+Bone Hoe
+Bone Pickaxe
+Bone Shovel
+Bone Sword
+Flint Axe
+Flint Hoe
+Flint Pickaxe
+Flint Shovel
+Flint Sword
+Obsidian Axe
+Obsidian Hoe
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Sword
+Unfired Clay Shears
+Clay Shears
+Stone Shears
+Bone Shears
+Flint Shears
+Golden Shears
+Diamond Shears
+Obsidian Shears
+Liquid Clay
+Liquid Clay
+Straw
+Coal Coke
+Ash
+Flint Clay
+Refractory Clay
+Lump of Refractory Clay
+Unfired Refractory Brick
+Unfired Clay Brick
+Refractory Brick
+Pottery Fragments
+Pottery Shard
+Refractory Door
+Stone Door
+Quicklime
+Slaked Lime

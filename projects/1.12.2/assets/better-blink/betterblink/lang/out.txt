@@ -1,0 +1,3 @@
+Blink Rod
+Better Blink
+Teleports the user to the first solid block beneath the shown marker.

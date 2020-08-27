@@ -1,0 +1,34 @@
+Giant
+Giants typically resemble Humanoids, but of a scale far exceeding the norm, and typically lacking much of the intelligence of their smaller kin
+No special properties
+Golem
+Golems are inanimate matter given mobility and purpose, usually through magical means
+Immune to drowning/nImmune to critical hits/nImmune to poison and paralysis/nImmune to Enchantment, Necromancy, and Death effects/nCannot heal naturally
+Holy
+Holy-type creatures are noble and benevolent, though they might still pack a whallop if interfered with
+Immune to holy damage/nVulnerable to evil damage
+Humanoid
+Humanoids are bipedal creatures, often with a degree of intelligence, typified by players
+No special properties
+Illager
+Illager-type creatures are usually humanoids with a disdainful attitude, not quite Evil but a bit too far in that direction for mundane daily life
+No special properties
+Outsider
+Outsiders hail from a plane of existence unfamiliar to the common folk
+No special properties
+Plant
+Plants are a form of natural everyday life imbued with far more energy and consciousness than you'd generally prefer of your salad
+Immune to critical hits/nImmune to poison and paralysis/nImmune to Enchantment and Transmutation effects/nVulnerable to fire damage
+Slime
+Slimes are gelatinous and oozing, a primordial thing not quite yet absent from the world
+Immune to critical hits/nImmune to poison and paralysis/nImmune to Transmutation effects
+Undead
+Undead are reflections of what once was amongst the living, but which now shambles around with a different purpose
+Immune to drowning/nImmune to critical hits/nImmune to poison and paralysis/nImmune to Enchantment and Death effects/nVulnerable to holy damage/nCannot heal naturally
+Vermin
+Vermin are the natural enemy of the housekeeper and the farmer, such as spiders and rats
+No special properties
+Hostile
+Unfriendly
+Indifferent
+Friendly

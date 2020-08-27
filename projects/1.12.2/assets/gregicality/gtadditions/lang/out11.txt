@@ -1,0 +1,89 @@
+Potassium Metabisulfite
+Chloroauric Acid
+Lead Nitrate
+Gold Leach
+Gold Alloy
+Precious Metal
+Uranium
+Plutonium
+Protactinium
+Uranyl Nitrate
+Uranium Hexachloride
+Uranium Hexafluoride
+Uranium 234 Hexafluoride
+Uranium 235 Hexafluoride
+Uranium 238 Hexafluoride
+Uranium 234 Dioxide
+Uranium 235 Dioxide
+Uranium 238 Dioxide
+Neptunium
+Neptunium Dioxide
+Neptunium Nitrate
+neptunium Hexachloride
+neptunium Hexafluoride
+Neptunium 235 Hexafluoride
+Neptunium 237 Hexafluoride
+Neptunium 239 Hexafluoride
+Neptunium 235 Dioxide
+Neptunium 237 Dioxide
+Neptunium 239 Dioxide
+Plutonium Dioxide
+Plutonium Nitrate
+Plutonium Hexachloride
+Plutonium Hexafluoride
+Plutonium 240 Hexafluoride
+Plutonium 241 Hexafluoride
+Plutonium 244 Hexafluoride
+Plutonium 240 Dioxide
+Plutonium 241 Dioxide
+Plutonium 244 Dioxide
+Americium Dioxide
+Americium Nitrate
+Americium Hexachloride
+Americium Hexafluoride
+Americium 241 Hexafluoride
+Americium 243 Hexafluoride
+Americium 245 Hexafluoride
+Americium 241 Dioxide
+Americium 243 Dioxide
+Americium 245 Dioxide
+Curium
+Curium Dioxide
+Curium Nitrate
+Curium Hexachloride
+Curium Hexafluoride
+Curium 246 Hexafluoride
+Curium 247 Hexafluoride
+Curium 250 Hexafluoride
+Curium 246 Dioxide
+Curium 247 Dioxide
+Curium 250 Dioxide
+Berkelium
+Berkelium Dioxide
+Berkelium Nitrate
+Berkelium Hexachloride
+Berkelium Hexafluoride
+Berkelium 247 Hexafluoride
+Berkelium 249 Hexafluoride
+Berkelium 251 Hexafluoride
+Berkelium 247 Dioxide
+Berkelium 249 Dioxide
+Berkelium 251 Dioxide
+Californium
+Californium Dioxide
+Californium Nitrate
+Californium Hexachloride
+Californium Hexafluoride
+Californium 252 Hexafluoride
+Californium 253 Hexafluoride
+Californium 256 Hexafluoride
+Californium 252 Dioxide
+Californium 253 Dioxide
+Californium 256 Dioxide
+Einsteinium
+Einsteinium Dioxide
+Einsteinium Nitrate
+einsteinium Hexachloride
+Einsteinium Hexafluoride
+Einsteinium 253 Hexafluoride
+Einsteinium 255 Hexafluoride

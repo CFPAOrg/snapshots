@@ -1,0 +1,43 @@
+This Cultist is not part of your cult
+The Protoplasmic Slime will stick here
+The Protoplasmic Slime will stick with you
+The Protoplasmic Slime will go after its tasks
+Copied tasks to the Thaumagral
+Block must have an inventory
+Viewing stats for Cultist:
+Cultist's aspect:
+Current Magan:
+Your current soul is a
+You switched to a
+Your current soul is unknown
+Viewing stats for
+Your maximum magan is
+Your current magan is
+Your magan regeneration rate per tick is
+Your ascension stage:
+Your cultist count:
+There's too many artificial souls here
+There must be more space for the cultists to appear
+Visiting the Mind without having any loyal Cultists sounds like a foolish idea
+There's already a Silver Thread in the area
+Tick time:
+Hour:
+It's the hour of
+No deity is governing
+This shrine belongs to
+This deity is active for 1000 ticks after tick time
+Locked Spell
+§6The heart unfolds in the weave to show a Magan Soul influence!
+§bHere, the heart is the feather which it is weighted against. Here is an Air Soul influence.
+§2As the heart spots an Earth Soul influence, it feels like it is one of stone once again.
+§1The blood of the heart jumps and flows as it spots a Water Soul influence.
+§cThe heart beats stronger than it did before as it spots a Fire Soul influence.
+§dThe heart is a skull and the heart is a string. This is a Mana Soul influence.
+§4The heart falls apart but is then rethought in the influence of an Unstable Soul!
+§7The heart stops beating, but it will not die either, as it is in a Immutable Soul influence.
+§fThe heart is awash with vitality as it sports a Balanced Soul influence!
+§eThe heart sings a song that should not be heard in this world.
+§0The heart spots a force of the ancient, a force that should not be found in the world.
+§3This place is not a part of this world. This place serves something else.
+§9This place feels.
+§8This is not a place, this is a machine.

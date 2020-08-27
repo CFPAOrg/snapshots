@@ -1,0 +1,124 @@
+Illusioner dies
+Illusioner hurts
+Illusioner displaces
+Illusioner prepares blindness
+Illusioner prepares mirror image
+Iron Golem attacks
+Iron Golem dies
+Iron Golem hurts
+Item breaks
+Item plops
+Item Frame fills
+Item Frame breaks
+Item Frame placed
+Item Frame empties
+Item Frame clicks
+Leash knot breaks
+Leash knot tied
+Lightning strikes
+Thunder roars
+Llama bleats
+Llama bleats angry
+Llama Chest equips
+Llama dies
+Llama eats
+Llama hurts
+Llama spits
+Llama steps
+Llama is decorated
+Magma Cube dies
+Magma Cube hurts
+Magma Cube squishes
+Minecart rolls
+Mule hee-haws
+Mule Chest equips
+Mule dies
+Mule hurts
+Painting breaks
+Painting placed
+Pig oinks
+Pig dies
+Pig hurts
+Saddle equips
+Burp
+Player dies
+Player hurts
+Player dings
+Polar Bear groans
+Polar Bear hums
+Polar Bear dies
+Polar Bear hurts
+Polar Bear roars
+Bottle smashes
+Bottle thrown
+Rabbit squeaks
+Rabbit attacks
+Rabbit dies
+Rabbit hurts
+Rabbit hops
+Sheep baahs
+Sheep dies
+Sheep hurts
+Shulker lurks
+Shulker closes
+Shulker dies
+Shulker hurts
+Shulker opens
+Shulker shoots
+Shulker teleports
+Shulker bullet explodes
+Shulker bullet breaks
+Silverfish hisses
+Silverfish dies
+Silverfish hurts
+Skeleton rattles
+Skeleton dies
+Skeleton hurts
+Skeleton shoots
+Skeleton Horse cries
+Skeleton Horse dies
+Skeleton Horse hurts
+Slime attacks
+Slime dies
+Slime hurts
+Slime squishes
+Snowball flies
+Snow Golem dies
+Snow Golem hurts
+Spider hisses
+Spider dies
+Spider hurts
+Squid swims
+Squid dies
+Squid hurts
+Stray rattles
+Stray dies
+Stray hurts
+TNT fizzes
+Vex vexes
+Vex shrieks
+Vex dies
+Vex hurts
+Villager mumbles
+Villager dies
+Villager hurts
+Villager disagrees
+Villager trades
+Villager agrees
+Vindicator mutters
+Vindicator dies
+Vindicator hurts
+Witch giggles
+Witch dies
+Witch drinks
+Witch hurts
+Witch throws
+Wither angers
+Wither dies
+Wither hurts
+Wither attacks
+Wither released
+Wither Skeleton rattles
+Wither Skeleton dies
+Wither Skeleton hurts
+Wolf pants

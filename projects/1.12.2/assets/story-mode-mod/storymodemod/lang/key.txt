@@ -1,0 +1,15 @@
+item.endermansuitboots.name
+item.amulet.name
+item.eversourcecrown.name
+item.endermansuitbody.name
+item.endermansuitlegs.name
+item.commandbook.name
+tile.redstoneheart.name
+tile.formidibomb.name
+item.mindcontrolchip.name
+tile.supertnt.name
+item.endermansuithelmet.name
+item.witherednetherstar.name
+tile.whitepumpkin.name
+itemGroup.tabstorymodestuff
+tile.mindcontrolchip.name

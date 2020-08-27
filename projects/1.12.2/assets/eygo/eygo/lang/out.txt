@@ -1,0 +1,47 @@
+EYGO
+<Press SHIFT>
+<Press CTRL>
+Cursed Ruby
+%s on your horse to improve it's stats,Add %s health ( %s max ),Set speed to %s if lower
+Void Breaker
+%s to teleport to your bed location,%1$s%s to set your bed location
+Mystery Book
+%s to open inventory
+Soul Keeper
+%s on creature to catch it,%s to release the creature
+Cataliser
+Can store up %s level,%s to store level,%2$s%s to retreive level
+Void Mark
+Use with Void Breaker,%s to store your position
+Halberd
+Efficiency : %s,Efficiency on Ore : %s,Efficicency on Obsidian %s,Deal %s damage when riding,%s%s for sweep attack with %ss cooldown
+Cursed Halberd
+Add %s %s for %ss with %ss cooldown,Add %s %s for %ss on every hit
+Longbow
+Damage multiplier : %s,Max velocity : %s
+Cursed Longbow
+%s%s shoot 3 arrow with a cooldown of %ss 
+Add %s %s for %ss
+Dragoon Helmet
+Cursed Helmet
+Demonic Helmet
+Dragoon Chestplate
+Cursed Chestplate
+Demonic Chestplate
+Dragoon Leggings
+Cursed Leggings
+Demonic Leggings
+Dragoon Boots
+Cursed Boots
+Demonic Boots
+Dragoon Horse Armor
+Has %s defense
+Nightmare
+Wraith
+Fertilized Soil
+Has 1/%s to apply bone meal,No water required
+Ruby Block
+Permissions for %s was edited
+Failed to update permissions for %s
+/opc <player> [r|s|c] int boolean
+%s is level %s and bypass set to %s

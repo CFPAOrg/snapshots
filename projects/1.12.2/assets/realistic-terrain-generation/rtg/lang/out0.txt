@@ -1,0 +1,64 @@
+RTG - Realistic
+Realistic Terrain Generation uses a custom world type.
+If you want to use the RTG world type, select
+§9World Type: %s§r under §9More World Options§r.
+For use on a dedicated server, set
+Copy Settings to Clipboard
+Click This button to copy the current settings to the clipboard for easy pasting into the generator-settings field of a server.properties file.
+RTG Custom World Settings
+Terrain & Surface Settings
+World Settings
+Fixed Biome
+Chooses the biome for a single-biome world
+Biome Size
+Changes the average size of the biomes
+Surface Settings
+Enable Boulders
+Enables the generation of boulders
+Boulder Chance 1/x
+The chance that a boulder will generate
+Sand Dune Height
+Adjusts the height of sand dunes
+Snow Dune Height
+Adjusts the height of snow dunes
+Snow Layers
+Enable gradiant snow layers in snowy biomes
+Snow Layer Temp
+The temperature that snow layers generate at
+Underground Settings
+Bedrock Layers
+Sets the number of Bedrock layers
+Caves
+Enable cave generation
+Cave Chance
+Cave Density
+Ravines
+Enable ravine generation
+Ravine Chance
+Water Feature Settings
+River Settings
+Size
+Adjusts the width of rivers
+Frequency Multiplier
+Adjusts how often rivers will generate
+Bend Multiplier
+Adjust how bendy rivers will be
+Cut-off Amplitude
+Higher numbers make the large-scale cut-off noise have a greater effect
+Cut-off Scale
+Higher numbers make grassy areas near rivers bigger, but also more rare
+RTG Lake Settings
+Size Multiplier
+The size of RTG custom lakes (River biome)
+Frequency Multiplier
+The frequency by which RTG custom lakes will generate
+Shore Bend Multiplier
+Adjusts the bendiness of lake shores.
+Vanilla Surface lakes Settings
+Water Lakes
+Enable vanilla surface water lakes
+Water Lake Chance 1/x
+The chance that a vanilla surface water lake will generate
+Lava Lakes
+Enable vanilla surface lava lakes
+Lava Lake Chance 1/x

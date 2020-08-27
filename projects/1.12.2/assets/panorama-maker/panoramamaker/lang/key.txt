@@ -1,0 +1,3 @@
+panoramamaker.rightClickAdd
+panoramamaker.panoramaSaved
+panoramamaker.enterWorld

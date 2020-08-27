@@ -1,0 +1,106 @@
+Moonlight Forge
+Scrapper
+Does extra damage depending on how much armor the target is wearing
+Lightning
+Negates damage that would have been done by lightning enchantment
+Lightning Resistance
+Aurorian Pig
+Aurorian Rabbit
+Aurorian Sheep
+Aurorian Slime
+Crystalline Sprite
+Disturbed Hollow
+Moon Acolyte
+Moon Queen
+Runestone Dungeon Keeper
+Spider Mother
+Spiderling
+Spirit
+Undead Knight
+Molten Aurorian Steel
+Molten Cerulean
+Molten Moonstone
+Moonwater
+Orb of Absorption
+Aurorian Bacon
+Aurorian Coal
+Aurorian Coal Nugget
+Aurorianite Axe
+Aurorianite Ingot
+Aurorianite Pickaxe
+Aurorianite Sword
+Aurorian Pork
+Cooked Aurorian Pork
+Aurorian Brick
+Aurorian Slimeball
+Aurorian Slime Boots
+Aurorian Steel
+Aurorian Steel Axe
+Aurorian Steel Boots
+Aurorian Steel Chestplate
+Aurorian Steel Helmet
+Aurorian Steel Hoe
+Aurorian Steel Leggings
+Aurorian Steel Nugget
+Aurorian Steel Pickaxe
+Aurorian Steel Shovel
+Aurorian Steel Sword
+Aurorian Stone Axe
+Aurorian Stone Hoe
+Aurorian Stone Pickaxe
+Aurorian Stone Shovel
+Aurorian Stone Sickle
+Aurorian Stone Sword
+Bepsi
+Cerulean Arrow
+Cerulean Boots
+%s Cerulean Bucket
+Cerulean Bucket
+Cerulean Chestplate
+Cerulean Helmet
+Cerulean Ingot
+Cerulean Leggings
+Cerulean Nugget
+Cerulean Shield
+Crystalline Ingot
+Crystalline Pickaxe
+Crystalline Shield
+Crystalline Sword
+Cup
+Dark Amulet
+Darkstone Key
+Debugger
+Dungeon Keeper Amulet
+Keepers Bow
+Knight Boots
+Knight Chestplate
+Knight Helmet
+Knight Leggings
+Lavender
+Lavender Bread
+Lavender Seeds
+Living Divining Rod
+Dungeon Locator
+Lockpicks
+Moon's Shield
+Moonstone Axe
+Moonstone Hoe
+Moonstone Ingot
+Moonstone Nugget
+Moonstone Pickaxe
+Moonstone Shield
+Moonstone Shovel
+Moonstone Sickle
+Moonstone Sword
+Moontemple Cell Key
+Moontemple Cell Key Fragment
+Moontemple Key
+Plant Fiber
+Runestone Key
+Runestone Loot Key
+Aurorianite Scrap
+Crystalline Scrap
+Umbra Scrap
+Silentwood Axe
+Silentwood Bow
+Silentwood Hoe

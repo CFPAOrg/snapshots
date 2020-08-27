@@ -1,0 +1,25 @@
+Health Beam (Glistering Melon)
+Health Beam (Golden Carrots)
+Health Beam (Gold Nugget)
+Chest Grabber
+Let your turret grab the content from chests with this upgrade! Put chests to the sides or below the turret, so that it can reach them.
+Control Seat
+Ride your turret with this upgrade! Either right-click and choose \"Ride Turret\" in the Settings GUI or shift-right-click the turret to ride it. To get off, just right-click again with the TCU or nothing in your hands. To shoot press the Turret Shoot Key (F)
+XP Collector
+Let your turrets collect and store XP from killed targets! All you have to do when the turret cannot store any more XP is to choose \"Get Experience\" in the TCU Settings GUI.
+Infinite Ammo
+Don't want to let turrets waste ammo? Then this upgrade is the right! The turret won't consume ammo, but keep in mind, that you still need one projectile in the Turret!
+More EXP Storage
+Wanna have more XP storage for your turret? Upgrade your turret with this and it will store 8 times more XP than before!
+Fire Immunity
+Don't let your turret burn down! Use this upgrade if you want to make sure no fiery creature can set it on fire or no lava can destroy it!
+Piercing
+With this upgrade, projectiles can fly through enemies, hitting others behind it. Use this for the most efficiency.
+Economy
+Do you want to waste less ammunition? The Economy upgrade will duplicate each bullet before it gets shoot out. Means the need of ammo will be cut in half!
+Purifying Flames
+This upgrade increases the efficiency of the Flamethrower by purifying the flames it shoots. Flames will do slightly more damage, pierce through enemies, set them longer on fire and will glow in a nice blue.
+Ender-Hurting
+This upgrade will allow turrets to damage Enderman due to their weakness: Water. The projectiles will get a liquid core which is poisonous to them!
+Precision
+Once upgraded with this, every projectile will hit the target with 99.9% accuracy!

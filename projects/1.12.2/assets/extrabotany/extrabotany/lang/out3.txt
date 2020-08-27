@@ -1,0 +1,39 @@
+If this should happen, please comfort me.
+Send me word that he has come back.
+You are healed by %s
+Thanks %s, he or she healed you
+%s helped you to give the boss a punch
+%s restricted the movement of boss
+%s restricted the ability of boss
+%s restricted the ability of boss
+%s praised you 
+%s admired you 
+%s helped you 
+%s sheltered you 
+%s protected you 
+%s helped you 
+%s helped you 
+%s helped you 
+Bloody Enchantress
+The Bloody Enchantress creates &4Mana&0 by consuming nearby creatures' life. Creatures sacrificed to the Bloody Enchantress will not produce any drops or experience.
+Every bite will add a effect called Blood Temptation and overlay with higher amplifier one, the mana production will decrease according to the level of Blood Temptation, and the flower will stop working if the total level of Blood Temptation of all the creatures nearby is over a threshold.
+The only cure is death.
+Burning soul
+Sunshine Lily
+Like the &1Dayblooms&0 the Sunshine Lily produces &4Mana&0 from sunlight, but it is slightly more efficient. Please note that it will still decay.
+Heal and heat.
+Mana from the sun
+Moonlight Lily
+Like the &1Nightshade&0 the Moonlight Lily generates &4Mana&0 at night, but it is slightly more efficient. Please note that it will still decay.
+Sowing of the fool.
+Mana from the moon
+Omniviolet
+According to a saying, knowledge is power. The Omniviolet converts Books or Written Books into &4Mana&0. To increase the amount of mana generated, Bookshelves can be placed around the Omniviolet in a similar fashion to an Enchantment Table. 
+Akashic Records.
+Knowledge is power
+Stonesia
+The Stonesia can convert stone, cobblestone or ores into &4Mana&0. Rarer ores produce more mana. A Livingrock Pedestal nearby with a Nature Orb in it can increase its mana generation efficiency.
+Diamond and Pearl.
+Rare Value
+Tinkle Flower
+The Tinkle flower converts kinetic energy of nearby moving players into &4Mana&0. A Livingrock Pedestal nearby with a Nature Orb in it can increase its mana generation efficiency.

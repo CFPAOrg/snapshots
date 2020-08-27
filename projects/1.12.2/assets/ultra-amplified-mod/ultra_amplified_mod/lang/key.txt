@@ -1,0 +1,4 @@
+generator.UltraAmplified
+generator.UltraAmplified.info
+itemGroup.ultra_amplified_mod
+tile.amplified_portal.name

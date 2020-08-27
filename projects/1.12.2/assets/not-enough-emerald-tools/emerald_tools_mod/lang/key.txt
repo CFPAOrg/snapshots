@@ -1,0 +1,10 @@
+item.emeraldshowel.name
+item.emeraldarmorbody.name
+item.emeraldpickaxe.name
+item.emeraldarmorlegs.name
+item.emeraldarmorboots.name
+item.emeraldsword.name
+item.emeraldpaxel.name
+item.emeraldarmorhelmet.name
+item.emeraldaxe.name
+item.emeraldhoe.name

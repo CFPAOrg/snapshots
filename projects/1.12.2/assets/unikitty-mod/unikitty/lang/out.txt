@@ -1,0 +1,31 @@
+UniKitty Mod
+UniKitty
+Golden Fish
+Raw Unikitty Meat
+Cooked Unikitty Meat
+Black String
+Blue String
+Brown String
+Cyan String
+Gray String
+Green String
+Light Blue String
+Light Gray String
+Lime String
+Magenta String
+Orange String
+Pink String
+Purple String
+Red String
+Yellow String
+UniKitty Horn
+Blue Crystal
+UniKitty Helmet
+UniKitty Chestplate
+UniKitty Leggings
+UniKitty Boots
+Fly
+Potion of Fly
+Splash Potion of Fly
+Lingering Potion of Fly
+Arrow of Fly

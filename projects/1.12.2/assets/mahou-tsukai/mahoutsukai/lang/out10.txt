@@ -1,0 +1,39 @@
+Mystic Eyes of Reversion Range from Stare
+Entities must be this close to the user's look vector to be affected
+Mystic Eyes of Death Collection Mana Cost
+This is the cost of using the scroll
+Mystic Eyes of Death Collection Buff Time (in ticks)
+This is how long the buff lasts
+Mystic Eyes of Death Collection Range
+Entities must be within this radius of the user to be counted
+Mystic Eyes of Death Collection Soul Value For Mobs
+Mob deaths will count this much to the next death prevention.
+Mystic Eyes of Death Collection Soul Value For Players
+Player deaths will count this much to the next death prevention.
+Mystic Eyes of Death Collection Revive Health
+How much health the player gets back when avoiding death
+Mystic Eyes of the Black Flame Mana Cost
+This is the cost of using the scroll
+Mystic Eyes of the Black Flame Buff Time (in ticks)
+This is how long the buff lasts
+Mystic Eyes of the Black Flame Range
+Blocks and entities within this range will be ignited if the user looks at them
+Black Flame Ignition Ticks
+Something is lit on fire every this many ticks, from the player's eyes
+Black Flame Ignition Ticks
+How often flames do an update (in ticks)
+Black Flame Death Age
+Control the speed at which flames die (number between 0 and 3, probably)
+Mystic Eyes of Fay Sight Mana Cost
+This is the cost of using the scroll
+Mystic Eyes of Fay Sight Buff Time (in ticks)
+This is how long the buff lasts
+Leylines Punishment Value (for being not near any leylines)
+This value is added to mana regen. It is the floor for mana added by leylines. By default, you lose 1 mana from regen for not being near a leyline.
+Ley Factor
+The factor used in calculating the leyline bonus regen
+Leylines Bonus Flat (true) or Percentage (false)
+Whether the bonus regen is flat or based on max mana
+Ley Point distance (in blocks)
+How far away ley points are from each other
+Ley Point offset

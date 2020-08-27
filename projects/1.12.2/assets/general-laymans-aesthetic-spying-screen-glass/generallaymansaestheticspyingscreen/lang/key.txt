@@ -1,0 +1,11 @@
+tile.glass.block.glass.base.name
+tile.glass.block.glass.master.name
+tile.glass.block.glass.wireless.name
+tile.glass.block.glass_terminal.name
+glass.gui.channelName
+glass.gui.publicChannel
+glass.gui.availableChannels
+glass.gui.public
+glass.gui.availableProjectors
+glass.gui.notSet
+glass.gui.wirelessExtensionOrder

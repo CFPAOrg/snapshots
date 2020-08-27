@@ -1,0 +1,119 @@
+Craft Item
+Drop Item
+Killed By Count
+Kill Count
+Block Mined Count
+Item Pickup Count
+Item Used Count
+Teamkills
+Total Kill Count
+Trigger
+Total Experience
+Friendly Fire
+Friendly Invisibles
+Name Tag Visibility
+Death Messages
+Team Collision
+Color
+Always
+Never
+Hide For Others
+Hide For Own
+Push Own Team
+Push Other Team
+Enable
+Disable
+Team
+Create
+Join
+Leave
+Remove
+Empty
+Team Options
+Points
+Tag
+Trigger
+Start
+Score
+Position
+Miscellaneous
+Experience
+Exp Coins
+Copy Position
+Set Spawn
+Set Global Spawn
+Kill
+Clear Inventory
+Start
+Potion Effects
+Attributes
+Equipment
+Mob ID
+Custom Name
+Passenger Mob ID
+Hours
+Minutes
+Seconds
+Home
+Butcher
+Settings
+Potions
+Gamemode: %s
+Survival
+Creative
+Adventure
+Spectator
+Difficulty: %s
+Peaceful
+Easy
+Normal
+Hard
+Weather: %s
+Thunderstorm
+Rain
+Clear
+Time: %s
+Midnight (%s)
+Sunset (%s)
+Noon (%s)
+Dawn (%s)
+Back
+Back to Game
+On
+Off
+Yes
+No
+Value
+Name
+Enable
+Disable
+Edit Username
+Add
+Remove
+Reset
+Set To 0
+Perform
+Send
+Copy
+Place Command Block
+Color
+Black
+Dark Blue
+Dark Green
+Dark Aqua
+Dark Red
+Dark Purple
+Gold
+Gray
+Dark Gray
+Blue
+Green
+Aqua
+Red
+Light Purple
+Yellow
+White
+Default
+You do not have permission to use the World Handler
+Change "%s" to disable this message
+An unexpected error occured. Please send a crash report with your log files to the %s forum

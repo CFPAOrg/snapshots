@@ -1,0 +1,108 @@
+Cavern
+Enter the Cavern
+Aquamarine
+Acquire an Aquamarine
+Aqua Cavern
+Enter the Aqua Cavern
+Aqua Mining
+Craft an Aquamarine Pickaxe
+Magniter
+Smelt a Magnite Ingot
+Restive Tool
+Craft a Magnite Tool
+Sweet Jewel
+Acquire Hexcite
+Strange Ore
+Mine Randomite Ore
+Miner's Treasure
+Acquire a Miner's Orb
+Ore Finder
+Craft an ore compass
+Wonder Fissure
+Mine a Fissure
+Iron Miner
+Become an Iron Miner
+Gold Miner
+Become a Gold Miner
+Hexcite Miner
+Become a Hexcite Miner
+Diamond Miner
+Become a Diamond Miner
+Mining Streak!
+Hit a 50-ore combo
+Caveland
+Enter Caveland
+Sturdy Crop
+Shear an Acresia
+Ice Charge
+Charge an Icy Tool
+Slippery!
+Walk on Slippery Ice
+Cavenic Hunter
+Kill one of each Cavenic monster
+Cavenic Orb
+Obtain a Cavenic Orb
+Bow Expert
+Obtain a Cavenic Bow
+Cave Dweller
+Punch a Caveman
+Precious Key
+Acquire a Diamond
+Huge Cavern
+Enter the Huge Cavern
+Cavenia
+Enter Cavenia
+Conqueror of Caves
+Kill one of each cavern monster
+Magician
+Obtain a Spellbook
+One Jump
+Cast Warp
+Leave a Light On
+Cast Light
+Peek a Boo
+Cast Invisibility
+Not Alone
+Cast Summon
+Exploder
+Cast Explosion
+Thunder Strike
+Cast Thunderbolt
+Infinite Power
+Cast Infinity
+Further Energy
+Cast Overload
+Mirage Trip
+Obtain a Mirage Book
+Frost Mountains
+Enter the Frost Mountains
+Wide Desert
+Enter the Wide Desert
+Void
+Enter the Void
+Dark Forest
+Enter the Dark Forest
+Crown Cliffs
+Enter the Crown Cliffs
+Skyland
+Enter the Skyland
+Cavern
+Toggle Mining Assist
+Open Mining Records
+Spellbook
+Mining Assist
+Mining Assist Selection
+Disabled
+Veinmine
+Area
+Tunneling
+Auto Switch
+Auto Switch: Veinmine
+Auto Switch: Tunneling
+Mining Assist has been changed to %s
+Mining Assist cannot be changed until you become a %s
+Press %s key to toggle mode
+Mining Assist is set to %s
+Ability Unlocked!
+Ice Charge: %s
+Portal Shop

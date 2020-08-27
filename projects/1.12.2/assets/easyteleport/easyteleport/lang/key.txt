@@ -1,0 +1,12 @@
+item.teleportendportable.name
+item.teleportoverworldportable.name
+tile.teleportend.name
+tile.teleportcoords.name
+tile.teleportoverworld.name
+itemGroup.EasyTeleport
+tooltip.TeleportEnd.txt
+tooltip.TeleportCoords.txt
+tooltip.TeleportCoordsA.txt
+tooltip.TeleportOverworld.txt
+tooltip.TeleportEndPortable.txt
+tooltip.TeleportOverworldPortable.txt

@@ -1,0 +1,6 @@
+item.f0_ss.sshields.name
+item.f0_ss.sswords.name
+item.f0_ss.sshieldm.name
+item.f0_ss.sswordm.name
+item.f0_ss.sshieldl.name
+item.f0_ss.sswordl.name

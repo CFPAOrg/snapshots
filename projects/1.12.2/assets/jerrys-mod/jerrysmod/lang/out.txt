@@ -1,0 +1,46 @@
+Jerry Sword
+Jerry Pickaxe
+Jerry Shovel
+Jerry Axe
+Jerry Hoe
+Slime Sword
+Slime Pickaxe
+Slime Shovel
+Slime Axe
+Slime Hoe
+Jerry Helmet
+Jerry Chestplate
+Jerry Leggings
+Jerry Boots
+Slime Helmet
+Slime Chestplate
+Slime Leggings
+Slime Boots
+Jerry Gem
+Slime Gem
+Slime Chunk
+Slime Shard
+Slime Stick
+Slime Tamer
+Slime Head
+§6Captain of Light
+Slime and Steel
+Slime Drop
+Olive
+Grapes
+§6Phone
+Slime Grass
+Slime Dirt
+Slime Ore
+Slime Stone
+§2Slime Block
+§aJerry Block
+Olive Plank
+Olive Log
+Olive Sapling
+Olive Leaves
+Olive Stairs
+Fire
+Slime Portal
+Jerry's Mod
+Tame Slime

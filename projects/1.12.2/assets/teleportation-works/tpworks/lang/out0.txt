@@ -1,0 +1,41 @@
+Equipped Item Settings
+Settings specific to the use of equipped items included with this mod
+Bows Can Send To Rails
+When cycling through Bow of Teleportation destinations, include saved Teleport Rails.
+Wands Teleport Boats Ridden
+Wand of Teleportation also teleports boats that a player is riding.
+Wands Teleport Creatures Ridden
+Wand of Teleportation also teleports creatures that a player is riding.
+Wands Teleport Minecarts Ridden
+Wand of Teleportation also teleports minecarts that a player is riding.
+Splash Potion Settings
+Settings specific to the Splash Potion of Teleportation
+Teleport Boats
+Teleport any boats within the potion splash radius.
+Selectively Teleport Boats
+Teleport boats only when they have passengers who can also be teleported.
+Teleport Dropped Items
+Teleport any dropped items within the potion splash radius.
+Teleport Hostile Creatures
+Teleport any hostile creatures (mobs) within the potion splash radius.
+Teleport Minecarts
+Teleport any minecarts within the potion splash radius.
+Selectively Teleport Minecarts
+Teleport minecarts only when they have passengers who can also be teleported.
+Teleport Passive Creatures
+Teleport any passive creatures within the potion splash radius.
+Teleport Thrower
+Teleport thrower if within the potion splash radius.
+Teleport Other Players
+Teleport other players within the potion splash radius.
+Teleport Projectiles
+Teleport any projectiles within the potion splash radius.
+Teleport Lit TNT
+Teleport any lit TNT within the potion splash radius.
+Teleport Block Settings
+Settings specific to teleport blocks included with this mod
+Beacon Cooldown Time
+Cooldown time (in ticks) after a Teleport Beacon receives an entity before it can teleport an entity.
+Beacons Can Send To Rails
+When cycling through Teleport Beacon destinations, include saved Teleport Rails.
+Beacons Can Send To Themselves

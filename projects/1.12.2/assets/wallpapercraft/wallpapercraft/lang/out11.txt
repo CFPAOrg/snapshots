@@ -1,0 +1,103 @@
+Damask Warm Gray
+Damask Middle Warm Gray
+Damask Dark Warm Gray
+Damask Warm Black Gray
+Damask Light Cool gray
+Damask Cool Gray
+Damask Dark Cool Gray
+Damask Cool Blue Gray
+Damask Cool Dark Blue Gray
+Clay Light Warm Pink
+Clay Light Red
+Clay Bright Red
+Clay Red
+Clay Blood Red
+Clay Light Cool Pink
+Clay Pink
+Clay Hot Pink
+Clay Dark Pink
+Clay Fuchsia
+Clay Baby Pink
+Clay Light Salmon Red
+Clay Salmon Red
+Clay Brown Red
+Clay Dark Brown Red
+Clay Light Magenta
+Clay Magenta
+Clay Dark Magenta
+Clay Violet
+Clay Dark Violet
+Clay Light Violet
+Clay Light Purple
+Clay Purple
+Clay Dark Purple
+Clay Royal Blue
+Clay Light Lavender
+Clay Lavender
+Clay Azure Blue
+Clay Dark Blue
+Clay Midnight Blue
+Clay Light Blue
+Clay Light Sky Blue
+Clay Sky Blue
+Clay Dark Sky Blue
+Clay Navy Blue
+Clay Light Baby Blue
+Clay Baby Blue
+Clay Bright Blue
+Clay Medium Blue
+Clay Deep Blue
+Clay Light Aqua Blue
+Clay Aqua Blue
+Clay Dark Aqua Blue
+Clay Ocean Blue
+Clay Midnight Blue
+Clay Soft Orange
+Clay Sienna brown
+Clay Burnt Sienna Brown
+Clay Earth Brown
+Clay Soil Brown
+Clay Light Beige
+Clay Beige
+Clay Terracotta Red
+Clay Brown
+Clay Saddle Brown
+Clay Light Gray Brown
+Clay Gray Brown
+Clay Middle Gray Brown
+Clay Gray Brown
+Clay Dark Gray Brown
+Clay Light Green Blue
+Clay Light Turquoise Blue
+Clay Turquoise Blue
+Clay Teal Blue
+Clay Dark Teal Blue
+Clay Light Seafoam Blue Green
+Clay Seafoam Blue Green
+Clay Blue Green
+Clay Dark Blue Green
+Clay Dark Pine Blue Green
+Clay Light Green
+Clay Light Spring Green
+Clay Spring Green
+Clay Green
+Clay Dark Green
+Clay Light Summer Green
+Clay Summer Green
+Clay Lush Green
+Clay Deep Lush Green
+Clay Dark Lush Green
+Clay Light Spring Green
+Clay Spring Green
+Clay Light Olive Green
+Clay Olive Green
+Clay Moss Green
+Clay Light Lemon Yellow
+Clay Lemon Yellow
+Clay Sunny Yellow
+Clay Soft Yellow
+Clay Orange Yellow
+Clay Light Sand Yellow
+Clay Light Yellow
+Clay Yellow
+Clay Gold Yellow

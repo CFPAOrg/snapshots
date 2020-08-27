@@ -1,0 +1,106 @@
+Bookcase
+Book
+Skyware Work Bench
+Marble Work Bench
+Woman Statue
+Dynasty Bookcase
+Hoplite Statue
+Lavafly in a Bottle
+Mushroom Work Bench
+Spooky Work Bench
+Obsidian Work Bench
+Granite Table
+Marble Table
+Flesh Door
+Iron Door
+Lead Door
+Marble Door
+Rich Mahogany Door
+Slime Bookcase
+Shadewood Bookcase
+Blue Dungeon Bookcase
+Armed Zombie Statue
+Keg
+Firefly Statue
+Angel Statue
+Gargoyle Statue
+Martian Table
+Cactus Bookcase
+Reaper Statue
+Living Wood Bookcase
+Cross Grave Marker
+Gravestone
+Tombstone
+Headstone
+Terraria Craft
+Toggle Gravity
+Hotbar Slot 10
+Activate healing potion
+Activate mana potion
+Activate all buff potions
+%s was shot by %s.
+%s was killed by %s using Starfury.
+%s saw deadly falling star.
+%s became a victim to dart trap.
+%s was prickled to death.
+Potion Sickness
+Can't use any healing items
+Spelunker
+Shows the location of treasure and ore
+Regeneration
+Regenerates health
+Mining
+Mining speed increased by %,d%%
+Ammo Reservation
+Grants 20%% chance to retain ammo
+Baby Slime
+The baby slime will fight for you
+Burning
+Slowly Losing life
+Poisoned
+Slowly Losing life
+Happy!
+Swiftness
+Ironskin
+Shine
+Emitting light
+Creative
+Unlimited resources and immediate block destruction
+Star in a Bottle
+Increased mana regeneration
+Heart Lamp
+Life regen is increased
+Cozy Fire
+Life regen is slightly increased
+Magic Power
+20%% increased magic damage
+Cursed Inferno
+Losing life
+Builder
+Increased placement speed and range
+Water Walking
+Sneak to enter water
+Clairvoyance
+Magic powers are increased
+Darkness
+Decreased light vision
+Gravitation
+Press %s to reverse gravity
+Banner
+Increased damage and defense from the following:
+Material
+Ammo
+Mana
+Consumable
+Equipable
+Uses %s mana
+Restores %s life
+Restores %s mana
+Duration: %s min
+Increased regeneration speed
+%,d%% increased movement speed
+May annoy others
+Pulsing with dark energy
+Warm to the touch
+Hot to the touch
+Reacts to the light

@@ -1,0 +1,8 @@
+tile.candyOre.name
+item.rockCandy.name
+item.sweetrockCandy.name
+item.deepblueCandy.name
+item.redhotCandy.name
+item.glowCandy.name
+item.skyCandy.name
+item.healthyCandy.name

@@ -1,0 +1,16 @@
+advancements.ezdiamonds.descr
+item.a.name
+item.ultimatesword.name
+item.ibody.name
+item.asdhelmet.name
+item.refinedcoal.name
+item.asdboots.name
+item.ihelmet.name
+item.diamondstick.name
+item.obsidiansword.name
+item.minerspick.name
+tile.refinedblockofcoal.name
+item.ilegs.name
+item.iboots.name
+item.redfish.name
+advancements.ezdiamonds.title

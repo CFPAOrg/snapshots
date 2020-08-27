@@ -1,0 +1,80 @@
+Black Steel Javelin
+Blue Steel Javelin
+Red Steel Javelin
+Bismuth Bronze Javelin Head
+Black Bronze Javelin Head
+Bronze Javelin Head
+Copper Javelin Head
+Wrought Iron Javelin Head
+Steel Javelin Head
+Black Steel Javelin Head
+Blue Steel Javelin Head
+Red Steel Javelin Head
+Bismuth Bronze Hammer
+Black Bronze Hammer
+Bronze Hammer
+Copper Hammer
+Wrought Iron Hammer
+Steel Hammer
+Black Steel Hammer
+Blue Steel Hammer
+Red Steel Hammer
+Bismuth Bronze Hammer Head
+Black Bronze Hammer Head
+Bronze Hammer Head
+Copper Hammer Head
+Wrought Iron Hammer Head
+Steel Hammer Head
+Black Steel Hammer Head
+Blue Steel Hammer Head
+Red Steel Hammer Head
+Bismuth Bronze Prospector's Pickaxe
+Black Bronze Prospector's Pickaxe
+Bronze Prospector's Pickaxe
+Copper Prospector's Pickaxe
+Wrought Iron Prospector's Pickaxe
+Steel Prospector's Pickaxe
+Black Steel Prospector's Pickaxe
+Blue Steel Prospector's Pickaxe
+Red Steel Prospector's Pickaxe
+Bismuth Bronze Prospector's Pickaxe Head
+Black Bronze Prospector's Pickaxe Head
+Bronze Prospector's Pickaxe Head
+Copper Prospector's Pickaxe Head
+Wrought Iron Prospector's Pickaxe Head
+Steel Prospector's Pickaxe Head
+Black Steel Prospector's Pickaxe Head
+Blue Steel Prospector's Pickaxe Head
+Red Steel Prospector's Pickaxe Head
+Bismuth Bronze Knife
+Black Bronze Knife
+Bronze Knife
+Copper Knife
+Wrought Iron Knife
+Steel Knife
+Black Steel Knife
+Blue Steel Knife
+Red Steel Knife
+Bismuth Bronze Knife Blade
+Black Bronze Knife Blade
+Bronze Knife Blade
+Copper Knife Blade
+Wrought Iron Knife Blade
+Steel Knife Blade
+Black Steel Knife Blade
+Blue Steel Knife Blade
+Red Steel Knife Blade
+Bismuth Bronze Scythe
+Black Bronze Scythe
+Bronze Scythe
+Copper Scythe
+Wrought Iron Scythe
+Steel Scythe
+Black Steel Scythe
+Blue Steel Scythe
+Red Steel Scythe
+Bismuth Bronze Scythe Blade
+Black Bronze Scythe Blade
+Bronze Scythe Blade
+Copper Scythe Blade
+Wrought Iron Scythe Blade

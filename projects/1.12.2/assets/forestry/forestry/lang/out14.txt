@@ -1,0 +1,69 @@
+- %s : Spawn Forest
+Spawn a small forest of trees near the player.
+Format:/%s <species-name> [<player-name>]
+- %s : Treekeeping Mode Commands
+Commands relating to Treekeeping Modes.
+Format: /%s <sub-command>
+- %s : Treekeeping Mode Info
+Information about current and available treekeeping modes.
+Format: /%s <mode-name>
+- %s : Treekeeping Mode Set
+Set the treekeeping mode for world.
+Format: /%s [<world-#>] <mode-name>
+- %s : Save Treekeeping Statistics
+Save treekeeping statistics to file.
+Format: /%s [<player-name>]
+Treekeeping statistics for %s on %s:
+Widespread birch tree, which on average is of smaller height.|Codex Lignum
+Small tree. In its natural form it will bear cherries which will need to undergo a ripening period.|Codex Lignum
+Tall, deciduous tree with large trunk. Naturally occuring chestnut trees carry fruits which require some time to ripe.|Codex Lignum
+Tall, deciduous tree. It has been reclassified recently as being in the Malvaceae family.|Codex Lignum
+Common tree species whose apple-bearing properties are the subject of much song and dance.|Codex Lignum
+Tall, evergreen trees with valuable timber. Wood and bark are pleasantly scented. Will only thrive in tropical climes.|Codex Lignum
+Tall, deciduous tree with large trunk. Naturally occuring walnut trees carry fruits which require some time to ripe.|Codex Lignum
+Large, deciduous tree. White willows are fast-growing. Have only been observed to occur in damp climates.|Codex Lignum
+Jungle
+Nuts
+Pomes
+Prunes
+Apple
+Cherry
+Chestnut
+Cocoa
+Dates
+Lemon
+None
+Papaya
+Plum
+Walnut
+Family
+Fireproof
+Fruits
+Girth
+Height
+Matures
+Soil
+Saplings
+Sappiness
+Supports
+Yield
+Combustibility
+Carbonization
+Blossom
+%SPECIES %TYPE
+Germling
+%SPECIES %TYPE
+Pollen
+%SPECIES %TYPE
+Sapling
+%SPECIES %TYPE
+Leaves
+%SPECIES %TYPE
+Wood Pile
+%SPECIES %TYPE
+Wood Pile
+Decorative Wood Pile
+Loam
+Ash Block
+Block of Charcoal
+%PRIMARY-%SECONDARY Hybrid

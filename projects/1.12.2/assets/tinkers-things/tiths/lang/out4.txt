@@ -1,0 +1,51 @@
+§oCome here§r\nTo summon animals with a small chance
+Stamina Focusing
+§oStrong mind§r\nTo provide resistance effect when user is sneaking
+Champing
+§oYou are free§r\nTo increase the rate of critical and critical damage
+Vibrating
+§oNot very handy§r\nTo decrease the speed but increase knockback when continuously using
+Combustion Supporting
+§oYou are fired!§r\nTo increase damage when target is in burning
+Blowing
+§o-25% off§r\nTo blow away the held item of your target
+Carbonizing
+§oNo§r\nTo increase fire damage you suffered
+Chemical Instable
+§oNo vrey well§r\nTo explode with a small chance when hited
+Dichroic
+§oNot the same§r\nTo decrease damage when at light places, or decrease knockback
+Endothermic
+§oHot no more§r\nTo decrease fire damage with higher durability cost
+Extreme Freezing
+§oHeart of the frost§r\nTo slow down the monsters around
+Gorgeous
+§oColorful black§r\nTo decrease the damage
+Hemolytic
+§oNo matter whose blood it is§r\nYour armor will repair itself when you suffering damage
+Hiding
+§oBye§r\nTo provide invisibility efect when hited
+Lifting
+§oSlowly§r\nTo decrease falling speed and falling damage
+Luxurious
+§oWealthy people stuff too§r\nGet less durability during repairing
+Moon Power
+§o§r\nTo slowly heal the tool at night time
+Radiant
+§oHeart of the flame§r\nTo fire the monsters around
+Sun Power
+§o§r\nTo slowly heal the tool at day time
+Fading
+§oInside the shadow§r\nThe lower the brightness, the easier to dodge attack
+Hyper
+§oI'm so high§r\nMore monsters around, more fast you will be
+Icy
+§oCool off§r\nTo gradually regain duration in cold places and lose duration in hot places
+Over Heavy
+§oNo I can't§r\nSlow down yourself
+Sliding
+§oBroken up§r\nTo cancel the damage by a high durability cost with a small chance
+Threshold Limiting
+§oNo too much§r\nYou will not receive more than a quarter of your current health
+Deep Parasitic
+§oYours?§r\nYour armor will repair itself by give wearer damage\n§4Armor can not take away anymore§r

@@ -1,0 +1,4 @@
+item.blankrecord.name
+item.record.blankrecord.desc
+item.obsidianplate.name
+tile.musicgenerator.name

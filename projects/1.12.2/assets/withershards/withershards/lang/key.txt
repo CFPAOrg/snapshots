@@ -1,0 +1,2 @@
+item.shard_nether_star.name
+itemGroup.withershards

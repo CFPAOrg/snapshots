@@ -1,0 +1,75 @@
+Quartzium
+Black Quartzium Block
+Black Quartzium Bricks
+Black Quartzium Crystal
+Black Quartzium Engineering Bricks
+Black Quartzium Inverted Lamp
+Black Quartzium Lamp
+Black Quartzium Ore
+Black Quartzium Plate
+Black Quartzium Platform
+Black Quartzium Shield
+Blue Quartzium Block
+Blue Quartzium Bricks
+Blue Quartzium Crystal
+Blue Quartzium Engineering Bricks
+Blue Quartzium Inverted Lamp
+Blue Quartzium Lamp
+Blue Quartzium Ore
+Blue Quartzium Plate
+Blue Quartzium Platform
+Blue Quartzium Shield
+Brown Quartzium Block
+Brown Quartzium Bricks
+Brown Quartzium Crystal
+Brown Quartzium Engineering Bricks
+Brown Quartzium Inverted Lamp
+Brown Quartzium Lamp
+Brown Quartzium Ore
+Brown Quartzium Plate
+Brown Quartzium Platform
+Brown Quartzium Shield
+Cyan Quartzium Block
+Cyan Quartzium Bricks
+Cyan Quartzium Crystal
+Cyan Quartzium Engineering Bricks
+Cyan Quartzium Inverted Lamp
+Cyan Quartzium Lamp
+Cyan Quartzium Ore
+Cyan Quartzium Plate
+Cyan Quartzium Platform
+Cyan Quartzium Shield
+Gray Quartzium Block
+Gray Quartzium Bricks
+Gray Quartzium Crystal
+Gray Quartzium Engineering Bricks
+Gray Quartzium Inverted Lamp
+Gray Quartzium Lamp
+Gray Quartzium Ore
+Gray Quartzium Plate
+Gray Quartzium Platform
+Gray Quartzium Shield
+Green Quartzium Block
+Green Quartzium Bricks
+Green Quartzium Crystal
+Green Quartzium Engineering Bricks
+Green Quartzium Inverted Lamp
+Green Quartzium Lamp
+Green Quartzium Ore
+Green Quartzium Plate
+Green Quartzium Platform
+Green Quartzium Shield
+Light Blue Quartzium Block
+Light Blue Quartzium Bricks
+Light Blue Quartzium Crystal
+Light Blue Quartzium Engineering Bricks
+Light Blue Quartzium Inverted Lamp
+Light Blue Quartzium Lamp
+Light Blue Quartzium Ore
+Light Blue Quartzium Plate
+Light Blue Quartzium Platform
+Light Blue Quartzium Shield
+Light Gray Quartzium Block
+Light Gray Quartzium Bricks
+Light Gray Quartzium Crystal
+Light Gray Quartzium Engineering Bricks

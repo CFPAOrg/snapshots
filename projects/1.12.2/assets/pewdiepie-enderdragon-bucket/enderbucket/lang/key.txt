@@ -1,0 +1,7 @@
+item.redstonesword.name
+item.enderbucket.name
+item.witherbucket.name
+fluid.dragonfluid
+item.endercapturedbucket.name
+item.dragonsword.name
+item.doubledippedsword.name

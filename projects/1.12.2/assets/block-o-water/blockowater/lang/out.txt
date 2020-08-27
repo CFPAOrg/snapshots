@@ -1,0 +1,16 @@
+Block O' Water
+Pushing Enabled
+Extract Only
+Requires River or Ocean
+Doesn't Work in Nether
+Generation
+Config for how a Block O' Water generates water.
+Pushing
+Config for how a Block O' Water pushes to adjacent blocks.
+Working Conditions
+Config for the conditions a Block O' Water works in.
+Client
+Config for client-only settings.
+Tooltips
+Config for the tooltips that appear on a Block O' Water.
+Block O' Water

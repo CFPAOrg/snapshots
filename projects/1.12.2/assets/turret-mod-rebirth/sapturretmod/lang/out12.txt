@@ -1,0 +1,92 @@
+The upper Y-Range defines the range the turret can look for enemies above its head.
+lower Y-Range
+The lower Y-Range defines the range the turret can look for enemies below its base.
+X-Range
+The X-Range defines the range the turret can look for enemies horizontally.
+Damage
+The damage the turret deals to an entity each projectile.
+max. Experience capacity
+The max. capacity of Experience the turret can hold after upgraded with the XP upgrade.
+hover over an icon above to see the information.
+hover over an entry to see the information.
+%d blocks
+Ammo Items
+Healing Items
+projectile|projectiles
+%d / %d projectiles
+health point|health points
+%d / %d health points
+Requires: %s
+TCU - Targets
+Monsters
+Animals
+Other Entities
+Information
+Targets
+Settings
+TCU - Informations
+Health
+Ammunition
+Shield Points
+Type
+Experience Points
+upgrade not available
+Miscellaneous
+Turret name:
+Owner:
+Target:
+Scanning for targets
+Has Mobile Base:
+TCU - Upgrades
+TCU - Settings
+Dismantle Turret
+Target unique targets
+%s : on
+%s : off
+Get experience
+Dismount from mobile base
+Ride Turret
+Frequency
+Activate Turret
+Deactivate Turret
+Turret-Laptop - General
+Turret-Laptop - Targets
+Turret-Laptop - Upgrades
+Turret-Laptop - Miscellaneous
+Upgrade-Items
+Program Turrets
+General Settings
+Status Label
+Enable Status Label
+Disable Status Label
+Change TurretCam Crosshair
+Enable Turrets
+Disable Turrets
+Reset Targeted Entities
+Custom Name
+Enable Unique Targeting
+Disable Unique Targeting
+Dismantled Turret Storage
+Turret Shoot Key
+Range
+name: %s
+frequency: %s
+new targets
+new upgrades
+Explosion Radius: %s
+Spreads Fire
+Dispersing Shrapnels
+Ground-Griefing
+Turret Laptop
+Crossbow Turret (T1)
+Shotgun Turret (T1)
+Minigun Turret (T2)
+Revolver Turret (T2)
+Laser Turret (T3)
+Flamethrower Turret (T3)
+Sniper Turret (T4)
+FLAK Turret (T4)
+Railgun Turret (T5)
+Artillery Turret (T5)
+Snowball Turret (TS)
+Collector Turret (TS)

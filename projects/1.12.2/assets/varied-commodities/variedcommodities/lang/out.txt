@@ -1,0 +1,123 @@
+Soldier Leggings
+Soldier Trenchcoat
+X407 Prototype Helmet
+X407 Prototype ChestPlate
+X407 Prototype Leggings
+X407 Prototype Boots
+Mithril Helmet
+Mithril ChestPlate
+Mithril Leggings
+Mithril Boots
+Demonic Helmet
+Demonic ChestPlate
+Demonic Leggings
+Demonic Boots
+Commissar Helmet
+Commissar ChestPlate
+Commissar Leggings
+Commissar Trenchcoat
+Infantry Helmet
+Officer ChestPlate
+Crown
+Crown
+Paper Crown
+Ninja Head
+Ninja Chest
+Ninja Leggings
+Full Emerald Helmet
+Full Emerald ChestPlate
+Full Emerald Leggings
+Full Emerald Boots
+Orb
+BrokenOrb
+Letter
+Plans
+Satchel
+Bag
+Crystal
+Severed Ear
+Phone
+Bandit Mask
+Broken Arrow
+Earth Element
+Water Element
+Fire Element
+Air Element
+Car Key
+Key
+Key
+Pendant
+Blueprint
+Ring
+Skull
+Sapphire
+Amethyst
+Ruby
+Bronze Ingot
+Demonic Ingot
+Mithril Ingot
+Steel Ingot
+Macuahuitl
+Bo Staff
+Sai Blade
+Crossbow
+Crossbow Bolt
+Slingshot
+Musket
+Excalibur
+Bronze Sword
+Emerald Sword
+Demonic Sword
+Frost Sword
+Mithril Sword
+Ancient Coin
+Ancient Scroll
+Artifact
+Locket
+Silk
+Statuette
+Tablet
+Wooden Halberd
+Stone Halberd
+Iron Halberd
+Golden Halberd
+Diamond Halberd
+Bronze Halberd
+Emerald Halberd
+Demonic Halberd
+Frost Halberd
+Mithril Halberd
+Wooden Warhammer
+Stone Warhammer
+Iron Warhammer
+Golden Warhammer
+Diamond Warhammer
+Bronze Warhammer
+Emerald Warhammer
+Demonic Warhammer
+Frost Warhammer
+Mithril Warhammer
+Chain Skirt
+Leather Skirt
+Golden Skirt
+Iron Skirt
+Diamond Skirt
+Emerald Skirt
+Bronze Skirt
+Demonic Skirt
+Mithril Skirt
+Wooden Broadsword
+Stone Broadsword
+Iron Broadsword
+Golden Broadsword
+Diamond Broadsword
+Bronze Broadsword
+Emerald Broadsword
+Demonic Broadsword
+Frost Broadsword
+Mithril Broadsword
+Heart
+Money
+Necklace
+USB-Stick
+VariedCommodities Recipe Book

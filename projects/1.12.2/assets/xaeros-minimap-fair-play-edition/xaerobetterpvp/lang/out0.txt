@@ -1,0 +1,54 @@
+Confirm
+Cancel
+Back
+Delete
+OK
+Add/Edit
+New Waypoint
+initial
+Edit Waypoint
+Armour Status Settings
+Choose a preset
+Choose an Interface
+Armour Status
+Notifications
+Minimap
+Miscellaneous
+Edit Mode
+Instructions/Help
+You need to be in-game to use edit mode!
+Welcome to Edit Mode!
+Left click an interface to select it.
+Left click and drag to move an interface around.
+Right click to deselect an interface.
+Press "C" to center or uncenter a selected interface.
+Some interfaces have a different centered look.
+Press "F" to flip or unflip a selected interface.
+Press "S" to quickly access settings of a selected interface.
+Select a preset by clicking the "Choose a preset" button.
+Save your changes by clicking the "Confirm" button.
+Cancel your changes by clicking the "Cancel" button.
+Minimap Settings
+Miscellaneous Settings
+Notification Settings
+Better PVP Settings
+The server might have disabled some of the mod features.
+Waypoints
+An interface displaying currently active potion effects.
+An interface displaying info about your currently worn armour and item held at the time.
+Sprint by holding one single key bind (configurable).
+Allows you to toggle your sneak ON/OFF and stay sneaking without having to hold anything.
+On-screen notifications for various things such as low hunger, low HP, danger of explosion, being shot by (an) arrow(s).
+Gained or lost experience flies across your screen. gainz
+Action bar-like system of keybinds that lets you automatically use a set item in your hot bar without having to switch away from your currently held item. Holding the key bind lets you keep using the item like if you were holding the right mouse button. For example: placing torches, TNT, throwing potions, eating food, drinking.
+A minimap displaying you your nearest surroundings and entities.
+Centered:
+(pr. C)
+Flipped:
+(pr. F)
+Fancy
+Classic
+Social
+Potion Status
+Display Arrows Left
+Better Sprint

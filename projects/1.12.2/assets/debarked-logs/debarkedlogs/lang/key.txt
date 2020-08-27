@@ -1,0 +1,7 @@
+tile.debarked:log_old.0.name
+tile.debarked:log_old.1.name
+tile.debarked:log_old.2.name
+tile.debarked:log_old.3.name
+tile.debarked:log_new.0.name
+tile.debarked:log_new.1.name
+itemGroup.debark:dbTab

@@ -1,0 +1,41 @@
+This is the cost of using the scroll
+Damage Exchange Mana Gain
+This is the how much mana you get back when you're injured
+Contract Mana Cost
+This is the cost of forming a contract with another player
+Contract Operation Cycle (in Ticks)
+This is how often the block checks for players on top of it
+Contract Radius
+This is the max distance between contract circles.
+Immunity Exchange Mana Cost
+This is the mana cost per scroll
+Immunity Exchange Buff Time
+This is how long the buff/debuff lasts (in ticks)
+Spatial Disorientation Staff Summon Mana Cost
+This is the cost of using the scroll
+Spatial Disorientation Staff AOE Mana Cost per second
+This is the cost of using the staff on a block (per second!)
+Spatial Disorientation Staff Single Target Mana Cost
+This is a flat cost of using the staff on an entity
+Mystic Explosion Staff Summon Mana Cost
+This is the cost of using the scroll
+Mystic Explosion Staff Big Explosion Mana Cost
+This is the cost of using the giant explosion
+Mystic Explosion Staff AOE Mana Cost
+This is the cost of using the multiple explosion mode
+Damage scales with caster max mana for Big explosion
+Whether the damage is flat or scales with caster's 'level'
+Damage scales with caster max mana for AOE explosions
+Whether the damage is flat or scales with caster's 'level'
+Damage factor for Mystic Staff Big Explosion
+Either a fraction of the max mana (if scaling) or a flat damage value
+Damage factor for Mystic Staff AOE Explosion
+Either a fraction of the max mana (if scaling) or a flat damage value
+Size of Mystic Staff AOE Explosion
+Explosion Size for AOE Explosion
+Size of Mystic Staff Big Explosion
+Explosion Size for Big Explosion
+Damage factor for Mystic Staff Beam
+Either a fraction of the max mana (if scaling) or a flat damage value
+Mana cost per tick for Mystic Staff Beam
+This is the cost of using the beam, per tick (20 ticks per second)

@@ -1,0 +1,26 @@
+Reign of Beasts
+Reign of Beasts description here.
+Halite Ore
+Block of Halite
+Sandstone
+Spider Egg
+Spider Queen Egg
+Halite Ingot
+Halite Nugget
+Spider Gland
+Halite Saber
+Halite Pickaxe
+Halite Axe
+Halite Shovel
+"&bPoison Touch II&7"
+Black Spider
+Black Queen
+Desert Warrior
+Hold &bSHIFT&7 for more info
+&bSet&r:
+Halite Armor
+"Poison resistance"
+Halite Helmet
+Halite Chestplate
+Halite Leggings
+Halite Boots

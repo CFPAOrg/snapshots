@@ -1,0 +1,7 @@
+tile.globe.block.globeCreator.name
+tile.globe.block.globeStand.name
+item.globe.item.globe_empty.name
+item.globe.item.globe.name
+subtitles.globe.chargeup
+subtitles.globe.ding
+death.attack.globe.globeProcess

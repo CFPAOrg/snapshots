@@ -1,0 +1,5 @@
+item.biomestaff:biome_staff.name
+item.biomestaff:obsidian_shaft.name
+item.biomestaff:top_plate.name
+itemGroup.biomestaff
+jei.biomestaff:biome_staff.desc

@@ -1,0 +1,49 @@
+Carve with the Carving Tool to create a Silverfish Totem Head
+Carve with the Carving Tool to create a Slime Totem Head
+Carve with the Carving Tool to create a Blaze Totem Head
+Carve with the Carving Tool to create a Zombie Pigman Totem Head
+Carve with the Carving Tool to create a Ghast Totem Head
+Carve with the Carving Tool to create a Magma Cube Totem Head
+Stops Zombies and Husks from spawning when placed on a totem base
+Stops Skeletons, Wither Skeletons and Strays from spawning when placed on a totem base
+Stops Creepers from spawning when placed on a totem base
+Stops Spiders from spawning when placed on a totem base
+Stops Endermen from spawning when placed on a totem base
+Stops Witches from spawning when placed on a totem base
+Stops Silverfish from spawning when placed on a totem base
+Stops Slimes from spawning when placed on a totem base
+Stops Blazes from spawning when placed on a totem base
+Stops Zombie Pigmen from spawning when placed on a totem base
+Stops Ghasts from spawning when placed on a totem base
+Stops Magma Cubes from spawning when placed on a totem base
+Combines the effects of the Zombie, Skeleton, Creeper and Spider Totem Heads
+Combines the effects of the Blaze, Ghast, Zombie Pigman and Magma Cube Totem Heads
+Combines the effects of the Enderman, Witch, Silverfish and Slime Totem Heads
+Stops all monsters from spawning §o(Even modded ones)
+Required for totem heads to work and determines affected radius
+§bRadius: 64 blocks
+§bRadius: 96 blocks
+§bRadius: 128 blocks
+§cThere are no totem heads above the base.
+§6Preventing spawns of:
+§6Preventing spawns of: §d(Indestructible)
+Zombies and Husks
+Creepers
+Skeletons, Wither Skeletons and Strays
+Spiders
+Endermen
+Witches
+Silverfish
+Slimes
+Blazes
+Zombie Pigmen
+Ghasts
+Magma Cubes
+All monsters
+Is Cubic Range?
+Is Y Always 256?
+Prevent Spawners
+Random Spirits
+Totem Base I Range
+Totem Base II Range
+Totem Base III Range

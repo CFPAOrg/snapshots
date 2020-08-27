@@ -1,0 +1,30 @@
+Tons more damage upon direct hit, wayy faster!
+§c§l§oFocused §c§l§oexplosion ;; Can sometimes destroy obsidian
+§c§l§oCharged §c§l§oexplosion ;; Takes a few seconds to charge, larger explosion when charged
+§c§lFire Jump
+Use fire propulsion to jump a short distance, damaging players when you jump!
+THIS (GIRL/BOY/UNKNOWN GENDER) IS ON FIREEEEEE!
+Jump slightly farther
+Also attack targets upon landing, light them on fire
+§c§l§oCombustion §c§l§olaunch ;; Super huge attack when you jump AND land!
+§c§l§oWall §c§l§ojumping ;; Gain the ability to wall jump once after fire jumping
+§c§lImmolate
+Temporarily boost your firebending powers for a short period of time, but you may burn yourself in the process
+FEEL THE BURRRRNNNNN
+Stronger buff to firebending and speed buff
+Stronger potion effects and don't burn every time
+§c§l§oFire §c§l§otolerance ;; Much longer duration, health boost effect, and you don't get set on fire!
+§c§l§oInferno ;; Much more powerful effects, incinerate surrounding projectiles!
+§c§lInferno Punch
+Smash your enemies with a fist encased in raw fire!
+Incinerate your enemies with the force of a super-powered fist, knocking them back and setting them on fire!
+Chi cost increases, damage, knockback, and firetime increases!
+Even more damage!
+§c§l§oINCINERATE ;; Use a super-powerful inferno when you punch to create a massive fire explosion!
+§c§l§oFireball Flurry! ;; You can hit enemies from really far away, and enemies close to them are hit as well! It's a 3 hit combo! More damage each hit!
+§9§lWater §9§lArc
+One of waterbending's most common attacks. Shoot a trailing arc of water at your enemy, but only when water is nearby.
+Basic water arc
+Farther pick-up range, bigger water splash.
+Much faster, damage increase, and you can redirect water arcs that you look at in a 3 block radius! Bigger water splash.
+§9§l§oWater Flurry ;; You can now instantly fire off water arcs; multiple arcs in quick succession make a combo.

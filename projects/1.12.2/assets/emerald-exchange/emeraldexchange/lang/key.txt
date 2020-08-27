@@ -1,0 +1,4 @@
+app.emeraldexchange.ee_app.desc
+itemGroup.EETab
+item.ee_item.name
+tile.card_reader_block.name

@@ -1,0 +1,99 @@
+Magnum Opus
+Gold Bone
+Red Bone
+Fresh Bone
+Treated Bone
+Vitrified Bone
+Sharp Vitrified Bone
+Vitrified Bone Flake
+Vitrified Bone Point
+Vitrified Bone Shaft
+Animal Heart
+Beating Animal Heart
+Human Heart
+Beating Human Heart
+Desiccated Heart
+Beating Desiccated Heart
+Zombie Heart
+Beating Zombie Heart
+Mummified Pigman Leather
+Horde Spider Silk Gland
+Sinuous Net
+Petrified Stick
+Blaze Pin
+Wraith Ash
+Withered Bone Dust
+Vitrified Bone Dust
+Salt Mix
+Ignis Quartz Dust
+Moon Pearl
+Ignis Quartz Block
+Ignis Quartz
+Ignis Quartz Flake
+Ignis Quartz Point
+Clear Elemental Core
+Spent Elemental Core
+Earth Elemental Core
+Air Elemental Core
+Fire Elemental Core
+Water Elemental Core
+Life Elemental Core
+Death Elemental Core
+Dimenion Elemental Core
+Void Elemental Core
+Clear Elemental Shard
+Spent Elemental Shard
+Earth Elemental Shard
+Air Elemental Shard
+Fire Elemental Shard
+Water Elemental Shard
+Life Elemental Shard
+Death Elemental Shard
+Dimenion Elemental Shard
+Void Elemental Shard
+Raw Special Meat
+Rotten Special Meat
+Desiccated Special Meat
+Salted Special Meat
+Cured Special Meat
+Cooked Special Meat
+Bone Liston Knife
+Bone Work Blade
+Vitrified Bone Work Blade
+Ignis Quartz Work Blade
+Tamahagane Work Blade
+Obsidian Sword
+Obsidian Sword
+Adamant Sword
+Adamant Sword
+Tamahagane Sword
+Tamahagane Axe
+Tamahagane Pickaxe
+Tamahagane Shovel
+Tamahaganez Gallagher
+Tamahaganez Work Blade
+Short Ignis Quartz Sword
+Ignis Quartz Hatchet
+Ignis Quartz Pickaxe
+Ignis Quartz Shovel
+Ignis Quartz Gallagher
+Ignis Quartz Work Blade
+Crude Vitrified Sword
+Vitrified Sword
+Broad Vitrified Sword
+Vitrified Liston Knife
+Vitrified Hatchet
+Vitrified Axe
+Vitrified Battle Axe
+Vitrified Pickaxe
+Vitrified Shovel
+Vitrified Hoe
+Vitrified Bow
+Bone Arrow
+Vitrified Arrow
+Ephemeral Arrow
+Mummified Leather Helmet
+Mummified Leather Chest Plate
+Mummified Leather Leggings
+Mummified Leather Boots
+Vitrified Frame Helmet

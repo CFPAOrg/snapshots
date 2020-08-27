@@ -1,0 +1,36 @@
+The disk you put in the slot above will get here.
+You can put a disk here to load it's configuration into the spotlight.
+The disk placed above will get here.
+Place a disk here to erase it.
+The disk from above will get here empty.
+You just click on this button, it show/hide help.
+Toggle the current spotlight's mode between beam and text.
+This slider adjusts an angle of the beams.
+This button toggle the beam's automatic rotation around the selected axis.
+This button allows you to reverse or not the beam's automatic rotation for the selected axis.
+This slider adjusts the beam's automatic speed on a scale of 0-200 for the selected axis.
+Select the X axis.
+Select the Y axis.
+Select the Z axis.
+This slider adjusts the angle of the text.
+This button toggle the text's automatic rotation.
+This button allows you to reverse or not the text's automatic rotation.
+This slide bar adjusts the text's automatic speed on a scale of 0-200.
+This slider adjusts the height of the beams.
+This slider adjusts the text height on a scale of 0 to 100.
+This slider adjusts the text size on a scale of 0 to 100.
+This button put the text in bold.
+This button strike the text.
+This button underline the text.
+This button put the text in italic.
+This button obfuscate the text.
+This button display the text shadow or not.
+This slider adjusts the thickness of the main beam.
+This slider adjusts the thickness of the secondary beam.
+This button allows you to toggle the secondary beam.
+This button toggles between single and double laser (in other words the beam will go in the two opposite directions).
+This slider determine the number of sides of the beam.
+You can change the text and its color right there.
+This slider adjusts the blue component of the text between 0 and 255.
+This slider adjusts the green component of the text between 0 and 255.
+This slider adjusts the red component of the text between 0 and 255.

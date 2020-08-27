@@ -1,0 +1,3 @@
+death.attack.cut
+death.attack.blood_loss
+potion.blood_loss

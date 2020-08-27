@@ -1,0 +1,3 @@
+commands.apatheticmobs.aw.usage
+commands.apatheticmobs.aw.playerfailed
+commands.apatheticmobs.aw.playerfound

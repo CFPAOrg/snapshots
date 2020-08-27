@@ -1,0 +1,63 @@
+Forgotten Water
+Liquid Fiberglass
+Liquid Star
+Liquid Infused Diamond
+Liquid Fiberglass Star
+Liquid Harmonious
+Creepier
+Peace Creeper
+Ender Carp
+Ancient Carp
+Brainless Shulker
+Void Creeper
+Hellhound
+iSheep
+Zlama
+Wither Blaze
+Blazelier
+Dead Horse
+Ghost Rider
+Voix
+Elytra Infusion
+Wings Infusion
+Rocket Power
+Respirator Infused
+Hungry
+Mine Addons
+Rocket Power Toggle
+Night Vision Toggle
+Moving foward %s hours in %s seconds.
+Type §c/timeskip cancel §fto abort.
+Advancing time canceled.
+Advancing time.
+Advancing time complete.
+TimeSkip in cooldown. %s seconds left.
+Advancing time in %s seconds.
+TimeSkip not active.
+%s does not work in this entity.
+Rocket Power: §cOFF
+Rocket Power: §aON
+Night Vision: §cOFF
+Night Vision: §aON
+Lightspeed
+Insta-Breaks everything!
+Fiberglass
+Harmonious
+Reaper
+White
+Orange
+Magenta
+Light Blue
+Yellow
+Lime
+Pink
+Gray
+Light Gray
+Cyan
+Purple
+Blue
+Brown
+Green
+Red
+Black
+Item Frame

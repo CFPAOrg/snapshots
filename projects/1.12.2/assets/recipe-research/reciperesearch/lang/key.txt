@@ -1,0 +1,2 @@
+tile.reciperesearch.scanner.name
+item.reciperesearch.research.name

@@ -1,0 +1,8 @@
+item.naturalabsorption.book_absorption.name
+item.naturalabsorption.book_absorption.tooltip.current
+item.naturalabsorption.book_absorption.tooltip.gain
+item.naturalabsorption.book_absorption.tooltip.max
+item.naturalabsorption.book_absorption.tooltip.cost
+item.naturalabsorption.book_absorption.tooltip.canuse
+item.naturalabsorption.book_absorption.tooltip.nouse
+enchantment.naturalabsorption.absorption

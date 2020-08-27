@@ -1,0 +1,8 @@
+fluid.aged_rum
+fluid.aged_whiskey
+fluid.aged_rye_whiskey
+fluid.aged_corn_whiskey
+fluid.aged_vodka
+fluid.aged_cider
+fluid.aged_beer
+fluid.aged_sake

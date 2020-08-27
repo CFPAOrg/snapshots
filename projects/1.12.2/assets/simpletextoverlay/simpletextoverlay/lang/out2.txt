@@ -1,0 +1,84 @@
+Block check decay. 
+Block decayable.
+Block delay.
+Block connected east.
+Block explode.
+Block extended.
+Block facing.
+Block half.
+Block has bottle in slot 1.
+Block has bottle in slot 2.
+Block has bottle in slot 3.
+Block hinge.
+Block in wall.
+Block layers.
+Block level.
+Block locked.
+Block open.
+Block powered.
+Block shape.
+Block looking at X.
+Block looking at Y.
+Block looking at Z.
+Block connected north.
+Block snowy.
+Block connected south.
+Block triggered.
+Block type.
+Block variant.
+Block connected west.
+Distance to x-th nearby player.
+Name of the x-th nearby player.
+Head icon of the x-th nearby player.
+Equipped item's name.
+Equipped item's unique name.
+Equipped item's durability.
+Equipped item's max durability.
+Equipped item's durability left.
+Equipped item's icon.
+Equipped item's large icon.
+Main hand item's name.
+Main hand item's unique name.
+Main hand item's durability.
+Main hand item's max durability.
+Main hand item's durability left.
+Main hand item's icon.
+Main hand item's large icon.
+Off hand item's name.
+Off hand item's unique name.
+Off hand item's durability.
+Off hand item's max durability.
+Off hand item's durability left.
+Off hand item's icon.
+Off hand item's large icon.
+Helmet's name.
+Helmet's unique name.
+Helmet's durability.
+Helmet's max durability.
+Helmet's durability left.
+Helmet's icon.
+Helmet's large icon.
+Chestplate's name.
+Chestplate's unique name.
+Chestplate's durability.
+Chestplate's max durability.
+Chestplate's durability left.
+Chestplate's icon.
+Chestplate's large icon.
+Leggings' name.
+Leggings' unique name.
+Leggings' durability.
+Leggings' max durability.
+Leggings' durability left.
+Leggings' icon.
+Leggings' large icon.
+Boots' name.
+Boots' unique name.
+Boots' durability.
+Boots' max durability.
+Boots' durability left.
+Boots' icon.
+Boots' large icon.
+Main hand attack damage.
+Main hand attack speed.
+Off hand attack damage.

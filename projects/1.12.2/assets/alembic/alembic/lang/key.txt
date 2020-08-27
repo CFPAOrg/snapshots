@@ -1,0 +1,11 @@
+command.research.usage
+command.research.scanning
+command.research.matching
+command.research.matching_triumph
+command.research.stages
+command.research.advancements
+command.research.noresults
+command.research.custom
+command.alembic.count
+command.alembic.usage
+command.alembic.disabled

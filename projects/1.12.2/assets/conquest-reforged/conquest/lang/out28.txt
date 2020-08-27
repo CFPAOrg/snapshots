@@ -1,0 +1,68 @@
+Hewn Stone Tiles Arrow Slit
+Plastered Stone Tiles Arrow Slit
+Light Gray Stonebrick Arrow Slit
+Dark Gray Stonebrick Arrow Slit
+none
+Dirty Sandstone Cobble Arrow Slit
+Worn Peach Plaster Arrow Slit
+Worn Dark Brown Plaster Arrow Slit
+Yellow Cobblestone Plaster Arrow Slit
+Dark Mud Stonebrick Arrow Slit
+Light Blue Plaster Arrow Slit
+Dry Stone Cobble Arrow Slit
+Dark Sandstone Arrow Slit
+Harad Orange Wall Arrow Slit
+Seashell Wall Arrow Slit
+Travertine Slab Arrow Slit
+Peach Stucco Arrow Slit
+Broken Reticulated Brick Arrow Slit
+ Arrow Slit
+ Arrow Slit
+Plastered Stone Window Slit
+ Window Slit
+Hewn Stone Window Slit
+Cobblestone Window Slit
+Dark Sandstone Brick Window Slit
+Small Diorite Brick Window Slit
+Mud Brick Window Slit
+Poor Roman Brick Window Slit
+Dark Red Sandstone Window Slit
+Light Gray Concrete Window Slit
+ Window Slit
+ Window Slit
+ Window Slit
+ Window Slit
+ Window Slit
+ Window Slit
+Stone Brick Window Slit
+Brick Window Slit
+Dark Sandstone Window Slit
+Sandstone Window Slit
+Broken Reticulated Brick Window Slit
+Peach Stucco Window Slit
+Travertine Slab Window Slit
+Colorful Slate Window Slit
+Old Cobblestone Window Slit
+Frozen Cobblestone Window Slit
+Smooth Andesite Window Slit
+Dirty Fishscale Cobblestone Window Slit
+Overgrown Cobblestone Window Slit
+Cobblestone with Vines Window Slit
+Calcite Window Slit
+Portcullis Groove Window Slit
+Big Nether Brick Window Slit
+Dark Iron Window Slit
+Smooth Calcite Window Slit
+Ruined Stone Brick Window Slit
+Large Marble Slab (No Side CTM) Window Slit
+Large Sandstone Slab (No Side CTM) Window Slit
+Big Black Slab No Side CTM Window Slit
+Diorite Brick Window Slit
+Travertine Brick Window Slit
+Sandstone Cobble Window Slit
+Mossy Sandstone Window Slit
+Sandstone Brick Window Slit
+Worn Plaster with Red Masonry Lines Window Slit
+Plaster with Red Masonry Lines Window Slit
+Plaster with Masonry Lines Window Slit
+Rusty Iron Block Window Slit

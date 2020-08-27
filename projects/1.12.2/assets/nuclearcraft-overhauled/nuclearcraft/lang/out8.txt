@@ -1,0 +1,112 @@
+Used to access the quantum computer via OpenComputers.
+Oxygen
+Oxygen
+Hydrogen
+Hydrogen
+Deuterium
+Deuterium
+Tritium
+Tritium
+Helium-3
+Helium-3
+Helium
+Helium
+Steam
+Steam
+High Pressure Steam
+High Pressure Steam
+Exhaust Steam
+Exhaust Steam
+Low Pressure Steam
+Low Pressure Steam
+Low Quality Steam
+Low Quality Steam
+Preheated Water
+Preheated Water
+Condensate Water
+Condensate Water
+Liquid Helium
+Liquid Helium
+Liquid Nitrogen
+Liquid Nitrogen
+Heavy Water
+Heavy Water
+Molten Ender
+Molten Ender
+Molten Lead Platinum
+Molten Lead Platinum
+Molten Enderium
+Molten Enderium
+Molten Cryotheum
+Molten Cryotheum
+Plasma
+Produced in active fusion reactors. May cause an explosion and fire when coming into contact with an unpowered fusion electromagnet.
+Plasma
+Molten Lithium-6
+Molten Lithium-6
+Molten Lithium-7
+Molten Lithium-7
+Molten Boron-10
+Molten Boron-10
+Molten Boron-11
+Molten Boron-11
+Molten Ferroboron
+Molten Ferroboron
+Molten Tough Alloy
+Molten Tough Alloy
+Molten Hard Carbon
+Molten Hard Carbon
+Liquefacted Coal
+Liquefacted Coal
+Fluorine
+Fluorine
+Nitrogen
+Nitrogen
+Fluoromethane
+Fluoromethane
+Ammonia
+Ammonia
+Ethanol
+Ethanol
+Ethylene
+Ethylene
+Methanol
+Methanol
+Boric Acid
+Boric Acid
+Diborane
+Diborane
+RadAway Fluid
+RadAway Fluid
+Slow-Acting RadAway Fluid
+Slow-Acting RadAway Fluid
+Redstone-Infused Ethanol
+Redstone-Infused Ethanol
+Molten Beryllium
+Molten Beryllium
+Molten Lithium Fluoride
+Molten Lithium Fluoride
+Molten Beryllium Fluoride
+Molten Beryllium Fluoride
+Molten FLiBe Salt Mixture
+Molten FLiBe Salt Mixture
+Boron Nitride Solution
+Boron Nitride Solution
+Molten Sulfur
+Molten Sulfur
+Sulfur Dioxide
+Sulfur Dioxide
+Sulfur Trioxide
+Sulfur Trioxide
+Sulfuric Acid
+Sulfuric Acid
+Fluorite Water
+Fluorite Water
+Calcium Sulfate Solution
+Calcium Sulfate Solution
+Hydrofluoric Acid
+Hydrofluoric Acid
+Oxygen Difluoride
+Oxygen Difluoride
+Corium
+A poisonous, molten mixture of fuel and components produced in fission reactor meltdowns.

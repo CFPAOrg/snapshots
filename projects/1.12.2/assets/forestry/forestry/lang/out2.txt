@@ -1,0 +1,118 @@
+I swear it was looking at me, with its beady, cruel, little eyes.
+Is that laughter? Do I hear laughter? Who is laughing here?
+EUREKA!
+Wondrous! My name will go down in history!
+My colleagues will be impressed!
+I will be the envy of everyone at the society!
+Yes!
+All is lost.
+I consign my notes to the fire.
+Why? I had made such great strides at first...
+Failed. Again.
+Oh my...
+for every attached
+From
+Name your trade station
+Trade station has nothing to trade.
+No trade station of that name available.
+Please send
+Please find your order attached.
+1 order from %SENDER was filled.
+%COUNT orders from %SENDER were filled.
+To
+Receive
+Send
+Maximum Energy
+Maximum Input
+Maximum
+Metabolism
+Nether
+Nocturnal
+No effect
+Owner
+Page
+Plains
+Princ.
+Produce
+Queens
+N
+S
+E
+W
+Yes
+No
+Average
+Gigantic
+Normal
+Slowest
+Slower
+Slow
+Fast
+Faster
+Fastest
+Maximum
+Smallest
+Smaller
+Small
+Large
+Larger
+Largest
+Lowest
+Lower
+Low
+High
+Higher
+Highest
+Both 1
+Both 2
+Both 3
+Both 4
+Both 5
+Down 1
+Down 2
+Down 3
+Down 4
+Down 5
+None
+Up 1
+Up 2
+Up 3
+Up 4
+Up 5
+Shortest
+Shorter
+Short
+Shortened
+Normal
+Elongated
+Long
+Longer
+Longest
+Size
+%USED/%SIZE Slots
+Species
+Species
+Production
+Pollination
+Stored
+Temperature
+Tolerance
+Temperature Tol.
+Hold shift for details
+%,d / %,d mB
+Triple
+Unknown genome
+Warm
+Water
+Worker
+Camouflage Spray Can
+A full apiarist's suit will protect you from all negative bee effects.
+Bee Suits!
+Bees only work in biomes that suit their species. Use your portable analyzer and habitat locator to find out in which.
+Choose your biome!
+Crossbreeding drones and princesses of different species may net you offspring with a new species.
+Breed your bees!
+Any bee will need some type of flower in the vicinity. Some rather mundane flowers, others very exotic ones.
+Bees need flowers
+Only jubilant bees will produce their specialty. Make sure to have them in their preferred climate.
+Make your bee happy!

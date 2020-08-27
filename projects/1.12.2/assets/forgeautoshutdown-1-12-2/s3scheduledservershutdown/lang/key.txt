@@ -1,0 +1,12 @@
+msg.usershutdown
+msg.voterecorded
+msg.votecleared
+msg.votebegun
+fail.notenoughplayers
+fail.maxnovotes
+error.toosoon
+error.notenoughplayers
+error.novoteinprogress
+error.voteinprogress
+error.votebadsyntax
+error.playersonly

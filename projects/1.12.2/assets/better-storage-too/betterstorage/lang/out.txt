@@ -1,0 +1,25 @@
+Reusable portable storage.
+One-time use portable storage.
+Remaining uses: %s
+Blocks
+Change whether a certain Block is active.
+Items
+Change whether a certain Item is active.
+Enchantments
+Change whether a certain Enchantment is active.
+Cardboard Box Rows
+Number of rows in cardboard boxes.
+Cardboard Box Show Contents
+If disabled, doesn't show cardboard box contents in their tooltips.
+Cardboard Box Uses
+Number of times cardboard boxes can be picked up with items before they break. Use 0 for infinite uses.
+Crate Inventory Interface
+If enabled, exposes a special block view of crates, so items can be moved in and out by automated systems.
+Tooltips
+If enabled, shows tooltips on some items to help players who're new to the mod.
+Debug Messages
+If disabled, prevents certain warning messages from being logged to the console.
+Breakable Locks
+If disabled, turns off the ability to break locks off of locked containers using tools.
+Reinforced Columns
+Number of columns in reinforced chests and lockers. Valid values are 9, 11 and 13.

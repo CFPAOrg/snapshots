@@ -1,0 +1,87 @@
+Learned %s level %d!
+%s is already at max level!
+%s has been disabled
+Can't currently use %s!
+Combo
+Finished
+Dmg
+Hits
+One hit wonder
+Novice
+Decent
+Good
+Great
+Amazing
+Superb
+Perfect
+Unstoppable
+Devastating
+Masterful
+Legendary
+FINISH HIM!!!
+%1$s is not a recognized skill
+%1$s is disabled
+%1$s already has %2$s level %3$d 
+%1$s was unable to learn %2$s
+You have been granted %1$s level %2$d!
+You have been granted max level in all skills!
+%1$s has been granted %2$s level %3$d
+%1$s has been granted max level in all skills
+%1$s was unable to master all skills
+/grantskill <player> <skill> <level> OR /grantskill <player> all
+You did not have any skills to remove
+You did not have any levels in %2$s
+Removed all skills
+Removed all levels of %2$s
+/removeskill <skill> OR /removeskill all
+Valid values are "allow" and "forbid"
+Valid values are "sword" and "weapon"
+Could not find item %s for mod %s
+Successfully registered %s as a sword
+Unable to register %s as a sword
+%s is no longer considered a sword
+%s is not registered as a sword
+Successfully registered %s as a weapon
+Unable to register %s as a weapon
+%s is no longer considered a weapon
+%s is not registered as a weapon
+/dssweaponregistry <allow|forbid> <sword|weapon> modid:item_name
+DSS Skills
+%1$s's armor was pierced by %2$s
+%1$s's armor was pierced by %2$s using %3$s
+%1$s was slain by %2$s
+%1$s was slain by %2$s using %3$s
+Leaping Blow
+Sword Beam
+Skill Orb of %s
+Sword of %s
+Level: %1$s/%2$s
+Right click to learn
+Grants wielder %s
+Grants Skill Level: %1$s/%2$s
+Provides %s
+DSS Keys
+Z-Target
+Next Target
+Attack
+Dodge Left
+Dodge Right
+Parry
+Block
+View Skills
+Toggle Combo HUD
+Toggle Auto-Targeting
+Auto targeting is now %s
+Player targeting is now %s
+Combo HUD is now %s
+enabled
+disabled
+Area: %s blocks
+Charge Time: %d ticks
+Damage: %s%s
+Duration: %d %s
+Exhaustion: %s
+Level: %1$s/%2$s
+Range: %s blocks
+Time Limit: %d ticks
+DISABLED

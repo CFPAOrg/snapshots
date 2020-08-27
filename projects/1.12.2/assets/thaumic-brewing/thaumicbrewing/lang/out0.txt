@@ -1,0 +1,20 @@
+Thaumic Brewing
+Thaumic Brewing
+Brewing is an interesting art.  It doesn't appear to utilize thaumaturgy, but the results it produces are undeniably special.  I suspect that, with some effort, I could recreate its effects more efficiently using alchemical principles.
+Basic Potions
+By studying some of the more basic products of brewing, I should be able to learn how to recreate them using essentia.
+Success!  I've devised several recipes for creating potions with alchemy, using Alkimia essentia as a binder.  Now to see how I can expand on that.
+Advanced Potions
+I've been unable so far to recreate some of the more complex brewing recipes using a water base.  Perhaps augmenting existing potions will get me the results I'm after... 
+My theory was correct.  By using an existing potion as a catalyst, I'm now able to create more complex types of potions.
+Debilitating Potions
+Like thaumaturgy, brewing has a dark side.  Is it worth recreating that as well?
+As I suspected, a simple inversion of effect using Perditio essentia was enough to turn helpful potions into debilitating ones.  Not that I'd recommend actually drinking any of them.
+Powerful Basic Potions
+Brewing allows for several types of potions to be given an enhanced effect with the addition of redstone dust.  Perhaps that amplification process can be reproduced alchemically as well.
+A splash of Potentia did the trick.  That shouldn't surprise me, given how chock full of the stuff redstone is, but I confess that I'd expected it to be a bit more... complicated.
+Powerful Advanced Potions
+I wonder if advanced potions can have their effects amplified in the same way that basic potions can.  This warrants further experimentation.
+Just like basic potions, a touch of Potentia was enough to make my advanced potions more powerful.
+Powerful Debilitating Potions
+Can my debilitating potions be made more powerful?  Is it worth the cost?

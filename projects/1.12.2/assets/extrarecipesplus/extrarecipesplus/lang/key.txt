@@ -1,0 +1,6 @@
+item.sugarcanegenerator.name
+item.cobblegenerator.name
+item.snowballgenerator.name
+item.ediblesugar.name
+item.cactusgenerator.name
+item.money.name

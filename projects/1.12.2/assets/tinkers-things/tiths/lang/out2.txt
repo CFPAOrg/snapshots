@@ -1,0 +1,70 @@
+Coagulated Blood Sand
+Coal
+Sun Stone
+Moon Stone
+Squama of Ender Dragon
+Fulgurite
+Irisia
+Tree Root
+Flesh
+Broken Bedrock
+Cloud
+Opal
+Topaz
+Lizanite
+Cordierite
+Prehnite
+Proustite
+Oraclium
+Vibrating Crystal
+Lava Crystal
+Steamium
+Grain
+Aventurine
+Chloroplast
+Maiming
+§oHow dare you?§r\nTo decelerate and weaken your enemy
+Inky
+§oIt’s dark out here§r\nTo blind your enemy
+Retrospective
+§oThis might be better.§r\nTo improve your tool gradually during usage
+Icy
+§oCool off§r\nTo decelerate your enemy\nTo gradually regain duration in cold places and lose duration in hot places
+Luxurious
+§oWealthy people stuff§r\nGet less durability during repairing
+Radiant
+§oHeart of the flame§r\nTo fire the monsters around
+Extreme Freezing
+§oHeart of the frost§r\nTo slow down the monsters around
+Switching
+§oWhat?§r\nTo exchange position with the target
+Clustering
+Hardened
+To decrease speed, increase damage and durability
+Polished
+To decrease damage and durability, and increase speed
+Brittle
+To increase speed and damage, decrease durability substantially
+Star Dashing
+§oHey! Hey! Hey! START DASH!!§r\nTo throw fire while attacking
+Soluble
+§oStop it!§r\nThe tool will lose duration if hold in the water
+Birefringent
+§oMagical refraction§r\nTo deal a equivalent damage with a small chance when attacking
+Pyroelectric
+§oBilibili§r\nTo damage enemy close to target\nThe higher the ambient temperature, the higher the damage
+Shaking
+§oYou can't run!§r\nTo temporarily stop your enemy in the air
+Anti Gravity
+§oI’m flying.§r\nRaise the target in air
+Stone Phasing
+§oShifting§r\nTo storage stones you mined, right click to release
+Stone Stored:
+Treasure Detecting
+§oThere is something.§r\n To raise the chance of finding treasure house during usage
+Creaky
+§oDisagreeable little goblins§r\ncreak creak
+Undead Calling
+§oThey are coming§r\ncoming at you...
+Repressing
+§oThat's heavy§r\nTo provide heavy effect to target

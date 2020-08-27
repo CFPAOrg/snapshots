@@ -1,0 +1,29 @@
+Yellow Simple Lamp
+Light Blue Simple Lamp
+Magenta Simple Lamp
+Orange Simple Lamp
+White Simple Lamp
+Red Simple Lamp (Inverted)
+Black Simple Lamp (Inverted)
+Green Simple Lamp (Inverted)
+Brown Simple Lamp (Inverted)
+Light Blue Simple Lamp (Inverted)
+Blue Simple Lamp (Inverted)
+Purple Simple Lamp (Inverted)
+Cyan Simple Lamp (Inverted)
+Light Gray Simple Lamp (Inverted)
+Gray Simple Lamp (Inverted)
+Pink Simple Lamp (Inverted)
+Lime Green Simple Lamp (Inverted)
+Yellow Simple Lamp (Inverted)
+Light Blue Simple Lamp (Inverted)
+Magenta Simple Lamp (Inverted)
+Orange Simple Lamp (Inverted)
+White Simple Lamp (Inverted)
+Mixed Metal Block
+Mixed Metal Ore
+Wet Sand
+Mud
+Obsidian Chest
+Mixed Metal Chest
+Trash Can

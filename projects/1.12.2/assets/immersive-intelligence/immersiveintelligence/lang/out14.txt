@@ -1,0 +1,14 @@
+*CURRENTLY NOT IMPLEMENTED* The belt fed ammunition loader allows for loading ammunition from a belt, provided by the ammunition crate below the firing position.
+The double magazine upgrade allows to load two magazines into the gun, the second magazine can be loaded from the offhand.
+The field bipod is a hastily-made replacement for the default one, it decreases the gun's deployment speed, but increases the recoil.
+The precise bipod is a replacement for the default one, made with high precision, it increases the gun's deployment speed, but decreases the recoil.
+The machinegun scope is a modified version of the scope from the <link;railgun;§o§nRailgun§r;> that allows magnification of the distant target.
+The infrared scope is an upgraded version of its predecessor, which can also provide nightvision using the infrared reflector and a special filter, to work it requires energy provided by a capacitor backpack.
+Grenades
+Achtung, Granate!
+The stick-hand-grenade is a thrown weapon that contains explosives or other material that triggers on contact.
+Artillery Howitzer
+Bertha's Sister
+The Precision Bombardment Device, commonly known as the Howitzer is an indirect fire weapon, that allows attacking targets as distant as 300 blocks. It is controlled using the data system and loaded with special high-caliber shells. It is best used in offensive operations.
+The howitzer emplacement consists of a concrete bunker with the gun, command tables on the sides on the top and a steel door, thtat can be opened by providing a redstone signal. Ammunition has to be provided to the conveyor going down and loaded using the "load" command, after firing, the gun empty casing has to be unloaded with the "unload" command. The machine requires big amounts of power to operate. To form it use a hammer on the concrete block sticking out at the top.
+Variables<br>String 'm' - action mode (load/unload/fire/stop)<br>Integer 'p' - the pitch rotation of the gun<br>Integer 'y' - the yaw rotation of the gun<br>Integer 'f' - the bullet fuse time (in ticks), after the time is out, the bullet is triggered.

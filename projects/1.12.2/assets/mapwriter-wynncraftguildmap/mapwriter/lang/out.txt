@@ -1,0 +1,47 @@
+Centre map on player
+Centre map on selected marker
+Select next marker
+Teleport to cursor or selected marker
+Save PNG of visible map area
+Regenerate visible map area from region files
+Underground map mode
+Shows the markerlist
+biome: %s
+cursor: (%d, %d, %d)
+cursor: (%d, ?, %d)
+group
+regenerating %dx%d blocks starting from (%d, %d)
+merging to '%s'
+Set dimension to
+invalid dimension
+Marker Name
+Edit Marker Name
+marker must have a name
+Marker Group
+marker must have a group name
+Marker X
+invalid value
+Marker Y
+invalid value
+Marker Z
+invalid value
+Add New Marker
+Edit Marker
+Name
+Group
+X
+Y
+Z
+Color
+Teleport Height
+invalid height
+Red
+Green
+Blue
+successfully wrote merged images to directory %s
+merge error: could not write images to directory %s
+rebuild task complete
+teleportation is disabled in config
+cannot teleport to marker in different dimension
+teleport command is set to 'warp', can only warp to markers
+"group %s selected")

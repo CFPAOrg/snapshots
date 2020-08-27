@@ -1,0 +1,26 @@
+Endstone Pickaxe
+Endstone Axe
+Endstone Shovel
+Endstone Hoe
+Endstone Sword
+Guardian Helmet
+Guardian Chestplate
+Guardian Leggings
+Guardian Boots
+Bone Lord Helmet
+Bone Lord Chestplate
+Bone Lord Leggings
+Bone Lord Boots
+Enderdragon Scale Helmet
+Enderdragon Scale Chestplate
+Enderdragon Scale Leggings
+Enderdragon Scale Boots
+Bedrock Helmet
+Bedrock Chestplate
+Bedrock Leggings
+Bedrock Boots
+Bedrock Pickaxe
+Bedrock Axe
+Bedrock Shovel
+Bedrock Hoe
+Bedrock Sword

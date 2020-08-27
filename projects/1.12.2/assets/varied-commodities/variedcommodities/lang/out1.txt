@@ -1,0 +1,117 @@
+Golden Spear
+Diamond Spear
+Bronze Spear
+Emerald Spear
+Demonic Spear
+Frost Spear
+Mithril Spear
+Wooden Battle Axe
+Stone Battle Axe
+Iron Battle Axe
+Golden Battle Axe
+Diamond Battle Axe
+Bronze Battle Axe
+Emerald Battle Axe
+Demonic Battle Axe
+Frost Battle Axe
+Mithril Battle Axe
+Wooden Mace
+Stone Mace
+Iron Mace
+Golden Mace
+Diamond Mace
+Bronze Mace
+Emerald Mace
+Demonic Mace
+Frost Mace
+Mithril Mace
+Wooden Dagger
+Stone Dagger
+Iron Dagger
+Golden Dagger
+Diamond Dagger
+Bronze Dagger
+Emerald Dagger
+Demonic Dagger
+Frost Dagger
+Mithril Dagger
+Reversed Wooden Dagger
+Reversed Stone Dagger
+Reversed Iron Dagger
+Reversed Golden Dagger
+Reversed Diamond Dagger
+Reversed Bronze Dagger
+Reversed Emerald Dagger
+Reversed Demonic Dagger
+Reversed Frost Dagger
+Reversed Mithril Dagger
+Wooden Staff
+Stone Staff
+Iron Staff
+Golden Staff
+Diamond Staff
+Bronze Staff
+Emerald Staff
+Elemental Staff
+Demonic Staff
+Frost Staff
+Mithril Staff
+Mana
+Wooden Scythe
+Stone Scythe
+Iron Scythe
+Golden Scythe
+Bronze Scythe
+Diamond Scythe
+Emerald Scythe
+Demonic Scythe
+Frost Scythe
+Mithril Scythe
+Wooden Glaive
+Stone Glaive
+Iron Glaive
+Golden Glaive
+Diamond Glaive
+Bronze Glaive
+Emerald Glaive
+Demonic Glaive
+Frost Glaive
+Mithril Glaive
+Cowleather Helmet
+Cowleather ChestPlate
+Cowleather Leggings
+Cowleather Boots
+Nanorum Helmet
+Nanorum ChestPlate
+Nanorum Leggings
+Nanorum Boots
+Tactical Helmet
+Tactical Vest
+Full Leather Helmet
+Full Leather ChestPlate
+Full Iron Helmet
+Full Iron ChestPlate
+Full Gold Helmet
+Full Gold ChestPlate
+Full Diamond Helmet
+Full Diamond ChestPlate
+Full Bronze Helmet
+Full Bronze ChestPlate
+Full Bronze Leggings
+Full Bronze Boots
+Full Wooden Helmet
+Full Wooden ChestPlate
+Full Wooden Leggings
+Full Wooden Boots
+Tuxedo Chest
+Tuxedo Pants
+Tuxedo Trenchcoat
+Wizard Head
+Wizard Chest
+Wizard Leggings
+Assassins Helmet
+Assassins ChestPlate
+Assassins Leggings
+Assassins Boots
+Soldier Helmet
+Soldier ChestPlate

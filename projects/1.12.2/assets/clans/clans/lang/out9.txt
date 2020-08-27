@@ -1,0 +1,34 @@
+/raid join <clan name>
+Join a raiding party against the target clan. One will be formed if it does not exist.
+You successfully created a raiding party against %s.
+%s does not have enough online members to get raided.
+%s is currently shielded. Try again in %s hours.
+You successfully joined the raiding party against %s.
+The raiding party against %s cannot hold any more people. It has %s raiders and the limit is currently %s.
+You cannot raid a clan you are in.
+You are already in a raiding party, and cannot join another unless you leave the one you are currently in.
+A server administrator has prevented %s from being raided.
+/raid leave
+Leave the raiding party you are in.
+You successfully left the raiding party against %s.
+/raid start
+Start the raid. You will be charged the fee to do so, if there is one.
+You successfully started the raid against %s.
+You have insufficient funds to start the raid against %s. It costs %s.
+The raid has already been started.
+Internal Error: Another raiding party is raiding this clan right now. Try again in %s hours. Server owners, please report this.
+/raid thru
+Go through protected blocks
+You are not looking at a block or are too far from the block to view lock information.
+The block you are looking at is not in %s's territory.
+There is nowhere on the other side of this to safely teleport.
+You cannot break blocks in another clan's territory.
+You cannot break blocks this close to another clan's territory.
+You cannot break this block during a raid. Please wait until the raid is completed and try again.
+You cannot break this block while in another clan's territory.
+You cannot break blocks in Wilderness.
+You cannot break this block because it is locked by %s.
+You cannot place blocks in another clan's territory.
+You cannot place blocks this close to another clan's territory.
+You cannot place blocks in Wilderness.
+You cannot interact with blocks in another clan's territory.

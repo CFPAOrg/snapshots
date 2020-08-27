@@ -1,0 +1,96 @@
+Jaspillite Hematite
+Pitchblende
+Olivine
+Mawsonite
+Mawsonite
+Granite Mawsonite
+Diorite Mawsonite
+Gabbro Mawsonite
+Shale Mawsonite
+Claystone Mawsonite
+Rocksalt Mawsonite
+Limestone Mawsonite
+Conglomerate Mawsonite
+Dolomite Mawsonite
+Chert Mawsonite
+Chalk Mawsonite
+Rhyolite Mawsonite
+Basalt Mawsonite
+Andesite Mawsonite
+Dacite Mawsonite
+Quartzite Mawsonite
+Slate Mawsonite
+Phyllite Mawsonite
+Schist Mawsonite
+Gneiss Mawsonite
+Marble Mawsonite
+Blaimorite Native Copper
+Blaimorite Native Gold
+Blaimorite Native Platinum
+Blaimorite Hematite
+Blaimorite Native Silver
+Blaimorite Cassiterite
+Blaimorite Galena
+Blaimorite Bismuthinite
+Blaimorite Garnierite
+Blaimorite Malachite
+Blaimorite Magnetite
+Blaimorite Limonite
+Blaimorite Sphalerite
+Blaimorite Tetrahedrite
+Blaimorite Bituminous Coal
+Blaimorite Lignite
+Blaimorite Kaolinite
+Blaimorite Gypsum
+Blaimorite Satinspar
+Blaimorite Selenite
+Blaimorite Graphite
+Blaimorite Kimberlite
+Blaimorite Petrified Wood
+Blaimorite Sulfur
+Blaimorite Jet
+Blaimorite Microcline
+Blaimorite Pitchblende
+Blaimorite Cinnabar
+Blaimorite Cryolite
+Blaimorite Saltpeter
+Blaimorite Serpentine
+Blaimorite Sylvite
+Blaimorite Borax
+Blaimorite Olivine
+Blaimorite Lapis Lazuli
+Blaimorite Native Ardite
+Blaimorite Rutile
+Blaimorite Native Osmium
+Blaimorite Bauxite
+Blaimorite Wolframite
+Blaimorite Cobaltite
+Blaimorite Thorianite
+Blaimorite Chromite
+Blaimorite Pyrolusite
+Blaimorite Magnesite
+Blaimorite Spodumene
+Blaimorite Stibnite
+Blaimorite Mawsonite
+Blaimorite Beryl
+Blaimorite Zircon
+Blaimorite Villiaumite
+Blaimorite Rhodochrosite
+Blaimorite Fluorite
+Blaimorite Carobbiite
+Blaimorite Arsenic
+Blaimorite Spike 
+Blaimorite Button 
+Blaimorite Rock
+Blaimorite Brick
+Raw Blaimorite
+Smooth Blaimorite
+Blaimorite Cobble
+Blaimorite Bricks
+Blaimorite Sand
+Blaimorite Gravel
+Blaimorite Dirt
+Blaimorite Clay
+Blaimorite Grass
+Blaimorite Dry Grass
+Blaimorite Clay Grass

@@ -1,0 +1,4 @@
+Select the dominant entity then the dominated entity!
+Entity Spring
+Cannot link an entity to itself!
+Spring Cutter

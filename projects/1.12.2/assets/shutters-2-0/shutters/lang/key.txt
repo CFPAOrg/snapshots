@@ -1,0 +1,4 @@
+tile.shutters.mainRoller.name
+tile.shutters.shutterController.name
+tile.shutters.shutter.name
+item.shutters.doorPlotter.name

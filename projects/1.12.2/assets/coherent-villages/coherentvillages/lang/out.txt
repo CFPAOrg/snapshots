@@ -1,0 +1,64 @@
+Human Villager
+Warg
+Bjornserker
+Wraith
+Lemure
+Blood Bat
+Fire Wood
+Throwing Axe
+Nord Mail Helmet
+Nord Mail Chestplate
+Nord Mail Greaves
+Nord Mail Boots
+Gothic Helmet
+Gothic Chestplate
+Gothic Greaves
+Gothic Boots
+Nord Round Shield
+Nord Round Shield
+Nord Round Shield
+Nord Round Shield
+Nord Round Shield
+Nord Round Shield
+Roman Shield
+Latin Gladius
+Spear
+Bardiche
+Summon Ancient Warriors
+Fireball
+Villager Soldier
+Villager Peasant
+Villager Man At Arms
+Villager Guard
+Villager Warrior
+Villager Militia
+Villager Sergeant
+Villager Archer
+Villager Hunter
+Villager Mage Archer
+Villager Marksman
+Villager Alchemist
+Villager Undead Hunter
+Villager Healer
+Villager Mage
+Villager Conjurer
+Villager Necromancer
+Villager Grand Mage
+Villager Potion Master
+Villager Knight
+Villager Cavalier
+Villager Mage Knight
+Villager Paladin
+Villager Horse Archer
+ Villager Apothecary
+Villager Guardian
+Villager Merchant
+Villager Merchant Guard
+Villager Horse
+Villager Bandit
+Villager Bandit Archer
+Villager Bandit Mage
+Villager Bandit Alchemist
+Villager Bandit Horseman
+Villager Dark Knight
+Skeleton Minion

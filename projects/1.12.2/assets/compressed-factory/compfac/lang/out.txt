@@ -1,0 +1,24 @@
+Compressed Factory
+Strong Hammer
+Compressor Casing
+Compressor Controller
+Compressor Controller
+Compressor Teleporter
+Compressor Energy Outlet (Lvl 1)
+Compressor Energy Outlet (Lvl 2)
+Compressor Energy Outlet (Lvl 3)
+Compressor Energy Outlet (Lvl 4)
+Compressor Energy Outlet (Lvl 5)
+Compressor Item Input
+Compressor Item Output
+Factory Energy Outlet
+Factory Item Input
+Factory Item Output
+Factory Teleporter
+Factory Glowstone
+Factory Glass
+Factory Stone
+Factory Strong Stone
+Factory Lighting Stone
+Factory Cracked Stone
+Factory Glass Door

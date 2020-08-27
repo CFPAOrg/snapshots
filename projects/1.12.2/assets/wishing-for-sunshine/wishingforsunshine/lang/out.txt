@@ -1,0 +1,16 @@
+Wishing for Sunshine
+Wishing Well
+%s wished for rain!
+%s wished for thunderbolts & lightning!
+%s wished for clear skies!
+%s wished for the dawn of a new day!
+%s wished for the bright, noon-day sun!
+%s wished for twilight's setting sun!
+%s wished for the witching hour!
+Midday
+Midnight
+Rain
+Sunrise
+Sunset
+Sunshine
+Thunder

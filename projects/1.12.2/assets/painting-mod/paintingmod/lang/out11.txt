@@ -1,0 +1,80 @@
+Lime Cobblestone Stairs
+Yellow Cobblestone Stairs
+Light Blue Cobblestone Stairs
+Magenta Cobblestone Stairs
+Orange Cobblestone Stairs
+White Cobblestone Stairs
+Black Brick Stairs
+Red Brick Stairs
+Green Brick Stairs
+Brown Brick Stairs
+Blue Brick Stairs
+Purple Brick Stairs
+Cyan Brick Stairs
+Light Gray Brick Stairs
+Gray Brick Stairs
+Pink Brick Stairs
+Lime Brick Stairs
+Yellow Brick Stairs
+Light Blue Brick Stairs
+Magenta Brick Stairs
+Orange Brick Stairs
+White Brick Stairs
+Black Stone Brick Stairs
+Red Stone Brick Stairs
+Green Stone Brick Stairs
+Brown Stone Brick Stairs
+Blue Stone Brick Stairs
+Purple Stone Brick Stairs
+Cyan Stone Brick Stairs
+Light Gray Stone Brick Stairs
+Gray Stone Brick Stairs
+Pink Stone Brick Stairs
+Lime Stone Brick Stairs
+Yellow Stone Brick Stairs
+Light Blue Stone Brick Stairs
+Magenta Stone Brick Stairs
+Orange Stone Brick Stairs
+White Stone Brick Stairs
+Black Nether Brick Stairs
+Red Nether Brick Stairs
+Green Nether Brick Stairs
+Brown Nether Brick Stairs
+Blue Nether Brick Stairs
+Purple Nether Brick Stairs
+Cyan Nether Brick Stairs
+Light Gray Nether Brick Stairs
+Gray Nether Brick Stairs
+Pink Nether Brick Stairs
+Lime Nether Brick Stairs
+Yellow Nether Brick Stairs
+Light Blue Nether Brick Stairs
+Magenta Nether Brick Stairs
+Orange Nether Brick Stairs
+White Nether Brick Stairs
+Black Purpur Stairs
+Red Purpur Stairs
+Green Purpur Stairs
+Brown Purpur Stairs
+Blue Purpur Stairs
+Purple Purpur Stairs
+Cyan Purpur Stairs
+Light Gray Purpur Stairs
+Gray Purpur Stairs
+Pink Purpur Stairs
+Lime Purpur Stairs
+Yellow Purpur Stairs
+Light Blue Purpur Stairs
+Magenta Purpur Stairs
+Orange Purpur Stairs
+White Purpur Stairs
+Black Oak Plank Fences
+Red Oak Plank Fences
+Green Oak Plank Fences
+Brown Oak Plank Fences
+Blue Oak Plank Fences
+Purple Oak Plank Fences
+Cyan Oak Plank Fences
+Light Gray Oak Plank Fences
+Gray Oak Plank Fences
+Pink Oak Plank Fences

@@ -1,0 +1,70 @@
+Credit Card
+One Dollar
+Five Dollars
+Ten Dollars
+Twenty Dollars
+Fifty Dollars
+Hundred Dollars
+Two Hundred Dollars
+Five Hundred Dollars
+Vault wrench
+Gear
+Gears mechanism
+Micro chip
+Pure gold nugget
+Packets of one dollar
+Packets of Five dollars
+Packets of Ten dollars
+Packets of Twenty dollars
+Packets of Fifty dollars
+Packets of Hundreed dollars
+Packets of Two hundreed dollars
+Packets of Five hundreed dollars
+Digital vault cracker
+Personal Vault
+Vending Machine
+Gold Changer
+ATM
+Safe bank vault
+Informer
+Owner
+Funds
+Delete your card 
+Yes
+No
+Personal vault
+Upgraded
+Wireless technology
+Hey stranger !
+I may have some informations
+for you. See the vault at the
+bank ? I may give you the code
+for only a hundred dollars ...
+Deal ?
+Accept
+/balance <check|add|remove> [player] <amout:5|10|20|50|100|200|500>
+It seems like one/all of the cards are not the player's one.
+You can only add 5|10|20|50|100|200|500 in one command.
+Validate
+You can't sell air buddy ;)
+You must set a cost for the items.
+Vending machine
+Buy
+Recover funds
+You need the upgrade to buy in shop machine.
+You don't have enough funds.
+You can't buy things with someone else card !
+Seller : 
+Cost : 
+Amount : 
+Funds to recover : 
+Item : 
+Unlimited stack
+Set to unlimited Stack.
+Set to limited Stack.
+Weight : 
+This block is already used by someone else.
+Gold changer
+ Accept interaction ?
+No credit card was found and you don't have the wireless technology.
+There is no more item in this block, contact the seller.

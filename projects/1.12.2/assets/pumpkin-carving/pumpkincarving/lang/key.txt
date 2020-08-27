@@ -1,0 +1,2 @@
+tile.pumpkincarving.carvedpumpkin.name
+tile.pumpkincarving.litcarvedpumpkin.name

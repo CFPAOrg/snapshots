@@ -1,0 +1,89 @@
+Wackestone Rutile
+Wackestone Native Osmium
+Wackestone Bauxite
+Wackestone Wolframite
+Wackestone Cobaltite
+Wackestone Thorianite
+Wackestone Chromite
+Wackestone Pyrolusite
+Wackestone Magnesite
+Wackestone Spodumene
+Wackestone Stibnite
+Wackestone Mawsonite
+Wackestone Beryl
+Wackestone Zircon
+Wackestone Villiaumite
+Wackestone Rhodochrosite
+Wackestone Fluorite
+Wackestone Carobbiite
+Wackestone Arsenic
+Wackestone Spike 
+Wackestone Button 
+Wackestone Rock
+Wackestone Brick
+Raw Wackestone
+Smooth Wackestone
+Wackestone Cobble
+Wackestone Bricks
+Wackestone Sand
+Wackestone Gravel
+Wackestone Dirt
+Wackestone Clay
+Wackestone Grass
+Wackestone Dry Grass
+Wackestone Clay Grass
+Wackestone Path
+Wackestone FarmLand
+Smooth Wackestone Stairs
+Wackestone Cobble Stairs
+Wackestone Bricks Stairs
+Smooth Wackestone Slab
+Wackestone Cobble Slab
+Wackestone Bricks Slab
+Smooth Wackestone Double Slab
+Cobble Wackestone Double Slab
+Bricks Wackestone Double Slab
+Smooth Wackestone Wall
+Wackestone Cobble Wall
+Wackestone Bricks Wall
+Blueschist Native Copper
+Blueschist Native Gold
+Blueschist Native Platinum
+Blueschist Hematite
+Blueschist Native Silver
+Blueschist Cassiterite
+Blueschist Galena
+Blueschist Bismuthinite
+Blueschist Garnierite
+Blueschist Malachite
+Blueschist Magnetite
+Blueschist Limonite
+Blueschist Sphalerite
+Blueschist Tetrahedrite
+Blueschist Bituminous Coal
+Blueschist Lignite
+Blueschist Kaolinite
+Blueschist Gypsum
+Blueschist Satinspar
+Blueschist Selenite
+Blueschist Graphite
+Blueschist Kimberlite
+Blueschist Petrified Wood
+Blueschist Sulfur
+Blueschist Jet
+Blueschist Microcline
+Blueschist Pitchblende
+Blueschist Cinnabar
+Blueschist Cryolite
+Blueschist Saltpeter
+Blueschist Serpentine
+Blueschist Sylvite
+Blueschist Borax
+Blueschist Olivine
+Blueschist Lapis Lazuli
+Blueschist Native Ardite
+Blueschist Rutile
+Blueschist Native Osmium
+Blueschist Bauxite
+Blueschist Wolframite
+Blueschist Cobaltite

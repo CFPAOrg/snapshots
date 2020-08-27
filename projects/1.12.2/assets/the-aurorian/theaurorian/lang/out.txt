@@ -1,0 +1,86 @@
+Aurorian Cobblestone
+Aurorian Cobblestone Stairs
+Aurorian Dirt
+Aurorian Farm Tile
+Aurorian Furnace
+Aurorian Furnace Chimney
+Aurorian Glass
+Aurorian Glass Pane
+Aurorian Grass
+Light Aurorian Grass
+Aurorian Peridotite
+Smooth Aurorian Peridotite
+Smooth Aurorian Peridotite Stairs
+Aurorian Portal Frame
+Aurorian Steel Block
+Aurorian Stone
+Aurorian Stone Brick
+Aurorian Stone Brick Stairs
+Aurorian Tall Grass
+Light Aurorian Tall Grass
+Runestone Dungeon Keeper Boss Spawner
+Moon Queen Boss Spawner
+Spider Boss Spawner
+Cerulean Block
+Cerulean Ore
+Crystal
+Darkstone Bricks
+Darkstone Fancy
+Darkstone Gate
+Darkstone Gate Keyhole
+Darkstone Lamp
+Darkstone Layers
+Darkstone Stairs
+Geode Ore
+Lavender Plant
+Moon Gem
+Moon Glass
+Moon Glass Pane
+Moonlight Forge
+Moon Sand
+Moonstone Block
+Moonstone Ore
+Moon Temple Bars
+Moon Temple Bricks
+Smooth Moon Temple Bricks
+Moon Temple Cell Gate
+Moon Temple Cell Gate Keyhole
+Moon Temple Gate
+Moon Temple Gate Keyhole
+Moon Temple Lamp
+Moon Temple Stairs
+Indigo Mushroom
+Mushroom Crystal
+Indigo Mushroom
+Indigo Mushroom Stem
+Mystical Barrier
+Petunia Plant
+Runestone
+Runestone Bars
+Runestone Gate
+Runestone Gate Keyhole
+Runestone Lamp
+Runestone Loot Gate
+Runestone Loot Gate Keyhole
+Smooth Runestone
+Runestone Stairs
+Scrapper
+Silentwood Crafting Table
+Silentwood Ladder
+Silentwood Leaves
+Silentwood Log
+Silentwood Planks
+Silentwood Sapling
+Silentwood Stairs
+Silentwood Torch
+Silkberry Plant
+Umbra Stone
+Cracked Umbra Stone
+Umbra Stone Roof Tiles Stairs
+Umbra Stone Roof Tiles
+Urn
+Weeping Willow Leaves
+Weeping Willow Log
+Weeping Willow Planks
+Weeping Willow Planks Stairs
+Weeping Willow Sapling

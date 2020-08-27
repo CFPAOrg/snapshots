@@ -1,0 +1,147 @@
+Grape Seeds
+Bamboo Lumber
+Sakura Lumber
+Maple Lumber
+Black Pepper
+White Pepper
+Miso
+Breadcrumbs
+Chestnut
+Bamboo Door
+Raw Seaweed
+Seaweed
+Rice Seeds
+Tomato
+Tomato Seeds
+Eggplant
+Eggplant Seeds
+Cabbage
+Cabbage Seeds
+Radish
+Radish Seeds
+Onion
+Onion Seeds
+Red Bean
+Buckwheat
+RapeSeeds
+Maple Syrup
+Hydra Ramen
+Straw Hat
+Sakura Diamond
+Katana
+Sakura Katana
+Kodachi
+Sakura Kodachi
+Shinai
+Tachi
+Noodle Cutting Knife
+Sakura Noodle Cutting Knife
+Fish Cutting Knife
+Sakura Fish Cutting Knife
+Samurai Shoes
+Samurai Pants
+Samurai Chestplate
+Samurai Helmet
+Broom
+Haori
+Brown Haori
+Black Haori
+Cyan Haori
+White Haori
+Green Haori
+Kimono
+Brown Kimono
+Black Kimono
+Green Kimono
+Cyan Kimono
+Purple Kimono
+Sakura Kimono
+White Kimono
+Red Yukata
+Blue Yukata
+Magenta Yukata
+Lime Yukata
+Yellow Yukata
+Miko Kimono
+Sakura Coin
+Sunburnt Bamboo
+Stone Forging Hammer
+Iron Forging Hammer
+Sakura Diamond Forging Hammer
+Steel Ingot
+Tamahagane
+Sagegane
+Bamboo Charcoal
+Zuku
+Zuku Ingot
+Harvester Guide
+Noodle Soup
+Soysause
+Rea Bean Rice
+Grilled fish
+Fries
+Furofuki Daikon
+Cabbage Roll
+White Stew
+Fruit Salad
+Buggys Meat
+Raw Pasta
+Tomato Pasta
+Mushroom Pasta
+White Sauce Pasta
+Soft-boiled Egg
+Soft-boiled Egg with Soy Sauce
+Cooking Pot
+Earl Grey Leaves
+Black Tea Leaves
+Green Tea Leaves
+Fruit Tea Leaves
+Rice Tea Leaves
+Mint Tea Leaves
+Mocha
+Brown Rice
+Hop
+Yeast
+Alkali
+Mint
+Empty Bottle
+Orange Juice
+Lemon Juice
+Blackcurrant Juice
+Almond
+Soda
+Lemon
+Green Grape
+Sliced Cabbage
+Sushi Shrimp
+Curry Omurice
+Katsu Dish
+Croquette Dish
+Sheath
+Katana Sheath
+Sakura Katana Sheath
+Beer Bottle
+Doburoku Bottle
+Sake Bottle
+Shouchu Bottle
+Red Wine Bottle
+White Wine Bottle
+Champagne Bottle
+Rum Bottle
+Vodka Bottle
+Whiskey Bottle
+Brandy Bottle
+Gin Bottle
+Tequila Bottle
+Liqueur Bottle
+Cocoa Liqueur Bottle
+Cup
+Black Tea
+Milk Tea
+Milk Green Tea
+Earl Grey
+Milk Earl Grey
+Fruit Tea
+Milk Fruit Tea
+Green Tea
+Lemon Black Tea

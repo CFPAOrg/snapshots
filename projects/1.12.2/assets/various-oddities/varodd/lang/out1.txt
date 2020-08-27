@@ -1,0 +1,70 @@
+Bulette Scale
+Kobold Scale
+Golembane Scarab
+Scarab of Protection
+Scarecrow
+Acid Base Solution
+Alchemical Fire Base
+Incomplete Antitoxin
+Enervated Tanglefoot Mixture
+Treated Pebble
+Spellbook
+Spellbook (%s)
+Spell List
+Scroll of %s
+Sigil of %s
+Wand of %s
+Spyglass
+Stone Salve
+Wooden Holy Symbol
+Stone Holy Symbol
+Iron Holy Symbol
+Golden Holy Symbol
+Diamond Holy Symbol
+Hourglass
+Tortoise Shell
+Adventurer's Journal
+Journal Entry
+Vial of Acid
+Alchemist's Fire
+Holy Water
+Antitoxin
+Tanglefoot Flask
+Thunderstone
+Whalebone Key
+Spawns the contained entity
+Spawns the contained entity with the applied inscriptions
+A durable shield against unavoidable projectiles
+A potent munition imbued with lethal magic
+A high-quality ink used mostly for decorative pursuits.
+They seem to grip against the nearest wall
+As swift as a summer's breeze
+The sound of a windy day echoes within
+You can hear an ocean...
+A valuable commodity and a useful gambling tool
+A direct connection to your most valuable possession.
+Vaporises a vast quantity of water... once.
+A whiff of fleeting stealth
+That which is hidden shall be unhidden
+This must have some use...
+Freezes targets in place, but gets a little tired...
+An endless supply of watery gruel
+A shiny bauble of considerable wealth
+A convenient searching tool
+No more worry for high shelves
+Sneak whilst looking at items and objects to control
+It gives off a menacing aura...
+A friend and boy
+A submariner's most valued possession
+Emits a damaging and deafening noise when blown
+Failure chance: %s
+A bolt from the blue sky!
+A directional light source
+A light that glimpses even the unseen
+Its warmth is soothing and protective
+A resilient field surrounds them
+Performs minor repairs on-the-go
+Walk like the Men of Ender
+It stores the energy of damaging falls, though you know not where...
+Keeps you from starving, but not much else
+Become unseen

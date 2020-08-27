@@ -1,0 +1,15 @@
+commands.swt.usage
+options.swt.title
+options.swt.enable
+options.swt.autoHide
+options.swt.preset
+options.swt.preset0
+options.swt.preset1
+options.swt.preset2
+options.swt.preset3
+options.swt.preset4
+options.swt.clockType0
+options.swt.clockType1
+options.swt.clockType2
+options.swt.clockType3
+options.swt.startYear

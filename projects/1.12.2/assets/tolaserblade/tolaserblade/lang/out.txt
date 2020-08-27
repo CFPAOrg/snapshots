@@ -1,0 +1,19 @@
+Laser Blade
+Laser B1ade
+A new %s version is available
+This is where you can edit the settings contained in tolaserblade.cfg. If you are playing a multiplayer game, the server-side settings will be used.
+Common Settings
+Settings in the tolaserblade.cfg that only concern the local client.
+Client Settings
+Enable blocking with Laser Blade.
+Enable Blocking with Laser Blade
+An integer value that is a factor of mining speed of Laser Blade.
+Laser Blade Mining Speed
+Enable to attack with Laser Blade in Dispenser when the dispenser is activated.
+Enable Laser Trap
+A boolean value represents whether laser trap can attack player or not.
+Can Laser Trap Attack Player
+Enable Laser Blade to use 3D model.
+Enable Laser Blade 3D Model
+Select rendering mode of Laser Blade (0: Default, 1: Using only alpha blending). This option is available when "Enable Laser Blade 3D Model" is true.
+Laser Blade Rendering Mode

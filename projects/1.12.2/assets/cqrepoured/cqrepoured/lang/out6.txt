@@ -1,0 +1,50 @@
+Right-click to shoot hook. Once the hook hits a block, you can hold right-click to move closer to it, and sneak while doing so to move away from it.
+Right-click to shoot web. Once the hook hits a block, you can hold right-click to move closer to it, and sneak while doing so to move away from it.
+Right-click to shoot hook. Once the hook hits a block, you can hold right-click to move closer to it, and sneak while doing so to move away from it.
+The inscription on the blade reads "My power can only be awakened in the light of the moon"
+The inscription on the blade reads "My power can only be awakened in the light of the sun"
+Attack Damage during the Night
+Attack Damage during the Day
+This rod radiates dark energy, as you hold it in your hand. If you move it near your ear, you will hear its demand. Its call is simple: "Right-click with me" and when you do then you will see, a projectile it does emit. Though the damage is slight, if you land it just right, it will heal you when it does hit. 
+Whatever this is supposed to do, it doesn't work yet. #TODO
+Whatever this is supposed to do, it doesn't work yet. #TODO
+Missing #TODO
+Missing #TODO
+A well-made weapon with longer reach than swords. Right-click to charge an extended thrust.
+Mob to be summoned:
+A rough approximation of what a shield is supposed to look like. Will not protect you from attacks. An exported dummy that is holding this will instead be holding the usual shield for its mob type when its dungeon generates.
+Lightning Protection
+Boarman
+Dummy
+Dwarf
+Enderman
+Goblin
+Golem
+Gremlin
+Illager
+NPC
+Mandril
+Minotaur
+Mummy
+Ogre
+Orc
+Pirate
+Skeleton
+Spectre
+Triton
+Abyss Walker
+Zombie
+Giant Endermite
+Giant Silverfish
+Giant Lava Silverfish
+Giant Swamp Silverfish
+Nether Dragon
+Giant Tortoise
+Lich
+Necromancer
+Boarmage
+Abyss Walker King
+Pirate Captain
+Shelob
+<TECHNICAL_ENTITY>summoning pentagram
+Walker King

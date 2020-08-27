@@ -1,0 +1,9 @@
+item.steel_ingot.name
+item.enriched_iron.name
+item.steel_sword.name
+item.steel_pickaxe.name
+item.steel_axe.name
+item.steel_shovel.name
+item.steel_hoe.name
+tile.steel_block.name
+itemGroup.simplesteeltab

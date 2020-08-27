@@ -1,0 +1,4 @@
+tile.die_flower.name
+tile.dec_flower.name
+item.die_dye.name
+itemGroup.die_dye

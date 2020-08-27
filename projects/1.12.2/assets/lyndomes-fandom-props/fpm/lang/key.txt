@@ -1,0 +1,4 @@
+item.vortex_manipulator.name
+tile.bench_and_seat.name
+tile.lolbit_plushie.name
+tile.goblet_empty.name

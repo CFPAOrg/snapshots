@@ -1,0 +1,4 @@
+subtitles.entity.fishing_bobber.throw
+subtitles.item.axe.strip
+subtitles.entity.mooshroom.milk
+subtitles.item.book.page_turn

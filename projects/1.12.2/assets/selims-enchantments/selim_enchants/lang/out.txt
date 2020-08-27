@@ -1,0 +1,33 @@
+Amplify
+Banishing
+Feller
+Magma Walker
+Recall
+Uncivilized
+Vorpal
+Warping
+Wither
+Tilling
+Venomous
+Conversion
+Reflection
+Ender Shift
+Curse of Breaking
+Amplifies your tools power to a larger area.
+Damage bonus against Nether mobs.
+Fells an entire tree with a single swing.
+Allows you to walk on lava as if it were solid ground.
+Chance for enemy loot to teleport to you.
+Damage bonus against human-like mobs.
+Defeated enemies have a chance to drop their heads.
+Damage bonus against Ender mobs.
+Applies a withering effect.
+Tills a larger area of land.
+Applies a venomous effect.
+Heals the player being attacked.
+Reflects some blocked damage to the attacker.
+Transports dropped items to your Ender Chest.
+Causes your equipment to break quicker.
+Shift for more information...
+No information found...
+This enchantment has been disabled

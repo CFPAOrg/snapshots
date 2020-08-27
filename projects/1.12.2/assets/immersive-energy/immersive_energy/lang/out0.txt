@@ -1,0 +1,43 @@
+Immersive Energy
+Thorium Ingot
+Thorium Grit
+Thorium Nugget
+Thorium Plate
+Tungsten Ingot
+Tungsten Grit
+Tungsten Nugget
+Tungsten Plate
+Tungsten Rod
+Thorium Rod
+Uranium Rod
+Solar Panel Array
+Hefty Wrench
+Electric Wrench Addon
+Thermal Wrench Addon
+Magical Wrench Addon
+Wrench Capacitor Addon
+Shocking Arrow
+Environmental Suit Helmet [WIP]
+Environmental Suit Torso [WIP]
+Environmental Suit Leggings [WIP]
+Environmental Suit Boots [WIP]
+Block of Thorium
+Block of Tungsten
+Portable Solar Panel
+Portable Gas Burner
+Thorium Sheetmetal
+Thorium Sheetmetal Slab
+Tungsten Sheetmetal
+Tungsten Sheetmetal Slab
+Thorium Ore
+Tungsten Ore
+Immersive Energy
+Immersive Energy Ores
+Now you're thinking fractally!
+§lThorium Ore§r is found in the world between layers 8 and 24, and requires an Iron Pickaxe to harvest.<br><br>The ore will smelt into thorium ingots, but there are currently not many uses for the metal. A thorium block can serve as a heatsource for the <link;thermoElectric;§o§nThermoelectric Generator§r;0> and the metal will be used in future endeavours.
+§lTungsten Ore§r is found in the world between layers 8 and 24, and requires an Diamond Pickaxe to harvest.<br><br>The ore will smelt into tungsten ingots, but there are currently not many uses for the metal. A tungsten rod can be used for munition for the <link;railgun;§o§nRailgun§r;0> and the metal will be used in future endeavours.
+Solar Panels
+Metallic Photosynthesis!
+The §lSolar Panel Array§r is the base of all the §lSolar Panels§r, and one of the most complex parts yet. By it self it can't do anything, it is instead used in the crafting of the <link;solar_panel;§o§nPortable_Solar_Panel§r;3>.
+The §lSolar Panels§r are too complex to be made by hand and require a dedicated blueprint. This blueprint is used for all things solar.
+The aluminum keeps the <link;solar_panel;§o§nSolar_Panel_Array§r;0> relatively light, but lacks any useful way of storing and extracting energy.

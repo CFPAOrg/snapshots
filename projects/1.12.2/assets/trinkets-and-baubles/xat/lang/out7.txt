@@ -1,0 +1,52 @@
+Modified Jump Height Amount
+Multiply Jump Height by This Amount
+Poison Stone Settings
+Bonus Damage
+If an Enemy is Poisoned, Do Extra Damage?
+Bonus Damage Amount
+When an Enemy is Poisoned, Multiply damage dealt to them By this
+Can Poison
+Can the Poison Stone Poison Enemies?
+Poison Chance
+1 in X chance to Poison an Enemy on Attack for 2 seconds
+Polarized Stone Settings
+Instant Pickup
+Should the Polarized Stone Instantly Pickup Items
+Collection Range
+WARNING! SETTING THESE VALUES TOO HIGH WILL CAUSE YOU TO LAG. Try to Keep within a range of 4-16
+Vertical Distance
+How Far Vertically(Up, Down) in Blocks the Polarized Stone can Effect. Default 6, MIN 0, MAX 32
+Horizontal Distance
+How Far Horizontally(N, E, S, W) in Blocks the Polarized Stone can Effect. Default 12, MIN 0, MAX 32
+Effect EXP
+Should the Polarized Stone Effect XP
+Pull Mode Force
+How Much Force used when Things are Pulled Toward the player if Instant Pickup is disabled
+Repel Projectiles
+Should The Polarized Stone Repel Projectiles
+Repel Costs Mana
+Should It Cost Mana to Repel Projectiles
+Mana Cost
+How much Mana per Tick rate
+Mana Cost Tick Rate
+How often in Ticks Mana is Reduced while Repel Mode is Active
+Repelled Entities
+List of Entities the Polarized stone can repel
+Stone of the Sea Settings
+Better Swimming
+When Enabled applies tweaks to Water movement to make swimming easier
+Water Breathing
+When Enabled Gives Infinite Oxygen
+Full Bubbles
+When Infinite Oxygen is Enabled, Should it Trigger at Full Oxygen Bubbles, or when on the Final Oxygen Bubble
+Prevent TAN Thirst Poisoning
+If Tough as Nails is installed, Should the Stone of the Sea Prevent the Thirst Effect?
+Wither Ring Settings
+Leech
+If The Enemy Has Wither, Should you be able to leech health from them
+Leech Amount
+How Much Leech Per Hit in half hearts
+Wither Enemy
+Is it Possible to Wither an Enemy?
+Wither Chance
+1 in X Chance to Wither an Enemy on Attack for 2 Seconds

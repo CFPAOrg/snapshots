@@ -1,0 +1,1 @@
+Killed a total of %s entities.

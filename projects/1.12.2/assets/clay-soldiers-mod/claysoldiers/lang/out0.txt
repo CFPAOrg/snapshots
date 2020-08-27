@@ -1,0 +1,138 @@
+Clay Nexus
+Clay Disruptor
+Hardened Clay Disruptor
+Obsidian Clay Disruptor
+Currently disrupting: %s
+All the things
+All clay creatures
+Soldiers
+Mounts
+Companions
+Clay blocks
+Clay Soldier
+Clay
+Red Soldier
+Red
+Orange Soldier
+Orange
+Yellow Soldier
+Yellow
+Lime Soldier
+Lime
+Green Soldier
+Green
+Cyan Soldier
+Cyan
+Lightblue Soldier
+Lightblue
+Blue Soldier
+Blue
+Purple Soldier
+Purple
+Magenta Soldier
+Magenta
+Pink Soldier
+Pink
+Brown Soldier
+Brown
+Black Soldier
+Black
+Gray Soldier
+Gray
+White Soldier
+White
+Melon Soldier
+Melon
+Pumpkin Soldier
+Pumpkin
+Coal Soldier
+Coal
+Redstone Soldier
+Redstone
+Lightgray Glass Soldier
+Lightgray Glass
+Red Glass Soldier
+Red Glass
+Orange Glass Soldier
+Orange Glass
+Yellow Glass Soldier
+Yellow Glass
+Lime Glass Soldier
+Lime Glass
+Green Glass Soldier
+Green Glass
+Cyan Glass Soldier
+Cyan Glass
+Lightblue Glass Soldier
+Lightblue Glass
+Blue Glass Soldier
+Blue Glass
+Purple Glass Soldier
+Purple Glass
+Magenta Glass Soldier
+Magenta Glass
+Pink Glass Soldier
+Pink Glass
+Brown Glass Soldier
+Brown Glass
+Black Glass Soldier
+Black Glass
+Gray Glass Soldier
+Gray Glass
+White Glass Soldier
+White Glass
+Carrot Soldier
+Carrot
+Potato Soldier
+Potato
+Beetroot Soldier
+Beetroot
+Brick Soldier Doll
+Dirt Horse
+Sand Horse
+Gravel Horse
+Snow Horse
+Grass Horse
+Lapis Lazuli Horse
+Clay Horse
+Carrot Horse
+Soulsand Horse
+Cake Horse
+Dirt Pegasus
+Sand Pegasus
+Gravel Pegasus
+Snow Pegasus
+Grass Pegasus
+Lapis Lazuli Pegasus
+Clay Pegasus
+Carrot Pegasus
+Soulsand Pegasus
+Cake Pegasus
+Cobblestone Turtle
+Mossy Cobble Turtle
+Netherrack Turtle
+Melon Turtle
+Sandstone Turtle
+Endstone Turtle
+Pumpkin Turtle
+Lapis Lazuli Turtle
+Cake Turtle
+Red Bunny
+Orange Bunny
+Yellow Bunny
+Lime Bunny
+Green Bunny
+Cyan Bunny
+Lightblue Bunny
+Blue Bunny
+Purple Bunny
+Magenta Bunny
+Pink Bunny
+Brown Bunny
+Black Bunny
+Gray Bunny
+Lightgray Bunny
+White Bunny
+Oak|Oak Gecko
+Oak|Spruce Gecko
+Oak|Birch Gecko

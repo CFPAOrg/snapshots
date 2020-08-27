@@ -1,0 +1,16 @@
+Rabbit Foot
+By the strength of a Rabbit Foot, a soldier can attack them on their feet to gain additional jump height.\n\n§7-§1 Misc. upgrade\n§7-§1 + 0.5 blocks jump boost
+Prismarine Crystal
+These crystals make soldiers sparkle, that is all.\n\n§7-§1 Misc. upgrade\n§7-§1 spawns sparkles
+Firework Rocket
+When a soldier reaches half health by any means, they'll activate the rocket to fly out of danger. Be careful, though, because without a {link:feather|upgrades:feather} they'll die from fall damage and without a {link:string|upgrades:string}, they'll die from the explosion of the rocket.\n\n§7-§1 Misc. upgrade\n§7-§1 shoots soldiers up when\n§1   they reach half health
+Iron Ingot
+Reinforcing the core of a soldier with an Iron Ingot will not only vastly increase the knockback resistance, but also increase the knockback they'll deal to others.\n\n§7-§1 Core upgrade\n§7-§1 increases knockback\n§1   resistance\n§7-§1 increases knockback dealt
+Brick
+A Brick is heavy, so heavy in fact that a soldier stops moving around whilst carrying one.\n\n§7-§1 Core upgrade\n§7-§1 prevents walking
+String
+Wrapping String around a soldiers body will prevent one from being damaged by an explosion, but disintegrating the String in that process (with the only exception when being hit by a {link:firework rocket|upgrades:fireworkrocket} explosion, in which the string stays strong)\n\n§7-§1 Core upgrade\n§7-§1 1 use\n§7-§1 blocks dmg. from explosion\n§7-§1 does not break in firework\n§1   explosion
+Cactus
+The Cactus will make soldiers wet with its water, thus they become less susceptible to fire-based attacks, either lessen the burn time or outright extinguishing the fire\n\n§7-§1 Core upgrade\n§7-§1 halves burn time\n§7-§1 75%% chance of extinguishing
+Nether Brick
+Acting similar like a thorns enchantment on armor, just fire-based; a Nether Brick sets those on fire that dare attack the one carrying it.\n\n§7-§1 Core upgrade\n§7-§1 sets attackers on fire for\n§1   3 sec.

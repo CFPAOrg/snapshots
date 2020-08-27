@@ -1,0 +1,63 @@
+Edit
+Add
+Remove
+Clear
+Disabled
+Volume
+Adds the cave dimensions. There's no surface there.
+A new %s version is available
+You are using a Beta version of %s
+You are using an Alpha version of %s
+You are using a Dev version of %s
+Updated Cavern config files and it was initialized
+Do you want to open the mod config for Cavern?
+Cavern Configuration
+The latest version of Cavern is %s
+You are using the latest version
+You are using an older version
+You are using a beta version
+You are using an alpha version
+You are using a development version
+Detail info
+Display detailed information.
+Instant filter
+Filter instantly when enter character in filter-textbox.
+General Settings
+Change the settings contained in general.cfg
+Version Notify
+Whether to notify when a new version is available.
+Cave Music Volume
+Specify the volume for cave music.
+Mining Point Items
+Specify the items that can getting mining point. (Or Automatically decide if not specified)
+Mining Points
+Specify the mining point for each block.
+Mining Combo
+Whether to enable the mining combo.
+Caveborn
+Specify the caveborn type. Transfer to the cave dimension when join to world for the first time.
+Disabled
+Ruins Cavern
+Cavern
+Aqua Cavern
+Caveland
+Ice Cavern
+Huge Cavern
+Caveborn Bonus Items
+Specify the bonus items for caveborn.
+Cavern Escape Mission
+Whether to enable escape mission from cave dimensions.
+Portal Cache
+Whether to enable cache for cave portal teleport.
+Portal Menu
+Whether to enable open the menu on cave portals.
+Sleep Waiting Time
+Specify the sleep waiting time by seconds in the cave dimensions.
+Sleep Refresh
+Whether to refresh health when wake up in the cave dimensions.
+Display Settings
+Change the settings contained in display.cfg
+Custom Loading Screen
+Whether to enable the custom loading screen for cave dimensions.
+Mining Point Position
+Specify the display position of mining point.

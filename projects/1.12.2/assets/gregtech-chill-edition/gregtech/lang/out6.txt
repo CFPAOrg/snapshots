@@ -1,0 +1,162 @@
+Pump Cover Settings (%s)
+%sMB/s
+Mode: Export
+Mode: Import
+Fluid Filter
+Sand %s Ore
+Sandstone %s Ore
+Gravel %s Ore
+Nether %s Ore
+Nether %s Ore
+Dense %s Ore
+Rich %s Ore
+Normal %s Ore
+Small %s Ore
+Poor %s Ore
+End %s Ore
+End %s Ore
+%s Ore
+%s Ore
+Centrifuged %s Ore
+Purified %s Ore
+Crushed %s Ore
+%s Shard
+%s Clump
+Native %s Cluster
+%s Dirty Dust
+Double %s Ingot
+Hot %s Ingot
+%s Ingot
+%s
+Chipped %s
+Tiny Pile of %s Dust
+Small Pile of %s Dust
+Impure Pile of %s Dust
+Purified Pile of %s Dust
+%s Dust
+%s Nugget
+Dense %s Plate
+Double %s Plate
+%s Plate
+%s Foil
+Long %s Rod
+%s Rod
+%s Round
+%s Bolt
+%s Comb
+%s Screw
+%s Ring
+Small %s Spring
+%s Spring
+Fine %s Wire
+%s Rotor
+Small %s Gear
+%s Gear
+%s Lens
+%s Plasma Cell
+%s Cell
+%s Bucket
+%s Bottle
+%s Capsule
+%s Crystal
+%s Sword Blade
+%s Pickaxe Head
+%s Shovel Head
+%s Universal Spade Head
+%s Axe Head
+%s Hoe Head
+%s Sense Blade
+%s File Head
+%s Hammer Head
+%s Plow Head
+%s Saw Blade
+%s Buzzsaw Blade
+%s Screwdriver Tip
+%s Drill Tip
+%s Chainsaw Tip
+%s Wrench Tip
+%s Turbine Blade
+%s Sword
+%s Pickaxe
+%s Shovel
+%s Axe
+%s Hoe
+%s Shears
+Compressed %s
+Block of %s
+%s Frame
+Tiny %s Pipe
+Small %s Pipe
+Medium %s Pipe
+Large %s Pipe
+Huge %s Pipe
+Tiny Restrictive %s Pipe
+Small Restrictive %s Pipe
+Medium Restrictive %s Pipe
+Large Restrictive %s Pipe
+Huge Restrictive %s Pipe
+%s Pipe
+16x %s Wire
+12x %s Wire
+8x %s Wire
+4x %s Wire
+2x %s Wire
+1x %s Wire
+16x %s Cable
+12x %s Cable
+8x %s Cable
+4x %s Cable
+2x %s Cable
+1x %s Cable
+Aluminium
+Americium
+Antimony
+Argon
+Arsenic
+Barium
+Beryllium
+Bismuth
+Boron
+Caesium
+Calcium
+Carbon
+Cadmium
+Cerium
+Chlorine
+Chrome
+Cobalt
+Copper
+Deuterium
+Dysprosium
+Erbium
+Europium
+Fluorine
+Gadolinium
+Gallium
+Gold
+Holmium
+Hydrogen
+Helium
+Helium 3
+Indium
+Iridium
+Iron
+Lanthanum
+Lead
+Lithium
+Lutetium
+Magnesium
+Manganese
+Mercury
+Molybdenum
+Neodymium
+Darmstadtium
+Nickel
+Niobium
+Nitrogen
+Osmium
+Oxygen
+Palladium
+Phosphorus
+Platinum
+Plutonium 244

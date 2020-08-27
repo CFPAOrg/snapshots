@@ -1,0 +1,8 @@
+itemGroup.BearWithMe
+entity.grizzlybear.name
+entity.blackbear.name
+entity.pandabear.name
+item.bearwithme.hide.bear.black.name
+item.bearwithme.hide.bear.grizzly.name
+item.bearwithme.hide.bear.panda.name
+item.bearwithme.hide.bear.polar.name

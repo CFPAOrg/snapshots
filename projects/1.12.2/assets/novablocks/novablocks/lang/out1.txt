@@ -1,0 +1,91 @@
+Double granite slab
+Double polished granite slab
+Double diorite slab
+Double polished diorite slab
+Double gravel slab
+Double sand slab
+Double red sand slab 
+Double smooth sandstone slab
+Double carved sandstone slab
+Double red smooth sandstone slab
+Double red carved sandstone slab 
+Double mossy cobblestone slab
+Obsidian slab
+Double obsidian slab
+Snow slab
+Double snow slab
+Double clay slab
+Double netherrack slab
+Double soulsand slab
+Double red nether brick slab
+Double endstone slab
+Double end brick slab
+Double prismarine slab
+Double prismarine brick slab
+Double dark prismarine slab
+Double bone slab
+Double nether wart slab
+Double hay slab
+Red metal slab
+Double red metal slab
+Rust slab
+Double rust slab
+White concrete stairs
+Black concrete stairs
+Blue concrete stairs
+Brown concrete stairs
+Light blue concrete stairs
+Light gray concrete stairs
+Green concrete stairs
+Gray concrete stairs
+Orange concrete stairs
+Purple concrete stairs
+Pink concrete stairs
+Red concrete stairs
+Lime concrete stairs
+Yellow concrete stairs
+Cyan concrete stairs
+Magenta concrete stairs
+Hazard stairs
+Stone stairs
+Mossy stone bricks stairs
+Cracked stone bricks stairs
+Chiseled stone bricks stairs
+Oak log stairs
+Birch log stairs
+Spruce log stairs
+Jungle log stairs
+Acacia log stairs
+Dark oak log stairs
+Coarse dirt stairs
+Andesite stairs
+Polished andesite stairs
+Granite stairs
+Polished granite stairs
+Diorite stairs
+Polished diorite stairs
+Gravel stairs
+Sand stairs
+Red sand stairs
+Smooth sandstone stairs
+Carved sandstone stairs
+Red smooth sandstone stairs
+Red carved sandstone stairs
+Mossy cobblestone stairs
+Snow stairs
+Obsidian stairs
+Clay stairs
+Netherrack stairs
+Soulsand stairs
+Red nether brick stairs 
+Endstone stairs
+End brick stairs
+Prismarine stairs
+Prismarine brick stairs
+Dark prismarine stairs
+Bone stairs
+Nether wart stairs
+Hay stairs
+Red metal stairs
+Rusty metal stairs
+Coarse dirt slope

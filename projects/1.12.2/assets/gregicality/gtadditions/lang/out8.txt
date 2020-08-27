@@ -1,0 +1,107 @@
+Tungsten Reinforced Glass
+Iridium Reinforced Glass
+Osmium Reinforced Glass
+Red Steel Casing
+Tumbaga Casing
+Potin Casing
+Stellite and Talonite Casing
+Staballoy Casing
+Eglin Steel Casing
+Grisium Casing
+Maraging Steel 250 Casing
+Inconel 625 Casing
+Hastelloy N Casing
+HV Power Cell
+EV Power Cell
+IV Power Cell
+LUV Power Cell
+ZPM Power Cell
+UV Power Cell
+Used in §aBattery Tower§7
+    Capacity: §e%d
+    Max Tier: §e%s
+%s Bending Cylinder
+Small %s Bending Cylinder
+Blast Alloy
+Cluster Mill
+Circuit Assembler
+[Deprecated] Coke Oven
+[Deprecated] Distillation Tower
+Assembly Line
+Processing Array
+Volcanus
+Large Thermal Centrifuge
+Large Assembler
+Large Electrolyzer
+Large Extruder
+Large Centrifuge
+Large Chemical Reactor
+Large Cutting Machine
+Large Macerator
+Large Mixer
+Large Sifter
+Large Bending and Forming machine
+Large Multi Use Machine
+Large Washing Plant
+Large Wiremill
+Naquadah Reactor Fuels
+Replicator
+Mass Fabricator
+[Deprecated] Cracking Recipes
+Electric Sieve Recipes
+Hot Coolant Turbine
+Boiling Thorium Reactor Recipes
+Boiling uranium Reactor Recipes
+Boiling plutonium Reactor Recipes
+Bee Attractor Recipes
+Rocket Fuel Generator
+Chemical Plant
+Chemical Dehydrator
+Large Forge Hammer
+Plasma Turbine Fuels
+Simple Ore Washer
+Nuclear Reactor
+Nuclear Reactor Breeder
+Decay Chamber
+Green House
+Heat: %dC
+Hot Coolant Temperature: %dC
+Brick
+Fireclay
+Coal Coke
+Phosphorous Pentoxide
+Phosphoric Acid
+Polyvinyl Acetate
+Phenol
+Bisphenol A
+Epoxy Resin
+Fiber-Reinforced Epoxy Resin
+Borosilicate Glass
+Polyvinyl Chloride
+Vinyl Chloride
+Ethylene
+Charcoal Byproducts
+Benzene
+Wood Gas
+Wood Vinegar
+Wood Tar
+Sodium Hydroxide
+Quicklime
+Acetone
+Sulfur Trioxide
+Sulfur Dioxide
+Glycerol
+Fish Oil
+Methanol
+Carbon Monoxide
+Cetane-Boosted Diesel
+Diluted Sulfuric Acid
+Sodium Bisulfate
+Chloroform
+Diluted Hydrochloric Acid
+Hypochlorous Acid
+Ammonia
+Chloramine
+Dimethylamine
+1,1-Dimethylhydrazine
+Rocket Fuel

@@ -1,0 +1,133 @@
+Dread Knight's Sword
+Dread Lich Staff
+Blade of the Dreaded Queen
+Staff of the Dreaded Queen
+Weezer
+Weezer
+Dragon Debug Stick
+For developer use only...
+Dread Shard
+§bGravemaster's Key§r
+Hydra Fang
+Hydra Heart
+When in hotbar, gives increasing regeneration
+based on how injured the holder is
+Hydra Arrow
+Poisons and leeches life from target
+Ice Dragon Summoning Crystal
+Fire Dragon Summoning Crystal
+Right click on a dragon to bind it
+Use when bound to teleport dragon
+Bound to %s
+Fire Dragon
+Ice Dragon
+Dragon Egg
+Dragon Bone Arrow
+Dragon Skull
+Dragon Fire
+Dragon Fire Charge
+Dragon Ice
+Dragon Ice Charge
+Snow Villager
+Craftsman
+Fisherman
+Shaman
+Hippogryph
+Black Hippogryph
+Brown Hippogryph
+Chestnut Hippogryph
+Cream Hippogryph
+Dark Brown Hippogryph
+Gray Hippogryph
+White Hippogryph
+Frosty Hippogryph
+Firey Hippogryph
+Dodo Hippogryph
+Player
+Stone Statue
+Gorgon
+Pixie
+Pink Pixie
+Purple Pixie
+Blue Pixie
+Green Pixie
+Yellow Pixie
+Cyclops
+Siren
+Hippocampus
+Death Worm
+Death Worm Egg
+Cockatrice
+Cockatrice Egg
+Stymphalian Bird
+Stymphalian Bird Feather
+Stymphalian Arrow
+Troll
+Myrmex Worker
+Myrmex Soldier
+Myrmex Queen
+Myrmex Sentinel
+Myrmex Royal
+Myrmex Egg
+Amphithere
+Sea Serpent
+Chain
+Pixie Wand Beam
+Myrmex Swarmer
+Tide Trident
+Skull
+Dread Thrall
+Dread Ghoul
+Dread Beast
+Dread Scuttler
+Dread Lich
+Dread Lich Skull
+Dread Knight
+Dread Knight Horse
+Black Frost
+Dread Queen
+Hydra
+Hydra Breath
+Hydra Arrow
+Blue
+Bronze
+Deep Blue
+Green
+Purple
+Red
+Teal
+Red
+Emerald
+Bronze
+Gray
+Blue
+Sapphire
+Silver
+White
+Stage 
+Fire
+Ice
+Name: 
+Unnamed
+Health: 
+Gender: 
+Male
+Female
+Hunger: 
+Owner: 
+Wild
+Head
+Neck
+Body
+Tail
+Hatches in:
+(
+Days)
+This dragon is staying.
+This dragon is wandering.
+This dragon is escorting you.
+This dragon's home position has been set to %d, %d, %d.
+This dragon's home position was removed.
+This hippogryph is staying.
+This hippogryph is wandering.
+This hippogryph's home position has been set to %d, %d, %d.

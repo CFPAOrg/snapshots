@@ -1,0 +1,8 @@
+Right-Click a Void-Beacon in the overworld to get a GUI where you can produce powerful tools. You can put components, enchanted books and void ingots in to create a very unique tool.
+If you jump out of the world holding this strange totem, you can pass the void and discover a new world. IMPORTANT: Bring 12 ender-eyes because you'll need to find an end-portal in that world to leave it.
+Under the top bedrock layer there are many void ores. They can be mined with a diamon pickaxe but it'll take very long. The void beacons are found on top of huge bedrock pillars. They can also be mined with a diamon pickaxe.
+Place the breaker on top of a bedrock. Itll need a fairly big amount of energy to break the bedrock and drop on it's top.
+By building a structure with that block you may create bedrock without having to use the breaker all the time. But it'll end up in an explosion if not stabilized. (See Bedrock Rose)
+The generator takes ender-pearls and origin-pearls to create a huge amount of energy for one minute. But as it's not capable of saving that energy everything that is not used will disappear. It produces FE and EU (Insane Voltage)
+You can spawn a bedrock-golem. It's the only way to obtain some bedrock roses. But remember: You can only damage it with a bedrock pickaxe.
+Sometimes voidic power is released and things explode. You can stabilize that with four roses around the block and four ender-rifts on top. But if it's built wrong, BOOM. So be careful.

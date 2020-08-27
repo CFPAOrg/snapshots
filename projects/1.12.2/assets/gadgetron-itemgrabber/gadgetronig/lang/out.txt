@@ -1,0 +1,64 @@
+Item Grabber V1
+Item Grabber V2
+Magnetic Core V1
+Magnetic Core V2
+Screen V1
+Screen V2
+Button Plate V1
+Button Plate V2
+Casing V1
+Casing V2
+The item grabber can be activated using the default key �9M�r key, when activated the texture will change and if not disabled a green magnet icon will appear. 
+Anti grabber block (up)
+Anti grabber block (down)
+Anti grabber block (all)
+Anti grabber block (chunk)
+Press 
+to activate
+Range
+Speed
+blocks
+sec
+tick
+Magnet state
+Sneak mode
+On
+Off
+Right click to put on belt
+Shift right click to remove grabber from belt
+To unequip belt press
+Changed range to
+Current range is
+Range is counted from the block this is placed on
+Change the range by sneak + right clicking
+Will cover the whole chunk and 7 blocks above and below
+Gadgetron: Item Grabber
+Gadgetron: Item Grabber
+Grabber V1 Speed
+How fast the item grabber can attract
+Grabber V2 Speed
+How fast the item grabber can attract
+Grabber V1 Range
+How far the item grabber can attract
+Grabber V2 Range
+How far the item grabber can attract
+How far the item grabber can attract
+Client Settings
+Sneak setting affects the item grabber on a server
+Server Settings
+Gets sync to clients
+Sneak deactivate
+If sneaking deactivates the item grabber temporarily
+Blocks/sec
+If the speed should be shown in blocks/tick or blocks/sec
+Icon Position
+Icon position for the active icon
+Width offset
+The width position offset
+Height offset
+The height position offset
+Hide icon
+Hides the icon
+Icon position
+Gadgetron: Item Grabber
+Toggle item grabber state

@@ -1,0 +1,3 @@
+item.ingotAdvancedAlloy.name
+item.advanced_alloy_block.name
+tile.advanced_alloy_block.name

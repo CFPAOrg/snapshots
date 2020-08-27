@@ -1,0 +1,56 @@
+Max height of mixture veins
+Change of generation of mixture veins
+Size of Orichalcum Ore
+Size of Mana Ore
+Generate times of Orichalcum Ore
+Generate times of Mana Ore
+Failed to generate:ManaProducer is blocked
+It's the Final Hoe of Mana that Controls Power of Fire!
+Someone or something met a pig at the corner
+Potion of Mana Evoker
+Splash Potion of Mana Evoker
+Machine Frame
+Mana Block
+Mana Body
+Mana Booster
+Mana Foot
+Mana Glass
+Mana Head
+Orichalcum Block
+Orichalcum Ore
+Mana Lantern
+Mana Obsidian
+Mana Ore
+Mana Producer
+%s was slayed by a pig that was being slayed
+There's a chance to get by throwing a mana into lava, unable to be destroyed by any entity like Dragon or Wither
+Orichalcum Dust
+Orichalcum Gear
+Orichalcum Plate
+Can be used as hardened glass, and drop itself while breaking
+DON'T feed the pig at corner or just run as fast as you can
+Right click on somewhere to finalize
+Edited By Au, Thanks to Eric Fullerton
+Mana
+Orichalcum
+Mana Obsidian
+Mana Glass
+Mana Book
+Origin
+Vector
+Misc
+Power of Nature
+Hardly Hardened
+Deep in the Dark
+Get in Gear
+Wonderful Wand
+Ancient Magician
+Around World
+Like a Reactor
+Let it Swifter
+Mouthful
+Blue or Blur
+Tinker's Support
+Piggy Mana
+Declaration
+Known Issue

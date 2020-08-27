@@ -1,0 +1,9 @@
+item.mininglantern:mininglantern.name
+tooltip.mininglantern:activate
+tooltip.mininglantern:loaded
+tooltip.mininglantern:notloaded
+config.mininglantern
+config.mininglantern.otherlight
+config.mininglantern.otherlight.tooltip
+keys.mininglantern.category
+keys.mininglantern.light

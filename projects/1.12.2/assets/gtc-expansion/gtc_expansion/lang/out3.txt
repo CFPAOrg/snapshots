@@ -1,0 +1,121 @@
+Tungsten Plate
+Invar Plate
+Zinc Plate
+Bronze Plate
+Silver Plate
+Steel Plate
+Magnalium Plate
+Gold Plate
+Copper Plate
+Electrum Plate
+Lead Plate
+Aluminium Plate
+Platinum Plate
+Tin Plate
+Chrome Plate
+Brass Plate
+Plutonium Plate
+Refined Iron Plate
+Tungstensteel Plate
+Titanium Plate
+Nickel Plate
+Osmium Plate
+Osmiridium Plate
+Silicon Plate
+Iron Plate
+Manganese Plate
+Red Alloy Plate
+Constantan Plate
+Nichrome Plate
+Stainless Steel Plate
+Technetium Plate
+Antimony Gear
+Tungsten Gear
+Invar Gear
+Zinc Gear
+Bronze Gear
+Silver Gear
+Steel Gear
+Magnalium Gear
+Gold Gear
+Copper Gear
+Electrum Gear
+Lead Gear
+Aluminium Gear
+Platinum Gear
+Tin Gear
+Chrome Gear
+Brass Gear
+Plutonium Gear
+Refined Iron Gear
+Tungstensteel Gear
+Titanium Gear
+Nickel Gear
+Osmium Gear
+Osmiridium Gear
+Iron Gear
+Manganese Gear
+Constantan Gear
+Nichrome Gear
+Iridium Gear
+Stainless Gear
+Bismuth Gear
+Technetium Gear
+Antimony Rod
+Tungsten Rod
+Invar Rod
+Zinc Rod
+Bronze Rod
+Silver Rod
+Steel Rod
+Gold Rod
+Copper Rod
+Electrum Rod
+Constantan Rod
+Lead Rod
+Aluminium Rod
+Graphite Rod
+Platinum Rod
+Tin Rod
+Chrome Rod
+Brass Rod
+Tungstensteel Rod
+Titanium Rod
+Iridium Rod
+Nickel Rod
+Osmium Rod
+Osmiridium Rod
+Iron Rod
+Nichrome Rod
+Refined Iron Rod
+Germanium Rod
+Tantalum Rod
+Stainless Steel Rod
+Bismuth Rod
+Cobalt Rod
+Red Alloy Rod
+Magnalium Rod
+Neodymium Rod
+Technetium Rod
+Bronze Machine Hull
+Refined Iron Machine Hull
+Steel Machine Hull
+Aluminium Machine Hull
+Brass Machine Hull
+Titanium Machine Hull
+Tungstensteel Machine Hull
+Stainless Machine Hull
+Bronze Turbine Blade
+Steel Turbine Blade
+Magnalium Turbine Blade
+Tungstensteel Turbine Blade
+Carbon Turbine Blade
+Osmium Turbine Blade
+Osmiridium Turbine Blade
+Broken Bronze Turbine Rotor
+Broken Steel Turbine Rotor
+Broken Magnalium Turbine Rotor
+Broken Tungstensteel Turbine Rotor
+Broken Carbon Turbine Rotor
+Broken Osmium Turbine Rotor
+Broken Osmiridium Turbine Rotor

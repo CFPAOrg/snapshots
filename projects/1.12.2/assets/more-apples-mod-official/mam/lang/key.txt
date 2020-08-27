@@ -1,0 +1,11 @@
+item.diamond_apple.name
+item.emerald_apple.name
+item.poison_apple.name
+item.wither_apple.name
+item.invisible_apple.name
+item.fire_apple.name
+item.speed_apple.name
+item.water_apple.name
+item.iron_apple.name
+item.stone_apple.name
+item.leaping_apple.name

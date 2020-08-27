@@ -1,0 +1,54 @@
+Tartarite Pickaxe
+Tartarite Shovel
+Tartarite Sword
+Vulcanite Axe
+Vulcanite Hoe
+Vulcanite Pickaxe
+Vulcanite Shovel
+Vulcanite Sword
+Vyroxeres Axe
+Vyroxeres Hoe
+Vyroxeres Pickaxe
+Vyroxeres Shovel
+Vyroxeres Sword
+§4Full Armor Set: Consumes experience to gain hunger points
+§dFull Armor Set: Strenght II
+§eFull Armor Set: (WIP) Luck (WIP)
+§fFull Armor Set: Jump Boost
+§eFull Armor Set: (WIP) Haste (WIP)
+§aFull Armor Set: Resistance II - Half Armor Set: Resistance I
+§3Full Armor Set: Slows Attackers
+§3Full Armor Set: Fast Diving
+§5Full Armor Set: Endermen won't notice you
+§dFull Armor Set: Strenght
+§2Full Armor Set: Weight controlled flight (UP and DOWN arrow keys)
+§6Knockback resistance II
+§bFull Armor Set: Makes entities glow
+§9Knockback resistance I
+§bNight Vision
+§2Full Armor Set: Poison Immunity
+§bFull Armor Set: Faster Action
+§8Full Armor Set: No Blindness
+§8Full Armor Set: Tougher when in the dark
+§cFull Armor Set: Fire Immunity
+§7Obtained as a secondary drop from Tar Ore
+§4Gauntlet effect has been force-disabled because Better With Mods is loaded
+§6Artificial bone meal effect :D
+§7Denies mob spawning in an area of 16x8x16 blocks around it (gives a faint light)
+§cActs as a fuel with the same strength of coal (works best in metallurgy machines 200% efficiency!) [check JEI for more information]
+§4Warning: this will clear all the active materials in the ore detector
+§cHas the chance of smelting the block drops
+$1Lightweight underwater mining!
+§6Randomly Drops a nugget or two of the ore you're mining
+§cHas the chance of smelting the block drops
+§aYour kills make you feel Strong & Quick
+§3Slows the target
+§3Increase attack speed in water
+§5Inflicts some random negative effect to the target
+§cFire Aspect I
+§dHas the chance to regenerate your life
+§6Duplication
+§bMakes the target glow
+§2Your kills make you feel Strong
+§4Life Steal
+§8Blinds the target [Wraps your enemy into shadow!]

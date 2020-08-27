@@ -1,0 +1,13 @@
+item.item.name
+tile.fossilore.name
+item.fossiltools4.name
+item.fossilarmorboots.name
+item.fossilarmorbody.name
+item.fossiltools2.name
+item.fossiltool5.name
+tile.fossilblock.name
+item.fossiltools.name
+item.fossilarmorlegs.name
+item.fossil.name
+item.fossiltools3.name
+item.fossilarmorhelmet.name

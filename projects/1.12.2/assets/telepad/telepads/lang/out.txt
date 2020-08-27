@@ -1,0 +1,17 @@
+This Telepad block was removed.
+Forget
+Teleport Anyway
+Press Enter To Confirm
+Name Your Telepad 
+The power of the Ender Dragon is jamming your Telepad !
+Turquoise
+Fuchsia Pink
+This Telepad was powered off
+Your experience is too low to pay the teleport penalty
+Toggler
+Transmitter
+Telepad
+Ender Bead
+Ender Bead Necklace
+Location Cycler
+Public-O-Matic

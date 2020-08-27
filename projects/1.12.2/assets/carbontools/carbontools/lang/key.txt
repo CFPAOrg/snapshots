@@ -1,0 +1,12 @@
+item.ingot_carbon.name
+item.carbon_sword.name
+item.carbon_pickaxe.name
+item.carbon_shovel.name
+item.carbon_axe.name
+item.carbon_hoe.name
+item.carbon_helm.name
+item.carbon_chestplate.name
+item.carbon_leggins.name
+item.carbon_boots.name
+tile.ore_carbon.name
+tile.carbon_block.name

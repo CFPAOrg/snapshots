@@ -1,0 +1,6 @@
+Marblestone Carved Brick
+Tin Ore
+Block of Tin
+Block of Bronze
+Block of Invar
+Block of Solder

@@ -1,0 +1,40 @@
+AllowFlyingStick
+fly <player> <allow | noallow | nogravity | gravity | setflyspeed | setwalkspeed | allowedit | disabledamage | isflying | getflyspeed | getwalkspeed > <[value] if choose "setflyspeed" or "setwalkspeed" but must be decimals! default flight speed is 0.05, and default walk speed is 0.1 or ["true" or "false"] if choose "allowedit" or "disabledamage" or "isflying">
+You can now fly.
+%s can now fly.
+You can not now fly.
+%s can not now fly.
+You are now weightless.
+%s are now weightless.
+You are not now weightless.
+%s are not now weightless.
+Set your flight speed to "%s".
+Set %s's flight speed to "%s".
+This command can not use in server.
+Invalid flight speed, flight speed must be decimals.
+This command can not use in server.
+Invalid walk speed, walk speed must be decimals.
+Set your walk speed to "%s".
+Set %s's walk speed to "%s".
+You are allowed to modify the surroundings.
+%s is allowed to modify the surroundings.
+You are not allowed to modify the surroundings.
+%s is not allowed to modify the surroundings.
+Please specify "true" or "false".
+Please specify "true" or "false".
+Disabled you damage.
+Disabled %s damage.
+Enabled you damage.
+Enabled %s damage.
+Please specify "true" or "false".
+Please specify "true" or "false".
+You are now flying.
+%s is now flying.
+You are not now flying.
+%s is not now flying.
+Please specify "true" or "false".
+Please specify "true" or "false".
+Your flight speed is "%s".
+%s's flight speed is "%s".
+Your walk speed is "%s".
+%s's walk speed is "%s".

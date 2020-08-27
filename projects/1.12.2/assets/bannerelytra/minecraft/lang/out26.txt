@@ -1,0 +1,122 @@
+Yellow Pale
+Light Blue Pale
+Magenta Pale
+Orange Pale
+White Pale
+Black Fess
+Red Fess
+Green Fess
+Brown Fess
+Blue Fess
+Purple Fess
+Cyan Fess
+Light Gray Fess
+Gray Fess
+Pink Fess
+Lime Fess
+Yellow Fess
+Light Blue Fess
+Magenta Fess
+Orange Fess
+White Fess
+Black Bend
+Red Bend
+Green Bend
+Brown Bend
+Blue Bend
+Purple Bend
+Cyan Bend
+Light Gray Bend
+Gray Bend
+Pink Bend
+Lime Bend
+Yellow Bend
+Light Blue Bend
+Magenta Bend
+Orange Bend
+White Bend
+Black Bend Sinister
+Red Bend Sinister
+Green Bend Sinister
+Brown Bend Sinister
+Blue Bend Sinister
+Purple Bend Sinister
+Cyan Bend Sinister
+Light Gray Bend Sinister
+Gray Bend Sinister
+Pink Bend Sinister
+Lime Bend Sinister
+Yellow Bend Sinister
+Light Blue Bend Sinister
+Magenta Bend Sinister
+Orange Bend Sinister
+White Bend Sinister
+Black Paly
+Red Paly
+Green Paly
+Brown Paly
+Blue Paly
+Purple Paly
+Cyan Paly
+Light Gray Paly
+Gray Paly
+Pink Paly
+Lime Paly
+Yellow Paly
+Light Blue Paly
+Magenta Paly
+Orange Paly
+White Paly
+Black Saltire
+Red Saltire
+Green Saltire
+Brown Saltire
+Blue Saltire
+Purple Saltire
+Cyan Saltire
+Light Gray Saltire
+Gray Saltire
+Pink Saltire
+Lime Saltire
+Yellow Saltire
+Light Blue Saltire
+Magenta Saltire
+Orange Saltire
+White Saltire
+Black Chevron
+Red Chevron
+Green Chevron
+Brown Chevron
+Blue Chevron
+Purple Chevron
+Cyan Chevron
+Light Gray Chevron
+Gray Chevron
+Pink Chevron
+Lime Chevron
+Yellow Chevron
+Light Blue Chevron
+Magenta Chevron
+Orange Chevron
+White Chevron
+Black Inverted Chevron
+Red Inverted Chevron
+Green Inverted Chevron
+Brown Inverted Chevron
+Blue Inverted Chevron
+Purple Inverted Chevron
+Cyan Inverted Chevron
+Light Gray Inverted Chevron
+Gray Inverted Chevron
+Pink Inverted Chevron
+Lime Inverted Chevron
+Yellow Inverted Chevron
+Light Blue Inverted Chevron
+Magenta Inverted Chevron
+Orange Inverted Chevron
+White Inverted Chevron
+Black Base Indented
+Red Base Indented
+Green Base Indented
+Brown Base Indented
+Blue Base Indented

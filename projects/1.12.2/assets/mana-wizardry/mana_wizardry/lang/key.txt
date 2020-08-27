@@ -1,0 +1,4 @@
+item.wand_flowers.name
+item.wand_livingwood.name
+item.wand_dreamwood.name
+item.wand_terra.name

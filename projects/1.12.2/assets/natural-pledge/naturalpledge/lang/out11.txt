@@ -1,0 +1,20 @@
+Life before death
+Traveller's Waystone
+GPS
+&3Heimdall&0, being a god of travellers, provides tools to his devotees to make travels easier. One of these useful tools is the &1Traveller's Waystone&0. It can be bound to a point or named &otrack:&0 and a player's name to track that player, and will give you an indication of what direction to go as long as you're holding it, allowing for easy travels home or to a friend.
+Remember those who have been forgotten
+By combining the stone with the essence of death, you can make a version which targets past lives instead of the present. When you die, you'll reincarnate holding any &1Stones of Return&0 you had on you. These will point your way to the place you died. If you shift-click the stone in the air, it will clear its destination.
+Listen to those who have been ignored
+Frozen Stars
+An ender light source
+The &1Frozen Star&0 is the light and form of the stars, trapped upon earth, and given form through &4Iridescence&0. They are relatively cheap light sources, and give off light with the same strength as &1Glowstone&0. They can be made in any of the colors of &4Iridescence&0.
+Find Polaris to find your way
+Iridescent Shards
+Mana-powered dye
+The &1Iridescent Shard&0 is a refined form of the crystals produced by the &1Iridescent Tones&0. It can output its dye for as long as it has mana, and can be recharged in a pool.
+Double rainbows
+Rod of the Prismatic Lake
+Rainbow lights
+One particularly frustrating property of the &1Mana Lens: Flash&0 is its tendency to lock the color of a &1Mana Flash&0 immediately upon making it. Even if you want to make a rainbow &1Flash&0, you'll get one color. By using the power of the &1Rod of the Prismatic Lake&0, you can make that rainbow. It can be tinged with &1Phantom Ink&0, and dyed with any &4Iridescent&0 dye like leather armor.
+All the colors of the wind
+Iridescent Dirt

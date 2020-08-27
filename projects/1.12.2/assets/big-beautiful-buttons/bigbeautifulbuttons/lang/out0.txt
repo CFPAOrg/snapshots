@@ -1,0 +1,82 @@
+English
+United States
+en_us
+Big Buttons!
+Big Acacia Button
+Big Wooden Button
+Big Birch Button
+Big Dark Oak Button
+Big End Stone Button
+Big Jungle Button
+Big Spruce Button
+Big Stone Andesite Button
+Big Stone Diorite Button
+Big Stone Granite Button
+Big Stone Andesite Smooth Button
+Big Stone Diorite Smooth Button
+Big Stone Granite Smooth Button
+Big Bricks Button
+Big Chiseled Red Sandstone Button
+Big Chiseled Sandstone Button
+Big Coarse Dirt Button
+Big Dirt Button
+Big End Stone Bricks Button
+Big Gravel Button
+Big Nether Bricks Button
+Big Obsidian Button
+Big Prismarine Bricks Button
+Big Red Nether Bricks Button
+Big Red Sand Button
+Big Red Sandstone Button
+Big Sand Button
+Big Sandstone Button
+Big Smooth Red Sandstone Button
+Big Smooth Sandstone Button
+Big Soul Sand Button
+Big Prismarine Button
+Big Dark Prismarine Button
+Big Stone Bricks Button
+Big Mossy Stone Bricks Button
+Big Cracked Stone Bricks Button
+Big Chiseled Stone Bricks Button
+Big Oak Log Button
+Big Spruce Log Button
+Big Birch Log Button
+Big Jungle Log Button
+Big Acacia Log Button
+Big Dark Oak Log Button
+Big Brown Mushroom Block Button
+Big Red Mushroom Block Button
+Big Cobblestone Button
+Big Gold Ore Button
+Big Iron Ore Button
+Big Lapis Ore Button
+Big Lapis Block Button
+Big Gold Block Button
+Big Iron Block Button
+Big Bookshelf Button
+Big Mossy Cobblestone Button
+Big Diamond Ore Button
+Big Diamond Block Button
+Big Redstone Ore Button
+Big Ice Button
+Big Snow Button
+Big Clay Button
+Big Pumpkin Button
+Big Netherrack Button
+Big Glowstone Button
+Big Melon Block Button
+Big Mycelium Button
+Big Emerald Ore Button
+Big Emerald Block Button
+Big Quartz Ore Button
+Big Sea Lantern Button
+Big Hay Block Button
+Big Hardened Clay Button
+Big Packed Ice Button
+Big Purpur Block Button
+Big Purpur Pillar Button
+Big Magma Button
+Big Nether Wart Block Button
+Big Bone Block Button
+Big Slime Button

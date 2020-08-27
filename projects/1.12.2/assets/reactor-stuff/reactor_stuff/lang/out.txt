@@ -1,0 +1,16 @@
+Terminium Hoe
+Blazonium Pickaxe
+Blazonium Shovel
+Blazonium Axe
+Blazonium Sword
+Blazonium Hoe
+Uranium Ore
+Thorium Ore
+Elerium Ore
+Terminium Ore
+Blazonium Ore
+Radioisotope Thermoelectric Generator (Empty)
+Radioisotope Thermoelectric Generator (Plutonium)
+Radioisotope Thermoelectric Generator (Americium)
+Radioisotope Thermoelectric Generator (Lawrencium)
+Radioisotope Thermoelectric Generator (Californium)

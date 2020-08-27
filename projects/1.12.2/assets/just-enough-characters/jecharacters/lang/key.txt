@@ -1,0 +1,6 @@
+chat.start
+chat.saved
+chat.save_error
+chat.taiwan
+command.desc
+command.unknown

@@ -1,0 +1,81 @@
+Gadgetry: Machines
+Iron Dust
+Gold Dust
+Redmetal Dust
+Steel Dust
+Coal Dust
+Sulfur
+Biomass
+Analog Circuit
+Block Info
+Strict Block Info
+Oil Prospector
+Furnace Generator
+Energy Cell
+Fluid Tank
+Powered Furnace
+Grinder
+Solar Panel
+Fluid Pump
+Powered Alloyer
+Assembly Press
+Block Breaker
+Block Placer
+Block Activator
+Fluid Intake
+Fluid Placer
+Super Breaker
+Super Placer
+Super Activator
+Distiller
+Distillation Column
+Sprinkler
+Ranged Collector
+Oil Well
+Combustion Generator
+Drill
+Ethanol
+Crude Oil
+Refined Fuel
+Describes block: %1$s
+Block meta: %1$s
+Oil Density: 
+battery
+battery
+tank
+battery
+inventory
+battery
+inventory
+battery
+inventory
+battery
+tank
+battery
+inventory
+battery
+inventory
+inventory
+inventory
+inventory
+tank
+tank
+battery
+inventory
+battery
+inventory
+battery
+inventory
+battery
+tank
+inventory
+tank
+battery
+battery
+tank
+battery
+tank
+inventory
+Grinding Recipe
+Combustion Values
+Distilling Recipe

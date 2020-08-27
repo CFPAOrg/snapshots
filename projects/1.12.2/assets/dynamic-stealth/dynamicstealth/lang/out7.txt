@@ -1,0 +1,26 @@
+Damage Increases Flee Duration
+FILLSCREEN FIXNEWLINES If set to true, then when an entity is *already* in flee mode, damage will increase its flee duration\n \n
+CNPCs flee To Home Position
+FILLSCREEN FIXNEWLINES If enabled, Custom NPCs flee to their home position instead of away from what hit them\n \n
+CNPCs Reset in Water
+FILLSCREEN FIXNEWLINES If enabled, Custom NPCs reset when they touch water\n \n
+Combat Time
+FILLSCREEN FIXNEWLINES Deciding we can't reach the target requires at least this many ticks in combat\n \n
+No Attack Time
+FILLSCREEN FIXNEWLINES Deciding we can't reach the target requires at least this many ticks since the last successful attack\n \n
+No Path Time
+FILLSCREEN FIXNEWLINES Deciding we can't reach the target requires at least this many ticks without a path to the target\n \n
+Target Time
+FILLSCREEN FIXNEWLINES Deciding we can't reach the target requires at least this many ticks with a valid target\n \n
+Flee If Unreachable
+FILLSCREEN FIXNEWLINES If we can't reach the target, do what brave Sir Robin does\n \n
+Potion Filter
+FILLSCREEN FIXNEWLINES An entity will not go into "can't reach" mode if it has one of these potion effects\n\nThis prevents 'can't reach' mode if the entity has slowness level 99:\nslowness.99"\n\nThis prevents 'can't reach' mode if the entity has any level of levitation:\nlevitation.*\n \n
+Targeting allowances
+OPHUD allowances
+Recognize Passives Automatically
+FILLSCREEN FIXNEWLINES If enabled, clients' threat HUDs will display green for passive mobs.  If disabled, passives appear as non-passives (blue).\n \n
+Allow Stealth Gauge
+FILLSCREEN FIXNEWLINES If enabled, clients can see their current stealth level in their HUD\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Stealth Gauge Blacklist
+FILLSCREEN FIXNEWLINES Entities in this list will not trigger the stealth gauge!\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n

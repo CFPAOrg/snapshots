@@ -1,0 +1,17 @@
+§6Orange ☑☑☑☐
+§6Orange ☑☑☑☑
+§eYellow ☐☐☐☐
+§eYellow ☑☐☐☐
+§eYellow ☑☑☐☐
+§eYellow ☑☑☑☐
+§eYellow ☑☑☑☑
+White ☐☐☐☐
+White ☑☐☐☐
+White ☑☑☐☐
+White ☑☑☑☐
+White ☑☑☑☑
+Brilliant White ☐☐☐☐
+Brilliant White ☑☐☐☐
+Brilliant White ☑☑☐☐
+Brilliant White ☑☑☑☐
+Brilliant White ☑☑☑☑

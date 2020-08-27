@@ -1,0 +1,53 @@
+/timetfc <add|query|set> [args...]
+Expected <add|query|set> after /timetfc
+Expected [daytime|day|gametime|playerticks|calendarticks] after /timetfc query
+Expected [<ticks>|day|night|monthlength <value>] after /timetfc set
+Expected [days|months|years] <value> after /timetfc add
+Set Month Length to %d days.
+Time set to the next daylight
+Time set to the next nighttime
+Day time set to %d
+Added %d days to time (%d ticks)
+Added %d months to time (%d ticks)
+Added %d years to time (%d ticks)
+Added %d ticks to time
+Calendar ticks is %d
+Player ticks is %d
+Game time is %d ticks
+Current day is %d
+Current day time is %d
+Set Player Time to %d.
+Set Calendar Time to %s.
+This command has been disabled by TFC. Use /timetfc instead!
+/playertfc <get|set|add|reset> [nutrition|food|saturation|water|skill <name>] [value]
+Expected <get|set|add|reset> after /playertfc
+Expected [nutrition|food|saturation|water|skill <name>] after /playertfc %s
+Expected <name> after /playertfc %s
+Expected [value] after /playertfc %s
+Can't set / add nutrients directly as it's based on food history. Run /playertfc reset nutrients instead.
+Unknown skill: %s
+Must be used by a player
+Reset nutrients
+Average Nutrition: %s
+ - %s: %s
+Last Eaten: %d Hunger, %s Saturation, %s Decay Modifier.
+ - %s: %s
+Added %.2f to skill %s
+Set %s to %.2f
+Hunger: %d
+Set hunger to %d
+Saturation: %.2f
+Set saturation to %.2f
+Water: %.1f%%
+Set water to %.1f%%
+/findveins [all|<vein name>] <radius> [dump|rate]
+Can only be used by a player.
+No Vein found with name %s
+Dumping all veins in specified radius, this is gonna take a while...
+Dumping vein rates in specified radius, this is gonna take a while...
+Failed to load dimension %d
+Chunks Remaining: %d / %d
+Found vein %s at %s
+File saved at %s
+Error while trying to write dump file: %s
+/tfcdebuginfodump - write a lot of debug info to the log... like, A LOT. Don't use unless a dev asks you to.

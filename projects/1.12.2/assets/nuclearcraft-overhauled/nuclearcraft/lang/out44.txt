@@ -1,0 +1,22 @@
+Structure Background Radiation
+List of structures and their background radiation levels. These values stack with the underlying world or biome's background radiation. Format: 'structureName_radiationLevel'.
+World Radiation Limit
+List of dimensions and their radiation level limits. Format: 'dimID_radiationLimit'.
+Biome Radiation Limit
+List of biomes and their radiation level limits. These values stack with the underlying world's background radiation. Format: 'modid:biomeName_radiationLimit'.
+Biome Radiation Dimension Blacklist
+List of IDs of dimensions to blacklist for biome background radiation.
+Ore Stack Radiation
+List of ore dict entries and their stack radiation levels. Can be used to overwrite default values. Can use Unix-style wildcards for the ore name. Format: 'oreName_radiationLevel'.
+Item Stack Radiation
+List of items and their stack radiation levels. Can be used to overwrite default values. Format: 'modid:name:meta_radiationLevel'.
+Block Stack Radiation
+List of blocks and their radiation levels. Can be used to overwrite default values. Format: 'modid:name:meta_radiationLevel'.
+Fluid Stack Radiation
+List of fluids and their radiation levels. Can be used to overwrite default values. If the fluid has a corresponding block, then it will also be given a radiation level. Format: 'fluidName_radiationLevel'.
+Food Radiation and Resistance
+List of foods and the rads and rad resistance gained on consumption. Negative values mean rads and rad resistance will be lost. Can be used to overwrite default values. Format: 'modid:name:meta_radiationLevel_radiationResistance'.
+Ore Stack Radiation Blacklist
+List of ore dict entries that will be forced not have a radiation level. Can use Unix-style wildcards for the ore name. Format: 'oreName'.
+Item Stack Radiation Blacklist
+List of items that will be forced not have a radiation level. Format: 'modid:name:meta'.

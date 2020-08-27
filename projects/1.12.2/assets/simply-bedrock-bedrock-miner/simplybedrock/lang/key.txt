@@ -1,0 +1,3 @@
+item.simplybedrock:bedrock_dust.name
+item.simplybedrock:orb_of_infinity.name
+tile.simplybedrock:bedrock_miner.name

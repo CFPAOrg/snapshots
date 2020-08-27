@@ -1,0 +1,19 @@
+Buy video games.
+Manage and play your video games.
+[bold]YOU[/bold] picked out [aqua]a [special]${fruit}[/special][/aqua] from the store. And you [italic]ATE IT[/italic]...
+A test to see if the new ChatSender works.
+A test to make sure that tree commands work.
+The constant is: ${const}. Yay!
+[gc-format]`7`lGore Core`r Your version is up to date with the latest version.
+[gc-format]`7`lGore Core`r Your version, `6|1_current_version|`r, is out of date with the latest version, `6|2_latest_version|`r.
+[gc-format]`2`l|2_multicommand_name| help >`r `6`l -- `rDisplaying help for `9`l/|2_multicommand_name| `6--
+[gc-format]`2`l|2_multicommand_name| help >`r This command is a `9multicommand`r. Multicommands are one command, but have many subcommands. Try using `9/|2_multicommand_name| |14_subcommand_list|`r to display help for the specified subcommand.
+[gc-format]`2`l|2_multicommand_name| help >`r `9[`rSquare brackets`9]`r mean an argument is optional, and `9<`rangled brackets`9>`r mean that an argument is required.
+[gc-format]`2`l|2_multicommand_name| help >`r `6`l -- `rDisplaying help for `9`l/|2_multicommand_name| |9_tsc_name| `6--
+[gc-format]`2`l|2_multicommand_name| help >`r Description for `9|9_tsc_name|`r: `9|10_tsc_desc|`r
+[gc-format]`2`l|2_multicommand_name| help >`r Usage of `9/|2_multicommand_name| |9_tsc_name|`r: `9|11_tsc_usage|`r
+[gc-format]`2`l|2_multicommand_name| help >`r Listing `9|3_amount_of_subcommands| `rsubcommands for `9|2_multicommand_name|`r:
+[gc-format]`2`l|2_multicommand_name| help >`r - /|2_multicommand_name| `9|9_tsc_name| |13_tsc_aliasNames| |11_tsc_usage|
+[gc-format]`2`l|2_multicommand_name| >`r The subcommand `9|9_tsc_name|`r does not exist. Try using `9/|2_multicommand_name| help`r to display help.
+[gc-format]`2`l|2_multicommand_name| >`r Only `9operators`r can use `9/|2_multicommand_name| |9_tsc_name|`r.
+[gc-format]`2`l|2_multicommand_name| >`r Only `9players`r can use this `9/|2_multicommand_name| |9_tsc_name|`r.

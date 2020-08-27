@@ -1,0 +1,88 @@
+/irc mode <channel> <flags>
+Mode %s for channel %s
+/irc topic <channel> <topic>
+Topic for channel %s set to "%s"
+DevotionIRC is connected to:
+/[serv]irc config (global|<server>|<channel>) <key> [value] OR /[serv]irc config reload
+To prevent abuse, this setting can only be changed in the config file.
+[%s] Setting config option '%s' to '%s'
+[%s] Config option '%s' is set to '%s'
+[%s] Invalid config option '%s'. Use TAB to loop through valid options.
+This config option requires a restart to take effect.
+Invalid display mode '%s'
+Reloading config from file...
+Options
+Chatting to: %s
+Shift+%s to switch channel.
+Yes
+No
+None
+Save
+Back
+Delete
+DevotionIRC Config
+Theme (%s)
+Bot Settings (%s)
+Other Settings (%s)
+Servers
+Twitch
+Screenshots
+DevotionIRC Channels
+Help
+Settings
+Loading...
+View Fullscreen
+Open in Browser
+URL to Clipboard
+Click anywhere to go back.
+Search...
+Open Folder
+Favorite
+Upload
+Re-Upload
+To Clipboard
+View Fullscreen
+Do you really want to delete this screenshot?
+This can't be undone, so be careful!
+Uploading...
+All
+Favorited
+Today
+This Week
+This Month
+This Year
+Older
+Override Settings
+Configure Theme...
+Configure Bot...
+Other Settings...
+<new>
+Address
+Nick
+Nickserv Username
+Nickserv Password
+Server Password
+Use SSL
+Auto Connect
+Charset
+Connect
+Connecting...
+Disconnect
+Disconnect...
+Channels
+Advanced
+Do you really want to delete this server configuration?
+This can't be undone, so be careful!
+Channel Name
+Channel Password
+Auto Join
+Do you really want to delete this channel configuration?
+This can't be undone, so be careful!
+You have joined more than one channel.
+Do you want to switch to a message format that includes the channel name?
+Welcome to DevotionIRC!
+If you just want to find some people to talk to,\nthis a list of IRC channels you should check out:
+Show recommended channels only
+Don't show this message again
+Suggest Channel
+recommended

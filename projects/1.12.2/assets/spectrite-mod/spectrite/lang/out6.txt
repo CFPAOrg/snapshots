@@ -1,0 +1,51 @@
+§9 Spectrite Resistance II@
+§9 Spectrite Resistance II
+§9 Blast Protection V@
+Spectrite Lingering Potion
+Lingering Potion of Spectrite Damage
+Lingering Potion of Spectrite Damage
+Lingering Potion of Spectrite Damage
+Lingering Potion of Spectrite Damage
+Lingering Potion of Spectrite Damage
+Lingering Potion of Spectrite Resistance
+Lingering Potion of Spectrite Resistance
+Lingering Potion of Spectrite Resistance
+Lingering Potion of Spectrite Power
+Lingering Potion of Spectrite Power
+Lingering Potion of Spectrite Power
+Spectrite Potion
+Potion of Spectrite Damage
+Potion of Spectrite Damage
+Potion of Spectrite Damage
+Potion of Spectrite Damage
+Potion of Spectrite Damage
+Potion of Spectrite Resistance
+Potion of Spectrite Resistance
+Potion of Spectrite Resistance
+Potion of Spectrite Power
+Potion of Spectrite Power
+Potion of Spectrite Power
+IV
+V
+Spectrite Chest
+Spectrite Skull structures will have a Spectrite Chest instead of a regular chest
+[{"text":"["},{"text":"Download","color":"green","clickEvent":{"action":"open_url","value":"%s"}},{"text":"]","color":"none"}]
+[{"text":"%s","color":"none"},{"text":" was unable to check for updates.","color":"red"}]
+Spectrite
+[{"text":"A new version of "},{"text":"%s","color":"dark_green"},{"text":" is available for {MCVERSION}!","color":"none"}]
+[{"text":"Current Version: "},{"text":"%s","color":"gray"},{"text":", Newest Version: ","color":"none"},{"text":"%s","color":"green"}]
+Spectrite Splash Potion
+Splash Potion of Spectrite Damage
+Splash Potion of Spectrite Damage
+Splash Potion of Spectrite Damage
+Splash Potion of Spectrite Damage
+Splash Potion of Spectrite Damage
+Splash Potion of Spectrite Resistance
+Splash Potion of Spectrite Resistance
+Splash Potion of Spectrite Resistance
+Splash Potion of Spectrite Power
+Splash Potion of Spectrite Power
+Splash Potion of Spectrite Power
+Spectrite Creeper charge
+Large explosion
+Massive Spectrite damage

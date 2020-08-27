@@ -1,0 +1,41 @@
+This adds an invisible character to player names sent to IRC to prevent pinging those users of the same name on IRC. Thanks to Simon Meskens!
+Twitch Name Colors
+If enabled, DevotionIRC will attempt to map Twitch colors to Minecraft colors for nicks.
+Anti-Flood Time
+The time in milliseconds to wait in between bigger bunches of messages to prevent Excess Flood issues.
+IRC Command Prefix
+The prefix to be used for running commands in an IRC channel.
+Show Image Link Preview
+If set to true, clicking an image link in the chat will open a preview screen inside Minecraft.
+Persistent Connection
+If set to true, the IRC connection will remain open after leaving a world or server (until Minecraft closes).
+Upload Hoster
+The name of the hoster to upload screenshots to. Valid values are: imgur, DirectUpload
+Buffer Size
+[Advanced] Why would you even touch this option?
+Share Screenshot
+Key code to take a screenshot and share it in the current channel.
+Open Screenshot Archives
+Key code to open the screenshot archive.
+Toggle Chat Target
+Key code to switch between the current chat channel.
+Open DevotionIRC Menu
+Key code to open the DevotionIRC menu.
+Notification Sound
+Name of a sound known to Minecraft to play on notifications.
+Notification Volume
+Volume for the sound to play on notifications.
+Friend Joined
+0: none, 1: text, 2: sound, 3: text and sound
+Name Mentioned
+0: none, 1: text, 2: sound, 3: text and sound
+User Recording
+0: none, 1: text, 2: sound, 3: text and sound
+Private Message
+0: none, 1: text, 2: sound, 3: text and sound
+Enable Client Bridge
+[Experimental] If set to true, DevotionIRC will act like on a server and send chat messages to both Minecraft and IRC. May cause duplicate messages on servers with custom IRC nicks set up.
+Disable Chat Toggle
+Disables the chat toggle at the top left.
+No Chat Override
+[Advanced] Makes DevotionIRC not apply any changes to the Minecraft Chat GUI at all. Only use with DevotionIRC compatible chat-overriding mods!

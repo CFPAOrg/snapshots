@@ -1,0 +1,9 @@
+You have been invited to join the Municipality Council of %s!
+&7&oInvite sent! (Will be valid for 5 days.)
+Kick &b%s
+from the council?
+You have been kicked from the Municipality Council of %s!
+Invite &a%s
+to join the council?
+You have been invited become a State Countil Member of %s!
+&7&oInvite sent! (Will be valid for 5 days.)

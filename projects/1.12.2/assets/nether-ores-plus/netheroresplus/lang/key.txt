@@ -1,0 +1,14 @@
+tile.nethercoalore.name
+tile.netherdiamondore.name
+item.netheredgoldingot.name
+item.netheredironingot.name
+item.netheredemerald.name
+tile.netherredstoneore.name
+tile.netherlapislazuliore.name
+item.netheredlapislazuli.name
+item.netheredredstone.name
+item.netheredcoal.name
+tile.netherironore.name
+tile.netheremeraldore.name
+item.nethereddiamond.name
+tile.nethergoldore.name

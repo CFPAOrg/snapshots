@@ -1,0 +1,13 @@
+item.tapuchipssticks.name
+item.grilltapuchips.name
+item.ketchuptapuchips.name
+item.chipssticks.name
+item.potatochips.name
+item.tomato.name
+item.mexicantapuchips.name
+itemGroup.tabtapuchipsmod
+item.potatocrop.name
+item.tapuchips.name
+item.sourcreamtapuchips.name
+item.infinitychips.name
+item.sourcream.name

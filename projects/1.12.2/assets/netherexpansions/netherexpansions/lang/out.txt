@@ -1,0 +1,10 @@
+Permafrost Ore
+Permafrost Helmet
+Permafrost Pickaxe
+Permafrost Axe
+Permafrost Leggings
+Permafrost Sword
+Permafrost Chestplate
+Permafrost Boots
+Permafrost Gem
+Frozen Igniter

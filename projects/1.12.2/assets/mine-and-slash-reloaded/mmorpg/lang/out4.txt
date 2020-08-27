@@ -1,0 +1,96 @@
+Energy
+Mana
+Health
+Energy Regen
+Mana Regen
+Health Regen
+Life On Hit
+Mana On Hit
+Lifesteal
+Earth Atronach
+Frost Atronach
+Thunder Atronach
+Fire Atronach
+Barbarian
+Clumsy Scholar
+Crippled
+Diseased
+Lord of Thunderstorms
+Lord of Earthquakes
+Lord of Blizzards
+Lord of Volcanoes
+Armor on High Crit
+Lifesteal on High Crit
+Crit Damage on High Dodge
+Phys Damage on High Dodge
+Dodge on Low Crit
+Health on Low Crit
+Armor On Low Dodge
+Crit On Low Dodge
+Armored
+Elemental
+Golem
+Lucky
+Stealthy
+All Fire Damage
+All Nature Damage
+All Water Damage
+All Thunder Damage
+Attack Fire Damage
+Attack Nature Damage
+Attack Water Damage
+Attack Thunder Damage
+Fire Penetration
+Water Penetration
+Thunder Penetration
+Nature Penetration
+Fire Resist
+Water Resist
+Thunder Resist
+Nature Resist
+Spell Fire Damage
+Spell Water Damage
+Spell Nature Damage
+Spell Thunder Damage
+Thunder Spell to Attack DMG
+Water Spell to Attack DMG
+Fire Spell to Attack DMG
+Nature Spell to Attack DMG
+Fire to Water Conversion
+Fire to Thunder Conversion
+Fire to Nature Conversion
+Water to Fire Conversion
+Water to Thunder Conversion
+Water to Nature Conversion
+Thunder to Fire Conversion
+Thunder to Water Conversion
+Thunder to Nature Conversion
+Nature to Water Conversion
+Nature to Thunder Conversion
+Nature to Fire Conversion
+Fire to Water Transfer
+Fire to Thunder Transfer
+Fire to Nature Transfer
+Water to Fire Transfer
+Water to Thunder Transfer
+Water to Nature Transfer
+Thunder to Fire Transfer
+Thunder to Water Transfer
+Thunder to Nature Transfer
+Nature to Water Transfer
+Nature to Thunder Transfer
+Nature to Fire Transfer
+Ghost Projectile
+Homing Projectile
+Shining Light
+Zephyr's Speed
+Purity
+Energy Regen Buff
+Mana Regen Buff
+Block Strength
+Unlock your potential.
+Don't want it? Transform it!
+More power is always good, right?
+And soar to the skies.
+Do not gamble what you are not willing to lose.
+Who said your sword can't level with you?

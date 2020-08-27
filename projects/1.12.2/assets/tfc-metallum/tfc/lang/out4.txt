@@ -1,0 +1,114 @@
+Rich Wolframite
+Small Wolframite
+Cobaltite
+Poor Cobaltite
+Rich Cobaltite
+Small Cobaltite
+Thorianite
+Poor Thorianite
+Rich Thorianite
+Small Thorianite
+Chromite
+Pyrolusite
+Poor Pyrolusite
+Rich Pyrolusite
+Small Pyrolusite
+Magnesite
+Poor Magnesite
+Rich Magnesite
+Small Magnesite
+Stibnite
+Poor Stibnite
+Rich Stibnite
+Small Stibnite
+Spodumene
+Poor Spodumene
+Rich Spodumene
+Small Spodumene
+Beryl
+Poor Beryl
+Rich Beryl
+Small Beryl
+Zircon
+Poor Zircon
+Rich Zircon
+Small Zircon
+Villiaumite
+Rhodochrosite
+Fluorite
+Carobbiite
+Arsenic
+Molten Antimony
+Antimony Ingot
+Unshaped Antimony
+Antimony Double Ingot
+Double Ingot Antimony
+Antimony Scrap
+Scrap Antimony
+Antimony Dust
+Dust Antimony
+Antimony Nugget
+Nugget Antimony
+Antimony Sheet
+Sheet Antimony
+Antimony Double Sheet
+Double Sheet Antimony
+Anvil Antimony
+Antimony Tuyere
+Tuyere Antimony
+Antimony Lamp
+%s Antimony Lamp
+Lamp Antimony
+Pick Antimony
+Pick Head Antimony
+Shovel Antimony
+Shovel Head Antimony
+Axe Antimony
+Axe Head Antimony
+Hoe Antimony
+Hoe Head Antimony
+Chisel Antimony
+Chisel Head Antimony
+Sword Antimony
+Sword Blade Antimony
+Mace Antimony
+Mace Head Antimony
+Saw Antimony
+Saw Blade Antimony
+Javelin Antimony
+Javelin Head Antimony
+Hammer Antimony
+Hammer Head Antimony
+Propick Antimony
+Propick Head Antimony
+Knife Antimony
+Knife Blade Antimony
+Scythe Antimony
+Scythe Blade Antimony
+Shears Antimony
+Unfinished Chestplate Antimony
+Chestplate Antimony
+Unfinished Greaves Antimony
+Greaves Antimony
+Unfinished Boots Antimony
+Boots Antimony
+Unfinished Helmet Antimony
+Helmet Antimony
+Antimony Shield
+Molten Constantan
+Constantan Ingot
+Unshaped Constantan
+Constantan Double Ingot
+Double Ingot Constantan
+Constantan Scrap
+Scrap Constantan
+Constantan Dust
+Dust Constantan
+Constantan Nugget
+Nugget Constantan
+Constantan Sheet
+Sheet Constantan
+Constantan Double Sheet
+Double Sheet Constantan
+Anvil Constantan
+Constantan Tuyere

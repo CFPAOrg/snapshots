@@ -1,0 +1,75 @@
+Music Disc
+Aivi & Surasshu - Yellow Diamond
+Music Disc
+Aivi & Surasshu - Blue Diamond
+Music Disc
+Aivi & Surasshu - What's the Use of Feeling (Blue)?
+Music Disc
+Aivi & Surasshu - The Heaven Beetle
+Music Disc
+Aivi & Surasshu - Defective
+Music Disc
+Aivi & Surasshu - Gem Shards
+Music Disc
+Aivi & Surasshu - Heart of the Pyramid
+Music Disc
+Aivi & Surasshu - The Underwater Temple
+Aivi & Surasshu - Love Like You
+KAGIC (Gems)
+KAGIC (Corruptions)
+KAGIC (Items & Blocks)
+KAGIC (Music Discs)
+Breaking Point
+Destabilize
+Gem Drill
+Gem Seed
+Analog Injector
+Injector
+Incubator
+Drained Block
+Drained Block
+Drained Block
+Drained Gravel
+Carbonite
+Chiseled Carbonite
+Frictional Rock Melt
+Rutile Trail
+Warp Pad Core
+Galaxy Warp Pad Core
+Pink Sandstone
+Chiseled Pink Sandstone
+Smooth Pink Sandstone
+Wavy Pink Sandstone
+Pink Sandstone Stairs
+Wavy Pink Sandstone Stairs
+Pink Sandstone Slab
+Giant Strawberry
+Healing Tears
+%1$s will follow you.
+%1$s will not follow you.
+%1$s is now following %2$s.
+%1$s does not serve you.
+%1$s already serves you.
+%1$s now serves you.
+%1$s does not serve the signee.
+The %1$s's shattered mind does not understand this command!
+The %1$s's corrupted mind does not understand this command!
+Ownership of %1$s transfered to %2$s.
+Joint ownership of %1$s given to %2$s.
+%1$s has been liberated by %2$s.
+%1$s is now liberated.
+%1$s has been granted autonomy by %2$s.
+%1$s is now autonomous.
+%1$s has been enlisted into the gem war by %2$s.
+%1$s has been enlisted into the gem war.
+%1$s has been retired from the gem war by %2$s.
+%1$s has been retired from the gem war.
+You'll find lots of high quality %1$s in this location.
+You'll find %1$s here, with %2$s defectivity.
+You'll find nothing but slag here.
+Here are all the crops I've harvested.
+Sorry, I haven't harvested enough crop yet.
+Here's the haul, boss.
+Sorry boss, ain't found nothing.
+%1$s's Harvest
+%1$s's Seeds

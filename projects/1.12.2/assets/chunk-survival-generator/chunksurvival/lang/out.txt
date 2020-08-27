@@ -1,0 +1,8 @@
+Chunk Survival
+Customize Chunk Survival generation
+Size of chunk clusters
+Spacing between clusters
+Spawn lava at bottom
+Choose chunks at random
+Chunk grid
+Probability

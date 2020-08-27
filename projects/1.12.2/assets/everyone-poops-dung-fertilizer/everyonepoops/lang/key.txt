@@ -1,0 +1,4 @@
+item.poop.name
+tile.poop_layer.name
+tile.poop_block.name
+text.new_update_notification

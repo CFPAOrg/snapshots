@@ -1,0 +1,51 @@
+Golden Feather
+Dropped very rarely by feathered things killed with a Midas-cursed weapon. Keep on hotbar as fall protection.
+Golden Name Tag
+Use to rename unrepairable and X-enchanted items
+Golem Lower Arm Bone
+Dropped rarely by iron golems
+Golem Slapper
+Slaps the undead hordes senseless
+Furious Golem Slapper
+Very strong. Slaps the undead hordes senseless+10
+Infernal Golem Slapper
+Unstoppable. Slaps the undead nether hordes senseless+10
+Golem Upper Arm Bone
+Dropped rarely by iron golems
+Green Leaves
+Green Waste
+Place in dry shaded place to ripen and attract earthworms
+Skull Ooze
+Dropped occasionally from beheaded mobs
+Chunk of Hardened Clay
+Dropped from terracotta bashed with a club hammer
+Healing
+Dropped occasionally by bludgeoned mobs; can heal player if picked up. Absorbable by barren talisman as life essence
+Homing Meatball-Z
+Ick Grub
+Immature Mycelium
+Growing medium for giant pinkly mushrooms
+Impressible Bone
+Impressed Bone
+Dirty Cobblestone
+Infested Cobblestone Shell
+Infested Cobblestone
+Bewitched Oaken Rod
+Rare loot only weapon
+Instant Healing
+Dropped rarely by bludgeoned mobs; always heals player if picked up. Absorbable by barren talisman as life essence
+Mini Club Hammer
+Bam Bam Bam!
+{SUMM} Use to bash cobblestone, terracotta, and obsidian into little bitsy pieces (rocks, chunks, and flakes). Also good for playing whack-a-mob
+Ancient Iron
+Dropped occasionally from ancient netherrack ore
+Unlinked JumpTo Pearl
+Right-click in air to target to your current location
+{SUMM}. Add a quartz fragment on an anvil to make single-clickable (no need to throw)
+JumpTo Pearl
+Throw at your feet to jump to targeted location
+{SUMM}. Add a quartz fragment on an anvil to make right-click-to-jump (no need to throw)
+Nether JumpTo Pearl
+Throw at your feet to jump to targeted location in the Nether
+End JumpTo Pearl
+Throw at your feet to jump to targeted location in the End

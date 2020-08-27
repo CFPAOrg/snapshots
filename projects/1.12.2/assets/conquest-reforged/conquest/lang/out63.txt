@@ -1,0 +1,93 @@
+Ash Planks Capital Directional
+Vertical Oak Planks Capital Directional
+White Painted Planks Capital Directional
+Gray Painted Planks Capital Directional
+Carved Spruce Planks Capital Directional
+Pine Planks Capital Directional
+Stave Planks Capital Directional
+Wooden Table
+Blacksmith Tool Rack (Wall)
+Blacksmith Tool Rack
+Iron Hatchet
+none
+none
+Wall of Oak Logs Capital Directional
+Wall of Spruce Logs Capital Directional
+Chest
+none
+none
+Mossy Oak Log
+Mossy Spruce Log
+Mossy Birch Log
+Mossy Jungle Log
+Mossy Acacia Log
+Mossy Dark Oak Log
+Ornamental Log
+Small Dark Ornamental Log
+Rope Around a Log
+Chains Around a Log
+Wood Logs
+Barrel
+Wicker Basket
+BookShelf
+Wine Rack
+Shelves
+Spice Rack
+Scroll Rack
+Cupboards
+Spruce Beam
+Birch Beam
+Jungle Beam
+Acacia Beam
+Dark Oak Beam
+Beech Log
+Elven Wine Rack
+Elven Bookshelf
+Empty Elven Bookshelf
+Elven Cabinet 2
+Elven Cabinet 1 
+Elven Cabinet
+Empty Scroll Rack
+Elven Drawers 1
+Elven Drawers 2
+Oak Beam
+Wood Log Pile
+Fancy Wardrobe
+Poor Wardrobe
+Aspen Log
+Spruce Balustrade
+Well Support
+Oak Platform Balustrade
+Spruce Platform Balustrade
+Spruce Planks (Vertical) Balustrade
+Red Acacia Planks Balustrade
+Driftwood Balustrade
+Mossy Planks Balustrade
+Oak Wood Planks Balustrade
+Birch Wood Planks Balustrade
+Jungle Wood Planks Balustrade
+Acacia Wood Planks Balustrade
+Dark Oak Wood Planks Balustrade
+Dark Wood Planks Balustrade
+Plain Light Birch Planks Balustrade
+Jungle Frame Planks Balustrade
+none
+Oak Planks 1 Balustrade
+Reinforced Oak Planks Balustrade
+Nailed Oak Planks Balustrade
+Iron Spruce Planks Balustrade
+Ash Planks Balustrade
+Vertical Oak Planks Balustrade
+White Painted Planks Balustrade
+Gray Painted Planks Balustrade
+Horizontal Carved Spruce Wood Balustrade
+Pine Planks Balustrade
+Stave Planks Balustrade
+Wall of Oak Logs Balustrade
+Wall of Spruce Logs Balustrade
+None
+None
+Small Oak Log
+Small Spruce Log
+Small Birch Log
+Small Jungle Log

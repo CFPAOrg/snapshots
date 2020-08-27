@@ -1,0 +1,16 @@
+colour.white.name
+colour.orange.name
+colour.magenta.name
+colour.light_blue.name
+colour.yellow.name
+colour.lime.name
+colour.pink.name
+colour.gray.name
+colour.silver.name
+colour.cyan.name
+colour.purple.name
+colour.blue.name
+colour.brown.name
+colour.green.name
+colour.red.name
+colour.black.name

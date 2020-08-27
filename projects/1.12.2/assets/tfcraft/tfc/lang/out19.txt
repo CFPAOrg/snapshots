@@ -1,0 +1,93 @@
+Claystone Bituminous Coal
+Claystone Lignite
+Claystone Kaolinite
+Claystone Gypsum
+Claystone Satinspar
+Claystone Selenite
+Claystone Graphite
+Claystone Kimberlite
+Claystone Petrified Wood
+Claystone Sulfur
+Claystone Jet
+Claystone Microcline
+Claystone Pitchblende
+Claystone Cinnabar
+Claystone Cryolite
+Claystone Saltpeter
+Claystone Serpentine
+Claystone Sylvite
+Claystone Borax
+Claystone Olivine
+Claystone Lapis Lazuli
+Rocksalt Native Copper
+Rocksalt Native Gold
+Rocksalt Native Platinum
+Rocksalt Hematite
+Rocksalt Native Silver
+Rocksalt Cassiterite
+Rocksalt Galena
+Rocksalt Bismuthinite
+Rocksalt Garnierite
+Rocksalt Malachite
+Rocksalt Magnetite
+Rocksalt Limonite
+Rocksalt Sphalerite
+Rocksalt Tetrahedrite
+Rocksalt Bituminous Coal
+Rocksalt Lignite
+Rocksalt Kaolinite
+Rocksalt Gypsum
+Rocksalt Satinspar
+Rocksalt Selenite
+Rocksalt Graphite
+Rocksalt Kimberlite
+Rocksalt Petrified Wood
+Rocksalt Sulfur
+Rocksalt Jet
+Rocksalt Microcline
+Rocksalt Pitchblende
+Rocksalt Cinnabar
+Rocksalt Cryolite
+Rocksalt Saltpeter
+Rocksalt Serpentine
+Rocksalt Sylvite
+Rocksalt Borax
+Rocksalt Olivine
+Rocksalt Lapis Lazuli
+Limestone Native Copper
+Limestone Native Gold
+Limestone Native Platinum
+Limestone Hematite
+Limestone Native Silver
+Limestone Cassiterite
+Limestone Galena
+Limestone Bismuthinite
+Limestone Garnierite
+Limestone Malachite
+Limestone Magnetite
+Limestone Limonite
+Limestone Sphalerite
+Limestone Tetrahedrite
+Limestone Bituminous Coal
+Limestone Lignite
+Limestone Kaolinite
+Limestone Gypsum
+Limestone Satinspar
+Limestone Selenite
+Limestone Graphite
+Limestone Kimberlite
+Limestone Petrified Wood
+Limestone Sulfur
+Limestone Jet
+Limestone Microcline
+Limestone Pitchblende
+Limestone Cinnabar
+Limestone Cryolite
+Limestone Saltpeter
+Limestone Serpentine
+Limestone Sylvite
+Limestone Borax
+Limestone Olivine
+Limestone Lapis Lazuli
+Conglomerate Native Copper
+Conglomerate Native Gold

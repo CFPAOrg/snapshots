@@ -1,0 +1,5 @@
+key.freecam.category
+key.anchor.description
+key.roll_l.description
+key.roll_r.description
+key.roll_reset.description

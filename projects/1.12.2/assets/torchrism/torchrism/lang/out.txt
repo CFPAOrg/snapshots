@@ -1,0 +1,6 @@
+1.Torch Placer<NL><NL>Torch Placer is for placing torches in an open area(16x16). The interval between each torch by default is 4 blocks.<NP>2.Great Wall Builder<NL><NL>Right click the great-wall builder, it will follow the connected torches to create a defence wall.<NP>3.Torch Dice<NL><NL>Torch dice will randomly give player 1-6 torches when right click.<NP>4.Torch Corrector<NL><NL>Torch corrector will correct the unorganized torches to the right position.<NP>5.Torch Staff<NL><NL>Holding the torch staff and right-click the torch to store torches in the staff.<NL>Right-click with the torch staff can place the stored torches on the block.
+Constructing...
+1.Powered Stone<NL><NL>Place a Powered stone above a troch and right-click the unpowered stone with Torch Staff to activate it. Mine the activated stone to obtain a Powered stone.
+No enougth torch
+Torch is over capacity
+Torch Count:

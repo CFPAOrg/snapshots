@@ -1,0 +1,10 @@
+item.tmemes:electric_upgrade0.name
+item.tmemes:electric_upgrade1.name
+modifier.meme-electric.name
+modifier.meme-electric.desc
+modifier.meme-disassemble.name
+modifier.meme-disassemble.desc
+modifier.meme-electric-redirect.name
+modifier.meme-electric-redirect.desc
+modifier.meme-electric_armor.name
+modifier.meme-electric_armor.desc

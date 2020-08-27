@@ -1,0 +1,18 @@
+/surge - Provides a list of all commands for the Surge mod.
+Commands:
+Toggles the disable animation feature. Animations will not animate when enabled.
+Toggles the GPU cloud rendering feature. GPU cloud rendering will render when enabled.
+Toggles the hide players feature. Players will not be visible while enabled.
+Allows the player render whitelist to be changed. Players who are on the whitelist will not be hidden when using /surge hideplayers
+Texture animations disabled!
+Texture animations enabled!
+Render Clouds using the GPU!
+Render Clouds using the CPU!
+Players will now be hidden!
+Players will no longer be hidden!
+%s has been whitelisted!
+%s is not whitelisted!
+%s is already whitelisted!
+%s has been removed!
+%s could not be found!
+The following players are whitelisted: 

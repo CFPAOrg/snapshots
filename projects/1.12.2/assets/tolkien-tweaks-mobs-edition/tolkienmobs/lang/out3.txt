@@ -1,0 +1,66 @@
+Arrow of Elvish Life-span
+Elemental Drowning
+Potion of Elemental Drowning
+Splash Potion of Elemental Drowning
+Lingering Potion of Elemental Drowning
+Arrow of Elemental Drowning
+Elemental Lightning
+Potion of Elemental Lightning
+Splash Potion of Elemental Lightning
+Lingering Potion of Elemental Lightning
+Arrow of Elemental Lightning
+Elemental Flying
+Potion of Elemental Flying
+Splash Potion of Elemental Flying
+Lingering Potion of Elemental Flying
+Arrow of Elemental Flying
+Elemental Tornado
+Potion of Elemental Tornado
+Splash Potion of Elemental Tornado
+Lingering Potion of Elemental Tornado
+Arrow of Elemental Tornado
+Elemental Burning
+Potion of Elemental Burning
+Splash Potion of Elemental Burning
+Lingering Potion of Elemental Burning
+Arrow of Elemental Burning
+Corrosion
+Potion of Corrosion
+Splash Potion of Corrosion
+Lingering Potion of Corrosion
+Arrow of Corrosion
+Portable Blacksmith
+Potion of Portable Blacksmith
+Splash Potion of Portable Blacksmith
+Lingering Potion of Portable Blacksmith
+Arrow of Portable Blacksmith
+Sleepnesia
+Potion of Sleepnesia
+Splash Potion of Sleepnesia
+Lingering Potion of Sleepnesia
+Arrow of Sleepnesia
+Paralysing Fear
+Potion of Paralysing Fear
+Splash Potion of Paralysing Fear
+Lingering Potion of Paralysing Fear
+Arrow of Paralysing Fear
+Great Dread
+Potion of Great Dread
+Splash Potion of Great Dread
+Lingering Potion of Great Dread
+Arrow of Great Dread
+Elvish Nimbleness
+Potion of Elvish Nimbleness
+Splash Potion of Elvish Nimbleness
+Lingering Potion of Elvish Nimbleness
+Arrow of Elvish Nimbleness
+Eru's Blessing
+Potion of Eru's Blessing
+Splash Potion of Eru's Blessing
+Lingering Potion of Eru's Blessing
+Arrow of Eru's Blessing
+Balrog's Mark
+When applied to boots, this makes any grass or dirt around you turn to magma blocks.
+Gondorian Resolve
+When applied to armour, this increases your ability to resist knockback.
+Hobbit Harvest

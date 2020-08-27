@@ -1,0 +1,12 @@
+item.PepsiCola.name
+item.RedbullEnergyDrink.name
+item.MilkBottle.name
+itemGroup.tabfuzzyDrinksTab
+item.FantaOrange.name
+item.MountainDew.name
+item.MirindaOrange.name
+item.WaterBottle.name
+item.DietPepsiCola.name
+item.SevenUP.name
+item.MirindaStrawberry.name
+item.CocaCola.name

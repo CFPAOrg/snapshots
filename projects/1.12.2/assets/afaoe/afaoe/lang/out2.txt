@@ -1,0 +1,108 @@
+Muenster, Pepperoni & Onion Pizza
+Muenster & Onion Pizza
+Muenster & Pepperoni Pizza
+Muenster Pizza
+Muenster Slice
+Muenster & Pepperoni Slice
+Muenster & Onion Slice
+Muenster, Pepperoni & Onion Slice
+Cheddar, Pepperoni & Onion Pizza
+Cheddar & Onion Pizza
+Cheddar & Pepperoni Pizza
+Cheddar Pizza
+Cheddar Slice
+Cheddar & Pepperoni Slice
+Cheddar & Onion Slice
+Cheddar, Pepperoni & Onion Slice
+Mozzarella, Pepperoni & Onion Pizza
+Mozzarella & Onion Pizza
+Mozzarella & Pepperoni Pizza
+Mozzarella Pizza
+Mozzarella Slice
+Mozzarella & Pepperoni Slice
+Mozzarella & Onion Slice
+Mozzarella, Pepperoni & Onion Slice
+Empty Taco Shell
+Beef Taco
+Beef & Tomato Taco
+Beef & Sour Cream Taco
+Beef, Tomato & Sour Cream Taco
+Chicken Taco
+Chicken & Tomato Taco
+Chicken & Sour Cream Taco
+Chicken, Tomato & Sour Cream Taco
+Tofu Taco
+Chicken Noodle Soup
+Onion Soup
+Tomato Soup
+Vegetable Soup
+Pot O' Chicken Noodle
+Pot O' Onion
+Pot O' Veggie
+Pot O' Tomato
+Hot Pot O' Chicken Noodle
+Hot Pot O' Onion
+Hot Pot O' Veggie
+Hot Pot O' Tomato
+Hardened Iron Ingot
+Condensed Beef
+Double Condensed Beef
+Triple Condensed Beef
+Condensed Chicken
+Double Condensed Chicken
+Triple Condensed Chicken
+Fame Shard
+Fame Crystal
+Perfect Potion
+Empty Oil Flask
+Oil Flask
+Crushed Bone
+Less Rotten Flesh
+Boiling Milk
+Glue
+Cut Stick
+Legs
+Meat Baller
+Pot
+Pan
+Heated Pan
+Hot Oiled Pan
+Meat Knife
+Vegetable Knife
+Tenderizer
+Pizza Roller
+Pizza Cutter
+Grinder Gear
+Manual Crusher
+Pestle
+Mortar
+Mortar & Pestle
+Empty Sack
+Milk Sack
+Fame Sword
+God Fame Key
+Fame Minion Key
+Untested Key
+Key Shard
+§c§kCrafting Part
+Empty Jar
+Sugar Water Jar
+Cheddar Block
+Muenster Block
+Mozzarella Block
+Provolone Block
+Molten Cheddar Block
+Molten Mozzarella Block
+Molten Provolone Block
+Molten Muenster Block
+Hardened Iron Block
+Salt Ore
+Baking Soda Ore
+Grinder
+Onion Plant
+Tomato Plant
+Lettuce Plant
+Jalapeño Plant
+Sunflower Plant
+Cutting Board
+Wall Phone

@@ -1,0 +1,28 @@
+Levack Core
+Aluminum Dust
+Copper Dust
+Gold Dust
+Iron Dust
+Lead Dust
+Nickel Dust
+Osmium Dust
+Silver Dust
+Tin Dust
+Uranium Dust
+Aluminum Ingot
+Copper Ingot
+Lead Ingot
+Nickel Ingot
+Obsidian Ingot
+Osmium Ingot
+Silicon
+Silver Ingot
+Tin Ingot
+Uranium Ingot
+Compressed Coal
+Obsidian Ore
+Silicon Ore
+There is an update for %s available!
+Current version: %s, newest version: %s
+Click To Download
+Hover to show change log

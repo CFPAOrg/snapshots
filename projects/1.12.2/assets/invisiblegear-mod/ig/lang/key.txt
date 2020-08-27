@@ -1,0 +1,11 @@
+item.invis_gem.name
+item.upgraded_invis_gem.name
+item.invisible_sword.name
+item.invisible_pickaxe.name
+item.invisible_shovel.name
+item.invisible_axe.name
+item.invisible_helmet.name
+item.invisible_chestplate.name
+item.invisible_leggings.name
+item.invisible_boots.name
+tile.invis_ore.name

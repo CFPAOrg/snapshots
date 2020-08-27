@@ -1,0 +1,73 @@
+Survival Systems
+Fire Resistance
+Projectile Resistance
+Explosion Resistance
+Magic Resistance
+Fall Resistance
+Water Speed
+Jump Height
+Item Upgrade
+%1$sUsed with:%2$s %3$s
+%1$sMax Count:%2$s %3$s
+Chest
+Helmet
+Legs
+Boots
+Multitool
+Spanner
+Survival Systems Worktable
+Armorplate
+Upgrades
+EV Systems Enabled
+EV Systems Disabled
+Air Systems require a full EV Suit
+Air: %1$s
+Generates %1$s Air/s
+Recharge with FE or external Air Sources
+Recharge with external Air Sources
+Environmental Suit Helm
+Environmental Suit Chestpiece
+Environmental Suit Leggings
+Environmental Suit Boots
+Multitool
+Spanner
+Diamond Armorplate
+Iron Armorplate
+Ceramic Armorplate
+Polymer Armorplate
+Carbon Armorplate
+Plasteel Armorplate
+EV Suit Armorplate
+Used to increase the Defensive Capabilities
+of the EV Suit. Provides no benefits when broken
+Press %1$s to see Detailed Info
+Head: %1$s
+Chest: %1$s
+Legs: %1$s
+Feet: %1$s
+Toughness: %1$s
+Durability: %1$s
+Antifog Coating
+This upgrade allows for easier when submersed in fluids
+Aftermarket Rebreather Module
+Modifies the EV Helm provide Air when underwater
+Consumes %1$s Air to refill Oxygen Bubbles
+Nightvision Enhancement Module
+A Smart Film that improves Night Vision by amplifying incoming light
+Auxiliary Airtank Module
+Additional tanks allowing from longer excursion ranges
+Increases Air Storage by %1$s Air per Tank
+Servo-Assisted Harvesting Module
+Increases Mining Speed when in fluids
+Costs %1$s Air/s in Water
+Airbrake Module
+Vents a large amount of air to prevent fatal fall damage.
+Costs %1$s Air per Block Fallen
+Emergency Ascent Module
+Stability Enhancement Module
+Reinforced Knee Hinges help the wearer maintain footing resulting in less knockback
+Jump Assist Module
+Expends a small amount of Air to jump higher
+Costs %1$s Air per Jump
+Hydrothrusters Module
+Expends a small amount of air to move quicker in fluids

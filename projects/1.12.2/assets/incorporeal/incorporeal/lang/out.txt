@@ -1,0 +1,60 @@
+(unspecified)
+Stack underflow
+Type mismatch
+Out of range
+Invalid math operation: %s
+Too big
+Too small
+Divide by zero
+(removed dataclass)
+Nothing
+Clone
+Sum
+Difference
+Product
+Quotient
+Remainder
+Get Request Magnitude
+Set Request Magnitude
+Set Request Item
+Get Stack Depth
+Nothing
+Empty Stack
+Full Stack
+Equal Value
+Equal Class
+Less Than
+Greater Than
+Has Error
+Number
+Corporea Request
+Error
+Cygnus Stack
+Crate remembered.
+Not bound to a crate
+Bound crate not of this realm
+Missing crate at bound location
+Bound to a crate
+Not bound to a crate
+! Bound crate not of this realm
+Bound position: X %s, Y %s, Z %s
+Bound dimension: %s
+Nothing stored.
+A %s is described here.
+An %s is described here.
+Your soul is not compatible with this Corporea Network.
+%s's soul was too weak
+Holding Ticket Conjurer!
+Anything you say will
+create a Corporea Ticket
+Safe for decoration
+very blessed block
+Skytouching
+Height Limit
+%s + scroll to cycle
+No recipe or docs - very WIP! sorry!
+(come help test in creative!)
+Fractured Space (collector)
+Blood Soul Core (collector)
+Forgotten Shrine chimes
+Unstable Cube chimes

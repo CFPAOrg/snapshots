@@ -1,0 +1,74 @@
+It vibrates with luminous celestial energy
+Slowly regenerates life
+Slowly regenerates mana
+Permanently increases maximum mana by 20
+Throws balls of fire
+Shoots a small spark
+Can be placed while holding %s key
+Remove Buff
+Dropped:
+Mines Meteorite
+Gives immunity to fire blocks
+Permanently increases health by %,d
+'It's pretty, oh so pretty'
+Increase defense by %,d
+Emits an aura of light
+%,d defense
+Set bonus: %s
+The Blood Moon is rising...
+A solar eclipse is happening!
+Pickaxe Power: %,d%%
+Axe Power: %,d%%
+Hammer Power: %,d%%
+%,d%% reduced mana usage
+Your world has been blessed with Cobalt!
+Your world has been blessed with Palladium!
+Your world has been blessed with Mythril!
+Your world has been blessed with Orichalcum!
+Your world has been blessed with Adamantite!
+Your world has been blessed with Titanium!
+Great for impersonating devs!
+%,d%% critical strike chance
+Life regen is increased when near a campfire
+Top rated in schools all around the globe!
+Vanity Item
+Right click to open
+Debug Item
+[WIP] Allows the control of gravity
+What a horrible night to have a curse.
+Summons the Eclipse
+The Lord's chosen weapon
+Shoots fallen stars
+Not even water can put the flame out
+Extremely toxic
+A small explosion that will destroy some blocks
+A large explosion that will destroy most tiles
+Opens one Gold or Dungeon Chest
+Allows the collection of Vine Rope from vines
+Can be climbed on
+Immunity to Darkness
+Looks tasty!
+The blood of gods
+Used to craft various types of ammo
+jar.
+need oxygen
+yes, very
+Insanely Fast Speed
+Very Fast Speed
+Fast Speed
+Average Speed
+Slow Speed
+Very Slow Speed
+Extremely Slow Speed
+Snail Speed
+Mysterious Speed
+%,d melee damage
+%,d ranged damage
+%,d magic damage
+%,d summon damage
+%,d throwing damage
+Timber!!
+Chop down your first tree.
+No Hobo
+Build a house suitable enough for your first town NPC, such as the guide, to move into.
+Ooo! Shiny!

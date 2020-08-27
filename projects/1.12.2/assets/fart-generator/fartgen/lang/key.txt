@@ -1,0 +1,2 @@
+tile.generator.name
+tooltip.fartgen.tum

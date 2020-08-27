@@ -1,0 +1,74 @@
+Angel Painting
+Unlit Torch
+Timey Wimey Detector
+Chronodyne Generator
+Angel Plinth
+Weeping Angel (Violet)
+Weeping Angel (Ed)
+Weeping Angel (a_dizzle)
+Weeping Angel (Violet - 2)
+Weeping Angel (ItzAngela)
+Weeping Angel (Child)
+Kontron Ingot
+Angel Statue
+Arm in snow
+Angel Statue
+Kontron Ore
+Chronodyne Generator
+Statue
+Weeping Angel
+Weeping Angel
+Anomaly
+Angel painting
+Angel seen
+Child running
+Laughing Child
+Light break
+Angel teleported player
+Stone scrapings
+Ding!
+Blow
+Angel crumbles to death
+%s was sent back in time by a Angel!
+%s had their neck snapped by a Angel!
+%s broke their bones by punching stone...
+%s was sent back in time by a Angel!
+%s broke their bones by punching stone...
+%s had their neck snapped by a Angel!
+Weeping Angels
+Teleport range
+Teleport Entities?
+Angel on Angel, Quantum locking
+Angel inter-dimensional teleporting
+Block break Range
+Chicken Explosions?
+Angel - Maximum spawn
+Spawn Probability
+Angel - Minimum Spawn
+Block breaking
+Blow out torch
+Gen catacombs?
+Chance to generate a catacomb
+Just teleport & No Damage?
+Spawn type
+Angel Speed
+A list of blocks angels should NOT break.
+A list of dimensions angels should NOT go to.
+Toggle movement sounds for the angels
+Toggle seen sounds for the angels
+The Teleport type
+A list of dimensions where angels SHOULD spawn
+Angel on Angel freezing
+Pickaxes and generators only?
+XP gained from Angels
+Damaged gained from angels
+Angel target range
+Angel move Speed
+Stealable Items
+Tardis Theft Range
+Dimensional Theft
+Angels
+Spawn Rates
+World Gen
+Fuel Drainage
+Tardis Mod Integration

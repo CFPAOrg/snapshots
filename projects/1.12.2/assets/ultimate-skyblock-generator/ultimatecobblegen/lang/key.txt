@@ -1,0 +1,17 @@
+tile.ultimatecobblegen:cobblegenerator.name
+tile.ultimatecobblegen:gravelgenerator.name
+tile.ultimatecobblegen:sandgenerator.name
+tile.ultimatecobblegen:dustgenerator.name
+tile.ultimatecobblegen:dirtgenerator.name
+tile.ultimatecobblegen:grassgenerator.name
+tile.ultimatecobblegen:fungusgenerator.name
+tile.ultimatecobblegen:obsidiangenerator.name
+tile.ultimatecobblegen:icegenerator.name
+tile.ultimatecobblegen:snowgenerator.name
+tile.ultimatecobblegen:endgenerator.name
+tile.ultimatecobblegen:nethergenerator.name
+tile.ultimatecobblegen:quartzgenerator.name
+tile.ultimatecobblegen:soulgenerator.name
+tile.ultimatecobblegen:claygenerator.name
+tile.ultimatecobblegen:redstonegenerator.name
+tile.ultimatecobblegen:glowstonegenerator.name

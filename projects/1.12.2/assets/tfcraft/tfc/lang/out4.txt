@@ -1,0 +1,35 @@
+Animal Respawn Count
+This controls how many animals (any kind) are loaded (by respawn) / player. Higher values means more animals near a player, which in turn raises difficulty and meat abundance (caution, a value too high can also negatively impact performance).
+Mob Respawn Count
+This controls how many mobs are loaded(by respawn) / player. Higher values means more mobs near a player, which in turn raises difficulty (caution, a value too high may also negatively impact performance).
+Prevent Mobs On Surface
+Prevent mob spawning on surface?
+Give Vanilla Mobs Equipment
+Give wrought iron weapons and armor to vanilla mobs?
+Tree Settings
+Enable / Disable TerraFirmaCraft Tree Mechanics
+Enable Felling
+Enable trees being fully cut by axes. Disable it if you want other mods to handle tree felling.
+Enable Hammering for Sticks
+Enable smacking logs with a hammer giving sticks.
+Requires Axe
+Should logs require tools (axes and saws, or hammers for sticks) to be cut? If false, breaking logs with an empty hand will not drop logs.
+Enable Saplings
+If false, leaves will not drop saplings.
+Stone Axe Log Return Rate
+Chance per log for an item to drop when using a stone axe.
+Leaf Stick Drop Chance
+Normal leaf drop chance for sticks
+Bonus Leaf Stick Drop Chance
+Chance that leaves will drop more sticks when harvested with configured tool classes.
+Leaf Stick Drop Chance Tool Classes
+Tool classes that have the configured bonus to drop more sticks when harvesting leaves.
+Spawn Protection Settings
+Prevent Hostile Mobs
+Should living in a chunk prevent hostile mob spawning over time?
+Prevent Predators
+Should living in a chunk prevent predators spawning over time?
+Minimum Y Level for Mobs
+The min Y value a spawn has to be for spawn protection to prevent mobs. Anything below it will not be prevented.
+Maximum Y Level for Mobs
+The max Y value a spawn has to be for spawn protection to prevent mobs. Anything above it will not be prevented.

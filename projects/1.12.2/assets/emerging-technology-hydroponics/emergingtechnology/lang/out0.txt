@@ -1,0 +1,113 @@
+Hydroponic Grow Bed
+Harvester
+Water Filler
+CO2 Scrubber
+CO2 Diffuser
+Nutrient Injector
+Hydroponic Grow Light
+Hydroponic Frame
+Aquaponic Frame
+Aquaponic Glass
+Aquaponic Base
+Aquaponic Controller
+Aquaponic Port
+Red Bulb
+Green Bulb
+Blue Bulb
+UV Bulb
+Nozzle Component
+Long Spray Nozzle
+Smart Spray Nozzle
+Precision Spray Nozzle
+Fertilizer
+Processor
+Shredder
+Waste Collector
+Shredded Plastic
+Shredded Plant
+Shredded Starch
+Plastic Waste
+Fabricator Filament
+Block of Bioplastic
+Block of Clear Bioplastic
+Bioplastic Rod
+Bioplastic Sheet
+Basic Machine Case
+Fabricator
+Bioplastic Ladder
+Bioplastic Tissue Scaffold
+Turbine
+Paper Waste
+Paper Pulp
+Shredded Paper
+Shredded Plastic Block
+Shredded Plant Block
+Shredded Starch Block
+Solar Cooker
+Empty Syringe
+Raw Synthetic Beef
+Raw Synthetic Chicken
+Raw Synthetic Porkchop
+Cooked Synthetic Beef
+Cooked Synthetic Chicken
+Cooked Synthetic Porkchop
+Synthetic Silk
+Synthetic Slime Ball
+Synthetic Leather
+Algae
+Algae Bar
+Cooked Algae Bar
+Meal Replacement Powder
+Meal Replacement Drink
+Plastic Bottle
+Tissue Bioreactor
+Tissue Scaffolder
+Algae Bioreactor
+Piezoelectric Generator
+Solar Panel
+Solar Glass
+Battery
+Biomass
+Biochar
+Biomass Generator
+Tidal Generator
+Wind Generator
+Biochar Block
+Algorithmic Optimizer
+Blank Circuit Board
+Basic Circuit Board
+Advanced Circuit Board
+Superior Circuit Board
+Guide Light
+Smart Speaker
+Hydroponic Grow Bed
+Harvester
+Water Filler
+CO2 Scrubber
+CO2 Diffuser
+Nutrient Injector
+Hydroponic Grow Light
+Hydroponic Frame
+Aquaponic Frame
+Aquaponic Glass
+Aquaponic Base
+Aquaponic Controller
+Aquaponic Port
+Processor
+Shredder
+Waste Collector
+Block of Bioplastic
+Block of Clear Bioplastic
+Basic Machine Case
+Fabricator
+Bioplastic Ladder
+Shredded Plastic Block
+Shredded Plant Block
+Shredded Starch Block
+Solar Cooker
+Tissue Bioreactor
+Tissue Scaffolder
+Algae Bioreactor
+Piezoelectric Generator
+Solar Panel
+Solar Glass

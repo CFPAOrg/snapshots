@@ -1,0 +1,81 @@
+Nichrome Coil Block
+Tungstensteel Coil Block
+HSS-G Coil Block
+Naquadah Coil Block
+Naquadah Alloy Coil Block
+Superconducting Coil Block
+Fusion Coil Block
+Bronze Pipe Casing
+Steel Pipe Casing
+Titanium Pipe Casing
+Tungstensteel Pipe Casing
+Bronze Firebox Casing
+Steel Firebox Casing
+Titanium Firebox Casing
+Tungstensteel Firebox Casing
+Primitive Bricks
+Coke Oven Bricks
+Bronze Machine Casing
+Heat Proof Machine Casing
+Frost Proof Machine Casing
+Solid Steel Machine Casing
+Clean Stainless Steel Casing
+Stable Titanium Machine Casing
+Robust Tungstensteel Machine Casing
+LV Machine Casing
+MV Machine Casing
+HV Machine Casing
+EV Machine Casing
+IV Machine Casing
+LuV Machine Casing
+UV Machine Casing
+Bronze Hull
+Bricked Bronze Hull
+Steel Hull
+Bricked Steel Hull
+Bronze Gear Box Casing
+Steel Gear Box Casing
+Titanium Gear Box Casing
+Steel Turbine Casing
+Titanium Turbine Casing
+Stainless Turbine Casing
+Tungstensteel Turbine Casing
+Engine Intake Casing
+Grate Machine Casing
+Assembler Machine Casing
+Fusion Machine Casing
+Fusion Machine Casing [Mark II]
+§c§oAdded by: %s
+Wooden Tank
+Bronze Tank
+Steel Tank
+Stainless Steel Tank
+Titanium Tank
+Tungstensteel Tank
+Adamantine Tank
+Light Concrete
+Light Concrete Cobblestone
+Mossy Light Concrete Cobblestone
+Chiseled Light Concrete Cobblestone
+Light Concrete Bricks
+Cracked Light Concrete Bricks
+Mossy Light Concrete Bricks
+Chiseled Light Concrete Bricks
+Dark Concrete
+Dark Concrete Cobblestone
+Mossy Dark Concrete Cobblestone
+Chiseled Dark Concrete Cobblestone
+Dark Concrete Bricks
+Cracked Dark Concrete Bricks
+Mossy Dark Concrete Bricks
+Chiseled Dark Concrete Bricks
+Produces %dMB of Steam in %d ticks
+Small Steam Coal Boiler
+High Pressure Steam Coal Boiler
+Steam Solar Boiler
+Small Steam Lava Boiler
+High Pressure Steam Lava Boiler
+Steam Extractor
+High Pressure Steam Extractor
+Steam Macerator
+High Pressure Steam Macerator

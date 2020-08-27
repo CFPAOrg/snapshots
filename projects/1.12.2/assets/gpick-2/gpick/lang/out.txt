@@ -1,0 +1,45 @@
+wood gpick
+stone gpick
+iron gpick
+gold gpick
+diamond gpick
+fire gpick
+advanced fire gpick
+stone-only gpick
+reverse gpick
+glass gpick
+vein gpick
+gibbon gpick
+jump gpick
+fly gpick
+heartstone gpick
+wood core
+stone core
+iron core
+gold core
+diamond core
+fire core
+stone stick
+iron stick
+gold stick
+diamond stick
+Growable Pickaxes - Branch
+Growable Pickaxes - Trunk
+Growable Pickaxes - Evolution Core
+MineSoul: 
+Fuel:
+Last Position: 
+[GPICK2] 
+transport succeed, travel distance: 
+blocks.
+in wrong dimension, fail to transport.
+Fail to check update.
+New version 
+ is available.
+/
+Get from a 
+.
+Smelt chance:
+Double chance:
+Successfully set home.
+Thanks BC��_BcsC 's excellent textures for this mod very much!

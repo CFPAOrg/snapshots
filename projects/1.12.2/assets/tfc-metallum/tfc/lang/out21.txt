@@ -1,0 +1,101 @@
+Scrap Zircaloy
+Zircaloy Dust
+Dust Zircaloy
+Zircaloy Nugget
+Nugget Zircaloy
+Zircaloy Sheet
+Sheet Zircaloy
+Zircaloy Double Sheet
+Double Sheet Zircaloy
+Zircaloy Anvil
+Anvil Zircaloy
+Zircaloy Tuyere
+Tuyere Zircaloy
+Zircaloy Lamp
+%s Zircaloy Lamp
+Lamp Zircaloy
+Zircaloy Pickaxe
+Pick Zircaloy
+Zircaloy Pickaxe Head
+Pick Head Zircaloy
+Zircaloy Shovel
+Shovel Zircaloy
+Zircaloy Shovel Head
+Shovel Head Zircaloy
+Zircaloy Axe
+Axe Zircaloy
+Zircaloy Axe Head
+Axe Head Zircaloy
+Zircaloy Hoe
+Hoe Zircaloy
+Zircaloy Hoe Head
+Hoe Head Zircaloy
+Zircaloy Chisel
+Chisel Zircaloy
+Zircaloy Chisel Head
+Chisel Head Zircaloy
+Zircaloy Sword
+Sword Zircaloy
+Zircaloy Sword Blade
+Sword Blade Zircaloy
+Zircaloy Mace
+Mace Zircaloy
+Zircaloy Mace Head
+Mace Head Zircaloy
+Zircaloy Saw
+Saw Zircaloy
+Zircaloy Saw Blade
+Saw Blade Zircaloy
+Zircaloy Javelin
+Javelin Zircaloy
+Zircaloy Javelin Head
+Javelin Head Zircaloy
+Zircaloy Hammer
+Hammer Zircaloy
+Zircaloy Hammer Head
+Hammer Head Zircaloy
+Zircaloy Prospector's Pickaxe
+Propick Zircaloy
+Zircaloy Prospector's Pickaxe Head
+Propick Head Zircaloy
+Zircaloy Knife
+Knife Zircaloy
+Zircaloy Knife Blade
+Knife Blade Zircaloy
+Zircaloy Scythe
+Scythe Zircaloy
+Zircaloy Scythe Blade
+Scythe Blade Zircaloy
+Zircaloy Shears
+Shears Zircaloy
+Zircaloy Unfinished Chestplate
+Unfinished Chestplate Zircaloy
+Zircaloy Chestplate
+Chestplate Zircaloy
+Zircaloy Unfinished Greaves
+Unfinished Greaves Zircaloy
+Zircaloy Greaves
+Greaves Zircaloy
+Zircaloy Unfinished Boots
+Unfinished Boots Zircaloy
+Zircaloy Boots
+Boots Zircaloy
+Zircaloy Unfinished Helmet
+Unfinished Helmet Zircaloy
+Zircaloy Helmet
+Helmet Zircaloy
+Zircaloy Shield
+Molten Beryllium
+Beryllium Ingot
+Unshaped Beryllium
+Beryllium Double Ingot
+Double Ingot Beryllium
+Beryllium Scrap
+Scrap Beryllium
+Beryllium Dust
+Dust Beryllium
+Beryllium Nugget
+Nugget Beryllium
+Beryllium Sheet
+Sheet Beryllium
+Beryllium Double Sheet

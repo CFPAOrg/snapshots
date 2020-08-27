@@ -1,0 +1,7 @@
+language.name
+language.region
+language.code
+category.placementpreview
+placementpreview.key.toggle.enabled
+placementpreview.key.toggle.ghost
+placementpreview.key.toggle.wire

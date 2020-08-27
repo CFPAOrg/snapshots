@@ -1,0 +1,105 @@
+Scythe Tungsten Steel
+Tungsten Steel Scythe Blade
+Scythe Blade Tungsten Steel
+Tungsten Steel Shears
+Shears Tungsten Steel
+Tungsten Steel Unfinished Chestplate
+Unfinished Chestplate Tungsten Steel
+Tungsten Steel Chestplate
+Chestplate Tungsten Steel
+Tungsten Steel Unfinished Greaves
+Unfinished Greaves Tungsten Steel
+Tungsten Steel Greaves
+Greaves Tungsten Steel
+Tungsten Steel Unfinished Boots
+Unfinished Boots Tungsten Steel
+Tungsten Steel Boots
+Boots Tungsten Steel
+Tungsten Steel Unfinished Helmet
+Unfinished Helmet Tungsten Steel
+Tungsten Steel Helmet
+Helmet Tungsten Steel
+Tungsten Steel Shield
+Molten Boron
+Boron Ingot
+Unshaped Boron
+Boron Double Ingot
+Double Ingot Boron
+Boron Scrap
+Scrap Boron
+Boron Dust
+Dust Boron
+Boron Nugget
+Nugget Boron
+Boron Sheet
+Sheet Boron
+Boron Double Sheet
+Double Sheet Boron
+Boron Anvil
+Anvil Boron
+Boron Tuyere
+Tuyere Boron
+Boron Lamp
+%s Boron Lamp
+Lamp Boron
+Boron Pickaxe
+Pick Boron
+Boron Pickaxe Head
+Pick Head Boron
+Boron Shovel
+Shovel Boron
+Boron Shovel Head
+Shovel Head Boron
+Boron Axe
+Axe Boron
+Boron Axe Head
+Axe Head Boron
+Boron Hoe
+Hoe Boron
+Boron Hoe Head
+Hoe Head Boron
+Boron Chisel
+Chisel Boron
+Boron Chisel Head
+Chisel Head Boron
+Boron Sword
+Sword Boron
+Boron Sword Blade
+Sword Blade Boron
+Boron Mace
+Mace Boron
+Boron Mace Head
+Mace Head Boron
+Boron Saw
+Saw Boron
+Boron Saw Blade
+Saw Blade Boron
+Boron Javelin
+Javelin Boron
+Boron Javelin Head
+Javelin Head Boron
+Boron Hammer
+Hammer Boron
+Boron Hammer Head
+Hammer Head Boron
+Boron Prospector's Pickaxe
+Propick Boron
+Boron Prospector's Pickaxe Head
+Propick Head Boron
+Boron Knife
+Knife Boron
+Boron Knife Blade
+Knife Blade Boron
+Boron Scythe
+Scythe Boron
+Boron Scythe Blade
+Scythe Blade Boron
+Boron Shears
+Shears Boron
+Boron Unfinished Chestplate
+Unfinished Chestplate Boron
+Boron Chestplate
+Chestplate Boron
+Boron Unfinished Greaves
+Unfinished Greaves Boron
+Boron Greaves

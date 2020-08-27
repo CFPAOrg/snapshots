@@ -1,0 +1,16 @@
+block.missing
+block.oredict.missing
+item.missing
+item.oredict.missing
+item.number.exceeded
+item.meta.exceeded
+tomesetup.block.missing
+tomesetup.block.oredict.missing
+tomesetup.block.oredict.item
+tomesetup.block.error.unknown
+tomesetup.item.missing
+tomesetup.item.oredict.missing
+tomesetup.item.number.exceeded
+tomesetup.item.meta.exceeded
+command.startitems.usage
+command.startitems.success

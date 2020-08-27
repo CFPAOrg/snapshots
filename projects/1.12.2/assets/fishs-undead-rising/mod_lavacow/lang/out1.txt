@@ -1,0 +1,66 @@
+Mimicrab hurts
+Sludge Lord echoes
+Sludge Lord dies
+Sludge Lord hurts
+Lil'Sludge hisses
+Lil'Sludge dies
+Lil'Sludge hurts
+Raven calls
+Whistle calls
+Raven dies
+Raven hurts
+Ptera shrieks
+Ptera dies
+Ptera hurts
+Vespa buzzes
+Vespa dies
+Vespa hurts
+Scarecrow chatters
+Scarecrow dies
+Scarecrow hurts
+Swarmer clicks
+Swarmer dies
+Swarmer hurts
+Unburied groans
+Unburied dies
+Unburied hurts
+Osvermis groans
+Osvermis spits
+Osvermis dies
+Osvermis hurts
+Seagull calls
+Seagull dies
+Seagull hurts
+Penghoul calls
+Penghoul dies
+Penghoul hurts
+Undertaker groans
+Undertaker dies
+Undertaker hurts
+Deals additional %d%% of target's maximum HP as damage.
+Gives Regeneration(0:08) when eaten.
+Gives Regeneration(0:08) when eaten.
+Gives Regeneration(0:08) when eaten, is also mimicrab's favorite.
+Gives random effects(0:40) when eaten.
+Gives Regeneration and repairs(+1/sec) all equipments when equipped.
+Get charcoal when chopping down logs.
+Right click to deal damage to creatures around player.
+Try feeding this to a cow with Fire Resistence. :)
+Turn Animal into two individuals.
+Gives Haste(1:00) when eaten.
+All attacks sweep target, and their damage bypasses any armors.
+Gives Hunger. Restore 1 hunger points when hitting a non-undead entity.      
+Is edible. Attacks give target SlownessIII(0:04)
+Right click to summon a loyal Lil'Sludge
+Raise a war between you and your friend who built a wood cabin (need Fire Charge as ammunition)
+Used to make special cuisines
+Right click to find what's inside it
+Damage to burning mobs+
+Fire damage to player-
+Set(2): Time of consuming food -20%%.
+Set(4): Remove negative potion effects after consuming food.
+Right click to launch a Swarmer at target. (need Swarmer as ammunition)
+Heals 2 HP to your pet
+Throw at target location and cause explosion. Undead within 300%% damage and get burned(0:08)
+Damage to undead mobs+%d%%
+Catches the nightmarish creature from the dream.

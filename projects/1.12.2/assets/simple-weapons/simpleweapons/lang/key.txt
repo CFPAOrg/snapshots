@@ -1,0 +1,16 @@
+item.diamond_broad_sword.name
+item.gold_broad_sword.name
+item.iron_broad_sword.name
+item.wood_broad_sword.name
+item.diamond_long_sword.name
+item.gold_long_sword.name
+item.iron_long_sword.name
+item.wood_long_sword.name
+item.diamond_short_sword.name
+item.gold_short_sword.name
+item.iron_short_sword.name
+item.wood_short_sword.name
+item.diamond_spear.name
+item.gold_spear.name
+item.iron_spear.name
+item.wood_spear.name

@@ -1,0 +1,78 @@
+English
+US
+en_US
+Multishot keys
+Multishot Menu
+Multishot Start/Stop
+Motion ON/OFF
+Pause/Unpause
+Lock Controls ON/OFF
+Hide GUI ON/OFF
+Tip: Hold Ctrl and/or Shift when clicking on/scrolling over the buttons
+NOTE: The "Pause-key" here refers to the Multishot Pause keybind!
+Motion-key: Toggle motion ON/OFF
+Recording-key: Toggle recording ON/OFF
+Pause-key (while moving/recording): Pause or resume the recording (and motion if active)
+Pause-key (while NOT moving/recording): Add a new path point to the current location, including the looking direction
+HOME + Pause-key: Set the center point
+END + Pause-key: Set the (camera) target point
+DEL + HOME + Pause-key: Remove center point
+DEL + END + Pause-key: Remove target point
+DEL + Ctrl + Pause-key: Remove all points
+UP + DOWN arrows + Pause-key: Reload the active path from file
+HOME + END + Pause-key: Reverse the active path's traveling direction
+Ctrl + Motion-key: Move to path start point
+Shift + Motion-key: Move to closest path point
+INSERT + HOME + Pause-key: Insert a new path point BEFORE the hilighted point
+INSERT + Pause-key: Insert a new path point AFTER the hilighted point
+Ctrl + Pause-key: Move a previously "stored" path point to the current location
+Bottom
+OFF
+Left
+Linear
+Linear
+Circle
+(WIP) Ellipse
+Path (linear)
+(WIP) Path (smooth)
+Non-Linear
+ON
+Right
+Real
+Real time
+Save path (copy to clipboard & right click the button to change)
+Screenshots
+shot
+Shots
+Size estimate
+What do you have the path set to?! Seems a bit long...
+Top
+Video
+Multishot Settings
+Back to Game
+Camera
+Generic
+Motion
+Multishot Enabled
+Motion Enabled
+Lock Controls
+Hide Multishot GUI
+Shot Interval
+Zoom
+Recording Timer
+Mode
+X motion
+Y motion
+Z motion
+Yaw rotation
+Pitch rotation
+Speed
+Paste path
+GUI
+Load Defaults
+Free Camera
+Height
+Width
+Error: Can't add point #%d, invalid index
+Added circle center point at
+Added circle target point at

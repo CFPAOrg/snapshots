@@ -1,0 +1,45 @@
+ EMC Converting Belt
+ Collector Necklace MK1
+ Collector Necklace MK2
+ Collector Necklace MK3
+ Collector Necklace MK4
+ Collector Necklace MK5
+ Collector Necklace MK6
+ Collector Necklace MK7
+ Collector Necklace MK8
+ Collector Necklace MK9
+ Collector Necklace MK10
+ Collector Necklace MK11
+ Collector Necklace MK12
+ Collector Necklace MK13
+ Collector Necklace MK14
+ Collector Necklace MK15
+ Final Collector Necklace
+ Power Flower Charm MK1
+ Power Flower Charm MK2
+ Power Flower Charm MK3
+ Power Flower Charm MK4
+ Power Flower Charm MK5
+ Power Flower Charm MK6
+ Power Flower Charm MK7
+ Power Flower Charm MK8
+ Power Flower Charm MK9
+ Power Flower Charm MK10
+ Power Flower Charm MK11
+ Power Flower Charm MK12
+ Power Flower Charm MK13
+ Power Flower Charm MK14
+ Power Flower Charm MK15
+ Final Power Flower Charm
+ Infinite EMC Battery
+EMC:
+Maximum Generation Rate:
+Maximum Output Rate:
+Maximum Storage:
+EMC
+EMC/s
+Stack EMC:
+Stored EMC:
+WAY TOO MUCH
+Transmutable
+ Relay MK

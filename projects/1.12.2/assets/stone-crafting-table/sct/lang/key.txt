@@ -1,0 +1,3 @@
+tile.stone_crafting_table.name
+item.stone_crafting_plate.name
+item.stone_stick.name

@@ -1,0 +1,83 @@
+Ignatius Crystals
+Shadow Iron Crystals
+Damascus Steel Crystals
+Orichalcum Crystals
+Ceruclase Crystals
+Vulcanite Crystals
+Inolashite Crystals
+Amordrine Crystals
+Zinc Crystals
+Silver Crystals
+Platinum Crystals
+Brass Crystals
+Lutetium Crystals
+Osmium Crystals
+Etherium Crystals
+Electrum Hazard Block
+Copper Hazard Block
+Bronze Hazard Block
+Manganese Hazard Block
+Tin Hazard Block
+Steel Hazard Block
+Hepatizon Hazard Block
+Prometheum Hazard Block
+Angmallen Hazard Block
+Eximite Hazard Block
+Meutoite Hazard Block
+Desichalkos Hazard Block
+Black Steel Hazard Block
+Infuscolium Hazard Block
+Carmot Hazard Block
+Astral Silver Hazard Block
+Oureclase Hazard Block
+Deep Iron Hazard Block
+Quicksilver Hazard Block
+Mithril Hazard Block
+Haderoth Hazard Block
+Atlarus Hazard Block
+Adamantine Hazard Block
+Celenegil Hazard Block
+Tartarite Hazard Block
+Rubracium Hazard Block
+Midasium Hazard Block
+Shadow Steel Hazard Block
+Lemurite Hazard Block
+Vyroxeres Hazard Block
+Kalendrite Hazard Block
+Krik Hazard Block
+Sanguinite Hazard Block
+Alduorite Hazard Block
+Ignatius Hazard Block
+Shadow Iron Hazard Block
+Damascus Steel Hazard Block
+Orichalcum Hazard Block
+Ceruclase Hazard Block
+Vulcanite Hazard Block
+Inolashite Hazard Block
+Amordrine Hazard Block
+Zinc Hazard Block
+Silver Hazard Block
+Platinum Hazard Block
+Brass Hazard Block
+Lutetium Hazard Block
+Osmium Hazard Block
+Etherium Hazard Block
+Electrum Reinforced Glass
+Copper Reinforced Glass
+Bronze Reinforced Glass
+Manganese Reinforced Glass
+Tin Reinforced Glass
+Steel Reinforced Glass
+Hepatizon Reinforced Glass
+Prometheum Reinforced Glass
+Angmallen Reinforced Glass
+Eximite Reinforced Glass
+Meutoite Reinforced Glass
+Desichalkos Reinforced Glass
+Black Steel Reinforced Glass
+Infuscolium Reinforced Glass
+Carmot Reinforced Glass
+Astral Silver Reinforced Glass
+Oureclase Reinforced Glass
+Deep Iron Reinforced Glass
+Quicksilver Reinforced Glass

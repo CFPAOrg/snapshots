@@ -1,0 +1,124 @@
+Phyllite Gravel
+Schist Gravel
+Gneiss Gravel
+Marble Gravel
+Granite Dirt
+Diorite Dirt
+Gabbro Dirt
+Shale Dirt
+Claystone Dirt
+Rocksalt Dirt
+Limestone Dirt
+Conglomerate Dirt
+Dolomite Dirt
+Chert Dirt
+Chalk Dirt
+Rhyolite Dirt
+Basalt Dirt
+Andesite Dirt
+Dacite Dirt
+Quartzite Dirt
+Slate Dirt
+Phyllite Dirt
+Schist Dirt
+Gneiss Dirt
+Marble Dirt
+Granite Grass
+Diorite Grass
+Gabbro Grass
+Shale Grass
+Claystone Grass
+Rocksalt Grass
+Limestone Grass
+Conglomerate Grass
+Dolomite Grass
+Chert Grass
+Chalk Grass
+Rhyolite Grass
+Basalt Grass
+Andesite Grass
+Dacite Grass
+Quartzite Grass
+Slate Grass
+Phyllite Grass
+Schist Grass
+Gneiss Grass
+Marble Grass
+Granite Clay Grass
+Diorite Clay Grass
+Gabbro Clay Grass
+Shale Clay Grass
+Claystone Clay Grass
+Rocksalt Clay Grass
+Limestone Clay Grass
+Conglomerate Clay Grass
+Dolomite Clay Grass
+Chert Clay Grass
+Chalk Clay Grass
+Rhyolite Clay Grass
+Basalt Clay Grass
+Andesite Clay Grass
+Dacite Clay Grass
+Quartzite Clay Grass
+Slate Clay Grass
+Phyllite Clay Grass
+Schist Clay Grass
+Gneiss Clay Grass
+Marble Clay Grass
+Granite Clay
+Diorite Clay
+Gabbro Clay
+Shale Clay
+Claystone Clay
+Rocksalt Clay
+Limestone Clay
+Conglomerate Clay
+Dolomite Clay
+Chert Clay
+Chalk Clay
+Rhyolite Clay
+Basalt Clay
+Andesite Clay
+Dacite Clay
+Quartzite Clay
+Slate Clay
+Phyllite Clay
+Schist Clay
+Gneiss Clay
+Marble Clay
+Dry Granite Grass
+Dry Diorite Grass
+Dry Gabbro Grass
+Dry Shale Grass
+Dry Claystone Grass
+Dry Rocksalt Grass
+Dry Limestone Grass
+Dry Conglomerate Grass
+Dry Dolomite Grass
+Dry Chert Grass
+Dry Chalk Grass
+Dry Rhyolite Grass
+Dry Basalt Grass
+Dry Andesite Grass
+Dry Dacite Grass
+Dry Quartzite Grass
+Dry Slate Grass
+Dry Phyllite Grass
+Dry Schist Grass
+Dry Gneiss Grass
+Dry Marble Grass
+Granite Path
+Diorite Path
+Gabbro Path
+Shale Path
+Claystone Path
+Rocksalt Path
+Limestone Path
+Conglomerate Path
+Dolomite Path
+Chert Path
+Chalk Path
+Rhyolite Path
+Basalt Path
+Andesite Path
+Dacite Path

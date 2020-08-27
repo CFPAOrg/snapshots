@@ -1,0 +1,15 @@
+tile.nether_magmite_ore.name
+tile.aluminum_block.name
+tile.silvadrium_block.name
+tile.shroomite_block.name
+tile.ore_generator.name
+tile.dye_generator.name
+item.aluminum_ingot.name
+item.silvadrium_ingot.name
+item.shroomite_ingot.name
+item.silvadrium_hammer.name
+item.shroomite_hammer.name
+item.iron_dust.name
+item.industrial_quartz.name
+item.dark_quartz.name
+itemGroup.iron_metal_stuff

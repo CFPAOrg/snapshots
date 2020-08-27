@@ -1,0 +1,15 @@
+Accept
+Set Preset
+Warning: Terrarium downloads data from the Internet!
+Various data may be required for chunk generation.
+This can lead to large data usage, depending on the chunks generated.
+Data is only requested for chunks that players view, and is then cached.
+If you are on a limited connection, please watch your data usage!
+Select World Preset
+Customize World Generation
+Preview World Generation
+Range: [%.2f-%.2f]
+Hold SHIFT to fine tune
+This feature is not currently available
+Terrarium data failures
+Failed to load %s data tiles

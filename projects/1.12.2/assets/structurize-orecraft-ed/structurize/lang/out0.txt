@@ -1,0 +1,87 @@
+Placeholderblock
+BarracksTower Placeholder
+Construction tape
+SupplyShip Chest
+SupplyCamp Chest
+Ancient Tome
+Chief Sword
+Building Tool
+Scan Tool
+Shape Tool
+Caliper
+Pick Main Block
+Pick Fill Block
+Replace Blocks
+Ignore Blocks
+Hollow
+Solid
+Point one saved: %d %d %d
+Point two saved: %d %d %d.
+That was the same point
+SCAN_%s-%s
+Scan successfully saved as %s
+Scan failed to save
+That's the same block
+That's a %s blocks %s
+by
+, direct length: %s
+line
+square
+cube
+Structurize
+structurize Config
+Huts
+Level %s
+Schematic size is too big, can not be bigger than %s bytes
+Decorations
+My schematics
+Edit Structure
+Rename Structure
+Delete Structure
+Delete Structure
+Do you want to delete %s?
+and
+Paper wall
+Oak Shingle
+Birch Shingle
+Spruce Shingle
+Jungle Shingle
+Dark Oak Shingle
+Acacia Shingle
+Shingle slab
+Shingle slab
+ Oak Plain Timber Frame
+ Oak Crossed Timber Frame
+ Oak Framed Timber Frame
+ Oak Framed Timber Frame
+ Oak Framed Timber Frame
+ Oak Left-Right Diagonal Timber Frame
+ Oak Right-Left Diagonal Timber Frame
+ Oak Framed Timber Frame
+ Oak Horizontal Timber Frame
+ Oak Horizontal Timber Frame
+ Spruce Plain Timber Frame
+ Spruce Crossed Timber Frame
+ Spruce Framed Timber Frame
+ Spruce Framed Timber Frame
+ Spruce Framed Timber Frame
+ Spruce Right-Left Diagonal Timber Frame
+ Spruce Left-Right Diagonal Timber Frame
+ Spruce Framed Timber Frame
+ Spruce Horizontal Timber Frame
+ Spruce Horizontal Timber Frame
+ Birch Plain Timber Frame
+ Birch Crossed Timber Frame
+ Birch Framed Timber Frame
+ Birch Framed Timber Frame
+ Birch Framed Timber Frame
+ Birch Right-Left Diagonal Timber Frame
+ Birch Left-Right Diagonal Timber Frame
+ Birch Framed Timber Frame
+ Birch Horizontal Timber Frame
+ Birch Horizontal Timber Frame
+ Jungle Plain Timber Frame
+ Jungle Crossed Timber Frame
+ Jungle Framed Timber Frame
+ Jungle Framed Timber Frame
+ Jungle Framed Timber Frame

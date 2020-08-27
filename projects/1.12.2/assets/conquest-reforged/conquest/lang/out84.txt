@@ -1,0 +1,110 @@
+none
+none
+none
+none
+none
+none
+none
+Yellow Hobbit Window 1 Pane
+Yellow Hobbit Window 2 Pane
+Yellow Hobbit Window 3 Pane
+Yellow Hobbit Window 4 Pane
+Yellow Hobbit Window 5 Pane
+Yellow Hobbit Window 6 Pane
+Yellow Hobbit Window 7 Pane
+Yellow Hobbit Window 8 Pane
+Wooden Pane 1 Pane
+Sindar Window Pane
+Stone Arch Window Pane
+Noldor Window Pane
+Hobbit Window 1 Pane
+Hobbit Window 2 Pane
+Hobbit Window 3 Pane
+Hobbit Window 4 Pane
+Hobbit Window 5 Pane
+Hobbit Window 6 Pane
+Hobbit Window 7 Pane
+Hobbit Window 8 Pane
+Wooden Pane 2 Pane
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Hot Coals
+Hot Coals Layer
+Magma Layer
+Marble and Sandstone Frame
+Terracotta Urn
+Climbing Rocks
+White Painted Planks Door
+Red Painted Planks Door
+Light Red Painted Planks Door
+Orange Painted Planks
+Yellow Painted Planks Door
+Green Painted Planks Door
+Light Green Painted Planks Door
+Cyan Painted Planks Door
+Dark Blue Painted Planks Door
+Weathered Blue Planks Door
+Light Blue Painted Planks Door
+Purple Painted Planks Door
+Brown Painted Planks Door
+Oak Door (No Window)
+Elven Door 1
+Elven Door 2
+Fancy Oak Door
+Reinforced Wooden Gate
+Barrel
+Big Ladder
+Wooden Board
+Wooden Full Board
+Wheel
+Light Shutters
+Dark Shutters
+Blue Shutters
+Green Shutters
+Orange Shutters
+Red Shutters
+White Shutters
+Yellow Shutters
+Light Slotted Shutters
+Dark Slotted Shutters
+White Shutters
+Wood Railing
+Straight Wood Railing
+Spruce Railing
+Straight Spruce Railing
+Birch Railing
+Straight Birch Railing
+Jungle Railing
+Straight Jungle Railing
+Acacia Railing
+Straight Acacia Railing
+Spears
+Wolf Fur Bed
+Rustic Bed
+Bear Fur Bed
+Fancy Green Bed
+Fancy White Bed
+Fancy Blue Bed
+Rustic Wooden Bed
+Empty Barrel with Grille
+Empty Barrel
+Jungle Rail
+Spruce Floor (Rail)
+Iron Cauldron with Grille
+Candelabra
+Lit Candelabra
+Iron Railing
+Straight Iron Railing
+Iron Chains (Rail)
+Black Curtains (Vine)
+Blue Curtains (Vine)
+Brown Curtains (Vine)

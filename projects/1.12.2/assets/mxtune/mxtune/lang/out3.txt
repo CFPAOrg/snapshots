@@ -1,0 +1,46 @@
+Input Enabled
+Input Disabled
+Leftside Redstone Output Toggle
+Enables or Disables Redstone Output from the Leftside.
+Outputs a single 10 tick pulse at the end of a song.
+Output Enabled
+Output Disabled
+Rightside Redstone Output Toggle
+Enables or Disables Redstone Output from the Rightside.
+Outputs a single 10 tick pulse at the end of a song.
+Output Enabled
+Output Disabled
+Sound Range Selector
+Selects the range in Blocks that music can he heard.
+[Normal]: 32 Blocks; [Infinity]: No Falloff (Only availble when enabled by a server administrator) Dependant on mod configuration "General Settings" "Listener Range" setting.
+Infinite sound range is not allowed. Ask the server administrator to enable.
+Chunk Tool
+File Selector
+Opens a staging folder. COPY MML files into this folder that you want to add to your personal in game library. This is a staging area! Do not MOVE your files here permananely!
+Only needed it the file list fails to refresh automatically after dropping MML files into the folder.
+Click the Refresh button after adding or removing files.
+MML Music Importer
+MML Music Library
+World: '%s' | Chunk( x: %s, x: %s ) '%s'
+This Chunk: x: %s, x: %s, Playlist name: %s
+Starting Chunk: x: %s, x: %s
+Ending Chunk: x: %s, x: %s
+Total Chunks to update: %s
+Playlist guid: %s
+Help: Shift-Right-Click: Open Chunk Playlist Manager, Ctrl+Right-Click: Apply Playlist to Current Chunk, Sneak+Ctrl+Right-Click: Apply Playlist to Current World
+Selected Playlist to Apply: '%s'
+Chunk Playlist update successful.
+World Playlist update successful.
+Cannot apply the '[ Empty Playlist / No Music ]' to a world.
+Playlist Manager
+Music Files  selected: %s
+Playlists
+Day List
+Night List
+Playlist Name
+Playlist Title
+Status Log
+To Day List
+To Night List
+Delete
+Double-Click Playlist Name to Select it for Applying to to a Chunk, (Hold)-Ctrl+Click to (Multi)-Select

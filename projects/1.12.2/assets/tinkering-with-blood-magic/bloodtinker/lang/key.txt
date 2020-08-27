@@ -1,0 +1,9 @@
+item.bloodtinker.blood_bronze_ingot.name
+tile.bloodtinker.blood_bronze_block.name
+fluid.bloodbronze
+material.bloodbronze.name
+modifier.soulstealer.name
+modifier.soulstealer.desc
+modifier.bloodstained_armor.name
+modifier.bloodstained_armor.desc
+item.bloodtinker.bloody_thorn_ring.name

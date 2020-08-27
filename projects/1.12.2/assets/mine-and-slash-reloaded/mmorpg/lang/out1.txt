@@ -1,0 +1,106 @@
+§eAdventure Map
+§9Adventure Map
+§6Adventure Map
+§dAdventure Map
+Player Level Up Token
+Gear Loot Bag
+Map Bag
+Currency Bag
+Newbie Gear Bag
+Mine and Slash Tutorial
+Map Leave Pearl
+Level Nearest Entity
+Level Down Nearest Entity
+Increase Rarity of Nearest Entity
+Decrease Rarity of Nearest Entity
+§cAwaken RuneWord
+§cAcid Bolt
+§cFire Bolt
+§cFrost Bolt
+§cThunder Bolt
+§cAcid Bomb
+§cFire Bomb
+§cIce Bomb
+§cThunder Bomb
+§cAcid Explosion
+§cFrost Explosion
+§cFlame Explosion
+§cLightning Explosion
+§cFrost Nova
+§cFire Nova
+§cThunder Nova
+§cPoison Nova
+§cInstant Heal
+§cRegenerate
+Regen Health
+Regen Mana
+Regen Energy
+AoE Regen
+Cleanse Poison
+Casts an elemental projectile that does AoE dmg on hit.
+Casts a Single Target elemental projectile.
+Instantly Heals the caster.
+Leaves out a bomb that explodes later for AoE Damage.
+Heals the caster over time.
+Damages everyone around you.
+Common Capacitor
+Uncommon Capacitor
+Rare Capacitor
+Epic Capacitor
+Legendary Capacitor
+Mythical Capacitor
+§cCrystal Of Legend
+§cChaos Orb
+§cCrystal Of Ascension
+§cOrb Of Blessing
+§cOrb Of Transmutation
+§cOrb Of Ever-Changing Prefix
+§cOrb Of Ever-Changing Suffix
+§cStone Of Hope
+§cUnearth Suffix
+§cUnearth Prefix
+§cOrb Of Suffix Blessing
+§cOrb Of Prefix Blessing
+§cOrb of Unique Blessing
+§cGem Of Unique Heaven
+§cResource Infusion
+§cDefense Infusion
+§cAttack Infusion
+§cWondrous Infusion Upgrade
+§cSuperior Infusion Upgrade
+§cNormal Infusion Upgrade
+Of Critical Unity
+Of Element Resist
+Of Firestorms
+Of Immortality
+Of Icestorms
+Of Critical Hits
+Of Mana Regen
+Of Earthquakes
+Of The Sage
+Of Thunderstorms
+Of Vitality
+Of Rock Skin
+Of Critical Damage
+Flame Imbued
+Lightning Imbued
+Evasive
+Thorny
+Thirst Of Flame
+Tough
+Heavenly Skin
+Nature Shield
+Energetic
+Poison Imbued
+Flaming
+Hardened
+Deep Mind
+Thirst Of Frost
+Fire Shield
+Brave Heart
+Heavenly Strikes
+Frost Imbued
+Thunder Shield
+Thirst Of Acid
+Hard Hitting
+Life Stealing

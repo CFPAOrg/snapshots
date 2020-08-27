@@ -1,0 +1,127 @@
+Vegetation and Sand Layer
+Wet Sand and Gravel Layer
+Vegetation and Wet Sand Layer
+Red Sand and Gravel Layer
+Vegetation & Red Sand Layer
+none
+White Concrete Powder Layer
+Orange Concrete Powder Layer
+Magenta Concrete Powder Layer
+Light Blue Concrete Powder Layer
+Yellow Concrete Powder Layer
+Lime Concrete Powder Layer
+Pink Concrete Powder Layer
+Gray Concrete Powder Layer
+Light Gray Concrete Powder Layer
+Cyan Concrete Powder Layer
+Purple Concrete Powder Layer
+Blue Concrete Powder Layer
+Brown Concrete Powder Layer
+Green Concrete Powder Layer
+Red Concrete Powder Layer
+Black Concrete Powder Layer
+Stones and Grass
+Forest Grass
+Forest Grass Full Block
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Grass Layer
+Forest Grass Layer
+Dirt
+Dirt Bones
+Frozen Dirt
+Dirt Gravel
+Mossy Dirt
+Light Dirt
+Light Dirt Path
+Dark Dirt Path
+Burnt Dirt
+Ants
+Taiga Forest Floor
+Zautum
+Overgrown Podzol
+Old Podzol
+Fir Forest Floor
+Mossy Rock Dirt
+Peat
+Vibrant Old Podzol
+Thick Mud
+Dark Dirt Path
+Medium Dirt Path
+Light Dirt Path
+Lothlórien Dirt
+Thick Moss
+Lichen
+Black Dirt
+Lothlórien Podzol
+Mossy Lothlórien Podzol
+Dark Soil
+Dirt with Cobblestone Border
+Dirt with Log Border
+none
+none
+none
+none
+none
+none
+none
+none
+Small Stones
+Grassy Gravel
+Grassy Small Stones
+White Gravel
+Soft Gravel
+Smooth Colored Pebbles
+Sandstone Debris
+Schist Debris
+Mossy Sandstone Debris
+Mossy Schist Debris
+none
+none
+none
+none
+none
+none
+Mud
+Muddy Dirt
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Farmland
+Farmland (Diagonally Plowed)
+Pinata
+none
+Light Brown Dry Clay Vertical Slab
+Brown Dry Clay Vertical Slab
+Dirt Bones Vertical Slab
+Frozen Dirt Vertical Slab
+Dirt Gravel Vertical Slab
+Mossy Dirt Vertical Slab
+Light Dirt Vertical Slab
+Light Dirt Path Vertical Slab
+Dark Dirt Path Vertical Slab
+Burnt Dirt Vertical Slab
+Taiga Forest Floor Vertical Slab
+Zautum Vertical Slab

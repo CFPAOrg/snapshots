@@ -1,0 +1,66 @@
+Mind Inhibitor
+ This fragmented soul can not live. But what would happen if I were to inject it into something that has a living soul?
+ I can't place it. It surpresses the behaviour of the creature, altough I can not use it on any sentient creature. I wonder what can I do with this?
+Experience Storage
+ Souls are connected to minds. (in theory) I wonder if I could use a soul to connect two minds together.
+ It sorta works. I can create a one way link that transfers knowledge between the brains. Based on this I created a device that can transfer my experiences into a jarred brain, for safe keeping. Altough, because of the decreased cognitive capacities of a zombie brain, some of the experience is lost.
+Study %1$s
+Studying %1$s can give you a deeper understanding of plants. Gain 10 Biomancy.
+Dissect %1$s
+Dissecting animals (%1$s) can give you a deeper understanding of how they work. Gain 15 Biomancy.
+Dissect remains
+Dissecting %1$s can give you a deeper understanding of their structure, even though it's a bit more gross than fresh tissue. Gain 25 Biomancy.
+Fertile
+Respiration
+Protection
+Strength
+Speed
+Spider Limbs
+Vitality
+Health Boost
+Agility
+Haste
+Productivity
+Normal
+Negation
+Status Effect Amplifier
+Enchant
+Enchant Modifier
+Thaumic Arcana
+Creature Disenchanter
+Incubated Egg
+Arcane Fertilizer
+Raw Relief
+Nutrient Mix
+Nutritious Mix
+Plant Ball
+Contains:
+Enchanting Powder
+Basic Enchanting Powder
+Advanced Enchanting Powder
+Magical Enchanting Powder
+Enchantment Modifier Powder
+Empty Soul Capsule
+Soul Capsule
+Revival Capsule
+Mind Inhibitor
+Knowledge Infuser
+Raw Slime Meat
+Slime Steak
+Neutered Flesh
+Livium Ingot
+Livium Axe
+Livium Pickaxe
+Livium Shovel
+Livium Sword
+Livium Hoe
+Slimey Axe
+Slimey Pickaxe
+Slimey Shovel
+Slimey Sword
+Slimey Hoe
+Infused Slimey Axe
+Infused Slimey Pickaxe
+Infused Slimey Shovel
+Infused Slimey Sword
+Infused Slimey Hoe

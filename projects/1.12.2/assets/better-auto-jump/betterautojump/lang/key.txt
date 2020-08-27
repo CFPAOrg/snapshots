@@ -1,0 +1,6 @@
+language.name
+language.region
+language.code
+key.betterautojump.toggle_walking
+key.categories.betterautojump
+options.betterautojump.hold

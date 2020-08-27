@@ -1,0 +1,12 @@
+tile.securedvoider.name
+advancements.voiddefeat.title
+tile.voidcollectorblock.name
+entity.voidboss.name
+item.pickaxevoid.name
+tile.voider.name
+advancements.voiddefeat.descr
+item.crystalisedvoid.name
+tile.carboncoatedvoid.name
+item.spwnbossvoid.name
+item.stone.name
+item.voidshards.name

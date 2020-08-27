@@ -1,0 +1,68 @@
+Cannot use "current" in the console! Please specify a dimension ID.
+Not enough arguments! Type "/help chpregen" in order to view usage.
+Pregen task added!
+Pregen task added!
+Pregen task already exists for dimension. Only one task may exist per dimension!
+Pregen task doesn't exist for dimension.
+Dimension doesn't exist
+/chpregen current|dimID xDiameter zDiameter [chunksPerTick, default 5] [preventJoin, default true]
+- OR -
+/chpregen current|dimID xDiameter zDiameter xStartChunk zStartChunk [chunksPerTick, default 5] [preventJoin, default true]
+- OR -
+/chpregen remove current|dimID
+There are %d (out of %d seen) invited players:
+Reloaded the invite list
+Added %s to the invite list
+Could not add %s to the invite list
+/invite add <player>
+Removed %s from the invite list
+Could not remove %s from the invite list
+/invite remove <player>
+/invite <list|add|remove|reload>
+Not enough arguments! Type "/help chkillall" in order to view usage.
+/chkillall EntityType [items, mobs, animals, all]
+Order CreeperHost Server
+General Server Info
+Server Location
+Personal Details
+Server Quote
+Order details
+Want a server?
+Click here!
+Click here to get one from CreeperHost!
+Support the modpack creator!
+Based on your requirements, we recommend a
+Tax
+SubTotal
+Total
+Discount
+Included Features
+Free Dedicated IPv4
+Unmetered slots
+Free website
+Free VoIP
+Install or switch games for free
+Monthly subscription - cancel at any
+time with 7 days notice
+VPS Features
+Figures based on you being in
+Please wait - refreshing quote
+Error occurred while fetching quote.
+Cannot find specified project on CreeperHost. If correct, wait 15!
+Promo code does not exist on CreeperHost.
+Step %s of %s
+Server Name
+Agree to Mojang EULA and pre-generate world?
+E-Mail
+Password
+First Name
+Last Name
+Address
+City
+Zip Code
+State
+Country
+Phone Number
+Logging in. Please wait
+An error occurred. Error:
+Logged in successfully. Proceed to order!

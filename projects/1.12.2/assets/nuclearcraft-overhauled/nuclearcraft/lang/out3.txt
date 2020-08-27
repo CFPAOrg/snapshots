@@ -1,0 +1,61 @@
+Quartz Fission Heat Sink
+Obsidian Fission Heat Sink
+Nether Brick Fission Heat Sink
+Glowstone Fission Heat Sink
+Lapis Fission Heat Sink
+Gold Fission Heat Sink
+Prismarine Fission Heat Sink
+Slime Fission Heat Sink
+End Stone Fission Heat Sink
+Purpur Fission Heat Sink
+Diamond Fission Heat Sink
+Emerald Fission Heat Sink
+Copper Fission Heat Sink
+Tin Fission Heat Sink
+Lead Fission Heat Sink
+Boron Fission Heat Sink
+Lithium Fission Heat Sink
+Magnesium Fission Heat Sink
+Manganese Fission Heat Sink
+Aluminum Fission Heat Sink
+Silver Fission Heat Sink
+Fluorite Fission Heat Sink
+Villiaumite Fission Heat Sink
+Carobbiite Fission Heat Sink
+Arsenic Fission Heat Sink
+Liquid Nitrogen Fission Heat Sink
+Liquid Helium Fission Heat Sink
+Enderium Fission Heat Sink
+Cryotheum Fission Heat Sink
+Cooling Rate:
+Molten Salt Fission Controller
+Molten Salt Fission Fuel Vessel
+Where the molten salt nuclear fuel fissions and depletes. Place against another vessel while sneaking to copy across its side configuration.
+Standard Fission Coolant Heater
+Iron Fission Coolant Heater
+Redstone Fission Coolant Heater
+Quartz Fission Coolant Heater
+Obsidian Fission Coolant Heater
+Nether Brick Fission Coolant Heater
+Glowstone Fission Coolant Heater
+Lapis Fission Coolant Heater
+Gold Fission Coolant Heater
+Prismarine Fission Coolant Heater
+Slime Fission Coolant Heater
+End Stone Fission Coolant Heater
+Purpur Fission Coolant Heater
+Diamond Fission Coolant Heater
+Emerald Fission Coolant Heater
+Copper Fission Coolant Heater
+Tin Fission Coolant Heater
+Lead Fission Coolant Heater
+Boron Fission Coolant Heater
+Lithium Fission Coolant Heater
+Magnesium Fission Coolant Heater
+Manganese Fission Coolant Heater
+Aluminum Fission Coolant Heater
+Silver Fission Coolant Heater
+Fluorite Fission Coolant Heater
+Villiaumite Fission Coolant Heater
+Carobbiite Fission Coolant Heater
+Arsenic Fission Coolant Heater

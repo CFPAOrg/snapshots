@@ -1,0 +1,11 @@
+item.shovel.name
+item.ingot.name
+item.obsidianarmourhelmet.name
+item.obsidianarmourbody.name
+item.obsidianarmourboots.name
+item.sword.name
+item.obsidianarmourlegs.name
+itemGroup.tabcreativetools
+item.axe.name
+item.hoe.name
+item.pickaxe.name

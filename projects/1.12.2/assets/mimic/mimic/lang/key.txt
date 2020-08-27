@@ -1,0 +1,5 @@
+tile.MimicChest.name
+tile.mimicchest.name
+entity.mimic.name
+entity.mimicmob.name
+entity.undeadpumpkin.name

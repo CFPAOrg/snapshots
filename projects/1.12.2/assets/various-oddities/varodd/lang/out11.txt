@@ -1,0 +1,88 @@
+Lingering Potion of Fall Resistance
+Lingering Potion of Fire Resistance
+Lingering Potion of Magic Immunity
+Lingering Potion of Magic Resistance
+Lingering Potion of Petrification
+Lingering Potion of Silencing
+Lingering Potion of Swim Boost
+Lingering Potion of Wither Immunity
+Lingering Potion of Wither Resistance
+Lingering Potion of Arcane Sight
+Lingering Potion of Arrow Resistance
+Lingering Potion of Climbing
+Lingering Potion of Fall Resistance
+Lingering Potion of Fire Resistance
+Lingering Potion of Magic Resistance
+Lingering Potion of Swim Boost
+Lingering Potion of Wither Resistance
+Arrow of Anchoring
+Arrow of Arcane Sight
+Arrow of Arrow Resistance
+Arrow of Arrow Immunity
+Arrow of Climbing
+Arrow of Deafened
+Arrow of Entangled
+Arrow of Fall Immunity
+Arrow of Fall Resistance
+Arrow of Fire Resistance
+Arrow of Magic Immunity
+Arrow of Magic Resistance
+Arrow of Petrification
+Arrow of Silencing
+Arrow of Swim Boost
+Arrow of Wither Immunity
+Arrow of Wither Resistance
+Arrow of Anchoring
+Arrow of Arcane Sight
+Arrow of Arrow Resistance
+Arrow of Arrow Immunity
+Arrow of Climbing
+Arrow of Deafened
+Arrow of Entangled
+Arrow of Fall Immunity
+Arrow of Fall Resistance
+Arrow of Fire Resistance
+Arrow of Magic Immunity
+Arrow of Magic Resistance
+Arrow of Petrification
+Arrow of Silencing
+Arrow of Swim Boost
+Arrow of Wither Immunity
+Arrow of Wither Resistance
+Arrow of Arcane Sight
+Arrow of Arrow Resistance
+Arrow of Climbing
+Arrow of Fall Resistance
+Arrow of Fire Resistance
+Arrow of Magic Resistance
+Arrow of Swim Boost
+Arrow of Wither Resistance
+Spawn Type
+Challenge Rating
+Gameplay Options
+Aesthetic Options
+No options available
+Can wear armor
+Can hold item(s)
+Can be ridden
+Humanoid
+Has display option(s)
+Ageable
+Boss creature
+Yes
+No
+Oddity not found
+Timer "%s" completed
+Sneak for more details
+Coinage
+Trading
+Close
+Index
+Mobs
+%s (%s)
+No Types
+%s
+(%s)
+Lore
+Players
+%s (%s)

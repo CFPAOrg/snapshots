@@ -1,0 +1,4 @@
+item.scl.key.name
+item.scl.ender_key.name
+chat.scl.renameKey
+chat.scl.accessDenied

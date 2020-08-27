@@ -1,0 +1,30 @@
+Steal armor
+Should foxes be able to steal armor as well as held items?
+Stealing enabled
+Is item stealing enabled?
+Entities blacklist
+List of entities that foxes should be disallowed from stealing items from.
+Entities blacklist is whitelist
+Use "entities blacklist" as a whitelist instead?
+Items blacklist
+List of items that foxes should be disallowed from stealing.
+Items blacklist is whitelist
+Use "items blacklist" as a whitelist instead?
+Maximum damage
+The maximum percent damage a stolen item will be dealt. Set to 0 to disable.
+Minimum damage
+The minimum percent damage a stolen item will be dealt.
+Minumum health
+The minimum health the fox must have to attempt a steal.
+Steal from players
+Should foxes be able to steal from players?
+Block state tags
+The block state properties that a search must match to succeed.
+Taming odds
+Each raw rabbit has a one-in-this chance of taming a fox.
+Fox
+Fox trills
+Fox sniffs
+Fox steals
+Fox hurts
+Fox dies

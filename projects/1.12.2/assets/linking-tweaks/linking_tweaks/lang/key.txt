@@ -1,0 +1,9 @@
+linking_tweaks.fissure_drop
+linking_tweaks.fissure_drop.enabled
+linking_tweaks.fissure_drop.height
+linking_tweaks.fissure_drop.fall_safety_hearts
+linking_tweaks.fissure_drop.fall_safety_type
+linking_tweaks.enum.normal_damage
+linking_tweaks.enum.no_damage
+linking_tweaks.enum.hearts_left
+linking_tweaks.enum.hearts_taken

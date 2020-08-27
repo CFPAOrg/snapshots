@@ -1,0 +1,11 @@
+Skycrates
+The actual logistic lines!
+The skycrate system is a different approach on delivering items. It's speed is superior to any conveyor and lines made of rope are much cheaper and more space-efficient. There are also some drawbacks to it: it requires stations on both sides and the crates need to be inserted to a minecart. Skycrates are a better option than conveyors on longer distances, it is not encouraged to use them on short (0-30m) distances.
+The Skycrate Station is a begin and end point of a skycrate line. To form it use a hammer on the scaffolding in the middle. To function, it requires rotary power inputted to its side. The amount of gears increase its efficiency similar to how it works with the <link;rotary_power3;§o§nGearboxes§r;>.
+The station uses mounts to attach the skycrates, the mounts are taken from the back, behind the inserter. Minecarts can only enter the station when the railway barrier is up, a minecart can be forced out of the station, by applying a redstone signal. The station will automatically expell minecarts after loading/unloading.
+The Skycrate Post is what a relay between two points in the skycrate network. Only two wires can be attached. To form it use a hammer on the fence.
+Crate minecarts are a safe way to transport items via rail. They can be crafted by putting a crate into a minecart, items inside won't be lost. When disassembled, the minecart splits into the actual cart and the crate.
+The skycrate mounts are used to transport crates via the zipline, there are two models: the basic one and the electric one, which uses energy provided on the go by <link;tesla_coil;§o§nTesla §o§nCoils§r;> nearby.
+Sawmill
+The better fidget spinner!
+The Sawmill is an automatic carpentry machine powered by rotary energy. It consists of a table, a mechanical inserter and saw mount. To form the multiblock, use a hammer on the middle wooden scaffolding.

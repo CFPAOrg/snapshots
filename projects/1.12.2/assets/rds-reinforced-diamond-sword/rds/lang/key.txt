@@ -1,0 +1,7 @@
+item.ReinforcedWoodSword.name
+item.ReinforcedStoneSword.name
+item.ReinforcedGoldSword.name
+item.ReinforcedIronSword.name
+item.ReinforcedDiamondSword.name
+item.Mjolnir.name
+itemGroup.ReinforcedDiamondSword

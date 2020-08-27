@@ -1,0 +1,14 @@
+drpcore.keyBinding.openPurse
+drpcore.keyBinding.openCrafting
+drpcore.keyBinding.openInventory
+drpcore.keyBinding.placement_preview
+drpcore.tutorial.crafting.title
+drpcore.tutorial.crafting.desc
+drpcore.util.modName
+drpcore.update.newVersionAvailable
+drpcore.update.currentVersion
+drpcore.update.latestVersion
+drpcore.update.openDownload
+drpcore.update.openChangelog
+drpcore.crafting.freeCrafting
+crafting.defaultCategory.name

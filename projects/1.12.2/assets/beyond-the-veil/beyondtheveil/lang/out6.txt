@@ -1,0 +1,38 @@
+§oWhen me was a y'ung lad, me pa' told me tales o' the sea an' its dwellars. Ye know, thar's things down thar..
+§oThings.. horrid, indescribable things..
+§oI'm thi'sty. Got some more coin on ye?
+§oHmm mhh, hadn't had this good'a drink in years -hic- my bad.
+§oAye, horrid things.. and me mates here.. they adore 'em. Trade with 'em. Some e'en mate with 'em.
+§oAnd then they dream...
+§oHey, I 'now I shudn't be askin', but.. y'know the drill. Fetch me a drink.
+§oAh, mebbe I'm havin' too much -hic- apologies.
+§oThe.. things, they gav' us fish.. an' gold! But not fur nuthin', nuh huh.
+§oI ain't never killed nobody, no, but my mates.. eh.
+§oMood's low, dunno why. I say we drown it wit'another drink!
+§5§o-hic- I shudn't be sayin' all this -hic-
+§5§oBut had we chos'n moar tradit'onal gods, then me ma' and me pa' wudn't have been kill'd, I say.
+§5§oKilled by outsiders, sech as ye. Massacred, more like.
+§5§o'nother!
+§5§oWel, gud luck ye brought upon ye! Our gods, they's real!
+§5§oThe things frum the deeps, they protect us!
+§5§oThey give us food! An' gold!
+§5§oThey AVENGE us!
+§5§oAn' if ye dun't like it, then ye either leave, or.. or do as I did..
+§5§oYou.. you join us..
+I.. enuff with the alc'hol, had enuff.
+...
+{Hmph. }We don't appreciate outsiders coming here, but if you really need to, I won't deny you a single night's rest. There are beds up above.
+Don't mind the one in the red suit. He's a drunken fool, and spits out lies like no tomorrow.
+Hey, there are beds up above if you need some rest.
+Want a drink? Just ask. First one's on the house.
+Thanks:I'll take it.
+Not now,:thanks.
+There you go, finest quality rum you'll find.
+Enjoy your stay.
+{Hmm, hmm. }:Greetings.
+Got n'thing to say to ye.
+Wanna buy an'thing?
+Wanna buy an'th[... | :... | :...]| ask.
+How do:you fish?
+Me? I don't fish. |:Me mates, they use me canoes.
+What're the:canoes for?

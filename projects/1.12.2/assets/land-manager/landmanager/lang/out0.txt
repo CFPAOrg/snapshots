@@ -1,0 +1,59 @@
+Land Manager
+Area Creation Tool
+First position not set
+Dim Id: %d, BlockPos: %s
+Home Block
+Saved block position %d, %d, %d
+Cannot form area with two positions in different dimensions!
+Cleared saved position
+Added area '%s'
+An area with the name %s already exists!
+New area intersects with an existing area!
+Area name is invalid! It must not contain spaces or special characters other than '_'
+Area is invalid!
+Now showing all nearby areas
+Turned off showing all nearby areas
+Cannot break blocks in this area!
+Cannot place blocks in this area!
+Cannot interact with blocks in this area!
+This Home Block is not within an area!
+You are not a member of this area!
+You can't join any more areas! You are a member of %s areas.
+You do not have permission to edit this area
+Can't find the player '%s'
+Can't find the player
+The player '%s' can't join any more areas
+The player %s is already a member of this area
+True
+False
+Use "/lm <subcommand>"
+Couldn't find area '%s'
+Could not find player %s
+You need to be a player to use this command
+No area name provided!
+Failed to get areas from the world with dimension id %s
+Failed to get requests data
+Page: %s
+You do not have permission to edit the area '%s'!
+You are not standing in an area!
+Use "/lm area <areaName>" to see details about the area
+None
+Area Name:
+Dimension ID:
+Owner:
+Members:
+Block Pos Min:
+Block Pos Max:
+Can Passive Entities Spawn:
+Can Hostile Entities Spawn:
+Explosions:
+Block Interactions:
+Use "/lm areas [page] [areaNameRegex]" to list all the areas, optionally with a regex filter
+No areas found
+Areas - Page %s / %s
+Use "/lm claim [areaName]" to claim an area. Providing no area will try claiming the area you're standing in
+Area claiming is not enabled! Ask an OP to allocate you an area.
+Area %s claimed
+Someone already owns area %s
+Claim request successfully created for area %s
+Claim request failed - you already have one for the area %s!

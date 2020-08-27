@@ -1,0 +1,81 @@
+Basic Herbs
+Epic Herbs
+Magic Watering Can
+Leatherleaf
+Dried Leatherleaf
+Munchclover
+Mixed Spice Leafs
+Dried Spices
+Powdered Dried Spices
+Humongous Wardleaf
+Mysterious Seed
+SilkRoot
+Totem Carving Knife
+Totemic Energy
+ToteMeter
+Elemental Invocator Totem
+Sawdust
+Mortar and Pestle
+Air Elemental
+Earth Elemental
+Fire Elemental
+Water Elemental
+Wind Gust Invocation
+Wind Walker Invocation
+Explosive Invocation
+Bridge Invocation
+Harvesting Invocation
+Wall Shield Invocation
+Large Fireball Invocation
+Blazing Invocation
+Flare Invocation
+Freezing Invocation
+Cool Water Splash Invocation
+Bubble Beam Invocation
+Carved Wood
+Enchanted Wood
+Reïnforced Wood
+Smooth Carved Wood
+Burning Totem
+Breaker Totem
+Sheep Painter Totem
+Builder Totem
+Very Hungry Totem
+Cruncher Totem
+Cooker Totem
+Farmer Totem
+Writer Totem
+Cobbestone Generater Totem
+Bonsai Farmer Totem
+Fishy Totem
+Dense Grass
+Leatherleaf Plant
+Rotorpetals Plant
+Poison Heart
+Spice Leafs Plant
+Humongous Wardleaf Plant
+Munchclover Plant
+Bean Stalk
+Wardleaf Block
+Prairie Grass
+Silkroot Plant
+SilkTouchModifeir
+Luck of the Sea Modifier (not yet active)
+Luck of the Sea Modifier (lvl I )
+Luck of the Sea Modifier (lvl II )
+Luck of the Sea Modifier (lvl III )
+PlantsCutter Modifier
+Ruïn Bricks
+Ruïn Slab
+Ruïn Stairs
+Ruïn Pillar
+Ruïn Puzzle
+Earthstone
+Burns any fuel you drop nearby. Produces energy equal to the amount of ticks the fuel can burn.
+Breaks blocks in front of him. Operation consumes 10 energy.
+Paints sheeps in a 9x9 radius. Doesn't consume any energy.
+Builds the blocks you drop nearby. Operation consumes 10 energy.
+Eats any food you drop nearby. Produced energy is the nutrition value of the food multiply by 100.
+Crunches blocks in front of him into smaller pieces. Operation consumes 20 energy.
+Cooks your items like a furnace would do. Operation consumes 200 energy.
+Farms crops in a 7x7 area. Operation consumes 80 energy.

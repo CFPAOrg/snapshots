@@ -1,0 +1,3 @@
+tile.raincontrol.rainblock.name
+tile.raincontrol.generator.name
+tile.raincontrol.sensor.name

@@ -1,0 +1,105 @@
+Cyan Terracotta Slab
+Light Blue Terracotta Slab
+Light Gray Terracotta Slab
+Red Terracotta Slab
+Orange Terracotta Slab
+Yellow Terracotta Slab
+Magenta Terracotta Slab
+Pink Terracotta Slab
+Purple Terracotta Slab
+Lime Terracotta Slab
+Green Terracotta Slab
+Blue Terracotta Slab
+Brown Terracotta Slab
+Black Terracotta Slab
+White Terracotta Slab
+Gray Terracotta Slab
+Melted Chocolate
+Night Vision
+Uneffectable
+Ruby Mod Blocks
+Ruby Mod Tools
+Ruby Mod Combat
+Ruby Mod Food
+Ruby Mod Miscellaneous
+Ruby Mod TY!
+N.J.A.R.M.
+Experience Ore
+Nether Experience Ore
+Ender Experience Ore
+Highland Coo
+Chocolate Cow
+Brown Mooshroom
+Obsidian Shard
+Magic Infused Ruby
+Sunstone
+Magic Infused End Stone
+Sap
+Jack o'Lantern
+Magic Infused Arrow
+Muddy Pig
+Bloomshroom
+Celebration Creeper
+Fire Skeleton
+Enderman Skeleton
+Tarantula
+Fire Creeper
+TNT Creeper
+Lapis Lazuli Chicken
+Blestem
+Camel
+Red Dragon
+Moobloom
+Moobloom
+Obsidian Tipped Arrow
+Dynamite
+Light Arrow
+Mummy
+Ice Miner
+Ice Bridge
+Slingshot Amo
+Fireball
+Cluckshroom
+Cluckshroom
+Sacred Oak Crafting Table
+Cherry Crafting Table
+Umbran Crafting Table
+Fir Crafting Table
+Ethereal Crafting Table
+Magic Crafting Table
+Mangrove Crafting Table
+Palm Crafting Table
+Redwood Crafting Table
+Willow Crafting Table
+Pine Crafting Table
+Hellbark Crafting Table
+Jacaranda Crafting Table
+Mahogany Crafting Table
+Ebony Crafting Table
+Eucalyptus Crafting Table
+Sacred Oak Bookshelf
+Cherry Bookshelf
+Umbran Bookshelf
+Fir Bookshelf
+Ethereal Bookshelf
+Magic Bookshelf
+Mangrove Bookshelf
+Palm Bookshelf
+Redwood Bookshelf
+Willow Bookshelf
+Pine Bookshelf
+Hellbark Bookshelf
+Jacaranda Bookshelf
+Mahogany Bookshelf
+Ebony Bookshelf
+Eucalyptus Bookshelf
+Compressed White Sandstone
+Cracked Compressed White Sandstone
+Compressed White Sandstone Slab
+Cracked Compressed White Sandstone Slab
+Slab of Amethyst
+Slab of Ruby
+Slab of Topaz
+Slab of Peridot
+Slab of Tanzanite
+Slab of Malachite

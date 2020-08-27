@@ -1,0 +1,14 @@
+item.demon_moa_egg.name
+item.chartreuse_moa_egg.name
+item.aqua_moa_egg.name
+item.pink_moa_egg.name
+item.neptune_moa_egg.name
+item.withered_moa_egg.name
+item.violet_moa_egg.name
+lore.aether_legacy.demon_moa_egg
+lore.aether_legacy.chartreuse_moa_egg
+lore.aether_legacy.aqua_moa_egg
+lore.aether_legacy.pink_moa_egg
+lore.aether_legacy.neptune_moa_egg
+lore.aether_legacy.withered_moa_egg
+lore.aether_legacy.violet_moa_egg

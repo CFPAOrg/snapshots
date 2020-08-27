@@ -1,0 +1,17 @@
+item.mcpaint.brush.name
+item.mcpaint.stamp.name
+tile.mcpaint.canvas.name
+mcpaint.tooltip.stamp.paint
+mcpaint.tooltip.stamp.nopaint
+mcpaint.gui.pencil
+mcpaint.gui.fill
+mcpaint.gui.eraser
+mcpaint.gui.pick_color
+mcpaint.gui.undo
+mcpaint.gui.redo
+mcpaint.gui.red
+mcpaint.gui.green
+mcpaint.gui.blue
+mcpaint.gui.alpha
+mcpaint.gui.rright
+mcpaint.gui.rleft

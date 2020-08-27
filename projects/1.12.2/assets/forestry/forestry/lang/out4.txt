@@ -1,0 +1,49 @@
+Use all the fuels!
+After some time, the Habitat Locator will point straight to the nearest suitable biome. When found, the indicator will spin.
+Habitat Locator 101!
+Many different kinds of foods can be made from honey and other bee products.
+Grab foodstuff!
+Peat can be farmed in automatic peat bogs, but when you start out, you might want to try harvesting a bit of peat by hand.
+No Bog Needed!
+Given the correct ingredients, your moistener can also create mossy cobblestone or mossy stone bricks.
+Want some mossy cobble?
+Machines of this type do not require any power to operate.
+No power required
+Bog earth directly adjacent to water will mature to peat. Use a shovel to harvest it.
+Harvest Peat!
+If you are stuck with remaining liquid in a machine's tank, you can click the tank with a pipette to empty it.
+Empty tanks with the pipette
+Sending letters costs stamps. To a base fee of 1n, every attachment adds another 1n of cost.
+Pay the Ferryman
+Even an unpowered raintank will collect rain. However to bottle the water, energy from an engine is required.
+Bottling Requires Energy!
+Your fermenter can not only create biomass, you can also use honeydew and liquid honey to make some short mead.
+Get your energy drink!
+Ash can be used to create fertilizer and is required to refine bituminous peat.
+Use your ash!
+Crated %s
+Crate with unknown content
+No
+HIGHEST
+HIGHER
+HIGH
+NORMAL
+LOW
+LOWEST
+It is impossible to decipher the washed out scribbles.
+The note has become unreadable and is worthless.
+§aSpecies researched!
+§e'%1$s'§7 (%2$s)
+§aMutation discovered!
+§e'%SPEC1'§7 and §e'%SPEC2'§7.
+Chance for success is §9%s§7.
+New species is §d'%s'§7.
+Occurs within a %s biome.
+Occurs within biomes like: %s
+During the day.
+During the night.
+Requires humidity between %LOW and %HIGH.
+Requires %s humidity.
+Requires temperature between %LOW and %HIGH.
+Requires %s temperature.
+Requires %s as a foundation.

@@ -1,0 +1,57 @@
+Connector Highway Floor <> Avenue - Highway Floor West [] Avenue East
+Connector Highway <> Highway Floor - Highway East [] Highway Floor West
+Connector Highway <> Highway Floor - Highway North [] Highway Floor South
+Connector Highway <> Highway Floor - Highway South [] Highway Floor North
+Connector Highway <> Highway Floor - Highway West [] Highway Floor East
+Big East
+Big North
+Big South
+Big West
+Side 1-Corner North-East
+Side 1-Corner North-West
+Side 1-Corner South-East
+Side 1-Corner South-West
+Side 2-Corner Crane East
+Side 2-Corner Crane North
+Side 2-Corner Crane South
+Side 2-Corner Crane West
+Side 2-Corner East
+Side 2-Corner North
+Side 2-Corner South
+Side 2-Corner West
+Side 3-Corner NorthEast-NorthWest-SouthEast
+Side 3-Corner NorthEast-NorthWest-SouthWest
+Side 3-Corner NorthEast-SouthEast-SouthWest
+Side 3-Corner NorthWest-SouthEast-SouthWest
+Small East
+Small North
+Small South
+Small West
+Highway 0,5 East-West-North-side
+Highway 0,5 East-West-South-side
+Highway 0,5 North-South-East-side
+Highway 0,5 North-South-West-side
+Highway 1 East-West
+Highway 1 North-South
+Highway 2 East-West
+Highway 2 North-South
+Highway Driveway East-West-East-side
+Highway Driveway East-West-West-side
+Highway Driveway & Exit East-West-East-side
+Highway Driveway & Exit East-West-West-side
+Highway Driveway & Exit North-South-North-side
+Highway Driveway & Exit North-South-South-side
+Highway Driveway North-South-North-side
+Highway Driveway North-South-South-side
+Highway Exit East-West-East-side
+Highway Exit East-West-West-side
+Highway Exit North-South-North-side
+Highway Exit North-South-South-side
+Highway Floor 0,5 East-West-North-side
+Highway Floor 0,5 East-West-South-side
+Highway Floor 0,5 North-South-East-side
+Highway Floor 0,5 North-South-West-side
+Highway Floor 1 East-West
+Highway Floor 1 North-South
+Highway Floor 2 East-West
+Highway Floor 2 North-South

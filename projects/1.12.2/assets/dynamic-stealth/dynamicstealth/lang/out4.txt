@@ -1,0 +1,23 @@
+State-Colored Reticle
+FILLSCREEN FIXNEWLINES If true, the targeting reticle is drawn in a color pertaining to the target's current state\n \n
+Reticle Spacing
+FILLSCREEN FIXNEWLINES How far the parts of the targeting reticle are from the center\n \n
+Reticle Size
+FILLSCREEN FIXNEWLINES The size of the reticle parts\n \n
+Text Opacity
+FILLSCREEN FIXNEWLINES How visible the text of the targeting HUD is, transparency-wise\n\n0 means invisible, 1 means completely opaque\n \n
+Default Text Color
+FILLSCREEN FIXNEWLINES The color of the targeting HUD text, if state-colored text is false\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+State-Colored Text
+FILLSCREEN FIXNEWLINES If true, the targeting HUD text is drawn in a color pertaining to the target's current state\n \n
+Text Scale
+FILLSCREEN FIXNEWLINES The scale of the text for the targeting HUD\n \n
+Arrow Opacity
+FILLSCREEN FIXNEWLINES How visible the directional indicator for the main target is, transparency-wise\nThis arrow is only visible when the current target is off-screen\n\n0 means invisible, 1 means completely opaque\n \n
+Default Arrow Color
+FILLSCREEN FIXNEWLINES The color of the directional indicator for the main target, if state-colored arrow is false\nThis arrow is only visible when the current target is off-screen\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+State-Colored Arrow
+FILLSCREEN FIXNEWLINES If true, the directional indicator for the main target is drawn in a color pertaining to the target's current state\nThis arrow is only visible when the current target is off-screen\n \n
+Arrow Size
+FILLSCREEN FIXNEWLINES The size of the directional indicator for the main target\nThis arrow is only visible when the current target is off-screen\n \n
+Components

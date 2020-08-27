@@ -1,0 +1,4 @@
+itemGroup.refinedstoragerequestify
+block.refinedstoragerequestify:requester.name
+button.refinedstoragerequestify:requester.save
+tooltip.refinedstoragerequestify:requester.missing

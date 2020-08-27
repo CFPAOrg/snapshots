@@ -1,0 +1,13 @@
+itemGroup.tabzizzysgunsv2
+item.asiimov.name
+item.shotgunshells.name
+item.bullets.name
+item.assasinsniper.name
+item.dracoo.name
+item.liluzi.name
+item.itemrepresentingbullet.name
+item.raygun.name
+item.raygunammo.name
+item.drumshotyty.name
+item.colt1911.name
+item.sniperbullet.name

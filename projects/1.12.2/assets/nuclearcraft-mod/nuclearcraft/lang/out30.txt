@@ -1,0 +1,30 @@
+Neutron Radiation Reach
+*Only effects new mechanics.* Maximum number of moderator blocks that can be between two cells for neutron radiation to be shared between them and their efficiency to increase.
+Thorium Fuel Durations
+Base ticks the fuels last. Order: TBU, TBU Oxide.
+Thorium Power Gen
+Base RF/t the fuels produce. Order: TBU, TBU Oxide.
+Thorium Heat Gen
+Base heat the fuels produce. Order: TBU, TBU Oxide.
+Thorium Radiation
+Base radiation the fuels produce while processing. Order: TBU, TBU Oxide.
+Uranium Fuel Durations
+Base ticks the fuels last. Order: LEU-233, LEU-233 Oxide, HEU-233, HEU-233 Oxide, LEU-235, LEU-235 Oxide, HEU-235, HEU-235 Oxide.
+Uranium Power Gen
+Base RF/t the fuels produce. Order: LEU-233, LEU-233 Oxide, HEU-233, HEU-233 Oxide, LEU-235, LEU-235 Oxide, HEU-235, HEU-235 Oxide.
+Uranium Heat Gen
+Base heat the fuels produce. Order: LEU-233, LEU-233 Oxide, HEU-233, HEU-233 Oxide, LEU-235, LEU-235 Oxide, HEU-235, HEU-235 Oxide.
+Uranium Radiation
+Base radiation the fuels produce while processing. Order: LEU-233, LEU-233 Oxide, HEU-233, HEU-233 Oxide, LEU-235, LEU-235 Oxide, HEU-235, HEU-235 Oxide.
+Neptunium Fuel Durations
+Base ticks the fuels last. Order: LEN-236, LEN-236 Oxide, HEN-236, HEN-236 Oxide.
+Neptunium Power Gen
+Base RF/t the fuels produce. Order: LEN-236, LEN-236 Oxide, HEN-236, HEN-236 Oxide.
+Neptunium Heat Gen
+Base heat the fuels produce. Order: LEN-236, LEN-236 Oxide, HEN-236, HEN-236 Oxide.
+Neptunium Radiation
+Base radiation the fuels produce while processing. Order: LEN-236, LEN-236 Oxide, HEN-236, HEN-236 Oxide.
+Plutonium Fuel Durations
+Base ticks the fuels last. Order: LEP-239, LEP-239 Oxide, HEP-239, HEP-239 Oxide, LEP-241, LEP-241 Oxide, HEP-241, HEP-241 Oxide.
+Plutonium Power Gen
+Base RF/t the fuels produce. Order: LEP-239, LEP-239 Oxide, HEP-239, HEP-239 Oxide, LEP-241, LEP-241 Oxide, HEP-241, HEP-241 Oxide.

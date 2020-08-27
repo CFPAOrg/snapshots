@@ -1,0 +1,74 @@
+Steel Leggings
+Steel Boots
+Osmium Helmet
+Osmium Chestplate
+Osmium Leggings
+Osmium Boots
+Dwarf Apple
+Amethyst Ring
+Dwarf Apple
+Steel Block
+Ruby Block
+Ruby Ore
+Amethyst
+Braunite Block
+Braunite Ore
+Amber Ore
+Cinnibar Ore
+Cobalt Ore
+Copper Ore
+Fossil
+Jade Ore
+Lead Ore
+Luminite Ore
+Mythrill Ore
+Nickel Ore
+Opal Ore
+Osmium Ore
+Platinum Ore
+Saphire Ore
+Silver Ore
+Tin Ore
+Titanium Ore
+Tungsten Ore
+Uranium Ore
+Meteorite
+Compressed Fossil
+Amber Block
+Cinnibar Block
+Cobalt Block
+Copper Block
+Jade Block
+Lead Block
+Luminite Block
+Mythrill Block
+Nickel Block
+Opal Block
+Osmium Block
+Platinum Block
+Saphire Block
+Silver Block
+Tin Block
+Titanium Block
+Tungsten Block
+Uranium Block
+Dwarf Apple Log
+Dwarf Apple Leaves
+Dwarf Apple Sapling
+Dwarf Planks
+Aluminium Hammer
+Aluminium Axe
+Aluminium Sword
+Aluminium Pickaxe
+Aluminium Shovel
+Aluminium Hoe
+Aluminium Boots
+Aluminium Leggings
+Aluminium Chestplate
+Aluminium Helmet
+Aluminium Block
+Aluminium Ore
+Just Another Ruby Mod!
+Custom Dimension ID's (requires restart)
+Just Another Ruby Mod!
+Mine some rubies!

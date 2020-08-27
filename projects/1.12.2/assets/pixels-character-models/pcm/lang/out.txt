@@ -1,0 +1,47 @@
+Pixels Character Models
+Character Menu
+Animation 1
+Animation 2
+Animation 3
+Animation 4
+Animation 5
+Presets
+Editor
+Animation
+Add
+Remove
+Use
+Set
+Create
+Edit
+AnimKey1
+AnimKey2
+AnimKey3
+AnimKey4
+AnimKey5
+Update
+Version
+Parts
+Animations
+Skin
+Elytra
+Normal
+Defualt
+Hide
+Show
+URL
+Arm Type
+Global Scale
+Scale
+Position
+Looking
+Swing
+X
+Slim
+PCM Config
+Enable bannable
+Maximum scale
+Minimum scale
+Enable collision box
+Enable eye height
+Collision based eye height

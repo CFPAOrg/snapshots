@@ -1,0 +1,102 @@
+Excalibur?
+testblock
+Second Grilled Bricks
+Block of Copper
+Block of Lead
+Block of Nickel
+Block of Tin
+Block of Centerl
+Block of Silver
+Block of Ruby
+Block of Sapphire
+Block of Realite
+Block of Fictnium
+Copper Ore
+Lead Ore
+Nickel Ore
+Tin Ore
+Silver Ore
+Ruby Ore
+Sapphire Ore
+Realite Ore
+Fictnium Ore
+Centerl Ore
+Big Egg
+Leather String Block
+Leather Block
+Permafrost Grass
+Permafrost
+Clear Glass
+Copper Factory Block
+Iron Factory Block
+Tin Factory Block
+Lead Factory Block
+Nickel Factory Block
+Gold Factory Block
+Diamond Factory Block
+Emerald Factory Block
+Redstone Factory Block
+Quartz Factory Block
+Coal Factory Block
+Lapis Factory Block
+Ruby Factory Block
+Sapphire Factory Block
+Centerl Factory Block
+Silver Factory Block
+Wild Tea Seedlings
+Tea Flower Block
+Otyacraft
+§aFor the first time added item in otyacraft
+Soil:%s
+This item is not consumed by craft
+Unused or not implemented
+Please single craft!
+Otyacraft
+Not only for tea
+Hello Otyacraft!!
+Acquire tea leaves
+You burn it?
+Burn bricks
+Tea plantation
+Planting tea
+I want good GPU!
+Acquire radeon vii
+Industrialization
+Craft gear
+The first pickaxe
+Craft Second Grilled Brick Pickaxe
+koppar?kappar?
+Acquire copper ingot
+titanium.
+Acquire tin ingot
+raedkami?
+Acquire lead ingot
+Other MOD balance collapse
+Acquire nickel ingot
+I do not really need this
+Acquire Radeon Pro v340
+Next pickaxe
+Craft copper or tin or lead or nikel Pickaxe
+This is inmni... No it is wrong
+Acquire centerl ingot
+Assassination measures
+Acquire silver ingot
+Red stone?
+Acquire ruby
+Shining blue
+Acquire sapphire
+More pickaxe
+Craft ruby or sapphire or centerl or silver Pickaxe
+Why! Not melt
+Acquire permafros tingot
+Force of fict
+Acquire fictnium ingot
+Force of real
+Acquire realite
+Force of real & fict
+Acquire refi sword
+cup of joe
+craft tea 
+by product of tea
+Acquire tea flower 
+Industrial building materials

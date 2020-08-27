@@ -1,0 +1,51 @@
+Hazmat Suit Leggings
+Hazmat Suit Boots
+Reactor Door
+Lithium Ion Cell
+Geiger Counter
+Detects radiation and informs the player of their rad count. Can be used to read the irradiation of entities. Will be muted if off the hotbar.
+Radiation:
+Light Radiation Shielding
+Medium Radiation Shielding
+Heavy Radiation Shielding
+Can be applied to armor to give the player %s rad resistance while worn.
+Can be applied to armor to give the player %s rad resistance while worn. Can also be applied to containers to shield against irradiation from its contents.
+Hardcore containers is disabled in the configs!
+Failed to install shielding. Hardcore containers is disabled in the configs!
+Failed to install shielding. The container already has a resistance level of
+Successfully installed shielding! The container now has a resistance level of
+Radiation Badge
+Informs the player of how irradiated they have been while being worn on every %s of radiation detected, up to a maximum of %s.
+Your Radiation Badge has been exposed to
+Your Radiation Badge disintegrated...
+RadAway
+Removes %s [%s] at a rate of %s.
+Slow-Acting RadAway
+Removes %s [%s] at a rate of %s.
+Rad-X
+Increases rad resistance by %s for %s. The effect can be stacked, but higher levels of resistance will wear off more quickly.
+Portable Ender Chest
+Access your Ender Chest on the move.
+Domino's Special
+Paul's favorite - restore 16 hunger points with this beauty.
+Flour
+Graham Cracker
+Roasted Cocoa Beans
+Ground Cocoa Nibs
+Solidified Cocoa Butter
+Cocoa Solids
+Unsweetened Chocolate
+Dark Chocolate
+Milk Chocolate
+Gelatin
+Marshmallow
+Many civilizations would not have fallen with these on their side.
+S'more S'mingot
+MoreS'more DoubleS'mingot
+FourS'more QuadS'mingot
+Music Disc
+Dion - The Wanderer
+8-Bit Cover by '8 Bit Universe'
+Music Disc
+Skeeter Davis - The End of the World
+8-Bit Cover by 'GermanPikachuGaming'

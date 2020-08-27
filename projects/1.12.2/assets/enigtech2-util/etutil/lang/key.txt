@@ -1,0 +1,2 @@
+item.woodenLighter.name
+item.magic_geiger_counter.name

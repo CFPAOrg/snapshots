@@ -1,0 +1,148 @@
+Fully Equipped
+Apply the maximum number of upgrades to a master wand
+Element Mastery
+Cast all the spells of any element
+Arcane Appraisal
+Use a scroll of identification to identify a spell book or scroll
+You will now be returned here upon casting %1$s
+You must make a circle with 8 stones of transportation first!
+Arcane Workbench
+Apply
+Mana:
+Applied Upgrades:
+Novice
+Apprentice
+Advanced
+Master
+None
+Fire
+Ice
+Lightning
+Necromancy
+Earth
+Sorcery
+Healing
+Wizard
+Pyromancer
+Ice Mage
+Storm Mage
+Necromancer
+Earth Mage
+Sorcerer
+Healer
+Attack
+Defense
+Utility
+Minion
+%1$s has been disabled in the config
+%1$s resisted %2$s
+Discovered the spell %1$s!
+Agility
+Arc
+Arcane Jammer
+Arrow Rain
+Banish
+Black Hole
+Blink
+Blizzard
+Bubble
+Chain Lightning
+Clairvoyance
+Cobwebs
+Conjure Armor
+Conjure Bow
+Conjure Pickaxe
+Conjure Sword
+Cure Effects
+Curse of Soulbinding
+Darkness Orb
+Darkvision
+Dart
+Decay
+Decoy
+Detonate
+Diamondflesh
+Earthquake
+Entrapment
+Fireball
+Firebolt
+Firebomb
+Fire Resistance
+Fire Sigil
+Fireskin
+Firestorm
+Flame Ray
+Flaming Axe
+Flaming Weapon
+Flight
+Font of Mana
+Font of Vitality
+Force Arrow
+Forcefield
+Force Orb
+Forest's Curse
+Freeze
+Freezing Weapon
+Frost Axe
+Frost Ray
+Frost Sigil
+Glide
+Greater Fireball
+Greater Heal
+Group Heal
+Growth Aura
+Hailstorm
+Heal
+Heal Ally
+Healing Aura
+Homing Spark
+Ice Age
+Ice Charge
+Ice Lance
+Ice Shard
+Ice Shroud
+Ice Spikes
+Ice Statue
+Ignite
+Imbue Weapon
+Intimidate
+Invigorating Presence
+Invisibility
+Invoke Weather
+Ironflesh
+Leap
+Levitation
+Life Drain
+Light
+Lightning Arrow
+Lightning Bolt
+Lightning Disk
+Lightning Hammer
+Lightning Pulse
+Lightning Ray
+Lightning Sigil
+Lightning Web
+Magic Missile
+Metamorphosis
+Meteor
+Mind Control
+Mind Trick
+[Empty Slot]
+Oakflesh
+Petrify
+Phase Step
+Plague of Darkness
+Pocket Furnace
+Pocket Workbench
+Poison
+Poison Bomb
+Replenish Hunger
+Ring of Fire
+Shadow Ward
+Shield
+Shockwave
+Silverfish Swarm
+Sixth Sense
+Slime
+Smoke Bomb
+Snare

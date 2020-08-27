@@ -1,0 +1,13 @@
+Night Vision Goggles
+Night Vision Goggles
+Toggle Mob Vision
+Toggle Night Vision
+Toggle Both
+Mob Vision
+Provides night and/or mob vision at the cost of durability. Repair with iron ingots.
+Press %s to toggle Night Vision.
+Press %s to toggle Mob Vision.
+Press %s to toggle both.
+Press %s to toggle Night Vision (active).
+Press %s to toggle Mob Vision (active).
+Night Vision Goggles

@@ -1,0 +1,56 @@
+Block Writer
+Real
+Triple
+One Third
+Quintuple
+One Fifth
+Northeast
+Southeast
+Southwest
+Northwest
+Waxing Day
+Waning Day
+Waxing Night
+Waning Night
+Orange
+Lime
+Citrus
+Pink
+Dark Gray
+Baby Blue
+Vanilla
+Energistics
+Plenty
+Botany
+Ender
+Utility
+Engineering
+Tool
+Construct
+Thaumaturgy
+Thermal
+Twilight
+Real
+Triple
+Third
+Quintuple
+Fifth
+Symbol "%1$s" successfully saved to disk.
+Symbol "%1$s" was not saved to disk.
+Hold SHIFT to view tooltips.
+General
+Grammar
+Block
+Symbol ID
+Poem
+Card Rank
+Grammar Rules
+Base Instability
+Exposed Instability
+Properties
+The ResourceLocation of this symbol. Make it unique and easy to understand.
+The words of the Narayani poem, starting at the top and moving clockwise.
+The categories this block can be used in and their ranks used to determine how likely they are be be randomly chosen. All blocks are automatically added to the category §6mystcraft:blockany§f. Leaving a rank blank means the category is still valid, but it will never be chosen for you.
+The loot ranking of this symbol. Leave blank to keep this symbol from appearing as loot. Otherwise, type an integer greater than or equal to 0. The larger the integer, the less likely it is a symbol will appear as loot. Mystcraft generally doesn't go higher than 4.
+The instability added to a Mystcraft dimension for every occurence of this block over its "normal" frequency in the Overworld. For reference, coal ore is 1.0, lapis ore is 1.0, iron ore is 1.0, emerald ore is 2.0, redstone ore is 2.0, gold ore is 4.0, crystal is 4.0, glowstone is 4.0, nether quartz ore is 4.0, and diamond ore is 20.0.
+The instability added to a Mystcraft dimension for every occurence of this block close to air. For reference, coal ore is 5.0, lapis ore is 5.0, iron ore is 60.0, emerald ore is 200.0, redstone ore is 250.0, gold ore is 750.0, crystal is 20.0, glowstone is 50.0, nether quartz ore is 20.0, and diamond ore is 4000.0.

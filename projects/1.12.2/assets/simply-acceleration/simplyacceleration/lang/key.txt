@@ -1,0 +1,3 @@
+tile.simplyacceleration.accelerator.name
+item.simplyacceleration.linking_tool.name
+itemGroup.simplyacceleration

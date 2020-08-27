@@ -1,0 +1,12 @@
+chat.anilink:nsfw
+chat.anilink:nsfw_link
+chat.anilink:unable_to_send
+chat.anilink:error
+chat.anilink:description
+chat.anilink:has_linked
+command.anilink:anime_usage
+command.anilink:manga_usage
+command.anilink:character_usage
+chat.anilink:type_anime
+chat.anilink:type_manga
+chat.anilink:type_character

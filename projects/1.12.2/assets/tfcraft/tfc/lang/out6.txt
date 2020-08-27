@@ -1,0 +1,19 @@
+Latitude Temperature Modifier
+If Cyclic, this controls the length (in blocks) of the temperature regions. The temperature values change in a wave-like pattern (sine wave). Wandering straight in a direction increases or decreases temperature. When you travel this many blocks, the temperature begins changing in the other direction.
+Clay Deposity Rarity
+The rarity for clay pits to occur. On average 1 / N chunks will have a clay deposit, if the chunk in question is valid for clay to spawn.
+Clay Rainfall Threshold
+The minimum rainfall in an area required for clay to spawn. By default this is the same threshold as dry grass.
+Loose Rocks Frequency
+The number of attempts per chunk to spawn loose rocks. Includes surface ore samples.
+Stick Density Modifier
+This controls the number of sticks generated on chunk generation. The number of trees in the area and flora density is also a factor in this.
+Loose Rocks Vein Scan
+Rainfall Spread Factor
+This controls how spread the rainfall distribution is. Higher values means the world will be distributed towards the extremes more, making more deserts and rain forests. WARNING: This can cause very weird world generation conditions.
+Flora Diversity Spread Factor
+This controls how spread the flora diversity distribution is. Higher values means the world will be distributed towards the extremes more, making forests have much more different kinds of trees. WARNING: This can cause very weird world generation conditions.
+Flora Density Spread Factor
+This controls how spread the flora density distribution is. Higher values means the world will be distributed towards the extremes more, making more dense forest pockets. WARNING: This can cause very weird world generation conditions.
+Respawnable Creatures
+This controls which registered entities can respawn in TFC biomes. You must specify by following the pattern 'modid:entity <rarity> <minGroupSpawn> <maxGroupSpawn>'. Invalid entries will be ignored.

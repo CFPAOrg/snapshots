@@ -1,0 +1,15 @@
+To inform a &1Soul Core&0 of your presence, right click it. The process of binding and unbinding a &4Soul&0 from a &1Core&0 has been known to sting a bit...<br>If a &1Soul Core&0 runs out of mana, it will lose the link to the &4Soul&0 it's bound to; right clicking again will re-establish it.
+Driven Drop
+The &1Ender Soul Core&0, at the cost of &4Mana&0, provides block-level access to the &1Ender Chest&0 inventory of the bound &4Player&0. As long as the &4Player&0 is present in the dimension, the &1Ender Soul Core&0's inventory will mirror the contents of their &1Ender Chest&0. All the usual interactions work; hoppers, corporea sparks...
+You Would Not Believe This Random Hecking Nonsense
+The &1Corporea Soul Core&0 is a simple privacy system for &4Corporea Networks&0. &4Players&0 are not able to use a &1Corporea Index&0 on the same network as a &1Corporea Soul Core&0, unless one of the &1Corporea Soul Core&0s on it contains their &4Soul&0.<br>It does not use &4Mana&0.
+Now let me see you &2DANCE&0
+The &1Blood Soul Core&0, at the cost of &4Mana&0, injects all potion effects received via &1Splash Potions&0 into the bloodstream of the bound &4Player&0.<br>Since the &4Soul&0 suspended in a &1Soul Core&0 is technically undead, this process will cause the usual effect inversions to occur (instant health will damage the bound &1Player&0, for example.)
+Pictured as Perfect
+Elven Decoration
+Stairs, slabs, and stuff
+Any &4Corporeticist&0 or &4Red Stringlayer&0 worth their salt keeps a tidy and well-decorated laboratory; what better to use than &1Corporea&0 and &1Red String&0 itself?<br>However, it'd certainly be nice to shave off the magical properties of blocks intended purely for decoration, to avoid oversaturation of the corporetic fields (and, well, server lag)
+Corporea Tiles
+Bricks, for throwing at you
+Red String Tiles
+I can see right through you

@@ -1,0 +1,119 @@
+Quartz Axe
+Glowstone Axe
+Paper Axe
+Obsidian Axe
+Bone Axe
+Emerald Axe
+Redstone Axe
+Cobalt Axe
+Topaz Axe
+Tungsten Axe
+Titanium Axe
+Copper Axe
+Jade Axe
+Netherite Axe
+Bedrock Axe
+Ruby Hoe
+Red Diamond Hoe
+Green Diamond Hoe
+Blue Diamond Hoe
+Rainbow Hoe
+Steel Hoe
+Plastic Hoe
+Amethyst Hoe
+Sapphire Hoe
+Sapphire Axe
+Emerald Hoe
+Netherite Hoe
+Bedrock Hoe
+Ruby Pickaxe
+Paper Pickaxe
+Glowstone Pickaxe
+Bone Pickaxe
+Obsidian Pickaxe
+Quartz Pickaxe
+Coal Pickaxe
+Lapis Pickaxe
+Amethyst Pickaxe
+Plastic Pickaxe
+Red  Diamond Pickaxe
+Green Diamond pickaxe
+Blue Diamond pickaxe
+Sapphire Pickaxe
+Steel Pickaxe
+Rainbow Pickaxe
+Emerald Pickaxe
+Redstone Pickaxe
+Cobalt Pickaxe
+Topaz Pickaxe
+Tungsten Pickaxe
+Titanium Pickaxe
+Copper Pickaxe
+Jade Pickaxe
+Bedrock Pickaxe
+Netherite Pickaxe
+Red Diamond Helmet
+Green Diamond Helmet
+Blue Diamond Helmet
+Ruby Helmet
+Copper Helmet
+Steel Helmet
+Plastic Helmet
+Tungsten Helmet
+Titanium Helmet
+Rainbow Helmet
+Cobalt Helmet
+Ardite Helmet
+Sapphire Helmet
+Amethyst Helmet
+Emerald Helmet
+Santa Helmet
+Peppermint Helmet
+PJ Helmet
+Glowstone Helmet
+Paper Helmet
+Redstone Helmet
+Obsidian Helmet
+Coal Helmet
+Bone Helmet
+Lapis Helmet
+Jade Helmet
+Bedrock Helmet
+Quartz Helmet
+Wooden Helmet
+Netherite Helmet
+Red Diamond Chestplate
+Green Diamond Chestplate
+Blue Diamond Chestplate
+Paper Chestplate
+Copper Chestplate
+Steel Chestplate
+Plastic ChestPlate
+Titanium Chestplate
+Rainbow Chestplate
+Coal Chestplate
+Ardite Chestplate
+Cobalt Chestplate
+PepperMint Chestplate
+GlowStone Chestplate
+Redstone Chestplate
+Obsidian Chestplate
+Lapis Chestplate
+Quartz Chestplate
+Bone Chestplate
+Amethyst Chestplate
+Santa Chestplate
+Sapphire Chestplate
+PJ Chestplate
+Ruby Chestplate
+Emerald Chestplate
+Tungsten Chesplate
+Bedrock Chestplate
+Jade Chestplate
+Netherite Chestplate
+Wooden Chestplate
+Red Diamond Leggings
+Green Diamond Leggings
+Blue Diamond Leggings
+Glowstone Leggings
+Sapphire Leggings

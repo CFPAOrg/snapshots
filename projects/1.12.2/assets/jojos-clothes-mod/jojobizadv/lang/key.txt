@@ -1,0 +1,14 @@
+itemGroup.jojo
+item.jojobizadv.dio_headband.name
+item.jojobizadv.dio_wig.name
+item.jojobizadv.dio_chest.name
+item.jojobizadv.dio_trousers.name
+item.jojobizadv.jotaro_hat.name
+item.jojobizadv.jotaro_coat.name
+item.jojobizadv.jotaro_trousers.name
+item.jojobizadv.jotaro_hat_4.name
+item.jojobizadv.jotaro_coat_4.name
+item.jojobizadv.jotaro_trousers_4.name
+item.jojobizadv.jotaro_hat_6.name
+item.jojobizadv.jotaro_coat_6.name
+item.jojobizadv.jotaro_trousers_6.name

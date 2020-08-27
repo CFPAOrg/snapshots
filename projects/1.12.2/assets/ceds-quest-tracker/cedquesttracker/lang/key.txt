@@ -1,0 +1,7 @@
+key.quest.display
+tile.cedquesttracker.trophy_bosscow.name
+tile.cedquesttracker.trophy_saxtonhale.name
+tile.cedquesttracker.trophy_yeti_alpha.name
+item.cedquesttracker.itemtrophy_bosscow.name
+item.cedquesttracker.itemtrophy_saxtonhale.name
+item.cedquesttracker.itemtrophy_yeti_alpha.name

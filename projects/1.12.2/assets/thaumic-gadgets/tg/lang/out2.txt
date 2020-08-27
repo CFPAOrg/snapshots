@@ -1,0 +1,17 @@
+A bag. It seems that everything is simple. But ordinary woven bags are heavy and inconsistent. This same magic bag has a fairly large volume, while, thanks to magic, almost nothing weighs. In addition, it "remembers" its owner, giving access to its contents only to him. The material of the bag will depend on its capacity: Magic bag - 18 slots, Enchanted bag - 27 slots, Bewitched bag - 36 slots.
+Hungry Magic Bags
+Although you solved the problem with the fact that you had very little space. But, damn it. constantly move the stone, the ground and other objects into it with your hands is too tiring. You need a way that makes a bag do it for you.
+And you found it. Combining the properties of a hungry chest and bag, you created a hungry bag. It has all the properties of a regular bag and also collects all the items that fell near the player, if there is a place in it.
+Ender Bag
+One day, looking at the Ender-chest, you came to the idea of a genealogy - to create a bag that would be associated with it. In order to always be able to access it, without transferring it by using a pickaxe to "Silk Touch".
+Ender-bag completely imitates the Ender-chest, but it will not need to be installed. There is no protection on it, because in your small pocket dimension, in which your things are stored, still no one will get... Stop, measurement?
+Void Bag
+Too much excess land, too much excess stone... It is urgent to solve this problem until your bags are packed with them...
+Void bag will destroy any items that you catch and which are in the "White List". To add an item to the "white list", you just need to put the item in the bag. In the future, any item that will match it will be automatically placed in a hollow bag and destroyed.
+Capes
+Placeholder start research
+Placeholde finish research
+Cape of Phoenix
+Placeholder start research
+Placeholde finish research
+Wolf Cape

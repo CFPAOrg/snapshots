@@ -1,0 +1,12 @@
+Fermented Spider Eye
+A soldier affected by the Fermented Spider Eyes influence becomes neutral, not attacking anything unless they are attacked, where they'll quickly chase and attack their attacker.\n\n§7-§1 Behavior upgrade\n§7-§1 makes soldiers neutral
+Rotten Flesh
+The stench of Rotten Flesh dilutes a soldiers senses and they'll start attacking anything hostile nearby (if infected with an {link:Ender Pearl|upgrades:enderpearl} even friendly mobs and players).\n\n§7-§1 Behavior upgrade\n§7-§1 makes soldiers attack mobs
+Sponge
+The texture of the Sponge makes a soldier blend in amongst other teams. No one (even those influenced by {link:Fermented Spider Eyes|upgrades:fermentedspidereye} or {link:Nether Warts|upgrades:netherwart}) will attack them nor will they attack others. If the soldier has a {link:Glistering Melon|upgrades:speckledmelon}, they'll also heal others not in the same team.\n\n§7-§1 Behavior upgrade\n§7-§1 makes soldiers friendly
+Flint
+A Flint can sharpen a soldiers {link:Stick|upgrades:stick} and make it sharper, thus deal more damage.\n\nIt is not consumed by the soldier.\n\n§7-§1 Enhancement upgrade\n§7-§1 requires {link:Stick|upgrades:stick}\n§7-§1 + 2 pts. damage
+Iron Block
+Reinforcing a {link:Bowl shield|upgrades:bowl} with some iron reduces incoming damage even further. It also has a chance of 50%% to block the effects of: {link:Redstone|upgrades:redstone}, {link:Slimeballs|upgrades:slimeball}, {link:Blaze Powder|upgrades:blazepowder}, {link:Snow|upgrades:snow}, {link:Red Mushrooms|upgrades:redshroom} and\n{link:Magma Cream|upgrades:magmacream}\n\nIt is not consumed by the soldier.\n\n§7-§1 Enhancement upgrade\n§7-§1 requires {link:Bowl shield|upgrades:bowl}\n§7-§1 - 1 pts. damage taken\n§7-§1 chance to block effects
+Prismarine Shard
+Used as a sharpening kit for {link:Shear Blades|upgrades:shearblade}, soldiers with this will deal more damage per blade held.\n\n§7-§1 Enhancement upgrade\n§7-§1 requires {link:Shear Blade|upgrades:shearblade}\n§7-§1 + 1 pts. damage per blade

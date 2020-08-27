@@ -1,0 +1,11 @@
+English
+US
+en_US
+Mini HUD
+Toggle Mode
+Toggled Collison Boxes debug rendering to %s
+Toggled Height Map debug rendering to %s
+Toggled Neighbor Update debug rendering to %s
+Toggled Pathfinding debug rendering to %s
+Toggled Solid Faces debug rendering to %s
+Toggled Water debug rendering to %s

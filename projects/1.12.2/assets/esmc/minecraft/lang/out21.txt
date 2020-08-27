@@ -1,0 +1,47 @@
+/scoreboard teams add <name> [display name ...]
+A team with the name '%s' already exists
+The name '%s' is too long for a team, it can be at most %s characters long
+The display name '%s' is too long for a team, it can be at most %s characters long
+Added new team '%s' successfully
+/scoreboard teams list [name]
+Showing %s teams on the scoreboard:
+- %1$s: '%2$s' has %3$s players
+There are no teams registered on the scoreboard
+Showing %s player(s) in team %s:
+- %2$s: %1$s (%3$s)
+Team %s has no players
+/scoreboard teams empty <team>
+Team %s is already empty, cannot remove nonexistant players
+Removed all %s player(s) from team %s
+/scoreboard teams remove <name>
+Removed team %s
+/scoreboard teams join <team> [player]
+Added %s player(s) to team %s: %s
+Could not add %s player(s) to team %s: %s
+/scoreboard teams leave [player]
+Removed %s player(s) from their teams: %s
+Could not remove %s player(s) from their teams: %s
+You are not in a team
+/scoreboard teams option <team> <friendlyfire|color|seeFriendlyInvisibles|nametagVisibility|deathMessageVisibility|collisionRule> <value>
+Valid values for option %s are: %s
+Set option %s for team %s to %s
+/execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
+All invocations failed: '%s'
+Failed to execute '%s' as %s
+Set own game mode to %s
+Set %s's game mode to %s
+/gamemode <mode> [player]
+/defaultgamemode <mode>
+The world's default game mode is now %s
+/me <action ...>
+--- Showing help page %s of %s (/help <page>) ---
+Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+/help [page|command name]
+/trigger <objective> <add|set> <value>
+Invalid trigger name %s
+Invalid trigger mode %s
+Trigger %s is not enabled
+Only players can use the /trigger command
+Trigger %s changed with %s %s
+/publish
+Local game hosted on port %s

@@ -1,0 +1,16 @@
+entity.herobrine.name
+item.stevegearboots.name
+entity.alex.name
+entity.notch.name
+entity.test.name
+item.stevegearbody.name
+entity.golem.name
+entity.irongole.name
+item.sword.name
+item.stevegearlegs.name
+item.shard.name
+itemGroup.tabtheworldofminecraft
+item.pick.name
+item.stevegearhelmet.name
+entity.steve.name
+item.lazer.name

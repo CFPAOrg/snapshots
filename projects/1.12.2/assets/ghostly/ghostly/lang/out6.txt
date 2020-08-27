@@ -1,0 +1,73 @@
+One in §ox§r§e Possessed Boxer Strays will have multi-color eyes.\n§eSet to 0 to disable Possessed Strays having multi-colored eyes.
+Multi-color Possessed Boxer Wither Skeleton Eyes Chance
+One in §ox§r§e Possessed Boxer Wither Skeletons will have multi-color eyes.\n§eSet to 0 to disable Possessed Wither Skeletons having multi-colored eyes.
+Audio
+Audio settings for Ghostly mobs.
+Alternate Shade Audio
+Whether Shades use an alternate set of sounds. May not apply to all sounds.
+Alternate Darkness Mage Audio
+Whether Darkness Mages use an alternate set of sounds. May not apply to all sounds.
+Shade
+Possessed Sword
+Possessed Zombie
+Possessed Skeleton
+Possessed Husk
+Possessed Wither Skeleton
+Possessed Stray
+Infested Enderman
+Possessed Boxer Zombie
+Possessed Boxer Skeleton
+Possessed Boxer Husk
+Possessed Boxer Wither Skeleton
+Possessed Boxer Stray
+Possessed Hunchbone
+Possessed Wither Hunchbone
+Possessed Withered Zombie
+Arrow of Corporeality
+Tipped Arrow of Corporeality
+Spectral Arrow of Corporeality
+Dusted Arrow of Corporeality
+Spiritual Turret
+Shadow Remnant
+Venom Arrow
+Venom Spectral Arrow
+Sickened Spider
+Venom Arrow of Corporeality
+Spectral Venom Arrow of Corporeality
+Dusted Venom Arrow of Corporeality
+Darkness Mage
+Mutated Wolf
+Mutated Horse
+Mutated Cow
+Mutated Ocelot
+Mutated Pig
+Mutated Donkey
+Mutated Sheep
+Mutated Llama
+Corporealite Ore
+Block of Corporealite
+Sword of Corporeality
+Axe of Corporeality
+Pickaxe of Corporeality
+Shovel of Corporeality
+Hoe of Corporeality
+Bow of Corporeality
+Corporealite Ingot
+Corporealite Nugget
+Dusted Arrow of Corporeality
+Shadow Dust
+Venomstring
+Venombow
+Sickened Spider Eye
+Venombow of Corporeality
+Darkness Mage Flesh
+Ghostly Combat
+Ghostly Tools
+Ghostly Blocks
+Ghostly Miscellaneous
+Ghostly Foodstuffs
+What's This?
+Obtain Corporealite Ore
+Acquire Corporealware
+Obtain a Corporealite Ingot
+Isn't it Pickaxe of Corporeality

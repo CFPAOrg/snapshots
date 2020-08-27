@@ -1,0 +1,6 @@
+Previously bound NBT Extractor is not loaded on the server.
+Previously bound NBT Extractor is not in the same dimension.
+Previously bound NBT Extractor no longer exists. Please right click another NBT Extractor block to bind again.
+Allows remote access of a NBT Extractor.
+§eRight click a NBT Extractor to bind.
+§aBound to NBT Extractor at (%s, %s, %s) in dimension %s.

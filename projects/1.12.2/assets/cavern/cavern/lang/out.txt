@@ -1,0 +1,32 @@
+Touch with caveman
+Cavenia
+Enter the Cavenia dimension
+Hunter
+Become a hunter
+Hideous Hunter
+Kill one of every crazy monster
+Crazy Hunter
+Become a crazy hunter
+Ranger
+Become a ranger
+Crazy Ranger
+Become a crazy ranger
+Precious Key
+Acquire a diamond
+Huge Cavern
+Enter the Huge Cavern dimension
+Toggle Mining Assist
+Spell Magical Book
+Cavern
+Mining Assist
+Disabled
+QUICK
+RANGED
+ADIT
+Mining Assist has been changed to %s
+Mining Assist cannot be changed until become the %s
+Press %s key to toggle mode
+Mining Assist is set to %s
+Ability Unlocked!
+Ice Charge: %s
+Cavern advancements has not been completed yet

@@ -1,0 +1,27 @@
+Electric forge energy capacity.
+Induction Crucible Energy Consumption
+Induction crucible energy consumption, in RF/t.
+Induction Crucible Energy Capacity
+Induction crucible energy capacity.
+Fridge Energy Consumption
+Fridge energy consumption modifier.
+Fridge Energy Capacity
+Fridge energy capacity.
+Fridge Efficiency
+How fast fridges reach frozen state.
+Fridge Lose Efficiency
+How fast fridges lose efficiency when the door is open.
+Wire Drawing
+Smeltery
+Glassworking
+To obtain Sawdust, you need to harvest logs using a saw. There's a 50% chance to drop and also another 50% chance the log is consumed in the process.
+Used to get latex, right click a hevea tree log with a hammer in your toolbar to place. Complete the latex tapping by placing a bowl mount, an empty bowl and right clicking with a knife to open a vein of flowing latex.
+To get latex, you need a rubber tapper. Right click a Wrought Iron Groove (with a hammer on toolbar) on any hevea tree log, then place a bowl mount, an empty bowl and open a vein of fluid latex by right clicking with a knife.
+Consumes energy to cool down your foods effectively slowing down decay. Efficiency rises when the door is kept closed and has sufficient energy.
+Used to draw out wires. Right click to pull metal wires through the draw plate. Draw plate needs to be at least the same tier of the wire.
+Melt and mix metal using the power of electricity!
+Heat metal items using the power of electricity!
+Right click an empty mold into any container holding molten glass.
+Progress: %d%%
+Efficiency: %d%%
+Latex: %dmB

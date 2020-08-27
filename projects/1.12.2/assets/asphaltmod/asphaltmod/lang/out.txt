@@ -1,0 +1,85 @@
+Hedgerow
+Flower Hedgerow
+Yellow Hedgerow
+Orange Hedgerow
+Curved Hedgerow
+Flower Curved Hedgerow
+Yellow Curved Hedgerow
+Orange Curved Hedgerow
+Edge Hedgerow
+Flower Edge Hedgerow
+Yellow Edge Hedgerow
+Orange Edge Hedgerow
+Road Line
+Name
+Size
+Tetrapod
+Rubber Pole
+Color Cone
+Solid Oil
+Solid Asphalt
+Concrete Gutter Cover
+Iron Gutter Cover
+Slope Editor
+Step Editor
+Flexible Line Editor
+Double Material Block Editer
+Road Sign Panel
+White Line Painter
+Orange Line Painter
+Name
+Shape
+Circle
+Square
+Triangle
+None
+Create Slopes.
+Select the Base Block by Shift + Right Click.
+Steep Slope
+Normal Slope
+Size
+Block
+Registered the Base Block.
+Create Steps.
+Select the Base Block by Shift + Right Click.
+Size
+Block
+Registered the Base Block.
+Create Flexsible Line Blocks.
+Shift + Right Click to Set a White Line that is Horizontally Reversed.
+Right Click in the Air to Display the Menu.
+Size
+Color
+White
+Orange
+Create Double Material Blocks.
+Select the Base Block by Shift + Right Click.
+Right Click in the Air to Display the Menu.
+Size
+Division Direction
+Left Block
+Right Block
+Registered the Block.
+Then Shift + Right Click on the Other Block.
+Registered the Other Block.
+Color
+Steep Slope
+Left Block
+Right Block
+Mirror
+Bind
+Close
+Change
+Size
+Color
+Type
+If the settings are not saved, try putting them in and out of the inventory after applying.
+Block
+Width
+Height
+Text
+Remove
+Add
+Reload Road Sign Pack.
+AsphaltMod has been updated.
+Update information

@@ -1,0 +1,96 @@
+ name
+Iron Ore Chunk
+Gold Ore Chunk
+Silver Ore Chunk
+Ardite Ore Chunk
+Cobalt Ore Chunk
+Lead Ore Chunk
+Tin Ore Chunk
+Aluminum Ore Chunk
+Copper Ore Chunk
+Nickel Ore Chunk
+Platinum Ore Chunk
+Manganese Ore Chunk
+Osmium Ore Chunk
+Cinnabar Ore Chunk
+Iridium Ore Chunk
+Iridium Ingot
+Uranium Ore Chunk
+Silicon Ore Chunk
+Magnesium Ore Chunk
+Compressed Magnesium Ore Chunk
+Magnesium Ingot
+Boron Ore Chunk
+Compressed Boron Ore Chunk
+Boron Ingot
+Thorium Ore Chunk
+Compressed Thorium Ore Chunk
+Thorium Ingot
+Lithium Ore Chunk
+Compressed Lithium Ore Chunk
+Lithium Ingot
+Compressed Iron Ore Chunk
+Compressed Gold Ore Chunk
+Compressed Silver Ore Chunk
+Compressed Ardite Ore Chunk
+Compressed Cobalt Ore Chunk
+Compressed Lead Ore Chunk
+Compressed Tin Ore Chunk
+Compressed Aluminum Ore Chunk
+Compressed Copper Ore Chunk
+Compressed Nickel Ore Chunk
+Compressed Platinum Ore Chunk
+Compressed Manganese Ore Chunk
+Compressed Osmium Ore Chunk
+Compressed Cinnabar Ore Chunk
+Compressed Iridium Ore Chunk
+Compressed Iridium Ingot
+Compressed Uranium Ore Chunk
+Compressed Silicon Ore Chunk
+Yellorite Ore Chunk
+Compressed Yellorite Ore Chunk
+Silver Ingot
+Ardite Ingot
+Cobalt Ingot
+Lead Ingot
+Tin Ingot
+Tungsten Ingot
+Tungsten Ore Chunk
+Aluminum Ingot
+Copper Ingot
+Nickel Ingot
+Platinum Ingot
+Manganese Ingot
+Osmium Ingot
+Zinc Ingot
+Zinc Ore Chunk
+Compressed Zinc Ore Chunk
+Dense Iron Ore
+Dense Gold Ore
+Dense Coal Ore
+Dense Diamond Ore
+Dense Emerald Ore
+Dense Redstone Ore
+Dense Lapis Lazuli Ore
+Dense Copper Ore
+Dense Tin Ore
+Dense Silver Ore
+Dense Lead Ore
+Dense Aluminum Ore
+Dense Manganese Ore
+Dense Nickel Ore
+Dense Osmium Ore
+Copper Ore
+Tin Ore
+Silver Ore
+Lead Ore
+Aluminum Ore
+Manganese Ore
+Nickel Ore
+Osmium Ore
+How Fortunate!
+Watch this space! Coming Soon!
+General
+General Config
+Generate Overworld Stones
+If true, Marcasite, Shale and Slate will generate in the world. Disabling this will also disable prismarine ore deposits under oceans and rivers.

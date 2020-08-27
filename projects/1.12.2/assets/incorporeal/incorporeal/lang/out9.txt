@@ -1,0 +1,14 @@
+&4Sinking&0 a &3Corporea Request&0 into a &1Corporea Funnel&0 makes it perform the request.
+&4Sinking&0 a &3Corporea Request&0 into a &1Corporea Index&0 makes it perform the request.
+&4Sourcing&0 from a &1Master Cygnus Spark&0 packages up its &4stack&0 into a &3Stack&0. &4Sinking&0 a &3stack&0 pushes it all on. 
+Dropped Items
+&4Sourcing&0 from any &1dropped items&0 returns a &3Corporea Request&0 for them, with count.
+&4Sinking&0 &3any data at all&0 into &1Paper&0 stores the data as a &1Cygnus Ticket&0.
+&4Sourcing&0 from a &1Corporea Ticket&0 returns the stored &3data&0 and clears the ticket. &4Sinking&0 &3anything at all&0 overwrites the data.
+&4Sourcing&0 from a &1Redstone Repeater&0 returns a &3number&0 between 1 and 4 representing the delay on the repeater. &4Sinking&0 a &3number&0 between 1 and 4 sets the delay.
+&4Sourcing&0 from &1Redstone Dust&0 returns a &3number&0 between 0 and 15 representing its power level.
+Cygnus Words
+Actions on the stack
+&1Cygnus Words&0 perform some action to the items on top of a &4stack&0. They are used similar to a &1Cygnus Crystal Cube&0 - place them down, attach them to a &4Cygnus Network&0 by placing a &1Cygnus Spark&0 on top, and program them with a &1Cygnus Word Pattern&0.
+&1Cygnus Word Patterns&0 are not consumed when programming the &1Cygnus Word&0, and you can reprogram a &1Word&0 as many times as you like. The empty &1Word Pattern&0 is the only craftable one; the rest can be obtained by scrolling through them.<br>A list of &1Cygnus Word Patterns&0 and their effects is at the end of this entry.
+When an action does not make sense for the current state of the &4stack&0, usually an &3Error&0 is pushed instead. You can detect this with a &1Cygnus Crystal Cube&0 listening to the &3Errored&0 condition, but it's usually best to avoid pushing errors altogether if you can. All actions push a &3Stack underflow&0 if the stack doesn't contain enough items, or &3Type mismatch&0 if the items are not of the correct type.

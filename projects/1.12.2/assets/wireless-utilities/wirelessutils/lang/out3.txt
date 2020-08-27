@@ -1,0 +1,67 @@
+whether or not they've been
+given a name.
+Sneak: %s
+Filter living creatures based
+upon whether they are sneaking
+or standing.
+Player: %s
+Filter living creatures based
+upon whether they are a player
+or not.
+The following list can behave as
+either a whitelist or a blacklist.
+Entries can be added by using
+the module on entities in the
+world. Wildcards can be used to
+filter by entire mods, for
+example: "minecraft:*"
+%s was vaporized.
+%s was vaporized with %s.
+Teleportation Module
+This module will transport any
+entities in the working area of
+its Vaporizer to the location
+specified within the installed
+Positional Card.
+Capture Module
+This module will capture any living
+creatures within the working area of
+its Vaporizer within Void Pearls
+taken from the Vaporizer's Input.
+Duplication Module
+This module uses experience and other
+captured creatures to create duplicates
+of the provided captured creature.
+Spawn Limit: %s
+The Vaporizer will only spawn duplicates
+if the area within %s blocks of its
+working area contains fewer than this
+many creatures of the target type.
+Spawn Exact Copies
+Spawning exact copies does exactly
+what it sounds like, at the cost
+of using considerably more fuel.
+Do Not Spawn Exact Copies
+Launch Module
+This module vaporizes and reassembles
+things in place, but when it puts them
+back together, it adds extra velocity.
+Speed: %s
+Negating damage from falling.
+Augment Base
+Dispenser Augment
+This augment allows Desublimators
+to dispense items into the world
+rather than merely dropping them.
+Requires an air block at the
+target location.
+World Augment
+This augment allows certain machines
+to modify the world directly, such
+as by placing a fluid.
+Block Augment
+This augment allows Desublimators to
+place and break blocks, rather than
+merely dropping and picking up items
+as they do with a World Augment.
+Auxiliary Condenser Augment

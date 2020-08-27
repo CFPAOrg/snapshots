@@ -1,0 +1,11 @@
+language.name
+misc.daringdebug.debug.tileentity
+misc.daringdebug.debug.entity
+misc.daringdebug.debug.oredict.block
+misc.daringdebug.tooltip.advanced.oredict.header
+misc.daringdebug.tooltip.advanced.oredict.entry
+misc.daringdebug.tooltip.advanced.capability.entry
+misc.daringdebug.debug.capabilities.tileentity
+misc.daringdebug.debug.capabilities.entity
+misc.daringdebug.debug.capabilities.chunk
+misc.daringdebug.debug.capabilities.world

@@ -1,0 +1,5 @@
+itemGroup.cedpeaddon
+item.pe_cedpeaddon.extremeredpick.name
+item.pe_cedpeaddon.extremedarkpick.name
+item.pe_cedpeaddon.chanceredpick.name
+item.pe_cedpeaddon.chancedarkpick.name

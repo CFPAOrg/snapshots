@@ -1,0 +1,100 @@
+Astralite Battleaxe
+Astralite Hoe
+Sortigellium Sword
+Sortigellium Shovel
+Sortigellium Pickaxe
+Sortigellium Axe
+Sortigellium Hoe
+Voidic Altar
+Arcane Botanical Altar
+Mortal Furnace
+Reflection Pool
+Voidrock
+Voidrock Pillar
+Voidrock Tiles
+Cracked Voidrock Tile
+Polished Voidrock
+Cinnabar Ore
+Peacock Ore
+Netherheart Ore
+Void Sand
+Arcane Earth
+Voidaic Mass
+Void Mist
+Lantern Stem
+Voidaic Lantern
+Void Glass
+Void Crystal Block
+Void Flower
+Void Bulb Crop
+Floatshroom Crop
+Glowgrowth Crop
+Void Weed
+Tall Void Weed
+Void Melon
+Dark Camellia Bush
+Void Melon Crop
+Feather Weed Crop
+Moon Mint Crop
+Neddlesprout Crop
+Starbloom Crop
+Dwarven Bricks
+Dwarven Brick Stairs
+Dwarven Lantern
+Dark Brick
+Carved Dark Brick
+Dark Marble
+Whitewood Log
+Whitewood Leaves
+Whitewood Planks
+Whitewood Stairs
+Whitewood Slab
+Voidic Totem
+Block of Infused Metal
+Block of Enargite
+Block of Astralite
+Block of Mythril
+Block of Frozen Mercury
+Block of Daemonite
+Construct Base
+§5Eye Of The Construct
+TestBlock-ModMCdl
+§dCam's Super Secret Stick
+Alchemy
+Void Walker
+§5Voidaic Arcania
+§5Voidaic Alchemy
+§5Voidaic Metallurgy
+Void Wraith
+Voidic Construct
+Heart of The Void
+Heart of The Void
+Void Daemon
+Altar
+Arcane Botanical Altar
+Mortal Furnace
+Life Steal
+Void Touch
+%1$s was touched by the void...
+A Peculiar Discovery
+Make an Orb of Creation
+A Dark Awakening
+Find, or Create, a Voidic Shard
+Powerplay
+Create the Superior Voidic Orb of Creation
+The Beginnings of Something Big
+Create an Altar
+Flower Power
+Obtain an Arcane Botanical Altar
+Into The Unknown
+Travel to The Void...
+Heavy Metal
+Create an Infused Ingot
+Desaturation
+That rainbow ore makes whaaaaat?
+java.lang.StackOverflowError
+Collect a stack of all ingots and plants from Voidaic Arcania
+The Chosen One
+Defeat the Heart of The Void
+Master of The Void
+Obtain all 10 active baubles

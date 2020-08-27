@@ -1,0 +1,59 @@
+Custom Model Config
+Client Config
+Server Config
+Permission
+Hide Particles Near Camera
+Hide particles that are too close to player's eye.
+Send Models to Server
+Automatically send the models that the server does not have.
+Hide Armors
+Hide armors of custom models.
+Custom Eye Height
+Allow model packs to change eye height. Only effects client side if not allowed at server side.
+Custom Bounding Box
+Allow model packs to change bounding box. Will not take effect if server side is not modded or not allowed.
+Default Model
+Default model when no model has been select by the player.
+Receive Models from Clients
+Receive models that the server does not have from clients.
+Reload Own Model
+Permission level needed to reload model of oneself.
+Reload Other's Model
+Permission level needed to reload model of other players.
+Select Own Model
+Permission level needed to select model of oneself.
+Select Other's Model
+Permission level needed to select model of other players.
+List All Models
+Permission level needed to list all models.
+ID: %s
+Name: %s
+Version: %s
+Author: %s
+Client Side Model
+Uploaded From Other Clients
+Custom Model Selection Gui
+Failed to load model pack %s: %s
+model.json not found.
+Bone %s not found.
+Unknown pose %s
+Bone ID is required.
+Parent bone is required.
+Parent bone %s not found.
+Texture %s not found.
+Texture size of %s is required.
+Wrong array length for %s: should be %d.
+Invalid model id: %s
+Model name cannot be empty
+Model file not found: %s
+Not a float expression: %s
+Not a boolean expression: %s
+Invalid operator: %s
+Invalid infix expression, expressions: %d, operators: %d
+Error merging operators, expressions: %d, operators: %d
+Invalid infix precedence, min: %d, max: %d
+Invalid expression: %s
+Invalid float value: %s
+Missing arguments: %s
+Invalid number of arguments, function: \%s\, count arguments: %d, should be: %d
+Invalid argument type, function: \%s\, index: %d, type: %s, should be: %s

@@ -1,0 +1,89 @@
+Yz Ceti
+Wolf 1061
+Trappist 1
+Kepler 1649
+Yz Ceti A
+Trappist 1 A
+Wolf 1061 A
+Kepler 1649 A
+Yz Ceti B
+Yz Ceti C
+Yz Ceti D
+Wolf 1061 B
+Wolf 1061 C
+Wolf 1061 D
+Trappist 1 B
+Trappist 1 C
+Trappist 1 D
+Trappist 1 E
+Trappist 1 F
+Trappist 1 G
+Trappist 1 H
+Kepler 1649b
+Kepler 1649c
+§eWormhole
+§cBy Continuing you agree on the terms that you will
+§cnot distribute this development build unless prior
+§cpermissions are granted by the mod developer§r
+§bThe Current ExoPlanets version Is in Early Beta!§r
+This means that there may be things in the mod that do not work as intended.
+This is either by deisgn as it may not be finished and/or optimized.
+If there are any bugs that are found with compatibility please visit my discord.
+and report the issue.
+§e(To disable this from appearing, set §6B:warnOnBetaBuild§r§e to false in §bcore.cfg§r§e file in configs)§r
+Discord Invite
+There was a problem while trying to open Discord Invite Link
+Exoplanets Settings
+Core Settings
+Exoplanets Dimension ID's
+Solar Systems Settings
+Solar System Tier Requirements
+Solar System Map Positions
+Yz Ceti Tier
+Wolf 1061 Tier
+Trappist 1 System Tier
+Disable Yz Ceti System
+Disable Wolf 1061 System
+Disable Trappist 1 System
+Disable Kepler 1649 System
+Hide / Disable Unfinished Systems
+Yz Ceti System Coords
+Wolf 1061 System Coords
+Trappist 1 System Coords
+Kepler 1649 System Coords
+Yz Ceti B
+Yz Ceti C
+Yz Ceti D
+Wolf 1061 B
+Wolf 1061 C
+Wolf 1061 D
+Trappist 1 B
+Trappist 1 C
+Trappist 1 D
+Trappist 1 E
+Trappist 1 F
+Trappist 1 G
+Trappist 1 H
+Kepler 1649 B
+Kepler 1649 C
+Check Version
+Overworld Ores
+Realism Mode
+Warn on Beta Build
+
+§6Exo Decoration§r
+§aExo Terrain§r
+§eExo Items§r
+Communication Relay
+RAID Cluster
+RAID Controller
+Lower RAID Controller
+Electronic Panel
+Data Monitor
+Grating
+Stipe Brating
+Satellite Antenna
+Console Stand
+Floor Grating
+(§eYz Ceti B§r) Loose Sediment
+(§eYz Ceti B§r) Loose Sediment 2

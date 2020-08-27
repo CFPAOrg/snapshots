@@ -1,0 +1,28 @@
+XPT Link Card
+XPTeleporter
+Efficient XPTeleporter
+XP Cost is halved
+You need %d experience to link teleporters
+You need %d experience to teleport
+Intra
+Extra
+%s-dimensional link created!
+Can't create link!
+Link broken!
+Linked to
+Experience required to teleport
+in the same dimension
+ to another dimension
+Teleporter cooldown
+Enable crafting recipes
+Only linking will cost xp, teleporting will be free
+Unlink teleporters when one is broken
+0 - Disabled\n1 - Will teleport if required food is > 20 && existing > 0\n2 - Won't teleport if required food > 20
+These are destination multiplers. Each line is another entry. Each entry should consist of an integer dimension ID and an integer multiplier for traveling to that dimension separated by a colon ":"
+Invalid block!
+Already linked to this block!
+Teleported!
+Link is broken!
+Link created!
+You need XP level %s to teleport!
+You need XP level %s to create a link!

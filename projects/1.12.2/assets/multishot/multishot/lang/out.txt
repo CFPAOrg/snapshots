@@ -1,0 +1,29 @@
+Added ellipse center point at
+Added ellipse longer semi-axis point at
+Added ellipse target point at
+Added path target point at
+Added point #%d at
+Changed active path to #%d (%d points)
+Error: Can't move point #%d, invalid index
+Error: Can't move point, no point selected!
+Error: No path points set!
+Error: No path points exist!
+startMotion(): Error: Circle center point not set!
+Inserted point #%d at
+Moved point #%d to
+normal
+Path #%d cleared
+Reloaded path #%d from file (%d points)
+Failed to reload path #%d from file
+Error: Can't remove point #%d, invalid index
+Error: Couldn't remove point #%d
+Removed circle center point
+Removed ellipse center point
+Removed circle target point
+Removed ellipse target point
+Removed path target point
+Removed point #%d
+Error: Can't replace point #%d, invalid index
+reversed
+Set the path traveling direction to
+Stored point #%d

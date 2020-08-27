@@ -1,0 +1,104 @@
+BF - General
+BF - Guns
+Hold %s for Info
+There appears to be no info for this item :(
+Medkit
+First Aid Kit
+Bandage
+Band-Aid
+Painkillers
+Swifteroids
+Beam Rod
+Crystal Position: %s
+Container Editor
+Bush
+Infection Star
+VEX Research Keycard
+Advanced Assault Rifle
+Revolver
+Railgun
+§7Damage: §f%s
+§7Swing Speed: §f%s
+Energy Cell
+Infection Vial
+Baseball Bat
+Nailed Baseball Bat
+Katana
+Tactical Knife
+Frying Pan
+Brittle Bricks
+Crystal Container
+Crystal
+Loot Chest
+End Stone Rune
+Activated End Stone Rune
+Infected End Stone
+Dragon Death Effect
+Barbed Wire
+End Stone Button
+End Stone Pressure Plate
+End Stone Wall
+End Stone Stairs
+End Stone Slab
+Infected Grass
+Infected Dirt
+Infected Leaves
+Infected Log
+Infected Vines
+Infected Planks
+Infected Stairs
+Infected Slab
+Rift
+Gateway
+Showcase Item
+Fancy Stone Pillar
+Fancy Quartz Pillar
+Fancy Sandstone Pillar
+Fancy Red Sandstone Pillar
+Fancy Purpur Pillar
+Heavy Facility Button
+A big red button. Who wouldn't press it?
+Heavy Facility Toggle Button
+A big red button. Who wouldn't press it?
+Heavy Card Reader
+A card reader that reads VEX keycards.
+§8[§cERROR§8] §7Please insert a keycard.
+Heavy Facility Door
+A heavy sliding door to keep the baddies out >:)
+Entity Spawner
+Allows to the spawn entities when a match starts
+Map
+Accessory Pad
+§6§lUnlocked Accessory
+Brown Brick Slab
+Gray Brick Slab
+Brown Bricks
+Gray Bricks
+Brown Brick Stairs
+Gray Brick Stairs
+Infected Water
+Infected Lava
+White Canadian Flag
+Black Canadian Flag
+§c§lDoodler’s Patriocy
+Orange Canadian Flag
+Magenta Canadian Flag
+Pink Canadian Flag
+Purple Canadian Flag
+Lime Canadian Flag
+Green Canadian Flag
+Gray Canadian Flag
+Silver Canadian Flag
+Brown Canadian Flag
+Cyan Canadian Flag
+Blue Canadian Flag
+Light Blue Canadian Flag
+Yellow Canadian Flag
+§6§lCoffee Cup
+§6§lCoffee Cup
+§c§lDoodler’s Patriocy
+§d§lModder's §8§lNightmare
+§a§lMaster §7§lGauntlet
+§c§lCrayfish Claw
+§c§lCray Cake
+A heavily damaged keycard. Seems to be owned to Steve.

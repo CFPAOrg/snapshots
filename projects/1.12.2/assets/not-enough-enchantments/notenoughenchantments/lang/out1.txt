@@ -1,0 +1,18 @@
+Culling
+While attacking enemies with low hp, gives you a jump boost and an opportunity to instantly kill that enemy by jumping and falling with velocity not less than 0.34D in motion Y (in other words, you must be falling with velocity already). If the act is success, that mob has a chance to drop its specific mob head. If failed on the other hand, gives you critical like damage that stacks with critical but drains your hunger. If overused, the technique will rapidly your hunger.
+Rune: Magical Blessing
+Converts your damage into magic (in other words, it is as if you have dealt a magic damage) by 25% with each level. Also grants an extra damage like sharpness. 
+Penetrating Edge
+Adversaries with high armor will take extra damage.
+Clearskies' Favor
+One of the weather enchantments. Deals extra damage to all if the weather is clear and deals lesser if it is not clear.
+Lunar's Blessing
+One of the two day and night enchantments. Deals extra damage and applies blindness if its night and lesser if its day.
+Rain's Bestowment
+One of the weather enchantments. Deals extra damage to all while raining and lesser damage if its not raining.
+Sol's Blessing
+One of the two day and night enchantments. Deals extra damage and applies glowing if its day and lesser if its night.
+Thunderstorm's Bestowment
+One of the weather enchantments. Deals extra damage to all during thunderstorms and lesser damage if its not during thunderstorms. Deals normal damage if its raining. During thunderstorm, attacks have chance to summon lightning that strikes the attacked victim. If the attack is made by jumping, Summons an extra explosion in addition to the lightning.
+Winter's Grace
+One of the weather enchantments though it functions in biomes with low temperature. Deals extra damage to all and applies several negative potion effects with each hit related to hypothermia. Owner also experiences longer invulnerability during winter time.

@@ -1,0 +1,44 @@
+Mutated Llama Mountains Spawn Rate
+Control the spawn rate of Mutated Llamas in mountains (any biome that is considered to be mountains, not cold, and not snowy by Forge).
+Mutated Llama High Savanna Spawn Rate
+Control the spawn rate of Mutated Llamas in high savannas (any biome that is considered to be a savanna by Forge and has a base height greater than 1.1).
+Shade Dissipation Light Level
+Control the light level at which Shades dissipate.\n§e1.0 will make Shades never dissipate.\n§e-0.1 will make Shades always dissipate.
+Darkness Mage Dissipation Light Level
+Control the light level at which Darkness Mages dissipate.\n§e1.0 will make Darkness Mages never dissipate.\n§e-0.1 will make Darkness Mages always dissipate.
+Shades
+Control whether Shades exist.
+Infested Endermen
+Control whether Infested Endermen exist.
+Darkness Mages
+Control whether Darkness Mages exist.
+Shadow Remnants
+Control whether Shadow Remnants exist.
+Spiritual Turrets
+Control whether Spiritual Turrets exist.\n§eWARNING: BUGGY AND DIFFICULLT TO FIGHT!
+Sickened Spiders
+Control whether Sickened Spiders exist.
+Mutated Wolves
+Control whether Mutated Wolves exist.
+Mutated Horses
+Control whether Mutated Horses exist.
+Mutated Cows
+Control whether Mutated Cows exist.
+Mutated Ocelots
+Control whether Mutated Ocelots exist.
+Mutated Pigs
+Control whether Mutated Pigs exist.
+Mutated Donkeys
+Control whether Mutated Donkeys exist.
+Mutated Sheep
+Control whether Mutated Sheep exist.
+Mutated Llamas
+Control whether Mutated Llamas exist.
+Possessed Sword Spawn Rate
+Control the spawn rate of Possessed Swords.
+Infested Endermen Spawn Rate
+Control the spawn rate of Infested Endermen.
+Infested Endermen Infest Other Endermen
+Control whether Infested Endermen will infest other\n§eEndermen (should no longer be an ender pearl farming exploit).
+Shades Infest Endermen
+Control whether Shades infest Endermen.

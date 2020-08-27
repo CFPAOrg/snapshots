@@ -1,0 +1,16 @@
+itemGroup.drawbridges
+tile.drawbridges.ore_tin.name
+tile.drawbridges.ore_copper.name
+tile.drawbridges.drawbridge.name
+tile.drawbridges.drawbridge_advanced.name
+tile.drawbridges.drawbridge_extended.name
+item.drawbridges.ingotCopper.name
+item.drawbridges.ingotTin.name
+item.drawbridges.ingotBronze.name
+item.drawbridges.plateCopper.name
+item.drawbridges.plateTin.name
+item.drawbridges.plateBronze.name
+item.drawbridges.plateIron.name
+item.drawbridges.plateGold.name
+item.drawbridges.hammer.name
+item.drawbridges.bronze_alloy.name

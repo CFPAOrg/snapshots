@@ -1,0 +1,10 @@
+Soldiers
+Clay Soldier
+For obvious reasons, to play around with those clay soldiers you need to create them first. Forming some clay mixed with soul sand into dolls in a crafting grid will give you 4 light gray soldiers.\n\nIn order to make them fight with eachother you need to have different teams. Inject the dolls with materials like dyes and such to assigning them specific teams based on the item(s) used.\n\nYou can stack up to 16 dolls of the same team, which get placed all at once (or one at a time by sneaking) when using the dolls on the face of a block.\n\nOnce placed, soldiers can pick up specific items that act as {link:upgrades|upgrades:}.
+Dye Soldier
+Combining dolls with a dye in a crafting grid will give you a colored variant of the {link:clay soldier|upgrades:baseSoldier}. Each color will be seen as a different team.\n\nYou can dye multiple dolls at once with one piece of dye by spreading them out on the grid.\n\nThe grid size doesn't matter, as long as there are at least 2 slots available (one for the dye, at least one for the doll(s))\n\nThe recipe is shapeless.
+Glass Soldier
+Combining dolls with a colored glass block in a crafting grid will give you a colored, transparent variant of the {link:clay soldier|upgrades:baseSoldier}. Each color will be seen as a different team.\n\nYou can glassify multiple dolls at once with one piece of glass by spreading them out on the grid.\n\nThe grid size doesn't matter, as long as there are at least 2 slots available (one for the glass block, at least one for the doll(s))\n\nThe recipe is shapeless.
+Miscellaneous Soldier
+Surrounding a material with 4 dolls in a crafting grid will give you variants of the {link:clay soldier|upgrades:baseSoldier} made out of that resource. Each material will be seen as a different team.\n\nThe grid size must be at minimum 3x3 big.
+Cleaning Soldiers

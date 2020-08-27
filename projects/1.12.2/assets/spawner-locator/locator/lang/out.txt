@@ -1,0 +1,54 @@
+§nAnimals
+Default
+Chicken
+Cow
+Horse
+Pig
+Sheep
+§nMonsters
+Default
+Creeper
+Enderman
+Skeleton
+Slime
+Zombie
+Blaze
+Ghast
+Magma cube
+Pig zombie
+§nSpawners
+(short: distance / edge / outline)
+(close: distance / edge / outline)
+(far: distance / edge / outline)
+Default
+Blaze
+Cave spider
+Skeleton
+Spider
+Zombie
+§nContainers
+(short: distance / edge)
+(close: distance / edge)
+(far: distance / edge)
+Chest
+Trapped chest
+Ender chest
+Minecart chest
+ShulkerBox
+Barrel
+§nBlocks
+(short: distance / edge)
+(close: distance / edge)
+(far: distance / edge)
+Radius
+Max
+Emerald
+Diamond
+Gold
+Iron
+Lapis
+Redstone
+Coal
+Quartz
+Obsidian
+end portal

@@ -1,0 +1,122 @@
+Molten Weak Blue Steel
+Molten Weak Red Steel
+Molten High Carbon Steel
+Molten High Carbon Blue Steel
+Molten High Carbon Red Steel
+Molten High Carbon Black Steel
+Unknown Molten Metal
+White Dye
+Orange Dye
+Magenta Dye
+Light Blue Dye
+Yellow Dye
+Lime Dye
+Pink Dye
+Gray Dye
+Light Gray Dye
+Cyan Dye
+Purple Dye
+Blue Dye
+Brown Dye
+Green Dye
+Red Dye
+Black Dye
+Native Copper
+Native Gold
+Native Platinum
+Native Silver
+Hematite
+Cassiterite
+Bismuthinite
+Garnierite
+Malachite
+Magnetite
+Limonite
+Sphalerite
+Tetrahedrite
+Bituminous Coal
+Lignite
+Kaolinite
+Graphite
+Kimberlite
+Cinnabar
+Cryolite
+Saltpeter
+Sylvite
+Borax
+Gypsum
+Lapis Lazuli
+Surface Native Copper
+Surface Cassiterite
+Surface Bismuthinite
+Surface Sphalerite
+Surface Tetrahedrite
+TFC Debug Block
+Placed Items
+Debris
+Pit Kiln
+Charcoal Forge
+Peat
+Peat Grass
+Thatch
+Firepit
+Bellows
+Crucible
+Torch
+Blast Furnace
+Bloomery
+Fire Bricks
+Quern
+Large Vessel
+Fire Clay
+Aggregate
+Sluice
+Ice
+Sea Ice
+Nest Box
+Powderkeg
+Cyan Alabaster Bricks
+Black Alabaster Bricks
+Magenta Alabaster Bricks
+Orange Alabaster Bricks
+Lime Alabaster Bricks
+ Alabaster Bricks
+Blue Alabaster Bricks
+Purple Alabaster Bricks
+Light Blue Alabaster Bricks
+Gray Alabaster Bricks
+Light Gray Alabaster Bricks
+Yellow Alabaster Bricks
+Brown Alabaster Bricks
+Pink Alabaster Bricks
+Green Alabaster Bricks
+White Alabaster Bricks
+Red Alabaster Bricks
+Cyan Alabaster
+Black Alabaster
+Magenta Alabaster
+Orange Alabaster
+Lime Alabaster
+ Alabaster
+Blue Alabaster
+Purple Alabaster
+Light Blue Alabaster
+Gray Alabaster
+Light Gray Alabaster
+Yellow Alabaster
+Brown Alabaster
+Pink Alabaster
+Green Alabaster
+White Alabaster
+Red Alabaster
+Cyan Smooth Alabaster
+Black Smooth Alabaster
+Magenta Smooth Alabaster
+Orange Smooth Alabaster
+Lime Smooth Alabaster
+ Smooth Alabaster
+Blue Smooth Alabaster
+Purple Smooth Alabaster
+Light Blue Smooth Alabaster
+Gray Smooth Alabaster
+Light Gray Smooth Alabaster

@@ -1,0 +1,3 @@
+Mechanical Pattern Crafter
+First, I should research if this mechanical power is even useful for anything, then I'll look into ways of creating it.
+It was simple really, all I had to do was replace the vis resonator with a mechanical input. It still works exactly the same as an arcane pattern crafter but it can actually work faster if more mechanical power is put in.

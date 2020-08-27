@@ -1,0 +1,14 @@
+tile.moneymachine.name
+item.copperingot.name
+item.silveringot.name
+item.silvercoin.name
+item.meltedcopper.name
+item.meltedgold.name
+tile.copperore.name
+item.goldencoin.name
+item.castcircle.name
+item.castsheet.name
+item.circlemould.name
+item.coppercoin.name
+item.meltedsilver.name
+tile.silverore.name

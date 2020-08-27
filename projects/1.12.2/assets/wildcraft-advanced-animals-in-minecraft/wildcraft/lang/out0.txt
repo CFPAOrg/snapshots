@@ -1,0 +1,90 @@
+WildCraft Wolf
+Amulet of Undying
+Basic Canine Collar
+Basic Canine Collar (Black)
+bred to
+ERROR
+will give birth soon
+is now pregnant
+Female
+female
+Male
+male
+Wolf
+Attack
+Exp
+Health
+Level
+Speed
+Genetics
+Agouti
+Black
+Blue
+Brindle
+Common
+Blue
+Chocolate
+Gold
+Green
+Orange
+Yellow
+Irish White
+Isabella
+Liver
+Masked
+Normal Pigment
+No Mask
+Non-Solid Black
+No Solid White
+No White
+Piebald (heterozygous)
+Piebald (homozygous)
+Rare
+Recessive Black
+Recessive Red
+Sable
+Saddle
+Solid Black
+Solid White
+Tan Points
+Uncommon
+Follow
+Sit
+Wander
+Animal
+Friendly Fire Prevention
+Can animals be hurt by their owner?  If true, animals will not take damage from being struck by their owner.
+Canine Settings
+General Settings
+Wolf Settings
+Wolf Level Settings
+Wolf Spawn Rates
+Very Common
+Very high spawn rate
+Common
+High spawn rate
+Average
+Average spawn rate
+Rare
+Low spawn rate
+Very Rare
+Very low spawn rate
+Canines exhibit destructive behaviors
+Should canines be allowed to exhibit destructive behaviors (stealing food, digging, etc.)?
+Wolf Female Breeding Cooldown
+How many seconds it takes for the female wolf to become breedable again
+Wolf Male Breeding Cooldown
+How many seconds it takes for the male wolf to become breedable again
+WolfPregnancy Time
+How many seconds it takes for a wolf to give birth after breeding
+Replace Vanilla Wolves?
+Should vanilla wolves be replaced with WildCraft ones? [WARNING: Overrides ALL vanilla wolf spawns, even spawn eggs!!!] [NOT CURRENTLY FUNCTIONAL]
+Spawn WildCraft wolves?
+Should WildCraft wolves spawn naturally in the world?
+Immortal?
+Immortal animals cannot die, but instead will revert to an injured state [even if false, wolves can be rendered immortal with an Undying Amulet]
+Max litter size
+The maximum possible litter size for wolves
+Health Cap
+Speed Cap
+The maximum number of speed points any wolf can have [Recommended not to set higher than 20: Higher speeds may cause lag and/or targeting difficulties and other problems]

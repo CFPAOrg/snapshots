@@ -1,0 +1,3 @@
+cqc.keybinds.category
+cqc.keybinds.breachdoor
+death.attack.door.breaching

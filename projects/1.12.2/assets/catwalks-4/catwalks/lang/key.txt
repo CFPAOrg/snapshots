@@ -1,0 +1,11 @@
+itemGroup.catwalks
+item.catwalks.blowtorch.name
+tile.catwalks.cable.name
+tile.catwalks.catwalk.classic.name
+tile.catwalks.ladder.name
+tile.catwalks.catwalk.magneticraft_steel.name
+tile.catwalks.catwalk.custom_0.name
+tile.catwalks.catwalk.glass.name
+tile.catwalks.catwalk.treated_wood.name
+tile.catwalks.catwalk.nyanwalk.name
+tile.catwalks.stair.name

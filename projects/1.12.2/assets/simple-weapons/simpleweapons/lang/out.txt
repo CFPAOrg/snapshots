@@ -1,0 +1,16 @@
+Diamond Broadsword
+Gold Broadsword
+Iron Broadsword
+Wood Broadsword
+Diamond Longsword
+Gold Longsword
+Iron Longsword
+Wood Longswords
+Diamond Shortsword
+Gold Shortsword
+Iron Shortsword
+Wood Shortsword
+Diamond Spear
+Gold Spear
+Iron Spear
+Wood Spear

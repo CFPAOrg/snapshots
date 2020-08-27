@@ -1,0 +1,7 @@
+connect.bind.open
+connect.ui.button.add
+connect.ui.button.join
+connect.ui.button.random
+connect.ui.button.servers
+connect.ui.suggestions.title
+connect.ui.suggestions.tooltip

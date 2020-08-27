@@ -1,0 +1,16 @@
+item.stonegauntlet.name
+item.obsidiangauntlet.name
+item.emeraldgauntlet.name
+item.redstonegauntlet.name
+item.woodengauntlet.name
+item.diamondgauntlet.name
+item.irongauntlet.name
+item.quartzgauntlet.name
+item.gauglettest.name
+key.mcreator.gauntletabilitykeybind
+item.netherstargauntlet.name
+tile.gauntletcraftingtable.name
+item.dispensergauntlet.name
+itemGroup.tabcreativetab
+item.magmagauntlet.name
+item.goldengauntlet.name

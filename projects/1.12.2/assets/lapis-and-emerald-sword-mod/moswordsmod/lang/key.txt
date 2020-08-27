@@ -1,0 +1,7 @@
+item.lapisrod.name
+item.lapisglue.name
+item.emeraldsword.name
+item.emeraldrod.name
+tile.emeraldsubstanceore.name
+item.emeraldglue.name
+item.lapissword.name

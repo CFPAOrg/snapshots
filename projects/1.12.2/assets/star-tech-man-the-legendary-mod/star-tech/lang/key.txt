@@ -1,0 +1,16 @@
+block.blueprint_creator.name
+block.printer.name
+tile.printer.name
+tile.blueprint_creator.name
+tile.hologram.name
+entity.bullet.name
+item.blueprint.name
+item.printed_gun.name
+item.cosmi_rod.name
+item.power_stone.name
+star-tech.notenoughstructure
+star-tech.abilities.concussive_blast.name
+star-tech.abilities.tendrils.name
+star-tech.abilities.power_blast.name
+star-tech.abilities.power_impower.name
+star-tech.abilities.power_rocket_burst.name

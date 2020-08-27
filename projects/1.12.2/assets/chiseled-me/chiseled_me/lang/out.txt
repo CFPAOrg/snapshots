@@ -1,0 +1,59 @@
+Chiseled Me
+You are too small to sleep in bed!
+You are too big to sleep in bed!
+/sizeof entity [<set|add|subtract|multiply|divide> size [animate]]
+Relative size of %s is %s!
+Set size of %s to %s!
+  §8Charges left: §7%s
+Matter Volume Recalibrator [ 1.0 ]
+§8§o-Right click to reset your size to normal.
+Matter Volume Recalibrator [ 1/%s ]
+§8§o-Right click to become 1/%s'th of normal.
+Matter Volume Recalibrator [ %s ]
+§8§o-Right click to become %s times bigger than normal.
+Blue Nether Star
+Pym Container
+Hardened Pym Container
+Pym essence
+Concentrated Pym essence
+Antipolarized Concentrated Pym essence
+Beginning
+Craft a pym container
+Pym essence
+Wobbly red thing inside a small container
+Depletion
+Opportunely this thing does reset your size for free
+Easy cablework!
+Become 1/2 of your size
+Stairs are too big now
+Become 1/4 of your size
+Accessible mouse holes
+Become 1/8 of your size
+Chisel & Bits FTW!
+Become 1/16 of your size
+I need C&B for C&B now!
+Become 1/256 of your size
+Advancements
+Craft a bigger pym container
+Concentrated Pym essence
+Wobbly red thing inside a *big* container
+Supersmall
+Become 1/512 of your size
+The Limit
+Become 1/4096 of your size
+Blue nether star?
+Combine a nether star with lapis block
+Unusual beacon
+This beacon is somehow weird. Use it?
+Surprize? :D
+Convert blue nether star into the lapis block
+Antipolarization
+Antipolarize some concentrated pym essence with blue nether star
+Double!
+Become twice as big
+Quadruple!
+Become 4 times bigger
+Octuple!
+Become 8 times bigger
+Sexdecuple!!1!
+Become 16 times bigger

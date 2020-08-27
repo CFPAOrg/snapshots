@@ -1,0 +1,7 @@
+message.fastlogblock:blockinfo.event.insert
+message.fastlogblock:blockinfo.event.remove
+message.fastlogblock:blockinfo.event.done
+message.fastlogblock:blockinfo.event.empty
+message.fastlogblock:blockinfo.event.permissionerror
+message.fastlogblock:blockinfo.event.dateformat
+item.fastlogblock:infoitem.name

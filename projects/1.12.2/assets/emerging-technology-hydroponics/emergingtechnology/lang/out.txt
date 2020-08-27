@@ -1,0 +1,75 @@
+Can store up to %sRF of energy.
+Can store up to %smB of fluid.
+Can store up to %smB of CO2.
+Can store up to %smB of water.
+Right click to use.
+Press SHIFT for more details.
+Base (Medium): 
+Base (Fluid): 
+Boost (Medium): 
+Boost (Fluid): 
+Light Total: 
+Base: 
+Boost: 
+Max range: 
+Affected Plants: 
+Growth boost from bulb: x%s
+Grow Light or bulb not found.
+Energy Storage
+Fluid Storage
+Gas Storage
+Temperature
+Growth Modifiers
+Error
+Unable to fabricate item
+Insufficient energy
+Insufficient items in input
+Output full
+Invalid output item
+Invalid input item
+Program 
+Requires 
+Assign a Core to this boost.
+Unassign a Core from this boost.
+%s Cores remaining.
+Reduces resource usage by %s percent.
+Reduces processing time by %s percent.
+Set %s side to Input (Currently Output)
+Set %s side to Output (Currently Input)
+New fish are kept in tank
+New fish are moved to output
+Emerging Technology - Configuration
+Disable Machine
+Prevent this machine from being crafted and appearing in Creative Tab
+Hydroponics
+Configure Grow Bed, Grow Light, Harvester, Filler, Scrubber, Diffuser and Injector here
+Hydroponic Grow Bed
+Hydroponic Grow Light
+Harvester
+Water Filler
+CO2 Scrubber
+CO2 Diffuser
+Nutrient Injector
+Polymers
+Configure World Generation, Shredder, Processor, Fabricator and Collector here
+Shredder
+Processor
+Fabricator
+Waste Collector
+World Generation
+Synthetics
+Configure Bioreactors, Scaffolder and Solar Cooker here
+Tissue Bioreactor
+Algae Bioreactor
+Tissue Scaffolder
+Solar Cooker
+Electrics
+Configure Solar Panel, Solar Glass, Tidal Generator, Biomass Generator, Piezoelectric Generator and Battery here
+Solar Panel
+Solar Glass
+Tidal Generator
+Biomass Generator
+Piezoelectric Generator
+Battery
+Wind Generator
+Algorithmic Optimizer

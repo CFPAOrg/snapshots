@@ -1,0 +1,36 @@
+Fusion Core
+Fusion Core
+Molten Salt Reactor Controller
+The heart of the reactor - one is needed in the wall for it to form.
+Molten Salt Reactor Wall
+Comprises the faces of the reactor structure.
+Molten Salt Reactor Glass
+Comprises the faces of the reactor structure.
+Molten Salt Reactor Frame
+Comprises the edges and corners of the reactor structure.
+Molten Salt Reactor Beam
+Used to connect otherwise disconnected parts of the reactor to the wall.
+Molten Salt Reactor Vent
+Used to move fuel and coolant in and out of the reactor. Will push to [accept from] accepting [pushing] vessels and heaters.
+Molten Salt Fission Vessel
+Where the molten salt nuclear fuel fissions and depletes. Place against another vessel while sneaking to copy across its side configuration.
+Molten Salt Coolant Heater
+Where the salt coolant is heated to cool the reactor. Coolants must obey their placement rules to have any effect. Place against another heater while sneaking to copy across its side configuration.
+Molten Salt Reactor Moderator Housing
+Increases the efficiency of adjacent active vessels.
+Molten Salt Fuel Distributor
+Placed in the wall of the reactor - will spread fuel to all vessels at a limited rate.
+Molten Salt Depleted Fuel Retriever
+Placed in the wall of the reactor - will take depleted fuel from all vessels at a limited rate.
+Molten Salt Reactor Redstone Port
+Used to turn the reactor on and off. The heat level of the reactor can be read with a comparator from this block.
+Molten Salt Reactor Computer Port
+Used to access the reactor via OpenComputers.
+Heat Exchanger Controller
+The heart of the exchanger - one is needed in the wall for it to form.
+Heat Exchanger Shell
+Comprises the faces of the exchanger structure.
+Heat Exchanger Glass
+Comprises the faces of the exchanger structure.
+Heat Exchanger Frame
+Comprises the edges and corners of the exchanger structure.

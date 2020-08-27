@@ -1,0 +1,14 @@
+item.jazzium_ingot.name
+item.flamed_jazzium_ingot.name
+tile.jazzium_block.name
+tile.jazzium_ore.name
+tile.flamed_jazzium_block.name
+item.flamed_jazzium_sword.name
+item.flamed_jazzium_shovel.name
+item.flamed_jazzium_pickaxe.name
+item.flamed_jazzium_axe.name
+item.flamed_jazzium_hoe.name
+item.flamed_jazzium_helmet.name
+item.flamed_jazzium_chestplate.name
+item.flamed_jazzium_leggings.name
+item.flamed_jazzium_boots.name

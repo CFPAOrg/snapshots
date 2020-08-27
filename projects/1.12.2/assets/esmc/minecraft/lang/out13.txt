@@ -1,0 +1,107 @@
+Potion of Strength
+Potion of Weakness
+Potion of Levitation
+Potion of Luck
+Splash Uncraftable Potion
+Splash Water Bottle
+Mundane Splash Potion
+Thick Splash Potion
+Awkward Splash Potion
+Splash Potion of Night Vision
+Splash Potion of Invisibility
+Splash Potion of Leaping
+Splash Potion of Fire Resistance
+Splash Potion of Swiftness
+Splash Potion of Slowness
+Splash Potion of Water Breathing
+Splash Potion of Healing
+Splash Potion of Harming
+Splash Potion of Poison
+Splash Potion of Regeneration
+Splash Potion of Strength
+Splash Potion of Weakness
+Splash Potion of Levitation
+Splash Potion of Luck
+Lingering Uncraftable Potion
+Lingering Water Bottle
+Mundane Lingering Potion
+Thick Lingering Potion
+Awkward Lingering Potion
+Lingering Potion of Night Vision
+Lingering Potion of Invisibility
+Lingering Potion of Leaping
+Lingering Potion of Fire Resistance
+Lingering Potion of Swiftness
+Lingering Potion of Slowness
+Lingering Potion of Water Breathing
+Lingering Potion of Healing
+Lingering Potion of Harming
+Lingering Potion of Poison
+Lingering Potion of Regeneration
+Lingering Potion of Strength
+Lingering Potion of Weakness
+Lingering Potion of Levitation
+Lingering Potion of Luck
+II
+III
+Sharpness
+Smite
+Bane of Arthropods
+Knockback
+Fire Aspect
+Sweeping Edge
+Protection
+Fire Protection
+Feather Falling
+Blast Protection
+Projectile Protection
+Respiration
+Aqua Affinity
+Depth Strider
+Frost Walker
+Efficiency
+Silk Touch
+Unbreaking
+Looting
+Fortune
+Luck of the Sea
+Lure
+Power
+Flame
+Punch
+Infinity
+Thorns
+Mending
+Curse of Binding
+Curse of Vanishing
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+Advancements
+Stats
+There doesn't seem to be anything here...
+Advancement Made!
+Challenge Complete!
+Goal Reached!
+Statistic
+General
+Blox
+Things
+Mansters
+Times Used
+Times Mined
+Times Depleted
+Times Crafted
+You rekt %s %s
+%s rekd you %s time(s)
+You have never killed %s
+You have never been killed by %s
+Obsession Count
+Maps Created

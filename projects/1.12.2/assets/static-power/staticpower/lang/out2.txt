@@ -1,0 +1,139 @@
+Energized Lamp
+Lumum Lamp
+Static Grass
+Energized Grass
+Static Chest
+Energized Chest
+Lumum Chest
+Vacuum Chest
+Advanced Earth
+Machine Block
+Obsidian Glass
+§aStatic Metal Block
+§bEnergized Metal Block
+§eLumum Metal Block
+Copper Block
+Tin Block
+Silver Block
+Lead Block
+Platinum Block
+Nickel Block
+Aluminium Block
+Sapphire Block
+Ruby Block
+Copper Ore
+Tin Ore
+Silver Ore
+Platinum Ore
+Lead Ore
+Nickel Ore
+Aluminium Ore
+Sapphire Ore
+Ruby Ore
+Static Cobblestone
+Energized Cobblestone
+Lumum Cobblestone
+Static Brick
+Energized Brick
+Lumum Brick
+Static Wood
+Energized Wood
+Lumum Wood
+Static Planks
+Energized Planks
+Lumum Planks
+§aStatic Fluid
+§aStatic Fluid
+§bEnergized Fluid
+§bEnergized Fluid
+§eLumum Fluid
+§eLumum Fluid
+§5Refined Fluid
+§5Refined Fluid
+Ethanol
+Ethanol
+Steam
+Steam
+Mash
+Mash
+Evaporated Mash
+Evaporated Mash
+Liquid Experience
+Liquid Experience
+Tree Sap
+Tree Sap
+Tree Oil
+Tree Oil
+Redstone Transducer
+Redstone Transducer
+Not Gate
+Power Cell
+Power Cell
+Timer
+Timer
+Adder
+And Gate
+Or Gate
+Subtractor
+LED
+Crop Generator
+Squeezer
+Fluid Infuser
+Fluid Generator
+Powered Grinder
+Powered Furnace
+Fusion Furnace
+Machine Controller
+Basic Farmer
+Powered Lumberjack
+Static Battery
+Energized Battery
+Lumum Battery
+Static Chest
+Energized Chest
+Lumum Chest
+Block Breaker
+Solid Generator
+Water Generator
+Industrial Furnace
+Industrial Grinder
+Soldering Table
+Vacuum Chest
+Fermenter
+Former
+Basic Item Filter
+Upgraded Item Filter
+Advanced Item Filter
+Digistore
+Digistore Manager
+Esoteric Enchanter
+Supersonic Centrifuge
+Fluid Refinery Controller
+Lumber Mill
+Quarry
+Mechanical Squeezer
+Static Wrench
+Soldering Iron
+Electric Soldering Iron
+Static Book
+Coordinate Marker
+Wire Cutters
+Metal Hammer
+Copper Axe
+Copper Pickaxe
+Copper Hoe
+Copper Shovel
+Copper Sword
+Tin Axe
+Tin Pickaxe
+Tin Hoe
+Tin Shovel
+Tin Sword
+Silver Axe
+Silver Pickaxe
+Silver Hoe
+Silver Shovel
+Silver Sword
+Lead Axe
+Lead Pickaxe
+Lead Hoe

@@ -1,0 +1,12 @@
+Diamond
+This is the second-best upgrade you can apply to a soldier. It will make them tougher, faster, doubles usage for upgrades and provides a special crown and cape.\n\n§7-§1 Misc. upgrade\n§7-§1 doubles uses of upgrades\n§7-§1 50%% speed boost\n§7-§1 10x more health\n§7-§1 incompatible with {link:Diamond Block|upgrades:diamondblock}
+Diamond Block
+A Diamond Block provides the same benefits as the {link:Diamond|upgrades:diamond}, but more...\n\n§7-§1 Misc. upgrade\n§7-§1 5x uses of upgrades\n§7-§1 50%% speed boost\n§7-§1 80x more health\n§7-§1 incompatible with {link:Diamond|upgrades:diamond}
+Ender Pearl
+Be careful with this item! It's causing a soldier to "zombify", attacking any other soldier. If they manage to kill a non-infected one, those will immediately spring back to life as a zombie as well! Not only that, but zombies seem to be harder to kill, too.\n\nDon't fret if you do have a zombie outbreak, though, as they'll die after a while of no fighting.\n\n§7-§1 Misc. upgrade\n§7-§1 makes soldiers aggressive\n§7-§1 + 5 pts. health\n§7-§1 soldiers killed by zombies\n§1   become zombified\n§7-§1 soldier dies after 10 min.\n§1   of no fighting\n§7-§1 incompatible with {link:Wheat Seeds|upgrades:wheatseeds}
+Wheat Seeds
+If you find yourself using the {link:Ender Pearl|upgrades:enderpearl} upgrade, you can give some soldiers Wheat Seeds, as they prevent them from being reincarnated as zombies.\n\n§7-§1 Misc. upgrade\n§7-§1 prevents zombification\n§7-§1 incompatible with {link:Ender Pearl|upgrades:enderpearl}
+Blaze Powder
+Soldiers carrying Blaze Powder are a force to be reckon with, since they'll turn their target into a Brick Doll in an instant. The powder is used up completely, though.\n\n§7-§1 Misc. upgrade\n§7-§1 1 use\n§7-§1 turns target into a\n§1   Brick Doll
+Lily Pad
+Knowing how buoyant Lily Pads are, soldiers can fold them into pants to wear. Not only can they swim with them, but also breathe underwater if need be.\n\n§7-§1 Misc. upgrade\n§7-§1 adds water breathing\n§7-§1 adds ability to swim

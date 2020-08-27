@@ -1,0 +1,35 @@
+Format: /%s <mode-name>
+- %s : Beekeeping Mode Set
+Set the beekeeping mode for world.
+Format: /%s [<world-#>] <mode-name>
+- %s : Save Beekeeping Statistics
+Save beekeeping statistics to file.
+Format: /%s [<player-name>]
+Beekeeping statistics for %s on %s:
+No mode called '%s' is available.
+Current: %1$s (#%2$s)
+Available modes: %s
+Mode set to %s.
+A mode called '%s' is not available.
+Log file could not be created. Failed to save statistics.
+Cannot write to log file. Failed to save statistics.
+Write operation threw an exception. Failed to save statistics.
+No statistics found.
+Saved statistics for player %s
+Discovered
+X
+Blacklisted
+BL
+Not counted for the species total
+NC
+Mode: %s
+"Doesn't reek as much as the alternative. Gets the job done, eh?"|Myrathi, Cannie Beekeeper
+Dangerous and volatile; Beekeepers are advised to stay in full suit whenever near.|Beekeeping 101
+"The walls of my house began to crumble and I heard the roof creaking over my head, but I cared not! I felt the stabs of a thousand little insects on my glove as I grabbed the new queen."|Anonymous
+"I saw a cow get stung by one of these once. Seconds later, it started sprouting mushrooms all over! ... A photo? Uh, didn't take one."|"Sir" Sengir, madman
+Considered the beginner apiarist's badge of participation.|Beekeeping 101
+Fast working bee; Thinks anything but opera is beneath it.|Beekeeping 101
+Attracted by the power of alchemically bound matter, this species was a powerful source of energy.|Beekeeper's Lexicon
+Born in the fires of the nether and being a descendant of generations of nether bees has caused this species to turn into a true demon.|Beekeeping 101
+Mostly noted as a stepping stone for the industrious line of bees.|Beekeeping 101
+"I furiously scribbled in my notebook, drawing sketches of the images I felt seeping into my brain while I was watching the insects perform their strange little dance."|Beekeeping 101

@@ -1,0 +1,32 @@
+Healthy Carrot
+Flash Carrot
+Jump Carrot
+Horse Spy
+Horse Modifiers
+The limit has been reached! Don't go to fast!
+Changes the speed attribute!
+When the limit is reached you need to lock the horse in a cell!
+The limit has been reached! Don't go Super Saiyan God!
+Changes the health attribute!
+When the limit is reached the horse becomes the HULK!
+The limit has been reached! The moon can't be reached!
+Changes the jump attribute!
+When the limit is reached the affected horse can jump 7 blocks height!!
+Click on the horse to spy
+Horse Modifiers Configs
+Items Configs
+All the mod items configs
+Flash Carrot
+How much the carrot increases the speed (3.0 is the max value from minecraft)
+Flash Carrot Limit
+Horse Speed max value
+Healthy Carrot
+How much the carrot increases the HP
+Jump Carrot
+How much the carrot increases the jump
+Jump Carrot Limit
+Horse jump max value (2.2 is the max value from minecraft)
+Features Configs
+All the mod features configs
+Show update message on load.
+If ON will display one message when joined the world.

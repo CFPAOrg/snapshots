@@ -1,0 +1,23 @@
+Null is a special variable type, which has no value. It is the default type of an undefined variable.
+Integer (often shortened to Int) is a number variable type, mainly used in calculations and number comparisons.
+String is a text variable type, it can hold a variety of different characters.
+Boolean (often shortened to Bool) is a logic variable type, it can hold one of two values - True or False and can be used in logic functions.
+ItemStack is an advanced variable type which can hold informations about a specific item (not item type) like id, metadata (damage) and NBT.
+Array is a collection of variables, ordered by their index number (starting from 0), it can hold any variable type, except another array.
+Pair is a variable type, which consists of two basic variable types, often used in comparisons.
+Range is a variable type, which consists of two <link;data_variable_types_int;§o§nIntegers§r;>, it is most commonly used in comparing numbers or setting them in a range.
+Default Value
+Minimal Value
+Maximal Value
+Lowest Index
+Highest Index
+Empty
+Accepted Values
+Maximal Length
+True/False
+False
+True
+Circuitry
+Not really Beep-Boop yet
+Circuits are one of the most important and commonly used electronic parts. There are three kinds of circuits: <link;circuit_production_basic;§n§obasic§r;> - made using vacuum tubes and redstone, <link;circuit_production_advanced;§o§nadvanced§r;> - made using Advanced Electronic Alloy™ and upgraded vacuum tubes. The most sophisticated are the <link;circuit_production_processor;§o§nprocessor§r;> circuits, which are made mainly of silicon in a complicated <link;precision_assembler;§o§nassembly§r;> process.
+Basic circuits are the common, primary and cheap circuits. They can be refitted to perform simple arithmetic, logic and text operations, but their main use is construction of various machines. To produce a basic circuit a raw circuit board has to be <chemical_bath;§o§netched§r;> in acid and then a chip made of vacuum tubes in the <link;precission_assembler;§o§nPrecision §o§nAssembler§r;> has to be installed onto them.

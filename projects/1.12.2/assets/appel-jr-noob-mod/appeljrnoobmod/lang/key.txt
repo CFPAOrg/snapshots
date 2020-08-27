@@ -1,0 +1,17 @@
+advancements.de.descr
+item.w.name
+item.appel.name
+item.stick.name
+tile.blockofappeljr.name
+item.noobhelmet.name
+item.nooblegs.name
+item.cnd.name
+tile.nub.name
+item.noobmaterial.name
+item.noobboots.name
+item.hammer.name
+advancements.de.title
+fluid.bro
+entity.broyo.name
+item.noobbody.name
+fluid.applejuice

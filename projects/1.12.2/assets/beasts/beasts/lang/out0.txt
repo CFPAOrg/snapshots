@@ -1,0 +1,124 @@
+Butterflyfish
+Vile Eel
+Pufferpup
+Rabbitman
+Coconut Crab
+Landwhale
+Skewer Shrimp
+Giant Garden Eel
+Legfish
+Beasts Painting
+Coral Branchie
+Chorus Branchie
+Wood Branchie
+Whipping Barnacle
+Hermit Turtle
+Anemone Crawler
+Scallop
+Trimola
+Slime Slug
+Fairy Bread
+Butterflyfish Wing
+Reef Mixture
+Leafy Bone
+Carrot Coin [NYI]
+Diamond Tipped Carrot [NYI]
+Raw Crab Leg
+Cooked Crab Leg
+Coco-Nade
+Coconut
+Raw Scallop Tongue
+Cooked Scallop Tongue
+Raw Eel Chop
+Cooked Eel Chop
+Blue Coral Essence
+Pink Coral Essence
+Purple Coral Essence
+Red Coral Essence
+Yellow Coral Essence
+Raw Shrimp
+Cooked Shrimp
+Raw Shrimp Kebab
+Cooked Shrimp Kebab
+Coconut Bowl
+Raw Daggerfish
+Cooked Daggerfish
+Fishstar [NYI]
+Athapod Chitin [NYI]
+Spartapod Chitin [NYI]
+Spartapod Crest [NYI]
+Ice Crab Chitin [NYI]
+Worm Tooth [NYI]
+Glow Root [NYI]
+Hermit Helm
+Spartapod Helmet [NYI]
+Spartapod Chestplate [NYI]
+Spartapod Leggings [NYI]
+Spartapod Boots [NYI]
+Puffer Helmet
+Puffer Tunic
+Puffer Leggings
+Puffer Boots
+Puffer Scale
+Rabbit Stew
+Mushroom Stew
+Coconut Milk
+Beasts Painting
+Jelly Sword
+Jelly Axe
+Jelly Pickaxe
+Jelly Shovel
+Jelly Hoe
+Jellywood Door
+Meat Scraps
+Palm Door
+Shell Shield
+Coconut
+Blue Coral
+Pink Coral
+Purple Coral
+Red Coral
+Yellow Coral
+Blue Coral
+Pink Coral
+Purple Coral
+Red Coral
+Yellow Coral
+Blue Coral Sapling
+Pink Coral Sapling
+Purple Coral Sapling
+Red Coral Sapling
+Yellow Coral Sapling
+Shell Block
+Tan Shell Block
+Brown Shell Block
+Light Brown Shell Block
+White Sand [NYI]
+Glow Root [NYI]
+Jellywood Log
+Jellywood Leaves
+Jellywood Planks
+Jellywood Fence
+Jellywood Fence Gate
+Jellywood Door
+Jellywood Trapdoor
+Jellywood Slab
+Jellywood Stairs
+Jellywood Sapling
+Palm Leaves
+Palm Log
+Palm Planks
+Palm Tree Sapling
+Palm Stairs
+Palm Slab
+Palm Trapdoor
+Palm Fence
+Palm Gate
+Palm Door
+Hermit Shell
+Anemone Stalk
+Anemone Tentacle
+Anemone Mouth
+Hermit Turtle Shell
+LogCascadingWorldGeneration
+Stop, Hammertime!

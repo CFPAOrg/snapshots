@@ -1,0 +1,4 @@
+key.enableView
+key.openShulker
+key.toggleView
+key.categories.shulkerTooltip

@@ -1,0 +1,10 @@
+streak.config.cat.basics.name
+streak.config.cat.basics.comment
+streak.config.prop.streakTime.name
+streak.config.prop.playersFollowYourFavouriteFlavour.name
+streak.config.prop.sprintTrail.name
+streak.config.prop.favouriteFlavour.name
+streak.config.prop.streakTime.comment
+streak.config.prop.playersFollowYourFavouriteFlavour.comment
+streak.config.prop.sprintTrail.comment
+streak.config.prop.favouriteFlavour.comment

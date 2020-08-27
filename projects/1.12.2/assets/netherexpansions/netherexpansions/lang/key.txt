@@ -1,0 +1,10 @@
+tile.permafrostore.name
+item.permafrostarmorhelmet.name
+item.permafrostpick.name
+item.permafrostaxe.name
+item.permafrostarmorlegs.name
+item.permafrostsword.name
+item.permafrostarmorbody.name
+item.permafrostarmorboots.name
+item.permafrostgem.name
+item.frozennether.name

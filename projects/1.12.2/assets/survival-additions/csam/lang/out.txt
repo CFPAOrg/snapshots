@@ -1,0 +1,68 @@
+Bone Hatchet
+Bone Hoe
+Bone Knife
+Bone Pick
+Cactus Stew
+Carrot Soup
+Chain
+Clay Axe Head
+Clay Hoe Head
+Clay Pickaxe Head
+Clay Shovel Head
+Clay Sword Head
+Crude Shield
+Flint Hatchet
+Flint Hoe
+Flint Knife
+Flint Pick
+Flint Spade
+Nether Wart Stew
+Netherrack Axe
+Netherrack Hoe
+Netherrack Pickaxe
+Netherrack Shovel
+Netherrack Sword
+Potato Soup
+Quartz Hatchet
+Quartz Hoe
+Quartz Knife
+Quartz Pick
+Quartz Spade
+Sandstone Axe
+Sandstone Hoe
+Sandstone Pickaxe
+Sandstone Shovel
+Sandstone Sword
+Sharpened Bone
+Sharpened Flint
+Terracotta Axe
+Terracotta Axe Head
+Terracotta Hoe
+Terracotta Hoe Head
+Terracotta Pickaxe
+Terracotta Pickaxe Head
+Terracotta Spade
+Terracotta Shovel Head
+Terracotta Sword
+Terracotta Sword Head
+Survival Additions Blocks
+Survival Additions Misc
+Survival Additions Tools
+Mud Bricks
+Mud Brick Slab
+Mud Brick Stairs
+Wet Mud Bricks
+Scrap Wood Planks
+Scrap Wood Slab
+Scrap Wood Stairs
+Infected Oak Planks
+Infected Spruce Planks
+Infected Birch Planks
+Infected Jungle Planks
+Infected Acacia Planks
+Infected Dark Oak Planks
+Infected Scrap Planks
+Chorus Stew
+Snow Bricks
+Snow Brick Slab
+Snow Brick Stairs

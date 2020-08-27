@@ -1,0 +1,73 @@
+Gold Mace
+Diamond Mace
+Emerald Mace
+Obsidian Mace
+Moonstone Mace
+Stone Greatsword
+Iron Greatsword
+Gold Greatsword
+Diamond Greatsword
+§aJagged Greatsword
+Emerald Greatsword
+Obsidian Greatsword
+Moonstone Greatsword
+Giant's Greatsword
+Claymore
+§dRagnarok
+Greathammer
+Giant's Club
+Iron Bow
+Gold Bow
+Diamond Bow
+Emerald Bow
+Obsidian Bow
+Moonstone Bow
+§dStorm Bow
+§dBlast Bow
+Wooden Spear
+Stone Spear
+Iron Spear
+Gold Spear
+Diamond Spear
+Emerald Spear
+Obsidian Spear
+Moonstone Spear
+§6Heat Knife
+§6Excalibur
+§6Royal Katana
+§6Hammer Greatsword
+§6Goliath Hammer
+§6Radiant Axe
+§6Lightning Spear
+§6Greatbow
+§6Tower Shield
+§cGreatarrow
+§dHero's Bow
+§6Master Sword
+§cTriforce
+§cTriforce Shard
+§bKokiri Sword
+Darknut Rapier
+Darknut Sword
+Deku Nut
+Chilly Mushroom Skewer
+Hasty Mushroom Skewer
+Tough Mushroom Skewer
+Hearty Simmered Fruit
+Mighty Fried Bananas
+§bBottled Fairy
+Boomerang
+§bHylian Shield
+Bomb
+Slingshot
+Mystery Box
+§eCaltrops
+§aRusty Caltrops
+§cBamboo Mine
+§cBear Trap
+%s was caught in a bear trap.
+%1$s was killed with a bear trap by %2$s.
+%s was shot.
+%1$s was shot by %2$s.
+%s was hit by a sword beam.
+%1$s was hit by %2$s's sword beam.

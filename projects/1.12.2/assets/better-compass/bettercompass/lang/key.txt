@@ -1,0 +1,7 @@
+bettercompass.message.set
+bettercompass.message.info
+bettercompass.message.info.overworld
+bettercompass.message.info.nether
+bettercompass.message.info.end
+bettercompass.message.info.dimension
+item.bettercompass.homing_compass.name

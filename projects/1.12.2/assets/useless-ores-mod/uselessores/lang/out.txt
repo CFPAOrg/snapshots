@@ -1,0 +1,81 @@
+Highlight Block
+Float Stone
+Blue Ore
+Green Ore
+Red Ore
+Parallel Ore
+Unknown Block
+Unknown2 Block
+Unknown3 Block
+Dust
+Petrified Logs
+Ruin Bricks
+Nuclear Snow
+Block of Grape
+Block of Wine
+Virus Block
+Reading Block
+Positive Block
+Mystery Box
+Block of Wrench
+Product Placement
+Chair
+Musical Block
+Tin Ore
+Overworld Teleporter [Lags depending on how many mods you have installed]
+Copper Planet Teleporter [Medium to a lot of lag]
+Eyebleach Planet Teleporter [Little to medium lag]
+Strange Planet Teleporter [A lot to a crash amount of lag]
+Teleporter Teleporter [Little to medium lag]
+Unknown Planet Teleporter [Medium to a lot of lag]
+Fake Planet Teleporter [Medium to a lot of lag]
+Shambles Planet Teleporter [Little to medium lag]
+Nuked Planet Teleporter [Medium to a lot of lag]
+Healthy Planet Teleporter [Little to medium lag]
+Virus Planet Teleporter [Little to medium lag]
+Reading Pregnant Planet Teleporter [Little to medium lag]
+Gambling Planet Teleporter [Medium to a lot of lag]
+Litter Planet Teleporter [Medium to a lot of lag]
+Sponsored Planet Teleporter [Little to medium lag]
+Totem Totem
+Ancient Totem Totem
+Night Block
+Rift
+Ice Wall lul
+Packed Ice Wall lul
+Black Ice Wall lul
+Copper Zombie
+Zombie Zombie
+Copper Spider
+Copper Cave Spider
+Super Hostile Spider
+Copperfish
+Coppermite
+Copper Husk
+Husk Husk
+Copper Squid
+Copper Kraken
+Flying Squid
+Flying Kraken
+Alien Copper Pig
+Copper Giant
+Human
+Kawaii Anime Girl
+Entity Unknown
+Entity Ultra Unknown
+Creepy Crawler
+Cavefish
+Nuked Zombie
+Grapefish
+Redstone Bug
+Redstone Arthropod
+Stressed Pregnant Mother
+Bratty Toddler
+Winemite
+Video Maker
+Litter Bug
+CheeseyPenguin1
+Copper Blaze
+Useless Ores
+Nuclear Fusor
+Pros Only

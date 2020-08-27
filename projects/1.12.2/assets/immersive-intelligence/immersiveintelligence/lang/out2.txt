@@ -1,0 +1,106 @@
+Tungsten Slab
+Salt Ore
+Nether Fluorite Ore
+Nether Phosphorus Ore
+Brass Sheetmetal
+Brass Block
+Brass Sheetmetal Slab
+Brass Slab
+Electronic Engineering Block
+Advanced Electronic Engineering Block
+Mechanical Engineering Block
+Heavy Mechanical Engineering Block
+Data Cable Coil
+Steel Motor Belt Coil
+Rope Coil
+Cloth Motor Belt Coil
+Sandbags
+Steel Crate
+Ammunition Crate
+Small Data Buffer
+Item Buffer
+Timed Buffer
+Redstone Buffer
+Debugger
+Data Router
+Data Combiner
+Wooden Gearbox
+Wooden Transmission Box
+Creative Transmission Box
+Wooden Wheel
+Brass Wheel
+Steel Wheel
+Small Wooden Crate (Box)
+Small Wooden Crate (Cube)
+Small Wooden Crate (Wide)
+Small Metal Crate (Box)
+Small Metal Crate (Cube)
+Small Metal Crate (Wide)
+Data Input Machine - Storage
+Data Input Machine - Programming
+Data Input Machine - Editing a Variable
+Redstone Data Interface - Data
+Redstone Data Interface - Redstone
+None
+Boolean
+Int. (0-15)
+Int. (0-255)
+Int. (0-100)
+String
+Arithmetic Logic Machine - Storage
+Arithmetic Logic Machine - Programming
+Arithmetic Logic Machine - Editing an Expression
+Data Connector
+Data Relay
+Chemical Dispenser
+Alarm Siren
+Item Inserter
+Advanced Inserter
+Fluid Inserter
+Advanced Fluid Inserter
+SkyCrate Station
+SkyCrate Post
+Sawmill
+Data Input Machine
+Arithmetic Logic Machine
+Radio Station
+Printing Press
+Chemical Bath
+Electrolyzer
+Precision Assembler
+Periscope
+Artillery Howitzer
+Ballistic Computer
+Missile Silo
+Ammunition Factory
+Scanning Conveyor
+Packer
+Railway Packer
+Unpacker
+Railway Unpacker
+Redstone-Data Interface
+SkyCrate Station
+SkyCrate Post
+Sawmill
+Data Input Machine
+Arithmetic Logic Machine
+Radio Station
+Printing Press
+Chemical Bath
+Electrolyzer
+Precision Assembler
+Periscope
+Artillery Howitzer
+Ballistic Computer
+Missile Silo
+Ammunition Factory
+Scanning Conveyor
+Packer
+Railway Packer
+Unpacker
+Railway Unpacker
+Redstone-Data Interface
+Ink
+Cyan Ink
+Magenta Ink
+Yellow Ink
