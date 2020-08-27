@@ -1,10 +1,10 @@
 AEble
-Air Ring
-Ice Ring
-Regeneration Ring
-Bubble Ring
-Zanite Ring
-Obsidian Ring
-Valkyrie Belt
-Luck Belt
-Repulsion Belt
+空气环
+寒冰戒指
+再生指环
+气泡圈
+紫晶圆环
+黑曜石戒指
+武神腰带
+幸运腰带
+排斥腰带

@@ -1,72 +1,72 @@
-Caplock Pistol (Loaded)
-Iron Long Barrel
-Caplock Pistol (Ready)
-Wet Arquebus (Loaded)
-Wet Tanzutsu (Loaded)
-Ancient Guns
-Wet Tanzutsu (Empty)
-Steel Nugget
-Wet Flintlock Pistol (Empty)
-Wet Flintlock Pepperbox (1/3) [2 gunpowder]
-Flintlock Musket (Loaded)
-Flintlock Pepperbox (0/3) [2 gunpowder]
-Flintlock Pepperbox (2/3)
-Wet Arquebus (Empty)
-Flintlock Musket (Empty)
-Primer
-Tanzutsu (Ready)
-Tanzutsu (Empty)
-Steel Long Barrel
-Flintlock Pepperbox (2/3) [1 gunpowder]
-Wet Flintlock Pepperbox (0/3) [1 gunpowder]
-Steel Ingot
-Wet Tanzutsu (with Gunpowder)
-Ramrod
-Flintlock Pistol (with Gunpowder)
-Wet Flintlock Pepperbox (2/3) [1 gunpowder]
-Basic Bullet
-Flintlock Pepperbox (0/3) [3 gunpowder]
-Fulminant Powder
-Flintlock Mechanism
-Flintlock Pepperbox (1/3)
-Caplock Mechanism
-Wet Flintlock Pistol (Loaded)
-Arquebus (with Gunpowder)
-Wet Flintlock Pistol (with Gunpowder)
-Wet Flintlock Pepperbox (1/3)
-Arquebus (Ready)
-Wet Flintlock Pepperbox (0/3) [2 gunpowder]
-Wet Flintlock Pepperbox (3/3)
-Flintlock Pistol (Loaded)
-Iron Short Barrel
-Wet Flintlock Pepperbox (2/3)
-Flintlock Pepperbox (3/3)
-Wet Flintlock Pepperbox (Empty)
-Caplock Pistol (Empty)
-Matchlock Mechanism
-Arquebus (Empty)
-Wet Arquebus (with Gunpowder)
-Small Handle
-Flintlock Pepperbox (1/3) [1 gunpowder]
-Caplock Cap Cone
-Flintlock Pistol (Empty)
-Steel Block
-Caplock Cap
-Wooden Stock
-Flintlock Pepperbox (1/3) [2 gunpowder]
-Steel Slag
-Wet Flintlock Pepperbox (1/3) [1 gunpowder]
-Flintlock Pepperbox (Empty)
-Tanzutsu (Loaded)
-Wet Flintlock Pepperbox (0/3) [3 gunpowder]
-Arquebus (Loaded)
-Quality Barrel Former
-Wet Flintlock Musket (with Gunpowder)
-Wet Flintlock Musket (Empty)
-Flintlock Pepperbox (0/3) [1 gunpowder]
-Wet Flintlock Musket (Loaded)
-Barrel Former (Single Use)
-Steel Short Barrel
-Flintlock Musket (with Gunpowder)
-Tanzutsu (with Gunpowder)
-Caplock Pistol (Empty)
+绞肉机手枪 (已装填)
+铁长桶
+绞肉机手枪 (准备)
+湿 Arquebus (已装填)
+湿 tanz石 (已装填)
+古代枪械
+湿 tanz石 (空)
+钢粒
+湿燧石手枪 (空)
+湿燧石胡椒箱 (1/3) [2 火药]
+燧石火枪 (装填)
+燧石胡椒盒 (0/3) [2 火药]
+燧石胡椒盒 (62))
+湿 Arquebus (空)
+燧石火枪 (空)
+入门
+Tanz龙 (准备)
+Tanz蓝 (空)
+钢长桶
+燧石胡椒盒 (2/3) [1 火药]
+湿燧石胡椒罐 (0/3) [1 火药]
+钢锭
+未烧制的 tanz石 (含火药)
+横冲直撞
+燧石手枪 (火药)
+湿燧石胡椒罐 (2/3) [1 火药]
+基础子弹
+燧石胡椒盒 (0/3) [3 火药]
+暴发性粉尘
+燧石装置
+燧石胡椒盒 (62))
+碎裂装置
+湿燧石手枪 (已装填)
+Arquebus (火药)
+湿燧石手枪 (火药)
+湿燧石胡椒箱 (1/3)
+Arquebus (就绪)
+湿燧石胡椒箱 (0/3) [2 火药]
+湿燧石胡椒箱 (3/3)
+燧石手枪 (装填)
+铁短桶
+湿燧石胡椒箱 (2/3)
+燧石胡椒盒 (62))
+湿的燧石胡椒盒 (空)
+绞肉机手枪 (空)
+探路装置
+Arquebus (空)
+湿 Arquebus (火药)
+小型手柄
+燧石胡椒盒 (1/3) [1 火药]
+鸡蛋架
+燧石手枪 (空)
+钢块
+鸡舍
+木底
+燧石胡椒盒 (1/3) [2 火药]
+炉渣
+湿燧石胡椒罐 (1/3) [1 火药]
+燧石胡椒盒 (空)
+Tanz龙 (已装填)
+湿燧石胡椒箱 (0/3) [3 火药]
+Arquebus (已加载)
+桶成型桶
+湿燧石火枪 (火药)
+湿燧石火枪 (空)
+燧石胡椒盒 (0/3) [1 火药]
+湿燧石火枪 (已装填)
+储物桶成型台 (一次性)
+钢短桶
+燧石火枪 (火药)
+Tanz龙 (火药)
+绞肉机手枪 (空)

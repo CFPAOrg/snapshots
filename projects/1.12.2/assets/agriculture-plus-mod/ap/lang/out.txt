@@ -1,83 +1,83 @@
-Cutting Knife
-Mortar & Pestle
-Roller
-Pot
-Squeezer
-Shredder
-Chopper
-Waffle Cutter
-Barley Seed
-Tomato Seed
-Olive Seed
-Garlic Seed
-Barley Plant
-Tomato Plant
-Olive Crop
-Garlic Plant
-Barley
-Flour
-Dough
-Cookie Dough
-Chocolate Chip Cookie Dough
-Sugar Cookie dough
-Olive Oil
-Shredded Cheese
-Pizza Sauce
-Salt
-Stack of Raw Pepperoni
-Stack of Cooked Pepperoni
-Stack of Raw Sausage
-Stack of Cooked Sausage
-Stack of Raw Chopped Sausage
-Stack of Cooked Chopped Sausage
-Garlic
-Garlic Salt
-Raw Pizza Dough
-Rolled Pizza Dough
-Tomato Paste
-Pizza Bread
-Pizza Bread w/ Sauce
-Pancake Mix
-Raw Waffle
-Raw Pancake
-Syrup
-Sliced Bread
-Sliced Raw Meat
-Sliced Cooked Meat
-Cheese
-Sliced Cheese
-Sliced Tomato
-Raw Sausage
-Cooked Sausage
-Raw Chopped Sausage
-Cooked Chopped Sausage
-Raw Pepperoni
-Cooked Pepperoni
-Tomato
-Olive
-Meat Sandwich
-Meat & Cheese Sandwich
-Meat, Cheese, & Tomato Sandwich
-Chocolate Chip Cookie
-Sugar Cookie
-Cheese Pizza Slice
-Cheese & Pepperoni Pizza Slice
-Cheese & Sausage Pizza Slice
-Meat Lovers Pizza Slice
-Plain Waffle
-Waffle w/ Syrup
-Plain Pancake
-Pancake w/ Syrup
-Apple Juice
-Carrot Juice
-Melon Juice
-Orange Juice
-Cheese Pizza
-Cheese & Pepperoni Pizza
-Cheese & Sausage Pizza
-Meat Lovers Pizza
-Bottle
-Salt Ore
-Lemon Plank
-Lemon Log
+切割刀
+研钵和杵
+辊压机
+锅
+挤压机
+切割机
+伐木机
+华夫饼切割机
+大麦种子
+番茄种子
+橄榄种子
+大蒜种子
+大麦植株
+番茄植株
+橄榄
+大蒜植株
+大麦
+面粉
+面团
+饼干面团
+巧克力曲奇面团
+糖饼干面团
+橄榄油
+小块奶酪
+披萨酱
+盐
+一组生意大利香肠
+一组意大利香肠
+一叠生香肠
+一叠熟香肠
+一叠生切碎的香肠
+一组熟的香肠碎块
+大蒜
+大蒜盐
+生披萨面团
+披萨面团
+番茄酱
+披萨面包
+披萨面包/酱料
+薄饼糊
+生华夫饼
+生煎饼
+糖浆
+切片面包
+切片生肉
+切片熟肉
+奶酪
+切片奶酪
+番茄片
+生香肠
+熟香肠
+生切碎的香肠
+熟切碎的香肠
+生意大利香肠
+熟意大利香肠
+番茄
+橄榄
+肉三明治
+肉奶酪三明治
+肉、奶酪和番茄三明治
+巧克力曲奇
+糖饼干
+小块奶酪披萨
+小块奶酪意大利香肠披萨
+小块奶酪香肠披萨
+肉类爱好者披萨片
+原味华夫饼
+糖浆华夫饼
+纯煎饼
+枫糖煎饼
+苹果汁
+胡萝卜汁
+西瓜汁
+橙子汁
+奶酪披萨
+奶酪意大利香肠披萨
+奶酪香肠披萨
+肉类爱好者披萨
+瓶
+盐矿
+柠檬木板
+柠檬原木
 Agri Plus

@@ -1,69 +1,69 @@
-Attention, harder, than you think!
-This block wants to troll you.
-A new Modversion is available. Download it here: 
-Bear in mind, that Tar is cursed.
-Alloy of Gold
-Alloy of Iron
+注意，比你想象的更困难!
+这个方块想要巨魔你。
+有新的 mod 版本可用。在此下载:
+请记住，焦油是被诅咒了。
+金合金
+铁合金
 Tared Tab
-Raw Horsemeat
-Cooked Horsemeat
-Gold Dust
-Platinic Ingot
-Platin Nugget
-Platin Dust
-Alloyed Goldingot
-Alloyed Goldnugget
-Alloyed Golddust
-Alloyed Goldsword
-Alloyed Goldshovel
-Alloyed Goldaxe
-Alloyed Goldpickaxe
-Alloyed Goldhoe
-Alloyed Goldhelmet
-Alloyed Goldchestplate
-Alloyed Goldleggings
-Alloyed Goldboots
-Platinic Ore
-Block of Platinium
-Block of Alloyed Gold
-Iron Nugget
-Iron Dust
-Chromite Ingot
-Chromium Ingot
-Chromium Nugget
-Chromium Dust
-Silicon Ingot
-Silicon Nugget
-Silicon Dust
-Ferrochrome Ingot
-Ferrochrome Nugget
-Ferrochrome Dust
-Ferrochrome Pickaxe
-Ferrochrome Shovel
-Ferrochrom Sword
-Ferrochrome Hoe
-Ferrochrome Axe
-Ferrochrome Helmet
-Ferrochrome Chestplate
-Ferrochrome Leggings
-Ferrochrome Boots
-Chromite Ore
-Block of Chromium
-Block of Silicon
-Block of Ferrochrome
+生马肉
+熟马肉
+金粉
+铂合金锭
+铂粒
+铂粉
+合金傀儡
+合金 Goldnugget
+合金金粉
+合金傀儡
+合金金锹
+合金金斧
+合金金镐
+合金金锄
+合金金头盔
+合金金胸甲
+合金护腿
+合金金靴
+铂矿石
+铂块
+合金金块
+铁粒
+铁粉
+铬铁矿锭
+铬锭
+铬粒
+铬粉
+硅锭
+硅粒
+硅粉
+铬铁锭
+铬铁粒
+铬铁粉
+铬铁镐
+铬铁锹
+铁铬合金剑
+铬铁锄
+铬铁斧
+铁铬头盔
+铬铁胸甲
+铬铁护腿
+铬铁靴子
+铬铁矿
+铬块
+硅块
+铬铁块
 Tared Stick
-Bucket with Tar
-Bucket with Coal
-Sole leather
-Tared Wooden Axe
-Tared Wooden Pickaxe
-Tared Wooden Shovel
-Tared Wooden Sword
-Tared Wooden Hoe
-Sole leather Helmet
-Sole leather Chestplate
-Sole leather Leggings
-Sole leather Boots
-Tared Woodplank
-Tared wooden Button
-Tar
+焦油桶
+煤炭桶
+唯一的皮革
+Tared 木制斧
+Tared 木制镐
+Tared 木锹
+Tared 木剑
+Tared 木制锄
+唯一皮革头盔
+唯一皮革胸甲
+唯一的皮革护腿
+唯一的皮革靴子
+胸甲木板
+Tared 木制按钮
+焦油

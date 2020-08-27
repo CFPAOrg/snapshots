@@ -1,117 +1,117 @@
-Safe Bricks Glowing
+发光安全砖块
 DebugItem
-Defeat Hidan
-Cookie Archer
-Zantium Boots
-Scorched Forest Gen
-calmness
-Scorched Forest Gen
-Jera Mage
-Arrow Master
-ancient realms Blocks
-Snow White Stone
-Ocean Floor Cube Zone Small Bulbs
-Big Dirt Fragment
-Dark Cobblestone
-Blue Mushroom Cluster
-calmness
-Frozen Netherrack
-Golden Lootbag
-ancient realms Tools
-Stalker
-h-akk-e
-Stalker
-Light Container
-Air Tree Sapling
-Arrow Rain
-Green Candy Shards
-A Sweet New World
-Birch Leaves
-Sky Tree Planks
-Fire Bricks
-Chocolate Stick
-Scorched Forest Gen
-Blue Magic Log
-Snow White Wood
-Candy Seed
-Golden Lootbag
-Livermorium
-Litium Block
-Snow White Dirt
-Monster Of The Dark Mist
-Cursed Chalk
-Big Stone Fragment
-Storm Bringer Rod
-GroundSnow
-Red Crystal ore
-Mantle
-Big Stone Fragment
-Jera Rune
-Kryopnite Shovel
-Stalker
-Red Candy Shards
-Dragon Forge
-Yellow Magic PLanks
-Big Grass Fragment
-Blue Mushroom Stem
-Forest Grass Block
-Air Wood Sapling
-Debug
-Carved Mountainia Bricks
-Stalker
-Purple Mushroom Stem
-Polonium Sword
-Cold Magma
-Purple Magic PLanks
-The Crown Doesn't Fit On My Head
-Cookie Warrior
-Boss Wave Counter
-Polonium Pickaxe
-Ice Lamp
-Polonium Shovel
-Lucidion Stone
-Purple Magic Leaves
-Blue Mushroom
-Blue Sugar Helmet
-Coppernitium Coin
-Lucidion Stone
-Big Grass Fragment
-Candy Stone
-Ailt Blue
-Mountilium Ore
-Ocean Floor Coral Shallows
-Big Dirt Fragment
-Polonium Body
-Void Grass
-Blue Mushroom Hanging
-Ailt Green
-Ancient Realms Powerfull Weapons
-Candy Cane Block
-Arrow Rain
+击败海丹
+曲奇饼射手
+赞助人靴子
+高炉森林发电机
+冷静
+高炉森林发电机
+杰拉 · 法师
+弓箭大师
+古代领域的方块
+雪白石头
+海床立方体区域小球茎
+大块泥土碎片
+深色圆石
+蓝色蘑菇簇
+冷静
+冷冻地狱岩
+黄金战利品袋
+古代领域的工具
+潜行者
+H-akk-e
+潜行者
+轻型集装箱
+空气树树苗
+箭雨
+绿色糖果碎片
+美好的新世界
+白桦树叶
+天空树木板
+火砖
+巧克力棒
+高炉森林发电机
+蓝色魔法原木
+雪白原木
+糖果种子
+黄金战利品袋
+Orium
+氚块
+雪白的泥土
+黑色迷雾怪物
+诅咒粉笔
+大块石头碎片
+风暴使者杆
+地面雪
+红水晶矿石
+披风
+大块石头碎片
+Jera 符文
+磷铁水晶铲
+潜行者
+红色糖果碎片
+龙熔炉
+黄色魔法木板
+大型草方块碎片
+蓝色蘑菇茎秆
+森林草块
+空气树树苗
+调试
+雕纹高山石砖
+潜行者
+紫色蘑菇茎秆
+钋剑
+寒岩浆
+紫色魔法木板
+这顶皇冠不适合我的头上
+曲奇饼 · 战士
+Boss 波纹计数器
+钋镐
+冰灯
+钋锹
+灵石
+紫色魔法树叶
+蓝色蘑菇
+蓝色糖头盔
+铁铜币
+灵石
+大型草方块碎片
+石糖
+艾琳 · 蓝
+芒金矿石
+海床珊瑚浅滩
+大块泥土碎片
+钋体
+虚空草
+悬挂的蓝色蘑菇
+艾琳 · 格林
+古代领域强力武器
+拐cane 糖
+箭雨
 AerialDebug
-Stalker
-Algiz Rune
-Kulinium Leggings
-Big Island Generator
-Void Trees Spawn
-Algiz Rune
-Decorated Mountainia Bricks
-Red Diamond
-Blood Curse
-Eat a Chocolate Bar with the cookie villager
-Fire Boots
-Yellow Magic Log
-Golden Lootbag
-Green Crystal
-Blue Sugar Pickaxe
-Blue Wave Key
-Wave Counter
-Purple Crystal ore
-Blue Sugar Chestplate
-Purple Crystal Shards
-Creeper Queen
-Fire Leggings
-Big Grass Fragment
-Void Trees Spawn
+潜行者
+狱炎符文
+Kul护腿
+大型岛内发电机
+虚空树生成
+狱炎符文
+装饰过的高山石砖
+红钻
+血之诅咒
+村民一起吃一块巧克力饼干
+火之战靴
+黄色魔法原木
+黄金战利品袋
+绿色水晶
+蓝石镐
+蓝色波纹钥匙
+波浪计数器
+紫色水晶矿石
+蓝糖胸甲
+紫色水晶碎片
+苦力怕女王
+火焰护腿
+大型草方块碎片
+虚空树生成
 Termanor
-Kryonite Sword
+Kryonite 剑

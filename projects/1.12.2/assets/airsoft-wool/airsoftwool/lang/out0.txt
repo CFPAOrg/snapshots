@@ -1,77 +1,77 @@
-Pistol ligth grey woolen revolver
-Blue wool roll 
-Woolen white rifle 
-Level 1 brown woolen ball 
-magenta portal
-Coating cyan 
-Woolen ligth green snipe 
-Woolen green rifle 
-Ligth blue portal
-Pistol brown woolen revolver
-Support(Medium) pistol
-Woolen orange war rifle 
-Pistol woolen revolver (mechanical) 
-Woolen gray snipe 
-Woolen brown rifle 
-Woolen purple war rifle 
-Pistol purple woolen revolver
-Level 1 pink woolen ball 
-Ligth gray wool roll 
-Level 1 green woolen ball 
-Woolen green war rifle 
-Purple wool roll 
-Level 1 red woolen ball 
-Woolen blue war rifle 
-Woolen black hunting gun 
-Level 3 white woolen ball 
-Pistol ligth gray woolen semi-auto 
-Woolen brown war rifle 
-Pistol orange woolen revolver 
-Woolen orange rifle 
-Pistol woolen revolver (holder)
-Pistol green woolen revolver
-Level 2 pink woolen ball 
-Woolen magenta rifle 
-Woolen black snipe 
-Woolen hunting gun (mechanism) 
-Woolen rifle
-Woolen hunting gun (butt) 
-Green string 
-Coating blue 
-Pistol woolen revolver black
-Level 1 black woolen ball 
-Cyan wool roll 
-Woolen yellow rifle 
-Woolen green snipe 
-Level 3 magenta woolen ball 
-Level 2 ligth blue woolen ball 
-Pistol black woolen semi-auto
-Woolen pink rifle 
-Woolen snipe (mechanism) 
-Pistol magenta woolen revolver
-Pistol white woolen revolver 
-Level 2 red woolen ball 
-Pistol blue woolen revolver 
-Pistol ligth blue woolen semi-auto 
-Woolen war rifle (detent)
-Pistol blue woolen semi-auto
-Woolen cyan snipe 
-White wool roll 
-Black wool roll 
-Pistol woolen revolver (hammer)
-White wool roll
-Woolen light gray snipe 
-Level 1 cyan woolen ball 
-Pistol woolen revolver (cylinder)
-Woolen rifle (butt) 
-Cyan portal
-Woolen purple snipe 
-Pistol cyan woolen semi-auto 
-Pistol yellow woolen revolver
-Coating brown 
-Woolen ligth green war rifle 
-Ligth green wool roll 
-Level 3 black woolen ball 
-Level 1 gray woolen ball 
-Pistol green woolen semi-auto
-Woolen hunting gun (target band)
+手枪 (灰色羊毛左轮)
+蓝色羊毛卷
+羊毛白色步枪
+一级棕色羊毛团子
+品红色传送门
+青色涂层
+羊毛狮尾刺
+绿色羊毛步枪
+狮豹蓝色传送门
+手枪棕色羊毛左轮手枪
+支架 (中) 手枪
+橙色羊毛步枪
+手枪羊毛左轮手枪 (机械)
+灰色羊毛剪
+羊毛棕色步枪
+羊毛紫色步枪
+手枪 (紫色羊毛左轮)
+1 级粉色羊毛团子
+灰色狮豹羊毛卷饼
+1 级绿色羊毛团子
+羊毛绿步枪
+紫色羊毛卷
+一级红色羊毛球
+蓝色羊毛步枪
+黑色羊毛狩猎枪
+三级白色羊毛球
+手枪木质灰色羊毛半自动枪械
+羊毛棕色步枪
+手枪橙色羊毛左轮手枪
+橙色羊毛步枪
+手枪羊毛左轮手枪 (持有人)
+手枪绿色羊毛左轮手枪
+二级粉色羊毛团子
+品红色羊毛步枪
+黑色羊毛剪
+羊毛狩猎枪 (机构)
+羊毛步枪
+羊毛狩猎枪 (尾部)
+绿线
+蓝色涂层
+黑色手枪羊毛左轮手枪
+一级黑色羊毛球
+青色羊毛卷
+黄色羊毛步枪
+绿色羊毛剪
+三级品红色羊毛球
+二级蓝羊毛绒球
+黑色羊毛手枪 (半自动)
+粉色羊毛步枪
+羊毛剪刀 (机构)
+手枪 (品红色羊毛左轮)
+手枪 (白色羊毛左轮)
+二级红色羊毛球
+手枪蓝色羊毛左轮手枪
+手枪木质蓝色羊毛半自动枪械
+羊毛步枪 (装填)
+手枪蓝色羊毛半自动步枪
+青色羊毛剪
+白色羊毛卷
+黑色羊毛卷
+手枪羊毛左轮手枪 (锤子)
+白色羊毛卷
+淡灰色羊毛剪
+一级青色毛球
+手枪羊毛左轮手枪 (圆柱)
+羊毛步枪 (尾部)
+青色传送门
+紫色羊毛剪
+手枪青色羊毛半自动手枪
+手枪 (黄色) 羊毛左轮手枪
+棕色涂料
+羊毛木绿色步枪
+绿色羊毛卷
+三级黑色羊毛球
+一级灰色羊毛球
+手枪绿色羊毛半自动手枪
+羊毛狩猎枪 (目标戒指)

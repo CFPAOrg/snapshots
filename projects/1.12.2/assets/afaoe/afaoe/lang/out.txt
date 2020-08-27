@@ -1,4 +1,4 @@
-Coffee Maker
-This is an %1$simportant%2$s word, and here is %1$sanother%2$s.
-Grinder
-Tantum Initium
+咖啡机
+这是一个 % 1 $ important % 2 $ s 词，这里是 % 1 $ s 另一个 % 2 $ s。
+粉碎机
+初烧铁

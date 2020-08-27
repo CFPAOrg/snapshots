@@ -1,22 +1,22 @@
-akkamaddi's Hadite Coal
-Hadite Coal Ore
-Hadite Coal Block
-Hadite Steel Block
-Gestankenzinn Block
-Hadite Coal
-Hadite Steel Ingot
-Large Hadite Steel Chunk
-Hadite Steel Axe
-Hadite Steel Hoe
-Hadite Steel Pickaxe
-Hadite Steel Shears
-Hadite Steel Shovel
-Hadite Steel Sword
-Gestankenzinn Ingot
-Large Gestankenzinn Chunk
-Gestankenzinn Sword
-Gestankenzinn Shovel
-Gestankenzinn Axe
-Gestankenzinn Pickaxe
-Gestankenzinn Hoe
-Gestankenzinn Shears
+阿卡德哈德矿煤
+哈迪特煤矿石
+哈迪特煤块
+哈迪特钢块
+晶球座块
+哈迪特煤
+哈迪特钢锭
+大型哈迪特钢块
+哈迪特钢斧
+哈迪特钢锄
+哈迪特钢镐
+哈迪特钢剪刀
+哈迪特钢锹
+哈迪特钢剑
+晶球锭
+大型晶金块
+晶球剑
+晶簇锹
+晶球斧
+晶球镐
+晶球锄
+晶球剪刀

@@ -1,20 +1,20 @@
-AFarmK - Movement Toggles
-Toggle Shift
-Toggle LeftClick
-Toggle RightClick
-Toggle Forward
-Toggle Backwards
-Toggle Left
-Toggle Right
-Toggle Jump
-Reset Toggles
-AFarmK - Profile Toggles
-Profile 1
-Profile 2
-Profile 3
-Profile 4
-Profile 5
-Profile 6
-Profile 7
-Profile 8
-Profile 9
+AFarmK-移动切换
+切换 Shift
+切换左键
+切换右击
+向前切换
+向后切换
+左切换
+向右切换
+切换跳跃
+重置切换
+AFarmK 配置文件切换
+简介 1
+简介 2
+简介 3
+简介 4
+简介 5
+简介 6
+简介 7
+简介 8
+简介 9

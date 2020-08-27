@@ -1,141 +1,141 @@
-Age of Weapons
-AoW: Stone Age
-AoW: Antiquity
-AoW: Middle Ages
-AoW: Early Modern Age
-AoW: Modern Age
-AoW: Golden age of Piracy
-AoW: Edo Period
-AoW: Mystic
-AoW: Fantasy
+武器时代
+AoW: 石器时代
+AoW: 古代
+AoW: 中世纪
+AoW: 现代早期
+AoW: 现代
+AoW: 海盗黄金时期
+AoW: 江户期
+AoW: 神秘
+AoW: 幻想
 AoW: BBY
-AoW: Epic
-Aow: Future
-Table Of Ages
-Crusher
-Weapon Box
-§9NEXUS§r
-§cNEXUS§r
-§eNEXUS§r
-§aNEXUS§r
-Ruby Block
-Sapphire Block
-Amethyst Block
-Topaz Block
-Amber Block
-Withered Iron Block
-Ruby Ore
-Sapphire Ore
-Amethyst Ore
-Topaz Ore
-Amber Ore
-Barbed Wire
-Nail Trap
-Toxic Nail Trap
-Explosive Mine
-Toxic Mine
-Razor Wire
-Bear Trap
-Dirt Fall Trap
-Planks Fall Trap
-Stone Fall Trap
-Barbed Wire Fence
-Barricade
-Neutron Bomb
-Nuclear Bomb
-Spikes
-Spikes
-Toxic Spikes
-Toxic Spikes
-Time Bomb
-Creative Upgrade
-Stone Upgrade
-Lapis Upgrade
-Amethyst Upgrade
-Iron Upgrade
-Amber Upgrade
-Glass Upgrade
-Gold Upgrade
-Ruby Upgrade
-Diamond Upgrade
-Topaz Upgrade
-Sapphire Upgrade
-Emerald Upgrade
-Diamond Axe Blade
-Golden Axe Blade
-Iron Axe Blade
-Stone Axe Blade
-Wooden Axe Blade
-Diamond Sword Blade
-Golden Sword Blade
-Iron Sword Blade
-Stone Sword Blade
-Wooden Sword Blade
-Diamond Broad Blade
-Golden Broad Blade
-Iron Broad Blade
-Stone Broad Blade
-Wooden Broad Blade
-Iron Stick
-Iron Longstick
-Wooden Longstick
-Lumber
-Radioactive Toxin
-Toxin
-Ruby
-Sapphire
-Sword Handle
-Diamond Shard
-Emerald Shard
-Gold Shard
-Iron Shard
-Ruby Shard
-Sapphire Shard
-Stone Shard
-Wood Shard
-Barrel
-Blank Gun
-Blank Rifle
-Gun Handle
-Wooden Haft
-Iron Haft
-Visor
-Amethyst
-Topaz
-Amber
-Amethyst Shard
-Topaz Shard
-Glass Shard
-Cloth
-Wither Dust
-Withered Iron Ingot
-Withered Iron Shard
-Withered Axe Blade
-Withered Sword Blade
-Withered Broad Blade
-Rock
-Hand Ax
-Caveman Stone Knive
-Caveman Bone Knive
-Wooden Cudgel
-Stone Cudgel
-Ax
-Throw Wood
-Caveman Spear
-Caveman Cap
-Caveman Tunic
-Caveman Pants
-Caveman Boots
-Wooden Knive
-Stone Knive
-Iron Knive
-Golden Knive
-Diamond Knive
-Wooden Dagger
-Stone Dagger
-Iron Dagger
-Golden Dagger
-Diamond Dagger
-Wooden Skewer
-Stone Skewer
-Iron Skewer
+AoW: 史诗
+Aow: 未来
+沙表
+粉碎机
+武器箱
+§ 9 联结 § r
+§ Cnexus § r
+§ Enexus § r
+§ Anexus § r
+红宝石块
+蓝宝石块
+紫水晶块
+黄玉块
+琥珀块
+凋零铁块
+红宝石矿石
+蓝宝石矿石
+紫水晶矿石
+黄玉矿石
+琥珀矿石
+铁丝网
+陷阱
+有毒的陷阱
+爆炸地雷
+毒地雷
+刀片刺网
+捕熊陷阱
+泥土掉落陷阱
+木板陷阱
+石头掉落陷阱
+铁丝网
+路障
+中子弹
+核弹
+尖刺
+尖刺
+毒尖刺
+毒尖刺
+定时炸弹
+创造升级
+石制范围升级
+青金石升级部件
+紫水晶升级
+铁质升级部件
+琥珀升级部件
+玻璃升级
+金锭升级
+红宝石升级
+钻石升级
+黄玉升级
+蓝宝石升级
+绿宝石升级
+钻石斧剑刃
+金斧刃
+铁斧剑刃
+石斧剑刃
+木制斧刃
+钻石剑刃
+黄金剑刃
+铁剑刃
+石剑刃
+木剑刃
+钻石宽剑刃
+黄金宽剑刃
+铁宽剑刃
+石头宽剑刃
+木质宽剑刃
+铁棒
+铁长杆
+木质长杆
+伐木工
+放射性毒素
+毒素
+红宝石
+蓝宝石
+剑柄
+钻石碎片
+绿宝石碎片
+金碎片
+铁碎片
+红宝石碎片
+蓝宝石碎片
+石碎片
+木碎片
+木桶
+空白枪
+空白步枪
+枪柄
+木质手柄
+铁手柄
+面罩
+紫水晶
+黄玉
+琥珀
+紫水晶碎片
+黄玉碎片
+玻璃碎片
+布
+凋灵尘
+凋零铁锭
+凋零铁碎片
+凋零斧剑刃
+凋零剑刃
+凋零宽剑刃
+石子
+手斧
+穴居人石刀
+穴居人骨刃
+木棍棒
+石质棍棒
+斧头
+扔木头
+穴居人长矛
+穴居人帽子
+穴居人胸甲
+穴居人护腿
+穴居人靴子
+木刀
+石刃
+铁刀
+金刀
+钻石刀
+木制匕首
+石匕首
+铁匕首
+金匕首
+钻石匕首
+木烤串
+石烤串
+铁烤串

@@ -1,6 +1,6 @@
-Sword
-Dagger
-Mace
-Swords are the most basic weapon available. They have average attack speed, decent damage, and can perform a sweep attack if you're moving slowly. They are made with a sword blade, a crossguard, a handle, and optionally an adornment.
-Daggers are fast weapons that deal low damage. Their short length means you have to get very close to your target if you want to attack. Their range is half that of a sword. Daggers are made with a dagger blade, a handle, and optionally an adornment.
-Maces are blunt weapons that are slightly slower than swords, but do slightly more damage. They cannot perform sweep attacks, but critical strikes will briefly stun the opponent and all attacks have a chance to do extra damage to the target's armor. Maces are made with a mace head, a haft, a handle, and optionally an adornment.
+剑
+匕首
+权杖
+剑是最基础的武器。他们有平均攻击速度和不错的伤害，并可以执行横扫攻击，如果你缓慢移动。它们由剑刃，十字护手，手柄和可选的装饰品制成。
+匕首是低伤害的快速武器。它们的短长度意味着如果你想攻击，你必须离目标非常近。它们的射程是剑的一半。匕首由匕首剑刃、手柄和装饰物制作而成。
+Maces 是比剑攻击速度稍慢的钝武器，但伤害稍高。他们不能进行横扫攻击，但是暴击会使对方眩晕，所有攻击有几率对目标护甲造成额外伤害。Maces 由权杖头，手柄，手柄和可选的装饰品制成。

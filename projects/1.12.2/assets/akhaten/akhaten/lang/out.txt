@@ -1,33 +1,33 @@
-Gallifrey Stone
-Gallifrey Grass
-Gallifrey Dirt
-Silicon Ore
-Rutile Ore
-TARDIS Door
-1963 Roundel
-Coralwire
-Coralwall
-Big Coral Roundel
-Middle Coral Roundel
-Small Coral Roundel
-TT Capsule
-TARDIS Handbrake
-TARDIS Monitor
-Vortex Manipulator
-Electronic Circuit
-Silicon Ingot
-Silicon Clump
-Raw Titanium
-Titanium Ingot
-Rutile Ore
-Aerotronic Circuit
-Aerotronic Core
-Aerotronic Capacitor
-Artron Capacitor
-Stattenheim Remote
-2nd Doctor's Sonic Screwdriver
-Akhaten Dimensional Blocks
-Akhaten Gadgets
+华丽石
+华丽草丛
+盖丽弗雷泥土
+木卫二硅矿石
+金红石矿
+TARDIS 木门
+1963 循环
+珊瑚线缆
+珊瑚墙
+大珊瑚石回旋刀
+珊瑚石圆头 (中)
+小型珊瑚石回旋手枪
+TT 胶囊
+TARDIS 手刹
+TARDIS 显示器
+涡流操纵器
+电路板
+硅锭
+硅簇
+原钛
+钛锭
+金红石矿
+航空电路板
+远程通讯核心
+风之能量电容
+Artron 电容
+Statenheim 远程终端
+第2 音速医生螺丝刀
+阿卡德维度方块
+Akhaten 小帮手
 Akhaten Machines
-Akhaten Building Blocks
-Akhaten Materials
+Akhaten 建筑方块
+阿卡德材料

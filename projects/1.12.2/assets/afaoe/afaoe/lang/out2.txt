@@ -1,108 +1,108 @@
-Muenster, Pepperoni & Onion Pizza
-Muenster & Onion Pizza
-Muenster & Pepperoni Pizza
-Muenster Pizza
-Muenster Slice
-Muenster & Pepperoni Slice
-Muenster & Onion Slice
-Muenster, Pepperoni & Onion Slice
-Cheddar, Pepperoni & Onion Pizza
-Cheddar & Onion Pizza
-Cheddar & Pepperoni Pizza
-Cheddar Pizza
-Cheddar Slice
-Cheddar & Pepperoni Slice
-Cheddar & Onion Slice
-Cheddar, Pepperoni & Onion Slice
-Mozzarella, Pepperoni & Onion Pizza
-Mozzarella & Onion Pizza
-Mozzarella & Pepperoni Pizza
-Mozzarella Pizza
-Mozzarella Slice
-Mozzarella & Pepperoni Slice
-Mozzarella & Onion Slice
-Mozzarella, Pepperoni & Onion Slice
-Empty Taco Shell
-Beef Taco
-Beef & Tomato Taco
-Beef & Sour Cream Taco
-Beef, Tomato & Sour Cream Taco
-Chicken Taco
-Chicken & Tomato Taco
-Chicken & Sour Cream Taco
-Chicken, Tomato & Sour Cream Taco
-Tofu Taco
-Chicken Noodle Soup
-Onion Soup
-Tomato Soup
-Vegetable Soup
-Pot O' Chicken Noodle
-Pot O' Onion
-Pot O' Veggie
-Pot O' Tomato
-Hot Pot O' Chicken Noodle
-Hot Pot O' Onion
-Hot Pot O' Veggie
-Hot Pot O' Tomato
-Hardened Iron Ingot
-Condensed Beef
-Double Condensed Beef
-Triple Condensed Beef
-Condensed Chicken
-Double Condensed Chicken
-Triple Condensed Chicken
-Fame Shard
-Fame Crystal
-Perfect Potion
-Empty Oil Flask
-Oil Flask
-Crushed Bone
-Less Rotten Flesh
-Boiling Milk
-Glue
-Cut Stick
-Legs
-Meat Baller
-Pot
-Pan
-Heated Pan
-Hot Oiled Pan
-Meat Knife
-Vegetable Knife
-Tenderizer
-Pizza Roller
-Pizza Cutter
-Grinder Gear
-Manual Crusher
-Pestle
-Mortar
-Mortar & Pestle
-Empty Sack
-Milk Sack
-Fame Sword
-God Fame Key
-Fame Minion Key
-Untested Key
-Key Shard
-§c§kCrafting Part
-Empty Jar
-Sugar Water Jar
-Cheddar Block
-Muenster Block
-Mozzarella Block
-Provolone Block
-Molten Cheddar Block
-Molten Mozzarella Block
-Molten Provolone Block
-Molten Muenster Block
-Hardened Iron Block
-Salt Ore
-Baking Soda Ore
-Grinder
-Onion Plant
-Tomato Plant
-Lettuce Plant
-Jalapeño Plant
-Sunflower Plant
-Cutting Board
-Wall Phone
+门斯特香肠洋葱披萨
+门斯特洋葱披萨
+意大利香肠和香肠披萨
+明斯特披萨
+明丝兰粉末片
+意大利香肠意面
+蘑菇和洋葱薄片
+意大利香肠洋葱片
+切达意大利香肠洋葱披萨
+切达洋葱披萨
+切达意大利香肠披萨
+切达披萨
+切达薄片
+切达意大利香肠片
+切达洋葱片
+切达香肠洋葱片
+马苏里拉奶酪、意大利香肠和洋葱披萨
+马苏里拉奶酪洋葱披萨
+意大利香肠芝士披萨
+马苏里拉奶酪披萨
+干酪片
+意大利香肠意面
+马苏里拉奶酪洋葱片
+马苏里拉奶酪、意大利香肠和洋葱片
+空墨西哥卷壳
+牛肉墨西哥卷
+牛肉番茄墨西哥卷
+牛肉酸奶油墨西哥卷
+牛肉、番茄酸奶油墨西哥卷
+鸡肉墨西哥卷
+鸡肉番茄墨西哥卷
+鸡肉酸奶油墨西哥卷
+鸡肉、番茄酸奶油墨西哥卷
+豆腐墨西哥卷
+鸡肉面条汤
+洋葱汤
+番茄汤
+蔬菜汤
+鸡肉锅面条
+洋葱锅
+蔬菜锅
+番茄锅
+鸡肉面条
+洋葱火锅
+素食火锅
+番茄火锅
+硬化铁锭
+浓缩牛肉
+浓缩牛肉
+三层浓缩牛肉
+浓缩鸡
+双倍浓缩鸡
+三重浓缩鸡
+战利品碎片
+战利品结晶
+完美药水
+空油瓶
+油瓶
+粉碎的骨头
+更少的腐肉
+沸腾的牛奶
+胶水
+切割棍
+腿部
+肉弹发射器
+锅
+盘
+平底锅
+热油锅
+肉刀
+蔬菜刀
+催熟
+披萨卷板机
+披萨刀
+磨具
+手动磨粉机
+研杵
+研钵
+研钵和杵
+空麻袋
+牛奶袋
+声望剑
+声望之钥
+声望仆从钥匙
+未测试的钥匙
+钥匙碎片
+§ C § k 合成部件
+空罐
+糖水罐
+切达块
+门斯特方块
+马苏里拉奶酪块
+波罗伏洛方块
+熔融切达干酪块
+熔融马苏里拉奶酪块
+熔融波罗伏洛方块
+熔融强化门斯特方块
+硬化铁块
+盐矿
+小苏打矿石
+粉碎机
+洋葱植株
+番茄植株
+生菜植株
+墨西哥辣椒植株
+向日葵植株
+砧板
+壁挂电话

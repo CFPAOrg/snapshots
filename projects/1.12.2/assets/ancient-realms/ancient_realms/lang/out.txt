@@ -1,114 +1,114 @@
-super packed ice
-Red Cobblestone
-Bulbs
-Candy Stone
-Portal Alter Spawner
-Stalker
-Lucidion Stone
-Chocolate Block
-Oblivion Lamp
-Sugar Crystal Fragment
-Purple Dirt
-Yellow Hard Candy
-Snow White Grass
-Normal Lootbag
-Blue Sugar Ore
-ZantiumOre
-Zantium Leggings
-hellaridan
-Green Magic PLanks
-Blue Dirt
-Ice Bulbs
-Splash Black Mist Curse
-Lollipop
-Stalker
-Kryonite Axe
-Green Dirt
-Red Magic PLanks
-Wind of Light Block
-Polonium Hoe
-Purple Crystal
-Active Jera Rune
-Hand Over A Blue Sugar Crystal Block
-Lucidion Stone
-Candy Stone
-darakus portal 
-Chocolate Chipped Grass With Sugar
-Teleback Block
-Animated Block Test
-Red Hard Candy
-Coronium Helmet
-Kulinium Block
-Fort Attack Marker
-Kulinium Body
-White Crystal Shards
-Scorched Forest Gen
-Sugar Crystal Fragment
-Hand Over The Evil Candy Core
-Blue Crystal ore
-Green Stone
-Blue Dark Magma
-Sugarenia Portal Gem
-Blue Mushroom Block
-Dark Sand
-Green Magic Leaves
-Snow White Grass
-Pandora Portal Core
-Obtain an Algiz Rune
-Big Stone Fragment
-durtch
-IceColdWater
-Arrow of calmness
-Green Grass
-Mantle Sword
-Ailt Yellow
+超级浮冰
+红色圆石
+球茎
+石糖
+传送门刷怪笼
+潜行者
+灵石
+巧克力方块
+湮灭灯
+糖水晶碎片
+紫色泥土
+黄色硬糖
+雪白草方块
+普通战利品袋
+蓝石糖矿石
+赞助人玩偶
+藏金护腿
+地狱岩
+绿色魔法木板
+蓝色泥土
+冰球茎
+喷溅型黑色迷雾诅咒
+棒棒糖
+潜行者
+磷铁石斧
+绿色泥土
+红色魔法木板
+光之风方块
+钋锄
+紫色水晶
+激活杰拉符文
+交出一块蓝石晶体
+灵石
+石糖
+Darakus portal
+糖巧克力草碎块
+传送方块
+活化方块测试
+红色硬糖
+科罗宁头盔
+龙舌兰酒块
+要塞攻击坐标
+Kul琴体
+白色水晶碎片
+高炉森林发电机
+糖水晶碎片
+交出邪恶的糖精华
+蓝水晶矿石
+绿石
+蓝色深色岩浆
+Sugarenia 传送宝石
+蓝色蘑菇块
+暗黑沙
+绿色魔法树叶
+雪白草方块
+Pandora 传送门核心
+获得一个 Algiz 符文
+大块石头碎片
+Durtch
+冰霜水
+冷静之箭
+绿色草方块
+披风剑
+艾琳 · 黄
 Ailt Red
-Blue Sugar Sword
-Sugar Crystal Bulet
-Purple Hard Candy
-Litium
-Red Crystal
-Frozen Brown Mushroom
-Green Crystal Shards
-Pandora Portal Gem
-amaridium ore
-Big Dirt Fragment
-Stalker
-Lucidion Stone
+蓝色糖剑
+糖结晶 Bulet
+紫色硬糖
+氚
+红色水晶
+冷冻棕色蘑菇
+绿色水晶碎片
+Pandora 传送宝石
+Amaridium 矿石
+大块泥土碎片
+潜行者
+灵石
 CandyDebug
-Void Stone
-Treasure Protector
-Mental
-Fire Shovel
-Kulinium Helmet
+虚空石
+藏宝袋
+精神
+火锹
+龙舌兰酒头盔
 AerialDebug
-Leaking Void Stone
-Purple Magic Log
-Dagaz Mage
-Golden Planks
-Zantium Gem
-Void Trees Spawn
+虚空石头泄漏
+紫色魔法原木
+Dagaz 法师
+黄金木板
+赞助人玩偶 (Zantium Gem)
+虚空树生成
 Taurialfluid
-Mountain Cloud
-Galantium Coin
-Dark Pearl
-Active Algiz Rune
-Zantium Axe
-Airwood Bookshelf
-Compound Scanner
-Fire rockets from bazooka
-Hagalaz Rune
-Red Magic Leaves
-Kryonite Pickaxe
-Mountainia Grass
-Purple Candy Shards
-Arrow VM
-Chocolate Chipped Grass
-Double Blue Glowing Mushroom
-Big Dirt Fragment
-Blueprint
-Non Active Portal Frame
-Big Grass Fragment
-Rainbow Candy
-Snow White Stone
-Dark Mantle
+山云
+石笋币
+暗黑珍珠
+激活 Algiz 符文
+赞助人斧
+航空木书架
+复合型扫描仪
+从巴祖卡火箭筒发射火箭
+Hagalaz 符文
+红色魔法树叶
+Kryonite 镐
+山脉草方块
+紫色糖果碎片
+箭 VM
+巧克力草方块
+双发蓝色蘑菇
+大块泥土碎片
+蓝图
+未激活的传送门框架
+大型草方块碎片
+彩虹糖
+雪白石头
+黑暗披风

@@ -1,53 +1,53 @@
-Pistol ligth green woolen revolver 
-Woolen yellow war rifle 
-Level 2 orange woolen ball 
-Ligth gray portal
-Pistol woolen semi-auto (keg)
-Woolen snipe (Longuesse) 
-Coating green
-Brown string 
-Pistol pink woolen semi-auto 
-Level 1 purple woolen ball 
-Level 2 green woolen ball 
-Portal white
-Woolen white war rifle 
-Level 3 blue woolen ball 
-Woolen black war rifle 
-Level 2 ligth gray  woolen ball 
-Yellow string 
-Ligth blue wool roll 
-Red wool roll 
-Pistol ligth green woolen semi-auto
-green portal
-Coating pink 
-Woolen rifle (mechanism) 
-Woolen brown snipe 
-Level 2 blue woolen ball 
-Black portal
-Woolen cyan rifle 
-Yellow wool roll 
-Woolen ligth gray rifle 
-Pistol brown woolen semi-auto
-Woolen purple hunting gun 
-Pistol blue woolen revolver
-Pistol orange woolen semi-auto
-Pistol ligth blue woolen revolver 
-Red string 
-Pistol black woolen semi-auto 
-Level 1 orange woolen ball 
-Orange wool roll
-Woolen magenta hunting gun 
-Level 3 orange woolen ball 
-Woolen ligth blue snipe 
-Woolen hunting gun (sight) 
-Coating magenta 
-Pistol magenta woolen semi-auto 
-Magenta wool roll 
-Pistol woolen revolver (butt)
-Pistol woolen revolver 
-Level 1 ligth gray woolen ball 
-Level 2 purple woolen ball 
-Level 3 pink woolen ball 
-grey portal
-Black string 
-Level 3 ligth gray  woolen ball
+手枪重型绿色羊毛左轮手枪
+羊毛黄色步枪
+二级橙色羊毛团子
+狮豹灰色传送门
+手枪羊毛半自动手枪 (桶)
+羊毛剪刀 (朗哥斯)
+涂层绿色
+棕色线
+手枪粉红色羊毛半自动手枪
+1 级紫色羊毛团子
+二级绿色羊毛团子
+白色传送门
+羊毛白色步枪
+三级蓝色毛球
+黑色羊毛步枪
+等级 2 的灰色羊毛绒球
+黄线
+蓝色狮虎兽羊毛卷
+红色羊毛卷
+手枪重型绿色羊毛半自动枪械
+绿色传送门
+涂层粉红色
+羊毛步枪 (机构)
+棕色羊毛剪
+二级蓝色毛球
+黑色传送门
+青色羊毛步枪
+黄色羊毛卷
+羊毛木质灰色步枪
+手枪棕色羊毛半自动枪械
+紫色羊毛猎枪
+手枪蓝色羊毛左轮手枪
+手枪橙色羊毛半自动手枪
+手枪木质蓝色羊毛左轮手枪
+红线
+黑色羊毛手枪 (半自动)
+一级橙色羊毛团子
+橙色羊毛卷
+品红色羊毛猎枪
+三级橙色羊毛团子
+羊毛木蓝色狙击步枪
+羊毛狩猎枪 (视野)
+品红色涂料
+手枪品红色羊毛半自动手枪
+品红色羊毛卷
+手枪羊毛左轮手枪 (尾部)
+手枪羊毛左轮手枪
+等级 1 的灰色羊毛绒球
+二级紫色羊毛球
+三级粉色羊毛团子
+灰色传送门
+黑线
+等级 3 的灰色羊毛绒球

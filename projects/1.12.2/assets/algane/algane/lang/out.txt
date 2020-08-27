@@ -1,82 +1,82 @@
-Algane
-Basic Laser Rifle Casing
-Advanced Laser Rifle Casing
-Elite Laser Rifle Casing
-Ultimate Laser Rifle Casing
-Simple Laser Rifle Core
-Repeating Laser Rifle Core
-Shock Rifle Core
-Shock Orb Projector Core
-Tau Cannon Core
-Laser Modifier
-Rare Laser Modifier
-Modifier Slot Unavailable
-Modifier Kit
-Rare Modifier Kit
-Optical Component Core
-Modifier Component
-Tau Condenser Casing
-Tau Condenser
-Photonic Armament Assembler
-Modifier Manipulator
-Basic Laser Turret Casing
-Advanced Laser Turret Casing
-Elite Laser Turret Casing
-Ultimate Laser Turret Casing
-Photonic Armament Assembler
-Modifier Manipulator
-Laser Turret Casing
-Energy: %s
-Heat: %s
-Power Modifier: %s
-Efficiency Modifier: %s
-Overheat Modifier: %s
-Damage Output: %s
-Energy Usage: %s
-Overheat Rate: %s
-Magnitude: %s
-%s / %s
-Semi-Automatic
-Automatic
-Charge Shot
-Damage
-Fire Rate
-Range
-High Knockback
-Splash Damage
-Use to create a modifier.
-Install!
-Augment!
-Laser rifle has no core!
-Laser rifle has no energy cell!
-Laser rifle is overheating!
-Damage Output
-Energy Usage
-Overheat Rate
-Basic %s
-Advanced %s
-Elite %s
-Ultimate %s
-Laser Rifle
-Laser Repeater
-Shock Rifle
-Shock Orb Projector
-Tau Cannon
-%s Turret
-%1$s absorbed too many photons
-%1$s was lased by %2$s
-%1$s was lased by %2$s using %3$s
-%1$s was bathed in anti-photons
-%1$s was bathed in anti-photons by %2$s
-%1$s was bathed in anti-photons by %2$s using %3$s
-%1$s was caught in an anti-photon blast
-%1$s was blasted with anti-photons by %2$s
-%1$s was blasted with anti-photons by %2$s using %3$s
-%1$s was annihilated
-%1$s was annihilated by %2$s
-%1$s was annihilated by %2$s using %3$s
-%1$s absorbed too many tau particles
-%1$s was blasted with tau particles by %2$s
-%1$s was blasted with tau particles by %2$s using %3$s
-Algane Manual
-This manual will provide instructions and support for the use of your recently-purchased Algane(TM) Photonic Weapons System(R).
+升麻
+基础激光步枪外壳
+高级镭射步枪外壳
+精英激光步枪外壳
+终极激光步枪外壳
+简易镭射枪核心
+重复激光步枪核心
+冲击步枪核心
+冲击球投影仪核心
+Τ 炮核心
+激光中继器
+罕见激光中继器
+强化槽不可用
+强化部件
+稀有升级套件
+光学元件核心
+强化组件
+Τ 冷凝器外壳
+Τ 冷凝器
+光子武器装配室
+强化机械手
+基础激光塔机械方块
+高级激光炮塔外壳
+精英激光炮塔框架
+终极激光炮塔外壳
+光子武器装配室
+强化机械手
+激光炮塔框架
+能量: % s
+热量: % s
+能量改变: % s
+效率系数: % s
+过热系数: % s
+伤害输出: % s
+能量使用: % s
+过热率: % s
+大小: % s
+% S/% s
+半自动
+自动
+充能弹
+伤害
+射速
+范围
+高级击退
+喷溅型伤害
+用于制作激光中继器。
+安装!
+升级!
+镭射枪没有核心!
+激光步枪没有能量单元!
+镭射枪过热!
+伤害输出
+耗能
+过热率
+基础 % s
+高级 % s
+精英 % s
+终极 % s
+镭射枪
+激光中继器
+冲击步枪
+震击宝珠投影仪
+Τ 炮
+% S 炮塔
+% 1 $ s 吸收了太多光子
+% 1 $ s 被 % 2 $ s 抓住了
+% 2 $ s 使用 % 3 $ s 时抓住了 % 1 $ s
+% 1 $ s 沐浴在反光子中
+% 1 $ s 沐浴在反光子中 % 2 $ s
+% 1 $ s 在使用 % 3 $ s 的时候被 % 2 $ s 的反光子淹没了
+% 1 $ s 被困在了反光子爆炸中
+% 1 $ s 被 % 2 $ s 的反光子击中
+% 1 $ s 被 % 2 $ s 用 % 3 $ s 的反光子爆破
+% 1 $ s 被歼灭了
+% 1 $ s 被 % 2 $ s 所湮灭
+% 1 $ s 被 % 2 $ s 使用的 % 3 $ s 所湮灭
+% 1 $ s 吸收了太多的 τ 轻子
+% 1 $ s 被 % 2 $ s 用 τ 轻子炸飞
+% 1 $ s 被 % 2 $ s 的 % 3 $ s 用 τ 粒子炸飞
+炼狱指南
+本手册将为您最近购买的 mgan (TM) 光子武器系统提供使用说明和支

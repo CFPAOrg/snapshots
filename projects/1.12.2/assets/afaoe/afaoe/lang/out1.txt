@@ -1,59 +1,59 @@
-Beef, Provolone, Lettuce & Tomato on White
-Beef, Provolone & Lettuce on Wheat
-Beef, Provolone & Lettuce on White
-Beef, Provolone & Tomato on Wheat
-Beef, Provolone & Tomato on White
-Beef & Provolone on Wheat
-Beef & Provolone on White
-Beef Roll on White
-Beef & Tomato on Wheat
-Beef & Tomato on White
-Beef on Wheat
-Beef on White
-Chicken, Cheddar, Lettuce & Tomato on Wheat
-Chicken, Cheddar, Lettuce & Tomato on White
-Chicken, Cheddar & Lettuce on Wheat
-Chicken, Cheddar & Lettuce on White
-Chicken, Cheddar & Tomato on Wheat
-Chicken, Cheddar & Tomato on White
-Chicken & Cheddar on Wheat
-Chicken & Cheddar on White
-Chicken, Lettuce & Tomato on Wheat
-Chicken, Lettuce & Tomato on White
-Chicken, Mozzarella, Lettuce & Tomato on Wheat
-Chicken, Mozzarella, Lettuce & Tomato on White
-Chicken, Mozzarella & Lettuce on Wheat
-Chicken, Mozzarella & Lettuce on White
-Chicken, Mozzarella & Tomato on Wheat
-Chicken, Mozzarella & Tomato on White
-Chicken & Mozzarella on Wheat
-Chicken & Mozzarella on White
-Chicken, Muenster, Lettuce & Tomato on Wheat
-Chicken, Muenster, Lettuce & Tomato on White
-Chicken, Muenster & Lettuce on Wheat
-Chicken, Muenster & Lettuce on White
-Chicken, Muenster & Tomato on Wheat
-Chicken, Muenster & Tomato on White
-Chicken & Muenster on Wheat
-Chicken & Muenster on White
-Chicken, Provolone, Lettuce & Tomato on Wheat
-Chicken, Provolone, Lettuce & Tomato on White
-Chicken, Provolone & Lettuce on Wheat
-Chicken, Provolone & Lettuce on White
-Chicken, Provolone & Tomato on Wheat
-Chicken, Provolone & Tomato on White
-Chicken & Provolone on Wheat
-Chicken & Provolone on White
-Chicken Roll on White
-Chicken on Wheat
-Chicken on White
-Uncooked Crust
-Empty Crust
-Provolone, Pepperoni & Onion Pizza
-Provolone & Onion Pizza
-Provolone & Pepperoni Pizza
-Provolone Pizza
-Provolone Slice
-Provolone & Pepperoni Slice
-Provolone & Onion Slice
-Provolone, Pepperoni & Onion Slice
+白色牛肉、波萝伏洛干酪、生菜和番茄
+小麦牛肉波萝伏洛干酪和生菜
+白色牛肉波罗伏洛干酪生菜
+小麦牛肉、波萝伏洛干酪和番茄
+白色牛肉、波萝伏洛干酪和番茄
+小麦牛肉波罗伏洛干酪
+白色波萝伏洛干酪牛肉
+加装白色牛肉卷
+小麦牛肉番茄
+加装白色牛肉和番茄
+小麦牛肉
+白色牛肉
+鸡肉、切达干酪、小麦生菜和番茄
+鸡肉、切达干酪、生菜和番茄 (加白)
+鸡肉、切达干酪和小麦生菜
+鸡肉、切达干酪和生菜配白酱
+小麦鸡肉、切达干酪和番茄
+鸡肉、切达干酪和番茄 (加白)
+小麦切达奶酪鸡
+白酱鸡肉切达干酪
+鸡肉、生菜和番茄配小麦面包
+鸡肉、生菜和番茄配菜
+鸡肉、意大利干酪、小麦生菜和番茄
+鸡肉、马苏里拉奶酪、生菜和番茄配菜
+鸡肉、马苏里拉奶酪和小麦生菜
+鸡肉马苏里拉奶酪生菜白酱
+小麦鸡肉、马苏里拉奶酪和番茄
+鸡肉、马苏里拉奶酪和番茄配白色三明治
+小麦芝士鸡扒
+白芝士鸡扒
+鸡肉、门斯特面包、小麦生菜和番茄
+鸡肉、门斯特面包、生菜和番茄 (加白)
+小麦炖鸡、门斯特面包和生菜
+鸡肉、门斯特冰淇淋和生菜
+小麦配鸡肉、门斯特面包和番茄
+鸡肉、门斯特冰淇淋和番茄
+小麦炖鸡与门斯特饼干
+加装门斯特鸡 (白色)
+鸡肉、波罗伏洛干酪、小麦生菜和番茄
+鸡肉、波萝伏洛干酪、生菜和番茄 (加白)
+小麦鸡肉波萝伏洛干酪和生菜
+白料鸡波萝伏洛干酪生菜块
+小麦配鸡肉、波罗伏洛干酪和番茄
+白色鸡肉、波罗伏洛干酪和番茄
+小麦波萝伏洛干酪鸡
+白色波萝伏洛干酪鸡
+白酱鸡肉卷
+小麦鸡
+白鸡
+未烧制的硬皮
+空壳
+波罗伏洛干酪意大利香肠洋葱披萨
+波罗伏洛洋葱披萨
+波罗伏洛香肠披萨
+波罗伏洛披萨
+波罗伏洛薄片
+波萝伏洛干酪意大利香肠片
+波罗伏洛洋葱片
+波罗伏洛干酪、意大利香肠和洋葱片

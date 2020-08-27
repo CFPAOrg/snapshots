@@ -1,116 +1,116 @@
-Spawn an Altar
-Lucidion Stone
-Lucidion Spikes Gen
-stalactite
-Fabric casing
-Coronium Chestplate
-Armagedon (Need's Model and new Ammo)
-Ancient Realms
-Abadon Ceiling Spikes Gen
-eye of the seer
-Yellow Cobblestone
-Thanks for installing Ancient Realms :)
-Big Dirt Fragment
-Sugarenia Portal Frame
-Lucidion Stone
-Ancient Blaze {N.I.Y.}
-Wind Wood Planks
-Purple Mushroom Hanging
-Dark stalactites
-Lollipop
-Void Stone
-Oak Leaves
-Blue Glowing Mushroom
-Ocean Floor Grand Reef
-Frosted Snow
-Mountainia Grass
-Dagaz Rune
-Chiseled Dark Mantle Bricks
-Enter Sugarenia
-amaridium ingot
-Fire Pickaxe
-Cursed Scyth
-Cotton Candy Tree Spawner
-Air Wood Planks
-Taurum Gem
-Blood Saver
-Blue Sugar Leggings
-ancient realms Ranged
-Sugar Crystal Fragment
-Call For Airstrike
-Sky Tree Leaves
-Poisend String
-FreezingWater
-Sugar Crystal Fragment
-ancient realms Items
-Discover Polonium ore
-Purple Crystals Gen
-Dark Sand Stone Bricks
-Season Grass
-Data Chipset
-Blue Candy Shards
-Coronium Boots
-Zantium Spade
-Sun Dirt
-Blue Magic PLanks
-Kulinium Ore
-Chocolate Chipped Dirt
-amaridium block
-Candy Cane Block
-Stalker
-Mystic Mossy Stone Purple
-Big Grass Fragment
-Mystic Mossy Stone
-Kryonite Ore
-Aerium Portal core
-Chocolate Bar
-amaridium ore
-Stalker
-Green Crystal ore
-Big Dirt Fragment
-Big Stone Fragment
-Yellow Grass
-Mountilium Gem
-Sun Double Grass
-Polonium Block
-Candy Stone
-Coronium Leggings
-I Wonder What It Does
-wood golem
-Don't Drop it
-hell_under_hell Portal 
-Airstrike Confirmed
-Wave Core 
-Algiz Mage
-Cookie Crown
-Ailt Purple
-Snow White Grass
-The Heart Of Creeper Jones
-Safe Bricks
-Polonium Boots
-Debug Item
-Burned Chipset
-Melting Gen
-Sky Grass 
+生成一个祭坛
+灵石
+圣刺根
+钟乳石
+织物外壳
+冠素胸甲
+Armagedon (需要的模型和新弹药)
+古代领域
+Abadon 天花板尖刺根
+见解之眼
+黄色圆石
+感谢你安装古代领域 :)
+大块泥土碎片
+Sugarenia 传送门框架
+灵石
+古代烈焰 {N.I.Y.}
+风木木板
+紫色蘑菇挂饰
+黑钟乳石
+棒棒糖
+虚空石
+橡树树叶
+荧光蓝蘑菇
+海床大礁石
+霜雪
+山脉草方块
+Dagaz 符文
+Chis制深色披风砖
+进入 Sugarenia 界面
+Amaridium 锭
+火镐
+诅咒大镰刀
+棉花糖树生成器
+空气木板
+琥珀金宝石
+血液保存工具
+蓝色糖护腿
+古代领域: 远程攻击
+糖水晶碎片
+召唤空袭
+天空树树叶
+中毒线
+冷冻水
+糖水晶碎片
+古代领域的物品
+发现钋矿石
+紫色水晶发电机
+暗色沙石砖
+节日草
+数据芯片组
+蓝色糖果碎片
+冠水晶靴子
+藏金锹
+太阳泥土
+蓝色魔法木板
+Kul矿石
+巧克力屑土
+Amaridium block
+拐cane 糖
+潜行者
+紫色神秘苔石
+大型草方块碎片
+神秘苔石
+磷铁铜矿
+艾里姆传送门核心
+巧克力棒
+Amaridium 矿石
+潜行者
+绿水晶矿石
+大块泥土碎片
+大块石头碎片
+黄色草方块
+山地金属宝石
+太阳双层草
+钋块
+石糖
+冠素护腿
+我不知道它是做什么的
+木傀儡
+不要掉落
+地狱传送门 (地下)
+空袭已确认
+波纹核心
+阿尔吉兹 · 法师
+曲奇皇冠
+爱石紫
+雪白草方块
+苦力怕 · 琼斯之心
+安全砖块
+钋靴子
+调试工具
+烧焦芯片组
+熔炼发电机
+天空草方块
 CandyDebug
-Key Orb
-Mountainia Grass
-Carved Dark Stonebricks
-Spinner
-Angry Candy Creeper
-Yellow Magic Leaves
-Jera Rune Crystal
-Duster
-Lucidion Stone
-Galaum Ore
-Stalker
-Dark Stone
-Ravaritium
-Tasty
-VoidPlanks
+钥匙宝珠
+山脉草方块
+雕纹暗黑石砖
+旋转器
+愤怒的糖果爬行者
+黄色魔法树叶
+杰拉符文水晶
+除尘器
+灵石
+嘉兰矿石
+潜行者
+黑石
+Rav
+美味
+虚空木板
 Hidan
-Snow White Leafs
-Friendly Candy Core
-Debug Item
-Stalker
-Mountainia Stone
+雪白的叶子
+友善之糖核心
+调试工具
+潜行者
+高山岩石

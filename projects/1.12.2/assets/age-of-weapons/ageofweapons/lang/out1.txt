@@ -1,125 +1,125 @@
-Golden Skewer
-Diamond Skewer
-Recurve Bow
-Wooden Battle Axe
-Stone Battle Axe
-Iron Battle Axe
-Golden Battle Axe
-Diamond Battle Axe
-Stone Flail
-Iron Flail
-Golden Flail
-Diamond Flail
-Wooden Halbert
-Stone Halbert
-Iron Halbert
-Golden Halbert
-Diamond Halbert
-Wooden Longsword
-Stone Longsword
-Iron Longsword
-Golden Longsword
-Diamond Longsword
-Wooden Spear
-Stone Spear
-Iron Spear
-Golden Spear
-Diamond Spear
-Wooden Trident
-Stone Trident
-Iron Trident
-Golden Trident
-Diamond Trident
-Wooden War Axe
-Stone War Axe
-Iron War Axe
-Golden War Axe
-Diamond War Axe
-Wooden War Hammer
-Stone War Hammer
-Iron War Hammer
-Golden War Hammer
-Diamond War Hammer
-Longbow
-Crossbow
-Hammer
-Wooden Scythe
-Stone Scythe
-Iron Scythe
-Golden Scythe
-Diamond Scythe
-Wooden Lance
-Stone Lance
-Iron Lance
-Golden Lance
-Diamod Lance
-Wooden Heavy Staff
-Stone Heavy Staff
-Iron Heavy Staff
-Golden Heavy Staff
-Diamond Heavy Staff
-Wooden Multi Tool
-Stone Multi Tool
-Iron Multi Tool
-Golden Mutli Tool
-Diamond Multi Tool
-Old Ammo
-Old Shotgun Ammo
-Cannonball
-Pebble
-Compound Bow
-Dynamite
-Nails
-Toxic Nails
-Soldier Helmet
-Soldier Chestplate
-Soldier Leggings
-Soldier Boots
-Mystic Knive
-Pufferfish on a stick
-Unholy Scepter
-Basic Wand
-Nether Wand
-Aether Wand
-Curse Wand
-Holy Wand
-Maelstrom Wand
-Offensive Warhorn
-Defensive Warhorn
-Storm Wand
-Scepter of Changing
-Wooden Claw
-Stone Claw
-Iron Claw
-Golden Claw
-Diamond Claw
-Wooden Claw Sword
-Stone Claw Sword
-Iron Claw Sword
-Golden Claw Sword
-Diamond Claw Sword
-Wooden Claymore
-Stone Claymore
-Iron Claymore
-Golden Claymore
-Diamond Claymore
-Long Wooden Claymore
-Long Stone Claymore
-Long Iron Claymore
-Long Golden Claymore
-Long Diamond Claymore
-Wooden Dragonslayer Sword
-Stone Dragonslayer Sword
-Iron Dragonslayer Sword
-Golden Dragonslayer Sword
-Diamond Dragonslayer Sword
-Light Bow
-Shadow Bow
-Wooden Katana
-Stone Katana
-Iron Katana
-Golden Katana
-Diamond Katana
-Wooden Ninjatō
-Stone Ninjatō
-Iron Ninjatō
+金串
+钻石烤串
+反曲弓
+木制战斧
+石制战斧
+铁制战斧
+金制战斧
+钻石战斧
+石制连ail
+铁制连ail
+金火刀
+钻石连ail
+木戟
+石戟
+铁戟
+金戟
+钻石戟
+木长剑
+石质长剑
+铁长剑
+金长剑
+钻石长剑
+木制长矛
+石质长矛
+铁质长矛
+金质长矛
+钻石长矛
+木三叉戟
+石三叉戟
+铁三叉戟
+金三叉戟
+钻石三叉戟
+木战斧
+石制战斧
+铁战斧
+黄金战斧
+钻石战斧
+木战锤
+石制战锤
+铁战锤
+金战锤
+钻石战锤
+长弓
+十字弩
+锤
+木长柄镰刀
+石长柄镰刀
+铁长柄镰刀
+金长柄镰刀
+钻石长柄镰刀
+木制长枪
+石质长枪
+铁质长枪
+金质长枪
+钻石长枪
+木质重型法杖
+石重法杖
+铁重型权杖
+金重型法杖
+钻石重型法杖
+木质多功能工具
+石质多功能工具
+铁质多功能工具
+金合金工具
+钻石多功能工具
+旧式弹药
+老式霰弹枪弹药
+炮弹
+卵石
+复合弓
+炸药
+钉子
+有毒的钉子
+士兵头盔
+士兵胸甲
+士兵护腿
+士兵靴子
+神秘刀
+木棍河豚
+不洁之杖
+基础法杖
+下界法杖
+天境星杖
+诅咒杖
+神圣法杖
+大漩涡魔杖
+攻势战锤
+防御性鸣笛
+风暴星杖
+更替权杖
+木羊角头
+石羊角头
+铁羊角头
+金羊角头
+钻石羊角头
+木羊角头剑
+石羊角头剑
+铁羊角头剑
+金羊角头剑
+钻石羊角头剑
+木阔剑地雷
+石阔剑地雷
+铁阔剑地雷
+金阔剑地雷
+钻石阔剑地雷
+长木阔剑地雷
+长阔剑阔剑地雷
+长铁质阔剑地雷
+长黄色阔剑地雷
+长钻阔剑地雷
+木龙刃
+石龙刃
+铁龙刃
+金龙剑
+钻石龙刃
+光弓
+暗影弓
+木武士刀
+石武士刀
+铁武士刀
+金武士刀
+钻石武士刀
+木忍者 ō
+石忍者 ō
+铁忍者 ō

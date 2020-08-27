@@ -1,15 +1,15 @@
-Ancient Scroll: Dark Matter Helmet
-Ancient Scroll: Red Matter Leggings
-Ancient Scroll: Body Stone
-Ancient Scroll: Volcanite Amulet
-Ancient Scroll: High Covalence Dust
-Ancient Scroll: Void Ring
-Ancient Scroll: Life Stone
-Ancient Scroll: Dark Matter Pedestal
-Ancient Scroll: Red Katar
-Ancient Scroll: Philosopher's Stone
-Ancient Scroll: Ancient Condenser MK2
-Ancient Scroll: Dark Matter Boots
-Ancient Scroll: Dark Matter
-Ancient Scroll: Philosopher's Stone Shard I
-Philosopher's Stone Shard I
+荒卷轴: 暗物质头盔
+荒卷轴: 红物质护腿
+古代卷轴: 身石
+古代卷轴: 熔焰护符
+古代卷轴: 高等共价粉
+古代卷轴: 虚空指环
+古代卷轴: 生命石
+荒卷轴: 暗物质基座
+古代卷轴: 红物质拳剑
+古代卷轴: 贤者之石
+古代卷轴: 古代冷凝器 MK2
+荒卷轴: 暗物质靴子
+古代卷轴: 暗物质
+古代卷轴: 贤者之石碎片 I
+贤者之石碎片 I

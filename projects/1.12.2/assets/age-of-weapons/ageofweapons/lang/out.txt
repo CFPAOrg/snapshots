@@ -1,90 +1,90 @@
-Golden Ninjatō
-Diamond Ninjatō
-Iron Baton
-Wooden Baton
-Blowgun
+忍者 ō
+钻石忍者 ō
+铁指挥棒
+木指挥棒
+吹箭筒
 Kunai
-Lash
-Wooden Nunchuck
-Iron Nunchuck
-Throwing Star
-Iron Throwing Knive
-Golden Throwing Knive
-Diamond Throwing Knive
-Assassin Cap
-Assassin Tunic
-Assassin Pants
-Assassin Boots
-Ninja Cap
-Ninja Tunic
-Ninja Pants
-Ninja Boots
-Field Glasses
-Night Vision Goggles
-Taser
-Flamethrower
-Industrial Miner
-Industrial Excavator
-Tank (Fire)
-Grenade
-Frag Grenade
-Poison Grenade
-Smoke Grenade
-Molotov cocktail
-Spec Ops Helmet
-Spec Ops Chestplate
-Spec Ops Leggings
-Spec Ops Boots
-Machine Case
-Small Ammo
-Big Ammo
-Small Ammo Bundle
-Big Ammo Bundle
-Concentrated Gunpowder
-Small Magazine
-Long Magazine
-Big Magazine
-Magazine Drum
-Red Shotgun Ammo
-Blue Shotgun Ammo
-Poisonthrower
-Industrial Multi Tool
-Tank (Poison)
-Tank (Water)
-Portable Waterthrower
-Imploder
-Robot Soldier Helmet
-Robot Soldier Chestplate
-Robot Soldier Leggings
-Robot Soldier Boots
-Herobrine's Bow
-Herobrine's Sword
-Master Sword
-Master Axe
-Master Pickaxe
-Master Shovel
-Master Helmet
-Master Chestplate
-Master Leggings
-Master Boots
-Legendary Sword
-Rex's Katana
-Steve's Waraxe
-JSQ's Battle Axe
-Paradox Staff
-Sentinel Glave
-Cast Net
-Grappling Hook
-Grappling Iron
-Harpoon
-Diamond Machete
-Golden Machete
-Iron Machete
-Stone Machete
-Wooden Machete
-Telescope
-Diamond Saber
-Golden Saber
-Iron Saber
-Stone Saber
-Wooden Saber
+刺刺
+木制双截棍
+铁制双截棍
+投掷之星
+铁质刀片
+黄金投掷刀
+钻石投掷刀
+刺客端
+刺客胸甲
+刺客护腿
+刺客靴子
+忍者之帽
+忍者胸甲
+忍者护腿
+忍者靴子
+农田眼镜
+夜视目镜
+泰瑟枪
+火焰喷射器
+工业矿工
+工业开掘铲
+储罐 (火)
+榴弹
+破片手雷
+毒榴弹
+烟雾弹
+莫洛托夫鸡尾酒
+特殊 op 头盔
+特殊行动胸甲
+特殊行动护腿
+特殊 op 靴子
+机械外壳
+小型弹药
+重型弹药
+小型弹药包
+大型弹药包
+浓缩火药
+小型弹匣
+长弹匣
+大型弹匣
+弹匣桶
+红色霰弹枪弹药
+蓝色霰弹枪弹药
+中毒喷射器
+工业多功能工具
+储罐 (剧毒)
+储罐 (水)
+便携式喷涂机
+内爆者
+机器人士兵头盔
+机器人士兵胸甲
+机器人士兵护腿
+机器人士兵靴子
+Herobrine 的弓
+Herobrine 的剑
+大师之剑
+大师斧
+大师镐
+大师锹
+大师头盔
+大师胸甲
+大师护腿
+大师长靴
+传奇之剑
+雷克斯武士刀
+史蒂夫的战斧
+Jsqu 战斧
+悖论权杖
+守卫玻璃板
+施放网
+抓钩
+铁质抓钩
+鱼叉
+钻石开山刀
+金开山刀
+铁弯刀
+圆石弯刀
+木弯刀
+望远镜
+钻石军刀
+金军刀
+铁军刀
+石军刀
+木军刀

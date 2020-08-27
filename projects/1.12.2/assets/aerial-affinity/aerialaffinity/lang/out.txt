@@ -1,2 +1,2 @@
-Aerial Affinity
-Removes the mining speed penalty while flying.
+空气亲和
+在飞行时移除挖掘速度惩罚。

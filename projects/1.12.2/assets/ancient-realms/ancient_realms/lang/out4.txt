@@ -1,118 +1,115 @@
-Zantium Helmet
-Blue Crystals Gen
-Dark stalactites
-Big Stone Fragment
-Red Wave Key
-Candy Creeper
-Masked Candy Murderer
-Mountainia Portal 
-Hagalaz Rune
-Lingering calmness
-Void Trees Spawn
-ancient realms Weapons
-Mystic Stone
-Candy Gun
-Candy Bricks
-Corrupted Rainbow Pillar
-Block Of Blue Sugar
-ancient realms Armor
-Oblivion Core
-Ice wall
-Treasure Key Guardian
-Void Bricks
-Jera Rune
-Blue Glowing Mushroom
-Dark Sand Stone
-Green Hard Candy
-Kulinium Gem
-Kulinium Axe
-Error404
-Dagaz Rune Crystal
-Cotton Sappling
-Ocean Floor Blue Kelp Zone
-Aerial Grass
-Dark Stalagmite
-Sugar Crystal Fragment
-LiquidChocolate
-Debug
-Zantium Block
-Void Trees Spawn
-Dark Stonebrick
-Polonium Leggings
-Jelly Flower
-Purple Grass
-Stalker
-Hand over Queen Creeper her heart
-Candy Bricks Light
-stalactites
-Candy Stone
-Candy Golem
-Cookie Villager
-Lucidion Stone
-Kulinium Pickaxe
-Mountainia Portal Gem
+大块石头碎片
+红波钥匙
+糖果爬行者
+蒙面糖果杀手
+山脉传送门
+Hagalaz 符文
+滞留型平静
+虚空树生成
+古代领域 | 武器
+神秘石头
+糖枪
+糖砖
+腐化的彩虹柱
+蓝色糖块
+古代领域的装备
+湮灭核心
+冰墙
+藏宝钥匙守卫
+虚空砖
+Jera 符文
+荧光蓝蘑菇
+暗黑沙石
+绿色硬糖
+Kul金属宝石
+Kul斧
+Error405
+Dagaz 符文水晶
+拍打棉花
+海带海带
+高空草方块
+暗石笋
+糖水晶碎片
+液态巧克力
+调试
+暗物质块
+虚空树生成
+黑暗石砖
+钋护腿
+果冻花
+紫色草方块
+潜行者
+把她的心脏交还给女王爬行者
+发光糖果砖
+钟乳石
+石糖
+糖果傀儡
+曲奇村民
+灵石
+Kul镐
+山脉传送门宝石
 ERR
-Mountainia Grass
-Black Mist Curse
-Lollipop Block White
-Candy Stone
-Galvanium Coin
-Candy Stick Block
-Spiral Leaves
+山脉草方块
+黑色迷雾诅咒
+棒棒糖块 (白色)
+石糖
+锌币
+糖块
+螺旋树叶
 Fierium Block
-Stalker
-Blue Cobblestone
-Wind Wood
-Corrupted Rainbow Pillar
-Lingering Blood Curse
-Zantium Pickaxe
-debug Item
-Kryonite Cooler Component
-White Crystal
-Red Crystal ore
-obsideok
-hellzana
-Void Trees Spawn
-Totem Of Death
-Golden Log
-Red Dirt
-Jelly Cubes
-Stalker
-Snow White Planks
-Air Cobblestone
-Sky Dirt 
-Lollipop Block
-Door Block Key Hole
-Big Grass Fragment
-Compounding Compressor
-Lucidion Portal Gem
-Candy Runner
-Frozen Red Mushroom
-Pure light orb
-Sky tree Gen
-Crystal Miner
-Hand Over King Cookie His Crown
-Sun Grass Bottom
-Lingering Black Mist Curse
-Snow whitey
-Empty Chipset
-Stalker
-Purple Mushroom Dot
-Green Magic Log
-Dragonium Ore
-Flak Trooper
-Stalker
-Create blood marker
-Burned Log
-Big Lootbag
-Air Stone
-Splash Blood Curse
-Arrow of Black Mist Curse
-Active Hagalaz Rune
-Blue Sugar Gem
-Livermorium Ore
-Door Block
-Abadon Ground Spikes Gen
-Ocean Floor Red Grass Field
-Polonium Axe
-Dark Stalagmites
+潜行者
+蓝色圆石
+风木
+腐化的彩虹柱
+滞留型血咒
+蓝金镐
+调试工具
+Kryonite 冷却组件
+白色水晶
+红水晶矿石
+黑豹豹兽
+地狱草
+虚空树生成
+死亡图腾
+黄金原木
+红色泥土
+果冻方块
+潜行者
+雪白木板
+乱砌空气石
+天沙
+棒棒糖块
+门方块钥匙孔
+大型草方块碎片
+混合压缩机
+Luclion 传送宝石
+糖果转轮
+冷冻红色蘑菇
+纯净亮光晶球
+生成天空树
+水晶矿工
+把他的王冠交还给国王曲奇
+太阳草丛底部
+滞留型黑色迷雾诅咒
+白雪地
+空白芯片组
+潜行者
+紫色蘑菇圆点
+绿色魔法原木
+龙 onium 矿石
+高炮骑兵
+潜行者
+制作血液标记工具
+烧焦的原木
+大战利品袋
+风之石
+喷溅型血咒
+黑雾之箭诅咒
+激活 Hagalaz 符文
+蓝色糖宝石
+Orium 矿石
+门方块
+Abadon 磨碎的尖刺根
+海床 (红色) 草地
+钋斧
+黑暗石笋

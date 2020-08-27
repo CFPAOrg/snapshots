@@ -1,113 +1,113 @@
-Tool Parts
-Adventurer's Toolbox Tools
-Adventurer's Toolbox Weapons
-Attack Damage
-Attack Speed
-Durability
-Harvest Level
-Mining Speed
-Enchantability
-Head
-Blade
-Crossguard
-Haft
-Handle
-Adornment
-Wooden
-Flint
-Stone
-Iron
-Golden
-Copper
-Tin
-Bronze
-Aluminum
-Nickel
-Lead
-Silver
-Steel
-Electrum
-Soulforged Steel
-Dawnstone
-Constantan
-Ardite
-Cobalt
-Manyullyn
-Thaumium
-Void
-Rock
-Cloth-Padded Handle
-Leather-Padded Handle
-Wooden Handle
-Bone Handle
-Pickaxe Head
-Axe Head
-Shovel Head
-Hoe Head
-Hand Pick Head
-Hammer Head
-Sword Blade
-Crossguard
-Dagger Blade
-Mace Head
-Pickaxe
-Axe
-Shovel
-Hoe
-Hand Pick
-Hammer
-Sword
-Dagger
-Mace
-Schematic
-Toolmakers' Treatise
-Pickaxe Head Cast
-Axe Head Cast
-Shovel Head Cast
-Hoe Head Cast
-Climbing Pick Head Cast
-Hand Pick Head Cast
-Hammer Head Cast
-Sword Blade Cast
-Sword Crossguard Cast
-Dagger Blade Cast
-Mace Head Cast
-Soulforged Steel
-Contents
-General Information
-Materials
-Tools
-Weapons
-Heads
+工具部分
+冒险工具箱 | 工具
+探险者工具箱武器
+攻击伤害
+攻击速度
+耐久
+采掘等级
+挖掘速度
+能否附魔
+头部
+剑刃
+十字柄
+手柄
+手柄
+装饰品
+木制
+燧石
+石
+铁
+金
+铜
+锡
+青铜
+铝
+镍
+铅
+银
+钢
+琥珀金
+熔魂钢
+黎明石
+康铜
+阿迪特
+钴
+玛玉灵
+神秘
+虚空
+石子
+布填充手柄
+皮革软垫手柄
+木手柄
+骨手柄
+Pick头
+斧
+铲头
+锄头
+手动镐头部
+锤头
+剑刃
+十字柄
+匕首剑刃
+战锤头颅
+镐
+斧
+锹
+锄
+手动镐
+锤
+剑
+匕首
+权杖
+Schematic 模组
+工具匠论文
+Pick头铸件
+斧头铸件
+铲头铸件
+锄头铸件
+攀爬镐头颅铸件
+手动镐头颅铸模
+锤头铸件
+剑刃铸模
+十字守护剑铸件
+匕首剑刃铸模
+战锤头颅铸件
+熔魂钢
+目录
+基本信息
+材料
+工具
+武器
+头颅
 Hafts
-Handles
-Adornments
-Contents
-Toolmaking
-The art of toolmaking is highly practicle, and quite simple.|All tools can be made from just a few types of tool parts. There are tool heads, which take many forms, and are specialized for use in a specific tool type. The head of the tool tends to define the tool's basic stats that other parts can then modify. There are also hafts and handles, which can be used to make a variety of different tools, and tend not to have too much of an effect on tool stats. Finally, there are adornments, which are always optional, but can provide noticable benefits to a tool's stats if you decide to add one.|To craft a tool out of the it's requisite parts, simply place all of the parts into a crafting table in any configuration.
-Material Types
-Stone
-Wood
-Iron
-Gold
-Copper
-Tin
-Bronze
-Aluminum
-Nickel
-Lead
-Silver
-Steel
-Electrum
-Soulforged Steel
-Dawnstone
-Constantan
-Flint
-Ardite
-Cobalt
-Manyullyn
-Thaumium
-Void
-Blaze Rod
-End Rod
-Bone
+手柄
+装饰品
+目录
+制作工具
+工具制作的艺术是高度实用和简单。| 所有的工具可以用一些工具部件制作。有多种形式的工具头，专门用于特定的工具类型。工具的头部倾向于定义工具的基本统计数据，然后其他部件可以修改这些数据。也有手柄和手柄，可以用来制作各种不同的工具，对工具的状态没有太大的影响。最后，还有一些装饰品，它们总是可选的，但是如果你决定添加一个，可以为工具的统计数据提供引人注目的好处。 | 如果需要将工具必备的部件合成成工作台，只需将工具的任意方块放置在工作台上即可。
+材料类型
+石
+木头
+铁
+金
+铜
+锡
+青铜
+铝
+镍
+铅
+银
+钢
+琥珀金
+熔魂钢
+黎明石
+康铜
+燧石
+阿迪特
+钴
+玛玉灵
+神秘
+虚空
+烈焰杆
+末地烛手柄
+骨头

@@ -1,10 +1,10 @@
-Raw Mutton Nugget
-Cooked Beef Nugget
-Raw Rabbit Nugget
-Cooked Mutton Nugget
-Raw Beef Nugget
-Raw Chicken Nugget
-Cooked Porkchop Nugget
-Cooked Chicken Nugget
-Cooked Rabbit Nugget
-Raw Porkchop Nugget
+生羊肉粒
+熟牛肉粒
+生兔肉粒
+熟羊肉粒
+生牛肉粒
+生鸡肉粒
+猪排粒
+熟鸡肉粒
+熟兔肉粒
+生猪排粒
