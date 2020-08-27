@@ -1,2 +1,2 @@
-Air Hop
-Allows for additional jumps while in the air.
+空中跳跃
+允许在空中进行额外的跳跃。

@@ -1,42 +1,42 @@
-Aercloud Engine Items
-Aercloud Engine Blocks
-Skyroot Gear
-Holystone Gear
-Zanite Gear
-Arkenium Gear
-Gravitite Gear
-Valkyrum Gear
-Ambrosium Piece
-Zanite Shard
-Arkenium Nugget
-Gravitite Nugget
-Valkyrum Nugget
-Ambrosium Ore Chunk
-Zanite Ore Chunk
-Arkenium Ore Chunk
-Gravitite Ore Chunk
-Valkyrum Ore Chunk
-Ambrosium Ore Piece
-Zanite Ore Piece
-Arkenium Ore Piece
-Gravitite Ore Piece
-Valkyrum Ore Piece
-Valkyrum Ore
-Ambrosium Ore Sand
-Zanite Ore Sand
-Arkenium Ore Sand
-Gravitite Ore Sand
-Valkyrum Ore Sand
-Arkenium Dust
-Gravitite Dust
-Valkyrum Dust
-Wire Cutters
-Hammer
-Wrench
-Arkenium Rod
-Insulated Wire
-Arkenium Wire
-Cloudwool Cloth
-AerLite Wire Insulation
-Coked Ambrosium
-Valkyrum Plate
+境云引擎物品
+境云引擎方块
+天根木齿轮
+圣石齿轮
+紫晶齿轮
+Ken水晶齿轮
+重力晶齿轮
+网址齿轮
+神能晶碎片
+紫晶碎片
+Ken粒
+重力晶粒
+网址
+神能晶矿石
+紫晶矿石块
+Ken锭矿石
+重力晶矿石
+网址矿石
+神能晶矿石
+紫晶矿石碎片
+Ken锭矿石
+重力晶矿石碎片
+网址矿石
+网址矿石
+神能晶矿砂
+紫晶矿砂
+Ken晶矿砂
+重力晶矿砂
+网址矿砂
+Ken锭粉
+重力晶粉
+网址粉末
+剪线钳
+锤
+扳手
+Ken杆
+绝缘线缆
+Ken锭线缆
+云羊毛布匹
+天卫四线缆绝缘
+焦黑神能晶
+网址

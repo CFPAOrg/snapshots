@@ -1,72 +1,72 @@
-Ancient Scroll: Low Covalence Dust
-Ancient Scroll: Dark Matter Leggings
-Ancient Scroll: Alchemical Bag
-Ancient Scroll: Swiftwolf's Rending Gale
-Ancient Scroll: Philosopher's Stone Shard II
-Ancient Scroll: Archangel's Smite
-Ancient Scroll: Harvest Goddess Band
-Ancient Scroll: Red Matter Shovel
-Ancient Scroll: Dark Matter Chestplate
-Ancient Scroll: Red Matter Helmet
-Ancient Scroll: Energy Condenser
-Ancient Scroll: Destruction Catalyst
-Ancient Scroll: Red Matter
-Ancient Scroll: Antimatter Relay MK3
-Ancient Scroll: Medium Covalence Dust
-Ancient Scroll: Dark Matter Shears
-Ancient Scroll: Red Matter Hoe
-Ancient Scroll: Black Hole Band
-Ancient Scroll: Gem Helmet
-Ancient Scroll: Dark Matter Shovel
-Dormant Philosopher's Stone
-Ancient Scroll: Red Morningstar
-Ancient Scroll: Transmutation Tablet
-Temporal Shard
-Ancient Scroll: Transmutation Table
-Philosopher's Stone Shard II
-Ancient Scroll: Gem Leggings
-Ancient Scroll: Nova Cataclysm
-Ancient Scroll: Red Matter Pickaxe
-Ancient Scroll: Antimatter Relay MK1
-Ancient Scroll: Energy Collector MK1
-Ancient Scroll: Watch of Flowing Time
-Ancient Scroll: Mind Stone
-Ancient Scroll: Evertide Amulet
-Ancient Scroll: Red Matter Hammer
-Ancient Scroll: Dark Matter Axe
-Ancient Scroll: Gem of Eternal Density
-Ancient Scroll: Red Matter Boots
-Ancient Scroll: Dark Matter Sword
-Ancient Scroll: Dark Matter Pickaxe
-Ancient Scroll: Red Matter Axe
-Ancient Scroll: Warp Stone
-Ancient Scroll: Red Matter Chestplate
-Ancient Scroll: Red Matter Sword
-Ancient Scroll: Alchemical Chest
-Ancient Scroll: Hyperkinetic Lens
-Ancient Scroll: Soul Stone
-Ancient Scroll: Gem Boots
-Ancient Scroll: Energy Collector MK3
-Ancient Scroll: Gem Chestplate
-Ancient Scroll: Catalystic Lens
-Ancient Scroll: Dark Matter Hoe
-Ancient Scroll: Red Matter Shears
-Ancient Scroll: Nova Catalyst
-Ancient Scroll: Energy Collector MK2
-Ancient Scroll: Antimatter Relay MK2
-Ancient Scroll: Dark Matter Hammer
-Ancient Scroll: Dark Matter Helmet
-Ancient Scroll: Red Matter Leggings
-Ancient Scroll: Body Stone
-Ancient Scroll: Volcanite Amulet
-Ancient Scroll: High Covalence Dust
-Ancient Scroll: Void Ring
-Ancient Scroll: Life Stone
-Ancient Scroll: Dark Matter Pedestal
-Ancient Scroll: Red Katar
-Ancient Scroll: Philosopher's Stone
-Ancient Scroll: Ancient Condenser MK2
-Ancient Scroll: Dark Matter Boots
-Ancient Scroll: Dark Matter
-Ancient Scroll: Philosopher's Stone Shard I
-Philosopher's Stone Shard I
+荒卷轴: 低等共价粉
+荒卷轴: 暗物质护腿
+荒古卷轴: 炼金袋
+古代卷轴: 疾风撕裂之风
+古代卷轴: 贤者之石碎片 II
+古代卷轴: 大天使的惩戒
+古代卷轴: 丰收指环
+荒卷轴: 红物质锹
+荒卷轴: 暗物质胸甲
+荒卷轴: 红物质头盔
+古代卷轴: 能量凝聚
+古代卷轴: 破坏催化器
+荒卷轴: 红物质
+荒卷轴: 反物质续电器 MK3
+古代卷轴: 中等共价粉
+荒卷轴: 暗物质剪刀
+荒卷轴: 红物质锄
+古代卷轴: 黑洞指环
+荒古卷轴: 宝石头盔
+荒卷轴: 暗物质锹
+沉睡贤者之石
+古代卷轴: 红色晨星
+荒古卷轴: 嬗变石板
+瞬息碎片
+荒古卷轴: 转化桌
+贤者之石碎片 II
+古代卷轴: 宝石护腿
+古代卷轴: 灾难新星
+荒卷轴: 红物质镐
+荒卷轴: 反物质续电器 MK1
+荒卷轴: 能量收集器 MK1
+荒古卷轴: 时间洪流怀表
+古代卷轴: 念想之石
+荒卷轴: 潮汐护符
+荒卷轴: 红物质锤
+荒卷轴: 暗物质斧
+古代卷轴: 永恒的神秘宝石
+荒卷轴: 红物质靴子
+荒卷轴: 暗物质剑
+荒卷轴: 暗物质镐
+荒卷轴: 红物质斧
+古代卷轴: 传送石
+荒卷轴: 红物质胸甲
+荒卷轴: 红物质剑
+荒卷轴: 炼金箱子
+古代卷轴: 不稳定水晶
+古代卷轴: 灵魂石
+荒古卷轴: 宝石靴子
+荒卷轴: 能量收集器 MK3
+古代卷轴: 宝石胸甲
+荒古卷: 催化透镜
+荒卷轴: 暗物质锄
+荒卷轴: 红物质剪刀
+荒古卷轴: 新星触媒
+荒卷轴: 能量收集器 MK2
+荒卷轴: 反物质续电器 MK2
+荒卷轴: 暗物质锤
+荒卷轴: 暗物质头盔
+荒卷轴: 红物质护腿
+古代卷轴: 身石
+古代卷轴: 熔焰护符
+古代卷轴: 高等共价粉
+古代卷轴: 虚空指环
+古代卷轴: 生命石
+荒卷轴: 暗物质基座
+古代卷轴: 红物质拳剑
+古代卷轴: 贤者之石
+古代卷轴: 古代冷凝器 MK2
+荒卷轴: 暗物质靴子
+古代卷轴: 暗物质
+古代卷轴: 贤者之石碎片 I
+贤者之石碎片 I

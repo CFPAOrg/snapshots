@@ -1,53 +1,53 @@
-Enderium Hoe
-Arrow of Flardpotion
-Trilion Alloy Rod
-Purple Spider
-Trilbium Ingot
-Trilbium Shovel
-Enderium Sword
-Flard Ore
-Block of Flard
-Flard Sword
-Trilbium Helmet
-Flard Helmet
-Trilbium Bow
-Block of Trilbium
-Trilbium Sword
-Flard Boots
-Trilbium Hoe
-Enderium Shovel
-Flard Axe
-Flard Hoe
-Asgard Dimenson Portal Igniter
-Flardpotion
-Flard Leggings
-Trilbium Dust
-Trilbium Chestplate
-Enderium
-Adventure Quest
-Enderium Axe
-Flard Chestplate
-Splash Flardpotion
-Trilbium Pickaxe
-Flard Shovel
-Block of Enderium
-TrilFlard Chest
-Flard Pickaxe
-Trilbium Boots
-Purple Zombie
-Enderium Ingot
-Trilbium Ore
-Flard Ingot
-Flardpotion
-Trilbium Axe
-Hoth Dimension Portal Igniter
-Lingering Flardpotion
-Trilbium Leggings
-Purplechest
-EnderiumTools Pickaxe
-Asgard Portal Ignitor
-Purple Creeper
-Plaze
-Enderium Ore
-Hoth Dimension Portal Ignitor
-Flard Ore Dust
+末影锭锄
+药水之箭
+三重合金杆
+紫色蜘蛛
+Tril锭
+Bium 锹
+末影锭剑
+胸甲矿石
+薄片块
+燧石剑
+Tril镍头盔
+胸甲头盔
+Tril弓
+Tril合金块
+Tril木剑
+胸甲
+Bium 锄
+末影锭锹
+燧石斧
+Ard 锄
+Asgard 维度传送门打火石
+药水
+胸甲护腿
+Tril粉
+三阶胸甲
+末影
+冒险任务
+末影斧
+胸甲
+喷溅型药水
+Tril镐
+扁锹
+末影块
+铁蒺藜
+Fl镐
+Tril晶靴子
+紫色僵尸
+末影锭
+Tril矿
+燧石锭
+药水
+Tril斧
+霍斯维度传送门打火石
+滞留型药水
+Tril护腿
+紫色箱子
+EnderiumTools 镐
+精灵通道入口点火器
+紫色爬行者
+沼泽沼泽
+末影锭矿石
+霍斯维度传送门点火器
+燧石矿尘

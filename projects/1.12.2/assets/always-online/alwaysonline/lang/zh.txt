@@ -1,25 +1,25 @@
-Invalid password!
-Password
-Share world
-Share!
-Browse online
-No connection!
-Playing
-Discord Rich Presence
-Search: 
-Default server proudly hosted by ZeithTheWolf & Heroku
-§2ENABLED
-§4DISABLED
-Sharing with world...
-Unable to obtain external IP (connection to "http://checkip.amazonaws.com/" failed). Aborting share. :(
-Share complete!
-Normal connection failed. Attempting port-forward!
-Port-forward complete. Validating connection...
-Connection is still not established. Waiting 10 more seconds before second attempt...
-Connection established.
-Port-forward impossible. Aborting share. :(
-Share failed! :(
-Unable to open LAN world. Aborting share. :(
-Discord Rich Presence Activated!
-Connecting to %s server...
-Authorizing on %s server...
+密码无效!
+密码
+共享世界
+分享!
+在线浏览
+无连接!
+玩耍模式
+富 Discord 存在
+搜索:
+默认服务器由 zeithethewolf 和 Heroku 自豪地托管
+§ 2 开启
+§ 4 禁用
+与世界分享...
+无法获得外部 IP (连接到” http://checkip.amazonaws.com/ "失败)。中止共享。:(
+共享完成!
+正常连接失败。尝试转发端口!
+传送请求完成。正在验证连接……
+连接仍未建立。在第二次尝试之前还有 10 秒……
+连接已建立。
+不可能向前移动端口。中止共享。:(
+分享失败!:(
+无法打开 LAN 域。中止共享。:(
+富 Discord 存在已激活!
+正在连接到 % s 服务器……
+正在 % s 服务器上授权……

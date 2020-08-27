@@ -1,48 +1,55 @@
-AIOT Botania
-§6Mode:
-§aTill soil and create grass paths
-§ePlace down torches and saplings
-Livingwood Shears
-Livingwood Sword
-Livingwood Axe
-Livingwood Pickaxe
-Livingwood Shovel
-Livingwood Hoe
-Livingwood AIOT
-Livingrock Shears
-Livingrock Sword
-Livingrock Axe
-Livingrock Pickaxe
-Livingrock Shovel
-Livingrock Hoe
-Livingrock AIOT
-Manasteel Hoe
-Manasteel AIOT
-Elementium Hoe
-Elementium AIOT
-Livingwood Tools
-Livingrock Tools
-&1Livingwood&0 can be shaped into tools by AIOT Botania.<br>The tools have properties like &1Wood&0, albeit somewhat superior in enchantability and durability. Whenever a &1Livingwood&0 item is to take damage, if there's &4Mana&0 available in the inventory (such as a &1Mana Tablet&0), it'll use that instead.<br>Apart from the damage, they're like the vanilla tools.
-The &1Livingwood Pickaxe&0
-The &1Livingwood Shovel&0
-The &1Livingwood Axe&0
-The &1Livingwood Shears&0
-The &1Livingwood Sword&0
-The &1Livingwood Hoe&0
-The &1Livingwood AIOT&0
-&1Livingrock&0 can be shaped into tools by AIOT Botania.<br>The tools have properties like &1Stone&0, albeit somewhat superior in enchantability, durability and a few tweaks. Whenever a &1Livingrock&0 item is to take damage, if there's &4Mana&0 available in the inventory (such as a &1Mana Tablet&0), it'll use that instead.<br>The tools are like improved vanilla tools.
-The &1Livingrock Pickaxe&0
-The &1Livingrock Shovel&0
-The &1Livingrock Axe&0
-The &1Livingrock Shears&0
-The &1Livingrock Sword&0
-The &1Livingrock Hoe&0
-The &1Livingrock AIOT&0
-Because &2AIOT Botania&0 is installed there are two more items.<br>The &1Hoe&0 is just like a normal vanilla Hoe but uses &4Mana&0 like the other tools.<br>The &1AIOT&0 is like a fusion out of &1Manasteel Sword&0, &1Pickaxe&0, &1Axe&0, &1Shovel&0 and &1Hoe&0 and combines all of their features.
-The &1Manasteel Hoe&0
-The &1Manasteel AIOT&0
-The &1Elementium Sword&0 will increase the chance of a &4Pixie&0 spawning when hit (this holds true when no &1Elementium Armor&0 is worn) and increases the strength of any &4Pixies&0 spawned.
-The &1Elementium Hoe&0 tills a dirt block or something, turning it into a farmland block which doesn't break by jumping on it. With this farmland you don't need water nearby, the block is wet everytime. When you right-click on farmland, it turns back into dirt.
-The &1Elementium Hoe&0
-Lastly, the &1Elementium AIOT&0 fusions all the special effects of the other &1Elementium&0 tools.<br>Because you can place &4saplings&0 and &4torches&0 with axe and pickaxe, there is a mode which can be toggled by &4shift-right clicking&0. One mode is for tilling and create grass paths, the other mode is for placing saplings and torches.
-The &1Elementium AIOT&0
+植物魔法全能工具
+§ 6 模式:
+§ A 土地和创造草径
+§ E 放下火把和树苗
+活木剪刀
+活木剑
+活木斧
+活木镐
+活木锹
+活木锄
+活木全能工具
+活石剪刀
+活石剑
+活石斧
+活石镐
+活石锹
+活石锄
+活石全能工具
+魔钢锄
+魔钢全能工具
+源质钢锄
+源质钢全能工具
+活木工具
+活石工具
+& 1 活木 & 0 可以通过植物魔法制作成各种工具。
+ 其属性类似于 & 1 木头 & 0，不过在附魔性和耐久方面略胜一筹。当 & 1 活木 & 0 受到伤害时，如果背包有 & 4 魔力 & 0 (如 & 1 魔力板 & 0), 它会用这个代替。 
+ 除了伤害以外，它们就像原版的工具。
+& 1 活木镐 & 0
+& 1 活木锹 & 0
+& 1 活木斧 & 0
+& 1 活木剪刀 & 0
+& 1 活木剑 & 0
+& 1 活木锄 & 0
+& 1 活木全能工具 & 0
+& 1 活石 & 0 可以通过植物魔法制作成各种工具。
+ 这些工具拥有 & 1 石头 & 0 的属性，不过在附魔能力、耐久以及一些调整上有所提升。当 & 1 活石 & 0 受到伤害时，如果背包有 & 4 魔力 & 0 (如 & 1 魔力板 & 0), 它会用这个代替。 
+ 这些工具就像原版工具一样。
+& 1 活石镐 & 0
+& 1 活石锹 & 0
+& 1 活石斧 & 0
+& 1 活石剪刀 & 0
+& 1 活石剑 & 0
+& 1 活石锄 & 0
+& 1 活石全能工具 & 0
+由于安装了 & 2 植物魔法 & 0，还有两个物品。 
+ & 1 锄 & 0 就像普通的原版锄，但像其他工具一样使用 & 4 魔力 & 0。 
+ 这个 & 1 全能者 & 0 就像一个由 & 1 魔钢剑 & 0，& 1 镐子 & 0，& 1 斧 & 0 聚变而成的, & 1 锹 & 0 和 & 1 锄 & 0 结合了它们所有的功能。
+& 1 魔钢锄 & 0
+& 1 魔钢全能工具 & 0
+& 1 源质钢剑 & 0 会在命中时增加 & 4 小精灵 & 0 生成的几率 (当没有装备 & 1 源质钢护甲 & 0 时生效) 并增加 t
+& 1 源质钢锄 & 0 耕耘一块泥土或者别的什么，把它变成耕地，站在上面是不会破坏的。有了这个农田，你不需要附近有水，方块每次都是湿的。当你右击农田，它变回泥土。
+我的包里倒出来都是源质钢锄
+最后，将 & 1 源质钢 & 0 与其他 & 1 源质钢 & 0 的所有特殊效果融合在一起。 
+ 因为可以使用镐和斧来放置 & 4 个树苗 & 0 和 & 4 个火把 & 0，所以当前模式可通过 & 4shift 右击 & 0 切换。一种模式是耕种和创建草径，另一种模式是放置树苗和火把。
+我的包里倒出来都是源质钢

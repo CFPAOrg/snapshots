@@ -1,702 +1,699 @@
-Sun Grass Top
-CrystalizedWater
-I see a White Eagle
-Green Crystal Gen
-Ocean Floor Blue Kelp Zone Veins
-Dripping Chocolate
-Algiz Rune Crystal
-Lucidion Stone
-Kryonite Ingot
-Void Trees Spawn
-Fabricated Alloy Nugget
-Candy Stone
-Big Grass Fragment
-Reinforced Fabricated Cassing
-Ocean Floor KelpZone Grass
-Yellow Dirt
-Taking A Break
-Cookie King
-Normal Island Grass Gen
-corruptor
-Sugar Sand
-White Crystal ore
-Blue Stone
-Stalker
-Lucidion Stone
-Dark Magma
-Stalker
-Darakus Portal Gem
-Zantium Body
-Void Leaves
-Zantium Hoe
-Empty Portal Frame
-Abadon Portal Gem
-Dark Stalagmites
-Void Star
-Mountainia Grass Yellow
-Stalker
-ender creeper
-Oblivion Block
-Hagalaz Mage
-Aerium Portal Gem
-Compounding Circuit
-Lucidion Stone
-Snow White Sticks
-Snow White Grass
-Rocket
-Blue Crystal Shards
-Arrow of Blood Curse
-Red Stone
-Purple Mushroom Block
-Void Grass
-Frosted Mycelium
-Arrow of Arrow Rain
-Meteor
-Ancient Realms Food
-Crosshair Block
-Blood Curse
-Green Crystal ore
-Ancient Realms Plants
-Candy Bricks Purple
-Obtain a Jera Rune
-Debug Item
-Kryonite Hoe
-Ocean Floor Grand Reef Grass
-Evil Candy Core
-Zantium Sword
-Big Grass Fragment
-Fire Ingot
-Splash calmness
-Kulinium Boots
-Stalagmites
+太阳草地顶部
+结晶水
+我看见一只白鹰
+绿色水晶发电机
+海带基底 (蓝色)
+滴巧克力
+阿尔及利亚符文水晶
+灵石
+磷铁合金锭
+虚空树生成
+自制合金粒
+石糖
+大型草方块碎片
+强化装配台
+海床骨甲片草
+黄色泥土
+休息一下
+曲奇王
+岛草生成
+腐化者
+糖沙
+白色水晶矿石
+蓝色石头
+潜行者
+灵石
+黑暗岩浆
+潜行者
+Darakus 传送宝石
+暗物质体
+虚空树叶
+藏金锄
+空的传送门框架
+阿巴顿传送门宝石
+黑暗石笋
+虚空之星
+高山草 (黄色)
+潜行者
+末影爬行者
+湮灭方块
+Hagalaz 法师
+艾里姆传送宝石
+合成电路板
+灵石
+雪白木棍
+雪白草方块
+火箭
+蓝色水晶碎片
+血咒之箭
+红色石头
+紫色蘑菇块
+虚空草
+霜寒菌丝
+彩虹之箭
+陨石
+古代领域食物
+十字线块
+血之诅咒
+绿水晶矿石
+古代领域 | 植物
+紫色糖果砖
+获得一个杰拉符文
+调试工具
+Kryonite 锄
+海床大礁礁草
+邪恶石糖核心
+赞助人之剑
+大型草方块碎片
+火锭
+喷溅型平静
+龙舌兰酒靴子
+石笋
 Galaum
-Obtain a Hagalaz Rune
-VoidLog
-Ground Gen
-Snow White Grass
-Ground Gen
-Purple Crystal ore
-Air Wood Stick
-Snow Cooler
-hell-under-hell Portal Gem
-Compound Blueprinter
-Mountainia Grass
-Lucidion Stone
-Red Leaves
-Ocean Floor Underwater Mushrooms
-Blue Magic Leaves
-Kulinium Sword
-Big Dirt Fragment
-Blue Mushroom Cluster
-Magic chest
-Mountainia Bricks
-Stalker
-Compounding Assembler
-Air Wood
-Kulinium Hoe
-Brimstone
-Fabricated Alloy
-Dark stalactite
-neko
-Blood Curse
-Ground Gen
-Red Crystals Gen
-Armor Shop
-Polonium Ingot
-Frozen Mushroom Stem
-Scorched Forest Gen
-Stalker
-Fire Body
-Evil Candy Core
-Air Leafs
-Debug
-Red Grass
-Rune Block
-Big Ice Bulbs
-Blue Sugar Boots
-Purple Cobblestone
-Big Stone Fragment
-Yellow Stone
-Dark Mantle Bricks
-Polonium Ore
-White Crystal ore
-Blue Crystal ore
-Scorched Forest Gen
-It Took Me Quite A While
-Fire Helmet
-Stalker
-SeasonizedWater
-Debug Item
-Lucidion Stone
+获得一个 Hagalaz 符文
+虚空原木
+磨碎发电机
+雪白草方块
+磨碎发电机
+紫色水晶矿石
+风木棍
+雪冷藏箱
+地狱传送门宝石
+复合蓝色打印机
+山脉草方块
+灵石
+红色树叶
+海底蘑菇
+蓝色魔法树叶
+Kul剑
+大块泥土碎片
+蓝色蘑菇簇
+魔法箱子
+高山石砖
+潜行者
+混合装配台
+风木
+Kul锄
+硫磺
+合成合金
+黑钟乳石
+Neko 鱼
+血之诅咒
+磨碎发电机
+红色水晶发电机
+盔甲店
+钋锭
+冷冻蘑菇茎秆
+高炉森林发电机
+潜行者
+火焰体
+邪恶石糖核心
+风叶
+调试
+红色草方块
+符文块
+大型冰球茎
+蓝石靴子
+紫色圆石
+大块石头碎片
+黄色石头
+黑暗披风砖
+钋矿石
+白色水晶矿石
+蓝水晶矿石
+高炉森林发电机
+花了我一点时间
+火焰头盔
+潜行者
+季节性水域
+调试工具
+灵石
 Ailiat
-Ravaritium Ore
-stalactites
-Blue Grass
-Candy Cane Block
-Eat a lollipop with a Cookie Villager
-Abadon Ceiling Spikes Gen
-Ancient Candy Wizard
-Blue Crystal
-Brown Frozen Mushroom Block
-White Crystals Gen
-Sugar Grass
-Ice Spikes
-Yellow Candy Shards
-Big Stone Fragment
-Ground Gen
-Ancient Realms Ores
-Snow White Bookshelf
-Sugar Crystal Fragment
-Green Cobblestone
-Colored Hook Stone
-Stalker
-Abadon Portal Block
-pasoria leaf
-Void Dirt
-h-akk-e projectile
-Lucidion Stone
-Red Magic Log
-Red Frozen Mushroom Block
-Chalk
-Sugar Glass
-Red Crystal Shards
-Void Trees Spawn
-Big Stone Fragment
-Blue Mushroom
-Give The Candy Villager A Magical Sugar Crystal
-Stalker
-Evilized Cookie Villager
-Red Crystal ore
-Curse Of The Black Mist
-Double Blue Glowing Mushroom
-Active Dagaz Rune
-Safe Door
-Magical Sugar Crystal
-Big Stone Fragment
-Big Stone Fragment
-Arcaner
-Lingering Arrow Rain
-Dagaz Rune
-Stalker
-Hook Stone
-Sugar Crystal Wand
-Candy Stone
-Candy Wizard
-Storm Bringer
-Kulinium Shovel
-Blue Hard Candy
-Safe Door
-Big Dirt Fragment
-Purple Stone
-Big Bulbs
-pasoria bush
+Rav矿石
+钟乳石
+蓝色草方块
+拐cane 糖
+村民一块吃棒棒糖
+Abadon 天花板尖刺根
+古代糖果巫师
+蓝色水晶
+棕色冷冻蘑菇块
+白色水晶发电机
+糖草
+冰锥刺方块
+黄色糖果碎片
+大块石头碎片
+磨碎发电机
+古代领域: 矿石
+雪书架
+糖水晶碎片
+绿色圆石
+染色勾爪石
+潜行者
+阿巴顿传送门
+Pasoria leaf
+虚空土
+H-akk-e 弹射物
+灵石
+红色魔法原木
+红色冷冻蘑菇块
+白垩岩
+糖杯
+红色水晶碎片
+虚空树生成
+大块石头碎片
+蓝色蘑菇
+给糖果村民一个神奇的糖水晶
+潜行者
+邪恶饼干村民
+红水晶矿石
+黑色迷雾咒
+双发蓝色蘑菇
+激活 Dagaz 符文
+安全门
+魔法糖水晶
+大块石头碎片
+大块石头碎片
+奥术核心
+滞留型箭雨
+Dagaz 符文
+潜行者
+钩石
+糖水晶手杖
+石糖
+糖果巫师
+风暴使者
+Kul锹
+蓝色硬糖
+安全门
+大块泥土碎片
+紫色石头
+大型球茎
+Pasoria 灌木
 Pandora Grass
-Lucidion Stone
-Debug Item
-Splash Arrow Rain
-Mossy Candy Stone
-Birch Leaves
-Void Trees Spawn
-Lucidion Stone
-Wave Counter
-Candy Mage
-Ushrolover
-Chiseled Dark Stonebricks
-Stalagmites
-Mossy Candy Stone
-Fire Axe
-Litium ore
-Polonium Helmet
-What's happening to him!?
-Candy Stone
-Ocean Floor KelpStone
-GroundSnow
-Cotton Candy Block
-Hagalaz Rune Item
-Sky Tree Log
-Obtain a Dagaz Rune
-denepolon
-Stalker
-White Crystal ore
-Stalker
-Debug Item
-Blue Mushroom block
-Heart Of The Queen Creeper
-Lucidion Portal 
-Candy Stone
-Big Grass Fragment
-Sky tree Gen
-Jungle Leaves
-Kryonite Block
-Fire Hoe
+灵石
+调试工具
+喷溅型箭矢雨
+苔石糖
+白桦树叶
+虚空树生成
+灵石
+波浪计数器
+糖法师
+灰烬之影
+Chis制暗黑石砖
+石笋
+苔石糖
+消防斧
+锂矿
+钋头盔
+他怎么了!？
+石糖
+海床拳石
+地面雪
+棉花糖块
+Hagalaz 符文
+天空树原木
+获得一个达加兹符文
+Deneporon
+潜行者
+白色水晶矿石
+潜行者
+调试工具
+蓝色蘑菇块
+女王心脏爬行者
+灵气传送门
+石糖
+大型草方块碎片
+生成天空树
+丛林树叶
+Kryonite 方块
+火锄
 Hidan The Death
-Compound Cog
-Golden Lootbag
-Stalagmite
-Bazooka
-Purple Crystal ore
-Spawn an Altar
-Lucidion Stone
-Lucidion Spikes Gen
-stalactite
-Fabric casing
-Coronium Chestplate
-Armagedon (Need's Model and new Ammo)
-Ancient Realms
-Abadon Ceiling Spikes Gen
-eye of the seer
-Yellow Cobblestone
-Thanks for installing Ancient Realms :)
-Big Dirt Fragment
-Sugarenia Portal Frame
-Lucidion Stone
-Ancient Blaze {N.I.Y.}
-Wind Wood Planks
-Purple Mushroom Hanging
-Dark stalactites
-Lollipop
-Void Stone
-Oak Leaves
-Blue Glowing Mushroom
-Ocean Floor Grand Reef
-Frosted Snow
-Mountainia Grass
-Dagaz Rune
-Chiseled Dark Mantle Bricks
-Enter Sugarenia
-amaridium ingot
-Fire Pickaxe
-Cursed Scyth
-Cotton Candy Tree Spawner
-Air Wood Planks
-Taurum Gem
-Blood Saver
-Blue Sugar Leggings
-ancient realms Ranged
-Sugar Crystal Fragment
-Call For Airstrike
-Sky Tree Leaves
-Poisend String
-FreezingWater
-Sugar Crystal Fragment
-ancient realms Items
-Discover Polonium ore
-Purple Crystals Gen
-Dark Sand Stone Bricks
-Season Grass
-Data Chipset
-Blue Candy Shards
-Coronium Boots
-Zantium Spade
-Sun Dirt
-Blue Magic PLanks
-Kulinium Ore
-Chocolate Chipped Dirt
-amaridium block
-Candy Cane Block
-Stalker
-Mystic Mossy Stone Purple
-Big Grass Fragment
-Mystic Mossy Stone
-Kryonite Ore
-Aerium Portal core
-Chocolate Bar
-amaridium ore
-Stalker
-Green Crystal ore
-Big Dirt Fragment
-Big Stone Fragment
-Yellow Grass
-Mountilium Gem
-Sun Double Grass
-Polonium Block
-Candy Stone
-Coronium Leggings
-I Wonder What It Does
-wood golem
-Don't Drop it
-hell_under_hell Portal 
-Airstrike Confirmed
-Wave Core 
-Algiz Mage
-Cookie Crown
-Ailt Purple
-Snow White Grass
-The Heart Of Creeper Jones
-Safe Bricks
-Polonium Boots
-Debug Item
-Burned Chipset
-Melting Gen
-Sky Grass 
+复合齿轮
+黄金战利品袋
+石笋
+巴祖卡火箭筒
+紫色水晶矿石
+生成一个祭坛
+灵石
+圣刺根
+钟乳石
+织物外壳
+冠素胸甲
+Armagedon (需要的模型和新弹药)
+古代领域
+Abadon 天花板尖刺根
+见解之眼
+黄色圆石
+感谢你安装古代领域 :)
+大块泥土碎片
+Sugarenia 传送门框架
+灵石
+古代烈焰 {N.I.Y.}
+风木木板
+紫色蘑菇挂饰
+黑钟乳石
+棒棒糖
+虚空石
+橡树树叶
+荧光蓝蘑菇
+海床大礁石
+霜雪
+山脉草方块
+Dagaz 符文
+Chis制深色披风砖
+进入 Sugarenia 界面
+Amaridium 锭
+火镐
+诅咒大镰刀
+棉花糖树生成器
+空气木板
+琥珀金宝石
+血液保存工具
+蓝色糖护腿
+古代领域: 远程攻击
+糖水晶碎片
+召唤空袭
+天空树树叶
+中毒线
+冷冻水
+糖水晶碎片
+古代领域的物品
+发现钋矿石
+紫色水晶发电机
+暗色沙石砖
+节日草
+数据芯片组
+蓝色糖果碎片
+冠水晶靴子
+藏金锹
+太阳泥土
+蓝色魔法木板
+Kul矿石
+巧克力屑土
+Amaridium block
+拐cane 糖
+潜行者
+紫色神秘苔石
+大型草方块碎片
+神秘苔石
+磷铁铜矿
+艾里姆传送门核心
+巧克力棒
+Amaridium 矿石
+潜行者
+绿水晶矿石
+大块泥土碎片
+大块石头碎片
+黄色草方块
+山地金属宝石
+太阳双层草
+钋块
+石糖
+冠素护腿
+我不知道它是做什么的
+木傀儡
+不要掉落
+地狱传送门 (地下)
+空袭已确认
+波纹核心
+阿尔吉兹 · 法师
+曲奇皇冠
+爱石紫
+雪白草方块
+苦力怕 · 琼斯之心
+安全砖块
+钋靴子
+调试工具
+烧焦芯片组
+熔炼发电机
+天空草方块
 CandyDebug
-Key Orb
-Mountainia Grass
-Carved Dark Stonebricks
-Spinner
-Angry Candy Creeper
-Yellow Magic Leaves
-Jera Rune Crystal
-Duster
-Lucidion Stone
-Galaum Ore
-Stalker
-Dark Stone
-Ravaritium
-Tasty
-VoidPlanks
+钥匙宝珠
+山脉草方块
+雕纹暗黑石砖
+旋转器
+愤怒的糖果爬行者
+黄色魔法树叶
+杰拉符文水晶
+除尘器
+灵石
+嘉兰矿石
+潜行者
+黑石
+Rav
+美味
+虚空木板
 Hidan
-Snow White Leafs
-Friendly Candy Core
-Debug Item
-Stalker
-Mountainia Stone
-Safe Bricks Glowing
+雪白的叶子
+友善之糖核心
+调试工具
+潜行者
+高山岩石
+发光安全砖块
 DebugItem
-Defeat Hidan
-Cookie Archer
-Zantium Boots
-Scorched Forest Gen
-calmness
-Scorched Forest Gen
-Jera Mage
-Arrow Master
-ancient realms Blocks
-Snow White Stone
-Ocean Floor Cube Zone Small Bulbs
-Big Dirt Fragment
-Dark Cobblestone
-Blue Mushroom Cluster
-calmness
-Frozen Netherrack
-Golden Lootbag
-ancient realms Tools
-Stalker
-h-akk-e
-Stalker
-Light Container
-Air Tree Sapling
-Arrow Rain
-Green Candy Shards
-A Sweet New World
-Birch Leaves
-Sky Tree Planks
-Fire Bricks
-Chocolate Stick
-Scorched Forest Gen
-Blue Magic Log
-Snow White Wood
-Candy Seed
-Golden Lootbag
-Livermorium
-Litium Block
-Snow White Dirt
-Monster Of The Dark Mist
-Cursed Chalk
-Big Stone Fragment
-Storm Bringer Rod
-GroundSnow
-Red Crystal ore
-Mantle
-Big Stone Fragment
-Jera Rune
-Kryopnite Shovel
-Stalker
-Red Candy Shards
-Dragon Forge
-Yellow Magic PLanks
-Big Grass Fragment
-Blue Mushroom Stem
-Forest Grass Block
-Air Wood Sapling
-Debug
-Carved Mountainia Bricks
-Stalker
-Purple Mushroom Stem
-Polonium Sword
-Cold Magma
-Purple Magic PLanks
-The Crown Doesn't Fit On My Head
-Cookie Warrior
-Boss Wave Counter
-Polonium Pickaxe
-Ice Lamp
-Polonium Shovel
-Lucidion Stone
-Purple Magic Leaves
-Blue Mushroom
-Blue Sugar Helmet
-Coppernitium Coin
-Lucidion Stone
-Big Grass Fragment
-Candy Stone
-Ailt Blue
-Mountilium Ore
-Ocean Floor Coral Shallows
-Big Dirt Fragment
-Polonium Body
-Void Grass
-Blue Mushroom Hanging
-Ailt Green
-Ancient Realms Powerfull Weapons
-Candy Cane Block
-Arrow Rain
+击败海丹
+曲奇饼射手
+赞助人靴子
+高炉森林发电机
+冷静
+高炉森林发电机
+杰拉 · 法师
+弓箭大师
+古代领域的方块
+雪白石头
+海床立方体区域小球茎
+大块泥土碎片
+深色圆石
+蓝色蘑菇簇
+冷静
+冷冻地狱岩
+黄金战利品袋
+古代领域的工具
+潜行者
+H-akk-e
+潜行者
+轻型集装箱
+空气树树苗
+箭雨
+绿色糖果碎片
+美好的新世界
+白桦树叶
+天空树木板
+火砖
+巧克力棒
+高炉森林发电机
+蓝色魔法原木
+雪白原木
+糖果种子
+黄金战利品袋
+Orium
+氚块
+雪白的泥土
+黑色迷雾怪物
+诅咒粉笔
+大块石头碎片
+风暴使者杆
+地面雪
+红水晶矿石
+披风
+大块石头碎片
+Jera 符文
+磷铁水晶铲
+潜行者
+红色糖果碎片
+龙熔炉
+黄色魔法木板
+大型草方块碎片
+蓝色蘑菇茎秆
+森林草块
+空气树树苗
+调试
+雕纹高山石砖
+潜行者
+紫色蘑菇茎秆
+钋剑
+寒岩浆
+紫色魔法木板
+这顶皇冠不适合我的头上
+曲奇饼 · 战士
+Boss 波纹计数器
+钋镐
+冰灯
+钋锹
+灵石
+紫色魔法树叶
+蓝色蘑菇
+蓝色糖头盔
+铁铜币
+灵石
+大型草方块碎片
+石糖
+艾琳 · 蓝
+芒金矿石
+海床珊瑚浅滩
+大块泥土碎片
+钋体
+虚空草
+悬挂的蓝色蘑菇
+艾琳 · 格林
+古代领域强力武器
+拐cane 糖
+箭雨
 AerialDebug
-Stalker
-Algiz Rune
-Kulinium Leggings
-Big Island Generator
-Void Trees Spawn
-Algiz Rune
-Decorated Mountainia Bricks
-Red Diamond
-Blood Curse
-Eat a Chocolate Bar with the cookie villager
-Fire Boots
-Yellow Magic Log
-Golden Lootbag
-Green Crystal
-Blue Sugar Pickaxe
-Blue Wave Key
-Wave Counter
-Purple Crystal ore
-Blue Sugar Chestplate
-Purple Crystal Shards
-Creeper Queen
-Fire Leggings
-Big Grass Fragment
-Void Trees Spawn
+潜行者
+狱炎符文
+Kul护腿
+大型岛内发电机
+虚空树生成
+狱炎符文
+装饰过的高山石砖
+红钻
+血之诅咒
+村民一起吃一块巧克力饼干
+火之战靴
+黄色魔法原木
+黄金战利品袋
+绿色水晶
+蓝石镐
+蓝色波纹钥匙
+波浪计数器
+紫色水晶矿石
+蓝糖胸甲
+紫色水晶碎片
+苦力怕女王
+火焰护腿
+大型草方块碎片
+虚空树生成
 Termanor
-Kryonite Sword
-Zantium Helmet
-Blue Crystals Gen
-Dark stalactites
-Big Stone Fragment
-Red Wave Key
-Candy Creeper
-Masked Candy Murderer
-Mountainia Portal 
-Hagalaz Rune
-Lingering calmness
-Void Trees Spawn
-ancient realms Weapons
-Mystic Stone
-Candy Gun
-Candy Bricks
-Corrupted Rainbow Pillar
-Block Of Blue Sugar
-ancient realms Armor
-Oblivion Core
-Ice wall
-Treasure Key Guardian
-Void Bricks
-Jera Rune
-Blue Glowing Mushroom
-Dark Sand Stone
-Green Hard Candy
-Kulinium Gem
-Kulinium Axe
-Error404
-Dagaz Rune Crystal
-Cotton Sappling
-Ocean Floor Blue Kelp Zone
-Aerial Grass
-Dark Stalagmite
-Sugar Crystal Fragment
-LiquidChocolate
-Debug
-Zantium Block
-Void Trees Spawn
-Dark Stonebrick
-Polonium Leggings
-Jelly Flower
-Purple Grass
-Stalker
-Hand over Queen Creeper her heart
-Candy Bricks Light
-stalactites
-Candy Stone
-Candy Golem
-Cookie Villager
-Lucidion Stone
-Kulinium Pickaxe
-Mountainia Portal Gem
+Kryonite 剑
+大块石头碎片
+红波钥匙
+糖果爬行者
+蒙面糖果杀手
+山脉传送门
+Hagalaz 符文
+滞留型平静
+虚空树生成
+古代领域 | 武器
+神秘石头
+糖枪
+糖砖
+腐化的彩虹柱
+蓝色糖块
+古代领域的装备
+湮灭核心
+冰墙
+藏宝钥匙守卫
+虚空砖
+Jera 符文
+荧光蓝蘑菇
+暗黑沙石
+绿色硬糖
+Kul金属宝石
+Kul斧
+Error405
+Dagaz 符文水晶
+拍打棉花
+海带海带
+高空草方块
+暗石笋
+糖水晶碎片
+液态巧克力
+调试
+暗物质块
+虚空树生成
+黑暗石砖
+钋护腿
+果冻花
+紫色草方块
+潜行者
+把她的心脏交还给女王爬行者
+发光糖果砖
+钟乳石
+石糖
+糖果傀儡
+曲奇村民
+灵石
+Kul镐
+山脉传送门宝石
 ERR
-Mountainia Grass
-Black Mist Curse
-Lollipop Block White
-Candy Stone
-Galvanium Coin
-Candy Stick Block
-Spiral Leaves
+山脉草方块
+黑色迷雾诅咒
+棒棒糖块 (白色)
+石糖
+锌币
+糖块
+螺旋树叶
 Fierium Block
-Stalker
-Blue Cobblestone
-Wind Wood
-Corrupted Rainbow Pillar
-Lingering Blood Curse
-Zantium Pickaxe
-debug Item
-Kryonite Cooler Component
-White Crystal
-Red Crystal ore
-obsideok
-hellzana
-Void Trees Spawn
-Totem Of Death
-Golden Log
-Red Dirt
-Jelly Cubes
-Stalker
-Snow White Planks
-Air Cobblestone
-Sky Dirt 
-Lollipop Block
-Door Block Key Hole
-Big Grass Fragment
-Compounding Compressor
-Lucidion Portal Gem
-Candy Runner
-Frozen Red Mushroom
-Pure light orb
-Sky tree Gen
-Crystal Miner
-Hand Over King Cookie His Crown
-Sun Grass Bottom
-Lingering Black Mist Curse
-Snow whitey
-Empty Chipset
-Stalker
-Purple Mushroom Dot
-Green Magic Log
-Dragonium Ore
-Flak Trooper
-Stalker
-Create blood marker
-Burned Log
-Big Lootbag
-Air Stone
-Splash Blood Curse
-Arrow of Black Mist Curse
-Active Hagalaz Rune
-Blue Sugar Gem
-Livermorium Ore
-Door Block
-Abadon Ground Spikes Gen
-Ocean Floor Red Grass Field
-Polonium Axe
-Dark Stalagmites
-super packed ice
-Red Cobblestone
-Bulbs
-Candy Stone
-Portal Alter Spawner
-Stalker
-Lucidion Stone
-Chocolate Block
-Oblivion Lamp
-Sugar Crystal Fragment
-Purple Dirt
-Yellow Hard Candy
-Snow White Grass
-Normal Lootbag
-Blue Sugar Ore
-ZantiumOre
-Zantium Leggings
-hellaridan
-Green Magic PLanks
-Blue Dirt
-Ice Bulbs
-Splash Black Mist Curse
-Lollipop
-Stalker
-Kryonite Axe
-Green Dirt
-Red Magic PLanks
-Wind of Light Block
-Polonium Hoe
-Purple Crystal
-Active Jera Rune
-Hand Over A Blue Sugar Crystal Block
-Lucidion Stone
-Candy Stone
-darakus portal 
-Chocolate Chipped Grass With Sugar
-Teleback Block
-Animated Block Test
-Red Hard Candy
-Coronium Helmet
-Kulinium Block
-Fort Attack Marker
-Kulinium Body
-White Crystal Shards
-Scorched Forest Gen
-Sugar Crystal Fragment
-Hand Over The Evil Candy Core
-Blue Crystal ore
-Green Stone
-Blue Dark Magma
-Sugarenia Portal Gem
-Blue Mushroom Block
-Dark Sand
-Green Magic Leaves
-Snow White Grass
-Pandora Portal Core
-Obtain an Algiz Rune
-Big Stone Fragment
-durtch
-IceColdWater
-Arrow of calmness
-Green Grass
-Mantle Sword
-Ailt Yellow
+潜行者
+蓝色圆石
+风木
+腐化的彩虹柱
+滞留型血咒
+蓝金镐
+调试工具
+Kryonite 冷却组件
+白色水晶
+红水晶矿石
+黑豹豹兽
+地狱草
+虚空树生成
+死亡图腾
+黄金原木
+红色泥土
+果冻方块
+潜行者
+雪白木板
+乱砌空气石
+天沙
+棒棒糖块
+门方块钥匙孔
+大型草方块碎片
+混合压缩机
+Luclion 传送宝石
+糖果转轮
+冷冻红色蘑菇
+纯净亮光晶球
+生成天空树
+水晶矿工
+把他的王冠交还给国王曲奇
+太阳草丛底部
+滞留型黑色迷雾诅咒
+白雪地
+空白芯片组
+潜行者
+紫色蘑菇圆点
+绿色魔法原木
+龙 onium 矿石
+高炮骑兵
+潜行者
+制作血液标记工具
+烧焦的原木
+大战利品袋
+风之石
+喷溅型血咒
+黑雾之箭诅咒
+激活 Hagalaz 符文
+蓝色糖宝石
+Orium 矿石
+门方块
+Abadon 磨碎的尖刺根
+海床 (红色) 草地
+钋斧
+黑暗石笋
+超级浮冰
+红色圆石
+球茎
+石糖
+传送门刷怪笼
+潜行者
+灵石
+巧克力方块
+湮灭灯
+糖水晶碎片
+紫色泥土
+黄色硬糖
+雪白草方块
+普通战利品袋
+蓝石糖矿石
+赞助人玩偶
+藏金护腿
+地狱岩
+绿色魔法木板
+蓝色泥土
+冰球茎
+喷溅型黑色迷雾诅咒
+棒棒糖
+潜行者
+磷铁石斧
+绿色泥土
+红色魔法木板
+光之风方块
+钋锄
+紫色水晶
+激活杰拉符文
+交出一块蓝石晶体
+灵石
+石糖
+Darakus portal
+糖巧克力草碎块
+传送方块
+活化方块测试
+红色硬糖
+科罗宁头盔
+龙舌兰酒块
+要塞攻击坐标
+Kul琴体
+白色水晶碎片
+高炉森林发电机
+糖水晶碎片
+交出邪恶的糖精华
+蓝水晶矿石
+绿石
+蓝色深色岩浆
+Sugarenia 传送宝石
+蓝色蘑菇块
+暗黑沙
+绿色魔法树叶
+雪白草方块
+Pandora 传送门核心
+获得一个 Algiz 符文
+大块石头碎片
+Durtch
+冰霜水
+冷静之箭
+绿色草方块
+披风剑
+艾琳 · 黄
 Ailt Red
-Blue Sugar Sword
-Sugar Crystal Bulet
-Purple Hard Candy
-Litium
-Red Crystal
-Frozen Brown Mushroom
-Green Crystal Shards
-Pandora Portal Gem
-amaridium ore
-Big Dirt Fragment
-Stalker
-Lucidion Stone
+蓝色糖剑
+糖结晶 Bulet
+紫色硬糖
+氚
+红色水晶
+冷冻棕色蘑菇
+绿色水晶碎片
+Pandora 传送宝石
+Amaridium 矿石
+大块泥土碎片
+潜行者
+灵石
 CandyDebug
-Void Stone
-Treasure Protector
-Mental
-Fire Shovel
-Kulinium Helmet
+虚空石
+藏宝袋
+精神
+火锹
+龙舌兰酒头盔
 AerialDebug
-Leaking Void Stone
-Purple Magic Log
-Dagaz Mage
-Golden Planks
-Zantium Gem
-Void Trees Spawn
+虚空石头泄漏
+紫色魔法原木
+Dagaz 法师
+黄金木板
+赞助人玩偶 (Zantium Gem)
+虚空树生成
 Taurialfluid
-Mountain Cloud
-Galantium Coin
-Dark Pearl
-Active Algiz Rune
-Zantium Axe
-Airwood Bookshelf
-Compound Scanner
-Fire rockets from bazooka
-Hagalaz Rune
-Red Magic Leaves
-Kryonite Pickaxe
-Mountainia Grass
-Purple Candy Shards
-Arrow VM
-Chocolate Chipped Grass
-Double Blue Glowing Mushroom
-Big Dirt Fragment
-Blueprint
-Non Active Portal Frame
-Big Grass Fragment
-Rainbow Candy
-Snow White Stone
-Dark Mantle
+山云
+石笋币
+暗黑珍珠
+激活 Algiz 符文
+赞助人斧
+航空木书架
+复合型扫描仪
+从巴祖卡火箭筒发射火箭
+Hagalaz 符文
+红色魔法树叶
+Kryonite 镐
+山脉草方块
+紫色糖果碎片
+箭 VM
+巧克力草方块
+双发蓝色蘑菇
+大块泥土碎片
+蓝图
+未激活的传送门框架
+大型草方块碎片
+彩虹糖
+雪白石头
+黑暗披风

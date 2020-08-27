@@ -1,47 +1,47 @@
-Soundnizer
-Confirm
-Delete Region
-Save Region
-Show Region
-Region Name:
-Name
-Instant Play?
-Select Sound:
-Play at night?
-Position
-You must be inside a selected region to create!
-Configures a region to play a sound.
-Plays a sound when activated by redstone
-Plays a sound and flashs light when activated by redstone
-Sacred bell from the Consil of WaterSheep
-Alarm
-Alarm White
-Alarm Red
-Alarm Orange
-Alarm Yellow
-Alarm Lime
-Alarm Green
-Alarm Light Blue
-Alarm Cyan
-Alarm Blue
-Alarm Purple
-Alarm Magenta
-Alarm Pink
-Alarm Brown
-Alarm Lit
-Alarm Red Lit
-Alarm Orange Lit
-Alarm Yellow Lit
-Alarm Lime Lit
-Alarm Green Lit
-Alarm Light Blue Lit
-Alarm Cyan Lit
-Alarm Blue Lit
-Alarm Purple Lit
-Alarm Magenta Lit
-Alarm Pink Lit
-Alarm Brown Lit
-Speaker
-Bell of Consil of WaterSheep
-Reload the configs from Ambience
-Ambience
+声音发生器
+确认
+删除区域
+保存区域
+显示区域
+区域名称:
+名字
+是否即时播放？
+选择声音:
+晚上玩？
+位置
+你必须在选定区域内才能进行创建!
+配置区域以播放声音。
+被红石激活时播放声音
+被红石信号激活时会自动播放音效和闪光灯
+水羊灵魂中的神圣铃铛
+报警器
+白色警报
+红色警报
+橙色警报
+黄色警报
+黄绿色警报
+绿色警报
+淡蓝色警报
+报警器 (青色)
+蓝色警报
+紫色警报
+品红色报警器
+粉色警报
+棕色警报
+报警器启动
+红灯报警器
+点亮的橙色报警器
+报警器 (黄色)
+黄绿色警报
+报警器绿灯亮
+淡蓝色点亮的警报
+报警器青色点亮
+报警器 (蓝灯)
+紫色警报 (已点燃)
+品红色报警器
+粉色警报 (点燃)
+报警器棕色点亮
+扬声器
+水羊之钟
+从环境重新加载配置
+氛围

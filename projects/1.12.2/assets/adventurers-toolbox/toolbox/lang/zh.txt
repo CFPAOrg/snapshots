@@ -1,172 +1,172 @@
-Tool Parts
-Adventurer's Toolbox Tools
-Adventurer's Toolbox Weapons
-Attack Damage
-Attack Speed
-Durability
-Harvest Level
-Mining Speed
-Enchantability
-Head
-Blade
-Crossguard
-Haft
-Handle
-Adornment
-Wooden
-Flint
-Stone
-Iron
-Golden
-Copper
-Tin
-Bronze
-Aluminum
-Nickel
-Lead
-Silver
-Steel
-Electrum
-Soulforged Steel
-Dawnstone
-Constantan
-Ardite
-Cobalt
-Manyullyn
-Thaumium
-Void
-Rock
-Cloth-Padded Handle
-Leather-Padded Handle
-Wooden Handle
-Bone Handle
-Pickaxe Head
-Axe Head
-Shovel Head
-Hoe Head
-Hand Pick Head
-Hammer Head
-Sword Blade
-Crossguard
-Dagger Blade
-Mace Head
-Pickaxe
-Axe
-Shovel
-Hoe
-Hand Pick
-Hammer
-Sword
-Dagger
-Mace
-Schematic
-Toolmakers' Treatise
-Pickaxe Head Cast
-Axe Head Cast
-Shovel Head Cast
-Hoe Head Cast
-Climbing Pick Head Cast
-Hand Pick Head Cast
-Hammer Head Cast
-Sword Blade Cast
-Sword Crossguard Cast
-Dagger Blade Cast
-Mace Head Cast
-Soulforged Steel
-Contents
-General Information
-Materials
-Tools
-Weapons
-Heads
+工具部分
+冒险工具箱 | 工具
+探险者工具箱武器
+攻击伤害
+攻击速度
+耐久
+采掘等级
+挖掘速度
+能否附魔
+头部
+剑刃
+十字柄
+手柄
+手柄
+装饰品
+木制
+燧石
+石
+铁
+金
+铜
+锡
+青铜
+铝
+镍
+铅
+银
+钢
+琥珀金
+熔魂钢
+黎明石
+康铜
+阿迪特
+钴
+玛玉灵
+神秘
+虚空
+石子
+布填充手柄
+皮革软垫手柄
+木手柄
+骨手柄
+Pick头
+斧
+铲头
+锄头
+手动镐头部
+锤头
+剑刃
+十字柄
+匕首剑刃
+战锤头颅
+镐
+斧
+锹
+锄
+手动镐
+锤
+剑
+匕首
+权杖
+Schematic 模组
+工具匠论文
+Pick头铸件
+斧头铸件
+铲头铸件
+锄头铸件
+攀爬镐头颅铸件
+手动镐头颅铸模
+锤头铸件
+剑刃铸模
+十字守护剑铸件
+匕首剑刃铸模
+战锤头颅铸件
+熔魂钢
+目录
+基本信息
+材料
+工具
+武器
+头颅
 Hafts
-Handles
-Adornments
-Contents
-Toolmaking
-The art of toolmaking is highly practicle, and quite simple.|All tools can be made from just a few types of tool parts. There are tool heads, which take many forms, and are specialized for use in a specific tool type. The head of the tool tends to define the tool's basic stats that other parts can then modify. There are also hafts and handles, which can be used to make a variety of different tools, and tend not to have too much of an effect on tool stats. Finally, there are adornments, which are always optional, but can provide noticable benefits to a tool's stats if you decide to add one.|To craft a tool out of the it's requisite parts, simply place all of the parts into a crafting table in any configuration.
-Material Types
-Stone
-Wood
-Iron
-Gold
-Copper
-Tin
-Bronze
-Aluminum
-Nickel
-Lead
-Silver
-Steel
-Electrum
-Soulforged Steel
-Dawnstone
-Constantan
-Flint
-Ardite
-Cobalt
-Manyullyn
-Thaumium
-Void
-Blaze Rod
-End Rod
-Bone
-Wither Bone
-Refined Haft
-Treated Wood
-Withered Bone
-Leather
-Cloth
-Diamond
-Emerald
-Quartz
-Prismarine
-Ender Pearl
-Lapis Lazuli
-Ender Biotite
-Ruby
-Amethyst
-Peridot
-Topaz
-Tanzanite
-Malachite
-Sapphire
-Amber
-Obsidian
-Aquamarine
-Harvest Level
-Durability
-Efficiency
-Attack Damage
-Enchantability
-Harvest Level Bonus
-Durability Modifier
-Efficiency Modifier
-Attack Damage Bonus
-Enchantability Modifier
-*Tools made with blaze rod hafts will start fires when used on a block, much like a flint and steel.
-*When a block is mined with a tool made with an end rod haft, any dropped items will have no gravity.
-*Tools use eight times as much durability when not in the nether.
-*Tools made with prismarine are faster when the user is wet.
-*Tools made with lapis lazuli can be enchanted up to level 50 instead of 30. Additionally, mining blocks or killing mobs with a lapis lazuli adorned tool will sometimes grant extra experience orbs.
-*Tools adorned with ender pearls will be able to mine blocks at a slightly greater distance than normal tools.
-*Tools made with withered bones will inflict opponents with withering when landing a critical strike. The effect will be more potent if the tool is made with multiple withered bones.
-*Tools and weapons made with void metal will slowly repair themselves when damaged and inflict weakness upon struck mobs and players. They also tend to warp the mind of anyone who wields them.
-Pickaxe
-Axe
-Shovel
-Hoe
-Hand Pick
-Hammer
-Pickaxes are used to mine stone and metal-based blocks. A pickaxe is not a great weapon, but can still be used as one in a pinch. They are made with a pickaxe head, a haft, a handle, and optionally an adornment.
-Axes are used to break wood-based blocks. They can also be used as weapons, dealing high damage at low speed, with the added bonus of momentarily disabling the target's shield. Axes are made with an axe head, a haft, a handle, and optionally an adornment.
-Shovels are used to break looser ground-based blocks, like dirt, sand, and gravel. They can also be used to turn grass into grass paths. A shovel doesn't make for a great weapon, but is still far preferable to using your fists. Shovels are made with a shovel head, a haft, a handle, and optionally an adornment.
-Hoes are used to till soil into farmland. They do very little attack damage, but have an attack speed that scales with the quality of their materials. This means that a wooden hoe will be very slow, but an iron hoe adorned with a diamond will be quite fast. Even a diamond-adorned iron hoe will only be as good as your fists, however, because all hoes deal just as much damage as your bare hand, and even that hoe's high speed won't be any faster than your fist. Hoes are made with a hoe head, a haft, a handle, and optionally an adornment.
-Hand picks can mine all the same blocks as a pickaxe, but they are slower and less durable than normal pickaxes. They also can't reach blocks quite as far away as a normal pickaxe can. Due to their small size, however, you can be much more precise when mining ores, meaning that hand picks effectively have a Fortune I enchantment built in. This bonus stacks with the Fortune enchantment. As weapons, hand picks are faster than pickaxes, but less damaging. Hand picks are made with a hand pick head, a haft, a handle, and optionally an adornment.
-Hammers can mine all the same blocks as a pickaxe, but they are slower, and they break up to nine blocks at a single time. When mining a block with a hammer, all surrounding blocks of the same type will also be mined. Sneaking disables this ability. As weapons, hammers deal incredible damage at a very low speed. Using one on a block will create a small blast that doesn't damage blocks, but does damage and knock back nearby mobs. This ability deals large amounts of damage to the hammer itself, and also has a cooldown. Hammers are made with a hammer head, a haft, a handle, and optionally an adornment.
-Sword
-Dagger
-Mace
-Swords are the most basic weapon available. They have average attack speed, decent damage, and can perform a sweep attack if you're moving slowly. They are made with a sword blade, a crossguard, a handle, and optionally an adornment.
-Daggers are fast weapons that deal low damage. Their short length means you have to get very close to your target if you want to attack. Their range is half that of a sword. Daggers are made with a dagger blade, a handle, and optionally an adornment.
-Maces are blunt weapons that are slightly slower than swords, but do slightly more damage. They cannot perform sweep attacks, but critical strikes will briefly stun the opponent and all attacks have a chance to do extra damage to the target's armor. Maces are made with a mace head, a haft, a handle, and optionally an adornment.
+手柄
+装饰品
+目录
+制作工具
+工具制作的艺术是高度实用和简单。| 所有的工具可以用一些工具部件制作。有多种形式的工具头，专门用于特定的工具类型。工具的头部倾向于定义工具的基本统计数据，然后其他部件可以修改这些数据。也有手柄和手柄，可以用来制作各种不同的工具，对工具的状态没有太大的影响。最后，还有一些装饰品，它们总是可选的，但是如果你决定添加一个，可以为工具的统计数据提供引人注目的好处。 | 如果需要将工具必备的部件合成成工作台，只需将工具的任意方块放置在工作台上即可。
+材料类型
+石
+木头
+铁
+金
+铜
+锡
+青铜
+铝
+镍
+铅
+银
+钢
+琥珀金
+熔魂钢
+黎明石
+康铜
+燧石
+阿迪特
+钴
+玛玉灵
+神秘
+虚空
+烈焰杆
+末地烛手柄
+骨头
+凋零之骨
+熔魂钢
+防腐木
+凋零骨头
+皮革
+布
+钻石
+绿宝石
+石英
+海晶石
+末影珍珠
+青金石
+末地云母
+红宝石
+紫水晶
+橄榄石
+黄玉
+Tanz石
+孔雀石
+蓝宝石
+琥珀
+黑曜石
+海蓝宝石
+采掘等级
+耐久
+效率
+攻击伤害
+能否附魔
+收获等级加成
+耐久强化部件
+效率强化部件
+攻击伤害加成
+附魔能力强化部件
+* 使用烈焰棒制作的工具在方块上使用会着火，很像打火石和钢制工具。
+* 当用末地烛手柄制作的工具挖掘方块时，任何掉落的物品都不会有重力。
+* 当不在下界时，工具使用的耐久是普通工具的八倍。
+* 使用海晶石制作的工具在使用者沾水时会提升使用速度。
+* 由青金石制作的工具最高可以附魔 50 级而不是 30 级。此外，挖掘方块或使用青金石装饰工具杀死生物有时会获得额外的经验球。
+* 饰以末影珍珠的工具将能够比普通工具挖掘方块的距离稍大。
+* 使用凋零骨头制作的工具将给予对手致命一击的凋零效果。如果该工具使用多个凋零骨头制作，其效果将更加强大。
+* 由虚空金属制成的工具和武器会在受伤时缓慢修复，并对被攻击的生物和玩家造成虚弱。它们也倾向于扭曲任何使用它们的人的思维。
+镐
+斧
+锹
+锄
+手动镐
+锤
+镐用于挖掘石头和金属基方块。镐不是好武器，但在紧要关头它依然是好武器。它们由 pick头，手柄，装饰品制成。
+斧用于破坏木制基础的方块。它们也可以用作武器，在低速时造成很高的伤害，额外的伤害会瞬间摧毁目标的盾牌。斧由斧头，手柄，装饰品制成。
+铲子是用来破坏比较松的基础方块，比如泥土、沙子和沙砾。它们也可以用来将草变成草径。锹不是一种很好的武器，但仍然比使用拳头要好。铲子由铲头，手柄，装饰品制成。
+锄头用来把土壤变成耕地。它们的攻击伤害很小，但攻击速度取决于材料的质量。这意味着木锄的速度非常慢，但是饰以钻石的铁锄的速度则非常快。钻石强化的铁锄也只能和你的拳头一样好，因为锄头的伤害和空手一样大, 甚至锄头的高速也不会比你的拳头快。锄头可以由锄头，锄头，手柄和装饰品制成。
+手镐可以挖掘与镐相同的所有方块，但比普通镐更慢且不太耐用。他们也够不到普通镐那样远的方块。然而，由于它们的尺寸较小，你可以在挖掘矿石时更加精确，这意味着手镐实际上内置了财富 I 附魔。此奖励堆叠了时运附魔。作为武器，手镐比镐快，但伤害更小。手动镐由手动镐头，手柄，装饰品制作。
+锤可以挖掘所有与镐相同的方块，但速度较慢，并且可以一次粉碎 9 个方块。当用锤子挖掘一个方块时，周围同类的方块也会被挖掘。潜行禁用此能力。作为武器，锤子以非常低的速度造成难以置信的伤害。在一个方块上使用一个，将会产生一个小型的爆炸不会破坏方块，但是会伤害并击退附近的生物该能力对锤子本身造成大量伤害，同时冷却。锤由一个锤头，一个手柄，以及可选的强化部件组成
+剑
+匕首
+权杖
+剑是最基础的武器。他们有平均攻击速度和不错的伤害，并可以执行横扫攻击，如果你缓慢移动。它们由剑刃，十字护手，手柄和可选的装饰品制成。
+匕首是低伤害的快速武器。它们的短长度意味着如果你想攻击，你必须离目标非常近。它们的射程是剑的一半。匕首由匕首剑刃、手柄和装饰物制作而成。
+Maces 是比剑攻击速度稍慢的钝武器，但伤害稍高。他们不能进行横扫攻击，但是暴击会使对方眩晕，所有攻击有几率对目标护甲造成额外伤害。Maces 由权杖头，手柄，手柄和可选的装饰品制成。

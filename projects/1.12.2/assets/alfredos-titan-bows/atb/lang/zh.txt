@@ -1,30 +1,30 @@
-Ash Titan Arrow
-Ash Titan Bow
-Darkness Titan Arrow
-Darkness Titan Bow
-Displacing Titan Arrow
-Displacing Titan Bow
-Energy Titan Arrow
-Energy Titan Bow
-Explosive Titan Arrow
-Explosive Titan Bow
-Implosion Titan Arrow
-Implosion Titan Bow
-Incendiary Titan Arrow
-Incendiary Titan Bow
-Light Titan Arrow
-Light Titan Bow
-Poison Titan Arrow
-Poison Titan Bow
-Silk Titan Arrow
-Silk Titan Bow
-Void Titan Arrow
-Void Titan Bow
-Water Titan Arrow
-Water Titan Bow
-Ash
-Small Present
-Medium Present
-Large Present
-PresentFactory
-Alfredo's Titan Bows
+灰烬土卫六箭
+灰烬泰坦弓
+黑暗泰坦之箭
+黑暗泰坦弓
+取代泰坦之箭
+替换土卫六弓
+能量泰坦之箭
+能量土卫六弓
+爆炸泰坦之箭
+爆炸泰坦弓
+聚爆泰坦箭
+聚爆泰坦弓
+燃烧弹箭
+燃烧泰坦弓
+淡灰泰坦之箭
+轻型泰坦弓
+毒泰坦之箭
+毒泰坦弓
+丝绸泰坦箭
+丝绸泰坦弓
+虚空泰坦箭
+虚空泰坦弓
+水泰坦之箭
+水泰坦弓
+灰烬
+小礼物
+中礼物
+大型礼物
+礼物工厂
+阿尔弗雷多的土卫六弓

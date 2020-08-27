@@ -1,11 +1,11 @@
-/research <term>
---- --- Searching for research --- ---
-Found matching %s, keys: %s%s%s.
-Found matching %s%s.
-. Stages completed: %s
-. Advancements completed: %s
-No results found for Thaumcraft research using term [%s].
-Found custom research with key %s, requiring research: %s.
-%d/%d research advancements are loaded.
-/alembic count |
-Alembic events are currently disabled: none loaded.
+/Research <学期>
+--- --- 搜索研究 ---
+找到匹配的 % s，关键字: % s。
+找到匹配的 % s。
+。阶段完成次数: % s
+。进度完成: % s
+未找到使用条件 [% s] 的神秘时代研究结果。
+找到具有关键字 % s 的自定义研究，需要研究: % s。
+加载了 % d/% d 的研究进度。
+/Alembic count |
+Alembic 事件当前已禁用: 未加载。

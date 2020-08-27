@@ -1,18 +1,18 @@
-Ageing Mobs Config
-Purpur Block Monster Egg
-Purpur Pillar Egg
-Purpur Double Slab Monster Egg
-Regular Ageing
-Boss Ageing
-Magic Based Ageing
-Block Based Ageing
-Biome Based Ageing
-Biome Type Based Ageing
-Dimension Based Ageing
-Light Level Based Ageing
-Moon Based Ageing
-Time Based Ageing
-Weather Based Ageing
-Liquid Based Ageing
-Height Based Ageing
-Nearby Entity Based Ageing
+衰老生物配置
+紫珀块怪物蛋
+竖纹紫珀蛋
+紫珀双层台阶怪物蛋
+定期衰老
+Boss 衰老
+魔法般的衰老
+基于方块的老化
+基于生物群系的衰老
+基于生物群系种类的衰老
+基于衰老维度
+基于老化的亮度等级
+月球老化
+基于时间的衰老
+基于天气的衰老
+基于液体的老化
+基于衰老高度
+基于衰老的附近实体

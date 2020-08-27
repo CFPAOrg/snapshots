@@ -1,10 +1,10 @@
-Alarm Clock
- Sunrise
- Sunset
- Noon
- Midnight
- Some point outside of normal Space-Time
-Sleeping until
-Alarm set to
-This isn't your bed!
-Alarm Clock is not allowed by this server.
+闹钟
+日出
+日落
+正午
+午夜
+在正常时空外的某一点
+睡觉直至
+警报设置为
+这不是你的床!
+本服务器不允许使用闹钟。

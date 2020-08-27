@@ -1,71 +1,71 @@
-Platinum Ore
-Long Zombie Alien
-Platinum Ingot
-Block Of Platinum
-Alien Flower
-Alien Crate
-Ufo
-Alien Planet Portal Igniter
-Long Green Civil Alien
-Long Green Alien Classic
-Block Of Platinum
-Long Green Alien Guard Spawn Egg
-Platinum Plate
-HoloBlock
-The Wow Signal
-Ufo
-Alien Planet Portal Igniter
-Ancient Alien Text
-Iron Rod
-Tiny Green Alien
-Long Zombie Alien
-Alien Sword
-Iron Rod
-Space Sword
-UfoNoAI Spawn Egg
-Long Green Alien Guard
-Platinum Floor
-Alien Craft
-Alien Leaves
-Platinum Ore
-The Wow Signal
-Planet Selector
-Platinum Plate
-Lightning Sword
-Long Green Alien Classic Spawn Egg
-Platinum Ingot
-Tube
+铂矿石
+长僵尸外星人
+铂锭
+铂块
+外星花
+外星人货箱
+不明飞行物
+外星星球传送门打火石
+绿色异形玩偶
+长款绿色外星人经典专辑
+铂块
+长条绿色外星人守卫刷怪蛋
+铂板
+全息方块
+哇信号
+不明飞行物
+外星星球传送门打火石
+远古文字
+铁杆
+微型绿色外星人
+长僵尸外星人
+外星人之剑
+铁杆
+太空剑
+UfoNoAI 刷怪蛋
+绿色外星人长护手
+铂地板
+外星生物合成
+外星树叶
+铂矿石
+哇信号
+星球选择器
+铂板
+闪电剑
+长长的绿色外星人经典刷怪蛋
+铂锭
+管道
 UfoNoAI
-Long Green Alien Guard
-Alien Flower
-Platinum Floor
-Tube
-Alien Forest
-Asteroid Block
-Alien Sword
-Dark Matter
-Long Green Civil Alien Spawn Egg
-Long Zombie Alien Spawn Egg
-Space Sword
-Tiny Green Alien
-Ufo Spawn Egg
-HoloBlock
-Lightning Sword
-UFO
-Long Green Alien Classic
-Ufo
-Tiny Green Alien Spawn Egg
-Asteroid Block
-Platinum Floor Stairs
-Long Green Civil Alien
-Ufo
-Long Green Civil Alien
-Ancient Alien Text
-Planet Selector
+绿色外星人长护手
+外星花
+铂地板
+管道
+外星森林
+小行星方块
+外星人之剑
+暗物质
+长的绿色民用外星人刷怪蛋
+长僵尸外星人刷怪蛋
+太空剑
+微型绿色外星人
+不明飞行物刷怪蛋
+全息方块
+闪电剑
+不明飞行物
+长款绿色外星人经典专辑
+不明飞行物
+微型绿色外星人刷怪蛋
+小行星方块
+铂楼梯
+绿色异形玩偶
+不明飞行物
+绿色异形玩偶
+远古文字
+星球选择器
 UfoNoAI
-Dark Matter
-Ufo Spawn Egg
-Alien Crate
-Alien Leaves
-UFO
-Platinum Floor Stairs
+暗物质
+不明飞行物刷怪蛋
+外星人货箱
+外星树叶
+不明飞行物
+铂楼梯

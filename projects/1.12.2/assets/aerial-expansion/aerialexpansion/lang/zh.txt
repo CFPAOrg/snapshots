@@ -1,62 +1,62 @@
-载人机动单元 (基本)
-载人机动单元 (硬质)
-强化载人机动单元
-载人机动单元 (信素)
-载人机动单元 (谐振)
-手持控制器
-装备框架
-基础推进器组件
-硬化推进器升级
-强化推进器升级
-信素推进器升级
-谐振推进器升级
-抽空凯旋线圈
-火箭护腿 (基础)
-火箭护腿 (硬化)
-火箭护腿 (强化)
-火箭护腿 (信素金属)
-火箭护腿 (谐振)
-稳定空气
-飞行装置
-激活能量提升
-启用/禁用
-控制飞行装置
-是的，你实际上必须拿着它。
-按住 % s 以推进。
-MMU 关闭
-MMU 开启
-按下 (% s) 以改变 MMU 模式
-启用飞行能力
-使用空气作为燃料
-消除掉落伤害 (% s)
-燃料:
-轻机枪
-启用 “飞行” 功能
-使用精制燃油
-标准大气推进器
-复苏发射仓
-附加通量场稳定器
-改进的排放控制系统
-强化飞行控制机制
-适用于更高级装备的基础框架
-放在玻璃容器里
-空气膨胀
-铝
-青铜
-康铜
-铜
-琥珀金
-末影
-金
-殷钢
-铱
-铁
-铅
-流明
-魔力灌注
-镍
-铂
-信素金属
-银
-钢
-锡
+Manned Maneuvering Unit (Basic)
+Manned Maneuvering Unit (Hardened)
+Manned Maneuvering Unit (Reinforced)
+Manned Maneuvering Unit (Signalum)
+Manned Maneuvering Unit (Resonant)
+Handheld Controller
+Equipment Frame
+Basic Thruster Component
+Hardened Thruster Augment
+Reinforced Thruster Augment
+Signalum Thruster Augment
+Resonant Thruster Augment
+Evacuated Conductane Coil
+Rocket Pants (Basic)
+Rocket Pants (Hardened)
+Rocket Pants (Reinforced)
+Rocket Pants (Signalum)
+Rocket Pants (Resonant)
+Stabilised Aerotheum
+Flying Apparatus
+Activate boost
+Enable/disable
+Controls flying devices
+Yes, you actually have to hold it.
+Hold (%s) to boost.
+MMU off
+MMU on
+Press (%s) to change MMU mode
+Enables flying capabilities
+Uses Aerotheum as fuel
+Negates fall damage (%s)
+Fuel:
+FlightPants🅪
+Enables "flying" capabilities
+Uses Refined Fuel
+Standard Aerotheum propulsion
+Reinfroced emission chamber
+Additional flux field stabilizers
+Improved Emission Control System
+Enhanced flight control mechanism
+Basic framing for more advanced equipment
+Coil in a glass container
+Aerial Expansion
+Aluminum
+Bronze
+Constantan
+Copper
+Electrum
+Enderium
+Gold
+Invar
+Iridium
+Iron
+Lead
+Lumium
+Mana Infused
+Nickel
+Platinum
+Signalum
+Silver
+Steel
+Tin

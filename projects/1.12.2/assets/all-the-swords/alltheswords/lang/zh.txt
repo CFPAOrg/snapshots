@@ -1,34 +1,34 @@
-Electrum Ingot
-Rotten Flesh Sword
-SuperchargedAcid
-Electrum Ore
-Electrum Leggings
-Ultimate Sword
-Slime Sword
-Carrot Sword
-Plasma Sword
-Battery
-All The Swords
-Shuriken
-Electrum Body
-Emerald Sword
-CunductiveIron
-Sword Merchant
-Suicide Sword
-ShurikenThrower
-Ultimanium Ingot
-Smoke Bomb
-Void Chest
-Dirt Sword
-Double Diamond Sword
-Cactus Sword
-Electrum Coal
-Electrum Boots
-Electrum Helmet
-Metor Sword
-Ultimanium Ore
-Ultimanium Dust
-The Ultimate Pickaxe
-Disguised Wooden Sword
-Tnt Sword
-Bow Sword
+琥珀金锭
+腐肉剑
+增压酸
+琥珀金矿石
+琥珀金护腿
+终极之剑
+史莱姆剑
+胡萝卜剑
+等离子剑
+电池
+所有的剑
+回旋镖
+琥珀金体
+绿宝石剑
+鹰嘴豆铁
+剑之商人
+自杀剑
+回旋镖
+超锂合金锭
+烟雾弹
+虚空箱子
+泥土剑
+双层钻石剑
+仙人掌剑
+琥珀金煤
+琥珀金靴子
+琥珀金头盔
+金属龙剑
+铀矿石
+哈氏合金粉
+终极镐
+伪装木剑
+Tnt 剑
+弓剑

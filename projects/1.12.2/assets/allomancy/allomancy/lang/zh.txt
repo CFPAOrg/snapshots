@@ -1,34 +1,34 @@
-Allomancy
-Tin Ore
-Lead Ore
-Copper Ore
-Zinc Ore
-Iron Lever
-This lever seems to heavy to move by ordinary means
-Hand Grinder
-Lerasium Nugget
-This item is endowed with strange powers, perhaps you should ingest it?
-Mistcloak
-Coin Bag
-Allomancy
-Burn Metals
-/allomancy <power level> [player]
-Setting %s to %s
-Allomantic Vial
-Brass Flakes
-Bronze Flakes
-Iron Flakes
-Steel Flakes
-Pewter Flakes
-Copper Flakes
-Tin Flakes
-Zinc Flakes
-Lead Flakes
-Zinc Ingot
-Lead Ingot
-Tin Ingot
-Copper Ingot
-Brass Ingot
-Bronze Ingot
-Become Mistborn!
-You have a power most people envy...
+异域锭
+锡矿石
+铅矿石
+铜矿石
+锌矿石
+铁拉杆
+这个拉杆看起来很重，一般情况下很难移动
+手摇研磨机
+铯粒
+这个物品被赋予了奇怪的力量，也许你应该吸入它？
+调质斗篷
+硬币袋
+异域锭
+燃烧金属
+/Allomancy <能量等级> [玩家]
+正在设置 % s 为 % s
+异端瓶
+黄铜片
+青铜片
+铁片
+钢片
+白 ter 片
+铜片
+锡片
+锌片
+铅片
+锌锭
+铅锭
+锡锭
+铜锭
+黄铜锭
+青铜锭
+变成 Mistborn!
+你有一种最让人嫉妒的力量...

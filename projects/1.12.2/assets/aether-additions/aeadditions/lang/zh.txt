@@ -1,50 +1,50 @@
 Bruh
-Cornstarch Bowl
-Skyroot Bowl
-Icestone Bowl
-Holystone Stick
-Holystone Pebble
-Quicksoil Dust
-Blood Moss Holystone
-Holystone Headstone
-Holystone Keystone
-Holystone Highlight
-Holystone Capstone Pillar
-Holystone Pillar
-Holystone Brick Base
-Holystone Headstone Base
-Holystone Flagstone
-Holystone Capstone Bricks
-Holystone Bookshelf
-Holystone Base Pillar
-Candy Cane Block
-Observing Glass
-Framed Holystone Glass
-Framed Quicksoil Glass
-Framed Skyroot Glass
-Polished Quicksoil Glass
-Framed Holystone Quicksoil Glass
-Gilded Cookie
-Icestone Poprocks
-Cocoatrice
-Wrapped Chocolates
-Wyndberry
-Rainbow Strawberry
-Candy Corn
-Icestone Poprock Stew
-Blue Swet Jelly
-Golden  Swet Jelly
-Dark Swet Jelly
-Blue Gummy Swet
-Golden Gummy Swet
-Dark Gummy Swet
-Green Swet Jelly
-Green Gummy Swet
-Jelly Pumpkin
-Fake Orange
-Pink Baby Swet
-Blueberry Lollipop
-Orange Lollipop
+玉米淀粉碗
+天根木碗
+冰石碗
+圣石棍
+圣石石子
+速沙粉
+血苔圣石
+圣石墓碑
+圣石拱顶石
+圣石高亮
+圣石拱顶石柱
+圣石柱
+圣石砖底座
+圣石墓碑基座
+圣石石板
+圣石拱顶石砖
+圣石书架
+圣石基柱
+拐cane 糖
+观测玻璃
+镶框圣石玻璃
+镶框速沙玻璃
+镶框天根玻璃
+磨制速沙玻璃
+镶框圣石速沙玻璃
+镀金曲奇
+冰石龙葵
+椰子木
+包装巧克力
+云莓
+彩虹草莓
+糖玉米
+冰石炖汤
+蓝色史维特果酱
+史维特果冻
+史维特果酱
+天蓝史维特果冻
+金黄史维特果冻
+暗色史维特果冻
+史维特果冻
+绿色史维特果冻
+果酱南瓜
+假橙色
+粉色小史维特
+蓝莓棒棒糖
+橙色棒棒糖
 Stomper Pop
-Enchanted Orange
-Aether Additions
+附魔橙子
+天境元素

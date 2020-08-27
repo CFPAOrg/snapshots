@@ -1,33 +1,33 @@
-Albedo Torches
-White Torch
-Orange Torch
-Magenta Torch
-Light Blue Torch
-Yellow Torch
-Lime Torch
-Pink Torch
-Gray Torch
-Silver Torch
-Cyan Torch
-Purple Torch
-Blue Torch
-Brown Torch
-Green Torch
-Red Torch
-Black Torch
-White Lamp
-Orange Lamp
-Magenta Lamp
-Light Blue Lamp
-Yellow Lamp
-Lime Lamp
-Pink Lamp
-Gray Lamp
-Silver Lamp
-Cyan Lamp
-Purple Lamp
-Blue Lamp
-Brown Lamp
-Green Lamp
-Red Lamp
-Black Lamp
+反射火把
+白色火把
+橙色火把
+品红色火把
+淡蓝色火把
+黄色火把
+黄绿色火把
+粉色火把
+灰色火把
+银火把
+青色火把
+紫色火把
+蓝色火把
+棕色火把
+绿色火把
+红色火把
+黑色火把
+白色灯光
+橙色灯光
+品红色灯光
+淡蓝色灯
+黄色灯
+黄绿色灯光
+粉色灯光
+灰色灯光
+银灯
+青色灯光
+紫色灯光
+蓝色灯
+棕色灯光
+绿色灯光
+红色灯光
+黑色灯光

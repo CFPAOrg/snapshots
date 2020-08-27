@@ -1,275 +1,275 @@
 AFAOE
-AFAOE Decoration
-AmazingFoodStuffs Config
-God Fame
-Fame Minion
-Cheddar
-Flour
-Dough
-Wheat Dough
-Provolone
-Muenster
-Mozzarella
-Curd
-Cheese Sugar
-Wheat Bun
-White Bun
-White Roll
-Tortilla
-Lettuce
-Onion
-Tomato
-Jalapeño
-Shelled Sunflower Seed
-Sunflower Seed
-Mint Seeds
-Cherry Seed
-Red Pepper Seed
-Yellow Pepper Seed
-Green Pepper Seed
-Greenbean Seed
-Blueberry Seed
-Endive Seed
-Eggplant Seed
-Strawberry Seed
-Celery Seed
-Mint Sprig
-Mint Leaf
-Sliced Onion
-Sliced Tomato
-Sliced Jalapeño
-Cherry
-Blueberry
-Green Pepper
-Red Pepper
-Yellow Pepper
-Greenbean
-Celery
-Strawberry
-Maraschino Cherry
-Eggplant
-Endive
-Salt
-Baking Soda
-Tomato Sauce
-Sour Cream
-Onion Seed
-Tomato Seed
-Jalapeño Seed
-Lettuce Seed
-Pasta Dough
-Noodles
-Gelatin Powder
-Tofu
-Raw Tenderized Beef
-Cooked Tenderized Beef
-Sliced Beef
-Cubed Beef
-Raw Tenderized Chicken
-Cooked Tenderized Chicken
-Sliced Chicken
-Cubed Chicken
-Meat Balls
-Pastrami
-Pepperoni
-Sliced Pepperoni
-Beef, Cheddar, Lettuce & Tomato on Wheat
-Beef, Cheddar, Lettuce & Tomato on White
-Beef, Cheddar & Lettuce on Wheat
-Beef, Cheddar & Lettuce on White
-Beef, Cheddar & Tomato on Wheat
-Beef, Cheddar & Tomato on White
-Beef & Cheddar on Wheat
-Beef & Cheddar on White
-Beef, Lettuce & Tomato on Wheat
-Beef, Lettuce & Tomato on White
-Beef & Lettuce on Wheat
-Beef & Lettuce on White
-Beef, Mozzarella, Lettuce & Tomato on Wheat
-Beef, Mozzarella, Lettuce & Tomato on White
-Beef, Mozzarella & Lettuce on Wheat
-Beef, Mozzarella & Lettuce on White
-Beef, Mozzarella & Tomato on Wheat
-Beef, Mozzarella & Tomato on White
-Beef & Mozzarella on Wheat
-Beef & Mozzarella on White
-Beef, Muenster, Lettuce & Tomato on Wheat
-Beef, Muenster, Lettuce & Tomato on White
-Beef, Muenster & Lettuce on Wheat
-Beef, Muenster & Lettuce on White
-Beef, Muenster & Tomato on Wheat
-Beef, Muenster & Tomato on White
-Beef & Muenster on Wheat
-Beef & Muenster on White
-Beef, Provolone, Lettuce & Tomato on Wheat
-Beef, Provolone, Lettuce & Tomato on White
-Beef, Provolone & Lettuce on Wheat
-Beef, Provolone & Lettuce on White
-Beef, Provolone & Tomato on Wheat
-Beef, Provolone & Tomato on White
-Beef & Provolone on Wheat
-Beef & Provolone on White
-Beef Roll on White
-Beef & Tomato on Wheat
-Beef & Tomato on White
-Beef on Wheat
-Beef on White
-Chicken, Cheddar, Lettuce & Tomato on Wheat
-Chicken, Cheddar, Lettuce & Tomato on White
-Chicken, Cheddar & Lettuce on Wheat
-Chicken, Cheddar & Lettuce on White
-Chicken, Cheddar & Tomato on Wheat
-Chicken, Cheddar & Tomato on White
-Chicken & Cheddar on Wheat
-Chicken & Cheddar on White
-Chicken, Lettuce & Tomato on Wheat
-Chicken, Lettuce & Tomato on White
-Chicken, Mozzarella, Lettuce & Tomato on Wheat
-Chicken, Mozzarella, Lettuce & Tomato on White
-Chicken, Mozzarella & Lettuce on Wheat
-Chicken, Mozzarella & Lettuce on White
-Chicken, Mozzarella & Tomato on Wheat
-Chicken, Mozzarella & Tomato on White
-Chicken & Mozzarella on Wheat
-Chicken & Mozzarella on White
-Chicken, Muenster, Lettuce & Tomato on Wheat
-Chicken, Muenster, Lettuce & Tomato on White
-Chicken, Muenster & Lettuce on Wheat
-Chicken, Muenster & Lettuce on White
-Chicken, Muenster & Tomato on Wheat
-Chicken, Muenster & Tomato on White
-Chicken & Muenster on Wheat
-Chicken & Muenster on White
-Chicken, Provolone, Lettuce & Tomato on Wheat
-Chicken, Provolone, Lettuce & Tomato on White
-Chicken, Provolone & Lettuce on Wheat
-Chicken, Provolone & Lettuce on White
-Chicken, Provolone & Tomato on Wheat
-Chicken, Provolone & Tomato on White
-Chicken & Provolone on Wheat
-Chicken & Provolone on White
-Chicken Roll on White
-Chicken on Wheat
-Chicken on White
-Uncooked Crust
-Empty Crust
-Provolone, Pepperoni & Onion Pizza
-Provolone & Onion Pizza
-Provolone & Pepperoni Pizza
-Provolone Pizza
-Provolone Slice
-Provolone & Pepperoni Slice
-Provolone & Onion Slice
-Provolone, Pepperoni & Onion Slice
-Muenster, Pepperoni & Onion Pizza
-Muenster & Onion Pizza
-Muenster & Pepperoni Pizza
-Muenster Pizza
-Muenster Slice
-Muenster & Pepperoni Slice
-Muenster & Onion Slice
-Muenster, Pepperoni & Onion Slice
-Cheddar, Pepperoni & Onion Pizza
-Cheddar & Onion Pizza
-Cheddar & Pepperoni Pizza
-Cheddar Pizza
-Cheddar Slice
-Cheddar & Pepperoni Slice
-Cheddar & Onion Slice
-Cheddar, Pepperoni & Onion Slice
-Mozzarella, Pepperoni & Onion Pizza
-Mozzarella & Onion Pizza
-Mozzarella & Pepperoni Pizza
-Mozzarella Pizza
-Mozzarella Slice
-Mozzarella & Pepperoni Slice
-Mozzarella & Onion Slice
-Mozzarella, Pepperoni & Onion Slice
-Empty Taco Shell
-Beef Taco
-Beef & Tomato Taco
-Beef & Sour Cream Taco
-Beef, Tomato & Sour Cream Taco
-Chicken Taco
-Chicken & Tomato Taco
-Chicken & Sour Cream Taco
-Chicken, Tomato & Sour Cream Taco
-Tofu Taco
-Chicken Noodle Soup
-Onion Soup
-Tomato Soup
-Vegetable Soup
-Pot O' Chicken Noodle
-Pot O' Onion
-Pot O' Veggie
-Pot O' Tomato
-Hot Pot O' Chicken Noodle
-Hot Pot O' Onion
-Hot Pot O' Veggie
-Hot Pot O' Tomato
-Hardened Iron Ingot
-Condensed Beef
-Double Condensed Beef
-Triple Condensed Beef
-Condensed Chicken
-Double Condensed Chicken
-Triple Condensed Chicken
-Fame Shard
-Fame Crystal
-Perfect Potion
-Empty Oil Flask
-Oil Flask
-Crushed Bone
-Less Rotten Flesh
-Boiling Milk
-Glue
-Cut Stick
-Legs
-Meat Baller
-Pot
-Pan
-Heated Pan
-Hot Oiled Pan
-Meat Knife
-Vegetable Knife
-Tenderizer
-Pizza Roller
-Pizza Cutter
-Grinder Gear
-Manual Crusher
-Pestle
-Mortar
-Mortar & Pestle
-Empty Sack
-Milk Sack
-Fame Sword
-God Fame Key
-Fame Minion Key
-Untested Key
-Key Shard
-§c§kCrafting Part
-Empty Jar
-Sugar Water Jar
-Cheddar Block
-Muenster Block
-Mozzarella Block
-Provolone Block
-Molten Cheddar Block
-Molten Mozzarella Block
-Molten Provolone Block
-Molten Muenster Block
-Hardened Iron Block
-Salt Ore
-Baking Soda Ore
-Grinder
-Onion Plant
-Tomato Plant
-Lettuce Plant
-Jalapeño Plant
-Sunflower Plant
-Cutting Board
-Wall Phone
-Coffee Maker
-This is an %1$simportant%2$s word, and here is %1$sanother%2$s.
-Grinder
-Tantum Initium
+AFAOE 装饰
+Amazing食品配置
+神名
+名人仆从
+切达干酪
+面粉
+面团
+小麦面团
+波罗伏洛干酪
+蘑菇人
+马苏里拉奶酪
+凝乳
+奶酪糖
+小麦圆面包
+白色小圆面包
+白色卷筒
+玉米粉薄烙饼
+生菜
+洋葱
+番茄
+墨西哥辣椒
+去壳向日葵种子
+向日葵种子
+薄荷种子
+樱桃种子
+红胡椒种子
+黄胡椒种子
+青椒种子
+绿色豆子种子
+蓝莓种子
+末地种子
+茄子种子
+草莓种子
+芹菜种子
+薄荷枝
+薄荷叶
+切片洋葱
+番茄片
+切片墨西哥辣椒
+樱桃
+蓝莓
+青椒
+红辣椒
+黄胡椒
+绿色豆子
+芹菜
+草莓
+Maraschino 樱桃
+茄子
+末地菊
+盐
+小苏打
+番茄酱
+酸奶油
+洋葱种子
+番茄种子
+墨西哥辣椒种子
+生菜种子
+面团
+面条
+明胶粉尘
+豆腐
+生嫩牛肉
+熟嫩牛肉
+切片牛肉
+立方牛肉
+生嫩味鸡
+熟鸡肉
+切片鸡
+立方鸡
+肉丸
+熏牛肉
+意大利香肠
+切片意大利香肠
+牛肉、切达干酪、小麦生菜和番茄
+牛肉、切达干酪、生菜和番茄 (加白)
+小麦牛肉、切达干酪和生菜
+白色牛肉、切达干酪和生菜
+小麦配牛肉、切达干酪和番茄
+白色牛肉、切达干酪和番茄
+小麦牛肉切达干酪
+白酱牛肉切达干酪
+小麦配牛肉、生菜和番茄
+白色牛肉、生菜和番茄
+小麦牛肉生菜
+白色生菜牛肉
+牛肉、意大利干酪、小麦生菜和番茄
+牛肉、马苏里拉奶酪、生菜和番茄配白色三明治
+牛肉、马苏里拉奶酪和小麦生菜
+牛肉马苏里拉奶酪生菜白酱
+小麦牛肉、马苏里拉奶酪和番茄
+牛肉、马苏里拉奶酪和白色番茄
+小麦牛肉马苏里拉奶酪
+白酱牛肉马苏里拉奶酪
+小麦配牛肉、门斯特菜、生菜和番茄
+白色牛肉、门斯特牛排、生菜和番茄
+小麦炖牛肉、门斯特牛排和生菜
+白色牛肉、门斯特牛排和生菜
+小麦配牛肉、门斯特干酪和番茄
+加装白色的牛肉、门斯特牛排和番茄
+小麦炖牛肉
+加装什锦牛排
+小麦配牛肉、波萝伏洛干酪、生菜和番茄
+白色牛肉、波萝伏洛干酪、生菜和番茄
+小麦牛肉波萝伏洛干酪和生菜
+白色牛肉波罗伏洛干酪生菜
+小麦牛肉、波萝伏洛干酪和番茄
+白色牛肉、波萝伏洛干酪和番茄
+小麦牛肉波罗伏洛干酪
+白色波萝伏洛干酪牛肉
+加装白色牛肉卷
+小麦牛肉番茄
+加装白色牛肉和番茄
+小麦牛肉
+白色牛肉
+鸡肉、切达干酪、小麦生菜和番茄
+鸡肉、切达干酪、生菜和番茄 (加白)
+鸡肉、切达干酪和小麦生菜
+鸡肉、切达干酪和生菜配白酱
+小麦鸡肉、切达干酪和番茄
+鸡肉、切达干酪和番茄 (加白)
+小麦切达奶酪鸡
+白酱鸡肉切达干酪
+鸡肉、生菜和番茄配小麦面包
+鸡肉、生菜和番茄配菜
+鸡肉、意大利干酪、小麦生菜和番茄
+鸡肉、马苏里拉奶酪、生菜和番茄配菜
+鸡肉、马苏里拉奶酪和小麦生菜
+鸡肉马苏里拉奶酪生菜白酱
+小麦鸡肉、马苏里拉奶酪和番茄
+鸡肉、马苏里拉奶酪和番茄配白色三明治
+小麦芝士鸡扒
+白芝士鸡扒
+鸡肉、门斯特面包、小麦生菜和番茄
+鸡肉、门斯特面包、生菜和番茄 (加白)
+小麦炖鸡、门斯特面包和生菜
+鸡肉、门斯特冰淇淋和生菜
+小麦配鸡肉、门斯特面包和番茄
+鸡肉、门斯特冰淇淋和番茄
+小麦炖鸡与门斯特饼干
+加装门斯特鸡 (白色)
+鸡肉、波罗伏洛干酪、小麦生菜和番茄
+鸡肉、波萝伏洛干酪、生菜和番茄 (加白)
+小麦鸡肉波萝伏洛干酪和生菜
+白料鸡波萝伏洛干酪生菜块
+小麦配鸡肉、波罗伏洛干酪和番茄
+白色鸡肉、波罗伏洛干酪和番茄
+小麦波萝伏洛干酪鸡
+白色波萝伏洛干酪鸡
+白酱鸡肉卷
+小麦鸡
+白鸡
+未烧制的硬皮
+空壳
+波罗伏洛干酪意大利香肠洋葱披萨
+波罗伏洛洋葱披萨
+波罗伏洛香肠披萨
+波罗伏洛披萨
+波罗伏洛薄片
+波萝伏洛干酪意大利香肠片
+波罗伏洛洋葱片
+波罗伏洛干酪、意大利香肠和洋葱片
+门斯特香肠洋葱披萨
+门斯特洋葱披萨
+意大利香肠和香肠披萨
+明斯特披萨
+明丝兰粉末片
+意大利香肠意面
+蘑菇和洋葱薄片
+意大利香肠洋葱片
+切达意大利香肠洋葱披萨
+切达洋葱披萨
+切达意大利香肠披萨
+切达披萨
+切达薄片
+切达意大利香肠片
+切达洋葱片
+切达香肠洋葱片
+马苏里拉奶酪、意大利香肠和洋葱披萨
+马苏里拉奶酪洋葱披萨
+意大利香肠芝士披萨
+马苏里拉奶酪披萨
+干酪片
+意大利香肠意面
+马苏里拉奶酪洋葱片
+马苏里拉奶酪、意大利香肠和洋葱片
+空墨西哥卷壳
+牛肉墨西哥卷
+牛肉番茄墨西哥卷
+牛肉酸奶油墨西哥卷
+牛肉、番茄酸奶油墨西哥卷
+鸡肉墨西哥卷
+鸡肉番茄墨西哥卷
+鸡肉酸奶油墨西哥卷
+鸡肉、番茄酸奶油墨西哥卷
+豆腐墨西哥卷
+鸡肉面条汤
+洋葱汤
+番茄汤
+蔬菜汤
+鸡肉锅面条
+洋葱锅
+蔬菜锅
+番茄锅
+鸡肉面条
+洋葱火锅
+素食火锅
+番茄火锅
+硬化铁锭
+浓缩牛肉
+浓缩牛肉
+三层浓缩牛肉
+浓缩鸡
+双倍浓缩鸡
+三重浓缩鸡
+战利品碎片
+战利品结晶
+完美药水
+空油瓶
+油瓶
+粉碎的骨头
+更少的腐肉
+沸腾的牛奶
+胶水
+切割棍
+腿部
+肉弹发射器
+锅
+盘
+平底锅
+热油锅
+肉刀
+蔬菜刀
+催熟
+披萨卷板机
+披萨刀
+磨具
+手动磨粉机
+研杵
+研钵
+研钵和杵
+空麻袋
+牛奶袋
+声望剑
+声望之钥
+声望仆从钥匙
+未测试的钥匙
+钥匙碎片
+§ C § k 合成部件
+空罐
+糖水罐
+切达块
+门斯特方块
+马苏里拉奶酪块
+波罗伏洛方块
+熔融切达干酪块
+熔融马苏里拉奶酪块
+熔融波罗伏洛方块
+熔融强化门斯特方块
+硬化铁块
+盐矿
+小苏打矿石
+粉碎机
+洋葱植株
+番茄植株
+生菜植株
+墨西哥辣椒植株
+向日葵植株
+砧板
+壁挂电话
+咖啡机
+这是一个 % 1 $ important % 2 $ s 词，这里是 % 1 $ s 另一个 % 2 $ s。
+粉碎机
+初烧铁

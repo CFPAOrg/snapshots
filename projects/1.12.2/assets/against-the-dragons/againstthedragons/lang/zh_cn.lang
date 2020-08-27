@@ -1,7 +1,7 @@
-item.dragonslayer_ingot.name=Dragonslayer Ingot
-item.sword_of_the_dragonslayer.name=Sword of the Dragonslayer
-item.dragonhunter_helmet.name=Dragonhunter Helmet
-item.dragonhunter_chestplate.name=Dragonhunter Chestplate
-item.dragonhunter_leggings.name=Dragonhunter Leggings
-item.dragonhunter_boots.name=Dragonhunter Boots
-itemGroup.Againstthe Dragons!=Against the Dragons!
+item.dragonslayer_ingot.name=斩龙锭
+item.sword_of_the_dragonslayer.name=屠龙之剑
+item.dragonhunter_helmet.name=龙猎人头盔
+item.dragonhunter_chestplate.name=龙猎人胸甲
+item.dragonhunter_leggings.name=龙猎人护腿
+item.dragonhunter_boots.name=龙猎者靴子
+itemGroup.Againstthe Dragons!=对抗龙!
