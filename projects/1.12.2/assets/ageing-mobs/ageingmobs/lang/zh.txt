@@ -1,0 +1,18 @@
+Ageing Mobs Config
+Purpur Block Monster Egg
+Purpur Pillar Egg
+Purpur Double Slab Monster Egg
+Regular Ageing
+Boss Ageing
+Magic Based Ageing
+Block Based Ageing
+Biome Based Ageing
+Biome Type Based Ageing
+Dimension Based Ageing
+Light Level Based Ageing
+Moon Based Ageing
+Time Based Ageing
+Weather Based Ageing
+Liquid Based Ageing
+Height Based Ageing
+Nearby Entity Based Ageing

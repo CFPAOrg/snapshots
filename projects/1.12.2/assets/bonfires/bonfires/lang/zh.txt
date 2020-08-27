@@ -1,0 +1,66 @@
+Bonfires
+Block of Ash
+Pile of Bone and Ash
+Pile of Ash
+Coiled Sword
+Estus Flask
+Homeward Bone
+Coiled Sword Fragment
+Estus Shard
+Titanite Shard
+Large Titanite Shard
+Titanite Chunk
+Titanite Slab
+Undead Bone Shard
+Found %1$s bonfire(s) found matching %2$s
+No bonfires found matching %1$s
+Error: No user with name %1%s exists
+Found %1$s bonfire(s) in dimension %2$s 
+No bonfires found in dimension %1$s
+Error: Dimension %1$s is not a dimension
+Error: '%1$s' is not a valid dimension ID
+Found %1$s bonfire(s) within a radius of %2$s blocks
+No bonfires found within a radius of %1$s blocks
+Error: '%1$s' is not a valid radius
+Not a valid filter. Use /bonfires filters for the list of filters
+Usage: /bonfires <filter> [parameter], /bonfires filters to display list of filters
+%1$s, displays every bonfire in the world
+%1$s, displays every bonfire in the specified dimension
+%1$s, displays every bonfire with a name containing the specified name
+%1$s, displays every bonfire created by the specified owner
+%1$s, displays every bonfire within the specified block radius
+Usage: /travel <UUID>
+Error: '%1$s' is not a valid UUID
+Name: %1$s;
+ID: %1$s;
+Owner: %1$s;
+Pos: [X:%1$s,Y:%2$s,Z:%3$s];
+N/A;
+Travel
+Leave
+Accept
+Set private
+Reinforce
+Enter a name for the bonfire
+BONFIRE LIT
+(Private)
+Select item to reinforce
+Max Level
+Reinforced: +%1$s damage
+%1$s (Private)
+Acquire Ash
+Burnt a mob to a crisp
+Enkindle
+Light a bonfire flame for the first time
+Bonfires
+Die for the first time
+Destroyed Bonfire
+Acquire a Coiled Sword Fragment
+Estus Flask
+Acquire an Estus Flask
+Estus Shard
+Acquire an Estus Shard
+Homeward Bone
+Acquire a Homeward Bone
+Halfway
+Acquire the base of a bonfire

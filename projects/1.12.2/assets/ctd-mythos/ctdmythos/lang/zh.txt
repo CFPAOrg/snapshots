@@ -1,0 +1,113 @@
+Human Effigy
+Cow Blood Drop
+Cow Blood Vial
+Grim Shears
+Human Soul Piece
+Long Bow
+§4Crystallized Fire§r
+§7Crystallized Grief§r
+§aCrystallized Memory§r
+§eCrystallized Oath§r
+§9Crystallized Woe§r
+TMG's Drill
+Tome of Knowledge
+Archeron Sword
+Crystallized Ender
+Teleportation Wand
+Archeron Ingot
+Levitation Wand
+Ethereal Fiber
+Revitalizing Rye
+Crystallized Glove
+Mule's Kick
+Talisman of Evasion
+Amulet of Reaching
+Amulet of Reaching (Creative)
+Health Charm
+Multiblock Validator
+Enchanted Stick
+Mythos Arrow
+Shulker Helmet
+Lightning in a Bottle
+Staff of Lightning
+Unrealized Mythos Pool
+Mythos Exciter
+Mythos Shatterer
+Mythos Flight Wand
+CTD Mythos
+A mod of magical items!
+Three times stronger than a normal bow.
+Takes 200 ticks per item for crafts to complete. Time will reset for each item change, and will scale up. IE: 32 Items will take 6,400 ticks to be crafted with.
+Place in any Bauble slot to stop the negatives effects from Crystallized gems.
+Right Click Grim Shears on a horse for a 2% chance of dropping.
+15% dodge chance when in your inventory.
+Shift + Right Click Crystallized item on Clay Bricks to get Crystallized Bricks. Each brick has a biome requirement or the ritual won't work.
+Dropped when killing cows. 100% for 1, 50% for 2, 25% for 3.
+Right click with ender pearl in off-hand to teleport to world spawn.
+20% chance to be dropped when you hit another player or a Villager with Grim shears.
+With a damaged item in your off-hand, right click Crystallized Memory to fully repair the item in your off-hand slot.
+§4Crystallized Fire Ore§r
+§7Crystallized Grief Ore§r
+§aCrystallized Memory Ore§r
+§eCrystallized Oath Ore§r
+§9Crystallized Woe Ore§r
+§4Crystallized Fire Bricks§r
+§4Crystallized Fire Stairs§r
+§eCrystallized Oath Bricks§r
+§eCrystallized Oath Stairs§r
+§9Crystallized Woe Bricks§r
+§9Crystallized Woe Stairs§r
+§aCrystallized Memory Stairs§r
+§aCrystallized Memory Block§r
+§7Crystallized Grief Stairs§r
+§7Crystallized Grief Block§r
+§9Crystallized Woe Block§r
+§4Crystallized Fire Block§r
+§aCrystallized Memory Block§r
+§eCrystallized Oath Block§r
+§7Crystallized Grief Block§r
+Mythos Pedestal
+Explosive Creation
+Create an Archeron Ingot.
+Create an Ore Doubling Node
+Magically Doubling
+Create an Amulet of Reaching.
+Reaching Places
+Cheat in an Amulet of Reaching.
+Cheating Bastard
+Swift Dodge
+Craft an Evasion Talisman
+Extra HP
+Craft a Trinket of Health.
+Wisdom Sharing
+Store some experience in a book.
+Fly Away
+Craft a Flight Wand.
+Warp Away
+Craft a Teleportation Wand.
+Mutliblock Time
+Craft a Multiblock Validator to create the CTD Mythos Tier I Multiblock.
+Human on a Stick
+Craft a Human Effigy.
+Taking Longer Aim
+Craft a Longbow using the pedestal.
+The Power Within
+Craft a Pedestal.
+Compressed Arrow
+Use the Pedestal to create a Mythos Arrow.
+Down, Horsey!
+Obtain a Mule's Kick by hitting a horse with Grim Shears.
+Soul Collection
+Craft a pair of Grim Shears.
+Thanks, Friend
+Use Grim Shears to steal your friend's soul.
+Thanks Spidey!
+Use Grim Shears on a spider to obtain Ethereal Fiber.
+Not Good
+Craft a loaf of Revitalizing Rye.
+§5You have dropped your target's armor, at the cost of 1/3 of your Drills' durability.
+§5Your armor has been dropped!
+You cannot use this wand outside of the overworld.
+Completion: 
+ ticks.
+§4Empty or invalid recipe.

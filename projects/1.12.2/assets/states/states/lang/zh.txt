@@ -1,0 +1,212 @@
+%s %s
+States Stuff
+Invalid Mail
+Empty Mail
+Expired Mail
+Private Mail
+Invite Mail
+System Mail
+Area View
+District
+Municipality
+State
+Union
+Company
+Player Settings
+Chunk Manager
+Properties
+&aWelcome back $0&a!
+&2You are currently in &7DIM($0)&0.
+&2You are currently in a district called &7$0&2.
+&2Which is part of the &6$1 &7$0&2.
+&2In the State of &7$0&2.
+&6You have &7no mailbox set&6!
+&6You have &7$0 &6votes waiting! &7/st-vote my-votes
+&2&oMunicipality mayor was &c&oreset&2&o.
+&6%s&9 is now the new Capital!
+&2&oState Leader was &c&oreset&2&o.
+District: %s
+Municipality: %s
+State: %s
+%s
+Chunk %s
+Municipalities
+Neighbors
+WhiteList
+BlackList
+Citizens
+Ditricts
+Council
+Links
+&7&oAdmin bypass mode.
+&7Chunk is linked to a chunk at &2%sx&7, &2%sz&7.
+&7Please make changes to that chunk, they will be copied to this one.
+&7Alternatively unlink this chunk.
+no one
+no tax
+NO MAILBOX
+not for sale
+none
+unknown
+nothing
+&cNo Permission
+&cPlayer not found in Cache.
+&cInvalid HEX String.
+&cNot a (valid) number.
+&cName is too short!
+&cPlayer not found in Council or Citizens.
+&cThat Municipality isn't part of our State.
+Nickname is too short.
+Nickname is too long.
+&aChange Applied
+&aEntry already present.
+District ID
+Name
+Municipality
+Manager
+Price
+Type
+Color
+Icon/Logo
+Chunk Tax
+Last Edit
+Neighbors
+Chunks
+Foreign Settlers
+Unclaim Bankrupt
+Creator
+Created
+Ruleset
+Mailbox
+Allow Explosions
+Municipality ID
+Name
+State
+Mayor
+Price
+Type
+Color
+Citizen
+Balance
+Citizen Tax
+Last Edit
+Council
+Districts
+Neighbors
+Open To Join
+Kick Bankrupt
+Chunk Totals
+Creator
+Created
+ForceLoaded Chunks
+Ruleset
+Mailbox
+Blacklisted
+Icon/Logo
+Abandoned
+Abandoned Since
+Abandoned By
+State ID
+name
+Capital
+Leader
+Price
+Color
+Citizen
+Balance
+Chunk Tax
+Citizen Tax
+Last Edit
+Council
+Municipalities
+Neighbors
+Creator
+Created
+Ruleset
+Mailbox
+Blacklisted
+Icon/Logo
+UUID
+Custom Nickname
+Custom Chatcolor
+Balance
+Bank
+Municipality
+Custom Tax
+Mailbox
+Coordinates
+District
+Owner
+Price
+Tax
+Type
+&9Chunk Type not found.
+Use &7/ck types &9to see available chunk types.
+&2Please use the &sell/buy &2feature instead.
+&9Chunk given to the &2%s&9!
+&2Chunk set to &cPUBLIC&2!
+&2It is still yours, but anyone can edit blocks.
+Last Edit
+Last Tax Coll.
+Linked Chunks
+Linked To
+Whitelist
+Claimbed By
+Created/Claimed
+Transit Zone
+Force Loaded
+&9You can not blacklist council members!
+&cKick them from the council first!
+&9You can not kick council members!
+&cKick them from the council first!
+That player isn't a citizen of this Municipality.
+That player is already a citizen of this Municipality.
+&ePlayer isn't part of the council.
+&eThat player is already a Council member.
+Do you want to add &a%s
+to the chunk's whitelist/access?
+Do you want to remove &b%s
+from the chunk's whitelist/access?
+Do you want to add &a%s
+to the municipality's blacklist?
+Do you want to remove &b%s
+from the municipality's blacklist?
+Do you want to add &a%s
+to the state's blacklist?
+Do you want to remove &b%s
+from the state's blacklist?
+Are you sure to kick &b%s
+from the municipality?
+You have been kicked from the Municipality (%s)!
+Are you sure to invite &a%s
+to join the municipality?
+You have been invited to join the Municipality %s
+&7&oInvite sent! (Will be valid for 2 days.)
+Remove &b%s&r from linked?
+Link &a%s&r?
+Invalid chunk format, is it separated?
+&cYou must be the Owner of the other chunk!
+&bCan not link chunk to itself!
+&eMunicipality not found.
+&eMunicipality has no Mayor.
+Are you sure to invite
+&a%s?
+Your Municipality was invited to join the State of %s
+&7&oInvite sent! (Will be valid for 12 days.)
+Are you sure to kick
+7b%s?
+&eCannot kick Capital!
+Kick &b%s
+from the council?
+You have been kicked from the Municipality Council of %s!
+Invite &a%s
+to join the council?
+You have been invited to join the Municipality Council of %s!
+&7&oInvite sent! (Will be valid for 5 days.)
+Kick &b%s
+from the council?
+You have been kicked from the Municipality Council of %s!
+Invite &a%s
+to join the council?
+You have been invited become a State Countil Member of %s!
+&7&oInvite sent! (Will be valid for 5 days.)

@@ -1,0 +1,257 @@
+Reactioncraft Items
+Reactioncraft Blocks
+Reactioncraft Foods
+Dark Sand
+Sand Bricks
+Dark Cobblestone
+Chiseled Darkstone
+Granite
+Cracked Darkstone Brick
+Mossy Darkstone Brick
+Darkstone Brick
+Darkstone
+Chiseled Granite
+Brown Hieroglyph 1
+Brown Hieroglyph 2
+Brown Hieroglyph 3
+Blue Hieroglyph 1
+Blue Hieroglyph 2
+Blue Hieroglyph 3
+Cyan Hieroglyph 1
+Cyan Hieroglyph 2
+Cyan Hieroglyph 3
+Gold Hieroglyph 1
+Gold Hieroglyph 2
+Gold Hieroglyph 3
+Weathered Hieroglyph
+Empty Bookshelf
+Webbed Bookshelf Empty
+Webbed Bookshelf
+Empty Scrollcase
+Bookshelf
+Bookshelf
+Bookshelf
+Scrollcase
+Scrollcase
+Scrollcase
+Webbed Empty Scrollcase
+Webbed Scrollcase
+White Glowing Glass
+Orange Glowing Glass
+Magenta Glowing Glass
+Light Blue Glowing Glass
+Yellow Glowing Glass
+Lime Green Glowing Glass
+Pink Glowing Glass
+Dark Gray Glowing Glass
+Light Gray Glowing Glass
+Cyan Glowing Glass
+Purple Glowing Glass
+Blue Glowing Glass
+Brown Glowing Glass
+Green Glowing Glass
+Red Glowing Glass
+Black Glowing Glass
+Desert Coal Ore
+Light Gemstone Ore
+Dark Gemstone Ore
+Desert Gold Ore
+Silver Ore
+Copper Ore
+Black Diamond Ore
+Nether Diamond Ore
+Dragonstone Ore
+Nether Gold Ore
+Bloodstone Ore
+Wizimite Ore
+Ventinite Ore
+Cherry Planks
+Bloodstone Bricks
+Cherry Leaves
+Hive
+Cherry Wood
+Brick Oven
+Clayalizer
+Freezer
+Darkstone Column
+Granite Column
+Darkstone Brick Column
+Sand Brick Column
+Cobblestone Column
+Stone Column
+Diamond Column
+Stone Brick Column
+Gold Column
+Brick Column
+Stone Slab Column
+Bloodstone Brick Column
+Weathered Column
+Chain Ladder
+Green Cactus
+Red Cactus
+Cherry Sapling
+Portcullis
+Portcullis
+Darkstone Column
+Granite Column
+Darkstone Brick Column
+Sand Brick Column
+Cobblestone Column
+Stone Column
+Diamond Column
+Stone Brick Column
+Gold Column
+Brick Column
+Stone Slab Column
+Bloodstone Brick Column
+Weathered Mini Column
+Caught
+Net
+Hilt Piece
+Net Piece
+Meat Cleaver
+Bones
+Unbreaking Catching Net
+Knife
+Ancient Fruit
+Edible Flesh
+Corn
+Popcorn Kernel
+Bag of Popcorn
+Popped Corn
+Husked Corn
+Raw Corn
+Chicken Nuggets
+Raw Chicken Nuggets
+Sliced Bread
+Ham Sandwich
+Hamburger
+Cheeseburger
+Bacon
+Raw Bacon
+Cheese
+Churn
+Buns
+Raw Salmon
+Salmon
+Raw Yellow Tail
+Yellow Tail
+Magic Catching Net
+Sandstone Paste
+Uncut Light Gem
+Cut Light Gem
+Uncut Dark Gem
+Cut Dark Gem
+Scroll
+Hammer
+Bloodstone Hammer
+Flint Chisel
+Copper Chisel
+Gold Chisel
+Diamond Chisel
+Bloodstone Chisel
+Chain Loop
+Bloodstone Clump
+Gold Rod
+Obsidian Ingot
+Bloodstone Ingot
+Silver Ingot
+Bloodstone Dust
+Black Diamond
+Dragonstone Shard
+Iron Dust
+Dragonstone Gem
+Ardent Iron
+Gold Dust
+Molten Glass
+Ice Bucket
+Obsidian Bucket
+Map In A Bottle
+Ship In A Bottle
+Bookcase Door
+Iron Bookcase Door
+Ancient Flower
+Wrapped Corn
+Ancient Seeds
+Sugar Cane 2
+Corn Seeds
+Bag
+Sack
+Straw
+Coin Mould
+Molten Gold
+Molten Silver
+Molten Copper
+Molten Bronze
+Copper Bucket
+Silver Bucket
+Bronze Bucket
+Gold Bucket
+Refined Gold Ingot
+Silver Ingot
+Bronze Ingot
+Copper Ingot
+Ingot Mould
+Ruby
+Crown
+Kingly Chest
+Kingly Legs
+Kingly Boots
+Emerald Crown
+Diamond Crown
+Ruby Crown
+Bloodstone Helm
+Bloodstone Chest
+Bloodstone Legs
+Bloodstone Boots
+Bat
+Obsidian Sword
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Axe
+Obsidian Hoe
+Bloodstone Sword
+Bloodstone Pickaxe
+Bloodstone Shovel
+Bloodstone Axe
+Bloodstone Hoe
+Black Diamond Pickaxe
+Bloodstone Blade
+Golden Sword Fragment
+Unbound Sword
+Melted Ventinite
+Melted Wizimite
+Bloodstone Scoop
+Bloodstone Frame
+Honeycomb
+Pollencomb
+Black Diamond Bore
+Bloodstone Bore
+Raw Human
+Cooked Human
+Raw Bacon
+Beef Chunk
+Raw Pork Chunk
+Raw Horse
+Cooked Horse
+Chicken Head
+Lit Mining Helmet
+Mining Helmet
+RC Ender Eye
+Iron Shavings
+Stalks
+Dark-blue Crown
+Bloodstone Crown
+Cherry Door
+Coin
+Knife
+Flint Chisel
+Copper Chisel
+Gold Chisel
+Diamond Chisel
+Bloodstone Chisel
+Corn Kernel
+Ancient Seeds
+Hydrolisc
+Crawling Zombie
+Crawling Skeleton

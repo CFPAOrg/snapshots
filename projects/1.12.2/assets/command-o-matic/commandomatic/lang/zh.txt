@@ -1,0 +1,6 @@
+/enchant <player> add <enchantment> [level] OR /enchant <player> set <enchantment> [level] OR /enchant <player> clear
+Setting enchantment succeeded
+Adding enchantment succeeded
+Clearing enchantments succeeded
+Item isn't enchanted, nothing to clear
+/publish [gamemode] [cheats]

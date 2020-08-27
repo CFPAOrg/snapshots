@@ -1,0 +1,21 @@
+Raw Neptunium
+Neptunium Ingot
+Pestle
+Sugarcane Bale
+Fishglass
+Sugarcane Bale
+Mortar
+Fishglass
+Mortar
+XP Tome Iron
+XP Tome Gold
+XP Tome Diamond
+XP Tome Emerald
+Sneak + right-click to store as much XP as possible
+Right-click to retrieve all XP
+%1$s/%2$s XP stored
+Decorative Blocks
+Blocks
+Items
+Crafting
+Tools

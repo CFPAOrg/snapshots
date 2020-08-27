@@ -1,0 +1,3 @@
+<Shift>
+Crowmap is present
+Map updates without being held

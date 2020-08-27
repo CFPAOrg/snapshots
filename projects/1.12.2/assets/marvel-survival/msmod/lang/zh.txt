@@ -1,0 +1,40 @@
+ Cringium Ingot
+ Copper Ingot
+ Cringium Nugget
+ Copper Nugget
+ Cringium Sword
+ Cringium Axe
+ Cringium Hoe
+ Cringium Pickaxe
+ Cringium Shovel
+ Copper Sword
+ Copper Axe
+ Copper Hoe
+ Copper Pickaxe
+ Copper Shovel
+ Cringium Food
+ Cringium Rune
+ Copper Helmet
+ Copper Chestplate
+ Copper Leggings
+ Copper Boots
+ Cringium Helmet
+ Cringium Chestplate
+ Cringium Leggings
+ Cringium Boots
+ Cringium Block
+ Copper Block
+ Cringium Ore
+ Nether Cringium Ore
+ Ender Cringium Ore
+ Copper Ore
+ Nether Copper Ore
+ Ender Copper Ore
+ MS-Tool
+ MS-Block
+ MS-Item
+ MS-Armor
+ MS-Ore
+ MS-Food
+ MS-Rune
+The tiny crystal of spaces

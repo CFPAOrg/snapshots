@@ -1,0 +1,38 @@
+Cursed Mobs
+Spawn Camp Structure-W.I.P
+Aero Bone
+§bDarkened Gem
+§bNetherium Shard
+§bNetherium Ingot
+Journal Scrap #1
+Journal Scrap #2
+Journal Scrap #3
+§bCursed Pumpkin
+§bNetherium Staff
+§bNetherium Chestplate
+§bNetherium Helmet
+§bNetherium Leggings
+§bNetherium Boots
+Spectral Flesh
+§bSpectral Steak
+Possessed Wolf
+Aero Skeleton
+Elder Mage
+§bNether Lord
+Enraged
+Potion Of Enrage
+Splash Potion Of Enrage
+Extended Potion Of Enrage
+Lingering Potion Of Enrage
+%1$sIt seems to solidify under heat...%2$s
+%1$sIt seems to buzz when close to pumpkins...%2$s
+%1$sA haunted artifact from a dark past%2$s
+%1$sAny special effects?%2$s
+%1$sRetaines the life giving properties of a normal pumpkin%2$s
+%1$sThe magic within a darkened gem could be a good potion enhancer%2$s
+%1$sBlocks harder then iron are needed to support the cursed pumpkin%2$s
+%1$sThe alchemical dust within aero bones seems to be a good base for a new potion%2$s
+%1$sShattered fragments of armor, perhaps they could be reforged under heat?%2$s
+%1$sThe sheer weight of these ingots makes them unsuitable for practical tools%2$s
+%1$sThis is a work in progress, will just spawn a house for now. :/%2$s
+%1$sThe Darkness Wanes%2$s

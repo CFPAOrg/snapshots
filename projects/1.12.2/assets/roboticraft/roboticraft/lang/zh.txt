@@ -1,0 +1,41 @@
+Robot Remote
+Robot Spawner
+Wrench
+Robot Memory
+Robot MemoryX2
+Robot MemoryX3
+Robot MemoryX4
+Robot MemoryX5
+Robot MemoryX6
+Robot MemoryX7
+Robot MemoryX8
+Save Card
+Whistle
+Climbing Chip
+Jumping Chip
+Mining Chip
+Builder Chip
+Inspection Chip
+Interact Chip
+Detection Chip
+Attack Chip
+#CORRUPTED CHIP#
+#CORRUPTED CHIP#
+#CORRUPTED CHIP#
+#CORRUPTED CHIP#
+#CORRUPTED CHIP#
+#CORRUPTED CHIP#
+#CORRUPTED CHIP#
+Echo Chip
+Memory Wiper
+Python API Manual
+Robot SIM Card
+Redstone Meter
+Robot Armor
+Lava Suit
+Scuba Suit
+Robot
+Robot Jammer
+Magnetic Block
+Robot Inventory
+RobotiCraft

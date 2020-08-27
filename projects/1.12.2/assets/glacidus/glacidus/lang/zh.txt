@@ -1,0 +1,188 @@
+Grapes
+Eukeite
+Crysium
+Raw Porcali Meat
+Grilled Porcali Meat
+Glacidite Fragment
+Black Saddle
+Raisins
+Grape Juice
+Opesium
+Underground Stick
+Merialces Hide Helmet
+Merialces Hide Chestplate
+Merialces Hide Leggings
+Merialces Hide Boots
+Merialces Hide
+Glacidite Helmet
+Glacidite Chestplate
+Glacidite Leggings
+Glacidite Boots
+Underground Bucket
+Underground Water Bucket
+Underground Glacium Bucket
+Residuum
+Artifact 1
+Artifact 2
+Artifact 3
+Artifact 4
+Artifact 5
+Artifact 6
+Eukeite Hoe
+Eukeite Pickaxe
+Eukeite Axe
+Eukeite Shovel
+Eukeite Sword
+Antinatric Hoe
+Antinatric Pickaxe
+Antinatric Axe
+Antinatric Shovel
+Antinatric Sword
+Glacidite Hoe
+Glacidite Pickaxe
+Glacidite Axe
+Glacidite Shovel
+Glacidite Sword
+Underground Hoe
+Underground Pickaxe
+Underground Axe
+Underground Shovel
+Underground Sword
+Small Crystal
+Crysial Flower
+Pulphorus Flower
+Aurantiacus Flower
+Solegia Flower
+Flavula Flower
+Dead Lumicia Stalk
+Lumicia Sapling
+Lumicia Grass
+Lumicia Double Grass
+Glacidus Portal Block
+Lumicia Grass Block
+Lumicia Dirt
+Frozen Antinatric Stone
+Thawed Antinatric Stone
+Frozen Antinatric Brick
+Thawed Antinatric Brick
+Glacium
+Underground Wood
+Underground Wood Planks
+Underground Leaves
+Lumicia Vine
+Lumicia Grape Vine
+Glacidite Ore
+Eukeite Ore
+Crysium Ore
+Opesium Ore
+Pulsaton Ore
+Underground Door
+Underground Trapdoor
+Underground Bookshelf
+Underground Ladder
+Underground Sapling
+Underground Stairs
+Underground Fence
+Underground Slab
+Underground Double Slab
+Frozen Antinatric Stairs
+Frozen Antinatric Slab
+Frozen Antinatric Double Slab
+Frozen Antinatric Brick Stairs
+Frozen Antinatric Brick Slab
+Frozen Antinatric Brick Double Slab
+Thawed Antinatric Stairs
+Thawed Antinatric Slab
+Thawed Antinatric Double Slab
+Thawed Antinatric Brick Stairs
+Thawed Antinatric Brick Slab
+Thawed Antinatric Brick Double Slab
+Crystal Block
+Glacidus Portal Frame
+Small Booster
+Crysium Torch
+Underground Chest
+Porcali
+Glimmer
+Drop Spider
+Merialces
+Morprous
+Glacium Frigispitor
+Artifact
+Glacidus
+It's Freezing Here...
+Don't Judge a Book by it's Cover
+New World, Same Routine
+Glowey Flowers!
+Bounty Hunter
+Lift Off!
+Dangerous, but Worth it!
+The Core...
+Health Freak!
+So Many Uses...
+Extraterrestrial!
+All Decked Out!
+Bits and Bobs
+Great, it Makes Noise
+Alien Rodeo!
+Hot to the Touch!
+Must be my Lucky Day!
+The Glacidus dimension.
+Enter the Glacidus world.
+Find signs of plant life.
+Punch an Underground tree and get a log.
+Find all 5 flowers.
+Slay a mob from the planet.
+Find a Booster and leave the planet.
+Find Glacidite near a pool of Glacium.
+Make it down to the center of the planet.
+Liquify grapes and drink Grape Juice.
+Find another way to use grapes.
+Breed an alien animal.
+Get a full set of Glacidite Armor.
+Find Residuum from a surface mob.
+Find and collect Eukeite from Eukeite ore.
+Find a Black Saddle.
+Find the 6th Artifact.
+Find the 4th Artifact.
+Glacidus Blocks
+Glacidus Items
+Glacidus Tools
+Porcali growls
+Porcali hurts
+Porcali dies
+Merialces grumbles
+Merialces hurts
+Merialces dies
+Drop Spider whispers
+Drop Spider hurts
+Drop Spider dies
+Drop Spider impact
+Morprous whistles
+Morprous screeches
+Morprous malfunctions
+Frigispitor dribbles
+Frigispitor hurts
+Frigispitor dies
+Glacium fired
+Magma fired
+Glacium crackles
+Glacium pops
+Booster wubs
+Booster Fires
+Portal crackles
+Echolocation returns
+Echolocation hums
+Artifact vibrates
+Artifact collected
+%1$s died of Hyopthermia
+Glacidus Configuration
+Dimension Settings
+Change the settings for the dimensions of the game.\nAdvanced users only.
+Other
+Other options that don't affect main gameplay can be found here.
+Glacidus Dimension ID
+Set the Dimension ID for Glacidus.
+Developer Mode
+Developer mode outputs extra content to the console for development purposes.
+Enable Entity Gravity

@@ -1,0 +1,16 @@
+tile.additionalenderblocks.purpur_smooth.name=潜影壳方块
+tile.additionalenderblocks.purpur_tiles.name=紫珀瓷砖
+tile.additionalenderblocks.purpur_carved.name=Chis制紫珀块
+tile.additionalenderblocks.purpur_prismatic.name=炫光紫珀块
+tile.additionalenderblocks.purpur_cobble.name=乱砌紫珀石
+tile.additionalenderblocks.smooth_end_stone.name=平滑末地石
+tile.additionalenderblocks.end_brick_chorus.name=紫颂苔石砖
+tile.additionalenderblocks.end_brick_carved.name=Chis制末地石砖
+tile.additionalenderblocks.end_brick_cracked.name=裂纹末地石砖
+tile.additionalenderblocks.end_stone_carved.name=Chis制平滑末地石砖
+tile.additionalenderblocks.end_brick_slab.name=末地石砖台阶
+tile.additionalenderblocks.end_brick_stairs.name=末地石砖楼梯
+tile.additionalenderblocks.smooth_end_stone_slab.name=平滑末地石台阶
+tile.additionalenderblocks.smooth_end_stone_stairs.name=平滑末地石楼梯
+item.additionalenderblocks.end_door_item.name=末地门
+tile.additionalenderblocks.end_trapdoor.name=末地活板门

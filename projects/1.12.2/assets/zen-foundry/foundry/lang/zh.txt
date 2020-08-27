@@ -1,0 +1,276 @@
+Molten Iron
+Molten Gold
+Molten Copper
+Molten Tin
+Molten Bronze
+Molten Electrum
+Molten Invar
+Molten Nickel
+Molten Zinc
+Molten Brass
+Molten Constantan
+Molten Silver
+Molten Steel
+Molten Lead
+Molten Alumina
+Molten Aluminium
+Molten Platinum
+Molten Iridium
+Molten Chrome
+Molten Tungsten
+Molten Cobalt
+Molten Uranium
+Molten Titanium
+Molten Refined Iron
+Molten Glass
+Molten Glass (Black)
+Molten Glass (Red)
+Molten Glass (Green)
+Molten Glass (Brown)
+Molten Glass (Blue)
+Molten Glass (Purple)
+Molten Glass (Cyan)
+Molten Glass (Light Gray)
+Molten Glass (Gray)
+Molten Glass (Pink)
+Molten Glass (Lime)
+Molten Glass (Yellow)
+Molten Glass (Light Blue)
+Molten Glass (Magenta)
+Molten Glass (Orange)
+Molten Glass (White)
+Molten Manasteel
+Molten Terrasteel
+Molten Elementium
+Molten Mithril
+Molten Signalum
+Molten Lumium
+Molten Redstone
+Molten Glowstone
+Molten Ender Pearl
+Molten Electrical Steel
+Molten Energetic Alloy
+Molten Vibrant Alloy
+Molten Redstone Alloy
+Molten Conductive Iron
+Molten Pulsating Iron
+Molten Dark Steel
+Molten Soularium
+Molten End Stone
+Molten End Steel
+Molten Iron Alloy
+Molten Osmium
+Molten Refined Obsidian
+Molten Refined Glowstone
+All
+Aluminum
+Carbon
+Chromium
+Cobalt
+Copper
+Gold
+Iron
+Lead
+Manganese
+Nickel
+Osmium
+Platinum
+Silver
+Tin
+Titanium
+Tungsten
+Uranium
+Chrome
+Zinc
+Stone
+Gunpowder
+Wood
+Endstone
+Netherrack
+Amethyst
+Brass
+Bronze
+Cobaltite
+Constantan
+Cupronickel
+Diamond
+Electrum
+Emerald
+Green Sapphire
+Invar
+Kanthal
+Nichrome
+Obsidian
+Olivine
+Ruby
+Sapphire
+Stainless Steel
+Steel
+Topaz
+Redstone
+Glowstone
+Thaumium
+Void Metal
+Manasteel
+Terrasteel
+Elementium
+Rubber
+Mithril
+Signalum
+Lumium
+Red Alloy
+Adamantine
+Atlarus
+Rubracium
+Haderoth
+Tartarite
+Midasium
+Damascus Steel
+Angmallen
+Quicksilver
+Orichalcum
+Celenegil
+Vyroxeres
+Sanguinite
+Carmot
+Infuscolium
+Meutoite
+Hepatizon
+Eximite
+Desichalkos
+Deep Iron
+Ceruclase
+BlackSteel
+Astral Silver
+Amordrine
+Alduorite
+Kalendrite
+Lemurite
+Inolashite
+Shadow Iron
+Shadow Steel
+Oureclase
+Ignatius
+Vulcanite
+Prometheum
+Ironwood
+Steeleaf
+Knightmetal
+Redstone Alloy
+Energetic Alloy
+Vibrant Alloy
+Dark Steel
+Pulsating Iron
+Electrical Steel
+Soularium
+Alumina
+All
+Ore
+Ingot
+Dust
+Nugget
+Block
+Tiny Dust
+Small Dust
+Plate
+Gear
+Rod
+Gem
+Planks
+Crushed Ore
+Purified Crushed Ore
+Dense Plate
+Casing
+Cable
+Native Cluster
+Poor Ore
+Progress:
+Temperature:
+Fluid:
+Foundry
+Refractory Casing (Standard)
+Refractory Casing (Advanced)
+Refractory Casing (Basic)
+Melting Crucible (Basic)
+Melting Crucible (Standard)
+Melting Crucible (Advanced)
+Metal Caster
+Alloy Mixer
+Metal Infuser
+Material Router
+Induction Heater
+Alloying Crucible
+Fluid Heater
+Ingot Casting Table
+Plate Casting Table
+Rod Casting Table
+Block Casting Table
+Mold Crafting Station
+Burner Heater
+Bronze Cauldron
+Melts ore and metals.//Must be placed above a heater block.//Can reach up to $CRUCIBLE_BASIC_MAX_TEMP K.
+Melts ore and metals.//Must be placed above a heater block.//Can reach up to $CRUCIBLE_STANDARD_MAX_TEMP K.
+Melts ore and metals.//Must be placed above a heater block.//Can reach up to $CRUCIBLE_ADVANCED_MAX_TEMP K.
+Casts items from molten metal using mold.//Requires RF, FE, or Tesla to operate.
+Casts items from molten metal using mold.
+Mixes up to 4 molten metals to make alloys.//Requires RF, FE, or Tesla to operate.
+Mixes 2 molten metals to make alloys.
+Infuses items into molten metals.//Requires RF, FE, or Tesla to operate.
+Sorts items by material and type.//Currently is broken. Will be fixed in the future.
+Uses energy to generate heat for a Melting Crucible.//Requires RF, FE, or Tesla to operate.
+Uses fluid with high temperature to generate heat for a Melting Crucible.
+Used to cast ingots from molten metal.//Right click to remove the ingot after it's solidified.
+Used to cast plates from molten metal.//Right click to remove the plate after it's solidified.
+Used to cast rods from molten metal.//Right click to remove the rod after it's solidified.
+Used to cast blocks from molten metal.//Right click to remove the block after it's solidified.
+Used to craft molds.//Requires Unfired Porcelain Block and fuel to make molds.
+Uses solid fuel to generate heat for a Melting Crucible.
+Small Porcelain Ball
+Ingot Mold
+Plate Mold
+Gear Mold
+Rod Mold
+Block Mold
+Slab Mold
+Stairs Mold
+Nugget Mold
+Pickaxe Mold
+Axe Mold
+Sword Mold
+Shovel Mold
+Hoe Mold
+Shears Mold
+Helmet Mold
+Chestplate Mold
+Leggings Mold
+Boots Mold
+Sickle Mold
+Hammer Mold
+Excavator Mold
+Gringding Ball Mold
+Melting Crucible
+%d K
+Metal Caster
+Alloy Mixer
+Alloying Crucible
+Metal Infuser
+Mold Station
+Fluid Heater Fuels
+Ingot Casting Table
+Plate Casting Table
+Rod Casting Table
+Block Casting Table
+Depth: %d
+Fire mold
+Remove
+Melting Crucible
+Temperature: %d K
+Melt: %d K
+Energy: %d FE / %d FE
+{0,choice,0#0 blocks|1#1 block|1<{0} blocks} 
+{0,choice,0#0 ingots|1#1 ingot|1<{0} ingots} 
+{0,choice,0#0 nuggets|1#1 nugget|1<{0} nuggets} 
+Mode: Ignore Restone
+Mode: Redstone signal OFF
+Mode: Redstone signal ON
+Mode: Redstone pulse

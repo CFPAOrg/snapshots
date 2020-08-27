@@ -1,0 +1,70 @@
+Superior Shields
+Wooden Primitive Shield
+Stone Primitive Shield
+Iron Magic Shield
+Gold Magic Shield
+Diamond Magic Shield
+Obsidian Magic Shield
+Emerald Magic Shield
+Ender Magic Shield
+Flux Shield (Basic)
+Flux Shield (Hardened)
+Flux Shield (Reinforced)
+Flux Shield (Signalum)
+Flux Shield (Resonant)
+Pyrotheum Flux Nova Shield
+Cryotheum Flux Nova Shield
+Petrotheum Flux Nova Shield
+Aerotheum Flux Nova Shield
+Dark Steel Energy Shield (Conductive Iron)
+Dark Steel Energy Shield (Energetic Alloy)
+Dark Steel Energy Shield (Vibrant Alloy)
+Dark Steel Energy Shield (Pulsating Iron)
+Dark Steel Energy Shield (Redstone Alloy)
+End Steel Energy Shield (Conductive Iron)
+End Steel Energy Shield (Energetic Alloy)
+End Steel Energy Shield (Vibrant Alloy)
+End Steel Energy Shield (Pulsating Iron)
+End Steel Energy Shield (Redstone Alloy)
+Soularium Energy Shield
+Dark Steel Energy Shield (Energetic Silver)
+Dark Steel Energy Shield (Vivid Alloy)
+Dark Steel Energy Shield (Crystalline Alloy)
+Dark Steel Energy Shield (Melodic Alloy)
+End Steel Energy Shield (Energetic Silver)
+End Steel Energy Shield (Vivid Alloy)
+End Steel Energy Shield (Crystalline Alloy)
+End Steel Energy Shield (Melodic Alloy)
+Stellar Energy Shield
+Infused Iron Shield
+Shield of the Skies
+Manasteel Mana Shield
+Terrasteel Mana Shield
+Elementium Mana Shield
+Pink Slime Energy Shield
+Meat Shield
+Increased Shield Capacity
+Gain +1 Shield HP
+Increased Shield Capacity
+Gain +1 Shield HP
+Increased Shield Capacity
+Gain +1 Shield HP
+Major Shield Capacity Increase
+Gain +3 Shield HP
+Shield Capacity:
+HP
+Recharge Delay:
+Recharge Rate:
+seconds
+HP per second
+Light nearby mobs on fire when depleted
+Slows nearby mobs down when depleted
+Blinds nearby mobs when depleted
+Weakens the attacks of nearby mobs when depleted
+Knocks neraby mobs away when depleted
+Regenerates your health while full
+Increases mining speed while full
+Has a tendency to invite unwanted guests when hit
+Occasionally feeds the wearer when hit
+Makes nearby enemies float when depleted
+Speeds up the wearer when depleted

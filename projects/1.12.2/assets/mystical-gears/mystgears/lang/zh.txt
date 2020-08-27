@@ -1,0 +1,62 @@
+Mystical Mechanics
+@material Gear
+Black Hole Gear
+Googly Eye
+Light Flywheel
+Heavy Flywheel
+Gearbox Cover
+Wooden
+Aetherium
+Neutronium
+Elementium
+Void Metal
+Redstone Dynamo
+Windup Box
+Drill
+Diamond Drill
+Mechanical Turret
+Mechanical Dial
+Ember Gatling Gun
+Witchburn Gatling Gun
+Gearanium
+Mechanical Bellows
+Vis Motor
+Essentia Motor
+Mechanical Pattern Crafter
+Aura Engine
+Can be used in a gearbox
+Max power: @power
+Power transfer: @transferx
+Takes some time to speed up and slow down
+You spin me right round
+Mechanical Power: %s
+§9⬊§r Mechanical Power: %s
+§6⬉§r Mechanical Power: %s
+Gearanium
+Converts mana to rotational energy
+The &1Gearanium&0 produces &4Mechanical Energy&0 at the cost of &4Mana&0. This energy can be taken out by connecting the flower to any mechanical input such as an &1Axle&0. Connecting the flower to multiple inputs will divide the power between them like a &1Gearbox&0. This flower can also be planted on mechanical inputs to output power from the bottom.
+&oThe wheels on the bus go round and round.
+Mechanical Bellows
+Speeds up furnaces with mechanical power
+The &1Mechanical Bellows&0 are an upgraded version of the &1Manatide Bellows&0 that use &4Mechanical Energy&0 to pump autonomously. With this, they lose their ability to speed up the transfer rate of &1Mana Pools&0 since the mechanism prevents the bellows from moving magically. They can still speed up furnaces however.
+&oFeed the fire. Break your vision.
+Mystical Mechanics
+Mystical Mechanics
+Using various materials, I have designed a system for transmitting mechanical energy across various distances between machines. I should make some devices to utilize this system next.
+Gears
+Gears are used as interfaces for connecting axles to gearboxes or machines. Gears can be made out of various materials, each with their own properties. Every gear has a maximum amount of power it can transfer and a multiplier for the power transferred. Unsurprisingly, sturdier materials make for better gears. I have also created gears that can be controlled with redstone, the redstone gear will only rotate when the gearbox it's in is powered with redstone, the inverted redstone gear does the opposite.
+Axles
+Axles are used to transfer mechanical power between generators, gearboxes and machines that use it. Axles don't lose power over distance, so their transfer range is virtually unlimited.
+Gearboxes
+Gearbox Frames are the heart-piece of mechanical transfer. One gear can be attached on each side, but only sides with axles or other machines attached will need one. There is an input side marked by a strip, and all other sides are outputs. The input power will be divided between each used output, so if two axles were attached, each would receive half power.
+Mergeboxes
+Mergebox Frames are another important part in mechanical systems. They function opposite to a regular gearbox, instead of splitting power, power will be merged together. Note that all inputs must be the same speed to be summed up. Additionally, anytime the power changes, the mergebox will disengage the output gear for a short time as the internal ratios adjust.
+Vis Powered Motor
+I should look into methods to produce mechanical power first, then I'll see what I could use it for.
+I've created a motor that generates mechanical power out of vis in the aura, this should be sufficient for powering any mechanical devices I make. For every point of vis, this motor will run for 5 seconds with 30 mechanical power. I should be careful not to leave these running when I'm not using them, else I could completely drain the aura. That's why I added a mechanism that allows the motor to be disabled with a redstone signal.
+Essentia Powered Motor
+The vis in the aura is a precious resource and I'd rather use alternatives if I can find any. I might be able to power my mechanical machines with essentia instead.
+I've successfully created a motor that runs on essentia instead of vis, unfortunately it only works with certain types of essentia. For every motus essentia, this motor will run for 5 seconds with 30 mechanical power. For every potentia essentia, this motor will run for 2,5 seconds with 60 mechanical power. For every machina essentia, this motor will run for 10 seconds with 20 mechanical power. This motor can also be disabled with a redstone signal.
+Mechanical Pattern Crafter
+First, I should research if this mechanical power is even useful for anything, then I'll look into ways of creating it.
+It was simple really, all I had to do was replace the vis resonator with a mechanical input. It still works exactly the same as an arcane pattern crafter but it can actually work faster if more mechanical power is put in.

@@ -1,0 +1,5 @@
+Universal Bestiary
+Mob Identifier
+Use on a mob to unlock its Universal Bestiary entry
+Universal Bestiary
+The Universal Bestiary contains informations on all animals and monster you have, and will encouter. Killing a mob, getting killed by it or using a $(item)Mob Identifier$() on it will all unlock this mob's entry.

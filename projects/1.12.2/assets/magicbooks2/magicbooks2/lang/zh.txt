@@ -1,0 +1,76 @@
+Arcane Crafter
+Air Crystal
+Arcane Crystal
+Earth Crystal
+Fire Crystal
+Water Crystal
+Greater Air Crystal
+Greater Arcane Crystal
+Greater Earth Crystal
+Greater Fire Crystal
+Greater Water Crystal
+Air Shard
+Arcane Shard
+Earth Shard
+Fire Shard
+Water Shard
+Book Of Air
+Book Of Arcane
+Book Of Earth
+Book Of Fire
+Book Of Water
+Crystal Linker
+Pickaxe Of The Earth
+Pickaxe Of The Air
+Pickaxe Of The Arcane
+Pickaxe Of Fire
+Pickaxe Of Water
+Axe Of The Earth
+Axe Of The Air
+Axe Of The Arcane
+Axe Of Fire
+Axe Of The Water
+Earth Wall
+Air Wand
+Arcane Wand
+Earth Wand
+Fire Wand
+Water Wand
+Ultimate Wand
+Air Shard Ore
+Arcane Shard Ore
+Earth Shard Ore
+Fire Shard Ore
+Water Shard Ore
+Air Shard Block
+Arcane Shard Block
+Earth Shard Block
+Fire Shard Block
+Water Shard Block
+Air Pedestal
+Arcane Pedestal
+Earth Pedestal
+Fire Pedestal
+Water Pedestal
+Fireblast Spell
+Lightning Spell
+Invisibility Spell
+Grow Spell
+Walling Spell
+Bubble Spell
+MagicBooks2
+MagicBooks2 Spells
+Greater Crystal
+Arcane Crafter
+Rune Of Drowning
+Rune Of Lumber
+Fire Shard
+Air Shard
+Earth Shard
+Arcane Shard
+Water Shard
+Magic Book
+Spell Bag
+Mana Pad
+Rune Of Drowning
+Rune Of Lumber

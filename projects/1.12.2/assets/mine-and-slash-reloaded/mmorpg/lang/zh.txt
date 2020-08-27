@@ -1,0 +1,799 @@
+Common Ore
+Uncommon Ore
+Rare Ore
+Epic Ore
+Legendary Ore
+Mythical Ore
+Common Ore Block
+Uncommon Ore Block
+Rare Ore Block
+Epic Ore Block
+Legendary Ore Block
+Mythical Ore Block
+Mine and Slash
+Unique Gear
+Crafting Items
+LootBoxes
+Gear Modify Station
+Gear Repair Station
+Gear Salvage Station
+Map Device
+Precious Ore that can be used in many ways
+If your experience bar is full, use this item to levelup!
+Creates a pack of level one gear.
+Three Furnaces below, five iron wills above,
+seed in the middle, materialize hope!
+Put Inside Repair Station to decrease fuel consumption.
+Fuel Multiplier
+This Gem can be inserted into a Socket slot
+§7Common Axe
+§aUncommon Axe
+§eRare Axe
+§9Epic Axe
+§6Legendary Axe
+§dMythical Axe
+§7Common Boots
+§aUncommon Boots
+§eRare Boots
+§9Epic Boots
+§6Legendary Boots
+§dMythical Boots
+§7Common Bow
+§aUncommon Bow
+§eRare Bow
+§9Epic Bow
+§6Legendary Bow
+§dMythical Bow
+§7Common Bracelet
+§aUncommon Bracelet
+§eRare Bracelet
+§9Epic Bracelet
+§6Legendary Bracelet
+§dMythical Bracelet
+§7Common Charm
+§aUncommon Charm
+§eRare Charm
+§9Epic Charm
+§6Legendary Charm
+§dMythical Charm
+§7Common Chest
+§aUncommon Chest
+§eRare Chest
+§9Epic Chest
+§6Legendary Chest
+§dMythical Chest
+§7Common Hammer
+§aUncommon Hammer
+§eRare Hammer
+§9Epic Hammer
+§6Legendary Hammer
+§dMythical Hammer
+§7Common Helmet
+§aUncommon Helmet
+§eRare Helmet
+§9Epic Helmet
+§6Legendary Helmet
+§dMythical Helmet
+§7Common Necklace
+§aUncommon Necklace
+§eRare Necklace
+§9Epic Necklace
+§6Legendary Necklace
+§dMythical Necklace
+§7Common Pants
+§aUncommon Pants
+§eRare Pants
+§9Epic Pants
+§6Legendary Pants
+§dMythical Pants
+§7Common Ring
+§aUncommon Ring
+§eRare Ring
+§9Epic Ring
+§6Legendary Ring
+§dMythical Ring
+§7Common Staff
+§aUncommon Staff
+§eRare Staff
+§9Epic Staff
+§6Legendary Staff
+§dMythical Staff
+§7Common Sword
+§aUncommon Sword
+§eRare Sword
+§9Epic Sword
+§6Legendary Sword
+§dMythical Sword
+§7Adventure Map
+§aAdventure Map
+§eAdventure Map
+§9Adventure Map
+§6Adventure Map
+§dAdventure Map
+Player Level Up Token
+Gear Loot Bag
+Map Bag
+Currency Bag
+Newbie Gear Bag
+Mine and Slash Tutorial
+Map Leave Pearl
+Level Nearest Entity
+Level Down Nearest Entity
+Increase Rarity of Nearest Entity
+Decrease Rarity of Nearest Entity
+§cAwaken RuneWord
+§cAcid Bolt
+§cFire Bolt
+§cFrost Bolt
+§cThunder Bolt
+§cAcid Bomb
+§cFire Bomb
+§cIce Bomb
+§cThunder Bomb
+§cAcid Explosion
+§cFrost Explosion
+§cFlame Explosion
+§cLightning Explosion
+§cFrost Nova
+§cFire Nova
+§cThunder Nova
+§cPoison Nova
+§cInstant Heal
+§cRegenerate
+Regen Health
+Regen Mana
+Regen Energy
+AoE Regen
+Cleanse Poison
+Casts an elemental projectile that does AoE dmg on hit.
+Casts a Single Target elemental projectile.
+Instantly Heals the caster.
+Leaves out a bomb that explodes later for AoE Damage.
+Heals the caster over time.
+Damages everyone around you.
+Common Capacitor
+Uncommon Capacitor
+Rare Capacitor
+Epic Capacitor
+Legendary Capacitor
+Mythical Capacitor
+§cCrystal Of Legend
+§cChaos Orb
+§cCrystal Of Ascension
+§cOrb Of Blessing
+§cOrb Of Transmutation
+§cOrb Of Ever-Changing Prefix
+§cOrb Of Ever-Changing Suffix
+§cStone Of Hope
+§cUnearth Suffix
+§cUnearth Prefix
+§cOrb Of Suffix Blessing
+§cOrb Of Prefix Blessing
+§cOrb of Unique Blessing
+§cGem Of Unique Heaven
+§cResource Infusion
+§cDefense Infusion
+§cAttack Infusion
+§cWondrous Infusion Upgrade
+§cSuperior Infusion Upgrade
+§cNormal Infusion Upgrade
+Of Critical Unity
+Of Element Resist
+Of Firestorms
+Of Immortality
+Of Icestorms
+Of Critical Hits
+Of Mana Regen
+Of Earthquakes
+Of The Sage
+Of Thunderstorms
+Of Vitality
+Of Rock Skin
+Of Critical Damage
+Flame Imbued
+Lightning Imbued
+Evasive
+Thorny
+Thirst Of Flame
+Tough
+Heavenly Skin
+Nature Shield
+Energetic
+Poison Imbued
+Flaming
+Hardened
+Deep Mind
+Thirst Of Frost
+Fire Shield
+Brave Heart
+Heavenly Strikes
+Frost Imbued
+Thunder Shield
+Thirst Of Acid
+Hard Hitting
+Life Stealing
+Frosty
+Thundering
+Thirst Of Lightning
+Water Shield
+Inner Spirit
+Percent
+Prefix
+Suffix
+Stats
+Primary Stats
+Secondary Stats
+Chaos Stats
+Unique Stats
+Level
+Rarity
+Unsalvageable
+Multi
+Tier
+Bonus Loot Amount
+Minutes
+Player Affixes
+Mob Affixes
+World Type
+Mana Cost
+Base Value
+Scaling Value
+By
+Resources
+Regeneration
+Attack
+Spell Damage
+Elemental Attack Damage
+Plus All Elemental Damage
+Spell To Attack Damage Conversion
+Defenses
+Penetration
+Weapon Damage
+Misc
+Not a Map World
+Put Map
+Sacrifice Map For Tier
+Sacrifice Map For Level
+Start
+Dealt
+Took
+From
+To
+Damage
+Progress
+Fuel
+NPC
+Mob
+Animal
+Item
+Currency
+Map
+Spell
+Socket
+Sockets
+Empty
+Square
+Circle
+Infusion
+Bonus Success Rate
+Major Success Chance
+Major Failure Chance
+Arid Highland
+Badlands
+Cliffs
+Red Desert
+Thicket
+Entities
+§eThorn Bracers
+§eLeggings of the Glacier
+§eAxe of Blazing Cuts
+§eFrostFire Ring
+§eThunder Bracers
+§eHeavenly Fire Charm
+§eThunderstorm Staff
+§eWooden Plate
+§eFrostburn Bracers
+§eRooted Leggings
+§eCharm of the River Dragon
+§eTree Trunks
+§eThunder Atronach Helmet
+§eHammer of Thor
+§eSword of the Nature Spirit
+§eRing of Unlimited Endurance
+§eVampire Staff
+§eStaff of Permafrost
+§eLightning Coil Leggings
+§eArmor of the Thunderstorm
+§eThief's Chestplate
+§eMountain Breaker
+§eRing of Precision
+§eFlaming Steps
+§eThunderstorm Axe
+§eBlade of Doom
+§eFlaming Fists
+§eAmulet of the Glacier
+§eIce Steps
+§eFlame Atronach Helmet
+§eLightning Tendril Boots
+§eBurning Man Chestplate
+§eSpirit Spring Charm
+§eArmor of the Glacier
+§eCharm of Heavenly Tribulations
+§eIce Elemental Sword
+§eIce Seer Eyes
+§eHelmet of Mana
+§eRooted Thunder Bracers
+§eWorldbreaker Staff
+§eBurning Man Amulet
+§eInner Spirit Amulet
+§eAmulet of the Oak
+§eFlaming Leggings
+§eRing of Swiftness
+§eAmulet of the Thunderstorm
+§eLeaf Covering
+§eAxe of Frostfire
+§eStaff of Volcanoes
+§eShirt of the Arcane
+Fools fight for treasure, but I keep on living.
+Try to move me, I dare you.
+My efforts to merge elements shall not be in vain.
+I will attain perfect control.
+Dedication brings unparalleled might.
+Bath in flames, thrive!
+Controlled power can bring both energy and destruction.
+Do not try move me.
+Burn them all! With Ice of course.
+Embrace my roots.
+My path cannot be stopped.
+Nothing shall break my roots!
+I see sparks all around me.
+I will be safe when my enemies are dead.
+Forever lasting.
+I will pay any price to continue!
+All blood will be mine, eventually.
+What is frozen is as good as dead.
+Swallow flames, harness Lightning.
+Those who dared to follow had long since died.
+Come on, hit me!
+Not even mountains can bar my path!
+Strike with Accuracy, strike once.
+Fire brews wherever I walk.
+Sparks fly, heads roll.
+Toughest Opponents fear no pain.
+Harness Fire, wield it as your weapon. Incinerate them.
+Crystal clear and yet so incredibly tough.
+Ice forms wherever I walk.
+I see flames all around me.
+Sparks fly wherever I stand.
+What can't kill me only makes me glow brighter.
+My life may be limited, but I shine throughout it.
+I am a Fortress of pure Ice.
+Jade is only worth after it is polished.
+Energy is everywhere, it just begs to be grasped
+What mortals can't see belongs to me.
+Flow to me.
+Heavenly Lightning? I call it mana.
+Won't break? Smash harder!
+I will take down my enemies with me, in flames.
+One becomes two, two becomes four!
+I seek strength only in nature.
+Embrace my flames.
+Swift as the Wind.
+Command Thunder, command Energy.
+Nature comes to my aid.
+My efforts to merge elements shall not be in vain.
+Leave only ashes behind.
+The process of multiplying energy has just begun!
+Unknown Stat
+Physical Damage
+Armor Penetration
+Critical Damage
+Critical Hit
+Bonus Experience
+Sword Damage
+Axe Damage
+Staff Damage
+Hammer Damage
+Bow Damage
+Dodge
+Armor
+Spell Dodge
+Energy To Mana Conversion
+Mana To Energy Conversion
+Energy
+Mana
+Health
+Energy Regen
+Mana Regen
+Health Regen
+Life On Hit
+Mana On Hit
+Lifesteal
+Earth Atronach
+Frost Atronach
+Thunder Atronach
+Fire Atronach
+Barbarian
+Clumsy Scholar
+Crippled
+Diseased
+Lord of Thunderstorms
+Lord of Earthquakes
+Lord of Blizzards
+Lord of Volcanoes
+Armor on High Crit
+Lifesteal on High Crit
+Crit Damage on High Dodge
+Phys Damage on High Dodge
+Dodge on Low Crit
+Health on Low Crit
+Armor On Low Dodge
+Crit On Low Dodge
+Armored
+Elemental
+Golem
+Lucky
+Stealthy
+All Fire Damage
+All Nature Damage
+All Water Damage
+All Thunder Damage
+Attack Fire Damage
+Attack Nature Damage
+Attack Water Damage
+Attack Thunder Damage
+Fire Penetration
+Water Penetration
+Thunder Penetration
+Nature Penetration
+Fire Resist
+Water Resist
+Thunder Resist
+Nature Resist
+Spell Fire Damage
+Spell Water Damage
+Spell Nature Damage
+Spell Thunder Damage
+Thunder Spell to Attack DMG
+Water Spell to Attack DMG
+Fire Spell to Attack DMG
+Nature Spell to Attack DMG
+Fire to Water Conversion
+Fire to Thunder Conversion
+Fire to Nature Conversion
+Water to Fire Conversion
+Water to Thunder Conversion
+Water to Nature Conversion
+Thunder to Fire Conversion
+Thunder to Water Conversion
+Thunder to Nature Conversion
+Nature to Water Conversion
+Nature to Thunder Conversion
+Nature to Fire Conversion
+Fire to Water Transfer
+Fire to Thunder Transfer
+Fire to Nature Transfer
+Water to Fire Transfer
+Water to Thunder Transfer
+Water to Nature Transfer
+Thunder to Fire Transfer
+Thunder to Water Transfer
+Thunder to Nature Transfer
+Nature to Water Transfer
+Nature to Thunder Transfer
+Nature to Fire Transfer
+Ghost Projectile
+Homing Projectile
+Shining Light
+Zephyr's Speed
+Purity
+Energy Regen Buff
+Mana Regen Buff
+Block Strength
+Unlock your potential.
+Don't want it? Transform it!
+More power is always good, right?
+And soar to the skies.
+Do not gamble what you are not willing to lose.
+Who said your sword can't level with you?
+Hopefully works better than the last time.
+Turn trash into treasure!
+There is always a better choice
+There is always a better choice
+When there is hope, there is a way.
+I command you to change!
+I command you to change!
+Anything can change.
+Luck is Ethereal and yet affects everything.
+Luck is Ethereal and yet affects everything.
+Luck is Ethereal and yet affects everything.
+Luck is Ethereal and yet affects everything.
+You start to feel the essence of Luck.
+Grasp Luck with your own hands.
+Add a prefix
+Transform unique (same tier)
+Add another secondary stat
+Add a suffix
+Permanently adds a Chaos stat
+Increases item level
+Re-rolls all numbers on a gear
+Transform Common Item
+Re-rolls prefix
+Re-rolls suffix
+Transform any rarity gear into higher rarity
+Re-rolls numbers of a prefix
+Re-rolls numbers of a suffix
+Re-rolls unique stat numbers
+Infuses an item with Attack Modifiers
+Infuses an item with Defense Modifiers
+Infuses an item with Resource Modifiers
+Used when attempting Infusion Upgrading
+Used when attempting Infusion Upgrading
+Used when attempting Infusion Upgrading
+You have Leveled Up!
+Weapon Durability is Too Low.
+Teleport Canceled, Please don't move while teleporting.
+Teleport has begun, please stay put.
+You aren't inside a map world!
+This world doesn't appear to exist, the time probably ran out.
+You can't enter this world, it is closed and is set for deletion.
+You are traveling to a Map World of dimension Id:
+Maximum Player Count for this Map has been reached.
+Not a map world or was probably closed after time ran out. Deleting portal block.
+You are too low level.
+Not Enough Mana
+Not Enough Energy
+You can't delete this world
+This map world has run out of time, teleporting players back
+Time Ticks away, remaining Map time is:
+Player died in a Map World:
+Map Time penalty activated
+A piece of gear is too high level for you, no stats added!
+Minutes
+You have successfully leveled up an entity!
+You have successfully leveled down an entity!
+Successfully increased rarity of an entity!
+Successfully decreased rarity of an entity!
+No targets found
+Not Enough Experience
+Cannot be higher than maximum level!
+has died by the hands of
+A mysterious flying building has spawned somewhere near a certain player?
+Infusion Successful!
+This Infusion was incredibly Successful!
+Infusion Failed.
+The Infusion failed horribly.
+Sword
+Axe
+Bow
+Hammer
+Staff
+Pants
+Chest
+Boots
+Helmet
+Ring
+Charm
+Bracelet
+Necklace
+Shield
+Common
+Uncommon
+Rare
+Epic
+Legendary
+Mythical
+Unique
+Adventure Map
+Put in Map Device to Use
+Client
+Server
+Droprates
+Mine and Slash
+Lenghty Gear Tooltips
+Non Mod Heal Multiplier
+Other Entities
+Maps Start To Drop at Lvl
+Unarmed Energy Cost
+Currency Start To Drop at Lvl
+Rarity Weights
+Map ID Start
+Map IDs Reserved
+Map Dimensions Config
+Dimensions Config
+Base Player Stats
+Loot Multiplier
+Experience Multiplier
+Currency Droprate
+Spell Droprate
+Map Droprate
+Unique Droprate
+Gear Droprate
+Compatible Items Droprate
+Item on Ground Rarity Particles
+Show Chat Combat Log
+Show Floating Damage Numbers
+Show Mob Health Bar
+Show Low Resource (Mana, Energy) Warnings
+Show Floating Experience Numbers
+Player GUI Overlay Type
+Mob Lvl Per Distance
+Mob Lvl 1 Area
+Player Lvl Cap
+Normal World Mob Lvl Cap
+Exp Multiplier
+Level ups cost tokens
+Max Players in Map
+Entities under System
+Non Mod Damage Multiplier
+Maximum Mob Level
+Minimum Mob Level
+Dimension ID
+Items Under System
+Crafted Items are Under System
+[Shift]: Info, [Ctrl]: Show Enchants
+Affix Rarity Loot Bonus
+§7Auto Salvage Bag
+§aAuto Salvage Bag
+§eAuto Salvage Bag
+§9Auto Salvage Bag
+§6Auto Salvage Bag
+§dAuto Salvage Bag
+§7MOS - Common Rune 
+§aMOS - Uncommon Rune 
+§eMOS - Rare Rune 
+§9MOS - Epic Rune 
+§6MOS - Legendary Rune 
+§dMOS - Mythical Rune 
+§7GOH - Common Rune 
+§aGOH - Uncommon Rune 
+§eGOH - Rare Rune 
+§9GOH - Epic Rune 
+§6GOH - Legendary Rune 
+§dGOH - Mythical Rune 
+§7ANO - Common Rune 
+§aANO - Uncommon Rune 
+§eANO - Rare Rune 
+§9ANO - Epic Rune 
+§6ANO - Legendary Rune 
+§dANO - Mythical Rune 
+§7ITA - Common Rune 
+§aITA - Uncommon Rune 
+§eITA - Rare Rune 
+§9ITA - Epic Rune 
+§6ITA - Legendary Rune 
+§dITA - Mythical Rune 
+§7RAH - Common Rune 
+§aRAH - Uncommon Rune 
+§eRAH - Rare Rune 
+§9RAH - Epic Rune 
+§6RAH - Legendary Rune 
+§dRAH - Mythical Rune 
+§7DOS - Common Rune 
+§aDOS - Uncommon Rune 
+§eDOS - Rare Rune 
+§9DOS - Epic Rune 
+§6DOS - Legendary Rune 
+§dDOS - Mythical Rune 
+§7CEN - Common Rune 
+§aCEN - Uncommon Rune 
+§eCEN - Rare Rune 
+§9CEN - Epic Rune 
+§6CEN - Legendary Rune 
+§dCEN - Mythical Rune 
+§7BER - Common Rune 
+§aBER - Uncommon Rune 
+§eBER - Rare Rune 
+§9BER - Epic Rune 
+§6BER - Legendary Rune 
+§dBER - Mythical Rune 
+§7VOH - Common Rune 
+§aVOH - Uncommon Rune 
+§eVOH - Rare Rune 
+§9VOH - Epic Rune 
+§6VOH - Legendary Rune 
+§dVOH - Mythical Rune 
+§7XAH - Common Rune 
+§aXAH - Uncommon Rune 
+§eXAH - Rare Rune 
+§9XAH - Epic Rune 
+§6XAH - Legendary Rune 
+§dXAH - Mythical Rune 
+§7Common Big Spell Loot Box 
+§aUncommon Big Spell Loot Box 
+§eRare Big Spell Loot Box 
+§9Epic Big Spell Loot Box 
+§6Legendary Big Spell Loot Box 
+§dMythical Big Spell Loot Box 
+§7Common Medium Spell Loot Box 
+§aUncommon Medium Spell Loot Box 
+§eRare Medium Spell Loot Box 
+§9Epic Medium Spell Loot Box 
+§6Legendary Medium Spell Loot Box 
+§dMythical Medium Spell Loot Box 
+§7Common Small Spell Loot Box 
+§aUncommon Small Spell Loot Box 
+§eRare Small Spell Loot Box 
+§9Epic Small Spell Loot Box 
+§6Legendary Small Spell Loot Box 
+§dMythical Small Spell Loot Box 
+§7Common Big Currency Loot Box 
+§aUncommon Big Currency Loot Box 
+§eRare Big Currency Loot Box 
+§9Epic Big Currency Loot Box 
+§6Legendary Big Currency Loot Box 
+§dMythical Big Currency Loot Box 
+§7Common Medium Currency Loot Box 
+§aUncommon Medium Currency Loot Box 
+§eRare Medium Currency Loot Box 
+§9Epic Medium Currency Loot Box 
+§6Legendary Medium Currency Loot Box 
+§dMythical Medium Currency Loot Box 
+§7Common Small Currency Loot Box 
+§aUncommon Small Currency Loot Box 
+§eRare Small Currency Loot Box 
+§9Epic Small Currency Loot Box 
+§6Legendary Small Currency Loot Box 
+§dMythical Small Currency Loot Box 
+§7Common Big Gear Loot Box 
+§aUncommon Big Gear Loot Box 
+§eRare Big Gear Loot Box 
+§9Epic Big Gear Loot Box 
+§6Legendary Big Gear Loot Box 
+§dMythical Big Gear Loot Box 
+§7Common Medium Gear Loot Box 
+§aUncommon Medium Gear Loot Box 
+§eRare Medium Gear Loot Box 
+§9Epic Medium Gear Loot Box 
+§6Legendary Medium Gear Loot Box 
+§dMythical Medium Gear Loot Box 
+§7Common Small Gear Loot Box 
+§aUncommon Small Gear Loot Box 
+§eRare Small Gear Loot Box 
+§9Epic Small Gear Loot Box 
+§6Legendary Small Gear Loot Box 
+§dMythical Small Gear Loot Box 
+Scales
+Stone
+Radiance
+Thief
+Magician
+Zephyr
+Ghost
+Follower
+Light
+Mountain
+Zeal
+Magma
+Bloom
+Purity
+Infinity
+Profound Sea
+Limitless
+Your Single Target Spell Projectiles now Home in on the target.
+Your Self Heal Spells now grant you AoE Regen.
+Your Self Heal Spells now boost your speed temporarily.
+Your Single Target Spell Projectiles now go through enemies.
+Your Self Heal Spells now cure you of a negative effect.
+Killing Blows with Bomb Spells grant you Energy Regen.
+Killing Blows with Bomb Spells grant you Mana Regen.
+Stats on Weapon
+Stats on Armor
+Stats on Jewelry
+Place in Item Modify Table
+Unlocks RuneWord Combination
+RuneWord
+Automatically salvages items
+Gears
+Spells
+Maps
+Runes
+None
+Bonus salvage chance
+Works If Equipped
+Press Shift For Setup Info
+Place An Item Of Maximum Rarity You want to
+salvage in your off-hand.
+Then right click with this bag.
+To Not Salvage Any Items, clear the config by
+Right Clicking the bag while shield slot is empty.

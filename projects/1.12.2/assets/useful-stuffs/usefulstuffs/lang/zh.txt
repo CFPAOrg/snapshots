@@ -1,0 +1,243 @@
+Useful Stuffs
+Light Shooter
+Light Shooter
+Umbrella
+Water Filter
+Compact Storage Unit
+Bento Box
+Building Wand
+Infinite Building Wand
+Building Wizard
+Packing Glue
+FlipFlop Core
+Belt of Floating Lily
+Storage Bag
+White Berry
+Orange Berry
+Magenta Berry
+Light Blue Berry
+Yellow Berry
+Lime Berry
+Pink Berry
+Gray Berry
+Light Gray Berry
+Cyan Berry
+Purple Berry
+Blue Berry
+Brown Berry
+Green Berry
+Red Berry
+Black Berry
+Belt of Fiery Lily
+Backpack
+Mining Backpack
+Water Source
+Milk Bag
+Milk Bag (Empty)
+Milk Bag (Fermented)
+Milk Bag (Partially Fermented)
+Cheese
+Bow of Sunshine
+Light Battery
+Triangular Prism
+Universal Core
+Charm of Potato (WIP)
+Ring of Stabilizing
+Basic Fluid Container
+Better Fluid Container
+Advanced Fluid Container
+Reinforced Fluid Container
+Extraordinary Fluid Container
+Basic Fluid Container (Place)
+Better Fluid Container (Place)
+Advanced Fluid Container (Place)
+Reinforced Fluid Container (Place)
+Extraordinary Fluid Container (Place)
+Basic Fluid Container (Fill)
+Better Fluid Container (Fill)
+Advanced Fluid Container (Fill)
+Reinforced Fluid Container (Fill)
+Extraordinary Fluid Container (Fill)
+Fortress Compass
+Light Bulb
+Well of Water Fall
+Rain Detector
+Campfire of Traveller's Wisdom
+Unstackable Filing Cabinet
+NBT Filing Cabinet
+T-FlipFlop
+Glued Box
+White Berry Bush
+Orange Berry Bush
+Magenta Berry Bush
+Light Blue Berry Bush
+Yellow Berry Bush
+Lime Berry Bush
+Pink Berry Bush
+Gray Berry Bush
+Light Gray Berry Bush
+Cyan Berry Bush
+Purple Berry Bush
+Blue Berry Bush
+Brown Berry Bush
+Green Berry Bush
+Red Berry Bush
+Black Berry Bush
+Portal Muffler
+Player Detector
+Fiery Lily
+Milk Fermenter
+Universal User
+Tank Frame
+Stone Pressure Plate (Inverted)
+Wooden Pressure Plate (Inverted)
+Crafting ingredient
+§o<Hold Shift for details>
+§lWIP Item/Block
+Ammo: %1$s/%2$s
+Right click to launch
+Shift-Right click to open GUI
+Combined with a hopper, automatically load when Light Bulbs being picked up
+Draw %s light unit per shot
+Using charge from battery has been disabled in config
+Automatically fill the %1$sx%2$s area around it
+TransferRate: %smB per tick*side
+Install to a Well of Water Fall to prevent it from sending water to certain sides of blocks
+Shift+Right click to bind a side of the block
+Right click on a Well to install
+Place logs in the 5x5 area beneath it to boost the effect
+Acquire from lighting a log up while sneaking
+1080 slots for unstackable items
+1080 slots for stacks with NBT
+Holds 6 stacks of food
+Place blocks from the block player looking at to the player
+Put block in offhand to specify blocks to be placed
+MaxRange: %s blocks
+MaxRange: %1$s blocks, %2$sUnlimited durability
+Nothing is in the box
+If you get this in the game, report to the author
+Block Stored: %s
+Cannot pick up unbreakable blocks!
+Shift-Right click to pick a block up
+The durability cost per operation depends on the block.Try to enchant Frugal on this
+Haven't tried Potion of Floating Lily?It makes you float on the water!
+Provide extra 27 slots
+Press %s to switch between them and your current toolbar
+Mute the sound of Nether Portal nearby it
+You are too noisy, man
+Emits redstone signal when there is a player in the %1$sx%2$sx%3$s area around it
+Immune to Fire Damage!
+When equipped on head, falling damage is reduced by 30%s
+When equipped on bauble slot, press %s to open backpack
+This backpack already has another backpack in it !
+Just a normal backpack
+Automatically collect mining resources
+Shift-Right click to open config gui, Equip on bauble slot to make Auto-Pickup work
+Ferments the milk in a milk bag into cheese
+%s/8 buckets of milk
+%s/8 bucket of milk
+%s fermented
+Put in a Milk Fermenter to make cheese
+Shift+Right click to load, Right click to use
+Fill this with 2 buckets of water to make this a infinite source
+Right click to place, Shift+Right click to fill
+Right click to fill
+Good to Health!
+Fire arrows of light!
+Charges itself when exposed to sunlight
+Well, moonlight is reflection of sunlight actually
+%s/400 light unit
+Provides light unit to gadgets that use light
+%s/32000 light unit
+Charges itself when exposed to sunlight
+Do the re-charge thingy in one machine!
+Being a couch potato, one can sleep at any time he want.
+Stabilize your pose
+Work along with Tank Frame, put this inside to form a tank
+Work as a big bucket, Shift-Right click to toggle mode
+Fluid: %s
+Amount: %1$s/%2$s mB
+Mode: Place
+Mode: Fill
+Work along with Fluid Containers, put them inside to form a tank
+Right click with a Fluid Container to insert, Shift-Right click with empty hand to take out, or use a pipe
+Leads you to the nearest nether fortress
+Right click in nether to update the compass
+Prevent Well of Water Fall to insert water into a set of specific block's sides.
+Shift-Right click a side of a block to bind, and Right click on the well to insert.
+Shoots Light Bulbs. Shift-Right click to open the container.
+Prefer drawing 250 light unit per shot if there is a light battery in the inventory.
+Will automatically put the picked up light bulbs into its container.
+Shift-Right click to pick up a block. The durability used depends on the block's properties (hardness, amount of states, isTileEnt). Enchant with Frugal can reduce the durability cost.
+Craft with slime balls to refill the durability.
+Reduce falling damage when equipped on head.
+Makes you float on water like a lily-pad.
+Provide 27 extra slots, press Useful Key to switch between them and the hotbar.
+Lily belt with fire resistance!
+A normal backpack. Press Useful Key to open the container when in Bauble slot.
+A mining backpack that will auto-collect mining resources. Press Useful Key to open the container when in Bauble slot.
+Shift-Right click to open configuration.
+Gathered from milk bag with fermented milk. Very good to your health.
+Buffs player inside a range. Place logs in the 5x5 area above it to increase the range. The maximum diameter is 16.
+Consumes fuel to work, the bigger the radius, the faster the fuel goes out.
+Sneak-Right click a log with a Flint and Steel to craft.
+The craft is disabled in config.
+Capable of storing 1080 unstackable items, and only capable of storing unstackables.
+Capable of storing 1080 stacks that has NBT data, and only capable of storing them.
+Transfers water to the surrounding area. Can be filtered with a Water Filter.
+Shuts the mouth of the nether portal beside it.
+Emit redstone signal if there is a player nearby.
+Emit redstone signal if there is a player nearby the area it is facing.
+Naturally generated above the lava sea in the nether.
+A machine that will simulate actions of a player with the recharge functionality planted in. No more piping in and out.
+An alternative food source, can be used in dyes in recipes.
+Stores 8 buckets worth of milk inside. Put inside a Milk Fermenter to make cheese. Drinking partially fermented milk is known bad to health.
+%sx√buckets ticks
+A bow that shoots arrow of light, recharge using the sunlight. The charging speed depends on the position of the sun. Those which are blessed by Artemis seem to be able to recharge using the moonlight.
+A battery that stores light, can provide energy to gadgets which use light.
+There is a chance that chickens will drop them when falling.
+Enabled in UsefulStuffs config.
+Makes player able to get on bed even it is not night time. The power of couch potato will make you fall asleep immediately, straight to the start of the next day.
+Only works when there is exact one player in the world. (WIP Item)
+Remove the mining speed debuff when you are not on the ground.
+Work as a big bucket, Shift-Right click to toggle mode.
+Work along with Fluid Containers.
+Right click a Tank Frame with a Fluid Container or use a pipe to form a tank, Shift-Right click with empty hand to take the Fluid Container out.
+Leads you to the nearest nether fortress.
+Right click in nether to update the compass.
+Milk Fermenter
+Forming a Tank
+Collecting Cheese
+LightBulb
+Potion of Floating LilyPad
+Splash Potion of Floating LilyPad
+Lingering Potion of Floating LilyPad
+Li-ly
+Arrow of Floating LilyPad
+Potion of Fiery LilyPad
+Splash Potion of Fiery LilyPad
+Lingering Potion of Fiery LilyPad
+Fiery Li-ly
+Arrow of Fiery LilyPad
+Potion of Parachute
+Splash Potion of Parachute
+Lingering Potion of Parachute
+Parachute
+Arrow of Parachute
+%s Filing Cabinet
+Campfire of Traveller's Wisdom
+BuffDiameter:%s
+Milk Fermenter
+Universal User
+UsefulStuffs
+Useful Key
+Frugal
+Reduce the durability cost of Packing GLue
+Blessing of Artemis
+Makes the light-using gadgets able to charge during the night
+Fast Draw
+Increase the draw speed of bows
+Endest
+End-er than the Enders. Arrows damage Endermen
+Look at yourself. A couch potato.
+You can only sleep at night ( %s )

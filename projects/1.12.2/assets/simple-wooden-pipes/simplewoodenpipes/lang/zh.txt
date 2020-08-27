@@ -1,0 +1,4 @@
+Wooden Pipe
+Pump
+Not suitable for Fluids with high temperature!
+Right click with a Piston to enable Fluid Extraction

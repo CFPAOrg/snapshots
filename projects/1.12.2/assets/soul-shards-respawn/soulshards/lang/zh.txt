@@ -1,0 +1,38 @@
+Soul Shards Respawn
+Soul Shard
+Unbound Soul Shard
+Corrupted Ingot
+Corrupted Essence
+Vile Dust
+Vile Sword
+Soul Cage
+Bound to: %s
+Souls: %d
+Tier: %d
+Owner: %s
+Cage Born
+Soul Stealer
+Wither Skeleton
+§cThe shard seems to refuse the trapped soul...
+§2Killed §2%d §2entities
+§cDid not find any spawned entities
+/soulshards [setEnt|setKills|setOwner|killall]
+/soulshards setEnt <entityId>
+Set bound entity of held shard to %s.
+/soulshards setKills <killCount>
+Set kill count of held shard to %d.
+/soulshards setOwner [owner]
+Set owner of held shard to %s.
+/soulshards killall
+Killed %d cage born entities.
+Held item is not a Soul Shard.
+%s is invalid or not registered.
+Soul Stealer
+Additional souls per kill for your Soul Shards
+Obtained Souls: +%s
+Vile
+Adds an additional soul per kill to your Soul Shard
+Corrupted
+Molten Corruption
+Increases the souls collected per kill by one per level.
+A vessel for the Souls of the slain.\n\nObtained by creating a structure in the world and using a %s on the origin block.

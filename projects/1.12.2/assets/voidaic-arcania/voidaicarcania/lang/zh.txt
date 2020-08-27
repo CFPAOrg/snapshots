@@ -1,0 +1,225 @@
+Name
+§aShard of Creation
+§8Voidic Shard
+§8Bottle of Voidic Essence
+Voidic Crystal (Tier 1)
+Voidic Crystal (Tier 2)
+Voidic Crystal (Tier 3)
+§6Cowl of The Never-Ending Feast
+§6Cowl of The Never-Ending Feast
+§6Cowl of The Reaper
+§6Cowl of The Reaper
+§6Cloak of The Aether
+§6Cloak of The Aether
+§6Cloak of Invisibility
+§6Cloak of Invisibility
+§6Amulet of Shielding
+§6Amulet of Shielding
+§6Amulet of The Inverse
+§6Amulet of The Inverse
+§6Charm of Removal
+§6Charm of Removal
+§6Charm of Explosive Blows
+§6Charm of Explosive Blows
+§6Belt of Strength
+§6Belt of Strength
+§6Belt of Resistance
+§6Belt of Resistance
+§aOrb of Creation
+§8Voidic Orb of Creation
+§1Luna Orb
+Void Bulb
+Floatshroom
+Glowgrowth
+Voidaic Camellia
+Void Melon Seed
+Starbloom
+Neddlesprout
+Featherweed
+Moon Mint
+Infused Ingot
+Liquid Mercury
+Enargite Ingot
+Sortigellium Ingot
+Astralite Ingot
+Mythril Ingot
+Obsidium Ingot
+Daemonite Ingot
+Lunatite Ingot
+Mushroom Stew
+Mushroom Stew
+Mushroom Stew
+Mushroom Stew
+Mushroom Stew
+Mushroom Stew
+Mushroom Stew
+Rabbit Stew
+Rabbit Stew
+Rabbit Stew
+Rabbit Stew
+Rabbit Stew
+Rabbit Stew
+Rabbit Stew
+Beetroot Soup
+Beetroot Soup
+Beetroot Soup
+Beetroot Soup
+Beetroot Soup
+Beetroot Soup
+Beetroot Soup
+Bread
+Bread
+Bread
+Bread
+Bread
+Bread
+Bread
+Cookie
+Cookie
+Cookie
+Cookie
+Cookie
+Cookie
+Cookie
+Pumpkin Pie
+Pumpkin Pie
+Pumpkin Pie
+Pumpkin Pie
+Pumpkin Pie
+Pumpkin Pie
+Pumpkin Pie
+Chorus Fruit Tea
+Dwarven Brick
+Spell Paper
+§5Void Star
+Voidheart
+Shulker Bullet
+Void Crystal
+Cinnabar
+Wraith Wisp
+Transformative Root
+Nether Core
+Mythril Helm
+Mythril Chestplate
+Mythril Leggings
+Mythril Boots
+Mythril Blade
+Mythril Shovel
+Mythril Pickaxe
+Mythril Axe
+Mythril Hoe
+Enargite Helm
+Enargite Chestplate
+Enargite Leggings
+Enargite Boots
+Enargite Sword
+Enargite Shovel
+Enargite Pickaxe
+Enargite Axe
+Enargite Hoe
+Astralite Helm
+Astralite Chestplate
+Astralite Leggings
+Astralite Boots
+Astralite Shovel
+Astralite Pickaxe
+Astralite Battleaxe
+Astralite Hoe
+Sortigellium Sword
+Sortigellium Shovel
+Sortigellium Pickaxe
+Sortigellium Axe
+Sortigellium Hoe
+Voidic Altar
+Arcane Botanical Altar
+Mortal Furnace
+Reflection Pool
+Voidrock
+Voidrock Pillar
+Voidrock Tiles
+Cracked Voidrock Tile
+Polished Voidrock
+Cinnabar Ore
+Peacock Ore
+Netherheart Ore
+Void Sand
+Arcane Earth
+Voidaic Mass
+Void Mist
+Lantern Stem
+Voidaic Lantern
+Void Glass
+Void Crystal Block
+Void Flower
+Void Bulb Crop
+Floatshroom Crop
+Glowgrowth Crop
+Void Weed
+Tall Void Weed
+Void Melon
+Dark Camellia Bush
+Void Melon Crop
+Feather Weed Crop
+Moon Mint Crop
+Neddlesprout Crop
+Starbloom Crop
+Dwarven Bricks
+Dwarven Brick Stairs
+Dwarven Lantern
+Dark Brick
+Carved Dark Brick
+Dark Marble
+Whitewood Log
+Whitewood Leaves
+Whitewood Planks
+Whitewood Stairs
+Whitewood Slab
+Voidic Totem
+Block of Infused Metal
+Block of Enargite
+Block of Astralite
+Block of Mythril
+Block of Frozen Mercury
+Block of Daemonite
+Construct Base
+§5Eye Of The Construct
+TestBlock-ModMCdl
+§dCam's Super Secret Stick
+Alchemy
+Void Walker
+§5Voidaic Arcania
+§5Voidaic Alchemy
+§5Voidaic Metallurgy
+Void Wraith
+Voidic Construct
+Heart of The Void
+Heart of The Void
+Void Daemon
+Altar
+Arcane Botanical Altar
+Mortal Furnace
+Life Steal
+Void Touch
+%1$s was touched by the void...
+A Peculiar Discovery
+Make an Orb of Creation
+A Dark Awakening
+Find, or Create, a Voidic Shard
+Powerplay
+Create the Superior Voidic Orb of Creation
+The Beginnings of Something Big
+Create an Altar
+Flower Power
+Obtain an Arcane Botanical Altar
+Into The Unknown
+Travel to The Void...
+Heavy Metal
+Create an Infused Ingot
+Desaturation
+That rainbow ore makes whaaaaat?
+java.lang.StackOverflowError
+Collect a stack of all ingots and plants from Voidaic Arcania
+The Chosen One
+Defeat the Heart of The Void
+Master of The Void
+Obtain all 10 active baubles

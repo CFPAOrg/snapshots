@@ -1,0 +1,1654 @@
+DivineRPG: Blocks
+DivineRPG: Ranged Weapons
+DivineRPG: Melee Weapons
+DivineRPG: Tools
+DivineRPG: Raw Materials
+DivineRPG: Armor
+DivineRPG: Spawner
+DivineRPG: Utility
+DivineRPG: Food and Agriculture
+DivineRPG: Vethea
+Divine Sapling
+Rupee Ore
+Arlemite Ore
+Realmite Ore
+Bloodgem Ore
+Netherite Ore
+Rupee Block
+Arlemite Block
+Realmite Block
+Bloodgem Block
+Netherite Block
+Spider Pumpkin
+Ender Pumpkin
+Creeper Pumpkin
+Skeleton Pumpkin
+Blaze Pumpkin
+Zombie Pumpkin
+Frost Pumpkin
+Cyclops Pumpkin
+Ghast Pumpkin
+Glacon Pumpkin
+Ender Watcher Pumpkin
+Jungle Spider Pumpkin
+Hellspider Pumpkin
+Aqua Torch
+Skeleton Torch
+Checker
+Rainbow Wool
+Crate
+Plank Design
+Blue Stone
+Blue Vane
+Cyan Vane
+Purple Vane
+Red Vane
+Yellow Vane
+Divine Rock
+Smoldering Tar
+Asphalt
+Fancy Wool
+Teal Steel
+Red Steel
+Purple Steel
+Green Steel
+Yellow Steel
+Blue Steel
+White Steel
+Black Steel
+Orange Steel
+Bright Red Steel
+Aquatonic Bricks
+Arlemite Bricks
+Darkstone Bricks
+Diamond Bricks
+Gold Bricks
+Green Bricks
+Iron Bricks
+Lapis Lazuli Bricks
+Lava Bricks
+Netherite Bricks
+Pink Bricks
+Purple Bricks
+Realmite Bricks
+Redstone Bricks
+Eden Bricks
+Wildwood Bricks
+Apalachia Bricks
+Skythern Bricks
+Milk Stone Bricks
+Rupee Minibricks
+Realmite Minibricks
+Arlemite Minibricks
+Minibricks
+Bloodgem Minibricks
+Netherite Minibricks
+Bedrock Minibricks
+Aqua Lamp
+Arlemite Lamp
+Blaze Lamp
+Bluefire Lamp
+Diamond Lamp
+Divine Lamp
+Draken Lamp
+Eden Lamp
+Ender Lamp
+Ender Stone Lamp
+Gold Lamp
+Ice Lamp
+Jungle Lamp
+Kraken Lamp
+Lapis Lazuli Lamp
+Lava Lamp
+Milky Lamp
+Molten Lamp
+Netherite Lamp
+Realmite Lamp
+Redstone Ore Lamp
+Rupee Lamp
+Terran Lamp
+Milk Stone
+Darkstone
+Spike Block
+Hot Spike Block
+Slime Light
+Dark Bridge
+Blue Fence
+Red Fence
+Green Fence
+Blue Fence
+Red Fence
+Green Fence
+Ayeraco Spawn
+Sunstorm Statue
+Termasect Statue
+King of Scorchers Statue
+Ancient Entity Statue
+Blue Ayeraco Statue
+Red Ayeraco Statue
+Green Ayeraco Statue
+Purple Ayeraco Statue
+Yellow Ayeraco Statue
+Twilight Demon Statue
+Vamacheron Statue
+Densos Statue
+Reyvor Statue
+Dramix Statue
+Soul Fiend Statue
+The Watcher Statue
+Eternal Archer Statue
+Karot Statue
+Parasecta Statue
+Tomato Plant
+Mushroom Plant
+Divine Log
+Divine Leaves
+Divine Moss Stone
+Enthralled Dramcryx Spawner
+Rotatick Spawner
+Divine Planks
+Divine Stairs
+Divine Slab
+Altar of Corruption
+Bone Chest
+Frozen Dirt
+Frozen Grass
+Frozen Stone
+Frozen Log
+Brittle Leaves
+Frozen Planks
+Frozen Stairs
+Frozen Slab
+Winterberry Bush
+Ripe Winterberry Bush
+Icy Stone
+Icy Bricks
+Frosted Chest
+Decorative Frosted Chest
+Rollum Spawner
+Frost Archer Spawner
+Snow Bricks
+Coalstone
+Coalstone Stairs
+Workshop Carpet
+Frosted Glass
+Workshop Bookcase
+Workshop Lamp
+Red Christmas Lights
+Green Christmas Lights
+Blue Christmas Lights
+Yellow Christmas Lights
+Purple Christmas Lights
+Blue Candy Cane
+Green Candy Cane
+Pink Candy Cane
+Red Candy Cane
+Yellow Candy Cane
+Present Box
+Iceika Fire
+Iceika Portal
+Frozen Sapling
+Vethea Portal
+Vermenous Spawner
+Twins Spawner
+Biphron Spawner
+Gorgosion Spawner
+Hive Egg
+Wreck Altar
+Quadrotic Altar
+Karos Altar
+Raglok Altar
+Lunic Altar
+Dream Stone
+Dream Dirt
+Dream Grass
+Fire Crystal
+Dreamwood Log
+Dreamwood Leaves
+Light Dream Bricks
+Dark Dream Bricks
+Luna Stone
+Luna Brick
+Metal Caging
+Dream Lamp
+Weedwood Vine
+Blossomed Weedwood Vine
+Crypt Wall
+Smooth Glass
+Village Lamp
+Cell Lamp
+Barred Door
+Firelight
+Hyrewood Log
+Mintwood Leaves
+Red Dream Bricks
+Karos Heat Tile Green
+Karos Heat Tile Red
+Firewood Log
+Bacterial Acid
+Acid Block
+Sunstorm Spawner
+Termasect Spawner
+Eternal Archer Spawner
+Experienced Cori Spawner
+Lunic Acid
+Firewood Leaves
+Hyrewood Leaves
+Purple Dulah
+Yellow Dulah
+Green Dulah
+Mintwood Log
+Fernite
+Bulbatobe
+Shine Grass
+Shimmer
+Hive Wall
+Dreamglow
+Hyrewood Vine
+Chamber Wall
+Shifted Chamber Wall
+Stacked Chamber Wall
+Green Everstone
+White Everstone
+Dark Everstone
+Black Hungerstone
+Green Hungerstone
+Crypt Floor
+Hall Wall
+Blue Karos Bricks
+Black Karos Bricks
+Infusion Table
+Heliotic Beam
+Karos Dispenser
+Nightmare Bed Block
+Eden Dirt
+Wildwood Dirt
+Apalachia Dirt
+Skythern Dirt
+Mortum Dirt
+Eden Grass
+Wildwood Grass
+Apalachia Grass
+Skythern Grass
+Mortum Grass
+Eden Ore
+Wildwood Ore
+Apalachia Ore
+Skythern Ore
+Mortum Ore
+Eden Block
+Wildwood Block
+Apalachia Block
+Skythern Block
+Mortum Block
+Eden Sapling
+Wildwood Sapling
+Apalachia Sapling
+Skythern Sapling
+Mortum Sapling
+Eden Leaves
+Wildwood Leaves
+Apalachia Leaves
+Skythern Leaves
+Mortum Leaves
+Eden Log
+Wildwood Log
+Apalachia Log
+Skythern Log
+Mortum Log
+Eden Planks
+Wildwood Planks
+Apalachia Planks
+Skythern Planks
+Mortum Planks
+Eden Stairs
+Wildwood Stairs
+Apalachia Stairs
+Skythern Stairs
+Mortum Stairs
+Eden Slab
+Wildwood Slab
+Apalachia Slab
+Skythern Slab
+Mortum Slab
+Twilight Stone
+Wildwood Vine
+Blue Fire
+Eden Portal
+Wildwood Portal
+Apalachia Portal
+Skythern Portal
+Mortum Portal
+Eden Torch
+Eden Chest
+Apalachia Rails
+Moonbulb Plant
+Purple Glowbone Plant
+Pink Glowbone Plant
+Sky Plant
+Sunbloom
+Eden Brush
+Sun Blossom
+Moonlight Fern
+Moon Bud
+Wildwood Tallgrass
+Dusk Flower
+Dusk Bloom
+Apalachia Tallgrass
+Skythern Brush
+Dust Lily
+Dust Brambles
+Demon Brambles
+Eye Plant
+Mortum Brush
+Arcanite Dirt
+Arcanite Grass
+Arcanium Ore
+Arcanium Metal
+Arcanite Tubes
+Arcanium Power
+Dungeon Lamp
+Heat Trap
+Heat Trap
+Soul Stone
+Soul Sludge
+Degraded Brick
+Dark Degraded Brick
+Ancient Brick
+Ancient Stone
+Light Degraded Brick
+Stained Glass
+Dungeon Prisoner Spawner
+Razorback Spawner
+Death Hound Spawner
+Deathcryx Spawner
+Living Statue Spawner
+Roamer Spawner
+Ancient Tile
+Star Bridge
+Soul Sludge Door
+Ancient Brick Door
+Soul Stone Door
+Degraded Brick Door
+Dramix Altar
+Parasecta Altar
+Arcanium Extractor
+Arcana Portal
+Arcana Portal Frame
+Arcana Portal Frame
+Aquamarine Plant
+Eucalyptus Plant
+Hitchak Plant
+Veilo Plant
+Lamona Plant
+Marsine Plant
+Firestock Plant
+Pinfly Plant
+Eucalyptus
+Eucalyptus Planks
+Eucalyptus Log
+Eucalyptus Stairs
+Eucalyptus Slab
+Double Eucalyptus Slab
+Arcanium Torch
+Elevantium
+Arcanite Rails
+Acceleron
+Coalstone Furnace
+Coalstone Furnace
+Oceanfire Furnace
+Oceanfire Furnace
+Molten Furnace
+Molten Furnace
+Whitefire Furnace
+Whitefire Furnace
+Demon Furnace
+Demon Furnace
+Greenlight Furnace
+Greenlight Furnace
+Moonlight Furnace
+Moonlight Furnace
+Dark Bridge
+Slime Light
+Double Divine Slab
+Double Frozen Slab
+Double Eden Slab
+Double Wild Wood Slab
+Double Apalachia Slab
+Double Skythern Slab
+Double Mortum Slab
+White Mushroom
+Steel Door
+Truffle
+Luna Brick
+Crackle Spike
+Green Gem Top
+Purple Gem Top
+Dream Wrecker Spawner
+Experienced Cori Statue
+Iceika Chest
+Steel Door
+Soul Stone Door
+Soul Sludge Door
+Degraded Brick Door
+Ancient Brick Door
+Everfright Bow
+Bedrock Chunk
+Bacon
+Hot Pumpkin Pie
+Boiled Egg
+Cheese
+White Mushroom
+Advanced Mushroom Stew
+Chicken Dinner
+Tomato
+Donut
+Raw Empowered Meat
+Empowered Meat
+Magic Meat
+Enriched Magic Meat
+Snowflake
+Ice Shards
+Ice Stone
+Rupee Ingot
+Arlemite Ingot
+Realmite Ingot
+Shadow Bar
+Hellstone Ingot
+Netherite Ingot
+Bloodgem
+Jungle Shards
+Divine Shards
+Corrupted Shards
+Molten Shards
+Ender Shards
+Forbidden Fruit
+Terran Shards
+Cyclops Eye Shards
+Corrupted Bullet
+Jungle Stone
+Divine Stone
+Corrupted Stone
+Molten Stone
+Ender Stone
+Terran Stone
+Healing Stone
+Shadow Stone
+Aquatic Ingot
+Aquatic Pellets
+Pure Aquatic Pellets
+Cyclops Eye
+Crab Claw
+Legendary Ender Eye
+Shark Fin
+Whale Fin
+Liopleurodon Skull
+Liopleurodon Teeth
+Netherite Chunk
+Bluefire Stone
+Purple Blaze
+Fury Fire
+Aqua Ball
+Aquatic Blaze Rod
+Shadow Coins
+Green Diamond Chunk
+Gray Diamond Chunk
+Blue Diamond Chunk
+Red Diamond Chunk
+Yellow Diamond Chunk
+Bucket of Tar
+Mysterious Clock
+Watching Eye
+Call of the Watcher
+Infernal Flame
+Horde Horn
+White Mushroom Seeds
+Tomato Seeds
+Kraken Skin
+Kraken Scale
+Teleportation Crystal
+Eden Soul
+Wildwood Soul
+Apalachia Soul
+Skythern Soul
+Mortum Soul
+Eden Fragments
+Wildwood Fragments
+Apalachia Fragments
+Skythern Fragments
+Mortum Fragments
+Eden Gem
+Wildwood Gem
+Apalachia Gem
+Skythern Gem
+Mortum Gem
+Eden Chunk
+Wildwood Chunk
+Apalachia Chunk
+Skythern Chunk
+Mortum Chunk
+Eden Dust
+Wildwood Dust
+Apalachia Dust
+Skythern Dust
+Mortum Dust
+Twilight Clock
+Eden Sparkles
+Base Spawn Crystal
+Densos Crystal
+Karot Crystal
+Reyvor Crystal
+Soul Fiend Crystal
+Twilight Demon Crystal
+Vamacheron Crystal
+Eternal Archer Crystal
+Icicle Bane
+Icine Sword
+Enderice
+Snowslash
+Glacier Sword
+Frostking Sword
+Frozen Maul
+Frossivence
+Sound of Carols
+Sound of Music
+Frostclaw Cannon
+Fractite Cannon
+Snowflake Shuriken
+Serenade of Ice
+Egg Nog
+Peppermints
+Chocolate Log
+Snow Cones
+Fruit Cake
+Winterberry
+Icicle Bow
+Snowstorm Bow
+Santa Cap
+Santa Tunic
+Santa Pants
+Santa Boots
+Snow Globe
+Dirty Pearls
+Clean Pearls
+Polished Pearls
+Shiny Pearls
+Barred Door
+Teaker Lump
+Amthirmis Lump
+Darven Lump
+Cermile Lump
+Pardimal Lump
+Quadrotic Lump
+Karos Lump
+Heliosis Lump
+Arksiane Lump
+Teaker Disk
+Amthirmis Disk
+Darven Disk
+Cermile Disk
+Pardimal Disk
+Quadrotic Disk
+Karos Disk
+Heliosis Disk
+Arksiane Disk
+Teaker Staff
+Amthirmis Staff
+Darven Staff
+Cermile Staff
+Pardimal Staff
+Quadrotic Staff
+Karos Staff
+Heliosis Staff
+Arksiane Staff
+Honeysuckle
+Honeychunk
+Dream Carrot
+Dream Melon
+Dream Pie
+Dream Cake
+Dream Sweets
+Dream Sours
+Acid
+Band of Heiva Hunting
+Miner's Amulet
+Hammer Template
+Backsword Template
+Bow Template
+Cannon Template
+Claw Template
+Disk Template
+Staff Template
+Degraded Template
+Finished Template
+Glistening Template
+Demonized Template
+Tormented Template
+Teaker Cannon
+Amthirmis Cannon
+Darven Cannon
+Cermile Cannon
+Pardimal Cannon
+Quadrotic Cannon
+Karos Cannon
+Heliosis Cannon
+Arksiane Cannon
+Teaker Hammer
+Amthirmis Hammer
+Darven Hammer
+Cermile Hammer
+Pardimal Hammer
+Quadrotic Hammer
+Karos Hammer
+Heliosis Hammer
+Arksiane Hammer
+Teaker Backsword
+Amthirmis Backsword
+Darven Backsword
+Cermile Backsword
+Pardimal Backsword
+Quadrotic Backsword
+Karos Backsword
+Heliosis Backsword
+Arksiane Backsword
+Teaker Claw
+Amthirmis Claw
+Darven Claw
+Cermile Claw
+Pardimal Claw
+Quadrotic Claw
+Karos Claw
+Heliosis Claw
+Arksiane Claw
+Eversight
+Everlight
+Everbright
+Ever Arrow
+Everfright
+Evernight
+Karos Rockmaul
+Teaker Arrow
+Darven Arrow
+Pardimal Arrow
+Karos Arrow
+Teaker Bow
+Amthirmis Bow
+Darven Bow
+Cermile Bow
+Pardimal Bow
+Quadrotic Bow
+Karos Bow
+Heliosis Bow
+Arksiane Bow
+Dream Flint
+Moon Clock
+Rock Chunks
+Nightmare Bed
+Degraded Helmet
+Degraded Mask
+Degraded Hood
+Degraded Chestplate
+Degraded Leggings
+Degraded Boots
+Finished Helmet
+Finished Mask
+Finished Hood
+Finished Chestplate
+Finished Leggings
+Finished Boots
+Glistening Helmet
+Glistening Mask
+Glistening Hood
+Glistening Chestplate
+Glistening Leggings
+Glistening Boots
+Demonized Helmet
+Demonized Mask
+Demonized Hood
+Demonized Chestplate
+Demonized Leggings
+Demonized Boots
+Tormented Helmet
+Tormented Mask
+Tormented Hood
+Tormented Chestplate
+Tormented Leggings
+Tormented Boots
+Moonbulb
+Moonbulb Seeds
+Purple Glowbone
+Purple Glowbone Seeds
+Pink Glowbone
+Pink Glowbone Seeds
+Sky Flower
+Sky Plant Seeds
+Eden Helmet
+Eden Chestplate
+Eden Leggings
+Eden Boots
+Wildwood Helmet
+Wildwood Chestplate
+Wildwood Leggings
+Wildwood Boots
+Apalachia Helmet
+Apalachia Chestplate
+Apalachia Leggings
+Apalachia Boots
+Skythern Helmet
+Skythern Chestplate
+Skythern Leggings
+Skythern Boots
+Mortum Helmet
+Mortum Chestplate
+Mortum Leggings
+Mortum Boots
+Halite Helmet
+Halite Chestplate
+Halite Leggings
+Halite Boots
+Eden Blade
+Wildwood Blade
+Apalachia Blade
+Skythern Blade
+Mortum Blade
+Halite Blade
+Eden Slicer
+Wildwood Slicer
+Apalachia Slicer
+Skythern Slicer
+Mortum Slicer
+Halite Slicer
+Eden Blitz
+Wildwood Blitz
+Apalachia Blitz
+Skythern Blitz
+Mortum Blitz
+Halite Blitz
+Eden Phaser
+Wildwood Phaser
+Apalachia Phaser
+Skythern Phaser
+Mortum Phaser
+Halite Phaser
+Eden Arrow
+Wildwood Arrow
+Fury Arrow
+Eden Bow
+Wildwood Bow
+Apalachia Bow
+Skythern Bow
+Mortum Bow
+Halite Bow
+Twilight Bow
+Eden Pickaxe
+Wildwood Pickaxe
+Apalachia Pickaxe
+Skythern Pickaxe
+Mortum Pickaxe
+Eden Axe
+Wildwood Axe
+Apalachia Axe
+Skythern Axe
+Mortum Axe
+Eden Shovel
+Wildwood Shovel
+Apalachia Shovel
+Skythern Shovel
+Mortum Shovel
+Angelic Helmet
+Angelic Chestplate
+Angelic Leggings
+Angelic Boots
+Divine Helmet
+Divine Chestplate
+Divine Leggings
+Divine Boots
+Bedrock Helmet
+Bedrock Chestplate
+Bedrock Leggings
+Bedrock Boots
+Realmite Helmet
+Realmite Chestplate
+Realmite Leggings
+Realmite Boots
+Elite Realmite Helmet
+Elite Realmite Chestplate
+Elite Realmite Leggings
+Elite Realmite Boots
+Arlemite Helmet
+Arlemite Chestplate
+Arlemite Leggings
+Arlemite Boots
+Rupee Helmet
+Rupee Chestplate
+Rupee Leggings
+Rupee Boots
+Yellow Rupee Helmet
+Yellow Rupee Chestplate
+Yellow Rupee Leggings
+Yellow Rupee Boots
+Red Rupee Helmet
+Red Rupee Chestplate
+Red Rupee Leggings
+Red Rupee Boots
+Green Rupee Helmet
+Green Rupee Chestplate
+Green Rupee Leggings
+Green Rupee Boots
+Blue Rupee Helmet
+Blue Rupee Chestplate
+Blue Rupee Leggings
+Blue Rupee Boots
+Gray Rupee Helmet
+Gray Rupee Chestplate
+Gray Rupee Leggings
+Gray Rupee Boots
+Kraken Helmet
+Kraken Chestplate
+Kraken Leggings
+Kraken Boots
+Jack O Man Helmet
+Jack O Man Chestplate
+Jack O Man Leggings
+Jack O Man Boots
+Inferno Helmet
+Inferno Chestplate
+Inferno Leggings
+Inferno Boots
+Aquastrive Helmet
+Aquastrive Chestplate
+Aquastrive Leggings
+Aquastrive Boots
+Shadow Helmet
+Shadow Chestplate
+Shadow Leggings
+Shadow Boots
+Netherite Helmet
+Netherite Chestplate
+Netherite Leggings
+Netherite Boots
+Skeleman Helmet
+Skeleman Chestplate
+Skeleman Leggings
+Skeleman Boots
+Wither Reaper Helmet
+Wither Reaper Chestplate
+Wither Reaper Leggings
+Wither Reaper Boots
+Ender Helmet
+Ender Chestplate
+Ender Leggings
+Ender Boots
+Yellow Ender Helmet
+Yellow Ender Chestplate
+Yellow Ender Leggings
+Yellow Ender Boots
+Red Ender Helmet
+Red Ender Chestplate
+Red Ender Leggings
+Red Ender Boots
+Green Ender Helmet
+Green Ender Chestplate
+Green Ender Leggings
+Green Ender Boots
+Blue Ender Helmet
+Blue Ender Chestplate
+Blue Ender Leggings
+Blue Ender Boots
+Gray Ender Helmet
+Gray Ender Chestplate
+Gray Ender Leggings
+Gray Ender Boots
+Jungle Helmet
+Jungle Chestplate
+Jungle Leggings
+Jungle Boots
+Frozen Helmet
+Frozen Chestplate
+Frozen Leggings
+Frozen Boots
+Corrupted Helmet
+Corrupted Chestplate
+Corrupted Leggings
+Corrupted Boots
+Terran Helmet
+Terran Chestplate
+Terran Leggings
+Terran Boots
+Diamond Helmet
+Diamond Chestplate
+Diamond Leggings
+Diamond Boots
+Iron Helmet
+Iron Chestplate
+Iron Leggings
+Iron Boots
+Gold Helmet
+Gold Chestplate
+Gold Leggings
+Gold Boots
+Slime Sword
+Ocean Knife
+Aquatic Maul
+Arlemite Stabber
+Bedrock Sword
+Realmite Sword
+Rupee Rapier
+Sandslash
+Divine Sword
+Blue Divine Sword
+Yellow Divine Sword
+Gray Divine Sword
+Red Divine Sword
+Green Divine Sword
+Bedrock Maul
+Jungle Knife
+Jungle Rapier
+Aquatic Trident
+Aquatic Dagger
+Aquaton
+Shark Sword
+Death Bringer
+Crabclaw Maul
+Poison Saber
+Fury Maul
+Corrupted Maul
+Frost Sword
+Inferno Sword
+Bloodgem Sword
+Molten Sword
+Scorching Sword
+Bluefire Sword
+Ender Sword
+Blue Ender Sword
+Black Ender Sword
+Green Ender Sword
+Red Ender Sword
+Yellow Ender Sword
+Cyclopsian Sword
+Flaming Fury
+Dual Claw
+Terran Dagger
+Terran Knife
+Terran Maul
+Aquatooth Sword
+Aquatooth Maul
+Hunter Bow
+Shadow Bow
+Ender Bow
+Bluefire Bow
+Inferno Bow
+Shuriken
+Vile Storm
+Scythe
+Frost Cannon
+Cyclopsian Staff
+Maelstrom
+Crab Anchor
+Shark Anchor
+Bowhead Anchor
+Liopleurodon Anchor
+Golden Fury
+Corrupted Cannon
+Ghast Cannon
+Crabclaw Cannon
+Bowhead Cannon
+Serenade of Health
+Serenade Striker
+Serenade of Death
+Serenade of Infusion
+Palavence
+Massivence
+Rupee Shickaxe
+Rupee Pickaxe
+Rupee Axe
+Rupee Shovel
+Rupee Hoe
+Arlemite Shickaxe
+Arlemite Pickaxe
+Arlemite Axe
+Arlemite Shovel
+Arlemite Hoe
+Realmite Pickaxe
+Realmite Axe
+Realmite Shovel
+Realmite Hoe
+Bedrock Pickaxe
+Bedrock Axe
+Bedrock Shovel
+Corrupted Pickaxe
+Corrupted Axe
+Corrupted Shovel
+Divine Shickaxe
+Divine Pickaxe
+Divine Axe
+Divine Shovel
+Dungeon Tokens
+Arcanium
+Staff of Starlight
+Starlight
+Storm Sword
+Captains Sparkler
+Strong Arcana Potion
+Weak Arcana Potion
+Collector
+Charged Collector
+Wizards Book
+Staff of Enrichment
+Orb of Light
+Meriks Missile
+Grenade
+Firefly
+La Vekor
+Ender Scepter
+Arcanium Saber
+Ghostbane
+Arcanium Reflector
+Shadow Saber
+Livicia Sword
+Meteor Mash
+Divine Accumulator
+Arcanite Blaster
+Arcanite Blade
+General's Staff
+Arcanium Attractor
+Sludge Key
+Ancient Key
+Soul Key
+Degraded Key
+Golem Of Rejuvenation Spawn Egg
+Seimer Spawn Egg
+Paratiku Spawn Egg
+Fyracryx Spawn Egg
+Ehu Spawn Egg
+Husk Spawn Egg
+Stone Golem Spawn Egg
+Smelter Spawn Egg
+Snapper Spawn Egg
+White Grizzle Spawn Egg
+Brown Grizzle Spawn Egg
+Hitchak
+Hitchak Seeds
+Veilo
+Veilo Seeds
+Marsine
+Marsine Seeds
+Lamona
+Lamona Seeds
+Firestock
+Firestock Seeds
+Pinfly
+Pinfly Seeds
+Aquamarine
+Aquamarine Seeds
+Eucalyptus Root Seeds
+Korma Helmet
+Korma Chestplate
+Korma Leggings
+Korma Boots
+Vemos Helmet
+Vemos Chestplate
+Vemos Leggings
+Vemos Boots
+Golden Helmet
+Golden Chestplate
+Golden Leggings
+Golden Boots
+Frozen Charge
+Realmite Shield
+Rupee Reflector
+Arlemite Deflector
+Eden Aegis
+Wildwood Guard
+Apalachia Shield
+Scutum of the Skythern
+Mortalos
+Halite Greatshield
+Dream Shovel
+Dream Pickaxe
+Dream Axe
+Teleportation Star
+Heart of the Sunstorm
+Heart of the Termasect
+Heart of the Apalachia
+Heart of the Skythern
+Heart of the Mortum
+Awakened Halite Helmet
+Awakened Halite Chestplate
+Awakened Halite Leggings
+Awakened Halite Boots
+The King's Crown
+The King's Chestplate
+The King's Leggings
+The King's Boots
+%1$s fell into a trap
+%1$s walked on spikes
+%1$s melted in acid
+%1$s was killed by magic
+Acid Hag
+Advanced Cori
+Alicanto
+Ancient Entity
+Angry Bunny
+Apalachia Cadillion
+Apalachia Golem
+Apalachia Tomo
+Arid Warrior
+Ayeraco Blue
+Ayeraco Green
+Ayeraco Purple
+Ayeraco Red
+Ayeraco Yellow
+Basilisk
+Behemoth
+Biphron
+Bunny
+Caveclops
+Cave Crawler
+Crab
+Crypt Keeper
+Cyclops
+Cymesoid
+Datticon
+Deathcryx
+Death Hound
+Demon Of Darkness
+Densos
+Desert Crawler
+Dissiment
+Dramix
+Dreamwrecker
+Dungeon Constructor
+Dungeon Demon
+Dungeon Prisoner
+Duo
+Eden Cadillion
+Eden Tomo
+Ehu
+Enchanted Archer
+Enchanted Warrior
+Ender Spider
+Ender Triplets
+Ender Watcher
+Ent
+Enthralled Dramcryx
+Epiphite
+Eternal Archer
+Fractite
+Frost
+Frosty
+Frost Archer
+Fyracryx
+Galroid
+Glacon
+Glacide
+Golem Of Rejuvenation
+Gorgosion
+Greenfeet
+Brown Grizzle
+White Grizzle
+Hastreus
+Helio
+Hell Pig
+Hell Spider
+Herbomancer
+Herbomancer's Minion
+Hive Queen
+Hive Soldier
+Hover Stinger
+Husk
+Jack 'O' Man
+Jungle Bat
+Jungle Dramcryx
+Jungle Spider
+Karos
+Karot
+Kazrotic
+King Crab
+King Of Scorchers
+Kobblin
+Lady Luna
+Leorna
+Lheiva
+Liopleurodon
+Livestock Merchant
+Lorga
+Lorga Flight
+Lord Vatticus
+Madivel
+Mage
+Mandragora
+Megalith
+Miner
+Moon Wolf
+Mortum Archer
+Mortum Cadillion
+Mysterious Man
+Mysterious Man
+Mysterious Man
+Mystic
+Parasecta
+Paratiku
+Projectiles
+Pumpkin Spider
+Quadro
+Raglok Gogdure
+Raglok
+Rainbour
+Razorback
+Reyvor
+Roamer
+Rollum
+Rotatick
+Saguaro Worm
+Samek
+Scorcher
+Seimer
+Shadahier
+Shark
+Skythern Archer
+Skythern Fiend
+Skythern Golem
+Smelter
+Snapper
+Sorcerer
+Soul Fiend
+Soul Spider
+Soul Stealer
+Spellbinder
+Stone Golem
+Sun Archer
+Tamed Angry Bunny
+Temple Guardian
+The Eye
+The Grue
+The Hunger
+The Watcher
+Tocaxin
+Twilight Archer
+Twilight Demon
+Twins
+Vamacheron
+Verek
+Vermenous
+Vermsillion
+Vhraak
+Vhraak
+Weak Cori
+Whale
+Wildfire
+Wildwood Cadillion
+Wildwood Golem
+Wildwood Tomo
+Workshop Merchant
+Workshop Tinkerer
+Wraith
+Wreck
+Zelus
+Zone
+Zoragon
+Captain Merik
+Living Statue
+War General
+Bohemite
+Spinarus
+Wreck
+Wreck
+Sunstorm
+Termasect
+Termid
+Experienced Cori
+DivineRPG
+The journey begins...
+A Divine Plan
+Craft a Divine Sword
+A Meal to Remember
+Eat a Chicken Dinner
+Attempt at Ascension
+Craft all divine armor and tools
+Eye of Evil
+Look into the eye of The Eye
+Feeding on the Fish
+Kill a Shark
+Halloween Spirit
+Trade with a Jack-O-Man
+Jungle Stegosaurus Slayer
+Kill a Jungle Dramcryx
+Perfectly Corrupted
+Use an Altar Of Corruption
+When Pigs Fly
+Wear a full angelic armor set
+Towering Guardian
+Kill the Ancient Entity
+Eternal Flame
+Kill the King of Scorchers
+Off Key
+Shoot a Sound of Music
+Overseeing Eye
+Kill the Watcher
+Blown Away
+Craft a Horde Horn
+Swarm of the Void
+Kill the Ayeraco Horde
+Triple The Danger
+Kill an Ender Triplet
+Iceika
+The frozen land
+A Lil' Gift
+Trade with a Workshop Merchant
+A Lil' Tinkering
+Trade with a Workshop Tinkerer
+Frozen Goods
+Obtain a Snowflake
+Arcana
+What lies within?
+Disgusting!
+Buy a Weak Arcana potion
+Dungeon Master
+Kill Dramix
+Enrichment
+Use a Staff of Enrichment on Arcanite Dirt
+Evil Disease
+Kill Parasecta
+Hotter than Hell
+Touch a Heat Trap
+My Little Creature
+Tame a pet from Zelus
+Sky High
+Jump on an Elevantium Block
+The Tempest
+Buy a Storm Sword
+Total Demonization
+Use the Demon Furnace
+Twilight Dimensions
+Taste the rainbow
+1001 Possibilities
+Enter the Eden dimension
+Anger Management Problems
+Kill a Karot
+Arachnophobia
+Kill a Soul Fiend
+Archaic Bowman
+Kill an Eternal Archer
+Arrow to the Knee
+Get shot by a Twilight Archer
+Bicorn
+Kill a Vamacheron
+Champion of Light
+Kill the Sunstorm
+Colourless Land
+Enter the Skythern dimension
+Dark Another Day
+Enter the Mortum Dimension
+Exorcism
+Kill a Twilight Demon
+Five Heads are Better than One
+Kill the Densos
+Forest Islands
+Enter the Wildwood dimension
+Forest Scourge
+Kill the Termasect
+Friend or Foe?
+Make a Bunny angry
+Legolas
+Kill the Reyvor
+Observer of the Skies
+Kill the Experienced Cori
+Purple Planet
+Enter the Apalachia dimension
+Vethea
+Find your remaining sense of pain
+An Elm on Nightmare Street
+Be careful when breaking trees
+Crypt Raider
+Obtain an Amthirmis Lump from a crypt
+Ever Cry, Never Life
+Obtain every "ever" weapon from Lady Luna. You really don't feel pain, do you?
+For the Man Who Has Everything
+Find and trade with the Hunger
+Getting Out of Hand
+Kill Quadro
+I am Mad Scientist
+Kill Dr. Karos
+Let Them Eat Cake
+Eat a dream cake
+Licensed to Kill
+Kill an L'Heiva
+Lunar Emissary
+Kill Lady Luna
+One Maul to Rule Them All
+Obtain a Karos Rockmaul
+Royal Beeswax
+Kill the Hive Queen
+Swiss Cheese
+Kill Raglok Gog'dure
+Temple of Doom
+Obtain a Cermile Lump from a temple
+Unlimited Power
+Kill Wreck
+Smoldering Tar
+BOO!
+I seem to have lost my head.
+HURAH!
+Have you seen my head?
+When traveling, I met a merchant named Zelus, who sold me the eggs that grew into the pets I breed now.
+I sell only the healthiest pets!
+Tell Zelus I said Hi!
+I'd be afraid to feed a Snapper with my bare hands...
+Hohoho.
+It's cold outside.
+It's cold inside.
+Burr!
+Like my sword? You should.
+Datticon thinks I'm stealing his technology for my weapons, my technology is beyond his.
+Hurry up, I've got work to do.
+I've been in more battles than this dungeon has creatures.
+If you see the phoenix, let me know, it's just another day for me.
+Keep an eye on Merik, he's stealing my technology.
+Do you need something hotter than hell? I've come up with this new furnace.
+Those other fools think it's all magic, I use science!
+That doesn't need to be plugged in.
+I tried using redstone, but it's primitive.
+Could you imagine if the whole world was covered in plants?
+Embracing nature is part of the importance of life.
+Have you tried throwing Lamona? It is mighty handy for finding my way.
+Hitchak sure is tasty.
+Zelus won't stop looking at me.
+Can you feel the empowerment of the arcanium around you?
+I hear there's no end to this place, there's no end to me either.
+Arcana come upon me, give me the ultimate strength!
+I've discovered how to awake the ancient leader of the dungeon.
+Hurr drah drah, magic.
+My weapons will conquer any foe.
+Do not buy from Captain Merik. He does not care about quality.
+The Arcanite Blade is incredibly powerful.
+Have you seen Leorna lately? She's looking mighty fine as far as I can tell.
+My minions will overrun any world.
+I'm thinking of giving Leorna a flower, she won't find it too fancy though.
+I've always wondered, does Leorna like plants because she almost is one?
+Mmm. I'm hungry.
+Can you come a little closer?
+You need to fatten yourself up.
+Let's go out to dinner. You'll be cooking.
+You look new around here. Be careful.
+Take these. Use them at an infusion table.
+Don't tell anybody you saw me.
+You're progressing. Good, good.
+Can you hear the screams and roars from above?
+Every time you infuse something, the gods become stronger.
+The gods are using your dreams as a battlefield.
+Infuse this. I can feel the strength when you do.
+Thank you for aiding me in my plan.
+The surface is just above us.
+Can you believe that we're submerged so far?
+You're safer down here.
+Beware of the higher layers.
+Take this reward, use it wisely.
+What the future holds is dark.
+This isn't a nice world.
+You are moving upwards, beware of the imminent danger.
+These places aren't for you.
+This is dangerous, what are you doing here?
+Temples are suited for humans.
+They are getting closer to killing you.
+So you came to play a game?
+Let the game begin!
+I heard you like explosions! Hahaha
+Hahahaha
+I'm here for you to meet your doom!
+C'mon c'mon get me, try your best!
+You can't kill me! You weak excuse for a human
+Die before me!
+Enough of you! You don't deserve my kill!
+Incoming punch!
+Looks like I'm done with this. You're next!
+This kill is mine!
+You're my kill!
+No! Die before me!
+Sit down human!
+You don't deserve to be near a guardian of Arksiane!
+Taste fist!
+You dare wake me from my slumber?!
+You think you can fight me?
+I am the great guardian of Heliosis!
+Your future is dark.
+Rain rain come my way
+Kill this human, kill it today!
+You're nothing compared to me! Nothing!
+Heliosis! Avenge me!
+You should run while you still have the chance to live.
+I do love the smell of death!
+CHARRGEE!
+Come feel the Soul of Arksiane.
+Arksiane, give me fire!
+Stop at once in the name of the great Arksiane!
+Speed!
+Explosions!
+Strength!
+Unable to check for latest version, you may want to check your internet connection!
+The Green Ayeraco has been called upon
+The Blue Ayeraco has been called upon
+The Red Ayeraco has been called upon
+The Yellow Ayeraco has been called upon
+The Purple Ayeraco has been called upon
+The Ayeraco Horde has arrived!
+The King of the Scorchers can only be spawned in the Nether.
+The Ayeraco Horde can only be spawned in The End.
+The Watcher can only be spawned in the Nether.
+The Ancient Entity can only be spawned in the Overworld.
+You can only use the Nightmare Bed in a dark place.
+You can only use the Nightmare Bed in the overworld.
+You can't change initial position.
+Thank you %s for downloading and playing DivineRPG!
+Unable to check for latest version, you may want to check your internet connection!
+A DivineRPG update is avaliable.
+[DivineRPG is out of date. The latest version is %s]
+Welcome DivineRPG developer! %s is on the DivineRPG dev team.
+Welcome DivineRPG tester! %s kindly offered their time to help test DivineRPG. Thank you for your service!
+Welcome DivineRPG patreon! %s kindly supported the DivineRPG dev team, thank you for your help!
+%s Uses Remaining
+Harvest Level: +
+Infinite Uses
+Heals %s hearts on use
+Consumes %s Arcana
+Replenishes %s Arcana
+%s Melee Damage
+%s Ranged Damage
+%s Ranged and Melee Damage
+%s Arcana Damage
+%s%% Damage Reduction (%s%% Full)
+Ammo: %s
+Infinite Ammo
+Explosive Projectiles
+Homing Projectiles
+Full Set Perks: 
+No Protection
+Vethean
+Efficiency: %s
+Cannot Block
+Poisons mobs for %s seconds
+Burns mobs for %s seconds
+Slows mobs for %s seconds
+Lauches you into the air
+Does not prevent fall damage
+Pulls mobs toward you
+Slows mobs for 5 seconds
+This item can only be used in Mortum.
+Gives Speed and Water Breathing for 30 seconds.
+Poisons Enemies
+Teleport to bed or spawn point
+Shoots Lightning
+Gives the user regeneration
+Heals the user
+Poisons enemies for 2 seconds
+Returns to sender
+This item is not yet complete
+On use: Teleports the player
+Bouncing Projectile
+Deals 20 Damage to Player
+Projectile splits into 5 on impact
+Spawns a friendly Wraith
+13 Attack Damage
+20 Health
+Despawns after a short time
+Casts light when thrown
+Drops an explosive meteor from the sky
+Knocks mobs away
+Speeds up player when used
+Use on arcanite dirt to purify.
+Spawns a pet Fyracryx
+Spawns a pet Seimer
+Spawns a pet Golem Of Rejuvenation
+Spawns a pet Paratiku
+Spawns a pet Ehu
+Spawns a pet Husk
+Spawns a pet Stone Golem
+Spawns a pet Smelter
+Spawns a pet Snapper
+Spawns a pet White Grizzle
+Spawns a pet Brown Grizzle
+Single Use
+Blasts open blocked doors in the Dungeon of Arcana
+Explosive homing projectile
+Drops a star from the sky
+Drops several stars from the sky
+Dimension: %s
+Harvest level: %s
+Fire Protection
+No Fall Damage
+Flight
+%sx Movement Speed
++%s Melee Damage
++%s%% Ranged Damage
+Refills Hunger
+%s%% Damage Reduction
+%sx Jump Height
++%s Twilight Ore Drops
+Health Regeneration
+Health Regenerates Underwater
+Block Damage Protection
+Night Vision
+Explosion Protection
+%s%% Ranged Damage Protection
+%s%% Melee Damage Protection
++%s%% Arcana Damage Protection
+Breathe Underwater
+%sx Scythe Damage
+Swim Faster
+Wither Protection
+Arcana Regeneration
+Poison Resistance
+Slows Hostile Mobs Within %s Blocks
+Increased Mining Speed
+Iceika
+Massive Buff
+Step Assist
+%sx Times Slower
+%sx Times Faster
+Fills %s Hunger Points
+%s Saturation
+Pet Food
+Replenishes %s Health
+Rive
+Aftershock
+Will summon in %s seconds

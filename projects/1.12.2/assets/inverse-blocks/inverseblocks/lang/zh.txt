@@ -1,0 +1,20 @@
+Inverse Matter
+Info Entry
+Inverted Iron Ingot
+Inverted Diamond
+Inverted Diamond Axe
+Inverted Diamond Pickaxe
+Fire Amulet
+Empty Amulet
+Flight Amulet
+Saturation Amulet
+Speed Amulet
+Inverted Iron Block
+Mob Grinder
+Infusion Pedestal
+Charging Pedestal
+Inverse Essence Extractor
+Inverse Essence Distiller
+Inverse Items
+Inverse Blocks
+Liquid Inverted Essence

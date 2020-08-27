@@ -1,0 +1,32 @@
+Music Player
+Open Music Player
+Pause Music Player
+Skip Forward
+Skip Back
+Enter a name
+Add playlist
+No name
+Entry
+Entries
+Volume
+Loading tracks ...
+undefined
+Add new tracks
+Load file
+Load folder
+Music files
+Add all
+Added track
+Added track list
+Added all tracks
+Enter url to track
+Open file explorer
+Search for track
+Toggle ingame overlay
+Toggle menue overlay
+Toggle keybinds in gui
+Ingame overlay position
+Top left
+Top right
+Bottom right
+Bottom left

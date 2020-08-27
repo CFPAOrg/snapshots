@@ -1,0 +1,5 @@
+Biome Staff
+Obsidian Shaft
+Biome Staff Top Plate
+Biome Staff
+Crouch+right-click a block to set biome. Right-click block to set biome. Crouch+right-click air to reset staff.

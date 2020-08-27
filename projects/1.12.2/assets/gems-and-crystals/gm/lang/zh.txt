@@ -1,0 +1,68 @@
+Ruby
+Sapphire
+Topaz
+Amethyst
+Block of Ruby
+Block of Sapphire
+Block of Topaz
+Block of Amethyst
+Ruby Ore
+Sapphire Ore
+Topaz Ore
+Amethyst Ore
+Quartz Ore
+Ruby Sword
+Ruby Shovel
+Ruby Pickaxe
+Ruby Axe
+Ruby Hoe
+Sapphire Sword
+Sapphire Shovel
+Sapphire Pickaxe
+Sapphire Axe
+Sapphire Hoe
+Emerald Sword
+Emerald Shovel
+Emerald Pickaxe
+Emerald Axe
+Emerald Hoe
+Topaz Sword
+Topaz Shovel
+Topaz Pickaxe
+Topaz Axe
+Topaz Hoe
+Amethyst Sword
+Amethyst Shovel
+Amethyst Pickaxe
+Amethyst Axe
+Amethyst Hoe
+Quartz Sword
+Quartz Shovel
+Quartz Pickaxe
+Quartz Axe
+Quartz Hoe
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Topaz Helmet
+Topaz Chestplate
+Topaz Leggings
+Topaz Boots
+Amethyst Helmet
+Amethyst Chestplate
+Amethyst Leggings
+Amethyst Boots
+Quartz Helmet
+Quartz Chestplate
+Quartz Leggings
+Quartz Boots
+Gems And Crystals

@@ -1,0 +1,81 @@
+Amber Axe
+Amber Hoe
+Amber Pickaxe
+Amber Shovel
+Amber Sword
+Amber Helmet
+Amber Chestplate
+Amber Leggings
+Amber Boots
+End Amethyst Axe
+End Amethyst Hoe
+End Amethyst Pickaxe
+End Amethyst Shovel
+End Amethyst Sword
+End Amethyst Helmet
+End Amethyst Chestplate
+End Amethyst Leggings
+End Amethyst Boots
+Emerald Axe
+Emerald Hoe
+Emerald Pickaxe
+Emerald Shovel
+Emerald Sword
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Malachite Axe
+Malachite Hoe
+Malachite Pickaxe
+Malachite Shovel
+Malachite Sword
+Malachite Helmet
+Malachite Chestplate
+Malachite Leggings
+Malachite Boots
+Peridot Axe
+Peridot Hoe
+Peridot Pickaxe
+Peridot Shovel
+Peridot Sword
+Peridot Helmet
+Peridot Chestplate
+Peridot Leggings
+Peridot Boots
+Ruby Axe
+Ruby Hoe
+Ruby Pickaxe
+Ruby Shovel
+Ruby Sword
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Sapphire Axe
+Sapphire Hoe
+Sapphire Pickaxe
+Sapphire Shovel
+Sapphire Sword
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Tanzanite Axe
+Tanzanite Hoe
+Tanzanite Pickaxe
+Tanzanite Shovel
+Tanzanite Sword
+Tanzanite Helmet
+Tanzanite Chestplate
+Tanzanite Leggings
+Tanzanite Boots
+Topaz Axe
+Topaz Hoe
+Topaz Pickaxe
+Topaz Shovel
+Topaz Sword
+Topaz Helmet
+Topaz Chestplate
+Topaz Leggings
+Topaz Boots

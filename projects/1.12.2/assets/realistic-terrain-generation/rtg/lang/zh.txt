@@ -1,0 +1,261 @@
+RTG - Realistic
+Realistic Terrain Generation uses a custom world type.
+If you want to use the RTG world type, select
+§9World Type: %s§r under §9More World Options§r.
+For use on a dedicated server, set
+Copy Settings to Clipboard
+Click This button to copy the current settings to the clipboard for easy pasting into the generator-settings field of a server.properties file.
+RTG Custom World Settings
+Terrain & Surface Settings
+World Settings
+Fixed Biome
+Chooses the biome for a single-biome world
+Biome Size
+Changes the average size of the biomes
+Surface Settings
+Enable Boulders
+Enables the generation of boulders
+Boulder Chance 1/x
+The chance that a boulder will generate
+Sand Dune Height
+Adjusts the height of sand dunes
+Snow Dune Height
+Adjusts the height of snow dunes
+Snow Layers
+Enable gradiant snow layers in snowy biomes
+Snow Layer Temp
+The temperature that snow layers generate at
+Underground Settings
+Bedrock Layers
+Sets the number of Bedrock layers
+Caves
+Enable cave generation
+Cave Chance
+Cave Density
+Ravines
+Enable ravine generation
+Ravine Chance
+Water Feature Settings
+River Settings
+Size
+Adjusts the width of rivers
+Frequency Multiplier
+Adjusts how often rivers will generate
+Bend Multiplier
+Adjust how bendy rivers will be
+Cut-off Amplitude
+Higher numbers make the large-scale cut-off noise have a greater effect
+Cut-off Scale
+Higher numbers make grassy areas near rivers bigger, but also more rare
+RTG Lake Settings
+Size Multiplier
+The size of RTG custom lakes (River biome)
+Frequency Multiplier
+The frequency by which RTG custom lakes will generate
+Shore Bend Multiplier
+Adjusts the bendiness of lake shores.
+Vanilla Surface lakes Settings
+Water Lakes
+Enable vanilla surface water lakes
+Water Lake Chance 1/x
+The chance that a vanilla surface water lake will generate
+Lava Lakes
+Enable vanilla surface lava lakes
+Lava Lake Chance 1/x
+The chance that a vanilla surface lava lake will generate
+Vanilla Underground Lake Settings
+Water Lakes
+Enable vanilla underground water lakes
+Water Lake Chance 1/x
+The chance that a vanilla underground water lake will generate
+Lava Lakes
+Enable vanilla underground lava lakes
+Lava Lake Chance 1/x
+The chance that a vanilla underground lava lake will generate
+Water and Lava Spouts (1/x chance)
+Water Spout Chance
+A 1/x chance that a water spout will generate on the side of a hill or cave wall
+Lava Spout Chance
+A 1/x chance that a lava spout will generate on the side of a hill or cave wall
+Structure Settings
+Village Settings
+Villages
+Enable village generation
+Village Distance
+The minimum distance between villages
+Village Size
+Adjusts the average size of villages
+Mineshaft Settings
+Mineshafts
+Enable mineshaft generation
+Mineshaft Chance
+The Chance that a mineshaft will generate
+Dungeon Settings
+Dungeons
+Enable dungeon generation
+Dungeon Chance
+The chance that a dungeon will generate
+Scattered Feature Settings
+Scattered Features
+Enable scattered features (desert/jungle temples, witch huts, igloos, etc..)
+Temple Distance
+The distance between scattered features
+Ocean Monument Settings
+Ocean Monuments
+Enable Ocean Monument generation
+Separation
+Ocean Monument Separation
+Spacing
+Ocean Monument Spacing
+Woodland Mansion Settings
+Woodland Mansions
+Enable Woodland Mansion generation
+Mansion Separation
+The minimum distance between Woodland Mansions
+Mansion Spacing
+The maximum distance between Woodland Mansions
+Stronghold Settings
+Strongholds
+Enable Strongholds
+Stronghold Count
+The amount of strongholds that will generate in a world
+Distance
+Minimum distance between strongholds?
+Spread
+Stronghold Spread
+Ore Generation Settings
+Dirt Generation Settings
+Dirt Size
+The size of dirt pockets generted in the world
+Dirt Count
+The amount of dirt pockets per chunk
+Dirt Minimum Height
+The minimum height of dirt generation
+Dirt Maximum Height
+The maximum height of dirt generation
+Gravel Generation Settings
+Gravel Size
+The size of gravel pockets generted in the world
+Gravel Count
+The amount of gravel pockets per chunk
+Gravel Minimum Height
+The minimum height of gravel generation
+Gravel Maximum Height
+The maximum height of gravel generation
+Granite Generation Settings
+Granite Size
+The size of granite pockets generted in the world
+Granite Count
+The amount of granite pockets per chunk
+Granite Minimum Height
+The minimum height of granite generation
+Granite Maximum Height
+The maximum height of granite generation
+Diorite Generation Settings
+Diorite Size
+The size of diorite pockets generted in the world
+Diorite Count
+The amount of diorite pockets per chunk
+Diorite Minimum Height
+The minimum height of diorite generation
+Diorite Maximum Height
+The maximum height of diorite generation
+Andesite Generation Settings
+Andesite Size
+The size of andesite pockets generted in the world
+Andesite Count
+The amount of andesite pockets per chunk
+Andesite Minimum Height
+The minimum height of andesite generation
+Andesite Maximum Height
+The maximum height of andesite generation
+Coal Generation Settings
+Coal Size
+The size of coal veins generted in the world
+Coal Count
+The amount of coal veins per chunk
+Coal Minimum Height
+The minimum height of coal generation
+Coal Maximum Height
+The maximum height of coal generation
+Iron Generation Settings
+Iron Size
+The size of iron veins generted in the world
+Iron Count
+The amount of  veins per chunk
+Iron Minimum Height
+The minimum height of iron generation
+Iron Maximum Height
+The maximum height of iron generation
+Gold Generation Settings
+Gold Size
+The size of gold veins generted in the world
+Gold Count
+The amount of gold veins per chunk
+Gold Minimum Height
+The minimum height of gold generation
+Gold Maximum Height
+The maximum height of gold generation
+Redstone Generation Settings
+Redstone Size
+The size of redstone veins generted in the world
+Redstone Count
+The amount of redstone veins per chunk
+Redstone Minimum Height
+The minimum height of redstone generation
+Redstone Maximum Height
+The maximum height of redstone generation
+Diamond Generation Settings
+Diamond Size
+The size of diamond veins generted in the world
+Diamond Count
+The amount of diamond veins per chunk
+Diamond Minimum Height
+The minimum height of diamond generation
+Diamond Maximum Height
+The maximum height of diamond generation
+Lapis Lazuli Generation Settings
+Lapis Lazuli Size
+The size of lapis lazuli veins generted in the world
+Lapis Lazuli Count
+The amount of lapis lazuli veins per chunk
+Lapis Lazuli Height
+The average height of lapis lazuli generation
+Lapis Lazuli Spread
+The average height spread of lapis lazuli generation
+RTG Global Config Settings
+Client Settings
+Settings relevant to the client
+WorldType Notification
+When enabled, this will display an informational message about RTG when entering the Customize World screen.\nThis will display once and automatically disable itself.
+RTG WorldType By Default
+Automatically select the RTG world type when creating a new world.
+Common Settings
+Settings relevant to the server
+Debug Settings
+Enable special debug logging
+!This setting has a severe performance penalty. Only enable if you know what you are doing!
+Patch Biome
+If RTG encounters an unsupported biome it will generate this biome instead.\nThis uses the standard ResourceLocation format: mod_id:biome_registry_name
+Biome Surface Settings
+Lush Riverbanks In Desert
+Set this to FALSE to prevent RTG from generating lush river bank decorations in hot biomes,\nlike Desert and Mesa. Lush decorations consist of tallgrass, trees, shrubs, and other flora.
+Surface Blend Radius
+The maximum distance surfaces will blend into eacother if enabled for two adjacent biomes.\nBy default, surface blending is only enabled for beaches. You can control that in biome settings
+Shadow Stone Block
+The block to use for stone terrain shadowing, typically seen on the cliffs of stone mountains.
+Shadow Desert Block
+The block to use for desert terrain shadowing, typically seen on the cliffs of desert mountains.
+RTG Tree Settings
+RTG Trees From Saplings
+Set this to TRUE to allow RTG's custom trees to grow from vanilla saplings.\nRTG's custom trees can be grown only from the saplings that their leaves would drop, and only in the biomes where they naturally generate.
+RTG Tree Chance
+A 1/x chance that a vanilla sapling will grow an RTG custom tree.
+Tree Density Multiplier
+This setting allows you to increase/decrease the number of RTG trees that generate globally.\nThis setting only affects trees generated by RTG. Trees generated by a biome's decorator will adhere to their own density rules. You can override this setting on a per-biome basis by using the biome configs.
+Trees Can Generate On Sand
+Set this to FALSE to prevent trees from generating on sand.\nThis setting only affects trees generated by RTG. Trees generated by a biome's decorator will adhere to their own generation rules. (RTG's Palm Trees ignore this setting.)
+Shrubs Below Surface
+Set this to FALSE to prevent shrub trunks from generating below the surface.
+Bark Covered Logs
+Set this to FALSE to prevent the trunks of RTG trees from using the 'all-bark' texture model.\nFor more information, visit http://minecraft.gamepedia.com/Wood#Block_data

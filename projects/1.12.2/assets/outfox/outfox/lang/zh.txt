@@ -1,0 +1,80 @@
+Spawn biomes
+Fox spawn biome configuration.
+Compatibility
+Cross-mod compatibility settings.
+General settings
+Miscellaneous config settings.
+Block searching
+Block searching AI configuration.
+Attacker item stealing
+Item stealing AI configuration.
+Common biomes
+List of biomes that foxes should be common spawns in.
+Common biome types
+List of biome dictionary types that foxes should be common spawns in.
+The One Probe compatibility
+Should extra data be added to The One Probe tooltips when looking at foxes?
+WAILA/HWYLA compatibility
+Should extra data be added to WAILA/HWYLA tooltips when looking at foxes?
+Immune tools
+Item ID names that contain any of these keys will be unable to hurt your tame foxes.
+Logging enabled
+Should errors/warnings be sent to the log file?
+Obstruction check depth
+How many blocks away should the search AI check for unbreakable obstructions?
+Helper particles
+Should particles be used to indicate block seach status?
+Rare biomes
+List of biomes that foxes should be rare spawns in.
+Rare biome types
+List of biome dictionary types that foxes should be rare spawns in.
+Item aliases
+List of item-to-block aliases; read the config file for syntax and warnings!
+Search enabled
+Is block searching enabled?
+Search interval
+The time, in ticks, between block searches.
+Block blacklist
+List of blocks that foxes should be disallowed from searching for.
+Block blacklist is whitelist
+Use "block blacklist" as a whitelist instead?
+Random fail chance
+The probability that a block search will fail to detect blocks even if some are in range.
+Search range
+The distance, in blocks, that the fox should search away from itself.
+Pathfinder waypoints
+The number of waypoints to use in search pathfinding AI.\nRequires save & quit to change!
+Sitting AI override
+Should sitting foxes ignore their owner being attacked?
+Aggro chance
+The probability that stealing will cause the target to aggro on the fox.
+Steal armor
+Should foxes be able to steal armor as well as held items?
+Stealing enabled
+Is item stealing enabled?
+Entities blacklist
+List of entities that foxes should be disallowed from stealing items from.
+Entities blacklist is whitelist
+Use "entities blacklist" as a whitelist instead?
+Items blacklist
+List of items that foxes should be disallowed from stealing.
+Items blacklist is whitelist
+Use "items blacklist" as a whitelist instead?
+Maximum damage
+The maximum percent damage a stolen item will be dealt. Set to 0 to disable.
+Minimum damage
+The minimum percent damage a stolen item will be dealt.
+Minumum health
+The minimum health the fox must have to attempt a steal.
+Steal from players
+Should foxes be able to steal from players?
+Block state tags
+The block state properties that a search must match to succeed.
+Taming odds
+Each raw rabbit has a one-in-this chance of taming a fox.
+Fox
+Fox trills
+Fox sniffs
+Fox steals
+Fox hurts
+Fox dies

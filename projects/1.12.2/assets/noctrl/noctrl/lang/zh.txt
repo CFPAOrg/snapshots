@@ -1,0 +1,16 @@
+Current Keybind set changed to "%s"
+R
+I
+Y
+N
+Create a new keybinding set.
+The new set will copy the current sets keys
+Delete the current keybinding set
+Rename the current keybinding set
+Change the icon for the current keybinding set
+Continue
+Cancel
+The name of the new set
+The new name of the set
+The registry name of the item to use for the icon
+No Ctrl Screen

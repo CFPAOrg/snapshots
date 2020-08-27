@@ -1,0 +1,87 @@
+ Quirky Additions
+Test Ingot
+Leather Plate
+Uncooked Leather Plate
+Iron Chain
+Iron Chained Plate
+Iron Chained Loop
+Gold Chained Plate
+Diamond Chained Plate
+Copper Chained Plate
+Tin Chained Plate
+Silver Chained Plate
+Lead Chained Plate
+Aluminum Chained Plate
+Nickel Chained Plate
+Platinum Chained Plate
+Steel Chained Plate
+Electrum Chained Plate
+Invar Chained Plate
+Bronze Chained Plate
+Manasteel Chained Plate
+Terrasteel Chained Plate
+Elementium Chained Plate
+Thaumium Chained Plate
+Void Chained Plate
+Cold Iron Chained Plate
+Boron Chained Plate
+Tough Alloy Chained Plate
+Hard Carbon Chained Plate
+Cubic Boron Nitride Chained Plate
+Dark Steel Chained Plate
+End Steel Chained Plate
+Psi Chained Plate
+Honeycomb Chained Plate
+Reroll Dice
+Gift of Nature
+Gift of Knowledge
+Gift of Sacrifice
+Gift of Stars
+Gift of Curses
+Gift of Sorcery
+Gift of Battle
+Gift of Fortune
+Gift of Exploration
+Exploration Fragment
+Test Sword
+Spuit Lance
+Wood Rapier
+Stone Rapier
+Iron Rapier
+Gold Rapier
+Diamond Rapier
+Wood Greatsword
+Stone Greatsword
+Iron Greatsword
+Gold Greatsword
+Diamond Greatsword
+Wood Spear
+Stone Spear
+Iron Spear
+Gold Spear
+Diamond Spear
+Wood Katana
+Stone Katana
+Iron Katana
+Gold Katana
+Diamond Katana
+Charged Wood Katana
+Charged Stone Katana
+Charged Iron Katana
+Charged Gold Katana
+Charged Diamond Katana
+Test Axe
+Test Pickaxe
+Test Shovel
+Test Hoe
+Test Helmet
+Test Chestplate
+Test Leggings
+Test Boots
+Test Block
+Mystic Forge
+Compressed Resonating Gem
+Compressed Starmetal
+Ilium Gate
+Ourium Gate
+Fengarum Gate

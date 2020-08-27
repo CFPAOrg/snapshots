@@ -1,0 +1,9 @@
+English
+United States
+en_us
+Item Generator
+Iron Generator
+Gold Generator
+Diamond Generator
+Obsidian Generator
+Custom Generator

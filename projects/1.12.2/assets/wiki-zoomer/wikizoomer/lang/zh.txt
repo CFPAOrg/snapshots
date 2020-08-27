@@ -1,0 +1,11 @@
+Entity Info
+Right click on entity to bind
+Close
+Toggle Greenscreen
+Zoom
+Item Zoomer
+Entity Zoomer
+Right click with Item/Block to set
+Shift right click to open render
+Right click with Entity Info to set
+Shift right click to open render

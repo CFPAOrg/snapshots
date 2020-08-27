@@ -1,0 +1,7 @@
+%s Spawn Detector Settings
+Overlay Mode: 
+Overlay Intensity: 
+Radius: 
+Cross
+Top Face
+Toggle Spawn Detector

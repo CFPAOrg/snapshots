@@ -1,0 +1,18 @@
+StackUp Configuration
+Client/Rendering Options
+Configure StackUp's item rendering tweaks.
+Minimum font size
+Maximum font size
+Linear font scaling
+General Options
+See StackUp's current general options.
+Enable scripting
+Maximum stack size
+Mod Patch Options
+See which of StackUp's special mod patches are currently enabled.
+Actually Additions
+Applied Energistics 2
+Chisels and Bits
+IndustrialCraft 2
+Mantle/TConstruct
+Refined Storage

@@ -1,0 +1,8 @@
+Rich Redstone Ore
+Rich Gold Ore
+Rich Iron Ore
+Rich Diamond Ore
+Rich Emerald Ore
+Rich Coal Ore
+Rich Ore Breaker
+Rich Lapis Ore

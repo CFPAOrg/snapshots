@@ -1,0 +1,4 @@
+itemGroup.CloneLand=Clone Land
+item.teleporter.name=Clone Land Teleporter
+item.dimensionalcore.name=Dimensional Core
+tile.cloneportalblock.name=Clone Portal Block

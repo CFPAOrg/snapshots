@@ -1,0 +1,492 @@
+Edit
+Add
+Remove
+Clear
+Disabled
+Volume
+Have a nice cave life!
+A new version of %s is available
+You are using a Beta version of %s
+You are using an Alpha version of %s
+You are using a Dev version of %s
+Updated Cavern config files.
+Do you want to open the config?
+Cavern Configuration
+The latest version of Cavern is %s
+You are using the latest version
+You are using an older version
+You are using a beta version
+You are using an alpha version
+You are using a development version
+Detail info
+Display detailed information.
+Instant filter
+Filter instantly when enter character in filter-textbox.
+General Settings
+Change the settings contained in general.cfg
+Version Notify
+Whether to notify when a new version is available.
+Mining Point Items
+The items that can get mining points. (Will be automatically selected if none are specified.)
+Mining Points
+The mining points for each block.
+Mining Combo
+Whether to enable mining combos.
+Critical Mining
+If players may sometimes find extra ores while mining.
+Caveborn
+If enabled, the dimension that the player will spawn in when first logging in.  The player will also receive the "Caveborn Bonus Items."
+Disabled
+Cavern
+Huge Cavern
+Aqua Cavern
+Caveborn Bonus Items
+Extra starting items when starting as a caveborn.
+Range of Find Portal
+How far the portal must be found in the cave dimensions.
+Portal Cache
+Whether to cache cave portal teleports.
+Portal Menu
+Whether to open the menu on cave portals.
+Generous Randomite
+Whether to enable generous randomite drops.
+Randomite Exclude Items
+Banned items from randomite ore drop items.
+Sleep Waiting Time
+How long (in seconds) the player must wait before sleeping in the cave dimensions.
+Sleep Refresh
+If the player is healed when sleeping in the cave dimensions.
+Display Settings
+Change the settings contained in display.cfg
+Custom Loading Screen
+Whether to enable the custom loading screen for cave dimensions.
+Mining Point Position
+The display position of mining point.
+Top Right
+Top Left
+Buttom Right
+Buttom Left
+Hidden
+Show Miner Rank
+Whether to show the miner rank along with mining points.
+Always Show Miner Status
+Whether to always show the mining status.
+Slippery Ice Custom Color
+Whether to enable custom color for Slippery Ice.
+Mining Points Customize
+Mining Point
+How many mining points this block is worth.
+Mining Assist Settings
+Change the settings contained in mining-assist.cfg
+Effective Items
+The effective items for Mining Assist. (Will be automatically selected if none are specified.)
+Miner Rank
+The mining rank required for Mining Assist.
+Beginner
+Stone Miner
+Iron Miner
+Magnite Miner
+Gold Miner
+Aqua Miner
+Hexcite Miner
+Diamond Miner
+Actual Mining
+Whether to apply actual mining. No matter how much you mine, you can get mining points and mining combo only once.
+Collect Drops
+Whether to collect drops.
+Collect Experiences
+Whether to collect experience drops.
+Priority Vein Mining
+Whether to give priority to Vein Mining over other modes.
+Vein Target Blocks
+The target blocks for Vein Mining. (Will be automatically selected if none are specified.)
+Area Target Blocks
+The target blocks for Area Mining. (Will be automatically selected if none are specified.)
+Tunnel Target Blocks
+The target blocks for Tunnel Mining. (Will be automatically selected if none are specified.)
+Vein Mining Limit
+The max number of blocks that vein mining will break at once.
+Area Mining
+Modified Hardness
+Whether to enable the modified hardness system for Mining Assist.
+Mining Assist Notifications
+If the current mining assist type will be sent in chat when logging in.
+Dimension Settings
+Change the settings for cave dimensions
+Cavern
+Change the settings contained in cavern-dimension.cfg
+Huge Cavern
+Change the settings contained in hugecavern-dimension.cfg
+Aqua Cavern
+Change the settings contained in aquacavern-dimension.cfg
+Mirage Worlds
+Change the settings contained in mirageworlds-dimension.cfg
+Caveland
+Change the settings contained in caveland-dimension.cfg
+Cavenia
+Change the settings contained in cavenia-dimension.cfg
+Dimension
+The dimension id of the dimension. Set to 0 to disable.
+World Height
+The world height of the dimension.
+Portal Ignition Items
+A list of items that will light the portal to this dimension. If nothing is selected, the default item will be used.
+Generate Caves
+If caves generate in this dimension.
+Generate Ravine
+If ravines generate in this dimension.
+Generate Extreme Caves
+If extreme caves generate in this dimension.
+Generate Extreme Ravine
+If extreme ravines generate in this dimension.
+Generate Lakes
+If lakes generate in this dimension.
+Generate Dungeons
+If dungeons generate in this dimension.
+Generate Tower Dungeons
+If tower dungeons generate in this dimension.
+Generate Mineshaft
+If mineshafts generate in this dimension.
+Generate River
+If rivers generate in this dimension.
+Generate Mirage Library
+If mirage libraries generate in this dimension.
+Dungeon Mobs
+A list of mobs that can be used for dungeon spawners.
+Tower Dungeon Mobs
+A list of mobs that can be used for tower dungeon spawners.
+Flood Depth
+How deep flood water is in this dimension.
+Monster Spawn Weight
+The spawn weight for additional monster spawns in this dimension.  Set to 0 to use natural spawns.
+Crazy Spawn Chance
+The spawn chance for crazy monster spawns in this dimension. Set to 0 to disable crazy monster spawns.
+Cave Brightness
+The global light level for this dimension.
+Automatic Veins Gen
+If veins generate by automatic collect from ore dictionary in this dimension.
+Frost Mountains
+The dimension id of the Frost Mountains. Set to 0 to disable.
+Wide Desert
+The dimension id of the Wide Desert. Set to 0 to disable.
+Void
+The dimension id of the The Void. Set to 0 to disable.
+Dark Forest
+The dimension id of the Dark Forest. Set to 0 to disable.
+Crown Cliffs
+The dimension id of the Crown Cliffs. Set to 0 to disable.
+Skyland
+The dimension id of the Skyland. Set to 0 to disable.
+Biome Settings
+Change the biome settings of this dimension.
+Weight
+Generation weight.
+Terrain Block
+The terrain block's registry name.
+Terrain Block Metadata
+The terrain block's metadata.
+Top Block
+The top block's registry name.
+Top Block Metadata
+The top block's metadata.
+Vein Settings
+Change the ore vein settings of this dimension.
+Block
+The block's registry name
+Block Metadata
+The block's metadata.
+Target Block
+The target block's registry name.  This is the block the vein will try to generate inside.
+Target Block Metadata
+The target block's metadata.  This is the block the vein will try to generate inside..
+Weight
+How likely this vein is to try generating, relative to other veins.
+Chance
+The chance for this vein to generate.
+Size
+How large a vein is.
+Height
+The vein height.
+Minimum Height
+The min height this vein can generate at.
+Maximum Height
+The max height this vein can generate at.
+Biomes
+The biomes this vein can generate in.
+Block Selection
+Block Selection
+%d blocks selected
+Item Selection
+Item Selection
+%d items selected
+Biome Selection
+%d biomes selected
+Top Block
+Filler Block
+Temperature
+Rainfall
+Type
+Entity Selection
+%d entities selected
+Ore Dictionary Selection
+%d oredict entries selected
+%d entries selected
+Block
+Oredict
+You are not tired. You cannot sleep for %d minutes.
+You are not strong enough.  You must be a %s or higher.
+You require a mirage book.
+You may not travel yet.
+You find extra minerals in these ores.
+Dimension unloaded
+Beginner
+Stone Miner
+Iron Miner
+Magnite Miner
+Gold Miner
+Aqua Miner
+Hexcite Miner
+Diamond Miner
+%s is now a %s.
+Please wait a moment
+Loading terrain
+Loading is almost complete
+Regenerating %s...
+Backing up %s...
+%s was backed up
+Failed backing up %s
+%s was regenerated
+Failed to regenerate %s
+Dimension Regeneration
+Cannot be canceled
+Regenerate
+Backup
+Backing up dimension data before regeneration.
+Regenerating...
+Backing up..
+Regenerated
+Failed
+Mining Records
+Mining Score
+Cavern Portal
+Huge Cavern Portal
+Aqua Cavern Portal
+Mirage Portal
+Select a dimension
+Aquamarine Ore
+Block of Aquamarine
+Magnite Ore
+Block of Magnite
+Randomite Ore
+Hexcite Ore
+Block of Hexcite
+Fissured %s
+Cavenic Shroom
+Acresia
+Perverted %s
+Perverted Wood
+Perverted Leaves
+Perverted Sapling
+Slippery Ice
+Mirage Bookshelf
+Acresia
+Acresia Seeds
+Acresia Fruits
+Aquamarine
+Magnite Ingot
+Hexcite
+Icy Stick
+Miner's Orb
+Cavenic Orb
+Aquamarine Pickaxe
+Aquamarine Axe
+Aquamarine Shovel
+Magnite Sword
+Magnite Pickaxe
+Magnite Axe
+Magnite Shovel
+Hexcite Sword
+Hexcite Pickaxe
+Hexcite Axe
+Hexcite Shovel
+Hexcite Hoe
+Hexcite Helmet
+Hexcite Chestplate
+Hexcite Leggings
+Hexcite Boots
+Icy Sword
+Icy Pickaxe
+Icy Axe
+Icy Shovel
+Icy Hoe
+Icy Bow
+Cavenic Sword
+Cavenic Axe
+Cavenic Bow
+Mode
+Normal
+Rapid Fire
+Sniper
+Torch Shot
+Ore Compass
+Mirage World: %s
+Caveland
+Cavenia
+Frost Mountains
+Wide Desert
+Void
+Dark Forest
+Crown Cliffs
+Skyland
+You need a portal.
+Right-click the your mirage book to go back.
+Magic Book: %s
+You cannot use this yet.
+You cannot use this here.
+%s has been cast.
+Storage
+Heal
+Warp
+Warp point has been set.
+Warp point is too far away.
+Teleport
+Light
+You must have a torch.
+This spell is already active.
+Your light magic fades.
+Invisibility
+Summon
+Explosion
+Thunderbolt
+Infinity
+Overload
+Physical Boost
+Cavenic Skeleton
+Cavenic Creeper
+Cavenic Zombie
+Cavenic Spider
+Crazy Skeleton
+Crazy Creeper
+Crazy Zombie
+Crazy Spider
+Cavenic Bear
+Cavenic Witch
+Caveman
+Crystal Turret
+Sky Seeker
+Durang Hog
+Summoned %s
+Beam
+Cavern
+Huge Cavern
+Aqua Cavern
+Mirage Worlds
+Cavern
+Cavern
+Enter the Cavern
+Aquamarine
+Acquire an Aquamarine
+Aqua Cavern
+Enter the Aqua Cavern
+Aqua Mining
+Craft an Aquamarine Pickaxe
+Magniter
+Smelt a Magnite Ingot
+Restive Tool
+Craft a Magnite Tool
+Sweet Jewel
+Acquire Hexcite
+Strange Ore
+Mine Randomite Ore
+Miner's Treasure
+Acquire a Miner's Orb
+Ore Finder
+Craft an ore compass
+Wonder Fissure
+Mine a Fissure
+Iron Miner
+Become an Iron Miner
+Gold Miner
+Become a Gold Miner
+Hexcite Miner
+Become a Hexcite Miner
+Diamond Miner
+Become a Diamond Miner
+Mining Streak!
+Hit a 50-ore combo
+Caveland
+Enter Caveland
+Sturdy Crop
+Shear an Acresia
+Ice Charge
+Charge an Icy Tool
+Slippery!
+Walk on Slippery Ice
+Cavenic Hunter
+Kill one of each Cavenic monster
+Cavenic Orb
+Obtain a Cavenic Orb
+Bow Expert
+Obtain a Cavenic Bow
+Cave Dweller
+Punch a Caveman
+Precious Key
+Acquire a Diamond
+Huge Cavern
+Enter the Huge Cavern
+Cavenia
+Enter Cavenia
+Conqueror of Caves
+Kill one of each cavern monster
+Magician
+Obtain a Spellbook
+One Jump
+Cast Warp
+Leave a Light On
+Cast Light
+Peek a Boo
+Cast Invisibility
+Not Alone
+Cast Summon
+Exploder
+Cast Explosion
+Thunder Strike
+Cast Thunderbolt
+Infinite Power
+Cast Infinity
+Further Energy
+Cast Overload
+Mirage Trip
+Obtain a Mirage Book
+Frost Mountains
+Enter the Frost Mountains
+Wide Desert
+Enter the Wide Desert
+Void
+Enter the Void
+Dark Forest
+Enter the Dark Forest
+Crown Cliffs
+Enter the Crown Cliffs
+Skyland
+Enter the Skyland
+Cavern
+Toggle Mining Assist
+Open Mining Records
+Spellbook
+Mining Assist
+Mining Assist Selection
+Disabled
+Veinmine
+Area
+Tunneling
+Auto Switch
+Auto Switch: Veinmine
+Auto Switch: Tunneling
+Mining Assist has been changed to %s
+Mining Assist cannot be changed until you become a %s
+Press %s key to toggle mode
+Mining Assist is set to %s
+Ability Unlocked!
+Ice Charge: %s
+Portal Shop

@@ -1,0 +1,11 @@
+English
+TileEntity: %s
+Entity: %s
+OreDict: §6%s§r
+OreDict:
+ * §6%s§r
+ICap: %s
+TCap: %s
+ECap: %s
+CCap: %s
+WCap: %s

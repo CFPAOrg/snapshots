@@ -1,0 +1,461 @@
+% Visibility Reduction
+% Sight
+% Noise Reduction
+% Hearing
+% Scent Reduction
+% Smelling
+Soul Sight
+Potion of Soul Sight
+Splash Potion of Soul Sight
+Lingering Potion of Soul Sight
+Arrow of Soul Sight
+Potion of Blindness
+Splash Potion of Blindness
+Lingering Potion of Blindness
+Arrow of Blindness
+Potion of Glowing
+Splash Potion of Glowing
+Lingering Potion of Glowing
+Arrow of Glowing
+§dMakes server reload config from file
+§aServer reloaded DS config from file
+§eNote: The "reset to default" buttons for DS may be glitched until MC is restarted
+§eNote: Some things may not update correctly until server reset (but most things should update just fine)
+§dTrue is normal/default, false means the player can always see you
+§dShow whether or not you're attempting to hide from the player
+§dShow a list of players you are NOT attempting to hide from
+§aYou are currently attempting to hide from all players
+§eYou are currently NOT attempting to hide from...%s
+§aYou are currently attempting to hide from %s
+§eYou are currently NOT attempting to hide from %s
+§aYou are now attempting to hide from %s
+§eYou are now NOT attempting to hide from %s
+§cThird argument must be one of these: §dt, true, f, false
+§cEntity not found for UUID: %s
+§cEntity for UUID is not an EntityLivingBase: %s
+§cThreat amount must be from 0 to 100 (inclusive)
+HP: %s / %s (%s%%)
+???
+Action: %s
+Fleeing from %s
+Searching...
+Idle (Passive)
+Idle (Non-Passive)
+Targeting %s
+Dazed
+Threat: %s%%
+Threat: N/A
+Distance: %s
+Client Settings
+Server Settings
+HUD
+FILLSCREEN What information you want to have displayed on the screen
+Entity Fading
+FILLSCREEN How entities fade in and out, if at all
+Main HUD Style
+On-point HUD Filter
+On-point HUD Style
+Targeting Filter
+Targeting HUD Style
+Light Gauge
+Stealth Gauge Opacity
+FILLSCREEN FIXNEWLINES How visible the stealth gauge is, transparency-wise\n\n0 means invisible, 1 means completely opaque\n \n
+Stealth Gauge Color
+FILLSCREEN FIXNEWLINES The color of the stealth gauge\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+Stealth Gauge Rim Color
+FILLSCREEN FIXNEWLINES The color of the stealth gauge's rim and arrow\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+Stealth Gauge Size
+FILLSCREEN FIXNEWLINES The size of the stealth gauge\n \n
+Stealth Gauge Mode
+Stealth Gauge X Position
+FILLSCREEN FIXNEWLINES The x position of the stealth gauge\n\n0 is far left, 0.5 is center, 1 is far right\n \n
+Stealth Gauge Y Position
+FILLSCREEN FIXNEWLINES The y position of the stealth gauge\n\n0 is top, 0.5 is center, 1 is bottom\n \n
+Bypass
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for entities that bypass the threat system\n \n
+Idle (Passive)
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for idle passive entities\n \n
+Idle (Non-Passive)
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for idle non-passive entities.  This also applies to idle passive entities if the server has passive recognition disabled\n \n
+Attacking You
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for entities that are attacking YOU\n \n
+Attacking Other
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for entities which are attacking something besides you\n \n
+Searching
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for alerted entities who are actively searching for a target\n \n
+Fleeing (Passive)
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for passive entities that are fleeing\n \n
+Fleeing (Non-Passive)
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for non-passive entities that are fleeing\n \n
+Dazed
+FILLSCREEN FIXNEWLINES If true, on-point indicators appear for dazed entities\n \n
+Use Depth
+FILLSCREEN FIXNEWLINES If false, on-point HUDs will display on top of blocks and models, but below shadows (bit glitchy when overlapping shadows)\n\nIf true, on-point HUDs will display on top of shadows correctly, but at their position in-world, ie. they can be hidden behind blocks/models\n \n
+3D Vertical Percentage
+FILLSCREEN FIXNEWLINES 3D position height is <this setting * entity height + vertical offset>\n\nBasically, if you want to use the top of the head as the base position (and then add offsets), set this to 1\n\nAt the feet would be 0, and 0.5 would make the base position the 3D center of the entity\n \n
+Account For Sneaking
+FILLSCREEN FIXNEWLINES If set to true, vertical position is shifted down a bit when the entity is sneaking, similar to default nameplate behavior\n \n
+3D Vertical Offset
+FILLSCREEN FIXNEWLINES 3D position height is <vertical percentage * entity height + this setting>\n\nSo if you want the 3D position to be half a  block above the head (synced with nameplate), set vertical percentage to 1, and this setting to 0.5\n \n
+3D Horizontal Percentage
+FILLSCREEN FIXNEWLINES This setting alters the horizontal 3D position *after* rotation happens\n\nIf you set this to 0.5, it will be centered on the left side of the entity, and -0.5 will be centered on the right\n \n
+2D Horizontal Offset
+FILLSCREEN FIXNEWLINES Slides the indicator left and right in relation to your screen\n \n
+2D Vertical Offset
+FILLSCREEN FIXNEWLINES Slides the indicator up and down in relation to your screen\n \n
+Scale
+FILLSCREEN FIXNEWLINES The scale of the indicator itself; how big the indicator is\n \n
+Max Distance
+FILLSCREEN FIXNEWLINES The maximum distance at which the targeting system will acquire a target\n \n
+Max Angle
+FILLSCREEN FIXNEWLINES The maximum angle at which the targeting system will acquire a target\nIf set to -1, targeting is disabled\n \n
+Bypass
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an entity that bypasses the threat system\n \n
+Idle (Passive)
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an idle passive entity\n \n
+Idle (Non-Passive)
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an idle non-passive entity.  This also applies to idle passive entities if the server has passive recognition disabled\n \n
+Attacking You
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an entity that is attacking YOU\n \n
+Attacking Other
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an entity that is attacking something besides you\n \n
+Searching
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on an entity that is actively searching for a target\n \n
+Fleeing (Passive)
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on a passive entity that is fleeing\n \n
+Fleeing (Non-Passive)
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on a non-passive entity that is fleeing\n \n
+Dazed
+FILLSCREEN FIXNEWLINES If true, the targeting HUD shows when focused on a dazed entity\n \n
+Glow
+FILLSCREEN FIXNEWLINES If true, the currently targeted entity is highlighted with a glow effect\n \n
+State-Colored Glow
+FILLSCREEN FIXNEWLINES If this and Glow are both set to true, the currently targeted entity glows in a color pertaining to its current state instead of white\n \n
+Reticle Opacity
+FILLSCREEN FIXNEWLINES How visible the targeting reticle is, transparency-wise\n\n0 means invisible, 1 means completely opaque\n \n
+Default Reticle Color
+FILLSCREEN FIXNEWLINES The color of the targeting reticle, if state-colored reticle is false\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+State-Colored Reticle
+FILLSCREEN FIXNEWLINES If true, the targeting reticle is drawn in a color pertaining to the target's current state\n \n
+Reticle Spacing
+FILLSCREEN FIXNEWLINES How far the parts of the targeting reticle are from the center\n \n
+Reticle Size
+FILLSCREEN FIXNEWLINES The size of the reticle parts\n \n
+Text Opacity
+FILLSCREEN FIXNEWLINES How visible the text of the targeting HUD is, transparency-wise\n\n0 means invisible, 1 means completely opaque\n \n
+Default Text Color
+FILLSCREEN FIXNEWLINES The color of the targeting HUD text, if state-colored text is false\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+State-Colored Text
+FILLSCREEN FIXNEWLINES If true, the targeting HUD text is drawn in a color pertaining to the target's current state\n \n
+Text Scale
+FILLSCREEN FIXNEWLINES The scale of the text for the targeting HUD\n \n
+Arrow Opacity
+FILLSCREEN FIXNEWLINES How visible the directional indicator for the main target is, transparency-wise\nThis arrow is only visible when the current target is off-screen\n\n0 means invisible, 1 means completely opaque\n \n
+Default Arrow Color
+FILLSCREEN FIXNEWLINES The color of the directional indicator for the main target, if state-colored arrow is false\nThis arrow is only visible when the current target is off-screen\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+State-Colored Arrow
+FILLSCREEN FIXNEWLINES If true, the directional indicator for the main target is drawn in a color pertaining to the target's current state\nThis arrow is only visible when the current target is off-screen\n \n
+Arrow Size
+FILLSCREEN FIXNEWLINES The size of the directional indicator for the main target\nThis arrow is only visible when the current target is off-screen\n \n
+Components
+Name
+FILLSCREEN FIXNEWLINES If true, the targeted entity's name is shown (if available)\n \n
+Health
+FILLSCREEN FIXNEWLINES If true, the targeted entity's health is shown (if available)\n \n
+Action
+FILLSCREEN FIXNEWLINES If true, the targeted entity's current action is shown (if available)\n \n
+Threat
+FILLSCREEN FIXNEWLINES If true, the targeted entity's threat level is shown (if available)\n \n
+Distance
+FILLSCREEN FIXNEWLINES If true, the targeted entity's distance is shown (if available)\n \n
+Show Light Gauge
+FILLSCREEN FIXNEWLINES Whether to show the light gauge\n \n
+Light Gauge Opacity
+FILLSCREEN FIXNEWLINES How visible the light gauge is, transparency-wise\n\n0 means invisible, 1 means completely opaque\n \n
+Light Gauge Color (Empty)
+FILLSCREEN FIXNEWLINES The color of an empty light gauge piece\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+Light Gauge Color (Full)
+FILLSCREEN FIXNEWLINES The color of a filled light gauge piece\n\nThis uses the format RRGGBB color format (if you google RRGGBB you'll find a color picker you can use)\n \n
+Light Gauge Size
+FILLSCREEN FIXNEWLINES The size of the light gauge\n \n
+Light Gauge X Position
+FILLSCREEN FIXNEWLINES The x position of the light gauge\n\n0 is far left, 0.5 is center, 1 is far right\n \n
+Light Gauge Y Position
+FILLSCREEN FIXNEWLINES The y position of the light gauge\n\n0 is top, 0.5 is center, 1 is bottom\n \n
+Minimum Entity Opacity
+FILLSCREEN FIXNEWLINES The opacity of an entity when you just barely see it\n\nIf set to 0, entities on the edge of your vision are nearly invisible\n\nIf set to 1, entities always appear at full visibility\n \n
+Full Opacity At...
+FILLSCREEN FIXNEWLINES The stealth rating at or above which an entity is drawn at full opacity\n\nIf set to 1, entities are only drawn at full opacity in the very best of visibility conditions\n\nDecreasing the value makes entities appear opaque at further distances and in lower lighting, etc\n \n
+AI
+Client HUD allowances
+Senses
+Threat System
+FILLSCREEN FIXNEWLINES The threat system decides when an entity switches from one attack target to another\n\nThis is similar to threat systems found in some MMORPGs\n \n
+Helper System
+FILLSCREEN Which entities come to the aid of which other entities
+Interactions
+FILLSCREEN Things that happen under special circumstances, eg. stealth attacks
+Items
+Entity-Specific Full Bypass
+FILLSCREEN Entities in this list will completely bypass all DS systems!
+Head Turn Speed
+FILLSCREEN FIXNEWLINES How quickly entities' heads spin during eg. a search sequence\n \n
+Entity-Specific Settings (Advanced)
+Flee
+Can't Reach
+Prevent Pet Teleport
+FILLSCREEN FIXNEWLINES If set to true, wolves, cats, and parrots do not teleport while following their owners\n \n
+Add Null Checks to AI
+FILLSCREEN FIXNEWLINES AI classes to add null checks to (to prevent DS compat-related crashes with AI tasks that don't do null checks)\n\nSyntax is...\nmodid, PartialClassName\n\nmodid is the exact modid of the mod which contains the crashing AI task class\n\nPartialClassName is at least part of the name of the crashing AI task class.  This is a 'contains' check, so any AI task class containing this string as part of its name will have null checks added to it\n \n
+Head Turn Speed
+FILLSCREEN FIXNEWLINES How quickly entities' heads spin during eg. a search sequence\n\nentityID, headTurnSpeed\n\neg...\n\nminecraft:skeleton, 5\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Entity-Specific Flee Thresholds
+FILLSCREEN FIXNEWLINES The % of health at which entities start to flee\n\nentityID, fleeThreshold\n\neg...\n\nminecraft:skeleton, 70\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+HP Threshold
+FILLSCREEN FIXNEWLINES The %% of health at which entities start to flee\n \n
+Damage Increases Flee Duration
+FILLSCREEN FIXNEWLINES If set to true, then when an entity is *already* in flee mode, damage will increase its flee duration\n \n
+CNPCs flee To Home Position
+FILLSCREEN FIXNEWLINES If enabled, Custom NPCs flee to their home position instead of away from what hit them\n \n
+CNPCs Reset in Water
+FILLSCREEN FIXNEWLINES If enabled, Custom NPCs reset when they touch water\n \n
+Combat Time
+FILLSCREEN FIXNEWLINES Deciding we can't reach the target requires at least this many ticks in combat\n \n
+No Attack Time
+FILLSCREEN FIXNEWLINES Deciding we can't reach the target requires at least this many ticks since the last successful attack\n \n
+No Path Time
+FILLSCREEN FIXNEWLINES Deciding we can't reach the target requires at least this many ticks without a path to the target\n \n
+Target Time
+FILLSCREEN FIXNEWLINES Deciding we can't reach the target requires at least this many ticks with a valid target\n \n
+Flee If Unreachable
+FILLSCREEN FIXNEWLINES If we can't reach the target, do what brave Sir Robin does\n \n
+Potion Filter
+FILLSCREEN FIXNEWLINES An entity will not go into "can't reach" mode if it has one of these potion effects\n\nThis prevents 'can't reach' mode if the entity has slowness level 99:\nslowness.99"\n\nThis prevents 'can't reach' mode if the entity has any level of levitation:\nlevitation.*\n \n
+Targeting allowances
+OPHUD allowances
+Recognize Passives Automatically
+FILLSCREEN FIXNEWLINES If enabled, clients' threat HUDs will display green for passive mobs.  If disabled, passives appear as non-passives (blue).\n \n
+Allow Stealth Gauge
+FILLSCREEN FIXNEWLINES If enabled, clients can see their current stealth level in their HUD\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Stealth Gauge Blacklist
+FILLSCREEN FIXNEWLINES Entities in this list will not trigger the stealth gauge!\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Allow "Name" Display
+FILLSCREEN FIXNEWLINES If enabled, clients can see the names of entities\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Allow "HP" Display
+FILLSCREEN FIXNEWLINES If enabled, clients can see the HP of entities\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Allow "Target's Target" Display
+FILLSCREEN FIXNEWLINES If enabled, clients can see what other entities are targeting\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Allow "Threat" Display
+FILLSCREEN FIXNEWLINES If enabled, clients can see the numerical threat % of entities\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Allow "Distance" Display
+FILLSCREEN FIXNEWLINES If enabled, clients can see the distance to entities\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+Allow On-Point HUD
+FILLSCREEN FIXNEWLINES If enabled, clients can turn on/off a HUD which appears above each entity\n\n0 means disabled for all players\n1 means enabled for OP players ONLY\n2 means enabled for all players\n \n
+OPHUD Range
+FILLSCREEN FIXNEWLINES The maximum distance at which on-point HUDs will appear on clients; impacts server performance if too high\n \n
+OPHUD Update Delay
+FILLSCREEN FIXNEWLINES How many ticks there are between on-point HUD updates; increasing this will reduce server load\n \n
+Use player senses
+FILLSCREEN FIXNEWLINES If enabled, stealth mechanics work on players\n\nBasically if this is turned on and that skeleton is holding still in the dark, you might not be able to see him until you get close\n \n
+Touch
+Sight
+Hearing
+Enable Touch
+FILLSCREEN FIXNEWLINES If true, entities can feel each other if they bump into one another\n \n
+Touch Reveals
+FILLSCREEN FIXNEWLINES If true, entities that bump into each other both have invisibility removed from them\n \n
+Unfeeling
+FILLSCREEN FIXNEWLINES Entities in this list don't notice when something bumps them\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Stealth Multipliers
+FILLSCREEN FIXNEWLINES Contains multipliers that increase stealth / decrease awareness\n\nWhichever of these multipliers is currently giving the best (lowest) multiplier is used\n \n
+Visibility Multipliers
+FILLSCREEN FIXNEWLINES Contains multipliers that decrease stealth / increase awareness\n\nWhichever of these multipliers is currently giving the worst (highest) multiplier is used\n \n
+Lighting
+FILLSCREEN How much of an effect lighting has on stealth.  Nightvision is in here as well
+Angle
+FILLSCREEN FOV angles
+Distance
+FILLSCREEN FOV distances
+Absolute Cases
+FILLSCREEN Special cases, eg. glowing
+Entity-Specific Settings (Advanced)
+Crouching Multiplier
+FILLSCREEN FIXNEWLINES Multiplies an entity's visibility by this decimal when crouching\n\nIf set to 1, there is no effect\n\nIf set to 0, crouching entities are invisible (except in special cases)\n \n
+Mob Head Multiplier
+FILLSCREEN FIXNEWLINES When an entity (including a player) is wearing a mob head, mobs of that type have reduced chance to realize they're a target\n\nIf set to 1, there is no effect\n\nIf set to 0, mobs of the mob head type cannot notice entities wearing their heads\n \n
+Invisibility Multiplier
+FILLSCREEN FIXNEWLINES Invisible entities' visibility is multiplied by this\n\nIf set to 1, there is no effect\n\nIf set to 0, invisible entities are, uh...invisible\n \n
+Blindness Multiplier
+FILLSCREEN FIXNEWLINES Blinded entities' detection range is multiplied by this\n\nIf set to 1, there is no effect\n\nIf set to 0, blind entities can't see\n \n
+Armor Multiplier (Cumulative)
+FILLSCREEN FIXNEWLINES An entity's visibility is multiplied by 1 + (this setting * armor)\n\nIf set to 0, there is no effect\n\nIf set to 0.25, an entity with 20 armor (full diamond) is 5x as likely to be seen\n \n
+Light Level (High/Bright)
+FILLSCREEN FIXNEWLINES At or above this light level, entities receive the maximum light level multiplier\n \n
+Light Level (Low/Dark)
+FILLSCREEN FIXNEWLINES At or below this light level, entities receive the minimum light level multiplier\n \n
+Multiplier (High/Bright)
+FILLSCREEN FIXNEWLINES The light level visibility multiplier when standing in bright areas\n\n0 means invisible, 1 means fully visible (other factors not accounted for)\n \n
+Multiplier (Low/Dark)
+FILLSCREEN FIXNEWLINES The light level visibility multiplier when standing in dark areas\n\n0 means invisible, 1 means fully visible (other factors not accounted for)\n \n
+Nightvision Bonus
+FILLSCREEN FIXNEWLINES When an entity has the nightvision effect, this value is added to their perceived light levels (and then set to 15 if larger than 15)\n \n
+Minimum Dimension Light Levels
+FILLSCREEN FIXNEWLINES The minimum light level Dynamic Stealth will detect when in a given dimension\n\nThese are mostly for dimensions with ambient lighting (eg. the nether and the end)\n\nThe 1st number is the dimension id, the 2nd is the minimum light level for that dimension\n \n
+Angle (Large/Wide; Near)
+Angle (Small/Thin; Far)
+Distance (Far)
+FILLSCREEN FIXNEWLINES The absolute maximum distance that an entity can see another entity from, in blocks\n\nExclusive, so if set to 0 mobs NEVER see anything, with a few exceptions, eg...\n\nZombies will still attack villagers as normal; this uses completely different logic than what I'm accessing atm so I'm not trying to change it for now\n\nSome mobs are not affected at all, for the same reason as stated above, including endermen and the ender dragon\n \n
+Distance (Near)
+FILLSCREEN FIXNEWLINES The distance before an entity's sight starts degrading naturally (even in good conditions),  in blocks\n\nExclusive, so if set to 0 mobs NEVER see anything, with a few exceptions, eg...\n\n...zombies will still attack villagers as normal; this uses completely different logic than what I'm accessing atm so I'm not trying to change it for now\n\n...some mobs are not affected at all, for the same reason as stated above, including endermen and the ender dragon\n \n
+See Glowing
+FILLSCREEN FIXNEWLINES If set to true, glowing entities will be seen when inside another entity's FOV, ignoring all other factors\n\nAllows entities to see invisible players who are glowing, but does not remove invisibility; if glowing runs out before invisibility, you're hard to see again\n \n
+See Burning
+FILLSCREEN FIXNEWLINES If set to true, burning entities are always considered to be standing in full light\n \n
+Angle
+FILLSCREEN FIXNEWLINES How wide an entity's vision is, near and far away\n\nentityID, angleLarge, angleSmall\n\neg...\n\nminecraft:skeleton, 90, 45\n \n
+Distance
+FILLSCREEN FIXNEWLINES How far an entity can see, at the edge of its vision and at its focal point\n\nentityID, distanceFar, distanceNear\n\neg...\n\nminecraft:skeleton, 40, 3\n \n
+Lighting
+FILLSCREEN FIXNEWLINES How well an entity sees in the dark\n\nentityID, lightLevelHigh, lightMultHigh, lightLevelLow, lightMultLow\n\neg...\n\nminecraft:skeleton, 15, 1, 0, 0\n \n
+Naturally Bright
+FILLSCREEN FIXNEWLINES Entities in this list are always treated as if they are standing in max light level\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Natural Nightvision
+FILLSCREEN FIXNEWLINES Entities in this list ALWAYS get the nightvision bonus\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Natural Soul Sight
+FILLSCREEN FIXNEWLINES Entities in this list pretty much see everything\n\nAdding the player keyword to this list makes all players see all entities as if they had glowing (visible through walls)\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Warning Range
+FILLSCREEN FIXNEWLINES How far away entities can hear warnings, by default\n \n
+Notification Range
+FILLSCREEN FIXNEWLINES How far away entities can hear target death notifications, by default\n\nHearing a target death notification from an entity they trust makes them drop threat target\n \n
+No LOS Multiplier
+FILLSCREEN FIXNEWLINES If the observer doesn't have LOS to the source of the sound, its hearing range is multiplied by this\n \n
+Entity-Specific Settings (Advanced)
+CNPC Threat Settings
+Dealt Damage Multiplier
+FILLSCREEN FIXNEWLINES When an in-combat entity damages its current target, its threat is increased by the damage dealt times this, divided by its target's max HP\n \n
+"Attacked By Same" Multiplier
+FILLSCREEN FIXNEWLINES When an in-combat entity is attacked by its current target, its threat is increased by the damage taken times this, divided by its max HP\n \n
+"Attacked By Other" Multiplier
+FILLSCREEN FIXNEWLINES When an in-combat entity is attacked by something that is *not* its current target, its threat is decreased by damage taken times this, divided by its max HP\n \n
+Bypass Threat System (Global)
+FILLSCREEN FIXNEWLINES If enabled, all entities should bypass the threat system\n \n
+"Start of Combat" Threat
+FILLSCREEN FIXNEWLINES When an out-of-combat entity first enters combat, its threat is set to this\n\nThis can happen from an entity seeing a valid target to attack or from an entity taking damage while out of combat\n \n
+"Ally Killed" Threat
+FILLSCREEN FIXNEWLINES When an entity sees an ally die, increase threat\n \n
+"Warned" Threat
+FILLSCREEN FIXNEWLINES When an entity heeds a warning from another entity, its threat is set to this (if less than this)\n \n
+Unseen Target Minimum Threat Level
+FILLSCREEN FIXNEWLINES If an entity's threat level falls below this and they don't see their target, they go out-of-combat / stop searching\n \n
+Unseen Target Degredation Rate
+FILLSCREEN FIXNEWLINES Every time an entity updates and their target's position is unknown, this is subtracted from their threat\n \n
+Flee Degredation Rate
+FILLSCREEN FIXNEWLINES How fast the threat gauge decreases while fleeing; lower number means they flee for a longer time\n \n
+Seen Target Threat Rate
+FILLSCREEN FIXNEWLINES Every time an entity updates and their target is visible and reachable, this is added to their threat\n \n
+Owned Can't Reach Degredation Rate
+FILLSCREEN FIXNEWLINES Every time an owned entity updates and can't reach their target, this is subtracted from their threat\n \n
+Threat Bypass
+FILLSCREEN FIXNEWLINES Entities in this bypass the threat system\n\nThis means they will not use the search AI, will appear with ???? as their target and threat level in the targeting HUD, and always appear as full alert in the on-point HUD\n\nFor some entities, this option is necessary for them to work right, such as slimes.  For others, like the ender dragon and other players, it has no effect besides how they appear in the HUD\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Passiveness
+FILLSCREEN FIXNEWLINES Sets whether the threat system detects and entity as passive or not\n\nentityID, passivity\n\neg...\n\nminecraft:skeleton, true\n\nYou can also specify entities with a certain name, like so:\nmodid:entity:name\n \n
+Faction Threat Bypass
+FILLSCREEN FIXNEWLINES All CNPCs in these factions will bypass the threat system\n \n
+Ownership
+Teams
+Custom NPCs Factions
+FILLSCREEN These settings only matter if Custom NPCs is installed
+Help Same Entity Type
+FILLSCREEN FIXNEWLINES Whether to help entities of the same type\n\nEg. if set to true, skeletons will help other skeletons (but not zombies)\n \n
+Help Owner
+FILLSCREEN FIXNEWLINES Help our owner (if we have one)\n \n
+Help If Same Owner
+FILLSCREEN FIXNEWLINES Help them if we both have the same owner (if we have one)\n \n
+Dedicated
+FILLSCREEN FIXNEWLINES DON'T help them if they don't have the same owner (if we have one)\n \n
+Help Owned
+FILLSCREEN FIXNEWLINES Help them if we own them\n \n
+Help Same Team
+FILLSCREEN FIXNEWLINES Help other entities on our team\n \n
+Don't Help Other Teams
+FILLSCREEN FIXNEWLINES Make sure NOT to help entities on other teams\n \n
+Help If Good Rep
+FILLSCREEN FIXNEWLINES Help npcs in the same faction and players with good faction rep\n \n
+Don't Help If Bad Rep
+FILLSCREEN FIXNEWLINES Make sure NOT to help those we're hostile to\n \n
+Attack (Melee)
+FILLSCREEN When anything attacks anything else (melee)
+Attack (Ranged)
+FILLSCREEN When anything attacks anything else (ranged)
+Stealth Attack (Melee)
+FILLSCREEN When something attacks an unaware victim (melee)
+Stealth Attack (Ranged)
+FILLSCREEN When something attacks an unaware victim (ranged)
+Assassination (Melee)
+FILLSCREEN When something kills without being detected (melee)
+Assassination (Ranged)
+FILLSCREEN When something kills without being detected (ranged)
+Calm Down
+FILLSCREEN When something was fleeing, but ran out of threat
+Give Up Search
+FILLSCREEN When something was searching for a target, but ran out of threat
+Rally
+FILLSCREEN When something was fleeing, but regained health
+Desperation
+FILLSCREEN When something is cornered while fleeing
+Can't Reach
+FILLSCREEN When something cannot reach its target
+Remove Invisibility On Hit
+FILLSCREEN FIXNEWLINES If set to true, when one living entity hits another living entity, they both lose invisibility\n\nThis happens before any new effects are applied\n \n
+Remove Blindness On Hit
+FILLSCREEN FIXNEWLINES If set to true, when one living entity hits another living entity, they both lose blindness\n\nThis happens before any new effects are applied\n \n
+Armor Penetration
+FILLSCREEN FIXNEWLINES Whether stealth attacks bypass armor or not\n \n
+Damage Multiplier
+FILLSCREEN FIXNEWLINES Damage is multiplied by this when attacking from stealth\n \n
+Attacker Effects
+FILLSCREEN FIXNEWLINES Potion effects that are applied to the attacker when an attack happens\n\nThis applies strength 2 for 200 ticks (10 seconds):\nstrength.200.2"\n\nThis applies soul sight for 100 ticks (5 seconds):\ndynamicstealth:soulsight.100\n \n
+Victim Effects
+FILLSCREEN FIXNEWLINES Potion effects that are applied to the victim when an attack happens\n\nThis applies blindness for 100 ticks (5 seconds):\nblindness.100\n \n
+Weapon-Specific Settings
+Armor Penetration
+FILLSCREEN FIXNEWLINES Whether stealth attacks bypass armor or not\n \n
+Damage Multiplier
+FILLSCREEN FIXNEWLINES Damage is multiplied by this when attacking from stealth\n \n
+Attacker Effects
+FILLSCREEN FIXNEWLINES Potion effects that are applied to the attacker when a stealth attack happens\n\nThis applies strength 2 for 200 ticks (10 seconds):\nstrength.200.2\n\nThis applies soul sight for 100 ticks (5 seconds):\ndynamicstealth:soulsight.100\n \n
+Victim Effects
+FILLSCREEN FIXNEWLINES Potion effects that are applied to the victim when a stealth attack happens\n\nThis applies blindness for 100 ticks (5 seconds):\nblindness.100\n \n
+Weapon-Specific Settings
+Attacker Effects
+FILLSCREEN FIXNEWLINES Potion effects that are applied to the attacker when an assassination happens\n\nThis applies strength 2 for 200 ticks (10 seconds):\nstrength.200.2\n\nThis applies soul sight for 100 ticks (5 seconds):\ndynamicstealth:soulsight.100\n \n
+Weapon-Specific Settings
+Recover all HP
+FILLSCREEN FIXNEWLINES If set to true, all hp is instantly recovered when calming down\n \n
+CNPCs Warp Home
+FILLSCREEN If set to true, cnpcs warp home when calming down
+Potion Effects
+FILLSCREEN FIXNEWLINES Potion effects to apply when something calms down after fleeing\n\nThis applies strength 2 for 200 ticks (10 seconds):\nstrength.200.2\n\nThis applies soul sight for 100 ticks (5 seconds):\ndynamicstealth:soulsight.100\n \n
+Recover all HP
+FILLSCREEN FIXNEWLINES If set to true, all hp is instantly recovered when giving up searching for a target\n \n
+CNPCs Warp Home
+FILLSCREEN If set to true, cnpcs warp home when they give up searching for a target
+Potion Effects
+FILLSCREEN FIXNEWLINES Potion effects to apply when something rallies\n\nThis applies strength 2 for 200 ticks (10 seconds):\nstrength.200.2\n\nThis applies soul sight for 100 ticks (5 seconds):\ndynamicstealth:soulsight.100\n \n
+Potion Effects
+FILLSCREEN FIXNEWLINES Potion effects to apply when something gets cornered and desperate\n\nThis applies strength 2 for 200 ticks (10 seconds):\nstrength.200.2\n\nThis applies soul sight for 100 ticks (5 seconds):\ndynamicstealth:soulsight.100\n \n
+Potion Effects
+FILLSCREEN FIXNEWLINES Potion effects to apply when something can't reach its target\n\nThis applies strength 2 for 200 ticks (10 seconds):\nstrength.200.2\n\nThis applies soul sight for 100 ticks (5 seconds):\ndynamicstealth:soulsight.100\n \n
+Potions
+Soul Sight Potions
+FILLSCREEN FIXNEWLINES Whether to load soul sight potions (accessible from the brewing tab of the creative menu)\n \n
+Soul Sight Potion Recipes
+FILLSCREEN FIXNEWLINES Whether to load the soul sight potion recipe (thick potion + ender eye)\n \n
+Blindness Potions
+FILLSCREEN FIXNEWLINES Whether to load blindness potions (accessible from the brewing tab of the creative menu)\n \n
+Blindness Potion Recipes
+FILLSCREEN FIXNEWLINES Whether to load the blindness potion recipe (thick potion + ink sac)\n \n
+Glowing Potions
+FILLSCREEN FIXNEWLINES Whether to load glowing potions (accessible from the brewing tab of the creative menu)\n \n
+Glowing Potion Recipes
+FILLSCREEN FIXNEWLINES Whether to load the glowing potion recipe (thick potion + glowstone dust)\n \n

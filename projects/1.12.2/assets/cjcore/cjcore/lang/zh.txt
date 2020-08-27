@@ -1,0 +1,41 @@
+A energy support of type %s has already been registered - SKIPPING
+Successfully registered energy support %s
+An energy unit of type %s has already been registered - SKIPPING
+Successfully registered energy unit %s
+Name: %s
+Suffix: %s
+Multiplier: %s
+%s Charged
+Forge Energy
+FE
+Redstone Flux
+RF
+Tesla
+T
+Joules
+J
+Minecraft Joules
+MJ
+Energy Unit
+EU
+Energy
+Capacity
+Max Input
+Max Output
+Empty
+CJCore Configuration
+Energy Configuration
+Everything to do with energy
+Default Energy Unit
+Energy Bar Show Capacity
+Energy Bar Simplify Energy 
+Fluid Configuration
+Everything to do with fluids
+Fluid Bar Show Capacity
+Fluid Bar Simplify Fluids
+/tileenitty <x> <y> <z> <energy:inventory:fluid> get [side] or /tileenitty <x> <y> <z> energy <set:give:take> <energy> <unit> [side] or /tileenitty <x> <y> <z> inventory <insert:extract> <item> [amount] [data] [dataTag] [side] or /tileentity <x> <y> <z> fluid <fill:drain> <fluid> <amount> [dataTag] [side] or /tileentity <x> <y> <z> fluid drain <amount> [side]
+There is no support for the tile entity at position %s %s %s
+This tile entity does not allow energy to be taken
+This tile entity does not allow energy to be given
+This tile entity does not allow energy to be set
+This fluid does not exist!

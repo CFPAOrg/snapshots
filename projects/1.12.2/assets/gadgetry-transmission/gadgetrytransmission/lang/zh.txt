@@ -1,0 +1,10 @@
+Gadgetry: Transmission
+Energy Cable
+Fluid Pipe
+Item Pipe
+Energy IO
+Fluid IO
+Item IO
+battery
+tank
+inventory

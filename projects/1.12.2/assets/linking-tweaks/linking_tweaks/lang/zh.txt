@@ -1,0 +1,9 @@
+Fissure Drop
+Enabled
+Height
+Fall Safety Hearts
+Fall Safety Style
+Normal Damage
+No Damage
+Hearts Left
+Hearts Taken

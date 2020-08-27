@@ -1,0 +1,1034 @@
+Jaspillite Hematite
+Pitchblende
+Olivine
+Mawsonite
+Mawsonite
+Granite Mawsonite
+Diorite Mawsonite
+Gabbro Mawsonite
+Shale Mawsonite
+Claystone Mawsonite
+Rocksalt Mawsonite
+Limestone Mawsonite
+Conglomerate Mawsonite
+Dolomite Mawsonite
+Chert Mawsonite
+Chalk Mawsonite
+Rhyolite Mawsonite
+Basalt Mawsonite
+Andesite Mawsonite
+Dacite Mawsonite
+Quartzite Mawsonite
+Slate Mawsonite
+Phyllite Mawsonite
+Schist Mawsonite
+Gneiss Mawsonite
+Marble Mawsonite
+Blaimorite Native Copper
+Blaimorite Native Gold
+Blaimorite Native Platinum
+Blaimorite Hematite
+Blaimorite Native Silver
+Blaimorite Cassiterite
+Blaimorite Galena
+Blaimorite Bismuthinite
+Blaimorite Garnierite
+Blaimorite Malachite
+Blaimorite Magnetite
+Blaimorite Limonite
+Blaimorite Sphalerite
+Blaimorite Tetrahedrite
+Blaimorite Bituminous Coal
+Blaimorite Lignite
+Blaimorite Kaolinite
+Blaimorite Gypsum
+Blaimorite Satinspar
+Blaimorite Selenite
+Blaimorite Graphite
+Blaimorite Kimberlite
+Blaimorite Petrified Wood
+Blaimorite Sulfur
+Blaimorite Jet
+Blaimorite Microcline
+Blaimorite Pitchblende
+Blaimorite Cinnabar
+Blaimorite Cryolite
+Blaimorite Saltpeter
+Blaimorite Serpentine
+Blaimorite Sylvite
+Blaimorite Borax
+Blaimorite Olivine
+Blaimorite Lapis Lazuli
+Blaimorite Native Ardite
+Blaimorite Rutile
+Blaimorite Native Osmium
+Blaimorite Bauxite
+Blaimorite Wolframite
+Blaimorite Cobaltite
+Blaimorite Thorianite
+Blaimorite Chromite
+Blaimorite Pyrolusite
+Blaimorite Magnesite
+Blaimorite Spodumene
+Blaimorite Stibnite
+Blaimorite Mawsonite
+Blaimorite Beryl
+Blaimorite Zircon
+Blaimorite Villiaumite
+Blaimorite Rhodochrosite
+Blaimorite Fluorite
+Blaimorite Carobbiite
+Blaimorite Arsenic
+Blaimorite Spike 
+Blaimorite Button 
+Blaimorite Rock
+Blaimorite Brick
+Raw Blaimorite
+Smooth Blaimorite
+Blaimorite Cobble
+Blaimorite Bricks
+Blaimorite Sand
+Blaimorite Gravel
+Blaimorite Dirt
+Blaimorite Clay
+Blaimorite Grass
+Blaimorite Dry Grass
+Blaimorite Clay Grass
+Blaimorite Path
+Blaimorite FarmLand
+Smooth Blaimorite Stairs
+Blaimorite Cobble Stairs
+Blaimorite Bricks Stairs
+Smooth Blaimorite Slab
+Blaimorite Cobble Slab
+Blaimorite Bricks Slab
+Smooth Blaimorite Double Slab
+Cobble Blaimorite Double Slab
+Bricks Blaimorite Double Slab
+Smooth Blaimorite Wall
+Blaimorite Cobble Wall
+Blaimorite Bricks Wall
+Boninite Native Copper
+Boninite Native Gold
+Boninite Native Platinum
+Boninite Hematite
+Boninite Native Silver
+Boninite Cassiterite
+Boninite Galena
+Boninite Bismuthinite
+Boninite Garnierite
+Boninite Malachite
+Boninite Magnetite
+Boninite Limonite
+Boninite Sphalerite
+Boninite Tetrahedrite
+Boninite Bituminous Coal
+Boninite Lignite
+Boninite Kaolinite
+Boninite Gypsum
+Boninite Satinspar
+Boninite Selenite
+Boninite Graphite
+Boninite Kimberlite
+Boninite Petrified Wood
+Boninite Sulfur
+Boninite Jet
+Boninite Microcline
+Boninite Pitchblende
+Boninite Cinnabar
+Boninite Cryolite
+Boninite Saltpeter
+Boninite Serpentine
+Boninite Sylvite
+Boninite Borax
+Boninite Olivine
+Boninite Lapis Lazuli
+Boninite Native Ardite
+Boninite Rutile
+Boninite Native Osmium
+Boninite Bauxite
+Boninite Wolframite
+Boninite Cobaltite
+Boninite Thorianite
+Boninite Chromite
+Boninite Pyrolusite
+Boninite Magnesite
+Boninite Spodumene
+Boninite Stibnite
+Boninite Mawsonite
+Boninite Beryl
+Boninite Zircon
+Boninite Villiaumite
+Boninite Rhodochrosite
+Boninite Fluorite
+Boninite Carobbiite
+Boninite Arsenic
+Boninite Spike 
+Boninite Button 
+Boninite Rock
+Boninite Brick
+Raw Boninite
+Smooth Boninite
+Boninite Cobble
+Boninite Bricks
+Boninite Sand
+Boninite Gravel
+Boninite Dirt
+Boninite Clay
+Boninite Grass
+Boninite Dry Grass
+Boninite Clay Grass
+Boninite Path
+Boninite FarmLand
+Smooth Boninite Stairs
+Boninite Cobble Stairs
+Boninite Bricks Stairs
+Smooth Boninite Slab
+Boninite Cobble Slab
+Boninite Bricks Slab
+Smooth Boninite Double Slab
+Cobble Boninite Double Slab
+Bricks Boninite Double Slab
+Smooth Boninite Wall
+Boninite Cobble Wall
+Boninite Bricks Wall
+Carbonatite Native Copper
+Carbonatite Native Gold
+Carbonatite Native Platinum
+Carbonatite Hematite
+Carbonatite Native Silver
+Carbonatite Cassiterite
+Carbonatite Galena
+Carbonatite Bismuthinite
+Carbonatite Garnierite
+Carbonatite Malachite
+Carbonatite Magnetite
+Carbonatite Limonite
+Carbonatite Sphalerite
+Carbonatite Tetrahedrite
+Carbonatite Bituminous Coal
+Carbonatite Lignite
+Carbonatite Kaolinite
+Carbonatite Gypsum
+Carbonatite Satinspar
+Carbonatite Selenite
+Carbonatite Graphite
+Carbonatite Kimberlite
+Carbonatite Petrified Wood
+Carbonatite Sulfur
+Carbonatite Jet
+Carbonatite Microcline
+Carbonatite Pitchblende
+Carbonatite Cinnabar
+Carbonatite Cryolite
+Carbonatite Saltpeter
+Carbonatite Serpentine
+Carbonatite Sylvite
+Carbonatite Borax
+Carbonatite Olivine
+Carbonatite Lapis Lazuli
+Carbonatite Native Ardite
+Carbonatite Rutile
+Carbonatite Native Osmium
+Carbonatite Bauxite
+Carbonatite Wolframite
+Carbonatite Cobaltite
+Carbonatite Thorianite
+Carbonatite Chromite
+Carbonatite Pyrolusite
+Carbonatite Magnesite
+Carbonatite Spodumene
+Carbonatite Stibnite
+Carbonatite Mawsonite
+Carbonatite Beryl
+Carbonatite Zircon
+Carbonatite Villiaumite
+Carbonatite Rhodochrosite
+Carbonatite Fluorite
+Carbonatite Carobbiite
+Carbonatite Arsenic
+Carbonatite Spike 
+Carbonatite Button 
+Carbonatite Rock
+Carbonatite Brick
+Raw Carbonatite
+Smooth Carbonatite
+Carbonatite Cobble
+Carbonatite Bricks
+Carbonatite Sand
+Carbonatite Gravel
+Carbonatite Dirt
+Carbonatite Clay
+Carbonatite Grass
+Carbonatite Dry Grass
+Carbonatite Clay Grass
+Carbonatite Path
+Carbonatite FarmLand
+Smooth Carbonatite Stairs
+Carbonatite Cobble Stairs
+Carbonatite Bricks Stairs
+Smooth Carbonatite Slab
+Carbonatite Cobble Slab
+Carbonatite Bricks Slab
+Smooth Carbonatite Double Slab
+Cobble Carbonatite Double Slab
+Bricks Carbonatite Double Slab
+Smooth Carbonatite Wall
+Carbonatite Cobble Wall
+Carbonatite Bricks Wall
+Foidolite Native Copper
+Foidolite Native Gold
+Foidolite Native Platinum
+Foidolite Hematite
+Foidolite Native Silver
+Foidolite Cassiterite
+Foidolite Galena
+Foidolite Bismuthinite
+Foidolite Garnierite
+Foidolite Malachite
+Foidolite Magnetite
+Foidolite Limonite
+Foidolite Sphalerite
+Foidolite Tetrahedrite
+Foidolite Bituminous Coal
+Foidolite Lignite
+Foidolite Kaolinite
+Foidolite Gypsum
+Foidolite Satinspar
+Foidolite Selenite
+Foidolite Graphite
+Foidolite Kimberlite
+Foidolite Petrified Wood
+Foidolite Sulfur
+Foidolite Jet
+Foidolite Microcline
+Foidolite Pitchblende
+Foidolite Cinnabar
+Foidolite Cryolite
+Foidolite Saltpeter
+Foidolite Serpentine
+Foidolite Sylvite
+Foidolite Borax
+Foidolite Olivine
+Foidolite Lapis Lazuli
+Foidolite Native Ardite
+Foidolite Rutile
+Foidolite Native Osmium
+Foidolite Bauxite
+Foidolite Wolframite
+Foidolite Cobaltite
+Foidolite Thorianite
+Foidolite Chromite
+Foidolite Pyrolusite
+Foidolite Magnesite
+Foidolite Spodumene
+Foidolite Stibnite
+Foidolite Mawsonite
+Foidolite Beryl
+Foidolite Zircon
+Foidolite Villiaumite
+Foidolite Rhodochrosite
+Foidolite Fluorite
+Foidolite Carobbiite
+Foidolite Arsenic
+Foidolite Spike 
+Foidolite Button 
+Foidolite Rock
+Foidolite Brick
+Raw Foidolite
+Smooth Foidolite
+Foidolite Cobble
+Foidolite Bricks
+Foidolite Sand
+Foidolite Gravel
+Foidolite Dirt
+Foidolite Clay
+Foidolite Grass
+Foidolite Dry Grass
+Foidolite Clay Grass
+Foidolite Path
+Foidolite FarmLand
+Smooth Foidolite Stairs
+Foidolite Cobble Stairs
+Foidolite Bricks Stairs
+Smooth Foidolite Slab
+Foidolite Cobble Slab
+Foidolite Bricks Slab
+Smooth Foidolite Double Slab
+Cobble Foidolite Double Slab
+Bricks Foidolite Double Slab
+Smooth Foidolite Wall
+Foidolite Cobble Wall
+Foidolite Bricks Wall
+Arkose Native Copper
+Arkose Native Gold
+Arkose Native Platinum
+Arkose Hematite
+Arkose Native Silver
+Arkose Cassiterite
+Arkose Galena
+Arkose Bismuthinite
+Arkose Garnierite
+Arkose Malachite
+Arkose Magnetite
+Arkose Limonite
+Arkose Sphalerite
+Arkose Tetrahedrite
+Arkose Bituminous Coal
+Arkose Lignite
+Arkose Kaolinite
+Arkose Gypsum
+Arkose Satinspar
+Arkose Selenite
+Arkose Graphite
+Arkose Kimberlite
+Arkose Petrified Wood
+Arkose Sulfur
+Arkose Jet
+Arkose Microcline
+Arkose Pitchblende
+Arkose Cinnabar
+Arkose Cryolite
+Arkose Saltpeter
+Arkose Serpentine
+Arkose Sylvite
+Arkose Borax
+Arkose Olivine
+Arkose Lapis Lazuli
+Arkose Native Ardite
+Arkose Rutile
+Arkose Native Osmium
+Arkose Bauxite
+Arkose Wolframite
+Arkose Cobaltite
+Arkose Thorianite
+Arkose Chromite
+Arkose Pyrolusite
+Arkose Magnesite
+Arkose Spodumene
+Arkose Stibnite
+Arkose Mawsonite
+Arkose Beryl
+Arkose Zircon
+Arkose Villiaumite
+Arkose Rhodochrosite
+Arkose Fluorite
+Arkose Carobbiite
+Arkose Arsenic
+Arkose Spike 
+Arkose Button 
+Arkose Rock
+Arkose Brick
+Raw Arkose
+Smooth Arkose
+Arkose Cobble
+Arkose Bricks
+Arkose Sand
+Arkose Gravel
+Arkose Dirt
+Arkose Clay
+Arkose Grass
+Arkose Dry Grass
+Arkose Clay Grass
+Arkose Path
+Arkose FarmLand
+Smooth Arkose Stairs
+Arkose Cobble Stairs
+Arkose Bricks Stairs
+Smooth Arkose Slab
+Arkose Cobble Slab
+Arkose Bricks Slab
+Smooth Arkose Double Slab
+Cobble Arkose Double Slab
+Bricks Arkose Double Slab
+Smooth Arkose Wall
+Arkose Cobble Wall
+Arkose Bricks Wall
+Jaspillite Native Copper
+Jaspillite Native Gold
+Jaspillite Native Platinum
+Jaspillite Hematite
+Jaspillite Native Silver
+Jaspillite Cassiterite
+Jaspillite Galena
+Jaspillite Bismuthinite
+Jaspillite Garnierite
+Jaspillite Malachite
+Jaspillite Magnetite
+Jaspillite Limonite
+Jaspillite Sphalerite
+Jaspillite Tetrahedrite
+Jaspillite Bituminous Coal
+Jaspillite Lignite
+Jaspillite Kaolinite
+Jaspillite Gypsum
+Jaspillite Satinspar
+Jaspillite Selenite
+Jaspillite Graphite
+Jaspillite Kimberlite
+Jaspillite Petrified Wood
+Jaspillite Sulfur
+Jaspillite Jet
+Jaspillite Microcline
+Jaspillite Pitchblende
+Jaspillite Cinnabar
+Jaspillite Cryolite
+Jaspillite Saltpeter
+Jaspillite Serpentine
+Jaspillite Sylvite
+Jaspillite Borax
+Jaspillite Olivine
+Jaspillite Lapis Lazuli
+Jaspillite Native Ardite
+Jaspillite Rutile
+Jaspillite Native Osmium
+Jaspillite Bauxite
+Jaspillite Wolframite
+Jaspillite Cobaltite
+Jaspillite Thorianite
+Jaspillite Chromite
+Jaspillite Pyrolusite
+Jaspillite Magnesite
+Jaspillite Spodumene
+Jaspillite Stibnite
+Jaspillite Mawsonite
+Jaspillite Beryl
+Jaspillite Zircon
+Jaspillite Villiaumite
+Jaspillite Rhodochrosite
+Jaspillite Fluorite
+Jaspillite Carobbiite
+Jaspillite Arsenic
+Jaspillite Spike 
+Jaspillite Button 
+Jaspillite Rock
+Jaspillite Brick
+Raw Jaspillite
+Smooth Jaspillite
+Jaspillite Cobble
+Jaspillite Bricks
+Jaspillite Sand
+Jaspillite Gravel
+Jaspillite Dirt
+Jaspillite Clay
+Jaspillite Grass
+Jaspillite Dry Grass
+Jaspillite Clay Grass
+Jaspillite Path
+Jaspillite FarmLand
+Smooth Jaspillite Stairs
+Jaspillite Cobble Stairs
+Jaspillite Bricks Stairs
+Smooth Jaspillite Slab
+Jaspillite Cobble Slab
+Jaspillite Bricks Slab
+Smooth Jaspillite Double Slab
+Cobble Jaspillite Double Slab
+Bricks Jaspillite Double Slab
+Smooth Jaspillite Wall
+Jaspillite Cobble Wall
+Jaspillite Bricks Wall
+Travertine Native Copper
+Travertine Native Gold
+Travertine Native Platinum
+Travertine Hematite
+Travertine Native Silver
+Travertine Cassiterite
+Travertine Galena
+Travertine Bismuthinite
+Travertine Garnierite
+Travertine Malachite
+Travertine Magnetite
+Travertine Limonite
+Travertine Sphalerite
+Travertine Tetrahedrite
+Travertine Bituminous Coal
+Travertine Lignite
+Travertine Kaolinite
+Travertine Gypsum
+Travertine Satinspar
+Travertine Selenite
+Travertine Graphite
+Travertine Kimberlite
+Travertine Petrified Wood
+Travertine Sulfur
+Travertine Jet
+Travertine Microcline
+Travertine Pitchblende
+Travertine Cinnabar
+Travertine Cryolite
+Travertine Saltpeter
+Travertine Serpentine
+Travertine Sylvite
+Travertine Borax
+Travertine Olivine
+Travertine Lapis Lazuli
+Travertine Native Ardite
+Travertine Rutile
+Travertine Native Osmium
+Travertine Bauxite
+Travertine Wolframite
+Travertine Cobaltite
+Travertine Thorianite
+Travertine Chromite
+Travertine Pyrolusite
+Travertine Magnesite
+Travertine Spodumene
+Travertine Stibnite
+Travertine Mawsonite
+Travertine Beryl
+Travertine Zircon
+Travertine Villiaumite
+Travertine Rhodochrosite
+Travertine Fluorite
+Travertine Carobbiite
+Travertine Arsenic
+Travertine Spike 
+Travertine Button 
+Travertine Rock
+Travertine Brick
+Raw Travertine
+Smooth Travertine
+Travertine Cobble
+Travertine Bricks
+Travertine Sand
+Travertine Gravel
+Travertine Dirt
+Travertine Clay
+Travertine Grass
+Travertine Dry Grass
+Travertine Clay Grass
+Travertine Path
+Travertine FarmLand
+Smooth Travertine Stairs
+Travertine Cobble Stairs
+Travertine Bricks Stairs
+Smooth Travertine Slab
+Travertine Cobble Slab
+Travertine Bricks Slab
+Smooth Travertine Double Slab
+Cobble Travertine Double Slab
+Bricks Travertine Double Slab
+Smooth Travertine Wall
+Travertine Cobble Wall
+Travertine Bricks Wall
+Wackestone Native Copper
+Wackestone Native Gold
+Wackestone Native Platinum
+Wackestone Hematite
+Wackestone Native Silver
+Wackestone Cassiterite
+Wackestone Galena
+Wackestone Bismuthinite
+Wackestone Garnierite
+Wackestone Malachite
+Wackestone Magnetite
+Wackestone Limonite
+Wackestone Sphalerite
+Wackestone Tetrahedrite
+Wackestone Bituminous Coal
+Wackestone Lignite
+Wackestone Kaolinite
+Wackestone Gypsum
+Wackestone Satinspar
+Wackestone Selenite
+Wackestone Graphite
+Wackestone Kimberlite
+Wackestone Petrified Wood
+Wackestone Sulfur
+Wackestone Jet
+Wackestone Microcline
+Wackestone Pitchblende
+Wackestone Cinnabar
+Wackestone Cryolite
+Wackestone Saltpeter
+Wackestone Serpentine
+Wackestone Sylvite
+Wackestone Borax
+Wackestone Olivine
+Wackestone Lapis Lazuli
+Wackestone Native Ardite
+Wackestone Rutile
+Wackestone Native Osmium
+Wackestone Bauxite
+Wackestone Wolframite
+Wackestone Cobaltite
+Wackestone Thorianite
+Wackestone Chromite
+Wackestone Pyrolusite
+Wackestone Magnesite
+Wackestone Spodumene
+Wackestone Stibnite
+Wackestone Mawsonite
+Wackestone Beryl
+Wackestone Zircon
+Wackestone Villiaumite
+Wackestone Rhodochrosite
+Wackestone Fluorite
+Wackestone Carobbiite
+Wackestone Arsenic
+Wackestone Spike 
+Wackestone Button 
+Wackestone Rock
+Wackestone Brick
+Raw Wackestone
+Smooth Wackestone
+Wackestone Cobble
+Wackestone Bricks
+Wackestone Sand
+Wackestone Gravel
+Wackestone Dirt
+Wackestone Clay
+Wackestone Grass
+Wackestone Dry Grass
+Wackestone Clay Grass
+Wackestone Path
+Wackestone FarmLand
+Smooth Wackestone Stairs
+Wackestone Cobble Stairs
+Wackestone Bricks Stairs
+Smooth Wackestone Slab
+Wackestone Cobble Slab
+Wackestone Bricks Slab
+Smooth Wackestone Double Slab
+Cobble Wackestone Double Slab
+Bricks Wackestone Double Slab
+Smooth Wackestone Wall
+Wackestone Cobble Wall
+Wackestone Bricks Wall
+Blueschist Native Copper
+Blueschist Native Gold
+Blueschist Native Platinum
+Blueschist Hematite
+Blueschist Native Silver
+Blueschist Cassiterite
+Blueschist Galena
+Blueschist Bismuthinite
+Blueschist Garnierite
+Blueschist Malachite
+Blueschist Magnetite
+Blueschist Limonite
+Blueschist Sphalerite
+Blueschist Tetrahedrite
+Blueschist Bituminous Coal
+Blueschist Lignite
+Blueschist Kaolinite
+Blueschist Gypsum
+Blueschist Satinspar
+Blueschist Selenite
+Blueschist Graphite
+Blueschist Kimberlite
+Blueschist Petrified Wood
+Blueschist Sulfur
+Blueschist Jet
+Blueschist Microcline
+Blueschist Pitchblende
+Blueschist Cinnabar
+Blueschist Cryolite
+Blueschist Saltpeter
+Blueschist Serpentine
+Blueschist Sylvite
+Blueschist Borax
+Blueschist Olivine
+Blueschist Lapis Lazuli
+Blueschist Native Ardite
+Blueschist Rutile
+Blueschist Native Osmium
+Blueschist Bauxite
+Blueschist Wolframite
+Blueschist Cobaltite
+Blueschist Thorianite
+Blueschist Chromite
+Blueschist Pyrolusite
+Blueschist Magnesite
+Blueschist Spodumene
+Blueschist Stibnite
+Blueschist Mawsonite
+Blueschist Beryl
+Blueschist Zircon
+Blueschist Villiaumite
+Blueschist Rhodochrosite
+Blueschist Fluorite
+Blueschist Carobbiite
+Blueschist Arsenic
+Blueschist Spike 
+Blueschist Button 
+Blueschist Rock
+Blueschist Brick
+Raw Blueschist
+Smooth Blueschist
+Blueschist Cobble
+Blueschist Bricks
+Blueschist Sand
+Blueschist Gravel
+Blueschist Dirt
+Blueschist Clay
+Blueschist Grass
+Blueschist Dry Grass
+Blueschist Clay Grass
+Blueschist Path
+Blueschist FarmLand
+Smooth Blueschist Stairs
+Blueschist Cobble Stairs
+Blueschist Bricks Stairs
+Smooth Blueschist Slab
+Blueschist Cobble Slab
+Blueschist Bricks Slab
+Smooth Blueschist Double Slab
+Cobble Blueschist Double Slab
+Bricks Blueschist Double Slab
+Smooth Blueschist Wall
+Blueschist Cobble Wall
+Blueschist Bricks Wall
+Greenschist Native Copper
+Greenschist Native Gold
+Greenschist Native Platinum
+Greenschist Hematite
+Greenschist Native Silver
+Greenschist Cassiterite
+Greenschist Galena
+Greenschist Bismuthinite
+Greenschist Garnierite
+Greenschist Malachite
+Greenschist Magnetite
+Greenschist Limonite
+Greenschist Sphalerite
+Greenschist Tetrahedrite
+Greenschist Bituminous Coal
+Greenschist Lignite
+Greenschist Kaolinite
+Greenschist Gypsum
+Greenschist Satinspar
+Greenschist Selenite
+Greenschist Graphite
+Greenschist Kimberlite
+Greenschist Petrified Wood
+Greenschist Sulfur
+Greenschist Jet
+Greenschist Microcline
+Greenschist Pitchblende
+Greenschist Cinnabar
+Greenschist Cryolite
+Greenschist Saltpeter
+Greenschist Serpentine
+Greenschist Sylvite
+Greenschist Borax
+Greenschist Olivine
+Greenschist Lapis Lazuli
+Greenschist Native Ardite
+Greenschist Rutile
+Greenschist Native Osmium
+Greenschist Bauxite
+Greenschist Wolframite
+Greenschist Cobaltite
+Greenschist Thorianite
+Greenschist Chromite
+Greenschist Pyrolusite
+Greenschist Magnesite
+Greenschist Spodumene
+Greenschist Stibnite
+Greenschist Mawsonite
+Greenschist Beryl
+Greenschist Zircon
+Greenschist Villiaumite
+Greenschist Rhodochrosite
+Greenschist Fluorite
+Greenschist Carobbiite
+Greenschist Arsenic
+Greenschist Spike 
+Greenschist Button 
+Greenschist Rock
+Greenschist Brick
+Raw Greenschist
+Smooth Greenschist
+Greenschist Cobble
+Greenschist Bricks
+Greenschist Sand
+Greenschist Gravel
+Greenschist Dirt
+Greenschist Clay
+Greenschist Grass
+Greenschist Dry Grass
+Greenschist Clay Grass
+Greenschist Path
+Greenschist FarmLand
+Smooth Greenschist Stairs
+Greenschist Cobble Stairs
+Greenschist Bricks Stairs
+Smooth Greenschist Slab
+Greenschist Cobble Slab
+Greenschist Bricks Slab
+Smooth Greenschist Double Slab
+Cobble Greenschist Double Slab
+Bricks Greenschist Double Slab
+Smooth Greenschist Wall
+Greenschist Cobble Wall
+Greenschist Bricks Wall
+Cataclasite Native Copper
+Cataclasite Native Gold
+Cataclasite Native Platinum
+Cataclasite Hematite
+Cataclasite Native Silver
+Cataclasite Cassiterite
+Cataclasite Galena
+Cataclasite Bismuthinite
+Cataclasite Garnierite
+Cataclasite Malachite
+Cataclasite Magnetite
+Cataclasite Limonite
+Cataclasite Sphalerite
+Cataclasite Tetrahedrite
+Cataclasite Bituminous Coal
+Cataclasite Lignite
+Cataclasite Kaolinite
+Cataclasite Gypsum
+Cataclasite Satinspar
+Cataclasite Selenite
+Cataclasite Graphite
+Cataclasite Kimberlite
+Cataclasite Petrified Wood
+Cataclasite Sulfur
+Cataclasite Jet
+Cataclasite Microcline
+Cataclasite Pitchblende
+Cataclasite Cinnabar
+Cataclasite Cryolite
+Cataclasite Saltpeter
+Cataclasite Serpentine
+Cataclasite Sylvite
+Cataclasite Borax
+Cataclasite Olivine
+Cataclasite Lapis Lazuli
+Cataclasite Native Ardite
+Cataclasite Rutile
+Cataclasite Native Osmium
+Cataclasite Bauxite
+Cataclasite Wolframite
+Cataclasite Cobaltite
+Cataclasite Thorianite
+Cataclasite Chromite
+Cataclasite Pyrolusite
+Cataclasite Magnesite
+Cataclasite Spodumene
+Cataclasite Stibnite
+Cataclasite Mawsonite
+Cataclasite Beryl
+Cataclasite Zircon
+Cataclasite Villiaumite
+Cataclasite Rhodochrosite
+Cataclasite Fluorite
+Cataclasite Carobbiite
+Cataclasite Arsenic
+Cataclasite Spike 
+Cataclasite Button 
+Cataclasite Rock
+Cataclasite Brick
+Raw Cataclasite
+Smooth Cataclasite
+Cataclasite Cobble
+Cataclasite Bricks
+Cataclasite Sand
+Cataclasite Gravel
+Cataclasite Dirt
+Cataclasite Clay
+Cataclasite Grass
+Cataclasite Dry Grass
+Cataclasite Clay Grass
+Cataclasite Path
+Cataclasite FarmLand
+Smooth Cataclasite Stairs
+Cataclasite Cobble Stairs
+Cataclasite Bricks Stairs
+Smooth Cataclasite Slab
+Cataclasite Cobble Slab
+Cataclasite Bricks Slab
+Smooth Cataclasite Double Slab
+Cobble Cataclasite Double Slab
+Bricks Cataclasite Double Slab
+Smooth Cataclasite Wall
+Cataclasite Cobble Wall
+Cataclasite Bricks Wall
+Mylonite Native Copper
+Mylonite Native Gold
+Mylonite Native Platinum
+Mylonite Hematite
+Mylonite Native Silver
+Mylonite Cassiterite
+Mylonite Galena
+Mylonite Bismuthinite
+Mylonite Garnierite
+Mylonite Malachite
+Mylonite Magnetite
+Mylonite Limonite
+Mylonite Sphalerite
+Mylonite Tetrahedrite
+Mylonite Bituminous Coal
+Mylonite Lignite
+Mylonite Kaolinite
+Mylonite Gypsum
+Mylonite Satinspar
+Mylonite Selenite
+Mylonite Graphite
+Mylonite Kimberlite
+Mylonite Petrified Wood
+Mylonite Sulfur
+Mylonite Jet
+Mylonite Microcline
+Mylonite Pitchblende
+Mylonite Cinnabar
+Mylonite Cryolite
+Mylonite Saltpeter
+Mylonite Serpentine
+Mylonite Sylvite
+Mylonite Borax
+Mylonite Olivine
+Mylonite Lapis Lazuli
+Mylonite Native Ardite
+Mylonite Rutile
+Mylonite Native Osmium
+Mylonite Bauxite
+Mylonite Wolframite
+Mylonite Cobaltite
+Mylonite Thorianite
+Mylonite Chromite
+Mylonite Pyrolusite
+Mylonite Magnesite
+Mylonite Spodumene
+Mylonite Stibnite
+Mylonite Mawsonite
+Mylonite Beryl
+Mylonite Zircon
+Mylonite Villiaumite
+Mylonite Rhodochrosite
+Mylonite Fluorite
+Mylonite Carobbiite
+Mylonite Arsenic
+Mylonite Spike 
+Mylonite Button 
+Mylonite Rock
+Mylonite Brick
+Raw Mylonite
+Smooth Mylonite
+Mylonite Cobble
+Mylonite Bricks
+Mylonite Sand
+Mylonite Gravel
+Mylonite Dirt
+Mylonite Clay
+Mylonite Grass
+Mylonite Dry Grass
+Mylonite Clay Grass
+Mylonite Path
+Mylonite FarmLand
+Smooth Mylonite Stairs
+Mylonite Cobble Stairs
+Mylonite Bricks Stairs
+Smooth Mylonite Slab
+Mylonite Cobble Slab
+Mylonite Bricks Slab
+Smooth Mylonite Double Slab
+Cobble Mylonite Double Slab
+Bricks Mylonite Double Slab
+Smooth Mylonite Wall
+Mylonite Cobble Wall
+Mylonite Bricks Wall

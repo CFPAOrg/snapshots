@@ -1,0 +1,6 @@
+Mending Gem
+Repair items every %f seconds
+Weak 
+Normal 
+Strong 
+Ultimate 

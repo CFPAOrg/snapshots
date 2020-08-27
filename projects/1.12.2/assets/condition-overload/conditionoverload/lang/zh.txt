@@ -1,0 +1,5 @@
+Wicked Jewel
+You hear the screams of meta abusers inside...
+Condition Overload Modifier
+Condition: Overload
+Deal increased damage based on how many negative potion effects are on the target.

@@ -1,0 +1,1217 @@
+Granite Bauxite
+Diorite Bauxite
+Gabbro Bauxite
+Shale Bauxite
+Claystone Bauxite
+Rocksalt Bauxite
+Limestone Bauxite
+Conglomerate Bauxite
+Dolomite Bauxite
+Chert Bauxite
+Chalk Bauxite
+Rhyolite Bauxite
+Basalt Bauxite
+Andesite Bauxite
+Dacite Bauxite
+Quartzite Bauxite
+Slate Bauxite
+Phyllite Bauxite
+Schist Bauxite
+Gneiss Bauxite
+Marble Bauxite
+Granite Wolframite
+Diorite Wolframite
+Gabbro Wolframite
+Shale Wolframite
+Claystone Wolframite
+Rocksalt Wolframite
+Limestone Wolframite
+Conglomerate Wolframite
+Dolomite Wolframite
+Chert Wolframite
+Chalk Wolframite
+Rhyolite Wolframite
+Basalt Wolframite
+Andesite Wolframite
+Dacite Wolframite
+Quartzite Wolframite
+Slate Wolframite
+Phyllite Wolframite
+Schist Wolframite
+Gneiss Wolframite
+Marble Wolframite
+Granite Native Ardite
+Diorite Native Ardite
+Gabbro Native Ardite
+Shale Native Ardite
+Claystone Native Ardite
+Rocksalt Native Ardite
+Limestone Native Ardite
+Conglomerate Native Ardite
+Dolomite Native Ardite
+Chert Native Ardite
+Chalk Native Ardite
+Rhyolite Native Ardite
+Basalt Native Ardite
+Andesite Native Ardite
+Dacite Native Ardite
+Quartzite Native Ardite
+Slate Native Ardite
+Phyllite Native Ardite
+Schist Native Ardite
+Gneiss Native Ardite
+Marble Native Ardite
+Granite Native Osmium
+Diorite Native Osmium
+Gabbro Native Osmium
+Shale Native Osmium
+Claystone Native Osmium
+Rocksalt Native Osmium
+Limestone Native Osmium
+Conglomerate Native Osmium
+Dolomite Native Osmium
+Chert Native Osmium
+Chalk Native Osmium
+Rhyolite Native Osmium
+Basalt Native Osmium
+Andesite Native Osmium
+Dacite Native Osmium
+Quartzite Native Osmium
+Slate Native Osmium
+Phyllite Native Osmium
+Schist Native Osmium
+Gneiss Native Osmium
+Marble Native Osmium
+Granite Cobaltite
+Diorite Cobaltite
+Gabbro Cobaltite
+Shale Cobaltite
+Claystone Cobaltite
+Rocksalt Cobaltite
+Limestone Cobaltite
+Conglomerate Cobaltite
+Dolomite Cobaltite
+Chert Cobaltite
+Chalk Cobaltite
+Rhyolite Cobaltite
+Basalt Cobaltite
+Andesite Cobaltite
+Dacite Cobaltite
+Quartzite Cobaltite
+Slate Cobaltite
+Phyllite Cobaltite
+Schist Cobaltite
+Gneiss Cobaltite
+Marble Cobaltite
+Granite Stibnite
+Diorite Stibnite
+Gabbro Stibnite
+Shale Stibnite
+Claystone Stibnite
+Rocksalt Stibnite
+Limestone Stibnite
+Conglomerate Stibnite
+Dolomite Stibnite
+Chert Stibnite
+Chalk Stibnite
+Rhyolite Stibnite
+Basalt Stibnite
+Andesite Stibnite
+Dacite Stibnite
+Quartzite Stibnite
+Slate Stibnite
+Phyllite Stibnite
+Schist Stibnite
+Gneiss Stibnite
+Marble Stibnite
+Thorianite Granite
+Thorianite Diorite
+Thorianite Gabbro
+Thorianite Shale
+Thorianite Claystone
+Thorianite Rocksalt
+Thorianite Limestone
+Thorianite Conglomerate
+Thorianite Dolomite
+Thorianite Chert
+Thorianite Chalk
+Thorianite Rhyolite
+Thorianite Basalt
+Thorianite Andesite
+Thorianite Dacite
+Thorianite Quartzite
+Thorianite Slate
+Thorianite Phyllite
+Thorianite Schist
+Thorianite Gneiss
+Thorianite Marble
+Granite Chromite
+Diorite Chromite
+Gabbro Chromite
+Shale Chromite
+Claystone Chromite
+Rocksalt Chromite
+Limestone Chromite
+Conglomerate Chromite
+Dolomite Chromite
+Chert Chromite
+Chalk Chromite
+Rhyolite Chromite
+Basalt Chromite
+Andesite Chromite
+Dacite Chromite
+Quartzite Chromite
+Slate Chromite
+Phyllite Chromite
+Schist Chromite
+Gneiss Chromite
+Marble Chromite
+Granite Pyrolusite
+Diorite Pyrolusite
+Gabbro Pyrolusite
+Shale Pyrolusite
+Claystone Pyrolusite
+Rocksalt Pyrolusite
+Limestone Pyrolusite
+Conglomerate Pyrolusite
+Dolomite Pyrolusite
+Chert Pyrolusite
+Chalk Pyrolusite
+Rhyolite Pyrolusite
+Basalt Pyrolusite
+Andesite Pyrolusite
+Dacite Pyrolusite
+Quartzite Pyrolusite
+Slate Pyrolusite
+Phyllite Pyrolusite
+Schist Pyrolusite
+Gneiss Pyrolusite
+Marble Pyrolusite
+Granite Magnesite
+Diorite Magnesite
+Gabbro Magnesite
+Shale Magnesite
+Claystone Magnesite
+Rocksalt Magnesite
+Limestone Magnesite
+Conglomerate Magnesite
+Dolomite Magnesite
+Chert Magnesite
+Chalk Magnesite
+Rhyolite Magnesite
+Basalt Magnesite
+Andesite Magnesite
+Dacite Magnesite
+Quartzite Magnesite
+Slate Magnesite
+Phyllite Magnesite
+Schist Magnesite
+Gneiss Magnesite
+Marble Magnesite
+Granite Boron
+Diorite Boron
+Gabbro Boron
+Shale Boron
+Claystone Boron
+Rocksalt Boron
+Limestone Boron
+Conglomerate Boron
+Dolomite Boron
+Chert Boron
+Chalk Boron
+Rhyolite Boron
+Basalt Boron
+Andesite Boron
+Dacite Boron
+Quartzite Boron
+Slate Boron
+Phyllite Boron
+Schist Boron
+Gneiss Boron
+Marble Boron
+Granite Spodumene
+Diorite Spodumene
+Gabbro Spodumene
+Shale Spodumene
+Claystone Spodumene
+Rocksalt Spodumene
+Limestone Spodumene
+Conglomerate Spodumene
+Dolomite Spodumene
+Chert Spodumene
+Chalk Spodumene
+Rhyolite Spodumene
+Basalt Spodumene
+Andesite Spodumene
+Dacite Spodumene
+Quartzite Spodumene
+Slate Spodumene
+Phyllite Spodumene
+Schist Spodumene
+Gneiss Spodumene
+Marble Spodumene
+Granite Rutile
+Diorite Rutile
+Gabbro Rutile
+Shale Rutile
+Claystone Rutile
+Rocksalt Rutile
+Limestone Rutile
+Conglomerate Rutile
+Dolomite Rutile
+Chert Rutile
+Chalk Rutile
+Rhyolite Rutile
+Basalt Rutile
+Andesite Rutile
+Dacite Rutile
+Quartzite Rutile
+Slate Rutile
+Phyllite Rutile
+Schist Rutile
+Gneiss Rutile
+Marble Rutile
+Bauxite
+Poor Bauxite
+Rich Bauxite
+Small Bauxite
+Native Ardite
+Poor Native Ardite
+Rich Native Ardite
+Native Ardite Nugget
+Native Osmium
+Poor Native Osmium
+Rich Native Osmium
+Native Osmium Nugget
+Wolframite
+Poor Wolframite
+Rich Wolframite
+Small Wolframite
+Cobaltite
+Poor Cobaltite
+Rich Cobaltite
+Small Cobaltite
+Stibnite
+Poor Stibnite
+Rich Stibnite
+Small Stibnite
+Thorianite
+Poor Thorianite
+Rich Thorianite
+Small Thorianite
+Chromite
+Poor Chromite
+Rich Chromite
+Small Chromite
+Magnesite
+Poor Magnesite
+Rich Magnesite
+Small Magnesite
+Boron
+Poor Boron
+Rich Boron
+Small Boron
+Pyrolusite
+Poor Pyrolusite
+Rich Pyrolusite
+Small Pyrolusite
+Spodumene
+Rutile
+Poor Rutile
+Rich Rutile
+Small Rutile
+Aluminum Ingot
+Aluminum Double Ingot
+Aluminum Scrap
+Aluminum Dust
+Aluminum Nugget
+Aluminum Sheet
+Aluminum Double Sheet
+Aluminum Tuyere
+Aluminum Pickaxe
+Aluminum Pickaxe Head
+Aluminum Shovel
+Aluminum Shovel Head
+Aluminum Axe
+Aluminum Axe Head
+Aluminum Hoe
+Aluminum Hoe Head
+Aluminum Chisel
+Aluminum Chisel Head
+Aluminum Sword
+Aluminum Sword Blade
+Aluminum Mace
+Aluminum Mace Head
+Aluminum Saw
+Aluminum Saw Blade
+Aluminum Shears
+Aluminum Shield
+Aluminum Javelin
+Aluminum Javelin Head
+Aluminum Hammer
+Aluminum Hammer Head
+Aluminum Prospector's Pickaxe
+Aluminum Prospector's Pickaxe Head
+Aluminum Knife
+Aluminum Knife Blade
+Aluminum Scythe
+Aluminum Scythe Blade
+Aluminium Lamp
+%s Aluminium Lamp
+Unshaped Aluminum
+Aluminum Chestplate
+Aluminum Greaves
+Aluminum Boots
+Aluminum Helmet
+Unfinished Aluminum Chestplate
+Unfinished Aluminum Boots
+Unfinished Aluminum Helmet
+Unfinished Aluminum Greaves
+Aluminum Anvil
+Aluminum Brass Ingot
+Aluminum Brass Double Ingot
+Aluminum Brass Scrap
+Aluminum Brass Dust
+Aluminum Brass Nugget
+Aluminum Brass Sheet
+Aluminum Brass Double Sheet
+Aluminum Brass Tuyere
+Aluminum Brass Pickaxe
+Aluminum Brass Pickaxe Head
+Aluminum Brass Shovel
+Aluminum Brass Shovel Head
+Aluminum Brass Axe
+Aluminum Brass Axe Head
+Aluminum Brass Hoe
+Aluminum Brass Hoe Head
+Aluminum Brass Chisel
+Aluminum Brass Chisel Head
+Aluminum Brass Sword
+Aluminum Brass Sword Blade
+Aluminum Brass Mace
+Aluminum Brass Mace Head
+Aluminum Brass Saw
+Aluminum Brass Saw Blade
+Aluminum Brass Shears
+Aluminum Brass Shield
+Aluminum Brass Javelin
+Aluminum Brass Javelin Head
+Aluminum Brass Hammer
+Aluminum Brass Hammer Head
+Aluminum Brass Prospector's Pickaxe
+Aluminum Brass Prospector's Pickaxe Head
+Aluminum Brass Knife
+Aluminum Brass Knife Blade
+Aluminum Brass Scythe
+Aluminum Brass Scythe Blade
+Aluminium Brass Lamp
+%s Aluminium Brass Lamp
+Unshaped Aluminum Brass
+Aluminum Brass Chestplate
+Aluminum Brass Greaves
+Aluminum Brass Boots
+Aluminum Brass Helmet
+Unfinished Aluminum Brass Chestplate
+Unfinished Aluminum Brass Boots
+Unfinished Aluminum Brass Helmet
+Unfinished Aluminum Brass Greaves
+Aluminum Brass Anvil
+Red Alloy Ingot
+Red Alloy Double Ingot
+Red Alloy Scrap
+Red Alloy Dust
+Red Alloy Nugget
+Red Alloy Sheet
+Red Alloy Double Sheet
+Red Alloy Tuyere
+Red Alloy Pickaxe
+Red Alloy Pickaxe Head
+Red Alloy Shovel
+Red Alloy Shovel Head
+Red Alloy Axe
+Red Alloy Axe Head
+Red Alloy Hoe
+Red Alloy Hoe Head
+Red Alloy Chisel
+Red Alloy Chisel Head
+Red Alloy Sword
+Red Alloy Sword Blade
+Red Alloy Mace
+Red Alloy Mace Head
+Red Alloy Saw
+Red Alloy Saw Blade
+Red Alloy Shears
+Red Alloy Shield
+Red Alloy Javelin
+Red Alloy Javelin Head
+Red Alloy Hammer
+Red Alloy Hammer Head
+Red Alloy Prospector's Pickaxe
+Red Alloy Prospector's Pickaxe Head
+Red Alloy Knife
+Red Alloy Knife Blade
+Red Alloy Scythe
+Red Alloy Scythe Blade
+Red Alloy Lamp
+%s Red Alloy Lamp
+Unshaped Red Alloy
+Red Alloy Chestplate
+Red Alloy Greaves
+Red Alloy Boots
+Red Alloy Helmet
+Unfinished Red Alloy Chestplate
+Unfinished Red Alloy Boots
+Unfinished Red Alloy Helmet
+Unfinished Red Alloy Greaves
+Red Alloy Anvil
+Antimony Ingot
+Antimony Double Ingot
+Antimony Scrap
+Antimony Dust
+Antimony Nugget
+Antimony Sheet
+Antimony Double Sheet
+Antimony Tuyere
+Antimony Pickaxe
+Antimony Pickaxe Head
+Antimony Shovel
+Antimony Shovel Head
+Antimony Axe
+Antimony Axe Head
+Antimony Hoe
+Antimony Hoe Head
+Antimony Chisel
+Antimony Chisel Head
+Antimony Sword
+Antimony Sword Blade
+Antimony Mace
+Antimony Mace Head
+Antimony Saw
+Antimony Saw Blade
+Antimony Shears
+Antimony Shield
+Antimony Javelin
+Antimony Javelin Head
+Antimony Hammer
+Antimony Hammer Head
+Antimony Prospector's Pickaxe
+Antimony Prospector's Pickaxe Head
+Antimony Knife
+Antimony Knife Blade
+Antimony Scythe
+Antimony Scythe Blade
+Antimony Lamp
+%s Antimony Lamp
+Unshaped Antimony
+Antimony Chestplate
+Antimony Greaves
+Antimony Boots
+Antimony Helmet
+Unfinished Antimony Chestplate
+Unfinished Antimony Boots
+Unfinished Antimony Helmet
+Unfinished Antimony Greaves
+Antimony Anvil
+Ardite Ingot
+Ardite Double Ingot
+Ardite Scrap
+Ardite Dust
+Ardite Nugget
+Ardite Sheet
+Ardite Double Sheet
+Ardite Tuyere
+Ardite Pickaxe
+Ardite Pickaxe Head
+Ardite Shovel
+Ardite Shovel Head
+Ardite Axe
+Ardite Axe Head
+Ardite Hoe
+Ardite Hoe Head
+Ardite Chisel
+Ardite Chisel Head
+Ardite Sword
+Ardite Sword Blade
+Ardite Mace
+Ardite Mace Head
+Ardite Saw
+Ardite Saw Blade
+Ardite Shears
+Ardite Shield
+Ardite Javelin
+Ardite Javelin Head
+Ardite Hammer
+Ardite Hammer Head
+Ardite Prospector's Pickaxe
+Ardite Prospector's Pickaxe Head
+Ardite Knife
+Ardite Knife Blade
+Ardite Scythe
+Ardite Scythe Blade
+Ardite Lamp
+%s Ardite Lamp
+Unshaped Ardite
+Ardite Chestplate
+Ardite Greaves
+Ardite Boots
+Ardite Helmet
+Unfinished Ardite Chestplate
+Unfinished Ardite Boots
+Unfinished Ardite Helmet
+Unfinished Ardite Greaves
+Ardite Anvil
+Cobalt Ingot
+Cobalt Double Ingot
+Cobalt Scrap
+Cobalt Dust
+Cobalt Nugget
+Cobalt Sheet
+Cobalt Double Sheet
+Cobalt Tuyere
+Cobalt Pickaxe
+Cobalt Pickaxe Head
+Cobalt Shovel
+Cobalt Shovel Head
+Cobalt Axe
+Cobalt Axe Head
+Cobalt Hoe
+Cobalt Hoe Head
+Cobalt Chisel
+Cobalt Chisel Head
+Cobalt Sword
+Cobalt Sword Blade
+Cobalt Mace
+Cobalt Mace Head
+Cobalt Saw
+Cobalt Saw Blade
+Cobalt Shears
+Cobalt Shield
+Cobalt Javelin
+Cobalt Javelin Head
+Cobalt Hammer
+Cobalt Hammer Head
+Cobalt Prospector's Pickaxe
+Cobalt Prospector's Pickaxe Head
+Cobalt Knife
+Cobalt Knife Blade
+Cobalt Scythe
+Cobalt Scythe Blade
+Cobalt Lamp
+%s Cobalt Lamp
+Unshaped Cobalt
+Cobalt Chestplate
+Cobalt Greaves
+Cobalt Boots
+Cobalt Helmet
+Unfinished Cobalt Chestplate
+Unfinished Cobalt Boots
+Unfinished Cobalt Helmet
+Unfinished Cobalt Greaves
+Cobalt Anvil
+Constantan Ingot
+Constantan Double Ingot
+Constantan Scrap
+Constantan Dust
+Constantan Nugget
+Constantan Sheet
+Constantan Double Sheet
+Constantan Tuyere
+Constantan Pickaxe
+Constantan Pickaxe Head
+Constantan Shovel
+Constantan Shovel Head
+Constantan Axe
+Constantan Axe Head
+Constantan Hoe
+Constantan Hoe Head
+Constantan Chisel
+Constantan Chisel Head
+Constantan Sword
+Constantan Sword Blade
+Constantan Mace
+Constantan Mace Head
+Constantan Saw
+Constantan Saw Blade
+Constantan Shears
+Constantan Shield
+Constantan Javelin
+Constantan Javelin Head
+Constantan Hammer
+Constantan Hammer Head
+Constantan Prospector's Pickaxe
+Constantan Prospector's Pickaxe Head
+Constantan Knife
+Constantan Knife Blade
+Constantan Scythe
+Constantan Scythe Blade
+Constantan Lamp
+%s Constantan Lamp
+Unshaped Constantan
+Constantan Chestplate
+Constantan Greaves
+Constantan Boots
+Constantan Helmet
+Unfinished Constantan Chestplate
+Unfinished Constantan Boots
+Unfinished Constantan Helmet
+Unfinished Constantan Greaves
+Constantan Anvil
+Electrum Ingot
+Electrum Double Ingot
+Electrum Scrap
+Electrum Dust
+Electrum Nugget
+Electrum Sheet
+Electrum Double Sheet
+Electrum Tuyere
+Electrum Pickaxe
+Electrum Pickaxe Head
+Electrum Shovel
+Electrum Shovel Head
+Electrum Axe
+Electrum Axe Head
+Electrum Hoe
+Electrum Hoe Head
+Electrum Chisel
+Electrum Chisel Head
+Electrum Sword
+Electrum Sword Blade
+Electrum Mace
+Electrum Mace Head
+Electrum Saw
+Electrum Saw Blade
+Electrum Shears
+Electrum Shield
+Electrum Javelin
+Electrum Javelin Head
+Electrum Hammer
+Electrum Hammer Head
+Electrum Prospector's Pickaxe
+Electrum Prospector's Pickaxe Head
+Electrum Knife
+Electrum Knife Blade
+Electrum Scythe
+Electrum Scythe Blade
+Electrum Lamp
+%s Electrum Lamp
+Unshaped Electrum
+Electrum Chestplate
+Electrum Greaves
+Electrum Boots
+Electrum Helmet
+Unfinished Electrum Chestplate
+Unfinished Electrum Boots
+Unfinished Electrum Helmet
+Unfinished Electrum Greaves
+Electrum Anvil
+Invar Ingot
+Invar Double Ingot
+Invar Scrap
+Invar Dust
+Invar Nugget
+Invar Sheet
+Invar Double Sheet
+Invar Tuyere
+Invar Pickaxe
+Invar Pickaxe Head
+Invar Shovel
+Invar Shovel Head
+Invar Axe
+Invar Axe Head
+Invar Hoe
+Invar Hoe Head
+Invar Chisel
+Invar Chisel Head
+Invar Sword
+Invar Sword Blade
+Invar Mace
+Invar Mace Head
+Invar Saw
+Invar Saw Blade
+Invar Shears
+Invar Shield
+Invar Javelin
+Invar Javelin Head
+Invar Hammer
+Invar Hammer Head
+Invar Prospector's Pickaxe
+Invar Prospector's Pickaxe Head
+Invar Knife
+Invar Knife Blade
+Invar Scythe
+Invar Scythe Blade
+Invar Lamp
+%s Invar Lamp
+Unshaped Invar
+Invar Chestplate
+Invar Greaves
+Invar Boots
+Invar Helmet
+Unfinished Invar Chestplate
+Unfinished Invar Boots
+Unfinished Invar Helmet
+Unfinished Invar Greaves
+Invar Anvil
+Manyullyn Ingot
+Manyullyn Double Ingot
+Manyullyn Scrap
+Manyullyn Dust
+Manyullyn Nugget
+Manyullyn Sheet
+Manyullyn Double Sheet
+Manyullyn Tuyere
+Manyullyn Pickaxe
+Manyullyn Pickaxe Head
+Manyullyn Shovel
+Manyullyn Shovel Head
+Manyullyn Axe
+Manyullyn Axe Head
+Manyullyn Hoe
+Manyullyn Hoe Head
+Manyullyn Chisel
+Manyullyn Chisel Head
+Manyullyn Sword
+Manyullyn Sword Blade
+Manyullyn Mace
+Manyullyn Mace Head
+Manyullyn Saw
+Manyullyn Saw Blade
+Manyullyn Shears
+Manyullyn Shield
+Manyullyn Javelin
+Manyullyn Javelin Head
+Manyullyn Hammer
+Manyullyn Hammer Head
+Manyullyn Prospector's Pickaxe
+Manyullyn Prospector's Pickaxe Head
+Manyullyn Knife
+Manyullyn Knife Blade
+Manyullyn Scythe
+Manyullyn Scythe Blade
+Manyullyn Lamp
+%s Manyullyn Lamp
+Unshaped Manyullyn
+Manyullyn Chestplate
+Manyullyn Greaves
+Manyullyn Boots
+Manyullyn Helmet
+Unfinished Manyullyn Chestplate
+Unfinished Manyullyn Boots
+Unfinished Manyullyn Helmet
+Unfinished Manyullyn Greaves
+Manyullyn Anvil
+Mithril Ingot
+Mithril Double Ingot
+Mithril Scrap
+Mithril Dust
+Mithril Nugget
+Mithril Sheet
+Mithril Double Sheet
+Mithril Tuyere
+Mithril Pickaxe
+Mithril Pickaxe Head
+Mithril Shovel
+Mithril Shovel Head
+Mithril Axe
+Mithril Axe Head
+Mithril Hoe
+Mithril Hoe Head
+Mithril Chisel
+Mithril Chisel Head
+Mithril Sword
+Mithril Sword Blade
+Mithril Mace
+Mithril Mace Head
+Mithril Saw
+Mithril Saw Blade
+Mithril Shears
+Mithril Shield
+Mithril Javelin
+Mithril Javelin Head
+Mithril Hammer
+Mithril Hammer Head
+Mithril Prospector's Pickaxe
+Mithril Prospector's Pickaxe Head
+Mithril Knife
+Mithril Knife Blade
+Mithril Scythe
+Mithril Scythe Blade
+Mithril Lamp
+%s Mithril Lamp
+Unshaped Mithril
+Mithril Chestplate
+Mithril Greaves
+Mithril Boots
+Mithril Helmet
+Unfinished Mithril Chestplate
+Unfinished Mithril Boots
+Unfinished Mithril Helmet
+Unfinished Mithril Greaves
+Mithril Anvil
+Osmium Ingot
+Osmium Double Ingot
+Osmium Scrap
+Osmium Dust
+Osmium Nugget
+Osmium Sheet
+Osmium Double Sheet
+Osmium Tuyere
+Osmium Pickaxe
+Osmium Pickaxe Head
+Osmium Shovel
+Osmium Shovel Head
+Osmium Axe
+Osmium Axe Head
+Osmium Hoe
+Osmium Hoe Head
+Osmium Chisel
+Osmium Chisel Head
+Osmium Sword
+Osmium Sword Blade
+Osmium Mace
+Osmium Mace Head
+Osmium Saw
+Osmium Saw Blade
+Osmium Shears
+Osmium Shield
+Osmium Javelin
+Osmium Javelin Head
+Osmium Hammer
+Osmium Hammer Head
+Osmium Prospector's Pickaxe
+Osmium Prospector's Pickaxe Head
+Osmium Knife
+Osmium Knife Blade
+Osmium Scythe
+Osmium Scythe Blade
+Osmium Lamp
+%s Osmium Lamp
+Unshaped Osmium
+Osmium Chestplate
+Osmium Greaves
+Osmium Boots
+Osmium Helmet
+Unfinished Osmium Chestplate
+Unfinished Osmium Boots
+Unfinished Osmium Helmet
+Unfinished Osmium Greaves
+Osmium Anvil
+Titanium Ingot
+Titanium Double Ingot
+Titanium Scrap
+Titanium Dust
+Titanium Nugget
+Titanium Sheet
+Titanium Double Sheet
+Titanium Tuyere
+Titanium Pickaxe
+Titanium Pickaxe Head
+Titanium Shovel
+Titanium Shovel Head
+Titanium Axe
+Titanium Axe Head
+Titanium Hoe
+Titanium Hoe Head
+Titanium Chisel
+Titanium Chisel Head
+Titanium Sword
+Titanium Sword Blade
+Titanium Mace
+Titanium Mace Head
+Titanium Saw
+Titanium Saw Blade
+Titanium Shears
+Titanium Shield
+Titanium Javelin
+Titanium Javelin Head
+Titanium Hammer
+Titanium Hammer Head
+Titanium Prospector's Pickaxe
+Titanium Prospector's Pickaxe Head
+Titanium Knife
+Titanium Knife Blade
+Titanium Scythe
+Titanium Scythe Blade
+Titanium Lamp
+%s Titanium Lamp
+Unshaped Titanium
+Titanium Chestplate
+Titanium Greaves
+Titanium Boots
+Titanium Helmet
+Unfinished Titanium Chestplate
+Unfinished Titanium Boots
+Unfinished Titanium Helmet
+Unfinished Titanium Greaves
+Titanium Anvil
+Tungsten Ingot
+Tungsten Double Ingot
+Tungsten Scrap
+Tungsten Dust
+Tungsten Nugget
+Tungsten Sheet
+Tungsten Double Sheet
+Tungsten Tuyere
+Tungsten Pickaxe
+Tungsten Pickaxe Head
+Tungsten Shovel
+Tungsten Shovel Head
+Tungsten Axe
+Tungsten Axe Head
+Tungsten Hoe
+Tungsten Hoe Head
+Tungsten Chisel
+Tungsten Chisel Head
+Tungsten Sword
+Tungsten Sword Blade
+Tungsten Mace
+Tungsten Mace Head
+Tungsten Saw
+Tungsten Saw Blade
+Tungsten Shears
+Tungsten Shield
+Tungsten Javelin
+Tungsten Javelin Head
+Tungsten Hammer
+Tungsten Hammer Head
+Tungsten Prospector's Pickaxe
+Tungsten Prospector's Pickaxe Head
+Tungsten Knife
+Tungsten Knife Blade
+Tungsten Scythe
+Tungsten Lamp
+%s Tungsten Lamp
+Unshaped Tungsten
+Tungsten Chestplate
+Tungsten Greaves
+Tungsten Boots
+Tungsten Helmet
+Unfinished Tungsten Chestplate
+Unfinished Tungsten Boots
+Unfinished Tungsten Helmet
+Unfinished Tungsten Greaves
+Tungsten Anvil
+Tungsten Steel Ingot
+Tungsten Steel Double Ingot
+Tungsten Steel Scrap
+Tungsten Steel Dust
+Tungsten Steel Nugget
+Tungsten Steel Sheet
+Tungsten Steel Double Sheet
+Tungsten Steel Tuyere
+Tungsten Steel Pickaxe
+Tungsten Steel Pickaxe Head
+Tungsten Steel Shovel
+Tungsten Steel Shovel Head
+Tungsten Steel Axe
+Tungsten Steel Axe Head
+Tungsten Steel Hoe
+Tungsten Steel Hoe Head
+Tungsten Steel Chisel
+Tungsten Steel Chisel Head
+Tungsten Steel Sword
+Tungsten Steel Sword Blade
+Tungsten Steel Mace
+Tungsten Steel Mace Head
+Tungsten Steel Saw
+Tungsten Steel Saw Blade
+Tungsten Steel Shears
+Tungsten Steel Shield
+Tungsten Steel Javelin
+Tungsten Steel Javelin Head
+Tungsten Steel Hammer
+Tungsten Steel Hammer Head
+Tungsten Steel Prospector's Pickaxe
+Tungsten Steel Prospector's Pickaxe Head
+Tungsten Steel Knife
+Tungsten Steel Knife Blade
+Tungsten Steel Scythe
+Tungsten Steel Scythe Blade
+Tungsten Steel Lamp
+%s Tungsten Steel Lamp
+Unshaped Tungsten Steel
+Tungsten Steel Chestplate
+Tungsten Steel Greaves
+Tungsten Steel Boots
+Tungsten Steel Helmet
+Unfinished Tungsten Steel Chestplate
+Unfinished Tungsten Steel Boots
+Unfinished Tungsten Steel Helmet
+Unfinished Tungsten Steel Greaves
+Tungsten Steel Anvil
+Nickel Silver Ingot
+Nickel Silver Double Ingot
+Nickel Silver Scrap
+Nickel Silver Dust
+Nickel Silver Nugget
+Nickel Silver Sheet
+Nickel Silver Double Sheet
+Nickel Silver Tuyere
+Nickel Silver Pickaxe
+Nickel Silver Pickaxe Head
+Nickel Silver Shovel
+Nickel Silver Shovel Head
+Nickel Silver Axe
+Nickel Silver Axe Head
+Nickel Silver Hoe
+Nickel Silver Hoe Head
+Nickel Silver Chisel
+Nickel Silver Chisel Head
+Nickel Silver Sword
+Nickel Silver Sword Blade
+Nickel Silver Mace
+Nickel Silver Mace Head
+Nickel Silver Saw
+Nickel Silver Saw Blade
+Nickel Silver Shears
+Nickel Silver Shield
+Nickel Silver Javelin
+Nickel Silver Javelin Head
+Nickel Silver Hammer
+Nickel Silver Hammer Head
+Nickel Silver Prospector's Pickaxe
+Nickel Silver Prospector's Pickaxe Head
+Nickel Silver Knife
+Nickel Silver Knife Blade
+Nickel Silver Scythe
+Nickel Silver Scythe Blade
+Nickel Silver Lamp
+%s Nickel Silver Lamp
+Unshaped Nickel Silver
+Nickel Silver Chestplate
+Nickel Silver Greaves
+Nickel Silver Boots
+Nickel Silver Helmet
+Unfinished Nickel Silver Chestplate
+Unfinished Nickel Silver Boots
+Unfinished Nickel Silver Helmet
+Unfinished Nickel Silver Greaves
+Nickel Silver Anvil
+Aluminum
+Aluminum Brass
+Antimony
+Ardite
+Cobalt
+Constantan
+Electrum
+Invar
+Titanium
+Manyullyn
+Osmium
+Tungsten
+Tungsten Steel
+Nickel Silver
+Red Alloy
+Thorium
+Molten Antimony
+Molten Constantan
+Molten Electrum
+Molten Mithril
+Molten Invar
+Molten Aluminum
+Molten Aluminum Brass
+Molten Ardite
+Molten Cobalt
+Molten Manyullyn
+Molten Osmium
+Molten Titanium
+Molten Tungsten
+Molten Tungsten Steel
+Molten Nickel Silver
+Molten Red Alloy
+Raw Aluminum Bloom
+Refined Aluminum Bloom
+Raw Ardite Bloom
+Refined Ardite Bloom
+Raw Cobalt Bloom
+Refined Cobalt Bloom
+Stibnite
+Surface Stibnite
+Cobaltite
+Wolframite
+Bauxite
+Native Osmium
+Ardite
+Thorianite
+Surface Thorianite
+Chromite
+Pyrolusite
+Magnesite
+Spodumene
+Rutile
+Boron
+Molten Thorium
+Thorium Ingot
+Unshaped Thorium
+Thorium Double Ingot
+Double Ingot Thorium
+Thorium Scrap
+Scrap Thorium
+Thorium Dust
+Dust Thorium
+Thorium Nugget
+Nugget Thorium
+Thorium Sheet
+Sheet Thorium
+Thorium Double Sheet
+Double Sheet Thorium
+Anvil Thorium
+Thorium Tuyere
+Tuyere Thorium
+Thorium Lamp
+%s Thorium Lamp
+Lamp Thorium
+Pick Thorium
+Pick Head Thorium
+Shovel Thorium
+Shovel Head Thorium
+Axe Thorium
+Axe Head Thorium
+Hoe Thorium
+Hoe Head Thorium
+Chisel Thorium
+Chisel Head Thorium
+Sword Thorium
+Sword Blade Thorium
+Mace Thorium
+Mace Head Thorium
+Saw Thorium
+Saw Blade Thorium
+Javelin Thorium
+Javelin Head Thorium
+Hammer Thorium
+Hammer Head Thorium
+Propick Thorium
+Propick Head Thorium
+Knife Thorium
+Knife Blade Thorium
+Scythe Thorium
+Scythe Blade Thorium
+Shears Thorium
+Unfinished Chestplate Thorium
+Chestplate Thorium
+Unfinished Greaves Thorium
+Greaves Thorium
+Unfinished Boots Thorium
+Boots Thorium
+Unfinished Helmet Thorium
+Helmet Thorium
+Thorium Shield
+Raw Thorium Bloom
+Refined Thorium Bloom
+TNFC-Metallum
+TNFC-Metallum Mod Configuration
+Recipe Configuration
+Toggle advanced metals recipes on/off
+Ardite via Bloomery
+Register ardite recipe via bloomery?
+Aluminum via Bloomery
+Register aluminum recipe via bloomery?
+Cobalt via Bloomery
+Register cobalt recipe via bloomery?
+Osmium via Blast Furnace
+Register osmium recipe via blast furnace?
+Titanium via Blast Furnace
+Register Titanium recipe via blast furnace?
+Tungsten via Blast Furnace
+Register tungsten recipe via blast furnace?

@@ -1,0 +1,971 @@
+Vanilla Changes
+GUI IDs
+Entity IDs
+Power Modification
+Ores
+Quartz
+Limestone
+Marble
+Cluster Size
+Chance to Generate
+Maximum Y
+Minimum Y
+Coal Generator
+Solar Generator
+Iron Builder
+Redstone Capacitor
+Crusher
+Sand Sifter
+Crafting Tablet
+Block Placer
+Obsidian Anvil
+Coal Generator Small Fuel Output
+Coal Generator Large Fuel Output
+Solar Generator Output
+Iron Builder Power Requirement
+Redstone Capacitor Input from Redstone
+Cable Transfer Distance
+Redstone Capacitor Storage
+Crusher Power Usage
+Sifter Power Usage
+Protect End Blocks
+Smelt Rotten Flesh
+Craft Notch Apple
+Craft String
+Stack Upsizer
+Anti-Trample
+Extra Stairs
+Classic Attacking
+No Potion Shift
+Client
+Client
+Capes
+Capes
+Capes
+Snow Buildup
+Piston Push Limit
+Dynamic Lighting
+1.13 Swimming
+Better Item Sorting
+GUI IDs
+Entity IDs
+%1$s coughed to death
+%1$s was crushed to death
+Quartz
+Obsidian Ingot
+Kiln Brick
+Redstone Plate
+Sap Ball
+Wood Gear
+Stone Gear
+Gold Gear
+Iron Gear
+Redstone Gear
+Obsidian Gear
+Enderium Gear
+Gold Plate
+Iron Plate
+Obsidian Plate
+Enderium Plate
+§9Gear Blueprint§r
+§9Ingot Blueprint§r
+§9Blueprint§r
+Quartz
+§4Ingot Press§r
+§4Block Press§r
+§4Press§r
+§4Plate Press§r
+§eBlock Cast§r
+§eIngot Cast§r
+§eNugget Cast§r
+§eSword Cast§r
+§ePickaxe Cast§r
+§eAxe Cast§r
+§eShovel Cast§r
+§eHoe Cast§r
+§eBucket Cast§r
+§eShear Cast§r
+§eBoots Cast§r
+§eLeggings Cast§r
+§eChestplate Cast§r
+§eHelmet Cast§r
+§eHorse Armor Cast§r
+§eCast§r
+Obsidian Boat
+Obsidian Sword
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Axe
+Obsidian Hoe
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Miner's Helmet
+Sand Dust
+Hammer
+Quiver
+Wrench
+Crafting Tablet
+Green Apple
+Seagrass
+Ender Pouch
+Redstone Wand
+Minecart with Ender Chest
+Piece of Cake
+Slices: %s
+Black Shield Pattern
+Red Shield Pattern
+Green Shield Pattern
+Brown Shield Pattern
+Blue Shield Pattern
+Purple Shield Pattern
+Cyan Shield Pattern
+Silver Shield Pattern
+Gray Shield Pattern
+Pink Shield Pattern
+Lime Shield Pattern
+Yellow Shield Pattern
+LightBlue Shield Pattern
+Magenta Shield Pattern
+Orange Shield Pattern
+White Shield Pattern
+Black Gear Pattern
+Red Gear Pattern
+Green Gear Pattern
+Brown Gear Pattern
+Blue Gear Pattern
+Purple Gear Pattern
+Cyan Gear Pattern
+Silver Gear Pattern
+Gray Gear Pattern
+Pink Gear Pattern
+Lime Gear Pattern
+Yellow Gear Pattern
+LightBlue Gear Pattern
+Magenta Gear Pattern
+Orange Gear Pattern
+White Gear Pattern
+Black Hammer Pattern
+Red Hammer Pattern
+Green Hammer Pattern
+Brown Hammer Pattern
+Blue Hammer Pattern
+Purple Hammer Pattern
+Cyan Hammer Pattern
+Silver Hammer Pattern
+Gray Hammer Pattern
+Pink Hammer Pattern
+Lime Hammer Pattern
+Yellow Hammer Pattern
+LightBlue Hammer Pattern
+Magenta Hammer Pattern
+Orange Hammer Pattern
+White Hammer Pattern
+Black Wrench Pattern
+Red Wrench Pattern
+Green Wrench Pattern
+Brown Wrench Pattern
+Blue Wrench Pattern
+Purple Wrench Pattern
+Cyan Wrench Pattern
+Silver Wrench Pattern
+Gray Wrench Pattern
+Pink Wrench Pattern
+Lime Wrench Pattern
+Yellow Wrench Pattern
+LightBlue Wrench Pattern
+Magenta Wrench Pattern
+Orange Wrench Pattern
+White Wrench Pattern
+     Crafting
+Moving Box
+Stored Block: 
+Empty
+Enderium Ingot
+Enderium Nugget
+Guide Book
+Ore Dictionary
+Blue Dye
+White Dye
+Adjustable Compass
+ 
+Position
+Dimension
+Small Armor Stand
+Parrot Egg
+Fire Sticks
+Glowstone Brick
+Stone Brick
+Unfired Brick
+Obsidian Shield
+Oak Trapdoor
+Spruce Trapdoor
+Birch Trapdoor
+Jungle Trapdoor
+Acacia Trapdoor
+Dark Oak Trapdoor
+Oak Pressure Plate
+Spruce Pressure Plate
+Birch Pressure Plate
+Jungle Pressure Plate
+Acacia Pressure Plate
+Dark Oak Pressure Plate
+Oak Button
+Spruce Button
+Birch Button
+Jungle Button
+Acacia Button
+Dark Oak Button
+Stone Button
+Kiln Bricks
+Kiln Chimney
+Sap Stone
+Charcoal Block
+Smeltery Frame
+Smeltery Glass
+Coal Generator
+Solar Generator
+Compressed Redstone Block
+Compressed Iron Block
+Compressed Obsidian Block
+Compressed Gold Block
+Compressed Enderium Block
+Conveyor
+Mycelium Planter
+Kiln Brick Slab
+Double Kiln Brick Slab
+Iron Builder
+Redstone Capacitor
+Block of Marble
+Block of Smooth Marble
+Block of Limestone
+Block of Smooth Limestone
+Quartz Ore
+Ash
+Gold Ore
+Smeltery
+Barrier
+Crusher Frame
+Strong Light
+Medium Light
+Weak Light
+Smooth Stone
+Smooth Sandstone
+Smooth Red Sandstone
+Smeltery Controller
+Crusher Controller
+Kiln Interface
+Sand Sifter
+Redstone Target
+Redstone Crusher Toggle
+Redstone Crusher Toggle 
+Redstone Smeltery Toggle
+Redstone Smeltery Toggle  
+Redstone Kiln Toggle
+Redstone Kiln Toggle
+Crusher Core
+Redstone Toggle
+Redstone Toggle
+Iron Ladder
+Sticky TNT
+Redstone Cable
+Hidden Block
+Mob Trap
+Display Stand
+Elevator
+Global Network Bridge
+Global Network Extractor
+Global Network Display
+Carpet
+Seagrass
+Cauldron
+Power Export
+Power Import
+Powered Lamp
+Powered Lamp
+Crusher Power Input
+Obsidian Pressure Plate
+Obsidian Button
+Obsidian Lever
+Block Breaker
+Silk Touch Block Breaker
+Block Placer
+Obsidian Anvil
+Spigot
+Redstone Randomizer
+Redstone Hub
+Enderium Ore
+Enderium Block
+Charged Obsidian
+Synthetic End Portal
+End Portal
+Dynamo
+Windmill
+Waterwheel
+Scaffolding
+Building Anchor
+Muffler
+Muffles: All
+Muffles: Weather
+Muffles: Blocks
+Muffles: Music
+Muffles: Entities
+Stored Power: 
+Pumice
+Saturated Pumice
+Wither Rose
+Slime Lily
+Cyan Rose
+Blue Poppy
+Lily
+Block of Redstone Dust
+Melting Magma Block
+Crank
+Smoking Netherrack
+Rain Sensor
+Dark Glass
+Dark Glass Pane
+Compressed Stone Block
+Nether Brick Fence Gate
+Carved Pumpkin
+Pumpkin
+Filtered Hopper
+Vacuum Hopper
+Fluid Hopper
+Filtered Fluid Hopper
+Vacuum Fluid Hopper
+Upper
+Filtered Upper
+Vacuum Upper
+Fluid Upper
+Filtered Fluid Upper
+Vacuum Fluid Upper
+Fish Trap
+Molten Iron
+Molten Gold
+Molten Metal
+Smoke Sickness
+Sticky
+Miner's Mishap
+Builder's Blunder
+Slow Falling
+Potion of Slow Falling
+Splash Potion of Slow Falling
+Arrow of Slow Falling
+Lingering Potion of Slow Falling
+Potion of Darkness
+Splash Potion of Darkness
+Arrow of Darkness
+Lingering Potion of Darkness
+Potion of Adhesion
+Splash Potion of Adhesion
+Arrow of Adhesion
+Lingering Potion of Adhesion
+Magic Protection
+Lava Walker
+Auto-Smelt
+Magnetism
+(WIP) Vein Miner
+Persistent
+Zeus
+Retrieval
+Reach
+Keeping
+Knockback Protection
+Puncture
+Seaking
+Sharpness
+Smite
+Bane of Arthropods
+Knockback
+Fire Aspect
+Sweeping Edge
+Protection
+Fire Protection
+Feather Falling
+Blast Protection
+Projectile Protection
+Respiration
+Aqua Affinity
+Depth Strider
+Frost Walker
+Efficiency
+Silk Touch
+Unbreaking
+Looting
+Fortune
+Luck of the Sea
+Lure
+Power
+Flame
+Punch
+Infinity
+Thorns
+Mending
+§cCurse of Binding§7
+§cCurse of Vanishing§7
+Coal Generator
+Solar Generator
+Redstone Capacitor
+Crusher
+Sand Sifter
+Block Placer
+Obsidian Anvil
+Obsidian Boat
+Minecart with Ender Chest
+Engineer
+Zombie Villager
+Redstone Colossus
+TNT
+Item Frame
+Item Frame
+Stairs
+Parrot
+Parrot Egg
+Light Overlay
+WAILA
+Machine Overhaul
+Screen Zoom
+Type: %s
+Increases underwater mining rate
+Increases damage to arthropods
+Reduces explosion damage
+Prevents removal of items (except for in creative)
+Item destroyed on death
+Increases underwater movement speed
+Increases mining speed
+Reduces fall damage
+Sets target on fire
+Reduces fire damage
+Arrows set target on fire
+Increases block drops
+Turns water beneath the player into ice
+Shooting consumes no arrows
+Increases knockback
+Increases mob loot
+Increases fishing luck
+Increases fishing rate
+Repair items with experience
+Increases arrow damage
+Reduces projectile damage
+Reduces most types of damage
+Increases arrow knockback
+Extends underwater breathing time
+Increases damage
+Mined blocks drop themselves
+Increases damage to undead mobs
+Increases sweeping attack damage
+Damages attackers
+Increases effective durability
+Reduces magic damage
+Turns lava beneath the player into magma
+Any blocks that can be smelted in a furnace are cooked when mined
+Pulls nearby items to the player
+(WIP) Mines whole veins of ore
+Stops this item from despawning when dropped
+When applied to a Hammer, it will strike lightning if used
+Brings arrows and drops back to the player when on a Bow
+Increases player reach one block per level
+Stops the player from losing the enchanted item upon death
+Decreases the amount of knockback taken by 25 percent per level
+Allows some damage from the enchanted item to penetrate armor and potions (higher levels increase amount of penetrating damage)
+Arrows close to their target will adjust their course so they are guaranteed to hit it
+A description of your enchant (keep it short)
+XI
+XII
+XIII
+XIV
+XV
+XVI
+XVII
+XVIII
+XIX
+XX
+XXI
+XXII
+XXIII
+XXIV
+XXV
+XXVI
+XXVII
+XXVIII
+XXIX
+XXX
+XXXI
+XXXII
+XXXIII
+XXXIV
+XXXV
+XXXVI
+XXXVII
+XXXVIII
+XXXIX
+XL
+XLI
+XLII
+XLIII
+XLIV
+XLV
+XLVI
+XLVII
+XLVIII
+XLIX
+L
+LI
+LII
+LIII
+LIV
+LV
+LVI
+LVII
+LVIII
+LIX
+LX
+LXI
+LXII
+LXIII77
+LXIV
+LXV
+LXVI
+LXVII
+LXVIII
+LXIX
+LXX
+LXXI
+LXXII
+LXXIII
+LXXIV
+LXXV
+LXXVI
+LXXVII
+LXXVIII
+LXXIX
+LXXX
+LXXXI
+LXXXII
+LXXXIII
+LXXXIV
+LXXXV
+LXXXVI
+LXXXVII
+LXXXVIII
+LXXXIX
+XC
+XCI
+XCII
+XCIII
+XCIV
+XCV
+XCVI
+XCVII
+XCVIII
+XCIX
+C
+CI
+CII
+CIII
+CIV
+CV
+CVI
+CVII
+CVIII
+CIX
+CX
+CXI
+CXII
+CXIII
+CXIV
+CXV
+CXVI
+CXVII
+CXVIII
+CXIX
+CXX
+CXXI
+CXXII
+CXXIII
+CXXIV
+CXXV
+CXXVI
+CXXVII
+CXXVIII
+CXXIX
+CXXX
+CXXXI
+CXXXII
+CXXXIII
+CXXXIV
+CXXXV
+CXXXVI
+CXXXVII
+CXXXVIII
+CXXXIX
+CXL
+CXLI
+CXLII
+CXLIII
+CXLIV
+CXLV
+CXLVI
+CXLVII
+CXLVIII
+CXLIX
+CL
+CLI
+CLII
+CLIII
+CLIV
+CLV
+CLVI
+CLVII
+CLVIII
+CLIX
+CLX
+CLXI
+CLXII
+CLXIII
+CLXIV
+CLXV
+CLXVI
+CLXVII
+CLXVIII
+CLXIX
+CLXX
+CLXXI
+CLXXII
+CLXXIII
+CLXXIV
+CLXXV
+CLXXVI
+CLXXVII
+CLXXVIII
+CLXXIX
+CLXXX
+CLXXXI
+CLXXXII
+CLXXXIII
+CLXXXIV
+CLXXXV
+CLXXXVI
+CLXXXVII
+CLXXXVIII
+CLXXXIX
+CXC
+CXCI
+CXCII
+CXCIII
+CXCIV
+CXCV
+CXCVI
+CXCVII
+CXCVIII
+CXCIX
+CC
+CCI
+CCII
+CCIII
+CCIV
+CCV
+CCVI
+CCVII
+CCVIII
+CCIX
+CCX
+CCXI
+CCXII
+CCXIII
+CCXIV
+CCXV
+CCXVI
+CCXVII
+CCXVIII
+CCXIX
+CCXX
+CCXXI
+CCXXII
+CCXXIII
+CCXXIV
+CCXXV
+CCXXVI
+CCXXVII
+CCXXVIII
+CCXXIX
+CCXXX
+CCXXXI
+CCXXXII
+CCXXXIII
+CCXXXIV
+CCXXXV
+CCXXXVI
+CCXXXVII
+CCXXXVIII
+CCXXXIX
+CCXL
+CCXLI
+CCXLII
+CCXLIII
+CCXLIV
+CCXLV
+CCXLVI
+CCXLVII
+CCXLVIII
+CCXLIX
+CCL
+CCLI
+CCLII
+CCLIII
+CCLIV
+CCLV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+XII
+XIII
+XIV
+XV
+XVI
+XVII
+XVIII
+XIX
+XX
+XXI
+XXII
+XXIII
+XXIV
+XXV
+XXVI
+XXVII
+XXVIII
+XXIX
+XXX
+XXXI
+XXXII
+XXXIII
+XXXIV
+XXXV
+XXXVI
+XXXVII
+XXXVIII
+XXXIX
+XL
+XLI
+XLII
+XLIII
+XLIV
+XLV
+XLVI
+XLVII
+XLVIII
+XLIX
+L
+LI
+LII
+LIII
+LIV
+LV
+LVI
+LVII
+LVIII
+LIX
+LX
+LXI
+LXII
+LXIII
+LXIV
+LXV
+LXVI
+LXVII
+LXVIII
+LXIX
+LXX
+LXXI
+LXXII
+LXXIII
+LXXIV
+LXXV
+LXXVI
+LXXVII
+LXXVIII
+LXXIX
+LXXX
+LXXXI
+LXXXII
+LXXXIII
+LXXXIV
+LXXXV
+LXXXVI
+LXXXVII
+LXXXVIII
+LXXXIX
+XC
+XCI
+XCII
+XCIII
+XCIV
+XCV
+XCVI
+XCVII
+XCVIII
+XCIX
+C
+CI
+CII
+CIII
+CIV
+CV
+CVI
+CVII
+CVIII
+CIX
+CX
+CXI
+CXII
+CXIII
+CXIV
+CXV
+CXVI
+CXVII
+CXVIII
+CXIX
+CXX
+CXXI
+CXXII
+CXXIII
+CXXIV
+CXXV
+CXXVI
+CXXVII
+CXXVIII
+CXXIX
+CXXX
+CXXXI
+CXXXII
+CXXXIII
+CXXXIV
+CXXXV
+CXXXVI
+CXXXVII
+CXXXVIII
+CXXXIX
+CXL
+CXLI
+CXLII
+CXLIII
+CXLIV
+CXLV
+CXLVI
+CXLVII
+CXLVIII
+CXLIX
+CL
+CLI
+CLII
+CLIII
+CLIV
+CLV
+CLVI
+CLVII
+CLVIII
+CLIX
+CLX
+CLXI
+CLXII
+CLXIII
+CLXIV
+CLXV
+CLXVI
+CLXVII
+CLXVIII
+CLXIX
+CLXX
+CLXXI
+CLXXII
+CLXXIII
+CLXXIV
+CLXXV
+CLXXVI
+CLXXVII
+CLXXVIII
+CLXXIX
+CLXXX
+CLXXXI
+CLXXXII
+CLXXXIII
+CLXXXIV
+CLXXXV
+CLXXXVI
+CLXXXVII
+CLXXXVIII
+CLXXXIX
+CXC
+CXCI
+CXCII
+CXCIII
+CXCIV
+CXCV
+CXCVI
+CXCVII
+CXCVIII
+CXCIX
+CC
+CCI
+CCII
+CCIII
+CCIV
+CCV
+CCVI
+CCVII
+CCVIII
+CCIX
+CCX
+CCXI
+CCXII
+CCXIII
+CCXIV
+CCXV
+CCXVI
+CCXVII
+CCXVIII
+CCXIX
+CCXX
+CCXXI
+CCXXII
+CCXXIII
+CCXXIV
+CCXXV
+CCXXVI
+CCXXVII
+CCXXVIII
+CCXXIX
+CCXXX
+CCXXXI
+CCXXXII
+CCXXXIII
+CCXXXIV
+CCXXXV
+CCXXXVI
+CCXXXVII
+CCXXXVIII
+CCXXXIX
+CCXL
+CCXLI
+CCXLII
+CCXLIII
+CCXLIV
+CCXLV
+CCXLVI
+CCXLVII
+CCXLVIII
+CCXLIX
+CCL
+CCLI
+CCLII
+CCLIII
+CCLIV
+CCLV
+CCLVI

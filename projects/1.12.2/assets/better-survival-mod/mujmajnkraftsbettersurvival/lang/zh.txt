@@ -1,0 +1,203 @@
+Debug
+Crossbow
+Big Shield
+Round Shield
+Diamond Hammer
+Golden Hammer
+Iron Hammer
+Stone Hammer
+Wooden Hammer
+Diamond Battle Axe
+Golden Battle Axe
+Iron Battle Axe
+Stone Battle Axe
+Wooden Battle Axe
+Diamond Spear
+Golden Spear
+Iron Spear
+Stone Spear
+Wooden Spear
+Diamond Nunchaku
+Golden Nunchaku
+Iron Nunchaku
+Stone Nunchaku
+Wooden Nunchaku
+Diamond Dagger
+Golden Dagger
+Iron Dagger
+Stone Dagger
+Wooden Dagger
+Copper Hammer
+Bronze Hammer
+Invar Hammer
+Silver Hammer
+Electrum Hammer
+Aluminium Hammer
+Steel Hammer
+Signalum Hammer
+Lumium Hammer
+Enderium Hammer
+Copper Battle Axe
+Bronze Battle Axe
+Invar Battle Axe
+Silver Battle Axe
+Electrum Battle Axe
+Aluminium Battle Axe
+Steel Battle Axe
+Signalum Battle Axe
+Lumium Battle Axe
+Enderium Battle Axe
+Copper Spear
+Bronze Spear
+Invar Spear
+Silver Spear
+Electrum Spear
+Aluminium Spear
+Steel Spear
+Signalum Spear
+Lumium Spear
+Enderium Spear
+Copper Dagger
+Bronze Dagger
+Invar Dagger
+Silver Dagger
+Electrum Dagger
+Aluminium Dagger
+Steel Dagger
+Signalum Dagger
+Lumium Dagger
+Enderium Dagger
+Copper Nunchaku
+Bronze Nunchaku
+Invar Nunchaku
+Silver Nunchaku
+Electrum Nunchaku
+Aluminium Nunchaku
+Steel Nunchaku
+Signalum Nunchaku
+Lumium Nunchaku
+Enderium Nunchaku
+Dragon Bone Hammer
+Dragon Bone Spear
+Dragon Bone Battle Axe
+Dragon Bone Dagger
+Dragon Bone Nunchaku
+Desert Myrmex Chitin Hammer
+Desert Myrmex Chitin Spear
+Desert Myrmex Chitin Battle Axe
+Desert Myrmex Chitin Dagger
+Desert Myrmex Chitin Nunchaku
+Jungle Myrmex Chitin Hammer
+Jungle Myrmex Chitin Spear
+Jungle Myrmex Chitin Battle Axe
+Jungle Myrmex Chitin Dagger
+Jungle Myrmex Chitin Nunchaku
++4 damage against non-arthropods
+Vampirism
+Agility
+Arrow Recovery
+Assassinate
+Bash
+Blast
+Blocking Power
+Combo
+Disarm
+Heavy
+High Jump
+Impale
+Diamonds Everywhere
+Reflection
+Tunneling
+Smelting
+Education
+Versatility
+Multishot
+Rapid Fire
+Penetration
+Spellproof
+Range
+Fling
+Vitality
+Weightless
+After hitting an entity there is a chance to get your arrow back.
+Iincreases your movement speed.
+Increases backstab damage.
+Your attacks are more likely to stun the enemy.
+Arrows you shoot will explode on impact.
+This enchatnment will allow shields to block more damage.
+Increases damage over time if you keep attacking.
+Any ore you mine has a small chance to drop diamonds.
+Your attacks are more likely to disarm the enemy.
+Increases the amount of experience you get from killing enemies.
+Throws any enemy you hit into air.
+Increases jump height.
+Lets you shoot multiple arrows at once.
+Make arrows you shoot fly faster and further.
+Damage dealt by the item partially ignores armor.
+Increases bow/crossbow drawing speed.
+Deals damage to any enemy, who hits you when you're blocking..
+Any drops from blocks you mine will be smelted.
+Lets you more blocks at once.
+Partially blocks magic damage as well.
+Heals you for portion of damage dealt.
+Slightly increases mining speed on ALL blocks.
+Increases natural regeneration rate.
+Decreases blocking speed reduction.
+Configuration
+Customize max level of mod enchantments (setting it to 0 will disable the enchantment completely).
+Set whether mod enchantments are treasure or not .Treasure enchantment cannot be obtained thru enchanting table.
+Configure stats of tools made of common materials (harvest level, durability, efficiency, damage, enchantability).
+Other settings
+Enchantment levels
+Treasure enchantments
+Material stats
+Other settings
+Copper
+Bronze
+Invar
+Aluminium
+Electrum
+Silver
+Steel
+Signalum
+Lumium
+Enderium
+Allow FOV changes
+Allow crossmod integration
+Allow vanilla shields
+Stun
+Milk
+Cure
+Dispell
+Ender Warp
+Antiwarp
+Potion of Blindness
+Potion of Decay
+Potion of Ender Warp
+Potion of Antiwarp
+Milky Potion
+Potion of Cure
+Potion of Dispel
+Splash Potion of Blindness
+Splash Potion of Decay
+Splash Potion of Eder Warp
+Splash Potion of Antiwarp
+Splash Milky Potion
+Splash Potion of Cure
+Splash Potion of Dispel
+Lingering Potion of Blindness
+Lingering Potion of Decay
+Lingering Potion of Eder Warp
+Lingering Potion of Antiwarp
+Lingering Milky Potion
+Lingering Potion of Cure
+Lingering Potion of Dispel
+of Blindness
+Arrow of Decay
+Arrow of Eder Warp
+Arrow of Antiwarp
+Milky Arrow
+Arrow of Cure
+Arrow of Dispel
+Antiwarp
+Dispel

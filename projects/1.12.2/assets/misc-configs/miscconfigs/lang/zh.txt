@@ -1,0 +1,38 @@
+Custom Chat Message
+Custom chat message that is displayed when they player joins the game.
+Disable features
+Disable certain aspects of the game.
+Custom Window Name
+Set a custom window name.
+Disable Crafting Tables
+Prevents vanilla crafting tables from working.
+Disable Enchanting Tables
+Prevents vanilla enchanting tables from working.
+Disable Chests
+Prevents vanilla chests from working.
+Disabled Furnaces
+Prevents furnaces from working.
+Use Custom Chat Message
+Should a custom chat message be sent when the player joins the game?
+Custom Chat Message
+Chat message for when player joins game
+Thank you for using MiscConfigs!
+Chat message color
+Send chat message once
+The chat message will only be sent once if enabled
+Use random message.
+Picks a random message from set messages (Uses first message if disabled)
+Use random color.
+Picks a random color for the message to be displayed in.
+Sapling Growth Multiplier
+No rain.
+Turn off the rain.
+Set Window Name
+Should a custom window name be set?
+Window Name
+The window name to be used if enabled.
+Custom Window Name, change this in miscconfigs.cfg
+The Crafting Table has been disabled!
+The Enchanting Table has been disabled!
+Chests have been disabled!
+Furnaces have been disabled!

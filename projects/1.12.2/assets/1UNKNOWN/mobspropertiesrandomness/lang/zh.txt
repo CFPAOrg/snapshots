@@ -1,0 +1,3 @@
+Reloading JSON files in 'json' folder
+Something went wrong while reloading JSONs. Please check the log for more infos
+Successfully reloaded %d JSONs

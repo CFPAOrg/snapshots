@@ -1,0 +1,730 @@
+Block of Antimony
+Block of Steel
+Block of Invar
+Block of Zinc
+Block of Lead
+Block of Platinum
+Block of Brass
+Block of Tungstensteel
+Block of Nickel
+Block of Constantan
+Block of Osmium
+Block of Manganese
+Block of Magnalium
+Block of Stainless Steel
+Block of Bismuth
+Block of Red Garnet
+Block of Yellow Garnet
+Block of Green Sapphire
+Block of Olivine
+Brass Item Pipe
+Large Brass Item Pipe
+Small Steel Fluid Pipe
+Steel Fluid Pipe
+Large Steel Fluid Pipe
+Small Stainless Steel Fluid Pipe
+Stainless Steel Fluid Pipe
+Large Stainless Steel Fluid Pipe
+Small Tungstensteel Fluid Pipe
+Tungstensteel Fluid Pipe
+Large Tungstensteel Fluid Pipe
+Pyrite Ore
+Cinnabar Ore
+Sphalerite Ore
+Tungstate Ore
+Sheldonite Ore
+Olivine Ore
+Sodalite Ore
+Olivine Ore
+Cassiterite Ore
+Tetrahedrite Ore
+Galena Ore
+Chromite Ore
+Industrial Blast Furnace
+Industrial Electrolyzer
+Implosion Compressor
+Industrial Grinder
+Industrial Sawmill
+Vacuum Freezer
+Alloy Smelter
+Assembling Machine
+Chemical Reactor
+Distillation Tower
+Alloy Furnace
+Primitive Blast Furnace
+Fluid Caster
+Fluid Smelter
+Plate Bending Machine
+Plate Cutting Machine
+Lathe
+Wiremill
+Extruder
+Microwave Oven
+Stone Compressor
+Stone Extractor
+Diesel Generator
+Thermal Boiler
+Large Steam Turbine
+Large Gas Turbine
+Gas Turbine
+Fusion Control Computer
+Locker
+Electric Locker
+Advanced Worktable
+Dust Bin
+Trash Bin
+Standard Machine Casing
+Reinforced Machine Casing
+Advanced Machine Casing
+Fire Clay
+Fire Bricks
+Iridium Reinforced Tungstensteel Block
+Tungstensteel Reinforced Stone
+Electrum Cable
+Insulated Electrum Cable
+2xInsulated Electrum Cable
+4xInsulated Electrum Cable
+Aluminium Cable
+Insulated Aluminium Cable
+2xInsulated Aluminium Cable
+4xInsulated Aluminium Cable
+Input Hatch
+Output Hatch
+Dynamo Hatch
+Machine Control Hatch
+Fusion Material Injector
+Fusion Material Extractor
+Fusion Energy Injector
+Fusion Energy Extractor
+Olivia
+Nickelback
+Galvania
+Oilberry
+Small Kanthal Dust
+Small Battery Alloy Dust
+Small Antimony Dust
+Small Saltpeter Dust
+Small Glowstone Dust
+Small Tungsten Dust
+Small Carbon Dust
+Small Iron Dust
+Small Thorium Dust
+Small Invar Dust
+Small Sulfur Dust
+Small Zinc Dust
+Small Sapphire Dust
+Small Grossular Dust
+Small Ash
+Small Magnesium Dust
+Small Gunpowder Dust
+Small Sodalite Dust
+Small Bronze Dust
+Small Silver Dust
+Small Redstone Dust
+Small Steel Dust
+Small Ender Eye Dust
+Small Ender Pearl Dust
+Small Lazurite Dust
+Small Magnetite Dust
+Small Clay Dust
+Small Phosphorus Dust
+Small Manganese Dust
+Small Andradite Dust
+Small Dark Ash
+Small Gold Dust
+Small Constantan Dust
+Small Lead Dust
+Small Copper Dust
+Small Almandine Dust
+Small Pyrope Dust
+Small Green Sapphire Dust
+Small Galena Dust
+Small Electrum Dust
+Small Aluminium Dust
+Small Platinum Dust
+Small Endstone Dust
+Small Bauxite Dust
+Small Charcoal Dust
+Small Calcite Dust
+Small Pyrite Dust
+Small Lithium Dust
+Small Wood Pulp
+Small Chrome Dust
+Small Tin Dust
+Small Brass Dust
+Small Plutonium Dust
+Small Obsidian Dust
+Small Marble Dust
+Small Flint Dust
+Small Coal Dust
+Small Uranium Dust
+Small Tungstensteel Dust
+Small Sphalerite Dust
+Small Cinnabar Dust
+Small Olivine Dust
+Small Emerald Dust
+Small Spessartine Dust
+Small Basalt Dust
+Small RedRock Dust
+Small Nickel Dust
+Small Titanium Dust
+Small Iridium Dust
+Small Osmium Dust
+Small Osmiridium Dust
+Small Diamond Dust
+Small Ruby Dust
+Small Granite Dust
+Small Netherrack Dust
+Small Silicon Dust
+Small Nichrome Dust
+Small Sheldonite Dust
+Small Slag Dust
+Small Stainless Steel Dust
+Small Bismuthtine Dust
+Small Bismuth Dust
+Small Bismuth Bronze Dust
+Small Malachite Dust
+Small Limonite Dust
+Small Cassiterite Dust
+Small Tetrahedrite Dust
+Small Stone Dust
+Small Cobalt Dust
+Small Pyrolusite Dust
+Small Red Garnet Dust
+Small Yellow Garnet Dust
+Small Red Alloy Dust
+Small Magnalium Dust
+Small Nichrome Dust
+Small Neodymium Dust
+Small Uvarovite Dust
+Small Technetium Dust
+Small Chromite Dust
+Kanthal Dust
+Battery Alloy Dust
+Antimony Dust
+Steel Dust
+Saltpeter Dust
+Invar Dust
+Sulfur Dust
+Zinc Dust
+Grossular Dust
+Ash
+Magnesium Dust
+Magnetite Dust
+Phosphorus Dust
+Manganese Dust
+Andradite Dust
+Dark Ash
+Constantan Dust
+Lead Dust
+Almandine Dust
+Pyrope Dust
+Green Sapphire Dust
+Galena Dust
+Endstone Dust
+Chrome Dust
+Brass Dust
+Marble Dust
+Tungstensteel Dust
+Sphalerite Dust
+Cinnabar Dust
+Olivine Dust
+Spessartine Dust
+Basalt Dust
+RedRock Dust
+Nickel Dust
+Osmium Dust
+Osmiridium Dust
+Diamond Dust
+Granite Dust
+Nichrome Dust
+Slag Dust
+Stainless Steel Dust
+Tetrahedrite Dust
+Stone Dust
+Cobalt Dust
+Pyrolusite Dust
+Red Garnet Dust
+Yellow Garnet Dust
+Red Alloy Dust
+Magnalium Dust
+Nichrome Dust
+Uvarovite Dust
+Chromite Dust
+Cassiterite Dust
+Green Sapphire
+Olivine
+Red Garnet
+Yellow Garnet
+Kanthal Ingot
+Battery Alloy Ingot
+Antimony Ingot
+Steel Ingot
+Invar Ingot
+Zinc Ingot
+Magnalium Ingot
+Constantan Ingot
+Lead Ingot
+Brass Ingot
+Tungstensteel Ingot
+Nickel Ingot
+Osmium Ingot
+Osmiridium Ingot
+Nichrome Ingot
+Manganese Ingot
+Stainless Steel Ingot
+Red Alloy Ingot
+Hot Kanthal Ingot
+Hot Nichrome Ingot
+Hot Tungsten Ingot
+Hot Tungstensteel Ingot
+Hot Iridium Ingot
+Hot Osmium Ingot
+Hot Osmiridium Ingot
+Kanthal Nugget
+Battery Alloy Nugget
+Antimony Nugget
+Tungsten Nugget
+Red Alloy Nugget
+Thorium Nugget
+Invar Nugget
+Zinc Nugget
+Bronze Nugget
+Silver Nugget
+Steel Nugget
+Manganese Nugget
+Magnalium Nugget
+Bismuth Bronze Nugget
+Copper Nugget
+Electrum Nugget
+Constantan Nugget
+Lead Nugget
+Aluminium Nugget
+Platinum Nugget
+Tin Nugget
+Chrome Nugget
+Brass Nugget
+Plutonium Nugget
+Stainless Steel Nugget
+Technetium Nugget
+Tungstensteel Nugget
+Titanium Nugget
+Iridium Nugget
+Nickel Nugget
+Osmium Nugget
+Osmiridium Nugget
+Silicon Nugget
+Nichrome Nugget
+Kanthal Plate
+Battery Alloy Plate
+Antimony Plate
+Tungsten Plate
+Invar Plate
+Zinc Plate
+Bronze Plate
+Silver Plate
+Steel Plate
+Magnalium Plate
+Gold Plate
+Copper Plate
+Electrum Plate
+Lead Plate
+Aluminium Plate
+Platinum Plate
+Tin Plate
+Chrome Plate
+Brass Plate
+Plutonium Plate
+Refined Iron Plate
+Tungstensteel Plate
+Titanium Plate
+Nickel Plate
+Osmium Plate
+Osmiridium Plate
+Silicon Plate
+Iron Plate
+Manganese Plate
+Red Alloy Plate
+Constantan Plate
+Nichrome Plate
+Stainless Steel Plate
+Technetium Plate
+Antimony Gear
+Tungsten Gear
+Invar Gear
+Zinc Gear
+Bronze Gear
+Silver Gear
+Steel Gear
+Magnalium Gear
+Gold Gear
+Copper Gear
+Electrum Gear
+Lead Gear
+Aluminium Gear
+Platinum Gear
+Tin Gear
+Chrome Gear
+Brass Gear
+Plutonium Gear
+Refined Iron Gear
+Tungstensteel Gear
+Titanium Gear
+Nickel Gear
+Osmium Gear
+Osmiridium Gear
+Iron Gear
+Manganese Gear
+Constantan Gear
+Nichrome Gear
+Iridium Gear
+Stainless Gear
+Bismuth Gear
+Technetium Gear
+Antimony Rod
+Tungsten Rod
+Invar Rod
+Zinc Rod
+Bronze Rod
+Silver Rod
+Steel Rod
+Gold Rod
+Copper Rod
+Electrum Rod
+Constantan Rod
+Lead Rod
+Aluminium Rod
+Graphite Rod
+Platinum Rod
+Tin Rod
+Chrome Rod
+Brass Rod
+Tungstensteel Rod
+Titanium Rod
+Iridium Rod
+Nickel Rod
+Osmium Rod
+Osmiridium Rod
+Iron Rod
+Nichrome Rod
+Refined Iron Rod
+Germanium Rod
+Tantalum Rod
+Stainless Steel Rod
+Bismuth Rod
+Cobalt Rod
+Red Alloy Rod
+Magnalium Rod
+Neodymium Rod
+Technetium Rod
+Bronze Machine Hull
+Refined Iron Machine Hull
+Steel Machine Hull
+Aluminium Machine Hull
+Brass Machine Hull
+Titanium Machine Hull
+Tungstensteel Machine Hull
+Stainless Machine Hull
+Bronze Turbine Blade
+Steel Turbine Blade
+Magnalium Turbine Blade
+Tungstensteel Turbine Blade
+Carbon Turbine Blade
+Osmium Turbine Blade
+Osmiridium Turbine Blade
+Broken Bronze Turbine Rotor
+Broken Steel Turbine Rotor
+Broken Magnalium Turbine Rotor
+Broken Tungstensteel Turbine Rotor
+Broken Carbon Turbine Rotor
+Broken Osmium Turbine Rotor
+Broken Osmiridium Turbine Rotor
+Crushed Tungsten Ore
+Crushed Bauxite Ore
+Crushed Galena Ore
+Crushed Pyrite Ore
+Crushed Platinum Ore
+Crushed Sphalerite Ore
+Crushed Cinnabar Ore
+Crushed Iridium Ore
+Crushed Tetrahedrite Ore
+Crushed Chromite Ore
+Crushed Cassiterite Ore
+Purified Crushed Tungsten Ore
+Purified Crushed Bauxite Ore
+Purified Crushed Galena Ore
+Purified Crushed Pyrite Ore
+Purified Crushed Platinum Ore
+Purified Crushed Sphalerite Ore
+Purified Crushed Cinnabar Ore
+Purified Crushed Iridium Ore
+Purified Crushed Tetrahedrite Ore
+Purified Crushed Chromite Ore
+Purified Crushed Cassiterite Ore
+Tiny Antimony Dust
+Tiny Sulfur Dust
+Tiny Zinc Dust
+Tiny Grossular Dust
+Tiny Yellow Garnet Dust
+Tiny Redstone Dust
+Tiny Manganese Dust
+Tiny Platinum Dust
+Tiny Phosphorus Dust
+Tiny Titanium Dust
+Tiny Iridium Dust
+Tiny Nickel Dust
+Tiny Osmium Dust
+Tiny Chromite Dust
+Tiny Chrome Dust
+Bronze File
+Iron File
+Diamond File
+Steel File
+Tungstensteel File
+Ruby File
+Sapphire File
+Bronze Crowbar
+Iron Crowbar
+Steel Crowbar
+Tungstensteel Crowbar
+Bronze Hammer
+Iron Hammer
+Diamond Hammer
+Steel Hammer
+Tungstensteel Hammer
+Ruby Hammer
+Sapphire Hammer
+Bronze Wrench
+Iron Wrench
+Diamond Wrench
+Steel Wrench
+Tungstensteel Wrench
+Ruby Wrench
+Sapphire Wrench
+Flint Sword
+Steel Sword
+Tungstensteel Sword
+Ruby Sword
+Sapphire Sword
+Flint Shovel
+Steel Shovel
+Tungstensteel Shovel
+Ruby Shovel
+Sapphire Shovel
+Flint Axe
+Steel Axe
+Tungstensteel Axe
+Ruby Axe
+Sapphire Axe
+Flint Pickaxe
+Steel Pickaxe
+Tungstensteel Pickaxe
+Ruby Pickaxe
+Sapphire Pickaxe
+Iridium Alloy Ingot
+Conveyor Module
+Pump Module
+Computer Monitor
+Diamond Grinder
+Wolframium Grinder
+Constantan Heating Coil
+Nichrome Heating Coil
+Kanthal Heating Coil
+Match
+Match Box
+Magnifying Glass
+Fire Clay
+Unfired Fire Brick
+Fire Brick
+Unfired Brick
+Machine Parts
+Advanced Circuit Parts
+Basic Circuit Board
+Advanced Circuit Board
+Processor Circuit Board
+Diamond Sawblade
+Oilberry
+Magical Dye
+Lava Filter
+Battery Hull
+Large Battery Hull
+Acid Battery
+Mercury Battery
+Sodium Battery
+Large Acid Battery
+Large Mercury Battery
+Large Lithium Battery
+Large Sodium Battery
+Steel Jackhammer
+Diamond Jackhammer
+Diamond Chainsaw
+Insulation Cutter
+Hardening Spray
+Bronze Turbine Rotor
+Steel Turbine Rotor
+Magnalium Turbine Rotor
+Tungstensteel Turbine Rotor
+Carbon Turbine Rotor
+Osmium Turbine Rotor
+Osmiridium Turbine Rotor
+Blank Mold
+Rod Mold
+Cell Mold
+Wire Mold
+Casing Mold
+Small Pipe Mold
+Medium Pipe Mold
+LargePipe Mold
+Block Mold
+Ingot Mold
+Nugget Mold
+Plate Mold
+Gear Mold
+Crafting Tablet
+Integrated Circuit
+Sulfuric Acid
+Silicon
+Crude Oil
+Propane
+Diesel
+Nitro-CoalFuel
+Naphtha
+Nitro Diesel
+Glyceryl
+Nitrogen Dioxide
+Sodium Sulfide
+Sodium Persulfate
+Gasoline
+Nitro-Carbon
+Nitric Acid
+Biofuel
+Coalfuel
+Carbon Dioxide
+Molten Antimony
+Molten Iron
+Molten Gold
+Molten Copper
+Molten Tin
+Molten Silver
+Molten Uranium
+Molten Bronze
+Molten Iridum
+Molten Titanium
+Molten Tungsten
+Molten Aluminium
+Molten Electrum
+Molten Chrome
+Molten Platinum
+Molten Steel
+Molten Thorium
+Molten Plutonium
+Molten Red Alloy
+Molten Invar
+Molten Zinc
+Molten Manganese
+Molten Magnalium
+Molten Constantan
+Molten Lead
+Molten Brass
+Molten Stainless Steel
+Molten Tungstensteel
+Molten Nickel
+Molten Osmium
+Molten Osmiridium
+Molten Nichrome
+Molten Refined Iron
+Molten Technetium
+Spawns between Y level 0 - 64 in the NETHER.
+Spawns between Y level 64 - 128 in the NETHER.
+Spawns between Y level 32 - 96 in the NETHER.
+Spawns between Y level 0 - 80 in the END.
+Spawns very rarely between Y level 0 - 80 in the END.
+Spawns semi rarely between Y level 0 - 80 in the END.
+Spawns between Y level 0 - 80 in the END.
+Spawns in stalactites in hollows hills in the Twilight Forest.
+Spawns very rarely but as huge veins between Y level 30 - 80 in COLD, CONIFEROUS, MOUNTAIN, and MUSHROOM biomes.
+Spawns between Y level 20 - 70 in JUNGLE, MOUNTAIN, MUSHROOM, and SWAMPY biomes.
+Spawns between Y levels 0 - 64 in ALL biomes.
+Spawns very rarely between Y level 0 - 80 in the END.
+You'll have a blast!
+Structure:
+3x4x3 hollow(lava or air in center) rectangle of (34) Standard, Reinforced, or Advanced Machine Casings,
+Controller centered in front at the bottom
+*Slaps roof of Electrolyzer*
+This bad boy can process so much stuff!
+Over 9000 Gibbl!
+Ultimaceratron 42b
+Get mo Planks for ya Logs
+Cools down anything
+HighTech combination smelter
+Avengers, Assemble!
+Let 2 chemical substances react together with this!
+Like a Refinery, but with byproducts, and more Energy Efficient
+Smelts together alloys using fuel.
+You'll have a blast!
+Structure:
+3x5x3 hollow rectangle of (41) Fire Bricks,
+Controller centered at the second lowest layer
+Casts molten fluids into solids.
+Melts metals
+Boo, he's bad! We want BENDER!!!
+Slices blocks into plates
+Produces metal rods more efficiently
+Produces wires more efficiently
+Universal Machine for Metal Working
+Did you really read the instruction Manual?
+Compresses stuff
+Extracts stuff
+The second most effective way of burning Fuel
+Converts 500 mb of lava/tick and 5 mb of water/tick to 800 mb of steam/tick
+Consumes 1600 mb of Steam per tick
+About 42 small Gas Turbines worth
+Generate power from Flatulence, uhh I mean Me
+For inputting Materials into Multiblocks
+For exporting Materials from Multiblocks
+Generating electric Energy from Multiblocks
+Output Tier can be cycled with hammer(will be screwdriver later)
+For Controlling Multiblocks with Redstone
+To inject your fusable Materials into the coils
+Extract your fused Materials out of the coils
+Increases storage of Fusion Reactor by 10kk eu
+and inputs eu directly into fusion reactor
+Generates eu from Fusion Reactor
+FUUUUUUUU-SION, HAH!
+See gui for details on the structure
+For all kinds of projects. Can charge tools
+For storing a set of armor
+For storing a set of armor and charging it
+For compacting all your small and tiny dusts.
+For all your trash needs.
+Size(LxWxH): 3x3x3 (Hollow), Controller (Front Centered)
+2x Input Hatch (Side Centered)
+1x-3x Output Hatch (Side Centered)
+Reinforced Machine Casings for the rest (20 at least!)
+Size(LxWxH): 3x4x3 (Hollow), Controller (Front Centered)
+1x-2x Input Hatch (Side Centered)
+1x Dynamo Hatch (Back Centered)
+1x Output Hatch (Side Centered, COMPLETELY OPTIONAL)
+Standard Machine Casings for the rest (24 at least!)
+Size(LxWxH): 3x4x3 (Hollow), Controller (Front Centered)
+1x-2x Input Hatch (Side Centered)
+1x Dynamo Hatch (Back Centered)
+1x Output Hatch (Side Centered, COMPLETELY OPTIONAL)
+Reinforced Machine Casings for the rest (24 at least!)
+Temporary crafting on the go
+Mines any stone block at 4x the speed of a diamond drill.
+Can be upgraded to a diamond to do 3x3 but at 1/8th the speed.
+Can be eaten, but I wouldn't recommend it.
+Only for crafting, has no function.
+To remove Covers from Pipes
+Craft with 4 turbine blades to repair
+Enable/Disable Shearing
+Enabled Shearing
+Disabled Shearing
+Outputs Items
+Outputs Fluids
+Outputs Nothing
+Outputs Items and Fluids
+Tier set to tier 4
+Tier set to tier 5
+Press%1$s Shift%2$s for Structure Information

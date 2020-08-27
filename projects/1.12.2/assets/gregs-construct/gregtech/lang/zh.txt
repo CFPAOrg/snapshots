@@ -1,0 +1,57 @@
+Aluminium
+Chrome
+Iridium
+Manganese
+Molybdenum
+Neodymium
+Darmstadtium
+Osmium
+Palladium
+Thorium
+Titanium
+Tungsten
+Uranium
+Uranium-235
+Brass
+Invar
+Magnalium
+Stainless Steel
+Ultimet
+Wrought Iron
+Osmiridium
+Sterling Siver
+Rose Gold
+Black Bronze
+Bismuth Bronze
+Black Steel
+Red Steel
+Blue Steel
+Damascus Steel
+Tungstensteel
+Cobalt Brass
+Tungsten Carbide
+Vanadiumsteel
+HSS-G
+HSS-E
+HSS-S
+Naquadah
+Naquadah Alloy
+Enriched Naquadah
+Tritanium
+Duranium
+Enderium
+Neutronium
+Blue Topaz
+Diamond
+Emerald
+Green Sapphire
+Ruby
+Sapphire
+Tanzanite
+Topaz
+Olivine
+Opal
+Amethyst
+Red Garnet
+Yellow Garnet
+Vinteum

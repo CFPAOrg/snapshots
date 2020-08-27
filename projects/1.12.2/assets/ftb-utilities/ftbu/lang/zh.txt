@@ -1,0 +1,74 @@
+Explosions
+Block Security
+FTBUtilities
+Show Badges
+Use Space key for Loaded Chunks
+FTBUtilities
+Render My Badge
+Chat Links
+Explosions
+Allow Fake Players
+Block Security Level
+Toggle Gamemode
+Toggle Rain
+Set time to Day
+Set time to Night
+Heal
+Guide
+Server Info
+Claimed Chunks
+Trash Can
+Shop
+Mail
+FTBMods
+Open Guide
+Toggle Chunk Border
+Toggle Light Values
+Warp GUI
+Server restarts in %s
+Server backup in: %s
+Unclaim all chunks
+Unclaim all chunks in %s
+Unclaim all chunks?
+Unclaim all chunks in %s?
+Can't claim chunks in this dimension
+Claimed Chunks: %d / %d
+Loaded Chunks: %d / %d
+Friend
+Pending Friend
+New friend requests!
+Click to accept all requests
+Deaths Per Hour
+Leaderboards
+Warp '%s' set!
+Warp '%s' deleted!
+Unknown Warp: '%s'!
+Teleported to '%s'!
+You can only go back once!
+Teleported to spawn
+Home '%s' set!
+Home '%s' deleted!
+Unknown Home: '%s'!
+You can't teleport to another dimension!
+You can't set any more home locations!
+Server Backup started!
+Server Backup stopped!
+Server backup done in %s!
+Server backup done in %s! (%s)
+Failed to save world! (%s)
+%s launched a manual backup!
+Backup in progress!
+Backup is not running!
+Current world size: %s, total backups folder size: %s
+Wilderness
+Claimed Area
+Chunkloaded
+Download
+Downloading...
+Remove
+Update
+FTBUtilities
+Utility Buttons
+Chunk Claiming
+Ranks
+Teleportation Commands

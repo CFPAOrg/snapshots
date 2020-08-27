@@ -1,0 +1,294 @@
+BF - General
+BF - Guns
+Hold %s for Info
+There appears to be no info for this item :(
+Medkit
+First Aid Kit
+Bandage
+Band-Aid
+Painkillers
+Swifteroids
+Beam Rod
+Crystal Position: %s
+Container Editor
+Bush
+Infection Star
+VEX Research Keycard
+Advanced Assault Rifle
+Revolver
+Railgun
+§7Damage: §f%s
+§7Swing Speed: §f%s
+Energy Cell
+Infection Vial
+Baseball Bat
+Nailed Baseball Bat
+Katana
+Tactical Knife
+Frying Pan
+Brittle Bricks
+Crystal Container
+Crystal
+Loot Chest
+End Stone Rune
+Activated End Stone Rune
+Infected End Stone
+Dragon Death Effect
+Barbed Wire
+End Stone Button
+End Stone Pressure Plate
+End Stone Wall
+End Stone Stairs
+End Stone Slab
+Infected Grass
+Infected Dirt
+Infected Leaves
+Infected Log
+Infected Vines
+Infected Planks
+Infected Stairs
+Infected Slab
+Rift
+Gateway
+Showcase Item
+Fancy Stone Pillar
+Fancy Quartz Pillar
+Fancy Sandstone Pillar
+Fancy Red Sandstone Pillar
+Fancy Purpur Pillar
+Heavy Facility Button
+A big red button. Who wouldn't press it?
+Heavy Facility Toggle Button
+A big red button. Who wouldn't press it?
+Heavy Card Reader
+A card reader that reads VEX keycards.
+§8[§cERROR§8] §7Please insert a keycard.
+Heavy Facility Door
+A heavy sliding door to keep the baddies out >:)
+Entity Spawner
+Allows to the spawn entities when a match starts
+Map
+Accessory Pad
+§6§lUnlocked Accessory
+Brown Brick Slab
+Gray Brick Slab
+Brown Bricks
+Gray Bricks
+Brown Brick Stairs
+Gray Brick Stairs
+Infected Water
+Infected Lava
+White Canadian Flag
+Black Canadian Flag
+§c§lDoodler’s Patriocy
+Orange Canadian Flag
+Magenta Canadian Flag
+Pink Canadian Flag
+Purple Canadian Flag
+Lime Canadian Flag
+Green Canadian Flag
+Gray Canadian Flag
+Silver Canadian Flag
+Brown Canadian Flag
+Cyan Canadian Flag
+Blue Canadian Flag
+Light Blue Canadian Flag
+Yellow Canadian Flag
+§6§lCoffee Cup
+§6§lCoffee Cup
+§c§lDoodler’s Patriocy
+§d§lModder's §8§lNightmare
+§a§lMaster §7§lGauntlet
+§c§lCrayfish Claw
+§c§lCray Cake
+A heavily damaged keycard. Seems to be owned to Steve.
+A brick that came off of a Brittle Brick. Craft a brittle brick with four bricks and hold right click to charge and throw the brick.
+A magical wand that allows full control over crystal containers. Simply click the container you want to add beams to and then press any other block to make a beam go to that position.
+A tool that can be used to change NBT values of specific block entities.
+A bush disguise. Hold right click to equip.
+Happy 22nd birthday Cray! Here's a treat from all of us at the Battlefields team.
+A powerful star that has been seen to infect people. Use at your own risk...
+A vial of pure infection essence...
+A melee weapon that might leave a dent in an opponent.
+A melee weapon that deals a little more damage than the standard baseball bat.
+A powerful sword that can make quick work of opponents.
+A very weak, but fast weapon to deal quick damage to opponents.
+A cast iron pan that will leave an opponent disoriented.
+High energy plasma. Used as ammo for the Railgun.
+Military grade first aid. Restores 100 percent of the player's health (10 hearts).
+Civilian grade first aid. Restores 50 percent of the player's health (5 hearts).
+A simple piece of cloth that covers wounds. Restores 10 percent of the player's health (2 hearts).
+An adhesive piece of fabric that covers small cuts. Restores 2.5 percent of the player's health (1/2 heart).
+A bottle of pills that will help to take the pain away.
+A bottle of pills that will help you run away.
+An empty coffee cup. Oh, and you can wear it on your head.
+A hot cup of coffee, pretty nice, right? Oh, and you can wear it on your head and drink it, but be careful, it's hot.
+The iconic symbol of the superior country, Canada.
+A modder's worst nightmare, the glitched texture.
+A gauntlet made out of the finest material. Made for the Master of Chiefs. Wait, no, the Mastef of Chiefs.
+A claw taken from the crayfish himself. You can put the claw on your head, but it might hurt.
+Very fragile bricks, easily breakable by hand and gun.
+Contains a highly explosive crystal from another dimension.
+A very powerful (and highly explosive) crystal taken from another dimension.
+A colorful chest that contains goodies!
+ᚫᚾ ᚪᛞ ᛚᚢᚴᛁᛝ ᛒᛚᚪᚴ ᚠᚱᚣᛗ ᚣᚾᚣᚧᚣᚱ ᛞᛁᛗᛖᚾᚳᚣᚾ
+ᚫᚾ ᚪᛞ ᛚᚢᚴᛁᛝ ᛒᛚᚪᚴ ᚠᚱᚣᛗ ᚣᚾᚣᚧᚣᚱ ᛞᛁᛗᛖᚾᚳᚣᚾ
+End stone that was infected by an alien substance.
+The death of a dragon...
+Painful Spikes that are difficult to escape and hurt when touched.
+A button made of end stone.
+A pressure plate made of end stone.
+A wall made of end stone.
+A stair made of end stone.
+A slab made of end stone.
+A dirt block that was infected by an alien substance.
+A leaf block that was infected by an alien substance.
+A grass block that was infected by an alien substance.
+A log that was infected by an alien substance.
+A slab that was infected by an alien substance.
+Vines that were infected by an alien substance.
+Planks that were infected by an alien substance.
+Stairs that were infected by an alien substance.
+A slab that was infected by an alien substance.
+A crack in the world that shows an unknown dimension through it.
+A gateway into another dimension...
+A display of the entire map.
+A pad that gives accessories to the player.
+A floating item that shows off a stack!
+A stone pillar with a lip on the top and bottom.
+A quartz pillar with a lip on the top and bottom.
+A sandstone pillar with a lip on the top and bottom.
+A red sandstone pillar with a lip on the top and bottom.
+A purpur pillar with a lip on the top and bottom.
+Water that was infected by an alien substance.
+Lava that was infected by an alien substance.
+Display Name
+Render Display Name
+Always Render Display Name
+Can Take Stack
+Remove Stack on Take
+Discord
+Website
+PLAY
+Singleplayer
+Mutliplayer
+Settings
+Quit
+News
+Beaver (CA)
+Kangaroo (AU)
+Face
+Head
+Arms
+Back
+Torso
+Legs
+Feet
+Outfits
+Main Menu
+Customize Accessories
+Face Accessories
+Head Accessories
+Arms Accessories
+Back Accessories
+Torso Accessories
+Legs Accessories
+Feet Accessories
+Stats
+§lKills§r: %s
+§lWins§r: %s
+Lifestyle
+Dance
+Signal
+Infection
+Developer
+Event
+Premium
+Free
+Wave
+Say hello to your friends!
+/clearextras [player]
+Cleared the extras of %s, removing %s extras
+/clearbodies
+Cleared %s corpses
+/createzone [x] [z] [radius] [shape]
+Created %s zone at %s %s with radius %s
+/makechunklitagain
+Made chunk (%d, %d) lit again. Relog to see changes!
+Failed to update lighting for chunk!
+/reloadguns
+Reloaded guns in %sms
+/removezone
+Removed zone
+/resetbrittlebricks
+Removed Brittle Brick blocks from the world
+/setzone <x> <z> <radius> [time]
+/setzoneshape <shape>
+Set zone shape to %s
+/spawnufo
+Spawned UFO Bus
+/spawnbody [player]
+Spawned the body of %s
+/sponsor show [ticks] OR /sponsor clear
+Displayed sponsor overlay for %s ticks
+Cleared the sponsor overlay
+/testcountdown <ticks>
+Showed the countdown for %s ticks
+/testwinner [player]
+Showed %s winning a game
+/notify [player] [dataTag]
+Invalid Icon Type: %s
+Invalid Frame Type: %s
+Data tag parsing failed: %s
+Sent a notification to %s
+Sent a notification to no players
+Sent a notification to %s players
+/giveaccessory [player] [type] [data]
+Invalid accessory type '%s'
+Invalid data '%s' for type '%s'
+Invalid color '%s'. Must be a HEX value!
+Unable to add accessory to database
+Player already has that accessory
+Successfully gave accessory '%s' to %s
+/removeaccessory [player] [type] [data]
+Invalid accessory type '%s'
+Player doesn't have that accessory
+Unable to remove accessory from database
+Successfully took accessory '%s' from %s
+/giveemote [player] [emote]
+Invalid emote '%s'
+Unable to add emote to database
+Player already has that emote
+Successfully gave emote '%s' to %s
+/removeemote [player] [emote]
+Invalid emote '%s'
+Player doesn't have that emote
+Unable to remove emote from database
+Successfully removed emote '%s' from %s
+Battlefields
+Use Emote
+Open Emote Menu
+Show Map
+Infection
+%s fell into another dimension
+Battlefields Additions Config
+Client
+Client-only configs.
+UI
+UI settings / customization.
+Enable UI
+Determines whether or not the custom UI will show.
+Health Bar
+Health bar settings / customization.
+Enable XP Health Bar
+Determines whether or not the health bar will have the XP bar texture (Colorable).
+Enable Percentages
+Determines whether the health bar will use percentages.
+Health Bar Colors
+Determines what color will be used on the health bar.
+Red
+Red value of the health bar RGB.
+Green
+Green value of the health bar RGB.
+Blue
+Blue value of the health bar RGB.

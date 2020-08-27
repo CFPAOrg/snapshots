@@ -1,0 +1,42 @@
+InvMove Config
+General
+UI Movement
+ UI Background
+Enable Mod
+Enable the entire mod
+Debug Display
+Enable debug display.
+Move In Inventories
+Enable movement while inside inventories.\nYou can manually turn off certain inventories below.
+Allow Sneaking
+Allow sneaking while inside inventories.\n(It can be distracting when shift-clicking items)
+Allow Jumping
+Allow jumping while inside inventories.
+Text Field Disables Movement
+Disable movement in inventories when a text field is focused.
+Hide Inventory Backgrounds
+Hides the background tint while inside inventories.\nYou can manually turn off certain inventories below.
+Vanilla
+Survival Inventory
+Creative Inventory
+Chest
+Crafting Table
+Furnace
+Shulker Box
+Dispenser
+Hopper
+Enchantment Table
+Anvil
+Beacon
+Brewing Stand
+Blast Furnace
+Smoker
+Loom
+Cartography Table
+Grindstone
+Stonecutter
+Villager
+Book
+Unrecognized UI Types
+Unrecognized GUIs show up here once they have been interacted with.
+Mod Compatibilities

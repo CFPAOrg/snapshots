@@ -1,0 +1,12 @@
+There is no such dimension with id %s
+/%1$s [target entity] <destination entity> OR /%1$s [target entity] <x> <y> <z> [dimension] [<yaw> <pitch>]
+Teleported %s to %s in dimension %s
+Teleported %s to %s, %s, %s in dimension %s
+ at %s in dimension %s
+[%s, %s, %s]
+Click to teleport
+ (%s)
+%s blocks away
+very far away
+very close
+Position: %s, %s, %s

@@ -1,0 +1,38 @@
+DesertCraft
+Brown Armed Cactus
+Brown Cactus
+Green Cactus
+Olive Cactus
+Olive Armed Cactus
+Tall Rust Shrub
+Short Rust Shrub
+Rust Grass
+Rust Wheat Grass
+Tall Tan Shrub
+Short Tan Shrub
+Tan Grass
+Tan Wheat Grass
+Brown Bush
+Desert Flower
+Dead Sapling
+Glass Steel Block
+Cactus Axe
+Cactus Hoe
+Cactus Pickaxe
+Cactus Shovel
+Cactus Sword
+Cactus Helm
+Cactus Chest
+Cactus Legs
+Cactus Boots
+Sandstone Axe
+Sandstone Hoe
+Sandstone Pickaxe
+Sandstone Shovel
+Sandstone Sword
+Glass Steel Axe
+Glass Steel Hoe
+Glass Steel Pickaxe
+Glass Steel Shovel
+Glass Steel Sword
+Glass Steel Ingot

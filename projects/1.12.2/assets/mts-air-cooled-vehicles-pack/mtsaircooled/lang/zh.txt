@@ -1,0 +1,55 @@
+MTS Air-Cooled Pack
+Corvair Greenbrier Conversion Kit (Ambulance)
+1963 Corvair Super Turbo-Air (Automatic)
+1963 Corvair Super Turbo-Air (Standard)
+Corvair Seat
+Corvair 95 Seat
+Corvair Wheel 7[3D10]
+Volkswagen 1200
+Volkswagen Seat
+Volkswagen Wheel 7[3D12]
+1963 Chevrolet Corvair (Police)
+1963 Chevrolet Corvair (Hazmat)
+REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5 UNU Crate-12 UNU Lightbar-1
+REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5 UNU Crate-12
+1963 Chevrolet Corvair Greenbrier (Ambulance)
+REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5
+1963 Chevrolet Corvair Rampside (Moving)
+REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5 UNU Crate-12
+1963 Chevrolet Corvair (Police)
+1963 Chevrolet Corvair (Undercover Police)
+1963 Chevrolet Corvair (Black)
+1963 Chevrolet Corvair (Red)
+1963 Chevrolet Corvair (Green)
+1963 Chevrolet Corvair (Brown)
+1963 Chevrolet Corvair (Blue)
+1963 Chevrolet Corvair (Purple)
+1963 Chevrolet Corvair (Cyan)
+1963 Chevrolet Corvair (Light Gray)
+1963 Chevrolet Corvair (Grey)
+1963 Chevrolet Corvair (Pink)
+1963 Chevrolet Corvair (Lime)
+1963 Chevrolet Corvair (Yellow)
+1963 Chevrolet Corvair (Light Blue)
+1963 Chevrolet Corvair (Magenta)
+1963 Chevrolet Corvair (Orange)
+1963 Chevrolet Corvair (White)
+REQUIRES: UNU Seat-P1 Corvair Engine ACCEPTS: UNU Wheel-3D10 UNU Crate-12 UNU Lightbar-1
+REQUIRES: UNU Seat-P1 Corvair Engine ACCEPTS: UNU Wheel-3D10 UNU Crate-12
+1969 VW Type 1 (Black)
+1969 VW Type 1 (Red)
+1969 VW Type 1 (Green)
+1969 VW Type 1 (Brown)
+1969 VW Type 1 (Blue)
+1969 VW Type 1 (Purple)
+1969 VW Type 1 (Cyan)
+1969 VW Type 1 (Light Gray)
+1969 VW Type 1 (Grey)
+1969 VW Type 1 (Pink)
+1969 VW Type 1 (Lime)
+1969 VW Type 1 (Yellow)
+1969 VW Type 1 (Light Blue)
+1969 VW Type 1 (Magenta)
+1969 VW Type 1 (Orange)
+1969 VW Type 1 (White)
+REQUIRES: UNU Seat-P3 VW Engine ACCEPTS: UNU Wheel-3D12 UNU Crate-12

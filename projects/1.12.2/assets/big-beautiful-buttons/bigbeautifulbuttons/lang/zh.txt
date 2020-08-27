@@ -1,0 +1,204 @@
+English
+United States
+en_us
+Big Buttons!
+Big Acacia Button
+Big Wooden Button
+Big Birch Button
+Big Dark Oak Button
+Big End Stone Button
+Big Jungle Button
+Big Spruce Button
+Big Stone Andesite Button
+Big Stone Diorite Button
+Big Stone Granite Button
+Big Stone Andesite Smooth Button
+Big Stone Diorite Smooth Button
+Big Stone Granite Smooth Button
+Big Bricks Button
+Big Chiseled Red Sandstone Button
+Big Chiseled Sandstone Button
+Big Coarse Dirt Button
+Big Dirt Button
+Big End Stone Bricks Button
+Big Gravel Button
+Big Nether Bricks Button
+Big Obsidian Button
+Big Prismarine Bricks Button
+Big Red Nether Bricks Button
+Big Red Sand Button
+Big Red Sandstone Button
+Big Sand Button
+Big Sandstone Button
+Big Smooth Red Sandstone Button
+Big Smooth Sandstone Button
+Big Soul Sand Button
+Big Prismarine Button
+Big Dark Prismarine Button
+Big Stone Bricks Button
+Big Mossy Stone Bricks Button
+Big Cracked Stone Bricks Button
+Big Chiseled Stone Bricks Button
+Big Oak Log Button
+Big Spruce Log Button
+Big Birch Log Button
+Big Jungle Log Button
+Big Acacia Log Button
+Big Dark Oak Log Button
+Big Brown Mushroom Block Button
+Big Red Mushroom Block Button
+Big Cobblestone Button
+Big Gold Ore Button
+Big Iron Ore Button
+Big Lapis Ore Button
+Big Lapis Block Button
+Big Gold Block Button
+Big Iron Block Button
+Big Bookshelf Button
+Big Mossy Cobblestone Button
+Big Diamond Ore Button
+Big Diamond Block Button
+Big Redstone Ore Button
+Big Ice Button
+Big Snow Button
+Big Clay Button
+Big Pumpkin Button
+Big Netherrack Button
+Big Glowstone Button
+Big Melon Block Button
+Big Mycelium Button
+Big Emerald Ore Button
+Big Emerald Block Button
+Big Quartz Ore Button
+Big Sea Lantern Button
+Big Hay Block Button
+Big Hardened Clay Button
+Big Packed Ice Button
+Big Purpur Block Button
+Big Purpur Pillar Button
+Big Magma Button
+Big Nether Wart Block Button
+Big Bone Block Button
+Big Slime Button
+Big Chorus Flower Button
+Big Chorus Plant Button
+Big Block Of Quartz Button
+Big Chiseled Quartz Block Button
+Big Pillar Quartz Block Button
+Big Glass Button
+Big Sponge Button
+Big Wet Sponge Button
+Big White Wool Button
+Big Orange Wool Button
+Big Magenta Wool Button
+Big Light Blue Wool Button
+Big Yellow Wool Button
+Big Lime Wool Button
+Big Pink Wool Button
+Big Gray Wool Button
+Big Light Gray Wool Button
+Big Cyan Wool Button
+Big Purple Wool Button
+Big Blue Wool Button
+Big Brown Wool Button
+Big Green Wool Button
+Big Red Wool Button
+Big Black Wool Button
+Big White Stained Glass Button
+Big Orange Stained Glass Button
+Big Magenta Stained Glass Button
+Big Light Blue Stained Glass Button
+Big Yellow Stained Glass Button
+Big Lime Stained Glass Button
+Big Pink Stained Glass Button
+Big Gray Stained Glass Button
+Big Light Gray Stained Glass Button
+Big Cyan Stained Glass Button
+Big Purple Stained Glass Button
+Big Blue Stained Glass Button
+Big Brown Stained Glass Button
+Big Green Stained Glass Button
+Big Red Stained Glass Button
+Big Black Stained Glass Button
+Big White Terracotta Button
+Big Orange Terracotta Button
+Big Magenta Terracotta Button
+Big Light Blue Terracotta Button
+Big Yellow Terracotta Button
+Big Lime Terracotta Button
+Big Pink Terracotta Button
+Big Gray Terracotta Button
+Big Light Gray Terracotta Button
+Big Cyan Terracotta Button
+Big Purple Terracotta Button
+Big Blue Terracotta Button
+Big Brown Terracotta Button
+Big Green Terracotta Button
+Big Red Terracotta Button
+Big Black Terracotta Button
+Big White Concrete Button
+Big Orange Concrete Button
+Big Magenta Concrete Button
+Big Light Blue Concrete Button
+Big Yellow Concrete Button
+Big Lime Concrete Button
+Big Pink Concrete Button
+Big Gray Concrete Button
+Big Light Gray Concrete Button
+Big Cyan Concrete Button
+Big Purple Concrete Button
+Big Blue Concrete Button
+Big Brown Concrete Button
+Big Green Concrete Button
+Big Red Concrete Button
+Big Black Concrete Button
+Big White shulker Box Button
+Big Orange shulker Box Button
+Big Magenta shulker Box Button
+Big Light Blue shulker Box Button
+Big Yellow shulker Box Button
+Big Lime shulker Box Button
+Big Pink shulker Box Button
+Big Gray shulker Box Button
+Big Light Gray shulker Box Button
+Big Cyan shulker Box Button
+Big Purple shulker Box Button
+Big Blue shulker Box Button
+Big Brown shulker Box Button
+Big Green shulker Box Button
+Big Red shulker Box Button
+Big Black shulker Box Button
+Big White Glazed Terracotta Button
+Big Orange Glazed Terracotta Button
+Big Magenta Glazed Terracotta Button
+Big Light Blue Glazed Terracotta Button
+Big Yellow Glazed Terracotta Button
+Big Lime Glazed Terracotta Button
+Big Pink Glazed Terracotta Button
+Big Gray Glazed Terracotta Button
+Big Light Gray Glazed Terracotta Button
+Big Cyan Glazed Terracotta Button
+Big Purple Glazed Terracotta Button
+Big Blue Glazed Terracotta Button
+Big Brown Glazed Terracotta Button
+Big Green Glazed Terracotta Button
+Big Red Glazed Terracotta Button
+Big Black Glazed Terracotta Button
+Big White Concrete Powder Button
+Big Orange Concrete Powder Button
+Big Magenta Concrete Powder Button
+Big Light Blue Concrete Powder Button
+Big Yellow Concrete Powder Button
+Big Lime Concrete Powder Button
+Big Pink Concrete Powder Button
+Big Gray Concrete Powder Button
+Big Light Gray Concrete Powder Button
+Big Cyan Concrete Powder Button
+Big Purple Concrete Powder Button
+Big Blue Concrete Powder Button
+Big Brown Concrete Powder Button
+Big Green Concrete Powder Button
+Big Red Concrete Powder Button
+Big Black Concrete Powder Button
+Big Cactus Button
+Big Redstone Block Button

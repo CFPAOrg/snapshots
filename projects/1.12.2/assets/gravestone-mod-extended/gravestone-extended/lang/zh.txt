@@ -1,0 +1,326 @@
+Memorials
+Corpses
+Gravestone mod Items
+Cross Memorial
+Obelisk
+Steve Statue
+Villager Statue
+Angel Statue
+Dog Statue
+Cat Statue
+Creeper Statue
+Celtic Cross
+Gallows
+Gibbet
+Stocks
+Burning Stake
+Night Stone
+Thunder Stone
+Darkness is coming!
+Withered Glass
+Withered Glass Pane
+Wither Spawner
+Skeleton Spawner
+Zombie Spawner
+Spider Spawner
+Bone Block
+Bone Block with Skull
+Skull Crawler's Bone Block
+Skull Crawler's Bone Block with Skull
+Bone Slab
+Bone Stairs
+Pile of Bones
+Pile of Bones with Skull
+Pile of Bones with Skull Crawler
+Chest with Bats
+Chest with Skeleton
+Chest with Ravens
+Chest with Ghost
+Candle
+Skull Candle
+Wither Skull Candle
+Zombie Skull Candle
+Altar
+Catacombs Portal
+Frozen Lava
+Shadow of Death
+Deals extra 2.5 damage per level to non spider and non undead mobs
+Poisoned Blade
+Applies poison to a target for 10 seconds per level
+Withered Blade
+Applies wither to a target for 5 seconds per level
+Vampiric Touch
+Converts 20 percent of damage done by this weapon to health
+Necrotic Corrosion
+10 percent(per level) of damage dealt by this weapon ignores armor
+Pain Mirror
+Reflects all blocked damage with 10 percent chance per level
+Bone Rain
+Uses bone meal on a block
+Hellish Angling
+Allows one to fish in lava
+Bloody Replication
+Exchange 0.25 - 1.5 health points(depends on enchantment level) to copy of the wood log block instead of its destruction
+Frozen Nether
+Freezes lava under the player into frozen lava.
+Web Crawler
+Allows to move normally in the web.
+Soul Bound
+Keeps item in your inventory on death.
+Curse of Starvation
+Applies hunger for 10 seconds per item
+Curse of Awkwardness
+Deals damage to yourself instead of enemy with 10 percent chance
+Curse of Fragility
+Item get additional damage at usage
+Curse of the Broken Hook
+Adds 30 percent chance to lose your catch
+Remove all negative effects
+Potion of Purification
+Splash Potion of Purification
+Lingering Potion of Purification
+Arrow of Purification
+Bone Skin
+Potion of Bone Skin
+Splash Potion of Bone Skin
+Lingering Potion of Bone Skin
+Arrow of Bone Skin
+Rust
+Potion of Rust
+Splash Potion of Rust
+Lingering Potion of Rust
+Arrow of Rust
+Return back to home
+Recall Potion
+Splash Recall Potion
+Lingering Recall Potion
+Arrow of Recall
+Sets Target on Fire
+Potion of Burning
+Splash Potion of Burning
+Lingering Potion of Burning
+Arrow of Burning
+Bleeding
+Potion of Bleeding
+Splash Potion of Bleeding
+Lingering Potion of Bleeding
+Arrow of Bleeding
+Breathlessness
+Potion of Breathlessness
+Splash Potion of Breathlessness
+Lingering Potion of Breathlessness
+Arrow of Breathlessness
+Inferno
+Potion of Inferno
+Splash Potion of Inferno
+Lingering Potion of Inferno
+Arrow of Inferno
+Cursed Inferno
+Potion of Cursed Inferno
+Splash Potion of Cursed Inferno
+Lingering Potion of Cursed Inferno
+Arrow of Cursed Inferno
+Cursed Flame
+Potion of Cursed Flame
+Splash Potion of Cursed Flame
+Lingering Potion of Cursed Flame
+Arrow of Cursed Flame
+Potion of Hunger
+Splash Potion of Hunger
+Lingering Potion of Hunger
+Arrow of Hunger
+Potion of Blindness
+Splash Potion of Blindness
+Lingering Potion of Blindness
+Arrow of Blindness
+Potion of Nausea
+Splash Potion of Nausea
+Lingering Potion of Nausea
+Arrow of Nausea
+Potion of Resistance
+Splash Potion of Resistance
+Lingering Potion of Resistance
+Arrow of Resistance
+Potion of Levitation
+Splash Potion of Levitation
+Lingering Potion of Levitation
+Arrow of Levitation
+Potion of Withering
+Splash Potion of Withering
+Lingering Potion of Withering
+Arrow of Withering
+Gravestone Chisel
+Bone Fishing Pole
+Bone Shovel
+Iron Bone Shovel
+Golden Bone Shovel
+Diamond Bone Shovel
+Bone Pickaxe
+Iron Bone Pickaxe
+Golden Bone Pickaxe
+Diamond Bone Pickaxe
+Bone Axe
+Iron Bone Axe
+Golden Bone Axe
+Diamond Bone Axe
+Bone Hoe
+Iron Bone Hoe
+Golden Bone Hoe
+Diamond Bone Hoe
+Bone Sword
+Iron Bone Sword
+Golden Bone Sword
+Diamond Bone Sword
+Bone Shield
+Diving Helmet
+Provides unlimited breath under the water
+Diving Chestplate
+Diving Leggings
+Diving Boots
+Swamp Thing Mask
+Swamp Thing Shirt
+Swamp Thing Pants
+Swamp Thing Boots
+Mummy Mask
+Mummy Shirt
+Mummy Pants
+Mummy Boots
+Bone Helmet
+Bone Chestplate
+Bone Leggings
+Bone Boots
+Toxic Slime
+Raven Feather
+Raven Claws
+Ooze
+Piece of Mummy Cloth
+Piece of Diving Suit
+Bat Wing
+Enchanted Skull
+Enchanted Wither Skull
+Slime Chunk
+Imp Skull
+Ender Skull
+Cemetery Key
+Server Cemetery Key
+Frozen Mirror
+Steve Corpse
+Player Corpse
+Villager Corpse
+Horse Corpse
+Dog Corpse
+Cat Corpse
+Zombie Corpse
+Zombie Villager Corpse
+Skeleton Corpse
+Witch Corpse
+Name
+Profession
+Farmer
+Librarian
+Priest
+Smith
+Butcher
+Undertaker
+Brewer
+Thaumaturge
+Beekeeper
+Lumberjack
+Unknown
+Career
+Unknown
+Horse Type
+Horse
+Donkey
+Mule
+Zombie Horse
+Skeleton Horse
+Unknown
+Horse Variant
+Max Health
+Speed
+Jump Strength
+Collar
+White
+Orange
+Purple
+Azure
+Yellow
+Lime
+Pink
+Grey
+Light Gray
+Turquoise
+Violet
+Blue
+Brown
+Green
+Red
+Black
+Unknown
+Dog type
+Cat type
+Ocelot
+Black
+Red
+Siamese
+Unknown
+Mob type
+Zombie
+Skeleton
+Ghost
+Husk Zombie
+Stray Skeleton
+Wither Skeleton
+Zombie Pigmen
+Undertaker's Backpack
+Undertaker's Woven Backpack
+Set grave text
+Done
+Set random text
+Resurrect
+Enchant
+Disenchant
+%d levels required
+Resurrection
+Enchanting
+Disenchanting
+Gravestone
+Memorial
+Enchanted
+Mossy
+Required items
+Zombie Dog
+Skeleton Dog
+Zombie Cat
+Skeleton Cat
+Skull Crawler
+Stray Skull Crawler
+Wither Skull Crawler
+Zombie Skull Crawler
+Husk Skull Crawler
+Zombie Pigman Skull Crawler
+Raven
+Skeleton Raider
+Zombie Raider
+Skeleton
+Undertaker
+Toxic Sludge
+Possessed Armor
+Mummy
+Drowned
+Phantom Diver
+Vampire Bat
+Withered Bat
+Barghest
+Swamp Thing
+Toxic Water
+Toxic Water
+This key was activated by
+You can't use this key!
+Your soul is bounded to this cemetery!
+Your pet's souls are bounded to this cemetery!
+Souls of all players are bounded to this cemetery!
+Souls of all tamed pets are bounded to this cemetery!
+Direction error!
+Unknown structure!

@@ -1,0 +1,248 @@
+AsphaltMod Block
+AsphaltMod Road Sign
+AsphaltMod White Line
+AsphaltMod Editor
+Light Asphalt Block
+Asphalt Block
+Silver Asphalt Block
+Gray Asphalt Block
+Black Asphalt Block
+Dark Asphalt Block
+Broken Asphalt Block
+Red Asphalt Block
+Yellow Asphalt Block
+Blue Asphalt Block
+Green Asphalt Block
+Solid Oil Ore
+Concrete Block
+Concrete Stopper
+Concrete Gutter
+Concrete Empty Gutter
+Concrete Gutter With Grill
+Concrete Gutter With Cover
+White Straight Line
+Orange Straight Line
+White Curved Line
+Orange Curved Line
+White Cross Line
+Orange Cross Line
+White Side Straight Line
+Orange Side Straight Line
+White Inside Curved Line
+Orange Inside Curved Line
+White Outside Curved Line
+Orange Outside Curved Line
+White Crosswalk Line
+Orange Crosswalk Line
+White Bike Crosswalk Line
+Orange Bike Crosswalk Line
+White "To"
+Orange "To"
+White "Ma"
+Orange "Ma"
+White "Re"
+Orange "Re"
+Traffic Signal
+Traffic Signal For Walker
+Gurdrail
+Gurdrail Body
+Gurdrail Left Edge
+Gurdrail Right Edge
+Curved Gurdrail
+Curved Gurdrail Body
+Gurdrail with Delinator
+Gurdrail with Arrow
+Pole Gurdrail
+Pole Gurdrail Body
+Curved Pole Gurdrail
+Curved Pole Gurdrail Body
+Orange Curve Mirror
+Gray Curve Mirror
+Pole
+One Hand Pole
+Two Hand Pole (Diagonal)
+Two Hand Pole (Side)
+Three Hand Pole
+Four Hand Pole
+Orange Metal Pole
+Gray Metal Pole
+White Metal Pole
+Brown Metal Pole
+Black Metal Pole
+Metal Sign "Attention"
+Metal Sign "Left and Right Check"
+Metal light For Sidewalk
+Metal light For Road
+Red and White Check Cushion Drum
+Black and Orange Check Cushion Drum
+Zebra Cushion Drum
+Rectangle Bridge Joint
+Wave Bridge Joint
+Line Bridge Joint
+Multiple Lines Bridge Joint
+Finger Bridge Joint
+Cross Concrete Gutter
+Empty Cross Concrete Gutter
+Cross Concrete Gutter With Grill
+Empty Cross Concrete Gutter With Grill
+Cross Concrete Gutter With Cover
+Empty Cross Concrete Gutter With Cover
+White Bike Crosswalk Line (Illustration)
+Orange Bike Crosswalk Line (Illustration)
+White Bike Line
+Orange Bike Line
+White Wheelchair Line
+Orange Wheelchair Line
+White Diamond Line
+Orange Diamond Line
+White Zebra Area
+Orange Zebra Area
+White Outside Curved Line (Outside Zebra B)
+Orange Outside Curved Line (Outside Zebra B)
+White Curved Line (Outside Zebra B)
+Orange Curved Line (Outside Zebra B)
+White Straight Line (Zebra B)
+Orange Straight Line (Zebra B)
+White Outside Curved Line (Outside Zebra A)
+Orange Outside Curved Line (Outside Zebra A)
+White T Cross Line
+Orange T Cross Line
+White Curved Line (Outside Zebra A)
+Orange Curved Line (Outside Zebra A)
+White Side Straight Line (Zebra B)
+Orange Side Straight Line (Zebra B)
+White Side Straight Line (Zebra A)
+Orange Side Straight Line (Zebra A)
+White Straight Line (Zebra A)
+Orange Straight Line (Zebra A)
+White Inside Curved Line (Inside Zebra A)
+Orange Inside Curved Line (Inside Zebra A)
+White Curved Line (Inside Zebra A)
+Orange Curved Line (Inside Zebra A)
+White Curved Line (Inside Zebra B)
+Orange Curved Line (Inside Zebra B)
+White Plate
+Orange Plate
+White No.0 Line
+White No.1 Line
+White No.2 Line
+White No.3 Line
+White No.4 Line
+White No.5 Line
+White No.6 Line
+White No.7 Line
+White No.8 Line
+White No.9 Line
+White Stop Edge Line
+Orange Stop Edge Line
+White Side Stop Edge Line
+Orange Side Stop Edge Line
+Yellow and Black Warning Line
+Red and White Warning Line
+Yellow and Black Curved Warning Line
+Red and White Curved Warning Line
+Concrete Block
+Vacuum Concrete Block
+Slope Concrete Block
+Blinker Light
+Parking Gate
+Long Digital Signage
+Wide Digital Signage
+Wall Digital Signage
+Iron Straight Braille Block
+Iron Curve Braille Block
+Iron T Cross Braille Block
+Iron Cross Braille Block
+Iron Alert Braille Block
+Iron Platform Braille Block
+Straight Braille Block
+Curve Braille Block
+T Cross Braille Block
+Cross Braille Block
+Alert Braille Block
+Platform Braille Block
+Hedgerow
+Flower Hedgerow
+Yellow Hedgerow
+Orange Hedgerow
+Curved Hedgerow
+Flower Curved Hedgerow
+Yellow Curved Hedgerow
+Orange Curved Hedgerow
+Edge Hedgerow
+Flower Edge Hedgerow
+Yellow Edge Hedgerow
+Orange Edge Hedgerow
+Road Line
+Name
+Size
+Tetrapod
+Rubber Pole
+Color Cone
+Solid Oil
+Solid Asphalt
+Concrete Gutter Cover
+Iron Gutter Cover
+Slope Editor
+Step Editor
+Flexible Line Editor
+Double Material Block Editer
+Road Sign Panel
+White Line Painter
+Orange Line Painter
+Name
+Shape
+Circle
+Square
+Triangle
+None
+Create Slopes.
+Select the Base Block by Shift + Right Click.
+Steep Slope
+Normal Slope
+Size
+Block
+Registered the Base Block.
+Create Steps.
+Select the Base Block by Shift + Right Click.
+Size
+Block
+Registered the Base Block.
+Create Flexsible Line Blocks.
+Shift + Right Click to Set a White Line that is Horizontally Reversed.
+Right Click in the Air to Display the Menu.
+Size
+Color
+White
+Orange
+Create Double Material Blocks.
+Select the Base Block by Shift + Right Click.
+Right Click in the Air to Display the Menu.
+Size
+Division Direction
+Left Block
+Right Block
+Registered the Block.
+Then Shift + Right Click on the Other Block.
+Registered the Other Block.
+Color
+Steep Slope
+Left Block
+Right Block
+Mirror
+Bind
+Close
+Change
+Size
+Color
+Type
+If the settings are not saved, try putting them in and out of the inventory after applying.
+Block
+Width
+Height
+Text
+Remove
+Add
+Reload Road Sign Pack.
+AsphaltMod has been updated.
+Update information

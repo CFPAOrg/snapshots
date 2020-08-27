@@ -1,0 +1,45 @@
+English
+United States
+en_us
+An exception was thrown that has caused the game to forcefully close. Please restart the application and notify the author if the problem continues. Error: %s
+An exception was thrown!
+No additional information provided
+There is no such thing as a kamakazi koopa shell. This has caused the shell to fail initialization.
+Can not summon a Fruit at non-numerical coords!
+Can not summon a Player at non-numerical coords!
+Can not summon a %s Item at non-numerical coords!
+Can not summon a Koopa with non numerical attributes!
+Can not summon a Koopa at non-numerical coords!
+Not enough parameters to summon Koopa
+Illegal argument '%s' for Koopa
+Illegal arguments [%s] for Koopa
+Hello %s, I hope you enjoy what I have here to show off so far! Play around and see what happens when you do certain things (; This is a very early stage of the demo level and may be used in the beta release!
+Well, This is weird...
+Select Level
+Air
+Void
+Test Dirt
+Yoshi House Grass
+Yoshi House Dirt
+Info Box
+Coin
+Grass
+Grass Wall
+? Block
+Super Mario World Configuration
+Sounds
+All sound settings
+Gameplay
+All actual in-game settings
+Extras
+All extra/fun options
+Enable mario music
+Allow music to play inside of the application
+Enable mario sfx
+Allow sound effects to play inside of the application
+Mario music volume
+Set the percentage of maximum music that will play
+Mario sfx volume
+Set the percentage of maximum sfx that will play.
+Crayfish Item Particle Count
+Set the amount of particles the Crayfish Item will spawn when used.

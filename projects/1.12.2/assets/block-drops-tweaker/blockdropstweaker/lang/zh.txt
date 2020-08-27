@@ -1,0 +1,36 @@
+Block Drops Tweaker
+Save Block Drops
+Reload Block Drops
+/bd block select <block id,metadata>
+/bd block set <key> <value>
+/bd block set fortunechance <level> <chance>
+/bd block get [fortunechance]
+/bd block add <block id> <metadata>
+/bd block dupe <block id> <metadata>
+/bd block tool add <item id> <metadata>
+/bd block tool remove <item id> <metadata>
+/bd block biome add <biome id>
+/bd block biome remove <biome id>
+/bd block gamestage add <gamestage>
+/bd block gamestage remove <gamestage>
+/bd block modifier add <modifier>
+/bd block modifier remove <modifier>
+/bd block trait add <trait>
+/bd block trait remove <trait>
+/bd block enchant add <enchant>
+/bd block enchant remove <enchant>
+/bd block nbt add <nbt>
+/bd block nbt remove <nbt>
+/bd drop select <item id,metadata>
+/bd drop set <key> <value>
+/bd drop set fortunechance <level> <chance>
+/bd drop set fortunequantity <level> <min:max>
+/bd drop get [fortunechance/fortunequantity]
+/bd drop add <item id> <metadata>
+/bd drop dupe <item id> <metadata>
+/bd drop tool add <item id> <metadata>
+/bd drop tool remove <item id> <metadata>
+/bd drop biome add <biome id>
+/bd drop biome remove <biome id>
+/bd info [ore]
+/bd copy <text>

@@ -1,0 +1,14 @@
+Jazzium Ingot
+Flamed Jazzium Ingot
+Block of Jazzium
+Jazzium Ore
+Block of Flamed Jazzium
+Flamed Jazzium Sword
+Flamed Jazzium Shovel
+Flamed Jazzium Pickaxe
+Flamed Jazzium Axe
+Flamed Jazzium Hoe
+Flamed Jazzium Helmet
+Flamed Jazzium Chestplate
+Flamed Jazzium Leggings
+Flamed Jazzium Boots

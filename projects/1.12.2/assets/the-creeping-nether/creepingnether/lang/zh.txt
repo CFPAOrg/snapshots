@@ -1,0 +1,48 @@
+Blood Stone
+Blood Stone Stairs
+Blood Stone Slab
+Charred Wood
+Charred Bark
+Charred Planks
+Charred Wood Stairs
+Charred Wood Slab
+Melty Obsidian
+Drippy Obsidian
+Soul Stone
+Soul Stone Stairs
+Soul Stone Slab
+Charged Soul Stone
+Corruption Catalyst
+Nether Coal Ore
+Nether Iron Ore
+Nether Gold Ore
+Nether Diamond Ore
+Nether Emerald Ore
+Nether Lapis Lazuli Ore
+Nether Redstone Ore
+Hallow Coal Ore
+Hallow Iron Ore
+Hallow Gold Ore
+Hallow Diamond Ore
+Hallow Emerald Ore
+Hallow Lapis Lazuli Ore
+Hallow Redstone Ore
+Hallow Rock
+Hallow Grass
+Hallow Sand
+Hallow Stone
+Hallow Stone Stairs
+Hallow Stone Slab
+Charged Hallow Stone
+Purification Catalyst
+Hallow Wood
+Hallow Wood Planks
+Hallow Wood Stairs
+Hallow Wood Slab
+Cooled Magma
+Netherlight Rose
+Golden Leaves
+Nether Essence
+Purified Essence
+The Creeping Nether
+Pigman

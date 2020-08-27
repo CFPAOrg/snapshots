@@ -1,0 +1,155 @@
+Nether Dirt
+Heat Sand
+Glowood Log
+Stripped Glowood Log
+Glowood Leaves
+Glowood Sapling
+Glowood Planks
+Glowood Bookshelf
+Foulite Ore
+Pyridium Ore
+Neridium Ore
+Linium Ore
+Block of Neridium
+Block of Pyridium
+Block of Linium
+Slow Glass
+Heat Glass
+Green Glowshroom
+Purple Glowshroom
+Glowood Ladder
+Glowood Fence
+Glowood Stairs
+Glowood Slab
+Glowood Pressure Plate
+Glowood Crafting Table
+Netherrack Furnace
+Glowood Chest
+Ghast Bomb
+Foulite Torch
+Charcoal Torch
+Glowood Door
+W-Ore
+Nether Farmland
+Dark Wheat
+Lava Reeds
+Smooth Netherrack
+Smooth Netherrack Slab
+Slow Glass Pane
+Heat Glass Pane
+Glowood Stick
+Foulite Dust
+Ghast Bones
+Ghast Marrow
+Neridium Ingot
+Pyridium Ingot
+Linium Ingot
+Red Feather
+Magma Caramel
+Lava Book
+Lava Paper
+Ghast Rod
+Nether Painting
+Slime Eggs
+Glowood Bowl
+Dark Seeds
+Dark Wheat
+Lava Reeds
+Imp Skin
+Devil's Bread
+Glow Apple
+Glow Stew
+Imp Skin Helmet
+Imp Skin Chestplate
+Imp Skin Leggings
+Imp Skin Boots
+Neridium Helmet
+Neridium Chestplate
+Neridium Leggings
+Neridium Boots
+Glowood Pickaxe
+Glowood Axe
+Glowood Shovel
+Glowood Hoe
+Netherrack Pickaxe
+Netherrack Axe
+Netherrack Shovel
+Netherrack Hoe
+Neridium Pickaxe
+Neridium Axe
+Neridium Shovel
+Neridium Hoe
+Linium Pickaxe
+Linium Axe
+Linium Shovel
+Linium Hoe
+Pyridium Pickaxe
+Pyridium Axe
+Pyridium Shovel
+Pyridium Hoe
+Neridium Lighter
+Lava Boat
+Glowood Sword
+Netherrack Sword
+Neridium Sword
+Linium Sword
+Pyridium Sword
+Pyridium Bow
+Linium Bow
+Netherrack Bow
+Neridium Bow
+Neridium Bucket
+Neridium Lava Bucket
+Dark Zombie Spawn Egg
+Bloody Zombie Spawn Egg
+Lava Slime Spawn Egg
+Camouflage Spider Spawn Egg
+Tribal Warrior Spawn Egg
+Tribal Archer Spawn Egg
+Tribal Trainee Spawn Egg
+W-Dust
+W-Obsidian Ingot
+W-Obsidian Helmet
+W-Obsidian Chestplate
+W-Obsidian Leggings
+W-Obsidian Boots
+Nethercraft
+Nether N00b
+Light's Out
+Devil's Servant
+More Fire
+Purple Stuff?
+Orange Stuff?
+Strength of the Gods
+Sailing the Nether?
+This Grows Stuff?
+A Nether Overhaul mod
+Craft a Glowood Crafting Table
+Craft a Netherrack Furnace
+Craft a Hoe for Growing Dark Wheat
+Craft the Bread of the Devil
+Smelt Neridium Ore
+Smelt Pyridium Ore
+Smelt Linium Ore
+Craft a Lava Boat
+Craft some Ghast Marrow
+Dark Zombie
+Bloody Zombie
+Lava Slime
+Camouflage Spider
+Imp
+Tribal Warrior
+Tribal Archer
+Tribal Trainee
+Netherrack Arrow
+Neridium Arrow
+Pyridium Arrow
+Linium Arrow
+Ghast Bomb
+Nether Painting
+Slime Eggs
+Lava Boat
+Nether Blocks
+Nether Tools
+Nether Combat
+Nether Miscellaneous

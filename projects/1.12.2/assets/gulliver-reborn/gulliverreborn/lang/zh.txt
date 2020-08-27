@@ -1,0 +1,3 @@
+/mysize <id>
+/basesize <player> <id>
+%1$s was crushed underneath %2$s

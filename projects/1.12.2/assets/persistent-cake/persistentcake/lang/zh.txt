@@ -1,0 +1,4 @@
+Harvestcraft
+Should Harvestcraft compatibility be enabled?
+Vanilla
+Should vanilla compatibility be enabled?

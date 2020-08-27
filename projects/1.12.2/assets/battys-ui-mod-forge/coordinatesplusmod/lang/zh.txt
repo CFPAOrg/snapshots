@@ -1,0 +1,39 @@
+Coordinates PLUS Configuration
+Coordinates Options
+Select options for coordinates text
+Shaded Background for Coordinates?
+Choose true or false
+Increasing Direction Indicator
+Decreasing Direction Indicator
+Colour of the Coordinates Title Text
+Colour of Positive Coordinates Text
+Colour of Negative Coordinates Text
+Colour of Compass Text
+Colour of Direction Indicator Text
+Colour of Biome Text
+Colour of Positive Chunkinfo Text
+Colour of Negative Chunkinfo Text
+Copy Coord in TP format?
+Timer Options
+Shaded Background for Timer?
+Colour of the Stopped Timer Text
+Colour of the Running Timer Text
+Info panel Options
+Shaded Background for Info?
+Colour of the FPS Text
+Colour of Bright light-level Text
+Colour of Dim light-level Text
+Colour of Moon Phase Text
+Batty's Coordinates PLUS Mod
+Batty's Coordinates
+Batty's Timer
+Batty's Info
+Change Batty's Coords DisplayMode
+Change Batty's Coords Position
+Copy Batty's Coords to Clipboard
+Hide/Show Batty's Timer
+Stop/Start Batty's Timer
+Zero Batty's Timer
+Change Batty's Timer Position
+Change Batty's Info Display
+Change Batty's Info Position

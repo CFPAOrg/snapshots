@@ -1,0 +1,61 @@
+Compressed Cobblestone
+x2 Compressed Cobblestone
+x3 Compressed Cobblestone
+x4 Compressed Cobblestone
+x5 Compressed Cobblestone
+x6 Compressed Cobblestone
+x7 Compressed Cobblestone
+x8 Compressed Cobblestone
+x9 Compressed Cobblestone
+x10 Compressed Cobblestone
+Compressed Dirt
+x2 Compressed Dirt
+x3 Compressed Dirt
+x4 Compressed Dirt
+x5 Compressed Dirt
+x6 Compressed Dirt
+x7 Compressed Dirt
+x8 Compressed Dirt
+x9 Compressed Dirt
+x10 Compressed Dirt
+Compressed Gravel
+x2 Compressed Gravel
+x3 Compressed Gravel
+x4 Compressed Gravel
+x5 Compressed Gravel
+x6 Compressed Gravel
+x7 Compressed Gravel
+x8 Compressed Gravel
+x9 Compressed Gravel
+x10 Compressed Gravel
+Compressed Sand
+2x Compressed Sand
+3x Compressed Sand
+4x Compressed Sand
+5x Compressed Sand
+6x Compressed Sand
+7x Compressed Sand
+8x Compressed Sand
+9x Compressed Sand
+10x Compressed Sand
+Compressed Netherrack
+2x Compressed Netherrack
+3x Compressed Netherrack
+4x Compressed Netherrack
+5x Compressed Netherrack
+6x Compressed Netherrack
+7x Compressed Netherrack
+8x Compressed Netherrack
+9x Compressed Netherrack
+10x Compressed Netherrack
+Compressed End Stone
+2x Compressed End Stone
+3x Compressed End Stone
+4x Compressed End Stone
+5x Compressed End Stone
+6x Compressed End Stone
+7x Compressed End Stone
+8x Compressed End Stone
+9x Compressed End Stone
+10x Compressed End Stone
+Compressed

@@ -1,0 +1,19 @@
+K9
+K9 Mod
+Plaurium ingot
+K9
+K9 Remote
+Plaurium block
+Plaurium Ore
+Teleport K9
+Mode : Peaceful
+Mode : Mob protection
+Mode : Full protection
+Isn't your K9 !
+Battery level
+Let's go!
+Inventory
+You should be in survival mod to set the link between K9 and this remote
+You must be in the TARDIS to set coordinates with K9
+You must own a TARDIS before
+TARDIS MOD not found

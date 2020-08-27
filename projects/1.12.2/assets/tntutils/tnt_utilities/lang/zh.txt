@@ -1,0 +1,1 @@
+/explosion <x> <y> <z> [strength] [damage blocks] [set fires]. Default strength: 4 (TNT)

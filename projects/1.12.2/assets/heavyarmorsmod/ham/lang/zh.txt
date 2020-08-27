@@ -1,0 +1,30 @@
+Iron Armor Plate
+Gold Armor Plate
+Diamond Armor Plate
+Heavy Iron Armor Plate
+Heavy Gold Armor Plate
+Heavy Diamond Armor Plate
+Heavy Iron Helmet
+Heavy Iron Chestplate
+Heavy Iron Leggings
+Heavy Iron Boots
+Heavy Gold Helmet
+Heavy Gold Chestplate
+Heavy Gold Leggings
+Heavy Gold Boots
+Heavy Diamond Helmet
+Heavy Diamond Chestplate
+Heavy Diamond Leggings
+Heavy Diamond Boots
+Super Heavy Iron Helmet
+Super Heavy Iron Chestplate
+Super Heavy Iron Leggings
+Super Heavy Iron Boots
+Super Heavy Gold Helmet
+Super Heavy Gold Chestplate
+Super Heavy Gold Leggings
+Super Heavy Gold Boots
+Super Heavy Diamond Helmet
+Super Heavy Diamond Chestplate
+Super Heavy Diamond Leggings
+Super Heavy Diamond Boots

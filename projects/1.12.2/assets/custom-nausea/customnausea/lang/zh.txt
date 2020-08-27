@@ -1,0 +1,10 @@
+Nausea
+Configure nausea settings
+Modifier
+The strength of the Nausea effect
+Stumbling Movement
+Set to true to activate stumbling movement when nauseous
+Portal
+Configure portal settings
+Modifier
+The strength of the portal distortion effect

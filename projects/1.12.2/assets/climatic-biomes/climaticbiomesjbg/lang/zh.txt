@@ -1,0 +1,39 @@
+Climatic Vanilla
+Climatic Realistic
+Biome Size
+Map Scale
+Survival Island Size
+Continents
+Large Islands
+Water World
+Survival Island
+Force Whole Biomes: Yes
+Add Extra Beach: Yes
+Add Extra Islands: Yes
+Rocky Scrub: Yes
+Deep Sand in Scrub: Yes
+Volcanic Islands: Yes
+Make Rivers: Yes
+Force Whole Biomes: No
+Add Extra Beach: No
+Add Extra Islands: No
+Rocky Scrub: No
+Deep Sand in Scrub: No
+Volcanic Islands: No
+Make Rivers: No
+Configure Biomes O'Plenty
+Pine Wood
+Pine Needles
+Pine Wood Planks
+Pine Bark
+Pine Sapling
+Pine Wood Slab
+Pine Stairs
+Pine Fence
+Pine Fence Gate
+Basalt
+Polished Basalt
+Volcanic Ash
+Peat
+Pine Door
+Pine Cone

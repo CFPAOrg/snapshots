@@ -1,0 +1,932 @@
+Basic Sword
+Rondo
+Ensui
+Grunty's Sword
+Oberon
+Gold Sword
+Rugrats Nights
+Souleater
+Matoi
+Stream Sword
+Scarlet Cross
+Glitter
+Eternity
+Unicorn Blade
+Brave Sword
+Fugaku
+Mercury Sword
+Soujin
+Pegasus Comet
+Evil Eyes
+Strange Blade
+Heaven & Earth
+Mizuchi
+Gakaku
+Oval Sword
+Singing Blade
+Bloody Pain
+Tenkafuubu
+Skysweeper
+Nataku
+Honor's Breath
+Trickster
+Steelblade
+6 Side Blade
+Jinsaran
+Bureido
+SWORD
+Phoenix's Fire
+Gimme Life
+Chaos Sword
+Maniac Sword
+Bear's Sword
+SK's Sword
+Siegfried
+8 Phase Sword
+Ends of Earth
+Heavenly Sword
+Houraiken
+Fire & Sky
+Shichiyou
+Seal Sword
+Lion's Blade
+Lake & Sea
+Mars Sword
+Phantom Blade
+NeedleBlade
+Guillotine
+7 Star Sword
+Jormungand
+Patriot
+Seventh Seal
+Saturn Sword
+Comet Blade
+Corpseblade
+Dogman's Sword
+Demon Killer
+Fair Soul
+Menhir Sword
+Rising Sun
+Banished Blade
+Executioner
+Komura
+Godslayer
+Phantom Pain
+Phoenix's Wing
+Blade Thorns
+Spider's Karma
+Princess Blade
+Blade Fern
+Crimson Sword
+Blade Guifei
+Blade Sun
+Blade Thread
+Empty Shadow
+Empty Mirage
+Blade Rank
+Blade Luer
+Blade Rivet
+Blade Seki 
+Blade Jijo
+Blade Frost
+Sarasvati Katana
+Tempting Rose
+Seductive Rose
+Data Drain
+DG-X
+DG-Y
+DG-Z
+DG-0
+Spin Gai Gu
+Dorje Hatchet
+Spin Man Que
+Spin Locust
+Spin Piney
+Spin Kouga
+Spin Corpse
+Spin Needle
+Spin Doom
+Spin Ban Mu
+Spin Rasetu
+Ripper's Blades
+Spin Axe
+Binding Chord
+Spin Ribs
+Spin Indigo
+Spin Fang
+Lit Honeysuckle
+Spin Mujin
+Spin Nezumi
+Spin Drake
+Spiral Edge
+Spin Gorai
+Empty Skies
+Spin Heaven
+Broad Wheel
+Broad Demon
+Broad Legged
+Broad Zhen
+Broad Tu Wan
+King's Tail
+Flame Sword   
+Heavenly Dawn
+Broad Maiden
+Broad Wings
+Broad Seigen
+Broad Guiren
+Broad Sheaf
+Broad Fenlong
+Broad Kuajie
+Broad White
+Broad Otome
+Silad
+Gate of Ouroboros
+Broad Dowan
+Scythe Hook
+Scythe Bite
+Scythe Shouxiao
+Scythe Toge
+Scythe Hidaru
+Scythe Dakini
+Goddess Scythe
+Shadowy Death
+Ticking Death
+Spell Xialin
+Spell Xinzhu
+Spell Baiyan
+Spell Omen
+Spell Ji Yi
+Spell Noble
+Enchanted Staff
+Dancing Haze
+Flame Dancer
+Summer's Staff
+Spell Xialin Apprentice
+Spell Xinzhu Apprentice
+Spell Baiyan Apprentice
+Spell Omen Apprentice
+Spell Ji Yi Apprentice
+Spell Noble Apprentice
+Enchanted Staff Apprentice
+Dancing Haze Apprentice
+Flame Dancer Apprentice
+Summer's Staff Apprentice
+Spell Xialin Advanced
+Spell Xinzhu Advanced
+Spell Baiyan Advanced
+Spell Omen Advanced
+Spell Ji Yi Advanced
+Spell Noble Advanced
+Enchanted Staff Advanced
+Dancing Haze Advanced
+Flame Dancer Advanced
+Summer's Staff Advanced
+Spell Xialin Master
+Spell Xinzhu Master
+Spell Baiyan Master
+Spell Omen Master
+Spell Ji Yi Master
+Spell Noble Master
+Enchanted Staff Master
+Dancing Haze Master
+Flame Dancer Master
+Summer's Staff Master
+Hatchet
+Battle Axe
+Over Swing
+Axe of Mobs
+Lumberjack
+New Scythe
+Cursed Axe
+Silver Axe
+Golden Axe
+Artisan Axe
+Desert Axe
+Bronze Axe
+Full Swing
+Master's Axe
+Overloaded
+Vampire Axe
+Bandit's Axe
+Brook Axe
+Bloody Axe
+Razor Axe
+Plasma Axe
+Darkness
+Brute's Axe
+Sorcery's Axe
+Dragon Axe
+Missing Axe
+Miracle Axe
+Lightning Axe
+Midnight Axe
+Flame Axe
+Drought Axe
+Vibrant Blade
+Crazy Axe
+Vitality Axe
+Vortex Axe
+Black Axe
+Giant Hill
+8 Key Guardian
+Key Axe
+Tri-Tips
+Thunder Dad
+Hell's Herald
+Watcher
+Fate Encounter
+Quake Axe
+Gaia's Axe
+Handyman's Axe
+Short Swing
+Meteor Axe
+Earth Axe
+Splatter Axe
+Maestro Axe
+Shock Axe
+Devil's Axe
+Water Axe
+Liquid Axe
+Neptune
+Charged Axe
+Malice's Axe
+Dimension
+Wind Axe
+Sinner's Axe
+Darkness Axe
+Alien Axe
+Dark God's Axe
+Golden Mean
+Angel Axe
+White Axe
+Water God Axe
+Papillon Axe
+Fairy Axe
+Thunder Axe
+Axe Bomber
+Adventurer
+Earth Sword
+Defense Sword
+Claymore
+Forest Sword
+Light Giver
+Mercy Killer
+Curing Sword
+Rock 'n Roll
+Grim Sword
+Guadian Blade
+Avenger
+Plasma Blade
+Pain Giver
+Soul Linker
+Absorber
+Life Sword
+Flamberge
+High Forger
+Heavy Tempest
+Executer
+The Sun Fang
+Dispeller
+Blessed Blade
+Sun Fang Five
+Azure Blade
+Stun Sword
+Sun Fang Zero
+Slayer
+Steeler
+Nightingale
+Magnifier
+Green Sword
+Smiling Blade
+Claimh Solais
+Sakabatou
+Forsaken Light
+Made in Heaven
+Mimiru's Sword
+Peace Blade
+Excalibur
+Steelblade
+Earthbreaker
+Spark Sword
+Sonic Blade
+Divine Speed
+Earthian Sword
+Sword of Gain
+Sun Fang One
+Dryad's Sword
+Sharp Blade
+Flame Sword
+Corona Blade
+Shikisokuzeku
+Kikuichimonji
+Kotetsu Sword
+Sharktooth
+Byakuen
+Shidan
+Thunderlord
+Kikujyumonji
+Nodachi
+Destroyer
+Devil Blade
+Hien
+Honeyflower
+Tsumugari
+Vajra
+Spiderblade
+Stonegod Sword
+Jindachi
+Byakuen Custom
+Higekirimaru
+Raimei
+Tonosama Sword
+Kikuhyakumonji
+Stonecrusher
+Horse-Killer
+Asian Phoenix
+Karin
+Raijin
+Oni's Fork
+Ghostdancer
+Shanato
+Kikusenmonji
+Honokagutuchi
+Asura
+Shichishito
+Demonic Sword
+Laevateinn
+Blade 3000
+Five Stars
+Dreams of Yore
+Zero Katana
+Narukikyou
+Bronze Spear
+Sacred Spear
+Awful Spear
+Berserk Spear
+Treebeam Spear
+Thunder Spear
+Bloody Lance
+Eternal Victor
+Copper Lance
+River Spear
+Super Spear
+Forest Spear
+Golden Dragon
+Madlance
+Relief Lance
+Sleipnir
+Knight Glaive
+Dragnir
+Globe Spear
+Gungnir
+Spear of Curse
+Fairy Spear
+Adamant Lance
+Water Spear
+Blazing Spear
+Treeman Spear
+Electric Spear
+Demon Lance
+TranquiLance
+Happiness
+Kaiser Glaive
+Fire Spear
+Erling's Spear
+Strormer Spear
+Ultimate Spear
+Million$ Spear
+Jishuwen
+Super Wufei
+Minerva
+Last Tess
+Valhalberd
+Spear Core MK3
+Steel Spear
+Amazon Spear
+Wooden Spear
+Plasma Lance
+Mage Spear
+Iron Spear
+Glaive
+Damascus Spear
+Merman Spear
+Fox Spear
+Primal Spear
+Nihonmaru
+Insane Spear
+Marine Spear
+Lavaman
+Volcanic Spear
+Hellfire Spear
+Spirit Lance
+Aquaspear
+Rivergod Spear
+Flame Spear
+Gold Spear
+Flash Spear
+Blitz Spear
+Spear of Spell
+Fiend Spear
+Dhampir Lance
+Demon Spear
+Scarlet Autumn
+Lance Tulong
+Golden Spear
+Lance Law
+Lance Yantie
+Lance Snake
+Lance Xiong
+Lance Quake
+Lance Tower
+Lance Rook
+Dark Crow
+Fan Jasper
+Peach Blossom
+Voice Usurper
+Voice Cleanser
+Dark Crow Apprentice
+Fan Jasper Apprentice
+Peach Blossom Apprentice
+Voice Usurper Apprentice
+Voice Cleanser Apprentice
+Dark Crow Advanced
+Fan Jasper Advanced
+Peach Blossom Advanced
+Voice Usurper Advanced
+Voice Cleanser Advanced
+Dark Crow Master
+Fan Jasper Master
+Peach Blossom Master
+Voice Usurper Master
+Voice Cleanser Master
+Red Wand
+Red Wand Apprentice
+Red Wand Advanced
+Red Wand Master
+Ogre's Heaven
+Magic Amber
+Magic Hosei
+Magic Nymph
+Magic Crust
+Magic Huawen
+Magic Dielin
+Magic Fumon
+Magic Ji Fu
+Magic Cloud
+Infinite Spiral A
+Infinite Spiral B
+Eternal Light A
+Eternal Light B
+Ogre's Heaven Apprentice
+Magic Amber Apprentice
+Magic Hosei Apprentice
+Magic Nymph Apprentice
+Magic Crust Apprentice
+Magic Huawen Apprentice
+Magic Dielin Apprentice
+Magic Fumon Apprentice
+Magic Ji Fu Apprentice
+Magic Cloud Apprentice
+Infinite Spiral A Apprentice
+Infinite Spiral B Apprentice
+Eternal Light A Apprentice
+Eternal Light B Apprentice
+Ogre's Heaven Advanced
+Magic Amber Advanced
+Magic Hosei Advanced
+Magic Nymph Advanced
+Magic Crust Advanced
+Magic Huawen Advanced
+Magic Dielin Advanced
+Magic Fumon Advanced
+Magic Ji Fu Advanced
+Magic Cloud Advanced
+Infinite Spiral A Advanced
+Infinite Spiral B Advanced
+Eternal Light A Advanced
+Eternal Light B Advanced
+Ogre's Heaven Master
+Magic Amber Master
+Magic Hosei Master
+Magic Nymph Master
+Magic Crust Master
+Magic Huawen Master
+Magic Dielin Master
+Magic Fumon Master
+Magic Ji Fu Master
+Magic Cloud Master
+Infinite Spiral A Master
+Infinite Spiral B Master
+Eternal Light A Master
+Eternal Light B Master
+Demon Slice
+Gun Steel
+Water Bayonet
+Gun Ocher
+Gun Hong
+Gun Fu Yue
+Gun Waves
+Gun Bead
+Gun Lion
+Gun Fisher
+Gun Garma
+Gun Petal
+Gun Luna
+Maxwell
+Silent Jade
+Silent Eden
+Twinstar Rift A
+Twinstar Rift B
+Tiger Fist
+Fist Talon
+Fist Fairy
+Fist Thrush
+Fist Claw
+Fist Hisa
+Stained Wing
+Blinding Wing
+Fist Altair
+Death Fist
+Feline Soul
+Steel Blades
+Ronin Blades
+Rashou
+Spark Blades
+Lath Blades
+Miracle Twin
+Anshou
+Sotetsu
+San
+Time Blades
+Magatsu
+Sorcery Swords
+Specter Blades
+Bloody Blades
+Amateur Blades
+Stealth Blades
+Dragon & Tiger
+Homura
+Rusty Nails
+Raitei
+Ankokushiki
+Masterblades
+Shin
+Blades of Bond
+Kaien
+Tsumuji
+Raikoumaru
+Black Chapter
+Dante's Blades
+Spiral Edge
+Bloody Blades
+Mokuren
+Mizuchi
+Diablo Blades
+Hyakkidouran
+Golden Yasha
+Two Together
+Cats Blades
+Tiger King
+Assassin
+Akatsuki
+Ryokugun
+Fuse Blades
+Soul Blades
+Sin of Hades
+Prepare to Die
+Grizzly
+Last Betrayal
+Slayers
+Phantom Blades
+Rei
+Lady Killers
+Hachiyou
+Raian
+Mukuro
+Hell's Gate
+Kikoku
+Enou
+Saburo
+Vampire Blades
+Shadow Blades
+Yosetu & Fuyou
+Moon Knives
+Kurenai
+Kiki & Lala
+Mikazuchi
+Baian
+Spell Blades
+Sublimer
+Suigetsu
+Enja
+Kokoro
+Shirogane
+Kurogane
+Crimson Raid
+Fishskin
+Kai
+Kyoura
+Bom-Ba-Ye
+Gemini Soul
+Professional
+Moonstruck
+Earth Wand
+Rod of the Sea
+Basho Wand
+Cedar Wand
+Stormlord Rod
+Nerd Staff
+Starstorm Wand
+Almighty Wand
+Bubble Rod
+Inferno Wand
+Rod of Gales
+Treasure Wand
+Witch's Wand
+Silver Rod
+Iron Rod
+Ocean's Rod
+Flaming Rod
+Air Wand
+Stun Rod
+Diabolic Wand
+Dharma Wand
+Shinto Dream
+Spiral Wand
+Firedrake Bone
+Dark Green Rod
+Wand of Storms
+Apocalypse Rod
+Wand of Truth
+Gaia's Staff
+Caduceus Rod
+Burning Brand
+Wand of Dreams
+Awful Stun Rod
+Witch's Stick
+Jester's Wand
+Rod of Pattern
+Great Elite
+Heh Heh Heh
+Yoshida (26)
+Banyuinryoku
+Silent Bomber
+8 Wise Men
+Ludicrous
+BT's Wand
+Earth Staff
+Cypress Wand
+Water Wand
+Hag's Wand
+Cosmic Staff
+Staff of Truth
+Crystal Rod
+Ishtar Wand
+Negation Wand
+Master Asia
+Wand of Wisdom
+Expert Wand
+Cygnus Rod
+Fire Wand
+Adian's Rod
+Revelation
+Nautilus Wand
+Earth Rod
+Muddy Rod
+Oak Staff
+Commandments
+Megiddo Wand
+Ebony Wand
+Groovy Stick
+Flaming Wand
+Tenami
+Electric Wand
+Bolt Rod
+Dark History
+Moonstruck Apprentice
+Earth Wand Apprentice
+Rod of the Sea Apprentice
+Basho Wand Apprentice
+Cedar Wand Apprentice
+Stormlord Rod Apprentice
+Nerd Staff Apprentice
+Starstorm Wand Apprentice
+Almighty Wand Apprentice
+Bubble Rod Apprentice
+Inferno Wand Apprentice
+Rod of Gales Apprentice
+Treasure Wand Apprentice
+Witch's Wand Apprentice
+Silver Rod Apprentice
+Iron Rod Apprentice
+Ocean's Rod Apprentice
+Flaming Rod Apprentice
+Air Wand Apprentice
+Stun Rod Apprentice
+Diabolic Wand Apprentice
+Dharma Wand Apprentice
+Shinto Dream Apprentice
+Spiral Wand Apprentice
+Firedrake Bone Apprentice
+Dark Green Rod Apprentice
+Wand of Storms Apprentice
+Apocalypse Rod Apprentice
+Wand of Truth Apprentice
+Gaia's Staff Apprentice
+Caduceus Rod Apprentice
+Burning Brand Apprentice
+Wand of Dreams Apprentice
+Awful Stun Rod Apprentice
+Witch's Stick Apprentice
+Jester's Wand Apprentice
+Rod of Pattern Apprentice
+Great Elite Apprentice
+Heh Heh Heh Apprentice
+Yoshida (26) Apprentice
+Banyuinryoku Apprentice
+Silent Bomber Apprentice
+8 Wise Men Apprentice
+Ludicrous Apprentice
+BT's Wand Apprentice
+Earth Staff Apprentice
+Cypress Wand Apprentice
+Water Wand Apprentice
+Hag's Wand Apprentice
+Cosmic Staff Apprentice
+Staff of Truth Apprentice
+Crystal Rod Apprentice
+Ishtar Wand Apprentice
+Negation Wand Apprentice
+Master Asia Apprentice
+Wand of Wisdom Apprentice
+Expert Wand Apprentice
+Cygnus Rod Apprentice
+Fire Wand Apprentice
+Adian's Rod Apprentice
+Revelation Apprentice
+Nautilus Wand Apprentice
+Earth Rod Apprentice
+Muddy Rod Apprentice
+Oak Staff Apprentice
+Commandments Apprentice
+Megiddo Wand Apprentice
+Ebony Wand Apprentice
+Groovy Stick Apprentice
+Flaming Wand Apprentice
+Tenami Apprentice
+Electric Wand Apprentice
+Bolt Rod Apprentice
+Dark History Apprentice
+Moonstruck Advanced
+Earth Wand Advanced
+Rod of the Sea Advanced
+Basho Wand Advanced
+Cedar Wand Advanced
+Stormlord Rod Advanced
+Nerd Staff Advanced
+Starstorm Wand Advanced
+Almighty Wand Advanced
+Bubble Rod Advanced
+Inferno Wand Advanced
+Rod of Gales Advanced
+Treasure Wand Advanced
+Witch's Wand Advanced
+Silver Rod Advanced
+Iron Rod Advanced
+Ocean's Rod Advanced
+Flaming Rod Advanced
+Air Wand Advanced
+Stun Rod Advanced
+Diabolic Wand Advanced
+Dharma Wand Advanced
+Shinto Dream Advanced
+Spiral Wand Advanced
+Firedrake Bone Advanced
+Dark Green Rod Advanced
+Wand of Storms Advanced
+Apocalypse Rod Advanced
+Wand of Truth Advanced
+Gaia's Staff Advanced
+Caduceus Rod Advanced
+Burning Brand Advanced
+Wand of Dreams Advanced
+Awful Stun Rod Advanced
+Witch's Stick Advanced
+Jester's Wand Advanced
+Rod of Pattern Advanced
+Great Elite Advanced
+Heh Heh Heh Advanced
+Yoshida (26) Advanced
+Banyuinryoku Advanced
+Silent Bomber Advanced
+8 Wise Men Advanced
+Ludicrous Advanced
+BT's Wand Advanced
+Earth Staff Advanced
+Cypress Wand Advanced
+Water Wand Advanced
+Hag's Wand Advanced
+Cosmic Staff Advanced
+Staff of Truth Advanced
+Crystal Rod Advanced
+Ishtar Wand Advanced
+Negation Wand Advanced
+Master Asia Advanced
+Wand of Wisdom Advanced
+Expert Wand Advanced
+Cygnus Rod Advanced
+Fire Wand Advanced
+Adian's Rod Advanced
+Revelation Advanced
+Nautilus Wand Advanced
+Earth Rod Advanced
+Muddy Rod Advanced
+Oak Staff Advanced
+Commandments Advanced
+Megiddo Wand Advanced
+Ebony Wand Advanced
+Groovy Stick Advanced
+Flaming Wand Advanced
+Tenami Advanced
+Electric Wand Advanced
+Bolt Rod Advanced
+Dark History Advanced
+Moonstruck Master
+Earth Wand Master
+Rod of the Sea Master
+Basho Wand Master
+Cedar Wand Master
+Stormlord Rod Master
+Nerd Staff Master
+Starstorm Wand Master
+Almighty Wand Master
+Bubble Rod Master
+Inferno Wand Master
+Rod of Gales Master
+Treasure Wand Master
+Witch's Wand Master
+Silver Rod Master
+Iron Rod Master
+Ocean's Rod Master
+Flaming Rod Master
+Air Wand Master
+Stun Rod Master
+Diabolic Wand Master
+Dharma Wand Master
+Shinto Dream Master
+Spiral Wand Master
+Firedrake Bone Master
+Dark Green Rod Master
+Wand of Storms Master
+Apocalypse Rod Master
+Wand of Truth Master
+Gaia's Staff Master
+Caduceus Rod Master
+Burning Brand Master
+Wand of Dreams Master
+Awful Stun Rod Master
+Witch's Stick Master
+Jester's Wand Master
+Rod of Pattern Master
+Great Elite Master
+Heh Heh Heh Master
+Yoshida (26) Master
+Banyuinryoku Master
+Silent Bomber Master
+8 Wise Men Master
+Ludicrous Master
+BT's Wand Master
+Earth Staff Master
+Cypress Wand Master
+Water Wand Master
+Hag's Wand Master
+Cosmic Staff Master
+Staff of Truth Master
+Crystal Rod Master
+Ishtar Wand Master
+Negation Wand Master
+Master Asia Master
+Wand of Wisdom Master
+Expert Wand Master
+Cygnus Rod Master
+Fire Wand Master
+Adian's Rod Master
+Revelation Master
+Nautilus Wand Master
+Earth Rod Master
+Muddy Rod Master
+Oak Staff Master
+Commandments Master
+Megiddo Wand Master
+Ebony Wand Master
+Groovy Stick Master
+Flaming Wand Master
+Tenami Master
+Electric Wand Master
+Bolt Rod Master
+Dark History Master
+.Hack Swords
+.Hack Magic
+.Hack Guns
+.Hack Extra
+dotHack Weapons Config

@@ -1,0 +1,53 @@
+Item Loot
+Entity Loot
+Block Loot
+Fill Loot
+Structure Loot
+Command Loot
+Effect Loot
+Command Trigger
+Loot Trigger
+(Right Click Me)
+/globalvar <variable name> [operation]
+/globalvar <variable name> %s <value|random|globalvar|entityvar|scoreboard>
+/globalvar <variable name> %s value <string|boolean|integer|float> <value>
+/globalvar <variable name> %1$s random <boolean|integer|float> [min] [max] or /globalvar <variable name> %1$s random string <list of strings>
+/globalvar <variable name> %s globalvar <variable name>
+/globalvar <variable name> %s entityvar <entity> <variable name>
+/globalvar <variable name> %s scoreboard <entity> <objective name>
+No global variable with the name %s
+No variable with the name %1$s found for entity %2$s
+Cannot %1$s variable types %2$s and %3$s
+Test failed: %1$s %2$s %3$s
+Successfully inverted %2$s
+Successfully set %1$s to %2$s
+Successfully added %1$s to %2$s
+Successfully multiplied %1$s by %2$s
+Successfully divided %1$s by %2$s
+Successfully modulated %1$s with %2$s
+Test passed: %1$s %2$s %3$s
+/entityvar <entity> <variable name> [operation]
+/entityvar <entity> <variable name> %s <value|random|globalvar|entityvar|scoreboard>
+/entityvar <entity> <variable name> %s value <string|boolean|integer|float> <value>
+/entityvar <entity> <variable name> %1$s random <boolean|integer|float> [min] [max] or /entityvar <variable name> %1$s random string <list of strings>
+/entityvar <entity> <variable name> %s globalvar <variable name>
+/entityvar <entity> <variable name> %s entityvar <entity> <variable name>
+/entityvar <entity> <variable name> %s scoreboard <entity> <objective name>
+No variable with the name %1$s found for entity '%2$s'
+No global variable with the name %s
+No variable with the name %1$s found for entity %2$s
+Cannot %1$s variable types %2$s and %3$s for %4$s
+Test failed: %1$s %2$s %3$s for %4$s
+Successfully inverted %s
+Successfully set %1$s for %2$s entity
+Successfully set %1$s for %2$s entities
+Successfully added %1$s for %2$s entity
+Successfully added %1$s for %2$s entities
+Successfully multiplied %1$s for %2$s entity
+Successfully multiplied %1$s for %2$s entities
+Successfully divided %1$s for %2$s entity
+Successfully divided %1$s for %2$s entities
+Successfully modulated %1$s for %2$s entity
+Successfully modulated %1$s for %2$s entities
+Test passed: %1$s %2$s for %3$s entity
+Test %1$s passed for %3$s entities

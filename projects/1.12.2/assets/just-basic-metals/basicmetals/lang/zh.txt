@@ -1,0 +1,49 @@
+Copper Ore
+Silver Ore
+Nickel Ore
+Lead Ore
+Aluminum Ore
+Tin Ore
+Block of Copper
+Block of Silver
+Block of Nickel
+Block of Lead
+Block of Aluminum
+Block of Tin
+Copper Ingot
+Silver Ingot
+Nickel Ingot
+Lead Ingot
+Aluminum Ingot
+Tin Ingot
+Copper Nugget
+Silver Nugget
+Nickel Nugget
+Lead Nugget
+Aluminum Nugget
+Tin Nugget
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Aluminum Helmet
+Aluminum Chestplate
+Aluminum Leggings
+Aluminum Boots
+Lead Helmet
+Lead Chestplate
+Lead Leggings
+Lead Boots
+Nickel Helmet
+Nickel Chestplate
+Nickel Leggings
+Nickel Boots
+Tin Helmet
+Tin Chestplate
+Tin Leggings
+Tin Boots
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Basic Metals

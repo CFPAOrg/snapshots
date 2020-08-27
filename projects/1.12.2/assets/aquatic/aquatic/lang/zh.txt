@@ -1,0 +1,72 @@
+Update available for %s for Minecraft %s
+Download v%s %s (your version is %s)
+here
+Open Guide
+Aquatic
+Aquatic Config
+Aquatic Charm
+Depth Generator
+Hydrilla
+Pistia
+AquaNet Controller
+Aqua Node
+Oxygen Stone
+Aquatic Stone
+Aquatic Cracked Stone
+Solution Tank (WIP)
+Oxygen Recharger
+Energy Recharger
+Pink Coral Reef
+Blue Coral Reef
+Green Coral Reef
+Red Coral Reef
+Yellow Coral Reef
+Lapis Ore Deposit
+Redstone Ore Deposit
+Quartz Ore Deposit
+Coal Ore Deposit
+Diamond Ore Deposit
+Gold Ore Deposit
+Emerald Ore Deposit
+Iron Ore Deposit
+Creative Energy Buffer
+Reef Stone
+Angler Torch
+Heavy Iron Boots
+Scuba Helmet
+Scuba Chestplate
+Scuba Leggings
+Scuba Fins
+Hydraulic Drill
+Scylla Skull
+Diving Knife
+Organic Matter
+Aquatic Dimension Charm
+Angler Light
+Shark Tooth
+Raw Scylla Meat
+Cooked Scylla Meat
+Raw Shark Fin
+Cooked Shark Fin
+Raw Angler Fish
+Cooked Angler Fish
+Raw Bacon
+Cooked Bacon
+Aquatic Water
+Aquatic
+AquaNet
+AquaNet Controller
+AquaNet Nodes
+Advanced AquaNet Nodes
+Aquatic Items
+Aquatic Dimension Charm
+Organic Matter
+Mob Drop List
+Aquatic Tools
+Hydraulic Drill
+Diving Knife
+Aquatic Machines
+Depth Generator
+Solution Tank
+Oxygen Recharger
+Energy Recharger

@@ -1,0 +1,5 @@
+(50) Coin
+(100) Coin
+(250) Coin
+(1000) Coin
+Chemical Exchange Tweaks

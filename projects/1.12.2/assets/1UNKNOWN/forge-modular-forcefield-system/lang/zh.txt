@@ -1,0 +1,4 @@
+Use /forge <subcommand>. Subcommands are tps, track
+Use /forge track <type> <duration>. Valid types are te (Tile Entities). Duration is < 60. 
+%s : Mean tick time: %d ms. Mean TPS: %d
+Tile Entity tracking enabled for %d seconds.

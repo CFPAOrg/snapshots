@@ -1,0 +1,24 @@
+Random Blocks
+Chisel
+Crafting
+Little Tiles
+Supplier
+Chisels and Bits
+Left click 
+Shift + left click 
+to toggle slots
+to 
+enable
+disable
+Auto-Compact
+Beginner Builder's Bag
+Regular Builder's Bag
+Advanced Builder's Bag
+Masterful Builder's Bag
+Expert Builder's Bag
+Builder's Bag
+No block selected!
+Can't place %s here!
+Not enough materials to place %s!
+Can be provided by the Builder's Bag
+Open Bag in Bauble Slot

@@ -1,0 +1,2 @@
+Solar Panel
+The panel has %dT/%dT. Generating %dT per tick.

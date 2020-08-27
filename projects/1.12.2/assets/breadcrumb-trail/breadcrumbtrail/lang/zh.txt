@@ -1,0 +1,21 @@
+Empty
+1 %s
+%s %ss
+A few %ss
+A handful of %ss
+A couple %ss
+A fair amount of %ss
+A sizable number of %ss
+A lot of %ss
+A ton of %ss
+&kMISSINGNO&r %s
+Open
+Closed
+%s to open and close
+When open, fill with crumbs by crafting
+Breadcrumb
+Glimmering Breadcrumb
+Breadcrumb Pouch
+Glowstone Fleck
+Breadcrumb Trail
+Breadcrumbs Left

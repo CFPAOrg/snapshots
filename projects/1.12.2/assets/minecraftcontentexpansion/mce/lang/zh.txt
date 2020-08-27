@@ -1,0 +1,263 @@
+Unim
+Unim Ingot
+Ruby
+Ascabit Ingot
+Copper Ingot
+Tin Ingot
+Bronze Ingot
+Titanium Ingot
+Steel Ingot
+Steel Fragments
+Amethyst
+Solar Cell
+Steel Frame
+Plant Fiber
+Rock
+Animal Hide
+Animal Fat
+Dough
+Chain
+Leather Strip
+Cement Mixture
+Unfired Clay Bucket
+Clay Bucket
+Clay Bucket with Water
+Clay Bucket with Milk
+Stone Door
+Sandstone Door
+Nether Wood Door
+Glass Door
+Sandstone Button
+Tomato
+Grape
+Strawberry
+Corn
+Bacon
+Cooked Bacon
+Fried Egg
+Cheese
+Pizza
+Chocolate
+Popcorn
+Purified Meat
+Beef Jerky
+Vegetable Soup
+Pumpkin Soup
+Cactus Soup
+Fish Soup
+Unim Helmet
+Unim Chestplate
+Unim Leggings
+Unim Boots
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Ascabit Helmet
+Ascabit Chestplate
+Ascabit Leggings
+Ascabit Boots
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Tin Helmet
+Tin Chestplate
+Tin Leggings
+Tin Boots
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Titanium Helmet
+Titanium Chestplate
+Titanium Leggings
+Titanium Boots
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Flint Hatchet Head
+Flint Hatchet
+Stone Knife
+Iron Knife
+Diamond Knife
+Stone Sword Blade
+Stone Pickaxe Head
+Stone Axe Head
+Stone Spade Head
+Stone Hoe Head
+Unim Sword
+Unim Pickaxe
+Unim Axe
+Unim Spade
+Unim Hoe
+Unim Sword Blade
+Unim Pickaxe Head
+Unim Axe Head
+Unim Spade Head
+Unim Hoe Head
+Ruby Sword
+Ruby Pickaxe
+Ruby Axe
+Ruby Spade
+Ruby Hoe
+Ruby Sword Blade
+Ruby Pickaxe Head
+Ruby Axe Head
+Ruby Spade Head
+Ruby Hoe Head
+Ascabit Sword
+Ascabit Pickaxe
+Ascabit Axe
+Ascabit Spade
+Ascabit Hoe
+Ascabit Sword Blade
+Ascabit Pickaxe Head
+Ascabit Axe Head
+Ascabit Spade Head
+Ascabit Hoe Head
+Copper Sword
+Copper Pickaxe
+Copper Axe
+Copper Spade
+Copper Hoe
+Copper Sword Blade
+Copper Pickaxe Head
+Copper Axe Head
+Copper Spade Head
+Copper Hoe Head
+Tin Sword
+Tin Pickaxe
+Tin Axe
+Tin Spade
+Tin Hoe
+Tin Sword Blade
+Tin Pickaxe Head
+Tin Axe Head
+Tin Spade Head
+Tin Hoe Head
+Bronze Sword
+Bronze Pickaxe
+Bronze Axe
+Bronze Spade
+Bronze Hoe
+Bronze Sword Blade
+Bronze Pickaxe Head
+Bronze Axe Head
+Bronze Spade Head
+Bronze Hoe Head
+Titanium Sword
+Titanium Pickaxe
+Titanium Axe
+Titanium Spade
+Titanium Hoe
+Titanium Sword Blade
+Titanium Pickaxe Head
+Titanium Axe Head
+Titanium Spade Head
+Titanium Hoe Head
+Steel Sword
+Steel Pickaxe
+Steel Axe
+Steel Spade
+Steel Hoe
+Steel Sword Blade
+Steel Pickaxe Head
+Steel Axe Head
+Steel Spade Head
+Steel Hoe Head
+Unim Ore
+Ruby Ore
+Ascabit Ore
+Copper Ore
+Tin Ore
+Titanium Ore
+Nether Amethyst Ore
+Nether Gold Ore
+Nether Diamond Ore
+Unim Block
+Ruby Block
+Ascabit Block
+Copper Block
+Tin Block
+Bronze Block
+Titanium Block
+Reinforced Dirt
+Reinforced Stone
+Reinforced Sand
+Basalt Cobblestone
+Basalt
+Basalt Brick
+Basalt Stairs
+Basalt Slab
+Basalt Wall
+Cement
+Cement Plate
+Large Brick
+Marble Cobblestone
+Marble
+Marble Brick
+Marble Lamp
+Marble Stairs
+Marble Slab
+Marble Wall
+Obsidian Brick
+Quartz Brick
+Limestone
+Limestone Brick
+Limestone Stairs
+Limestone Slab
+Sandstone Button
+Coal Generator
+Battery
+Kiln
+Smelter
+Solar Panel
+Drying Rack
+Oak Wood Chopping Block
+Spruce Wood Chopping Block
+Birch Wood Chopping Block
+Jungle Wood Chopping Block
+Nether Wood
+Nether Wood Leaves
+Nether Wood Sapling
+Nether Wood Planks
+Nether Wood Stairs
+Nether Wood Slab
+Soul Glass
+Coal Generator
+Battery
+Kiln
+Smelter
+Solar Panel
+Drying Rack
+Chopping Block
+Oil
+MCE Items
+MCE Blocks
+MCE Tools
+MCE Armor
+MCE Food
+MCE Heads
+Stone Age
+First Tool
+You first need to get some flint, plant fiber and sticks to craft your first primitive tool:\nthe flint hatchet.
+Better Tools
+As you may already noticed breaking stone will give you small rocks instead of the full block.\n\nUse 4 rocks to craft 2 cobblestone.
+You can also use the rocks to craft stone tool heads and with them craft stone tools.
+Torch
+Kiln
+The Kiln is a oven that is used to process clay and to craft cement.\nIt can also produce charcoal.
+Chopping Block
+The chopping block can be used to effectively process wood. So for example you can make planks and slabs.\nSimply punch the wood with your axe to process it.
+Metal Age
+Getting ingots
+To smelt ores into ingots you need a smelter.\nCrafting the smelter requires cement which can be produced with the kiln. 
+The Smelter needs heat to process ores.\nIs the heat under 3/4 the smelter will stop processing and you need to burn some coal.
+Industrial Age
+Produce Energy
+A simple way to produce energy is by burning coal.
+You can also gain energy with solar power.
+Store Energy
+Craft a battery to store up to 200000 FE.

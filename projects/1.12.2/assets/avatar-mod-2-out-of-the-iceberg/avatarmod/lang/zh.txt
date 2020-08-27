@@ -1,0 +1,444 @@
+Avatar Mod
+Display bending list
+Cheat Earthbending
+Throw Block
+Pick up block
+Earthbending
+Use Bending
+Cycle Bending Left
+Cycle Bending Right
+Skills Menu
+Switch Path
+Confirm Bison Transfer
+§8§lCombustionbending
+§8§lCombustionbender
+§2§lEarthbending
+§2§lEarthbender
+§c§lFirebending
+§c§lFirebender
+§9§lWaterbending
+§9§lWaterbender
+§f§lAirbending
+§f§lAirbender
+§b§lLightningbending
+§b§lLightningbender
+§3§lIcebending
+§3§lIcebender
+§6§lSandbending
+§6§lSandbender
+§aUniversal
+Manage a player's bending controllers.
+[error][error_value]${player}[/error_value] is not a registered account.[/error]
+[italic][value]${player}[/value] is a non-bender.[/italic]
+[bold]Listing [value]${amount}[/value] bending controllers for [value]${player}[/value][/bold]:
+[error]Ability XP must be from [error_value]0[/error_value] to [error_value]100[/error_value].
+[bold]Successfully set [value]${player}'s[/value] experience for [value]${ability}[/value] to [value]${amount}[/value][/bold]
+[bold][value]${player}'s[/value] experience for [value]${ability}[/value] is [value]${amount}[/value][/bold]
+[error]An error occurred while trying to reload the configuration[/error]
+[error]Details: [error_value]${details}[/error_value] see log for more[/error]
+[bold]Successfully reloaded configuration values[/bold]
+[error]Progression points must be more than 0.[/error]
+locked
+level I
+level II
+level III
+level IV
+level IV, first path
+level IV, second path
+There isn't an ability called %s
+[error]You haven't learned ${bending} yet. To get it, type in: [error_value]/avatar bending add ${username} ${bending}[/error_value][/error]
+Not enough chi!
+Cannot use air bubble with elytra
+Bison is at ${food}%% food, ${health}%% health, and ${domestication} domestication.
+This bender's pack is empty. They probably wouldn't have any scrolls to give you.
+You need a diamond, gold, or emerald, to get a scroll!
+You need a diamond, gold, emerald, dragon's breath, totem of undying, or elytra to get a scroll!
+You need a diamond, gold ingot, emerald, magma cream, or blaze rod to get a scroll!
+The staff is on cooldown! You can't airbend with it!
+Slipstream is on cooldown! You can't use it!
+Cleanse is on cooldown! You can't use it!
+Purify is on cooldown! You can't use it!
+Restore is on cooldown! You can't use it!
+You need to unlock that ability before you can use it!
+Your bison is too hungry to fly! You need to feed it apples and hay so it can fly.
+Your bison is now sitting!
+Your bison does not have any
+inventory yet, but will gain
+more slots as it grows older.
+[error]You can't use bending while water skating until you unlock level II.[/error]
+The target must be on sand to be imprisoned.
+The target must be on an earth related block to be imprisoned.
+You redirected ${lightningbender}'s §l§blightning!
+\[AvatarMod2] To do so, in the radial menu, just hover over the ability and right click!
+Need to look directly at a water source or be nearby one!
+Need to look at or get near a water source block!
+This ability is still on cooldown!
+[bold][red]\[AvatarMod Announcement][/red] \[today]:[/bold] ${announcement}
+[bold][red]\[AvatarMod Announcement][/red] \[yesterday]:[/bold] ${announcement}
+[bold][red]\[AvatarMod Announcement][/red] \[${days} days ago]:[/bold] ${announcement}
+Your bison was called and will be here in approximately ${time} seconds!
+Bound this Bison Whistle to ${bison}.
+[error]This bison whistle has not been bound to a bison; sneak-click a bison with this to bind it.[/error]
+[error]${bison} no longer lives in the physical world.[/error]
+[error]You do not own this flying bison.[/error]
+[error]This flying bison is wild and you need to tame it first.[/error]
+Bound to %s
+Not bound
+Your flying bison ${bison} has been transferred to ${newOwner}.
+You now own ${oldOwner}'s flying bison ${bison}!
+[error]Nobody has recently requested a bison transfer.[/error]
+A message has been sent to ${oldOwner} to confirm the transfer of ${bison}.
+The transfer with ${newOwner} has been ignored.
+${oldOwner} has chosen not to respond to your transfer request.
+[error]This bison isn't yours. You can't transfer the bison since the owner ${owner} is offline.[/error]
+Your bison will now begin following you.
+Your bison has stopped following you.
+[error]Your bison is already nearby![/error]
+§2§lEarth §2§lControl
+Use earthbending to move bendable blocks. Place them in the desired position, or throw them at your enemies.
+Move and throw bendable blocks
+Faster and farther when thrown
+Twice the damage
+§2§l§oBlocky §2§l§oboomerang ;; Block comes back after successful mob hit
+§2§l§oLarge §2§l§oimpact ;; 1/2 chance to create an explosion on landing
+§2§lRavine
+Create a powerful yet small fissure in the ground. Only works on level ground and earth, but can do plenty of damage.
+Slow, basic ravine
+Faster speed
+Ravine travels farther unless there is an obstacle, more damage
+§2§l§oFissure ;; Destroys blocks under it, hit multiple enemies, but costs 1.5x chi
+§2§l§oShaking §2§l§oearth ;; Chance to knock armor and weapons off hit enemies
+§2§lWall
+Raise a protective barrier in front of yourself. It can block incoming projectiles and mobs.
+Summon a small wall
+Create a larger wall, further away
+Create a larger wall, even further away
+Create a massive wall, and shoot pieces of it
+Surround yourself by walls, and push your enemies away with them
+§2§lMine §2§lBlocks
+Quickly destroy blocks to mine out tunnels
+Mine a few blocks
+Mine out even more blocks
+Fortune level I when mining
+Mine very far, level III fortune
+Mine out ore veins, level IV fortune
+§2§lEarthspike
+Disrupt the ground and create a line of spikes that damage anything in its path
+Create smoother, less dangerous spikes
+More earth spikes, more damage
+Faster earth spikes
+§2§l§oOctopus §2§l§ofissure ;; Creates eight spikes in all directions
+§2§l§oFlash §2§l§ofissure ;; Travels much faster and deals twice the damage
+§2§lRestore
+ Use the energy of the earth to aid you in combat, increasing your toughness.
+ Gain Resistance, but at the cost of your speed. The tortoise and the.... tortoise???
+ You can draw energy from the surrounding area to slowly heal yourself.
+ The amount of speed you lose is decreased, and your regeneration speed is increased. You also receive strength.
+ §2§l§oGuardian §2§l§oof §2§l§oLife ;; Your strength and resistance are increased.
+ §2§l§oSustenance §2§l§oof §2§l§oLife ;; You receive instantaneous health, and your hunger disappears.
+§c§lLight Fire
+A small, utility type ability to light fires. It's less practical in combat than some other abilities.
+You weren't able to light the fire. Maybe you should try again...
+When you don't succeed, keep trying, otherwise mobs will start spawning...
+Greater chance of creating fire
+Greater chance of creating fire
+§c§l§oFlame §c§l§odrive ;; Create a line of fire in the direction you're looking
+§c§l§oFlame §c§l§owall ;; Light nearby blocks on fire as well
+§c§lFire Arc
+Make a flaming whip of fire and throw it at your enemies.
+Create a fire arc
+Moves faster
+Tons more damage, and you can redirect fire arcs that you look at in a 3 block radius!
+§c§l§oLarge §c§l§ofire ;; Can make even more fire upon landing
+§c§l§oBoomerang ;; Comes back upon a successful hit
+§c§lFlamethrower
+Generate a stream of powerful, close-ranged flames. A trademark of Firebending.
+Attack within a short range
+Nearly twice as many flames; but more chi
+Longer range, more precise, HUUUUGE damage increase
+§c§l§oFlamestream ;; Extremely long-ranged, concentrated flames
+§c§l§oThe world will burn!! ;; Unfocused flames that create fires everywhere
+§c§lFireball
+Create a glowing orb of flame. It makes a firey explosion on impact.
+I ate too many chilies!
+Bigger, bigger explosion!!!
+Tons more damage upon direct hit, wayy faster!
+§c§l§oFocused §c§l§oexplosion ;; Can sometimes destroy obsidian
+§c§l§oCharged §c§l§oexplosion ;; Takes a few seconds to charge, larger explosion when charged
+§c§lFire Jump
+Use fire propulsion to jump a short distance, damaging players when you jump!
+THIS (GIRL/BOY/UNKNOWN GENDER) IS ON FIREEEEEE!
+Jump slightly farther
+Also attack targets upon landing, light them on fire
+§c§l§oCombustion §c§l§olaunch ;; Super huge attack when you jump AND land!
+§c§l§oWall §c§l§ojumping ;; Gain the ability to wall jump once after fire jumping
+§c§lImmolate
+Temporarily boost your firebending powers for a short period of time, but you may burn yourself in the process
+FEEL THE BURRRRNNNNN
+Stronger buff to firebending and speed buff
+Stronger potion effects and don't burn every time
+§c§l§oFire §c§l§otolerance ;; Much longer duration, health boost effect, and you don't get set on fire!
+§c§l§oInferno ;; Much more powerful effects, incinerate surrounding projectiles!
+§c§lInferno Punch
+Smash your enemies with a fist encased in raw fire!
+Incinerate your enemies with the force of a super-powered fist, knocking them back and setting them on fire!
+Chi cost increases, damage, knockback, and firetime increases!
+Even more damage!
+§c§l§oINCINERATE ;; Use a super-powerful inferno when you punch to create a massive fire explosion!
+§c§l§oFireball Flurry! ;; You can hit enemies from really far away, and enemies close to them are hit as well! It's a 3 hit combo! More damage each hit!
+§9§lWater §9§lArc
+One of waterbending's most common attacks. Shoot a trailing arc of water at your enemy, but only when water is nearby.
+Basic water arc
+Farther pick-up range, bigger water splash.
+Much faster, damage increase, and you can redirect water arcs that you look at in a 3 block radius! Bigger water splash.
+§9§l§oWater Flurry ;; You can now instantly fire off water arcs; multiple arcs in quick succession make a combo.
+§9§l§oWater spear ;; Super-duper-ultra fast, really high damage, breaks blocks!
+§9§lWave
+Summon a wave of water to destroy your enemies, travels a little on land.
+Make your enemies wave goodbye
+A lot more damage
+Much larger
+§9§l§oTsunami ;; Creates a massive wave
+§9§l§oForce §9§l§owave ;; Very fast waves, explosions
+§9§lWater §9§lBubble
+Suspend and transport a bubble of water. Can be used like a long-range bucket.
+Short-ranged water bubble, water dries up after impact
+Throw the bubble much farther
+Bubble creates permanent water source on landing
+Throw water bubble very far
+Doesn't use up water to create bubble - infinite water
+§9§lWater §9§lSkate
+Run on the surface of water. Useful as an evasive ability, or just to get around.
+Slip across the water, can't use abilities
+Can use abilities while skating
+Much faster, and you can now skate on flowing water!
+§9§l§oBalanced §9§l§oskating ;; Can skate even on solid blocks!
+§9§l§oWatery §9§l§oimpact ;; Smash the ground after jumping
+§9§lWater §9§lCannon
+Make a continuous stream of water acts as crowd control. It takes a while to charge up, and takes 3 water charges out of water pouches.
+Basic water cannon
+Deals more damage, slightly larger
+Deals even more damage; you can now just be near a waterbendable block to use water cannon, you don't have to look at one!
+§9§l§oTitanium §9§l§oTearer ;; Unleash a hydro-powered beam of such force that it can tear through steel!
+§9§l§oRapidfire ;; Rapidly create many smaller streams of water that pierces through enemies!
+§9§lCleanse
+Grant yourself and nearby players restorative health effects, plus bending buffs
+§oIt's §olike §oa §ofree §oshower!
+Share regeneration with nearby players
+Give yourself saturation
+§9§l§oInvigoration ;; Also receive instant health boost
+§9§l§oFocus ;; Deal much more damage in combat and move much more quickly
+§f§lAir Gust
+Generate a strong gust of air to push enemies back, allowing you to focus on another problem.
+I've got 99 problems and you ain't one!
+Larger, and you can now push stone buttons!
+Stronger push, larger, you can now push iron doors and trapdoors!
+§f§l§oExtinguish ;; Destroys weaker projectiles
+§f§l§oVacuum ;; Sucks enemies TOWARDS you
+§f§lAir Jump
+Manipulate the air around you to boost off the ground. Perfect for catching up to an unsuspecting enemy.
+Jump through the air
+Slightly improved jumping power
+Even better jumping
+§f§l§oDouble-jump ;; Costs double chi
+§f§l§oGround §f§l§opound ;; Attack nearby enemies on land
+§f§lAirblade
+A spinning disc of air powerful enough to cut flesh. Can be deadly in quick succession.
+Slice n' Dice!
+Higher speeds and damage
+Can now cut blocks
+§f§l§oDragon §f§l§oClaw ;; Shoot 5 smaller, ultra-fast airblades that pierces enemies!
+§f§l§oCyclone §f§l§oCleave ;; Super massive, destroys most blocks.
+§f§lAir Bubble
+Create a bubble of air around you to protect yourself from incoming attacks. However, it takes lots of chi to maintain.
+*Can't touch this*
+Medium-sized air bubble
+More knockback
+§f§l§oPressured §f§l§obubble ;; Very large size
+§f§l§oUndercurrent ;; Limited hovering, disabled by sneak
+§f§lCloudburst
+Create a whirling ball of air which can be thrown at enemies; creates a mini burst of air where it lands.
+That was a big burp!
+Faster speed when thrown, larger explosion of air, you can now push stone buttons!
+Much more damage, bigger air explosion, you can now push iron trapdoors and doors!
+§f§l§oChi §f§l§oSmash ;; Temporarily applies severe debuffs to targets' bending power
+§f§l§oAbsorption ;; Cloudburst can absorb incoming projectiles, which increases its damage
+§f§lSlipstream
+Surround yourself in a veil of air, increasing your movement speed.
+Basic speed boost
+Increase your jumping height
+Intermittently become invisible and increase the power of the buffs.
+§f§l§oDivine §f§l§oBreeze ;; Become stronger in melee and airbending combat
+§f§l§oRun §f§l§olike §f§l§othe §f§l§owind ;; You can now run on air! Potion effects are stronger, you're more frequently invisible.
+§f§lAir Burst
+Slowly draw the surrounding air inwards, then release it in a massive blast that knocks back enemies!
+"Nope!" nearby enemies, blasting them away with a shockwave of air.
+Charge timed reduced; damage, radius, and knockback increased.
+Everything is enhanced!
+§f§lPiercing Winds ;; Way higher damage, and release winds of such ferocity that they blind, weaken, and slow enemies!
+§f§lMaximum Pressure ;; Slowly draw enemies in before firing them away!! A massive radius!
+§b§lLightning §b§lArc
+Create imposing arcs of electricity to electrocute your enemies! Explode on impact with the ground, but not mobs or players.
+Intimidate potential boyfriends
+Lightning travels faster, bigger explosion on colliding with the ground.
+Lightning does more damage, bigger explosion on colliding with the ground.
+§b§lFurious lightning ;; Does more damage, slightly smaller, another bolt
+§b§lLarge thunderbolts ;; Has a larger hitbox, and does all of its damage instantly, then explodes, instead of sticking. Additionally, its explosion is huge!
+§b§lLightning §b§lRaze
+Rain down lightning bolts where you're looking! Pretty inaccurate.
+MWAHAHAHAHAHAHA
+Frequency of lightning bolts increased, along with duration, number of bolts, and the accuracy.
+Everything gets better, including the damage!
+§b§lZeus' §b§lWrath ;; Super accurately rain down super-fast and dangerous bolts of lightning where you're looking.
+§b§lThor's §b§lWrath ;; Snipe your enemies with a massive cloud of lightning that you can control, spawnable from up to 20 blocks away! Pretty low damage, though.
+§b§lLightning §b§lRedirection
+Represents your ability to redirect lightning, doesn't appear in the radial menu
+60% chance to redirect lightning, be careful!
+70% chance to redirect
+80% chance to redirect
+90% chance to redirect lightning
+90% chance to redirect lightning
+§b§lLightning §b§lSpear
+Create a throwable bolt of lightning
+Basic lightning spear, electrocutes targets in water
+Faster when thrown
+Deals much more damage
+§b§lPiercing bolt ;; Goes through enemies instead of stopping on the first one, so it can hurt many targets
+§b§lElectric cloud ;; When hitting a target, nearby targets within 2 blocks are also hurt
+§3§lIce §3§lPrison
+Encase an attacker in a block of ice to prevent them from following you for a short time.
+Delay your attackers.
+The prison lasts slightly longer.
+The prisoner takes damage when the ice shatters.
+§3§l§oFrostbite ;; The prisoner continually takes damage throughout the imprisonment.
+§3§l§oGlacier §3§l§oice ;; The ice cannot be melted by the sun or firebending.
+§3§lIce §3§lBurst
+Encase yourself in a sphere of ice to stop damage.  When broken, it shoots powerful shards in all directions.
+Protect yourself from damage
+The shards deal slightly more damage.
+The shield has a little more health.
+§3§l§oAiming §3§l§osystem ;; A few ice shards automatically target monsters, invaluable when there are many mobs attacking
+§3§l§oHardened §3§l§oice ;; The ice shield has much more health
+§6§lSand Prison
+Create a snare out of sand to temporarily capture your enemies
+Delay your attackers.
+You can catch targets in any earth block by manipulating the small sediments
+The prisoner receives a slowness effect after being freed
+§6§lCoarse §6§lgrains ;; The prisoner takes damage after being freed
+§6§lSolid §6§lsands ;; The sand can't be blown away by airbending
+§6§lSandstorm
+Create a whirling dust devil that picks up enemies and carries them away
+Pick up entities and throw them off, vulnerable to airbending moves
+Moves slightly faster and travels slightly farther
+Intense whiplash deals damage to targets when they are flung away
+§6§lStrong §6§lgusts ;; Sandstorm moves much faster and isn't disrupted by airbending
+§6§lHarsh §6§lgrains ;; Whirling sand grains cause continuous minor damage to targets
+§8§lExplosion
+Sparky-Sparky-Boom-Boom-Man!!! ;; Blow up pesky enemies with explosions! Be careful, though, as you can damage yourself!
+Stop.Farting.Then.Lighting.Matches! ;; Create an explosion at the BLOCK where you're looking; maximum range of 20 blocks. It can send enemies sky-high!
+Slightly bigger explosion! More satisfying when blowing up people!
+A maximum range of 30 blocks! Bigger explosion!
+§8§l§oSniper §8§l§oRifle ;; Ridiculous explosion range, a small explosion.
+§8§l§oBOOOOOOOOOOOOOOOOOOM ;; HUGE explosion where you're looking, does ridiculous damage on a direct hit. Only a 30 block range, though.
+§8§lExplosive Pillar
+Create a line of explosions that appear one after the other in the direction you're looking.
+BOOM-BOOM-BOOM-BOOM BOOOOOOOOOM!
+Explosions are bigger, occur more frequently, and travel further.
+SUPER-POWERED EXPLOSIONS BABY! Same as above :)
+§8§l§oEXPLOSION §8§l§oMACHINE §8§lGUN ;; Creates 3 explosive pillars that have small explosions and don't travel too far, but occur rapid-fire and are fun to use.
+§8§l§oBOOOOOM ;; Ridiculously big explosion that travels far, but doesn't occur frequently. Devastating.
+???
+Level I
+Level II
+Level III
+-MAX-
+First Path
+Second Path
+Ability Locked
+Coming soon!
+Ability Locked
+Press ${level} to unlock
+Locked but on creative mode
+Unlock Bending
+You can only use scrolls of the same or universal type
+Insert 3 scrolls of the same or universal type to unlock Bending
+No key
+Click to edit
+%1$s
+Click to edit
+type any key
+ESC to unbind
+%1$s
+Conflict w/ %1$s
+%1$s was incinerated by %2$s's §c§lfirebending!
+%1$s just got §c§lROASTED by %2$s !
+%1$s was §c§lFIRED by %2$s !
+%2$s §c§lincinerated %1$s with a §c§lfireball!
+%2$s was §c§lcremated away by %1$s's shockwave!
+%2$s was §c§lconflagrated by %1$s's fire burst!
+%1$s drowned from %2$s's §9§lwaterbending!
+%2$s's §9§lwater §9§larc drowned %1$s !
+%1$s §9§lcan't §9§lsurf!
+%1$s couldn't handle the §9§lpressure of %2$s's §9§lWater §9§lCannon!
+%2$s was §9§ldrowned by %1$s's hydrowave!
+%2$s was §9§lblasted by %1$s's §9§ltorrential burst!
+%1$s was blasted away with %2$s's §f§lairbending!
+%1$s was §f§lsliced by %2$s !
+%2$s was §f§lblown away by %1$s's shockwave!
+%2$s was §f§lripped apart by %1$s's air burst!
+%1$s was crushed with %2$s's §2§learthbending!
+%2$s §2§lsmashed %1$s with a §2§lblock!
+%2$s §2§lcrushed %1$s in a §2§lravine!
+%2$s §2§lstabbed %1$s with §2§learthspikes!
+%2$s was §2§lcrushed by %1$s's shockwave!
+%2$s was §2§lsmashed by %1$s's tectonic explosion!
+%1$s suffocated from %2$s's §6§lsandbending!
+%1$s was §6§lentombed by %1$s's §6§lsand §6§lprison!
+%2$s was §6§lflung by %1$s's §6§lsandstorm!
+%2$s was §6§lsuffocated by %1$s's sand wave!
+%2$s was §6§lsuffocated by %1$s's sand burst!
+%1$s was blown to smithereens by %2$s's §8§lcombustionbending!
+%2$s was §8§lexplodinated by %1$s's explosion!
+%2$s was §8§lannihilated by %1$s's explosion!
+%1$s was shocked with %2$s's §b§llightningbending!
+%2$s §b§lredirected lightning to §b§lelectrocute %1$s !
+%1$s had a hole §b§lvaporised in them with %2$s's §b§llightning spear!
+%2$s was §b§lvaporised by %1$s's plasma wave!
+%2$s was §b§lvaporised by %1$s's lightning burst!
+%1$s was frozen by %2$s's §3§licebending!
+The §3§lintense §3§lfrost of %2$s's §3§lice §3§lprison §3§lfroze %1$s !
+%2$s was §3§lstabbed by %1$s's §3§lice §3§lshard!
+%2$s was §3§lfrozen by %1$s's ice wave!
+%2$s was §3§lshattered by %1$s's ice burst!
+§f§lAirbender
+§c§lFirebender
+§9§lWaterbender
+Flying Bison
+Otter Penguin
+Ostrich Horse
+Avatar Items
+§d§lScroll
+§f§lAirbending §d§lScroll
+§c§lFirebending §d§lScroll
+§2§lEarthbending §d§lScroll
+§9§lWaterbending §d§lScroll
+§b§lLightningbending §d§lScroll
+§3§lIcebending §d§lScroll
+§6§lSandbending §d§lScroll
+§8§lCombustionbending §d§lScroll
+Water Skin
+Bison Whistle
+Basic Bison Saddle
+Sturdy Bison Saddle
+Studded Bison Saddle
+Majestic Bison Saddle
+Woven Bison Armor
+Chainmail Bison Armor
+Wrought Bison Armor
+Legendary Bison Armor
+Woven Ostrich Armor
+Chainmail Ostrich Armor
+Golden Ostrich Armor
+Airbending Staff
+%d/5 Water
+Empty

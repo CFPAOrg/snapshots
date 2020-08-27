@@ -1,0 +1,42 @@
+White Cloak
+Orange Cloak
+Magenta Cloak
+Light_Blue Cloak
+Yellow Cloak
+Lime Cloak
+Pink Cloak
+Gray Cloak
+Silver Cloak
+Cyan Cloak
+Purple Cloak
+Blue Cloak
+Brown Cloak
+Green Cloak
+Red Cloak
+Black Cloak
+Health Necklace
+Buffed Necklace
+Strength Necklace
+Speed Necklace
+Health Ring
+Buffed Ring
+Strength Ring
+Speed Ring
+Health Gloves
+Buffed Gloves
+Strength Gloves
+Speed Gloves
+Rpg Inventory Jewels
+Invisibility Cloak
+Left: Dispell Negative Effects
+Right: Increased Mining Speed
+1/4th Exp Bonus on Kill
+Healing
+Heal Speed
+Golden Threads
+Diamond Incrustation
+Lapis Coloring
+Emerald Exp Threads
+Emerald Cure Incrustation
+Emerald Mining Side Lining
+Emerald Defense Incrustation

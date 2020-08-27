@@ -1,0 +1,392 @@
+Blood Stained Journal
+Astral Silver Sword
+Igneous Sword
+Astral Silver Ingot
+Crossbow
+Wrist Crossbow
+Wooden Bolt
+Iron Bolt
+Silver Bolt
+Igneous Bolt
+Star Metal Bolt
+Igneous Helmet
+Igneous Chestplate
+Igneous Leggings
+Igneous Boots
+Igneous Gem
+Telescope
+Sextant
+Sunstone Fragment
+Star Metal Fragment
+Star Metal Helmet
+Star Metal Chestplate
+Star Metal Leggings
+Star Metal Boots
+Star Metal Staff
+Star Metal Khopesh
+Vitae Lantern
+Cloak of Agility
+Research Scroll
+Star Metal Plate
+Enchanted Skeleton Bone
+Sleeping Potion
+Eldritch Metal Ingot
+Star Metal Ingot
+Blade of Exhumation
+Flask of Souls
+Werewolf Blood
+Gnomish Metal Ingot
+Artwork
+Wand
+Insanity's Heights
+Debug
+Schematic Creator
+Bone Dust
+Desert Fruit
+Magic Essence
+Mystic Opal
+Power Core
+Sapphire Heart
+Smokey Quartz
+Mystic Topaz
+Cursed Veil
+Nightmare Stone
+Cursed Heart
+Cultist Tome
+Advanced Telescope
+Mastercrafted Telescope
+Lens
+Silver Ore
+Darkness
+Gravewood
+Gravewood Planks
+Gravewood Stairs
+Gravewood Slab
+Gravewood Double Slab
+Gravewood Leaves
+Gravewood Sapling
+Gravewood Fence
+Gravewood Fence Gate
+Gravewood Door
+Mangrove
+Mangrove Planks
+Mangrove Stairs
+Mangrove Slab
+Mangrove Double Slab
+Mangrove Leaves
+Mangrove Sapling
+Mangrove Fence
+Mangrove Fence Gate
+Mangrove Door
+Sacred Mangrove
+Sacred Mangrove Planks
+Sacred Mangrove Stairs
+Sacred Mangrove Slab
+Sacred Mangrove Double Slab
+Sacred Mangrove Leaves
+Sacred Mangrove Sapling
+Sacred Mangrove Fence
+Sacred Mangrove Fence Gate
+Sacred Mangrove Door
+Sunstone Ore
+Astral Silver Ore
+Meteor
+Star Metal Ore
+Igneous Block
+Spring
+Dark Forest
+Vitae Disenchanter
+Void Chest
+Void Chest Portal
+Eldritch Obsidian
+Amorphous Eldritch Metal
+Eldritch Stone
+Gnomish Metal Plate
+Gnomish Metal Strut
+Glow Stalk
+Enaria Spawner
+Enaria's Altar
+Imbued Cactus
+Imbued Cactus Blossom
+Desert Oasis
+Spell Altar
+Lens Cutter
+Afraid of the Dark
+Afraid of the Dark
+Roll with Cloak of Agility
+Fire Wrist Crossbow
+Werewolf
+Deee Syft
+Enchanted Skeleton
+Enaria
+Ghastly Enaria
+Splinter Drone
+Splinter Drone Projectile
+Enchanted Frog
+Artwork
+Iron Bolt
+Silver Bolt
+Wooden Bolt
+Igneous Bolt
+Star Metal Bolt
+Projectile
+Projectile
+Self
+AOE
+An Unbreakable Covenant
+whoops
+None
+I have recently signed this very journal in my own blood. From what I've seen so far from working with it, it appears to be otherworldly in origin. It also appears that I am the only one who can read it. I suspect that the notes I write in it are stored in an extra-dimensional location and then projected into my mind when I look at the pages. I further suspect that if I were to lose track of this journal, I could just look for a replacement and it would still contain all of my original notes and research. I have decided to organize my research in different sections based on relevance. I am certain that new opportunities will open themselves to me as I uncover more information. I can also return to the research tree by clicking the bookmark below. Additionally, I can run into others' research in the wilderness. This will take the form of research scrolls. Simply finding these scrolls and reading them will let me copy their notes into my own journal. Sometimes, there will be multiple multiple parts to a scroll and it will be labelled as such eg: part seven of nine. Sometimes, there may be stories or histories coming in multiple volumes which also contain hints for future researches.
+Enchanted Skeleton
+great prank material
+The enchanted skeletons I found in the underground dungeon appear to drop enchanted bones. These bones shake and quiver when placed close together in my hands... maybe I could experiment a little and drop them together on the ground somewhere?
+I just witnessed a pile of bones become animated. While enchanted skeletons do not do a lot of damage and appear simple to kill, they recombine after being killed and re-animate like zombies. I should try to contain the enchanted bones separately to keep them from combining. As far as I can tell, the bones are not useful for anything except bonemeal. I have also collected all the other dye recipes here for reference.
+Blade of Exhumation
+recycling your enemies
+I have just witnessed an enchanted skeleton reform from a pile of bones. I should kill it again to see if it stays dead... undead... or whatever.
+I have devised a sword specifically for fighting enchanted skeletons. When they die normally, they drop three bones and seeing as they require 4 bones to reform, I have to fight them over and over. For example, if I were to kill one hundred enchanted skeletons, seventy-five would reform. If I killed seventy-five of them, fifty-six would reform and so on. This blade ensures a one-shot kill on enchanted skeletons and makes them drop 4 bones, meaning I can easily use it to grind enchanting levels until the sword runs out of charge. The sword can be crafted with a single diamond to recharge it. The sword contains enough energy for one hundred fifty uses and after that, it becomes inert until recharged.
+Crossbow
+werewolf hunter
+None
+The journal I have recently discovered appears to contain the instructions to construct a crossbow as well as several types of bolts. I am certain more uses for this crossbow will unveil themselves in the future.
+Wrist Crossbow
+the night hunter
+The crossbow is clunky and large. Every time into the fray I charge. It just slows me down an' I take a poundin' while the bow I try to recharge. It is extraordinarily bad, and it always makes me quite mad. I wish it was better. It just seems like a fetter. I'd run faster, but I'm iron clad. I just wish it wasn't so useless! This really is killing my hubris. To thy own self me true. Yes, people like you! Oh piss off you old man Confucius! The crossbow just needs an upgrade. With someone, maybe I could trade. Except not a village, the last one I pillaged, and they always need to be paid.
+Evidently, someone else shared my opinions on the uselessness of the crossbow and has invented an interesting solution. They have made the crossbow wrist mounted, leaving the reloading to a spring-loaded mechanism. This change will allow me to hold a weapon or tool while still firing projectiles on a short cool down. Now I'd better steal this person's notes and potions before they get back...
+Werewolf Examination
+by your skin on their teeth
+I have noticed several monstrous wolves around the countryside. They look extremely dangerous, but I cannot resist getting a closer look at them! They exist in abundance in Eerie forests, which is the first place I should start looking for them.
+My encounter with the large wolves almost ended in my own death. From what I saw, I can determine that they are extremely hardy and almost impervious to conventional weapons. For now I should avoid them until I can find some... unconventional ways of killing them.
+Astronomy 1
+not astrology
+I have failed to kill the wolves. Science has failed to deliver rational answers to the source of their power. I will have to use unorthodox methods if I want to survive. I think that I should construct a telescope and take it to a high place so I can see through the clouds. Perhaps the stars can provide answers to this problem which is clearly not of this world.
+Success! My attempts at astrology and divination have yielded scientific answers! I spotted several types of meteors falling through the night sky. I think that if I follow these to their crash locations, I can discover useful materials.
+Astral Silver
+silver of the moon
+I have noticed a meteor in my telescope. I should track one down with my telescope and sextant.
+I have finished tracking down a meteor. Its composition is a material similar to elemental silver. It can be made into a sword, which seems to be about as effective as an iron sword. Its main characteristic is that it deals massive damage to werewolves. It can also be made into crossbow bolts, which share the sword's ability to harm werewolves where nothing else seems to work.
+Optics
+eye spy
+My first attempt at creating a telescope was only a partial success. I can see meteors in the telescope but the lenses are blurry and it's challenging to accurately predict the drop location. I've heard of astronomers building observatories in hilly areas, I should search them for equipment.
+Fantastic, these astronomers were researching various lenses to more accurately predict the drop locations of meteors. I can use their lens cutter to turn glass blocks into lenses for use in crafting a better telescope. I have also studied the internals of the lens cutter so I can create one myself.
+Elvovras
+legend
+The observatory mentions notes about a legendary "Elvovras" who created telescopes with unrivaled accuracy. I should search different observatories for traces of these telescopes.
+I have found one of Elvovras' legendary telescopes. This telescope will allow me to perfectly predict the drop location of meteors.
+Slaying of the Wolves
+Warwick OP
+Now that I have access to weapons which can actually hurt werewolves, I should endeavor to kill one using an astral silver sword.
+Now that I have managed to kill a werewolf, I should endeavor to collect its blood. The blood of a creature this powerful must have some magical properties which merit studying in greater depth. If I have empty glass bottles with me at the time that I slay a werewolf, I can gather a portion of its blood.
+Phylactery of Souls
+Is this worse than murder?
+If my ideas are correct regarding werewolves' regenerative powers, then I should be able to make my next creation using a portion of their blood.
+My theory was correct! Werewolves are immortal! Even if killed, they will simply regenerate somewhere else in the land. This must be part of the reason they are so powerful; some werewolves could be ancient and very intelligent! The blood of a werewolf traps the creatures soul, making it unable to die. Even if its body is destroyed, its soul will be unable to pass on and will instead be forced into a new body. This begs the question: who is controlling the werewolves? Who is cursing them to forever wander in their beast form, unable to die? Anyways, I can use the soul trapping properties of werewolf blood to trap the souls of other creatures. By constructing a bottle or flask of the most valuable crystal and diamond and filling it with werewolf blood, I can create the phylactary of souls. When it's in my hotbar and I kill a creature, it binds to the soul type of that creature. Every kill made on the same creature type will steal more pieces of the creatures' souls, until enough fragments have been gathered to form an entire soul. Once enough kills have been made, the phylactery will turn blue and transparent and can be used to summon one of the same creature type every so often, effectively providing an endless supply of whatever creature I can repeatedly slay. I already know that elder guardians, ender dragons, and withers all have souls much too powerful to be captured in this method. If I want to clear a flask's memory I can craft it together with werewolf blood.
+Cloak of Agility
+kiting fo' dayz
+I've heard tales of witches brewing up potions and infusing their effects into clothes. I should search their huts in Eerie biomes.
+I have discovered old notes which describe how to make a cloak of agility. Adding this fantastic cape to my wardrobe will allow me to dash and roll around like a demonic hedgehog on bad acid. The cloak of agility's utter fabulousness should allow me to dash every few seconds to dodge whatever attacks come my way.
+Void Chest
+enderchests for people
+All this meteor searching has lead me to notice strange buildings in the surrounding area, one of which has the appearance of a chest.
+After travelling through the massive underground chest, I think I have a clue as to how it works. If my theory is correct, it basically functions as a massive enderchest for people. I have devised a much smaller version of the large void chest. My newest creation is the same size as a regular chest. When opened, it will suck in the one who lifted its lid and draw them inside itself. If the void chest is destroyed, it can simply be replaced by another one without anything inside being lost, similar to an ender chest. The first person who activates a void chest will be its owner until it is broken, meaning unwanted guests cannot enter. However, if I want to enable a friend to visit the inside of my chest, I simply right click the void chest with a name tag that has the name of the friend on it. Trying to add a friend when they are already added will instead remove them. All void chests owned by one person will lead to the same location. Void chests owned by one person do not share a friend list and breaking a void chest will reset the owner and delete all friends on that particular chest.
+Eldritch Decoration
+only the worst abominations would... decorate
+None
+After examining the void chest, I am certain that I can replicate some of the building blocks. These blocks serve no purpose besides decoration. Maybe now I can make a scale model of the profane city R'lyeh. Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn! Cthulhu fhtagn! Cthulhu fhtagn! Yeah good luck pronouncing that.
+Dark Forest
+cults can be fun
+Despite my successes with astral silver, there is reason to be wanting more. I know there must be more advanced methods of combating werewolves and the undead legions. I recall once reading about areas in the world where strange energies caused trees to grow extraordinarily tall and twisted. I should visit one of these locations to perhaps enhance the quality of my astral silver tools. I should look for these forests in flat areas.
+It seems that I am not the first person to have the idea to explore this place. I found a small, yet deserted compound within the dark forest. I cannot shake this eerie feeling of doom this place gives me.
+Sleeping Potion
+they drank the kool-aid
+I've recently visited an abandoned house in a forest. It looks like it was previously inhabited by some cult or other. Where did they go? They left plenty of white clothes behind along with other strange items. I've heard before that some cult leaders will poison their followers by contaminating their drinking water somehow and thus turning a cult into a mass suicide cult. Maybe I could test the water springs around the dark forest house. Either way, I should bring a filled water bottle there to see what happens.
+This was most unexpected. Simply having a water bottle in the dark forest house will turn it into a sleeping potion of some kind. When drunk, it makes the consumer drowsy and more willing to sleep in a bed. I want to take a nap.
+Nightmare
+I see Them every night
+The house inside of the dark forest makes my eyelids heavy with sleep. This drowsyness makes me able to sleep at any time. I wonder what my dreams would be like if I slept while under these effects?
+I woke up in my own dreams on an island floating nowhere. Red fogs and mists swirled around me. This place is insanity itself. I can almost feel my thoughts degrading from the oppressive atmosphere. Although I wish for nothing else but to leave, I know that I must stay and search for whatever treasure I may find here.
+Insanity
+gibbering madness
+I can sense great power in my dreams. I know there is important information hidden here. I should continue searching until I find it.
+I have seen things, things that were not meant for the eyes of men. These things make my vision fog and my mind cloud. I don't want to see them. I don't want to see them. Shut up! Shut up! Leave me alone! MEANS: A moment before the dawn now and not there was a strife amongst the barely a linear curve teem
+Vitae 1
+The Colour of Magic
+I need to search my nightmare more.
+I have discovered a mystical substance which I have named vitae. Vitae is an energy that can exist inside or outside of creatures. It can be tapped to power various functions, although I don't know of any. Every creature has a quantity of vitae inside of them. If that level were to go too high, the energy would run rampant and expend itself on random effects, some of them deadly. Vitae appears to be able to also exist inside of non-organic objects.
+Astronomy 2
+OP incoming
+I can sense great power in my dreams. I know there is important information hidden here. I should continue searching until I find it.
+I have found what I was searching for in my dreams. I now know how to track two new types of meteors using my telescope.
+Igneous
+totally not a sunfire cape
+I have tracked a new type of meteor. I should find it and see what materials reside within.
+I have discovered strange gems inside of a meteor. I have named the gems sunstones for their warm feeling and vibrant colors. Sunstones can be combined with diamonds to create igneous gems, powerful crystals which contain trapped elemental fire within their latices. Igneous gems burn their holder severely, so caution must be taken handling them. I should invest in a good fire blanket... If igneous gems are gathered, they can be crafted into igneous armor, a powerful suit which renders the user impervious to damage from fire and resistant to lava. In addition, when wearing a full suit of igneous armor, the armor lights any attackers on fire, regardless of the attacks being ranged or physical. It will also knock attackers back making it an excellent tool against quick mobs. Igneous gems can also be made into a sword which lights enemies on fire. Striking enemies builds up a magical charge. When the sword is at maximum charge, it glows with latent energy. When energized, it can unleash a flaming tempest with a right click. It should also be noted that igneous crossbow bolts will deal massive damage to werewolves.
+Star Metal
+troll pole
+I have tracked a new type of meteor. I should find it and see what materials reside within.
+Upon rummaging around the insides of an asteroid, I have discovered a new material, which I have named starmetal. Starmetal ingots are made by smelting starmetal fragments. If starmetal ingots are combined with iron ingots, they can be made into starmetal plates, which can then be forged into various tools and armor. Starmetal armor provides superior protection to diamond, and gives the user an overshield which will absorb damage before the user. A starmetal khopesh gains energy upon striking an enemy. When it reaches maximum charge, it will begin to shimmer with arcane power. When at maximum charge, it can unleash a devastating area of effect slash by using right click. In addition to the khopesh, a staff can be made out of starmetal. Every so often, the wielder can activate the starmetal staff to jump on top of it, becoming invulnerable for several seconds, dodging everything from arrows to cataclysmic world-annihilating explosions as if you rolled a natural 20 on your dodge check. It should also be noted that star metal crossbow bolts will deal massive damage to werewolves.
+Gnomish City
+Where'd they all go?
+After peering to the stars at night I have read ancient books about great gnomish cities deep in the earth. While certainly rare, story has it that the city appears to be lead by an almost limitlessly powerful leader.
+I have encountered an extensive underground city which I believe to have been created by... gnomes. This abandoned city is filled with bounties of treasure, undead, and machines created by its former owners. These automatons, called Splinter Drones, guard the ruined hallways of their deceased or departed masters. Splinter Drones are deadly with their rapid-fire plasma cannons and can easily mow down anything their perceive as a threat. Too bad they're fine with zombies and enchanted skeletons... I am sure that I will eventually be able to modify a drone's friend or foe identification, so that it will follow and protect me. I hear whispers from the deep... whispers which I can now comprehend.
+Enaria
+This doesn't sound too hard!
+Enaria is in the lowest level of the Gnomish city. If I can rid the world of her wretched form, perhaps I can also become magically adept myself.
+Now that I have defeated Enaria, secrets have unveiled themselves about a new power. I have always adored reading about the ancient mages of the past able to detonate mountains with a simple blink. After Enaria's fall, I felt beset by a compelling influential presence. I wonder what it may unveil to me.
+Enaria's Secret
+spells at last
+Ever since Enaria's demise I have been sleepless. Whispers taunt me in the night. I recall seeing Enaria's phantom quietly dancing in my nightmares, and now this similar slight murmur beckons me to return.
+New Research!
+Insanity's Heights
+Foul Ole Ron
+To whomever finds this: don't stay here. This place is evil. I have been stuck here for longer than I can remember. I can hear the abyss calling to me. It beckons me to jump, calling my name. I've found all of the notes, but I cannot;;leave with them. There are ten scrolls hidden here. Three are in the tallest tower, with two being near the top and one being near the bottom. The saw mill whispers such sweet things to be. The stone tower says that it has two;;gifts for me. What pretty things they have, so many rings. Enaria's bones whisper to me from her grave. I'm sorry; we tried to save you! Her whispers make me want to hide inside of the log. The roof top rooms are hiding something;;from me. They always stay quiet when I am near. I know they are keeping secrets from me! What has it told you? What has the monolith told you to make you stop talking to me? Answer me Enaria! Where have you gone? Have you left me?;;You said we would be together forever!
+Wooden
+Iron
+Silver
+Igneous
+Star Metal
+Astral Silver
+Star Metal
+Igneous
+Crypt
+Witch Hut
+Void Chest
+Dark Forest
+Gnomish City
+Desert Oasis
+Observatory
+Creative
+Experience
+Dig
+Explosion
+Teleport
+Grow
+Heal
+Feed
+Potion Effect
+Smoke Screen
+Burn
+Cleanse
+Extinguish
+Ender Pocket
+Freeze
+Charm
+Self
+Projectile
+AOE
+Laser
+Delay
+I'm not sure how to use this
+Magical items will never break.
+Magical armor will never break.
+Use %1$s to perform a roll in
+the current direction of movement
+Flask unbound
+Hold this in your hotbar while
+killing a mob to bind this flask
+Flask bound to: %1$s
+Flask complete, cooldown is %1$s§
+Flask bound to: %1$s
+Kills: %1$s/%2$s
+Knocks back enemies that hit you.
+Gives you two absorption hearts per piece.
+Right click to use an AOE fire strike
+centered on the block you are looking
+at when charged to 100%
+Soulbound to %1$s
+Unbound
+Cheatsheet
+Click researches to unlock them.
+Scroll part %1$s/%2%$s of the research %3$s.
+%1$s
+Scroll is corrupt.
+Right click to use an AOE knockback and
+damage attack when charged to 100%
+Spell: %1$s
+Cost: %1$s
+Spell on wand is invalid.
+Wand does not have a spell bound yet.
+Do so with crouch & right click.
+Crouch & Right click to change crossbow bolt type.
+Bow will fire: %1$s bolts.
+Bow is loaded
+Bow is unloaded
+Use %1$s to fire a bolt in the current look direction.
+Crouch & %1$s to change bolt type.
+Accurate to %1$s blocks
+§cWhat have I done?
+§oI expected something to happen... but nothing did. Perhaps the name I signed was incorrect?
+§oI need to fill out all the fields to accurately predict the meteor's landing coordinates.
+§oThe calculation was not successful, the values entered must be integers.
+§oWrist crossbow(s) will now fire %1$s§o bolts.
+§oWrist crossbow(s) are reloading...
+§oI'll need a %1$s§o bolt in my inventory to shoot.
+§oI'll need a wrist crossbow in my inventory to shoot.
+§oI'm too tired to roll again (%1$s§os).
+§oI need to be on the ground to roll.
+§oI'm not sure how to open this chest.
+The void chest refuses to work in this dimension.
+The owner of this chest has been set to %1$s
+Player %1$s was added to this chest's friend list.
+Player %1$s was removed from this chest's friend list.
+The account %1$s does not exist, are you sure you spelled the name correctly?
+§oI can't edit the access of this chest
+§oI can't access this chest
+/AOTD, /aotd, and /afraidofthedark work for all commands:
+/AOTD help - Lists all AOTD Commands
+/AOTD dungeon - Lists all dungeon Commands
+AOTD dungeon commands:
+/AOTD dungeon - Lists all dungeon Commands
+/AOTD dungeon types - Lists all dungeon types present possible
+/AOTD dungeon list - Lists all dungeons present in the world
+/AOTD dungeon list <type> - Lists all dungeons of a type present in the world. See /AOTD dungeon types
+/AOTD dungeon info - Gets dungeon information in the player's current chunk
+/AOTD dungeon regenerate - Regenerates a dungeon in the player's current chunk
+Registered dungeon types:
+Structure %1$s with corner at [%2$s, %3$s, %4$s]
+Extra NBT debug info: %1$s
+No structures in your chunk.
+Must be in the overworld to get a chunk's structure info
+No structures in your chunk to regenerate.
+Must be in the overworld to regenerate a chunk's structure.
+All Overworld dungeons:
+%1$s with corner at [%2$s, %3$s, %4$s] ~ %5$s blocks away.
+Overworld dungeons of type [%1$s]:
+Unknown structure type [%1$s]
+An error occoured when computing a re-spawn position upon returning to your dimension later so the teleport can't happen. Try finding a more open place to enter the portal/chest at!
+An error occoured when computing a re-spawn position upon returning to your dimension later so the teleport can't happen. Try finding a more open place to enter the portal/chest at!
+Flask is on cooldown (%1$ss)!
+Flask is unbound or incomplete!
+§oI cannot comprehend this journal...
+This scroll is not complete yet.
+§oI don't understand the material referenced in this research scroll.
+§oI have already studied this research scroll.
+Scroll is corrupt.
+Spell set to %1$s.
+Invalid spell stored on the wand, please update it with crouch & right click.
+No spell set on wand, please do so with crouch & right click.
+You do not have any spells to bind to the wand.
+§oI can't see anything through these thick clouds. Maybe I could move to a higher elevation.
+§oI'll need a %1$s§o bolt in my inventory to shoot.
+§oCrossbow will now fire %1$s§o bolts.
+Star metal staff is on cooldow (%1$ss)!
+The block whispers to me... what does it mean?
+§oBased off of this information the meteor fell around %1$s§o, %2$s§o.
+§oThe values entered do not make sense. I should try to re-enter the meteor's data or observe a new meteor.
+It appears that this is a %1$s meteor falling to earth. I have observed some information on it:
+Drop Angle: %1$s°, Latitude: %2$s°, Longitude: %3$s°
+§oI should probably write these values down and later calculate the landing position using my sextant.
+§oI'll need to do some more research before I can craft this.
+§5[Afraid of the Dark] %1$s chunks are still being generated, please wait while these finish generating...
+I'll need more energy to perform the ability.
+I can't understand who I'm fighting...
+My mind is too clouded to cast spells here.
+Invalid spell. Make sure to have delivery methods on each spell stage and a power source!
+You must be in creative mode to cast this spell.
+Not enough experience levels to cast this spell.
+Spell '%1$s' saved successfully.
+Property %1$s did not have a valid value - %2$s
+All properties saved successfully.
+§oThe book appears to be empty.
+The lens cutter can only make lenses out of glass.
+§oI don't understand how this works.

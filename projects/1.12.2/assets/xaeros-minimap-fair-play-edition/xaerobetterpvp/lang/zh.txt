@@ -1,0 +1,346 @@
+Confirm
+Cancel
+Back
+Delete
+OK
+Add/Edit
+New Waypoint
+initial
+Edit Waypoint
+Armour Status Settings
+Choose a preset
+Choose an Interface
+Armour Status
+Notifications
+Minimap
+Miscellaneous
+Edit Mode
+Instructions/Help
+You need to be in-game to use edit mode!
+Welcome to Edit Mode!
+Left click an interface to select it.
+Left click and drag to move an interface around.
+Right click to deselect an interface.
+Press "C" to center or uncenter a selected interface.
+Some interfaces have a different centered look.
+Press "F" to flip or unflip a selected interface.
+Press "S" to quickly access settings of a selected interface.
+Select a preset by clicking the "Choose a preset" button.
+Save your changes by clicking the "Confirm" button.
+Cancel your changes by clicking the "Cancel" button.
+Minimap Settings
+Miscellaneous Settings
+Notification Settings
+Better PVP Settings
+The server might have disabled some of the mod features.
+Waypoints
+An interface displaying currently active potion effects.
+An interface displaying info about your currently worn armour and item held at the time.
+Sprint by holding one single key bind (configurable).
+Allows you to toggle your sneak ON/OFF and stay sneaking without having to hold anything.
+On-screen notifications for various things such as low hunger, low HP, danger of explosion, being shot by (an) arrow(s).
+Gained or lost experience flies across your screen. gainz
+Action bar-like system of keybinds that lets you automatically use a set item in your hot bar without having to switch away from your currently held item. Holding the key bind lets you keep using the item like if you were holding the right mouse button. For example: placing torches, TNT, throwing potions, eating food, drinking.
+A minimap displaying you your nearest surroundings and entities.
+Centered:
+(pr. C)
+Flipped:
+(pr. F)
+Fancy
+Classic
+Social
+Potion Status
+Display Arrows Left
+Better Sprint
+Toggle Sneak
+Enchants Color
+Durability In
+Hunger Notification
+Health Notification
+Explosion Notification
+"Being Shot" Notific.
+XP Drops
+Custom Settings
+Reset Defaults
+Quick Item Use
+Display Enchants
+Cave Maps
+Disp. Other Teams
+On-map Waypoints
+Display Players
+Display Mobs
+Display Items
+Display Other
+Zoom
+Minimap Size
+Entity Amount
+Black
+Dark Blue
+Dark Green
+Dark Aqua
+Dark Red
+Dark Purple
+Gold
+Gray
+Dark Gray
+Blue
+Green
+Aqua
+Red
+Purple
+Yellow
+White
+Percent
+Numeral
+Both
+Tiny
+Small
+Medium
+Large
+PVP Sprint
+Quick Eat
+Toggle Sneak
+Quick Use 1
+Quick Use 2
+Quick Use 3
+Quick Use 4
+Quick Use 5
+Quick Use 6
+Quick Use 7
+Quick Use 8
+Quick Use 9
+Minimap Zoom In
+Minimap Zoom Out
+ON
+OFF
+Restores
+Top-Left
+Top-Right
+Teleport
+Waypoints
+Display Coordinates
+Disable/Enable
+disabled
+Click and drag to move the minimap around.
+Change Position
+Bottom-Left
+Bottom-Right
+In-game Waypoints
+Next >>
+<< Prev
+Lock North
+Latest Death
+Old Death
+Deathpoints
+Chunk Grid
+Entity Colours
+Players
+Friendly Mobs
+Hostile Mobs
+Items
+Other Entities
+Low Hunger
+Low Health
+Enlarge Minimap
+Beta
+Potion Status Settings
+Potion Effect Names
+Opacity
+Slime Chunks
+Unlimited
+Keep Old Deathpoints
+Toggle Minimap
+Anti-Aliasing
+Safe Mode
+Transfer
+Transfer All Waypoints
+Clear Set
+From
+To
+Seed To Use:
+Distance To WP
+Ingame Waypoints Scale
+Block Colours
+Accurate
+Vanilla
+Lighting
+Low Air Notification
+Low Air
+Looking At
+All
+Display Redstone
+Are you sure you would like to clear current set
+All the waypoints will be deleted from the set.
+Default
+New Waypoint Set
+World
+Set
+Delete Set
+Are you sure you would like to delete current set
+The set will be removed from current world.
+Toggle Ingame Waypoints
+Entity Dots Scale
+Entity Info
+Toggle Slime Chunks
+Toggle Chunk Grid
+Compass Over Waypoints
+Display Hostile Mobs
+An interface displaying information about the living entity that you are pointing at including players.
+Entity Info Settings
+Keep Entity Info For
+Reach Distance
+Max Amount of Hearts
+Show Current Biome
+Auto
+Are you sure you would like to reset default settings?
+This action can't be reversed.
+Health In Numbers
+yaw
+true
+false
+Team Colours
+Quick Waypoint
+Show Entity Depth
+Held Item Full Amount
+Display Flowers
+Display Entity Model
+WP Name Above Distance
+Max WP Draw Dist.
+Default Teleport Command
+Min WP Draw Dist.
+Other Teams
+Armour In Numbers
+Armour Value
+Arrow Scale
+Arrow Colour
+Smooth Dots
+Caves Zoom-in
+Lock Player Heads
+Use Java (CPU) based equivalent of the mod instead of OpenGL (GPU). Safe mode is a plan B, incase the mod fails normally. Not all features work in safe mode.
+Entity Height Limit
+World Map
+Use World Map Chunks
+Patreon Capes
+Entity Radar
+Potion Effects (SP only)
+Potion Effects Scale
+Terrain Depth
+Terrain Slopes
+Block Transparency
+Team
+World/Server
+Sub-World/Dimension
+Switch Waypoint Set
+Waypoint Opacity Ingame
+Waypoint Opacity On Map
+Hide IPs/World Names
+Open On Key Press
+Options
+Make World/Server Auto
+Are you sure?
+This will swap all waypoint data of the selected world/server and the automatic world/server, thus simulate making the selected world automatic. Make sure you know what you're doing.
+Make Sub-world Auto
+Are you sure?
+This will swap all waypoint data of the selected sub-world and the automatic sub-world, thus simulate making the selected sub-world automatic. Make sure you know what you're doing.
+Delete World/Server
+Would you like to delete all waypoints data for the selected world/server?
+This action cannot be reverted. Make sure you know what you're doing.
+Delete Sub-world
+Would you like to delete all waypoints data for the selected sub-world?
+This action cannot be reverted. Make sure you know what you're doing.
+Always Disp. WP Dist.
+Item Tooltip
+Item Tooltip Settings
+Minimum Lines
+Show For
+Player Head Names
+Sub-World Coordinates * 8
+Sub-World Coordinates / 8
+This option should only be used to fix incorrect waypoint coordinates.
+Are you sure you would like to MULTIPLY all sub-world coordinates by 8?
+Are you sure you would like to DIVIDE all sub-world coordinates by 8?
+Share
+Are you sure you would like to share this waypoint with §cEVERYONE§f in chat?
+Please make sure you don't expose a secret location.
+Roof
+Partial
+Full
+Show Light Level
+[Go Up]
+[Go Down]
+Toggle All WP Sets Render
+Overlay Render Layer
+Display Game Time
+24h
+12h
+temporary
+Restore
+Biomes In Vanilla Mode
+Blink When Low
+Multiworld Detection
+Close
+WP Dist. Horis. Angle
+WP Dist. Vertic. Angle
+Teleportation
+Once disabled, can only be enabled through the config file!
+Disable if this is a simple server with a single world (no lobbies, game mode worlds etc). Multiworld detection can only cause issues on such servers. Installing the mod on server side should prevent the issues though.
+Teleport Chat Command
+Use Default
+Waypoint Name
+Center When Enlarged
+Zoom Out When Enlarged
+Sort By
+Reversed Sort Order
+Unsorted
+Name
+Initial
+Distance
+Mapping mode that can go deeper than the surface blocks, mainly to display underground caves and interiors of buildings. The roof size stands for the size of a solid horizontal "square" of blocks that needs to be detected above you to activate the cave mode.
+The limit per each entity category.
+Which ingame waypoints to show the distance to for.
+Display distance even when the waypoint is very close. This does not override the "Distance To WP" option.
+Scale for the arrow used in the non-rotating variant of the minimap and some other cases.
+Color of the arrow used in the non-rotating variant of the minimap and some other cases.
+Display player heads instead of coloured dots even if the TAB key is not pressed.
+How much to zoom further in when the cave maps mode is active.
+Display entities darker depending on their Y level relative to you.
+Maximum Y level distance for entities until they are no longer displayed.
+Render compass letters (N, E, S, W) over the on-map waypoints.,
+Toggle On-map Waypoints
+Entity Name Tags
+Info Text Alignment
+Center
+Left
+Right
+Show View Angles
+Display entity name under the dot for entities that have a name tag.
+The command used for waypoints teleportation if a server-specific command is not set in the waypoints menu Options screen.
+One-by-one
+All
+Compass
+Cave Maps Depth
+Reset
+Main Entity As
+Arrow
+Dot
+Crosshair
+Unable to teleport because it would tell you the waypoint coordinates. Disable "Hide Waypoint Coords" to be able to freely teleport again.
+Hide Waypoint Coords
+Show
+Hide
+Teleport Anyway
+Shows you the coordinates!
+Render All Waypoint Sets
+Global
+Local
+Arrow Opacity
+Maximum render distance for local waypoints. Global waypoints are not affected.
+Add Sub-World Connection
+Delete Sub-World Connection
+Connect/disconnect selected sub-world to/from the current "auto" one. Only connect sub-worlds that are from the same world save. For example, if a vanilla Nether portal takes you from sub-world A to sub-world B, then you can connect them. Sub-worlds connected to your current one are always at the top of the list and are marked by a * symbol.
+Would you like to create the following connection between sub-worlds?
+Would you like to delete the following connection between sub-worlds?
+You are trying to teleport to a sub-world which isn't connected to the current "auto" one. If you are sure that this sub-world is from the same sub-server/world save, then you can enable teleportation by adding a connection in the waypoints menu -> Options -> Add Sub-World Connection. However, if you connect unrelated sub-worlds and teleport, then you might suffocate in a block or die from fall damage, so don't do that.
+Ignore Server Heightmaps
+Some servers put custom values in the world heightmaps, which can cause incorrectly rendered maps. Sometimes it can even happen in heavily modded singleplayer worlds. This option should fix such issues at the expense of a bit of performance. Do not use unless you need to. Reenter the world after toggling the option!
+Error loading server minimap properties. Please retry.

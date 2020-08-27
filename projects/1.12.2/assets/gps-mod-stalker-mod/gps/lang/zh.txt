@@ -1,0 +1,20 @@
+GPS Mod
+GPS
+GPS
+GPS
+GPS
+Trilateration Tool
+OFF
+IDLE
+ON
+SUPERCHARGED
+New mode: %s
+No players visible
+Trilateration failed. There are most likely too few trilateration points available.
+Added current position to trilateration points.
+Failed to add current position to trilateration points. Please make sure you selected a target and that your target is available.
+The target being tracked has been switched to %s.
+A Waypoint has been added to your journeymap.
+Trilaterate
+World Spawn
+Player Spawn

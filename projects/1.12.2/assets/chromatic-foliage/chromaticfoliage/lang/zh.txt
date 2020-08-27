@@ -1,0 +1,25 @@
+Chromatic Foliage
+Chromatic Grass Block
+Chromatic Oak Leaves
+Chromatic Spruce Leaves
+Chromatic Birch Leaves
+Chromatic Jungle Leaves
+Chromatic Acacia Leaves
+Chromatic Dark Oak Leaves
+Black
+Blue
+Brown
+Cyan
+Gray
+Green
+Light Blue
+Light Gray
+Lime
+Magenta
+Orange
+Pink
+Purple
+Red
+White
+Yellow
+Illuminated

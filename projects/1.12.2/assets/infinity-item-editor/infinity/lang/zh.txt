@@ -1,0 +1,390 @@
+Infinity Item Editor
+Edit Current Item
+Copy Target Player Equipment
+Save current item to the realm
+You need to be in creative mode to save items
+Infinity - Unavailable
+Infinity - Banners
+Infinity - Heads
+Infinity - Fireworks
+Infinity - Thief
+Infinity - Realm
+Infinity - Void
+Close
+Save
+Drop
+Reset
+Clear
+Infinity Editor
+Spawn Egg Editor
+Head Editor
+Armor Stand Editor
+Color Editor
+NBT Editor
+NBT Browser
+Enchanting
+Potion Brewing
+Book Editor
+Attributes Editor
+Chest Inventory
+Hide Flags
+Banner Maker
+Preview Rocket
+Special NBT
+Head Collection
+Lore Editor
+Sign Editor
+Texture Paint
+Villager Trades Editor
+Villager Trade Editor
+Item Picker
+Lore Painter
+Armor Stand Pose Editor
+Only resets rotations!
+Note: It may be difficult to remove the armorstand without commands.
+Marker disables interaction and makes hitbox small.
+Input Value
+Infinity
+Additive +
+Multiplicative *
+Exponential **
+Any Slot
+Mainhand
+Offhand
+Head
+Chest
+Legs
+Feet
+Mob Flying Speed
+Title
+Author
+Generation
+Resolved
+Has been resolved by server
+Unresolved
+Unsign
+Resign
+Show Applicable
+Show All
+Add All Visible
+Entity Specific
+Mob Specific
+%s Specific
+Animal Specific
+Might lag, when loading player info.
+This is a vanilla problem.
+List current players on the server.
+--Not implemented yet--
+Alphabet
+Animals
+Blocks
+Decoration
+Food/Drinks
+Humans
+Humanoid
+Misc
+Monsters
+Plants
+Click to put head in empty slot
+Hold shift to drop head
+Type to search
+Click to search!
+Page %s/%s
+Change Category
+Takes a few seconds to load
+Free slots: %s
+In inventory: %s
+If no heads are loading, install LetsEncryptCraft mod or set your launcher to a newer Java version!
+Switch View
+Join Discord
+Share Item
+Remove all colors
+Hold shift to copy /give command to your clipboard
+You can then paste it somewhere else
+Item ID
+Count
+Meta
+Item Name
+Lore
+Update NBT
+Click to expand Compound Tag
+Click to collapse Compound Tag
+Skeleton Skull
+Wither Skull
+Zombie Head
+Player Head
+Creeper Head
+Dragon Head
+Time (Seconds)
+Amplifier
+Hide Particles
+Show Particles
+Add Trade
+Left click to edit
+Right click to remove
+Clear trades
+This is a copy of your inventory. Changes will not be saved.
+Add line
+Copy lore
+Copy tooltip
+Paste
+Insert
+Preview
+Scale
+Full Block
+Medium Shade
+Dark Shade
+Empty Space
+Enchantment: shown
+Enchantment: hidden
+Attribute Mod: shown
+Attribute Mod: hidden
+Unbreakable: shown
+Unbreakable: hidden
+Can Destroy: shown
+Can Destroy: hidden
+Can Place On: shown
+Can Place On: hidden
+Item Info: shown
+Item Info: hidden
+Edit String
+Entity Tags
+Mob Specific
+SkullOwner
+Breakable
+Unbreakable
+On fire for %s ticks
+Not on fire
+Change Custom Name
+No Gravity
+Gravity
+Invulnerable
+Vulnerable
+Custom Name Visible
+Custom Name Hidden
+Silent
+Not Silent
+Glowing
+Not Glowing
+%s Health
+Dead
+%s Absorption
+No Absorption
+Elytra Gliding
+Normal Falling
+AI Disabled
+AI Enabled
+Doesn't Despawn Normally
+Despawns As Normal
+Picks Up Loot
+Ignores Loot
+No Arms
+Has Arms
+Normal
+Small
+Visible
+Invisible
+Has Base Plate
+No Base Plate
+Not Marker
+Marker
+Equipment
+Pose
+%s ticks for egg
+Ready to lay egg
+Powered
+Unpowered
+Explosion Radius: %s
+No Explosion Radius
+Time to explode: %s
+Instant Explosion
+Ignited
+Unignited
+Undefined Lifetime
+Lifetime: %s
+PlayerSpawned: 0
+PlayerSpawned: 1
+Random Variant
+Red Variant
+Blue Variant
+Green Variant
+Cyan Variant
+Silver Variant
+Saddled
+Unsaddled
+White Wool
+Orange Wool
+Magenta Wool
+Light Blue Wool
+Yellow Wool
+Light Green Wool
+Pink Wool
+Gray Wool
+Light Gray Wool
+Cyan Wool
+Purple Wool
+Blue Wool
+Brown Wool
+Dark Green Wool
+Red Wool
+Black Wool
+Sheared
+Has Wool
+White
+Orange
+Magenta
+Light Blue
+Yellow
+Light Green
+Pink
+Gray
+Light Gray
+Cyan
+Purple
+Blue
+Brown
+Dark Green
+Red
+Black
+Size: %s
+Size: %s
+Random Skin
+Farmer Skin
+Librarian Skin
+Priest Skin
+Smith Skin
+Butcher Skin
+Nitwit Skin
+Willing
+Unwilling
+Johnny Behavior
+Normal Behavior
+Baby
+Adult
+Can Break Doors
+Cannot Break Doors
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+XII
+XIII
+XIV
+XV
+XVI
+XVII
+XVIII
+XIX
+XX
+XXI
+XXII
+XXIII
+XXIV
+XXV
+XXVI
+XXVII
+XXVIII
+XXIX
+XXX
+XXXI
+XXXII
+XXXIII
+XXXIV
+XXXV
+XXXVI
+XXXVII
+XXXVIII
+XXXIX
+XL
+XLI
+XLII
+XLIII
+XLIV
+XLV
+XLVI
+XLVII
+XLVIII
+XLIX
+L
+LI
+LII
+LIII
+LIV
+LV
+LVI
+LVII
+LVIII
+LIX
+LX
+LXI
+LXII
+LXIII
+LXIV
+LXV
+LXVI
+LXVII
+LXVIII
+LXIX
+LXX
+LXXI
+LXXII
+LXXIII
+LXXIV
+LXXV
+LXXVI
+LXXVII
+LXXVIII
+LXXIX
+LXXX
+LXXXI
+LXXXII
+LXXXIII
+LXXXIV
+LXXXV
+LXXXVI
+LXXXVII
+LXXXVIII
+LXXXIX
+XC
+XCI
+XCII
+XCIII
+XCIV
+XCV
+XCVI
+XCVII
+XCVIII
+XCIX
+C
+CI
+CII
+CIII
+CIV
+CV
+CVI
+CVII
+CVIII
+CIX
+CX
+CXI
+CXII
+CXIII
+CXIV
+CXV
+CXVI
+CXVII
+CXVIII
+CXIX
+CXX
+CXXI
+CXXII
+CXXIII
+CXXIV
+CXXV
+CXXVI
+CXXVII
+CXXVIII

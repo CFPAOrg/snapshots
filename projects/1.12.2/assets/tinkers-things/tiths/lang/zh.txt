@@ -1,0 +1,518 @@
+Cinnabar Ore
+Ink Powder Ore
+Blackrock Ore
+Redins Ore
+Shell Ore
+Corundum Ore
+Nitre Ore
+Pyrophyllite Ore
+Iceland Spar Ore
+Spinel Ore
+Talcum Ore
+Tourmaline Ore
+Immersed Silver Ore
+Mithril Ore
+Adamantine Ore
+Inert Witherium Ore
+Witherium Ore
+Rutile Ore
+Polarium Ore
+Halleium Ore
+Altairium Ore
+Hothium Ore
+Tonium Ore
+Stellarium Ore
+Sun Stone Ore
+Moon Stone Ore
+Wild Tree Root
+Opal Ore
+Topaz Ore
+Lizanite Ore
+Cordierite Ore
+Prehnite Ore
+Proustite Ore
+Broken Bedrock Ore
+Vibrating Crystal Ore
+Lava Crystal Ore
+Steamium Ore
+Aventurine Ore
+Ulun Ore
+Potos Ore
+Furutorin Ore
+Heavesand Ore
+Chloroplast Ore
+Blood Sand
+Meteorolite
+Block of Cinnabar
+Block of Ink Powder
+Block of Stellarium
+Block of Royal Alloy
+Block of Immersed Silver
+Block of Mithril
+Block of Adamantine
+Block of Blackrock
+Block of Inert Witherium
+Block of Witherium
+Block of Corundum
+Block of Nitre
+Block of Pyrophyllite
+Block of Iceland Spar
+Block of Spinel
+Block of Talcum
+Block of Tourmaline
+Block of Redins
+Block of Titanium
+Block of Polarium
+Block of Halleium
+Block of Altairium
+Block of Hothium
+Block of Tonium
+Block of Cocoa
+Stellarium Obsidian
+Blood Pumpkin
+Weeping Pumpkin
+Consolidated Glass
+Coagulated Blood Sand
+Block of Sun Stone
+Block of Moon Stone
+Block of Irisia
+Fulgurite
+Block of Opal
+Block of Topaz
+Block of Lizanite
+Block of Cordierite
+Block of Prehnite
+Block of Proustite
+Cloud
+Block of Oraclium
+Block of Vibrating Crystal
+Block of Lava Crystal
+Block of Steamium
+Block of Aventurine
+Block of Ulun
+Block of Potos
+Block of Furutorin
+Block of Heavesand
+Block of Chloroplast
+Molten Royal Alloy
+Molten Stellarium
+Molten Hothium
+Molten Cinnabar
+Molten Immersed Silver
+Molten Mithril
+Molten Adamantine
+Molten Inert Witherium
+Molten Witherium
+Molten Polarium
+Molten Halleium
+Molten Altairium
+Molten Cocoa
+Molten Titanium
+Molten Tonium
+Molten Irisia
+Molten Oraclium
+Molten Steamium
+Molten Chloroplast
+Ender Turbulence
+Dirty Water
+Hot Bread
+Hot Fish
+Debug Tool
+Spider Leg
+Hard Spider Leg
+Cinnabar
+Ink Powder
+Broken Ice
+Shell
+Sky Crystal
+Storm Crystal
+Phantom Crystal
+Anti Grav Crystal
+Blackrock
+Redins
+Corundum
+Nitre
+Pyrophyllite
+Iceland Spar
+Spinel
+Talcum
+Tourmaline
+Sun Stone
+Moon Stone
+Tree Root
+Opal
+Topaz
+Lizanite
+Cordierite
+Prehnite
+Proustite
+Broken Bedrock
+Vibrating Crystal
+Lava Crystal
+Aventurine
+Heavesand
+Potos
+Furutorin
+Flun
+Stellarium Nugget
+Royal Alloy Nugget
+Immersed Silver Nugget
+Mithril Nugget
+Adamantine Nugget
+Inert Witherium Nugget
+Witherium Nugget
+Titanium Nugget
+Polarium Nugget
+Halleium Nugget
+Altairium Nugget
+Hothium Nugget
+Tonium Nugget
+Cocoa Nugget
+Irisia Nugget
+Flesh
+Oraclium Nugget
+Steamium Nugget
+Chloroplast Nugget
+Stellarium Ingot
+Royal Alloy Ingot
+Immersed Silver Ingot
+Mithril Ingot
+Adamantine Ingot
+Inert Witherium Ingot
+Witherium Ingot
+Titanium Ingot
+Polarium Ingot
+Halleium Ingot
+Altairium Ingot
+Hothium Ingot
+Tonium Ingot
+Cocoa Ingot
+Irisia Ingot
+Oraclium Ingot
+Steamium Ingot
+Grain Ingot
+Chloroplast Ingot
+Hardener
+Polisher
+Inky Slime
+Driller
+Phasing Gemf
+Ender Crevice Shard
+Cinder
+Ender Dragon Squama
+Cooked Flesh
+Cooked Shell
+Withering Essence
+Ingot of Mercury Sulfide
+Crystal of Former
+Searing Vent
+Block of Mercury Sulfide
+Chiseled Bloody Quartz Block
+Pillar Bloody Quartz Block
+Bloody Quartz Block
+Tinker Disintegrator
+Gateway Gem
+Ancient Book of Irisia
+Music Disc
+Frankumjay - Tinkers' Efforts
+Music Disc
+Frankumjay - Tinkers' Will
+Music Disc
+Timbre - Tinkers' Imagination
+Music Disc
+- - Tinkers' Enemy
+Immsered Silver
+Mithril
+Adamantine
+Blackrock
+Inert Witherium
+Witherium
+Royal Alloy
+Stellarium
+Hothium
+Spider Leg
+Hard Spider Leg
+Cinnabar
+Glass
+Consolidated Glass
+Broken Ice
+Shell
+Redins
+Corundum
+Titanium
+Polarium
+Halleium
+Altairium
+Cocoa
+Nitre
+Iceland Spar
+Talcum
+Pyrophyllite
+Spinel
+Tourmaline
+Tonium
+Meteorolite
+Stellarium Obsidian
+Coagulated Blood Sand
+Coal
+Sun Stone
+Moon Stone
+Squama of Ender Dragon
+Fulgurite
+Irisia
+Tree Root
+Flesh
+Broken Bedrock
+Cloud
+Opal
+Topaz
+Lizanite
+Cordierite
+Prehnite
+Proustite
+Oraclium
+Vibrating Crystal
+Lava Crystal
+Steamium
+Grain
+Aventurine
+Chloroplast
+Maiming
+§oHow dare you?§r\nTo decelerate and weaken your enemy
+Inky
+§oIt’s dark out here§r\nTo blind your enemy
+Retrospective
+§oThis might be better.§r\nTo improve your tool gradually during usage
+Icy
+§oCool off§r\nTo decelerate your enemy\nTo gradually regain duration in cold places and lose duration in hot places
+Luxurious
+§oWealthy people stuff§r\nGet less durability during repairing
+Radiant
+§oHeart of the flame§r\nTo fire the monsters around
+Extreme Freezing
+§oHeart of the frost§r\nTo slow down the monsters around
+Switching
+§oWhat?§r\nTo exchange position with the target
+Clustering
+Hardened
+To decrease speed, increase damage and durability
+Polished
+To decrease damage and durability, and increase speed
+Brittle
+To increase speed and damage, decrease durability substantially
+Star Dashing
+§oHey! Hey! Hey! START DASH!!§r\nTo throw fire while attacking
+Soluble
+§oStop it!§r\nThe tool will lose duration if hold in the water
+Birefringent
+§oMagical refraction§r\nTo deal a equivalent damage with a small chance when attacking
+Pyroelectric
+§oBilibili§r\nTo damage enemy close to target\nThe higher the ambient temperature, the higher the damage
+Shaking
+§oYou can't run!§r\nTo temporarily stop your enemy in the air
+Anti Gravity
+§oI’m flying.§r\nRaise the target in air
+Stone Phasing
+§oShifting§r\nTo storage stones you mined, right click to release
+Stone Stored:
+Treasure Detecting
+§oThere is something.§r\n To raise the chance of finding treasure house during usage
+Creaky
+§oDisagreeable little goblins§r\ncreak creak
+Undead Calling
+§oThey are coming§r\ncoming at you...
+Repressing
+§oThat's heavy§r\nTo provide heavy effect to target
+Drilled
+Add one modifier slot by reducing damage and durability
+Phantasmic
+§oOnly I can see it?§r\nWhat on earth is it?
+Hemolytic
+To heal the tool when dealing damage
+Wither Flowing
+§oYour life drains§r\nTo wither and weaken your enemy
+Carbonizing
+§oFine§r\n
+Sun Power
+§o§r\nTo slowly heal the tool at day time
+Moon Power
+§o§r\nTo slowly heal the tool at night time
+Lionheart
+§oYou no longer fear§r\nEvery time you hit enemy, this will provide you a lionheart effect
+Terrifying
+§oHuh§r\nTo weaken your enemy
+Thunder Waving
+§oThumping§r\nTo increase the damage and knockback the monsters around
+Gluttonic
+§oI just want to eat§r\nTo make yourself hungry, but recover when killing.\nAll drops will be removed
+Moonlight
+§oSee the light§r\nTo provide night vision effect when hit target
+Nature Blessing
+§oGreetings from nature§r\nYour tool will automatically repair itself when close to wood
+Chemical Instable
+§oLet me see...§r\nTo explode with a small chance when using
+Infernal Blazing
+§oEndless purgatory§r\nTo burn user when being hold
+Dragon Killer
+§oNo more DRAGON§r\nTo deal more damage to DRAGON
+Midas Desiring
+§o祸福倚伏§r\n将挖到的金矿石直接转化为双倍的金锭, 有几率将掉落物转化为金子, 但是会慢慢吞食背包里的金子
+Gorgeous
+§oColorful black§r\nTo increase damage
+Peace Energetic
+§oExperience tranquility§r\nTo heal user when not moving
+Hyper
+§oI feel so high§r\nTo provide speed and haste effects when using
+Dichroic
+§oDoes it look different?§r\nTo incease speed in a bright place and increase damage in a dark place
+Life Inspiring
+§oI won't go die easily§r\nTo provide regeneration effect when user is in danger
+Oracular
+§oSoul washing§r\nCleansing buffs of target and debuffs of user\nTo heal user with a small chance
+Thermal Gathering
+§oI'm so hot§r\nReduce fire damage you taken and your tool will automatically repair itself when close to heat source
+Steamy
+§o-50% off§r\nTo decrease damage and increase knockback
+Decoying
+§oCome here§r\nTo summon animals with a small chance
+Stamina Focusing
+§oStrong mind§r\nTo provide resistance effect when user is sneaking
+Champing
+§oYou are free§r\nTo increase the rate of critical and critical damage
+Vibrating
+§oNot very handy§r\nTo decrease the speed but increase knockback when continuously using
+Combustion Supporting
+§oYou are fired!§r\nTo increase damage when target is in burning
+Blowing
+§o-25% off§r\nTo blow away the held item of your target
+Carbonizing
+§oNo§r\nTo increase fire damage you suffered
+Chemical Instable
+§oNo vrey well§r\nTo explode with a small chance when hited
+Dichroic
+§oNot the same§r\nTo decrease damage when at light places, or decrease knockback
+Endothermic
+§oHot no more§r\nTo decrease fire damage with higher durability cost
+Extreme Freezing
+§oHeart of the frost§r\nTo slow down the monsters around
+Gorgeous
+§oColorful black§r\nTo decrease the damage
+Hemolytic
+§oNo matter whose blood it is§r\nYour armor will repair itself when you suffering damage
+Hiding
+§oBye§r\nTo provide invisibility efect when hited
+Lifting
+§oSlowly§r\nTo decrease falling speed and falling damage
+Luxurious
+§oWealthy people stuff too§r\nGet less durability during repairing
+Moon Power
+§o§r\nTo slowly heal the tool at night time
+Radiant
+§oHeart of the flame§r\nTo fire the monsters around
+Sun Power
+§o§r\nTo slowly heal the tool at day time
+Fading
+§oInside the shadow§r\nThe lower the brightness, the easier to dodge attack
+Hyper
+§oI'm so high§r\nMore monsters around, more fast you will be
+Icy
+§oCool off§r\nTo gradually regain duration in cold places and lose duration in hot places
+Over Heavy
+§oNo I can't§r\nSlow down yourself
+Sliding
+§oBroken up§r\nTo cancel the damage by a high durability cost with a small chance
+Threshold Limiting
+§oNo too much§r\nYou will not receive more than a quarter of your current health
+Deep Parasitic
+§oYours?§r\nYour armor will repair itself by give wearer damage\n§4Armor can not take away anymore§r
+Life Inspiring
+§oI won't go die easily too§r\nTo provide regeneration effect when wearer is in danger
+Soluble
+§oStop it!§r\nThe armor will lose duration and push wearer if in the water
+Diffuse Reflecting
+§oMagical reflecting§r\nTo reflect damage to nearby monsters
+Widening
+§oThat's friendly§r\nWhen wearer use potion, the effects will also provided to nearby players
+Warm Soft
+§oGood night, tonight§r\nTo give wearer effects when waking up
+Wither Flowing
+§oYour life drains§r\nTo wither and weaken your enemy
+Arsenic Poisonous
+§oNot exactly lead-free!§r\nPoisons enemies on hit
+Switching
+§oWhat?§r\nTo exchange position with the attacker
+Star Dashing
+§oHey! Hey! Hey! START DASH!!§r\nTo throw fire when attacked
+Thermal Gathering
+§oI'm so hot§r\nReduce fire damage you taken and your armor will automatically repair itself when close to heat source
+Stamina Focusing
+§oStrong mind§r\nTo provide resistance effect when user is sneaking
+Vibrating
+§oOhhhhhhh!§r\nTo decrease the damage when consecutively hitted
+Devouring
+§oVoid of magic§r\nAbsorbs magic damage received, there is a chance to turn into healing\nArmor will not lose durability due to magic damage
+Smooth
+§oIt is reflecting§r\nTo dodge damage; have a higher chance when moving
+Heavy
+Potion of Heavy
+Splash Potion of Heavy
+Arrow of Heavy
+Lingering Potion of Heavy
+Pestilential
+Potion of Pestilential
+Splash Potion of Pestilential
+Arrow of Pestilential
+Lingering Potion of Pestilential
+Weakened Pestilential
+Potion of Weakened Pestilential
+Splash Potion of Weakened Pestilential
+Arrow of Weakened Pestilential
+Lingering Potion of Weakened Pestilential
+Estrous
+Potion of Estrous
+Splash Potion of Estrous
+Arrow of Estrous
+Lingering Potion of Estrous
+Avatar
+Potion of Avatar
+Splash Potion of Avatar
+Arrow of Avatar
+Lingering Potion of Avatar
+Rooted
+Potion of Rooting
+Splash Potion of Rooting
+Arrow of Rooting
+Lingering Potion of Rooting
+Armor Softened
+Potion of Armor Softening
+Splash Potion of Armor Softening
+Arrow of Armor Softening
+Lingering Potion of Armor Softening
+Void Infected
+Potion of Void Infecting
+Splash Potion of Void Infecting
+Arrow of Void Infecting
+Lingering Potion of Void Infecting
+Acid Wetted
+Potion of Acid Wetting
+Splash Potion of Acid Wetting
+Arrow of Acid Wetting
+Lingering Potion of Acid Wetting
+Lionheart
+Potion of Lionheart
+Splash Potion of Lionheart
+Arrow of Lionheart
+Lingering Potion of Lionheart
+Icy
+Potion of Icy
+Splash Potion of Icy
+Arrow of Icy
+Lingering Potion of Icy
+%1$s has some mental problem
+%1$s was refracted into pieces
+Heart of %1$s was paralyzed
+[Tinkers' Things] Welcome to use this mod! (This message can be disabled in config)
+[Tinkers' Things] Warning: You are using a §1beta§r version of mod, used for §2preview and testing§r, any contents could be §6modified or deleted§r in the future. This version of mod is §4NOT RECOMMENDED§r for server use. (This message can be disabled in config)
+[Tinkers' Things] Warning:  You are using a §1alpha§r version of mod, which only used for §2preview and testing§r, any contents could be §6modified or deleted§r in the future. And this mod has §4NOT§r been well tested and may have some bugs. Please §4DO NOT§r use this mod for survival mode or server gaming!
+[Tinkers' Things] Warning:  You are using a §1indev§r version of mod, please §4DO NOT§r distribute mod of this version!
+Exp get when used:

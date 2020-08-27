@@ -1,0 +1,118 @@
+ name
+Iron Ore Chunk
+Gold Ore Chunk
+Silver Ore Chunk
+Ardite Ore Chunk
+Cobalt Ore Chunk
+Lead Ore Chunk
+Tin Ore Chunk
+Aluminum Ore Chunk
+Copper Ore Chunk
+Nickel Ore Chunk
+Platinum Ore Chunk
+Manganese Ore Chunk
+Osmium Ore Chunk
+Cinnabar Ore Chunk
+Iridium Ore Chunk
+Iridium Ingot
+Uranium Ore Chunk
+Silicon Ore Chunk
+Magnesium Ore Chunk
+Compressed Magnesium Ore Chunk
+Magnesium Ingot
+Boron Ore Chunk
+Compressed Boron Ore Chunk
+Boron Ingot
+Thorium Ore Chunk
+Compressed Thorium Ore Chunk
+Thorium Ingot
+Lithium Ore Chunk
+Compressed Lithium Ore Chunk
+Lithium Ingot
+Compressed Iron Ore Chunk
+Compressed Gold Ore Chunk
+Compressed Silver Ore Chunk
+Compressed Ardite Ore Chunk
+Compressed Cobalt Ore Chunk
+Compressed Lead Ore Chunk
+Compressed Tin Ore Chunk
+Compressed Aluminum Ore Chunk
+Compressed Copper Ore Chunk
+Compressed Nickel Ore Chunk
+Compressed Platinum Ore Chunk
+Compressed Manganese Ore Chunk
+Compressed Osmium Ore Chunk
+Compressed Cinnabar Ore Chunk
+Compressed Iridium Ore Chunk
+Compressed Iridium Ingot
+Compressed Uranium Ore Chunk
+Compressed Silicon Ore Chunk
+Yellorite Ore Chunk
+Compressed Yellorite Ore Chunk
+Silver Ingot
+Ardite Ingot
+Cobalt Ingot
+Lead Ingot
+Tin Ingot
+Tungsten Ingot
+Tungsten Ore Chunk
+Aluminum Ingot
+Copper Ingot
+Nickel Ingot
+Platinum Ingot
+Manganese Ingot
+Osmium Ingot
+Zinc Ingot
+Zinc Ore Chunk
+Compressed Zinc Ore Chunk
+Dense Iron Ore
+Dense Gold Ore
+Dense Coal Ore
+Dense Diamond Ore
+Dense Emerald Ore
+Dense Redstone Ore
+Dense Lapis Lazuli Ore
+Dense Copper Ore
+Dense Tin Ore
+Dense Silver Ore
+Dense Lead Ore
+Dense Aluminum Ore
+Dense Manganese Ore
+Dense Nickel Ore
+Dense Osmium Ore
+Copper Ore
+Tin Ore
+Silver Ore
+Lead Ore
+Aluminum Ore
+Manganese Ore
+Nickel Ore
+Osmium Ore
+How Fortunate!
+Watch this space! Coming Soon!
+General
+General Config
+Generate Overworld Stones
+If true, Marcasite, Shale and Slate will generate in the world. Disabling this will also disable prismarine ore deposits under oceans and rivers.
+Generate Pumice
+If true, Pumice will generate in the world. If disabled, this will also disable the polishing stone item.
+Generate Nether Stones
+If true, Umberstone, Alunite and Cormalite will generate in the Nether. Disabling this will also disable Gold Ore Deposits in Umberstone.
+Generate Endfections
+If disabled, this will prevent incursions into the Nether from the End. Disabling this will prevent the acquisition of End stone and Shulker Boxes before the End, as well as the ability to move End Portal Frame blocks. Shulkers can be disabled seperately below.
+Generate Soilstone
+If disabled, this will prevent Soilstone and all related blocks from generating in the world, though they will still be craftable.
+Generate Trees
+If disabled, World Gen of new trees (Yew, Beech, etc) will be prevented.
+Allow Shulkers to Generate in Nether
+If disabled, shulkers will not generate in Endfections. If Endfections are disabled, this config does nothing.
+Allow Mithril
+If disabled, will prevent generation of Mithril in the world, as well as all tools and related blocks.
+Allow Dense Ores
+If disabled, Dense variants of vanilla ores will not generate. Disable if another mod is already doing so.
+Allow Studded Coal Ores
+If enabled, coal will (very rarely) spawn other ores within itself.
+Allow Emerald Deposits
+If enabled, emerald deposits will spawn in all biomes with roughly the same rarity as vanilla diamond deposits.
+Allow Fortune to Affect Gold and Iron
+If enabled, gold and iron ores will drop a fortune-friendly alternative. Disable if another mod adds this functionality.  Disabling this will disable the dense variants of gold and iron ores, if dense ores are enabled.

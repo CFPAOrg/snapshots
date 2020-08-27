@@ -1,0 +1,21 @@
+[SBM] Fluid Gun
+Fluid Gun
+Large Fluid Gun
+Giant Fluid Gun
+Creative Fluid Gun
+Ender Fluid Gun
+Contents
+Max Capacity
+Range
+Mode: §aBoth
+Mode: §eIn Only
+Mode: §cOut Only
+§cSHIFT+Right Click§b to link to fluid handlers (tanks, etc)
+§eHold §cSHIFT§e for more
+§6Adjusts in-out settings
+§cALT+Mouse wheel §eto cycle modes
+§aLinked
+Invalid fluid handler. Not set.
+Valid fluid handler. Fluid handler set!
+Fluid handler is no longer valid. Please set a new one.
+§eYou have no fluid handler linked! §cSHIFT+Right Click§e to link to fluid handlers (tanks, etc)

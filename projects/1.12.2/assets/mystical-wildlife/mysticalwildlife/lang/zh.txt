@@ -1,0 +1,74 @@
+Mystical Wildlife
+Brush
+Vrontausaurus Fur
+Vrontausaurus Fur Tuft
+Raw Vrontausaurus
+Cooked Vrontausaurus
+Raw Yaga Hog
+Cooked Yaga Hog
+Dusk Ash
+Dusk Lurker Fur
+Dusk Lurker Fur Tuft
+Raw Dusk Lurker
+Cooked Dusk Lurker
+Raw Cicaptera
+Cooked Cicaptera
+Azure Cicaptera Husk
+Verdant Cicaptera Husk
+Crimson Cicaptera Husk
+Sandy Cicaptera Husk
+Wintry Cicaptera Husk
+Lovely Cicaptera Husk
+Aphrodite Essence
+Plumper Blubber
+Raw Plumper
+Cooked Plumper
+Raw Krill
+Cooked Krill
+Vrontausaurus
+Yaga Hog
+Dusk Lurker
+Azure Cicaptera
+Verdant Cicaptera
+Crimson Cicaptera
+Sandy Cicaptera
+Wintry Cicaptera
+Lovely Cicaptera
+Plumper
+Krill
+Shocked
+Arousal
+Instant Love
+Potion of Arousal
+Potion of Instant Love
+Splash Potion of Arousal
+Splash Potion of Instant Love
+Lingering Potion of Arousal
+Lingering Potion of Instant Love
+Arrow of Arousal
+Arrow of Instant Love
+Furzard hisses
+Furzard hurt
+Furzard dies
+Cicaptera chirps
+Cicaptera hurt
+Cicaptera dies
+Plumper barks
+Plumper hurt
+Plumper dies
+Krill chirps
+Krill hurt
+Krill dies
+Mystical Wildlife
+Spawning
+Spawn weight (0 disables)
+Min spawn group size
+Max spawn group size
+Dusk Lurker (Forest)
+Dusk Lurker (Spooky)
+Enable Brush
+Enable Potion of Arousal
+Enable Potion of Instant Love
+Krill forage chance (1 in X, 0 disables)
+Base time (ticks) for Aphrodite Essence drops
+Max extra time (ticks) for Aphrodite Essence drops

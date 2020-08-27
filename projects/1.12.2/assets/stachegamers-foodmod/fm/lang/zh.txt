@@ -1,0 +1,48 @@
+Cheeseburger Ingot
+Raw Fries
+Fries
+Cheeseburger
+Cheese
+Water
+Flour
+Corn Dough
+Corn
+Corndog
+Raw Corndog
+Paper Cone
+Snow Cone
+Snow Cone
+Strawberry Snow Cone
+Strawberry Snow Cone
+Blueberry Snow Cone
+Blueberry Snow Cone
+Corn Flour
+Dough
+Sweet Dough
+Salty Dough
+Salt
+Blueberry Sirup
+Strawberry Sirup
+Blueberry
+Strawberry
+Raw Bun Bottom
+Raw Bun Top
+Bun Bottom
+Bun Top
+Hamburger
+Waffle
+Strawberry Seeds
+Blueberry Seeds
+Corn Grain
+Cheeseburger Helmet
+Cheeseburger Chestplate
+Cheeseburger Leggins
+Cheeseburger Boots
+Cheeseburger Block
+Cheeseburger Ore
+FoodModTab
+Cheeseburger Sword
+Cheeseburger Pickaxe
+Cheeseburger Axe
+Cheeseburger Hoe
+Cheeseburger Shovel

@@ -1,0 +1,72 @@
+Caplock Pistol (Loaded)
+Iron Long Barrel
+Caplock Pistol (Ready)
+Wet Arquebus (Loaded)
+Wet Tanzutsu (Loaded)
+Ancient Guns
+Wet Tanzutsu (Empty)
+Steel Nugget
+Wet Flintlock Pistol (Empty)
+Wet Flintlock Pepperbox (1/3) [2 gunpowder]
+Flintlock Musket (Loaded)
+Flintlock Pepperbox (0/3) [2 gunpowder]
+Flintlock Pepperbox (2/3)
+Wet Arquebus (Empty)
+Flintlock Musket (Empty)
+Primer
+Tanzutsu (Ready)
+Tanzutsu (Empty)
+Steel Long Barrel
+Flintlock Pepperbox (2/3) [1 gunpowder]
+Wet Flintlock Pepperbox (0/3) [1 gunpowder]
+Steel Ingot
+Wet Tanzutsu (with Gunpowder)
+Ramrod
+Flintlock Pistol (with Gunpowder)
+Wet Flintlock Pepperbox (2/3) [1 gunpowder]
+Basic Bullet
+Flintlock Pepperbox (0/3) [3 gunpowder]
+Fulminant Powder
+Flintlock Mechanism
+Flintlock Pepperbox (1/3)
+Caplock Mechanism
+Wet Flintlock Pistol (Loaded)
+Arquebus (with Gunpowder)
+Wet Flintlock Pistol (with Gunpowder)
+Wet Flintlock Pepperbox (1/3)
+Arquebus (Ready)
+Wet Flintlock Pepperbox (0/3) [2 gunpowder]
+Wet Flintlock Pepperbox (3/3)
+Flintlock Pistol (Loaded)
+Iron Short Barrel
+Wet Flintlock Pepperbox (2/3)
+Flintlock Pepperbox (3/3)
+Wet Flintlock Pepperbox (Empty)
+Caplock Pistol (Empty)
+Matchlock Mechanism
+Arquebus (Empty)
+Wet Arquebus (with Gunpowder)
+Small Handle
+Flintlock Pepperbox (1/3) [1 gunpowder]
+Caplock Cap Cone
+Flintlock Pistol (Empty)
+Steel Block
+Caplock Cap
+Wooden Stock
+Flintlock Pepperbox (1/3) [2 gunpowder]
+Steel Slag
+Wet Flintlock Pepperbox (1/3) [1 gunpowder]
+Flintlock Pepperbox (Empty)
+Tanzutsu (Loaded)
+Wet Flintlock Pepperbox (0/3) [3 gunpowder]
+Arquebus (Loaded)
+Quality Barrel Former
+Wet Flintlock Musket (with Gunpowder)
+Wet Flintlock Musket (Empty)
+Flintlock Pepperbox (0/3) [1 gunpowder]
+Wet Flintlock Musket (Loaded)
+Barrel Former (Single Use)
+Steel Short Barrel
+Flintlock Musket (with Gunpowder)
+Tanzutsu (with Gunpowder)
+Caplock Pistol (Empty)

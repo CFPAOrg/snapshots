@@ -1,0 +1,32 @@
+/craftdumper <dumper name> [%s]. Available dumpers: %s.
+Dumping %s...
+Successfully created the %s dump!
+Outputs: %s.
+CSV Table
+Data Directory
+Amounts
+Advancements
+Armor
+Attributes
+Biomes
+Blocks
+Capabilities
+Enchantments
+Entities
+Fluids
+Food
+Item Stacks
+Loot Tables
+Models
+Ore Dictionary
+Potions
+Shaped Recipes
+Shapeless Recipes
+Smelting Recipes
+Sound Events
+Tile Entities
+Villager Professions
+World Generators
+Dumping %s
+Dumping data...
+Generating amounts file...

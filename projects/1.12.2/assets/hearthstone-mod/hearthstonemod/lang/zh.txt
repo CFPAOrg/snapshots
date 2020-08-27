@@ -1,0 +1,6 @@
+Hearthstone
+Hearthstone is on cooldown!
+Hearthstone is not linked to a bed!
+Your bed is missing! Hearthstone link is broken!
+Hearthstone is now linked
+Hearthstone channel canceled!

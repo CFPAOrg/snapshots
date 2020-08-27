@@ -1,0 +1,12 @@
+ Server shutting down by user vote
+ *** Your vote has been recorded
+ *** Your previous vote has been cleared
+ *** A vote has begun to shutdown the server; please do '/shutdown yes' or '/shutdown no' to cast your vote
+*** Vote to shutdown the server failed; not enough players online
+*** Vote to shutdown the server failed; too many 'no' votes
+*** It is too soon since the last vote to initiate another one. Try again in %d seconds.
+*** Need at least %d players online to initiate a vote
+*** No vote is in progress; try '/shutdown'
+*** Vote in progress; try '/shutdown yes' or '/shutdown no'
+*** Incorrect syntax; try '/shutdown yes' or '/shutdown no'
+*** Only players may use this command; try '/stop' instead

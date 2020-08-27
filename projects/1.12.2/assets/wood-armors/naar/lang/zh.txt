@@ -1,0 +1,24 @@
+Oak Helmet
+Birch Helmet
+Spruce Helmet
+Jungle Helmet
+Acacia Helmet
+Dark Oak Helmet
+Oak Chestplate
+Birch Chestplate
+Spruce Chestplate
+Jungle Chestplate
+Acacia Chestplate
+Dark Oak Chestplate
+Oak Leggings
+Birch Leggings
+Spruce Leggings
+Jungle Leggings
+Acacia Leggings
+Dark Oak Leggings
+Oak Boots
+Birch Boots
+Spruce Boots
+Jungle Boots
+Acacia Boots
+Dark Oak Boots

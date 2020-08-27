@@ -1,0 +1,39 @@
+Kiln Core
+Kiln Interface 3
+Redstone Controller (Off)
+Charcoal Generators Unobtainables
+Gold Cluster
+Kiln Brick Slab
+Gold Dust
+Redstone Controller (On)
+Charcoal Generators Unobtainables
+Iron Pan
+Kiln Brick
+Iron Cluster
+Charcoal Export
+Kiln Interface 1
+Iron Dust
+Mud
+Charcoal Export (1/3)
+Filled Collecor (Water)
+Charcoal Chunk
+Wrench
+Kiln Chimney
+Fluid Generators Mud
+Kiln Bricks
+Kiln Bricks Slab Bottom
+Kiln Interface 2
+Block of Charcoal
+Kiln Core Waiting
+Charcoal Export (2/3)
+Filled Mixer (Dirt)
+Kiln Interface
+Kiln Bricks Slab
+Wood Pan
+Filled Mixer (Mud)
+Sludge
+Empty Mixer
+Kiln Bricks Tile
+Guide Book
+Charcoal Generators
+Charcoal Export (3/3)

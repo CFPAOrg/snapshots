@@ -1,0 +1,62 @@
+Simply Tea!
+Tea Sapling
+Tea Trunk
+Tea Fence
+Tea Fence Gate
+Tea Leaf
+Pleasant aroma!
+Black Tea
+Fermented!
+Tea Stick
+Sweet like cinnamon!
+Chorus Petal
+Mystical!
+Tea Cup
+Cup of Water
+Cup of Green Tea
+Cup of Black Tea
+Cup of Dandelion Tea
+Cup of Chai Tea
+Cup of Chamomile Tea
+Cup of Chorus Tea
+Cup of Hot Chocolate
+Tea Bag
+Green Tea Bag
+Black Tea Bag
+Dandelion Tea Bag
+Chamomile Tea Bag
+Chorus Tea Bag
+Teapot
+Empty!
+Full of water!
+Full of milk!
+Teapot
+Boiling!
+Teapot
+Frothed milk!
+Restful
+Caffeinated
+Enderfalling
+Tea
+Hunger
+Saturation
+Black Tea
+Green Tea
+Dandelion Tea
+Chamomile Tea
+Caffeinated Time
+Enderfalling Time
+Hearts
+Teapot
+Infinite Water
+Fill From Cauldrons
+Milk Cows
+Waters
+Milks
+Tree
+Enable Generation
+Maximum Leaves
+Maximum Sticks
+Leaf Growth Chance
+Sapling Drop Chance
+Max Chorus Petals

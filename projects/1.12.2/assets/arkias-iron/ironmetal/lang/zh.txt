@@ -1,0 +1,15 @@
+Nether Magmite Ore
+Shining Aluminum Block
+Silvadrium Block
+Shroomite Block
+Ore Generator
+Dye Generator
+Shining Aluminum Ingot
+Silvadrium Ingot
+Shroomite Ingot
+Silvadrium Hammer
+Shroomite Hammer
+IrON Dust
+Industrial Quartz
+Dark Quartz
+IrON Metals

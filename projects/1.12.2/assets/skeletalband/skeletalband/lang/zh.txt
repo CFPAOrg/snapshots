@@ -1,0 +1,14 @@
+Skeleton Band Notes
+Harp
+Base Drum
+Snare
+Hat
+Bass
+Flute
+Bell
+Guitar
+Chime
+Xylophone
+Upload and Play Selected
+Open Midi Folder
+Musical Skeleton

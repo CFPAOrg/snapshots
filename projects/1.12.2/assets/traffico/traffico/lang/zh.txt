@@ -1,0 +1,96 @@
+Traffic Stuff
+Road Blocks Painted White
+Road Blocks Painted Yellow
+Road Blocks Painted Blue
+Sidewalk Blocks
+sneak to place upside down
+sneak to place a fully painted block
+sneak to place in reversed direction
+sneak to place in reversed direction
+sneak to switch axis placement
+Asphalt Block
+Asphalt Cuboid
+Asphalt Slab
+Asphalt Halfslab
+Asphalt Block
+Asphalt Cuboid
+Asphalt Slab
+Asphalt Halfslab
+Cone
+Big
+Giant
+Huge
+Normal
+Pole
+Portable
+Rod
+Small
+Tall
+Hydrant
+1500 GPM
+1250 GPM
+750 GPM
+600 GPM
+500 GPM
+600 GPM
+100 GPM
+Pole
+Round Thick
+Round Thin
+Square Thick
+Square Thin
+Sidewalk Block
+Sidewalk Cuboid
+Sidewalk Slab
+Sidewalk Halfslab
+Andesite
+Beach Mosaic
+Brown Cobblestone
+Circles
+Coarse Asphalt
+Cobblestone
+Concrete
+Concrete Chequer
+Concrete Circle
+Concrete Diamond
+Dark Prismarine
+Diorite
+End Bricks
+Exotic Cobblestone
+Fake Grass
+Granite
+Grass
+Gravel
+Latin Mosaic
+Nether Bricks
+Polished Andesite
+Polished Diorite
+Polished Granite
+Red Diamonds
+Sandstone
+Small Stone Bricks
+Stained Concrete
+Stone Blocks
+Stone Bricks
+Stone Mosaic
+Stone Tiles
+White Stone Tiles
+Speed Bump
+Arrow
+White Stripes
+Yellow Stripes
+Diagonal White Stripes
+Diagonal Yellow Stripes
+Traffic Light
+Vertical
+Horizontal
+Wall
+Concrete
+Reinforced Concrete
+Update for Traffico is available!
+Click here to grab it!
+Debug Mode
+Version Checker
+Direct to Download URL
+Show Changelog
+Notify about Test Releases

@@ -1,0 +1,7 @@
+Player Hopper
+You've been added to the Player Hopper's Whitelist
+You've been removed from the Player Hopper's Whitelist
+Added
+ to the Player Hopper's Blacklist
+Removed
+ from the Player Hopper's Blacklist

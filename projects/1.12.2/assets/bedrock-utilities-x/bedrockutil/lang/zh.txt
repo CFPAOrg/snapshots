@@ -1,0 +1,15 @@
+Bedrock Fragment
+Bedrock Stick
+Bedrock Ultimate
+Bedrock Sword
+Bedrock Pickaxe
+Bedrock Axe
+Bedrock Shovel
+Bedrock Hoe
+Bedrock Helmet
+Bedrock Chestplate
+Bedrock Leggings
+Bedrock Boots
+Bedrock Bow
+Bedrock Arrows
+Bedrock Arrow

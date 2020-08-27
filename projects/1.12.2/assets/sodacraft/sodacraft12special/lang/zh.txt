@@ -1,0 +1,91 @@
+soldier
+super_armor Helmet
+candy_gem
+soda_block
+pistol
+dead_grass
+slimey_sword
+slimey_axe
+silfer_armor Helmet
+candy_block
+candy_axe
+candy
+barrel
+snow_monster
+slimey_armor Helmet
+snail
+candy_plant
+super_armor Boots
+silfer_ore
+silfer_axe
+magazine
+crafting_materials
+soda_plant
+candy_emerald
+super_armor Leggings
+infected
+chocolate_bar
+bazooka_bullet
+pistol_ammo
+soda_portal_opener
+noob
+slimey_armor Boots
+soda_portal_block
+cooked_derpcow_flesh
+soda_monster
+sand_bags
+rifle
+rat
+middle_part
+back_part
+candy_pickaxe
+slimey_armor Body
+ak47_ammo
+bazooka
+guns
+dumb_cow
+silfer_armor Body
+pistol_back
+silfer_ingot
+candy_slime
+handgrip
+soda_ore
+candy_grass
+blocks
+candy_bar
+silfer_armor Leggings
+fruit
+super_ruby
+super_ore
+dead_tree_leaves
+tangentsoda_YT
+tools
+rifle_ammo
+gecko
+super_armor Body
+armor
+melee_weapons
+silfer_sword
+silfer_pickaxe
+slimey_ore
+slimey_emerald
+soda_sword
+snake
+scope
+slimey_pickaxe
+weard_plant
+ak47
+food
+weapons
+slimey_armor Leggings
+soda
+raw_derpcow_flesh
+dead_wood
+weard_barries
+cookie_plant
+Candywater
+fruit_plant
+soda_portal_opener
+candy_ore
+silfer_armor Boots
+legendary_sword

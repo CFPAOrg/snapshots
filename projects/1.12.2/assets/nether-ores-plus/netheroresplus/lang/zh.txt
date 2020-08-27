@@ -1,0 +1,14 @@
+Nether Coal Ore
+Nether Diamond Ore
+Nethered Gold Ingot
+Nethered Iron Ingot
+Nethered Emerald
+Nether Redstone Ore
+Nether Lapis Lazuli Ore
+Nethered Lapis Lazuli
+Nethered Redstone
+Nethered Coal
+Nether Iron Ore
+Nether Emerald Ore
+Nethered Diamond
+Nether Gold Ore

@@ -1,0 +1,562 @@
+Kawara Block
+Kawara
+Tan Tatami
+Tatami
+No Skirt Tan Tatami
+No Skirt Tatami
+Half Tan Tatami
+Half Tatami
+No Skirt Half Tan Tatami
+No Skirt Half Tatami
+Tan Tatami Carpet
+Tatami Carpet
+No Skirt Tan Tatami Carpet
+No Skirt Tatami Carpet
+Bamboo Door
+Bamboo
+Bamboo Shoot
+Bamboo Lantern
+Bamboo Block
+Bamboo Slab
+Red MapleLeaves
+Yellow MapleLeaves
+Orange MapleLeaves
+Green MapleLeaves
+Maple Log
+Maple Log
+Red MapleSapling
+Yellow MapleSapling
+Orange MapleSapling
+Green MapleSapling
+Sakura Leaves
+Sakura Sapling
+Sakura Log
+Campfire
+Lighting Campfire
+CampfirePot
+Lighting CampfirePot
+StoneMortar
+Pepper Splint
+Vanilla Splint
+Grape Splint Stand
+Grape Splint
+Shoji
+Andon
+Rapeseed Crop
+Tomato Crop
+Eggplant Crop
+Cabbage Crop
+Radish Crop
+Redbean Crop
+Buckwheat Crop
+Pepper Crop
+Vanilla Crop
+Grape Vine
+Grape Leaves
+Maple Syrup Cauldron
+RiceCrop
+Chestnut Burr
+Sakura Diamond Ore
+Sakura Plank
+Maple Plank
+Bamboo Plank
+Barrel
+Distillation Barrel
+Kitsunebi
+Windbell
+Sunburnt Bamboo Fence
+Bamboo Fence
+Sunburnt Bamboo Slab
+Sunburnt Bamboo Block
+Buckwheat Dough
+Unfinished Udon
+Ramen Dough
+Taiko
+Maple Spile
+Bamboo Plank Slab
+Bamboo Plank Stairs
+Sakura Plank Slab
+Sakura Plank Stairs
+Maple Plank Slab
+Maple Plank Stairs
+Green Fallen Leaves
+Orange Fallen Leaves
+Red Fallen Leaves
+Yellow Fallen Leaves
+Maple Cauldron
+Straw Slab
+Straw Block
+Straw Stairs
+Bamboo Stairs
+Sunburnt Bamboo Stairs
+Bamboo Charcoal Block
+Tatara
+Iron Sand
+Pasta Dough
+Obon
+White Noren
+Pink Noren
+Blue Noren
+Fallen Leaves With Mushroom
+Zabuton
+Straw Web
+White Lantern
+Red Lantern
+Stone Lantern
+Cobblestone Lantern
+Mossy Stone Lantern
+Tempura Plate
+Sushi Plate
+Katsu Teishoku
+Burger Teishoku
+Tempura Teishoku
+Fried Teishoku
+Tamagoyaki Teishoku
+Yakiniku Teishoku
+Raw Fish Teishoku
+Cooked Fish Teishoku
+Machined Fish
+Futon
+Silk
+Bento Box
+Matsutake
+Shimeji
+Edodes
+Roasted Matsutake
+Fish Nimono
+Radish Nimono
+Pumpkin Nimono
+Okinoyaki
+Okinoyaki Dough
+Okinoyaki Plus
+Okinoyaki Final
+Bento
+Bento
+Omurice Bento
+Bento
+Bonito
+Machined Bonito
+Boiled Bonito
+Smoked Bonito
+Dried Bonito
+Shaved Bonito
+Mocha Pound Cake
+Mocha Pudding
+Mocha Cookie
+Mocha Taiyaki
+Miso Soup
+Yaki Pasta
+Yaki Soba
+Chikuzenni
+Cheesy Baked Bean
+Dorayaki
+Chawanmushi
+Buckwheat Bread
+Vinegar
+Mayonaise
+Worcester Sauce
+Grape
+Raw Taiyaki
+Taiyaki
+Maple Cookie
+Bread Rice
+Red Bean Paste
+Bun
+Cheese
+Katsu
+Cooked Rice
+Bambooshoot Rice
+Fish Rice
+Beef Rice
+Pork Rice
+Mushroom Rice
+Matsutake Rice
+Egg Rice
+Egg Beef Rice
+Egg Pork Rice
+Katsu Rice
+Oyako Rice
+Fish Oyako Rice
+Ramen
+Beef Ramen
+Egg Ramen
+Tempura Ramen
+Friedtofu Ramen
+Katsu Ramen
+Large Ramen
+Udon
+Beef Udon
+Egg Udon
+Tempura Udon
+Friedtofu Udon
+Katsu Udon
+Large Udon
+Yaki Udon
+Soba
+Beef Soba
+Egg Soba
+Tempura Soba
+Friedtofu Soba
+Katsu Soba
+Large Soba
+Zaru Soba
+Onigiri
+Bambooshoot Onigiri
+Fish Onigiri
+Mushroom Onigiri
+Matsutake Onigiri
+Seaweed Onigiri
+Tempura Onigiri
+Raw Burger
+Burger
+Burger Dish
+Curry Rice
+Katsu Curry Rice
+Burger Curry Rice
+Cheese Curry Rice
+Cheese Katsu Curry Rice
+Cheese Burger Curry Rice
+Mashed Potato
+Mochi
+Toasted Mochi
+Sakura Mochi
+Ohagi
+Croquette
+Natto
+Natto Rice
+Natto Egg Rice
+Nikujaga
+Omurice
+Fried Rice
+Hamburger
+Cheese Burger
+Mabo tofu
+Mabo eggplant
+Toasted Chestnut
+Red Bean Soup
+Pound Cake
+Osuimono
+Ochazuke
+Shrimp
+Tempura
+Fishcake
+Tofu
+Fried Tofu
+Oden
+Dananko
+Danmitarashi
+Dansansyoku
+Baked Eggplant
+Fried Chicken
+Sashimi
+Beef Stick
+Chicken Stick
+Pork Stick
+Croquette Ramen
+Croquette Udon
+Croquette Soba
+Chicken Ramen
+Chicken Udon
+Chicken Soba
+Tamagoyaki
+Sushi
+Tamago Sushi
+Ehoumaki
+Pudding
+Maple Pudding
+Straw
+Rice
+Salt
+Curry Powder
+Flour
+Buchwheat Flour
+Dough
+Buchwheat Dough
+Raw Ramen
+Raw Udon
+Raw Soba
+Curry Sauce
+Tomato Sauce
+White Sauce
+Tempura Batter
+Chestnut Burrs
+Rice Flour
+Rice Dough
+Green Peppercorn
+Red Peppercorn
+Vanilla Seeds
+Vanilla
+Roast Vanilla
+Grape Seeds
+Bamboo Lumber
+Sakura Lumber
+Maple Lumber
+Black Pepper
+White Pepper
+Miso
+Breadcrumbs
+Chestnut
+Bamboo Door
+Raw Seaweed
+Seaweed
+Rice Seeds
+Tomato
+Tomato Seeds
+Eggplant
+Eggplant Seeds
+Cabbage
+Cabbage Seeds
+Radish
+Radish Seeds
+Onion
+Onion Seeds
+Red Bean
+Buckwheat
+RapeSeeds
+Maple Syrup
+Hydra Ramen
+Straw Hat
+Sakura Diamond
+Katana
+Sakura Katana
+Kodachi
+Sakura Kodachi
+Shinai
+Tachi
+Noodle Cutting Knife
+Sakura Noodle Cutting Knife
+Fish Cutting Knife
+Sakura Fish Cutting Knife
+Samurai Shoes
+Samurai Pants
+Samurai Chestplate
+Samurai Helmet
+Broom
+Haori
+Brown Haori
+Black Haori
+Cyan Haori
+White Haori
+Green Haori
+Kimono
+Brown Kimono
+Black Kimono
+Green Kimono
+Cyan Kimono
+Purple Kimono
+Sakura Kimono
+White Kimono
+Red Yukata
+Blue Yukata
+Magenta Yukata
+Lime Yukata
+Yellow Yukata
+Miko Kimono
+Sakura Coin
+Sunburnt Bamboo
+Stone Forging Hammer
+Iron Forging Hammer
+Sakura Diamond Forging Hammer
+Steel Ingot
+Tamahagane
+Sagegane
+Bamboo Charcoal
+Zuku
+Zuku Ingot
+Harvester Guide
+Noodle Soup
+Soysause
+Rea Bean Rice
+Grilled fish
+Fries
+Furofuki Daikon
+Cabbage Roll
+White Stew
+Fruit Salad
+Buggys Meat
+Raw Pasta
+Tomato Pasta
+Mushroom Pasta
+White Sauce Pasta
+Soft-boiled Egg
+Soft-boiled Egg with Soy Sauce
+Cooking Pot
+Earl Grey Leaves
+Black Tea Leaves
+Green Tea Leaves
+Fruit Tea Leaves
+Rice Tea Leaves
+Mint Tea Leaves
+Mocha
+Brown Rice
+Hop
+Yeast
+Alkali
+Mint
+Empty Bottle
+Orange Juice
+Lemon Juice
+Blackcurrant Juice
+Almond
+Soda
+Lemon
+Green Grape
+Sliced Cabbage
+Sushi Shrimp
+Curry Omurice
+Katsu Dish
+Croquette Dish
+Sheath
+Katana Sheath
+Sakura Katana Sheath
+Beer Bottle
+Doburoku Bottle
+Sake Bottle
+Shouchu Bottle
+Red Wine Bottle
+White Wine Bottle
+Champagne Bottle
+Rum Bottle
+Vodka Bottle
+Whiskey Bottle
+Brandy Bottle
+Gin Bottle
+Tequila Bottle
+Liqueur Bottle
+Cocoa Liqueur Bottle
+Cup
+Black Tea
+Milk Tea
+Milk Green Tea
+Earl Grey
+Milk Earl Grey
+Fruit Tea
+Milk Fruit Tea
+Green Tea
+Lemon Black Tea
+Lemon Green Tea
+Mint Tea
+Barley Tea
+Brown Rice Tea
+Beer
+Doburoku
+Sake
+Shouchu
+Red Wine
+White Wine
+Champagne
+Rum
+Vodka
+Whiskey
+Brandy
+Gin
+Tequila
+Liqueur
+Cocoa Liqueur
+Kir
+Royal Kir
+Margarita
+Paradise
+Sidecar
+French 75
+John Collins
+Daiquiri
+Between the Sheets
+Black Russian
+Godfather
+Godmother
+Grasshopper
+Mint Julep
+Mojito
+Rusty Nail
+Lemon Margarita
+Russian Spring
+Alexander
+Aviation
+Porto Flip
+Red Eyes
+Spritzer
+Panache
+Screwdriver
+Bloody Mary
+Saketini
+Beer Margarita
+Long Island Iced Tea
+Highball
+Porchcrawler
+Stinger
+Negroni
+Old Fashioned
+Whiskey Sour
+Gimlet
+Tequila Sunrise
+Flying Grasshopper
+Eggnog
+Scorpion
+Moscow Mule
+Boilermaker
+Food Oil
+Grape Fluid
+Red Wine
+Green Grape Fluid
+White Wine
+Champagne
+Doburoku
+Sake
+Shouchu
+Beer
+Vodka
+Rum
+Brandy
+Whiskey
+Liqueur
+Cocoa Liqueur
+Maple Syrup
+Yeast Liquid
+Hot Spring Water
+Kimono Texture
+Haori Texture
+Sakura
+Retract Katana into Sheath
+You must hold a Shinai with BOTH hands.
+You shouldn't wield two Katanas with both hands.
+You should pull out your Katana with an empty hand.
+Stone Mortar
+Campfire Pot
+This barrel contains %1$s liquid
+This barrel is empty
+Cooking Pot
+Stone Mortar
+Barrel
+Distillation Barrel
+Liquid to Bucket
+Open-air Drying
+Deer
+Samurai Illager
+Japanese Farmer
+Japanese Fisher
+Japanese Trader
+Liquor Trader
+Silk Trader
+There are many plants in this world. This book mainly describes things that must-see for harvesters
+Sakura
+Vannila Weight
+Changes generate rate of Vanilla. Increase value to gen more Vanilla.
+Pepper Weight
+Changes generate rate of Pepper. Increase value to gen more Pepper.
+BambooShot Weight
+Changes generate rate of BambooShot. Increase value to gen more BambooShot.
+Iron Sand Amount
+Hardcore Iron Ingot Recipes
+Hot Spring Weight
+Sakura Diamond Generated Everywhere
+Remaining fuel: %1$s Ticks
+Item in campfire: %1$s
+Hardcore Japan-flavored iron smelting mechanics is enabled. Enjoy Forging!
+Forging Hammer
+Scorpion Venom
+Cannon
+Experience Up
+Fire Blade
+Golden Heart
+Poisoning

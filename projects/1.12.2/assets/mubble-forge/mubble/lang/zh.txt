@@ -1,0 +1,250 @@
+Mubble Blocks
+Mubble Items
+Mubble Costumes
+Block of Vanadium
+Vanadium Ore
+Red Bricks
+Red Brick Stairs
+White Bricks
+White Brick Stairs
+Blunite
+Blunite Stairs
+Blunite Wall
+Polished Blunite
+Polished Blunite Stairs
+Carbonite
+Carbonite Stairs
+Carbonite Wall
+Polished Carbonite
+Polished Carbonite Stairs
+Footblock
+White Cloud Block
+Light Gray Cloud Block
+Gray Cloud Block
+Black Cloud Block
+Tomatoes
+Salad
+Cheese Block
+Unstable Stone
+Ultimatum Portal
+Blue Balloon
+Light Blue Balloon
+Cyan Balloon
+Green Balloon
+Lime Balloon
+Yellow Balloon
+Orange Balloon
+Red Balloon
+Pink Balloon
+Magenta Balloon
+Purple Balloon
+Brown Balloon
+White Balloon
+Light Gray Balloon
+Gray Balloon
+Black Balloon
+? Block
+Empty Block
+Rotating Block
+Light Block
+Brick Block
+Golden Brick Block
+Note Block
+Super Note Block
+Fire Flower
+Ice Flower
+Boomerang Flower
+Cloud Flower
+Gold Flower
+Blue Mushroom
+Light Blue Mushroom
+Cyan Mushroom
+Green Mushroom
+Lime Mushroom
+Yellow Mushroom
+Orange Mushroom
+Pink Mushroom
+Magenta Mushroom
+Purple Mushroom
+White Mushroom
+Light Gray Mushroom
+Gray Mushroom
+Black Mushroom
+Blue Mushroom Block
+Light Blue Mushroom Block
+Cyan Mushroom Block
+Green Mushroom Block
+Lime Mushroom Block
+Yellow Mushroom Block
+Orange Mushroom Block
+Pink Mushroom Block
+Magenta Mushroom Block
+Purple Mushroom Block
+White Mushroom Block
+Light Gray Mushroom Block
+Gray Mushroom Block
+Black Mushroom Block
+Blue Tetris Block
+Light Blue Tetris Block
+Cyan Tetris Block
+Green Tetris Block
+Lime Tetris Block
+Yellow Tetris Block
+Orange Tetris Block
+Red Tetris Block
+Pink Tetris Block
+Magenta Tetris Block
+Purple Tetris Block
+Brown Tetris Block
+White Tetris Block
+Light Gray Tetris Block
+Gray Tetris Block
+Black Tetris Block
+Tetris Glass
+Japanese Tetris Cushion
+Rainbow Tetris Scaffolding
+Monochrome Tetris Scaffolding
+Vampire Stone
+Medusa's Stone
+Medusa's Bricks
+Medusa's Brick Stairs
+Blue Candy Cane Pillar
+Light Blue Candy Cane Pillar
+Cyan Candy Cane Pillar
+Green Candy Cane Pillar
+Lime Candy Cane Pillar
+Yellow Candy Cane Pillar
+Orange Candy Cane Pillar
+Red Candy Cane Pillar
+Pink Candy Cane Pillar
+Magenta Candy Cane Pillar
+Purple Candy Cane Pillar
+Brown Candy Cane Pillar
+White Candy Cane Pillar
+Light Gray Candy Cane Pillar
+Gray Candy Cane Pillar
+Black Candy Cane Pillar
+Green Hill Grass Block
+Green Hill Dirt
+Marble Zone Stone
+Yellow Studiopolis Clapper
+Blue Studiopolis Clapper
+Spring
+Scarlet Grass Block
+Scarlet Grass
+Scarlet Mushroom
+Scarlet Orchid
+Iron Scaffolding
+Purple Bricks
+Purple Brick Stairs
+Cyan Bricks
+Cyan Brick Stairs
+Elder Pebbles
+Space Matter
+Space Obsidian
+Blue Puyo
+Turquoise Puyo
+Green Puyo
+Yellow Puyo
+Red Puyo
+Purple Puyo
+Garbage Puyo
+Point Puyo
+Hard Puyo
+Iron Puyo
+Puyo Block
+Rewind Block
+Koretato Block
+Vanadium
+Bandage
+Wheat Flour
+Caramel Cube
+Crêpe
+Chocolate Crêpe
+Caramel Crêpe
+Candy Cane
+Burger
+Tomato
+Salad
+Cheese
+Totem of Ascending
+Super Mushroom
+Peach
+Cape Feather
+Super Cape Feather
+Super Star
+Yellow Coin
+Red Coin
+Blue Coin
+Smash Ball
+Annoying Dog
+Blank Music Disc
+Super Mario 3D World - Champion's Road
+Splatoon 2 - Fly Octo Fly
+Castlevania Judgement - Vampire Killer
+C418 - Sweden (NoteBlock Remix)
+Super Mario Galaxy - Buoy Base Galaxy (NoteBlock Remix)
+Mario Kart DS - Waluigi Pinball (NoteBlock Remix)
+Donkey Kong Country: Tropical Freeze - Harvest Hazards (NoteBlock Remix)
+Headphones
+Christmas Hat
+Cappy
+Luigi Cap
+Wario Cap
+Waluigi Cap
+Vanish Cap
+Wing Cap
+Gooigi's Cap
+Princess Peach's Crown
+Princess Daisy's Crown
+Rosalina's Crown
+Pink Gold Peach's Crown
+Super Crown
+Broque Monsieur's Head
+Bandana
+Snorlax Hat
+Top Hat
+Ralsei's Hat
+King Round Mask
+Baldi's Head
+Mayro's Cap
+NoteBlock's Head
+Toad
+Chincho
+? Block drops power up
+? Block drops coin
+Note Block used
+Rewind Block disappears
+Rewind Block reappears
+Annoying Dog disappears
+Annoying Dog barks
+Cape Feather used
+Smash Ball used
+Cappy mumbles
+Cappy running out of steam
+Cappy got on someone's head
+Cappy enjoingly mumbles
+Cappy asks for help
+Toad mumbles
+Toad hurts
+Toad dies
+Mubble
+A grand new journey
+It's mine! Gold!
+Find coins
+The Deluxe Treatment
+Find a Super Crown
+Recovery
+Obtain a bandage
+Super-Stars
+Craft all the caps
+Vanadiums!
+Acquire vanadiums
+It's All Connected
+Get your hand on a Tetris Block
+/motion <entity> <set|add> [dX] [dY] [dZ]
+Changed the motion of %s to %s, %s, %s
+How paradoxal... :)
+That's for you, §6Pixel§r!
+Hey! I thought you already had this on your head, §6Evan§r!
+Come on, you're the one who needs it the least, aren't you, Mr. "§6Sossie§r"?

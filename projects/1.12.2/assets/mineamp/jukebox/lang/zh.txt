@@ -1,0 +1,31 @@
+Translated by MamiyaOtaru (you are welcome to create a translation for your own language)
+MineAmp
+Play
+Pause
+Unpause
+Play/Pause
+Stop
+Previous
+Next
+Shuffle
+Volume
+Progress
+Root
+Desktop
+Home
+Minecraft Music
+Parent
+Current
+Current Directory
+Now Playing
+MineAmp Options
+On Screen Display
+Show Hidden Files
+MineAmp Controls
+MineAmp Interface
+Menu
+Previous
+Play/Pause
+Next
+Increase Volume
+Decrease Volume

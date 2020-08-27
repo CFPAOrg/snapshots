@@ -1,0 +1,52 @@
+Extra Biomes XL
+Autumn Log
+Fir Quarter Log
+Redwood Quarter Log
+Oak Quarter Log
+Bald Cypress Quarter Log
+Rainbow Eucalyptus Quarter Log
+Fir Log
+Redwood Log
+Cypress Log
+Bald Cypress Log
+Bald Cypress Elbow Log
+Rainbow Eucalyptus Elbow Log
+Japanese Maple Log
+Rainbow Eucalyptus Log
+Sakura Log
+Umber Autumn Sapling
+Goldenrod Autumn Sapling
+Vermillion Autumn Sapling
+Citrine Autumn Sapling
+Fir Sapling
+Redwood Sapling
+Bald Cypress Sapling
+Cypress Sapling
+Japanese Maple Sapling
+Japanese Maple Shrub Sapling
+Rainbow Eucalyptus Sapling
+Sakura Sapling
+Umber Autumn Leaves
+Goldenrod Autumn Leaves
+Vermillion Autumn Leaves
+Citrine Autumn Leaves
+Fir Leaves
+Redwood Leaves
+Bald Cypress Leaves
+Cypress Leaves
+Rainbow Eucalyptus Leaves
+Sakura Leaves
+Japanese Maple Leaves
+Japanese Maple Shrub Leaves
+Red Rock
+Red Rock Cobblestone
+Red Rock Brick
+Cracked Sand
+Bald Cypress Wood Planks
+Rainbow Eucalyptus Wood Planks
+Sakura Wood Planks
+Redwood Wood Planks
+Fir Wood Planks
+Autumn Wood Planks
+Cypress Wood Planks
+Japanese Maple Wood Planks

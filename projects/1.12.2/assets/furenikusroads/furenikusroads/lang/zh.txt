@@ -1,0 +1,844 @@
+Tar
+White Paint
+Yellow Paint
+Red Paint
+Standard Tarmac Road
+Concrete Road
+Concrete Road
+Light Tarmac Road
+Dark Tarmac Road
+Pale Tarmac Road
+Red Tarmac Road
+Blue Tarmac Road
+White Tarmac Road
+Yellow Tarmac Road
+Green Tarmac Road
+Fine Tarmac Road
+Mud Road
+Dried Mud Road
+Stone Road
+Grass Road
+Dirt Road
+Sand Road
+Gravel Road
+Sidewalk
+Clean Sidewalk
+Dark Sidewalk
+Tan Sidewalk
+Paint Filler
+Tar Distiller
+Road Factory
+Tarmac Cutter
+Crusher
+Paint Oven
+Compactor
+Fabricator
+Paint Filler Hopper
+Electric Paint Filler
+Electric Tar Distiller
+Electric Road Factory
+Electric Tarmac Cutter
+Electric Crusher
+Electric Paint Oven
+Electric Compactor
+Electric Fabricator
+Curb (Unpainted)
+Curb (White)
+Curb (Yellow)
+Curb (Red)
+Tactile Sidewalk
+Manhole Cover
+Manhole Cover
+Street Light
+Street Light (Long)
+Street Light
+Street Light (Long)
+Street Light (Slant)
+Street Light (Slant)
+Post (Large)
+Post (Medium)
+Post (Small)
+Post (Large)
+Post (Medium)
+Post (Small)
+Horizontal Post (Large)
+Horizontal Post (Medium)
+Horizontal Post (Small)
+Road Barrier Standard (Mid)
+Road Barrier Standard (Edge)
+Road Barrier Standard (Double Edge)
+Road Barrier Standard End (Mid)
+Road Barrier Tall (Mid)
+Road Barrier Tall (Edge)
+Road Barrier Tall (Double Edge)
+Concrete Barrier (Mid)
+Concrete Barrier (Mid)
+Bars (Mid)
+Bars (Mid)
+Bars (Mid)
+Concrete Wall (Mid)
+Concrete Wall (Mid)
+Bars with Concrete Post (Mid)
+Bars with Concrete Post (Mid)
+Concrete Wall with Pole (Mid)
+Concrete Wall with Pole (Mid)
+Barrier Low (Mid)
+Concrete Wall (Edge)
+Concrete Wall (Edge)
+Bars (Edge)
+Bars (Edge)
+Bars (Edge)
+Concrete Barrier (Edge)
+Concrete Barrier (Edge)
+Bars with Concrete Post (Edge)
+Bars with Concrete Post (Edge)
+Concrete Wall with Pole (Edge)
+Concrete Wall with Pole (Edge)
+Barrier Low (Edge)
+Bars (Double Edge)
+Bars (Double Edge)
+Bars (Double Edge)
+Concrete Wall (Double Edge)
+Concrete Wall (Double Edge)
+Bars with Concrete Post (Double Edge)
+Bars with Concrete Post (Double Edge)
+Concrete Wall with Pole (Double Edge)
+Concrete Wall with Pole (Double Edge)
+Drain Cover
+Drain Cover
+Thick Traffic Bollard (Left-Side Drive)
+Thick Traffic Bollard (Left-Side Drive)
+Thick Traffic Bollard (Right-Side Drive)
+Thick Traffic Bollard (Right-Side Drive)
+Thin Traffic Bollard (Left-Side Drive)
+Thin Traffic Bollard (Left-Side Drive)
+Thin Traffic Bollard (Right-Side Drive)
+Thin Traffic Bollard (Right-Side Drive)
+unimplemented
+unimplemented
+unimplemented
+unimplemented
+unimplemented
+unimplemented
+unimplemented
+unimplemented
+Diamond Nugget
+Concrete Bollard 1
+Concrete Bollard 2
+Metal Bollard
+Metal Bollard (Striped)
+Metal Bollard (Rings)
+Metal Bollard (Yellow)
+Thin Metal Bollard
+Thin Metal Bollard (Striped)
+Thin Metal Bollard (Rings)
+Thin Metal Bollard (Yellow)
+Bollard (Topped)
+Bollard (Topped, Ring)
+Metal Bollard (Light)
+Metal Bollard (Black, Light)
+Portable Bollard (Orange)
+Portable Bollard (Yellow)
+Metal Retractable Bollard
+Metal Retractable Bollard
+Metal Retractable Bollard (Black)
+Metal Retractable Bollard (Black)
+Tall Metal Retractable Bollard
+Tall Metal Retractable Bollard 
+Tall Metal Retractable Bollard (Black)
+Tall Metal Retractable Bollard (Black)
+Metal Retractable Bollard
+Metal Retractable Bollard
+Metal Retractable Bollard (Rings)
+Metal Retractable Bollard (Rings)
+Thin Metal Retractable Bollard
+Thin Metal Retractable Bollard
+Thin Metal Retractable Bollard (Rings)
+Thin Metal Retractable Bollard (Rings)
+Metal Folding Bollard
+Metal Folding Bollard
+Metal Folding Bollard
+Metal Folding Bollard
+Metal Folding Bollard
+Metal Folding Bollard
+Metal Folding Bollard
+Metal Folding Bollard
+Metal Wide Folding Bollard
+Metal Wide Folding Bollard
+Metal Wide Folding Bollard
+Metal Wide Folding Bollard
+Metal Wide Folding Bollard
+Metal Wide Folding Bollard
+Metal Wide Folding Bollard
+Metal Wide Folding Bollard
+Black Folding Bollard
+Black Folding Bollard
+Black Folding Bollard
+Black Folding Bollard
+Black Folding Bollard
+Black Folding Bollard
+Black Folding Bollard
+Black Folding Bollard
+Black Wide Folding Bollard
+Black Wide Folding Bollard
+Black Wide Folding Bollard
+Black Wide Folding Bollard
+Black Wide Folding Bollard
+Black Wide Folding Bollard
+Black Wide Folding Bollard
+Black Wide Folding Bollard
+Yellow Folding Bollard
+Yellow Folding Bollard
+Yellow Folding Bollard
+Yellow Folding Bollard
+Yellow Folding Bollard
+Yellow Folding Bollard
+Yellow Folding Bollard
+Yellow Folding Bollard
+Yellow Wide Folding Bollard
+Yellow Wide Folding Bollard
+Yellow Wide Folding Bollard
+Yellow Wide Folding Bollard
+Yellow Wide Folding Bollard
+Yellow Wide Folding Bollard
+Yellow Wide Folding Bollard
+Yellow Wide Folding Bollard
+Concrete Wheel Stop
+Concrete Wheel Stop
+Concrete Wheel Stop
+Concrete Wheel Stop
+Concrete Wheel Stop
+Concrete Wheel Stop
+Concrete Wheel Stop
+Concrete Wheel Stop
+Yellow Wheel Stop
+Yellow Wheel Stop
+Yellow Wheel Stop
+Yellow Wheel Stop
+Black Wheel Stop
+Black Wheel Stop
+Black Wheel Stop
+Black Wheel Stop
+Black Speed Bump
+Black Speed Bump
+Yellow Speed Bump
+Yellow Speed Bump
+Concrete Speed Bump
+Concrete Speed Bump
+Concrete Speed Bump
+Concrete Speed Bump
+Standard Tarmac Speed Bump
+Standard Tarmac Speed Bump
+White Tarmac Speed Bump
+White Tarmac Speed Bump
+Yellow Tarmac Speed Bump
+Yellow Tarmac Speed Bump
+Red Tarmac Speed Bump
+Red Tarmac Speed Bump
+White Reflector
+Yellow Reflector
+Red Reflector
+Green Reflector
+Blue Reflector
+Red/Green Reflector
+White/Red Reflector
+White/Yellow Reflector
+White/Green Reflector
+Yellow/Red Reflector
+White Reflectors
+Yellow Reflectors
+Red Reflectors
+Green Reflectors
+Blue Reflectors
+Red/Green Reflectors
+White/Red Reflectors
+White/Yellow Reflectors
+White/Green Reflectors
+Yellow/Red Reflectors
+Sidewalk (Brick)
+Sidewalk (Crossed Brick)
+Sidewalk (Small Tiles)
+Sidewalk (Medium Tile)
+Sidewalk (Large Tile)
+Sidewalk (Large Brick)
+Sidewalk (Horizontal Slab)
+Sidewalk (Vertical Slab)
+Tan Sidewalk (Brick)
+Tan Sidewalk (Crossed Brick)
+Tan Sidewalk (Small Tiles)
+Tan Sidewalk (Medium Tile)
+Tan Sidewalk (Large Tile)
+Tan Sidewalk (Large Brick)
+Tan Sidewalk (Horizontal Slab)
+Tan Sidewalk (Vertical Slab)
+Clean Sidewalk (Brick)
+Clean Sidewalk (Crossed Brick)
+Clean Sidewalk (Small Tiles)
+Clean Sidewalk (Medium Tile)
+Clean Sidewalk (Large Tile)
+Clean Sidewalk (Large Brick)
+Clean Sidewalk (Horizontal Slab)
+Clean Sidewalk (Vertical Slab)
+Dark Sidewalk (Brick)
+Dark Sidewalk (Crossed Brick)
+Dark Sidewalk (Small Tiles)
+Dark Sidewalk (Medium Tile)
+Dark Sidewalk (Large Tile)
+Dark Sidewalk (Large Brick)
+Dark Sidewalk (Horizontal Slab)
+Dark Sidewalk (Vertical Slab)
+Crushed Rock
+Clinker
+Cement
+Limestone
+Straight Line
+Straight Line (Connecting)
+Thick Straight Line
+Thick Straight Line (Connecting)
+Straight Double Line
+Straight Double Line (Connecting)
+Thick Straight Double Line
+Thick Straight Double Line (Connecting)
+Double Side Line
+Thick Double Side Line
+Side Line
+Thick Side Line
+Edge Side Line
+Thick Edge Side Line
+Straight Double Line (Half)
+Straight Double Line (Dashed)
+Straight Short Line
+Thick Straight Short Line
+Side Short Line
+Handicapped Icon
+Chevron Icon
+Pedestrian Icon
+Merge Arrow Icon
+Give Way Icon
+Arrow (Line)
+Arrow (Forward)
+Arrow (Side)
+Arrow (Diagonal Line)
+Arrow (Diagonal)
+Crosswalk
+Crosswalk (Thin)
+Crossing Line
+Junction Enter Right
+Junction Exit Left
+Junction Enter Right Mid
+Junction Enter Left
+Junction Exit Right
+Junction Enter Left Mid
+Hatching Box
+Letter A
+Letter B
+Letter C
+Letter D
+Letter E
+Letter F
+Letter G
+Letter H
+Letter I
+Letter J
+Letter K
+Letter L
+Letter M
+Letter N
+Letter O
+Letter P
+Letter Q
+Letter R
+Letter S
+Letter T
+Letter U
+Letter V
+Letter W
+Letter X
+Letter Y
+Letter Z
+Number 0
+Number 1
+Number 2
+Number 3
+Number 4
+Number 5
+Number 6
+Number 7
+Number 8
+Number 9
+?
+!
+#
+/
+Prefab Text: Slow
+Prefab Text: Stop
+Prefab Text: Bike
+Prefab Text: Bus
+Prefab Text: Taxi
+Prefab Text: Lane
+Prefab Text: Keep
+Prefab Text: Clear
+Prefab Text: Turn
+Prefab Text: Left
+Prefab Text: Right
+Prefab Text: Only
+Prefab Text: No
+Prefab Text: Entry
+Prefab Text: Town
+Prefab Text: City
+Prefab Text: C'tre
+Bike Icon
+Chevron (Left)
+Chevron (Mid)
+Chevron (Mid)
+Chevron (Right)
+Chevron (Left, Thin)
+Chevron (Mid, Thin)
+Chevron (Mid, Thin)
+Chevron (Right, Thin)
+Filter Lane (Left)
+Filter Lane (Right)
+Filter Lane (Left, Thin)
+Filter Lane (Right, Thin)
+Filter Lane (Left, Hidden)
+Filter Lane (Right, Hidden)
+Central Divider (Half, Right)
+Central Divider (Half, Right)
+Central Divider (Half, Left)
+Central Divider (Half, Left)
+Central Divider (Half, Right, Thin)
+Central Divider (Half, Right, Thin)
+Central Divider (Half, Left, Thin)
+Central Divider (Half, Left, Thin)
+Central Divider (Full)
+Junction Fork
+Junction Fork (Thin)
+Junction Fork (Chevron, Thin)
+Junction Fork (Chevron)
+Filter Lane Thin->Thick L Back Continuous
+Filter Lane Thin->Thick L Back
+Filter Lane Thin->Thick L Forward Continuous
+Filter Lane Thin->Thick L Forward
+Filter Lane Thin->Thin L Back Continuous
+Filter Lane Thin->Thin L Back
+Filter Lane Thin->Thin L Forward Continuous
+Filter Lane Thin->Thin L Forward
+Filter Lane Thick->Thick L Back Continuous
+Filter Lane Thick->Thick L Back
+Filter Lane Thick->Thick L Forward Continuous
+Filter Lane Thick->Thick L Forward
+Thin Mid Line to Thick Filter Line L
+Thin Mid Line to Thick Filter Line R
+Thick Mid Line to Thick Filter Line R
+Thick Mid Line to Thick Filter Line R
+Straight Line
+Straight Line (Connecting)
+Thick Straight Line
+Thick Straight Line (Connecting)
+Straight Double Line
+Straight Double Line (Connecting)
+Thick Straight Double Line
+Thick Straight Double Line (Connecting)
+Double Side Line
+Thick Double Side Line
+Side Line
+Thick Side Line
+Edge Side Line
+Thick Edge Side Line
+Straight Double Line (Half)
+Straight Double Line (Dashed)
+Straight Short Line
+Thick Straight Short Line
+Side Short Line
+Handicapped Icon
+Chevron Icon
+Pedestrian Icon
+Merge Arrow Icon
+Give Way Icon
+Arrow (Line)
+Arrow (Forward)
+Arrow (Side)
+Arrow (Diagonal Line)
+Arrow (Diagonal)
+Crosswalk
+Crosswalk (Thin)
+Crossing Line
+Junction Enter Right
+Junction Exit Left
+Junction Enter Right Mid
+Junction Enter Left
+Junction Exit Right
+Junction Enter Left Mid
+Hatching Box
+Letter A
+Letter B
+Letter C
+Letter D
+Letter E
+Letter F
+Letter G
+Letter H
+Letter I
+Letter J
+Letter K
+Letter L
+Letter M
+Letter N
+Letter O
+Letter P
+Letter Q
+Letter R
+Letter S
+Letter T
+Letter U
+Letter V
+Letter W
+Letter X
+Letter Y
+Letter Z
+Number 0
+Number 1
+Number 2
+Number 3
+Number 4
+Number 5
+Number 6
+Number 7
+Number 8
+Number 9
+?
+!
+#
+/
+Prefab Text: Slow
+Prefab Text: Stop
+Prefab Text: Bike
+Prefab Text: Bus
+Prefab Text: Taxi
+Prefab Text: Lane
+Prefab Text: Keep
+Prefab Text: Clear
+Prefab Text: Turn
+Prefab Text: Left
+Prefab Text: Right
+Prefab Text: Only
+Prefab Text: No
+Prefab Text: Entry
+Prefab Text: Town
+Prefab Text: City
+Prefab Text: C'tre
+Bike Icon
+Chevron (Left)
+Chevron (Mid)
+Chevron (Mid)
+Chevron (Right)
+Chevron (Left, Thin)
+Chevron (Mid, Thin)
+Chevron (Mid, Thin)
+Chevron (Right, Thin)
+Filter Lane (Left)
+Filter Lane (Right)
+Filter Lane (Left, Thin)
+Filter Lane (Right, Thin)
+Filter Lane (Left, Hidden)
+Filter Lane (Right, Hidden)
+Central Divider (Half, Right)
+Central Divider (Half, Right)
+Central Divider (Half, Left)
+Central Divider (Half, Left)
+Central Divider (Half, Right, Thin)
+Central Divider (Half, Right, Thin)
+Central Divider (Half, Left, Thin)
+Central Divider (Half, Left, Thin)
+Central Divider (Full)
+Junction Fork
+Junction Fork (Thin)
+Junction Fork (Chevron, Thin)
+Junction Fork (Chevron)
+Filter Lane Thin->Thick L Back Continuous
+Filter Lane Thin->Thick L Back
+Filter Lane Thin->Thick L Forward Continuous
+Filter Lane Thin->Thick L Forward
+Filter Lane Thin->Thin L Back Continuous
+Filter Lane Thin->Thin L Back
+Filter Lane Thin->Thin L Forward Continuous
+Filter Lane Thin->Thin L Forward
+Filter Lane Thick->Thick L Back Continuous
+Filter Lane Thick->Thick L Back
+Filter Lane Thick->Thick L Forward Continuous
+Filter Lane Thick->Thick L Forward
+Thin Mid Line to Thick Filter Line L
+Thin Mid Line to Thick Filter Line R
+Thick Mid Line to Thick Filter Line R
+Thick Mid Line to Thick Filter Line R
+Straight Line
+Straight Line (Connecting)
+Thick Straight Line
+Thick Straight Line (Connecting)
+Straight Double Line
+Straight Double Line (Connecting)
+Thick Straight Double Line
+Thick Straight Double Line (Connecting)
+Double Side Line
+Thick Double Side Line
+Side Line
+Thick Side Line
+Edge Side Line
+Thick Edge Side Line
+Straight Double Line (Half)
+Straight Double Line (Dashed)
+Straight Short Line
+Thick Straight Short Line
+Side Short Line
+Handicapped Icon
+Chevron Icon
+Pedestrian Icon
+Merge Arrow Icon
+Give Way Icon
+Arrow (Line)
+Arrow (Forward)
+Arrow (Side)
+Arrow (Diagonal Line)
+Arrow (Diagonal)
+Crosswalk
+Crosswalk (Thin)
+Crossing Line
+Junction Enter Right
+Junction Exit Left
+Junction Enter Right Mid
+Junction Enter Left
+Junction Exit Right
+Junction Enter Left Mid
+Hatching Box
+Letter A
+Letter B
+Letter C
+Letter D
+Letter E
+Letter F
+Letter G
+Letter H
+Letter I
+Letter J
+Letter K
+Letter L
+Letter M
+Letter N
+Letter O
+Letter P
+Letter Q
+Letter R
+Letter S
+Letter T
+Letter U
+Letter V
+Letter W
+Letter X
+Letter Y
+Letter Z
+Number 0
+Number 1
+Number 2
+Number 3
+Number 4
+Number 5
+Number 6
+Number 7
+Number 8
+Number 9
+?
+!
+#
+/
+Prefab Text: Slow
+Prefab Text: Stop
+Prefab Text: Bike
+Prefab Text: Bus
+Prefab Text: Taxi
+Prefab Text: Lane
+Prefab Text: Keep
+Prefab Text: Clear
+Prefab Text: Turn
+Prefab Text: Left
+Prefab Text: Right
+Prefab Text: Only
+Prefab Text: No
+Prefab Text: Entry
+Prefab Text: Town
+Prefab Text: City
+Prefab Text: C'tre
+Bike Icon
+Chevron (Left)
+Chevron (Mid)
+Chevron (Mid)
+Chevron (Right)
+Chevron (Left, Thin)
+Chevron (Mid, Thin)
+Chevron (Mid, Thin)
+Chevron (Right, Thin)
+Filter Lane (Left)
+Filter Lane (Right)
+Filter Lane (Left, Thin)
+Filter Lane (Right, Thin)
+Filter Lane (Left, Hidden)
+Filter Lane (Right, Hidden)
+Central Divider (Half, Right)
+Central Divider (Half, Right)
+Central Divider (Half, Left)
+Central Divider (Half, Left)
+Central Divider (Half, Right, Thin)
+Central Divider (Half, Right, Thin)
+Central Divider (Half, Left, Thin)
+Central Divider (Half, Left, Thin)
+Central Divider (Full)
+Junction Fork
+Junction Fork (Thin)
+Junction Fork (Chevron, Thin)
+Junction Fork (Chevron)
+Filter Lane Thin->Thick L Back Continuous
+Filter Lane Thin->Thick L Back
+Filter Lane Thin->Thick L Forward Continuous
+Filter Lane Thin->Thick L Forward
+Filter Lane Thin->Thin L Back Continuous
+Filter Lane Thin->Thin L Back
+Filter Lane Thin->Thin L Forward Continuous
+Filter Lane Thin->Thin L Forward
+Filter Lane Thick->Thick L Back Continuous
+Filter Lane Thick->Thick L Back
+Filter Lane Thick->Thick L Forward Continuous
+Filter Lane Thick->Thick L Forward
+Thin Mid Line to Thick Filter Line L
+Thin Mid Line to Thick Filter Line R
+Thick Mid Line to Thick Filter Line R
+Thick Mid Line to Thick Filter Line R
+Snow (But magic snow that settles on roads)
+Pneumatic Drill
+Tarmac Rammer
+Paint Gun
+Paint Scraper
+Wrench
+Pneumatic Drill Bit
+Machine Frame
+Electric Machine Frame
+Tool Handle
+Large Glass Tank
+Small Glass Tank
+Paint Gun Barrel
+Paint Gun Display
+Dried Coal
+Cement Dust
+Limestone Dust
+Clinker Mix
+Iron Tarmac Cutter Blade
+Gold Tarmac Cutter Blade
+Diamond Tarmac Cutter Blade
+Iron Tarmac Cutter Blade
+Gold Tarmac Cutter Blade
+Diamond Tarmac Cutter Blade
+Iron Tarmac Cutter Blade
+Gold Tarmac Cutter Blade
+Diamond Tarmac Cutter Blade
+Iron Tarmac Cutter Blade
+Gold Tarmac Cutter Blade
+Diamond Tarmac Cutter Blade
+Tarmac Road Fragment
+Concrete Road Fragment
+Concrete Road Fragment
+Light Road Fragment
+Fine Road Fragment
+Dark Road Fragment
+Pale Road Fragment
+Red Road Fragment
+Blue Road Fragment
+White Road Fragment
+Yellow Road Fragment
+Green Road Fragment
+Mud Road Fragment
+Stone Road Fragment
+Grass Road Fragment
+Dirt Road Fragment
+Gravel Road Fragment
+Sand Road Fragment
+Sidewalk Fragment
+Clean Sidewalk Fragment
+Dark Sidewalk Fragment
+Tan Sidewalk Fragment
+White Paint
+Yellow Paint
+Red Paint
+Tar
+[Fureniku's Roads] Roads
+[Fureniku's Roads] Sidewalks
+[Fureniku's Roads] Tools
+[Fureniku's Roads] Road Parts
+[Fureniku's Roads] Line Paints
+[Fureniku's Roads] Icon Paints
+[Fureniku's Roads] Letter Paints
+[Fureniku's Roads] Text Paints
+[Fureniku's Roads] Junction Paints
+Input
+Output
+Fuel
+Tar Bucket Input
+Tar Bucket Output
+Fluid Bucket Input
+Fluid Bucket Output
+Empty Bucket for fluid
+Empty Bucket from fluid
+Valid Recipes:
+Currently unused
+Road Block
+Road Block (Cut)
+Road Fragments
+Crusher
+Crusher
+Crushes blocks to make different blocks!
+Road Factory
+Road Factory
+Tar Distiller Linked
+Tar Distiller not found.
+Place Tar Distiller to the left,
+or manually add Tar.
+Link
+Create road blocks from their base block.
+Tip: Place to the right of a Tar Distiller!
+Modifier Slot
+All recipes require 1000mb of Tar per 8 blocks
+Use Standard Tarmac or Crushed Rock & Tar with
+a dye to craft coloured roads
+Red Dye
+Blue Dye
+Yellow Dye
+Green Dye
+White Dye
+Tar Distiller
+Tar Distiller
+Creates tar from input items.
+Currently only takes coal. Fuel with lava.
+Tarmac Cutter
+Tarmac Cutter
+Cutter Blade
+Cuts tarmac down to size
+Use Tarmac Cutter Blades to set the required size.
+Paint Filler
+Paint Filler
+Paint Gun Mount
+White Dye Converter
+Yellow Dye Converter
+Red Dye Converter
+Used to create paint, then fill a paint gun.
+Fuel, then add white, yellow or red dye to begin!
+Allows pumping of items and paints in/out of the Paint Filler.
+Dye
+Mixes dyes with water for higher paint yields.
+Requires some method of transporting the paint!
+Compactor
+Compactor
+Tarmac Fragments
+Size to compress to
+Compacts Road Fragments into new Road Blocks
+Fabricator
+Fabricator
+Requires: 
+Click to select recipe
+Crafts decorative blocks to prettify your roads!

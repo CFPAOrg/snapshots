@@ -1,0 +1,26 @@
+Blue Meteor
+Red Meteor
+Blue Meteor Powder
+Red Meteor Powder
+Telescope
+shows new update message
+show meteor start message
+meteor start text
+show approximate coord
+show exact coord
+explosion with flames
+a meteor crashes to the ground
+in
+second
+ approximately at the coordinates:
+ at the coordinates: 
+It is available for download, version
+of JJ Meteor
+Meteor started
+Wrong command: /meteor x y z destroy second drop_item drop_number
+The mod has failed to determine a point of impact, please decrease the minimum distance of crash from the player or reduce the prohibited areas
+Sighted a Meteora, expected crash between
+minutes
+Imminent impact
+Start a Meteor: /meteor x y z destroy second drop_item drop_number
+JJ Meteor

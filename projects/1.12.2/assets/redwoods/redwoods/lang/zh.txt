@@ -1,0 +1,24 @@
+Redwoods Config
+Redwoods
+Redwood Log
+Fir Log
+Redwood Log
+Fir Log
+Redwood Sapling
+Fir Sapling
+Redwood Leaves
+Fir Leaves
+Redwood Planks
+Fir Wood Planks
+Redwood Slab
+Fir Wood Slab
+Redwood Stairs
+Fir Wood Stairs
+Redwood Fence
+Fir Fence
+Redwood Fence Gate
+Fir Fence Gate
+Redwood Door
+Fir Door
+Log Turner
+Use on a log to instantly set\n its axis to the side you clicked\n When used on a quarter log, it\n will try to set the axis, and if\n it already matches, it will then\n rotate the bark side clockwise\n When used while sneaking, it will\n cycle the axis and bark side

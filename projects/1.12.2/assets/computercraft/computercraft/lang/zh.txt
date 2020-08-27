@@ -1,0 +1,58 @@
+Computer
+Advanced Computer
+Disk Drive
+Printer
+Monitor
+Advanced Monitor
+Wireless Modem
+Wired Modem
+Networking Cable
+Command Computer
+Ender Modem
+Speaker
+Turtle
+%s Turtle
+%s %s Turtle
+Advanced Turtle
+Advanced %s Turtle
+Advanced %s %s Turtle
+Floppy Disk
+Floppy Disk
+Printed Page
+Printed Pages
+Printed Book
+Pocket Computer
+%s Pocket Computer
+Advanced Pocket Computer
+Advanced %s Pocket Computer
+Melee
+Digging
+Mining
+Felling
+Farming
+Wireless
+Crafty
+Ender
+Noisy
+Peripheral "%s" connected to network
+Peripheral "%s" disconnected from network
+Enable HTTP API
+HTTP whitelist
+HTTP blacklist
+Disable Lua 5.1 features
+Default Computer settings
+Log peripheral errors
+Enable command block peripheral
+Modem range (default)
+Modem range (high-altitude)
+Modem range (bad weather)
+Modem range (high-altitude, bad weather)
+Computer space limit (bytes)
+Floppy Disk space limit (bytes)
+Enable fuel
+Turtle fuel limit
+Advanced Turtle fuel limit
+Turtles obey block protection
+Turtles can push entities
+Maximum files open per computer
+Maximum notes that a computer can play at once

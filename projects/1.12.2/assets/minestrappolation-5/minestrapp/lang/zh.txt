@@ -1,0 +1,1666 @@
+Moss Lump
+Hanging Moss
+Carpet Glow Moss
+Creeping Glow Moss
+Hanging Glow Moss
+Melon Bricks
+Glowshroom
+Glowshroom
+Glowshroom
+Glowshroom
+Glowshroom
+Glowshroom
+Infectious Mushroom
+Tundra Grass
+Savanna Grass
+Blueberry Bush
+Blackberry Bush
+Raspberry Bush
+Strawberry Bush
+Mana Bush
+Redwood Leaves
+Frozen Oak Leaves
+Palm Fronds
+Dead Palm Fronds
+Clutchthorn
+Voidberry Bush
+Terracreep Spore
+Endermite Hive Husk
+Honeyed Endermite Hive Husk
+Endermite Hive Combs
+Endermite Eggsack
+Cheese Wheel
+Quesadilla
+Pizza
+Cold Sand
+Cold Red Sand
+Permafrost
+Coarse Permafrost
+Frozen Podzol
+Lichen
+Lichen Path
+Frozen Farmland
+Clay Soil
+Coarse Clay Soil
+Clay Podzol
+Clay Grass
+Clay Grass Path
+Clay Farmland
+Mud
+Dried Mud
+Portal Dust
+Shattered Portal Dust
+Chordsol
+Fargrowth
+Fargrowth Path
+Redwood
+Frozen Oak Wood
+Charwood
+Palm Wood
+Palm Crown
+Palm Crown
+Coconut
+Mossy Oak Wood Planks
+Mossy Spruce Wood Planks
+Mossy Birch Wood Planks
+Mossy Jungle Wood Planks
+Mossy Acacia Wood Planks
+Mossy Dark Oak Wood Planks
+Redwood Planks
+Mossy Redwood Planks
+Frozen Oak Wood Planks
+Mossy Frozen Oak Wood Planks
+Charwood Planks
+Smoldering Charwood Planks
+Palm Wood Planks
+Mossy Palm Wood Planks
+Redwood Plank Slab
+Frozen Oak Plank Slab
+Charwood Plank Slab
+Palm Plank Slab
+Oak Plank Panel
+Spruce Plank Panel
+Birch Plank Panel
+Jungle Plank Panel
+Acacia Plank Panel
+Dark Oak Plank Panel
+Redwood Plank Panel
+Frozen Oak Plank Panel
+Charwood Plank Panel
+Palm Plank Panel
+Redwood Plank Stairs
+Frozen Oak Plank Stairs
+Charwood Plank Stairs
+Palm Plank Stairs
+Redwood Fence
+Frozen Oak Fence
+Charwood Fence
+Palm Fence
+Redwood Fence Gate
+Frozen Oak Fence Gate
+Charwood Fence Gate
+Palm Fence Gate
+Charroot
+Glacieric Ice
+Glacieric Icicle
+Mud Bricks
+Mud Brick Stairs
+Granite Bricks
+Granite Tiles
+Diorite Bricks
+Diorite Tiles
+Andesite Bricks
+Andesite Tiles
+Slate
+Polished Slate
+Slate Bricks
+Slate Tiles
+Sandstone Bricks
+Red Sandstone Bricks
+Cold Sandstone
+Polished Cold Sandstone
+Chiseled Cold Sandstone
+Cold Sandstone Bricks
+Cold Red Sandstone
+Polished Cold Red Sandstone
+Chiseled Cold Red Sandstone
+Cold Red Sandstone Bricks
+Polished Desert Quartz
+Chiseled Desert Quartz
+Desert Quartz Pillar
+Polished Irradiant Quartz
+Chiseled Irradiant Quartz
+Irradiant Quartz Pillar
+Red Rock
+Deep Red Rock
+Deepstone
+Coldstone
+Deep Coldstone
+Icestone
+Glacierrock
+Oceanstone
+Reefstone
+Red Cobblestone
+Deep Red Cobblestone
+Deep Cobblestone
+Cold Cobblestone
+Deep Cold Cobblestone
+Cracked Icestone
+Cracked Glacierrock
+Cobbled Oceanstone
+Cobbled Reefstone
+Mossy Red Cobblestone
+Deep Mossy Red Cobblestone
+Deep Mossy Cobblestone
+Mossy Cold Cobblestone
+Deep Mossy Cold Cobblestone
+Snowy Cracked Icestone
+Snowy Cracked Glacierrock
+Mossy Cobbled Oceanstone
+Mossy Cobbled Reefstone
+Red Rock Bricks
+Deep Red Rock Bricks
+Deepstone Bricks
+Coldstone Bricks
+Deep Coldstone Bricks
+Icestone Bricks
+Glacierrock Bricks
+Oceanstone Bricks
+Reefstone Bricks
+Cracked Red Rock Bricks
+Cracked Deep Red Rock Bricks
+Cracked Deepstone Bricks
+Cracked Coldstone Bricks
+Cracked Deep Coldstone Bricks
+Cracked Icestone Bricks
+Cracked Glacierrock Bricks
+Cracked Oceanstone Bricks
+Cracked Reefstone Bricks
+Mossy Red Rock Bricks
+Mossy Deep Red Rock Bricks
+Mossy Deepstone Bricks
+Mossy Coldstone Bricks
+Mossy Deep Coldstone Bricks
+Snowy Icestone Bricks
+Snowy Glacierrock Bricks
+Mossy Oceanstone Bricks
+Mossy Reefstone Bricks
+Chiseled Red Rock
+Chiseled Deep Red Rock
+Chiseled Deepstone
+Chiseled Coldstone
+Chiseled Deep Coldstone
+Chiseled Icestone
+Chiseled Glacierrock
+Chiseled Oceanstone
+Chiseled Reefstone
+Shimmerstone
+Cobbled Shimmerstone
+Shimmerstone Bricks
+Cracked Shimmerstone Bricks
+Glow-Mossy Shimmerstone Bricks
+Shimmerstone Tiles
+Chiseled Shimmerstone
+Shimmering Blue Glowshroom Lamp
+Shimmering Purple Glowshroom Lamp
+Shimmering Green Glowshroom Lamp
+Soul Glass
+Soul Glass Tiles
+Soul Glass Pillar
+Blazed Soul Glass
+Blazed Soul Glass Tiles
+Blazed Soul Glass Pillar
+Polished Purpur
+Slabbed Portar
+Fishboned Portar
+Tiled Portar
+Chiseled Portar
+Portine Sunstone Lamp
+Portine Glowstone Lamp
+Portine Sea Lamp
+Gilded Bricks
+Gilded Tiles
+Gilded Pillar
+Gilded Capital
+Gilded Plinth
+Mud Brick Slab
+Granite Brick Slab
+Diorite Brick Slab
+Andesite Brick Slab
+Slate Brick Slab
+Portar Slab
+Shimmerstone Slab
+Cobbled Shimmerstone Slab
+Shimmerstone Brick Slab
+Desert Quartz Slab
+Irradiant Quartz Slab
+Sandstone Brick Slab
+Red Sandstone Brick Slab
+Cold Sandstone Slab
+Cold Red Sandstone Slab
+Cold Sandstone Brick Slab
+Cold Red Sandstone Brick Slab
+Gilded Brick Slab
+Red Rock Slab
+Deep Red Rock Slab
+Deepstone Slab
+Coldstone Slab
+Deep Coldstone Slab
+Icestone Slab
+Glacierrock Slab
+Oceanstone Slab
+Reefstone Slab
+Red Cobblestone Slab
+Deep Red Cobblestone Slab
+Deep Cobblestone Slab
+Cold Cobblestone Slab
+Deep Cold Cobblestone Slab
+Cracked Icestone Slab
+Cracked Glacierrock Slab
+Cobbled Oceanstone Slab
+Cobbled Reefstone Slab
+Red Rock Brick Slab
+Deep Red Rock Brick Slab
+Deepstone Brick Slab
+Coldstone Brick Slab
+Deep Coldstone Brick Slab
+Icestone Brick Slab
+Glacierrock Bricks Slab
+Oceanstone Bricks Slab
+Reefstone Bricks Slab
+Mud Brick Panel
+Granite Brick Panel
+Diorite Brick Panel
+Andesite Brick Panel
+Slate Brick Panel
+Clay Brick Panel
+Sandstone Panel
+Red Sandstone Panel
+Sandstone Brick Panel
+Red Sandstone Brick Panel
+Cold Sandstone Panel
+Cold Red Sandstone Panel
+Cold Sandstone Brick Panel
+Cold Red Sandstone Brick Panel
+Desert Quartz Panel
+Irradiant Quartz Panel
+Red Cobblestone Panel
+Deep Red Cobblestone Panel
+Cobblestone Panel
+Deep Cobblestone Panel
+Cold Cobblestone Panel
+Deep Cold Cobblestone Panel
+Cracked Icestone Panel
+Cracked Glacierrock Panel
+Cobbled Oceanstone Panel
+Cobbled Reefstone Panel
+Red Rock Panel
+Deep Red Rock Panel
+Stone Panel
+Deepstone Panel
+Coldstone Panel
+Deep Coldstone Panel
+Icestone Panel
+Glacierrock Panel
+Oceanstone Panel
+Reefstone Panel
+Red Rock Brick Panel
+Deep Red Rock Brick Panel
+Stone Brick Panel
+Deepstone Brick Panel
+Coldstone Brick Panel
+Deep Coldstone Brick Panel
+Icestone Brick Panel
+Glacierrock Brick Panel
+Oceanstone Brick Panel
+Reefstone Brick Panel
+Nether Brick Panel
+Nether Quartz Panel
+Shimmerstone Panel
+Cobbled Shimmerstone Panel
+Shimmerstone Brick Panel
+Purpur Panel
+Slabbed Portar Panel
+Gilded Brick Panel
+Granite Brick Stairs
+Diorite Brick Stairs
+Andesite Brick Stairs
+Slate Brick Stairs
+Sandstone Brick Stairs
+Red Sandstone Brick Stairs
+Cold Sandstone Stairs
+Cold Red Sandstone Stairs
+Cold Sandstone Brick Stairs
+Cold Red Sandstone Brick Stairs
+Desert Quartz Stairs
+Irradiant Quartz Stairs
+Red Cobblestone Stairs
+Deep Red Cobblestone Stairs
+Deep Cobblestone Stairs
+Cold Cobblestone Stairs
+Deep Cold Cobblestone Stairs
+Cracked Icestone Stairs
+Cracked Glacierrock Stairs
+Cobbled Oceanstone Stairs
+Cobbled Reefstone Stairs
+Red Rock Brick Stairs
+Deep Red Rock Brick Stairs
+Deepstone Brick Stairs
+Coldstone Brick Stairs
+Deep Coldstone Brick Stairs
+Icestone Brick Stairs
+Glacierrock Brick Stairs
+Oceanstone Brick Stairs
+Reefstone Brick Stairs
+Cobbled Shimmerstone Stairs
+Shimmerstone Brick Stairs
+Slabbed Portar Stairs
+Gilded Brick Stairs
+Invincium
+Glacial Invincium
+Red Rock Monster Egg
+Deep Red Rock Monster Egg
+Deepstone Monster Egg
+Coldstone Monster Egg
+Deep Coldstone Monster Egg
+Icestone Monster Egg
+Glacierrock Monster Egg
+Oceanstone Monster Egg
+Reefstone Monster Egg
+Red Cobblestone Monster Egg
+Deep Red Cobblestone Monster Egg
+Deep Cobblestone Monster Egg
+Cold Cobblestone Monster Egg
+Deep Cold Cobblestone Monster Egg
+Cracked Icestone Monster Egg
+Cracked Glacierrock Monster Egg
+Cobbled Oceanstone Monster Egg
+Cobbled Reefstone Monster Egg
+Red Rock Bricks Monster Egg
+Deep Red Rock Bricks Monster Egg
+Deepstone Bricks Monster Egg
+Coldstone Bricks Monster Egg
+Deep Coldstone Bricks Monster Egg
+Icestone Bricks Monster Egg
+Glacierrock Bricks Monster Egg
+Oceanstone Bricks Monster Egg
+Reefstone Bricks Monster Egg
+Mossy Red Rock Bricks Monster Egg
+Mossy Deep Red Rock Bricks Monster Egg
+Mossy Deepstone Bricks Monster Egg
+Mossy Coldstone Bricks Monster Egg
+Mossy Deep Coldstone Bricks Monster Egg
+Snowy Icestone Bricks Monster Egg
+Snowy Glacierrock Bricks Monster Egg
+Mossy Oceanstone Bricks Monster Egg
+Mossy Reefstone Bricks Monster Egg
+Cracked Red Rock Bricks Monster Egg
+Cracked Deep Red Rock Bricks Monster Egg
+Cracked Deepstone Bricks Monster Egg
+Cracked Coldstone Bricks Monster Egg
+Cracked Deep Coldstone Bricks Monster Egg
+Cracked Icestone Bricks Monster Egg
+Cracked Glacierrock Bricks Monster Egg
+Cracked Oceanstone Bricks Monster Egg
+Cracked Reefstone Bricks Monster Egg
+Chiseled Red Rock Monster Egg
+Chiseled Deep Red Rock Monster Egg
+Chiseled Deepstone Monster Egg
+Chiseled Coldstone Monster Egg
+Chiseled Deep Coldstone Monster Egg
+Chiseled Icestone Monster Egg
+Chiseled Glacierrock Monster Egg
+Chiseled Oceanstone Monster Egg
+Chiseled Reefstone Monster Egg
+Desert Quartz Deposit
+Sandy Desert Quartz Deposit
+Cold Sandy Desert Quartz Deposit
+Red Sandy Desert Quartz Deposit
+Cold Red Sandy Desert Quartz Deposit
+Salt Ore
+Salt Ore
+Salt Ore
+Salt Ore
+Salt Ore
+Salt Ore
+Salt Ore
+Salt Ore
+Salt Ore
+Salt Ore
+Coal Ore
+Coal Ore
+Coal Ore
+Coal Ore
+Coal Ore
+Coal Ore
+Coal Ore
+Coal Ore
+Coal Ore
+Copper Ore
+Copper Ore
+Copper Ore
+Copper Ore
+Copper Ore
+Copper Ore
+Copper Ore
+Copper Ore
+Copper Ore
+Copper Ore
+Tin Ore
+Tin Ore
+Tin Ore
+Tin Ore
+Tin Ore
+Tin Ore
+Tin Ore
+Tin Ore
+Tin Ore
+Tin Ore
+Iron Ore
+Iron Ore
+Iron Ore
+Iron Ore
+Iron Ore
+Iron Ore
+Iron Ore
+Iron Ore
+Iron Ore
+Gold Ore
+Gold Ore
+Gold Ore
+Gold Ore
+Gold Ore
+Gold Ore
+Gold Ore
+Gold Ore
+Gold Ore
+Meurodite Ore
+Meurodite Ore
+Meurodite Ore
+Meurodite Ore
+Meurodite Ore
+Meurodite Ore
+Meurodite Ore
+Meurodite Ore
+Meurodite Ore
+Meurodite Ore
+Lapis Lazuli Ore
+Lapis Lazuli Ore
+Lapis Lazuli Ore
+Lapis Lazuli Ore
+Lapis Lazuli Ore
+Lapis Lazuli Ore
+Lapis Lazuli Ore
+Lapis Lazuli Ore
+Lapis Lazuli Ore
+Redstone Ore
+Redstone Ore
+Redstone Ore
+Redstone Ore
+Redstone Ore
+Redstone Ore
+Redstone Ore
+Redstone Ore
+Redstone Ore
+Irradium Ore
+Irradium Ore
+Irradium Ore
+Irradium Ore
+Irradium Ore
+Irradium Ore
+Irradium Ore
+Irradium Ore
+Irradium Ore
+Irradium Ore
+Torite Ore
+Torite Ore
+Torite Ore
+Torite Ore
+Torite Ore
+Torite Ore
+Torite Ore
+Torite Ore
+Torite Ore
+Torite Ore
+Rock Crystal Deposit
+Sunstone Deposit
+Glacieric Ice Deposit
+Soul Eyes
+Diamond Ore
+Diamond Ore
+Diamond Ore
+Diamond Ore
+Diamond Ore
+Diamond Ore
+Diamond Ore
+Diamond Ore
+Diamond Ore
+Emerald Ore
+Emerald Ore
+Emerald Ore
+Emerald Ore
+Emerald Ore
+Emerald Ore
+Emerald Ore
+Emerald Ore
+Emerald Ore
+Archantine Ore
+Archantine Ore
+Archantine Ore
+Archantine Ore
+Archantine Ore
+Archantine Ore
+Archantine Ore
+Archantine Ore
+Archantine Ore
+Archantine Ore
+Blazium Ore
+Soul Ore
+Shimmering Ore
+Dimensium Ore
+Strange Boulder
+Strange Boulder
+Buried Heart Piece
+Block of Salt
+Block of Rock Crystal
+Block of Copper
+Block of Tin
+Block of Bronze
+Block of Steel
+Block of Meurodite
+Block of Sandy Redstone
+Block of Sandy Redstone
+Block of Frosted Redstone
+Block of Frosted Redstone
+Block of Icy Redstone
+Block of Icy Redstone
+Block of Briny Redstone
+Block of Briny Redstone
+Unstable Block of Irradium
+Sunstone
+Block of Torite
+Block of Archantine
+Block of Glacierite
+Block of Blazium
+Soul Gem Block
+Block of Mite Honey
+Block of Dimensium
+Destabilized Block of Dimensium
+Glowing White Wool
+Glowing Magenta Wool
+Glowing Red Wool
+Glowing Orange Wool
+Glowing Gold Wool
+Glowing Green Wool
+Glowing Cyan Wool
+Glowing Blue Wool
+Glowing Purple Wool
+Glowing White Carpet
+Glowing Magenta Carpet
+Glowing Red Carpet
+Glowing Orange Carpet
+Glowing Gold Carpet
+Glowing Green Carpet
+Glowing Cyan Carpet
+Glowing Blue Carpet
+Glowing Purple Carpet
+Glowing White Stained Glass
+Glowing Magenta Stained Glass
+Glowing Red Stained Glass
+Glowing Orange Stained Glass
+Glowing Gold Stained Glass
+Glowing Green Stained Glass
+Glowing Cyan Stained Glass
+Glowing Blue Stained Glass
+Glowing Purple Stained Glass
+Glowing White Stained Glass Pane
+Glowing Magenta Stained Glass Pane
+Glowing Red Stained Glass Pane
+Glowing Orange Stained Glass Pane
+Glowing Gold Stained Glass Pane
+Glowing Green Stained Glass Pane
+Glowing Cyan Stained Glass Pane
+Glowing Blue Stained Glass Pane
+Glowing Purple Stained Glass Pane
+Glowing White Terracotta
+Glowing Magenta Terracotta
+Glowing Red Terracotta
+Glowing Orange Terracotta
+Glowing Gold Terracotta
+Glowing Green Terracotta
+Glowing Cyan Terracotta
+Glowing Blue Terracotta
+Glowing Purple Terracotta
+Glowing White Glazed Terracotta
+Glowing Magenta Glazed Terracotta
+Glowing Red Glazed Terracotta
+Glowing Orange Glazed Terracotta
+Glowing Gold Glazed Terracotta
+Glowing Green Glazed Terracotta
+Glowing Cyan Glazed Terracotta
+Glowing Blue Glazed Terracotta
+Glowing Purple Glazed Terracotta
+Glowing White Concrete Powder
+Glowing Magenta Concrete Powder
+Glowing Red Concrete Powder
+Glowing Orange Concrete Powder
+Glowing Gold Concrete Powder
+Glowing Green Concrete Powder
+Glowing Cyan Concrete Powder
+Glowing Blue Concrete Powder
+Glowing Purple Concrete Powder
+Glowing White Concrete
+Glowing Magenta Concrete
+Glowing Red Concrete
+Glowing Orange Concrete
+Glowing Gold Concrete
+Glowing Green Concrete
+Glowing Cyan Concrete
+Glowing Blue Concrete
+Glowing Purple Concrete
+Candle
+Light Gray Candle
+Gray Candle
+Black Candle
+Brown Candle
+Pink Candle
+Red Candle
+Orange Candle
+Yellow Candle
+Lime Candle
+Green Candle
+Cyan Candle
+Light Blue Candle
+Blue Candle
+Purple Candle
+Magenta Candle
+Glowing White Candle
+Glowing Magenta Candle
+Glowing Red Candle
+Glowing Orange Candle
+Glowing Yellow Candle
+Glowing Green Candle
+Glowing Cyan Candle
+Glowing Blue Candle
+Glowing Purple Candle
+Block of Cork
+Tiled Glass
+Bricked Glass
+Wooden Window
+Iron Window
+Steel Window
+Tiled Glass Pane
+Bricked Glass Pane
+Wooden Window Pane
+Iron Window Pane
+Steel Window Pane
+Steel Mesh
+Bronze Honeycomb
+Steel Honeycomb
+Meurodite Honeycomb
+Rope
+Dimensional Rope
+Charwood Door
+Ice Bauble
+Sunstone Bauble
+Glowstone Bauble
+Blue Glowshroom Bauble
+Green Glowshroom Bauble
+Purple Glowshroom Bauble
+Blazium Bauble
+Red Cobblestone Wall
+Deep Red Cobblestone Wall
+Deep Cobblestone Wall
+Cold Cobblestone Wall
+Deep Cold Cobblestone Wall
+Cracked Icestone Wall
+Cracked Glacierrock Wall
+Cobbled Oceanstone Wall
+Cobbled Reefstone Wall
+Mossy Red Cobblestone Wall
+Deep Mossy Red Cobblestone Wall
+Deep Mossy Cobblestone Wall
+Mossy Cold Cobblestone Wall
+Deep Mossy Cold Cobblestone Wall
+Snowy Cracked Icestone Wall
+Snowy Cracked Glacierrock Wall
+Mossy Cobbled Oceanstone Wall
+Mossy Cobbled Reefstone Wall
+Resolute Gray Chandelier
+Resolute Red Chandelier
+Resolute Cyan Chandelier
+Resolute Purple Chandelier
+Spooky Black Chandelier
+Spooky Orange Chandelier
+Spooky Lime Chandelier
+Spooky Purple Chandelier
+Simple Normie Jack o'Lantern
+Average Normie Jack o'Lantern
+Complex Normie Jack o'Lantern
+Simple Grumpy Jack o'Lantern
+Average Grumpy Jack o'Lantern
+Complex Grumpy Jack o'Lantern
+Simple Dumpy Jack o'Lantern
+Average Dumpy Jack o'Lantern
+Complex Dumpy Jack o'Lantern
+Simple Creepy Jack o'Lantern
+Average Creepy Jack o'Lantern
+Complex Creepy Jack o'Lantern
+Simple Smiley Jack o'Lantern
+Average Smiley Jack o'Lantern
+Complex Smiley Jack o'Lantern
+Smashed Jack-o'-Lantern
+Woven Plate
+Slate Plate
+Copper Plate
+Bronze Plate
+Steel Plate
+Golden Plate
+Bat Skull
+Chicken Skull
+Cow Skull
+Horse Skull
+Ocelot Skull
+Parrot Skull
+Pig Skull
+Rabbit Skull
+Sheep Skull
+Squid Skull...?
+Villager Skull
+Llama Skull
+Polar Bear Skull
+Wolf Skull
+Enderman Skull
+Creeper Skull
+Guardian Skull
+Husk Skull
+Stray Skull
+Shulker Skull
+Red Rock Pavers
+Stone Pavers
+Coldstone Pavers
+Icestone Pavers
+Oceanstone Pavers
+Netherrack Pavers
+End Stone Pavers
+Crate
+Basket
+Cheesemaking Basket
+Basket of Milk
+Basket of Culturing Milk
+Sealed Basket of Culturing Milk
+Sealed Basket of Curds
+Basket of Curds
+Basket of Thickened Curds
+Basket of Salted Curds
+Sealed Basket of Salted Curds
+Sealed Basket of Soggy Cheese
+Sealed Basket of Wet Cheese
+Sealed Basket of Moist Cheese
+Sealed Basket of Cheese
+Basket of Cheese
+Irradiant Sunstone
+Godstone
+Lava Sponge
+Molten Lava Sponge
+Oak Wood Spike
+Spruce Wood Spike
+Birch Wood Spike
+Jungle Wood Spike
+Acacia Wood Spike
+Dark Oak Wood Spike
+Redwood Spike
+Frozen Oak Spike
+Charwood Spike
+Palm Wood Spike
+Red Rock Spike
+Stone Spike
+Coldstone Spike
+Icestone Spike
+Oceanstone Spike
+Copper Spike
+Tin Spike
+Iron Spike
+Bronze Spike
+Steel Spike
+Gold Spike
+Meurodite Spike
+Torite Spike
+Glacierite Spike
+Blazium Spike
+Diamond Spike
+Archantine Spike
+Dimensium Spike
+Bedrock Spike
+Magnet Piston
+Insulated Block of Irradium
+Stabilized Block of Dimensium
+Stabilized Block of Dimensium
+Axial Stasis Field
+Soulsteel Vessel
+Barrel
+Sawmill
+Stonecutter
+Tanning Rack
+Alloy Furnace
+Pressurizer
+Crusher
+Sandy Redstone
+Frosted Redstone
+Icy Redstone
+Briny Redstone
+Pipe
+Covered Pipe
+Covered Pipe
+Covered Pipe
+Covered Pipe
+Covered Pipe
+Covered Pipe
+Covered Pipe
+Covered Pipe
+Covered Pipe
+Covered Pipe
+Sorter
+Autonomous Activator
+Creative Engine
+Wooden Axel
+Nothing
+Charwood Door
+Palm Door
+Mud Ball
+Red Rock Chunk
+Stone Chunk
+Coldstone Chunk
+Icestone Chunk
+Oceanstone Chunk
+Netherrack Chunk
+End Stone Chunk
+Copper Chunk
+Tin Chunk
+Iron Chunk
+Gold Chunk
+Torite Chunk
+Archantine Chunk
+Dimensium Chunk
+Shimmering Chunk
+Irradium
+Copper Nugget
+Tin Nugget
+Bronze Nugget
+Steel Nugget
+Torite Nugget
+Glacierite Nugget
+Blazium Nugget
+Archantine Nugget
+Dimensium Nugget
+Adamantium Nugget
+Copper Ingot
+Tin Ingot
+Bronze Ingot
+Steel Ingot
+Torite Ingot
+Archantine Ingot
+Glacierite Ingot
+Blazium Ingot
+Dimensium Ingot
+Adamantium Ingot
+Salt
+Sunstone Shard
+Desert Quartz
+Rock Crystal
+Irradiant Quartz
+Meurodite
+Blaze Shard
+Glacieric Ice Shard
+Soul Gem
+Plant Fibers
+Mana Leaf
+Clutchthorn Fibers
+Clutchthorn Petal
+Coconut Shell
+Sawdust
+Tree Bark
+Glowing White Dye
+Glowing Magenta Dye
+Glowing Red Dye
+Glowing Orange Dye
+Glowing Gold Dye
+Glowing Green Dye
+Glowing Cyan Dye
+Glowing Blue Dye
+Glowing Purple Dye
+Animal Bones
+Tallow
+Wing Sinew
+Horse Hide
+Pig Skin
+Wolf Hide
+Polar Bear Pelt
+Sheep Hoof
+Spider Leg
+Mooshroom Hide
+Creeper Carapace
+Ghast Hide
+Skeletal Hand
+Reanimated Arm
+Effervexcense
+Cured Rabbit Hide
+Cured Cow Hide
+Cured Horse Hide
+Cured Pig Skin
+Cured Wolf Hide
+Cured Flesh
+Cured Rotten Flesh
+Poorly Scudded Hide
+Small Scudded Hide
+Scudded Hide
+Large Scudded Hide
+Botched Leather
+Suede
+Leather
+Fine Leather
+Cured Polar Bear Pelt
+Cured Mooshroom Hide
+Cured Ghast Hide
+Mana-Cured Polar Bear Pelt
+Mana-Cured Mooshroom Hide
+Mana-Cured Creeper Carapace
+Mana-Cured Ghast Hide
+Mystic Scudded Hide
+Legendary Scudded Hide
+Mystic Leather
+Legendary Leather
+Poor Tannic
+Tannic
+Fine Tannic
+Tanning Solvent
+Mud Brick
+Portar
+Tin Plating
+Bronze Plating
+Steel Plating
+Meurodite Plating
+Copper Plating
+Gold Plating
+Iron Plating
+Torite Plating
+Glacierite Plating
+Blazium Plating
+Diamond Plating
+Archantine Plating
+Dimensium Plating
+Reinforced Stick
+Wing Segment
+Propeller
+Inert Chip
+Technological Doodad
+Advanced Tech Doodad
+Magnet
+Fiberous Mesh
+Red Axial Anchor
+Green Axial Anchor
+Blue Axial Anchor
+Dimensium Glider Frame
+Heart Piece
+Heart Container
+Glow Paste
+'Health Crystal'
+Redwood Boat
+Frozen Oak Boat
+Charwood Boat
+Palm Boat
+Empty Seed Pouch
+Seed Pouch
+Satchel
+Backpack
+Copper Mining Sieve
+Iron Mining Sieve
+Bronze Mining Sieve
+Archantine Mining Sieve
+Broken Archantine Mining Sieve
+Adamantium Mining Sieve
+Copper Saw Blade
+Iron Saw Blade
+Bronze Saw Blade
+Steel Saw Blade
+Archantine Saw Blade
+Wooden Hang Glider
+Reinforced Hang Glider
+Axial Hang Glider
+Primitive Cap
+Primitive Tunic
+Primitive Pants
+Primitive Boots
+Tin Helmet
+Tin Chestplate
+Tin Leggings
+Tin Boots
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Meurodite Helmet
+Meurodite Chestplate
+Meurodite Leggings
+Meurodite Boots
+Torite Helmet
+Torite Chestplate
+Torite Leggings
+Torite Boots
+Archantine Helmet
+Archantine Chestplate
+Archantine Leggings
+Archantine Boots
+Blazium Helmet
+Blazium Chestplate
+Blazium Leggings
+Blazium Boots
+Glacierite Helmet
+Glacierite Chestplate
+Glacierite Leggings
+Glacierite Boots
+Copper Pickaxe
+Copper Axe
+Copper Shovel
+Copper Hoe
+Bronze Pickaxe
+Bronze Axe
+Bronze Shovel
+Bronze Hoe
+Steel Pickaxe
+Steel Axe
+Steel Shovel
+Steel Hoe
+Meurodite Pickaxe
+Meurodite Axe
+Meurodite Shovel
+Meurodite Hoe
+Torite Pickaxe
+Torite Axe
+Torite Shovel
+Torite Hoe
+Archantine Pickaxe
+Archantine Axe
+Archantine Shovel
+Archantine Hoe
+Blazium Pickaxe
+Blazium Axe
+Blazium Shovel
+Blazium Hoe
+Glacierite Pickaxe
+Glacierite Axe
+Glacierite Shovel
+Glacierite Hoe
+Bedrock Pickaxe
+Bedrock Axe
+Bedrock Shovel
+Bedrock Hoe
+Adamantium Pickaxe
+Adamantium Axe
+Adamantium Shovel
+Adamantium Hoe
+Gold Dagger
+Gold Scepter
+Wooden Dagger
+Wooden Club
+Stone Dagger
+Stone Mace
+Copper Sword
+Copper Dagger
+Copper Mace
+Bronze Sword
+Bronze Dagger
+Bronze Mace
+Steel Sword
+Steel Dagger
+Steel Mace
+Meurodite Sword
+Meurodite Dagger
+Meurodite Mace
+Torite Sword
+Torite Dagger
+Torite Mace
+Iron Dagger
+Iron Mace
+Diamond Dagger
+Diamond Mace
+Archantine Sword
+Archantine Dagger
+Archantine Mace
+Blazium Sword
+Blazium Dagger
+Blazium Mace
+Glacierite Sword
+Glacierite Dagger
+Glacierite Mace
+Adamantium Sword
+Adamantium Dagger
+Adamantium Mace
+Blueberry
+Raspberry
+Blackberry
+Strawberry
+Voidberry
+Pepper
+Pepper Seeds
+Cabbage
+Cabbage Seeds
+Celery
+Celery Seeds
+Lettuce
+Onion
+Peanuts
+Roasted Peanuts
+Tomato
+Tomato Seeds
+Ear of Corn
+Corn on the Cob
+Grilled Corn
+Coconut Slice
+Corn Meal
+Corn Bread
+Tortilla
+Quesadilla Slice
+Dough
+Sugar Cookie
+Bun
+PB&J Sandwich
+Grilled Cheese Sandwich
+BLT Sandwich
+Fish Sandwich
+Salmon Burger
+Hamburger
+Cheeseburger
+Mushroom Burger
+Lamb Taco
+Rabbit Taco
+Tropical Fish Taco
+Beef Burrito
+Chicken Burrito
+Seafood Burrito
+Breakfast Burrito
+Uncooked Pizza
+Pizza Slice
+Dry Spaghetti
+Pie Crust
+Apple Pie
+Blueberry Pie
+Blackberry Pie
+Raspberry Pie
+Strawberry Pie
+Voidberry Pie
+Cake Slice
+Bread Bowl
+Mushroom Stew
+Beetroot Soup
+Rabbit Stew
+Fried Egg
+Fried Egg
+Rice Bowl
+Rice Bowl
+Stir Fry
+Stir Fry
+Tomato Sauce
+Tomato Sauce
+Salsa
+Salsa
+Chips & Salsa
+Chips & Salsa
+Loaded Nachos
+Loaded Nachos
+Tomato Soup
+Tomato Soup
+Spaghetti
+Spaghetti
+Mushroom Stroganoff
+Mushroom Stroganoff
+Mushroom Glowganoff
+Mushroom Glowganoff
+Popcorn
+Popcorn
+Ice Cream
+Ice Cream
+Glowshroom Stew
+Glowshroom Stew
+Green Salad
+Green Salad
+Hearty Salad
+Hearty Salad
+Hasty Salad
+Hasty Salad
+Healthy Salad
+Healthy Salad
+Fitness Salad
+Fitness Salad
+Coleslaw
+Coleslaw
+Mystic Salad
+Mystic Salad
+Melonade
+Jam
+Void Jam
+Peanut Butter
+Hot Sauce
+Endermite Honey
+Cheese Slice
+Fat
+Grease
+Salted Chicken
+Salted Rabbit
+Salted Mutton
+Salted Steak
+Salted Porkchop
+Chicken Jerky
+Rabbit Jerky
+Mutton Jerky
+Beef Jerky
+Pork Jerky
+Cod Jerky
+Salmon Jerky
+Squid Tentacle
+Calamari
+Sushi
+Lucky Sushi
+Onigiri
+Flesh
+Tortilla Chips
+Nachos
+Fries
+Fried Fish
+Fried Salmon
+Fish & Chips
+Bacon
+Living Licorice
+Camo Candy
+Lofty Lolly
+B-Ball Pasta
+Smelling Salts
+Crystalfloe
+Crystalfloe
+Pressurizer
+Sawmill
+Sheet Ghost
+Lump Goat
+Burfalaunt
+Infected Zombie
+Minestrapp Plants
+Minestrapp Environmental Blocks
+Minestrapp Wood Blocks
+Minestrapp Stone Blocks
+Minestrapp Ores
+Minestrapp Resource Blocks
+Minestrapp Minerals
+Minestrapp Crafting Ingredients
+Minestrapp Food
+Minestrapp Dyeables
+Minestrapp Decorative Blocks
+Minestrapp Utility Blocks
+Minestrapp Tools
+Minestrapp Combat
+Cow Hide
+Clay Brick
+Iron Cauldron
+Human Skull
+Clay Bricks
+Iron Cauldron
+Chiseled Stone Monster Egg
+Clay Brick Stairs
+Cobblestone Stairs
+Oak Plank Stairs
+Acacia Plank Stairs
+Birch Plank Stairs
+Dark Oak Plank Stairs
+Jungle Plank Stairs
+Spruce Plank Stairs
+Mossy Cobblestone
+Clay Brick Slab
+Stone Brick Slab
+Chiseled Stone
+Acacia Plank Slab
+Dark Oak Plank Slab
+Birch Plank Slab
+Jungle Plank Slab
+Oak Plank Slab
+Spruce Plank Slab
+Glowpumpkin
+Wheat Seeds
+Polished Nether Quartz
+Polished Nether Quartz
+Chiseled Nether Quartz
+Nether Quartz Pillar
+Nether Quartz Slab
+Nether Quartz Stairs
+Potion of Infection
+Potion of Water Aversion
+Potion of Grip
+Potion of Restoration
+Potion of Angst
+Potion of Calm
+Potion of Efficiency
+Potion of Lethargy
+Splash Potion of Infection
+Splash Potion of Water Aversion
+Splash Potion of Grip
+Splash Potion of Restoration
+Splash Potion of Angst
+Splash Potion of Calm
+Splash Potion of Efficiency
+Splash Potion of Lethargy
+Lingering Potion of Infection
+Lingering Potion of Water Aversion
+Lingering Potion of Grip
+Lingering Potion of Restoration
+Lingering Potion of Angst
+Lingering Potion of Calm
+Lingering Potion of Efficiency
+Lingering Potion of Lethargy
+Arrow of Infection
+Arrow of Water Aversion
+Arrow of Grip
+Arrow of Restoration
+Arrow of Angst
+Arrow of Calm
+Arrow of Efficiency
+Arrow of Lethargy
+Total Stoner
+Collect all 10 types of cobblestone.
+The Absolute Madmason
+Craft every single stone decor block in the game, INCLUDING the slabs and stairs.
+Big Penny
+Smelt a copper ingot.
+The Pipes are Broken
+Craft a copper item pipe.
+Tin Outta Ten
+Smelt a tin ingot.
+Skipping an Upgrade
+Skip stone tools by crafting a copper pickaxe.
+Thrift-Store Fashion
+Protect(?) yourself with a piece of tin armor.
+Metallurgical!
+Craft an alloy furnace.
+Bronze Age
+Alloy some copper and tin to get a bronze ingot.
+Nuggets of Steel
+Alloy an iron ingot and some coal into a steel ingot.
+NUCULAR!
+Find that stupid ore block that keeps poisoning you while you're trying to mine.
+Mistakes Were Made
+Place an unstable block of irradium.
+Fireproof
+Obtain a full set of meurodite armor.
+The Jungle Block
+Smelt some exotic torite ore.
+Self-Healing Armor
+Obtain a full set of torite armor.
+Arctic Expedition
+Harvest a glacieric ice deposit using a pickaxe.
+Gotta Slide Fast
+Craft a block of glacieric ice.
+An Unlikely Alloyance
+Alloy some glacieric ice shards with a torite ingot.
+Stay Frosty
+Obtain a full set of glacierite armor. Then go for a walk.
+Cold to the Touch
+Craft any glacierite tool or weapon.
+Prospective Prospector
+Discover every type of ore.
+Arch de Triomphe
+Smelt the rarest ore in the game to obtain the rarest ingot in the game.
+Invincible
+Obtain a full set of archantine armor, then cry when you realize how long that took.
+Crushin' It
+Craft a crusher and double your ore output!
+Yabadabadoo!
+Mine a block of unbreakable bedrock.
+Foraging
+If you can find it, you can utilize it.
+Soiled It!
+Collect every type of soil available in any dimension.
+Biofuel
+Dig up a clump of moss.
+Grass Enthusiast
+Collect all three types of tall grass.
+Aint Nothin' but a Hang Strang
+Craft some climbable rope.
+A Tisket, a Tasket
+Craft yourself a basket.
+Bring Me a Shrubbery
+Collect every type of bush. EVERY type.
+Eh, Sieve!
+Craft a sieve to find buried valuables.
+Infinite Value
+Craft a reusable archantine sieve.
+Y So Salty
+Alloy some raw meat with salt to enhance its flavor.
+A Nice Rack
+Craft a tanning rack to turn raw hides into fine leathers.
+What a Jerk!
+Salt & dry some meat into saturating jerky.
+A Rockin' Tan
+Successfully tan a piece of fine leather.
+Too Many Items
+Craft a backpack to further enable your own hoarding problem.
+Artisinal Lard
+Smelt some fat into tallow.
+Setting the Mood
+Craft a decorative candle.
+Fat Frier
+Smelt some tallow into grease, then alloy it with some other food.
+Fine Dining and Breathing
+Collect every type of dinnerware.
+Stardew
+Plant ALL the seeds!!!
+The Best Thing Since...
+Alloy dough and pepper seeds together to bake some tasty buns.
+The Philosophy of Sandwich
+What is a sandwich, really?
+what is wrong with you
+seriously why would you ever drink this what did you expect
+Saved by the Smell
+Use some smelling salts to cure all your ailments.
+On the Wings of a Bat
+Craft a hang glider and soar through the skies.
+Flying in Style
+Reinforce your hang glider for a faster, longer flight.
+Lost in Translation
+Translate across the skies indefinitely using an axial hang glider.
+Bonehead
+Find every type of mob skull.
+Automation
+Work smarter, not harder.
+It Sucks More than Anything!
+Craft a hopper using steel and a pipe.
+Glad We Got That Sorted Out
+Craft a sorter pipe using bronze plating, a pipe, and a hopper.
+The Toxicity Problem
+Craft an insulated block of irradium.
+Some Harmless Radiation
+Alloy some irradium with a block of sunstone and monitor your mob farms through walls.
+So Pushy
+Craft a piston.
+A Very Attractive Block
+Craft a magnet piston.
+How do you like my spikes?!
+Break blocks using a spike and a piston.
+DELETED!!
+Eviscerate any block or mob from this mortal coil using a dimensium spike.
+An Extra Set of Hands
+Enlist the help of an autonomous activator to do all the hard work for you.
+Souls to Go
+Obtain a soul gem, then consume it to gain its power.
+Molten Metal
+Alloy some blaze shards with a gold ingot.
+Hot to the Touch
+Craft any blazium tool or weapon.
+Blistering Heat
+Obtain a full set of blazium armor. Then let an overworld mob attack you.
+Creepy Quarry
+Collect some hazardous terracreep spores.
+The Delicious Honey
+Raid an endermite hive for its honey.
+Long Live the Queen
+Break into a mite hive and steal their babies like the monster you are.
+Dope Rope
+Craft some infinitely long, multi-dimensional rope.
+God-Tier
+Craft a block of undead-smiting godstone.
+Minestrapp Configuration
+Blocks
+Alter various Minestrapp block properties.
+Spike Item Entity Limit
+Limits how many item entities can be generated within a 5x5 area by any Spikes.
+Limits how many item entities can be generated within a 5x5 area by any Spikes.
+Is Glacial Invincium Minable
+Determines whether Glacial Invincium be harvested with a Pickaxe.
+Determines whether Glacial Invincium be harvested with a Pickaxe.
+World Generation
+Toggle aspects of Minestrapp's custom world generation.
+Generate Desert Quartz Deposits
+Determines whether Desert Quartz deposits will generate in Desert & Mesa biomes.
+Determines whether Desert Quartz deposits will generate in Desert & Mesa biomes.
+Generate Salt Ore
+Determines whether Salt Ore will generate in Ocean & Mushroom biomes.
+Determines whether Salt Ore will generate in Ocean & Mushroom biomes.
+Generate Copper Ore
+Determines whether Copper Ore will generate.
+Determines whether Copper Ore will generate.
+Generate Tin Ore
+Determines whether Tin Ore will generate.
+Determines whether Tin Ore will generate.
+Generate Meurodite Ore
+Determines whether Meurodite Ore will generate.
+Determines whether Meurodite Ore will generate.
+Generate Torite Ore
+Determines whether Torite Ore will generate in Jungles, Roofed Forests, and Swamps.
+Determines whether Torite Ore will generate in Jungles, Roofed Forests, and Swamps.
+Generate Irradium Ore
+Determines whether Irradium Ore will generate.
+Determines whether Irradium Ore will generate.
+Generate Sunstone Deposits
+Determines whether Sunstone Deposits will generate in the overworld and the End.
+Determines whether Sunstone Deposits will generate in the overworld and the End.
+Generate Icicles
+Determines whether Glacieric Icicles will generate in cold caves.
+Determines whether Glacieric Icicles will generate in cold caves.
+Generate Glacieric Ice Mounds
+Determines whether Glacieric Ice Mounds will generate in snow biomes.
+Determines whether Glacieric Ice Mounds will generate in snow biomes.
+Generate Archantine Ore
+Determines whether Archantine Ore will generate. Dunno why you'd even bother turning this one off though, seeing as it's nigh impossible to find Archantine as-is...
+Determines whether Archantine Ore will generate. Dunno why you'd even bother turning this one off though, seeing as it's nigh impossible to find Archantine as-is...
+Generate Blazium Ore
+Determines whether Blazium Ore will generate in the Nether.
+Determines whether Blazium Ore will generate in the Nether.
+Generate Shimmering Ore
+Determines whether Shimmering Ore will generate below the Lava in the Nether.
+Determines whether Shimmering Ore will generate below the Lava in the Nether.
+Generate Soul Ore
+Determines whether Soul Ore will generate in the Nether.
+Determines whether Soul Ore will generate in the Nether.
+Generate Dimensium Ore
+Determines whether Dimensium Ore will generate in the End.
+Determines whether Dimensium Ore will generate in the End.
+Generate Buried Heart Pieces
+Determines whether Buried Heart Pieces generate in the Overworld, Nether, and End.
+Determines whether Buried Heart Pieces generate in the Overworld, Nether, and End.
+Generate Clay Soil
+Determines whether Clay Soil replaces all Dirt in jungles, swamps, and warm biomes.
+Determines whether Clay Soil replaces all Dirt in jungles, swamps, and warm biomes.
+Generate Permafrost
+Determines whether Permafrost replaces all Dirt in snowy biomes.
+Determines whether Permafrost replaces all Dirt and Cold Sand replaces all Sand in snowy biomes.
+Generate Mud
+Determines whether Mud veins generate at the bottoms of rivers and swamps.
+Determines whether Mud veins generate at the bottoms of rivers and swamps.
+Generate Red Rock
+Determines whether Red  Rock replaces all Stone in warm biomes.
+Determines whether Red Rock replaces all Stone in warm biomes.
+Generate Coldstone
+Determines whether Coldstone replaces all Stone in cool biomes.
+Determines whether Coldstone replaces all Stone in cool biomes.
+Generate Icestone
+Determines whether Icestone replaces all Stone in snowy biomes.
+Determines whether Icestone replaces all Stone in snowy biomes.
+Generate Oceanstone
+Determines whether Oceanstone replaces all Stone in ocean & mushroom island biomes.
+Determines whether Oceanstone replaces all Stone in ocean & mushroom island biomes.
+Generate Deep Stones
+Determines whether Deep stone variants generate underground in the overworld.
+Determines whether Deep stone variants generate underground in the overworld.
+Generate Invincium
+Determines whether Invincium will generate at the bottom layer of overworld and the Nether.
+Determines whether Invincium will generate at the bottom layer of overworld and the Nether.
+Generate Portal Dust
+Determines whether Portal Dust generates in the End.
+Determines whether Portal Dust generates in the End.
+Generate Moss
+Determines whether Moss generates in the overworld.
+Determines whether Moss generates in the overworld.
+Generate Carpet Glow Moss
+Determines whether Carpet Glow Moss generates in the overworld and End.
+Determines whether Carpet Glow Moss generates in the overworld and End.
+Generate Creeping Glow Moss
+Determines whether Creeping Glow Moss generates in the overworld and Nether.
+Determines whether Creeping Glow Moss generates in the overworld and End.
+Generate Savanna Grass
+Determines whether Savanna Grass replaces all Tall Grass in savannas.
+Determines whether Savanna Grass replaces all Tall Grass in savannas.
+Generate Tundra Grass
+Determines whether Tundra Grass replaces all Tall Grass in snowy biomes.
+Determines whether Tundra Grass replaces all Tall Grass in snowy biomes.
+Generate Berry Bushes
+Determines whether Raspberry, Blueberry, Strawberry, Blackberry, and Voidberry Bushes generate in their respective biomes.
+Determines whether Raspberry, Blueberry, Strawberry, Blackberry, and Voidberry Bushes generate in their respective biomes.
+Generate Mana Bushes
+Determines whether Mana Bushes generate on beaches and mushroom islands.
+Determines whether Mana Bushes generate on beaches and mushroom islands.
+Generate Glowshrooms
+Determines whether Glowshrooms generate in the overworld and the Nether.
+Determines whether Glowshrooms generate in the overworld and the Nether.
+Generate Infectious Mushrooms
+Determines whether Infectious Mushrooms generate on Mushroom Islands.
+Determines whether Infectious Mushrooms generate on Mushroom Islands.
+Generate Hanging Glow Moss
+Determines whether Hanging Glow Moss generates in the Nether and the End.
+Determines whether Hanging Glow Moss generates in the Nether and the End.
+Generate Clutchthorn
+Determines whether Clutchthorn generates in the End.
+Determines whether Clutchthorn generates in the End.
+Generate Terracreep
+Determines whether Terracreep generates in the End.
+Determines whether Terracreep generates in the End.
+Generate Lava Sponges
+Determines whether Lava Sponges generate in the End.
+Determines whether Lava Sponges generate in the End.
+Generate Endermite Hives
+Determines whether Endermite Hives generate in the End.
+Determines whether Endermite Hives generate in the End.
+Vanilla Tweaks
+Determine which Vanilla features Minestrapp alters.
+Remove Vanilla Recipes
+Determines whether all Vanilla recipes replaced by Minestrapp ones will be removed on launch. Does not disable Minestrapp replacement recipes from being added.
+Determines whether all Vanilla recipes replaced by Minestrapp ones will be removed on launch. Does not disable Minestrapp replacement recipes from being added.
+Starting Health
+Determines how much health players start with in survival.
+Determines how much health players start with in survival.
+Maximum Health
+Determines the maximum amount of health players can reach using Heart Containers.
+Determines the maximum amount of health players can reach using Heart Containers.
+Light Freezing
+Deep Freezing
+Sieving
+In-World Block Interactions
+Sawmill
+Sawmill
+Alloy Smelting
+Crushing
+Light Freezing
+Deep Freezing
+Sieving
+Pressurizing
+In-World Block Interactions
+Milling

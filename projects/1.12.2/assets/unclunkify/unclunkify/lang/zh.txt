@@ -1,0 +1,10 @@
+Unclunkify
+Mining Explosive
+High-Temperature Furnace
+Ore Crusher
+High-Temp Furnace
+Ore Crusher
+Heat: %s
+Spin-Up: %s
+Burn Time: %.1fs
+Progress: %s

@@ -1,0 +1,1396 @@
+Minestuck
+The Beginning of Something Really Excellent
+Connect
+Create a connection with someone.
+A New World
+Create, and use the Cruxite Artifact.
+Step Towards Alchemy
+Getting a punch designix is the first step to alchemizing something else!
+Can I Get A, Uh...
+Successfully place and consume an order.
+Gold Farming
+It begins to dawn on you that everything you just did may have been a colossal waste of time.
+Uprooting
+Remove the root card in a tree modus with a bunch of items.
+The Big One
+Kill an ogre.
+Dungeon Explorer
+Find a Dungeon to explore!
+There's no Place Like Home
+Find a Return Node and jump in to return home.
+Commune
+Visit a village and talk to a consort.
+Buyer Beware
+Buy an item from a shady consort.
+Crunchy and High in Protein
+Eat a bug.
+A New Type of Frustrating
+Equip a new modus.
+A Full Set
+Try a new modus type.
+Aspect Effects have been toggled on
+Aspect Effects have been toggled off
+/checkLand
+/grist [player] <add|set> <gristtype value ...> OR /grist [player] get
+%s has:%s
+Invalid grist name: %s
+Successfully increased grist value for "%s"
+Successfully changed grist value for "%s"
+/gristSend <player> <gristtype value ...>
+Successfully gave grist to %s: %s
+You are not permitted to send grist to %s.
+Invalid Command: "%s"
+/sburbSession <session name> <add|name|title|landTerrain|landTitle|define> [values ...]
+Successfully added/removed %d/%d players.
+Renamed "%3$s"'s session "%1$s" to "%2$s".
+Named "%2$s"'s session as "%1$s".
+"%s" is not a valid title class.
+"%s" is not a valid title aspect.
+Successfully predefined %s's title as %s
+Successfully predefined %s's terrain land aspect as %s
+Successfully predefined %s's title land aspect as %s
+/tpz [player] <transportalizer code>
+Couldn't find transportalizer with ID "%s"
+Successfully teleported %s to transprtalizer "%s"
+Failed the teleport.
+This command is only useable by players.
+This command is only useable by players. Try /grist instead.
+/sburbServer <client player> <server player>
+Successfully set %s's server player as %s.
+/setRung <target player> <target rung> [progress]
+Successfully changed %s's rung to %d with %d%% progress.
+/porkhollow <send|take> [target player] <amount>
+Successfully sent %s boondollars to %s.
+Successfully took out %s boondollars from your porkhollow.
+You don't have enough boondollars.
+/tpStruct village
+/landDebug <~ OR terrainlandspect titlelandspect ...>
+Clear message
+Disconnect
+%s
+Activate edit mode
+Give items
+Open to clients
+Resume connection
+Connected to %s
+Connection failed
+Client is already active
+Connection closed
+Server closed
+Can't reach skaianet
+Server offline
+Select a server below
+Server with your name exists
+Waiting for server...
+Waiting for client...
+Stopped resuming
+Client
+Server
+Game session is full
+Select a Color
+Server player's session is full
+Client player's session is full
+You don't have enough boondollars for that!
+You need a %s for that!
+Thanks!
+Thank you!
+...
+:(
+My dad was blown away in one of the recent wind storms.
+If only I was faster than the wind! That would be fun!
+Actually, nevermind. I would be burned on a pyre for being a witch due to our primal society.
+Some people say the oceans of blood are actually kool-aid. I'm too scared to taste it for myself.
+You don't want to know what it's like to be outside when it rains. You can't tell who's a murderer or who forgot an umbrella!
+If you're looking for a good land to swim in, it's definitely not this one.
+OH GOD IS THAT BLOOD oh wait nevermind.
+Some people say at night, skeletons riding skeleton horses come through the town.
+Every once in a blue moon, lightning strikes and burns down the village. We have to rebuild it!
+Those darn doomsayers, preaching about the Apocalypse and The Reckoning and such!
+What's The Reckoning? It's when meteors from The Veil are sent towards Skaia.
+Like any reasonable %s believes in that!
+You don't want to be struck by lightning. No one does.
+We're lucky to have rain with this weather.
+Otherwise the thunder would surely have been our death.
+This land is HARDCORE! There's lava and lightning wherever you go!
+Nemesis has been throwing thunder for generations, not stopping for even a moment.
+They are even doing it in their sleep. Can you believe that?
+Our daughter wants a bunny for her birthday, even though she caught six in the past three hours.
+One time our village ran out of food and we tried eating rabbits. It was a dark period in our village history.
+This place is just so full of life! I despise it.
+This land is already pretty desolate. There being lots of rabbits eating everything they find doesn't help!
+But with that many rabbits around, there sure are other ways of getting food...
+I sure wonder where the rabbits are getting their food from.
+There's not really much food to be found in this desolate place.
+Except maybe cacti, but would rabbits eat something that prickly?
+I mean, there's not really much else than mushrooms around here.
+I've heard moaning coming from our son's bedroom. I found out he's keeping a pet zombie in there! Tamed it n' everything!
+A few giant spiders raided our village last night, taking all of our bugs! Those monsters...
+What's your monster-sona? Mine is a zombie.
+Legends say underneath the tower to the north is a Captain Lizardtail's buried treasure! Literal tons of bugs, they say!
+That tower over there was built by my great grandpa Fjorgenheimer! You can tell by how its about to fall apa- oh it fell apart.
+I feel ripped off. I was born in a land full of magical towers but none of them have treasure!
+Our smartest villager read all the books in the library and now knows how to make glass jars! He's a gift from the big frog above!
+We ate all the books in the nearby college ruins. It turns out thousand-year-old leather doesn't make the best dinner.
+To eat, or not to eat, that is the question.
+All of the villagers here are trying to crack the mystery of how to make the frosted bread we see all day on our walks.
+I heard all the cakes magically regenerate if you don't completely eat them! That's completely stupid!
+Let's see, the recipe calls for 5 tbsp. of sugar, 2 tbsp. vanilla, 1 large grasshopper... what are you looking at?
+If you're not careful, anything can set you on fire here, even the cakes!
+When we start talking about cakes, the others start mentioning frosting. I'm not sure I get what they're talking about!
+Legends say the giant gears were used for technology no consort has ever seen before. That's absurd! It's obviously food!
+My neighbor says the gears are evil! He also said that swords are used for combat, so he's probably insane.
+The ticking keeps me up all night. It keeps us all up all night. Save us.
+We are thankful for all the frogs that They gave to us when the universe was created. They, of course, is the genesis frog. I feel bad for the fool who has to make another!
+Ribbit, ribbit! I'm a frog! I don't care what you say!
+Most people believe there aren't that many types of frogs. 4740, maybe? Anything beyond that would be proposterous.
+Here in %s, however, we know that there are 9.444731276889531e+22 types of frogs.
+For whatever reason, residents of Derse HATE frogs! Why would someone hate frogs?
+My brother found a magic grasshopper while fishing recently!
+Usually all we find are rings!
+The frogs around here are all so gay! Look at them happily hopping about!
+Some may call our land lewd, but the buckets are just so fun to swim in!
+The buckets are a great source of water, as long as you pick the ones with water...
+Did you know that some buckets provide warmth? I tend to curl up next to one from time to time.
+Did you know that the buckets sometimes hold something other than oil?
+In some cases, they even contain something drinkable!
+God, it's bright. Half of our village is blind. It's beginning to become a serious problem.
+Our best village doctors found that staying outside in the blinding light for too long is not good for us. Most of us stay inside all our lives. It's sad.
+Are you staring at me? No, really! I can't see because I'm blind.
+You'd better wear sunglasses, else you might not see where you're going.
+This is not the best place to wander blindly in.
+You would think that the light would melt more snow.
+But nope, the snow stays as frozen as ever!
+Isn't it wonderful how much the snow is glimmering in the light?
+Isn't it wonderful how much the sand is glimmering in the light?
+Those light pillars... they somehow make me think of the legend of the wyrm.
+This is a great place for murder. No one will hear you scream.
+This place is so quiet and peaceful. Too bad we can't hear underlings about to kill us.
+Shhh, they can hear you...
+Just kidding, no one can hear you! The land itself muffles your words!
+The sense of calmness in the air, it's kind of unnerving!
+Climb up high and you'll be up for a great view!
+I'd climb up one of those towers and look at the view, but I am scared of heights.
+I mean, what if I slipped and fell off the stairs?
+I'd climb up one of those rocks and look at the view, but I am scared of heights.
+I mean what if I fell down and landed on my back?
+AAH, I am scared of heights!
+Someone's gotta be farmin' all these goddamn fuckin' mushrooms, pain in the ass through truly it be.
+So that's what I'm doing.
+Standing around here.
+farmin' all these
+goddamn
+fuckin
+mushrooms
+Do you put glow mushrooms on your pizza or leave them off?
+Put them on
+I put them on!
+Good! I was afraid I'd have to kill you!
+Leave them off
+I leave them off!
+You are a despicable person.
+Our land is a fire waiting to happen! Hopefully there isn't any lightning!
+Is it getting hot in here or is it just me?
+Have you ever had a lava-roasted cricket? The lava really brings out the cricket juices.
+You'd better watch where you're going. Wouldn't want you to step right into some fire.
+We figured out how to treat the wood to make it less flammable. I hope we didn't miss a spot.
+Be careful not to walk barefoot here, you could get a splinter!
+Some of our kind have died due to the amount of splinters they received while on a walk.
+Ah, the mildew on the grass in the morning makes the landscape so pretty!
+Frog, don't you love the feeling of mycelium on your toes?
+No? Is that just me?
+At first, no one liked the mushrooms when our planet was cursed with the Dank.
+Those who refused to adapt to the new food source Perished, obviously.
+It's so damp and cold! I wish I had a jacket!
+Curse %s! And curse all their mushrooms, too! I miss eating crickets instead of all these mushrooms!
+According to legends of old, the %s will come one day and get the evil %s to clear up all this fungus!
+Sand-surfing is my new favorite sport! Too bad you can't really move, though.
+Want to buy a used camel? Only 2000 boondollars.
+Why not? Seems like a good price for a camel!
+Sure!
+Hahaha! Sucker! I have no camel! Cya later! 8)
+Of course not! You know better!
+Not at all!
+Are you sure? Too bad! The camel knew how to dance, too!
+I kind of feel like we're a stale, knockoff sand land.
+According to legend, %s ate all the sand here leaving nothing but sandstone!
+I'm kidding, I made that up on the spot. I had no other dialogue.
+Red is much better than yellow, don't you think?
+In our village, we have tales of monsters that are atttracted to red. That's why everything is yellow!
+My neighbors were complaining the other night about the snow.
+Personally, the cold never really bothered me anyways.
+You hear a faint "ba-dum tss" in the distance.
+Darn! I only need 100 more boondollars for a nice, fur coat! I’m going to freeze!
+Give them the boondollars [Pay 100 boondollars]
+Here you go!
+Oh, thank you! Now I won't freeze to death out here! Take this as a token of gratitude!
+Don't give them any of your hard-earned boondollars!
+Sorry, but I can't help you.
+I guess I'll just die then...
+These tents doesn't protect against the cold very well, but they are good enough.
+Jokes on the losers in other lands, we have ALL the resources! All of them!
+Here in %s, we practice rock-fu! Learn the way of the rock to CRUSH your enemies into a fine rock powder!
+Jokes on the losers in other lands, we have ALL the trees! All of them!
+Do you like trees? I really like trees. I am one with the tree. Trees. TREES. TREEEES!
+Have you ever noticed rainbow wood looks green from a distance? I wonder if green is somehow more generic than other colors.
+Even for us turtles, this place is too bright. All the light and colors around here can be really overwhelming!
+I saw a rainbow yesterday! Normally I see way more than that.
+Some sunglasses would be really great in a Land like this. Too bad I don't have ears!
+I have no clue what the ground here is made of. I've never seen anything like it anywhere else!
+People ask me, "What's your favorite color?" I can't pick! I love them all! They're all special in their own way! Well, except green.
+In the additive color system, there are three primary colors: red, green, and blue.
+In the subtractive color system, there are also three primary colors, but those are magenta, yellow, and cyan.
+In the additive system, mixing red and green makes yellow, mixing green and blue makes cyan, and mixing blue and red makes magenta.
+In the subtractive system, mixing magenta and yellow makes red, mixing yellow and cyan makes green, and mixing cyan and magenta makes blue!
+These six colors make up the color wheel: red, yellow, green, cyan, blue, magenta, and then back to red.
+When you look at a rainbow, you don't see magenta, because the blue on one end doesn't mix with the red on the other end.
+You do, however, see purple, which is between magenta and blue. Short answer for why that is, your eyes are lying to you.
+Beyond the six main colors, however, there are also six other colors: pink, brown, orange, lime, light blue, and purple.
+In addition, there are also the tones of white, light gray, gray, and black.
+In the additive system, mixing all the colors together makes white.
+In the subtractive system, mixing all the colors together makes black.
+When dealing with dye, however, you can find some unusual combinations, or lack of combinations.
+Dyes work largely on the subtractive color system, but they don't always mix the way they should.
+This is because dyes, while vibrant, are imperfect representations of their respective colors.
+Lime, for example, should be a mix of yellow and green. To get lime dye, though, you need to mix cactus green with white dye instead.
+When mixing red and blue to get magenta, the blue overpowers the red and you get purple. You have to mix the purple with not just red, but pink to get magenta.
+Dye is weird like that.
+...what, you're still listening to me? Wow. No one's ever listened to the whole thing before. Would you like to hear it again?
+This may be the start of our conversation, but now we're at the end.
+Never eat fruit. Last time I tried it, I blacked out and came to somewhere else! Stick to bugs like a normal person!
+The grass in this place just keeps growing everywhere! I don't even know how it takes root in the stone like that.
+Rumors say that %s got mad one day and cursed the world with all this grass everywhere. It gets into our homes!
+I once found this piece of junk that launched me upward when I hit the ground with it. It really hurt when I came back down, and I didn't get anywhere!
+One time, I saw a guy with some weird wing-looking things on his back. He could glide with them, but without being able to stay in the air, what's the point?
+Our oceans used to be filled with life! Now they're all barren, thanks to %s.
+Contrary to popular belief, chalk is not safe for consumption... but how can I resist its allure?
+Have you ever considered eating a rain cloud? Yum! Maybe it tastes like cotton candy...
+Do you know what lies deep beneath the ocean waters? Scary to think about!
+Just keep swimming, just keep swimming! Yay, swimming!
+This land was the site of a battle ages and ages and ages ago.
+The giant creatures who warred here long ago shed so much blood that, even now, the oceans are red with it.
+My grandpa told me that the giant swords everywhere were dropped by giants locked in combat ages ago.
+The strawberries here grow big and red thanks to all the blood in the water supply! The flowers thrive, too!
+Strawberry juice is the only thing safe to drink here. If I have any more, I'll scream. Please save us.
+I have a herb that grants immortality! I’m going to eat it right now!
+However, they are easily confused with an explosion-causing herb…
+I’m taking the risk.
+A good chef cooks with the spices found throughout the land.
+Other chefs are envious that they don’t live in %s.
+Don’t use the sharp sides of giant swords as slides. May her beautiful soul rest in pieces.
+Old wizard Zazzerpan would be turning in his grave if he saw the horrors that walk these lands. Those giclopes sure are terrifying!
+The place was %s, the year, was 20XX.
+We spent a lot of time making this shop looks really nice, we may have overdone it though, I can barely see over this counter.
+Special offer on shell polish, dear custom- wait a minute, where's your shell? Are you naked?
+Please don't climb on the vines outside, I won't be able to reach you and it'll be really upsetting to watch me fruitlessly try.
+My house may be kind of in the ground, but my dreams are taller than any Giclops! One day I'm gonna fly a rocket to Skaia and prove that we're not all so timid.
+Been to the shop? They've got the best %s in the area!
+I used to be an adventurer like you, then I never got the disks.
+Beware the man who speaks in hands, wait...wrong game.
+Maybe you should do something more productive than talking to NPCs.
+I like crumpled hats, they're comfy and easy to wear!
+We would love to invite you, %s, to our secret wizards cult.
+Meet me by dawn with mercury, salt, and sulfur to begin the initiation.
+Secret wizards? Th-there are no secret wizards! Wh-what're you speaking of, o-outlandish traveller?
+I bought a bunch of stocks on the market... Now I'm broke...
+Please, I need to pay for my children to attend college...
+Wow, you have so many boondollars! I'll never make that much in my short, amphibious lifetime.
+They are coming...
+Huh? 'Who the fuck is They'? What kind of question is that?! I don't know! Who the fuck are you?
+I heard that the true name of the %s is %s. Isn't that cool?
+Hey there! I've got a wonderful item here for just 1000 boondollars? How about it kid?
+This consort is way too nice to ever scam you! Surely you can trust them?
+Buy "Wonderful item" [Pay 1000 boondollars]
+Sure! Why not?
+ Here you are!
+Do not buy from cheery salesman.
+No thanks! I'm short on cash.
+Oh! No worries! How about I sell it to you for just 500 boondollars instead??
+Still do not buy from cheery salesman.
+I'm sorry, I meant *really* short on cash...
+Buy that cheap item! [pay 500 boondollars]
+Sure! I'd be glad to!
+Thank you for your money!
+It's a wonderful day. Hopefully some monster underneath the planet's surface doesn't eat us all!
+I heard a floating island just appeared somewhere near here recently and falling chunks destroyed a village underneath it!
+My brother found a magic ring while fishing recently!
+Frog, it's such a wonderful day to just walk around a village.
+Holy leapin' god, you have such wonderful hair! Can I eat some?
+I feel like our king just sits around doing nothing but eating weird glowing mushrooms! So lazy!
+I invented music, y'kno! My favorite song goes like ba ba dum, dum ba dum.
+Legends speak of the Wyrm, a giant ivory pillar that radiates joy and happiness and uselessness.
+You smell kind of... heroic... like a hero, perhaps? It makes me kinda nervous to be around you!
+You smell like you're leeching from the success from another hero... is this true?
+I challenge you to a rap battle! Accept challenge? Y/N
+Accept this consort's challenge!
+Y! I'll take you on! You can even go first.
+Don't bother with this guy.
+N. Maybe later.
+Maybe one day I will find a challenger worthy of my greatness....
+I see you carryin' a pick
+You think you minin'? Sick
+But uh...
+you ain't. Word.
+You're green and square, kinda beveled on the sides
+And the corners I guess. Or are they called vertexes?
+But I'm sayin' you're generic. Like, so generic
+it doesn't make sense. ... uh, sorry for being a jerk.
+Yeah. Yeah. Yeah. Yeah.
+Ooh. Ooh. Ooh. Ooh.
+%1$s. %1$s. %1$s. %1$s.
+Yeah. Yeah. Yeah. Yeah.
+I'm the Knight of Time, the god of sick beats
+Settle down and lemme... why are you giving me that look?
+This is my own original rap!
+Really!
+Incaseyoucouldn'ttell,
+you'reuglyandyousmell!
+OOOHHHHHHHHH!
+...That's how rap works, right?
+Have a nice trip and I'll see you next fall!
+I hope you don't mind that my house isn't tall,
+'Cuz them things is dang'rous and although no one cares,
+I'm tellin' ya, dawg, I WARNED YOU 'BOUT STAIRS!
+... that rap was really awful.
+Schoo' that foo'!
+All right, now it's my turn.
+The %s proceeded to drop sick fire unlike any the %s had ever seen before.
+%s. You are the greatest rapper ever.
+Let the poor guy think they won.
+... wow. I'm just... not going to try to go against something like that.
+%s, yes! I am the greatest rapper ever!
+Thip
+Nak
+Glub
+...
+THIP
+NAK
+GLUB
+..!
+Here, in the %s, we %s worship the %s. We wait and hope for the day that they awaken.
+Sometimes, I look up in the sky to see Skaia and wish I could visit there some day...
+OH MY %s! I'M ACTUALLY ON SKAIA!
+Oh my...! I'm actually on skaia!
+You know, I have actually visited skaia at one point!
+I sense the presence of the %s. Tell me if you see them, ok?
+Present yourself as the %s.
+I am the %s.
+OH MY %s
+"Agree" to do that.
+Hehe, ok I will.
+Hey kid... I'll give you something special for 1000 boondollars...
+This consort seems pretty shady. You're not sure whether or not to trust them...
+Buy "Something special" [Pay 1000 boondollars]
+Ok... Sure??
+Here, kid.
+Do not buy from the shadowy dealer.
+Uh, no thanks...
+You're missin' out kiddo. %s it. I'll sell you this thing for 500 boondollars.
+It may be a deception, do not buy the "thing"!
+I said no already.
+buy it already! [Pay 500 boondollars]
+ Sure! Fine! Ok! Jeez...
+Thanks for your cash.
+%s has been sleeping for a thousand years. I shudder at the thought of their return.
+What?
+The... what?
+The Denizen is the One that Slumbers in our very soil. It is eternally waiting for the %s to awaken it. Then they will be given The Choice, and their victory will be determined by what they choose.
+Ask if the denizens are bad or not.
+Were these 'denizens' bad?
+How am I supposed to know if they were good or bad? There's more to a living being than just black and white!
+I'm hungry. Have any bugs? Maybe a chocolate chip cookie? Mmm.
+A %s! Could I have some?
+Yes
+Sure, here.
+No
+I don't really want to give this away.
+Thank you! I will remember your kindness for the rest of my short life.
+But I am starving here! What if I paid you 10 boondollars for it?
+Sure
+Sure, I can agree to that.
+Too Cheap
+I won't let it go that cheap.
+Finally!
+You are given 10 boondollars for the %s.
+Fine. I will just go and find a real food store.
+It's hard to catch our food with the Breeze carrying them away and whatnot!
+Hope you like red meat!
+Rabbit stew! Mmmm!
+Lightning-smoked meat really adds to the flavor!
+Frog legs are good but eating them is heresy! Buy some of our food instead!
+Ever soaked your grist candies in the liquids the buckets contain? It really enhances the taste!
+Tick Tock, time's a-wasting! Eat something or leave!
+Take your mind off of the limited time we have left alive with food!
+I'm selling recipes I made from a nearby library's cookbook. Buy some!
+Who needs cake when you have crickets!
+Crickets are nocturnal so our species' main food source is hard to find here. Oh well!
+This place used to be filled with the sounds of crickets until we captured them all for food!
+You're not you when you're hungry. Buy a snickers!
+I HOPE you're hungry!
+You hear a faint ba-dum tss in the distance.
+We would never eat frogs here in the %s! Grasshoppers, though...
+You hungry? I bet you are! Why else would you be talking to me?
+Welcome to MacCricket's, what would you like?
+Thank you for choosing Stop and Hop, this village's #1 one grocer!
+Welcome. I hope you find something tasty among our wares.
+The breeze has brought me many fine wares.
+I accept payment in blood. And boondollars. I also take checks.
+Twenty years selling losers hats and shit really takes the life out of you.
+With my prices, my competitors are doomed!
+Get your frog merchandise here! Limited time only! ....Just kidding, I'm always here.
+Here's a witty one-liner tying in buckets and general stores!
+Future me has told me that some sucker would buy tons of "goods" from me... will that sucker be you?
+Books have taught us how to sell as much useless crap as possible, want some?
+Don't buy goods here. Cake is our specialty, not general goods. Very low quality.
+You may be blind but I'm sure you can see our prices are fantastic!
+This land may be silent but our prices will make you SCREAM!... with joy, of course!
+Other store's prices are INFURIATING! Our prices, however, will soothe that frustration!
+I got the goods; they're all recently raided from a nearby tower!
+We have generic goods for generic people!
+You want the goods? We got the goods.
+We have top tier goods for a top tier god!
+Looking for something that won't catch your eye? You've come to the right place!
+Cool Veggie
+This cool vegetable is so good that it will make you cry!
+Tasty Pie
+This pie appeared in storage a few days ago out of nowhere. No idea where it came from, but it sure is tasty!
+You know what tastes even better than those plant grains? Their seeds, of course!
+Do you enjoy mushrooms? Then this'll be a delicacy!
+You want something RAW? We've got BEEF.
+Stay hydrated with our oasis water.
+Sugary Drink
+This drink is too sweet for this world. Have a taste!
+Want to try something orange? We've got carrots straight from the ground.
+Handpicked Greens
+A bowl of our fine, handpicked greens. The perfect meal.
+This extra-large grasshopper makes a perfect dinner.
+Want a cone of flies? They're quite popular with the kids. Everyone else too, honestly.
+The wonders of cocoa beans has given us this delicacy. Try now!
+Do you like regular seeds? This here is the luxury variant!
+You won't find this in a regular bucket!
+Green Potato
+This here is a rare green potato. Can you imagine how this one would taste?
+Who doesn't like bugs? Someone who haven't had a bug on a stick. That's who.
+I have discovered that this substance is the secret ingredient for the cakes around here!
+Had enough of regular beetroots? Try our soup!
+Haven't had enough of beetroots? There are some in store right now!
+This apple is said to be quite special, which is why I won't let it go for cheap!
+How about something juicy? Melons sure are juicy.
+Want something juicy, but not so juicy that it's juice? Try regular apples!
+This is a byproduct from our seed farm, but I can assure you that it's edible.
+Grey-Colored Cookie
+This here is a true wonder-cookie! Totally! And they are even cheaper than regular cookies!
+Quenchy Berry
+This berry helps beat the desert heat!
+Cookies like these are quite hard to get, since there are very few who know the recipe.
+The staple food of any Irish %1$s, grown in %1$s Ireland.
+Mushroom Skittles
+We harvest the mushrooms for this candy, although it's not very sweet.
+Skittle Cookie
+We found this spore-filled cookie sandwich in nearby ruins!
+THE Mushroom
+This is a very rare mushroom-- not many get to see it, much less taste it!
+It's like a bug on a stick but in a jar! What's not to love about it?
+This is supposedly able to be made into a sweet bar. We just eat them raw.
+Ah, salmon. Chicken of the river.
+More vague than 'salmon,' perfect for tricking people into thinking this is actually food.
+This metal rod is perfect for attracting thunder!
+You gotta BE the marble!
+Some say it's creepy, some say it's cute, others would say it's contraband, so keep it out of sight!
+It's pretty rock, but I wouldn't advise rolling on it.
+Spooky Book
+Our best wizard cultists tried to decipher this ancient tome, but none of them can read.
+Strive to touch the sky, and smash a few skulls on the way up!
+Imported from the Land of Gravel and Arrows! Probably. Maybe.
+This looks kinda useless, but it's too shiny to sell for cheap!
+This looks kinda useless. It probably is, actually. No one will notice if I sell it for a lot, right?
+It's not as quenchy, but if it comes down to it you can always drink the blood of your foes.
+A sword? Made of meat? That's like, double cool!
+Good for crushing trees and your enemies!
+Make sure you don't drop this like it's hot. Because it is hot.
+This mushroom is very tall! We think Our Glorious Speaker blessed us with it as a gift!
+Fistfull o' Strawberry
+This sweet-and-sour fruit glob is sure to drip stuff everywhere!
+Quartz
+Supposedly, a great Knight of Time found some of this and made a watch company.
+Illegal Drugs
+This stuff makes you go, "how did I get here?" Don't tell the cops!
+Like wheat, but slightly more appetizing. Completely uninteresting to look at!
+Wings
+You can probably fly with these. They're too big for me, so I don't know.
+Black Stone
+Why would you want black stone? Because it's marked 50-percent off, of course!
+Tear Gas
+This foul-smelling gas is sure to make any imp bawl like a newborn.
+Plain-Looking Lopsided Ball
+Serves no actual function, but this rarity looks completely plain! Surely, this is the height of fine décor.
+A plain canvas, untainted by any inks or dyes!
+A moldable substance with a plain, muted look, free of artificial colors!
+Blue Cake?
+It's blue, so I'm pretty sure that it's the fabled Blue Cake. It is said to get you moving!
+Cold Cake?
+Be careful with that one. It could be a Cold Cake. One bite and it will freeze you more than this weather does.
+Red Cake?
+Did you know that red cakes heal you? I'm 90%% sure that this is one of those cakes.
+Hot Cake?
+Play a prank on your friends with this really hot cake!
+Cakes are truly the best when made with apples!
+Fuschia Cake
+This mushroom tastes a bit better than any other around here, according to myself!
+It's the quenchiest!
+Jormungandr
+Typheus
+Nemesis
+Bastet
+Abraxas
+Hemera
+Cetus
+Sibyl
+Tartarus
+Echidna
+Hephaestus
+Nyx
+Greentike
+Sir Dies-a-lot
+Soil Architect
+Arboreal Boxer
+Stick Sultan
+Potato Roaster
+Zombie Chum
+Imp Crusher
+Slime Enthusiast
+Burly Pocketeer
+Block Smasher
+Gadabout Explorer
+Village Protector
+Golem Gallant
+Rail Fanatic
+Dungeon Robber
+Who Needs A Map?
+Inventory Tycoon
+Diamond Smuggler
+Cuboid Captain
+Circuit Crafter
+Alchemy Brewer
+Keeper Of Consorts
+Conglomerate Caliphate
+Overworld Overlord
+Portal Knight
+Fiery Fighter
+Pigman Patriarch
+Blazing Batter
+Ghaster Blaster
+Nether Noble
+Wither Warrior
+Soulsand Summoner
+Nether Knight
+Underworld Overlord
+Ender Ender
+Eye Of The Beholder
+Pathfinder Paladin
+Finder Of Fortress
+Stronghold Savant
+Maze Magician
+Spawner Shatterer
+Tartarus Tackler
+Wyvern Whacker
+Otherworld Overlord
+Vanilla Vanquisher
+Forum Frequenter
+Forge Fidaddler
+Installed Initiate
+Master Of Mods
+Dersite Bishop
+Dersite Pawn
+Dersite Rook
+Prospitan Bishop
+Prospitian Pawn
+Prospitian Rook
+Frog
+Salamander
+Nakagator
+Iguana
+Turtle
+Salamanders
+Nakagators
+Iguanas
+Turtles
+Imp
+%s Imp
+Ogre
+%s Ogre
+Giclops
+%s Giclops
+Basilisk
+%s Basilisk
+Lich
+%s Lich
+%s Grist
+Amber
+Amethyst
+Artifact
+Build
+Caulk
+Chalk
+Cobalt
+Diamond
+Garnet
+Gold
+Iodine
+Marble
+Mercury
+Quartz
+Ruby
+Rust
+Shale
+Sulfur
+Tar
+Uranium
+Zillium
+You do not have enough grist for that, and need: %s
+Grist Cache
+Strife Specibus
+Captchalouge Deck
+Echeladder
+Attack
+Health
+Cache Limit
+Damage boost against underlings:
+Damage against underlings: +%d%%
+Underling damage decreased to:
+Underling damage: -%.1f%%
+Deploy List
+Sylladex
+Use Item
+Kind Abstratus
+Cruxtruder
+Punch designix
+Totem Lathe
+Alchemiter
+Cookalyzer
+GristWidget 12000
+Not Alchemizable
+Not Available
+Free!
+STOP
+GO
+Select Grist Type
+Select Color
+Are you sure you want to continue?
+This will empty your sylladex.
+Empty Sylladex
+Auto-balance Active
+Auto-balance Inactive
+Quick Eject Active
+Quick Eject Inactive
+Choose Your Title
+%s is already used
+Claw Hammer
+An average hammer found in about any garage. It can also destroy blocks
+Sledgehammer
+A decently large, yet average, hammer. It can also destroy blocks
+Blacksmith's Hammer
+A strong hammer that would commonly be found in a blacksmiths. It can also break blocks
+Pogo Hammer
+A slimy hammer with the ability to bounce back your enemies. It can also break blocks
+Telescopic Sassacrusher
+OH ho! The perfect hammer for the dashing young gent who loves a pranksters gambit or a good grist horde!
+Regihammer
+Fear No Anvil
+What's to fear with this around? This uber hammer can break blocks and deal massive damage.
+Melt-Masher
+This hot-commodity of a hammer looks like it came fresh out of the furnace! Leaves foes with third-degree burns.
+Estrogen-Empowered Everything Eradicator
+Eradicate everything with girl power!
+the swEEt bro and hElla jEff EstrogEn EmpowErEd EvErything Eradicator
+Eradicate everything with girl power?
+The Warhammer of Zillyhoo
+HooHoo This zilly weapon is rumoured to be able to defeat the strongest enemies!
+Pop-a-matic Vrillyhoo Hammer
+Pop! Hit an enemy and let the dice fly for  damage bonus! It can Also Break blocks.
+Scarlet Zillyhoo
+A legendary weapon, forged from the most powerful of charmic destiny and..a red frog...
+Mwrthwl
+Sord.....
+A shitty sword. Not much more too it.
+batleacks!!
+A shitty axe. Not much more to it.
+Cactaceae Cutlass
+A spiny sword made of cactus, you might hurt yourself more on the spines then the blade would your enemies
+Steak Sword
+This item has two purposes: a weapon for slicing your foes AND an expensive dinner!
+Raw Beef Sword
+Irradiated Steak Sword
+Katana
+A powerful Katana, once wielded by the most powerful of Otaku Masters
+Unbreakable Katana
+This Katana has been fused with obsidian to make it even more kawai- I mean powerful!
+Fire Poker
+A flaming blade! Or just that thing you find next to wood fire places.....either way it can burn you enemies
+Too Hot to Handle
+This sick blade slices and burns through enemies like there is no tomorrow!
+Caledscratch
+The chosen weapon of Hephaestus, Guardian of the land of heat and clockwork. They say if you break this blade you incur their godly wrath.
+Caledfwlch
+Dumb Welsh Sword. Probably has some chamic destiny.
+Royal Deringer
+Claymore
+A featherweight amongst greatswords.\nIt's still bloody heavy, though!
+Cutlass of Zillywair
+HooHoo! Another Zilly weapon imported straight from Zillywair! Enemies beware!
+Regisword
+A sword once wielded by the most wicked of ArchAgents......and the most devout mail lady
+Scarlet Ribbitar
+Snoop Dogg Snow Cone Machete
+Cobalt Cobeam Coblade
+Quantum Sabre
+Blacksmith's Bane
+Battleaxe
+Forget that sissy hatchet stuff, this is an axe made for the battlefield. Chop heads, not wood!
+Scraxe
+Ruby Croak
+Hephaestus' Lumberjack
+Coppice Crusher
+Piston-Powered Pogo Pulverizer
+Fission-Focused Fault Feller
+Sickle
+Homes Smell Ya Later
+Fudgesickle
+Whose idea was this?
+Regisickle
+A black sickle wielded by Dersites and Agents!
+Clawsickle
+This crabby blade can hook and pinch your enemies for you!
+Claw of Nrub'yiglith
+Even though it's no longer a part of what you presume to be a living being, it still feels... alive.
+Your blood shall fuel our machinations.
+They stir in your subconscious.
+Your suffering grants us strength.
+Our will is your will.
+It is done.
+You are a tool. A tool through which we we exert our conspiracies.
+Candy Sickle
+Deuce Club
+The weakest club in the world
+Nightclub
+Wanna go...clubbing?
+Pogo Club
+Boing! Bounce back your foes with this bouncy weapon!
+Metal Bat
+Regular weapons not working for you? Try beating foes with an average bat!
+Spiked Club
+About what it sounds like
+Cane
+An average walking cane, used by the blind and those with weak knees.
+Iron-Tipped Cane
+A regular cane, except that it is tipped with the power of metal!
+Spear Cane
+Replace with blind persons cane for hilarious results.
+Paradise's Portabello
+A mushroom which reaches the heavens. Good for whacking people.
+Regicane
+A black cane used only by the most elegant among Dersites.
+Dragon Cane
+The most Powerful and awe inspiring of canes!
+Pogo Cane
+Now without leg or hand holds for even more danger!
+Uranium-Powered Stick
+Never runs out of uranium!
+Wooden Spoon
+Like the kind you would eat your soup with
+Silver Spoon
+Could be the first silver object you've seen so far
+Junior Battlemaster's Bowlbuster Stirring Solution 50000
+Whip your foes into shape and bake a cake all at the same time!
+Junior Battlemaster's Bowlbuster Poking Solution 50000
+Did something change?
+Skaia War Fork
+The elegance and grace of skaia, and the ability to poke things of a fork!
+Golden Spork
+A spoon and fork with all the awfulness of gold tools? Sign me up!
+Dice
+Dungeons and Dragons anybody?
+Fluorite Octet
+Magical Dice! Let 'em roll!
+Raw Cruxite
+Uranium Lump
+Energy Core
+Cruxite Dowel
+Captchalogue Card
+empty
+invalid data
+punched
+ghost
+Cruxite Artifact
+SBURB Client Disk
+SBURB Server Disk
+Chessboard
+Grimoire for Summoning the Zoologically Dubious
+This book is absolutely indispensable for enthusiasts of your ilk. Of which there are very few.
+The Long Forgotten Warhorn of the Acolytes
+Some things are better left forgotten.
+Bucket of Oil
+Bucket of Blood
+It looks like Kool-Aid... But you're too scared to try it yourself.
+Bucket of Brain Juice
+Bucket of Paint
+The colors just refuse to mix. It's kind of disturbing, actually.
+Bucket of End Fluid
+It seems to be liquified ender pearls.
+Bucket of Glimmering Water
+You're not convinced this is water. It's unnatural.
+Stack Modus
+Queue Modus
+Queue-Stack Modus
+Tree Modus
+Hashmap Modus
+Set Modus
+This modus is quite similar to the array modus. Surely this is what you were looking for?
+Iron Boat
+Golden Boat
+Obsidian Bucket
+Emerald Sword
+Emerald Axe
+Emerald Pickaxe
+Emerald Shovel
+Emerald Hoe
+Prismarine Helmet
+Prismarine Chestplate
+Prismarine Leggings
+Prismarine Boots
+Fork
+Spork
+Candy Corn
+Amber Gummy Worm
+Amethyst Hard Candy
+Artifact War Head
+Build Gushers
+Caulk Pretzel
+Chalk Candy Cigarette
+Cobalt Gum
+Diamond Mint
+Garnet Twix
+Gold Candy Ribbon
+Iodine Licorice
+Marble Jawbreaker
+Mercury Sixlets
+Quartz Jelly Bean
+Ruby Lollipop
+Rust Gummy Eye
+Shale Peep
+Sulfur Candy Apple
+Tar Black Licorice
+Uranium Gummy Bear
+Zillium Skittles
+Tab
+Orange Faygo
+Candy-Apple Faygo
+Faygo Cola
+Cotton Candy Faygo
+Creme Soda Faygo
+Grape Faygo
+Moonmist Faygo
+Peach Faygo
+Redpop Faygo
+Bug On a Stick
+Chocolate Covered Beetle
+Cone Of Flies
+Grasshopper
+Desert Fruit
+Jar Of Bugs
+Onion
+This "cool" vegetable is actually just an onion.
+Irradiated Steak
+Steak (over)cooked using the power of uranium!
+Fungal Spore
+You must live off the land, and in this land, it means eating this.
+Sporeo
+Huh. Who knew fungal spores could be so delicious?
+Morel Mushroom
+A delicacy amongst both humans and consorts.
+French Fry
+Thresh Prince DVD
+Game Bro Magazine
+Game Grl Magazine
+Midnight Crew Poster
+Sweet Bro and Hella Jeff Poster
+Fraymotifs Shop Sign
+Food Shop Sign
+Crumply Hats Shop Sign
+General Shop Sign
+Candy Shop Sign
+Captcharoid Camera
+Cat Claws
+Cat Claws
+Bowl of Leaves
+It's literally just salad, Gordon Ramsay would not approve.
+Strawberry chunk
+It tastes a lot better than it looks.
+Carving Tool
+Crumply Hat
+Frog Statue Replica
+Stone Eyeballs
+Stone Slab
+Glowystone Dust
+Catboss - Emissary of Dance
+Catboss - Dance-Stab-Dance
+SinFrog - Retro Battle Theme
+Fake Arm
+Fool your friends with this super-realistic fake arm!
+Rock Cookie
+It's as edible as a rock
+Kundler Shelled Surprise Embryo
+Oh boy! You sure can't wait to find out what's contained inside the Surprise Embryo!
+The Egg of Unknowable, Horrible Truths
+This egg somehow knows your name.
+WOW! NO WAY! You found a %s inside your Surprise Embryo!
+Boondollars
+Amount: %s
+ShatterBeacon
+Net
+Perfect for catching bugs and frogs!
+Golden Grasshopper
+Frog
+Totally Normal Frog
+Ruby Contraband
+Tiny Genesis Frog
+Frog
+Golden Frog
+Frog
+Random Frog
+Genetically Modified Frog
+Totally Normal Frog
+Ruby Contraband
+Tiny Genesis Frog
+frog.null.name
+Golden Frog
+§k Susan
+Lighter Eyes
+Darker Eyes
+Blank Eyes
+Solid-Colored Belly
+Spotted Belly
+Striped Belly
+Tiny
+Small
+Normal Sized
+Big
+Huge
+Minestuck
+Minestuck
+Exit Edit Mode
+View General Minestuck Gui
+Captchalouge Held Item
+Toggle Aspect Effects
+Open Sylladex
+Land of %s and %s
+Fungi
+Dank
+Must
+Mycelium
+Mold
+Mildew
+Forests
+Trees
+Boreal Forests
+Taigas
+Cold Forests
+Frost
+Ice
+Snow
+Heat
+Flame
+Fire
+Rock
+Stone
+Ore
+Petrification
+Sand
+Dunes
+Deserts
+Lush Deserts
+Sandstone
+Stony Deserts
+Shade
+Wood
+Oak
+Lumber
+Flora
+Flowers
+Thorns
+Rainbow
+Colors
+Rain
+Islands
+Clouds
+Sky
+End
+Dimension
+Buckets
+Cake
+Desserts
+Clockwork
+Gears
+Frogs
+Light
+Brightness
+Pulse
+Blood
+Rabbits
+Bunnies
+Silence
+Thought
+Thunder
+Lightning
+Storms
+Wind
+Monsters
+Towers
+Land of %s and %s
+Welcome to Land of %s and %s.
+You are currently in Land of %s and %s.
+You are currently not in a land dimension.
+Minestuck Configuration
+Entity Id Start
+The starting id for minestuck entities
+SkaiaProvider Type Id
+The id for the proider type for the skaia dimension
+Skaia Dimension Id
+The id for the skaia dimension
+LandProvider Type Id
+The id for the provider type for the land dimension
+Land Dimension Id Start
+The starting id for land dimensions
+Statistic Id Offset
+The starting id for minestuck achievements
+Biome Id Start
+The starting id for minestuck biomes
+Special Window Id Start
+The starting window id for special containers
+IDs
+Various integer IDs
+Initial Modus Size
+When a player is assigned a modus for the first time, that modus will have the size of this value.
+Default Modus Type
+This option determines what possible moduses that may be given to players when they first join the game. (0: Stack, 1: Queue, 2: StackQueue, 3: Tree)
+Modus Max Size
+The highest number of cards a modus can have. If the value is 0, a maximum size will be ignored.
+Force Auto-balance
+Determines if and how the auto-balance option (for the tree modus) should be forced. 'Both': Both options are available. 'On': Forced at on. 'Off': Forced at off.
+Force Hashmap Eject-by-chat
+Determines if and how the eject-by-chat option (for the hashmap modus) should be forced. 'Both': Both options are available. 'On': Forced at on. 'Off': Forced at off.
+Item Drop Mode
+"Items": Only the captchalouged items will be dropped. "Cards And Items": Cards will also be dropped, but you will always keep up to the initial modus size of cards. "All": All items in the sylladex will be dropped. Even the modus and the rest of the cards.
+Drop Items In Cards
+If this is true, and both items and cards are dropped on death, the items will be dropped while inside the cards. Otherwise items and cards will instead be dropped separately.
+Modus
+Modus-related stuff
+Private Computers
+Set this to true to make computers only accessible by the owner of the computer. (the player who turned on the computer)
+Give Items Button
+If this is set to true, the 'Activate Editmode' button will be replaced by the old 'Give Items' button.
+Card In Deploylist
+Turn this to true to add a punched card (with a card punched to it) to the deploy list.
+Portable Machines In Deploylist
+Determines if the small portable machines should be included in the deploy list.
+Card Cost
+An integer to control the cost of captchalouge cards.
+Include Captcha Card Recipe
+Set this to false to remove the crafting recipe for captchalouge cards.
+Generate Card As Loot
+Set this to true to make captchalouge cards generate in dungeon/stronghold chests.
+Generate Cruxite Ore
+Determines if cruxite ore should be ganerated in the overworld.
+Global Session
+If true, all players will be joining the same session. This doesn't do that much yet since nothingso far is dependent of the session structure.
+Overworld Edit Range
+The maximum amount of blocks away from the computer an editmode player is allowed to be before entering the medium.
+Land Edit Range
+The maximum amount of blocks away from the spawn an editmode player is allowed to be after entering the medium.
+Artifact Range
+The radius of the area brought to the medium.
+Create Crater on Entry
+Turning this off will prevent minestuck from creating craters when players enter the medium. Items and tile entities will still be removed from where the crater should be.
+Keep the Medium Loaded
+Having this on will make medium dimensions and the area around the spawn stay loaded.
+Use Old Item Models
+Set this to true to have back all old 2D item models.
+Display Color Selector on Login
+This option determines if the color selector should be displayed when entering a save file for the first time.
+Adapt Entry Block Height
+When on, you will be moved up on entry enough to make the top transferred non-air block placed at y:128 and all blocks above it ignored. (Which shouldn't be troubling as the ignored blocks should be handled as air) This will however make the entering the medium take slightly longer time.
+Allow Secondary Connections
+If this is set to true, other players in your session are allowed to act as your server player temporarily.
+Disable Grist Widget
+If you want to disable grist widgets because of exploits caused by other mods, you can do it here.
+Alchemy Grist Icons
+Replaces grist names in the alchemiter/grist widget with icons, and makes the entries adapt to each others length.
+Data Checker Permission
+Determines who's allowed to access the data checker. "No One": No one is allowed. "Only Operators": only those with a command permission of level 2 or more may access the data ckecker. (for single player, that would be if cheats are turned on) "Only Creative And Spectator": Only players with the creative or spectator gamemode may view the data checker. "Operators, Creative and Spectator": Only non-op survival/adventure players are prevented from using the data checker. "Anyone": No access restrictions are used.
+Vanilla Ore Drop
+If this is true, the custom vanilla ores added by this mod will drop the standard vanilla ores when mined, instead of the custom type.
+Pre-entry Rung Limit
+The highest rung you can get before entering medium. Note that the first rung is indexed as 0, the second as 1 and so on.
+Show Echeladder Progress
+If this is true, players will be able to see their progress towards the next rung. This is server side and will only be active in multiplayer if the server/Lan host has it activated.
+Aspect Effects
+If this is true, players will gain certain potion effects once they reach a certain rung based on their aspect.
+Echeladder Animation
+Allows basic control of the "rung gained" amination in the echeladder.
+UUID Identification
+If this is set to true, minestuck will use uuids to refer to players in the saved data. On false it will instead use the old method based on usernames.
+Player-selected Title
+Enable this to let players select their own title. They will however not be able to select the Lord or Muse as class.
+Can Break Gates
+Lets gates be destroyed by explosions. Turning this off will make gates use the same explosion resistance as bedrock.
+Disable Giclops
+Right now, the giclops pathfinding is currently causing huge amounts of lag due to their size. This option is a short-term solution that will disable giclops spawning and remove all existing giclopses.
+Transportalizer-Forbidden Dimensions
+A list of dimension id's that you cannot travel to or from using transportalizers.
+Ore Multiplier
+Multiplies the cost for the 'contents' of an ore. Set to 0 to disable alchemizing ores.
+Stop Second Entry
+If this is true, players may only use an artifact once, even if they end up in the overworld again.
+Grist Refund
+Enable this and players will get a (full) grist refund from breaking blocks in editmode.
+Cruxtruder Intake
+If enabled, the regular cruxtruder will require raw cruxite to function, which is inserted through the pipe.
+Alchemiter Max Stacks
+The number of stacks that can be alchemized at the same time with the alchemiter.
+Skaianet Check
+If enabled, will during certain moments perform a check on all connections and computers that are in use. Recommended to turn off if there is a need to improve performance, however skaianet-related bugs might appear when done so.
+Default color selected. You can bring up the color selection gui again through the sburb client program, but only until you connect to a server player!
+If you want to change the color, you can bring up the color selection gui again through the sburb client program, but only until you connect to a server player!
+You are not allowed to access other players computers.
+This transportalizer is currently disabled with a redstone signal.
+The destination seems to be blocked.
+The transportalizer appears to need more space above it to function.
+Transportalizers have been disabled for this dimension.
+Transportalizers have been disabled for the destination dimension.
+The destination gate seems to have been destroyed.
+The land this gate leads to does not exist yet!
+[HASHMAP] %s %% %s -> %s
+Both
+Off
+On
+Items
+Cards And Items
+All
+No One
+Only Operators
+Only Creative And Spectator
+Operators, Creative and Spectator
+Anyone
+Slow
+Normal
+Fast
+Nothing
+Bladekind
+Bowkind
+Pickaxekind
+Axekind
+Hoekind
+Spadekind
+Hammerkind
+Canekind
+Clubkind
+Sicklekind
+Sporkkind
+Warhorn sounds
+Spooky whispers
+Estrogen-empowered screech
+Echeladder levels up
+Nakagator naks
+Nakagator hurts
+Nakagator dies
+Iguana thips
+Iguana hurts
+Iguana dies
+Salamander glubs
+Salamander hurts
+Salamander dies
+Turtle hurts
+Turtle dies
+Frog croaks
+Frog hurts
+Frog dies
+Imp screeches
+Imp hurts
+Imp dies
+Ogre grunts
+Ogre hurts
+Ogre dies
+Basilisk hisses
+Basilisk hurts
+Basilisk dies
+Lich whispers
+Lich hurts
+Lich dies
+Giclops wants to eat'cha
+Giclops hurts
+Giclops dies
+Oil
+Blood
+Brain Juice
+Paint
+End Fluid
+Light Water
+Oil
+Blood
+Brain Juice
+Paint
+End Fluid
+Light Water
+Chalk
+Chalk Bricks
+Chiseled Chalk Bricks
+Polished Chalk
+Black Chess Tile
+White Chess Tile
+Light Grey Chess Tile
+Dark Grey Chess Tile
+Cruxite Block
+Uranium Block
+Perfectly Generic Object
+Skaia Portal
+Cruxite Ore
+Uranium Ore
+Quartz Ore
+Cruxtruder
+Punch Designix
+Totem Lathe
+Alchemiter
+Holopad
+Cruxtruder
+Punch Designix
+Totem Lathe
+Alchemiter
+GristWidget 12000
+SBURB Computer
+Crockertop
+Hubtop
+Laptop
+Lunchtop
+Layered Sand
+Transportalizer
+Coarse End Stone
+Blue Dirt
+Thought Dirt
+Dead Planks
+End Grass
+End Planks
+End Sapling
+Flowery Mossy Stone Bricks
+Flowery Moss Stone
+Golden seeds
+These seeds are made out of 24-karat gold!
+Razor Blade
+Only a fool would try to pick this up.
+Petrified Poppy
+Petrified Grass
+Petrified Log
+Blooming Cactus
+Desert Bush
+Glowing Mushroom
+Glowing Log
+Glowing Planks
+End Leaves
+Rainbow Leaves
+Dead Log
+End Log
+Vine Oak Logs
+Flowery Vine Oak Logs
+Frost Logs
+Rainbow Logs
+Rainbow Planks
+Pink Stone
+Pink Stone Bricks
+Chiseled Pink Stone Bricks
+Cracked Pink Stone Bricks
+Mossy Pink Stone Bricks
+Polished Pink Stone
+Dense Cloud
+Glowy Goop
+Coagulated Blood
+Rainbow Sapling
+Treated Planks Slab
+Rainbow Planks Slab
+End Planks Slab
+Dead Planks Slab
+Chalk Slab
+Chalk Brick Slab
+Pink Stone Slab
+Coarse Stone
+Chiseled Coarse Stone
+Shade Bricks
+Smooth Shade Stone
+Frostbricks
+Frost Tiles
+Chiseled Frost Tiles
+Cast-Iron
+Chiseled Cast-Iron
+Black Stone
+Mycelium Bricks
+Coarse Stone Stairs
+Shade Brick Stairs
+Frostbrick Stairs
+Cast-Iron Stairs
+Mycelium Brick Stairs
+Treated Planks Stairs
+Rainbow Planks Stairs
+End Planks Stairs
+Dead Planks Stairs
+Chalk Stairs
+Chalk Brick Stairs
+Pink Stone Stairs
+Strawberry
+Sugar Cube
+Treated Planks
+Frost Leaves
+Frost Planks
+Wooden Cactus
+Apple Cake
+Blue Cake
+Really Cold Cake
+Red Cake
+Really Hot Cake
+Fuchsia Cake
+Primed TNT
+Unstable TNT
+Instant TNT
+TNT Button
+Cookalyzer
+Cruxtruder Lid
+Cruxite Dowel
+Blender
+Vein
+Vein
+Vein
+Corner
+Corner (Inverted Flow)
+%1$s of %2$s
+Bard
+Heir
+Knight
+Mage
+Maid
+Page
+Prince
+Rogue
+Seer
+Sylph
+Thief
+Witch
+Lord
+Muse
+Blood
+Breath
+Doom
+Heart
+Hope
+Life
+Light
+Mind
+Rage
+Space
+Time
+Void

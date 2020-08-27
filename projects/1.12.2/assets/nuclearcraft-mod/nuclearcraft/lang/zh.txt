@@ -1,0 +1,2450 @@
+Copper Ore
+Tin Ore
+Lead Ore
+Thorium Ore
+Uranium Ore
+Boron Ore
+Lithium Ore
+Magnesium Ore
+Copper Block
+Tin Block
+Lead Block
+Thorium Block
+Uranium Block
+Boron Block
+Lithium Block
+Magnesium Block
+Graphite Block
+Graphite is only considered active if adjacent to at least one Reactor Cell. Active graphite increases a reactor's efficiency, but also produces some extra heat. For each graphite block the additional power generated is equal to %s, and the additional heat generated is equal to %s.
+Beryllium Block
+Beryllium is only considered active if adjacent to at least one Reactor Cell. Active beryllium increases a reactor's efficiency, but also produces some extra heat. For each beryllium block the additional power generated is equal to %s, and the additional heat generated is equal to %s.
+Zirconium Block
+Manganese Block
+Aluminum Block
+Silver Block
+baseRF*cellEff/%s RF/t for each adjacent reactor cell
+baseHeat*cellEff/%s H/t for each adjacent reactor cell
+Fission Reactor Moderator
+Fission Reactor Casing
+Used in the construction of fission reactors. To form a valid structure, build a cuboid shell of casing, making sure to *exclude* the edges. Then place a fission controller along an edge, at a corner or within one of the faces of the structure. If the GUI shows an error, make sure the structure is valid. Then fill the interior with reactor cells, coolers and moderator blocks to start generating energy from your fission fuels!
+Blast Block
+A highly blast resistant block which is perfect for protection against explosives.
+Transparent Fission Reactor Casing
+Used in the construction of fission reactors. To form a valid structure, build a cuboid shell of casing, making sure to *exclude* the edges. Then place a fission controller along an edge, at a corner or within one of the faces of the structure. If the GUI shows an error, make sure the structure is valid. Then fill the interior with reactor cells, coolers and moderator blocks to start generating energy from your fission fuels!
+Fusion Connector
+Connects a fusion core to its ring of electromagnets. Four sets of them are required for each side of the core.
+Reactor Cell
+Used in fission reactors to house the fission fuels. The more cells placed, the more rapidly fuel is used. %s
+Cells will be more efficient for each other cell they are adjacent to, or for each adjacent line of moderator blocks, of length %s at most, ending with another cell.
+Empty Cooler
+Water Cooler
+Must be adjacent to at least one Reactor Cell or active moderator block.
+Redstone Cooler
+Must be adjacent to at least one Reactor Cell.
+Quartz Cooler
+Must be adjacent to at least one active moderator block.
+Gold Cooler
+Must be adjacent to at least one valid Water Cooler and one valid Redstone Cooler.
+Glowstone Cooler
+Must be adjacent to at least two active moderator blocks.
+Lapis Cooler
+Must be adjacent to at least one Reactor Cell and one Reactor Casing.
+Diamond Cooler
+Must be adjacent to at least one valid Water Cooler and one valid Quartz Cooler.
+Liquid Helium Cooler
+Must be adjacent to exactly one valid Redstone Cooler and at least one Reactor Casing.
+Enderium Cooler
+Must be adjacent to exactly three Reactor Casings at exactly one vertex.
+Cryotheum Cooler
+Must be adjacent to at least two Reactor Cells.
+Iron Cooler
+Must be adjacent to at least one valid Gold Cooler.
+Emerald Cooler
+Must be adjacent to at least one active moderator block and one Reactor Cell.
+Copper Cooler
+Must be adjacent to at least one valid Glowstone Cooler.
+Tin Cooler
+Must be adjacent to at least two valid Lapis Coolers along a common axis.
+Magnesium Cooler
+Must be adjacent to at least one Reactor Casing and one active moderator block.
+Cooling rate:
+Reactor Door
+Reactor Trapdoor
+Thorium-230 Block
+Uranium-238 Block
+Neptunium-237 Block
+Plutonium-242 Block
+Americium-243 Block
+Curium-246 Block
+Berkelium-247 Block
+Californium-252 Block
+Supercold Ice
+Nuclear Furnace
+Smelts items very quickly using uranium and thorium ingots and dust as fuel.
+Nuclear Furnace
+Manufactory
+A handy machine that has many uses.
+Manufactory
+Isotope Separator
+Separates materials into their isotopes.
+Isotope Separator
+Decay Hastener
+Forces radioactive materials to decay.
+Decay Hastener
+Fuel Reprocessor
+Extracts materials from depleted fuel.
+Fuel Reprocessor
+Alloy Furnace
+Combines base metals into alloys.
+Alloy Furnace
+Fluid Infuser
+Enhances materials with fluids.
+Fluid Infuser
+Melter
+Melts down materials.
+Melter
+Supercooler
+Lowers the temperature of fluids.
+Supercooler
+Electrolyzer
+Splits compounds into their elements.
+Electrolyzer
+Neutron Irradiator
+Induces changes to nuclear structure.
+Neutron Irradiator
+Ingot Former
+Forms ingots and gems from molten materials.
+Ingot Former
+Pressurizer
+Processes items under immense pressure.
+Pressurizer
+Chemical Reactor
+Houses reactions between fluids.
+Chemical Reactor
+Salt Mixer
+Blends fluids together.
+Salt Mixer
+Crystallizer
+Precipitates solids from solution.
+Crystallizer
+Fluid Enricher
+Enriches fluids with materials.
+Fluid Enricher
+Fluid Extractor
+Draws fluids from materials.
+Fluid Extractor
+Centrifuge
+Separates the isotopes of fluid materials.
+Centrifuge
+Rock Crusher
+Smashes up rock to produce mineral dusts.
+Rock Crusher
+Machine Interface
+Automation can access the machine directly adjacent to this block. Can only extend one adjacent machine at maximum.
+Buffer
+Can store up to a stack of items, 32000 RF of energy and 16000 mB of fluid. Will offload energy and materials into adjacent machines and active coolers. Can be placed in the shell of fission structures for transportation into and out of the reactor.
+Active Fluid Cooler
+Pump coolant into this block to cool down fission and fusion reactors. Must be placed in a fission structure or on the diagonal of a fusion ring. If used to cool a fission reactor, the requirements for each fluid type are the same as the passive counterpart, but active coolers can not be used to support other coolers' placement rules. If used to cool a fusion reactor, it is much more efficient for a cooler to have a partner on the exact opposite side of the entire fusion ring.
+Universal Bin
+Destroys items, fluids and energy.
+Fission Controller (Old)
+Build a multiblock reactor using reactor casing, reactor cells, coolers and moderator blocks! Place the controller along an edge, at a corner or within one of the faces of the structure.
+This is an old Controller and will use the old reactor rules.
+Fission Controller
+Fission Controller
+Build a multiblock reactor using reactor casing, reactor cells, coolers and moderator blocks! Place the controller along an edge, at a corner or within one of the faces of the structure.
+Fission Controller
+Fission Controller
+Build a multiblock reactor using reactor casing, reactor cells, coolers and moderator blocks! Place the controller along an edge, at a corner or within one of the faces of the structure.
+Fission Reactor Port
+Place this block in the shell of a fission reactor in place of some reactor casing, but *not* in the top or bottom sides. If a controller is attached to the reactor structure, then its inventory and stored energy can be accessed by automation through this block.
+Uranium RTG
+Plutonium RTG
+Americium RTG
+Californium RTG
+Produces %s constantly.
+Basic Solar Panel
+Advanced Solar Panel
+DU Solar Panel
+Elite Solar Panel
+Produces %s constantly during daytime.
+Decay Generator
+Produces power from the heat generated by the decay of adjacent radioactive blocks. After some time, the blocks will decay and produce less power.
+Basic Voltaic Pile
+Advanced Voltaic Pile
+DU Voltaic Pile
+Elite Voltaic Pile
+Basic Lithium Ion Battery
+Advanced Lithium Ion Battery
+DU Lithium Ion Battery
+Elite Lithium Ion Battery
+Right click a side to read the energy level and right click while sneaking with empty hands to toggle the side's energy connection. Sneaking while placing will maintain the energy connection configuration.
+Fusion Core
+This is the central part of a multiblock fusion reactor that produces large amounts of energy from the heat generated by a nuclear fusion reaction. The core needs to have a ring of fusion electromagnets around it symmetrically, connected by four sets of fusion connectors on all four sides. The ring, which is actually a square, needs to be hollow and does not require electromagnets to be diagonal to the hollow section - active fluid coolers can be used here instead. Make sure that the far corners are fully squared off, too.
+Fusion Core
+Fusion Core
+Molten Salt Reactor Controller
+The heart of the reactor - one is needed in the wall for it to form.
+Molten Salt Reactor Wall
+Comprises the faces of the reactor structure.
+Molten Salt Reactor Glass
+Comprises the faces of the reactor structure.
+Molten Salt Reactor Frame
+Comprises the edges and corners of the reactor structure.
+Molten Salt Reactor Beam
+Used to connect otherwise disconnected parts of the reactor to the wall.
+Molten Salt Reactor Vent
+Used to move fuel and coolant in and out of the reactor. Will push to [accept from] accepting [pushing] vessels and heaters.
+Molten Salt Fission Vessel
+Where the molten salt nuclear fuel fissions and depletes. Place against another vessel while sneaking to copy across its side configuration.
+Molten Salt Coolant Heater
+Where the salt coolant is heated to cool the reactor. Coolants must obey their placement rules to have any effect. Place against another heater while sneaking to copy across its side configuration.
+Molten Salt Reactor Moderator Housing
+Increases the efficiency of adjacent active vessels.
+Molten Salt Fuel Distributor
+Placed in the wall of the reactor - will spread fuel to all vessels at a limited rate.
+Molten Salt Depleted Fuel Retriever
+Placed in the wall of the reactor - will take depleted fuel from all vessels at a limited rate.
+Molten Salt Reactor Redstone Port
+Used to turn the reactor on and off. The heat level of the reactor can be read with a comparator from this block.
+Molten Salt Reactor Computer Port
+Used to access the reactor via OpenComputers.
+Heat Exchanger Controller
+The heart of the exchanger - one is needed in the wall for it to form.
+Heat Exchanger Shell
+Comprises the faces of the exchanger structure.
+Heat Exchanger Glass
+Comprises the faces of the exchanger structure.
+Heat Exchanger Frame
+Comprises the edges and corners of the exchanger structure.
+Heat Exchanger Vent
+Used to move fluid in and out of the exchanger. Will push to [accept from] accepting [pushing] tubes.
+Copper Heat Exchanger Tube
+Hard Carbon Heat Exchanger Tube
+Thermoconducting Alloy Heat Exchanger Tube
+Conductivity Multiplier: %s
+Holds and transports heat-exchanging fluids. If heating/cooling and adjacent to a cooling/heating exchanger tube, heat will be received/extracted at a rate proportional to the other tube's recipe temperature difference. If the output temperature of the cooled fluid is lower than the output temperature of the heated fluid, the adjacent tubes flows must not be parallel. Place against another exchanger tube while sneaking to copy across its side configuration.
+Copper Condensation Tube
+Hard Carbon Condensation Tube
+Thermoconducting Alloy Condensation Tube
+Conductivity Multiplier: %s
+Holds and transports fluids to condense. The condensation rate is proportional to the number of adjacent blocks of fluid colder than the input condensing fluid temperature; the colder the adjacent fluid, the faster the condensation - the speed bonus is the natural logarithm of the ratio of the fluids' temperatures. Place against another condensation tube while sneaking to copy across its side configuration.
+Heat Exchanger Computer Port
+Used to access the exchanger via OpenComputers.
+Turbine Controller
+The heart of the turbine - one is needed in the wall for it to form.
+Turbine Wall
+Comprises the faces of the turbine structure.
+Transparent Turbine Wall
+Comprises the faces of the turbine structure.
+Turbine Frame
+Comprises the edges and corners of the turbine structure.
+Turbine Rotor Shaft
+Connects the rotor blades to the dynamo to convert the generated kinetic energy into electrical energy. Must be placed axially as a cuboid along the centre of the turbine interior.
+Steel Turbine Rotor Blade
+Extreme Alloy Turbine Rotor Blade
+SiC-SiC CMC Turbine Rotor Blade
+Efficiency Multiplier: %s
+Expansion Coefficient: %s
+Used to convert the energy of the oncoming fluid flow into rotational energy in the rotor shaft. The expansion coefficient is larger than unity, so the volume of the fluid flow will increase each time it passes through a set. Must be placed in complete sets of four coplanar groups extending from the turbine shaft to the wall. Each blade block can process up to %s of oncoming fluid.
+Turbine Rotor Stator
+Expansion Coefficient: %s
+Used to increase the density of the oncoming fluid flow, which can increase the efficiency of the turbine by counteracting overexpansion generated by sets of rotor blades. Must be placed in complete sets of four coplanar groups extending from the turbine shaft to the wall.
+Turbine Rotor Bearing
+Connects the rotor shaft to the turbine wall and dynamo. Must cover the full area of each end of the shaft.
+Magnesium Turbine Dynamo Coil
+Must be adjacent to at least one Rotor Bearing Block.
+Beryllium Turbine Dynamo Coil
+Must be adjacent to at least one valid Magnesium Dynamo Coil.
+Aluminum Turbine Dynamo Coil
+Must be adjacent to at least one valid Dynamo Coil of any type other than Aluminum.
+Gold Turbine Dynamo Coil
+Must be adjacent to at least one valid Beryllium Dynamo Coil.
+Copper Turbine Dynamo Coil
+Must be adjacent to at least one valid Gold Dynamo Coil.
+Silver Turbine Dynamo Coil
+Must be adjacent to at least one valid Magnesium Dynamo Coil and one valid Gold Dynamo Coil.
+Conductivity Multiplier:
+Turbine Fluid Inlet
+Turbine Fluid Outlet
+Turbine Computer Port
+Used to access the turbine via OpenComputers.
+Fusion Electromagnet
+Requires %s to stay active.
+Fusion Electromagnet
+Transparent Fusion Electromagnet
+Transparent Fusion Electromagnet
+Superconducting Electromagnet
+Requires %s to stay active.
+Superconducting Electromagnet
+Superconducting Supercooler
+Requires %s and %s of liquid helium to stay active.
+Superconducting Supercooler
+Helium Collector
+Compact Helium Collector
+Dense Helium Collector
+Produces %s of helium constantly.
+Cobblestone Generator
+Compact Cobblestone Generator
+Dense Cobblestone Generator
+Produces %s constantly if supplied %s.
+Produces %s constantly.
+Cobblestone
+Infinite Water Source
+Compact Infinite Water Source
+Dense Infinite Water Source
+Produces %s of water constantly.
+Nitrogen Collector
+Compact Nitrogen Collector
+Dense Nitrogen Collector
+Produces %s of nitrogen constantly.
+Collector
+Radiation Scrubber
+Reduces the radiation level of the chunk it is placed in. Its effectiveness is dependent on the amount of free space around it, removing a maximum of %s of the radiation in its chunk. The collective contribution from all scrubbers in the chunk will stack linearly. %s
+Reduces the radiation level of the chunk it is placed in. Its effectiveness is dependent on the amount of free space around it. Alone, it will remove a maximum of %s of the radiation in its chunk, though the collective contribution from all scrubbers in the chunk will stack non-linearly. The radiation level will fall approximately linearly at first, but eventually doubly exponentially in the limit of many scrubbers. %s
+Requires %s RF/t and %s Borax/s to run.
+Requires %s RF/t to run.
+Geiger Counter Block
+Reads the radiation level of the chunk it is placed in.
+Glowing Mushroom
+Wasteland Earth
+Tritium Lamp
+Tritium Lantern
+Oxygen
+Oxygen
+Hydrogen
+Hydrogen
+Deuterium
+Deuterium
+Tritium
+Tritium
+Helium-3
+Helium-3
+Helium
+Helium
+Steam
+Steam
+High Pressure Steam
+High Pressure Steam
+Exhaust Steam
+Exhaust Steam
+Low Pressure Steam
+Low Pressure Steam
+Low Quality Steam
+Low Quality Steam
+Preheated Water
+Preheated Water
+Condensate Water
+Condensate Water
+Liquid Helium
+Liquid Helium
+Liquid Nitrogen
+Liquid Nitrogen
+Plasma
+Produced in active fusion reactors. May cause an explosion and fire when coming into contact with an unpowered fusion electromagnet.
+Plasma
+Molten Lithium
+Molten Lithium
+Molten Lithium-6
+Molten Lithium-6
+Molten Lithium-7
+Molten Lithium-7
+Molten Boron
+Molten Boron
+Molten Boron-10
+Molten Boron-10
+Molten Boron-11
+Molten Boron-11
+Molten Ferroboron
+Molten Ferroboron
+Molten Tough Alloy
+Molten Tough Alloy
+Molten Hard Carbon
+Molten Hard Carbon
+Liquefacted Coal
+Liquefacted Coal
+Neutron Fluid
+Neutron Fluid
+Fluorine
+Fluorine
+Nitrogen
+Nitrogen
+Fluoromethane
+Fluoromethane
+Ammonia
+Ammonia
+Ethanol
+Ethanol
+Ethylene
+Ethylene
+Methanol
+Methanol
+Boric Acid
+Boric Acid
+Diborane
+Diborane
+RadAway Fluid
+RadAway Fluid
+Slow-Acting RadAway Fluid
+Slow-Acting RadAway Fluid
+Molten Beryllium
+Molten Beryllium
+Molten Lithium Fluoride
+Molten Lithium Fluoride
+Molten Beryllium Fluoride
+Molten Beryllium Fluoride
+Molten FLiBe Salt Mixture
+Molten FLiBe Salt Mixture
+Boron Nitride Solution
+Boron Nitride Solution
+Standard Coolant
+Standard Coolant
+Molten Sulfur
+Molten Sulfur
+Molten Arsenic
+Molten Arsenic
+Sulfur Dioxide
+Sulfur Dioxide
+Sulfur Trioxide
+Sulfur Trioxide
+Sulfuric Acid
+Sulfuric Acid
+Fluorite Water
+Fluorite Water
+Calcium Sulfate Solution
+Calcium Sulfate Solution
+Hydrofluoric Acid
+Hydrofluoric Acid
+Oxygen Difluoride
+Oxygen Difluoride
+Corium
+A poisonous, molten mixture of fuel and components produced in fission reactor meltdowns.
+Corium
+Chocolate Liquor
+Chocolate Liquor
+Cocoa Butter
+Cocoa Butter
+Molten Unsweetened Chocolate
+Molten Unsweetened Chocolate
+Molten Dark Chocolate
+Molten Dark Chocolate
+Molten Milk Chocolate
+Molten Milk Chocolate
+Molten Sugar
+Molten Sugar
+Molten Gelatin
+Molten Gelatin
+Hydrated Gelatin
+Hydrated Gelatin
+Milk
+Milk
+Liquid Marshmallow
+Liquid Marshmallow
+Carbon Dioxide
+Carbon Dioxide
+Carbon Monoxide
+Carbon Monoxide
+Molten Sodium
+Molten Sodium
+Molten Potassium
+Molten Potassium
+Eutectic NaK Alloy
+Eutectic NaK Alloy
+Hot Eutectic NaK Alloy
+Hot Eutectic NaK Alloy
+Sodium Fluoride Solution
+Sodium Fluoride Solution
+Potassium Fluoride Solution
+Potassium Fluoride Solution
+Sodium Hydroxide Solution
+Sodium Hydroxide Solution
+Potassium Hydroxide Solution
+Potassium Hydroxide Solution
+Borax Solution
+Borax Solution
+Molten Sodium Hydroxide
+Molten Sodium Hydroxide
+Molten Potassium Hydroxide
+Molten Potassium Hydroxide
+Molten Boron Arsenide
+Molten Boron Arsenide
+Silicon Carbide Vapor
+Silicon Carbide Vapor
+Molten Manganese
+Molten Manganese
+Molten Manganese Dioxide
+Molten Manganese Dioxide
+Molten Alugentum
+Molten Alugentum
+Molten Alumina
+Molten Alumina
+Molten Aluminum
+Molten Aluminum
+Molten Silver
+Molten Silver
+Molten Thorium
+Molten Thorium
+Molten Thorium Fluoride
+Molten Thorium Fluoride
+Molten FLiBe Salt Solution of Thorium Fluoride
+Molten FLiBe Salt Solution of Thorium Fluoride
+Molten Uranium
+Molten Uranium
+Molten Uranium Fluoride
+Molten Uranium Fluoride
+Molten FLiBe Salt Solution of Uranium Fluoride
+Molten FLiBe Salt Solution of Uranium Fluoride
+Molten Plutonium
+Molten Plutonium
+Molten Plutonium Fluoride
+Molten Plutonium Fluoride
+Molten FLiBe Salt Solution of Plutonium Fluoride
+Molten FLiBe Salt Solution of Plutonium Fluoride
+Molten Thorium-230
+Molten Thorium-230
+Molten Thorium-230 Fluoride
+Molten Thorium-230 Fluoride
+Molten FLiBe Salt Solution of Thorium-230 Fluoride
+Molten FLiBe Salt Solution of Thorium-230 Fluoride
+Molten Thorium-232
+Molten Thorium-232
+Molten Thorium-232 Fluoride
+Molten Thorium-232 Fluoride
+Molten FLiBe Salt Solution of Thorium-232 Fluoride
+Molten FLiBe Salt Solution of Thorium-232 Fluoride
+Molten Uranium-233
+Molten Uranium-233
+Molten Uranium-233 Fluoride
+Molten Uranium-233 Fluoride
+Molten FLiBe Salt Solution of Uranium-233 Fluoride
+Molten FLiBe Salt Solution of Uranium-233 Fluoride
+Molten Uranium-235
+Molten Uranium-235
+Molten Uranium-235 Fluoride
+Molten Uranium-235 Fluoride
+Molten FLiBe Salt Solution of Uranium-235 Fluoride
+Molten FLiBe Salt Solution of Uranium-235 Fluoride
+Molten Uranium-238
+Molten Uranium-238
+Molten Uranium-238 Fluoride
+Molten Uranium-238 Fluoride
+Molten FLiBe Salt Solution of Uranium-238 Fluoride
+Molten FLiBe Salt Solution of Uranium-238 Fluoride
+Molten Neptunium-236
+Molten Neptunium-236
+Molten Neptunium-236 Fluoride
+Molten Neptunium-236 Fluoride
+Molten FLiBe Salt Solution of Neptunium-236 Fluoride
+Molten FLiBe Salt Solution of Neptunium-236 Fluoride
+Molten Neptunium-237
+Molten Neptunium-237
+Molten Neptunium-237 Fluoride
+Molten Neptunium-237 Fluoride
+Molten FLiBe Salt Solution of Neptunium-237 Fluoride
+Molten FLiBe Salt Solution of Neptunium-237 
+Molten Plutonium-238
+Molten Plutonium-238
+Molten Plutonium-238 Fluoride
+Molten Plutonium-238 Fluoride
+Molten FLiBe Salt Solution of Plutonium-238 Fluoride
+Molten FLiBe Salt Solution of Plutonium-238 Fluoride
+Molten Plutonium-239
+Molten Plutonium-239
+Molten Plutonium-239 Fluoride
+Molten Plutonium-239 Fluoride
+Molten FLiBe Salt Solution of Plutonium-239 Fluoride
+Molten FLiBe Salt Solution of Plutonium-239 Fluoride
+Molten Plutonium-241
+Molten Plutonium-241
+Molten Plutonium-241 Fluoride
+Molten Plutonium-241 Fluoride
+Molten FLiBe Salt Solution of Plutonium-241 Fluoride
+Molten FLiBe Salt Solution of Plutonium-241 Fluoride
+Molten Plutonium-242
+Molten Plutonium-242
+Molten Plutonium-242 Fluoride
+Molten Plutonium-242 Fluoride
+Molten FLiBe Salt Solution of Plutonium-242 Fluoride
+Molten FLiBe Salt Solution of Plutonium-242 Fluoride
+Molten Americium-241
+Molten Americium-241
+Molten Americium-241 Fluoride
+Molten Americium-241 Fluoride
+Molten FLiBe Salt Solution of Americium-241 Fluoride
+Molten FLiBe Salt Solution of Americium-241 Fluoride
+Molten Americium-242
+Molten Americium-242
+Molten Americium-242 Fluoride
+Molten Americium-242 Fluoride
+Molten FLiBe Salt Solution of Americium-242 Fluoride
+Molten FLiBe Salt Solution of Americium-242 Fluoride
+Molten Americium-243
+Molten Americium-243
+Molten Americium-243 Fluoride
+Molten Americium-243 Fluoride
+Molten FLiBe Salt Solution of Americium-243 Fluoride
+Molten FLiBe Salt Solution of Americium-243 Fluoride
+Molten Curium-243
+Molten Curium-243
+Molten Curium-243 Fluoride
+Molten Curium-243 Fluoride
+Molten FLiBe Salt Solution of Curium-243 Fluoride
+Molten FLiBe Salt Solution of Curium-243 Fluoride
+Molten Curium-245
+Molten Curium-245
+Molten Curium-245 Fluoride
+Molten Curium-245 Fluoride
+Molten FLiBe Salt Solution of Curium-245 Fluoride
+Molten FLiBe Salt Solution of Curium-245 Fluoride
+Molten Curium-246
+Molten Curium-246
+Molten Curium-246 Fluoride
+Molten Curium-246 Fluoride
+Molten FLiBe Salt Solution of Curium-246 Fluoride
+Molten FLiBe Salt Solution of Curium-246 Fluoride
+Molten Curium-247
+Molten Curium-247
+Molten Curium-247 Fluoride
+Molten Curium-247 Fluoride
+Molten FLiBe Salt Solution of Curium-247 Fluoride
+Molten FLiBe Salt Solution of Curium-247 Fluoride
+Molten Berkelium-247
+Molten Berkelium-247
+Molten Berkelium-247 Fluoride
+Molten Berkelium-247 Fluoride
+Molten FLiBe Salt Solution of Berkelium-247 Fluoride
+Molten FLiBe Salt Solution of Berkelium-247 Fluoride
+Molten Berkelium-248
+Molten Berkelium-248
+Molten Berkelium-248 Fluoride
+Molten Berkelium-248 Fluoride
+Molten FLiBe Salt Solution of Berkelium-248 Fluoride
+Molten FLiBe Salt Solution of Berkelium-248 Fluoride
+Molten Californium-249
+Molten Californium-249
+Molten Californium-249 Fluoride
+Molten Californium-249 Fluoride
+Molten FLiBe Salt Solution of Californium-249 Fluoride
+Molten FLiBe Salt Solution of Californium-249 Fluoride
+Molten Californium-250
+Molten Californium-250
+Molten Californium-250 Fluoride
+Molten Californium-250 Fluoride
+Molten FLiBe Salt Solution of Californium-250 Fluoride
+Molten FLiBe Salt Solution of Californium-250 Fluoride
+Molten Californium-251
+Molten Californium-251
+Molten Californium-251 Fluoride
+Molten Californium-251 Fluoride
+Molten FLiBe Salt Solution of Californium-251 Fluoride
+Molten FLiBe Salt Solution of Californium-251 Fluoride
+Molten Californium-252
+Molten Californium-252
+Molten Californium-252 Fluoride
+Molten Californium-252 Fluoride
+Molten FLiBe Salt Solution of Californium-252 Fluoride
+Molten FLiBe Salt Solution of Californium-252 Fluoride
+Molten TBU Fuel
+Molten TBU Fuel
+Molten TBU Fluoride Fuel
+Molten TBU Fluoride Fuel
+Molten FLiBe Salt Solution of TBU Fluoride Fuel
+Molten FLiBe Salt Solution of TBU Fluoride Fuel
+Molten LEU-233 Fuel
+Molten LEU-233 Fuel
+Molten LEU-233 Fluoride Fuel
+Molten LEU-233 Fluoride Fuel
+Molten FLiBe Salt Solution of LEU-233 Fluoride Fuel
+Molten FLiBe Salt Solution of LEU-233 Fluoride Fuel
+Molten HEU-233 Fuel
+Molten HEU-233 Fuel
+Molten HEU-233 Fluoride Fuel
+Molten HEU-233 Fluoride Fuel
+Molten FLiBe Salt Solution of HEU-233 Fluoride Fuel
+Molten FLiBe Salt Solution of HEU-233 Fluoride Fuel
+Molten LEU-235 Fuel
+Molten LEU-235 Fuel
+Molten LEU-235 Fluoride Fuel
+Molten LEU-235 Fluoride Fuel
+Molten FLiBe Salt Solution of LEU-235 Fluoride Fuel
+Molten FLiBe Salt Solution of LEU-235 Fluoride Fuel
+Molten HEU-235 Fuel
+Molten HEU-235 Fuel
+Molten HEU-235 Fluoride Fuel
+Molten HEU-235 Fluoride Fuel
+Molten FLiBe Salt Solution of HEU-235 Fluoride Fuel
+Molten FLiBe Salt Solution of HEU-235 Fluoride Fuel
+Molten LEN-236 Fuel
+Molten LEN-236 Fuel
+Molten LEN-236 Fluoride Fuel
+Molten LEN-236 Fluoride Fuel
+Molten FLiBe Salt Solution of LEN-236 Fluoride Fuel
+Molten FLiBe Salt Solution of LEN-236 Fluoride Fuel
+Molten HEN-236 Fuel
+Molten HEN-236 Fuel
+Molten HEN-236 Fluoride Fuel
+Molten HEN-236 Fluoride Fuel
+Molten FLiBe Salt Solution of HEN-236 Fluoride Fuel
+Molten FLiBe Salt Solution of HEN-236 Fluoride Fuel
+Molten LEP-239 Fuel
+Molten LEP-239 Fuel
+Molten LEP-239 Fluoride Fuel
+Molten LEP-239 Fluoride Fuel
+Molten FLiBe Salt Solution of LEP-239 Fluoride Fuel
+Molten FLiBe Salt Solution of LEP-239 Fluoride Fuel
+Molten HEP-239 Fuel
+Molten HEP-239 Fuel
+Molten HEP-239 Fluoride Fuel
+Molten HEP-239 Fluoride Fuel
+Molten FLiBe Salt Solution of HEP-239 Fluoride Fuel
+Molten FLiBe Salt Solution of HEP-239 Fluoride Fuel
+Molten LEP-241 Fuel
+Molten LEP-241 Fuel
+Molten LEP-241 Fluoride Fuel
+Molten LEP-241 Fluoride Fuel
+Molten FLiBe Salt Solution of LEP-241 Fluoride Fuel
+Molten FLiBe Salt Solution of LEP-241 Fluoride Fuel
+Molten HEP-241 Fuel
+Molten HEP-241 Fuel
+Molten HEP-241 Fluoride Fuel
+Molten HEP-241 Fluoride Fuel
+Molten FLiBe Salt Solution of HEP-241 Fluoride Fuel
+Molten FLiBe Salt Solution of HEP-241 Fluoride Fuel
+Molten LEA-242 Fuel
+Molten LEA-242 Fuel
+Molten LEA-242 Fluoride Fuel
+Molten LEA-242 Fluoride Fuel
+Molten FLiBe Salt Solution of LEA-242 Fluoride Fuel
+Molten FLiBe Salt Solution of LEA-242 Fluoride Fuel
+Molten HEA-242 Fuel
+Molten HEA-242 Fuel
+Molten HEA-242 Fluoride Fuel
+Molten HEA-242 Fluoride Fuel
+Molten FLiBe Salt Solution of HEA-242 Fluoride Fuel
+Molten FLiBe Salt Solution of HEA-242 Fluoride Fuel
+Molten LECm-243 Fuel
+Molten LECm-243 Fuel
+Molten LECm-243 Fluoride Fuel
+Molten LECm-243 Fluoride Fuel
+Molten FLiBe Salt Solution of LECm-243 Fluoride Fuel
+Molten FLiBe Salt Solution of LECm-243 Fluoride Fuel
+Molten HECm-243 Fuel
+Molten HECm-243 Fuel
+Molten HECm-243 Fluoride Fuel
+Molten HECm-243 Fluoride Fuel
+Molten FLiBe Salt Solution of HECm-243 Fluoride Fuel
+Molten FLiBe Salt Solution of HECm-243 Fluoride Fuel
+Molten LECm-245 Fuel
+Molten LECm-245 Fuel
+Molten LECm-245 Fluoride Fuel
+Molten LECm-245 Fluoride Fuel
+Molten FLiBe Salt Solution of LECm-245 Fluoride Fuel
+Molten FLiBe Salt Solution of LECm-245 Fluoride Fuel
+Molten HECm-245 Fuel
+Molten HECm-245 Fuel
+Molten HECm-245 Fluoride Fuel
+Molten HECm-245 Fluoride Fuel
+Molten FLiBe Salt Solution of HECm-245 Fluoride Fuel
+Molten FLiBe Salt Solution of HECm-245 Fluoride Fuel
+Molten LECm-247 Fuel
+Molten LECm-247 Fuel
+Molten LECm-247 Fluoride Fuel
+Molten LECm-247 Fluoride Fuel
+Molten FLiBe Salt Solution of LECm-247 Fluoride Fuel
+Molten FLiBe Salt Solution of LECm-247 Fluoride Fuel
+Molten HECm-247 Fuel
+Molten HECm-247 Fuel
+Molten HECm-247 Fluoride Fuel
+Molten HECm-247 Fluoride Fuel
+Molten FLiBe Salt Solution of HECm-247 Fluoride Fuel
+Molten FLiBe Salt Solution of HECm-247 Fluoride Fuel
+Molten LEB-248 Fuel
+Molten LEB-248 Fuel
+Molten LEB-248 Fluoride Fuel
+Molten LEB-248 Fluoride Fuel
+Molten FLiBe Salt Solution of LEB-248 Fluoride Fuel
+Molten FLiBe Salt Solution of LEB-248 Fluoride Fuel
+Molten HEB-248 Fuel
+Molten HEB-248 Fuel
+Molten HEB-248 Fluoride Fuel
+Molten HEB-248 Fluoride Fuel
+Molten FLiBe Salt Solution of HEB-248 Fluoride Fuel
+Molten FLiBe Salt Solution of HEB-248 Fluoride Fuel
+Molten LECf-249 Fuel
+Molten LECf-249 Fuel
+Molten LECf-249 Fluoride Fuel
+Molten LECf-249 Fluoride Fuel
+Molten FLiBe Salt Solution of LECf-249 Fluoride Fuel
+Molten FLiBe Salt Solution of LECf-249 Fluoride Fuel
+Molten HECf-249 Fuel
+Molten HECf-249 Fuel
+Molten HECf-249 Fluoride Fuel
+Molten HECf-249 Fluoride Fuel
+Molten FLiBe Salt Solution of HECf-249 Fluoride Fuel
+Molten FLiBe Salt Solution of HECf-249 Fluoride Fuel
+Molten LECf-251 Fuel
+Molten LECf-251 Fuel
+Molten LECf-251 Fluoride Fuel
+Molten LECf-251 Fluoride Fuel
+Molten FLiBe Salt Solution of LECf-251 Fluoride Fuel
+Molten FLiBe Salt Solution of LECf-251 Fluoride Fuel
+Molten HECf-251 Fuel
+Molten HECf-251 Fuel
+Molten HECf-251 Fluoride Fuel
+Molten HECf-251 Fluoride Fuel
+Molten FLiBe Salt Solution of HECf-251 Fluoride Fuel
+Molten FLiBe Salt Solution of HECf-251 Fluoride Fuel
+Molten Depleted TBU Fuel
+Molten Depleted TBU Fuel
+Molten Depleted TBU Fluoride Fuel
+Molten Depleted TBU Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted TBU Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted TBU Fluoride Fuel
+Molten Depleted LEU-233 Fuel
+Molten Depleted LEU-233 Fuel
+Molten Depleted LEU-233 Fluoride Fuel
+Molten Depleted LEU-233 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEU-233 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEU-233 Fluoride Fuel
+Molten Depleted HEU-233 Fuel
+Molten Depleted HEU-233 Fuel
+Molten Depleted HEU-233 Fluoride Fuel
+Molten Depleted HEU-233 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEU-233 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEU-233 Fluoride Fuel
+Molten Depleted LEU-235 Fuel
+Molten Depleted LEU-235 Fuel
+Molten Depleted LEU-235 Fluoride Fuel
+Molten Depleted LEU-235 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEU-235 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEU-235 Fluoride Fuel
+Molten Depleted HEU-235 Fuel
+Molten Depleted HEU-235 Fuel
+Molten Depleted HEU-235 Fluoride Fuel
+Molten Depleted HEU-235 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEU-235 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEU-235 Fluoride Fuel
+Molten Depleted LEN-236 Fuel
+Molten Depleted LEN-236 Fuel
+Molten Depleted LEN-236 Fluoride Fuel
+Molten Depleted LEN-236 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEN-236 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEN-236 Fluoride Fuel
+Molten Depleted HEN-236 Fuel
+Molten Depleted HEN-236 Fuel
+Molten Depleted HEN-236 Fluoride Fuel
+Molten Depleted HEN-236 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEN-236 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEN-236 Fluoride Fuel
+Molten Depleted LEP-239 Fuel
+Molten Depleted LEP-239 Fuel
+Molten Depleted LEP-239 Fluoride Fuel
+Molten Depleted LEP-239 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEP-239 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEP-239 Fluoride Fuel
+Molten Depleted HEP-239 Fuel
+Molten Depleted HEP-239 Fuel
+Molten Depleted HEP-239 Fluoride Fuel
+Molten Depleted HEP-239 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEP-239 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEP-239 Fluoride Fuel
+Molten Depleted LEP-241 Fuel
+Molten Depleted LEP-241 Fuel
+Molten Depleted LEP-241 Fluoride Fuel
+Molten Depleted LEP-241 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEP-241 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEP-241 Fluoride Fuel
+Molten Depleted HEP-241 Fuel
+Molten Depleted HEP-241 Fuel
+Molten Depleted HEP-241 Fluoride Fuel
+Molten Depleted HEP-241 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEP-241 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEP-241 Fluoride Fuel
+Molten Depleted LEA-242 Fuel
+Molten Depleted LEA-242 Fuel
+Molten Depleted LEA-242 Fluoride Fuel
+Molten Depleted LEA-242 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEA-242 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEA-242 Fluoride Fuel
+Molten Depleted HEA-242 Fuel
+Molten Depleted HEA-242 Fuel
+Molten Depleted HEA-242 Fluoride Fuel
+Molten Depleted HEA-242 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEA-242 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEA-242 Fluoride Fuel
+Molten Depleted LECm-243 Fuel
+Molten Depleted LECm-243 Fuel
+Molten Depleted LECm-243 Fluoride Fuel
+Molten Depleted LECm-243 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LECm-243 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LECm-243 Fluoride Fuel
+Molten Depleted HECm-243 Fuel
+Molten Depleted HECm-243 Fuel
+Molten Depleted HECm-243 Fluoride Fuel
+Molten Depleted HECm-243 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HECm-243 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HECm-243 Fluoride Fuel
+Molten Depleted LECm-245 Fuel
+Molten Depleted LECm-245 Fuel
+Molten Depleted LECm-245 Fluoride Fuel
+Molten Depleted LECm-245 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LECm-245 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LECm-245 Fluoride Fuel
+Molten Depleted HECm-245 Fuel
+Molten Depleted HECm-245 Fuel
+Molten Depleted HECm-245 Fluoride Fuel
+Molten Depleted HECm-245 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HECm-245 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HECm-245 Fluoride Fuel
+Molten Depleted LECm-247 Fuel
+Molten Depleted LECm-247 Fuel
+Molten Depleted LECm-247 Fluoride Fuel
+Molten Depleted LECm-247 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LECm-247 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LECm-247 Fluoride Fuel
+Molten Depleted HECm-247 Fuel
+Molten Depleted HECm-247 Fuel
+Molten Depleted HECm-247 Fluoride Fuel
+Molten Depleted HECm-247 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HECm-247 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HECm-247 Fluoride Fuel
+Molten Depleted LEB-248 Fuel
+Molten Depleted LEB-248 Fuel
+Molten Depleted LEB-248 Fluoride Fuel
+Molten Depleted LEB-248 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEB-248 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LEB-248 Fluoride Fuel
+Molten Depleted HEB-248 Fuel
+Molten Depleted HEB-248 Fuel
+Molten Depleted HEB-248 Fluoride Fuel
+Molten Depleted HEB-248 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEB-248 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HEB-248 Fluoride Fuel
+Molten Depleted LECf-249 Fuel
+Molten Depleted LECf-249 Fuel
+Molten Depleted LECf-249 Fluoride Fuel
+Molten Depleted LECf-249 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LECf-249 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LECf-249 Fluoride Fuel
+Molten Depleted HECf-249 Fuel
+Molten Depleted HECf-249 Fuel
+Molten Depleted HECf-249 Fluoride Fuel
+Molten Depleted HECf-249 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HECf-249 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HECf-249 Fluoride Fuel
+Molten Depleted LECf-251 Fuel
+Molten Depleted LECf-251 Fuel
+Molten Depleted LECf-251 Fluoride Fuel
+Molten Depleted LECf-251 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LECf-251 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted LECf-251 Fluoride Fuel
+Molten Depleted HECf-251 Fuel
+Molten Depleted HECf-251 Fuel
+Molten Depleted HECf-251 Fluoride Fuel
+Molten Depleted HECf-251 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HECf-251 Fluoride Fuel
+Molten FLiBe Salt Solution of Depleted HECf-251 Fluoride Fuel
+Molten Redstone
+Molten Redstone
+Eutectic NaK-Redstone Mixture
+Eutectic NaK-Redstone Mixture
+Hot Eutectic NaK-Redstone Mixture
+Hot Eutectic NaK-Redstone Mixture
+Molten Quartz
+Molten Quartz
+Eutectic NaK-Quartz Mixture
+Eutectic NaK-Quartz Mixture
+Hot Eutectic NaK-Quartz Mixture
+Hot Eutectic NaK-Quartz Mixture
+Molten Gold
+Molten Gold
+Eutectic NaK-Gold Mixture
+Eutectic NaK-Gold Mixture
+Hot Eutectic NaK-Gold Mixture
+Hot Eutectic NaK-Gold Mixture
+Molten Glowstone
+Molten Glowstone
+Eutectic NaK-Glowstone Mixture
+Eutectic NaK-Glowstone Mixture
+Hot Eutectic NaK-Glowstone Mixture
+Hot Eutectic NaK-Glowstone Mixture
+Molten Lapis
+Molten Lapis
+Eutectic NaK-Lapis Mixture
+Eutectic NaK-Lapis Mixture
+Hot Eutectic NaK-Lapis Mixture
+Hot Eutectic NaK-Lapis Mixture
+Molten Diamond
+Molten Diamond
+Eutectic NaK-Diamond Mixture
+Eutectic NaK-Diamond Mixture
+Hot Eutectic NaK-Diamond Mixture
+Hot Eutectic NaK-Diamond Mixture
+Eutectic NaK-Helium Mixture
+Eutectic NaK-Helium Mixture
+Hot Eutectic NaK-Helium Mixture
+Hot Eutectic NaK-Helium Mixture
+Molten Ender
+Molten Ender
+Eutectic NaK-Ender Mixture
+Eutectic NaK-Ender Mixture
+Hot Eutectic NaK-Ender Mixture
+Hot Eutectic NaK-Ender Mixture
+Molten Cryotheum
+Molten Cryotheum
+Eutectic NaK-Cryotheum Mixture
+Eutectic NaK-Cryotheum Mixture
+Hot Eutectic NaK-Cryotheum Mixture
+Hot Eutectic NaK-Cryotheum Mixture
+Molten Iron
+Molten Iron
+Eutectic NaK-Iron Mixture
+Eutectic NaK-Iron Mixture
+Hot Eutectic NaK-Iron Mixture
+Hot Eutectic NaK-Iron Mixture
+Molten Emerald
+Molten Emerald
+Eutectic NaK-Emerald Mixture
+Eutectic NaK-Emerald Mixture
+Hot Eutectic NaK-Emerald Mixture
+Hot Eutectic NaK-Emerald Mixture
+Molten Copper
+Molten Copper
+Eutectic NaK-Copper Mixture
+Eutectic NaK-Copper Mixture
+Hot Eutectic NaK-Copper Mixture
+Hot Eutectic NaK-Copper Mixture
+Molten Tin
+Molten Tin
+Eutectic NaK-Tin Mixture
+Eutectic NaK-Tin Mixture
+Hot Eutectic NaK-Tin Mixture
+Hot Eutectic NaK-Tin Mixture
+Molten Magnesium
+Molten Magnesium
+Eutectic NaK-Magnesium Mixture
+Eutectic NaK-Magnesium Mixture
+Hot Eutectic NaK-Magnesium Mixture
+Hot Eutectic NaK-Magnesium Mixture
+Radiation:
+Rad Resistance:
+Food Effects:
+Copper Ingot
+Tin Ingot
+Lead Ingot
+Thorium Ingot
+Uranium Ingot
+Boron Ingot
+Lithium Ingot
+Magnesium Ingot
+Graphite Ingot
+Beryllium Ingot
+Zirconium Ingot
+Manganese Ingot
+Aluminum Ingot
+Silver Ingot
+Thorium Oxide Ingot
+Uranium Oxide Ingot
+Manganese Oxide Ingot
+Manganese Dioxide Ingot
+Copper Dust
+Tin Dust
+Lead Dust
+Thorium Dust
+Uranium Dust
+Boron Dust
+Lithium Dust
+Magnesium Dust
+Graphite Dust
+Beryllium Dust
+Obtained alongside Coal when breaking Coal Ore.
+Zirconium Dust
+Obtained alongside Nether Quartz when breaking Nether Quartz Ore.
+Manganese Dust
+Aluminum Dust
+Silver Dust
+Thorium Oxide Dust
+Uranium Oxide Dust
+Manganese Oxide Dust
+Manganese Dioxide Dust
+Rhodochrosite
+Obtained alongside Redstone when breaking Redstone Ore.
+Cubic Boron Nitride
+Fluorite
+Obtained alongside Lapis Lazuli when breaking Lapis Lazuli Ore.
+Villiaumite
+Obtained alongside Diamonds when breaking Diamond Ore.
+Carobbiite
+Obtained alongside Diamonds when breaking Diamond Ore.
+Boron Arsenide
+Silicon
+Crushed Diamond
+Crushed Rhodochrosite
+Crushed Quartz
+Crushed Obsidian
+Hexagonal Boron Nitride
+Crushed Fluorite
+Sulfur
+Obtained alongside Coal when breaking Coal Ore.
+Crushed Coal
+Crushed Villiaumite
+Crushed Carobbiite
+Crushed Arsenic
+Crushed End Stone
+Bronze Ingot
+Tough Alloy
+Hard Carbon Alloy
+Magnesium Diboride Alloy
+Lithium Manganese Dioxide Alloy
+Steel Ingot
+Ferroboron Alloy
+Shibuichi Alloy
+Tin Silver Alloy
+Lead Platinum Alloy
+Extreme Alloy
+Thermoconducting Alloy
+Zircaloy
+Silicon Carbide Ingot
+SiC-SiC Ceramic Matrix Composite
+HSLA Steel Ingot
+Calcium Sulfate
+Crystal Binder
+Energetic Blend
+Sodium Fluoride
+Potassium Fluoride
+Sodium Hydroxide
+Potassium Hydroxide
+Borax
+Dimensional Blend
+Carbon-Manganese Blend
+Alugentum Dust
+Basic Plating
+Advanced Plating
+DU Plating
+Elite Plating
+Copper Solenoid
+Magnesium Diboride Solenoid
+Bioplastic
+Servomechanism
+Electric Motor
+Linear Actuator
+Machine Chassis
+Empty Frame
+Steel Frame
+Extreme Plating
+Silicon Carbide Fiber
+Speed Upgrade
+Increases the processing speed of machines at the cost of additional processing power. These upgrades can be stacked - the speed will increase %s with each additional upgrade while the power use will increase %s.
+Energy Upgrade
+Decreases the processing power of machines. These upgrades can be stacked, but the maximum number that will have an effect is equal to the number of installed speed upgrades. The power use will decrease %s with each additional upgrade.
+approximately
+Tiny Pile of Lead Dust
+Thorium-230
+Thorium-230 Oxide
+Tiny Clump of Thorium-230
+Tiny Clump of Thorium-230 Oxide
+Thorium-232
+Thorium-232 Oxide
+Tiny Clump of Thorium-232
+Tiny Clump of Thorium-232 Oxide
+An isotope of Thorium.
+Uranium-233
+Uranium-233 Oxide
+Tiny Clump of Uranium-233
+Tiny Clump of Uranium-233 Oxide
+Uranium-235
+Uranium-235 Oxide
+Tiny Clump of Uranium-235
+Tiny Clump of Uranium-235 Oxide
+Uranium-238
+Uranium-238 Oxide
+Tiny Clump of Uranium-238
+Tiny Clump of Uranium-238 Oxide
+An isotope of Uranium.
+Neptunium-236
+Neptunium-236 Oxide
+Tiny Clump of Neptunium-236
+Tiny Clump of Neptunium-236 Oxide
+Neptunium-237
+Neptunium-237 Oxide
+Tiny Clump of Neptunium-237
+Tiny Clump of Neptunium-237 Oxide
+An isotope of Neptunium.
+Plutonium-238
+Plutonium-238 Oxide
+Tiny Clump of Plutonium-238
+Tiny Clump of Plutonium-238 Oxide
+Plutonium-239
+Plutonium-239 Oxide
+Tiny Clump of Plutonium-239
+Tiny Clump of Plutonium-239 Oxide
+Plutonium-241
+Plutonium-241 Oxide
+Tiny Clump of Plutonium-241
+Tiny Clump of Plutonium-241 Oxide
+Plutonium-242
+Plutonium-242 Oxide
+Tiny Clump of Plutonium-242
+Tiny Clump of Plutonium-242 Oxide
+An isotope of Plutonium.
+Americium-241
+Americium-241 Oxide
+Tiny Clump of Americium-241
+Tiny Clump of Americium-241 Oxide
+Americium-242
+Americium-242 Oxide
+Tiny Clump of Americium-242
+Tiny Clump of Americium-242 Oxide
+Americium-243
+Americium-243 Oxide
+Tiny Clump of Americium-243
+Tiny Clump of Americium-243 Oxide
+An isotope of Americium.
+Curium-243
+Curium-243 Oxide
+Tiny Clump of Curium-243
+Tiny Clump of Curium-243 Oxide
+Curium-245
+Curium-245 Oxide
+Tiny Clump of Curium-245
+Tiny Clump of Curium-245 Oxide
+Curium-246
+Curium-246 Oxide
+Tiny Clump of Curium-246
+Tiny Clump of Curium-246 Oxide
+Curium-247
+Curium-247 Oxide
+Tiny Clump of Curium-247
+Tiny Clump of Curium-247 Oxide
+An isotope of Curium.
+Berkelium-247
+Berkelium-247 Oxide
+Tiny Clump of Berkelium-247
+Tiny Clump of Berkelium-247 Oxide
+Berkelium-248
+Berkelium-248 Oxide
+Tiny Clump of Berkelium-248
+Tiny Clump of Berkelium-248 Oxide
+An isotope of Berkelium.
+Californium-249
+Californium-249 Oxide
+Tiny Clump of Californium-249
+Tiny Clump of Californium-249 Oxide
+Californium-250
+Californium-250 Oxide
+Tiny Clump of Californium-250
+Tiny Clump of Californium-250 Oxide
+Californium-251
+Californium-251 Oxide
+Tiny Clump of Californium-251
+Tiny Clump of Californium-251 Oxide
+Californium-252
+Californium-252 Oxide
+Tiny Clump of Californium-252
+Tiny Clump of Californium-252 Oxide
+An isotope of Californium.
+TBU Fuel
+TBU Oxide Fuel
+LEU-233 Fuel
+LEU-233 Oxide Fuel
+HEU-233 Fuel
+HEU-233 Oxide Fuel
+LEU-235 Fuel
+LEU-235 Oxide Fuel
+HEU-235 Fuel
+HEU-235 Oxide Fuel
+LEN-236 Fuel
+LEN-236 Oxide Fuel
+HEN-236 Fuel
+HEN-236 Oxide Fuel
+LEP-239 Fuel
+LEP-239 Oxide Fuel
+HEP-239 Fuel
+HEP-239 Oxide Fuel
+LEP-241 Fuel
+LEP-241 Oxide Fuel
+HEP-241 Fuel
+HEP-241 Oxide Fuel
+MOX-239 Fuel
+MOX-241 Fuel
+LEA-242 Fuel
+LEA-242 Oxide Fuel
+HEA-242 Fuel
+HEA-242 Oxide Fuel
+LECm-243 Fuel
+LECm-243 Oxide Fuel
+HECm-243 Fuel
+HECm-243 Oxide Fuel
+LECm-245 Fuel
+LECm-245 Oxide Fuel
+HECm-245 Fuel
+HECm-245 Oxide Fuel
+LECm-247 Fuel
+LECm-247 Oxide Fuel
+HECm-247 Fuel
+HECm-247 Oxide Fuel
+LEB-248 Fuel
+LEB-248 Oxide Fuel
+HEB-248 Fuel
+HEB-248 Oxide Fuel
+LECf-249 Fuel
+LECf-249 Oxide Fuel
+HECf-249 Fuel
+HECf-249 Oxide Fuel
+LECf-251 Fuel
+LECf-251 Oxide Fuel
+HECf-251 Fuel
+HECf-251 Oxide Fuel
+Base process time: %s min
+Base power: %s RF/t
+Base heat gen: %s H/t
+Depleted TBU Fuel
+Depleted TBU Oxide Fuel
+Depleted LEU-233 Fuel
+Depleted LEU-233 Oxide Fuel
+Depleted HEU-233 Fuel
+Depleted HEU-233 Oxide Fuel
+Depleted LEU-235 Fuel
+Depleted LEU-235 Oxide Fuel
+Depleted HEU-235 Fuel
+Depleted HEU-235 Oxide Fuel
+Depleted LEN-236 Fuel
+Depleted LEN-236 Oxide Fuel
+Depleted HEN-236 Fuel
+Depleted HEN-236 Oxide Fuel
+Depleted LEP-239 Fuel
+Depleted LEP-239 Oxide Fuel
+Depleted HEP-239 Fuel
+Depleted HEP-239 Oxide Fuel
+Depleted LEP-241 Fuel
+Depleted LEP-241 Oxide Fuel
+Depleted HEP-241 Fuel
+Depleted HEP-241 Oxide Fuel
+Depleted MOX-239 Fuel
+Depleted MOX-241 Fuel
+Depleted LEA-242 Fuel
+Depleted LEA-242 Oxide Fuel
+Depleted HEA-242 Fuel
+Depleted HEA-242 Oxide Fuel
+Depleted LECm-243 Fuel
+Depleted LECm-243 Oxide Fuel
+Depleted HECm-243 Fuel
+Depleted HECm-243 Oxide Fuel
+Depleted LECm-245 Fuel
+Depleted LECm-245 Oxide Fuel
+Depleted HECm-245 Fuel
+Depleted HECm-245 Oxide Fuel
+Depleted LECm-247 Fuel
+Depleted LECm-247 Oxide Fuel
+Depleted HECm-247 Fuel
+Depleted HECm-247 Oxide Fuel
+Depleted LEB-248 Fuel
+Depleted LEB-248 Oxide Fuel
+Depleted HEB-248 Fuel
+Depleted HEB-248 Oxide Fuel
+Depleted LECf-249 Fuel
+Depleted LECf-249 Oxide Fuel
+Depleted HECf-249 Fuel
+Depleted HECf-249 Oxide Fuel
+Depleted LECf-251 Fuel
+Depleted LECf-251 Oxide Fuel
+Depleted HECf-251 Fuel
+Depleted HECf-251 Oxide Fuel
+Depleted Uranium Nuclear Fuel
+Depleted MOX Nuclear Fuel
+Boron-10
+Tiny Clump of Boron-10
+Boron-11
+Tiny Clump of Boron-11
+An isotope of Boron.
+Lithium-6
+Tiny Clump of Lithium-6
+Lithium-7
+Tiny Clump of Lithium-7
+An isotope of Lithium.
+Boron Sword
+Boron Pickaxe
+Boron Shovel
+Boron Axe
+Boron Hoe
+Boron Spaxelhoe
+A universal tool made up of all of the standard Boron tools.
+Tough Alloy Sword
+Tough Alloy Pickaxe
+Tough Alloy Shovel
+Tough Alloy Axe
+Tough Alloy Hoe
+Tough Alloy Spaxelhoe
+A universal tool made up of all of the standard Tough Alloy tools.
+Hard Carbon Sword
+Hard Carbon Pickaxe
+Hard Carbon Shovel
+Hard Carbon Axe
+Hard Carbon Hoe
+Hard Carbon Spaxelhoe
+A universal tool made up of all of the standard Hard Carbon tools.
+Boron Nitride Sword
+Boron Nitride Pickaxe
+Boron Nitride Shovel
+Boron Nitride Axe
+Boron Nitride Hoe
+Boron Nitride Spaxelhoe
+A universal tool made up of all of the standard Boron Nitride tools.
+Boron Helmet
+Boron Chestplate
+Boron Leggings
+Boron Boots
+Tough Alloy Helmet
+Tough Alloy Chestplate
+Tough Alloy Leggings
+Tough Alloy Boots
+Hard Carbon Helmet
+Hard Carbon Chestplate
+Hard Carbon Leggings
+Hard Carbon Boots
+Boron Nitride Helmet
+Boron Nitride Chestplate
+Boron Nitride Leggings
+Boron Nitride Boots
+Hazmat Suit Headwear
+Hazmat Suit Chestpiece
+Hazmat Suit Leggings
+Hazmat Suit Boots
+Reactor Door
+Lithium Ion Cell
+Geiger Counter
+Detects radiation and informs the player of their rad count. Can be used to read the irradiation of entities. Will be muted if off the hotbar.
+Radiation:
+Light Radiation Shielding
+Medium Radiation Shielding
+Heavy Radiation Shielding
+Can be applied to armor to give the player %s rad resistance while worn.
+Can be applied to armor to give the player %s rad resistance while worn. Can also be applied to containers to shield against irradiation from its contents.
+Hardcore containers is disabled in the configs!
+Failed to install shielding. Hardcore containers is disabled in the configs!
+Failed to install shielding. The container already has a resistance level of
+Successfully installed shielding! The container now has a resistance level of
+Radiation Badge
+Informs the player of how irradiated they have been while being worn on every %s of radiation detected, up to a maximum of %s.
+Your Radiation Badge has been exposed to
+Your Radiation Badge disintegrated...
+RadAway
+Removes %s [%s] at a rate of %s.
+Slow-Acting RadAway
+Removes %s [%s] at a rate of %s.
+Rad-X
+Increases rad resistance by %s for %s. The effect can be stacked, but higher levels of resistance will wear off more quickly.
+Portable Ender Chest
+Access your Ender Chest on the move.
+Domino's Special
+Paul's favorite - restore 16 hunger points with this beauty.
+Flour
+Graham Cracker
+Roasted Cocoa Beans
+Ground Cocoa Nibs
+Solidified Cocoa Butter
+Cocoa Solids
+Unsweetened Chocolate
+Dark Chocolate
+Milk Chocolate
+Gelatin
+Marshmallow
+Many civilizations would not have fallen with these on their side.
+S'more S'mingot
+MoreS'more DoubleS'mingot
+FourS'more QuadS'mingot
+Music Disc
+Dion - The Wanderer
+8-Bit Cover by '8 Bit Universe'
+Music Disc
+Skeeter Davis - The End of the World
+8-Bit Cover by 'GermanPikachuGaming'
+Music Disc
+Dire Straits - Money For Nothing
+8-Bit Cover by 'Omnigrad'
+Music Disc
+Ur-Quan Masters - Hyperspace
+Originally by Riku Nuottajärvi
+Feral Ghoul
+Output: %s-%s [Mean: %s]
+Base process time:
+Base process power:
+Fission cooling rate:
+Base Fusion cooling rate:
+Base depletion time:
+Base power gen:
+Base heat gen:
+Base combo lifetime:
+Base max power:
+Optimal temperature:
+Mean lifetime:
+Power gen:
+Depletion time:
+Base heat gen:
+Cooling rate:
+Temperature:
+Heating provided:
+Cooling provided:
+Heating required:
+Cooling required:
+Condensing temperature:
+Heat removal required:
+Base energy density:
+Fluid expansion:
+Must be adjacent to at least one active Fission Vessel or active moderator.
+Must be adjacent to at least one active Fission Vessel.
+Must be adjacent to at least one active moderator.
+Must be adjacent to at least one valid NaK Coolant Heater and one valid NaK-Redstone Coolant Heater.
+Must be adjacent to at least two active moderator blocks.
+Must be adjacent to at least one active Fission Vessel and one Reactor Wall.
+Must be adjacent to at least one valid NaK Coolant Heater and one valid NaK-Quartz Coolant Heater.
+Must be adjacent to exactly one valid NaK-Redstone Coolant Heater and at least one Reactor Wall.
+Must be adjacent to exactly three Reactor Walls at exactly one vertex.
+Must be adjacent to at least two Fission Vessels.
+Must be adjacent to at least one valid NaK-Gold Coolant Heater.
+Must be adjacent to at least one active moderator and one active Fission Vessel.
+Must be adjacent to at least one valid NaK-Glowstone Coolant Heater.
+Must be adjacent to at least two valid NaK-Lapis Coolant Heaters along a common axis.
+Must be adjacent to at least one Reactor Wall and one active moderator.
+NuclearCraft
+NuclearCraft Base Blocks
+NuclearCraft Base Items
+NuclearCraft Radiation
+NuclearCraft Machines
+NuclearCraft Fission Blocks
+NuclearCraft Fission Materials
+NuclearCraft Fission Fuels
+NuclearCraft Fusion
+NuclearCraft Molten Salt Fission
+NuclearCraft Heat Exchanger
+NuclearCraft Turbine
+NuclearCraft Condenser
+NuclearCraft Accelerator
+NuclearCraft Fluids
+NuclearCraft Miscellaneous
+NuclearCraft Configs
+Ore Configs
+Configure ore generation.
+Dimension List
+List of IDs of dimensions to whitelist/blacklist for ore generation.
+Whitelist/Blacklist (false/true)
+Is the dimension list a whitelist (false) or a blacklist (true)?
+Generate Ores
+Will ores generate in the world? Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Chunk Sizes
+Numbers of ore blocks per ore chunk. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Spawn Rates
+Rates at which ores generate. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Minimum Gen Heights
+Minimum heights at which ores generate. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Maximum Gen Heights
+Maximum heights at which ores generate. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Enable Extra Ore Drops
+Will vanilla ores drop extra resources? Order: rhodochrosite, beryllium dust, zirconium dust, fluorite, sulfur, villiaumite, carobbiite.
+Hide Disabled Ores
+Remove disabled ores from the Ore Dictionary and JEI?
+Ore Harvest Levels
+Pickaxe harvest levels of ores. Order: copper, tin, lead, thorium, uranium, boron, lithium, magnesium.
+Processor Configs
+Configure processors.
+Processing Times
+Base ticks per process. Order: Manufactory, Isotope Separator, Decay Hastener, Fuel Reprocessor, Alloy Furnace, Fluid Infuser, Melter, Supercooler, Electrolyzer, Neutron Irradiator, Ingot Former, Pressurizer, Chemical Reactor, Salt Mixer, Crystallizer, Fluid Enricher, Fluid Extractor, Centrifuge, Rock Crusher.
+Processing Power Use
+Base RF/t use during processing. Order: Manufactory, Isotope Separator, Decay Hastener, Fuel Reprocessor, Alloy Furnace, Fluid Infuser, Melter, Supercooler, Electrolyzer, Neutron Irradiator, Ingot Former, Pressurizer, Chemical Reactor, Salt Mixer, Crystallizer, Fluid Enricher, Fluid Extractor, Centrifuge, Rock Crusher.
+Speed Upgrade Power Laws
+Power laws for speed upgrades. Order: Processing Time, Processing Power.
+Speed Upgrade Multipliers
+Base multipliers for speed upgrades. Order: Processing Time, Processing Power.
+Energy Upgrade Power Laws
+Power laws for energy upgrades. Order: Processing Power.
+Energy Upgrade Multipliers
+Base multipliers for energy upgrades. Order: Processing Power.
+RF per IC2 EU
+Conversion ratio between Redstone Flux and IC2 Energy Units.
+Enable GTCE EU Support
+If true, energy from GTCE can be accepted and emitted by NC machines.
+Enable Mekanism Gas Support
+If true, gas from Mekanism can be handled by NC machines.
+Machine Update Rate
+Ticks per machine update - used for various processes such as GUI updates and multiblock structure checks.
+Passive Production Rate
+Rates at which passive machines produce materials. Order: Helium Collector, Cobblestone Generator, Infinite Water Source, Nitrogen Collector.
+Passive Pushing
+Will passive machines that produce materials automatically push to adjacent inventories and fluid handlers?
+Cobble Gen Power Use
+RF/s required for Cobblestone Generator to run.
+Ore Processing
+Can NuclearCraft machines process ores?
+Manufactory Wood Processing
+Specify the size of the output stack for Manufactory wood processing recipes. Order: Logs->Planks, Planks->Sticks.
+Rock Crusher Alternate Recipes
+Use an alternate set of recipes for the Rock Crusher that only produce NC dusts?
+Register GTCE Recipes
+If enabled, recipes of the corresponding NC machine will also be added for GTCE machines. Order: Manufactory, Isotope Separator, Decay Hastener, Fuel Reprocessor, Alloy Furnace, Fluid Infuser, Melter, Supercooler, Electrolyzer, Neutron Irradiator, Ingot Former, Pressurizer, Chemical Reactor, Salt Mixer, Crystallizer, Fluid Enricher, Fluid Extractor, Centrifuge, Rock Crusher.
+GTCE Recipe Logging
+Will GTCE recipe additions be logged?
+Smart Processor Input
+Will a machine's valid inputs depend on the stacks already in its input slots as well as its possible recipes?
+Passive Permeation
+Will passive machines such as Active Coolers and Electromagnets spread their items, fluid and energy to adjacent passive machines?
+Processor Particles
+Will machines produce particle effects while running?
+Generator Configs
+Configure generators.
+RTG Power Gen
+RF/t generated. Order: Uranium, Plutonium, Americium, Californium.
+Solar Panel Power Gen
+RF/t generated. Order: Basic, Advanced, DU, Elite.
+Decay Generator Mean Lifetimes
+Mean lifetimes of adjacent radioactive blocks. Order: Thorium, Uranium, Depleted Thorium, Depleted Uranium, Depleted Neptunium, Depleted Plutonium, Depleted Americium, Depleted Curium, Depleted Berkelium, Depleted Californium.
+Decay Generator Power Gen
+RF/s generated by adjacent radioactive blocks. Order: Thorium, Uranium, Depleted Thorium, Depleted Uranium, Depleted Neptunium, Depleted Plutonium, Depleted Americium, Depleted Curium, Depleted Berkelium, Depleted Californium.
+RF Use per EU Emitted
+The RF used per EU emitted for generators.
+Fission Configs
+Configure aspects of nuclear fission.
+Base Capacity
+The base energy capacity of fission reactors. This is multiplied by the volume of the reactor to determine the energy capacity.
+Base Max Heat
+The base maximum heat of fission reactors. This is multiplied by the volume of the reactor to determine the maximum heat.
+Power Gen Multiplier
+Modifies the power generated by fission reactors.
+Fuel Use Multiplier
+Modifies the rate of fuel used by fission reactors.
+Heat Gen Multiplier
+Modifies the heat generated by fission reactors.
+Cooling Rates
+Base heat removed per tick. Order: water, redstone, quartz, gold, glowstone, lapis, diamond, liquid helium, enderium, cryotheum, iron, emerald, copper, tin, magnesium.
+Active Cooling Rates
+Heat removed per tick/mB. Order: water, redstone, quartz, gold, glowstone, lapis, diamond, liquid helium, ender, cryotheum, iron, emerald, copper, tin, magnesium.
+Water Cooler Requirement
+Do water coolers have to fulfill their position requirements to be valid?
+Enable Meltdowns
+Can fission reactors overheat?
+Enable Explosions
+Will fission reactors explode when they overheat?
+Meltdown Radiation Multiplier
+Modifies the radiation leaked by meltdowns.
+Minimum Structure Length
+Minimum side length of fission structures.
+Maximum Structure Length
+Maximum side length of fission structures.
+Max Comparator Signal Heat
+Percentage heat level of a fission reactor at which a comparator adjacent to the controller will output a full-strength redstone signal.
+Force Heat Comparator
+If enabled, the controller of a heat-negative or heat-neutral reactor will output a heat-based comparator signal as if it were heat-positive instead of an energy-based one.
+Maximum Active Cooler Fluid Use
+Maximum rate at which the Active Fluid Cooler uses coolant in mB/s.
+Fission Sound Volume
+Modifier for the volume of fission sound effects.
+Moderator Power Modifier
+*Only effects new mechanics.* Determines the extra power generated by each moderator block adjacent to a reactor cell. Equal to the effective number of extra cell's worth of power that would be generated by a cell totally surrounded by moderator blocks. Each moderator block will contribute one sixth of this amount of power (the amount of additional power scales linearly with the number of moderator blocks).
+Moderator Heat Modifier
+*Only effects new mechanics.* Determines the extra heat generated by each moderator block adjacent to a reactor cell. Equal to the effective number of extra cell's worth of heat that would be generated by a cell totally surrounded by moderator blocks. Each moderator block will contribute one sixth of this amount of heat (the amount of additional heat scales linearly with the number of moderator blocks).
+Neutron Radiation Reach
+*Only effects new mechanics.* Maximum number of moderator blocks that can be between two cells for neutron radiation to be shared between them and their efficiency to increase.
+Thorium Fuel Durations
+Base ticks the fuels last. Order: TBU, TBU Oxide.
+Thorium Power Gen
+Base RF/t the fuels produce. Order: TBU, TBU Oxide.
+Thorium Heat Gen
+Base heat the fuels produce. Order: TBU, TBU Oxide.
+Thorium Radiation
+Base radiation the fuels produce while processing. Order: TBU, TBU Oxide.
+Uranium Fuel Durations
+Base ticks the fuels last. Order: LEU-233, LEU-233 Oxide, HEU-233, HEU-233 Oxide, LEU-235, LEU-235 Oxide, HEU-235, HEU-235 Oxide.
+Uranium Power Gen
+Base RF/t the fuels produce. Order: LEU-233, LEU-233 Oxide, HEU-233, HEU-233 Oxide, LEU-235, LEU-235 Oxide, HEU-235, HEU-235 Oxide.
+Uranium Heat Gen
+Base heat the fuels produce. Order: LEU-233, LEU-233 Oxide, HEU-233, HEU-233 Oxide, LEU-235, LEU-235 Oxide, HEU-235, HEU-235 Oxide.
+Uranium Radiation
+Base radiation the fuels produce while processing. Order: LEU-233, LEU-233 Oxide, HEU-233, HEU-233 Oxide, LEU-235, LEU-235 Oxide, HEU-235, HEU-235 Oxide.
+Neptunium Fuel Durations
+Base ticks the fuels last. Order: LEN-236, LEN-236 Oxide, HEN-236, HEN-236 Oxide.
+Neptunium Power Gen
+Base RF/t the fuels produce. Order: LEN-236, LEN-236 Oxide, HEN-236, HEN-236 Oxide.
+Neptunium Heat Gen
+Base heat the fuels produce. Order: LEN-236, LEN-236 Oxide, HEN-236, HEN-236 Oxide.
+Neptunium Radiation
+Base radiation the fuels produce while processing. Order: LEN-236, LEN-236 Oxide, HEN-236, HEN-236 Oxide.
+Plutonium Fuel Durations
+Base ticks the fuels last. Order: LEP-239, LEP-239 Oxide, HEP-239, HEP-239 Oxide, LEP-241, LEP-241 Oxide, HEP-241, HEP-241 Oxide.
+Plutonium Power Gen
+Base RF/t the fuels produce. Order: LEP-239, LEP-239 Oxide, HEP-239, HEP-239 Oxide, LEP-241, LEP-241 Oxide, HEP-241, HEP-241 Oxide.
+Plutonium Heat Gen
+Base heat the fuels produce. Order: LEP-239, LEP-239 Oxide, HEP-239, HEP-239 Oxide, LEP-241, LEP-241 Oxide, HEP-241, HEP-241 Oxide.
+Plutonium Radiation
+Base radiation the fuels produce while processing. Order: LEP-239, LEP-239 Oxide, HEP-239, HEP-239 Oxide, LEP-241, LEP-241 Oxide, HEP-241, HEP-241 Oxide.
+MOX Fuel Durations
+Base ticks the fuels last. Order: MOX-239, MOX-241.
+MOX Power Gen
+Base RF/t the fuels produce. Order: MOX-239, MOX-241.
+MOX Heat Gen
+Base heat the fuels produce. Order: MOX-239, MOX-241.
+MOX Radiation
+Base radiation the fuels produce while processing. Order: MOX-239, MOX-241.
+Americium Fuel Durations
+Base ticks the fuels last. Order: LEA-242, LEA-242 Oxide, HEA-242, HEA-242 Oxide.
+Americium Power Gen
+Base RF/t the fuels produce. Order: LEA-242, LEA-242 Oxide, HEA-242, HEA-242 Oxide.
+Americium Heat Gen
+Base heat the fuels produce. Order: LEA-242, LEA-242 Oxide, HEA-242, HEA-242 Oxide.
+Americium Radiation
+Base radiation the fuels produce while processing. Order: LEA-242, LEA-242 Oxide, HEA-242, HEA-242 Oxide.
+Curium Fuel Durations
+Base ticks the fuels last. Order: LECm-243, LECm-243 Oxide, HECm-243, HECm-243 Oxide, LECm-245, LECm-245 Oxide, HECm-245, HECm-245 Oxide, LECm-247, LECm-247 Oxide, HECm-247, HECm-247 Oxide.
+Curium Power Gen
+Base RF/t the fuels produce. Order: LECm-243, LECm-243 Oxide, HECm-243, HECm-243 Oxide, LECm-245, LECm-245 Oxide, HECm-245, HECm-245 Oxide, LECm-247, LECm-247 Oxide, HECm-247, HECm-247 Oxide.
+Curium Heat Gen
+Base heat the fuels produce. Order: LECm-243, LECm-243 Oxide, HECm-243, HECm-243 Oxide, LECm-245, LECm-245 Oxide, HECm-245, HECm-245 Oxide, LECm-247, LECm-247 Oxide, HECm-247, HECm-247 Oxide.
+Curium Radiation
+Base radiation the fuels produce while processing. Order: LECm-243, LECm-243 Oxide, HECm-243, HECm-243 Oxide, LECm-245, LECm-245 Oxide, HECm-245, HECm-245 Oxide, LECm-247, LECm-247 Oxide, HECm-247, HECm-247 Oxide.
+Berkelium Fuel Durations
+Base ticks the fuels last. Order: LEB-248, LEB-248 Oxide, HEB-248, HEB-248 Oxide.
+Berkelium Power Gen
+Base RF/t the fuels produce. Order: LEB-248, LEB-248 Oxide, HEB-248, HEB-248 Oxide.
+Berkelium Heat Gen
+Base heat the fuels produce. Order: LEB-248, LEB-248 Oxide, HEB-248, HEB-248 Oxide.
+Berkelium Radiation
+Base radiation the fuels produce while processing. Order: LEB-248, LEB-248 Oxide, HEB-248, HEB-248 Oxide.
+Californium Fuel Durations
+Base ticks the fuels last. Order: LECf-249, LECf-249 Oxide, HECf-249, HECf-249 Oxide, LECf-251, LECf-251 Oxide, HECf-251, HECf-251 Oxide.
+Californium Power Gen
+Base RF/t the fuels produce. Order: LECf-249, LECf-249 Oxide, HECf-249, HECf-249 Oxide, LECf-251, LECf-251 Oxide, HECf-251, HECf-251 Oxide.
+Californium Heat Gen
+Base heat the fuels produce. Order: LECf-249, LECf-249 Oxide, HECf-249, HECf-249 Oxide, LECf-251, LECf-251 Oxide, HECf-251, HECf-251 Oxide.
+Californium Radiation
+Base radiation the fuels produce while processing. Order: LECf-249, LECf-249 Oxide, HECf-249, HECf-249 Oxide, LECf-251, LECf-251 Oxide, HECf-251, HECf-251 Oxide.
+Fusion Configs
+Configure aspects of nuclear fusion.
+Power Gen Multiplier
+Modifies the power generated by fusion reactors.
+Fuel Use Multiplier
+Modifies the rate of fuel used by fusion reactors.
+Heat Gen Multiplier
+Modifies the heat generated by fusion reactors while running.
+Heating Rate Multiplier
+Modifies the heating rate of fusion reactors before running.
+Enable Meltdowns
+Can fusion reactors overheat?
+Meltdown Radiation Multiplier
+Modifies the radiation leaked by meltdowns.
+Enable Fusion Active Cooling
+Can fusion reactors be actively cooled (disable if suffering from lag)?
+Active Cooling Rates
+Base heat removed per tick/mB. Order: water, redstone, quartz, gold, glowstone, lapis, diamond, liquid helium, ender, cryotheum, iron, emerald, copper, tin, magnesium.
+Minimum Toroid Size
+Minimum size of fusion toroids.
+Maximum Toroid Size
+Maximum size of fusion toroids.
+Max Comparator Signal Efficiency
+Efficiency of a fusion reactor at which a comparator adjacent to the core will output a full-strength redstone signal.
+Fusion Plasma Fires
+Will fusion plasma start fires? Disabling this will reduce lag somewhat.
+Fusion Sound Volume
+Modifier for the volume of fusion sound effects.
+Fusion Fuel Combo Durations
+Base ticks the fuel combos last. Order: H-H, H-D, H-T, H-He3, H-Li6, H-Li7, H-B11, D-D, D-T, D-He3, ..., D-B11, T-T, ..., T-B11, ..., B11-B11.
+Fusion Fuel Combo Power Gen
+Base RF/t the fuel combos produce. Order: H-H, H-D, H-T, H-He3, H-Li6, H-Li7, H-B11, D-D, D-T, D-He3, ..., D-B11, T-T, ..., T-B11, ..., B11-B11.
+Fusion Fuel Combo Heat Variables
+Heat variables that determine the efficiency curves of the fuel combos. These are proportional to the optimal temperatures. Order: H-H, H-D, H-T, H-He3, H-Li6, H-Li7, H-B11, D-D, D-T, D-He3, ..., D-B11, T-T, ..., T-B11, ..., B11-B11.
+Fusion Fuel Combo Radiation
+Base radiation the fuel combos produce while processing. Order: H-H, H-D, H-T, H-He3, H-Li6, H-Li7, H-B11, D-D, D-T, D-He3, ..., D-B11, T-T, ..., T-B11, ..., B11-B11.
+Electromagnet Power
+RF/s required to keep an electromagnet active.
+Molten Salt Fission Configs
+Configure aspects of molten salt fission reactors.
+Power Gen Multiplier
+Modifies the power generated by salt fission reactors.
+Fuel Use Multiplier
+Modifies the rate of fuel used by salt fission reactors.
+Heat Gen Multiplier
+Modifies the heat generated by salt fission reactors.
+Enable Meltdowns
+Can molten salt fission reactors overheat?
+Meltdown Radiation Multiplier
+Modifies the radiation leaked by meltdowns.
+Minimum Structure Length
+Minimum side length of molten salt fission reactors.
+Maximum Structure Length
+Maximum side length of molten salt fission reactors.
+NaK Coolant Cooling Rates
+Heat removed per tick. Order: base, redstone, quartz, gold, glowstone, lapis, diamond, liquid helium, ender, cryotheum, iron, emerald, copper, tin, magnesium.
+Max Redstone Signal Heat
+Percentage heat level of a salt fission reactor at which Redstone Emitters will output a full-strength redstone signal.
+Max Fuel Distribution Rate
+The maximum rate at which fuel distributors and retrievers can push to and pull from fuel vessels in mB/s.
+Fission Vessel Spread Ratio
+Multiplier for the fraction of stored fluid that vessels will spread to adjacent components.
+Coolant Heater Spread Ratio
+Multiplier for the fraction of stored fluid that heaters will spread to adjacent components.
+Heat Exchanger Configs
+Configure aspects of heat exchangers.
+Minimum Structure Length
+Minimum side length of heat exchangers.
+Maximum Structure Length
+Maximum side length of heat exchangers.
+Tube Conductivity
+Multiplier for heat transfer rate to and from this type of tube. For heat exchanging tubes, heating recipes will be faster by this factor while cooling recipes will be slower by this factor. For condensation tubes, recipes will simply be faster by this factor. Order: copper, hard carbon, thermoconducting alloy.
+Coolant Heat Multiplier
+Multiplier for the heat required to cool hot coolant.
+Alternate Exhaust Steam Recipe
+Will exhaust steam be heated into standard steam rather than low pressure steam?
+Exchanger Tube Tank Capacities
+The input and output tank capacities of each exchanger tube.
+Condenser Tube Tank Capacities
+The input and output tank capacities of each condenser tube.
+Exchanger Tube Spread Ratio
+Multiplier for the fraction of stored fluid that exchanger tubes will spread to adjacent components.
+Condenser Tube Spread Ratio
+Multiplier for the fraction of stored fluid that condenser tubes will spread to adjacent components.
+Turbine Configs
+Configure aspects of turbines.
+Minimum Structure Length
+Minimum side length of turbines.
+Maximum Structure Length
+Maximum side length of turbines.
+Rotor Blade Efficiency
+Multiplier for the energy transferred from the fluid flow to this type of rotor blade. Order: steel, extreme alloy, SiC-SiC CMC.
+Rotor Blade Expansion Coefficient
+Coefficient by which a set of this type of rotor blade multiplies the volume of the fluid in the oncoming flow. Order: steel, extreme alloy, SiC-SiC CMC.
+Rotor Stator Expansion Coefficient
+Coefficient by which a set of rotor stators multiplies the volume of the fluid in the oncoming flow.
+Dynamo Coil Conductivity
+Multiplier for the energy generated by this type of dynamo coil. Order: magnesium, beryllium, aluminum, gold, copper, silver.
+Steam Base RF per mB
+Base RF produced per processed mB of this type of steam. Order: high pressure, low pressure, standard.
+Steam Expansion Level
+Expansion level for this type of steam's recipe. Order: high pressure, low pressure, standard.
+Rotor Blade Maximum Process Rate
+Maximum mB of fluid processed per tick per rotor blade.
+Turbine Sound Volume
+Modifier for the volume of turbine sound effects.
+Condenser Configs
+Configure aspects of condensers.
+Minimum Structure Length
+Minimum side length of condensers.
+Maximum Structure Length
+Maximum side length of condensers.
+Accelerator Configs
+Configure aspects of particle acceleration.
+Superconducting Electromagnet Power
+RF/s required to keep a superconducting electromagnet active.
+Superconducting Supercooler Coolant
+mB/s of liquid helium required to keep a superconducting supercooler active.
+Energy Storage Configs
+Configure energy storages.
+Battery Capacities
+Maximum RF storable. Order: Voltaic Pile [Basic, Advanced, DU, Elite], Lithium Ion Battery [Basic, Advanced, DU, Elite].
+Tool Configs
+Configure tools.
+Mining Levels
+Durabilities
+Max number of tool uses. Order: boron, boron spaxelhoe, tough alloy, tough alloy spaxelhoe, hard carbon, hard carbon spaxelhoe, boron nitride, boron nitride spaxelhoe.
+Mining Speeds
+Attack Damages
+Enchantabilities
+Determines the quality of applied enchantments. Order: boron, boron spaxelhoe, tough alloy, tough alloy spaxelhoe, hard carbon, hard carbon spaxelhoe, boron nitride, boron nitride spaxelhoe.
+TiC Handle Modifiers
+Determines the Tinkers' Construct handle modifiers of the materials. Order: boron, tough alloy, hard carbon, boron nitride.
+TiC Tool Material Registration
+Will these materials be registered as tool materials for Tinkers' Construct? Order: boron, tough alloy, hard carbon, boron nitride, thorium, uranium, magnesium, chocolate.
+Armor Configs
+Configure armor.
+Durabilities
+Durabilities of armor types. Order: boron, tough alloy, hard carbon, boron nitride, hazmat.
+Boron Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Tough Alloy Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Hard Carbon Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Boron Nitride Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Hazmat Suit Armor Protection
+Effectiveness of individual armor pieces. Order: boots, legs, chest, helm.
+Enchantabilities
+Determines the quality of applied enchantments. Order: boron, tough alloy, hard carbon, boron nitride, hazmat.
+Toughnesses
+Toughnesses of armor types. Order: boron, tough alloy, hard carbon, boron nitride, hazmat.
+ConArm Armor Material Registration
+Will these materials be registered as armor materials for Construct's Armory? Order: boron, tough alloy, hard carbon, boron nitride, thorium, uranium, magnesium, chocolate.
+Entity Configs
+Configure entities.
+Entity Spawn Registration
+Will these entities be registered to spawn? Order: feral ghoul.
+Entity Tracking Range
+The range at which Minecraft will send tracking updates for NC entities.
+Radiation Configs
+Configure aspects of nuclear radiation.
+Enable Radiation
+Will nuclear radiation exist in the world? Note that the game will require a restart for radiation-related items to be shown in JEI after enabling this feature.
+Player Radiation Immunity
+List of UUIDs for players who will be given permanent radiation immunity.
+Radiation World Chunks Per Tick
+The maximum number of chunks in which radiation will be updated per tick.
+Radiation Player Tick Rate
+The number of ticks between each player radiation update.
+World Background Radiation
+List of dimensions and their background radiation levels. Format: 'dimID_radiationLevel'.
+Biome Background Radiation
+List of biomes and their background radiation levels. These values stack with the underlying world's background radiation. Format: 'modid:biomeName_radiationLevel'.
+Structure Background Radiation
+List of structures and their background radiation levels. These values stack with the underlying world or biome's background radiation. Format: 'structureName_radiationLevel'.
+World Radiation Limit
+List of dimensions and their radiation level limits. Format: 'dimID_radiationLimit'.
+Biome Radiation Limit
+List of biomes and their radiation level limits. These values stack with the underlying world's background radiation. Format: 'modid:biomeName_radiationLimit'.
+Biome Radiation Dimension Blacklist
+List of IDs of dimensions to blacklist for biome background radiation.
+Ore Stack Radiation
+List of ore dict entries and their stack radiation levels. Can be used to overwrite default values. Format: 'oreName_radiationLevel'.
+Item Stack Radiation
+List of items and their stack radiation levels. Can be used to overwrite default values. Format: 'modid:name:meta_radiationLevel'.
+Block Stack Radiation
+List of blocks and their radiation levels. Can be used to overwrite default values. Format: 'modid:name:meta_radiationLevel'.
+Fluid Stack Radiation
+List of fluids and their radiation levels. Can be used to overwrite default values. If the fluid has a corresponding block, then it will also be given a radiation level. Format: 'fluidName_radiationLevel'.
+Food Radiation and Resistance
+List of foods and the rads and rad resistance gained on consumption. Negative values mean rads and rad resistance will be lost. Can be used to overwrite default values. Format: 'modid:name:meta_radiationLevel_radiationResistance'.
+Ore Stack Radiation Blacklist
+List of ore dict entries that will be forced not have a radiation level. Format: 'oreName'.
+Item Stack Radiation Blacklist
+List of items that will be forced not have a radiation level. Format: 'modid:name:meta'.
+Block Stack Radiation Blacklist
+List of blocks that will be forced not have a radiation level. Format: 'modid:name:meta'.
+Fluid Radiation Blacklist
+List of fluids that will be forced not have a radiation level. Format: 'fluidName'.
+Max Player Rads
+The maximum number of rads a player can have before the radiation is fatal.
+Player Radiation Decay Rate
+The rate at which player radiation decreases over time, as a fraction of the player's current radiation level per tick.
+Entity Radiation Decay Rate
+The rate at which entity radiation decreases over time, as a fraction of the entity's current radiation level per tick.
+Chunk Radiation Spread Rate
+Controls the rate at which radiation will spread from chunk to chunk.
+Chunk Radiation Spread Gradient
+Controls how high the ratio of radiation levels between chunks must be for radiation to spread between them.
+Chunk Radiation Decay Rate
+Controls the rate at which radiation decreases in a chunk over time.
+Lowest Radiation Rate
+The lowest rate of player and chunk irradiation possible in Rad/t - amounts below this are ignored.
+Chunk Radiation Limit
+The maximum chunk radiation level possible in Rad/t. A negative value means there is no limit.
+Radiation Block Mutations
+A list of mutation results, the material properties of the blocks which should mutate to them, and the threshold radiation level at which the mutation should occur. All arguments of the chosen parameters have to match those of the target block for a mutation to happen. The parameters 'isLiquid', 'isSolid', 'blocksLight', 'blocksMovement', 'getCanBurn', 'isReplaceable', 'isOpaque' and 'isToolNotRequired' are boolean-valued, 'materialMapColor' is integer-valued and 'getPushReaction' is an EnumPushReaction, with the possible values being 'normal', 'destroy', 'block', 'ignore' or 'pushOnly'. More precise control through a recipe system is available via NC's CraftTweaker integration. Format: 'modid:name:meta_radiationThreshold_parameterA@argumentA,parameterB@argumentB,...,parameterZ@argumentZ'.
+Radiation Block Mutation Threshold
+The chunk radiation level in Rad/t beyond which blocks will start to be affected by radiation.
+Radiation Block Mutation Max Rate
+The maximum number of attempts per chunk radiation update to mutate blocks.
+Radiation Rain Multiplier
+Multiplies the rate of irradiation while in rain.
+Radiation Swimming Multiplier
+Multiplies the rate of irradiation while swimming.
+RadAway Rads Removed
+The total number of rads removed when using RadAway.
+Slow-Acting RadAway Rads Removed
+The total number of rads removed when using Slow-Acting RadAway.
+RadAway Rad Removal Rate
+The rate at which rads is removed when using RadAway in Rad/t.
+Slow-Acting RadAway Rad Removal Rate
+The rate at which rads is removed when using Slow-Acting RadAway in Rad/t.
+Rad Poisoning Time
+The time taken for a dose of radiation poisoning to be added to the player's rad count in ticks.
+RadAway Cooldown Time
+The time that must be waited between doses of RadAway in ticks.
+Rad-X Rad Resistance
+Controls the amount of rad resistance gained when consuming Rad-X.
+Rad-X Lifetime
+The time taken for one dose of Rad-X to wear off in ticks.
+Rad-X Cooldown Time
+The time that must be waited between doses of Rad-X in ticks.
+Radiation Shielding Levels
+The rad resistance levels provided by the three levels of shielding. Order: light, medium, heavy.
+Radiation Container Shielding
+If enabled along with hardcore containers, radiation shielding can be applied to tile entities.
+Radiation Hazmat Shielding
+The rad resistance levels provided by each piece of the hazmat suit. Order: headwear, chestpiece, leggings, boots.
+Scrubber Max Removal Rate
+The maximum rate at which scrubbers will remove radiation as a fraction of the radiation level of the chunk it is in.
+Scrubber Search Radius
+The range of scrubbers' search for occluding blocks.
+Alternate Scrubber Mechanics
+Use a non-linear scrubbing rate equation instead of the linear behaviour?
+Alternate Scrubber Parameters
+Scrubber Power Use
+The power in RF/s scrubbers need to be supplied to run.
+Scrubber Borax Use Rate
+The amount of borax scrubbers need to be supplied per second.
+Geiger Block Comparator Scale
+The radiation level, as a power of ten, at which the Geiger counter block will emit a full-strength comparator signal.
+Radiation Shielding Default Recipes
+If enabled, radiation shielding attachment recipes will be added for all registered armor pieces.
+Radiation Shielding ItemStack Blacklist
+List of armor item stacks for which shielding recipes will not be added by default. Format: 'modid:armorName:meta'.
+Radiation Shielding ItemStack Whitelist
+List of armor item stacks for which shielding recipes will be added. Mostly used when the automated shielding recipes are disabled. Format: 'modid:armorName:meta'.
+Radiation Default Armor Shielding
+List of armor item stacks and their default radiation shielding levels. Format: 'modid:armorName:meta_resistance'. Note: this is not the only way to add these values if you have CraftTweaker installed. Rad resistance can also be given to armor by changing their recipe such that an NBT tag called "ncRadiationResistance" with the double value equal to the resistance level is attached to it.
+Radiation HUD Size
+Modifier for the size of radiation info on the HUD.
+Radiation HUD Position
+Angle from the centre of the screen at which radiation info appears on the HUD. 0 degrees is the top of the screen, 45 is top-right, etc.
+HUD Cartesian Position
+Optional config to specify where the rads overlay should appear on the screen if not wanted on a side or at a corner - if used, this config will be used in place of the angle-based one. Two doubles are required [x, y] which specify how far right (x) and how far down (y) from the top-left corner of the screen the overlay is drawn at.
+HUD Text Outline
+If enabled, a black outline will surround the radiation counter text underneath the rad bar.
+Counter Required For Info
+If disabled, the rads overlay will show and the ticking will be heard even when a Geiger Counter is not being held.
+Counter/Scrubber Chunk Boundaries
+If enabled, chunk boundaries will be shown while holding or looking at a geiger counter block or radiation scrubber.
+Radiation Unit Prefixes
+If set to a positive integer, radiation levels will be shown without unit prefixes to this number of significant figures.
+Radiation Badge Durability
+Determines the total radiation that a Radiation Badge can be exposed to before disintegrating.
+Radiation Badge Info Rate
+Determines the amount of exposed radiation after which the Radiation Badge will inform the player of its total exposure level as a fraction of the durability.
+Hardcore Stacks
+If enabled, the radioactive stacks in a player's inventory will irradiate the chunk the player is in as well as the player directly.
+Hardcore Containers
+The radioactive stacks in container blocks will irradiate the chunk the tile entity is in at a rate of this fraction of their base radiation level.
+Radiation From Dropped Items
+Radioactive items dropped on the ground will irradiate the chunk they are in.
+Radiation Death Persistence
+If enabled, players' rad levels will persist on death.
+Death Persistence Fraction
+Specifies the fraction of the player's rad level that persists if Radiation Death Persistence is enabled.
+Post-Death Immunity Time
+Number of seconds players will have radiation immunity after death due to radiation.
+Player Radiation Effects
+Lists of potion effects experienced at various percentages of radiation level by players. Format: 'radPercent_potionNameA@strength,potionNameB@strength,...,potionNameZ@strength'.
+Passive Entity Radiation Effects
+Lists of potion effects experienced at various percentages of radiation level by passive entities. Format: 'radPercent_potionNameA@strength,potionNameB@strength,...,potionNameZ@strength'.
+Mob Radiation Effects
+Lists of potion effects experienced at various percentages of radiation level by mobs. Format: 'radPercent_potionNameA@strength,potionNameB@strength,...,potionNameZ@strength'.
+Horse Armor
+If enabled, horses can be equipped with radiation-protective armor.
+Other Configs
+Miscellaneous configurations.
+Single Creative Tab
+Combine all creative tabs into a single large one?
+Register Processors
+Register processors to the game? Order: Nuclear Furnace, Manufactory, Isotope Separator, Decay Hastener, Fuel Reprocessor, Alloy Furnace, Fluid Infuser, Melter, Supercooler, Electrolyzer, Neutron Irradiator, Ingot Former, Pressurizer, Chemical Reactor, Salt Mixer, Crystallizer, Fluid Enricher, Fluid Extractor, Centrifuge, Rock Crusher.
+Register Passive Machines
+Register passive machine to the game? Order: Helium Collector, Cobblestone Generator, Infinite Water Source, Nitrogen Collector.
+Register Tools
+Register tool types to the game? Order: boron, tough alloy, hard carbon, boron nitride.
+Register Armor
+Register armor types to the game? Order: boron, tough alloy, hard carbon, boron nitride.
+Ctrl For More Info
+Hold down the control key rather than the shift key to show extra tooltip info?
+JEI Chance Output Display
+Will the chance item output cycle in JEI include empty stacks if a possible output stack size is 0? If false, a minimum stack size of 1 shall be shown - although some info about the recipe is lost this way, it looks much neater. This will only effect the outputs in JEI and not the actual functioning of the machines.
+Generate Wasteland Biome
+Will the Wasteland Biome generate in the Overworld?
+Wasteland Biome Gen Weight
+The weight assigned to the generation of the Wasteland Biomes - higher numbers correspond to higher generation rates.
+Enable Wasteland Dimension
+Will the Wasteland Dimension be generated?
+Wasteland Dimension ID
+Set the dimension ID for the Wasteland Dimension.
+Mushroom Spread Rate
+Glowing Mushroom spread rate.
+Generate Mushrooms
+Will glowing mushrooms generate in the nether?
+Mushroom Gen Size
+Determines how many glowing mushrooms will spawn at a time.
+Mushroom Gen Rate
+Determines how often glowing mushrooms will spawn.
+Enable Rare Drops
+Will mobs drop rare items?
+Enable Dungeon Loot
+Will NuclearCraft loot generate in chests?
+Register Fission Fluid Blocks
+Register fission fluid and molten salt coolant blocks? Keep false if running low on block IDs.
+Register CoFH Fluid Alternatives
+Register alternative Thermal Foundation fluids? It is recommended that this is set to true if no CoFH mods are installed.
+Register Base EMC Values
+Register NC raw material EMC values if ProjectE is installed?
+Enable Ore Dict Raw Material Recipes
+Will Ore Dictionary inputs be used for 'ingot <-> block' crafting and 'dust -> ingot' furnace recipes? If false, the NC ingredient will be used.
+Enable Ore Dict Mod Priority
+Will Ore Dictionary outputs be prioritised according to the mod list below? If false, the default Ore Dict entry will be used when deciding machine outputs.
+Ore Dict Mod Priority
+Determines the priority of each mod's ore dictionary entries - earlier mods' IDs in this list have a higher priority. This is used to determine which mod's corresponding item is produced in machine recipes. If no matching mod is found, the default entry is used.
+This method doesn't show in the archive maps - lost a method, you have... how embarassing... how embarassing! Gather round the GitHub repository, clear your mind, and find your missing method we will.
+Invalid method number
+%s arguments used, expected %s
+Invalid argument %s, expected %s
+Number argument %s too small, expected at least %s
+Number argument %s too large, expected %s at most
+Multiblock validation was successful
+Multiblock is too small
+Multiblock is too large, it may be at most %1$d blocks in the %2$s dimension
+Multiblock is too small, it must be at least %1$d blocks in the %2$s dimension
+Part at %1$d, %2$d, %3$d is incompatible with this machine
+Block at %1$d, %2$d, %3$d is not valid for use in the machine's frame
+Block at %1$d, %2$d, %3$d is not valid for use in the machine's bottom layer
+Block at %1$d, %2$d, %3$d is not valid for use in the machine's top layer
+Block at %1$d, %2$d, %3$d is not valid for use in the machine's sides
+Block at %1$d, %2$d, %3$d is not valid for use in the machine's interior
+Toggled side to
+Toggled opposite side to
+DEFAULT
+DISABLED
+HOT COOLANT OUT
+COOLANT SPREAD
+DEFAULT
+DISABLED
+DEPLETED OUT
+FUEL SPREAD
+DISABLED
+DEFAULT
+PRODUCT OUT
+INPUT SPREAD
+Hold Shift for more info
+Hold Ctrl for more info
+Nuclear Furnace
+Manufactory
+Isotope Separator
+Decay Hastener
+Fuel Reprocessor
+Alloy Furnace
+Fluid Infuser
+Melter
+Supercooler
+Electrolyzer
+Neutron Irradiator
+Ingot Former
+Pressurizer
+Chemical Reactor
+Salt Mixer
+Crystallizer
+Fluid Enricher
+Fluid Extractor
+Centrifuge
+Rock Crusher
+Machine Configuration
+Machine Interface
+Buffer
+Universal Bin
+Fission Controller (Old)
+Fission Controller
+Fission Controller
+Fission Reactor Port
+Fusion Core
+Fusion Core
+Fusion Core
+Fusion Electromagnet
+Transparent Fusion Electromagnet
+Superconducting Electromagnet
+Superconducting Supercooler
+Helium Collector
+Compact Helium Collector
+Dense Helium Collector
+Cobblestone Generator
+Compact Cobblestone Generator
+Dense Cobblestone Generator
+Infinite Water Source
+Compact Infinite Water Source
+Dense Infinite Water Source
+Nitrogen Collector
+Compact Nitrogen Collector
+Dense Nitrogen Collector
+Radiation Scrubber
+Fission Reactor
+Casing Incomplete
+Casing Incomplete at
+Extra Controller at
+Casing In Interior at
+Invalid Structure
+No Problem
+Pos
+No Fuel
+Fuel
+Cells:
+Efficiency:
+Heat Level:
+Net Heat Gen:
+Cooling Rate:
+Heat Multiplier:
+Fuel Remaining:
+TBU
+LEU
+HEU
+LEN
+HEN
+LEP
+HEP
+MOX-239
+MOX-241
+LEA
+HEA
+LECm
+HECm
+LEB
+HEB
+LECf
+HECf
+Ox
+Fusion Reactor
+Ring Incomplete
+Ring Incomplete
+Ring Interior Blocked
+E-magnets not Powered
+Invalid Structure
+No Problem
+Toroid Size:
+Energy:
+Power:
+Temp:
+Temperature:
+Temperature Change:
+Active Cooling Rate:
+Efficiency:
+Current Fuels:
+Empty
+Unable to access the fusion reactor - the structure is incomplete
+Molten Salt Reactor
+BlockPos
+Fission Vessels:
+Coolant Heaters:
+Mean Raw Efficiency:
+Max Mean Raw Efficiency:
+Mean Heat Multiplier:
+Max Mean Heat Multiplier:
+Cooling Efficiency:
+Heat Stored:
+Net Heat Gen:
+Cooling Rate:
+Heat Exchanger
+Number of Tubes:
+Mean Efficiency:
+Max Mean Efficiency:
+Tubes Active:
+Turbine
+Power:
+Dynamo Coils:
+Expansion:
+Input Rate:
+Energy Stored:
+Process Power:
+Power Gen:
+Speed Multiplier:
+Power Multiplier:
+Does not require energy
+Shift Click to clear tank
+Prevent Input Overflow
+Void Leftover Fluid
+Void Output Overflow
+Efficiency/Heat Comparator
+Side Configuration
+Redstone Control
+Input Slot Configuration
+Input Tank Configuration
+Output Slot Configuration
+Output Tank Configuration
+Upgrade Slot Configuration
+Slot Setting:
+Tank Setting:
+DEFAULT
+VOID EXCESS
+VOID ALL
+BOTTOM:
+TOP:
+LEFT:
+RIGHT:
+FRONT:
+BACK:
+INPUT
+OUTPUT
+BOTH
+DISABLED
+Shift Click to clear ALL fluid
+%4$s is not a valid block at [%1$d, %2$d, %3$d]
+There must be a controller for the multiblock to form
+There must only be one controller for the multiblock to form
+There must be two sets of rotor bearings in opposing walls of the turbine for it to form
+The walls housing the rotor bearings must be square for the turbine to form
+Inlets and outlets must be installed opposite each other on the walls housing the rotor bearings for the turbine to form
+The sets of rotor bearings must be square and centred in the middle of each opposing wall for the turbine to form
+The rotor shaft must be fully connected to each set of rotor bearings for the turbine to form
+The space between the sets of rotor blades and stators must be empty for the turbine to form
+The rotor blades or stators about each section of the rotor shaft must be of the same type for the turbine to form
+Each section of the rotor shaft must have rotor blades or stators of the same type extend fully to the wall for the turbine to form
+Molten Salt Fission
+Molten Salt Cooling
+Heat Exchanger Tube
+Condensation Tube
+Turbine
+NuclearCraft
+Nuclear Physics, Minecraft Style
+Industrializing
+Craft a Manufactory
+Nuclear Refinement
+Craft an Isotope Separator
+Electric Avenue
+Craft a Basic Voltaic Pile
+Fizzing Electrodes
+Craft an Electrolyzer
+Alpha Power
+Craft a Decay Generator
+Mr. Dilkington
+Craft a Universal Bin
+Mary Poppins
+Craft a Portable Ender Chest
+Overclocking
+Craft a Speed Upgrade
+Polynomial Quenching
+Craft an Energy Upgrade
+Cubic Extension
+Craft a Machine Interface
+Smelting up a Storm
+Craft an Alloy Furnace
+Picking up the Pieces
+Craft a Fuel Reprocessor
+Extreme Radiation
+Craft a Decay Hastener
+Splitting the Atom
+Craft a Fission Controller
+Elon's Footsteps
+Craft a Basic Lithium Ion Battery
+Star in a Box
+Craft a Fusion Core
+Temperature Control
+Craft an Active Cooler
+Neutron Bombardment
+Craft a Neutron Irradiator
+Eco-Friendly
+Craft a Basic Solar Panel
+Warm Green Glow
+Craft a Uranium RTG
+Soaking it Up
+Craft a Fluid Infuser
+Hot and Spicy
+Craft a Melter
+The Full Poliakoff
+Craft a Chemical Reactor
+Hoth Machine
+Craft a Supercooler
+Squeezing the Sponge
+Craft a Fluid Extractor
+Chemical Brewery
+Craft a Fluid Enricher
+Kitchen Nightmare
+Craft a Nuclear Furnace
+Sweet Neptune
+Obtain some Neptunium
+Demon Core
+Craft a Plutonium RTG
+Ceramic Mold
+Craft an Ingot Former
+Blend and Fold
+Craft a Salt Mixer
+Breaking Bad
+Craft a Crystallizer
+James Bond
+Craft a Centrifuge
+Rolling Stones
+Craft a Rock Crusher
+Criticality
+Obtain some Plutonium
+Rad-Spangled Power
+Craft an Americium RTG
+The Terror of Knowing
+Craft a Pressurizer
+In Physics We Trust
+Obtain some Americium
+End of the Line
+Craft a Californium RTG
+Curious Marie
+Obtain some Curium
+Made in Alameda
+Obtain some Berkelium
+California Dreamin'
+Obtain some Californium
+Next Gen Nuclear
+Craft a Molten Salt Fission Controller
+Thermal Contact
+Craft a Heat Exchanger Controller
+Respecting Rankine
+Craft a Turbine Controller
+Pripyat Preparations
+Craft a Geiger Counter
+Ridding the Rads
+Make some RadAway
+Imitative Immunity
+Make some Rad-X
+Brave Sir Robin
+Craft some Heavy Radiation Shielding
+Pollution Control
+Craft a Radiation Scrubber
+The Lansdell Manoeuvre
+Make a Marshmallow
+Gather Round the Campfire
+Make a S'more S'mingot
+S'more of the Same
+Make a MoreS'more DoubleS'mingot
+Even S'more Where That Came From
+Make a FourS'more QuadS'mingot
+Fusion Reactor Running
+Accelerator Running
+Geiger Tick
+Use RadAway
+Use Rad-X
+Chems Wear Off
+Rad Poisoning
+Feral Ghoul Ambient
+Feral Ghoul Hurt
+Feral Ghoul Death
+Feral Ghoul Step
+Feral Ghoul Fall
+Feral Ghoul Charge
+Wanderer
+End of the World
+Money For Nothing
+Hyperspace
+Boron
+Tough Alloy
+Hard Carbon
+Boron Nitride
+Thorium
+Uranium
+Magnesium
+Chocolate
+Moldable
+§oMaître Chocolatier.§r\nBlend additional modifiers into your tool.
+Uplifting
+§oThis day we fight!§r\nOccasionally regenerates health on use.
+Withering
+§oThe goal of all life is death...§r\nWithers enemies on hit.
+Moldable
+§oMaître Chocolatier.§r\nBlend additional modifiers into your armor.
+Poisonous
+§oSo many to kill... so little time.§r\nPoisons enemies on contact.
+Uplifting
+§oI bid you stand!§r\nOccasionally regenerates health when hit.
+Withering
+§oDeath makes monsters of us all.§r\nWithers enemies on contact.
+Your Rad-X wore off...
+A nasty metallic taste develops in the mouth and a painful headache begins to build... you are suffering from radiation poisoning! It would be wise to get hold of a Geiger counter to discern the severity of the situation...
+Your RadAway cooldown is at
+Your Rad-X cooldown is at
+Active radiation removal rate:
+Immune for:
+Immune!
+/nc_set_chunk_radiation <radiation_level> [coord_x] [coord_z]
+Radiation is enabled on this server!
+Radiation is enabled on this server! It is recommended that it is enabled on the client side too, along with a restart, in order to see all radiation-related items in JEI!
+%1$s was Bose-Einstein condensated
+%1$s was incinerated by plasma
+%1$s was vaporized 
+%1$s would have fared better in a kettle
+%1$s went to hell but didn't come back
+%1$s tried swimming in what's left of their reactor
+%1$s cooled off at the wrong time and place
+%1$s turned out to be far too alkaline
+%1$s was effectively pan-fried
+%1$s died as a result of extreme hypothermia
+%1$s died due to fatal radiation poisoning

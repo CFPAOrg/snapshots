@@ -1,0 +1,39 @@
+§bRecipe Calc v%s
+§b   Made by iTNTPiston
+§b//////////////////////////////
+§bType ? for help
+§b//////////////////////////////
+§bSystem Commands: (ALL CAPS)
+§bCLEAR - Clear the screen
+§bHD - Use hard-drive to store data.
+§bRAM - Use RAM to store data.
+§bNEW - Clear RAM and the screen.
+§b//////////////////////////////
+§bData written in HD mode will not be deleted with "NEW"
+§b//////////////////////////////
+§bDefine your recipes like this
+§bOUTPUT,INPUT1,INPUT2...INPUTN can be anything that represents items
+§bX is the quantity. If not defined, it's by default 1
+§bMACHINE is the name of the machine used.
+§bIf ">MACHINE" is ommited, machine is set to be "Craft"
+§b//////////////////////////////
+§bView the materials and steps for crafting items like this
+§bOUTPUT*X
+§bX is the quantity of output you need.
+§b//////////////////////////////
+§bFUNC - List all functions
+Memory Cleared.
+Materials
+Steps
+§cError! Check your command!
+§cExecution Error! 
+§cFunctionDoes Not Exist!
+§cFatal Error! You should report this to the author!
+Recipe Calculator
+In Use
+Brand New
+#toStack(NUM) - Convert NUM to X*64+Y
+#toStack(NUM,STACK) - Convert NUM to X*STACK+Y
+#evalf(EXP) - Evaulate the expression, supports + - * / ^(power)
+#archive(ITEM1, ITEM2...) - archive the item recipe.
+#unarchive(ITEM1, ITEM2...) - unarchive the item recipe.

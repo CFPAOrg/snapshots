@@ -1,0 +1,49 @@
+Puddle Jumper
+Death Glider
+Al'Kesh
+F301
+F302
+Gate Glider
+Teleak
+X304
+Hatak
+Atlantis
+RaumShips
+Control
+Back
+Down
+Forward
+Left
+Right
+Up
+1
+2
+3
+4
+5
+6
+ZPM (Zero Point Module)
+ZPM Hub
+ZPM Charger
+ZPM Hub
+ZPM Charger
+RaumShips
+No ZPM installed. Device inactive.
+ZPM installed. Device active:
+Transport rings controller
+Controller not linked
+Transport rings
+Address cannot be reached or is not configured.
+Duplicate address
+Wrong address, should be 1-6
+Rings obstructed or not configured, clear 7x7x5 area around rings
+Target rings obstructed or not configured, clear 7x7x5 area around rings
+Rings not connected
+Not enough energy available.
+Energy buffer: %s / %s RF
+Ancient Analyzer
+Save
+Rings No. 
+Address:
+Name:
+Rings not in grid

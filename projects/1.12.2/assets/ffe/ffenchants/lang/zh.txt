@@ -1,0 +1,36 @@
+Archer's Revenge
+Arrowstorm
+Ascension
+Blaze
+Bloodlust
+Cursed Body
+Discharge
+Enderport
+Energy of the Void
+Evasion
+Explosive Arrow
+Expulsion
+Extinguish
+Gills
+Ice Armour
+Leaping
+Poison Aspect
+Rust
+Vampiric
+Wither Aspect
+The more arrows the user has stuck in them, the more damage your arrows will do. Now you can finally annihilate those pesky skeletons!
+A fully charged bow will shoot extra arrows which cannot be picked up.
+On getting hit, there is a chance you will receive levitation for a few seconds.
+Hitting a mob will give you a brief strength boost, encouraging successive hits.
+An enemy that attacks you will randomly be given either weakness, blindness or nausea, for each item of armour with this enchantment you are wearing.
+Depending on the holder's y co-ordinate, a varying level of haste will be given. You will recieve no haste above Y40.
+You will receive speed when hit.
+Arrows which hit the ground will explode. If combined with flame, the explosions will be firey.
+If your shot arrow hits an opponent, they have a chance to drop their held item.
+Hitting an enemy will extinguish you while on fire.
+You will receive water breathing when in water.
+You will receive resistance when in an icy biome.
+Gives the wearer jump boost.
+Inflicts enemies with poison on hit.
+Has a moderate chance to heal the welder on hit.
+Inflicts enemies with the wither effect on hit.

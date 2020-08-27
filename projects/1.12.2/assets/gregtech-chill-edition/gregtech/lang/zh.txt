@@ -1,0 +1,2189 @@
+%s was boiled alive.
+%s explored cryogenics.
+%s was shocked.
+%s glows with joy now.
+%s put his head into turbine.
+%s exploded.
+%s exploded with help of %s.
+%s was boiled alive by %s.
+%s was grinded dead.
+Machine Controller Settings
+Normal
+Inverted
+Min Redstone Strength: %d
+Control Machine
+Control Cover (Top)
+Control Cover (Bottom)
+Control Cover (South)
+Control Cover (North)
+Control Cover (East)
+Control Cover (West)
+Ignore Damage
+Respect Damage
+Ignore NBT
+Respect NBT
+Contains %s mb of %s
+Requires Redstone Input To Work
+While working, constantly consumes %d EU/t
+Max Voltage IN: �a%d �7(�a%s�7)
+Energy:
+Progress:
+Working Disabled
+Multiblock Pattern
+The Primitive Blast Furnace (PBF) is multiblock structure used for cooking steel in early game stage. Although not being very fast, it will provide your with steel for your first setups.
+The Coke Oven is multiblock structure used for getting coke and creosote in early game stage. It doesn't require fuel and has internal tank of 32 buckets of creosote. Inventory can be accessed via Coke Oven Hatch.
+The Vacuum Freezer is multiblock structure mainly used for freezing Hot Ingots into regular Ingots. However, it can also freeze other substances, such as Water.
+The Implosion Compressor is a multiblock structure that uses explosives to turn gem dusts into the corresponding gems.
+The Pyrolyze Oven is a multiblock structure used for turning Logs into Charcoal and Creosote Oil, or Ash and Heavy Oil.
+The Cracker Unit is a multiblock structure used for turning Light and Heavy Fuel into their Cracked variants.
+The Diesel Engine is a multiblock structure that acts as a Diesel Generator for EV power.
+The Distillation Tower is a multiblock structure used for distilling the various types of Oil and some of their byproducts.
+The Electric Blast Furnace (EBF) is multiblock structure used for smelting alloys, cooking metals and refining ores. It is required for obtaining high-tier alloys and metals, such as aluminium, stainless steel and titanium, naquadah alloy.
+The Multi Smelter is multiblock structure used for smelting massive amounts of items at once. Different tiers of coils provide speed boost and energy efficiency gain. 16 is base value of items smelted per operation, and can be multiplied by using higher level coils.
+Large Boilers are multiblocks that generate steam from energy source and water. Usually either solid fuel or some high-density fluid acts like energy source for large boiler. Tiers differ only by amount of steam outputted.
+Large Turbines are multiblocks that generate power from steam, gases and plasma by them spinning turbine's rotor. Energy output is based on rotor efficiency and current speed of turbine.
+By changing drill head types of the Bedrock Drilling Unit, you can increase the tier to get even better materials. These materials are mined from the core of the earth.
+Throw into Cauldron to get clean Dust
+%d/%dL %s
+Empty
+%d/%d EU - Tier §e%d
+Configuration: %d
+Invalid item
+Empty
+Empty Shape Plate
+Dynamite
+Mold (Plate)
+Mold (Gear)
+Mold (Bottle)
+Mold (Ingot)
+Mold (Ball)
+Mold (Block)
+Mold (Nuggets)
+Mold (Small Gear)
+Extruder Shape (Plate)
+Extruder Shape (Rod)
+Extruder Shape (Screw)
+Extruder Shape (Ring)
+Extruder Shape (Cell)
+Extruder Shape (Wire)
+Extruder Shape (Tiny Pipe)
+Extruder Shape (Small Pipe)
+Extruder Shape (Normal Pipe)
+Extruder Shape (Large Pipe)
+Extruder Shape (Huge Pipe)
+Extruder Shape (Block)
+Extruder Shape (Gear)
+Empty Plastic Fuel Can
+Used to store Fuels
+Plastic Fuel Can
+Burns well in Diesel Generators
+Spray Can (Empty)
+Can be filled with sprays of various colors
+Empty Cell
+%s Cell
+Spray Can (White)
+Can paint things in White
+Spray Can (Orange)
+Can paint things in Orange
+Spray Can (Magenta)
+Can paint things in Magenta
+Spray Can (Light Blue)
+Can paint things in Light Blue
+Spray Can (Yellow)
+Can paint things in Yellow
+Spray Can (Lime)
+Can paint things in Lime
+Spray Can (Pink)
+Can paint things in Pink
+Spray Can (Gray)
+Can paint things in Gray
+Spray Can (Light Gray)
+Can paint things in Light Gray
+Spray Can (Cyan)
+Can paint things in Cyan
+Spray Can (Purple)
+Can paint things in Purple
+Spray Can (Blue)
+Can paint things in Blue
+Spray Can (Brown)
+Can paint things in Brown
+Spray Can (Green)
+Can paint things in Green
+Spray Can (Red)
+Can paint things in Red
+Spray Can (Black)
+Can paint things in Black
+Match
+Match Box
+Lighter
+Platinum Lighter
+A known Prank Master is engraved on it
+Iridium Alloy Ingot
+Used to make Iridium Plate
+Small Battery Hull
+An empty LV Battery Hull
+Medium Battery Hull
+An empty MV Battery Hull
+Large Battery Hull
+An empty HV Battery Hull
+Tantalum Capacitor
+Reusable
+Small Acid Battery
+Single Use
+Small Mercury Battery
+Single Use
+Small Cadmium Battery
+Reusable
+Small Lithium Battery
+Reusable
+Small Sodium Battery
+Reusable
+Medium Acid Battery
+Single Use
+Medium Mercury Battery
+Single Use
+Medium Cadmium Battery
+Reusable
+Medium Lithium Battery
+Reusable
+Medium Sodium Battery
+Reusable
+Large Acid Battery
+Single Use
+Large Mercury Battery
+Single Use
+Large Cadmium Battery
+Reusable
+Large Lithium Battery
+Reusable
+Large Sodium Battery
+Reusable
+Energy Crystal
+Lapotron Crystal
+Master Energy Orb
+Expert Lapotronic Energy Orb
+Ultimate Lapotronic Energy Orb
+Integrated Circuit
+Carbon Fibre
+Electric Motor (LV)
+Electric Motor (MV)
+Electric Motor (HV)
+Electric Motor (EV)
+Electric Motor (IV)
+Electric Motor (LuV)
+Electric Motor (ZPM)
+Electric Motor (UV)
+Electric Pump (LV)
+640MB / Second (as Cover)
+Electric Pump (MV)
+2560MB / Second (as Cover)
+Electric Pump (HV)
+10240MB / Second (as Cover)
+Electric Pump (EV)
+40,960MB / Second (as Cover)
+Electric Pump (IV)
+163,840MB / Second (as Cover)
+Electric Pump (LuV)
+655,360MB / Second (as Cover)
+Electric Pump (ZPM)
+655,360MB / Second (as Cover)
+Electric Pump (UV)
+655,360MB / Second (as Cover)
+Fluid Regulator (LV)
+Fluid Regulator (MV)
+Fluid Regulator (HV)
+Fluid Regulator (EV)
+Fluid Regulator (IV)
+Fluid Regulator (LuV)
+Fluid Regulator (UV)
+Conveyor Module (LV)
+8 Items / Second
+Conveyor Module (MV)
+32 Items / Second
+Conveyor Module (HV)
+1 Stack / Second
+Conveyor Module (EV)
+3 Stacks / Second
+Conveyor Module (IV)
+8 Stacks / Second
+Conveyor Module (LuV)
+16 Stacks / Second
+Conveyor Module (ZPM)
+16 Stacks / Second
+Conveyor Module (UV)
+16 Stacks / Second
+Electric Piston (LV)
+Electric Piston (MV)
+Electric Piston (HV)
+Electric Piston (EV)
+Electric Piston (IV)
+Electric Piston (LuV)
+Electric Piston (ZPM)
+Electric Piston (UV)
+Robot Arm (LV)
+Inserts at specified rates
+Robot Arm (MV)
+Inserts at specified rates
+Robot Arm (HV)
+Inserts at specified rates
+Robot Arm (EV)
+Inserts at specified rates
+Robot Arm (IV)
+Inserts at specified rates
+Robot Arm (LuV)
+Inserts at specified rates
+Robot Arm (ZPM)
+Inserts at specified rates
+Robot Arm (UV)
+Inserts at specified rates
+Field Generator (LV)
+Field Generator (MV)
+Field Generator (HV)
+Field Generator (EV)
+Field Generator (IV)
+Field Generator (LuV)
+Field Generator (ZPM)
+Field Generator (UV)
+Emitter (LV)
+Emitter (MV)
+Emitter (HV)
+Emitter (EV)
+Emitter (IV)
+Emitter (LuV)
+Emitter (ZPM)
+Emitter (UV)
+Sensor (LV)
+Sensor (MV)
+Sensor (HV)
+Sensor (EV)
+Sensor (IV)
+Sensor (LuV)
+Sensor (ZPM)
+Sensor (UV)
+Basic LV Circuit
+Intermediate MV Circuit
+Advanced HV Circuit
+Elite EV Circuit
+Master IV Circuit
+Expert LuV Circuit
+Ultimate UV Circuit
+Magical Circuit
+Data Stick
+A Low Capacity Data Storage
+Data Orb
+A High Capacity Data Storage
+Diamond Sawblade
+Diamond Grinding Head
+Tungsten Grinding Head
+Quantum Eye
+Improved Ender Eye
+Quantum Star
+Improved Nether Star
+Gravi Star
+Ultimate Nether Star
+Muffler Upgrade
+Makes Machines silent
+Lock Upgrade
+Protects your Machines
+Item Filter
+Filters item extract and insert as a cover/nCan be used as a Conveyor upgrade
+Ore Dictionary Filter
+Filters item extract and insert with ore dictionary (as Cover)/nCan be used as a Conveyor upgrade
+Fluid Filter
+Filters fluid fill and drain (as Cover)/nCan be used as a Pump upgrade
+Machine Controller
+Turns Machines ON/OFF
+Activity Detector
+Gives out Activity as Redstone
+Fluid Detector
+Gives out Fluid Amount as Redstone
+Item Detector
+Gives out Item Amount as Redstone
+Energy Detector
+Gives out Energy Amount as Redstone
+Player Detector
+Gives out close Players as Redstone
+Computer Monitor
+Displays Data
+Crafting Table Cover
+Advanced workbench on the machine's side
+Shutter Module
+Blocks side of the machine from any interactions
+Base Solar Panel
+Solar Panel (LV)
+Solar Panel (MV)
+Solar Panel (HV)
+Solar Panel (EV)
+Solar Panel (IV)
+Solar Panel (LuV)
+Solar Panel (UV)
+Portable Scanner
+Tricorder
+BrainTech Aerospace Advanced Reinforced Duct Tape FAL-84
+If you can't fix it with this, use more of it!
+Gelled Toluene
+Raw Explosive
+Purple Drank
+Fuel Binder
+Super Fuel Binder
+Magic Fuel Binder
+Thermite Dust
+Phenolic Board
+Glass Tube
+Vacuum Tube LV Circuit
+Silicon Dioxide PCB
+Phenolic PCB
+Reinforced Epoxy PCB
+Plastic PCB
+Epoxid PCB
+Fiberglass PCB
+Duranium-Fused Acrylic PCB
+Red Alloy Circuit Wiring
+Copper Circuit Wiring
+Electrum Circuit Wiring
+Aluminium Circuit Wiring
+Graphene Circuit Wiring
+Yttrium Barium Cuprate Circuit Wiring
+Tritanium Circuit Wiring
+Topaz System-on-Chip
+Ender System-on-Chip
+Nether Quartz System-on-Chip
+Lapis System-on-Chip
+Olivine System-on-Chip
+Emerald System-on-Chip
+Diamond System-on-Chip
+Rubber
+Plant Ball
+Tool Parts Box
+Contains some tool parts/nRight click to open
+Foam Sprayer
+Sprays Construction Foam/nRight click on a frame to foam connected frames/nUse iron metal to create reinforced stone/nFoam can be colored
+Energium Dust
+Compressed Fireclay
+Compressed Clay
+Fireclay Brick
+Coke Oven Brick
+Empty Wooden Form
+Brick Wooden Form
+%s Sword
+%s Pickaxe
+%s Shovel
+%s Axe
+%s Hoe
+%s Saw
+Can also harvest Ice
+%s Hammer
+Crushes ores instead of harvesting them
+%s Soft Hammer
+%s Wrench
+Hold left click to dismantle machines
+%s File
+%s Crowbar
+Dismounts covers and rotates rails
+%s Screwdriver
+Click on a cover to configure it
+%s Mortar
+%s Wire Cutter
+%s Scoop
+%s Branch Cutter
+%s Universal Spade
+%s Knife
+%s Butchery Knife
+Has a slow Attack Rate
+%s Sense
+Because a scythe doesn't make sense
+%s Plow
+Used to get rid of snow
+%s Plunger
+%s Chainsaw (LV)
+Can also harvest Ice
+%s Chainsaw (MV)
+Can also harvest Ice
+%s Chainsaw (HV)
+Can also harvest Ice
+%s Wrench (LV)
+Hold Leftclick to dismantle Machines
+%s Wrench (MV)
+Hold Leftclick to dismantle Machines
+%s Wrench (HV)
+Hold Leftclick to dismantle Machines
+%s Buzzsaw (LV)
+Not suitable for harvesting Blocks
+%s Screwdriver (LV)
+Adjusts Covers and Machines
+%s Turbine Rotor
+Turbine Rotors for your Power Station
+%s Magnifying Glass
+Primary material: %s (Level %s)
+Attack damage: %d
+Mining speed: %d
+Durability: %d/%d
+Rotor Efficiency: %d%%
+Has a chance to drop double crushed ores
+Ore Dictionary Filter
+Ore Dictionary Name
+(Use * for Wildcard)
+Fluid Filter
+Filter Fill
+Filter Drain
+Item Filter
+Filter Insert
+Filter Extract
+Conveyor Cover Settings (%s)
+%s Items / Second
+Mode: Export
+Mode: Import
+Item Filter
+Ore Dictionary Name
+(use * for wildcard)
+Robotic Arm Settings (%s)
+Transfer Any
+Supply Exact
+Keep Exact
+§eTransfer Any§r - in this mode, cover will transfer as much items matching it's filter as possible./n§eSupply Exact§r - in this mode, cover will supply items in portions specified in item filter slots (or transfer rate for ore dictionary filter). If amount of items is less than portion size, items won't be moved./n§eKeep Exact§r - in this mode, cover will keep specified amount of items in the destination inventory, supplying additional amount of items if required./n§7Tip: left/right click on filter slots to change item amount,  use shift clicking to change amount faster.
+Pump Cover Settings (%s)
+%sMB/s
+Mode: Export
+Mode: Import
+Fluid Filter
+Sand %s Ore
+Sandstone %s Ore
+Gravel %s Ore
+Nether %s Ore
+Nether %s Ore
+Dense %s Ore
+Rich %s Ore
+Normal %s Ore
+Small %s Ore
+Poor %s Ore
+End %s Ore
+End %s Ore
+%s Ore
+%s Ore
+Centrifuged %s Ore
+Purified %s Ore
+Crushed %s Ore
+%s Shard
+%s Clump
+Native %s Cluster
+%s Dirty Dust
+Double %s Ingot
+Hot %s Ingot
+%s Ingot
+%s
+Chipped %s
+Tiny Pile of %s Dust
+Small Pile of %s Dust
+Impure Pile of %s Dust
+Purified Pile of %s Dust
+%s Dust
+%s Nugget
+Dense %s Plate
+Double %s Plate
+%s Plate
+%s Foil
+Long %s Rod
+%s Rod
+%s Round
+%s Bolt
+%s Comb
+%s Screw
+%s Ring
+Small %s Spring
+%s Spring
+Fine %s Wire
+%s Rotor
+Small %s Gear
+%s Gear
+%s Lens
+%s Plasma Cell
+%s Cell
+%s Bucket
+%s Bottle
+%s Capsule
+%s Crystal
+%s Sword Blade
+%s Pickaxe Head
+%s Shovel Head
+%s Universal Spade Head
+%s Axe Head
+%s Hoe Head
+%s Sense Blade
+%s File Head
+%s Hammer Head
+%s Plow Head
+%s Saw Blade
+%s Buzzsaw Blade
+%s Screwdriver Tip
+%s Drill Tip
+%s Chainsaw Tip
+%s Wrench Tip
+%s Turbine Blade
+%s Sword
+%s Pickaxe
+%s Shovel
+%s Axe
+%s Hoe
+%s Shears
+Compressed %s
+Block of %s
+%s Frame
+Tiny %s Pipe
+Small %s Pipe
+Medium %s Pipe
+Large %s Pipe
+Huge %s Pipe
+Tiny Restrictive %s Pipe
+Small Restrictive %s Pipe
+Medium Restrictive %s Pipe
+Large Restrictive %s Pipe
+Huge Restrictive %s Pipe
+%s Pipe
+16x %s Wire
+12x %s Wire
+8x %s Wire
+4x %s Wire
+2x %s Wire
+1x %s Wire
+16x %s Cable
+12x %s Cable
+8x %s Cable
+4x %s Cable
+2x %s Cable
+1x %s Cable
+Aluminium
+Americium
+Antimony
+Argon
+Arsenic
+Barium
+Beryllium
+Bismuth
+Boron
+Caesium
+Calcium
+Carbon
+Cadmium
+Cerium
+Chlorine
+Chrome
+Cobalt
+Copper
+Deuterium
+Dysprosium
+Erbium
+Europium
+Fluorine
+Gadolinium
+Gallium
+Gold
+Holmium
+Hydrogen
+Helium
+Helium 3
+Indium
+Iridium
+Iron
+Lanthanum
+Lead
+Lithium
+Lutetium
+Magnesium
+Manganese
+Mercury
+Molybdenum
+Neodymium
+Darmstadtium
+Nickel
+Niobium
+Nitrogen
+Osmium
+Oxygen
+Palladium
+Phosphorus
+Platinum
+Plutonium 244
+Plutonium 239
+Plutonium 241
+Potassium
+Praseodymium
+Promethium
+Radon
+Rubidium
+Samarium
+Scandium
+Silicon
+Silver
+Sodium
+Strontium
+Sulfur
+Tantalum
+Tellurium
+Terbium
+Thorium
+Thulium
+Tin
+Titanium
+Tritium
+Tungsten
+Uranium 238
+Uranium 235
+Vanadium
+Ytterbium
+Yttrium
+Zinc
+Aluminium
+Americium
+Antimony
+Argon
+Arsenic
+Barium
+Beryllium
+Bismuth
+Boron
+Caesium
+Calcium
+Carbon
+Cadmium
+Cerium
+Chlorine
+Chrome
+Cobalt
+Copper
+Deuterium
+Dysprosium
+Erbium
+Europium
+Fluorine
+Gadolinium
+Gallium
+Gold
+Holmium
+Hydrogen
+Helium
+Helium 3
+Indium
+Iridium
+Iron
+Lanthanum
+Lead
+Lithium
+Lutetium
+Magnesium
+Manganese
+Mercury
+Molybdenum
+Neodymium
+Darmstadtium
+Nickel
+Niobium
+Nitrogen
+Osmium
+Oxygen
+Palladium
+Phosphorus
+Platinum
+Plutonium 244
+Plutonium 239
+Plutonium 241
+Potassium
+Praseodymium
+Promethium
+Radon
+Rubidium
+Samarium
+Scandium
+Silicon
+Silver
+Sodium
+Strontium
+Sulfur
+Tantalum
+Tellurium
+Terbium
+Thorium
+Thulium
+Tin
+Titanium
+Tritium
+Tungsten
+Uranium 238
+Uranium 235
+Vanadium
+Ytterbium
+Yttrium
+Zinc
+Construction Foam
+Biofuel
+Biomass
+Creosote
+Ethanol
+Diesel
+Glue
+Gunpowder
+Lubricant
+Mc Guffium 239
+Oil
+Oilsands
+Paper
+Rare Earth
+Seed Oil
+Stone
+Lava
+Glowstone
+Glowstone
+Nether Star
+Nether Star
+Endstone
+Netherrack
+Endstone
+Netherrack
+Toluene
+Drilling Fluid
+Epichlorohydrin
+Nitric Acid
+Nitration Mixture
+Fireclay
+Brick
+Coke
+Methane
+Carbon Dioxide
+Noble Gases
+Air
+Liquid Air
+Almandine
+Almandine
+Andradite
+Annealed Copper
+Annealed Copper
+Asbestos
+Ashes
+Banded Iron
+Battery Alloy
+Blue Topaz
+Blue Topaz
+Bone
+Brass
+Bronze
+Brass
+Bronze
+Brown Limonite
+Calcite
+Cassiterite
+Cassiterite Sand
+Chalcopyrite
+Charcoal
+Chromite
+Chromium Dioxide
+Cinnabar
+Water
+Steam
+Clay
+Coal
+Cobaltite
+Sheldonite
+Cupronickel
+Cupronickel
+Dark Ashes
+Diamond
+Diamond
+Electrum
+Electrum
+Emerald
+Galena
+Emerald
+Galena
+Garnierite
+Glyceryl Trinitrate
+Grossular
+Holy Water
+Ice
+Ilmenite
+Rutile
+Bauxite
+Titanium Tetrachloride
+Magnesium Chloride
+Invar
+Kanthal
+Invar
+Kanthal
+Lazurite
+Magnalium
+Magnalium
+Magnesite
+Magnetite
+Molybdenite
+Molybdenite
+Nichrome
+Nichrome
+Niobium Nitride
+Niobium-Titanium
+Niobium-Titanium
+Nitro-Carbon
+Nitrogen Dioxide
+Obsidian
+Obsidian
+Phosphate
+Pig Iron
+Pig Iron
+Polyethylene
+Epoxid
+Polysiloxane
+Polycaprolactam
+Polytetrafluoroethylene
+Powellite
+Pumice
+Pyrite
+Pyrolusite
+Pyrope
+Rock Salt
+Rubber
+Rubber
+Raw Rubber
+Ruby
+Ruby
+Salt
+Saltpeter
+Sapphire
+Sapphire
+Scheelite
+Silicon Dioxide
+Snow
+Sodalite
+Sodium Persulfate
+Sodium Sulfide
+Hydrogen Sulfide
+Witherite
+Soldering Alloy
+Spessartine
+Sphalerite
+Stainless Steel
+Steel
+Stibnite
+Sulfuric Acid
+Tanzanite
+Tetrahedrite
+Topaz
+Tungstate
+Ultimet
+Uraninite
+Uvarovite
+Vanadium-Gallium
+Soldering Alloy
+Spessartine
+Sphalerite
+Stainless Steel
+Steel
+Stibnite
+Sulfuric Acid
+Tanzanite
+Tetrahedrite
+Topaz
+Tungstate
+Ultimet
+Uraninite
+Uvarovite
+Vanadium-Gallium
+Wood
+Wrought Iron
+Wrought Iron
+Wulfenite
+Yellow Limonite
+Yttrium Barium Cuprate
+Yttrium Barium Cuprate
+Nether Quartz
+Certus Quartz
+Nether Quartz
+Certus Quartz
+Quartzite
+Quartzite
+Graphite
+Graphene
+Jasper
+Osmiridium
+Graphite
+Graphene
+Jasper
+Osmiridium
+Sealed Wood
+Glass
+Perlite
+Borax
+Lignite Coal
+Olivine
+Opal
+Amethyst
+Redstone
+Lapis Lazuli
+Blaze
+Enderpearl
+Endereye
+Flint
+Olivine
+Opal
+Amethyst
+Redstone
+Lapis Lazuli
+Blaze
+Enderpearl
+Endereye
+Flint
+Diatomite
+Volcanic Ashes
+Niter
+Pyrotheum
+Apatite
+Sterling Silver
+Rose Gold
+Black Bronze
+Bismuth Bronze
+Black Steel
+Red Steel
+Blue Steel
+Damascus Steel
+Tungstensteel
+Red Alloy
+Apatite
+Sterling Silver
+Rose Gold
+Black Bronze
+Bismuth Bronze
+Black Steel
+Red Steel
+Blue Steel
+Damascus Steel
+Tungstensteel
+Red Alloy
+Nitro-Diesel
+Phosphor
+Basalt
+Andesite
+Diorite
+Red Garnet
+Yellow Garnet
+Marble
+Sugar
+Vinteum
+Redrock
+Potassium Feldspar
+Biotite
+Black Granite
+Red Granite
+Chrysotile
+Realgar
+Vanadium Magnetite
+Basaltic Mineral Sand
+Granitic Mineral Sand
+Garnet Sand
+Quartz Sand
+Bastnasite
+Pentlandite
+Spodumene
+Pollucite
+Tantalite
+Lepidolite
+Glauconite
+Glauconite Sand
+Vermiculite
+Bentonite
+Fullers Earth
+Pitchblende
+Monazite
+Malachite
+Mirabilite
+Mica
+Trona
+Barite
+Gypsum
+Alunite
+Dolomite
+Wollastonite
+Zeolite
+Kyanite
+Kaolinite
+Talc
+Soapstone
+Concrete
+Magnetic Iron
+Magnetic Steel
+Magnetic Neodymium
+Tungstencarbide
+Vanadiumsteel
+HSS-G
+HSS-E
+HSS-S
+Tungstencarbide
+Vanadiumsteel
+HSS-G
+HSS-E
+HSS-S
+Acrylonitrile Butadiene Styrene (ABS)
+Acrylonitrile
+Ammonium Sulfate
+Ammonium Persulfate
+SOHIO Mixture
+Acetonitrile
+Chlorodifluoromethane
+2,2-Dichloro-1,1,1-Trifluoroethane
+Tetrachloroethylene
+Ethylene Dichloride
+Ferrous Chloride
+Ferric Chloride
+Trichlorotrifluoroethane
+Chlorotrifluoroethylene
+Polychlorotrifluoroethylene (PCTFE)
+Barium Sulfide
+Barium Nitrate
+Barium Oxide
+Barium Peroxide
+Hydrocyanic Acid
+Hydrofluoric Acid
+Phosphorous Pentoxide
+Phosphoric Acid
+Polyvinyl Acetate
+Phenol
+Bisphenol A
+Reinforced Epoxy Resin
+Fiberglass
+Borosilicate Glass
+Polyvinyl Chloride
+Vinyl Chloride
+Ethylene
+Charcoal Byproducts
+Benzene
+Wood Gas
+Wood Vinegar
+Wood Tar
+Sodium Hydroxide
+Quicklime
+Acetone
+Sulfur Trioxide
+Sulfur Dioxide
+Glycerol
+Methanol
+Carbon Monoxide
+Cetane-Boosted Diesel
+Diluted Sulfuric Acid
+Sodium Bisulfate
+Chloroform
+Diluted Hydrochloric Acid
+Hypochlorous Acid
+Ammonia
+Chloramine
+Dimethylamine
+1,1-Dimethylhydrazine
+Rocket Fuel
+Dinitrogen Tetroxide
+Silicone Rubber
+Polydimethylsiloxane
+Dimethyldichlorosilane
+Styrene
+Polystyrene
+Butadiene
+Raw Styrene-Butadiene Rubber
+Styrene-Butadiene Rubber
+Dichlorobenzene
+Hydrochloric Acid
+Acetic Acid
+Fermented Biomass
+Potash
+Soda Ash
+Nitric Oxide
+Methyl Acetate
+Ethenone
+Tetranitromethane
+Bio Diesel
+Raw Growth Medium
+Sterilized Growth Medium
+Vinyl Acetate
+Gallium Arsenide
+Polyphenylene Sulfide
+Nickel Sulfate Water Solution
+Blue Vitriol Water Solution
+Propane
+Propene
+Ethane
+Butene
+Butane
+Calcium Acetate Solution
+Cumene
+Indium Gallium Phosphide
+Platinum Group Sludge
+Ferrite Mixture
+Nickel Zinc Ferrite
+Indium Concentrate
+Lead-Zinc Solution
+Tetrafluoroethylene
+Salt Water
+Hydro-Cracked Ethane
+Hydro-Cracked Ethylene
+Hydro-Cracked Propene
+Hydro-Cracked Propane
+Hydro-Cracked Light Fuel
+Hydro-Cracked Butane
+Hydro-Cracked Naphtha
+Hydro-Cracked Heavy Fuel
+Hydro-Cracked Refinery Gas
+Hydro-Cracked Butene
+Hydro-Cracked Butadiene
+Steam-Cracked Ethane
+Steam-Cracked Ethylene
+Steam-Cracked Propene
+Steam-Cracked Propane
+Steam-Cracked Light Fuel
+Steam-Cracked Butane
+Steam-Cracked Naphtha
+Steam-Cracked Heavy Fuel
+Steam-Cracked Refinery Gas
+Steam-Cracked Butene
+Steam-Cracked Butadiene
+Bio Gas
+Heavy Oil
+Raw Oil
+Light Oil
+Natural Gas
+Sulfuric Gas
+Refinery Gas
+Sulfuric Naphtha
+Sulfuric Light Fuel
+Sulfuric Heavy Fuel
+Naphtha
+Light Fuel
+Heavy Fuel
+LPG
+Cracked Light Fuel
+Cracked Heavy Fuel
+Chloromethane
+Allyl Chloride
+Isoprene
+Massicot
+Antimony Trioxide
+Zincite
+Cobalt Oxide
+Arsenic Trioxide
+Cupric Oxide
+Ferrosilite
+Magnesia
+Terrasteel
+Manasteel
+Mana Pearl
+Mana Diamond
+Thaumium
+Void
+Livingwood
+Livingrock
+Elven Elementium
+Gaia
+Peridot
+Aquamarine
+Charged Certus Quartz
+Adamantine
+Xenotime
+Peridot
+Aquamarine
+Charged Certus Quartz
+Adamantine
+Tenorite
+Cuprite
+Bornite
+Chalcocite
+Enargite
+Tennantite
+Siderite
+Geothite
+Hematite
+Taconite
+Vibranium
+Vibranium
+Polyacrylonitrile
+Carbon-Fibre Reinforced Polymer
+Bedrock
+Oops
+Nitrogen Tetroxide
+Juice
+Primitive
+Basic
+Good
+Advanced
+Data
+Elite
+Master
+Ultimate
+Magical
+Superconductor
+UU-Amplifier
+UU-Matter
+Naquadah
+Naquadah Alloy
+Enriched Naquadah
+Tritanium
+Duranium
+Naquadah
+Naquadah Alloy
+Enriched Naquadah
+Tritanium
+Duranium
+Water-Based Black Dye
+Water-Based Red Dye
+Water-Based Green Dye
+Water-Based Brown Dye
+Water-Based Blue Dye
+Water-Based Purple Dye
+Water-Based Cyan Dye
+Water-Based Light Gray Dye
+Water-Based Gray Dye
+Water-Based Pink Dye
+Water-Based Lime Dye
+Water-Based Yellow Dye
+Water-Based Light Blue Dye
+Water-Based Magenta Dye
+Water-Based Orange Dye
+Water-Based White Dye
+Chemical Black Dye
+Chemical Red Dye
+Chemical Green Dye
+Chemical Brown Dye
+Chemical Blue Dye
+Chemical Purple Dye
+Chemical Cyan Dye
+Chemical Light Gray Dye
+Chemical Gray Dye
+Chemical Pink Dye
+Chemical Lime Dye
+Chemical Yellow Dye
+Chemical Light Blue Dye
+Chemical Magenta Dye
+Chemical Orange Dye
+Chemical White Dye
+Positive Matter
+Neutral Matter
+Urea
+Sodium Cyanate
+Sodium Bicarbonate
+Sodium Carbonate
+Calcium Acetate
+Sodium Cyanide
+Acetone Cyanohydrin
+Methyl Methacrylate
+Acrylic
+Hydrogen Peroxide
+Dymalloy
+Beryllium-Copper Alloy
+Aluminium-Copper Alloy
+Duranium-Fused Acrylic
+Dymalloy
+Beryllium-Copper Alloy
+Aluminium-Copper Alloy
+Duranium-Fused Acrylic
+Zircon
+Zirconium
+Citrine
+Alexandrite
+Onyx
+Spinel
+Zircon
+Zirconium
+Citrine
+Alexandrite
+Onyx
+Spinel
+Milk
+Cocoa
+Wheat
+Tiny Pile of Gunpowder
+Small Pile of Gunpowder
+Tiny Pile of Chad
+Small Pile of Chad
+Chad
+Tiny Pile of Rare Earth
+Small Pile of Rare Earth
+Rare Earth
+Tiny Pile of Ashes
+Small Pile of Ashes
+Ashes
+Tiny Pile of Bone Meal
+Small Pile of Bone Meal
+Bone Meal
+Centrifuged Cassiterite Sand
+Purified Cassiterite Sand
+Ground Cassiterite Sand
+Tiny Pile of Cassiterite Sand
+Small Pile of Cassiterite Sand
+Impure Pile of Cassiterite Sand
+Purified Pile of Cassiterite Sand
+Cassiterite Sand
+Tiny Pile of Dark Ashes
+Small Pile of Dark Ashes
+Dark Ashes
+Tiny Pile of Crushed Ice
+Small Pile of Crushed Ice
+Crushed Ice
+Tiny Pile of Polyethylene Pulp
+Small Pile of Polyethylene Pulp
+Polyethylene Pulp
+Polyethylene Sheet
+Epoxid Bar
+Tiny Pile of Epoxid Pulp
+Small Pile of Epoxid Pulp
+Epoxid Pulp
+Epoxid Chip
+Dense Epoxid Sheet
+Epoxid Sheet
+Thin Epoxid Sheet
+Tiny Pile of Polysiloxane Pulp
+Small Pile of Polysiloxane Pulp
+Polysiloxane Pulp
+Polysiloxane Sheet
+Tiny Pile of Polycaprolactam Pulp
+Small Pile of Polycaprolactam Pulp
+Polycaprolactam Pulp
+Dense Polycaprolactam Sheet
+Polycaprolactam Sheet
+Tiny Pile of Polytetrafluoroethylene Pulp
+Small Pile of Polytetrafluoroethylene Pulp
+Polytetrafluoroethylene Pulp
+Dense Polytetrafluoroethylene Sheet
+Polytetrafluoroethylene Sheet
+Tiny Pile of Rock Salt
+Small Pile of Rock Salt
+Impure Pile of Rock Salt
+Purified Pile of Rock Salt
+Rock Salt
+Rubber Bar
+Tiny Pile of Rubber Pulp
+Small Pile of Rubber Pulp
+Rubber Pulp
+Rubber Chip
+Rubber Sheet
+Tiny Pile of Raw Rubber Pulp
+Small Pile of Raw Rubber Pulp
+Raw Rubber Pulp
+Tiny Pile of Salt
+Small Pile of Salt
+Impure Pile of Salt
+Purified Pile of Salt
+Salt
+Tiny Pile of Wood Pulp
+Small Pile of Wood Pulp
+Wood Pulp
+Wood Plank
+Long Wood Stick
+Short Wood Stick
+Tiny Pile of Sealed Wood Pulp
+Small Pile of Sealed Wood Pulp
+Sealed Wood Pulp
+Sealed Wood Plank
+Glass Crystal
+Chipped Glass Crystal
+Flawed Glass Crystal
+Flawless Glass Crystal
+Exquisite Glass Crystal
+Glass Pane
+Tiny Pile of Blaze Powder
+Small Pile of Blaze Powder
+Tiny Pile of Volcanic Ashes
+Small Pile of Volcanic Ashes
+Volcanic Ashes
+Tiny Pile of Sugar
+Small Pile of Sugar
+Tiny Pile of Basaltic Mineral Sand
+Small Pile of Basaltic Mineral Sand
+Basaltic Mineral Sand
+Tiny Pile of Granitic Mineral Sand
+Small Pile of Granitic Mineral Sand
+Granitic Mineral Sand
+Tiny Pile of Garnet Sand
+Small Pile of Garnet Sand
+Garnet Sand
+Tiny Pile of Quartz Sand
+Small Pile of Quartz Sand
+Quartz Sand
+Tiny Pile of Glauconite Sand
+Small Pile of Glauconite Sand
+Glauconite Sand
+Tiny Pile of Vermiculite
+Small Pile of Vermiculite
+Vermiculite
+Centrifuged Bentonite
+Purified Bentonite
+Ground Bentonite
+Tiny Pile of Bentonite
+Small Pile of Bentonite
+Impure Pile of Bentonite
+Purified Pile of Bentonite
+Bentonite
+Tiny Pile of Fullers Earth
+Small Pile of Fullers Earth
+Fullers Earth
+Centrifuged Pitchblende
+Purified Pitchblende
+Ground Pitchblende
+Tiny Pile of Pitchblende
+Small Pile of Pitchblende
+Impure Pile of Pitchblende
+Purified Pile of Pitchblende
+Pitchblende
+Tiny Pile of Kaolinite
+Small Pile of Kaolinite
+Kaolinite
+Centrifuged Talc
+Purified Talc
+Ground Talc
+Tiny Pile of Talc
+Small Pile of Talc
+Impure Pile of Talc
+Purified Pile of Talc
+Talc
+Tiny Pile of Flour
+Small Pile of Flour
+Flour
+Ore Washer
+Thermal Centrifuge
+Extractor
+Recycler
+Furnace
+Scanner
+Ore Byproduct List
+Replicator
+Assembly Line
+Assembler
+Press
+Pulverization
+Unpackager
+Plasma Arc Furnace
+Precision Laser Engraver
+Mixer
+Autoclave
+Electromagnetic Separator
+Electromagnetic Polarizer
+Chemical Bath
+Brewery
+Fluid Heater
+Distillery
+Fermenter
+Fluid Solidifier
+Packager
+Fusion Reactor
+Start: %sEU
+Centrifuge
+Electrolyzer
+Blast Furnace
+Heat Capacity: %sK
+Implosion Compressor
+Vacuum Freezer
+Chemical Reactor
+Distillation Tower
+Cracking Unit
+Pyrolyse Oven
+Wiremill
+Metal Bender
+Alloy Smelter
+Canning Machine
+Lathe
+Cutting Saw
+Slicer
+Extruder
+Hammer
+UU Amplifier
+Diesel Generator Fuel
+Fuel Value: %s EU
+Gas Turbine Fuel
+Fuel Value: %s EU
+Thermal Generator Fuel
+Semi-Fluid Boiler Fuels
+Plasma Generator Fuels
+Magic Fuels
+Fuel Value: %s EU
+Forge Hammer
+Compressor
+Packer
+Unpacker
+Diesel Generator
+Gas Turbine
+Steam Turbine
+Semi-Fluid Fuels
+Mass Fabricator
+Right click on machine to clear 1000MB out of the machine's output tank./nOr use it while sneaking to clear 1000MB out of the machine's input tank./nPlease note: input tank clearing works only on GregTech machines!
+Foam
+Reinforced Foam
+Petrified Foam
+Reinforced Stone
+Rubber Wood
+Rubber Leaves
+Rubber Sapling
+Surface Rock
+Lava
+Water
+LV Machine Casing
+MV Machine Casing
+HV Machine Casing
+EV Machine Casing
+IV Machine Casing
+LuV Machine Casing
+UV Machine Casing
+Distilled Water
+Dirty %s Slurry
+Clean %s Slurry
+When used in §aElectric Blast Furnace§7:
+  Base Heating Capacity: §e%dK
+When used in §aMulti Smelter§7:
+  Level: §e%d
+  Energy Discount: §a%dx
+Cupronickel Coil Block
+Kanthal Coil Block
+Nichrome Coil Block
+Tungstensteel Coil Block
+HSS-G Coil Block
+Naquadah Coil Block
+Naquadah Alloy Coil Block
+Superconducting Coil Block
+Fusion Coil Block
+Bronze Pipe Casing
+Steel Pipe Casing
+Titanium Pipe Casing
+Tungstensteel Pipe Casing
+Bronze Firebox Casing
+Steel Firebox Casing
+Titanium Firebox Casing
+Tungstensteel Firebox Casing
+Primitive Bricks
+Coke Oven Bricks
+Bronze Machine Casing
+Heat Proof Machine Casing
+Frost Proof Machine Casing
+Solid Steel Machine Casing
+Clean Stainless Steel Casing
+Stable Titanium Machine Casing
+Robust Tungstensteel Machine Casing
+LV Machine Casing
+MV Machine Casing
+HV Machine Casing
+EV Machine Casing
+IV Machine Casing
+LuV Machine Casing
+UV Machine Casing
+Bronze Hull
+Bricked Bronze Hull
+Steel Hull
+Bricked Steel Hull
+Bronze Gear Box Casing
+Steel Gear Box Casing
+Titanium Gear Box Casing
+Steel Turbine Casing
+Titanium Turbine Casing
+Stainless Turbine Casing
+Tungstensteel Turbine Casing
+Engine Intake Casing
+Grate Machine Casing
+Assembler Machine Casing
+Fusion Machine Casing
+Fusion Machine Casing [Mark II]
+§c§oAdded by: %s
+Wooden Tank
+Bronze Tank
+Steel Tank
+Stainless Steel Tank
+Titanium Tank
+Tungstensteel Tank
+Adamantine Tank
+Light Concrete
+Light Concrete Cobblestone
+Mossy Light Concrete Cobblestone
+Chiseled Light Concrete Cobblestone
+Light Concrete Bricks
+Cracked Light Concrete Bricks
+Mossy Light Concrete Bricks
+Chiseled Light Concrete Bricks
+Dark Concrete
+Dark Concrete Cobblestone
+Mossy Dark Concrete Cobblestone
+Chiseled Dark Concrete Cobblestone
+Dark Concrete Bricks
+Cracked Dark Concrete Bricks
+Mossy Dark Concrete Bricks
+Chiseled Dark Concrete Bricks
+Produces %dMB of Steam in %d ticks
+Small Steam Coal Boiler
+High Pressure Steam Coal Boiler
+Steam Solar Boiler
+Small Steam Lava Boiler
+High Pressure Steam Lava Boiler
+Steam Extractor
+High Pressure Steam Extractor
+Steam Macerator
+High Pressure Steam Macerator
+Steam Compressor
+High Pressure Steam Compressor
+Steam Forge Hammer
+High Pressure Steam Forge Hammer
+Steam Furnace
+High Pressure Steam Furnace
+Steam Alloy Smelter
+High Pressure Steam Alloy Smelter
+Basic Diesel Generator
+Intermediate Diesel Generator
+Advanced Diesel Generator
+Elite Diesel Generator
+Basic Steam Turbine
+Intermediate Steam Turbine
+Advanced Steam Turbine
+Elite Steam Turbine
+Basic Gas Turbine
+Intermediate Gas Turbine
+Advanced Gas Turbine
+Elite Gas Turbine
+Intermediate Magic Energy Absorber
+Advanced Magic Energy Absorber
+Elite Magic Energy Absorber
+Master Magic Energy Absorber
+Expert Magic Energy Absorber
+Max Voltage OUT: §a2048 §7(§aEV§7)/nCollects energy from ender crystals in 64 blocks/nEach ender crystal adds 32 EU/t to output/nPlace Dragon Egg on top to amplify output/n/nWhen amplified:/nEach ender crystal adds 128 EU/t
+Magic Energy Converter
+Voltage OUT: §a128 §7(§aMV§7)/nCollects essentia from containers within 16 blocks/nConsumes 20 Potentia per second
+Basic Electric Furnace
+Intermediate Electric Furnace
+Advanced Electric Furnace
+Elite Electric Furnace
+Basic Macerator
+Intermediate Macerator
+Advanced Macerator
+Elite Macerator
+Master Macerator
+Expert Macerator
+Ultimate Macerator
+Basic Alloy Smelter
+Intermediate Alloy Smelter
+Advanced Alloy Smelter
+Elite Alloy Smelter
+Master Alloy Smelter
+Expert Alloy Smelter
+Ultimate Alloy Smelter
+Basic Assembler
+Intermediate Assembler
+Advanced Assembler
+Elite Assembler
+Master Assembler
+Expert Assembler
+Ultimate Assembler
+Basic Autoclave
+Intermediate Autoclave
+Advanced Autoclave
+Elite Autoclave
+Master Autoclave
+Expert Autoclave
+Ultimate Autoclave
+Basic Bending Machine
+Intermediate Bending Machine
+Advanced Bending Machine
+Elite Bending Machine
+Master Bending Machine
+Elite Bending Machine
+Ultimate Bending Machine
+Basic Brewery
+Intermediate Brewery
+Advanced Brewery
+Elite Brewery
+Master Brewery
+Expert Brewery
+Ultimate Brewery
+Basic Canner
+Intermediate Canner
+Advanced Canner
+Elite Canner
+Master Canner
+Expert Canner
+Ultimate Canner
+Can fill or drain any fluid container!
+Basic Centrifuge
+Intermediate Centrifuge
+Advanced Centrifuge
+Elite Centrifuge
+Master Centrifuge
+Expert Centrifuge
+Ultimate Centrifuge
+Basic Chemical Bath
+Intermediate Chemical Bath
+Advanced Chemical Bath
+Elite Chemical Bath
+Master Chemical Bath
+Expert Chemical Bath
+Ultimate Chemical Bath
+Basic Chemical Reactor
+Intermediate Chemical Reactor
+Advanced Chemical Reactor
+Elite Chemical Reactor
+Master Chemical Reactor
+Expert Chemical Reactor
+Ultimate Chemical Reactor
+Basic Compressor
+Intermediate Compressor
+Advanced Compressor
+Elite Compressor
+Master Compressor
+Expert Compressor
+Ultimate Compressor
+Basic Cutter
+Intermediate Cutter
+Advanced Cutter
+Elite Cutter
+Master Cutter
+Expert Cutter
+Ultimate Cutter
+Basic Distillery
+Intermediate Distillery
+Advanced Distillery
+Basic Electrolyzer
+Intermediate Electrolyzer
+Advanced Electrolyzer
+Elite Electrolyzer
+Master Electrolyzer
+Expert Electrolyzer
+Ultimate Electrolyzer
+Basic Extractor
+Intermediate Extractor
+Advanced Extractor
+Elite Extractor
+Master Extractor
+Expert Extractor
+Ultimate Extractor
+Basic Extruder
+Intermediate Extruder
+Advanced Extruder
+Elite Extruder
+Master Extruder
+Expert Extruder
+Ultimate Extruder
+Basic Fluid Extractor
+Intermediate Fluid Extractor
+Advanced Fluid Extractor
+Elite Fluid Extractor
+Master Fluid Extractor
+Expert Fluid Extractor
+Ultimate Fluid Extractor
+Basic Fluid Heater
+Intermediate Fluid Heater
+Advanced Fluid Heater
+Elite Fluid Heater
+Master Fluid Heater
+Expert Fluid Heater
+Ultimate Fluid Heater
+Basic Fluid Solidifier
+Intermediate Fluid Solidifier
+Advanced Fluid Solidifier
+Elite Fluid Solidifier
+Master Fluid Solidifier
+Expert Fluid Solidifier
+Ultimate Fluid Solidifier
+Basic Forge Hammer
+Intermediate Forge Hammer
+Advanced Forge Hammer
+Elite Forge Hammer
+Master Forge Hammer
+Expert Forge Hammer
+Ultimate Forge Hammer
+Basic Press
+Intermediate Press
+Advanced Press
+Elite Press
+Master Press
+Expert Press
+Ultimate Press
+Basic Lathe
+Intermediate Lathe
+Advanced Lathe
+Elite Lathe
+Master Lathe
+Expert Lathe
+Ultimate Lathe
+Basic Mixer
+Intermediate Mixer
+Advanced Mixer
+Elite Mixer
+Master Mixer
+Expert Mixer
+Ultimate Mixer
+Basic Ore Washing Plant
+Intermediate Ore Washing Plant
+Advanced Ore Washing Plant
+Elite Ore Washing Plant
+Master Ore Washing Plant
+Expert Ore Washing Plant
+Ultimate Ore Washing Plant
+Advanced Plasma Arc Furnace
+Elite Plasma Arc Furnace
+Master Plasma Arc Furnace
+Expert Plasma Arc Furnace
+Ultimate Plasma Arc Furnace
+Basic Polarizer
+Intermediate Polarizer
+Advanced Polarizer
+Elite Polarizer
+Master Polarizer
+Expert Polarizer
+Ultimate Polarizer
+Basic Precision Laser Engraver
+Intermediate Precision Laser Engraver
+Advanced Precision Laser Engraver
+Elite Precision Laser Engraver
+Master Precision Laser Engraver
+Expert Precision Laser Engraver
+Ultimate Precision Laser Engraver
+Basic Thermal Centrifuge
+Intermediate Thermal Centrifuge
+Advanced Thermal Centrifuge
+Elite Thermal Centrifuge
+Master Thermal Centrifuge
+Expert Thermal Centrifuge
+Ultimate Thermal Centrifuge
+Basic Wiremill
+Intermediate Wiremill
+Advanced Wiremill
+Elite Wiremill
+Master Wiremill
+Expert Wiremill
+Ultimate Wiremill
+ULV Machine Hull
+LV Machine Hull
+MV Machine Hull
+HV Machine Hull
+EV Machine Hull
+IV Machine Hull
+LuV Machine Hull
+ZPM Machine Hull
+UV Machine Hull
+Max Machine Hull
+Low Voltage Battery Buffer
+Low Voltage Battery Buffer
+Low Voltage Battery Buffer
+Low Voltage Battery Buffer
+Medium Voltage Battery Buffer
+Medium Voltage Battery Buffer
+Medium Voltage Battery Buffer
+Medium Voltage Battery Buffer
+High Voltage Battery Buffer
+High Voltage Battery Buffer
+High Voltage Battery Buffer
+High Voltage Battery Buffer
+Extreme Voltage Battery Buffer
+Extreme Voltage Battery Buffer
+Extreme Voltage Battery Buffer
+Extreme Voltage Battery Buffer
+Insane Voltage Battery Buffer
+Insane Voltage Battery Buffer
+Insane Voltage Battery Buffer
+Insane Voltage Battery Buffer
+Ludicrous Voltage Battery Buffer
+Ludicrous Voltage Battery Buffer
+Ludicrous Voltage Battery Buffer
+Ludicrous Voltage Battery Buffer
+ZPM Voltage Battery Buffer
+ZPM Voltage Battery Buffer
+ZPM Voltage Battery Buffer
+ZPM Voltage Battery Buffer
+Ultimate Voltage Battery Buffer
+Ultimate Voltage Battery Buffer
+Ultimate Voltage Battery Buffer
+Ultimate Voltage Battery Buffer
+MAX Voltage Battery Buffer
+MAX Voltage Battery Buffer
+MAX Voltage Battery Buffer
+MAX Voltage Battery Buffer
+Transform Down:
+Transforming Down, In: %dV %d Amp, Out: %dV %d Amp
+Transform Up:
+Transforming Up, In: %dV %d Amp, Out: %dV %d Amp
+Low Voltage Transformer
+Medium Voltage Transformer
+High Voltage Transformer
+Extreme Voltage Transformer
+Insane Voltage Transformer
+Ludicrous Voltage Transformer
+ZPM Voltage Transformer
+Ultimate Voltage Transformer
+MAX Voltage Transformer
+Low Voltage Battery Charger
+Medium Voltage Battery Charger
+High Voltage Battery Charger
+Extreme Voltage Battery Charger
+Insane Voltage Battery Charger
+Ludicrous Voltage Battery Charger
+ZPM Voltage Battery Charger
+Ultimate Voltage Battery Charger
+MAX Voltage Battery Charger
+Pumping Area: %dx%d
+Pumps Fluid every %d ticks
+Basic Pump
+Intermediate Pump
+Advanced Pump
+Elite Pump
+Master Pump
+Expert Pump
+Ultimate Pump
+Item Capacity: %d items
+Current Item Amount:
+Quantum Chest
+Master Quantum Chest
+Expert Quantum Chest
+Black Hole Chest
+Fluid Capacity: %dMB
+Quantum Tank
+Master Quantum Tank
+Expert Quantum Tank
+Black Hole Tank
+Basic Air Collector
+Intermediate Air Collector
+Advanced Air Collector
+Elite Air Collector
+Master Air Collector
+Expert Air Collector
+Ultimate Air Collector
+Collects air from adjacent air blocks
+Tesla Coil
+Damages all living entities within 7 blocks range/nConsumes 2500 EU for 1 damage point/nInternal buffer Capacity: §e256k EU
+Fusion Reactor
+Fusion Reactor [Mark II]
+The Fusion Reactor is a large multiblock structure used for fusing elements into heavier ones. The Mark 1 Fusion Reactor can use LuV, ZPM or UV Energy Hatches./nFor every Hatch it has its buffer increases by 100k.
+The Fusion Reactor Mark 2 is a large multiblock structure used for fusing elements into heavier ones./nThe Mark 2 Fusion Reactor can only use UV Energy Hatches./nFor every Hatch it has its buffer increases by 200k.
+Bedrock Drill
+The Assembly Line is a large multiblock structure consisting of 5 to 16 "slices"./nIn theory, it's a large Assembler, used for creating advanced crafting components.
+Allow Input from Output Side
+Disallow Input from Output Side
+Main
+Materials
+Ores
+Clay
+Slimeball
+Peat
+Stickyresin
+Coal
+Oil
+Redstone
+Lapis
+Certus
+Ruby
+Sapphire
+Diamond
+Olivine
+Emerald
+Copper
+Tin
+Lead
+Iron
+Steel
+Nickel
+Zinc
+Silver
+Gold
+Aluminium
+Titanium
+Chrome
+Manganese
+Tungsten
+Platinum
+Iridium
+Uranium
+Plutonium
+Naquadah
+Catches Butterflies on Leftclick
+Activates and Deactivates Machines
+Rotates Blocks on Rightclick
+by %s
+Can paint things in white
+Can paint things in orange
+Can paint things in magenta
+Can paint things in light blue
+Can paint things in yellow
+Can paint things in lime
+Can paint things in pink
+Can paint things in gray
+Can paint things in gray
+Can paint things in cyan
+Can paint things in purple
+Can paint things in blue
+Can paint things in brown
+Can paint things in green
+Can paint things in red
+Can paint things in black
+Remaining Uses: %d
+Usable for Prospecting
+Primitive Blast Furnace
+Electric Blast Furnace
+Vacuum Freezer
+Implosion Compressor
+Pyrolyse Oven
+Distillation Tower
+Multi Smelter
+Cracker Unit
+Coke Oven
+Coke Oven Hatch
+Allows automation access to coke oven. Must be centered on coke oven side.
+Diesel Engine
+Large Steam Turbine
+Large Gas Turbine
+Large Plasma Turbine
+Large Bronze Boiler
+Large Steel Boiler
+Large Titanium Boiler
+Large Tungstensteel Boiler
+Structure: 3x3x4 (WxLxH) The entire structure is made out of Primitive Bricks (32 in total)./nFirst Layer is a 3x3 square./nSecond, third, and fourth layers are hollow, without the middle block./nThis block goes on the middle of any side in the second layer./nThe sides of Blast Furnaces can be shared, if the side does not have a controller./n
+Item Input for Multiblocks
+Input Bus (ULV)
+Input Bus (LV)
+Input Bus (MV)
+Input Bus (HV)
+Input Bus (EV)
+Input Bus (IV)
+Input Bus (LuV)
+Input Bus (ZPM)
+Input Bus (UV)
+Input Bus (MAX)
+Item Output for Multiblocks
+Output Bus (ULV)
+Output Bus (LV)
+Output Bus (MV)
+Output Bus (HV)
+Output Bus (EV)
+Output Bus (IV)
+Output Bus (LuV)
+Output Bus (ZPM)
+Output Bus (UV)
+Output Bus (MAX)
+Fluid Input for Multiblocks
+Input Hatch (ULV)
+Input Hatch (LV)
+Input Hatch (MV)
+Input Hatch (HV)
+Input Hatch (EV)
+Input Hatch (IV)
+Input Hatch (LuV)
+Input Hatch (ZPM)
+Input Hatch (UV)
+Input Hatch (MAX)
+Fluid Output for Multiblocks
+Output Hatch (ULV)
+Output Hatch (LV)
+Output Hatch (MV)
+Output Hatch (HV)
+Output Hatch (EV)
+Output Hatch (IV)
+Output Hatch (LuV)
+Output Hatch (ZPM)
+Output Hatch (UV)
+Output Hatch (MAX)
+Energy Input for Multiblocks
+Energy Input Hatch (ULV)
+Energy Input Hatch (LV)
+Energy Input Hatch (MV)
+Energy Input Hatch (HV)
+Energy Input Hatch (EV)
+Energy Input Hatch (IV)
+Energy Input Hatch (LuV)
+Energy Input Hatch (ZPM)
+Energy Input Hatch (UV)
+Energy Input Hatch (MAX)
+Energy Output Hatch (ULV)
+Energy Output Hatch (LV)
+Energy Output Hatch (MV)
+Energy Output Hatch (HV)
+Energy Output Hatch (EV)
+Energy Output Hatch (IV)
+Energy Output Hatch (LuV)
+Energy Output Hatch (ZPM)
+Energy Output Hatch (UV)
+Energy Output Hatch (MAX)
+Rotor Holder for Multiblocks/nHolds Rotor in place so it will not fly away
+Rotor Holder (ULV)
+Rotor Holder (LV)
+Rotor Holder (MV)
+Rotor Holder (HV)
+Rotor Holder (EV)
+Rotor Holder (IV)
+Rotor Holder (LuV)
+Rotor Holder (ZPM)
+Rotor Holder (UV)
+Rotor Holder (MAX)
+Voltage IN: §a%d §7(§a%s§7)
+Voltage OUT: §a%d §7(§a%s§7)
+Internal Energy Capacity: §9%d
+Amperage IN: §e%d
+Amperage IN up to: §e%d
+Amperage OUT: §e%d
+Amperage OUT up to: §e%d
+Item Slots: %d
+Fluid Capacity: %dMB
+Contains %sMB of %s
+Total: %d EU
+Usage: %d EU/t
+Generation: %d EU/t
+Duration: %.1f secs
+Amperage: %d
+Not consumed in process
+Chance: %s%%
+Temperature: %dK
+Energy To Start: %dEU
+§7Click with a empty fluid container to fill it from tank.
+§7(Shift-clicking will fill all containers in your hand)
+§7Click with a filled fluid container to empty in into tank.
+§7(Shift-clicking will empty all containers in your hand)
+%s Plasma
+Dirty %s Slurry
+Clean %s Slurry
+Empty
+§7%,d/%,d
+§7Temperature: %dK
+§7State: Gaseous
+§7State: Liquid
+Fuel Amount:
+Fluid Amount:
+Toggle View (Fluids)
+Toggle View (Items)
+Allow Overclocking
+Disable Overclocking
+Empty (No Item)
+§eClick with item to override
+Voltage: §a%d §7(§a%s§7)
+Amperage: §e%d
+Loss per block: §c%d
+Transfer: §e%dMB/t
+Max Temperature: §c%dK
+Can't transfer gases.
+Work Paused.
+Running perfectly.
+Idling.
+WARNING: Machine needs more energy.
+Progress: %s%%
+Invalid structure.
+Invalid amount of inputs/outputs.
+Max EU/t: %s (%s)
+Outputting: %s EU/t
+Max Temperature: %sK
+Heating Coil Level: %s
+Heating Coil EU Boost: %sx
+Distilling %s
+Cracking %s
+Lubricant Amount: %sL
+Fuel Amount: %sL (%s)
+Oxygen Amount: %sL
+Oxygen boosted.
+Supply oxygen to boost.
+Fuel Amount: %sL (%s)
+Rotor Speed: %s / %s RPM
+Rotor Efficiency: %s%%
+Rotor Durability: %s%%
+WARNING: Rotor Durability below %s%% (%s%%)
+Temperature: %s / %s C
+Steam Output: %sMB/t
+Usage: /gregtech <worldgen/util>
+Usage: /gregtech worldgen <reload>
+Usage: /gregtech worldgen reload
+Worldgen successfully reloaded from config.
+Worldgen reload failed. Check console for errors.
+Usage: /gregtech util <hand>
+Usage: /gregtech util hand
+Item: %s (Metadata: %d)
+Electric Info: %d / %d EU - Tier: %d; Is Battery: %s
+Fluid Info: %s %d / %dMB; Can Fill: %s; Can Drain: %s
+Ore Prefix: %s; Material: %s
+Tool Stats Class: %s
+Meta Item Name: %s
+This command is only usable by a player.

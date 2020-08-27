@@ -1,0 +1,13 @@
+Ancient Debris
+Block of Netherite
+Netherite Ingot
+Netherite Scrap
+Netherite Sword
+Netherite Shovel
+Netherite Pickaxe
+Netherite Hoe
+Netherite Axe
+Netherite Helmet
+Netherite Chestplate
+Netherite Leggings
+Netherite Boots

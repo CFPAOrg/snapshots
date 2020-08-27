@@ -1,0 +1,146 @@
+Classy Hats
+Broken Hat
+Oh no! Something went wrong!
+The server might have different configs...
+This might be from an old version...
+Or this was just created manually.
+Top Hat
+For black tie parties.
+Red Shleep
+A little friend for your head.
+Orange Shleep
+A little friend for your head.
+Yellow Shleep
+A little friend for your head.
+Green Shleep
+A little friend for your head.
+Cyan Shleep
+A little friend for your head.
+Blue Shleep
+A little friend for your head.
+Violet Shleep
+A little friend for your head.
+Pink Shleep
+A little friend for your head.
+Red Top Slime
+Even companions need to look classy!
+Orange Top Slime
+Even companions need to look classy!
+Yellow Top Slime
+Even companions need to look classy!
+Green Top Slime
+Even companions need to look classy!
+Cyan Top Slime
+Even companions need to look classy!
+Blue Top Slime
+Even companions need to look classy!
+Violet Top Slime
+Even companions need to look classy!
+Pink Top Slime
+Even companions need to look classy!
+Tiny Headtato
+It believes in you!
+Japanese Headband
+あなたはウィーバーです
+Menacing
+ＴＨＩＳ ＭＵＳＴ ＢＥ ＴＨＥ ＷＯＲＫ ＯＦ ＡＮ ＥＮＥＭＹ 「ＳＴＡＮＤ」！！
+:thonk:
+Sponsored by /r/hmmm
+Black Cat Ears
++5 to Persuasion, +5 to Nya
+Brown Cat Ears
++5 to Persuasion, +5 to Nya
+Dark Brown Cat Ears
++5 to Persuasion, +5 to Nya
+Gray Cat Ears
++5 to Persuasion, +5 to Nya
+White Cat Ears
++5 to Persuasion, +5 to Nya
+Classy Gear
+I do say, my good sir!
+Smiling Drama Mask
+The show must go on!
+Neutral Drama Mask
+The show must go on!
+Downcast Drama Mask
+The show must go on!
+Angry Drama Mask
+The show must go on!
+Monocle
+For external use only.
+Skull Mask
+Alas, poor Yorick!
+Shattered Skull Mask
+Alas, poor Yorick!
+Halo
+An angel is anything but innocent.
+Do not mistake optimism for oblivion.
+Snowball
+Freeze! Don't move!
+Golden Snowball
+SR can buy you happiness.
+Just buy one of these.
+Pachimari
+Half onion, half octopus, all cute.
+Hacked Pachimari
+Boop!
+Moon Man
+Goodbye, moonmen...
+Top Kek
+forty keks
+The Horned Eye
+The Eye of Ea stands at the gate
+It shatters the limits your mind can create
+It sees the blight and it knows your soul
+And toward the center it bids you go
+Artificial Intelligence
+01101110 01100101 01100001 01110100
+Companion Cube
+Science!
+Cube Companion
+We &omight've&7 gone a bit far.
+Head Hiss
+With 80%% less gunpowder.
+Jarhead
+Now they can all see how small your brain is.
+Miracle Seer
+Memorate miraculos absentes.
+Semper vivunt ea in nostri animis.
+Warped
+Oh god, they're real, they're comi
+Dungeon Companion
+Why was a swet stuck in a chest
+in the middle of a Slider dungeon...?
+Retro Computer
+Dapper in the 90s
+Bone Hurting Juice
+Oof, owie
+Phantom Thread
+Craft with armor to make it invisible!
+Craft invisible armor with other armor to camouflage.
+Craft with thread again to make the armor visible.
+Oak Wood Hat Stand
+Spruce Wood Hat Stand
+Birch Wood Hat Stand
+Jungle Wood Hat Stand
+Acacia Wood Hat Stand
+Dark Oak Wood Hat Stand
+Stone Hat Stand
+Quartz Hat Stand
+Obsidian Hat Stand
+&bLined with Phantom Thread
+Craft with other armor to camouflage!
+Camouflaged as:
+Press &6%s&7 to open the Hat Inventory
+Sneak-using this item will do the same
+Hats
+Hat Storage
+Back to Inventory
+Next Page
+Prev. Page
+%d/%d
+/replacehat <player> <equipped|page> ...
+/replacehat <player> equipped <hat|none>
+/replacehat <player> page <page.n.n> <hat|none>
+Invalid page ID (%s)
+Hat Inventory

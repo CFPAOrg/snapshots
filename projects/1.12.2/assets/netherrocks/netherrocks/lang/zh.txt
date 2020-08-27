@@ -1,0 +1,98 @@
+Fyrite Ore
+Fyrite Block
+Malachite Ore
+Malachite Block
+Ashstone Ore
+Ashstone Block
+Illumenite Ore
+Illumenite Block
+Dragonstone Ore
+Dragonstone Block
+Argonite Ore
+Argonite Block
+Nether Furnace
+Nether Furnace
+Fyrite Ingot
+Malachite Ingot
+Ashstone Gem
+Illumenite Ingot
+Dragonstone Gem
+Argonite Ingot
+Malachite Pickaxe
+Malachite Axe
+Malachite Shovel
+Malachite Sword
+Malachite Hoe
+Ashstone Pickaxe
+Ashstone Axe
+Ashstone Shovel
+Ashstone Sword
+Ashstone Hoe
+Dragonstone Pickaxe
+Dragonstone Axe
+Dragonstone Shovel
+Dragonstone Sword
+Dragonstone Hoe
+Argonite Pickaxe
+Argonite Axe
+Argonite Shovel
+Argonite Sword
+Argonite Hoe
+Fyrite Pickaxe
+Fyrite Sword
+Fyrite Axe
+Fyrite Shovel
+Illumenite Sword
+Fyrite Helmet
+Fyrite Chestplate
+Fyrite Leggings
+Fyrite Boots
+Malachite Helmet
+Malachite Chestplate
+Malachite Leggings
+Malachite Boots
+Illumenite Helmet
+Illumenite Chestplate
+Illumenite Leggings
+Illumenite Boots
+Dragonstone Helmet
+Dragonstone Chestplate
+Dragonstone Leggings
+Dragonstone Boots
+Nether Furnace
+Ready to mine Hell!
+You've reached the Nether. Look for netherrocks ores.
+Warm to the Touch
+Collect some Fyrite Ore from the Nether
+Born to Enchant
+Collect some Malachite Ore. It is very enchantable
+Super Fast!
+Ashstone tools are super fast, so start looking!
+Light the Way
+It grows amongst glowstone
+All Rounder
+Argonite produces some great tools
+From the Belly of the Beast
+Behold, true power awaits they who harness this ore
+Lava Proof
+Wear a full set and you won't even feel the burn
+Super Jump
+Wear a full set to jump like you weigh nothing
+Tree Nemesis
+Trees have never been felled so fast
+Unbreakable Bones
+Wear a full set to conquer your fear of heights
+Monster Hunter's Best Friend
+A powerful sword will never let you down
+Life's Companion
+Don't worry, we actually mean it
+Super Furnace
+Construct a Nether Furnace!
+§aSet Bonus: No fire/lava damage.
+§aSet Bonus: Jump 2 blocks instead of 1.
+§aSet Bonus: No fall damage.
+§aAuto smelts when mining.
+§aInstant charcoal while felling trees.
+§aInstant glass when digging up sand.
+§aHarnesses the power of fire.
+§aGrants night vision on hit. Blinds and slows target.

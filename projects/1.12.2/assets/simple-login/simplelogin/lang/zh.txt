@@ -1,0 +1,2 @@
+Use /register Password Password to register
+Use /login Password to login

@@ -1,0 +1,181 @@
+Tabula
+Controls
+Selected Cube Name
+Dimensions
+Position
+Offset
+Rotation
+Opacity
+MC Scale
+Custom Scale
+Texture Offset
+Mirror
+Mirror Texture
+New Project
+Project Name
+Author Name
+Texture width and height
+Project Scale
+Edit Project
+Model Tree
+New Cube
+New Group
+Delete
+Edit Metadata
+Texture
+Load Texture
+Clear Texture
+Listen
+Listen for texture changes (If the texture is yours)
+Remote Texture
+No Texture
+Import Model To Current Project
+Texture
+Import the Texture (if available) as well?
+Import Minecraft Model
+New?
+Import the model into a new project?
+Load Texture
+Update?
+Update the texture dimensions of the project?
+Chat
+Hit ENTER to send
+Project not saved!
+Project is not saved!
+Would you like to save before closing?
+Open Project
+Opening...
+Failed to open file.
+About
+Mod Version: 
+Developer: 
+Textures: 
+Contributions: 
+Testers: 
+Current Localization: iChun
+Function and UI are based off the original Techne by ZeuX and r4wk
+If you have any issues or suggestions go to the following link
+Project is open source and can be found at:
+Animation
+New Animation
+Edit Animation
+Delete Animation
+Play Animation
+Stop Animation
+New Component
+Edit Component
+Delete Component
+Split Component. This resets the Component Progression
+Edit Component Progression
+Select a Cube to animate first!
+Select an Animation first!
+New Animation
+Animation Name
+Does the animation loop?
+Edit Animation
+New Animation Component
+Component Name
+Component length (in ticks)
+Edit Animation Component
+Component Start Tick
+Edit Animation Component Progression
+Animation Progression
+Reset
+Play Anim
+Play the animation while you are editing the progression?
+Invalid progression curve!
+Animation Keyframe Info: 
+Select Theme
+Settings
+Render Model Rotation Point
+Failed to layout textures.
+Project Metadata
+Metadata
+Set Ghost Model
+Export Project
+Export Failed!
+Texture Map
+Export as Java Class
+Package For Class
+Java Class
+Class Name
+Project Texture
+Block JSON
+Export Block JSON
+File Name
+Corner of block is at (0, 0) (click to change)
+Center of block is at (0, 0) (click to change)
+Block model is relative to wood block (click to change)
+New Project
+Edit Project
+Open Project
+Save
+Save As
+Import Project
+Import From Minecraft
+Export Project
+Cut
+Copy
+Paste
+Paste In Place
+Paste Without Children
+Undo
+Redo
+Toggle Chat Window
+Add Editor
+Remove Editor
+Theme Selector
+Settings
+About this mod
+Exit Tabula
+Block
+Toggle showing the block
+Automatically Layout Textures
+Set Ghost Model
+Open Working Directory
+Users In Session
+Editor
+Host
+%s has joined the session.
+%s has left the session.
+%s timed out.
+%1$s opened %2$s.
+%s is allowed to edit models.
+%1$s has added %2$s as an editor.
+%1$s has removed %2$s as an editor.
+%s is already an editor.
+%s is not an editor.
+%s is host and cannot be removed as an editor.
+You are hosting this Tabula session.
+%s is hosting this Tabula session.
+%s (host) is unavailable. They might have crashed or disconnected. Consider saving the models for them before exiting.
+%s (host) has ended session.
+Multiplayer
+Others
+Multiplayer settings for Tabula sessions
+Other configs that don't really fit. You probably don't want to touch these.
+Favorite Theme
+Render Model Rotation Point
+Render Workspace Block
+Render Grid
+Render Model Controls
+Swap Position/Offset
+Chat Sound
+Allow Everyone To Edit
+Allowed Editors
+Animate Imports
+Chat Window Settings
+Tooltip Time
+Favorite Colour Theme for Tabula's Interface
+Should the rotation point of selected model parts be rendered
+Should the block in the workspace be rendered
+Should the grid in the workspace be rendered
+Should the controls on the model be rendered
+Swap the position and offset of the model when changing either value?
+Enable chat sounds?
+Allow anyone who connects to your Tabula session to edit the model
+People allowed to edit models in your multiplayer Tabula session.\nSeparate usernames by with a comma and a space (", " - no quotes)
+Try to animate the possibly imported models to fix their rotations?
+Don't touch this. Seriously.
+Time (in ticks) for tooltip to appear.
+Wax Tablet

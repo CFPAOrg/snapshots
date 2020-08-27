@@ -1,0 +1,20 @@
+Empty Craftorade Bottle
+Blue Craftorade
+Red Craftorade
+Green Craftorade
+Orange Craftorade
+Purple Craftorade
+Yellow Craftorade
+Hotdog
+Hotdog Bun
+Bread Slice
+Cooked Chicken Nugget
+Raw Chicken Nugget
+Cooked Sausage
+Raw Sausage
+Cooked Steak Nugget
+Raw Steak Nugget
+Chicken Sandwich
+Undercooked Hot Dog
+Crafty Cola
+Crafty Cola Bottle

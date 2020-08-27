@@ -1,0 +1,138 @@
+Tinkers' Reforged
+Kovar Glass
+Lavium Nugget
+Lavium Ingot
+Lavium Dust
+Lavium Plate
+Lavium Gear
+Qivium Nugget
+Qivium Ingot
+Qivium Dust
+Qivium Plate
+Qivium Gear
+Kovar Nugget
+Kovar Ingot
+Kovar Plate
+Kovar Gear
+Gladius
+A broadsword with a bit more damage and less attack speed but slow enemies.
+Gladius Bindings
+Club
+A powerful weapon that knock your enemies on impact
+Club Head
+Curved Blade
+Khopesh
+A egyptian broadsword.
+Great Blade
+Greatsword
+A great and powerful sword.
+Runic Knife
+A Knife used to get Moss from mossy blocks.
+Molten Infused Iron
+Molten of the sky
+Starmetal
+Molten Blutonium
+Molten Ludicrite
+Molten Qivium
+Molten Lavium
+Molten Kovar
+Molten Osmium
+Molten Refined Obsidian
+Molten Refined Glowstone
+Molten Ventium
+Molten Horizonite
+Molten Pyrope
+Molten Black Quartz
+Molten Enori
+Molten Palis
+Molten Void
+Molten Emeradic
+Molten Redstonia
+Molten Diamantine
+Lavium
+Enderium
+Signalum
+Lumium
+Platinum
+Iridium
+Invar
+Aluminum
+Infused Iron
+Ancient Wood
+Material Of The Sky
+Black Quartz
+Enori Crystal
+Void Crystal
+Redstonia Crystal
+Emeradic Crystal
+Diamantine Crystal
+Palis Crystal
+Certus Quartz
+Fluix Crystal
+Starmetal
+Limestone
+Khnumite
+Ventium
+Horizonite
+Pyrope
+Turquoise
+Charoite
+Diopside
+Amethyst
+Osmium
+Refined Obsidian
+Refined Glowstone
+HDPE Sheet
+Runestone
+Yellorium
+Blutonium
+Ludicrite
+Cyanite
+Lavium
+Qivium
+Signal
+§oDude, stop hitting those Creepers!§r\nHitting Creeper make them explode.
+Ender
+§oDon't look in their eyes!§r\nDeal double damage to Ender Mobs.
+Enderfestation
+§oHate these little pest, they spawn everywhere!§r\nMining blocks have a chance of spawning an endermite.
+Bright
+§oYo Sun gimme your power!§r\nYour tool gain more damage/mining speed with a open sun.
+Astral
+§oI can see in the dark!§r
+Aura Infusion
+§oThe Tool seems to self repair but at what cost?§r\nRepair your tool using aura.
+Pyromancy
+§oBy fire be purged!§r\nCrits set the target on fire.
+Radioactive
+§oOh no!§r\n50% chance to cure poison/wither on tick.
+Nuclear Waste
+§oNuclear Infusion anyone?§r\nGet a random vanilla potion effect after mining or attacking.
+Life Steal
+§oYou want MORE???§r\nSteal Heart from mobs.
+Refined
+§oNot so fast!§r\nMine Obsidian faster
+Flux
+§oHow does that work?§r\nHave a chance to not use durability but will exaust you faster.
+Star Shaped
+§oShaped like a star!§r\nAlways Crits
+Villager Love
+§oEmerald for days!§r\nKilling Mobs have a chance of spawning a emerald
+Rose
+§oRose are Red, Violet are blue§r\nGrass have a chance of dropping dye.
+Void
+§oThis seems empty§r\nVoid items dropped from blocks.
+Starry Night
+§oOh look a star!§r\nGive Haste at night
+Carbon
+§oHard as a rock§r\nBlocks mined increase the durability.
+Fey
+§oBehold Nature!§r\nFey Spirits empowered your tools, giving it a overall boost.
+Ender Star
+§oEnder Power!§r\nall Mobs can drop wither skeleton skulls.
+Lens of The Killer
+§oMoar Power!§r\nCongratuation, you now deal more damage.
+Token
+§oToken Power!§r\nGive one free modifier.
+Lens of The Miner
+§oPhysics 101§r\nBlocks have a chance to drop a ore(any ore).

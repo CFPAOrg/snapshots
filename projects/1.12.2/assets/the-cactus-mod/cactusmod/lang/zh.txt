@@ -1,0 +1,70 @@
+The Cactus Tab
+Cactus Golem
+Cactus Cow
+Cactus Cart
+Cactus Tnt
+Cactus Spike
+Cactus Creeper
+Cactus Man
+Cactus Slime
+Cactus Sheep
+Cactus Pig
+Cactus Spider
+Cactus Skeleton
+Cactus Boat
+Cactoni
+Cactus Stick
+Cactus Brick
+Cactus Bone
+Cactus Bonemeal
+Cactus Slimeball
+Cactus Sword
+Cactus Shovel
+Cactus Pickaxe
+Cactus Axe
+Cactus Hoe
+Cactus Bow
+Cactus Shield
+Cactus Helmet
+Cactus Chestplate
+Cactus Leggings
+Cactus Boots
+Cactus Cart
+Cactus Boat
+Cactus Juice
+Cactus Fruit
+Comes with Thorns 2 when crafted.
+Acts more like a reflector
+Shoots knockback spikes
+Can only bonemeal sand blocks
+Prickly Iron Block
+Cactus Brick
+Cactus Brick stairs
+Cactus Brick Slab
+Cactus Double Brick Slab
+Carved Cactus
+John O' Lantern
+Cactus Chest
+Cactus Dispenser
+Cactus TNT
+Cactus Carpet
+Cactus Hopper
+Cactus Door
+Cactus Cake
+Cactus Flower
+Cactus Plant
+Cactus Slime Block
+Cactus Workbench
+Probably looks better than it tastes
+Painfully cheap
+Slowly rids it's inventory
+Slowly rids it's inventory
+Shoots spikes in all horizontal directions
+Hurts mobs that touch it, destroys items on top
+only when they're 2 minutes old
+Has no inventory, shoots spikes
+Basically a slimeblock but less powerful
+Cactus Chest
+Cactus Hopper
+%s got spiked
+%1$s was spiked by %2$s

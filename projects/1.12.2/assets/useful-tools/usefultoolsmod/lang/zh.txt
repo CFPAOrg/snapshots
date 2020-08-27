@@ -1,0 +1,20 @@
+Useful Tools
+Path Maker
+Stomps dirt to path under player.
+Road Maker
+Stomps dirt to path in 3x3-area under player.
+Dirt Tiller
+Tills dirt under player.
+Super Tiller
+Tills dirt in 3x3-area under player.
+Crop Planter
+Plants 3x3-area with seeds under player.
+Needs seeds next to the tool in inventory.
+Crop Harvester
+Harvests 3x3-area of crops under player.
+Log Chopper
+Cuts trees down from top while hitting bottom log.
+Right-click to analyze the tree.
+This tree is
+blocks tall and it has
+logs to cut.

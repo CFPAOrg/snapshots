@@ -1,0 +1,7 @@
+Globe Creator
+Globe Stand
+Globe (Empty)
+Globe
+Globe process starting
+Globe process completed
+%s was sucked into a globe

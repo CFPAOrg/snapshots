@@ -1,0 +1,210 @@
+Block Press
+Blocco Press Structure
+Ampoule of experience
+Skill Book
+Oak Bow
+Jungle Bow
+Birch Bow
+Dark Oak Bow
+Acacia Bow
+Spruce Bow
+Curved Bow
+Fatal Bow
+Precious Bow
+Damn Battle Ax
+Compact Battle Ax
+Heavyl Battle Ax
+Hero's Sword
+Sword of Justice
+Giantses Sword
+Murderer's Dagger
+Sharp Dagger
+Haunted Dagger
+Sun Spear
+Arcane Spear
+Woods Spear
+JJ Skill
+Strength
+Agility
+Magic
+4
+It is available for download, version
+of JJ Skill
+You are not able to use this item
+Wait for the process to finish
+Press not active
+Your skills have been successfully reset
+Your experience has been successfully canceled
+Error, your skills have not been reset
+Error, your experience has not been reset
+You're allowed to bring with you a maximum of
+Skilled  Items
+Immobilizes
+Invisibility
+Illusion
+Dematerializing
+Fast Archer
+Arrows Storm
+Area Shield
+Healing
+Leap
+Throws
+Quick Fertilizer
+Dance Of Growth
+Feline Senses
+Adrenalin
+Sampei
+Mega Spread
+Super Mined
+Break Wood
+Crouch
+Hardwood Lumberjack
+Attractive Bait
+Bleeding
+Glowing Blade
+Vortex Of Blades
+Stability
+Deads Echo
+Redraft
+Daze
+Glacial Dart
+Lava Mass
+Animalist Drop
+Energetic Beam
+Area Shield Static
+Immobilizes
+Invisibility
+Illusion
+Dematerializing
+Fast Archer
+Arrows Storm
+Area Shield
+Healing
+Leap
+Throws
+Quick Fertilizer
+Dance Of Growth
+Feline Senses
+Adrenalin
+Sampei
+Mega Spread
+Super Mined
+Break Wood
+Crouch
+Hardwood Lumberjack
+Attractive Bait
+Bleeding
+Glowing Blade
+Vortex Of Blades
+Stability
+Deads Echo
+Redraft
+Daze
+Glacial Dart
+Lava Mass
+Animalist Drop
+Energetic Beam
+Area Shield Static
+Petrifies the enemy preventing their movement
+Makes one's body completely invisible to the eyes of the enemy
+Causes florid hallucinations to foes, whom will believe they're seeing ghosts
+Grants the power of dematerializing the surfaces one touches
+Skill that elasticizes the string of the bow, making the act of shooting arrows instantaneous.
+A multitude of flaming arrows are fired
+Gives off a mystical barrier that largely protects from any damage the creatures within its area
+Creates an healing zone inside of which all allies will be fortified
+Grants greater boost to one's legs making for much higher leaps
+Imparts more knockback on impact with the target
+A powerful fertilizer capable of instantly growing any crop
+An ancient dancing ritual, which if completed will increase the development of crops
+Just like cats, whoever learns this skill will be able to leap into the void with not much harm
+A doping substance permeates the whole body, allowing you to run like a madman
+An advanced fishing technique, which attributes the ability of managing more fishing rods simultaneously
+Shoveling never was so easy for those who learn this skill
+The pickaxe will acquire greater penetrability in all kinds of stone, mining it faster
+Allows to instantaneously break wood of all kinds
+Crouch to pass through narrow spaces
+Cuts down any kind of tree in only one hit, hitting it on the roots the whole trunk will fall
+Uses an automatic bait that will catch any fish without you having to do anything
+Opens a grievous wound, which will make the enemy bleed and increasingly weakening them
+The blade of your weapon will become incandescent to the point of setting your foes on fire
+Summons a vortex of blades which cuts anyone who crosses it
+Grants your body greater weight, so that your feet will be always anchored to the ground
+Part of the life energy of defeated foes will be bestowed upon you
+When clinging to life, there's a chance of harming the enemy passively
+Increases the damage of one blow bringing a strong feeling of nausea
+Summons sharp ice crystals directed towards the enemy
+Throws an orb of blazing magma capable of triggering a powerful explosion on impact
+Retrieves products of animal production from your critters without killing them
+Casts a strong beam of light towards the enemies causing them moderate harm
+Gives off a mystical barrier that largely protects from any damage the creatures within its area
+Maximum level learned
+Experience necessary
+JJ Skill is a mod that brings more than 30 skills to the world of Minecraft, so to make it feel like an MMORPG. Skills will be both for combat (PVP and PVE) and for farming. By collecting the Red Experience Points looted by mobs, you will be able to raise every skill up to level 10. To every level will correspond ever better stats. Thanks to the use of the Press, you'll be able to imprint on your weapons any of your learnt skills.
+The mod adds a new type of Red Experience, that behaves in the same way as the classic EXP in vanilla Minecraft. Accumulating experience, you'll be able to train your Skills.  To view the accumulated experience, press the key
+It is possible to obtain more experience by drinking from the experience bottles you can find in dungeon chests.
+This mod adds 15 weapons (3 Swords, 3 Bows, 3 Battle Axes, 3 Daggers, and 3 Staves). The skills can be associated to some weapons/items up to 3 skills each. You're able to bring with you up to 3 skilled weapons/items. To change the selected skill, press the key
+Type:
+ACTIVE
+PASSIVE
+Parameters
+Duration
+Cooldown
+Power
+Energy Consumption
+Lvl 1
+Lvl 10
+Basics
+Weapons
+Red Experience
+Multiblock Structure
+List of Skills
+JJ Skill
+Open Skill GUI
+Switch Skill Item
+Reset your skills
+Reset your experience
+Number of Clones
+Dematerialized Blocks
+Number of Arrows
+Arrow Damage
+Damage Rate
+Range
+Healing Value
+Jump Power
+Power
+Number of Uses
+Fall Damage Multiplier
+Speed Multiplier
+Number of Hooks
+Bleeding Damage
+Inflicted Bleedings
+Seconds of Fire 
+Damage
+Success Rate
+Absorption
+Mob Healing Value
+Player Healing Value
+Health Valuse Activation
+Speed
+Number of Uses
+Enabled Skill
+Max Learnable Lvl
+Max Applicable Lvl
+List of Skillable Items
+Necessary Experience
+Duration
+Cooldown
+Energy Consumption
+Learning Reward
+Mob Defence
+Banned Blocks
+Mostra messaggio nuovo Aggiornamento
+Item Potenziamento
+Numero massimo item skillati in Inventario
+Durata della limitazione dell'esperienza in ore
+Massima Esperienza ottenibile durante la limitazione
+Lista mob che droppano le armi
+Difficoltà di drop delle armi
+Esperienza default delle Bottiglie
+General

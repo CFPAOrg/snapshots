@@ -1,0 +1,180 @@
+Everlasting Abilities - Potion Core
+Trueshot
+Inflict more projectile damage
+Drowning
+Breath underwater but suffocate in air
+Antidote
+Prevents you from taking poison damage
+Purity
+Prevents you from taking wither damage
+Slowfall
+Slows your fall
+Solid Core
+Gives you knockback resistance
+Climbing
+Lets you climb walls like spiders
+Reach
+Increases your reach distance
+Iron Skin
+Increases your armor
+Diamond Skin
+Increases your armor toughness
+Recoil
+Reflects a portion of damage back to the attacker
+Magic Focus
+Increases magic damage
+Magic Shielding
+Take less damage from magic
+Revival
+Revive with 2 heart per level after death
+Repair
+Repair armor and held item
+Extension
+Increases length of a random active potion
+Bless
+Gives a random positive potion effect
+Cure
+Removes all bad potion effects
+Broken Armor
+Entities in the area have reduced armor levels
+Weight
+Entities in the area have negative jump boost
+Klutz
+Projectile damage from entities in the area is decreased
+Inversion
+Potion effects on entities in the area are inverted
+Vulnerable
+Damage for all entities in the area is multiplied
+Magic Inhibition
+Entities in the area have reduced magic damage decreased
+Explosion
+Entities in the area explode
+Combustion
+Entities in the area are set on fire
+Lightning
+Entities in the area are struck with lightning
+Launching
+Entities in the area are launched in the air
+Corrosion
+Entities in the area have their armor and held item damaged (except for gold)
+Disorganization
+Entities in the area have their inventories shuffled
+Perplexity
+Players in the area have their controls reversed
+Curse
+Entities in the area receive random bad potion effects
+Dispel
+Entities in the area have all their good potion effects removed
+%s configuration
+Item settings
+General settings
+Core settings
+Capability settings
+Ability settings
+Max trueshot level
+Rarity of trueshot
+Xp required per trueshot level
+Max drowining level
+Rarity of drowining
+Xp required per drowining level
+Max antidote level
+Rarity of antidote
+Xp required per antidote level
+Max purity level
+Rarity of purity
+Xp required per purity level
+Max slowfall level
+Rarity of slowfall
+Xp required per slowfall level
+Max solid core level
+Rarity of solid core
+Xp required per solid core level
+Max climb level
+Rarity of climb
+Xp required per climb level
+Max reach level
+Rarity of reach
+Xp required per reach level
+Max iron skin level
+Rarity of iron skin
+Xp required per iron skin level
+Max diamond skin level
+Rarity of diamond skin
+Xp required per diamond skin level
+Max recoil level
+Rarity of recoil
+Xp required per recoil level
+Max magic focus level
+Rarity of magic focus
+Xp required per magic focus level
+Max magic shielding level
+Rarity of magic shielding
+Xp required per magic shielding level
+Max revival level
+Rarity of revival
+Xp required per revival level
+Max repair level
+Rarity of repair
+Xp required per repair level
+Max extension level
+Rarity of extension
+Xp required per extension level
+Max bless level
+Rarity of bless
+Xp required per bless level
+Max cure level
+Rarity of cure
+Xp required per cure level
+Max broken armor level
+Rarity of broken armor
+Xp required per broken armor level
+Max weight level
+Rarity of weight
+Xp required per weight level
+Max klutz level
+Rarity of klutz
+Xp required per klutz level
+Max invert level
+Rarity of invert
+Xp required per invert level
+Max vulnerable level
+Rarity of vulnerable
+Xp required per vulnerable level
+Max magic inhibition level
+Rarity of magic inhibition
+Xp required per magic inhibition level
+Max explosion level
+Rarity of explosion
+Xp required per explosion level
+Max combustion level
+Rarity of combustion
+Xp required per combustion level
+Max lightning level
+Rarity of lightning
+Xp required per lightning level
+Max launch level
+Rarity of launch
+Xp required per launch level
+Max corrosion level
+Rarity of corrosion
+Xp required per corrosion level
+Max disorganization level
+Rarity of disorganization
+Xp required per disorganization level
+Max perplexity level
+Rarity of perplexity
+Xp required per perplexity level
+Max curse level
+Rarity of curse
+Xp required per curse level
+Max dispel level
+Rarity of dispel
+Xp required per dispel level
+Ability totem in lootchests
+Send anonymous analytics
+Anonymous id
+Crash on invalid Recipe
+Crash on Compatibility issue
+Develop mode
+Version
+Version check

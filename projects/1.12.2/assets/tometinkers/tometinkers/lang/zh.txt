@@ -1,0 +1,66 @@
+Glass
+Gold
+Topaz
+Ruby
+Diamond
+Sapphire
+Emerald
+Dilithium
+Tritanium
+Crystal Matrix
+Neutronium
+Infinity
+Magical
+Enchanted!\nVery enchantable, gives a bonus Modifier.
+Healthy
+Feels great!\nSomehow, you feel healthier.
+Optimized
+Perfected!\nThe Tool mines faster the closer its mining level is to the required one.
+Strengthening
+Strength!\nThe Tool makes you stronger, so you will mine faster and deal more damage.
+Magically Protected
+Protection\nProtects against magical Attacks.
+Crystallized
+Raw Crystals!\nCrystals are spiky and solid, so your Tool will deal more damage and last longer.
+Supermassive
+Heavy!\nYour Tool is very heavy. You will knock your enemies further away.
+Cosmic
+Infinity!\nYour Tool will be very Strong.
+Unbreakable
+Strong!\nMakes you Tool unbreakable.
+Strengthening
+Strength!\nThe Armor makes you stronger, so you will get less damage.
+Optimized
+Perfected!\nThe lower you health the more damage will be absorbed by your Armor.
+Reinforced
+So strong!§r\nEach level adds a 20% chance to not use durability.
+Experience Boost
+Gives bonus XP.
+Evil Aura
+When worn, creates an aura of evil that brings misfortune to the wielder.
+Crystallized
+Raw Crystals!\nCrystals are spiky and solid, so your Armor will reflect some damage and last longer.
+Supermassive
+Heavy!\nYour Armor is very heavy. You will get knocked less far away.
+Cosmic
+Infinity!\nYour Tool will be very Strong.
+Extra Modifier
+Avaritia Extra Modifier
+Bound
+Extra Modifier
+Avaritia Extra Modifier
+Bound
+Molten Topaz
+Molten Ruby
+Molten Diamond
+Molten Sapphire
+Molten Crystal Matrix
+Molten Neutronium
+Molten Infinity
+Molten Topaz
+Molten Ruby
+Molten Diamond
+Molten Sapphire
+Molten Crystal Matrix
+Molten Neutronium
+Molten Infinity

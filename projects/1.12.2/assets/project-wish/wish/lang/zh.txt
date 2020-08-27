@@ -1,0 +1,272 @@
+Hematite Ore
+Hematite Ore
+Magnetite Ore
+Magnetite Ore
+Limonite Ore
+Limonite Ore
+Siderite Ore
+Siderite Ore
+Petalite Ore
+Petalite Ore
+Lignite Ore
+Lignite Coal
+Bituminous Ore
+Bituminous Coal
+Anthracite Ore
+Anthracite Coal
+Magnesite Ore
+Magnesite Ore
+Bauxite Ore
+Bauxite Ore
+Argentite Ore
+Argentite Ore
+Bismuthinite Ore
+Bismuthinite Ore
+Cassiterite Ore
+Cassiterite Ore
+Chromite Ore
+Chromite Ore
+Cobaltite Ore
+Cobaltite Ore
+Galena Ore
+Galena Ore
+Garnierite Ore
+Garnierite Ore
+Ilmenite Ore
+Ilmenite Ore
+Osmiridium Ore
+Osmiridium Ore
+Malachite Ore
+Malachite Ore
+Monazite Ore
+Monazite Ore
+Native Gold Ore
+Native Gold Ore
+Native Platinum Ore
+Native Platinum Ore
+Iridosmine Ore
+Iridosmine Ore
+Pentladite Ore
+Penladite Ore
+Sphalerite Ore
+Sphalerite Ore
+Wolframite Ore
+Wolframite Ore
+Tetrahedrite Ore
+Tetrahedrite Ore
+Uraninite Ore
+Uraninite Ore
+Mythril Ore
+Mythril Ore
+Gem Ore
+Invalid Gem Drop
+Adamantine Ore
+Adamantine Ore
+Cinnabar Ore
+Cinnabar Ore
+Lapis Ore
+Lapis Ore
+Fossil
+Fossil
+Dust
+Stone Prospecting Pick
+Iron Prospecting Pick
+Gem Prospecting Pick
+Steel Prospecting Pick
+Copper Prospecting Pick
+Bronze Prospecting Pick
+Rock
+Sharp Rock on a Stick
+Sharp Rock
+Amber
+Amethyst
+Aquamarine
+Beryl
+Bloodstone
+Citrine
+Diamond
+Emerald
+Garnet
+Jade
+Jasper
+Moonstone
+Onyx
+Opal
+Pectolite
+Peridot
+Quartz
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Topaz
+Turquoise
+Tourmaline
+Zircon
+Mixed
+Conglomerate
+Sandstone
+Shale
+Limestone
+Dolomite
+Salt
+Chert
+Diatomite
+Claystone
+Gneiss
+Phyllite
+Schist
+Slate
+Marble
+Quartzite
+Granulite
+Ecologite
+Skarn
+Gabbro
+Granite
+Pegatite
+Diorite
+Andesite
+Basalt
+Obsidian
+Rhyolite
+Scoria
+Eclogite
+Cobblestone
+Smooth
+Brick
+Gravel
+Sand
+Igneous
+Metamorphic
+Sedimentary
+Clastic
+Intrusive
+Extrusive
+Foliated
+Non-Foliated
+Chemical
+BioChemical
+Grade
+Range:
+Mode: %MODE%
+Weight
+Total Weight
+Blocks
+Ore
+Misc
+Name: %NAME%
+Rock Types: %TYPES%
+Mode Switched to %MODE%
+Found:
+A Motherload of %ORE%
+A Huge sample of %ORE%
+A Large sample of %ORE%
+A Medium sample of %ORE%
+A Small sample of %ORE%
+Traces of %ORE%
+Hematite Sludge
+Magnetite Sludge
+Limonite Sludge
+Siderite Sludge
+Petalite Sludge
+Lignite Sludge
+Bituminous Sludge
+Anthracite Sludge
+Magnesite Sludge
+Bauxite Sludge
+Argentite Sludge
+Bismuthinite Sludge
+Cassiterite Sludge
+Chromite Sludge
+Cobaltite Sludge
+Galena Sludge
+Garnierite Sludge
+Ilmenite Sludge
+Osmiridium Sludge
+Malachite Sludge
+Monazite Sludge
+Native Gold Sludge
+Native Platinum Sludge
+Iridosmine Sludge
+Pentladite Sludge
+Sphalerite Sludge
+Wolframite Sludge
+Tetrahedrite Sludge
+Uraninite Sludge
+Mythril Sludge
+Gem Sludge
+Adamantine Sludge
+Cinnabar Sludge
+Lapis Sludge
+Fossil Sludge
+Hematite Shard
+Magnetite Shard
+Limonite Shard
+Siderite Shard
+Petalite Shard
+Lignite Shard
+Bituminous Shard
+Anthracite Shard
+Magnesite Shard
+Bauxite Shard
+Argentite Shard
+Bismuthinite Shard
+Cassiterite Shard
+Chromite Shard
+Cobaltite Shard
+Galena Shard
+Garnierite Shard
+Ilmenite Shard
+Osmiridium Shard
+Malachite Shard
+Monazite Shard
+Native ShardGold Shard
+Native ShardPlatinum Shard
+Iridosmine Shard
+Pentladite Shard
+Sphalerite Shard
+Wolframite Shard
+Tetrahedrite Shard
+Uraninite Shard
+Mythril Shard
+Gem Shard
+Adamantine Shard
+Cinnabar Shard
+Lapis Shard
+Fossil Shard
+Hematite Crystal
+Magnetite Crystal
+Limonite Crystal
+Siderite Crystal
+Petalite Crystal
+Lignite Crystal
+Bituminous Crystal
+Anthracite Crystal
+Magnesite Crystal
+Bauxite Crystal
+Argentite Crystal
+Bismuthinite Crystal
+Cassiterite Crystal
+Chromite Crystal
+Cobaltite Crystal
+Galena Crystal
+Garnierite Crystal
+Ilmenite Crystal
+Osmiridium Crystal
+Malachite Crystal
+Monazite Crystal
+Native CrystalGold Crystal
+Native CrystalPlatinum Crystal
+Iridosmine Crystal
+Pentladite Crystal
+Sphalerite Crystal
+Wolframite Crystal
+Tetrahedrite Crystal
+Uraninite Crystal
+Mythril Crystal
+Gem Crystal
+Adamantine Crystal
+Cinnabar Crystal
+Lapis Crystal
+Fossil Crystal

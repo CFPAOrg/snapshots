@@ -1,0 +1,14 @@
+Money Machine
+Copper Ingot
+Silver Ingot
+Silver Coin
+Melted Copper
+Melted Gold
+Copper Ore
+Golden Coin
+CastCircle
+Cast Sheets
+Circle Mould
+Copper Coin
+Melted Silver
+Silver Ore

@@ -1,0 +1,417 @@
+%1$s fell off a ladder and was smooshed
+%1$s fell off some vines and was smooshed
+%1$s fell out of the water and was smooshed
+%1$s has been smooshed
+%1$s was doomed to smoosh
+%1$s was doomed to smoosh by %2$s
+%1$s was doomed to smoosh by %2$s using %3$s
+%1$s smooshed and was finished by %2$s
+%1$s smooshed and was finished by %2$s using %3$s
+%1$s has been smooshed
+%1$s has been smooshed whilst trying to escape %2$s
+SurvivalPlus
+SurvivalPlus Materials
+SurvivalPlus Blocks
+SurvivalPlus Foodstuffs
+SurvivalPlus Gems
+SurvivalPlus Combat
+SurvivalPlus Tools
+Tin Ingot
+Copper Ingot
+Bronze Ingot
+Bronze Nugget
+Titanium Ingot
+Titanium Nugget
+Titanium Dust
+Crushed Titanium Ore
+Purified Crushed Titanium Ore
+Tiny Pile of Titanium Dust
+Titanium Plate
+Dense Titanium Plate
+Titanium Item Casing
+Copper Dust
+Tin Dust
+Bucket of Charcoal
+Paper Cup
+White Dye
+Apple Pie
+Beef Pie
+Pork Pie
+Chicken Pie
+Mutton Pie
+Rabbit Pie
+Vegetable Pie
+Onion
+Onion Seeds
+Onion Soup
+Fried Egg
+Roasted Carrot
+Cheese
+Cheese Bread
+Melted Cheese Bread
+Cupcake
+Cheese Cupcake
+Sponge Cupcake
+Cheese Cake
+Sponge Cake
+Onion Crop
+Baked Apple
+Fried Onion
+Block of Copper
+Block of Tin
+Copper Ore
+Tin Ore
+Amethyst
+Ruby
+Pearl
+Topaz
+Sapphire
+Spinel
+Block of Bronze
+Titanium Ore
+Block of Titanium
+Cardboard
+White Cardboard
+Light Gray Cardboard
+Gray Cardboard
+Black Cardboard
+Red Cardboard
+Orange Cardboard
+Yellow Cardboard
+Lime Cardboard
+Green Cardboard
+Light Blue Cardboard
+Cyan Cardboard
+Blue Cardboard
+Purple Cardboard
+Magenta Cardboard
+Pink Cardboard
+Brown Cardboard
+Campfire
+Campfire
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Stone Helmet
+Stone Chestplate
+Stone Leggings
+Stone Boots
+Titanium Helmet
+Titanium Chestplate
+Titanium Leggings
+Titanium Boots
+Oak Helmet
+Oak Chestplate
+Oak Leggings
+Oak Boots
+Spruce Helmet
+Spruce Chestplate
+Spruce Leggings
+Spruce Boots
+Birch Helmet
+Birch Chestplate
+Birch Leggings
+Birch Boots
+Jungle Helmet
+Jungle Chestplate
+Jungle Leggings
+Jungle Boots
+Acacia Helmet
+Acacia Chestplate
+Acacia Leggings
+Acacia Boots
+Dark Oak Helmet
+Dark Oak Chestplate
+Dark Oak Leggings
+Dark Oak Boots
+Rubber Wood Helmet
+Rubber Wood Chestplate
+Rubber Wood Leggings
+Rubber Wood Boots
+Cherry Wood Helmet
+Cherry Wood Chestplate
+Cherry Wood Leggings
+Cherry Wood Boots
+Dead Wood Helmet
+Dead Wood Chestplate
+Dead Wood Leggings
+Dead Wood Boots
+Ebony Wood Helmet
+Ebony Wood Chestplate
+Ebony Wood Leggings
+Ebony Wood Boots
+Ethereal Wood Helmet
+Ethereal Wood Chestplate
+Ethereal Wood Leggings
+Ethereal Wood Boots
+Eucalyptus Wood Helmet
+Eucalyptus Wood Chestplate
+Eucalyptus Wood Leggings
+Eucalyptus Wood Boots
+Fir Wood Helmet
+Fir Wood Chestplate
+Fir Wood Leggings
+Fir Wood Boots
+Hellbark Wood Helmet
+Hellbark Wood Chestplate
+Hellbark Wood Leggings
+Hellbark Wood Boots
+Jacaranda Wood Helmet
+Jacaranda Wood Chestplate
+Jacaranda Wood Leggings
+Jacaranda Wood Boots
+Magic Wood Helmet
+Magic Wood Chestplate
+Magic Wood Leggings
+Magic Wood Boots
+Mahogany Wood Helmet
+Mahogany Wood Chestplate
+Mahogany Wood Leggings
+Mahogany Wood Boots
+Mangrove Wood Helmet
+Mangrove Wood Chestplate
+Mangrove Wood Leggings
+Mangrove Wood Boots
+Palm Wood Helmet
+Palm Wood Chestplate
+Palm Wood Leggings
+Palm Wood Boots
+Pine Wood Helmet
+Pine Wood Chestplate
+Pine Wood Leggings
+Pine Wood Boots
+Redwood Wood Helmet
+Redwood Wood Chestplate
+Redwood Wood Leggings
+Redwood Wood Boots
+Sacred Oak Wood Helmet
+Sacred Oak Wood Chestplate
+Sacred Oak Wood Leggings
+Sacred Oak Wood Boots
+Umbran Wood Helmet
+Umbran Wood Chestplate
+Umbran Wood Leggings
+Umbran Wood Boots
+Willow Wood Helmet
+Willow Wood Chestplate
+Willow Wood Leggings
+Willow Wood Boots
+Desert Acacia Wood Helmet
+Desert Acacia Wood Chestplate
+Desert Acacia Wood Leggings
+Desert Acacia Wood Boots
+Balsa Wood Helmet
+Balsa Wood Chestplate
+Balsa Wood Leggings
+Balsa Wood Boots
+Baobab Wood Helmet
+Baobab Wood Chestplate
+Baobab Wood Leggings
+Baobab Wood Boots
+Cherry Wood Helmet
+Cherry Wood Chestplate
+Cherry Wood Leggings
+Cherry Wood Boots
+Chestnut Wood Helmet
+Chestnut Wood Chestplate
+Chestnut Wood Leggings
+Chestnut Wood Boots
+Citrus Wood Helmet
+Citrus Wood Chestplate
+Citrus Wood Leggings
+Citrus Wood Boots
+Cocobolo Wood Helmet
+Cocobolo Wood Chestplate
+Cocobolo Wood Leggings
+Cocobolo Wood Boots
+Ebony Wood Helmet
+Ebony Wood Chestplate
+Ebony Wood Leggings
+Ebony Wood Boots
+Giant Sequoia Wood Helmet
+Giant Sequoia Wood Chestplate
+Giant Sequoia Wood Leggings
+Giant Sequoia Wood Boots
+Greenheart Wood Helmet
+Greenheart Wood Chestplate
+Greenheart Wood Leggings
+Greenheart Wood Boots
+Ipe Wood Helmet
+Ipe Wood Chestplate
+Ipe Wood Leggings
+Ipe Wood Boots
+Kapok Wood Helmet
+Kapok Wood Chestplate
+Kapok Wood Leggings
+Kapok Wood Boots
+Larch Wood Helmet
+Larch Wood Chestplate
+Larch Wood Leggings
+Larch Wood Boots
+Lime Wood Helmet
+Lime Wood Chestplate
+Lime Wood Leggings
+Lime Wood Boots
+Mahoe Wood Helmet
+Mahoe Wood Chestplate
+Mahoe Wood Leggings
+Mahoe Wood Boots
+Mahogany Wood Helmet
+Mahogany Wood Chestplate
+Mahogany Wood Leggings
+Mahogany Wood Boots
+Maple Wood Helmet
+Maple Wood Chestplate
+Maple Wood Leggings
+Maple Wood Boots
+Padauk Wood Helmet
+Padauk Wood Chestplate
+Padauk Wood Leggings
+Padauk Wood Boots
+Palm Wood Helmet
+Palm Wood Chestplate
+Palm Wood Leggings
+Palm Wood Boots
+Papaya Wood Helmet
+Papaya Wood Chestplate
+Papaya Wood Leggings
+Papaya Wood Boots
+Pine Wood Helmet
+Pine Wood Chestplate
+Pine Wood Leggings
+Pine Wood Boots
+Plum Wood Helmet
+Plum Wood Chestplate
+Plum Wood Leggings
+Plum Wood Boots
+Poplar Wood Helmet
+Poplar Wood Chestplate
+Poplar Wood Leggings
+Poplar Wood Boots
+Sequoia Wood Helmet
+Sequoia Wood Chestplate
+Sequoia Wood Leggings
+Sequoia Wood Boots
+Teak Wood Helmet
+Teak Wood Chestplate
+Teak Wood Leggings
+Teak Wood Boots
+Walnut Wood Helmet
+Walnut Wood Chestplate
+Walnut Wood Leggings
+Walnut Wood Boots
+Wenge Wood Helmet
+Wenge Wood Chestplate
+Wenge Wood Leggings
+Wenge Wood Boots
+Willow Wood Helmet
+Willow Wood Chestplate
+Willow Wood Leggings
+Willow Wood Boots
+Zebrawood Wood Helmet
+Zebrawood Wood Chestplate
+Zebrawood Wood Leggings
+Zebrawood Wood Boots
+Bronze Pickaxe
+Bronze Axe
+Bronze Shovel
+Bronze Hoe
+Bronze Sword
+Bronze Shears
+Titanium Pickaxe
+Titanium Axe
+Titanium Shovel
+Titanium Hoe
+Titanium Sword
+Titanium Shears
+Bronze Hammer
+Titanium Hammer
+Bronze Spade
+Titanium Spade
+Bronze Axe
+Titanium Axe
+Bronze Sickle
+Titanium Sickle
+Desh Lumberaxe
+%1$s was scorched to death
+%1$s was scorched to death whilst trying to escape %2$s
+/confrats <player>
+You can't confrat yourself!
+* Confrats to %s - From %s
+/indeed [player]
+You can't agree with yourself!
+* 'Indeed' is what %s says because they agree with what %s just said!
+* 'Indeed' is what %s says because they agree!
+/:)
+* %s's face is currently in extreme pain because they are grinning too hard!
+/wail
+* %s is so extraordinarily sad that they wail loudly to no one in particular...
+/wak <player>
+You can't wak yourself!
+For no apparent reason %s has just wakked %s!
+/woo
+* %s is so excited that they shout 'WOOOOOO!'
+/mourn <player>
+You can't mourn yourself!
+* %s mourns the loss of %s and wails loudly to no one in particular...
+/sleep [player]
+You can't tell yourself to sleep!
+* 'GO TO SLEEP %s! Please...' is what %s says in dimension %s.
+* 'GO TO SLEEP! Please...' is what %s says in dimension %s.
+* 'I am sleeping...' is what %s says in dimension %s.
+You can't say that your sleeping without being in bed!
+You can't sleep in this dimension!
+You can only use this command at night!
+You can only tell others in the same dimension to sleep!
+/weba <player>
+You can't welcome yourself back!
+* %s is delighted to see %s and welcomes them back with a warm greeting!
+/emportant <message>
+* %s has an emportant message to announce to everyone: %s
+SurvivalPlus
+Enhanced Survival Experience
+SurvivalPlus Installation
+Download and Install SurvivalPlus
+coolsim thanks you for downloading SurvivalPlus!
+Be sure to check out the official SurvivalPlus Add-ons on CurseForge!
+Cheese Conquers All!
+Craft Cheese
+The Strongest Material of Them All
+Construct Cardboard from eight sticks
+The Ultimate Food of Power!
+Smelt Cheese Bread into its melted form
+Cake, But Cheese Flavoured!
+Wheat, sugar, milk, eggs and CHEESE!
+Unlimited Power!
+Place a Campfire
+Would you like a cupcake?
+Craft a Cheese Cupcake
+This is an old version of %s! Version %s is now available!
+Please click to download!
+%s no longer supports Minecraft Version %s! Please update to a newer Minecraft Version for more features!
+Click Here to Join the Official Discord Server for:
+Click to Join!
+[SurvivalPlus Creator]
+coolsim the grand creator of SurvivalPlus joined the game
+coolsim the grand creator of SurvivalPlus left the game
+coolsim has been killed too many times in a row and thus has not dropped a head!
+SurvivalPlus Config
+Enable Sponge Recipe
+Enable Galacticraft Cheese Block Recipe
+Enable IC2 Config Generation
+Disable SurvivalPlus Copper Ore Gen
+Disable SurvivalPlus Tin Ore Gen
+Disable SurvivalPlus Titanium Ore Gen
+Disable SurvivalPlus Amethyst Gen
+Disable SurvivalPlus Ruby Gen
+Disable SurvivalPlus Topaz Gen
+Disable SurvivalPlus Sapphire Gen
+Disable SurvivalPlus Pearl Gen
+Disable SurvivalPlus Spinel Gen
+Disable IC2 Industrial Credit EMC Value
+Enable Replace BOP Terrestrial Artifact Recipe
+Define the Permission Level of the Wak Command
+Disable SurvivalPlus Update Checker Message
+Disable Sounds Played Through sun.audio
+Disable SurvivalPlus Thank You Message

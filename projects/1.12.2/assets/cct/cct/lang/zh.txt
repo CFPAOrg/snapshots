@@ -1,0 +1,33 @@
+Custom Crafting Tables
+1x1
+2x2
+3x3
+4x4
+5x5
+6x6
+7x7
+8x8
+9x9
+10x10
+CCT 1x1
+CCT 2x2
+CCT 3x3
+CCT 4x4
+CCT 5x5
+CCT 6x6
+CCT 7x7
+CCT 8x8
+CCT 9x9
+CCT 10x10
+Crafting
+Crafting
+Crafting
+Crafting
+Crafting
+Crafting
+Crafting
+Crafting
+Crafting
+Crafting
+Inventory
+Custom Crafting Tables Config

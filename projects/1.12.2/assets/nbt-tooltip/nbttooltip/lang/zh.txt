@@ -1,0 +1,3 @@
+NBT Tooltip - Summary (%s)
+Client version
+Server version

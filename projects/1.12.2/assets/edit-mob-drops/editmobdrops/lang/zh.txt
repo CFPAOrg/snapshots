@@ -1,0 +1,1 @@
+/editmobdrops reloadconfig

@@ -1,0 +1,40 @@
+Burning Torch
+Burning Torch (Unlit)
+Burning Pumpkin (Unlit)
+Burning Pumpkin
+Chared Torch Remains
+Burning Torch Config
+Rain Update Rate
+Torch Burn Rate
+Relighting Torch Items
+Extinguishing Torch Items
+Torch Repair Items
+Rain Extinguishing
+Torch Light Level at State 5
+Torch Light Level at State 4
+Torch Light Level at State 3
+Torch Light Level at State 2
+Torch Light Level at State 1
+Torch Light Level When Unlit
+Torch Starting Decay Level
+Items Droped When Torch Broke
+Items Droped When Vanilla Torch Breaks
+Remove Vanilla Torch Recipe
+Vanilla Torch Drops
+Chance for Vanilla Torch Drops
+Toggle if placed torches are lit or unlit.
+Toggle if placed lit torches should start near by burnable objects on fire.
+Toggle if placed lit torches should burn entities standing on them.
+Pumpkin Light Level at State 5
+Pumpkin Light Level at State 4
+Pumpkin Light Level at State 3
+Pumpkin Light Level at State 2
+Pumpkin Light Level at State 1
+Pumpkin Light Level When Unlit
+Pumpkin Starting Decay Level
+Items Droped When Pumpkin Broke
+Items Droped When Vanilla Pumpkin Breaks
+Remove Vanilla Pumpkin Recipe
+Vanilla Pumpkin Drops
+Chance for Vanilla Pumpkin Drops
+Toggle if placed pumpkins are lit or unlit.

@@ -1,0 +1,5 @@
+%1$s was killed by the fog
+%1$s was killed by the fog whilst trying to escape %2$s
+Fog World Config
+Biome Blacklist
+Dimension Blacklist

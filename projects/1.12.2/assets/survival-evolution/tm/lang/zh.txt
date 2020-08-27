@@ -1,0 +1,93 @@
+Diamond Scythe
+Iron Scythe
+Gold Scythe
+Emerald Scythe
+Ender Star
+Life Essence
+Obsidian Ingot
+Extractor <§6Empty§r>
+Extractor <§6Soul Sand§r>
+Harrow
+Katana
+Katana <§cHarr§4owed§r>
+Extractor <§6Life Essence§r>
+§cHarr§4owed §rScythe
+§5End Sword
+PR-S Round
+Tiled Block
+Block of Nether Harrow
+Obsidian Bricks
+Harrow Bricks
+Resurrection Waypoint
+Energy Bricks
+Solar Extractor
+§b3§9D §bPrinter
+§bMatter Duplicator
+§eExperience §6Infuser
+§4Weapon Disassembler
+§aWeapon Assembler
+§5Painting §dTable
+§0Golden Age
+§0Emerald Age
+§0Stone Age
+Gun Shoots
+§rPR-2
+§rPR-4
+§rRailgun
+§c§oThe Harrowed Wrath
+§bC-Strike Nerf Retaliator
+§bC-Strike Nerf Retaliator <Holo Scope>
+§bC-Strike Nerf Retaliator <No Barrel>
+§bC-Strike Nerf Retaliator <No Attachments>
+§bC-Strike Nerf Retaliator <No Stock>
+§rPR-S
+Revolver
+§eRadiation
+§bEnergy
+Redstone Compressor
+Redstone Micro Chip
+Nether Star Core
+Harrow Core
+§rVial [§cEmpty§r]
+§rVial [§aHarrow§r]
+§rVial [§aEnergy§r]
+§rVial [§aRadiation§r]
+§rVial [§aHarrowed Energy§r]
+§cHarrowed Vial
+Shockblist Bullet
+Railgun Slug
+§9Eye Of the Guardians
+Withered Bone
+§eNetherstar Shard
+§9Guardian Helmet
+§8Wither Helmet
+§bChromatic Lense
+Carbon Fiber
+Goggles
+§bFlashdrive
+§cFlashdrive (Harrowed)
+§bChromatic Helmet
+§rVial [§aSolar Energy§r]
+§bPrinter Schematics
+§6Battery
+§9Heavy Battery
+§bMatter §9Crystal
+Reinforced Iron
+Nerf Dart
+Nerf Barrel
+Nerf Stock
+Nerf Scope
+Plastic
+§bChromatic Chestplate
+Camo Remover
+§rSpraypaint <§bCommander§r>
+§rSpraypaint <§bEnd§r>
+Bullet
+§rPR-2 <§5End§r>
+§rPR-2 <§6Commander§r>
+§rPR-4 <§5End§r>
+§rPR-4 <§6Commander§r>
+§rRailgun <§5End§r>
+§rRailgun <§6Commander§r>
+§rPR-S <§5End§r>
+§rPR-S <§6Commander§r>

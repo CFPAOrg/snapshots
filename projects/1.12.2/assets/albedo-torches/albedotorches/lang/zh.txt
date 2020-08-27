@@ -1,0 +1,33 @@
+Albedo Torches
+White Torch
+Orange Torch
+Magenta Torch
+Light Blue Torch
+Yellow Torch
+Lime Torch
+Pink Torch
+Gray Torch
+Silver Torch
+Cyan Torch
+Purple Torch
+Blue Torch
+Brown Torch
+Green Torch
+Red Torch
+Black Torch
+White Lamp
+Orange Lamp
+Magenta Lamp
+Light Blue Lamp
+Yellow Lamp
+Lime Lamp
+Pink Lamp
+Gray Lamp
+Silver Lamp
+Cyan Lamp
+Purple Lamp
+Blue Lamp
+Brown Lamp
+Green Lamp
+Red Lamp
+Black Lamp

@@ -1,0 +1,524 @@
+Shadow Legacy
+SL Decorative
+Shadow Ward
+Frostbite
+Hypothermia
+Defusion Ritual
+Exorcism Ritual
+Fusion Ritual
+Growth Ritual
+Transmutation Ritual
+Void Ritual
+Knowledge Ritual
+Arcane Basin
+Color:
+Colorless
+Black
+Red
+Green
+Brown
+Blue
+Purple
+Cyan
+Light Gray
+Gray
+Pink
+Lime
+Yellow
+Light Blue
+Magenta
+Orange
+White
+Ritual Reagent
+Ingredient
+Result
+Add Quest to Tracker
+Remove Quest from Tracker
+Exit Instance
+Enter Instance
+Complete Instance:
+Variant:
+No Template
+Shifting Items
+Not Shifting Items
+Cancel Research
+Generate new Puzzle
+Attempt Completion
+Force Completion With:
+Mirrors
+Splitters
+Dual Mirrors
+Previous Page
+Next Page
+Insufficient Mana
+Missing Required Research
+Magic does not work here
+Toggle Help Screen
+Dimension
+Activate block to mark location
+Resonates near Stone
+Mana Cost
+Corruption Cost
+Required Research
+Mana Discount
+Corruption Discount
+Right-Click to insert Mana
+Sneak + Right-Click to extract Mana
+Bound to your soul
+Bound to another's soul
+Stored Corruption:§d
+Stored Mana:§b
+Loading
+Loading.
+Loading..
+Loading...
+§l§2Activated
+§l§4Deactivated
+§6Left-Click to Toggle
+§eRight-Click to View Entry
+Mana Bar
+Control whether the Mana Bar should be visible or not!
+Quest Tracker
+Control whether the Quest Tracker should be visible or not!
+Contact Smelting
+Mined blocks are automatically smelted! (Where Applicable) (Stacks with Fortune)
+Bountiful Harvest
+Adds an additional level of fortune when mining blocks!
+Soft Hands
+Silk Touch when mining blocks!
+Step Assist
+Uphill step-assist makes full blocks climbable like stairs or slabs!
+Windswept
+Permanent Speed Boost effect! (Stacks with Beacons)
+Uplifted
+Permanent Jump Boost effect! (Stacks with Beacons)
+Far Reach
+Increase your Reach Distance, allowing you to break, place and interact with blocks from further away!
+Fists of Fury
+Massive unarmed damage boost, now you deal 4 damage per strike!
+Burning Hands
+Adds Fire Aspect to all melee attacks!
+Forceful Strike
+Adds Knockback to all melee attacks!
+Void Soul
+Regenerate your mana twice as fast!
+Swift Arm
+Permanent Haste effect! (Stacks with Beacons)
+Magnetic Core
+Sneak to magnet items towards you!
+Mystical Maintenance
+Held tools repair over time!
+Flurry
+Faster attack speeds make everything better!
+Aquatic
+Faster mining and longer hold breath time while in water!
+Poisoned Touch
+Adds Poison to all melee attacks!
+Alphos
+Berohs
+Centheros
+Daeteros
+Eatros
+Phataeroh
+Geatris
+Hohnari
+Inimi
+Jindoh
+Kaldohs
+Lindis
+Mioh
+Niruae
+Ohea
+Poiae
+Qweria
+Risu
+Siru
+Teatri
+Uaei
+Verios
+Wearoh
+Xandu
+Yannis
+Zaxi
+Planks
+Cobblestone
+Stone
+Bricks
+Big Bricks
+Cracked Big Bricks
+Chiseled Big Bricks
+Stone Tiles
+Prism Bricks
+Stone Panel
+Glowstone
+Lantern
+Lamp
+Planks
+Flat Block
+Big Tile
+Marbled Stone
+Marbled Bricks
+Marbled Big Bricks
+Plank Stairs
+Cobblestone Stairs
+Stone Stairs
+Brick Stairs
+Big Brick Stairs
+Cracked Big Brick Stairs
+Chiseled Big Brick Stairs
+Stone Tile Stairs
+Prism Brick Stairs
+Stone Panel Stairs
+Flat Block Stairs
+Big Tile Stairs
+Marbled Stone Stairs
+Marbled Brick Stairs
+Marbled Big Brick Stairs
+Plank Slab
+Cobblestone Slab
+Stone Slab
+Brick Slab
+Big Brick Slab
+Cracked Big Brick Slab
+Chiseled Big Brick Slab
+Stone Tile Slab
+Prism Brick Slab
+Stone Panel Slab
+Flat Block Slab
+Big Tile Slab
+Marbled Stone Slab
+Marbled Brick Slab
+Marbled Big Brick Slab
+Crystal Deposit
+Block Transmuter
+§BArcana Mysterium
+Arcane Chalk
+Mana-Infused Chalk
+Simple
+§9Damp
+§6Dense
+§4Searing
+§eFloating
+§lBright
+§7Murky
+§bPure
+Mana-Infused
+Elemental Dust
+Crystal
+Crystal Seed
+Crystal Pick
+Crystal Axe
+Crystal Shovel
+Crystal Hoe
+Crystal Sword
+Arcane Workbench
+Advanced Arcane Workbench
+Void Workbench
+Ritual Circle
+Arcane Basin
+Blank Plate
+Plate of Healing
+Plate of Defence
+Plate of Agility
+Plate of Combat
+Plate of Transposition
+Plate of Purity
+Plate of Change
+Mana-Infused Ingot
+Artifact
+Simple Amplification Rod
+Complex Amplification Rod
+Infused Amplification Rod
+Iron-Capped Simple Staff
+Gold-Capped Simple Staff
+Mana-Capped Simple Staff
+Iron-Capped Complex Staff
+Gold-Capped Complex Staff
+Mana-Capped Complex Staff
+Iron-Capped Infused Staff
+Gold-Capped Infused Staff
+Mana-Capped Infused Staff
+Iron-Capped Simple Staff
+Gold-Capped Simple Staff
+Mana-Capped Simple Staff
+Iron-Capped Complex Staff
+Gold-Capped Complex Staff
+Mana-Capped Complex Staff
+Iron-Capped Infused Staff
+Gold-Capped Infused Staff
+Mana-Capped Infused Staff
+Iron-Capped Simple Wand
+Gold-Capped Simple Wand
+Mana-Capped Simple Wand
+Iron-Capped Complex Wand
+Gold-Capped Complex Wand
+Mana-Capped Complex Wand
+Iron-Capped Infused Wand
+Gold-Capped Infused Wand
+Mana-Capped Infused Wand
+Iron-Capped Simple Wand
+Gold-Capped Simple Wand
+Mana-Capped Simple Wand
+Iron-Capped Complex Wand
+Gold-Capped Complex Wand
+Mana-Capped Complex Wand
+Iron-Capped Infused Wand
+Gold-Capped Infused Wand
+Mana-Capped Infused Wand
+§aEmerald Tablet
+§dMonutan's Stone
+Focusing Crystal
+Arcane Runestone
+Crystal Runestone
+Mirror
+Splitter
+Beam Emitter
+Beam Collector
+Dual Mirror
+Beam Blocker
+Glowing Anomaly
+Lordic Stone
+Crystal Block
+Spell Workbench
+Mana-Infused Metal Block
+Imbued Inscription Tile
+Arcane Bow
+Void Crystal
+Crystal
+Iron
+Copper
+Gold
+Tin
+Silver
+Lead
+Aluminum
+Zinc
+Nickel
+Titanium
+Osmium
+Platinum
+Arcane Forge
+Arcane Furnace
+Completed
+Locked
+Missing Required Research
+Obtainable
+§BNew Research Unlocked!
+§2Bius
+§5Alcheu
+§EElemthe
+§3Ceruke
+Basics
+Dusts
+Crystals
+Arcane Chalk
+Ritual Circles
+Crystal Tools
+Arcane Basin
+Celestial Reflection
+Arcane Plates
+Elemental Tools
+Basin Crafting
+Water Artifacts
+Earth Artifacts
+Fire Artifacts
+Air Artifacts
+Light Artifacts
+Dark Artifacts
+Block Transmutation
+Casting Staves
+Improved Staff Rods
+Ultimate Staff Rods
+Improved Staff Caps
+Ultimate Staff Caps
+Improved Chalk
+Casting Wands
+Rune Casting
+Advanced Runestones
+Advanced Workbench
+This page is hard to decipher, however I have seen the phrase §nElemental Crystals§r used a lot, perhaps I should be on the lookout for them, I imagine that once I have them in my hands things may start to make more sense.
+The parts of these pages that I can understand suggest that I should try §nDrawing with the Chalk§r seems a bit strange to me however there is this symbol which I believe isn't just a letter that I could try drawing.
+This is interesting, these pages suggest that there may be a §nRitual§r that can take this dust and turn it back into a crystal. I guess Monutan must have run into the same issue when collecting the crystals, anyway this seems to mention §nWater§r being used as a reagent of some sort.
+The Arcane Basin is a useful device although the process is rather slow, perhaps with continued study of its use I may theorise a way of making it easier.
+These elemental tools are pretty helpful however I suspect there may be a better medium for the powers which they hold, perhaps with some continued use of these effects I will find what I am looking for.
+These elemental tools are pretty helpful however I suspect there may be a better medium for the powers which they hold, perhaps with some continued use of these effects I will find what I am looking for.
+These elemental tools are pretty helpful however I suspect there may be a better medium for the powers which they hold, perhaps with some continued use of these effects I will find what I am looking for.
+These elemental tools are pretty helpful however I suspect there may be a better medium for the powers which they hold, perhaps with some continued use of these effects I will find what I am looking for.
+These elemental tools are pretty helpful however I suspect there may be a better medium for the powers which they hold, perhaps with some continued use of these effects I will find what I am looking for.
+These elemental tools are pretty helpful however I suspect there may be a better medium for the powers which they hold, perhaps with some continued use of these effects I will find what I am looking for.
+These staves seem  to have issues projecting more powerful spells, I suspect that the current design of amplification rod is struggling to properly maintain a good flow of energy. Perhaps with extended study I may be able to find out what I could do better.
+There are still some spells which the staves seem incapable of casting I will need to imagine an even better design for the rod.
+These staves are not too bad to use as melee weapons in combat, although it isn't their primary use it still could use some improvement. Maybe after some testing I will think of a better design.
+My last improvement to the staff caps was a good step though I think I can probably do better.
+This chalk doesn't last very long and I am sure there are plenty of rituals I will need to perform, I want to look into developing a better substance with which I could draw these circles.
+My expectations of Monutan turned out to be far from reality. All that was written of him told of his great exploits, guiding us to a better future. But he believes that the act of giving magic to us was his greatest mistake, he says that we were not ready and the war is a testament to this. I can see his point but I fear that the great shame he feels may cause more damage than he has already caused. My people from the kingdom of darkness claimed to have started this war to defend the honour of Monutan when he was removed from the High Council of the Los about 900 years ago. Mountan spoke of two different things which I should look at to start, some pages on §nchalk§r and the §nstrange crystal deposits§r scattered throughout this world. I wish this had been written using the modern glyphs since some of these pages will take time to translate and some... I don't even think I will be able to, for those I will need to do some field work.
+It seems that in my haste to collect these crystals I have damaged the structure, pulverizing them into a fine powder. I can still feel a decent amount of energy emanating from it however, perhaps if I could devise some way of §nseeding§r this I may be able to form a new crystal structure.
+Excellent, my attempts to translate this page have gone well, I now know how to craft a material that can be used to draw the symbols of the ancient los... Now I just need to work out how I want to make use of this.
+Indeed with great care I was able to draw one of the symbols described by this book, to my surprise it shifted as if with some strange energy. It seems that with the application of certain items the chalk shifts itself into a new pattern, then when the suitable reagents are added I can focus myself and behold as it changes before my very eyes. I will need to be careful though as I have noticed certain phenomena that point to some instabilities with the process. So far I know that I can use two different items to change the pattern of the circle. §nRedstone§r and §nGunpowder§r.
+Now I have the crystals in hand, I feel like I can make enough observations to translate these pages. Crystals can be used for all sorts it seems, and apparently an alternative way of forming them from the dust as well. This is excellent news, although the ritual to make them is simple it is time consuming, so despite this extra resource cost, it may be well worth it just for that alone.
+I have found that many of the materials of this world have great similarities to each other. It would therefore not be unlikely to suggest that perhaps there may be some way to convert these materials between different states. Another thing I have noticed is that some of these things have proven themselves as good building materials in terms of strength... but most of these could do with a little more colour. Anyway I think I have developed a good way of doing this with relative stability, it is more restricted than I had thought originally but it works for a good range of materials such as stone and planks.
+It seems that the resilience of these crystals makes them quite good for the creation of tools. I feel an amount of energy radiating from them, I wonder if they can somehow be improved to harness that energy in some way.
+My latest translation reveals a specific design of basin that I can use to mix together various reagents. It mentions also that I may be able to infuse the crystal dust with these fluids to focus its magical properties.
+Through my extensive studies so far I have devised a way to scale up my researching system to have applications beyond simple translation of these texts. I believe that it may well be possible to use the same devices to transmit signals over long distances, I am not yet sure what applications I may use this for but I can see it being useful.
+Thanks to my recent work with the arcane basin I have realised that these different elemental dusts store latent energy which can be released when combined with these slates. I have yet to discover the various uses for this but I can imagine that the results will be significant.
+Much like with the plates I have considered the idea of applying these elemental infusions to the crystalline tools I have been developing. I do believe that this will improve the effectiveness of them on the whole even if there may be some minor drawbacks here and there.
+Following my extensive usage of the Arcane Basin I believe that it may well be possible to simplify the process and use the Arcane Workbench to perform the same process, this discovery should increase the rate at which I can obtain the various materials previously only accessible via the basin.
+After my continued use of the Water based tools I have devised an artifact of sorts that exhibits similar properties. With it I can create water and if I am not mistake I seem to be able to breath underwater while holding it!
+After my continued use of the Earth based tools I have devised an artifact of sorts that exhibits similar properties. With it I am able to scan for valuables at a much greater distance, up to 48 blocks instead of the usual 3!
+After my continued use of the Earth based tools I have devised an artifact of sorts that exhibits similar properties. With it not only can I create fire at will but I am also immune to the damaging effects of it while I hold the item!
+After my continued use of the Earth based tools I have devised an artifact of sorts that exhibits similar properties. With it I am able to boost myself forward slightly in a direction while also being immune to falling damage!
+After my continued use of the Earth based tools I have devised an artifact of sorts that exhibits similar properties. With it I can not only create glowing anomalies but I am also able to highlight nearby creatures using its §nalternate effect§r!
+After my continued use of the Earth based tools I have devised an artifact of sorts that exhibits similar properties. With it I can teleport greater distances with a reduced cost of my own life and also am able to see in the dark while holding it!
+These pages speak of a device that can be used to concentrate the power of the elements into a new form, then using the strength of my will project forth this power manipulating the world around me. I have devised a form of crystal I could use to control how the energy is projected. I can see myself needing quite a few of these as time goes on so I may want to design some device to store them for quick changes. They also mention a §nNew Ritual using Pure Crystal Blocks§r, it says that this ritual will use my own experience to increase my mana, the more mana I have however the more experience I will need! §nRight click to equip a focus from inventory, shift + scroll to detach the focus.§r
+Some of these spells are incredibly powerful indeed however after studying their effects closely I believe I could create a stronger staff that could withstand a greater flow of energy.
+It seems that even with my previous improvements there is still more work to be done here, perhaps making use of this infused wood instead of standard wood I could make an even better rod for these staves.
+These staves do have some minor problems, since they are two handed tools I often find myself striking my foes in close quarters. The current iron caps for the staff are effective but I believe that I will be able to improve on this by using other metals such as gold.
+Perhaps gold was not the best choice for the caps, indeed after some investigation I believe that the infused metal I have been creating will work much better than any of my previous attempts.
+Thanks to my continual use of Arcane Chalk I believe I have an idea of how I could develop an improved version of it that automatically replenishes itself as it is used.
+Staves have proven themselves to be effective casting tools. However due to their two-handed nature they aren't as versatile as I would like, thus I have designed a smaller casting implement that can be used in one hand, it has a couple of drawbacks but on the whole could still be useful to me.
+My current methods of spell casting are effective although there is a great level of inconvenience, having to swap out focusing crystals constantly. These pages speak of an alternative way of spell casting, by carving a stone in an appropriate manner I will be able to use it as a casting device with the ability to hold multiple foci at once. §nRight click to equip a focus from inventory, shift + scroll to switch to next focus slot, shift + secondary effect + scroll to detach current focus.§r
+My research into the transmutation of stones has revealed an alternative medium to carve Runestones out of. This has a much greater strength and will be able to hold an additional three foci.
+Through continued use of my Arcane Workbench I believe that I can improve on my design, with the addition of some storage space I may well be able to improve the efficiency of my crafting. I also believe I have discovered a new type of ritual, using books as the catalyst I can create an item that can be used to translate a single piece of research from the book.
+My latest investigations into the powers I have control over reveals that with the correct focus I can launch creatures away from myself and with modification can pull them towards myself, I suspect that this will be an important skill to make use of in future.
+It was long believed that a Los was incapable of controlling more than on element, the existence of the Celestios and Avalos proved that in certain cases it was very possible. They have a unique ability to truly master their elements, but my latest findings suggest that it may be possible to have some slight control however slight over other elements.
+Applying spells directly to myself or to those closest isn't always ideal. By the looks of things there is a way I could focus more of my energy into a projectile of sorts that could carry the effects of my spell at a distance. This will prove to be a useful discovery, though I suspect there may be further modifications with more study.
+With some careful planning I believe I have developed a consistent way of tripling the output of the projectiles, by sacrificing the precise accuracy I should be able to do this without much additional effort. It should also be possible as an [Alternate Effect] to have the projectiles spread vertically instead.
+My previous methods made it quite difficult to actually hit my targets so I have devised an improved version of my projectile splitting ability, this too has it's [Alternate Effect]
+I believe that I may well have just developed a method which I could apply to my various spells to boost the distance over which they are effective, I don't think it will work with everything however.
+By reducing the amount of energy I put into creating these projectiles they seem to obey gravity.
+Projectiles are good and all, but the travel time involved can make it rather difficult to aim, not to mention that when they do arrive at their destination the area they affect can be a little small, with my latest thoughts I could generate a spell at a distant location without the need of a projectile to carry it there.
+These projectiles are useful, however they do have an issue in the sense that they are too easily stopped by obstacles, my latest ideas may allow me to develop a new type of projectile that not only pierces through multiple targets but increases the potency of the spell it carries.
+I have devised a more efficient way of transmitting my spells to their destination, using significantly less energy I am able to create a beam that carries the spell to where I am looking, it does however suffer from being short ranged.
+This latest discovery suggests that I may be able to cast spells on an area around myself, this could be a fairly useful discovery, and may well have some unusual uses when combined with certain spells.
+I think I might have gone a little too far this time, my latest idea is to have my Arc plan work both vertically and horizontally at once, this creates a full spread of projectiles, I doubt that these will be able to hold the same potency of spell as normal but they will make it much easier for me to hit my targets.
+My observation of those tall creatures revealed their ability to teleport is in fact a form of dark magic, the type of which I am proficient. As a result I believe that I may well be able to replicate these methods in the form of a spell without the drawbacks.
+I have discovered a way to refine the energy that I can strike my foes with, although it has less raw power it is able to pierce through non-magical armour with ease.
+Monutan's writings about our universe are hard to understand even after I have translated them, he speaks of a place beyond where the negative energy produced when we cast spells collects. He calls it The Void and with correct application of force it is possible to manipulate this energy.
+After extensive research I believe I have happened upon an extremely powerful spell which has the strange ability to create a miniature black hole attuned to pull in entities. It is effective on animals and hostile creatures, and is also effective on people so long as they are not crouched, I can think of a few useful applications for this spell.
+By increasing the energy I put to my spells I can increase the potency, this can have a variety of different effects depending on the spell in question.
+With refined focus I can improve the efficiency of my spell casting.
+My work on the AOE focus has proven to be quite useful, however due to it's nature the range over which it acts is less than I desired. With a slight modification I have devised a similar style of focus which allows the projection of energy in a more directed form. This spell has a much greater range than AOE but will only affect targets in front of me. The aiming is a little strange but it can be effective when used properly.
+My studies of elemental magic have fascinated me so far. I believe that by combining the power of digging and flame I can make a new spell type which causes a small explosion at the target.
+My discovery of projectiles as a medium for spell casting has given me an idea... What if I were to make some form of bow that could use the arrows it fires as a medium? This idea is untested but I believe it may lead to some interesting results. It functions the same as a staff in terms of equipping and un-equipping the focus but it will ignore whatever targeting type I put on the focus.
+My ability to hold an amount of mana within my own body allows me to do many powerful things, however due to this very thing it makes it hard to develop an automatic process. I suspect that it may well be possible to create a container for mana that can be used by certain devices to process resources.
+My success in developing Void Crystals has given me a few ideas, with the right application of energy in the form of heat, I can perform fusion recipes automatically! I believe it may also be possible to refine the various minerals I can find around the world.
+If what I read here is correct it should well be possible to create a furnace that runs off of the energy stored within a void crystal. Not only will this allow for continuous use but it means that I can also accelerate the process of smelting materials greatly.
+Impulse Spells
+Elemental Spells
+Projectiles
+Trinity
+Arc
+Range Modifier
+Lobbing Modifiers
+Advanced Targeting
+Javelin
+Channeling
+AOE Targeting
+Projectile Scattering
+Blink
+Shadow Strike
+Void Damage
+Gravity Well
+Spell Amplification
+Spell Efficiency
+Disk
+Blasting
+Arcane Archery
+Void Energy
+Arcane Forge
+Arcane Furnace
+§BBasin Recipes Completed:
+§BWater Tool Effects Used:
+§BEarth Tool Effects Used:
+§BFire Tool Effects Used:
+§BFalls Survived:
+§BLight Tool Effects Used:
+§BDark Tool Effects Used:
+§BSpells Cast with Staff:
+§BSpells Cast with Staff (Mana Cost > 2):
+§BMobs hit with Staff:
+§BMobs hit with Staff (Golden Caps):
+§BRitual Circles Drawn:
+Help Screen
+To complete the research you simply have to redirect the beam using the provided mirrors such that it reaches all of the end points at once. Mirrors are placed by Left-Clicking them onto a tile, they can be removed by holding Shift while Left-Clicking. Mirrors can be rotated using the mouse wheel (This can be done in the placement preview and even on already placed mirrors), or by Right-Clicking placed ones (Holding shift when Right-Clicking will rotate the mirror the other way). Holding Shift while scrolling on an empty tile will cycle through the mirror types, you can also just click on the buttons to change the type.
+Current Objective
+Meeting of Minds
+Open your quest journal (Default: X)
+Start Instance: Arcane Creator
+Finish Instance: Arcane Creator
+Translate the Arcana Mysterium
+Arcane Creator
+§cNo valuable blocks detected!
+§BInsufficient Levels!
+froze to death
+became waterlogged
+returned to the earth
+became ash
+was blown away
+became drained
+lost their mind
+was consumed by shadows
+fused with the void
+Current:§B
+Targeting
+Spell
+Modifier
+Current Spell:
+Self
+Touch
+Projectile
+Selected Block
+AOE
+Trinity
+Arc
+Javelin
+Scatter
+Channeling
+Disk
+Amplified
+Ranged
+Frugal
+Lobbing
+Healing
+Regeneration
+Blink
+Dig
+Pull
+Push
+Lift
+Frost
+Flame
+Dark Damage
+Shadow Damage
+Void Damage
+Gravity Well
+Blasting
+Maximum Spell Cost
+Insufficient Rod Strength!
+Requires Both Hands!
+Cannot cast with Wand!
+Refocus Crystal
+Missing Focusing Crystal
+Invalid Spell
+You... you are not the Thelos! how have you managed to contact me?
+I did not mean to intrude.
+I came seeking advice.
+I am not one who can be easily contacted, your ability to do so can hardly be coincidental.
+Magic is a mysterious thing.
+Perhaps we were fated to meet?
+Indeed, and that is why we must take care when attempting to work alongside it.
+Could I ask for some advice?
+An interesting conjecture. But there must be some purpose for why we have met, why would you wish to meet me?
+I suppose I would seek advice.
+Why would you wish to have my advice, surely you know who I am seeing as you came here with a purpose?
+You are Monutan, the creator of magic.
+I wish to learn magic from you.
+Then you should know that I left the High Council of Overlords in disgrace. I am a fool and should never have given the power of the elements to the Los, for if I had not, we would not have lived through these near 1000 years of hostility between the different nations of the Los.
+I wish to stop the war.
+I have the mistake of giving my power to the Los once before, why should I offer you more power?
+I wish to stop the war.
+And why should I trust you? You belong to the Nation of Darkness, why should you wish to see this war end with neither the Cosmics or Naturals victorious?
+There is no victory to find here.
+You do show much wisdom... Perhaps I am mistaken. However I have learned much from the past and so I shall not teach you directly, you see to do that would be to give you power you have not truly earned, I see in you the potential to do great things and so I will instead set you a task. Translate this text The Arcana Mysterium, my book of knowledge compiled from my discoveries throughout the first era. In translating it you will learn not only how to fully master the element of darkness but also gain some understanding of the others.
+I shall accept this task of yours.
+Monutan

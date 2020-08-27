@@ -1,0 +1,505 @@
+NovaBlocks
+Spacesuit helmet
+Spacesuit
+Spacesuit pants
+Spacesuit boots
+Wrenchammer
+Roof railing
+Roof walling
+Guard rail
+White concrete slab
+Double white concrete slab
+Black concrete slab
+Double black concrete slab
+Blue concrete slab
+Double blue concrete slab
+Orange concrete slab
+Double orange concrete slab
+Light blue concrete slab
+Double light Blue concrete slab
+Light gray concrete slab
+Double light gray concrete slab
+Red concrete slab
+Double red concrete slab
+Magenta concrete slab
+Double magenta concrete slab
+Green concrete slab
+Double green concrete slab
+Brown concrete slab
+Double brown concrete slab
+Yellow concrete slab
+Double yellow concrete slab
+Lime concrete slab
+Double lime concrete slab
+Cyan concrete slab
+Double cyan concrete slab
+Purple concrete slab
+Double purple concrete slab
+Gray concrete slab
+Double gray concrete slab
+Pink concrete slab
+Double pink concrete slab
+Hazard slab
+Double danger slab
+Oak log slab
+Double oak log slab
+Birch log slab
+Double birch log slab
+Spruce log slab
+Double spruce log slab
+Jungle log slab
+Double jungle log slab
+Acacia log slab
+Double acacia log slab
+Dark oak log slab
+Double dark oak log slab
+Stone slab
+Double stone slab
+Mossy stone bricks slab
+Double mossy stone bricks slab
+Cracked stone bricks slab
+Double cracked stone bricks slab
+Chiseled stone slab
+Double chiseled stone slab
+Coarse dirt slab
+Andesite slab
+Polished andesite slab
+Granite slab
+Polished granite slab
+Diorite slab
+Polished diorite slab
+Gravel slab
+Sand slab
+Red sand slab 
+Smooth sandstone slab
+Carved sandstone slab
+Red smooth sandstone slab
+Red carved sandstone slab 
+Mossy cobblestone slab
+Clay slab
+Netherrack slab
+Soulsand slab
+Red nether brick slab
+Endstone slab
+End brick slab
+Prismarine slab
+Prismarine brick slab
+Dark prismarine slab
+Bone slab
+Nether wart slab
+Hay slab
+Double coarse dirt slab
+Double andesite slab
+Double polished andesite slab
+Double granite slab
+Double polished granite slab
+Double diorite slab
+Double polished diorite slab
+Double gravel slab
+Double sand slab
+Double red sand slab 
+Double smooth sandstone slab
+Double carved sandstone slab
+Double red smooth sandstone slab
+Double red carved sandstone slab 
+Double mossy cobblestone slab
+Obsidian slab
+Double obsidian slab
+Snow slab
+Double snow slab
+Double clay slab
+Double netherrack slab
+Double soulsand slab
+Double red nether brick slab
+Double endstone slab
+Double end brick slab
+Double prismarine slab
+Double prismarine brick slab
+Double dark prismarine slab
+Double bone slab
+Double nether wart slab
+Double hay slab
+Red metal slab
+Double red metal slab
+Rust slab
+Double rust slab
+White concrete stairs
+Black concrete stairs
+Blue concrete stairs
+Brown concrete stairs
+Light blue concrete stairs
+Light gray concrete stairs
+Green concrete stairs
+Gray concrete stairs
+Orange concrete stairs
+Purple concrete stairs
+Pink concrete stairs
+Red concrete stairs
+Lime concrete stairs
+Yellow concrete stairs
+Cyan concrete stairs
+Magenta concrete stairs
+Hazard stairs
+Stone stairs
+Mossy stone bricks stairs
+Cracked stone bricks stairs
+Chiseled stone bricks stairs
+Oak log stairs
+Birch log stairs
+Spruce log stairs
+Jungle log stairs
+Acacia log stairs
+Dark oak log stairs
+Coarse dirt stairs
+Andesite stairs
+Polished andesite stairs
+Granite stairs
+Polished granite stairs
+Diorite stairs
+Polished diorite stairs
+Gravel stairs
+Sand stairs
+Red sand stairs
+Smooth sandstone stairs
+Carved sandstone stairs
+Red smooth sandstone stairs
+Red carved sandstone stairs
+Mossy cobblestone stairs
+Snow stairs
+Obsidian stairs
+Clay stairs
+Netherrack stairs
+Soulsand stairs
+Red nether brick stairs 
+Endstone stairs
+End brick stairs
+Prismarine stairs
+Prismarine brick stairs
+Dark prismarine stairs
+Bone stairs
+Nether wart stairs
+Hay stairs
+Red metal stairs
+Rusty metal stairs
+Coarse dirt slope
+Andesite slope
+Polished andesite slope
+Granite slope
+Polished granite slope
+Diorite slope
+Polished diorite slope 
+Gravel slope
+Sand slope
+Red sand slope
+Sandstone slope
+Cut sandstone slope
+Chiseled sandstone slope
+Red sandstone slope
+Red cut sandstone slope
+Red chiseled sandstone slope
+Mossy cobblestone slope
+Obsidian slope
+Snow slope
+Clay slope
+Netherrack slope
+Soulsand slope
+Nether brick slope
+Red nether brick slope
+Endstone slope
+End brick slope
+Prismarine slope
+Prismarine brick slope
+Dark prismarine slope
+Bone slope
+Nether wart slope 
+Hay slope
+Coarse dirt half slope
+Andesite half slope
+Polished andesite half slope
+Granite half slope
+Polished granite half slope
+Diorite half slope
+Polished diorite half slope 
+Gravel half slope
+Sand half slope
+Red sand half slope
+Sandstone half slope
+Cut sandstone half slope
+Chiseled sandstone half slope
+Red sandstone half slope
+Red cut sandstone half slope
+Red chiseled sandstone half slope
+Mossy cobblestone half slope
+Obsidian half slope
+Snow half slope
+Clay half slope
+Netherrack half slope
+Soulsand half slope
+Nether brick half slope
+Red nether brick half slope
+Endstone half slope
+End brick half slope
+Prismarine half slope
+Prismarine brick half slope
+Dark prismarine half slope
+Bone half slope
+Nether wart half slope 
+Hay half slope
+Red metal half slope
+Rusty metal half slope
+Red metal slope
+Rusty metal slope
+Modern full door
+Iron beam
+Copper beam
+Steel beam
+Aluminium beam
+Hazard beam
+Oak structure
+Birch structure
+Spruce structure
+Jungle structure
+Dark oak structure
+Acacia structure
+Red metal beam
+Rusty metal beam
+Hazard block
+Red metal block
+Rusty metal block
+Red metal platform
+White concrete slope
+Orange concrete slope
+Magenta concrete slope
+Light blue concrete slope
+Yellow concrete slope
+Lime concrete slope
+Pink concrete slope
+Gray concrete slope
+Light gray concrete slope
+Cyan concrete slope
+Purple concrete slope
+Blue concrete slope
+Brown concrete slope
+Green concrete slope
+Red concrete slope
+Black concrete slope
+Oak slope
+Birch slope
+Spruce slope
+Jungle slope
+Dark oak slope
+Acacia slope
+Stone slope
+Cobblestone slope
+Stone bricks slope
+Mossy stone bricks slope
+Cracked stone bricks slope
+Chiseled stone bricks slope
+Bricks slope
+Terracotta stairs
+Terracotta slope
+Terracotta slab
+White terracotta stairs
+White terracotta slope
+White terracotta slab
+Orange terracotta stairs
+Orange terracotta slope
+Orange terracotta slab
+Magenta terracotta stairs
+Magenta terracotta slope
+Magenta terracotta slab
+Gray terracotta stairs
+Gray terracotta slope
+Gray terracotta slab
+Light gray terracotta stairs
+Light gray terracotta slope
+Light gray terracotta slab
+Light blue terracotta stairs
+Light blue terracotta slope
+Light blue terracotta slab
+Blue terracotta stairs
+Blue terracotta slope
+Blue terracotta slab
+Purple terracotta stairs
+Purple terracotta slope
+Purple terracotta slab
+Green terracotta stairs
+Green terracotta slope
+Green terracotta slab
+Pink terracotta stairs
+Pink terracotta slope
+Pink terracotta slab
+Red terracotta stairs
+Red terracotta slope
+Red terracotta slab
+Black terracotta stairs
+Black terracotta slope
+Black terracotta slab
+Cyan terracotta stairs
+Cyan terracotta slope
+Cyan terracotta slab
+Lime terracotta stairs
+Lime terracotta slope
+Lime terracotta slab
+Yellow terracotta stairs
+Yellow terracotta slope
+Yellow terracotta slab
+Brown terracotta stairs
+Brown terracotta slope
+Brown terracotta slab
+White wool stairs
+White wool slope
+White wool slab
+Orange wool stairs
+Orange wool slope
+Orange wool slab
+Magenta wool stairs
+Magenta wool slope
+Magenta wool slab
+Gray wool stairs
+Gray wool slope
+Gray wool slab
+Light gray wool stairs
+Light gray wool slope
+Light gray wool slab
+Light blue wool stairs
+Light blue wool slope
+Light blue wool slab
+Blue wool stairs
+Blue wool slope
+Blue wool slab
+Purple wool stairs
+Purple wool slope
+Purple wool slab
+Green wool stairs
+Green wool slope
+Green wool slab
+Pink wool stairs
+Pink wool slope
+Pink wool slab
+Red wool stairs
+Red wool slope
+Red wool slab
+Black wool stairs
+Black wool slope
+Black wool slab
+Cyan wool stairs
+Cyan wool slope
+Cyan wool slab
+Lime wool stairs
+Lime wool slope
+Lime wool slab
+Yellow wool stairs
+Yellow wool slope
+Yellow wool slab
+Brown wool stairs
+Brown wool slope
+Brown wool slab
+Dirt stairs
+Dirt slope
+Dirt slab
+Iron block stairs
+Iron block slope
+Iron block slab
+Gold block stairs
+Gold block slope
+Gold block slab
+Coal block stairs
+Coal block slope
+Coal block slab
+Emerald block stairs
+Emerald block slope
+Emerald block slab
+Diamond block stairs
+Diamond block slope
+Diamond block slab
+Lapis block stairs
+Lapis block slope
+Lapis block slab
+Redstone block stairs
+Redstone block slope
+Redstone block slab
+Concrete half slope
+Terracotta half slope
+White concrete half slope
+Orange concrete half slope
+Magenta concrete half slope
+Light blue concrete half slope
+Yellow concrete half slope
+Lime concrete half slope
+Pink concrete half slope
+Gray concrete half slope
+Light gray concrete half slope
+Cyan concrete half slope
+Purple concrete half slope
+Blue concrete half slope
+Brown concrete half slope
+Green concrete half slope
+Red concrete half slope
+Black concrete half slope
+Oak half slope
+Birch half slope
+Spruce half slope
+Jungle half slope
+Dark oak half slope
+Acacia half slope
+White wool half slope
+White terracotta half slope
+Orange wool half slope
+Orange terracotta half slope
+Magenta wool half slope
+Magenta terracotta half slope
+Light blue wool half slope
+Light blue terracotta half slope
+Yellow wool  half slope
+Yellow terracotta  half slope
+Lime wool half slope
+Lime terracotta half slope
+Pink wool half slope
+Pink terracotta half slope
+Gray wool half slope
+Gray terracotta half slope
+Light gray wool half slope
+Light gray terracotta half slope
+Cyan wool half slope
+Cyan terracotta half slope
+Purple wool half slope
+Purple terracotta half slope
+Blue wool half slope
+Blue terracotta half slope
+Brown wool half slope
+Brown terracotta half slope
+Green wool half slope
+Green terracotta half slope
+Red wool half slope
+Red terracotta half slope
+Black wool half slope
+Black terracotta half slope
+Dirt half slope
+Coal block half slope
+Iron block half slope
+Gold block half slope
+Lapis block half slope
+Redstone block half slope
+Diamond block half slope
+Emerald block half slope
+Cobblestone half slope
+Stone half slope
+Stone bricks half slope
+Mossy stone bricks half slope
+Cracked stone bricks half slope
+Chiseled stone bricks half slope
+Bricks half slope
+Iron pole
+Siren
+Modern lever
+This beam has reached its minimum connection points.
+Alarm 1 selected (12.5s)
+Alarm 2 selected (15s)
+Alarm 3 selected (2s)
+NovaBlocks Configuration
+Armors
+All armors configurations.
+Spacesuit gravity effect
+Spacesuit Gravity Effect
+State of the gravity effect of the spacesuit.

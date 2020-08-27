@@ -1,0 +1,28 @@
+Infinite Cobblestone Generator
+Remote ENetwork Controller
+Remote ENetwork Input Port
+Remote ENetwork Output Port
+Remote ENetwork Wireless Transmitter
+Energy Storage Upgrade (Capacity)
+Energy Storage Upgrade (IO Limit)
+Orb of Transmutations
+Basic Exchanger
+Advanced Exchanger
+Illuminator (Basic)
+Debug Tool
+Current radius:
+Cannot exchange a tile entity!
+Block code name:
+BlockState properties:
+TileEntity NBT:
+Usage: /ansm_debug <option> [appends...]
+Item CodeID: 
+Item Meta: 
+Item NBT: 
+Scan nearby tiles
+Started scanning...
+Power Receivers:
+General Settings
+Exchanger Config
+ENetwork Config
+Client - GUI Style

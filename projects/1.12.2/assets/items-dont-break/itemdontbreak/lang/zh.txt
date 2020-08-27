@@ -1,0 +1,5 @@
+BROKEN!
+Approx. %d uses left
+%d durability
+%d durability (approx. %d uses left)
+%d durability (disabled)

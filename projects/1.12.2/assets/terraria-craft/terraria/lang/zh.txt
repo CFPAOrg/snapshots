@@ -1,0 +1,1035 @@
+Terraria Craft: Items
+Terraria Craft: Tools
+Terraria Craft: Weapons
+Terraria Craft: Accessories
+Terraria Craft: Blocks
+Terraria Craft: Armor
+Terraria World
+Achievements
+Terrarian Music
+Terrarian Ambience
+You were slain...
+Change World Curse
+World Size: %s
+Expert Mode: %s
+ON
+OFF
+Tiny
+Small
+Medium
+Large
+Humongous
+Terraria Crafting
+<B>
+Alchemical Station
+<T>
+Any Furnace
+Hellforge (or better)
+Adamantite/Titanium Forge
+<T>
+Any Anvil
+Mythril/Orichalcum Anvil
+Table and Chair
+Crafting
+item crafted
+Whoopie Cushion
+Iron Bar
+Gold Bar
+Copper Bar
+Tin Bar
+Lead Bar
+Silver Bar
+Tungsten Bar
+Platinum Bar
+Crimtane Bar
+Demonite Bar
+Meteorite Bar
+Hellstone Bar
+Hallowed Bar
+Chlorophyte Bar
+Cobalt Bar
+Adamantite Bar
+Mythril Bar
+Orichalcum Bar
+Palladium Bar
+Titanium Bar
+Shroomite Bar
+Spectre Bar
+Luminite Bar
+Copper Coin
+Silver Coin
+Gold Coin
+Platinum Coin
+Mana Crystal
+Mana Star
+Heart
+Flower of Fire
+Band of Regeneration
+Band of Starpower
+Mana Regeneration Band
+Hermes Boots
+Wand of Sparking
+Fallen Star
+Aglet
+Cloud in a Bottle
+Fart in a Jar
+Lens
+Black Lens
+Wooden Arrow
+Flaming Arrow
+Jester's Arrow
+Venom Arrow
+Copper Pickaxe
+Lead Pickaxe
+Tin Pickaxe
+Silver Pickaxe
+Tungsten Pickaxe
+Gold Pickaxe
+Platinum Pickaxe
+Nightmare Pickaxe
+Deathbringer Pickaxe
+Molten Pickaxe
+Cobalt Pickaxe
+Palladium Pickaxe
+Copper Axe
+Lead Axe
+Tin Axe
+Silver Axe
+Tungsten Axe
+Copper Broadsword
+Lead Broadsword
+Tin Broadsword
+Silver Broadsword
+Tungsten Broadsword
+Enchanted Sword
+Starfury
+Copper Bow
+Lead Bow
+Tin Bow
+Silver Bow
+Tungsten Bow
+Lesser Healing Potion
+Lesser Mana Potion
+Spelunker Potion
+Water Bottle
+Regeneration Potion
+Mining Potion
+Healing Potion
+Mana Potion
+Greater Healing Potion
+Ammo Reservation Potion
+Greater Mana Potion
+Super Healing Potion
+Super Mana Potion
+Wire
+Blinkroot
+Waterleaf
+Moonglow
+Deathweed
+Fireblossom
+Shiverthorn
+Gel
+Pink Gel
+Daybloom
+Antlion Mandible
+Pixie Dust
+Unicorn Horn
+World Info Editor
+Wire Cutter
+Red Wrench
+Green Wrench
+Blue Wrench
+Yellow Wrench
+Purple Wrench
+Soul of Night
+Soul of Might
+Soul of Light
+Soul of Sight
+Soul of Fright
+Soul of Flight
+Nebula Fragment
+Solar Fragment
+Stardust Fragment
+Vortex Fragment
+Magic Mirror
+Ice Mirror
+Feather
+Shadow Scale
+Tissue Sample
+Silk
+Stinger
+Slime Staff
+Ectoplasm
+Obsidian Skull
+Water Walking Boots
+Obsidian Water Walking Boots
+Anklet of the Wind
+Grass Seeds
+Mushroom Grass Seeds
+Sandstorm in a Bottle
+Blizzard in a Bottle
+Tsunami in a Bottle
+Angel Wings
+Fairy Wings
+Ice Skates
+Pink Prickly Pear
+Acorn
+Sailfish Boots
+Red Dye
+Orange Dye
+Yellow Dye
+Lime Dye
+Green Dye
+Teal Dye
+Cyan Dye
+Sky Blue Dye
+Blue Dye
+Purple Dye
+Violet Dye
+Pink Dye
+Rainbow Dye
+Jungle Seeds
+Nature's Gift
+Jungle Rose
+Amber
+Diamond
+Ruby
+Emerald
+Sapphire
+Topaz
+Amethyst
+Swiftness Potion
+Ironskin Potion
+Recall Potion
+Black Thread
+Green Thread
+Pink Thread
+Shine Potion
+Wood Helmet
+Wood Breastplate
+Wood Greaves
+Rich Mahogany Helmet
+Rich Mahogany Breastplate
+Rich Mahogany Greaves
+Vicious Powder
+Vile Powder
+Sunglasses
+Makes you look cool!
+Cactus Pickaxe
+Cactus Sword
+Bone Pickaxe
+Candy Cane Pickaxe
+Bone Sword
+Iron Bow
+Gold Bow
+Marrow
+Gold Axe
+Platinum Axe
+Wooden Hammer
+Copper Hammer
+Tin Hammer
+Iron Hammer
+Lead Hammer
+Silver Hammer
+Tungsten Hammer
+Gold Hammer
+Arkhalis
+Bottle
+Bottle
+Bottle
+Copper Shortsword
+Tin Shortsword
+Iron Shortsword
+Lead Shortsword
+Silver Shortsword
+Tungsten Shortsword
+Gold Shortsword
+Platinum Shortsword
+Demon Wings
+Zeith's Paws
+FLamb's Wings
+Jae's Wings
+Ganza's Wings
+Space Gun
+Magic Power Potion
+Jae's Glock
+Jar's Jar
+Jar's Cosmic Suit
+Jar's Cosmic Leggings
+Wooden Sword
+Boreal Wood Sword
+Palm Wood Sword
+Rich Mahogany Sword
+Ebonwood Sword
+Shadewood Sword
+Pearlwood Sword
+Gold Broadsword
+Platinum Broadsword
+Light's Bane
+Muramasa
+Fiery Greatsword
+Blade of Grass
+Blood Butcherer
+Night's Edge
+Zeith's Headsuit
+Zeith's Bodysuit
+Zeith's Feetpaws
+Oh no, a furry!
+Star Cannon
+Musket Ball
+Minishark
+Mining Helmet
+Mining Shirt
+Mining Pants
+Ganza's Mind
+Ganza's Enlightenment
+Ganza's Curse
+Musket
+Boomstick
+Revolver
+Vortex Beater
+Meteor Shot
+Silver Bullet
+Crystal Bullet
+Chlorophyte Bullet
+Cursed Bullet
+Cursed Flame
+Worm Tooth
+Unholy Arrow
+Hellfire Arrow
+Cursed Arrow
+Vial of Venom
+Bezoar
+Lucky Horseshoe
+Grenade
+Bomb
+Tungsten Helmet
+Tungsten Chainmail
+Tungsten Greaves
+Dynamite
+Builder Potion
+Water Walking Potion
+Shark Fin
+Shuriken
+Glowstick
+Bouncy Glowstick
+Sticky Glowstick
+Handgun
+Throwing Knife
+Poisoned Knife
+Bouncy Grenade
+Sticky Grenade
+Bouncy Bomb
+Sticky Bomb
+Bouncy Dynamite
+Sticky Dynamite
+Golden Key
+Herb Bag
+Guide to Plant Fiber Cordage
+Blindfold
+Rainbow Sword
+Rotten Chunk
+Leather
+Vertebra
+Copper Helmet
+Copper Chainmail
+Copper Greaves
+Tin Helmet
+Tin Chainmail
+Tin Greaves
+Iron Helmet
+Iron Chainmail
+Iron Greaves
+Ancient Iron Helmet
+Ancient Shadow Helmet
+Ancient Shadow Scalemail
+Ancient Shadow Greaves
+Lead Helmet
+Lead Chainmail
+Lead Greaves
+Silver Helmet
+Silver Chainmail
+Silver Greaves
+Gold Helmet
+Gold Chainmail
+Gold Greaves
+Ancient Gold Helmet
+Platinum Helmet
+Platinum Chainmail
+Platinum Greaves
+Molten Helmet
+Molten Breastplate
+Molten Greaves
+Ashryman's Helm of Infamy
+Ashryman's Chest of Valor
+Ashryman's Boots of Triumph
+Once worn by a hero consumed by the spirits of darkness
+Ashryman's Wings of Glory
+Boreal Wood Helmet
+Boreal Wood Breastplate
+Boreal Wood Greaves
+Palm Wood Helmet
+Palm Wood Breastplate
+Palm Wood Greaves
+Ebonwood Helmet
+Ebonwood Breastplate
+Ebonwood Greaves
+Shadewood Helmet
+Shadewood Breastplate
+Shadewood Greaves
+The Last Wish
+Gravitation Potion
+Shadow Helmet
+Shadow Scalemail
+Shadow Greaves
+Iron Axe
+War Axe of the Night
+Blood Lust Cluster
+Ninja Hood
+Ninja Shirt
+Ninja Pants
+15%% increased throwing velocity
+15%% increased throwing damage
+10%% increased throwing critical strike chance
+Ancient Cobalt Helmet
+Ancient Cobalt Breastplate
+Ancient Cobalt Leggings
+Increases maximum mana by 40</br>4%% increased magic critical strike chance
+Increases maximum mana by 20</br>4%% increased magic critical strike chance
+Increases maximum mana by 20</br>4%% increased magic critical strike chance
+The Undertaker
+Gladiator Helmet
+Gladiator Breastplate
+Gladiator Leggings
+Jungle Hat
+Jungle Shirt
+Jungle Pants
+Vine
+Rain Hat
+Rain Coat
+Turtle Shell
+Ancient Cloth
+Bee Wax
+Beetle Husk
+Gold Dust
+Ichor
+Empty Bullet
+Forbidden Fragment
+Explosive Powder
+Frost Core
+Snow Hood
+Snow Coat
+Snow Pants
+Pink Snow Hood
+Pink Snow Coat
+Pink Snow Pants
+Bloody Tear
+Solar Tablet Fragment
+Solar Tablet
+Holy Hand Grenade
+%,d defense
+30%% increased mining speed
+%,d%% extra melee damage
+%,d%% chance to not consume thrown item
+Redstone Transceiver
+Work Bench
+Clay Pot
+Bottle
+Furnace
+Torch
+Blue Pressure Plate
+Brown Pressure Plate
+Gray Pressure Plate
+Green Pressure Plate
+Yellow Pressure Plate
+Red Pressure Plate
+Waterleaf Seeds
+Blinkroot Seeds
+Moonglow Seeds
+Deathweed Seeds
+Shiverthorn Seeds
+Fireblossom Seeds
+Daybloom Seeds
+Mushroom
+Glowing Mushroom
+Heart Statue
+Star Statue
+Alchemical Station
+Crystal Shard
+Wooden Crate
+Iron Crate
+Sky Crate
+Golden Crate
+Teleporter
+Mud Block
+Dirt Block
+Stone Block
+Hellforge
+Adamantite Forge
+Slime Statue
+Titanium Forge
+Dart Trap
+Iron Anvil
+Lead Anvil
+Mythril Anvil
+Orichalcum Anvil
+Life Crystal
+Copper Ore
+Tin Ore
+Iron Ore
+Lead Ore
+Silver Ore
+Tungsten Ore
+Gold Ore
+Platinum Ore
+Demonite Ore
+Crimtane Ore
+Meteorite Ore
+Hellstone Ore
+Adamantite Ore
+Chlorophyte Ore
+Mythril Ore
+Cobalt Ore
+Luminite
+Orichalcum Ore
+Palladium Ore
+Titanium Ore
+Obsidian
+Ash Block
+Clay Block
+Sand Block
+Snow Block
+Glass
+Life Fruit
+Sandstone Block
+Cactus
+Thin Ice
+Ice
+Silt
+Tinkerer's Workshop
+Wood
+Boreal Wood
+Palm Wood
+Rich Mahogany
+Pearlwood
+Dynasty Wood
+Sunflower
+Chest
+Gold Chest
+Purple Ice
+Ebonstone
+Ebonsand Block
+Ebonsandstone Block
+Vile Mushroom
+Red Ice
+Crimstone Block
+Crimsand Block
+Crimsandstone Block
+Vicious Mushroom
+Ebonwood
+Shadewood
+Gray Bricks
+Red Bricks
+Ebonstone Bricks
+Pearlstone Bricks
+Sandstone Bricks
+Snow Bricks
+Ice Bricks
+Mudstone Bricks
+Rainbow Bricks
+Iridescent Bricks
+Copper Bricks
+Tin Bricks
+Silver Bricks
+Tungsten Bricks
+Gold Bricks
+Platinum Bricks
+Demonite Bricks
+Crimtane Bricks
+Meteorite Bricks
+Obsidian Bricks
+Hellstone Bricks
+Cobalt Bricks
+Mythril Bricks
+Chlorophyte Bricks
+Luminite Bricks
+Asphalt Block
+Sawmill
+Used for advanced wood crafting
+Crystal Block
+Sunplate Block
+Marble Block
+Granite Block
+Chain
+Cloud
+Rain Cloud
+Demon Altar
+Jungle Spores
+Purple Torch
+Yellow Torch
+Blue Torch
+Green Torch
+Red Torch
+White Torch
+Orange Torch
+Pink Torch
+Ice Torch
+Rainbow Torch
+Amethyst Ore
+Diamond Ore
+Emerald Ore
+Ruby Ore
+Sapphire Ore
+Topaz Ore
+Slush
+Loom
+Used for crafting cloth
+Gray Stucco
+Red Stucco
+Green Stucco
+Yellow Stucco
+Smooth Granite
+Smooth Marble
+Rope
+Extractinator
+Table
+Banquet Table
+Wooden Chair
+Bar Stool
+Wooden Door
+Switch
+Ice Chest
+Living Wood Chest
+Shadow Chest
+Ivy Chest
+Water Chest
+Safe
+Chain Lantern
+Diabolist Lamp
+Alchemy Lantern
+Oil Rag Sconse
+Brass Lantern
+Caged Lantern
+Cariage Lantern
+Mushroom Lantern
+Wooden Door
+Cactus Door
+Glass Door
+Ebonwood Door
+Star in a Bottle
+Glass Kiln
+Ebonwood Lantern
+Livingwood Door
+Mushroom Door
+Skyware Door
+Pumpkin Door
+Obsidian Door
+Dungeon Door
+Lihzahrd Door
+Lihzahrd Brick
+Sky Mill
+Skyware Lantern
+Glass Lantern
+Heart Lantern
+Flesh Lantern
+Obsidian Lantern
+Living Loom
+Cactus Lantern
+Granite Lantern
+Spooky Lantern
+Shadewood Lantern
+Dynasty Lantern
+Honey Lantern
+Alchemy Table
+Bone Lantern
+Granite Door
+Bone Door
+Frozen Lantern
+Lihzahrd Lantern
+Boreal Door
+Livingwood Lantern
+Slime Lantern
+Spooky Wood
+Lihzahrd Furnace
+Steampunk Lantern
+Campfire
+Lamp Post
+Pot
+Cobweb
+Cactus Work Bench
+Slime Work Bench
+Frozen Work Bench
+Dynasty Work Bench
+Boreal Wood Work Bench
+Golden Work Bench
+Granite Work Bench
+Meteorite Work Bench
+Firefly in a Bottle
+Lighning Bug in a Bottle
+Honey Block
+Martian Work Bench
+Slime Block
+Honey Dispenser
+Honey Work Bench
+Honey Door
+Cooking Pot
+Palm Wood Lantern
+Palm Wood Work Bench
+Glass Work Bench
+Honey Cup
+Wine Glass
+Dynasty Cup
+Chalice
+Pink Vase
+Mug
+Lihzahrd Work Bench
+Living Wood Work Bench
+Flesh Work Bench
+Bomb Statue
+Bunny Statue
+Chest Statue
+Worm Statue
+'0' Statue
+'1' Statue
+'2' Statue
+'3' Statue
+'4' Statue
+'5' Statue
+'6' Statue
+'7' Statue
+'8' Statue
+'9' Statue
+Heavy Work Bench
+Crimson Altar
+Solidifier
+'A' Statue
+'B' Statue
+'C' Statue
+'D' Statue
+'E' Statue
+'F' Statue
+'G' Statue
+'H' Statue
+'I' Statue
+'J' Statue
+'K' Statue
+'L' Statue
+'M' Statue
+'N' Statue
+'O' Statue
+'P' Statue
+'Q' Statue
+'R' Statue
+'S' Statue
+'T' Statue
+'U' Statue
+'V' Statue
+'W' Statue
+'X' Statue
+'Y' Statue
+'Z' Statue
+Boreal Lantern
+Steampunk Boiler
+Crystal Ball
+Jungle Crate
+Corrupt Crate
+Chinese Lantern
+Cog
+Crystal Lantern
+Hanging Jack 'O Lantern
+Jungle Thorny Bushes
+Crimson Thorny Bushes
+Corrupt Thorny Bushes
+Slime Door
+Steampunk Door
+Anvil Statue
+Pot Statue
+Cross Statue
+Marble Lantern
+Martian Lantern
+Meteorite Lantern
+Pearlwood Lantern
+Pumpkin Lantern
+Rich Mahogany Lantern
+Golden Lantern
+Vine Rope
+Silk Rope
+Web Rope
+Pillar Statue
+Drippler Statue
+Hornet Statue
+Lever
+Flesh Cloning Vat
+Corrupt Statue
+Axe Statue
+Bow Statue
+Boomerang Statue
+Hammer Statue
+Pickaxe Statue
+Potion Statue
+Shield Statue
+Spear Statue
+Sword Statue
+Green Slime Banner
+Blue Slime Banner
+Purple Slime Banner
+Red Slime Banner
+Yellow Slime Banner
+Black Slime Banner
+Pinky Banner
+Jungle Slime Banner
+Boot Statue
+Demon Eye Banner
+Eyeball Statue
+Gloom Statue
+Piggy Bank
+Mushroom Statue
+Sunflower Statue
+Tree Statue
+Bookcase
+Book
+Skyware Work Bench
+Marble Work Bench
+Woman Statue
+Dynasty Bookcase
+Hoplite Statue
+Lavafly in a Bottle
+Mushroom Work Bench
+Spooky Work Bench
+Obsidian Work Bench
+Granite Table
+Marble Table
+Flesh Door
+Iron Door
+Lead Door
+Marble Door
+Rich Mahogany Door
+Slime Bookcase
+Shadewood Bookcase
+Blue Dungeon Bookcase
+Armed Zombie Statue
+Keg
+Firefly Statue
+Angel Statue
+Gargoyle Statue
+Martian Table
+Cactus Bookcase
+Reaper Statue
+Living Wood Bookcase
+Cross Grave Marker
+Gravestone
+Tombstone
+Headstone
+Terraria Craft
+Toggle Gravity
+Hotbar Slot 10
+Activate healing potion
+Activate mana potion
+Activate all buff potions
+%s was shot by %s.
+%s was killed by %s using Starfury.
+%s saw deadly falling star.
+%s became a victim to dart trap.
+%s was prickled to death.
+Potion Sickness
+Can't use any healing items
+Spelunker
+Shows the location of treasure and ore
+Regeneration
+Regenerates health
+Mining
+Mining speed increased by %,d%%
+Ammo Reservation
+Grants 20%% chance to retain ammo
+Baby Slime
+The baby slime will fight for you
+Burning
+Slowly Losing life
+Poisoned
+Slowly Losing life
+Happy!
+Swiftness
+Ironskin
+Shine
+Emitting light
+Creative
+Unlimited resources and immediate block destruction
+Star in a Bottle
+Increased mana regeneration
+Heart Lamp
+Life regen is increased
+Cozy Fire
+Life regen is slightly increased
+Magic Power
+20%% increased magic damage
+Cursed Inferno
+Losing life
+Builder
+Increased placement speed and range
+Water Walking
+Sneak to enter water
+Clairvoyance
+Magic powers are increased
+Darkness
+Decreased light vision
+Gravitation
+Press %s to reverse gravity
+Banner
+Increased damage and defense from the following:
+Material
+Ammo
+Mana
+Consumable
+Equipable
+Uses %s mana
+Restores %s life
+Restores %s mana
+Duration: %s min
+Increased regeneration speed
+%,d%% increased movement speed
+May annoy others
+Pulsing with dark energy
+Warm to the touch
+Hot to the touch
+Reacts to the light
+It vibrates with luminous celestial energy
+Slowly regenerates life
+Slowly regenerates mana
+Permanently increases maximum mana by 20
+Throws balls of fire
+Shoots a small spark
+Can be placed while holding %s key
+Remove Buff
+Dropped:
+Mines Meteorite
+Gives immunity to fire blocks
+Permanently increases health by %,d
+'It's pretty, oh so pretty'
+Increase defense by %,d
+Emits an aura of light
+%,d defense
+Set bonus: %s
+The Blood Moon is rising...
+A solar eclipse is happening!
+Pickaxe Power: %,d%%
+Axe Power: %,d%%
+Hammer Power: %,d%%
+%,d%% reduced mana usage
+Your world has been blessed with Cobalt!
+Your world has been blessed with Palladium!
+Your world has been blessed with Mythril!
+Your world has been blessed with Orichalcum!
+Your world has been blessed with Adamantite!
+Your world has been blessed with Titanium!
+Great for impersonating devs!
+%,d%% critical strike chance
+Life regen is increased when near a campfire
+Top rated in schools all around the globe!
+Vanity Item
+Right click to open
+Debug Item
+[WIP] Allows the control of gravity
+What a horrible night to have a curse.
+Summons the Eclipse
+The Lord's chosen weapon
+Shoots fallen stars
+Not even water can put the flame out
+Extremely toxic
+A small explosion that will destroy some blocks
+A large explosion that will destroy most tiles
+Opens one Gold or Dungeon Chest
+Allows the collection of Vine Rope from vines
+Can be climbed on
+Immunity to Darkness
+Looks tasty!
+The blood of gods
+Used to craft various types of ammo
+jar.
+need oxygen
+yes, very
+Insanely Fast Speed
+Very Fast Speed
+Fast Speed
+Average Speed
+Slow Speed
+Very Slow Speed
+Extremely Slow Speed
+Snail Speed
+Mysterious Speed
+%,d melee damage
+%,d ranged damage
+%,d magic damage
+%,d summon damage
+%,d throwing damage
+Timber!!
+Chop down your first tree.
+No Hobo
+Build a house suitable enough for your first town NPC, such as the guide, to move into.
+Ooo! Shiny!
+Mine your first nugget of ore with a pickaxe.
+Heart Breaker
+Discover and smash your first heart crystal underground.
+Heavy Metal
+Obtain an anvil made from iron or lead.
+Star Power
+Craft a mana crystal out of fallen stars, and consume it.
+It's Hard!
+Unleash the ancient spirits of light and darkness across your world, enabling much stronger foes and showering the world with dazzling treasures (and rainbows!).
+Begone, Evil!
+Smash a demon or crimson altar with a powerful, holy hammer.
+Extra Shiny!
+Mine a powerful ore that has been newly blessed upon your world.
+Photosynthesis
+Mine chlorophyte, an organic ore found deep among the thickest of flora.
+Get a Life
+Consume a life fruit, which grows in the thick of subterranean jungle grass.
+Into Orbit
+You can only go down from here!
+Rock Bottom
+The only way is up!
+Pretty in Pink
+Kill pinky.
+Miner for Fire
+Craft a molten pickaxe using the hottest of materials.
+Watch Your Step!
+Become a victim to a nasty underground trap.
+Marathon Medalist
+Travel a total of 20K blocks on foot.
+Topped Off
+Attain maximum health and mana possible without accessories or buffs.
+You Can Do It!
+Survive your character's first full night.
+From Mod Author
+/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <include air true|false> <name>
+Life: %s
+Mana
+%s has defeated %,d-th %s!
+Corruption
+Crimson
+Desert
+Forest
+Graveyard
+Jungle
+Meteorite
+Mushroom
+Ocean
+Snow
+Space
+Underworld
+Green Slime
+Blue Slime
+Baby Slime
+Pinky
+NPC
+Bunny
+Demon Eye
+Firefly
+Worm
+Red Slime
+Purple Slime
+Yellow Slime
+Black Slime
+Drippler
+Jungle Slime
+Eater of Souls
+Crimera

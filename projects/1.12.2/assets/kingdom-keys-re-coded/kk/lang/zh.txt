@@ -1,0 +1,1168 @@
+Open the menu
+Press the '%1$s' key to open the menu.
+Is this a bug?
+Get a Bug Blox
+It's a G-G-Ghost!
+Get a Ghost Blox
+Eye on the Prize
+Get a Prize Blox
+A recipe?
+Get a Recipe
+Master Chef
+Learn all the recipes
+Nobody wore this
+Wear the Organization XIII robe
+Nobody owned this
+Get a weapon form the Organization XIII
+Will I be able to make better items?
+Get a Synthesis Table 
+A Keychain? Why would I want it? 
+Obtain your first Keychain
+Its still broken
+Get the Incomplete χ-Blade
+One key to rule them all
+Get the χ-Blade
+Is this half a dream?
+Get Nightmare's End or Mirage Split
+Is this a dream?
+Get the Combined Keyblade
+Why?
+Get a Wooden Stick
+It's always rainy in Minecraft
+Get an Umbrella
+I hope it was worth it
+Get any of the Ultima Weapon
+This looks like a regular sword
+Get the Dream Sword
+I'm half way!
+Reach level 50
+I'm at the top!
+Reach level 100
+Am I rich?
+Get 1.000.000 Munny
+I guess I have the key to this one
+Get a KKChest
+Do I need a license?
+Equip a Drive Form
+Like a Wizard!
+Equip a Magic Spell
+Protecting from Darkness
+Wear a Keyblade Armor
+Free, but it still costs
+Try out the Free Development
+How much will it hold?
+Obtain a Synthesis Bag
+Symphony of Sorcery
+Play a music disc
+KINGDOM HEARTS!
+Get Kingdom Hearts
+Familiar Face!
+Another Familiar Face!
+Craft Wehavecookies56's head
+Craft Abelatox's head
+Kingdom Keys (Items)
+Kingdom Keys (Blocks)
+Normal Blox
+Hard Blox
+Metal Blox
+Danger Blox
+Bounce Blox
+Blast Blox
+Prize Blox
+Rare Prize Blox
+Ghost Blox
+Magnet Blox
+Pedestal
+When powered with redstone the %s turns transparent and has no collision
+The %s deals 1.5 hearts of damage when touching or hitting it
+When standing on the %s it causes entities to bounce
+Hold shift for more info
+Blazing Ore
+Blazing Ore
+Bright Ore
+Dark Ore
+Dark Ore
+Dark Ore
+Dense Ore
+Energy Ore
+Energy Ore
+Frost Ore
+Lightning Ore
+Lucid Ore
+Power Ore
+Power Ore
+Remembrance Ore
+Serenity Ore
+Stormy Ore
+Tranquil Ore
+Twilight Ore
+Twilight Ore
+Synthesis Table
+Chest
+Yes I know, the chest is stuck open right now.
+Will only open with a keyblade in hand
+Save Point
+Sneak while standing on it to set your spawn point
+Station of Awakening Door
+Station of Awakening floor
+Organization Portal
+Rank
+C
+B
+A
+S
+Blazing Shard
+Blazing Stone
+Blazing Gem
+Blazing Crystal
+Bright Shard
+Bright Stone
+Bright Gem
+Bright Crystal
+Dark Shard
+Dark Stone
+Dark Gem
+Dark Crystal
+Dense Shard
+Dense Stone
+Dense Gem
+Dense Crystal
+Energy Shard
+Energy Stone
+Energy Gem
+Energy Crystal
+Frost Shard
+Frost Stone
+Frost Gem
+Frost Crystal
+Lightning Shard
+Lightning Stone
+Lightning Gem
+Lightning Crystal
+Lost Illusion
+Lucid Shard
+Lucid Stone
+Lucid Gem
+Lucid Crystal
+Manifest Illusion
+Mythril Shard
+Mythril Stone
+Mythril Gem
+Mythril Crystal
+Orichalcum
+Orichalcum+
+Power Shard
+Power Stone
+Power Gem
+Power Crystal
+Remembrance Shard
+Remembrance Stone
+Remembrance Gem
+Remembrance Crystal
+Serenity Shard
+Serenity Stone
+Serenity Gem
+Serenity Crystal
+Stormy Shard
+Stormy Stone
+Stormy Gem
+Stormy Crystal
+Tranquil Shard
+Tranquil Stone
+Tranquil Gem
+Tranquil Crystal
+Twilight Shard
+Twilight Stone
+Twilight Gem
+Twilight Crystal
+Organization Hood
+Organization Coat
+Organization Leggings
+Organization Boots
+Organization Hood
+Organization Coat
+Organization Leggings
+Organization Boots
+Aqua's Helmet
+Aqua's Chestplate
+Aqua's Leggings
+Aqua's Boots
+Eraqus's Helmet
+Eraqus's Chestplate
+Eraqus's Leggings
+Eraqus's boots
+Terra's Helmet
+Terra's Chestplate
+Terra's Leggings
+Terra's Boots
+Ventus's Helmet
+Ventus's Chestplate
+Ventus's Leggings
+Ventus's Boots
+Nightmare Ventus's Helmet
+Nightmare Ventus's Chestplate
+Nightmare Ventus's Leggings
+Nightmare Ventus's Boots
+Anticoat Helmet
+Anticoat Chestplate
+Anticoat Leggings
+Anticoat Boots
+Vanitas Helmet
+Vanitas Chestplate
+Vanitas Leggings
+Vanitas Boots
+Empty Bottle
+Potion
+Hi-Potion
+Mega-Potion
+Ether
+Mega-Ether
+Elixir
+Megalixir
+Drive Recovery
+High Drive Recovery
+Power Boost
+Magic Boost
+Defense Boost
+AP Boost
+Panacea
+HP Orb
+DP Orb
+MP Orb
+Munny
+Heart
+Pure Heart
+Kingdom Hearts
+Dark Heart
+Dark Leather
+Synthesis Material
+Synthesis Recipe
+Sea Salt Ice Cream
+WINNER Stick
+Spell Orb
+Spell Orb
+Spell Orb
+Spell Orb
+Spell Orb
+Spell Orb
+Form Orb
+Form Orb
+Form Orb
+Form Orb
+Form Orb
+Small Synthesis Material Bag
+Medium Synthesis Material Bag
+Large Synthesis Material Bag
+Frost-Infused Snowball
+Blazing-Infused Coal
+Stormy-Infused Iron Ingot
+Bright-Infused Glowstone Dust
+Dark-Infused Iron Ingot
+Lightning-Infused Gold Ingot
+Mythril-Infused Diamond
+The Knowledge That Never Was
+Duration
+(mins:secs)
+Music Disc
+Yoko Shimomura - Birth by Sleep -A Link to the Future-
+Music Disc
+Yoko Shimomura - Darkness of the Unknown
+Music Disc
+Yoko Shimomura - Dearly Beloved -Symphony Version-
+Music Disc
+Yoko Shimomura - Dream Drop Distance -The Next Awakening-
+Music Disc
+Yoko Shimomura - Hikari -KINGDOM Instrumental Version-
+Music Disc
+Yoko Shimomura - L'Oscurita Dell'Ignoto
+Music Disc
+Yoko Shimomura - Musique pour la tristesse de Xion
+Music Disc
+Yoko Shimomura - No More Bugs!! -Bug Version-
+Music Disc
+Yoko Shimomura - Organization XIII
+Music Disc
+Hikaru Utada - Sanctuary
+Music Disc
+Hikaru Utada - Simple And Clean -PLANITb Remix-
+Music Disc
+Yoko Shimomura - Sinister Sundown
+Music Disc
+Yoko Shimomura - The 13th Anthology
+Malice
+Sanction
+Overlord
+Veneration
+Autocracy
+Conquest
+Terminus
+Judgement
+Discipline
+Aristocracy
+Superiority
+Aggression
+Fury
+Despair
+Triumph
+Ruination
+Domination
+Annihilation
+Tyrant
+Magnificence
+Infinity
+Interdiction
+Round Fan
+Absolute
+Stand Alone
+Killer Bee
+Stingray
+Counterweight
+Precision
+Dual Head
+Bahamut
+Gullwing
+Blue Frame
+Star Shell
+Sunrise
+Ignition
+Armstrong
+Hard-Boiled Heat
+Diablo Eye
+Double Tap
+Stardust
+Energy Muzzle
+Crime & Punishment
+Cupid's Arrow
+Final Weapon
+Sharpshooter
+Dryer
+Trumpet
+Zephyr
+Moonglade
+Aer
+Nescience
+Brume
+Asura
+Crux
+Paladin
+Fellking
+Nightcloud
+Shimmer
+Vortex
+Scission
+Heavenfall
+Aether
+Mazzaroth
+Hegemon
+Foxfire
+Yaksha
+Cynosura
+Dragonreign
+Lindworm
+Broom
+Wyvern
+Tester Zero
+Product One
+Deep Freeze
+Cryolite Shield
+False Theory
+Glacier
+Absolute Zero
+Gunz
+Mindel
+Snowslide
+Iceberg
+Inquisition
+Scrutiny
+Empiricism
+Edification
+Contrivance
+Wurm
+Subzero
+Cold Blood
+Diamond Shield
+Aegis
+Frozen Pride
+Pot Lid
+Snowman
+Reticence
+Goliath
+Copper Red
+Daybreak
+Colossus
+Ursa Major
+Megacosm
+Terrene
+Fuligin
+Hard Winter
+Firefly
+Harbinger
+Redwood
+Sequoia
+Iron Black
+Earthshine
+Octiron
+Hyperion
+Clarity
+1001 Nights
+Cardinal Virtue
+Skysplitter
+Bleep Boop Bop
+Monolith
+Black Primer
+White Tome
+Illicit Research
+Buried Secrets
+Arcane Compendium
+Dissenter's Notes
+Nefarious Codex
+Mystic Album
+Cursed Manual
+Taboo Text
+Eldritch Esoterica
+Freakish Bestiary
+Madman's Vita
+Untitled Writings
+Abandoned Dogma
+Atlas of Omens
+Revolting Scrapbook
+Lost Heterodoxy
+Otherworldly Tales
+Indescribable Lore
+Radical Treatise
+Book of Retribution
+Midnight Snack
+Dear Diary
+New Moon
+Werewolf
+Artemis
+Luminary
+Selene
+Moonrise
+Astrologia
+Crater
+Lunar Phase
+Crescent
+Gibbous
+Berserker
+Twilight
+Queen of the Night
+Balsamic Moon
+Orbit
+Light Year
+King of the Night
+Moonset
+Horoscope
+Dichotomy
+Lunatic
+Just Desserts
+Bunnymoon
+VII Saïx
+Ashes
+Doldrums
+Delayed Action
+Dive-Bombers
+Combustion
+Moulin Rouge
+Blaze of Glory
+Prometheus
+Ifrit
+Magma Ocean
+Volcanics
+Inferno
+Sizzling Edge
+Corona
+Ferris Wheels
+Burnout
+Omega Trinity
+Outbreak
+Double Edge
+Wildfire
+Prominence
+Eternal Flames
+Pizza Cut
+Conformers
+Basic Model
+Tune Up
+Quartet
+Quintet
+Overture
+Old Hand
+Da Capo
+Power Chord
+Fermata
+Interlude
+Serenade
+Songbird
+Rise to Fame
+Rock Star
+Eight-Finger
+Concerto
+Harmonics
+Million Bucks
+Fortissimo
+Up to Eleven
+Sanctuary
+Arpeggio
+Prince of Awesome
+After School
+The Fool
+The Magician
+The Star
+The Moon
+Justice
+The Hierophant
+The World
+Temperance
+The High Priestess
+The Tower
+The Hanged Man
+Death
+The Hermit
+Strength
+The Lovers
+The Chariot
+The Sun
+The Devil
+The Empress
+The Emperor
+The Joker
+Fair Game
+Finest Fantasy 13
+High Roller's Secret
+Fickle Erica
+Jilted Anemone
+Proud Amaryllis
+Mad Safflower
+Poor Melissa
+Tragic Allium
+Mournful Cineria
+Pseudo Silene
+Faithless Digitalis
+Grim Muscari
+Docile Vallota
+Quiet Belladonna
+Parting Ipheion
+Lofty Gerbera
+Gallant Achillea
+Noble Peony
+Fearsome Anise
+Vindictive Thistle
+Fair Helianthus
+Solemn Magnolia
+Hallowed Lotus
+Graceful Dahlia
+Stirring Ladle
+Dainty Bellflowers
+Trancheuse
+Orage
+Tourbillon
+Tempete
+Carmin
+Meteore
+Etoile
+Irregulier
+Dissonance
+Eruption
+Soleil Couchant
+Indigo
+Vague
+Deluge
+Rafale
+Typhon
+Extirpeur
+Croix du Sud
+Lumineuse
+Clair de Lune
+Vol de Nuit
+Foudre
+Demoiselle
+Ampoule
+Abaddon Plasma
+Abyssal Tide
+All for One
+Foreteller Invi's Keyblade
+Astral Blast
+Aubade
+Bond of Flame
+Brightcrest
+Chaos Ripper
+Circle of Life
+Counterpoint
+Crabclaw
+Crown of Guilt
+Darker Than Dark
+Darkgnaw
+Decisive Pumpkin
+Destiny's Embrace
+Diamond Dust
+Divewing
+Divine Rose
+Dream Shield
+Dream Staff
+Dream Sword
+Dual Disc
+Earthshaker
+End of Pain
+Ends of the Earth
+Fairy Harp
+Fairy Stars
+Fatal Crest
+Fenrir
+Ferris Gear
+Follow the Wind
+Frolic Flame
+Glimpse of Darkness
+Guardian Bell
+Guardian Soul
+Gull Wing
+Hero's Crest
+Hidden Dragon
+Hyperdrive
+Incomplete χ-blade
+Jungle King
+Keyblade of People's Hearts
+χ-blade
+Kingdom Key
+Kingdom Key D
+Knockout Punch
+Lady Luck
+Lea's Keyblade
+Foreteller Gula's Keyblade
+Leviathan
+Lionheart
+Lost Memory
+Lunar Eclipse
+Mark of a Hero
+No Name
+Master's Defender
+Maverick Flare
+Metal Chocobo
+Midnight Roar
+Mirage Split
+Missing Ache
+Monochrome
+Moogle O Glory
+Mysterious Abyss
+Nightmare's End
+Combined Keyblade
+No Name (BBS)
+Oathkeeper
+Oblivion
+Ocean's Rage
+Olympia
+Omega Weapon
+Ominous Blight
+One-Winged Angel
+Pain of Solitude
+Photon Debugger
+Pixie Petal
+Pumpkinhead
+Rainfell
+Rejection of Fate
+Royal Radiance
+Rumbling Rose
+Shooting Star
+Sign of Innocence
+Silent Dirge
+Skull Noise
+Sleeping Lion
+Soul Eater
+Spellbinder
+Star Seeker
+Starlight
+Stormfall
+Stroke of Midnight
+Sweet Dreams
+Sweet Memories
+Sweetstack
+Three Wishes
+Total Eclipse
+Treasure Trove
+True Light's Flight
+Twilight Blaze
+Two Become One
+Ultima Weapon (KH1)
+Ultima Weapon (KH2
+Ultima Weapon (KH3)
+Ultima Weapon (BBS)
+Ultima Weapon (DDD)
+Umbrella
+Unbound
+Foreteller Ira's Keyblade
+Foreteller Aced's Keyblade
+Victory Line
+Void Gear
+Foreteller Ava's Keyblade
+Way to the Dawn
+Wayward Wind
+Winner's Proof
+Wishing Lamp
+Wishing Star
+Wooden Keyblade
+Wooden Stick
+Young Xehanort's Keyblade
+Zero/One
+Abaddon Plasma Chain
+Abyssal Tide Chain
+All for One Chain
+Foreteller Invi's Keyblade Chain
+Astral Blast Chain
+Aubade Chain
+Bond of Flame Chain
+Brightcrest Chain
+Chaos Ripper Chain
+Circle of Life Chain
+Counterpoint Chain
+Crabclaw Chain
+Crown of Guilt Chain
+Darker Than Dark Chain
+Darkgnaw Chain
+Decisive Pumpkin Chain
+Destiny's Embrace Chain
+Diamond Dust Chain
+Divewing Chain
+Divine Rose Chain
+Dual Disc Chain
+Earthshaker Chain
+End of Pain Chain
+Ends of the Earth Chain
+Fairy Harp Chain
+Fairy Stars Chain
+Fatal Crest Chain
+Fenrir Chain
+Ferris Gear Chain
+Follow the Wind Chain
+Frolic Flame Chain
+Glimpse of Darkness Chain
+Guardian Bell Chain
+Guardian Soul Chain
+Gull Wing Chain
+Hero's Crest Chain
+Hidden Dragon Chain
+Hyperdrive Chain
+Incomplete χ-blade Chain
+Jungle King Chain
+Keyblade of People's Hearts Chain
+χ-blade Chain
+Kingdom Key Chain
+Kingdom Key D Chain
+Knockout Punch Chain
+Lady Luck Chain
+Lea's Keyblade Chain
+Foreteller Gula's Keyblade Chain
+Leviathan Chain
+Light Seeker Chain
+Lionheart Chain
+Lost Memory Chain
+Lunar Eclipse Chain
+Mark of a Hero Chain
+Master Xehanort's Keyblade Chain
+Master's Defender Chain
+Maverick Flare Chain
+Metal Chocobo Chain
+Midnight Roar Chain
+Mirage Split Chain
+Missing Ache Chain
+Monochrome Chain
+Moogle O Glory Chain
+Mysterious Abyss Chain
+Nightmare's End Chain
+Combined Keyblade Chain
+No Name Chain
+Oathkeeper Chain
+Oblivion Chain
+Ocean's Rage Chain
+Olympia Chain
+Omega Weapon Chain
+Ominous Blight Chain
+One-Winged Angel Chain
+Pain of Solitude Chain
+Photon Debugger Chain
+Pixie Petal Chain
+Pumpkinhead Chain
+Rainfell Chain
+Rejection of Fate Chain
+Royal Radiance Chain
+Rumbling Rose Chain
+Shooting Star Chain
+Sign of Innocence Chain
+Silent Dirge Chain
+Skull Noise Chain
+Sleeping Lion Chain
+Soul Eater Chain
+Spellbinder Chain
+Star Seeker Chain
+Starlight Chain
+Stormfall Chain
+Stroke of Midnight Chain
+Sweet Dreams Chain
+Sweet Memories Chain
+Sweetstack Chain
+Three Wishes Chain
+Total Eclipse Chain
+Treasure Trove Chain
+True Light's Flight Chain
+Twilight Blaze Chain
+Two Become One Chain
+Ultima Weapon (KH1) Chain
+Ultima Weapon (KH2) Chain
+Ultima Weapon (KH3) Chain
+Ultima Weapon (BBS) Chain
+Ultima Weapon (DDD) Chain
+Umbrella Chain
+Unbound Chain
+Foreteller Ira's Keyblade Chain
+Foreteller Aced's Keyblade Chain
+Victory Line Chain
+Void Gear Chain
+Foreteller Ava's Keyblade Chain
+Way to the Dawn Chain
+Wayward Wind Chain
+Winner's Proof Chain
+Wishing Lamp Chain
+Wishing Star Chain
+Young Xehanort's Keyblade Chain
+Zero/One Chain
+Reports
+Keyblades
+COMMANDS
+Attack
+Portal
+Magic
+Items
+Drive
+Revert
+Limit
+PORTALS
+MAGIC
+Fire
+Fira
+Firaga
+Blizzard
+Blizzara
+Blizzaga
+Thunder
+Thundara
+Thundaga
+Cure
+Cura
+Curaga
+Gravity
+Gravira
+Graviga
+Aero
+Aerora
+Aeroga
+Stop
+Stopra
+Stopga
+TRANSFORM
+Valor Form
+Wisdom Form
+Limit Form
+Master Form
+Final Form
+Menu
+World Time
+Played Time
+Items
+Abilities
+Customize
+Party
+Status
+Journal
+Config
+Munny
+Items
+Keychain
+Org. Weapon
+Synthesis Bag
+Potions
+Spells
+Drive Forms
+Stock
+Back
+Config
+Change the interface color by entering a RGB value
+Show hearts on hud
+Enable custom music
+Kingdom Hearts 1 Fire?
+Main
+Place Spell Orbs here
+Place potions here
+Place Form Orbs here
+Chest
+Place a Synthesis Bag here
+Small Synthesis Material Bag
+Medium Synthesis Material Bag
+Large Synthesis Material Bag
+By holding the synthesis bag in your inventory synthesis materials will be sent into it
+Item Synthesis
+Recipes
+Free Development
+Materials
+Required Materials
+Create
+Deposit Materials
+Inventory
+Synthesis Bags
+Take 1
+Take 32
+Take 64
+Take all
+Item Shop
+Shop
+Buy
+Sell
+Cost
+Quantity
+Sell For
+Kingdom Keys
+Command Menu Back
+Command Menu Enter
+Hold for Command Menu mouse controls
+Command Menu Scroll Down
+Command Menu Scroll Up
+Open Menu
+Summon Keyblade
+Show HUD (on/off/on with keyblade)
+Toggle Lock On
+Action Key
+Fire
+Fira
+Firaga
+Blizzard
+Blizzara
+Blizzaga
+Thunder
+Thundara
+Thundaga
+Cure
+Cura
+Curaga
+Aero
+Aerora
+Aeroga
+Stop
+Stopra
+Stopga
+Gravity
+Gravira
+Graviga
+Valor Form
+Wisdom Form
+Limit Form
+Master Form
+Final Form
+Anti Form
+Strength Increased!
+Defense Increased!
+Magic Increased!
+Maximum HP Increased!
+Maximum MP Increased!
+Maximum AP Increased!
+Form Gauge Powered Up!
+High Jump LV %1$s!
+Quick Run LV %1$s!
+Dodge Roll LV %1$s!
+Aerial Dodge LV %1$s!
+Glide LV %1$s!
+Successfully learnt the recipe for '%1$s'
+Recipe for '%1$s' was not learnt because you have already learnt it
+Spawn point saved
+Chest locked with '%1$s'
+Chest is locked with another keyblade
+Successfully learnt '%1$s'!
+Leveled up '%1$s', it is now '%2$s'!
+Can't level up '%1$s', it is already at the max level!
+'%1$s' has been learnt!
+'%1$s' has already been learnt!
+The knowledge manifested the '%1$s'
+Strength increased! Now it's %1$s!
+Defense increased! Now it's %1$s!
+Magic increased! Now it's %1$s!
+Drive Form Increased! Now it's %1$s!
+Maximum AP increased! Now it's %1$s!
+Shadow
+Mega Shadow
+Giga Shadow
+Darkball
+Red Nocturne
+Blue Rhapsody
+Yellow Opera
+Green Requiem
+Crimson Jazz
+Emerald Blues
+Silver Rock
+Minute Bomb
+Skater Bomb
+Storm Bomb
+Detonator
+Large Body
+Dire Plant
+White Mushroom
+Dusk
+Creeper
+Moogle
+The Command Menu is the menu displayed in the bottom left corner of the HUD. It has 4 options, Attack, Magic, Items and Drive, for info on these options refer to their respective pages.\n\nThe menu can be navigated using the Command Menu keybinds (default: Arrow keys) it can also be navigated by holding the hold keybind (default: Alt) and scrolling the mouse wheel, left click to enter, right click to go back.
+Main Configuration
+Balance Configuration
+Keyblades
+Aerial Dive
+Aerial Finish
+Aerial Sprial
+Aerial Sweep
+Ars Arcanum
+Auto Final
+Auto Limit
+Auto Master
+Auto Summon
+Auto Valor
+Auto Wisdom
+Blitz
+Counterattack
+Counterguard
+Crescent
+Dodge Slash
+Explosion
+Finishing Leap
+Flash Step
+Gravity Break
+Guard
+Guard Break
+Horizontal Slash
+Hurricane Blast
+Magnet Splash
+Ragnarok
+Retaliating Slash
+Ripple Drive
+Round Break
+Slapshot
+Sliding Dash
+Sonic Blade
+Strike Raid
+Stun Impact
+Upper Slash
+Vortex
+Zantetsuken
+Aerial Dodge
+Dodge Roll
+Glide
+High Jump
+Quick Run
+Aerial Recovery
+Air Combo Boost
+Air Combo Plus
+Berserk
+Berserk Charge
+Blizzard Boost
+Blizzard Screen
+Combination Boost
+Combo Boost
+Combo F Boost
+Combo Master
+Combo Plus
+Critical Plus
+Cure Boost
+Damage Control
+Damage Drive
+Dark Screen
+Defender
+Treasure Magnet
+Drive Boost
+Drive Converter
+Encounter Plus
+Endless Magic
+EXP Walker
+Experience Boost
+Finish Boost
+Finishing Plus
+Fire Boost
+Fire Screen
+Form Boost
+HP Boost
+HP Gain
+HP Prize Plus
+Item Boost
+Jackpot
+Leaf Bracer
+Light & Dark
+Lucky Lucky
+Magic Lock-On
+MP Haste
+MP Hastega
+MP Hastera
+MP Rage
+Negative Combo
+Once More
+Reaction Boost
+Scan
+Second Chance
+Summon Boost
+Synch Blade
+Tech Boost
+Thunder Boost
+Thunder Screen
+Zero EXP
+The keyblades are the main weapon type in the mod
+It's one of the few weapons which can defeat heartless
+and the only one to collect hearts
+Keyblades can be obtained through creation at either
+a synthesis table or by speaking with a Moogle
+Creation of a Keyblade also requires a synthesis recipe
+which can be obtained from dungeons or as a rare random hostile mob drop
+How to equip it (Comming soon)
+Magic spells unlock useful powers
+They are rare drops from mobs
+There are 6 known magics you can get
+Each one has it's own power and work different
+When you see a magic in orange it means it
+is going to consume all your MP
+This is the MP bar
+Each magic consume a different amount
+of MP and the bar will decrease
+Once the bar hits 0 it will become pink
+and will start to slowly regenerate
+Meanwhile no magic can be used until
+it recharges and becomes blue again
+Drive forms grant useful powers
+for a limited amount of time
+There are 5 forms you can get
+each one with their own growth ability
+There is also a hidden form
+which has some dark powers...
+This is the drive gauge
+once it fills it increases a level
+The max level is 3 but you can
+increase the limit by leveling the forms
+to level 7 and killing the enderdragon
+In order to activate a drive form
+You must have a main keychain equipped
+And if the drive form uses 2 keyblades
+You must have another keychain for it's slot
+Once you are in a drive form
+the drive gauge will be replaced
+by this form gauge, once it depletes
+the drive form will revert automatically
+Welcome to Kingdom Keys!
+You are right now in the Station of Awakening
+Here you have to make a choice
+Stand on top of the pedestal to make the choice
+The sword gives an initial power boost
+The staff gives an initial magic boost
+The shield gives an initial defense boost
+Once you're done leave through the door
+Sword
+The power of the warrior
+Invincible courage
+A sword of terrible destruction
+Staff
+The power of the mystic
+Inner strength
+A staff of wonder and ruin
+Shield
+The power of the guardian
+Kindness to aid friends
+A shield to repel all
+Abilities are gonna help you through your gameplay

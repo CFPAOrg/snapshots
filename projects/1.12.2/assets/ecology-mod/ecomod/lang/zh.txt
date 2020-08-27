@@ -1,0 +1,139 @@
+Ecology Mod
+Pollution Filter
+Advanced Pollution Filter
+Pollution Analyzer
+Empty Machine Frame
+Advanced Empty Machine Frame
+Concentrated Pollution
+Concentrated Pollution
+Pollution Analyzer Computer Interface
+Respirator
+Filter Core
+Advanced Filter Core
+Analyzer Core
+Array of Pistons
+Vent
+Food Pollution
+Smog
+Bad Sleep
+Sleeping is poisonous
+Extinction of Fish
+Polluted Water
+Leafless Trees
+Deforestation
+Acid Rain
+Wasteland
+Barren Soil
+Extinction of Animals
+Bonemeal no more works
+No crops growth
+[ERROR!] EFFECTS NOT FOUND
+Effects Cache Had Not Been Received From The Server! Please Reconnect To The Server Or Rejoin The World!!!
+Dropped food items and crop drops are absorbing pollution from the environment unless they're isolated. When eaten these items will cause bad potion effects.
+Pollution in the air when combined with water particles forms a dense fog which poisons living creatures. To prevent poisoning put on a respirator. Make sure you have filters!
+Because of air pollution you sleeping here makes you sick.
+When sleeping you can be poisoned by the polluted air.
+Because of the pollution fish cannot live in the water. Fishing is futile.
+Because of high water pollution, water turns into polluted water, making it poisonous and almost useless.
+Because of strong pollution, tree leaves deteriorate and decay.
+Saplings can grow into trees no more in this region.
+The rain mixed with pollution produces an acid rain. When raining it will poison any living creature if the one isn't wearing a helmet(helmet is damaged instead). Also the rain dissolves leaves and farmland.
+The area turns into lifeless wasteland, grass turn into dirt and sand, the biome color changes to dark, entities defined as "creature" or "water creature" can no longer spawn there. 
+Because soil pollution is too great, soil deteriorates. Thus the dirt cannot be plowed and farmland turns into dirt. 
+Because of harsh environmental conditions animals can spawn no more here.
+Because soil is oversaturated with poisonous substances fertilizers do not have an effect.
+Crops can grow no more here, but you still can fertilize them with bonemeal unless you have a bonemeal restricting effect.
+Ecology Mod
+You notice that something is wrong with the environment.
+Environmental Disaster
+Have more than 1000000 pollution of each type!
+Bitterly-Sweet Dreams
+Get sick after sleeping in polluted air
+The Next Morning
+Get poisoned after sleeping in polluted air
+Breathe Deeper
+Breathe the Smog
+It Is Raining... Acid!
+Be Caught In The Acid Rain
+Lucky Fishing!
+Try Fishing In A Fishless Water
+Yummy!
+Eat Polluted Food
+Eat Me!
+Eat Very Polluted Food
+No Fertilizers!
+Use Bonemeal... And Realize That It's Impossible Due To Pollution!
+The Basis
+Craft Basic Machine Frame
+Worth It?
+Craft Advanced Machine Frame
+Air Treatment
+Craft Filter Core(To make a corresponding machine click on a machine frame)
+It Is A Thing!
+Craft Advanced Filter Core(To make a corresponding machine click on a machine frame)
+Forewarned Is Forearmed!
+Craft Analyzer Core(To make a machine click on a machine frame)
+True Stalking Experience!
+Craft A Respirator
+WorldProcessingThread for dimension %s was not found!
+/getTileEntityID [x] [y] [z] (coords are optional) - gets ID of a TileEntity at the defined pos or just beneath the sender and puts it to the clipboard
+TileEntity not found at %s!
+/loadPollutionManager {dimension} - load the dimension's PollutionManager from its default file
+Forced loading of a PollutionManager for dimension %s failed!
+/savePollutionManager {dimension} - save the dimension's pollution manager to its default file
+Saving of a PollutionManager for dimension %s failed!
+/clearPollutionManager {dimension} - clear the dimension's pollution manager
+/TEPollutionConfig [ADD|REMOVE|SAVE|LOAD|GET] [tileId] ([air] [water] [soil])
+Invalid MODE!!! It has to be ADD or REMOVE or SAVE or LOAD or GET.
+Invalid arguments! At least 1 has to be.
+Invalid arguments! For ADD mode there has to be exactly 5 arguments /TEPollutionConfig ADD [tileId] [air] [water] [soil]
+Unable to add TileEntity to TEPollutionConfig!
+Added to TEPollutionConfig: %s
+Invalid arguments! For REMOVE mode there has to be exactly 2 arguments /TEPollutionConfig REMOVE [tileId]
+Removed %s from TEPollutionConfig
+Attempted to remove %s from TEPollutionConfig but there is no such entry
+Loading TEPollutionConfig from the config file.
+Saving TEPollutionConfig to the config file
+Failed to save TEPollutionConfig!
+Invalid arguments! For GET mode there has to be exactly 2 arguments /TEPollutionConfig GET [tileId]
+Attempted to get %s from TEPollutionConfig but there is no such entry
+Not enough energy to work!
+The energy buffer must be filled completely!
+No data about this chunk was retrieved 
+by this analyzer yet! Analyze this chunk!
+Pollution Effects:
+Energy:
+Max Energy:
+Filling:
+Chunk Position:
+Chunk Pollution:
+Analyzed:
+Analyze Chunk
+Filter Capacity
+Insert a filter!
+Press SHIFT for more information
+These filters are used by Respirator
+Right Click '%s' with this item to make a corresponding machine
+[EcologyMod]Right Click 'Empty Machine Frame' with this item to make a Pollution Analyzer Computer Interface
+Sneak to view detailed pollution information.
+Working
+Not Working
+You are unable to eat or to drink while wearing a respirator!
+You are feeling ill. Perhaps the air is not clean enough.
+You've eaten polluted food!
+[EcologyMod]EcologyMod is not working correctly! During the loading ASM transformers had failed for the following classes: %s. Look for reasons in the log and try to fix them if possible or send your log to 
+Environmental Pollution
+Environmental Pollution
+Air
+Water
+Soil
+Air Filtration
+Manually Assembly
+Right-click the first item(set in the world) with the second
+Pollution Effect:
+Trigger Type:
+OR
+AND
+Triggered when at least one type of environmental pollution is greater than of this value.
+Triggered when environmental pollution is greater than this value in all types.
+Pollution Effects

@@ -1,0 +1,25 @@
+Unhealthy Dying Config
+When set to true it notifies the player about their new max health when they respawn [default: true]
+Decides if the reduced health is per player, for everybody, per team or per FTB Team (Only works when FTBUtils is installed) [default: true]
+When set to true allows you to gain back health upon killing set target(s) [default: false]
+When set to true it notifies the player about their new max health when they respawn [default: true]
+Adding lines / removing lines specifies which mobs will cause the players to regen max health, \nSyntax: modid:mobname,healthRegenned,amount. For wildcards use *. For instance [*:*,1,20] would mean every 20 kills regain half a heart. \nWhile [minecraft:*,1,10] would mean every 10 kills of vanilla mobs regains half a heart
+§cYour max health has been reduced to §r%s.§cY§r
+§aYour max health has been increased back to §r%s§cY.§r
+§aYour health and max health has set to §r%s§a.§r
+§aYour max health has set to §r%s§a.§r
+§aYour health has been increased by %s§r §aheart(s).
+§cYour health has been reduced by %s §cheart(s).
+/unhealthydying
+/unhealthydying sethearts [player] <amount>
+Unable to set health because %s is not a valid amount
+Set %s 's health to %s
+/unhealthydying setmaxhealth [player] <amount>
+Unable to set max health because %s is not a valid amount
+Set %s 's max health to %s
+/unhealthydying addhearts [player] <amount>
+Unable to add health because %s is not a valid amount
+Added %s heart(s) to %s's health
+/unhealthydying removehearts [player] <amount>
+Unable to remove health because %s is not a valid amount
+Removed %s heart(s) from %s's health

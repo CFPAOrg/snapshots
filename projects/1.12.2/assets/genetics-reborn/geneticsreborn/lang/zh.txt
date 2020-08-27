@@ -1,0 +1,45 @@
+Genetics Reborn
+Cheat Tool
+Glass Syringe
+Glass Syringe(Full)
+DNA Plasmid
+Metal Scraper
+Advanced Scraper
+Organic Matter
+Cell
+Overclocker
+Dragon Health Crystal
+DNA Helix
+Anti Plasmid
+Metal Syringe
+Anti Field Orb
+Cell Analyser
+DNA Extractor
+DNA Decrypter
+Plasmid Infuser
+Blood Purifier
+Plasmid Injector
+Cloning Machine
+Anti Field Block
+Coal Generator
+Incubator
+Advanced Incubator
+Airborne Dispersal Device
+Organic Substrate
+Potion of Cell Growth
+Potion of Mutation
+Bottle of Viral Agent
+No Effect
+Mega Bone meal
+Cursed Earth
+No Effect
+Virus:
+Virus Protection
+The Cure
+The Cure
+Organic Substrate
+Potion of Cell Growth
+Potion of Mutation
+Bottle of Viral Agent
+%s died of infection
+%1$s was killed by %2$s using viral agents

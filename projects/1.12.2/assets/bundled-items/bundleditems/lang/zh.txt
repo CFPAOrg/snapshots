@@ -1,0 +1,42 @@
+Bundled Raw Porkchop
+Bundled Cooked Porkchop
+Bundled Arrows
+Bundled Baked Potatoes
+Bundled Blaze Rods
+Bundled Bones
+Bundled Bread
+Bundled Carrots
+Bundled Cooked Beef
+Bundled Cooked Chicken
+Bundled Cooked Mutton
+Bundled Cooked Rabbit
+Bundled Cookies
+Bundled Golden Carrots
+Bundled Potatoes
+Bundled Raw Beef
+Bundled Raw Chicken
+Bundled Raw Mutton
+Bundled Raw Rabbit
+Bundled Rotten Flesh
+Bundled Sticks
+Bundled Firework Rockets
+Bundled Feathers
+Bundled Books
+Bundled Paper
+Bundled Chorus Fruits
+Bundled Popped Chorus Fruits
+Bundled Buckets
+Bundled Apples
+Bundled Golden Apples
+Bundled Snowballs
+Bundled Bowls
+Bundled Bricks
+Bundled Clay Balls
+Bundled Flints
+Bundled Ghast Tears
+Bundled Name Tags
+Bundled Nether Stars
+Bundled Nether Warts
+Bundled Netherbricks
+Bundled Sugar Cane
+Bundled Items

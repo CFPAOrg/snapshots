@@ -1,0 +1,265 @@
+Allosaurus Settings
+Spawn Allosaurus?
+Minimum Allosaurus pack size
+Maximum Allosaurus pack size
+Allosaurus Spawns (Vanilla)
+Ankylosaurus Settings
+Spawn Ankylosaurus?
+Minimum Ankylosaurus herd size
+Maximum Ankylosaurus herd size
+Ankylosaurus Spawns (Vanilla)
+Arthropleura Settings
+Spawn Arthropleura?
+Minimum Arthropleura swarm size
+Maximum Arthropleura swarm size
+Arthropleura Spawns (Vanilla)
+Brachiosaurus Settings
+Spawn Brachiosaurus?
+Minimum Brachiosaurus herd size
+Maximum Brachiosaurus herd size
+Brachiosaurus Spawns (Vanilla)
+Ceratosaurus Settings
+Spawn Ceratosaurus?
+Minimum Ceratosaurus pack size
+Maximum Ceratosaurus pack size
+Ceratosaurus Spawns (Vanilla)
+Citipati Settings
+Spawn Citipati?
+Minimum Citipati herd size
+Maximum Citipati herd size
+Citipati Spawns (Vanilla)
+Crassigyrinus Settings
+Spawn Crassigyrinus?
+Minimum Crassigyrinus herd size
+Maximum Crassigyrinus herd size
+Crassigyrinus Spawns (Vanilla)
+Compsognathus Settings
+Spawn Compsognathus?
+Minimum Compsognathus pack size
+Maximum Compsognathus pack size
+Compsognathus Spawns (Vanilla)
+Confuciusornis Settings
+Spawn Confuciusornis?
+Minimum Confuciusornis flock size
+Maximum Confuciusornis flock size
+Confuciusornis Spawns (Vanilla)
+Deinonychus Settings
+Spawn Deinonychus?
+Minimum Deinonychus pack size
+Maximum Deinonychus pack size
+Deinonychus Spawns (Vanilla)
+Dilophosaurus Settings
+Spawn Dilophosaurus?
+Minimum Dilophosaurus pack size
+Maximum Dilophosaurus pack size
+Dilophosaurus Spawns (Vanilla)
+Diplocaulus Settings
+Spawn Diplocaulus?
+Minimum Diplocaulus herd size
+Maximum Diplocaulus herd size
+Diplocaulus Spawns (Vanilla)
+Dodo Settings
+Spawn Dodo?
+Minimum Dodo flock size
+Maximum Dodo flock size
+Dodo Spawns (Vanilla)
+Dryosaurus Settings
+Spawn Dryosaurus?
+Minimum Dryosaurus herd size
+Maximum Dryosaurus herd size
+Dryosaurus Spawns (Vanilla)
+Edaphosaurus Settings
+Spawn Edaphosaurus?
+Minimum Edaphosaurus herd size
+Maximum Edaphosaurus herd size
+Edaphosaurus Spawns (Vanilla)
+Elasmotherium Settings
+Spawn Elasmotherium?
+Minimum Elasmotherium herd size
+Maximum Elasmotherium herd size
+Elasmotherium Spawns (Vanilla)
+Gallimimus Settings
+Spawn Gallimimus?
+Minimum Gallimimus herd size
+Maximum Gallimimus herd size
+Gallimimus Spawns (Vanilla)
+Gastornis Settings
+Spawn Gastornis?
+Minimum Gastornis flock size
+Maximum Gastornis flock size
+Gastornis Spawns (Vanilla)
+Henodus Settings
+Spawn Henodus?
+Minimum Henodus group size
+Maximum Henodus group size
+Henodus Spawns (Vanilla)
+Icthyosaurus Settings
+Spawn Icthyosaurus?
+Minimum Icthyosaurus pod size
+Maximum Icthyosaurus pod size
+Icthyosaurus Spawns (Vanilla)
+Kelenken Settings
+Spawn Kelenken?
+Minimum Kelenken flock size
+Maximum Kelenken flock size
+Kelenken Spawns (Vanilla)
+Liopleurodon Settings
+Spawn Liopleurodon?
+Minimum Liopleurodon school size
+Maximum Liopleurodon school size
+Liopleurodon Spawns (Vanilla)
+Mammoth Settings
+Spawn Mammoth?
+Minimum Mammoth herd size
+Maximum Mammoth herd size
+Mammoth Spawns (Vanilla)
+Megalania Settings
+Spawn Megalania?
+Minimum Megalania pack size
+Maximum Megalania pack size
+Megalania Spawns (Vanilla)
+Megaloceros Settings
+Spawn Megaloceros?
+Minimum Megaloceros herd size
+Maximum Megaloceros herd size
+Megaloceros Spawns (Vanilla)
+Megalodon Settings
+Spawn Megalodon?
+Minimum Megalodon school size
+Maximum Megalodon school size
+Megalodon Spawns (Vanilla)
+Megalograptus Settings
+Spawn Megalograptus?
+Minimum Megalograptus pod size
+Maximum Megalograptus pod size
+Megalograptus Spawns (Vanilla)
+Meganeura Settings
+Spawn Meganeura?
+Minimum Meganeura swarm size
+Maximum Meganeura swarm size
+Meganeura Spawns (Vanilla)
+Mosasaurus Settings
+Spawn Mosasaurus?
+Minimum Mosasaurus school size
+Maximum Mosasaurus school size
+Mosasaurus Spawns (Vanilla)
+Pachycephalosaurus Settings
+Spawn Pachycephalosaurus?
+Minimum Pachycephalosaurus herd size
+Maximum Pachycephalosaurus herd size
+Pachycephalosaurus Spawns (Vanilla)
+Parasaurolophus Settings
+Spawn Parasaurolophus?
+Minimum Parasaurolophus herd size
+Maximum Parasaurolophus herd size
+Parasaurolophus Spawns (Vanilla)
+Phorusrhacos Settings
+Spawn Phorusrhacos?
+Minimum Phorusrhacos flock size
+Maximum Phorusrhacos flock size
+Phorusrhacos Spawns (Vanilla)
+Platybelodon Settings
+Spawn Platybelodon?
+Minimum Platybelodon herd size
+Maximum Platybelodon herd size
+Platybelodon Spawns (Vanilla)
+Plesiosaurus Settings
+Spawn Plesiosaurus?
+Minimum Plesiosaurus school size
+Maximum Plesiosaurus school size
+Plesiosaurus Spawns (Vanilla)
+Pteranodon Settings
+Spawn Pteranodon?
+Minimum Pteranodon flock size
+Maximum Pteranodon flock size
+Pteranodon Spawns (Vanilla)
+Quagga Settings
+Spawn Quagga?
+Minimum Quagga herd size
+Maximum Quagga herd size
+Quagga Spawns (Vanilla)
+Sarcosuchus Settings
+Spawn Sarcosuchus?
+Minimum Sarcosuchus group size
+Maximum Sarcosuchus group size
+Sarcosuchus Spawns (Vanilla)
+Smilodon Settings
+Spawn Smilodon?
+Minimum Smilodon pack size
+Maximum Smilodon pack size
+Smilodon Spawns (Vanilla)
+Spinosaurus Settings
+Spawn Spinosaurus?
+Minimum Spinosaurus group size
+Maximum Spinosaurus group size
+Spinosaurus Spawns (Vanilla)
+Stegosaurus Settings
+Spawn Stegosaurus?
+Minimum Stegosaurus herd size
+Maximum Stegosaurus herd size
+Stegosaurus Spawns (Vanilla)
+Therizinosaurus Settings
+Spawn Therizinosaurus?
+Minimum Therizinosaurus herd size
+Maximum Therizinosaurus herd size
+Therizinosaurus Spawns (Vanilla)
+Tiktaalik Settings
+Spawn Tiktaalik?
+Minimum Tiktaalik school size
+Maximum Tiktaalik school size
+Tiktaalik Spawns (Vanilla)
+Titanis Settings
+Spawn Titanis?
+Minimum Titanis flock size
+Maximum Titanis flock size
+Titanis Spawns (Vanilla)
+Triceratops Settings
+Spawn Triceratops?
+Minimum Triceratops herd size
+Maximum Triceratops herd size
+Triceratops Spawns (Vanilla)
+Tyrannosaurus Settings
+Spawn Tyrannosaurus?
+Minimum Tyrannosaurus pack size
+Maximum Tyrannosaurus pack size
+Tyrannosaurus Spawns (Vanilla)
+Velociraptor Settings
+Spawn Velociraptor?
+Minimum Velociraptor pack size
+Maximum Velociraptor pack size
+Velociraptor Spawns (Vanilla)
+ Spawn in Vanilla biomes?
+ Beach spawn weight
+ Birch forest spawn weight
+ Birch forest hills spawn weight
+ Cold beach spawn weight
+ Cold taiga spawn weight
+ Cold taiga hills spawn weight
+ Deep ocean spawn weight
+ Desert spawn weight
+ Desert hills spawn weight
+ Extreme hills spawn weight
+ Frozen ocean spawn weight
+ Forest spawn weight
+ Forest hills spawn weight
+ Frozen river spawn weight
+ Nether (hell) spawn weight
+ Ice mountains spawn weight
+ Ice plains spawn weight
+ Jungle spawn weight
+ Jungle edge spawn weight
+ Jungle hills spawn weight
+ Mesa spawn weight
+ Mushroom spawn weight
+ Ocean spawn weight
+ Plains spawn weight
+ Mega (redwood) taiga spawn weight
+ Mega (redwood) taiga hills spawn weight
+ River spawn weight
+ Roofed forest spawn weight
+ Savanna spawn weight
+ Savanna plateau spawn weight
+ Stone beach spawn weight
+ Swamp spawn weight
+ Taiga spawn weight
+ Taiga hills spawn weight

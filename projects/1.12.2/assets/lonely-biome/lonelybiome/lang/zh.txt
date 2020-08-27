@@ -1,0 +1,10 @@
+Lonely Biome Configuration
+Biome
+The registry name of the biome to generate the world with.
+Disable Lonely Biome
+Ensure Stronghold Generation
+If this is set to true, then stronghold generation will be ensured for the single-biome world.
+Ensure Village Generation
+If this is set to true, then village generation will be ensured for the single-biome world.
+Biome Type Blacklist
+Biomes of these types will be blacklisted from selection.

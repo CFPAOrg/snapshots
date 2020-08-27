@@ -1,0 +1,801 @@
+Voltage OUT up to: §a%d §7(§a%s§7)
+Processor Assembly
+An Advanced Circuit
+Nanoprocessor Assembly
+An Extreme Circuit
+Wetwareprocessor Assembly
+An Ultimate Circuit
+Coated Circuit Board
+A Basic Board
+Epoxy Circuit Board
+An Advanced Board
+Fiber-Reinforced Circuit Board
+An Extreme Board
+Multilayer Fiber-Reinforced Circuit Board
+An Elite Board
+Phenolic Circuit Board
+A Good Board
+Plastic Circuit Board
+A Good Board
+Wetware Lifesupport Circuit Board
+The Board That Keeps Life
+Monocrystalline Silicon Boule
+Raw Circuit
+Glowstone doped Monocrystalline Silicon Boule
+Raw Circuit
+Naquadah doped Monocrystalline Silicon Boule
+Raw Circuit
+Coke Oven Brick
+Firebrick
+Advanced Electronic Circuit
+Good Integrated Circuit
+A Good Circuit
+Basic Circuit
+A Basic Circuit
+Vacuum Tube
+A Very Simple Circuit
+Diode
+Basic Electronic Component
+Capacitor
+Electronic Component
+Glass Fiber
+B(SiO2)7
+Glass Tube
+Petri Dish
+For Cultivating Cells
+Resistor
+Basic Electronic Component
+Small Coil
+Basic Electronic Component
+SMD Capacitor
+Electronic Component
+SMD Diode
+Electronic Component
+SMD Resistor
+Electronic Component
+SMD Transistor
+Electronic Component
+Transistor
+Basic Electronic Component
+Unfired Clay Brick
+Unfired Coke Oven Brick
+Compressed Fireclay
+Brick-Shaped
+Ultimate Crystalcomputer
+An Ultimate Circuit
+Elite Nanocomputer
+An Elite Circuit
+Master Quantumcomputer
+A Master Circuit
+Wetware Supercomputer
+A Super Circuit
+Crystalprocessor Mainframe
+A Super Circuit
+Nanoprocessor Mainframe
+A Master Circuit
+Mainframe
+An Elite Circuit
+Quantumprocessor Mainframe
+An Ultimate Circuit
+Wetware Mainframe
+An Infinite Circuit
+ASoC
+Advanced System on a Chip
+Integrated Logic Circuit
+Integrated Circuit
+Central Processing Unit
+Integrated Circuit
+High Power IC
+High Power Circuit
+NAND Memory Chip
+Integrated Circuit
+Nanocomponent Central Processing Unit
+Power Circuit
+NOR Memory Chip
+Integrated Circuit
+Power IC
+Power Circuit
+QBit Processing Unit
+Quantum CPU
+Random Access Memory Chip
+Integrated Circuit
+SoC
+System on a Chip
+Crystalprocessor
+An Elite Circuit
+Nanoprocessor
+An Advanced Circuit
+Quantumprocessor
+An Extreme Circuit
+Wetwareprocessor
+A Master Circuit
+ASoC Wafer
+Raw Circuit
+Integrated Logic Circuit (Wafer)
+Raw Circuit
+Central Processing Unit (wafer)
+Raw Circuit
+Glowstone doped Wafer
+Raw Circuit
+HPIC Wafer
+Raw Circuit
+Naquadah doped Wafer
+Raw Circuit
+NAND Memory Chip (Wafer)
+Raw Circuit
+NanoCPU Wafer
+Raw Circuit
+NOR Memory Chip (wafer)
+Raw Circuit
+PIC Wafer
+Raw Circuit
+QBit Wafer
+Raw Circuit
+Random Acccess Memory Chip (Wafer)
+Raw Circuit
+Wafer
+Raw Circuit
+SoC Wafer
+Raw Circuit
+Raw Carbon Fibers
+Mixed Metal plate
+Advanced Alloy Plate
+Raw Crystal Chip
+Raw Crystal Processor
+Crystal Processing Unit
+Crystal CPU
+Crystal SoC
+Crystal System on a Chip
+Stemcells
+Raw Intelligence
+Lapotron Crystal
+Iridium Alloy Plate
+Uncompressed Iridium Alloy Plate
+Neutron Reflector
+Extreme Computer
+An Extreme Circuit
+Neuro Processing Unit
+Neuto CPU
+Apatine Electrode
+Blazing Electrode
+Bronze Electrode
+Copper Electrode
+Diamantine Electrode
+Emerald Electrode
+Ender Electrode
+Golden Electrode
+Iron Electrode
+Lapis Electrode
+Obsidian Electrode
+Orchid Electrode
+Rubberised Electrode
+Tin Electrode
+Unfired Seared Brick
+Mold Form (Anvil)
+Mold Form (Ball)
+Mold Form (Block)
+Mold Form (Bottle)
+Mold Form (Cylinder)
+Mold Form (Coinage)
+Mold Form (Gear)
+Mold Form (Ingot)
+Mold Form (Name)
+Mold Form (Nuggets)
+Mold Form (Plate)
+Mold Form (Small Gear)
+Shape (Axe Head)
+Shape (Block)
+Shape (Bolt)
+Shape (Bottle)
+Shape (Cell)
+Shape (File Head)
+Shape (Gear)
+Shape (Hammer Head)
+Shape (Hoe Head)
+Shape (Ingot)
+Shape (Large Pipe)
+Shape (Medium Pipe)
+Shape (Pickaxe Head)
+Shape (Plate)
+Shape (Ring)
+Shape (Rod)
+Shape (Saw Blade)
+Shape (Shovel Head)
+Shape (Small Pipe)
+Shape (Sword Blade)
+Shape (Tiny Pipe)
+Shape (Wire)
+Energy Module
+Energy Cluster
+MAX Battery
+Mica Based Sheet
+Mica Insulator Sheet
+Mica Insulator Foil
+Basic Circuit Board
+Good Phenolic Circuit Board
+Good Plastic Circuit Board
+Advanced Circuit Board
+Extreme Circuit Board
+Elite Circuit Board
+Master Circuit Board
+Basic stator
+Advanced stator
+Advanced stator II
+Advanced stator III
+Advanced stator IV
+Advanced stator V
+Advanced stator VI
+Superconducting stator
+Basic rotor
+Advanced rotor
+Advanced rotor II
+Advanced rotor III
+Advanced rotor IV
+Advanced rotor V
+Advanced rotor VI
+Superconducting rotor
+Steel Motor casing
+Aluminium Motor casing
+Stainless Motor casing
+Titanium Motor casing
+Tungstensteel Motor casing
+HSS-G Motor casing
+HSS-E Motor casing
+Neutronium Motor casing
+Magnetically permeable plate set
+Fe₂₆Si
+Ferrite core plates set
+NiZnFe₄O₈
+BrainTech Aerospace Advanced Reinforced Duct Tape FAL-84
+If you can't fix it with this, use more of this!
+Polycrystalline solar cell
+Can produce energy from sun!
+Monocrystalline solar cell
+Can produce energy from sun!
+Thin monocrystalline silicon plate
+It is really clean!
+%s Credit
+%s Credits
+Wallet
+Credits: %s
+Right click it while holding to open wallet UI
+Shift-right click while holding to add all credits from inventory to wallet
+NanoMuscle™ Suite: NightVision enabled
+NanoMuscle™ Suite: NightVision disabled
+QuarkTech™ Suite: NightVision enabled
+QuarkTech™ Suite: NightVision disabled
+Jetpack: hover mode enabled
+Jetpack: hover mode disabled
+§aON
+§cOFF
+Energy level: %s
+Fuel level: %s
+Hover mode: %s
+Supply mode: %s
+Fly mode: %s
+GraviEngine: %s
+Energy Supply: Gadgets charging enabled
+Energy Supply: Gadgets charging disabled
+Supply mode: %s
+To change mode shift-right click when holding item
+No machines installed
+Required EU/t: %s (%s)
+Owner successfully set to %s
+Available deals:
+%s deals
+Credits:
+Mode
+credits
+OreDict
+Exact
+§eLiquid fuel jetpack
+§eImpeller jetpack
+§bAdvanced Impeller jetpack
+Battery pack (§eLV§r)
+Battery pack (§eMV§r)
+Battery pack (§eHV§r)
+§eNanoMuscle™ Suite Chestplate
+§eNanoMuscle™ Suite Leggins
+§eNanoMuscle™ Suite Boots
+§eNanoMuscle™ Suite Helmet
+§bAdvanced NanoMuscle™ Suite Chestplate
+§bQuarkTech™ Suite Chestplate
+§bQuarkTech™ Suite Leggins
+§bQuarkTech™ Suite Boots
+§bQuarkTech™ Suite Helmet
+§5Advanced QuarkTech™ Suite Chestplate
+§ePower impeller
+§bAdvanced power impeller
+§5Gravitation engine unit
+In developing
+Max size: §a%s
+Generation: §a%s §7EU/t
+Can be placed as a multiblock to the maximum size
+Basic photoelectric cell
+A primitive photoelectric cell.
+Polycrystalline silicon solar panel
+A good choice between the cost of production and energy production.
+Monocrystalline silicon solar panel
+The best power efficiency, but cost of production is big.
+Processing Array
+§eHigh-current power inverter Mk.I
+§bHigh-current power inverter Mk.II
+§dHigh-current power inverter Mk.III
+Solar panel-only mode: %s
+Powerfull step-up power inverter. To toggle modes hit with mallet
+Making to many heat while working, be careful!
+Powerfull device let you controll your solar fields
+Advanced power controller for expensive panels
+§eVending Machine
+Vending Machine
+Basic Circuit Assembling Machine
+Advanced Circuit Assembling Machine
+Advanced Circuit Assembling Machine II
+Advanced Circuit Assembling Machine III
+Advanced Circuit Assembling Machine IV
+Advanced Circuit Assembling Machine V
+Advanced Circuit Assembling Machine VI
+Advanced Circuit Assembling Machine VII
+Basic Disassembling Machine
+Advanced Disassembling Machine
+Advanced Disassembling Machine II
+Advanced Disassembling Machine III
+Advanced Disassembling Machine IV
+Advanced Disassembling Machine V
+Advanced Disassembling Machine VI
+Advanced Disassembling Machine VII
+Basic Cluster Mill
+Advanced Cluster Mill
+Advanced Cluster Mill II
+Advanced Cluster Mill III
+Advanced Cluster Mill IV
+Advanced Cluster Mill V
+Advanced Cluster Mill VI
+Advanced Cluster Mill VII
+Electron Excitement Processor
+Electron Excitement Processor
+Electron Excitement Processor
+Electron Excitement Processor
+Blend-O-Matic 9001
+Blend-O-Matic 9002
+Blend-O-Matic 9003
+Blend-O-Matic 9004
+Advanced Alloy Smelter IV
+Advanced Alloy Smelter V
+Advanced Alloy Smelter VI
+Advanced Alloy Smelter VII
+Advanced Amplifabricator IV
+Advanced Amplifabricator V
+Advanced Amplifabricator VI
+Advanced Amplifabricator VII
+Advanced Arc Furnace IV
+Advanced Arc Furnace V
+Advanced Arc Furnace VI
+Advanced Arc Furnace VII
+Advanced Assembling Machine IV
+Advanced Assembling Machine V
+Advanced Assembling Machine VI
+Advanced Assembling Machine VII
+Advanced Autoclave IV
+Advanced Autoclave V
+Advanced Autoclave VI
+Advanced Autoclave VII
+Advanced Bending Machine IV
+Advanced Bending Machine V
+Advanced Bending Machine VI
+Advanced Bending Machine VII
+Advanced Brewery IV
+Advanced Brewery V
+Advanced Brewery VI
+Advanced Brewery VII
+Advanced Canning Machine IV
+Advanced Canning Machine V
+Advanced Canning Machine VI
+Advanced Canning Machine VII
+Molecular Separator
+Molecular Cyclone
+Molecular Cyclone
+Molecular Cyclone
+Molecular Cyclone
+Advanced Chemical Bath IV
+Advanced Chemical Bath V
+Advanced Chemical Bath VI
+Advanced Chemical Bath VII
+Advanced Chemical Reactor IV
+Advanced Chemical Reactor V
+Advanced Chemical Reactor VI
+Advanced Chemical Reactor VII
+Advanced Compressor III
+Singularity Compressor
+Singularity Compressor
+Singularity Compressor
+Singularity Compressor
+Advanced Cutting Machine IV
+Advanced Cutting Machine V
+Advanced Cutting Machine VI
+Advanced Cutting Machine VII
+Advanced Distillery IV
+Advanced Distillery V
+Advanced Distillery VI
+Advanced Distillery VII
+Advanced Electrolyzer III
+Molecular Disintegrator E-4905
+Molecular Disintegrator E-4906
+Molecular Disintegrator E-4907
+Molecular Disintegrator E-4908
+Advanced Electromagnetic Separator IV
+Advanced Electromagnetic Separator V
+Advanced Electromagnetic Separator VI
+Advanced Electromagnetic Separator VII
+Advanced Extractor III
+Vacuum Extractor
+Vacuum Extractor
+Vacuum Extractor
+Vacuum Extractor
+Advanced Extruder IV
+Advanced Extruder V
+Advanced Extruder VI
+Advanced Extruder VII
+Advanced Fermenter IV
+Advanced Fermenter V
+Advanced Fermenter VI
+Advanced Fermenter VII
+Instant Fluid Canner
+Instant Fluid Canner
+Instant Fluid Canner
+Instant Fluid Canner
+Advanced Fluid Extractor IV
+Advanced Fluid Extractor V
+Advanced Fluid Extractor VI
+Advanced Fluid Extractor VII
+Advanced Fluid Heater IV
+Advanced Fluid Heater V
+Advanced Fluid Heater VI
+Advanced Fluid Heater VII
+Advanced Fluid Solidifier IV
+Advanced Fluid Solidifier V
+Advanced Fluid Solidifier VI
+Advanced Fluid Solidifier VII
+Advanced Forge Hammer IV
+Advanced Forge Hammer V
+Advanced Forge Hammer VI
+Advanced Forge Hammer VII
+Advanced Forming Press IV
+Advanced Forming Press V
+Advanced Forming Press VI
+Advanced Forming Press VII
+Advanced Lathe IV
+Advanced Lathe V
+Advanced Lathe VI
+Advanced Lathe VII
+Advanced Microwave IV
+Advanced Microwave V
+Advanced Microwave VI
+Advanced Microwave VII
+Advanced Mixer IV
+Advanced Mixer V
+Advanced Mixer VI
+Advanced Mixer VII
+Repurposed Laundry-Washer I-360
+Repurposed Laundry-Washer I-720
+Repurposed Laundry-Washer I-1080
+Repurposed Laundry-Washer I-1440
+Boxinator
+Boxinator
+Boxinator
+Boxinator
+Unboxinator
+Unboxinator
+Unboxinator
+Unboxinator
+Advanced Plasma Arc Furnace IV
+Advanced Plasma Arc Furnace V
+Advanced Plasma Arc Furnace VI
+Advanced Plasma Arc Furnace VII
+Advanced Polarizer IV
+Advanced Polarizer V
+Advanced Polarizer VI
+Advanced Polarizer VII
+Advanced Precision Laser Engraver IV
+Advanced Precision Laser Engraver V
+Advanced Precision Laser Engraver VI
+Advanced Precision Laser Engraver VII
+Advanced Sifting Machine IV
+Advanced Sifting Machine V
+Advanced Sifting Machine VI
+Advanced Sifting Machine VII
+Blaze Sweatshop T-6350
+Blaze Sweatshop T-6360
+Blaze Sweatshop T-6370
+Blaze Sweatshop T-6380
+Advanced Wiremill IV
+Advanced Wiremill V
+Advanced Wiremill VI
+Advanced Wiremill VII
+Assembly Line
+Steam Mixer
+Naquadah Reactor Mk. 1
+Naquadah Reactor Mk. 2
+Naquadah Reactor Mk. 3
+Naquadah Reactor Mk. 4
+Basic Mass Fabricator
+Advanced Mass Fabricator
+Advanced Mass Fabricator II
+Advanced Mass Fabricator III
+Advanced Mass Fabricator IV
+Advanced Mass Fabricator V
+Advanced Mass Fabricator VI
+Advanced Mass Fabricator VII
+Basic Replicator
+Advanced Replicator
+Advanced Replicator II
+Advanced Replicator III
+Advanced Replicator IV
+Advanced Replicator V
+Advanced Replicator VI
+Advanced Replicator VII
+Advanced Pump IV
+Advanced Pump V
+Advanced Pump VI
+Advanced Pump VII
+Advanced Air Collector III
+Atmosphere Collector
+Atmosphere Collector
+Producing The Purest Of Elements
+Fusion Reactor Computer Mark 1
+Fusion Reactor Computer Mark 2
+Fusion Reactor Computer Mark 3
+Basic Fisher
+Advanced Fisher
+Advanced Fisher II
+Advanced Fisher III
+Advanced Fisher VI
+Advanced Fisher V
+Advanced Fisher VI
+Advanced Fisher VII
+Assembly Line Casing
+Reinforced Glass
+Reactor Casing
+%s Bending Cylinder
+Small %s Bending Cylinder
+Cluster Mill
+Circuit Assembler
+Assembly Line
+Naquadah Reactor Fuels
+Replicator
+Mass Fabricator
+Disassembling
+Processing Array
+Plasma Turbine Fuels
+Coal Coke
+Phosphorous Pentoxide
+Phosphoric Acid
+Polyvinyl Acetate
+Phenol
+Bisphenol A
+Epoxy Resin
+Fiber-Reinforced Epoxy Resin
+Borosilicate Glass
+Polyvinyl Chloride
+Vinyl Chloride
+Ethylene
+Charcoal Byproducts
+Benzene
+Wood Gas
+Wood Vinegar
+Wood Tar
+Sodium Hydroxide
+Quicklime
+Acetone
+Sulfur Trioxide
+Sulfur Dioxide
+Glycerol
+Fish Oil
+Sodium Hydroxide Solution
+Methanol
+Carbon Monoxide
+Cetane-Boosted Diesel
+Diluted Sulfuric Acid
+Sodium Bisulfate
+Chloroform
+Diluted Hydrochloric Acid
+Hypochlorous Acid
+Ammonia
+Chloramine
+Dimethylamine
+1,1-Dimethylhydrazine
+Rocket Fuel
+Dinitrogen Tetroxide
+Silicone Rubber
+Polydimethylsiloxane
+Dimethyldichlorosilane
+Styrene
+Polystyrene
+Butadiene
+Raw Styrene-Butadiene Rubber
+Styrene-Butadiene Rubber
+Dichlorobenzene
+Hydrochloric Acid
+Acetic Acid
+Fermented Biomass
+Potash
+Soda Ash
+Hydrofluoric Acid
+Nitric Oxide
+Methyl Acetate
+Ethenone
+Tetranitromethane
+Bio Diesel
+Raw Growth Medium
+Sterilized Growth Medium
+Meat
+Cooked Meat
+Vinyl Acetate
+Gallium Arsenide
+Polyphenylene Sulfide
+Nickel Sulfate Water Solution
+Blue Vitriol Water Solution
+Propane
+Propene
+Ethane
+Butene
+Butane
+Calcium Acetate Solution
+Cumene
+Indium Gallium Phosphide
+Platinum Group Sludge
+Ferrite Mixture
+Nickel Zinc Ferrite
+Indium Concentrate
+Lead-Zinc Solution
+Tetrafluoroethylene
+Salt Water
+Hydro-Cracked Ethane
+Hydro-Cracked Ethylene
+Hydro-Cracked Propene
+Hydro-Cracked Propane
+Hydro-Cracked Light Fuel
+Hydro-Cracked Butane
+Hydro-Cracked Naphtha
+Hydro-Cracked Heavy Fuel
+Hydro-Cracked Refinery Gas
+Hydro-Cracked Butene
+Hydro-Cracked Butadiene
+Steam-Cracked Ethane
+Steam-Cracked Ethylene
+Steam-Cracked Propene
+Steam-Cracked Propane
+Steam-Cracked Light Fuel
+Steam-Cracked Butane
+Steam-Cracked Naphtha
+Steam-Cracked Heavy Fuel
+Steam-Cracked Refinery Gas
+Steam-Cracked Butene
+Steam-Cracked Butadiene
+Bio Gas
+Chloromethane
+Allyl Chloride
+Isoprene
+Massicot
+Antimony Trioxide
+Zincite
+Cobalt Oxide
+Arsenic Trioxide
+Cupric Oxide
+Ferrosilite
+Magnesia
+Sodium Sulfide
+Neutral Matter
+Positive Matter
+Neutronium
+Plasma Confinement
+Lignite Coke
+MV Superconductor Base
+HV Superconductor Base
+EV Superconductor Base
+IV Superconductor Base
+LuV Superconductor Base
+ZPM Superconductor Base
+MV Superconductor
+HV Superconductor
+EV Superconductor
+IV Superconductor
+LuV Superconductor
+ZPM Superconductor
+Enderium
+Alumino Silicate Wool
+Alumino Silicate Wool
+Mica Based Pulp
+Mica Based Pulp
+Iron III Chloride
+Quartz Sand
+Electrical Steel
+Epoxy Resin Bar
+Tiny Pile of Epoxy Resin Pulp
+Small Pile of Epoxy Resin Pulp
+Epoxy Resin Pulp
+Epoxy Resin Chip
+Dense Epoxy Resin Sheet
+Epoxy Resin Sheet
+Thin Epoxy Resin Sheet
+Fiber-Reinforced Epoxy Resin Bar
+Tiny Pile of Fiber-Reinforced Epoxy Resin Pulp
+Small Pile of Fiber-Reinforced Epoxy Resin Pulp
+Fiber-Reinforced Epoxy Resin Pulp
+Fiber-Reinforced Epoxy Resin Chip
+Dense Fiber-Reinforced Epoxy Resin Sheet
+Fiber-Reinforced Epoxy Resin Sheet
+Thin Fiber-Reinforced Epoxy Resin Sheet
+Borosilicate Glass Bar
+Tiny Pile of Borosilicate Glass Pulp
+Small Pile of Borosilicate Glass Pulp
+Borosilicate Glass Pulp
+Borosilicate Glass Chip
+Dense Borosilicate Glass Sheet
+Borosilicate Glass Sheet
+Thin Borosilicate Glass Sheet
+Polyvinyl Chloride Bar
+Tiny Pile of Polyvinyl Chloride Pulp
+Small Pile of Polyvinyl Chloride Pulp
+Polyvinyl Chloride Pulp
+Polyvinyl Chloride Chip
+Dense Polyvinyl Chloride Sheet
+Polyvinyl Chloride Sheet
+Thin Polyvinyl Chloride Sheet
+Silicone Rubber Bar
+Tiny Pile of Silicone Rubber Pulp
+Small Pile of Silicone Rubber Pulp
+Silicone Rubber Pulp
+Silicone Rubber Chip
+Dense Silicone Rubber Sheet
+Silicone Rubber Sheet
+Thin Silicone Rubber Sheet
+Polystyrene Bar
+Tiny Pile of Polystyrene Pulp
+Small Pile of Polystyrene Pulp
+Polystyrene Pulp
+Polystyrene Chip
+Dense Polystyrene Sheet
+Polystyrene Sheet
+Thin Polystyrene Sheet
+Styrene-Butadiene Rubber Bar
+Tiny Pile of Styrene-Butadiene Rubber Pulp
+Small Pile of Styrene-Butadiene Rubber Pulp
+Styrene-Butadiene Rubber Pulp
+Styrene-Butadiene Rubber Chip
+Dense Styrene-Butadiene Rubber Sheet
+Styrene-Butadiene Rubber Sheet
+Thin Styrene-Butadiene Rubber Sheet
+Tiny Pile of Mince Meat
+Small Pile of Mince Meat
+Mince Meat
+The Assembly Line is a large multiblock structure consisting of 5 to 16 "slices". In theory, it's large Assembling Machine, used for creating advanced crafting components.
+The Processing Array combines up to 16 single block machines in a single multiblock.
+The Fusion Reactor Mark 1 is a large multiblock structure used for fusing elements into heavier ones. The Mark 1 Fusion Reactor can use LuV, ZPM or UV Energy Hatches. For every Hatch it has its buffer increases by 100k.
+The Fusion Reactor Mark 2 is a large multiblock structure used for fusing elements into heavier ones. The Mark 2 Fusion Reactor can use ZPM or UV Energy Hatches. For every Hatch it has its buffer increases by 200k.
+The Fusion Reactor Mark 3 is a large multiblock structure used for fusing elements into heavier ones. The Mark 3 Fusion Reactor can only use UV Energy Hatches. For every Hatch it has its buffer increases by 400k.
+Curved %s Plate
+Double %s Ingot
+Microprocessor
+A Basic Circuit
+Programmed Circuit
+Integrated Logic Circuit
+A Basic Circuit
+Integrated Processor
+A Good Circuit
+Crystalprocessor Assembly
+A Master Circuit
+Quantumprocessor Assembly
+An Elite Circuit
+Neutronium Credit
+Sticky Resin
+Firebricks
+Structure: 3x3x4 (WxLxH) The entire structure is made out of Firebricks (32 in total)./nFirst Layer is a 3x3 square./nSecond, third, and fourth layers are hollow, without the middle block./nThis block goes on the middle of any side in the second layer./nThe sides of Blast Furnaces can be shared, if the side does not have a controller./n
+Wooden Barrel
+Bronze Drum
+Steel Drum
+Stainless Steel Drum
+Titanium Drum
+Tungstensteel Drum
+Water
+Lava

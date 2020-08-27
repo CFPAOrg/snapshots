@@ -1,0 +1,22 @@
+Inventory Sorter
+Inventory sorting
+Is the inventory sorting module enabled?
+Mouse-wheel movement
+Is the mouse-wheel scroll to move an item module enabled?
+Move-all items
+Is the spacebar to move all items module enabled?
+Debug Container sorting
+Create log messages when a container is being sorted to aid in blacklist compilation
+Inventory Sorter
+Sort inventory
+Wheel item to cursor
+Wheel item from cursor
+Mousewheel Up
+Mousewheel Down
+/inventorysorter §ebladd§f|§eblrem§f|§eshow§f|§elist§f (add/remove last sorted container to blacklist, show last container, list blacklisted)
+Added %1$s§f to container blacklist
+Removed %1$s§f from container blacklist
+Last container sorted %1$s
+Current blacklist %1$s
+The blacklist is empty
+§cThe last command had no effect (maybe try sorting a container?)

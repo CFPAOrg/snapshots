@@ -1,0 +1,34 @@
+Allomancy
+Tin Ore
+Lead Ore
+Copper Ore
+Zinc Ore
+Iron Lever
+This lever seems to heavy to move by ordinary means
+Hand Grinder
+Lerasium Nugget
+This item is endowed with strange powers, perhaps you should ingest it?
+Mistcloak
+Coin Bag
+Allomancy
+Burn Metals
+/allomancy <power level> [player]
+Setting %s to %s
+Allomantic Vial
+Brass Flakes
+Bronze Flakes
+Iron Flakes
+Steel Flakes
+Pewter Flakes
+Copper Flakes
+Tin Flakes
+Zinc Flakes
+Lead Flakes
+Zinc Ingot
+Lead Ingot
+Tin Ingot
+Copper Ingot
+Brass Ingot
+Bronze Ingot
+Become Mistborn!
+You have a power most people envy...

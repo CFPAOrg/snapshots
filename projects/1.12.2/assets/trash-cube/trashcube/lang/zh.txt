@@ -1,0 +1,43 @@
+Trash Cube
+Compressed Trash Block (Black)
+Compressed Trash Block (Red)
+Compressed Trash Block (Green)
+Compressed Trash Block (Brown)
+Compressed Trash Block (Blue)
+Compressed Trash Block (Purple)
+Compressed Trash Block (Cyan)
+Compressed Trash Block (Light Gray)
+Compressed Trash Block (Gray)
+Compressed Trash Block (Pink)
+Compressed Trash Block (Lime)
+Compressed Trash Block (Yellow)
+Compressed Trash Block (Light Blue)
+Compressed Trash Block (Magenta)
+Compressed Trash Block (Orange)
+Compressed Trash Block (White)
+Notification Upgrade
+Blacklist Upgrade
+Whitelist Upgrade
+The Structure Path is blocked. Please ensure that TrashCube
+is in the center of the bottom layer of a 5x5 empty cube, then insert your trash again.
+This Trash Cube's
+structure is completed. Now it will only void the trash until you pickup some of the Compressed Trash Blocks.
+Notification Upgrade
+Use this to tell a specific nearby player when Trash Cube's Structure is fully built or when its path is blocked.
+To specify the player, change its name to the player's username.
+You Can use this upgrade to filter items that go in TrashCube
+Right-click this item to open its Gui and change the list as you wish
+Every TrashCube with this upgrade will drop items that are in the blacklist from its inventory out
+You Can use this upgrade to filter items that go in TrashCube
+Right-click this item to open its Gui and change the list as you wish
+Every TrashCube with this upgrade will drop items that are not in the whitelist from its inventory out
+§9§oHold SHIFT for more info
+Doesn't do anything right now because reasons
+Wait for next update ;|
+Converts your trash into a Compressed Trash Block every time its inventory gets full
+Has 3 slots by default
+Use a Hopper to insert items from top
+This is the output of TrashCube!
+You can use it as a decorative block
+or even as furnace fuel!
+Trash Cube

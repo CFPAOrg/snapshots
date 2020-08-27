@@ -1,0 +1,70 @@
+Baronyte Dust
+Tiny Pile of Mystite Dust
+Crushed Arlemite Ore
+Crushed Baronyte Ore
+Crushed Blazium Ore
+Crushed Elecanium Ore
+Crushed Emberstone Ore
+Crushed Ghastly Ore
+Crushed Ghoulish Ore
+Crushed Limonite Ore
+Crushed Lyon Ore
+Crushed Mystite Ore
+Crushed Realmite Ore
+Crushed Rosite Ore
+Crushed Rupee Ore
+Crushed Varsium Ore
+Arlemite Dust
+Tiny Pile of Arlemite Dust
+Tiny Pile of Baronyte Dust
+Blazium Dust
+Tiny Pile of Blazium Dust
+Elecanium Dust
+Tiny Pile of Elecanium Dust
+Emberstone Dust
+Tiny Pile of Emberstone Dust
+Ghastly Dust
+Tiny Pile of Ghastly Dust
+Ghoulish Dust
+Tiny Pile of Ghoulish Dust
+Limonite Dust
+Tiny Pile of Limonite Dust
+Lyon Dust
+Tiny Pile of Lyon Dust
+Mystite Dust
+Realmite Dust
+Tiny Pile of Realmite Dust
+Rosite Dust
+Tiny Pile of Rosite Dust
+Rupee Dust
+Tiny Pile of Rupee Dust
+Varsium Dust
+Tiny Pile of Varsium Dust
+Purified Crushed Arlemite Ore
+Purified Crushed Baronyte Ore
+Purified Crushed Blazium Ore
+Purified Crushed Elecanium Ore
+Purified Crushed Emberstone Ore
+Purified Crushed Ghastly Ore
+Purified Crushed Ghoulish Ore
+Purified Crushed Limonite Ore
+Purified Crushed Lyon Ore
+Purified Crushed Mystite Ore
+Purified Crushed Realmite Ore
+Purified Crushed Rosite Ore
+Purified Crushed Rupee Ore
+Purified Crushed Varsium Ore
+Crushed Shyrestone Ore
+Purified Crushed Shyrestone Ore
+Shyrestone Dust 
+Tiny Pile of Shyrestone Dust
+Runic Mortar
+Barathos Stone Dust
+Iromine Stone Dust
+Greckon Stone Dust
+Netherrack Dust
+Baron Stone Dust
+Shyre Rock Dust
+Mysterium Stone Dust
+Runic Brick
+IC2 RPG

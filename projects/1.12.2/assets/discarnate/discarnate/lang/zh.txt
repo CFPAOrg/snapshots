@@ -1,0 +1,27 @@
+Spirit Channeler
+Task: None
+Task: Info
+Task: Wait
+Task: Drop Held Item
+Task: Swap Held Items
+Task: Move Forward
+Task: Move Backward
+Task: Strafe Left
+Task: Strafe Right
+Task: Cancel Movement
+Task: Look Up
+Task: Look Down
+Task: Look Left
+Task: Look Right
+Task: Face Horizon
+Task: Face Cardinal Direction
+Task: Sneak
+Task: Jump
+Task: Swing Held Item
+Task: Use Held Item
+Task: Switch Hotbar Slot
+Task: Terminate
+Spirit Channeler
+Start
+Stop
+Discarnate

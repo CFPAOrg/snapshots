@@ -1,0 +1,30 @@
+Test Block
+Hardcore Island
+General Settings
+Radial Settings
+Biome Settings
+Make Minecraft "fun" again!
+Copy to clipboard
+Open Editor
+Enabled
+Biome Shape Fuzz
+Smooth Biome Edges
+Generate Edges/Beaches
+Edge Biome Scale Steps
+Beach Size
+Radial Biome Settings
+Customize biome radii
+Spawn: %s
+Biome: %s, radius %s
+Add Biome
+Radial Biome Settings
+Edit biome settings
+Edit
+Stone Block
+Sea Level
+Ocean Block
+Layers
+Layers (Underwater)
+Generate falls
+Generate lakes
+Generate lakes (Lava)

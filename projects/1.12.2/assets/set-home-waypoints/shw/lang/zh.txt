@@ -1,0 +1,49 @@
+This position is not defined or is invalid !
+Wait %ds before use %s
+Cooldown is set to %ds
+Travel through dimension is forbidden for %s
+Cooldown of %s is set to %ds
+Travel through dimension of %s is set to %s
+Limit of %s is set to %d
+If you override this waypoint accidentally, use /%s %s to undo you action. Set or use a new waypoint will override this waypoint forever
+If you remove this waypoint accidentally, use /%s %s to undo you action. Set a new waypoint will delete this waypoint forever
+Your waypoint %s has been recovered
+Your home has been recovered
+Sorry, your last removed waypoint can't be recovered
+Your last removed waypoint is now lost forever...
+Your last removed/overridden waypoint is now lost forever...
+Your last overridden waypoint is now lost forever...
+Cannot undo your action, you've already reach maximum of waypoints (%d)
+%s value cannot exceed %d digits
+%s value cannot be negavite
+%s value has to be a %s
+Limit of home is 1 forever !
+Cooldown of %s has been uptated to %ds
+Travel through dimension for %s has been set to '%s'
+Maximum of %s has been set to %s
+boolean
+number
+Use /home to configure home command
+/sethome
+Your home has been set
+/home <argInfo-optional>
+Teleporting to your home...
+Your home hasn't been set yet
+/%s %s <%s>
+/%s %s
+To change the configuration, use the GUI in mod options or in the console for servers
+/wp %s
+/wp %s <name>
+Teleporting to %s
+You have reached the limit of waypoints (%s) !
+/wp use %s
+You can have a maximum of %d waypoints
+Waypoints %s hasn't been set yet
+Waypoints %s has been updated !
+Waypoints %s has been set !
+Waypoints can't have arguments name
+Waypoints %s doesn't respect the pattern %s If you don't understand, google Regex...
+All your waypoints have been removed
+Waypoints %s has been removed
+Can't remove waypoint named %s
+Teleport to home

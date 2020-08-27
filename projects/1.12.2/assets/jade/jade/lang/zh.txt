@@ -1,0 +1,26 @@
+Show states
+Show inventory info
+Inventory is locked
+Horse stat
+Jump height: %s
+Speed: %s
+Entity effects
+%s %s (%s)
+Item frame
+Llama strength
+Strength: %s
+Mob growth
+Growing time: %ss
+Mob breeding
+Breeding cooldown: %ss
+Brewing stand
+Time: %ss
+Fuel: %s
+Item Frame
+Minecart
+Minecart with Furnace
+Minecart with TNT
+Minecart with Spawner
+Minecart with Command Block
+Ender Crystal
+Leash Knot

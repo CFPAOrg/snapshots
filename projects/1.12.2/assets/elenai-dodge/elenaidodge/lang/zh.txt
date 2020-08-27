@@ -1,0 +1,10 @@
+Dodge
+Elenai's Blessing
+Skystride
+Sluggish
+Dodge
+Holding Left Alt and tapping a movement key will have you dodge in that direction. You will be unable to dodge again until the blue cooldown bar has completely depleted.
+Ledge Grab
+Pressing Shift whilst in midair with your head above a block will let you grab onto it and pull yourself up. This allows you to climb up two high walls by jumping then sneaking in midair. For realism you must be facing the block you wish to climb.
+Wall Jump
+Pressing Jump whilst in midair with your front touching a wall will push you off of it. You can turn around in midair to push off subsequent walls. For realism, you must be facing the wall to push off of it.

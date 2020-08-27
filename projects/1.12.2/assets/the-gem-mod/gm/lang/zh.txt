@@ -1,0 +1,111 @@
+The Gem Mod
+Ground Root
+Cleaned Root
+Root Dirt
+Ruby
+Sapphire
+Amethyst
+Citrine
+Garnet
+Apatite
+Peridot
+Tourmaline
+Zavier
+Block of Ruby
+Block of Sapphire
+Block of Amethyst
+Block of Citrine
+Block of Garnet
+Block of Apatite
+Block of Peridot
+Block of Tourmaline
+Block of Zavier
+Ruby Ore
+Sapphire Ore
+Amethyst Ore
+Citrine Ore
+Garnet Ore
+Apatite Ore
+Peridot Ore
+Tourmaline Ore
+Amethyst Sword
+Amethyst Shovel
+Amethyst Pickaxe
+Amethyst Axe
+Amethyst Hoe
+Apatite Sword
+Apatite Shovel
+Apatite Pickaxe
+Apatite Axe
+Apatite Hoe
+Citrine Sword
+Citrine Shovel
+Citrine Pickaxe
+Citrine Axe
+Citrine Hoe
+Garnet Sword
+Garnet Shovel
+Garnet Pickaxe
+Garnet Axe
+Garnet Hoe
+Peridot Sword
+Peridot Shovel
+Peridot Pickaxe
+Peridot Axe
+Peridot Hoe
+Ruby Sword
+Ruby Shovel
+Ruby Pickaxe
+Ruby Axe
+Ruby Hoe
+Sapphire Sword
+Sapphire Shovel
+Sapphire Pickaxe
+Sapphire Axe
+Sapphire Hoe
+Tourmaline Sword
+Tourmaline Shovel
+Tourmaline Pickaxe
+Tourmaline Axe
+Tourmaline Hoe
+Zavier Sword
+Zavier Shovel
+Zavier Pickaxe
+Zavier Axe
+Zavier Hoe
+Amethyst Helmet
+Amethyst Chestplate
+Amethyst Leggings
+Amethyst Boots
+Apatite Helmet
+Apatite Chestplate
+Apatite Leggings
+Apatite Boots
+Citrine Helmet
+Citrine Chestplate
+Citrine Leggings
+Citrine Boots
+Garnet Helmet
+Garnet Chestplate
+Garnet Leggings
+Garnet Boots
+Peridot Helmet
+Peridot Chestplate
+Peridot Leggings
+Peridot Boots
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Tourmaline Helmet
+Tourmaline Chestplate
+Tourmaline Leggings
+Tourmaline Boots
+Zavier Helmet
+Zavier Chestplate
+Zavier Leggings
+Zavier Boots

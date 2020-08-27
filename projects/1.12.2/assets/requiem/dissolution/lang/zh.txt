@@ -1,0 +1,78 @@
+/dissolution <setRemnant|dialogue|cmode> [args]
+"%s" is not a valid status. Valid statuses are : body, soul, ectoplasm
+%1$s is currently in %2$s form
+You are currently in %2$s form
+/dissolution <corporealitymode|cmode> set <body|soul|ectoplasm> [player]
+%s is not a Remnant ! His corporeality status cannot be changed.
+Successfully updated %s's corporeality status
+/dissolution <corporealitymode|cmode> <query|set> [body|soul|ectoplasm] [player]
+Reset dialogue progress for %s
+/dissolution dialogue reset [player]
+%s is not a valid choice. Please input a number.
+/dissolution dialogue say <dialogue>
+/dissolution dialogue <say|reset>
+Could not update soul status as the config doesn't allow it
+%1$s is a %2$s
+You are a %2$s
+/dissolution setRemnant <player> [true|false]
+Updated %s's soul status
+/dissolution setRemnant <player> [true|false]
+Only incorporeal people and admins can use this command
+/dissolution stuck
+Settings related to client side features
+Use shaders
+Settings related to Dissolution's dialogue system
+Settings related to entities added by Dissolution
+Enforced Soul Strength
+Allow stuck command
+Authorized Entities
+Flight mode
+Full invisibility
+Die from no Experience
+Max traversable thickness
+Settings related to the incorporeal forms, soul and ectoplasm
+Respawn Corporeality Status
+Respawn dimension
+Force respawn in dimension
+Skip death screen
+Settings related to player respawn
+Settings related to stuff that generates naturally in the world
+The law of the cycle
+Your corporeality status has been changed to %s
+body
+ectoplasm
+soul
+[%1$s: %2$s]
+(select your answer by clicking it)
+Click here to send your answer
+You do not think about it much longer, and go on to continue what you were doing.
+It is a new dawn. The birds are singing and as the sun rises, you feel...
+... a fierce determination, as if nothing could make you leave this world, even death.
+... a vacillating doubt, with the mindset of nothing being eternal, sooner or later meeting its fate.
+It looks like the Dissolution mod has been installed on this minecraft instance. Do you want to be affected by its revamped death system ?
+Yes, I know what the so-called "death system" implies and entails. I want to be affected by it and I won't blame Dissolution or its creators for any intended behaviour stemming from it. I may however provide feedback and report issues for any unintended side effect or behaviour.
+No, I don't want this mod to affect me in any way that doesn't involve other players.
+This is a dialogue prompted by the Dissolution mod. More information can be found at https://minecraft.curseforge.com/projects/dissolution.
+You feel heavy all of a sudden.
+Your soul is now %s
+Remnant
+vanilla player
+Despite the headache, you feel abnormally lightened.
+Wandering Soul
+Eau De Mort
+Ghast Water
+Sanguine Potion
+Eau De Mort
+Brain
+Human Flesh
+Heart
+Sanguine Potion
+Dissolution
+Lingering Obnoxious Potion
+Obnoxious Potion
+Splash Obnoxious Potion
+%s is not a valid soul state
+You feel your body fading away as the world starts rejecting any hostility
+As your last memory fades away, so does your soul. You feel the cold hands of inexistence grabbing your back, and gradually all of yourself. You realize you are no longer part of this world, physically and mentally, and that it is time to let go...
+Your last memories fade away with the wind, as you realize you won't get an experience like this again. Maybe some day you can come back to this life, but not today...
+%1$s's soul faded away with their last memory.

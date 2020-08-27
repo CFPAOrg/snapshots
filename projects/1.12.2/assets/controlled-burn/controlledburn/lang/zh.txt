@@ -1,0 +1,45 @@
+Global Multipliers
+Multipliers for how fast fire naturally spreads and how fast fire burns blocks\n\nAlso includes the setting for how often fire updates (which makes everything fire-related faster or slower)\n \n
+Special Toggles
+Includes whether certain sources can start fires, whether fire ignores rain, and other oddities\n \n
+Burn Spread Chances
+These determine how often fire spreads to adjacent blocks after burning a block\n \n
+Fire Spread Ranges / Reach
+How far fire can naturally spread from one block to another in each direction\n \n
+Spread Strengths (Advanced)
+How much "life" new fires have when spreading\n \n
+Block-Specific Settings (Advanced)
+Block Transformations
+This allows you to set what a block will become when it burns\nEg. you can make grass blocks turn to dirt by using this setting:\nminecraft:grass, minecraft:dirt\n\nKeep in mind that this won't do anything unless you make sure the first block is actually flammable (and maybe give it encouragement too, depending; see the MC wiki for more info on those stats)\n \n
+Burn Speed Multiplier
+How fast blocks are destroyed (burnt) when 'on fire', as a multiplier (2 means twice as fast, 0.5 means half as fast)\n\nAKA flammability multiplier\n\nSet this to 0 to make it so fire doesn't break (burn) blocks at all (but can still be lit)\n \n
+Spread Speed Multiplier
+How fast fire spreads, as a multiplier (2 means twice as fast, 0.5 means half as fast)\n\nAKA encouragement multiplier\n \n
+Tick Delay
+The number of game ticks before fire blocks update themselves\n\nThe lower you set this, the faster fire works (in every way)\n \n
+Tick Delay Randomization
+By default, MC adds 0-9 ticks to each tick delay\n\nThe lower you set this, the faster fire works (in every way), and the less random it works, time-wise (but not to any noticeable degree for the latter)\n \n
+Ignore Humid Biomes
+If set to true, fire ignores the fire resistance of humid biomes\n\nThis affects block destruction (burn) chance and natural fire spread chance in humid biomes\n \n
+Ignore Rain
+If set to true, fire ignores rain\n\nWHEN IT'S RAINING this affects chance of fire extinguishing from rain, chance of natural fire spread, and chance of fire spread when fire destroys (burns) a block\n \n
+Disable Fires From Lava
+Whether fire spreading from lava is disabled\n \n
+Disable Fires From Lightning
+Whether fire spreading from lightning is disabled\n \n
+LOS-Only Fire Spread
+Whether fire requires line-of-sight to spread to a new location\n \n
+Max Burn Spread Chance
+When a fire at the MAXIMUM age (15 in vanilla) destroys (burns through) a block, the chance that the broken (burnt) block is replaced with fire\n\nDoes nothing if fire never destroys blocks, eg. if dontDestroyBlocks is set to true\n\nUses a full-number percentage (25 means 25% chance, 75 means 75% chance)\n \n
+Min Burn Spread Chance
+When a fire at the MINIMUM age (0 in vanilla) destroys (burns through) a block, the chance that the broken (burnt) block is replaced with fire\n\nDoes nothing if fire never destroys blocks, eg. if dontDestroyBlocks is set to true\n\nUses a full-number percentage (25 means 25% chance, 75 means 75% chance)\n \n
+Reach (Upwards)
+The maximum upward distance fire can naturally spread to when updating (eg. between two trees)\n \n
+Reach (Downwards)
+The maximum downward distance fire can naturally spread to when updating (eg. between two trees)\n \n
+Reach (Sideways)
+The maximum horizontal distance fire can naturally spread to when updating (eg. between two trees)\n \n
+Spread Strength (Block Destroyed)
+When fire spreads by destroying a block, the new fire's duration is set to the duration of the fire it came from, multiplied by this\n\nFire's lifetime is only measured in integers from 0 to 15, so if you set the percentage to anything lower than 7 it will be the same as if you set it to 0\n\nUses a full-number percentage (25 means 25% strength, 75 means 75% strength)\n\nThe normal vanilla fire mechanics don't use a percentage reduction like this, so set this to -1 if you want vanilla mechanics in this regard\n \n
+Spread Strength (Natural Spread)
+When fire spreads naturally, ie. not when it's spreading by destroying (burning) a block, the new fire's duration is set to the duration of the fire it came from, multiplied by this\n\nFire's lifetime is only measured in integers from 0 to 15, so if you set the percentage to anything lower than 7 it will be the same as if you set it to 0\n\nUses a full-number percentage (25 means 25% strength, 75 means 75% strength)\n\nThe normal vanilla fire mechanics don't use a percentage reduction like this, so set this to -1 if you want vanilla mechanics in this regard\n \n

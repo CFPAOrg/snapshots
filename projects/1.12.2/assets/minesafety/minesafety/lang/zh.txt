@@ -1,0 +1,12 @@
+%1$s should wear a helmet next time
+MineSafety Config
+Y-Level
+The Y level at which you should wear a helmet.
+Chance
+The chance you get damaged this tick, in percent.
+Timeout
+The minimum time in seconds between 2 hits from this mod.
+Message
+The message displayed in-game when user takes damage from no helmet.
+Dimension Blacklist
+Depth Gauge

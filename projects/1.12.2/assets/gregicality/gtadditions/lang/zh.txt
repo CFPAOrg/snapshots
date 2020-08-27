@@ -1,0 +1,1838 @@
+Coated Circuit Board
+A Basic Board
+Epoxy Circuit Board
+An Advanced Board
+Fiber-Reinforced Circuit Board
+An Extreme Board
+Multilayer Fiber-Reinforced Circuit Board
+An Elite Board
+Phenolic Circuit Board
+A Good Board
+Plastic Circuit Board
+A Good Board
+Wetware Lifesupport Circuit Board
+The Board That Keeps Life
+Basic Circuit Board
+Good Phenolic Circuit Board
+Good Plastic Circuit Board
+Advanced Circuit Board
+Extreme Circuit Board
+Elite Circuit Board
+Master Circuit Board
+Raw Imprinted Resonatic Circuit Board
+Imprinted Resonatic Circuit Board
+Neuro Processing Unit
+Neuto CPU
+Monocrystalline Silicon Boule
+Raw Circuit
+Glowstone doped Monocrystalline Silicon Boule
+Raw Circuit
+Naquadah doped Monocrystalline Silicon Boule
+Raw Circuit
+Europium doped Monocrystalline Silicon Boule
+Americium doped Monocrystalline Silicon Boule
+Neutronium doped Monocrystalline Silicon Boule
+Coke Oven Brick
+Firebrick
+Neutronium Credit
+Diode
+Basic Electronic Component
+Capacitor
+Electronic Component
+Glass Fiber
+B(SiO2)7
+Glass Tube
+Petri Dish
+For Cultivating Cells
+Resistor
+Basic Electronic Component
+Small Coil
+Basic Electronic Component
+Electronic Component
+Electronic Component
+Electronic Component
+Electronic Component
+Transistor
+Basic Electronic Component
+Unfired Clay Brick
+Compressed Fireclay
+Brick-Shaped
+ASoC
+Advanced System on a Chip
+Integrated Logic Circuit
+Integrated Circuit
+Central Processing Unit
+Integrated Circuit
+High Power IC
+High Power Circuit
+NAND Memory Chip
+Integrated Circuit
+Nanocomponent Central Processing Unit
+Power Circuit
+NOR Memory Chip
+Integrated Circuit
+Power IC
+Power Circuit
+QBit Processing Unit
+Quantum CPU
+Random Access Memory Chip
+Integrated Circuit
+SoC
+System on a Chip
+Americium doped Wafer
+Neutronium doped Wafer
+Europium doped Wafer
+ASoC Wafer
+Raw Circuit
+Integrated Logic Circuit (Wafer)
+Raw Circuit
+Central Processing Unit (wafer)
+Raw Circuit
+Glowstone doped Wafer
+Raw Circuit
+HPIC Wafer
+Raw Circuit
+Naquadah doped Wafer
+Raw Circuit
+NAND Memory Chip (Wafer)
+Raw Circuit
+NanoCPU Wafer
+Raw Circuit
+NOR Memory Chip (wafer)
+Raw Circuit
+PIC Wafer
+Raw Circuit
+QBit Wafer
+Raw Circuit
+Random Acccess Memory Chip (Wafer)
+Raw Circuit
+Wafer
+Raw Circuit
+SoC Wafer
+Raw Circuit
+Acacia Brick Form
+Birch Brick Form
+Dark Oak Brick Form
+Jungle Brick Form
+Oak Brick Form
+Spruce Brick Form
+Raw Carbon Fibers
+Mixed Metal plate
+Advanced Alloy Plate
+Raw Crystal Chip
+Raw Crystal Processor
+Crystal Processing Unit
+Crystal CPU
+Crystal SoC
+Crystal System on a Chip
+Stemcells
+Raw Intelligence
+Lapotron Crystal
+Iridium Alloy Plate
+Uncompressed Iridium Alloy Plate
+Neutron Reflector
+Neuro Processing Unit
+Apatine Electrode
+Blazing Electrode
+Bronze Electrode
+Copper Electrode
+Diamantine Electrode
+Emerald Electrode
+Ender Electrode
+Golden Electrode
+Iron Electrode
+Lapis Electrode
+Obsidian Electrode
+Orchid Electrode
+Rubberised Electrode
+Tin Electrode
+Mica Based Sheet
+Mica Insulator Sheet
+Mica Insulator Foil
+Energy Module
+Energy Cluster
+MAX Battery
+%s Small Turbine Rotor
+%s Medium Turbine Rotor
+%s Large Turbine Rotor
+%s Huge Turbine Rotor
+Duct Tape
+§eLiquid fuel jetpack
+§eThruster Jetpack
+§bAdvanced Thruster Jetpack
+Battery pack (§eLV§r)
+Battery pack (§eMV§r)
+Battery pack (§eHV§r)
+§eNanoMuscle™ Suite Chestplate
+§eNanoMuscle™ Suite Leggins
+§eNanoMuscle™ Suite Boots
+§eNanoMuscle™ Suite Helmet
+§bAdvanced NanoMuscle™ Suite Chestplate
+§bQuarkTech™ Suite Chestplate
+§bQuarkTech™ Suite Leggins
+§bQuarkTech™ Suite Boots
+§bQuarkTech™ Suite Helmet
+§5Advanced QuarkTech™ Suite Chestplate
+§ePower Thruster
+§bAdvanced Power Thruster
+§5Gravitation Engine Unit
+Nano SMD Capacitor
+Wetware SMD Capacitor
+Quantum SMD Capacitor
+Crystal SMD Capacitor
+Refined SMD Capacitor
+Nano SMD Resistor
+Wetware SMD Resistor
+Quantum SMD Resistor
+Crystal SMD Resistor
+Refined SMD Resistor
+Nano SMD Diode
+Wetware SMD Diode
+Quantum SMD Diode
+Crystal SMD Diode
+Refined SMD Diode
+Nano SMD Transistor
+Wetware SMD Transistor
+Quantum SMD Transistor
+Crystal SMD Transistor
+Refined SMD Transistor
+Micro SMD Diode
+Micro SMD Capacitor
+Micro SMD Transistor
+Micro SMD Resistor
+Hand Pump
+%s Waste
+Nuclear
+Lanthanide Group A
+Lanthanide Group B
+Alkaline
+Metal Group A
+Metal Group B
+Metal Group C
+Heavy Metal
+Metaloid
+Nonmetal
+%s Dioxide Dust
+%s Nitrate Dust
+%s Hexafluoride Dust
+Jungle Plank
+Acacia Plank
+Dark Oak Plank
+Birch Plank
+Spruce Plank
+Oak Plank
+Compressed Coke Clay
+Schematic (Dust)
+Schematic (3x3)
+Schematic (2x2)
+Blank Schematic
+Unstable Star
+Primitive Processor
+§b§oLV Circuit
+Refined Processor
+§b§oLV Circuit
+Electronic Processor
+§b§oLV Circuit
+Primitive Assembly
+§b§oMV Circuit
+Electronic Assembly
+§b§oMV Circuit
+Refined Assembly
+§b§oMV Circuit
+Micro Processor
+§b§oMV Circuit
+Electronic Computer
+§b§oHV Circuit
+Refined Computer
+§b§oHV Circuit
+Micro Assembly
+§b§oHV Circuit
+Nano Processor
+§b§oHV Circuit
+Refined Mainframe
+§b§oEV Circuit
+Micro Computer
+§b§oEV Circuit
+Nano Assembly
+§b§oEV Circuit
+Quantum Processor
+§b§oEV Circuit
+Micro Mainframe
+§b§oIV Circuit
+Nano Computer
+§b§oIV Circuit
+Quantum Assembly
+§b§oIV Circuit
+Crystal Processor
+§b§oIV Circuit
+Nano Mainframe
+§b§oLuV Circuit
+Quantum Computer
+§b§oLuV Circuit
+Crystal Assembly
+§b§oLuV Circuit
+Wetware Processor
+§b§oLuV Circuit
+Quantum Mainframe
+§b§oZPM Circuit
+Crystal Computer
+§b§oZPM Circuit
+Wetware Assembly
+§b§oZPM Circuit
+Crystal Mainframe
+§b§oUV Circuit
+Wetware Computer
+§b§oUV Circuit
+Wetware Mainframe
+§b§oMAX Circuit
+Primitive Magneto Resonatic Circuit
+§b§oULV Circuit
+Basic Magneto Resonatic Circuit
+§b§oLV Circuit
+Good Magneto Resonatic Circuit
+§b§oMV Circuit
+Advanced Magneto Resonatic Circuit
+§b§oHV Circuit
+Extreme Magneto Resonatic Circuit
+§b§oEV Circuit
+Elite Magneto Resonatic Circuit
+§b§oIV Circuit
+Master Magneto Resonatic Circuit
+§b§oLuV Circuit
+Ultimate Magneto Resonatic Circuit
+§b§oZPM Circuit
+Superconductor Magneto Resonatic Circuit
+§b§oUV Circuit
+Infinite Magneto Resonatic Circuit
+§b§oMAX Circuit
+Cosmic Circuit
+Cosmic Processor
+Cosmic Assembly
+Cosmic Computer
+NanoMuscle™ Suite: NightVision enabled
+NanoMuscle™ Suite: NightVision disabled
+QuarkTech™ Suite: NightVision enabled
+QuarkTech™ Suite: NightVision disabled
+Jetpack: hover mode enabled
+Jetpack: hover mode disabled
+§aON
+§cOFF
+Energy level: %s
+Fuel level: %s
+Hover mode: %s
+Supply mode: %s
+Fly mode: %s
+GraviEngine: %s
+Energy Supply: Gadgets charging enabled
+Energy Supply: Gadgets charging disabled
+Supply mode: %s
+To change mode shift-right click when holding item
+Amperage IN: §a%d §7
+Basic Circuit Assembling Machine
+Advanced Circuit Assembling Machine
+Advanced Circuit Assembling Machine II
+Advanced Circuit Assembling Machine III
+Advanced Circuit Assembling Machine IV
+Advanced Circuit Assembling Machine V
+Advanced Circuit Assembling Machine VI
+Advanced Circuit Assembling Machine VII
+Basic Cluster Mill
+Advanced Cluster Mill
+Advanced Cluster Mill II
+Advanced Cluster Mill III
+Advanced Cluster Mill IV
+Advanced Cluster Mill V
+Advanced Cluster Mill VI
+Advanced Cluster Mill VII
+Electron Excitement Processor
+Electron Excitement Processor
+Electron Excitement Processor
+Electron Excitement Processor
+Blend-O-Matic 9001
+Blend-O-Matic 9002
+Blend-O-Matic 9003
+Blend-O-Matic 9004
+Advanced Alloy Smelter IV
+Advanced Alloy Smelter V
+Advanced Alloy Smelter VI
+Advanced Alloy Smelter VII
+Advanced Amplifabricator IV
+Advanced Amplifabricator V
+Advanced Amplifabricator VI
+Advanced Amplifabricator VII
+Advanced Arc Furnace IV
+Advanced Arc Furnace V
+Advanced Arc Furnace VI
+Advanced Arc Furnace VII
+Advanced Assembling Machine IV
+Advanced Assembling Machine V
+Advanced Assembling Machine VI
+Advanced Assembling Machine VII
+Advanced Autoclave IV
+Advanced Autoclave V
+Advanced Autoclave VI
+Advanced Autoclave VII
+Advanced Bending Machine IV
+Advanced Bending Machine V
+Advanced Bending Machine VI
+Advanced Bending Machine VII
+Advanced Brewery IV
+Advanced Brewery V
+Advanced Brewery VI
+Advanced Brewery VII
+Advanced Canning Machine IV
+Advanced Canning Machine V
+Advanced Canning Machine VI
+Advanced Canning Machine VII
+Molecular Separator
+Molecular Cyclone
+Molecular Cyclone
+Molecular Cyclone
+Molecular Cyclone
+Advanced Chemical Bath IV
+Advanced Chemical Bath V
+Advanced Chemical Bath VI
+Advanced Chemical Bath VII
+Advanced Chemical Reactor IV
+Advanced Chemical Reactor V
+Advanced Chemical Reactor VI
+Advanced Chemical Reactor VII
+Advanced Compressor III
+Singularity Compressor
+Singularity Compressor
+Singularity Compressor
+Singularity Compressor
+Advanced Cutting Machine IV
+Advanced Cutting Machine V
+Advanced Cutting Machine VI
+Advanced Cutting Machine VII
+Advanced Distillery IV
+Advanced Distillery V
+Advanced Distillery VI
+Advanced Distillery VII
+Advanced Electrolyzer III
+Molecular Disintegrator E-4905
+Molecular Disintegrator E-4906
+Molecular Disintegrator E-4907
+Molecular Disintegrator E-4908
+Advanced Electromagnetic Separator IV
+Advanced Electromagnetic Separator V
+Advanced Electromagnetic Separator VI
+Advanced Electromagnetic Separator VII
+Advanced Extractor III
+Vacuum Extractor
+Vacuum Extractor
+Vacuum Extractor
+Vacuum Extractor
+Advanced Extruder IV
+Advanced Extruder V
+Advanced Extruder VI
+Advanced Extruder VII
+Advanced Fermenter IV
+Advanced Fermenter V
+Advanced Fermenter VI
+Advanced Fermenter VII
+Instant Fluid Canner
+Instant Fluid Canner
+Instant Fluid Canner
+Instant Fluid Canner
+Advanced Fluid Extractor IV
+Advanced Fluid Extractor V
+Advanced Fluid Extractor VI
+Advanced Fluid Extractor VII
+Advanced Fluid Heater IV
+Advanced Fluid Heater V
+Advanced Fluid Heater VI
+Advanced Fluid Heater VII
+Advanced Fluid Solidifier IV
+Advanced Fluid Solidifier V
+Advanced Fluid Solidifier VI
+Advanced Fluid Solidifier VII
+Advanced Forge Hammer IV
+Advanced Forge Hammer V
+Advanced Forge Hammer VI
+Advanced Forge Hammer VII
+Advanced Forming Press IV
+Advanced Forming Press V
+Advanced Forming Press VI
+Advanced Forming Press VII
+Advanced Lathe IV
+Advanced Lathe V
+Advanced Lathe VI
+Advanced Lathe VII
+Advanced Microwave IV
+Advanced Microwave V
+Advanced Microwave VI
+Advanced Microwave VII
+Advanced Mixer IV
+Advanced Mixer V
+Advanced Mixer VI
+Advanced Mixer VII
+Repurposed Laundry-Washer I-360
+Repurposed Laundry-Washer I-720
+Repurposed Laundry-Washer I-1080
+Repurposed Laundry-Washer I-1440
+Boxinator
+Boxinator
+Boxinator
+Boxinator
+Unboxinator
+Unboxinator
+Unboxinator
+Unboxinator
+Advanced Plasma Arc Furnace IV
+Advanced Plasma Arc Furnace V
+Advanced Plasma Arc Furnace VI
+Advanced Plasma Arc Furnace VII
+Advanced Polarizer IV
+Advanced Polarizer V
+Advanced Polarizer VI
+Advanced Polarizer VII
+Advanced Precision Laser Engraver IV
+Advanced Precision Laser Engraver V
+Advanced Precision Laser Engraver VI
+Advanced Precision Laser Engraver VII
+Advanced Sifting Machine IV
+Advanced Sifting Machine V
+Advanced Sifting Machine VI
+Advanced Sifting Machine VII
+Blaze Sweatshop T-6350
+Blaze Sweatshop T-6360
+Blaze Sweatshop T-6370
+Blaze Sweatshop T-6380
+Advanced Wiremill IV
+Advanced Wiremill V
+Advanced Wiremill VI
+Advanced Wiremill VII
+[Deprecated] Distillation Tower
+Assembly Line
+Large Circuit Assembly Line
+Processing Array
+Volcanus
+Large Thermal Centrifuge
+Large Assembler
+Large Electrolyzer
+Large Extruder
+Large Centrifuge
+Large Chemical Reactor
+Large Cutting Machine
+Large Macerator
+Large Mixer
+Large Sifter
+Large Bending and Forming Machine
+Large Multi Use Machine
+Large Wiremill
+Large Washing Plant
+[Deprecated] Coke Oven
+[Deprecated] Cracking Unit
+Hot Coolant Turbine
+Large Transformer
+Void Ore Miner
+Industrial Primitive Blast Furnace
+Cryogenic Freezer
+Advanced Distillation Tower
+Chemical Plant
+Large Rocket Engine
+Alloy Blast Furnace
+Large Forge Hammer
+Large Naquadah Reactor
+Battery Tower
+Naquadah Reactor Mk. 1
+Naquadah Reactor Mk. 2
+Naquadah Reactor Mk. 3
+Naquadah Reactor Mk. 4
+Basic Rocket Engine
+Advanced Rocket Engine
+Turbo Rocket Engine
+Basic Mass Fabricator
+Advanced Mass Fabricator
+Advanced Mass Fabricator II
+Advanced Mass Fabricator III
+Advanced Mass Fabricator IV
+Advanced Mass Fabricator V
+Advanced Mass Fabricator VI
+Advanced Mass Fabricator VII
+Basic Replicator
+Advanced Replicator
+Advanced Replicator II
+Advanced Replicator III
+Advanced Replicator IV
+Advanced Replicator V
+Advanced Replicator VI
+Advanced Replicator VII
+Basic Decay Chamber
+Advanced Decay Chamber
+Advanced Decay Chamber II
+Advanced Decay Chamber III
+Advanced Decay Chamber IV
+Advanced Decay Chamber V
+Advanced Decay Chamber VI
+Basic Green House
+Advanced Green House
+Advanced Green House II
+Advanced Green House III
+Advanced Green House IV
+Advanced Green House V
+Advanced Green House VI
+Advanced Green House VII
+Advanced Pump IV
+Advanced Pump V
+Advanced Pump VI
+Advanced Pump VII
+Advanced Air Collector III
+Atmosphere Collector
+Advanced Atmosphere Collector
+Basic Chemical Dehydrator
+Advanced Chemical Dehydrator
+Advanced Chemical Dehydrator II
+Advanced Chemical Dehydrator III
+Advanced Chemical Dehydrator IV
+Advanced Chemical Dehydrator V
+Advanced Chemical Dehydrator VI
+Advanced Chemical Dehydrator VII
+Basic World Accelerator
+Advanced World Accelerator
+Advanced World Accelerator II
+Advanced World Accelerator III
+Advanced World Accelerator IV
+Advanced World Accelerator V
+Advanced World Accelerator VI
+Advanced World Accelerator VII
+Increase tick update per tick. 2 modes: TileEntity or Random Tick. Use screwdriver to change mode.
+On TileEntity mode only adjacent blocks are speedup. On Random Tick, it is %dx%d blocks radius.
+Nuclear Reactor
+Nuclear Breeder Reactor
+Boiling Uranium Nuclear Reactor
+Boiling Plutonium Nuclear Reactor
+Simple Ore Washer
+Instead of using cauldron...
+Producing The Purest Of Elements
+Fusion Reactor Computer Mark 1
+Fusion Reactor Computer Mark 2
+Fusion Reactor Computer Mark 3
+Basic Chunk Miner
+Advanced Chunk Miner
+Advanced Chunk Miner II
+Basic Large Miner
+Large Miner
+Advanced Large Miner
+Mine all ore in an area of %dx%d Chunks. Break down Ore as Hammer tool using fortune %s.
+Mine all ores in the current chunk.
+Consume %dmb of %s per tick
+Hot Coolant Rotor Holder (ULV)
+Hot Coolant Rotor Holder (LV)
+Hot Coolant Rotor Holder (MV)
+Hot Coolant Rotor Holder (HV)
+Hot Coolant Rotor Holder (EV)
+Hot Coolant Rotor Holder (IV)
+Hot Coolant Rotor Holder (LuV)
+Hot Coolant Rotor Holder (ZPM)
+Hot Coolant Rotor Holder (UV)
+Hot Coolant Rotor Holder (MAX)
+Filtered Output Hatch (ULV)
+Filtered Output Hatch (LV)
+Filtered Output Hatch (MV)
+Filtered Output Hatch (HV)
+Filtered Output Hatch (EV)
+Filtered Output Hatch (IV)
+Filtered Output Hatch (LuV)
+Filtered Output Hatch (ZPM)
+Filtered Output Hatch (UV)
+Filtered Output Hatch (MAX)
+[Deprecated] Coke Oven Chute
+[Deprecated] Coke Oven Faucet
+Coke Oven Bricks
+Assembly Line Casing
+Chemically Inert Casing
+Assembler Casing
+Integral Framework I
+§eMax Voltage ULV
+Integral Framework II
+§eMax Voltage LV
+Integral Framework III
+§eMax Voltage MV
+Integral Framework IV
+§eMax Voltage HV
+Integral Framework V
+§eMax Voltage EV
+Integral Framework VI
+§eMax Voltage IV
+Integral Framework VII
+§eMax Voltage LuV
+Integral Framework VIII
+§eMax Voltage ZPM
+Integral Framework IX
+§eMax Voltage UV
+Integral Framework X
+§eMax Voltage MAX
+Reinforced Glass
+Borosilicate Reinforced Glass
+Nickel Reinforced Glass
+Chrome Reinforced Glass
+Tungsten Reinforced Glass
+Iridium Reinforced Glass
+Osmium Reinforced Glass
+Red Steel Casing
+Tumbaga Casing
+Potin Casing
+Stellite and Talonite Casing
+Staballoy Casing
+Eglin Steel Casing
+Grisium Casing
+Maraging Steel 250 Casing
+Inconel 625 Casing
+Hastelloy N Casing
+HV Power Cell
+EV Power Cell
+IV Power Cell
+LUV Power Cell
+ZPM Power Cell
+UV Power Cell
+Used in §aBattery Tower§7
+    Capacity: §e%d
+    Max Tier: §e%s
+%s Bending Cylinder
+Small %s Bending Cylinder
+Blast Alloy
+Cluster Mill
+Circuit Assembler
+[Deprecated] Coke Oven
+[Deprecated] Distillation Tower
+Assembly Line
+Processing Array
+Volcanus
+Large Thermal Centrifuge
+Large Assembler
+Large Electrolyzer
+Large Extruder
+Large Centrifuge
+Large Chemical Reactor
+Large Cutting Machine
+Large Macerator
+Large Mixer
+Large Sifter
+Large Bending and Forming machine
+Large Multi Use Machine
+Large Washing Plant
+Large Wiremill
+Naquadah Reactor Fuels
+Replicator
+Mass Fabricator
+[Deprecated] Cracking Recipes
+Electric Sieve Recipes
+Hot Coolant Turbine
+Boiling Thorium Reactor Recipes
+Boiling uranium Reactor Recipes
+Boiling plutonium Reactor Recipes
+Bee Attractor Recipes
+Rocket Fuel Generator
+Chemical Plant
+Chemical Dehydrator
+Large Forge Hammer
+Plasma Turbine Fuels
+Simple Ore Washer
+Nuclear Reactor
+Nuclear Reactor Breeder
+Decay Chamber
+Green House
+Heat: %dC
+Hot Coolant Temperature: %dC
+Brick
+Fireclay
+Coal Coke
+Phosphorous Pentoxide
+Phosphoric Acid
+Polyvinyl Acetate
+Phenol
+Bisphenol A
+Epoxy Resin
+Fiber-Reinforced Epoxy Resin
+Borosilicate Glass
+Polyvinyl Chloride
+Vinyl Chloride
+Ethylene
+Charcoal Byproducts
+Benzene
+Wood Gas
+Wood Vinegar
+Wood Tar
+Sodium Hydroxide
+Quicklime
+Acetone
+Sulfur Trioxide
+Sulfur Dioxide
+Glycerol
+Fish Oil
+Methanol
+Carbon Monoxide
+Cetane-Boosted Diesel
+Diluted Sulfuric Acid
+Sodium Bisulfate
+Chloroform
+Diluted Hydrochloric Acid
+Hypochlorous Acid
+Ammonia
+Chloramine
+Dimethylamine
+1,1-Dimethylhydrazine
+Rocket Fuel
+Dinitrogen Tetroxide
+Silicone Rubber
+Polydimethylsiloxane
+Dimethyldichlorosilane
+Styrene
+Polystyrene
+Butadiene
+Raw Styrene-Butadiene Rubber
+Styrene-Butadiene Rubber
+Dichlorobenzene
+Hydrochloric Acid
+Acetic Acid
+Fermented Biomass
+Potash
+Soda Ash
+Hydrofluoric Acid
+Nitric Oxide
+Methyl Acetate
+Ethenone
+Tetranitromethane
+Bio Diesel
+Raw Growth Medium
+Sterilized Growth Medium
+Meat
+Cooked Meat
+Vinyl Acetate
+Gallium Arsenide
+Polyphenylene Sulfide
+Nickel Sulfate Water Solution
+Blue Vitriol Water Solution
+Propane
+Propene
+Ethane
+Butene
+Butane
+Calcium Acetate Solution
+Cumene
+Indium Gallium Phosphide
+Platinum Group Sludge
+Ferrite Mixture
+Nickel Zinc Ferrite
+Indium Concentrate
+Lead-Zinc Solution
+Tetrafluoroethylene
+Salt Water
+Hydro-Cracked Ethane
+Hydro-Cracked Ethylene
+Hydro-Cracked Propene
+Hydro-Cracked Propane
+Hydro-Cracked Light Fuel
+Hydro-Cracked Butane
+Hydro-Cracked Naphtha
+Hydro-Cracked Heavy Fuel
+Hydro-Cracked Refinery Gas
+Hydro-Cracked Butene
+Hydro-Cracked Butadiene
+Steam-Cracked Ethane
+Steam-Cracked Ethylene
+Steam-Cracked Propene
+Steam-Cracked Propane
+Steam-Cracked Light Fuel
+Steam-Cracked Butane
+Steam-Cracked Naphtha
+Steam-Cracked Heavy Fuel
+Steam-Cracked Refinery Gas
+Steam-Cracked Butene
+Steam-Cracked Butadiene
+Bio Gas
+Chloromethane
+Allyl Chloride
+Isoprene
+Massicot
+Antimony Trioxide
+Zincite
+Cobalt Oxide
+Arsenic Trioxide
+Cupric Oxide
+Ferrosilite
+Magnesia
+Sodium Sulfide
+Neutral Matter
+Positive Matter
+Neutronium
+Plasma Confinement
+Lignite Coke
+Pyrotheum
+Eglin Steel Base
+Eglin Steel
+Grisium
+Inconel 625
+Maraging Steel 250
+Potin
+Staballoy
+Hastelloy N
+Tumbaga
+Stellite
+Talonite
+MV Superconductor Base
+HV Superconductor Base
+EV Superconductor Base
+IV Superconductor Base
+LuV Superconductor Base
+ZPM Superconductor Base
+MV Superconductor
+HV Superconductor
+EV Superconductor
+IV Superconductor
+LuV Superconductor
+ZPM Superconductor
+Alumino Silicate Wool
+Alumino Silicate Wool
+Mica Based Pulp
+Mica Based Pulp
+Ultima Alloy
+Iron III Chloride
+Blizz
+Cryotheum
+High Pressure Steam
+Sand
+HG-1223
+Incoloy MA-956
+Babbitt Alloy
+Nitinol 60
+Raw Gasoline
+Gasoline
+Octane
+High Octane Gasoline
+Ethyl Tert-Butyl Ether
+Rocket Fuel H8N4C2O4
+Nitrogen Tetroxide
+Coal Tar
+Coal Tar Oil
+Sulfuric Coal Tar Oil
+Anthracene
+Kerosene
+Ethylbenzene
+Monomethylhydrazine
+Hydrazine
+Hydrogen Peroxide
+Ethylanthraquinone
+Ethylanthrahydroquinone
+Phthalic Anhydride
+Phthalic Acid
+Naphtalene
+Dense Hydrazine Fuel Mixture
+Rocket Fuel CN3H7O3
+Rocket Fuel RP-1
+RP-1
+Liquid Oxygen
+Fermentation Base
+Liquid Hydrogen
+Zirconium Carbide
+Zirkelite
+Platinum Concentrate
+Platinum Salt
+Refined Platinum Salt
+Platinum Metallic Powder
+Aqua Regia
+Platinum Residue
+Ammonium Chloride
+Reprecipitated Platinum
+Palladium Enriched Ammonia
+Palladium Metallic Powder
+Reprecipitated Palladium
+Palladium Salt
+Sodium Formate
+Sodium Sulfate
+Formic Acid
+Potassium Disulfate
+Leach Residue
+Rhodium Sulfate
+Rhodium Sulfate Solution
+Calcium Chloride
+Ruthenium
+Sodium Ruthenate
+Ruthenium Tetroxide
+Hot Ruthenium Tetroxide Solution
+Ruthenium Tetroxide Solution
+Rarest Metal Residue
+Iridium Metal Residue
+Sludge Dust Residue
+Acidic Osmium Solution
+Iridium Dioxide
+Osmium Solution
+Acidic Iridium Solution
+Iridium Chloride
+Metallic Sludge Dust Residue
+Rhodium
+Crude Rhodium Metal
+Rhodium Salt
+Rhodium Salt Solution
+Sodium Nitrate
+Rhodium Nitrate
+Zinc Sulfate
+Rhodium Filter Cake
+Rhodium Filter Cake Solution
+Reprecipitated Rhodium
+Rhodium Plated Palladium
+Tiberium
+Ruridit
+Cluorspar
+High Durability Compound Steel
+Atheneite
+Temagamite
+Terlinguaite
+Ademic Steel
+Raw Ademic Steel
+Potassium Nitrade
+Chromium Trioxide
+Nitrochlorobenzene
+Dimethylbenzene
+Potassiumdichromate
+Dichlorobenzidine
+Diaminobenzidine
+Diphenylisophtalate
+Polybenzimidazole
+Chlorobenzene
+Polonium
+Copernicium
+Copper Leach
+Silver Oxide
+Silver Chloride
+Precious Leach Nitrate
+Potassium Metabisulfite
+Chloroauric Acid
+Lead Nitrate
+Gold Leach
+Gold Alloy
+Precious Metal
+Uranium
+Plutonium
+Protactinium
+Uranyl Nitrate
+Uranium Hexachloride
+Uranium Hexafluoride
+Uranium 234 Hexafluoride
+Uranium 235 Hexafluoride
+Uranium 238 Hexafluoride
+Uranium 234 Dioxide
+Uranium 235 Dioxide
+Uranium 238 Dioxide
+Neptunium
+Neptunium Dioxide
+Neptunium Nitrate
+neptunium Hexachloride
+neptunium Hexafluoride
+Neptunium 235 Hexafluoride
+Neptunium 237 Hexafluoride
+Neptunium 239 Hexafluoride
+Neptunium 235 Dioxide
+Neptunium 237 Dioxide
+Neptunium 239 Dioxide
+Plutonium Dioxide
+Plutonium Nitrate
+Plutonium Hexachloride
+Plutonium Hexafluoride
+Plutonium 240 Hexafluoride
+Plutonium 241 Hexafluoride
+Plutonium 244 Hexafluoride
+Plutonium 240 Dioxide
+Plutonium 241 Dioxide
+Plutonium 244 Dioxide
+Americium Dioxide
+Americium Nitrate
+Americium Hexachloride
+Americium Hexafluoride
+Americium 241 Hexafluoride
+Americium 243 Hexafluoride
+Americium 245 Hexafluoride
+Americium 241 Dioxide
+Americium 243 Dioxide
+Americium 245 Dioxide
+Curium
+Curium Dioxide
+Curium Nitrate
+Curium Hexachloride
+Curium Hexafluoride
+Curium 246 Hexafluoride
+Curium 247 Hexafluoride
+Curium 250 Hexafluoride
+Curium 246 Dioxide
+Curium 247 Dioxide
+Curium 250 Dioxide
+Berkelium
+Berkelium Dioxide
+Berkelium Nitrate
+Berkelium Hexachloride
+Berkelium Hexafluoride
+Berkelium 247 Hexafluoride
+Berkelium 249 Hexafluoride
+Berkelium 251 Hexafluoride
+Berkelium 247 Dioxide
+Berkelium 249 Dioxide
+Berkelium 251 Dioxide
+Californium
+Californium Dioxide
+Californium Nitrate
+Californium Hexachloride
+Californium Hexafluoride
+Californium 252 Hexafluoride
+Californium 253 Hexafluoride
+Californium 256 Hexafluoride
+Californium 252 Dioxide
+Californium 253 Dioxide
+Californium 256 Dioxide
+Einsteinium
+Einsteinium Dioxide
+Einsteinium Nitrate
+einsteinium Hexachloride
+Einsteinium Hexafluoride
+Einsteinium 253 Hexafluoride
+Einsteinium 255 Hexafluoride
+Einsteinium 257 Hexafluoride
+Einsteinium 253 Dioxide
+Einsteinium 255 Dioxide
+Einsteinium 257 Dioxide
+Fermium
+Fermium Dioxide
+Fermium Nitrate
+Fermium Hexachloride
+Fermium Hexafluoride
+Fermium 258 Hexafluoride
+Fermium 259 Hexafluoride
+Fermium 262 Hexafluoride
+Fermium 258 Dioxide
+Fermium 259 Dioxide
+Fermium 262 Dioxide
+Mendelevium
+Mendelevium Dioxide
+Mendelevium Nitrate
+Mendelevium Hexachloride
+Mendelevium Hexafluoride
+Mendelevium 259 Hexafluoride
+Mendelevium 261 Hexafluoride
+Mendelevium 263 Hexafluoride
+Mendelevium 259 Dioxide
+Mendelevium 261 Dioxide
+Mendelevium 263 Dioxide
+Sodium Potassium Alloy (Reactor Moderator)
+Lithium Hydroxide
+Lithium Fluoride
+Sodium Fluoride
+Potassium Fluoride
+FLiNaK (Reactor Moderator)
+Beryllium Fluoride
+FLiBe (Reactor Moderator)
+Lead Bismuth Eutatic (Reactor Moderator)
+Francium
+Radium
+Actinium
+Hafnium
+Rhenium
+Technetium
+Thalium
+Germanium
+Selenium
+Bromine
+Iodine
+Astatine
+Thorium 233
+Protactinium 233
+Uranium 233
+Uranium 234
+Uranium 239
+Neptunium 235
+Neptunium 237
+Neptunium 239
+Plutonium 239
+Plutonium 240
+Plutonium 245
+Americium 241
+Americium 243
+Americium 245
+Curium 245
+Curium 246
+Curium 247
+Curium 250
+Curium 251
+Berkelium 247
+Berkelium 249
+Berkelium 251
+Californium 251
+Californium 252
+Californium 253
+Californium 256
+Californium 257
+Einsteinium 253
+Einsteinium 255
+Einsteinium 257
+Fermium 257
+Fermium 258
+Fermium 259
+Fermium 262
+Fermium 263
+Mendelevium 259
+Mendelevium 261
+Mendelevium 263
+Hydrogen Fluoride
+Abyssal Alloy
+Organic Fertilizer
+UV Superconductor Base
+UV Superconductor
+Hot %s
+%s Hexachloride
+%s Hexafluoride
+Epoxy Resin Bar
+Tiny Pile of Epoxy Resin Pulp
+Small Pile of Epoxy Resin Pulp
+Epoxy Resin Pulp
+Epoxy Resin Chip
+Dense Epoxy Resin Sheet
+Epoxy Resin Sheet
+Thin Epoxy Resin Sheet
+Fiber-Reinforced Epoxy Resin Bar
+Tiny Pile of Fiber-Reinforced Epoxy Resin Pulp
+Small Pile of Fiber-Reinforced Epoxy Resin Pulp
+Fiber-Reinforced Epoxy Resin Pulp
+Fiber-Reinforced Epoxy Resin Chip
+Dense Fiber-Reinforced Epoxy Resin Sheet
+Fiber-Reinforced Epoxy Resin Sheet
+Thin Fiber-Reinforced Epoxy Resin Sheet
+Borosilicate Glass Bar
+Tiny Pile of Borosilicate Glass Pulp
+Small Pile of Borosilicate Glass Pulp
+Borosilicate Glass Pulp
+Borosilicate Glass Chip
+Dense Borosilicate Glass Sheet
+Borosilicate Glass Sheet
+Thin Borosilicate Glass Sheet
+Polyvinyl Chloride Bar
+Tiny Pile of Polyvinyl Chloride Pulp
+Small Pile of Polyvinyl Chloride Pulp
+Polyvinyl Chloride Pulp
+Polyvinyl Chloride Chip
+Dense Polyvinyl Chloride Sheet
+Polyvinyl Chloride Sheet
+Thin Polyvinyl Chloride Sheet
+Silicone Rubber Bar
+Tiny Pile of Silicone Rubber Pulp
+Small Pile of Silicone Rubber Pulp
+Silicone Rubber Pulp
+Silicone Rubber Chip
+Dense Silicone Rubber Sheet
+Silicone Rubber Sheet
+Thin Silicone Rubber Sheet
+Polystyrene Bar
+Tiny Pile of Polystyrene Pulp
+Small Pile of Polystyrene Pulp
+Polystyrene Pulp
+Polystyrene Chip
+Dense Polystyrene Sheet
+Polystyrene Sheet
+Thin Polystyrene Sheet
+Styrene-Butadiene Rubber Bar
+Tiny Pile of Styrene-Butadiene Rubber Pulp
+Small Pile of Styrene-Butadiene Rubber Pulp
+Styrene-Butadiene Rubber Pulp
+Styrene-Butadiene Rubber Chip
+Dense Styrene-Butadiene Rubber Sheet
+Styrene-Butadiene Rubber Sheet
+Thin Styrene-Butadiene Rubber Sheet
+Tiny Pile of Mince Meat
+Small Pile of Mince Meat
+Mince Meat
+%s Seed
+%s Essence
+The Battery Tower can be 4-16 height. You can put energy hatch everywhere. Hatch cannot be higher than Cell Casings.
+Use lubricant to Run. Processes 2 items per voltage tier difference, 1.25x faster and 90%% EUt.
+The Chemical Plant Is a 5x5 structure with Tiered Casing that defined the Tier of the multiblock.
+The Coke Oven is a 3x3 multiblock structure used for turning Coal into Coal Coke, Lignite into Lignite Coke and Logs into Charcoal, with Creosote Oil as a byproduct.
+The Assembly Line is a large multiblock structure consisting of 5 to 16 "slices". In theory, it's large Assembling Machine, used for creating advanced crafting components.
+The Large Circuit Assembly Line is use to create high tier circuit.
+The Processing Array combines up to 16 single block machines in a single multiblock, effectively easing automation.
+The Volcanus is built as EBF. It consume 40L of Pyrotheum per sec and it is 3x faster.
+The large bending and forming is 6x faster on the same voltage,  Processes 4 items per voltage tier difference.
+The multi use is 3.5x faster on the same voltage, has 80%% EUt discount  and Processes 2 items per voltage tier difference.
+The washing plant is 5x faster on the same voltage and Processes 4 items per voltage tier difference.
+The GA Distillation Tower is a multiblock structure consisting of 2-12 layers. It's used for distilling fluids, but unlike the Distillery, gives you multiple outputs per input, including item outputs. Every layer has a different output.
+The Fusion Reactor Mark 1 is a large multiblock structure used for fusing elements into heavier ones. The Mark 1 Fusion Reactor can use LuV, ZPM or UV Energy Hatches. For every Hatch it has its buffer increases by 100k.
+The Fusion Reactor Mark 2 is a large multiblock structure used for fusing elements into heavier ones. The Mark 2 Fusion Reactor can use ZPM or UV Energy Hatches. For every Hatch it has its buffer increases by 200k.
+The Fusion Reactor Mark 3 is a large multiblock structure used for fusing elements into heavier ones. The Mark 3 Fusion Reactor can only use UV Energy Hatches. For every Hatch it has its buffer increases by 400k.
+The Nuclear Reactor and the Nuclear Breeder Reactor use Nuclear Power to generate Hot Coolant.
+Coolant is fluid and can be Steam(150C), Deuterium(450C), Sodium(800C), Sodium Potassium Alloy(900C), FLiNaK(1800C), FLiBe(1700C) and Lead Bismuth Eutatic(1900C).
+The Nuclear Reactor will drain all coolant store in Hatches and 1 Bucket of Coolant decrease Temperature by 1C.
+The fluid output can be coolant if the temperature of the core is lesser than coolant temperature and hot coolant otherwise (can be both if too much coolant is added)
+Each Coolant has there own Max Temperature, If the Temperature of The Reactor exceed the max temperature the reactor cooldown by Stoping the recipe.
+The Core of the reactor can be Nuclear Material and higher tier add more thermal flexibility to the Coolant.
+Tips 1: Pump is a must have in this build to regulate coolant otherwise the core will stay cool and never produce hot coolant.
+Tips 2: Coolant is in a closed loop, Hot Coolant turbine output Coolant.
+Hatches and Buses can be placed anywhere on Lead Casing.
+Multiblock Recipe: §e%s§r
+EUt Multiplier: §e%.1f§r
+Duration Multiplier: §e%.1f§r
+Max Parallel: §e%d§7 Per Overclocking Tier
+Boost Chance: §e%d%%§r
+The Void Ore Miner will produce tons of ores.
+It will consume Pyrotheum and Cryotheum alternatively each sec.
+Temperature will increase if there is only Pyrotheum and will decrease if there is only Cryotheum.
+First step, will be to only feed with Pyrotheum and then, when the temperature is a the perfect spot, slowly add Cryotheum.
+If temperature is above the max temperature the Void Ore Miner will stop working and slowly cool down.
+Large Transformer can convert any GTEU/AMPS by any GTEU/AMPS.
+The Industrial Primitive Blast Furnace is a large multiblock structure consisting of 1 to 64 "slices".
+It's the upgraded version of The Primitive Blast Furnace.
+The Industrial Primitibe Blast Furnace can be automate and speed up.
+Will produce Cobblestone, Andesite, Diorite and Granite. have to be ajacent to lava and water.
+The Cryogenic Freezer is built as the Vacuum Freezer. It consume 20L of Cryotheum per sec and it is 2x faster and process 4 items at one time.
+The Advanced Distillation Tower is built as the the Distillation Tower with 26 layer.
+2 Modes :
+Duration Depend on Coil Tier.
+The Large Rocket Engine will produce large amounts of power.
+It will consume Rocket Fuel as quickly as you can supply it.
+Consume 37500mB of Air and 10mB of Carbon Dioxide per Second .
+Use Liquid Hydrogen to boost by 3 the output energy (4mB/second /2048 EU/t)
+Default Efficiency is 60%%.
+Above LuV is 40%%
+Above ZPM is 20%%
+Above UV is 10%%
+Quicker than the Blast Furnace
+The Large Naquadah Reactor has no efficiency loss.
+Some Naquadah fuels react with Potassium Plasma and Produce more than 1UV.
+The Battery Tower is a large multiblock battery that can store large amounts of EU.
+All the cells in the tower need to be of the same tier and the tower will drain 10%% of the cells voltage per tick.
+The input/output hatches can not be of a higher tier than the tier of the cells.
+Screw to change recipe. Currently using: %s
+Efficiency: %s %%
+Energy using: %d EU
+Current Drilling Fluid: %.2fmB
+Overheat !
+Tile entity mode
+Entity mode
+Current Max Tiered Voltage: %d EU/t
+The framework casings define which tier of recipe the multiblock is able to run.
+Current size: %d
+Fuel Unit Left: %d Units
+Fuel Efficiency: %d %%
+Carbon Dioxide: %dmB
+Potassium Plasma: %dmb
+Liquid hydrogen: %dmB
+Air: %dmB
+Hydrogen needed to boost: %dmB
+Boosted !
+Current multiplier: %d
+Chunk: %d
+Chunk to mine: %d
+Speed: %d Blocks/tick
+Done !
+%d EU / %d EU
+Coolant: %s Min Temp: %dC
+Heat Produce: %d C/sec
+Rod Heat Factor: %d%%
+Produce Hot Coolant !
+Input: %s EU / %s Amps
+Output: %s EU / %s Amps
+Amps Input/t: %s
+Amps Output/t: %s
+Curved %s Plate
+Double %s Ingot
+Small %s Pipe
+%s Pipe
+Large %s Pipe
+%s Nitrate
+%s Dioxide
+%s Hexafluoride
+Sticky Resin
+Firebricks
+%s Metal Casing
+Structure: 3x3x4 (WxLxH) The entire structure is made out of Firebricks (32 in total)./nFirst Layer is a 3x3 square./nSecond, third, and fourth layers are hollow, without the middle block./nThis block goes on the middle of any side in the second layer./nThe sides of Blast Furnaces can be shared, if the side does not have a controller./n
+It's the upgraded version of The Primitive Blast Furnace.
+Wooden Barrel
+Bronze Drum
+Steel Drum
+Stainless Steel Drum
+Titanium Drum
+Tungstensteel Drum
+Wooden Crate
+Bronze Crate
+Steel Crate
+Stainless Steel Crate
+Titanium Crate
+Tungstensteel Crate
+Water
+Lava
+Assembler IV
+Autoclave IV
+Laser Engraver IV
+Lignite Comb
+Coal Comb
+Sticky Comb
+Oil Comb
+Stone Comb
+Certus Comb
+Redstone Comb
+Lapis Comb
+Ruby Comb
+Sapphire Comb
+Diamond Comb
+Olivine Comb
+Emerald Comb
+Slag Comb
+Coppon Comb
+Tine Comb
+Plumbia Comb
+Ferru Comb
+Steeldust Comb
+Nickeldust Comb
+Galvania Comb
+Argentia Comb
+Aurelia Comb
+Bauxia Comb
+Pyrolusium Comb
+Titanium Comb
+Chromium Comb
+Scheelinium Comb
+Platina Comb
+Quantaria Comb
+Urania Comb
+Plutonium Comb
+Stargatium Comb
+Slime
+Lignite
+Rubbery
+Coal
+Oil
+Redstone
+Lapis
+Certus
+Ruby
+Sapphire
+Diamond
+Olivine
+Emerald
+Copper
+Tin
+Lead
+Iron
+Steel
+Nickel
+Zinc
+Silver
+Gold
+Aluminium
+Titanium
+Chrome
+Manganese
+Tungsten
+Platinum
+Iridium
+Uranium
+Plutonium
+Naquadah
+Aluminium
+Chrome
+Iridium
+Manganese
+Molybdenum
+Neodymium
+Darmstadtium
+Osmium
+Palladium
+Thorium
+Titanium
+Tungsten
+Uranium
+Uranium-235
+Brass
+Invar
+Magnalium
+Stainless Steel
+Ultimet
+Wrought Iron
+Osmiridium
+Sterling Siver
+Rose Gold
+Black Bronze
+Bismuth Bronze
+Black Steel
+Red Steel
+Blue Steel
+Damascus Steel
+Tungstensteel
+Cobalt Brass
+Tungsten Carbide
+Vanadiumsteel
+HSS-G
+HSS-E
+HSS-S
+Naquadah
+Naquadah Alloy
+Enriched Naquadah
+Tritanium
+Duranium
+Neutronium
+Blue Topaz
+Diamond
+Emerald
+Green Sapphire
+Ruby
+Sapphire
+Tanzanite
+Topaz
+Olivine
+Opal
+Amethyst
+Red Garnet
+Yellow Garnet
+Vinteum
+Xenon
+Krypton
+Neon
+Zirconium
+Cubic Zirconia
+Prasiolite
+Magneto Resonatic
+Dibismuthhydroborat
+Bismuth Tellurite
+Circuit Compound MK3
+Yttrium Oxide
+Enderium
+Calcium Tungstate
+Sodium Tungstate
+Tungstic Acid
+Tungsten Trioxide
+Tungsten Hexachloride
+GTEU Energy Converter (ULV)
+GTEU Energy Converter (ULV)
+GTEU Energy Converter (ULV)
+GTEU Energy Converter (ULV)
+GTEU Energy Converter (LV)
+GTEU Energy Converter (LV)
+GTEU Energy Converter (LV)
+GTEU Energy Converter (LV)
+GTEU Energy Converter (MV)
+GTEU Energy Converter (MV)
+GTEU Energy Converter (MV)
+GTEU Energy Converter (MV)
+GTEU Energy Converter (HV)
+GTEU Energy Converter (HV)
+GTEU Energy Converter (HV)
+GTEU Energy Converter (HV)
+GTEU Energy Converter (EV)
+GTEU Energy Converter (EV)
+GTEU Energy Converter (EV)
+GTEU Energy Converter (EV)
+GTEU Energy Converter (IV)
+GTEU Energy Converter (IV)
+GTEU Energy Converter (IV)
+GTEU Energy Converter (IV)
+GTEU Energy Converter (LuV)
+GTEU Energy Converter (LuV)
+GTEU Energy Converter (LuV)
+GTEU Energy Converter (LuV)
+GTEU Energy Converter (ZPM)
+GTEU Energy Converter (ZPM)
+GTEU Energy Converter (ZPM)
+GTEU Energy Converter (ZPM)
+GTEU Energy Converter (UV)
+GTEU Energy Converter (UV)
+GTEU Energy Converter (UV)
+GTEU Energy Converter (UV)
+GTEU Energy Converter (MAX)
+GTEU Energy Converter (MAX)
+GTEU Energy Converter (MAX)
+GTEU Energy Converter (MAX)
+Forge Energy Converter (ULV)
+Forge Energy Converter (ULV)
+Forge Energy Converter (ULV)
+Forge Energy Converter (ULV)
+Forge Energy Converter (LV)
+Forge Energy Converter (LV)
+Forge Energy Converter (LV)
+Forge Energy Converter (LV)
+Forge Energy Converter (MV)
+Forge Energy Converter (MV)
+Forge Energy Converter (MV)
+Forge Energy Converter (MV)
+Forge Energy Converter (HV)
+Forge Energy Converter (HV)
+Forge Energy Converter (HV)
+Forge Energy Converter (HV)
+Forge Energy Converter (EV)
+Forge Energy Converter (EV)
+Forge Energy Converter (EV)
+Forge Energy Converter (EV)
+Forge Energy Converter (IV)
+Forge Energy Converter (IV)
+Forge Energy Converter (IV)
+Forge Energy Converter (IV)
+Forge Energy Converter (LuV)
+Forge Energy Converter (LuV)
+Forge Energy Converter (LuV)
+Forge Energy Converter (LuV)
+Forge Energy Converter (ZPM)
+Forge Energy Converter (ZPM)
+Forge Energy Converter (ZPM)
+Forge Energy Converter (ZPM)
+Forge Energy Converter (UV)
+Forge Energy Converter (UV)
+Forge Energy Converter (UV)
+Forge Energy Converter (UV)
+Forge Energy Converter (MAX)
+Forge Energy Converter (MAX)
+Forge Energy Converter (MAX)
+Forge Energy Converter (MAX)
+FE
+GTEU
+FE
+EU
+Maximum %s OUT: §e%d FE§7/tick
+Maximum %s IN: §e%d FE§7/tick
+Converts %s to %s
+Converts EU to FE
+Converts FE to EU
+§cDisabled
+%s Ore Chunk
+%s Ore Chunk
+%s Ore Chunk
+Fine %s Ore Chunk
+Dense %s Ore
+Rich %s Ore
+Rich Granite %s Ore
+Rich Granite %s Ore
+Rich Marble %s Ore
+Rich Basalt %s Ore
+Rich Sand %s Ore
+Rich Gravel %s Ore
+Rich Nether %s Ore
+Rich End %s Ore
+Poor %s Ore
+Poor Granite %s Ore
+Poor Granite %s Ore
+Poor Marble %s Ore
+Poor Basalt %s Ore
+Poor Sand %s Ore
+Poor Gravel %s Ore
+Poor Nether %s Ore
+Poor End %s Ore
+Pure %s Ore
+Pure Granite %s Ore
+Pure Granite %s Ore
+Pure Marble %s Ore
+Pure Basalt %s Ore
+Pure Sand %s Ore
+Pure Gravel %s Ore
+Pure Nether %s Ore
+Pure End %s Ore
+%s Seed
+%s Essence
+%s crop
+Basic Electric Sieve
+Advanced Electric Sieve
+Advanced Electric Sieve II
+Advanced Electric Sieve III
+Advanced Electric Sieve IV
+Advanced Electric Sieve V
+Advanced Electric Sieve VI
+Advanced Electric Sieve VII
+Basic Electric Rock Breaker
+Advanced Electric Rock Breaker
+Advanced Electric Rock Breaker II
+Advanced Electric Rock Breaker III
+Advanced Electric Rock Breaker IV
+Advanced Electric Rock Breaker V
+Advanced Electric Rock Breaker VI
+Advanced Electric Rock Breaker VII
+Basic Bee Attractor
+Advanced Bee Attractor
+Advanced Bee Attractor II
+Advanced Bee Attractor III
+Advanced Bee Attractor IV
+Advanced Bee Attractor V
+Advanced Bee Attractor VI
+Advanced Bee Attractor VII
+Steam Pump
+Steam Sieve
+Steam Mixer
+Steam Rock Breaker
+Sandy %s Ore Chunk
+Basalt Pebble
+Black Granite Pebble
+Marble Pebble
+Red Granite Pebble
+Low Voltage Transformer 4 Amps
+Low Voltage Transformer 8 Amps
+Low Voltage Transformer 12 Amps
+Low Voltage Transformer 16 Amps
+Medium Voltage Transformer 4 Amps
+Medium Voltage Transformer 8 Amps
+Medium Voltage Transformer 12 Amps
+Medium Voltage Transformer 16 Amps
+High Voltage Transformer 4 Amps
+High Voltage Transformer 8 Amps
+High Voltage Transformer 12 Amps
+High Voltage Transformer 16 Amps
+Extreme Voltage Transformer 4 Amps
+Extreme Voltage Transformer 8 Amps
+Extreme Voltage Transformer 12 Amps
+Extreme Voltage Transformer 16 Amps
+Insane Voltage Transformer 4 Amps
+Insane Voltage Transformer 8 Amps
+Insane Voltage Transformer 12 Amps
+Insane Voltage Transformer 16 Amps
+Ludicrous Voltage Transformer 4 Amps
+Ludicrous Voltage Transformer 8 Amps
+Ludicrous Voltage Transformer 12 Amps
+Ludicrous Voltage Transformer 16 Amps
+ZPM Voltage Transformer 4 Amps
+ZPM Voltage Transformer 8 Amps
+ZPM Voltage Transformer 12 Amps
+ZPM Voltage Transformer 16 Amps
+Ultimate Voltage Transformer 4 Amps
+Ultimate Voltage Transformer 8 Amps
+Ultimate Voltage Transformer 12 Amps
+Ultimate Voltage Transformer 16 Amps
+Energy Input Hatch 4 Amps (ULV)
+Energy Input Hatch 16 Amps (ULV)
+Energy Input Hatch 64 Amps (ULV)
+Energy Input Hatch 128 Amps (ULV)
+Energy Input Hatch 4 Amps (LV)
+Energy Input Hatch 16 Amps (LV)
+Energy Input Hatch 64 Amps (LV)
+Energy Input Hatch 128 Amps (LV)
+Energy Input Hatch 4 Amps (MV)
+Energy Input Hatch 16 Amps (MV)
+Energy Input Hatch 64 Amps (MV)
+Energy Input Hatch 128 Amps (MV)
+Energy Input Hatch 4 Amps (HV)
+Energy Input Hatch 16 Amps (HV)
+Energy Input Hatch 64 Amps (HV)
+Energy Input Hatch 128 Amps (HV)
+Energy Input Hatch 4 Amps (EV)
+Energy Input Hatch 16 Amps (EV)
+Energy Input Hatch 64 Amps (EV)
+Energy Input Hatch 128 Amps (EV)
+Energy Input Hatch 4 Amps (IV)
+Energy Input Hatch 16 Amps (IV)
+Energy Input Hatch 64 Amps (IV)
+Energy Input Hatch 128 Amps (IV)
+Energy Input Hatch 4 Amps (LuV)
+Energy Input Hatch 16 Amps (LuV)
+Energy Input Hatch 64 Amps (LuV)
+Energy Input Hatch 128 Amps (LuV)
+Energy Input Hatch 4 Amps (ZPM)
+Energy Input Hatch 16 Amps (ZPM)
+Energy Input Hatch 64 Amps (ZPM)
+Energy Input Hatch 128 Amps (ZPM)
+Energy Input Hatch 4 Amps (UV)
+Energy Input Hatch 16 Amps (UV)
+Energy Input Hatch 64 Amps (UV)
+Energy Input Hatch 128 Amps (UV)
+Energy Output Hatch 16 Amps (ULV)
+Energy Output Hatch 32 Amps (ULV)
+Energy Output Hatch 64 Amps (ULV)
+Energy Output Hatch 128 Amps (ULV)
+Energy Output Hatch 16 Amps (LV)
+Energy Output Hatch 32 Amps (LV)
+Energy Output Hatch 64 Amps (LV)
+Energy Output Hatch 128 Amps (LV)
+Energy Output Hatch 16 Amps (MV)
+Energy Output Hatch 32 Amps (MV)
+Energy Output Hatch 64 Amps (MV)
+Energy Output Hatch 128 Amps (MV)
+Energy Output Hatch 16 Amps (HV)
+Energy Output Hatch 32 Amps (HV)
+Energy Output Hatch 64 Amps (HV)
+Energy Output Hatch 128 Amps (HV)
+Energy Output Hatch 16 Amps (EV)
+Energy Output Hatch 32 Amps (EV)
+Energy Output Hatch 64 Amps (EV)
+Energy Output Hatch 128 Amps (EV)
+Energy Output Hatch 16 Amps (IV)
+Energy Output Hatch 32 Amps (IV)
+Energy Output Hatch 64 Amps (IV)
+Energy Output Hatch 128 Amps (IV)
+Energy Output Hatch 16 Amps (LuV)
+Energy Output Hatch 32 Amps (LuV)
+Energy Output Hatch 64 Amps (LuV)
+Energy Output Hatch 128 Amps (LuV)
+Energy Output Hatch 16 Amps (ZPM)
+Energy Output Hatch 32 Amps (ZPM)
+Energy Output Hatch 64 Amps (ZPM)
+Energy Output Hatch 128 Amps (ZPM)
+Energy Output Hatch 16 Amps (UV)
+Energy Output Hatch 32 Amps (UV)
+Energy Output Hatch 64 Amps (UV)
+Energy Output Hatch 128 Amps (UV)
+Auric Fluoride Dust
+Naquadria Concentrate Dust
+Enriched Naquadah Concentrate Dust
+Naquadah Concentrate Dust
+Indium Trioxide Dust
+Indium Trifluoride Dust
+Antimony Trifluoride Dust
+Naquadric Solution
+Enriched Naquadric Solution
+Naquadriatic Solution
+Antimony Pentafluoride
+Fluoroantimonic Acid
+Fluoronaquadric Acid
+Fluoronaquadriatic Acid
+Enriched Fluoronaquadric Acid
+Naquadah Difluoride
+Naquadria Difluoride
+Enriched Naquadah Difluoride
+Naquadria Hexafluoride
+Radon Difluoride
+Radon Naquadriaoctafluoride
+Xenon Trioxide
+Cesium Fluoride
+Cesium Xenontrioxide Fluoride
+Radon Trioxide
+Naqudria-Cesium-Xenonnonfluoride
+Nitrosyl Fluoride
+Nitrosonium Octafluoroxenate
+Naquadria Cesiumfluoride
+Enriched Naquadahhexafluoride
+Enriched Xenon Hexafluoronaquadate
+Auric Chloride
+Bromine Trifluoride
+Auric Fluoride
+Xenoauric Fluoroantimonic Acid
+Naquadah Sulfate
+ Naquadah Solution
+Clear Naquadah Liquid
+Complicated Naquadah Gas
+Complicated Heavy Naquadah
+Complicated Medium Naquadah
+Complicated Light Naquadah
+Naquadah Gas
+Light Naquadah
+Medium Naquadah
+Heavy Naquadah
+Fluorine-Cracked Light Naquadah
+Fluorine-Cracked Medium Naquadah
+Fluorine-Cracked Heavy Naquadah
+Light Naquadah Fuel
+Medium Naquadah Fuel
+Heavy Naquadah Fuel
+Ammonia Nitrate
+Enriched Naquadah Solution
+Clear Enriched Naquadah Liquid
+Complicated Heavy Enriched Naquadah
+Complicated Medium Enriched Naquadah
+Complicated Light Enriched Naquadah
+Light Enriched Naquadah
+Medium Enriched Naquadah
+Heavy Enriched Naquadah
+Radon-Cracked Light Enriched Naquadah
+Radon-Cracked Medium Enriched Naquadah
+Radon-Cracked Heavy Enriched Naquadah
+Light Enriched Naquadah Fuel
+Medium Enriched Naquadah Fuel
+Heavy Enriched Naquadah Fuel
+ Naquadria Solution
+Hyper Fuel I
+Hyper Fuel II
+Hyper Fuel III
+Naquadric Compound
+Enriched Naquadric Compound
+Naquadriatic Compound
+Unstable Star

@@ -1,0 +1,150 @@
+PattysMoreArmor
+Obsidian Ingot
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Ender Helmet
+Ender Chestplate
+Ender Leggings
+Ender Boots
+Slime Helmet
+Slime Chestplate
+Slime Leggings
+Slime Boots
+Coal Helmet
+Coal Chestplate
+Coal Leggings
+Coal Boots
+Quartz Helmet
+Quartz Chestplate
+Quartz Leggings
+Quartz Boots
+Flint Helmet
+Flint Chestplate
+Flint Leggings
+Flint Boots
+Gunpowder Helmet
+Gunpowder Chestplate
+Gunpowder Leggings
+Gunpowder Boots
+Glowstone Helmet
+Glowstone Chestplate
+Glowstone Leggings
+Glowstone Boots
+Brick Helmet
+Brick Chestplate
+Brick Leggings
+Brick Boots
+Nether Brick Helmet
+Nether Brick Chestplate
+Nether Brick Leggings
+Nether Brick Boots
+Leather Helmet
+Leather Chestplate
+Leather Leggings
+Leather Boots
+Redstone Helmet
+Redstone Chestplate
+Redstone Leggings
+Redstone Boots
+Blaze Helmet
+Blaze Chestplate
+Blaze Leggings
+Blaze Boots
+Nether Star Helmet
+Nether Star Chestplate
+Nether Star Leggings
+Nether Star Boots
+Snow Helmet
+Snow Chestplate
+Snow Leggings
+Snow Boots
+Magma Cream Helmet
+Magma Cream Chestplate
+Magma Cream Leggings
+Magma Cream Boots
+Red Nether Brick Helmet
+Red Nether Brick Chestplate
+Red Nether Brick Leggings
+Red Nether Brick Boots
+Sandstone Helmet
+Sandstone Chestplate
+Sandstone Leggings
+Sandstone Boots
+Soul Sand Helmet
+Soul Sand Chestplate
+Soul Sand Leggings
+Soul Sand Boots
+Clay Helmet
+Clay Chestplate
+Clay Leggings
+Clay Boots
+Black Helmet
+Black Chestplate
+Black Leggings
+Black Boots
+Red Helmet
+Red Chestplate
+Red Leggings
+Red Boots
+Green Helmet
+Green Chestplate
+Green Leggings
+Green Boots
+Brown Helmet
+Brown Chestplate
+Brown Leggings
+Brown Boots
+Lapis Lazuli Helmet
+Lapis Lazuli Chestplate
+Lapis Lazuli Leggings
+Lapis Lazuli Boots
+Purple Helmet
+Purple Chestplate
+Purple Leggings
+Purple Boots
+Cyan Helmet
+Cyan Chestplate
+Cyan Leggings
+Cyan Boots
+Light Gray Helmet
+Light Gray Chestplate
+Light Gray Leggings
+Light Gray Boots
+Gray Helmet
+Gray Chestplate
+Gray Leggings
+Gray Boots
+Pink Helmet
+Pink Chestplate
+Pink Leggings
+Pink Boots
+Lime Helmet
+Lime Chestplate
+Lime Leggings
+Lime Boots
+Yellow Helmet
+Yellow Chestplate
+Yellow Leggings
+Yellow Boots
+Light Blue Helmet
+Light Blue Chestplate
+Light_Blue Leggings
+Light Blue Boots
+Magenta Helmet
+Magenta Chestplate
+Magenta Leggings
+Magenta Boots
+Orange Helmet
+Orange Chestplate
+Orange Leggings
+Orange Boots
+White Helmet
+White Chestplate
+White Leggings
+White Boots

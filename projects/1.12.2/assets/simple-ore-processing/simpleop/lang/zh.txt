@@ -1,0 +1,10 @@
+Iron Crusher
+Iron Crusher
+Iron Smelter
+Iron Smelter
+Iron Compressor
+Iron Compressor
+Simple Ore Processing
+Crusher
+Smelter
+Compressor

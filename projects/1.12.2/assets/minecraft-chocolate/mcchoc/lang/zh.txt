@@ -1,0 +1,270 @@
+Silver Ingot
+Silver Ore
+Copper Ingot
+Copper Ore
+Lead Ingot
+Lead Ore
+Copper Block
+Lead Block
+Silver Block
+Copper Sword
+Copper Hoe
+Copper Shovel
+Copper Axe
+Copper Pickaxe
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Lead Sword
+Lead Hoe
+Lead Shovel
+Lead Axe
+Lead Pickaxe
+Lead Helmet
+Lead Chestplate
+Lead Leggings
+Lead Boots
+Silver Sword
+Silver Hoe
+Silver Shovel
+Silver Axe
+Silver Pickaxe
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Copper Nugget
+Lead Nugget
+Silver Nugget
+Steel Ingot
+Steel Nugget
+Steel Sword
+Steel Hoe
+Steel Shovel
+Steel Axe
+Steel Pickaxe
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Steel Ore
+Steel Block
+Aluminum Nugget
+Aluminum Ingot
+Aluminum Sword
+Aluminum Pickaxe
+Aluminum Shovel
+Aluminum Axe
+Aluminum Hoe
+Aluminum Helmet
+Aluminum Chestplate
+Aluminum Leggings
+Aluminum Boots
+Aluminum Ore
+Aluminum Block
+Titanium Ingot
+Titanium Nugget
+Titanium Sword
+Titanium Pickaxe
+Titanium Axe
+Titanium Shovel
+Titanium Hoe
+Titanium Helmet
+Titanium Chestplate
+Titanium Leggings
+Titanium Boots
+Titanium Ore
+Titanium Block
+Tungsten Ingot
+Tungsten Nugget
+Tungsten Axe
+Tungsten Pickaxe
+Tungsten Hoe
+Tungsten Shovel
+Tungsten Sword
+Tungsten Boots
+Tungsten Leggings
+Tungsten Chestplate
+Tungsten Helmet
+Tungsten Ore
+Tungsten Block
+Jack O' Lantern
+Candle
+Halloween Sign
+Chocolate
+Bronze Ingot
+Bronze Nugget
+Bronze Sword
+Bronze Spade
+Bronze Hoe
+Bronze Pickaxe
+Bronze Axe
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Bronze Block
+Bronze Ore
+Rose Quartz
+Rose Quartz Ore
+Rose Quartz Block
+Chiseled Rose Quartz Block
+Rose Quartz Pillar
+Rose Quartz Stairs
+Iron Stairs
+Silver Stairs
+Aluminum Stairs
+Titanium Stairs
+Lead Stairs
+Steel Stairs
+Tungsten Stairs
+Bronze Stairs
+Copper Stairs
+Gold Stairs
+Diamond Stairs
+Emerald Stairs
+Ruby
+Ruby Ore
+Ruby Block
+Ruby Stairs
+Sapphire
+Sapphire Ore
+Sapphire Block
+Sapphire Stairs
+Amethyst
+Amethyst Ore
+Amethyst Block
+Amethyst Stairs
+Peridot
+Peridot Ore
+Peridot Block
+Peridot Stairs
+Malachite
+Malachite Block
+Malachite Pillar
+Chiseled Malachite Block
+Malachite Stairs
+Malachite Ore
+Carnelian
+Carnelian Block
+Carnelian Pillar
+Chiseled Carnelian Block
+Carnelian Stairs
+Carnelian Ore
+Turquoise
+Turquoise Block
+Turquoise Pillar
+Chiseled Turquoise Block
+Turquoise Stairs
+Turquoise Ore
+Wax
+Gold Door
+Gold Fence
+Gold Fence Gate
+Iron Fence
+Iron Fence Gate
+Copper Door
+Copper Fence
+Copper Fence Gate
+Lead Door
+Lead Fence
+Lead Fence Gate
+Silver Door
+Silver Fence
+Silver Fence Gate
+Steel Door
+Steel Fence
+Steel Fence Gate
+Aluminum Door
+Aluminum Fence
+Aluminum Fence Gate
+Titanium Door
+Titanium Fence
+Titanium Fence Gate
+Tungsten Door
+Tungsten Fence
+Tungsten Fence Gate
+Black Redstone Lamp
+Red Redstone Lamp
+Green Redstone Lamp
+Brown Redstone Lamp
+Light Gray Redstone Lamp
+Purple Redstone Lamp
+Gray Redstone Lamp
+Lime Redstone Lamp
+Yellow Redstone Lamp
+Cyan Redstone Lamp
+Magenta Redstone Lamp
+Orange Redstone Lamp
+Blue Redstone Lamp
+Light Blue Redstone Lamp
+White Redstone Lamp
+Pink Redstone Lamp
+Spike Trap
+Poison Spike Trap
+Black Terracotta Switch
+Red Terracotta Switch
+Green Terracotta Switch
+Brown Terracotta Switch
+Light Gray Terracotta Switch
+Gray Terracotta Switch
+Purple Terracotta Switch
+Lime Terracotta Switch
+Yellow Terracotta Switch
+Cyan Terracotta Switch
+Magenta Terracotta Switch
+Orange Terracotta Switch
+Blue Terracotta Switch
+Light Blue Terracotta Switch
+White Terracotta Switch
+Pink Terracotta Switch
+Oak Switch
+Spruce Switch
+Birch Switch
+Jungle Switch
+Acacia Switch
+Dark Oak Switch
+Black Concrete Switch
+Red Concrete Switch
+Green Concrete Switch
+Brown Concrete Switch
+Light Gray Concrete Switch
+Dark Gray Concrete Switch
+Purple Concrete Switch
+Lime Concrete Switch
+Yellow Concrete Switch
+Cyan Concrete Switch
+Magenta Concrete Switch
+Orange Concrete Switch
+Blue Concrete Switch
+Light Blue Concrete Switch
+White Concrete Switch
+Pink Concrete Switch
+Stone Switch
+Granite Switch
+Andesite Switch
+Diorite Switch
+Minecraft Chocolate - Minerals
+Mine one of Minecraft Chocolate's many ores.
+Obtain Silver
+Smelt up a bar of silver.
+Obtain Copper
+Smelt up a bar of copper.
+Obtain Steel
+Smelt up a bar of steel.
+Obtain Lead
+Smelt up a bar of lead.
+Obtain Aluminum
+Smelt up a bar of aluminum.
+Obtain Titanium
+Smelt up a bar of titanium.
+Obtain tungsten
+Smelt up a bar of tungsten.
+Obtain Bronze
+Smelt up a bar of bronze.
+Minecraft Chocolate - Building Blocks
+Minecraft Chocolate - Tools
+Minecraft Chocolate - Combat
+Minecraft Chocolate - Miscellaneous
+Minecraft Chocolate - Redstone

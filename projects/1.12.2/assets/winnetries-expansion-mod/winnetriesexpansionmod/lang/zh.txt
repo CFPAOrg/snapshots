@@ -1,0 +1,510 @@
+%1$sThis is an artefact%2$s
+%1$sFor decoration use only%2$s
+Expansionmod
+White Stained Clayball
+Orange Stained Clayball
+Magenta Stained Clayball
+Light Blue Stained Clayball
+Yellow Stained Clayball
+Lime Stained Clayball
+Pink Stained Clayball
+Gray Stained Clayball
+Light Gray Stained Clayball
+Cyan Stained Clayball
+Purple Stained Clayball
+Blue Stained Clayball
+Brown Stained Clayball
+Green Stained Clayball
+Red Stained Clayball
+Black Stained Clayball
+White Brick
+Orange Brick
+Magenta Brick
+Light Blue Brick
+Yellow Brick
+Lime Brick
+Pink Brick
+Gray Brick
+Light Gray Brick
+Cyan Brick
+Purple Brick
+Blue Brick
+Brown Brick
+Green Brick
+Red Brick
+Black Brick
+Bucket Cast
+Metal Press Mold: Metal Bucket
+Clay Bucket
+Terracotta Bucket
+Terracotta Water Bucket
+Terracotta Lava Bucket
+Clay Gear
+Clay Plate
+Terracotta Gear
+Terracotta Plate
+Clay Flower Pot
+Tin Nugget
+Invar Nugget
+Bronze Nugget
+Solder Nugget
+Tin Ingot
+Invar Ingot
+Bronze Ingot
+Solder Ingot
+Tin Plate
+Invar Plate
+Bronze Plate
+Solder Plate
+Tin Grit
+Invar Grit
+Bronze Grit
+Solder Grit
+Calcium Carbonate
+Natrium Carbonate
+Silica
+Silica Blend
+Solder Wire
+Solder Wire Coil
+Metal Press Mold: Arrow Head
+Metal Press Mold: Hopper
+Steel Arrow Head
+Metal Press Mold: Metal Trapdoor
+Copper Gear
+Tin Gear
+Bronze Gear
+Iron Gear
+Steel Gear
+Gold Gear
+Silver Gear
+Electrum Gear
+Constantan Gear
+Nickel Gear
+Invar Gear
+Lead Gear
+Aluminum Gear
+Apple Juice
+Carrot Juice
+Chorusfruit Juice
+Melon Juice
+Cactus Juice
+Pumpkin Juice
+Lemon Juice
+Plum Juice
+Cherry Juice
+Tropical Juice
+Beetroot Juice
+Apple Cider
+Plum Wine
+Chocolate Milk
+Molten Invar
+Molten Bronze
+Molten Tin
+Molten Solder
+Molten Constantan
+Molten Uranium
+Apple Juice
+Beetroot Juice
+Carrot Juice
+Melon Juice
+Pumpkin Juice
+Cactus Juice
+Chorusfruit Juice
+Lemon Juice
+Cherry Juice
+Tropical Juice
+Plum Juice
+Chocolate Milk
+Plum Wine
+Apple Cider
+Molten Invar
+Molten Tin
+Molten Bronze
+Molten Solder
+Molten Constantan
+Molten Uranium
+Apple Juice
+Beetroot Juice
+Carrot Juice
+Melon Juice
+Pumpkin Juice
+Cactus Juice
+Chorusfruit Juice
+Lemon Juice
+Cherry Juice
+Tropical Juice
+Plum Juice
+Chocolate Milk
+Plum Wine
+Apple Cider
+Wooden Hoe
+Wooden Shovel
+Wooden Axe
+Wooden Pickaxe 
+Wooden Sword
+Stone Hoe
+Stone Shovel
+Stone Axe
+Stone Pickaxe 
+Stone Sword
+White Stained Clay
+Orange Stained Clay
+Magenta Stained Clay
+Light Blue Stained Clay
+Yellow Stained Clay
+Lime Stained Clay
+Pink Stained Clay
+Gray Stained Clay
+Light Gray Stained Clay
+Cyan Stained Clay
+Purple Stained Clay
+Blue Stained Clay
+Brown Stained Clay
+Green Stained Clay
+Red Stained Clay
+Black Stained Clay
+White Terracotta Carved Brick
+Orange Terracotta Carved Brick
+Magenta Terracotta Carved Brick
+Light Blue Terracotta Carved Brick
+Yellow Terracotta Carved Brick
+Lime Terracotta Carved Brick
+Pink Terracotta Carved Brick
+Gray Terracotta Carved Brick
+Light Gray Terracotta Carved Brick
+Cyan Terracotta Carved Brick
+Purple Terracotta Carved Brick
+Blue Terracotta Carved Brick
+Brown Terracotta Carved Brick
+Green Terracotta Carved Brick
+Red Terracotta Carved Brick
+Black Terracotta Carved Brick
+White Terracotta Slab
+Orange Terracotta Slab
+Magenta Terracotta Slab
+Light Blue Terracotta Slab
+Yellow Terracotta Slab
+Lime Terracotta Slab
+Pink Terracotta Slab
+Gray Terracotta Slab
+Light Gray Terracotta Slab
+Cyan Terracotta Slab
+Purple Terracotta Slab
+Blue Terracotta Slab
+Brown Terracotta Slab
+Green Terracotta Slab
+Red Terracotta Slab
+Black Terracotta Slab
+White Terracotta Stairs
+Orange Terracotta Stairs
+Magenta Terracotta Stairs
+Light Blue Terracotta Stairs
+Yellow Terracotta Stairs
+Lime Terracotta Stairs
+Pink Terracotta Stairs
+Gray Terracotta Stairs
+Light Gray Terracotta Stairs
+Cyan Terracotta Stairs
+Purple Terracotta Stairs
+Blue Terracotta Stairs
+Brown Terracotta Stairs
+Green Terracotta Stairs
+Red Terracotta Stairs
+Black Terracotta Stairs
+White Terracotta Wall
+Orange Terracotta Wall
+Magenta Terracotta Wall
+Light Blue Terracotta Wall
+Yellow Terracotta Wall
+Lime Terracotta Wall
+Pink Terracotta Wall
+Gray Terracotta Wall
+Light Gray Terracotta Wall
+Cyan Terracotta Wall
+Purple Terracotta Wall
+Blue Terracotta Wall
+Brown Terracotta Wall
+Green Terracotta Wall
+Red Terracotta Wall
+Black Terracotta Wall
+White Bricks
+Orange Bricks
+Magenta Bricks
+Light Blue Bricks
+Yellow Bricks
+Lime Bricks
+Pink Bricks
+Gray Bricks
+Light Gray Bricks
+Cyan Bricks
+Purple Bricks
+Blue Bricks
+Brown Bricks
+Green Bricks
+Red Bricks
+Black Bricks
+White Bricks Slab
+Orange Bricks Slab
+Magenta Bricks Slab
+Light Blue Bricks Slab
+Yellow Bricks Slab
+Lime Bricks Slab
+Pink Bricks Slab
+Gray Bricks Slab
+Light Gray Bricks Slab
+Cyan Bricks Slab
+Purple Bricks Slab
+Blue Bricks Slab
+Brown Bricks Slab
+Green Bricks Slab
+Red Bricks Slab
+Black Bricks Slab
+White Bricks Stairs
+Orange Bricks Stairs
+Magenta Bricks Stairs
+Light Blue Bricks Stairs
+Yellow Bricks Stairs
+Lime Bricks Stairs
+Pink Bricks Stairs
+Gray Bricks Stairs
+Light Gray Bricks Stairs
+Cyan Bricks Stairs
+Purple Bricks Stairs
+Blue Bricks Stairs
+Brown Bricks Stairs
+Green Bricks Stairs
+Red Bricks Stairs
+Black Bricks Stairs
+White Bricks Wall
+Orange Bricks Wall
+Magenta Bricks Wall
+Light Blue Bricks Wall
+Yellow Bricks Wall
+Lime Bricks Wall
+Pink Bricks Wall
+Gray Bricks Wall
+Light Gray Bricks Wall
+Cyan Bricks Wall
+Purple Bricks Wall
+Blue Bricks Wall
+Brown Bricks Wall
+Green Bricks Wall
+Red Bricks Wall
+Black Bricks Wall
+White Terracotta Brick
+Orange Terracotta Brick
+Magenta Terracotta Brick
+Light Blue Terracotta Brick
+Yellow Terracotta Brick
+Lime Terracotta Brick
+Pink Terracotta Brick
+Gray Terracotta Brick
+Light Gray Terracotta Brick
+Cyan Terracotta Brick
+Purple Terracotta Brick
+Blue Terracotta Brick
+Brown Terracotta Brick
+Green Terracotta Brick
+Red Terracotta Brick
+Black Terracotta Brick
+White Terracotta Brick Slab
+Orange Terracotta Brick Slab
+Magenta Terracotta Brick Slab
+Light Blue Terracotta Brick Slab
+Yellow Terracotta Brick Slab
+Lime Terracotta Brick Slab
+Pink Terracotta Brick Slab
+Gray Terracotta Brick Slab
+Light Gray Terracotta Brick Slab
+Cyan Terracotta Brick Slab
+Purple Terracotta Brick Slab
+Blue Terracotta Brick Slab
+Brown Terracotta Brick Slab
+Green Terracotta Brick Slab
+Red Terracotta Brick Slab
+Black Terracotta Brick Slab
+White Terracotta Brick Stairs
+Orange Terracotta Brick Stairs
+Magenta Terracotta Brick Stairs
+Light Blue Terracotta Brick Stairs
+Yellow Terracotta Brick Stairs
+Lime Terracotta Brick Stairs
+Pink Terracotta Brick Stairs
+Gray Terracotta Brick Stairs
+Light Gray Terracotta Brick Stairs
+Cyan Terracotta Brick Stairs
+Purple Terracotta Brick Stairs
+Blue Terracotta Brick Stairs
+Brown Terracotta Brick Stairs
+Green Terracotta Brick Stairs
+Red Terracotta Brick Stairs
+Black Terracotta Brick Stairs
+White Terracotta Brick Wall
+Orange Terracotta Brick Wall
+Magenta Terracotta Brick Wall
+Light Blue Terracotta Brick Wall
+Yellow Terracotta Brick Wall
+Lime Terracotta Brick Wall
+Pink Terracotta Brick Wall
+Gray Terracotta Brick Wall
+Light Gray Terracotta Brick Wall
+Cyan Terracotta Brick Wall
+Purple Terracotta Brick Wall
+Blue Terracotta Brick Wall
+Brown Terracotta Brick Wall
+Green Terracotta Brick Wall
+Red Terracotta Brick Wall
+Black Terracotta Brick Wall
+White Terracotta Cracked Brick
+Orange Terracotta Cracked Brick
+Magenta Terracotta Cracked Brick
+Light Blue Terracotta Cracked Brick
+Yellow Terracotta Cracked Brick
+Lime Terracotta Cracked Brick
+Pink Terracotta Cracked Brick
+Gray Terracotta Cracked Brick
+Light Gray Terracotta Cracked Brick
+Cyan Terracotta Cracked Brick
+Purple Terracotta Cracked Brick
+Blue Terracotta Cracked Brick
+Brown Terracotta Cracked Brick
+Green Terracotta Cracked Brick
+Red Terracotta Cracked Brick
+Black Terracotta Cracked Brick
+White Terracotta Cracked Brick Slab
+Orange Terracotta Cracked Brick Slab
+Magenta Terracotta Cracked Brick Slab
+Light Blue Terracotta Cracked Brick Slab
+Yellow Terracotta Cracked Brick Slab
+Lime Terracotta Cracked Brick Slab
+Pink Terracotta Cracked Brick Slab
+Gray Terracotta Cracked Brick Slab
+Light Gray Terracotta Cracked Brick Slab
+Cyan Terracotta Cracked Brick Slab
+Purple Terracotta Cracked Brick Slab
+Blue Terracotta Cracked Brick Slab
+Brown Terracotta Cracked Brick Slab
+Green Terracotta Cracked Brick Slab
+Red Terracotta Cracked Brick Slab
+Black Terracotta Cracked Brick Slab
+White Terracotta Cracked Brick Stairs
+Orange Terracotta Cracked Brick Stairs
+Magenta Terracotta Cracked Brick Stairs
+Light Blue Terracotta Cracked Brick Stairs
+Yellow Terracotta Cracked Brick Stairs
+Lime Terracotta Cracked Brick Stairs
+Pink Terracotta Cracked Brick Stairs
+Gray Terracotta Cracked Brick Stairs
+Light Gray Terracotta Cracked Brick Stairs
+Cyan Terracotta Cracked Brick Stairs
+Purple Terracotta Cracked Brick Stairs
+Blue Terracotta Cracked Brick Stairs
+Brown Terracotta Cracked Brick Stairs
+Green Terracotta Cracked Brick Stairs
+Red Terracotta Cracked Brick Stairs
+Black Terracotta Cracked Brick Stairs
+White Terracotta Cracked Brick Wall
+Orange Terracotta Cracked Brick Wall
+Magenta Terracotta Cracked Brick Wall
+Light Blue Terracotta Cracked Brick Wall
+Yellow Terracotta Cracked Brick Wall
+Lime Terracotta Cracked Brick Wall
+Pink Terracotta Cracked Brick Wall
+Gray Terracotta Cracked Brick Wall
+Light Gray Terracotta Cracked Brick Wall
+Cyan Terracotta Cracked Brick Wall
+Purple Terracotta Cracked Brick Wall
+Blue Terracotta Cracked Brick Wall
+Brown Terracotta Cracked Brick Wall
+Green Terracotta Cracked Brick Wall
+Red Terracotta Cracked Brick Wall
+Black Terracotta Cracked Brick Wall
+White Concrete Slab
+Orange Concrete Slab
+Magenta Concrete Slab
+Light Blue Concrete Slab
+Yellow Concrete Slab
+Lime Concrete Slab
+Pink Concrete Slab
+Gray Concrete Slab
+Light Gray Concrete Slab
+Cyan Concrete Slab
+Purple Concrete Slab
+Blue Concrete Slab
+Brown Concrete Slab
+Green Concrete Slab
+Red Concrete Slab
+Black Concrete Slab
+White Concrete Stairs
+Orange Concrete Stairs
+Magenta Concrete Stairs
+Light Blue Concrete Stairs
+Yellow Concrete Stairs
+Lime Concrete Stairs
+Pink Concrete Stairs
+Gray Concrete Stairs
+Light Gray Concrete Stairs
+Cyan Concrete Stairs
+Purple Concrete Stairs
+Blue Concrete Stairs
+Brown Concrete Stairs
+Green Concrete Stairs
+Red Concrete Stairs
+Black Concrete Stairs
+White Concrete Wall
+Orange Concrete Wall
+Magenta Concrete Wall
+Light Blue Concrete Wall
+Yellow Concrete Wall
+Lime Concrete Wall
+Pink Concrete Wall
+Gray Concrete Wall
+Light Gray Concrete Wall
+Cyan Concrete Wall
+Purple Concrete Wall
+Blue Concrete Wall
+Brown Concrete Wall
+Green Concrete Wall
+Red Concrete Wall
+Black Concrete Wall
+Limestone
+Limestone Slab
+Limestone Cobble
+Limestone Cobble Slab
+Limestone Cobble Stairs
+Limestone Cobble Wall
+Limestone Mossy Cobble
+Limestone Mossy Cobble Wall
+Limestone Brick
+Limestone Brick Slab
+Limestone Brick Stairs
+Limestone Brick Wall
+Limestone Mossy Brick
+Limestone Cracked Brick
+Limestone Cracked Brick
+Limestone Cracked Brick Stairs
+Limestone Cracked Brick Wall
+Limestone Carved Brick
+Marblestone
+Marblestone Slab
+Marblestone Cobble
+Marblestone Cobble Slab
+Marblestone Cobble Stairs
+Marblestone Cobble Wall
+Marblestone Mossy Cobble
+Marblestone Mossy Cobble Wall
+Marblestone Brick
+Marblestone Brick Slab
+Marblestone Brick Stairs
+Marblestone Brick Wall
+Marblestone Mossy Brick
+Marblestone Cracked Brick
+Marblestone Cracked Brick
+Marblestone Cracked Brick Stairs
+Marblestone Cracked Brick Wall
+Marblestone Carved Brick
+Tin Ore
+Block of Tin
+Block of Bronze
+Block of Invar
+Block of Solder

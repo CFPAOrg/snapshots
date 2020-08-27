@@ -1,0 +1,10 @@
+Alarm Clock
+ Sunrise
+ Sunset
+ Noon
+ Midnight
+ Some point outside of normal Space-Time
+Sleeping until
+Alarm set to
+This isn't your bed!
+Alarm Clock is not allowed by this server.

@@ -1,0 +1,1210 @@
+General
+Miscellaneous settings and controls
+Client
+Settings affecting visuals and details on the client-side
+Mob
+Settings for individual Oddities and general controls
+Magic
+The spell system allows a diverse and powerful magic playstyle
+Phylactery
+The phylactery system allows any item to be a mob spawner
+Creature Type
+Controls for what types are applied to each mob/player
+World Options
+Controls for world generation
+Odd %s Egg
+Inscribed %s Egg
+Brooch of Shielding
+Arrow of %s Slaying
+Still-Beating Heart
+Calligrapher's Ink
+Blessed Book
+Blessed Book (%s)
+Slippers of Spider Climbing
+Boots of Speed
+Bottle of Air
+Decanter of Endless Water
+Diamond Coin
+Gold Coin
+Iron Coin
+Coin Purse
+Stone Coin
+Compound Scroll of %s
+Crowbar
+Deviled Egg
+Dust of Dryness
+Dust of Disappearance
+Dust of Appearance
+Goblin Ear
+Hunter's Eye
+Flask of Liquid Ozone
+Sustaining Spoon
+Lens of Detection
+Goblet of Blood
+Hand of the Mage
+Hen of the Mage
+Hare Mask
+Frog Hat
+Magician's Hat
+Lesbian Flag
+Gay Flag
+Bisexual Flag
+Transgender Flag
+Nonbinary Flag
+Genderqueer Flag
+Genderfluid Flag
+Asexual Flag
+Aromantic Flag
+Intersex Flag
+Pansexual Flag
+Polysexual Flag
+Queer Flag
+Helm of Underwater Action
+Horn of Blasting
+Greater Horn of Blasting
+Iron Chunk
+Javelin of Lightning
+Lantern
+Lantern of Revealing
+Cartographer Map
+Merchant Staff
+%s Lock
+Mage Apple
+%s Inscriber's Ink
+Magnifying Glass
+Bottle of Moss
+Faustian Contract
+Periapt of Antitoxin
+Binding Potion
+Amulet of Natural Armor
+Bracers of Armor
+Red String of Fate
+Restorative Ointment
+Ring of Blinking
+Ring of Climbing
+Improved Ring of Climbing
+Ring of Feather Falling
+Ring of Sustenance
+Ring of Shielding
+Ring of Invisibility
+Ring of Jumping
+Improved Ring of Jumping
+Ring of Unfettered Motion
+Ring of Protection
+Ring of Regeneration
+Ring of %s
+Ring of Swimming
+Improved Ring of Swimming
+Ring of Water Walking
+Ritualistic Dagger
+Satchel
+Potion Case
+Bulette Scale
+Kobold Scale
+Golembane Scarab
+Scarab of Protection
+Scarecrow
+Acid Base Solution
+Alchemical Fire Base
+Incomplete Antitoxin
+Enervated Tanglefoot Mixture
+Treated Pebble
+Spellbook
+Spellbook (%s)
+Spell List
+Scroll of %s
+Sigil of %s
+Wand of %s
+Spyglass
+Stone Salve
+Wooden Holy Symbol
+Stone Holy Symbol
+Iron Holy Symbol
+Golden Holy Symbol
+Diamond Holy Symbol
+Hourglass
+Tortoise Shell
+Adventurer's Journal
+Journal Entry
+Vial of Acid
+Alchemist's Fire
+Holy Water
+Antitoxin
+Tanglefoot Flask
+Thunderstone
+Whalebone Key
+Spawns the contained entity
+Spawns the contained entity with the applied inscriptions
+A durable shield against unavoidable projectiles
+A potent munition imbued with lethal magic
+A high-quality ink used mostly for decorative pursuits.
+They seem to grip against the nearest wall
+As swift as a summer's breeze
+The sound of a windy day echoes within
+You can hear an ocean...
+A valuable commodity and a useful gambling tool
+A direct connection to your most valuable possession.
+Vaporises a vast quantity of water... once.
+A whiff of fleeting stealth
+That which is hidden shall be unhidden
+This must have some use...
+Freezes targets in place, but gets a little tired...
+An endless supply of watery gruel
+A shiny bauble of considerable wealth
+A convenient searching tool
+No more worry for high shelves
+Sneak whilst looking at items and objects to control
+It gives off a menacing aura...
+A friend and boy
+A submariner's most valued possession
+Emits a damaging and deafening noise when blown
+Failure chance: %s
+A bolt from the blue sky!
+A directional light source
+A light that glimpses even the unseen
+Its warmth is soothing and protective
+A resilient field surrounds them
+Performs minor repairs on-the-go
+Walk like the Men of Ender
+It stores the energy of damaging falls, though you know not where...
+Keeps you from starving, but not much else
+Become unseen
+A modest skip in your step
+Behold, Springheel Steve!
+A magical tool for resisting constraints of motion
+Your hand tingles with youthful endurance
+It pulses in rhythm with your heart
+Imbued with mild protective magics
+Look ma, no flippers!
+As graceful as a salmon
+No ice required!
+Not even the gods could shift it, but the lightest touch might
+A convenient bag for the carrying of things
+The alchemist's vital tool, when in a hurry
+It's durable properties might be exploitable...
+It's durable properties might be exploitable...
+It burrows and bites at all things that have been made to move
+It busily munches on magical auras afflicting the wearer.
+Try not to overfeed it!
+Keeps unwanted pests at bay
+Hmm, needs a few shakes
+It needs to be properly stewed
+Restores motion to the motionless
+A layman's tool for repelling vulnerable undead
+A makeshift device that repels vulnerable undead
+A scholar's sigil, which undead cannot tolerate
+The mark of a noble priest, standing against the undead
+A powerful emblem to repel the mightiest of undead
+A convenient tool for measuring time
+The discarded shell of a strange nomad...
+It always pays to keep track of things
+The wisdom of a lost soul...
+It sizzles even against the air
+It's scalding to the touch
+A blessed tonic, anathema to the evil and undead
+An effective, if unpalatable, curative against mundane poisons
+It writhes against the glass, trying to constrict all it touches
+A single loud bang and then...
+Phylactery of %s
+Unique mob
+Time until spawn: %s
+Unable to spawn
+Alexandrite
+Amber
+Amethyst
+Diamond
+Citrine
+Emerald
+Garnet
+Jacinth
+Jade
+Jasper
+Malachite
+Opal
+Pearl
+Peridot
+Ruby
+Sardonyx
+Topaz
+Zircon
+Standard
+Alt-Fire
+Reset
+Distance: %s metres
+Destination invalid
+Begin pact
+Decline pact
+Pacts
+The Witch in the Woods
+The Storm Sage
+%s XP
+Assorted loot
+Function trigger (%s)
+Unlock recipes (%s)
+Owner: %s
+Bound to someone else
+Alternate effect: %s
+Casting Time: %s
+Contains %s spells
+Duration: %s
+ACTIVE
+INACTIVE
+Level %s %s
+Level %s %s (%s)
+(Dismissible)
+Range: %s
+Components: %s
+Focus: %s
+Items:
+Insufficient Caster Level
+Contains writings on %s creatures
+Player
+Terrible magic defeats the attack enchantment!
+Terrible magic defeats the movement enchantment!
+Counteracting %s modifiers to attacking
+Counteracting %s modifiers to moving
+No Mode
+Black
+Blue
+Brown
+Cyan
+Gray
+Green
+Light Blue
+Lime
+Magenta
+Orange
+Pink
+Purple
+Red
+Silver
+Yellow
+White
+Boonsteal
+Eminence
+Ender Beam
+Fire Breathing
+Royal Hunt
+King's Summons
+Children of Entropy
+Tyrant's Decree
+Acid Arrow
+Antimagic Field
+Arcane Sight
+Bull's Strength
+Circle Against Evil
+Circle Against Holy
+Cure Minor Wounds
+Cure Light Wounds
+Cure Moderate Wounds
+Cure Serious Wounds
+Cure Critical Wounds
+Darkness
+Deeper Darkness
+Dimensional Anchor
+Dimensional Lock
+Disintegrate
+Dispel Magic
+Ray of Enfeeblement
+Finger of Death
+Fireball
+Flesh to Stone
+Forcecage
+Greater Arcane Sight
+Greater Dispel Magic
+Greater Living Terrain
+Greater Teleport
+Hold Monster
+Hold Person
+Invisibility
+Knock
+Lesser Living Terrain
+Lightning Bolt
+Living Terrain
+Lock
+Magic Missile
+Plane Shift
+Polar Ray
+Ray of Frost
+Repulsion
+Scorching Ray
+Searing Light
+Silence
+Slow
+Statue
+Stone to Flesh
+Summon Monster %s
+Sunburst
+Teleport
+Teleport Object
+Wall of Fire
+Wall of Force
+Wall of Ice
+Wall of Iron
+Wall of Stone
+Web
+Word of Blindness
+Word of Death
+Word of Stunning
+Zone of Silence
+Launches a caustic projectile.
+Surrounds the caster in a magical deadzone, preventing spellcasting near them.
+Detects nearby magical constructs.
+Provides a temporary boon to the target entity (standard) or caster (alt-fire).
+A forbidding circle against Evil creatures.
+A forbidding circle against Holy creatures.
+It can be inverted to instead contain them.
+Restores 1 point of health to the target injured entity or caster.
+Restores 2-9 points of health to the target injured entity or caster.
+Restores 5-19 points of health to the target injured entity or caster.
+Restores 8-29 points of health to the target injured entity or caster.
+Restores 11-39 points of health to the target injured entity or caster.
+Creates a forbidding region of impermeable darkness.
+Creatures a large forbidding region of impermeable darkness.
+Prevents the target from escaping through teleportation or to other dimensions.
+Prevents any attempt to teleport into or out of the target region, including through other dimensions./nFor travel into the region, the region must be loaded for prevention to function.
+Fires a beam of devastatingly destructive energy.
+Attempts to unravel the magic of an ongoing targeted spell or all such spells within a 6-block radius.
+Fires a beam that temporarily degrades the target's combat ability.
+Instantly slays a single creature.
+Launches a small projectile that detonates ferociously on impact.
+Petrifies a target, rendering it inert.
+Surrounds the target position with an inescapable enclosure of pure force, with optional bars.
+Detects and identifies nearby magical constructs.
+Imbues a 5x5 chunk region with a semblance of persistent life.
+Transports the caster to any point in the same dimension, with perfect precision.
+Temporarily paralyses the target creature.
+Temporarily paralyses the target HUMANOID creature.
+Renders the target entity or caster temporarily imperceptible by conventional means.
+Unseals a single binding, temporarily suppressing any magical effects upon it.
+Projects a lengthy line of lightning
+Imbues a single chunk with a semblance of persistent life.
+Imbues a 3x3 chunk region with a semblance of persistent life.
+Reinforces a locking mechanism, preventing lockpicking attempts.
+Launches a series of homing spectral projectiles.
+Travel instantaneously to another plane of existence.
+Fires a beam of intense freezing cold energy.
+Fires a beam of freezing cold energy.
+Creates a broad field within which creatures are prevented from moving towards you.
+Fires a beam of blistering fire energy.
+Fires a beam of light especially dangerous to undead.
+Creates a zone of silence around the target.
+Temporarily reduces the movement speed of the target entity.
+Petrifies the target/caster, rendering them higly resistant to harm whilst not sneaking.
+Returns a petrified creature to their standard condition.
+Emits a blinding burst of light from the target position, causing severe damage, especially to undead and slimes.
+Transports the caster up to 900 miles, with only a slight inaccuracy.
+Transports the target block up to 1300 miles, or stores it outside of normal space entirely.
+Creates a mighty barrier of flame to block passages or encircle a position.
+Creates a temporary impenetrable barrier of pure force.
+Creates an imposing barrier of ice to block passages or surround a position.
+Creates a formiddable barrier of solid iron.
+Creates a permanent plane of stone to block passages or encircle a position.
+Creates a temporary web that blankets the area.
+Blinds a target creature with 200 health or less.
+Slays a target creature with 100 health or less.
+Momentarily stuns a target creature with 150 health or less, causing them to drop their held items.
+Prevents eavesdropping by any mortal more than a handshake away from you.
+Pact of %s (level %s)
+Waited %s of %s
+Cannot be completed
+Travel to %s, %s, %s
+Kill %s %s of %s
+Slain by %s %s of %s
+All-Things
+Aberration
+Arthropod
+Beast
+Wyrm
+Fey
+Giant
+God
+Golem
+Man
+Outsider
+Plant
+Human
+Slime
+Undead
+Rat
+Creative Item
+Prop Item
+Loot Item
+Mob Drops
+Mundane Item
+Minor Magic Item
+Medium Magic Item
+Major Magic Item
+Artifact
+Abjuration
+Conjuration
+Divination
+Enchantment
+Evocation
+Illusion
+Necromancy
+Transmutation
+Acid
+Air
+Cold
+Darkness
+Death
+Earth
+Electricity
+Evil
+Fear
+Fire
+Force
+Good
+Healing
+Light
+Mind-Affecting
+Sonic
+Water
+25ft + 5ft/2 CL
+100ft + 10ft/CL
+400ft + 40ft/CL
+Touch
+Personal
+Unlimited
+Seconds
+Instantaneous
+Permanent
+Abjure
+Arrow
+Chaos
+Darkness
+Empower
+Cold
+Beam
+Trickery
+Vapour
+Water
+Acid
+Change
+Death
+Earth
+Object
+Order
+Self
+Sustenance
+Time
+Undeath
+Area
+Fire
+Force
+Harm
+Light
+Lightning
+Path
+Motion
+Purity
+Unholy
+Air
+Condemnation
+Creation
+Distance
+Heal
+Holy
+Sound
+Space
+Precision
+Vision
+Simple
+Average
+Good
+Superior
+Afflicted by antimagic
+Insufficient target(s) available
+Missing one or more components
+Cannot speak
+Cannot move
+Missing focus item
+Unsuitable environment
+Unknown problem
+Can be cast
+Caster level too low
+Speech
+Gesture
+Items
+Focus
+Supertype
+Subtype
+Aberration
+Aberrations are creatures with very unusual physical structures, which might not even adhere to normal physics or biology
+No special properties
+Arthropod
+Arthropods are typically non-mammalian creatures with a hard exoskeleton, such as spiders or most insects
+No special properties
+Aquatic
+Aquatic-type creatures are perfectly capable of breathing underwater
+Immune to drowning
+Great Beast
+Great Beasts are typically animal-like but are often hardier or imbued with magical properties
+No special properties
+Cold
+Cold-type creatures are happily at home in frigid environments
+Immune to cold damage/nVulnerable to fire damage
+Dragon
+Dragons are reptilian creatures of great power and ability
+Immune to paralysis
+Evil
+Evil-type creatures are prone to acts of villainy and despotism
+Immune to evil damage/nVulnerable to holy damage
+Fey
+Fey are tricksters and deal-makers, often springing from a segment of the natural world containing powerful magic
+Vulnerable to silver and iron weapons
+Fire
+Fire-type creatures can endure even the harshest of hot environments
+Immune to fire damage/nVulnerable to cold damage
+Giant
+Giants typically resemble Humanoids, but of a scale far exceeding the norm, and typically lacking much of the intelligence of their smaller kin
+No special properties
+Golem
+Golems are inanimate matter given mobility and purpose, usually through magical means
+Immune to drowning/nImmune to critical hits/nImmune to poison and paralysis/nImmune to Enchantment, Necromancy, and Death effects/nCannot heal naturally
+Holy
+Holy-type creatures are noble and benevolent, though they might still pack a whallop if interfered with
+Immune to holy damage/nVulnerable to evil damage
+Humanoid
+Humanoids are bipedal creatures, often with a degree of intelligence, typified by players
+No special properties
+Illager
+Illager-type creatures are usually humanoids with a disdainful attitude, not quite Evil but a bit too far in that direction for mundane daily life
+No special properties
+Outsider
+Outsiders hail from a plane of existence unfamiliar to the common folk
+No special properties
+Plant
+Plants are a form of natural everyday life imbued with far more energy and consciousness than you'd generally prefer of your salad
+Immune to critical hits/nImmune to poison and paralysis/nImmune to Enchantment and Transmutation effects/nVulnerable to fire damage
+Slime
+Slimes are gelatinous and oozing, a primordial thing not quite yet absent from the world
+Immune to critical hits/nImmune to poison and paralysis/nImmune to Transmutation effects
+Undead
+Undead are reflections of what once was amongst the living, but which now shambles around with a different purpose
+Immune to drowning/nImmune to critical hits/nImmune to poison and paralysis/nImmune to Enchantment and Death effects/nVulnerable to holy damage/nCannot heal naturally
+Vermin
+Vermin are the natural enemy of the housekeeper and the farmer, such as spiders and rats
+No special properties
+Hostile
+Unfriendly
+Indifferent
+Friendly
+Helpful
+Lantern
+Mimic Chest
+Trapped Mimic Chest
+Lim Obelisk
+Immovable Rod
+Stone of Alarm
+Kobold Egg
+Inert Kobold Egg
+Bulette Egg
+Inert Bulette Egg
+Inscribing
+Inscribing Table
+Alchemical Centrifuge
+Decorative Centrifuge
+Conjured Iron
+Conjured Ice
+Conjured Web
+Cold Air
+Solid Force
+Bar of Force
+Pile of Dust
+Stone Lock
+Iron Lock
+Golden Lock
+Diamond Lock
+Brazier
+Brazier
+Clay Pot
+Steel Pot
+Sconce
+Sconce
+Moss
+Phosphorescent Moss
+Glowing Mushroom
+White Glowing Mushroom
+Orange Glowing Mushroom
+Magenta Glowing Mushroom
+Light Blue Glowing Mushroom
+Yellow Glowing Mushroom
+Lime Glowing Mushroom
+Pink Glowing Mushroom
+Gray Glowing Mushroom
+Light Gray Glowing Mushroom
+Cyan Glowing Mushroom
+Purple Glowing Mushroom
+Blue Glowing Mushroom
+Brown Glowing Mushroom
+Green Glowing Mushroom
+Red Glowing Mushroom
+Black Glowing Mushroom
+Oak Pillar
+Spruce Pillar
+Birch Pillar
+Acacia Pillar
+Jungle Pillar
+Dark Oak Pillar
+Stone Pillar
+Granite Pillar
+Andesite Pillar
+Diorite Pillar
+Stone Brick Pillar
+Nether Brick Pillar
+End Brick Pillar
+Gear
+Guillotine Blade
+Simple Conveyor
+Simple Conveyor
+Simple Conveyor Track
+Simple Conveyor Track
+Average Conveyor
+Average Conveyor
+Average Conveyor Track
+Average Conveyor Track
+Superior Conveyor
+Superior Conveyor
+Superior Conveyor Track
+Superior Conveyor Track
+Campfire
+Lit Campfire
+Extinguished Campfire
+Alchemical Alembic
+World Guard
+World Regenerator
+Clock
+Missing Block
+Glowing Missing Block
+World Regenerator
+Super Barrier
+Whale Orifice
+Stomach Manager
+Whale Flesh
+Whale Cartilage
+Block of Moss
+Winch
+Disembodied Heart
+Ancient Statue
+Mountain Heart Ore
+Mountain Heart
+Feywild Rift
+Interior Rift
+Hive Creep
+Dead Hive Creep
+Inert Hive Creep
+Inert Dead Hive Creep
+Hive Creep Light
+Hive Strut
+Crystal of Sensing
+Crystal of Sensing
+Changeling Garden
+Entropic Decay
+Acid
+Grease
+Petrifying Gas
+Alarmed block at [%s, %s, %s] has been activated by %s!
+Stone of Alarm at [%s, %s, %s] has been broken!
+Alarmed block at [%s, %s, %s] has been removed!
+Lock key set to %s
+The %s failed to open the lock
+Only operators can set a World Guard to affect itself.
+Ignore power:
+Deny breaking:
+Deny placing:
+Deny interactions:
+NONE
+ALL
+BLOCKS
+MOBS
+seconds
+Time Source
+Global
+Local
+Precise
+Signal Style
+Reset
+Toggling
+Incremental
+Pulsed
+Avoid placing on:
+NONE
+ENTITIES
+MOBS
+PLAYERS
+III
+IV
+V
+Anchored
+Arcane Sight
+Arrow Resistance
+Arrow Immunity
+Climbing
+Deafened
+Entangled
+Fall Immunity
+Fall Resistance
+Fire Resistance
+Magic Immunity
+Magic Resistance
+Petrified
+Petrifying
+Revealed
+Silenced
+Swim Boost
+Wither Immunity
+Wither Resistance
+Potion of Anchoring
+Potion of Arcane Sight
+Potion of Arrow Resistance
+Potion of Arrow Immunity
+Potion of Climbing
+Potion of Deafened
+Potion of Entangled
+Potion of Fall Immunity
+Potion of Fall Resistance
+Potion of Fire Resistance
+Potion of Haste
+Potion of Magic Immunity
+Potion of Magic Resistance
+Potion of Petrification
+Potion of Silencing
+Potion of Swim Boost
+Potion of Wither Immunity
+Potion of Wither Resistance
+Potion of Anchoring
+Potion of Arcane Sight
+Potion of Arrow Resistance
+Potion of Arrow Immunity
+Potion of Climbing
+Potion of Deafened
+Potion of Entangled
+Potion of Fall Immunity
+Potion of Fall Resistance
+Potion of Fire Resistance
+Potion of Magic Immunity
+Potion of Magic Resistance
+Potion of Petrification
+Potion of Silencing
+Potion of Swim Boost
+Potion of Wither Immunity
+Potion of Wither Resistance
+Potion of Healing III
+Potion of Arcane Sight
+Potion of Arrow Resistance
+Potion of Climbing
+Potion of Fall Resistance
+Potion of Fire Resistance
+Potion of Magic Resistance
+Potion of Swim Boost
+Potion of Wither Resistance
+Splash Potion of Anchoring
+Splash Potion of Arcane Sight
+Splash Potion of Arrow Resistance
+Splash Potion of Arrow Immunity
+Splash Potion of Climbing
+Splash Potion of Deafened
+Splash Potion of Entangled
+Splash Potion of Fall Immunity
+Splash Potion of Fall Resistance
+Splash Potion of Fire Resistance
+Splash Potion of Magic Immunity
+Splash Potion of Magic Resistance
+Splash Potion of Petrification
+Splash Potion of Silencing
+Splash Potion of Swim Boost
+Splash Potion of Wither Immunity
+Splash Potion of Wither Resistance
+Splash Potion of Anchoring
+Splash Potion of Arcane Sight
+Splash Potion of Arrow Resistance
+Splash Potion of Arrow Immunity
+Splash Potion of Climbing
+Splash Potion of Deafened
+Splash Potion of Entangled
+Splash Potion of Fall Immunity
+Splash Potion of Fall Resistance
+Splash Potion of Fire Resistance
+Splash Potion of Magic Immunity
+Splash Potion of Magic Resistance
+Splash Potion of Petrification
+Splash Potion of Silencing
+Splash Potion of Swim Boost
+Splash Potion of Wither Immunity
+Splash Potion of Wither Resistance
+Splash Potion of Arcane Sight
+Splash Potion of Arrow Resistance
+Splash Potion of Climbing
+Splash Potion of Fall Resistance
+Splash Potion of Fire Resistance
+Splash Potion of Magic Resistance
+Splash Potion of Swim Boost
+Splash Potion of Wither Resistance
+Lingering Potion of Anchoring
+Lingering Potion of Arcane Sight
+Lingering Potion of Arrow Resistance
+Lingering Potion of Arrow Immunity
+Lingering Potion of Climbing
+Lingering Potion of Deafened
+Lingering Potion of Entangled
+Lingering Potion of Fall Immunity
+Lingering Potion of Fall Resistance
+Lingering Potion of Fire Resistance
+Lingering Potion of Magic Immunity
+Lingering Potion of Magic Resistance
+Lingering Potion of Petrification
+Lingering Potion of Silencing
+Lingering Potion of Swim Boost
+Lingering Potion of Wither Immunity
+Lingering Potion of Wither Resistance
+Lingering Potion of Anchoring
+Lingering Potion of Arcane Sight
+Lingering Potion of Arrow Resistance
+Lingering Potion of Arrow Immunity
+Lingering Potion of Climbing
+Lingering Potion of Deafened
+Lingering Potion of Entangled
+Lingering Potion of Fall Immunity
+Lingering Potion of Fall Resistance
+Lingering Potion of Fire Resistance
+Lingering Potion of Magic Immunity
+Lingering Potion of Magic Resistance
+Lingering Potion of Petrification
+Lingering Potion of Silencing
+Lingering Potion of Swim Boost
+Lingering Potion of Wither Immunity
+Lingering Potion of Wither Resistance
+Lingering Potion of Arcane Sight
+Lingering Potion of Arrow Resistance
+Lingering Potion of Climbing
+Lingering Potion of Fall Resistance
+Lingering Potion of Fire Resistance
+Lingering Potion of Magic Resistance
+Lingering Potion of Swim Boost
+Lingering Potion of Wither Resistance
+Arrow of Anchoring
+Arrow of Arcane Sight
+Arrow of Arrow Resistance
+Arrow of Arrow Immunity
+Arrow of Climbing
+Arrow of Deafened
+Arrow of Entangled
+Arrow of Fall Immunity
+Arrow of Fall Resistance
+Arrow of Fire Resistance
+Arrow of Magic Immunity
+Arrow of Magic Resistance
+Arrow of Petrification
+Arrow of Silencing
+Arrow of Swim Boost
+Arrow of Wither Immunity
+Arrow of Wither Resistance
+Arrow of Anchoring
+Arrow of Arcane Sight
+Arrow of Arrow Resistance
+Arrow of Arrow Immunity
+Arrow of Climbing
+Arrow of Deafened
+Arrow of Entangled
+Arrow of Fall Immunity
+Arrow of Fall Resistance
+Arrow of Fire Resistance
+Arrow of Magic Immunity
+Arrow of Magic Resistance
+Arrow of Petrification
+Arrow of Silencing
+Arrow of Swim Boost
+Arrow of Wither Immunity
+Arrow of Wither Resistance
+Arrow of Arcane Sight
+Arrow of Arrow Resistance
+Arrow of Climbing
+Arrow of Fall Resistance
+Arrow of Fire Resistance
+Arrow of Magic Resistance
+Arrow of Swim Boost
+Arrow of Wither Resistance
+Spawn Type
+Challenge Rating
+Gameplay Options
+Aesthetic Options
+No options available
+Can wear armor
+Can hold item(s)
+Can be ridden
+Humanoid
+Has display option(s)
+Ageable
+Boss creature
+Yes
+No
+Oddity not found
+Timer "%s" completed
+Sneak for more details
+Coinage
+Trading
+Close
+Index
+Mobs
+%s (%s)
+No Types
+%s
+(%s)
+Lore
+Players
+%s (%s)
+No Types
+%s
+(%s)
+Types
+Properties
+Sit
+Become a Statue
+Petrified
+You have turned to stone.
+Revert to Normal
+CR %s
+The %s faction is now %s towards you
+%s was dissolved by acid
+%s froze to death
+%s was consumed by evil
+%s experience physics
+%s was cleansed by the divine
+%s died of a terrible sound
+%s died.
+%s was disintegrated
+%s turned to stone
+A somewhat adorable subterranean nuisance.
+An ancient construct assembled by hell itself and imbued with all its flame.
+Though smaller than its common relatives, this species compensates with a toxic venom.
+As wise as they are durable, these fowl creatures are mostly used as a self-replenishing food source.
+A typical farm animal, used as a source of milk, leather, etc.
+A creature composed of rustling vines known for its explosive pollination method.
+The traveler's faithful companion since time immemoriam.
+The twisted head of a lost priesthood, it viciously defends all that remains of its dwelling.
+That which subjugated and consumed the life of a plane, leaving only dominated shadows behind.
+Once, they were a civilisation. Now, they are only bestial reflections of themselves, enslaved to another's will.
+Sometimes when you crinkle physical space, something else pops out with you.
+Villagers who dabble in villainous magics are swiftly relegated to their cloaked mansions.
+A mixture of noxious vapour and damned souls, it wanders weeping for all eternity.
+Legend tells of a nation that fell into the sea, where the prideful clergy were made wardens of the ruins.
+A loyal and trustworthy steed.
+The dessicated remains of an explorer who died in searing heat.
+A tool of the Villagers, it fiercely fends off attacks on their settlements.
+The traveler's significantly ruder companion.
+Proof that even in the bowels of the underworld, life can find a way.
+A common cow afflicted with a virulent parasitic fungus, though it seems okay with it.
+Skittish and mischievous, these small companions are nonetheless capable of scaring away several fierce predators.
+Pirates and bullion not included.
+A friend or lunch, rarely both.
+A fluffy friend, whose component parts may prove useful to some alchemical endeavours.
+A typical farm animal, used as a source of wool, mutton, etc.
+An automaton left to defend abandoned cities in a dry and empty realm.
+A swarming pest common to ancient ruins.
+Its body contains hundreds of distinct bones, all of them projectile.
+A creature of utter simplicity. Simple structure, simple motion, simple hunger.
+As useful as a lantern made of ice.
+Though comparatively less dangerous than many creatures of the night, these many-legged monsters are incredibly nimble.
+A simple-minded aquatic animal. If it is capable of thought, it is incapable of showing it.
+The reanimated corpse of an explorer who died in frigid conditions.
+A violent and mischievous fey often summoned into the world by a proficient mage.
+Agriculture and society hold some small quarter of the world, but it is fiercely defended.
+Followers of malevolent masters are swiftly beckoned to their abodes.
+Villagers who dabble in nefarious alchemies are swiftly exiled from their settlements.
+It was called into the world, but you're not quite sure it came all the way in�
+Its bones are seared black from heat and hellish magic. Soot prevents them being flung, but it is sturdier for it.
+The most daring, if not the brightest, of companions. They will follow you to the ends of the cube, or at least 1400 miles.
+In an unknown age, it might have been an ally. That time has long since passed.
+A creature of hell. Though the elements of it are recognisable, you cannot fathom its origin.
+In an unknown age, it might have been an ally. That time has long since passed.
+The dreaded "land shark" is an expert in ambush attacks and can hunt prey through almost any terrain.
+A frequent sight on beaches and on the sea floor, but only hostile when provoked.
+A bound elemental spirit, set to defend an abandoned metropolis.
+In many ways they resemble you, but are titanic in scale and lacking in finesse.
+Many an adventurer has cut their teeth on their chitinous hides, and many have been cut by them in turn.
+A terror greater than this hulking undead is the question of what transformed it in the first place.
+Vicious little creatures with a profound taste for blood, they have an unending emnity with kobolds.
+A noble and elegant mesh of bird and beast, whose eggs are highly prized.
+Oviparous reptiles who tend to prefer the hotter climates, they have an unending emnity with goblins.
+They travel from distant lands, charting a course for others to follow.
+They travel from distant lands, bringing many treasures with them.
+A strange shapeshifting creature born of a dungeon's magic, they lure in explorers with the promise of treasure.
+A mischievous branch-dwelling animal.
+An ancient and unfriendly guardian with a penchant for flame.
+A brutish giant-kin with a penchant for picking on the weakest amongst its latest set of aggressors.
+Among the most majestic and graceful of beasts.
+Sometimes you find something that you're pretty sure was created as a joke.
+Is it� mocking you?
+The bane of farms and basements alike, they gnaw and chew at crops and wooden structures.
+A lord amongst rodents, it serves as a focal point for swarms and directs their attacks personally.
+Though typically harmless, these animals will flock to nearby dead flesh, looking to feast.
+A small many-legged creature typically found in deserts and wastelands, and wielding a potent poison in its stinger.
+A huge variation of their smaller cousins, and appropriately more dangerous.
+You wonder if the lack of a body is much hindrance to something already bereft of flesh and muscle.
+An ill-tempered behemoth whose vitality regenerates at a rate far greater than most. Make sure to sear the wounds.
+Now now, what curious need would you have to know of me?
+In an unknown age, it might have been an ally. That time has long since passed.
+A small reptilian creature given to opportunistic alliances.
+A vicious predator second only to one...
+The undisputed ruler of the badlands.
+Various Oddities
+%s Eggs
+%s Blocks
+%s Loot
+Kobold
+Uberwidren
+Pegasus
+Winged Donkey
+Goblin
+Troll
+Ogre
+Mimic
+Gryphon
+Monkey
+Crab
+Giant Crab
+Floating Skull
+Disembodied Head
+Rat
+Giant Rat
+Raven
+Giant
+Giant Zombie
+Scorpion
+Giant Scorpion
+Bulette
+Tortoise Merchant
+Hare Cartographer
+Mage Hand
+Force Shield
+Lightning Javelin
+Zombie Kobold
+Warg
+Worg
+Nether Golem
+End Golem
+Velociraptor
+Megaraptor
+Tyrannosaurus
+Scarecrow
+Whale
+The Witch
+Changeling
+Changeling (cow)
+Changeling (horse)
+Changeling (pig)
+Changeling (sheep)
+Changeling (villager)
+Marimo
+Fireball
+Force Shield
+Mage Hand
+Lock
+Wall of Fire
+Magic Missile
+Corpse
+Original concept by Carlyn Lim
+Will avoid %s
+Will attack %s
+Behaves like a %s
++ %s health
+- %s health
++ %s damage
+- %s damage
+Bulette growls
+Jimmy chatters
+Raven caws
+Raven squawks
+Raven dies
+/caster <add/read/remove/reset/set>
+Increased caster level of %s to %s
+/caster add [optional target] [value]
+Caster level of %s: %s
+/caster read [optional target]
+Decreased caster level of %s to %s
+/caster remove [optional target] [value]
+Reset caster level of %s to %s
+/caster reset [optional target]
+Set caster level of %s to %s
+/caster set [optional target] [value]
+/spell_list <add/clear/list/refresh/remove>
+Player %s has no spells to cast.
+Player %s can cast: %s
+Player %s's full spell list is: %s
+Added spell %s to %s's spell list.
+Removed spell %s from %s's spell list.
+Removed all spells from %s's spell list.
+Refreshed %s's available spells.
+Added %s to the journal of %s
+/journal add [optional target] [entry]
+Removed all entries in the journal of %s
+/journal add [optional target]
+No entries in found in the journal of %s
+The journal of %s contains the following entries:
+ Mobs: %s
+ Players: %s
+/journal list [optional target]
+Mob name %s was not recognised
+Couldn't find player %s
+Removed %s from the journal of %s
+/journal remove [optional target] [entry]
+Added the following types to %s: %s
+/types add [username or namespace identifier] [types]
+Removed all creature types from %s
+/types clear [username or namespace identifier]
+Definition of %s:
+/types define [creature type]
+Found nothing for %s
+  Mobs: %s
+  Players: %s
+Found the following for %s:
+/types list [creature type]
+Removed type %s from %s
+/types remove [username or namespace identifier] [creature type]
+Set the creature types of %s to %s
+/types set [username or namespace identifier] [creature types...]
+%s has no assigned creature types
+/types view [username or namespace identifier]
+%s returned the following creature types: %s
+/query <biomes/spawns>
+/biomequery biomes [count/here/source name]
+Current registered biomes:
+There are currently %s registered biomes
+Found %s registered biomes for %s:
+Found no registered biomes for %s:
+This is a %s biome
+/biomequery spawns <biome name>
+Spawns present in %s:
+/dim <dimension name or ID>
+Teleporting %s to %s dimension
+Teleporting %s to %s dimension at [%s, %s, %s]
+Error parsing dimension!
+/faction <add/read/remove/reset/set>
+Increased reputation of %s with %s to %s
+/faction add [optional target] [faction] [value]
+Reputation of %s with %s: %s
+/faction read [optional target] [faction]
+Decreased reputation of %s with %s to %s
+/faction remove [optional target] [faction] [value]
+Reset reputation of %s with %s to %s
+/faction reset [optional target] [faction]
+Set reputation of %s with %s to %s
+/faction set [optional target] [faction] [value]
+/pact <clear/decrement/endgame/increment/read/set>
+Cleared the current pact of %s
+Decremented the pact of %s to level %s
+Incremented the pact of %s to level %s
+%s does not currently have a pact
+Current pact of %s: %s (level %s)
+Set the current pact of %s to %s (level %s)
+Reloaded all pacts
+Could not recognise endgame %s
+No endgames are currently active.
+%s (%s)
+Current active endgames: %s
+Endgame %s is not currently active.
+Reduced the intensity of endgame %s by %s
+Increased the intensity of endgame %s by %s
+Cannot increase the intensity of non-ongoing endgames.

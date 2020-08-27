@@ -1,0 +1,40 @@
+SurvivalPlus Lightsabers
+Pommel Cap
+Focusing Lens
+Blade Emitter
+Inert Power Insulator
+Lightsaber Hilt
+Activation Stud
+Blade Matrix
+Emitter Matrix
+Darksaber Lens
+Red Lightsaber Hilt
+Blue Lightsaber Hilt
+Green Lightsaber Hilt
+Purple Lightsaber Hilt
+White Lightsaber Hilt
+Darksaber Hilt
+Red Lightsaber
+Blue Lightsaber
+Green Lightsaber
+Purple Lightsaber
+White Lightsaber
+Darksaber
+Lightsaber Turned On
+Lightsaber Turned Off
+Lightsaber Swung
+Lightsaber Blocks
+Darksaber Turned On
+Darksaber Turned Off
+Darksaber Swung
+Darksaber Blocks
+Hello There
+Jedi
+Sith
+Hello There!
+Download and Install SurvivalPlus Lightsabers
+coolsim thanks you for downloading SurvivalPlus Lightsabers!
+An Elegant Weapon
+Obtain a Lightsaber
+Is that a Lightsaber?
+Obtain a Darksaber

@@ -1,0 +1,270 @@
+Kathairis Blocks
+Kathairis Food
+Kathairis Plants
+Kathairis Weapons
+Kathairis Armors
+Kathairis Tools
+Kathairis Misc
+Resonating Gem
+Titanium Rod
+Titanium Ingot
+Titanium Helmet
+Titanium Chestplate
+Titanium Leggins
+Titanium Boots
+Titanium Axe
+Titanium Pickaxe
+Titanium Shovel
+Titanium Sword
+Titanium Hoe
+Refined Revenum
+Revenum Headpiece
+Revenum Mantle
+Revenum Greaves
+Revenum Sabatons
+Revenum Axe
+Revenum Pick
+Revenum Shovel
+Revenum Spatha
+Mystic Helmet
+Mystic Chestplate
+Mystic Leggins
+Mystic Boots
+Mystic Axe
+Mystic Pickaxe
+Mystic Shovel
+Mystic Sword
+Mystic Hoe
+Heart
+Pot With Living Flower
+Blue Cloud Dust
+Condensed Blue Cloud Dust
+Cloud Boots
+Yellow Crystal Shard
+Violet Crystal Shard
+Blue Crystal Shard
+Cotton Candy
+Frup
+Crystals Cluster
+Crystal Pickaxe
+Jellyfish Tentacles
+Turtle Shell
+Magic Beans
+Raw Carabeef
+Cooked Carabeef
+Nectar
+Yellow Cloud Dust
+Condensed Yellow Cloud Dust
+Glass Jar
+Fauyn Stick
+Gooseberry
+Cloud Essence
+Shock Wand
+Jar With Swamp Gas
+Bitten Cookie
+Ice Creams
+Sweet Muffin
+Venom Sac
+Crystal Blend
+Wings Piece
+Darkness Sword
+Dark Essence
+Death Wand
+Big Wings
+Mythic Stone Sign
+Cloud Pearl
+Fungal Drug
+Nath Door
+Fauyn Door
+Soul Wood Door
+Magnethium Shard
+Mythical Alloy
+Ritual Blade
+Solis Crystal
+Nectar Bowl
+Magnethium Axe
+Magnethium Pickaxe
+Magnethium Shovel
+Magnethium Hoe
+Magnethium Sword
+Layered Sand
+Jazzy Music Disc
+8-bit Music Disc
+Skyray feather
+Matted Fur
+Katharian Arrow
+Scythe
+Christmas Chocolate
+Candy Cane
+Butterfly Catcher
+Common Butterfly
+Common Butterfly
+Illukini
+Common Moth
+Nimbus
+Katharian Grass
+Katharian Dirt
+Katharian Stone
+Nath Planks
+Nath Log
+Nath Leaves
+Nath Sapling
+Mystic Fungus
+Wild Grass
+Katharian Grass
+Vilyria
+Blooming Vilyria
+Titanium Block
+Titanium Ore
+Katharian Long Grass
+Katharian Tile
+Fauyn Log
+Fauyn Leaves
+Fauyn Planks
+Fauyn Sapling
+Katharian Sand
+Soft Sand
+Weathered Stone
+Hardened Stone
+Hardened Stone Tiles
+Hardened Stone Bricks
+Dead Wild Grass
+Curious Ore
+Enchanted Stone
+Blue Cloud
+Revenite Ore
+Violet Crystal
+Yellow Crystal
+Blue Crystal
+Eye Plant
+Magic Beans
+Katharian Pillar
+Katharian Pillar Base
+Jade Vine empty
+Jade Vine top
+Jade Vine mid
+Jade Vine bottom
+Katharian Stairs
+Hardened Stone Stairs
+Nath Stairs
+Fauyn Stairs
+Nath Fence
+Fauyn Fence
+Fauyn Fence Gate
+Nath Gate
+Katharian Stone Wall
+Hardened Stone Wall
+Mud
+Mud Bricks
+Rasai
+Blue Cloud Bricks
+Blue Compressed Cloud
+Yellow Cloud
+Yellow Compressed Cloud
+Yellow Cloud Block
+Yellow Cloud Dust
+Condensed Yellow Cloud Dust
+Cloud Particle Emitter
+Succulent
+Gooseberry
+Charger
+Radiant Shard
+Swamp Gas
+Easter Egg
+Lahn Log
+Lahn Planks
+Lahn Leaves
+Lahn Sapling
+Turtle Plate
+Luminescent Gnarl
+Bone Bricks
+Chiseled Bone Bricks
+Soul Stone Bricks
+Soul Stone Bricks With Bones
+Mob Summoner
+Bone Ladder
+Dead Lichen
+Cursed Flower
+Tiered Succulent
+Katharian Sign
+Magnethium
+Hardened Stone Brick Stairs
+Fauyn Bark
+Nath Slab
+Fauyn Slab
+Soul Wood Slab
+Soul Wood Stairs
+Nath Bark
+Lahn Bark
+Resonating Block
+Stripped Nath Log
+Stripped Fauyn Log
+Stripped Lahn Log
+Katharian Rubble
+Nath Trapdoor
+Fauyn Trapdoor
+Lahn Trapdoor
+Revenum Trapdoor
+Nath Door Block
+Fauyn Door Block
+Lahn Door Block
+Revenum Door Block
+Blue Cloud Plant
+Yellow Cloud Plant
+Butterfly Analysis Table
+Solis Crystal
+Yellow Refined Cloud
+Blue Refined Cloud
+Block Of Mythical Alloy
+Gecko Eggs
+Redwood Planks
+Full Redwood Log
+Redwood Log Size-6
+Redwood Log Size-5
+Redwood Log Size-4
+Redwood Log Size-3
+Redwood Log Size-2
+Redwood Log Size-1
+Katharian Bricks
+Layered Sand
+Bison Stars
+Christmas Gift
+Baurble
+Snowdrop Cyprepedium
+Glowing Vines
+Scorpion
+Tortoise
+Jelly Fish
+Howler
+Mystic Bird
+Faha
+Bison
+Mystic Bird
+Mystic Bird
+Mystic Bird
+Butterfly
+Butterfly
+Wanderer
+Moth
+Skeletal Warrior
+Phasam
+Madam Death
+Camel
+Cloud Oyster
+Fungite
+Cloudy Slime
+Nimbus
+Flying Squid
+Skyray
+Illukini
+Ruby Sile
+Gecko
+Gaznowel
+Katharian Arrow
+Cacti Spore
+Phasm
+Charger
+Ethereal
+Stun
+Dissolution
+Welcome To The Kathairis!

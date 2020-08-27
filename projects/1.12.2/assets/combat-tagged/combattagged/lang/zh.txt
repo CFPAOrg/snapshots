@@ -1,0 +1,12 @@
+Bypass All Items
+If set to true, smite damage bypasses all item effects (eg. infinity armor's special protection, soulbound enchant, curse of vanishing, etc)\n \n
+Cooldown
+How long a player is considered to be 'in combat' after taking damage from, or dealing damage to, another player (in seconds)\nIf they disconnect before this amount of time has passed, they die\n \n
+Death Message
+Sets the death message for when someone dies via this mod. %s is a tag that is replaced by the name of the killed player\n \n
+Show Messages
+If set to true, sends players messages telling them when then enter and leave combat\nI very highly suggest leaving this set to true\n \n
+Smite Command
+If set to true, OP players can access the /smite <playername> command\nAs a side note, OP players are immune to smite, so if all players are OP, this command (and this entire mod) does nothing\n \n
+Lightning Effect
+If set to true, players who are killed by this mod seem like they're hit by lightning (the lightning itself doesn't actually deal any damage or start any fires)\nWhy would you ever disable this?\n \n

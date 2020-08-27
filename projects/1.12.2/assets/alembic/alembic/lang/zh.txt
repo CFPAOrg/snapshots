@@ -1,0 +1,11 @@
+/research <term>
+--- --- Searching for research --- ---
+Found matching %s, keys: %s%s%s.
+Found matching %s%s.
+. Stages completed: %s
+. Advancements completed: %s
+No results found for Thaumcraft research using term [%s].
+Found custom research with key %s, requiring research: %s.
+%d/%d research advancements are loaded.
+/alembic count |
+Alembic events are currently disabled: none loaded.

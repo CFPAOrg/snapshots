@@ -1,0 +1,335 @@
+Harshen Universe
+Harshen Soul Fragment
+Soul Harsher Sword
+Soul Harsher Pickaxe
+Harshen Dimensional Door
+Itium
+Harshen Crystal
+Harshen Soul Ingot
+Pontus Ring
+Bloody Earring
+§4Blood Essence§r
+Harshen Jaguar Armor Helmet
+Harshen Jaguar Armor Chestplate
+Harshen Jaguar Armor Leggings
+Harshen Jaguar Armor Boots
+§4Bloody Armor Helmet§r
+§4Bloody Armor Chestplate§r
+§4Bloody Armor Leggings§r
+§4Bloody Armor Boots§r
+Pontus World Gate Part
+Pontus World Gate Spawner First Part
+Pontus World Gate Spawner Second Part
+Pontus World Gate Spawner Third Part
+Pontus World Gate Spawner
+Pontus World Gate Spawner
+Enhanced Pontus World Gate Spawner
+Light Emitted Seed
+Light Emitted Essence
+Blood Collector
+Blood Collector
+Blood Collector
+Blood Collector
+Blood Collector
+Blood Collector
+Blood Collector
+Ritual Crystal
+Ritual Crystal (passive)
+Ritual Crystal (active)
+Soulless Knight Sword
+§2Empowered Soul Harsher Sword§r
+Guidance of Harshen Universe (WIP)
+Soul Infused Ingot
+Empty Glass Container
+Glass Container: Void
+Glass Container: Regeneration
+Glass Container: Cure
+Glass Container: %s
+Feather Earring
+Fearring
+One Ring
+Criminal Pendant
+Telering
+Blood Infused Ender Eye
+Elemental Pendant
+Ritual Sticks
+Ritual Stick
+Heretic Stick
+Powder of Heretism
+Zombie Eye
+Zombi Pendant
+§4Bloody Apple§r
+Pontus Cube
+§4Bloody Pontus Cube§r
+Minering
+Punchy Ring
+Looting Earring
+Ender Necklace
+Soul Shield
+Aqua Earring
+Iron Bow
+§bEnion Bow§r
+Xray Necklace
+Fiery Ring
+§5Soul Ripper Bow§r
+Valor Badge
+Iron Scythe
+§5Raptor Scythe§r
+Elytra Pendant
+Mystic Feather
+§bLightning Staff§r
+Solidifying Paste
+Ender Bow
+Feeding Earring
+Iron Heart
+§4Ring of Blood§r
+Soul Binding Pendant
+Reach Pendant
+Empty Ring
+Gillette
+§4Gillette§r
+§4Cursed Bone§r
+Soul Harsher Spade
+Reflector Pendant
+Broken Arrow
+§5Akzenia Soup§r
+§bDark Ewydoen§r
+Harshen Night Blade
+Telering Teleport Key
+Minering Teleport Key
+Accessory Inventory
+Ritual built wrong at %s, %s, %s. Expected %s, got %s
+Ritual Recipe not found.
+Fluid level is not enough to ritual.
+not
+Soulless Knight
+Soul Part
+Harshen Soul
+Soul Shooter
+Kazzendre
+Bloody Sheep
+Harshen Custom Entity
+%1$s's soul was taken away
+%1$s has been Harshed
+%1$s is died from blood loss
+%1$ has been killed by his reflected damage
+Killed by Soul Shoot
+Should %s be enabled
+the structure %s
+What should the ID for %s be
+The chance for blood to occur when a mob is hit.
+If blood occurs, should it be placed on the ground?
+If the blood cant be placed on the ground, should the player be able to get it if they have a blood collector in their offhand
+The blood height distance that blood can splash from
+Should the hidden plate renderer be run for all players in creative mode
+Bloody Torch range in blocks
+Nocturnal Torch range in blocks
+What blocks shouldnt work with the xray pendant
+The distance from the player that the xray pendant should be able to find, along the x axis(The higher this is the more lag it makes)
+The distance from the player that the xray pendant should be able to find, along the y axis(The higher this is the more lag it makes)
+The distance from the player that the xray pendant should be able to find, along the z axis(The higher this is the more lag it makes)
+The maximum amount of blocks the xray pendant can pick up
+If a structure has the ruin tag, what is the chance that a block is changed to air. If you dont understand dont worry, its not very important
+The distance for Ender Necklace in blocks
+Reach Pendant length range
+Harshen Soul Ore
+Soul Reminder
+Harshen Dimensional Stone
+Harshen Dimensional Door
+Harshen Dimensional Timer Plate
+Harshen Dimensional Timing Plate
+Harshen Dimensional Door
+Harshen Dimensional Stairs
+Harshen Dimensional Glass
+Harshen Dimensional Ladder
+Harshen Dimensional Pressure Plate
+Harshen Dimensional Hidden Plate
+Harshen Dimensional Dirt
+Harshen Dimensional Wood Crate
+Itium Ore
+Harshen Destroyed Plant
+Harshen Soul Flower
+Harshen Dimensional Rock
+Ritual Pedestal
+Plant of Gleam
+Crop of Gleam
+Heretic Cauldron
+§4Blood§r
+Pontus Dead Wood
+Pontus Dead Leaves
+Harshen Dimensional Gate (Pontus)
+Ritual Pedestal Slab
+Pontus Chaotic Rock
+Pontus Chaotic Wood
+Pontus Chaotic Leaves
+Harshen Display Block
+Harshen Spawner
+§4Blood Placer§r
+§4Blood Vessel§r
+Pontus Emerald Ore
+Archive
+§4Blood Factory§r
+Block of Heads
+Harshen Magic Table
+Gilded Obsidian
+Pontus Far Rock
+Pontus Far Wood
+Pontus Far Leaves
+Jewel Dirt
+Jewel Dirt
+§4Bloody Torch§r
+§4Bloody Wool§r
+§4Bloody Bed§r
+§5Akzenia Mushroom§r
+§2Nocturnal Torch§r
+Nocturne Bloom
+Harshen Dimensional Fluid
+Harshing Water
+§4Blood§r
+Lava
+Milk
+Magic Fluid
+Mixed Slots
+%s's access level was set to %s
+/harshencaste pontuslevel <level> OR /harshencaste pontuslevel <Player> <Level>
+Harshen Universe was reloaded
+[%s] The Mod is out of date. Your version %s, target version: %s. Click here to go to page
+Click To go to %s
+Mobs
+Potions
+Structures
+Dimensions
+Rituals
+Set the Block to set. Supports OreDict
+Examples: oreIron & harshenuniverse:harshen_soul_ore
+Accessory Item: %s
+Ring
+Pendant
+Earring
+Drains the soul of the target
+Very expensive matter
+Regenerates 1 heart
+every 5 seconds
+It can mine Harshen Soul Ore
+Gives you strength
+Holds the power of the old Koschei
+Can be mined only with
+A broken part of the Pontus Gate spawner
+Opens a temporary gate to the Pontus World
+Opens a permanent gate to the Pontus World
+Plantable only on
+Harshen Dimensional Dirt
+It can kill Ferrum King
+Splashes on the ground by players,
+witches and villagers when hurt
+Found in Pontus World
+Blood Storage
+Gives jump boost when worn
+Blinds the target when hit but also
+blinds you when hurt, but not as much
+Need to be organized
+Gives you full invisibility when worn
+Teleportation ring. Teleports you to the
+highest point in the direction you're looking
+Mining ring. Teleports you to the
+lowest point in the direction you're looking
++4 hearts and provides Speed
+Adds 3 hearts and
+increases resistance by armor
+Damage taken from all zombies
+will be decreased to 1
+With your empty hand,
+you will deal more damage
+Gives you waterbreathing
+when worn
+Lets you see entities
+through walls/blocks
+Increased looting for when entities are killed
+You can see any block you want
+through blocks in a specific distance.
+Right click the pendant before wearing
+it to set a block. OreDict supported!
+Currently binded: 
+Block '%s' not found
+Cooks animals when killed
+and blocks when mined
+It has its own arrow
+Drains the soul of the target
+It will absorb all the taken damage
+in replace for durability
+While using an elytra, right click with 
+an empty hand to boost through the air
+Use ancient technology to summon lightning
+Meet with Harshen Magic
+Shoots an arrow that
+will pass through all blocks
+Works well with the Ender Necklace
+Saturates your hunger
+as much as it can do
++3 hearts when worn
+Keeps your items in your inventory over death
+Has only 24 uses
+Reach more with anything!
+(+2 blocks distance, approximately)
+Bleed yourself! (to obtain blood)
+Right click to spawn a skeleton
+Can be found in Jacob's Graveyard
+It will reflect half of the
+damage you took to the enemy
+It will prevent mobs attacking to players in the area it lights up or if
+a player holds it, unless any mob attacked by a player
+Full set will regenerate 1 heart every 6 seconds
+You can get healed while sleeping on it
+Still holds the tears of the elf Shio, as an artifact; it reminds the power of the elder frost giants
+Frosts target, and accelerates you by every hit
+A fallen wizards last wishes... A lodestar from nocturns of nights...
+Provides night vision as much as you wait near to it or while holding
+"Have a feeling, wanna scythe down anything..."
+Heals you back with the cost of targets soul, by causing a big lesion.
+A Harshen assassins indispensable darling of the nights... Seek the target, and send it to void...
+If the sky is dark, it will fill n' charge; then the next basic attack will also deal 19 damage to the enemy hit, and will make you invisible&fast like a shadow for a short time. If you are invisible, it will deal 27+ damage instead of 19
+Thanks to @ZetkoOfficial
+It has a magical electricity. Stuns the enemy you punch for a short time.
+Seconds Left: %s
+Not active. Throw an active ritual crystal to activate
+Item:
+Harshen Universe
+Kazzendre: Don't touch any particle of me.. (you should use Soul Harsher Pickaxe)
+Kazzendre: You hurt my soul...
+Don't touch any particle of me.
+Harshen Accessories
+Inventory
+Valor Badge Trader
+The Block is deactivated. Throw an Active Ritual Crystal into this to reactivate
+§dHeretic Cauldron Blending§r
+§bLightning Ritual§r
+§4Blood Ritual§r
+§5Heretic Ritual§r
+§3Magic Table§r
+You can mine Harshen Soul Ore, but you need to use Soul Harsher Pickaxe to do that. Neither way, you will die in pain.
+It's obtainable from Harshen Soul Flower which spawns on overworld.
+You can obtain it by destroying the Plant of Gleam that spawns in overworld.
+The Essence of Sunlight. This essence is obtainable from Light Emitted Seed plant.
+Need this? Find the Kazzendre's Castle and kill Kazzendre. There is also a treasure room just after him. This pickaxe can break all ROCK types of Harshen Universe.
+Need it? Use Blood Collector.
+No enough drops? You may need Fortune enchantment for your tool.
+These parts found in chests in Kazzendre's Castle. It spawns in overworld, but there's only 1. Also found in a small shrine in overworld surface.
+You can obtain it by killing Bloody Mary in Pontus World. But she will probably hate you and...
+You can fill it with blood by right clicking blood(s) on the ground. Or, you can hold it in your offhand then kill mobs, that will work too.
+There are 2 ways to fill it. First is filling it with Blood Collector. You can fill your Blood Collector back from it by holding your Blood Collector in your offhand then right click to this. Second way is placing a Blood Factory on it, then place Blood Essence on the Blood Factory.
+A ancient artifact dating back thousands of years. A few villagers have begun collecting these.
+Iron Golem drop.
+You can refill it with gold on anvil.
+You can fill it by right clicking with Blood Collector when it's in your main hand. If the Blood Collector in your off hand, your Blood Collector will be filled from the Heretic Cauldron.
+You can obtain it by right clicking on a Blood Block on ground with an empty Glass Container. You can fill it from Heretic Cauldron filled with blood too.
+You can obtain it by right clicking on a cow with an empty Glass Container.
+You can obtain it by right clicking on a Dirt Block with an empty Glass Container.
+You can obtain it by right clicking on a Sand Block with an empty Glass Container.
+You can obtain it by right clicking on the related fluid with an empty Glass Container.
+Repairable with Harshen Soul Fragment on anvil.
+The full set gives night vision and speed. Also, it will protect you from soul harshing curses.
+Found under water lakes.
+This spade can break all DIRT types of Harshen Universe.
+Can be easily activated by redstone. And can be filled by placing a blood filled Blood Vessel on it.
+Spawns on overworld. It can be farmed such like vanilla mushrooms.
+This axe can break all wood type blocks of Harshen Universe. It can also turn a water block into an ice block, or a lava block into an obsidian block by right clicking.

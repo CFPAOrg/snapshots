@@ -1,0 +1,6 @@
+§a§l[Click]§r to pick, click again to place
+§b§l[Alt+Click]§r to reset to the original position
+§b§l[Shift+Click]§r to hide/show
+§b§l[MidClick]§r to grow, §b§l[RightClick]§r to shrink
+Press ESC to save
+Hud Configuration

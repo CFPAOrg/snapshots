@@ -1,0 +1,60 @@
+§fWorldEdit §2CUI§f 3 Forge Edition
+A client-side user interface for the WorldEdit
+§nGeneral :
+WorldEdit §2CUI§f 3
+Enable or disable WorldEdit §2CUI§f 3
+WorldEdit renderer
+Enable or disable WorldEdit renderer
+Distance renderer
+Enable or disable the distance renderer
+Chunk renderer
+Enable or disable the chunk renderer
+§nWorldEdit selections
+Activate or deactivate
+Activate or deactivate selections
+§nCuboïd selection
+First point
+Second point
+Grid
+Border
+§nCylinder selection
+Center
+Top
+Middle
+Bottom
+§nEllipsoid selection
+Main
+Center
+Radius X
+Radius Y
+Radius z
+§nConvex selection
+Main
+Secondary
+Line
+§nPolygon selection
+Polygon
+grid
+§nDistance measurer
+Activate or deactivate
+Activate or deactivate the distance measurer
+Distance
+§nChunk delimiter
+Chunks
+Grid
+Height indicator
+WorldEdit §2CUI§f 3
+Options
+Toggle CUI visibility
+Clear WorldEdit selection
+Toggle chunk visibility
+Toggle chunk measurer
+Distance measurer
+Off
+Simple
+Complex
+Far
+Chunk delimiter
+Off
+Surround
+Complete

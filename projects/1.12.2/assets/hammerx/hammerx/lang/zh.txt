@@ -1,0 +1,57 @@
+Void metal Block
+Wood Hammer
+Stone Hammer
+Iron Hammer
+Gold Hammer
+Diamond Hammer
+Copper Hammer
+Tin Hammer
+Nickel Hammer
+Electrum Hammer
+Silver Hammer
+Lead Hammer
+Bronze Hammer
+Platinum Hammer
+Invar Hammer
+Steel Hammer
+Dark Hammer
+Thaumium Hammer
+Void Hammer
+Hammer of The Core
+Manasteel Hammer
+Elementium Hammer
+Clockwork Dawnstone Hammer
+Bound Hammer
+Sentient Hammer
+Bedrock Hammer
+HSLA Hammer
+Borked Hammer
+Soulforged Steel Hammer
+Living Hammer
+Chameleon Hammer
+Durability
+Phase
+Mines in 3x3 (unless sneaking)
+Places torches from inventory with right click
+<Hold Shift>
+<Hold CTRL>
+Consumes mana instead of taking damage if possible
+Doesn't drop "junk" while mining
+Your Soul Network is Weak!
+Borked Hammer in Recipe is Diamond Hammer!
+Hammermancy
+Hammer of the Core
+[HZ] Even More Purifying Heat
+By infusing a Thaumium Hammer with a Pickaxe of the Core, you have created a hammer that holds its power; native clusters will be plentiful!<BR>Prospecting is possible if you're sneaky, but wailing a hammer sideways takes a toll on its durability.<BR>Wield with pride Thaumaturger!
+Thaumium Hammer
+Hammers too can experience the taste of Thaumaturgical manipulation; assembling whole blocks of Thaumium allow you to create a superior mining tool. Mine with the strength of an apprentice Thaumaturge as you journey.<BR>Should the powers that gleam within the metal smile upon you, an enchanted Thaumium Hammer can potentially get Repair.
+[HZ] Hammers Can Feel Magic Too!?
+By all things Eldritch! What is this?, a hammer which automatically repairs itself? It is not without side effect though, minor Warp will accompany you while mining.<BR>Don't get carried away, while indeed self-repairing, even the eldritch powers of the void can only keep up with so much.
+Void Hammer
+[HZ] It Does Feel A Tad Cold...
+Manasteel Hammer
+The &1Manasteel Hammer&0 has the ability to mine blocks in a 3x3 pattern. It can also place a torches from you're inventory upon right click. If possible it will attempt to consume mana instead of durability if there is a source in your inventory; it will repair itself if you do add a source of mana later but at a higher cost.
+Manasteel Hammer recipe
+Elementium Hammer
+The &dElementium Hammer&0 functions exactly in the same fashion as the &1Manasteel Hammer&0 with the added benefit of not dropping any "junk" while mining, junk being drops like Netherrack and Cobblestone. Keep your inventory clean, start using an Elementium Hammer today!
+Elementium Hammer recipe

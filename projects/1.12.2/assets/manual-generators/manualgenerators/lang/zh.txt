@@ -1,0 +1,9 @@
+Manual generator
+Iron rod
+Handle
+Generator
+Manual generators
+Energy: %d/%d %s
+Oops! Something went wrong.
+I'm too hungry!
+This block is too far.

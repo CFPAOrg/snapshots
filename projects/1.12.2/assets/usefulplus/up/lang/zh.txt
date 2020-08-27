@@ -1,0 +1,97 @@
+Raw Clay Sword
+Raw Clay Pickaxe
+Raw Clay Axe
+Raw Clay Hoe
+Raw Clay Shovel
+Raw Clay Shear
+Raw Clay Fishing Rod
+Raw Clay Bow
+Raw Clay Helmet
+Raw Clay Chestplate
+Raw Clay Leggings
+Raw Clay Boots
+Raw Clay Block
+Hardened Clay Shear
+Wooden Shear
+Cobblestone Shear
+Golden Shear
+Diamond Shear
+Emerald Shear
+Obsidian Shear
+Obsidian Diamond Shear
+Obsidian Emerald Shear
+Hardened Clay Sword
+Hardened Clay Pickaxe
+Hardened Clay Axe
+Hardened Clay Hoe
+Hardened Clay Shovel
+Emerald Sword
+Emerald Pickaxe
+Emerald Axe
+Emerald Hoe
+Emerald Shovel
+Obsidian Diamond Sword
+Obsidian Diamond Pickaxe
+Obsidian Diamond Axe
+Obsidian Diamond Hoe
+Obsidian Diamond Shovel
+Obsidian Emerald Sword
+Obsidian Emerald Pickaxe
+Obsidian Emerald Axe
+Obsidian Emerald Hoe
+Obsidian Emerald Shovel
+Obsidian Sword
+Obsidian Pickaxe
+Obsidian Axe
+Obsidian Hoe
+Obsidian Shovel
+Hardened Clay Fishing Rod
+Wooden Fishing Rod
+Cobblestone Fishing Rod
+Golden Fishing Rod
+Diamond Fishing Rod
+Emerald Fishing Rod
+Obsidian Fishing Rod
+Obsidian Diamond Fishing Rod
+Obsidian Emerald Fishing Rod
+Hardened Clay Bow
+Wooden Bow
+Cobblestone Bow
+Golden Bow
+Diamond Bow
+Emerald Bow
+Obsidian Bow
+Obsidian Diamond Bow
+Obsidian Emerald Bow
+Hardened Clay Helmet
+Hardened Clay Chestplate
+Hardened Clay Leggings
+Hardened Clay Boots
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Wooden Helmet
+Wooden Chestplate
+Wooden Leggings
+Wooden Boots
+Cobblestone Helmet
+Cobblestone Chestplate
+Cobblestone Leggings
+Cobblestone Boots
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Obsidian Diamond Helmet
+Obsidian Diamond Chestplate
+Obsidian Diamond Leggings
+Obsidian Diamond Boots
+Obsidian Emerald Helmet
+Obsidian Emerald Chestplate
+Obsidian Emerald Leggings
+Obsidian Emerald Boots
+Useful Plus Materials
+Useful Plus Combat
+Useful Plus Building Blocks
+Useful Plus Tools

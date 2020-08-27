@@ -1,0 +1,72 @@
+Immersive Energy
+Thorium Ingot
+Thorium Grit
+Thorium Nugget
+Thorium Plate
+Tungsten Ingot
+Tungsten Grit
+Tungsten Nugget
+Tungsten Plate
+Tungsten Rod
+Thorium Rod
+Uranium Rod
+Solar Panel Array
+Hefty Wrench
+Electric Wrench Addon
+Thermal Wrench Addon
+Magical Wrench Addon
+Wrench Capacitor Addon
+Shocking Arrow
+Environmental Suit Helmet [WIP]
+Environmental Suit Torso [WIP]
+Environmental Suit Leggings [WIP]
+Environmental Suit Boots [WIP]
+Block of Thorium
+Block of Tungsten
+Portable Solar Panel
+Portable Gas Burner
+Thorium Sheetmetal
+Thorium Sheetmetal Slab
+Tungsten Sheetmetal
+Tungsten Sheetmetal Slab
+Thorium Ore
+Tungsten Ore
+Immersive Energy
+Immersive Energy Ores
+Now you're thinking fractally!
+§lThorium Ore§r is found in the world between layers 8 and 24, and requires an Iron Pickaxe to harvest.<br><br>The ore will smelt into thorium ingots, but there are currently not many uses for the metal. A thorium block can serve as a heatsource for the <link;thermoElectric;§o§nThermoelectric Generator§r;0> and the metal will be used in future endeavours.
+§lTungsten Ore§r is found in the world between layers 8 and 24, and requires an Diamond Pickaxe to harvest.<br><br>The ore will smelt into tungsten ingots, but there are currently not many uses for the metal. A tungsten rod can be used for munition for the <link;railgun;§o§nRailgun§r;0> and the metal will be used in future endeavours.
+Solar Panels
+Metallic Photosynthesis!
+The §lSolar Panel Array§r is the base of all the §lSolar Panels§r, and one of the most complex parts yet. By it self it can't do anything, it is instead used in the crafting of the <link;solar_panel;§o§nPortable_Solar_Panel§r;3>.
+The §lSolar Panels§r are too complex to be made by hand and require a dedicated blueprint. This blueprint is used for all things solar.
+The aluminum keeps the <link;solar_panel;§o§nSolar_Panel_Array§r;0> relatively light, but lacks any useful way of storing and extracting energy.
+The §lPortable Solar Panel§r is a small, but complex machine. It uses the <link;solar_panel;§o§nSolar_Panel_Array§r;0> to generate power, and the stores it in the base. The base also functions as a connector allowing for LV and MV cables to be connected. Should it stop producing power, any stored will slowly be lost. There are various factors that change the output: time of day, height, weather, and biome. 
+Due to the delicate nature of the <link;solar_panel;§o§nSolar_Panel_Array§r;0>, the §lPortable Solar Panel§r can't be hand crafted. Thankfully, the base is sturdy enough that, in the event that the block under it breaks, the §lPortable Solar Panel§r won't be damaged.
+Biome Modifiers:
+Hefty Wrench
+Percussive Maintenance
+The §lHefty Wrench§r is a mid game alternative to the hammer and can be used to rotate blocks, form multiblocks, and configure sides, while also functioning as a weapon, though at the cost of not being able to make plates or grit. A fully charged attack from it is capable of disabling shields similar to an axe.
+The §lHefty Wrench§r requires a dedicated blueprint to craft, the same blueprint is used to craft the <link;hefty_wrench;§o§nUpgrades§r;2>.
+There are three main §lUpgrades§r, §lElectric§r, §lThermal§r, and §lMagical§r.<br>The §lElectric Upgrade§r shocks enemies dealing an extra 6 electric damage, and shocking the target for a short while. Anyone wearing some form of <link;teslaCoil;§o§nFaraday_Suit§r;2> will be immune to this extra damage.
+The §lThermal Upgrade§r deals an extra 2 fire damage, setting them on fire for 4 seconds.<br>The §lMagical Upgrade§r deals an extra 4 magic damage, piercing most armor. Each of them will add 1600 energy storage, and will require that amount of energy to work.
+There's also a §lCapacitor Addon§r, which adds an extra 28800 to energy storage. With Immersive Intelligence, this also allows the §lHefty Wrench§r to function as an §lAdvanced Hammer§r and form advanced multiblocks.
+The §lHeafty Wrench§r can be enchanted with §lUnbreaking§r, §lMending§r, §lEfficancy§r, and §lFire Aspect§r. §lUnbreaking§r works as normal. §lMending§r will slowly repair the §lHefty Wrench§r for free, even charging it when it is fully repaired, up to 1600. §lEfficancy§r will reduce the energy cost of the upgrades by 300 per level. §lFire Aspect§r, with the §lThermal Upgrade§r, will add an additional 1 fire damage and 4 seconds burn time per level.
+Fuel
+Integrity
+Environmental Suit
+Solar Panel
+Advanced Tools
+Electric! Shocks enemies!
+Thermal! Sets enemies on fire!
+Magical! Deals unblockable damage!
+Can be quite shocking!
+Bringing the heat!
+Not quite a magic missile, but it works!
+Fits in the non existent palm of your hand!
+Damage
+Knockback
+Magical Damage
+Electric Damage
+Thermal Damage
+%1$s was cooked alive!

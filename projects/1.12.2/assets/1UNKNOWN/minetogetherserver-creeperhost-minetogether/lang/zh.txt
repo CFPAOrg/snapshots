@@ -1,0 +1,196 @@
+Cannot use "current" in the console! Please specify a dimension ID.
+Not enough arguments! Type "/help chpregen" in order to view usage.
+Pregen task added!
+Pregen task added!
+Pregen task already exists for dimension. Only one task may exist per dimension!
+Pregen task doesn't exist for dimension.
+Dimension doesn't exist
+/chpregen current|dimID xDiameter zDiameter [chunksPerTick, default 5] [preventJoin, default true]
+- OR -
+/chpregen current|dimID xDiameter zDiameter xStartChunk zStartChunk [chunksPerTick, default 5] [preventJoin, default true]
+- OR -
+/chpregen remove current|dimID
+There are %d (out of %d seen) invited players:
+Reloaded the invite list
+Added %s to the invite list
+Could not add %s to the invite list
+/invite add <player>
+Removed %s from the invite list
+Could not remove %s from the invite list
+/invite remove <player>
+/invite <list|add|remove|reload>
+Not enough arguments! Type "/help chkillall" in order to view usage.
+/chkillall EntityType [items, mobs, animals, all]
+Order CreeperHost Server
+General Server Info
+Server Location
+Personal Details
+Server Quote
+Order details
+Want a server?
+Click here!
+Click here to get one from CreeperHost!
+Support the modpack creator!
+Based on your requirements, we recommend a
+Tax
+SubTotal
+Total
+Discount
+Included Features
+Free Dedicated IPv4
+Unmetered slots
+Free website
+Free VoIP
+Install or switch games for free
+Monthly subscription - cancel at any
+time with 7 days notice
+VPS Features
+Figures based on you being in
+Please wait - refreshing quote
+Error occurred while fetching quote.
+Cannot find specified project on CreeperHost. If correct, wait 15!
+Promo code does not exist on CreeperHost.
+Step %s of %s
+Server Name
+Agree to Mojang EULA and pre-generate world?
+E-Mail
+Password
+First Name
+Last Name
+Address
+City
+Zip Code
+State
+Country
+Phone Number
+Logging in. Please wait
+An error occurred. Error:
+Logged in successfully. Proceed to order!
+Account exists with this email. Please login or try another email address.
+Please wait. Account being created
+Error occurred while creating account. Error:
+Please go back and correct the errors
+Please wait. Order being placed
+Error occurred while placing order. Error:
+Please contact support if the problem persists
+Order successful! Please click the button below to pay!
+Your server will then be set up with the latest modpack version!
+Cancel order
+To continue to place an order, please click the "Place order" button below.
+By continuing, you agree to CreeperHost's (Terms Of Service|https://creeper.host/tos) and (Policies|https://creeper.host/policies).
+An order and invoice will be generated, but you are under no obligation to pay.
+They will be automatically cancelled after 72 hours if no payment is received.
+Click to open in your web browser
+Previous Step
+Next Step
+Cancel
+Login
+Logging in
+Try again
+Done
+Place order
+View invoice
+Back to quote
+Expected Average Player Count
+All data is transmitted via SSL, no payment details
+will be taken in the client. You will be redirected outside
+of the client to CreeperHost's secure portal to make payment
+Current dimension TPS:
+Entities for current dimension
+CreeperHost Config
+Curse Project ID
+The ID of your curse project for your pack
+Promotional Code
+Your CreeperHost promotional code
+CreeperHost Enabled
+Whether the CreeperHost server host integration is enabled. Disable this if you want to use another host's plugin
+MP Menu Enabled
+Whether the entry in the Multiplayer Menu is enabled
+Main Menu Enabled
+Whether the button in the Main Menu is enabled. Note: may not take effect if you have a menu replacement
+Server host button brand
+Whether the server host button should be branded or generic
+Server host menu brand
+Whether the Multiplayer Menu entry should be branded or generic
+SIV integration
+Whether SIV integration is enabled. If so, hold down Shift + TAB to see in game (if SIP is installed)
+Pre-generate diameter
+If over 0, enables option for pre-gen of world on the server of specified chunk diameter. Requires mod on server.
+Public server list
+Whether the public server list is enabled
+Will automatically refresh!
+Public server list
+Servers are not endorsed!
+List: Public
+List: Invite
+Unique code: %s
+Invite friend
+Add friend
+Copy
+Refresh
+Friends list
+Friends unique code
+Friends display name
+Sort: %s
+Random
+Players
+Name
+Uptime
+Location
+Ping
+Friend request sent!
+Copied to clipboard
+Invite sent!
+Couldn't invite - server not public/mod not on server
+Invite could not be sent - not accepted?
+Server invite. Press %s or check friends list!
+Server invite
+You were invited to the below server by %s
+Do you wish to join the server?
+Unfortunately, the server isn't running the correct pack, so you cannot connect.
+Add to your server list? Applies for both Cancel and Connect.
+Cancel
+Connect
+ Public
+MineTogether
+Open Friends List
+Online Minigame services are not currently available to you.
+Are you sure you wish to remove the friend?
+Accept friend
+Add friend
+Please enter the name you want your friend to know you as
+Please enter the name you want your friend to know you as
+Public List
+Invite List
+Public
+Community
+Closed
+Server List
+Application List
+Type:
+Muted Player's List
+MineTogether
+Commands
+Group
+Server
+The requested user has been muted. Messages from this user will no longer be displayed.
+Befriend
+Mute
+Welcome new player!
+Our name is CreeperHost, and we created MineTogether to fill in some of the community features we felt modded Minecraft was missing.
+In doing so, we require a way to identify you to make sure we send you all the right information, like who is in your friends list etc.
+We do this by taking the unique identifier for your Minecraft account (UUID), then running it through the same kind of cryptography (hashing) that most websites use to keep your password secure and cannot be reversed.
+You can click 'More Info' to learn a little more about this and access links to our privacy policy and terms of service.
+Beyond this magical accept button, is a world of multiplayer servers, global (all servers and even single player) chat and much more, we hope you'll join us!
+To provide your consent to us storing data for you, please click 'Accept', otherwise please click 'Decline' and this part of the mod will be disabled.
+The data we collect is a hash of your Minecraft UUID to our servers which may be identifying information, despite our efforts to anonymize it.
+We only use this in order to find servers which you are invited to, to provide an in game friends list, to provide an identifier for chat, and to enable tracking of free Mini-Game credits used.
+To view the CreeperHost LTD privacy policy, please click (here|https://www.creeperhost.net/privacy). To view our TOS, click (here|https://www.creeperhost.net/tos).
+If you consent to this, please press 'Accept'. Otherwise, press 'Decline'. If you decline this, you will be unable to access the feature.
+Public Servers don't have any limitations on entry. Anyone can join and immediately start playing, and their player bases can be large, but their open nature can increases the chance of being griefed.
+Community Servers are still relatively open, but will require being added to an approved list of members to join, offering some increased security and peace of mind with vetted users.
+Closed Servers require a direct invite from the server owner to join. Usually for groups of friends, these servers may be smaller in population, but with the highest level of trust between users.
+Server Type
+Cancel
+Are you sure you wish to invite this person to a group chat?
+Once this has been done, it cannot be undone and you will need to create a new group to remove them.\n\nIf you are already in someone else's group chat, you will leave it.

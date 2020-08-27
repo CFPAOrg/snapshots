@@ -1,0 +1,22 @@
+akkamaddi's Hadite Coal
+Hadite Coal Ore
+Hadite Coal Block
+Hadite Steel Block
+Gestankenzinn Block
+Hadite Coal
+Hadite Steel Ingot
+Large Hadite Steel Chunk
+Hadite Steel Axe
+Hadite Steel Hoe
+Hadite Steel Pickaxe
+Hadite Steel Shears
+Hadite Steel Shovel
+Hadite Steel Sword
+Gestankenzinn Ingot
+Large Gestankenzinn Chunk
+Gestankenzinn Sword
+Gestankenzinn Shovel
+Gestankenzinn Axe
+Gestankenzinn Pickaxe
+Gestankenzinn Hoe
+Gestankenzinn Shears

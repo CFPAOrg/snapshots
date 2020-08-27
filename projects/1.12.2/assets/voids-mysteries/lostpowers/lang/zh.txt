@@ -1,0 +1,40 @@
+Obsidian Ingot
+Single Compressed Obsidian Ingot
+Double Compressed Obsidian Ingot
+Single Compressed Obsidian
+Double Compressed Obsidian
+Obsidian Pickaxe
+Single Compressed Obsidian Pickaxe
+Double Compressed Obsidian Pickaxe
+Obsidian Axe
+Single Compressed Obsidian Axe
+Double Compressed Obsidian Axe
+Obsidian Shovel
+Single Compressed Obsidian Shovel
+Double Compressed Obsidian Shovel
+Obsidian Hoe
+Single Compressed Obsidian Hoe
+Double Compressed Obsidian Hoe
+Obsidian Sword
+Single Compressed Obsidian Sword
+Double Compressed Obsidian Sword
+Soul Capsule
+Toasty Flame
+Clean Energy
+Purified Water
+Soul
+Soul Fragment
+Void Chunk
+Void Fragment
+Ender Staff
+Ender Helm
+Ender Chestplate
+Ender Leggings
+Ender Boots
+Lost Powers
+Flight
+Lost Powers Config
+General
+Ender Staff
+Ender Armor
+Soul

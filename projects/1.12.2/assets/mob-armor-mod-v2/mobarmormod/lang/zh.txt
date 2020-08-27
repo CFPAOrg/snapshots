@@ -1,0 +1,84 @@
+Zombie Mask
+Zombie Chestplate
+Zombie Pants
+Zombie Boots
+Chameleon Mask
+Chameleon Chestplate
+Chameleon Pants
+Chameleon Boots
+Zombie Pigman Mask
+Zombie Pigman Chestplate
+Zombie Pigman Pants
+Zombie Pigman Boots
+Wither Skeleton Mask
+Wither Skeleton Chestplate
+Wither Skeleton Pants
+Wither Skeleton Boots
+Creeper Mask
+Creeper Chestplate
+Creeper Pants
+Creeper Boots
+Powered Creeper Mask
+Powered Creeper Chestplate
+Powered Creeper Pants
+Powered Creeper Boots
+Wither Mask
+Wither Chestplate
+Wither Pants
+Wither Boots
+Pink Wither Mask
+Pink Wither Chestplate
+Pink Wither Pants
+Pink Wither Boots
+Ender Dragon Mask
+Ender Dragon Chestplate
+Ender Dragon Pants
+Ender Dragon Boots
+Snow Golem's Mask
+Snow Golem's Chestplate
+Snow Golem's Pants
+Snow Golem's Boots
+Spider Mask
+Spider Chestplate
+Spider Pants
+Spider Boots
+Cave Spider Mask
+Cave Spider Chestplate
+Cave Spider Pants
+Cave Spider Boots
+Enderman Mask
+Enderman Chestplate
+Enderman Pants
+Enderman Boots
+Blaze Mask
+Blaze Chestplate
+Blaze Pants
+Blaze Boots
+Ghast Mask
+Ghast Chestplate
+Ghast Pants
+Ghast Boots
+Iron Golem Mask
+Iron Golem Chestplate
+Iron Golem Pants
+Iron Golem Boots
+Phantom Mask
+Phantom Chestplate
+Phantom Pants
+Phantom Boots
+Blaze Essence
+Zombie Essence
+Zombie Pigman Essence
+Enderman Essence
+Wither Skeleton Essence
+Ghast Essence
+Spider Essence
+Cave Spider Essence
+Creeper Essence
+Wither Essence
+Iron Golem Essence
+Snow Golem Essence
+Pink Wither Skull
+Mob Armor Mod Vanilla Armor Sets
+Mob Armor Mod Special Armor Sets
+Mob Armor Mod Mob Essences

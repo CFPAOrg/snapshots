@@ -1,0 +1,8 @@
+Main
+Chance For Fire
+Blocks
+Allow List
+Min Clicks for Fire
+Delay Between Clicks
+Delay to Remember Clicks
+Error Handling Click event!! Notify an admin to see the error in console log.

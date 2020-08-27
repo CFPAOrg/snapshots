@@ -1,0 +1,124 @@
+Worlds Retold
+Cryonite Ore
+Block of Cryonite
+Arctic Willow
+Boreal Orchid
+Stone Critter Egg
+Cobblestone Critter Egg
+Moss Stone Critter Egg
+Packed Ice Critter Egg
+Cryonite Sword
+Avalanche Hammer
+Relic Sword
+Scroll Of Blizzards
+Black Arrow
+Venom Sword
+Khopesh
+Cryonite Shovel
+Cryonite Pickaxe
+Cryonite Axe
+Cryonite Hoe
+Cryonite Helmet
+Cryonite Chestplate
+Cryonite Leggings
+Cryonite Boots
+Hailstorm Helmet
+Hailstorm Chestplate
+Hailstorm Leggings
+Hailstorm Boots
+Wrapped Cap
+Wrapped Chest
+Wrapped Legs
+Wrapped Shoes
+Cryonite
+Elemental Heart
+Penguin Egg
+Penguin Feather
+Nimbus
+Guardsman Shard
+Raw Manchot
+Cooked Manchot
+Raw Venison
+Cooked Venison
+Snake Fang
+Scorpion Tail Bulb
+Mummy Bandages
+Clean Bandages
+Statue
+Radiance
+Penguin
+Caribou
+Reindeer
+Nix
+Kitsune
+Roadrunner
+Automaton
+Sentinel
+Warder
+Scout
+Camel
+Scorpion
+Cobra
+Antlion
+Redead
+Guardsman
+Blizzard
+Snow Roller
+Haunt
+Wight
+Mummy
+Anubite
+Jinn
+Ghoul
+Mimic
+Fester
+Cactor
+Living Flame
+Hellhound
+Frost Boar
+Prophet
+%1$s suffered from frostbite.
+%1$s was ran over by a Snow Roller.
+%1$s's skull was smashed by a piece of hail.
+%1$s's brain shriveled up.
+%1$s's soul burned to death.
+%1$s was jumped on by %2$s.
+Freezing
+Potion of Freezing
+Splash Potion of Freezing
+Lingering Potion of Freezing
+Arrow of Freezing
+Venom
+Potion of Venom
+Splash Potion of Venom
+Lingering Potion of Venom
+Arrow of Venom
+Hellfire
+Potion of Burning
+Splash Potion of Burning
+Lingering Potion of Burning
+Arrow of Burning
+Icebound Blade
+Glacier
+Lightning Rod
+Assassinate
+Toxin Protection
+Venom Tipped Arrows
+Something swung
+Snake warn
+Snake hurt
+Snake death
+Mummy grumbles
+Mummy hurt
+Mummy death
+Mummy attack
+Wight groan
+Wight hurt
+Wight death
+Anubite growls
+Anubite hurt
+Anubite death
+Hellhound growls
+Hellhound hurt
+Hellhound death
+Hellhound lunges

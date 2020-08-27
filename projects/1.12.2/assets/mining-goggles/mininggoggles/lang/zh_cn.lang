@@ -1,0 +1,16 @@
+item.gogglesMining.name=Mining Goggles
+item.module.name=Module
+tooltip.range.name=Range
+tooltip.modules.name=--Modules--
+tooltip.holdshift.name=Hold Shift
+tooltip.baubles.name=§cModules are disabled while used as a bauble
+module.nightVision.name=Night Vision
+module.autoFeed.name=Auto-Feed
+module.haste.name=Mining Boost
+module.movementSpeed.name=Movement Speed
+module.resistance.name=Damage Resistance
+module.waterBreathing.name=Water-Breathing
+key.mininggoggles.category=Mining Goggles
+key.filter.desc=Open Filter GUI
+key.toggle.desc=Open Modules GUI
+chat.gogglesmissing.name=§cNo Goggles Found, §b(Must be on head or held)

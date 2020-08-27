@@ -1,0 +1,22 @@
+Show your colors!
+Enter RGB value in hex.
+Custom Enchantments
+For enchantments added by mods.
+Enable colored glint
+Each enchantment will have distinct color
+Use rune texture
+Flaunt your magic!
+Armor Enchantments
+Configure colors for armor enchantments
+Sword Enchantments
+Configure colors for armor enchantments
+Bow Enchantments
+Configure colors for bow enchantments
+Tool Enchantments
+Configure colors for tool enchantments
+Fishing Enchantments
+Configure colors for fishing enchantments
+Curses
+Configure colors for curses
+Custom Enchantments
+Configure colors for other mods' enchantments

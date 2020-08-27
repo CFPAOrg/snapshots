@@ -1,0 +1,7 @@
+§2[+]§6[%s§6]§f %s: %s
+§4[-]§6[%s§6]§f %s: %s
+§3[FastLogBlock]§f Done!
+§3[FastLogBlock]§f Not found changes with block
+§3[FastLogBlock]§4 Permission error. You can't use this mod (with current settings this mod can use only Server Admin)
+dd/MM/yyyy HH:mm:ss
+FastBlockLog Info Item

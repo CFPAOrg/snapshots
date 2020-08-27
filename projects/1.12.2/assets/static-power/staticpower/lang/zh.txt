@@ -1,0 +1,502 @@
+Static Power
+Basic
+Creative
+Iron
+Gold
+Tin
+Copper
+Silver
+Lead
+Nickel
+Aluminium
+Diamond
+Emerald
+Obsidian
+Sapphire
+Ruby
+Static
+Energized
+Lumum
+WoodenWheel
+Boot Mold
+Reinforced Basic Boot
+Basic Roller Skate
+Reinforced Roller Blade
+Electric Roller Blade
+§aStatic Seeds
+§aStatic Crop
+§bEnergized Seeds
+§bEnergized Crop
+§eLumum Seeds
+Depleted Crop
+§bEnergized Fluid Bucket
+§eLumum Fluid Bucket
+§aStatic Fluid Bucket
+Basic Portable Battery
+Static Portable Battery
+Energized Portable Battery
+Lumum Portable Battery
+Basic Item Filter
+Upgraded Item Filter
+Advanced Item Filter
+Iron Plate
+Copper Plate
+Tin Plate
+Silver Plate
+Gold Plate
+Lead Plate
+Nickel Plate
+Platinum Plate
+Aluminium Plate
+Redstone Alloy Plate
+Inert Infusion Plate
+§aStatic Plate
+§bEnergized Plate
+§eLumum Plate
+Iron Ingot
+Copper Ingot
+Tin Ingot
+Silver Ingot
+Gold Ingot
+Lead Ingot
+Nickel Ingot
+Platinum Ingot
+Aluminium Ingot
+Redstone Alloy Ingot
+Inert Infusion Ingot
+§aStatic Ingot
+§bEnergized Ingot
+§eLumum Ingot
+Iron Dust
+Copper Dust
+Tin Dust
+Silver Dust
+Gold Dust
+Lead Dust
+Nickel Dust
+Platinum Dust
+Aluminium Dust
+Redstone Alloy Dust
+Inert Infusion Dust
+§aStatic Dust
+§bEnergized Dust
+§eLumum Dust
+Coal Dust
+Ruby Dust
+Sapphire Dust
+Obsidian Dust
+Cobalt Dust
+Ardite Dust
+Copper Nugget
+Tin Nugget
+Silver Nugget
+Lead Nugget
+Nickel Nugget
+Platinum Nugget
+Aluminium Nugget
+Redstone Alloy Nugget
+Inert Infusion Nugget
+§aStatic Nugget
+§bEnergized Nugget
+§eLumum Nugget
+Iron Gear
+Copper Gear
+Tin Gear
+Silver Gear
+Gold Gear
+Lead Gear
+Nickel Gear
+Platinum Gear
+Aluminium Gear
+Redstone Alloy Gear
+Inert Infusion Gear
+§aStatic Gear
+§bEnergized Gear
+§eLumum Gear
+Ruby
+Sapphire
+Sulfur
+Saltpeter
+Charcoal Dust
+§aStatic Infusion Blend
+§bEnergized Infusion Blend
+§eLumum Infusion Blend
+§aStatic Energy Crystal
+§bEnergized Energy Crystal
+§eLumum Energy Crystal
+Silicon
+Rubber
+Wood Pulp
+I/O Port
+Basic Processor
+§aStatic Processor
+§bEnergized Processor
+§eLumum Processor
+Copper Wire
+Silver Wire
+Gold Wire
+Copper Coil
+Silver Coil
+Gold Coil
+Base Gate Plate
+Gate Power Sync
+Inverted Gate Power Sync
+Gate Servo
+Diode
+Transistor
+Memory Chip
+Internal Clock
+Logic Gate Base Plate
+Basic Upgrade Plate
+Static Upgrade Plate
+Energized Upgrade Plate
+Lumum Upgrade Plate
+Distillery Grain
+Wheat Flour
+Potato Flour
+Potato Bread
+Apple Pie
+§aStatic Pie
+§bEnergized Pie
+§eLumum Pie
+Gear Mold
+Plate Mold
+Wire Mold
+Blank Mold
+Basic Speed Upgrade
+Basic Power Upgrade
+Basic Tank Upgrade
+Basic Range Upgrade
+Static Speed Upgrade
+Static Power Upgrade
+Static Tank Upgrade
+Static Range Upgrade
+Static Quarrying Upgrade
+Energized Speed Upgrade
+Energized Power Upgrade
+Energized Tank Upgrade
+Energized Quarrying Upgrade
+Energized Range Upgrade
+Lumum Speed Upgrade
+Lumum Power Upgrade
+Lumum Tank Upgrade
+Lumum Quarrying Upgrade
+Lumum Range Upgrade
+Creative Speed Upgrade
+Teleport Upgrade
+Experience Vacuum Upgrade
+Basic Output Multiplier Upgrade
+Static Output Multiplier Upgrade
+Energized Output Multiplier Upgrade
+Lumum Output Multiplier Upgrade
+Digistore Capacity Upgrade
+§5Digistore Void Upgrade
+Static Plant
+Energized Plant
+Lumum Plant
+Static Conduit
+Fluid Conduit
+Item Conduit
+Crop Generator
+Crop Generator
+Fluid Infuser
+Fluid Generator
+Squeezer
+Powered Grinder
+Powered Furnace
+Fusion Furnace
+Basic Tank
+Advanced Tank
+Basic Battery
+Static Battery
+Energized Battery
+Lumum Battery
+Block Breaker
+Solid Generator
+Water Generator
+Industrial Furnace
+Industrial Grinder
+Basic Solar Panel
+Static Solar Panel
+Energized Solar Panel
+Lumum Solar Panel
+Creative Solar Panel
+Soldering Table
+Quarry
+Basic Farmer
+Powered Lumberjack
+Charging Station
+Fermenter
+Heating Element 
+Condenser
+Distillery
+Mechanical Squeezer
+Former
+Esoteric Enchanter
+Supersonic Centrifuge 
+Digistore
+Digistore Manager
+Digistore Network Extender
+Digistore I/O Port
+Lumber Mill
+Static Lamp
+Energized Lamp
+Lumum Lamp
+Static Grass
+Energized Grass
+Static Chest
+Energized Chest
+Lumum Chest
+Vacuum Chest
+Advanced Earth
+Machine Block
+Obsidian Glass
+§aStatic Metal Block
+§bEnergized Metal Block
+§eLumum Metal Block
+Copper Block
+Tin Block
+Silver Block
+Lead Block
+Platinum Block
+Nickel Block
+Aluminium Block
+Sapphire Block
+Ruby Block
+Copper Ore
+Tin Ore
+Silver Ore
+Platinum Ore
+Lead Ore
+Nickel Ore
+Aluminium Ore
+Sapphire Ore
+Ruby Ore
+Static Cobblestone
+Energized Cobblestone
+Lumum Cobblestone
+Static Brick
+Energized Brick
+Lumum Brick
+Static Wood
+Energized Wood
+Lumum Wood
+Static Planks
+Energized Planks
+Lumum Planks
+§aStatic Fluid
+§aStatic Fluid
+§bEnergized Fluid
+§bEnergized Fluid
+§eLumum Fluid
+§eLumum Fluid
+§5Refined Fluid
+§5Refined Fluid
+Ethanol
+Ethanol
+Steam
+Steam
+Mash
+Mash
+Evaporated Mash
+Evaporated Mash
+Liquid Experience
+Liquid Experience
+Tree Sap
+Tree Sap
+Tree Oil
+Tree Oil
+Redstone Transducer
+Redstone Transducer
+Not Gate
+Power Cell
+Power Cell
+Timer
+Timer
+Adder
+And Gate
+Or Gate
+Subtractor
+LED
+Crop Generator
+Squeezer
+Fluid Infuser
+Fluid Generator
+Powered Grinder
+Powered Furnace
+Fusion Furnace
+Machine Controller
+Basic Farmer
+Powered Lumberjack
+Static Battery
+Energized Battery
+Lumum Battery
+Static Chest
+Energized Chest
+Lumum Chest
+Block Breaker
+Solid Generator
+Water Generator
+Industrial Furnace
+Industrial Grinder
+Soldering Table
+Vacuum Chest
+Fermenter
+Former
+Basic Item Filter
+Upgraded Item Filter
+Advanced Item Filter
+Digistore
+Digistore Manager
+Esoteric Enchanter
+Supersonic Centrifuge
+Fluid Refinery Controller
+Lumber Mill
+Quarry
+Mechanical Squeezer
+Static Wrench
+Soldering Iron
+Electric Soldering Iron
+Static Book
+Coordinate Marker
+Wire Cutters
+Metal Hammer
+Copper Axe
+Copper Pickaxe
+Copper Hoe
+Copper Shovel
+Copper Sword
+Tin Axe
+Tin Pickaxe
+Tin Hoe
+Tin Shovel
+Tin Sword
+Silver Axe
+Silver Pickaxe
+Silver Hoe
+Silver Shovel
+Silver Sword
+Lead Axe
+Lead Pickaxe
+Lead Hoe
+Lead Shovel
+Lead Sword
+Platinum Axe
+Platinum Pickaxe
+Platinum Hoe
+Platinum Shovel
+Platinum Sword
+Static Axe
+Static Pickaxe
+Static Hoe
+Static Shovel
+Static Sword
+Energized Axe
+Energized Pickaxe
+Energized Hoe
+Energized Shovel
+Energized Sword
+Lumum Axe
+Lumum Pickaxe
+Lumum Hoe
+Lumum Shovel
+Lumum Sword
+Sapphire Axe
+Sapphire Pickaxe
+Sapphire Hoe
+Sapphire Shovel
+Sapphire Sword
+Ruby Axe
+Ruby Pickaxe
+Ruby Hoe
+Ruby Shovel
+Ruby Sword
+Static Helmet
+Static Chestplate
+Static Leggings
+Static Boots
+Energized Helmet
+Energized Chestplate
+Energized Leggings
+Energized Boots
+Lumum Helmet
+Lumum Chestplate
+Lumum Leggings
+Lumum Boots
+Static Belt
+Energized Belt
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Tin Helmet
+Tin Chestplate
+Tin Leggings
+Tin Boots
+Lead Helmet
+Lead Chestplate
+Lead Leggings
+Lead Boots
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Platinum Helmet
+Platinum Chestplate
+Platinum Leggings
+Platinum Boots
+Aluminium Helmet
+Aluminium Chestplate
+Aluminium Leggings
+Aluminium Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Undead Helmet
+Undead Chestplate
+Undead Leggings
+Undead Boots
+Skeleton Helmet
+Skeleton Chestplate
+Skeleton Leggings
+Skeleton Boots
+Canister
+Canister
+Canister
+Canister
+Static Metal
+Energized Metal
+Lumum Metal
+Regular
+Input
+Input 2
+Output
+Output 2
+Output 3
+Disabled
+RF/t
+Power Control
+Minimum
+Maximum
+Confirm
+RPM
+Up
+Down
+East
+West
+North
+South
+Top
+Bottom
+Right
+Left
+Front
+Back
+§aStatic Metal
+§bEnergized Metal
+§eLumum Metal

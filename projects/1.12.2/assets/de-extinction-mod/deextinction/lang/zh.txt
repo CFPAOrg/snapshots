@@ -1,0 +1,208 @@
+Archaeorhynchus
+Archaeorhynchus Egg
+Archaeorhynchus Blood
+Archaeorhynchus Data Disk
+Archaeorhynchus DNA
+Archaeorhynchus Fossil
+Dirty Archaeorhynchus Fossil
+Troodon
+Troodon Egg
+Troodon Blood
+Troodon Data Disk
+Troodon DNA
+Troodon Fossil
+Dirty Troodon Fossil
+Macrauchenia
+Macrauchenia Syringe
+Macrauchenia Blood
+Macrauchenia Data Disk
+Macrauchenia DNA
+Macrauchenia Fossil
+Dirty Macrauchenia Fossil
+Smilodon
+Smilodon Syringe
+Smilodon Blood
+Smilodon Data Disk
+Smilodon DNA
+Smilodon Fossil
+Dirty Smilodon Fossil
+Kelenken
+Kelenken Egg
+Kelenken Blood
+Kelenken Data Disk
+Kelenken DNA
+Kelenken Fossil
+Dirty Kelenken Fossil
+Argentavis
+Argentavis Egg
+Argentavis Blood
+Argentavis Data Disk
+Argentavis DNA
+Argentavis Fossil
+Dirty Argentavis Fossil
+Sebecus
+Sebecus Egg
+Sebecus Blood
+Sebecus Data Disk
+Sebecus DNA
+Sebecus Fossil
+Dirty Sebecus Fossil
+Arctotherium
+Arctotherium Syringe
+Arctotherium Blood
+Arctotherium Data Disk
+Arctotherium DNA
+Arctotherium Fossil
+Dirty Arctotherium Fossil
+Toxodon
+Toxodon Syringe
+Toxodon Blood
+Toxodon Data Disk
+Toxodon DNA
+Toxodon Fossil
+Dirty Toxodon Fossil
+Theriodictis
+Theriodictis Syringe
+Theriodictis Blood
+Theriodictis Data Disk
+Theriodictis DNA
+Theriodictis Fossil
+Dirty Theriodictis Fossil
+Livyatan
+Livyatan Syringe
+Livyatan Blood
+Livyatan Data Disk
+Livyatan DNA
+Livyatan Fossil
+Dirty Livyatan Fossil
+Basilosaurus
+Basilosaurus Syringe
+Basilosaurus Blood
+Basilosaurus Data Disk
+Basilosaurus DNA
+Basilosaurus Fossil
+Dirty Basilosaurus Fossil
+Glyptodon
+Glyptodon Syringe
+Glyptodon Blood
+Glyptodon Data Disk
+Glyptodon DNA
+Glyptodon Fossil
+Dirty Glyptodon Fossil
+Canis Nehringi
+Canis Nehringi Syringe
+Canis Nehringi Blood
+Canis Nehringi Data Disk
+Canis Nehringi DNA  
+Canis Nehringi Fossil
+Dirty Canis Nehringi Fossil
+Research Assistant
+Research Engineer
+Banksia Flower
+Yellow Banksia Flower
+Orange Banksia Flower
+Red Banksia Flower
+Banksia Data Disk
+Banksia DNA
+Banksia Fossil
+Dirty Banksia Fossil
+Sequoiadendron
+Sequoiadendron Sapling
+Sequoiadendron Wood
+Sequoiadendron Leaves
+Sequoiadendron Wood Planks
+Sequoiadendron Door
+Sequoiadendron Fence Gate
+Sequoiadendron Fence
+Sequoiadendron Slab
+Sequoiadendron Slabs
+Sequoiadendron Stairs
+Sequoiadendron Trapdoor
+Sequoiadendron Data Disk
+Sequoiadendron DNA
+Sequoiadendron Fossil
+Dirty Sequoiadendron Fossil
+Stone Fossil Block (Animal)
+Stone Fossil Block (Plant)
+Stone Fossil Block (Fungus)
+Granite Fossil Block (Animal)
+Granite Fossil Block (Plant)
+Granite Fossil Block (Fungus)
+Diorite Fossil Block (Animal)
+Diorite Fossil Block (Plant)
+Diorite Fossil Block (Fungus)
+Andesite Fossil Block (Animal)
+Andesite Fossil Block (Plant)
+Andesite Fossil Block (Fungus)
+Sandstone Fossil Block (Animal)
+Sandstone Fossil Block (Plant)
+Sandstone Fossil Block (Fungus)
+Cleaning Table
+DNA Extractor
+DNA Decoder
+No DNA sequence is saved!
+DNA sequence is saved!
+DNA sequences are saved!
+DNA Editor
+De-Extinction Machine
+Microscope
+Egg Block
+(Creative) Random DNA when placed
+Cleaning Table
+DNA Extractor
+DNA Decoder
+Requires a DNA Bottle!
+Requires a data disk!
+DNA Editor
+Add Floppy Disk
+Start
+Cancel
+De-Extinction Machine
+Microscope
+View Sample
+Remove Sample
+Sample
+DNA
+Health
+Healthy
+Slightly injured
+Injured
+Badly injured
+Age
+Gender
+Analyzing
+Rock Pick
+Cleaning Brush
+DNA Bottle
+Floppy Disk
+(Creative) Right Click to define DNA
+DNA
+Viability
+Floppy Disk Empty
+Empty Syringe
+Embryo Inseminated
+Syringe with Blood
+Health
+Attack
+Movement
+Knockback
+Gender
+Male
+Female
+Sitting
+Not Sitting
+day
+days
+month
+months
+year
+years
+newborn
+De-Extinction Blocks
+De-Extinction Items
+De-Extinction Research
+Adenine
+Cytosine
+Guanine
+Thymine
+Uracil

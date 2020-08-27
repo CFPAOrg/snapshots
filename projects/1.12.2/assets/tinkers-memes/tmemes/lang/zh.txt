@@ -1,0 +1,10 @@
+Electromechanical Actuator
+Flux Field Phaser
+Electromechanical
+§oActuation-packed!\n§rGrants the tool an energy buffer that is consumed in place of durability.
+Disassembling
+§oRapid deconstruction!\n§rCauses the tool to disassemble entire veins of blocks.
+Directed Flux Field
+§oEnergy shields online!\n§rCauses the tool to redirect tool damage to its energy buffer.
+Electromechanical
+§oActuation-packed!\n§rGrants the armour an energy buffer that is consumed in place of durability.

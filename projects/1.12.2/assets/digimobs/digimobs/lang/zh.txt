@@ -1,0 +1,1081 @@
+Welcome to Digimobs.
+Are you ready to begin your story?
+Or do you need more time?
+I'm ready!
+Your partner is waiting for you.
+What was its name again?
+Random?
+Quest Complete!
+has decided to join your team!
+The Digiegg hatched!
+digivolve to...
+armor digivolve to...
+DNA digivolve to...
+Mode Change!
+degenerated to
+Your digimon has not met the requirements to digivolve!
+Remember: Must have at least 100 energy!
+Remember: Digimon will not digivolve if starving!
+This is a jogress evolution! It requires 2 digimon!
+Close
+Digimon: 
+Digimobs
+Select Digimon
+Rotate Command Wheel
+Execute Command
+Switch Command Wheels
+To Remove
+Display Digimobs Wiki
+Blocks & Items
+Entities
+Digimobs Wiki
+Digimobs Equipment
+Digimobs Machines
+Left click to navigate to the next page
+Right click to navigate to the previous page
+Tier 1 Weapons
+Tier 1 Armor
+Matchmaker 
+Intro
+Getting Started
+Controls
+Stats
+Battling 101
+Crest Perk System
+Changelog
+Dev: Intro
+Dev: Item & Block Page
+Dev: Page Commands
+Dev: For Modders
+Shapeless Crafting
+Shaped Crafting
+Digimobs Items
+ Digimobs Food
+ Evolution Items
+ Digimobs Blocks
+Digimobs Tools
+Digimobs Weapons
+Digimobs Armor
+Digimobs Accessories
+Creative Only
+Digivice
+ Digivice 01
+Black Digivice
+Red Digivice
+Green Digivice
+Brown Digivice
+Blue Digivice
+Purple Digivice
+Cyan Digivice
+Silver Digivice
+Gray Digivice
+Pink Digivice
+Lime Digivice
+Yellow Digivice
+Light Blue Digivice
+Magenta Digivice
+Orange Digivice
+White Digivice
+Black D3 Digivice
+Red D3 Digivice
+Green D3 Digivice
+Brown D3 Digivice
+Blue D3 Digivice
+Purple D3 Digivice
+Cyan D3 Digivice
+Silver D3 Digivice
+Gray D3 Digivice
+Pink D3 Digivice
+Lime D3 Digivice
+Yellow D3 Digivice
+Light Blue D3 Digivice
+Magenta D3 Digivice
+Orange D3 Digivice
+White D3 Digivice
+Black D-Power
+Red D-Power
+Green D-Power
+Brown D-Power
+Blue D-Power
+Purple D-Power
+Cyan D-Power
+Silver D-Power
+Gray D-Power
+Pink D-Power
+Lime D-Power
+Yellow D-Power
+Light Blue D-Power
+Magenta D-Power
+Orange D-Power
+White Datalink
+Black Datalink
+Red Datalink
+Green Datalink
+Brown Datalink
+Blue Datalink
+Purple Datalink
+Cyan Datalink
+Silver Datalink
+Gray Datalink
+Pink Datalink
+Lime Datalink
+Yellow Datalink
+Light Blue Datalink
+Magenta Datalink
+Orange Datalink
+Black Xros Loader
+Red Xros Loader
+Green Xros Loader
+Brown Xros Loader
+Blue Xros Loader
+Purple Xros Loader
+Cyan Xros Loader
+Silver Xros Loader
+Gray Xros Loader
+Pink Xros Loader
+Lime Xros Loader
+Yellow Xros Loader
+Light Blue Xros Loader
+Magenta Xros Loader
+Orange Xros Loader
+White Xros Loader
+Black V-Pet
+Red V-Pet
+Green V-Pet
+Brown V-Pet
+Blue V-Pet
+Purple V-Pet
+Cyan V-Pet
+Silver V-Pet
+Gray V-Pet
+Pink V-Pet
+Lime V-Pet
+Yellow V-Pet
+Light Blue V-Pet
+Magenta V-Pet
+Orange V-Pet
+White V-Pet
+Begin Story Mode
+Packet
+D-Terminal
+Case
+Circuit Board
+LCD Screen
+Computer Chip
+Gear
+Small HP Floppy
+Medium HP Floppy
+Large HP Floppy
+Super HP Floppy
+Small EG Floppy
+Medium EG Floppy
+Large EG Floppy
+Byte
+Megabyte
+Gigabyte
+Terabyte
+Virus Data
+Dragon Chip
+Beast Chip
+Bird Chip
+Insect Chip
+Ivy Chip
+Fish Chip
+Holy Chip
+Virus Chip
+Alarm Clock
+EvoLiner
+DigiMatrix
+Viral Digivice
+Tag
+Digitear
+Digi-Core
+Corrupted Digi-Core
+Riding Glove
+Acorn
+Courage
+Friendship
+Love
+Knowledge
+Sincerity
+Reliability
+Hope
+Light
+Darkness
+Crest of Courage
+Crest of Friendship
+Crest of Love
+Crest of Knowledge
+Crest of Sincerity
+Crest of Reliability
+Crest of Hope
+Crest of Light
+Crest of Darkness
+Pokeball?
+Small Meat
+Large Meat
+Sirloin
+Moldy Meat
+Big Berry
+Golden Acorn
+Hawk Radish
+Orange Banana
+Power Fruit
+Power Ice
+Prickly Pear
+Sage Fruit
+Super Carrot
+Super Veggy
+Sweet Nut
+Grey Claws
+Blue Crystal
+Flaming Wings
+Horn Helmet
+White Wings
+Ice Crystal
+Fireball
+Water Bottle
+Red Shell
+Flaming Mane
+Black Wings
+Metal Parts
+Moon Mirror
+Fatal Bone
+Cyber Parts
+Noble Mane
+X Bandage
+Silver Ball
+Metal Armor
+Red Ruby
+Beetlepearl
+DigiAnchovy
+DigiTrout
+DigiBlackTrout
+DigiSnapper
+DigiCatfish
+DigiSeaBass
+Red Berry
+Blue Apple
+Calm Berry
+Muscle Yam
+Chain Melon
+Red Card
+Chrondigizoit
+Red Digizoid Axe
+Red Digizoid Shovel
+Red Digizoid Hoe
+Red Digizoid Pickaxe
+Red Digizoid Sword
+Blue Digizoid Axe
+Blue Digizoid Shovel
+Blue Digizoid Hoe
+Blue Digizoid Pickaxe
+Blue Digizoid Sword
+Gold Digizoid Axe
+Gold Digizoid Shovel
+Gold Digizoid Hoe
+Gold Digizoid Pickaxe
+Gold Digizoid Sword
+Black Digizoid Axe
+Black Digizoid Shovel
+Black Digizoid Hoe
+Black Digizoid Pickaxe
+Black Digizoid Sword
+Obsidian Digizoid Axe
+Obsidian Digizoid Shovel
+Obsidian Digizoid Hoe
+Obsidian Digizoid Pickaxe
+Obsidian Digizoid Sword
+White Brush
+Red Brush
+Blue Brush
+Green Brush
+Yellow Brush
+Orange Brush
+Magenta Brush
+Pink Brush
+Cyan Brush
+Gray Brush
+Silver Brush
+Brown Brush
+Ruby Brush
+Sapphire Brush
+Emerald Brush
+Gold Brush
+Aquamarine Brush
+Raspberry Brush
+Olive Brush
+Purple Brush
+Lime Brush
+Light Blue Brush
+Black Gear
+Miracle Fruit
+Digianchovy Pizza
+Big Berry Milkshake
+Blue Apple Pie
+GB&J
+Digikebab
+Digiplatter
+Digislaw
+Ebiburger
+Fruit Salad
+Golden Butter
+Green Smoothie
+Mixed Berry Jam
+Prickly Toast
+Rain Salad
+Red Berry Jam
+Red Smoothie
+Toast&Jam
+Digizoid Poi
+H-Spirit of Fire
+B-Spirit of Fire
+Chrono Core
+Blue Card
+ Red Card
+Omega Sword
+Dramon Breaker
+Crystal Sword
+Double Axe
+Shaman Spear
+Aux Dagger
+Scale Scimitar
+Titanium Saber
+Broad Rapier
+Shade Mace
+Crystal Guard
+Double Plate
+Shaman Helm
+Aux Helm
+Scale Shield
+Titanium Shield
+Broad Shield
+Shade Helm
+Transcendent Sword
+Beast Sword
+Holy Rod
+Bone Club
+Thor's Hammer
+Merciful Light
+Analyzer
+Atk Chip
+Def Chip
+S.Atk Chip
+S.Def Chip
+Spe Chip
+Luk Chip
+BotaEgg
+PuniEgg
+NyokiEgg
+PabuEgg
+YuraEgg
+PichiEgg
+PoyoEgg
+YukimiBotaEgg
+YukimiBotaEgg
+ChiboEgg
+PururuEgg
+TsubuEgg
+LeafEgg
+JyariEgg
+ReleEgg
+ZeriEgg
+KiiEgg
+CocoEgg
+KetoEgg
+DodoEgg
+MokuEgg
+MetalKoroEgg
+ZuruEgg
+ArkadiEgg
+BomEgg
+DatiriEgg
+FufuEgg
+KuraEgg
+PaoEgg
+PafuEgg
+PetitEgg
+PopoEgg
+PupuEgg
+PuttiEgg
+PuwaEgg
+TreatEgg
+Guilmon Bread
+Moldy Veggy
+Moldy Carrot
+Moldy Yam
+Moldy Pear
+Moldy Radish
+Large Digicore
+Large Dark Digicore
+Corrupted Data
+Holy Data
+D-Cyber Digivice
+Program X
+X-Antibody
+ Red Digizoid
+ Blue Digizoid
+ Black Digizoid
+ Gold Digizoid
+Fractal Block
+ Digimental of Courage
+ Digimental of Friendship
+ Digimental of Love
+ Digimental of Knowledge
+ Digimental of Sincerity
+ Digimental of Reliability
+ Digimental of Hope
+ Digimental of Light
+ Digimental of Destiny
+ Digimental of Miracles
+ Digimental of Kindness
+ DigiShroom
+ DeluxeShroom
+ HappyShroom
+ IceShroom
+ Vending Machine
+Rain Plant
+Huanglong Ore
+Chrome Digizoid
+Obsidian Digizoid
+Digiportal
+Digistone
+Digigrass
+Anomaly Grass
+Anomaly Block
+Digidirt
+Digiice
+Crag Rock
+Deadsand
+Digileaves
+Swampleaves
+Palmleaves
+Jungleleaves
+Igneous Digirock
+Scrap Metal
+Digiwood Planks
+Digiwood Slab
+Digiwood Stairs
+Digiwood
+Palmwood
+Palmwood Planks
+Junglewood
+Junglewood Planks
+Digimud
+Dried Digimud
+Digisand
+Digisapling
+Swamp Sapling
+Blue Apple Sapling
+Blue Apple Leaves
+Sage Fruit Leaves
+Prickly Pear Leaves
+Calm Berry Leaves
+Power Fruit Leaves
+Big Berry Sapling
+Red Berry Sapling
+Big Berry Leaves
+Red Berry Leaves
+Sage Fruit Sapling
+Prickly Pear Sapling
+Calm Berry Sapling
+Power Fruit Sapling
+Palm Sapling
+Chain Melon Sapling
+Chain Melon
+Tall Digigrass
+Yokoflower
+Togecactus
+Refined Digizoid Metal
+Swamp Digiwood
+Swampwood Planks
+Stone of Courage
+Stone of Friendship
+Stone of Love
+Stone of Knowledge
+Stone of Sincerity
+Stone of Reliability
+Stone of Hope
+Stone of Light
+Digibank
+Extractor
+DigiHealer
+Trader
+Matchmaker
+DigiSpawner
+BotaEgg
+PuniEgg
+NyokiEgg
+PabuEgg
+YuraEgg
+PichiEgg
+PoyoEgg
+YukimiBotaEgg
+ChiboEgg
+PururuEgg
+TsubuEgg
+LeafEgg
+JyariEgg
+ReleEgg
+ZeriEgg
+KiiEgg
+CocoEgg
+KetoEgg
+DodoEgg
+MokuEgg
+MetalKoroEgg
+ZuruEgg
+ArkadiEgg
+BomEgg
+DatiriEgg
+FufuEgg
+KuraEgg
+PaoEgg
+PafuEgg
+PetitEgg
+PopoEgg
+PupuEgg
+PuttiEgg
+PuwaEgg
+TestEgg
+SakuEgg
+YukimiBotaEgg(M)
+D.R. Egg
+N.Sp. Egg
+W.G. Egg
+J.T. Egg
+D.S. Egg
+M.E. Egg
+V.B. Egg
+N.S. Egg
+Botamon
+Punimon
+Nyokimon
+Pabumon
+Yuramon
+Pichimon
+Poyomon
+YukimiBotamon
+Chibomon
+Pururumon
+Tsubumon
+Leafmon
+Jyarimon
+Relemon
+Zerimon
+Kiimon
+Cocomon
+Ketomon
+Dodomon
+Mokumon
+MetalKoromon
+Zurumon
+Arkadimon(Fresh)
+Bommon
+Datirimon
+Fufumon
+Kuramon
+Paomon
+Pafumon
+Petitmon
+Popomon
+Pupumon
+Puttimon
+Puwamon
+Sakumon
+YukimiBotamon(M)
+Babydmon
+Bombmon
+Budmon
+Bukamon
+Calumon
+Chapmon
+Chicchimon
+DemiMeramon
+DemiVeemon
+Dorimon
+Frimon
+Gigimon
+Gummymon
+Hopmon
+Kapurimon
+Kokomon
+Koromon
+Kyaromon
+Kyokyomon
+Kyupimon
+Minomon
+Missimon
+Moonmon
+Motimon
+Nyaromon
+Pagumon
+Pinamon
+Poromon
+Puroromon
+Sunmon
+Tanemon
+Tokomon
+TorikaraBallmon
+Tsumemon
+Tsunomon
+Yokomon
+Upamon
+Viximon
+Wanyamon
+Xiaomon
+Yaamon
+???
+Agumon
+Agumon(S)
+Armadillomon
+Arkadimon(Rookie)
+Aruraumon
+Bearmon
+Betamon
+Betamon X
+Biyomon
+BlackAgumon
+BlackAgumon(S)
+BlackGabumon
+BlackGuilmon
+Bokomon
+Burgermon
+Candlemon
+Cardmon(C1)
+Cardmon(C2)
+Chuumon
+ClearAgumon
+Commandramon
+Coronamon
+Crabmon
+DemiDevimon
+DoKunemon
+Dorumon
+Dracmon
+Dracomon
+Elecmon
+FanBeemon
+Flamon
+Floramon
+Gabumon
+Gaomon
+Gazimon
+Gizamon
+Goblimon
+Gomamon
+Gotsumon
+Guilmon
+Hagurumon
+Hawkmon
+Hackmon
+Hyokomon
+Impmon
+Kamemon
+Keramon
+KoKabuterimon
+Kokuwamon
+Kotemon
+Kudamon
+Kunemon
+L-ToyAgumon
+Labramon
+Lalamon
+Liollmon
+Lucemon
+Lopmon
+Lunamon
+????
+ModokiBetamon
+Monmon
+Monodramon
+Muchomon
+Mushroomon
+Neemon
+Otamamon
+Otamamon(Red)
+Palmon
+Patamon
+PawnChessmon(Black)
+PawnChessmon(White)
+Penguinmon
+PetitMamon
+Phascomon
+Psychemon
+Renamon
+Ryudamon
+Salamon
+ShadowToyAgumon
+Shamanmon
+SnowAgumon
+SnowAgumon(S)
+SnowGoblimon
+Solarmon
+Strabimon
+Swimmon
+Syakomon
+Tapirmon
+Tentomon
+Terriermon
+Tinkermon
+ToyAgumon
+Tsukaimon
+Veemon
+Vemmon
+ViElecmon
+Wormmon
+Aegiomon
+Airdramon
+Akatorimon
+Angemon
+Ankylomon
+Apemon
+Arkadimon(Champion)
+Aquilamon
+Bakemon
+BaoHackmon
+Birdramon
+BlackGaogamon
+BlackGargomon
+BlackGarurumon
+BlackGatomon
+BlackGreymon
+BlackGrowlmon
+BladeKuwagamon
+BomberNanimon
+Boogiemon
+Brimpmon
+Buraimon
+Burgermon(Champion)
+Cardmon(U1)
+Cardmon(U2)
+Centarumon
+Chrysalimon
+Chuchidarumon
+Citramon
+Clockmon
+Coelamon
+Coredramon(Blue)
+Coredramon(Green)
+Cyclonemon
+Darcmon
+DarkLizardmon
+DarkTyrannomon
+Deltamon
+Deputymon
+Devidramon
+Devimon
+DexDorugamon
+Diatrymon
+Dinohyumon
+Dobermon
+Doggymon
+Dokugumon
+Dolphmon
+Dorugamon
+Drimogemon
+Ebidramon
+ExVeemon
+ExVeemon(Virus)
+Fangmon
+Firamon
+Flarerizamon
+Flymon
+Frigimon
+Fugamon
+Gaogamon
+Gargomon
+Garurumon
+Gatomon
+Gekomon
+Gesomon
+GeoGreymon
+Geremon
+Ginkakumon
+Ginryumon
+Gladimon
+GoldNumemon
+Golemon
+Gorillamon
+Greymon
+Grimmon
+Grizzlymon
+Growlmon
+Growlmon(Data)
+Guardromon
+Guardromon(Gold)
+Gururumon
+Gwappamon
+Hookmon
+Hyogamon
+IceDevimon
+Icemon
+Ikkakumon
+J-Mojyamon
+Kabuterimon
+KaratsukiNumemon
+Kinkakumon
+Kiwimon
+KnightChessmon(Black)
+KnightChessmon(White)
+Kogamon
+Kokatorimon
+Kuwagamon
+Kyubimon
+Kyubimon(Silver)
+Lekismon
+Leomon
+Liamon
+Meicoomon
+Mekanorimon
+Meramon
+Mikemon
+Minotarumon
+Mojyamon
+Monochromon
+MoriShellmon
+Musyamon
+Nanimon
+Ninjamon
+NiseDrimogemon
+Numemon
+Octomon
+Ogremon
+Omekamon
+Peckmon
+Petermon
+Piddomon
+PlatinumSukamon
+Raremon
+RedVeedramon
+RedVegiemon
+Reppamon
+Reptiledramon
+Saberdramon
+SandYanmamon
+Sangloupmon
+Seadramon
+Sealsdramon
+Seasarmon
+Shellmon
+ShimaUnimon
+Snimon
+Sorcerymon
+Soulmon
+Starmon
+Stingmon
+Strikedramon
+Sukamon
+Sunflowmon
+Tankmon
+Targetmon
+Thundermon
+TobuCatmon
+Togemon
+Tortomon
+Turuiemon
+Tuskmon
+Tyrannomon
+Unimon
+Veedramon
+Veedramon(Virus)
+Vegiemon
+Vilemon
+Waspmon
+Wendigomon
+Whamon
+Witchmon
+Wizardmon
+Woodmon
+Yanmamon
+Youkomon
+Zassomon
+Allomon
+Stegomon
+Flamedramon
+Raidramon
+Magnamon
+GoldVeedramon
+Halsemon
+Digmon
+Prairiemon
+Shurimon
+Pegasusmon
+Pipismon
+Nefertimon
+Submarimon
+Rabbitmon
+Rapidmon(Gold)
+Yasyamon
+Toucanmon
+Kenkimon
+Quetzalmon
+AeroVeedramon
+Andromon
+Angewomon
+Antylamon(Data)
+Antylamon(Virus)
+BlackMachGaogamon
+BlueMeramon
+BigMamemon
+Butenmon
+CannonBeemon
+Cardmon(R1)
+Cardmon(R2)
+ChaosGrimmon
+Cherrymon
+Deramon
+DoruGreymon
+ExTyrannomon
+Etemon
+Flaremon
+Garbagemon
+Garudamon
+Gigadramon
+Groundramon
+Knightmon
+Lilamon
+Lilymon
+MagnaAngemon
+Mamemon
+Megadramon
+MegaKabuterimon(Blue)
+MegaKabuterimon(Red)
+Meicrackmon
+Meicrackmon(VM)
+MetalGreymon
+MetalGreymon(Virus)
+MetalMamemon
+MetalTyrannomon
+Mistymon
+Phantomon
+Pumpkinmon
+Sandiramon
+ShadowWereGarurumon
+Taomon(Vaccine)
+Tinmon
+Vikaralamon
+Vermilimon
+WarGrowlmon(Data)
+WereGarurumon
+Wingdramon
+Zudomon
+SkullGreymon
+WarGrowlmon
+Taomon
+Doumon
+Rapidmon
+BlackRapidmon
+Panjyamon
+KingSukamon
+Meteormon
+WaruMonzaemon
+Myotismon
+SkullSatamon
+SkullMeramon
+Tekkamon
+Giromon
+Paildramon
+Silphymon
+Shakkoumon
+RizeGreymon
+Piximon
+Pandamon
+Panbachimon
+Monzaemon
+LadyDevimon
+MasterTyrannomon
+Digitamamon
+Brachiomon
+BlackWarGrowlmon
+MachGaogamon
+BlackKingNumemon
+MegaSeadramon
+WaruSeadramon
+Alphamon
+Apollomon
+Baihumon
+BlackImperialdramon(DM)
+BlackImperialdramon(FM)
+BlackWarGreymon X
+Breakdramon
+Cannondramon
+Cardmon(S1)
+Cardmon(S2)
+ChaosMetalSeadramon
+ChaosPiedmon
+ChaosWarGreymon
+Chronomon(HM)
+Craniamon
+Dynasmon
+Examon
+ExoGrimmon
+Gankoomon
+KingEtemon
+KingWhamon
+Lilithmon
+Machinedramon
+Mastemon
+MetalEtemon
+Millenniummon
+MirageGaogamon
+NoblePumpkinmon
+Ophanimon
+Ophanimon(Core)
+Piedmon
+Pukumon
+Puppetmon
+Raguelmon
+Rosemon
+ShadowSeraphimon
+Slayerdramon
+VictoryGreymon
+Vikemon
+UlforceVeedramon
+WarGreymon
+WarGreymon X
+ZeedGarurumon
+BlackWarGreymon
+MetalGarurumon
+BlackMetalGarurumon
+Beelzemon
+Phoenixmon
+HerculesKabuterimon
+Gallantmon
+ChaosGallantmon
+ChaosGallantmon(Core)
+Kuzuhamon
+Lotusmon
+Plesiomon
+Seraphimon
+Magnadramon
+Omnimon
+Omnimon(MM)
+Omnimon(Zwart)
+Cherubimon(Virtue)
+Cherubimon(Vice)
+HiAndromon
+ShineGreymon
+Sakuyamon
+SaberLeomon
+BlackMegaGargomon
+MegaGargomon
+MarineAngemon
+Imperialdramon(DM)
+Crescemon
+Dianamon
+TigerVespamon
+Boltmon
+VenomMyotismon
+Imperialdramon(FM)
+Imperialdramon(PM)
+PlatinumNumemon
+MetalSeadramon
+Agunimon
+BurningGreymon
+Bacomon
+Gaossmon
+Monimon
+Monitamon
+HiVisionMonitamon
+Gennai

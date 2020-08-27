@@ -1,0 +1,9 @@
+config.title=高级披风配置
+config.capeUrl=披风 URL
+chat.setcapecommand.wrongusage=用法:/% s [用户名] 
+chat.setcapecommand.playeronly=此命令只能由玩家使用。
+gui.capeurl.title=设置披风
+gui.capeurl.current=当前:
+gui.capeurl.checkbox.advancedcapes=高级披风网站
+gui.capeurl.checkbox.custom=自定义网站
+gui.capeurl.button.seturl=设置 URL

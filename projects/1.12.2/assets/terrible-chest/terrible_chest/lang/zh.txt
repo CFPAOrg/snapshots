@@ -1,0 +1,9 @@
+Terrible Chest
+Diamond Sphere
+Terrible Chest
+Count: %,d
+Terrible Chest Config
+Enable ItemHandler capability
+Stop item collection and deliver
+Maximum page limit
+Stack size limit of slot

@@ -1,0 +1,22 @@
+Meteor Block
+Meteor Block Slab
+Meteor Block Stairs
+Meteor Chest
+Surface Meteors
+Enable
+Generate Meteors on the surface
+Frequency
+How frequent are the meteors
+Exponent
+How steep is the craters
+Scale
+Size range of the meteors
+Underground Meteors
+Enable
+Generate Meteors underground
+Frequency
+How frequent are the meteors
+Scale
+Size range of the meteors
+Meteor Chest
+Meteor Village

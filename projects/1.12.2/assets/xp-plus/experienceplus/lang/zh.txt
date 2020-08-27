@@ -1,0 +1,25 @@
+Experience Plus
+Basic Experience Crystal
+Advanced Experience Crystal
+Emblem of Healing
+Emblem of Bridging
+Emblem of Dawn
+Emblem of Dusk
+Emblem of Clear Skies
+Emblem of Downpour
+Emblem of Storms
+Emblem of Glowing
+Emblem of Haste
+Emblem of Leaping
+Emblem of Warding
+Emblem of Swiftness
+Emblem of Strength
+Sneak + right-click to enable effect
+Sneak + right-click to disable effect
+Sneak + right-click to activate emblem (Requires %d levels)
+Right-click to activate (Requires %d levels)
+Sneak + right-click to use emblem (Requires %d levels)
+Right-click to use (Requires %d levels)
+You need more experience to activate this emblem!
+%d minutes remaining
+%s uses remaining

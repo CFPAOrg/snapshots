@@ -1,0 +1,28 @@
+Research Table
+Keeping progress after breaking
+Untitled
+No description.
+Access denied.
+Owner: %s
+Researching: %s
+Progress: %s
+Need stages: %s
+Need researches: %s
+Need skill: %s Lv. %d %s
+Need money：%s %s
+%d %s
+This research can only be done %s time(s)!
+Cannot find research %s.
+(you have %s)
+(%d of %d)
+Energy
+Research
+Submit
+Complete
+Cancel
+Press Shift
+Unknown Item
+/researchtable <Player> <Research> [count]
+Research not found.
+%s: %s
+%s: successful

@@ -1,0 +1,714 @@
+&6Dream&7 Knowledge
+Revolution
+Turtle Shell
+All Might
+Necromancer
+Floating
+Livingrock Pedestal
+You can' use it until you complete corresponding advancement " %s ".
+There are more people than there were when the boss is summoned. That's illegal.
+You have something that isn't allowed in this boss fight. Check your inventory and tips in the lexicon again.
+Mana Reader
+Position Reader
+Spirit Fuel
+Spirit Fragment
+Nightmare Fuel
+Shadowium
+Fried Chicken Leg
+Orichalcos Ingot
+Gilded Potato
+Das Rheingold
+Photonium
+Challenge Ticket
+Gilded Mashed Potato
+Manasteel Hammer
+Terrasteel Hammer
+Elementium Hammer
+Ultimate Hammer
+Nature Orb
+Medal for Heroism
+Manasteel Shield
+Elementium Shield
+Terrasteel Shield
+Empty Mana Glass Bottle
+Mana Cocktail
+Holy Grenade
+Special-made Cocktail
+Infinite Wine
+Manasteel Airship
+Elementium Airship
+Terrasteel Airship
+Excaliber
+Origin Creation - Omniscience
+Spear of Subspace
+Mini Handbag
+Core of God
+Judah Oath
+Judah Oath KIRA
+Oath of Sakura
+Halloween Candy Eins
+Halloween Candy Zwei
+Halloween Candy Drei
+Halloween Candy Night
+Christmas Candy Eins
+Christmas Candy Zwei
+Christmas Candy Drei
+Christmas Garland
+Walking Cane
+Fox Ear
+Mana Lens: Push
+Push
+Mana Lens: Mana
+Mana
+Mana Lens: Smelt
+Smelt
+Mana Lens: Potion
+Potion
+Mana Lens: Cloud
+Cloud
+Mana Lens: Track
+Track
+Mana Lens: SUPERCONDUCTOR
+SUPERCONDUCTOR
+Bottled Star
+Bottled Flame
+Bottled Pixie
+Call of the Void
+Mask
+Sims
+Jungle Goggles
+Diving Goggles
+Snow Goggles
+Goggles
+Black Glasses
+Question Mark
+Lemon
+Thug Life
+Magic Finger
+Ring of Mana Drive
+Feather of JingWei
+Silent Eternity
+Supply Bag Limited Edition
+Tri-Bloodstone
+Garden of King's Law
+Reward Bag Eins
+Reward Bag Zwei
+Reward Bag Drei
+Reward Bag Vier
+Reward Bag 9-3/4
+Pandora's Box
+Failnaught
+Shameimaru's Camera
+Achilled Shield
+Master Band of Mana
+Scathed Music Disc
+TobyFox - Death by Glamour
+Scathed Music Disc
+Salvation
+Ring of Frost
+Ring of Curse
+Ring of Wall-Jump
+Ring of Wall-Run
+Ring of Parkour
+Ring of Elven King
+ALL FOR ONE
+Pure Daisy Pendant
+Super Crown
+Red Scarf
+Pleiades Combat Maid Headgear
+Pleiades Combat Maid Suit
+Pleiades Combat Maid Skirt
+Pleiades Combat Maid Boots
+Starry Idol Headgear
+Starry Idol Suit
+Starry Idol Skirt
+Starry Idol Boots
+Pleiades Combat Maid Headgear of Revealing
+Starry Idol Headgear of Revealing
+Shadow Pleiades Combat Maid Suit
+Shadow Warrior Helmet
+Shadow Warrior Chestplate
+Shadow Warrior Leggings
+Shadow Warrior Boots
+Shadow Katana
+Goblin Slayer Helmet
+Goblin Slayer Chestplate
+Goblin Slayer Leggings
+Goblin Slayer Boots
+Super Mana Affinity
+Super Power when empty-handed
+Greater Regeneration
+Mana Affinity
+This night is so frightful and boundless. That my eyes come down with gloomy darkness.
+But just by them both. I am seeking my rosiness
+Shadow Warrior
+Goblin Slayer
+Starry Idol
+Pleiades Combat Maid
+Livingrock Pedestal
+Block of Orichalcos
+Mana Buffer
+Cocoon of Desire
+Flux Manafield
+Mana Liquefaction Device
+Livingrock Barrel
+Trophy
+Fluided Mana
+Quantum Mana Buffer
+Block of Shadowium
+Block of Photonium
+Dimension Catalyst
+Power Frame
+Flower
+Gaia Guardian III
+Skull Missile
+Skull Landmine
+Skull Minion
+Magic Arrow
+Airship
+Dark Pixie
+Holy Grenade
+Sword Domain
+Sword Domain
+The Void
+Lance of Subspace
+Spear
+Judah Oath
+Little Pixie
+Bottled Star
+The Void
+Herrscher of the Void
+Lance of Subspace
+Forge
+Tip:Use the Hammer to forge item
+Bloody Enchantress
+A bargain forged in blood and shadow
+Sunshine Lily
+May the light heal and enlighten you
+Moonlight Lily
+May you find all you have lost
+Omniviolet
+Need not to know
+Stonesia
+ONLY THE KING CAN TAKE THE FLOWER FROM THE STONE
+Tinkle Flower
+My turn
+Bell Flower
+Lost wind
+Gemini Orchid
+Why is a raven like a writing desk?
+Annoying Flower
+Rest time
+Stardust Lotus
+Undefined Fantastic Object
+Manalinkium
+Link Summon
+Reikar Lily
+Game Crash
+Enchanted Orchid
+I have no time playing games
+Edelweiss
+Do you want to build a snowman?
+Mirrortunia
+Mirror,mirror,on the wall
+Necrofleur
+Necrofleur Petite
+The only cure is Dying
+The only cure is Dying
+Fluided Mana
+Fluided Mana
+ExtraBotany
+Wings: Godness
+Wings: Flandre
+Wings: Rainbow
+Wings: Steampunk
+Wings: Jim
+Repair Upgrade I
+Repair Upgrade II
+Repair Upgrade III
+Sharpness Upgrade I
+Sharpness Upgrade II
+Sharpness Upgrade III
+Sharpness Upgrade IV
+Sharpness Upgrade V
+Sharpness Upgrade VI
+Sharpness Upgrade VII
+Sharpness Upgrade VIII
+Sharpness Upgrade IX
+Sharpness Upgrade X
+Range Upgrade I
+X:
+Y:
+Z:
+Dim:
+Configuration: 
+%s is preparing a SPECIAL attack!
+5 seconds left before %s uses his SPECIAL attack!
+%s will do massive damage to one random player! Who will be the lucky one ?
+%s deals massive damage to you!
+The Gaia Guardian summoned its minions. You better kill the minions first ;-)
+Natural Breath: 
+Blessing of Mana(Deactivated)
+Blessing of Mana&b(Activated)
+Blessing of Regeneration(Deactivated)
+Blessing of Regeneration&4(Activated)
+Blessing of Senro(Deactivated)
+Blessing of Senro&2(Activated)
+You have the chance to get the following items:
+This Block has been disabled. Don't craft or use it.
+Failed to bind. Check whether the position is right or not, or maybe it's not from the same dimension.
+This is, to me, the loveliest and saddest landscape in the world.
+It is the same as that on the preceding page, but I have drawn it again to impress it on your memory.
+It is here that the little prince appeared on Earth, and disappeared.
+Look at it carefully so that you will be sure to recognise it in case you travel some day to the African desert.
+And, if you should come upon this spot, please do not hurry on.
+Wait for a time, exactly under the star.
+Then, if a little man appears who laughs, who has golden hair and who refuses to answer questions, you will know who he is.
+If this should happen, please comfort me.
+Send me word that he has come back.
+You are healed by %s
+Thanks %s, he or she healed you
+%s helped you to give the boss a punch
+%s restricted the movement of boss
+%s restricted the ability of boss
+%s restricted the ability of boss
+%s praised you 
+%s admired you 
+%s helped you 
+%s sheltered you 
+%s protected you 
+%s helped you 
+%s helped you 
+%s helped you 
+Bloody Enchantress
+The Bloody Enchantress creates &4Mana&0 by consuming nearby creatures' life. Creatures sacrificed to the Bloody Enchantress will not produce any drops or experience.
+Every bite will add a effect called Blood Temptation and overlay with higher amplifier one, the mana production will decrease according to the level of Blood Temptation, and the flower will stop working if the total level of Blood Temptation of all the creatures nearby is over a threshold.
+The only cure is death.
+Burning soul
+Sunshine Lily
+Like the &1Dayblooms&0 the Sunshine Lily produces &4Mana&0 from sunlight, but it is slightly more efficient. Please note that it will still decay.
+Heal and heat.
+Mana from the sun
+Moonlight Lily
+Like the &1Nightshade&0 the Moonlight Lily generates &4Mana&0 at night, but it is slightly more efficient. Please note that it will still decay.
+Sowing of the fool.
+Mana from the moon
+Omniviolet
+According to a saying, knowledge is power. The Omniviolet converts Books or Written Books into &4Mana&0. To increase the amount of mana generated, Bookshelves can be placed around the Omniviolet in a similar fashion to an Enchantment Table. 
+Akashic Records.
+Knowledge is power
+Stonesia
+The Stonesia can convert stone, cobblestone or ores into &4Mana&0. Rarer ores produce more mana. A Livingrock Pedestal nearby with a Nature Orb in it can increase its mana generation efficiency.
+Diamond and Pearl.
+Rare Value
+Tinkle Flower
+The Tinkle flower converts kinetic energy of nearby moving players into &4Mana&0. A Livingrock Pedestal nearby with a Nature Orb in it can increase its mana generation efficiency.
+Ding dong, here I come to find you.
+Rush!Rush!Rush!
+Bell Flower
+When placed in the open, the Bell Flower creates &4Mana&0 from wind. The higher it is, the more mana it produces. A Livingrock Pedestal nearby with a Nature Orb in it can increase its mana generation efficiency. Since it is a passive flower, it will decay.
+Only the storms can knock down the trees.
+Mana from wind
+Annoying Flower
+The Annoying Flower can fish in nearby Livingrock Pedestal filled with water. For that process it will use mana. Feeding Fried Chicken Legs to it will significantly increase the efficiency and the chance of getting treasure.
+RK800.
+Cooked Chicken can be fried by soaking it in &4Mana&0. Fried Chicken Legs restore more hunger and give saturation.
+Neither a angel or a devil
+Time to fish.
+Manalinkium
+The Manalinkium can wirelessly transfer &4Mana&0 to a Mana Pool. Right-clicking it with a Position Reader that has the position of a Mana Pool stored will start the process.
+This is too real.
+A multiblock structure is needed to function.
+The Manalinkium has to be placed one above the empty middle block.
+Wireless Transmission
+Stardust Lotus
+The Stardust Lotus uses &4Mana&0 to create a portal that teleports creatures to a specified location. Right-clicking it with a Position Reader that has a position stored will transfer that position to the Stardust Lotus. Throwing a paper onto the Stardust Lotus starts the portal creation. A circle of sparkles around the flower shows that it is ready.
+Better than wolves.
+A multiblock structure is needed to function.
+The Stardust Lotus has to be placed one above the empty middle block.
+Directional Teleport
+Reikar Lily
+The Reikar Lily turns the tremendous energy of lightning into &4Mana&0. When a lightning bolt hits nearby, it will generate a great amount of &4Mana&0 immediately and continue to produce &4Mana&0 for a long time.
+I Choose You!
+Lightning Energy
+Edelweiss
+Edelweiss will swallow the snow golem to produce mana.
+If you are reading this, you can read.
+A bit cruel
+Gemini Orchid
+A &1Gemini Orchid&0 is like a thermoelectric generator. If you place a block of lava in the corner diagonally opposite, and then place a block of water in another corner diagonally opposite, it will begin to produce mana. The higher the gap between two blocks' temperatures, the quicker mana will be generated. Since it is a passive flower, it will decay.
+I am power incarnate!
+Mirrortunia
+Mirrortunia will give players around a potion effect called "Mirror Force", and clear bad potion effects. <br> But it can't clear those bad effects which can't be removed with milk bucket.
+Enchanted Orchid
+The Enchanted Orchid can infuse grass blocks beneath it to create Enchanted Soil. It will need a Black Lotus, a large quantity of &4Mana&0 and a long time for each transformation.
+The truth is always one
+Knowledge is power and I know a lot
+Necrofleur
+Necrofleur will only target those non-player creatures with lower than half health. It will spread despair and strike them a heavy blow, reducing the following healings they will receive.
+Meteor Strike
+I will mourn your death
+Mana Buffer
+The Mana Buffer can store as much &4Mana&0 as 64 Mana Pools. It will drain &4Mana&0 from adjacent mana pools and supply it to a Mana Pool placed on top of it.
+Un...Deux...Trois...
+Store Mana
+Garden of King's Law
+Garden of King's Law can summon flowers which are recorded by it to give the enemy a heavy blow. Just place it on the Livingrock Pedestal, hold a flower and right-click to record. Different flowers will have different effects.
+For example, Blood Enchantress will deal high magic damage, Sunshine Lily will set enemies on fire. But not every type of flower can be recorded.
+Enuma Elish.
+Sha Nagba Imuru.
+Ultimate Flower Work
+Nightmare Fuel
+Nightmare Fuel is an advanced fuel created by Mana Infusion. It seems to be edible.
+The brain trembles.
+Spirit Fuel
+Spirit Fuel is an edible material which is obtained by eating Nightmare Fuel. Holding a Lexica Botania and right-clicking a Livingrock Pedestal with Spirit Fuel in it will unlock new knowledge. If you put the nightmare fuel in the livingrock pedestal and let it shone for 5 minutes, you can also get the Spirit Fuel.
+A believing heart is your magic.
+Hive mind
+Mana Reader
+Right-clicking a Mana Pool with the Mana Reader displays the amount of &4Mana&0 stored. 
+Rion.
+Display Mana
+Position Reader
+Sneak right-clicking a block with the Position Reader stores its position. Right-clicking a block or flower that can store a position will transfer the stored position onto it.
+The greatest inventions of the century
+Positional Advantage
+Livingrock Pedestal
+Right-click to place items on the Livingrock Pedestal. A hammer can be used to forge items on a Livingrock Pedestal.
+What is evil? Everything that comes from weakness is evil.
+Hidden is a kind of outstanding talent.
+Hell is other people.
+Nothing is as dangerous as an ignorant friend, better a wise enemy.
+Leave all hope, you who enter.
+Man is condemned to be free.
+Display items
+Frost Ring
+The &1Frost Ring&0 freezes large areas of water and lava. It also applies slowness creatures looked at by the wearer.
+I am the frozen heart of the Scourge!
+Freeze, don't move!
+Curse Ring
+The &1Curse Ring&0 applies the Wither and Unluck effect on creatures looked at by the wearer at the cost of some &4Mana&0.
+Do not fear power... fear those who wield it!
+The eternal hunt has begun.
+Hammer
+Hammers are used for forging on Livingrock Pedestals. They can also be used as pickaxes and can use &4Mana&0 instead of durability. If you put a hammer in a dispenser and give a redstone signal, it will automatically forge the item in the Livingrock Pedestal ahead.
+Encountered in my dream.
+That would be very nice.
+I am not afraid of anything anymore.
+The Ultimate Hammer is a better version of the Terrasteel Hammer which can be upgraded. Place it in a Livingrock Pedestal and to apply upgrades. Gilded Mashed Potato - Repair Upgrade. Elementium Sword - Sharpness Upgrade. Terrasteel Hammer - Range Upgrade.
+There is no regret.
+Gilded Potato
+The Gilded Potato may have other uses.
+There is a miracle, something magical.
+Golden Legendary
+Failnaught
+The Failnaught uses &4Mana&0 to shoot magic arrows which pierce through enemies and deal damage to the creatures in the area. The longer you draw the bow, the more damage it will deal.
+A hundred shots, a hundred bullseyes.
+ARTIFACT.
+Nature Orb
+The Nature Orb can store &1Natural Breath&0, a magical power which protects the carrier. To collect &1Natural Breath&0 it needs to be placed on a Livingrock Pedestal and a ritualistic multiblock structure around Livingrock Pedestal is needed. Additionally the Nature Orb grants boosts to certain nearby flowers.
+Blessing of Mana will provide you with mana, Blessing of Regeneration will speed up your regeneration and Blessing of Senro will drive away bad effects on you.
+Not a Blood Orb.
+Rank I Ritual.
+Rank II Ritual.
+Build a multiblock structure and place it on the Livingrock Pedestal to collect &1Natural Breath&0.
+Natural Balance
+Shameimaru's Camera
+Shameimaru's Camera strips nearby creatures of their abilities. Projectiles in sight will vanish. Creatures affected by this will return to normal after a period of time. The camera can affect boss for a very short period.
+Snapshot
+Say "cheese"!
+Ritual of Gaia III
+200,000 Natural breath from a Nature Orb can be used to summon an even more powerful Gaia Guardian. Its great powers and new abilties should be feared.For the Gaia Guardian III fight, you need to learn some new rules. 1. Blocks in the Gaia Guardian arena have to belong to Vanilla Minecraft or Botania or ExtraBotany. Any other blocks will be destroyed! (except if its changed in the config)
+2. Equipped armor and weapons have to be from Vanilla Minecraft or Botania or ExtraBotany(except if its changed in the config). Any others will be disarmed and dropped on the ground. 3.During the fight red landmines should be avoided as they will deal massive damage to you.
+Natural Selection.
+It's HARDCORE
+Ritual of Gaia IV
+200,000 Natural breath from a Nature Orb can be used to summon an even more powerful Gaia Guardian. Its great powers and new abilties should be feared. All liquid blocks in the arene will be destroyed.
+For the Gaia Guardian IV fight, you need to learn some new rules. 1. Blocks in the Gaia Guardian arena have to belong to Vanilla Minecraft or Botania. Any other blocks will be destroyed! (except if its changed in the config) 2. Equipped armor and weapons have to be from Vanilla Minecraft or Botania (except if its changed in the config). Any others will be disarmed and dropped on the ground. During the fight red landmines should be avoided as they will deal massive damage to you.
+Natural Selection.
+It's HARDCORE
+Achilled Shield
+The &4Achilled Shield&0 can reflect damage and most projectiles. Colliding with enemies while blocking will deal damage to them. <br> Sneak and right-click with over 12 absorption and you will release its true power. To maintain its new form will cost you 2 absoprtion every second.
+I will stop humans
+AT Field
+Master Band of Mana
+The &4Master Band of Mana&0 can store nearly a infinite amount of &4Mana&0.
+The Cake is a Lie.
+IMPOSSIBLE
+Cocoon of Desire
+The Cocoon of Desire will slowly evolve the rudimentary contents inside it into a creature. Giving it items via a right click or by simply dropping them on it changes the creature hatching from the Cocoon of Desire.
+Block of Coal - Wither Skeleton. Wheat - Pig. Wool - Sheep. More are to be discovered.
+Nerf this
+Incubator
+Pleiades Combat Maid
+An improved version of Terrasteel Armor. The wearer will gain the ability of regeneration while wearing a full set of it. It will also clear negative effects and give the wearer super powers when empty-handed.
+Pleiades Combat Maid Headgear
+Pleiades Combat Maid Suit
+Pleiades Combat Maid Skirt
+Pleiades Combat Maid Boots
+Overlord
+Starry Idol
+An improved version of Manasteel Armor,it gives the wearer a high mana discount.
+Starry Idol Headgear
+Starry Idol Suit
+Starry Idol Skirt
+Starry Idol Boots
+Miku Miku Dance
+Flux Manafield
+By passing &4Forge Energy&0 through a field of natural energy, its state can be transformed from redstone based energy into &4Mana&0.<br>Simply attaching &4FE&0 transporters, will start the conversion from &4FE&0 to &4Mana&0. A Mana Spreader is needed to transfer the &4Mana&0.
+Science Bitch!
+Converts Energy into Mana
+Mana Cocktail
+Hold an Empty Mana Glass Bottle and right-click a Mana Liquefaction Device with at least 25mb Fluided Mana or a Mana Pool with enough mana, and you will acquire a tasty drink.
+Cheers!
+Tasty
+Mana Liquefaction Device
+Mana Liquefaction Device will drain &4Fluided Mana&0 from liquid tank nearby and transfer into Mana. <br>If giving a redstone signal, it will drain mana, transform it into Fluided Mana and output to nearby liquid tank.
+Non-Science
+Liquid Mana
+Special-made Cocktail
+By crafting any flask/vial potion with a Mana Cocktail , you can make a Special-made Cocktail that can be drinked two more times than the original flask/vial and it has a longer effect. <br>Aditionaly very special potions have been added and can be crafted into Cocktails too.
+Greatly improve the efficiency of mining, but overdraft your luck
+High level of resistance, but slow as turtle.
+Gain super strength, but what's the cost?
+Almost all positive effects! But wouldn't last long
+One can make you floating, may be better if used on enemies?
+Infinite Wine
+Infinite Wine, that you can drink almost infinitly, it only costs mana to refill. To make one, you just need to combine a Special-made Cocktail with heroes medal.You can change the effects by crafting with other varieties of Special-made Cocktail. <br>Be carefull though, if you drink it all before it can refill, you will lose your relic and get a empty mana glass back, and you can only Restore 3 uses per minecraft day.
+Baccano!
+Holy Grenade
+When a Special-made Cocktail is crafted with Popped Chorus Fruit. You make a Holy Grenade! The Holy Grenade will deal massive damage after exploding, giving bad effects to other creatures and giving the good effects to players. <br>A perfect item, but why is it a grenade?
+Art is explosion
+Shadow Warrior
+With the magic of Gilded Mashed Potato, we can use Nightmare Fuel and a Elementium Ingot to make Shadowium. It's a very special kind of material.
+And Then There Were None.
+With the power of Shadowium, Armour crafted with it will give wearer speed, strength, and night vision when the night comes. A sword made of it also seems to call upon Shadow pixies
+Shadow Warrior Helmet
+Shadow Warrior Chestplate
+Shadow Warrior Leggings
+Shadow Warrior Boots
+Shadow Katana
+Not A Vampire
+Livingrock Barrel
+A Livingrock Barrel can simply contain 16 buckets of liquid. It will also supply water to the Altar next to it if it has any.
+Minecraft is too easy.
+Simple
+Super Crown
+When you are equipping the Starry Idol Armor Set or the Pleiades Combat Maid Armor Set, the Super Crown will reduce damage you take by 2.
+You are not Toadette.
+Cat Mario
+Pure Daisy Pendant
+By holding a Pure Daisy Pendant and right-clicking a block, you can instanly transform blocks like a pure daisy, at the cost of a little mana. After 64 uses, it will cool down for 2.5min, and it only cools down when it is equipped.
+My beauty is in position.
+Now You See Me, Now You Don't
+Origin Creation - Omniscience
+Origin Creation - The Omniscience relic can simulate some of the Relics by sneak and right-clicking to switch its form. Keeping other forms will cost &4Mana&0.
+java.lang.NullPointerException
+Spear of Subspace
+Using the Spear of Subspace will summon energies from subspace to attack enemies.
+Orichalcos Ingot
+Core of God
+A upgrade to the Flügel tiara, the Core of God alows infinite flight at the cost of &4Mana&0. The Core of God also gives a slight strength boost and provides faster flight than the tiara
+Ring of Parkour
+Ring of Wall-Run will enable you to climb any wall you want, and Ring of Wall-Jump enables you to "jump" on the wall at most 5 times until you reach the ground.
+While Ring of Parkour combines both.
+Ring of Elven King
+Ring of Elven King can perform three common baubles' abilities. Just carry a Bauble Case and put the bauble you want in the first three slots. Not all the baubles can be simulated.
+Walking Cane
+Walking Cane can increase one's speed when he is holding it. What's more, you can right-click to dash a long distance, which costs just a little mana.
+ALL FOR ONE
+As the upgraded version of Elven King, ALL FOR ONE can perform all the baubles' abilities in the Bauble Case.
+Das Rheingold
+Das Rheingold can empty the binding of a relic, just crafting the relic with it. If you want to bind the relic to a specific person, hold the Das Rheingold and right-click him, then the crafting will make the relic bind to him.
+Challenge Ticket
+Challenge Ticket can be used as a one-shot thing to summon Gaia Guardian III. Like how you use gaia ingot to summon Gaia Guardian II.
+Goblin Slayer Armor
+Photonium is the opposite side of Shadowium.
+It can be used to make Goblin Slayer Armor, which powers player during day time, enabling him to regenerate more quickly and deal extra damage to non-undead creatures.
+Goblin Slayer Helmet
+Goblin Slayer Chestplate
+Goblin Slayer Leggings
+Goblin Slayer Boots
+New Mana Lens
+Mana Lens: Push will enable Mana Burst to force the first entity it collide to move with it.
+Push
+Mana Lens: Smelt is like a furnace, it will enable Mana Burst to smelt the block ti collide.
+Smelt
+Mana Lens: Mana is like a Mana Pool, it will infuse the item with mana. If you place a Alchemy Catalyst or a Conjuration Catalyst under the spreader, it will do the cocorresponding work.
+Mana
+Mana Lens: Potion will add potion effects to the entity collided. Craft the lens with the brew flask to decide its effect.
+Potion
+Mana Lens: Cloud will create a potion cloud when the Mana Burst collide with entity.
+Cloud
+Mana Lens: Track will enable Mana Burst to locate the first entity within 3 meters and keep tracking until either is dead.
+Track
+Judah Oath
+Use mana to set up Judah Oath, it will imprison the creatures in its range and shoot divine spear to attack them.
+Judah Oath
+Judah Oath KIRA
+Oath of Sakura
+Tri-Bloodstone
+Bottled Flame
+After you equip it, Bottled Flame will automatically consume Torches in your inventory and place it when you are in the dark.
+Bottled Flame
+Bottled Star
+Bottled Star require a little &4Mana&0 to set up and then it will summon a lot of stars to attack the enemies.
+Bottled Star
+Bottled Pixie
+Bottled Star require a little &4Mana&0 to summon a pixie to help you fight. The pixie only attack hostile mobs and it is quite naughty :3
+Bottled Pixie
+Dimension Catalyst
+Dimension Catalyst connects the Overworld with other two dimensions. You can use mana to transform resources from overworld to those from other dimensions.
+Dimension Catalyst
+ExtraBotany
+From The New World
+Welcome to the World of the supreme principle of Mana! You are the one who has great potential and I believe you will have a shiny, bright future. I am sure you are hunger for more knowledge. Follow me, I will pass on my knowledge and experience to you.
+Hold the lexicon and right-click a Livingrock Pedestal with a Spirit Fuel, and you will unlock the new knowledge type. <br>To obtain Spirit Fuel, you have to eat one Nightmare Fuel or put it in a Livingrock Pedestal under Sun for 5 mins.
+The New World
+Herrscher of the Void—The Final Combat
+After you defeated Gaia Guardian III ,you get the permission to challenge Herrscher of The Void. The medal for heroism has huge energy fluctuation. You need the ancient spirits of light and dark and the power of Ritual of Gaia to stabilize it.
+Call of The Void.
+Herrscher of The Void inherited the power of Gaia Guardian III , so the basic rules will be same: You can ONLY use items or armors belonging to Vanilla Minecraft, Botania or ExtraBotany. <br>However ,Herrscher of The Void have more powerful and fraustrating abilities.
+First, it'll summon a Subspace Lance in the middle, and try to teleport the player into the arena who attacked her outside. The Subspace Lance will damage the player nearby ,and for each can connect with one another, attacking who is standing between them .
+When Herrscher of The Void takes damage, she will create a space to greatly slow down players' movement, but this skill has a cooldown. When her health is about 2/3, she will grow a pair of wind and fly, meanwhile using Divine Judge to draw players inside.
+Every time when she takes damage, the preparing time for special attack will be shortened. When her health is about 1/3, she will evolve. It will be the most horroring stage. <br> Herrscher of The Void will restore health according to the number of players, and there will be three shields surronding her.
+Each shield will reduce the damage she takes, but you can use a SUPERHEAVY attack (means massive damage at one time, above 30) to break it. However, when the shield is broken, she will copy all the potion effects player has. So think twice before you decide to break the shield. <br>If she has three shields, all the projectiles will be reflected.
+This will be the hardest challenge. As its reward is the same to Gaia Guardian III, you dont need to force yourself. Just try your best.
+Cosmetic Baubles
+These are only Cosmetic Baubles, they have no other use except cosmetic.
+Feather of JingWei
+After equipping Feather of JingWei, player can use mana to shoot Aura Fire with empty hands. The Aura Fire can restore player's absoprtion.
+Magic Finger
+Right-clicking the mana pool with Magic Finger will extract some mana from you to the pool. Use Magic Finger to hit creatures will make its following 3 seconds' healing reversed.
+Ring of Mana Drive
+After equipping Ring of Mana Drive, your mana will spread into air, supplying the functional flowers nearby.
+Power Frame
+Place a mana item in the Power Frame, and the Power Frame will extract mana from the mana pool above and transfer to the mana item. Giving a redstone signal will make the process reverse.
+Supply Bag Limited Edition
+Supply Bag Limited Edition only has 100 stacks of items, including rare relic Silent Eternity and rare Mana Lens: SUPERCONDUCTOR, meaning that you could obtain all these things with 100 draws. <br>Spare supply bag will become 2 Emeralds.
+Silent Eternity is a very powerful relic but hard to use. It has 666 mana storage and when you equip it, it will recover 666 mana every tick. When it is equiped, any normal kind of health recovery is banned, but if you stay still, you will quickly recover your health and be immune to most kind of damage. Any movement will interrupt this behavior. <br> Silent Eternity will also freeze the water and the lava under your feet.
+Mana Lens: SUPERCONDUCTOR can make mana transfer become much more efficient, while making the mana beam become really dangerous to players. <br>The mana beam will deal high damage to only players.
+Limited Supply
+Welcome to the World of the supreme principle of Mana
+Waila Support for Mana Pool
+Waila Support for Flux Manafield
+Waila Support for Mana Buffer
+Waila Support for Mana Liquefaction
+Enable Flux Manafield
+Enable Mana Liquefaction Device
+Enable Summoning Gaia Guardian III
+Enable Gaia Guardian III to Disarm
+Enable Gaia Guardian III to destroy block
+Enable The One Probe Support
+Enable Gaia Guardian III to release Sword Domain
+Enable Monster to hold a Halloween Candy Night when spawning
+The chance that monster will hold a Halloween Candy Night when spawning
+Enable Construct's Armory Compat
+Deep Dark Fantasy
+Eat a Nightmare Fuel.(Unbelievable)
+Unlock New Knowledge
+Hold a Lexicon and right-click a Livingrock Pedestal with a Spirit Fuel in it
+CONNECT
+Craft a Livingrock Pedestal
+PONPONPON
+Craft an Ultimate Hammer
+Front Lovers
+Use a Gilded Mashed Potato to upgrade your Ultimate Hammer
+Gears of Love
+Forge one item on the Livingrock Pedestal
+Satisfaction
+Craft a Mana Reader
+Letter Song
+Craft a Position Reader
+Promise
+Use a Stardust Lotus to teleport yourself
+Crystalline
+Bind a Mana Pool to the Manalinkium
+Project Diva Desu
+Dance around a Tinkle Flower
+Sweet Devil
+Use a Bloody Enchantress to generate mana
+ロストワンの号哭
+Craft a Mana Buffer
+Last Night, Good Night
+Craft a Garden of King's Law
+April Fool
+The Dog absorbs the artifact
+from Y to Y
+Craft the Failnaught
+lukaluka night fever
+Craft a Shameimaru's Camera
+KiLLER LADY
+Defeat Gaia Guardian III
+Single floor
+Craft a Nature Orb
+WORLD'S END UMBRELLA
+Take damage from a red landmine
+Mr.Wonder
+Obtain Achilled Shield
+COLOR
+Obtain Master Band of Mana
+Fairytale
+Fill it to WIN the game
+Senbonzakura
+Patient Listener
+cat's dance
+Equip Starry Idol Armor Set
+Drug Of Gold
+Equip Pleiades Combat Maid Armor Set
+Crazy ∞ nighT
+Equip Shadow Warrior Armor Set at night
+Slowly sky
+Drive a Terrasteel Airship at least 200 metres high
+shake it
+Obtain Infinite Wine
+ReAct
+Obtain Excaliber
+Erase or Zero
+Unlock All ExtraBotany's Advancements
+Starduster
+Obtain Super Rare Item through Reward Bag
+SPiCa
+Obtain Origin Creation - Omniscience
+Nightglow
+Obtain Spear of Subspace
+Befall
+Equip Goblin Slayer Armor Set
+Salvation
+Defeat Herrscher of The Void
+End Day
+Challenge the final task — Defeat Herrscher of The Void in 3 minutes!
+A Green Hand
+Complete 6 extrabotany's advancement and you will be awarded Ring of Mana Drive.
+Multiple Happiness
+Complete 12 extrabotany's advancement and you will be awarded Magic Finger
+Half Elf, Half Human
+Complete 18 extrabotany's advancement and you will be awarded Feather of Jingwei
+One Punch
+Cast an aura fire that deals over 40 damages.
+All Hail The Queen
+Obtain Core of God.
+Rings, Rings, and More Rings
+Collect most kinds of the rings.
+Inside Out
+Collect all kinds of bottles.
+Mind Crush
+Eternity
+Mirror Force
+Constant Pain
+Black Sabbath
+Divine Justice
+Blood Temptation
+Witch Curse
+Green
+Reversed Healing
+Shadow
+§oThe Long Dark！§r\nUses Mana to repair, can also  summon dark pixies when you attack mobs.
+Shadowium
+Mind
+More Effecient
+Body
+Higher Durability
+Soul
+Extra 3 Modifiers
+Orichalcos

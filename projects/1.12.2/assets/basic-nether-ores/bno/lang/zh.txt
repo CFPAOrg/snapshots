@@ -1,0 +1,16 @@
+Basic Nether Ores
+Copper Nugget
+Tin Nugget
+Copper Ingot
+Tin Ingot
+Copper Block
+Tin Block
+Nether Emerald Ore
+Nether Diamond Ore
+Nether Redstone Ore
+Nether Lapis Ore
+Nether Coal Ore
+Nether Gold Ore
+Nether Iron Ore
+Nether Tin Ore
+Nether Copper Ore

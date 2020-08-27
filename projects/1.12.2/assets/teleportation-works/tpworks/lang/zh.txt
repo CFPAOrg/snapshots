@@ -1,0 +1,109 @@
+Equipped Item Settings
+Settings specific to the use of equipped items included with this mod
+Bows Can Send To Rails
+When cycling through Bow of Teleportation destinations, include saved Teleport Rails.
+Wands Teleport Boats Ridden
+Wand of Teleportation also teleports boats that a player is riding.
+Wands Teleport Creatures Ridden
+Wand of Teleportation also teleports creatures that a player is riding.
+Wands Teleport Minecarts Ridden
+Wand of Teleportation also teleports minecarts that a player is riding.
+Splash Potion Settings
+Settings specific to the Splash Potion of Teleportation
+Teleport Boats
+Teleport any boats within the potion splash radius.
+Selectively Teleport Boats
+Teleport boats only when they have passengers who can also be teleported.
+Teleport Dropped Items
+Teleport any dropped items within the potion splash radius.
+Teleport Hostile Creatures
+Teleport any hostile creatures (mobs) within the potion splash radius.
+Teleport Minecarts
+Teleport any minecarts within the potion splash radius.
+Selectively Teleport Minecarts
+Teleport minecarts only when they have passengers who can also be teleported.
+Teleport Passive Creatures
+Teleport any passive creatures within the potion splash radius.
+Teleport Thrower
+Teleport thrower if within the potion splash radius.
+Teleport Other Players
+Teleport other players within the potion splash radius.
+Teleport Projectiles
+Teleport any projectiles within the potion splash radius.
+Teleport Lit TNT
+Teleport any lit TNT within the potion splash radius.
+Teleport Block Settings
+Settings specific to teleport blocks included with this mod
+Beacon Cooldown Time
+Cooldown time (in ticks) after a Teleport Beacon receives an entity before it can teleport an entity.
+Beacons Can Send To Rails
+When cycling through Teleport Beacon destinations, include saved Teleport Rails.
+Beacons Can Send To Themselves
+When cycling through Teleport Beacon destinations, include same beacon as an option.
+Rail Cooldown Time
+Cooldown time (in ticks) after a Teleport Rail teleports a minecart, during which it will not teleport another cart.
+Rails Can Send To Beacons
+When cycling through Teleport Rail destinations, include saved Teleport Beacons.
+World Settings
+General settings for how this mod affects your world
+Add Items to Spawn Chest
+Add basic Teleportation items to Spawn Chest. Must set BEFORE generating a new world.
+Crafting Difficulty
+HARD difficulty requires an Eye of Ender instead of an Ender Pearl in wands and beacons.
+Teleportation Works
+/td <list | # | prev | next | delete> <# | beacons | rails | invalid>
+Must include teleport destination number
+You have no valid teleport destinations in your network
+There are no teleport destinations of type %s in your network
+%s is an invalid teleport destination number in your network
+Active teleport destination: %s
+Teleport destination %s REMOVED from your network
+Cannot remove Overworld spawn bed - this is a fixed teleport destination
+All teleport blocks REMOVED from your network
+Teleport beacon %s ADDED to your network
+Teleport beacon %s REMOVED from your network
+Teleport beacon: %s has no destination
+Teleport beacon: %s teleports to %s
+Teleport beacon: %s FOUND in your network
+Teleport destination CLEARED
+No teleport destination set
+No viable teleport destinations available in your network
+INVALID teleport block: %s REMOVED from your network
+Teleport destination SET to %s
+No teleport destination set for dispenser
+Dispenser teleports to: %s
+Teleport destination network full (limit: %s)
+Teleport rail %s ADDED to your network
+Teleport rail %s REMOVED from your network
+Teleport rail: %s has no destination
+Teleport rail: %s teleports to %s
+Teleport rail: %s FOUND in your network
+Eye of Ender Shard
+Bow of Teleportation
+Stores a teleport destination separate from your wand.
+Must still use Arrow of Teleportation to teleport target.
+Sneak while using bow (%s+%s) to store active destination.
+Sneak while attacking (%s+%s) to clear its destination.
+Splash Potion of Teleportation
+Splash Potion of Teleportation II
+Arrow of Teleportation
+Wand of Teleportation
+- Sleep in a bed or use your wand on a teleport block to add it to your network.
+- Charge up your wand (hold %s) to teleport to your active destination.
+- Use your wand in air to show your active destination.
+- %s+%s to change your active destination.
+Teleport Beacon
+- Toggle inclusion in your network using a Wand of Teleportation.
+- %s+%s with a Wand to change active destination.
+- %s+%s to clear its destination.
+- Rename a beacon in an anvil.
+Teleport Rail
+- Toggle inclusion in your network using a Wand of Teleportation.
+- %s+%s with a Wand to change active destination.
+- %s+%s to clear its destination.
+- Rename a rail in an anvil.
+Arrow of Teleportation
+Teleportation
+Teleportation (%s x %s x %s)
+Teleport Beacon Activated
+Teleport Beacon Deactivated

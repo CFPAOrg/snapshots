@@ -1,0 +1,17 @@
+Callable Horses
+Set Horse
+Call Horse
+Show Horse Stats
+You can't call your horse in this dimension!
+You can't be riding while calling your horse!
+You currently don't have a personal Horse!
+You need to be riding a horse to do this!
+This horse already has an owner!
+This is already your personal horse!
+You can't call your horse in this area!
+Your horse is too far away to hear you!
+You can't set your horse in this area!
+There is not enough space here to call your horse!
+This is now your personal horse!
+Your personal horse just died!
+Your personal horse died while you were offline!

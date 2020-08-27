@@ -1,0 +1,5 @@
+Biome Borders Settings
+Biome Borders Revived
+Drawing Radius (Chunks)
+Border Line Height (Blocks)
+Toggle Biome Borders

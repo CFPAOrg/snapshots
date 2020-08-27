@@ -1,0 +1,145 @@
+Ghast Sister
+Cute Blaze
+Cute Cave Spider
+Cute Creeper
+Cute Enderman
+Cute Ghast
+Cute Guardian
+Cute Elder Guardian
+Cute Magma Cube
+Cute Zombie Pigman
+Cute Silverfish
+Cute Skeleton
+Cute Wither Skeleton
+Cute Stray
+Cute Slime
+Cute Spider
+Cute Villager
+Cute Witch
+Cute Wolf
+Cute Zombie
+Cute Zombie Villager
+Cute Husk
+Cute Iron Golem
+Cute Snow Golem
+Cute Mooshroom
+This will turn most of the mod on or off. Everything but the Ghast Sister's rendering will be disabled if it's off.
+Enable Mod
+Enable special options
+This will enable special options like scaled hitboxes for most mobs, instead of just replacing them graphically. This decreases compatibility with other mods like mobtalker, since the mobs are replaced with a new one. Once the mod's uninstalled, these mobs will be deleted instead of reverting to original.
+Human Mobs Models
+Replaces the models with more blocky minecraft-y versions of themselves.
+Separate entities
+This will spawn the cute mob model enemies as variations of the original mobs instead of replacing the original ones' models, so both can coexist. Note, this disables the regular mob replacement. Requires minecraft to be restarted.
+Replace animals
+This will replace animals with their humanoid versions. In case you're not comfortable with killing them for food, you can turn it off.
+Starting Entity ID
+Entity ID offset. This will change the ID number for Ghast Sister/GhastS enemy and any additional mobs such as the separated mobs.
+Set up general things here.
+General options
+Allows you to control which hostile mob models are replaced with Mobtalker designs.
+Hostile mob model replacement
+Allows you to control which passive mob models are replaced with Mobtalker designs.
+Passive mob model replacement
+Allows you to change the model scale setting to match the hitboxes.
+Hitbox and scale settings
+Various mob-related options that didn't fit in the other categories go here.
+Other mob settings
+This will change the Blaze model into the mobtalker design.
+Blaze
+This will change the Creeper model into the mobtalker design.
+Creeper
+This will change the Cave Spider model into the mobtalker design.
+Cave Spider
+This will change the Enderman model into the mobtalker design.
+Enderman
+This will change the Ghast model into the mobtalker design.
+Ghast
+This will change the Guardian model into the mobtalker design.
+Guardian
+This will change the Zombie Pigman model into the mobtalker design.
+Zombie Pigman
+This will change the Magma Cube model into the mobtalker design.
+Magma Cube
+This will change the Silverfish model into the mobtalker design.
+Silverfish
+This will change the Skeleton model into the mobtalker design.
+Skeleton
+This will change the Slime model into the mobtalker design.
+Slime
+This will change the Spider model into the mobtalker design.
+Spider
+This will change the Witch model into the mobtalker design.
+Witch
+This will change the Zombie model into the mobtalker design.
+Zombie
+This will change the Iron Golem model into the mobtalker design.
+Iron Golem
+This will enable the spawn eggs for both vanilla golems.
+Enable Vanilla Golem Spawn Eggs
+This will change the Mooshroom model into the mobtalker design.
+Mooshroom
+This will change the Snow Golem model into the mobtalker design.
+Snow Golem
+This will change the Villager model into the mobtalker design.
+Villager
+This will change the Zombie Villager model into the mobtalker design.
+Zombie Villager
+This will change the Wolf model into the mobtalker design.
+Wolf
+This will adjust the hitbox to match model's size.
+Cave Spider - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Cave Spider - Use accurate model size
+This will adjust the hitbox to match model's size.
+Enderman - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Enderman - Use accurate model size
+This will adjust the hitbox to match model's size.
+Ghast - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Ghast - Use accurate model size
+This will adjust the hitbox to match model's size.
+Guardian - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Guardian - Use accurate model size
+This will adjust the hitbox to match model's size.
+MagmaCube - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+MagmaCube - Use accurate model size
+This will adjust the hitbox to match model's size.
+Silverfish - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Silverfish - Use accurate model size
+This will adjust the model size to match the hitbox's size.
+Wither Skeleton - Use accurate model size
+This will adjust the hitbox to match model's size.
+Slime - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Slime - Use accurate model size
+This will adjust the hitbox to match model's size.
+Spider - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Spider - Use accurate model size
+This will adjust the hitbox to match model's size.
+Iron Golem - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Iron Golem - Use accurate model size
+This will adjust the hitbox to match model's size.
+Mooshroom - Use accurate hitbox
+This will adjust the model size to match the hitbox's size.
+Mooshroom - Use accurate model size
+This will hide the blaze rods floating around Blaze.
+Hide Blaze's Blaze rods
+This will hide the smoke particles appearing around Blaze.
+Hide Blaze's smoke particles
+This will allow spawning of the Ghast Sister mob.
+Spawn Ghast Sister
+This will make the Ghast Sister mob more difficult.
+Brutal Ghast Sister
+This will make Zombie Pigman extend its arms forward.
+Extend Zombie Pigman's arms
+When holding a bow, the skeleton will use a different animation.
+Skeleton - aimed bow
+This will make Zombie extend its arms forward.
+Extend Zombie's arms

@@ -1,0 +1,27 @@
+SAVE
+LOAD
+CORNER
+NONE
+BOUNDING BOX
+EVERYTHING
+Mode: %s
+Mode: %s
+Load Blueprint
+Save Blueprint
+Offset:
+X: %d
+Y: %d
+Z: %d
+Size:
+X: %d
+Y: %d
+Z: %d
+Blueprint Name:
+Architects:
+You don't have the permissions to save a Blueprint!
+You don't have the permissions to load a Blueprint!
+You don't have the permissions to change a Blueprint Controller!
+You don't have the permissions to see a Blueprint Controller!
+Following Blueprint was successfully saved: %s
+Following Blueprint was successfully loaded: %s
+Blueprint Controller

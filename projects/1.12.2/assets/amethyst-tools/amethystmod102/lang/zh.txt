@@ -1,0 +1,8 @@
+Amythest
+Amythest Hoe
+Amythest Axe
+Amythest Shovel
+Amythest Ore
+Amythest Pickaxe
+Amythest Sword
+Amythest Block

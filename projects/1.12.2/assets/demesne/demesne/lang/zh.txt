@@ -1,0 +1,86 @@
+Demesne
+Dowsing Orb
+Bone Needle
+Blank Tablet
+Tablet of Friendship
+Regeneration Tablet
+Miner's Tablet
+Tablet of Nourishment
+Flying Tablet
+Expansion Tablet
+Absorption Tablet
+Slowness Tablet
+Weakness Tablet
+Mending Tablet
+Poisonous Tablet
+Diamond Dust
+Emerald Dust
+Quartz Dust
+Gold Dust
+Ender Dust
+Star Dust
+Lapis Dust
+Iron Dust
+Floral Pulp
+Crushed Wither Skulls
+Magical Dust
+Orchid Nectar
+Prolonging Reagent
+Amplifying Reagent
+Bursting Reagent
+Lingering Reagent
+Binding Reagent
+Weirding Reagent
+Effigy of the Wolf
+Effigy of the Gnome
+Gilded Feather
+Spirit Lure
+Drinkable Potion
+Splash Potion
+Temple Marble
+Temple Marble Bricks
+Temple Marble Tile
+Small Temple Marble Tiles
+Temple Marble Mosaic Tiles
+Braided Temple Marble Bricks
+Chiseled Temple Marble
+Scaled Temple Marble
+Floral Temple Marble Tiles
+Totem Block
+Gold Bars
+Bookstand
+Alchemist's Worktable
+Grinding Hopper
+Turret
+Lava Tank
+Spirit Beacon
+Potion of Flight
+Splash Potion of Flight
+Lingering Potion of Flight
+Potion of Anti-Gravity
+Splash Potion of Anti-Gravity
+Lingering Potion of Anti-Gravity
+Potion of Shrinking
+Splash Potion of Shrinking
+Lingering Potion of Shrinking
+Potion of Shrinking
+Splash Potion of Shrinking
+Lingering Potion of Shrinking
+Potion of Flight
+Splash Potion of Flight
+Lingering Potion of Flight
+Potion of Disarming
+Splash Potion of Disarming
+Lingering Potion of Disarming
+Potion of Disarming
+Splash Potion of Disarming
+Lingering Potion of Disarming
+A Summoned Spirit Wolf
+A Summoned Garden Gnome
+The altar is complete.  You may now use it to attune to this land.
+You suspect the altar materials may not be positioned correctly.
+You are not in a Demesne.
+You are in a Demesne of power level 
+This machine has been successfully linked to a nearby altar.
+Link attempt was unsuccessful.
+The spirits will not look kindly on you for this act.

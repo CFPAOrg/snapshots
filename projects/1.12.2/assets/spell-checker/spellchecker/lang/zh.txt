@@ -1,0 +1,4 @@
+Spell Checker Config
+Language locale the mod uses to check your chat messages. [default: EN_US]
+The threshold the mod uses to check how close a word needs to be to the wrongly spelled word. [default: 0]
+The maximum number of suggestions it will show you. [default: 4]

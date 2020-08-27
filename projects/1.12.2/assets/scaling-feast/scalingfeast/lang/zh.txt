@@ -1,0 +1,124 @@
+/scalingfeast <setMax|setSaturation> <player> [args]
+Usage: /scalingfeast %s <player> <amount>
+Player %s doesn't exist!
+Target selector %s found nothing.
+Amount must be in range [0, %s)
+Success! Set %s for player %s to %s.
+You've gained %s max hunger!
+Scrumptious!
+What unique flavour!
+Deeee-lish!
+Delectable!
+Yummy!
+How savoury!
+Succulent!
+Tasty!
+Eating this food item will temporarily decrease your max hunger!
+Eating this food item will restore some of your lost max hunger!
+Fasting
+Gluttony
+Famine
+Eternal Feast
+Curse of Sensitivity
+Curse of Laziness
+Curse of Deprivation
+Reduces exhaustion by 10% per level.
+Increases food values by 50% per level.
+Severely drains hunger from a player struck with this enchantment or applies a weakness debuff to non player entities struck with this enchantment. The strength of these effects depend on the enchantment level.
+Killing an entity replenishes your food level, depending on the level of the enchantment.
+Overeating gives you a Soft Stomach debuff for 20 seconds. The strength is equal to the amount overeaten.
+Halves your max exhaustion.
+Causes you to starve twice as fast.
+Hearty Shank
+§bIron Apple§f
+§dIron Apple§f
+Hearty Feast
+Max Hunger
+Food Efficiency
+Metabolism
+Metabolic Potion
+Metabolic Potion
+Metabolic Potion
+Metabolic Splash Potion
+Metabolic Splash Potion
+Metabolic Splash Potion
+Metabolic Lingering Potion
+Metabolic Lingering Potion
+Metabolic Lingering Potion
+Metabolic Arrow
+Metabolic Arrow
+Metabolic Arrow
+Iron Stomach
+Energetic Potion
+Energetic Potion
+Energetic Potion
+Energetic Splash Potion
+Energetic Splash Potion
+Energetic Splash Potion
+Energetic Lingering Potion
+Energetic Lingering Potion
+Energetic Lingering Potion
+Energetic Arrow
+Energetic Arrow
+Energetic Arrow
+Bloated
+Potion of Bloating
+Potion of Bloating
+Potion of Bloating
+Splash Potion of Bloating
+Splash Potion of Bloating
+Splash Potion of Bloating
+Lingering Potion of Bloating
+Lingering Potion of Bloating
+Lingering Potion of Bloating
+Arrow of Bloating
+Arrow of Bloating
+Arrow of Bloating
+Hunger Plus
+Potion of Hunger Boost
+Potion of Hunger Boost
+Potion of Hunger Boost
+Splash Potion of Hunger Boost
+Splash Potion of Hunger Boost
+Splash Potion of Hunger Boost
+Lingering Potion of Hunger Boost
+Lingering Potion of Hunger Boost
+Lingering Potion of Hunger Boost
+Arrow of Hunger Boost
+Arrow of Hunger Boost
+Arrow of Hunger Boost
+Hunger Minus
+Potion of Hunger Loss
+Potion of Hunger Loss
+Potion of Hunger Loss
+Splash Potion of Hunger Loss
+Splash Potion of Hunger Loss
+Splash Potion of Hunger Loss
+Lingering Potion of Hunger Loss
+Lingering Potion of Hunger Loss
+Lingering Potion of Hunger Loss
+Arrow of Hunger Loss
+Arrow of Hunger Loss
+Arrow of Hunger Loss
+Soft Stomach
+Potion of Fatiguing
+Potion of Fatiguing
+Potion of Fatiguing
+Splash Potion of Fatiguing
+Splash Potion of Fatiguing
+Splash Potion of Fatiguing
+Lingering Potion of Fatiguing
+Lingering Potion of Fatiguing
+Lingering Potion of Fatiguing
+Arrow of Fatiguing
+Arrow of Fatiguing
+Arrow of Fatiguing
+Deficiency
+Potion of Deficiency
+Potion of Deficiency
+Splash Potion of Deficiency
+Splash Potion of Deficiency
+Lingering Potion of Deficiency
+Lingering Potion of Deficiency
+Arrow of Deficiency
+Arrow of Deficiency

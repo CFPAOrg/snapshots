@@ -1,0 +1,296 @@
+Minestuck Universe
+Artifact Bedrock
+is it rally as hard as bedrok?
+Zillystone
+It's hard enough to withstand most conventional means of destruction, yet it looks like it can be chipped away by a magical tool.
+Smooth Iron Block
+Block of Amber Grist
+Block of Amethyst Grist
+Block of Artifact Grist
+Block of Build Grist
+Block of Caulk Grist
+Block of Chalk Grist
+Block of Cobalt Grist
+Block of Diamond Grist
+Block of Garnet Grist
+Block of Gold Grist
+Block of Iodine Grist
+Block of Marble Grist
+Block of Mercury Grist
+Block of Quartz Grist
+Block of Ruby Grist
+Block of Rust Grist
+Block of Sulfur Grist
+Block of Shale Grist
+Block of Tar Grist
+Block of Uranium Grist
+Block of Zillium Grist
+Block of Vis Grist
+Block of Mana Grist
+The building blocks of SBURB, now in a more tangible form!
+Assemblificator
+The bare essentials to creating all sorts of machines!
+Grist Hopper
+Grist-o-Matic 50000
+Captchaloguifier
+Automatically captchalogues items.
+Porkhollow ATM
+Perfectly Magical Object
+Diver Helmet
+Spatial Manipulation Dust
+A way to shrink and grow things, especially machines!
+Moonstone
+Moonstone Chisel
+Just by holding it you can feel how magical it is, yet it's not strong enough to chisel a block of stone.
+Zillystone Shard
+You've managed to chip this shard away from a Zillystone block, but what will you do with it next?
+'murica
+'murica
+redneck edition
+Obsidian Katana
+Unbreakable Katana
+A real hard sword for a real hard dude. It was said to be forged by an ancient Otaku Master over the heat of a roaring manga fire.
+White Sleeved Transportalizer
+Orange Sleeved Transportalizer
+Magenta Sleeved Transportalizer
+Light Blue Sleeved Transportalizer
+Yellow Sleeved Transportalizer
+Lime Sleeved Transportalizer
+Pink Sleeved Transportalizer
+Gray Sleeved Transportalizer
+Light Gray Sleeved Transportalizer
+Cyan Sleeved Transportalizer
+Purple Sleeved Transportalizer
+Blue Sleeved Transportalizer
+Brown Sleeved Transportalizer
+Green Sleeved Transportalizer
+Red Sleeved Transportalizer
+Black Sleeved Transportalizer
+Ruby Red Transportalizer
+A slightly safer transportalizer!
+Golden Transportalizer
+No need to worry about those pesky imps using your transportalizers anymore, or anything that isn't a player, really.
+Paradox Transportalizer
+Your one-way ticket back to Earth, Make sure to pack a way back home.
+Vis Nerds
+Mana Gummy Drop
+Acheron
+%s Acheron
+Vis
+Mana
+Machine Assembly
+This is not your transportalizer!
+Successfully withdrawn %s Boondollars
+Successfully sent %s Boondollars to %s
+Black Light Symbol
+Red Light Symbol
+Green Light Symbol
+Brown Light Symbol
+Blue Light Symbol
+Purple Light Symbol
+Cyan Light Symbol
+Light Gray Light Symbol
+Gray Light Symbol
+Pink Light Symbol
+Lime Light Symbol
+Yellow Light Symbol
+Light Blue Light Symbol
+Magenta Light Symbol
+Orange Light Symbol
+White Light Symbol
+Black Void Symbol
+Red Void Symbol
+Green Void Symbol
+Brown Void Symbol
+Blue Void Symbol
+Purple Void Symbol
+Cyan Void Symbol
+Light Gray Void Symbol
+Gray Void Symbol
+Pink Void Symbol
+Lime Void Symbol
+Yellow Void Symbol
+Light Blue Void Symbol
+Magenta Void Symbol
+Orange Void Symbol
+White Void Symbol
+Black Space Symbol
+Red Space Symbol
+Green Space Symbol
+Brown Space Symbol
+Blue Space Symbol
+Purple Space Symbol
+Cyan Space Symbol
+Light Gray Space Symbol
+Gray Space Symbol
+Pink Space Symbol
+Lime Space Symbol
+Yellow Space Symbol
+Light Blue Space Symbol
+Magenta Space Symbol
+Orange Space Symbol
+White Space Symbol
+Black Time Symbol
+Red Time Symbol
+Green Time Symbol
+Brown Time Symbol
+Blue Time Symbol
+Purple Time Symbol
+Cyan Time Symbol
+Light Gray Time Symbol
+Gray Time Symbol
+Pink Time Symbol
+Lime Time Symbol
+Yellow Time Symbol
+Light Blue Time Symbol
+Magenta Time Symbol
+Orange Time Symbol
+White Time Symbol
+Black Mind Symbol
+Red Mind Symbol
+Green Mind Symbol
+Brown Mind Symbol
+Blue Mind Symbol
+Purple Mind Symbol
+Cyan Mind Symbol
+Light Gray Mind Symbol
+Gray Mind Symbol
+Pink Mind Symbol
+Lime Mind Symbol
+Yellow Mind Symbol
+Light Blue Mind Symbol
+Magenta Mind Symbol
+Orange Mind Symbol
+White Mind Symbol
+Black Heart Symbol
+Red Heart Symbol
+Green Heart Symbol
+Brown Heart Symbol
+Blue Heart Symbol
+Purple Heart Symbol
+Cyan Heart Symbol
+Light Gray Heart Symbol
+Gray Heart Symbol
+Pink Heart Symbol
+Lime Heart Symbol
+Yellow Heart Symbol
+Light Blue Heart Symbol
+Magenta Heart Symbol
+Orange Heart Symbol
+White Heart Symbol
+Black Doom Symbol
+Red Doom Symbol
+Green Doom Symbol
+Brown Doom Symbol
+Blue Doom Symbol
+Purple Doom Symbol
+Cyan Doom Symbol
+Light Gray Doom Symbol
+Gray Doom Symbol
+Pink Doom Symbol
+Lime Doom Symbol
+Yellow Doom Symbol
+Light Blue Doom Symbol
+Magenta Doom Symbol
+Orange Doom Symbol
+White Doom Symbol
+Black Life Symbol
+Red Life Symbol
+Green Life Symbol
+Brown Life Symbol
+Blue Life Symbol
+Purple Life Symbol
+Cyan Life Symbol
+Light Gray Life Symbol
+Gray Life Symbol
+Pink Life Symbol
+Lime Life Symbol
+Yellow Life Symbol
+Light Blue Life Symbol
+Magenta Life Symbol
+Orange Life Symbol
+White Life Symbol
+Black Breath Symbol
+Red Breath Symbol
+Green Breath Symbol
+Brown Breath Symbol
+Blue Breath Symbol
+Purple Breath Symbol
+Cyan Breath Symbol
+Light Gray Breath Symbol
+Gray Breath Symbol
+Pink Breath Symbol
+Lime Breath Symbol
+Yellow Breath Symbol
+Light Blue Breath Symbol
+Magenta Breath Symbol
+Orange Breath Symbol
+White Breath Symbol
+Black Blood Symbol
+Red Blood Symbol
+Green Blood Symbol
+Brown Blood Symbol
+Blue Blood Symbol
+Purple Blood Symbol
+Cyan Blood Symbol
+Light Gray Blood Symbol
+Gray Blood Symbol
+Pink Blood Symbol
+Lime Blood Symbol
+Yellow Blood Symbol
+Light Blue Blood Symbol
+Magenta Blood Symbol
+Orange Blood Symbol
+White Blood Symbol
+Black Rage Symbol
+Red Rage Symbol
+Green Rage Symbol
+Brown Rage Symbol
+Blue Rage Symbol
+Purple Rage Symbol
+Cyan Rage Symbol
+Light Gray Rage Symbol
+Gray Rage Symbol
+Pink Rage Symbol
+Lime Rage Symbol
+Yellow Rage Symbol
+Light Blue Rage Symbol
+Magenta Rage Symbol
+Orange Rage Symbol
+White Rage Symbol
+Black Hope Symbol
+Red Hope Symbol
+Green Hope Symbol
+Brown Hope Symbol
+Blue Hope Symbol
+Purple Hope Symbol
+Cyan Hope Symbol
+Light Gray Hope Symbol
+Gray Hope Symbol
+Pink Hope Symbol
+Lime Hope Symbol
+Yellow Hope Symbol
+Light Blue Hope Symbol
+Magenta Hope Symbol
+Orange Hope Symbol
+White Hope Symbol
+Black Moon
+Red Moon
+Green Moon
+Brown Moon
+Blue Moon
+Purple Moon
+Cyan Moon
+Light Gray Moon
+Gray Moon
+Pink Moon
+Lime Moon
+Yellow Moon
+Light Blue Moon
+Magenta Moon
+Orange Moon
+White Moon
+Withdraw
+Accept
+Value per Boondollar:
+Boondollars to withdraw:

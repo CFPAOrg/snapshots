@@ -1,0 +1,381 @@
+/irc <command>
+/servirc <command>
+General Commands:
+IRC Commands:
+InterOp Commands:
+Special Commands:
+/[serv]irc connect <server> [password]
+Could not connect to %s
+/[serv]irc disconnect [server]
+Disconnecting from %s
+/[serv]irc join [server/]<channel> (ex. irc.esper.net/#DevotionIRC)
+Joining channel %s on %s
+/[serv]irc leave [server/]<channel> (ex. irc.esper.net/#DevotionIRC)
+Leaving channel %s on %s
+/[serv]irc who [(<server>|<channel>)]
+%s users online in %s
+[%s] No users online in %s.
+/[serv]irc msg <channel|nick> <message ...>
+Private messages are not enabled.
+/[serv]irc ctcp <channel|nick> <ctcp query ...>
+CTCP queries are not enabled.
+/[serv]irc help <topic>
+/[serv]irc nick [server] <nick>
+[%s] Changing nick to %s
+/servirc twitch <username> <oauth>
+/irc ghost [server] <username>
+/servirc nickserv <username> <password>
+Updated nickserv information for %s
+/irc color <color>
+Name color set to '%s'.
+Name color reset.
+The color '%s' is not allowed on this server.
+'%s' is not a valid color. Use TAB to loop through valid options.
+/irc ignore <nick>
+The user %s is already on your ignore list.
+The user %s is not known to DevotionIRC yet.
+The user %s has been added to your ignore list.
+/irc unignore <nick>
+The user %s is not on your ignore list.
+The user %s is not known to DevotionIRC yet.
+The user %s has been removed from your ignore list.
+InterOP is not enabled.
+/irc op <channel> <user>
+Opping user %s from channel %s
+/irc deop <channel> <user>
+Deopping user %s from channel %s
+/irc voice <channel> <user>
+Voicing user %s from channel %s
+/irc devoice <channel> <user>
+Devoicing user %s from channel %s
+/irc kick <channel> <user> [reason]
+Kicking user %s from channel %s
+/irc ban <channel> <user> [reason]
+Banning user %s from channel %s
+/irc unban <channel> <user>
+Unbanning user %s from channel %s
+/irc umode <channel> <user> <flags>
+Mode %s for user %s in channel %s
+/irc mode <channel> <flags>
+Mode %s for channel %s
+/irc topic <channel> <topic>
+Topic for channel %s set to "%s"
+DevotionIRC is connected to:
+/[serv]irc config (global|<server>|<channel>) <key> [value] OR /[serv]irc config reload
+To prevent abuse, this setting can only be changed in the config file.
+[%s] Setting config option '%s' to '%s'
+[%s] Config option '%s' is set to '%s'
+[%s] Invalid config option '%s'. Use TAB to loop through valid options.
+This config option requires a restart to take effect.
+Invalid display mode '%s'
+Reloading config from file...
+Options
+Chatting to: %s
+Shift+%s to switch channel.
+Yes
+No
+None
+Save
+Back
+Delete
+DevotionIRC Config
+Theme (%s)
+Bot Settings (%s)
+Other Settings (%s)
+Servers
+Twitch
+Screenshots
+DevotionIRC Channels
+Help
+Settings
+Loading...
+View Fullscreen
+Open in Browser
+URL to Clipboard
+Click anywhere to go back.
+Search...
+Open Folder
+Favorite
+Upload
+Re-Upload
+To Clipboard
+View Fullscreen
+Do you really want to delete this screenshot?
+This can't be undone, so be careful!
+Uploading...
+All
+Favorited
+Today
+This Week
+This Month
+This Year
+Older
+Override Settings
+Configure Theme...
+Configure Bot...
+Other Settings...
+<new>
+Address
+Nick
+Nickserv Username
+Nickserv Password
+Server Password
+Use SSL
+Auto Connect
+Charset
+Connect
+Connecting...
+Disconnect
+Disconnect...
+Channels
+Advanced
+Do you really want to delete this server configuration?
+This can't be undone, so be careful!
+Channel Name
+Channel Password
+Auto Join
+Do you really want to delete this channel configuration?
+This can't be undone, so be careful!
+You have joined more than one channel.
+Do you want to switch to a message format that includes the channel name?
+Welcome to DevotionIRC!
+If you just want to find some people to talk to,\nthis a list of IRC channels you should check out:
+Show recommended channels only
+Don't show this message again
+Suggest Channel
+recommended
+Twitch Username
+OAuth Token
+Login anonymously (read-only)
+Connect
+Oops! Something went wrong.
+To Clipboard
+The server would like to redirect DevotionIRC:
+Server:
+Channel(s):
+The server would like to disable DevotionIRC.
+Always allow this server to redirect me
+Allow
+Reject
+Channel Bot Commands: %s
+Unknown command. Type HELP to see a list of all available commands.
+Message sent to %s: %s
+%d players online:
+No players online.
+You do not have permission to use this command.
+You are not authenticated with IRC services.
+This command has been blacklisted from InterOp.
+That player cannot be found.
+This is not a multiplayer world. Use /irc instead.
+This command only works on the server side. Use the GUI (default: I) or the config file for the client settings.
+Usage:
+<link removed>
+%s is not supported on this server.
+Now chatting to %s
+Connecting to %s
+Reconnecting to %s in %d seconds...
+Connected to %s
+Disconnected from %s
+%s has changed the topic for %s:
+The channel %s is configured as read-only.
+Nickname %s is already in use. Trying %s
+%s is not a valid nickname.
+Could not connect to %s: %s
+IRC Error: '%s' %s
+IRC Error: %s
+IRC Error: Calm down, you're typing too fast!
+IRC Error: Services are currently offline.
+You are already connected to %s
+You have joined %s in %s already.
+You have to specify a channel.
+You have to specify a server.
+The server at %s cannot be found.
+The user %s cannot be found.
+Invalid target. Expected %s.
+You are not connected to the server at %s.
+You are not connected to IRC.
+You are not on channel %s
+You need to be identified with IRC services to join %s
+General
+Basic DevotionIRC Settings
+Network (Advanced)
+Advanced network settings to configure SSL usage and proxies
+Screenshots
+Screenshot Settings
+Notifications
+Notification Settings
+Compatibility (Advanced)
+Compatibility Settings
+Theme
+Color settings for names and text in chat. Can be overridden by servers and channels.
+Bot Settings
+Bot settings and behaviour for the IRC chat. Can be overridden by servers and channels.
+Chat Settings
+General settings for IRC connections. Can be overridden by servers and channels.
+Addon Settings
+Settings for DevotionIRC addons that are not part of the core of the mod.
+Enable Player Colors
+If set to true, players can use the '/irc color' command to set a color for their MC nick. See also: colorBlacklist
+Player Color Blacklist
+A list of colors that players are not allowed to use as name colors when using the '/irc color' command.
+Register Short Commands
+If set to true, DevotionIRC will link commands such as /join, /msg or /nick to it's /irc <command> variants for quicker usage.
+Hide Player Tags
+If set to true, DevotionIRC will attempt to strip player name tags such as [Admin] (that were added by other mods) when sending to IRC.
+Debug Mode
+[Advanced] If set to true, raw IRC messages will be printed into the log for investigation purposes.
+[SSL] Trust all certificates
+[Advanced] If set to true, DevotionIRC will accept all SSL certificates without checking the truststore.
+[SSL] Custom TrustStore Path
+[Advanced] The path to a custom SSL truststore.
+[SSL] Disable Diffie Hellman encryption
+[Advanced] If set to true, disables DiffieHellman encryption for SSL connections to work around a Java issue.
+[Proxy] Host Address
+[Advanced] The address to a proxy you want connections to go through.
+[Proxy] Username
+[Advanced] The username to authenticate with the proxy, if necessary.
+[Proxy] Password
+[Advanced] The password to authenticate with the proxy, if necessary.
+Bind to IP
+[Advanced] The IP address to use for outgoing connections.
+Default Chat
+The default chat target to select when opening the chat for the first time.
+Auto Reset Chat
+Automatically switch back to Minecraft chat when the chat window is closed.
+Prevent User Ping
+This adds an invisible character to player names sent to IRC to prevent pinging those users of the same name on IRC. Thanks to Simon Meskens!
+Twitch Name Colors
+If enabled, DevotionIRC will attempt to map Twitch colors to Minecraft colors for nicks.
+Anti-Flood Time
+The time in milliseconds to wait in between bigger bunches of messages to prevent Excess Flood issues.
+IRC Command Prefix
+The prefix to be used for running commands in an IRC channel.
+Show Image Link Preview
+If set to true, clicking an image link in the chat will open a preview screen inside Minecraft.
+Persistent Connection
+If set to true, the IRC connection will remain open after leaving a world or server (until Minecraft closes).
+Upload Hoster
+The name of the hoster to upload screenshots to. Valid values are: imgur, DirectUpload
+Buffer Size
+[Advanced] Why would you even touch this option?
+Share Screenshot
+Key code to take a screenshot and share it in the current channel.
+Open Screenshot Archives
+Key code to open the screenshot archive.
+Toggle Chat Target
+Key code to switch between the current chat channel.
+Open DevotionIRC Menu
+Key code to open the DevotionIRC menu.
+Notification Sound
+Name of a sound known to Minecraft to play on notifications.
+Notification Volume
+Volume for the sound to play on notifications.
+Friend Joined
+0: none, 1: text, 2: sound, 3: text and sound
+Name Mentioned
+0: none, 1: text, 2: sound, 3: text and sound
+User Recording
+0: none, 1: text, 2: sound, 3: text and sound
+Private Message
+0: none, 1: text, 2: sound, 3: text and sound
+Enable Client Bridge
+[Experimental] If set to true, DevotionIRC will act like on a server and send chat messages to both Minecraft and IRC. May cause duplicate messages on servers with custom IRC nicks set up.
+Disable Chat Toggle
+Disables the chat toggle at the top left.
+No Chat Override
+[Advanced] Makes DevotionIRC not apply any changes to the Minecraft Chat GUI at all. Only use with DevotionIRC compatible chat-overriding mods!
+Show Welcome Screen
+If set to true, DevotionIRC will show the welcome screen with suggested channels when joining a world.
+Terminal Style Input
+Puts the target channel name right into the chat box.
+Enable Fancy Overlay
+Should join/leave messages be displayed on a separate, smaller overlay?
+Fancy Overlay Lifetime
+Time in ticks that messages should stay on the overlay.
+Fancy Overlay Scale
+How should the fancy overlay be scaled compared to the chat?
+Twitch Name Badges
+If enabled, Twitch users will have their subscriber, mod and caster badges in chat. Requires EiraMoticons.
+Always Show Subscriber Badges
+Should Twitch subscriber badges be visible for every user of a channel, despite their subscription state?
+Relay Death Messages
+If set to true, Minecraft death messages will be sent to this IRC context.
+Relay Minecraft Join/Leave
+If set to true, Minecraft join/leave messages will be sent to this IRC context.
+Relay IRC Join/Leave
+If set to true, IRC join/leave messages from this IRC context will be sent to Minecraft chat.
+Relay Nick Changes
+If set to true, IRC nick changes from this IRC context will be sent to Minecraft chat.
+Relay Achievements
+If set to true, Minecraft Achievement messages will be sent to this IRC context.
+Enable Link Filter
+If set to true, links from this IRC context will be replaced by <removed link>.
+Hide IRC Notices
+If set to true, NOTICE messages from this IRC context will only be printed in the console.
+Convert Color Codes
+If set to true, colors from this IRC context will be translated into Minecraft colors and vice-versa.
+Allow Private Messages
+If set to true, private messages can be sent and received from this IRC context.
+Allow CTCP Queries
+If set to true, CTCP queries from this IRC context will be allowed.
+Send Auto Who
+If set to true, users who join this IRC context will be sent a list of all online Minecraft players.
+Relay Broadcast Messages
+If set to true, Minecraft server broadcasts (/say) will be sent to this IRC context.
+Ident
+The ident for your IRC user. No effect in channels.
+Description
+The description for your IRC user. No effect in channels.
+Quit Message
+The message shown to others when you leave IRC.
+Message Format
+The name to the message format used to display chat messages. See /eirairc/formats/.
+Nick Format
+The format to put the nick in (previously nickPrefix and nickSuffix). %s will be replaced by the nick. No effect in channels. Example: %s-IG
+Enable InterOp
+Allows the usage of InterOp commands between Minecraft and IRC.
+InterOp Auth List
+The list of IRC auth usernames that may run InterOp commands from IRC.
+Disabled Native Commands
+The list of IRC commands (such as !who) that are disabled. Supports "*" for all.
+Disabled InterOp Commands
+The list of minecraft commands (such as /stop) that are disabled for InterOp.
+Auto Join
+If set to true, DevotionIRC will automatically join this server / channel on startup.
+List Users on Join
+If set to true, DevotionIRC will automatically print a list of all IRC users to the chat.
+Read Only
+If set to true, DevotionIRC will only read messages from IRC, but never send any to this IRC context.
+Muted
+If set to true, DevotionIRC will not show messages from this IRC context in chat at all.
+Show Name Flags
+Should names be prefixed with @ for OPs and + for voice?
+Sub Only (Twitch)
+Should only messages from Twitch subscribers be shown in Minecraft?
+Name Color (Minecraft)
+Color for default Minecraft names.
+Name Color (Minecraft OP)
+Color for operator Minecraft names.
+Name Color (IRC)
+Color for default IRC names.
+Name Color (IRC OP)
+Color for operator IRC names.
+Name Color (IRC Voice)
+Color for voiced IRC names.
+Name Color (IRC Private)
+Color for IRC names in private chat.
+Text Color (IRC Notice)
+Color for IRC NOTICE messages.
+Text Color (Emote)
+Color for emote messages.
+DevotionIRC
+Share Screenshot
+Recording Notification
+Livestream Notification
+Toggle Chat Target
+Open Screenshot Archive
+Open DevotionIRC Menu
+Channel Broadcaster
+Channel Moderator
+Channel Subscriber
+Twitch Turbo

@@ -1,0 +1,246 @@
+ID Card
+Frequency Installer
+Charge Detector
+Tablet
+Energy Cell Balancer
+Refrigerant
+Uranium
+Uranium Dust
+Californium
+Nuclear Fuel
+Power Suppressor
+Copper Ingot
+Heavy Ingot
+Copper Dust
+Copper Nugget
+Iron Dust
+Gold Dust
+Coal Dust
+Heavy Dust
+Power Crystal
+Power Crystal
+High Power Crystal
+High Power Crystal
+Extreme Power Crystal
+Extreme Power Crystal
+Small Capacitor
+Average Capacitor
+Big Capacitor
+Creative Capacitor
+Copper Coil
+Electric Transmitter
+Energy Cell
+Relay
+Path Searching Board
+Radiator
+Life Module
+Electrical Module
+Aggressive Module
+Strange Module
+Luck Module
+Teleport Module
+Plant Module
+Water Module
+Lava Module
+Security Module
+Wind Module
+Shield Module
+Lightning Module
+Organic Generator
+Kinetic Generator
+Solar Generator
+Electrostatic Generator
+Thermal Generator
+Miniature Nuclear Reactor
+Field visualizer
+Entity Analyzer
+Scanner
+Navigation module
+Antenna
+Case
+Copper Blank
+Copper Wires
+Electrical Board
+Electric Carver
+Iron Blank
+Iron Cylinder
+Iron Rod
+Processor
+Force Field Component
+Heavy Blank
+Heavy Plate
+Empty capsule
+Tough Iron Rod
+Reinforced Heavy Plate
+Basic Armor Core
+Advanced Armor Core
+Extreme Armor Core
+NI-01
+NI-05
+NI-10
+Injector
+Error
+Energy Multi Tool
+Energy Sword
+Energy Boots
+Energy Helmet
+Energy Leggings
+Energy Chestplate
+Heavy Boots
+Heavy Helmet
+Heavy Leggings
+Heavy Chestplate
+Energy Grenade
+Increases the throughput of machines
+Adds 100000 to the maximum RF
+Reduces voltage losses with increasing radius
+Add 5 to max radius
+Adds 5 to the max voltage or 100,000 to the max RF
+HP Regeneration and not only
+Will you test your luck?
+Very strange module
+This module can bite your finger
+The current is dangerous!
+Do you like plants?
+What could be better than teleports?
+Ooooh, this is lava!
+In my childhood I did not know how to swim, so I walked on water
+It will save you from overvoltage, probably
+Gas flows take me to the world of miracles
+Protection to the full!
+Very dangerous toy
+You assume that this cable conducts RF
+Generates an electric field
+Melts what melts
+Destroys what is destroyed
+Assemble any details
+Sawing wooden objects
+Converts the frequency of the field
+Generates energy from nothing. It's probably a joke
+Polluting the planet and producing electricity
+This block will eat all your lava
+The best block in mode! You can see for yourself
+Converts field back to RF
+Leads the charge of air to the ground
+Stores energy
+Emits red stone signal under certain conditions
+Allows the release of nuclear power
+Adds 1000 degrees to the maximum temperature
+A lot of food? Convert it into energy
+The movement is also a force
+Conventional miniature solar panels
+Get extra energy from the air
+Lava has a large internal energy. This module will take it under its control
+The newest invention
+When activated, the lightning hits all around, except for its owner
+Visualizes the connections of machines and the radius of the field
+Shows the characteristics of creatures
+Allows you to create markers
+Scans and projects the map into your brain
+Device for transfer of energy between capacitors
+Takes dangerous lightning strikes
+Part of the lightning rod
+Shows how much the environment is charged
+Power Crystal Ore
+High Power Crystal Ore
+Extreme Power Crystal Ore
+Uranium Ore
+Copper Ore
+Copper Block
+Heavy Block
+High-Voltage Generator
+High-Temperature Furnace
+High-Pressure Crusher
+High-Precision Assembler
+High-Automatic Sawmill
+Field Converter
+Field Transmitter
+Static Energy Generator
+Solid Fuel Generator
+Thermal Generator
+Earthing Electrode
+Energy Battery
+Charge Sensor
+Energy Cable
+Energy Shield
+Field Transducer
+Nuclear Reactor
+Nuclear Bomb
+Lightning Rod
+Metal Pillar
+Extreme Energy
+Extreme Energy
+Open implant interface
+Open radial menu
+Open armor settings
+No charge detected
+The detector behaves strangely
+Very low charge
+Low charge
+Enough charge
+A lot of charge
+Very very much charge
+[Extreme Energy]: You don't have implant
+[Extreme Energy]: You already have one implant
+[Extreme Energy]: You don't have modules in implant
+[Extreme Energy]: You don't have armor core in implant
+[Extreme Energy]: You don't have energy to do this action
+You feel how the ground jumps out from under your feet
+Your hair on the body is electrified
+A spark flashed between your hands
+You feel the air around you being electrified
+You got a charge of energy
+You got a strong discharge of electricity directly from the air
+An electrical charge began to flow through your clothes. You are shining
+The air began to lift you
+Oops ... It looks like a powerful field has knocked all the electrons out of your battery in the implant
+Press shift to show craft
+[Extreme Energy]: You did not enter a name for the marker
+[Extreme Energy]: Marker with this name already exists
+[Extreme Energy]: Incorrect coordinates
+[Extreme Energy]: Incorrect color
+Basics
+Blocks
+Items
+Environment
+Modules
+Equipment
+Explode Machines
+If true, all machines from overvoltage will explode
+Show Frequency Waila
+If true, frequency will show in waila tooltip
+PotionElectricShock ID
+Under what ID this potion will be registered
+Maximum chunk reserve
+Determines how much maximum RF can accommodate the chunk
+ParticleCustomPortal ID
+Under what ID this particle will be registered
+Maximum radius of teleportation
+Defines the maximum radius for teleportation by the field converter
+Nuclear explosion after reactor overheating
+Will there be a nuclear explosion when the nuclear reactor overheats
+Charged crystals
+Will the crystals be charged when they drop from the ore? If false, they will be stacked and will not cause damage to the player.
+Random chunk charge
+If true, then the charge of the chunk will be completely randomly generated, else it will be medium (standard false, so that there are no annoying lightning throughout the map)
+Number of blocks of red crystals in the cluster
+Chance of the spawning cluster of red crystal
+Maximum height of the red crystal cluster
+Minimum height of the red crystal cluster
+Number of blocks of copper in the cluster
+Chance of the spawning cluster of copper
+Maximum height of the copper cluster
+Minimum height of the copper cluster
+Number of blocks of red yellow in the cluster
+Chance of the spawning cluster of yellow crystal
+Maximum height of the yellow crystal cluster
+Minimum height of the yellow crystal cluster
+Is ore generation turn on in this mod
+Number of blocks of blue crystal in the cluster
+Chance of the spawning cluster of blue crystal
+Maximum height of the blue crystal cluster
+Minimum height of the blue crystal cluster
+Number of blocks of uranium in the cluster
+Chance of the spawning cluster of uranium
+Maximum height of the uranium cluster
+Minimum height of the uranium cluster

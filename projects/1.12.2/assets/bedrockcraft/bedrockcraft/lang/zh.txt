@@ -1,0 +1,98 @@
+Energy: %s / %s
+Apple Juice
+Notch Apple Juice
+Mixed Potion
+Profile: %s
+Bedrock-Alloy
+Bedrock Axe
+Bedrock Boots
+Bedrock Chestplate
+Bedrock Dust
+Bedrock Helmet
+Bedrock Hoe
+Bedrock Leggings
+Bedrock Pickaxe
+Bedrock Shovel
+Bedrock Sword
+Deeprock
+Failed Potion
+High Energy Crystal
+Origin Pearl
+Redrock
+BedrockCraft
+The Origin-Infuser is working. %s left for next pearl.
+IV
+V
+Invalid Redrock
+Wireless-Redstone id: %s
+Advanced Brewery
+Bedrock-Anvil
+Bedrock-Breaker
+High Energy Generator
+Origin-Infuser
+Redrock Receiver
+Redrock Sender
+Bedrock-Pumpkin
+The Bedrock would be too far away from the voidic powers
+Enderman Protection
+Bedrock Golem
+Bedrock Rose
+%s was killed by voidic powers creeping around.
+Ender-Rift
+Empty-Rift
+Contains %s of %s destructive energy
+Any Helmet
+Any Chestplate
+Any Leggings
+Any Boots
+Any Sword
+Any Axe
+Any Pickaxe
+Any Shovel
+Any Hoe
+The next bedrock is available in %s seconds
+The kiln is idle
+The kiln was built invalid
+Origin Fire
+Origin Flint and Steel
+Bedrock-Kiln
+Diorite-Pedestal
+Bedrock-Ritual
+It seems like there's a dimensional barrier between you and your destination
+Unbound Pearl
+Advanced Ender Pearl
+Void-Ore
+Void-Beacon
+Black Totem
+Void Ingot
+Bedrock-Materials
+Immortality Ring
+Void-Tool
+Shape: SWORD
+Shape: AXE
+Shape: PICKAXE
+Shape: SHOVEL
+Shape: HOE
+Modifier: DAMAGE
+Modifier: DIG AOE
+Modifier: SPEED
+Focus: ARROW
+Focus: LIGHTNING
+Focus: WITHER
+Toolsforge
+Material Cost: %s
+This beacon seems to have powers forbidden in this world...
+Origin Fragment
+Bedrock-Information
+Bedrock-Dust Infusion
+Unique Pair
+Place a bedrock above an activated beacon leaving a space of 1 block in between. Now bring the beacon into an explosion. Stand back, it's crushing with a big BOOM unless stabilized. (See Bedrock Rose)
+Place the Empty Rift on top of the Bedrock-Well in the End while the Ender-Dragon is still alive and no Ender-Crystals have been destroyed. It will then charge up.
+Right-Click a Void-Beacon in the overworld to get a GUI where you can produce powerful tools. You can put components, enchanted books and void ingots in to create a very unique tool.
+If you jump out of the world holding this strange totem, you can pass the void and discover a new world. IMPORTANT: Bring 12 ender-eyes because you'll need to find an end-portal in that world to leave it.
+Under the top bedrock layer there are many void ores. They can be mined with a diamon pickaxe but it'll take very long. The void beacons are found on top of huge bedrock pillars. They can also be mined with a diamon pickaxe.
+Place the breaker on top of a bedrock. Itll need a fairly big amount of energy to break the bedrock and drop on it's top.
+By building a structure with that block you may create bedrock without having to use the breaker all the time. But it'll end up in an explosion if not stabilized. (See Bedrock Rose)
+The generator takes ender-pearls and origin-pearls to create a huge amount of energy for one minute. But as it's not capable of saving that energy everything that is not used will disappear. It produces FE and EU (Insane Voltage)
+You can spawn a bedrock-golem. It's the only way to obtain some bedrock roses. But remember: You can only damage it with a bedrock pickaxe.
+Sometimes voidic power is released and things explode. You can stabilize that with four roses around the block and four ender-rifts on top. But if it's built wrong, BOOM. So be careful.

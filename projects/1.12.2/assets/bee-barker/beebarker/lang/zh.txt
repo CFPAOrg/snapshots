@@ -1,0 +1,17 @@
+Bee Barker
+Bee Charge
+Unlimited
+Easter Egg!
+%1$s was sautéed with a dog by %2$s
+%1$s was stung by a bee from %2$s
+Bee Consumption Chance
+Max Bee Charger
+Bee Damage
+Bee Count Per Shot
+Easter Egg
+Chance to add a bee charge to the bee barker.
+Maximum bees a bee barker can have.
+Damage of each bee
+Number of bees to fire whenever the bee barker barks.
+Enable the easter egg bee barker?
+Bee

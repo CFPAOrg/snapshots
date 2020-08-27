@@ -1,0 +1,44 @@
+Extra Alchemy
+Ashes used to draw an alchemy circle
+Not a very sharp dagger, only pierce your fingers. 
+In order not to waste blood, it is best to prepare a glass bottle to collect.
+%s committed suicide by cutting the wrist.  :p
+Coal Dust
+Small Dagger
+Bottle of Blood
+Bottle of Magic Air
+Alchemical Transmutation Round
+Alchemical Dissolvant
+Essence of Life
+Origin of Earth
+Origin of Air
+Origin of Water
+Origin of Fire
+Alchemical Circle
+Blood
+Alchemical Transmutation Array
+Alchemical Dissolvant
+You blood was steeped into it.
+Wait, it seems that not the air was put inside.
+Right click on ground to form transmutation array
+It's good for you to cut your wrist.
+Collect your blood to avoid waste.
+It's drinkable, trust me......
+Magic of air in the bottle.
+Use Shift+RightClick to switch mode.
+Mode: Stone [Need: 1]
+Mode: Cobblestone [Need: 1]
+Mode: Dirt [Need: 1]
+Mode: Sand [Need: 1]
+Mode: Throw a fire ball [Need: 1]
+Mode: Place down a lava source [Need: 8]
+Mode: Throw a water ball [Need: 1]
+Mode: Place down a water source [Need: 8]
+Mode: Throw an air blade [Need: 1]
+Mode: Float for a while [Need: 1]
+%s died in peace!
+%s dissolved by %s when researching����
+%s drank Alchemical Dissolvant��dissolved himself.
+Extra Alchemy
+Alchemical Transmutation
+Alchemical Dissolvant

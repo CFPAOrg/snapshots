@@ -1,0 +1,7 @@
+Fuel Crafter
+Tiny Compactor
+Crafts Fission Materials to Fission Fuels.
+Crafts Tiny Fission Materials to Big Fission Materials.
+NuclearCraft Helper
+Fuel Crafter
+Tiny Compactor

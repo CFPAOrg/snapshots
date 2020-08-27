@@ -1,0 +1,285 @@
+HUAJI
+HUAJI Age-Infinite Galaxy
+HUAJI Age-JOstack
+HUAJI Age-Vehicle
+HUAJI bomb
+HUAJI Ore
+HUAJI Star Block
+Airspace Star Block
+HUAJI Blender
+HUAJI Polyfurnace
+§eThe second to the foil
+HUAJI Fragment
+Expended View
+HUAJI Star
+HUAJI Ingot
+HUAJI Sword
+Star Sword
+Spicy Sword-§eH
+Neutron Star Fragment
+Airspace Star 
+Infinite Universe Star
+Fried Rice With Eggs
+Fried Ultimate Rice With Eggs
+§o§lMultiple superposition state HUAJI star
+§dArrow for Stand
+§bWave Crystal
+Wave Knife
+§lTrigger
+§8§lMaster §f§lBall
+§aBike Key
+§eVehicle Pack
+%s was dead of world line converge
+%s has been compressed into a PNG image
+%s become the stella in the sky
+%s feels good
+%s was killed by %s
+%s was been killed by Golden Experience Requiem
+%s was killed in a second
+%s was squeezed to a point
+%s was broken down by void
+%s was destroyed by wave
+§9Orga Requiem
+§eBurst
+§eWarning:§4The Burst Mode might cause an irretrivable situation,do not easily fire this bow with pulling fully!!!
+HUAJI Helmet
+HUAJI Chestplate
+HUAJI Leggings
+HUAJI Boots
+§eTHE ARROW
+Super Plugin Helmet
+Fake Ether 
+Ether Circumflux Board
+Redstone Druse
+§4Bow of the great hero
+§4Exglutenbur
+Flash Dough
+Raw Gluten
+Baking Gluten
+Orga's hair
+Orga's clothes
+Orga's pants
+Orga's boots
+Hope Element
+Hope Flower
+§bInfinite §8Armor Charm
+§eRunning Orga
+Orga's Hair Knife
+Multi Stacks Knife
+Shiny Stacks Knife
+§e§lDio Bread
+§eRoad Roller
+§8The Assassin's Black Car
+§4Unbroken STEEL Flag
+§4STEEL Flag
+STELL Logo
+§lLOOT STICK
+§3§lLord Core
+Fate Tarot 
+§oDisc  
+§lThe Singularity
+§eLord Key
+HUAJI
+Five-fold Power
+Hope Flower
+§eRequiem
+§eRequiem Target
+Orga Target
+§b§lStand Power
+HUAJI Age
+Switch
+Stand Up
+Stand Power
+Stand Mode Change
+Stand:
+Stage:
+Press %s to Stand up
+Press %s to use Skill
+Press %s to switch Stand mode
+Skill Cost:  §b§l%s
+Energy:
+Sheer Heart Attack
+STAND
+§ePush %s to change mode
+The method of unsealing(Press Shift to see more)
+Only the real stone(Lord Core) have the power to librete it
+This helmet seals Lord L' supreme power
+State:
+Active
+Sleep
+It is not ether ,it's just a swich 
+§4The concentrated etheric flow around the neutron star material that can absorb huge amount of energy
+Extremely low purity etheric particles,far from reaching the level of infinite protoliths
+§cThe Capacity List
+§6Strong EX:§rWith this,you can become stronger and faster,even free from the potion or wither effects
+§6Hawkeye A:§rYou can aways have a eye with night vision 
+§6Arrow Making A:§rDon't worry about the cusume of arrows
+§cPress Shift to see more
+§eNoble Phantasm:Stella!!!
+Requiem Owner
+§6Requiem Capabilities§7（Press Shift to see more）
+§6CapabilitiesI：Can't stop Orga：§3With the capabilitity of requiem,Orga can never reach the reality of death. 
+§6CapalititiesII：The Law of Cause and Effect Predestines Assassins：§3Any enemy who tries to attack Olga will receive double the damage dealt.
+§6CapalititiesIII：Requiem：§3Approaching the critical point of death, Olga will activate the ability of Requiem to hit enemies with an (invisible) Stand.
+§3The GioGio dessert workshop, owned by passion, an Italian chaebol, is said to have been created to commemorate the 30th anniversary of the death of its chairman's father§b(hold Shift to see more)
+§6The bread is basically in short supply.However, some people reported that the bread had been added with a large number of additives, on the grounds that it would not decompose or break if it was soaked in water for several weeks, just like time stands still.Another source said that several people were so excited after using the bread that they even said "wryyyyyyy!" from time to time."Or" Weak!Weak!","Useless!Useless!Useless"Words of unknown meaning.One witness said the neighbor went into a frenzy after eating the food and even smashed a road roller.At present, the local police have carried out a detailed investigation of the food, nothing unusual, police officer abbacchio reminded the public not to believe rumors, spread rumors, do not let the rumors affect the normal social order
+§6It is the aggregate of Lord.Lu's great power
+Stand Name:
+Stage:
+Model：
+Author：
+Stand:
+Stage:
+Model:
+Author:
+Warning !!!You must prepare your beat equipment to protect yourself,once you died before the end of the effect, you will regret to make this!
+The mysterious key handed down from ancient times is said to further liberate the supreme power of the terror of §e§lLord Lu§7 in the §3§lLord Core
+Wave - §9%s
+Capacity - §b%s
+Charge Hit - §e%s
+§9Wave - §b%s
+Reset Time - §b%ss
+Hit Charge - §e%s
+The Orga leader's sharp, blade-shaped bangs are full of the element of hope (for throwing use, the lower the hit, the higher the damage, and the mark can be attached during the execution of the Requiem).
+You think I'm a yin-yang Orb ? Ko no Master Ball da!§b(Press shift to see more)
+§eServant:%s
+§eMaster:%s
+Empty
+I'm just a key for bike
+Store:
+§b To celebrate! The birth of the most powerful king of Mars---Orga Izka
+§lFrom now on it's called %s §lSquare！
+Oh,pretty shot.
+§bKeep going now!Rider!
+§2Colonel, what are you doing? Colonel!
+§4The way is open. Keep going!§lRide On！
+§6§lAll useless!Ride On！
+§6(BGM)
+%s is plug-in
+Maybe ether is the key?
+§eThe World!!! Time Stop !
+§5§lStar Platinum-§b§lThe World!!!
+Stacks:
+[{"text":"[ HUAJI Age II]:","color":"yellow","bold":true},{"text":"In order to get the best game experience please INSTILL ","color":"aqua","bold":false},{"text":"Patchouli Mod","color":"green","underlined":true,"bold":true,"clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/mc-mods/patchouli"},"hoverEvent":{"action":"show_text","value":"https://www.curseforge.com/minecraft/mc-mods/patchouli"}},{"text":"to elicit the HUAJI Tutorial","color":"aqua","bold":false}]
+ is stored
+You may already have a STAND , if you want to change it , please find a empty tarot card to unload it.  
+§eYour points for stand skill is not enough
+§eYour points for stand up is not enough
+§eIt's is the Fate,for everyone
+§bIf you found that your STAND lost when you travel to a dimension.Don't worry!Just log out and log in again,the problem is solved.
+Your Stand attack yourself---you have a bad luck
+Your Stand :
+§6Crisp
+§4Spicy
+§lLime
+§8§lIt's awesome!!
+§l%s has freed the supreme power of §e§lLord Lu§7§l, walking through the void, like terror!
+§eYour points for fire the bomb is not enough
+§eMode:%s
+§eThis stand hasn't other mode
+You are not the owner of this master ball
+This master ball is empty
+Capture successful! -§e%s
+§eQuestion, are you my Master?
+§eLet's go!
+§eFight with me, my master!
+§eUndead!Infinity!Ah-ha-ha-ha-ha~ Stand Power!!!
+§eUh-ha-ha-ha-ha-ha~
+§eI won't pass the game level! lady!
+§eAh ~ Marisa ~
+Process
+Fuel Point
+Item Pool
+Energy
+Point-%s
+Require-%s
+§eHuaji Age Settings
+The Terrain destruction of the big explosion created by the big hero's bow
+Can THE WORLD stop the time of players?
+The flight height of the multi knife
+Dose The Infinite Charm Change mode when dress Orga suit?
+STAND Settings
+Stand Tip
+Need the moving sound for you stand?
+Stand HUD -x
+Stand HUD -y
+Stand Lost Notice
+Punish for stand users(Out of Time)
+The possibility of Stand weak up fail 
+Noise mask in time stop
+Gears effects for time stop
+The icon display in time stop
+The fog in the time stop(do not recommend if your GPU is not supported)
+Use HUAJI particle to replace the emerald splash
+Use Hope Flower BGM
+The fog density in time stop(Need the fog Open)
+Glow the player which let stand idle
+The swing speed of maid
+The swing amount of maid
+Empty
+Default
+§e§lThe World
+§5§lStar Platinum
+§a§lHierophant Green
+§4§lOrga Requiem
+§d§lKiller §f§lQueen
+§c§lM§f§la§c§li§f§ld
+Default
+Idle
+Punch
+Protect
+Fly
+§e§lThe World!!!
+§5§lStar Platinum!The World!!! 
+§a§lTake that! Emerald splash with a radius of 20 meters!!!
+§4§lDon't stop!The infinite looped reality of the street!
+§e§lLooking at me!
+\(>￣▽￣<)/
+§e§lHUAJI§6Book
+HUAJI,means comical or funny things,is making up awkwardly or funnily for hilarious festivals. In this universe, there is a peculiar thing named HUAJI, which is ubiquitous and constitutes thousands of things. It is said that holding the funny starlight power can obtain the supreme power of the legendary HUAJI ancestor.
+Bike Wheel
+Ding Ding~
+Default
+Bike
+Bike
+A Bike
+§4What...... I'm a pretty good marksman
+§2Head of... ah
+§4Why are you making that noise, Ride on
+§2Because... Because...
+§4I'm Orga Izka, head of the iron Chinese regiment. A few bullets won't hurt
+§2How, for someone like me...
+§4It's my job to protect the members
+§2But...
+§4That's it! You guys go! Everyone in the... Waiting for you... And, Augustus, it dawned on me that we didn't need a final resting place. We just needed to keep moving forward. As long as it does not stop, the road will continue to extend
+(memory)
+§9I won't forgive you if you apologize
+§4Yeah, I understand
+(BGM:Hope Flower)
+ §4Because I will not stop, as long as you do not stop, there must be me in front
+(World Famous Painting)
+§4So, don't stop...
+§9Orga?
+(woman sings, man dies)
+(group photo)
+(hat)
+  |
+  n
+mm
+|  n
+█    ､⺍
+█|   ⺰ʷʷｨ
+█◣▄██◣
+◥█████▋◣
+  ◥████ █▎
+    ███  █▎
+  ◢████◣ oₘ℩
+    ██◥█◣ \≫
+    ██  ◥█◣
+    █▉    █▊
+    █▊    █▊
+    █▊    █▋
+     █|    █▙
+     █|
+§9Warning!!Two-dimensional strike detected!
+§eNice!

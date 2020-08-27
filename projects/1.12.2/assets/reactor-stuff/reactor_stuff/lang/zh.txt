@@ -1,0 +1,98 @@
+Uranium Ingot
+Uranium Dust
+Thorium Ingot
+Thorium Dust
+Crushed Thorium Ore
+Purified Crushed Thorium Ore
+Emerald Dust
+Beryllium Dust
+Elerium Crystal
+Elerium
+Thermocouple
+Blazonium Crystal
+Terminium Dust
+Terminium Ingot
+Crushed Terminium Ore
+Purified Crushed Terminium Ore
+Obsidian Stick
+Thorium 232
+Tiny Pile of Thorium 232
+Uranium 233
+Tiny Pile of Uranium 233
+Thorium Nuclear Fuel
+Americium
+Tiny Pile of Americium
+Pellet of AmBe Neutron Source
+Depleted Isotope Fuel
+TRIGA Nuclear Fuel
+Tiny Pile of Lawrencium
+Lawrencium
+Terminium 252
+Tiny Pile of Terminium 252
+Terminium 254
+Tiny Pile of Terminium 254
+Californium
+Tiny Pile of Californium
+Terminium Nuclear Fuel
+Tiny Pile of Blazonium
+Blazonium Nuclear Fuel
+Pellet of CfBe Neutron Source
+Fuel Rod (Thorium)
+Dual Fuel Rod (Thorium)
+Quad Fuel Rod (Thorium)
+Fuel Rod (AmBe Neutron Source)
+Fuel Rod (Depleted Isotope)
+Dual Fuel Rod (Depleted Isotope)
+Quad Fuel Rod (Depleted Isotope)
+Fuel Rod (TRIGA)
+Dual Fuel Rod (TRIGA)
+Quad Fuel Rod (TRIGA)
+Fuel Rod (Elerium)
+Dual Fuel Rod (Elerium)
+Quad Fuel Rod (Elerium)
+Fuel Rod (Terminium)
+Dual Fuel Rod (Terminium)
+Quad Fuel Rod (Terminium)
+Fuel Rod (Blazonium)
+Dual Fuel Rod (Blazonium)
+Quad Fuel Rod (Blazonium)
+Fuel Rod (CfBe Neutron Source)
+Fuel Rod (Depleted Thorium)
+Dual Fuel Rod (Depleted Thorium)
+Quad Fuel Rod (Depleted Thorium)
+Fuel Rod (Bred Uranium)
+Dual Fuel Rod (Bred Uranium)
+Quad Fuel Rod (Bred Uranium)
+Fuel Rod (Depleted TRIGA)
+Dual Fuel Rod (Depleted TRIGA)
+Quad Fuel Rod (Depleted TRIGA)
+Fuel Rod (Depleted Elerium)
+Dual Fuel Rod (Depleted Elerium)
+Quad Fuel Rod (Depleted Elerium)
+Fuel Rod (Depleted Terminium)
+Dual Fuel Rod (Depleted Terminium)
+Quad Fuel Rod (Depleted Terminium)
+Fuel Rod (Depleted Blazonium)
+Dual Fuel Rod (Depleted Blazonium)
+Quad Fuel Rod (Depleted Blazonium)
+Mjolnir
+Terminium Pickaxe
+Terminium Shovel
+Terminium Axe
+Terminium Sword
+Terminium Hoe
+Blazonium Pickaxe
+Blazonium Shovel
+Blazonium Axe
+Blazonium Sword
+Blazonium Hoe
+Uranium Ore
+Thorium Ore
+Elerium Ore
+Terminium Ore
+Blazonium Ore
+Radioisotope Thermoelectric Generator (Empty)
+Radioisotope Thermoelectric Generator (Plutonium)
+Radioisotope Thermoelectric Generator (Americium)
+Radioisotope Thermoelectric Generator (Lawrencium)
+Radioisotope Thermoelectric Generator (Californium)

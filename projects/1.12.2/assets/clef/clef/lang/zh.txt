@@ -1,0 +1,53 @@
+Instruments
+Unknown Instrument
+Instrument Player
+Pack Name
+Item Name
+One Handed
+Two Handed
+You can get more songs online in abc format
+Choose a song
+Play
+Band Name
+Play Solo
+Reload:
+Sync Play Time
+Sync Track
+Instruments
+Tracks
+Playlist
+Add
+View
+View All
+Repeat
+All
+None
+One
+Shuffle
+Creatable Instruments
+Favorite Band
+Show File Title
+One Handed Two-Handed Instruments
+Zombies Can Use Instruments
+Disabled Instruments
+Instrument Volume
+Zombie Instrument Spawn Chance
+Mob Drop Rate
+Only Hostile Mob Drops
+Instrument Loot Spawn Weight
+Disabled Loot Chests
+Show Record Playing Message For Song
+Max Client Tick Time
+Do you have a favourite band? Setting this will always set your band when you start playing a song.
+Some abc file have titles but aren't set properly. This will make the list show file names instead.
+Allow players to use instruments that normally require two hands, with one hand?
+Can zombies use instruments?
+Disabled instruments by their item name.
+Volume of the instruments, divided by 100.
+Chance of the zombies to spawn with an instrument, divided by 10000. 0 to disable
+Chance for mobs to drop an instrument, divided by 10000. 0 to disable. Affected by looting level.
+Only allow hostile mobs to drop instruments when they die.
+Weightage for the spawn chance of instruments in loot chests. Set to 0 to disable.
+Loot tables for chests that will be disabled. EG: minecraft:chests/stronghold_corridor
+Should we show a message of "Now Playing" for songs, similarly to records.
+The time clef will wait when the game is frozen until it tries to restart the sound system to resolve a possible hang\nThis is an additional detection, clef has second method of detecting sound system freezes, but it does not work every time\nSet zero to disable

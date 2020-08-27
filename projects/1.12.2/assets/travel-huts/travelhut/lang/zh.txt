@@ -1,0 +1,6 @@
+TravelHuts Configuration
+Travel Hut Portal
+Travel Hut Glass
+/regenHut (need to be near a valid spawn location)
+Console use is not supported
+Not near a valid location

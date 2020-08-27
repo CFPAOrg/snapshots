@@ -1,0 +1,16 @@
+%1$s was hit by a torch from %2$s
+%1$s hit himself with a torch
+%1$s was hit by a randomly falling torch
+%2$s rained fire on %1$s
+%1$s rained fire on himself
+%2$s shot a rocket propelled torch at %1$s
+%1$s hit himself with a rocket propelled torch
+%1$s was hit by a rocket propelled torch
+Torch Gun
+Torch Rocket
+Rocket Propelled Torch
+RPT Launcher
+Torch Entity
+Torch Firework
+RPT Launcher firing
+Torch gun firing

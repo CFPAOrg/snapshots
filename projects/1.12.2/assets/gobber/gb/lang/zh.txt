@@ -1,0 +1,213 @@
+Gobber
+Gobber Ore
+Gobber Ore
+Nether Gobber Ore
+Nether Gobber Ore
+End Gobber Ore
+End Gobber Ore
+Glob Plant
+Glob Plant
+Nether Glob Plant
+Nether Glob Plant
+End Glob Plant
+End Glob Plant
+Glob Seeds
+Nether Glob Seeds
+End Glob Seeds
+Glob
+Glob Block
+Glob Block
+Globot
+Raw Globot
+Globette
+Nether Globette
+End Globette
+Globot Rod
+Block of Globot
+Block of Globot
+Nether Glob
+Nether Glob Block
+Nether Glob Block
+Raw Nether Globot
+Nether Globot
+Block of Nether Globot
+Block of Nether Globot
+Nether Globot Rod
+End Glob
+End Glob Block
+End Glob Block
+Raw End Globot
+End Globot
+Block of End Globot
+Block of End Globot
+End Globot Rod
+Glob Plank
+Glob Plank
+Glob Log
+Glob Log
+Glob Leaves
+Glob Leaves
+Nether Glob Log
+Nether Glob Log
+Nether Glob Plank
+Nether Glob Plank
+End Glob Log
+End Glob Log
+End Glob Plank
+End Glob Plank
+End Glob Glass
+End Glob Glass
+Nether Glob Glass
+Nether Glob Glass
+Glob Glass
+Glob Glass
+Goo
+Gooey Apple
+Gooey Bread
+Gooey Pie
+Gooey Cookie
+Gooey Chicken
+Gooey Beef
+Gooey Mutton
+Gooey Fish
+Gooey Pork
+Gooey Rabbit
+Goop
+Gooey Glob Veggie Stew
+Gooey Glob Beef Stew
+Gooey Glob Pork Stew
+Gooey Glob Chicken Stew
+Gooey Glob Mutton Stew
+Gooey Glob Rabbit Stew
+Gooey Glob Fish Stew
+Foo
+Nether Foo
+End Foo
+Garmor Helmet
+Garmor Chestplate
+Garmor Pants
+Garmor Boots
+Nether Garmor Helmet
+Nether Garmor Chestplate
+Nether Garmor Pants
+Nether Garmor Boots
+End Garmor Helmet
+End Garmor Chestplate
+End Garmor Pants
+End Garmor Boots
+Garmor Repair Plate
+End Globot Links
+Glopper 
+Gigger    
+Govel      
+Gaxe        
+Goe       
+Gow
+Ghears
+Gaxel
+Gammer
+Nether Glopper
+Nether Gigger
+Nether Gaxe
+Nether Govel
+Nether Goe
+Nether Gow
+Nether Ghears
+Nether Gaxel
+Nether Gammer
+End Glopper
+End Gow
+End Gigger
+End Gaxe
+End Govel
+End Gaxel
+End Gammer
+End Goe
+End Ghears
+Globot Medallion
+Nether Globot Medallion
+End Globot Medallion
+Medallion of Robustness
+Medallion of Silk Touch
+Gaff of the Blaze
+Gaff of the Wither
+Gaff of the Dragon
+Gaff of Ensnarement
+Gaff of Gathering
+Gaff of Slaughtering
+Gaff of Clearing
+Gaff of the Star
+Gaff of the Sniper
+Gring Core
+Gring of the Clouds
+Gring of the Rocket
+Gring of Shielding
+Gring of Attraction
+Gring of Stowage
+Gring of Ontogenesis
+Gring of Blink
+Gring of Breeding
+Gring of Leaping
+Gring of Aridity
+Gring of Absolution
+Gring of the Void
+Gring of Arboreal Destruction
+Gring of Sedimentary Destruction
+Gring of Return
+Gring of Elimination
+Gring of Grinding
+Gring of Acceleration
+Gring of the Traveler
+Gring of Enchantment
+Gring of Stealth
+Gring of Breathing
+Gring of Dismissal
+Gring of the Scotopic
+Gring of Antidote
+Gring of Prosperity
+Gring of Briskness
+Gring of Monster Paralysis
+Gring of Swiftness
+Gring of Abatement
+Gring of the Llama
+Nether Gring Core
+Gring of Extinguishment
+Gring of Air Walking
+Gring of Cooling
+Gring of the Phoenix
+Gring of Invigoration
+Gring of Vitality
+End Gring Core
+Gring of Immunity
+Gring of Dexterity
+Gring of StoutHeartedness
+Gring of Confusion
+Gring of Teleportation
+Gring of Deflection
+Gring of Restoration
+Gring of Animal Paralysis
+Glucky Block
+Glucky Block
+Deco Glucky Block
+Deco Glucky Block
+The Repulsor
+The Repulsor
+The Eliminator
+The Eliminator
+The Tormentor
+The Tormentor
+The Converter
+The Converter
+The Imparter
+The Imparter
+The Confuser
+The Confuser
+The Looter
+The Looter
+The Aegis
+The Aegis
+The Eradicator
+The Eradicator
+The Paralyzer
+The Paralyzer
+Fresh Skull

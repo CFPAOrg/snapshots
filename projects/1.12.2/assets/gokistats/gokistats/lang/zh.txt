@@ -1,0 +1,62 @@
+Mining Proficiency
+Digging Proficiency
+Chopping Proficiency
+Trimming Proficiency
+Protection
+Tempering
+Tough Skin
+Feather Fall
+LeaperH
+LeaperV
+Athleticism
+Climbing
+Pugilism
+Swordsmanship
+Bowmanship
+Reaper
+Treasure Finder
+Furnace Finesse
+Steady Guard
+Stealth
+Mining Magician
+Roll
+Additional Health
+Mine %f%% faster.
+Dig %f%% faster.
+Chop %f%% faster.
+Trim %f%% faster.
+Take %f%% less damage from most enemy attacks.
+Take %f%% less damage from fire and lava.
+Take %f%% less damage from explosions.
+Take %1$f%% less damage from falling more than %2$f blocks;
+Jump %f%% farther when sprinting.
+Jump %f%% higher when sprinting.
+Swim %f%% faster.
+I do nothing when Player API is loaded!
+Climb %f%% faster.
+I do nothing when Player API is loaded!
+Deal %f%% more damage with your tree punchers.
+Deal %f%% more damage with swords.
+Deal %f%% more damage with a bow.
+%1$f%% chance to instantly kill enemies with less than %2$f health;
+Chance to find additional items when harvesting blocks.
+Chance to find more rare additional items when harvesting blocks.
+Smelt %1$f ticks faster %2$f%% of the time while using a furnace.
+%f%% less knockback when blocking.
+Move %1$f%% faster and reap %2$f%%more often (%3$f%%) when sneaking.;
+Chance to find additional materials when harvesting ores.
+%f%% chance to avoid damage and counterattack enemy.
+Get %f more health.
+*Avoided*
+*Knockback*
+Cost  
+Return  
+Max!
+Current xp: 
+Open Stats Menu
+Open Stats Compatibility Helper
+Click to upgrade, or Ctrl+Click to downgrade
+Click to downgrade
+Downgraded levels: %d/%s
+Infinite
+You cannot downgrade anymore!

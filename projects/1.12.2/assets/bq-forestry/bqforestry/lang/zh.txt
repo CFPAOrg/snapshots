@@ -1,0 +1,57 @@
+Bee Retrieval Task
+Key Code Task
+Edit Bee Retrieval Tasks
+Edit Bee Retrieval Task
+Edit Bee Retrieval Task
+Bee Retrieval Item #
+Bee Growth Stage
+Species
+Lifespans
+Production Rates
+Pollination Speeds
+Fertility Rates
+Territory Sizes
+Area Effects
+Climate Tolerances
+Humidity Tolerances
+Works at Night
+Works in Rain
+Works Underground
+Suitable Flowers
+Keycode:
+WARNING! This operation CANNOT be undone! Are you sure you wish to delete task item #%s?
+Deletes this entry from the task list.
+WARNING! This change is irreversible!
+Adds a new item to the left of the selected item in the task list.
+Adds a new item to the right of the selected item in the task list.
+Confirm
+Consume: %s
+Auto Consume: %s
+Only Mated: %s
+Case Sensitive: %s
+Whether the items will be deleted for quest completion
+Whether the items will be automatically consumed. Requires consume to be enabled.
+Whether this task should only accept mated bees
+Case sensitivity means that capital and lower case letters cannot be interchanged without effecting the result
+Is Mated
+This command can only be issued by a player in-game.
+Invalid argument! Please check this command's usage or press "tab" while holding a Bee!
+Please hold a properly formatted %s before using this command!
+Trait "%s"
+ copied to the clipboard
+Bee Type
+Scrollspeed
+Autoconsume
+Consume
+Onlymated
+Output Alleles
+Versioning
+Command Auto-Copy
+The default selected bee type when adding a new task
+How quickly scrollbars on BQForestry GUIs move
+The default autoconsume value when adding a new task
+The default consume value when adding a new task
+The default onlymated value when adding a new task
+Whether to list all bee chromosomes to the log on startup. Helpful if you need the list for copy/paste.
+DO NOT CHANGE!
+Whether commands should automatically copy their outputs to the clipboard.

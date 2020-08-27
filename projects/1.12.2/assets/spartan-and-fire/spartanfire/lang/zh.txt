@@ -1,0 +1,40 @@
+%s Ingot
+%s Dagger
+%s Parrying Dagger
+%s Longsword
+%s Katana
+%s Saber
+%s Rapier
+%s Greatsword
+%s Hammer
+%s Warhammer
+%s Spear
+%s Halberd
+%s Pike
+%s Lance
+%s-Strengthened Longbow
+%s-Strengthened Crossbow
+%s Throwing Knife
+%s Throwing Axe
+%s Javelin
+Witherbone Handle
+Witherbone Pole
+%s Glaive
+%s Quarterstaff
+Ignites and knocks back targets, deals extra damage to ice dragons
+Slows and knocks back targets, deals extra damage to fire dragons
++4 damage against non-arthropods and deathworms
++4 damage against non-arthropods and deathworms
+Poisons on hit
+Poisons on hit
+Ignites and knocks back targets
+Slows and knocks back targets
+Dragonbone
+Flamed Dragonbone
+Iced Dragonbone
+Desert Myrmex
+Jungle Myrmex
+Desert Myrmex Stinger
+Jungle Myrmex Stinger
+Ice Dragonsteel
+Fire Dragonsteel

@@ -1,0 +1,128 @@
+Golden Ring
+Diamond Ring
+Golden Amulet
+Diamond Amulet
+Leather Sash
+Fireball Scroll
+Frostbite Scroll
+Minor Ethereal Scroll
+Firestorm Scroll
+Blizzard Scroll
+Discharge Scroll
+Major Ethereal Scroll
+Invisibility Scroll
+Void Scroll
+Corrupted Tower Key
+Wood Dagger
+Wood Mace
+Stone Dagger
+Stone Mace
+Gold Dagger
+Gold Mace
+Iron Dagger
+Iron Mace
+Diamond Dagger
+Diamond Mace
+Divine Rapier
+Requiem
+Shadowfall
+Doomshadow
+Golden Pummel
+Excalibur Rapier
+Alakaslam
+Annihilation
+Golden Bow
+Iron Bow
+Diamond Bow
+Wooden Wand
+Golden Wand
+Diamond Wand
+Wooden Staff
+Golden Staff
+Diamond Staff
+Blazefury
+Moonlit Rod
+Epilogue
+Gaze of Truth
+Visage of Wizardry
+Class Selection
+Select a class to play as. Hover over each button for more information.
+Abilities
+Warrior
+The Warrior is a very versatile class which primarily specializes in heavy weaponry and armor. Warriors are typically fairly tanky, but some Warriors could deal a decent amount of damage.
+Mage
+The Mage is the ultimate magical character which specializes in anything magical and typically lighter armor. Mages are very good damage dealers and boast an assortment of spells and other magical items to use.
+Hunter
+The Hunter is a fairly sneaky, powerful character which specializes in quick attack and speed to take out enemies. Hunters are very good with bows too, giving them solid options as melee or ranged characters.
+Player Information
+Class
+Warrior
+Mage
+Hunter
+Level
+Experience
+Skill Points
+Stats
+Strength
+Strength increases your physical strength, increasing melee damage and damage resistance.
+Agility
+Agility increases your movement speed and attack speed.
+Dexterity
+Dexterity increases your critical chance and critical damage, as well as increasing ranged damage.
+Intelligence
+Intelligence increases your magical power for both weapons and items.
+Wisdom
+Wisdom increases your mana as well as boosts mana regeneration.
+Fortitude
+Fortitude increases your health as well as boosts health regeneration.
+Bonuses
+Melee Power
+Ranged Power
+Magical Power
+Attack Speed
+Armor
+Toughness
+Critical Chance
+Critical Damage
+Health
+HP5
+Mana
+MP5
+Dungeon Brick
+Boss Door
+Common Chest
+Uncommon Chest
+Rare Chest
+Epic Chest
+Legendary Loot Chest
+Common Jar
+Uncommon Jar
+Rare Jar
+Epic Jar
+Legendary Jar
+Common Barrel
+Uncommon Barrel
+Rare Barrel
+Epic Barrel
+Legendary Barrel
+Common Crate
+Uncommon Crate
+Rare Crate
+Epic Crate
+Legendary Crate
+Barbarian
+Ghost
+Mummy
+Spectral Knight
+Bandit
+Banshee
+Golem
+Corrupted Knight
+%1$s was frozen solid.
+%1$s was frozen solid by %2$s. Unfortunately, %1$s wasn't thawed out in time.
+%1$s was disintegrated by a stray lightning bolt.
+%1$s was blasted with lightning bolts by %2$s.
+%1$s might have eaten something bad for lunch...
+%2$s poisoned %1$s's lunch! %1$s didn't quite make it.
+Loot Slash Conquer
+Loot Slash Conquer - Development

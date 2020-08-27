@@ -1,0 +1,157 @@
+DanmakuCore
+Danmaku
+Spellcard
+Danmaku
+Danmaku item
+Spellcard
+%s was killed with danmaku by %s
+%s was killed with danmaku by %s using %s
+Spellcard: Human Sword "Delusion of Enlightenment"
+Human Sword "Delusion of Enlightenment"
+Lv.
+Spellcard
+User
+Invincibility Time
+Duration
+Marisa Kirisame
+Youmu Konpaku
+Damage
+Size
+Amount
+Type
+Shape
+Pattern
+Speed
+Gravity
+Edge Color
+Core Color
+Delay
+End
+Special
+Infinity
+Custom
+None
+Medium Danmaku
+Tiny Danmaku
+Small Danmaku
+Circle Danmaku
+Scale Danmaku
+Small Star Danmaku
+Star Danmaku
+Rice Danmaku
+Pointed Crystal Danmaku
+Blunt Crystal Danmaku
+Kunai Danmaku
+Oval Danmaku
+Pointed Laser Danmaku
+Short Pointed Laser Danmaku
+Long Pointed Laser Danmaku
+Pellet Danmaku
+Dark Sphere Danmaku
+Fire Danmaku
+Laser Danmaku
+Heart Danmaku
+Single Note Danmaku
+Bubble Danmaku
+Normal Shape
+Circle Shape
+Scale Shape
+Star Shape
+Rice Shape
+Pointed Crystal Shape
+Blunt Crystal Shape
+Kunai Shape
+Laser Shape
+Pellet Shape
+Dark Sphere Shape
+Fire Shape
+Pointed Sphere Shape
+Heart Shape
+Single Note Shape
+Bubble Shape
+Medium Danmaku
+Tiny Danmaku
+Small Danmaku
+Circle Danmaku
+Scale Danmaku
+Small Star Danmaku
+Star Danmaku
+Rice Danmaku
+Pointed Crystal Danmaku
+Blunt Crystal Danmaku
+Kunai Danmaku
+Oval Danmaku
+Pointed Laser Danmaku
+Short Pointed Laser Danmaku
+Long Pointed Laser Danmaku
+Pellet Danmaku
+Dark Sphere Danmaku
+Fire Danmaku
+Laser Danmaku
+Heart Danmaku
+Single Note Danmaku
+Bubble Danmaku
+Custom Normal Danmaku
+Custom Circle Danmaku
+Custom Scale Danmaku
+Custom Star Danmaku
+Custom Rice Danmaku
+Custom Pointed Crystal Danmaku
+Custom Blunt Crystal Danmaku
+Custom Kunai Danmaku
+Custom Laser Danmaku
+Custom Pellet Danmaku
+Custom Dark Sphere Danmaku
+Custom Fire Danmaku
+Custom Pointed Sphere Danmaku
+Custom Heart Danmaku
+Custom Single Note Danmaku
+Custom Bubble Danmaku
+Strong Red
+Strong Blue
+Strong Green
+Strong Yellow
+Strong Magenta
+Strong Cyan
+Strong Orange
+Orange
+Magenta
+Light Blue
+Yellow
+Lime
+Pink
+Gray
+Silver
+Cyan
+Purple
+Blue
+Brown
+Green
+Red
+Black
+Line Shot
+Random Ring Shot
+Wide Shot
+Circle Shot
+Ring Shot
+Sphere Shot
+No Special
+Fire
+Explosion
+Teleport
+Danmaku explosion
+Rainbow
+Shifting Rainbow
+White
+White
+Black
+Custom color
+/danmakucore <bombs|lives|power> <amount>
+/danmakucore bombs <amount>
+/danmakucore lives <amount>
+/danmakucore power <amount>
+/danmakucore score <amount>
+Set bombs to %d for %s
+Set lives to %d for %s
+Set power to %d for %s
+Set score to %d for %s

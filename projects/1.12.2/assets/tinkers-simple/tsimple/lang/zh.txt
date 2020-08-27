@@ -1,0 +1,55 @@
+Obsidian Sword
+Obsidian Axe
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Hoe
+Pig Iron Pickaxe
+Pig Iron Sword
+Pig Iron Axe
+Pig Iron Shovel
+Pig Iron Hoe
+Cobalt Pickaxe
+Cobalt Sword
+Cobalt Axe
+Cobalt Shovel
+Cobalt Hoe
+Ardite Pickaxe
+Ardite Sword
+Ardite Axe
+Ardite Shovel
+Ardite Hoe
+Manyullyn Pickaxe
+Manyullyn Sword
+Manyullyn Axe
+Manyullyn Shovel
+Manyullyn Hoe
+Knightslime Pickaxe
+Knightslime Sword
+Knightslime Axe
+Knightslime Shovel
+Knightslime Hoe
+Endstuff
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Pig Iron Helmet
+Pig Iron Chestplate
+Pig Iron Leggings
+Pig Iron Boots
+Cobalt Helmet
+Cobalt Chestplate
+Cobalt Leggings
+Cobalt Boots
+Ardite Helmet
+Ardite Chestplate
+Ardite Leggings
+Ardite Boots
+Manyullyn Helmet
+Manyullyn Chestplate
+Manyullyn Leggings
+Manyullyn Boots
+Knightslime Helmet
+Knightslime Chestplate
+Knightslime Leggings
+Knightslime Boots

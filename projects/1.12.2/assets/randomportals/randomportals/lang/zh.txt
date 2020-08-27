@@ -1,0 +1,83 @@
+Client
+Options related to features that only work client-side.
+Portals creative tab
+/rporeloadclient
+End Portals
+Options related to End portals.
+Enabled
+Frame head villager spawn chance
+Right click villagers to convert to frame heads
+Miscellaneous
+Options that don't fit into any other categories.
+Add End gateway item
+Advancements
+/rporeload
+Nether Portals
+Options related tos and custom portal types.
+All entities can cause portal generation
+Colored portals
+Consume dyes even if they are an invalid color
+Consume dyes even if they are the same color
+Dyeable portals
+Dyeable single portal blocks
+Enabled
+Force create vanilla type
+Persistent receiving portals
+Portals contribute to beacon colors
+Portal generation location search radius
+Portal search radius
+Replace user placed portals on activation
+Server-sided ambient sounds
+Portals
+Lateral End Portal Frame
+Lateral End Portal
+Vertical End Portal Frame
+Vertical End Portal
+Upside Down End Portal Frame
+Upside Down End Portal
+End Gateway
+Vertical Portal
+White Vertical Portal
+Orange Vertical Portal
+Magenta Vertical Portal
+Light Blue Vertical Portal
+Yellow Vertical Portal
+Lime Vertical Portal
+Pink Vertical Portal
+Gray Vertical Portal
+Silver Vertical Portal
+Cyan Vertical Portal
+Purple Vertical Portal
+Blue Vertical Portal
+Brown Vertical Portal
+Green Vertical Portal
+Red Vertical Portal
+Black Vertical Portal
+Lateral Portal
+White Lateral Portal
+Orange Lateral Portal
+Magenta Lateral Portal
+Light Blue Lateral Portal
+Yellow Lateral Portal
+Lime Lateral Portal
+Pink Lateral Portal
+Gray Lateral Portal
+Silver Lateral Portal
+Cyan Lateral Portal
+Purple Lateral Portal
+Blue Lateral Portal
+Brown Lateral Portal
+Green Lateral Portal
+Red Lateral Portal
+Black Lateral Portal
+/rporeload
+RandomPortals configuration reloaded!
+Loaded portal type groups: %s
+/rporeloadclient
+RandomPortals client-sided configuration reloaded!
+Portals
+Shiny...
+Fat Portal
+Activate a lateral portal at least 625 blocks large (including the frame blocks)
+Evil Portal
+Dye a portal red by throwing in a Rose Red

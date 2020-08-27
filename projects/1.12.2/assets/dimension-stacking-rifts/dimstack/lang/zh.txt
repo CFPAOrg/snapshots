@@ -1,0 +1,9 @@
+Dimensional Keystone: %s -> %s
+Dimensional Key
+Dimensional Portal
+The End
+The Erebus
+The Overworld
+The Beneath
+The Nether
+Rift Activated. Travelling to %s.

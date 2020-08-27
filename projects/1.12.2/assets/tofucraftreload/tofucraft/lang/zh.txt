@@ -1,0 +1,463 @@
+TofuCraft
+Soybean
+Hell Soybean
+Tofu Block
+Kinugoshi Tofu Block
+Momen Tofu Block
+Solid Tofu Block
+Metal Tofu Block
+Grilled Tofu Block
+Koya-Tofu Block
+Fried Tofu Pouch Block
+Fried Tofu Block
+Egg Tofu Block
+Annin-Tofu Block
+Sesame Tofu Block
+Zunda Tofu Block
+Strawberry Tofu Block
+Miso Tofu Block
+Hell Tofu Block
+Glow Tofu Block
+Diamond Tofu Block
+Minced Tofu Block
+Green Onion
+Salt Furnace
+Tofu Cake
+Tofu Portal Block
+Morijio
+Miso Barrel
+Natto Bed
+Sesame
+Natto Block
+Sprouts
+Salt Block
+Yuba
+Miso Tofu Barrel
+Glowtofu Barrel
+Tofu Machine Case
+Tofu Force Storage
+TF Antenna
+TF Ultrawave Antenna
+TF Superwave Antenna
+TF Saturator
+TF Condenser
+TF Reformer
+TF Mix Reformer
+Tofu Ore
+Tofu Diamond Ore
+Tofu Gem Barrel
+High-Powered Tofu Gem Block
+Chikuwa Platform Block
+Tofu Chikuwa Platform Block
+Cultivated Tofu
+Salt Pan
+Soy Milk
+Hell Soy Milk
+Soy Sauce
+TofuChest
+Apricot Leaves
+Tofu Leaves
+Apricot Wood
+Apricot Sapling
+Tofu Sapling
+Kinugoshi Tofu Stairs
+Momen Tofu Stairs
+IshiTofu Stairs
+MetalTofu Stairs
+ZundaTofu Stairs
+IshiTofu BrickStairs
+Solid Tofu Stairs
+Metal Tofu Stairs
+Grilled Tofu Stairs
+Koya-Tofu Stairs
+Fried Tofu Pouch Stairs
+Fried Tofu Stairs
+Egg Tofu Stairs
+Annin-Tofu Stairs
+Sesame Tofu Stairs
+Zunda Tofu Stairs
+Strawberry Tofu Stairs
+Hell Tofu Stairs
+Glow Tofu Stairs
+Diamond Tofu Stairs
+Miso Tofu Stairs
+Kinugoshi Tofu Slab
+Momen Tofu Slab
+Solid Tofu Slab
+IshiTofu Brick Slab
+Metal Tofu Slab
+Grilled Tofu Slab (Old)
+Koya-Tofu Slab
+Fried Tofu Pouch Slab
+Fried Tofu Slab
+Egg Tofu Slab
+Annin-Tofu Tofu Slab
+Sesame Tofu Slab
+Zunda Tofu Slab
+Strawberry Tofu Slab
+Hell Tofu Slab
+Glow Tofu Slab
+Diamond Tofu Slab
+Miso Tofu Slab
+Grilled Tofu Slab
+Glow Tofu Slab
+KinuTofu Door
+MomenTofu Door
+IshiTofu Door
+MetalTofu Door
+%s Fence Gate
+TofuIshiBrick Ladder
+TofuKinu Ladder
+TofuMomen Ladder
+TofuIshi Ladder
+TofuMetal Ladder
+TofuZunda Ladder
+TofuKinu Torch
+TofuMomen Torch
+TofuIshi Torch
+TofuMetal Torch
+TofuZunda Torch
+%s Trapdoor
+%s Wall
+TofuIshi Brick
+TofuZunda Brick
+TofuZunda SmoothBrick
+NaturalTofu
+ZundaGrass
+Tofu Diamond Ore
+Tofu BedRock
+Tofu FarmLand
+Tofu Log
+Yuba Grass
+Yuba Noren
+TofuFlower
+Doubanjiang Barrel
+Tofu Machine Case
+Rice Crop
+Lit Saltfurnace
+TFBattery
+TFAntenna Basic
+Tofu WorkStation
+Tofu Compressor
+Tofu Aggregator
+Advanced Tofu Aggregator
+Tofu Force Collector
+Tofu Force Oven
+Tofu Force Crasher
+Soybeans
+Hell Soybeans
+Kinugoshi Tofu
+Momen Tofu
+Solid Tofu
+Metal Tofu
+Grilled Tofu
+Koya-Tofu
+Fried Tofu Pouch
+Fried Tofu
+Egg Tofu
+Annin-Tofu
+Sesame Tofu
+Zunda Tofu
+Strawberry Tofu
+Miso Tofu
+Hell Tofu
+Glowtofu
+Diamond Tofu
+Minced Tofu
+Soy Milk Bucket
+Hell Soy Milk Bucket
+Soy Sauce Bucket
+Salt
+Purification Salt
+Salty Melon
+Tasty Stew
+Tasty Beef Stew
+Bittern
+Tofu Cake
+Tofu Staff
+Kouji Base
+Kouji
+Boiled Hot Tofu
+Miso
+Triple Tofu Toast
+Morijio
+Tofu Bugle
+Miso Soup
+Tofu Dengaku
+Edamame Beans
+Zunda (Edamame Paste)
+Boiled Edamame
+Barrel
+Miso Barrel
+Bun with Zunda
+Soy Sauce Bottle
+Parched Soybeans
+Kinako
+Nikujaga Stew
+Defatting Potion
+Soup Stock
+Soybean Oil
+Fried Tofu Pouch with Soup
+Bun with Kinako
+Soy Milk
+Kinako Soy Milk
+Cocoa Soy Milk
+Zunda Soy Milk
+Apple Soy Milk
+Pumpkin Soy Milk
+Ramune Soy Milk
+Strawberry Soy Milk
+Sakura Soy Milk
+Annin Soy Milk
+Pudding Soy Milk
+Soy Milk Tea
+Koya-Tofu Boiled in Stock
+Koya-Tofu Stew
+Natto
+Natto Hiyayakko
+Apricot Seed
+Apricot
+Filter Cloth
+Okara
+Minced Potato
+Raw Starch
+Starch
+Apricot Seed Powder
+Leek
+Sesame
+Okara Stick
+Natto Rice
+Natto Rice with Leek
+Zundama
+Gelatin
+Gelatin Base
+Divine Beans
+Tofu Scoop
+Doubanjiang
+Strawberry Jam
+Tofu Slime Radar
+Yuba
+Miso Tofu Barrel
+Glowtofu Barrel
+Tofu Gem
+Diamond Tofu Nugget
+Tofu Hamburg (Raw)
+TF Capacitor
+Tofu Chikuwa
+Fried Tofu Slice
+Mapo Tofu
+Riceball
+Salty Riceball
+Roasted Miso Riceball
+Roasted Soy Riceball
+Sprout Saute
+Boiled Sprouts
+Sprouts
+Hiyayakko
+Tofu on Rice
+Tofu Hamburg
+Tofu Cookie
+Oinari
+Tofufish
+Grilled Tofufish
+Goheimochi (Mashed Rice with Miso)
+Zunda Bow
+Zunda Arrow
+Tofu Gem Barrel
+Soup of Tofu Noodle
+Hiyayakko
+Natto Hiyayakko
+Tofu Noodle Bowl
+TF Circuit Board
+TF Coil
+TF Oscillator
+High-Powered Tofu Gem
+Activated Tofu Gem
+Activated Hell Tofu
+Mineral Soy Milk
+Tofu Noodle
+Glass Bowl
+Rolling Pin
+Zunda Mochi
+Kinako Mochi
+Chikuwa
+Tofu Steak
+Tofunian's Hoe
+KinuTofu Door
+MomenTofu Door
+IshiTofu Door
+MetalTofu Door
+Tempura of Tofu Hamburg
+Tempura of Tofu Hamburg w/ Sauce
+Minced Tofu on Rice
+Minced Tofu Saute
+Zunda Ruby
+Rice
+Rice Seeds
+Meat Wrapped Yuba
+ApricotJerry Bottle
+ApricotJerry Bread
+Annin Apple
+Kinako Bread
+Kinu Tofu Helmet
+Kinu Tofu Chestplate
+Kinu Tofu Leggings
+Kinu Tofu Boots
+Kinu Tofu Sword
+Momen Tofu Helmet
+Momen Tofu Chestplate
+Momen Tofu Leggings
+Momen Tofu Boots
+Momen Tofu Sword
+Solid Tofu Helmet
+Solid Tofu Chestplate
+Solid Tofu Leggings
+Solid Tofu Boots
+Solid Tofu Sword
+Metal Tofu Helmet
+Metal Tofu Chestplate
+Metal Tofu Leggings
+Metal Tofu Boots
+Metal Tofu Sword
+Diamond Tofu Helmet
+Neutralizes %s
+Diamond Tofu Chestplate
+Neutralizes %s
+Diamond Tofu Leggings
+Neutralize %s
+Diamond Tofu Boots
+Neutralize %s
+Diamond Tofu Sword
+Kinugoshi Tofu Shovel
+Kinugoshi Tofu Pickaxe
+Kinugoshi Tofu Axe
+Momen Tofu Shovel
+Momen Tofu Pickaxe
+Momen Tofu Axe
+Solid Tofu Shovel
+Solid Tofu Pickaxe
+Solid Tofu Axe
+Metal Tofu Shovel
+Metal Tofu Pickaxe
+Metal Tofu Axe
+Diamond Tofu Shovel
+Diamond Tofu Pickaxe
+Diamond Tofu Axe
+TofuIshi Shield
+TofuMetal Shield
+TofuMetal ForceShield(Unused)
+TofuForce Core
+Tofu Core
+TofuForce Sword
+Growing tofu
+Fulintlock
+TofuChinger Tooth
+TofuChinger ToothArrow
+TofuForce Core
+Lemon
+Mayonnaise
+Chill Okara Stick
+Chicken Nanban
+Tofu Nanban
+Chill Pepper
+TofuCraft
+Tofu technology and tofu food
+ZUNDA＼（ず・ω・だ）／
+Make zunda with edamame and sugar
+Flesh Soymilk
+Squeeze SoyMilk from Tofu Cow
+Bitter work
+Get Bittern from SaltFurnace
+Salty work
+Get Salt from SaltFurnace
+Caring Shooting
+Shoot ZundaArrow on mob and healing mob
+Enter TofuWorld
+Entered TofuWorld
+Ancient Tofu Guardian
+Defeat TofuGandlem and get Tofu Force Core
+Salt Furnace
+Tofu Force Storage
+Tofu Compressor
+Tofu Aggregator
+Tofu Force Oven
+Tofu Force Crasher
+Soy Milk
+Zunda SoyMilk
+Hell Soy Milk
+Soy Sauce
+Bittern
+Mineral Soy Milk
+Strawberry Jam
+Soup Stock
+Glowing
+Potion of Glowing
+Filling
+Potion of Filling
+Batch
+Drain
+Tofu Cow
+Tofu Slime
+Tofu Creeper
+Tofunian
+Tofu Chinger
+Tofu Spider
+Fukumame
+TofuFish
+TofuTurret
+TofuMindCore
+TofuGandlem
+Tofu Cook
+/tofuslimecheck
+Tofu Slimes habit in this chunk
+Tofu Slimes cannot be seen in this chunk
+/tofucreeperspawn
+Tofu Creeper spawns at %s
+Tofu Force
+Empty
+Dump
+Redstone.
+Signal detected
+No signal
+Tofu Force.
+Powered
+Not powered
+TF Input
+TF Produced
+%.1f sec.
+The first day of soy milk. Drink every day to get healthy!
+Soy milk after %1$s days. Today's effect is level %2$s
+%1$s days of soy milk in a row! Today's effect is level %2$s
+Random effect (one of flavors)
+Drink daily to boost effect!
+Today's effect. Level %1$s
+TofuCraft has been updated to %1$s, available at %2$s
+§eTofuCraft§r has been updated to §a%1$s§r! %2$s
+§nDownload here§r
+[TofuCraft] §c*WARNING*§r Different potion IDs with server.
+Please change them in the setting file as follows, or the game will CRASH.
+Tofu Craftsman
+Fisher Tofunian
+Guard Tofunian
+Tofu Smith
+TofuWorld's DimensionID
+Trader
+Tofunian mutters
+Tofunian agrees
+If it is in the inventory, it will consume durability or energy to restore your health.
+If it was broken, you can use it again by repairing it and charging it with TF.
+Broken
+A clump of tofu that will grow overtime in the cost of TF.
+At least it was not infected by some strange bacteria...
+Found Tofu Slime's existence in this chuck.
+Can't find Tofu Slime in this chuck.
+TofuForce Energy: %d/%d
+Generate TofuTerrain...
+Loading TofuWorld...
+TofuMetal
+TofuDiamond
+Absorption
+§oGood as Nutrition well§r\nTools with this will occasionally fill the belly and saturation when attacked (the higher the attack, the easier it is to fill the belly!)
+Tofu -Ishi-
+Tofu -Metal-
+Tofu -Diamond-

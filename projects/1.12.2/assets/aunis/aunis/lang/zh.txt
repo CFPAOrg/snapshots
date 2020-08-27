@@ -1,0 +1,289 @@
+Aunis
+Aunis
+Ancient Analyzer
+DHD Control Crystal
+Fast dialer (debug)
+DHD Glyph Crystal
+Stargate Glyph Crystal
+Milky Way Glyphs Crystal
+Pegasus Glyphs Crystal
+Universe Glyphs Crystal
+Naquadah Ore
+Naquadah Ore (Stone)
+Naquadah Block
+Naquadah Shard
+Refined Naquadah Alloy Ingot
+Naquadah Alloy Ingot
+You can't see me block
+Stargate Base (Milky Way)
+Stargate Ring (Milky Way)
+Stargate Chevron (Milky Way)
+Dial Home Device (DHD)
+Capacitor Bank
+Capacitor Bank (Empty)
+Stargate Base (Orlin)
+Stargate Ring (Orlin)
+Stargate Base (Universe)
+Stargate Chevron (Universe)
+Stargate Ring (Universe)
+Crystal Seed
+Blank Crystal
+Teleportation Crystal
+Power Crystal
+Ender Crystal
+Light Crystal
+White Crystal
+Control Circuit Base 
+Naquadah Control Circuit 
+Crystal Control Circuit 
+Bright Red Button (BRB)
+Stargate Ring Fragment
+Universe Ring Fragment
+Crystal Holder
+Notebook Page
+Mysterious Page
+Empty
+Who knows where it leads
+Molten Silicon
+Refined Silicon
+Power Blend
+Teleportation Blend
+Ender Blend
+Light Blend
+Liquid Naquadah
+Refined Naquadah
+Liquid Naquadah Alloy
+Unable to close the gate on this end
+DHD is not linked to the gate
+DHD has no control crystal
+DHD requires at least 10,000uI to operate properly
+Computer dial is in progress
+Insufficient power
+Transport rings fragment
+Transport rings controller
+Controller not linked
+Transport rings
+Unable to reach this address
+Duplicate address
+Wrong address, should be 1-6
+Rings obstructed, clear 5x5 area around rings
+Target rings obstructed, clear 5x5 area around target rings
+Rings busy
+Target rings busy
+Rings No. %s
+Rings not in grid
+Address
+Name
+Save
+Number expected
+No such map
+Stargates %s
+Wrong ID or not given any
+Wrong map or not given any
+Wrong sender (not a player)
+Giving page to %s
+No map or wrong map given
+Giving Page to %s
+Targeted block is not a Stargate Base
+No map or wrong map given
+Address should be a space-separated list of 7 symbols (English names)
+Wrong %s. symbol name
+Duplicate %s. symbol name
+Stargate with given address already exists
+Set Stargate's address at %s to %s 
+Closed %s gates.
+Number or "current" expected as dimension ID
+%s was given a kawoosh cremation
+Sculptor
+Scorpius
+Centaurus
+Monoceros
+Point of Origin
+Pegasus
+Andromeda
+Serpens Caput
+Aries
+Libra
+Eridanus
+Leo Minor
+Hydra
+Sagittarius
+Sextans
+Scutum
+Pisces
+Virgo
+Boötes
+Auriga
+Corona Australis
+Gemini
+Leo
+Cetus
+Triangulum
+Aquarius
+Microscopium
+Equuleus
+Crater
+Perseus
+Cancer
+Norma
+Taurus
+Canis Minor
+Capricornus
+Lynx
+Orion
+Piscis Austrinus
+Bright Red Button
+Acjesis
+Lenchan
+Alura
+Ca Po
+Laylox
+Ecrumig
+Avoniv
+Bydo
+Aaxel
+Aldeni
+Setas
+Arami
+Danami
+Poco Re
+Robandus
+Recktic
+Zamilloz
+Subido
+Dawnre
+Salma
+Hamlinto
+Elenami
+Tahnan
+Zeo
+Roehi
+Once El
+Baselai
+Sandovi
+Illume
+Amiwill
+Sibbron
+Gilltin
+Abrin
+Ramnon
+Olavii
+Hacemill
+Glyph 1
+Glyph 2
+Glyph 3
+Glyph 4
+Glyph 5
+Glyph 6
+Glyph 7
+Glyph 8
+Glyph 9
+Glyph 10
+Glyph 11
+Glyph 12
+Glyph 13
+Glyph 14
+Glyph 15
+Glyph 16
+Glyph 17
+Glyph 18
+Glyph 19
+Glyph 20
+Glyph 21
+Glyph 22
+Glyph 23
+Glyph 24
+Glyph 25
+Glyph 26
+Glyph 27
+Glyph 28
+Glyph 29
+Glyph 30
+Glyph 31
+Glyph 32
+Glyph 33
+Glyph 34
+Glyph 35
+Glyph 36
+Upgrades
+Cold fusion
+Control crystal:
+Crystal missing
+In place
+Subspace link status:
+Linked
+Not linked
+Cold fusion reactor:
+Running
+Stand-by
+No fuel
+Milky Way address
+Pegasus address
+Universe address
+Capacitors
+Energy buffer
+Capacitor Bank
+Beamer Block
+Beamer Power Crystal
+Beamer Fluid Crystal
+Beamer Items Crystal
+Gate Beamer
+Beamer status:
+Beamer sees gate
+Beamer link status:
+Beamer link ok
+Role status:
+Role ok
+Beamer disabled
+Target beamer disabled
+Obstructed
+Obstructed (Target)
+Two transmitters
+Two receivers
+Mode mismatch
+No Beamer found
+Gate closed
+Incoming wormhole
+Disabled by logic
+Disabled by logic (Target)
+Running
+No crystal
+Transmit
+Receive
+Disabled
+Beamer activation
+Auto
+On signal
+Without signal
+Ignored
+Activate below [%%]
+Deactivate over [%%]
+Deactivate after
+inactivity [s]
+Save
+Invalid
+Energy stored: %s RF (Required: %s RF, %s s)
+Universe Dialer
+Not linked
+Gate is busy
+Nearby
+Memory
+Rings
+OpnCom
+Aborting dial
+Entry name
+OpenComputers' modem's address (Leave blank for broadcast)
+Modem's port
+OpenComputers parameters (comma separated)
+Save
+Invalid port
+Received response: 
+Universe dialer mode scroll
+Universe dialer mode up
+Universe dialer mode down
+Universe dialer address scroll
+Universe dialer address up
+Universe dialer address down
+Universe dialer remove address
+Universe dialer abort dialing
+Universe dialer program OC message

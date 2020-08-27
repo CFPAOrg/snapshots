@@ -1,0 +1,74 @@
+English
+United States
+en_us
+§5§lGemmary§r ⎹  §2Items§r
+§5§lGemmary§r ⎹  §2Blocks§r
+§fOre Dictionary IDs:
+§fItem Class: §7%s
+§fBlock Class: §7%s
+§cThis item does not have any Ore Dictionary ids
+§cYou must be holding an item
+§cYou are not alive...
+§cNot Enough Arguments
+Compressor
+Hydrothermal Vein
+Fuel Left
+Progress
+Water
+Lava
+Amethyst
+Ruby
+Sapphire
+Talc
+Tanzanite
+Topaz
+Turquoise
+Diamond Part
+Emerald Part
+Aluminum
+Beryllium
+Carbon
+Chromium
+Oxygen
+Amethyst Block
+Ruby Block
+Sapphire Block
+Talc Block
+Tanzanite Block
+Topaz Block
+Turquoise Block
+Compressor
+Atom Gatherer
+Hydrothermal Vein
+Amethyst Helmet
+Amethyst Chestplate
+Amethyst Leggings
+Amethyst Boots
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Talc Helmet
+Talc Chestplate
+Talc Leggings
+Talc Boots
+Tanzanite Helmet
+Tanzanite Chestplate
+Tanzanite Leggings
+TanzaniteBoots
+Topaz Helmet
+Topaz Chestplate
+Topaz Leggings
+Topaz Boots
+Turquoise Helmet
+Turquoise Chestplate
+Turquoise Leggings
+Turquoise Boots
+Cloth
+§7Symbol:§f %s
+§7Atomic Number:§f %s
+§7Atomic Mass:§f %s

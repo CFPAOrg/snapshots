@@ -1,0 +1,47 @@
+Drying Table
+Alloy Furnace
+Crushing Block
+Heavy Block
+Amplifying Tube
+Wool Burst Seed
+Prismarine Burst Seed
+Red Sandstone Burst Seed
+Sandstone Burst Seed
+Red Sand Burst Seed
+Sand Burst Seed
+End Stone Burst Seed
+Dirt Burst Seed
+Clay Burst Seed
+Quartz Burst Seed
+Ice Burst Seed
+Cobblestone Burst Seed
+Snow Burst Seed
+Stone Burst Seed
+Gravel Burst Seed
+Granite Burst Seed
+Andesite Burst Seed
+Diorite Burst Seed
+Glass Burst Seed
+Netherrack Burst Seed
+Grass Burst Seed
+Glowstone Burst Seed
+Purpur Burst Seed
+Soul Sand Burst Seed
+White Concrete Burst Seed
+Stone Martlet
+Iron Martlet
+Gold Martlet
+Diamond Martlet
+Heavy Mix Lump
+Heavy Ingot
+Heavy Nugget
+Heavy Shears
+Heavy Fuel Dust
+Tiny Pile of Heavy Fuel Dust
+Bursting Powder
+Empty Rod
+Nothing
+Mechanics
+Alloy Furnace
+Drying Table Recipes
+Martlet Recipes

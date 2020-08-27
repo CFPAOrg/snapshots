@@ -1,0 +1,16 @@
+Pressed Blutonium Ingot
+Dry Draconium Dust
+Reinforced Dry Leather
+Salted Leather
+Draconic Crafting Core
+Clean Quartz Dust
+Reinforced Obsidian Plating
+Basic Machine Frame
+Hardened Machine Frame
+Reinforced Machine Frame
+Resonant Machine Frame
+Factory Machine Block
+Draconium Dust Block
+Dry Draconium Dust Block
+Quartz Sand Block
+BuildTweaks

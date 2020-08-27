@@ -1,0 +1,67 @@
+[Zildium]Building Blocks
+[Zildium]Decoration Blocks
+[Zildium]Miscellaneous
+[Zildium]Combat
+[Zildium]Tools
+Ashball
+Iron Stick
+Iron Bow
+Charged Crystal
+Uncharged Crystal
+Elektra Ingot
+Zildium
+Lynckrit Ingot
+Yuth Ingot
+Magna Ingot
+Heniia Ingot
+Iron Canister
+Ash
+Ash Layer
+Charged Core
+Uncharged Core
+Elektra Block
+Lynckrit Block
+Yuth Block
+Magna Block
+Heniia Block
+Zildium Block
+Iron Plate
+Magna Plate
+Elektra Plate
+Zildium Plate
+Heniia Plate
+Lynckrit Plate
+Yuth Plate
+Iron Wire
+Zildium Wire
+Magna Wire
+Lynckrit Wire
+Heniia Wire
+Elektra Wire
+Yuth Wire
+Zildium Sword
+Zildium Pickaxe
+Zildium Axe
+Zildium Pickaxe
+Zildium Hoe
+Reinforced Shears
+Hammer
+Zildium Helmet
+Zildium Chestplate
+Zildium Leggings
+Zildium Boots
+Elektra Ore
+Lynckrit Ore
+Yuth Ore
+Magna Ore
+Heniia Ore
+Zildium Ore
+ Figed Stone Charged
+Figed Stone
+Figed Stone Bricks
+Figed Stone Bricks Cracked
+Figed Stone Bricks Carved
+Figed Stone Bricks Mossy
+Figed Stone Slab
+Figed Sand
+Figed Glass

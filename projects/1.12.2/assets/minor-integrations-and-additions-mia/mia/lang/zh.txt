@@ -1,0 +1,364 @@
+Minor Integrations and Additions
+Base settings
+Base additions settings
+Just Enough Resources
+Extra Utilities 2
+Thermal Expansion
+Thermal Foundation
+Tinker's Construct
+Ice and Fire
+Hatchery
+Thaumcraft
+Mo' Creatures
+Quark
+FutureMC
+Botania
+ExtraBotany
+CoFH Core
+Dungeon Tactics
+Harvestcraft
+Just Enough Items
+Natura
+Biomes O' Plenty
+Chisel
+Industrial Foregoing
+Aether
+Browse and manage base MIA settings
+Browse and manage base MIA addition settings
+Browse and manage Just Enough Resources settings
+Browse and manage Extra Utilities 2 settings
+Browse and manage Thermal Expansion settings
+Browse and manage Thermal Foundation settings
+Browse and manage Tinker's Construct settings
+Browse and manage Ice and Fire settings
+Browse and manage Hatchery settings
+Browse and manage Thaumcraft settings
+Browse and manage Mo' Creatures settings
+Browse and manage Quark settings
+Browse and manage FutureMC settings
+Browse and manage Botania settings
+Browse and manage ExtraBotany settings
+Browse and manage CoFH Core settings
+Browse and manage Dungeon Tactics settings
+Browse and manage Harvestcraft settings
+Browse and manage Just Enough Items settings
+Browse and manage Natura settings
+Browse and manage Biomes O' Plenty settings
+Browse and manage Chisel settings
+Browse and manage Industrial Foregoing settings
+Browse and manage Aether settings
+Enable external integrations
+Enable Just Enough Items integration
+Enable Just Enough Resources integration
+Enable Thermal Expansion integration
+Enable Extra Utilities 2 integration
+Enable Hatchery integration
+Enable Dungeon Tactics integration
+Enable Quark integration
+Enable FutureMC integration
+Enable Harvestcraft integration
+Enable Botania integration
+Enable Chisel integration
+Enable Industrial Foregoing integration
+Enable Ice and Fire additions
+Enable Tinker's Construct additions
+Enable Thermal Expansion additions
+Enable Thermal Foundation additions
+Enable Extra Utilities 2 additions
+Enable Hatchery additions
+Enable Thaumcraft additions
+Enable Mo' Creatures additions
+Enable Dungeon Tactics additions
+Enable Quark additions
+Enable Natura additions
+Enable Biomes O' Plenty additions
+Enable Botania additions
+Enable Aether additions
+Enable Aether Continuation additions
+Enable Aether: Lost Content additions
+Add cooked mob drops
+Music player volume
+Disable any new recipes added by mods
+Disable any new ore dictionary entries
+Show error toasts
+More Sandstone Settings
+Enable more sandstone
+Enable more sandstone Quark blocks
+Enable more sandstone FutureMC walls
+Force more sandstone
+Force more sandstone stairs and slabs
+Force more sandstone Quark walls
+Force more sandstone FutureMC walls
+Enable white sandstone
+Enable white sandstone Quark walls
+EVTP settings
+Enable EVTP
+Enable Armored Glass
+Enable packed paper block
+Enable golden torch
+Enable dead flowers
+Enable stone doors
+Enable redstone lantern
+Dead flower spawn chance
+Experimental size feature
+Enable experimental size feature
+Minimum player size
+Maximum player size
+Minimum mob size
+Maximum mob size
+Scale movement speed
+Scale strength
+Scale max health
+Scale current health when growing
+Scale reach
+Scale swim speed
+Fix entity rendering at small sizes
+Fix player rendering in inventory
+Entities banned from size change
+Can mob size change
+Can enties crush smaller ones
+Can players crush other players
+Entities banned from crushing others or being crushed
+Do small players get hurt while walking through roses
+Do small players get slowed down while walking through plants
+Can small players climb some blocks
+Can small players climb any blocks while holding slime
+Can small players glide while holding paper
+Do small players get flight height boost while gliding over hot blocks
+Thaumcraft integration
+Register custom lucky eggs
+Register custom loot for loot bags
+Squid drops calamari
+Balance modded food similarly to vanilla ones
+Register aspects for other mods
+Orechid Vacuam ore dictionary
+Register shady merchant trades in JER
+Blacklist laser drill Aether biome for non-Aether ores
+Allow new Freezer fuels
+Enable loot bag category
+Enable alchemical cauldron category
+Enable orechid vacuam category
+Add all supported enchantments as ancient tomes
+Add supported items to enchanted book tooltips
+Add ancient tome crafting
+Enable new Froster recipes
+Enable new Laser Drill entries
+Enable new Protein Generator entries
+Enable Tree Fluid Extractor entries
+Buff silver weapons from other mods
+Replace fish drops
+/size <player> <size> or /size [size]
+/size
+%s size modifier is %s (actual size is %s)
+Succesfully changed %s size modifier to %s
+%s is not a player nor a valid size
+Progress
+Speed: %s
+Not enough grass and dirt in vicinity
+Not enough water in vicinity
+Loot Bags
+When provided with eggs (either manually, or by any means of automation), and if at least a single output slot is empty, it will check how good an egg is, compare it with eggs already kept there, and put all but best eggs in output slot.\nEach of the slots is only checking for one of the 3 stats, so it'll allow to select the preferred stat. (It still needs some work, it doesn't stack eggs with same stats from 2 different chickens.)
+With the help of miniaturization and magic, this block provides perfect conditions to live for 9 pixies. Over time, this block is going to accumulate pixie dust, which is a nice addition to providing housing for those small, annoying creatures. Pixie dust is going to be collected faster the more pixies are there. Pixie dust extraction can be automated. This block accepts pixie jars as well as some mob capturing items.
+(Wuss mode needs to be enabled in Thaumcraft options for this block to be possible to unlock and for it to work!) If this block is placed in area with high enough Flux content, and there's more Flux than Vis, it will drain Flux over time and create Void Seeds. There is, however, a chance for them to turn into a Primordial Pearl. The chance is increased the more Void Seeds are there and this can only happen when Void Seeds are created - there's no point in holding an entire stack of them there. Primordial pearls will be created weak, but will increase in strength as Flux is drained by Void Creator.
+Alchemical Cauldron
+Produces %s-%s, increased by 1 for every fortune level
+Produces %s, increased by 1 for every fortune level
+Each looting level increases potential maximum level by 1
+Can be obtained by fishing.
+Can be obtained by fishing (counts as treasure).
+Allows user to jump really high.
+While using rocket leggings, those goggles allow the user to glide.
+Those boot let the user bounce after jumping.
+By using this rope, the user is transported to a safe place.
+At the cost of 5 experience levels, this item prevents death and restores health to full, after which it'll be destroyed.
+Can be used to access your personal Ender Chest from your inventory.
+While held in your second hand, it can be used to fix whichever item you're holding in your main one. That item will need to be repaired later in an anvil to get rid of it.
+Dropped from defeated enemies, can be collected with a bottle.
+Can be lit with flint and steel and can be extinguished with an empty hand.
+Can be lit with flint and steel and can be extinguished with an empty hand. Banishes any monsters that come near.
+Protect the user from the effect of traps.
+Can only be obtained by Dungeon Tactics developer (or anyone impersonating them who knows how to obtain it)
+Orechid Vacuam
+Chance affected by doing Thaumic research
+Chance affected by having this item in inventory
+Only last enemy drops this item
+Only when named one of the following: %s
+Only when adult
+Only when not adult
+Only when carrying this item
+Fire Dragon Chests
+Ice Dragon Chests
+Myrmex Loot
+Desert Myrmex Food
+Jungle Myrmex Food
+Myrmex Trash
+Cyclops Cave
+Hydra Cave
+Pirate Ships
+Buried Treasure
+Obsidian Spikes
+DT Dungeon
+DT Tower
+DT Mini Bunker
+DT Pirate Ship
+DT Gypsy Wagon
+DT Wizard Tower
+Bronze Dungeon Reward
+Bronze Dungeon Chests
+Silver Dungeon Reward
+Silver Dungeon Chests
+Gold Dungeon Reward
+Music Player
+Ring of the Kobold
+Armored Glass
+Packed Paper
+Packed Paper
+Packed Paper
+Packed Paper
+Golden Torch
+Golden Torch
+Dead Flower
+Redstone Lantern
+Stone Door
+Shrinking
+Shrinking Venom
+Potion of Shrinking
+Potion of Shrinking
+Potion of Shrinking
+Potion of Shrinking
+Potion of Shrinking
+Potion of Shrinking
+Potion of Shrinking
+Potion of Shrinking
+Shrinking Venom
+Splash Potion of Shrinking
+Splash Potion of Shrinking
+Splash Potion of Shrinking
+Splash Potion of Shrinking
+Splash Potion of Shrinking
+Splash Potion of Shrinking
+Splash Potion of Shrinking
+Splash Potion of Shrinking
+Splash Shrinking Venom
+Lingering Potion of Shrinking
+Lingering Potion of Shrinking
+Lingering Potion of Shrinking
+Lingering Potion of Shrinking
+Lingering Potion of Shrinking
+Lingering Potion of Shrinking
+Lingering Potion of Shrinking
+Lingering Potion of Shrinking
+Lingering Shrinking Venom
+Arrow of Shrinking
+Arrow of Shrinking
+Arrow of Shrinking
+Arrow of Shrinking
+Arrow of Shrinking
+Arrow of Shrinking
+Arrow of Shrinking
+Arrow of Shrinking
+Shrinking Venom Arrow
+Growth
+Growth Venom
+Potion of Growth
+Potion of Growth
+Potion of Growth
+Potion of Growth
+Potion of Growth
+Potion of Growth
+Potion of Growth
+Potion of Growth
+Growth Venom
+Splash Potion of Growth
+Splash Potion of Growth
+Splash Potion of Growth
+Splash Potion of Growth
+Splash Potion of Growth
+Splash Potion of Growth
+Splash Potion of Growth
+Splash Potion of Growth
+Splash Growth Venom
+Lingering Potion of Growth
+Lingering Potion of Growth
+Lingering Potion of Growth
+Lingering Potion of Growth
+Lingering Potion of Growth
+Lingering Potion of Growth
+Lingering Potion of Growth
+Lingering Potion of Growth
+Lingering Growth Venom
+Arrow of Growth
+Arrow of Growth
+Arrow of Growth
+Arrow of Growth
+Arrow of Growth
+Arrow of Growth
+Arrow of Growth
+Arrow of Growth
+Growth Venom Arrow
+Size Stabilization
+Potion of Size Stabilization
+Splash Potion Size Stabilization
+Lingering Potion of Size Stabilization
+Arrow of Size Stabilization
+Size Steal
+Shrinking
+Kobold Blessing
+Shrinking
+Size Steal
+Egg Sorter
+Pixie Dust Collector
+Void Creator
+Void Creator
+I have a strange feeling that I'm missing something, or rather, the world I'm in is. It feels like it's too safe to access more... "advanced" research. I should try to to look deeper into that.
+That's it! Based on what I've gathered from the Crimson Cultists I managed to create a device that's going to create a rare and powerful material - Void Seeds - from the flux in the area it's placed in. It requires more Flux than Vis to be present, as well as enough of it to start the process.
+Focus Effect: Size Change
+I'm fascinated by the potions capable of changing one's size. I'm going to start by analyzing the Kobold Ring, as it's connected to the concept of changing the size of a person.
+Now I have access to the effects of size changing. This could come in handy when trying to move through tight spaces, or when tryinng to weaken my foes.
+Focus Effect: Size Stabilization
+Considering I've managed to gain the ability of changing size of creatures, I wonder if I could achieve an effect reverting the size back to original?
+It was slightly harder than changing the size itself, but I've achieved it. Being able to return back to my original size should be rather useful. It should at least stop me from hitting my head every time I'm going thorough the doors...
+Focus Effect: Size Stealing
+Changing the size of others or myself is useful, but I wonder if I'll be able to use for more combat focused situations?
+I've achieved an effect of stealing the size of my foes, which will both weaken them and strengthen me in the process.
+Size change
+Allows you to change size of the target
+Size steal
+Allows you to steal the size of the target
+Size stabilization
+Stabilizes the target to their original size
+Change type
+Growth
+Shrinking
+Orechid Vacuam
+Empty on the inside
+Orechid Vacuam
+Creates end ores from end stone
+The &1Orechid&0 is a great flower. The ability to create raw ores with &4Mana&0 can be a great boon to any sedentary botanist's life. It, however, can't create ores from the &4End&0. Getting that sorted out is easy, by switching the petals a bit, it'll create &4End&0 ores in &1End Stone&0 instead. The flower must be in the &4End&0 to work.
+&oWhy is there so much emptiness?&r.
+Polished White Sandstone
+White Sandstone Bricks
+Polished White Sandstone Slab
+Polished White Sandstone Slab
+White Sandstone Brick Slab
+White Sandstone Brick Slab
+White Sandstone Brick Stairs
+White Sandstone Wall
+White Sandstone Wall
+MIA encountered an error
+Please report it to MIA dev
+Don't automatically play other songs when this one finishes
+Automatically play the next song
+Always play songs in order
+Randomly pick the next song
+Play the next song when the current one finishes
+Repeat current song when it finishes
+(Autoplay needs to be on)
+Can't play music due to volume being disabled
+Slowly changes your size until you reach half of your normal size. After reaching that size, it allows you to climb and glide like you were smaller.
+Music Player
+Open music player GUI
+Play/stop playing song
+Play next song
+Play previous song
+Chance: %s%%

@@ -1,0 +1,68 @@
+%1$s Tilt
+%1$s Size
+%1$s Cloud Height
+Abandoned Studies
+Pyramids
+Rings Biome Distribution
+Normal Biome Distribution
+East-West Bands Biome Distribution
+North-South Bands Biome Distribution
+Boxes Biome Distribution
+Island Biome Distribution
+Maze Biome Distribution
+Tinted Sun
+Ocean Monuments
+Maze World
+Gigantic Trees
+No Libraries
+Lacking Ores
+Sun Color
+Zero
+Half
+Full
+Tiny
+Small
+Medium
+Large
+Huge
+Zero
+Half
+Full
+Double
+Locked Lectern
+Locked Bookstand
+Safety Cone
+Unstable Book Receptacle
+Unstable Portal
+New Link Portal
+New Book Receptacle
+Nexus Controller
+Nexus Storage
+Journey Cloth
+Journey Cloth
+Journey Cloth
+Journey Hub
+Journey Hub
+Journey Hub
+Maintainer Suit
+Adventure
+Maintainer Suit
+Nexus Controller
+More Mystcraft
+[natural and enchanting sounds]
+Cloth added to hub.
+Cannot connect more than 15 cloths to a single hub.
+Cloth removed from hub.
+Cloth activated.
+Cloth deactivated.
+You cannot write a Linking Book in Adventure Mode.
+You are now in Adventure Mode.
+You have been returned to your previous game mode.
+is linking. Expect lag.
+Size
+Size
+Size
+Tilt
+Tilt
+Tilt
+Sun Color

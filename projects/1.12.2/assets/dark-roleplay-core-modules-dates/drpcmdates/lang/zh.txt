@@ -1,0 +1,16 @@
+Early Spring
+Spring
+Late Spring
+Early Summer
+Summer
+Late Summer
+Early Autumn
+Autumn
+Late Autumn
+Early Winter
+Winter
+Late Winter
+Current Date:
+Day of Season - %s
+Season - 
+Year - %s

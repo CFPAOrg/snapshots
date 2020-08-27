@@ -1,0 +1,275 @@
+AFAOE
+AFAOE Decoration
+AmazingFoodStuffs Config
+God Fame
+Fame Minion
+Cheddar
+Flour
+Dough
+Wheat Dough
+Provolone
+Muenster
+Mozzarella
+Curd
+Cheese Sugar
+Wheat Bun
+White Bun
+White Roll
+Tortilla
+Lettuce
+Onion
+Tomato
+Jalapeño
+Shelled Sunflower Seed
+Sunflower Seed
+Mint Seeds
+Cherry Seed
+Red Pepper Seed
+Yellow Pepper Seed
+Green Pepper Seed
+Greenbean Seed
+Blueberry Seed
+Endive Seed
+Eggplant Seed
+Strawberry Seed
+Celery Seed
+Mint Sprig
+Mint Leaf
+Sliced Onion
+Sliced Tomato
+Sliced Jalapeño
+Cherry
+Blueberry
+Green Pepper
+Red Pepper
+Yellow Pepper
+Greenbean
+Celery
+Strawberry
+Maraschino Cherry
+Eggplant
+Endive
+Salt
+Baking Soda
+Tomato Sauce
+Sour Cream
+Onion Seed
+Tomato Seed
+Jalapeño Seed
+Lettuce Seed
+Pasta Dough
+Noodles
+Gelatin Powder
+Tofu
+Raw Tenderized Beef
+Cooked Tenderized Beef
+Sliced Beef
+Cubed Beef
+Raw Tenderized Chicken
+Cooked Tenderized Chicken
+Sliced Chicken
+Cubed Chicken
+Meat Balls
+Pastrami
+Pepperoni
+Sliced Pepperoni
+Beef, Cheddar, Lettuce & Tomato on Wheat
+Beef, Cheddar, Lettuce & Tomato on White
+Beef, Cheddar & Lettuce on Wheat
+Beef, Cheddar & Lettuce on White
+Beef, Cheddar & Tomato on Wheat
+Beef, Cheddar & Tomato on White
+Beef & Cheddar on Wheat
+Beef & Cheddar on White
+Beef, Lettuce & Tomato on Wheat
+Beef, Lettuce & Tomato on White
+Beef & Lettuce on Wheat
+Beef & Lettuce on White
+Beef, Mozzarella, Lettuce & Tomato on Wheat
+Beef, Mozzarella, Lettuce & Tomato on White
+Beef, Mozzarella & Lettuce on Wheat
+Beef, Mozzarella & Lettuce on White
+Beef, Mozzarella & Tomato on Wheat
+Beef, Mozzarella & Tomato on White
+Beef & Mozzarella on Wheat
+Beef & Mozzarella on White
+Beef, Muenster, Lettuce & Tomato on Wheat
+Beef, Muenster, Lettuce & Tomato on White
+Beef, Muenster & Lettuce on Wheat
+Beef, Muenster & Lettuce on White
+Beef, Muenster & Tomato on Wheat
+Beef, Muenster & Tomato on White
+Beef & Muenster on Wheat
+Beef & Muenster on White
+Beef, Provolone, Lettuce & Tomato on Wheat
+Beef, Provolone, Lettuce & Tomato on White
+Beef, Provolone & Lettuce on Wheat
+Beef, Provolone & Lettuce on White
+Beef, Provolone & Tomato on Wheat
+Beef, Provolone & Tomato on White
+Beef & Provolone on Wheat
+Beef & Provolone on White
+Beef Roll on White
+Beef & Tomato on Wheat
+Beef & Tomato on White
+Beef on Wheat
+Beef on White
+Chicken, Cheddar, Lettuce & Tomato on Wheat
+Chicken, Cheddar, Lettuce & Tomato on White
+Chicken, Cheddar & Lettuce on Wheat
+Chicken, Cheddar & Lettuce on White
+Chicken, Cheddar & Tomato on Wheat
+Chicken, Cheddar & Tomato on White
+Chicken & Cheddar on Wheat
+Chicken & Cheddar on White
+Chicken, Lettuce & Tomato on Wheat
+Chicken, Lettuce & Tomato on White
+Chicken, Mozzarella, Lettuce & Tomato on Wheat
+Chicken, Mozzarella, Lettuce & Tomato on White
+Chicken, Mozzarella & Lettuce on Wheat
+Chicken, Mozzarella & Lettuce on White
+Chicken, Mozzarella & Tomato on Wheat
+Chicken, Mozzarella & Tomato on White
+Chicken & Mozzarella on Wheat
+Chicken & Mozzarella on White
+Chicken, Muenster, Lettuce & Tomato on Wheat
+Chicken, Muenster, Lettuce & Tomato on White
+Chicken, Muenster & Lettuce on Wheat
+Chicken, Muenster & Lettuce on White
+Chicken, Muenster & Tomato on Wheat
+Chicken, Muenster & Tomato on White
+Chicken & Muenster on Wheat
+Chicken & Muenster on White
+Chicken, Provolone, Lettuce & Tomato on Wheat
+Chicken, Provolone, Lettuce & Tomato on White
+Chicken, Provolone & Lettuce on Wheat
+Chicken, Provolone & Lettuce on White
+Chicken, Provolone & Tomato on Wheat
+Chicken, Provolone & Tomato on White
+Chicken & Provolone on Wheat
+Chicken & Provolone on White
+Chicken Roll on White
+Chicken on Wheat
+Chicken on White
+Uncooked Crust
+Empty Crust
+Provolone, Pepperoni & Onion Pizza
+Provolone & Onion Pizza
+Provolone & Pepperoni Pizza
+Provolone Pizza
+Provolone Slice
+Provolone & Pepperoni Slice
+Provolone & Onion Slice
+Provolone, Pepperoni & Onion Slice
+Muenster, Pepperoni & Onion Pizza
+Muenster & Onion Pizza
+Muenster & Pepperoni Pizza
+Muenster Pizza
+Muenster Slice
+Muenster & Pepperoni Slice
+Muenster & Onion Slice
+Muenster, Pepperoni & Onion Slice
+Cheddar, Pepperoni & Onion Pizza
+Cheddar & Onion Pizza
+Cheddar & Pepperoni Pizza
+Cheddar Pizza
+Cheddar Slice
+Cheddar & Pepperoni Slice
+Cheddar & Onion Slice
+Cheddar, Pepperoni & Onion Slice
+Mozzarella, Pepperoni & Onion Pizza
+Mozzarella & Onion Pizza
+Mozzarella & Pepperoni Pizza
+Mozzarella Pizza
+Mozzarella Slice
+Mozzarella & Pepperoni Slice
+Mozzarella & Onion Slice
+Mozzarella, Pepperoni & Onion Slice
+Empty Taco Shell
+Beef Taco
+Beef & Tomato Taco
+Beef & Sour Cream Taco
+Beef, Tomato & Sour Cream Taco
+Chicken Taco
+Chicken & Tomato Taco
+Chicken & Sour Cream Taco
+Chicken, Tomato & Sour Cream Taco
+Tofu Taco
+Chicken Noodle Soup
+Onion Soup
+Tomato Soup
+Vegetable Soup
+Pot O' Chicken Noodle
+Pot O' Onion
+Pot O' Veggie
+Pot O' Tomato
+Hot Pot O' Chicken Noodle
+Hot Pot O' Onion
+Hot Pot O' Veggie
+Hot Pot O' Tomato
+Hardened Iron Ingot
+Condensed Beef
+Double Condensed Beef
+Triple Condensed Beef
+Condensed Chicken
+Double Condensed Chicken
+Triple Condensed Chicken
+Fame Shard
+Fame Crystal
+Perfect Potion
+Empty Oil Flask
+Oil Flask
+Crushed Bone
+Less Rotten Flesh
+Boiling Milk
+Glue
+Cut Stick
+Legs
+Meat Baller
+Pot
+Pan
+Heated Pan
+Hot Oiled Pan
+Meat Knife
+Vegetable Knife
+Tenderizer
+Pizza Roller
+Pizza Cutter
+Grinder Gear
+Manual Crusher
+Pestle
+Mortar
+Mortar & Pestle
+Empty Sack
+Milk Sack
+Fame Sword
+God Fame Key
+Fame Minion Key
+Untested Key
+Key Shard
+§c§kCrafting Part
+Empty Jar
+Sugar Water Jar
+Cheddar Block
+Muenster Block
+Mozzarella Block
+Provolone Block
+Molten Cheddar Block
+Molten Mozzarella Block
+Molten Provolone Block
+Molten Muenster Block
+Hardened Iron Block
+Salt Ore
+Baking Soda Ore
+Grinder
+Onion Plant
+Tomato Plant
+Lettuce Plant
+Jalapeño Plant
+Sunflower Plant
+Cutting Board
+Wall Phone
+Coffee Maker
+This is an %1$simportant%2$s word, and here is %1$sanother%2$s.
+Grinder
+Tantum Initium

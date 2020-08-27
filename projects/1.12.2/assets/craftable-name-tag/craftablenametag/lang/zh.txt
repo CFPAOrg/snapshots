@@ -1,0 +1,50 @@
+Regular Pipe
+Redstone Flywheel
+Flux Crystal
+Expandolic Bucket
+Turbine (Air)
+Redstone Toggle Circuit
+Redstone - RF Transformer
+Spool of Redstone Wire
+V-Tooth Gear
+Gears and Mechanisms
+Turbine Blade (Water)
+Redstone Circuit Stud
+Expanding
+Thick Pipe
+Gear Assembly (Complex)
+Gasket
+Tiny Pipe
+Necrotic Stone Sword
+Big Spring
+Necrotic Cobblestone
+Spur Gear
+Durable Torque System
+Necrotic Rib
+Telescoping Spikes
+Micro Pipe
+Redstone Motor
+Flux Crystal Ore
+Large Pipe
+Sawtooth Sprocket
+Redstone Response Circuit
+Necrotic Calcium
+Simple Torque System
+One-Way Motion Transfer Mechanism
+Small Spring
+Bar Gear
+Gear Assembly (Simple)
+Medium Spring
+Lock and Release Mechanism
+Spring Release Mechanism
+Powerful Torque System
+Expandolic Piston
+Redstone Wire
+Turbine (Water)
+Gear Assembly (Average)
+Big Pipe
+Kinetic Dynamo
+Small Pipe
+Spiral Gear
+Redstone Circuitry
+Turbine Blade (Air)

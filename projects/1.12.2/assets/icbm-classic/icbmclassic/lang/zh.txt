@@ -1,0 +1,347 @@
+ICBM-Classic
+General
+Launcher
+Blast
+Fuse Times
+Bomb Carts
+Explosives
+Grenades
+EMP
+Missile
+Battery
+Thread
+Item
+Industrial Craft 2
+Debug
+Blast triggered with explosive %1$s and scale %2$f at [%3$s@%4$d, %5$d, %6$d, %7$d].
+Blast sent queue with explosive %1$s and scale %2$f. When done processing it will trigger at [%3$s@%4$d, %5$d, %6$d, %7$d].
+Unexpect error creating blast, see console for details.
+Blast was blocked by a forge event, see console for details.
+BlastFactory did not generate a blast, see console for details.
+Blast was already triggered, this should never happen and is a bug.
+Command received an unknown blast status code, see console for details.
+Explosive with ID '%1$s' could not be found
+Scale must be greater than zero!
+Triggering %10$d blasts with explosive %1$s and scale %2$f at [%3$s@%4$d, %5$d, %6$d, %7$d] with a spread of %8$d over a distance %9$d.
+Removed %1$d blast and %2$d entities within %3$d meters
+Removed %1%d entities within %2$d meters
+Unknown command. See %s help for more info.
+Toxin
+Virus
+Frost Bite
+Radiation
+Battery
+Used to store and transport power
+Sulfur
+Used in the creation of gunpowder
+Saltpeter
+Used in the creation of gunpowder
+Poison Powder
+Used in the creation of explosives
+Antidote
+Cures all effects
+Radar Gun
+Stores GPS data
+Remote Detonator
+Remotely fire a missile
+Defuser
+Remove explosives safely, even after they have gone off
+Laser Designator
+Remotely fire a missile
+Tracker
+Track entities and set homing missiles
+Signal Disrupter
+Jam frequencies to prevent detection or missile launches
+Rocket Launcher
+This rocket launcher can fire up to Tier %s rockets
+Creative: Bypasses tier restriction
+Steel Ingot
+Copper Ingot
+Steel Clump
+Iron Plate
+Steel Plate
+Copper Wire
+Gold Wire
+Basic Circuit
+Advanced Circuit
+Elite Circuit
+Launcher Platform T1
+Launcher Platform T2
+Launcher Platform T3
+Hold missiles in place before launch
+Launcher Control Panel T1
+Launcher Control Panel T2
+Launcher Control Panel T3
+Used to fire missiles from launchers
+Launcher Support Frame T1
+Launcher Support Frame T2
+Launcher Support Frame T3
+Improves accuracy of missiles
+Radar Station
+Detects missiles in flight
+EMP Tower
+Drains energy from tiles, entities and devices
+Cruise Launcher
+Dummy-fires a missile without target data
+Missile Coordinator
+Oversized calculator. Calculates flight paths
+Reinforced Rail
+Hardened against explosives
+Redmatter Ore
+Oh shiz, how did you get that? Put it down, it could explode!
+One
+Two
+Three
+Four
+Condensed Explosives
+Shrapnel Explosives
+Incendiary Explosives
+Debilitation Explosives
+Chemical Explosives
+Anvil Explosives
+Repulsive Explosives
+Attractive Explosives
+Nightmare Explosives
+Fragmentation Explosives
+Contagious Explosives
+Sonic Explosives
+Breaching Explosives
+Thermobaric Explosives
+Nuclear Explosives
+EMP Explosives
+Exothermic Explosives
+Endothermic Explosives
+Anti-Gravitational Explosives
+Ender Explosives
+Hypersonic Explosives
+Antimatter Explosives
+Red Matter Explosives
+Conventional Missile
+Shrapnel Missile
+Incendiary Missile
+Debilitation Missile
+Chemical Missile
+Anvil Missile
+Repulsive Missile
+Attractive Missile
+Fragmentation Missile
+Contagious Missile
+Sonic Missile
+Breaching Missile
+Thermobaric Missile
+Nuclear Missile
+EMP Missile
+Exothermic Missile
+Endothermic Missile
+Anti-Gravitational Missile
+Ender Missile
+Hypersonic Missile
+Antimatter Missile
+Red Matter Missile
+Explosive Cart
+Shrapnel Minecart
+Incendiary Minecart
+Debilitation Minecart
+Chemical Minecart
+Anvil Minecart
+Repulsive Minecart
+Attractive Minecart
+Nightmare Minecart
+Fragmentation Minecart
+Contagious Minecart
+Sonic Minecart
+Breaching Minecart
+Thermobaric Minecart
+Nuclear Minecart
+EMP Minecart
+Exothermic Minecart
+Endothermic Minecart
+Anti-Gravitational Minecart
+Ender Minecart
+Hypersonic Minecart
+Antimatter Minecart
+Red Matter Minecart
+Slightly more destructive version of TNT
+Erupts in a barrage of metal fragments
+Catches the place on fire
+Confusion and disorientation for all around
+Can't fight if you can't breathe
+What's up doc
+Pushes everyone away
+Pulls everyone in
+Devastates the landscape with high velocity fragments
+Have you ever heard of the plague?
+Who needs to be a ninja to sneak in after that much noise?
+When you need a door
+Mini-nuke in a can. Or at least as close as the North can get
+Hi! I'm a nuclearholic..
+Over 9000? Not anymore
+You thought the sun was hot
+They call me Mr. Freeze
+I think your base looks better floating
+Let's relocate that base of yours
+I feel bad for your ears
+F2ohslGivm8
+11
+Yogscast? Diggy diggy hole
+Be a shame if your base was compacted into nothing
+Voltz special... The Bomb
+The wheels on the bus go round and round
+Did a cow just fly by the window?
+Oh god it's sucking me in
+There is no escape
+Not even light....
+Into the void
+Oh? You think you can escape
+Oh baby come back
+Missile Module
+Anti-ballistic Missile
+Cluster Missile
+Nuclear Cluster Missile
+Homing Missile
+Conventional Grenade
+Shrapnel Grenade
+Incendiary Grenade
+Debilitation Grenade
+Chemical Grenade
+Anvil Grenade
+Repulsive Grenade
+Attractive Grenade
+Concrete
+Compact Concrete
+Reinforced Concrete
+Reinforced Glass
+Glass Pressure Plate
+Glass Button
+Camouflage
+Proximity Detector
+Spikes
+Poison Spikes
+Flammable Spikes
+Battery Box
+Now tracking:
+Tracker out of electricity!
+Tracker is banned in this area!
+Defuser out of electricity!
+Calling air strike in:
+Incoming air strike!
+Laser Designator frequency set:
+Frequency must be greater than zero.
+Calling air strike into designated position!
+Laser designator out of electricity!
+Laser designator frequency not set!
+Scanned coordinates: X:%x Y:%y Z:%z - Distance: %d
+Radar Gun out of electricity!
+Coordinate information transferred!
+You must scan a coordinate!
+Region is being protected.
+Remote locked to: X:%x Y:%y Z:%z
+Remote out of electricity!
+Radar set to emit redstone
+Radar set to not emit redstone
+Insufficient electricity!
+Idle
+Frequency:
+X-Coord:
+Y-Coord:
+Z-Coord:
+X:
+Y:
+Z:
+Status:
+Voltage:
+Missile[%d, %d]
+Object[%d, %d]
+Frequency
+Proximity Detector
+All
+Players
+Mobs
+Detection Range
+Min
+Max
+Exclude
+Include
+Target:
+On
+Status:
+EMP Tower
+Missiles
+Electricity
+Both
+EMP Radius: %p blocks
+EMP Effect:
+Debilitate Electronics
+Disrupt Missiles
+Deplete Electricity
+Mode:
+Ready to blast!
+Launcher Platform
+Place Missile
+Launcher Control Panel
+Detonation Height:
+Lock Height:
+Missile Target
+Inaccuracy: %p blocks
+Not connected!
+Insufficient electricity!
+Missile silo is empty!
+Target is invalid!
+Target too close!
+Target too far!
+Ready to launch!
+Launch
+Cruise Launcher
+No Power!
+No Missile!
+Invalid Item!
+Invalid Missile Tier!
+Invalid Missile Type!
+Invalid Target!
+Target to close!
+3x3 not clear!
+Ready!
+Status: %s
+Warning: Cannot fire missile due to status error!
+Target data transferred from tool.
+Target data's world is not the same as this one!
+Tool does not contain any target data!
+Frequency set to %s
+Missile Coordinator
+Path Simulator
+From:
+To:
+Displacement: %p meters
+Arc: %p meters
+Time: %p seconds
+Direction:
+More features coming soon!
+Coordinates:
+Range
+Trigger:
+Detection:
+Radar on!
+No electricity!
+Terminal
+Ammunition
+Upgrades
+of %j
+User Access
+Frequency:
+Tracking:
+Frequency: Not set
+Saved coordinates:
+Meters
+Linked explosive:
+No Linked explosive
+Explosive tier
+Left-click on a mob (players aswell) and I will point to it.
+%s was crushed by the immense mass of the mighty black hole.
+%s suddenly started feeling not so well.
+%s breathed in too much of the green stuff.
+GPS data saved
+Invalid location
+Can't target another world
+No target set
+Data transferred
+GPS data cleared

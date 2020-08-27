@@ -1,0 +1,230 @@
+General Settings
+Donation Settings
+Extended Config
+Custom Color Settings
+Render Info Settings...
+Custom Color Settings...
+Offset Settings...
+Hypixel Settings...
+Reset Config
+Keystroke Custom Color
+Render Info Custom Color
+Preview
+Swap Render Info
+Custom Cape
+Health Status
+Keystroke Position
+Equipment Ordering
+Equipment Direction
+Equipment Status
+Equipment Position
+Potion HUD Style
+Potion HUD Position
+CPS Position
+Ping Mode
+CPS Opacity
+FPS
+XYZ
+Direction
+Biome
+Ping
+Ping to Second
+Server IP
+Server IP with MC
+Equipment HUD
+Potion HUD
+Keystroke
+Keystroke Mouse Button
+Keystroke Sprint/Sneak
+Keystroke Blocking
+CPS
+RCPS
+Slime Chunk
+Real Time
+Game Time
+Game Weather
+Moon Phase
+Potion HUD Icon
+TPS
+TPS All Dimensions
+Alternate Potion Color
+Armor HUD Y Offset
+Potion HUD Y Offset
+Keystroke Y Offset
+Maximum Potion Display
+Potion Length Y Offset
+Potion Length Y Offset (Overlap)
+FPS Color
+XYZ Color
+Biome Color
+Direction Color
+Ping Color
+Ping to Second Color
+Server IP Color
+Equipment Status Color
+Arrow Count Color
+CPS Color
+RCPS Color
+Slime Chunk Color
+Top Donator Name Color
+Recent Donator Name Color
+TPS Color
+Real Time Color
+Game Time Color
+Game Weather Color
+Moon Phase Color
+FPS Value Color
+FPS 26 & 40 Color
+FPS < 25 Color
+XYZ Value Color
+Direction Value Color
+Biome Value Color
+Ping Value Color
+Ping 200 & 300 Color
+Ping 300 & 500 Color
+Ping > 500 Color
+Server IP Value Color
+CPS Value Color
+RCPS Value Color
+Slime Chunk Value Color
+Top Donator Value Color
+Recent Donator Value Color
+TPS Value Color
+Real Time HHMMSS Value Color
+Real Time DDMMYY Value Color
+Game Time Value Color
+Game Weather Value Color
+Moon Phase Value Color
+Keystroke WASD Color
+Keystroke Mouse Button Color
+Keystroke Sprint Color
+Keystroke Sneak Color
+Keystroke Blocking Color
+Keystroke CPS Color
+Keystroke RCPS Color
+Keystroke WASD Rainbow
+Keystroke Mouse Button Rainbow
+Keystroke Sprint Rainbow
+Keystroke Sneak Rainbow
+Keystroke Blocking Rainbow
+Keystroke CPS Rainbow
+Keystroke RCPS Rainbow
+Right Click to Add Party
+[YTChat] View Count Color
+[YTChat] View Count Value Color
+This will show overall Server TPS to testing performance. (Only works with client)
+This will show TPS each dimension if available. 
+Right click on the button to see more info.
+Current Profile is '%s'
+Always
+Pointed
+Disabled
+Left
+Right
+Hotbar
+Hotbar Left
+Hotbar Right
+Default
+None
+Reverse
+Vertical
+Horizontal
+Damage/Max Damage
+Percent
+Only Damage
+Icon/Time
+Keystroke
+Custom
+Only Ping
+Ping and Delay
+Indicatia
+Toggle Sprint
+Toggle Sneak
+Recording Overlay
+Quick Config GUI
+Custom Cape GUI
+Donator GUI
+This command is not allowed on Hypixel!
+/afk <start:reason|stop|change_reason|mode...>
+/afk mode <idle|move|360|360_move>
+/autologin <add|remove|list> <command> <value>
+/autologin <add|remove|list|function> <command> <value>
+/autologin function help
+Showing %s auto login data entry
+- Auto Login Data for '%s' created by '%s'
+There are no auto login data entries was saved
+/inprofile <add|load|save|remove|list>
+/inprofile add <name>
+/inprofile load <name>
+/inprofile save <name>
+/inprofile remove <name>
+There are no profile data entries was saved
+Showing %s profile data entry
+- Profile Data : '%s' %s
+Currently used!
+/indicatia <toggle_sprint|toggle_sneak|gui>
+/indicatia toggle_sprint <enable|disable|mode>
+/indicatia toggle_sneak <enable|disable|mode>
+/indicatia toggle_sprint mode <key_binding|command>
+/indicatia toggle_sneak mode <key_binding|command>
+/slimeseed <seed>
+/realmsmsg <message...>
+/inhidename <add|remove> <name>
+/autofish <enable|disable>
+I'm back from %s! AFK Time is : %s minutes
+You didn't start using /afk command!
+Already start AFK!
+Reason
+AFK for now
+Change AFK Reason from %s to %s
+Set AFK mode to %s
+An Auto Login data already added!
+Set an Auto Login data for this server!
+Cannot use Auto Login command in Singleplayer!
+Cannot use Auto Login command in Realms server!
+Remove an Auto Login data from the server!
+No Auto Login data was set for this server!
+Reset realms message
+Set realms message to "%s"
+Already added!
+Already removed!
+Enabled Toggle Sprint
+Disabled Toggle Sprint
+Enabled Toggle Sneak
+Disabled Toggle Sneak
+Set Toggle Sprint to use 
+Ping
+Key Binding
+Command
+Cannot create profile name with 'default'!
+Profile data was already created by name '%s'!
+Add profile data name '%s'
+Cannot load profile data, empty profile data file!
+Load profile by name '%s'
+Save profile data by name '%s'
+Couldn't save profile to '%s'!
+Cannot remove default profile!
+Remove profile by name '%s'
+Cannot remove or find profile by name '%s'!
+Set slime chunk seed to %s
+Do you want to disconnect?
+Click again to Disconnect
+Refresh
+Check
+Help
+Auto Login Function set to this server!
+Reset Cape
+Reset current cape texture
+Reset Path
+Reset donator file path
+Example
+Reset CPS
+Preview
+Enabled Autofish
+Disabled Autofish
+You are not held a Fishing Rod!
+Already start Autofish!
+You didn't start using /autofish command!
+You must hold a Fishing Rod while AFK!
+Are you want to restore default config?
+Config '%s' has been reset to default setting!

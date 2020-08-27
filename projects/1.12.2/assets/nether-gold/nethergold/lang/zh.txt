@@ -1,0 +1,16 @@
+Fiery Gold Ingot
+Fiery Gold Dust
+Fiery Gold Sword
+Fiery Gold Shovel
+Fiery Gold Pickaxe
+Fiery Gold Axe
+Fiery Gold Hoe
+Fiery Gold Helmet
+Fiery Gold Chestplate
+Fiery Gold Leggings
+Fiery Gold Boots
+Nether Gold Ore
+Fiery Gold Block
+Nether Gold Ore has a chance to drop Fiery Gold Dust.
+Smelt Fiery Gold Dust to get a Fiery Gold Ingot which can make sweat armor and tools.
+Fiery Gold Tools have the better aspects of iron and gold tools.

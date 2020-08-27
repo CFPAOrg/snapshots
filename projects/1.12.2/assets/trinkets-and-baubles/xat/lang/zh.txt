@@ -1,0 +1,503 @@
+Trinkets
+Trinkets and Baubles
+ These are informational example text, they do not show up in game.
+ Tooltips for Items go up to 10
+ item.item.glow_ring.0.tooltip1, item.glow_ring.0.tooltip2, etc.
+ There are 3 Compatability Texts per Item, examples are
+ There are Color Codes that can be used to give the text below colors in game
+ Color Codes Start with Hashtag # and end with a Semi colon :, Example: #gold:, #darkgreen:, etc.
+ Colors... "black", "white", "red", "darkred", "blue", "darkblue", "green", "darkgreen", "lightpurple", "darkpurple", "yellow", "aqua", "darkaqua", "gray", "darkgray", "gold", "reset".
+ "strikethrough", "underline", "italic", "bold". Can also be used, Example: #strikethrough:, #bold:, etc.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<Hold Shift>
+<Hold Ctrl>
+This item doesn't give any attribute modifiers.
+While equipped:
+Attack Speed
+Attack Damage
+Health
+Armor
+Armor Toughness
+Knockback Resistance
+Movement Speed
+Swim Speed
+Step Height
+Jump Height
+#reset:(#green:On#reset:)
+#reset:(#red:Off#reset:)
+#reset:[#green:Enabled#reset:]
+#reset:[#red:Disabled#reset:]
+Trinkets and Baubles
+Cycle Target Treasure
+Toggle Night Vision
+Toggle Magnet
+Aux Key
+Trinkets Gui
+Open
+Close
+Enchanted Race
+Glowing Ingot
+Glowing Powder
+Glowing Gem
+Ring of Enchanted Eyes
+#darkgreen:Grants Night Vision
+%blindness:
+#gold:Immunity to Blindness
+Ring of the Fairies
+#gold:Reduces size to 1/4th of normal
+@creativeflight:
+#gold:Grants Creative flight
+Ring of the Dwarves
+#gold:Reduces size to 3/4th of normal
+@fortune:
+@skilledminer:
+@staticminer:
+#gold:Pseudo-Fortune
+#darkgreen:Skilled miner
+#darkgreen:Static mining speed
+Ring of the Titans
+#gold:Increases player size to 3x of normal
+Stone of Negative Gravity
+#darkgreen:Makes gravity not affect you when worn
+<#yellow:Left Click#reset:> to go #darkgreen:up
+<#yellow:Sneak#reset:> + <#yellow:Left Click#reset:> to go #darkgreen:down
+#green:Grants Levitation while held
+Stone of Inertia Null
+#darkaqua:$inertianullfd:#reset:#gold: Resistance to fall damage
+Stone of Greater Inertia
+#darkaqua:$greaterinertiafd:#reset:#gold: Resistance to fall damage
+Stone of the Sea
+@bubbles:
+@betterswimming:
+#gold:Infinite oxygen at #reset:[#darkaqua:$bubbles:#reset:]#gold: bubbles
+#darkgreen:Enhanced Swimming
+@tanthirst:
+#gold:Immunity to Thirst
+Disables the blur when entering water
+Polarized Stone
+@collect:
+<#yellow:*magnetkb:#reset: or #yellow:Right-Click#reset:>
+@repel:
+<#yellow:*auxkb:#reset: + #yellow:*magnetkb:#reset: or #yellow:Sneak#reset: + #yellow:Right-Click#reset:>
+#gold:Pulls nearby items @collectxp:
+and XP Orbs $collecttoggle:
+#gold:Repels arrows $repeltoggle:
+Collection mode $collecttoggle:
+Repel mode $repeltoggle:
+Dragon's Eye
+#gold:Grants Fire Resistance
+#darkgreen:Grants Night Vision $nightvision: #reset:<#yellow:*denvkb:#reset:>
+@treasurefinder:
+#darkgreen:Grants Night Vision $nightvision:
+#gold:Current Target: #darkaqua:#underline:$target: #reset:<#yellow:*deofkb:#reset:>
+#gold:Immunity to Blindness $blindness:
+#gold:I need more#white: $target:#gold: for my Treasury $looking:
+#gold:I need more #red:$target:#gold: to breathe?
+I think my Treasury is sufficiently full $looking:
+@heatimmune:
+#gold:Immunity to heat
+Disables fire splat effect
+Poison Stone
+#gold:Immunity To Poison
+#gold:Immunity to Hunger
+@poison:
+@bonusdamage:
+#darkaqua:$poisonchance:#darkgreen: Chance to poison enemies
+#darkgreen:Deals $damagemultiplier: Damage to poisoned enemies
+Wither Ring
+#gold:Immunity to Wither
+@wither:
+@leech:
+#darkaqua:$witherchance:#darkgreen: Chance to wither enemies
+#darkgreen:Heals #darkaqua:$leechamount:#darkgreen: hearts when attacking withered enemies
+Ender Queen's Crown
+#gold:Royalty
+#darkgreen:Endermen fight for you @endermenfollow:
+@damageignored:
+@endermenchance:
+@waterhurts:
+#darkaqua:$chance: #gold:Chance to ignore damage
+#darkaqua:$chance: #gold:Chance to spawn an Enderman
+and follow you
+#red:Weakness to water
+#gold:Immunity to cold
+Disabled endermen static effect
+Shield of Honor
+@explosionresist:
+@damageignored:
+#darkaqua:$explosionresistamount: #gold:Explosion damage resistance 
+#gold:Damage ignored: #darkaqua:$damageignoredhitcount:
+@headshots:
+#darkaqua:$headshotchance:#gold: Chance to ignore headshot
+Disables explosion blur
+Dwarf Stout
+#aqua:I might be able to remove the effects
+#aqua:by drinking some sort of potion
+<#blue:Use a Potion of Restoration to undo#reset:>
+Fairy Dew
+#aqua:I might be able to remove the effects
+#aqua:by drinking some sort of potion
+<#blue:Use a Potion of Restoration to undo#reset:>
+Titan's Spirit
+#aqua:I might be able to remove the effects
+#aqua:by drinking some sort of potion
+<#blue:Use a Potion of Restoration to undo#reset:>
+Enhanced Potion
+Enhanced Splash Potion
+Enhanced Lingering Potion
+Enhanced Tipped Arrow
+Enhanced
+#gold:Heals 2.5 hearts
+#gold:Restores 50 mana
+#green:Used to craft the Potion of Restoration
+#green:Used to craft the Fairy Transformation Potion
+#green:Used to craft the Dwarf Transformation Potion
+#green:Used to craft the Titan Transformation Potion
+Potion of Restoration
+Splash Potion of Restoration
+Lingering Potion of Restoration
+Tipped Arrow of Restoration
+Restorative
+#gold:Heals 10 hearts
+#gold:Removes potion effects
+#gold:Removes transformative effects from enchanted food
+Potion of Fairy Transformation
+Splash Potion of Fairy Transformation
+Lingering Potion of Fairy Transformation
+Tipped Arrow of Fairy Transformation
+Fairy Transformation
+Become a Fairy for $fairyticks: seconds
+Potion of Dwarf Transformation
+Splash Potion of Dwarf Transformation
+Lingering Potion of Dwarf Transformation
+Tipped Arrow of Dwarf Transformation
+Dwarf Transformation
+Become a Dwarf for $dwarfticks: seconds
+Potion of Titan Transformation
+Splash Potion of Titan Transformation
+Lingering Potion of Titan Transformation
+Tipped Arrow of Titan Transformation
+Titan Transformation
+Become a Titan for $titanticks: seconds
+Crafting Material
+Crafting Material
+Crafting Material
+Grants Night Vision When Worn
+Imbues the Wearer with Traits of the Fairy People. Abilities include flight, climbing and a tiny stature.
+Imbues the Wearer with Traits of the Dwarven People. Abilities include enhanced mining techniques that make excavation easier and help preserve mineral deposits.
+When worn the Wearer floats in place, While held in ones hand causes the holder to float into the air uncontrollably
+When worn the Wearer Is Immune to fall damage and knockback.
+When worn the Wearer Is Immune to fall damage, has increased jump height and increase in speed while sprinting.
+When worn the Wearer can move swiftly in water, and has infinite air when on their last air bubble.
+Pulls nearby Items and Xp toward the Wearer, when held it can also stop arrows in their tracks. Toggle Magnet on and off by Right-Clicking in your Hand. Toggle Repelling on and off by Sneak+Right-Clicking in your hand(Aux Key + Magnet Keybind when Equipped).
+When worn Imbues the Wearer with Magical Eyes Similar to a Dragons, Immune to Fire, Able to see through the darkness and find treasure on a whim.
+When worn, the Wearer has immunity to Poison, and has a chance to deal extra damage to poisoned enemies. 
+When worn, the Wearer has immunity to Wither, and has a chance to gain health from attacking a Withered enemy.
+Those who Wear this Crown are seen as Absolute Royalty in the eyes of the Endermen. If the Wearer is attacked in proximity of Endermen, they will come to the rescue. Endermen are so loyal to Royalty they will literally allow the Wearer to kill them without fighting back. They will also follow the Wearer around.
+Only the Most Accomplished Warrior is deserving of this Item. When Equipped Gives Resistance. (If Enabled) Ignores Damage every so many hits. (If First Aid is Installed and Enabled) has a chance to Ignore Fatal Headshot Damage.
+Gives a Permanent Fairy Effect, which can be removed with the Potion of Restoration. The splash and lingering variants will NOT work!
+Gives a Permanent Dwarf Effect, which can be removed with the Potion of Restoration. The splash and lingering variants will NOT work!
+Client Settings
+Settings with only visual effects.
+Trinkets Gui
+Settings regarding the Trinkets Gui on the client.
+Magic Food Settings
+Settings regarding the transformation foods.
+Potion Settings
+Settings regarding the potions.
+Server Settings
+Settings which change the gameplay.
+Trinkets Gui
+Settings regarding the Trinkets Gui on the server.
+Trinkets Gui Enabled
+Should Trinkets and Baubles Container be Enabled\nIf Disabled, please use "Baubles" by Azanor, Otherwise you wont be able to use this mod
+Item Enabled
+If this Item Should be added to the Registry on Load
+Render Trinkets
+Main Render Control for all Trinkets
+Render Trinket
+Render Trinket effects on the player
+Replace EntityRenderer
+When using the Enchanted Race rings, should Trinkets and Baubles Replace the EntityRenderer to solve some of the camera clipping issues?
+EntityRenderer Fog
+When Trinket and Baubles Replaces the EntityRenderer is breaks some settings with Optifine, Specifically Fog, use this to turn Fog on or off
+Foods Enabled
+If Trinkets and Baubles Food Items Should be added to the Registry on Load
+Transformative Effects
+Should the Magical Foods Tranform the player.
+Keep Effect
+Should the player keep the tranformation effect even on death, essentially making the Tranformation permanent.
+Potions Enabled
+Should Trinkets and Baubles Potions Be Added to the Registry on Load
+Potions Give Water
+If Tough as Nails is installed, Potions give water
+Restoration Potion Catalyst
+This is the Item Used to Craft this Potion in a Brewing Stand
+Fairy Effect Duration
+How Long in Ticks the Tranformation Lasts
+Fairy Potion Catalyst
+This is the Item Used to Craft this Potion in a Brewing Stand
+Dwarf Effect Duration
+How Long in Ticks the Tranformation Lasts
+Dwarf Potion Catalyst
+This is the Item Used to Craft this Potion in a Brewing Stand
+Titan Effect Duration
+How Long in Ticks the Tranformation Lasts
+Titan Potion Catalyst
+This is the Item Used to Craft this Potion in a Brewing Stand
+Potions work on Players only
+Whether the transformation potions should only work on players or if they should work on all mobs.
+Item Settings
+Ring of Enchanted Eyes Settings
+Prevent Blindness
+Should the Ring of Enchanted Eyes Prevent Blindness?
+Stone of Negative Gravity Settings
+Dragon's Eye Settings
+Treasure Finder
+Can The Dragon's Eye Detect Nearby Blocks
+Treasure Finder Range
+WARNING! SETTING THESE VALUES TOO HIGH WILL CAUSE YOU TO LAG. Try to Keep within a range of 4-16
+Vertical Distance
+How Far Vertically(Up, Down) in Blocks the Dragon's Eye effect triggers. Default 6, MIN 0, MAX 32
+Horizontal Distance
+How Far Horizontally(N, E, S, W) in Blocks the Dragon's Eye effect triggers. Default 12, MIN 0, MAX 32
+Block Settings
+Treasure Finder Block list
+What the Treasure Finding Feature of the Dragon's Eye can Detect
+Prevent Blindness
+Should the Dragon's Eye Prevent Blindness?
+Immune to Heat
+If Tough as Nails is Installed Should the player be Immune to Heat
+Dragon's Growl
+When The Treasure Finder is Enabled, Should There be a Growl the Treasure Finder Pings Treasure
+Dragon's Growl Trigger
+Determines When the Dragon's Growl Happens\nOptions:\nSNEAK\nSTAND\nBOTH
+Dragon's Growl Volume
+Dragon's Growl Volume Control
+Refresh Rate
+Determines of Often the Treasure Finder Pings for Treasure
+Ender Queen's Crown Settings
+Water Hurts
+If the Player Should Take Damage when wet
+Chance to Ignore Damage
+Should taking damage have a chance to be ignored?
+Chance for Enderman
+Should Taking Damage have a chance to Spawn an Enderman?
+Enderman Spawn Chance
+1 in X chance to to ignore damage and spawn an Enderman to fight for you
+Endermen Follow
+Nearby Endermen Follow you if enabled
+Endermen Retaliate
+When Attacking an Enderman should it fight back?
+Endermen Drop XP
+When Killing an Enderman Should it drop Experience?
+Endermen Drop Items
+When Killing an Enderman Should it drop Items?
+Immune to Cold
+If Tough as Nails is Installed Should the player be Immune to Cold
+Ring of the Fairies Settings
+Ring of the Dwarves Settings
+Ring of the Titans Settings
+Shield of Honor Settings
+Ignore Damage
+While Enabled, every X Hits, Nullify the Next Incoming Attack
+Required Hits
+How many Hits before the Next Attack is Ignored
+Explosion Resistance
+Resistance to Explosions
+Explosion Resistance Amount
+Multiply Incoming Explosion Source Damage by this Amount
+Resistance Level
+Level of Resistance when worn. Default 0
+Resistance Stacks
+If the Shield of Honors Resistance should Stack with Resistance from other sources
+Epic Pro Gamer
+Only Disable this if you're 'The' Epic Pro Gamer (Easter Egg)
+Ignore Headshots
+If First aid is installed, Chance to Ignore Fatal Head Damage\nOnly Triggers if the Next Attack was supposed to kill you
+Headshots Ignore Chance
+1 in X Chance to Ignore Fatal Headshot Damage
+Stone of Inertia Null Settings
+Modify Fall Damage
+Should the Stone of Inertia Null Modify Fall Damage?
+Modified Fall Damage Amount
+Multiply Fall Damage by This Amount
+Stone of Greater Inertia
+Modify Fall Damage
+Should the Stone of Greater Inertia Modify Fall Damage?
+Modified Fall Damage Amount
+Multiply Fall Damage by This Amount
+Modify Jump Height
+Should the Stone of Greater Inertia Modify Jump Height?
+Modified Jump Height Amount
+Multiply Jump Height by This Amount
+Poison Stone Settings
+Bonus Damage
+If an Enemy is Poisoned, Do Extra Damage?
+Bonus Damage Amount
+When an Enemy is Poisoned, Multiply damage dealt to them By this
+Can Poison
+Can the Poison Stone Poison Enemies?
+Poison Chance
+1 in X chance to Poison an Enemy on Attack for 2 seconds
+Polarized Stone Settings
+Instant Pickup
+Should the Polarized Stone Instantly Pickup Items
+Collection Range
+WARNING! SETTING THESE VALUES TOO HIGH WILL CAUSE YOU TO LAG. Try to Keep within a range of 4-16
+Vertical Distance
+How Far Vertically(Up, Down) in Blocks the Polarized Stone can Effect. Default 6, MIN 0, MAX 32
+Horizontal Distance
+How Far Horizontally(N, E, S, W) in Blocks the Polarized Stone can Effect. Default 12, MIN 0, MAX 32
+Effect EXP
+Should the Polarized Stone Effect XP
+Pull Mode Force
+How Much Force used when Things are Pulled Toward the player if Instant Pickup is disabled
+Repel Projectiles
+Should The Polarized Stone Repel Projectiles
+Repel Costs Mana
+Should It Cost Mana to Repel Projectiles
+Mana Cost
+How much Mana per Tick rate
+Mana Cost Tick Rate
+How often in Ticks Mana is Reduced while Repel Mode is Active
+Repelled Entities
+List of Entities the Polarized stone can repel
+Stone of the Sea Settings
+Better Swimming
+When Enabled applies tweaks to Water movement to make swimming easier
+Water Breathing
+When Enabled Gives Infinite Oxygen
+Full Bubbles
+When Infinite Oxygen is Enabled, Should it Trigger at Full Oxygen Bubbles, or when on the Final Oxygen Bubble
+Prevent TAN Thirst Poisoning
+If Tough as Nails is installed, Should the Stone of the Sea Prevent the Thirst Effect?
+Wither Ring Settings
+Leech
+If The Enemy Has Wither, Should you be able to leech health from them
+Leech Amount
+How Much Leech Per Hit in half hearts
+Wither Enemy
+Is it Possible to Wither an Enemy?
+Wither Chance
+1 in X Chance to Wither an Enemy on Attack for 2 Seconds
+Magic Settings
+Mana Enabled
+Mana Regen Rate
+How Often in Ticks Mana Regenerates
+Mana Regen Timeout
+How long after spending mana before it begins to regenerate
+Race Settings
+Fairy Race Settings
+Creative Flight
+Grants the player Creative Flight if Enabled
+Creative Flight Speed
+Change the flight speed from the Vanilla Default of 0.05
+Creative Flight Speed Amount
+Directly Sets the Movement speed for Creative Flight
+Climbing
+Should the Player be able to Climb Blocks?
+Climable Blocks
+List of Blocks the player can Climb when Wearing the Ring of the Fairies
+Jump Height Adjustment
+Adjusts the players Jump and Step Height to Match the players Size
+Dwarf Race Settings
+Block Settings
+Blocks Give XP
+Should Blocks Give Bonus XP?
+Bonus XP Min
+Bonus XP Max
+Bonus XP Block List
+Blocks in this List will give bonus XP Randomly between Bonus_XP_Min and Bonus_XP_Max
+Minimum XP Blocks
+Should Blocks give at Least 1 XP
+Minimum XP Block List
+Blocks in this List will Always Give 1 XP when Broken
+Natural Fortune
+Should the Ring of the Dwarves Have a Natural Fortune Ability
+Natural Fortune Stacking
+Should the Ring of the Dwarves Natural Fortune Ability Stack with the Fortune Enchantment?
+Natural Fortune Block List
+Natural Fortune only works on Blocks in this List
+Skilled Miner
+Should the Dwarves Ring lower the mining level requirement for pickaxes. IE. an Iron Pickaxe will be able to break Obsidian?
+Static Mining
+When Mining, Mining Speed is static at (Block Hardness * 4), Not Including other Modifiers.
+Titan Race Settings
+Jump Height Adjustment
+Adjusts the players Jump and Step Height to Match the players Size
+Heavy Player
+If Enabled the player will sink faster in water and make it more difficult to swim up
+Trample Farmland
+If Enabled the player will trample farmland in a 3x3 under the player
+Compatability Settings
+Settings which affect how this mod works with other mods.
+Tough as Nails
+If the Mod Tough as Nails is Installed
+First Aid Settings
+Baubles
+If the mod Baubles is installed what bauble slot should it use\nAvailable Types:\nTrinket, Any, All\nAmulet, Necklace, Pendant\nRing, Rings\nBelt\nHead, Hat\nBody, Chest\nCharm
+Bauble Type
+If the mod Baubles is installed what bauble slot should it use\nAvailable Types:\nTrinket, Any, All\nAmulet, Necklace, Pendant\nRing, Rings\nBelt\nHead, Hat\nBody, Chest\nCharm
+Attributes
+"For Mor Information on Attributes"\n"https://minecraft.gamepedia.com/Attribute"
+Enable Attribute Modifier
+Armor
+Attribute Modifier Amount
+Armor Amount
+Determines the Math used for the Attribute Modifer
+Armor Operation
+Enable Attribute Modifier
+Armor Toughness
+Attribute Modifier Amount
+Armor Toughness Amount
+Determines the Math used for the Attribute Modifer
+Armor Toughness Operation
+Enable Attribute Modifier
+Attack Speed
+Attribute Modifier Amount
+Attack Speed Amount
+Determines the Math used for the Attribute Modifer
+Attack Speed Operation
+Enable Attribute Modifier
+Damage
+Attribute Modifier Amount
+Damage Amount
+Determines the Math used for the Attribute Modifer
+Damage Operation
+Enable Attribute Modifier
+Health
+Attribute Modifier Amount
+Health Amount
+Determines the Math used for the Attribute Modifer
+Health Operation
+Enable Attribute Modifier
+Knockback
+Attribute Modifier Amount
+Knockback Amount
+Determines the Math used for the Attribute Modifer
+Knockback Operation
+Enable Attribute Modifier
+Luck
+Attribute Modifier Amount
+Luck Amount
+Determines the Math used for the Attribute Modifer
+Luck Operation
+Enable Attribute Modifier
+Reach
+Attribute Modifier Amount
+Reach Amount
+Determines the Math used for the Attribute Modifer
+Reach Operation
+Enable Attribute Modifier
+Movement Speed
+Attribute Modifier Amount
+Movement Speed Amount
+Determines the Math used for the Attribute Modifer
+Movement Speed Operation
+Enable Attribute Modifier
+Swim Speed
+Attribute Modifier Amount
+Swim Speed Amount
+Determines the Math used for the Attribute Modifer
+Swim Speed Operation

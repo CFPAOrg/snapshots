@@ -1,0 +1,34 @@
+English
+US
+en_US
+Javelin
+Throwing Axe
+Throwing Knife
+Dagger
+Spectral Bolt
+Boomerang
+Bolt
+Steel-Infused Bone Leather
+Steel-Infused Bone Hood
+Steel-Infused Bone Leggings
+Steel-Infused Bone Chestplate
+Steel-Infused Bone Boots
+Obsidian Chain Helmet
+Obsidian Chain Leggings
+Obsidian Chain Chestplate
+Obsidian Chain Boots
+Diamond-Dusted Invar Helmet
+Diamond-Dusted Invar Leggings
+Diamond-Dusted Invar Chestplate
+Diamond-Dusted Invar Boots
+Copper-Threaded Cloth
+Copper-Threaded Hood
+Copper-Threaded Pants
+Copper-Threaded Robes
+Copper-Threaded Boots
+Copper Idol
+Bronze Idol
+Brass Idol
+Silver Idol
+Hemp Seed Bread
+Portal Block

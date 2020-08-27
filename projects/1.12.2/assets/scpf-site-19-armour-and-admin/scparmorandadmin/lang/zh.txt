@@ -1,0 +1,56 @@
+§6§lMTFE9 Helmet
+§9§MTFE10 Boots
+§f§lScientist Body
+§9§lMTFE10 Leggings
+§b§lMTFN7 Body
+§b§lMedic Mask
+§b§lMTFN7 Helmet
+§7§lClass E Body
+§a§lMTFB7 Boots
+§7§lClass E Leggings
+§6§lMTFE11 Helmet
+Class E Helmet
+§f§lScientist Leggings
+§6§lAdmin And SO Body
+§8§lSecurity Department Body
+§4§lMTFA1 Helmet
+§4§lMTFA1 Leggings
+§8§lSecurity Department Helmet
+§6§lClass D Leggings
+Janitor Boots
+§6§lMTFE9 Body
+§6§lAdmin And SO Boots
+SCP Armor And Admin
+§a§lMTFB7 Leggings
+Scientist Boots
+§a§lMTFB7 Helmet
+§9§lMTFE10 Body
+Council Leggings
+§1Janitor Leggings
+§6§lMTFE11 Body
+Admin And SO Helmet
+Council Body
+§9§lMTFE10 Helmet
+Scientist Helmet
+Class E Boots
+§6§kFiller
+§b§lMedic Body
+§6§lMTFE9 Boots
+§4§lMTFA1 Boots
+§6§kFiller
+§b§lMTFN7 Boots
+§1Janitor Body
+§b§lMedic Leggings
+§6§lMTFE11 Boots
+Council Boots
+§6§lMTFE11 Leggings
+§6§lClass D Body
+§8§lSecurity Department Leggings
+Security Department Boots
+§4§lMTFA1 Body
+Janitor Helmet
+Medic Boots
+§a§lMTFB7 Body
+§6§lMTFE9 Leggings
+§6§lAdmin And SO Leggings
+§b§lMTFN7 Leggings

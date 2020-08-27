@@ -1,0 +1,24 @@
+Overall
+mean
+Server Tab Info not installed on server
+Dim
+Ping
+ms
+tps
+Unknown
+Analysing
+Page %d of %d
+Some mod is interfering with ServerTabInfo
+Please report this to me with a mod list
+Server Tab Info
+Show TPS (Press TAB + this)
+Show TPS (Press TAB + this)
+Server Tab Info
+Show ping
+Show version box
+Replace player list
+Overworld
+The Nether
+The End
+The Lost Cities
+The Twilight Forest

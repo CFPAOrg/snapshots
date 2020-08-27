@@ -1,0 +1,43 @@
+Error while checking Life Essence requirement
+Missing or Unbound Blood Orb
+Not enough LP
+Not enough will
+Too much will
+Not enough aspect
+Can't output aspect
+Not enough grid power
+No Grid Power Hatch found
+Missing working Rainbow Generator
+Not enough Starlight
+No Starlight Hatch found
+No Constellation Detector Hatch found
+Constellation not present
+Unknown Constellation
+Invalid Aura type in this world
+Not enough Aura
+Too much Aura
+Not enough Mana
+Invalid IO Type
+Invalid Hatch
+LP
+LP per Tick
+Life Essence
+Need %f GP
+Produce %f GP
+A working rainbow generator is needed for this recipe
+Demon Will Input Hatch
+Demon Will Output Hatch
+Life Essence Input Hatch
+Life Essence Output Hatch
+Essentia Input Hatch
+Essentia Output Hatch
+Grid Power Input Hatch
+Grid Power Output Hatch
+Starlight Collector Hatch
+Starlight Distributor Hatch
+Constellation Detector Hatch
+Aura Input Hatch
+Aura Output Hatch
+Rainbow Input Hatch
+Mana Input Hatch
+Mana Output Hatch

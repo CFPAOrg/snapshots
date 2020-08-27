@@ -1,0 +1,2 @@
+%1$s was consumed by the darkness
+%1$s was consumed by the darkness whilst trying to escape %2$s

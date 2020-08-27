@@ -1,0 +1,46 @@
+Custom Night Detection
+Settings for custom night detection
+Custom start enabled
+If true, manual night start time will be used instead of vanilla skylight check.
+Custom start value (ticks)
+Specify the tick time that night starts and sleeping is allowed.\nDefault value of 13000 is about 7pm. Refer to 'Day-night_cycle' on Gamepedia wiki for more info and conversion rates/tables.
+Sleep Restrictions
+Settings related to restricting sleep
+Mob Check X/Z Range
+Horizontal radius to scan for hostile mobs. Set to 0 to disable safety check completely.
+Mob Check Y Range
+Vertical distance to scan for hostile mobs (both up and down). Set to 0 to disable safety check completely.
+Sleep during day?
+If true, players can sleep during the day and will NOT be automatically woken-up either.
+[CMC] Sleep anywhere?
+REQUIRES CMC. If true, unlocks sleeping ability in any dimension (e.g. Nether).\nNote #1: Respawn point will not be reset, you always respawn in overworld.\nNote #2: Other dimensions have their own idea about night-time, e.g. Nether is always night.
+Timelapse Options
+Configure the Timelapse sleep function.
+Timelapse max TPS
+Maximum tickrate for Timelapse.\nNote that Tickrate Changer will throttle back tickrate as necessary to avoid total CPU saturation.
+Client Settings
+Settings that only affect the current client
+Show clock in bed?
+If false, the clock will not be displayed when a player lies in bed.
+Sleep-vote Configuration
+Configuration options related to the sleep vote system.
+Sleep Vote percent
+Minimum percent of players required before sleep vote reminders (and actions, if any) can occur.
+Vote Action timeout
+Once the percentage of sleeping players is reached, wait this many seconds before performing the configured vote action.\nNote that if the sleeping player percentage drops below the configured minimum, the timeout action is cancelled.
+Vote Action selection
+The action to perform once actionTimeout has elapsed (assuming the sleeping player percentage has been maintained).\n    NONE: Take no action, just show the reminder.\n    TIMELAPSE_ANYWAY: Continue with Timelapse - awake players have to deal with the server tickrate being sped-up.\n    CMC_KICK_AWAKE: Requires CMC (otherwise skip-to-day will occur after kick). Kick awake players, then continue with Timelapse.\n    SKIP_TO_DAY: Skip to the next day (fallback to vanilla Minecraft behavior).
+Sleeping reminder text
+Text that will be periodically displayed to other players when the configured percent has been reached.\n(COUNT) will be replaced with (e.g.) '2/3' to display currently-sleeping/total players.\n(COUNT) will be replaced with remaining time before sleep action is performed.
+Sleeping reminder time
+How many seconds at a time to display a reminder to players.
+Sleeping reminder interval
+How many seconds between successive reminder displays.
+All-asleep text
+Text displayed when all players are asleep.
+Vote-passed text
+Text displayed when vote action has passed.
+Action cancelled text
+Text to display to players when an active or pending vote action is cancelled for whatever reason.\n(COUNT) will be replaced with (e.g.) '2/3' to display currently-sleeping/total players.
+Action kicked text
+Text to display to players (The 'Reason' on the Disconnected screen) when they're kicked as the result of a vote. Note that due to a Minecraft bug, sometimes a generic reason may still show instead.

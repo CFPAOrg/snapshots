@@ -1,0 +1,10 @@
+Compost Bin
+Compost Bin
+Compost
+Compost Bin
+Wormfood
+Make compost in a compost bin
+Inactive, %s units
+Active, %s units
+Slot %s - %s/%s
+Output %s/%s @ %s

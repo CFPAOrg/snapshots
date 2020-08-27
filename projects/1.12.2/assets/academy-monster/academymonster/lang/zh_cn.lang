@@ -1,0 +1,11 @@
+am.app.aim_scanner_no_focus.name=没有目标
+am.app.aim_scanner_skill_list.name=技能列表:
+ac.settings.prop.open_aim_scanner=打开瞄准扫描仪
+am.aim_scanner_skill_list.notinstalled=你还没有安装 AIM 扫描器应用。
+ac.app.aim_scanner.name=瞄准扫描仪
+ac.ability.MineRay.name=地雷射线
+ac.ability.meltdowner.electron_curtain.name=电子帘
+ac.ability.teleporter.loc_manip=位置操纵
+entity.academymonster.am_fake_railgun.name=假的磁轨炮
+entity.academymonster.am_insane_meltdowner.name=疯狂冶炼炉
+item.railgun_core.name=轨道炮核心

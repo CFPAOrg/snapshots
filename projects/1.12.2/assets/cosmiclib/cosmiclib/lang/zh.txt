@@ -1,0 +1,2 @@
+%1$sCoreModCompanion [CMC] not detected.%2$s Please install
+the additional CMC jar to use these features.

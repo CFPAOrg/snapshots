@@ -1,0 +1,19 @@
+Locks
+Lock
+Lock Pick
+Key
+Master Key
+Key Blank
+Key Ring
+Lock picking
+Press `ESC` to open
+Keys jingle
+Lock clicks
+Key turned in lock
+Lock rattles
+Pin clicks lightly
+Pin clicks into place
+ID: %s
+Length: %s
+Strength: %s
+This block is locked

@@ -1,0 +1,18 @@
+Mine Trading Cards
+Common Card
+Uncommon Card
+Rare Card
+Ancient Card
+Legendary Card
+Common Pack
+Uncommon Pack
+Rare Pack
+Ancient Pack
+Legendary Pack
+Cards Pack
+Edition Pack
+Custom Pack
+Cards Binder
+Cards Displayer
+Card Displayer
+Card Master

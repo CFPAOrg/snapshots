@@ -1,0 +1,51 @@
+Energy Collector MK4
+Energy Collector MK5
+Energy Collector MK6
+Energy Collector MK7
+Anti-Matter Relay MK4
+Anti-Matter Relay MK5
+Anti-Matter Relay MK6
+Anti-Matter Relay MK7
+Orange Alchemical Coal Block
+Orange Mobius Fuel Block
+Orange Aeternalis Fuel Block
+Yellow Alchemical Coal Block
+Yellow Mobius Fuel Block
+Yellow Aeternalis Fuel Block
+Green Alchemical Coal Block
+Green Mobius Fuel Block
+Green Aeternalis Fuel Block
+Blue Alchemical Coal Block
+Blue Mobius Fuel Block
+Blue Aeternalis Fuel Block
+Dark Alchemical Coal
+Dark Mobius Fuel
+Dark Aeternalis Fuel
+Orange Alchemical Coal
+Orange Mobius Fuel
+Orange Aeternalis Fuel
+Yellow Alchemical Coal
+Yellow Mobius Fuel
+Yellow Aeternalis Fuel
+Green Alchemical Coal
+Green Mobius Fuel
+Green Aeternalis Fuel
+Blue Alchemical Coal
+Blue Mobius Fuel
+Blue Aeternalis Fuel
+Rainbow Alchemical Coal
+Rainbow Mobius Fuel
+Rainbow Aeternalis Fuel
+Orange Matter
+Yellow Matter
+Green Matter
+Blue Matter
+Rainbow Matter
+Orange Matter Block
+Yellow Matter Block
+Green Matter Block
+Blue Matter Block
+Rainbow Matter Block
+Auxilium Equivalence
+N/A
+Repair Talisman MK2

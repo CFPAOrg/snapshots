@@ -1,0 +1,85 @@
+SmartCursor Settings
+Is Enabled:
+Show current block damage:
+Show mob health:
+Show drop information:
+Show drop enchantments:
+Show drop durability:
+Show XPorb information:
+Show player information:
+Show blocks information:
+Advanced
+Advanced settings
+Display advanced info for mobs:
+Max. count of heart icons in row:
+Display advanced drop info:
+Find mob looking at in:
+Tooltip transparent:
+Style of player info:
+Display tooltip in:
+HEART COUNT
+DISTANCE
+TRANSPARENT
+RIGHT CORNER
+LEFT CORNER
+DISPLAY TIME
+Display time:
+Loaded modules
+All Loaded Modules
+ON/OFF
+Module class
+Short description
+Author
+Book has following enchantments:
+Heal amount: 
+Possible to use in potions
+Wolfs favorite meat!
+Item enchanted with following:
+Count: 
+Item has effect
+Item has subtypes
+Item enchantable
+Item is damaged!
+Stackable
+ in 
+ items
+You can harvest this block
+Growable
+Shearable
+Choose tool, that can harvest this block
+slot count: 
+Score: 
+Equipment:
+Team: 
+ [Ench]
+Tamed by
+Tamed!
+Not tamed!
+Mob is sitting
+Speed: 
+Jump strength: 
+Wait, he is trading...
+Profession: Farmer
+Profession: Librarian
+Profession: Priest
+Profession: Blacksmith
+Profession: Butcher
+Profession: Generic
+Mob is wet
+Mob is sprinting
+Mob is riding
+Mob is burning
+Mob is invulnerable
+Mob is undead
+Mob is immune to fire
+Mob is agressive!
+Mob is passive
+Child, will grow after ~
+ sec.
+IN CORNER
+NEAR CURSOR
+NUMERIC
+ICONS
+PROGRESS BAR
+PERCENTS
+Update mod here:

@@ -1,0 +1,6 @@
+Progressive Boxes
+Loot Box
+/pb_testroll <box_id> <forceRequirements>
+This command is player only!
+Box %s does not exist!
+/pb_reload

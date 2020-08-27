@@ -1,0 +1,41 @@
+Reset
+Random
+Unavailable
+Head
+Body
+Back
+Right arm
+Left arm
+Right leg
+Left leg
+Wings
+none
+Dog ears
+Elephant ears
+Mouse ears (S)
+Mouse ears (L)
+Cat ears
+default
+skirt
+default
+shield (1)
+shield (2)
+default
+default
+shield
+blade
+default
+shield (1)
+blade (1)
+shield (2)
+blade (2)
+default
+Peg leg
+Peg leg
+default
+bird
+butterfly
+No such feature: %s
+/feature username feature value
+Fuzzy Players
+Player model menu

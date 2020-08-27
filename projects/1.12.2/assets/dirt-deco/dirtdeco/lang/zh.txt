@@ -1,0 +1,24 @@
+English
+United States
+en_us
+Dirt Deco
+Dirt Stairs
+Grass Slab
+Gravel Slab
+Path Slab
+Red Sand Slab
+Sand Slab
+Native Stone Slab
+Dirt Fence
+Gravel Fence
+Red Sand Fence
+Sand Fence
+Stone Fence
+Grass Fence
+Dirt Stairs
+Grass Stairs
+Gravel Stairs
+Grass Path Stairs
+Red Sand Stairs
+Sand Stairs
+Stone Stairs

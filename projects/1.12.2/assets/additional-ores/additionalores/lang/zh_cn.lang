@@ -1,0 +1,11 @@
+item.BonesSword.name=骨之剑
+item.BonesAxe.name=骨石斧
+advancements.gettingupgraded.descr=升级一块骨头
+item.UpgradedBone.name=升级骨头
+advancements.gettingupgraded.title=升级
+tile.WoodOre.name=木矿石
+item.BonesPickaxe.name=骨镐
+tile.PaperOre.name=纸矿石
+item.BoneShovel.name=骨锹
+tile.Bones.name=骨头
+itemGroup.tabadditionalOresTab=附加矿石

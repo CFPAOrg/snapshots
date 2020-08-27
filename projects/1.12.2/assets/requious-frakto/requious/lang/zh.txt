@@ -1,0 +1,15 @@
+%1$s/%2$s
+%1$s
+%1$s/%2$s FE
+%1$s FE
+%1$s/%2$s RF
+%1$s RF
+%s ticks
+%s seconds
+%s minutes
+%s hours
+Instant
+%1$s %2$s/%3$s mB
+Empty
+I've been alive for %s ticks
+Owned by %s

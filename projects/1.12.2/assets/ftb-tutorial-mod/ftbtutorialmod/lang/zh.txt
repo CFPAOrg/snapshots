@@ -1,0 +1,4 @@
+Tutorials
+Tutorial failled to load!
+Exit tutorial?
+/open_tutorial <namespace:id> <player>

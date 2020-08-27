@@ -1,0 +1,12 @@
+Sword of Fire
+Nunchucks of Lightning
+Shurikens of Ice
+Scythe of Quakes
+Fire Helmet
+Fire Chestplate
+Fire Leggings
+Fire Boots
+Lightning Helmet
+Lightning Chestplate
+Lightning Leggings
+Lightning Boots

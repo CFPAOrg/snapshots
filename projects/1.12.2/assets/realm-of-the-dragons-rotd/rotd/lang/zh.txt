@@ -1,0 +1,98 @@
+Realm Of The Dragons
+Amethyst Dragon
+Ender Dragon
+Garnet Dragon
+Emerald Dragon
+Sapphire Dragon
+Ender Dragon
+Nether Dragon
+Ruby Dragon
+Skeleton Dragon
+Wither Dragon
+There are no dragons nearby
+You cannot tame dragons
+Diamond Shears
+Structure Spawner (Debug)
+Nest Block
+%s Egg
+Ender Dragon Scales
+Ender Dragon Pickaxe
+Ender Dragon Axe
+Ender Dragon Spade
+Ender Dragon Sword
+Ender Dragon Cap
+Ender Dragon Chestplate
+Ender Dragon Leggings
+Ender Dragon Boots
+Nether Dragon Scales
+Nether Dragon Pickaxe
+Nether Dragon Axe
+Nether Dragon Spade
+Nether Dragon Sword
+Nether Dragon Cap
+Nether Dragon Chestplate
+Nether Dragon Leggings
+Nether Dragon Boots
+Emerald Dragon Scales
+Emerald Dragon Pickaxe
+Emerald Dragon Axe
+Emerald Dragon Spade
+Emerald Dragon Hoe
+Emerald Dragon Sword
+Emerald Dragon Cap
+Emerald Dragon Chestplate
+Emerald Dragon Leggings
+Emerald Dragon Boots
+Ruby Dragon Scales
+Ruby Dragon Pickaxe
+Ruby Dragon Axe
+Ruby Dragon Spade
+Ruby Dragon Sword
+Ruby Dragon Cap
+Ruby Dragon Chestplate
+Ruby Dragon Leggings
+Ruby Dragon Boots
+Amethyst Dragon Scales
+Amethyst Dragon Pickaxe
+Amethyst Dragon Axe
+Amethyst Dragon Spade
+Amethyst Dragon Sword
+Amethyst Dragon Cap
+Amethyst Dragon Chestplate
+Amethyst Dragon Leggings
+Amethyst Dragon Boots
+Garnet Dragon Scales
+Garnet Dragon Pickaxe
+Garnet Dragon Axe
+Garnet Dragon Spade
+Garnet Dragon Sword
+Garnet Dragon Cap
+Garnet Dragon Chestplate
+Garnet Dragon Leggings
+Garnet Dragon Boots
+Sapphire Dragon Scales
+Sapphire Dragon Pickaxe
+Sapphire Dragon Axe
+Sapphire Dragon Spade
+Sapphire Dragon Sword
+Sapphire Dragon Cap
+Sapphire Dragon Chestplate
+Sapphire Dragon Leggings
+Sapphire Dragon Boots
+ Dragon Controls
+Fly Up
+Fly Down
+Amethyst Dragon
+Ender Dragon
+Garnet Dragon
+Emerald Dragon
+Sapphire Dragon
+Ender Dragon
+Nether Dragon
+Ruby Dragon
+Skeleton Dragon
+Wither Dragon
+Diamond Dragon Armor
+Iron Dragon Armor
+Gold Dragon Armor
+The dragon is too young let it grow.

@@ -1,0 +1,113 @@
+Topaz Axe
+Topaz Boots
+Topaz Reinforced Bow
+Topaz Chestplate
+Topaz Fishing Rod
+Topaz Hammer
+Topaz Helmet
+Topaz Hoe
+Topaz Leggings
+Topaz Pickaxe
+Topaz Shears
+Topaz Shield
+Topaz Shovel
+Topaz Sickle
+Topaz Sword
+Ruby Axe
+Ruby Boots
+Ruby Reinforced Bow
+Ruby Chestplate
+Ruby Fishing Rod
+Ruby Hammer
+Ruby Helmet
+Ruby Hoe
+Ruby Leggings
+Ruby Pickaxe
+Ruby Shears
+Ruby Shield
+Ruby Shovel
+Ruby Sickle
+Ruby Sword
+Peridot Axe
+Peridot Boots
+Peridot Reinforced Bow
+Peridot Chestplate
+Peridot Fishing Rod
+Peridot Hammer
+Peridot Helmet
+Peridot Hoe
+Peridot Leggings
+Peridot Pickaxe
+Peridot Shears
+Peridot Shield
+Peridot Shovel
+Peridot Sickle
+Peridot Sword
+Tanzanite Axe
+Tanzanite Boots
+Tanzanite Reinforced Bow
+Tanzanite Chestplate
+Tanzanite Fishing Rod
+Tanzanite Hammer
+Tanzanite Helmet
+Tanzanite Hoe
+Tanzanite Leggings
+Tanzanite Pickaxe
+Tanzanite Shears
+Tanzanite Shield
+Tanzanite Shovel
+Tanzanite Sickle
+Tanzanite Sword
+Malachite Axe
+Malachite Boots
+Malachite Reinforced Bow
+Malachite Chestplate
+Malachite Fishing Rod
+Malachite Hammer
+Malachite Helmet
+Malachite Hoe
+Malachite Leggings
+Malachite Pickaxe
+Malachite Shears
+Malachite Shield
+Malachite Shovel
+Malachite Sickle
+Malachite Sword
+Sapphire Axe
+Sapphire Boots
+Sapphire Reinforced Bow
+Sapphire Chestplate
+Sapphire Fishing Rod
+Sapphire Hammer
+Sapphire Helmet
+Sapphire Hoe
+Sapphire Leggings
+Sapphire Pickaxe
+Sapphire Shears
+Sapphire Shield
+Sapphire Shovel
+Sapphire Sickle
+Sapphire Sword
+Amber Axe
+Amber Boots
+Amber Reinforced Bow
+Amber Chestplate
+Amber Fishing Rod
+Amber Hammer
+Amber Helmet
+Amber Hoe
+Amber Leggings
+Amber Pickaxe
+Amber Shears
+Amber Shield
+Amber Shovel
+Amber Sickle
+Amber Sword
+Depthdigger
+Topaz
+Malachite
+Peridot
+Tanzanite
+Ruby
+Sapphire
+Amber

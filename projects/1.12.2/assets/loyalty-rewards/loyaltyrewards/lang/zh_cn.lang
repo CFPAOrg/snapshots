@@ -1,0 +1,5 @@
+loyaltyrewards.config.title=Loyalty Rewards Config
+loyaltyrewards.rewarded.message=You have been rewarded for playing
+loyaltyrewards.rewarded.toast.message=Reward for %s
+loyaltyrewards.inventory.full=Inventory is full, reward was dropped near you.
+loyaltyrewards.stat.playNotIdle=Real Time Played

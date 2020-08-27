@@ -1,0 +1,4 @@
+item.cyclops_eye.name=Cyclops Eye
+entity.Cyclops.name=Cyclops
+death.attack.eye_beam=%s was melted by Cyclop's eye beam
+tile.beacon_eye.name=Beacon Eye

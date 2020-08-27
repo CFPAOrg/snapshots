@@ -1,0 +1,182 @@
+§4Soulbound greatsword§r
+§4Soulbound sword§r
+§4Soulbound dagger§r
+§4Soulbound staff§r
+§4Soulbound pick§r
+soulbound greatsword
+soulbound sword
+soulbound dagger
+soulbound staff
+soulbound pick
+soulbound armory
+open GUI
+toggle XP bar
+weapon selection
+tool confirmation
+attributes
+enchantments
+skills
+reset
+bind current slot
+unbind current slot
+unspent points
+unspent point
+points
+point
+costs %%d %%s to learn
+costs %%d %%s to upgrade
+level
+red
+green
+blue
+alpha
+style
+experience
+boss
+§6
+§c
+§e
+§9
+§a
+§6
+§c
+§e
+attack damage
+attack speed
+critical strike chance
+knockback
+efficiency
+harvest level
+reach distance
+ambidexterity
+endermanacle
+fireball
+freezing
+healing
+leaping
+leeching
+penetration
+shadow clone
+sneak return
+summon lightning
+return
+teleportation
+throwing
+vulnerability
+allows its user to mine with their left hand. (Not yet implemented.)
+prevents hit entities from teleporting.
+adds a fireball to your arsenal.
+freezes enemies if passed while leaping and nearby enemies when landing from a leap.
+allows you to heal yourself.
+enables its user to leap by using the greatsword.
+randomly nourishes you and regenerates saturation when you hit an deal damage.
+allows fireballs to penetrate entities hit.
+spawns a clone when an enemy is hit.
+causes the dagger to return early while sneaking.
+summons a ligthning bolt when the sword is used.
+causes the dagger to return when on ground, too far or airborne for too long.
+teleports mined items to their miner's inventory.
+makes the dagger throwable.
+deals damage to entities that are immune to fireballs.
+Impact
+Your %s leveled up to level %d.
+coal
+iron
+diamond
+obsidian
+/sba <xp|level> <add|set> <amount> [player]
+/sba reset [player]
+/sba <xp|level> <add|set> <amount> <player>
+/sba reset <player>
+The selected user must be holding a soulbound item.
+nulla
+XI
+XII
+XIII
+XIV
+XV
+XVI
+XVII
+XVIII
+XIX
+XX
+XXI
+XXII
+XXIII
+XXIV
+XXV
+XXVI
+XXVII
+XXVIII
+XXIX
+XXX
+XXXI
+XXXII
+XXXIII
+XXXIV
+XXXV
+XXXVI
+XXXVII
+XXXVIII
+XXXIX
+XXXX
+XXXXI
+XXXXII
+XXXXIII
+XXXXIV
+XXXXV
+XXXXVI
+XXXXVII
+XXXXVIII
+XXXXIX
+L
+LI
+LII
+LIII
+LIV
+LV
+LVI
+LVII
+LVIII
+LIX
+LX
+LXI
+LXII
+LXIII
+LXIV
+LXV
+LXVI
+LXVII
+LXVIII
+LXIX
+LXX
+LXXI
+LXXII
+LXXIII
+LXXIV
+LXXV
+LXXVI
+LXXVII
+LXXVIII
+LXXIX
+LXXX
+LXXXI
+LXXXII
+LXXXIII
+LXXXIV
+LXXXV
+LXXXVI
+LXXXVII
+LXXXVIII
+LXXXIX
+LXXXX
+LXXXXI
+LXXXXII
+LXXXXIII
+LXXXXIV
+LXXXXV
+LXXXXVI
+LXXXXVII
+LXXXXVIII
+LXXXXIX
+C

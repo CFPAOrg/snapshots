@@ -1,0 +1,170 @@
+More Weapons-Weapons
+More Weapons-Tools
+More Weapons-Armor
+More Weapons-Materials
+More Weapons-Blocks
+Carbon Ingot
+Four Coal
+Fight Portal
+Overworld Portal
+Weapon Case
+Christmas Sword
+Santa Sword
+Candy Cane Sword
+Christmas Tree Sword
+Gingerbread Sword
+Copper ingot
+Copper Sword
+Copper Pickaxe
+Copper Shovel
+Copper Axe
+Copper Double Ended
+Copper Dagger
+Copper Multitool
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Copper Block
+Copper Ore
+Copper Mace
+Copper Mace Head
+Wooden Double Ended
+Wooden Dagger
+Wooden Multitool
+Wooden Mace
+Wooden Mace Head
+Golden Double Ended
+Golden Dagger
+Golden Multitool
+Golden Mace
+Golden Mace Head
+Stone Double Ended
+Stone Dagger
+Stone Multitool
+Stone Mace
+Stone Mace Head
+Iron Double Ended
+Iron Dagger
+Iron Multitool
+Iron Mace
+Iron Mace Head
+Diamond Double Ended
+Diamond Dagger
+Diamond Multitool
+Diamond Mace
+Diamond Mace Head
+Aluminum ingot
+Aluminum Sword
+Aluminum Pickaxe
+Aluminum Shovel
+Aluminum Axe
+Aluminum Double Ended
+Aluminum Dagger
+Aluminum Multitool
+Aluminum Helmet
+Aluminum Chestplate
+Aluminum Leggings
+Aluminum Boots
+Aluminum Block
+Aluminum Ore
+Aluminum Mace
+Aluminum Mace Head
+Tin ingot
+Tin Sword
+Tin Pickaxe
+Tin Shovel
+Tin Axe
+Tin Double Ended
+Tin Dagger
+Tin Multitool
+Tin Helmet
+Tin Chestplate
+Tin Leggings
+Tin Boots
+Tin Block
+Tin Ore
+Tin Mace
+Tin Mace Head
+Silver ingot
+Silver Sword
+Silver Pickaxe
+Silver Shovel
+Silver Axe
+Silver Double Ended
+Silver Dagger
+Silver Multitool
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Silver Block
+Silver Ore
+Silver Mace
+Silver Mace Head
+Lead ingot
+Lead Sword
+Lead Pickaxe
+Lead Shovel
+Lead Axe
+Lead Double Ended
+Lead Dagger
+Lead Multitool
+Lead Helmet
+Lead Chestplate
+Lead Leggings
+Lead Boots
+Lead Block
+Lead Ore
+Lead Mace
+Lead Mace Head
+Mini Diamond Block
+Diamonic Nether Star Block
+Diamonic Nether Star
+Diamonic Nether Star Pickaxe
+Diamonic Nether Star Sword
+Compressed Atom
+Double Compressed Atom
+Atom
+Atomic Pickaxe
+Atomic Sword
+Atomic Double Ended
+Atomic Helmet
+Atomic Chestplate
+Atomic Leggings
+Atomic Boots
+Bronze ingot
+Bronze Sword
+Bronze Pickaxe
+Bronze Shovel
+Bronze Axe
+Bronze Double Ended
+Bronze Dagger
+Bronze Multitool
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Bronze Block
+Bronze Ore
+Bronze Mace
+Bronze Mace Head
+Steel ingot
+Steel Sword
+Steel Pickaxe
+Steel Shovel
+Steel Axe
+Steel Double Ended
+Steel Dagger
+Steel Multitool
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Steel Block
+Steel Ore
+Steel Mace
+Steel Mace Head
+Firework Sword
+Ender Sword
+Blaze Sword

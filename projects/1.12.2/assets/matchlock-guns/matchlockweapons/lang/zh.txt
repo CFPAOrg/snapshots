@@ -1,0 +1,72 @@
+Arquebus
+Matchlock Arquebus
+Blunderbuss
+Matchlock Blunderbuss
+Pistol
+Matchlock Pistol
+Pepperbox
+Double Barreled Pistol
+Double Barreled Arquebus
+Musket
+Pistol
+Revolver
+Revolver Musket
+Rifle
+Volley Gun
+Double Barreled Rifle
+Blunt Gun
+Musketoon
+Double Barreled Pistol
+Blunderbuss
+Musket
+Pistol
+Repeater
+Double Barreled Pistol
+Blunderbuss
+Breechloaded Rifle
+Breechloaded Pistol
+Flintlock
+Roundshot
+Matchlock
+Smooth Barrel
+Grip
+Revolver Mechanism
+Rifled Barrel
+Wheellock
+Caplock
+Slug
+Gunpowder Charge
+Bullet Pack
+Cannon Barrel
+Cannon Wheel
+Light Field Cannon
+Heavy Siege Cannon
+Volley Barrel
+Volley Cannon
+Puckle Gun Barrel
+Puckle Gun
+Metal Rod
+Simple Mechanical Parts
+Mechanical Parts
+Precision Mechanical Parts
+Ultra Precision Mechanical Parts
+Mechanical Spring
+Gun Ramrod
+Gunpowder Pouch
+Medium Power Paper Cartridge
+Low Power Paper Cartridge
+High Power Paper Cartridge
+Caplock Paper Cartridge
+Lathe
+Chisel
+Hardened Chisel
+Ramrod
+Flintlock Repair Kit
+Matchlock Repair Kit
+Wheellock Repair Kit
+Caplock Repair Kit
+Guns
+Tools & Ammunition
+Gun Materials
+Cannons
+Puckle Gun Stand

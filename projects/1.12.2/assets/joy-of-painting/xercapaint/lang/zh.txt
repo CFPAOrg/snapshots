@@ -1,0 +1,9 @@
+Paint
+Palette
+Canvas
+Large Canvas
+Long Canvas
+Tall Canvas
+%1$s basic colors
+%1$s custom colors
+Empty palette

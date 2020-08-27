@@ -1,0 +1,469 @@
+Espresso
+Café Americano
+Iced Americano
+Café Americano Fruit
+Iced Americano Fruit
+Sparking Americano
+Sparking Americano Fruit
+Café Latté
+Fruit Latté
+Caramel Latté
+Chocolate Latté
+Mint Latté
+Vanilla Latté
+Iced Latté
+Iced Fruit Latté
+Iced Caramel Latté
+Iced Chocolate Latté
+Iced Mint Latté
+Iced Vanilla Latté
+Cappuccino
+Macchiato
+Mochaccino
+Iced Cappuccino
+Iced Macchiato
+Iced Mochaccino
+Green tea
+Black tea
+Sweet Milk Tea
+Mandarin Drink
+Iced Mandarin Drink
+Iced Milk Tea
+Iced Green tea
+Iced Black tea
+Instant Coffee
+Cold Brew
+Fruit Cold Brew
+Cold Brew Latté
+Fruit Cold Brew Latté
+Caramel Cold Brew Latté
+Chocolate Cold Brew Latté
+Mint Cold Brew Latté
+Vanilla Cold Brew Latté
+Iced Cold Brew
+Iced Fruit Cold Brew
+Iced Cold Brew Latté
+Iced Fruit Cold Brew Latté
+Iced Caramel Cold Brew Latté
+Iced Chocolate Cold Brew Latté
+Iced Mint Cold Brew Latté
+Iced Vanilla Cold Brew Latté
+ColdBrew Pot
+ColdBrew Pot(Empty)
+ColdBrew Bottle
+Café Americano
+Iced Americano
+Café Americano Fruit
+Iced Americano Fruit
+Sparking Americano
+Sparking Americano Fruit
+Café Latté
+Fruit Latté
+Caramel Latté
+Chocolate Latté
+Mint Latté
+Vanilla Latté
+Iced Latté
+Iced Fruit Latté
+Iced Caramel Latté
+Iced Chocolate Latté
+Iced Mint Latté
+Iced Vanilla Latté
+Cappuccino
+Macchiato
+Mochaccino
+Iced Cappuccino
+Iced Macchiato
+Iced Mochaccino
+Green tea
+Black tea
+Sweet Milk Tea
+Mandarin Drink
+Iced Mandarin Drink
+Iced Milk Tea
+Iced Green tea
+Iced Black tea
+Instant Coffee
+Cold Brew
+Fruit Cold Brew
+Cold Brew Latté
+Fruit Cold Brew Latté
+Caramel Cold Brew Latté
+Chocolate Cold Brew Latté
+Mint Cold Brew Latté
+Vanilla Cold Brew Latté
+Iced Cold Brew
+Iced Fruit Cold Brew
+Iced Cold Brew Latté
+Iced Fruit Cold Brew Latté
+Iced Caramel Cold Brew Latté
+Iced Chocolate Cold Brew Latté
+Iced Mint Cold Brew Latté
+Iced Vanilla Cold Brew Latté
+Raw Coffee Bean Bag
+Coffee Bean Bag
+Coffee Powder Bag
+Cocoa Bean Bag
+Cocoa Powder Bag
+Flour Bag
+Sugar Bag
+Bag
+Sponge Cake
+Chocolate Sponge Cake
+Coffee Sponge Cake
+Carrot Sponge Cake
+Pumpkin Sponge Cake
+Matcha Sponge Cake
+Berry Sponge Cake
+Lemon Sponge Cake
+Red Velvet Sponge Cake
+Cheese Cake
+Schwarzwald Cake
+Carrot Cake
+Red Velvet Cake
+Tiramisu
+Harvest Cake
+Matcha Cake
+Berry mix Cake
+Summer day Cake
+Latté Cake
+BLT Sandwich
+Club Sandwich
+Large BLT
+Large Club
+Bacon and egg sandwich
+Cheese Burger
+Ham and Cheese Bagel
+Round Bread
+Bagel
+Toast
+Light Roast Coffee Bean
+Light Roast Coffee Powder
+Bread Dough
+Round Bread Dough
+Bagel Dough
+Toast Dough
+Cloth
+Cake Roll
+Chocolate Cake Roll
+Coffee Cake Roll
+Carrot Cake Roll
+Pumpkin Cake Roll
+Matcha Cake Roll
+Berry Cake Roll
+Lemon Cake Roll
+Red Velvet Cake Roll
+Two Coffee Powder Bags
+Two Cocoa Bean Bags
+Two Cocoa Powder Bags
+Two Flour Bags
+Two Sugar Bags
+Two Raw Coffee Bean Bags
+Two Coffee Bean Bags
+Thermal Grinder
+Coffee Machine
+Coffee Seed
+Coffee Tree
+Ice cream Machine
+Roast Coffee Bean
+Raw Coffee Bean
+Roast Cocoa Bean
+Coffee Powder
+Cocoa Powder
+Cocoa Batter
+Flour
+Dough
+Cookie Dough
+Baguette Dough
+Chocolate Bar
+Chocolate Chip
+Baguette
+Cup
+Glass Cup
+Ice Slag
+Vanilla Seeds
+Vanilla
+Empty Syrup
+Syrup
+Caramel Syrup
+Vanilla Syrup
+Fruit Syrup
+Caramel Freddo
+Mocha Freddo
+Freddo
+Plate
+Clay Oven
+Hot Cocoa
+Thick Cocoa
+Hot Cocoa
+Thick Cocoa
+Sakura Latté
+Sakura Latté
+Iced Cocoa
+Iced Thick Cocoa
+Iced Sakura Latté
+Iced Cocoa
+Iced Thick Cocoa
+Iced Sakura Latté
+Vanilla Ice cream
+Chocolate Ice cream
+Coffee Ice cream
+Apple Ice cream
+Berry Ice cream
+Melon Ice cream
+Lemon Ice cream
+Cream
+Chocolate Cream
+Coffee Cream
+Apple Cream
+Mix berry Cream
+Lemon Cream
+Melon Cream
+Milk form
+Mixing Bowl
+Yeast
+Blueberry Bush
+Custard
+Blueberry
+Vanilla Cookie Sundae
+Chocolate Cookie Sundae
+Coffee Cookie Sundae
+Apple Cookie Sundae
+Berry Cookie Sundae
+Lemon Cookie Sundae
+Melon Cookie Sundae
+Raw Sponge Cake
+Raw Chocolate Sponge Cake
+Raw Coffee Sponge Cake
+Raw Carrot Sponge Cake
+Raw Pumpkin Sponge Cake
+Raw Matcha Sponge Cake
+Raw Berry Sponge Cake
+Raw Lemon Sponge Cake
+Raw Red Velvet Sponge Cake
+Sponge Cake(In Model)
+Chocolate Sponge Cake(In Model)
+Coffee Sponge Cake(In Model)
+Carrot Sponge Cake(In Model)
+Pumpkin Sponge Cake(In Model)
+Matcha Sponge Cake(In Model)
+Berry Sponge Cake(In Model)
+Lemon Sponge Cake(In Model)
+Red Velvet Sponge Cake(In Model)
+Raw Sponge Cake Plate
+Raw Chocolate Sponge Cake Plate
+Raw Coffee Sponge Cake Plate
+Raw Carrot Sponge Cake Plate
+Raw Pumpkin Sponge Cake Plate
+Raw Matcha Sponge Cake Plate
+Raw Berry Sponge Cake Plate
+Raw Lemon Sponge Cake Plate
+Raw Red Velvet Sponge Cake Plate
+Sponge Cake Plate(In Model)
+Chocolate Sponge Cake Plate(In Model)
+Coffee Sponge Cake Plate(In Model)
+Carrot Sponge Cake Plate(In Model)
+Pumpkin Sponge Cake Plate(In Model)
+Matcha Sponge Cake Plate(In Model)
+Berry Sponge Cake Plate(In Model)
+Lemon Sponge Cake Plate(In Model)
+Red Velvet Sponge Cake Plate(In Model)
+Sponge Cake Plate
+Chocolate Sponge Cake Plate
+Coffee Sponge Cake Plate
+Carrot Sponge Cake Plate
+Pumpkin Sponge Cake Plate
+Matcha Sponge Cake Plate
+Berry Sponge Cake Plate
+Lemon Sponge Cake Plate
+Red Velvet Sponge Cake Plate
+Unformed mousse
+Unformed mousse
+Unformed mousse
+Unformed mousse
+Mousse Berry(Model)
+Mousse Chocolate(Model)
+Mousse Coffee(Model)
+Mousse Lemon(Model)
+Raw Sponge Jiggy Cake
+Raw Chocolate Sponge Jiggy Cake
+Raw Coffee Sponge Jiggy Cake
+Raw Carrot Sponge Jiggy Cake
+Raw Pumpkin Sponge Jiggy Cake
+Raw Matcha Sponge Jiggy Cake
+Raw Berry Sponge Jiggy Cake
+Raw Lemon Sponge Jiggy Cake
+Raw Red Velvet Sponge Jiggy Cake
+Jiggy Cake(In Model)
+Chocolate Jiggy Cake(In Model)
+Coffee Jiggy Cake(In Model)
+Carrot Jiggy Cake(In Model)
+Pumpkin Jiggy Cake(In Model)
+Matcha Jiggy Cake(In Model)
+Berry Jiggy Cake(In Model)
+Lemon Jiggy Cake(In Model)
+Red Velvet Jiggy Cake(In Model)
+Jiggy Cake
+Chocolate Jiggy Cake
+Coffee Jiggy Cake
+Carrot Jiggy Cake
+Pumpkin Jiggy Cake
+Matcha Jiggy Cake
+Berry Jiggy Cake
+Lemon Jiggy Cake
+Red Velvet Jiggy Cake
+Raw Cheese Cake
+Raw Brownie
+Cheese Cake(In Model)
+Brownie(In Model)
+Tiramisu(In Model)
+Tiramisu(Need Refrigeration)
+Raw Muffin
+Muffin
+Raw Chocolate Muffin
+Raw Berry Muffin
+Berry Muffin
+Chocolate Muffin
+Lemon Muffin
+Raw Lemon Muffin
+Red Velvet Muffin
+Raw Red Velvet Muffin
+Matcha Muffin
+Raw Matcha Muffin
+Coffee Muffin
+Raw Coffee Muffin
+Carrot Muffin
+Raw Carrot Muffin
+Pumpkin Muffin
+Raw Pumpkin Muffin
+Raw Croissant
+Raw Chocolate Croissant
+Croissant
+Chocolate Croissant
+Cream Bucket
+Butter Bucket
+Butter
+Cheese
+Round Cake Model
+Square Cake Model
+Cake Plate Model
+Brownie
+Field Ration D
+Raw Mooncake(Five Seeds)
+Raw Mooncake(Egg Yolk)
+Mooncake(Five Seeds)
+Mooncake(Egg Yolk)
+Thermal Roller
+Mooncake Model
+Raw Mooncake(Ham)
+Raw Mooncake(Fruit)
+Mooncake(Ham)
+Mooncake(Fruit)
+Raw Hardtack
+Hardtack
+Raw Pastry Plate
+Pastry Plate
+Mille Feuille
+Iron Plate
+Pastry Dough
+Dough Plate
+Pastry Dough Plate
+Spices
+Gelatin
+Ginger Dough
+Ginger Dough Plate
+Ginger Bread Plate
+Ginger Bread
+Raw Ginger Bread Man
+Ginger Bread Man
+Marshmallow
+Chocolate Marshmallow
+Roast Marshmallow
+S'more
+Baking soda
+Iron Bowl
+Egg(Iron Bowl)
+Cheese(Iron Bowl)
+Cake Batter(Iron Bowl)
+Berry Cake Batter(Iron Bowl)
+Chocolate Cake Batter(Iron Bowl)
+Red Velvet Cake Batter(Iron Bowl)
+Lemon Cake Batter(Iron Bowl)
+Carrot Cake Batter(Iron Bowl)
+Pumpkin Cake Batter(Iron Bowl)
+Matcha Cake Batter(Iron Bowl)
+Coffee Cake Batter(Iron Bowl)
+Record
+Record
+Record
+Blank Record
+Lanxi-Kusa noshi to ne(Piano & violin)(Has been removed)
+Lanxi-Lazy lady Kaguya
+Lanxi-The Grimoire of Marisa(Has been removed)
+Thanks,Lanxi.
+Instant Coffee Stick 
+Instant Coffee Box
+Instant Coffee Cup
+Instant Coffee Cup
+Xmas Tree
+Ginger Bread House
+Sodium bicarbonate Ore
+Mousse Berry
+Mousse Lemon
+Mousse Chocolate
+Mousse Coffee
+Sponge Cake Slices
+Chocolate Sponge Cake Slices
+Coffee Sponge Cake Slices
+Carrot Sponge Cake Slices
+Pumpkin Sponge Cake Slices
+Matcha Sponge Cake Slices
+Berry Sponge Cake Slices
+Lemon Sponge Cake Slices
+Red Velvet Sponge Cake Slices
+Cake Slices
+Schwarzwald Cake Slices
+Latté Cake Slices
+Cheese Cake Slices
+Harvest Cake Slices
+Matcha Cake Slices
+Berry mix Cake Slices
+Summer day Cake Slices
+Red Velvet Cake Slices
+Cream Pie
+Chocolate Pie
+Coffee Pie
+Matcha Pie
+Apple Pie
+Lemon
+Berry
+Melon Pie
+Caramel Pie
+Souffle model
+Raw Souffle
+Raw Chocolate Souffle
+Souffle
+Chocolate Souffle
+Raw Cream Puff
+Cream Puff
+Caramel Apple
+Caramel Cube
+Raw Black Chocolate Cookie
+Black Chocolate Cookie
+OREO
+Coffee Workshop
+Coffee Machine
+Grinding
+Freezing
+Grinding
+Freezing
+Rolling
+Baking
+Relax
+Immunity
+Caffeine
+Coffee Trader
+Instant Coffee Trader
+Food Trader
+%s died of caffeine poisoning
+The caffeine makes you unable to sleep

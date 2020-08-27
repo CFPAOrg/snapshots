@@ -1,0 +1,37 @@
+NVL's Tools
+NVL's Storage Blocks
+§bSubspace Item-transporter Receiver
+§bSubspace Item-transporter
+§bSubspace Item Container
+§5Super Subspace Item Container
+Subspace Item-transporter Range Extender 1
+Subspace Item-transporter Range Extender 2
+Subspace Item-transporter Range Extender 3
+Subspace Item-transporter Range Extender 4
+Store received items
+Transfer received items to the next available container
+§cThis subspace ID is not free: 
+§aID Set successfully
+Channel ID:
+Set ID
+Store items
+Transfer items to East
+Transfer items to West
+Transfer items to Up
+Transfer items to Down
+Transfer items to North
+Transfer items to South
+Connected
+§cNo Receiver found
+§eReceiver out of Range
+Maximum range: 
+Channel ID:
+Set ID
+This item extends the §bSubspace Item-transporter§f range with 50 blocks
+This item extends the §bSubspace Item-transporter§f range with 100 blocks
+This item extends the §bSubspace Item-transporter§f range with 150 blocks
+This item extends the §bSubspace Item-transporter§f range with 200 blocks
+The latest result of the subspace-technology research. This container can be tuned on a specific subspace frequency which allows it to send items through subspace into a §bSubspace Item-transporter Receiver §fcontainer.
+This container is the pair of the §bSubspace Item-transporter§f. If tuned to the same frequency as the Sender it will receive the sent items through subspace.
+This is the product of the latest subspace technology. The container creates a subspace bubble to store these extreme amount of stuff. It has 126 item slots which compared to a double chest's 54 is great. And occupies only 1 block space!\nJust plan carefully where to place it because you will need a few rounds to pick up everything when destroyed.
+This is the ultimate subspace storage solution with §e1260 (!!!) §fstorage slots.

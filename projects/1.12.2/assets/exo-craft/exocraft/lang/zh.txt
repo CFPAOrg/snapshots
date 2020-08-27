@@ -1,0 +1,37 @@
+ExoCraft
+Fabricator
+Lava Crystal Block
+Lava Crystal Ore
+Atlas Exosuit Helmet
+Atlas Exosuit Chestplate
+Atlas Exosuit Leggings
+Atlas Exosuit Boots
+Ion Exosuit Helmet
+Ion Exosuit Chestplate
+Ion Exosuit Leggings
+Ion Exosuit Boots
+Legion Exosuit Helmet
+Legion Exosuit Chestplate
+Legion Exosuit Leggings
+Legion Exosuit Boots
+Ogre Exosuit Helmet
+Ogre Exosuit Chestplate
+Ogre Exosuit Leggings
+Ogre Exosuit Boots
+Stryder Exosuit Helmet
+Stryder Exosuit Chestplate
+Stryder Exosuit Leggings
+Stryder Exosuit Boots
+Energy Core
+Lava Crystal
+Redstone Circuit
+Reinforced Iron Plate
+Atlas Unit
+Ogre Unit
+Legion Unit
+Stryder Unit
+Ion Unit
+Industrial Excavator
+Industrial Miner
+Industrial Multi Tool
+Machine Case

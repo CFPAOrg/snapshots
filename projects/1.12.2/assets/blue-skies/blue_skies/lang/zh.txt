@@ -1,0 +1,803 @@
+Turquoise Grass
+Turquoise Grass Block
+Turquoise Dirt
+Coarse Turquoise Dirt
+Turquoise Farmland
+Turquoise Stone
+Turquoise Cobblestone
+Mossy Turquoise Cobblestone
+Bluebright Leaves
+Bluebright Wood
+Bluebright Wood Planks
+Turquoise Stone Bricks
+Mossy Turquoise Stone Bricks
+Cracked Turquoise Stone Bricks
+Moonlit Flower
+Blaze Bud
+Crystal Flower
+Starlit Leaves
+Frostbright Leaves
+Starlit Wood
+Frostbright Wood
+Starlit Wood Planks
+Frostbright Wood Planks
+Bluebright Crafting Table
+Starlit Crafting Table
+Frostbright Crafting Table
+Bluebright Chest
+Starlit Chest
+Frostbright Chest
+Diopside Ore
+Pyrope Ore
+Turquoise Ore
+Moonstone Ore
+Charoite Ore
+Emerald Ore
+Falsite Ore
+Ventium Ore
+Cherry Grass Block
+Midnight Sand
+Midnight Sandstone
+Chiseled Midnight Sandstone
+Smooth Midnight Sandstone
+Midnight Glass
+Midnight Glass Pane
+Bluebright Vine
+Starlit Vine
+Frostbright Vine
+Chilled Lily Pad
+Snowcap Mushroom
+Blue Fire
+Gravity Defying Blue Fire
+Raspberry Bush
+Bluebright Sapling
+Starlit Sapling
+Frostbright Sapling
+Lunar Grass
+Lunar Grass Block
+Lunar Dirt
+Coarse Lunar Dirt
+Lunar Farmland
+Lunar Stone
+Lunar Cobblestone
+Mossy Lunar Cobblestone
+Lunar Leaves
+Nectarine Leaves
+Lunar Wood
+Lunar Wood Planks
+Lunar Stone Bricks
+Mossy Lunar Stone Bricks
+Cracked Lunar Stone Bricks
+Camellia Flower
+Snowbloom
+Dusk Leaves
+Dusk Wood
+Dusk Wood Planks
+Maple Leaves
+Maple Wood
+Maple Wood Planks
+Lunar Crafting Table
+Dusk Crafting Table
+Maple Crafting Table
+Lunar Chest
+Dusk Chest
+Maple Chest
+Diopside Ore
+Pyrope Ore
+Turquoise Ore
+Moonstone Ore
+Charoite Ore
+Emerald Ore
+Horizonite Ore
+Cherry Grass Block
+Raw Moonstone Block
+Hidden Spike Block
+Crystal Sand
+Crystal Sandstone
+Chiseled Crystal Sandstone
+Smooth Crystal Sandstone
+Crystal Glass
+Crystal Glass Pane
+Lunar Vine
+Dusk Vine
+Maple Vine
+Dark Fire
+Gravity Defying Dark Fire
+Nectarine
+Lunar Sapling
+Cherry Sapling
+Dusk Sapling
+Maple Sapling
+Nectarine Sapling
+Decaying Spike
+Baneful Mushroom
+Igneous Root
+Bluebright Bookshelf
+Starlit Bookshelf
+Frostbright Bookshelf
+Lunar Bookshelf
+Dusk Bookshelf
+Maple Bookshelf
+Cherry Bookshelf
+Bluebright Door
+Starlit Door
+Frostbright Door
+Lunar Door
+Dusk Door
+Maple Door
+Cherry Door
+Bluebright Trapdoor
+Starlit Trapdoor
+Frostbright Trapdoor
+Lunar Trapdoor
+Dusk Trapdoor
+Maple Trapdoor
+Cherry Trapdoor
+Bluebright Ladder
+Starlit Ladder
+Frostbright Ladder
+Lunar Ladder
+Dusk Ladder
+Maple Ladder
+Cherry Ladder
+Bluebright Fence
+Starlit Fence
+Frostbright Fence
+Lunar Fence
+Dusk Fence
+Maple Fence
+Cherry Fence
+Bluebright Fence Gate
+Starlit Fence Gate
+Frostbright Fence Gate
+Lunar Fence Gate
+Dusk Fence Gate
+Maple Fence Gate
+Cherry Fence Gate
+Turquoise Stone Pressure Plate
+Bluebright Pressure Plate
+Starlit Pressure Plate
+Frostbright Pressure Plate
+Lunar Stone Pressure Plate
+Lunar Pressure Plate
+Dusk Pressure Plate
+Maple Pressure Plate
+Cherry Pressure Plate
+Moonstone Pressure Plate
+Turquoise Stone Button
+Bluebright Button
+Starlit Button
+Frostbright Button
+Lunar Stone Button
+Lunar Button
+Dusk Button
+Maple Button
+Cherry Button
+Moonstone Button
+Turquoise Lever
+Lunar Lever
+Cherry Grass
+Cherry Leaves
+Cherry Wood
+Cherry Wood Planks
+Cherry Crafting Table
+Cherry Chest
+Cherry Pie
+Diopside Block
+Pyrope Block
+Turquoise Block
+Charoite Block
+Horizonite Block
+Moonstone Block
+Moonstone
+Moonstone Lantern
+Star Flare
+Everbright Portal Block
+Everdawn Portal Block
+Protection Broadstone
+Bluebright Wood Slab
+Lunar Wood Slab
+Cherry Wood Slab
+Starlit Wood Slab
+Frostbright Wood Slab
+Dusk Wood Slab
+Maple Wood Slab
+Turquoise Cobblestone Slab
+Mossy Turquoise Cobblestone Slab
+Lunar Cobblestone Slab
+Mossy Lunar Cobblestone Slab
+Turquoise Stone Brick Slab
+Mossy Turquoise Stone Brick Slab
+Cracked Turquoise Stone Brick Slab
+Lunar Stone Brick Slab
+Mossy Lunar Stone Brick Slab
+Cracked Lunar Stone Brick Slab
+Crystal Sandstone Slab
+Midnight Sandstone Slab
+Bluebright Wood Stairs
+Lunar Wood Stairs
+Cherry Wood Stairs
+Starlit Wood Stairs
+Frostbright Wood Stairs
+Dusk Wood Stairs
+Maple Wood Stairs
+Turquoise Cobblestone Stairs
+Mossy Turquoise Cobblestone Stairs
+Lunar Cobblestone Stairs
+Mossy Lunar Cobblestone Stairs
+Lunar Stone Brick Stairs
+Mossy Lunar Stone Brick Stairs
+Cracked Lunar Stone Brick Stairs
+Turquoise Stone Brick Stairs
+Mossy Turquoise Stone Brick Stairs
+Cracked Turquoise Stone Brick Stairs
+Crystal Sandstone Stairs
+Midnight Sandstone Stairs
+Turquoise Cobblestone Wall
+Mossy Turquoise Cobblestone Wall
+Lunar Cobblestone Wall
+Mossy Lunar Cobblestone Wall
+Lunar Stone Brick Wall
+Mossy Lunar Stone Brick Wall
+Cracked Lunar Stone Brick Wall
+Turquoise Stone Brick Wall
+Mossy Turquoise Stone Brick Wall
+Cracked Turquoise Stone Brick Wall
+§5Poison Wall
+§5Glowing Poison Wall
+§7Blinding Wall
+§7Glowing Blinding Wall
+§2Nature Wall
+§2Glowing Nature Wall
+§cLife Wall
+§cGlowing Life Wall
+§9Aquatic Wall
+§9Glowing Aquatic Wall
+§5Poison Stone
+§5Glowing Poison Stone
+§7Blinding Stone
+§7Glowing Blinding Stone
+§2Nature Stone
+§2Glowing Nature Stone
+§cLife Stone
+§cGlowing Life Stone
+§9Aquatic Stone
+§9Glowing Aquatic Stone
+§5Poison Keystone
+§7Blinding Keystone
+§2Nature Keystone
+§cLife Keystone
+§9Aquatic Keystone
+§5Poison Slab
+§5Glowing Poison Slab
+§7Blinding Slab
+§7Glowing Blinding Slab
+§2Nature Slab
+§2Glowing Nature Slab
+§cLife Slab
+§cGlowing Life Slab
+§9Aquatic Slab
+§9Glowing Aquatic Slab
+§5Poison Stairs
+§5Glowing Poison Stairs
+§7Blinding Stairs
+§7Glowing Blinding Stairs
+§2Nature Stairs
+§2Glowing Nature Stairs
+§cLife Stairs
+§cGlowing Life Stairs
+§9Aquatic Stairs
+§9Glowing Aquatic Stairs
+Keystone
+Spawnpoint set.
+Carrots
+Potatoes
+Wheat
+Beetroots
+Pumpkin Stem
+Melon Stem
+Cabbage
+Green Beans
+Peanuts
+Cryo Roots
+Tomato Plant
+Corn Stalk
+Cherry
+Cabbage
+Cabbage Seeds
+Green Bean
+Green Bean Seeds
+Peanut
+Cryo Root
+Tomato
+Tomato Seeds
+Corn
+Corn Seeds
+Raspberry
+Pink Raspberry
+Black Raspberry
+Nectarine
+Zeal Lighter
+Dungeon Key
+Diopside Gemstone
+Turquoise Gemstone
+Pyrope Gemstone
+Charoite
+Moonstone Shard
+Bluebright Stick
+Lunar Stick
+Cherry Stick
+Raw Carabeef
+Smoked Carabeef
+Raw Venison
+Venison Steak
+Azulfo Horn
+Fox Fur
+Falsite Ingot
+Ventium Ingot
+Horizonite Ingot
+§7Dusk Arc
+§5Poisonous Arc
+§cHellfire Arc
+§2Wildlife Arc
+§9Aquatic Arc
+§eRunic Arc
+§3Ethereal Arc
+Mob Attacker
+Lost Page
+Blue Lore
+An adventurer's guide - Silver_David
+Sky Music Disc
+Sky Music Disc
+Sky Music Disc
+Sky Music Disc
+Sky Music Disc
+Sky Music Disc
+Ventium Shears
+Ventium Bucket
+Ventium Water Bucket
+Ventium Lava Bucket
+Ventium Milk Bucket
+Infused Arc Sword
+Different Sword
+Cherry Wood Sword
+Cherry Wood Pickaxe
+Cherry Wood Axe
+Cherry Wood Shovel
+Cherry Wood Hoe
+Bluebright Wood Sword
+Bluebright Wood Pickaxe
+Bluebright Wood Axe
+Bluebright Wood Shovel
+Bluebright Wood Hoe
+Lunar Wood Sword
+Lunar Wood Pickaxe
+Lunar Wood Axe
+Lunar Wood Shovel
+Lunar Wood Hoe
+Turquoise Stone Sword
+Turquoise Stone Pickaxe
+Turquoise Stone Axe
+Turquoise Stone Shovel
+Turquoise Stone Hoe
+Lunar Stone Sword
+Lunar Stone Pickaxe
+Lunar Stone Axe
+Lunar Stone Shovel
+Lunar Stone Hoe
+Turquoise Sword
+Turquoise Pickaxe
+Turquoise Shovel
+Turquoise Axe
+Turquoise Hoe
+Pyrope Sword
+Pyrope Pickaxe
+Pyrope Shovel
+Pyrope Axe
+Pyrope Hoe
+Diopside Sword
+Diopside Pickaxe
+Diopside Shovel
+Diopside Axe
+Diopside Hoe
+Charoite Sword
+Charoite Pickaxe
+Charoite Shovel
+Charoite Axe
+Charoite Hoe
+Turquoise Sword
+Turquoise Pickaxe
+Turquoise Shovel
+Turquoise Axe
+Turquoise Hoe
+Pyrope Sword
+Pyrope Pickaxe
+Pyrope Shovel
+Pyrope Axe
+Pyrope Hoe
+Diopside Sword
+Diopside Pickaxe
+Diopside Shovel
+Diopside Axe
+Diopside Hoe
+Charoite Sword
+Charoite Pickaxe
+Charoite Shovel
+Charoite Axe
+Charoite Hoe
+Horizonite Sword
+Horizonite Pickaxe
+Horizonite Shovel
+Horizonite Axe
+Horizonite Hoe
+Mudkipz Sword
+Pyrope Helmet
+Pyrope Chestplate
+Pyrope Leggings
+Pyrope Boots
+Turquoise Helmet
+Turquoise Chestplate
+Turquoise Leggings
+Turquoise Boots
+Diopside Helmet
+Diopside Chestplate
+Diopside Leggings
+Diopside Boots
+Charoite Helmet
+Charoite Chestplate
+Charoite Leggings
+Charoite Boots
+Horizonite Helmet
+Horizonite Chestplate
+Horizonite Leggings
+Horizonite Boots
+Shadow Helmet
+Shadow Chestplate
+Shadow Leggings
+Shadow Boots
+Potion of Bad Luck
+Splash Potion of Bad Luck
+Lingering Potion of Bad Luck
+Arrow of Bad Luck
+White Illager Eye
+Orange Illager Eye
+Magenta Illager Eye
+Light Blue Illager Eye
+Yellow Illager Eye
+Lime Illager Eye
+Pink Illager Eye
+Gray Illager Eye
+Light Gray Illager Eye
+Cyan Illager Eye
+Purple Illager Eye
+Blue Illager Eye
+Brown Illager Eye
+Green Illager Eye
+Red Illager Eye
+Black Illager Eye
+White Illager Pupil
+Orange Illager Pupil
+Magenta Illager Pupil
+Light Blue Illager Pupil
+Yellow Illager Pupil
+Lime Illager Pupil
+Pink Illager Pupil
+Gray Illager Pupil
+Light Gray Illager Pupil
+Cyan Illager Pupil
+Purple Illager Pupil
+Blue Illager Pupil
+Brown Illager Pupil
+Green Illager Pupil
+Red Illager Pupil
+Black Illager Pupil
+White Illager Face
+Orange Illager Face
+Magenta Illager Face
+Light Blue Illager Face
+Yellow Illager Face
+Lime Illager Face
+Pink Illager Face
+Gray Illager Face
+Light Gray Illager Face
+Cyan Illager Face
+Purple Illager Face
+Blue Illager Face
+Brown Illager Face
+Green Illager Face
+Red Illager Face
+Black Illager Face
+White Dusk Arc
+Orange Dusk Arc
+Magenta Dusk Arc
+Light Blue Dusk Arc
+Yellow Dusk Arc
+Lime Dusk Arc
+Pink Dusk Arc
+Gray Dusk Arc
+Light Gray Dusk Arc
+Cyan Dusk Arc
+Purple Dusk Arc
+Blue Dusk Arc
+Brown Dusk Arc
+Green Dusk Arc
+Red Dusk Arc
+Black Dusk Arc
+White Poisonous Arc
+Orange Poisonous Arc
+Magenta Poisonous Arc
+Light Blue Poisonous Arc
+Yellow Poisonous Arc
+Lime Poisonous Arc
+Pink Poisonous Arc
+Gray Poisonous Arc
+Light Gray Poisonous Arc
+Cyan Poisonous Arc
+Purple Poisonous Arc
+Blue Poisonous Arc
+Brown Poisonous Arc
+Green Poisonous Arc
+Red Poisonous Arc
+Black Poisonous Arc
+White Hellfire Arc
+Orange Hellfire Arc
+Magenta Hellfire Arc
+Light Blue Hellfire Arc
+Yellow Hellfire Arc
+Lime Hellfire Arc
+Pink Hellfire Arc
+Gray Hellfire Arc
+Light Gray Hellfire Arc
+Cyan Hellfire Arc
+Purple Hellfire Arc
+Blue Hellfire Arc
+Brown Hellfire Arc
+Green Hellfire Arc
+Red Hellfire Arc
+Black Hellfire Arc
+White Wildlife Arc
+Orange Wildlife Arc
+Magenta Wildlife Arc
+Light Blue Wildlife Arc
+Yellow Wildlife Arc
+Lime Wildlife Arc
+Pink Wildlife Arc
+Gray Wildlife Arc
+Light Gray Wildlife Arc
+Cyan Wildlife Arc
+Purple Wildlife Arc
+Blue Wildlife Arc
+Brown Wildlife Arc
+Green Wildlife Arc
+Red Wildlife Arc
+Black Wildlife Arc
+White Aquatic Arc
+Orange Aquatic Arc
+Magenta Aquatic Arc
+Light Blue Aquatic Arc
+Yellow Aquatic Arc
+Lime Aquatic Arc
+Pink Aquatic Arc
+Gray Aquatic Arc
+Light Gray Aquatic Arc
+Cyan Aquatic Arc
+Purple Aquatic Arc
+Blue Aquatic Arc
+Brown Aquatic Arc
+Green Aquatic Arc
+Red Aquatic Arc
+Black Aquatic Arc
+White Runic Arc
+Orange Runic Arc
+Magenta Runic Arc
+Light Blue Runic Arc
+Yellow Runic Arc
+Lime Runic Arc
+Pink Runic Arc
+Gray Runic Arc
+Light Gray Runic Arc
+Cyan Runic Arc
+Purple Runic Arc
+Blue Runic Arc
+Brown Runic Arc
+Green Runic Arc
+Red Runic Arc
+Black Runic Arc
+White Ethereal Arc
+Orange Ethereal Arc
+Magenta Ethereal Arc
+Light Blue Ethereal Arc
+Yellow Ethereal Arc
+Lime Ethereal Arc
+Pink Ethereal Arc
+Gray Ethereal Arc
+Light Gray Ethereal Arc
+Cyan Ethereal Arc
+Purple Ethereal Arc
+Blue Ethereal Arc
+Brown Ethereal Arc
+Green Ethereal Arc
+Red Ethereal Arc
+Black Ethereal Arc
+Azulfo
+Stardust Ram
+Reindeer
+Armored Frost Spirit
+Frost Spirit
+Crynoceros
+Villager Warrior
+Cosmic Fox
+Firefly
+Nightshade Bear
+Crystal Camel
+Nycto Bug
+Venom Spider
+Venom Spit
+Summoner
+Alchemist
+Artificial Golem
+Strange Lightning
+Everbright Blocks
+Everdawn Blocks
+Blue Skies Misc Blocks
+Blue Skies Misc
+Blue Skies Tools
+Blue Skies Combat
+Dungeon Objects
+Moonstone shatters
+Portal shimmers
+Ominous woosh
+Snow blows
+Dust blows
+Azulfo huffs
+Azulfo hurts
+Azulfo dies
+Reindeer whispers
+Reindeer grunts
+Reindeer dies
+Stardust Ram baahs
+Stardust Ram dies
+Firefly squishes
+Nycto Bug buzzes
+Nycto Bug chomps
+Nycto Bug hurts
+Nycto Bug dies
+Frost Spirit whispers
+Frost Spirit hurts
+Frost Spirit shatters
+Venom Spider gurgles
+Venom Spider hurts
+Venom Spider dies
+Venom Spider spits
+Summoner grumbles
+Summoner hurts
+Summoner dies
+Summoner casts spell
+Summoner regenerates
+Summoner prepares attack
+Summoner prepares summoning
+Alchemist grunts
+Alchemist hurts
+Alchemist dies
+Alchemist casts spell
+Alchemist prepares rock formation
+Alchemist regenerates
+Alchemist charges
+Alchemist prepares conversion
+Alchemist prepares potion clouds
+Alchemist prepares attack
+Blue Skies
+Forever Bright?
+Forever Dawn?
+Now You're Thinking with Portals!
+Infusion!
+Thinking Different!
+Bane of my Existence
+Exterminator!
+A New Dawn
+A Bright Future!
+My, My, This Blue Sky Pie!
+Regrowth
+Staying Pink
+1 Down, 3 to go
+Tragic Magic!
+Potent Opponent!
+The Blue Skies Mod.
+Build an Everbright portal and enter it.
+The Everdawn Dimension.
+Build an Everdawn portal and enter it.
+Enter both the Everbright and Everdawn.
+Find an Infused Dusk Arc Sword from a dungeon.
+Find a Different Sword from a dungeon.
+Walk into a Baneful Mushroom and enjoy the consiquences.
+Kill all of the hostile bugs in the Everdawn.
+Punch a Lunar Log.
+Punch a Bluebright Log.
+Make a Cherry Pie.
+Obtain a Cherry Tree Sapling.
+Grow and eat a Pink Raspberry.
+Obtain a key from a dungeon.
+Kill the Summoner Illager Boss.
+Kill the Alchemist Illager Boss.
+Stargazer
+Observer
+Gate Keeper
+Nightwatcher
+Wrangler
+Breeder
+Shoveler
+%1$s was chomped by %2$s
+%1$s was turned into rubble
+%1$s was stabbed with a rock
+%1$s was stabbed with a rock by %2$s
+%1$s was fatally poisoned
+%1$s was fatally poisoned by %2$s's venom
+%1$s was struck by %2$s
+Uncivilized
+Ability
+Increases the power of all other arcs.
+Grants a 10%% movement speed increase.
+Grants a 25%% movement speed increase.
+Grants invisibility while sneaking.
+Grants full invisibility while sneaking without smoke.
+Auto-Smelt
+Strong attack power
+Fast attack speed
+Spawn dimension based Zeal Fires
+Not yet implemented
+Set mobs on fire
+Cons
+Regens the target
+Slow attack speed
+Light Blue Skies Portals
+Creative Only
+Arcs
+Supporter Perks
+Developer Options
+X Teleport Offset
+Y Teleport Offset
+Z Teleport Offset
+X Spawn Offset
+Y Spawn Offset
+Z Spawn Offset
+You're missing dungeon keys.
+Treasure Chest
+Blue Skies Configuration
+Dimension Settings
+Change the settings for the dimensions of the game.\nAdvanced users only.
+Other
+Other options that don't affect main gameplay can be found here.
+Extra Blue Lore Tab
+The extra bookmark is a server utility that adds an extra index tab to the blue lore. It can be edited in the lang file.
+Everbright Dimension ID
+Set the Dimension ID for the Everbright.
+Everdawn Dimension ID
+Set the Dimension ID for the Everdawn.
+Developer Mode
+Developer mode outputs extra content to the console for development purposes.
+Visual Options
+Snow Fog
+Snow Wind Sound
+Desert Wind Sound
+Boss Music
+Enables boss music.
+Unknown Page
+Snowcap Mushroom
+Baneful Mushroom
+How did you get this page? No matter. It's not as if this contains any useful information.
+Next Page
+Previous Page
+Everbright
+Everdawn
+Misc
+DVD
+About
+About
+Snowcap Mushroom
+Frost Spirit
+Raspberry Bush
+About
+Baneful Mushroom
+Nycto Bug
+Nectarine
+Igneous Root

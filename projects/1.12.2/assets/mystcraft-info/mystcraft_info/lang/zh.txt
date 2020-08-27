@@ -1,0 +1,109 @@
+Poems
+Tweak the way Narayan poems are displayed
+Replace unknown words with ???
+Replace unknown words with symbol name
+Tooltips
+Add additional information to Mystcraft Symbol pages
+Color (RGB Hexadecimal)
+Enabled
+Display this tooltip on relevant symbols
+Shift Required
+Hide this tooltip until shift is pressed
+Color (RGB Percent)
+Enabled
+Display this tooltip on relevant symbols
+Shift Required
+Hide this tooltip until shift is pressed
+Direction (Degrees)
+Enabled
+Display this tooltip on relevant symbols
+Shift Required
+Hide this tooltip until shift is pressed
+Direction (Percent)
+Enabled
+Display this tooltip on relevant symbols
+Shift Required
+Hide this tooltip until shift is pressed
+Grammar Rules
+Enabled
+Display this tooltip on relevant symbols
+Shift Required
+Hide this tooltip until shift is pressed
+Length (Percent)
+Enabled
+Display this tooltip on relevant symbols
+Shift Required
+Hide this tooltip until shift is pressed
+Length (Decimal)
+Enabled
+Display this tooltip on relevant symbols
+Shift Required
+Hide this tooltip until shift is pressed
+Phase (Degrees)
+Enabled
+Display this tooltip on relevant symbols
+Shift Required
+Hide this tooltip until shift is pressed
+Phase (Percent)
+Enabled
+Display this tooltip on relevant symbols
+Shift Required
+Hide this tooltip until shift is pressed
+Poem
+Enabled
+Display this tooltip on relevant symbols
+Shift Required
+Hide this tooltip until shift is pressed
+Parent Mod
+Enabled
+Display this tooltip on relevant symbols
+Shift Required
+Hide this tooltip until shift is pressed
+%1$s
+%2$s (via %1$s)
+Content added by %2$s
+Page added by %1$s
+Satisfies:
+Color:
+§c%1$d%% Red §9%3$d%% Blue §a%2$d%% Green
+Length:
+Direction:
+Phase:
+Press shift for more
+Biome
+Biome List
+Biome Controller
+Lighting
+Weather
+Terrain
+Visual
+Small Feature
+Medium Feature
+Large Feature
+Effect
+Sun
+Moon
+Starfield
+Doodad
+Crystaline Block
+Fluid Block
+Organic Block
+Solid Block
+Structural Block
+Sea Block
+Terrain Block
+Uncommon Sunset
+Sunset
+Angle
+Period
+Phase
+Color
+Color Gradient
+Angle
+Period
+Phase
+Basic Color
+Basic Color Gradient
+Large Feature
+Medium Feature
+Small Feature

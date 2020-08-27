@@ -1,0 +1,15 @@
+IncreaseMobs Configuration
+Around Players Only
+Whether or not to increase mobs around players only.
+Monster
+Change the settings for monster.
+Ambient
+Change the settings for ambient.
+Water Creature
+Change the settings for water creature.
+Enabled
+Whether or not to enabled for this mob type.
+Spawn Weight
+Specify the spawn weight for this mob type.
+Dimensions
+Specify the available dimension ids for this mob type.

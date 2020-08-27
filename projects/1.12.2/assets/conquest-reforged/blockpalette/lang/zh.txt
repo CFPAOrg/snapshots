@@ -1,0 +1,43 @@
+Show Variants
+Search
+Keybind
+Click
+Adjacent
+Complimentary
+Triad
+Tetrad
+Rainbow
+Mode: %s
+Hold Key: %s
+Tooltips: %s
+Highlight Color
+Red
+Green
+Blue
+Highlight Scale:
+Scale
+Color Mode:
+Opacity
+Pick Settings:
+Angle
+Group Size
+Leniency
+Gray Point
+Min Alpha
+Refresh
+Use the keybind to open the palette GUI from the Creative Inventory
+Click itemstacks to open the palette GUI from the Creative Inventory
+Hold the keybind to keep the palette open
+Enable or disable tooltips like this in the palette GUI
+Adjust the color of the highlight around items in the GUI
+Adjust the size of the highlight around items in the GUI
+3 colors - finds the color 'x' degrees either side of the selected block
+2 colors - finds the color on the opposite side of the color wheel to the selected block
+3 colors - finds two colors 'x' degrees either side of the selected block's complimentary
+4 colors - finds one color 'x' degrees from the selected block, and the complimentary colors of each
+Pick colors evenly spaced around the color wheel from the given blocks
+Controls the distance between the colors used in the 4 different color modes
+Controls the max number of variants of a single color that will be suggested
+Controls how accurately the palette matches the saturation levels of textures
+Controls the saturation level at which a texture is considered to be gray
+Controls the amount of transparancy a texture can have before it is excluded from suggestions

@@ -1,0 +1,61 @@
+Heroes tools TAB
+ironman TAB
+Heroes suits TAB
+Captain America's Shield
+Wakanda's Shield
+Batarang
+mini-Rocket
+Reactor
+Vixen's Totem
+Laser
+Laser Generator
+Laser System
+Captain America mask
+Сaptain America jacket
+Сaptain America legs
+Сaptain America boots
+Luke Cage mask
+Luke Cage jacket
+Luke Cage legs
+Luke Cage boots
+Red Tornado mask
+Red Tornado jacket
+Red Tornado legs
+Red Tornado boots
+Vixen mask
+Vixen jacket
+Vixen legs
+Vixen boots
+Storm mask
+Storm jacket
+Storm legs
+Storm boots
+Juggernaut mask
+Juggernaut jacket
+Juggernaut legs
+Juggernaut boots
+Jessica Jones head
+Jessica Jones jacket
+Jessica Jones legs
+Jessica Jones boots
+Iron-man mask
+Iron-man jacket
+Iron-man legs
+Iron-man boots
+Batman mask
+Batman jacket
+Batman legs
+Batman boots
+Ant-man mask
+Ant-man jacket
+Ant-man legs
+Ant-man boots
+Hulk mask
+Hulk jacket
+Hulk legs
+Hulk boots
+Berzik heroes Keys
+Ability 1
+Ability 2
+Ability 3
+Flying (type 1)

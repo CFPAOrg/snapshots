@@ -1,0 +1,5 @@
+FriendlyMobs Configuration
+Friendly Mobs
+Specify the friendly mobs.
+Select the mobs
+%d mobs selected

@@ -1,0 +1,68 @@
+Hearthstones
+Hearthstone
+Hearthing Planks
+Mortar
+Tattered Taverncloth
+Taverncloth
+Blue Taverncloth
+Taverncloth Patch
+Tattered Taverncloth Patch
+Blue Taverncloth Patch
+Aquamarine
+Deep Blue
+Aquamarine Dust
+Diamond Dust
+Lapis Lazuli Dust
+Tavern
+Shabby Tavern
+Guild Tavern
+Aquamarine Block
+Aquamarine Ore
+You haven't visited any Taverns yet. Try build new one!
+§8dim %d [%d, %d, %d] %s
+§6§lLeft click§r to select this Tavern to destination
+§6§lRight click§r to remove this from Tavern List (Cannot be undone!)
+Set this Tavern to home
+This Tavern is missing
+This Tavern is set to Home Tavern
+You didn't visit this Tavern, but you can use this Tavern thanks to the power of Guild Tavern!
+You can't use this Tavern with this Hearthstone!
+This Tavern is §aPublic§r
+This Tavern is §6Protected§r
+This Tavern is §cPrivate§r
+%s
+§6§lSHIFT+Right click§7 to open GUI
+Nameless Tavern
+No Owner
+Owned By %s
+§l%s
+owned by §a%s (%s)
+§a%dm away
+§canother dimension
+§afar away
+§a§lnearby
+§eCan warp to Tavern using Hearthstone.§r
+§cOnly works with Hearthing Planks.§r
+§8§oThe appearance of a Tavern makes perfect indicator for the Tavern's quality. And this Tavern is shit.§r
+§aPlayers can use this Tavern even if the player haven't visited the Tavern yet.§r
+§oCan be crafted using Blue Taverncloth on Tavern Block.§r
+Destination:
+§6§lSHIFT+Right click§r to select destination
+Home Tavern is not have been set.
+§b§l...Hearthing...
+§cCouldn't find selected Tavern.§r
+§cYou have to select Tavern first.§r
+§cHome Tavern is not have been set.§r
+§cYou can't use this Tavern.§r
+§cYou have to wait to use Hearthstone again.§r
+§eCan teleport to selected Tavern.§r
+§eCan teleport to home Tavern.§r
+§8§oSmall. Lightweight. Durable. Works perfectly. Definitely for long-time use. But most importantly, this 'Hearthstone' can use Tavern that is not a home Tavern.§r
+§eUpgrades Shabby Tavern to Normal Tavern.§r
+§eUpgrades Normal Tavern to Guild Tavern.§r
+§oUsed to make the Tavern.§r
+§8§oUpgrades... nothing.§r
+§aPublic Tavern§r grants both §aaccess and modification§r of the Tavern to §aeveryone§r even if they are not the owner of the Tavern. But they can't make Tavern not public, of course.
+§6Protected Tavern§r §6allows everyone to use§r the Tavern. However the property can be §6changed only by the owner, or player with OP permission§r.
+§cPrivate Tavern§r can be used only by §cyou and player with OP permission§r.
+Quickcast

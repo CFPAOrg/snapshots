@@ -1,0 +1,23 @@
+RenderChunk rebuildChunk Hooks Config
+ERROR - General Configuration Category
+ERROR - you shouldn't be able to see the general configuration category!
+Hooks
+Hooks Configuration Category
+Tweaks
+Tweaks Configuration Category
+Enable Hooks
+If any of the events provided by this mod will be posted to the Forge EventBus (Doesn't affect tweaks)
+Reload Chunks on Config change
+If all chunks should be reloaded when the config is changed (including when this is changed)
+Enable RebuildChunkPreEvent Hook
+If the RebuildChunkPreEvent will be posted to the Forge EventBus
+Enable RebuildChunkBlockRenderInLayerEvent Hook
+If the RebuildChunkBlockRenderInLayerEvent will be posted to the Forge EventBus
+Enable RebuildChunkBlockRenderInTypeEvent Hook
+If the RebuildChunkBlockRenderInTypeEvent will be posted to the Forge EventBus
+Enable RebuildChunkBlockEvent Hook
+If the RebuildChunkBlockEvent will be posted to the Forge EventBus
+Enable RebuildChunkPostEvent Hook
+If the RebuildChunkPostEvent will be posted to the Forge EventBus
+Tweak RebuildChunk Block#RenderInType
+If RebuildChunk Block#RenderInType should be tweaked to use the current state instead of the default one

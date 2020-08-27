@@ -1,0 +1,25 @@
+Advanced Bone Meal
+Iron Type Upgrade
+Diamond Type Upgrade
+Gold Type Upgrade
+Emerald Type Upgrade
+Fertilized Soil
+Growth Pedestal
+Harvester Pedestal
+Planter Pedestal
+Nature Gather
+3x3 Harvest
+Farming Tools
+Farming Tools Configs
+Blocks Configs
+All the mod blocks configs
+Fertilized Soil - Crop grow speed.
+Growth Pedestal - Crop grow speed.
+Items Configs
+All the mod items configs
+Advanced Bone Meal Range
+The range when applying the bone meal
+Features Configs
+All the mod features configs
+Show update message on load.
+If ON will display one message when joined the world.

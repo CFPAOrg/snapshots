@@ -1,0 +1,5 @@
+Do dogs spawn into the world lying down if they are already sitting.
+Time to spend sitting (in ticks) before dogs lie down.
+Range for target to get to dog before dog gets up (in blocks)
+Poses for lying down that are enabled. If the mod can't find compatible poses, it will randomly pick one set.
+Allow the mod to attempt to add support for mod wolves? (Still doesn't allow support for Doggy Talents)

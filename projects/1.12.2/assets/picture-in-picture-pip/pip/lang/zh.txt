@@ -1,0 +1,33 @@
+Client Only
+These settings affect the client that run the mod.
+PiP Toggle
+Keybind that toggles the Picture-in-Picture on.
+Show PiP Icons
+Show the PiP icons regardless of the PiP being on or not?
+PiP View
+Update Frequency
+Frequency that the Picture-in-Picture updates in a second, at best attempt.\nSet to 0 to bind to render tick.
+Player Cam
+Whose views are you trying to look through (No limit is applied, but I wouldn't recommend any more than 3)?\nSeparate player names with commas. (The more people you follow, the more heavy the resource demand)\nEG: Notch,Dinnerbone,Grumm
+Show Player Name
+Show the player name when PiP is open?
+Picture-in-Picture Size
+Max size of screen for each Picture-in-Picture. 10% - 90%.\nAutomatically resized when PiPs rendering exceeds 100% space.
+PiP Corner
+PiP Alignment
+Enable PiP animation?
+Enable animation on the PiPs?
+PiP Transparency
+PiP Transparency Mode
+PiP Range
+Max Range players will be tracked. Set to 0 to allow unlimited.\nRange is on best-effort basis, if the player is too far, then they're too far.
+Viewing
+Framebuffers are not supported on your system! PiP will not work!
+Enter command for list of arguments.
+/pip <add> <player>           Add player to view list
+/pip <remove> <player>           Remove player from view list
+Player added!
+Player already in view list!
+Player removed!
+Player is not in list!
+Specify a player name!

@@ -1,0 +1,420 @@
+This is a new clan.
+Internal Error: Clan economy account not found. Server owners, please report this.
+Internal Error: Player economy account not found. Server owners, please report this.
+Internal Error: The server was null! Server owners, please report this.
+/clan [clan] <command> [parameters]
+/opclan <command> [parameters]
+/raid <command> [parameters]
+Raiding is disabled on this server.
+/clan help [page|subcommand]
+The clan help command.
+/opclan help [page|subcommand]
+The opclan help command.
+/raid help [page|subcommand]
+The raid help command.
+You must be a player to do this.
+You are not in %s.
+The clan %s was not found.
+The player %s was not found.
+You do not have enough funds to do this.
+%s does not have enough funds to do this.
+You are not a leader of %s.
+You are not an admin of %s.
+The player %s is not in %s.
+You cannot use %s on %s because it is a server clan.
+%s could not be identified as a boolean.
+The block you are looking at is not locked.
+The lock type '%s' is invalid.
+The chunk you are standing in is not claimed by %s.
+%s: %s
+Invalid help parameter: %s. Please enter a page number or subcommand.
+/clan banner
+Turn the banner you are holding into the clan banner.
+%s does not have a banner.
+You are not holding a banner.
+/clan clanchat
+Toggle if you are talking in clan chat.
+/clan details [clan]
+View details about a clan.
+You are not in a clan. Use %s to get the details of another clan.
+You must specify a clan when viewing details from console. Use %s to get the details of a clan.
+Target clan %s was not found.
+Clan name: %s
+Clan description: %s
+Number of claims: %s
+Number of members: %s
+Members:
+Leader %s (WLR %s, last seen %s)
+Admin %s (WLR %s, last seen %s)
+%s (WLR %s, last seen %s)
+%s has no members.
+Clan Upkeep (expenses) is %s every %s days.
+Clan Rent (income) is %s every %s days.
+Individual rent is %s every %s days.
+Approximate financial trend is %s every day.
+You may want to increase rent to %s and/or find a way to reduce upkeep.
+You may want to find a way to reduce upkeep.
+%s is not earning or losing money.
+Rent is due in %s hours.
+Upkeep is due in %s hours.
+This clan is a server clan.
+Raid Rewards Multiplier: %s
+/clan disband
+Disband your clan.
+You have disbanded %s.
+%s has been disbanded by %s.
+You cannot disband %1$s using /clan disband because it is a server clan. Use /opclan disband %1$s to disband it.
+%s does not have enough funds to disband. Current requirement: %s.
+/clan form <name>
+Form a new clan.
+Clan formed.
+You have insufficient funds to form a clan. It costs %s.
+You are already in a clan.
+/clan list [sort|invites] [page]
+View a list of clans. Use 'invites' to see which clans have invited you to join, or sort by [money|land|members|rewardmult], any other sort is alphabetical.
+Clans on this server:
+(%s) %s - %s
+%s - %s
+There are no clans on this server.
+You don't have any pending invites.
+/clan playerinfo [player]
+View what clans a player is in.
+You must specify a player when viewing details from the console. Use %s to get the details of a player.
+Target player %s was not found.
+Player name: %s
+Clans:
+Leader of %s
+Admin of %s
+Member of %s
+%s is not in any clans.
+Win-Loss Ratio: %s
+Last Seen: %s
+/clan setbanner [banner]
+Set your clan's banner to one you are holding, or type the banner's NBT form.
+The clan banner you have specified is invalid.
+The clan banner you have specified is already taken.
+Clan banner for %s set.
+You are not holding a banner.
+/clan setcolor <color>
+Set the clan's color for clan chat, fancymap, Dynmap, etc. Basic color names, Hex colors(0x######), and RGB Ints are supported.
+%s color set.
+The color %s is invalid.
+/clan setdefault <clan>
+Sets the clan to use when you don't type /clan [clanname] <subcommand> [args...].
+Your default clan has been set to %s.
+/clan setdescription <new description>
+Sets your clan's description.
+Clan description for %s set.
+/clan setname <newname>
+Sets your clan's name.
+The clan name %s is too long. This server's maximum name length is %s characters.
+The clan name %s is already taken.
+You have renamed %s to %s.
+/clan addfunds <amount>
+Adds funds from your economy account to the clan's economy account.
+Improperly formatted amount.
+You added %s to %s's balance.
+%s added %s to %s's balance.
+/clan balance
+View the clan's account balance.
+%s's clan balance: %s.
+/clan setrent <amount>
+Set how much rent your clan members get charged.
+Clan rent for %s set to %s.
+Cannot set rent above %s's current maximum(%s).
+Cannot set negative rent.
+/clan setrent is disabled on this server.
+/clan takefunds <amount>
+Take funds out of the clan's economy account.
+/clan takefunds is disabled on this server.
+You took %s from %s's balance.
+%s took %s from %s's balance.
+/clan abandonclaim
+Abandon the 16x16 chunk of land you are currently standing in.
+Claim abandoned from %s.
+This land does not belong to %s.
+This land is not claimed.
+You cannot abandon this chunk of land because it would create a disconnected claim.
+/clan abandonall
+Abandon all of your clan's claimed land.
+/clan claim [radius]
+Claim the 16x16 chunk of land you are currently standing in.
+%s has already claimed this land.
+Another clan (%s) has already claimed this land.
+Another clan (%s) has already claimed land within the radius you specified.
+You cannot claim this chunk of land because it is too close to another clan's home. Make sure you are at least %s blocks away from other clans' homes before trying again. Try using /clan fancymap to help determine where other clans are.
+You cannot claim this land because would be too close to another clan's home. Make sure all land within the radius is at least %s blocks away from other clans' homes before trying again. Try using /clan fancymap to help determine where other clans are.
+It is recommended that you do not claim this chunk of land because it is within %s blocks of another clan's home. Type /clan claim again to claim this land anyways. Try using /clan fancymap to help determine where other clans are.
+It is recommended that you do not claim this land because it would be within %s blocks of another clan's home. Type /clan claim again to claim this land anyways. Try using /clan fancymap to help determine where other clans are.
+%s is already at or above its current max claim count of %s.
+Claiming %s chunks would put %s above its max claim count of %s. It has currently claimed %s chunks.
+You cannot claim this chunk of land because it is not next to another of %s's claims.
+You cannot claim this land because it would not connect to another of %s's claims.
+Land claimed for %s.
+Insufficient funds in %s's account to claim chunk. It costs %s.
+Insufficient funds in %s's account to claim %s chunks. It costs %s.
+Starting to claim everything within the radius you requested, please wait...
+You cannot claim land in this dimension.
+/clan autoabandon
+Automatically abandon claims as you enter them.
+You are now autoabandoning land for %s.
+You are no longer autoabandoning land for %s.
+/clan autoclaim
+Automatically claim land as you enter it.
+You are now autoclaiming land for %s.
+You are no longer autoclaiming land for %s.
+/clan fancymap
+View a large claim map color coded using clan colors.
+/clan map
+View a small claim map color coded by what clans you are in.
+/clan seechunk [on|off]
+See the edges of the chunk you are currently standing in. On and off are for toggling if this happens as you walk around.
+/clan accept <clan>
+Accept an invitation to join a clan.
+You joined %s.
+%s joined %s.
+You haven't been invited to join %s.
+/clan decline <clan> [block]
+Decline an invitation to join a clan.
+You declined the invitation to join %s.
+%s declined an invitation to join %s.
+/clan autodecline [clan]
+Automatically decline invitations from any clan or a clan you specify.
+You are now automatically declining all invitations.
+You are now automatically declining invitations from %s.
+You are no longer automatically declining all invitations.
+You are no longer automatically declining invitations from %s.
+/clan demote <player>
+Demote a player in your clan, Leader to Admin or Admin to Member.
+You have demoted %s to %s in %s.
+You have been demoted in %s to %s by %s.
+The player %s could not be demoted.
+/clan invite <send|revoke|list> <player>|[page]
+Invite a player to your clan, revoke an invite to a player, or list all players your clan has invited.
+You have invited %s to join %s.
+You have been invited to join %1$s. To join %1$s, type /clan accept. To decline, type /clan decline.
+The player %s has already been invited to join %s.
+The player %s is already in %s.
+The player %s is already in a clan.
+The player %s is not accepting invites from %s.
+The player %s is not accepting invites.
+The clan %s has revoked their invitation for you to join.
+You have revoked the invite for %s to join %s.
+/clan kick <player>
+Kick a player out of your clan.
+To leave a clan, use /clan leave.
+You do not have the authority to kick out %s.
+You have kicked %s out of %s.
+You have been kicked out of %s by %s.
+%s has been kicked out of %s by %s.
+The player %s could not be kicked from %s. If %1$s is the only leader of %2$s, another leader should be promoted to leader before attempting to kick %1$s.
+/clan leave
+Leave your clan.
+You are the last member of %s. To disband it, use /clan disband.
+You cannot leave %s without a leader. Promote someone else to be a leader before leaving.
+You have left %s.
+%s has left %s.
+Internal Error: You were unable to be removed from %s. Server owners, please report this.
+/clan promote <player>
+Promote a player in your clan. Member to Admin or Admin to Leader.
+You have promoted %s to %s in %s.
+%s has been promoted to %s in %s by %s.
+You have been promoted in %s to %s by %s.
+The player %s could not be promoted.
+/clan home
+Teleport to your clan's home.
+%s does not have a home. A clan leader should use /clan sethome to set one.
+Preparing to teleport you to the %s clan home. Remain still and avoid damage for %s seconds.
+Your clan home teleport was cancelled.
+You cannot use this command until your cooldown runs out in %s seconds.
+Error teleporting to clan home. Ensure that it is not blocked.
+Error teleporting you back to the dimension you were in.
+Error teleporting to clan home dimension.
+/clan home is disabled on this server.
+/clan sethome
+Set your clan's home.
+You are too close to another clan's home. You must be at least %s blocks away from other clans' homes to set your clan home. Use /clan fancymap to see where nearby clans are.
+%s home set.
+Clan home can only be set in clan territory.
+/clan unsethome
+Remove your clan's home.
+%s home removed.
+%s does not have a home.
+/clan trapped
+Teleport out of another clan's territory if you are stuck.
+No, you're not trapped in someone else's claim.
+/clan permissions [page]
+See what your clan's permissions are currently set to.
+%s: %s
+Player Override: %s: %s
+/clan set <permission> [player] <value>
+Set values for your clan's permissions. With a player, the value is true or false. Otherwise, you are setting the rank that has access, and your options are MEMBER, ADMIN, LEADER, or ANY. Note that each rank includes higher ranks, and ANY allows players that aren't in the clan. To see your current permissions, use /clan permissions.
+Invalid permission: %s
+Permission set succeeded!
+/clan lock [private|clan|open]
+Locks the block you are looking at. Modes: private(default): private to the player who locked it; clan: accessible to the whole clan; open: accessible to anyone, even players who are not in the clan
+This block is already locked by %s.
+You cannot lock that. If you believe this is in error, please contact your server's administrator.
+You are not looking at a block or are too far from the block to lock it.
+The block you are looking at is not claimed by %s.
+You have successfully locked the block you are looking at.
+%s does not allow you to use lock type %s.
+/clan lockchunk [private|clan|open]
+Locks all unlocked lockable blocks in the chunk. Modes: private(default): private to the player who locked it; clan: accessible to the whole clan; open: accessible to anyone, even players who are not in the clan
+You have successfully locked all lockable blocks in the chunk.
+/clan unlock
+Unlocks the block you are looking at. Only the player who locked it or players with "lockadmin" clan permission can do this.
+You cannot unlock this block because it is locked by %s.
+You are not looking at a block or are too far from the block to unlock it.
+You have successfully unlocked the block you are looking at.
+/clan unlockchunk [player|all]
+Unlocks all your locked blocks in the chunk. Only players with "lockadmin" clan permission can use the player|all option, setting a player clears locks by the specified player, saying all clears all locks.
+You have successfully unlocked all of your locked blocks in the chunk.
+You have successfully unlocked all of %s's locked blocks in the chunk.
+You have successfully unlocked all locked blocks in the chunk.
+You do not have permission to unlock other players' blocks in this clan.
+/clan grantaccess <player>
+Grants a player access to the locked block you are looking at. You can only grant access to blocks if you are the player who locked it or have the "lockadmin" clan permission.
+You cannot grant access to this block because it is locked by %s.
+You are not looking at a block or are too far from the block to grant access to it.
+You have successfully granted %s access to the block you are looking at.
+/clan denyaccess <player>
+Denies a player access to the locked block you are looking at. You can only deny access to blocks if you are the player who locked it or have the "lockadmin" clan permission.
+You cannot deny access to this block because it is locked by %s.
+You are not looking at a block or are too far from the block to deny access to it.
+You have successfully denied %s access to the block you are looking at.
+/clan lockinfo
+View lock information about the block you are looking at.
+Owner: %s
+Type: %s
+Overrides:
+%s: allowed
+%s: denied
+You are not looking at a block or are too far from the block to view lock information.
+/clan territorymessagemode <chat|action_bar|off> [showdescription: true|false]
+Set how territory messages will display for you. Chat shows it in chat, action bar shows it in the action bar, and off turns them off. showdescription only makes a difference when using chat; descriptions cannot be shown in the action bar.
+You have successfully updated your territory message mode.
+/clan undergroundmessages <on|off>
+Set if you see messages when moving between being above ground and below ground for Wilderness purposes.
+You have successfully updated your underground message mode.
+/opclan abandonclaim
+Abandon a claim, regardless of who owns it.
+/opclan addfunds <clan> <amount>
+Add funds to any clan's balance.
+/opclan autoabandon
+Automatically abandon claims as you walk around, regardless of who owns them.
+You are now autoabandoning land for everyone.
+You are no longer autoabandoning land for everyone.
+/opclan autoclaim <clan>
+Automatically claim land for a clan as you walk around, regardless of who currently owns it.
+/opclan buildadmin
+Enter admin mode, allowing you to build/destroy/interact/attack on any clan's territory.
+You are now in Build Admin mode.
+You are no longer in Build Admin mode.
+/opclan claim <clan>
+Claim a 16x16 chunk of land for the target clan, regardless of who currently owns it.
+/opclan setrank <clan> <member|admin|leader> <player>
+Make a player a rank in a clan.
+You have made %s a %s in %s.
+You have been made a %s in %s by %s.
+/opclan disband <clan>
+Disband any clan.
+/opclan kick <clan> <member>
+Kick a member from any clan.
+/opclan setcolor <clan> <color>
+Change any clan's color.
+/opclan setdescription <clan> <new description>
+Set any clan's description.
+/opclan setname <clan> <newname>
+Set any clan's name.
+/opclan setshield <clan> <duration>
+Set the amount of shield for any clan, in minutes.
+Improperly formatted shield duration.
+Clan shield for %s set to %s minutes.
+/opclan setserver <clan> <true|1|false|0>
+Set if a clan is a server clan. Server clans cannot be raided and do not use economy features.
+You have made %s a server clan.
+You have removed the server status from %s.
+/opclan set <clan> <option> <value>
+Set various options for a clan. Valid options are maxclaims, mobspawning, claimcost, mobdamage, upkeepexemption, dynmapvisible, server, pvp.
+You have successfully set the %s option for %s to %s.
+The option %s was not found.
+/opclan tp <clan>
+Teleport to a clan's home.
+You are not in a raiding party.
+You are not in an active raid.
+/raid collect
+Collect your blocks placed/forbidden items from during a raid.
+You have run out of room for collection. Make room in your inventory and try again.
+Collection successful.
+You don't have anything to collect.
+You cannot collect items while raiding.
+/raid invite <player>
+Invite a player to join the raiding party you are in.
+You have been invited to a raiding party against %1$s. To join, type /raid join %1$s.
+You successfully invited %s to the raiding party.
+You cannot invite someone to raid a clan they are a part of.
+Your raiding party cannot hold any more people. It has %s raiders and the limit is currently %s.
+/raid join <clan name>
+Join a raiding party against the target clan. One will be formed if it does not exist.
+You successfully created a raiding party against %s.
+%s does not have enough online members to get raided.
+%s is currently shielded. Try again in %s hours.
+You successfully joined the raiding party against %s.
+The raiding party against %s cannot hold any more people. It has %s raiders and the limit is currently %s.
+You cannot raid a clan you are in.
+You are already in a raiding party, and cannot join another unless you leave the one you are currently in.
+A server administrator has prevented %s from being raided.
+/raid leave
+Leave the raiding party you are in.
+You successfully left the raiding party against %s.
+/raid start
+Start the raid. You will be charged the fee to do so, if there is one.
+You successfully started the raid against %s.
+You have insufficient funds to start the raid against %s. It costs %s.
+The raid has already been started.
+Internal Error: Another raiding party is raiding this clan right now. Try again in %s hours. Server owners, please report this.
+/raid thru
+Go through protected blocks
+You are not looking at a block or are too far from the block to view lock information.
+The block you are looking at is not in %s's territory.
+There is nowhere on the other side of this to safely teleport.
+You cannot break blocks in another clan's territory.
+You cannot break blocks this close to another clan's territory.
+You cannot break this block during a raid. Please wait until the raid is completed and try again.
+You cannot break this block while in another clan's territory.
+You cannot break blocks in Wilderness.
+You cannot break this block because it is locked by %s.
+You cannot place blocks in another clan's territory.
+You cannot place blocks this close to another clan's territory.
+You cannot place blocks in Wilderness.
+You cannot interact with blocks in another clan's territory.
+You cannot interact with blocks this close to another clan's territory.
+You cannot interact with this block because it is locked by %s.
+You have been kicked out of %s due to inability to pay rent.
+%s has been disbanded due to inability to pay upkeep costs.
+Wilderness
+Underground
+You are now entering %s.
+~%s
+This land is not claimed.
+This land is not claimed, and is protected.
+%s's territory
+%s's borderlands
+The raid against %s has %s minutes remaining. You will glow until the raid ends. There are %s raiders still alive.
+The raid against %s has %s minutes remaining. The %s remaining defending players will glow until the raid ends.
+You have been removed from your raid because you spent too long outside the %s's territory.
+You are now considered killed for the purposes of determining raid victory because you spent too long outside the %s's territory.
+You are not in %s's territory. If you stay outside it for longer than %s seconds, you will be removed from the raid.
+You are not in %s's territory. If you stay outside it for longer than %s seconds, you will be considered killed when determining raid victory.
+The following item is not allowed during raids and has been confiscated: %s. You can reclaim it when the raid ends with /raid collect.
+A raiding party with %s members is preparing to raid %s. The raid will begin in %s seconds.
+Your raiding party, with %s members, is preparing to raid %s. The raid will begin in %s seconds.
+The raid against %s has begun!
+The raid against %s has ended!
+The raiders were victorious against %s!
+%s was victorious against the raiders!
+<%s Chat>
+[Next]
+[Previous]
+Page: %s/%s

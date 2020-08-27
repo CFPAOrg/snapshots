@@ -1,0 +1,44 @@
+Tool Upgrades
+You have not enough experience levels!
+Use it on a bookshelf...
+Redstone Circuit
+Enchanted Circuit
+Advanced Circuit
+Enchanted Advanced Circuit
+Blank Advanced Modifier
+Blank Modifier
+Blaze Modifier
+Gunpowder Modifier
+Glowstone Modifier
+Redstone Modifier
+Sugar Modifier
+Bonemeal Modifier
+Clay Modifier
+Ink Modifier
+Lapis Modifier
+Slime Modifier
+Cursed Modifier
+Advanced Blaze Modifier
+Advanced Gunpowder Modifier
+Advanced Glowstone Modifier
+Advanced Redstone Modifier
+Advanced Sugar Modifier
+Advanced Bone Modifier
+Advanced Clay Modifier
+Advanced Ink Modifier
+Advanced Lapis Modifier
+Advanced Slime Modifier
+Blaze Paste
+Gunpowder Paste
+Redstone Paste
+Glowstone Paste
+Sugar Paste
+Bonemeal Paste
+Clay Paste
+Ink Paste
+Lapis Paste
+Slime Paste
+Choose your enchantment!
+Enchant items with a modifier
+Better enchantments!
+Enchant items with a advanced modifier

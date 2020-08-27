@@ -1,0 +1,10 @@
+DexNav
+You haven't battled this Pokemon yet!
+%s Level: %s
+%s Level: %s | Move: %s
+%s Level: %s | Move: %s | Ability: %s
+%s Level: %s | Move: %s | Ability: %s | Potential: %s
+★★★
+★★☆
+★☆☆
+☆☆☆

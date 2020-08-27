@@ -1,0 +1,11 @@
+Light up your world!
+Held items can give off light
+Holding certain items like torches and glowstone will give off light.
+Torches can burn entities
+Attacking with regular torch will set entities on fire.
+Burning entities give off light
+When an entity is burning it gives off same light as a fire block.
+Fire-based enchantments give off light
+When an entity is holding a Flame or Fire Aspect enchanted item, it will give off the same light as a fire block.
+Entity items give off light
+An item dropped on the ground will give off light, unless in water.

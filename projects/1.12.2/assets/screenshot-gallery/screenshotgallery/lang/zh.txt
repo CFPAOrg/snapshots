@@ -1,0 +1,13 @@
+Folder
+Formatting
+Auto Upload
+FTP
+Host
+User
+Password
+Upload Path
+Upload URL
+Screenshot Gallery
+/screenshotgallery [id]
+Close
+Open

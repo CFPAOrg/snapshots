@@ -1,0 +1,39 @@
+Halloween LuckyBlock Tab
+Halloween LuckyBlock
+Pumpkin Bomb
+Flying Candy
+Teleporter
+Candy Bag
+Witch's Broomstick
+Pumpkin Grenade
+Slender Helmet
+Slender Chestplate
+Slender Leggings
+Slender Boots
+Scarecrow Helmet
+Scarecrow Chestplate
+Scarecrow Leggings
+Scarecrow Boots
+Witch Helmet
+Witch Chestplate
+Witch Leggings
+Witch Boots
+Zombie Helmet
+Zombie Chestplate
+Zombie Leggings
+Zombie Boots
+Clown Helmet
+Clown Chestplate
+Clown Leggings
+Clown Boots
+Killer Knive
+Pumpkin Grenade
+Creepy Zombie
+Ghost
+Vampire
+§6Halloween Sounds
+§bReady to use
+§cNext use in §6%s §cseconds
+§cLocation out of range
+§4Run! Run! Only 6 seconds till explosion!
+§e<HyCraftHD> §6Look into the sky ... :)

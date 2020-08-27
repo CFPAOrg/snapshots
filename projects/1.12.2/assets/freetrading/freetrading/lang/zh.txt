@@ -1,0 +1,26 @@
+Counter
++%d
+-%d
+Money: %d
+Your offer:
+Partner offer:
+Wealth:
+Level: %s
+Seal a deal
+Abort
+Deal aborted, because you can't hold items, which your partner offer.
+Deal aborted, because your partner can't hold items, which you offer.
+Your offer locked
+Partner offer locked
+Farmer
+Fisherman
+Shepherd
+Fletcher
+Librarian
+Cartographer
+Cleric
+Armorer
+Weapon Smith
+Tool Smith
+Butcher
+Leatherworker

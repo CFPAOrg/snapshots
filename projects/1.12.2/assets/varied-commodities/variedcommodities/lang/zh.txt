@@ -1,0 +1,392 @@
+You have 10 seconds to place an Icon
+VariedCommodities Weapons
+VariedCommodities Armors
+VariedCommodities Blocks
+VariedCommodities Items
+Damage
+Confusion
+Infinite
+Poison
+Already in use
+Trade
+Waiting for trade to start
+Trade was cancelled
+Trade completed succesfully
+Carpentry Bench
+Blood Block
+Banner
+Wall Banner
+Chair
+Crate
+Tall Lamp
+Weapon Rack
+Wool Couch
+Wooden Table
+Wooden Couch
+Lamp
+Candle
+Stool
+Big Sign
+Barrel
+Shelf
+Sign
+Tombstone
+Campfire
+Beam
+Pedestal
+Trading Block
+Crystal
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Banjo
+Violin
+Violin Bow
+Harp
+Guitar
+French Horn
+Ocarina
+Clarinet
+Wooden Coin
+Stone Coin
+Bronze Coin
+Iron Coin
+Golden Coin
+Diamond Coin
+Emerald Coin
+Wooden Gun
+Stone Gun
+Iron Gun
+Golden Gun
+Diamond Gun
+Bronze Gun
+Emerald Gun
+Machine Gun
+Bullet
+Wooden Trident
+Stone Trident
+Iron Trident
+Golden Trident
+Diamond Trident
+Bronze Trident
+Emerald Trident
+Cursed Trident
+Demonic Trident
+Frost Trident
+Mithril Trident
+Nature Spell
+Arcane Spell
+Lightning Spell
+Ice Spell
+Fire Spell
+Dark Spell
+Holy Spell
+Kunai
+Reverse Kunai
+Shuriken
+Giant Shuriken
+Katana
+Kukri
+Ninja Claw
+Steel Claw
+Bear Claw
+Katar
+Golf Club
+Magic Wand
+Chicken Sword
+Handcuffs
+Hammer
+Baseball Bat
+Lead Pipe
+Cleaver
+Saber
+Hockey Stick
+Sledgehammer
+Broken Bottle
+Combat Knife
+Lighter
+Baton
+GunChainsaw
+Rapier
+Crowbar
+Pipe Wrench
+Wrench
+Swiss Army Knife
+Leaf Blade
+Round Wooden Shield
+Round Stone Shield
+Round Iron Shield
+Round Golden Shield
+Round Diamond Shield
+Round Bronze Shield
+Round Emerald Shield
+Demonic Shield
+Frost Shield
+Mithril Shield
+Wooden Shield
+Stone Shield
+Iron Shield
+Golden Shield
+Diamond Shield
+Bronze Shield
+Emerald Shield
+Steel Tower Shield
+Steel Cryscent Shield
+Steel Scutum Shield
+Steel Heater Shield
+Wooden Spear
+Stone Spear
+Iron Spear
+Golden Spear
+Diamond Spear
+Bronze Spear
+Emerald Spear
+Demonic Spear
+Frost Spear
+Mithril Spear
+Wooden Battle Axe
+Stone Battle Axe
+Iron Battle Axe
+Golden Battle Axe
+Diamond Battle Axe
+Bronze Battle Axe
+Emerald Battle Axe
+Demonic Battle Axe
+Frost Battle Axe
+Mithril Battle Axe
+Wooden Mace
+Stone Mace
+Iron Mace
+Golden Mace
+Diamond Mace
+Bronze Mace
+Emerald Mace
+Demonic Mace
+Frost Mace
+Mithril Mace
+Wooden Dagger
+Stone Dagger
+Iron Dagger
+Golden Dagger
+Diamond Dagger
+Bronze Dagger
+Emerald Dagger
+Demonic Dagger
+Frost Dagger
+Mithril Dagger
+Reversed Wooden Dagger
+Reversed Stone Dagger
+Reversed Iron Dagger
+Reversed Golden Dagger
+Reversed Diamond Dagger
+Reversed Bronze Dagger
+Reversed Emerald Dagger
+Reversed Demonic Dagger
+Reversed Frost Dagger
+Reversed Mithril Dagger
+Wooden Staff
+Stone Staff
+Iron Staff
+Golden Staff
+Diamond Staff
+Bronze Staff
+Emerald Staff
+Elemental Staff
+Demonic Staff
+Frost Staff
+Mithril Staff
+Mana
+Wooden Scythe
+Stone Scythe
+Iron Scythe
+Golden Scythe
+Bronze Scythe
+Diamond Scythe
+Emerald Scythe
+Demonic Scythe
+Frost Scythe
+Mithril Scythe
+Wooden Glaive
+Stone Glaive
+Iron Glaive
+Golden Glaive
+Diamond Glaive
+Bronze Glaive
+Emerald Glaive
+Demonic Glaive
+Frost Glaive
+Mithril Glaive
+Cowleather Helmet
+Cowleather ChestPlate
+Cowleather Leggings
+Cowleather Boots
+Nanorum Helmet
+Nanorum ChestPlate
+Nanorum Leggings
+Nanorum Boots
+Tactical Helmet
+Tactical Vest
+Full Leather Helmet
+Full Leather ChestPlate
+Full Iron Helmet
+Full Iron ChestPlate
+Full Gold Helmet
+Full Gold ChestPlate
+Full Diamond Helmet
+Full Diamond ChestPlate
+Full Bronze Helmet
+Full Bronze ChestPlate
+Full Bronze Leggings
+Full Bronze Boots
+Full Wooden Helmet
+Full Wooden ChestPlate
+Full Wooden Leggings
+Full Wooden Boots
+Tuxedo Chest
+Tuxedo Pants
+Tuxedo Trenchcoat
+Wizard Head
+Wizard Chest
+Wizard Leggings
+Assassins Helmet
+Assassins ChestPlate
+Assassins Leggings
+Assassins Boots
+Soldier Helmet
+Soldier ChestPlate
+Soldier Leggings
+Soldier Trenchcoat
+X407 Prototype Helmet
+X407 Prototype ChestPlate
+X407 Prototype Leggings
+X407 Prototype Boots
+Mithril Helmet
+Mithril ChestPlate
+Mithril Leggings
+Mithril Boots
+Demonic Helmet
+Demonic ChestPlate
+Demonic Leggings
+Demonic Boots
+Commissar Helmet
+Commissar ChestPlate
+Commissar Leggings
+Commissar Trenchcoat
+Infantry Helmet
+Officer ChestPlate
+Crown
+Crown
+Paper Crown
+Ninja Head
+Ninja Chest
+Ninja Leggings
+Full Emerald Helmet
+Full Emerald ChestPlate
+Full Emerald Leggings
+Full Emerald Boots
+Orb
+BrokenOrb
+Letter
+Plans
+Satchel
+Bag
+Crystal
+Severed Ear
+Phone
+Bandit Mask
+Broken Arrow
+Earth Element
+Water Element
+Fire Element
+Air Element
+Car Key
+Key
+Key
+Pendant
+Blueprint
+Ring
+Skull
+Sapphire
+Amethyst
+Ruby
+Bronze Ingot
+Demonic Ingot
+Mithril Ingot
+Steel Ingot
+Macuahuitl
+Bo Staff
+Sai Blade
+Crossbow
+Crossbow Bolt
+Slingshot
+Musket
+Excalibur
+Bronze Sword
+Emerald Sword
+Demonic Sword
+Frost Sword
+Mithril Sword
+Ancient Coin
+Ancient Scroll
+Artifact
+Locket
+Silk
+Statuette
+Tablet
+Wooden Halberd
+Stone Halberd
+Iron Halberd
+Golden Halberd
+Diamond Halberd
+Bronze Halberd
+Emerald Halberd
+Demonic Halberd
+Frost Halberd
+Mithril Halberd
+Wooden Warhammer
+Stone Warhammer
+Iron Warhammer
+Golden Warhammer
+Diamond Warhammer
+Bronze Warhammer
+Emerald Warhammer
+Demonic Warhammer
+Frost Warhammer
+Mithril Warhammer
+Chain Skirt
+Leather Skirt
+Golden Skirt
+Iron Skirt
+Diamond Skirt
+Emerald Skirt
+Bronze Skirt
+Demonic Skirt
+Mithril Skirt
+Wooden Broadsword
+Stone Broadsword
+Iron Broadsword
+Golden Broadsword
+Diamond Broadsword
+Bronze Broadsword
+Emerald Broadsword
+Demonic Broadsword
+Frost Broadsword
+Mithril Broadsword
+Heart
+Money
+Necklace
+USB-Stick
+VariedCommodities Recipe Book

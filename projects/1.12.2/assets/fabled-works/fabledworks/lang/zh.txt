@@ -1,0 +1,6 @@
+Legendary %s
+Epic %s
+Rare %s
+Uncommon %s
+of %s
+and %s

@@ -1,0 +1,24 @@
+Binocular
+Zoom In
+Zoom Out
+Zoom Reset
+Zoom Lock
+Night Vision
+Waypoints
+Quick info
+Binocular
+Night Vision
+Zoom In
+Zoom Out
+Zoom Reset
+Zoom Lock
+Waypoints
+Quick info
+North
+North West
+West
+South West
+South
+South East
+East
+North East

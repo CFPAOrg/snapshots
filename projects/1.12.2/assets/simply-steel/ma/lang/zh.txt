@@ -1,0 +1,37 @@
+Old Coal Ore
+Stone Extended By Coal
+Coal Stone
+Steel Block
+Red Steel Block
+Blue Steel Block
+Green Steel Block
+Old Coal
+Extended Iron
+Steel Ingot
+Steel Sword
+Steel Spade
+Steel Axe
+Steel Pickaxe
+Steel Hoe
+Steel Helmet
+Steel Chestplate
+Steel Leggins
+Steel Boots
+Red Steel Ingot
+Blue Steel Ingot
+Green Steel Ingot
+Red Steel Sword
+Red Steel Spade
+Red Steel Axe
+Red Steel Pickaxe
+Red Steel Hoe
+Blue Steel Sword
+Blue Steel Spade
+Blue Steel Axe
+Blue Steel Pickaxe
+Blue Steel Hoe
+Green Steel Sword
+Green Steel Spade
+Green Steel Axe
+Green Steel Pickaxe
+Green Steel Hoe

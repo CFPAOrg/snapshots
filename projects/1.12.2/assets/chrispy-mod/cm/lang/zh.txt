@@ -1,0 +1,79 @@
+Ruby
+Blue Emerald
+Opal
+Cobalt
+Cobalt Shard
+Tangerine
+Marshmallow
+Grilled Carrot
+Apple Pie
+Apple Cake
+Apple Juice
+Chicken Stew
+Corn
+Corn Seeds
+Corn Plant
+Ruby Pickaxe
+Ruby Sword
+Ruby Axe
+Ruby Shovel
+Ruby Hoe
+Blue Emerald Pickaxe
+Blue Emerald Sword
+Blue Emerald Axe
+Blue Emerald Shovel
+Blue Emerald Hoe
+Opal Pickaxe
+Opal Sword
+Opal Axe
+Opal Shovel
+Opal Hoe
+Cobalt Pickaxe
+Cobalt Sword
+Cobalt Axe
+Cobalt Shovel
+Cobalt Hoe
+Tangerine Pickaxe
+Tangerine Sword
+Tangerine Axe
+Tangerine Shovel
+Tangerine Hoe
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Blue Emerald Helmet
+Blue Emerald Chestplate
+Blue Emerald Leggings
+Blue Emerald Boots
+Opal Helmet
+Opal Chestplate
+Opal Leggings
+Opal Boots
+Cobalt Helmet
+Cobalt Chestplate
+Cobalt Leggings
+Cobalt Boots
+Tangerine Helmet
+Tangerine Chestplate
+Tangerine Leggings
+Tangerine Boots
+Block of Ruby
+Block of Blue Emerald
+Block of Opal
+Block of Cobalt
+Block of Tangerine
+Baked Obsidian
+Ruby Ore
+Opal Ore
+Cobalt Ore
+Tangerine Ore
+Sandy Cow
+Snowy Cow
+CMod Blocks
+CMod Items
+CMod Tools
+CMod Combat
+CMod Foods
+Biome Tester [EXPERIMENTAL]
+CMod [EXPERIMENTAL]

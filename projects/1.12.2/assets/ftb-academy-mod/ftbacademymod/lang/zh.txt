@@ -1,0 +1,22 @@
+FTB Academy Detector
+/quit_school
+/reset_school
+/reset_school_for <player>
+No cheating!
+%s has graduated!
+Reset School
+Quit School
+Welcome to FTB Academy!
+Begin playing the modpack.
+Certificate in Storage
+Learn about the different methods of modded storage.
+Certificate in Automation
+Learn how automation works.
+Certificate in Technology
+Learn how technology mods work.
+Certificate in Astral Sorcery
+Learn how to use Astral Sorcery.
+Certificate in Botania
+Learn how to use Botania.
+PhD
+Complete the school and continue on to the Overworld.

@@ -1,0 +1,3308 @@
+English
+United States
+en_us
+Done
+Cancel
+Back
+Back to title screen
+Back to server list
+Up
+Down
+Yes
+No
+None
+All
+Right Click for more
+Showing all
+Showing craftable
+Hello, world!
+Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!
+%%s %%%s %%%%s %%%%%s
+hi %
+hi %  s
+%s %s
+world
+Game Menu
+Singleplayer
+Multiplayer
+Minecraft Realms
+Options...
+Quit Game
+Save and Quit to Title
+Disconnect
+Back to Game
+Generating world
+Loading world
+Building terrain
+Converting world
+Respawning
+Open to LAN
+Select World
+empty
+World
+Play Selected World
+Create New World
+Re-Create
+Play New Demo World
+Delete
+Edit
+Edit World
+Reset Icon
+Open Folder
+Save World
+Are you sure you want to delete this world?
+will be lost forever! (A long time!)
+Delete
+Must be converted!
+New World
+Copy of %s
+World Name
+Will be saved in:
+Seed for the world generator
+Leave blank for a random seed
+Cheats
+Customize
+Version:
+unknown
+Do you really want to load this world?
+This world was saved in version '%s' and loading it in this version could cause corruption!
+Use Anyway
+World was saved in a newer version,
+loading this world could cause problems!
+Don't forget to backup this world
+before you load it in this snapshot.
+Unable to load worlds
+Unable to read or access folder where game worlds are saved!
+Presets
+Select a Preset
+Use Preset
+Want to share your preset with someone? Use the below box!
+Alternatively, here's some we made earlier!
+Superflat Customization
+Layer Material
+Height
+Add Layer
+Edit Layer
+Remove Layer
+Top - %s
+%s
+Bottom - %s
+Classic Flat
+Tunnelers' Dream
+Water World
+Overworld
+Snowy Kingdom
+Bottomless Pit
+Desert
+Redstone Ready
+The Void
+Basic Settings
+Ore Settings
+Advanced Settings (Expert Users Only!)
+Extra Advanced Settings (Expert Users Only!)
+Randomize
+Previous Page
+Next Page
+Defaults
+This will overwrite your current
+settings and cannot be undone.
+Warning!
+Main Noise Scale X
+Main Noise Scale Y
+Main Noise Scale Z
+Depth Noise Scale X
+Depth Noise Scale Z
+Depth Noise Exponent
+Depth Base Size
+Coordinate Scale
+Height Scale
+Height Stretch
+Upper Limit Scale
+Lower Limit Scale
+Biome Depth Weight
+Biome Depth Offset
+Biome Scale Weight
+Biome Scale Offset
+Sea Level
+Caves
+Strongholds
+Villages
+Mineshafts
+Temples
+Ocean Monuments
+Woodland Mansions
+Ravines
+Dungeons
+Dungeon Count
+Water Lakes
+Water Lake Rarity
+Lava Lakes
+Lava Lake Rarity
+Lava Oceans
+Biome
+Biome Size
+River Size
+Spawn Size
+Spawn Tries
+Min. Height
+Max. Height
+Center Height
+Spread Height
+Customize World Presets
+Presets
+Water World
+Isle Land
+Caver's Delight
+Mountain Madness
+Drought
+Caves of Chaos
+Good Luck
+Survival Mode
+Creative Mode
+Adventure Mode
+Spectator Mode
+Hardcore Mode!
+Your game mode has been updated to %s
+Previous Page
+Next Page
+Close Menu
+Teleport to Player
+Select a player to teleport to
+Teleport to Team Member
+Select a team to teleport to
+Press a key to select a command, and again to use it.
+Game Mode
+Survival
+Search for resources, crafting, gain
+levels, health and hunger
+Creative
+Unlimited resources, free flying and
+destroy blocks instantly
+Spectator
+You can look but don't touch
+Hardcore
+Same as survival mode, locked at hardest
+difficulty, and one life only
+Adventure
+Same as survival mode, but blocks can't
+be added or removed
+More World Options...
+Generate Structures:
+Villages, dungeons etc
+World Type:
+Normal
+Allow Cheats:
+Commands like /gamemode, /xp
+Hardcore:
+World is deleted upon death
+Bonus Chest:
+Default
+Superflat
+Large Biomes
+AMPLIFIED
+Customized
+Debug Mode
+Notice: Just for fun, requires beefy computer
+Select Server
+empty
+Join Server
+Direct Connect
+Edit
+Delete
+Add Server
+Minecraft Server
+Are you sure you want to remove this server?
+will be lost forever! (A long time!)
+Delete
+Refresh
+(Hidden)
+Edit Server Info
+Server Name
+Server Address
+Done
+Hide Address
+Server Resource Packs
+Enabled
+Disabled
+Prompt
+LAN World
+Scanning for games on your local network
+Start LAN World
+Settings for Other Players
+Minecraft Online World
+Play Multiplayer
+Connect
+Enter the IP of a server to connect to it:
+This server recommends the use of a custom resource pack.
+Would you like to download and install it automagically?
+Loading terrain
+Downloading statistics...
+Leave Bed
+%s joined the game
+%s (formerly known as %s) joined the game
+%s left the game
+... and %s more ...
+Cancelled
+Can't connect to server
+Can't resolve hostname
+Client out of date!
+(no connection)
+Old
+Pinging...
+Server out of date!
+???
+Received unrequested status
+Authentication servers are down. Please try again later, sorry!
+You are banned from this server.
+You logged in from another location
+Flying is not enabled on this server
+Disconnected
+You have been idle for too long!
+Illegal characters in chat
+Attempting to attack an invalid entity
+Invalid move player packet received
+Invalid move vehicle packet received
+You have been IP banned.
+Kicked by an operator.
+Outdated client! Please use %s
+Outdated server! I'm still on %s
+Server closed
+Took too long to log in
+Failed to verify username!
+Cannot send chat message
+<%s> %s
+%s says %s
+* %s %s
+[%s] %s
+[%s: %s]
+%s has made the advancement %s
+%s has completed the challenge %s
+%s has reached the goal %s
+Are you sure you want to open the following website?
+Never open links from people that you don't trust!
+Copy to Clipboard
+Do you want to open this link or copy it to your clipboard?
+Open in browser
+Play Demo World
+Reset Demo World
+This demo will last five game days, do your best!
+Day Two
+Day Three
+Day Four
+This is your last day!
+Your time is almost up!
+You have passed your fifth day, use F2 to save a screenshot of your creation
+The demo time has expired, buy the game to continue or start a new world!
+Remaining time: %s
+Demo time's up!
+Use the %1$s, %2$s, %3$s, %4$s keys and the mouse to move around
+Move by pressing the %1$s, %2$s, %3$s, %4$s keys
+Look around using the mouse
+Jump by pressing the %1$s key
+Use the %1$s key to open your inventory
+Minecraft Demo Mode
+This demo will last 5 ingame days (about 1 hour and 40 minutes of real time). Check the advancements for hints! Have fun!
+Purchase Now!
+Continue Playing!
+Connecting to the server...
+Logging in...
+Failed to connect to the server
+%s
+Disconnected by Server
+Connection Lost
+Was kicked from the game
+Timed out
+Connection closed
+Failed to login
+Failed to login: %s
+The authentication servers are currently down for maintenance.
+Invalid session (Try restarting your game and the launcher)
+Quitting
+End of stream
+Buffer overflow
+Kicked for spamming
+Master Volume
+Music
+Jukebox/Note Blocks
+Weather
+Hostile Creatures
+Friendly Creatures
+Players
+Blocks
+Ambient/Environment
+Voice/Speech
+Now playing: %s
+OFF
+ON
+Shown
+Hidden
+Options
+Controls...
+Video Settings...
+Language...
+Music & Sounds...
+Music & Sound Options
+Language translations may not be 100%% accurate
+Video Settings
+Customize World Settings
+Music
+Sound
+Invert Mouse
+FOV
+Normal
+Quake Pro
+Saturation
+Brightness
+Moody
+Bright
+Sensitivity
+*yawn*
+HYPERSPEED!!!
+Render Distance
+View Bobbing
+Smooth Lighting
+OFF
+Minimum
+Maximum
+3D Anaglyph
+%s chunks
+%s fps
+Max Framerate
+Unlimited
+Difficulty
+Peaceful
+Easy
+Normal
+Hard
+Hardcore
+Graphics
+Fancy
+Fast
+Fancy
+Fast
+GUI Scale
+Auto
+Small
+Normal
+Large
+Clouds
+Particles
+All
+Decreased
+Minimal
+Multiplayer Settings...
+Chat Settings...
+Chat
+Shown
+Commands Only
+Hidden
+Colors
+Opacity
+Web Links
+Prompt on Links
+Scale
+Width
+Focused Height
+Unfocused Height
+Skin Customization...
+Skin Customization
+Cape
+Hat
+Jacket
+Left Sleeve
+Right Sleeve
+Left Pants Leg
+Right Pants Leg
+Allow Snooper
+Snooper Settings...
+Feed us data!
+We always want to improve Minecraft and, to help us do that, we'd like to collect some information. This lets us know what hardware to support and where the big problems are. It also gives us a sense of the size of our active player base, so we know if we're doing a good job. You can view all the information we collect below. If you want to opt out then you can simply toggle it off!
+Resource Packs...
+Fullscreen
+Use VSync
+Use VBOs
+Touchscreen Mode
+Reduced Debug Info
+Entity Shadows
+Main Hand
+Left
+Right
+Attack Indicator
+Crosshair
+Hotbar
+Show Subtitles
+Realms Notifications
+Auto-Jump
+Narrator
+Off
+Narrates all
+Narrates chat
+Narrates system
+Not available
+Mipmap Levels
+Force Unicode Font
+Narrator Disabled
+Narrator Enabled
+Lock World Difficulty
+Are you sure you want to lock the difficulty of this world? This will set this world to always be %1$s, and you will never be able to change that again.
+Old graphics card detected; this may prevent you from
+playing in the future as OpenGL 2.0 will be required.
+Controls
+Reset
+Reset Keys
+Sprint
+Walk Forwards
+Strafe Left
+Walk Backwards
+Strafe Right
+Jump
+Open/Close Inventory
+Drop Selected Item
+Swap Item In Hands
+Open Chat
+Sneak
+List Players
+Attack/Destroy
+Use Item/Place Block
+Pick Block
+Button %1$s
+Left Click
+Middle Click
+Right Click
+Open Command
+Take Screenshot
+Toggle Perspective
+Toggle Cinematic Camera
+Toggle Fullscreen
+Highlight Players (Spectators)
+Hotbar Slot 1
+Hotbar Slot 2
+Hotbar Slot 3
+Hotbar Slot 4
+Hotbar Slot 5
+Hotbar Slot 6
+Hotbar Slot 7
+Hotbar Slot 8
+Hotbar Slot 9
+Save Toolbar Activator
+Load Toolbar Activator
+Advancements
+Movement
+Miscellaneous
+Multiplayer
+Gameplay
+Game Interface
+Inventory
+Creative Mode
+Open Resource Pack Folder
+Select Resource Packs
+Available Resource Packs
+Selected Resource Packs
+(Place resource pack files here)
+Incompatible
+(Made for an older version of Minecraft)
+(Made for a newer version of Minecraft)
+Are you sure you want to load this resource pack?
+This resource pack was made for an older version of Minecraft and may no longer work correctly.
+This resource pack was made for a newer version of Minecraft and may no longer work correctly.
+Edit sign message
+Page %1$s of %2$s
+by %1$s
+Sign
+Enter Book Title:
+Sign and Close
+Note! When you sign the book, it will no longer be editable.
+Original
+Copy of original
+Copy of a copy
+Tattered
+Trade something else to unlock!
+Air
+Barrier
+Stone
+Granite
+Polished Granite
+Diorite
+Polished Diorite
+Andesite
+Polished Andesite
+Hay Bale
+Grass Block
+Dirt
+Dirt
+Coarse Dirt
+Podzol
+Cobblestone
+Wooden Planks
+Oak Wood Planks
+Spruce Wood Planks
+Birch Wood Planks
+Jungle Wood Planks
+Acacia Wood Planks
+Dark Oak Wood Planks
+Oak Sapling
+Spruce Sapling
+Birch Sapling
+Jungle Sapling
+Acacia Sapling
+Dark Oak Sapling
+Dead Bush
+Bedrock
+Water
+Lava
+Sand
+Sand
+Red Sand
+Sandstone
+Sandstone
+Chiseled Sandstone
+Smooth Sandstone
+Red Sandstone
+Red Sandstone
+Chiseled Red Sandstone
+Smooth Red Sandstone
+Gravel
+Gold Ore
+Iron Ore
+Coal Ore
+Wood
+Oak Wood
+Spruce Wood
+Birch Wood
+Jungle Wood
+Acacia Wood
+Dark Oak Wood
+Leaves
+Oak Leaves
+Spruce Leaves
+Birch Leaves
+Jungle Leaves
+Acacia Leaves
+Dark Oak Leaves
+Grass
+Shrub
+Grass
+Fern
+Sponge
+Wet Sponge
+Glass
+Stained Glass
+Black Stained Glass
+Red Stained Glass
+Green Stained Glass
+Brown Stained Glass
+Blue Stained Glass
+Purple Stained Glass
+Cyan Stained Glass
+Light Gray Stained Glass
+Gray Stained Glass
+Pink Stained Glass
+Lime Stained Glass
+Yellow Stained Glass
+Light Blue Stained Glass
+Magenta Stained Glass
+Orange Stained Glass
+White Stained Glass
+Stained Glass Pane
+Black Stained Glass Pane
+Red Stained Glass Pane
+Green Stained Glass Pane
+Brown Stained Glass Pane
+Blue Stained Glass Pane
+Purple Stained Glass Pane
+Cyan Stained Glass Pane
+Light Gray Stained Glass Pane
+Gray Stained Glass Pane
+Pink Stained Glass Pane
+Lime Stained Glass Pane
+Yellow Stained Glass Pane
+Light Blue Stained Glass Pane
+Magenta Stained Glass Pane
+Orange Stained Glass Pane
+White Stained Glass Pane
+Glass Pane
+Wool
+Flower
+Dandelion
+Flower
+Poppy
+Blue Orchid
+Allium
+Azure Bluet
+Red Tulip
+Orange Tulip
+White Tulip
+Pink Tulip
+Oxeye Daisy
+Plant
+Sunflower
+Lilac
+Double Tallgrass
+Large Fern
+Rose Bush
+Peony
+Mushroom
+Block of Gold
+Block of Iron
+Stone Slab
+Stone Slab
+Sandstone Slab
+Wooden Slab
+Cobblestone Slab
+Bricks Slab
+Stone Bricks Slab
+Nether Brick Slab
+Quartz Slab
+Red Sandstone Slab
+Wood Slab
+Oak Wood Slab
+Spruce Wood Slab
+Birch Wood Slab
+Jungle Wood Slab
+Acacia Wood Slab
+Dark Oak Wood Slab
+Bricks
+TNT
+Bookshelf
+Moss Stone
+Obsidian
+Torch
+Fire
+Monster Spawner
+Oak Wood Stairs
+Spruce Wood Stairs
+Birch Wood Stairs
+Jungle Wood Stairs
+Acacia Wood Stairs
+Dark Oak Wood Stairs
+Chest
+Trapped Chest
+Redstone Dust
+Diamond Ore
+Block of Coal
+Block of Diamond
+Crafting Table
+Crops
+Farmland
+Furnace
+Sign
+Wooden Door
+Ladder
+Rail
+Powered Rail
+Activator Rail
+Detector Rail
+Cobblestone Stairs
+Sandstone Stairs
+Red Sandstone Stairs
+Lever
+Stone Pressure Plate
+Wooden Pressure Plate
+Weighted Pressure Plate (Light)
+Weighted Pressure Plate (Heavy)
+Iron Door
+Redstone Ore
+Redstone Torch
+Button
+Snow
+Carpet
+Black Carpet
+Red Carpet
+Green Carpet
+Brown Carpet
+Blue Carpet
+Purple Carpet
+Cyan Carpet
+Light Gray Carpet
+Gray Carpet
+Pink Carpet
+Lime Carpet
+Yellow Carpet
+Light Blue Carpet
+Magenta Carpet
+Orange Carpet
+White Carpet
+Ice
+Frosted Ice
+Packed Ice
+Cactus
+Clay
+Stained Terracotta
+Black Terracotta
+Red Terracotta
+Green Terracotta
+Brown Terracotta
+Blue Terracotta
+Purple Terracotta
+Cyan Terracotta
+Light Gray Terracotta
+Gray Terracotta
+Pink Terracotta
+Lime Terracotta
+Yellow Terracotta
+Light Blue Terracotta
+Magenta Terracotta
+Orange Terracotta
+White Terracotta
+Terracotta
+Sugar cane
+Jukebox
+Oak Fence
+Spruce Fence
+Birch Fence
+Jungle Fence
+Dark Oak Fence
+Acacia Fence
+Oak Fence Gate
+Spruce Fence Gate
+Birch Fence Gate
+Jungle Fence Gate
+Dark Oak Fence Gate
+Acacia Fence Gate
+Pumpkin Stem
+Pumpkin
+Jack o'Lantern
+Netherrack
+Soul Sand
+Glowstone
+Portal
+Black Wool
+Red Wool
+Green Wool
+Brown Wool
+Blue Wool
+Purple Wool
+Cyan Wool
+Light Gray Wool
+Gray Wool
+Pink Wool
+Lime Wool
+Yellow Wool
+Light Blue Wool
+Magenta Wool
+Orange Wool
+White Wool
+Lapis Lazuli Ore
+Lapis Lazuli Block
+Dispenser
+Dropper
+Note Block
+Cake
+This bed is occupied
+You can only sleep at night
+You may not rest now, the bed is too far away
+You may not rest now, there are monsters nearby
+Your home bed was missing or obstructed
+Locked chest
+Wooden Trapdoor
+Iron Trapdoor
+Cobweb
+Stone Bricks
+Stone Bricks
+Mossy Stone Bricks
+Cracked Stone Bricks
+Chiseled Stone Bricks
+Stone Monster Egg
+Stone Monster Egg
+Cobblestone Monster Egg
+Stone Brick Monster Egg
+Mossy Stone Brick Monster Egg
+Cracked Stone Brick Monster Egg
+Chiseled Stone Brick Monster Egg
+Piston
+Sticky Piston
+Iron Bars
+Melon
+Brick Stairs
+Stone Brick Stairs
+Vines
+Nether Brick
+Nether Brick Fence
+Nether Brick Stairs
+Nether Wart
+Cauldron
+Enchantment Table
+Anvil
+Anvil
+Slightly Damaged Anvil
+Very Damaged Anvil
+End Stone
+End Portal
+Mycelium
+Lily Pad
+Dragon Egg
+Redstone Lamp
+Cocoa
+Ender Chest
+Emerald Ore
+Block of Emerald
+Block of Redstone
+Tripwire
+Tripwire Hook
+Command Block
+Repeating Command Block
+Chain Command Block
+Beacon
+Primary Power
+Secondary Power
+Cobblestone Wall
+Mossy Cobblestone Wall
+Carrots
+Potatoes
+Daylight Sensor
+Nether Quartz Ore
+Hopper
+Block of Quartz
+Block of Quartz
+Chiseled Quartz Block
+Pillar Quartz Block
+Quartz Stairs
+Slime Block
+Prismarine
+Prismarine Bricks
+Dark Prismarine
+Sea Lantern
+End Rod
+Chorus Plant
+Chorus Flower
+Purpur Block
+Purpur Pillar
+Purpur Stairs
+Purpur Slab
+End Stone Bricks
+Beetroots
+Grass Path
+Magma Block
+Nether Wart Block
+Red Nether Brick
+Bone Block
+Observer
+White Shulker Box
+Orange Shulker Box
+Magenta Shulker Box
+Light Blue Shulker Box
+Yellow Shulker Box
+Lime Shulker Box
+Pink Shulker Box
+Gray Shulker Box
+Light Gray Shulker Box
+Cyan Shulker Box
+Purple Shulker Box
+Blue Shulker Box
+Brown Shulker Box
+Green Shulker Box
+Red Shulker Box
+Black Shulker Box
+White Glazed Terracotta
+Orange Glazed Terracotta
+Magenta Glazed Terracotta
+Light Blue Glazed Terracotta
+Yellow Glazed Terracotta
+Lime Glazed Terracotta
+Pink Glazed Terracotta
+Gray Glazed Terracotta
+Light Gray Glazed Terracotta
+Cyan Glazed Terracotta
+Purple Glazed Terracotta
+Blue Glazed Terracotta
+Brown Glazed Terracotta
+Green Glazed Terracotta
+Red Glazed Terracotta
+Black Glazed Terracotta
+Black Concrete
+Red Concrete
+Green Concrete
+Brown Concrete
+Blue Concrete
+Purple Concrete
+Cyan Concrete
+Light Gray Concrete
+Gray Concrete
+Pink Concrete
+Lime Concrete
+Yellow Concrete
+Light Blue Concrete
+Magenta Concrete
+Orange Concrete
+White Concrete
+Black Concrete Powder
+Red Concrete Powder
+Green Concrete Powder
+Brown Concrete Powder
+Blue Concrete Powder
+Purple Concrete Powder
+Cyan Concrete Powder
+Light Gray Concrete Powder
+Gray Concrete Powder
+Pink Concrete Powder
+Lime Concrete Powder
+Yellow Concrete Powder
+Light Blue Concrete Powder
+Magenta Concrete Powder
+Orange Concrete Powder
+White Concrete Powder
+Structure Void
+Structure Block
+Name Tag
+Lead
+Iron Shovel
+Iron Pickaxe
+Iron Axe
+Flint and Steel
+Apple
+Cookie
+Bow
+Arrow
+Spectral Arrow
+Tipped Arrow
+Coal
+Charcoal
+Diamond
+Emerald
+Iron Ingot
+Gold Ingot
+Iron Sword
+Wooden Sword
+Wooden Shovel
+Wooden Pickaxe
+Wooden Axe
+Stone Sword
+Stone Shovel
+Stone Pickaxe
+Stone Axe
+Diamond Sword
+Diamond Shovel
+Diamond Pickaxe
+Diamond Axe
+Stick
+Bowl
+Mushroom Stew
+Golden Sword
+Golden Shovel
+Golden Pickaxe
+Golden Axe
+String
+Feather
+Gunpowder
+Wooden Hoe
+Stone Hoe
+Iron Hoe
+Diamond Hoe
+Golden Hoe
+Seeds
+Pumpkin Seeds
+Melon Seeds
+Melon
+Wheat
+Bread
+Leather Cap
+Leather Tunic
+Leather Pants
+Leather Boots
+Chain Helmet
+Chain Chestplate
+Chain Leggings
+Chain Boots
+Iron Helmet
+Iron Chestplate
+Iron Leggings
+Iron Boots
+Diamond Helmet
+Diamond Chestplate
+Diamond Leggings
+Diamond Boots
+Golden Helmet
+Golden Chestplate
+Golden Leggings
+Golden Boots
+Flint
+Raw Porkchop
+Cooked Porkchop
+Raw Chicken
+Cooked Chicken
+Raw Mutton
+Cooked Mutton
+Raw Rabbit
+Cooked Rabbit
+Rabbit Stew
+Rabbit's Foot
+Rabbit Hide
+Raw Beef
+Steak
+Painting
+Item Frame
+Golden Apple
+Sign
+Oak Door
+Spruce Door
+Birch Door
+Jungle Door
+Acacia Door
+Dark Oak Door
+Bucket
+Water Bucket
+Lava Bucket
+Minecart
+Saddle
+Iron Door
+Redstone
+Snowball
+Oak Boat
+Spruce Boat
+Birch Boat
+Jungle Boat
+Acacia Boat
+Dark Oak Boat
+Leather
+Milk
+Brick
+Clay
+Sugar Canes
+Paper
+Book
+Slimeball
+Minecart with Chest
+Minecart with Furnace
+Minecart with TNT
+Minecart with Hopper
+Minecart with Command Block
+Egg
+Compass
+Fishing Rod
+Clock
+Glowstone Dust
+Raw Fish
+Raw Salmon
+Pufferfish
+Clownfish
+Cooked Fish
+Cooked Salmon
+Music Disc
+C418 - 13
+C418 - cat
+C418 - blocks
+C418 - chirp
+C418 - far
+C418 - mall
+C418 - mellohi
+C418 - stal
+C418 - strad
+C418 - ward
+C418 - 11
+C418 - wait
+Bone
+Ink Sac
+Rose Red
+Cactus Green
+Cocoa Beans
+Lapis Lazuli
+Purple Dye
+Cyan Dye
+Light Gray Dye
+Gray Dye
+Pink Dye
+Lime Dye
+Dandelion Yellow
+Light Blue Dye
+Magenta Dye
+Orange Dye
+Bone Meal
+Sugar
+Cake
+Black Bed
+Red Bed
+Green Bed
+Brown Bed
+Blue Bed
+Purple Bed
+Cyan Bed
+Light Gray Bed
+Gray Bed
+Pink Bed
+Lime Bed
+Yellow Bed
+Light Blue Bed
+Magenta Bed
+Orange Bed
+White Bed
+Redstone Repeater
+Redstone Comparator
+Map
+Leaves
+Shears
+Rotten Flesh
+Ender Pearl
+Blaze Rod
+Ghast Tear
+Nether Wart
+Potion
+Splash Potion
+Lingering Potion
+End Crystal
+Gold Nugget
+Glass Bottle
+Spider Eye
+Fermented Spider Eye
+Blaze Powder
+Magma Cream
+Cauldron
+Brewing Stand
+Eye of Ender
+Glistering Melon
+Spawn
+Bottle o' Enchanting
+Fire Charge
+Book and Quill
+Written Book
+Flower Pot
+Empty Map
+Carrot
+Golden Carrot
+Potato
+Baked Potato
+Poisonous Potato
+Skeleton Skull
+Wither Skeleton Skull
+Zombie Head
+Head
+%s's Head
+Creeper Head
+Dragon Head
+Carrot on a Stick
+Nether Star
+Pumpkin Pie
+Enchanted Book
+Firework Rocket
+Flight Duration:
+Firework Star
+Black
+Red
+Green
+Brown
+Blue
+Purple
+Cyan
+Light Gray
+Gray
+Pink
+Lime
+Yellow
+Light Blue
+Magenta
+Orange
+White
+Custom
+Fade to
+Twinkle
+Trail
+Small Ball
+Large Ball
+Star-shaped
+Creeper-shaped
+Burst
+Unknown Shape
+Nether Brick
+Nether Quartz
+Armor Stand
+Iron Horse Armor
+Gold Horse Armor
+Diamond Horse Armor
+Prismarine Shard
+Prismarine Crystals
+Chorus Fruit
+Popped Chorus Fruit
+Beetroot
+Beetroot Seeds
+Beetroot Soup
+Dragon's Breath
+Elytra
+Black Elytra
+Red Elytra
+Green Elytra
+Brown Elytra
+Blue Elytra
+Purple Elytra
+Cyan Elytra
+Light Gray Elytra
+Gray Elytra
+Pink Elytra
+Lime Elytra
+Yellow Elytra
+Light Blue Elytra
+Magenta Elytra
+Orange Elytra
+White Elytra
+Totem of Undying
+Shulker Shell
+Iron Nugget
+Knowledge Book
+Inventory
+Item Hopper
+Crafting
+Dispenser
+Dropper
+Furnace
+Enchant
+1 Lapis Lazuli
+%s Lapis Lazuli
+1 Enchantment Level
+%s Enchantment Levels
+Level requirement: %s
+%s . . . ?
+Repair & Name
+Enchantment Cost: %1$s
+Too Expensive!
+Item Selection
+Brewing Stand
+Chest
+Large Chest
+Ender Chest
+Beacon
+Shulker Box
+and %s more...
+Unable to open. Loot not generated yet.
+%s is locked!
+Structure saved as '%s'
+Unable to save structure '%s'
+Structure loaded from '%s'
+Structure '%s' position prepared
+Structure '%s' is not available
+Size successfully detected for '%s'
+Unable to detect structure size, add corners with matching structure names
+Save
+Load
+Data
+Corner
+Save: %s
+Load: %s
+Data: %s
+Corner: %s
+Save mode - write to file
+Load mode - load from file
+Data mode - game logic marker
+Corner mode - placement and size marker
+Structure Name
+Custom Data Tag Name
+Relative Position
+Structure Size
+Structure Integrity and Seed
+Include entities:
+Detect structure size and position:
+DETECT
+SAVE
+LOAD
+Show invisible blocks:
+Show bounding box:
+Dyed
+Unbreakable
+Can break:
+Can be placed on:
+Color: %s
+NBT: %s tag(s)
+Durability: %s / %s
+Woodland Explorer Map
+Ocean Explorer Map
+Unknown Map
+(Level %s/%s)
+Scaling at 1:%s
+Item
+Experience Orb
+Small Fireball
+Fireball
+Dragon Fireball
+Potion
+Arrow
+Snowball
+Painting
+Armor Stand
+Mob
+Monster
+Creeper
+Skeleton
+Wither Skeleton
+Stray
+Spider
+Giant
+Zombie
+Husk
+Slime
+Ghast
+Zombie Pigman
+Enderman
+Endermite
+Silverfish
+Cave Spider
+Blaze
+Magma Cube
+Mooshroom
+Villager
+Zombie Villager
+Iron Golem
+Snow Golem
+Ender Dragon
+Wither
+Witch
+Guardian
+Elder Guardian
+Shulker
+Polar Bear
+Evoker
+Vex
+Vindicator
+Parrot
+Illusioner
+Farmer
+Fisherman
+Shepherd
+Fletcher
+Librarian
+Cleric
+Armorer
+Weapon Smith
+Tool Smith
+Butcher
+Leatherworker
+Nitwit
+Cartographer
+Pig
+Sheep
+Cow
+Chicken
+Squid
+Wolf
+Ocelot
+Cat
+Bat
+Horse
+Donkey
+Mule
+Skeleton Horse
+Zombie Horse
+Rabbit
+The Killer Bunny
+Llama
+Block of TNT
+Falling Block
+Minecart
+Minecart with Hopper
+Minecart with Chest
+Boat
+unknown
+%1$s fell off a ladder
+%1$s fell off some vines
+%1$s fell out of the water
+%1$s fell from a high place
+%1$s was doomed to fall
+%1$s was doomed to fall by %2$s
+%1$s was doomed to fall by %2$s using %3$s
+%1$s fell too far and was finished by %2$s
+%1$s fell too far and was finished by %2$s using %3$s
+%1$s was struck by lightning
+%1$s went up in flames
+%1$s walked into fire whilst fighting %2$s
+%1$s burned to death
+%1$s was burnt to a crisp whilst fighting %2$s
+%1$s tried to swim in lava
+%1$s tried to swim in lava to escape %2$s
+%1$s discovered floor was lava
+%1$s walked into danger zone due to %2$s
+%1$s suffocated in a wall
+%1$s was squished too much
+%1$s drowned
+%1$s drowned whilst trying to escape %2$s
+%1$s starved to death
+%1$s was pricked to death
+%1$s walked into a cactus whilst trying to escape %2$s
+%1$s died
+%1$s blew up
+%1$s was blown up by %2$s
+%1$s was killed by magic
+%1$s withered away
+%1$s was squashed by a falling anvil
+%1$s was squashed by a falling block
+%1$s was slain by %2$s
+%1$s was slain by %2$s
+%1$s was slain by %2$s using %3$s
+%1$s was shot by %2$s
+%1$s was shot by %2$s using %3$s
+%1$s was fireballed by %2$s
+%1$s was fireballed by %2$s using %3$s
+%1$s was pummeled by %2$s
+%1$s was pummeled by %2$s using %3$s
+%1$s was killed by %2$s using magic
+%1$s was killed by %2$s using %3$s
+%1$s was killed trying to hurt %2$s
+%1$s hit the ground too hard
+%1$s fell out of the world
+%1$s was roasted in dragon breath
+%1$s experienced kinetic energy
+%1$s went off with a bang
+Respawn
+Spectate world
+Delete world
+Title screen
+Score
+Game over!
+You died!
+Leave server
+Are you sure you want to quit?
+No Effects
+Speed
+Slowness
+Haste
+Mining Fatigue
+Strength
+Instant Health
+Instant Damage
+Jump Boost
+Nausea
+Regeneration
+Resistance
+Fire Resistance
+Water Breathing
+Invisibility
+Blindness
+Night Vision
+Hunger
+Weakness
+Poison
+Wither
+Health Boost
+Absorption
+Saturation
+Glowing
+Luck
+Bad Luck
+Levitation
+Uncraftable Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Arrow of Night Vision
+Arrow of Invisibility
+Arrow of Leaping
+Arrow of Fire Resistance
+Arrow of Swiftness
+Arrow of Slowness
+Arrow of Splashing
+Arrow of Water Breathing
+Arrow of Healing
+Arrow of Harming
+Arrow of Poison
+Arrow of Regeneration
+Arrow of Strength
+Arrow of Weakness
+Arrow of Levitation
+Arrow of Luck
+When Applied:
+Uncraftable Potion
+Water Bottle
+Mundane Potion
+Thick Potion
+Awkward Potion
+Potion of Night Vision
+Potion of Invisibility
+Potion of Leaping
+Potion of Fire Resistance
+Potion of Swiftness
+Potion of Slowness
+Potion of Water Breathing
+Potion of Healing
+Potion of Harming
+Potion of Poison
+Potion of Regeneration
+Potion of Strength
+Potion of Weakness
+Potion of Levitation
+Potion of Luck
+Splash Uncraftable Potion
+Splash Water Bottle
+Mundane Splash Potion
+Thick Splash Potion
+Awkward Splash Potion
+Splash Potion of Night Vision
+Splash Potion of Invisibility
+Splash Potion of Leaping
+Splash Potion of Fire Resistance
+Splash Potion of Swiftness
+Splash Potion of Slowness
+Splash Potion of Water Breathing
+Splash Potion of Healing
+Splash Potion of Harming
+Splash Potion of Poison
+Splash Potion of Regeneration
+Splash Potion of Strength
+Splash Potion of Weakness
+Splash Potion of Levitation
+Splash Potion of Luck
+Lingering Uncraftable Potion
+Lingering Water Bottle
+Mundane Lingering Potion
+Thick Lingering Potion
+Awkward Lingering Potion
+Lingering Potion of Night Vision
+Lingering Potion of Invisibility
+Lingering Potion of Leaping
+Lingering Potion of Fire Resistance
+Lingering Potion of Swiftness
+Lingering Potion of Slowness
+Lingering Potion of Water Breathing
+Lingering Potion of Healing
+Lingering Potion of Harming
+Lingering Potion of Poison
+Lingering Potion of Regeneration
+Lingering Potion of Strength
+Lingering Potion of Weakness
+Lingering Potion of Levitation
+Lingering Potion of Luck
+II
+III
+Sharpness
+Smite
+Bane of Arthropods
+Knockback
+Fire Aspect
+Sweeping Edge
+Protection
+Fire Protection
+Feather Falling
+Blast Protection
+Projectile Protection
+Respiration
+Aqua Affinity
+Depth Strider
+Frost Walker
+Efficiency
+Silk Touch
+Unbreaking
+Looting
+Fortune
+Luck of the Sea
+Lure
+Power
+Flame
+Punch
+Infinity
+Thorns
+Mending
+Curse of Binding
+Curse of Vanishing
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+Advancements
+Statistics
+There doesn't seem to be anything here...
+Advancement Made!
+Challenge Complete!
+Goal Reached!
+Statistic
+General
+Blocks
+Items
+Mobs
+Times Used
+Times Mined
+Times Depleted
+Times Crafted
+You killed %s %s
+%s killed you %s time(s)
+You have never killed %s
+You have never been killed by %s
+Times Played
+Worlds Created
+Saves Loaded
+Multiplayer Joins
+Games Quit
+Time Played
+Since Last Death
+Sneak Time
+Distance Walked
+Distance Crouched
+Distance Sprinted
+Distance Fallen
+Distance Swum
+Distance Flown
+Distance Climbed
+Distance Dove
+Distance by Minecart
+Distance by Boat
+Distance by Pig
+Distance by Horse
+Distance by Elytra
+Jumps
+Items Dropped
+Dropped
+Picked Up
+Damage Dealt
+Damage Taken
+Number of Deaths
+Mob Kills
+Animals Bred
+Player Kills
+Fish Caught
+Treasure Fished
+Junk Fished
+Talked to Villagers
+Traded with Villagers
+Cake Slices Eaten
+Cauldrons Filled
+Water Taken from Cauldron
+Armor Pieces Cleaned
+Banners Cleaned
+Interactions with Brewing Stand
+Interactions with Beacon
+Droppers Searched
+Hoppers Searched
+Dispensers Searched
+Note Blocks Played
+Note Blocks Tuned
+Plants Potted
+Trapped Chests Triggered
+Ender Chests Opened
+Items Enchanted
+Records Played
+Interactions with Furnace
+Interactions with Crafting Table
+Chests Opened
+Shulker Boxes Opened
+Times Slept in a Bed
+%1$s Mined
+%1$s Crafted
+%1$s Used
+%1$s Depleted
+New Recipes Unlocked!
+Check your recipe book
+An unknown error occurred while attempting to perform this command
+You do not have permission to use this command
+Invalid command syntax
+Player '%s' cannot be found
+Entity '%s' cannot be found
+Selector '%s' found nothing
+The entity UUID '%s' is in an invalid format
+Entity type '%s' is invalid
+Unknown command. Try /help for a list of commands
+'%s' is not a valid parameter
+'%s' is not a valid number
+'%s' is not true or false
+The number you have entered (%s) is too small, it must be at least %s
+The number you have entered (%s) is too big, it must be at most %s
+'%s' is not a state for block %s
+Usage: %s
+Invalid selector argument: '%s'
+You must specify which player you wish to perform this action on.
+/setidletimeout <minutes>
+Successfully set the idle timeout to %s minutes.
+Cannot give player negative experience points
+Given %s experience to %s
+Given %s levels to %s
+Taken %s levels from %s
+/xp <amount> [player] OR /xp <amount>L [player]
+/playsound <sound> <source> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+Played sound '%s' to %s
+Player %s is too far away to hear the sound
+Source %s is unknown
+/give <player> <item> [amount] [data] [dataTag]
+There is no such item with name %s
+There is no such block with name %s
+Given %s * %s to %s
+Data tag parsing failed: %s
+/replaceitem <entity|block> ...
+/replaceitem entity <selector> <slot> <item> [amount] [data] [dataTag]
+/replaceitem block <x> <y> <z> <slot> <item> [amount] [data] [dataTag]
+Data tag parsing failed: %s
+Block at %s, %s, %s is not a container
+Could not replace slot %s with %s * %s
+Replaced slot %s with %s * %s
+/stats <entity|block> ...
+/stats entity <selector> <mode> ...
+/stats entity <selector> set <stat> <selector> <objective>
+/stats entity <selector> clear <stat>
+/stats block <x> <y> <z> <mode> ...
+/stats block <x> <y> <z> set <stat> <selector> <objective>
+/stats block <x> <y> <z> clear <stat>
+Block at %s, %s, %s can not track stats
+Invalid parameters
+Cleared %s stats
+Storing %s stats in %s on %s
+/summon <entityname> [x] [y] [z] [dataTag]
+Object successfully summoned
+Unable to summon object
+Data tag parsing failed: %s
+Cannot summon the object out of the world
+/testforblock <x> <y> <z> <block> [dataValue|-1|state|*] [dataTag]
+The block at %s, %s, %s is %s (expected: %s)
+The block at %s, %s, %s had the data value of %s (expected: %s)
+The block at %s, %s, %s did not have the required NBT keys
+The block at %s, %s, %s is not a block entity and cannot support tag matching
+Successfully found the block at %s, %s, %s
+Cannot test for block outside of the world
+/setblock <x> <y> <z> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+Block placed
+Unable to place block
+Data tag parsing failed: %s
+Cannot place block outside of the world
+There is no such block with ID/name %s
+The block couldn't be placed
+/fill <x1> <y1> <z1> <x2> <y2> <z2> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+Cannot place blocks outside of the world
+Data tag parsing failed: %s
+%s blocks filled
+No blocks filled
+Too many blocks in the specified area (%s > %s)
+/clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+Cannot access blocks outside of the world
+Source and destination can not overlap
+%s blocks cloned
+No blocks cloned
+Too many blocks in the specified area (%s > %s)
+/testforblocks <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [mode]
+Cannot access blocks outside of the world
+Source and destination are not identical
+%s blocks compared
+Too many blocks in the specified area (%s > %s)
+/blockdata <x> <y> <z> <dataTag>
+Block data updated to: %s
+Data tag parsing failed: %s
+Cannot change block outside of the world
+The target block is not a data holder block
+The data tag did not change: %s
+/entitydata <entity> <dataTag>
+Entity data updated to: %s
+Data tag parsing failed: %s
+%s is a player and cannot be changed
+The data tag did not change: %s
+/effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
+There is no such mob effect with ID %s
+Given %1$s (ID %2$s) * %3$s to %4$s for %5$s seconds
+Took %1$s from %2$s
+Took all effects from %s
+Couldn't take %1$s from %2$s as they do not have the effect
+Couldn't take any effects from %s as they do not have any
+/enchant <player> <enchantment ID> [level]
+There is no such enchantment with ID %s
+The target doesn't hold an item
+The selected enchantment can't be added to the target item
+%1$s can't be combined with %2$s
+Enchanting succeeded
+/particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode] [player] [params]
+Playing effect %s for %s times
+Unknown effect name (%s)
+Invalid param given (%s)
+/clear [player] [item] [data] [maxCount] [dataTag]
+Cleared the inventory of %s, removing %s items
+%s has %s items that match the criteria
+Could not clear the inventory of %s, no items to remove
+Data tag parsing failed: %s
+/toggledownfall
+Toggled downfall
+/time <set|add|query> <value>
+Added %s to the time
+Set the time to %s
+Time is %s
+/list
+There are %s/%s players online:
+There are %s total banned IP addresses:
+There are %s total banned players:
+/banlist [ips|players]
+/kill [player|entity]
+Killed %s
+Kicked %s from the game
+Kicked %s from the game: '%s'
+/kick <player> [reason ...]
+Opped %s
+Could not op %s
+/op <player>
+De-opped %s
+Could not de-op %s
+/deop <player>
+/say <message ...>
+Banned player %s
+Could not ban player %s
+/ban <name> [reason ...]
+Unbanned player %s
+Could not unban player %s
+/pardon <name>
+You have entered an invalid IP address or a player that is not online
+Banned IP address %s
+Banned IP address %s belonging to %s
+/ban-ip <address|name> [reason ...]
+You have entered an invalid IP address
+Unbanned IP address %s
+/pardon-ip <address>
+/save-all [flush]
+Saving is already turned on
+/save-on
+Saving is already turned off
+/save-off
+Turned on world auto-saving
+Turned off world auto-saving
+Saving...
+Saved the world
+Saving failed: %s
+Flushing all saves...
+Flushing completed
+/stop
+Stopping the server
+/tp [target player] <destination player> OR /tp [target player] <x> <y> <z> [<yaw> <pitch>]
+Teleported %s to %s
+Teleported %s to %s, %s, %s
+Unable to teleport because players are not in the same dimension
+/teleport <entity> <x> <y> <z> [<y-rot> <x-rot>]
+Teleported %s to %s, %s, %s
+There are %s (out of %s seen) whitelisted players:
+Turned on the whitelist
+Turned off the whitelist
+Reloaded the whitelist
+Added %s to the whitelist
+Could not add %s to the whitelist
+/whitelist add <player>
+Removed %s from the whitelist
+Could not remove %s from the whitelist
+/whitelist remove <player>
+/whitelist <on|off|list|add|remove|reload>
+/advancement <grant|revoke|test> <player>
+No advancement was found by the name '%1$s'
+The advancement '%1$s' does not contain the criterion '%2$s'
+/reload
+Successfully reloaded loot tables, advancements and functions
+/function <name> [if <selector>|unless <selector>]
+Unknown function '%s'
+Executed %2$s command(s) from function '%1$s'
+Skipped execution of function '%1$s'
+/advancement grant <player> <only|until|from|through|everything>
+/advancement grant <player> only <advancement> [criterion]
+Couldn't grant the advancement '%1$s' to %2$s because they already have it
+Granted the entire advancement '%1$s' to %2$s
+Couldn't grant the criterion '%3$s' of advancement '%1$s' to %2$s because they already have it
+Granted the criterion '%3$s' of advancement '%1$s' to %2$s
+/advancement grant <player> until <advancement>
+Couldn't grant the advancement '%1$s' or its ancestors to %2$s because they already have them all
+Granted '%1$s' and all ancestors (%3$s total granted) to %2$s
+/advancement grant <player> from <advancement>
+Couldn't grant the advancement '%1$s' or its descendants to %2$s because they already have them all
+Granted '%1$s' and all descendants (%3$s total granted) to %2$s
+/advancement grant <player> through <advancement>
+Couldn't grant the advancement '%1$s', its ancestors or its descendants to %2$s because they already have them all
+Granted '%1$s', all ancestors and all descendants (%3$s total granted) to %2$s
+/advancement grant <player> everything
+Couldn't grant any advancements to %1$s because they already have them all
+Granted every advancement (%2$s total granted) to %1$s
+/advancement revoke <player> <only|until|from|through|everything>
+/advancement revoke <player> only <advancement> [criterion]
+Couldn't revoke the advancement '%1$s' from %2$s because they haven't started it
+Revoked the entire advancement '%1$s' from %2$s
+Couldn't revoke the criterion '%3$s' of advancement '%1$s' from %2$s because they haven't started it
+Revoked the criterion '%3$s' of advancement '%1$s' from %2$s
+/advancement revoke <player> until <advancement>
+Couldn't revoke the advancement '%1$s' or its ancestors from %2$s because they haven't started any
+Revoked '%1$s' and all ancestors (%3$s total revoked) from %2$s
+/advancement revoke <player> from <advancement>
+Couldn't revoke the advancement '%1$s' or its descendants from %2$s because they haven't started any
+Revoked '%1$s' and all descendants (%3$s total revoked) from %2$s
+/advancement revoke <player> through <advancement>
+Couldn't revoke the advancement '%1$s', its ancestors or its descendants from %2$s because they haven't started any
+Revoked '%1$s', all ancestors and all descendants (%3$s total revoked) from %2$s
+/advancement revoke <player> everything
+Couldn't revoke any advancements to %1$s because they haven't started any
+Revoked every advancement (%2$s total revoked) from %1$s
+/advancement test <player> <advancement> [criterion]
+Player %1$s has completed criterion '%3$s' of advancement '%2$s'
+Player %1$s has not completed criterion '%3$s' of advancement '%2$s'
+Player %1$s has completed advancement '%2$s'
+Player %1$s has not completed advancement '%2$s'
+/scoreboard <objectives|players|teams> ...
+Only one user wildcard allowed
+All matches failed
+No team was found by the name '%s'
+No objective was found by the name '%s'
+The objective '%s' is read-only and cannot be set
+/scoreboard objectives <list|add|remove|setdisplay> ...
+/scoreboard objectives setdisplay <slot> [objective]
+No such display slot '%s'
+Cleared objective display slot '%s'
+Set the display objective in slot '%s' to '%s'
+/scoreboard objectives add <name> <criteriaType> [display name ...]
+Invalid objective criteria type '%s'
+An objective with the name '%s' already exists
+The name '%s' is too long for an objective, it can be at most %s characters long
+The display name '%s' is too long for an objective, it can be at most %s characters long
+Added new objective '%s' successfully
+/scoreboard objectives remove <name>
+Removed objective '%s' successfully
+Showing %s objective(s) on scoreboard:
+- %s: displays as '%s' and is type '%s'
+There are no objectives on the scoreboard
+/scoreboard players <set|add|remove|reset|list|enable|test|operation|tag> ...
+The name '%s' is too long for a player, it can be at most %s characters long
+Set score of %s for player %s to %s
+The dataTag does not match for %s
+Could not parse dataTag, reason: %s
+/scoreboard players set <player> <objective> <score> [dataTag]
+/scoreboard players add <player> <objective> <count> [dataTag]
+/scoreboard players remove <player> <objective> <count> [dataTag]
+/scoreboard players reset <player> [objective]
+Reset scores of player %s
+Reset score %s of player %s
+/scoreboard players list [name]
+Showing %s tracked players on the scoreboard:
+There are no tracked players on the scoreboard
+Showing %s tracked objective(s) for %s:
+- %2$s: %1$s (%3$s)
+Player %s has no scores recorded
+/scoreboard players enable <player> <trigger>
+Enabled trigger %s for %s
+Objective %s is not a trigger
+/scoreboard players test <player> <objective> <min> [max]
+No %s score for %s found
+Score %s is NOT in range %s to %s
+Score %s is in range %s to %s
+/scoreboard players operation <targetName> <targetObjective> <operation> <selector> <objective>
+No %s score for %s found
+Invalid operation %s
+Operation applied successfully
+/scoreboard players tag <player> <add|remove|list> <tagName> [dataTag]
+The dataTag does not match for %s
+Can't add more than %s tags to an entity
+Entity didn't have the %s tag
+Tag %s added
+Tag %s removed
+Tags on entity %s are:
+Players tag command failed, reason: %s
+/scoreboard teams <list|add|remove|empty|join|leave|option> ...
+/scoreboard teams add <name> [display name ...]
+A team with the name '%s' already exists
+The name '%s' is too long for a team, it can be at most %s characters long
+The display name '%s' is too long for a team, it can be at most %s characters long
+Added new team '%s' successfully
+/scoreboard teams list [name]
+Showing %s teams on the scoreboard:
+- %1$s: '%2$s' has %3$s players
+There are no teams registered on the scoreboard
+Showing %s player(s) in team %s:
+- %2$s: %1$s (%3$s)
+Team %s has no players
+/scoreboard teams empty <team>
+Team %s is already empty, cannot remove nonexistant players
+Removed all %s player(s) from team %s
+/scoreboard teams remove <name>
+Removed team %s
+/scoreboard teams join <team> [player]
+Added %s player(s) to team %s: %s
+Could not add %s player(s) to team %s: %s
+/scoreboard teams leave [player]
+Removed %s player(s) from their teams: %s
+Could not remove %s player(s) from their teams: %s
+You are not in a team
+/scoreboard teams option <team> <friendlyfire|color|seeFriendlyInvisibles|nametagVisibility|deathMessageVisibility|collisionRule> <value>
+Valid values for option %s are: %s
+Set option %s for team %s to %s
+/execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
+All invocations failed: '%s'
+Failed to execute '%s' as %s
+Set own game mode to %s
+Set %s's game mode to %s
+/gamemode <mode> [player]
+/defaultgamemode <mode>
+The world's default game mode is now %s
+/me <action ...>
+--- Showing help page %s of %s (/help <page>) ---
+Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+/help [page|command name]
+/trigger <objective> <add|set> <value>
+Invalid trigger name %s
+Invalid trigger mode %s
+Trigger %s is not enabled
+Only players can use the /trigger command
+Trigger %s changed with %s %s
+/publish
+Local game hosted on port %s
+Unable to host local game
+Started debug profiling
+Stopped debug profiling after %s seconds (%s ticks)
+Can't stop profiling when we haven't started yet!
+/debug <start|stop>
+/chunkinfo [<x> <y> <z>]
+Chunk location: (%s, %s, %s)
+No chunk found at chunk position %s, %s, %s
+Chunk is not empty.
+Chunk is empty.
+Chunk is not compiled.
+Chunk is compiled.
+Chunk has no renderable layers.
+Chunk has layers: %s
+Chunk has empty layers: %s
+%s layer's buffer contains %s vertices
+First 64 vertices are: %s
+/tellraw <player> <raw json message>
+Invalid json: %s
+/tell <player> <private message ...>
+You can't send a private message to yourself!
+You whisper to %s: %s
+%s whispers to you: %s
+/difficulty <new difficulty>
+Set game difficulty to %s
+/spawnpoint [player] [<x> <y> <z>]
+Set %s's spawn point to (%s, %s, %s)
+/setworldspawn [<x> <y> <z>]
+Set the world spawn point to (%s, %s, %s)
+/gamerule <rule name> [value]
+Game rule %s has been updated to %s
+No game rule called '%s' is available
+Only server owners can change '%s'
+/weather <clear|rain|thunder> [duration in seconds]
+Changing to clear weather
+Changing to rainy weather
+Changing to rain and thunder
+/testfor <player> [dataTag]
+%s did not match the required data structure
+Found %s
+Data tag parsing failed: %s
+/seed
+Seed: %s
+No players found to spread
+/spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+Spreading %s team(s) %s blocks around %s, %s (min %s blocks apart)
+Spreading %s player(s) %s blocks around %s, %s (min %s blocks apart)
+Successfully spread %s team(s) around %s, %s
+Successfully spread %s player(s) around %s, %s
+(Average distance between teams is %s blocks apart after %s iterations)
+(Average distance between players is %s blocks apart after %s iterations)
+Could not spread %s team(s) around %s, %s (too many players for space - try using spread of at most %s)
+Could not spread %s player(s) around %s, %s (too many players for space - try using spread of at most %s)
+/recipe <give|take> [player] <name|*>
+Player %s already has a recipe for %s
+Player %s doesn't have the recipe for %s
+Successfully given all recipes to %s
+Successfully given %s the recipe for %s
+Successfully taken all recipes from %s
+Successfully removed the recipe for %s from %s
+%s is an unknown recipe
+%s is an unsupported recipe
+/worldborder <set|center|damage|warning|get|add> ...
+/worldborder add <sizeInBlocks> [timeInSeconds]
+/worldborder set <sizeInBlocks> [timeInSeconds]
+Set world border to %s blocks wide (from %s blocks)
+World border is currently %s blocks wide
+Shrinking world border to %s blocks wide (down from %s blocks) over %s seconds
+Growing world border to %s blocks wide (up from %s blocks) over %s seconds
+/worldborder center <x> <z>
+Set world border center to %s, %s
+/worldborder damage <buffer|amount> ...
+/worldborder damage buffer <sizeInBlocks>
+Set world border damage buffer to %s blocks (from %s blocks)
+/worldborder damage amount <damagePerBlock>
+Set world border damage amount to %s per block (from %s per block)
+/worldborder warning <time|distance> ...
+/worldborder warning time <seconds>
+Set world border warning to %s seconds away (from %s seconds)
+/worldborder warning distance <distance>
+Set world border warning to %s blocks away (from %s blocks)
+/title <player> title|subtitle|actionbar|clear|reset|times ...
+/title <player> title|subtitle|actionbar <raw json title>
+/title <player> clear|reset
+/title <player> times <fadeIn> <stay> <fadeOut>
+Title command successfully executed
+/stopsound <player> [source] [sound]
+Source %s is unknown
+Stopped sound '%s' with source '%s' for %s
+Stopped source '%s' for %s
+Stopped all sounds for %s
+/locate <feature>
+Located %s at %s (y?) %s
+Unable to locate any %s feature
+Building Blocks
+Decoration Blocks
+Redstone
+Transportation
+Miscellaneous
+Search Items
+Foodstuffs
+Tools
+Combat
+Brewing
+Materials
+Survival Inventory
+Saved Toolbars
+Destroy Item
+Item toolbar saved (restore with %1$s+%2$s)
+Save toolbar with %1$s+%2$s
+Set Console Command for Block
+Command set: %s
+Console Command
+Use "@p" to target nearest player
+Use "@r" to target random player
+Use "@a" to target all players
+Use "@e" to target all entities
+Use "@s" to target the executing entity
+Previous Output
+Chain
+Repeat
+Impulse
+Conditional
+Unconditional
+Needs Redstone
+Always Active
+Command blocks are not enabled on this server
+Must be an opped player in creative mode
+Press %1$s to dismount
+Height limit for building is %s blocks
+When in main hand:
+When in off hand:
+When on feet:
+When on legs:
+When on body:
+When on head:
++%s %s
++%s%% %s
++%s%% %s
+-%s %s
+-%s%% %s
+-%s%% %s
+%s %s
+%s%% %s
+%s%% %s
+Horse Jump Strength
+Zombie Reinforcements
+Max Health
+Mob Follow Range
+Knockback Resistance
+Speed
+Attack Damage
+Attack Speed
+Luck
+Armor
+Armor Toughness
+Saved screenshot as %s
+Couldn't save screenshot: %s
+Black Banner
+Red Banner
+Green Banner
+Brown Banner
+Blue Banner
+Purple Banner
+Cyan Banner
+Light Gray Banner
+Gray Banner
+Pink Banner
+Lime Banner
+Yellow Banner
+Light Blue Banner
+Magenta Banner
+Orange Banner
+White Banner
+Shield
+Black Shield
+Red Shield
+Green Shield
+Brown Shield
+Blue Shield
+Purple Shield
+Cyan Shield
+Light Gray Shield
+Gray Shield
+Pink Shield
+Lime Shield
+Yellow Shield
+Light Blue Shield
+Magenta Shield
+Orange Shield
+White Shield
+Black Base Dexter Canton
+Red Base Dexter Canton
+Green Base Dexter Canton
+Brown Base Dexter Canton
+Blue Base Dexter Canton
+Purple Base Dexter Canton
+Cyan Base Dexter Canton
+Light Gray Base Dexter Canton
+Gray Base Dexter Canton
+Pink Base Dexter Canton
+Lime Base Dexter Canton
+Yellow Base Dexter Canton
+Light Blue Base Dexter Canton
+Magenta Base Dexter Canton
+Orange Base Dexter Canton
+White Base Dexter Canton
+Black Base Sinister Canton
+Red Base Sinister Canton
+Green Base Sinister Canton
+Brown Base Sinister Canton
+Blue Base Sinister Canton
+Purple Base Sinister Canton
+Cyan Base Sinister Canton
+Light Gray Base Sinister Canton
+Gray Base Sinister Canton
+Pink Base Sinister Canton
+Lime Base Sinister Canton
+Yellow Base Sinister Canton
+Light Blue Base Sinister Canton
+Magenta Base Sinister Canton
+Orange Base Sinister Canton
+White Base Sinister Canton
+Black Chief Dexter Canton
+Red Chief Dexter Canton
+Green Chief Dexter Canton
+Brown Chief Dexter Canton
+Blue Chief Dexter Canton
+Purple Chief Dexter Canton
+Cyan Chief Dexter Canton
+Light Gray Chief Dexter Canton
+Gray Chief Dexter Canton
+Pink Chief Dexter Canton
+Lime Chief Dexter Canton
+Yellow Chief Dexter Canton
+Light Blue Chief Dexter Canton
+Magenta Chief Dexter Canton
+Orange Chief Dexter Canton
+White Chief Dexter Canton
+Black Chief Sinister Canton
+Red Chief Sinister Canton
+Green Chief Sinister Canton
+Brown Chief Sinister Canton
+Blue Chief Sinister Canton
+Purple Chief Sinister Canton
+Cyan Chief Sinister Canton
+Light Gray Chief Sinister Canton
+Gray Chief Sinister Canton
+Pink Chief Sinister Canton
+Lime Chief Sinister Canton
+Yellow Chief Sinister Canton
+Light Blue Chief Sinister Canton
+Magenta Chief Sinister Canton
+Orange Chief Sinister Canton
+White Chief Sinister Canton
+Black Base
+Red Base
+Green Base
+Brown Base
+Blue Base
+Purple Base
+Cyan Base
+Light Gray Base
+Gray Base
+Pink Base
+Lime Base
+Yellow Base
+Light Blue Base
+Magenta Base
+Orange Base
+White Base
+Black Chief
+Red Chief
+Green Chief
+Brown Chief
+Blue Chief
+Purple Chief
+Cyan Chief
+Light Gray Chief
+Gray Chief
+Pink Chief
+Lime Chief
+Yellow Chief
+Light Blue Chief
+Magenta Chief
+Orange Chief
+White Chief
+Black Pale Dexter
+Red Pale Dexter
+Green Pale Dexter
+Brown Pale Dexter
+Blue Pale Dexter
+Purple Pale Dexter
+Cyan Pale Dexter
+Light Gray Pale Dexter
+Gray Pale Dexter
+Pink Pale Dexter
+Lime Pale Dexter
+Yellow Pale Dexter
+Light Blue Pale Dexter
+Magenta Pale Dexter
+Orange Pale Dexter
+White Pale Dexter
+Black Pale Sinister
+Red Pale Sinister
+Green Pale Sinister
+Brown Pale Sinister
+Blue Pale Sinister
+Purple Pale Sinister
+Cyan Pale Sinister
+Light Gray Pale Sinister
+Gray Pale Sinister
+Pink Pale Sinister
+Lime Pale Sinister
+Yellow Pale Sinister
+Light Blue Pale Sinister
+Magenta Pale Sinister
+Orange Pale Sinister
+White Pale Sinister
+Black Pale
+Red Pale
+Green Pale
+Brown Pale
+Blue Pale
+Purple Pale
+Cyan Pale
+Light Gray Pale
+Gray Pale
+Pink Pale
+Lime Pale
+Yellow Pale
+Light Blue Pale
+Magenta Pale
+Orange Pale
+White Pale
+Black Fess
+Red Fess
+Green Fess
+Brown Fess
+Blue Fess
+Purple Fess
+Cyan Fess
+Light Gray Fess
+Gray Fess
+Pink Fess
+Lime Fess
+Yellow Fess
+Light Blue Fess
+Magenta Fess
+Orange Fess
+White Fess
+Black Bend
+Red Bend
+Green Bend
+Brown Bend
+Blue Bend
+Purple Bend
+Cyan Bend
+Light Gray Bend
+Gray Bend
+Pink Bend
+Lime Bend
+Yellow Bend
+Light Blue Bend
+Magenta Bend
+Orange Bend
+White Bend
+Black Bend Sinister
+Red Bend Sinister
+Green Bend Sinister
+Brown Bend Sinister
+Blue Bend Sinister
+Purple Bend Sinister
+Cyan Bend Sinister
+Light Gray Bend Sinister
+Gray Bend Sinister
+Pink Bend Sinister
+Lime Bend Sinister
+Yellow Bend Sinister
+Light Blue Bend Sinister
+Magenta Bend Sinister
+Orange Bend Sinister
+White Bend Sinister
+Black Paly
+Red Paly
+Green Paly
+Brown Paly
+Blue Paly
+Purple Paly
+Cyan Paly
+Light Gray Paly
+Gray Paly
+Pink Paly
+Lime Paly
+Yellow Paly
+Light Blue Paly
+Magenta Paly
+Orange Paly
+White Paly
+Black Saltire
+Red Saltire
+Green Saltire
+Brown Saltire
+Blue Saltire
+Purple Saltire
+Cyan Saltire
+Light Gray Saltire
+Gray Saltire
+Pink Saltire
+Lime Saltire
+Yellow Saltire
+Light Blue Saltire
+Magenta Saltire
+Orange Saltire
+White Saltire
+Black Chevron
+Red Chevron
+Green Chevron
+Brown Chevron
+Blue Chevron
+Purple Chevron
+Cyan Chevron
+Light Gray Chevron
+Gray Chevron
+Pink Chevron
+Lime Chevron
+Yellow Chevron
+Light Blue Chevron
+Magenta Chevron
+Orange Chevron
+White Chevron
+Black Inverted Chevron
+Red Inverted Chevron
+Green Inverted Chevron
+Brown Inverted Chevron
+Blue Inverted Chevron
+Purple Inverted Chevron
+Cyan Inverted Chevron
+Light Gray Inverted Chevron
+Gray Inverted Chevron
+Pink Inverted Chevron
+Lime Inverted Chevron
+Yellow Inverted Chevron
+Light Blue Inverted Chevron
+Magenta Inverted Chevron
+Orange Inverted Chevron
+White Inverted Chevron
+Black Base Indented
+Red Base Indented
+Green Base Indented
+Brown Base Indented
+Blue Base Indented
+Purple Base Indented
+Cyan Base Indented
+Light Gray Base Indented
+Gray Base Indented
+Pink Base Indented
+Lime Base Indented
+Yellow Base Indented
+Light Blue Base Indented
+Magenta Base Indented
+Orange Base Indented
+White Base Indented
+Black Chief Indented
+Red Chief Indented
+Green Chief Indented
+Brown Chief Indented
+Blue Chief Indented
+Purple Chief Indented
+Cyan Chief Indented
+Light Gray Chief Indented
+Gray Chief Indented
+Pink Chief Indented
+Lime Chief Indented
+Yellow Chief Indented
+Light Blue Chief Indented
+Magenta Chief Indented
+Orange Chief Indented
+White Chief Indented
+Black Per Bend Sinister
+Red Per Bend Sinister
+Green Per Bend Sinister
+Brown Per Bend Sinister
+Blue Per Bend Sinister
+Purple Per Bend Sinister
+Cyan Per Bend Sinister
+Light Gray Per Bend Sinister
+Gray Per Bend Sinister
+Pink Per Bend Sinister
+Lime Per Bend Sinister
+Yellow Per Bend Sinister
+Light Blue Per Bend Sinister
+Magenta Per Bend Sinister
+Orange Per Bend Sinister
+White Per Bend Sinister
+Black Per Bend
+Red Per Bend
+Green Per Bend
+Brown Per Bend
+Blue Per Bend
+Purple Per Bend
+Cyan Per Bend
+Light Gray Per Bend
+Gray Per Bend
+Pink Per Bend
+Lime Per Bend
+Yellow Per Bend
+Light Blue Per Bend
+Magenta Per Bend
+Orange Per Bend
+White Per Bend
+Black Per Bend Inverted
+Red Per Bend Inverted
+Green Per Bend Inverted
+Brown Per Bend Inverted
+Blue Per Bend Inverted
+Purple Per Bend Inverted
+Cyan Per Bend Inverted
+Light Gray Per Bend Inverted
+Gray Per Bend Inverted
+Pink Per Bend Inverted
+Lime Per Bend Inverted
+Yellow Per Bend Inverted
+Light Blue Per Bend Inverted
+Magenta Per Bend Inverted
+Orange Per Bend Inverted
+White Per Bend Inverted
+Black Per Bend Sinister Inverted
+Red Per Bend Sinister Inverted
+Green Per Bend Sinister Inverted
+Brown Per Bend Sinister Inverted
+Blue Per Bend Sinister Inverted
+Purple Per Bend Sinister Inverted
+Cyan Per Bend Sinister Inverted
+Light Gray Per Bend Sinister Inverted
+Gray Per Bend Sinister Inverted
+Pink Per Bend Sinister Inverted
+Lime Per Bend Sinister Inverted
+Yellow Per Bend Sinister Inverted
+Light Blue Per Bend Sinister Inverted
+Magenta Per Bend Sinister Inverted
+Orange Per Bend Sinister Inverted
+White Per Bend Sinister Inverted
+Black Roundel
+Red Roundel
+Green Roundel
+Brown Roundel
+Blue Roundel
+Purple Roundel
+Cyan Roundel
+Light Gray Roundel
+Gray Roundel
+Pink Roundel
+Lime Roundel
+Yellow Roundel
+Light Blue Roundel
+Magenta Roundel
+Orange Roundel
+White Roundel
+Black Lozenge
+Red Lozenge
+Green Lozenge
+Brown Lozenge
+Blue Lozenge
+Purple Lozenge
+Cyan Lozenge
+Light Gray Lozenge
+Gray Lozenge
+Pink Lozenge
+Lime Lozenge
+Yellow Lozenge
+Light Blue Lozenge
+Magenta Lozenge
+Orange Lozenge
+White Lozenge
+Black Per Pale
+Red Per Pale
+Green Per Pale
+Brown Per Pale
+Blue Per Pale
+Purple Per Pale
+Cyan Per Pale
+Light Gray Per Pale
+Gray Per Pale
+Pink Per Pale
+Lime Per Pale
+Yellow Per Pale
+Light Blue Per Pale
+Magenta Per Pale
+Orange Per Pale
+White Per Pale
+Black Per Fess
+Red Per Fess
+Green Per Fess
+Brown Per Fess
+Blue Per Fess
+Purple Per Fess
+Cyan Per Fess
+Light Gray Per Fess
+Gray Per Fess
+Pink Per Fess
+Lime Per Fess
+Yellow Per Fess
+Light Blue Per Fess
+Magenta Per Fess
+Orange Per Fess
+White Per Fess
+Black Per Pale Inverted
+Red Per Pale Inverted
+Green Per Pale Inverted
+Brown Per Pale Inverted
+Blue Per Pale Inverted
+Purple Per Pale Inverted
+Cyan Per Pale Inverted
+Light Gray Per Pale Inverted
+Gray Per Pale Inverted
+Pink Per Pale Inverted
+Lime Per Pale Inverted
+Yellow Per Pale Inverted
+Light Blue Per Pale Inverted
+Magenta Per Pale Inverted
+Orange Per Pale Inverted
+White Per Pale Inverted
+Black Per Fess Inverted
+Red Per Fess Inverted
+Green Per Fess Inverted
+Brown Per Fess Inverted
+Blue Per Fess Inverted
+Purple Per Fess Inverted
+Cyan Per Fess Inverted
+Light Gray Per Fess Inverted
+Gray Per Fess Inverted
+Pink Per Fess Inverted
+Lime Per Fess Inverted
+Yellow Per Fess Inverted
+Light Blue Per Fess Inverted
+Magenta Per Fess Inverted
+Orange Per Fess Inverted
+White Per Fess Inverted
+Black Creeper Charge
+Red Creeper Charge
+Green Creeper Charge
+Brown Creeper Charge
+Blue Creeper Charge
+Purple Creeper Charge
+Cyan Creeper Charge
+Light Gray Creeper Charge
+Gray Creeper Charge
+Pink Creeper Charge
+Lime Creeper Charge
+Yellow Creeper Charge
+Light Blue Creeper Charge
+Magenta Creeper Charge
+Orange Creeper Charge
+White Creeper Charge
+Black Field Masoned
+Red Field Masoned
+Green Field Masoned
+Brown Field Masoned
+Blue Field Masoned
+Purple Field Masoned
+Cyan Field Masoned
+Light Gray Field Masoned
+Gray Field Masoned
+Pink Field Masoned
+Lime Field Masoned
+Yellow Field Masoned
+Light Blue Field Masoned
+Magenta Field Masoned
+Orange Field Masoned
+White Field Masoned
+Black Gradient
+Red Gradient
+Green Gradient
+Brown Gradient
+Blue Gradient
+Purple Gradient
+Cyan Gradient
+Light Gray Gradient
+Gray Gradient
+Pink Gradient
+Lime Gradient
+Yellow Gradient
+Light Blue Gradient
+Magenta Gradient
+Orange Gradient
+White Gradient
+Black Base Gradient
+Red Base Gradient
+Green Base Gradient
+Brown Base Gradient
+Blue Base Gradient
+Purple Base Gradient
+Cyan Base Gradient
+Light Gray Base Gradient
+Gray Base Gradient
+Pink Base Gradient
+Lime Base Gradient
+Yellow Base Gradient
+Light Blue Base Gradient
+Magenta Base Gradient
+Orange Base Gradient
+White Base Gradient
+Black Skull Charge
+Red Skull Charge
+Green Skull Charge
+Brown Skull Charge
+Blue Skull Charge
+Purple Skull Charge
+Cyan Skull Charge
+Light Gray Skull Charge
+Gray Skull Charge
+Pink Skull Charge
+Lime Skull Charge
+Yellow Skull Charge
+Light Blue Skull Charge
+Magenta Skull Charge
+Orange Skull Charge
+White Skull Charge
+Black Flower Charge
+Red Flower Charge
+Green Flower Charge
+Brown Flower Charge
+Blue Flower Charge
+Purple Flower Charge
+Cyan Flower Charge
+Light Gray Flower Charge
+Gray Flower Charge
+Pink Flower Charge
+Lime Flower Charge
+Yellow Flower Charge
+Light Blue Flower Charge
+Magenta Flower Charge
+Orange Flower Charge
+White Flower Charge
+Black Bordure
+Red Bordure
+Green Bordure
+Brown Bordure
+Blue Bordure
+Purple Bordure
+Cyan Bordure
+Light Gray Bordure
+Gray Bordure
+Pink Bordure
+Lime Bordure
+Yellow Bordure
+Light Blue Bordure
+Magenta Bordure
+Orange Bordure
+White Bordure
+Black Bordure Indented
+Red Bordure Indented
+Green Bordure Indented
+Brown Bordure Indented
+Blue Bordure Indented
+Purple Bordure Indented
+Cyan Bordure Indented
+Light Gray Bordure Indented
+Gray Bordure Indented
+Pink Bordure Indented
+Lime Bordure Indented
+Yellow Bordure Indented
+Light Blue Bordure Indented
+Magenta Bordure Indented
+Orange Bordure Indented
+White Bordure Indented
+Black Thing
+Red Thing
+Green Thing
+Brown Thing
+Blue Thing
+Purple Thing
+Cyan Thing
+Light Gray Thing
+Gray Thing
+Pink Thing
+Lime Thing
+Yellow Thing
+Light Blue Thing
+Magenta Thing
+Orange Thing
+White Thing
+Black Cross
+Red Cross
+Green Cross
+Brown Cross
+Blue Cross
+Purple Cross
+Cyan Cross
+Light Gray Cross
+Gray Cross
+Pink Cross
+Lime Cross
+Yellow Cross
+Light Blue Cross
+Magenta Cross
+Orange Cross
+White Cross
+Eerie noise
+Anvil destroyed
+Anvil landed
+Anvil used
+Brewing Stand bubbles
+Button clicks
+Chest closes
+Chest locked
+Chest opens
+Chorus Flower withers
+Chorus Flower grows
+Comparator clicks
+Dispensed item
+Dispenser failed
+Door creaks
+Fence Gate creaks
+Fire crackles
+Fire extinguished
+Furnace crackles
+Block broken
+Footsteps
+Block breaking
+Block placed
+Trapdoor opens
+Trapdoor closes
+Lava pops
+Lava hisses
+Lever clicks
+Note Block plays
+Piston moves
+Portal whooshes
+Pressure Plate clicks
+Torch fizzes
+Shulker closes
+Shulker opens
+Trapdoor creaks
+Tripwire attaches
+Tripwire clicks
+Tripwire detaches
+Water flows
+Thorns prick
+Something fell
+Arrow hits
+Player hit
+Arrow fired
+Bat screeches
+Bat dies
+Bat hurts
+Bat takes off
+Blaze breathes
+Blaze crackles
+Blaze dies
+Blaze hurts
+Blaze shoots
+Fishing hook splashes
+Bobber thrown
+Cat meows
+Cat dies
+Cat hurts
+Chicken clucks
+Chicken dies
+Chicken plops
+Chicken hurts
+Parrot talks
+Parrot dies
+Parrot eats
+Parrot hurts
+Parrot breathes
+Parrot hisses
+Parrot hisses
+Parrot flaps
+Parrot roars
+Parrot vwoops
+Parrot scuttles
+Parrot murmurs
+Parrot cries
+Parrot groans
+Parrot murmurs
+Parrot squishes
+Parrot groans
+Parrot lurks
+Parrot hisses
+Parrot rattles
+Parrot squishes
+Parrot hisses
+Parrot rattles
+Parrot vexes
+Parrot mutters
+Parrot giggles
+Parrot angers
+Parrot rattles
+Parrot pants
+Parrot groans
+Parrot grunts
+Parrot groans
+Cow moos
+Cow dies
+Cow hurts
+Cow gets milked
+Creeper dies
+Creeper hurts
+Creeper hisses
+Donkey hee-haws
+Donkey neighs
+Donkey Chest equips
+Donkey dies
+Donkey hurts
+Egg flies
+Elder Guardian flaps
+Elder Guardian moans
+Elder Guardian shoots
+Elder Guardian curses
+Elder Guardian dies
+Elder Guardian flops
+Elder Guardian hurts
+Dragon roars
+Dragon dies
+Dragon flaps
+Dragon growls
+Dragon hurts
+Dragon shoots
+Eye of Ender shoots
+Enderman vwoops
+Enderman dies
+Enderman hurts
+Enderman cries out
+Enderman teleports
+Endermite scuttles
+Endermite dies
+Endermite hurts
+Ender Pearl flies
+Fangs snap
+Evoker murmurs
+Evoker casts spell
+Evoker dies
+Evoker hurts
+Evoker prepares attack
+Evoker prepares summoning
+Evoker prepares charming
+Experience gained
+Firework blasts
+Firework launches
+Firework twinkles
+Something fell
+Burning
+Dying
+Sipping
+Eating
+Explosion
+Fire extinguishes
+Something hurts
+Something tripped
+Splashing
+Swimming
+Ghast cries
+Ghast dies
+Ghast hurts
+Ghast shoots
+Guardian flaps
+Guardian moans
+Guardian shoots
+Guardian curses
+Guardian dies
+Guardian flops
+Guardian hurts
+Horse neighs
+Horse neighs
+Horse armor equips
+Horse breathes
+Horse dies
+Horse eats
+Horse gallops
+Horse hurts
+Horse jumps
+Saddle equips
+Husk groans
+Husk dies
+Husk hurts
+Illusioner murmurs
+Illusioner casts spell
+Illusioner dies
+Illusioner hurts
+Illusioner displaces
+Illusioner prepares blindness
+Illusioner prepares mirror image
+Iron Golem attacks
+Iron Golem dies
+Iron Golem hurts
+Item breaks
+Item plops
+Item Frame fills
+Item Frame breaks
+Item Frame placed
+Item Frame empties
+Item Frame clicks
+Leash knot breaks
+Leash knot tied
+Lightning strikes
+Thunder roars
+Llama bleats
+Llama bleats angry
+Llama Chest equips
+Llama dies
+Llama eats
+Llama hurts
+Llama spits
+Llama steps
+Llama is decorated
+Magma Cube dies
+Magma Cube hurts
+Magma Cube squishes
+Minecart rolls
+Mule hee-haws
+Mule Chest equips
+Mule dies
+Mule hurts
+Painting breaks
+Painting placed
+Pig oinks
+Pig dies
+Pig hurts
+Saddle equips
+Burp
+Player dies
+Player hurts
+Player dings
+Polar Bear groans
+Polar Bear hums
+Polar Bear dies
+Polar Bear hurts
+Polar Bear roars
+Bottle smashes
+Bottle thrown
+Rabbit squeaks
+Rabbit attacks
+Rabbit dies
+Rabbit hurts
+Rabbit hops
+Sheep baahs
+Sheep dies
+Sheep hurts
+Shulker lurks
+Shulker closes
+Shulker dies
+Shulker hurts
+Shulker opens
+Shulker shoots
+Shulker teleports
+Shulker bullet explodes
+Shulker bullet breaks
+Silverfish hisses
+Silverfish dies
+Silverfish hurts
+Skeleton rattles
+Skeleton dies
+Skeleton hurts
+Skeleton shoots
+Skeleton Horse cries
+Skeleton Horse dies
+Skeleton Horse hurts
+Slime attacks
+Slime dies
+Slime hurts
+Slime squishes
+Snowball flies
+Snow Golem dies
+Snow Golem hurts
+Spider hisses
+Spider dies
+Spider hurts
+Squid swims
+Squid dies
+Squid hurts
+Stray rattles
+Stray dies
+Stray hurts
+TNT fizzes
+Vex vexes
+Vex shrieks
+Vex dies
+Vex hurts
+Villager mumbles
+Villager dies
+Villager hurts
+Villager disagrees
+Villager trades
+Villager agrees
+Vindicator mutters
+Vindicator dies
+Vindicator hurts
+Witch giggles
+Witch dies
+Witch drinks
+Witch hurts
+Witch throws
+Wither angers
+Wither dies
+Wither hurts
+Wither attacks
+Wither released
+Wither Skeleton rattles
+Wither Skeleton dies
+Wither Skeleton hurts
+Wolf pants
+Wolf dies
+Wolf growls
+Wolf hurts
+Wolf shakes
+Zombie groans
+Zombie dies
+Zombie hurts
+Zombie infects
+Zombie Horse cries
+Zombie Horse dies
+Zombie Horse hurts
+Zombie Pigman grunts
+Zombie Pigman angers
+Zombie Pigman dies
+Zombie Pigman hurts
+Zombie Villager groans
+Zombie vociferates
+Zombie snuffles
+Zombie Villager dies
+Zombie Villager hurts
+Gear equipped
+Chain armor jingles
+Diamond armor clangs
+Elytra rustles
+Gold armor clinks
+Iron armor clanks
+Leather armor rustles
+Bottle fills
+Bucket empties
+Bucket fills
+Player teleports
+Fireball whooshes
+Flint and Steel click
+Hoe tills
+Shears click
+Shield blocks
+Shovel flattens
+Totem activates
+Rain falls
+[Debug]:
+Reloading all chunks
+Hitboxes: shown
+Hitboxes: hidden
+Render Distance: %s
+Chunk borders: shown
+Chunk borders: hidden
+Advanced tooltips: shown
+Advanced tooltips: hidden
+Unable to switch gamemode, no permission
+Pause on lost focus: enabled
+Pause on lost focus: disabled
+Key bindings:
+Reloaded resource packs
+Downloading Resource Pack
+Making Request...
+Downloading file (%s MB)...
+Move with %s, %s, %s and %s
+Jump with %s
+Look around
+Use your mouse to turn
+Find a tree
+Punch it to collect wood
+Destroy the tree
+Hold down %s
+Open your inventory
+Press %s
+Craft wooden planks
+The recipe book can help
+Adventuring Time
+Discover every biome
+Monsters Hunted
+Kill one of every hostile monster
+Monster Hunter
+Kill any hostile monster
+Adventure
+Adventure, exploration and combat
+Take Aim
+Shoot something with a bow and arrow
+Sweet dreams
+Change your respawn point
+Sniper duel
+Kill a skeleton with an arrow from more than 50 meters
+What a Deal!
+Successfully trade with a Villager
+Hired Help
+Summon an Iron Golem to help defend a village
+Postmortal
+Use a Totem of Undying to cheat death
+Husbandry
+The world is full of friends and food
+The Parrots and the Bats
+Breed two animals together
+Two by Two
+Breed all the animals!
+Best Friends Forever
+Tame an animal
+A Seedy Place
+Plant a seed and watch it grow
+Serious Dedication
+Completely use up a diamond hoe, and then reevaluate your life choices
+A Balanced Diet
+Eat everything that is edible, even if it's not good for you
+You Need a Mint
+Collect dragon's breath in a glass bottle
+The Next Generation
+Hold the Dragon Egg
+Sky's the Limit
+Find an Elytra
+Remote Getaway
+Escape the island
+The City at the End of the Game
+Go on in, what could happen?
+Free the End
+Good luck
+Great View From Up Here
+Levitate up 50 blocks from the attacks of a Shulker
+The End... Again...
+Respawn the ender dragon
+The End
+Or the beginning?
+Local Brewery
+Brew a potion
+A Furious Cocktail
+Have every potion effect applied at the same time
+How Did We Get Here?
+Have every effect applied at the same time
+Bring Home the Beacon
+Construct and place a Beacon
+Beaconator
+Bring a beacon to full power
+A Terrible Fortress
+Break your way into a Nether Fortress
+Spooky Scary Skeleton
+Obtain a wither skeleton's skull
+Into Fire
+Relieve a Blaze of its rod
+Return to Sender
+Destroy a Ghast with a fireball
+Nether
+Bring summer clothes
+Withering Heights
+Summon the Wither
+Subspace Bubble
+Use the Nether to travel 7km in the Overworld
+Uneasy Alliance
+Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it.
+Zombie Doctor
+Weaken and then cure a zombie villager
+Not Today, Thank You
+Deflect an arrow with a shield
+Enchanter
+Enchant an item at an Enchanting Table
+The End?
+Enter the End Portal
+We Need to Go Deeper
+Build, light and enter a Nether Portal
+Eye Spy
+Follow an Ender Eye
+Ice Bucket Challenge
+Form and mine a block of Obsidian
+Isn't It Iron Pick
+Upgrade your pickaxe
+Hot Stuff
+Fill a bucket with lava
+Diamonds!
+Acquire diamonds
+Stone Age
+Mine stone with your new pickaxe
+Suit Up
+Protect yourself with a piece of iron armor
+Minecraft
+The heart and story of the game
+Cover Me With Diamonds
+Diamond armor saves lives
+Acquire Hardware
+Smelt an iron ingot
+Getting an Upgrade
+Construct a better pickaxe

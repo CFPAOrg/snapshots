@@ -1,0 +1,30 @@
+Ash Titan Arrow
+Ash Titan Bow
+Darkness Titan Arrow
+Darkness Titan Bow
+Displacing Titan Arrow
+Displacing Titan Bow
+Energy Titan Arrow
+Energy Titan Bow
+Explosive Titan Arrow
+Explosive Titan Bow
+Implosion Titan Arrow
+Implosion Titan Bow
+Incendiary Titan Arrow
+Incendiary Titan Bow
+Light Titan Arrow
+Light Titan Bow
+Poison Titan Arrow
+Poison Titan Bow
+Silk Titan Arrow
+Silk Titan Bow
+Void Titan Arrow
+Void Titan Bow
+Water Titan Arrow
+Water Titan Bow
+Ash
+Small Present
+Medium Present
+Large Present
+PresentFactory
+Alfredo's Titan Bows

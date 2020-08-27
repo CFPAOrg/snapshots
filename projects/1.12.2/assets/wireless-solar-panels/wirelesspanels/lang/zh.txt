@@ -1,0 +1,103 @@
+Improved Vajra (WIP)
+Energy
+Vajra Energy
+Instant Vajra Charger
+Energy Stored
+Stored
+Sneak and press RMB to enchant Vajra for Fortune 5!
+Another RMB to disenchant.
+Press Left Shift for more info
+Wireless Panels
+Boots are successfully charged!
+Leggings are successfully charged!
+Chestplate is successfully charged!
+Helmet is successfully charged!
+Creative Instant Armor Charger
+Wireless Spectral Solar Panel
+Wireless Singular Solar Panel
+Wireless Light-Absorbing Solar Panel
+Wireless Photonic Solar Panel
+Wireless Reciever (Tier 2)
+Wireless Reciever (Tier 1)
+Wireless Connector
+Storage's coords set.
+Storage's X coord
+Storage's Y coord
+Storage's Z coord
+Connection established
+All coords cleared!
+Storage connection reset.
+Panel connection reset.
+This tool is used for establishing connection between reciever and panel.
+First right-click on Reciever block, then right-click on Panel block. Not suitable for personal panels.
+Storage's X coord
+Storage's Y coord
+Storage's Z coord
+Connected to storage
+Connected to Panel
+Press LSHIFT for Connector usage info
+Press LCONTROL for detailed connection info
+Sneaking&Right-click for info clear from this item
+Advanced Wireless Connector
+Cleared info about Wireless Storage.
+Cleared info about Wireless Panel.
+The last Wireless Storage tileentity is set
+Wireless Panel tileentity is set
+Coords of storage are added to list
+Energy stored
+Energy stored
+Wireless Module
+Stored energy
+Max output
+Generating
+Eu/t
+Wireless Singular Solar Panel
+Wireless Light-Absorbing Solar panel
+Wireless Spectral Solar Panel
+Wireless Photonic Solar Panel
+Activated
+Deactivate
+No
+Yes
+Connected
+Activated
+Owner
+Wireless Spectral Panel (personal)
+Wireless Singular Panel (personal)
+Wireless Light-Absorbing Panel (personal)
+Wireless Photonic Panel (personal)
+Wireless Spectral Solar Panel (personal)
+Wireless Singular Solar Panel (personal)
+Wireless Light-Absorbing Solar Panel (personal)
+Wireless Photonic Panel Solar (personal)
+You are not the owner of this solar panel. Access denied.
++1
+-1
+Channel
+Owner
+Stored energy
+Channel
+You are not the owner of this wireless storage. Access denied.
+Wireless Reciever (personal)
+Wireless Reciever (personal)
+Golden Wrench
+Max Output
+Experience Generator
+Stored Energy
+XP amount
+Liquid XP
+Experience Generator
+Wireless Neutron Solar Panel
+Wireless Neutron Solar Panel
+Wireless Spectral Panel (personal)
+Wireless Singular Panel (personal)
+Wireless Light-Absorbing Panel (personal)
+Wireless Photonic Panel (personal)
+Wireless Reciever (personal)
+Wireless Module
+Golden Wrench
+Stored energy
+Max Output
+Wireless Neutron Panel (personal)
+Experience Generator
+Liquid XP

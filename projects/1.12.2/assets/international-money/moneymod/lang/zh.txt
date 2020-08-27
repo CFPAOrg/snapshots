@@ -1,0 +1,16 @@
+Money Mod
+1 Cent
+2 Cents
+5 Cents
+10 Cents
+20 Cents
+50 Cents
+1 Euro
+2 Euros
+5 Euros
+10 Euros
+20 Euros
+50 Euros
+100 Euros
+200 Euros
+500 Euros

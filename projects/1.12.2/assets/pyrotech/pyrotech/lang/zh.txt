@@ -1,0 +1,370 @@
+Pyrotech
+Unfired Clay Bucket
+%s Clay Bucket
+Clay Bucket
+Milk Clay Bucket
+%s Stone Bucket
+Stone Bucket
+Milk Stone Bucket
+%s Wooden Bucket
+Wooden Bucket
+Milk Wooden Bucket
+Bow Drill
+Flint and Tinder
+Matchstick
+Stone Igniter
+Refractory Igniter
+Fiber Torch
+Stone Torch
+Shelf
+Durable Shelf
+Stash
+Durable Stash
+Crate
+Durable Crate
+Wood Rack
+Stone Tank
+Refractory Tank
+Rock Bag
+Durable Rock Bag
+Stone Faucet
+Refractory Faucet
+Tinder
+Pit Kiln
+Campfire
+Crude Drying Rack
+Drying Rack
+Chopping Block
+Granite Anvil
+Ironclad Anvil
+Worktable
+Stone Worktable
+Compacting Bin
+Soaking Pot
+Slag
+%s Slag
+Flint Tongs
+Bone Tongs
+Stone Tongs
+Iron Tongs
+Golden Tongs
+Diamond Tongs
+Obsidian Tongs
+Bloom
+%s Bloom
+Bloomery
+Wither Forge
+Slag Heap
+%s Slag Heap
+Stone Sawmill Blade
+Flint Sawmill Blade
+Bone Sawmill Blade
+Iron Sawmill Blade
+Golden Sawmill Blade
+Diamond Sawmill Blade
+Obsidian Sawmill Blade
+Wooden Cog
+Stone Cog
+Flint Cog
+Bone Cog
+Iron Cog
+Golden Cog
+Diamond Cog
+Obsidian Cog
+Stone Kiln
+Stone Oven
+Stone Sawmill
+Stone Crucible
+Refractory Kiln
+Refractory Oven
+Refractory Sawmill
+Refractory Crucible
+Mechanical Hopper
+Mechanical Compactor
+Mechanical Mulcher
+Bellows
+Mechanical Bellows
+Wood Tar
+Wood Tar
+Coal Tar
+Coal Tar
+Stone Collector
+Refractory Collector
+Stone Drain
+Refractory Drain
+Crude Axe
+Crude Hoe
+Crude Pickaxe
+Crude Shovel
+Crude Fishing Rod
+Bone Axe
+Bone Hoe
+Bone Pickaxe
+Bone Shovel
+Bone Sword
+Flint Axe
+Flint Hoe
+Flint Pickaxe
+Flint Shovel
+Flint Sword
+Obsidian Axe
+Obsidian Hoe
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Sword
+Unfired Clay Shears
+Clay Shears
+Stone Shears
+Bone Shears
+Flint Shears
+Golden Shears
+Diamond Shears
+Obsidian Shears
+Liquid Clay
+Liquid Clay
+Straw
+Coal Coke
+Ash
+Flint Clay
+Refractory Clay
+Lump of Refractory Clay
+Unfired Refractory Brick
+Unfired Clay Brick
+Refractory Brick
+Pottery Fragments
+Pottery Shard
+Refractory Door
+Stone Door
+Quicklime
+Slaked Lime
+Flint Shard
+Bone Shard
+Plant Fibers
+Dried Plant Fibers
+Twine
+Charcoal Flakes
+Masonry Brick
+Lump of Clay
+Iron Shard
+Diamond Shard
+Board
+Coal Pieces
+Potash Mulch
+Tarred Board
+Pulp
+Durable Twine
+Stone Rod
+Burned Food
+Crushed Limestone
+Kindling
+Tarred Kindling
+Crushed Flint
+Glass Shard
+Obsidian Shard
+Gold Shard
+Baked Apple
+Roasted Carrot
+Roasted Egg
+Roasted Brown Mushroom
+Roasted Red Mushroom
+Roasted Beetroot
+Crude Hammer
+Stone Hammer
+Flint Hammer
+Bone Hammer
+Iron Hammer
+Golden Hammer
+Diamond Hammer
+Obsidian Hammer
+Straw Bale
+Block of Coal Coke
+Log Pile
+Refractory Block
+Limestone
+Refractory Glass
+Slag Glass
+Fossil Ore
+Dense Coal Ore
+Dense Nether Coal
+Cobbled Andesite
+Cobbled Diorite
+Cobbled Granite
+Cobbled Limestone
+Masonry Bricks
+Mulched Farmland
+Tarred Planks
+Wood Chips
+Ash Pile
+Tarred Wool
+Block of Charcoal
+Tar Bale
+Living Tar
+Stone Rock
+Andesite Rock
+Diorite Rock
+Granite Rock
+Dirt Clump
+Sand Pile
+Sandstone Rock
+Grass Clump
+Pile of Wood Chips
+Limestone Rock
+Red Sand Pile
+Input Capacity: %s%d
+Output Capacity: %s%d mB
+Fuel Capacity: %s%d
+Fuel Modifier: %s%d%%
+Self-extinguishes on recipe completion.
+Hold %s<SHIFT>%s for info.
+Uses: %d / %d
+Uses: %d
+Durability: %d / %d
+Durability: %d
+Indestructible
+Can hold hot fluids.
+Breaks with hot fluids.
+Burn Time: %s
+Capacity: %d mB
+%s: %d / %d
+Rate: %d mB/t
+Shutoff: %d mB
+Capacity: %d items
+Capacity: %d / %d items
+Drains collectors in a %dx%d range in front of the block.
+Valid for refractory structure.
+%s: %sx%d
+%s: %s%d%%
+%s: %sx%d in %dx%d
+Keeps contents when broken.
+Destroys contents when broken.
+Efficiency:
+%s: %s%d%%
+Burns up over time.
+Lasts forever.
+Extinguished by rain.
+Stays lit in the rain.
+%s: %d
+Capacity: %d of %d
+Recipe: %s
+Recipe: %s (%s)
+Cog: %s
+%s: %d of %d mB
+Empty: %d of %d mB
+Fuel: %s%s
+Logs: %d of %d
+Ash: %d of %d
+Burn Time: %s
+Blade: %s
+Speed: %d%%
+Hammered: %d%%
+Integrity: %d%%
+Hammer Power: %d%%
+Fuel: %d of %d
+Airflow: %d%%
+Type: %s
+Hammer
+Pickaxe
+Condition: %s%s
+Good
+Fair
+Used
+Fractured
+Failure: %d%%
+Refractory Kiln
+Refractory Crucible
+Refractory Sawmill
+Refractory Oven
+Stone Kiln
+Stone Crucible
+Stone Sawmill
+Stone Oven
+Mechanical Compactor
+Pit Kiln
+Pit Burning
+Refractory Burning
+Drying
+Chopping
+Granite Anvil
+Ironclad Anvil
+Compacting Bin
+Campfire
+Worktable
+Soaking Pot
+Bloomery
+Wither Forge
+To make a campfire, place tinder on the ground, add logs, and light it.
+To use a pit kiln, first dig a hole in the ground and place the pit kiln inside. Next, place the item you want to fire in the pit kiln, place a straw block, and place three logs on top. Finally, light the top of the kiln and be sure to keep it dry while it fires!
+To perform pit burning, place the blocks to burn in a pit and make sure all sides are covered with solid, non-flammable blocks, leaving one hole exposed. Light the blocks and quickly cover the hole. The entire contents must be covered with full, non-flammable blocks to succeed. When contents stop smoking, the burn is complete. To collect fluid from the burn, place collectors under the blocks.
+Refractory burning is similar to pit burning with the exception that the burning blocks must be fully covered with valid refractory blocks. To collect fluid from the burn, place a valid refractory collector under the blocks.
+Pyrotechnic Esoterica
+Welcome to the official, VFD sanctioned guide to surviving in the wilderness by starting fires, rather than putting them out.$(p)These pages will instruct you on how to survive, gather, adapt, innovate, accelerate, and bloom in your new role as a volunteer.
+Survival by Fire
+Survival by fire!
+Fibrous Foraging
+Collect dried plant fibers
+Stone-Age Sizzle
+Simply flint, stone, tinder
+Roasted Refreshments
+Eat each of the six roasted foods
+Primitive Pickaxe
+Craft a crude pickaxe
+Chop, Chop!
+Craft a chopping block
+Creative Crafting
+Craft a worktable
+Improvement, Indubitably
+Craft a flint or bone pickaxe
+Cobble Cumulation
+Mine or craft cobblestone
+Stalwart Stone
+Fire cobblestone into stone
+Practical Pits
+Craft a Pit Kiln
+Strictly Straw
+Craft a Straw Bale
+Simply Slabs
+Craft a Stone Slab
+Gratefully, Granite
+Craft a Granite Anvil
+Modest Masonry
+Use the Granite Anvil to craft a Masonry Brick
+Blustering Bellows
+Craft a Bellows
+Automated Airflow
+Craft a Mechanical Bellows
+Constructive Compression
+Craft a Mechanical Compactor
+Hardworking Hopper
+Craft a Mechanical Hopper
+Formidable Fuel
+Use a Pit Burn to collect Charcoal
+Adequate Appliances
+Make each Stone Combustion Machine
+Sufficiently Slaked
+Create Slaked Lime
+Refined Refractory
+Craft a Refractory Brick
+Fine Fuel
+I liked carbon before it was Coal
+Frightful Fuel
+Create Living Tar
+Budding Bloom
+Craft a Bloomery
+Inflexible Iron
+Craft an Iron Ingot
+Clever Crafting
+Step up your crafting game
+Improved Instruments
+Craft each brick combustion machine
+Furnace, Finally
+Craft a Furnace
+Nefarious Nether
+Build, light, and enter a Nether Portal
+Foul Forge
+Craft a Wither Forge
+Obstinate Obsidian
+Craft an Obsidian Pickaxe
+The client-side modules enabled in Pyrotech's module config don't match the modules enabled on the server. The server expects: %s.
+[Pyrotech] Please restart the game.
+[Pyrotech] Generated wood recipes will load the next time the game is launched.
+[Pyrotech] Generated ore recipes will load the next time the game is launched.

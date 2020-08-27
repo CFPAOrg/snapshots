@@ -1,0 +1,674 @@
+Gem
+Gems
+Ruby
+Rubies
+Garnet
+Garnets
+Holo-Pearl
+Holo-Pearls
+Malachite
+Malachites
+Rainbow Quartz
+Rainbow Quartzes
+Rhodonite
+Rhodonites
+Sapphire
+Sapphires
+White Sapphire
+Orange Sapphire
+Yellow Sapphire
+Pink Sapphire
+Purple Sapphire
+Blue Sapphire
+Green Sapphire
+Black Sapphire
+Padparadscha
+Opal
+Opals
+Peridot
+Peridots
+Pearl
+Pearls
+White Pearl
+Orange Pearl
+Magenta Pearl
+Light Blue Pearl
+Yellow Pearl
+Lime Pearl
+Pink Pearl
+Gray Pearl
+Light Gray Pearl
+Cyan Pearl
+Purple Pearl
+Blue Pearl
+Brown Pearl
+Green Pearl
+Red Pearl
+Black Pearl
+Bismuth
+Bismuths
+Jasper
+Jaspers
+Noreena Jasper
+Ocean Jasper
+Biggs Jasper
+Green Jasper
+Bruneau Jasper
+Royal Plume Jasper
+Flame Jasper
+Picture Jasper
+Candy Cane Jasper
+Amethyst
+Amethysts
+Rose Quartz
+Rose Quartzes
+Lapis Lazuli
+Lapis Lazulis
+Carnelian
+Carnelians
+Agate
+Agates
+White Agate
+Apache Agate
+Crazy Lace Agate
+Persian Agate
+Honey Agate
+Moss Agate
+Pink Agate
+Enhydro Agate
+Cloud Agate
+Polyhedroid Agate
+Agua Nueva Agate
+Blue Lace Agate
+Zimbabwe Agate
+Tree Agate
+Lake Superior Agate
+Onyx
+Holly Blue Agate
+Yellow Diamond
+Blue Diamond
+Melon Head
+Pumpkin Head
+Cactus Head
+Strawberry Head
+Roaming Eye
+Laser Beam
+Aquamarine
+Aquamarines
+Hessonite
+Hessonites
+Topaz
+Topazes
+Blue Topaz
+Rutile
+Rutiles
+Rutile
+Zircon
+Zircons
+White Zircon
+Orange Zircon
+Magenta Zircon
+Light Blue Zircon
+Yellow Zircon
+Lime Zircon
+Pink Zircon
+Gray Zircon
+Light Gray Zircon
+Cyan Zircon
+Purple Zircon
+Blue Zircon
+Brown Zircon
+Green Zircon
+Jacinth
+Black Zircon
+Slag
+Super Slag
+Steven
+Connie
+Shard Fusion
+Shard Fusions
+Shard Fusion
+Shard Fusions
+Shard Fusion
+Shard Fusions
+Corrupted Amethyst
+Corrupted Amethysts
+Corrupted Carnelian
+Corrupted Carnelians
+Corrupted Jasper
+Corrupted Jaspers
+Corrupted Noreena Jasper
+Corrupted Ocean Jasper
+Corrupted Biggs Jasper
+Corrupted Green Jasper
+Corrupted Bruneau Jasper
+Corrupted Royal Plume Jasper
+Corrupted Flame Jasper
+Corrupted Picture Jasper
+Corrupted Moissanite
+Corrupted Moissanites
+Corrupted Rose Quartz
+Corrupted Rose Quartzes
+Corrupted Zircon
+Dirty Tongue Flapper
+Corrupted Zircons
+Corrupted Kunzite
+Corrupted Kunzites
+Corrupted Hiddenite
+Corrupted Hiddenites
+Corrupted Watermelon Tourmaline
+Corrupted Watermelon Tourmalines
+Active Gem Base
+Inactive Gem Base
+Active Gem Shard
+Transfer Ownership Contract
+%1$s's Transfer Ownership Contract
+Joint Ownership Contract
+%1$s's Joint Ownership Contract
+Autonomy Contract
+%1$s's Autonomy Contract
+Liberation Contract
+%1$s's Liberation Contract
+War Declaration
+%1$s's War Declaration
+Peace Treaty
+%1$s's Peace Treaty
+Gem Staff
+Commander Staff
+%1$s's Commander Staff
+Warp Whistle
+Roaming Eye
+Laser Beam
+Giant Strawberry Slice
+Giant Strawberry Seeds
+The Glass of Time
+Ruby Gem
+Padparadscha Gem
+Peridot Gem
+Pearl Gem
+White Pearl Gem
+Orange Pearl Gem
+Magenta Pearl Gem
+Light Blue Pearl Gem
+Yellow Pearl Gem
+Lime Pearl Gem
+Pink Pearl Gem
+Gray Pearl Gem
+Light Gray Pearl Gem
+Cyan Pearl Gem
+Purple Pearl Gem
+Blue Pearl Gem
+Brown Pearl Gem
+Green Pearl Gem
+Red Pearl Gem
+Black Pearl Gem
+Bismuth Gem
+Jasper Gem
+Noreena Jasper Gem
+Ocean Jasper Gem
+Biggs Jasper Gem
+Green Jasper Gem
+Bruneau Jasper Gem
+Royal Plume Jasper Gem
+Flame Jasper Gem
+Picture Jasper Gem
+Candy Cane Jasper Gem
+Amethyst Gem
+Rose Quartz Gem
+Lapis Lazuli Gem
+Carnelian Gem
+Agate Gem
+White Agate Gem
+Apache Agate Gem
+Crazy Lace Agate Gem
+Persian Agate Gem
+Honey Agate Gem
+Moss Agate Gem
+Pink Agate Gem
+Enhydro Agate Gem
+Cloud Agate Gem
+Polyhedroid Agate Gem
+Agua Nueva Agate Gem
+Blue Lace Agate Gem
+Zimbabwe Agate Gem
+Tree Agate Gem
+Lake Superior Agate Gem
+Onyx Gem
+Holly Blue Agate Gem
+Yellow Diamond Gem
+Blue Diamond Gem
+Aquamarine Gem
+Hessonite Gem
+Sapphire Gem
+White Sapphire Gem
+Orange Sapphire Gem
+Yellow Sapphire Gem
+Pink Sapphire Gem
+Purple Sapphire Gem
+Blue Sapphire Gem
+Green Sapphire Gem
+Black Sapphire Gem
+Padparadscha Gem
+Topaz Gem
+Blue Topaz Gem
+Rutile Gem
+Twin Rutile Gem
+Zircon Gem
+White Zircon Gem
+Orange Zircon Gem
+Magenta Zircon Gem
+Light Blue Zircon Gem
+Yellow Zircon Gem
+Lime Zircon Gem
+Pink Zircon Gem
+Gray Zircon Gem
+Light Gray Zircon Gem
+Cyan Zircon Gem
+Purple Zircon Gem
+Blue Zircon Gem
+Brown Zircon Gem
+Green Zircon Gem
+Jacinth Gem
+Black Zircon Gem
+Cracked Ruby Gem
+Cracked Padparadscha Gem
+Cracked Peridot Gem
+Cracked Pearl Gem
+Cracked White Pearl Gem
+Cracked Orange Pearl Gem
+Cracked Magenta Pearl Gem
+Cracked Light Blue Pearl Gem
+Cracked Yellow Pearl Gem
+Cracked Lime Pearl Gem
+Cracked Pink Pearl Gem
+Cracked Gray Pearl Gem
+Cracked Light Gray Pearl Gem
+Cracked Cyan Pearl Gem
+Cracked Purple Pearl Gem
+Cracked Blue Pearl Gem
+Cracked Brown Pearl Gem
+Cracked Green Pearl Gem
+Cracked Red Pearl Gem
+Cracked Black Pearl Gem
+Cracked Bismuth Gem
+Cracked Jasper Gem
+Cracked Noreena Jasper Gem
+Cracked Ocean Jasper Gem
+Cracked Biggs Jasper Gem
+Cracked Green Jasper Gem
+Cracked Bruneau Jasper Gem
+Cracked Royal Plume Jasper Gem
+Cracked Flame Jasper Gem
+Cracked Picture Jasper Gem
+Cracked Candy Cane Jasper Gem
+Cracked Amethyst Gem
+Cracked Rose Quartz Gem
+Cracked Lapis Lazuli Gem
+Cracked Carnelian Gem
+Cracked Agate Gem
+White Agate Gem
+Apache Agate Gem
+Crazy Lace Agate Gem
+Persian Agate Gem
+Honey Agate Gem
+Moss Agate Gem
+Pink Agate Gem
+Enhydro Agate Gem
+Cloud Agate Gem
+Polyhedroid Agate Gem
+Agua Nueva Agate Gem
+Blue Lace Agate Gem
+Zimbabwe Agate Gem
+Tree Agate Gem
+Lake Superior Agate Gem
+Onyx Gem
+Holly Blue Agate Gem
+Cracked Yellow Diamond Gem
+Cracked Blue Diamond Gem
+Cracked Aquamarine Gem
+Cracked Hessonite Gem
+Cracked Sapphire Gem
+Cracked White Sapphire Gem
+Cracked Orange Sapphire Gem
+Cracked Yellow Sapphire Gem
+Cracked Pink Sapphire Gem
+Cracked Purple Sapphire Gem
+Cracked Blue Sapphire Gem
+Cracked Green Sapphire Gem
+Cracked Black Sapphire Gem
+Cracked Padparadscha Gem
+Cracked Topaz Gem
+Cracked Blue Topaz Gem
+Cracked Rutile Gem
+Cracked Twin Rutile Gem
+Cracked Zircon Gem
+Cracked White Zircon Gem
+Cracked Orange Zircon Gem
+Cracked Magenta Zircon Gem
+Cracked Light Blue Zircon Gem
+Cracked Yellow Zircon Gem
+Cracked Lime Zircon Gem
+Cracked Pink Zircon Gem
+Cracked Gray Zircon Gem
+Cracked Light Gray Zircon Gem
+Cracked Cyan Zircon Gem
+Cracked Purple Zircon Gem
+Cracked Blue Zircon Gem
+Cracked Brown Zircon Gem
+Cracked Green Zircon Gem
+Cracked Jacinth Gem
+Cracked Black Zircon Gem
+Shard Fusion Gem
+Cracked Shard Fusion Gem
+Shard Fusion Gem
+Cracked Shard Fusion Gem
+Shard Fusion Gem
+Cracked Shard Fusion Gem
+Corrupted Amethyst Gem
+Cracked Corrupted Amethyst Gem
+Corrupted Carnelian Gem
+Cracked Corrupted Carnelian Gem
+Corrupted Jasper Gem
+Corrupted Noreena Jasper Gem
+Corrupted Ocean Jasper Gem
+Corrupted Biggs Jasper Gem
+Corrupted Green Jasper Gem
+Corrupted Bruneau Jasper Gem
+Corrupted Royal Plume Jasper Gem
+Corrupted Flame Jasper Gem
+Corrupted Picture Jasper Gem
+Cracked Corrupted Jasper Gem
+Cracked Noreena Corrupted Jasper Gem
+Cracked Corrupted Ocean Jasper Gem
+Cracked Corrupted Biggs Jasper Gem
+Cracked Corrupted Green Jasper Gem
+Cracked Corrupted Bruneau Jasper Gem
+Cracked Corrupted Royal Plume Jasper Gem
+Cracked Corrupted Flame Jasper Gem
+Cracked Corrupted Picture Jasper Gem
+Corrupted Moissanite Gem
+Cracked Corrupted Moissanite Gem
+Corrupted Rose Quartz Gem
+Cracked Corrupted Rose Quartz Gem
+Corrupted Zircon Gem
+Cracked Corrupted Zircon Gem
+Corrupted Kunzite Gem
+Cracked Corrupted Kunzite Gem
+Corrupted Hiddenite Gem
+Cracked Corrupted Hiddenite Gem
+Corrupted Watermelon Tourmaline Gem
+Cracked Corrupted Watermelon Tourmaline Gem
+Music Disc
+Aivi & Surasshu - Peridot In The Rain
+Music Disc
+Aivi & Surasshu - Rose's Fountain
+Music Disc
+Aivi & Surasshu - Lapis' Flight
+Music Disc
+Aivi & Surasshu - The Breaking Point
+Music Disc
+Aivi & Surasshu - Duel of the Quartz Soldiers
+Music Disc
+Aivi & Surasshu - Yellow Diamond
+Music Disc
+Aivi & Surasshu - Blue Diamond
+Music Disc
+Aivi & Surasshu - What's the Use of Feeling (Blue)?
+Music Disc
+Aivi & Surasshu - The Heaven Beetle
+Music Disc
+Aivi & Surasshu - Defective
+Music Disc
+Aivi & Surasshu - Gem Shards
+Music Disc
+Aivi & Surasshu - Heart of the Pyramid
+Music Disc
+Aivi & Surasshu - The Underwater Temple
+Aivi & Surasshu - Love Like You
+KAGIC (Gems)
+KAGIC (Corruptions)
+KAGIC (Items & Blocks)
+KAGIC (Music Discs)
+Breaking Point
+Destabilize
+Gem Drill
+Gem Seed
+Analog Injector
+Injector
+Incubator
+Drained Block
+Drained Block
+Drained Block
+Drained Gravel
+Carbonite
+Chiseled Carbonite
+Frictional Rock Melt
+Rutile Trail
+Warp Pad Core
+Galaxy Warp Pad Core
+Pink Sandstone
+Chiseled Pink Sandstone
+Smooth Pink Sandstone
+Wavy Pink Sandstone
+Pink Sandstone Stairs
+Wavy Pink Sandstone Stairs
+Pink Sandstone Slab
+Giant Strawberry
+Healing Tears
+%1$s will follow you.
+%1$s will not follow you.
+%1$s is now following %2$s.
+%1$s does not serve you.
+%1$s already serves you.
+%1$s now serves you.
+%1$s does not serve the signee.
+The %1$s's shattered mind does not understand this command!
+The %1$s's corrupted mind does not understand this command!
+Ownership of %1$s transfered to %2$s.
+Joint ownership of %1$s given to %2$s.
+%1$s has been liberated by %2$s.
+%1$s is now liberated.
+%1$s has been granted autonomy by %2$s.
+%1$s is now autonomous.
+%1$s has been enlisted into the gem war by %2$s.
+%1$s has been enlisted into the gem war.
+%1$s has been retired from the gem war by %2$s.
+%1$s has been retired from the gem war.
+You'll find lots of high quality %1$s in this location.
+You'll find %1$s here, with %2$s defectivity.
+You'll find nothing but slag here.
+Here are all the crops I've harvested.
+Sorry, I haven't harvested enough crop yet.
+Here's the haul, boss.
+Sorry boss, ain't found nothing.
+%1$s's Harvest
+%1$s's Seeds
+%1$s's Haul
+Rocks, muddy cloddy clumps!
+Stupid clod!
+Filthy dirt bomb!
+Muddy clod!
+Filthy clod!
+Dull as dirt!
+Lumpy clumpy clod!
+Mega clod!
+Pebble!
+Muddy clod!
+Clod!
+Clod!
+Clod!
+Clod!
+Clod!
+Clod!
+Clod!
+Clod!
+Clod!
+Clod!
+I'm a traitorous clod!
+Here are all the fish I've caught.
+Sorry, I haven't caught enough fish yet.
+%1$s's Catch
+Spawning all nearby Gems...
+Spawned all nearby Gems.
+There is a new version of KAGIC available,
+KAGIC v%1$s adds the following:
+Click here to download.
+Right click to sign.
+Signed.
+Right click to bind.
+Bound.
+Roaming Eye is no longer hovering.
+Roaming Eye is hovering.
+%1$s is no longer resting.
+%1$s is resting.
+Injector can't inject at this location.
+Injector is missing an Incubator.
+Injector is missing a Gem Drill.
+Injector is missing an Active Gem Base.
+Place a Gem Drill below the Injector.
+Place an Injector above the Gem Drill.
+Place an Injector below the Incubator.
+Place an Incubator above the Injector.
+Right click the Injector with an Active Gem Base.
+Connect an active redstone signal to the Injector.
+I predict we're in a virtual world of cubes.
+I predict you'll go an amazing adventure!
+I sense that you'll be on fire soon!
+I predict that you will cross a body of water!
+Everyone! It's going to start snowing soon!
+Get ready! It will start raining soon!
+I predict... a lightning strike!
+Look out! %1$s is trying to hit you!
+Good night everyone.
+I foresee the most beautiful sunrise.
+I foresee today being a beautiful day.
+I predict we will see the most beautiful sunset.
+I predict that we will try to sleep!
+I predict that you love me.
+Oh no! I was wrong, you hate me!
+I predict you will approach me!
+I foresee you asking me about the future.
+Keep an eye on %1$s, I see them rebelling...
+Get ready, %1$s is about to attack.
+A special day will soon be here!
+I can see the path of fate as it stretches toward the horizon.
+I sense a %1$s not too far from us.
+I sense %1$s below us.
+I sense a cave below us.
+I sense a pool of %1$s below us.
+I sense %1$s above us.
+I sense a cave above us.
+I sense a pool of %1$s above us.
+I sense %1$s around us.
+I sense a cave around us.
+I sense a pool of %1$s around us.
+I sense nothing...
+Let me see...
+Watch out my %1$s!
+Setting a course for Homeworld
+Setting a course for Earth
+If only it was that easy for him to return.
+At least someone besides her parents cared.
+Cheeseburger Backpack
+Connie's Backpack
+Unaligned
+Owned by %1$s
+Owned by Yellow Diamond
+Owned by Blue Diamond
+Owned by White Diamond
+Rebel
+Loner
+Hostile
+Unknown
+me
+follow|come with me
+come
+stop|halt|stay
+kill (.+)|fight (.+)|destroy (.+)|defeat (.+)
+help (.+)|assist (.+)
+retreat|back
+heal (.+)|revive (.+)
+give me (.+)|bring me (.+)
+take this|have this
+give me|bring me
+fuse|combine
+unfuse|defuse
+scan|look around
+train
+warp to (.+)|warp to (.+)
+Preparing holo-pearl!
+This warp pad doesn't have enough clearance!
+This warp pad is broken!
+That warp pad doesn't have enough clearance!
+That warp pad is broken!
+We're already at that warp pad!
+Warping to %1$s!
+I couldn't find a warp pad named %1$s!
+Installed KAGIC
+Thank you!
+Gem Forger
+Smelt a gem base.
+Kindergartener
+Place an injector.
+Gem Commander
+Craft a Gem Staff.
+I Made You
+Align a Gem.
+I'm An Eternal Flame!
+Enrage a Ruby.
+Your Clarity!
+Ride a Sapphire.
+What A Mystery!
+I predict that you'll get this achievement!
+I'm Reporting This!
+Let a Peridot survey.
+Hello, Corn!
+Teach a Peridot to farm.
+That Will Be All!
+Interact with a Pearl.
+Renegade Pearl
+Give a Pearl a sword.
+To The Forge!
+Interact with a Bismuth.
+Now That's A Weapon
+Get a Breaking Point.
+My Best Work
+Get a Fair Fight.
+Fighting Is My Life!
+Enrage a Jasper.
+Step Off!
+Enrage an Amethyst.
+Revolution!
+Enrage a Rose Quartz.
+Give Me A Lift!
+Ride a Lapis Lazuli.
+I'm Not The Shortest!
+Enrage a Carnelian.
+Shoulders Square!
+Let an Agate (or yourself) micromanage.
+The Burden
+Align an Aquamarine.
+DIY
+Send a Topaz into battle.
+%1$s was poofed
+%1$s was poofed by %2$s
+%1$s was poofed by %2$s using %3$s
+%1$s was shattered
+%1$s was shattered by %2$s
+%1$s was shattered by %2$s using %3$s
+%1$s was barraged by lasers
+%1$s was barraged by lasers from %2$s
+%1$s was viciously torn apart and eaten by slags.
+Configure KAGIC
+Update notifications?
+Use metrics?
+Can gems make sounds?
+Spawn Meteor Rubies?
+One Meteor Ruby per how many days?
+Instruct Injector setup?
+Can gems rebel?
+Display facet/cut gem names?
+Kindergarten biome weight:
+Floating Peaks biome weight:
+Strawberry Battlefield biome weight:
+Ruin dimensions:

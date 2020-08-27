@@ -1,0 +1,179 @@
+Mod Name Tab
+Carbs Cookie Mod
+Item Name
+Rolling Pin
+Carbs Coin ( Iron )
+Carbs Coin ( Gold )
+Carbs Coin ( Diamond )
+Hunger Cookie
+Stat Eraser
+Cookie Dough
+Chocolate Chip Cookie Dough
+Flat Cookie Dough
+Flat Chocolate Chip Cookie Dough
+CarbsCookie ( Baked )
+CarbsCookie ( Raw )
+Sugar Cookie ( Raw )
+Sugar Cookie ( Baked )
+Bottle of Chocolate
+Bottle of Frosting
+Fresh Baked Cookies
+Prepared Cookie Sheet
+Cookie Sheet
+Cookie Cutter ( Circle )
+Cookie Cutter ( Crumbler )
+Cookie Cutter ( Cutter )
+Cookie Cutter ( DHoe )
+Cookie Cutter ( Mixer )
+Cookie Cutter ( Sword Blade )
+Cookie Cutter ( Character )
+Cookie Crumbler Head ( Raw )
+Cookie Cutter Head ( Raw )
+Cookie DHoe Head ( Raw )
+Cookie Mixer Head ( Raw )
+Cookie Sword Blade ( Raw ) 
+Cookie Character ( Raw )
+Cookie Crumbler Head ( Baked )
+Cookie Cutter Head ( Baked )
+Cookie DHoe Head ( Baked )
+Cookie Mixer Head ( Baked )
+Cookie Sword Blade ( Baked ) 
+Cookie Character ( Baked )
+Starter LootBox ( Cookie / Vanilla Items )
+Survival LootBox ( Cookie / Vanilla Items )
+AbandonCaptain Cookie
+Adamantine11 Cookie
+Anokie Cookie
+AriannaCelestine Cookie
+Asshatdress Cookie
+Carbs_ Cookie
+CHELseaofblue Cookie
+Circathis Cookie
+CKoledo Cookie
+cryptk33p3r Cookie
+Darkosto Cookie
+DBDKevin Cookie
+DecentFarts Cookie
+DemonicSoulz Cookie
+Dimc93 Cookie
+Dinosaurus05 Cookie
+Dragoncraze Cookie
+Enderfs09 Cookie
+FrankThePegasus Cookie
+Gamerkitty_1 Cookie
+GirlSpoon Cookie
+HoloTheWiseWolf Cookie
+Jazzeojo Cookie
+Jenfinite Cookie
+JJames5725 Cookie
+Kayell Cookie
+Kebbrokk Cookie
+KissOfFate Cookie
+Legendaryhon Cookie
+Lucy2Bad Cookie
+Matty_Boo Cookie
+Mesonicbore10 Cookie
+Missdiamonder Cookie
+Miznobody Cookie
+MyWastedFantasy Cookie
+Nauspratus Cookie
+PilsworthProdigy Cookie
+PupperGames Cookie
+RedneckYoda Cookie
+RiseUpSammy Cookie
+Rydawg Cookie
+SimplySadi Cookie
+StarsPlaysMC Cookie
+Teacup_Gaming Cookie
+TealOldMan Cookie
+TheWhiteFoxGod Cookie
+Thunust Cookie
+Turky2349 Cookie
+Undead_Mage1806 Cookie
+UnhookedGecko Cookie
+UnhindgedGecko Cookie
+Vaarel Cookie
+Vegtable42 Cookie
+WikingKnight Cookie
+WolfricGames Cookie
+BipolarRed Cookie
+Ender_fs09 Cookie
+Gamerkitty_1 Cookie
+Kaelthalon Cookie
+Green Gem
+%1$s was asssinated by DbdKevin
+Blue Ingot
+Blue Axe
+Blue Shovel
+Blue Pickaxe
+Blue Hoe
+Blue Sword
+Chocolate Chip
+The Fighter's Sword
+Cookie Crumbler
+Cookie Crumbler
+Cookie Crumbler
+Cookie Cutter
+Cookie Cutter
+Cookie Cutter
+Cookie Mixer
+Cookie Mixer
+Cookie Mixer
+Cookie Dhoe
+Cookie Dhoe
+Cookie Dhoe
+Cookie Sword
+Cookie Sword
+Cookie Sword
+Blue Helmet
+Blue Chestplate
+Blue Leggings
+Blue Boots
+Block Name
+Cookie Block
+Chocolate Block
+Sugar Block
+Black RossBlock
+Gray RossBlock
+Blue RossBlock
+Blue/Cyan RossBlock
+Cyan RossBlock
+Cyan/Green RossBlock
+Green RossBlock
+Megenta RossBlock
+Salmon RossBlock
+Orange RossBlock
+Brown RossBlock
+Purple RossBlock
+Purple/Red RossBlock
+Red RossBlock
+Dark Green RossBlock
+Yellow RossBlock
+Blue Crops
+Blue Seeds
+Overworld Blue Ore
+Nether Blue Ore
+End Blue Ore
+Overworld Green Ore
+Nether Green Ore
+End Green Ore
+Overworld Cookie Ore
+Nether Cookie Ore
+End Cookie Ore
+Blue Sapling
+Cocoa Tree Sapling
+Blue Wood
+Cocoa Wood
+Blue Leaves
+Cocoa Leaves
+Blue Planks
+Cocoa Planks
+Blue Furnace
+CookieJar
+Fixing Bowl
+Advanced Fixing Bowl
+Modid Config File
+World Generation Options
+Tooltips Options
+Character Cookies Options
+Fixing Bowl Repair Options

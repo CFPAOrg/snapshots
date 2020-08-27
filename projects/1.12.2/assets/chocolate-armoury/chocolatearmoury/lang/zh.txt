@@ -1,0 +1,10 @@
+Wooden Dagger
+Stone Dagger
+Iron Dagger
+Diamond Dagger
+Golden Dagger
+Wooden Katana
+Stone Katana
+Iron Katana
+Diamond Katana
+Golden Katana

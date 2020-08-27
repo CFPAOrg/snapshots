@@ -1,0 +1,17 @@
+Brush
+Stamp
+Painted Block
+Sneak-click on air to clear
+Sneak-click on block with paint to copy
+Pencil
+Fill
+Eraser
+Picker
+Undo
+Redo
+red
+green
+blue
+alpha
+Turn R
+Turn L

@@ -1,0 +1,51 @@
+Macaw's Windows
+Window Base
+Window Framed Base
+Oak Framed Window
+Spruce Framed Window
+Birch Framed Window
+Jungle Framed Window
+Acacia Framed Window
+Dark Oak Framed Window
+Oak Plank Framed Window
+Spruce Plank Framed Window
+Birch Plank Framed Window
+Jungle Plank Framed Window
+Acacia Plank Framed Window
+Dark Oak Plank Framed Window
+2x1 Oak Plank Framed Window
+2x1 Oak Framed Window
+2x1 Spruce Plank Framed Window
+2x1 Spruce Framed Window
+2x1 Birch Plank Framed Window
+2x1 Birch Framed Window
+2x1 Jungle Plank Framed Window
+2x1 Jungle Framed Window
+2x1 Acacia Plank Framed Window
+2x1 Acacia Framed Window
+2x1 Dark Oak Framed Plank Window
+2x1 Dark Oak Framed Window
+Oak Window
+Oak Plank Window
+Spruce Window
+Spruce Plank Window
+Birch Window
+Birch Plank Window
+Jungle Window
+Jungle Window
+Acacia Window
+Acacia Plank Window
+Dark Oak Window
+Dark Oak Window
+Oak 2x1 Window
+Oak Plank 2x1 Window
+Spruce 2x1 Window
+Sruce Plank 2x1 Window
+Birch 2x1 Window
+Birch Plank 2x1  Window
+Jungle 2x1 Window
+Jungle Plank 2x1 Window
+Acacia 2x1 Window
+Acacia Plank 2x1 Window
+Dark Oak 2x1 Window
+Dark Oak 2x1 Window

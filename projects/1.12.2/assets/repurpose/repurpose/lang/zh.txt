@@ -1,0 +1,50 @@
+Bed Compass
+Fluffy Fabric
+Whetstone
+Snorkel
+Diamond Shard
+Stone Shears
+Wood Sickle
+Stone Sickle
+Iron Sickle
+Diamond Sickle
+Gold Sickle
+Swift Blade: Wood
+Swift Blade: Stone
+Swift Blade: Iron
+Swift Blade: Gold
+Swift Blade: Diamond
+Swift Blade: Copper
+Swift Blade: Osmium
+Swift Blade: Bronze
+Swift Blade: Steel
+Swift Blade: Obsidian
+Iron Lump
+Scroll
+Wooden Crate
+Clutch of Eggs
+Carton of Eggs
+Bunch of Potatoes
+Crate of Potatoes
+Bunch of Carrots
+Crate of Carrots
+Bunch of Beets
+Crate of Beets
+Bag of Holding
+Bag of Holding (Opened)
+Bag of Holding
+Iron Coffer
+Redstone Clock
+Dirt Stairs
+Grass Stairs
+Dirt Slab
+Grass Slab
+Dirt Wall
+Grass Wall
+Enriched Farmland
+Mini Block of Redstone
+Redstone Scanner
+Glowstone Slab
+Coffer
+Charcoal Block
+Step Assist

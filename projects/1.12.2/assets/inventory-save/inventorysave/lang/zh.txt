@@ -1,0 +1,6 @@
+Successfully saved inventory for player %s
+Could not save inventory for player %s
+/inventorysave player
+Successfully loaded inventory for player %s
+Could not load inventory for player %s
+/inventoryload player

@@ -1,0 +1,70 @@
+Expanded Plates
+Block Of Alluvium
+Hardened Alluvium Block
+Alluvium Ore
+Alluvium Pressure Plate
+Andesite Pressure Plate
+Polished Andesite Pressure Plate
+Brick Pressure Plate
+Cobblestone Pressure Plate
+Mossy Cobblestone Pressure Plate
+Diorite Pressure Plate
+Polished Diorite Pressure Plate
+Glass Pressure Plate
+Granite Pressure Plate
+Polished Granite Pressure Plate
+Quartz Pressure Plate
+Chiseled Quartz Pressure Plate
+Sandstone Pressure Plate
+Chiseled Sandstone Pressure Plate
+Soul Sand Pressure Plate
+Emerald Pressure Plate
+Diamond Pressure Plate
+Lapis Lazuli Pressure Plate
+Obsidian Pressure Plate
+Acacia Pressure Plate
+Dark Oak Pressure Plate
+Birch Pressure Plate
+Jungle Pressure Plate
+Oak Pressure Plate
+Spruce Pressure Plate
+Acacia Log Pressure Plate
+Dark Oak Log Pressure Plate
+Birch Log Pressure Plate
+Jungle Log Pressure Plate
+Oak Log Pressure Plate
+Spruce Log Pressure Plate
+Slime Pressure Plate
+TNT Trap Pressure Plate
+Web PressurePlate
+Alluvium Axe
+Alluvium Dust
+Alluvium Hammer
+Alluvium Hoe
+Alluvium Ingot
+Alluvium Pickaxe
+Alluvium Shovel
+Alluvium Sickle
+Hardened Alluvium Axe
+Hardened Alluvium Hammer
+Hardened Alluvium Hoe
+Hardened Alluvium Ingot
+Hardened Alluvium Pickaxe
+Hardened Alluvium Shovel
+Hardened Alluvium Sickle
+Alluvium Helmet
+Alluvium Chestplate
+Alluvium Leggings
+Alluvium Boots
+Hardened Alluvium Helmet
+Hardened Alluvium Chestplate
+Hardened Alluvium Leggings
+Hardened Alluvium Boots
+Obsidian Shard
+Diamond Shard
+Emerald Shard
+Glass Shard
+Ender Pearl Shard
+Lapis Lazuli Shard
+Alluvium Sword
+Hardened Alluvium Sword

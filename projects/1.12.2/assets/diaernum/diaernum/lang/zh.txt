@@ -1,0 +1,61 @@
+Diaernum Mod
+Diaernum Pickaxe
+Diaernum Axe
+Diaernum Shovel
+Diaernum Sword
+Diaernum Hoe
+Diaernum Paxel
+Porparinerock Pickaxe
+Porparinerock Axe
+Porparinerock Shovel
+Porparinerock Sword
+Porparinerock Hoe
+Porparinerock Paxel
+Bluraniumscale Pickaxe
+Bluraniumscale Axe
+Bluraniumscale Shovel
+Bluraniumscale Sword
+Bluraniumscale Hoe
+Bluraniumscale Paxel
+Diaernum Ingot
+Diaernum Helmet
+Diaernum Chestplate
+Diaernum Leggings
+Diaernum Boots
+Porparinerock Helmet
+Porparinerock Chestplate
+Porparinerock Leggings
+Porparinerock Boots
+Bluraniumscale Helmet
+Bluraniumscale Chestplate
+Bluraniumscale Leggings
+Bluraniumscale Boots
+Fusionstone
+Porparinerock
+Enhanced Fusionstone
+Bluranuimscale
+Lightning Staff
+Teleport Staff
+Healer Staff
+Gold Ring
+Reinforced Stick
+Lightning Ring
+Heart Ring
+Heart
+Night Eye
+Golden Fish
+Golden Fire
+Ancient Sword
+Speeder
+Potion Staff
+Enhanced Fusionstone Remover
+ Creative Ingot
+Super Speed
+Super Jump
+Fusionstone Ore
+Block of Diaernum
+Block of Porparinerock
+Block of Bluraniumscale
+Block of Enanched Fusionstone
+Block of Fusionstone
+Indestructible Block

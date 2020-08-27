@@ -1,0 +1,375 @@
+${other.key.help}".
+Gauges and Switches
+Gauges and Switches Config
+alarm siren
+§6[§9SHIFT§r More info§6]§r
+§6[§9CTRL-SHIFT§r Help§6]§r
+Analog Voltmeter Redstone Gauge
+Analog Bar Redstone Gauge
+Small Digital Display Redstone Gauge
+Glass Bar Redstone Gauge
+Glass Tube Redstone Gauge
+Small Analog Voltmeter Redstone Gauge
+Rustic Circular Wall Meter Redstone gauge
+§6A display device that can be attached to a solid block to visualise the \
+${tile.rsgauges.flatgauge1.help}
+${tile.rsgauges.flatgauge1.help}
+${tile.rsgauges.flatgauge1.help}
+${tile.rsgauges.flatgauge1.help}
+${tile.rsgauges.flatgauge1.help}
+${tile.rsgauges.flatgauge1.help}
+White LED Redstone Indicator
+White Blinking LED Redstone Indicator
+Green LED Redstone Indicator
+Yellow LED Redstone Indicator
+Red LED Redstone Indicator
+Alarm Lamp
+Green Blinking LED Redstone Indicator
+Yellow Blinking LED Redstone Indicator
+Red LED Redstone Indicator
+Alarm Siren
+Rustic Redstone Semaphore
+§6A small device that can be attached to a block to indicate \
+${tile.rsgauges.indicator_led_white.help}
+${tile.rsgauges.indicator_led_white.help}
+${tile.rsgauges.indicator_led_white.help}
+${tile.rsgauges.indicator_led_white.help} Blinks with a frequency of about 0.5Hz.
+${tile.rsgauges.indicator_led_white.help} Blinks with a frequency of about 0.5Hz.
+${tile.rsgauges.indicator_led_white.help} Blinks with a frequency of about 0.5Hz.
+${tile.rsgauges.indicator_led_white.help} Blinks with a frequency of about 0.5Hz.
+§6A red lamp that blinks when detecting a redstone signal from the block \
+§6A siren that frequently emits an alarm sound when detecting a redstone \
+§6A small metal case with a semaphore flag, which raises \
+Activate while already active to extend the pulse time.
+Can be placed on hoppers.
+Left-click with a stack of redstone to set a fixed pulse time between 0.1s (1) and 6.4s (64).
+Click with a Redstone Torch to configure the output (cycles through the options that this switch supports).
+Can be activated with projectiles.
+Left-click with any dye to color tint the switch.
+Click with an Ender pearl to get a Switch Link Pearl linked to this switch.
+Click with a Switch Link Pearl to use this switch as link source.
+Left-click with a stack of redstone to set the hold-time between 0.1s (1) and 6.4s (64).
+Click on the touch config up/down buttons to set output power, entity filter, entity count, and sensitivity.
+Rotary Machine Switch
+Industrial Contact Lever
+Two-Button Machine Switch
+Small Light Switch
+ESTOP Button
+Hopper Blocker
+Industrial Rotary Lever
+Industrial Lever
+Old Fancy Lever
+Old Fancy Rotary Lever
+Bistable Switch
+Bistable Switch
+Bistable Switch
+Bistable Switch
+Bistable Switch
+Rustic Lever
+Rustic Two-Hinge Lever
+Rustic Rotary Lever
+Bistable Switch
+Bistable Switch
+Bistable Switch
+Rustic Nail Lever
+Bistable Glass Switch
+Bistable Glass Touch Switch
+Valve Switch
+Elevator Button
+§6A switch that is manually flipped on or off like a lever.\n§r
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} Can be shot off with a projectile.
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.hoppermountable.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.hoppermountable.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.hoppermountable.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+Arrow Target
+Machine Button
+Fenced Machine Button
+Industrial Pull Handle Button
+Industrial Foot Button
+Industrial Button
+Old Fancy Button
+Old Fancy Chain Button
+Pulse Switch
+Small Old Fancy Button
+Rustic Button
+Rustic Small Button
+Rustic Chain Button
+Pulse switch
+Pulse switch
+Pulse switch
+Rustic Nail Button
+Glass Button
+Small Glass Button
+Glass Touch Button
+§6A switch that outputs a redstone signal for a short time, like a button.\n§r
+§6A target that emits a redstone pulse to the block it is attached to when it is hit with an arrow or activated by hand.\n§r\
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+Industrial Door Contact Mat
+Industrial Contact Mat
+Industrial Shock Sensitive Contact Mat
+Rustic Door Pressure Plate
+Rustic Pressure Plate
+Rustic Shock Sensitive Pressure Plate
+Configurable Glass Contact Plate
+Glass Contact Plate
+§6An industrial floor contact mat that emits a redstone signal when exposed to mechanical pressure \
+§6An industrial floor contact mat that emits a redstone signal when exposed to mechanical pressure on \
+§6An industrial contact mat emitting a redstone pulse when exposed to mechanical shock from above \
+§6A metal plate that emits a redstone signal when exposed to mechanical pressure from above \
+§6A metal plate that emits a redstone signal when exposed to mechanical pressure from above \
+§6A metal plate emitting a redstone pulse when exposed to mechanical shock from above \
+§6A glass floor plate that changes color and emits a redstone signal when exposed to mechanical pressure on the top \
+§6A glass floor plate that changes color and emits a redstone signal when exposed to mechanical pressure on the top \
+Industrial Shock Activated Trapdoor
+Industrial Sensitive Shock Activated Trapdoor
+Industrial Fall-Through Detection Frame
+Rustic Shock Activated Trapdoor
+Rustic Sensitive Shock Activated Trapdoor
+Rustic Fall-Through Detector Trapdoor
+§6An industrial floor trap door that swings open and emits a redstone signal when \
+§6An industrial floor trap door that swings open and emits a redstone signal when \
+§6An industrial sensor frame that emits a redstone signal when something falls through it.§r\n\
+§6A metal floor trap door that swings open and emits a redstone signal when \
+§6Metal floor trap door that swings open and emits a redstone signal when \
+§6A metal trap door that swings open emits a redstone signal when something touches it.§r\n\
+Industrial Infrared Entity Detector
+Industrial Linear Laser Entity Detector
+Industrial Local Light Sensor
+Industrial Day Timer Clock
+Industrial Rain Sensor
+Industrial Thunderstorm Detector
+Industrial Interval Signal Timer
+Glass Infrared Entity Detector
+Glass Linear Laser Entity Detector
+Glass Day Timer Clock
+Glass Interval Signal Timer
+Industrial Comparator Switch
+Door sensor
+§6A small device that observes a defined volume and emits a redstone signal if it sees an entity.§r\n\
+§6A small device that observes in one direction and emits a redstone signal if it senses an entity.§r\n\
+§6A small device that measures the local light level at its location and emits a redstone signal \
+§6A small device that emits a redstone signal from a configured start (day) time to a configured \
+§6A small wall mounted device that emits a redstone signal when it rains on it.§r\n\
+§6A small wall mounted device that emits a redstone signal when it senses a high electric \
+§6A small device that emits a rectangular redstone signal with a defined on- and off- time.§r\n\
+§6A small glass device that observes a defined volume and emits a redstone signal if it sees an entity.§r\n\
+§6A small glass device that observes in one direction and emits a redstone signal if it senses an entity.§r\n\
+§6A small glass device that emits a redstone signal from a configured start (day) time to a configured \
+§6A small device that emits a rectangular redstone signal with a defined on- and off- time.§r\n\
+§6A small device that that emits a redstone signal depending on the comparator output \
+§6A player detector that is mounted on walls above doors.§r
+Industrial Block Category Detector
+§6A switch emitting a redstone signal if one or more blocks in front if it match \
+Industrial Dimmer
+power: %1$s
+§6An industrial manual redstone power dimmer.§r\n\
+Industrial Switch Link Receiver
+Industrial Cased Switch Link Receiver
+Industrial Pulse Switch Link Receiver
+Industrial Cased Pulse Switch Link Receiver
+Industrial Switch Link Sender
+Industrial Switch Link Pulse Sender
+§6A small industrial bistable switching device that is optimised to be \
+§6A full block cased industrial bistable switching device that is optimised to be \
+§6A small industrial pulse switching device that is optimised to be used as a Switch Link \
+§6A full block industrial pulse switching device that is optimised to be used as a Switch Link \
+§6A small industrial switching device that is optimised to be \
+§6A small industrial pulse switching device that is optimised to be used as a Switch Link relay \
+Yellow power plant
+Red power plant
+§6Artificial yellow flower that looks very similar to dandelion, \
+§6Artificial yellow flower that looks very similar to a poppy, \
+Knock Detector Pulse Switch (industrial)
+Knock Detector Bistable Switch (industrial)
+§6Emits a redstone pulse when the adjacent block of its facing is clicked.§r ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+§6Switches on/off when the adjacent block of its facing is clicked.§r ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+Redstone-Sensitive Glass Block (Light Emitting)
+Redstone-Sensitive Glass Block (White-Stained)
+Redstone-Sensitive Glass Block (Red-Stained)
+Redstone-Sensitive Glass Block (Green-Stained)
+Redstone-Sensitive Glass Block (Blue-Stained)
+Redstone-Sensitive Glass Block (Yellow-Stained)
+Redstone-Sensitive Glass Block (Orange-Stained)
+Redstone-Sensitive Glass Block (Magenta-Stained)
+Redstone-Sensitive Glass Block (Light-Blue-Stained)
+Redstone-Sensitive Glass Block (Lime-Stained)
+Redstone-Sensitive Glass Block (Pink-Stained)
+Redstone-Sensitive Glass Block (Gray-Stained)
+Redstone-Sensitive Glass Block (Light-Gray-Stained)
+Redstone-Sensitive Glass Block (Cyan-Stained)
+Redstone-Sensitive Glass Block (Purple-Stained)
+Redstone-Sensitive Glass Block (Brown-Stained)
+Redstone-Sensitive Glass Block (Black-Stained)
+Redstone-Sensitive Glass Block (Inverted, Light Emitting)
+§6Glass block that emits light when it is powered by a redstone signal, similar to a redstone lamp.
+§6Glass block that normally emits light like a redstone lamp, and switches off \
+§6Glass block that changes from transparent to colored when it is powered by a redstone \
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+${rsgauges.sensitiveglass.colored.help}
+The qube
+It's a developer block that is not supposed to be craftable or used in the game.
+Switch Link Pearl
+§6Created by left clicking a switch with an Ender pearl. Remote activates that \
+%1$s
+power: %1$s
+no output
+weak
+strong
+weak inverted
+strong inverted
+pulse: %1$ss (%2$s ticks)
+tinted %1$s
+white
+orange
+magenta
+light blue
+yellow
+lime
+pink
+gray
+light gray
+cyan
+purple
+blue
+brown
+green
+red
+black
+sensor range: %1$s
+entity type: %1$s
+creatures
+players
+mobs
+animals
+villagers
+objects
+everything
+entity threshold: %1$s
+power: %1$s
+%1$s%2$s%3$s%4$s
+lux
+on: %1$s%2$s
+off: %1$s%2$s
+power: %1$s
+debounce: %1$s %2$s
+%1$s%2$s%3$s%4$s
+on-level: %1$s
+off-level: %1$s
+power: %1$s
+comparator mode
+used inventory slots
+free inventory slots
+%1$s%2$s%3$s%4$s
+on: %1$s
+off: %1$s
+power: %1$s
+random: %1$s
+power: %1$s
+power: %1$s
+%1$s%2$s%3$s%4$s%5$s
+on: %1$ss
+off: %1$ss
+power: %1$s
+ramp: %1$s
+STANDBY
+sensitivity: %1$s
+normal
+high
+entity threshold: %1$s
+entity type: %1$s
+everything
+creatures
+players
+mobs
+animals
+villagers
+objects
+power: %1$s
+%1$s%2$s%3$s%4$s%5$s
+range: %1$s
+threshold: %1$s
+power: %1$s
+debounce: %1$s
+filter: %1$s
+any block
+solid
+liquid
+air
+wood log
+fertile soil
+soil
+plant
+crop
+mature crop
+ore (dict)
+sapling (dict)
+wooden (dict)
+stone (dict)
+glass (dict)
+water/ice
+clay/ceramics
+planks (dict)
+slab (dict)
+Linked to %1$s.
+Target is %1$s blocks away.
+(too far away)
+Target switch is too far away from you
+Target switch is broken or relocated
+Target switch memorized
+This switch cannot be a link target
+Link pearl plugged
+This switch cannot link to target switches
+Already linked to the target of that pearl
+Target is too far away for this switch
+Link pearl don't like that switch
+Trigger as source output.
+Trigger on source activation.
+Trigger on source deactivation.
+Trigger on source change.
+Trigger as source inverse output.

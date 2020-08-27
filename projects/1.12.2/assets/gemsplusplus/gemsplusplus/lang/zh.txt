@@ -1,0 +1,284 @@
+Emerald sword
+Emerald shovel
+Emerald pickaxe
+Emerald axe
+Emerald hoe
+Emerald helmet
+Emerald chestplate
+Emerald leggings
+Emerald boots
+Emerald dust
+Ruby sword
+Ruby shovel
+Ruby pickaxe
+Ruby axe
+Ruby hoe
+Ruby helmet
+Ruby chestplate
+Ruby leggings
+Ruby boots
+Ruby 
+Ruby dust
+Sapphire sword
+Sapphire shovel
+Sapphire pickaxe
+Sapphire axe
+Sapphire hoe
+Sapphire helmet
+Sapphire chestplate
+Sapphire leggings
+Sapphire boots
+Sapphire 
+Sapphire dust
+Amethyst sword
+Amethyst shovel
+Amethyst pickaxe
+Amethyst axe
+Amethyst hoe
+Amethyst helmet
+Amethyst chestplate
+Amethyst leggings
+Amethyst boots
+Amethyst 
+Amethyst dust
+Topaz sword
+Topaz shovel
+Topaz pickaxe
+Topaz axe
+Topaz hoe
+Topaz helmet
+Topaz chestplate
+Topaz leggings
+Topaz boots
+Topaz 
+Topaz dust
+Phoenixite sword
+Phoenixite shovel
+Phoenixite pickaxe
+Phoenixite axe
+Phoenixite hoe
+Phoenixite helmet
+Phoenixite chestplate
+Phoenixite leggings
+Phoenixite boots
+Phoenixite 
+Phoenixite dust
+Jade sword
+Jade shovel
+Jade pickaxe
+Jade axe
+Jade hoe
+Jade helmet
+Jade chestplate
+Jade leggings
+Jade boots
+Jade 
+Jade dust
+Citrine sword
+Citrine shovel
+Citrine pickaxe
+Citrine axe
+Citrine hoe
+Citrine helmet
+Citrine chestplate
+Citrine leggings
+Citrine boots
+Citrine 
+Citrine dust
+Garnet sword
+Garnet shovel
+Garnet pickaxe
+Garnet axe
+Garnet hoe
+Garnet helmet
+Garnet chestplate
+Garnet leggings
+Garnet boots
+Garnet 
+Garnet dust
+Spinel sword
+Spinel shovel
+Spinel pickaxe
+Spinel axe
+Spinel hoe
+Spinel helmet
+Spinel chestplate
+Spinel leggings
+Spinel boots
+Spinel 
+Spinel dust
+Onyx sword
+Onyx shovel
+Onyx pickaxe
+Onyx axe
+Onyx hoe
+Onyx helmet
+Onyx chestplate
+Onyx leggings
+Onyx boots
+Onyx 
+Onyx dust
+Agate sword
+Agate shovel
+Agate pickaxe
+Agate axe
+Agate hoe
+Agate helmet
+Agate chestplate
+Agate leggings
+Agate boots
+Agate 
+Agate dust
+Malachite sword
+Malachite shovel
+Malachite pickaxe
+Malachite axe
+Malachite hoe
+Malachite helmet
+Malachite chestplate
+Malachite leggings
+Malachite boots
+Malachite 
+Malachite dust
+Tourmaline sword
+Tourmaline shovel
+Tourmaline pickaxe
+Tourmaline axe
+Tourmaline hoe
+Tourmaline helmet
+Tourmaline chestplate
+Tourmaline leggings
+Tourmaline boots
+Tourmaline 
+Tourmaline dust
+Chrysocolla sword
+Chrysocolla shovel
+Chrysocolla pickaxe
+Chrysocolla axe
+Chrysocolla hoe
+Chrysocolla helmet
+Chrysocolla chestplate
+Chrysocolla leggings
+Chrysocolla boots
+Chrysocolla 
+Chrysocolla dust
+Jasper sword
+Jasper shovel
+Jasper pickaxe
+Jasper axe
+Jasper hoe
+Jasper helmet
+Jasper chestplate
+Jasper leggings
+Jasper boots
+Jasper 
+Jasper dust
+Ametrine sword
+Ametrine shovel
+Ametrine pickaxe
+Ametrine axe
+Ametrine hoe
+Ametrine helmet
+Ametrine chestplate
+Ametrine leggings
+Ametrine boots
+Ametrine 
+Ametrine dust
+Ruby ore
+Ruby block
+Ruby sand
+Ruby glass
+Sapphire ore
+Sapphire block
+Sapphire sand
+Sapphire glass
+Amethyst ore
+Amethyst block
+Amethyst sand
+Amethyst glass
+Topaz ore
+Topaz block
+Topaz sand
+Topaz glass
+Phoenixite ore
+Phoenixite block
+Phoenixite sand
+Phoenixite glass
+Jade ore
+Jade block
+Jade sand
+Jade glass
+Citrine ore
+Citrine block
+Citrine sand
+Citrine glass
+Garnet ore
+Garnet block
+Garnet sand
+Garnet glass
+Spinel ore
+Spinel block
+Spinel sand
+Spinel glass
+Onyx ore
+Onyx block
+Onyx sand
+Onyx glass
+Agate ore
+Agate block
+Agate sand
+Agate glass
+Malachite ore
+Malachite block
+Malachite sand
+Malachite glass
+Tourmaline ore
+Tourmaline block
+Tourmaline sand
+Tourmaline glass
+Chrysocolla ore
+Chrysocolla block
+Chrysocolla sand
+Chrysocolla glass
+Jasper ore
+Jasper block
+Jasper sand
+Jasper glass
+Ametrine ore
+Ametrine block
+Ametrine sand
+Ametrine glass
+Nether Agate Ore
+Nether Amethyst Ore
+Nether Sapphire Ore
+Nether Topaz Ore
+Nether Ruby Ore
+Nether Phoenixite Ore
+Nether Jade Ore
+Nether Citrine Ore
+Nether Garnet Ore
+Nether Spinel Ore
+Nether Onyx Ore
+Nether Malachite Ore
+Nether Tourmaline Ore
+Nether Chrysocolla Ore
+Nether Jasper Ore
+Nether Ametrine Ore
+Ruby Glass Pane
+Sapphire Glass Pane
+Amethyst Glass Pane
+Topaz Glass Pane
+Phoenixite Glass Pane
+Jade Glass Pane
+Citrine Glass Pane
+Garnet Glass Pane
+Spinel Glass Pane
+Onyx Glass Pane
+Agate Glass Pane
+Malachite Glass Pane
+Tourmaline Glass Pane
+Chrysocolla Glass Pane
+Jasper Glass Pane
+Ametrine Glass Pane
+Gems++ Items
+Gems++ Blocks

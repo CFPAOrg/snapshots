@@ -1,0 +1,2 @@
+tile.solarvillage.panel.name=Solar Panel
+message.solarvillage.panel.status=The panel has %dT/%dT. Generating %dT per tick.

@@ -1,0 +1,189 @@
+Ore Core
+Mixed Ore
+Compressed Coal Ore
+Compressed Iron Ore
+Compressed Gold Ore
+Compressed Lapis Ore
+Compressed Redstone Ore
+Compressed Emerald Ore
+Compressed Diamond Ore
+Compressed Aluminium Ore
+Compressed Amethyst Ore
+Compressed Copper Ore
+Compressed Iridium Ore
+Compressed Lead Ore
+Compressed Platinum Ore
+Compressed Quartz Ore
+Compressed Ruby Ore
+Compressed Sapphire Ore
+Compressed Silver Ore
+Compressed Tin Ore
+Compressed Uranium Ore
+Nether Coal Ore
+Nether Iron Ore
+Nether Gold Ore
+Nether Lapis Ore
+Nether Redstone Ore
+Nether Emerald Ore
+Nether Diamond Ore
+Nether Glowstone Ore
+End Coal Ore
+End Iron Ore
+End Gold Ore
+End Lapis Ore
+End Redstone Ore
+End Emerald Ore
+End Diamond Ore
+End Glowstone Ore
+Bones
+Fossil
+Fossil
+Fossil
+Fossil
+Fossil
+Fossil
+Fossil
+Nether Bones
+Nether Fossil
+Nether Fossil
+Nether Fossil
+Nether Fossil
+Nether Fossil
+Nether Fossil
+Nether Fossil
+End Bones
+End Fossil
+End Fossil
+End Fossil
+End Fossil
+End Fossil
+End Fossil
+End Fossil
+Experience Ore
+Nether Experience Ore
+End Experience Ore
+Polished Basalt
+Basalt
+Polished Marble
+Marble
+Polished Slate
+Slate
+Oil Slate
+Ashe Block
+Lava Crystal Block
+Lava Crystal Ore
+Loam Block
+Loam Bricks
+Meteor
+Lava infused Netherrack
+Gold Gravel Ore
+Iron Gravel Ore
+Nether Eye Block
+Nether Eye Block
+End Eye Block
+Netherrack Monster Egg
+End Stone Monster Egg
+Nether Aluminium Ore
+Nether Amethyst Ore
+Nether Copper Ore
+Nether Iridium Ore
+Nether Lead Ore
+Nether Platinum Ore
+Nether Ruby Ore
+Nether Sapphire Ore
+Nether Silver Ore
+Nether Tin Ore
+Nether Uranium Ore
+End Aluminium Ore
+End Amethyst Ore
+End Copper Ore
+End Iridium Ore
+End Lead Ore
+End Platinum Ore
+End Ruby Ore
+End Sapphire Ore
+End Silver Ore
+End Tin Ore
+End Uranium Ore
+Aluminium Ore
+Amethyst Ore
+Copper Ore
+Iridium Ore
+Lead Ore
+Platinum Ore
+Ruby Ore
+Sapphire Ore
+Silver Ore
+Tin Ore
+Uranium Ore
+Quartz Ore
+Fossil Stand
+Fossil Stand
+Fossil Stand
+Fossil Stand
+Fossil Stand
+Fossil Stand
+Fossil Stand
+Fossil Stand
+Fossil Stand
+Fossil
+Fossil
+Fossil
+Fossil
+Fossil
+Fossil
+Fossil
+Oil Paste
+Oil Bucket
+Ashe
+Lava Crystal
+Loam Ball
+Loam Brick
+Meteor
+Rock
+Coal Dust
+Iron Dust
+Gold Dust
+Lapis Dust
+Emerald Dust
+Diamond Dust
+Tiny Pile of Coal Dust
+Tiny Pile of Iron Dust
+Tiny Pile of Gold Dust
+Tiny Pile of Lapis Dust
+Tiny Pile of Emerald Dust
+Tiny Pile of Diamond Dust
+Emerald Sword
+Emerald Pickaxe
+Emerald Axe
+Emerald Shovel
+Emerald Hoe
+Lava Crystal Sword
+Lava Crystal Pickaxe
+Lava Crystal Axe
+Lava Crystal Shovel
+Lava Crystal Hoe
+Bone Helmet
+Bone Chestplate
+Bone Leggins
+Bone Boots
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggins
+Emerald Boots
+Lava Crystal Helmet
+Lava Crystal Chestplate
+Lava Crystal Leggins
+Lava Crystal Boots
+Aluminium Ingot
+Amethyst
+Copper Ingot
+Iridium
+Lead Ingot
+Platinum Ingot
+Ruby
+Sapphire
+Silver Ingot
+Tin Ingot
+Uranium
+Certus Quartz Crystal

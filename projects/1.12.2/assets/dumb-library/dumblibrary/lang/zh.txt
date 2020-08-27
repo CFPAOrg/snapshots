@@ -1,0 +1,19 @@
+Undo move
+Redo move
+Reset pose
+Editing pose of %s
+Angle around the %s axis:
+°
+No part selected ;c
+Selected part: %s
+Select a model part
+Rotate the camera
+Zoom
+Global Rotation:
+Controls
+Trackpad zoom
+Mouse wheel
+Middle click drag
+Left click
+Movement keys
+Arrow keys

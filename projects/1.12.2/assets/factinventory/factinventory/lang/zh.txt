@@ -1,0 +1,26 @@
+Inventory Interaction Module
+Inventory Hopper
+Fast Inventory Hopper
+Inventory Furnace
+Inventory Dropper
+Inventory Pump
+Inventory Items
+Hold §e§lSHIFT§r for input/output details
+Input
+Output
+Ingredients input
+Fuel inputs
+Products output
+Hold §e§lCTRL§r for smelting details
+Empty
+Smelting : %s
+Not burning
+Burn time remaining : %d ticks
+Hold §e§lCTRL§r for transfer details
+Empty
+Transferring : %s
+Transfer time remaining : %d ticks
+Hold §e§lCTRL§r for inventory details
+Empty
+Inventory : %s
+Drop time remaining : %d ticks

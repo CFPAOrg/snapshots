@@ -1,0 +1,17 @@
+Reel In
+Reel Out
+Fishing Made Better
+Reeling
+Fish Splashing
+Knife
+Fish Scale Remover
+Fish Bucket
+Fish Tracker
+Golden Fish Tracker
+Diamond Fish Tracker
+Basic Fishing Rod
+Iron Fishing Rod
+Diamond Fishing Rod
+Bait Box
+List of available Fishing Made Better commands
+/fishing reload

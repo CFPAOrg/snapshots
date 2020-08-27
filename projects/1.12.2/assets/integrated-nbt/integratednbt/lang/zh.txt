@@ -1,0 +1,46 @@
+Integrated NBT
+NBT Extractor
+NBT Extractor Remote
+Welcome
+This is a NBT Extractor. To start, place a variable of type NBT into the left slot.
+Loading
+Downloading content of this variable card...
+ERROR
+Failed to evaluate the provided variable.
+Variable in the left slot must have type NBT.
+An unexpected error occurred. It is likely due to errors of either IntegratedDynamics or IntegratedNBT.
+<empty>
+§e§l<root>
+Allows extraction of deeply nested values from a NBT typed variable.
+§eNBT Type: §r%s
+§eConverted Type: §r%s
+§eDefault Value: §r%s
+§8§o- Left click to extract this value
+§8§o- Right click to expand
+§8§o- Right click to collapse
+§cWaiting for server to confirm selection...
+§aPath selected! Place a variable into the right slot to receive its value.
+Output Mode: %s
+§eReference Mode
+§2Operator Mode
+§6Value Mode
+§7Output Mode controls how the output value is being created.\n\n§7- In §eReference Mode§7, output values are being created with a reference to the source NBT variable.\n§7- In §2Operator Mode§7, an operator that accepts NBT and returns the extracted value is created from the extraction process. The resulting operator is not related to the source NBT variable.\n§7- In §6Value Mode§7, the value present is written to the output variable as a constant.\n\n§7If you don't understand this, stick with §eReference Mode§7.
+Auto Refresh: %s
+§aON
+§cOFF
+§7Auto Refresh controls whether this NBT Extractor should automatically refresh the NBT tree when the source NBT variable is updated. You may freeze the current displaying NBT value by turning this option to §cOFF§7.
+§eExtract From: §r%s
+§eExtraction Path: §r%s
+§eDefault Value: §r%s
+Extraction
+NBT
+NBT Extraction
+Successfully bound remote to the NBT Extractor at (%s, %s, %s).
+Please right click a NBT Extractor block to bind this remote first.
+Previously bound NBT Extractor is not loaded on client-side. You need to be closer to the bound NBT Extractor. Chunk loading does NOT work.
+Previously bound NBT Extractor is not loaded on the server.
+Previously bound NBT Extractor is not in the same dimension.
+Previously bound NBT Extractor no longer exists. Please right click another NBT Extractor block to bind again.
+Allows remote access of a NBT Extractor.
+§eRight click a NBT Extractor to bind.
+§aBound to NBT Extractor at (%s, %s, %s) in dimension %s.

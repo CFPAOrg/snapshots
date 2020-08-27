@@ -1,0 +1,74 @@
+Bridge Pipe
+Type: Bridge
+ - Attaches to an %cYELLOW AE Bridge %cRESET %cGRAY or %cYELLOW RS Bridge %cRESET %cGRAY.
+ - Creates a bridge between AE or RS, and LP.
+ - Use a wrench to toggle default route mode.
+    This also enables the advanced bridging logic.
+Must be placed on the side of the Bridge block
+Added by %cBLUE Logistics Bridge
+Bridge
+Crafting Manager
+Type: AutoCrafting
+ - Doesn't need an inventory
+ - Can contain 27 Crafting modules with 2 Upgrade slots each.
+ - Install module upgrades by dropping them on the module slot.
+ - Used with a %cYELLOW Result Pipe %cRESET %cGRAY & %cYELLOW Satellite Pipe %cRESET %cGRAY
+Added by %cBLUE Logistics Bridge
+Crafting Manager
+Result Logistics Pipe
+Type: Item Source
+ - Attaches to an inventory
+ - Sends 16 items into the network to fulfill crafting requests.
+ - Used with a %cYELLOW Crafting Manager %cRESET %cGRAY.
+Added by %cBLUE Logistics Bridge
+Result
+Crafting Buffer Upgrade
+Uses attached chest to buffer crafting ingredients.
+Allows buffering ingredients until the machine is ready.
+Allows %cRED Redstone %cRESET %cGRAY Control of crafting.
+Dark red particles indicate blocked state.
+Added by %cBLUE Logistics Bridge
+Advanced Extraction Upgrade
+Works same as ItemStack Extraction Upgrade
+but works with %cYELLOW Bridge %cRESET %cGRAY and %cYELLOW Result Pipes
+Added by %cBLUE Logistics Bridge
+Crafting Manager Sign Creator
+Logistics Craft Token
+Empty Package
+Virtual Encoded Pattern
+Virtual Pattern
+Satellite Bus
+AE Bridge
+RS Bridge
+Crafting Manager
+Satellite Bus
+Crafting Manager
+Auto Craft token
+Requests %s from Logistics Pipes Network
+This item used for requesting & crafting logic. You have no use for it! Throw it away!
+Package Contains %s
+Package Template for %s
+Package Empty
+Satellite ID: %s
+%s to %s
+Bridge Pipe default route: %s
+%s Bridge mode switched to: %s
+Simple Mode
+Smart Mode
+Result Pipe ID
+Crafting Manager
+Open Config
+Pickup Upgrade from Slot #%d
+Default Satellite ID
+Result Pipe ID
+N/C
+Satellite ID
+Package Config
+Blocking Mode
+Off
+Off
+Wait for Completion
+Wait for Empty Inventory
+Redstone Active Low
+Redstone Active High
+Change

@@ -1,0 +1,42 @@
+Sterling Silver
+Rose Gold
+Bismuth
+Red Steel
+Blue Steel
+Black Steel
+Wrought Iron
+Platinum
+Zinc
+Nickel
+Bismuth Bronze
+Black Bronze
+Constantan
+Tungsten
+Tungsten Steel
+Titanium
+Osmium
+Aluminium
+Antimony
+Invar
+Nickel Silver
+Red Alloy
+Grout Knapping
+Brittle
+§oIt's meant to be broken!§r\nThe Tools is slowing losing durability
+Ferromagnetism
+§oIt's Magical§r\nBreaking Iron seems to give strange power
+Prospector Pickaxe
+ A tool used to find ore vein.
+Prospector Pickaxe Head
+Double Ingot Cast
+Double Sheet Cast
+Sheet Cast
+Scrap Cast
+Tuyere Cast
+Wire Cast
+Long Rod Cast
+Rackwheel Cast
+Rackwheel Piece Cast
+Blowpipe Cast
+Grout Ball
+Grout Brick

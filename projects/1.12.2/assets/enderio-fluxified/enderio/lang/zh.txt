@@ -1,0 +1,8 @@
+RF
+%s RF
+%s / %s RF
+%s RF/t
+Redstone Flux (%s)
+RF
+Remaining {0,number,percent}|{1,choice,0#|0<{1}m }{2,number}s|{3,number,#,###} RF
+Charges items with RF

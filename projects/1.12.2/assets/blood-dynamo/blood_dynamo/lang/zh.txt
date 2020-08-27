@@ -1,0 +1,30 @@
+English
+United States
+en_us
+Blood Dynamo
+Blood Dynamo
+Mixed Blood Dynamo
+Lemkin Tree
+Lemkin Tree
+Blood-tainted End Portal
+Cactus Block
+Compact String
+Compact Rotten Flesh
+Compact Gunpowder
+Compact Spider Eye
+Compact Arrow
+Compact Bone
+Lemkin
+Lemkin Juice
+Lemkin Sapling
+Stone Bush
+Shredded Lemkin
+Runic Gear
+NullPointerException@LivingOrb.upgrade()
+Orb of the Livings
+Bloodmeal
+Pure Blood
+Liquid Emerald
+Liquid Diamond
+Liquid Iron
+Liquid Gold

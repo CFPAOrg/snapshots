@@ -1,0 +1,34 @@
+English
+US
+en_US
+Cancel
+OK
+Reset
+RESET
+Activate On
+Allow extra keys
+Cancel further
+Context
+Exclusive
+Order Sensitive
+- Left click to configure\n- Right click to reset to defaults
+Advanced Keybind settings
+BOTH
+PRESS
+RELEASE
+Any
+GUI
+In-Game
+no
+yes
+All registered hotkeys
+Advanced Keybind Settings for %s
+Edit string list for '%s'
+Top Left
+Top Right
+Bottom Left
+Bottom Right
+Center
+Toggled %s %s
+OFF
+ON

@@ -1,0 +1,7 @@
+Muffling Options
+Range
+Private Mode: On
+Private Mode: Off
+Muffling Block
+Muffle Sounds
+Did you hear something?

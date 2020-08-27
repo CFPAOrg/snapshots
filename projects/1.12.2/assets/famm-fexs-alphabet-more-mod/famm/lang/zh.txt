@@ -1,0 +1,143 @@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+PLUS
+MINUS
+EMPTY
+Question Mark
+Exclamation Mark
+Point
+Point
+Comma
+Colon
+Space
+Stop
+Arrow (Right)
+Arrow (Left)
+Arrow (Up)
+Arrow (Down)
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+�
+�
+Happy (Face)
+Sad (Face)
+Angry (Face)
+Creeper (Face)
+Deco Block (1)
+Deco Block (2)
+Error
+Ink
+Empty Plate
+Painted Plate
+FAMM - Fex's Alphabet & More Mod
+(HB) A
+(HB) B
+(HB) C
+(HB) D
+(HB) E
+(HB) F
+(HB) G
+(HB) H
+(HB) I
+(HB) J
+(HB) K
+(HB) L
+(HB) M
+(HB) N
+(HB) O
+(HB) P
+(HB) Q
+(HB) R
+(HB) S
+(HB) T
+(HB) U
+(HB) V
+(HB) W
+(HB) X
+(HB) Y
+(HB) Z
+(HB) 0
+(HB) 1
+(HB) 2
+(HB) 3
+(HB) 4
+(HB) 5
+(HB) 6
+(HB) 7
+(HB) 8
+(HB) 9
+(HB) PLUS
+(HB) MINUS
+(HB) EMPTY
+(HB) Question Mark
+(HB) Exclamation Mark
+(HB) Point
+(HB) Point
+(HB) Comma
+(HB) Colon
+(HB) Space
+(HB) Stop
+(HB) Arrow (Right)
+(HB) Arrow (Left)
+(HB) Arrow (Up)
+(HB) Arrow (Down)
+(HB) I
+(HB) II
+(HB) III
+(HB) IV
+(HB) V
+(HB) VI
+(HB) VII
+(HB) VIII
+(HB) IX
+(HB) X
+(HB) �
+(HB) �
+(HB) Happy (Face)
+(HB) Sad (Face)
+(HB) Angry (Face)
+(HB) Creeper (Face)
+(HB) Deco Block (1)
+(HB) Deco Block (2)

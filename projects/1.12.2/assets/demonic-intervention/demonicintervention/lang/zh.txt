@@ -1,0 +1,73 @@
+Demonic Intervention
+Debugging Tool
+Essence Collector
+Collected Essence
+Blessed Garlic Charm
+Umbrella
+Garlic Sword
+Garlic
+Golden Chalice
+Blood Collector
+Pure Essence
+Condensed Purity
+Evil Essence
+Condensed Evil
+Bottle of Blood
+Karma Reader
+Karma Extractor
+Angel Feather
+Demonic Pedestal
+Ritual Block
+Soul Cleaner
+Nether Flower
+Evil Block
+Pure Block
+Extremely useful against Vampires, only works in Baubles slot.
+A garlic a day keeps the Vampires away!
+Must be held in main hand. OFFHAND MUST BE EMPTY
+Curse of Vampirism
+Infusion of the Feather
+Vampire Hunter
+Added %1$s
+Removed %1$s
+Infusion Set: %1$s
+Blood Level: %1$s
+Blood of: 
+Needs glass bottles to put blood in
+An empty chalice
+Chalice filled with blood.
+Chalice full of bubbling blood. Drink this to become a vampire.
+Essence of 
+Right click to turn into karma.
+Shift right click to use whole stack.
+Must be held in main hand. OFFHAND MUST BE EMPTY
+A garlic a day keeps the Vampires away!
+Extremely useful against Vampires, only works in Baubles slot.
+You failed to collect the target entity's essence, and they noticed!
+A player tried to collect your essence, watch your back!
+You gain no nourishment from the blood of another Vampire.
+You tried drinking the blood of a normal Vampire, it didn't taste very good.
+Your body is not yet ready. More preparations must be done.
+You feel powerful. Your days as a mortal man are finished.
+Karma Gained: %1$s
+Your current Karma level is 
+You did not have enough Karma for this! It has failed.
+There is a conflicting Infusion/Curse not allowing you to do this.
+You are now an official Vampire Hunter
+Your Karma is too high for this! It has failed.
+You had an Infusion that needed a biological body. It has been removed.
+You do not have the right level of Karma to interact with this.
+The Ritual structure is not yet in place.
+You have grown tired and will not be able to fly for 20 seconds\
+Removed all infusions, curses, and cleared all Karma.
+There was no existing infusions or curses.
+Tier: %1$s
+Current Karma: %1$s , Karma needed: %2$s
+The Chalice in your inventory caught some of the blood as you slayed them. It now bubbles softly.
+The Flower Speaks to You: "Good, you have taken the leap. Now use the shining heart of a beast so foul to kill another of your kind, then drink of its blood from a golden chalice to attain the true power you seek."
+You feel as light as a feather.
+WARNING: There is a Vampire nearby!
+ALPHA WARNING: There is an Alpha Vampire nearby!
+%1$s was burnt to a crisp by the sun.
+%1$s the Vampire has fallen.
+%1$s just realized just how weak Vampires are to fire.

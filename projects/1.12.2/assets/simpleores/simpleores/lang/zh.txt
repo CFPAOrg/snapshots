@@ -1,0 +1,107 @@
+Copper Ore
+Block of Copper
+Tin Ore
+Block of Tin
+Mythril Ore
+Block of Mythril
+Adamantium Ore
+Block of Adamantium
+Onyx Ore
+Block of Onyx
+Copper Ingot
+Tin Ingot
+Mythril Ingot
+Adamantium Ingot
+Onyx
+Copper Bucket
+Copper Bucket of Water
+Mythril Rod
+Onyx Rod
+Copper Pickaxe
+Copper Axe
+Copper Shovel
+Copper Sword
+Copper Hoe
+Tin Pickaxe
+Tin Axe
+Tin Shovel
+Tin Sword
+Tin Hoe
+Mythril Pickaxe
+Mythril Axe
+Mythril Shovel
+Mythril Sword
+Mythril Hoe
+Adamantium Pickaxe
+Adamantium Axe
+Adamantium Shovel
+Adamantium Sword
+Adamantium Hoe
+Onyx Pickaxe
+Onyx Axe
+Onyx Shovel
+Onyx Sword
+Onyx Hoe
+Mythril Bow
+Onyx Bow
+Copper Shears
+Tin Shears
+Mythril Shears
+Adamantium Shears
+Onyx Shears
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Tin Helmet
+Tin Chestplate
+Tin Leggings
+Tin Boots
+Mythril Helmet
+Mythril Chestplate
+Mythril Leggings
+Mythril Boots
+Adamantium Helmet
+Adamantium Chestplate
+Adamantium Leggings
+Adamantium Boots
+Onyx Helmet
+Onyx Chestplate
+Onyx Leggings
+Onyx Boots
+Welcome to SimpleOres!
+Neither Gold nor Iron
+Begin your SimpleOres adventure by mining copper ore.
+Not Silver
+Mine some tin ore.
+Ooh, Pretty!
+Dig deep to mine some mythril Ore
+Green is Good
+Dig just as deep to mine adamantium ore
+Ninja Ore
+Finding some onyx ore. Good luck!
+Upgrade II?
+I guess it's better than Stone...
+Caution: Don't Use On Lava
+Save your Iron, make a bucket with Copper!
+White Knight
+Seems impractical, but give it a try
+Who Would Ever Use These?
+Because normal shears obviously last too long
+Now We're Talking
+Craft a mythril axe for a significant improvement over iron.
+Mystical Bow
+Forge a new bow with magical properties
+Suit Up
+Stand out from the crowd with a stylish pair of adamantium leggings!
+Endless Sheep Shearing
+Finally, shears that don't break instantly!
+Sheer, Absolute Ownage
+Craft an onyx sword. Your enemies will tremble in fear
+Firebug
+Scorch your enemies with this onyx bow straight from the Hells
++Damage
++Flame
++Knockback
++Zoom
++Efficiency

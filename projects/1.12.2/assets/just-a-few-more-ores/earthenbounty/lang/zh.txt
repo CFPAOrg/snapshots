@@ -1,0 +1,53 @@
+Salt Cube
+Copper Ore
+Tin Ore
+Block of Bronze
+Mithril Ore
+Block of Mithril
+Platinum Ore
+Block of Platinum
+Salt Ore
+Sulfur Ore
+Black Diamond Ore
+Block of Black Diamond
+Jerky
+Copper and Tin
+Bronze Ingot
+Mithril Ingot
+Platinum Ingot
+Salt
+Black Diamond
+Bronze Chestplate
+Bronze Helmet
+Bronze Leggings
+Bronze Boots
+Bronze Sword
+Bronze Axe
+Bronze Pickaxe
+Bronze Shovel
+Bronze Hoe
+Mithril Chestplate
+Mithril Helmet
+Mithril Leggings
+Mithril Boots
+Mithril Sword
+Mithril Axe
+Mithril Pickaxe
+Mithril Shovel
+Mithril Hoe
+Black Diamond Chestplate
+Black Diamond Helmet
+Black Diamond Leggings
+Black Diamond Boots
+Black Diamond Sword
+Black Diamond Axe
+Black Diamond Pickaxe
+Black Diamond Shovel
+Black Diamond Hoe
+Platinum Crown
+Platinum Helmet
+Platinum Chestplate
+Platinum Leggings
+Platinum Boots
+Sulfur
+A new update is available for %s

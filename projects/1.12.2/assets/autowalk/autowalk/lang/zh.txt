@@ -1,0 +1,4 @@
+Auto Key
+Auto Pick
+Auto Walk
+Auto Jump

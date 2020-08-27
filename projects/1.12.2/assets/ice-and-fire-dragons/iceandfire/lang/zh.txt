@@ -1,0 +1,1006 @@
+Ice And Fire Items
+Ice And Fire Blocks
+Empty
+Lectern
+Podium
+Oak Podium
+Spruce Podium
+Birch Podium
+Jungle Podium
+Acacia Podium
+Dark Oak Podium
+Fire Lily
+Frost Lily
+Pile of Gold
+Pile of Silver
+Silver Ore
+Sapphire Ore
+Silver Block
+Sapphire Block
+Charred Dirt
+Charred Grass
+Charred Stone
+Charred Cobblestone
+Charred Gravel
+Charred Grass Path
+Ash
+Frozen Dirt
+Frozen Grass
+Frozen Stone
+Frozen Cobblestone
+Frozen Gravel
+Frozen Grass Path
+Frozen Splinters
+Dragon Ice
+Dragon Ice Spikes
+Frozen Dragon Egg
+Brown Mushroom Pixie Hovel
+Red Mushroom Pixie Hovel
+Birch Pixie Hovel
+Oak Pixie Hovel
+Dark Oak Pixie Hovel
+Spruce Pixie Hovel
+Jar
+Pixie Jar
+Pink Pixie Jar
+Purple Pixie Jar
+Blue Pixie Jar
+Green Pixie Jar
+Yellow Pixie Jar
+Dragon Nest
+Block of Dragon Scales
+Block of Dragon Bones
+Dragon Bone Wall
+Block of Sea Serpent Scales
+Dragonforge Fire Brick
+Dragonforge Fire Core
+Dragonforge Fire Aperture
+Dragonforge Ice Brick
+Dragonforge Ice Core
+Dragonforge Ice Aperture
+Block of Fire Dragonsteel
+Block of Ice Dragonsteel
+Desert Myrmex Resin
+Sticky Desert Myrmex Resin
+Jungle Myrmex Resin
+Sticky Jungle Myrmex Resin
+Desert Myrmex Cocoon
+Jungle Myrmex Cocoon
+Desert Myrmex Bioluminescence
+Jungle Myrmex Bioluminescence
+Hardened Desert Myrmex Resin
+Hardened Jungle Myrmex Resin
+Desert Myrmex Resin Glass
+Jungle Myrmex Resin Glass
+Dreadstone
+Dreadstone Bricks
+Chiseled Dreadstone Bricks
+Cracked Dreadstone Bricks
+Mossy Dreadstone Bricks
+Dreadstone Chiseled Skull
+Dreadstone Tile
+Dreadstone Torch
+Burnt Out Torch
+Dreadstone Bricks Slab
+Dreadstone Bricks Stairs
+Dreadwood Log
+Dreadwood Planks
+Dreadwood Keyhole
+Dread Lands Portal
+Dreadstone Mob Spawner
+Bestiary
+Manuscript
+Sapphire
+Silver Ingot
+Silver Nugget
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Silver Pickaxe
+Silver Sword
+Silver Axe
+Silver Shovel
+Silver Hoe
+Fire Lily Mixture
+Frost Lily Mixture
+Dragon Egg
+Dragon Scales
+Increased protection from dragon breath attacks
+Dragon Scale Helmet
+Dragon Scale Chestplate
+Dragon Scale Leggings
+Dragon Scale Boots
+Dragon Bone
+Witherbone
+Fishing Spear
+Witherbone Shard
+Dragon Bone Sword
+Dragon Bone Shovel
+Dragon Bone Pickaxe
+Dragon Bone Axe
+Dragon Bone Hoe
+Flamed Dragon Bone Sword
+Iced Dragon Bone Sword
+Dragon Bone Arrow
+Dragon Bone Bow
+Dragon Skull
+Iron Dragon Armor
+Gold Dragon Armor
+Diamond Dragon Armor
+Silver Dragon Armor
+Fire Dragonsteel Dragon Armor
+Ice Dragonsteel Dragon Armor
+Dragon Meal
+Fire Dragon Flesh
+Ice Dragon Flesh
+Fire Dragon Heart
+Ice Dragon Heart
+Fire Dragon Blood
+Ice Dragon Blood
+Dragon Command Staff
+Dragon Horn
+Dragon Horn
+Dragon Horn
+Dragon Bone Flute
+Hippogryph Egg
+Iron Hippogryph Armor
+Gold Hippogryph Armor
+Diamond Hippogryph Armor
+Gorgon Head
+Stone Statue
+Blindfold
+Pixie Dust
+Ambrosia
+Sheep Disguise Helmet
+Sheep Disguise Chestplate
+Sheep Disguise Leggings
+Sheep Disguise Boots
+Shiny Scales
+Earplugs
+Apple AirPods
+Oh my God Steve has AirPods in he cant hear us!
+Tan Death Worm Chitin
+White Death Worm Chitin
+Red Death Worm Chitin
+Tan Death Worm Chitin Helmet
+Tan Death Worm Chitin Chestplate
+Tan Death Worm Chitin Leggings
+Tan Death Worm Chitin Boots
+White Death Worm Chitin Helmet
+White Death Worm Chitin Chestplate
+White Death Worm Chitin Leggings
+White Death Worm Chitin Boots
+Red Death Worm Chitin Helmet
+Red Death Worm Chitin Chestplate
+Red Death Worm Chitin Leggings
+Red Death Worm Chitin Boots
+Death Worm Egg
+Giant Death Worm Egg
+Rotten Egg
+Stymphalian Bird Feather
+Stymphalian Arrow
+The metallic fletching enables the arrow to soar like a bird.
+Troll's Axe
+Troll's Stone Column
+Troll's Mossy Column
+Troll's Frosted Col
+Troll's Hammer
+Troll's Tree Trunk
+Troll's Frosted Tree Trunk
+Troll Tusk
+Forest Troll Leather
+Frost Troll Leather
+Mountain Troll Leather
+Forest Troll Leather Helmet
+Forest Troll Leather Chestplate
+Forest Troll Leather Leggings
+Forest Troll Leather Boots
+Frost Troll Leather Helmet
+Frost Troll Leather Chestplate
+Frost Troll Leather Leggings
+Frost Troll Leather Boots
+Mountain Troll Leather Helmet
+Mountain Troll Leather Chestplate
+Mountain Troll Leather Leggings
+Mountain Troll Leather Boots
+-10%% Projectile Damage
+-30%% Projectile Damage
+-20%% Projectile Damage
+-10%% Projectile Damage
+Sickly Dragon Meal
+Stunts dragon growth
+Desert Myrmex Egg
+Jungle Myrmex Egg
+Desert Myrmex Resin Chunk
+Jungle Myrmex Resin Chunk
+Desert Myrmex Chitin
+Jungle Myrmex Chitin
+Myrmex Stinger
+Desert Myrmex Staff
+Jungle Myrmex Staff
+Desert Myrmex Chitin Sword
+Jungle Myrmex Chitin Sword
+Desert Myrmex Chitin Pickaxe
+Jungle Myrmex Chitin Pickaxe
+Desert Myrmex Chitin Axe
+Jungle Myrmex Chitin Axe
+Desert Myrmex Chitin Shovel
+Jungle Myrmex Chitin Shovel
+Desert Myrmex Chitin Hoe
+Jungle Myrmex Chitin Hoe
+Desert Myrmex Stinger Sword
+Jungle Myrmex Stinger Sword
+Desert Myrmex Chitin Helmet
+Desert Myrmex Chitin Chestplate
+Desert Myrmex Chitin Leggings
+Desert Myrmex Chitin Boots
+Jungle Myrmex Chitin Helmet
+Jungle Myrmex Chitin Chestplate
+Jungle Myrmex Chitin Leggings
+Jungle Myrmex Chitin Boots
+Amphithere Feather
+Amphithere Arrow
+Knocks all mobs back with the power of an ampithere's wings!
+Sea Serpent Fang
+Sea Serpent Scales
+Sea Serpent Scales
+Sea Serpent Scales
+Sea Serpent Scales
+Sea Serpent Scales
+Sea Serpent Scales
+Sea Serpent Scales
+Tide Guardian Helmet
+Tide Guardian Chestplate
+Tide Guardian Leggings
+Tide Guardian Boots
+Tide Arrow
+Not Inundated by water!
+Provides Water Breathing
+Provides Strength when wet, increasing levels with full set
+Iron Chain Link
+Iron Chain
+Similar to a lead, can be tied to wall blocks
+Cannot be broken, Can be used on most mobs
+Sticky Iron Chain
+Used to connect two chained mobs
+Loses stickiness after use
+Creative Dragon Meal
+Instantly tame any Dragon
+Creative Mode Only
+Fire Dragonsteel Ingot
+Fire Dragonsteel Sword
+Fire Dragonsteel Axe
+Fire Dragonsteel Pickaxe
+Fire Dragonsteel Shovel
+Fire Dragonsteel Hoe
+Fire Dragonsteel Helmet
+Fire Dragonsteel Chestplate
+Fire Dragonsteel Leggings
+Fire Dragonsteel Boots
+Ice Dragonsteel Ingot
+Ice Dragonsteel Sword
+Ice Dragonsteel Axe
+Ice Dragonsteel Pickaxe
+Ice Dragonsteel Shovel
+Ice Dragonsteel Hoe
+Ice Dragonsteel Helmet
+Ice Dragonsteel Chestplate
+Ice Dragonsteel Leggings
+Ice Dragonsteel Boots
+Pixie Wings
+§6Rare drop§r
+§6Legendary Weapon
+Death Worm Tongue
+§6Rare drop§r
+Death Worm Gauntlet
+Death Worm Gauntlet
+Death Worm Gauntlet
+Lashes target with its tongue for 3 damage
+Pulls target to player
+Pixie Wand
+Shoots a magic charge that deals 5 damage and makes target levitate
+Uses Pixie Dust as Ammunition
+Myrmex Swarm
+Myrmex Swarm
+Summons 5 Myrmex Swarmers that will defend you for 30 seconds
+Single Use Only
+Hippogryph Talon
+§6Rare drop§r
+Hippogryph Talon Sword
+Always slashes target, dealing extra damage
+Eye of Cyclops
+Area of Effect Weapon
+Inflicts weakness to all nearby hostiles when held
+Cockatrice Eye
+§6Rare drop§r
+Cockatrice Scepter
+Withers target when used
+Can target multiple close entities
+Siren Tear
+§6Rare drop§r
+Siren Flute
+Makes targets fall in love for 10 seconds
+Mobs in love will not be able to attack
+Hippocampus Fin
+§6Rare drop§r
+Hippocampus Slapper
+§dComical Weapon§r
+Dazes and slows targets; it's quite confusing to be hit with a fish tail
+Stymphalian Bird Feather Bundle
+Launches sharp feathers in 8 directions around the user
+Stymphalian Bird Dagger
+Extremely fast attack speed
+Amphithere Macuahuitl
+Knocks entities up and back
+Disables shields
+Tide Trident
+Very strong trident weapon
+Pierces through multiple enemies
+Hippogryph Skull
+Cyclops Skull
+Cockatrice Skull
+Stymphalian Bird Skull
+Troll Skull
+Amphithere Skull
+Sea Serpent Skull
+Hydra Skull
+Dread Thrall's Sword
+Dread Knight's Sword
+Dread Lich Staff
+Blade of the Dreaded Queen
+Staff of the Dreaded Queen
+Weezer
+Weezer
+Dragon Debug Stick
+For developer use only...
+Dread Shard
+§bGravemaster's Key§r
+Hydra Fang
+Hydra Heart
+When in hotbar, gives increasing regeneration
+based on how injured the holder is
+Hydra Arrow
+Poisons and leeches life from target
+Ice Dragon Summoning Crystal
+Fire Dragon Summoning Crystal
+Right click on a dragon to bind it
+Use when bound to teleport dragon
+Bound to %s
+Fire Dragon
+Ice Dragon
+Dragon Egg
+Dragon Bone Arrow
+Dragon Skull
+Dragon Fire
+Dragon Fire Charge
+Dragon Ice
+Dragon Ice Charge
+Snow Villager
+Craftsman
+Fisherman
+Shaman
+Hippogryph
+Black Hippogryph
+Brown Hippogryph
+Chestnut Hippogryph
+Cream Hippogryph
+Dark Brown Hippogryph
+Gray Hippogryph
+White Hippogryph
+Frosty Hippogryph
+Firey Hippogryph
+Dodo Hippogryph
+Player
+Stone Statue
+Gorgon
+Pixie
+Pink Pixie
+Purple Pixie
+Blue Pixie
+Green Pixie
+Yellow Pixie
+Cyclops
+Siren
+Hippocampus
+Death Worm
+Death Worm Egg
+Cockatrice
+Cockatrice Egg
+Stymphalian Bird
+Stymphalian Bird Feather
+Stymphalian Arrow
+Troll
+Myrmex Worker
+Myrmex Soldier
+Myrmex Queen
+Myrmex Sentinel
+Myrmex Royal
+Myrmex Egg
+Amphithere
+Sea Serpent
+Chain
+Pixie Wand Beam
+Myrmex Swarmer
+Tide Trident
+Skull
+Dread Thrall
+Dread Ghoul
+Dread Beast
+Dread Scuttler
+Dread Lich
+Dread Lich Skull
+Dread Knight
+Dread Knight Horse
+Black Frost
+Dread Queen
+Hydra
+Hydra Breath
+Hydra Arrow
+Blue
+Bronze
+Deep Blue
+Green
+Purple
+Red
+Teal
+Red
+Emerald
+Bronze
+Gray
+Blue
+Sapphire
+Silver
+White
+Stage 
+Fire
+Ice
+Name: 
+Unnamed
+Health: 
+Gender: 
+Male
+Female
+Hunger: 
+Owner: 
+Wild
+Head
+Neck
+Body
+Tail
+Hatches in:
+(
+Days)
+This dragon is staying.
+This dragon is wandering.
+This dragon is escorting you.
+This dragon's home position has been set to %d, %d, %d.
+This dragon's home position was removed.
+This hippogryph is staying.
+This hippogryph is wandering.
+This hippogryph's home position has been set to %d, %d, %d.
+This hippogryph's home position was removed.
+This cockatrice is wandering.
+This cockatrice is sitting.
+This cockatrice is following.
+This cockatrice is patrolling.
+This cockatrice's home position was removed.
+This cockatrice's home position has been set to %d, %d, %d.
+You have raised your reputation with this Myrmex Colony by %d, to %d.
+§cYou have lowered your reputation with this Myrmex Colony by %d, to %d.
+This Myrmex Colony is now neutral towards you.
+§cThis Myrmex Colony is now hostile towards you.
+This Myrmex Colony is now willing to trade with you.
+§cThis Myrmex Colony will now refuse to trade with you.
+You can now use a Myrmex Staff on this colony.
+§cYou can no longer use a Myrmex Staff on this colony.
+This Rouge Myrmex does not have a hive!
+Staff set to %d's Colony, centered at %d, %d, %d.
+Staff set to this Myrmex's Colony, centered at %d, %d, %d.
+§cThis staff is already set to this colony!
+§cThis staff is not set to any Myrmex Colony.
+Bound to colony at
+Not bound to any colony
+%d's Colony
+Myrmex Colony
+Colony Opinion: %d
+Rooms:
+Food Room (%d, %d, %d)
+Nursery Room (%d, %d, %d)
+Misc Room (%d, %d, %d)
+Entrance Surface (%d, %d, %d)
+Entrance Bottom (%d, %d, %d)
+Delete
+Enable Reproduction
+Disable Reproduction
+Create Food Room
+Create Nursery Room
+Create Misc Room
+Create Entrance(Surface)
+Create Entrance(Bottom)
+Creating new room at (%d, %d, %d)
+§cThere is already a room at this location§r(%d, %d, %d)!
+Added a food room at this location(%d, %d, %d)
+Added a nursery room at this location(%d, %d, %d)
+Added a misc room at this location(%d, %d, %d)
+Added a Entrance(bottom) room at this location(%d, %d, %d)
+Added a Entrance(surface) room at this location(%d, %d, %d)
+Worker
+Soldier
+Queen
+Royal
+Sentinel
+This amphithere's home position has been set to %d, %d, %d.
+This amphithere is wandering.
+This amphithere is sitting.
+This amphithere is following.
+Cannot add pages
+Costs:
+%s Manuscripts
+Contains:
+Hold §e[SHIFT]§r§7 to view contents
+Introduction
+Fire Dragon
+Fire Dragon Eggs
+Ice Dragon
+Ice Dragon Eggs
+Dragon Materials
+Blood Alchemy
+Snow Villagers
+Tamed Dragons
+Hippogryphs
+Gorgons
+Pixies
+Cyclopes
+Sirens
+Hippocampi
+Death Worms
+Cockatrices
+Stymphalian Birds
+Trolls
+Myrmex
+Amphitheres
+Sea Serpents
+Dragon Forge
+Hydra
+The Undead
+No new information can be added.
++2 damage against undead
++4 damage against non-arthropods and deathworms
+poisons for 10 seconds
++8 damage against Ice Dragons
+Ignites and knocks back targets
++8 damage against Fire Dragons
+Freezes targets
+This dragon is now Wandering.
+This dragon is now Following.
+This dragon is now Staying.
+This dragon is now Sleeping.
+The dragon known as
+This dragon has been teleported.
+§cCould not find a dragon bound to this crystal.
+ is now Wandering.
+ is now Following.
+ is now Staying.
+ is now Sleeping.
+This dragon has grown to Stage 
+!
+ has grown to Stage 
+was split in two by a dragon
+was torn to shreds by a dragon
+was devoured by a dragon
+was turned into KFC by a dragon
+was incinerated by a dragon
+was turned to ash by a dragon
+was frozen by a dragon
+was turned to ice by a dragon
+was put into suspended animation by a dragon
+was turned to stone by a gorgon
+was turned into gorgonzola by a gorgon
+was solidified by a gorgon
+Dragon Strike
+Dragon Breath
+Dragon Down
+Change 3rd person camera for dragon
+Mythological Creature, Legendary Being, Cryptid, Fearsome Critter
+Dragon
+Ice and Fire
+Enter a world of magical creatures
+Book of Monsters
+Using 3 manuscripts found in dungeons, create a bestiary
+Would you Like to Know More?
+Craft a lectern to learn more about the world of Ice and Fire
+Dragonslayer
+Kill an ice dragon or a fire dragon
+Mother of Dragons
+Obtain a dragon egg
+Dragon Commander
+Craft a dragon command staff to control your dragons
+The Song of the Dragons
+Craft a dragon flute to stop runaway dragons
+An Ear-Shattering Roar
+Craft a dragon horn to store dragons
+Dragon Growth Hormone
+Create Dragon Meal to rapidly grow baby dragons
+Splintering II
+Craft a tool made of dragon bone
+A Flaming Sword
+Create the legendary fire or ice dragon weapon
+Another Brick in the Wall
+Create a dragon forge brick
+The Heart and the Flame
+Create a dragon forge core
+Forged in Flame
+Create a dragonsteel ingot from dragon blood and iron
+Draconic Evolution
+Create a weapon from dragonsteel
+Buck Beak
+Tame a hippogryph by dropping rabbit feet near it
+Clash of the Titans
+Obtain the gorgons head, a weapon that turns any who look at it to stone
+Here Comes Your Man
+Befriend a pixie by dropping cake near it
+Surfer Rosa
+Trap a pixie in a jar to farm the dust
+Where Is My Mind?
+Create the legendary pixie weapon
+Rotten to the Core
+Obtain a rotten egg
+Stay Out of my Peripheral!
+Tame a cockatrice from an egg or by staring at it repeatedly
+My Name is Nobody
+Defeat a cyclops
+Tie me to the Mast
+Resist her song and kill a siren
+Free Willy
+Tame a hippocampus by feeding it sponges
+The Desert Swimmers
+Kill a death worm. Pro tip: they love to eat TNT!
+Paul Atreides
+Obtain a death worm egg
+Herc was on a Roll!
+Kill a stymphalian bird
+Flying Forwards
+Craft an arrow from stymhalian bird feathers that flies further
+They Have a Cave Troll!
+Kill a troll
+The Only Good Bug...
+Obtain myrmex chitin from a slain myrmex
+Its Like Printing my Own Money!
+Obtain myrmex resin, the currency of the myrmex
+Jungle Fliers
+Tame a amphithere by shooting it down and riding it
+Sea of Monsters
+Slay a sea serpent.
+Poseidon, God of the Seas
+Throw a tide trident at a mob
+Suit Up
+Obtain dragon armor
+The Twelve Labors of Hercules
+Slay a hydra.
+Fire Dragon Forge
+Ice Dragon Forge
+Has a unique banner pattern!
+Obtained by interacting with a dragon corpse while holding an empty bottle.
+Obtained by interacting with a dragon corpse while holding an empty bottle.
+Place in an open flame if a fire dragon or underwater if ice dragon and wait a long time. The dragon will bond with the closest player.
+Can be placed on the ground or on walls as a trophy.
+Can be placed on the ground or on walls as a trophy.
+Can be placed on the ground or on walls as a trophy.
+Can be placed on the ground or on walls as a trophy.
+Can be placed on the ground or on walls as a trophy.
+Can be placed on the ground or on walls as a trophy.
+Can be placed on the ground or on walls as a trophy.
+Can be placed on the ground or on walls as a trophy.
+Can be placed on the ground or on walls as a trophy.
+Used to breed two male and female dragons. The female will create a nest with an egg afterwards.
+Used to breed two male and female dragons. The female will create a nest with an egg afterwards.
+Dragon Bone
+Splintering II
+A souvenir for your enemies!§r\nHits them more to deal more damage.
+Fractured II
+Hurt!§r\nYour tools damage is increased.
+Splitting II
+Two for one!§r\The sudden acceleration of releasing an arrow cause it to split into two.
+Three for one!§r\The sudden acceleration of releasing an arrow cause it to split into three.
+Desert Myrmex Chitin
+Jungle Myrmex Chitin
+Fire Dragonsteel
+Ice Dragonsteel
+Hive Defender
+For Queen and Colony!§r\nDeals +8 extra damage against death worms and +4 damage against non-arthropods.
+Inferno II
+Burn baby burn!§r\nSets enemies on fire for 15 seconds with added knockbacks, and deals additional dragon flame damage.
+Blizzard II
+Ice-ice baby!§r\nFreezes enemies in a block of ice for 15 seconds with added knockback, and deals additional dragon frost damage.
+Inferno
+Burn baby burn!§r\nSets enemies on fire for 10 seconds, and deals additional dragon flame damage.
+Blizzard
+Ice-ice baby!§r\nFreezes enemies in a block of ice for 10 seconds, and deals additional dragon frost damage.
+Stymphalian Bird Feather
+Anti-Gravity
+Onwards!§r\nThe arrow will maintain its height and will not be effected by gravity for the duration of the flight. Where you aim, it flies.
+Amphithere Feather
+Flying Knockback
+Up and At 'Um!§r\nThe arrow will inflict strong knockback when it hits an entity.
+Molten Fire Dragonsteel
+Molten Ice Dragonsteel
+Weezer
+Undone
+"If you want to destroy my sweater..."§r\nTargets wearing armor have a 30% chance of their armor being removed from a critical strike.
+Surf Wax America
+"You take your car to work, I'll take my board...:"§r\nDeals an additional 5 damage when players are riding a mount.
+In The Garage
+"In the garage where I belong..."§r\nDeals an additional 5 damage when player is not in direct sunlight.
+White Fire Dragon
+Orange Fire Dragon
+Magenta Fire Dragon
+Light Blue Fire Dragon
+Yellow Fire Dragon
+Lime Fire Dragon
+Pink Fire Dragon
+Gray Fire Dragon
+Silver Fire Dragon
+Cyan Fire Dragon
+Purple Fire Dragon
+Blue Fire Dragon
+Brown Fire Dragon
+Green Fire Dragon
+Red Fire Dragon
+Black Fire Dragon
+White Ice Dragon
+Orange Ice Dragon
+Magenta Ice Dragon
+Light Blue Ice Dragon
+Yellow Ice Dragon
+Lime Ice Dragon
+Pink Ice Dragon
+Gray Ice Dragon
+Silver Ice Dragon
+Cyan Ice Dragon
+Purple Ice Dragon
+Blue Ice Dragon
+Brown Ice Dragon
+Green Ice Dragon
+Red Ice Dragon
+Black Ice Dragon
+White Fire Dragon Head 
+Orange Fire Dragon Head 
+Magenta Fire Dragon Head 
+Light Blue Fire Dragon Head
+Yellow Fire Dragon Head 
+Lime Fire Dragon Head 
+Pink Fire Dragon Head 
+Gray Fire Dragon Head 
+Silver Fire Dragon Head 
+Cyan Fire Dragon Head 
+Purple Fire Dragon Head 
+Blue Fire Dragon Head 
+Brown Fire Dragon Head 
+Green Fire Dragon Head 
+Red Fire Dragon Head 
+Black Fire Dragon Head 
+White Ice Dragon Head 
+Orange Ice Dragon Head 
+Magenta Ice Dragon Head 
+Light Blue Ice Dragon Head 
+Yellow Ice Dragon Head 
+Lime Ice Dragon Head 
+Pink Ice Dragon Head 
+Gray Ice Dragon Head 
+Silver Ice Dragon Head 
+Cyan Ice Dragon Head 
+Purple Ice Dragon Head 
+Blue Ice Dragon Head 
+Brown Ice Dragon Head 
+Green Ice Dragon Head 
+Red Ice Dragon Head 
+Black Ice Dragon Head 
+White Gorgon
+Orange Gorgon
+Magenta Gorgon
+Light Blue Gorgon
+Yellow Gorgon
+Lime Gorgon
+Pink Gorgon
+Gray Gorgon
+Silver Gorgon
+Cyan Gorgon
+Purple Gorgon
+Blue Gorgon
+Brown Gorgon
+Green Gorgon
+Red Gorgon
+Black Gorgon
+White Fae
+Orange Fae
+Magenta Fae
+Light Blue Fae
+Yellow Fae
+Lime Fae
+Pink Fae
+Gray Fae
+Silver Fae
+Cyan Fae
+Purple Fae
+Blue Fae
+Brown Fae
+Green Fae
+Red Fae
+Black Fae
+White Hippogryph Head
+Orange Hippogryph Head
+Magenta Hippogryph Head
+Light Blue Hippogryph Head
+Yellow Hippogryph Head
+Lime Hippogryph Head
+Pink Hippogryph Head
+Gray Hippogryph Head
+Silver Hippogryph Head
+Cyan Hippogryph Head
+Purple Hippogryph Head
+Blue Hippogryph Head
+Brown Hippogryph Head
+Green Hippogryph Head
+Red Hippogryph Head
+Black Hippogryph Head
+White Hippocampus
+Orange Hippocampus
+Magenta Hippocampus
+Light Blue Hippocampus
+Yellow Hippocampus
+Lime Hippocampus
+Pink Hippocampus
+Gray Hippocampus
+Silver Hippocampus
+Cyan Hippocampus
+Purple Hippocampus
+Blue Hippocampus
+Brown Hippocampus
+Green Hippocampus
+Red Hippocampus
+Black Hippocampus
+White Mermaid
+Orange Mermaid
+Magenta Mermaid
+Light Blue Mermaid
+Yellow Mermaid
+Lime Mermaid
+Pink Mermaid
+Gray Mermaid
+Silver Mermaid
+Cyan Mermaid
+Purple Mermaid
+Blue Mermaid
+Brown Mermaid
+Green Mermaid
+Red Mermaid
+Black Mermaid
+White Troll
+Orange Troll
+Magenta Troll
+Light Blue Troll
+Yellow Troll
+Lime Troll
+Pink Troll
+Gray Troll
+Silver Troll
+Cyan Troll
+Purple Troll
+Blue Troll
+Brown Troll
+Green Troll
+Red Troll
+Black Troll
+White Eye
+Orange Eye
+Magenta Eye
+Light Blue Eye
+Yellow Eye
+Lime Eye
+Pink Eye
+Gray Eye
+Silver Eye
+Cyan Eye
+Purple Eye
+Blue Eye
+Brown Eye
+Green Eye
+Red Eye
+Black Eye
+White Feather
+Orange Feather
+Magenta Feather
+Light Blue Feather
+Yellow Feather
+Lime Feather
+Pink Feather
+Gray Feather
+Silver Feather
+Cyan Feather
+Purple Feather
+Blue Feather
+Brown Feather
+Green Feather
+Red Feather
+Black Feather
+White Bird
+Orange Bird
+Magenta Bird
+Light Blue Bird
+Yellow Bird
+Lime Bird
+Pink Bird
+Gray Bird
+Silver Bird
+Cyan Bird
+Purple Bird
+Blue Bird
+Brown Bird
+Green Bird
+Red Bird
+Black Bird
+White Amphithere
+Orange Amphithere
+Magenta Amphithere
+Light Blue Amphithere
+Yellow Amphithere
+Lime Amphithere
+Pink Amphithere
+Gray Amphithere
+Silver Amphithere
+Cyan Amphithere
+Purple Amphithere
+Blue Amphithere
+Brown Amphithere
+Green Amphithere
+Red Amphithere
+Black Amphithere
+White Sea Serpent
+Orange Sea Serpent
+Magenta Sea Serpent
+Light Blue Sea Serpent
+Yellow Sea Serpent
+Lime Sea Serpent
+Pink Sea Serpent
+Gray Sea Serpent
+Silver Sea Serpent
+Cyan Sea Serpent
+Purple Sea Serpent
+Blue Sea Serpent
+Brown Sea Serpent
+Green Sea Serpent
+Red Sea Serpent
+Black Sea Serpent
+White Weezer
+Orange Weezer
+Magenta Weezer
+Light Blue Weezer
+Yellow Weezer
+Lime Weezer
+Pink Weezer
+Gray Weezer
+Silver Weezer
+Cyan Weezer
+Purple Weezer
+Blue Weezer
+Brown Weezer
+Green Weezer
+Red Weezer
+Black Weezer
+White Dread Skull
+Orange Dread Skull
+Magenta Dread Skull
+Light Blue Dread Skull
+Yellow Dread Skull
+Lime Dread Skull
+Pink Dread Skull
+Gray Dread Skull
+Silver Dread Skull
+Cyan Dread Skull
+Purple Dread Skull
+Blue Dread Skull
+Brown Dread Skull
+Green Dread Skull
+Red Dread Skull
+Black Dread Skull

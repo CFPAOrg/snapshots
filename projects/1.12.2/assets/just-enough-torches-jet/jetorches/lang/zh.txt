@@ -1,0 +1,14 @@
+Just Enough Torches
+Stone Torch
+Nether Torch
+Prismarine Torch
+Obsidian Torch
+Golden Torch
+Lapis Lazuli Lamp
+Obsidian Lamp
+Quartz Lamp
+Stone Stick
+Netherrack Stick
+Prismarine Stick
+Obsidian Stick
+Golden Stick

@@ -1,0 +1,41 @@
+Expanded Arcanum
+Control Seal: Shear
+Instrument: %s
+Note: %s
+Piano
+Bass Drum
+Snare
+Clicks
+Bass Guitar
+Flute
+Bell
+Guitar
+Chime
+Xylophone
+Mimic Fork
+Thaumium Drill Head
+Void Drill Head
+Native Cluster Extraction Module
+Gives the Mining Drill a chance to extract Native Clusters from mined ores, stacks up to 4
+Native Aluminum Cluster
+Native Nickel Cluster
+Native Uranium Cluster
+Expanded Arcanum
+Additional Purification
+Expanding on my earlier work with Metal Purification, I've also found a way to process some more exotic Minerals found in the world.
+Immersive Engineering Purification
+My latest experiments have resulted in a way to process Bauxite, Nickel, and Uranium into Native Clusters
+Mimic Fork
+Note Blocks are a device I've been thinking of a lot lately. They are simple things that respond to touch or Redstone to emit one single pure note... But of what utility are they really?<BR>Any usage requires a Note Block to be setup in a specific location and manually configured to the desired note.<BR>There must be a better way...
+I've found my answer with Mimic Fork <BR>The Mimic Fork has a few functions, It can store musical notes to evoke them at a later point. It also allows you to set an Arcane Ear or Note Block's Note setting by Right-Clicking the Mimic Fork on either device. You are also able to set the Instrument and Note type of a given Note Block or Arcane Ear by instead Sneak-Right Clicking on the device.
+Control Seal: Shear
+I should be able to design a seal to allow the properly equipped golems to harvest wool from my sheep for me. I may need to see about attaching a shear of some sort to the golem's frame.
+This seal allows a Smart Golem equipped with Claw Hands to shear animals within the range of the control seal.<BR>Any items generated this way are dropped at the golem's feet and will need to be collected for proper storage.
+Expanding Arcanum
+Over the course of my research I've come to realize that I've only begun to scratch the surface of what is possible.<BR>I've turned my attention to augmenting other professions with Thaumaturgy with the hope of discovering some unforeseen breakthrough.
+This crucible of mine has opened up some interesting possibilities including ways to fundamentally change the vary nature of objects. This is definitely worth further exploration...
+I've decided to apply some of my research into Artifice to some of my other studies.
+Artificial life! For ages the most advanced constructs in the world have been the hulking Iron Monstrosities seen around Villages, the ability to make smaller, more intelligent, and potentially more dangerous beings is definitely worth further research
+This new Infusion Altar of mine has opened up so many new possibilities... It has the potential to improve the fundamental aspects of an object bringing forth traits that would otherwise be hidden. Where this leads is anyone's guess
+Refining Drill Upgrade
+While I've figured out how to enchant most mundane tools with Refining, the Mining Drill was a bit more trickier to accomplish. Rather than imbuing the Drill itself with the Refining Enchantment Matrix, I've decided to create a Drill Upgrade that holds the powers of the Enchantment. This upgrade can stack up to four times and enables the Drill to harvest Native Clusters from ores mined with the drill.

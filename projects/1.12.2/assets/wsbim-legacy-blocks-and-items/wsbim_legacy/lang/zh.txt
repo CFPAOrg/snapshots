@@ -1,0 +1,410 @@
+Storage
+Ice Maker
+Obsidian Chest
+Mixed Metal Chest
+Dye Press
+Are you sure you want to delete %s items?
+They will be lost for a long time (forever)
+WSBIM Legacy Options
+Generate Mud Pits
+Enable Colored Stone
+Enable Emerald Tools
+Enable Obsidian Tools
+Enable Obsidian Armor
+Enable Emerald Armor
+World Generation
+Items (Restart Required)
+Blocks (Restart Required)
+An update was found for
+Would you like to install it now?
+(Hitting YES will pause your game and bring you to the desktop)
+*Ice Maker Humming*
+*Ice maker pushing cubes**
+*Trash Can Being Emptied*
+*Item thrown into Trash Can*
+WSBIM: Legacy Items
+WSBIM: Legacy Blocks
+WSBIM: Colored Blocks and Lighting
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Axe
+Obsidian Hoe
+Obsidian Sword
+Mixed Metal Sword
+Mixed Metal Pickaxe
+Mixed Metal Shovel
+Mixed Metal Axe
+Mixed Metal Hoe
+Stone Helmet
+Stone Chestplate
+Stone Leggings
+Stone Boots
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Stone Plate
+Cobblestone Plate
+Diamond Plate
+Iron Plate
+Cobblestone Helmet
+Cobblestone Chestplate
+Cobblestone Leggings
+Cobblestone Boots
+ Wooden Plate
+Wooden Helmet
+Wooden Chestplate
+Wooden Leggings
+Wooden Boots
+Mixed Metal Contents
+Mixed Metal Ingot
+Mixed Metal Helmet
+Mixed Metal Chestplate
+Mixed Metal Leggings
+Mixed Metal Boots
+Obsidian Plate
+Plate
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Emerald Sword
+Emerald Pickaxe
+Emerald Shovel
+Emerald Axe
+Emerald Hoe
+Melted Emerald
+Ice Maker
+Dye Press
+Wooden Table
+Leather Block
+Red Leather Block
+Black Leather Block
+Green Leather Block
+Brown Leather Block
+Light Blue Leather Block
+Blue Leather Block
+Purple Leather Block
+Cyan Leather Block
+Light Gray Leather Block
+Gray Leather Block
+Pink Leather Block
+Lime Green Leather Block
+Yellow Leather Block
+Light Blue Leather Block
+Magenta Leather Block
+Orange Leather Block
+White Leather Block
+Red Stone
+Black Stone
+Green Stone
+Brown Stone
+Light Blue Stone
+Blue Stone
+Purple Stone
+Cyan Stone
+Light Gray Stone
+Gray Stone
+Pink Stone
+Lime Green Stone
+Yellow Stone
+Light Blue Stone
+Magenta Stone
+Orange Stone
+White Stone
+Red Cobblestone
+Black Cobblestone
+Green Cobblestone
+Brown Cobblestone
+Light Blue Cobblestone
+Blue Cobblestone
+Purple Cobblestone
+Cyan Cobblestone
+Light Gray Cobblestone
+Gray Cobblestone
+Pink Cobblestone
+Lime Green Cobblestone
+Yellow Cobblestone
+Light Blue Cobblestone
+Magenta Cobblestone
+Orange Cobblestone
+White Cobblestone
+Red Stone Slab
+Black Stone Slab
+Green Stone Slab
+Brown Stone Slab
+Light Blue Stone Slab
+Blue Stone Slab
+Purple Stone Slab
+Cyan Stone Slab
+Light Gray Stone Slab
+Gray Stone Slab
+Pink Stone Slab
+Lime Green Stone Slab
+Yellow Stone Slab
+Light Blue Stone Slab
+Magenta Stone Slab
+Orange Stone Slab
+White Stone Slab
+Red Cobblestone Slab
+Black Cobblestone Slab
+Green Cobblestone Slab
+Brown Cobblestone Slab
+Light Blue Cobblestone Slab
+Blue Cobblestone Slab
+Purple Cobblestone Slab
+Cyan Cobblestone Slab
+Light Gray Cobblestone Slab
+Gray Cobblestone Slab
+Pink Cobblestone Slab
+Lime Green Cobblestone Slab
+Yellow Cobblestone Slab
+Light Blue Cobblestone Slab
+Magenta Cobblestone Slab
+Orange Cobblestone Slab
+White Cobblestone Slab
+Red Wooden Planks
+Black Wooden Planks
+Green Wooden Planks
+Brown Wooden Planks
+Light Blue Wooden Planks
+Blue Wooden Planks
+Purple Wooden Planks
+Cyan Wooden Planks
+Light Gray Wooden Planks
+Gray Wooden Planks
+Pink Wooden Planks
+Lime Green Wooden Planks
+Yellow Wooden Planks
+Light Blue Wooden Planks
+Magenta Wooden Planks
+Orange Wooden Planks
+White Wooden Planks
+Red Wood Slab
+Black Wood Slab
+Green Wood Slab
+Brown Wood Slab
+Light Blue Wood Slab
+Blue Wood Slab
+Purple Wood Slab
+Cyan Wood Slab
+Light Gray Wood Slab
+Gray Wood Slab
+Pink Wood Slab
+Lime Green Wood Slab
+Yellow Wood Slab
+Light Blue Wood Slab
+Magenta Wood Slab
+Orange Wood Slab
+White Wood Slab
+Red Bricks
+Black Bricks
+Green Bricks
+Brown Bricks
+Light Blue Bricks
+Blue Bricks
+Purple Bricks
+Cyan Bricks
+Light Gray Bricks
+Gray Bricks
+Pink Bricks
+Lime Green Bricks
+Yellow Bricks
+Light Blue Bricks
+Magenta Bricks
+Orange Bricks
+White Bricks
+Red Brick Slab
+Black Brick Slab
+Green Brick Slab
+Brown Brick Slab
+Light Blue Brick Slab
+Blue Brick Slab
+Purple Brick Slab
+Cyan Brick Slab
+Light Gray Brick Slab
+Gray Brick Slab
+Pink Brick Slab
+Lime Green Brick Slab
+Yellow Brick Slab
+Light Blue Brick Slab
+Magenta Brick Slab
+Orange Brick Slab
+White Brick Slab
+Red Stone Bricks
+Black Stone Bricks
+Green Stone Bricks
+Brown Stone Bricks
+Light Blue Stone Bricks
+Blue Stone Bricks
+Purple Stone Bricks
+Cyan Stone Bricks
+Light Gray Stone Bricks
+Gray Stone Bricks
+Pink Stone Bricks
+Lime Green Stone Bricks
+Yellow Stone Bricks
+Light Blue Stone Bricks
+Magenta Stone Bricks
+Orange Stone Bricks
+White Stone Bricks
+Red Stone Brick Slab
+Black Stone Brick Slab
+Green Stone Brick Slab
+Brown Stone Brick Slab
+Light Blue Stone Brick Slab
+Blue Stone Brick Slab
+Purple Stone Brick Slab
+Cyan Stone Brick Slab
+Light Gray Stone Brick Slab
+Gray Stone Brick Slab
+Pink Stone Brick Slab
+Lime Green Stone Brick Slab
+Yellow Stone Brick Slab
+Light Blue Stone Brick Slab
+Magenta Stone Brick Slab
+Orange Stone Brick Slab
+White Stone Brick Slab
+Red Cobblestone Stairs
+Black Cobblestone Stairs
+Green Cobblestone Stairs
+Brown Cobblestone Stairs
+Light Blue Cobblestone Stairs
+Blue Cobblestone Stairs
+Purple Cobblestone Stairs
+Cyan Cobblestone Stairs
+Light Gray Cobblestone Stairs
+Gray Cobblestone Stairs
+Pink Cobblestone Stairs
+Lime Green Cobblestone Stairs
+Yellow Cobblestone Stairs
+Light Blue Cobblestone Stairs
+Magenta Cobblestone Stairs
+Orange Cobblestone Stairs
+White Cobblestone Stairs
+Red Brick Stairs
+Black Brick Stairs
+Green Brick Stairs
+Brown Brick Stairs
+Light Blue Brick Stairs
+Blue Brick Stairs
+Purple Brick Stairs
+Cyan Brick Stairs
+Light Gray Brick Stairs
+Gray Brick Stairs
+Pink Brick Stairs
+Lime Green Brick Stairs
+Yellow Brick Stairs
+Light Blue Brick Stairs
+Magenta Brick Stairs
+Orange Brick Stairs
+White Brick Stairs
+Red Stone Brick Stairs
+Black Stone Brick Stairs
+Green Stone Brick Stairs
+Brown Stone Brick Stairs
+Light Blue Stone Brick Stairs
+Blue Stone Brick Stairs
+Purple Stone Brick Stairs
+Cyan Stone Brick Stairs
+Light Gray Stone Brick Stairs
+Gray Stone Brick Stairs
+Pink Stone Brick Stairs
+Lime Green Stone Brick Stairs
+Yellow Stone Brick Stairs
+Light Blue Stone Brick Stairs
+Magenta Stone Brick Stairs
+Orange Stone Brick Stairs
+White Stone Brick Stairs
+Red Plank Stairs
+Black Plank Stairs
+Green Plank Stairs
+Brown Plank Stairs
+Light Blue Plank Stairs
+Blue Plank Stairs
+Purple Plank Stairs
+Cyan Plank Stairs
+Light Gray Plank Stairs
+Gray Plank Stairs
+Pink Plank Stairs
+Lime Green Plank Stairs
+Yellow Plank Stairs
+Light Blue Plank Stairs
+Magenta Plank Stairs
+Orange Plank Stairs
+White Plank Stairs
+Red Oak Fence
+Black Oak Fence
+Green Oak Fence
+Brown Oak Fence
+Light Blue Oak Fence
+Blue Oak Fence
+Purple Oak Fence
+Cyan Oak Fence
+Light Gray Oak Fence
+Gray Oak Fence
+Pink Oak Fence
+Lime Green Oak Fence
+Yellow Oak Fence
+Light Blue Oak Fence
+Magenta Oak Fence
+Orange Oak Fence
+White Oak Fence
+Red Redstone Lamp
+Black Redstone Lamp
+Green Redstone Lamp
+Brown Redstone Lamp
+Light Blue Redstone Lamp
+Blue Redstone Lamp
+Purple Redstone Lamp
+Cyan Redstone Lamp
+Light Gray Redstone Lamp
+Gray Redstone Lamp
+Pink Redstone Lamp
+Lime Green Redstone Lamp
+Yellow Redstone Lamp
+Light Blue Redstone Lamp
+Magenta Redstone Lamp
+Orange Redstone Lamp
+White Redstone Lamp
+Red Simple Lamp
+Black Simple Lamp
+Green Simple Lamp
+Brown Simple Lamp
+Light Blue Simple Lamp
+Blue Simple Lamp
+Purple Simple Lamp
+Cyan Simple Lamp
+Light Gray Simple Lamp
+Gray Simple Lamp
+Pink Simple Lamp
+Lime Green Simple Lamp
+Yellow Simple Lamp
+Light Blue Simple Lamp
+Magenta Simple Lamp
+Orange Simple Lamp
+White Simple Lamp
+Red Simple Lamp (Inverted)
+Black Simple Lamp (Inverted)
+Green Simple Lamp (Inverted)
+Brown Simple Lamp (Inverted)
+Light Blue Simple Lamp (Inverted)
+Blue Simple Lamp (Inverted)
+Purple Simple Lamp (Inverted)
+Cyan Simple Lamp (Inverted)
+Light Gray Simple Lamp (Inverted)
+Gray Simple Lamp (Inverted)
+Pink Simple Lamp (Inverted)
+Lime Green Simple Lamp (Inverted)
+Yellow Simple Lamp (Inverted)
+Light Blue Simple Lamp (Inverted)
+Magenta Simple Lamp (Inverted)
+Orange Simple Lamp (Inverted)
+White Simple Lamp (Inverted)
+Mixed Metal Block
+Mixed Metal Ore
+Wet Sand
+Mud
+Obsidian Chest
+Mixed Metal Chest
+Trash Can

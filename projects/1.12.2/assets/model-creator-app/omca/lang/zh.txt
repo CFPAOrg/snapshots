@@ -1,0 +1,79 @@
+Cube
+Model generated using %s's Model Creator. Original model creator: %s
+Model Creator by %s
+Welcome
+Thank you for installing this application! Please note this app is still in development and may have some bugs. If you want those bugs to get fixed, report them using the more tab. Either way, I hope you enjoy making models in this app!
+Copied
+File NBT to Clipboard
+Export Location
+Copied To Clipboard
+Error
+Do you want to save your progress?
+Could not open file '%s'
+This project was designed for version '%s' of the model creator and could not be opened.
+This project was designed for version '%s' of the model creator but can be converted to version '%s'. Do you want to convert?
+Could not open %s
+Opened %s successfully
+Texture Manager
+Import
+Close
+Please Input the texture location you wish to use.
+Open Pixel Painter File
+Search...
+New Element
+Adds another element to the workspace
+Remove Element
+Removes the selected element from the workspace
+Duplicate Element
+Adds a copy of the selected element to the workspace
+Position
+Size
+Shade
+Ambient Occlusion
+Particle
+Particle Set
+Rotation
+Face
+Texture
+Clear
+Copy
+Paste
+UV
+Cull
+Fill
+Enable
+Auto UV
+This feature has not been added yet
+This feature does not work properly and has been disabled temporarily
+New Model
+Load project from file
+Save project to file
+Copy the file data to clipboard
+Import model from JSON
+Export model to JSON
+Set the base path to look for textures
+Exit Application
+Enables transparent rendering in program
+Enables a faster rendering method in program
+View source code
+Submit a bug report on Github to get it fixed
+v%s, Save format v%s
+Fast render
+File
+New
+Load Project
+Save Project
+Copy Data
+Import JSON
+Export JSON
+Enter the name of the json
+Set Texture Path
+Exit
+Options
+Toggle Transparency
+Toggle Fast Render
+Screenshot
+More
+Examples
+GitHub
+Submit A bug

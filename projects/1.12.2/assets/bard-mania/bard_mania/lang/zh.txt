@@ -1,0 +1,81 @@
+modelsetup
+Opened Model Setup Gui
+Must be holding an instrument in your main hand
+playmidi
+Opened Play Midi Gui
+Must be holding an instrument in your main hand
+Bard Mania
+Client Options
+Automatically configure sound channels
+Input Mode
+MIDI
+PC Keyboard
+MIDI Options
+Listen on all channels
+MIDI Channel [1-16]
+Player Name in window title
+DISABLED
+ENABLED
+Gui Button Sound
+DISABLED
+ENABLED
+PC Piano Keyboard
+Model Setup
+Equipped Third Person
+Equipped First Person
+Player Yaw
+Trans X
+Trans Y
+Trans Z
+Rotate X
+Rotate Y
+Rotate Z
+Scale
+Play Midi File
+Tween Count
+Equip
+Remove
+Print
+Choose File
+Play
+Stop
+All On
+All Off
+Semitones
+Z
+S
+X
+D
+C
+V
+G
+B
+H
+N
+J
+M
+,
+Q
+2
+W
+3
+E
+R
+5
+T
+6
+Y
+7
+U
+I
+Banjo
+Flute
+Marching Drums
+Lyre
+Recorder
+Xylophone
+Open MIDI devices:
+Input Mode:
+Right Click to Activate PC Keyboard
+Right Click to Activate MIDI Input
+Sneak+Right Click to Toggle Mode

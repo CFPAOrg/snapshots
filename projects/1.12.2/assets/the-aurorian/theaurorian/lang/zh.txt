@@ -1,0 +1,290 @@
+Moonlight Forge
+Scrapper
+Does extra damage depending on how much armor the target is wearing
+Lightning
+Negates damage that would have been done by lightning enchantment
+Lightning Resistance
+Aurorian Pig
+Aurorian Rabbit
+Aurorian Sheep
+Aurorian Slime
+Crystalline Sprite
+Disturbed Hollow
+Moon Acolyte
+Moon Queen
+Runestone Dungeon Keeper
+Spider Mother
+Spiderling
+Spirit
+Undead Knight
+Molten Aurorian Steel
+Molten Cerulean
+Molten Moonstone
+Moonwater
+Orb of Absorption
+Aurorian Bacon
+Aurorian Coal
+Aurorian Coal Nugget
+Aurorianite Axe
+Aurorianite Ingot
+Aurorianite Pickaxe
+Aurorianite Sword
+Aurorian Pork
+Cooked Aurorian Pork
+Aurorian Brick
+Aurorian Slimeball
+Aurorian Slime Boots
+Aurorian Steel
+Aurorian Steel Axe
+Aurorian Steel Boots
+Aurorian Steel Chestplate
+Aurorian Steel Helmet
+Aurorian Steel Hoe
+Aurorian Steel Leggings
+Aurorian Steel Nugget
+Aurorian Steel Pickaxe
+Aurorian Steel Shovel
+Aurorian Steel Sword
+Aurorian Stone Axe
+Aurorian Stone Hoe
+Aurorian Stone Pickaxe
+Aurorian Stone Shovel
+Aurorian Stone Sickle
+Aurorian Stone Sword
+Bepsi
+Cerulean Arrow
+Cerulean Boots
+%s Cerulean Bucket
+Cerulean Bucket
+Cerulean Chestplate
+Cerulean Helmet
+Cerulean Ingot
+Cerulean Leggings
+Cerulean Nugget
+Cerulean Shield
+Crystalline Ingot
+Crystalline Pickaxe
+Crystalline Shield
+Crystalline Sword
+Cup
+Dark Amulet
+Darkstone Key
+Debugger
+Dungeon Keeper Amulet
+Keepers Bow
+Knight Boots
+Knight Chestplate
+Knight Helmet
+Knight Leggings
+Lavender
+Lavender Bread
+Lavender Seeds
+Living Divining Rod
+Dungeon Locator
+Lockpicks
+Moon's Shield
+Moonstone Axe
+Moonstone Hoe
+Moonstone Ingot
+Moonstone Nugget
+Moonstone Pickaxe
+Moonstone Shield
+Moonstone Shovel
+Moonstone Sickle
+Moonstone Sword
+Moontemple Cell Key
+Moontemple Cell Key Fragment
+Moontemple Key
+Plant Fiber
+Runestone Key
+Runestone Loot Key
+Aurorianite Scrap
+Crystalline Scrap
+Umbra Scrap
+Silentwood Axe
+Silentwood Bow
+Silentwood Hoe
+Silentwood Pickaxe
+Silentwood Shovel
+Silentwood Sickle
+Silentwood Stick
+Silentwood Sword
+Silkberry
+Silkberry Jam
+Silkberry Jam Sandwich
+Silkshroom Stew
+Spiked Chestplate
+Sticky Spiker
+Strange Meat
+Lavender Tea
+Petunia Tea
+Lavender Seed Tea
+Silkberry Tea
+Runestone Dungeon Keeper Trophy
+Moon Queen Trophy
+Spider Mother Trophy
+Umbra Ingot
+Umbra Pickaxe
+Umbra Shield
+Umbra Sword
+Weeping Willow Sap
+The Aurorian
+Aurorian Steel
+Aurorian Stone
+Cerulean
+Moonstone
+Silentwood
+§oPower of The Aurorian flows!§r\nIt's faster in The Aurorian.
+Aurorian Empowered
+§oIt's a Nightowl!§r\nHas a 50% chance to not take duribility when it's night but 50% to take more during the day!
+Moonlit
+§oIt's a Nightowl!§r\nHas a 50% chance to not take duribility when it's night but 50% to take more during the day!
+Moonlit
+I need a key
+or a lockpick
+No Moonlight Detected!
+Currently disabled by redstone power.
+Locator set to Runestone
+Locator set to Moontemple
+Locator set to Darkstone
+Heals mainhand item when held in offhand!
+Has a faint dreadful aura. Used for crafting the Moontemple Key.
+Pulsates with corrupted power. Used for crafting the Darkstone Key.
+Purple, but still tasty!
+Can chop down whole trees!
+Mines faster a short while after mining an ore!
+Has the ability to levitate everyone nearby!
+Purple, but still tasty!
+Jump while sneaking to do an extra high jump! Also blocks fall damage.
+Enchantments on this item will level up over time!
+Aurorian Stone can fell whole Silentwood Trees at the cost of extra durability!
+Aurorian Stone has a chance to heal itself when mining Aurorian Stone!
+How'd this get here??
+Can be placed!
+Ores drop ingots plus a few nuggets!
+Will repair items in your mainhand when blocking attacks!
+Charge up to fire a Crystalline Beam!
+Can only be placed up to
+blocks away from the gate's keyhole on the X or Z axis.
+Increases speed of Aurorian Furnace! Max chimneys per furnace is
+. Rightclick furnace with chimneys to auto stack them on top.
+Used to unlock Darkstone Gates. Single use!
+Used to unlock Moon Temple Gates. Single use!
+Used to unlock Moon Temple's inner room. Single use!
+Used to unlock Runestone Gates. Single use!
+Used to unlock Runestone Dungeon's loot room.
+Got from breaking lavender plants with a sickle or farmed.
+Got from lavender in the crafting table.
+Has a chance to highlight nearby entities!
+Locates nearby Aurorian dungeons.
+Used to locate dungeons. Sneak-click to switch modes.
+Used to pick Runestone Gates. High chance of breaking.
+Found on Moon Temple pillar islands, used for crafting Moon Temple keys.
+Hold block to Charge at foes and knock them up in the air!
+Moonstone loves the moon! Consumes less durability at night and more during the day.
+Used to craft the Moon Temple Cell Key.
+Bouncy!
+Got from breaking aurorian tallgrass with a sickle.
+Is used to construct The Aurorian portal. Create it the same way you would build the Nether portal, then light with flint and steel!
+Hold shift for more info
+Magical Silentwood has a chance to heal itself when chopping Silentwood Logs!
+Current Mining level:
+Magical Silentwood can mine higher leveled blocks like diamond when at lower durability!
+Can be used to light fires or The Aurorian Portal when one is in both hands!
+Tasty!
+Has Thorns III but only when crouched!
+Does poison damage when it hits an entity.
+Huge chunk of meat, will take a while to eat! Finishing it will give you a random buff!
+Select a block to gain bonus mining speed towards that type! Selecting a block costs a lot of durability.
+Lights whoever is in front of you on fire when blocking! Blocking for too long will cause it to overheat.
+Gives you a short boost of health at the cost of weakness and slowness!
+Will cleanse poison but gives you slowness.
+Moonwater
+Aurorian Coal Block
+Aurorian Coal Ore
+Aurorian Cobblestone
+Aurorian Cobblestone Stairs
+Aurorian Dirt
+Aurorian Farm Tile
+Aurorian Furnace
+Aurorian Furnace Chimney
+Aurorian Glass
+Aurorian Glass Pane
+Aurorian Grass
+Light Aurorian Grass
+Aurorian Peridotite
+Smooth Aurorian Peridotite
+Smooth Aurorian Peridotite Stairs
+Aurorian Portal Frame
+Aurorian Steel Block
+Aurorian Stone
+Aurorian Stone Brick
+Aurorian Stone Brick Stairs
+Aurorian Tall Grass
+Light Aurorian Tall Grass
+Runestone Dungeon Keeper Boss Spawner
+Moon Queen Boss Spawner
+Spider Boss Spawner
+Cerulean Block
+Cerulean Ore
+Crystal
+Darkstone Bricks
+Darkstone Fancy
+Darkstone Gate
+Darkstone Gate Keyhole
+Darkstone Lamp
+Darkstone Layers
+Darkstone Stairs
+Geode Ore
+Lavender Plant
+Moon Gem
+Moon Glass
+Moon Glass Pane
+Moonlight Forge
+Moon Sand
+Moonstone Block
+Moonstone Ore
+Moon Temple Bars
+Moon Temple Bricks
+Smooth Moon Temple Bricks
+Moon Temple Cell Gate
+Moon Temple Cell Gate Keyhole
+Moon Temple Gate
+Moon Temple Gate Keyhole
+Moon Temple Lamp
+Moon Temple Stairs
+Indigo Mushroom
+Mushroom Crystal
+Indigo Mushroom
+Indigo Mushroom Stem
+Mystical Barrier
+Petunia Plant
+Runestone
+Runestone Bars
+Runestone Gate
+Runestone Gate Keyhole
+Runestone Lamp
+Runestone Loot Gate
+Runestone Loot Gate Keyhole
+Smooth Runestone
+Runestone Stairs
+Scrapper
+Silentwood Crafting Table
+Silentwood Ladder
+Silentwood Leaves
+Silentwood Log
+Silentwood Planks
+Silentwood Sapling
+Silentwood Stairs
+Silentwood Torch
+Silkberry Plant
+Umbra Stone
+Cracked Umbra Stone
+Umbra Stone Roof Tiles Stairs
+Umbra Stone Roof Tiles
+Urn
+Weeping Willow Leaves
+Weeping Willow Log
+Weeping Willow Planks
+Weeping Willow Planks Stairs
+Weeping Willow Sapling

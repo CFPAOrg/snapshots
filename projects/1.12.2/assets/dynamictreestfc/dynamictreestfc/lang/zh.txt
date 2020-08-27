@@ -1,0 +1,42 @@
+Douglas Fir Cone
+White Elm Seed
+Acacia Seed
+Ash Key
+Aspen Catkin
+Birch Catkin
+Chestnut
+Hickory Nut
+Kapok Pod
+Maple Seed
+Oak Acorn
+Pine Cone
+Spruce Cone
+White Cedar Seed
+Willow Seed
+Sycamore Key
+Sequoia Cone
+Rosewood Seed
+Blackwood Seed
+Palm Pod
+Hevea Seed
+Douglas Fir Branch
+White Elm Branch
+Acacia Branch
+Ash Branch
+Aspen Branch
+Birch Branch
+Branch
+Hickory Branch
+Kapok Branch
+Maple Branch
+Oak Branch
+Pine Branch
+Spruce Branch
+White Cedar Branch
+Willow Branch
+Sycamore Branch
+Sequoia Branch
+Rosewood Branch
+Blackwood Branch
+Palm Branch
+Hevea Branch

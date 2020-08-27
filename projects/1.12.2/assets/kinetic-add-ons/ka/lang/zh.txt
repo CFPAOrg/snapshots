@@ -1,0 +1,32 @@
+§bKinetic Logo
+§bKinetic
+§bKinetic Altar
+§bKinetic Addons
+§cSherman Sword
+§cSherman Pickaxe
+§cSherman
+§cSherman Block
+§5Mini End Portal
+Crate Key (Unset)
+§cGreg
+Noot Key
+§bSteel Ingot
+§eEnriched Iron Ingot
+§eCarbon Ingot
+§cKinetium Ingot
+§cKinetic Energy Infuser
+§cKinetium Sword
+§cKinetium Pickaxe
+§cKinetium Hoe
+§cKinetium Axe
+§cKinetium Shovel
+§eCarbon Block
+§eReinforced Bottle
+§bBottled Kinetic Energy
+§bKinetic Energy Infused Stick
+§eCrank
+§cLarge Kinetic
+§cKinetium Helmet
+§cKinetium Chestplate
+§cKinetium Leggings
+§cKinetium Boots

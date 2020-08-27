@@ -1,0 +1,18 @@
+Ocarina
+Dude! Where's My Horse?
+Error accessing data to for entity claims.
+You've reached the maximum off claimed entities! %d/%d.
+Successfully claimed entity!
+Successfully unclaimed entity!
+Now tracking: %s
+No tracked entities!
+Tracked entity, %s, has been saved! Summon it with your Ocarina.
+Can't find entity to summon!
+Tracking %d entities:
+%d: %s %s
+[currently tracking]
+No tracked entities.
+Sneak-Right-Click an entity to begin tracking or to untrack it.
+Sneak-Right-Click air to cycle selected entity.
+Right-Click to summon selected entity.
+Unknown entity

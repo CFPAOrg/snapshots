@@ -1,0 +1,20 @@
+Jockeys & Custom Entries
+Living Mob Spawners
+NonLiving Mob Spawners
+Custom Pos Spawner
+CustomName
+Delay
+MaxNearbyEntities
+MaxSpawnDelay
+MinSpawnDelay
+RequiredPlayerRange
+SpawnCount
+SpawnRange
+Blank
+Jockey
+Killer Rabbit
+Offset
+Charged Creeper
+shift advanced
+Skeleton Trap
+SpawnPotentials

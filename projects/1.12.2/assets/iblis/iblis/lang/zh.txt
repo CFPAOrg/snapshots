@@ -1,0 +1,155 @@
+English
+US
+en_US
+Reload ammo
+Feed something to horse to tame her
+Max health points %d: %0.1f
+Damage base %d: %0.1f
+Attack speed %d: %0.1f
+Knockback resistance %d: %0.2f
+Luck %d: %0.1f
+Melee damage multiplier %d: %0.1f
+Incoming melee damage reduction %d: %0.1f
+Incoming fire damage reduction %d: %0.1f
+Incoming explosion damage reduction %d: %0.1f
+Incoming projectile damage reduction %d: %0.1f
+Intelligence %d: %0.1f
+Sprinting speed %d: %0.1f
+Gluttony %d: %0.1f
+Wisdom: %0.1f
+Martial arts: %0.1f
+Boxing: %0.1f
+Swordsmanship: %0.1f
+Parry: %0.1f
+Archery: %0.1f
+Throwing: %0.1f
+Sharpshooting: %0.1f
+Craftmanship: %0.1f
+Weaponsmith: %0.1f
+Armorsmith: %0.1f
+Mechanics: %0.1f
+Medical aid: %0.1f
+Digging: %0.1f
+Taming: %0.1f
+Chemistry: %0.1f
+Acrobatics: %0.1f
+Running: %0.1f
+Jumping: %0.1f
+Falling: %0.1f
+Equilibrium: %0.1f
+Magic: %0.1f
+Unaligned: %0.1f
+Unaligned: %0.1f
+Fire: %0.1f
+Ice: %0.1f
+Lightning: %0.1f
+Necromancy: %0.1f
+Earth: %0.1f
+Sorcery: %0.1f
+Healing: %0.1f
+boxing
+swordsmanship
+using shields
+archery
+throwing weapons
+sharpshooting
+weapon smithing
+armor smithing
+mechanics
+medical aid
+chemistry
+mining and chopping
+taming
+light athletic
+acrobatics
+stunt mastery
+equilibristic
+earth magic
+fire magic
+ice magic
+lightning magic
+healing magic
+unaligned magic
+necromancy
+sorcery
+%d seconds
+%d minutes
+%d hours
+%d days
+one second
+one minute
+one hour
+one day
+Skill XP: %s
+Required: %0.1f
+worthless
+trash
+miserable
+awful
+bad
+normal
+good
+excellent
+marvelous
+exceptional
+perfect
+Quality: %s (%d)
+Bow quality damage modifier: %0.1f
+Projectile damage
+Incoming projectile damage reduction
+Incoming explosion damage reduction
+Incoming melee damage reduction
+Incoming fire damage reduction
+Intelligence
+Running
+Tool effectiveness
+%ss' diary
+You already read that book.
+You learned something new from that book.
+This book was written %s ago.
+The %s manual of %s, volume #%d
+The %s manual of %s
+beginners
+novices
+experienced
+professionals
+experts
+ultimate
+Damage: %0.1f
+Iblis items
+%1$s was shot by %2$s
+Adventurer diary
+Guide
+Six barrels shotgun
+Shotgun bullet
+Shotgun shot
+Steel ingot
+Bronze ingot
+Sterilize in furnace before use
+Medkit
+Boulder
+Throwing knife
+Double crossbow
+Crossbow bolt
+Steel nugget
+Trigger spring
+Steel helmet
+Steel chestplate
+Steel leggins
+Steel boots
+Grape
+Chemical lab installation
+Iron with coal
+Iron ore with coal
+Slag
+A smell of enemy
+Overheating
+Do not craft item. Use resources to train only.
+General
+Characteristics
+Characteristics start level
+Characteristics points per level
+Characteristics cap
+Skills
+Skills cap
+Skills XP

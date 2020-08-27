@@ -1,0 +1,46 @@
+Sausage Core
+Sausage
+The author, mascot, and extremely unhealthy food
+Debug Stick
+Info Card
+Village
+Custom Size
+Custom Size World Type
+Chaos Biomes
+Buffet
+Buffet World Type
+%s ate too much
+Please visit
+for more information
+No %s is detected
+Spawn with Info Card
+Test of Al problems
+Switch Mode
+Block Mode
+Entity Mode
+/data block <x> <y> <z> Or /data entity <Entity>
+Successfully queried NBT:
+SausageCore
+CoreSausage: Brochure From Sausage
+Unhealthy choice
+Make a deal with sausage or simply make a sausage
+Book of the Hot dog
+General
+Chapter 2
+Introduction
+Crafting Ingredients
+World Types
+Debugging
+Why not try my sister mods §dManaCraft§r and §k§6Sausage's Factory§r Series? :)\n§cOpenCapacitor§r is coming soon!\nVisit my Github page(WIP) below to learn more.
+SausageCore added 2 kinds of Ingredient, which are ItemWildcard and OreFilter.\nMore about this technical part, please visit its Github page(WIP) to learn.
+§lItemWildcard§r(sausage_core:item_wildcard) is literally minecraft:item, but with no tag of data, so it matches any metadata
+§lOreFilter§r(sausage_core:ore_filter) matches ore dictionary according to the predicate. Predicates you can use are:\n  - startsWith\n  - endsWith\n  - contains\n  - matches\n  - equals\n  - equalsIgnoreCase
+SausageCore added 2 world types, which are Buffet and CustomSize.\nIn the future a brand new type originally designed by Yaossg is coming.
+§lBuffet§r is minimal (1.13) buffet world, you can select a biome, which covers the entire world.\nIn the customize page, the middle button is used to switch among mods(e.g. If a biome in Mod A is being selected currently, clicking the button will cause the first one in Mod B to be selected).
+§l/data§r is modelled after 1.13's but query only, which displays with grammar highlight. Additionally, it works on Players.\nHere is an example: (To display them clearly, I replaced white characters with black ones)\n\n§0{§bName§0: "§aZYL§0", §6Height§0: §61.68§cf§0}
+§lDebug Stick§r is a very handy tool to switch block states, query blocks' states and NBTs and entities' NBTs.\nshift + use in the open air to switch among modes.
+Episode 1
+§lContent§r\n1. Preface\n2. Untitled\n3. Steve & Alex: 9th grade Guardian
+§lPreface§r\nSausageCore: Hot Dog Leading!\nYou shall be our leader!
+§lUntitled§r\nNo translation for this page currently. Toggle to CN-ZH to view the original text.\nMaybe U can help me with it?
+§lSteve & Alex: 9th grade Guardian§r\nFor 800 years, Minecraft has been protected by Steve and Alex. But no one knows every four years two new warriors are chosen. Two freshmen to fight the forces of evil. You are Steve(or Alex). You are Minecraft Guardian!

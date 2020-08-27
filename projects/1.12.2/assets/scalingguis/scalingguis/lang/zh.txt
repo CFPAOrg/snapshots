@@ -1,0 +1,62 @@
+ScalingGUIs Config
+Custom Individual GUI Scales
+Custom Group GUI Scales
+GUI Class Blacklist
+Dynamic Scales Whitelist
+General Settings
+New Individual Entry
+New Group Entry
+Delete Individual Entry
+Delete Group Entry
+Undo Changes
+Undo All Changes
+Set to Default
+Select GUI Class Name
+New GUI Class Name
+New GUI Display Name
+New GUI Scale
+Unable to determine class from given string.
+Select GUI class name from list of unused logged classes.
+Full class name for new GUI entry. EX: 'net.minecraft.client.gui.GuiMainMenu'.
+Display name for new GUI entry. EX: 'Main Menu'.
+Scale for new GUI entry.
+GUI Scales
+Scale settings for rendering GUIs. (ScalingGUIs)
+GUI Scale
+HUD Scale
+Tooltip Scale
+Log GUI Class Names
+Separate Persistent Log
+Custom Individual GUI Scales
+New Custom Individual GUI Scale
+Remove Individual GUI Entry
+Custom Group GUI Scales
+New Custom Group GUI Scale
+New Group GUI Class Name
+New Group GUI Display Name
+Remove Group GUI Entry
+Minecraft's main GUI scale.
+Custom scale for rendering the HUD.
+Custom scale for rendering tooltips.
+Log opened GUI class names in the main output log.
+Track opened GUI class names in the config file./nTracked names will be reloaded when launching Minecraft.
+Scale settings menu for custom Individual GUIs.
+Add a new custom individual GUI entry.
+Add a new individual entry.
+Class name for the new GUI entry.
+Custom display name for the new GUI entry.
+Remove an individual entry from the list.
+Scale settings menu for custom group GUIs.
+Add a new custom group GUI entry.
+Add a new group entry.
+Class name for the new GUI entry.
+Custom display name for the new GUI entry.
+Remove a group entry from the list.
+GUI class names blacklisted from scale settings.  Default values ensure screens consisting of multiple GUIs scale to the initial GUI's scale.
+Dynamic scaling of whitelisted container GUIs (extends "GuiContainer") based on GUI dimensions.
+General ScalingGUIs settings.
+AUTO (MAX)
+SMALL
+NORMAL
+LARGE
+MAIN GUI SCALE

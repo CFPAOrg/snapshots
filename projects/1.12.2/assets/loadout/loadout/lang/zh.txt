@@ -1,0 +1,18 @@
+Loadout: Invalid Argument. Use /lo help for more information
+Usages: /lo create <name> | delete <name> | list | view <name> | reload | help <create|delete|list|view|reload|help>
+Loadout: Who helps the helper?
+/lo create <name> | Creates a Loadout with the given name from your inventory. Does not include Armor or Shield slots
+/lo delete <name> | Deletes the Loadout with the given name. This cannot be undone
+Loadout: Deleted '%1$s'
+Loadout: Could not find '%1$s'
+/lo list | Lists all currently active Loadouts. Newly Created Loadouts will not show here
+Loadout: Active Loadouts are '%1$s'
+Loadout: There are no Loadouts loaded
+Loadout: '%1$s' containts the following:
+Item: %1$s, Data: %2$s, Count: %3$s, NBT: %4$s
+Loadout: Unabled to find '%1$s'
+/lo view <name> | Views the contents of the given Loadout
+/lo reload | Reloads the Loadout JSON file
+Loadout: Reloaded %1$s Loadouts
+Loadout: Unable to create %1$s as no items detected in your inventory
+Loadout: Created a new loadout, %1$s, with %2$s items

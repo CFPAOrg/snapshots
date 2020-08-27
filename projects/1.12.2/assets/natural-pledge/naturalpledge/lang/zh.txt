@@ -1,0 +1,660 @@
+Divine Ritual Core
+Livingwood Funnel
+Aquamarine Glass
+Aquamarine Pane
+Priestly Emblem: Njord
+You feel the air trembling with Njord's displeasure...
+Priestly Emblem: Idunn
+You feel your soul freeze under Idunn's baleful stare...
+Priestly Emblem: Thor
+You feel the skies rumbling with Thor's rage...
+Priestly Emblem: Heimdall
+You feel colors bleed from sight as Heimdall grows angry...
+Priestly Emblem: Loki
+You feel your body spark and flare as Loki laughs...
+Twisted Pendant: Ragnarok
+YOU DARE DEFY THE END? BURN.
+Arrow of Ascension
+Mjolnir the Crusher
+Apple of Immortality
+Gjallarhorn, Horn of Fate
+Fist of Perdition
+Fist of Thunder
+Bloodjeweled Bracer
+Thundersteel Ingot
+Awakened Thundersteel Ingot
+Soulroot
+Awakened Soulroot
+Aquamarine Shard
+Awakened Aquamarine Shard
+Thundersteel Nugget
+Hearth Ember
+Awakened Hearth Ember
+Divine Spirit
+Awakened Divine Spirit
+Block of Thundersteel
+Aquamarine Bricks
+Mortalstone
+Rush of Wind
+Galeforce
+Sudden Gust
+Tempest Infusion
+Lightning Strike
+Thunder's Force
+Chains of Iron
+Hypercharge
+Thunder Infusion
+Iridescent Tones
+Wave of Bifrost
+Shield of Roots
+Life Catalyst
+Fire Cycle
+Sigil of Truesight
+Aura of Disdain
+Inferno Jet
+Soul Manifestation
+Cloak of Njord
+Cloak of Idunn
+Cloak of Thor
+Cloak of Heimdall
+Cloak of Loki
+Weighted Belt
+Tome of the Ages
+Stone of Recall
+Stone of Meditation
+Stone of Nether Fracture
+Stone of Assimilation
+Streamlined
+Quicker to swing, you move lithely while you hold it, at the cost of reduced damage.
+Crushing
+Slower to swing, you move slowly while you hold it, giving you heavily increased damage.
+Spell Infusion
+Tree Growth
+Terrestrial Focus
+Rod of the Prismatic Lake
+Traveller's Toolbelt
+Traveller's Ration Belt
+Traveller's Flowstone
+Traveller's Waystone
+Stone of Return
+Prismatic Flash
+Frozen Star
+Crackling Star
+Iridescent Dirt
+Iridescent Dirt
+Iridescent Dirt
+Iridescent Planks
+Iridescent Planks
+Iridescent Planks
+Iridescent Planks Slab
+Iridescent Planks Slab
+Iridescent Planks Slab
+Iridescent Log
+Iridescent Log
+Iridescent Log
+Iridescent Leaves
+Iridescent Leaves
+Iridescent Leaves
+Iridescent Sapling
+Iridescent Lantern
+Dry Iridescent Log
+Golden Iridescent Log
+Vivid Iridescent Log
+Scorched Iridescent Log
+Infused Iridescent Log
+Mutated Iridescent Log
+Dry Iridescent Leaves
+Golden Iridescent Leaves
+Vivid Iridescent Leaves
+Scorched Iridescent Leaves
+Infused Iridescent Leaves
+Mutated Iridescent Leaves
+Dry Iridescent Planks
+Golden Iridescent Planks
+Vivid Iridescent Planks
+Scorched Iridescent Planks
+Infused Iridescent Planks
+Mutated Iridescent Planks
+Dry Iridescent Planks Slab
+Golden Iridescent Planks Slab
+Vivid Iridescent Planks Slab
+Scorched Iridescent Planks Slab
+Infused Iridescent Planks Slab
+Mutated Iridescent Planks Slab
+Sealing Oak Log
+Sealing Oak Planks
+Sealing Oak Planks Slab
+Sealing Oak Leaves
+Sealing Oak Sapling
+Sonic Amplifier
+Thunderous Oak Log
+Thunderous Oak Planks
+Thunderous Oak Planks Slab
+Thunderous Oak Leaves
+Thunderous Oak Sapling
+Circuitree Log
+Circuitree Planks
+Circuitree Planks Slab
+Circuitree Leaves
+Circuitree Sapling
+Calico Log
+Calico Planks
+Calico Planks Slab
+Calico Leaves
+Calico Sapling
+Corporea Resonator
+Ender Actuator
+The Actuator screams with the song of your soul...
+Confusion Trap
+Inferno Trap
+Acceleration Trap
+Immobility Trap
+Visual Irritation Trap
+Red Pulse Trap
+Divine Wrath Trap
+&cERROR&r
+White
+Orange
+Magenta
+Light Blue
+Yellow
+Lime
+Pink
+Gray
+Light Gray
+Cyan
+Purple
+Blue
+Brown
+Green
+Red
+Black
+Bifrost
+Aurora
+Color: #%s
+Color Mixture
+Press &b%s&7 to open the Baubles menu
+Radius: %s Blocks
+Seeking %s, %s blocks away
+Seeking %s, close by
+Seeking %s, a great distance away
+Seeking %s, an eternity away
+Seeking a location, %s blocks away
+Seeking a location, a great distance away
+Seeking a location, close by
+White Iridescent Shard
+Orange Iridescent Shard
+Magenta Iridescent Shard
+Light Blue Iridescent Shard
+Yellow Iridescent Shard
+Lime Iridescent Shard
+Pink Iridescent Shard
+Gray Iridescent Shard
+Light Gray Iridescent Shard
+Cyan Iridescent Shard
+Purple Iridescent Shard
+Blue Iridescent Shard
+Brown Iridescent Shard
+Green Iridescent Shard
+Red Iridescent Shard
+Black Iridescent Shard
+Bifrost Iridescent Shard
+White Iridescent Crystal
+Orange Iridescent Crystal
+Magenta Iridescent Crystal
+Light Blue Iridescent Crystal
+Yellow Iridescent Crystal
+Lime Iridescent Crystal
+Pink Iridescent Crystal
+Gray Iridescent Crystal
+Light Gray Iridescent Crystal
+Cyan Iridescent Crystal
+Purple Iridescent Crystal
+Blue Iridescent Crystal
+Brown Iridescent Crystal
+Green Iridescent Crystal
+Red Iridescent Crystal
+Black Iridescent Crystal
+Bifrost Iridescent Crystal
+White Awakened Crystal
+Orange Awakened Crystal
+Magenta Awakened Crystal
+Light Blue Awakened Crystal
+Yellow Awakened Crystal
+Lime Awakened Crystal
+Pink Awakened Crystal
+Gray Awakened Crystal
+Light Gray Awakened Crystal
+Cyan Awakened Crystal
+Purple Awakened Crystal
+Blue Awakened Crystal
+Brown Awakened Crystal
+Green Awakened Crystal
+Red Awakened Crystal
+Black Awakened Crystal
+Bifrost Awakened Crystal
+Slayer of Guardians
+Cowl of Eclipse
+Chestplate of Eclipse
+Platelegs of Eclipse
+Greaves of Eclipse
+Flarebringer the Bane
+Mana Masquerade
+20%% less Mana cost on Mana Tools and Rods
+Repairs from the Mana of others around you
+Helm of the Sunmaker
+Chestplate of the Sunmaker
+Platelegs of the Sunmaker
+Greaves of the Sunmaker
+Oathbringer, Pain and Sorrow
+The Unseen Light
+20%% less Mana cost on Mana Tools and Rods
+Repairs your body and held items with Mana
+Helm of Fenris
+Chestplate of Fenris
+Platelegs of Fenris
+Greaves of Fenris
+Nightscourge the Ravager
+Soul Unbound
+20%% less Mana cost on Mana Tools and Rods
+Gain the strength of the Prince of Monsters
+Natural Pledge
+Contains:
+Empty
+The world holds its breath as the ritual begins...
+Your pulse thumps in your ears as the ritual begins...
+The air feels charged as the ritual begins...
+The world seems brighter as the ritual begins...
+Your blood heats up as the ritual begins...
+SHOW THE SON OF LANDS THAT GODS CAN BE SLAIN.
+You feel the winds of the world rushing through your soul!
+You feel the lifeblood of the world beneath your feet!
+You feel like thunder is running through your veins!
+You see hues within hues as your sight expands!
+Your soul burns with a powerful strength!
+WELL DONE. ONE STEP CLOSER...
+Holy Symbol
+Tiny Headtato
+Curse of the Catalyst
+Culmination of Being
+Cherokee Headdress
+Fox Tail
+Chesteru Teru Bozu
+Mysterious Pendant
+Fabulosity Incarnate
+Cleared Symbol
+Wind wooshes
+Molten Thundersteel
+Molten Manasteel
+Molten Terrasteel
+Molten Elementium
+Manasteel
+Terrasteel
+Elementium
+Livingwood
+Dreamwood
+Livingrock
+Arcane
+Worldforged
+Unyielding
+Elsetouched
+Alfwrought
+Regrowth
+Idealistic
+Stargazer
+Elemental
+Enduring
+§oIt's learning...§r\nIt'll probably last longer if it learns to use itself right!
+§oAncient and mysterious!§r\nWho knows what this tool could do in the right circumstances?
+§oStrong as the earth§r\nIt'll hold on right until the end!
+§oSomething feels unnatural§r\nIt bears markings you've never seen before...
+§oFine craftmanship§r\nElves are good at metal forging, apparently. Time to imitate their designs!
+§oIt's alive!§r\nThe wood shudders under your hands, reforming itself occasionally.
+§oNever stop dreaming§r\nYou can't help but dream when you look at the swirling designs of the tool.
+§oGuided by the stars§r\nFight in the domain of dreams, and let your dreams help you.
+§oIt feels different§r\nThe environment makes this tool shift and warp.
+§oUntil the end§r\nThis tool feels better built the closer it is to breaking.
+Soulroot
+Thundersteel
+Aquamarine
+Thunderclast
+§oIt's heavy...§r\nIt might hit hard, but it's really hard to hold now.
+Sparking
+§oSimply shocking results!§r\nIt shocks things! And sometimes other things!
+Storming
+§oIt's raining somewhere§r\nMake your enemies fly any which way!
+Aerodynamic
+§oIt's a bit high up here§r\nThis tool is completely unfazed by being in the air.
+Soulbonded
+§oPhotosynthesize!§r\nBe like a tree, and your bonded tool will grow back like one.
+&4Forbidden&7 Knowledge
+%s had a crisis of faith
+%s discovered kinetic energy
+%s discovered %s had kinetic energy
+%s found out earthquakes hurt
+%s heard from %s that earthquakes hurt
+The New Millenium
+Pledge your soul to a divinity
+Glass of Time
+Channel your soul through a Terrestrial Focus
+Chaining Intention
+Infuse the Divine into your Priestly Emblem
+Pitch-Black Forest
+Forge the essence of new life from the power of Idunn
+Electric Angel
+Forge lightning into metal from the power of Thor
+Blue Sky Fish
+Forge the storm into crystal from the power of Njord
+Platinum Disco
+Forge Iridescence from the power of Heimdall
+Soleil
+Forge Embers from the power of Loki (not the dwarf kind)
+Eternal Song
+Create the Apples of Immortality from the true power of Idunn
+God Slaying Machine
+Create Mjolnir from the true power of Thor
+Rising Hero
+Create the Arrows of Ascension from the true power of Njord
+Lost One's Weeping
+Create Gjallerhorn from the true power of Heimdall
+Dawn of the Red Sea
+Create the Fist of Perdition from the true power of Loki
+Celestial Symphony
+Call forth the blood of gods
+The 13th Apocalypse
+Draw forth the blood of gods
+Deity's Disfavor
+Rooted
+Drab Vision
+Overcharged
+Featherweight
+Immortality
+Everburn
+Truesight
+Monochromacy
+Divinity's Grace
+Divinity
+Divine Faith
+Kneel before the gods
+Traces of divine work are evident in this world. &4Mana&0, for one. The stuff of magic isn't possibly made by mortal hand. It is only a question of how to connect with these gods.
+The &1Holy Symbol&0 is the needed artifact for this connection, with what seems to be a wild storm of unrealized potential. Although crafted of simple materials, it has a ready acceptance of other magic. This is the gate to the &3Divine&0, and can be used to forge direct connections in the form of a &1Priestly Emblem&0. Wearing one will grant you more knowledge in this section.
+A key to the zodiac
+The connection the &1Priestly Emblems&0 give you are strong, but don't contain the full power you can harness. An interface to channel the power of a god on earth is required, to allow you to fully command the power you have gained. This interface is the &1Terrestrial Focus&0, a device which can cast &3Divine&0 spells.
+Taking a level in Cleric
+Even then, some may not wish to bind themselves to a god, but instead to fight them. By oversaturating the connection between a priest and their follower with &4Mana&0, you can fully cut it off. This can be accomplished by holding a &1Mortalstone&0, which forces &4Mana&0 into the soul of anyone around you.
+The Kaj's weapon
+Faith in Njord
+Wind, sea, and sky
+The &4Vanir&0 god of the fluid elements, &3Njord&0, seems like a worthy choice for your faith. Wielding his aspect of the &3Divine&0 makes your body hydrophobic, rising above any kind of fluid. You also gain attacks with the force of the wind, barreling your foes back with your every hit.
+At the doom of men he will come back
+Movement Magic
+The art of changing flows
+The first spell that &3Njord&0's emblem grants, &1Rush of Wind&0, is a simple launching motion. It accelerates the caster in the direction they look, allowing for rudimentary flight. Any device that allows the user to glide seems an interesting combination with this.
+The second spell of &3Njord&0, &1Galeforce&0, is a general protection spell. Most beings and projectiles will be pushed back from the player, giving them a sphere of safety.
+The third spell of &3Njord&0, &1Sudden Gust&0, allows for corralling animals without harming them. The being the player looks at will be forced back when it's cast, as if the player had hit them.
+The final spell of &3Njord&0, &1Tempest Infusion&0, forces the strength of a storm into a shard of the sea, making &1Aquamarine&0. If you can somehow augment your emblem's power, the storm within the shard might be more potent.
+It's so pretty
+And back again
+Use me underwater
+And some panes
+Priestly Fashion - Njord
+Feather Fall
+No priest would be caught dead without a ceremonial robe, although robes aren't actually required to pay allegiance to a divinity.<br>These robes, beyond being fashionable, provide a tangible benefit. Njord's robes allow the user to float softly to the ground while falling.
+Worked for Belkar
+Faith in Idunn
+Life, spring, and immortality
+The &4Vanir&0 god of the living elements, &3Idunn&0, seems like a good choice to declare yourself for. Wielding her aspect of the &3Divine&0 makes your body naturally catalytic to the growth of trees, giving saplings around you an effect similar to &1Bonemeal&0. You can manually apply this affect by sneak-clicking with an empty hand.
+Ash sunk down of alfen race
+Life Magic
+The art of growth
+The first spell that &3Idunn&0's emblem grants, &1Shield of Roots&0, is a powerful protection spell. While you have the &1Terrestrial Focus&0, for half a minute you will be unable to move, take, or deal melee damage. Giving the &1Focus&0 to someone else in that time will treat them as if they had been the one to cast the spell.
+The second and final spell of &3Idunn&0, &1Life Catalyst&0, forces power into livingwood, twisting it to become &1Soulroot&0. If you can somehow augment your emblem's power, the root's lifeforce might be more potent.
+Priestly Fashion - Idunn
+Head on or backstab
+No priest would be caught dead without a ceremonial robe, although robes aren't actually required to pay allegiance to a divinity.<br>These robes, beyond being fashionable, provide a tangible benefit. Idunn's robes protect their wearer from attacks to the side, making all viable combat head on.
+Bring it on! I &olive&0 for this!
+Faith in Thor
+Thunder, strength, and wrath
+The &4Æsir&0 god of the sky, &3Thor&0, seems like a powerful god to ally with. Wielding his aspect of the &3Divine&0 makes your body makes your body swift, similar to the &1Soujourner's Sash&0. When using axes, the closest thing you could find to a hammer, &3Thor&0 will add force to your hit, slowing down whatever poor mob is stricken.
+In anger smite the earth
+Battle Magic
+The art of war
+The first spell that &3Thor&0's emblem grants, &1Lightning Strike&0, is a very simple lightning spell. Electricity will arc out of the caster, striking whatever they're looking at within 10 blocks. This won't do much unless you hit a mob, of course.
+The second spell of &3Thor&0, &1Thunder's Force&0, is a strength spell. While you have the &1Terrestrial Focus&0, for half a minute you will hit with over twice the force you'd normally wield. Giving the &1Focus&0 to someone else in that time will treat them as if they had been the one to cast the spell.
+The third spell of &3Thor&0, &1Chains of Iron&0, almost seems to intrude upon the domain of &4Movement magic&0. It pulls the mob you look at towards you, as if you were a magnet and it iron. The pulled mob becomes slow for ten seconds, making their escape much harder.
+The fourth spell of &3Thor&0, &1Hypercharge&0, forces electric energy into the air where it hits, creating a pocket of electric charge. Anyone foolish enough to walk into it will be
+The final spell of &3Thor&0, &1Thunder Infusion&0, forces power into regular iron, making &1Thundersteel&0. If you can somehow augment your emblem's power, the metal might be more potent.
+Block of awesome
+And back again
+Priestly Fashion - Thor
+Smashy smashy
+No priest would be caught dead without a ceremonial robe, although robes aren't actually required to pay allegiance to a divinity.<br>These robes, beyond being fashionable, provide a tangible benefit. Thor's robes shield their wearer from the brunt of fall damage, instead spreading it to anything around.
+Superhero landing!
+Faith in Heimdall
+Fate, travel, and color
+The &4Æsir&0 god of the Bifrost, &3Heimdall&0, seems like an interesting god to channel. Wielding his aspect of the &3Divine&0 makes your eyes see more vibrantly, seeing light even in the shadow (except when your eyes almost can't see color at all through &4Drab Vision&0). When carrying a &1Rod of the Bifrost&0, you leave a trail of rainbow &4Bifrost&0 below you, allowing you to run in the sky.
+The warder of heaven
+Bifrost Magic
+The art of Iridescence
+The first spell that &3Heimdall&0's emblem grants, &1Iridescent Tones&0, creates a resonating sound that vibrates with the essence of color. Casting it on any dye will crystallize it, converting it into &1Iridescent Crystal&0. This crystal acts as a higher-potency dye, able to colorize even things like dirt.
+The second spell of &3Heimdall&0, &1Wave of Bifrost&0, creates for you a safe haven. When you cast it, a sphere of &4Bifrost&0 will rise around you, stopping your fall and giving you temporary protection from anything around you.
+Priestly Fashion - Heimdall
+A different way to move
+No priest would be caught dead without a ceremonial robe, although robes aren't actually required to pay allegiance to a divinity.<br>These robes, beyond being fashionable, provide a tangible benefit. Heimdall's robes make their wearer blink towards their vision whenever they jump while sprinting, giving them a different type of motion.
+Ever get that feeling of déjà vu?
+Faith in Loki
+Tricks, traps, and fire
+The &4Jötun&0 god of flame, &3Loki&0, seems like a &owonderful&0 god to channel. Wielding his aspect of the &3Divine&0 makes your body resistant to fire, absorbing it into your body. When holding a &1Fire Charge&0, you can fling it like a ghast's breath.
+He was fortunate in his deceit
+Ephemeral Magic
+The art of trickery
+The first spell that &3Loki&0's emblem grants, &1Fire Cycle&0, &4Progresses&0 the life of coal, turning it into embers. The legal department of &3Loki&0 would like to remind &3Elucent&0 that this does not constitute a break of license.
+The second spell of &3Loki&0, &1Truesight&0, opens your eyes to the traps his followers can set. Each trap will be highlighted with a different form of red wisps.
+The third spell of &3Loki&0, &1Aura of Disdain&0, creates an aura of flames. Anything within it will be Everburned for five seconds after they leave the aura.
+The fourth and final spell of &3Loki&0, &1Inferno Jet&0, creates a jet of flames which attacks the focused target.
+Priestly Fashion - Loki
+Sneaking past your defenses
+No priest would be caught dead without a ceremonial robe, although robes aren't actually required to pay allegiance to a divinity.<br>These robes, beyond being fashionable, provide a tangible benefit. Loki's robes make their wearer unable to trip any of his traps, allowing them safe passage. Loki's typical tricks, like fire and explosives, also won't touch the wearer.
+Made with quality dwarven rocks
+Trap Sigils
+Invisible tricks
+Traps, made from Loki's flame, can be used to trick and deceive your enemies. Each one has a special effect. Some of them last forever, and others disappear on use. Those which disappear return sixteen when crafting.
+The first trap allows you to spin around anyone who walks in it, 90° to the side. This one lasts forever, allowing it to be a permanent fixture of a base.
+How can we see if our eyes aren't real
+The second trap allows you to create a ring of flame when it's tripped. This one only lasts for one use, so use it wisely.
+Alchemy circles
+The third trap allows you to launch anyone who trips it. This can be used offensively or as a fixture of a base, as it lasts forever.
+Wheeeeeeeeeeee
+The fourth trap, which &3Loki&0 reminds you has no connection to the offices of &3Elucent&0, roots down anyone who trips it. As it only lasts once, be prepared to take advantage of it immediately.
+Our rooted predates his
+The fifth trap blinds and slows anyone who trips it, throwing sand into their vision to accomplish this. It only works once, so strike quickly.
+Pocket sand!
+The sixth trap is just a pressure plate, but one that doesn't need to be on a block, and can emit strong redstone pulses. It'll work forever, and can even be used to replace a pressure plate in regular bases.
+Red stone
+The seventh and final trap, the Wrath trap, brings Loki's ire upon anyone who steps in it, highlighting them and giving them their Deity's Disfavor.
+He's always angry
+Brew of Monochromacy
+Negating color
+An interesting brew, it saps color out of the sight of the person who drinks it. It is most useful when in incense form.
+Instant colorblindness
+Traveller's Toolbelt
+Storage on the go
+&3Heimdall&0, being a god of travellers, provides tools to his devotees to make travels easier. One of these useful tools is the &1Traveller's Toolbelt&0. Instead of rushing from place to place like some botanist's belts do, this toolbelt holds items, allowing you to prepare for any eventuality. After all, it's nice to just take some time to appreciate the wonders of the world in your travels.
+Journey before destination
+Traveller's Ration Belt
+A second mouth
+&3Heimdall&0, being a god of travellers, provides tools to his devotees to make travels easier. One of these useful tools is the &1Traveller's Ration Belt&0. Instead of rushing from place to place like some botanist's belts do, this toolbelt will automatically sate your stomach from food in your hotbar, allowing you to focus more on the journey.
+Strength before weakness
+Traveller's Flowstone
+A component sash
+&3Heimdall&0, being a god of travellers, provides tools to his devotees to make travels easier. One of these useful tools is the &1Traveller's Flowstone&0. As a traveller may use belts other than the &1Sashes&0, it gives you the little quirks that make those belts so useful without sacrificing leisure. Specifically, it makes you jump higher and scale small walls. However, it only makes you jump higher while sneaking.
+Life before death
+Traveller's Waystone
+GPS
+&3Heimdall&0, being a god of travellers, provides tools to his devotees to make travels easier. One of these useful tools is the &1Traveller's Waystone&0. It can be bound to a point or named &otrack:&0 and a player's name to track that player, and will give you an indication of what direction to go as long as you're holding it, allowing for easy travels home or to a friend.
+Remember those who have been forgotten
+By combining the stone with the essence of death, you can make a version which targets past lives instead of the present. When you die, you'll reincarnate holding any &1Stones of Return&0 you had on you. These will point your way to the place you died. If you shift-click the stone in the air, it will clear its destination.
+Listen to those who have been ignored
+Frozen Stars
+An ender light source
+The &1Frozen Star&0 is the light and form of the stars, trapped upon earth, and given form through &4Iridescence&0. They are relatively cheap light sources, and give off light with the same strength as &1Glowstone&0. They can be made in any of the colors of &4Iridescence&0.
+Find Polaris to find your way
+Iridescent Shards
+Mana-powered dye
+The &1Iridescent Shard&0 is a refined form of the crystals produced by the &1Iridescent Tones&0. It can output its dye for as long as it has mana, and can be recharged in a pool.
+Double rainbows
+Rod of the Prismatic Lake
+Rainbow lights
+One particularly frustrating property of the &1Mana Lens: Flash&0 is its tendency to lock the color of a &1Mana Flash&0 immediately upon making it. Even if you want to make a rainbow &1Flash&0, you'll get one color. By using the power of the &1Rod of the Prismatic Lake&0, you can make that rainbow. It can be tinged with &1Phantom Ink&0, and dyed with any &4Iridescent&0 dye like leather armor.
+All the colors of the wind
+Iridescent Dirt
+Dirt in lots of colors
+Using the power of &4Iridescence&0, you can make dirt that shimmers every color of the rainbow. This mystical dirt is capable of growing trees and plants without water or a hoe. It can be converted back to regular dirt using a &1Pure Daisy&0.
+Beauty from the dross
+Using the &1Iridescent Sapling&0, you can create a variety of tree that grows in all the colors of &1Iridescent Dirt&0. This can be achieved simply by planting the sapling on any colored dirt and letting it grow.
+2x4s
+Aurora Dirt
+One dirt, lots of colors
+By combining dirt with the shimmering essence of a &1Mana Pearl&0, you can make dirt that captures the threads of magic in the world, having a different color based on its location. This mystical dirt is also capable of growing trees and plants without water or a hoe. It can be converted back to regular dirt using a &1Pure Daisy&0.
+Seek the hour of twilight in the forest of silence
+Break it down
+Iridescent Lantern
+A power-level indicating light
+The &1Iridescent Lantern&0 glows with all the colors of the rainbow. While black in appearance when first set down, giving it a redstone signal will change its color. The higher the signal, the farther down the rainbow the color becomes.<br>If given a full-strength signal, the &1Iridescent Lantern&0 will glow throughout the vibrant rainbow.
+Disco ball
+Fists of Thunder
+A weapon that gets better in pairs
+The &1Fists of Thunder&0 are the standard weapons of any priest of &3Thor&0. One is formidable enough, acting like a quicker &1Iron Sword&0. If you have one on each hand, though, you can block with them as if they were a shield. They can be enchanted to make them heavier or lighter, changing their properties.
+Stopping power
+Sealing Oak
+Sound muffling tree
+The &1Sealing Oak&0 dampens the effects of loud sounds around it, causing anything around it to sound strangely far away. With enough, it's nearly impossible to hear. Any of the blocks in one of these trees can seal sounds.
+An extra utility
+The planks work too
+Thunderous Oak
+A lightning rod
+The &1Thunderous Oak&0 absorbs lightning that strikes around it, preventing it from harming or transforming anything at all. Any of the blocks in one of these trees can absorb lightning.
+Thor'll hate you
+The planks work too
+Circuitree
+A redstone emitter
+The &1Circuitree&0 emits a redstone signal of a strength equal to the number of &1Circuitree&0 blocks consecutively above it. Any block from the tree can be used in the stack, including the sapling.
+I deeply apologize for the pun
+The planks work too
+Calico Tree
+An explosion absorber
+The &1Calico Tree&0 is so cat-like, it scares more than just creepers away, it actually scares off any explosion at all. Any block from the tree can be used for this, including the sapling.
+Not a scratching post
+The planks work too
+The Ritual of Gaia III
+Sight, Sound, Strength, Power, Glory, Speed!
+The ritual performed to face off against the soul of the Earth is a incredible challenge, which allows one to obtain &5Relics&0 and &1Gaia Spirits&0. As you fight, this ritual connects you to the &3Divine&0 by your struggles. So, maybe you could... invert that connection. Through that, you would force a fragment of the &3Divine&0 into your &1Priestly Emblem&0.
+By using &1Divine Ritual Cores&0, you can modify the &4Ritual of Gaia&0 to do just that. These devices focus the energy of the &3Divine&0 into the Guardian, giving it power and health as the ritual plays out. The moment you slay the &4Guardian&0, that focused energy will leap into your &1Priestly Emblem&0. The power you could gain from this connection is staggering.
+The Ritual of Gaia III
+Seek the center to change the world
+The ritual performed to face off against the soul of the Earth is a incredible challenge, which allows one to obtain &5Relics&0 and &1Gaia Spirits&0. As you fight, this ritual connects you to the &3Divine&0 by your struggles. So, maybe you could... invert that connection. Through that, you would force a fragment of the &3Divine&0 into your &1Priestly Emblem&0.
+By wearing your &1Priestly Emblem&0, the Guardian ought to offer a fiercer challenge. The &3Divine&0 power this will channel into the Guardian will give it power and health as the ritual plays out. The moment you slay the &4Guardian&0, that focused energy will leap into your &1Priestly Emblem&0. The power you could gain from this connection is staggering.
+Consequences of Power
+Hindsight is 20/20
+The power you gained from the &3Divine Guardian&0 ritual was grand, but it has drawbacks. For one, you can't take off the imbued emblem. For another, someone wielding a &4Mortalstone&0 could kill you easily, due to the disconnect between the &3Divine&0 and Mortality being so jarring. Holding one allows severing the connection, by tearing the emblem off, but the process is rather lethal.
+Apples of Immortality
+Exactly what it says on the can
+Now that you are fully connected to &3Idunn&0, you can begin to receive her divine gifts. The primary form of these gifts are apples of gold, which make the eater nearly immortal. They'll be resistant to most forms of damage.
+Happiness literally grows on trees
+A simple brew, it mimics the &1Apple of Immortality&0. When taken, it has a similar effect, giving the individual a &4Immortality&0 effect.
+Gather the dragonballs, I need to make a wish
+Mjolnir the Crusher
+A hammer that throws you forward
+Now that you are fully connected to &3Thor&0, you can begin to receive his divine gifts. These gifts come in the form of the &1Crusher&0, &1Mjolnir&0. This hammer is so unnaturally balanced that swinging it will fling you forward, increasing your knockback when you're attacking and providing a convenient escape strategy.
+It's not a boomerang
+The Horn of Fate
+A horn that gives mobs existential crises
+Now that you are fully connected to &3Heimdall&0, you can begin to receive his divine gifts. These gifts come in the form of the &1Horn of Fate&0, &1Gjallerhorn&0. This horn's sound reveals a mob's fate to it, making it barely able to move while it comprehends what it has seen.
+Don't let the existential dread set in
+Arrows of Ascension
+Arrows which remove weight
+Now that you are fully connected to &3Njord&0, you can begin to receive his divine gifts. These gifts come in the form of the &1Arrows of Ascension&0. These arrows remove the hit player's weight temporarily, causing the tiny fluctuations of the wind to push them up. While the arrow itself is not lethal, the resulting fall might be to the unprepared.
+Justice rains from above
+Making more (The arrow is not consumed)
+Fist of Perdition
+A charging fireball
+Now that you are fully connected to &3Loki&0, you can begin to receive his divine gifts. These gifts come in the form of the &1Fist of Perdition&0. This fist grows more powerful the longer its use is charged, releasing a &1Fire Charge&0 from your inventory at the end with all the force of the charge behind it.
+Takes three episodes to fire
+Iridescent Sapling
+A really big carnation
+The &1Iridescent Sapling&0 has no true color of its own. Instead, it grows with whatever dirt is beneath it as a color. Not all dirt can be used in this way, including natural dirt. A good starting point is the special &1Pasture Seeds&0.
+Deconstruction but no reconstruction
+Livingwood Funnel
+A single-slot hopper
+For some people, the &1Hopper&0 is too lax. It allows items through when it shouldn't, and sometimes moves them too fast. The &1Livingwood Funnel&0 is far, far stricter. It only allows one item through at a time, and can be filtered by placing an &1Item Frame&0 on one of its sides. Its contents can be seen by looking at it while holding a &1Wand of the Forest&0.
+London loves queues
+Sonic Amplifier
+Louder sounds
+By dampening the sounds of the air within &1Note Blocks&0, the &1Sonic Amplifier&0 can reverberate sound, making sounds within a block or two sound far louder. The more you have, the louder the sound.
+Don't whisper
+Crackling Stars
+An unstable light source
+The &1Crackling Star&0 is the form of the stars, trapped upon earth, and brought forth through &4Iridescence&0. They appear as a ball of light, but will distribute their mass to a &1Crackling Star&0 it's bound to with a &1Wand of the Forest&0. They give off light with the same strength as &1Glowstone&0, and can be made in any of the colors of &4Iridescence&0.
+Wire's frames
+Weighted Belt
+Prevents floating
+While waterwalking is nice, sometimes a priest of &3Njord&0 needs to walk on the bottom of the ocean. While sneaking can work, it's sometimes nicer to just sink. The &1Weighted Belt&0 will drag you down in air, and prevent waterwalking.
+Fancier cement shoes
+Tome of the Ages
+Break down enchantments
+Enchantments rarely go exactly as planned, and using &1Spellbinding Cloth&0 doesn't give anything back. The &1Tome of the Ages&0 transfers one enchantment at a time into the ancient collective knowledge of the forests, and releases the experience of the enchantment, which can be retrieved with a simple use of the book. Sneak-using the book will steal your experience, allowing you to store it, if imperfectly.
+All hail the second Eaton
+Remote Corporea
+Request items from a Corporea network remotely
+The &1Corporea Resonator&0 and its counterpart, the &1Stone of Recall&0, allow for accessing a corporea network from far away. If you bind a &1Stone&0 to a &1Resonator&0 as if it was a &1Waystone&0, holding the Stone will allow you to trigger the &1Resonator&0 as if it was a &1Corporea Index&0, dropping the results as if it was a &1Corporea Funnel&0.
+Let's Go! Soul Resonance!
+I can't remember...
+Ender Actuator
+Control your Ender Chest remotely
+The &1Ender Actuator&0 is an interesting block, allowing resonance with your &4Ender Chest&0 from across the world. To activate one, click a disabled one and it will begin to shine. As long as you are in the same dimension as a bound &1Actuator&0, it will act as an interface for your &4Ender Chest&0 for machines to use.
+Not a tessaract
+Stone of Meditation
+Sleep far away from a base
+When travelling far away from home, it can often be hard to sleep to accelerate the night. If you use a &1Stone of Meditation&0, it allows you to simulate sleep from far away from a base. Hold it and you'll begin to meditate, simulating sleep in a &1Bed&0.
+Peer into the Spirit
+Stone of Nether Fracture
+Point to your last portal
+The &1Stone of Nether Fracture&0 acts like a &1Traveller's Waystone&0, except it points directly to the last &4Nether Portal&0 you stepped through. Like the &1Stone of Return&0, shift-clicking in the air will clear its destination.
+Keralian resonance
+Stone of Assimilation
+Break things your tools won't normally
+If a regular &4Manasteel Tool&0 won't do the job, the &1Stone of Assimilation&0 just might. Anything a regular tool can't break quickly, like &1Glass&0 or &1Leaves&0, the Stone of Assimilation can. It works with the &1Ring of Correction&0. It can also be enchanted just like a regular manasteel tool.
+I am all stones on this blessed day
+Contract Breaker
+Spin the black circle
+Spin the crackling circle from the waking &1æther&0 of &3Heimdall&0, yellow as the blood of gods. Spin it through the waking &1seas&0 of &3Njord&0, blue as the deepest oceans. Spin it under the waking &1skies&0 of &3Thor&0, green as the grass of plains. Spin it with the waking &1flames&0 of &3Loki&0, red as the blood from which they're born. Spin it to the waking &1land&0 of &3Idunn&0, brown as the deepest dirt, and back to your beginning.
+Offer their souls, and burn forth a token, and may ye see the &3end&0.
+Faith in Ragnarok
+The power of the end
+The &1twisted pendant&0 seems like a dangerous option for faith. The &3apocalypse&0 is not to be tested lightly. Something about it resonates with the other gods, as if it is tied to their fates. The gifts of every god are conferred through the twisted pendant. As for spells, not all of the spells carried through, leaving you with only one from each god.
+There is a single spell unique to faith in &3Ragnarok&0, &4Soul Manifestation&0. While it acts like any other infusion spell, creating &4Iridescence&0, &1Aquamarine&0, &1Thundersteel&0, &1Soulroot&0, and &1Hearth Ember&0, it can also twist the essence of the divine contained within a &1Nether Star&0 into a far purer form: Divine Spirit.
+Gear of Eclipse
+Keep your enemies far and your friends farther
+The gear created with the essence of &4Eclipse&0 encourages you to make your way alone. The &4Mana Masquerade&0, the special ability of the armor set, will recharge your mana from raw life energy, stealing the health of the soulless and the &4Mana&0 of players. The blade of &4Eclipse&0, &1Flarebringer&0, will swing farther than you can reach, cutting past your own limitations.
+For the doom of Gunmar
+The &1Cowl of Eclipse&0
+The &1Chestplate of Eclipse&0
+The &1Platelegs of Eclipse&0
+The &1Greaves of Eclipse&0
+Gear of the Sunmaker
+Unite them
+The gear created with the essence of the &4Sunmaker&0 encourages you to be a bastion against a storm. The &4Unseen Light&0, the special ability of the armor set, will infuse mana into anything damaged you hold or in your body, repairing it and cleansing you. The blade of the &4Sunmaker&0, &1Oathbringer&0, will repulse enemies who dare try to attack from behind, and any attacks from far away, keeping your duels with Honor.
+I will take responsibility for what I've done
+The &1Helm of the Sunmaker&0
+The &1Chestplate of the Sunmaker&0
+The &1Platelegs of the Sunmaker&0
+The &1Greaves of the Sunmaker&0
+Gear of Fenris
+Break thy bonds
+The gear created with the essence of &4Fenris Wolf&0 encourages you to fight where others falter, surpassing your own limitations to cut &1Gleipnir&0. The &4Soul Unbound&0, the special ability of the armor set, strengthens you and strikes past armor when bare-handed. The claws of &4Fenris&0, &1Nightscourge&0, will also strike through armor, and can block attacks like a shield.
+Odinsbane
+The &1Helm of Fenris&0
+The &1Chestplate of Fenris&0
+The &1Platelegs of Fenris&0
+The &1Greaves of Fenris&0
+Someone has found you...

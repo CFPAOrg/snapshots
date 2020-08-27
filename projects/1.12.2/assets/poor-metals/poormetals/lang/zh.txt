@@ -1,0 +1,85 @@
+Poor Metals
+Poor Iron Ore
+Poor Gold Ore
+Poor Adamantine Ore
+Poor Antimony Ore
+Poor Bismuth Ore
+Poor Cold-Iron Ore
+Poor Copper Ore
+Poor Lead Ore
+Poor Mercury Ore
+Poor Nickel Ore
+Poor Platinum Ore
+Poor Silver Ore
+Poor Starsteel Ore
+Poor Tin Ore
+Poor Zinc Ore
+Poor Aluminum Ore
+Poor Beryllium Ore
+Poor Boron Ore
+Poor Cadmium Ore
+Poor Chromium Ore
+Poor Iridium Ore
+Poor Magnesium Ore
+Poor Maganese Ore
+Poor Osmium Ore
+Poor Plutonium Ore
+Poor Rutile Ore
+Poor Tantalum Ore
+Poor Thorium Ore
+Poor Titanium Ore
+Poor Tungsten Ore
+Poor Uranium Ore
+Poor Zirconium Ore
+Poor Nether Iron Ore
+Poor Nether Gold Ore
+Poor Nether Antimony Ore
+Poor Nether Bismuth Ore
+Poor Nether Copper Ore
+Poor Nether Lead Ore
+Poor Nether Mercury Ore
+Poor Nether Nickel Ore
+Poor Nether Platinum Ore
+Poor Nether Silver Ore
+Poor Nether Tin Ore
+Poor Nether Zinc Ore
+Poor Nether Aluminum Ore
+Poor Nether Cadmium Ore
+Poor Nether Chromium Ore
+Poor Nether Iridium Ore
+Poor Nether Magnesium Ore
+Poor Nether Maganese Ore
+Poor Nether Osmium Ore
+Poor Nether Plutonium Ore
+Poor Nether Rutile Ore
+Poor Nether Tantalum Ore
+Poor Nether Titanium Ore
+Poor Nether Tungsten Ore
+Poor Nether Uranium Ore
+Poor Nether Zirconium Ore
+Poor End Iron Ore
+Poor End Gold Ore
+Poor End Antimony Ore
+Poor End Bismuth Ore
+Poor End Copper Ore
+Poor End Lead Ore
+Poor End Mercury Ore
+Poor End Nickel Ore
+Poor End Platinum Ore
+Poor End Silver Ore
+Poor End Tin Ore
+Poor End Zinc Ore
+Poor End Aluminum Ore
+Poor End Cadmium Ore
+Poor End Chromium Ore
+Poor End Iridium Ore
+Poor End Magnesium Ore
+Poor End Maganese Ore
+Poor End Osmium Ore
+Poor End Plutonium Ore
+Poor End Rutile Ore
+Poor End Tantalum Ore
+Poor End Titanium Ore
+Poor End Tungsten Ore
+Poor End Uranium Ore
+Poor End Zirconium Ore

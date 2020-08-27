@@ -1,0 +1,707 @@
+Immersive Intelligence
+Raw Basic Circuit Board
+Etched Basic Circuit Board
+Basic Electronic Component
+Raw Advanced Circuit Board
+Etched Advanced Circuit Board
+Advanced Circuit Board
+Advanced Electronic Component
+Raw Processor Circuit Board
+Etched Processor Circuit Board
+Processor Circuit Board
+Processor
+Transistor
+Compact Electric Engine
+Advanced Compact Electric Engine
+Carbon Brush
+Tungsten Wire
+Glass Fibre Cable
+Advanced Vacuum Tube
+Empty Punchtape
+Punchtape
+Binoculars
+Infrared Binoculars
+Assembly Scheme
+Metal Press Mold: Artillery Shell Casing
+Metal Press Mold: Machinegun Bullet Casing
+Metal Press Mold: Submachinegun Bullet Casing
+Metal Press Mold: Grenade
+Platinum Ingot
+Zinc Ingot
+Tungsten Ingot
+Brass Ingot
+Advanced Electronic Alloy Ingot
+Silicon Ingot
+Magnet
+Platinum Grit
+Zinc Grit
+Tungsten Grit
+Brass Grit
+Advanced Electronic Alloy Grit
+Silicon Dust
+Fluorite Dust
+Quartz Dust
+Dirty Quartz Dust
+Phosphorus Dust
+Platinum Plate
+Zinc Plate
+Tungsten Plate
+Brass Plate
+Advanced Electronic Alloy Plate
+Silicon Wafer
+Platinum Nugget
+Zinc Nugget
+Tungsten Nugget
+Brass Nugget
+Advanced Electronic Alloy Nugget
+Silicon Piece
+Tungsten Wire
+Nether Fluorite
+Nether Phosphorus
+Silicon Boule
+Brass Spring
+Iron Spring
+Steel Spring
+RDX Dust
+HMX Dust
+White Phosphorus
+Steel Bullet Core
+Brass Bullet Core
+Tungsten Bullet Core
+Uranium Bullet Core
+Lead Bullet Core
+Salt Dust
+Sawdust
+Hexamine Dust
+Formaldehyde Dust
+Arithmetic Circuit
+Advanced Arithmetic Circuit
+Logic Circuit
+Comparator Circuit
+Advanced Logic Circuit
+Text Processor Circuit
+ItemStack Operations Circuit
+Minecart with Wooden Crate
+Minecart with Reinforced Crate
+Minecart with Steel Crate
+Minecart with Wooden Barrel
+Minecart with Metal Barrel
+Engineer's Lighter
+Engineer's Measuring Cup
+Engineer's Electric Hammer
+Engineer's Electric Wirecutter
+Engineer's Electric Multitool
+Basic Radio Tuner
+Advanced Radio Tuner
+Machinegun
+Tungsten Drill Head
+Diamond-Tipped Iron Drill Head
+Diamond-Tipped Steel Drill Head
+Diamond-Tipped Tungsten Drill Head
+Water Cooled Barrel
+Heavy Barrel
+Second Magazine
+Belt Fed Ammunition Loader
+Precise Bipod
+Field Bipod
+Scope
+Infrared Scope
+Tracer Dust
+Skycrate Mount
+Electric Skycrate Mount
+Uses water to cool down the MG. Increases the max amount of heat the MG can take.
+Dramatically increases fire rate, has higher recoil and overheats faster.
+Allows to use ammunition from two magazines, needs to be reloaded separately.
+Allows to take ammunition from an ammo crate below the player. Increases setting up time.
+Increases setting up time, decreases recoil
+Decreases setting up time, increases recoil
+Allows to aim at distant things
+Allows nightvision, requires a power source such as a capacitor backpack.
+Data Cable Coil
+Blank Page
+Printed Text
+Printed Code
+Printed Construction Scheme
+Precision Buzzsaw
+Precision Drill
+Precision Inserter
+Precision Solderer
+Precision Welder
+Precision Hammer
+Iron Saw Blade
+Steel Saw Blade
+Tungsten Saw Blade
+ 1 bCal)
+Artillery Shell Casing
+Artillery Shell
+Grenade Casing
+Grenade
+Machinegun Bullet Casing
+Machinegun Bullet
+Submachinegun Bullet Casing
+Submachinegun Bullet
+Revolver Cartridge Casing
+Revolver Cartridge
+TNT
+RDX
+HMX
+Steel Core
+Brass Core
+Tungsten Core
+Lead Core
+Uranium Core
+Machinegun Magazine
+Submachinegun Magazine
+Submachinegun Drum Magazine
+Automatic Revolver Magazine
+Copper Gear
+Brass Gear
+Iron Gear
+Steel Gear
+Tungsten Gear
+Cloth Motor Belt
+Steel Motor Belt
+Engineer's Wrench
+Electric Wrench
+Engineer's Tachometer
+Engineer's Torque Meter
+Platinum Ore
+Platinum Sheetmetal
+Platinum Block
+Platinum Sheetmetal Slab
+Platinum Slab
+Zinc Ore
+Zinc Sheetmetal
+Zinc Block
+Zinc Sheetmetal Slab
+Zinc Slab
+Tungsten Ore
+Tungsten Sheetmetal
+Tungsten Block
+Tungsten Sheetmetal Slab
+Tungsten Slab
+Salt Ore
+Nether Fluorite Ore
+Nether Phosphorus Ore
+Brass Sheetmetal
+Brass Block
+Brass Sheetmetal Slab
+Brass Slab
+Electronic Engineering Block
+Advanced Electronic Engineering Block
+Mechanical Engineering Block
+Heavy Mechanical Engineering Block
+Data Cable Coil
+Steel Motor Belt Coil
+Rope Coil
+Cloth Motor Belt Coil
+Sandbags
+Steel Crate
+Ammunition Crate
+Small Data Buffer
+Item Buffer
+Timed Buffer
+Redstone Buffer
+Debugger
+Data Router
+Data Combiner
+Wooden Gearbox
+Wooden Transmission Box
+Creative Transmission Box
+Wooden Wheel
+Brass Wheel
+Steel Wheel
+Small Wooden Crate (Box)
+Small Wooden Crate (Cube)
+Small Wooden Crate (Wide)
+Small Metal Crate (Box)
+Small Metal Crate (Cube)
+Small Metal Crate (Wide)
+Data Input Machine - Storage
+Data Input Machine - Programming
+Data Input Machine - Editing a Variable
+Redstone Data Interface - Data
+Redstone Data Interface - Redstone
+None
+Boolean
+Int. (0-15)
+Int. (0-255)
+Int. (0-100)
+String
+Arithmetic Logic Machine - Storage
+Arithmetic Logic Machine - Programming
+Arithmetic Logic Machine - Editing an Expression
+Data Connector
+Data Relay
+Chemical Dispenser
+Alarm Siren
+Item Inserter
+Advanced Inserter
+Fluid Inserter
+Advanced Fluid Inserter
+SkyCrate Station
+SkyCrate Post
+Sawmill
+Data Input Machine
+Arithmetic Logic Machine
+Radio Station
+Printing Press
+Chemical Bath
+Electrolyzer
+Precision Assembler
+Periscope
+Artillery Howitzer
+Ballistic Computer
+Missile Silo
+Ammunition Factory
+Scanning Conveyor
+Packer
+Railway Packer
+Unpacker
+Railway Unpacker
+Redstone-Data Interface
+SkyCrate Station
+SkyCrate Post
+Sawmill
+Data Input Machine
+Arithmetic Logic Machine
+Radio Station
+Printing Press
+Chemical Bath
+Electrolyzer
+Precision Assembler
+Periscope
+Artillery Howitzer
+Ballistic Computer
+Missile Silo
+Ammunition Factory
+Scanning Conveyor
+Packer
+Railway Packer
+Unpacker
+Railway Unpacker
+Redstone-Data Interface
+Ink
+Cyan Ink
+Magenta Ink
+Yellow Ink
+Etching Acid
+Hydrofluoric Acid
+Sulfuric Acid
+Nitric Acid
+Oxygen
+Hydrogen
+Chlorine
+Brine
+Ammonia
+Hexamine
+Methanol
+Siren Howling
+Printing Press Working
+Paper Falling
+Machinegun Noises
+Heavy Barrel Machinegun Noises
+Water Cooled Machinegun Noises
+Machinegun Reloading
+Howitzer Firing
+Howitzer Moving
+Howitzer Doors Opening
+Howitzer Doors Closing
+Inserter Noises
+Projectile breaking trough metal
+Projectile bouncing off metal
+Minecart with Wooden Crate
+Minecart with Reinforced Crate
+Minecart with Steel Crate
+Minecart with Wooden Barrel
+Minecart with Metal Barrel
+Skycrate
+Bullet
+Shrapnel
+Machinegun
+Allows to set frequency for basic radio devices.
+An upgraded model for setting higher frequencies.
+Frequency: %s
+Max Frequency: %s
+Capacity: %s / %s mB
+Cannot change size when contains fluid.
+Allows the machine to do operations such as:
+An empty page ready to be printed.
+A page containing some text.
+A page containing some code written in a programming language.
+A page containing information on how to build a structure.
+§4Infrared§r Vision Active!
+§cInfrared§r Vision Disabled!
+Used to create: %s
+Items Created: %s
+§4Hold Control§r
+§cHold Control for more info§r
+§6Hold Shift§r - Materials Used
+§4Hold Control§r - Tools Used
+Materials used:
+Tools used:
+Storage
+Variables
+Data
+Redstone
+Type:
+Add a new variable
+Set
+Change the value of a variable
+Remove
+Remove a variable
+Properties
+Apply
+Value:
+Operation:
+Conditional Variable:
+None
+Variable:
+Shrapnel
+Armor Piercing
+High Explosive
+Incendiary
+Tracer
+Flare
+Chemical
+Special Purpose
+Fitted with %s
+Mass: %s
+Caliber: %s bCal
+Both
+Left
+Right
+Suppressed
+Armour Penetrated
+Radio frequency has been set to %s
+Invalid frequency, basic devices can use frequencies up to %s!
+Current frequency: %s
+Advanced engineering requires advanced tools... you need an Electric Hammer to build this machine!
+Durability: %1$s / %2$s
+Yaw: %s
+Debugger Mode: %s
+Transceiver
+Transmitter
+Receiver
+Internal: speed %s RPM / torque %s Nm.
+Internal: speed %s RPM / torque %s Nm. External: speed %s RPM / torque %s Nm.
+Can't attach motor belts to a wire connector
+One does not simply attach belts to a wire system
+As I said, you CAN'T connect them, stop trying
+Listen to me, if you try to connect them once again...
+WHAT PART OF YOU CAN'T ATTACH BELTS YOU DO NOT UNDERSTAND?!
+Just leave me alone... Dummkopf! Here, have an advancement, and now f**k off!
+You're really boring, even i, MotorBeltUtils.java have feelings, ok?!
+You cannot attach this belt here
+You are in the wrong dimension
+You cannot attach a belt to the same point
+You are too far away from the previous connection
+The connection is obstructed
+The connection exists already
+One of the connection points is invalid
+Speed
+RPM
+Torque
+Nm
+Addition
+Subtraction
+Multiplication
+Division
+Power
+Root
+Max
+Min
+AND
+OR
+NOT
+NAND
+NOR
+XOR
+XNOR
+Greater
+Less
+Greater or Equal
+Less or Equal
+Equal
+Join
+Filter
+Format
+Conditional Construct - Null
+Conditional Construct - Boolean
+Conditional Construct - Integer
+Conditional Construct - String
+Get Quantity
+Set Quantity
+Get Durability
+Set Durability
+Get NBT
+Set NBT
+Can Stack With
+Matches OreDictionary
+Null
+Boolean
+Integer
+String
+Expression
+Accessor
+ItemStack
+True
+False
+Basic Circuits
+Advanced Circuits
+Processors
+Basic Functional Circuits
+Advanced Functional Circuits
+Springs
+Immersive Intelligence
+RTFM?
+Powerful Conveying
+Link two mechanical wheels with a belt coil
+Who dares wins
+You had enough? Now give me a rest.
+Better, Harder, Faster!
+Produce an Advanced Circuit Board
+Bertha's Sister
+Create an Artillery Howitzer
+The Bulbulator
+Create a Chemical Bath
+Beep boop?
+Produce a Circuit Board
+The Crimson Inserter
+Craft an upgraded version of the inserter.
+Tactical Observation
+Craft the binoculars
+A Flame in the Black night
+Craft the Chemical Dispenser
+No yellow ones, sorry!
+Craft an Inserter
+The Infiltrator
+Craft the Infrared Binoculars
+Comeback of the Zippo Guy
+Craft a Lighter
+Property of Hans
+Craft the infamous Machinegun
+Is the reactor OK?
+Craft an Alarm Siren
+Fluid Shock Therapy
+Create an Electrolyzer
+Hans 9000
+Prepare the MG for stationary defense
+Let me show you its Features!
+Upgrade the MG with an Infrared Scope, a Heavy Barrel and a Second Magazine
+Better than the World?
+Acquire a Platinum Ingot
+Defeating the Monster with Heat
+Acquire a Tungsten Ingot
+Faster than Dwarves
+Craft a Tungsten Drill Head
+Tinkering with Tools
+Craft a Diamond Tipped Tungsten Drill Head
+Quality: Masterwork
+Craft the Precision Assembler
+Low on ink
+Create a Printing Press
+Can it run Crysis?
+Produce an Processor Circuit Board
+Remote Control
+Create a Radio Station
+Stories of Deco Morreno
+The supreme quality has been achieved.
+Data Transmission
+Warfare
+Logistics
+Intelligence
+Data
+Controlling the Flow
+When you want to control an automated factory, power plant or a different complicated structure you need some kind of a control system. <br>Redstone is good for a start, but with lots of machines the messy nature of it starts to show - and that's an appropriate moment to introduce The Data System.
+Data, in contrast to a redstone signal, is sent in a asynchronous way via packets. This means, that the signal isn't being sent all the time, but only once. Each packet can contain 36 <link;data_variable_types;§n§oVariables§r;> of different types, labelled by one of the 26 letters and numbers 0-9. The packets are received and sent instantly, allowing them to travel vast distances without any loss in data they store.
+Variable Types
+Results May Vary
+There are multiple types of the variables a packet can hold. Each one has a default value (not to be confused with <link;data_variable_types_null;§o§nNull§r;>) and other parameters specific to their type.<br> The basic types are: <link;data_variable_types_null;§o§nNull§r;>, <link;data_variable_types_int;§o§nInteger§r;>, <link;data_variable_types_string;§o§nString§r;>, <link;data_variable_types_bool;§o§nBoolean§r;>, there are also a couple of more advanced types like <link;data_variable_types_itemstack;§o§nItemStack§r;>, <link;data_variable_types_array;§o§nArray§r;>, <link;data_variable_types_pair;§o§nPair§r;> and <link;data_variable_types_range;§o§nRange§r;>.
+Null is a special variable type, which has no value. It is the default type of an undefined variable.
+Integer (often shortened to Int) is a number variable type, mainly used in calculations and number comparisons.
+String is a text variable type, it can hold a variety of different characters.
+Boolean (often shortened to Bool) is a logic variable type, it can hold one of two values - True or False and can be used in logic functions.
+ItemStack is an advanced variable type which can hold informations about a specific item (not item type) like id, metadata (damage) and NBT.
+Array is a collection of variables, ordered by their index number (starting from 0), it can hold any variable type, except another array.
+Pair is a variable type, which consists of two basic variable types, often used in comparisons.
+Range is a variable type, which consists of two <link;data_variable_types_int;§o§nIntegers§r;>, it is most commonly used in comparing numbers or setting them in a range.
+Default Value
+Minimal Value
+Maximal Value
+Lowest Index
+Highest Index
+Empty
+Accepted Values
+Maximal Length
+True/False
+False
+True
+Circuitry
+Not really Beep-Boop yet
+Circuits are one of the most important and commonly used electronic parts. There are three kinds of circuits: <link;circuit_production_basic;§n§obasic§r;> - made using vacuum tubes and redstone, <link;circuit_production_advanced;§o§nadvanced§r;> - made using Advanced Electronic Alloy™ and upgraded vacuum tubes. The most sophisticated are the <link;circuit_production_processor;§o§nprocessor§r;> circuits, which are made mainly of silicon in a complicated <link;precision_assembler;§o§nassembly§r;> process.
+Basic circuits are the common, primary and cheap circuits. They can be refitted to perform simple arithmetic, logic and text operations, but their main use is construction of various machines. To produce a basic circuit a raw circuit board has to be <chemical_bath;§o§netched§r;> in acid and then a chip made of vacuum tubes in the <link;precission_assembler;§o§nPrecision §o§nAssembler§r;> has to be installed onto them.
+Basic circuits are used to make basic-tier electronic devices and machines, such as the Printing Press, the <link;arithmetic_logic_machine;§o§nArithmetic-Logic §o§nMachine§r;> and the <link;data_input_machine;§o§nData §o§nInput §o§nMachine§r;>.
+Advanced circuits are a direct upgrade to their predecessors, they still use vacuum tubes, but because of the new alloy used, their capabilities are much better. They are made of an upgraded circuit board and a chip composed of upgraded vacuum tubes.
+Because of their fast transmission rate, they can be refitted for performing more advanced arithmetic, logic, text and even item-processing operations. Because of their superior speed, they are used in wireless transmission and advanced computing machines.
+Processor circuits are the most advanced and powerful circuits in the world, crafted using silicon, advanced electronic alloy and various other materials during a multi-step assembly process.
+Currently processors are not used in making anything, so build them more as a challenge than an actually needed item.
+Chemical Bath
+The Bulbulator
+The Chemical Bath is a machine, constructed of an industrial-size steel bathtub and a moving carriage with a grasper. The machine is commonly used for etching raw circuits in acid. To form it use a hammer on the middle sheetmetal block.
+Precision Assembler
+The Godly Artisan
+The Precision Assembler is an advanced machine used for crafting items with high precision. It requires an Assembly Scheme and some precise tools for operation. To form it, use a hammer on the wooden scaffolding block.
+the machine uses only the amount it needs and outputs scrap along with the produced item. Its most common use is electonic component production.
+Electrolyzer
+The fluid shock therapy
+The Electrolyzer is a machine which uses the electrolysis process to split a fluid into two different ones. It can split water into hydrogen and oxygen and brine into chlorine and hydrogen. It requires electricity to operate. To form the block, use a hammer on the heavy engineering block in front of the machine.
+Printing Press
+The Engineer's Book & Quill
+The Printing Press is a machine which can print out text on demand when it receives a data packet. The Press requires ink and paper to operate. To form it, use a hammer on the light engineering block in front of the machine.
+ The printing paper is a special thinned version of a standard one used in books, it is created by pressing a paper in a metal press. Machine requires different ink colors, depending on the CMYK values of the currently printed color.
+amount of inks depending on the color of currently printed character. Outputted printed pages should be removed immediately, as the press can only store 12 of them in its basket.
+String 't' - output type (text/construction/code)<br>Integer c - amount of copies<br>String 's' - text to print (if using the mode "text")<br>
+Data Input Machine
+The Input Outputter
+The Data Input Machine is an electronic device which consists of a wooden desk with a keyboard on top and a steel machine casing. A user can input data into it and send it by applying a redstone signal. After sending a data packet, the variables remain there and the machine can be used again. To operate, the device requires electricity. To form it use a hammer on the light engineering block to the left.
+The machine's interface consists of two parts. The storage part which is used to store punchtapes with data written on them and the data part. A punchtape can be inserted into a slot to read it (if the punchtape is written) or to write the machine's data packet into it (when the punchtape is empty). In the data section, variables can be added by using the '+' button. Then they can be edited or removed (hold shift). When editing the
+Arithmetic-Logic Machine
+Does Quick Maths
+The Arithmetic-Logic Machine is an electronic device, which primary task is to process and modify data. It requires energy and to operate.
+When a data packet is received at the left side of the machine, it uses functional circuits placed into 4 slots in the rack to change variables accordingly. The machine iterates trough all the circuits and then trough variables alphabetically and sets their values to the result of the given Expression. The expression consists of 2 values and an operator (+,-,*, etc.). Each circuit has a list of available expressions. The expression can also have a Conditional Variable (a Boolean),
+The machine also offers a non-standard datatype, the Accessor, which doesn't hold any value of its own, but can get a value from variable from the received packet. The variable in an expression can be toggled to an Accessor by clicking the '@' button.
+Arithmetic Circuit<br>This circuit  is used to calculate basic math expressions such as addition, subtraction, multiplication and division.
+Advanced Arithmetic Circuit<br> This circuit allows to calculate more advanced math expressions such as raising a number to a power, getting a square root or getting the lowest or highest number from two.
+Logic Circuit<br> This circuit is used for basic logic expressions (like a logic gate) such as AND, OR, NOT.
+Comparator Circuit<br>This circuit allows to compare two integers and returns a boolean.
+Advanced Logic Circuit<br> This circuit can perform advanced logic operations, such as NAND, NOR, XOR and XNOR and the basic ones.
+Text Processor Circuit<br> This circuit can do basic text processing, currently only allows to merge two Strings.
+ItemStack Operations Circuit<br> This circuit can get and manipulate the properties of an ItemStack datatype, it can be used for getting/setting the stack's NBT, meta and id. Can be used in combination with other circuits to control a logistic system.
+Redstone Interface
+The Equivalent Exchange
+The Redstone Interface is a bridge between the old, but still used redstone and the new data system. It can convert data from and to a redstone signal. Because it's only a converter, the machine doesn't use any power.
+The machine consists of several parts, some wirecoils, a bunch of steel plates and few electron tubes, but the most important ones are the data input port, on which a connector needs to be placed and a built-in redstone output connector, to which you can attach a wire. In the user interface there are two sections, data to redstone and the opposite. After you add an entry, you have to specify the variable letter and the corresponding redstone colour.
+Conveyor Scanner
+Get the camera!
+The conveyor scanner is a device consisting of a conveyor, a camera with a special lens and an electronic device which processes information. Then an item passes trough the Conveyor Scanner, its properties are read and sent in an ItemStack type variable 's' inside a Data Packet. To operate, the machine requires electricity. To form it use a hammer on the conveyor.
+Inserters
+No yellow this time!
+The Precision Insertion Device, also known as the Inserter is a device used to transfer items from one inventory to another. Item inserters consists of an arm and motors for rotation and handling the item pickup. Fluid inserters use pipes and automatic valves. Inserters are able to take and output from and to any horizontal side desired.
+The Inserter's sides can be configured with a hammer (sneak to set output). Inserters require electricity to run and data to tell them what to do.
+The basic inserter is used for simple, but controlled item transfer. Made of basic circuits and mechanical components, it is a cheap and easy way to determine how many items should be transfered from one block to other.
+Variables<br>String 'm' - item take mode (set/add)<br>Integer 'c' - amount of items<br>
+The advanced inserter is an upgraded version, which allows to filter picking certain items and allows picking up crates and barrels from minecarts. The Advanced Inserters are much faster, but they also drain more power.
+Variables<br>String 'm' - item take mode (set/add)<br>Integer 'c' - amount of items<br>Boolean 'b' - can pick blocks (from minecarts)<br>String 'f' - filter mode (whitelist, blacklist, none)<br>String 'g' - advanced filter mode (exact, item, oredict)<br> String 'w' - minecart take mode (items / block)<br>ItemStacks '1'-'0' - item filters
+The fluid inserter is a precise limiter of fluid transfer. In some situations you want to insert only a required amount, this device does exactly that.
+Variables<br>String 'm' - item take mode (set/add)<br>Integer 'c' - amount of fluid (mB)<br>
+Alarm Siren
+The reactor is OK, was, at least.
+The alarm siren is a device, which emits a loud noise when provided a redstone signal. Redstone wire can be attached from any side. The siren, like every redstone connector, can be reconfigured to use a different redstone channel (default is white).
+Radio Station
+The Wireless Wire™
+The Radio Station is a device for sending and receiving data wirelessly. Radio stations can only communicate, when they are in range (which is lower in bad weather), when they work on the same frequency and when both towers are given enough electrical energy.
+The Radio Station is an advanced multiblock, which means it can be only built using an Electric Engineer's Hammer in a 2-step process. In the first stage the multiblock must be built and then a hammer has to be used on the upper advanced electronic engineering block, in the second energy (trough using the electric hammer) has to be provided to finish it.
+The Radio Station's frequency can be set by using a Radio Tuner. There are 2 versions of the tuner with different ranges of frequencies. The radio station can use only the basic range.
+Small Data Devices
+The Gray Future Cubes
+The data merger is a machine which can combine two data inputs from the sides into an output to the front. The machine has a toggle for the preferred side to take variable from. Each variable also has a side override mode, green is the left and red is the right, darker colours remove the variable if the latest packet from that side doesn't contain the variable.
+Data router allows to direct a packet into a specific side, which is defined by one of the packet's variables (can be set on the router by sneak using hammer). The variable has to be an integer.<br>Top - 0<br>Bottom - 1<br>North - 2<br>South - 3<br>East - 4<br>West - 5
+The redstone buffer is a device which can hold an incoming data packet, until it doesn't receive a redstone signal.
+The timed buffer is a device, which can hold an incoming data packet for a given amount of time. The duration is set by the variable '0' (a number of ticks to wait).
+The small data buffer is a device which can hold up to 4 packets and can release them using the First-In-First-Out method when given a redstone signal.
+Data Wiring
+Not really powerlines
+Trough the wires, data is sent and received immediately. In some cases using <link;radio_station;§o§nWireless §o§nTransmission§r;> might be better, but wires offer better stability during harsh weather and are cheaper.
+Data wires like most cabling have their own relays and connectors, which split and connect machines. These can be used to create great logistic, warfare, intelligence and production networks.
+Data Wiring
+Not really powerlines
+Trough the wires, data is sent and received immediately. In some cases using <link;radio_station;§o§nWireless §o§nTransmission§r;> might be better, but wires offer better stability during harsh weather and are cheaper.
+Data wires like most cabling have their own relays and connectors, which split and connect machines. These can be used to create great logistic, warfare, intelligence and production networks.
+Intelligence
+Science's most powerful weapon
+Intelligence is a branch of engineering focused on espionage, infiltration, sabotage and reconnaissance.<br>Intelligence offers multiple tools and machines to observe and predicate enemy movements. These include simple ones like the Binoculars and advanced like the Infrared Observer or Strategic Command Table.
+Binoculars
+The Eyes of the Science
+The Binoculars are a tool, that allows further vision. They are based on the same magnification principle the scope of the <link;railgun;§o§nRailgun§r;>.
+The Infrared Binoculars are an upgraded version of the regular ones. When provided energy i.e. from a <link;powerpack;§o§nCapacitor §o§nBackpack§r;> it allows night vision, don't use them in lighted areas, it could severely blind you.
+Infiltrator's Goggles
+Übervision
+Infrared Observer
+The Big Brother
+Radar
+A relic from Dover
+Strategic Command Table
+The Art of War
+Warfare
+Engineer & Conquer
+Warfare is a branch of engineering focused on defense and offense against enemies. Engineered inventions have revolutionised the modern way of combat, swords and shields have become obsolete, the era of projectile weapons has come. Modern warfare is based on both precise and fast attacks with range superior to any weapon of the past.
+Machinegun
+Property of Hans
+The machinegun is a pioneering, sophisticated new invention, that allows effective defense against all sorts of threats. Unlike most manned weapons, the machinegun can not be fired on the go. In order to fire it has to be displaced on a block with enough space. The MG uses disposable magazines, which can be loaded with bullets in the <link;packer;§o§nPacker§r;>.
+While firing bullets, casings drop on the ground to be picked. The MG is prone to overheating, which depends on the firing rate. The gun like most modern-day equipment allows for different configurations using upgrades, such as water cooling, scopes, change of bipod and more.
+The heavy barrel is a modification, which increases the gun fire rate dramatically, but by that also increases the speed of the gun overheating. Firing the gun with short bursts is the best tactic using this upgrade.
+The heavy barrel is a modification that allows to fill the tank underneath the barrel with coolant (such as water), this almost eliminates the gun overheating. Laying suppresive fire with this upgrade is a good idea, but you have to do it with precision, because of the gun's slow firing rate.
+*CURRENTLY NOT IMPLEMENTED* The belt fed ammunition loader allows for loading ammunition from a belt, provided by the ammunition crate below the firing position.
+The double magazine upgrade allows to load two magazines into the gun, the second magazine can be loaded from the offhand.
+The field bipod is a hastily-made replacement for the default one, it decreases the gun's deployment speed, but increases the recoil.
+The precise bipod is a replacement for the default one, made with high precision, it increases the gun's deployment speed, but decreases the recoil.
+The machinegun scope is a modified version of the scope from the <link;railgun;§o§nRailgun§r;> that allows magnification of the distant target.
+The infrared scope is an upgraded version of its predecessor, which can also provide nightvision using the infrared reflector and a special filter, to work it requires energy provided by a capacitor backpack.
+Grenades
+Achtung, Granate!
+The stick-hand-grenade is a thrown weapon that contains explosives or other material that triggers on contact.
+Artillery Howitzer
+Bertha's Sister
+The Precision Bombardment Device, commonly known as the Howitzer is an indirect fire weapon, that allows attacking targets as distant as 300 blocks. It is controlled using the data system and loaded with special high-caliber shells. It is best used in offensive operations.
+The howitzer emplacement consists of a concrete bunker with the gun, command tables on the sides on the top and a steel door, thtat can be opened by providing a redstone signal. Ammunition has to be provided to the conveyor going down and loaded using the "load" command, after firing, the gun empty casing has to be unloaded with the "unload" command. The machine requires big amounts of power to operate. To form it use a hammer on the concrete block sticking out at the top.
+Variables<br>String 'm' - action mode (load/unload/fire/stop)<br>Integer 'p' - the pitch rotation of the gun<br>Integer 'y' - the yaw rotation of the gun<br>Integer 'f' - the bullet fuse time (in ticks), after the time is out, the bullet is triggered.
+Ballistic Computer
+Calculate this to that
+The Ballistic Computer is a device that translates a position vector and bullet mass to yaw and pitch used by most data-driven weapons.
+Variables input:<br>Integers 'x','y','z' - the position to fire onto<br>Integer 'm' - the bullet's mass<br>Variables output:<br>Integer 'p' - the pitch rotation of the gun<br>Integer 'y' - the yaw rotation of the gun
+Ammunition Crate
+Coloured green, not Blu
+The Ammunition Crate is a portable storage for all the bullets and empty casings. It can be used to load a revolver or a speedloader, by creating a load pattern and putting the cartridges inside. To reclaim a revolver from the crate, use it with an empty hand.
+Chemical Dispenser
+A flame in the Black night
+A device invented by the same engineer, who designed the electric hammer, originally for watering crops and stopping fires, it also can be used for precise spraying a position with an incendiary liquid.
+The Chemical Dispenser requires power supplied trough a wire to the device's connector, a data signal (or a constant redstone signal) to decide about its actions and fluid to the input on the back.
+Variables:<br>Integer 'a'-amount of fluid to spray<br>Boolean 'i' - should the fluid be ignited<br>Integers 'y','p' - yaw and pitch of the nozzle<br>
+Ammunition Factory
+Still better that making pens!
+The Ammunition Factory is a heavy, multi-section machine which produces ammunition of all types. You can produce grenades, bullets and shells here and their effect depends on materials used.
+The machine requires a power supply and can be given an optional data signal to change the bullets' fuse time, colouration and name. The basic ingredients of ammunition are:<br>The core - made of metal, such as steel or brass<br>The components - explosive materials, tracer dust, incendiary materials, fireworks, etc.<br>Gunpowder - the amount used depends of ammunition's calliber.<br>The higher the calliber the bigger the capacity for the components, thus bigger the mass.
+When making bullets, remember: there is no such thing as "the best bullet composition", add ingredients adjacent to your needs. Need a stun grenade? Use fireworks. Need a bullet that can penetrate trough steel? Use uranium cores. Keep in mind, that combining these two will result in lower suppression modifier of the fireworks, the cores modify the strengths of the effects. Some materials like brass raise it, while some like tungsten, steel or uranium decrease it.
+Use the data system to name and color your bullets. This will allow you to differentiate them easier, so you won't mistake an armour-piercing round for a high-explosive one. For coloring the machine requires a supply of inks to its tank, similar to the <link;printing_press;§o§nPrinting §o§nPress§r;>.
+Variables:<br>Integer 'p'-percentage proportion of the bullet components (0-100)<br>Integer or String 'c'-bullet casing's colour (Int - RGB, String - Hex)<br>String 'n' - bullet name.
+Logistics
+Logi, bmats ASAP!
+Logistics is a unique branch of engineering focused on storing, delivering and managing the way of transfer of goods. A good logistic system consists of a warehouse for storage and nearby production plants and factories for quick manufacturing of needed things. With the newest electronic and electric technology and some old rotary powered machines, creating a good delivery system is easier than ever.
+Packer
+Even more Pipes and Tunnels!
+Packer is a machine used to batch load items into containers such as crates or bullet magazines. For operation it requires power and a single data signal defining how much items should be put each time. To form it, use a hammer on the pipe above the conveyor belt.
+ The packer receives items to be packed from the side and containers onto the bottom conveyor.
+Variables:<br>Integer 'c'-items to pack<br>Integer or String (one_by_one, one_of_all) 'm'-item packing mode<br>Integer 'q' - insert quantity<br>Boolean 'i' - whether the machine should ignore empty stacks.
+Skycrates
+The actual logistic lines!
+The skycrate system is a different approach on delivering items. It's speed is superior to any conveyor and lines made of rope are much cheaper and more space-efficient. There are also some drawbacks to it: it requires stations on both sides and the crates need to be inserted to a minecart. Skycrates are a better option than conveyors on longer distances, it is not encouraged to use them on short (0-30m) distances.
+The Skycrate Station is a begin and end point of a skycrate line. To form it use a hammer on the scaffolding in the middle. To function, it requires rotary power inputted to its side. The amount of gears increase its efficiency similar to how it works with the <link;rotary_power3;§o§nGearboxes§r;>.
+The station uses mounts to attach the skycrates, the mounts are taken from the back, behind the inserter. Minecarts can only enter the station when the railway barrier is up, a minecart can be forced out of the station, by applying a redstone signal. The station will automatically expell minecarts after loading/unloading.
+The Skycrate Post is what a relay between two points in the skycrate network. Only two wires can be attached. To form it use a hammer on the fence.
+Crate minecarts are a safe way to transport items via rail. They can be crafted by putting a crate into a minecart, items inside won't be lost. When disassembled, the minecart splits into the actual cart and the crate.
+The skycrate mounts are used to transport crates via the zipline, there are two models: the basic one and the electric one, which uses energy provided on the go by <link;tesla_coil;§o§nTesla §o§nCoils§r;> nearby.
+Sawmill
+The better fidget spinner!
+The Sawmill is an automatic carpentry machine powered by rotary energy. It consists of a table, a mechanical inserter and saw mount. To form the multiblock, use a hammer on the middle wooden scaffolding.
+Saws made of different materials can be mounted. While every saw is effective at cutting wood, saws made of hard materials like steel and tunsten can even cut trough metals.
+The machine requires a constant supply of rotary power to it's side. Resources can be inserted to table's right side and processed items are outputted to the wooden storage box on the ground
+Rotary Power
+Things start turning!
+Rotary power is an old-fashioned alternative to electric power. Instead of wires and connectors, wheels and motor belts are used. The power system utilizes 2 factors: torque - in Newton metres (Nm) and speed in RPM. Machines require different torque and speed to work effectively.
+If any of those values surpasses the limit, the machine explodes. Power can be merged and splitted using <link;rotary_power3;§o§nGearboxes§r;>.
+The wheel is used to transfer mechanical (rotary) power between devices. After placing it can be connected to another wheel using a motor belt, the same way connectors are linked with wires.
+The motor belts are the main transmission element of every rotary power network. They differ with the amount of torque and speed they can transfer. If the torque or the speed it too high for the belt, it detaches from the wheel and falls on the ground. Use different materials for different needs - steel might be more resistant to torque, but power losses are higher.
+The Gearboxes are used to link multiple wheels together, their sides can be changed to input, output or nothing. Inputted torque from all inputs is summed and then divided equally between all outputs. You can use the gearbox to merge torque to make it higher or divide it between 2 or more wheels. The gearbox requires gears of certain resistance to torque and speed to operate on full power.
+The Transmission Boxes are used to connect mechanical devices using a different standard of axles, they can be used to connect a windmill or a waterwheel to a motor belt network or output mechanical energy to a dynamo.
+The wrench and the electric wrench can be used to open hatches of mechanical devices for maintenance purposes, such as changing gears in a gearbox.

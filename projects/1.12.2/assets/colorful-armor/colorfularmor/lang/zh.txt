@@ -1,0 +1,274 @@
+Colorful Armor
+Chain Link
+Red Iron Helmet
+Red Iron Chestplate
+Red Iron Leggings
+Red Iron Boots
+Green Iron Helmet
+Green Iron Chestplate
+Green Iron Leggings
+Green Iron Boots
+Black Iron Helmet
+Black Iron Chestplate
+Black Iron Leggings
+Black Iron Boots
+Brown Iron Helmet
+Brown Iron Chestplate
+Brown Iron Leggings
+Brown Iron Boots
+Cyan Iron Helmet
+Cyan Iron Chestplate
+Cyan Iron Leggings
+Cyan Iron Boots
+Light Blue Iron Helmet
+Light Blue Iron Chestplate
+Light Blue Iron Leggings
+Light Blue Iron Boots
+Light Blue Iron Helmet
+Light Blue Iron Chestplate
+Light Blue Iron Leggings
+Light Blue Iron Boots
+Pink Iron Helmet
+Pink Iron Chestplate
+Pink Iron Leggings
+Pink Iron Boots
+Blue Iron Helmet
+Blue Iron Chestplate
+Blue Iron Leggings
+Blue Iron Boots
+Lime Iron Helmet
+Lime Iron Chestplate
+Lime Iron Leggings
+Lime Iron Boots
+Yellow Iron Helmet
+Yellow Iron Chestplate
+Yellow Iron Leggings
+Yellow Iron Boots
+Purple Iron Helmet
+Purple Iron Chestplate
+Purple Iron Leggings
+Purple Iron Boots
+Orange Iron Helmet
+Orange Iron Chestplate
+Orange Iron Leggings
+Orange Iron Boots
+White Iron Helmet
+White Iron Chestplate
+White Iron Leggings
+White Iron Boots
+Magenta Iron Helmet
+Magenta Iron Chestplate
+Magenta Iron Leggings
+Magenta Iron Boots
+Gray Iron Helmet
+Gray Iron Chestplate
+Gray Iron Leggings
+Gray Iron Boots
+Light Gray Iron Helmet
+Light Gray Iron Chestplate
+Light Gray Iron Leggings
+Light Gray Iron Boots
+Red Golden Helmet
+Red Golden Chestplate
+Red Golden Leggings
+Red Golden Boots
+Green Golden Helmet
+Green Golden Chestplate
+Green Golden Leggings
+Green Golden Boots
+Black Golden Helmet
+Black Golden Chestplate
+Black Golden Leggings
+Black Golden Boots
+Brown Golden Helmet
+Brown Golden Chestplate
+Brown Golden Leggings
+Brown Golden Boots
+Cyan Golden Helmet
+Cyan Golden Chestplate
+Cyan Golden Leggings
+Cyan Golden Boots
+Light Blue Golden Helmet
+Light Blue Golden Chestplate
+Light Blue Golden Leggings
+Light Blue Golden Boots
+Light Blue Golden Helmet
+Light Blue Golden Chestplate
+Light Blue Golden Leggings
+Light Blue Golden Boots
+Pink Golden Helmet
+Pink Golden Chestplate
+Pink Golden Leggings
+Pink Golden Boots
+Blue Golden Helmet
+Blue Golden Chestplate
+Blue Golden Leggings
+Blue Golden Boots
+Lime Golden Helmet
+Lime Golden Chestplate
+Lime Golden Leggings
+Lime Golden Boots
+Yellow Golden Helmet
+Yellow Golden Chestplate
+Yellow Golden Leggings
+Yellow Golden Boots
+Purple Golden Helmet
+Purple Golden Chestplate
+Purple Golden Leggings
+Purple Golden Boots
+Orange Golden Helmet
+Orange Golden Chestplate
+Orange Golden Leggings
+Orange Golden Boots
+White Golden Helmet
+White Golden Chestplate
+White Golden Leggings
+White Golden Boots
+Magenta Golden Helmet
+Magenta Golden Chestplate
+Magenta Golden Leggings
+Magenta Golden Boots
+Gray Golden Helmet
+Gray Golden Chestplate
+Gray Golden Leggings
+Gray Golden Boots
+Light Gray Golden Helmet
+Light Gray Golden Chestplate
+Light Gray Golden Leggings
+Light Gray Golden Boots
+Red Diamond Helmet
+Red Diamond Chestplate
+Red Diamond Leggings
+Red Diamond Boots
+Green Diamond Helmet
+Green Diamond Chestplate
+Green Diamond Leggings
+Green Diamond Boots
+Black Diamond Helmet
+Black Diamond Chestplate
+Black Diamond Leggings
+Black Diamond Boots
+Brown Diamond Helmet
+Brown Diamond Chestplate
+Brown Diamond Leggings
+Brown Diamond Boots
+Cyan Diamond Helmet
+Cyan Diamond Chestplate
+Cyan Diamond Leggings
+Cyan Diamond Boots
+Light Blue Diamond Helmet
+Light Blue Diamond Chestplate
+Light Blue Diamond Leggings
+Light Blue Diamond Boots
+Light Blue Diamond Helmet
+Light Blue Diamond Chestplate
+Light Blue Diamond Leggings
+Light Blue Diamond Boots
+Pink Diamond Helmet
+Pink Diamond Chestplate
+Pink Diamond Leggings
+Pink Diamond Boots
+Blue Diamond Helmet
+Blue Diamond Chestplate
+Blue Diamond Leggings
+Blue Diamond Boots
+Lime Diamond Helmet
+Lime Diamond Chestplate
+Lime Diamond Leggings
+Lime Diamond Boots
+Yellow Diamond Helmet
+Yellow Diamond Chestplate
+Yellow Diamond Leggings
+Yellow Diamond Boots
+Purple Diamond Helmet
+Purple Diamond Chestplate
+Purple Diamond Leggings
+Purple Diamond Boots
+Orange Diamond Helmet
+Orange Diamond Chestplate
+Orange Diamond Leggings
+Orange Diamond Boots
+White Diamond Helmet
+White Diamond Chestplate
+White Diamond Leggings
+White Diamond Boots
+Magenta Diamond Helmet
+Magenta Diamond Chestplate
+Magenta Diamond Leggings
+Magenta Diamond Boots
+Gray Diamond Helmet
+Gray Diamond Chestplate
+Gray Diamond Leggings
+Gray Diamond Boots
+Light Gray Diamond Helmet
+Light Gray Diamond Chestplate
+Light Gray Diamond Leggings
+Light Gray Diamond Boots
+Red Chainmail Helmet
+Red Chainmail Chestplate
+Red Chainmail Leggings
+Red Chainmail Boots
+Green Chainmail Helmet
+Green Chainmail Chestplate
+Green Chainmail Leggings
+Green Chainmail Boots
+Black Chainmail Helmet
+Black Chainmail Chestplate
+Black Chainmail Leggings
+Black Chainmail Boots
+Brown Chainmail Helmet
+Brown Chainmail Chestplate
+Brown Chainmail Leggings
+Brown Chainmail Boots
+Cyan Chainmail Helmet
+Cyan Chainmail Chestplate
+Cyan Chainmail Leggings
+Cyan Chainmail Boots
+Light Blue Chainmail Helmet
+Light Blue Chainmail Chestplate
+Light Blue Chainmail Leggings
+Light Blue Chainmail Boots
+Light Blue Chainmail Helmet
+Light Blue Chainmail Chestplate
+Light Blue Chainmail Leggings
+Light Blue Chainmail Boots
+Pink Chainmail Helmet
+Pink Chainmail Chestplate
+Pink Chainmail Leggings
+Pink Chainmail Boots
+Blue Chainmail Helmet
+Blue Chainmail Chestplate
+Blue Chainmail Leggings
+Blue Chainmail Boots
+Lime Chainmail Helmet
+Lime Chainmail Chestplate
+Lime Chainmail Leggings
+Lime Chainmail Boots
+Yellow Chainmail Helmet
+Yellow Chainmail Chestplate
+Yellow Chainmail Leggings
+Yellow Chainmail Boots
+Purple Chainmail Helmet
+Purple Chainmail Chestplate
+Purple Chainmail Leggings
+Purple Chainmail Boots
+Orange Chainmail Helmet
+Orange Chainmail Chestplate
+Orange Chainmail Leggings
+Orange Chainmail Boots
+White Chainmail Helmet
+White Chainmail Chestplate
+White Chainmail Leggings
+White Chainmail Boots
+Magenta Chainmail Helmet
+Magenta Chainmail Chestplate
+Magenta Chainmail Leggings
+Magenta Chainmail Boots
+Gray Chainmail Helmet
+Gray Chainmail Chestplate
+Gray Chainmail Leggings
+Gray Chainmail Boots
+Light Gray Chainmail Helmet
+Light Gray Chainmail Chestplate
+Light Gray Chainmail Leggings
+Light Gray Chainmail Boots

@@ -1,0 +1,7 @@
+Rail Roads
+Rail Riders
+Adds the Rail Riders ability to Boots
+Activate Rail Riders
+Rail Roads
+Rail Riders
+ - Press %1$s to Activate

@@ -1,0 +1,17 @@
+Clear Glass
+Luminous Glass
+Redstone Glass
+Dark Glass
+Ghostly Glass
+Ethereal Glass
+Reverse Ethereal Glass
+Glass Cutter
+Glassential
+Enable Clear Glass
+Enable Luminous Glass
+Enable Redstone Glass
+Enable Dark Glass
+Enable Ghostly Glass
+Enable Ethereal Glass
+Enable Reverse Ethereal Glass
+Enable Glass Cutter

@@ -1,0 +1,7 @@
+gui.muffling_block.title=Muffling Options
+button.muffling_block.range.name=Range
+button.muffling_block.placer_only.on.name=Private Mode: On
+button.muffling_block.placer_only.off.name=Private Mode: Off
+tile.bettermuffling.muffling_block.name=Muffling Block
+advancements.muffling.title=Muffle Sounds
+advancements.muffling.description=Did you hear something?

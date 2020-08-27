@@ -1,0 +1,272 @@
+Overpowered
+Overpowered - Machines
+Overpowered - Gems
+Overpowered - Tools
+Overpowered - Metals
+Ruby Shard
+Topaz Shard
+Citrine Shard
+Emerald Shard
+Diamond Shard
+Sapphire Shard
+Amethyst Shard
+Quartz Shard
+Ruby
+Topaz
+Citrine
+Sapphire
+Amethyst
+Ruby Block
+Topaz Block
+Citrine Block
+Sapphire Block
+Amethyst Block
+Ruby Ore
+Topaz Ore
+Citrine Ore
+Sapphire Ore
+Amethyst Ore
+Energy Crystal Shards
+Energy Crystal
+Void Crystal
+Light Block
+Null Block
+Energy Sword
+Energy Pickaxe
+Energy Axe
+Energy Shovel
+Energy Hoe
+Energy Scythe
+Null Sword
+Null Pickaxe
+Null Axe
+Null Shovel
+Null Hoe
+Energized Power Core
+Nullified Power Core
+Energy Grid
+Container
+Beam Emitter
+Unknown Technology
+Fusion Core
+Dimensional Anchor
+Data Cable
+Generator
+Gem Converter
+Inverter
+Magic Infuser
+Identifier
+Energy Suspension Bridge
+Portal Frame
+Portal Control Panel
+Crystal Matter Generator
+Advanced Ore Refinery
+Fusion Chamber
+Fusion Control Unit
+Fusion Control Laser
+Fusion Energy Converter
+Focus Lens
+Red Lens
+Orange Lens
+Yellow Lens
+Green Lens
+Cyan Lens
+Blue Lens
+Magenta Lens
+Laser Housing
+White Laser
+Red Laser
+Orange Laser
+Yellow Laser
+Green Laser
+Cyan Laser
+Blue Laser
+Magenta Laser
+Iron Frame Block
+Black Hole
+Trophy Base
+Bronze Trophy
+Silver Trophy
+Gold Trophy
+Platinum Trophy
+Unidentified Leather Cap
+Unidentified Leather Armor
+Unidentified Leather Pants
+Unidentified Leather Boots
+Unidentified Chainmail Helmet
+Unidentified Chainmail Armor
+Unidentified Chainmail Leggings
+Unidentified Chainmail Boots
+Unidentified Iron Helmet
+Unidentified Iron Chestplate
+Unidentified Iron Leggings
+Unidentified Iron Boots
+Unidentified Gold Helmet
+Unidentified Gold Chestplate
+Unidentified Gold Leggings
+Unidentified Gold Boots
+Unidentified Diamond Helmet
+Unidentified Diamond Chestplate
+Unidentified Diamond Leggings
+Unidentified Diamond Boots
+Unidentified Ring
+Unidentified Ring
+Unidentified Ring
+Unidentified Ring
+Ring
+Ring
+Ring
+Ring
+Tin Ingot
+Copper Ingot
+Aluminum Ingot
+Steel Ingot
+Bronze Ingot
+Silver Ingot
+Platinum Ingot
+Titanium Ingot
+Tin Block
+Copper Block
+Aluminum Block
+Steel Block
+Bronze Block
+Silver Block
+Platinum Block
+Titanium Block
+Tin Ore
+Copper Ore
+Aluminum Ore
+Silver Ore
+Platinum Ore
+Titanium Ore
+Iron Plate
+Gold Plate
+Tin Plate
+Copper Plate
+Aluminum Plate
+Steel Plate
+Bronze Plate
+Silver Plate
+Platinum Plate
+Titanium Plate
+Black Holes are not allowed in this Dimension.
+§5Singularity Event§r detected at coordinates: %s , %1$s , %2$s
+Lens
+Rotate
+Error
+Invalid
+Invalid Shape
+Normal
+Obstructed
+No Bridge
+No Lens
+Off
+Activated
+Input
+Max Extract
+Overpowered Tools have 3x the durability of Diamond tools, and are generally faster and stronger. Overpowered tools cannot be enchanted.
+Void Tools are still being worked on. Although they currently have 5x the durability of Diamond tools, they are not faster or stronger. Void tools cannot be enchanted.
+The Generator is the primary means of generating Energy. You can insert either an Energy Crystal, Energy Crystal Shards, or a Light Block. Each generate Energy at different rates.
+Data Cable is used in the construction of the Portal and the construction of the Fusion Energy structure, as well as some crafting recipes.
+The Gem Converter, as the name implies, allows you to convert one gem type to another. This machine works with Ruby, Topaz, Citrine, Emerald, Diamond, Sapphire, Amethyst, and Quartz.
+This machine will transform Energy Crystals into Void Crystals, and transforms Void Crystals into Energy Crystals.
+Insert a Book and a type of gem, and this machine will enchant the Book. The enchantment you get depends on the gem type.
+Monsters will occasionally drop an unidentified item. Insert those items into this machine and it will identify them for you.
+The Portal Control Panel is the machine that generates the Portal to the Unknown Dimension. It must be connected to the main Portal Frame using Data Cable.
+The main portal frame consists of a ring of blocks arranged in a 5x5 area. 8 Portal Frames must be placed in the corners and sides while the other spaces can be filled with either Data Cable or the Iron Frame Block. Finally, a different gem Block must be inserted into each Portal Frame before you can generate the portal.
+This is the machine that controls how Lasers operate. Attach Lasers pointing in the direction you want to fire. Access the machine and set how far you want the laser to shoot. Then, once the laser has built up enough energy, a redstone signal will fire the laser. If multiple Laser machines are adjacent to each other, they will all fire at once.
+These are the Laser Cannons that you attach to Laser Machines. Access the Laser machine to configure how the Laser operates. Lasers will mine blocks as though you mined them with the correct tool. Entities caught in the Laser Beams will also get set on fire.
+The Energy Suspension Bridge, when supplied with power and activated with a redstone signal, will spawn an energy bridge across to another Energy Suspension Bridge. You must insert a Lens of the color you want. And the space between the two Energy Suspension Blocks must be clear.
+This device of unknown origins is used in the highest-tier machines such as the Advanced Ore Refinery and Crystal Matter Generator, and can only by found in the Unknown Dimension.
+Insert Ores into this machine and it will produce double the output. Automatically works with Ores from other mods if they've registered their Ore with an Ore tag.
+This machine requires a lot of power, and must be running at all times. After a while, it will generate a random gem shard. You can combine 9 gem shards of the same type to make a full gem.
+This currently has no purpose.
+Whoa. Be careful with this! If you place this down, it will erase your world! I don't know how you got this, but you should destroy it immediately!
+Part of the Fusion Energy structure, this is the block that is in the center. It must contain a Fusion Core in order to be considered valid.
+Part of the Fusion Energy structure. You need 6 of these to be placed on each side of the Fusion Chamber, 5 blocks away. Each one must be connected to each other and the Fusion Energy Converter with Data Cable.
+Part of the Fusion Energy structure. You must craft 6 of these and place them on each Fusion Control Unit, pointing towards the Fusion Chamber.
+Part of the Fusion Energy structure. You must first set up the other blocks in their correct positions, then connect the Fusion Energy Converter with the Fusion Control Units using Data Cable. The Fusion Chamber must also contain a Fusion Core. Once everything is set up correctly, activate the Fusion Energy Converter with a redstone signal to turn it on and start generating Energy.
+Auto Shutoff
+Lasers
+Distance
+Current Energy
+Required Energy
+Generate Portal
+No Data Cable Connected.
+Portal requires 8 Portal Frame Blocks.
+Too Many Portal Frame Blocks.
+Portal is not constructed correctly.
+Obstruction detected in portal frame.
+Portal Control Panel is off.
+Incorrect Items in Portal Frames.
+Not enough Energy.
+Player is in Creative Mode.
+Portal is Ready.
+§cBeware§r: Traveling to the Unknown Dimension is still buggy. There's a chance you may spawn in the air and fall to your death! (I believe this occurs when you enter for the first time because the dimension hasn't loaded yet.) We recommend entering the portal in Creative Mode, or disabling the Portal in the config. (Boots with Feather Falling IV won't work. I've tried.) If you're quick to enter the portal a second time before the portal goes away you might spawn on the ground. Enter at your own risk! This will get fixed in a later update.
+Strength
+Speed
+Haste
+Luck
+Extra Health
+Jump Skill
+Fire Immunity
+Water Breathing
+Night Vision
+Invisibility
+Lv
+Overpowered
+Overpowered Mod by ADDSynth
+Collect Gems
+Collect all 8 types of gems needed to craft the Overpowered Gem.
+Energy Crystal
+Craft an Energy Crystal.
+Overpowered Tools
+Craft an Energy Tool.
+Light Block
+Craft a Light Block
+Void Crystal
+Use the Inverter to make a Void Crystal.
+Void Tools
+Craft any Void Tool.
+Null Block
+Craft a Null Block.
+Gem Converter
+Craft a Gem Converter
+Master Converter
+Convert 1,000 Gems.
+Laser
+Craft a Laser Housing
+Fire Laser
+Activate a Laser.
+Maximum Distance
+Fire a laser the maximum distance you can set.
+Inverter
+Craft an Inverter
+Identifier
+Craft an Identifier.
+New Identity
+Use the Identifier to identify something.
+Portal
+Craft a Portal Control Panel.
+Unknown Dimension
+Enter the Unknown Dimension.
+Unknown Technology
+Find an Unknown Technology in the Unknown Dimension.
+Fusion Energy Construction
+Craft all the components needed to construct the Fusion Energy structure.
+Fusion Energy
+Activate a Fusion Energy Structure.
+Black Hole
+Craft a Black Hole.
+Dimensional Anchor
+Craft a Dimensional Anchor.
+World Destroyer
+Use a Black Hole to destroy part of the world.
+Bronze Trophy
+Get a Bronze Trophy.
+Silver Trophy
+Get a Silver Trophy.
+Gold Trophy
+Get a Gold Trophy.
+Platinum Trophy
+Get a Platinum Trophy.

@@ -1,0 +1,13 @@
+Magic Staffs
+Staff
+Electric Staff
+Fire Staff
+Life Staff
+Toxic Staff
+Magic Essence
+Electric Essence
+Fire Essence
+Life Essence
+Toxic Essence
+Infusion Table
+Infusion Table

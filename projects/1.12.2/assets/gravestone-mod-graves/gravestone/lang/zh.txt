@@ -1,0 +1,46 @@
+Gravestones
+Gravestone
+Cross
+Obelisk
+Celtic Cross
+Grave Plate
+Dog Statue
+Cat Statue
+Horse Statue
+Sword of A Fallen Warrior
+Villager Statue
+Creeper Statue
+Starved corpse
+Withered corpse
+Had lived
+days
+Sword Name
+Sword Damage
+%1$s was brutally murdered by Herobrine
+%1$s received a death sentence
+%1$s died from cruel torture
+Your mom
+You can't loot this grave!
+Not enough parameters!
+Coordinate error!
+There aren't any blocks at this coordinates!
+This coordinates occupied by wrong blocks!
+Made of
+Mossy
+Wood
+Sandstone
+Red Sandstone
+Stone
+Diorite
+Andesite
+Granite
+Iron
+Gold
+Diamond
+Emerald
+Lapis
+Redstone
+Obsidian
+Quartz
+Prizmarine
+Ice

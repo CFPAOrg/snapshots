@@ -1,0 +1,16 @@
+Nano Bow
+Uranium Rod
+Energized Uranium Rod
+Uranium Arrow
+Energized Uranium Arrow
+%1$s was pulverized by %2$s
+%1$s was pulverized by %2$s using %3$s
+IC2C Addons
+IC2C Addons specific settings (they do not affect regular ic2 classic)
+Press CTRL to show extended tooltip
+Wooden arrows aren't durable enough for this bow. You will need something better.
+Press %1$s to toggle mode
+Press %1$s to untrack entities while targeting
+Mode: %1$s
+Press %1$s to toggle superzoom
+Superzoom: %1$s

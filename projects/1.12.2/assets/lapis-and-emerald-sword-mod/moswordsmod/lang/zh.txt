@@ -1,0 +1,7 @@
+LapisRod
+LapisGlue
+EmeraldSword
+EmeraldRod
+EmeraldSubstanceOre
+EmeraldGlue
+LapisSword

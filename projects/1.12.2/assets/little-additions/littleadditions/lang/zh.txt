@@ -1,0 +1,64 @@
+Little Additions
+Copper Ingot
+Copper Nugget
+Copper Dust
+Tin Ingot
+Tin Nugget
+Tin Dust
+Silver Ingot
+Silver Nugget
+Silver Dust
+Bronze Ingot
+Bronze Nugget
+Bronze Dust
+Electrum Ingot
+Electrum Nugget
+Electrum Dust
+Coal Dust
+Gold Dust
+Iron Dust
+PCB
+Flour
+Tin Can
+Tomato Sauce
+Tomato
+Tomato Seeds
+Cheese
+Pizza
+Grindstone
+Can be used multiple times when crafting
+Grindstones are used to grind items into dust and powder etc. One grindstone works for a couple of crafting tasks then you will have to get a new one.
+Belt
+Magnet
+Blank Core
+Speed Core
+Magnet Core
+Power Walking Belt
+When equipped it makes you run much faster
+Magnet Charm
+When equipped it makes you able to pickup items further away
+Bronze Axe
+Bronze Hoe
+Bronze Pickaxe
+Bronze Shovel
+Bronze Sword
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Block of Copper
+Copper Ore
+Block of Tin
+Tin Ore
+Block of Silver
+Silver Ore
+Block of Bronze
+Block of Electrum
+Tomato Plant
+Machine Case
+Alloy Merger
+Crusher
+Bronze Furnace
+Alloy Merger
+Crusher
+Bronze Furnace

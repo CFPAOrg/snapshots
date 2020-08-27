@@ -1,0 +1,772 @@
+Ruby
+Obsidian Shard
+Obsidian Dust
+Obsidian Ingot
+Iron Bar
+Melted Chocolate
+Melted Caramel
+Chocolate
+Magic Infused Ruby
+Magic Dust
+Crumbling Bedrock
+Magic Infused Bedrock
+Pile of Ashes
+Sapphire
+Bucket of Salt
+Salt
+Sunstone
+Sulfur
+Crystalline Sulfur
+Platinum Nugget
+Platinum Ingot
+Bonus Heart
+Drained Bonus Heart
+Magic Mirror
+Redstone Ghast
+Egg Shell
+Ender Star
+Magic Infused End Stone
+Sapball
+Magic Infused Arrow
+Music Disc
+Ice Staff
+Air Staff
+Rubber
+Obsidian Tipped Arrow
+Magic Infused Music Disc
+Bedrock Infused Magic Mirror
+Dimensional Magic Mirror
+Dynamite
+Slingshot
+Air on a String
+Diamond Water Bucket
+Lodestone Compass
+Crown
+Ruby Crown
+Diamond Crown
+Sapphire Crown
+Emerald Crown
+Sunstone Crown
+Lapis Lazuli Crown
+Prismarine Crown
+Terrestrial Crown
+Magic Infused Crown
+Lettuce
+Bowl of Salad
+Apple Pie
+Baked Apple
+Caramel
+Baguette
+Sugar Baguette
+Sugar Bread
+Caramel Apple
+Bowl of Caramel
+Bowl of Chocolate
+Forbidden Apple
+Chocolate Milk
+Canned Spinach
+Carrot Cake
+Chocolate Cake
+Caramel Cake
+Birthday Cake
+Cooked Egg
+Raw Egg
+Fried Egg
+Sugar Cookie
+Bottle of Milk
+Bottle of Chocolate Milk
+Magic Chorus Fruit
+Sugar Birthday Cake
+Chocolate Cake
+Carrot Cake
+Carrot Birthday Cake
+Chocolate Birthday Cake
+Fruit Cake
+Fruit Birthday Cake
+Golden Sugar Cake
+Golden Sugar Birthday Cake
+Golden Carrot Cake
+Golden Carrot Birthday Cake
+Golden Chocolate Cake
+Golden Chocolate Birthday Cake
+Sticky Sugar Cake
+Sticky Sugar Birthday Cake
+Sticky Carrot Cake
+Sticky Carrot Birthday Cake
+Sticky Chocolate Cake
+Sticky Chocolate Birthday Cake
+Sticky Apple
+Flame Cake
+Flame Birthday Cake
+The Cake is a Lie!!!
+The Birthday Cake is a Lie!!!
+Mashed Potatoes
+Suspicious Stew
+Raw Crab
+Cooked Crab
+Burnt Compressed Food
+Ruby Axe
+Ruby Pickaxe
+Ruby Shovel
+Ruby Hoe
+Ruby Sword
+Bedrock Axe
+Bedrock Pickaxe
+Bedrock Shovel
+Bedrock Hoe
+Bedrock Sword
+Fragile Obsidian Axe
+Fragile Obsidian Pickaxe
+Fragile Obsidian Shovel
+Fragile Obsidian Hoe
+Fragile Obsidian Sword
+Obsidian Axe
+Obsidian Pickaxe
+Obsidian Shovel
+Obsidian Hoe
+Obsidian Sword
+Glass Axe
+Glass Pickaxe
+Glass Shovel
+Glass Hoe
+Glass Sword
+Staff of Healing
+Ruby Bow
+Sapphire Axe
+Sapphire Pickaxe
+Sapphire Shovel
+Sapphire Hoe
+Sapphire Sword
+Bedrock Bow
+Poppy Sword
+Platinum Axe
+Platinum Pickaxe
+Platinum Shovel
+Platinum Hoe
+Platinum Sword
+Sapphire Bow
+Enderman Skeleton's Bow
+Light Bow
+Cactus Axe
+Cactus Pickaxe
+Cactus Shovel
+Cactus Hoe
+Cactus Sword
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Bedrock Helmet
+Bedrock Chestplate
+Bedrock Leggings
+Bedrock Boots
+Wooden Helmet
+Wooden Chestplate
+Wooden Leggings
+Wooden Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Cactus Helmet
+Cactus Chestplate
+Cactus Leggings
+Cactus Boots
+Feather Boots
+Shulker Boots
+Platinum Helmet
+Platinum Chestplate
+Platinum Leggings
+Platinum Boots
+Cow Boi Hat
+Food Cap
+Food Chestplate
+Food Pants
+Food Boots
+Weighted Feather Boots
+Ruby Ore
+Block of Ruby
+Block of Obsidian
+Compressed Stone
+Compressed Sandstone
+Cracked Compressed Sandstone
+Compressed Red Sandstone
+Cracked Compressed Red Sandstone
+Compressed Block of Quartz
+Quartz Ore
+Lettuce
+Ender Magic Ore
+Nether Gold Ore
+Sugar Cube
+Block of Charcoal
+Nether Diamond Ore
+Nether Emerald Ore
+Block of Sapphire
+Nether Sapphire Ore
+Obsidian Glass
+Cracked Nether Brick
+Salt Ore
+Bone Ore
+Piston Crate
+Sticky Piston Crate
+Nether Sunstone Ore
+Block of Sunstone
+Block of Salt
+Quartz Lamp
+Lit Quartz Lamp
+Ender Lapis Lazuli Ore
+Nether Crystalline Sulfur Ore
+Netherrack Crafting Table
+Block of Platinum
+Platinum Ore
+Bedrock Anvil
+Fragile Ice
+Gravel Gold Ore
+Gravel Iron Ore
+Gravel Quartz Ore
+Gravel Experience Ore
+Rainbow Block
+Sandstone Crafting Table
+Red Sandstone Crafting Table
+Block of Rubber
+Compressed Cobblestone
+Compressed Food
+Spruce Crafting Table
+Birch Crafting Table
+Jungle Crafting Table
+Acacia Crafting Table
+Dark Oak Crafting Table
+Spruce Bookshelf
+Birch Bookshelf
+Jungle Bookshelf
+Acacia Bookshelf
+Dark Oak Bookshelf
+Silk
+Nether Reactor Core
+Red Dragon Egg
+Magic Infused Sponge
+Artificial Rain Generator
+Lodestone
+Compressed Stone Stairs
+Compressed Sandstone Stairs
+Cracked Compressed Sandstone Stairs
+Compressed Red Sandstone Stairs
+Cracked Compressed Red Sandstone Stairs
+Compressed Quartz Stairs
+Compressed Sandstone Slab
+Compressed Sandstone Slab
+Cracked Compressed Sandstone Slab
+Cracked Compressed Sandstone Slab
+Compressed Red Sandstone Slab
+Compressed Red Sandstone Slab
+Cracked Compressed Red Sandstone Slab
+Cracked Compressed Red Sandstone Slab
+Compressed Quartz Slab
+Compressed Quartz Slab
+Obsidian Button
+Obsidian Pressure Plate
+Obsidian Door
+Quartz Door
+Red Nether Brick Slab
+Red Nether Brick Slab
+Red Nether Brick Stairs
+Rainbow Stairs
+Rainbow Slab
+Rainbow Slab
+Cracked Nether Brick Slab
+Cracked Nether Brick Slab
+Cracked Nether Brick Stairs
+Dirt Slab
+Dirt Slab
+Dirt Stairs
+Coarse Dirt Slab
+Coarse Dirt Slab
+Coarse Dirt Stairs
+Hay Slab
+Hay Slab
+Hay Stairs
+Stone Slab
+Stone Slab
+Stone Stairs
+Andesite Slab
+Andesite Slab
+Andesite Stairs
+Polished Andesite Slab
+Polished Andesite Slab
+Polished Andesite Stairs
+Granite Slab
+Granite Slab
+Granite Stairs
+Polished Granite Slab
+Polished Granite Slab
+Polished Granite Stairs
+Diorite Slab
+Diorite Slab
+Diorite Stairs
+Polished Diorite Slab
+Polished Diorite Slab
+Polished Diorite Stairs
+Mossy Cobblestone Stairs
+Mossy Cobblestone Slab
+Mossy Cobblestone Slab
+Glass Slab
+Red Mushroom Block Slab
+Brown Mushroom Block Slab
+Compressed Cobblestone Slab
+Slab of Rubber
+Sand Slab
+Red Sand Slab
+Gravel Slab
+Snow Slab
+Netherrack Slab
+Mossy Stone Brick Slab
+Cracked Stone Brick Slab
+End Stone Slab
+End Brick Slab
+Prismarine Slab
+Prismarine Brick Slab
+Dark Prismarine Slab
+Packed Ice Slab
+Magma Slab
+Nether Wart Slab
+Hardened Clay Slab
+Ice Slab
+Clay Slab
+Slab of Salt
+Sugar Cube Slab
+Soul Sand Slab
+Obsidian Slab
+Slab of Obsidian
+Obsidian Glass Slab
+Lapis Lazuli Slab
+Slab of Redstone
+Sticky Slab
+Slab of Iron
+Slab of Gold
+Slab of Diamond
+Slab of Emerald
+Slab of Ruby
+Slab of Sapphire
+Slab of Platinum
+Slab of Coal
+Slab of Charcoal
+Glass Slab
+Red Mushroom Block Slab
+Brown Mushroom Block Slab
+Compressed Cobblestone Slab
+Slab of Rubber
+Sand Slab
+Red Sand Slab
+Gravel Slab
+Snow Slab
+Netherrack Slab
+Mossy Stone Brick Slab
+Cracked Stone Brick Slab
+End Stone Slab
+End Brick Slab
+Prismarine Slab
+Prismarine Brick Slab
+Dark Prismarine Slab
+Packed Ice Slab
+Magma Slab
+Nether Wart Slab
+Hardened Clay Slab
+Ice Slab
+Clay Slab
+Slab of Salt
+Sugar Cube Slab
+Soul Sand Slab
+Obsidian Slab
+Slab of Obsidian
+Obsidian Glass Slab
+Lapis Lazuli Slab
+Slab of Redstone
+Sticky Slab
+Slab of Iron
+Slab of Gold
+Slab of Diamond
+Slab of Emerald
+Slab of Ruby
+Slab of Sapphire
+Slab of Platinum
+Slab of Coal
+Slab of Charcoal
+Glass Stairs
+Red Mushroom Block Stairs
+Brown Mushroom Block Stairs
+Compressed Cobblestone Stairs
+Stairs of Rubber
+Sand Stairs
+Red Sand Stairs
+Gravel Stairs
+Snow Stairs
+Netherrack Stairs
+Mossy Stone Brick Stairs
+Cracked Stone Brick Stairs
+End Stone Stairs
+End Brick Stairs
+Prismarine Stairs
+Prismarine Brick Stairs
+Dark Prismarine Stairs
+Packed Ice Stairs
+Magma Stairs
+Nether Wart Stairs
+Hardened Clay Stairs
+Ice Stairs
+Clay Stairs
+Stairs of Salt
+Sugar Cube Stairs
+Soul Sand Stairs
+Obsidian Stairs
+Stairs of Obsidian
+Obsidian Glass Stairs
+Lapis Lazuli Stairs
+Stairs of Redstone
+Sticky Stairs
+Stairs of Iron
+Stairs of Gold
+Stairs of Diamond
+Stairs of Emerald
+Stairs of Ruby
+Stairs of Sapphire
+Stairs of Platinum
+Stairs of Coal
+Stairs of Charcoal
+White Sand Stairs
+White Sand Slab
+Glass Door
+Cyan Stained Glass Door
+Light Blue Stained Glass Door
+Light Gray Stained Glass Door
+Red Stained Glass Door
+Orange Stained Glass Door
+Yellow Stained Glass Door
+Magenta Stained Glass Door
+Pink Stained Glass Door
+Purple Stained Glass Door
+Lime Stained Glass Door
+Green Stained Glass Door
+Blue Stained Glass Door
+Brown Stained Glass Door
+Black Stained Glass Door
+White Stained Glass Door
+Gray Stained Glass Door
+Obsidian Glass Door
+Cyan Stained Glass Stairs
+Light Blue Stained Glass Stairs
+Light Gray Stained Glass Stairs
+Red Stained Glass Stairs
+Orange Stained Glass Stairs
+Yellow Stained Glass Stairs
+Magenta Stained Glass Stairs
+Pink Stained Glass Stairs
+Purple Stained Glass Stairs
+Lime Stained Glass Stairs
+Green Stained Glass Stairs
+Blue Stained Glass Stairs
+Brown Stained Glass Stairs
+Black Stained Glass Stairs
+White Stained Glass Stairs
+Gray Stained Glass Stairs
+Cyan Concrete Powder Stairs
+Light Blue Concrete Powder Stairs
+Light Gray Concrete Powder Stairs
+Red Concrete Powder Stairs
+Orange Concrete Powder Stairs
+Yellow Concrete Powder Stairs
+Magenta Concrete Powder Stairs
+Pink Concrete Powder Stairs
+Purple Concrete Powder Stairs
+Lime Concrete Powder Stairs
+Green Concrete Powder Stairs
+Blue Concrete Powder Stairs
+Brown Concrete Powder Stairs
+Black Concrete Powder Stairs
+White Concrete Powder Stairs
+Gray Concrete Powder Stairs
+Cyan Concrete Stairs
+Light Blue Concrete Stairs
+Light Gray Concrete Stairs
+Red Concrete Stairs
+Orange Concrete Stairs
+Yellow Concrete Stairs
+Magenta Concrete Stairs
+Pink Concrete Stairs
+Purple Concrete Stairs
+Lime Concrete Stairs
+Green Concrete Stairs
+Blue Concrete Stairs
+Brown Concrete Stairs
+Black Concrete Stairs
+White Concrete Stairs
+Gray Concrete Stairs
+Cyan Wool Stairs
+Light Blue Wool Stairs
+Light Gray Wool Stairs
+Red Wool Stairs
+Orange Wool Stairs
+Yellow Wool Stairs
+Magenta Wool Stairs
+Pink Wool Stairs
+Purple Wool Stairs
+Lime Wool Stairs
+Green Wool Stairs
+Blue Wool Stairs
+Brown Wool Stairs
+Black Wool Stairs
+White Wool Stairs
+Gray Wool Stairs
+Cyan Terracotta Stairs
+Light Blue Terracotta Stairs
+Light Gray Terracotta Stairs
+Red Terracotta Stairs
+Orange Terracotta Stairs
+Yellow Terracotta Stairs
+Magenta Terracotta Stairs
+Pink Terracotta Stairs
+Purple Terracotta Stairs
+Lime Terracotta Stairs
+Green Terracotta Stairs
+Blue Terracotta Stairs
+Brown Terracotta Stairs
+Black Terracotta Stairs
+White Terracotta Stairs
+Gray Terracotta Stairs
+Cyan Stained Glass Slab
+Light Blue Stained Glass Slab
+Light Gray Stained Glass Slab
+Red Stained Glass Slab
+Orange Stained Glass Slab
+Yellow Stained Glass Slab
+Magenta Stained Glass Slab
+Pink Stained Glass Slab
+Purple Stained Glass Slab
+Lime Stained Glass Slab
+Green Stained Glass Slab
+Blue Stained Glass Slab
+Brown Stained Glass Slab
+Black Stained Glass Slab
+White Stained Glass Slab
+Gray Stained Glass Slab
+Cyan Concrete Powder Slab
+Light Blue Concrete Powder Slab
+Light Gray Concrete Powder Slab
+Red Concrete Powder Slab
+Orange Concrete Powder Slab
+Yellow Concrete Powder Slab
+Magenta Concrete Powder Slab
+Pink Concrete Powder Slab
+Purple Concrete Powder Slab
+Lime Concrete Powder Slab
+Green Concrete Powder Slab
+Blue Concrete Powder Slab
+Brown Concrete Powder Slab
+Black Concrete Powder Slab
+White Concrete Powder Slab
+Gray Concrete Powder Slab
+Cyan Concrete Slab
+Light Blue Concrete Slab
+Light Gray Concrete Slab
+Red Concrete Slab
+Orange Concrete Slab
+Yellow Concrete Slab
+Magenta Concrete Slab
+Pink Concrete Slab
+Purple Concrete Slab
+Lime Concrete Slab
+Green Concrete Slab
+Blue Concrete Slab
+Brown Concrete Slab
+Black Concrete Slab
+White Concrete Slab
+Gray Concrete Slab
+Cyan Wool Slab
+Light Blue Wool Slab
+Light Gray Wool Slab
+Red Wool Slab
+Orange Wool Slab
+Yellow Wool Slab
+Magenta Wool Slab
+Pink Wool Slab
+Purple Wool Slab
+Lime Wool Slab
+Green Wool Slab
+Blue Wool Slab
+Brown Wool Slab
+Black Wool Slab
+White Wool Slab
+Gray Wool Slab
+Cyan Terracotta Slab
+Light Blue Terracotta Slab
+Light Gray Terracotta Slab
+Red Terracotta Slab
+Orange Terracotta Slab
+Yellow Terracotta Slab
+Magenta Terracotta Slab
+Pink Terracotta Slab
+Purple Terracotta Slab
+Lime Terracotta Slab
+Green Terracotta Slab
+Blue Terracotta Slab
+Brown Terracotta Slab
+Black Terracotta Slab
+White Terracotta Slab
+Gray Terracotta Slab
+Melted Chocolate
+Night Vision
+Uneffectable
+Ruby Mod Blocks
+Ruby Mod Tools
+Ruby Mod Combat
+Ruby Mod Food
+Ruby Mod Miscellaneous
+Ruby Mod TY!
+N.J.A.R.M.
+Experience Ore
+Nether Experience Ore
+Ender Experience Ore
+Highland Coo
+Chocolate Cow
+Brown Mooshroom
+Obsidian Shard
+Magic Infused Ruby
+Sunstone
+Magic Infused End Stone
+Sap
+Jack o'Lantern
+Magic Infused Arrow
+Muddy Pig
+Bloomshroom
+Celebration Creeper
+Fire Skeleton
+Enderman Skeleton
+Tarantula
+Fire Creeper
+TNT Creeper
+Lapis Lazuli Chicken
+Blestem
+Camel
+Red Dragon
+Moobloom
+Moobloom
+Obsidian Tipped Arrow
+Dynamite
+Light Arrow
+Mummy
+Ice Miner
+Ice Bridge
+Slingshot Amo
+Fireball
+Cluckshroom
+Cluckshroom
+Sacred Oak Crafting Table
+Cherry Crafting Table
+Umbran Crafting Table
+Fir Crafting Table
+Ethereal Crafting Table
+Magic Crafting Table
+Mangrove Crafting Table
+Palm Crafting Table
+Redwood Crafting Table
+Willow Crafting Table
+Pine Crafting Table
+Hellbark Crafting Table
+Jacaranda Crafting Table
+Mahogany Crafting Table
+Ebony Crafting Table
+Eucalyptus Crafting Table
+Sacred Oak Bookshelf
+Cherry Bookshelf
+Umbran Bookshelf
+Fir Bookshelf
+Ethereal Bookshelf
+Magic Bookshelf
+Mangrove Bookshelf
+Palm Bookshelf
+Redwood Bookshelf
+Willow Bookshelf
+Pine Bookshelf
+Hellbark Bookshelf
+Jacaranda Bookshelf
+Mahogany Bookshelf
+Ebony Bookshelf
+Eucalyptus Bookshelf
+Compressed White Sandstone
+Cracked Compressed White Sandstone
+Compressed White Sandstone Slab
+Cracked Compressed White Sandstone Slab
+Slab of Amethyst
+Slab of Ruby
+Slab of Topaz
+Slab of Peridot
+Slab of Tanzanite
+Slab of Malachite
+Slab of Sapphire
+Slab of Amber
+Mud Slab
+Dried Sand Slab
+Loamy Dirt Slab
+Sandy Dirt Slab
+Silty Dirt Slab
+Coarse Loamy Dirt Slab
+Coarse Sandy Dirt Slab
+Coarse Silty Dirt Slab
+Compressed White Sandstone Slab
+Cracked Compressed White Sandstone Slab
+Slab of Amethyst
+Slab of Ruby
+Slab of Topaz
+Slab of Peridot
+Slab of Tanzanite 
+Slab of Malachite
+Slab of Sapphire
+Slab of Amber
+Mud Slab
+Dried Sand Slab
+Loamy Dirt Slab
+Sandy Dirt Slab
+Silty Dirt Slab
+Coarse Loamy Dirt Slab
+Coarse Sandy Dirt Slab
+Coarse Silty Dirt Slab
+Compressed White Sandstone Stairs
+Cracked Compressed White Sandstone Stairs
+Stairs of Amethyst
+Stairs of Ruby
+Stairs of Topaz
+Stairs of Peridot
+Stairs of Tanzanite 
+Stairs of Malachite
+Stairs of Sapphire
+Stairs of Amber
+Mud Stairs
+Dried Sand Stairs
+Loamy Dirt Stairs
+Sandy Dirt Stairs
+Silty Dirt Stairs
+Coarse Loamy Dirt Stairs
+Coarse Sandy Dirt Stairs
+Coarse Silty Dirt Stairs
+White Sandstone Crafting Table
+Raw Bird
+Cooked Bird
+Sugar Cake
+Sticky Block
+Compressed Stone Slab
+Compressed Stone Slab
+Oak Crafting Table
+Oak Bookshelf
+Mossy Cobblestone
+Block of Jbredwards
+Block of Priyae
+Block of CJMinecraft
+Block of HarryTalks
+Block of LoreMaster
+Block of Tycitron
+Block of Suppergerrie2
+Missingno
+Glitched Item

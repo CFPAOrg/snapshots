@@ -1,0 +1,198 @@
+Storage Drawers Unlimited
+Mod: %s
+%1$s %2$s
+Trim
+Darklands Oak Wood
+Dreadlands Wood
+Greatroot
+Skyroot
+Therawood
+Wisproot
+Deadwood
+Palm
+Cherry
+Umbran
+Ebony
+Ethereal
+Eucalyptus
+Fir
+Hellbark
+Jacaranda
+Magic
+Mahogany
+Mangrove
+Palm
+Pine
+Redwood
+Sacred Oak
+Willow
+Bluebright
+Cherry
+Dusk Wood
+Lunar Wood
+Starlit
+Dreamwood
+Livingwood
+Shimmerwood
+Baobab
+Cherry
+Cika
+Great Oak
+Hollow Oak
+Holly
+Jacaranda
+Mangrove
+Maple
+Pine
+Rainbow Eucalyptus
+Redwood
+Skyris
+Spectral Wood
+Willow
+Witch Hazel
+Zelkova
+Asper
+Balsam
+Bamboo
+Baobab
+Cypress
+Eucalyptus
+Mahogany
+Marshwood
+Mossbark
+Petrified Wood
+Rotten Wood
+Scorched Wood
+Varnished Wood
+White Wood
+Alder
+Apple
+Ash
+Banana
+Beech
+Boxwood
+Brazilwood
+Butternut
+Cedar
+Cypress
+Elder
+Elm
+Eucalyptus
+Fig
+Fir
+Gingko
+Hawthorn
+Hazel
+Hemlock
+Hickory
+Holly
+Hornbeam
+Iroko
+Locust Wood
+Logwood
+Maclura
+Olive
+Pear
+Pink Ivory
+Purpleheart
+Rosewood
+Rowan
+Sweetgum
+Syzgium
+Whitebeam
+Yew
+Desert Acacia
+Balsa
+Baobab
+Cherry
+Chestnut
+Citrus
+Cocobolo
+Giant Sequoia
+Greenheart
+Ipe
+Kapok
+Larch
+Lime
+Mahoe
+Mahogany
+Maple
+Padauk
+Palm
+Papaya
+Pine
+Plum
+Poplar
+Sequoia
+Teak
+Walnut
+Wenge
+Willow
+Zebrawood
+Underground Wood
+Dead Wood
+Dream Wood
+White Wood
+Apple Wood
+Treated Wood
+Menril
+Bloodwood
+Darkwood
+Eucalyptus
+Fusewood
+Ghostwood
+Hopseed
+Maple
+Amaranth
+Redwood
+Sakura
+Silverbell
+Tigerwood
+Willow
+Ancient Wood
+Particle Board
+Zorra
+Aspen
+Baobab
+Cherry Blossom
+Cottonwood
+Fir
+Jacaranda
+Juniper
+Mangrove
+Maple
+Palm
+Pine
+Redwood
+Willow
+Black Stained Wood
+Blue Stained Wood
+Brown Stained Wood
+Cyan Stained Wood
+Gray Stained Wood
+Green Stained Wood
+Light Blue Stained Wood
+Light Gray Stained Wood
+Lime Stained Wood
+Magenta Stained Wood
+Orange Stained Wood
+Pink Stained Wood
+Purple Stained Wood
+Red Stained Wood
+Thatch
+White Stained Wood
+Yellow Stained Wood
+Ironwood
+Olive
+Greatwood
+Silverwood
+Giant Root
+Hearthgrove
+Nibbletwig
+Rubber Tree
+Thatch
+Weedwood
+Fir
+Bamboo
+Mahogany
+Palm

@@ -1,0 +1,103 @@
+Environs++
+Dried Stone
+Dried Cobblestone
+Dried Dirt
+Frozen Grass Block
+Frozen Dirt
+Stone Meteorite
+End Fragment
+Cypress Wood
+Cypress Leaves
+Pine Wood
+Pine Leaves
+End Wood
+End Leaves
+Dried Stone Meteorite
+Frozen Wood
+Frozen Leaves
+Eucalyptus Wood
+Eucalyptus Leaves
+Frozen Sapling
+Cypress Sapling
+Pine Sapling
+Eucalyptus Sapling
+End Dirt
+End Grass Block
+End Sapling
+End Bark
+Coarse End Dirt
+Coarse Frozen Dirt
+Coarse Dried Dirt
+Mushroom
+Mushroom
+Mushroom
+Mushroom
+Mushroom
+Mushroom
+Cypress Bark
+Eucalyptus Bark
+Frozen Bark
+Pine Bark
+Ranges Dirt
+End Farmland
+Ranges Farmland
+Frozen Farmland
+End Grass Path
+Frozen Grass Path
+Cypress Wood Planks
+End Wood Planks
+Eucalyptus Wood Planks
+Frozen Wood Planks
+Pine Wood Planks
+Cypress Wood Slab
+End Wood Slab
+Eucalyptus Wood Slab
+Frozen Wood Slab
+Pine Wood Slab
+Cypress Wood Stairs
+End Wood Stairs
+Eucalyptus Wood Stairs
+Frozen Wood Stairs
+Pine Wood Stairs
+Cypress Fence
+End Fence
+Eucalyptus Fence
+Frozen Fence
+Pine Fence
+Cypress Fence Gate
+End Fence Gate
+Eucalyptus Fence Gate
+Frozen Fence Gate
+Pine Fence Gate
+Dried Stone Slab
+Dried Cobblestone Slab
+Dried Stone Stairs
+Dried Cobblestone Stairs
+Cypress Door
+Eucalyptus Door
+End Door
+Frozen Door
+Pine Door
+Bruh Moment
+Environs++ Building
+Environs++ Decoration
+Environs++ Items
+Environs++
+Mod by RollingThunder_
+Adventuring Time II
+Discover every Environs++ biome
+Fragments of The Past
+Obtain an end fragment
+In the End... Wait No
+Visit both of the rare End Forest biomes
+For Some, a Barren Wasteland
+Visit the Wasteland biome
+No More Snow Golems!
+Visit the Icy Hills biome
+Where's the Jade?
+Visit the Emerald Cliffs biome
+Peculiar Mushrooms
+Visit the Mushroom Rainforest biome
+Peculiar Mushrooms II
+Collect a cyan mushroom block with a silk-touch tool
+Discover every Vanilla biome

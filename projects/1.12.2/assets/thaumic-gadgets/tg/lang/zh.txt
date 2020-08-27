@@ -1,0 +1,377 @@
+Thaumic Gadgets
+Open Mode GUI
+Armor Ability
+Open Lense GUI
+Gemcutter's Tools
+Yarn
+Golden Yarn
+Thauminium Yarn
+Magic Yarn
+Yarn of Light
+Shaded Yarn
+Ether Yarn
+Void Yarn
+Decorated Fabric
+Enchanted Fabric
+Fabric of Light
+Shaded Fabric
+Void Fabric
+Bewitched Fabric
+Volatile Fabric
+Wolf Hide
+Ingot of Light
+Shaded Ingot
+Nugget of Light
+Shaded Nugget
+Sharped Crystal (Aer)
+Sharped Crystal (Terra)
+Sharped Crystal (Ignis)
+Sharped Crystal (Aqua)
+Sharped Crystal (Ordo)
+Sharped Crystal (Perditio)
+Oval Crystal (Aer)
+Oval Crystal (Terra)
+Oval Crystal (Ignis)
+Oval Crystal (Aqua)
+Oval Crystal (Ordo)
+Oval Crystal (Perditio)
+Crystal Dust
+Ash
+Primal Axe
+Primal Hammer
+Primal Sword
+Belt of Light
+Helm of Light
+Chestplate of Light
+Leggins of Light
+Boots of Light
+Sword of Light
+Axe of Light
+Hoe of Light
+Pickaxe of Light
+Shovel of Light
+Shears of Light
+Scythe of Light
+Shaded Belt
+Shaded Helmet
+Shaded Chestplate
+Shaded Leggins
+Shaded Boots
+Shaded Sword
+Shaded Axe
+Shaded Hoe
+Shaded Pickaxe
+Shaded Shovel
+Shaded Shears
+Shaded Scythe
+Primal Helmet
+Primal Chestplate
+Primal Leggins
+Primal Boots
+Primal Helmet Upgraded
+Primal Chestplate Upgraded
+Primal Leggins Upgraded
+Primal Boots Upgraded
+Current Aspect: 
+Current Gem: 
+Thaumium Scythe
+Void Scythe
+Magic Pouch
+Enchanted Pouch
+Bewitched Pouch
+Hungry Magic Pouch
+Hungry Enchanted Pouch
+Hungry Bewitched Pouch
+Ender Pouch
+Void Pouch
+Lense Pouch
+Soulbinded!
+Unbinded!
+Don't touch it! It's not your!
+Blank Lense
+Night Vision Lense
+Echo Loc Lense
+Death Gaze Lense
+Fire Lense
+Knockback Lense
+Decay Lense
+Fortified Glass Shard
+Seeker Amulet
+Shade Rose Bush Seed
+Shade Rose Seed
+Shade Rose Petal
+Light Rose Bush Seed
+Light Rose Seed
+Light Rose Petal
+Shaded Metal Block
+Block of Light Metal
+Light Ore
+Shaded Ore
+Fortified Glass
+Fortified Glass Pane
+Statue
+Ancient Sarcophagus
+Ancient Cache
+Dummy Block
+Ageing Stone
+Dechantment Table
+Eye of the Ancient
+Greater Spire
+Ancient Holder
+Pillar of Creation
+Book Holder
+Holder
+Ancient Holder Blank
+Pillar of Creation Blank
+Spinning Wheel
+Spinning Wheel
+Cutting Table
+Cutting Table
+Thaumic Extruder
+Upgraded Thaumic Extruder
+Infernal Blast Furnace
+Terramorfer
+Focus (Taiga)
+Focus (Desert)
+Focus (Hell)
+Focus (Jungle)
+Focus (Mushroom)
+Focus (Plains)
+Focus (Ice Plains)
+Focus (Forest)
+Focus (Swamp)
+Focus (Savanna)
+Shade Rose Bush
+Shade Rose
+Light Rose Bush
+Light Rose
+Primal Regeneration
+Teleportator Name:
+Position:
+Choose Desired Point:
+Ignore All Lists
+Use Blacklist
+Use Whitelist
+Not Enought Vis
+Teleport to Selected Position
+Limiting Contour
+Platform
+Spatial Matrix
+Teleportator
+Thaumic Gadgets
+Corrupted Observer
+Thaumic Gadgets
+Thaumic Gadgets
+The beginning of a new way
+Weaving
+Magic cloth. It would seem that in it this? What else can you do with it, except as a magician's attire. But still... And what if we twist several types of fabric and, say, stretched to the size of a thaum metal thread?
+Surprisingly, it worked. However, it was not fabric a ... Yarn. yarn, quite suitable for creating a different fabric. Now it remains to think of an application for it...
+Upgraded Weaving
+Magic cloth. It would seem that in it this? What else can you do with it, except as a magician's attire. But still... And what if we twist several types of fabric and, say, stretched to the size of a thaum metal thread?
+Combining the previous success and new knowledge, you created a light, shadow, ethereal and hollow yarn, as well as fabrics - Light, shadow, hollow, enchanted and changeable. Soon, you can find them application...
+Flying Carpet
+Placeholder start research
+Placeholde finish research
+Better Flying Carpet
+Placeholder start research
+Placeholde finish research
+Magic Bags
+You constantly do not have enough pockets to carry all these things. Always like this. Just go in search of adventure - and find something interesting, and then more, more... And already full pockets... You need to solve this problem.
+A bag. It seems that everything is simple. But ordinary woven bags are heavy and inconsistent. This same magic bag has a fairly large volume, while, thanks to magic, almost nothing weighs. In addition, it "remembers" its owner, giving access to its contents only to him. The material of the bag will depend on its capacity: Magic bag - 18 slots, Enchanted bag - 27 slots, Bewitched bag - 36 slots.
+Hungry Magic Bags
+Although you solved the problem with the fact that you had very little space. But, damn it. constantly move the stone, the ground and other objects into it with your hands is too tiring. You need a way that makes a bag do it for you.
+And you found it. Combining the properties of a hungry chest and bag, you created a hungry bag. It has all the properties of a regular bag and also collects all the items that fell near the player, if there is a place in it.
+Ender Bag
+One day, looking at the Ender-chest, you came to the idea of a genealogy - to create a bag that would be associated with it. In order to always be able to access it, without transferring it by using a pickaxe to "Silk Touch".
+Ender-bag completely imitates the Ender-chest, but it will not need to be installed. There is no protection on it, because in your small pocket dimension, in which your things are stored, still no one will get... Stop, measurement?
+Void Bag
+Too much excess land, too much excess stone... It is urgent to solve this problem until your bags are packed with them...
+Void bag will destroy any items that you catch and which are in the "White List". To add an item to the "white list", you just need to put the item in the bag. In the future, any item that will match it will be automatically placed in a hollow bag and destroyed.
+Capes
+Placeholder start research
+Placeholde finish research
+Cape of Phoenix
+Placeholder start research
+Placeholde finish research
+Wolf Cape
+Placeholder start research
+Placeholde finish research
+Necromancer Cape
+Placeholder start research
+Placeholde finish research
+Terramorfer
+In your wanderings, you have met many different biomes: forest, savanna, tundra, desert, swamps and many other. You came up with the idea of creating a terramorfer that would allow you to change the biome to the one you want...
+It was not easy, but you could create it. The taumic terramorfer. Its principle of operation is very simple: Install the terraformer in the right place, install a special focus on it, which is responsible for selecting the biome and feeding the essence. Terramorfer will gradually change the surrounding area. The range of terramorfer is 16 blocks. Depending on the installed focus, the terramorfer needs different essences. <BR>Тaiga: Gelum<BR>Desert: Ignis<BR>Nether: Potentia<BR>Jungle: Herba<BR>Mushroom Island: Praecantatio<BR>Plains: Terra<BR>Ice Plains: Gelum<BR>Forest: Herba<BR>Swamp: Aqua<BR>Savanna: Bestia
+Alchemy
+After the successful development of a terramorfer, you got the idea of a little fun with alchemy. What will come of it?
+And it turned out much more than you thought. A pair of simple experiments and you can easily learn how to turn one matter into another! But does it have side effects?
+Adding a little Tenebrae it dawned on you that the darkness is also material. And it is quite useful.
+Adding a little Lux dawned on you that the light is also material. And even quite useful.
+Ageing Stone
+Sometimes, sitting for hours at the fireplace with a hot mug of tea, you wondered what time is, and whether it is possible to manage it locally. And one of these evenings, it seems, you have found a solution...
+Ageing stone. Now you do not have to wait long for the animal to grow. This block will accelerate the growth of animals in the 7x7x5 zone. And no side effects... It seems...
+Stone Extruder
+You always need a stone! Hell, there must be some way to get it automatically, and not just stand with a pickaxe...
+You created a special machine - the "Thaumic generator". This mechanism allows you to create a cobblestone in unlimited quantities from nothing and it only takes 1 block. it can be triggered by a red stone signal. It is fantastic!
+Stone Extruder
+Of course, unlimited cobblestone is good, but it's time to think about something more...
+You have improved your "Cobblestone Generator". Now he can create a Stone, Cobblestone or Obsidian to choose from. Obsidian will require the supply of 10 Ignis, 10 Aqua and 10 Terra essences.
+Infernal Blast Furnace
+Infernal furnace is definitely a good thing. But it seems to you that its temperature and power is not enough. Clusters are not as effective as you would like ...
+The blast furnace has such a huge internal temperature that only clusters can emit it. All other items are irretrievably burned, leaving behind only dust. Clusters are remelted with triple efficiency. The attached furs and essence Ignis allow to speed up the work of the furnace.
+Shaded Metal
+The shadow... There is always a shadow. Shadow is something that can not exist by itself. Or can it?
+Can. Filling the gold ore with the essence of Tenebrae, Aurum and Permutatio, you got Shadow ore - too refractory to get metal from it. But not for the Blast Furnace. The resulting metal seems to absorb the surrounding light, enveloping the surrounding space with fog. Whether it's a fog... After preserving its refractoriness even after creating ingots, this metal can not be processed by the usual method. To create tools from the shadow metal you need a matrix. Sensitive to the time of day, these tools night self-refreshing and seem to help you in your work, but at the day...
+Further studies of the shadow metal pushed you to the idea that it would be possible to create a good armor from it. Changing the combat taum-armor with the help of shadow metal, you received a Shadow armor - a very serious defense. In the afternoon, it also has the property of self-repair. But it seems to you that its potential is not fully disclosed...
+Metal of Light
+Light... When you studied the sun, you began to think: "What would have happened if the wind was hard? What would be its properties?". To discard this stupid idea completely, you decided to prove to yourself that this is impossible...
+But the effect was reversed. You were able to create a light metal ore, filling the Golden Ore with the Essence Lux, Aurum and Permutatio. But the resulting ore is too refractory, even for Hell's furnace. The only solution is Blast furnace. The resulting metal emits a soft, pleasant light, but because of its extreme refractoriness, nothing can be done from it... Just like that. To create tools from light metal, you need a matrix. Sensitive to the time of day, these tools are self-refreshed during the day and seem to help you in your work, however at night...
+Further studies of light metal led you to the idea that it would be possible to create a good armor from it. Changing the battle armor with the help of light metal, you got Light armor - a very serious defense. In the afternoon, it also has the property of self-repair. But it seems to you that its potential is not fully disclosed...
+Primal Armor
+Meeting with the ancient creatures from Eldritch chut did not end for you to ruin, but you were lucky ... This time. It's time to think about a way to protect yourself from such creatures.
+Primal armor. That says it all. Having filled the Battle thaum-armor with the primal aspects, light, shadow and hollow metals, and the energy of the singular pearl, you created a monolithic armor that was not subject to destruction. But that's why you can not impose any charms on it. However, the armor will always be enchanted by "Protection 5", and the boots also on "Speed5" and the possible "Traveller's Boots". In addition, the energy of the original pearl gave the armor the strength of the original aspects of Aer, Ignis, Aqua, Terra, Ordo and Perditio. But unfortunately, only 1 aspect can be selected for 1 armor item. The more the same aspects are chosen, the more they are manifested:<PAGE><LINE>§lStrenght of Aer§r<BR>The Aer's power will allow you to become faster by directing your movements with air currents. At 1 item - "Acceleration 1"; At 2 items - "Acceleration 1" and "Hurry 1"; With 3 itemss - "Acceleration 2" and "Hurry 1"; For all 4 items - "Acceleration 2", Haste 1. "With a 25% chance, he applies the Levitation to the attacker for 3 seconds, CD for 10 sec.<PAGE><LINE>§lStrenght of Ignis§r<BR>The strength of Ignis will enchant your armor so that any attacker will know the wrath of this aspect. For 1 item - Ignites an enemy for 5 sec with a 25% chance. Cd - 8 sec; At 2 items - Ignites an enemy for 5 sec with a 50% chance. Cd - 8 sec; At 3 items - Ignites an enemy for 5 sec with a 75% chance. Cd - 8 sec; For all 4 items - Ignites an enemy for 5 sec. Cd - 8 sec. Gives the player "Night vision".<PAGE><LINE>§lStrenght of Aqua§r<BR>The strength of the Aqua will wash your wounds, healing the damage faster than in the usual way. At 1 item - restores 1 heart every 5 sec; When 2 items - restores 2 hearts every 5 sec; At 3 items - restores 3 hearts every 5 sec; For all 4 items - regenerates 4 hearts every 5 sec. Attacks the Slower 2 by 10 sec.<PAGE><LINE>§lStrenght of Terra§r<BR>The strength of Terra will give you strength and durability of the stone, while pulling from the enemies of nutrients. For 1 item, "Resistance to Damage 1"; At 2 items - "Resistance to damage 1", Imposes on the attacker "Hunger 1"; At 3 items - "Resistance to damage 1", Imposes on the attacker "Hunger 2"; For all 4 items - "Resistance to Damage 2", Imposes "Hunger 3" and "Fatigue 1" for 10 sec.<PAGE><LINE>§lStrenght of Ordo§r<BR>The strength of Ordo will give you confidence in yourself and your position. At 1 item - resistance to knockback 25%; At 2 items - resistance to knockback 50%; At 3 items - resistance to knockback 75%; At 4 items - immunity to knockback.<PAGE><LINE>§lStrenght of Perditio§r<BR>The power of Perditio will manifest itself in the form of sharpened thorns covering all your armor. Each piece of armor with the power of Perditio will have "Thorns 4". At 4 things, the attacker will also be overlaid with "Weakness 2" for 10 sec.
+Primal Weapon
+If there is a way to create an primal armor, then why not try to create a primal weapon?
+Here it is. Weapons of absolute power. Primal weapons. You managed to invent at once 3 primary weapons - a sword, an axe and a hammer. Just as the Primal armor, the original weapon is indestructible, can not be enchanted and will have its own forces of the primal aspects:<PAGE><LINE>§lStrenght of Aer§r<BR>The ubiquitous power of Aer gives the weapon strength of wind and sky - The sword will have the ability to "Sweeping Edge 4," the Ax will have the ability to "Haste 1," and the Hammer with a 20% chance will summon a lightning bolt from heaven on your enemies.<PAGE><LINE>§lStrenght of Ignis§r<BR>The furious power of Ignis will fill the weapon with all the might of this aspect. The sword will have the ability to "Fire Aspect 3", the axe will spit out its rage with each blow in the form of a small explosion. The hammer will have a 20% chance to create a huge explosion, scattering your enemies in the sides and causing a very large damage.<PAGE><LINE>§lStrenght of Aqua§r<BR>Flowing power Aqua will fill the weapon with force of sea waves and underground sources, undermining even a stone. And also poison and acid - its hostile manifestations. The sword will have the ability to "Acuity 6", the Axe will cause "Nausea" and "Poison 3" for 3 seconds, and the Hammer will have a 50% chance to throw an acid at the enemy, dealing 3 damage.<PAGE><LINE>§lStrenght of Terra§r<BR>The monolithic power of Terra will fill the weapon, increasing its mass for the enemy, but not for you. The sword will have the ability to "Knockback 3", the Axe will deal a Critical Hit with a 20% chance, and a Hammer with a 25% chance will stun your opponent for 1 sec.<PAGE><LINE>§lStrenght of Ordo§r<BR>Ordo's ordered power will bring your weapon to harmony and light. The sword will have the ability to "Smite 6", the Axe will deal twice the damage to the Shadow Armor, and the Hammer will additionally destroy the armor by 25.<PAGE><LINE>§lStrenght of the Perditio§r<BR>The chaotic power of Perditio will fill your weapon with unholy energy. The sword will gain the ability of "Beech of Arthropods 6", the Axe will deal twice the damage to the Light Armor, and the Hammer will be able to cast "Searing 2" for 2 seconds with a 50% chance.
+Upgraded Primal Armor
+Studying the stones as you should, you came to the conclusion that their strength is almost unlimited. However, the "fetters" of reality and their material limit it. And what if you try to combine your original armor, which has the power of aspects and stones?
+Of course, it did not happen the way you expected and hoped, but that does not mean it's a failure. You figured that at best, repeat the effects of the stones built into the armor, but on an ongoing basis. However, the effects were completely different:<PAGE><LINE>§lStrenght of Aer§r<BR>The strength of the Aer stone will fill every element with its special power. But they will, as before, reinforce each other. The helmet will have the ability to "Underwater Breath" 1, 2 or 3 levels. The Breastplate will gain the ability to attract items to a player within a radius of 4, 5 or 6 cells. Leggings will have the ability to "Jumble" 1,2 or 3 levels. Shoes will have the ability to "Weightlessness" 1,2 or 3 levels. When all 4 of the stones are together, you will receive the following abilities: "Breathing under water", Drawing nearby objects within a radius of 7, "Jumping 4", Immunity to damage from falling. In addition, any shells fired at you will be reflected back to the enemy without harming you, but chance of this only 90%.<PAGE><LINE>§lStrenght of Ignis§r<BR>The strength of the Ignis stone will fill the armor with the rage of this aspect. The enemies attacking you will be thrown to the side and ignited with a 25% chance at 1 stone, with a 50% chance at 2 stones, with a 75% chance at 3 stones. With 4 stones, any enemy that attacks you will be thrown back and set on fire. You will gain immunity to fire, and undead within a radius of 9 cells will burn, even being out of your sight.<PAGE><LINE>§lStrenght of the Aqua§r<BR>The strength of the Aqua stone will give your armor vampirism. Any damage you deal will heal you by% of the damage taken. at 1 stone will be treated by 15%, with 2 stones by 30%, with 3 stones by 45%, with 4 stones cured by 60% of the damage and provides immunity to poison, wither and nausea.<PAGE><LINE>§lStrenght of the Terra§r<BR>The strength of the Terra stone will give you the opportunity to rejuvenate nature. at 1 stone gives "regeneration 1", with 2 stones - "Regeneration 2", with 3 stones - "Regeneration 3", with 4 stones - Regeneration 4 and "Tide of health".<PAGE><LINE>§lStrenght of the Ordo§r<BR>The strength of the Ordo stone will remove any sorcerous advantage from the attacker's side, scattering the positive effects imposed on him. At 1 stone with a chance of 25%, with 2 stones - with a chance of 50%, with 3 stones - with a chance of 75%, with 4 stones - remove it and give you all the positive effects that the attacker will have.<PAGE><LINE>§lStrenght of the Perditio§r<BR>The strength of the Perditio stone will create problems for your enemies, imposing on the attacker "Poison" for 5 sec. At 1 stone - with a chance of 25%, with 2 stones - with a chance of 50%, with 3 stones - with a chance of 75%, with 4 stones - will put a poison on the attacker, and around you will wither the wither effect fog in a radius of 5 cells.
+Belt of Light
+You are thinking about the fact that if you can create armor, weapons and tools, then why not create a belt? However, the belt consists of leather, not metal ...
+It seems that the Primordial Pearl takes off almost all the limitations of matter. Filling the decorated belt with light metal and pearl energy, you created a Belt of Light. When equipping him with boots of light, in the afternoon increases the speed of movement, the height of the jump and gives immunity to the damage from falling. In addition, when wearing a full set (helmet, armor, leggings, boots and belt), you can take off for a short time, using the accumulated energy of light pressing button "C". Also in the daytime you will receive "Damage Resistance 2".
+Shaded Belt
+Your attempts to create a belt of light metal have not been successful, but you have not despaired. You just need to try another way...
+The primordial pearl. Of course. Filling the decorated belt with shady metal and pearl energy, you created the Belt of the Shadow. When equipping him with shade boots, at night increases the speed of movement, the height of the jump and gives immunity to the damage from falling. In addition, when wearing a full set (helmet, armor, leggings, boots and belt), you will be able to teleport for short distances, using the accumulated energy of the shadow pressing button "C". Also at night you will receive "Damage Resistance 2".
+Scythes
+This age-old problem is grass and leaves. Sometimes there are so many of them that you are wondering whether you are a magician or a gardener? You need a simple and radical solution to this ... trouble.
+The scythes are simple and tasteful. When you press the RMB, the scythe strikes wide around and cuts all the leaves, grass and flowers in the area around the place of application, with all the loot on the ground. You will only have to pick it up. In addition, it's still quite a good weapon. Although, unfortunately, a wide swing does not work for the enemies - the braid is quite heavy and stops at the first goal, although it does considerable damage to it.
+The void scythe, as well as the taum-scythe, cuts down the leaves in a wide area, but in a larger radius - 7x7x5 and like all objects made of void metal gradually self-repairing. Deals 10 damage per attack.
+A Shaded scythe, as well as a taum-scythe, cuts down leaves in a wide area, but in a larger radius - 9x7x9 and like all objects made of shaded metal allows you to cut faster and gradually self-repair at nighttime. Deals 11 damage per attack.
+A Light scythe, as well as a taum-scythe, cuts down leaves in a wide area, but in a larger radius - 9x7x9 and like all objects made of light metal allows you to cut faster and gradually self-repair at daytime. Deals 11 damage per attack.
+Scythe of Death
+Placeholder start research
+Placeholde finish research
+Garment of Death
+Placeholder start research
+Placeholde finish research
+Jewellery
+Once you accidentally spilled some of the essence on the stone and he... Filled with it. Having studied its properties, you thought that why not try it with other stones and essences?
+Definitely, the result is interesting. But for a stable effect, you need a table and tools. By creating tools for cutting stones and putting them on the table, you can create sharp magic stones. To do this, you need the essence and the stone itself. But there is one thing - the essence in its usual sense is not suitable for these purposes. A substance disintegrator built into the table allows you to direct the essence directly to the stone. <BR>You can fill the following types of stones: Quartz - 50 units, Amber - 40 units, Lapis - 35 units, Diamond - 25 units and Emerald - 20 units. The stone has an instant effect, but it only lasts for one application, after which it collapses.<BR> Effects of stones: Perditio - Gives a "death look" for 3 minutes; Ordo - Removes negative effects; Terra - Gives "Resistance Damage"; Aqua - Freezes water into ice and turns lava into obsidian in a 5x5x5 area; Ignis - gives "Fire Resistance" for 5 minutes; Aer - Gives "Speed 2" and "Jumping 2" for 3 minutes.<PAGE><IMG>tg:textures/gui/research/recipe_cutting_table.png:0:0:195:149:1</IMG>
+Experimenting with stones a little more, you invented another type of cut - oval. <BR>Stone and essence are also used to fill them: Quartz - 75 units, Amber - 60 units, Lapis - 50 units, Diamond - 40 units and Emerald - 35 units. These stones can be reused. After use, they will need time to recover. <BR>The effects of this cut are different from the sharp: Perditio - Increases the level of infection of the aura by 50 units; Ordo - Restores 5 health; Terra - Adds "10 golden hearts" for 5 min; Aqua - Creates a block of pure water; Ignis - Lights the fire on the block; Aer - Gives scuba breathing for 3 minutes. And don't forgot about prev. sharp cut. <BR> Effects of stones: Perditio - Gives a "death look" for 3 minutes; Ordo - Removes negative effects; Terra - Gives "Resistance Damage"; Aqua - Freezes water into ice and turns lava into obsidian in a 5x5x5 area; Ignis - gives "Fire Resistance" for 5 minutes; Aer - Gives "Speed ​​2" and "Jumping 2" for 3 minutes. <PAGE><IMG>tg:textures/gui/research/recipe_cutting_table.png:0:0:195:149:1</IMG>
+Lenses
+Once, turning the thaumometer in your hands, you caught yourself thinking that it would be nice to reduce it and insert it in glasses instead of glasses or... Or as an additional lens. What if you try to fill the glass with aspects like you did with stones?
+The result was curious. Ordinary glass is not suitable for filling aspects. You had to create a special lens capable of absorbing the essence, while being quite miniature. Filling an empty lens with the original aspects in a gemcutter table gives it certain permanent effects: Aqua provides the ability to look through the water as if it were not there. Ignis allows you to see the night as well as during the day, but unfortunately it does not work in the water. Perditio will give your eyesight the effect of "death gaze." And despite such a success, you understand that this is not the limit of possibilities ...
+Experiments with the filing of the same essence on the lens did not lead to anything. Already in despair, you accidentally missed, submitting the opposite. And suddenly the effect of the lens has changed. Ignis lens and aer essence - Gives night vision and fire resistance, and also sets fire to the creatures who came close. Empty lense and aer essence - knockback creatures that you looks at. Perditio lens and ordo essence - imposes on creatures that the magician looks at "wither", "Slow 2" and "Weakness 2".
+Rings
+Placeholder start research
+Placeholde finish research
+Aspect Ring
+Placeholder start research
+Placeholde finish research
+Seeker Amulet
+A normal compass points to the north. Ender Eye - to the nearest portal in the End. And this amulet? Seeker Amulet... Where is he pulling you?
+After some research, you find that the amulet only works in Nezer. And he points... To the lava lakes. Or that is hidden under them.
+Dechantment Table
+In your wanderings on the Nether, you accidentally found a strange building under the lava lake - some ancient vault. Inside is a strange sarcophagus, surrounded by statues of beings that you have never seen. But when you tried to open it... It was not easy, but you uncovered the sarcophagus. Inside the table was a concept... no, not an enchantment. Something ancient that you can not understand right away... You need to do some research...
+Everything turned out to be much easier than you thought. This is the dechantment table. He destroys all enchantments imposed on the item. You just need to put the object on the table and wait a little... However, you still have not found a way to move or recreate this table. But you feel that this is still not all that can be done with it...
+Enchantment Transfer
+Watching the process of removing enchantment, you noticed that the residual magic of the object for some time is in the air. From what you have made the assumption that it can somehow be caught and used.
+After doing a lot of calculations and having spent many hours analyzing the data, you were able to find a solution. For this you had to build a large structure right on the spot - you could not move the table. Having installed the "Book Holder" directly above the table and 4 "Ancient Holders" with the "Ancient Eyes" at the edges you were able to track and transfer the liberated magic to the books... But not always successfully. With a 20% chance, you will not succeed. But if you succeed - do not rush to rejoice. On the received enchantments there can be "Curse of Vanishing" or "Curse of Binding"...
+Enchantment Control
+The randomness factor is not what the real thaumaturge seeks. He must be absolutely sure of his success or failure. If the chance of transferring the spell can still be reconciled, then with a curse of loss - never. We need to find a way to get rid of this... "Randomness"...
+You expected that it would be much easier. To completely get rid of the negative effect of transferring spells, you had to use the power of a primordial pearl, and not even one... The resulting "Infinity Spheres", as you dubbed them, should be placed on the "Pillars of Creation" by placing them around the edges. Also you will need to transfer "Ancient Holders" and "Ancient Eyes". By combining everything into one design. The resulting design will transfer any enchantments to a book located in the "Book Holder". In this case, if there was a "Curse of Vanishing" or "Curse of Binding", it will be deleted.
+Teleportator
+Watching the Endermen and his, seemingly, spontaneous teleports, you found that they are more than not accidental - he completely controls them. And you came up with the idea of creating controlled teleports in space. But since by nature you are not enderman, and you can't implant yourself with an organ responsible for this, it is simply unrealistic, then it will be necessary to create a mechanism that mimics this...
+And you created it. The Teleporter is a rather complex structure that carries whole pieces of space between artificially created holes in reality. For these purposes, you will need to create a special Platform on which the portable "space" will be placed, as well as the Restricting Circle around it. A special Spatial Matrix will control the movement of this "space". Unfortunately, the transfer can only be carried out between other similar structures. At the same time, you either have to own it, or you will need it to be allowed to move to it. <PAGE>The motion control system has a special interface. In it, you can select the point where you want to move (from the ones available to you), select those you allow (or do not allow) to navigate to you, as well as the charge indicator and the teleport start button. All those who stand on the platform, and not only those who activated the teleport (unauthorized creatures will not be moved) can move through the teleporter. <PAGE>In this case, there is one nuance - the teleporter can transfer you to another telepointer... Which no longer exists. Although, from this you can benefit ... Probably ... In any case, you have stange feeling what you "re-invented the bike"...
+Scan Enchanted Fabric
+Scan Carpet
+Scan Chest
+Scan Hungry Chest
+Scan Magic Pouch
+Scan Ender Chest
+Scan Ender Pouch
+Scan Armor Stand
+Scan Blaze
+Scan Wolf
+Scan Zombie
+Scan Skeleton
+Scan Wither Skeleton
+Scan Sand
+Scan Netherrack
+Scan Dirt
+Scan Podzol
+Scan Grass
+Scan Coarse Dirt
+Scan Clay
+Scan Sheep
+Scan Cow
+Scan Chicken
+Scan Pig
+Scan Horse
+Scan Rabbit
+Scan Llama
+Scan Cracked Stone Bricks
+Scan Clock
+Scan Thaumium Pickaxe
+Scan Thaumic Stone Extruder
+Scan Obsidian
+Scan Soul Sand
+Scan Torch
+Scan Thaumium Ingot
+Scan Shaded Block
+Scan Block of Light
+Scan Thaumium Helmet
+Scan Thaumium Boots
+Scan Thaumium Chestplate
+Scan Thaumium Leggins
+Scan Primordial Pearl
+Scan Any Thaumcraft Boss
+Scan Void Sword
+Scan Void Axe
+Scan Oval Aer Crystal
+Scan Oval Ingis Crystal
+Scan Oval Aqua Crystal
+Scan Oval Terra Crystal
+Scan Oval Ordo Crystal
+Scan Oval Perditio Crystal
+Scan Helmet of Light
+Scan Chestplate of Light
+Scan Leggins of Light
+Scan Boots of Light
+Scan Shaded Helmet
+Scan Shaded Chestplate
+Scan Shaded Leggins
+Scan Boots
+Scan Oak Leaves
+Scan Tall Grass
+Scan Villager
+Scan Eldritch Guardian
+Scan Wither
+Scan Diamond
+Scan Emerald
+Scan Amber
+Scan Nether Quartz
+Scan Bow
+Scan Arrow
+Scan Iron Sword
+Scan Iron Pickaxe
+Scan Dechantment Table
+Scan Any Enchanted Book
+Scan Experience Orb
+Scan Eye of Ancient
+Scan Dragon Egg
+Scan Enderman
+Scan Ender Pearl
+Scan Crimson Portal
+Scan Thaumometr
+Scan Glass Block
+Scan Gemcutter Table
+Scan Goggles of Revealing
+Scan Echo Loc Lense
+Scan Night Vision Lense
+Scan Death Gaze Lense
+Scan Compass
+Scan Empty Map
+Scan End Portal
+Scan Nether Portal
+Scan Ender Eye

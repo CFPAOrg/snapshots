@@ -1,0 +1,320 @@
+TARDIS Mod Blocks
+TARDIS Mod Items
+Strange Blocks
+TARDIS Key
+Coordinate Logger
+Exotronic Circuitry
+Sonic Screwdriver
+Dalek Gunstick
+Trionic Power Cell
+Dalek Ray Gun
+Void Spectacles
+Gallifreyan Fob Watch
+Fez
+Bowtie
+Sonic Umbrella
+Sonic Umbrella
+Sonic Blaster
+Sonic Cane
+Vortex Manipulator
+Fluid Links
+Dematerialization Circuit
+Artron Capacitor
+Sonic Torch Pen
+TARDIS Manual
+Space Suit Helmet
+Space Suit Chestpiece
+Space Suit Leggings
+First Doctor's Cane
+Fourth Doctor's Hat
+Symbiotic Nuclei
+Stattenheim Remote
+Ruby
+Thirteen's Coat
+Sonic Shades
+Time Vector Generator
+Bio-Dampener
+Bottle of Mercury
+Cinnabar Dust
+Interstitial Antenna
+Hellbent Roundel Door
+Hellbent Corridor Entrance
+TARDIS Key
+Marker
+Interior Door
+Thirteen's Sonic
+Chameleon Circuit
+Bessie
+Temporal Grace Circuits
+TARDIS Toolkit
+Stabilizer circuits
+Thermocouplings
+Third Doctor's Sonic Screwdriver
+TARDIS Ancillary doors
+Repair Capsule
+Trophy
+Defabricator
+TARDIS Diagnostic Tool
+Bound to TARDIS Console at %s
+Remote bound to TARDIS at:
+TARDIS arriving in
+Artron Banks
+TARDIS Exterior:
+To bind, right click on a console.
+Right click the console to repair all non-destroyed systems by 15
+Stored Artron
+Found in the heart of a supernova.
+Exterior located at %s
+seconds
+TARDIS
+Console
+Roundel
+TARDIS Door
+TARDIS
+Lamp
+Homing Beacon
+Chronodyne Generator
+Grate
+Temporal Laboratory
+Umbrella Stand
+Alembic
+Food Machine
+Electric Interface Panel
+Meglos
+TARDIS Console
+Toyota Block
+Ruby Ore
+Holoprojector
+TARDIS Coral
+Cinnabar Ore
+Hellbent Floor
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Glass
+Hellbent Roundel
+Hellbent Roundel
+Hellbent Roundel
+Hellbent Roundel
+Hellbent Wall Silver
+Hellbent Wall
+Hellbent Vents
+Hellbent Fault Locator Lights
+Hellbent Monitor
+Hellbent Pole
+Hellbent Ceiling Thing
+S13 Roundel
+S13 Roundel
+S13 Roundel
+S13 Roundel
+S13 Roundel
+S13 Roundel
+S13 Floor
+S13 Floor
+Brachacki Table
+Json Tester
+Telos Sand
+Moon Dirt
+Steady State Micro-Welding Station
+Zero Room
+Zero Room Slab
+Zero Room Stairs
+Mysterious Suitcase
+Chair
+Armillary Sphere
+Toyota Spinny Thingamajig
+Sonic Workbench
+ARS Tree Egg
+Table
+Dalek Tractor Beam
+Dalek hull
+Dalek Hull Slab
+Artron Bank
+Strange Grass
+Strange Dirt
+Strange Stone
+TARDIS locked!
+TARDIS unlocked!
+This TARDIS is now double locked!
+Double lock lifted.
+killed by a Dalek Ray Gun!
+was deleted.
+was exterminated!
+%s was poisoned via mercury exposure!
+was deleted.
+fried by a forcefield!
+was exterminated!
+disintegrated by a laser!
+Recall Mode
+Tinker Mode
+Room Gen - Hallway
+Room Gen - Small Room
+Dismantle Roundel Panel
+Return From H.A.D.S
+Block interactions
+Entity interactions
+Signal TARDIS
+Entity Interact
+It doesn't work on wood!
+To open the door, you must sonic the bottom of the door!
+Ammo left: %s
+No Ammo!
+Press %s to load %s
+Press %s for more info!
+You don't own a TARDIS
+TARDIS in flight!
+TARDIS will search upwards for a landing spot
+TARDIS will search downwards for a landing spot
+TARDIS is now facing north
+TARDIS is now facing east
+TARDIS is now facing south
+TARDIS is now facing west
+The outer plasmic shell cannot be found! Please land again.
+TARDIS Coordinate modifier is
+H.A.D.S has been enabled
+H.A.D.S has been disabled
+Chameleon Circuit
+Toggle H.A.D.S
+Toggle hum
+Find nearest Rift
+Sub-System readout
+Change Console
+Architectural Reconfiguration System
+Regenerate Console Room
+Double Lock Doors
+Consume Dimensional Rift
+Repair the TARDIS
+Waypoint
+Change Interior
+Stealth Mode
+Disengaged Stealth Mode
+Stealth Mode Engaged!
+§4Escape§r
+Forcefield
+TARDIS hull is no longer repairing
+TARDIS hull is now repairing
+Flight System
+Dimensional Dams
+Fluid Links
+Interstitial Antenna
+Chameleon Circuit
+Temporal Grace Circuits
+Stabilizers
+Thermo-Couplings
+Nav-Com Dimension is:
+Dalek Invasion at:
+Dimensions
+Dimension List
+Set Dimension IDs for this mod?
+TARDIS Dimension
+Space Dimension
+Should the dimensions in the below list be used as a whitelist?
+Telos Dimension ID
+Entities
+Should this mod add Mobs?
+Chance That A Cyberman Will Spawn (Per Chunk)
+Chance That An Adipose Will Spawn (Per Chunk)
+Misc
+Give player a TARDIS key when they join the world?
+Maximum number of blocks the TARDIS should travel when using the randomizer
+Should the camera shake when taking off/landing?
+Enable BOTI?
+Time Rotor Handbrake
+Space Control - X
+Space Control - Y
+Space Control - Z
+Dimensional Control
+Screen
+Coordinate Randomizer
+Door
+Waypoint Input
+Waypoint Slot
+Real-World Flight Interface
+Refueller
+Landing Type Selector
+Directional Control
+TARDIS
+Fast Return
+Telepathic Circuits
+Door Switch
+Coordinate Increment Modifier
+Communicator
+Stabilizers
+Monitor
+Waypoint Selector
+Stabilizers On
+Stabilizers Off
+Dalek
+Adipose
+Invasion Cyberman
+was converted!
+Interior Pos:
+Mouse over console controls to learn about them.
+The Dematerialization Circuit has been fried!
+Tardis now fueling...
+Tardis no longer fueling.
+Could not find %s on planet %s!
+Relocating you to this capsule's outer plasmic shell!
+You cannot currently do that
+Please remain in the confines of your own capsule
+Vworp
+TARDIS flying
+Sonic Screwdriver buzzes
+Dalek ray fired
+Dalek
+Force Field
+Locked
+Door Opens
+Door Closes
+Cloister bell
+Drum beat
+ TARDIS stutters
+Vortex Manipulator teleportation
+No TARDIS found
+No player found with this username
+The selected TARDIS is being summoned to you.
+TARDIS deleted
+No sub-systems found
+Sub-system restored
+/tardis interior [player]
+/tardis grow
+/summon tardis <player>
+/tardis remove <player>
+/tardis restoresys <player> <system1> [system2] [system3]...
+Travel
+Please follow me.
+Wait here.
+Go back to the TARDIS and wait for me.
+I need you to go get the TARDIS.
+Good work with those Daleks!
+Take this!
+Acquired by right clicking a TARDIS console with a vanilla book.
+Coordinate Slip - X!
+Coordinate Slip - Y!
+Coordinate Slip - Z!
+Dimensional Drift!
+Fuel overpressurized!
+Angular Momentum Overload!
+1963 - Brachacki
+1966 - Altered Brachacki
+1976 - Newbery
+1996 - Hudolin
+1980 - Yardley-Jones
+Disguised
+Master's Clock
+TT Capsule
+Wooden Door
+Toyota
+Coral
+Copper
+Sharp
+Brachacki
+Kelt
+Disabled
+Demat/Remat animation
+This mode can: \n - Detonate Creepers \n - Shears sheep \n Makes a rabbit jump
+This mode can: \n - Make a Dispenser Dispense \n - Open Iron doors \n - Open Trap doors \n - Detonate TNT \n - Doesn't work on Wood :(

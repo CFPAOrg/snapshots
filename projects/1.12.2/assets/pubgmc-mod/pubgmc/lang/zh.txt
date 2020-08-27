@@ -1,0 +1,240 @@
+Small backpack
+Medium backpack
+Large backpack
+Bandage
+First aid kit
+Medkit
+Energy drink
+Painkillers
+Adrenaline syringe
+Inventory blocked (icon)
+Crowbar
+Machete
+Sickle
+Pan
+Parachute
+Steel Dust
+Steel Ingot
+Copper Ingot
+Fuel Can
+Spawn UAZ
+Spawn Dacia
+9mm Bullet
+Shotgun Ammo
+.45acp Bullet
+5.56mm Bullet
+7.62mm Bullet
+.300 Magnum Bullet
+Flare
+Flare Gun
+P92
+P1911
+R1895
+P18C
+R45
+Scorpion
+Deagle
+Win-94
+Sawed-Off Shotgun
+S1897
+S686
+S12K
+Micro-Uzi
+UMP-45
+Vector
+Tommy Gun
+PP-19 Bizon
+MP5K
+M16A4
+M416
+QBZ
+Scar-L
+G36C
+AUG
+AKM
+Beryl M762
+MK-47 Mutant
+Groza
+DP-28
+M249
+Mini-14
+VSS
+QBU
+SKS
+SLR
+MK-14 EBR
+Kar98K
+M24
+AWM
+Grenade
+Smoke Grenade
+Molotov
+Flashbang
+Ghillie helmet
+Ghillie chestplate
+Ghillie leggings
+Ghillie boots
+Night Vision Goggles
+Suppressor (Pistol)
+Suppressor (SMG)
+Suppressor (AR)
+Suppressor (DMR,SR)
+Compensator (SMG)
+Compensator (AR)
+Compensator (DMR,SR)
+Red Dot Sight
+Holographic Sight
+2X Scope
+4X Scope
+8X Scope
+15X Scope
+Vertical Grip
+Angled Grip
+Quickdraw Magazine (Pistol)
+Quickdraw Magazine (SMG)
+Quickdraw Magazine (AR)
+Quickdraw Magazine (DMR,SR)
+Extended Magazine (Pistol)
+Extended Magazine (SMG)
+Extended Magazine (AR)
+Extended Magazine (DMR,SR)
+Extended Quickdraw Magazine (Pistol)
+Extended Quickdraw Magazine (SMG)
+Extended Quickdraw Magazine (AR)
+Extended Quickdraw Magazine (DMR,SR)
+Bullet Loops (Shotgun)
+Bullet Loops (Kar98K,Win94)
+Cheekpad
+PUBGMC
+Reload
+Firemode
+Night Vision
+Attachment GUI
+Change Scope Type
+Change Scope Color
+Ghillie Suit
+Level 1 helmet
+Level 1 vest
+Level 2 helmet
+Level 2 vest
+Level 3 helmet
+Level 3 vest
+Asphalt road
+School wall
+School roof
+Ruins wall
+Wooden chair
+School window
+Blue glass
+Target
+Lamp bottom
+Lamp post
+Lamp top
+Bush
+Table
+Crate
+Crates
+Airdrop
+Big Airdrop
+Dark wood planks
+Light
+Fence
+Concrete
+Electric pole
+Electric pole (top)
+Electric cable
+Radio tower
+Radio tower (top)
+PMC snack
+Toma bar
+Energy drink pack
+Level 3 helmet (prop)
+First aid kit (prop)
+Official Majonaise prop
+Wheat
+Loot Spawner
+Player Crate
+Gun Workbench
+Copper Ore
+Mine
+School Chair
+Desk
+Storage Base
+Storage Top
+Window (1x1)
+Window (1x2)
+Window (2x1)
+Window (2x2)
+Locker
+Screen
+Single Box
+Double Box
+Sandbag
+Wooden Crate
+Vent
+Empty Crate
+Ammo Crate
+Gun Crate
+Wooden Stairs
+Clean Metal
+Dark Wood
+Sandbag Sand
+Tire
+Tire Stack
+Metal Table
+Road Blocker
+Modern Lamp
+Lamp Base
+Lamp Post
+Lamp Top
+Radiator
+Wooden Chest
+Wood Tile
+PUBGMC: Items
+PUBGMC: Blocks
+PUBGMC: Guns
+PUBGMC: Accessories
+Airdrop
+Loot Spawner
+Gun Workbench
+Ammo
+Firemode
+Damage
+Velocity
+Gravity
+Rate of fire
+Reload time
+Ammo type
+Max ammo
+Hold SHIFT for more info!
+Hold CTRL to show attachments!
+seconds
+blocks per second
+blocks per second
+shots per second
+9mm Bullet
+Shotgun Ammo
+.45acp Bullet
+5.56mm Bullet
+7.62mm Bullet
+.300 Magnum bullet
+Flare
+SINGLE
+BURST
+FULL-AUTO
+Right-Click to throw. Run to throw further
+Fuse
+4 seconds
+Fire
+10 seconds
+Range
+4 blocks
+Water will extinguish the fire!
+Effect
+20 seconds
+Water will cancel the effect!
+%s has been run over by wild vehicle!
+%s couldn't outrun the zone.
+%s shot %s's head off using %s!
+%s shot %s using %s
+Enemy AI

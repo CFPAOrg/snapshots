@@ -1,0 +1,10 @@
+Classic Dungeon Pack
+Iron Key
+Gold Key
+Locked Iron Door
+Locked Gold Door
+Throwable Stone
+Hidden Button
+Spikes
+Stone Trap Door
+Grate

@@ -1,0 +1,8 @@
+ShopPlus
+A shop application. Allows you to purchase any items using emeralds from your bank account.
+Spyeedy
+Balance:
+Food
+Armor
+Tool
+Block

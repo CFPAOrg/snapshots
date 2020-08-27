@@ -1,0 +1,113 @@
+Traveler's Backpack
+Traveler's Backpack
+Backpack Inventory
+Toggle Hose Tank
+There's no backpack to unequip.
+Can't add the backpack to the inventory, because there's no space for it.
+Other backpack is already worn.
+Can't deploy the sleeping bag! Check the surrounding area.
+Can't equip the backpack.
+None
+Empty
+Crafting Disabled
+Traveler's Backpack has changed mod id.
+Read if you updated the mod from version 1.0.27 or older, else you can skip.
+Take off your backpack, and destroy every block variant of backpack.
+All your backpacks should be in item form to prevent from losing.
+If any changes were made to previous configs, they need to be reapplied.
+This message appears only once.
+Your backpack has been placed at
+There's no space for backpack. Dropping backpack item at
+Backpack obtainable in Mineshafts and Dungeons
+Backpack obtainable in Blacksmith villager's chests
+Can only be acquired by wearing a Diamond backpack and being struck by lightning
+Can only be acquired by wearing a Pig backpack and being struck by lightning
+Backpack obtainable in Strongholds
+Can only be acquired by buying it from a Priest or Librarian villager
+Traveler's Backpack
+Backpack Tank
+Hose nozzle
+Hose
+Suck Mode
+Spill Mode
+Drink Mode
+Sleeping bag
+Milk
+Potion
+Standard
+Bat
+Black
+Blaze
+Blue
+Bookshelf
+Brown
+Brown Mushroom
+Cactus
+Cake
+Carrot
+Chest
+Chicken
+Coal
+Cookie
+Cow
+Creeper
+Cyan
+Deluxe
+Diamond
+Dragon
+Egg
+Electric
+Emerald
+End
+Enderman
+Ghast
+Glowstone
+Gold
+Gray
+Green
+Haybale
+Horse
+Iron
+Iron Golem
+Lapis
+Leather
+Light Blue
+Light Gray
+Lime
+Magenta
+Magma Cube
+Melon
+Modded Network
+Mooshroom
+Nether
+Obsidian
+Ocelot
+Orange
+Overworld
+Pig
+Pigman
+Pink
+Pumpkin
+Purple
+Quartz
+Rainbow
+Red
+Red Mushroom
+Redstone
+Sandstone
+Sheep
+Silverfish
+Skeleton
+Slime
+Snow
+Spider
+Sponge
+Squid
+Sunflower
+Villager
+White
+Wither
+Wither Skeleton
+Wolf
+Yellow
+Zombie

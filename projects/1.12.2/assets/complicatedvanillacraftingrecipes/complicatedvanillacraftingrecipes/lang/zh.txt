@@ -1,0 +1,128 @@
+§9Items§r
+§9Ores§r
+§oIron Vipryagnitel
+§lUses only for crafting of the Hauberk Rings.
+§oIron Hammer
+§lUses only for crafting any the Plates.
+Iron Bolt
+Iron Nail
+Iron Head Gavel
+Iron Cap a Screwdriver
+Iron Plate
+Obsidian Plate
+White Kaolin Clay Ball
+Lime Ball
+§9Obsidian Helmet§r
+§9Obsidian Chestplate§r
+§9Obsidian Leggings§r
+§9Obsidian Boots§r
+§lArmor is less durable than diamond armor, but it is also safe, a crowd of zombies and creepers with 1 hit will not kill, but it is not so easy to create§r ;)
+Crude Brick
+Ceramic Brick
+Silica Brick
+Fireproofing Brick
+Clay Brick
+§6Shape Axe§r
+§6Shape Hoe§r
+§6Shape Pickaxe§r
+§6Shape Shovel§r
+§6Shape Handle§r
+Clay Head Hoe
+Clay Head Shovel
+Clay Head Axe
+Clay Head Pickaxe
+Limestone Ore
+Coral Ore
+Dolomite Ore
+Clay Furnace
+Clay Furnace
+Clay Axe
+Clay Hoe
+Clay Shovel
+Wood Pickaxe
+The Wood Pickaxe is used for mining useful minerals, such a pickaxe breaks only Limestone Ore and nothing else.
+Limestone Pickaxe
+The Limestone Pickaxe is used for mining useful minerals, such a pickaxe breaks only Stone and nothing else.
+Cobblestone Pickaxe
+The Cobblestone Pickaxe is used for mining useful minerals, such a pickaxe breaks only Coal Ore and nothing else.
+Coal Limestone Pickaxe
+The Coal Limestone Pickaxe is used for mining useful minerals, such a pickaxe breaks only Iron Ore and nothing else.
+Painted Lapis Iron Pickaxe
+The Painted Lapis Iron Pickaxe is used for mining useful minerals, such a pickaxe breaks only Gold Ore and nothing else.
+Quartz Pickaxe
+The Quartz Pickaxe is used for mining useful minerals, such a pickaxe breaks only Redstone Ore and nothing else.
+Redstone Pickaxe
+The Redstone Pickaxe is used for mining useful minerals, such a pickaxe breaks only Emerald Ore and nothing else.
+Obsidian Pickaxe
+The Obsidian Pickaxe is used for mining useful minerals, such a pickaxe breaks only Diamond Ore and nothing else.
+Emerald Pickaxe
+The Emerald Pickaxe is used for mining useful minerals, such a pickaxe breaks only Diamond Ore and nothing else.
+End Pickaxe
+The End Pickaxe is used for mining useful minerals, such a pickaxe already breaks all the ores and all the above ores.
+Head Clay Axe
+Head Wood Pickaxe
+Head Limestone Pickaxe
+Head Cobblestone Pickaxe
+Head Coal Limestone Pickaxe
+Head Painted Lapis Iron Pickaxe
+Head Quartz Pickaxe
+Head Redstone Pickaxe
+Head Obsidian Pickaxe
+Head Emerald Pickaxe
+Head End Pickaxe
+Cloth
+Hauberk Rings
+Wheel
+Pivot
+§oChisel Hopper
+§lUses only for creating Vanilla Hopper
+Clay Solution
+Hoop Clipper
+Working Fabric
+Small Working Fabric
+Limestone Ingot
+Concrete
+Wood Varnish
+Handle
+Handle Roller
+Roller
+Metal File
+Handle Gavel
+Wrench
+Spatula
+Handle a Screwdriver
+§oDrill
+§lAlso used for only twistings bolts.
+Pliers
+§oLarge Screwdriver
+§lUses for twistings bolts.
+Tool Box
+Tape Measure
+§oHacksaw
+§lUsed for sawing wood.
+Handle Axe
+Hacksaw Blade
+Hacksaw Handle
+Foam Coating
+Vise
+Combustible Material
+Gel Fuel
+Concrete Powder
+Quicklime Powder
+Fender
+Plastic
+Small Fireplace Door
+Large Fireplace Door
+Coral Powder
+Sandpaper
+Clay Clump
+Clay Nugget
+Gavel
+Glue
+Clay Stick
+Clay Handle
+Roasted Head Axe
+Roasted Head Hoe
+Roasted Head Shovel
+Glass Substance
+Dolomite Rock

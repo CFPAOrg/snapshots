@@ -1,0 +1,50 @@
+Hazard Block White
+Hazard Block Orange
+Hazard Block Magenta
+Hazard Block Light Blue
+Hazard Block Yellow
+Hazard Block Lime
+Hazard Block Pink
+Hazard Block Gray
+Hazard Block Silver
+Hazard Block Cyan
+Hazard Block Purple
+Hazard Block Blue
+Hazard Block Brown
+Hazard Block Green
+Hazard Block Red
+Hazard Block Black
+Part Press White
+Part Press Orange
+Part Press Magenta
+Part Press Light Blue
+Part Press Yellow
+Part Press Lime
+Part Press Pink
+Part Press Gray
+Part Press Silver
+Part Press Cyan
+Part Press Purple
+Part Press Blue
+Part Press Brown
+Part Press Green
+Part Press Red
+Part Press Black
+Wardrobe
+Calculation Module
+Board Computer
+Decoration Matrix
+Futurepack Decoration Addon
+FP Decoration Addon
+Congradulations. You have install the Armory.
+Decoration Addon
+Part Press
+Scanner
+Wardrobe
+Flash Server
+Board Computer
+Advanced Board Computer
+Reasearch Module - Energy
+Reasearch Module - Support
+Reasearch Module - Experiance
+Calculation Module

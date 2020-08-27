@@ -1,0 +1,91 @@
+Moon Forest : Simple Items
+Moon Forest : Precious Items
+Moon Forest : Crafted Items
+Moon Forest : Ore
+Moon Forest : Other
+Honey Dust
+Feather Dust
+Leaf Spirit
+Lichen
+Moonlight Yarn
+Glass Foam
+Catkin
+Butterfly Crystal
+Colorful Yarn
+Spark
+Phoenix Feather
+Blue Fire Crystal
+Ice Crystal Powder
+Small Snowball
+Ice Dew
+Snowflake
+Yellow Spiritual Crystal
+Blue Spiritual Crystal
+Green Spiritual Crystal
+Pink Spiritual Crystal
+Tentacle
+Star Tatter
+Emerald
+Cyanite
+Star Diamond
+Butterfly Yarn
+Scale
+Violet Crystal
+Hyphae
+Water Light Bubble
+Light Feather
+Flame Stone
+Hot Jade
+Green Flame
+Frost Jade
+Ice Feather
+Frost Stone
+Metal Sheet
+Rainbow Gem
+Core of Planet
+Honey Butterfly Perfume
+Dust Silk
+Glowing Scale
+Broken Gauze
+Glass Bead
+Amethyst Bottle
+Butterfly Agate
+Colorful Satin
+Broken Statue
+Flame Ring
+Blue Feather Cloth
+Green Flame Gem
+Ice Hairpin
+Cute Snowman
+Frost Bracelet
+Wamoon Spiritual Dew
+Phosphor
+Metal Sequin
+Diamond Ring
+Spiritual Rainbow Stone
+Spiritual Crystal
+Honey Ore
+Ice Ore
+Star Ore
+Uranium Ore
+Honey Sand
+Hyphae Sand
+Colorful Sand
+Lava Sand
+Frost Sand
+Overworld Portal
+Wamoon Lakes Portal
+Mushroom Jungle Portal
+Faerie Portal
+Volcano Portal
+Frosty Snowfield Portal
+Ore Vein Portal
+Spirit
+Spirit
+Yellow Bean
+Blue Bean
+Green Bean
+Pink Bean
+%s was cooked!
+%s was frozen!
+%s died of unknown reason!

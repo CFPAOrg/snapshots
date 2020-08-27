@@ -1,0 +1,92 @@
+Dirt Apple
+Cobblestone Apple
+Stone Apple
+Obsidian Apple
+Glowstone Apple
+Glowstone Block Apple
+Super Apple
+Bedrock Apple
+Brick Apple
+Brick Block Apple
+Fried Apple
+Coal Apple
+Coal Block Apple
+Diamond Apple
+Diamond Block Apple
+Emerald Apple
+Emerald Block Apple
+Endstone Apple
+Iron Apple
+Iron Block Apple
+Lapis Apple
+Lapis Block Apple
+Planks Apple
+Log Apple
+Quartz Apple
+Quartz Block Apple
+Netherrack Apple
+Soul Sand Apple
+Redstone Apple
+Redstone Block Apple
+Wool Apple
+Slime Apple
+Slime Block Apple
+Sponge Apple
+Sand Apple
+Ice Apple
+TNT Apple
+Bragiot Apple
+Bragiot Block Apple
+Octoract Apple
+Octoract Block Apple
+Bragiot
+Octoract
+Apple Bow
+Apple Arrow
+Apple Finder
+Apple Finder V2
+Apple Finder V3
+Apple Finder Customizable
+Apple Arrow
+Apple Block
+Octoract Block
+Bragiot Block
+Apple Glowstone Block
+Apple Ore
+Bragiot Ore
+Octoract Ore
+Apple ore
+Apple ore
+Apple Sword
+Apple Shovel
+Apple Pickaxe
+Apple Axe
+Apple Hoe
+Apple Diamond Sword
+Apple Diamond Shovel
+Apple Diamond Pickaxe
+Apple Diamond Axe
+Apple Diamond Hoe
+Bragiot Sword
+Bragiot Shovel
+Bragiot Pickaxe
+Bragiot Axe
+Bragiot Hoe
+Octoract Tool
+Apple Helmet
+Apple Chestplate
+Apple Leggings
+Apple Boots
+Apple Diamond Helmet
+Apple Diamond Chestplate
+Apple Diamond Leggings
+Apple Diamond Boots
+Bragiot Helmet
+Bragiot Chestplate
+Bragiot Leggings
+Bragiot Boots
+Octoract Helmet
+Octoract Chestplate
+Octoract Leggings
+Octoract Boots
+Too Many Apples

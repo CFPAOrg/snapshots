@@ -1,0 +1,35 @@
+Simple Hammers
+Wooden Hammer
+Stone Hammer
+Iron Hammer
+Gold Hammer
+Diamond Hammer
+Obsidian Hammer
+Bedrock Hammer
+Wooden Excavator
+Stone Excavator
+Iron Excavator
+Gold Excavator
+Diamond Excavator
+Obsidian Excavator
+Bedrock Excavator
+Hammer Mining Settings
+Excavator Mining Settings
+Misc Settings
+Wood Hammer Mining Width
+Stone Hammer Mining Width
+Iron Hammer Mining Width
+Gold Hammer Mining Width
+Diamond Hammer Mining Width
+Obsidian Hammer Mining Width
+Wood Excavator Mining Width
+Stone Excavator Mining Width
+Iron Excavator Mining Width
+Gold Excavator Mining Width
+Diamond Excavator Mining Width
+Obsidian Excavator Mining Width
+How many blocks are removed per tick, higher values increase mining speed at the cost of lag
+Center Mining Area on Broken Block
+Adjust the mining capacity of hammers here
+Adjust the digging capacity of excavator here
+Miscellaneous Settings are in here

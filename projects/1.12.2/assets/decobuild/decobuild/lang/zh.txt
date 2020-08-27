@@ -1,0 +1,35 @@
+bricks
+yellow end brick
+bright-blue
+red end brick
+darken bright-yellow end brick
+rose-yellow end brick
+black brick
+orange brick
+checkered floor
+bright-yellow end brick
+bright-rose end brick
+bright-blue end brick
+rose end brick
+blue end brick
+bright-purple end brick
+yellow brick
+white purpur block
+floors
+white brick
+cyan end brick
+bright-cyan end brick
+dark-blue end brick
+dark-blue brick
+dark-yellow end brick
+dark-cyan end brick
+dark-rose end brick
+brown brick
+gray brick
+darken brick
+briks
+sqare floor
+darken rose end brick
+bright-brown brick
+green end brick
+yellow-brown brick

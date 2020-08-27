@@ -1,0 +1,32 @@
+No. Lives
+Heart
+Use this to gain %s %s
+Heart Block
+You already have the max number of lives! (Max: %s)
+You ran out of lives!
+%s %s added! You have %s %s remaining.
+You've regenerated %s %s! You now have %s %s
+You have %s %s left
+ (Max: %s)
+No. Lives is disabled!
+Player lives:
+Page %s / %s
+Added %s %s. %s now has %s %s
+Subtracted %s %s. %s now has %s %s
+Set %s %s for %s
+Cannot use commands in Hardcore!
+Set the max number of lives to %s
+Enabled No. Lives!
+Disabled No. Lives!
+/lives [subCommand]
+/lives list [page]
+/lives add [playerName] <amount>
+/lives sub [playerName] <amount>
+/lives set [playerName] <amount>
+/lives max <amount>
+/lives enable
+/lives disable
+Amount %s is not a valid positive integer!
+Failed to get Player Lives data from the world
+You must be a player to use this command
+Could not find any player lives data

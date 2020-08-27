@@ -1,0 +1,2 @@
+Toggle auto-pickup
+Hold for auto-pickup

@@ -1,0 +1,15 @@
+Chaining current Pokemon: %s
+Current chain count: %s
+Tracked: %s | Chain: %s
+You haven't battled this Pokemon yet!
+%s Level: %s
+%s Level: %s | Move: %s
+%s Level: %s | Move: %s | Ability: %s
+%s Level: %s | Move: %s | Ability: %s | Potential: %s
+DexNav
+Current DexNav Mode: Encounter Tracker
+Current DexNav Mode: Chaining Tracker
+★★★
+★★☆
+★☆☆
+☆☆☆

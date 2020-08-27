@@ -1,0 +1,51 @@
+Potion Effect
+Client Only
+Settings related to the Trail Mix potion effect
+These settings affect only the client that installs the mod.
+Potion ID for Trail Mix
+Fireball Skill
+Fireball Potion Use
+Fireball Min Potion Req
+Fireball Cooldown
+Duration of trail mix
+Trail mix overdose amount
+Walk speed multiplier
+Fall Dampening
+Pig explosion affects blocks
+Horse block clearing
+Horse fire trail
+Explosion bubble effect
+Show Flight Timer
+Replace Pig Renderer
+Fireball Key
+Pitch Up Key
+Pitch Down Key
+Turn Left Key
+Turn Right Key 
+Speed Up Key
+Slow Down Key
+Tight Turn Key
+Allow the fireball skill?
+Time from effect used when firing a fireball (in ticks)
+Minimum Trail Mix effect time required to launch fireballs (in ticks)
+Cooldown between each fireball (in ticks)
+Duration of each trail mix eaten (in ticks)
+How much can you take before overdosing (in ticks)\nSet to 0 to disable
+Walking speed of the effect
+Dampen fall damage?\nFall damage / (This value + 1)
+Do horses leave a trail of fire while running on trail mix?
+Enable the explosion bubble effects when hitting mobs?
+Show the time remaining on flight?
+Replace pig render with custom render?\nIf you have issues with invisible pigs etc, disable this.
+Key to fire a fireball
+Key to pitch upwards while on a trail mix pig
+Key to pitch downwards while on a trail mix pig
+Key to turn left while on a trail mix pig
+Key to turn right while on a trail mix pig
+Key to speed up while on a trail mix pig
+Key to slow down while on a trail mix pig
+Key to make tight turns while on a trail mix pig
+Trail Mix!
+Trail Mix
+TMPP Launcher
+Nyan Pig Launcher

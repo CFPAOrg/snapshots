@@ -1,0 +1,5 @@
+Teleporting XP Config
+Prioritize non-creative players
+Should XP orbs prioritize teleporting to non-creative players?
+Ignore gamerule
+Should XP orbs ignore whether teleportXP is false or not?

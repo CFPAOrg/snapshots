@@ -1,0 +1,314 @@
+Block of Electrum
+Block of Titanium
+Block of Iridium
+Block of Tungsten
+Block of Sapphire
+Block of Chrome
+Block of Ruby
+Block of Aluminium
+Block of Platinum
+Block of Thorium
+Block of Plutonium
+Block of Nickel
+Block of Invar
+Block of Technetium
+Brittle Charcoal
+Solid Super Fuel
+Magic Solid Super Fuel
+Iridium Ore
+Sheldonite Ore
+Ruby Ore
+Sapphire Ore
+Bauxite Ore
+Bedrock Ore
+Fusion Coil
+Lapotron Block
+Highly Advanced Machine Block
+Orechid
+Tungsten Mining Pipe
+Light Source
+Electric Craftingtable
+Disassembler
+Charge-O-Mat
+Computer Cube
+Industrial Centrifuge
+Matter Fabricator
+UUM-Assembler
+Echotron
+Digital Chest
+Quantum Chest
+Quantum Tank
+Player Detector
+Monster Repellator
+Microwave Energy Transmitter
+Bedrock Miner
+Fusion Reactor
+Lightning Rod
+Charcoal Pile Igniter
+Dragon Egg Energy Siphon
+Magic Energy Converter
+Magic Energy Absorber
+AESU
+IDSU
+LESU
+Tesseract Generator
+Tesseract Terminal
+Low Voltage Battery Block
+Supercondensator
+Superconductor Cable
+Basic Worktable
+Cabinet
+Drum
+Item Translocator
+Large Item Buffer
+Small Item Buffer
+Fluid Translocator
+Fluid Buffer
+Data Cable
+Flint Mortar
+Iron Mortar
+Redstone Transmitter
+Redstone Receiver
+Block Extender
+Type Filter
+Item Filter
+Electric Rock Breaker
+Display Screen
+Redstone Controlled Lamp
+Electrum Dust
+Eye of Ender Dust
+Titanium Dust
+Lazurite Dust
+Green Sapphire Dust
+Calcite Dust
+Pyrite Dust
+Iridium Dust
+Lithium Dust
+Tungsten Dust
+Carbon Dust
+Sapphire Dust
+Chrome Dust
+Bauxite Dust
+Sodalite Dust
+Ruby Dust
+Ender Pearl Dust
+Silicon Dust
+Aluminium Dust
+Flint Dust
+Emerald Dust
+Uranium Dust
+Thorium Dust
+Plutonium Dust
+Basalt Dust
+Platinum Dust
+Phosphorus Dust
+Sulfur Dust
+Nickel Dust
+Invar Dust
+Technetium Dust
+Brown Dye Dust
+Wood Pulp
+Sapphire
+Ruby
+Electrum Ingot
+Titanium Ingot
+Iridium Ingot
+Tungsten Ingot
+Chrome Ingot
+Silicon Ingot
+Aluminium Ingot
+Thorium Ingot
+Plutonium Ingot
+Platinum Ingot
+Nickel Ingot
+Invar Ingot
+Technetium Ingot
+60k Helium Coolant Cell
+180k Helium Coolant Cell
+360k Helium Coolant Cell
+Thorium Cell
+Dual Thorium Cell
+Quad Thorium Cell
+Plutonium Cell
+Dual Plutonium Cell
+Quad Plutonium Cell
+Energy Flow Circuit
+Data Control Circuit
+Data Storage Circuit
+Superconductor
+Data Orb
+Data Orb
+Braintech Aerospace Advanced Reinforced Duct Tape FAL-84
+Lithium Battery
+Lapotronic Energy Orb
+Lithium Batpack
+Lapotron Pack
+Glass Tube
+Destructopack
+Crafting Tablet
+Electromagnet
+Tesla Staff
+Rock Cutter
+Jack Hammer
+Portable Scanner
+Debug Scanner
+Echotron
+Cloaking Device
+Personal Forcefield Generator
+Light Helmet
+Spring Boots
+Magnifying Glass
+Empty Spray Can
+Magical Spray Can
+Super Fuel Binder
+Magic Super Fuel Binder
+Sensor Stick
+Bauxia
+Platina
+Rubeus
+Sapphirum
+God of Thunder
+Titania
+Scheelinium
+Hydrogen
+Tritium
+Helium-3
+Helium
+Deuterium
+Beryllium
+Oxygen
+Sodium
+Methane
+Potassium
+Mercury
+Calcium
+Nitrogen
+Chlorine
+Oil
+Neon
+Argon
+Lubricant
+Fuel
+Incredible Magic Dye
+Spawns rarely at all heights in any biome
+Spawns between Y level 10-30 in JUNGLE biomes
+Spawns between Y level 0 - 48 in HOT biomes
+Spawns between Y level 0 - 48 in OCEAN biomes
+Spawns between Y level 50 - 120 in FOREST/PLAINS biomes
+Mobile trash can
+Become a walking vacuum!
+O V E R C H A R G E D
+Mines 3x3 of any stone block
+Invisibility Field
+QwerTech intensifies
+Can be painted white to remove color
+Can be painted different colors
+Can be used as a beacon base
+Mobs cannot spawn on this block
+Automatic Crafting Table Mk III
+Charges all the things
+Now with more dedotated WAM!
+Portable tank, capacity of 32 buckets
+Sneak click empty handed to toggle output
+Reveals entities using echo location
+Uploads and downloads contents to data orbs
+2 Milliards, uhh I mean billion, items to store here!
+With a capacity of 488.28125 Chunks!
+Creates UU as fast as you can supply it.
+Now upgraded with internal tank for fluids!!!
+Sick of hand crafting with UU? Look no further.
+Round and round it goes!
+Uncrafts craftables with an 80 percent chance of return.
+Mines bedrock ore in a 5x5 area below it
+Must be placed on bedrock/bedrock ore
+Requires tungsten mining pipes to function
+Use lubricant to negate damage to pipes
+Outputs to the top.
+Detects player activity in a radius
+Range: 8 unpowered, 32 powered.
+Sneak click empty handed to toggle mode
+Stops nasty creatures from spawning,
+Range: 16 unpowered, 64 powered.
+Transmits energy wirelessly within dimensions
+Install a Sensor Stick to set target position.
+FUUUUUUUU-SION, HAH!
+Structure:
+5x1x5 "circular" ring of (24) Fusion Coils,
+Controller centered in the ring
+Power In: Left, Right, Up, or Down
+Power Out: Front or Back
+Psssst its free energy!
+Structure:
+Controller, with 8-255 iron fence rods on top
+Power Out: Front, Back, Left, Right, or Down
+Converts logs into Brittle Charcoal blocks,
+Must be placed on a log,
+Logs can be placed in any shape,
+Logs must be surrounded by dirt or grass,
+Processes up to 800 logs at a time
+Harness the teleportation power of the dragon egg!
+A generator running off magic fuel
+Absorbs magic energy and disenchants items
+Can be used as a battery item or block,
+Accepts power from any side except the top,
+Outputs power only through top side
+Modular energy storage
+Sneak click empty handed to toggle redstone modes
+Power In: Back, Left, Right, Up, or Down
+Power Out: Front
+Energy storage with adjustable output
+Sneak click empty handed to toggle redstone modes
+Interdimensional Storage Unit
+Sneak click empty handed to toggle redstone modes
+Generates a tesseract for the attached inventory
+Accesses tesseracts remotely,
+Install a Sensor Stick to set target tesseract location.
+Transforms extremely high energy sources to a usable level
+For all kinds of projects
+PrEmIuM dOuBlE cHeSt
+Moves items from A to B
+A small directable Hopper with an inbuilt Energy Conduit
+A chest-sized Buffer!
+Moves fluids from A to B
+A Buffer for managing fluids
+Does an "ok" job of turning things to dust...
+Does a great job of turning things to dust!
+Transmits redstone wirelessly within dimensions
+Install a Sensor Stick to set receiver position.
+Receives redstone signals from transmitters
+Relays attached inventories and tanks
+Cannot be attached to other extenders!
+A Buffer, which uses OrePrefixes to filter
+A Filter, which also buffers Items!
+Electric Cobble Generator Mk IV
+Displays Things
+Install a Sensor Stick to set target location.
+Sneak click empty handed to invert
+Test Text
+Sort Inventory
+Not Enough Power
+Structure is complete!
+Structure is not valid!
+Upload to Chest
+Download to Data Orb
+Absorb Player XP
+Absorb Lingering Potions
+Absorb End Portal Energy
+Warning only one per Portal!
+Clear Memory
+Scan Item
+Clear Target Item
+Shift crafting grid items into player inventory
+Shift crafting grid items into main inventory
+Emit Energy
+Emit Redstone
+Invert Redstone
+Invert Filter
+Ignore Nbt
++ 64
++ 1
+- 1
+- 64
+Use Redstone or Quartz to modulate Stone Types.
+%s EU
+GT-Classic

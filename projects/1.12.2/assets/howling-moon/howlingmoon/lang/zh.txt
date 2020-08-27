@@ -1,0 +1,223 @@
+Howl
+Climb
+Leap
+Night Vision
+Dash
+Ram
+Lift
+Shred
+Bite
+Paw
+Armor
+Scent Tracking
+Maim
+Tranquility
+Silver Blood
+Humanity
+Fear
+Berserk
+Feral
+Ingenuity
+Skillful
+Mastery
+Werewolf
+Wolf
+Beast
+Howl loud and summon wolf spirits. Strength and duration increase with level. Cooldown: 1 minute.
+Allows you to climb up certain blocks. Amount of possible climbable blocks increases with level.
+Allows you to leap forward at incredible speed.
+Gives access to night vision.
+While sprinting, entities that you collide with are knocked back and stunned.
+Allows you to pick up and carry entities. Must have nothing equipped in paws to carry.
+Unarm attacks inflict bleed.
+Bites the targeted player and infects them with your lycanthropy.
+Allows a werewolf to hold items in paws. The item's effectiveness however is reduced.
+Allows a werewolf to wear armor. Armor's effectiveness and mobility is reduced.
+Allows you to track entities by scent. Distance entities are trackable increases with level. Also able to set colors and entities tracked in menu.
+A special attack that injures the victim. Inflicting slowness and fatigue.
+Animals and Villagers no longer run away from you.
+Reduces weakness to silver and wolfsbane.
+Removes the negative effects of armor and equipped items while transformed.
+Some hostile mobs will become too afraid to attack. However they will still attack if provoked.
+Killing consecutively will temparory increases your strength for a short time. Effect strengthens with each kill.
+You have forsaken your humanity. Becoming one with the beast compeletely. Attributes and weaknesses are increased, even in human form. Armor and Tools are worthless to you transformed, and less effective even in human form.
+Increases exp gain.
+Increases Attribute points.
+Increases Attribute and Ability points.
+Grants the ability to transform into a werewolf. Increased movement speed, jump height, unarm attack damage and reduces damage taken.
+Grants the ability to transform into a wolf.
+Gain access to a bigger, stronger form.
+Strength
+Rend
+Protection
+Movement Speed
+Jump Height
+Fall Distance
+Knockback
+Knockback Resistance
+Hunger
+Regeneration
+Clarity
+Exhilarating
+Resistance
+Dexterity
+Increases unarm damage by 15%%.
+Ignores 2 points of armor.
+Reduces damage taken by 8%% while not wearing armor.
+Increases movement speed.
+Increases jump height.
+Increases the distance able to fall without taking damage.
+Increases knockback with unarm attacks.
+Increases knockback resistance.
+Reduces the amount hunger while transformed.
+Slowly regenerate health, each point increases regeneration speed.
+Reduces the negative effects of exiting transformations.
+Gives temparory boost upon transformation. Increased saturation, and gives beneficial potion effects. Exhilarating can only activate once every 5 minutes.
+Each point grants immunity to a status effect. Immunity 1: Weakness. 2: Posion. 3: Slowness. 4: Fatigue. 5: Wither.
+Increases effectiveness with paws.
+Reset Ability Points
+Reset Attribute Points
+Reset Inclination
+Progress will be reseted to the point before choosing. 
+Cost 10 levels.
+Assign
+Close
+Confirm
+Empty Paw
+Keeps a assigned hotbar slot empty.
+Error. Good job breaking it fuzzy.
+Howling Moon
+Menu
+Transform
+Ability 1
+Ability 2
+%s is now a Werewolf
+%s is no longer a Werewolf
+/werewolf <true|false>
+Cannot set level of non-werewolf player.
+Cannot set were-levels below 1.
+Set were-level to %s for %d
+/werelevel <amount> or /werelevels <amount>
+Cannot set progress below 0.
+Cannot set progress of non-werewolf player.
+Set were-progress to (%d, %s) for %s
+/wereprogress <0-8> [-1, 0 , 1] or /werequests <0-8> [-1, 0, 1]
+Set Level Cap
+Spawn Silver Ore
+Werewolves Sleep
+Dimension ID
+Set the level cap for werewolves. I highly recommend not increasing it past the default.
+Configure if werewolves are allowed to sleep while transformed.
+Generate silver ore in world.
+Set the mod's Dimension ID.
+Silver Ore
+Wolfsbane
+Hunter's Banner
+Silver Ingot
+Silver Sword
+Hardsilver Sword
+Moon Pearl
+Wolfsbane Potion
+Wolfsbane
+Bleeding
+Wolfsbane
+Silver Poisoning
+Howling Moon Rising
+Werewolf
+Hunter
+Village Werewolf
+Village Hunter
+You are infected with lycanthropy!
+A full moon rises! The beast within takes hold!
+The beast within takes hold!
+The beast within is restless!
+Your body is calmed, the lycanthropy infection is gone.
+The wolfsbane subdues the beast, you are no longer a werewolf!
+The wolfsbane cures your infection!
+Wolfsbane courses through your veins, you are immune to the lycanthropy infection!
+Wolfsbane is expelled from your body, you are susceptible to the lycanthropy infection!
+The potion has no effect.
+The beast within is restless!
+You dreamed you were hunting in a far off place.
+You faintly recall hearding whispers in your sleep.
+The wolf within awakens! You gain the ability to shift into a wolf.
+The beast within awakens! You gain the ability to shift into a more powerful form.
+Another part of the wolf within awakens!
+Welcome pup. Come talk with me. You have much to learn.
+Use your wolf form to reach the next area to continue your training.
+Hello again pup. I have more to teach you.
+Use your night vision to navagate through the maze.
+Your training is almost complete. Talk with me.
+Test out your beast form and dash through the tunnel. Careful of the walls.
+This is it. Talk to me for your final challenge.
+Make it to the end to prove your mastery.
+You now have the ability to shift into a wolf. Use it to reach the next area and our brethern with teach you more.
+You can now summon members of the pack by howling.
+You can now see clearly in the darkness. Use it to help you reach the end. You will then have to make a choice.
+You must choose what kind of wolf you want to be. Speak with one of us three to change. Once you leave it will be set.
+You now have the ability to shift into beast form. It may help you sprint through the tunnel. But take care to not touch the walls for you are bigger in that form!
+You are now able to spread our gift to others.
+Use everything you have to make to the end and prove your mastery. If you are carrying valuable items I suggest jumping out and storing them before atempting.
+You have completed your training and proved your mastery to us. Whether you have choosen to control the beast within or embrace it, we are proud have our gift run within you.
+Inclination is now %s.
+Werewolf
+Abilities
+Texture
+Model
+Gray
+White
+Black
+Red
+Timber
+Custom 
+Wolf
+Beast
+Status
+Normal
+Infected
+Immune
+Off
+On
+Skills
+Inclination
+Calm
+Protector
+Guardian
+Savage
+Beast
+Predator
+Neutral
+Keep paw empty
+Enter slot number, (0 - 8), to keep empty. Any other value will turn off ability
+Slot
+Forward
+Aim
+Ability
+Ability Toggle
+None
+Click to change
+Activate
+Leap: Sneak + Jump
+Leap: Sprint + Jump
+Climb: Sprint
+Do not climb while holding Sprint
+Only climb while holding Sprint
+Hold position while climbing
+Clamp onto wall while climbing
+Clamp onto wall
+Forward: Up, Back: Down
+While climbing only
+While on ground only
+While holding Sprint key
+Scent Tracking Color
+Color Settings
+Monsters
+Animals
+Creatures
+Others
+Edit
+Clear
+Ignore
+Cancel
+Disabled
+Specific

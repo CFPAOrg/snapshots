@@ -1,0 +1,15 @@
+Use /swt to open Simple World Timer options screen
+Simple World Timer Options
+Enable
+Auto Hide
+Preset
+Total World Time
+Minecraft Time
+Stopwatch
+System Time
+Custom
+Total World
+Minecraft
+Stopwatch
+System
+Start Year

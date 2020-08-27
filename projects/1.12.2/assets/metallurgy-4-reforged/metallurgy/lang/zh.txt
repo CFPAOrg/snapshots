@@ -1,0 +1,1123 @@
+Adamantine Helmet
+Adamantine Chestplate
+Adamantine Leggings
+Adamantine Boots
+Amordrine Helmet
+Amordrine Chestplate
+Amordrine Leggings
+Amordrine Boots
+Angmallen Helmet
+Angmallen Chestplate
+Angmallen Leggings
+Angmallen Boots
+Atlarus Helmet
+Atlarus Chestplate
+Atlarus Leggings
+Atlarus Boots
+Astral Silver Helmet
+Astral Silver Chestplate
+Astral Silver Leggings
+Astral Silver Boots
+Black Steel Helmet
+Black Steel Chestplate
+Black Steel Leggings
+Black Steel Boots
+Brass Helmet
+Brass Chestplate
+Brass Leggings
+Brass Boots
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Carmot Helmet
+Carmot Chestplate
+Carmot Leggings
+Carmot Boots
+Celenegil Helmet
+Celenegil Chestplate
+Celenegil Leggings
+Celenegil Boots
+Ceruclase Helmet
+Ceruclase Chestplate
+Ceruclase Leggings
+Ceruclase Boots
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Damascus Steel Helmet
+Damascus Steel Chestplate
+Damascus Steel Leggings
+Damascus Steel Boots
+Deep Iron Helmet
+Deep Iron Chestplate
+Deep Iron Leggings
+Deep Iron Boots
+Desichalkos Helmet
+Desichalkos Chestplate
+Desichalkos Leggings
+Desichalkos Boots
+Electrum Helmet
+Electrum Chestplate
+Electrum Leggings
+Electrum Boots
+Etherium Helmet
+Etherium Chestplate
+Etherium Leggings
+Etherium Boots
+Eximite Helmet
+Eximite Chestplate
+Eximite Leggings
+Eximite Boots
+Haderoth Helmet
+Haderoth Chestplate
+Haderoth Leggings
+Haderoth Boots
+Hepatizon Helmet
+Hepatizon Chestplate
+Hepatizon Leggings
+Hepatizon Boots
+Ignatius Helmet
+Ignatius Chestplate
+Ignatius Leggings
+Ignatius Boots
+Inolashite Helmet
+Inolashite Chestplate
+Inolashite Leggings
+Inolashite Boots
+Kalendrite Helmet
+Kalendrite Chestplate
+Kalendrite Leggings
+Kalendrite Boots
+Krik Helmet
+Krik Chestplate
+Krik Leggings
+Krik Boots
+Lutetium Helmet
+Lutetium Chestplate
+Lutetium Leggings
+Lutetium Boots
+Midasium Helmet
+Midasium Chestplate
+Midasium Leggings
+Midasium Boots
+Mithril Helmet
+Mithril Chestplate
+Mithril Leggings
+Mithril Boots
+Orichalcum Helmet
+Orichalcum Chestplate
+Orichalcum Leggings
+Orichalcum Boots
+Osmium Helmet
+Osmium Chestplate
+Osmium Leggings
+Osmium Boots
+Oureclase Helmet
+Oureclase Chestplate
+Oureclase Leggings
+Oureclase Boots
+Platinum Helmet
+Platinum Chestplate
+Platinum Leggings
+Platinum Boots
+Prometheum Helmet
+Prometheum Chestplate
+Prometheum Leggings
+Prometheum Boots
+Quicksilver Helmet
+Quicksilver Chestplate
+Quicksilver Leggings
+Quicksilver Boots
+Sanguinite Helmet
+Sanguinite Chestplate
+Sanguinite Leggings
+Sanguinite Boots
+Shadow Iron Helmet
+Shadow Iron Chestplate
+Shadow Iron Leggings
+Shadow Iron Boots
+Shadow Steel Helmet
+Shadow Steel Chestplate
+Shadow Steel Leggings
+Shadow Steel Boots
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Tartarite Helmet
+Tartarite Chestplate
+Tartarite Leggings
+Tartarite Boots
+Vulcanite Helmet
+Vulcanite Chestplate
+Vulcanite Leggings
+Vulcanite Boots
+Vyroxeres Helmet
+Vyroxeres Chest
+Vyroxeres Leggings
+Vyroxeres Boots
+Road
+Striped Road
+Block of Charcoal
+Bitumen Block
+Sulfur Block
+Electrum Block
+Copper Block
+Bronze Block
+Manganese Block
+Tin Block
+Steel Block
+Hepatizon Block
+Prometheum Block
+Angmallen Block
+Eximite Block
+Meutoite Block
+Desichalkos Block
+Black Steel Block
+Infuscolium Block
+Carmot Block
+Astral Silver Block
+Oureclase Block
+Deep Iron Block
+Quicksilver Block
+Mithril Block
+Haderoth Block
+Atlarus Block
+Adamantine Block
+Celenegil Block
+Tartarite Block
+Rubracium Block
+Midasium Block
+Shadow Steel Block
+Lemurite Block
+Vyroxeres Block
+Kalendrite Block
+Krik Block
+Sanguinite Block
+Alduorite Block
+Ignatius Block
+Shadow Iron Block
+Damascus Steel Block
+Orichalcum Block
+Ceruclase Block
+Vulcanite Block
+Inolashite Block
+Amordrine Block
+Zinc Block
+Silver Block
+Platinum Block
+Brass Block
+Lutetium Block
+Osmium Block
+Etherium Block
+Electrum Bricks
+Copper Bricks
+Bronze Bricks
+Manganese Bricks
+Tin Bricks
+Steel Bricks
+Hepatizon Bricks
+Prometheum Bricks
+Angmallen Bricks
+Eximite Bricks
+Meutoite Bricks
+Desichalkos Bricks
+Black Steel Bricks
+Infuscolium Bricks
+Carmot Bricks
+Astral Silver Bricks
+Oureclase Bricks
+Deep Iron Bricks
+Quicksilver Bricks
+Mithril Bricks
+Haderoth Bricks
+Atlarus Bricks
+Adamantine Bricks
+Celenegil Bricks
+Tartarite Bricks
+Rubracium Bricks
+Midasium Bricks
+Shadow Steel Bricks
+Lemurite Bricks
+Vyroxeres Bricks
+Kalendrite Bricks
+Krik Bricks
+Sanguinite Bricks
+Alduorite Bricks
+Ignatius Bricks
+Shadow Iron Bricks
+Damascus Steel Bricks
+Orichalcum Bricks
+Ceruclase Bricks
+Vulcanite Bricks
+Inolashite Bricks
+Amordrine Bricks
+Zinc Bricks
+Silver Bricks
+Platinum Bricks
+Brass Bricks
+Lutetium Bricks
+Osmium Bricks
+Etherium Bricks
+Electrum Large Bricks
+Copper Large Bricks
+Bronze Large Bricks
+Manganese Large Bricks
+Tin Large Bricks
+Steel Large Bricks
+Hepatizon Large Bricks
+Prometheum Large Bricks
+Angmallen Large Bricks
+Eximite Large Bricks
+Meutoite Large Bricks
+Desichalkos Large Bricks
+Black Steel Large Bricks
+Infuscolium Large Bricks
+Carmot Large Bricks
+Astral Silver Large Bricks
+Oureclase Large Bricks
+Deep Iron Large Bricks
+Quicksilver Large Bricks
+Mithril Large Bricks
+Haderoth Large Bricks
+Atlarus Large Bricks
+Adamantine Large Bricks
+Celenegil Large Bricks
+Tartarite Large Bricks
+Rubracium Large Bricks
+Midasium Large Bricks
+Shadow Steel Large Bricks
+Lemurite Large Bricks
+Vyroxeres Large Bricks
+Kalendrite Large Bricks
+Krik Large Bricks
+Sanguinite Large Bricks
+Alduorite Large Bricks
+Ignatius Large Bricks
+Shadow Iron Large Bricks
+Damascus Steel Large Bricks
+Orichalcum Large Bricks
+Ceruclase Large Bricks
+Vulcanite Large Bricks
+Inolashite Large Bricks
+Amordrine Large Bricks
+Zinc Large Bricks
+Silver Large Bricks
+Platinum Large Bricks
+Brass Large Bricks
+Lutetium Large Bricks
+Osmium Large Bricks
+Etherium Large Bricks
+Electrum Engraved Block
+Copper Engraved Block
+Bronze Engraved Block
+Manganese Engraved Block
+Tin Engraved Block
+Steel Engraved Block
+Hepatizon Engraved Block
+Prometheum Engraved Block
+Angmallen Engraved Block
+Eximite Engraved Block
+Meutoite Engraved Block
+Desichalkos Engraved Block
+Black Steel Engraved Block
+Infuscolium Engraved Block
+Carmot Engraved Block
+Astral Silver Engraved Block
+Oureclase Engraved Block
+Deep Iron Engraved Block
+Quicksilver Engraved Block
+Mithril Engraved Block
+Haderoth Engraved Block
+Atlarus Engraved Block
+Adamantine Engraved Block
+Celenegil Engraved Block
+Tartarite Engraved Block
+Rubracium Engraved Block
+Midasium Engraved Block
+Shadow Steel Engraved Block
+Lemurite Engraved Block
+Vyroxeres Engraved Block
+Kalendrite Engraved Block
+Krik Engraved Block
+Sanguinite Engraved Block
+Alduorite Engraved Block
+Ignatius Engraved Block
+Shadow Iron Engraved Block
+Damascus Steel Engraved Block
+Orichalcum Engraved Block
+Ceruclase Engraved Block
+Vulcanite Engraved Block
+Inolashite Engraved Block
+Amordrine Engraved Block
+Zinc Engraved Block
+Silver Engraved Block
+Platinum Engraved Block
+Brass Engraved Block
+Lutetium Engraved Block
+Osmium Engraved Block
+Etherium Engraved Block
+Electrum Crystals
+Copper Crystals
+Bronze Crystals
+Manganese Crystals
+Tin Crystals
+Steel Crystals
+Hepatizon Crystals
+Prometheum Crystals
+Angmallen Crystals
+Eximite Crystals
+Meutoite Crystals
+Desichalkos Crystals
+Black Steel Crystals
+Infuscolium Crystals
+Carmot Crystals
+Astral Silver Crystals
+Oureclase Crystals
+Deep Iron Crystals
+Quicksilver Crystals
+Mithril Crystals
+Haderoth Crystals
+Atlarus Crystals
+Adamantine Crystals
+Celenegil Crystals
+Tartarite Crystals
+Rubracium Crystals
+Midasium Crystals
+Shadow Steel Crystals
+Lemurite Crystals
+Vyroxeres Crystals
+Kalendrite Crystals
+Krik Crystals
+Sanguinite Crystals
+Alduorite Crystals
+Ignatius Crystals
+Shadow Iron Crystals
+Damascus Steel Crystals
+Orichalcum Crystals
+Ceruclase Crystals
+Vulcanite Crystals
+Inolashite Crystals
+Amordrine Crystals
+Zinc Crystals
+Silver Crystals
+Platinum Crystals
+Brass Crystals
+Lutetium Crystals
+Osmium Crystals
+Etherium Crystals
+Electrum Hazard Block
+Copper Hazard Block
+Bronze Hazard Block
+Manganese Hazard Block
+Tin Hazard Block
+Steel Hazard Block
+Hepatizon Hazard Block
+Prometheum Hazard Block
+Angmallen Hazard Block
+Eximite Hazard Block
+Meutoite Hazard Block
+Desichalkos Hazard Block
+Black Steel Hazard Block
+Infuscolium Hazard Block
+Carmot Hazard Block
+Astral Silver Hazard Block
+Oureclase Hazard Block
+Deep Iron Hazard Block
+Quicksilver Hazard Block
+Mithril Hazard Block
+Haderoth Hazard Block
+Atlarus Hazard Block
+Adamantine Hazard Block
+Celenegil Hazard Block
+Tartarite Hazard Block
+Rubracium Hazard Block
+Midasium Hazard Block
+Shadow Steel Hazard Block
+Lemurite Hazard Block
+Vyroxeres Hazard Block
+Kalendrite Hazard Block
+Krik Hazard Block
+Sanguinite Hazard Block
+Alduorite Hazard Block
+Ignatius Hazard Block
+Shadow Iron Hazard Block
+Damascus Steel Hazard Block
+Orichalcum Hazard Block
+Ceruclase Hazard Block
+Vulcanite Hazard Block
+Inolashite Hazard Block
+Amordrine Hazard Block
+Zinc Hazard Block
+Silver Hazard Block
+Platinum Hazard Block
+Brass Hazard Block
+Lutetium Hazard Block
+Osmium Hazard Block
+Etherium Hazard Block
+Electrum Reinforced Glass
+Copper Reinforced Glass
+Bronze Reinforced Glass
+Manganese Reinforced Glass
+Tin Reinforced Glass
+Steel Reinforced Glass
+Hepatizon Reinforced Glass
+Prometheum Reinforced Glass
+Angmallen Reinforced Glass
+Eximite Reinforced Glass
+Meutoite Reinforced Glass
+Desichalkos Reinforced Glass
+Black Steel Reinforced Glass
+Infuscolium Reinforced Glass
+Carmot Reinforced Glass
+Astral Silver Reinforced Glass
+Oureclase Reinforced Glass
+Deep Iron Reinforced Glass
+Quicksilver Reinforced Glass
+Mithril Reinforced Glass
+Haderoth Reinforced Glass
+Atlarus Reinforced Glass
+Adamantine Reinforced Glass
+Celenegil Reinforced Glass
+Tartarite Reinforced Glass
+Rubracium Reinforced Glass
+Midasium Reinforced Glass
+Shadow Steel Reinforced Glass
+Lemurite Reinforced Glass
+Vyroxeres Reinforced Glass
+Kalendrite Reinforced Glass
+Krik Reinforced Glass
+Sanguinite Reinforced Glass
+Alduorite Reinforced Glass
+Ignatius Reinforced Glass
+Shadow Iron Reinforced Glass
+Damascus Steel Reinforced Glass
+Orichalcum Reinforced Glass
+Ceruclase Reinforced Glass
+Vulcanite Reinforced Glass
+Inolashite Reinforced Glass
+Amordrine Reinforced Glass
+Zinc Reinforced Glass
+Silver Reinforced Glass
+Platinum Reinforced Glass
+Brass Reinforced Glass
+Lutetium Reinforced Glass
+Osmium Reinforced Glass
+Etherium Reinforced Glass
+Armor Effects
+General
+Registry
+Rubracium Gauntlet
+Tool Effects
+World Generation
+Clear Vision
+Night Vision
+Diver
+Well Fed
+Jump Master
+Poison Immunity
+Quick Action
+Resistance IV
+Strength
+Volcanic
+§oNo Blindness >:(§r\nMakes you immune to blindness
+§oNo carrots required§r\nAllows you to see in the dark
+§oAqua-bound!§r\nIt makes it easier for you to do things underwater
+§oThe taste of hard work§r\nReplenishes your food bar if you have enough experience.
+§oWheeee!§r\nIncreases jump height.
+§oTastes like coconut... and metal§r\nGrants immunity to poison.
+§oBow Tender§r\nStretching a bow becomes faster
+§oHard as nails§r\nReduces incoming damage even further than you'd expect.
+§oI bet I could lift that§r\nIncreases damage dealt \n(can be level I or level II)
+§oFire-bound!§r\nIt makes you immune to fire
+Metallurgy Armor
+Metallurgy Blocks
+Metallurgy Dusts
+Metallurgy Fluids
+Metallurgy Ingots
+Metallurgy Nugets
+Metallurgy Special
+Metallurgy Ores
+Metallurgy Tools
+Adamantine Dust
+Alduorite Dust
+Amordrine Dust
+Angmallen Dust
+Astral Silver Dust
+Atlarus Dust
+Black Steel Dust
+Brass Dust
+Bronze Dust
+Carmot Dust
+Celenegil Dust
+Ceruclase Dust
+Copper Dust
+Deep Iron Dust
+Desichalkos Dust
+Damascus Steel Dust
+Electrum Dust
+Etherium Dust
+Eximite Dust
+Gold Dust
+Haderoth Dust
+Hepatizon Dust
+Ignatius Dust
+Infuscolium Dust
+Inolashite Dust
+Iron Dust
+Kalendrite Dust
+Krik Dust
+Lemurite Dust
+Lutetium Dust
+Manganese Dust
+Meutoite Dust
+Midasium Dust
+Mithril Dust
+Orichalcum Dust
+Osmium Dust
+Oureclase Dust
+Platinum Dust
+Prometheum Dust
+Quicksilver Dust
+Rubracium Dust
+Sanguinite Dust
+Shadow Iron Dust
+Shadow Steel Dust
+Silver Dust
+Steel Dust
+Tartarite Dust
+Thermite Dust
+Tin Dust
+Vulcanite Dust
+Vyroxeres Dust
+Zinc Dust
+Adamantine Nugget
+Alduorite Nugget
+Amordrine Nugget
+Angmallen Nugget
+Astral Silver Nugget
+Atlarus Nugget
+Black Steel Nugget
+Brass Nugget
+Bronze Nugget
+Carmot Nugget
+Celenegil Nugget
+Ceruclase Nugget
+Copper Nugget
+Deep Iron Nugget
+Desichalkos Nugget
+Damascus Steel Nugget
+Electrum Nugget
+Etherium Nugget
+Eximite Nugget
+Gold Nugget
+Haderoth Nugget
+Hepatizon Nugget
+Ignatius Nugget
+Infuscolium Nugget
+Inolashite Nugget
+Iron Nugget
+Kalendrite Nugget
+Krik Nugget
+Lemurite Nugget
+Lutetium Nugget
+Manganese Nugget
+Meutoite Nugget
+Midasium Nugget
+Mithril Nugget
+Orichalcum Nugget
+Osmium Nugget
+Oureclase Nugget
+Platinum Nugget
+Prometheum Nugget
+Quicksilver Nugget
+Rubracium Nugget
+Sanguinite Nugget
+Shadow Iron Nugget
+Shadow Steel Nugget
+Silver Nugget
+Steel Nugget
+Tartarite Nugget
+Thermite Nugget
+Tin Nugget
+Vulcanite Nugget
+Vyroxeres Nugget
+Zinc Nugget
+§4You are too tired! Eat something first!
+Molten Adamantine
+Molten Alduorite
+Molten Amordrine
+Molten Angmallen
+Molten Astral Silver
+Molten Atlarus
+Molten Black Steel
+Molten Brass
+Molten Bronze
+Molten Carmot
+Molten Celenegil
+Molten Ceruclase
+Molten Copper
+Molten Damascus Steel
+Molten Deep Iron
+Molten Desichalkos
+Molten Electrum
+Molten Etherium
+Molten Eximite
+Molten Haderoth
+Molten Hepatizon
+Molten Ignatius
+Molten Infuscolium
+Molten Inolashite
+Molten Kalendrite
+Molten Krik
+Molten Lemurite
+Molten Lutetium
+Molten Manganese
+Molten Meutoite
+Molten Midasium
+Molten Mithril
+Molten Orichalcum
+Molten Osmium
+Molten Oureclase
+Molten Platinum
+Molten Prometheum
+Molten Quicksilver
+Molten Rubracium
+Molten Sanguinite
+Molten Shadow Iron
+Molten Shadow Steel
+Molten Silver
+Molten Steel
+Liquid Tar
+Molten Tartarite
+Molten Thermite
+Molten Tin
+Molten Vulcanite
+Molten Vyroxeres
+Molten Zinc
+Molten Adamantine
+Molten Alduorite
+Molten Amordrine
+Molten Angmallen
+Molten Astral Silver
+Molten Atlarus
+Molten Black Steel
+Molten Brass
+Molten Bronze
+Molten Carmot
+Molten Celenegil
+Molten Ceruclase
+Molten Copper
+Molten Deep Iron
+Molten Desichalkos
+Molten Damascus Steel
+Molten Electrum
+Molten Etherium
+Molten Eximite
+Molten Haderoth
+Molten Hepatizon
+Molten Ignatius
+Molten Infuscolium
+Molten Inolashite
+Molten Kalendrite
+Molten Krik
+Molten Lemurite
+Molten Lutetium
+Molten Manganese
+Molten Meutoite
+Molten Midasium
+Molten Mithril
+Molten Orichalcum
+Molten Osmium
+Molten Oureclase
+Molten Platinum
+Molten Prometheum
+Molten Quicksilver
+Molten Rubracium
+Molten Sanguinite
+Molten Shadow Iron
+Molten Shadow Steel
+Molten Silver
+Molten Steel
+Molten Tartarite
+Molten Tin
+Molten Vulcanite
+Molten Vyroxeres
+Molten Zinc
+Molten Thermite
+Liquid Tar
+Adamantine Ingot
+Alduorite Ingot
+Amordrine Ingot
+Angmallen Ingot
+Astral Silver Ingot
+Atlarus Ingot
+Black Steel Ingot
+Brass Ingot
+Bronze Ingot
+Carmot Ingot
+Celenegil Ingot
+Ceruclase Ingot
+Copper Ingot
+Deep Iron Ingot
+Desichalkos Ingot
+Damascus Steel Ingot
+Electrum Ingot
+Etherium Ingot
+Eximite Ingot
+Haderoth Ingot
+Hepatizon Ingot
+Ignatius Ingot
+Infuscolium Ingot
+Inolashite Ingot
+Kalendrite Ingot
+Krik Ingot
+Lemurite Ingot
+Lutetium Ingot
+Manganese Ingot
+Meutoite Ingot
+Midasium Ingot
+Mithril Ingot
+Orichalcum Ingot
+Osmium Ingot
+Oureclase Ingot
+Platinum Ingot
+Prometheum Ingot
+Quicksilver Ingot
+Rubracium Ingot
+Sanguinite Ingot
+Shadow Iron Ingot
+Shadow Steel Ingot
+Silver Ingot
+Steel Ingot
+Tartarite Ingot
+Tin Ingot
+Vulcanite Ingot
+Vyroxeres Ingot
+Zinc Ingot
+Flint and Ignatius
+Flint and Vulcanite
+Rubracium Gauntlet
+Lemurite Shield
+Metal Detector
+Phosphorus Lantern
+Tar
+Sulfur
+Bitumen
+Potash
+Phosphorus
+Potash Fertilizer
+Metallurgy Wiki
+Crusher
+seconds
+Duration
+Effect
+Tar is generated in the world in a liquid form (Liquid Tar), however if it's kept away from the other tar fluid blocks it cools down becoming Tar Ore, that you can mine to get both the item form of Tar and occasionally Bitumen
+This peculiar shield can help you a lot in fights against your enemies, in fact you can easily hold right-click to block damage and to become invisible, from that moment on as long as you hold right click mobs won't notice you. When you release right-click the lemurite shield will be on a cooldown for a period of time depending on the time you used the shield. There's a shield use limit of 30 seconds after which the shield is automatically put on cooldown.
+Thermite dust can be melted in Tinkers' Construct's smeltery and then used in the smeltery tank to fuel it, this enhanced fuel allows you to melt ores you couldn't smelt before and to smelt usual ores way faster than when you use lava. If you don't have Tinkers' Construct installed you can use it as a powerful fuel for any machines with enhanced results if used on Metallurgy Machines
+The Krik Armor makes you float at a certain height depending on how much filled your inventory is. You can press the UP arrow or the DOWN arrow to float respectively up and down.  You have a height limit you can't go over while floating, that limit depends on how full your inventory is (excluding the hotbar). There's also an HUD in the bottom-right corner of the screen that shows you, your height level and your limit.
+Adamantine Ore
+Alduorite Ore
+Astral Silver Ore
+Atlarus Ore
+Tar Ore
+Carmot Ore
+Ceruclase Ore
+Copper Ore
+Deep Iron Ore
+Eximite Ore
+Ignatius Ore
+Infuscolium Ore
+Kalendrite Ore
+Lemurite Ore
+Lutetium Ore
+Manganese Ore
+Midasium Ore
+Meutoite Ore
+Mithril Ore
+Orichalcum Ore
+Osmium Ore
+Oureclase Ore
+Platinum Ore
+Potash Ore
+Phosphorite Ore
+Prometheum Ore
+Rubracium Ore
+Sanguinite Ore
+Shadow Iron Ore
+Silver Ore
+Sulfur Ore
+Tin Ore
+Vyroxeres Ore
+Vulcanite Ore
+Zinc Ore
+Crusher
+Alloyer
+§cCrusher
+§eAlloyer
+§4Sublimation Chamber
+Obscure
+Blinds your enemy for some time
+Opistognathus
+Increase attack/mining speed in water
+Volcanic
+Sets your enemy on fire for a certain amount of time (depending on the level of the trait)
+Duplication
+Has a chance to duplicate drops
+Life Steal
+Has a "luck" based chance to heal by 10% of the dealt damage
+Wither
+Applies wither effect on your enemy
+King Dice
+Applies a random effect on your enemy
+Adamantine Axe
+Adamantine Hoe
+Adamantine Pickaxe
+Adamantine Shovel
+Adamantine Sword
+Amordrine Axe
+Amordrine Hoe
+Amordrine Pickaxe
+Amordrine Shovel
+Amordrine Sword
+Angmallen Axe
+Angmallen Hoe
+Angmallen Pickaxe
+Angmallen Shovel
+Angmallen Sword
+Astral Silver Axe
+Astral Silver Hoe
+Astral Silver Pickaxe
+Astral Silver Shovel
+Astral Silver Sword
+Atlarus Axe
+Atlarus Hoe
+Atlarus Pickaxe
+Atlarus Shovel
+Atlarus Sword
+Black Steel Axe
+Black Steel Hoe
+Black Steel Pickaxe
+Black Steel Shovel
+Black Steel Sword
+Brass Axe
+Brass Hoe
+Brass Pickaxe
+Brass Shovel
+Brass Sword
+Bronze Axe
+Bronze Hoe
+Bronze Pickaxe
+Bronze Shovel
+Bronze Sword
+Carmot Axe
+Carmot Hoe
+Carmot Pickaxe
+Carmot Shovel
+Carmot Sword
+Celenegil Axe
+Celenegil Hoe
+Celenegil Pickaxe
+Celenegil Shovel
+Celenegil Sword
+Ceruclase Axe
+Ceruclase Hoe
+Ceruclase Pickaxe
+Ceruclase Shovel
+Ceruclase Sword
+Copper Axe
+Copper Hoe
+Copper Pickaxe
+Copper Shovel
+Copper Sword
+Damascus Steel Axe
+Damascus Steel Hoe
+Damascus Steel Pickaxe
+Damascus Steel Shovel
+Damascus Steel Sword
+Deep Iron Axe
+Deep Iron Hoe
+Deep Iron Pickaxe
+Deep Iron Shovel
+Deep Iron Sword
+Desichalkos Axe
+Desichalkos Hoe
+Desichalkos Pickaxe
+Desichalkos Shovel
+Desichalkos Sword
+Electrum Axe
+Electrum Hoe
+Electrum Pickaxe
+Electrum Shovel
+Electrum Sword
+Etherium Axe
+Etherium Hoe
+Etherium Pickaxe
+Etherium Shovel
+Etherium Sword
+Eximite Axe
+Eximite Hoe
+Eximite Pickaxe
+Eximite Shovel
+Eximite Sword
+Haderoth Axe
+Haderoth Hoe
+Haderoth Pickaxe
+Haderoth Shovel
+Haderoth Sword
+Hepatizon Axe
+Hepatizon Hoe
+Hepatizon Pickaxe
+Hepatizon Shovel
+Hepatizon Sword
+Ignatius Axe
+Ignatius Hoe
+Ignatius Pickaxe
+Ignatius Shovel
+Ignatius Sword
+Inolashite Axe
+Inolashite Hoe
+Inolashite Pickaxe
+Inolashite Shovel
+Inolashite Sword
+Kalendrite Axe
+Kalendrite Hoe
+Kalendrite Pickaxe
+Kalendrite Shovel
+Kalendrite Sword
+Krik Axe
+Krik Hoe
+Krik Pickaxe
+Krik Shovel
+Krik Sword
+Midasium Axe
+Midasium Hoe
+Midasium Pickaxe
+Midasium Shovel
+Midasium Sword
+Mithril Axe
+Mithril Hoe
+Mithril Pickaxe
+Mithril Shovel
+Mithril Sword
+Orichalcum Axe
+Orichalcum Hoe
+Orichalcum Pickaxe
+Orichalcum Shovel
+Orichalcum Sword
+Oureclase Axe
+Oureclase Hoe
+Oureclase Pickaxe
+Oureclase Shovel
+Oureclase Sword
+Platinum Axe
+Platinum Hoe
+Platinum Pickaxe
+Platinum Shovel
+Platinum Sword
+Prometheum Axe
+Prometheum Hoe
+Prometheum Pickaxe
+Prometheum Shovel
+Prometheum Sword
+Quicksilver Axe
+Quicksilver Hoe
+Quicksilver Pickaxe
+Quicksilver Shovel
+Quicksilver Sword
+Sanguinite Axe
+Sanguinite Hoe
+Sanguinite Pickaxe
+Sanguinite Shovel
+Sanguinite Sword
+Shadow Iron Axe
+Shadow Iron Hoe
+Shadow Iron Pickaxe
+Shadow Iron Shovel
+Shadow Iron Sword
+Shadow Steel Axe
+Shadow Steel Hoe
+Shadow Steel Pickaxe
+Shadow Steel Shovel
+Shadow Steel Sword
+Silver Axe
+Silver Hoe
+Silver Pickaxe
+Silver Shovel
+Silver Sword
+Steel Axe
+Steel Hoe
+Steel Pickaxe
+Steel Shovel
+Steel Sword
+Tartarite Axe
+Tartarite Hoe
+Tartarite Pickaxe
+Tartarite Shovel
+Tartarite Sword
+Vulcanite Axe
+Vulcanite Hoe
+Vulcanite Pickaxe
+Vulcanite Shovel
+Vulcanite Sword
+Vyroxeres Axe
+Vyroxeres Hoe
+Vyroxeres Pickaxe
+Vyroxeres Shovel
+Vyroxeres Sword
+§4Full Armor Set: Consumes experience to gain hunger points
+§dFull Armor Set: Strenght II
+§eFull Armor Set: (WIP) Luck (WIP)
+§fFull Armor Set: Jump Boost
+§eFull Armor Set: (WIP) Haste (WIP)
+§aFull Armor Set: Resistance II - Half Armor Set: Resistance I
+§3Full Armor Set: Slows Attackers
+§3Full Armor Set: Fast Diving
+§5Full Armor Set: Endermen won't notice you
+§dFull Armor Set: Strenght
+§2Full Armor Set: Weight controlled flight (UP and DOWN arrow keys)
+§6Knockback resistance II
+§bFull Armor Set: Makes entities glow
+§9Knockback resistance I
+§bNight Vision
+§2Full Armor Set: Poison Immunity
+§bFull Armor Set: Faster Action
+§8Full Armor Set: No Blindness
+§8Full Armor Set: Tougher when in the dark
+§cFull Armor Set: Fire Immunity
+§7Obtained as a secondary drop from Tar Ore
+§4Gauntlet effect has been force-disabled because Better With Mods is loaded
+§6Artificial bone meal effect :D
+§7Denies mob spawning in an area of 16x8x16 blocks around it (gives a faint light)
+§cActs as a fuel with the same strength of coal (works best in metallurgy machines 200% efficiency!) [check JEI for more information]
+§4Warning: this will clear all the active materials in the ore detector
+§cHas the chance of smelting the block drops
+$1Lightweight underwater mining!
+§6Randomly Drops a nugget or two of the ore you're mining
+§cHas the chance of smelting the block drops
+§aYour kills make you feel Strong & Quick
+§3Slows the target
+§3Increase attack speed in water
+§5Inflicts some random negative effect to the target
+§cFire Aspect I
+§dHas the chance to regenerate your life
+§6Duplication
+§bMakes the target glow
+§2Your kills make you feel Strong
+§4Life Steal
+§8Blinds the target [Wraps your enemy into shadow!]
+§8The Attack Speed is directly proportional to Darkness
+§8Wither II
+§cFire Aspect II
+§aPoisons your target
+§8The Mining Speed is directly proportional to Darkness
+§6§lWelcome to Metallurgy 4: Reforged
+§6For more info, bug reports and suggestions here's the github repository link:
+https://github.com/Davoleo/Metallurgy-4-Reforged
+You can disable this message from the mod configuration

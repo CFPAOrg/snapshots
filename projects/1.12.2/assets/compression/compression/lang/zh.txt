@@ -1,0 +1,9 @@
+Compression
+Dense Leather Cap
+Dense Leather Tunic
+Dense Leather Pants
+Dense Leather Boots
+Compressor
+Decompressor
+Compressor
+Decompressor

@@ -1,0 +1,525 @@
+Edit
+Add
+Remove
+Clear
+Disabled
+Volume
+Adds the cave dimensions. There's no surface there.
+A new %s version is available
+You are using a Beta version of %s
+You are using an Alpha version of %s
+You are using a Dev version of %s
+Updated Cavern config files and it was initialized
+Do you want to open the mod config for Cavern?
+Cavern Configuration
+The latest version of Cavern is %s
+You are using the latest version
+You are using an older version
+You are using a beta version
+You are using an alpha version
+You are using a development version
+Detail info
+Display detailed information.
+Instant filter
+Filter instantly when enter character in filter-textbox.
+General Settings
+Change the settings contained in general.cfg
+Version Notify
+Whether to notify when a new version is available.
+Cave Music Volume
+Specify the volume for cave music.
+Mining Point Items
+Specify the items that can getting mining point. (Or Automatically decide if not specified)
+Mining Points
+Specify the mining point for each block.
+Mining Combo
+Whether to enable the mining combo.
+Caveborn
+Specify the caveborn type. Transfer to the cave dimension when join to world for the first time.
+Disabled
+Ruins Cavern
+Cavern
+Aqua Cavern
+Caveland
+Ice Cavern
+Huge Cavern
+Caveborn Bonus Items
+Specify the bonus items for caveborn.
+Cavern Escape Mission
+Whether to enable escape mission from cave dimensions.
+Portal Cache
+Whether to enable cache for cave portal teleport.
+Portal Menu
+Whether to enable open the menu on cave portals.
+Sleep Waiting Time
+Specify the sleep waiting time by seconds in the cave dimensions.
+Sleep Refresh
+Whether to refresh health when wake up in the cave dimensions.
+Display Settings
+Change the settings contained in display.cfg
+Custom Loading Screen
+Whether to enable the custom loading screen for cave dimensions.
+Mining Point Position
+Specify the display position of mining point.
+Top Right
+Top Left
+Buttom Right
+Buttom Left
+Hidden
+Show Miner Rank
+Whether to show the miner rank along with mining points.
+Always Show Miner Status
+Whether to always show the miner status.
+Hunting Point Position
+Specify the display position of hunting point.
+Top Right
+Top Left
+Buttom Right
+Buttom Left
+Hidden
+Show Hunter Rank
+Whether to show the hunter rank along with hunting points.
+Magician Point Position
+Specify the display position of magician point.
+Top Right
+Top Left
+Buttom Right
+Buttom Left
+Hidden
+Show Magician Rank
+Whether to show the magician rank along with magician points.
+Slippery Ice Custom Color
+Whether to enable custom color for Slippery Ice.
+Mining Points Customize
+Mining Point
+Specify the mining point for the block.
+Mining Assist Settings
+Change the settings contained in mining-assist.cfg
+Effective Items
+Specify the effective items for Mining Assist. (Or Automatically decide if not specified)
+Miner Rank
+Specify the miner rank required for Mining Assist.
+Beginner
+Stone Miner
+Iron Miner
+Magnite Miner
+Gold Miner
+Aqua Miner
+Hexcite Miner
+Diamond Miner
+Collect Drops
+Whether to collect the drops.
+Collect Experiences
+Whether to collect the experiences.
+Quick Target Blocks
+Specify the target blocks for Quick Mining. (Or Automatically decide if not specified)
+Ranged Target Blocks
+Specify the target blocks for Ranged Mining. (Or Automatically decide if not specified)
+Adit Target Blocks
+Specify the target blocks for Adit Mining. (Or Automatically decide if not specified)
+Quick Mining Limit
+Specify the upper limit of Quick Mining.
+Ranged Mining
+Specify the range of Ranged Mining.
+Modified Hardness
+Whether to enable the modified block hardness for Mining Assist.
+Mining Assist Notify
+Whether to notify the state of Mining Assist when logging in to the world.
+Dimension Settings
+Change the settings for cave dimensions
+Cavern
+Change the settings contained in cavern-dimension.cfg
+Aqua Cavern
+Change the settings contained in aquacavern-dimension.cfg
+Caveland
+Change the settings contained in caveland-dimension.cfg
+Ice Cavern
+Change the settings contained in icecavern-dimension.cfg
+Ruins Cavern
+Change the settings contained in ruinscavern-dimension.cfg
+Cavenia
+Change the settings contained in cavenia-dimension.cfg
+Huge Cavern
+Change the settings contained in hugecavern-dimension.cfg
+Dimension Disabled
+Whether to disable the dimension.
+Dimension
+Specify the dimension id of the dimension.
+World Height
+Specify the world height of the dimension.
+Random Seed
+Whether to set world seed randomly in the dimension.
+Biome Type
+Specify the biome type for the dimension.
+Natural
+Square
+Large Square
+Generate Caves
+Whether to generate caves in the dimension.
+Generate Ravine
+Whether to generate ravine in the dimension.
+Generate Extreme Caves
+Whether to generate extreme caves in the dimension.
+Generate Extreme Ravine
+Whether to generate extreme ravine in the dimension.
+Generate Lakes
+Whether to generate lakes in the dimension.
+Generate Dungeons
+Whether to generate dungeons in the dimension.
+Generate Tower Dungeons
+Whether to generate tower dungeons in the dimension.
+Generate Mineshaft
+Whether to generate mineshaft in the dimension.
+Generate River
+Whether to generate river in the dimension.
+Dungeon Mobs
+Specify the mobs for dungeons in the dimension.
+Tower Dungeon Mobs
+Specify the mobs for tower dungeons in the dimension.
+Monster Spawn Weight
+Specify the spawn weight for monster in the dimension. If specify to 0, monster spawning will be naturally.
+Cave Brightness
+Specify the world brightness for the dimension.
+Decorate Torches
+Whether to decorate torches in the dimension.
+Bonus Chest
+Specify the chances of include bonus in chest.
+Keep Inventory
+Whether to enable keep inventory on death in the dimension.
+Keep Experiences
+Whether to enable keep experiences on death in the dimension.
+Biomes Customize
+Change the biome generation settings of the dimension.
+Weight
+Specify the weight for generation.
+Terrain Block
+Specify the block name of terrain block.
+Terrain Block Metadata
+Specify the block metadata of terrain block.
+Top Block
+Specify the block name of top block.
+Top Block Metadata
+Specify the block metadata of top block.
+Veins Customize
+Change the vein generation settings of the dimension.
+Block
+Specify the block name of generation block.
+Block Metadata
+Specify the block metadata of generation block.
+Target Block
+Specify the block name of generation target block.
+Target Block Metadata
+Specify the block metadata of generation target block.
+Weight
+Specify the weight for generation.
+Chance
+Specify the chance for generation.
+Size
+Specify the vein size for generation.
+Height
+Specify the height for generation.
+Minimum Height
+Specify the minimum height for generation.
+Maximum Height
+Specify the maximum height for generation.
+Biomes
+Specify the accept biomes for generation.
+Select the block
+Select the blocks
+%d blocks selected
+Select the item
+Select the items
+%d items selected
+Select the biomes
+%d biomes selected
+Top Block
+Filler Block
+Temperature
+Rainfall
+Type
+Select the mobs
+%d mobs selected
+Select the ore dictionaries
+%d ore dictionaries selected
+%d entries selected
+Block
+Ore Dict
+You are not tired. You cannot sleep until %d minutes at least.
+Beginner
+Stone Miner
+Iron Miner
+Magnite Miner
+Gold Miner
+Aqua Miner
+Hexcite Miner
+Diamond Miner
+Congratulations! %s has promoted to the %s rank.
+Chicken
+Noob
+Novice Hunter
+Hunter
+Cavenic Hunter
+Crazy Hunter
+Ranger
+Crazy Ranger
+Congratulations! %s has promoted to the %s rank.
+Beginner
+Novice Magician
+Magician
+Mage
+Grand Mage
+Congratulations! %s has promoted to the %s rank.
+The magic beyond your magical knowledge
+You did not have enough MP
+The magic does not meet the conditions
+Please wait a moment
+Loading terrain
+Loading terrain is almost done
+Regenerating the %s dimension...
+Backing up the %s dimension folder...
+%s dimension folder was backed up
+Failed to backing up the %s dimension folder
+%s dimension was regenerated
+Failed to regenerating the %s dimension
+Dimension Regeneration
+Cannot be canceled after the regeneration starts
+Regenerate
+Backup
+If checked, backing up dimension data before the regeneration.
+Regenerating...
+Backing up..
+Regenerated
+Failed
+Cavern Portal
+Aqua Cavern Portal
+Caveland Portal
+Ice Cavern Portal
+Ruins Cavern Portal
+Huge Cavern Portal
+Aquamarine Ore
+Block of Aquamarine
+Magnite Ore
+Block of Magnite
+Randomite Ore
+Hexcite Ore
+Block of Hexcite
+Fissured %s
+Manalite Ore
+Block of Manalite
+Acresia
+Perverted %s
+Perverted Wood
+Perverted Leaves
+Perverted Sapling
+Slippery Ice
+Acresia
+Acresia Seeds
+Acresia Fruits
+Aquamarine
+Magnite Ingot
+Hexcite
+Ice Stick
+Miner's Thought Orb
+Cavenic Orb
+Manalite
+Aquamarine Pickaxe
+Aquamarine Axe
+Aquamarine Shovel
+Magnite Sword
+Magnite Pickaxe
+Magnite Axe
+Magnite Shovel
+Hexcite Sword
+Hexcite Pickaxe
+Hexcite Axe
+Hexcite Shovel
+Hexcite Hoe
+Hexcite Helmet
+Hexcite Chestplate
+Hexcite Leggings
+Hexcite Boots
+Ice Sword
+Ice Pickaxe
+Ice Axe
+Ice Shovel
+Ice Hoe
+Ice Bow
+Magical Book
+Flame Breath
+Explosion
+Thunderbolt
+Venom Blast
+Return
+Your respawn point does not exist
+Heal
+Holy Bless
+Holy Bless magic cannot use yet
+Storage
+Stock
+Warp
+Warp Point
+Warp Point has been set
+Warp Point is too far
+Torch
+You do not have enough Torches
+You are already performing the torch magic
+Torch magic has been disappeared
+Summon
+Compositing
+Compositing magic has been failed
+Flying
+Infinity
+Infinity magic cannot use yet
+Invisible
+Teleport
+Elixir
+Medium Elixir
+High Elixir
+Awakening Elixir
+Heal MP
+Cavenic Bow
+Mode
+NORMAL
+RAPID
+SNIPE
+TORCH
+Magical Sword: Manalite
+Magical Axe: Manalite
+Magical Bow: Manalite
+Ore Compass
+Composite Sword
+Composite Pickaxe
+Composite Axe
+Composite Shovel
+Composite Hoe
+Composite Helmet
+Composite Chestplate
+Composite Leggings
+Composite Boots
+Cavenic Skeleton
+Cavenic Creeper
+Cavenic Zombie
+Cavenic Spider
+Crazy Skeleton
+Crazy Creeper
+Crazy Zombie
+Crazy Spider
+Cavenic Bear
+Cavenic Witch
+Summoned
+Caveman
+%1$s exhausted MP to death
+Cavern
+Cavern
+Enter the Cavern dimension
+Aquamarine
+Acquire an aquamarine
+Aqua Cavern
+Enter the Aqua Cavern dimension
+Aqua Mining
+Construct an aquamarine pickaxe
+Magniter
+Smelt a magnite ingot
+Restive Tool
+Construct a magnite tool
+Sweet Jewel
+Acquire a hexcite
+Strange Ore
+Mine a randomite ore
+Miner's Treasure
+Acquire a miner's thought orb
+Ore Finder
+Construct a ore compass
+Ruins Cavern
+Enter the Ruins Cavern dimension
+Wonder Fissure
+Mine a fissure block
+Iron Miner
+Become a iron miner
+Gold Miner
+Become a gold miner
+Hexcite Miner
+Become a hexcite miner
+Diamond Miner
+Become a diamond miner
+Good Mine!
+Mine many ores continuously
+Where to plant?
+Pick up a sapling
+Caveland
+Enter the Caveland dimension
+Sturdy Crop
+Harvest an acresia with shears
+Ice Stuff
+Acquire a packed ice
+Ice Cavern
+Enter the Ice Cavern dimension
+Ice Charge
+Charge an ice equipment with ice
+Beware of Slip
+Walk on a slippery ice
+Study Magic
+Acquire a magical book
+Take a break
+Use too much magic
+Magical Power
+Acquire a manalite
+Magical Boost
+Construct a magical weapon
+Magician
+Become a magician
+Flamethrower
+Success a flame breath magic
+Exploder
+Success a explosion magic
+Warp
+Success a warp magic
+Summoner
+Success a summon magic
+Compositer
+Success a compositing magic
+Fantastic Tools
+Construct a composite tool by the compositing magic
+Mage
+Become a mage
+Grand Mage
+Become a grand mage
+Cavenic Hunter
+Kill one of every cavenic monster
+Cavenic Orb
+Obtain a cavenic orb
+Bow Expert
+Obtain a cavenic bow
+Hello, Caveman
+Touch with caveman
+Cavenia
+Enter the Cavenia dimension
+Hunter
+Become a hunter
+Hideous Hunter
+Kill one of every crazy monster
+Crazy Hunter
+Become a crazy hunter
+Ranger
+Become a ranger
+Crazy Ranger
+Become a crazy ranger
+Precious Key
+Acquire a diamond
+Huge Cavern
+Enter the Huge Cavern dimension
+Toggle Mining Assist
+Spell Magical Book
+Cavern
+Mining Assist
+Disabled
+QUICK
+RANGED
+ADIT
+Mining Assist has been changed to %s
+Mining Assist cannot be changed until become the %s
+Press %s key to toggle mode
+Mining Assist is set to %s
+Ability Unlocked!
+Ice Charge: %s
+Cavern advancements has not been completed yet

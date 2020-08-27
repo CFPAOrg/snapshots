@@ -1,0 +1,18 @@
+Douglas Fir Log
+Douglas Fir Leaves
+Douglas Fir Sapling
+Douglas Fir Planks
+Douglas Fir Fence
+Douglas Fir Fence Gate
+Douglas Fir Door
+Douglas Fir Slab
+Douglas Fir Stairs
+Maple Log
+Maple Leaves
+Maple Sapling
+Maple Planks
+Maple Fence
+Maple Fence Gate
+Maple Door
+Maple Slab
+Maple Stairs

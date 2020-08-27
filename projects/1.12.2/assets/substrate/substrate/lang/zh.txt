@@ -1,0 +1,84 @@
+Substrate Blocks
+Copper Door
+Iron Door
+Aluminum Door
+Steel Door
+Cast Iron Door
+Rusty Door
+Copper Beam
+Iron Beam
+Aluminum Beam
+Steel Beam
+Cast Iron Beam
+Rusty Beam
+Copper Grating
+Iron Grating
+Aluminum Grating
+Steel Grating
+Cast Iron Grating
+Rusty Grating
+Copper Grating Slab
+Iron Grating Slab
+Aluminum Grating Slab
+Steel Grating Slab
+Cast Iron Grating Slab
+Rusty Grating Slab
+Copper Grating Stairs
+Iron Grating Stairs
+Aluminum Grating Stairs
+Steel Grating Stairs
+Cast Iron Grating Stairs
+Rusty Grating Stairs
+White Hull
+Orange Hull
+Magenta Hull
+Light Blue Hull
+Yellow Hull
+Lime Hull
+Pink Hull
+Gray Hull
+Silver Hull
+Cyan Hull
+Purple Hull
+Blue Hull
+Brown Hull
+Green Hull
+Red Hull
+Black Hull
+Copper Pipe
+Iron Pipe
+Aluminum Pipe
+Steel Pipe
+Cast Iron Pipe
+Rusty Pipe
+Copper Plate
+Iron Plate
+Aluminum Plate
+Steel Plate
+Cast Iron Plate
+Rusty Plate
+Scrap
+Copper Tile
+Iron Tile
+Aluminum Tile
+Steel Tile
+Cast Iron Tile
+Rusty Tile
+Copper Tile Slab
+Iron Tile Slab
+Aluminum Tile Slab
+Steel Tile Slab
+Cast Iron Tile Slab
+Rusty Tile Slab
+Copper Tile Stairs
+Iron Tile Stairs
+Aluminum Tile Stairs
+Steel Tile Stairs
+Cast Iron Tile Stairs
+Rusty Tile Stairs
+Copper Trapdoor
+Iron Trapdoor
+Aluminum Trapdoor
+Steel Trapdoor
+Cast Iron Trapdoor
+Rusty Trapdoor

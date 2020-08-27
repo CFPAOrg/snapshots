@@ -1,0 +1,44 @@
+Gold Gravel
+Iron Netherrack
+Lapislazuli Dirt
+Quartz Sand
+Lapislazuli Gravel
+Redstone Dirt
+Coal Sand
+Emerald Gravel
+Diamond Sand
+Glowstone Ore
+Ender Ore
+Iron Sand
+Glowstone Dirt
+Redstone Gravel
+Glowstone Gravel
+Sandy Ores
+Coal Dirt
+Quartz Gravel
+Iron Sand
+Nether Emerald Ore
+Gold Sand
+Glowstone Sand
+Diamond Gravel
+Emerald Sand
+Quartz Dirt
+Experience Ore
+NetherCoalOre
+Emerald Dirt
+Quartz Ore
+Gold Dirt
+Nether Diamond Ore
+Iron Gravel
+Clay Stone
+Lapislazuli Sand
+Chorus Ore
+Netherwart Ore
+Nether Redstone Ore
+Redstone Dirt
+Diamond Dirt
+Coal Gravel
+Prismarine Ore
+Nether Iron Ore
+Nether Lapis Ore
+Nether Gold Ore

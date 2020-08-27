@@ -1,0 +1,228 @@
+Farm
+Lumber Mill
+Quarry
+Fishery
+Garden
+Ranch
+Distributor
+Warehouse
+Bulldozer
+Large Tower
+Tower
+Large Factory
+Factory
+Office
+Road
+Intersection
+Carpenter
+Bakery
+Empty Large Lot
+Blacksmith
+Mine Shaft
+Textile
+Stonemason
+Craftsman
+Seller
+Buyer
+Tax Collector
+Cheater
+Coin Pouch
+Survey Tool
+Dooglamoo Cities
+Quality
+City Explorer Map
+Sapling
+food good enough to eat
+raw food to cook
+%s Low on %s
+%s Can't afford %s
+Inventory full
+Job completed!
+Doesn't know what color to dye %s
+This area is already in use
+Went out of business!
+Not equipped to export %s
+Not equipped to import %s
+Exported $%d %s
+Imported $%d %s
+Needs a slab to specify structure block type
+Doesn't know what kind of wood plank flooring to use
+Doesn't know what kind of stone or prismarine to use
+Doesn't know what kind of stained glass block to use
+Doesn't know what kind of lighting (%s) to use
+Doesn't know what kind of carpet to use
+This area is not secure
+We are being invaded!
+This location has too few farmable blocks: %d/%d
+Severe drought has hit our area!
+This location does not have enough water: %d/%d
+This location has too few plantable blocks: %d/%d
+Fire has started in our area!
+Mining stopped at level %d by %s
+Miners need proper tools to mine %s
+Loggers need proper tools to chop %s
+Farmers need proper tools to till %s
+This location has too few grass blocks: %d/%d
+This location has too few plantable/harvestable blocks: %d/%d
+Blight has spread through our area!
+in range: %s
+  <name distance inventory coins>
+City Founding
+Establishing industries and gathering resources
+City Building
+Placing infrastructure and growing the economy
+Elected Mayor
+Craft a coin pouch
+Agricultural Beginnings
+Place a Farm
+Renewable Lumber
+Place a Lumbermill
+Fishy Business
+Place a Fishery near some water
+A World of Color
+Place a Garden
+Carving out the Future
+Craft a Carpenter
+Going Underground
+Place a Mineshaft
+Stripping the Land
+Place a Quarry
+Goods Must Move!
+Craft a Distributor
+Where to Put It
+Craft a Warehouse
+Construction Materials
+Craft a Stonemason
+Domesticating Livestock
+Place a Ranch
+Superior Workmanship
+Craft a Craftsman
+Urbanization
+Place an Office
+Becoming Global
+Craft a Buyer
+Expanding the Economy
+Craft a Seller
+Industrial Revolution
+Craft a Blacksmith
+Workers Demand Cake
+Craft a Bakery
+The Lap of Luxury
+Craft a Textile
+Organized Labor
+Place a Factory
+Arteries of the City
+Place a Road
+City Expansion
+Place an Intersection
+Where to Go But Up
+Place a Large Factory
+Clearing the Way
+Craft a Bulldozer
+Down with Taxes!
+Craft a Tax Collector
+Modern Age
+Place a Tower
+The Sky is the Limit
+Place a Large Tower
+Millionaire!
+Hold a $1000000 coin pouch in your inventory
+General Settings
+Change general game settings.
+Economy Settings
+Change fees and rates and how the economy works.
+Global Market Prices
+Change item prices.
+Construction Settings
+Change options for building and road construction.
+Industry Settings
+Change how industries operate.
+Abandoned City Generation
+Change how abandoned cities are generated.
+Server Only Mod
+If true, only structure generation and locating services are enabled and clients do not need the mod installed.
+Extra Minable Blocks
+List of additional blocks that can be mined by industries or replaced during construction.
+Extra Ore Blocks
+List of additional valuable ore blocks that can be mined out of the walls of a Mineshaft.
+Banned Imports
+List of items or blocks that buildings should not import from the global market.
+Fee Exemption Cap
+Industries holding less than this amount of money are exempt from paying any fees or investments.
+Building Investment Rate
+Each building charges this percentage when collecting investments each day from non-exempt industries in it's area until it reaches it's minimum investment amount.
+Distributor Fee Rate
+Each distributor charges this percentage when collecting fees each day from non-exempt industries in it's area.
+Distributor Fee Cap
+The maximum fee a distributor can collect from an industry during it's collection tick.
+Warehouse Fee Rate
+Each warehouse charges this percentage when collecting fees twice a day from non-exempt distributors in it's area.
+Warehouse Fee Cap
+The maximum fee a warehouse can collect from a distributor during it's collection tick.
+Prices In Tooltips
+If true and an item has a money value that is greater than 0, shows the money value of the item in the item tooltip.
+Large Tower Import
+Set to false to disable importing of diamonds, obsidian, golden apples, etc.
+Expert Mode
+If set to true, the only ways of getting money into the game are loot chests, emerald crafted coin pouches, and selling items to the Global Market. Makes the game more challenging.
+Global Market Enabled
+If true, buildings are allowed to import and export items on the Global Market, otherwise importing and exporting are disabled.
+Lights In Buildings
+Ladders In Buildings
+If true, buildings get ladders by default, otherwise, user can choose by placing a ladder in the building inventory.
+Supports Under Roads
+If false, roads will not build supports in open space under the road. Should be false in things like Skyblock maps for example.
+Fire Disaster
+Drought Disaster
+Blight Disaster
+Invasion Disaster
+Out-of-Business Disaster
+Full Inventory Notification
+If true, displays a chat msg every time an industry can't work because of a full inventory.
+Auto Ownership
+Set to true to have players names automatically added to crafted industry blocks.
+Disable Farm
+Set to true to disable Farm crafting recipe in survival.
+Disable Lumbermill
+Set to true to disable Lumbermill crafting recipe in survival.
+Disable Quarry
+Set to true to disable Quarry crafting recipe in survival.
+Disable Fishery
+Set to true to disable Fishery crafting recipe in survival.
+Disable Garden
+Set to true to disable Garden crafting recipe in survival.
+Disable Ranch
+Set to true to disable Ranch crafting recipe in survival.
+Disable Distributor
+Set to true to disable Distributor crafting recipe in survival.
+Disable Warehouse
+Set to true to disable Warehouse crafting recipe in survival.
+Disable Bulldozer
+Set to true to disable Bulldozer crafting recipe in survival.
+Disable Carpenter
+Set to true to disable Carpenter crafting recipe in survival.
+Disable Bakery
+Set to true to disable Bakery crafting recipe in survival.
+Disable Blacksmith
+Set to true to disable Blacksmith crafting recipe in survival.
+Disable Mineshaft
+Set to true to disable Mineshaft crafting recipe in survival.
+Disable Textile
+Set to true to disable Textile crafting recipe in survival.
+Disable Stonemason
+Set to true to disable Stonemason crafting recipe in survival.
+Disable Craftsman
+Set to true to disable Craftsman crafting recipe in survival.
+Disable Seller
+Set to true to disable Seller crafting recipe in survival.
+Disable Buyer
+Set to true to disable Buyer crafting recipe in survival.
+Disable Taxcollector
+Set to true to disable Taxcollector crafting recipe in survival.
+Iron Blocks
+Street Lights
+Window Glass
+Mob Spawners
+If false, no mob spawners will generate in buildings.
+Blaze Spawners
+If true, blaze spawners will generate in place of cave spider spawners in Towers.

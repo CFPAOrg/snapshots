@@ -1,0 +1,131 @@
+Hevea Bookshelf
+Hevea Workbench
+Hevea Planks
+Hevea Leaves
+Hevea Chest
+Trapped Hevea Chest
+Hevea Tool Rack
+Hevea Loom
+Hevea Support beam
+Hevea Stairs
+Hevea Fence
+Hevea Button
+Hevea Fence Gate
+Hevea Sapling
+Hevea Trapdoor
+Hevea Barrel
+Hevea Log
+Hevea Slab
+Hevea Lumber
+Hevea Door
+Hevea Boat
+Electric Forge
+Induction Crucible
+Wire Drawing Bench
+Fridge
+Latex Extractor
+Smeltery Cauldron
+Smeltery Firebox
+Empty Bowl
+%s Bowl
+Unfired Rackwheel Piece Mold
+Rackwheel Piece Mold
+%s Rackwheel Piece Mold
+Unfired Sleeve Mold
+Sleeve Mold
+%s Sleeve Mold
+Vulcanizing Agents
+Rubber Mix
+Rubber
+Unfired Glass Block Mold
+Glass Block Mold
+Unfired Glass Pane Mold
+Glass Pane Mold
+Lime
+Potash
+Sawdust
+Ash
+Pot with Potash
+Pot with Ash Powder
+Leather Belt
+Winch
+%s Blowpipe
+%s Bowl Mount
+%s Draw Plate
+%s Groove
+%s Inductor
+%s Tongs
+%s Strip
+%s Sleeve
+Long %s Rod
+%s Rod
+%s Bolt
+%s Screw
+%s Rackwheel Piece
+%s Rackwheel
+%s Gear
+%s Wire
+Unfinished %s Wire
+Latex
+Glass
+Contains %smB of %s
+Stage %s
+Molten
+Solidified
+Smeltery structure not formed
+Drawing Plate is too low tier!
+%s RF/%s RF
+%s ºC
+TFCTech
+Settings for TFCTech
+Devices Configuration
+General device configuration.
+Tweaks
+General tweaks to other mods/vanilla
+Remove Glass Recipes
+Should TFCTech remove TFC and vanilla glass recipes?
+Rubber Trees
+Which blocks are considered valid for rubber tapping?
+Accept IC2 EU
+Should TFCTech machines accepts IC2 EU?
+IC2 EU Ratio
+How much energy 1 IC2 EU unit gives to machines?
+Accept GTCE EU
+Should TFCTech machines accepts GTCE EU?
+GTCE EU Ratio
+How much energy 1 GTCE EU unit gives to machines?
+GTCE Voltage Input
+Which voltage tier machines should register to?
+Electric Forge Speed
+Electric Forge Max Temperature
+The maximum heat obtainable by electric forge.
+Electric Forge Energy Consumption
+Electric forge energy consumption modifier.
+Electric Forge Energy Capacity
+Electric forge energy capacity.
+Induction Crucible Energy Consumption
+Induction crucible energy consumption, in RF/t.
+Induction Crucible Energy Capacity
+Induction crucible energy capacity.
+Fridge Energy Consumption
+Fridge energy consumption modifier.
+Fridge Energy Capacity
+Fridge energy capacity.
+Fridge Efficiency
+How fast fridges reach frozen state.
+Fridge Lose Efficiency
+How fast fridges lose efficiency when the door is open.
+Wire Drawing
+Smeltery
+Glassworking
+To obtain Sawdust, you need to harvest logs using a saw. There's a 50% chance to drop and also another 50% chance the log is consumed in the process.
+Used to get latex, right click a hevea tree log with a hammer in your toolbar to place. Complete the latex tapping by placing a bowl mount, an empty bowl and right clicking with a knife to open a vein of flowing latex.
+To get latex, you need a rubber tapper. Right click a Wrought Iron Groove (with a hammer on toolbar) on any hevea tree log, then place a bowl mount, an empty bowl and open a vein of fluid latex by right clicking with a knife.
+Consumes energy to cool down your foods effectively slowing down decay. Efficiency rises when the door is kept closed and has sufficient energy.
+Used to draw out wires. Right click to pull metal wires through the draw plate. Draw plate needs to be at least the same tier of the wire.
+Melt and mix metal using the power of electricity!
+Heat metal items using the power of electricity!
+Right click an empty mold into any container holding molten glass.
+Progress: %d%%
+Efficiency: %d%%
+Latex: %dmB

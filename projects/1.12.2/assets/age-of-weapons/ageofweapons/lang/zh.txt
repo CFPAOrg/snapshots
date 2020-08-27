@@ -1,0 +1,356 @@
+Age of Weapons
+AoW: Stone Age
+AoW: Antiquity
+AoW: Middle Ages
+AoW: Early Modern Age
+AoW: Modern Age
+AoW: Golden age of Piracy
+AoW: Edo Period
+AoW: Mystic
+AoW: Fantasy
+AoW: BBY
+AoW: Epic
+Aow: Future
+Table Of Ages
+Crusher
+Weapon Box
+§9NEXUS§r
+§cNEXUS§r
+§eNEXUS§r
+§aNEXUS§r
+Ruby Block
+Sapphire Block
+Amethyst Block
+Topaz Block
+Amber Block
+Withered Iron Block
+Ruby Ore
+Sapphire Ore
+Amethyst Ore
+Topaz Ore
+Amber Ore
+Barbed Wire
+Nail Trap
+Toxic Nail Trap
+Explosive Mine
+Toxic Mine
+Razor Wire
+Bear Trap
+Dirt Fall Trap
+Planks Fall Trap
+Stone Fall Trap
+Barbed Wire Fence
+Barricade
+Neutron Bomb
+Nuclear Bomb
+Spikes
+Spikes
+Toxic Spikes
+Toxic Spikes
+Time Bomb
+Creative Upgrade
+Stone Upgrade
+Lapis Upgrade
+Amethyst Upgrade
+Iron Upgrade
+Amber Upgrade
+Glass Upgrade
+Gold Upgrade
+Ruby Upgrade
+Diamond Upgrade
+Topaz Upgrade
+Sapphire Upgrade
+Emerald Upgrade
+Diamond Axe Blade
+Golden Axe Blade
+Iron Axe Blade
+Stone Axe Blade
+Wooden Axe Blade
+Diamond Sword Blade
+Golden Sword Blade
+Iron Sword Blade
+Stone Sword Blade
+Wooden Sword Blade
+Diamond Broad Blade
+Golden Broad Blade
+Iron Broad Blade
+Stone Broad Blade
+Wooden Broad Blade
+Iron Stick
+Iron Longstick
+Wooden Longstick
+Lumber
+Radioactive Toxin
+Toxin
+Ruby
+Sapphire
+Sword Handle
+Diamond Shard
+Emerald Shard
+Gold Shard
+Iron Shard
+Ruby Shard
+Sapphire Shard
+Stone Shard
+Wood Shard
+Barrel
+Blank Gun
+Blank Rifle
+Gun Handle
+Wooden Haft
+Iron Haft
+Visor
+Amethyst
+Topaz
+Amber
+Amethyst Shard
+Topaz Shard
+Glass Shard
+Cloth
+Wither Dust
+Withered Iron Ingot
+Withered Iron Shard
+Withered Axe Blade
+Withered Sword Blade
+Withered Broad Blade
+Rock
+Hand Ax
+Caveman Stone Knive
+Caveman Bone Knive
+Wooden Cudgel
+Stone Cudgel
+Ax
+Throw Wood
+Caveman Spear
+Caveman Cap
+Caveman Tunic
+Caveman Pants
+Caveman Boots
+Wooden Knive
+Stone Knive
+Iron Knive
+Golden Knive
+Diamond Knive
+Wooden Dagger
+Stone Dagger
+Iron Dagger
+Golden Dagger
+Diamond Dagger
+Wooden Skewer
+Stone Skewer
+Iron Skewer
+Golden Skewer
+Diamond Skewer
+Recurve Bow
+Wooden Battle Axe
+Stone Battle Axe
+Iron Battle Axe
+Golden Battle Axe
+Diamond Battle Axe
+Stone Flail
+Iron Flail
+Golden Flail
+Diamond Flail
+Wooden Halbert
+Stone Halbert
+Iron Halbert
+Golden Halbert
+Diamond Halbert
+Wooden Longsword
+Stone Longsword
+Iron Longsword
+Golden Longsword
+Diamond Longsword
+Wooden Spear
+Stone Spear
+Iron Spear
+Golden Spear
+Diamond Spear
+Wooden Trident
+Stone Trident
+Iron Trident
+Golden Trident
+Diamond Trident
+Wooden War Axe
+Stone War Axe
+Iron War Axe
+Golden War Axe
+Diamond War Axe
+Wooden War Hammer
+Stone War Hammer
+Iron War Hammer
+Golden War Hammer
+Diamond War Hammer
+Longbow
+Crossbow
+Hammer
+Wooden Scythe
+Stone Scythe
+Iron Scythe
+Golden Scythe
+Diamond Scythe
+Wooden Lance
+Stone Lance
+Iron Lance
+Golden Lance
+Diamod Lance
+Wooden Heavy Staff
+Stone Heavy Staff
+Iron Heavy Staff
+Golden Heavy Staff
+Diamond Heavy Staff
+Wooden Multi Tool
+Stone Multi Tool
+Iron Multi Tool
+Golden Mutli Tool
+Diamond Multi Tool
+Old Ammo
+Old Shotgun Ammo
+Cannonball
+Pebble
+Compound Bow
+Dynamite
+Nails
+Toxic Nails
+Soldier Helmet
+Soldier Chestplate
+Soldier Leggings
+Soldier Boots
+Mystic Knive
+Pufferfish on a stick
+Unholy Scepter
+Basic Wand
+Nether Wand
+Aether Wand
+Curse Wand
+Holy Wand
+Maelstrom Wand
+Offensive Warhorn
+Defensive Warhorn
+Storm Wand
+Scepter of Changing
+Wooden Claw
+Stone Claw
+Iron Claw
+Golden Claw
+Diamond Claw
+Wooden Claw Sword
+Stone Claw Sword
+Iron Claw Sword
+Golden Claw Sword
+Diamond Claw Sword
+Wooden Claymore
+Stone Claymore
+Iron Claymore
+Golden Claymore
+Diamond Claymore
+Long Wooden Claymore
+Long Stone Claymore
+Long Iron Claymore
+Long Golden Claymore
+Long Diamond Claymore
+Wooden Dragonslayer Sword
+Stone Dragonslayer Sword
+Iron Dragonslayer Sword
+Golden Dragonslayer Sword
+Diamond Dragonslayer Sword
+Light Bow
+Shadow Bow
+Wooden Katana
+Stone Katana
+Iron Katana
+Golden Katana
+Diamond Katana
+Wooden Ninjatō
+Stone Ninjatō
+Iron Ninjatō
+Golden Ninjatō
+Diamond Ninjatō
+Iron Baton
+Wooden Baton
+Blowgun
+Kunai
+Lash
+Wooden Nunchuck
+Iron Nunchuck
+Throwing Star
+Iron Throwing Knive
+Golden Throwing Knive
+Diamond Throwing Knive
+Assassin Cap
+Assassin Tunic
+Assassin Pants
+Assassin Boots
+Ninja Cap
+Ninja Tunic
+Ninja Pants
+Ninja Boots
+Field Glasses
+Night Vision Goggles
+Taser
+Flamethrower
+Industrial Miner
+Industrial Excavator
+Tank (Fire)
+Grenade
+Frag Grenade
+Poison Grenade
+Smoke Grenade
+Molotov cocktail
+Spec Ops Helmet
+Spec Ops Chestplate
+Spec Ops Leggings
+Spec Ops Boots
+Machine Case
+Small Ammo
+Big Ammo
+Small Ammo Bundle
+Big Ammo Bundle
+Concentrated Gunpowder
+Small Magazine
+Long Magazine
+Big Magazine
+Magazine Drum
+Red Shotgun Ammo
+Blue Shotgun Ammo
+Poisonthrower
+Industrial Multi Tool
+Tank (Poison)
+Tank (Water)
+Portable Waterthrower
+Imploder
+Robot Soldier Helmet
+Robot Soldier Chestplate
+Robot Soldier Leggings
+Robot Soldier Boots
+Herobrine's Bow
+Herobrine's Sword
+Master Sword
+Master Axe
+Master Pickaxe
+Master Shovel
+Master Helmet
+Master Chestplate
+Master Leggings
+Master Boots
+Legendary Sword
+Rex's Katana
+Steve's Waraxe
+JSQ's Battle Axe
+Paradox Staff
+Sentinel Glave
+Cast Net
+Grappling Hook
+Grappling Iron
+Harpoon
+Diamond Machete
+Golden Machete
+Iron Machete
+Stone Machete
+Wooden Machete
+Telescope
+Diamond Saber
+Golden Saber
+Iron Saber
+Stone Saber
+Wooden Saber

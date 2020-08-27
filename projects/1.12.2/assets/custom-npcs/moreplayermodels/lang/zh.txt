@@ -1,0 +1,95 @@
+Normal
+None
+Save
+Load
+Config
+Entity
+Parts
+Scale
+Extra
+Options
+Type
+Player Skin
+Pattern
+Headwear
+Show
+Left
+Right
+Both
+Default
+Color
+Remove
+Draw
+Position
+Width
+Height
+Depth
+Shared
+Ears
+Horns
+Hair
+Mohawk
+Snout
+Beard
+Wings
+Claws
+Skirt
+Legs
+Tail
+Head
+Breasts
+Fin
+Body
+Arm Left
+Arm Right
+Leg Left
+Leg Right
+Eyes
+Particles
+Glint
+Brow
+Eyelid
+Bunny
+Solid
+Bull
+Antlers
+Antenna
+Dragon
+Horse
+Squirrel
+Fin
+Rodent
+Bird
+Fox
+Bunny
+Beak
+Small
+Medium
+Large
+Shark
+Reptile
+Naga
+Spider
+Horse
+Mermaid
+Digitigrade
+Sounds
+Human Female
+Human Male
+Goblin Male
+Skin Url
+Reload Skins
+Edit Buttons
+Point of View
+Show Chatbubbles
+Show Backitem
+Show Particles
+Tooltip
+Solid Headlayer
+Compatibility Mode
+Block Highlight
+Show names
+Server doesn't have the mod/plugin installed
+Server is on a lower version
+Server is on a higher version
+Are you sure you want to delete this?

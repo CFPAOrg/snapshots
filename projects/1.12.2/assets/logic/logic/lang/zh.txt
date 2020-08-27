@@ -1,0 +1,19 @@
+And Gate
+And Gate
+And Gate
+And Gate
+And Gate
+Inverter
+Inverter
+Inverter
+Or Gate
+Or Gate
+Or Gate
+Or Gate
+Or Gate
+Xor Gate
+Xor Gate
+Xor Gate
+Xor Gate
+Xor Gate
+Logic 101

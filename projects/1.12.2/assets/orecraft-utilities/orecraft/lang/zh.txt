@@ -1,0 +1,134 @@
+OreCraft
+1 Cent
+2 Cent
+5 Cent
+10 Cent
+20 Cent
+50 Cent
+1 Euro
+2 Euro
+5 Euro
+10 Euro
+20 Euro
+50 Euro
+100 Euro
+200 Euro
+500 Euro
+MultiCore
+Iron Gear
+Gold Gear
+Diamond Gear
+Coal Coke
+Redstone Processor
+Redstone Circuit
+Redstone Reception Coil
+Redstone Battery
+Big Redstone Battery
+Bronze Ingot
+Stellar Ingot
+Pulverized Iron
+Pulverized Gold
+Pulverized Copper
+Pulverized Tin
+Pulverized Silver
+Pulverized Bronze
+Pulverized Nether Star
+Pulverized Ender Pearl
+Dragon Heart
+Draconic Star
+Bronze Sword
+Bronze Pickaxe
+Bronze Axe
+Bronze Shovel
+Bronze Hoe
+Steel Sword
+Steel Pickaxe
+Steel Axe
+Steel Shovel
+Steel Hoe
+Stellar Sword
+Stellar Pickaxe
+Stellar Axe
+Stellar Shovel
+Stellar Hoe
+Bronze Paxel
+Steel Paxel
+Stellar Paxel
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Stellar Helmet
+Stellar Chestplate
+Stellar Leggings
+Stellar Boots
+Redstone Upgrade
+Lapis Upgrade
+Copper Upgrade
+Tin Upgrade
+Iron Upgrade
+Bronze Upgrade
+Silver Upgrade
+Gold Upgrade
+Quartz Upgrade
+Diamond Upgrade
+Emerald Upgrade
+Stellar Upgrade
+Coal Coke Block
+Charcoal Block
+Bronze Block
+Observer
+Oak Bark
+Birch Bark
+Jungle Bark
+Spruce Bark
+Acacia Bark
+Dark Oak Bark
+Machine Case
+Solid Fuel Generator
+Energy Cube
+Gold Energy Cable
+Redstone Furnace
+Trophy
+Diamond Trophy
+Emerald Trophy
+Glowstone Trophy
+Gold Trophy
+Iron Trophy
+Lapis Trophy
+Redstone Trophy
+Blaze Trophy
+Coal Trophy
+Creeper Trophy
+Enderman Trophy
+Ghast Trophy
+Guardian Trophy
+Illager Trophy
+Magma Trophy
+Quartz Trophy
+Shulker Trophy
+Skeleton Trophy
+Slime Trophy
+Spider Trophy
+Wither Trophy
+Copper Trophy
+Silver Trophy
+Tin Trophy
+Peridot Trophy
+Ruby Trophy
+Sapphire Trophy
+Electrotine Trophy
+Zombie Trophy
+Dragon Trophy
+Stone Trophy
+Valkyrie Trophy
+Ambrosium Trophy
+Zanite Trophy
+Euro Trophy
+Solid Fuel Generator
+Energy Cube
+Redstone Furnace

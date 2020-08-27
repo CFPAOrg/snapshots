@@ -1,0 +1,25 @@
+Vial
+Injection Gun
+Centrifuge
+Centrifuge
+Microscope
+Microscope
+Genetically Modified
+Explosion Defect
+Spontaneous Combustion Defect
+Butter Fingers Defect
+Restricted Diet Defect
+Disabling Abilities Defect
+Enabling Abilities Defect
+Imminent Explosion
+Use Power
+Always On
+Sneaking
+Sleeping
+Swimming
+Sprinting
+Falling
+Using Hand
+Is Daytime
+Is Nighttime
+Is Alone

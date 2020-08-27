@@ -1,0 +1,450 @@
+Mana Crafting
+Crafting Plate
+Magician's Worktable
+Mana Battery
+Creative Mana Battery
+Liquid Nacre
+Liquid Mana
+Cloud
+Empty Jar
+Orb Holder
+Nacre Block
+Nacre Bricks
+Mana Magnet
+Torikki Grass
+Unicorn Trail
+Light
+Wisdom Sapling
+Fairy
+Spirit Wight
+Spirit Blight
+Unicorn
+Spell Projectile
+Nacre Pearl
+Ancient Nacre Pearl
+Apex Nacre Pearl
+Potent Nacre Pearl
+Decent Nacre Pearl
+Flawed Nacre Pearl
+Drained Nacre Pearl
+Waste Nacre Pearl
+Seems overdone.
+Maybe less time will make it stronger.
+Just a little overdone.
+Perhaps a little less time...
+Perfect!
+Seems like thirty seconds is just right.
+Just a little underdone.
+A little more time should do it.
+It's underdone.
+You need to let it sit for longer.
+This pearl is strange.
+It's mysterious... and definitely powerful.
+Spellforger's Codex
+Golden Ring
+Golden Ring
+Devil Dust
+Mana Pearl
+Glass Pearl
+Quartz Pearl
+Wand of Creativity
+Staff
+Staff With Pearl
+Fairy Dust
+Fairy Imbued Apple
+Fairy Wings
+Unicorn Horn
+Unicorn Horn Dagger
+Empty Jar
+Empty Jar
+Fairy in a Jar
+Fairy Jam
+Slaved Fairy In A Jar
+Barely Excited Fairy In A Jar
+Moderately Excited Fairy In A Jar
+Very Excited Fairy In A Jar
+Overloaded Fairy In A Jar
+This fairy now obeys you
+This fairy needs more mana, it's hardly charged
+This fairy is half way charged. It needs more mana
+This fairy is almost fully charged with mana. It needs a little more
+This fairy is completely overloaded and unstable.
+Empty Syringe
+ManaBooster Lite™
+Refills your mana bar by 50%%.
+ManaBuilder Serum Premium Plus™
+Completely saturates your mana bar and depletes your burnout bar for 10 seconds.
+Severe side-effects included.
+&oFeel the burn.
+Mana Orb
+Glass Orb
+Cape
+Magic Wand
+Blood Syringe
+Light
+Halo
+Crude Halo
+Creative Halo
+Repulsion Bomb
+Vortex Bomb
+Sky Dust
+Glue Stick
+Blackened Spirit
+Ring
+Pearl Belt
+Fairy Bell
+Fairy Bell [mode: move fairy]
+Fairy Bell [mode: aim fairy]
+Fairy Deselected
+Fairy Selected. [mode: fairy moving]
+Fairy Selected. [mode: fairy aiming]
+Glass Orb
+Mana Orb 0%
+Mana Orb 10%
+Mana Orb 20%
+Mana Orb 30%
+Mana Orb 40%
+Mana Orb 50%
+Mana Orb 60%
+Mana Orb 70%
+Mana Orb 80%
+Mana Orb 90%
+Mana Orb 100%
+Levitation Orb 0%
+Levitation Orb 10%
+Levitation Orb 20%
+Levitation Orb 30%
+Levitation Orb 40%
+Levitation Orb 50%
+Levitation Orb 60%
+Levitation Orb 70%
+Levitation Orb 80%
+Levitation Orb 90%
+Levitation Orb 100%
+Wisdom Wood Stick
+Wisdom Wood Door
+Wisdom Wood Log
+Wisdom Wood Planks
+Wisdom Wood Pigmented Planks
+Wisdom Wood Slab
+Wisdom Wood Stairs
+Wisdom Wood Trapdoor
+Wisdom Wood Fence
+Wisdom Wood Fence Gate
+Wisdom Wood
+Wisdom Leaves
+Halo Infuser
+You're a Wizard, Harry
+Create a book to aid in your delve into magic
+Not a Mana Pool
+Discover a pool of liquid Mana in your travels
+Sugar and Spice
+Melt redstone in fire to make Devil Dust
+§oCRUNCH.§r
+Crash straight through Bedrock to the Underworld above
+Nacre
+Mana
+%s drowned in power
+%s was pulverized
+%s was pulverized by %s
+Glass shatters
+Dust fizzes
+Dust sizzles
+Harp plays
+Bell tolls
+Liquid bubbles
+Spirit whispers
+Spirit zaps
+Electrical humming
+Sparkling noises
+Crash
+Feather
+Ascension
+Hermetic Seal
+Ghostform
+Frictionless
+Overdrive
+Unwinding
+Corruption
+Wizardry
+Pearl Swapping
+Output replaces liquid
+Consumes the liquid used
+Needs %d source blocks of liquid
+Item Burning
+Fire
+Fluid Recipe
+Spell:
+<Sneak for info>
+<Ctrl for more info>
+&7<- &8Shift for more info&7 ->
+Wizardry Update Changelog
+There's a new Wizardry update available.
+Your version:
+New version:
+Materials Required
+Range: 
+Antigravity Well
+Repulses all entities around the target.
+Pushes away all entities within <AREA> blocks and farther than 2 blocks from the center.
+Pushes entities in with with a force dependent on <POTENCY>.
+Lasts half a second for each point of <DURATION>.
+Reinforcements
+Summons undead mobs to aid in battle.
+Summoned zombies last <DURATION> seconds.
+Break
+Breaks blocks and damages armor.
+Breaks up to <AREA> blocks. No effect on entities.
+Breaks blocks with up to <POTENCY> hardness. Does <POTENCY> damage to a target's armor.
+Burn
+Ignites the target block or entity.
+Lights all blocks within <AREA> blocks on fire. No effect on entities.
+Lights target entity on fire for <DURATION> seconds. No effect on blocks.
+Crashing Fall
+Distribute some of the target's impact damage into any nearby entities.
+<RANGE> increases area checked for nearby entities.
+Effect lasts half a second for each point of <DURATION>.
+Extract
+Extracts items from the target entity or block with an inventory. Respects locked containers.
+The time it takes the item to delay pickup by the nearest entity.
+Less than quarter power searches inventory back to front, less than half searches front to back (hotbar first), more than that removes baubles first, then armpr, then inventory front to back.
+Frost
+Makes opponents slip and slide as if on ice, extinguishes fires, cools liquids, and causes snowfall.
+Extinguishes fires, cools liquids, and places snow within <AREA> blocks of the target. No effect on entities.
+Makes opponents slippery for half a second per point of <DURATION>.
+Gravity Well
+Draws in all entities around the target.
+Pulls in all entities within <AREA> blocks and farther than 2 blocks from the center.
+Pulls entities in with with a force dependent on <POTENCY>.
+Lasts half a second for each point of <DURATION>.
+Leap
+Thrusts you upwards and forwards.
+Can jump in the air once for every 10 points of <POTENCY>. Divides fall distance by 1 + <POTENCY>/8, rounded up.
+Leech
+Will deal magic damage to a target. If that target dies, you get some of their mana into yourself.
+Does a point of magic damage (1 heart) per point of <POTENCY>.
+Illumination
+Places a magical light source at the target location.
+Lightning
+Shoot a lightning bolt that shocks and burns everything in its path. Functions slightly differently depending on the previous Shape in the spell.
+The lightning bolt and its offshoots can be up to <RANGE> blocks long.
+Deals <POTENCY> lightning damage.
+Entities hit are ignited for <DURATION> seconds.
+Low Gravity
+The target becomes half their weight, jumping high and floating down.
+Jump height increased and fall damage decreased per point of <POTENCY>.
+The effect lasts half a second for each point of <DURATION>.
+Phase
+The target becomes incorporeal, phasing through blocks temporarily. If cast on blocks, turns an area of blocks incorporeal instead.
+The effect lasts for <DURATION> seconds.
+Affects all blocks within <AREA> blocks of the target block. No effect on entities.
+Phase effect reaches <RANGE> blocks past the target block. No effect on entities.
+Place
+Places the selected block.
+Can place blocks in up to <AREA> positions at once.
+Substitute
+Swaps the caster's position with that of the target. Blocks work similarly.
+Can swap up to <AREA> blocks at once. No effect on entities.
+Telekinesis
+Levitates blocks and entities.
+Grabs all entities and items within <AREA> blocks of the center.
+Thrive
+Heals entities and speeds growth.
+Entities are healed for 1/4 heart per point of <POTENCY>. No effect on blocks.
+Time Slow
+Dilates an entity's time. Can suspend their time completely.
+Slows down an entity to 1/<POTENCY> normal time.
+Effect lasts half a second per point of <DURATION>.
+Time Lock
+Once the spell expires, reverts the target block or entity to its previous state when the spell was cast.
+Effect lasts half a second per point of <DURATION>.
+Vanish
+The target can't see anyone when they're moving, but when they're still, they're invisible.
+Effect lasts for <DURATION> seconds.
+Zoom
+Zoom directly to the targeted position.
+Instantly moves you up to <RANGE> blocks.
+Poison Cloud
+Create a poisonous cloud of gas
+Every 3 points of <POTENCY> increases the level of poison by 1. Potency above 3 will also inflict nausea.
+Will inflict poison on each entity within <AREA> blocks.
+Lasts half a second for each point of <DURATION>.
+Decay
+Causes the target to decay, slowing and withering them.
+Every 5 points of <POTENCY> increases the level of slowness and wither by 1.
+Lasts half a second for each point of <DURATION>.
+Grace
+Grants increased movement speed until the next attack, which will automatically crit.
+Lasts half a second for each point of <DURATION>, until an attack is made.
+Shatter
+Deals damage to a target, increased for each level of slowness or frost on them.
+Deals a base damage of <POTENCY>/2, increased by 50% per level of slowness or frost.
+Sonic Scream
+Deals damage to a target. If they die from this, they explode, dealing the same damage to all entities in an area.
+Deals <POTENCY>/2 damage.
+Secondary explosion deals damage to all entities within <AREA>/2 blocks.
+Suffocate
+Causes the target to suffocate as if they had run out of air.
+Lasts half a second for each point of <DURATION>.
+Bouncing
+Entities hit by this spell will bounce on everything they fall on. Blocks hit will also become bouncy.
+Lasts half a second for each point of <DURATION>.
+On Block Collision
+This event triggers when the spell collides with a block. Place directly before an effect to cause it to only affect blocks.
+On Entity Collision
+This event triggers when the spell collides with an entity. Place directly before an effect to cause it to only affect entities.
+Extend Range
+Lengthens the range of reach of the spell.
++ Range
+Extend Effect
+Extends the length of time the spell lasts.
++ Time
+Increase Area
+Increases the spell's area of effect.
++ Area
+Increase Power
+Amplifies a spell's strength.
++ Power
+Increase Speed
+Increases the velocity of the spell, as with projectiles.
++ Speed
+Beam
+The spell will affect a beam coming from the caster.
+Traces a line up to <RANGE> blocks long.
+Gains <POTENCY> points per cast, runs subsequent spell components after reaching 10 points.
+Arc
+The spell will affect an arc in front of the caster.
+Maximum distance and spread increased per point of <RANGE>.
+Spell fires along <POTENCY> random lines within the cone's spread.
+Projectile
+The spell will be a projectile, launched from the caster.
+The projectile will travel up to 2*<RANGE> blocks before casting subsequent components.
+The projectile will travel <SPEED> blocks per second.
+Self
+The spell will affect the caster directly.
+Touch
+The spell will affect what the caster is touching.
+Zone
+The spell will be a circular area, and cast itself persistently.
+Casts subsequent components on entities and blocks within <AREA> blocks of the center, horizontally.
+Gains <POTENCY> points per cast, runs subsequent spell components after reaching 20 points.
+Casts subsequent components on entities and blocks up to <RANGE> blocks above the center.
+Zone lasts half a second for every point of <DURATION>.
+Not a Mana Pool
+Discover a pool of raw liquid Mana
+Index
+Spell Recipe
+You are not a player.
+/wizardry help
+/wizardry genstaff
+/wizardry genpearl
+/wizardry tptorikki
+/wizardry tpunderworld
+/wizardry listmodules
+/wizardry debug <module name>. Get a list of all modules from /wizardry listmodules
+Module not found. Get a list of all modules from /wizardry listmodules
+Don't let your bugs be thugs! Use our patented Magic-o-gon spray for only $9.99
+There's magic in the air...
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+I am now up back up to... One. Wizardry. Update.
+GET IN THE UPDATE, SHINJI
+it's outdated my dudes
+yo dawg we heard you like changelogs so we put changelogs in your changelogs so you can change while you log
+*:･ﾟ✧ᕕ( ᐛ )ᕗ
+Belt Full
+Click any of the pearls to pop them out of the belt
+Click here to attach all pearls in your inventory to this belt
+Spell loaded from condex.
+Paper cleared.
+Spell saved to codex successfully! Open the book and check the new spell recipe tab.
+You do not have a codex in your inventory! Once you have one, you can save your spell into the book.
+Codex found, you can save spells.
+You can't create a loop.
+There's a loop somewhere! A spell should start from somewhere with no links to it and not make an infinite cycle.
+Those components can't be linked together like that!
+An Effect module cannot link to another components. They can only be linked from other components.
+To make your spell use that Event component, hook your Shape TO it, then hook the Event TO the Effect. Shape -> Event -> Effect
+Save
+Clear
+Load
+Load the last spell saved from the first codex found in your inventory.
+Remove all spell components on the paper.
+Store the recipe for the spell into the codexes in your inventory.
+No codex found in your inventory! Place one in your inventory to save properly.
+Shift + Scroll to flip pages
+Open recipe tab for more details
+Spell Recipe
+Spell Structure
+Spellforger's Codex
+Not By Raziel
+The 5 Steps To Becoming A Wizard
+Mobs
+Items And Blocks
+Dimensions
+Step 1: Mana
+Learn about what mana is and why you want it so badly
+Of all the energy sources a wizard can draw on, mana is the best. Light blue pools of this watery liquid can be found throughout the world; it also manifests itself in people and objects, giving a trained wizard a constant source of energy to draw on. With it, you can begin to be a threat in the world of wizardry, and begin to work magic.
+A fair warning, the liquid is barely stable. Think of it as a river. A small flow of water is nice to relax in and drift along with, but a raging rapid is not something you want to jump in the way of. Touching it will drain your hunger as it tries to purge your body, while also making you float due to the sheer energy of the liquid. As a result, it's next to impossible to drown in it.
+Now of course, we want to get this liquid into our bodies to use it. To get mana inside of you, craft a syringe and craft that syringe with a mana orb or hold down the syringe pointing at some mana liquid in the world. You now have a mana syringe that you can inject straight into your bloodstream.
+Just like anything else, too much mana is a bad thing.. Drinking too much water can pose a threat to your health. Doing the same with mana is several magnitudes more dangerous. The body can only store a certain amount before it starts to manifest side effects known as "mana burn".<br>Imagine you took all of the world's animal life, gave them all pure caffeine, compressed them into a single squirrel, and then made that squirrel a wizard.<br>That's what having mana burn is like.
+Finally, you can store the mana liquid into orbs. Simply craft glass orbs and throw them a block of liquid mana, it will instantly fill up. You now have portable mana that you will need later. Do stock up on this stuff, you'll need a lot of it.
+Step 2: Garbs
+Learn about wardrobe you should be using
+Once you've injected mana, you might be wondering why you don't have a bar showing you how much you have. Well although the mana is flowing in your blood stream right now, you simply cannot channel it yet.<br>Angels are bits of divinity. Their Grace allows them to have a constant supply of mana... but you don't have it that easy. You'll have to make do with what's called a crude halo, instead of the glorious one of an angel.<br> Once you equip the crude halo, you will be able to see your mana bar.
+Next up is the cape. Capes are not storages, but they are conduits, aiding wizards in mana transference and reducing mana loss. Once you craft yourself a cape, wear it and do not take it off. The cape will get stronger the longer you wear it. At first, it barely reduces spell cost, but after you wear it for prolonged periods of time, it can reduce mana spell cost down to a quarter of what it was.
+Capes may be glorious and powerful, but they are fickle. They will easily give up their loyalty to another, because one wizard is the same as another to them. If you can cheat a master out of their cape, it's the same as if you'd worn it for years yourself.<br>So if you do happen to find a beautiful, billowing cape on another's rapidly-cooling body, there's no harm in peeling it off and trying it on. And really, does it matter how they died? A cape is a cape.
+Step 3: Nacre
+Learn about pearls and their magical properties
+Nacre, the liquid that pearls are formed from - known as mother-of-pearl - is a very thick, pale, and iridescent liquid that is able to channel mana quite flawlessly.<br>To get this liquid, simply throw a gold nugget into liquid mana, and they'll mix together into the resplendent stuff.<br>Now, as for why you want this: with it you can create "nacre pearls", which can be infused with spells to cast them.
+To make a nacre pearl, take a glass orb and throw it in the milky liquid. There are six levels of nacre pearl quality. Wasted is the worst, then drained, flawed, decent, potent, and finally, Apex. You ideally want Apex Pearls, but that takes careful effort to make. The worse the quality of the pearl, the weaker the spell and the more mana it consumes. To get the highest pearl quality, you must keep the glass orb in the nacre for &oexactly&r 30 seconds. Any more reduces quality, but any less does too. This isn't required, of course. Apex pearls are good, but  you will do fine with potent and decent quality pearls.<br>You will be using these pearls later on in spell infusion.
+Step 4: Structures
+Learn about the structure you will need to build
+You've got your mana, you've got your crooked halo, you've got your beautiful cape, and you've got your shimmering nacre pearls. But how do you actually infuse a spell into a pearl? Well, we just need one last device before we get there.
+The first structure is a Mana Battery. This structure is a massive reservoir of mana.<br>As any wizard will quickly learn, this is the center of your powers. The Mana Battery's core can absorb mana far more efficiently than any other method of storage. To fill it, set mana orbs on the pillars in its structure; it will discharge its power to mana orbs outside of the battery's pillars, allowing for automatic and efficient mana transfer out of the battery.
+Do note that once you place the mana battery block down, you will see red dots highlighting where blocks of the structures are going to be. Shift right click the block to display a hologram of the structure itself. Adjust the battery's position as you please. Once you finish the structure, no red dots should be flashing.
+This structure is technically not required. You could manually replace emptied mana orbs in your other structures to feed them mana, but you'll quickly find that that task is very annoying and tedious to do.
+The last structure you will need, and arguably the most important one, is the Crafting Altar. This structure is where you will follow spell recipes, then cap them off with a nacre pearl, to create a pearl capable of casting your spell.<br>How this is done will be recounted in the next entries. For now, build the structure very close by the mana battery structure and fill its pillars with glass orbs or mana orbs to fill the Crafting Plate up with mana.
+Note that the mana battery will be able to fill up the orbs in the Crafting Altar's pillars automatically if the battery has been fed with mana. The orbs inside the Altar's structure will fill up the crafting plate.
+Step 5: Spell Creation
+Learn how to create your very first spell finally
+This is the step where you actually make your spells. You're finally ready.<br>To start off, make yourself a Magician's Worktable, and place it down. Once you open it up, you will see several things.<br>It's very important that you carry this codex in your inventory while making a spell. I'll tell you why in a bit.
+To your top left, you will see three sidebars. The top left sidebar is for Shape components. Shape components control how your spell will be cast. IE: If you want it to cast as a beam, as a projectile, upon smacking something, as a zone, etc…
+To the right of the Shapes are the Effect components. These control what your spell actually does. If you want a lightning spell, a time slowing spell, a slippery spell, a gravity well, etc…
+Below the Shapes are the Event components. These filter &oout&r everything else. For example, when you run a projectile spell, it will run on entities and/or blocks regardless. With an event component, you will be able to affect &oonly&r entities, for example.
+To make your first spell, drag a Shape component onto the piece of paper in the center, then drag an effect component to the center. Then hold down right click and drag from the Shape component to the Effect component on your paper, you will see a connecting line. This line's direction matters, and connecting it in reverse won't work. This is because doing it like this tells your spell that it will first run a Projectile Shape, then when that Projectile Shape hits and needs to run its Effect, it will run the Effect you pass into it. The opposite is an Effect shape that doesn't know how to actually start, so it fizzles out.<br>Try this example: Drag a Projectile Shape and a Freeze Effect and right click drag from the Projectile Shape to the Freeze Effect.
+This spell is very weak at it's base. You can upgrade it at the cost of more mana or burnout. For example, if you want to add more range to the projectile, click on the Projectile Shape that you placed on your paper, you will see a list of modifiers you can apply on the right. Click the Range modifier to apply it. Click more to apply more.
+Once you are satisfied with your spell, click the &oSave&r button on the top right. This will save your spell's recipe into &othis&r codex. You will see a new bookmark in this codex with the recipe of the spell you want to create. So be sure you have this codex on your person when you make a spell.
+Now that you saved your spell, check the Spell Recipe bookmark in this book. You will see a list of items that you need to gather and throw into the crafting plate &o&lin order&r. Fill your Mana Battery up with mana, then throw your nacre pearl into the crafting plate. Finally, wait for your spell to craft for a minute. You will be greeted with an explosion of mana around the nacre pearl sitting at the center of the plate. You now have an spell-infused pearl at your disposal. Craft it with an empty staff to mount it to it, then you can use your staff to cast your spell! Congratulations, my friend. You are now a wizard. I fear for the poor animals in the wake of your first pyrokinetics.
+Devil Dust
+&oDevil dust is a purified form of the conductive Redstone dust, which, instead of conducting electricity, conducts magic.&r
+It is made by throwing Redstone into fire. It will fizzle a bit then plop out the hellish dust.
+Wisdom Wood
+&oWisdom wood is a form of wood that has evolved to parasitically feed on mana, making it useful for making anything that shapes the liquid power. If we could make apprentice cloaks of treated wisdom wood, then we could keep you from using magic at all, and save us the hassle.&r
+Any type of wood can be converted into wisdom wood simply by throwing the wood into liquid mana.
+Crude Halo
+&oThe crude halo is a bad representation of divinity. While it's nowhere near as potent as the Grace of an angel, it... does the job of holding mana, if not bestowing it.&r
+If you like wearing baubles and trinkets, you can wear it on your head alongside your armor. Otherwise, it'll have to take the place of your helmet. It may not look as fancy as the real deal, but it'll do.
+Orbs
+Glass orbs are used to capture both nacre and mana, giving you from these powerful liquids the iridescent Nacre Pearls and the invaluable Mana Orbs.
+Mana orbs are made simply by throwing glass orbs into liquid mana.<br>Nacre pearls, on the other hand, require more precision. To get the best quality pearl, you can refer to the third step of becoming a Wizard: Nacre.
+Fairies
+Where to find them and how to puree them
+The most important attribute of what we call 'fairies' -- and by far the first thing that most young wizards notice -- is that they are extremely annoying. Although they actually appear to be some kind of by-product of mana usage and have nothing resembling sentience, they have a remarkable knack for being in exactly the wrong place at the wrong time. Any time a wizard attempts some great feat of concentration anywhere near fairies, it is almost guaranteed that the little blighters will do their utmost to distract the magical process.
+Like unicorns, however, these underworld-native creatures are not entirely useless: if you can catch one and squeeze it into a jar, it provides a magnificent light source. Also, you can use them to make excellent jam.
+Spirit Wights
+Restless roamers with unfinished business
+Little is known about these underworld-native creatures. Those few unfortunate enough to have any interaction with them rarely survive the experience; as a result, the few observations that survive are more to do with how quickly they can disassemble the average wizard than with their patterns or behaviours. As a result, the only real advice for dealing with them is this: if you see one, run. And don't stop.
+It is possible to fight a spiritwight. It is even theoretically possible to win, in the same way that it is theoretically possible to win a fist fight with a dragon. Strong potions of harming have proven to have some effect on them, in so far as these things can be measured, and it is possible that a wizard of exceptional power and skill may be able to craft weapons and armour strong enough to successfully oppose them. If this is you, do make sure to tell people; they probably won't believe you, but at least someone will know.
+If you decline to fight them -- which, let's be honest, is the only sensible choice -- then do not be deceived by their sluggishness. Spiritwights are slow, lumbering things, but this belies their relentless nature. Once a spiritwight has caught the scent of a wizard, they will hunt them almost to the ends of the earth. When you run from them, keep looking over your shoulder. and don't ever stop for long. They certainly won't.
+It is one final point of interest that spiritwights reserve their hatred for wizards. As far as we know, they show no interest in any other creature. A unicorn may go where a wizard fears to tread, and face no danger. There must be some reason for this, but who knows it.
+Unicorns
+Getting kicked back to Overworld has never been easier
+Please, make no mistake; these are not the gentle, damsel-loving creatures of song and story. The tales I heard as a child about unicorns were keen to stress their beauty and intelligence, their kindness and faithfulness. Real unicorns are better described as 'stroppy'.
+These underworld-native creatures are savage and territorial, sharp of horn and hard of hoof. As far as we can tell, they possess a burning desire to kick, stab or otherwise maim any animal that crosses their path - wizards included - and will even resort to biting if in the mood. They seem to harbor a particular grudge against fairies, which they eat when possible.
+Some have argued that unicorns have little practical value, but their horns have potent magical properties. Also - as I've said elsewhere - fairies are remarkably annoying, so anything that keeps their numbers down can't be all bad.
+Underworld
+Learn about the Underworld
+<WIP><br>The domain of Zachriel, Angel of Memory.
+Life is rare among the cloudy skies of the Underworld (it is the realm of the dead, after all), but there are a few beings<br><WIP>
+To get to the underworld, jump from a height over 130 blocks and smack bedrock, you will fall straight through into the top of the underworld where you will be greeted with a pleasant and relatively safe fall to it’s clouds.
+To get back from the underworld, fall into its void. You will fall straight into the top of the overworld.

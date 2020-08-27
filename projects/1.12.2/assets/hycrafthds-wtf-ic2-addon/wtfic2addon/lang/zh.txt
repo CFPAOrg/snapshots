@@ -1,0 +1,30 @@
+HyCraftHD's WTF Ic2 Addon
+Low Solar Panel
+Intermediate Low Solar Panel
+Intermediate Medium Solar Panel
+Intermediate High Solar Panel
+Advanced Low Solar Panel
+Advanced Medium Solar Panel
+Advanced High Solar Panel
+Superior Solar Panel
+Intermediate WTF Solar Panel
+Advanced WTF Solar Panel
+§d§kExtreme WTF Solar Panel§r
+Compressed MFSU
+Double Compressed MFSU
+Triple Compressed MFSU
+Quadruple Compressed MFSU
+§d§kExtreme MFSU§r
+Transformer MFSU
+Extreme Condensator Reflector
+Dense Iridium Reinforce Plate
+Accepts every tier, but outputs tier 1
+Generate Day :
+Generate Night :
+Energy
+State
+Storage: %s EU / %s EU
+Storage: %s EU
+Capacity: %s EU
+Generating: %s EU/t
+Max Output: %s EU/t

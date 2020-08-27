@@ -1,0 +1,4 @@
+/exactspawn [subcommand]
+/exactspawn set
+/exactspawn setpitch
+/exactspawn setyaw

@@ -1,0 +1,466 @@
+Unknown Structure!
+You can't place that there!
+Not enough information to spawn structure!
+/tmstructurespawn <structure name> <x> <y> <z>
+Cozy Fireplace
+§3Glorfindel's Beryl
+§5Stone Heart
+§5Watcher's Heart
+§5Dark Sigil
+§3Fortress Plans
+§3Key-Stone
+§9Black Steed's Bridle
+§6Lost Artifact
+§5Manuscript page
+§3Cave completion Token
+§3Watcher Token
+§5Cromhes’ Armour (Repaired)
+§2Fine Cloth
+§9Thrór's Hammer
+§5Cromhes’ Shield (Repaired)
+§5Cromhes’ Sword (Repaired)
+§4Apostle
+§5Ashen Scroll
+§5Translated Scroll
+§2Hag Hops
+§3Hobbit Story
+§6Bilbo's Story
+§3Petunia's Manuscript
+§2Ancient Tome
+§5Cromhes’ Armour
+§5Broken Helm
+§5Bandit's Key
+§5Worn-out Pickaxe
+§5Damaged Shield
+§5Cromhes’ Shield
+§5Cromhes’ Sword
+§2Woven Basket
+§5Statue Rubbing
+§9Faction Token
+§3Faction Coin
+Bronze Coin
+Silver Coin
+Gold Coin
+Mithril Coin
+§4Pungent Herb
+Lock-Pick
+§5Sword Hilt
+Reforged Sword
+Key Fragment
+Oil-covered Key
+§5Bilbo's Nugget
+§3Dungeon Key
+§6Thurdan's Letter
+§5Special Magic Cloth
+§2Pile of Bones
+§2Ancient Rune Stone
+TBD
+TBD
+TBD
+Magical gem loaned to you to help on your search
+This heart has a disturbing and fearful energy
+This heart looks like it has seen better days
+Dark symbol dropped by a minion
+Seemingly fragile, surprising it survived so long
+Almost forgotten, this is the "Key" to opening a secret entrance
+Taken from the corpse of an evil Horse
+Hope of Vengeance
+The smith has done an amazing job on this sword
+This shield hails from an unknown origin though it belongs to Cromhes
+After repairs Cromhes' armour looks amazing
+Item Thonrum wanted repaired
+Item Thonrum wanted repaired
+Item Thonrum wanted repaired
+Proof of killing the troll
+Proof of defeating the Watcher
+Item stolen from Cromhes while he was held captive
+Item stolen from Cromhes while he was held captive
+Item stolen from Cromhes while he was held captive
+A tattered scroll, covered in small runes
+A scroll translated by Elrond with instructions to get into the dungeons of Moria
+Ruined key found on the body of a bandit captain
+A hammer especially designed for shaping mitril
+Gift Created by Gaffer Gamgee for Bilbo's Birthday
+Journal of the adventures a young Hobbit has
+This book looks like it has seen better days
+Story told by a hobbit after Bilbo disappeared on his birthday
+Charcoal rubbing of the runes on the Watchers near Khazad-dûm
+Lost page from a manuscript
+Finely woven cloth for decoration
+Baskets woven to pay tribute
+This objects emits a dark aura
+Especially potent flower brewers love to use
+Use this to raise faction standing
+This can be traded for unique items
+64 Can be traded for 1 Silver coin
+64 Can be traded for 1 Gold coin
+64 Can be traded for 1 Mithril coin
+Very rare and valuable coin
+Primary weapon of the fearsome Balrog
+Deadly weapon favoured by Trolls
+Forged in fear, the powerful weapon of the Witch-king
+Remnant of an ancient Golem
+Remnant of an ancient Golem
+Remnant of an ancient Golem
+Remnant of an ancient Golem
+Remnant of an ancient Golem
+Ancient artifact to summon a Legendary Golem
+Herb used in powerful potions
+Item used to open doors
+Ancient magic is concentrated within this gem
+All that was left of the Dwarven sword
+Remarkably good Dwarven work
+Token Bilbo took from his adventures in the Lonely Mountain
+Key made by Elssuli from the items you collected
+ 
+ 
+Thurdan's letter about Dreulhara
+Fine Elven cloth made into a bag
+Remains of some poor unfortunate soul
+This stone houses very powerful dark magic
+Spawn
+Mithril Ingot
+Mithril Dust
+Mithril Nugget
+Morgul Iron Ingot
+Morgul Iron Dust
+Morgul Iron Nugget
+Star of Elendil
+Mithril Axe
+Mithril Hoe
+Mithril Pickaxe
+Mithril Shovel
+Mithril Sword
+Morgul Iron Axe
+Morgul Iron Hoe
+Morgul Iron Pickaxe
+Morgul Iron Shovel
+Morgul Iron Sword
+Troll Club
+§4Whip of Fire
+§4Sword of the Witch-king
+Magic Ring of %s
+Magic Amulet of %s
+Magic Belt of %s
+Magic Charm of %s
+Shift right-click to activate/deactivate effect
+Shift right-click to activate/deactivate effect
+Shift right-click to activate/deactivate effect
+Shift right-click to activate/deactivate effect
+Mithril Helmet
+Mithril Chestplate
+Mithril Leggings
+Mithril Boots
+Morgul Iron Helmet
+Morgul Iron Chestplate
+Morgul Iron Leggings
+Morgul Iron Boots
+Boulder
+Galadhrim Arrow
+Tipped Galadhrim Arrow
+Fell-fireball
+Uncraftable Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Tipped Arrow
+Galadhrim Arrow of Night Vision
+Galadhrim Arrow of Invisibility
+Galadhrim Arrow of Leaping
+Galadhrim Arrow of Fire Resistance
+Galadhrim Arrow of Swiftness
+Galadhrim Arrow of Slowness
+Galadhrim Arrow of Splashing
+Galadhrim Arrow of Water Breathing
+Galadhrim Arrow of Healing
+Galadhrim Arrow of Harming
+Galadhrim Arrow of Poison
+Galadhrim Arrow of Regeneration
+Galadhrim Arrow of Strength
+Galadhrim Arrow of Weakness
+Galadhrim Arrow of Levitation
+Galadhrim Arrow of Luck
+Galadhrim Arrow of Sleepnesia
+Galadhrim Arrow of Ent Draught
+Galadhrim Arrow of Elvish Life-span
+Galadhrim Arrow of Elemental Drowning
+Galadhrim Arrow of Elemental Lightning
+Galadhrim Arrow of Elemental Flying
+Galadhrim Arrow of Elemental Tornado
+Galadhrim Arrow of Elemental Burning
+Galadhrim Arrow of Corrosion
+Galadhrim Arrow of Portable Blacksmith
+Galadhrim Arrow of 
+Galadhrim Arrow of Paralysing Fear
+Galadhrim Arrow of Great Dread
+Galadhrim Arrow of Blessing of the Elves
+Galadhrim Arrow of Blessing of Eru Iluvatar
+Lembas
+Honey Cake
+Cram
+Frog Bait
+Fancy Frog Bait
+Acorn
+Golden Acorn
+Honey
+Monster Flesh
+Ent Draught
+Blessing of the Elves
+Blessing of Eru Iluvatar
+Miruvor
+Grog
+Vitality
+Portable Blacksmith
+Gulhir
+Ent Draught
+Potion of Ent Draught
+Splash Potion of Ent Draught
+Lingering Potion of Ent Draught
+Arrow of Ent Draught
+Elvish Life-span
+Potion of Elvish Life-span
+Splash Potion of Elvish Life-span
+Lingering Potion of Elvish Life-span
+Arrow of Elvish Life-span
+Elemental Drowning
+Potion of Elemental Drowning
+Splash Potion of Elemental Drowning
+Lingering Potion of Elemental Drowning
+Arrow of Elemental Drowning
+Elemental Lightning
+Potion of Elemental Lightning
+Splash Potion of Elemental Lightning
+Lingering Potion of Elemental Lightning
+Arrow of Elemental Lightning
+Elemental Flying
+Potion of Elemental Flying
+Splash Potion of Elemental Flying
+Lingering Potion of Elemental Flying
+Arrow of Elemental Flying
+Elemental Tornado
+Potion of Elemental Tornado
+Splash Potion of Elemental Tornado
+Lingering Potion of Elemental Tornado
+Arrow of Elemental Tornado
+Elemental Burning
+Potion of Elemental Burning
+Splash Potion of Elemental Burning
+Lingering Potion of Elemental Burning
+Arrow of Elemental Burning
+Corrosion
+Potion of Corrosion
+Splash Potion of Corrosion
+Lingering Potion of Corrosion
+Arrow of Corrosion
+Portable Blacksmith
+Potion of Portable Blacksmith
+Splash Potion of Portable Blacksmith
+Lingering Potion of Portable Blacksmith
+Arrow of Portable Blacksmith
+Sleepnesia
+Potion of Sleepnesia
+Splash Potion of Sleepnesia
+Lingering Potion of Sleepnesia
+Arrow of Sleepnesia
+Paralysing Fear
+Potion of Paralysing Fear
+Splash Potion of Paralysing Fear
+Lingering Potion of Paralysing Fear
+Arrow of Paralysing Fear
+Great Dread
+Potion of Great Dread
+Splash Potion of Great Dread
+Lingering Potion of Great Dread
+Arrow of Great Dread
+Elvish Nimbleness
+Potion of Elvish Nimbleness
+Splash Potion of Elvish Nimbleness
+Lingering Potion of Elvish Nimbleness
+Arrow of Elvish Nimbleness
+Eru's Blessing
+Potion of Eru's Blessing
+Splash Potion of Eru's Blessing
+Lingering Potion of Eru's Blessing
+Arrow of Eru's Blessing
+Balrog's Mark
+When applied to boots, this makes any grass or dirt around you turn to magma blocks.
+Gondorian Resolve
+When applied to armour, this increases your ability to resist knockback.
+Hobbit Harvest
+When applied to a hoe, this increases the crops harvested.
+Elven Longevity
+When applied to Chest armour, this increases your Max Health.
+Dwarven Endurance
+When applied to Helmets, this keeps your hunger and saturation at max.
+Travelling Music
+Travelling Music
+Travelling Music
+Travelling Music
+Travelling Music
+Travelling Music
+Travelling Music
+Travelling Music
+Travelling Music
+Travelling Music
+Travelling Music
+Travelling Music
+Riders of Rivendell
+The Light of Lothlorien
+All That Glitters in Erebor
+Willow Song
+White Tree of Gondor
+Wake of Edoras
+Fly My Pretties!
+Ballad of Murder-Frog
+Evil Incarnate
+Bumbling Oaf
+Mystery of Tom Bombadil
+Concerning Hobbits - Remix
+Crebain Feather
+Bird Feather
+Mumakil Hide
+Monster Fur
+Fancy Bottle
+Golem Stone
+§2Earth§r Golem Stone
+§eAir§r Golem Stone
+§4Fire§r Golem Stone
+§9Water§r Golem Stone
+Summon Legendary §bMithril§r Golem
+Mithril Block
+Morgul Iron Block
+Hallowed Earth
+Stone Path
+Simple Fireplace
+Mithril Ore
+Fiery Mithril Ore
+Ender Mithril Ore
+Morgul Iron Ore
+Fiery Morgul Iron Ore
+Ender Morgul Iron Ore
+Ammolite Ore
+Firey Ammolite Ore
+Ender Ammolite Ore
+Mallorn Slab
+Mirkwood Slab
+Culumalda Slab
+Lebethron Slab
+Mallorn Planks
+Mallorn Leaves
+Mallorn Log
+Mallorn Sapling
+Culumalda Planks
+Culumalda Leaves
+Culumalda Log
+Culumalda Sapling
+Lebethron Planks
+Lebethron Leaves
+Lebethron Log
+Lebethron Sapling
+Mirkwood Planks
+Mirkwood Leaves
+Mirkwood Log
+Mirkwood Sapling
+Mirkwood Stairs
+Mallorn Stairs
+Culumalda Stairs
+Lebethron Stairs
+Seregon
+Simbelmyne
+Niphredil
+Kingsfoil
+Alfirin
+Lilly of the Valley
+Swamp Milkweed
+Bloom of Decay
+Bloom of Decay
+Blank Sign
+Arcane & Sundries
+Arcane & Sundries
+Arcane & Sundries
+Ye Old Armory
+Money Changer
+Militia
+Militia
+Ye Old Blacksmith
+Purveyor of Books
+Butcher
+Farming Supplies
+Gardener
+Food & Supplies
+Ye Old Inn
+Herbologist
+Curator of Potions
+The Mortician & Cook
+Ye Old Livery
+Woodcutter
+Parcel Post
+Huron
+Mirkwood Spider
+Mountain Goblin
+Mordor Orc
+Warg
+Hobbit
+Mumakil
+Crebain
+Cave Troll
+Uruk Hai
+Barrow Wight
+Balrog
+Dwarf
+Human
+Elf
+Kine of Araw
+Goat
+Tree Ent
+Smeagol
+Frog
+Murder Frog
+Society Squirrel
+Witch-king of Angmar
+Fell Beast
+Nazgul
+Oath Breaker
+Midge Flies
+Thrush
+Gwaihir
+Great Eagle
+Chest
+Minotaur
+Rat
+Brigand
+Fell Spirit
+Great Golem
+Great Golem of §eAir
+Great Golem of §2Earth
+Great Golem of §4Fire
+Great Golem of §9Water
+Legendary §bMithril§r Golem
+Legendary §8Morgul§r Golem
+Stone Golem
+Watcher in the Water
+Swamp Hag
+Haradrim
+Duergar
+Goblin King
+Deep Claw
+Infected Walker
+Shelob
+Coin Banker
+Grocer
+Pet Supplies
+Junk Dealer
+TolkienTweaks Tools
+TolkienTweaks Materials & World Gen
+TolkienTweaks Mobs
+TolkienTweaks Food
+TolkienTweaks Quest
+TolkienTweaks Signs
+Middle-earth
+Adventure in the lands of Middle-earth
+Arda - Single Biome
+Used to test a single biome in Dev
+Mithril
+Morgul Iron
+Molten Mithril
+Molten Morgul Iron

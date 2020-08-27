@@ -1,0 +1,31 @@
+Living
+Gives life to the enchanted item, enabling it to grow stronger with use!
+To use this command, you must have a Living enchanted item held in your main hand.
+XP must be a non-negative number. It can be a decimal number.
+/additemxp <xp>
+Added %f XP to item "%s".
+/setitemxp <xp>
+Set the XP of "%s" to %s.
+/setitemlevel <level>
+Level must be a non-negative whole number less than %s (the max level).
+"%s" is now level %s.
+/resetitem
+"%s" has been completely reset.
+/setpersonality <personality>
+"%s" is not a recognized personality. Specified personality must be a number greater than zero and less than or equal to 1, or the name of the personality.
+Changed "%s"'s personality to "%s".
+List of available personalities: %s
+%s Things Killed
+%s Blocks Picked
+%s Blocks Chopped
+%s Blocks Shoveled
+%s Blocks Hoed
+%s Times Used
+%s Hits Taken
+Personality: %s
+Currently worn:
+%s Damage Reduction
+Attack Damage
+Lvl: %s
+XP: %s
+A new update is available for %s

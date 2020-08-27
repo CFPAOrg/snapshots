@@ -1,0 +1,19 @@
+Shop
+Coins
+Amount
+Total Price
+Buy
+Showcase Block
+Showcase Mod
+Copper Coin
+Silver Coin
+Gold Coin
+Showcase Modifier
+Selling
+for
+The shop has nothing to sell!
+You cannot afford to buy this!
+You need to buy at least 1 item!
+Sorry, the shop is empty!
+You successfully bought it!
+Admin shop is now set to %s!

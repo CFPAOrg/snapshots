@@ -1,0 +1,30 @@
+Attachable Grinder
+%1$s sat on a grinder
+Enabled Mobs
+Mobs Grinder Is Enabled On
+Grinding frequency
+Toss Multiplier
+Grinder's minimum yield
+Grinder's maximum extra yield
+Toss Power
+Grinder explosion magnitude
+Allow Pigs
+Allow Cows
+Allow Chickens
+Allow Zombies
+Allow Creepers
+Allow Skeletons
+Allow Players
+Multiplier that is multiplied against Toss Power.\nDefault: 4
+Each grinder will yield at least this many times before exploding.\nSet to 0 for infinite.\nDefault: 8
+Each grinder has a minimum chance to yield this many times.\nDefault: 8
+Power at which the drop is tossed from the mob.\nDefault: 5
+Magnitude of explosion caused by failed grinding. Default creeper explosion magnitude is 300.\nDefault: 150
+Allow Grinders on pigs?
+Allow Grinders on cows?
+Allow Grinders on chickens?
+Allow Grinders on zombies?
+Allow Grinders on creepers?
+Allow Grinders on skeletons?
+Allow Grinders on players?\nDon't worry, nothing will actually be grinded out. It'll just stick like a non-harmful parasite.
+Attachable Grinder

@@ -1,0 +1,6 @@
+ Move Relearner Summoner
+ TM Vending Machine
+ Pokeball Vending Machine
+ Stat Modifier Vending Machine
+ Medicine Vending Machine
+ Evolution-related Item Vending Machine

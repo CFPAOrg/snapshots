@@ -1,0 +1,10 @@
+Basics
+Basic mod properties.
+Streak Time
+Player Flavour
+Sprint Trail
+Favourite Flavour
+How long (in ticks) do streaks last?
+Do players follow your favourite flavour?
+Render a player's sprint trail?
+What's your favourite flavour?\nPut the name of it as the config\nLeave it as a mismatching name for a random flavour per person.

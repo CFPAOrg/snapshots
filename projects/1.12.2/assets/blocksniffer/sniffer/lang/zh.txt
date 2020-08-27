@@ -1,0 +1,55 @@
+&b[BlockSniffer] &r
+Enable/Disable Sniffer
+HUD(Head Up Display) X [0.0(left) - 1.0(right)].
+HUD(Head Up Display) Y [0.0(top) - 1.0(bottom)].
+Gamma [0.0 - 15.0]
+HUD(Head Up Display) display time (ms)[0 - MAX](always show if less than 500)
+scan spacing(ms)[100 - MAX]
+particles' max age (s)[1 - MAX]
+Config reloaded.
+Reset!
+Sniffer is ON!
+Sniffer is OFF!
+Targets are empty,please add a target first!
+Unknown Block
+Current Gamma: &a%.2f
+Set current Gamma to: &a%.2f
+Usage: /sf gamma | reload | reset | sub | target
+Usage: /sf sub add | list | remove
+Usage: /sf t add | c | cla | d | h | i | m | rm | v
+Use&e confirm &rto confirm /sf t cla confirm
+Usage: /sf t/sub add <name|id|hold|look> [meta] [0-15]
+current: mode[&a%d&r] color[&a%s&r] depth[&a%d&r - &a%d&r] h range[&a%d&r chunk] v range[&a%d&r block]
+current display: &a%s
+set current display to: &a%s
+current display was cleared.
+current mode: &a%s
+set current mode to: &a%s
+current horizontal range: &a%d&r chunk
+set current horizontal range to: &a%d&r chunk
+current vertical range: &a%d&r block
+set current vertical range to: &a%d&r block
+current depth range: &a%d&r floor - &a%d&r floor
+set current depth range to: &a%d&r floor - &a%d&r floor
+current color: &a%s
+set current color to: &a%s
+color will use the block's &aMapColor
+Target &6%s&r removed.
+&cTarget removed failed!
+Do you confirm to remove all the targets?(enter `/sf t cla confirm` to clean)
+&eAll targets removed,sniffer will be shutdown!
+Sniffer is not activated, or there is no target.
+Add a new target &a%s
+sub blocks of the current target:
+Use `/sf sub rm <uid>` to remove the following sub blocks:
+Removed block &6%s
+&cRemove failed,maybe there is no block with the specific uid.use `/sf sub l/list` first.
+&eRemoved all blocks, will remove current target.
+add a new block &a%s
+command can only be used by player in the game world.
+fixed depth
+relative tp player
+&6Target is not a block or it has no linked block.
+&6Invalid Number!
+&6Invalid block name(id)!
+&6Invalid Color value or name!

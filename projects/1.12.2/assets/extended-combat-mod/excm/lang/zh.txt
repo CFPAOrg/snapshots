@@ -1,0 +1,38 @@
+Wooden Mace
+Stone Mace
+Golden Mace
+Iron Mace
+Diamond Mace
+Hat Of The Witch
+Shulker Chestplate
+White Wings
+Teleportation Arrow
+Disarming Arrow
+Blinding Arrow
+Seeking Arrow
+Hook Arrow
+Book Of Flames
+Book Of Lightning
+Book Of Wither
+Book Of Shockwave
+Book Of Magic
+Book Of Nether
+Book Of Dragon Breath
+Book Of Shulkers Breath
+Book Of Wind
+Shockwave
+Warping Arrow
+Arrow Of Disarming
+Arrow Of Blinding
+Arrow Of Seeking
+Arrow Of Pulling
+Explosive Blow
+Disarm
+Life Steal
+Curse Of Shattering Armor
+Buff Breaker
+Curse Of Loosing
+Curse Of Dull Armor
+Dullness
+Enchanted Weapon
+%1$s has been squashed by %2$s

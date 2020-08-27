@@ -1,0 +1,50 @@
+Bucket of Bat
+Bucket of Blaze
+Bucket of Cave Spider
+Bucket of Chicken
+Bucket of Cow
+Bucket of Creeper
+Bucket of Donkey
+Bucket of Elder Guardian
+Bucket of Ender Dragon
+Bucket of Enderman
+Bucket of Endermite
+Bucket of Evoker
+Bucket of Ghast
+Bucket of Giant
+Bucket of Guardian
+Bucket of Horse
+Bucket of Husk
+Bucket of Illusioner
+Bucket of Iron Golem
+Bucket of Llama
+Bucket of Magma Cube
+Bucket of Mooshroom
+Bucket of Mule
+Bucket of Ocelot
+Bucket of Parrot
+Bucket of Pig
+Bucket of Polar Bear
+Bucket of Rabbit
+Bucket of Sheep
+Bucket of Shulker
+Bucket of Silverfish
+Bucket of Skeleton
+Bucket of Skeleton Horse
+Bucket of Slime
+Bucket of Snow Golem
+Bucket of Spider
+Bucket of Squid
+Bucket of Stray
+Bucket of Vex
+Bucket of Villager
+Bucket of Vindicator
+Bucket of Witch
+Bucket of Wither
+Bucket of Wither Skeleton
+Bucket of Wolf
+Bucket of Zombie
+Bucket of Zombie Horse
+Bucket of Zombie Pigman
+Bucket of Zombie Villager
+Bucket of Entity

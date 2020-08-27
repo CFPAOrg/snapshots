@@ -1,0 +1,141 @@
+AzTech Badge
+Red Rune Shard
+Yellow Rune Shard
+Green Rune Shard
+Blue Rune Shard
+White Rune Shard
+Black Rune Shard
+§6Geoluminescent Obelisk
+§5Aztech Portal
+Red Rune Hoe
+Yellow Rune Hoe
+Green Rune Hoe
+Blue Rune Hoe
+White Rune Hoe
+Black Rune Hoe
+Red Rune Axe
+Yellow Rune Axe
+Green Rune Axe
+Blue Rune Axe
+White Rune Axe
+Black Rune Axe
+Red Rune Shovel
+Yellow Rune Shovel
+Green Rune Shovel
+Blue Rune Shovel
+White Rune Shovel
+Black Rune Shovel
+Red Rune Sword
+Yellow Rune Sword
+Green Rune Sword
+Blue Rune Sword
+White Rune Sword
+Black Rune Sword
+Red Rune Pickaxe
+Yellow Rune Pickaxe
+Green Rune Pickaxe
+Blue Rune Pickaxe
+White Rune Pickaxe
+Black Rune Pickaxe
+Red Rune Helmet
+Yellow Rune Helmet
+Green Rune Helmet
+Blue Rune Helmet
+White Rune Helmet
+Black Rune Helmet
+Red Rune Chestplate
+Yellow Rune Chestplate
+Green Rune Chestplate
+Blue Rune Chestplate
+White Rune Chestplate
+Black Rune Chestplate
+Red Rune Leggings
+Yellow Rune Leggings
+Green Rune Leggings
+Blue Rune Leggings
+White Rune Leggings
+Black Rune Leggings
+Red Rune Boots
+Yellow Rune Boots
+Green Rune Boots
+Blue Rune Boots
+White Rune Boots
+Black Rune Boots
+Red Rune Ore
+Yellow Rune Ore
+Green Rune Ore
+Blue Rune Ore
+White Rune Ore
+Black Rune Ore
+§6Temple Stone
+§6Temple Stone Bricks
+§6Temple Stone Bricks Chiseled
+§6Temple Stone Bricks Cracked
+§cSlaughtive Rune
+§cEmpower Rune
+§9Empower Rune
+Ancient Stone
+Ancient Cobblestone
+Ancient Dry Mud
+Ancient Rock
+Ancient Bedrock
+Ancient Chiseled Bricks
+Ancient Bricks
+Ancient Muddy Bricks
+§cDetector Rune
+§cDetector Rune
+Ancient Dirt
+Ancient Grass
+§cAncient Laser
+§cEnemy Emitter Rune
+§6Lantern
+§cObjector Rune§c(WIP)
+§cInsertive Rune§c(WIP)
+§cKeyhole Rune§c(WIP)
+§cTemple Mirror§c(WIP)
+§cDoor Rune§c(WIP)
+§cRune Line§c(WIP)
+§cRedstone->Rune Translator
+Red Rune Block
+Yellow Rune Block
+Green Rune Block
+Blue Rune Block
+White Rune Block
+Black Rune Block
+§6Red Temple Rune Block
+§6Yellow Temple Rune Block
+§6Green Temple Rune Block
+§6Blue Temple Rune Block
+§6White Temple Rune Block
+§6Black Temple Rune Block
+Ancient Coal Ore
+Ancient Iron Ore
+Ancient Redstone Ore
+Ancient Gold Ore
+Ancient Lapis Ore
+Ancient Diamond Ore
+Ancient Emerald Ore
+Ancient Quartz Ore
+Ancient Red Rune Ore
+Ancient Yellow Rune Ore
+Ancient Green Rune Ore
+Ancient Blue Rune Ore
+Ancient White Rune Ore
+Ancient Black Rune Ore
+§6Eye Guardian
+§6Eye Master
+§6Ultimate Eye
+Pyronant
+§eAzTech
+Aztech
+Mine a rune shard
+Fractured...
+Mine all rune shards
+...But Whole
+Craft all of the shard blocks
+Overexpensive Jewelry
+Craft all of the temple rune blocks
+Backwards in Time...?
+Enter the Aztech Dimension
+What an Eyesore!
+Kill the §6Ultimate Eye

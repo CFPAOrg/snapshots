@@ -1,0 +1,237 @@
+ExplorerCraft
+Explorer-Testing
+Ruby
+Amethyst
+Jade
+Structure Builder
+Noctiluca
+Wizard
+Enderreeper
+Enderghast
+Explorercraft
+Let the exploration begin!
+Exploring Time!
+Discover the hidden biomes!
+Bamboo Forest Discovered!
+A vast sea of bamboo!
+Forested Mountains Discovered!
+A glorious mountain to traverse!
+Snowdonia Discovered!
+The Land of Song!
+Slate Discovered!
+Welcome to the Valleys!
+Make Welsh cakes!
+Find Dried Fruits!
+Leeks on the hills!
+Can cure a cold?!
+Craft Cawl!
+Create a majestic broth!
+Craft Welsh Rarebit!
+Ooooh that cheesy goodness!?
+Heart of Y Ddraig Goch!
+Flaming Heart of Wales!
+Shield of Cmyru
+Pride of Wales!
+Icon of Wales
+Smug a leek onto a banner!
+Heart of Wales
+Burn the heart onto a banner!
+Map of Wales
+Smash slate onto a banner!
+Shiny Things!
+Discover the hidden gems!
+Rice Rice Baby!
+Make a tasty bowl of rice!
+Nobility Awaits!
+Craft Tatami mats!
+Bamboo Planks!
+Six flat pieces for a floor!
+Bamboo Wall!
+Six stacked pieces for a wall!
+Mineral of the East!
+Discovered Jade!
+Jewel of the Mountain
+Discovered Ruby!
+Treasure of the Earth
+Discovered Amethyst!
+Basalt Discovered!
+Forged in the fires of Mordor!
+Marble Discovered!
+Get your Greek on!
+Ruby Ore
+Amethyst Ore
+Jade Ore
+Ruby Block
+Amethyst Block
+Jade Block
+Ruby Horse Armor
+Amethyst Horse Armor
+Jade Horse Armor
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Amethyst Helmet
+Amethyst Chestplate
+Amethyst Leggings
+Amethyst Boots
+Jade Helmet
+Jade Chestplate
+Jade Leggings
+Jade Boots
+Ruby Axe
+Ruby Hoe
+Ruby Pickaxe
+Ruby Shovel
+Ruby Sword
+Amethyst Axe
+Amethyst Hoe
+Amethyst Pickaxe
+Amethyst Shovel
+Amethyst Sword
+Jade Axe
+Jade Hoe
+Jade Pickaxe
+Jade Shovel
+Jade Sword
+Basalt
+Basalt Cobblestone
+Polished Basalt
+Basalt Bricks
+Mossy Basalt Bricks 
+Cracked Basalt Bricks
+Chiselled Basalt Bricks
+Basalt Pillar
+Basalt Brick Slab
+Basalt Brick Stairs
+Basalt Brick Wall
+Marble
+Polished Marble
+Marble Bricks
+Mossy Marble Bricks
+Cracked Marble Bricks
+Chiselled Marble Bricks
+Marble Pillar
+Marble Brick Slab
+Marble Brick Stairs
+Marble Brick Wall
+Slate
+Polished Slate
+Slate Bricks
+Mossy Slate Bricks
+Slate Tiles
+Chiselled Slate
+Welsh Slate
+Slate Pillar
+Slate Brick Slab
+Slate Brick Wall
+Slate Brick Stairs
+Slate Tile Stairs
+Tatami Half Mat
+Leek Crops
+Wild Leeks
+Daffodils
+Water Grass
+Ash Wood
+Ash Wood Planks
+Ash Leaves
+Ash Sapling
+Ash Wood Stairs
+Ash Wood Slab
+Ash Fence
+Ash Fence Gate
+Ash Door
+Bamboo
+Bamboo Planks
+Bamboo Wall
+Bamboo Leaves
+Bamboo Sapling
+Bamboo Stairs
+Bamboo Slab
+Bamboo Fence
+Bamboo Fence Gate
+Bamboo Door
+Cherry Blossom Wood
+Sakura Wood Planks
+Cherry Blossom Leaves
+Cherry Blossom Sapling
+Sakura Wood Stairs
+Sakura Wood Slab
+Sakura Fence
+Sakura Fence Gate
+Sakura Door
+Maple Wood
+Maple Wood Planks
+Maple Leaves
+Maple Sapling
+Maple Wood Stairs
+Maple Wood Slab
+Maple Fence
+Maple Fence Gate
+Maple Door
+Tatami Mat
+Tatami Half Mat
+Rice
+Leek
+Cheese
+Dried Fruits
+Welsh Cakes
+Welsh Rarebit
+Raw Lamb Shank
+Lamb Shank
+Bowl of Rice
+Leek Soup
+Cawl
+Rice Straw
+Shield of Cymru
+Wizard Hat
+Wizard Staff
+Heart of Y Ddraig Goch
+Black Welsh Flag
+Red Welsh Flag
+Green Welsh Flag
+Brown Welsh Flag
+Blue Welsh Flag
+Purple Welsh Flag
+Cyan Welsh Flag
+Light Gray Welsh Flag
+Gray Welsh Flag
+Pink Welsh Flag
+Lime Welsh Flag
+Yellow Welsh Flag
+Light Blue Welsh Flag
+Magenta Welsh Flag
+Orange Welsh Flag
+White Welsh Flag
+Black Wales Silhouette
+Red Wales Silhouette
+Green Wales Silhouette
+Brown Wales Silhouette
+Blue Wales Silhouette
+Purple Wales Silhouette
+Cyan Wales Silhouette
+Light Gray Wales Silhouette
+Gray Wales Silhouette
+Pink Wales Silhouette
+Lime Wales Silhouette
+Yellow Wales Silhouette
+Light Blue Wales Silhouette
+Magenta Wales Silhouette
+Orange Wales Silhouette
+White Wales Silhouette
+Black Welsh Dragon
+Red Welsh Dragon
+Green Welsh Dragon
+Brown Welsh Dragon
+Blue Welsh Dragon
+Purple Welsh Dragon
+Cyan Welsh Dragon
+Light Gray Welsh Dragon
+Gray Welsh Dragon
+Pink Welsh Dragon
+Lime Welsh Dragon
+Yellow Welsh Dragon
+Light Blue Welsh Dragon
+Magenta Welsh Dragon
+Orange Welsh Dragon
+White Welsh Dragon

@@ -1,0 +1,45 @@
+Not Enough Keys
+Push to talk
+Preset 01
+Preset 02
+Preset 03
+Preset 04
+Preset 05
+Preset 06
+Preset 07
+Preset 08
+Preset 09
+Preset 10
+Presets
+Empty
+Press keybinding for one tick
+Toggle keybinding
+Press key for one tick
+Send a chat message
+Select a preset
+Open a GUI
+Change Psi CAD slot
+Change selected foci
+Change the controls preset
+Clone
+Reload
+Create new
+Voice Commands
+Name
+Command rule
+Settings
+Clone
+Reload
+This VoiceCommand is currently in testing phase and may or may not function properly. Please report any bugs on the mods issue tracker.
+Chat message or command
+Input a slot number (0-11)
+Select a focus from your inventory
+These settings are only available while in a world
+Select a preset
+Open Main Menu
+Open Controls
+Open Inventory
+Slot can't be selected
+Could not find the specified foci
+§6Changed to preset %s
+§cPreset %s §cis already loaded

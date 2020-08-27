@@ -1,0 +1,10 @@
+Workbench
+Blueprint Table
+Items: %s || Recipes: %s
+Recipe (%s) out of [%s]
+&7Crafted &3 %spcs&7 of &9%s&7.
+&7Missing components to craft the Selected Item.
+TestCategory0
+TestCategory1
+TestCategory2
+FCL Generic Essentials

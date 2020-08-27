@@ -1,0 +1,5 @@
+Lighting Wand
+Light Source
+Uncharged
+Trick: Conjure Light Invisible
+Conjures a light in the given position. Only have CAD in hand can see the bounding box

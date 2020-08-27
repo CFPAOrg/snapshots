@@ -1,0 +1,406 @@
+General
+General options.
+Alignment
+Alignment offset options.
+Filename
+The configuration that should be loaded on startup.
+Replace Debug Overlay
+Replace the debug overlay (F3) with the SimpleTextOverlay overlay.
+Debug Overlay File
+The file used for the debug overlay (F3).
+Show in Chat
+Display the overlay in chat.
+Show on Player List
+Display the overlay on the player list.
+Scale
+The overlay will be scaled by this amount.
+Show Potion Effects
+Display the vanilla potion effects overlay.
+Show Item Overlay
+Display the item overlay on icon (durability, stack size).
+Top Left
+Offsets for the top left side of the screen (X<space>Y).
+Top Center
+Offsets for the top center side of the screen (X<space>Y).
+Top Right
+Offsets for the top right side of the screen (X<space>Y).
+Middle Left
+Offsets for the middle left side of the screen (X<space>Y).
+Middle Center
+Offsets for the middle center side of the screen (X<space>Y).
+Middle Right
+Offsets for the middle right side of the screen (X<space>Y).
+Bottom Left
+Offsets for the bottom left side of the screen (X<space>Y).
+Bottom Center
+Offsets for the bottom center side of the screen (X<space>Y).
+Bottom Right
+Offsets for the bottom right side of the screen (X<space>Y).
+Tag List
+Formatting
+Miscellaneous
+Mouse Over
+Nearby Players
+Player - Equipment
+Player - General
+Player - Position
+Player - Potion Effects
+Riding
+Time
+World
+Black color (§0EXAMPLE§r).
+Dark blue color (§1EXAMPLE§r).
+Dark green color (§2EXAMPLE§r).
+Dark aqua color (§3EXAMPLE§r).
+Dark red color (§4EXAMPLE§r).
+Dark purple color (§5EXAMPLE§r).
+Gold color (§6EXAMPLE§r).
+Gray color (§7EXAMPLE§r).
+Dark grey color (§8EXAMPLE§r).
+Blue color (§9EXAMPLE§r).
+Green color (§aEXAMPLE§r).
+Aqua color (§bEXAMPLE§r).
+Red color (§cEXAMPLE§r).
+Light purple color (§dEXAMPLE§r).
+Yellow color (§eEXAMPLE§r).
+White color (§fEXAMPLE§r).
+Obfuscated text (§kEXAMPLE§r).
+Bold text (§lEXAMPLE§r).
+Strike through text (§mEXAMPLE§r).
+Underlined text (§nEXAMPLE§r).
+Italic text (§oEXAMPLE§r).
+Reset formatting.
+Amount of maximum memory.
+Amount of total memory.
+Amount of free memory.
+Amount of memory in use.
+Current FPS.
+Current resource pack.
+Amount of rendered entities.
+Amount of loaded entities.
+Amount of loaded chunks.
+Server domain or IP and the port if it's not 25565, localhost if it's a local game.
+Server domain, localhost if it's a local game.
+Server IP, 127.0.0.1 if it's a local game.
+Server port, -1 if it's a local game.
+Current ping, -1 if no data.
+Current ping icon, empty string if no data.
+Forge version.
+MCP version.
+Minecraft version.
+Total active mods.
+Total mods.
+Vsync enabled.
+Type of clouds.
+CPU information.
+Debug screen entities information.
+Game display width.
+Game display height.
+Effect render stats.
+Number of hidden entities.
+Fancy graphics enabled/disabled.
+Framerate.
+Java 32-bit or 64-bit.
+Java version.
+Light updates.
+Maximum memory in MB.
+Total available memory in MB.
+Percent of memory useage.
+Amount of memory in use in MB.
+OpenGL vendor.
+OpenGL version.
+Provider name.
+Total render chunks.
+Render chunks many.
+Render chunks updated.
+Render chunks updated.
+Render debug info.
+Render distance chunks.
+Rendered chunks.
+VBO enabled/disabled.
+Video card information.
+Zero (0) used for comparison calculations in overlays.
+Name of the entity or block under the cursor, an empty string if there is nothing.
+Unique name of the entity or block under the cursor, an empty string if there is nothing.
+Entity id or block id under the cursor, zero if there is nothing.
+Block metadata under the cursor, zero if there is nothing.
+Weak redstone power of the block, -1 if there is nothing.
+Strong redstone power of the block, -1 if there is nothing.
+Input redstone power of the block, -1 if there is nothing.
+Block age.
+Block attached.
+Block axis.
+Block check decay. 
+Block decayable.
+Block delay.
+Block connected east.
+Block explode.
+Block extended.
+Block facing.
+Block half.
+Block has bottle in slot 1.
+Block has bottle in slot 2.
+Block has bottle in slot 3.
+Block hinge.
+Block in wall.
+Block layers.
+Block level.
+Block locked.
+Block open.
+Block powered.
+Block shape.
+Block looking at X.
+Block looking at Y.
+Block looking at Z.
+Block connected north.
+Block snowy.
+Block connected south.
+Block triggered.
+Block type.
+Block variant.
+Block connected west.
+Distance to x-th nearby player.
+Name of the x-th nearby player.
+Head icon of the x-th nearby player.
+Equipped item's name.
+Equipped item's unique name.
+Equipped item's durability.
+Equipped item's max durability.
+Equipped item's durability left.
+Equipped item's icon.
+Equipped item's large icon.
+Main hand item's name.
+Main hand item's unique name.
+Main hand item's durability.
+Main hand item's max durability.
+Main hand item's durability left.
+Main hand item's icon.
+Main hand item's large icon.
+Off hand item's name.
+Off hand item's unique name.
+Off hand item's durability.
+Off hand item's max durability.
+Off hand item's durability left.
+Off hand item's icon.
+Off hand item's large icon.
+Helmet's name.
+Helmet's unique name.
+Helmet's durability.
+Helmet's max durability.
+Helmet's durability left.
+Helmet's icon.
+Helmet's large icon.
+Chestplate's name.
+Chestplate's unique name.
+Chestplate's durability.
+Chestplate's max durability.
+Chestplate's durability left.
+Chestplate's icon.
+Chestplate's large icon.
+Leggings' name.
+Leggings' unique name.
+Leggings' durability.
+Leggings' max durability.
+Leggings' durability left.
+Leggings' icon.
+Leggings' large icon.
+Boots' name.
+Boots' unique name.
+Boots' durability.
+Boots' max durability.
+Boots' durability left.
+Boots' icon.
+Boots' large icon.
+Main hand attack damage.
+Main hand attack speed.
+Off hand attack damage.
+Off hand attack speed.
+Amulet bauble icon.
+Amulet bauble large icon.
+Amulet bauble name.
+Amulet bauble unique name.
+Ring bauble slot one icon.
+Ring bauble slot one large icon.
+Ring bauble one name.
+Ring bauble one unique name.
+Ring bauble slot two icon.
+Ring bauble slot two large icon.
+Ring bauble two name.
+Ring bauble two unique name.
+Belt bauble icon.
+Belt bauble large icon.
+Belt bauble name.
+Belt bauble unique name.
+Head bauble icon.
+Head bauble large icon.
+Head bauble name.
+Head bauble unique name.
+Body bauble icon.
+Body bauble large icon.
+Body bauble name.
+Body bauble unique name.
+Charm bauble icon.
+Charm bauble large icon.
+Charm bauble name.
+Charm bauble unique name.
+Light level at your current position.
+Light level at your current position (eye level).
+Light level at your current position without sunlight.
+Light level at your current position without sunlight (eye level).
+Sunlight level at your current position.
+Sunlight level at your current position (eye level).
+Player's score.
+Player's gamemode name.
+Player's gamemode id.
+Player's current health points.
+Player's maximum health points.
+Player's armor points.
+Player's food points.
+Player's maximum food points.
+Player's food saturation.
+Player's food exhaustion.
+Player's air ticks.
+Player's maximum air ticks.
+Player's level.
+Player's current experience.
+Player's experience until level up.
+Player's total required experience for the next level.
+Player's username.
+§etrue§r if the player is underwater, §efalse§r otherwise.
+§etrue§r if the player is wet, §efalse§r otherwise.
+§etrue§r if the player is alive, §efalse§r otherwise.
+§etrue§r if the player is on fire, §efalse§r otherwise.
+§etrue§r if the player is riding, §efalse§r otherwise.
+§etrue§r if the player is sneaking, §efalse§r otherwise.
+§etrue§r if the player is sprinting, §efalse§r otherwise.
+§etrue§r if the player is invisible, §efalse§r otherwise.
+§etrue§r if the player is eating, §efalse§r otherwise.
+§etrue§r if the player is flying, §efalse§r otherwise.
+Player's X chunk coordinate.
+Player's Z chunk coordinate.
+Player's X chunk offset coordinate (0-15).
+Player's Y chunk offset coordinate (0-15).
+Player's Z chunk offset coordinate (0-15).
+Player's X coordinate.
+Player's Y coordinate.
+Player's Y coordinate (eye level).
+Player's Z coordinate.
+Player's X coordinate rounded to the closest whole number.
+Player's Y coordinate rounded to the closest whole number.
+Player's Y coordinate rounded to the closest whole number (eye level).
+Player's Z coordinate rounded to the closest whole number.
+Player's speed.
+Player's speed along the x axis.
+Player's speed along the y axis.
+Player's speed along the z axis.
+Player's speed horizontally.
+Player's pitch in degrees from -90 to +90.
+Player's direction in degrees from -180 to +180.
+Rough direction the player is currently facing (South, West, North, East).
+Fine direction the player is currently facing (South, South West, West, North West, ...).
+Abbreviated rough direction the player is currently facing (S, W, N, E).
+Abbreviated fine direction the player is currently facing (S, SW, W, NW, ...).
+Axis direction the player is currently facing (+Z, -X, -Z, +X).
+A small textual direction HUD.
+Long axis direction the player is currently facing (like F3 debug screen).
+Name of the x-th potion effect.
+Duration of the x-th potion effect in seconds.
+Duration of the x-th potion effect in ticks.
+§etrue§r if the potion effect is negative, §efalse§r otherwise.
+Icon of the x-th potion effect.
+Large icon of the x-th potion effect.
+§etrue§r if the player is riding a horse, §efalse§r otherwise.
+Horse's health.
+Horse's maximum health.
+Horse's speed.
+Horse's jump strength.
+ID of the current season, startint at 0 (Spring).
+The current season.
+ID of the current subseason, starting at 0 (Early Spring).
+The current sub season.
+The current tropical season.
+Duration of an entire cycle (a 'year') in ticks.
+Time elapsed for the current cycle (a 'year') in ticks.
+Duration of a single day in ticks.
+Day of the current season.
+Duration of a single season in ticks.
+Number of days elapsed.
+Duration of a single sub season in ticks.
+Minecraft day, starting from 0.
+Minecraft hour.
+Minecraft minute.
+Minecraft time (24 hour format).
+Minecraft time (12 hour format).
+Real time (24 hour format).
+Real time (12 hour format).
+World name.
+World size.
+World size in MiB.
+World seed.
+World difficulty name.
+World difficulty id.
+Local difficulty.
+Dimension name.
+Dimension id.
+Biome name.
+Biome id.
+Moon phase.
+§etrue§r if it's daytime, §efalse§r otherwise.
+§etrue§r if it's raining, §efalse§r otherwise.
+§etrue§r if it's thundering, §efalse§r otherwise.
+§etrue§r if it's snowing, §efalse§r otherwise.
+Time until the next weather change.
+§etrue§r if slimes can spawn, §efalse§r otherwise.
+§etrue§r if the current chunk is a slime chunk, §efalse§r otherwise.
+§etrue§r if the world is in hardcore mode, §efalse§r otherwise.
+Biome temperature.
+Biome temperature at your current position.
+Biome humidity.
+Local difficulty clamped.
+Simple Text Overlay
+Toggle Overlay
+Cycle Overlays
+/sto <reload|load|save|enable|disable|taglist|config|cycle> [filename]
+Reloading...
+Loading %s...
+Saving %s...
+Done!
+Something went wrong!
+Simple Text Overlay is now enabled.
+Simple Text Overlay is now disabled.
+Unknown command!
+Filename required!
+Spring
+Summer
+Autumn
+Winter
+Early Spring
+Mid Spring
+Late Spring
+Early Summer
+Mid Summer
+Late Summer
+Early Autumn
+Mid Autumn
+Late Autumn
+Early Winter
+Mid Winter
+Late Winter
+Early Dry
+Mid Dry
+Late Dry
+Early Wet
+Mid Wet
+Late Wet
+Armor temperature offset int (-25 to 25).
+Armor temperature offset celcius (-48.3 to 48.3).
+Armor temperature offset fahrenheit (-118.94 to 118.94).
+Body temperature int (0 to 25).
+Body temperature celcius (34.33 to 39.88).
+Body temperature fahrenheit (93.80 to 103.80).
+Environment temperature int (0 to 25).
+Environment temperature celcius (-4.2 to 48.3).
+Environment temperature farenheit (24.44 to 118.94).
+Normal Warp.
+Permanent Warp.
+Temporary Warp.

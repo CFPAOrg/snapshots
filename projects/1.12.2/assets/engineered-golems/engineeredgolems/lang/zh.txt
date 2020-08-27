@@ -1,0 +1,18 @@
+Engineered Golems
+Dapper Steel Plate
+Engineered Golems
+Material Studies: Steel
+Steel is quite durable, more so than iron. It has a certain rigidity to it, similar to thaumium.
+Examine Blocks of Steel
+Material Studies: Treated Wood
+Treated Wood is of higher quality than normal wood. Due to its oil-laden nature, however, it is not as light.
+Examine Treated Wood Planks
+OwO What's this?
+Hmm? Someone left a crumpled up piece of paper on my research desk. It says "Voxel was here!" Who even IS that? And dont litter! Jerk... He even doodled a picture of a golem (in a rather dapper looking outfit) into my Thaumonomicon. Now I want to dress up my new steel golems!
+Examine a Dapper Steel Plate
+Steel
+This golem is crafted from steel. It is heavy and clumsy, but sturdier than most materials. It is resistant to explosions and fireproof.
+Treated Wood
+This golem is crafted from treated wood. It is well lubricated, allowing it to perform complicated tasks with ease.
+Dapper Steel
+This golem looks familiar... It must be your imagination. It IS rather dapper, though!

@@ -1,0 +1,5 @@
+biomeborders.config.title=Biome Borders Settings
+biomeborders.config.name=Biome Borders Revived
+biomeborders.config.radius=Drawing Radius (Chunks)
+biomeborders.config.lineheight=Border Line Height (Blocks)
+biomeborders.control.toggle=Toggle Biome Borders

@@ -1,0 +1,462 @@
+Gameboy
+Dark Matter
+Red Matter
+Iron Rod
+Cleaner
+Airhorn
+Match
+Handheld Air Raid Siren
+Duct Tape
+Pizza
+Lasagna
+Coke
+Coke Can
+Pepsi
+Pepsi Can
+Mountain Dew
+Mountain Dew Can
+Dr.Pepper
+Dr.Pepper Can
+Rootbeer
+Rootbeer Can
+Orange Soda
+Orange Soda Can
+Taco
+Burrito
+Cheese
+Cheese Bread
+Chocolate Bar
+Waffle
+Apple Pie
+Pizza
+Pickle
+Doughnut
+Hotdog
+Orange
+Pear
+Tomato
+Banana
+Blueberry
+Dog Food
+Ice Cream
+Cone
+Raw Bacon
+Cooked Bacon
+Blueberry Pie
+Fries
+Fried Chicken
+Fish Sticks
+Can of Beans
+Cooked Can of Beans
+Burger
+Aloe Vera Leaf
+Basic Chip
+Advanced Chip
+Elite Chip
+Lightbulb
+Raw Rubber
+Rubber Bar
+Raw Plastic
+Plastic Sheet
+Copper Ingot
+Tin Ingot
+Aluminum Ingot
+Steel Ingot
+Bronze Ingot
+Copper Plate
+Tin Plate
+Aluminum Plate
+Iron Plate
+Steel Plate
+Bronze Plate
+Raw Uranium
+Uranium Rod
+Refined Uranium
+Sulfur
+Copper Wire
+Insulated Wire
+Gear
+Chainsaw
+Drill
+Machete
+Steel Pickaxe
+Steel Axe
+Steel Shovel
+Steel Hoe
+Steel Sword
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Bronze Pickaxe
+Bronze Axe
+Bronze Shovel
+Bronze Hoe
+Bronze Sword
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Shotgun
+Shotgun Shell
+Hammer
+Cutter
+Mininuke
+Mininuke Launcher
+Nifty Block
+Wooden Scaffold
+Iron Scaffold
+Rich Gravel
+Ancient Wood Planks
+Ancient Cobblestone
+Ancient Gravel
+Ancient Fence
+Ancient Fence Gate
+Red Oak Sapling
+Red Oak Logs
+Red Oak Leaves
+Red Oak Wood Planks
+Red Oak Fence
+Red Oak Fence Gate
+Maple Sapling
+Maple Logs
+Maple Leaves
+Maple Wood Planks
+Maple Fence
+Maple Fence Gate
+Ancient Wood Stairs
+Maple Wood Stairs
+Red Oak Wood Stairs
+Ancient Wood Slab
+Maple Wood Slab
+Red Oak Wood Slab
+Rubber Sapling
+Rubber Logs
+Rubber Leaves
+Blueberry Bush
+Copper Ore
+Tin Ore
+Aluminum Ore
+Uranium Ore
+Sulfur Ore
+Block of Copper
+Block of Tin 
+Block of Aluminum 
+Block of Uranium
+Block of Sulfur
+Block of Steel 
+Block of Bronze 
+Block of Rubber
+Block of Dark Matter
+Block of Red Matter
+Framed Glass
+Wooden Framed Glass
+Framed Glass Pane
+Wooden Framed Glass Pane
+Chain Link Fence
+Marble
+Marble Tile
+Marble Chiseled
+Marble Bricks
+Marble Bricks Small
+Marble Slab
+Slate
+Slate Tile
+Slate Chiseled
+Slate Bricks
+Slate Bricks Small
+Slate Slab
+Adobe
+Adobe Tile
+Adobe Chiseled
+Adobe Bricks
+Adobe Bricks Small
+Adobe Slab
+Limestone
+Limestone Tile
+Limestone Chiseled
+Limestone Bricks
+Limestone Bricks Small
+Limestone Slab
+Andesite Chiseled
+Andesite Bricks
+Andesite Bricks Small
+Granite Chiseled
+Granite Bricks
+Granite Bricks Small
+Diorite Chiseled
+Diorite Bricks
+Diorite Bricks Small
+Large Bricks
+Brick Tile
+Brick Chiseled
+Brick Pillar
+Black Checkered Tiles
+Blue Checkered Tiles
+Light Blue Checkered Tiles
+Green Checkered Tiles
+Orange Checkered Tiles
+Purple Checkered Tiles
+Yellow Checkered Tiles
+Red Checkered Tiles
+Brown Checkered Tiles
+Pink Checkered Tiles
+Lime Checkered Tiles
+Cyan Checkered Tiles
+Magenta Checkered Tiles
+Black Lamp
+Blue Lamp
+Light Blue Lamp
+Green Lamp
+Orange Lamp
+Purple Lamp
+Yellow Lamp
+Red Lamp
+Brown Lamp
+Pink Lamp
+Lime Lamp
+Cyan Lamp
+Magenta Lamp
+White Lamp
+Grey Lamp
+Light Grey Lamp
+Black Flasher
+Blue Flasher
+Light Blue Flasher
+Green Flasher
+Orange Flasher
+Purple Flasher
+Yellow Flasher
+Red Flasher
+Brown Flasher
+Pink Flasher
+Lime Flasher
+Cyan Flasher
+Magenta Flasher
+White Flasher
+Grey Flasher
+Light Grey Flasher
+Maple Door
+Red Oak Door
+Glass Door
+Black Stained Glass Door
+Blue Stained Glass Door
+Light Blue Stained Glass Door
+Green Stained Glass Door
+Orange Stained Glass Door
+Purple Stained Glass Door
+Yellow Stained Glass Door
+Red Stained Glass Door
+Brown Stained Glass Door
+Pink Stained Glass Door
+Lime Stained Glass Door
+Cyan Stained Glass Door
+Magenta Stained Glass Door
+White Stained Glass Door
+Grey Stained Glass Door
+Light Grey Stained Glass Door
+Oak Lamp
+Birch Lamp
+Spruce Lamp
+Jungle Lamp
+Dark Oak Lamp
+Acacia Lamp
+Red Oak Lamp
+Maple Lamp
+Ancient Lamp
+Black Flag
+Blue Flag
+Light Blue Flag
+Green Flag
+Orange Flag
+Purple Flag
+Yellow Flag
+Red Flag
+Brown Flag
+Pink Flag
+Lime Flag
+Cyan Flag
+Magenta Flag
+White Flag
+Grey Flag
+Light Grey Flag
+American Flag
+Canadian Flag
+British Flag
+ Flag
+Chinese Flag
+Japanese Flag
+Russian Flag
+German Flag
+English Flag
+French Flag
+Soviet Flag
+Mexican Flag
+European Flag
+Italian Flag
+Spanish Flag
+Portuguese Flag
+South Korean Flag
+North Korean Flag
+Polish Flag
+Brazilian Flag
+Rainbow Flag
+Pirate Flag
+Nifty Flag
+Sun Lamp
+Moon Lamp
+Asphalt
+White Asphalt
+Yellow Asphalt
+Grey Asphalt
+Black Bricks
+Blue Bricks
+Light Blue Bricks
+Green Bricks
+Orange Bricks
+Purple Bricks
+Yellow Bricks
+Red Bricks
+Brown Bricks
+Pink Bricks
+Lime Bricks
+Magenta Bricks
+Cyan Bricks
+Grey Bricks
+Light Grey Bricks
+White Bricks
+Snow Bricks
+Small Snow Bricks
+Black Planks
+Blue Planks
+Light Blue Planks
+Green Planks
+Orange Planks
+Purple Planks
+Yellow Planks
+Red Planks
+Brown Planks
+Pink Planks
+Lime Planks
+Magenta Planks
+Cyan Planks
+Grey Planks
+Light Grey Planks
+White Planks
+Aloe Vera
+Red Cosmos
+White Cosmos
+Orange Cosmos
+Yellow Cosmos
+Pink Cosmos
+Blue Cosmos
+Alloy Smelter
+Crate
+Deep Fryer
+Deep Fryer
+Campstove
+Campstove
+Acid
+Lawn Flamingo
+Barrel
+Hazard Barrel
+Oil Barrel
+Safety Pole
+Traffic Cone
+Traffic Barrel
+Vending Machine
+Open Sign
+Stop Sign
+Crosswalk Sign
+Do Not Enter Sign
+Tunnel Sign
+Roundabout Sign
+Construction Sign
+No Exit Sign
+Crossroad Sign
+Yield Sign
+No Parking Sign
+No Stopping Sign
+Gravel Road Sign
+Junction Sign
+Ends Sign
+Traffic Light Sign
+Open Bridge Sign
+3 Way Sign
+4 Way Sign
+Winding Roads Sign
+Business Sign
+North Sign
+East Sign
+South Sign
+West Sign
+Left Arrow Sign
+Right Arrow Sign
+Left Sign
+Right Sign
+Left Added Lane Sign
+Right Added Lane Sign
+Left Lane Ends Sign
+Right Lane EndsSign
+Left Curve Sign
+Right Curve Sign
+Left Double Curve Sign
+Right Double Curve Sign
+Left Sharp Curve Sign
+Right Sharp Curve Sign
+Left Obstruction Sign
+Right Obstruction Sign
+Left Sharp Turn Sign
+Right Sharp Turn Sign
+No Left Turn Sign
+No Right Turn Sign
+Left Side Road Sign
+Right Side Road Sign
+Left Oneway Sign
+Right Oneway Sign
+Slow Sign
+Fallout Shelter Sign
+Radiation Warning Sign
+Keep Out Sign
+Railroad Sign
+Railroad Ahead Sign
+Narrow Road Sign
+Narrow Bridge Sign
+5 km/h Sign
+10 km/h Sign
+15 km/h Sign
+20 km/h Sign
+25 km/h Sign
+30 km/h Sign
+40 km/h Sign
+50 km/h Sign
+60 km/h Sign
+70 km/h Sign
+80 km/h Sign
+90 km/h Sign
+100 km/h Sign
+110 km/h Sign
+120 km/h Sign
+130 km/h Sign
+140 km/h Sign
+Tomato Crop
+Flax Crop
+Flax Crop
+Orange Crop
+Orange Crop
+Pear Crop
+Pear Crop
+Metal Post
+Wooden Post
+Traffic Light
+Yellow Traffic Light
+Street Light
+Tomato Seeds
+Flax Seeds
+Orange Seeds
+Pear Seeds
+Tube Light
+NiftyBlocks
+NiftyBlocks: Signs
+NiftyBlocks: Flags
+Deep Fryer

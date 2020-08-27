@@ -1,0 +1,9 @@
+§cCan't create output folder. Obj file won't be created.
+§cCan't create output file. Obj file won't be created.
+§aObj file was successfully generated.
+Available commands:
+/timecore help - Prints available commands with their usages
+/timecore genobj <entityKey> - Generates obj file for given entity.
+Use "/timecore help" to see available commands.
+You wrote unknown entity. Use TAB to auto-complete entity name.
+You wrote entity that is not a living creature.

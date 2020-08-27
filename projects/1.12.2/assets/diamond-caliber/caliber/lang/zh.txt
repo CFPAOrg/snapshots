@@ -1,0 +1,193 @@
+Goliath MkIV
+Diamond Caliber Objects
+Diamond Caliber Blocks
+Diamond Caliber Armor
+Diamond Caliber Parts
+Diamond Caliber Weapons
+Toggle Nightvision
+Diamond Caliber
+Scorpion
+Legion Soldier
+Bandit
+Milita Soldier
+Legion General
+Hostage
+Rifleman
+Scout
+Marksman
+Support
+Workshop
+Deployable Shield
+Camo <Redstone>
+Camo <Lightning>
+Camo <Volcanic>
+Camo <Fade>
+Camo <Forest>
+Camo <Desert>
+Camo <Default>
+Medal <Goliath>
+Adrenaline Pills
+Medical Kit
+Node
+Loadout
+Music Disc
+Hostile Lands
+Music Disc
+Crysis 2 Epilogue Hans Zimmer
+Skin Bench
+Work Shop
+Frag Grenade
+Impact Grenade
+Carbon Fibre
+Steel Ingot
+Copper Ingot
+Optical Lense
+Carbon Mixture
+Mod Icon
+Parts
+Encrypted Codes
+Cloth
+Kevlar Padding
+Hostage Icon
+Ranger Helmet
+Ranger Vest
+Ranger Pants
+Night Operator Helmet
+Night Operator Vest
+Night Operator Pants
+Water Operator Helmet
+Water Operator Shirt
+Water Operator Pants
+GIGN Helmet
+GIGN Vest
+GIGN Pants
+Advanced Gasmask
+Advanced Suit
+Advanced Pants
+Vector Helmet
+Vector Shirt
+Vector Pants
+Combat Helmet
+Combat Vest
+Combat Pants
+Ghillie Hat
+Ghillie Suit
+Ghillie Pants
+Hazmat Helmet
+Hazmat Suit
+Hazmat Pants
+Captain's Hat
+Captain's Shirt
+Captain's Pants
+Juggernaut Helmet
+Juggernaut Chestplate
+Juggernaut Leggings
+Marine Helmet
+Marine Shirt
+Marine Pants
+Night Vision Goggles
+Panoramic Night Vision Goggles
+Holographic Scope
+Acog Scope
+Sniper Scope
+Reddot Scope
+Aimpoint Scope
+Carbon Rifle Caliber
+Iron Rifle Caliber
+Shotgun Caliber
+Carbon Pistol Caliber
+Iron Pistol Caliber
+Tactical Stock
+Foldable Stock
+Compact Stock
+Wooden Compact Stock
+5.56*55mm Clip
+7.62*45mm Clip
+.45 ACP Clip
+9mm Clip
+7.62*45mm DMR Clip
+.338 Sniper Clip
+12 Gauge Shotgun Shell
+Rotary Lamp
+Blue Paint
+Red Paint
+Green Paint
+Orange Paint
+Medal <Legion General>
+Weapon Case
+Sandbags
+Concrete Bricks
+Barbed Wire
+Steel Ore
+Asphalt
+Concrete Bricks
+Skin Bench
+Laboratory Glass
+Laboratory Stone
+Laboratory Stone <Charged>
+Laser
+Polished Asphalt
+Polished Asphalt <Cracked>
+Medical Case
+Loot Case
+Small Ceiling Fan
+Node
+Copper Ore
+A gas-operated rifle designed with a self-rotating bolt. Constructed to be extremely Modular. 
+A battery powered PDW designed with a plasma generator. Equipped with a MBU S-Red Dot.
+A bolt-action sniper rifle. A popular rifle among past civilians and police.
+A short-recoil operated, locked-breech semi-automatic pistol. The top performer in reliability.
+A gas-operated battlerifle with a tilting breechblock.
+A .45 ACP Fed SMG with large accuracy and high volume of automatic fire.
+A modernized variant of the AK-47, a gas-operated rifle with a rotating bolt.
+A gas-operated rifle with a high impact but semi-automatic fire.
+An open-bolted, blockback-operated submachine gun. One of the first weapons to use a telescoping bolt.
+A gun based on the AR-15 class of weapons. Using an HK-proprietary short-stroke gas piston system.
+A 5.56x45mm assault rifle designed in Germany as a replacement for the heavier 7.62mm G3 battle rifle.
+A lightweight AK-47 and modified to be in the SMG category.
+A semi-automatic pistol that uses .45 ACP rounds.
+A SMG used in WW1 as the first submachine gun used in combat by the German Army.
+A SMG designed in 2006 that uses an unconventional delayed blowback system combined to reduce recoil and muzzle climb.
+The M4 is a 5.56×45mm NATO, air-cooled, direct impingement gas-operated, magazine-fed carbine.
+A carbine variant of the HK416.
+The RPK is a 7.62x39mm light machine gun that is part of the AK family. 
+The Mk 14 Enhanced Battle Rifle is a military designated marksman rifle chambered for the 7.62x51mm NATO cartridge.
+A tactical shotgun holding 5 12 gauge shotgun shells, very short range yet very powerful
+Stat Track
+Upgraded Caliber
+Recoil Control
+Bullet Effect
+G52 - Tactical Shield
+Scar H
+Scar H
+Glock 18
+Glock 18
+L69A1
+Sting PDW
+Thompson
+HK416
+AKM
+CR4-C
+MK14 EBR
+HK416-C
+RPK
+FN Fal
+Micro Uzi
+G36
+G36 Tactical
+AKS-74U
+MP18
+P250
+Kriss Vector
+M4A1
+AK-12
+Tactical Shotgun
+DISCORD
+WEBSITE
+MODS
+SOLO
+MULTIPLAYER
+OPTIONS
+QUIT
+Main Menu
+Diamond Caliber

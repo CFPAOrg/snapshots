@@ -1,0 +1,76 @@
+Maximum upgrades per chest: %s
+Required Upgrades:
+Can be put on a BetterChest
+Can be put on a BetterBackpack
+Can be put on a BetterBarrel
+Can be put on a Better Portable Barrel
+Can be put on a BetterTank
+Requires %sFE power per operation.
+Provides %sFE power per tick.
+Increases power capacity by %sFE
+Can be opened with the %s key.
+Contains: %s
+Amount: %s
+Current side: North
+Current side: East
+Current side: South
+Current side: West
+Current side: Up
+Current side: Down
+Current side: All
+BetterChests
+%s was slain by a Killing Upgrade in a BetterChest
+Upgrades
+Filter
+Open BetterBackpack
+Betterchests
+Power:
+%sFE / %sFE
+Some upgrades can be disabled by middle-clicking them.
+Some upgrades need power to work. Power can be supplied by upgrades or externally with cables.
+If a upgrade does not work as expected, try adding a filter to it.
+Blacklist mode
+Whitelist mode
+Compare damage
+Do not compare damage
+Meta
+Compare NBT
+Do not compare NBT
+NBT
+Filters can be restricted to individual upgrades, by selecting the upgrade in the rightmost slot.
+BetterChest
+BetterBarrel
+BetterTank
+BetterBackpack
+Better Portable Barrel
+Whitelist Filter
+Blacklist Filter
+Normal chest to BetterChest Upgrade
+Chest Pickup Tool
+Upgrade case
+Size Upgrade
+Cobblegen Upgrade
+Redstone Upgrade (Player count)
+Comparator Upgrade (Item count)
+Void Upgrade
+Unbreakable Upgrade
+Water Upgrade
+Smelting Upgrade
+Ticking Upgrade
+Collector Upgrade
+Farming Upgrade (Planting)
+Farming Upgrade (Harvesting)
+Blocking Upgrade
+Breeding Upgrade
+Feeding Upgrade
+Resupply Upgrade
+Killing Upgrade
+Animal Upgrade
+Charging Upgrade
+Capacitor Energy Upgrade
+Solar Energy Upgrade
+Fueled Energy Upgrade
+Creative Energy Upgrade
+AI Upgrade
+Placer Upgrade
+Breaker Upgrade

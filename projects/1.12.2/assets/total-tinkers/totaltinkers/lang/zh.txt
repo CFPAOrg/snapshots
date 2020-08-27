@@ -1,0 +1,37 @@
+Greatblade
+Battleaxe
+Cutlass
+Javelin
+Dagger
+Crossbow
+Scimitar
+Explosive Bow
+Explosive Arrow
+Full Guard
+Greatblade Core
+Explosion Catalyzer
+The Great Equalizer. The heavy Greatblade sacrifices raw damage for enemy percent HP damage, and excels vs bosses. Slow, Requires two hands!
+The Battleaxe is a heavy offensive weapon. As a berserker, you deal and take significantly more damage. \n It is capable of bringing down small trees.
+The Cutlass is a weapon for those of great skill, or those who think they have it and want to show off. On critical hits, a short burst of speed is granted.
+Ranged Melee weapon hybrid. Potent as a melee weapon, devastating at range.
+The Crossbow is a slow but very powerful weapon. It has to be loaded beforehand, but can be fired at any moment afterwards.\nUses Tinkers' Bolts.
+The Dagger is a short blade that can not be thrown.
+The scimitar is a sharp, lightweight blade focused on bleeding enemies to death.
+A special bow variant that catalyzes materials when activated. Shoots explosive arrows.
+Special heavy tipped arrows designed to be shot from a rail. Used in explosive bow.
+Catalyzing
+Explosions have additional range due to additional catalyzation efficiency
+Explosion Radius
+Explosion Catalyzer
+Enemy Maximum HP Damage: §9%1$,.2f%%
+§9+%1$,.2f%% Enemy Maximum HP Damage
+§9Enemy HP Based Damage to Bosses: +%1$,.2f%%
+§cEnemy HP Based Damage to Bosses: -%1$,.2f%%
+§c%1$,.2fx damage taken
+§c%1$,.2fs bleed duration
+Bleed duration: §c%1$,.2fs
+Perhaps your villager friends may help out with this?
+Can be found in end ships
+Berserker
+Hemorrhage
+%1$s died due to exsanguination

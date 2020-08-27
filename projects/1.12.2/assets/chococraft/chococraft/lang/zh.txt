@@ -1,0 +1,55 @@
+Gysahl Green
+Chocobo Egg
+Chocobo Nest
+Chocobo
+Gysahl Green
+Gysahl Green Seeds
+Lovely Gysahl Green
+Raw Pickled Gysahl Green
+Baked Pickled Gysahl Green
+Chocopedia
+Use on a chocobo to view its stats
+Chocobo Saddle
+Raw Chocobo Drumstick
+Cooked Chocobo Drumstick
+Yellow Chocobo Spawn Egg
+Green Chocobo Spawn Egg
+Blue Chocobo Spawn Egg
+White Chocobo Spawn Egg
+Black Chocobo Spawn Egg
+Golden Chocobo Spawn Egg
+Pink Chocobo Spawn Egg
+Red Chocobo Spawn Egg
+Purple Chocobo Spawn Egg
+Spike Fruit
+Teaches a chocobo the sprint ability
+Aeroshroom
+Teaches a chocobo the glide ability
+Aqua Berry
+Teaches a chocobo the dive ability
+Dead Pepper
+Teaches a chocobo the flight ability
+§cInvalid Egg
+Mother: %s / %s / %s
+Father: %s / %s / %s
+§cTame failed
+§aTame succeeded
+Saddle applied
+World
+Gysahl Green Spawn Weight
+Gysahl Green Patch Size
+Invalid parameters
+Set %s to %s
+Level: %s
+Health: %s
+Resitance: %s
+Speed: %s
+Stamina: %s
+Can Sprint: §cfalse
+Can Sprint: §atrue
+Can Dive: §cfalse
+Can Dive: §atrue
+Can Glide: §cfalse
+Can Glide: §atrue
+Can Fly: §cfalse
+Can Fly: §atrue

@@ -1,0 +1,17 @@
+Cube Loader
+Unload Detector
+§4Warning: has not been tested. Use at your own risk.
+Cube Loader
+Enable
+Disable
+X Radius: 
+Y Radius: 
+Z Radius: 
+Disabled
+Out of Fuel
+Enabled
+Owner: %s
+Unknown
+%s cubes loaded
+%s cube loaded
+Can't enable, over cap

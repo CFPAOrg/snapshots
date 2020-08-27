@@ -1,0 +1,45 @@
+ADDSynth Energy
+Power Core
+Advanced Power Core
+Energy Wire
+Generator
+Compressor
+Energy Storage Container
+Universal Energy Interface
+Electric Furnace
+Energy
+Energy Stored
+Energy Usage
+Mode
+Status
+Time Left
+Charge Time Remaining
+Time to Full Charge
+No Energy Change
+tick
+Use Energy Wire to connect all your machines together to transfer energy.
+This will store any excess energy that you generate, up to 1 million units of Energy.
+This machine works just like a regular Furnace except it runs off of electricity. 1,000 units Energy will perform 1 smelting operation.
+The Compressor is used to compress metal ingots into metal plates.
+This machine can interface with other Energy APIs in order to transfer energy to/from other mods.
+Off
+Powering On
+Powering Off
+Idle
+Working
+On
+Off
+Bi-Directional
+Receive Only
+Extract Only
+External Only
+Internal Only
+No Transfer
+ADDSynth Energy
+Energy Library for all of ADDSynth's mods.
+Electric Furnace
+Craft an Electric Furnace
+Energy Storage
+Craft an Energy Storage Container
+Universal Energy Interface
+Craft a Universal Energy Interface

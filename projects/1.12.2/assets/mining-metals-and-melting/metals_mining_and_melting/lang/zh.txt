@@ -1,0 +1,24 @@
+Coal Andesite Ore
+Coal Diorite Ore
+Coal Granite Ore
+Iron Andesite Ore
+Iron Diorite Ore
+Iron Granite Ore
+Gold Andesite Ore
+Gold Diorite Ore
+Gold Granite Ore
+Gold Gravel Ore
+Gold Netherrack Ore
+Gold Terracotta Ore
+Lapis Lazuli Andesite Ore
+Lapis Lazuli Diorite Ore
+Lapis Lazuli Granite Ore
+Diamond Andesite Ore
+Diamond Diorite Ore
+Diamond Granite Ore
+Emerald Andesite Ore
+Emerald Diorite Ore
+Emerald Granite Ore
+Redstone Andesite Ore
+Redstone Diorite Ore
+Redstone Granite Ore

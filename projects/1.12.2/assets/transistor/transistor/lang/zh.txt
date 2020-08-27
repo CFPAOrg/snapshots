@@ -1,0 +1,31 @@
+Transistor
+Function
+Empty
+Configure
+Energy
+Memory
+XP
+Locked!
+Effects
+Available Points
+Available Functions
+Cooldown
+In use as %s
+Attack %d
+Upgrade %d for Attack %d
+Passive %d
+Costs 1 Point
+Costs 2 Points
+Click to Install More Memory
+Install Memory?
+Click to Unlock Upgrade Slot
+Unlock Upgrade Slot?
+Click to Unlock Passive Slot
+Unlock Passive Slot?
+No Effect
+Entities Hit by Projectiles Glow
+Projectiles Split Into 3
+Poisons Entities
+Withers and Weakens Entities
+Speed: 200%%, Damage: 75%%
+Damage: 200%%, Speed: 75%%

@@ -1,0 +1,32 @@
+Limestone Pickaxe
+Limestone Axe
+Limestone Shovel
+Limestone Hoe
+Limestone Sword
+Limestone
+Dense Limestone
+Coal Ore
+Iron Ore
+Iron Ore
+Gold Ore
+Diamond Ore
+Lapis Lazuli Ore
+Redstone Ore
+Frozen Stone
+Dense Frozen Stone
+Coal Ore
+Iron Ore
+Iron Ore
+Gold Ore
+Diamond Ore
+Lapis Lazuli Ore
+Redstone Ore
+Ice Stairs
+Dense Stone
+Coal Ore
+Iron Ore
+Gold Ore
+Diamond Ore
+Lapis Lazuli Ore
+Redstone Ore
+Emerald Ore

@@ -1,0 +1,4 @@
+Time for Flashing
+The number of seconds the item has left before despawn to start flashing
+Urgent Flashing
+Set to true to have the item flash faster as it gets closer to despawning

@@ -1,0 +1,42 @@
+Coal Ore
+Iron Ore
+Gold Ore
+Redstone Ore
+Redstone Ore
+Lapis Lazuli Ore
+Diamond Ore
+Emerald Ore
+Quartz Ore
+Copper Ore
+Tin Ore
+Lead Ore
+Nickel Ore
+Silver Ore
+Aluminum Ore
+Platinum Ore
+Iridium Ore
+Mithril Ore
+Uranium Ore
+Osmium Ore
+Ardite Ore
+Cobalt Ore
+Molten Octine
+Molten Syrmorite
+Metal Ore
+Control the metal ores
+Copper Ore Enable
+Tin Ore Enable
+Lead Ore Enable
+Nickel Ore Enable
+Silver Ore Enable
+Aluminum Ore Enable
+Platinum Ore Enable
+Iridium Ore Enable
+Mithril Ore Enable
+Uranium Ore Enable
+Osmium Ore Enable
+Ardite Ore Enable
+Cobalt Ore Enable
+Compat
+Compatibility with other mods
+Mod Priority

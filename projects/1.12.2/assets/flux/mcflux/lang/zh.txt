@@ -1,0 +1,77 @@
+Minecraft-Flux Configuration
+Amount of MF needed to convert from/into 1 EU (IC2)
+World Chunk Energy capacity
+Energy transferred per tick by Energy Distributor
+Energy transferred per tick by Chunk Charger
+Energy capacity for Furnace
+Energy use for Mob Spawner to speed up.\nIt requires N or more MF/t, otherwise Mob Spawner runs as normal.
+When something is not completely initialized and Minecraft-Flux causes a crash then it creates and sends a crash report online
+[THIS IS TEMPORARY]
+Are you scared of darkness? Turn it on and sleep more safely!
+/sgive <player> <id>
+There is no Special Event with ID %s.
+[§cMCFlux Event§r] %s
+[§cMCFlux Event§r] This event has ended!
+Energy Type: %s
+Flux Energy Generator
+Speed
+Time
+Length
+This block is
+ with MF from %s.
+ with Flavor Energy from %s.
+This entity is
+ with MF.
+ with Flavor Energy.
+ compatible
+ NOT compatible
+Energy: %s
+Energy: unknown
+MF Compatible
+Transfer: %s MF/t
+World Chunk
+Chip installed
+You reached energy level %s.
+You reached the final level.
+§e[CLICK ME]§r A new update for §eMinecraft-Flux§r was released (§e%s§r)!
+ONE TO ALL
+ALL TO ONE
+Generating %s MF/t
+Converting from:
+Minecraft-Flux
+MF Tool
+Compatibility checker
+Use this tool to check if a block/entity is MF compatible.\nIf it is then MF Tool shows energy stats.
+Flavor Sniffer
+Looking for flavors
+This tool checks compatibility with Flavor Energy.
+MF Upgrade Chip
+Omnomnom!
+EAT IT! Upgrade your energy with this chip.
+Flux Assistant [WIP]
+Your personal assistant!
+[Work In Progress]
+Minecraft-Flux Gift
+Open the present!
+You can get this item only in specified events.
+Energy Distributor
+A medium between World Chunk Energy and blocks.
+Use Energy Distributor when you want to provide simple wireless energy in your world.\nProduces less lag than cables.
+Chunk Charger
+Charges nearby chunks with energy.
+Chunk Charger transfers energy from/to neighbor chunks.\nOne per 16x16x16 chunk should be enough.
+Flavor Distributor
+Transfers Flavor Energy.
+It's a flavored version of Energy Distributor.\nIt transfers flavored energy (like mana).
+Chunk Sprayer
+Charges nearby chunks with Flavor Energy.
+Flavored version of Chunk Sprayer.
+Entity Charger
+Takes energy from nearby blocks or World Chunk Energy
+It doesn't contain any energy.\nConnect an Entity Charger to a nearby block or charge a chunk using Energy Distributor and Chunk Charger.
+Wireless Energy Transferrer (WET)
+Reserve 3x3x3 block space on the front and a block on the back
+The front facing tells you where to use a 3x3x3 area.\nRight-click with EMPTY hand to change modes.\nThis block transfers energy from/to World Chunk Energy when no block was found on the opposite side.
+Flux Energy Generator
+Generates energy.
+This machine uses fuel, catalyst, hot fluid and clean fluid. Only fuel is mandatory.

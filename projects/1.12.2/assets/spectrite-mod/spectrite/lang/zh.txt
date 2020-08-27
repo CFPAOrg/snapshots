@@ -1,0 +1,450 @@
+Blocks
+Blocks
+Update Check
+If this is on, after entering the first world after startup, you will be notified if there are any updates for Spectrite
+Generate Spectrite Dungeon
+If enabled, each world will generate a Spectrite Dungeon
+Generate Spectrite Skull
+If enabled, Spectrite Skull structures will generate
+Items
+Items
+Mobs
+Mobs
+Spectrite Armour Bonuses Mode
+Half Bonuses
+Normal Bonuses
+Overpowered Bonuses
+Mode for how overpowered the Spectrite Armour bonuses are - HALF_BONUSES: Half Bonuses; NORMAL_BONUSES: Normal Bonuses; OVERPOWERED_BONUSES: Overpowered Bonuses
+Spectrite Arrow Damage Mode
+Spectrite Damage
+Explosion
+Explosion + Spectrite Damage
+Mode for what happens when a Spectrite Arrow hits - SPECTRITE_DAMAGE: Spectrite Damage Only; EXPLOSION: Explosion Only; SPECTRITE_DAMAGE_EXPLOSION: Spectrite Damage + Explosion
+Spectrite Chest Enchantment Rate
+Chance that, after 200 ticks, a Spectrite Chest will select a random slot and attempt to enchant the item with Superchromaticity (percentage)
+Spectrite Spawns per Chunk (The End)
+Number of chances that a Spectrite Ore vein will have to spawn in each chunk
+Spectrite Spawns per Chunk (Nether)
+Number of chances that a Spectrite Ore vein will have to spawn in each chunk
+Spectrite Spawns per Chunk
+Number of chances that a Spectrite Ore vein will have to spawn in each chunk
+Spectrite Crystal Effect Range
+Range in blocks from a placed Spectrite Crystal within which the chances of a Spectrite Mob spawning will be increased
+Spectrite Dungeon Chest Mode
+No Spectrite Chests
+High tier only
+Medium and high tiers
+All tiers
+Mode to determine which chests in a Spectrite Dungeon are Spectrite Chests - NONE: No Spectrite Chests; HIGH_TIER_ONLY: High tier chests only; MEDIUM_AND_HIGH_TIER: Medium and high tier chests only; ALL_TIERS: All tiers
+Spectrite Enderman Spectrite Orb Drop Rate
+Chance that a Spectrite Enderman will drop a random Spectrite Orb (percentage)
+Spectrite Max Vein Size (The End)
+Maximum vein size of a Spectrite Ore vein
+Spectrite Max Vein Size (Nether)
+Maximum vein size of a Spectrite Ore vein
+Spectrite Max Vein Size
+Maximum vein size of a Spectrite Ore vein
+Spectrite Max Height (The End)
+Maximum height in blocks that a Spectrite Ore vein will originate
+Spectrite Max Height (Nether)
+Maximum height in blocks that a Spectrite Ore vein will originate
+Spectrite Max Height
+Maximum height in blocks that a Spectrite Ore vein will originate
+Spectrite Min Vein Size (The End)
+Minimum vein size of a Spectrite Ore vein
+Spectrite Min Vein Size (Nether)
+Minimum vein size of a Spectrite Ore vein
+Spectrite Min Vein Size
+Minimum vein size of a Spectrite Ore vein
+Spectrite Min Height (The End)
+Minimum height in blocks that a Spectrite Ore vein will originate
+Spectrite Min Height (Nether)
+Minimum height in blocks that a Spectrite Ore vein will originate
+Spectrite Min Height
+Minimum height in blocks that a Spectrite Ore vein will originate
+Spectrite Mob Armour Drop Rate
+Drop rate for each piece of armour on a Spectrite Mob (percentage)
+Spectrite Mob Arrow Drop Rate
+Drop rate for a Spectrite Mob's Spectrite Arrows (percentage)
+Spectrite Mob Bow Drop Rate
+Drop rate for a Spectrite Mob's Spectrite Bow (percentage)
+Spectrite Mob Spawn Rate (Spectrite Crystal)
+Chance that a mob in range of a Spectrite Crystal will spawn as a Spectrite mob instead (percentage) (overrides Spectrite Mob Spawn Rate)
+Spectrite Mob Legend Sword Rate
+Chance that a Spectrite Mob's Spectrite Sword will be substituted with a Spectrite Legend Blade (percentage)
+Spectrite Mob Perfect Weapon Rate
+Chance that a Spectrite Mob's Spectrite Weapon will be substituted with a Perfect Spectrite Weapon (percentage)
+Spectrite Mob Spawn Rate
+Chance that a mob will spawn as a Spectrite Mob (percentage)
+Spectrite Mob Sword Drop Rate
+Drop rate for a Spectrite Mob's Spectrite Sword (percentage)
+Spectrite Healing Orb Effect Cooldown
+Cooldown in seconds for Spectrite Healing Orb activation
+Spectrite Healing Orb Effect Duration
+Duration in seconds for Spectrite Healing Orb activation effect
+Spectrite Skeleton Sword Rate
+Chance that a Spectrite Skeleton will hold a sword instead of a bow (percentage)
+Spectrite Skull Chest Mode
+No Spectrite Chests
+High tier only
+Medium and high tiers
+All tiers
+Mode to determine which chests in a Spectrite Skull structure are Spectrite Chests - NONE: No Spectrite Chests; HIGH_TIER_ONLY: High tier chests only; BOTH_TIERS: Both medium and high tier chests
+High Tier Chest Rate
+Chance that a Spectrite Skull structure will use the same loot table as the best chest in a Spectrite Dungeon instead of the regular middle tier loot table
+Spectrite Skull Spawn Rate
+Chance that any group of 4 chunks in the Surface or Nether will attempt to spawn a Spectrite Skull structure (percentage)
+Spectrite Skull Surface Generation Rate
+Chance that, when a Spectrite Skull structure spawns in the overworld, it will spawn on the surface
+Spectrite Tool Cooldown
+Cooldown in seconds for Spectrite Tool enhanced uses
+Spectrite Weapon Cooldown
+Cooldown in seconds for Spectrite Weapon/Tool Spectrite Damage attacks
+Spectrite Wither Rod Cooldown
+Cooldown in seconds for Spectrite Wither Rod uses
+Spectrite Wither Rod Griefing
+If enabled, Spectrite Wither Rods can break blocks
+Spectrite Wither Rod Smaller Explosion
+If enabled, make the Spectrite Wither Rod skull explosion a little weaker
+Spectrite Wither Rod Weaker Spectrite Damage
+If enabled, reduce the Spectrite Wither Rod skull Spectrite Damage level by 1
+Spectrite Wither Skeleton Bow Rate
+Chance that a Spectrite Wither Skeleton will hold a bow instead of a sword (percentage)
+Short Spectrite Wither Skeletons
+If enabled, Spectrite Wither Skeletons will use the same height as regular skeletons
+Spectrite Dungeon
+Spectrite Dungeon
+Spectrite Ore
+Spectrite Ore
+Spectrite Skull Structure
+Spectrite Skull Structure
+Spectrite Settings
+%1$s was killed by %2$s using spectrite damage
+%1$s was killed by %2$s using %3$s
+%1$s was dissolved in molten spectrite
+%1$s was dissolved in molten spectrite whilst trying to escape %2$s
+%1$s was killed by spectrite damage
+Agility
+Amphibious
+Berserk
+Endurance
+Lightweight
+Prosperity
+Resilience
+§7No Effects
+Spectrite Damage
+Spectrite Resist
+Spectrite Power
+Superchromaticity
+Spectrite Area Effect Cloud
+Spectrite Arrow
+Spectrite Blaze
+Spectrite Creeper
+Spectrite Crystal
+Spectrite Enderman
+Spectrite Golem
+Spectrite Skeleton
+Spectrite Tipped Arrow
+Spectrite Wither
+Spectrite Wither Skeleton
+Spectrite Wither Skull
+Molten Spectrite
+Diamond Rod
+Spectrite Arrow
+Diamond Spectrite Arrow
+Spectrite Axe
+Diamond Spectrite Axe
+Spectrite Blaze Powder
+Spectrite Blaze Rod
+Spectrite Bone
+Perfect Spectrite Boots
+Spectrite Boots
+Spectrite Bow
+Diamond Spectrite Bow
+Spectrite Brick
+Perfect Spectrite Chestplate
+Spectrite Chestplate
+Spectrite Compass
+Spectrite Crystal
+Spectrite Dust
+Spectrite Gem
+Perfect Spectrite Helmet
+Spectrite Helmet
+Perfect Spectrite Leggings
+Spectrite Leggings
+Perfect Spectrite Orb
+Spectrite Orb
+Spectrite Pickaxe
+Diamond Spectrite Pickaxe
+Spectrite Rod
+Spectrite Shield
+Diamond Spectrite Shield
+Spectrite Shovel
+Diamond Spectrite Shovel
+Spectrite Star
+Spectrite Legend Blade
+Spectrite Sword
+Diamond Spectrite Sword
+Invulnerable Spectrite Wither Skull
+Invulnerable Spectrite Wither Rod
+Spectrite Wither Rod
+Spectrite Wither Skeleton Skull
+Spectrite Wither Skull
+Invulnerable Spectrite Wither Tail
+Spectrite Wither Tail
+Invulnerable Spectrite Wither Torso
+Spectrite Wither Torso
+Spectrite
+§7On impact:
+§9 Spectrite Damage IV@
+§7On impact:
+§9 Spectrite Damage III@
+§7On impact:
+§9 Spectrite Damage II@
+§7When chopping (#s cooldown):
+§9 Chop 9 axe-effective blocks
+§7When attacking (#s cooldown):
+§9 Spectrite Damage II@
+§7When chopping (#s cooldown):
+§9 Chop 5 axe-effective blocks
+§7When attacking (#s cooldown):
+§9 Spectrite Damage I@
+§9 +1 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +2 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +4 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance III@
+§9 +0.5 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +1 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +2 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II@
+§7On Spectrite Arrow fired:
+§9 Bow item damage -97%
+§9 Spectrite Arrow cooldown -50%@
+§7On Spectrite Arrow fired:
+§9 Bow item damage -97%@
+§7On Spectrite Arrow fired:
+§9 Bow item damage -90%@
+§9 +4 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +8 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +16 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance III@
+§9 +2 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +4 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +8 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II@
+Increases the chance of nearby Spectrite mob spawns@
+§9 +2 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +4 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +8 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance III@
+§9 +1 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +2 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +4 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II@
+§9 +3 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +6 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance II@
+§9 +12 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II
+§7Superchromaticity set bonus:
+§9 Spectrite Resistance III@
+§9 +1.5 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +3 Max Health
+§7Set bonus:
+§9 Spectrite Resistance I@
+§9 +6 Max Health
+§7Set bonus:
+§9 Spectrite Resistance II@
+ (%.2fs)
+ I
+ II
+§7When holding:
+§7When activated (%.fs cooldown):
+§7Compatible with %s
+§8Unbreakable
+§7When mining (#s cooldown):
+§9 Mine 9 pickaxe-effective blocks
+§7When attacking (#s cooldown):
+§9 Spectrite Damage II@
+§7When mining (#s cooldown):
+§9 Mine 5 pickaxe-effective blocks
+§7When attacking (#s cooldown):
+§9 Spectrite Damage I@
+§7On Spectrite Damage blocked:
+§9 Spectrite Damage level -3@
+§7On Spectrite Damage blocked:
+§9 Spectrite Damage level -2@
+§7On Spectrite Damage blocked:
+§9 Spectrite Damage level -1@
+§7When digging (#s cooldown):
+§9 Dig 9 shovel-effective blocks
+§7When attacking (#s cooldown):
+§9 Spectrite Damage II@
+§7When digging (#s cooldown):
+§9 Dig 5 shovel-effective blocks
+§7When attacking (#s cooldown):
+§9 Spectrite Damage I@
+§7When attacking (#s cooldown):
+§9 Spectrite Damage IV@
+§7When attacking (#s cooldown):
+§9 Spectrite Damage III@
+§7When attacking (#s cooldown):
+§9 Spectrite Damage II@
+§9 Spectrite Resistance II
+§9 Blast Protection X
+§8 Unbreakable@
+§7When using (#s cooldown):
+§9 Shoot 1 Invulnerable Spectrite Wither Skull
+§7When attacking (#s cooldown):
+§9 Spectrite Damage II
+§8 Unbreakable@
+§7When using (#s cooldown):
+§9 Shoot 1 Spectrite Wither Skull
+§7When attacking (#s cooldown):
+§9 Spectrite Damage I@
+§9 Spectrite Resistance II@
+§9 Spectrite Resistance II
+§9 Blast Protection V@
+Spectrite Lingering Potion
+Lingering Potion of Spectrite Damage
+Lingering Potion of Spectrite Damage
+Lingering Potion of Spectrite Damage
+Lingering Potion of Spectrite Damage
+Lingering Potion of Spectrite Damage
+Lingering Potion of Spectrite Resistance
+Lingering Potion of Spectrite Resistance
+Lingering Potion of Spectrite Resistance
+Lingering Potion of Spectrite Power
+Lingering Potion of Spectrite Power
+Lingering Potion of Spectrite Power
+Spectrite Potion
+Potion of Spectrite Damage
+Potion of Spectrite Damage
+Potion of Spectrite Damage
+Potion of Spectrite Damage
+Potion of Spectrite Damage
+Potion of Spectrite Resistance
+Potion of Spectrite Resistance
+Potion of Spectrite Resistance
+Potion of Spectrite Power
+Potion of Spectrite Power
+Potion of Spectrite Power
+IV
+V
+Spectrite Chest
+Spectrite Skull structures will have a Spectrite Chest instead of a regular chest
+[{"text":"["},{"text":"Download","color":"green","clickEvent":{"action":"open_url","value":"%s"}},{"text":"]","color":"none"}]
+[{"text":"%s","color":"none"},{"text":" was unable to check for updates.","color":"red"}]
+Spectrite
+[{"text":"A new version of "},{"text":"%s","color":"dark_green"},{"text":" is available for {MCVERSION}!","color":"none"}]
+[{"text":"Current Version: "},{"text":"%s","color":"gray"},{"text":", Newest Version: ","color":"none"},{"text":"%s","color":"green"}]
+Spectrite Splash Potion
+Splash Potion of Spectrite Damage
+Splash Potion of Spectrite Damage
+Splash Potion of Spectrite Damage
+Splash Potion of Spectrite Damage
+Splash Potion of Spectrite Damage
+Splash Potion of Spectrite Resistance
+Splash Potion of Spectrite Resistance
+Splash Potion of Spectrite Resistance
+Splash Potion of Spectrite Power
+Splash Potion of Spectrite Power
+Splash Potion of Spectrite Power
+Spectrite Creeper charge
+Large explosion
+Massive Spectrite damage
+Spectrite Wither explosion charging
+Diamond Ladder
+Large Trapped Spectrite Chest
+Large Trapped Spectrite Chest
+Large Spectrite Chest
+Molten Spectrite
+Spectrite Anvil
+Block of Spectrite
+Spectrite Bone Block
+Spectrite Brick Slab
+Spectrite Brick Slab
+Spectrite Brick Stairs
+Spectrite Bricks
+Spectrite Bricks
+Trapped Spectrite Chest
+Trapped Spectrite Chest
+Spectrite Chest
+Spectrite Glass
+Spectrite Ladder
+End Stone Spectrite Ore
+Netherrack Spectrite Ore
+Spectrite Ore
+Spectrite Portal
+Spectrite Sand
+Spectrite Wither Skeleton Skull
+Spectrite Tipped Arrow
+Arrow of Spectrite Damage
+Arrow of Spectrite Damage
+Arrow of Spectrite Damage
+Arrow of Spectrite Damage
+Arrow of Spectrite Damage
+Arrow of Spectrite Resistance
+Arrow of Spectrite Resistance
+Arrow of Spectrite Resistance
+Arrow of Spectrite Power
+Arrow of Spectrite Power
+Arrow of Spectrite Power

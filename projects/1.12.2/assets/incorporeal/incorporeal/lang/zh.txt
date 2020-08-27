@@ -1,0 +1,301 @@
+Incorporeal
+Ticket Conjurer
+Corporea Ticket (blank)
+Corporea Ticket (%sx %s)
+Rod of the Fractured Space
+Red String Liar
+Corporea Inhibitor
+Corporea Solidifier
+Corporea Spark Tinkerer
+Corporea Retainer Evaporator
+Frame Tinkerer
+Frame Screw
+Frame Screw (Reversed)
+Soul Core Frame
+Ender Soul Core
+Corporetic Soul Core
+Blood Soul Core
+Earthen Repeater
+Earthen Comparator
+Red String Tile
+Corporea Tile
+Frosted Red String
+Corporea Bricks
+LokiW
+Red String Tile Slab
+Corporea Tile Slab
+Corporea Brick Slab
+LokiW Slab
+Red String Tile Stairs
+Corporea Tile Stairs
+Corporea Brick Stairs
+LokiW Stairs
+Red String Tile Wall
+Corporea Brick Wall
+LokiW Wall
+LokiW Fence
+LokiW Fence Gate
+Black Unstable Cube
+Red Unstable Cube
+Green Unstable Cube
+Brown Unstable Cube
+Blue Unstable Cube
+Purple Unstable Cube
+Cyan Unstable Cube
+Light Gray Unstable Cube
+Gray Unstable Cube
+Pink Unstable Cube
+Lime Unstable Cube
+Yellow Unstable Cube
+Light Blue Unstable Cube
+Magenta Unstable Cube
+Orange Unstable Cube
+White Unstable Cube
+Forgotten Shrine
+Cygnus Word Pattern: %s
+Cygnus Crystal Cube Pattern: %s
+Master Cygnus Spark
+Cygnus Spark
+Cygnus Ticket
+Cygnus Crystal Cube
+Cygnus Word
+Cygnus Funnel
+Cygnus Retainer
+Sanvocalia
+Sanvocalia Petite
+Teknopathetic
+Teknopathetic
+Sweet Alexum
+Sweet Alexum Petite
+This is so sad
+This is so sad
+Sanvocalia
+Sanvocalia Petite
+Sweet Alexum
+Sweet Alexum Petite
+Corporea
+Cygnus
+&3Sky&7 Knowledge
+Frame Tinkerer
+Swap items in item frames
+The &1Frame Tinkerer&0 is an indispensable tool for any advanced corporeticist. It acts like a &1Spark Tinkerer&0 - drop an item on it, give it a redstone signal, and the item will change places with one in a random nearby &1Item Frame&0. Note that, unlike the &1Spark Tinkerer&0, the &1Frame Tinkerer&0 doesn't have a dedicated inventory to place items. Just dropping the item on top will suffice. They are also pushable with &1Pistons&0.
+Symbiotic Hematophage
+Frame Screw
+Turn items in item frames
+The &1Frame Screw&0 has the ability to rotate the &4Items&0 in &1Item Frames&0. It's a small rod; placing it with either end pointing towards an &1Item Frame&0 and giving it a &4Redstone Signal&0 will cause the item to turn one step. Giving it a gentle tap will make it turn items in the other direction.<br>They are pushable with &1Pistons&0.
+Tokyo shinwa
+Earthen Devices
+Repeaters and comparators - just add water
+&1Redstone Roots&0 can be planted, and will eventually blossom into usable redstone components. Due to their natural construction, they can only be planted on &1Dirt&0-type blocks, but otherwise operate similarly to traditional redstone components.<br>A &1Redstone Root&0 will grow into a random &1Earthen Device&0 when planted.
+&1Earthen Repeaters&0 are repeaters that last exactly one second, over twice as long as the maximum-delay traditional repeater. They are the most common device that a &1Redstone Root&0 will grow into.
+&1Earthen Comparators&0 also have a one-second response and delay time. While they cannot compare redstone signal strengths, and don't have a subtraction mode, they can properly read from chests, item frames, and other comparator-attuned blocks, and will always output either a signal strength of 15 or 0.
+Unstable Cubes
+A decorative relic from a bygone era
+&1Unstable Cubes&0 are curious little critters. They cracke pleasantly and spin in a satisfying way when touched, but other than that, don't seem to do anything useful.
+Throwback Thursday, every day!
+Sweet Alexum
+Plays a beautiful(...?) song
+Legend has it that placing &1Note Blocks&0 around a mana-fed &1Sweet Alexum&0 flower will cause the note blocks to resonate with only the most beautiful of frequencies. For best results, four &1Note Blocks&0 are required to play all of the parts: one above &1sand&0, one above &1wood&0, one above &1rock&0, and one above a block composed of the &1purest balance&0.
+They also say providing the flower with a high-powered &4Redstone Signal&0 will restart the tune while a low-powered signal will merely pause it, and that the &1Sweet Alexum Petite&0 needs the &1Note Blocks&0 to be placed closer but plays the song at a faster clip.<br>I wonder if these legends have any truth to them?
+This is so sad.
+Rod of the Fractured Space
+Send items from anywhere to an Open Crate
+The &1Rod of the Fractured Space&0 has the unique ability to, albeit briefly, open a small wormhole between two points in space. Only &1Items&0 seem to be small and light enough to fit.<br>Right click on an &1Open Crate&0 to set the destination location.
+Then, any time you right click on the ground, all &1Items&0 nearby will be sucked in to the wormhole and dropped out of the &1Open Crate&0, no matter where they are. The process consumes more &1Mana&0 when more items are sent at once; perhaps packaging them up into something like a &1Shulker Box&0 first would be beneficial?
+Ease, don't teleport
+Ticket Conjurer
+Create corporea tickets on the go
+The &1Ticket Conjurer&0 assists in the creation of arbitrary &1Corporea Tickets&0, for use with the &1Sanvocalia&0 flower. Other than the fact that it's an item, not a block, it acts identically to a &1Corporea Index&0. Simply hold it in either hand, speak a &4Corporea Request&0, and a &1Corporea Ticket&0 will be created for it.
+The only other difference between it and a &1Corporea Index&0 is in the behavior of the word "this", which will refer to the item in your off-hand when you hold the &1Ticket Conjurer&0 in your main hand, and vice versa.
+Dying Breath of Stokesia
+Corporea Inhibitor
+Block corporea spark connections
+The &1Corporea Inhibitor&0's peculiar composition seems to distort the corporetic field in a curious way. &1Corporea Sparks&0 are simply unable to form connections that pass through it.<br>They are pushable with &1Pistons&0.
+Completely unreadable!
+Corporea Solidifier
+Treat corporea requests as items
+The &1Corporea Solidifier&0 acts as a replacement for the &1Corporea Retainer&0. When placed next to a &1Corporea Interceptor&0, the &1Corporea Solidifier&0, instead of remembering the interceptor's request, will create a &1Corporea Ticket&0 containing the item and item count of the request.
+Note that the &1Sanvocalia&0 functional flower seems to be particularly interested in the energies these &1Corporea Tickets&0 give off.
+Up, up, down, up
+Corporea Spark Tinkerer
+Change corporea networks with redstone
+The &1Corporea Spark Tinkerer&0 works much like a &1Spark Tinkerer&0, but for &1Corporea Spark&0 networks, as opposed to &1Spark Augments&0. When the &1Corporea Spark Tinkerer&0 is placed next to a block with a &1Corporea Spark&0 on it, it will switch colors with a random adjacent &1Corporea Spark&0 when given a redstone signal.
+The color of the &1Corporea Spark Tinkerer&0 itself can be manually adjusted by rubbing some &1Floral Powder&0 against it.
+Flip and invert
+Corporea Retainer Evaporator
+Wither away a retainer signal
+The &1Corporea Retainer Evaporator&0 is an addon to the &1Corporea Retainer&0, similar to how the &1Corporea Retainer&0 is itself an addon for the &1Corporea Interceptor&0. When the &1Corporea Retainer Evaporator&0 receives a redstone signal, the item counts of all stored requests in adjacent &1Corporea Retainers&0 will decrease by 1.
+Note that this process is destructive; powering the &1Corporea Retainer&0 after decrementing its request size will cause it to perform a request of the new size. Using multiple retainers off of the same &1Corporea Interceptor&0 could prove useful.
+Cha os [Chal len ge ]
+Soul Cores
+Spirit-specific interactions
+&1Soul Cores&0 surround and envelop a &4Player's Soul&0 in a light &4Mana&0 solution, ever-so-slightly reanimating it. The &4Soul&0 is stabilized as a disembodied head, and while not capable of too much remaining brain function, is somehow entangled with the real, live &4Player&0. Provided that they're in the same &4Dimension&0.
+To inform a &1Soul Core&0 of your presence, right click it. The process of binding and unbinding a &4Soul&0 from a &1Core&0 has been known to sting a bit...<br>If a &1Soul Core&0 runs out of mana, it will lose the link to the &4Soul&0 it's bound to; right clicking again will re-establish it.
+Driven Drop
+The &1Ender Soul Core&0, at the cost of &4Mana&0, provides block-level access to the &1Ender Chest&0 inventory of the bound &4Player&0. As long as the &4Player&0 is present in the dimension, the &1Ender Soul Core&0's inventory will mirror the contents of their &1Ender Chest&0. All the usual interactions work; hoppers, corporea sparks...
+You Would Not Believe This Random Hecking Nonsense
+The &1Corporea Soul Core&0 is a simple privacy system for &4Corporea Networks&0. &4Players&0 are not able to use a &1Corporea Index&0 on the same network as a &1Corporea Soul Core&0, unless one of the &1Corporea Soul Core&0s on it contains their &4Soul&0.<br>It does not use &4Mana&0.
+Now let me see you &2DANCE&0
+The &1Blood Soul Core&0, at the cost of &4Mana&0, injects all potion effects received via &1Splash Potions&0 into the bloodstream of the bound &4Player&0.<br>Since the &4Soul&0 suspended in a &1Soul Core&0 is technically undead, this process will cause the usual effect inversions to occur (instant health will damage the bound &1Player&0, for example.)
+Pictured as Perfect
+Elven Decoration
+Stairs, slabs, and stuff
+Any &4Corporeticist&0 or &4Red Stringlayer&0 worth their salt keeps a tidy and well-decorated laboratory; what better to use than &1Corporea&0 and &1Red String&0 itself?<br>However, it'd certainly be nice to shave off the magical properties of blocks intended purely for decoration, to avoid oversaturation of the corporetic fields (and, well, server lag)
+Corporea Tiles
+Bricks, for throwing at you
+Red String Tiles
+I can see right through you
+Have some stairs.
+Uhh, have some slabs too.
+It's just walls. How do I write a tagline for this?
+Sanvocalia
+Talk to Corporea Indexes
+The &1Sanvocalia&0 is a flower especially attuned to corporetic frequencies. When this flower has &1Mana&0 available and is near a &1Corporea Index&0, it will whisper the requests written on nearby &1Corporea Tickets&0 to the &1Index&0.<br>Tickets can be created with a &1Corporea Solidifier&0 or a &1Ticker Conjurer&0.
+Do you still remember?
+Red String Liar
+Lie to your network
+Turns out, there was more to &4Red String&0 after all. The &1Red String Liar&0 works best when attached to a &4Corporea Network&0. It will bind to any block with an inventory, and will present the items in that inventory to the &4Corporea Network&0 as if it was an inventory full of whatever is in any adjacent &1Item Frames&0.
+Extracting items from the linked inventory works normally. Since the &4Corporea Network&0 believes the inventory to be full of whatever is in the item frames, what is requested may not match what is received. This does not duplicate items.<br>Note that the &1Red String Liar&0 should have the &1Corporea Spark&0 attached, instead of the linked inventory.
+tang pong
+Skytouching
+What's the sky say?
+Legend has it that blah blah &8blah blah&0 &7blah blah.&0<br>If you throw certain stuff above the height limit, it'll craft into other stuff. The higher it goes above the height limit, the more bonus output you'll get. This is called &4Skytouching&0. Try it with your &1Lexica Botania&0. Flavor text is hard and I'm tired.
+GOLDEN RULE &8(hold shift over these!)&0
+Cygnus Basics
+How's all this stuff work?
+The &4Cygnus Network&0 is a method of storing and manipulating abstract pieces of information in the world, known as &4Cygnus data&0. It works using a &4stack&0 data structure - various &4Cygnus-aligned blocks and items&0 can push data onto the stack, pop data off of it, make decisions based off of the top items, and so on.
+&4Cygnus Networks&0 are created by placing &1Cygnus Sparks&0. The &4Stack&0 "lives" on the &1Master Cygnus Spark&0; placing other &1Cygnus Sparks&0 will extend the influence of the &4network&0 to those areas, allowing additional &4Cygnus-aligned blocks&0 to join the network, view, and manipulate the same &4stack&0.
+The &4Cygnus Network&0 is essentially a more abstracted form of the &4Corporea Network&0 - it works on pieces of &4data&0 that can be freely copied and modified at will, instead of needing to be backed by the motion of real &4items&0. If "&364 diamond blocks&0" is a piece of data on a &4stack&0, it does not imply anything about real items - you're only talking &oabout&0 64 diamond blocks.
+A &4stack&0 data structure is like a list, but only the &4top&0 items of the list can be accessed. &4Pushing&0 data onto the stack puts it above the &4top&0 of the stack and it becomes the new &4top&0. &4Popping&0 data from the stack removes it from the stack; whatever was below becomes the new &4top&0. There's no way to push or pop data from the &4middle&0 or &4bottom&0 of the stack, besides moving whatever's above it &4out of the way&0 first.
+&4Cygnus-aligned things&0 can manipulate the stack. The &1Funnel&0 can copy real-world signals as &4data&0 onto the stack or interpret data on the stack as &4real-world signals&0. &1Words&0 perform &4functions&0 on the stack, and &1Crystal Cubes&0 test &4conditions&0 against the stack. &1Retainers&0 and &1Tickets&0 store data off-stack in the forms of &4blocks&0 and &4items&0. See their respective &1Lexica Botania&0 entries for more information.
+Cygnus Datatypes
+What can you put on the stack?
+There are a few different &4types&0 of data that can be put on the &4stack&0 associated with a &1Master Cygnus Spark&0. Some actions make sense on all &4types&0 of data (like &1Cygnus Word: Duplicate&0 or injecting into a &1Cygnus Retainer&0), but most actions are only defined for one &4type&0. Trying to perform a typed action while the top of the &4stack&0 contains data of the wrong &4type&0 will push a &3Type mismatch&0 error onto the &4stack&0.
+The &3Integer&0 datatype represents a positive or negative whole number. Many &1Cygnus Words&0 are available to add, subtract, and multiply these numbers. The number can be up to 50 digits long (not counting the minus sign, if any) - actions which produce a number larger than that will instead produce an &3Invalid math operation&0 error.
+The &3Corporea Request&0 datatype represents a request for items from a &4Corporea Network&0. It is a bundle of a &4matcher&0 (the name or identity of the item being requested) and a numeric count. The &3Corporea Request&0 datatype is able to express "identity" style requests from &1Corporea Funnels&0, as well as "by name" requests from &1Corporea Indices&0.
+The &3Error&0 datatype represents some computation error. Generally, these are pushed instead of the result of a computation when the action was not successful. Trying to add two non-numbers pushes a &3Type mismatch&0, trying to duplicate the top item of an empty &4stack&0 pushes a &3Stack underflow&0, dividing by zero pushes an &3Invalid math operation&0, and so on.
+The &3Cygnus Stack&0 datatype represents another Cygnus &4stack&0, packaged as a single item. These can be packaged and unpackaged by &4sourcing&0 from or &4sinking&0 into a &1Cygnus Master Spark&0 with a &1Cygnus Funnel&0.
+Cygnus Sparks
+Data on the stack
+Placing a &1Master Cygnus Spark&0 defines the center of a &4Cygnus network&0. It is home to a &4Cygnus Stack&0: a collection of up to sixteen units of &4Cygnus data&0. &1Master Cygnus Sparks&0 can be placed anywhere, and the contents of the &4stack&0 will display above it. Wearing a &1Manaseer Monocle&0 will cause the stack's contents to show through walls!
+Regular &1Cygnus Sparks&0, when placed within eight blocks of a &1Master Cygnus Spark&0, will connect to it. &1Cygnus Sparks&0 also link to other &1Cygnus Sparks&0; much like a &4Corporea Network&0, you can extend the reach of a &4Cygnus Network&0 endlessly. All &1Cygnus Sparks&0 on the same &4Cygnus Network&0 provide access to the same &4Cygnus Stack&0.
+Use a &1Wand of the Forest&0 to display the uplink a &1Cygnus Spark&0 has with its master spark - it could hop through multiple intermediary sparks. Use it while &4sneaking&0 will remove the spark, possibly breaking some connections.<br>Much like &1Corporea Sparks&0, you can also color &1Cygnus Sparks&0 with &1floral powder&0, separating them into up to sixteen channels.
+My boy's got his own ringtone
+It's the only one I know, it's the only one I know
+Cygnus Funnel
+Move data point-to-point
+The &1Cygnus Funnel&0, when given a redstone signal, performs a &4funnel action&0: it moves &4Cygnus data&0 from a &4source&0 to a &4sink&0. Normally, the &4source&0 is whatever is against the back of the arrow, and the &4sink&0 is whatever is against the tip. Each end of the arrow lights up when it is placed against a valid &4source&0 or &4sink&0. A list of &4sources&0 and &4sinks&0 is available at the end of this entry.
+If the &1Cygnus Funnel&0 has a &1Cygnus Spark&0 placed on it, only one end of the &4funnel action&0 needs to be adjacent to it. The other end of the action is completed by the &4Stack&0 associated with the &4Cygnus Network&0's &1Master Cygnus Spark&0 - when acting as a &4data source&0 it will &4pop&0 data off of the &4Stack&0, and when &4sinking data&0 it will &4push&0. (The associated end of the arrow does not light up when the &4funnel action&0 is completed like this.)
+&4Funnel actions&0 are usually non-destructive, meaning that &4souring&0 data from something will source a copy of it, and will not touch the original.
+Do it all, do it all, I swear I can do it all
+&4Sourcing&0 from a &1Corporea Retainer&0 returns the retained &3Corporea Request&0. &4Sinking&0 a &3request&0 injects it, keeping the position.
+&4Sourcing&0 from a &1Corporea Crystal Cube&0 returns a &3Corporea Request&0 for the displayed item and count. &4Sinking&0 a &3request&0 sets the item (not the count).
+&4Sinking&0 a &3Corporea Request&0 into a &1Corporea Funnel&0 makes it perform the request.
+&4Sinking&0 a &3Corporea Request&0 into a &1Corporea Index&0 makes it perform the request.
+&4Sourcing&0 from a &1Master Cygnus Spark&0 packages up its &4stack&0 into a &3Stack&0. &4Sinking&0 a &3stack&0 pushes it all on. 
+Dropped Items
+&4Sourcing&0 from any &1dropped items&0 returns a &3Corporea Request&0 for them, with count.
+&4Sinking&0 &3any data at all&0 into &1Paper&0 stores the data as a &1Cygnus Ticket&0.
+&4Sourcing&0 from a &1Corporea Ticket&0 returns the stored &3data&0 and clears the ticket. &4Sinking&0 &3anything at all&0 overwrites the data.
+&4Sourcing&0 from a &1Redstone Repeater&0 returns a &3number&0 between 1 and 4 representing the delay on the repeater. &4Sinking&0 a &3number&0 between 1 and 4 sets the delay.
+&4Sourcing&0 from &1Redstone Dust&0 returns a &3number&0 between 0 and 15 representing its power level.
+Cygnus Words
+Actions on the stack
+&1Cygnus Words&0 perform some action to the items on top of a &4stack&0. They are used similar to a &1Cygnus Crystal Cube&0 - place them down, attach them to a &4Cygnus Network&0 by placing a &1Cygnus Spark&0 on top, and program them with a &1Cygnus Word Pattern&0.
+&1Cygnus Word Patterns&0 are not consumed when programming the &1Cygnus Word&0, and you can reprogram a &1Word&0 as many times as you like. The empty &1Word Pattern&0 is the only craftable one; the rest can be obtained by scrolling through them.<br>A list of &1Cygnus Word Patterns&0 and their effects is at the end of this entry.
+When an action does not make sense for the current state of the &4stack&0, usually an &3Error&0 is pushed instead. You can detect this with a &1Cygnus Crystal Cube&0 listening to the &3Errored&0 condition, but it's usually best to avoid pushing errors altogether if you can. All actions push a &3Stack underflow&0 if the stack doesn't contain enough items, or &3Type mismatch&0 if the items are not of the correct type.
+Take my hand, crush it up
+Does nothing whatsoever. This is the state &1Cygnus Words&0 come in when you place them.
+Pops the top item off of the &4stack&0, then pushes it back on twice, duplicating it. Works on any datatype and never pushes an error, unless the &4stack&0 is empty, in which case it pushes a &3Stack underflow&0.
+Pops the top two items off of the &4stack&0 and pushes their sum. Instead, pushes an &3Invalid math operation: Too big&0 or &3Too small&0 if the value is larger or smaller than the maximum number.
+Pops the top two items off of the &4stack&0 and pushes the top item minus the second item. Instead, pushes an &3Invalid math operation: Too big&0 or &3Too small&0 if the value is larger or smaller than the maximum number.
+Works the same as addition, but pushes their product instead! All the same possible errors apply.
+Works the same as subtraction, but pushes their quotient instead! All the same possible errors apply, with the additional requirement that the second number must not be 0 lest an &3Invalid math operation: Divide by zero&0 is pushed.
+Works the same as division, but computes the remainder of the first number divided by the second number, instead of the quotient. This operation is sometimes called "mod" or "modulus", and the second number still cannot be zero.
+Pops a &3Corporea Request&0 off the top of the &4stack&0, and pushes a &3Number&0 representing its size (i.e. it turns &35 white wool&0 into just &35&0).
+Pops a &3Number&0 off the top of the &4stack&0, then pops a &3Corporea Request&0, and pushes a new &3Corporea Request&0 with its count set to the value of the &3Number&0 (i.e. it turns a &4stack&0 with the number &35&0 at the head and the request &31 white wool&0 below it into a &4stack&0 with &35 white wool&0 at the head).
+Pops two &3Corporea Requests&0 off the top, then pushes a new &3Corporea Request&0 where the item is set from the request on the top and the count is set from the request on the bottom (i.e. it turns a stack with the request &35 white wool&0 at the head and the request &364 diamond block&0 below it into a stack with &364 white wool&0 at the head).
+Pops a &3Stack&0 off the &4stack&0 and pushes a &3Number&0 representing its depth.<br>(Recall that &3Stack&0 datatypes can be siphoned off of &1Master Cygnus Sparks&0 with a &1Cygnus Funnel&0, and manipulated as items!)
+Cygnus Crystal Cubes
+Predicates on the stack
+&1Cygnus Crystal Cubes&0 test some condition against a &4stack&0. They are used similar to a &1Cygnus Word&0 - place them down, attach them to a &4Cygnus Network&0 by placing a &1Cygnus Spark&0 on top, and program them with a &1Cygnus Crystal Cube Pattern&0. The result of the condition can be viewed with a &1Comparator&0 - 15 if true, 0 if false.
+&1Cygnus Crystal Cube Patterns&0 are not consumed when programming the &1Crystal Cube&0, and you can reprogram a &1Crystal Cube&0 as many times as you like. The empty &1Crystal Cube Pattern&0 is the only craftable one; the rest can be obtained by scrolling through them.<br>A list of &1Crystal Cube Patterns&0 and their effects is at the end of this entry.
+I felt the compression
+Always returns &3False&0 no matter what is going on on the &4Stack&0. This is the state &1Cygnus Crystal Cubes&0 come in when you place them.
+&3True&0 if the &4stack&0 contains no elements. &3False&0 otherwise.
+&3True&0 if the &4stack&0 contains sixteen elements (pushing another item onto the stack would delete the bottommost element). &3False&0 otherwise.
+&3True&0 if the top two items on the &4stack&0 have the same value, for some sense of that word dependent on the types of them. &3False&0 if the items are different or if the items have different types.
+&3True&0 if the top two items on the &4stack&0 have the same type. &3False&0 otherwise.
+&3True&0 if the top item on the &4stack&0 is smaller than the item underneath it. &3False&0 otherwise, including cases where the top two items are not comparable.
+&3True&0 if the top item on the &4stack&0 is larger than the item underneath it. &3False&0 otherwise, including cases where the top two items are not comparable.
+&3True&0 if the top item on the &4stack&0 has the &3Error&0 type. &3False&0 otherwise.
+Cygnus Retainer
+Store one piece of data off-stack
+The &1Cygnus Retainer&0 is a block-form storage slot for a single piece of &4data&0. Any piece of &4data&0 that can be placed on a &4stack&0 can also be injected into a &1Cygnus Retainer&0, using a &1Cygnus Funnel&0. Re-injecting data into a full &1Cygnus Retainer&0 will delete whatever was there; injecting into a &1funnel&0 with a &1Mana Void&0 underneath will delete the data as well.
+The &1Cygnus Retainer&0 has unusual comparator support - it will always output 0 if it is empty, and at least 1 if it is full, but the exact value often depends on exactly what data is retained. &3Numbers&0 report their value (clamped to a 1-15 range), &3corporea requests&0 report their magnitude (again, clamped), &3stacks&0 report the height of the stack.
+One use for the &1Cygnus Retainer&0 is to reorder data on top of the &4stack&0 - there are no &4swap&0 or &4rotate&0 &1Cygnus Words&0, for example, but by offloading data onto an array of &1Cygnus Retainers&0 and loading it back on in a different order, you can produce the same effect.<br>Using a &1Wand of the Forest&0 on a &1Retainer&0 clears it.
+Already broke, and it's only 7:45 in the morning
+Cygnus Ticket
+Portable Cygnus data
+The &1Cygnus Ticket&0 is an item-form storage slot for a single piece of &4data&0. Any piece of &4data&0 that can be placed on a &4stack&0 can also be injected into a &1Cygnus Ticket&0, using a &1Cygnus Funnel&0. Re-injecting data into a full &1Cygnus Ticket&0 will delete whatever was there. It's very much like a &1Cygnus Retainer&0 - but in an item form.
+Sneak-using a filled &1Ticket&0 will clear it, using an empty &1ticket&0 on a &1Cygnus Retainer&0 will copy the data from the retainer onto the ticket, and using a fill &1ticket&0 on a &1retainer&0 will copy the data the other way, from the ticket onto the retainer.<br>Read the &1Cygnus Funnel&0 entry for more information about how to obtain these tickets.
+(unspecified)
+Stack underflow
+Type mismatch
+Out of range
+Invalid math operation: %s
+Too big
+Too small
+Divide by zero
+(removed dataclass)
+Nothing
+Clone
+Sum
+Difference
+Product
+Quotient
+Remainder
+Get Request Magnitude
+Set Request Magnitude
+Set Request Item
+Get Stack Depth
+Nothing
+Empty Stack
+Full Stack
+Equal Value
+Equal Class
+Less Than
+Greater Than
+Has Error
+Number
+Corporea Request
+Error
+Cygnus Stack
+Crate remembered.
+Not bound to a crate
+Bound crate not of this realm
+Missing crate at bound location
+Bound to a crate
+Not bound to a crate
+! Bound crate not of this realm
+Bound position: X %s, Y %s, Z %s
+Bound dimension: %s
+Nothing stored.
+A %s is described here.
+An %s is described here.
+Your soul is not compatible with this Corporea Network.
+%s's soul was too weak
+Holding Ticket Conjurer!
+Anything you say will
+create a Corporea Ticket
+Safe for decoration
+very blessed block
+Skytouching
+Height Limit
+%s + scroll to cycle
+No recipe or docs - very WIP! sorry!
+(come help test in creative!)
+Fractured Space (collector)
+Blood Soul Core (collector)
+Forgotten Shrine chimes
+Unstable Cube chimes

@@ -1,0 +1,43 @@
+Pure Ruby
+Pure Sapphire
+Pure Amethyst
+Raw Amethyst
+Raw Sapphire
+Raw Ruby
+Sunstone
+Ruby Ore
+Sapphire Ore
+Sunstone Ore
+Amethyst Ore
+Block of Amethyst
+Block of Ruby
+Block of Sapphire
+Block of Sunstone
+Ruby Sword
+Ruby Pickaxe
+Ruby Axe
+Ruby Shovel
+Ruby Hoe
+Sapphire Sword
+Sapphire Pickaxe
+Sapphire Axe
+Sapphire Shovel
+Sapphire Hoe
+Amethyst Sword
+Amethyst Pickaxe
+Amethyst Axe
+Amethyst Shovel
+Amethyst Hoe
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Amethyst Helmet
+Amethyst Chestplate
+Amethyst Leggings
+Amethyst Boots
+Better Ores

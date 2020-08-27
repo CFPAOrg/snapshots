@@ -1,0 +1,27 @@
+Nether Foundation
+Netherrack Monster Egg
+Hellfish
+Nether Gold Ore
+Nether Iron Ore
+Nether Coal Ore
+Nether Lapis Lazuli Ore
+Nether Diamond Ore
+Nether Redstone Ore
+Nether Copper Ore
+Nether Tin Ore
+Nether Silver Ore
+Nether Lead Ore
+Nether Aluminum Ore
+Nether Nickel Ore
+Nether Platinum Ore
+Nether Iridium Ore
+Mana Infused Nether Ore
+Nether Emerald Ore
+Angry Pigmen
+Settings relating to Angry Pigmen
+Explosions
+Settings relating to Explosions
+Hellfish
+Settings relating to Hellfish
+Processing
+Settings relating to Processing

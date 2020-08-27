@@ -1,0 +1,1442 @@
+Pinkly Sheep 4.0
+Wabbity Mistake (PnK)
+Wabbity Mistake (PnK)
+Wabbity Mistake (PnK)
+Wabbity Mistake (PnK)
+Pinkly Sheep
+General Settings
+Animal Drops' Volumes
+Pinkly Effects
+Mod Integration
+(%1$d uses left)
+(1 use left)
+(%1$d/%2$d uses left)
+(~%1$d uses left)
++RSHIFT
++LSHIFT
++RSHIFT for full description...
++LSHIFT for more details...
++%1$s for %2$s
++%1$s+%2$s to %3$s
+Albino Apple
+Dropped from leaves of dark oak trees grown in forests or swamps
+Albino Melon
+Harvest to obtain random rainbow slices
+Obtain plants by applying pinkly poo to a grass area. Look for the glowing baby melon stems at night. Let plant produce one melon before breaking
+Albino Melon Seed
+Dropped from mature albino melon plants only
+Albino Melon Plant
+Antibiotic (Infection)
+Clears up wound infections pronto and restores your natural healing ability
+Antitoxin (Spider Venom)
+Stops effects of venom and purges any accumulated venom toxin from your system
+Stunted Carrot
+Obtain by applying sludge renew to a carrot field
+Toxic Carrots
+Toxic Potato
+Obtain by applying sludge renew to a potato field
+Toxic Potatoes
+Tainted Souls Wart
+Grows only on Tainted Souls Sand
+Tainted Souls Wart
+Blighted Wheat
+Blighted Wheat Seeds
+Obtain by spamming a wheat field with Sludge Renew!
+Medicated Bandages
+Use to mitigate bleeding damage from gashing weapons and to stop infection
+Bandages
+Use to mitigate bleeding damage from gashing weapons
+SunFrost Dried Potatoes
+Can poison you. Eat directly only if desperate!
+SunFrost Dryable Potatoes
+Place in open, cold, dry place to process
+Dead Albino Melon Plant
+Jack's Lost Beans
+Plant in the middle of a 5x5 dirt plot for a beanstalk sapling
+{SUMM}. Found rarely in a stronghold's library or in a lucky nitwit's inventory.
+Miner's Stew (+Veggie)
+Miner's Stew (+Chicken)
+Miner's Stew (+Meat)
+Miner's Stew
+Pinkly Apple
+Wild Blue Potato
+Wild Potato (Poison)
+Wild Gold Potato
+Wild Red Potato
+Wild Potato Tubers (Poison)
+Wild Blue Potato Tubers
+Wild Gold Potato Tubers
+Wild Red Potato Tubers
+Prepped Wild Potatoes
+Roasted Wild Potatoes
+Rainbow Seeds
+Plant in the middle of a 5x5 farming plot
+Rainbow Slice
+Rotting Molded Potatoes
+Stork Apple
+Use to transport non-hostile animals and villagers
+{SUMM}. To capture, sneak and right click on the target entity. You might have to first tame an animal before you can capture it.
+Stork Egg
+Witch's Stork Apple
+Wild Potatoes
+Beanstalk Eye
+Beanstalk Eye (Angry)
+Beanstalk Animal Feed Station
+Beanstalk Grow!
+Required fertilizer for normal beanstalk saplings
+Beanstalk Bark Lamp
+Hearty Harvester
+Beanstalk Heart Wood
+Beanstalk Heart Wood (Damaged)
+Beanstalk Heart Mulch
+Use to fertilize a STUNTED beanstalk sapling; see what 'pops' out!
+Beanstalk Core
+Beanstalk Young Core
+Beanstalk Heartworm
+Use to make reforging materials or to convert inchoate gold to living gold
+Beanstalk Leaves
+Bone Leech
+Dropped by beanstalk leaves. Use to create a bound talisman
+Beanstalk Wood
+Beanstalk Knot Wood
+Beanstalk Wood Planks
+Fire and spawn proof
+Beanstalk Pink Planks
+Fire and spawn proof
+Beanstalk Parquet Planks
+Fire and spawn proof
+Beanstalk Dark Wood Planks
+Fire and spawn proof
+Beanstalk Wood Bricks
+Fire and spawn proof
+Beanstalk Heart Wood Planks
+Fire proof
+Beanstalk Golden Wood Planks
+Fire proof
+Reforger's Sword Core
+Material used in some reforger specialty weapons
+Beanstalk Sapling
+Grows from a Lost Bean
+Beanstalk Wood Slab
+Beanstalk Pink Slab
+Beanstalk Parquet Slab
+Beanstalk Dark Wood Slab
+Beanstalk Wood Brick Slab
+Beanstalk Heart Wood Slab
+Beanstalk Golden Wood Slab
+Beanstalk Wood Stairs
+Beanstalk Parquet Stairs
+Beanstalk Pink Stairs
+Beanstalk Dark Wood Stairs
+Beanstalk Wood Brick Stairs
+Beanstalk Heart Wood Stairs
+Beanstalk Golden Wood Stairs
+Stunted Beanstalk Sapling
+Generated very rarely when you plant rainbow seeds on blessed earth
+Gold Brick Block
+Beanstalk only loot item
+Stalkstone
+Stalkstone Remnants
+Infested Stalkstone
+Inchoate Gold
+Beanstalk only loot item. Claim then put in offhand or activate to repair X-enchanted gear automatically
+Living Gold
+Mr. G's Golden Precious
+Beanstalk loot only item
+Stalk Nuts
+Dropped by beanstalk leaves
+Roasted Stalk Nuts
+Bones Grinding Stone
+Beanstalk only loot item
+Bones Grinding Slab
+Gold Stalk Nut Paste
+Mr. G's Golden Grain Feed
+Place into a beanstalk animal feed station
+Fine Bones Flour
+Bones Bread Dough
+Bones Bread
+Simply delicious anytime!
+Hearty Blood Stew
+Beanstalk only loot item
+Coarse Fanciirite
+Use to improve the decorations of reforged items
+Reforge Coupon
+Given out rarely as a 'thank you' after a reforge. Use it to repair your workbook or to reduce the cost of your next reforge
+Apprentice Reforger's Gem
+Synthetic Reforger Gem
+Use as a reforge material or combine with a tainted Dark Tome to create an apprentice's gem
+Journeyman Reforger's Gem
+Master Reforger's Gem
+Reforger Gem Remnant
+Fragment of a long lost Reforger's gem found in dungeon chests. Universal repair material
+Reforger's Offer
+Details of a proposed reforging operation based on a specific request. Use it to accept or reject the new item
+Reforger's Workbook
+Beanstalk loot item. Use to access the FeeFiFoFum blacksmithing services
+Air Grabidy Block
+Placeable mid-air; does not require an adjacent object
+Albino Mycelium
+Initial conversion stage of rainbow slurry soaked mycelium
+Pinkly Mycelium
+Altitude Dust
+Ancient Netherrack Ore
+Found occasionally in the Nether
+Bleaching Crystals
+Dropped from bleaching crystals ore
+Bleaching Crystals Ore
+Found occasionally in the Nether
+Bleaching Powder
+Blight Grub
+Dropped from blighted wheat
+Roasted Grub
+Stops poison and hallucinations
+Broken Enchanted Book
+Liquid Slime
+Nether Slurry
+Pinked Slurry
+Rainbow Slurry
+Submerge mycelium to form albino mycelium (eventually)
+Toxic Slurry
+Cave Spider Venom
+Dropped occasionally by cave spiders killed with a venomous sword
+Compost
+A much better bonemeal
+Compost
+Corrupted Ender Diamond
+Corrupted Golem Bone
+Harvesting Flail
+Use to break crops for a chance to increase your harvest's size
+Custom Mob Head
+Dandiraft Rubber Strips
+Dark Tome
+Beanstalk only loot item
+Darkened Eye
+Tainted Soul
+Feed me an albino apple to free up my remaining energy for consumption!
+Tainted Souls Sand
+Condemned Earth
+Final conversion stage of pig slurry soaked sludge
+Old Condemned Earth
+Arley Necklace
+Wear or keep on hotbar to defuse creeper blasts +/-4 blocks in all directions
+Nether Crystal
+Dropped from ancient netherrack ore
+Dense Nether Dust
+Dense Nether Fuel Pod
+The nether's smart furnace fuel
+Diamond Paxel
+Pickaxe, AXe, and shovEL in one
+Dirty Dirt
+Dried-Out Green Waste
+Dried Leaves
+Place in the middle of a big pile of green leaves to dry them en-masse
+Dung Cake Fuel
+Dropped from dried dung blocks
+Block of Dung Cake Fuel
+Earthworm
+Dropped from ripened green waste and some soils
+Ball o' Earthworms
+Edible Clay
+Stops poison
+Elastic Hide Strap
+Corrupt Ender Sword
+Ender Sword Relic
+Rare loot only sword
+Endstone Gravel
+Enhanced Diamond
+Sooo shiny...
+Enhanced Diamond Paxel
+Pickaxe, AXe, and shovEL in one
+Enhanced Diamond Sword
+Entwined Handle
+Extreme Diamond Sword
+Fecundity Dust
+Fetid Mulch Ball
+Fire Charge Marble
+Flaked Obsidian
+Dropped from obsidian harvested with an obliterator or bashed with a club hammer
+Flight (not Fight) Boots
+Red Flint Sword
+Fast, Deadly, Short-lived
+Crafter Flint Sword
+Loot only flint sword
+Rubble Flint Sword
+Loot only flint sword
+Pack of Seeds
+Reward and loot item. Right-click to get contents
+{SUMM}. Found occasionally in villages, desert pyramids, and jungle temples
+Grim Charcoal
+Charred remnants of those destroyed by a Grim Reaper sword
+Old Gold Quartz
+Dropped occasionally from ancient netherrack ore
+Golden Feather
+Dropped very rarely by feathered things killed with a Midas-cursed weapon. Keep on hotbar as fall protection.
+Golden Name Tag
+Use to rename unrepairable and X-enchanted items
+Golem Lower Arm Bone
+Dropped rarely by iron golems
+Golem Slapper
+Slaps the undead hordes senseless
+Furious Golem Slapper
+Very strong. Slaps the undead hordes senseless+10
+Infernal Golem Slapper
+Unstoppable. Slaps the undead nether hordes senseless+10
+Golem Upper Arm Bone
+Dropped rarely by iron golems
+Green Leaves
+Green Waste
+Place in dry shaded place to ripen and attract earthworms
+Skull Ooze
+Dropped occasionally from beheaded mobs
+Chunk of Hardened Clay
+Dropped from terracotta bashed with a club hammer
+Healing
+Dropped occasionally by bludgeoned mobs; can heal player if picked up. Absorbable by barren talisman as life essence
+Homing Meatball-Z
+Ick Grub
+Immature Mycelium
+Growing medium for giant pinkly mushrooms
+Impressible Bone
+Impressed Bone
+Dirty Cobblestone
+Infested Cobblestone Shell
+Infested Cobblestone
+Bewitched Oaken Rod
+Rare loot only weapon
+Instant Healing
+Dropped rarely by bludgeoned mobs; always heals player if picked up. Absorbable by barren talisman as life essence
+Mini Club Hammer
+Bam Bam Bam!
+{SUMM} Use to bash cobblestone, terracotta, and obsidian into little bitsy pieces (rocks, chunks, and flakes). Also good for playing whack-a-mob
+Ancient Iron
+Dropped occasionally from ancient netherrack ore
+Unlinked JumpTo Pearl
+Right-click in air to target to your current location
+{SUMM}. Add a quartz fragment on an anvil to make single-clickable (no need to throw)
+JumpTo Pearl
+Throw at your feet to jump to targeted location
+{SUMM}. Add a quartz fragment on an anvil to make right-click-to-jump (no need to throw)
+Nether JumpTo Pearl
+Throw at your feet to jump to targeted location in the Nether
+End JumpTo Pearl
+Throw at your feet to jump to targeted location in the End
+JumpTo Station
+Sneak and right click to store a shared targeted JumpTo Pearl and a stack of ender pearls as "fuel"
+Poisoned Plant
+Poisoned Crop
+Poisoned Sapling
+Poisoned Grass
+Poisoned Flowers
+Worked Red Flint
+Lapis Lazuli Fragment
+Waastis Eaticus Larva
+Dropped from manure blocks
+Sticky Lil Poops
+Nature's glue...
+Whack a' Leaf Stick
+Shears leaves, vines, and grass. Harvests albino apples from dark oak trees
+Concentrated Life Essence
+Obtain by combining 3 life essence items
+Life Essence
+Obtain by draining absorbed life essence from a barren talisman
+Lift Twine
+Liquid Slime
+Snacks on player Xp so don't stand in it!
+Locked Enchantment Book
+Lumiball
+Lumiball Splotch
+Throwable light source
+Macuahuitl
+Manure
+Dropped occasionally by cows, horses, llamas, and other animals
+Ball o' Manure
+Block of Manure
+Tool Mending Table
+Repairs tools and weapons using mending twine and a bit o' Xp
+Mending Twine
+Mob Spawner
+Mob-Zapper!
+Mob-Zap o' Meter
+Place down to see if you're within a Mob Zapper protected zone (will light up)
+Moo Shroo Poo
+Dropped rarely by mooshroom cows
+Moo Shroo Poo Fungi
+Grows only on pinkly mycelium
+Mud Slicer
+Use to slice skulls into flat head plaquettes
+Netherrack Gravel
+Pre Gravel
+Nether Slurry
+Wart Compost
+Will spontaneously sprout netherwarts
+Depleted Compost
+Dropped from depleted or dried compost blocks
+Obsidian Obliterator
+Loot only item. Use to quickly mine obsidian blocks and shards
+Packed Pinkly Eggs
+Lots o' Slimy Gunk
+Lots o' Slimy Gunk
+Lots o' Plain Caca
+Lots o' Pinkly Caca
+Lots o' Toxic Caca
+Parrot Egg
+Dropped occasionally by cuddling parrots
+Parrot Feather
+Piercing Marble
+Piercing Striker
+Pigmanosaurus Poo
+Fossilized Pigmanosaurus Poo
+Fossilized Pigmanosaurus Poo
+Fossilized Pigmanosaurus Poo
+Pillaging Sword
+Triggers special drops when used against hapless villagers, but take care not to anger their protectors!
+Pinked Slurry
+Pinkly Egg
+Dropped rarely by pink sheep
+Barren Pinkly Egg
+Corrupt Pinkly Egg
+Corrupt Pinkly Eggnade
+Boss Pinkly Eggnade
+Pinkly Mushroom
+Grows only on pinkly mycelium
+Pinkly Graser Crystal
+Pinkly Infused Gem
+Pinkly Rod
+Pinkly Poo of Rainbow Awesomeness!
+Dropped occasionally by pink sheep
+Block of Pinkly Poo
+Pooganic Ammonia
+Pinkly Water Lily
+Lets you cross slurry moats unharmed
+Poop o' Meter
+Tiny Bit o' Bleach
+Add to raw water to treat
+Pre Dirt
+Very Coarse Dirt
+Primordial Paleosol
+Found rarely in the roof of the Nether
+Nether Quartz Fragment
+Ragers Staff
+Rainbow Wisps
+Dropped from pinkly mycelium
+Rainbow Slurry
+Raw Compost
+Place in dry place to ripen into rich compost
+Reinforced Hide Strap
+Slimeball Ricochet
+Large Rock
+Dropped from cobblestone bashed with a club hammer
+Medium Rock
+Dropped from cobblestone bashed with a club hammer
+Rotting Leaves
+Rotting Compost
+Rotting Dung
+Rotting Hay Bale
+Rotted Hay Bale
+Rotting Log
+Fetid Rotted Log
+Meatball-Z
+Sedation Cure
+Stops poison and relieves sedation
+Seed Compost
+Will spontaneously sprout wheat
+Silverfish Dust
+Dropped by silverfish and from infested cobblestone
+Bit o' Slime
+Dropped by slimes and from beanstalk heart wood
+Slimy Gunk
+By-product of squirmies in a farm box. Good stuff!
+Decaying Gunk
+Buildup of dying squirmies and materials in an unhealthy farm
+Sludge
+Sludge Grub
+Dropped from fetid rotted logs
+Sludge Sand
+Sludge Renew!
+Keeps sludge raw so it won't convert to condemned earth.
+{SUMM}. Can also be used to grow tall cacti and to farm Dirty Dirt and toxic crops.
+Toxic Slurry
+Bit o' Sponge
+Found occasionally in discarded trawl crates. Dropped rarely by guardians killed with a temple guard sword.
+Smelling Salts
+Jarring cure for the queasies
+Smelling Salts (Strong)
+Jarring cure for the queasies and fatigue
+Snowball Surprise
+Some Dirt
+Slay Clay
+Farmer's Packet
+Reward and loot item. Right-click to get contents
+{SUMM}. Found occasionally in villages, desert pyramids, and jungle temples
+Stone Marble
+Stone Striker
+Small Stone
+Dropped from gravel and rocks bashed with a club hammer
+Sturd-Y Tree Branch
+Harvest with an axe from Birch or Oak leaves
+Spawner Harvester
+Squirmies Box Farm
+Use to grow earthworms or larvae in great quantities
+Squirmies Box Farm Section
+Earthworms Mass
+Large numbers of earthworms in a farm box. Right-click to detangle
+Larvae Mass
+Large numbers of larvae in a farm box. Right-click to detangle
+Squishies Slingshot
+Squishy Ammo Pouch
+Stained Bone
+Loot only item
+Mob Luv Cudgel
+Seasoned Cudgel Shards
+Hack Sword
+Use to farm all custom mob skulls
+Temple Guard's Sword
+Dropped occasionally by guardians. Works best when wet
+Tiny Turd
+Dropped occasionally by calves
+Traveler's Pearl
+Improved and reusable ender pearl
+Miracle Tree Grow
+Special fertilizer for saplings
+Toxic Manure
+Dropped occasionally by pigs
+Block of Toxic Manure
+Blank Mob Spawner
+Vanishing Sword
+Less durable diamond sword found only as loot
+Blessed Earth
+Aged Blessed Earth
+Depleted Blessed Earth
+Vermi Cake
+Vermi Meal
+Like bonemeal; made by earthworms
+Packed Vermi Meal
+Block of Packed Vermi Meal
+Wet Dung
+Place in rows to dry
+Maul a' Witch Bone
+Witch's Flesh
+Dropped rarely by witches
+Big Tiny Basher
+A nightmare for creepy-crawlies...
+Rotten Egg
+Makes quite the stink on landing
+Really Rotten Egg
+Flaming Rotten Egg
+Loot item found in jungle temples and ammo pouches
+Wormy Egg
+Loot item found in dungeons
+Really Wormy Egg
+TnTato
+The bluffato - looks tough, does little
+Incendiary TnTato
+The hotato - starts a fire
+Explosive TnTato
+The boomato - blows stuff up
+Mining TnTato
+The oreato - blows stuff up in style
+Fishin' Line Caster
+Fish Bones
+Guardian Chum
+Irresistible to guardians and polar bears alike
+Guardian Lamprey
+Dropped rarely by guardians and elder guardians
+Putrid Fish
+It's tempting I know, but don't eat this
+Reinforced Twine
+Trawl Bait
+Empty Trawl Crate
+Trawl Crate
+Trawl Crate Rebind Tool
+Use to reseal a placed trawl crate. Sneak and right click on crate's chest
+Sealed Trawl Crate
+Trawl Netting
+Trawl Station
+Temple Preciouses
+Eye of Giants
+Eye of Giants (Guardians)
+Eye of Giants (Dragons)
+Eye of Giants (Golems)
+Eye of Giants (Mr. G)
+Eye of Giants (Withers)
+Eye of Giants (Zombies)
+White Dye
+Green Dye
+Dark Brown Dye
+Ink Black Dye
+Lapis Blue Dye
+Lime Green Dye
+Lime Yellow Dye
+Pinkly Dye
+Purple Dye
+Barren Talisman
+Totem Talisman
+Haunted Talisman
+Phoenix Talisman
+Olive Boots Cover
+Reward. Combine with boots on a crafting grid to add a chloroplast coat. Single install. Outfit all pieces of your armor set for a fully formed armor skin
+Olive Chestplate Cover
+Reward. Combine with chestplate on a crafting grid to add a chloroplast coat. Single install. Outfit all pieces of your armor set for a fully formed armor skin
+Olive Helmet Cover
+Reward. Combine with helmet on a crafting grid to add a chloroplast coat. Single install. Outfit all pieces of your armor set for a fully formed armor skin
+Olive Leggings Cover
+Reward. Combine with leggings on a crafting grid to add a chloroplast coat. Single install. Outfit all pieces of your armor set for a fully formed armor skin
+Drunken Crystal Sword
+Apprentice reforger's sword
+{SUMM}. Influences were hidden, mistakes were made. Bearer must exhibit 'the crazies' (or be tipsy) for sword to respond.
+Grim Reaper Sword
+Master reforger's sword
+{SUMM}. Deals an instant death blow to the creature it's targeted for. Must be fed a steady diet of tainted souls to retain this deadly touch.
+Hellfire Sword
+Master reforger's sword
+{SUMM}. Sparks an unstoppable all-consuming fire in the core of the hit target. Corruptible.
+Lava Blade Sword
+Journeyman reforger's sword
+{SUMM}. Inflicts the debilitating burns of lava with every blow while protecting the wielder from fiery blowback.
+Bucket of Lava or Magma Block
+Slurried Slice an' Dice
+Apprentice reforger's sword
+Bucket of Toxic Slurry
+Double Hack Sword
+A grown-up hacking sword
+{SUMM}. Inflicts deep cuts that become infected fast. Unparalleled ability to separate heads from bodies. Corruptible.
+Seasoned Cudgel Shards
+Thirsty Crystal Sword
+Journeyman reforger's sword
+{SUMM}. Inflicts severe gashes that cause heavy bleeding. Even more deadly when sated with potions or carrying a Sharpness enchant. Can inject a small dose of its imbibed potions. Corruptible.
+Potion of Regeneration
+Venomous Sword
+Apprentice reforger's sword
+{SUMM}. Inflicts deep venom-laced wounds. Death likely unless anti-toxin taken immediately. Corruptible.
+Cave Spider Venom
+Fanciirite Sword
+Fanciirite sword. Found as loot. Can be reforged
+Fanciirite sword. Found rarely as loot. Can be reforged
+Ice Diamond Sword
+Blue Minion
+Bad Bones, Bad Bones
+Makes the Walking Dead
+Green Esmeralda
+Golden Popsicle
+Touch of Obsidian
+Mr. Moustache
+Iron Sword Relic
+Mayan Iron Sword
+Dry Jungle Sword
+{SUMM}. Inflicts secondary poison attack on hit targets.
+Irish Iron Sword
+El Dorado Iron Sword
+Stone Sword Relic
+Blue Minion's Cousin
+Big Red Sword
+Stout Slasher
+Pretty in Red Sword
+Personal Purple Eyeball Confuser
+Hot Jabby Sword
+Cold Pointy Sword
+J-Man's Skinny Slicer
+Magma Rod
+Thinks Pink
+J-Man's Slicer
+Touch of Green
+Emerald Popsicle
+Little Red Sword
+Golden Sword Relic
+Smoked Iron Sword
+Fred's Sword
+Skeleton Needle Sword
+Stray Needle Sword
+{SUMM}. Inflicts secondary slowness on hit targets.
+Wither Needle Sword
+{SUMM}. Inflicts secondary wither attack on hit targets.
+Stained Needle Sword
+{SUMM}. Inflicts secondary wound infection on hit targets.
+A Mustang's Sword
+Raider's Iron
+Raider's Electric Blue
+Raider's Iresteel
+Nether Racked Sword
+Thinks Pinkly
+Oldie but Goodie
+Gorgeous George
+Blooded Iron Sword
+{SUMM}. Inflicts secondary bleeding and corrosion attacks on hit targets.
+Blooded Gold Sword
+{SUMM}. Inflicts secondary bleeding and corrosion attacks on hit targets.
+Blooded Lapis Sword
+{SUMM}. Inflicts secondary bleeding and corrosion attacks on hit targets.
+Blooded Emerald Sword
+{SUMM}. Inflicts secondary bleeding and corrosion attacks on hit targets.
+Blooded Sword
+{SUMM}. Inflicts secondary bleeding and corrosion attacks on hit targets.
+Olympian Sword
+Colossus Sword
+Colossus Sword Relic
+Shiny Colossus Sword
+Chillossus Sword
+Blaezin Hacker
+{SUMM}. Can bypass armored defense. Causes ongoing bleeding of hit targets.
+Endermand Hacker
+{SUMM}. Can bypass armored defense. Causes ongoing bleeding of hit targets.
+Illusionary Hacker
+{SUMM}. Can bypass armored defense. Causes ongoing bleeding of hit targets.
+Bigly Olympian Sword
+{SUMM}. Can cause serious armor damage to primary target.
+Bigly Colossus Sword
+{SUMM}. Can cause serious armor damage to primary target.
+Bigly Evil Dumpling
+NULLIFIED: %1$s
+%1$s died trying to cross slurry
+%1$s suffocated in a pile o' poo sludge
+%1$s was killed by condemned earth
+%1$s was poisoned to death
+%1$s was burned by a lava blade's grim flame
+%1$s was killed by frosty suspension
+%1$s was killed by a fatal piercing blow
+%1$s was killed by a mob-zapper
+%1$s died of rainbow awesomeness!
+%1$s was kungfu'd by an angry beanstalk
+%1$s died from bleeding and trauma caused by a severe laceration
+%1$s died from severe bleeding
+%1$s was bludgeoned to death
+%1$s was killed by ender fever
+%1$s was overwhelmed by the foul of some nearby stinky source
+%1$s was overwhelmed by the foul of some nearby stinky source (probably %2$s)
+%1$s was killed by some form of venom
+%1$s died from the effects of an unidentified hemotoxin
+%1$s was killed by HELL FIRE
+%1$s was killed by HELL FIRE
+%1$s died from the crazies. Bummer
+%1$s died from potion intoxication
+%1$s was killed by over stimulation
+%1$s died from cardiac arrest caused by too much stimulant too quickly
+X-Enchanted Book
+X-Enchanted Book
+X-Enchanted Tool
+X-Enchanted Combat Gear
+X-Enchanted Helmet
+X-Enchanted Chestplate
+X-Enchanted Leggings
+X-Enchanted Lucky Pants
+X-Enchanted Flight Boots
+X-Enchanted Speedy Boots
+X-Enchanted Sword
+X-Enchanted Shovel
+X-Enchanted Pickaxe
+X-Enchanted Hatchet
+Pinky The Brainer
+Attack Amplify
+Animosity
+Bludgeoning
+Frost Aspect
+Damage Recoil
+Bane of Witches
+Luck of Jack
+Dodging
+Damage Dispersion
+Damage Ghosting
+Sensate Protection
+Undying Force
+Warding
+Corrupting Taint
+Economical
+Keepsake
+Parasitic Mending
+Scavenger Heal
+Uncrossing
+Unenchanting
+X-Amplify
+Amplifier for all standard attack damage enchantments; each level adds 3 pts up to a max of 15 additional pts.
+For those looking to channel some serious ill-will via sword play
+Like Smite but targeted at witches.
+Gives a bit of Jack's luck when storming your nearest beanstalk.
+Puts a numbing chill on any mob but especially those immune to fire. At level III damage is permanent.
+Random multipler for most damage caused by the PinklySheep mod's custom swords.
+Recoils a portion of most damage back to the ultimate source without damaging your own armor or annoying silverfish.
+When applied on an anvil, removes the Curse of Vanishing from an item.
+When applied on an anvil, removes ALL curse enchantments from an item.
+When applied on an anvil, erases ALL enchantments from an item.
+When used on an anvil, increases by one any enchantments at or over their normal max levels. (Over-levels them!) 
+Disperses a portion of incoming INDIRECT damage based on the combined enchantment level of all armor.
+Wards off a portion of the damage done by magic potions (and other sources of magic damage at level III).
+Multiplier for Damage Dispersion but also works as a death-protection shield of last-resort.
+Causes the attacked mob to sometimes shed health and experience points as player pick-up-able drops.
+Pre-emptive armor and potion protection against the forces of badness.
+Masks the player as the source of an indirect attack thereby inhibiting retaliation by the target.
+Allows the bearer to occasionally dodge some types direct attack and at higher levels, some indirect attacks.
+Helps dispensing mechanisms for ammo pouches, quivers, etc. to be very efficient , wasting less resources.
+Scavenges some of the remains of creatures killed by its bearer to repair itself.
+When a player gains healing points, a very damaged parasitic item will steal some of those points to mend itself instead of the player
+JumpTo Station
+Mob Zapper! (%1$s)
+G-Feeder 2000
+Squirmies Farm
+Trawl Station
+Fishin' Line Caster
+Squishy Ammo
+Squishy Ammo Choice
+Requires SuperBlocks mod
+Requires Vanilla FoodPantry mod
+Requires SmartHoppers mod
+Bound: %1$s
+Owner: 
+When consumed:
+%s (%d:00)
+When in inventory:
+When equipped:
+Age: %1$d/%2$d
+%1$s range
+%1$s (%2$s)
+H +/- %1$2d blocks
+V +/- %1$2d blocks
+Productive: %1$s
+Name: 
+Wished for: 
+Origin: 
+Origin: %s
+Mod-Id: 
+Tips: 
+Strength: %1d
+Soul-Captured: 
+Supercharged!
+Supercharged %dx damage!
+Gorged
+Targeted: %s
+Harvests left: %1$s
+To Unlock: 
+%1$d %2$s + Xp
+%1$d %2$s + Xp (+%3$s for details)
+Slots used: %d
+Slots used: ??? (lost+found)
+Missing or corrupted
+%s (%d)
+%s (%s)
+%s*
+(Do not be fooled...)
+(Some things do last forever...)
+Clears ALL potion effects
+Found in loot chests
+Found rarely in loot chests
+Rare cursed sword
+Kills: %1$d (%2$s for more)
+Kills: %1$d
+Head count: 
+Variety: 
+Dimensions: 
+Points: 
+Next %1$s%2$d%3$s hits each give:
+...[%d more]
+consume soul
+Instant strength: %1d
+Essence level: %1$d%%
+Mend
+Tsk Tsk...
+Baalet
+Little Moo
+Little Mooshroo
+Horsey
+Wee Donkee
+Mini Mule
+Chick
+Piglet
+Pup
+Kitty
+Bunny
+Epsilon
+Fuzzy Bear
+Tiny Llama
+Lolly
+Lil YGIAGAM
+Farmer
+Librarian
+Priest
+Smith
+Butcher
+Nitwit
+YGIAGAM
+Toast
+Novice
+Ocelot
+Jaguar
+Noble
+Expertise: %s
+Dimension: %s
+Target: 
+Last used: 
+%1$d %2$d %3$d
+Spawn
+Last Death
+Spawn: 
+Single Clickable
+Pearl targeted: %s
+JumpTo denied: %s
+Mis-matched dimension
+Teleport not allowed (other mod or modpack config)
+No indicated destination
+Unsafe destination (no buffer found within one block radius)
+Pearl or station uses at zero(0).
+Invalid player state (not connected, sleeping, etc.)
+Reforge request rejected: %s
+cannot change chest or chest is part of a pair
+unspecified reason (check game logs)
+nothing to reforge in chest
+item cannot be reforged by FeeFiFoFum blacksmiths (yet)
+item too damaged, too reworked (over repaired), or somehow unusable
+too many items (reforge one item per request)
+insufficient materials (give 1 diamond + 2 iron + fanciirite for a new sword)
+given materials unable to reconstruct any reforger's specialty weapon
+unusable workbook
+too many reforger gems (use least skill level needed to fulfill your request)
+Various materials...
+Small token of thanks!
+same
+add
+remove
+Processing...please wait
+*
+Adept
+Broken
+Bulky
+Charmed
+Deadly
+Demonic
+Dull
+Epic
+Flawed
+Frenzied
+Godly
+Jinxed
+Keen
+Legendary
+Light
+Murderous
+Nasty
+Pristine
+Quick
+Resilient
+Ruthless
+Sighted
+Shoddy
+Superior
+Terrible
+Regeneration
+Speed
+x
+Max Health Boost
+Luck
+Fire Resistance
+Strength
+Damage Resistance II
+x
+Damage Absorption
+Water Breathing
+Pinkly Awesomeness
+Suspicious Brew...
+x
+Instant Healing
+Speed (++)
+Night Vision
+x
+Strength (++)
+Haste
+Knockback Resistance (++)
++1 Power Up!
+Spawn Bonus
+End City Treasure
+Simple Dungeon
+Village Blacksmith's
+Abandoned Mineshaft
+Nether Fortress Bridge
+Stronghold Library
+Stronghold Crossing
+Stronghold Corridor
+Desert Pyramid
+Jungle Temple
+Jungle Temple Dispenser
+Igloo
+Woodland Mansion
+Witch
+Stray
+Elder Guardian
+Iron Golem
+Ender Dragon
+Fishing
+Fishing Junk
+Fishing Treasure
+Fishin' Fish
+Lib: Sample General
+Lib: Sample Optional
+Lib: Sample Enchant
+PnK: Ancient Netherrack
+PnK: Decayed Fish
+PnK: Plantables
+PnK: Random Farming Things
+PnK: Slurried Things
+XI
+XII
+XIII
+XIV
+XV
+XVI
+XVII
+XVIII
+XIX
+XX
+XXV
+XxX
+IV
+V
+VI
+Unknown
+Hidden
+Parrots!
+Bat Head
+Blaze Head
+Cat Head
+Cave Spider Head
+Chicken Head
+Cow Head
+Creeper Head
+Dragon Head Plaque
+Elder Guardian Head Plaque
+Enderman Head
+Endermite Head
+Evoker Head
+Ghast Head
+Guardian Head
+Horse Head
+Husk Head
+Iron Golem Head
+Evil Bunny Head
+Llama Head
+Magma Cube Head
+Mooshroom Head
+Ocelot Head
+Blue Parrot Head
+Arley Head
+Gray Parrot Head
+Red Parrot Head
+Yellow Parrot Head
+Pig Head
+Polar Bear Head
+Rabbit Head
+Sheep Head
+Pinkly Sheep Head
+Yellow Sheep Head
+Silverfish Head
+Slime Head
+Shulker Head
+Skeleton Head
+Snowman Head
+Spider Head
+Squid Head
+Stray Head
+Flattened Head Plaque
+Vex Head
+Villager Head
+Vindicator Head
+Witch Head
+Wither Head
+Wither Skeleton Head
+Wolf Head
+Zombie Head
+Zombie Pigman Head
+Zombie Villager Head
+Protects against:
+Enhancements: 
+Arrows
+Creeper blasts 
+Enchantable 
+Fireballs
+TnT explosions
+Lightening strikes 
+Luck 
+Minions 
+Other projectiles
+Sensate 
+Reinforced 
+Wither skulls
+Modifier extras----
+Reforged extras----
+When in main hand base is:
+When in off hand base is:
+All enchantments removed:
+Base Durability
+Durability
+Piercing
+Hit Precision
+Knockback
+Scavenger Heal
+Parasitic Mending
+Void Piercing
+Animosity
+%s %s
+ Beacon-in-a-Bowl
+ Fall and Lava Protection
+ +6 Max Health
+ +%1$d Experience Levels
+Corrupting Ender Taint
+Pillager's Greed Taint
+Corrosion
+Extreme Gravity
+Fatigue
+Ailing
+Infection
+Jump Fail
+Infection
+Lacerating
+Bleeding
+Stink
+Hellfire
+Dousing
+Venom
+Hemotoxin Shock
+The Crazies
+Explosion
+Pink Fury
+Stimulant
+Steadfast
+Instant Potion Magnify
+Constantly Feeds
+Potion of No Jumping!
+Jump Fail Splash Potion
+Jump Fail Lingering Potion
+Arrow of No Jumping!
+Potion of Corrosion
+Splash Potion of Corrosion 
+Lingering Potion of Corrosion
+Arrow of Corrosion
+Potion of Corrosion
+Splash Potion of Corrosion 
+Lingering Potion of Corrosion
+Arrow of Corrosion
+Hallucinogen
+Hallucinogen Splash
+Lingering Hallucinogen
+Arrow of Hallucinations
+Strong Hallucinogen
+Strong Hallucinogen Splash
+Lingering Hallucinogen
+Arrow of Strong Hallucinations
+Potion of Sedation
+Splash Potion of Sedation
+Lingering Potion of Sedation
+Arrow of Sedation
+Potion of Aaaarghh! Sedation
+Splash of Aaaarghh! Sedation
+Lingering Aaaarghh! Sedation
+Arrow of Aaaarghh! Sedation
+Potion of Withering
+Splash Potion of Withering
+Lingering Potion of Withering
+Arrow of Withering
+Potion of Withering
+Splash Potion of Withering
+Lingering Potion of Withering
+Arrow of Withering
+Strong Stink Potion
+Splash o' Eye-Watering Stink
+Lingering Waft o' the Truly Funky
+Arrow of "OMG, what is that SMELL?!"
+Stink Potion
+Splash o' Stink
+Lingering Waft o' the Funky
+Arrow of "What is that smell?!"
+Potion of Damage Absorption
+Splash Potion of Damage Absorption
+Lingering Potion of Damage Absorption
+Arrow of Damage Absorption
+Potion of Damage Resistance
+Splash Potion of Damage Resistance
+Lingering Potion of Damage Resistance
+Arrow of Damage Resistance
+Potion of Damage Resistance
+Splash Potion of Damage Resistance
+Lingering Potion of Damage Resistance
+Arrow of Damage Resistance
+Potion of Saturation
+Splash Potion of Saturation 
+Lingering Potion of Saturation
+Arrow of Saturation
+Potion of Saturation
+Splash Potion of Saturation 
+Lingering Potion of Saturation
+Arrow of Saturation
+Potion of Saturation
+Splash Potion of Saturation 
+Lingering Potion of Saturation
+Arrow of Saturation
+Potion of Haste
+Splash Potion of Haste
+Lingering Potion of Haste
+Arrow of Haste
+Potion of Haste II
+Splash Potion of Haste II
+Lingering Potion of Haste II
+Arrow of Haste II
+Wound Infection Potion
+Splash Potion with Infection
+Lingering Potion of Infection
+Arrow with Infection
+Wound Infection Potion
+Splash Potion with Infection
+Lingering Potion of Infection
+Infection Tipped Arrow
+Spider Toxin
+Splash of Spider Venom
+Lingering Spider Venom
+Venom Tipped Arrow
+Creeper in a Potion
+Splash Potion of Creeper
+Lingering Potion of Creeper
+Arrow of tick, tick, BOOM!
+Potion of Pinkly Fury
+Splash Potion of Pinkly Fury
+Lingering Potion of Pinkly Fury
+Arrow of Pinkly Pain
+Potion of Pinkly Fury
+Splash Potion of Pinkly Fury
+Lingering Potion of Pinkly Fury
+Arrow of Pinkly Pain
+Potion of Pinkly Fury II
+Splash Potion of Pinkly Fury II
+Lingering Potion of Pinkly Fury II
+Arrow of Serious Pinkly Pain
+The Crazies
+Splash of The Crazies
+Lingering Crazies
+Arrow of The Crazies
+The Crazies
+Splash of The Crazies
+Lingering Crazies
+Arrow of The Crazies
+The Crazy Crazies
+Splash of The True Crazies
+Lingering Crazy Crazies
+Arrow of The Crazy Crazies
+Potion of Knockback Resistance
+Splash Potion of Knockback Resistance
+Lingering Potion of Knockback Resistance
+Arrow of Knockback Resistance
+Potion of Knockback Resistance
+Splash Potion of Knockback Resistance
+Lingering Potion of Knockback Resistance
+Arrow of Knockback Resistance
+Potion Magnifier
+Splash Potion Magnifier
+Lingering Potion Magnifier
+Potion Magnifier Tipped Arrow
+Liquid Slime
+Nether Slurry
+Pinked Slurry
+Rainbow Slurry
+Toxic Slurry
+Item (%s) sent to player's ender chest.
+Item (%s) was dropped at %d,%d,%d.
+Too soon to use again...
+You have achieved '%1$s' status with this weapon.
+D'oh! I, %1$s, shot my eye out!
+Removed accumulated toxin: %s
+And so we begin...
+Harvester of Hearts
+Bean Axed
+Bean Choppy Lately
+Bean Gold Chopping
+Sir Bean Chops-a-Lot
+Bean Axed
+Bean Chop Fee-Fi-Foey
+Bean Flying Chopper First-Class
+Bean Axed
+Breakin' Bean
+Axel: The Bean Stalker
+Bean Vexed Lately
+Hoe Hoe Hoe
+The Preciouses
+%s's Stuff!
+Free Junk an' Stuff
+Mr. G's Lunchbox
+Pooped Loot
+Friend of %s
+%s the Vex
+mini-%s
+Infernal Stalk Wraith
+Hearty Blood Stew
+Thief's Bone
+Bones Bread (Non-Diary)
+Snacks
+Inchoate Gold fed; it now works for you (%s).
+Hexed Vex
+Vexed Vex
+Mad as Vex
+Bad Vex!
+Sexy Vex
+A Surprise
+A Warning
+I Poop Loot
+Rustique Dirt Harvester
+Reluctant Shearer
+Bane of Regolith
+Little Big Chopper III
+I Pity The Fools Bow
+Pity The Fools That I Hit Arrow
+Fire Walker Boots
+Water Walker Boots
+Nether Exploring
+Ocean Depths Exploring
+Dragon Slaying
+Elfin Prize
+Head Hunter Gatherer
+I Crush Your Tiny Head
+The Blockinator 2000
+Eternal Wow! Pow! Bow
+Cookmatic Fisher of Mobs
+Mob Be-GONE! Fire Starter
+Buccaneer's Mate
+Pigman's Nemesis
+Bane of All
+Long Lasting Silk
+Infinity+
+Booyah! Back at Yah!
+Pinkly Dispersion
+The Undying Force
+Sensate Protection
+Trophy
+Novice Combatant
+Ocelot Warrior (Stealth)
+Jaguar Warrior (Power)
+Warrior Noble
+The Bludgeoner
+Bludgeoner
+Hackathon Finalist
+No Brainer
+Goodies (Hackathon Finalist)
+The Vanquished
+Novice Trophy
+Ocelot Trophy
+Jaguar Trophy
+Noble Trophy
+Pinkly Sheep
+The joys of Pinkcrafting
+Always in a Slurry
+Craft a bucket of Liquid Slime, a bucket of Toxic Slurry, and a bucket of Pinked Slurry. Slurries make very good mob traps.
+Arley Bird!
+Find and tame a Green Parrot. Cute ain't it?
+Beanstalked
+Plant a Lost Bean and grow a Beanstalk. Prepare for pain (and lotsa loot).
+Becoming a Hacker
+Forge a Hack Sword from dropped Seasoned Cudgel Shards. Whack! Whack! Off with their heads!
+Club Membership
+Handcraft a Mob-Luv Cudgel and demonstrate your affection for all creatures hostile until the cudgel is no more. Always collect the broken cudgel's shards!
+Corrupted!
+Farm some scary looking Sludge Grubs from slurry infested logs or cobblestone. Then corrupt a pack of innocent Pinkly Eggs.
+Dark Options
+Using your Heart Harvester, retrieve a corrupting Dark Tome treasure item from a Beanstalk.
+Dust in the Potato
+Extract the unique enzymic dusty goodness from the various wild potato subtypes. You'll need some: Altitude dust, Fecundity dust, and Cloaking dust.
+Everyone's Best Friend!
+Brave the Nether to find some primordial Ancient Iron. With that iron form an Enhanced Diamond and create your first Pinkly Graser Crystal. It's soo shiny!
+Join the Fat to Flat Fad
+Collect a custom fat (3D) mob head and flatten it (2D)!
+A Feather in my cap!
+Collect all five types of parrot feathers plus a chicken feather so they don't feel left out.
+Fee Fi Fo Fum!
+Meet Mr. G and the rest of the beanstalk family! Dispatch the defenders and pillage a beanstalk of ALL its unique goodies.
+Fifty Shades of Mycelium
+Grow and harvest a small patch (at least 3x3) of all the variants of Albino Mycelium, including regular mycelium and Blessed Earth. Don't forget the Rainbow Slurry that starts it all.
+Frankenstein The Minecrafter
+If Frankenstein played Minecraft, he'd use one of these for sure. Forge yourself this mining monstrosity: part pickaxe, part shovel, part axe, part hoe.
+Getting A-Head
+Use any enhanced mod weapon to get yourself a hostile mob's head as a trophy.
+The Great Gathering
+Collect every kind of 'animal' waste drop. Gather those big, gather those small, gather those near, gather those far. Gather them all together!
+The Good, The Bad, The Smelly
+The start. Collect the basic manures: Plain, Toxic, and Pinkly.
+Hackathon Finalist
+Using a single trusty hack sword "Pinky The Brainer", collect 20 heads of at least 12 hostile mob types in at least 3 dimensions (with at least 3 types per).
+Heart Warming
+Using a Barren Talisman you've created, collect enough instant health drops to craft a bottle of Concentrated Life Essence.
+I Came I Saw I Slapped!
+Harness the awesome mob-slapping talents of iron golems! Collect the upper and lower arm bones of several golems (good luck getting those), and make yourself a Golem Slapper weapon. Go slap-happy!
+Lil Moo made
+Using a Pinkly Egg (or several), create a little mooshroom 'hatchling'.
+Macuahuitl
+Forge a Macuahuitl from harvested beanstalk logs, sharpened obsidian, and an entwined handle.
+Macuahuitl Novice
+Use your macuahuitl in battle and kill 60 hostiles of at least 4 different types (no, spiders and silverfish don't really count).
+Ocelot Warrior (Stealth)
+Advance your novice macuahuitl skills status by adding a further 60 hostiles of at least 3 additional types.
+Jaguar Warrior (Cunning, Strength)
+Use your stealth to fine-tune your macuahuitl skills by outwitting or just over-powering an additional 100 hostiles in hand-to-hand combat.
+Warrior Noble (Leadership)
+No clue yet, but I'm sure it involves getting others to do the dirty work.
+Means to an Enderman
+Steal an ender dragon's eye and corrupt it thoroughly. Use that eye to make ender-tainted diamonds and a Corrupt Ender Sword for hunting endermen.
+Miner Shrivels
+You don't need beacons to insta-mine! Find a location that's hot and sunny by day, cold and dry by night. Air-dry some raw wild potatoes into SunFrost Dried Potatoes and make yourself some deliciously potent Miner's Stew.
+Miscellaneous
+Odds and ends (but no Endermen)
+Mob Thwacked
+Create an Impressible Bone. Use it (thwack a hostile mob). Get yourself a targeted Darkened Eye.
+No-boom No-boom
+Using an Arley Necklace, avoid certain creepery explosive death. Rejoice! Ya-da-da Da-da-da Da-da-da Da.
+Parroting Parent
+Make a baby! Capture and breed a gray 'Papabird' parrot with some green 'Mamabird' parrots.
+Player le phew!
+Make a real stink: create a batch of Rotten Eggs. Throw some for fun. Brew some for fighting.
+Rod of Ages Pink
+Convert Pinkly Eggs into their everlasting Pinkly Rod form.
+Secrets Unlocked
+The start. Breed and nurture a family of happy pink sheep to collect a pack of Pinkly Eggs-- the key to great pinkly adventures!
+Slap Happy
+Become a true slapspert. Hone your slappy skills across mob types and across dimensions with both custom versions of the slapper. Remember, you'll first need to do some serious hacking and go on a fat-to-flat diet.
+Tato Go BOOM!
+Create all four types of TnTatoes -- and use them! BOOOM! BOOOM!
+Taste the Rainbow
+Plant an Albino Melon, eat yourself a Rainbow Slice. You'll love the way you feel. We guarantee it.
+The Pink and The Furious
+Pinkly Eggs are dual-purpose: good for you, bad for mobs. Pop a few pinkly eggs into a brewing stand. Drink up. Tip up. Channel the pinkly rage!
+Into The Sling of Things
+Craft yourself a Squishies Slingshot and matching Ammo Pouch. Such a fashionable combination!
+Walk on the Wild Side
+Obtain a Wild Potato plantling, make an elevated potato farm, and harvest some tubers!
+Walking on Air
+Whip-up some Altitude Dust, craft yourself a stock of Lift Twine, and make yourself a pair of special Flight-not-Fight boots on a custom Mending Table. Time for take off!
+Waste Not, Want Not
+Learn to repurpose and recycle your greens and browns. Make drying piles for leaves. Transform your waste into green waste for composting.
+Squirmed My Way In
+Farming animals is easy; farming squirmies, now that's a tough job! Harvest lots of Manure. Get yourself some Eaticus Larvae. Make lots of Green Waste. Get yourself some Earthworms. Build a fancy deluxe Squirmies Farm Box. Fill it with food; add those critters; let nature take its course! Don't forget to remove the build-up of 'gunk'.
+Wuss Mode
+Protect yourself, your pets, and your beloved pinkly stuff with a Mob-Zapper 2000!
+Hello, I am dropped animal poop. Do not be alarmed for I am the GOOD stuff. You are advised to collect as much of me as possible for use in your crop farming.
+One of the new non-poo animal drops added by Pinkly Sheep. Pink sheep occasionally drop Pinkly Eggs and parrots will drop feathers. To get parrot eggs, you need one 'Papabird' and at least two 'Mamabird's.
+One of the new ores or ore block drops added by Pinkly Sheep. You should find these ores in terrain and loot chests generated after the mod was installed.
+One of the new hostile mob drops added by Pinkly Sheep. Lapis Fragments are dropped by witches, Quartz Fragments from witches and pigmen, Slime Droplets from slimes, and Silverfish Dust from silverfish.
+One of the possible toxified crops or poisoned plants produced when you spam regular crops and flowers with Sludge Renew! Crops, grass, saplings require Silk Touch to harvest.
+One of two new mushrooms that will spawn on Pinkly Mycelium naturally. You can generate these mushrooms yourself by applying Moo Shroo Poo to dirt directly.
+Wild potatoes dropped by wild potato plants. Wild potato seedlings spawn occasionally when you apply Pinkly Poo to Dirty Dirt with water nearby. Needs Vanilla Food Pantry mod to extract enzymes to powders.
+Decayed remains of fish or other sea creatures found in a recovered trawl crate. Use Putrid Fish to create chum bait for polar bears and guardians. Use Fish Bones for bonemeal.
+Trawl crates that have been filled or are being filled by a trawl station. Occasionally you will dredge up old, damaged 'Lost+Found' sealed crates when fishing.
+One of the new squirmy things added by Pinkly Sheep. Most easily obtained by breaking manure blocks, rotting logs and hay bales, or green waste. You can farm squirmies if you need large quantities.
+One of the by-products you get from farming squirmies. All box-farmed squirmies produce slimy gunk. Earthworms can also produce vermimeal while larvae can produce sticky lil poops if given grass to eat.
+Albino melon and rainbow slices. Albino melon seedlings will generate occasionally when you apply Pinkly Poo to a dirt or grass area. Expect a spawn rate of about 1 seedling per 32 attempts. Rainbow slices drop from albino melons.
+Tainted Soul Sand sludge and Tainted Souls Warts. Create tainted soul sand sludge by placing soul sand in direct contact with toxic Pig Slurry. See wiki for detailed instructions on farming tainted souls and soul warts.
+Icky oozy masses of squirmies you find in a thriving Box Farm. A single mass will contain several hundred squirmies (right-click the mass to disentangle them). Use as bait in Trawling Stations and for squirmies storage.
+A super-food you prepare by drying packed wild potatoes under the sun in a cold, dry, environment like extreme hills. If the drying potatoes are exposed to moisture or left too long they will rot.
+One of the stages or drops associated with the creation of Blessed Earth from Rainbow Slurry soaked mycelium. Rainbow Wisps will drop from Pinkly Mycelium blocks only. See wiki for instructions on farming.
+Seasoned cudgel shards are dropped when a cudgel breaks after bludgeoning many hapless mobs. Use the shards to form the teeth of the pinkly Hack Sword for all your heady needs.
+A safe capsule used to keep a bewitched non-hostile mob or captured villager's essence until re-animation is possible. +Use in a new location to generate a new, similar entity.
+Items found only in or near a normal beanstalk, its loot boxes, or its junk chests. Read the wiki for the details of each item and go find yourself some Lost Beans!
+An Obsidian Obliterator (found in a Beanstalk's crown loot) will often break off shards and flakes of obsidian as it works on an obsidian block. The block is not destroyed when flakes break off. A mini club hammer can also generate flakes but it takes a LONG time and the hammer will destroy the obsidian block in the process.
+Special item found only in very rare loot chests or given as a reward for completing a particularly onerous challenge advancement.
+Special item created by a corrupted Eye of Giants.
+Albino Apples are dropped from the leaves of dark oak trees grown in forests or swamps. You MUST use a Whack a' Leaf Stick to harvest the dark oak leaves to get these apples.
+The beginnings of one of Mr. G's Beanstalks. Lost Beans (from which saplings are grown) are found in stronghold library loot chests and rarely in a Nitwit villager's hidden inventory. Rainbow seeds planted on Blessed Earth occasionally produce a Stunted Beanstalk Sapling from which you can harvest a Lost Bean.
+Use a Golden Name Tag to rename an unrepairable or X-enchanted item for the usual small Xp cost.
+New tree drop from oak and birch trees. Use an axe to chop at these trees' leaves and occasionally a sturdy branch will drop. Fortune improves your drop chance.
+One of several intermediate terraformed stage blocks generated by an activated primordial paleosol block. Many of the gravels are an abundant source of ore fragments.
+One of several rotted or otherwise 'damaged' blocks produced when toxic Pig Slurry comes into contact with a particular kind of block. For example, Dirty Dirt results when slurry is allowed to permeate regular dirt blocks.
+Special boots you create on a Mending Table using 4 pieces of Lift Twine and a pair of undamaged reinforced leather boots.
+Custom mob head drops added by Pinkly Sheep. Typically you must use a hacking sword of some type to get these drops. Use mob heads as trophies or flatten them to use as activators for special weapons.
+Charred remains of mobs killed with a Grim Reaper sword. Use as furnace fuel or to craft torches.
+First-aid items you need to counteract negative effects like poison, venom, bleeding, infection, etc. Antitoxins and Antibiotics require Resistance III and Instant Health II potions as ingredients.
+Special weapon created by beanstalk blacksmiths exclusively in response to a reforge request. Rarely you'll find discarded swords in overworld loot chests and some villager pouches.

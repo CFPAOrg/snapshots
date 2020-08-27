@@ -1,0 +1,86 @@
+Player Info
+Attack Tree
+Defense Tree
+Mining Tree
+Crafting Skills
+Double Damage
+Doubles your total damage
+Damage I
+Adds +1 Damage
+Damage II
+Adds +1 Damage
+Damage III
+Adds +1 Damage
+Skill Gem
+Crafter's Skill
+Unlock the ability to craft
+Helmet Crafting
+Gain the ability to craft a Helmet
+Chest Plate Crafting
+Gain the ability to craft a Chest Plate
+Leggings Crafting
+Gain the ability to craft Leggings
+Boot Crafting
+Gain the ability to craft Boots
+It's Dangerous to go Alone
+Gain the ability to craft Swords
+I Pick You
+Gain the ability to craft Pickaxes
+Let Me Axe You a Question
+Gain the ability to craft Axes
+Everyday I'm Shoveling
+Gain the ability to craft Shovels
+Obvious Joke Here
+Gain the ability to craft Hoes
+Bow Before Me
+Gain the ability to craft Bows
+My Shield is Here for You
+Gain the ability to craft Shields
+Get to the Point
+Gain the ability to craft Arrows
+Not Sugar Coating
+Gain the ability to craft Tipped Arrows	
+Spectral Crafting
+Gain the ability to craft Spectral Arrows
+Enchanter's Envy
+Gain the ability to craft Enchanting Tables
+Paper Hunter
+Gain the ability to craft Paper
+Book Keeper
+Gain the ability to craft Books
+Book Shelf Crafting
+Gain the ability to craft Book Shelves
+Record Keeping
+Gain the ability to craft a Writable Book
+Brewer's Delight
+Gain the ability to craft a Brewing Stand
+Glass Blower
+Gain the ability to craft a Glass Bottle
+Storage Wars
+Gain the ability to craft Chests
+Ender Storage
+Gain the ability to craft Ender Chests
+Counting Sheep
+Gain the ability to craft Beds
+Privacy Please
+Gain the ability to craft Doors
+Become a Pirate
+Gain the ability to craft Boats
+Miner Deluxe
+Gain the ability to craft Minecarts
+Piece of Carp
+Gain the ability to craft a Fishing Rod
+Portable Liquid
+Gain the ability to craft Buckets
+The Beaconing
+Gain the ability to craft Beacons
+Blast Off
+Gain the ability to craft TNT
+This Looks Familiar
+Gain the ability to craft Maps
+This Way
+Gain the ability to craft a Compass
+Time of Day
+Gain the ability to craft Clocks
+Follow the Leader
+Gain the ability to craft a Lead

@@ -1,0 +1,11 @@
+Tool Belt
+Belt Pouch
+Swap Tool
+Tool Belt
+Open Belt Slot Inventory
+EMPTY
+SWAP
+INSERT
+EXTRACT
+Upgrades: %s (%s slots)
+Tool Belt

@@ -1,0 +1,41 @@
+3C agent, very dedly owo
+Lachrymator Agent
+Nerve Agent
+%s Agent
+Pulmonary Agent
+Vapor
+Cotton Candy Cloud
+Choke Smoke
+Black Smoke
+Blue Smoke
+Brown Smoke
+Cyan Smoke
+Gray Smoke
+Green Smoke
+Light Blue Smoke
+Lime Smoke
+Magenta Smoke
+Orange Smoke
+Pink Smoke
+Purple Smoke
+Red Smoke
+Light Gray Smoke
+White Smoke
+Yellow Smoke
+Healing Vapor
+Mustard Gas
+Sarin
+Smoke
+Tear Gas
+Foul Ash
+Diffuser
+Empty Grenade
+Gas Mask
+%s Bottle
+Grenade Belt
+%s Grenade
+Smoke Powder
+Sulfur
+Gaspunk
+Eye Irritation
+Lung Control Loss

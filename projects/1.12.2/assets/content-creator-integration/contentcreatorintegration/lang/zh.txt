@@ -1,0 +1,362 @@
+This mod is a product of way too many hours of development and testing and is provided free to bridge the gap between content creators and their supporters. Consider donating to the mod author via the CurseForge page!
+Category for socket tokens. These tokens are more likely than not, sensitive information, so be careful who you show these to.
+DEPRECATED. This will be removed in MC 1.14. Use StreamlabsTokens instead.
+DEPRECATED. This will be removed in MC 1.14. Use StreamElementsTokens instead.
+DEPRECATED. This will be removed in MC 1.14. Use TwitchChats instead.
+DEPRECATED. This will be removed in MC 1.14. Use MixerChats instead.
+Socket Api Tokens for Streamlabs. One token per line. Most likely requires a Streamlabs widget to be open when running. I would recommend the event list widget. To find your socket API token: Go to Streamlabs -> Dashboard -> Settings (in left sidebar) -> API Settings -> API Tokens -> Your Socket API Token
+JWT Tokens for StreamElements. One token per line. To find your JWT token: Go to StreamElements -> Dashboard -> Click on your profile name (top right) -> Show secrets
+Tokens for DonationAlerts. One token per line. Untested. Please let me know if it works!
+Twitch channels' chat to listen to. One channel per line.
+Set this if your streamer name is different from your Minecraft name for the $streamer global variable.
+Maximum amount of automatic reconnects before trying giving up.
+The sockets we use can be unreliable at times. Turn this on to get toasts about their status and other events.
+URLs to pull online configs from. These should link to a raw file of the configuration. These configs will override local configs.
+Enable local statistics collection? This information is for your own personal reference. None of it will be sent externally.
+Allow outcomes that require a server to wait until the user connects to a server that allows them to send outcomes? Outcomes are normally discarded otherwise.
+Types of log types to write to disk. Putting socket_event in is the only way to see the raw event information (from the log file) as it is not printed to console. Everything else will still be print to console.
+Default profile name. If set to "default loads from the main CCI directory. If set, will read from that folder within the main CCI directory instead. Change in-game with /cci profile <name>
+Whitelisted Users. These users will be able to trigger serverside outcomes.
+Converts the list of whitelisted users to be the list of blacklisted users.
+/cci profile <name>
+Profile changed to %s
+Error changing profile to %s
+/cci replay <layer> <index (0-19)>
+No cache for %s found.
+No events logged for %s.
+Index too high!
+/cci reconnect <layer|all>
+Failed to reconnect %s
+/cci disconnect <layer|all>
+Failed to disconnect %s
+No sockets.
+You are trying to whitelist another user from a client! It has to be done on the server console!
+Whitelisted %s.
+That user is already whitelisted.
+%s not whitelisted.
+%s removed from whitelist.
+Blacklist now set to %s
+CCI Debug Mode turned on.
+Debug Mode allows CCI to read past Streamlabs/StreamElements events in a "test.log" file. Copy out their event lines from the logs and put it in a "test.log" file in your profile folder (where all the json files are). Hit Shift+Tab to cycle through the lines of test.log. You should have your console open to see the outputs.
+Successfully dumped cached events to dump.json.
+Failed to dump events to dump.json
+Add New Component
+Remove Current Component
+Move Component Up
+Move Component Down
+Edit Component
+Enter Component
+Save and Apply
+Reload Configuration Files
+Exit Without Saving
+Save and Exit
+Statistics
+Shift-click to reset statistics
+Statistics
+Editing
+Invalid input
+Confirm exit?
+Detected changes. Are you sure you would like to exit?
+Sidebar
+Statistics collection disabled!
+Content Creator Integration has taken effect on:
+%1$s %2$s %3$s events
+%1$s %2$s %3$s events totalling %4$s
+No events...yet!
+Consider donating via the CurseForge page!
+"Totalling X" is just a total of bits/viewers/months/raiders, etc. Anything that was put in the amount variable.
+Variables of the last %s events:
+Hold Shift and Ctrl to show the values of the variables (limited to 5 events). This list is scrollable with the scroll wheel.
+Events for: %s
+These are constant definitions. They're special and don't get events.
+This window shows information about the selected element. Manipulate them with the controls under each browser window.
+Full documentation for this mod can be found at: https://content-creator-integration.readthedocs.io
+Shift + Click to open URL
+Connecting
+Connected
+Authenticated
+Failed to connect
+Reconnecting
+Disconnected
+Disabling reconnects
+Failed to reconnect
+Loaded online configs
+List of event types and configurations
+List of events to execute when this configuration file gets loaded (and when it is reloaded). Only global variables will be passed initially but you can add more variables in each event's conditions and outcomes. All events will be executed, the event's allowsOtherEventsToTrigger isn't used here.
+This is the online source for this EventConfiguration. Ignore this field. If the name in the UI does not have an asterisk (*), then this file was loaded locally.
+This is to define what type of EventConfiguration this is if pulled from an online source. Set this is you want to host this file online, eg: streamlabs/streamelements/chat/etc. Bear in mind that retrieving an online file will override local configs.
+This configuration file was from an online source.
+List of condition constants
+List of outcome constants
+List of event constants
+Which account is this configuration for. If null, will be applied to all accounts.
+Which event types should be queued?
+List of event types
+List of conditions required to trigger the event.
+List of outcomes to trigger if the event meets the conditions.
+Optional name for this event, for Editor readability.
+The name of mapping to the Constant Event to reference. If this is set, we check against the Constant Event's conditions and trigger their outcomes.
+Disable this event?
+Does this event trigger from any condition that is met?
+Does triggering this event still allow other events to trigger?
+If there are multiple outcomes for the event, only the first outcome that succeeds?
+How long to play the event, in ticks. Only if the event type has been registered a queue. Set to -1 to skip the queue.
+How long of a delay, in ticks, before playing the event.
+How long of a delay, in ticks, before playing the event (from a variable). This has a higher priority than "delay".
+How often this event can be triggered, in ticks. Remove to have no cooldown.
+How often this event can be triggered, in ticks (from a variable). Remove to have no cooldown. This has a higher priority than "cooldown".
+Normally, if this event is on cooldown (and "allowsOtherEventsToTrigger" is disabled) and things meet the conditions, this event stops other events triggering. This disables that.
+If the condition isn't met, consider it met and vice versa.
+Use this to check for a specific username.
+Username to check for.
+Use this to check for a specific value.
+Do you want to search for a specific variable name? Remove to look for the default variable "amount".
+Amount to check for.
+Use this to check for a range of values.
+Do you want to search for a specific variable name? Remove to look for the default variable "amount".
+Minimum range (inclusive). Remove to have no minimum range.
+Maximum range (inclusive). Remove to have no maximum range.
+Minimum range (inclusive) from a range. Takes priority over the number value.
+Maximum range (inclusive) from a range. Takes priority over the number value.
+Use this to check for a content in the event's message.
+Do you want to search for a specific variable name? Remove to look for the default variable "message".
+Does this require an exact phrase?
+Is this phrase case sensitive?
+What is the phrase?
+Use this to check for a specific variable.
+The name of the variable you are targeting
+The result you are hoping to match with. If you are looking to see if this is contained in within the variable result, use MessageCondition instead with optionalVariableName set.
+Be case sensitive?
+Check from global variables.
+Use this to check if a variable exists.
+The name of the variable you are targeting.
+Check if it's specifically a global variable.
+Use this to check if a variable is a number.
+The name of the variable you are targeting.
+Removes a variable from the variables list
+The name of the variable you are targeting.
+Removes this variable from the global variables as well.
+Use this to for a random chance for this condition to be met.
+What is the chance for this condition to be met? 0.0 to 1.0.
+Use this to see if a certain target exists or not.
+Target selector string to target.
+Use this condition to load a note/note array into a variable. It will fail if the note/note array doesn't exist. Put note conditions higher up so the later conditions and outcomes will be able to use what's in the variable.
+Name of the note.
+Name of the variable to insert the note/note array. Will override event variables if they already exist.
+Load the notes array instead of the simple note?
+Should this condition be met even if the note or note array doesn't exist?
+If the note does not exist, should there be a default variable value set?
+Use this condition for multiple conditions. Potentially used for a nested OR statement if "any" is turned on.
+Array of conditions.
+Will any of the conditions met trigger this condition? Basically an AND and OR switch.
+Use this condition to call a constant condition.
+Name of the constant condition.
+Use this condition to check if a mod is loaded.
+ID of the mod.
+Condition will be met if you can trigger server-side outcomes.
+Insert a specific target's information into a variable. Always meets condition. Will insert a blank string if target or argument cannot be found.
+Target selector string to target.
+Arguments: name, location[x/y/z], rotation[yaw/pitch], look[x/y/z][number], radius[x/y/z/h][number], biome, dim/dimension, light[block], diff/difficulty, time, day
+Variable name to insert the result into.
+Do simple arithmetic calculations on variables. Inserts 0 if something failed. Will always return a double-type number. Use round/floor/ceil to convert value1 to a integer-type (whole number).
+Function to use: +, -, x, /, pow, sqrt, mod, max, min, round, floor, ceil, log, signum, abs, sin, cos, tan, asin, acos, atan. Trigonometric functions uses degrees. Some operations only use the first variable.
+First value, can be a variable name or number.
+Second value, can be a variable name or number.
+Variable name to insert the result into.
+Gets a random number between two values.
+First value, can be a variable name.
+Second value, can be a variable name.
+Variable name to insert the result into.
+Round off the number to the nearest Integer?
+Puts two objects together into a variable as a String.
+First part. Supports variables.
+Last part. Supports variables.
+Name of the variable to insert into. Will override existing variables.
+Compares a String to another String (for ordering).
+Source String.
+String to compare with.
+Name of the variable to insert the result into. Will override existing variables.
+Checks a String for the index of the target String.
+Source String.
+Target String.
+Check for last index instead of first index
+Name of the variable to insert the result into. Will override existing variables.
+Converts a String to lower case.
+Source String.
+Name of the variable to insert the result into. Will override existing variables.
+Replaces a String within a String with another String. Supports regex.
+Source String.
+Target String.
+Replacement String.
+Name of the variable to insert the result into. Will override existing variables.
+Use this to use a literal string rather than a regex pattern matcher.
+Splits a string with the listed pattern. Result is an array.
+Source String.
+Pattern to split by
+Name of the variable to insert the result into. Will override existing variables. Result is an array.
+Do we omit empty strings?
+Takes a part of a String based on the given parameters. Returns false if the indices are incorrect.
+Source String.
+Start index for substring
+End index for substring (optional)
+Name of the variable to insert the result into. Will override existing variables.
+Trims the whitespace around a String
+Source String.
+Name of the variable to insert the result into. Will override existing variables.
+Converts a String to upper case.
+Source String.
+Name of the variable to insert the result into. Will override existing variables.
+Puts the length of a string into a variable.
+Source String.
+Name of the variable to insert the result into. Will override existing variables.
+Checks if a string contains a target string
+Source String.
+Target String.
+Checks if a string ends with a target string
+Source String.
+Target String.
+Checks if a string equals to the target string
+Source String.
+Target String.
+Checks if a string starts with a target string
+Source String.
+Target String.
+If you want to check the player's statistics, you need to request this from the server first. Put this in an event and in that same event, set a reasonable delay, such as 20 ticks or so (varies depending on player ping). In one of the outcomes, use an EventOutcome that has a StatisticsCondition to actually check the stat and act upon it.
+Checks for a player statistic. Please look at RequestStatisticsConditions first.
+The variable to put the statistic number into. Will return false if the statistics lookup failed.
+(DEPRECATED) Writes information into a global variable that will can be used elsewhere in other events. Local variables of the same name will still override these. If you want to check the content of a variable, use VariableCondition
+Name of the global variable to insert into. Will override existing variables.
+Content of the variable you are inserting into.
+Writes information into a variable to be used by other conditions/outcomes. For example, using multiple ConditionalOutcomes to see if a certain sentence should insert "month" or "months".
+Name of the variable to insert into. Will override existing variables.
+Content of the variable you are inserting into.
+Adds this variable to the global variables as well.
+Are you editing the notes externally? This condition will reload your notes.
+Use this to check if a variable is an array.
+The name of the variable you are targeting.
+Use this to check for a String in an array from a specific variable.
+The name of the variable you are targeting.
+The result you are hoping to match with within the array.
+Be case sensitive?
+Gets the length of an array. Returns false if the variable isn't an array.
+The name of the variable that stores the array.
+The name of the variable to store the result.
+Combines two arrays.
+The name of the variable with the first array.
+The name of the variable with the second array.
+The name of the variable to store the combined array.
+Deletes a string from the array. Returns false if the variable is not an array or the string is not found in the array.
+The name of the variable that stores the array.
+String to remove from the array.
+Adds a string to the array. Returns false if the variable is not an array.
+The name of the variable that stores the array.
+String to add to the array.
+Create the array if it doesn't exist?
+Add to global variables?
+Explodes the array into a different variable per object. Returns false if the variable isn't an array.
+The name of the variable that stores the array.
+The name of the variable to store the results. Size of array will be stored in variable <name>Length, and each individual object will be stored in variable <name>0-(length-1)
+Gets a random string from a list of strings.
+Array of strings to pick from.
+Variable name to insert the result into.
+A condition that is just always met.
+Gets the lines of a file. Each line will be in variable $<file_name>_<line>, eg "$file_1" "$file_2". Total lines will be in $<file_name>_count, eg "$file_count".
+File Name.
+A condition, that if passes or fails, triggers a specific condition. A pre-check if you want.
+The condition to check first.
+If the condition passes, return this condition's result.
+If the condition fails, return this condition's results. Optional. Will return false if the condition is not met and this is not set.
+Makes Strings safe to be inserted into JSON lines
+Source string.
+Name of the variable to insert the result into. Will override existing variables.
+A condition that repeatedly calls a condition. This is for functional conditions.
+How many times to repeat the condition? The iteration count is stored in the $iteCount variable.
+Variable to pull an array. If this is used, 'times' is ignored, and the array will be looped through instead. The array content being looped through will be put in the $arrayObject variable and removed once it is done. The iteration count is stored in the $iteCount variable.
+The condition to repeat
+A condition, if met, breaks the loop cycle.
+The weight of this outcome, if there are multiple outcomes for this event.
+Trigger a client-side or server-side command.
+String to be put into the command.
+Should the command be executed as the streamer or the server? (Only if the command is serverside)
+Is the command a client side command?
+How to handle the feedback of the command? Leave it as null to silence feedback (will not silence command errors). Leave it an empty string to allow the feedback. Put a name in to attempt to capture the feedback into a global variable of said name (only if the command is "executeAsSelf"). This listens for feedback from the server and will stop after a second. Bear in mind that CCI has to guess which chat message received is the feedback from the command, so do your testing! Allows variable insertion for the name. The feedback can not be used in the same event, as there will be a delay from sending the command to the server and to wait for the feedback. To use the feedback you will need to use a staggered event, or another event and a later time.
+To be used with "handleFeedback". If you know which feedback translation keys to listen for, put them in the array. If not, leave null, and CCI will capture the first available command feedback. To be used with commands that return several lines of feedback. Eg: Doing "/time query daytime" will return a localizable string with the key "commands.time.query". Add that if you want to capture just that one feedback line.
+If you are connected to a server where you don't have CCI permissions/server doesn't have CCI installed, and "executeAsSelf" is enabled, CommandOutcome tries to send a chat message with the command instead. Turning this on disables that.
+Play a sound either client-side or server-side.
+Is the sound to be played on the client?
+The sound name, in resource location format. EG minecraft:entity.pig.ambient
+The target selector for the sound. Only for non-client side sounds.
+Volume of the sound
+Pitch of the sound
+Attempt to trigger even more events. Use this to trigger delayed events, such as when Requesting Statistics or awaiting Command Feedback. Be mindful that the event's conditions are checked before triggering, so any functional conditions need to be done in a ConditionalOutcome instead, if the event has a delay.
+List of events to attempt to trigger.
+Writes a note to file.
+Name of the note. If a note already exists by this name, it will be overwritten. You can use the note condition to see if the note exists first.
+Content of note.
+Add the content to the end of the simple note, or add a new element into the notes array?
+Do we put the note content into the notes array?
+Makes an entity mount another entity. Returns false if it failed.
+Target selector for the rider.
+Target selector for the entity to be ridden.
+Force the ride.
+Force the rider to ride the topmost entity on the entity to ride.
+Use this outcome for multiple outcomes. For times you want only a single outcome to be triggered but at the same time, multiple.
+List of outcomes
+Stop on the first outcome that succeeds?
+Use this outcome to call a constant outcome.
+Name of the constant outcome.
+Use this outcome to check for a specific condition before triggering.
+The condition to check.
+The outcome to trigger.
+An optional outcome to trigger if the condition isn't met.
+Use this outcome to send put a message in chat if the player is in the world.
+Message to send. Supports Minecraft's Text Formatting
+Put the message in the player's Action Bar instead?
+Use this outcome to send put a message in chat if the player is in the world.
+Title for the toast.
+Subtitle for the toast
+Color for the title. Supports hex values.
+Color for the subtitle. Supports hex values.
+An outcome that does nothing.
+Deletes info of a note. If the note is empty then it will be removed anyway.
+Name of the note.
+Content to remove from array. Only used if deletionType is 3.
+An outcome that repeatedly attempts an outcome.
+How many times to repeat the outcome? The iteration count is stored in the $iteCount variable.
+Variable to pull an array. If this is used, 'times' is ignored, and the array will be looped through instead. The array content being looped through will be put in the $arrayObject variable and removed once it is done. The iteration count is stored in the $iteCount variable.
+The outcome to repeat
+A condition, if met, breaks the loop cycle.
+Heal or damage a list of targets.
+The target selector for the entities to affect.
+Amount of health to change. Positive values heal, negative values hurt.
+Sends an InterModComms runtime message to another mod.
+The modId of the mod to send this message to.
+The key/subject of the IMC message.
+The value/message of the IMC message.
+Pop-up a window that requires the player to hit Done.
+The information text for the pop up.
+An optional outcome to trigger after the player hits Done.
+Pop-up a window that requires the player to hit Yes or No.
+The information text for the pop up.
+Override text for the Yes button?
+Override text for the No button?
+An optional outcome to trigger after the player hits Yes.
+An optional outcome to trigger after the player hits No.
+Pop-up a window that requires the player to input some text.
+The information text for the pop up.
+Default text for the input box.
+The variable name to put the String from the input box once the player hits Done.
+An outcome to trigger after the player hits Done. Bear in mind that the variable this InputOutcome inserts into is not a global variable and thus will be discarded if not stored by in one.
+Force a set of entities matching the target selector to drop an item in a slot.
+The target selector for the entities to affect.
+The index/slot number for the inventories.
+The amount to drop from the stack.
+Uses the built in Narrator support to speak audibly.
+Message for narrator to say. Supports variable insertion
+Interrupts the currently speaking narrator line.
+Adjust the motion of a set of entities
+The target selector for the entities to affect.
+The amount of motion to apply.
+The axis to apply the motion to. Supports "x", "y", "z".
+Should the motion applied be relative to the entity instead of absolute?
+Apply this to just the player? Due to how Minecraft works, the player on the client has it's own motion and cannot be modified by the server.

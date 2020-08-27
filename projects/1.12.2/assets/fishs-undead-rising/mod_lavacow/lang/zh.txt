@@ -1,0 +1,268 @@
+Nether Stew
+Cane Beef
+Cane Pork
+Cane Rotten Flesh
+Potion of Fission
+Hyphae
+Glow Shroom
+Parasite
+Cooked Parasite
+Piranha
+Cooked Piranha
+Cheirolepis
+Cooked Cheirolepis
+Minced meat
+Meat Ball
+Fangtooth
+Bone Sword
+Intestine
+Frozen Thigh
+Poisonous Spore
+Undying Heart
+Golden Heart
+Molten Meat
+Molten Axe
+Molten Hammer
+Molten Heart
+Potion of MOOten Lava
+Swine Mask
+Plagued Porkchop
+Green Bacon & Eggs
+Plagued Hide    
+Scythe Claw
+Azrael's Scythe
+"Famine"
+Mimicrab Claw
+Baked Mimicrab Claws
+Silky Sludge
+Mossy Stick
+Sludge Pile
+"Pestilence"
+Burnt Ovipositor
+"War"
+Molten Frypan
+Molten Helmet
+Molten Chestplate
+Molten Leggings
+Molten Boots
+Ptera Wing
+Fried Ptera Wing
+Poison Stinger
+Vespa Carapace
+Tooth Dagger 
+Bee Sting
+Sausage Roll
+Swine Tunics
+Swine Pants
+Swine Boots
+Swarmer
+Cooked Swarmer
+Swarmer Launcher
+Cursed Fabric
+Pet Bandage
+Holy Sludge
+Holy Grenade
+Black Feather
+Shattered Ice
+Halo Necklace
+Dream Catcher
+Glow Shroom Cap
+Glow Shroom Stem
+Bloodtooth
+Cordyceps
+Veil Shroom
+Midnight Mourne
+Raven Whistle
+Acidic Heart
+Famine Helmet
+Famine Tunics
+Famine Pants
+Famine Boots
+Foul Bristle
+Crab Cake
+Molten Meat
+Vespa Carapace
+Scythe Claw
+Broodmother
+§oEnjoy a Wormy Cuddle§r\nSpawn a Vespa larva during combat or when a block is harvested.
+Famine
+§oHorseman of Famine§r\nGives Hunger. Restore 1 hunger points when hitting a non-undead entity or harvesting a block.      
+Moogma
+Mycosis
+Parasite
+Foglet
+Frigid
+Undead Swine
+Salamander
+Ithaqua
+Mimicrab
+Sludge Lord
+Lil'Sludge
+Raven
+Ptera
+Vespa
+Scarecrow
+Vespa Cocoon
+Swarmer
+Piranha
+Osvermis
+Seagull
+Penghoul
+Undertaker
+Unburied
+Parasite squirms
+Parasite dies
+Parasite hurts
+Foglet groans
+Foglet dies
+Foglet hurts
+Undead Swine snuffles
+Undead Swine snuffles
+Undead Swine dies
+Undead Swine hurts
+Salamander groans
+Salamander dies
+Salamander hurts
+Mimicrab snaps
+Ithaqua barks
+Ithaqua howls
+Ithaqua dies
+Ithaqua hurts
+Mimicrab clicks
+Mimicrab dies
+Mimicrab hurts
+Sludge Lord echoes
+Sludge Lord dies
+Sludge Lord hurts
+Lil'Sludge hisses
+Lil'Sludge dies
+Lil'Sludge hurts
+Raven calls
+Whistle calls
+Raven dies
+Raven hurts
+Ptera shrieks
+Ptera dies
+Ptera hurts
+Vespa buzzes
+Vespa dies
+Vespa hurts
+Scarecrow chatters
+Scarecrow dies
+Scarecrow hurts
+Swarmer clicks
+Swarmer dies
+Swarmer hurts
+Unburied groans
+Unburied dies
+Unburied hurts
+Osvermis groans
+Osvermis spits
+Osvermis dies
+Osvermis hurts
+Seagull calls
+Seagull dies
+Seagull hurts
+Penghoul calls
+Penghoul dies
+Penghoul hurts
+Undertaker groans
+Undertaker dies
+Undertaker hurts
+Deals additional %d%% of target's maximum HP as damage.
+Gives Regeneration(0:08) when eaten.
+Gives Regeneration(0:08) when eaten.
+Gives Regeneration(0:08) when eaten, is also mimicrab's favorite.
+Gives random effects(0:40) when eaten.
+Gives Regeneration and repairs(+1/sec) all equipments when equipped.
+Get charcoal when chopping down logs.
+Right click to deal damage to creatures around player.
+Try feeding this to a cow with Fire Resistence. :)
+Turn Animal into two individuals.
+Gives Haste(1:00) when eaten.
+All attacks sweep target, and their damage bypasses any armors.
+Gives Hunger. Restore 1 hunger points when hitting a non-undead entity.      
+Is edible. Attacks give target SlownessIII(0:04)
+Right click to summon a loyal Lil'Sludge
+Raise a war between you and your friend who built a wood cabin (need Fire Charge as ammunition)
+Used to make special cuisines
+Right click to find what's inside it
+Damage to burning mobs+
+Fire damage to player-
+Set(2): Time of consuming food -20%%.
+Set(4): Remove negative potion effects after consuming food.
+Right click to launch a Swarmer at target. (need Swarmer as ammunition)
+Heals 2 HP to your pet
+Throw at target location and cause explosion. Undead within 300%% damage and get burned(0:08)
+Damage to undead mobs+%d%%
+Catches the nightmarish creature from the dream.
+Right click to summon an army of Unburied.
+Right click to bind with a raven and order it to move to target location.
+Set(2): +2 damage when in Hunger state.
+Set(4): No longer be able to eat, but +4 Hunger +1 Health when killing an entity.
+ is evolving!
+ is waiting
+ is following
+ is wandering
+ is now the whistle target
+Fish's Undead Rising
+Mount Special Ability
+Poisonous
+Lifesteal
+Corrosive
+Corroded
+Soiled
+Potion of Corrosion
+Splash Potion of Corrosion
+Llingering Potion of Corrosion
+Arrow of Corrosion
+Potion of Foul Odor
+Splash Potion of Foul Odor
+Llingering Potion of Foul Odor
+Arrow of Foul Odor
+The Dark Night
+Enter a world of undead
+Slimy, Yet Satisfying
+Eat a raw parasite.
+Get it OFFFFF!
+Kill a Parasite.
+NOT THE BEES!
+Kill a Vespa.
+The Last of Me
+Kill a Mycosis.
+Jungle Cruise
+Kill a Piranha.
+Jungle Cruise II : Mutation
+Kill a Swramer.
+This is My Yard
+K.O. a Undertaker.
+Divided We...
+Get a Potion of Fission
+I summon thee
+Get a Potion of MOOten Lava
+Let it Go
+Kill a Frigid
+Mist Mystery
+Kill a Foglet
+Faster Than the Wind
+Kill a Ithaqua
+Boar Rider~~
+Kill a Undead Swine
+Kaboom, baby!
+Kill a Salamander
+The Chest that Pinches
+Kill a Mimic
+Botany Crisis
+Kill a Sludge Lord
+Not Halloween yet 
+Kill a Scarecrow
+Raven, not Crow
+Tame a Raven
+Beef is Good
+Tame a Salamander
+Let's Kick Some Ice
+Kill a Penghoul
+Vultursaur
+Kill a Ptera
+The one Re-bone
+Kill a Osvermis

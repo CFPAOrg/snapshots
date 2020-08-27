@@ -1,0 +1,44 @@
+Added Terrain Smoothable
+Removed Terrain Smoothable
+Added Leaves Smoothable
+Removed Leaves Smoothable
+NoCubes
+Toggle Terrain Smoothable BlockState
+Toggle Leaves Smoothable BlockState
+Toggle Profilers
+Toggle Terrain Collisions
+Toggle Smooth Terrain Rendering
+Toggle Smooth Leaves Rendering
+NoCubes Terrain Collisions don't work properly in 1.14 yet. This is being worked on and will be fixed soon
+NoCubes Terrain Collisions enabled
+NoCubes Terrain Collisions disabled
+You need to be an operator to add a Terrain Smoothable
+You need to be an operator to disable NoCubes Terrain Collisions
+You need to be an operator to enable NoCubes Terrain Collisions
+You need to be an operator to remove a Terrain Smoothable
+You need to be an operator to set the Extend Fluids Range
+You need to be an operator to set the Terrain Mesh Generator
+Added Terrain Smoothable: %s
+Removed Terrain Smoothable: %s
+Set Extend Fluids Range to %s
+Set Terrain Mesh Generator to %s
+NoCubes Config Gui Beta (Changes aren't instant)
+Client Config
+Render Smooth Terrain
+Render Smooth Leaves
+Render both Smooth and Vanilla Leaves
+Leaves Smoothable
+Leaves Mesh Generator
+Smooth Leaves Type
+Apply Diffuse Lighting
+Better Textures
+Short Grass
+Smooth Fluid Lighting
+Smooth Fluid Colors
+Natural Fluid Textures
+Server Config
+Terrain Smoothable
+Extend Fluids Range
+Terrain Mesh Generator
+Terrain Collisions
+Wait %s seconds

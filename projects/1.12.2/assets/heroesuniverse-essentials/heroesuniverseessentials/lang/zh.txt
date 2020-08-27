@@ -1,0 +1,190 @@
+Storage Device
+Pistol
+Pistol
+Fuel Tank
+Pistol
+Circuit Board
+Rubber
+Orange Plastic Plate
+Quartz Crystal
+Big Plastic Rod
+Gold Wire
+HeroesUniverse Essentials
+item.katana.place.magic
+Electrolyte Condensator
+Poison
+Pistol
+Plasma Blade
+Vessel Holder
+Battery
+Fuel Tank
+Fuel Tank
+Pistol
+Fuel Tank
+Orange Plastic
+Heavy Plasma Blaster
+Bog Grass
+item.plasma_spear.animation_throw
+Fuel Tank
+Blast Chamber
+item.katana.force_field
+Fuel Tank
+Big Iron Rod
+Oil Refinery
+Annihilation
+Plastic Plate
+Circuit Board
+Pistol
+Transistor
+Pistol
+Storage Device
+Fuel Tank
+Vessel Holder
+Sulfur Dust
+Pistol
+Stone Rod
+Combustion
+Pistol
+Storage Device
+Storage Device
+Bunch of Solid Plasma
+Fuel Tank
+Resistor
+Pistol
+Solid Plasma Plate
+Rubber Tree Wood
+Pistol
+Red Plastic Plate
+Copper Ingot
+Plasma Blade
+Mixer
+Inkjet Cartridge
+Microcontroller
+Wooden Pistol Handle
+Testing Tube
+Pistol
+Modified Big Iron Rod
+Quartz Ore
+Pistol
+Enchanted Katana
+Pistol
+Vessel
+Iron Fuel Tank
+Gasoline
+Lithium Battery
+Vessel Holder
+Katana Sheat
+Filter
+Pistol
+Lingering Potion of Combustion
+Black Plastic Plate
+Vessel Holder
+Plasma Blaster
+Pistol
+Recolorer
+Pistol
+item.katana.place
+Pistol
+Circuit Board
+Plastic
+Rocket Egine
+Blue Plastic Plate
+Flame Trap
+Drill
+Hydraulic Press
+Pistol
+Fuel Tank
+Pistol
+Potion of Annihilation
+Dirt Flooring
+Screwdriver
+Pistol
+Iron Fuel Tank
+Inkjet Cartridge
+Plastic Rod
+Storage Device
+Storage Device
+Inkjet Cartridge
+item.katana.force_field
+Blast Furnace
+Stone Muzzle
+Sulfur Crystal
+Lithium Ore
+Inkjet Cartridge
+Katana
+Katana Sheat
+Gold Rod
+SD Card
+Fuel Tank
+Green Platic Plate
+Black Plastic
+Inkjet Cartridge
+Vessel
+Arrow of Potion of Combustion
+The Eternity
+Plasma
+Heavy Plasma Blaster
+Lithium Ingot
+Golden Muzzle
+Fuel Tank
+Fuel Tank
+Blue Plastic
+Enchanted Katana
+Venom
+Fuel Tank
+Potion of Combustion
+Fuel Tank
+Splash Potion of Combustion
+Naphtha
+Iron Pistol Handle
+Iron Fuel Tank
+Fuel Tank
+Red Plastic
+Vessel
+Lingering Potion of Annihilation
+Plasma Spear
+Oil Drill
+Pistol
+Oil Splitter
+Golden Pistol Handle
+Copper Ore
+ite.plasma_blaster.bullet
+Pistol
+item.katana.force_field
+Plastic Covered Iron Handle
+Pistol
+Pistol
+item.katana.force_field
+Pistol
+Pistol
+Green Plastic
+Bog
+Dry Rubber Tree Wood
+Lamp
+Sulfur
+Triple Rocket Engine
+Pistol
+Vessel Holder
+Coil
+Pistol
+Iron Rod
+Pistol
+item.katana.force_field
+Chemistry Lab
+Circuit Creator
+Wooden Muzzle
+Arrow of Potion of Annihilation
+Oil
+Plasma Spear
+Splash Potion of Annihilation
+Copper Wire
+Storage Device
+Natural Rubber
+Nether Blast Chamber
+Katana Sheat
+Pistol
+Stone Pistol Handle
+Iron Muzzle
+Pistol
+Wire
+Raw Quartz Shard

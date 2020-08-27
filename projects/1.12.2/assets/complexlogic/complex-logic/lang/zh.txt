@@ -1,0 +1,33 @@
+Bundled Memory Gate
+Bundled Adder Gate
+Bundled AND Gate
+Bundled XOR Gate
+Bundled Viewer Gate
+Bundled Shifter Gate
+7-Segment Display (2-Digit)
+Counter
+Bundled Dividing Gate
+Real-Time Clock
+Bundled Modulo Gate
+Bundled Multiplier
+Random Value Generator
+BIN-TO-BCD
+BIN-TO-7SEG
+Global OR Gate
+Bit Mirror Gate
+Subtractor Gate
+Hex Driver
+Multiplexer Gate
+Bundled NAND Gate
+Button Panel
+Patch Panel
+Text Display (2-Character)
+Digital-Analog Converter
+Analog-Digital Converter
+%s Lamp
+%s Inverted Lamp
+%s Cage Lamp
+%s Inverted Cage Lamp
+%s Flat Lamp
+%s Inverted Flat Lamp
+Hex Editor

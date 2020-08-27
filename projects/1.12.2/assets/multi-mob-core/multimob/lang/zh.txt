@@ -1,0 +1,20 @@
+Mob Spawning Configuration
+0 Extra Spawn Entries
+1 Spawn Frequencies
+2 Spawn Disabling
+3 Allowing Peaceful spawns
+4 Adding additional rarity
+5 Setting Spawn BiomeTypes
+6 Setting Spawn Biomes
+7 Setting Spawn Dimensions
+8 Setting height levels
+9 Setting light levels
+10 Setting spawn check types
+11 Setting Spawn Weather
+12 Setting Spawn Blocks
+13 Setting near-Spawn Blocks
+14 Setting near-Spawn Entities
+15 Setting Spawn Structures
+16 Give more space
+17 Set surface spawn
+18 Allow override of entity spawn checks

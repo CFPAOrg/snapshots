@@ -1,0 +1,39 @@
+English
+US
+en_US
+Generic
+Fixes
+Lists
+Tweak Toggles
+Tweak Hotkeys
+Generic Hotkeys
+Placement stuff
+Tweakeroo Configs
+Generic hotkeys
+Tweak toggle hotkeys
+Black List
+None
+White List
+Plane
+Face
+Column
+Line
+Diagonal
+§6!! WARNING - %s potion effect(s) about to run out in %s seconds !!§r
+Swapped a repairable item to hand
+Set After Clicker count to %s
+Set Hotbar Slot Cycle max slot to %s
+Set Placement Grid size to %s
+Set Placement Limit to %s
+Set Placement Restriction mode to %s
+Swapped a low durability item for one with more durability
+Swapped a low durability item for a dummy item
+Swapped a low durability item off the player's hand
+Toggled %s %s
+Toggled After Clicker tweak %s, clicks: %s
+Toggled Hotbar Slot Cycle tweak %s, max slot: %s
+Toggled Placement Grid tweak %s, grid interval: %s
+Toggled Placement Limit tweak %s, limit: %s
+Toggled Fast Placement mode %s, mode: %s
+OFF
+ON

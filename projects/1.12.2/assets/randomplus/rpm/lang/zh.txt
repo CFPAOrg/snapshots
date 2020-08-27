@@ -1,0 +1,147 @@
+Stone Stick
+Iron Stick
+Gold Stick
+Diamond Stick
+Chaos Stick
+Stone Star
+Iron Star
+Gold Star
+Diamond Star
+Chaos Star
+Lithium Battery
+Machine Casing
+Research Kit
+Screen
+Energy Transmitter
+Circuit
+Amethyst
+Chaos Crystal
+Ruby
+Sapphire
+Ancient Shard
+Aluminium Ingot
+Bronze Ingot
+Copper Ingot
+Magnite Ingot
+Reinforced Steel Ingot
+Steel Ingot
+Tin Ingot
+Titanium Ingot
+Lithium
+Ruby Sword
+Ruby Pickaxe
+Ruby Axe
+Ruby Shovel
+Ruby Hoe
+Sapphire Sword
+Sapphire Pickaxe
+Sapphire Axe
+Sapphire Shovel
+Sapphire Hoe
+Amethyst Sword
+Amethyst Pickaxe
+Amethyst Axe
+Amethyst Shovel
+Amethyst Hoe
+Emerald Sword
+Emerald Pickaxe
+Emerald Axe
+Emerald Shovel
+Emerald Hoe
+Bronze Sword
+Bronze Pickaxe
+Bronze Axe
+Bronze Shovel
+Bronze Hoe
+Copper Sword
+Copper Pickaxe
+Copper Axe
+Copper Shovel
+Copper Hoe
+Steel Sword
+Steel Pickaxe
+Steel Axe
+Steel Shovel
+Steel Hoe
+Titanium Sword
+Titanium Pickaxe
+Titanium Axe
+Titanium Shovel
+Titanium Hoe
+Magnite Sword
+Magnite Pickaxe
+Magnite Axe
+Magnite Shovel
+Magnite Hoe
+Ruby Helmet
+Ruby Chestplate
+Ruby Leggings
+Ruby Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Amethyst Helmet
+Amethyst Chestplate
+Amethyst Leggings
+Amethyst Boots
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Bronze Helmet
+Bronze Chestplate
+Bronze Leggings
+Bronze Boots
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Titanium Helmet
+Titanium Chestplate
+Titanium Leggings
+Titanium Boots
+Magnite Helmet
+Magnite Chestplate
+Magnite Leggings
+Magnite Boots
+Artifact of Fire
+Artifact of Darkness
+Artifact of Speed
+Unknown Artifact
+Artifact of Warfare
+Artifact of Water
+Aluminium Block
+Amethyst Block
+Bronze Block
+Chaos Block
+Copper Block
+Magnite Block
+Reinforced Steel Block
+Ruby Block
+Tin Block
+Titanium Block
+Sapphire Block
+Steel Block
+Aluminium Ore
+Amethyst Ore
+Chaos Ore
+Copper Ore
+Lithium Ore
+Ruby Ore
+Sapphire Ore
+Tin Ore
+Titanium Ore
+Ancient Rock
+Alloy Press
+Ancient Generator
+Artifact Analyzer
+Pylon
+Ancient Generator
+Artifact Analyzer
+Archeology
+RandomPlus

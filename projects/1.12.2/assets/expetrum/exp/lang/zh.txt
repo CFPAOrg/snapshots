@@ -1,0 +1,1303 @@
+true
+Healthy
+Injured
+Heavily Injured
+Dying
+Nearly Dead
+Dead
+Saturated
+Not Hungry
+Peckish
+Slightly Hungry
+Hungry
+Very Hungry
+Starving
+Not Thirsty
+Slightly Thirsty
+Thirsty
+Very Thirsty
+Extremely Thirsty
+Dying Of Dehydration
+Freezing To Death
+Freezing To Death
+Extremely Cold
+Very Cold
+Cold
+Slightly Cold
+Normal
+Slightly Hot
+Hot
+Very Hot
+Extremely Hot
+Boiling Alive
+I'm Fine
+I'm Hurt
+I'm Happy
+My Bones Are Broken
+I Am Bleeding
+I Feel Dizzy
+I Feel Bad
+I Am Dying
+Spring
+Summer
+Autumn
+Winter
+Calm
+Light Air
+Light Breeze
+Gentle Breeze
+Moderate Breeze
+Fresh Breeze
+Fresh Wind
+Strong Wind
+Fresh Gale
+Strong Gale
+Whole Gale
+Storm
+Hurricane
+Freezing Cold
+Very Cold
+Cold
+Slightly Cold
+Water Freezing
+Warm
+Very Warm
+Hot
+Insanely Hot
+It's Raining
+Very Dry
+Dry
+Normal
+Slightly Wet
+Wet
+Very Wet
+It Will Rain Any Minute
+Underground Blocks
+Ores
+Common Blocks
+Plantlife
+Misc Blocks
+Metals
+Tools
+Food
+Misc Items
+Acanthite (Silver)
+Barite (Barium)
+Bauxite (Aluminum)
+Beryl (Gemstones)
+Bornite (Copper)
+Cassiterite (Tin)
+Chalcocite (Copper)
+Chalcopyrite (Copper)
+Chromite (Chromium)
+Cinnabar (Mercury)
+Cobaltite (Cobalt)
+Coltan (Tantalum)
+Dolomite (Magnesium)
+Galena (Lead)
+Native Gold (Gold)
+Hematite (Iron)
+Ilmenite (Titanium)
+Magnetite (Iron)
+Malachite (Copper)
+Molybdenite (Molybdenum)
+Pentlandite (Nickel)
+Pyrolusite (Manganese)
+Scheelite (Tungsten)
+Sperrylite (Platinum)
+Sphalerite (Zinc)
+Uraninite (Uranium)
+Wolframite (Tungsten)
+Lignite (Coal)
+Bituminous Coal (Coal)
+Anthracite (Type Of Coal)
+Graphite (Graphite)
+Bismuthinite (Bismuth)
+Richness: Poor
+Richness: Normal
+Richness: Rich
+Water
+Milk
+Oil
+Clay
+Tannin
+Olive Oil
+Walnut Oil
+Fruit Juice
+Brine
+Ore
+ExPetrum
+⚖ %d Gram   ⊞ %s
+Tiny
+Small
+Normal
+Big
+Huge
+%s%% Rotten
+%s Gram
+Water: %dmb
+It's empty
+There is some liquid
+It's half way filled
+It's mostly filled
+It's full of liquid
+Liquid
+§4This tool has been disabled by ExPetrum! It can only be used for crafting!
+§fCan Work
+ §fCan Weld
+ §f!Danger!
+ ⏐
+Weld
+New Age Achieved!
+The animal is scared of you.
+The animal is cautious of you.
+The animal is neutral to you.
+The animal trusts you.
+The animal trusts you completely.
+§6Fertilized
+This animal doesn't want any food now.
+This animal is pregnant.
+The animal doesn't trust you enough to do that.
+%dmb
+%d℃
+%d Prog.
+%d Ticks
+Req. Anvil Tier:
+Stone
+Copper
+Bronze
+Iron
+Steel
+Tool/HSLA Steel
+Pickled
+Well Cooked
+Close the game
+Continue anyway.
+Security Exception
+Only download mods from trusted sources!
+ExPetrum has detected that the mod jar you are running is not the same jar that the author of the mod distributed! This may mean many things most of them negative. At the very least the jar was modified. At worst a virus software was injected into the mod jar. If you downloaded the mod from anywhere else rather than curseforge.com §4IMMEDIATELY CLOSE YOUR GAME AND DELETE THE JAR FILE!§f If you did download the mod from curseforge I would suggest checking your PC for viruses as the jar was obviously modified. Lastly if you are seeing this error and you have built the mod from sources yourself - you can safely ignore it.
+Smelting
+Pottery
+Welding
+Smithing
+Alloying
+Quern
+Scraping Rack
+Spinning Wheel
+Bloomery
+Barrel
+Fruit Press
+Blast Furnace
+Bend
++10 Prog|-5 Int
+Upset
++5 Prog|-5 Int|+1 Heat
+Punch
++5 Prog|-15 Int
+Sharpen
++5 Prog|-10 Int|+1 Heat
+Clear
++5 Int
+Hit
++10 Prog|-5 Int|+1 Heat
+Swag
++5 Prog|+5 Int
+Swipe
++20 Prog|-20 Int|+1 Heat
+Mend
++10 Int|+1 Heat
+Extract
+-10 Int|-1 Heat
+Combine
++20 Prog|-10 Int|+1 Heat
+Melt
++20 Int|+2 Heat
+Overheat
+Take|2|Damage
+-10 Int
+Stone
+Stone (Tile)
+Stone (Brick)
+Stone (Small Brick)
+Pebbles
+Boulder
+Worked Boulder
+Rock
+Boulder With Ore
+Dirt
+Sand
+Coral
+Coral
+Snow Layer
+Ice
+Farmland
+Grass
+Dry Grass
+Dead Grass
+Lily Pad
+Cattail
+Tallgrass
+Seaweed
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Log
+Leaves
+Leaves
+Leaves
+Leaves
+Leaves
+Leaves
+Leaves
+Leaves
+Leaves
+Bush
+Blooming Bush
+Autumn Bush
+Dead Bush
+Berry Bush
+Berry Bush With Berries
+Autumn Berry Bush
+Dead Berry Bush
+Crop
+Fruit
+Generic Plants
+Stick
+Seeds
+Salt Water
+Fresh Water
+Magma
+Oil
+Clay
+Campfire
+Pottery Station
+Charcoal Layer
+Kaolin
+Kaolin Bricks
+Fired Bricks
+Iron Plated Fired Bricks
+Kalopanax Planks
+Birch Planks
+Acacia Planks
+Chestnut Planks
+Oak Planks
+Hickory Planks
+Baobab Planks
+Kapok Planks
+Eucalyptus Planks
+Ash Planks
+Willow Planks
+Maple Planks
+Redwood Planks
+Fir Planks
+Cedar Planks
+Spruce Planks
+Pine Planks
+Elm Planks
+Palm Planks
+Teak Planks
+Aspen Planks
+Rowan Planks
+Mangrove Planks
+Tupelo Planks
+Parrotia Planks
+Sweetgum Planks
+Jackwood Planks
+Tsuga Planks
+Viburnum Planks
+Koelreuteria Planks
+Apple Planks
+Olive Planks
+Peach Planks
+Orange Planks
+Pear Planks
+Plum Planks
+Banana Planks
+Lemon Planks
+Apricot Planks
+Walnut Planks
+Cherry Planks
+Pomegranate Planks
+Grapefruit Planks
+Avocado Planks
+Carambola Planks
+Crafting Table
+Crafting Table
+Crafting Table
+Wooden Crate
+Forge Core
+Cobblestone
+Quern
+Trough
+Stone Anvil
+Copper Anvil
+Bronze Anvil
+Bismuth Bronze Anvil
+High Leaded Bronze Anvil
+Manganese Bronze Anvil
+Aluminum Bronze Anvil
+Iron Anvil
+Steel Anvil
+Stainless Steel Anvil
+HSLA Steel Anvil
+Tool Steel Anvil
+Crucible
+Hay Block
+Nesting Box
+Wooden Barrel
+Scraping Rack
+Bellows
+Spinning Wheel
+Molten Metal
+Bloomery
+Fruit Press
+Chest
+Shaft
+Gearbox
+Water Wheel
+Splitter Gearbox
+Mechanical Quern
+Windmill
+Mechanical Bellows
+Sawmill
+Mechanical Pottery Station
+Blast Furnace
+Sapling
+Flint
+Rock Salt
+Oven
+Blast Furnace Metal
+Kalopanax Support Beam
+Birch Support Beam
+Acacia Support Beam
+Chestnut Support Beam
+Oak Support Beam
+Hickory Support Beam
+Baobab Support Beam
+Kapok Support Beam
+Eucalyptus Support Beam
+Ash Support Beam
+Willow Support Beam
+Maple Support Beam
+Redwood Support Beam
+Fir Support Beam
+Cedar Support Beam
+Spruce Support Beam
+Pine Support Beam
+Elm Support Beam
+Palm Support Beam
+Teak Support Beam
+Aspen Support Beam
+Rowan Support Beam
+Mangrove Support Beam
+Tupelo Support Beam
+Parrotia Support Beam
+Sweetgum Support Beam
+Jackwood Support Beam
+Tsuga Support Beam
+Viburnum Support Beam
+Koelreuteria Support Beam
+Apple Support Beam
+Olive Support Beam
+Peach Support Beam
+Orange Support Beam
+Pear Support Beam
+Plum Support Beam
+Banana Support Beam
+Lemon Support Beam
+Apricot Support Beam
+Walnut Support Beam
+Cherry Support Beam
+Pomegranate Support Beam
+Grapefruit Support Beam
+Avocado Support Beam
+Carambola Support Beam
+Ingot
+Chicken
+Cow
+Sheep
+Pig
+Wolf
+Stone Knife Head
+Copper Knife Head
+Bronze Knife Head
+Bismuth Bronze Knife Head
+Leaded Bronze Knife Head
+Manganese Bronze Knife Head
+Rose Alloy Knife Head
+Iron Knife Head
+Steel Knife Head
+Tool Steel Knife Head
+Stone Pickaxe Head
+Copper Pickaxe Head
+Bronze Pickaxe Head
+Bismuth Bronze Pickaxe Head
+Leaded Bronze Pickaxe Head
+Manganese Bronze Pickaxe Head
+Rose Alloy Pickaxe Head
+Iron Pickaxe Head
+Steel Pickaxe Head
+Tool Steel Pickaxe Head
+Stone Axe Head
+Copper Axe Head
+Bronze Axe Head
+Bismuth Bronze Axe Head
+Leaded Bronze Axe Head
+Manganese Bronze Axe Head
+Rose Alloy Axe Head
+Iron Axe Head
+Steel Axe Head
+Tool Steel Axe Head
+Stone Shovel Head
+Copper Shovel Head
+Bronze Shovel Head
+Bismuth Bronze Shovel Head
+Leaded Bronze Shovel Head
+Manganese Bronze Shovel Head
+Rose Alloy Shovel Head
+Iron Shovel Head
+Steel Shovel Head
+Tool Steel Shovel Head
+Stone Hoe Head
+Copper Hoe Head
+Bronze Hoe Head
+Bismuth Bronze Hoe Head
+Leaded Bronze Hoe Head
+Manganese Bronze Hoe Head
+Rose Alloy Hoe Head
+Iron Hoe Head
+Steel Hoe Head
+Tool Steel Hoe Head
+Stone Sword Head
+Copper Sword Head
+Bronze Sword Head
+Bismuth Bronze Sword Head
+Leaded Bronze Sword Head
+Manganese Bronze Sword Head
+Rose Alloy Sword Head
+Iron Sword Head
+Steel Sword Head
+Tool Steel Sword Head
+Stone Scythe Head
+Copper Scythe Head
+Bronze Scythe Head
+Bismuth Bronze Scythe Head
+Leaded Bronze Scythe Head
+Manganese Bronze Scythe Head
+Rose Alloy Scythe Head
+Iron Scythe Head
+Steel Scythe Head
+Tool Steel Scythe Head
+Stone Battleaxe Head
+Copper Battleaxe Head
+Bronze Battleaxe Head
+Bismuth Bronze Battleaxe Head
+Leaded Bronze Battleaxe Head
+Manganese Bronze Battleaxe Head
+Rose Alloy Battleaxe Head
+Iron Battleaxe Head
+Steel Battleaxe Head
+Tool Steel Battleaxe Head
+Stone Hammer Head
+Copper Hammer Head
+Bronze Hammer Head
+Bismuth Bronze Hammer Head
+Leaded Bronze Hammer Head
+Manganese Bronze Hammer Head
+Rose Alloy Hammer Head
+Iron Hammer Head
+Steel Hammer Head
+Tool Steel Hammer Head
+Stone Spear Head
+Copper Spear Head
+Bronze Spear Head
+Bismuth Bronze Spear Head
+Leaded Bronze Spear Head
+Manganese Bronze Spear Head
+Rose Alloy Spear Head
+Iron Spear Head
+Steel Spear Head
+Tool Steel Spear Head
+Wooden Watering Can Base
+Copper Watering Can Base
+Bronze Watering Can Base
+Bismuth Bronze Watering Can Base
+Leaded Bronze Watering Can Base
+Manganese Bronze Watering Can Base
+Rose Alloy Watering Can Base
+Iron Watering Can Base
+Steel Watering Can Base
+Tool Steel Watering Can Base
+Stone Gardening Tool Head
+Copper Gardening Tool Head
+Bronze Gardening Tool Head
+Bismuth Bronze Gardening Tool Head
+Leaded Bronze Gardening Tool Head
+Manganese Bronze Gardening Tool Head
+Rose Alloy Gardening Tool Head
+Iron Gardening Tool Head
+Steel Gardening Tool Head
+Tool Steel Gardening Tool Head
+Stone Saw Head
+Copper Saw Head
+Bronze Saw Head
+Bismuth Bronze Saw Head
+Leaded Bronze Saw Head
+Manganese Bronze Saw Head
+Rose Alloy Saw Head
+Iron Saw Head
+Steel Saw Head
+Tool Steel Saw Head
+Stone Chisel Head
+Copper Chisel Head
+Bronze Chisel Head
+Bismuth Bronze Chisel Head
+Leaded Bronze Chisel Head
+Manganese Bronze Chisel Head
+Rose Alloy Chisel Head
+Iron Chisel Head
+Steel Chisel Head
+Tool Steel Chisel Head
+Stone Knife
+Copper Knife
+Bronze Knife
+Bismuth Bronze Knife
+Leaded Bronze Knife
+Manganese Bronze Knife
+Rose Alloy Knife
+Iron Knife
+Steel Knife
+Tool Steel Knife
+Stone Pickaxe
+Copper Pickaxe
+Bronze Pickaxe
+Bismuth Bronze Pickaxe
+Leaded Bronze Pickaxe
+Manganese Bronze Pickaxe
+Rose Alloy Pickaxe
+Iron Pickaxe
+Steel Pickaxe
+Tool Steel Pickaxe
+Stone Axe
+Copper Axe
+Bronze Axe
+Bismuth Bronze Axe
+Leaded Bronze Axe
+Manganese Bronze Axe
+Rose Alloy Axe
+Iron Axe
+Steel Axe
+Tool Steel Axe
+Stone Shovel
+Copper Shovel
+Bronze Shovel
+Bismuth Bronze Shovel
+Leaded Bronze Shovel
+Manganese Bronze Shovel
+Rose Alloy Shovel
+Iron Shovel
+Steel Shovel
+Tool Steel Shovel
+Stone Hoe
+Copper Hoe
+Bronze Hoe
+Bismuth Bronze Hoe
+Leaded Bronze Hoe
+Manganese Bronze Hoe
+Rose Alloy Hoe
+Iron Hoe
+Steel Hoe
+Tool Steel Hoe
+Stone Sword
+Copper Sword
+Bronze Sword
+Bismuth Bronze Sword
+Leaded Bronze Sword
+Manganese Bronze Sword
+Rose Alloy Sword
+Iron Sword
+Steel Sword
+Tool Steel Sword
+Stone Scythe
+Copper Scythe
+Bronze Scythe
+Bismuth Bronze Scythe
+Leaded Bronze Scythe
+Manganese Bronze Scythe
+Rose Alloy Scythe
+Iron Scythe
+Steel Scythe
+Tool Steel Scythe
+Stone Battleaxe
+Copper Battleaxe
+Bronze Battleaxe
+Bismuth Bronze Battleaxe
+Leaded Bronze Battleaxe
+Manganese Bronze Battleaxe
+Rose Alloy Battleaxe
+Iron Battleaxe
+Steel Battleaxe
+Tool Steel Battleaxe
+Stone Hammer
+Copper Hammer
+Bronze Hammer
+Bismuth Bronze Hammer
+Leaded Bronze Hammer
+Manganese Bronze Hammer
+Rose Alloy Hammer
+Iron Hammer
+Steel Hammer
+Tool Steel Hammer
+Stone Spear
+Copper Spear
+Bronze Spear
+Bismuth Bronze Spear
+Leaded Bronze Spear
+Manganese Bronze Spear
+Rose Alloy Spear
+Iron Spear
+Steel Spear
+Tool Steel Spear
+Wooden Watering Can
+Copper Watering Can
+Bronze Watering Can
+Bismuth Bronze Watering Can
+Leaded Bronze Watering Can
+Manganese Bronze Watering Can
+Rose Alloy Watering Can
+Iron Watering Can
+Steel Watering Can
+Tool Steel Watering Can
+Stone Gardening Tool
+Copper Gardening Tool
+Bronze Gardening Tool
+Bismuth Bronze Gardening Tool
+Leaded Bronze Gardening Tool
+Manganese Bronze Gardening Tool
+Rose Alloy Gardening Tool
+Iron Gardening Tool
+Steel Gardening Tool
+Tool Steel Gardening Tool
+Stone Saw
+Copper Saw
+Bronze Saw
+Bismuth Bronze Saw
+Leaded Bronze Saw
+Manganese Bronze Saw
+Stone Chisel
+Copper Chisel
+Bronze Chisel
+Bismuth Bronze Chisel
+Leaded Bronze Chisel
+Manganese Bronze Chisel
+Rose Alloy Chisel
+Iron Chisel
+Steel Chisel
+Tool Steel Chisel
+Rose Alloy Saw
+Iron Saw
+Steel Saw
+Tool Steel Saw
+Basket
+Barley
+Green Beans
+Beetroot
+Cabbage
+Carrot
+Cassava
+Corn
+Cucumber
+Eggplant
+Garlic
+Leek
+Lettuce
+Millet
+Oat
+Onion
+Parsnip
+Peas
+Green Pepper
+Yellow Pepper
+Red Pepper
+Potato
+Pumpkin
+Radish
+Rice
+Rye
+Sorghum
+Spinach
+Sweet Potato
+Tomato
+Turnip
+Wheat
+Blackberries
+Cloudberries
+Raspberries
+Blueberries
+Cranberries
+Elderberries
+Gooseberries
+Hackberries
+Strawberries
+Wolfberries
+Salmonberries
+Crowberries
+Apple
+Olives
+Peach
+Orange
+Pear
+Plum
+Banana
+Lemon
+Apricot
+Walnut
+Cherries
+Pomegranate
+Grapefruit
+Avocado
+Carambola
+Egg
+Raw Chicken
+Cooked Chicken
+Raw Beef
+Cooked Beef
+Raw Lamb
+Cooked Lamb
+Raw Pork
+Cooked Pork
+Cheese
+Barley Grains
+Millet Grains
+Oat Grains
+Rice Grains
+Rye Grains
+Sorghum Grains
+Wheat Grains
+Barley Flour
+Millet Flour
+Oat Flour
+Rice Flour
+Rye Flour
+Sorghum Flour
+Wheat Flour
+Barley Dough
+Millet Dough
+Oat Dough
+Rice Dough
+Rye Dough
+Sorghum Dough
+Wheat Dough
+Barley Bread
+Millet Bread
+Oat Bread
+Rice Bread
+Rye Bread
+Sorghum Bread
+Wheat Bread
+Clay
+Twine
+Plant Fiber
+Anthracite Coal
+Bituminous Coal
+Lignite Coal
+Ash
+Charcoal
+Kaolin Clay
+Kaolin Powder
+Kaolin Brick
+Fire Clay
+Fire Brick
+Flint Powder
+Metallurgic Charcoal Flux
+Copper Coated Fire Brick
+Hay
+Hide
+Wool
+Copper Rim
+Soaked Hide
+Prepared Hide
+Leather
+Leather Straps
+Soaked Wool
+Copper Pins
+Carded Wool
+Wool Yarn
+Woven Cloth
+Wooden Needle
+Raw Iron Bloom
+Refined Iron Bloom
+Treated Stick
+Iron Lock
+Iron Nails
+Small Iron Gear
+Medium Iron Gear
+Large Iron Gear
+Iron Gear Assembly
+Water Wheel Blade
+Windmill Blade
+Sawmill Blade
+Charred Bone
+Charred Bone Ash
+Iron Rod
+Wood Pulp
+Compressed Wood Pulp
+Rock Salt
+Salt
+Acanthite Ore
+Barite Ore
+Bauxite Ore
+Beryl Ore
+Bornite Ore
+Cassiterite Ore
+Chalcocite Ore
+Chalcopyrite Ore
+Chromite Ore
+Cinnabar Ore
+Cobaltite Ore
+Coltan Ore
+Dolomite Ore
+Galena Ore
+Gold Ore
+Hematite Ore
+Ilmenite Ore
+Magnetite Ore
+Malachite Ore
+Molybdenite Ore
+Pentlandite Ore
+Pyrolusite Ore
+Scheelite Ore
+Sperrylite Ore
+Sphalerite Ore
+Uraninite Ore
+Wolframite Ore
+Lignite Ore
+Bituminous Coal Ore
+Anthracite Ore
+Graphite Ore
+Bismuthinite Ore
+Clay Pickaxe Mold
+Clay Axe Mold
+Clay Shovel Mold
+Clay Hoe Mold
+Clay Sword Mold
+Clay Knife Mold
+Clay Scythe Mold
+Clay Battleaxe Mold
+Clay Hammer Mold
+Clay Spear Mold
+Clay Watering Can Mold
+Clay Gardening Tool Mold
+Clay Saw Mold
+Clay Chisel Mold
+Ceramic Pickaxe Mold
+Ceramic Axe Mold
+Ceramic Shovel Mold
+Ceramic Hoe Mold
+Ceramic Sword Mold
+Ceramic Knife Mold
+Ceramic Scythe Mold
+Ceramic Battleaxe Mold
+Ceramic Hammer Mold
+Ceramic Spear Mold
+Ceramic Watering Can Mold
+Ceramic Gardening Tool Mold
+Ceramic Saw Mold
+Ceramic Chisel Mold
+Filled Pickaxe Mold
+Filled Axe Mold
+Filled Shovel Mold
+Filled Hoe Mold
+Filled Sword Mold
+Filled Knife Mold
+Filled Scythe Mold
+Filled Battleaxe Mold
+Filled Hammer Mold
+Filled Spear Mold
+Filled Watering Can Mold
+Filled Gardening Tool Mold
+Filled Saw Mold
+Filled Chisel Mold
+Clay Ingot Mold
+Ceramic Ingot Mold
+Filled Ingot Mold
+Clay Pot
+Clay Jug
+Clay Bowl
+Pot
+Jug
+Ceramic Bowl
+Full Jug
+Fire Starter
+Wooden Bucket
+Wooden Bucket With Fresh Water
+Wooden Bucket With Salt Water
+Wooden Bucket With Milk
+Grindstone
+Tin Clump
+Barium Clump
+Copper Clump
+Aluminum Clump
+Chromium Clump
+Cobalt Clump
+Tantalum Clump
+Magnesium Clump
+Lead Clump
+Gold Clump
+Iron Clump
+Titanium Clump
+Molybdenum Clump
+Nickel Clump
+Manganese Clump
+Tungsten Clump
+Platinum Clump
+Zinc Clump
+Uranium Clump
+Bismuth Clump
+Silver Clump
+Iridium Clump
+Osmium Clump
+Bronze Clump
+Bismuth Bronze Clump
+Leaded Bronze Clump
+Brass Clump
+Manganese Bronze Clump
+Aluminum Bronze Clump
+Sterling Silver Clump
+Electrum Clump
+Sterling Platinum Clump
+Invar Clump
+Cast Iron Clump
+Pig Iron Clump
+Steel Clump
+HSLA Steel Clump
+Stainless Steel Clump
+Tool Steel Clump
+Solder Clump
+AlNiCo Clump
+Duralumin Clump
+Rose Alloy Clump
+Nichrome Clump
+Vitallium Clump
+Unknown Alloy Clump
+Tin Sheet
+Barium Sheet
+Copper Sheet
+Aluminum Sheet
+Chromium Sheet
+Cobalt Sheet
+Tantalum Sheet
+Magnesium Sheet
+Lead Sheet
+Gold Sheet
+Iron Sheet
+Titanium Sheet
+Molybdenum Sheet
+Nickel Sheet
+Manganese Sheet
+Tungsten Sheet
+Platinum Sheet
+Zinc Sheet
+Uranium Sheet
+Bismuth Sheet
+Silver Sheet
+Iridium Sheet
+Osmium Sheet
+Bronze Sheet
+Bismuth Bronze Sheet
+Leaded Bronze Sheet
+Brass Sheet
+Manganese Bronze Sheet
+Aluminum Bronze Sheet
+Sterling Silver Sheet
+Electrum Sheet
+Sterling Platinum Sheet
+Invar Sheet
+Cast Iron Sheet
+Pig Iron Sheet
+Steel Sheet
+HSLA Steel Sheet
+Stainless Steel Sheet
+Tool Steel Sheet
+Solder Sheet
+AlNiCo Sheet
+Duralumin Sheet
+Rose Alloy Sheet
+Nichrome Sheet
+Vitallium Sheet
+Unknown Alloy Sheet
+Tin Double Sheet
+Barium Double Sheet
+Copper Double Sheet
+Aluminum Double Sheet
+Chromium Double Sheet
+Cobalt Double Sheet
+Tantalum Double Sheet
+Magnesium Double Sheet
+Lead Double Sheet
+Gold Double Sheet
+Iron Double Sheet
+Titanium Double Sheet
+Molybdenum Double Sheet
+Nickel Double Sheet
+Manganese Double Sheet
+Tungsten Double Sheet
+Platinum Double Sheet
+Zinc Double Sheet
+Uranium Double Sheet
+Bismuth Double Sheet
+Silver Double Sheet
+Iridium Double Sheet
+Osmium Double Sheet
+Bronze Double Sheet
+Bismuth Bronze Double Sheet
+Leaded Bronze Double Sheet
+Brass Double Sheet
+Manganese Bronze Double Sheet
+Aluminum Bronze Double Sheet
+Sterling Silver Double Sheet
+Electrum Double Sheet
+Sterling Platinum Double Sheet
+Invar Double Sheet
+Cast Iron Double Sheet
+Pig Iron Double Sheet
+Steel Double Sheet
+HSLA Steel Double Sheet
+Stainless Steel Double Sheet
+Tool Steel Double Sheet
+Solder Double Sheet
+AlNiCo Double Sheet
+Duralumin Double Sheet
+Rose Alloy Double Sheet
+Nichrome Double Sheet
+Vitallium Double Sheet
+Unknown Alloy Double Sheet
+Wool Card
+Bronze Tuyere
+Bismuth Bronze Tuyere
+Leaded Bronze Tuyere
+Manganese Bronze Tuyere
+Rose Alloy Tuyere
+Iron Tuyere
+Steel Tuyere
+Tool Steel Tuyere
+Flint And Iron
+Copper Helmet
+Copper Chestplate
+Copper Greaves
+Copper Boots
+Leather Helmet
+Leather Jacket
+Leather Leggings
+Leather Boots
+Cloth Helmet
+Cloth Jacket
+Cloth Leggings
+Cloth Boots
+Bronze Helmet
+Bronze Chestplate
+Bronze Greaves
+Bronze Boots
+Bismuth Bronze Helmet
+Bismuth Bronze Chestplate
+Bismuth Bronze Greaves
+Bismuth Bronze Boots
+Leaded Bronze Helmet
+Leaded Bronze Chestplate
+Leaded Bronze Greaves
+Leaded Bronze Boots
+Manganese Bronze Helmet
+Manganese Bronze Chestplate
+Manganese Bronze Greaves
+Manganese Bronze Boots
+Rose Alloy Helmet
+Rose Alloy Chestplate
+Rose Alloy Greaves
+Rose Alloy Boots
+Iron Helmet
+Iron Chestplate
+Iron Greaves
+Iron Boots
+Steel Helmet
+Steel Chestplate
+Steel Greaves
+Steel Boots
+Tool Steel Helmet
+Tool Steel Chestplate
+Tool Steel Greaves
+Tool Steel Boots
+Unfinished Copper Helmet
+Unfinished Copper Chestplate
+Unfinished Copper Greaves
+Unfinished Copper Boots
+Unfinished Leather Helmet
+Unfinished Leather Jacket
+Unfinished Leather Leggings
+Unfinished Leather Boots
+Unfinished Cloth Helmet
+Unfinished Cloth Jacket
+Unfinished Cloth Leggings
+Unfinished Cloth Boots
+Unfinished Bronze Helmet
+Unfinished Bronze Chestplate
+Unfinished Bronze Greaves
+Unfinished Bronze Boots
+Unfinished Bismuth Bronze Helmet
+Unfinished Bismuth Bronze Chestplate
+Unfinished Bismuth Bronze Greaves
+Unfinished Bismuth Bronze Boots
+Unfinished Leaded Bronze Helmet
+Unfinished Leaded Bronze Chestplate
+Unfinished Leaded Bronze Greaves
+Unfinished Leaded Bronze Boots
+Unfinished Manganese Bronze Helmet
+Unfinished Manganese Bronze Chestplate
+Unfinished Manganese Bronze Greaves
+Unfinished Manganese Bronze Boots
+Unfinished Rose Alloy Helmet
+Unfinished Rose Alloy Chestplate
+Unfinished Rose Alloy Greaves
+Unfinished Rose Alloy Boots
+Unfinished Iron Helmet
+Unfinished Iron Chestplate
+Unfinished Iron Greaves
+Unfinished Iron Boots
+Unfinished Steel Helmet
+Unfinished Steel Chestplate
+Unfinished Steel Greaves
+Unfinished Steel Boots
+Unfinished Tool Steel Helmet
+Unfinished Tool Steel Chestplate
+Unfinished Tool Steel Greaves
+Unfinished Tool Steel Boots
+Light Backpack
+Traveler's Backpack
+Water Bottle
+Salt Water Bottle
+Milk Bottle
+Juice Bottle
+Olive Oil Bottle
+Walnut Oil Bottle
+Brine Bottle
+Tannin Bottle
+Oil Bottle
+Amethyst
+Aquamarine
+Diamond
+Emerald
+Lapis
+Onyx
+Opal
+Peridot
+Ruby
+Sapphire
+Topaz
+Tourmaline
+Turquoise
+Zircon
+Tin
+Barium
+Copper
+Aluminum
+Chromium
+Cobalt
+Tantalum
+Magnesium
+Lead
+Gold
+Iron
+Titanium
+Molybdenum
+Nickel
+Manganese
+Tungsten
+Platinum
+Zinc
+Uranium
+Bismuth
+Silver
+Iridium
+Osmium
+Bronze
+Bismuth Bronze
+Leaded Bronze
+Brass
+Manganese Bronze
+Aluminum Bronze
+Sterling Silver
+Electrum
+Sterling Platinum
+Invar
+Cast Iron
+Pig Iron
+Steel
+HSLA Steel
+Stainless Steel
+Tool Steel
+Solder
+Alnico
+Duralumin
+Rose Alloy
+Nichrome
+Vitallium
+Unknown Alloy
+Cold
+Warm ☐☐☐☐
+Warm ☑☐☐☐
+Warm ☑☑☐☐
+Warm ☑☑☑☐
+Warm ☑☑☑☑
+Hot ☐☐☐☐
+Hot ☑☐☐☐
+Hot ☑☑☐☐
+Hot ☑☑☑☐
+Hot ☑☑☑☑
+Very Hot ☐☐☐☐
+Very Hot ☑☐☐☐
+Very Hot ☑☑☐☐
+Very Hot ☑☑☑☐
+Very Hot ☑☑☑☑
+Brown ☐☐☐☐
+Brown ☑☐☐☐
+Brown ☑☑☐☐
+Brown ☑☑☑☐
+Brown ☑☑☑☑
+§4Red ☐☐☐☐
+§4Red ☑☐☐☐
+§4Red ☑☑☐☐
+§4Red ☑☑☑☐
+§4Red ☑☑☑☑
+§6Orange ☐☐☐☐
+§6Orange ☑☐☐☐
+§6Orange ☑☑☐☐
+§6Orange ☑☑☑☐
+§6Orange ☑☑☑☑
+§eYellow ☐☐☐☐
+§eYellow ☑☐☐☐
+§eYellow ☑☑☐☐
+§eYellow ☑☑☑☐
+§eYellow ☑☑☑☑
+White ☐☐☐☐
+White ☑☐☐☐
+White ☑☑☐☐
+White ☑☑☑☐
+White ☑☑☑☑
+Brilliant White ☐☐☐☐
+Brilliant White ☑☐☐☐
+Brilliant White ☑☑☐☐
+Brilliant White ☑☑☑☐
+Brilliant White ☑☑☑☑

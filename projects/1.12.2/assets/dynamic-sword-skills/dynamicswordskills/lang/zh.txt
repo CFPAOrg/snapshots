@@ -1,0 +1,167 @@
+Learned %s level %d!
+%s is already at max level!
+%s has been disabled
+Can't currently use %s!
+Combo
+Finished
+Dmg
+Hits
+One hit wonder
+Novice
+Decent
+Good
+Great
+Amazing
+Superb
+Perfect
+Unstoppable
+Devastating
+Masterful
+Legendary
+FINISH HIM!!!
+%1$s is not a recognized skill
+%1$s is disabled
+%1$s already has %2$s level %3$d 
+%1$s was unable to learn %2$s
+You have been granted %1$s level %2$d!
+You have been granted max level in all skills!
+%1$s has been granted %2$s level %3$d
+%1$s has been granted max level in all skills
+%1$s was unable to master all skills
+/grantskill <player> <skill> <level> OR /grantskill <player> all
+You did not have any skills to remove
+You did not have any levels in %2$s
+Removed all skills
+Removed all levels of %2$s
+/removeskill <skill> OR /removeskill all
+Valid values are "allow" and "forbid"
+Valid values are "sword" and "weapon"
+Could not find item %s for mod %s
+Successfully registered %s as a sword
+Unable to register %s as a sword
+%s is no longer considered a sword
+%s is not registered as a sword
+Successfully registered %s as a weapon
+Unable to register %s as a weapon
+%s is no longer considered a weapon
+%s is not registered as a weapon
+/dssweaponregistry <allow|forbid> <sword|weapon> modid:item_name
+DSS Skills
+%1$s's armor was pierced by %2$s
+%1$s's armor was pierced by %2$s using %3$s
+%1$s was slain by %2$s
+%1$s was slain by %2$s using %3$s
+Leaping Blow
+Sword Beam
+Skill Orb of %s
+Sword of %s
+Level: %1$s/%2$s
+Right click to learn
+Grants wielder %s
+Grants Skill Level: %1$s/%2$s
+Provides %s
+DSS Keys
+Z-Target
+Next Target
+Attack
+Dodge Left
+Dodge Right
+Parry
+Block
+View Skills
+Toggle Combo HUD
+Toggle Auto-Targeting
+Auto targeting is now %s
+Player targeting is now %s
+Combo HUD is now %s
+enabled
+disabled
+Area: %s blocks
+Charge Time: %d ticks
+Damage: %s%s
+Duration: %d %s
+Exhaustion: %s
+Level: %1$s/%2$s
+Range: %s blocks
+Time Limit: %d ticks
+DISABLED
+MAX LEVEL
+seconds
+ticks
+ACTIVATION
+< Click any skill >
+SKILL DESCRIPTION
+SUMMARY
+Sword skills are acquired by finding and using skill orbs, and all sword skills first require knowledge of the Basic Sword Technique.\nBy default, a basic skill orb is granted upon first joining a world; more may be acquired either through exploration or combat.\nEvery skill is activated in a unique fashion, and each use adds a certain amount of exhaustion. Like any other strenuous activity, physical combat requires lots of energy.\nExhaustion is part of the vanilla hunger mechanic - please see the online Wiki for more information. As a reference, a normal attack adds 0.3 exhaustion.
+Armor Break
+While locked on, hold the attack key to charge up; once charged, the skill triggers automatically.
+Unleash a powerful and well aimed blow, inflicting full damage even against heavily armored opponents.
+Unleash an armor-penetrating blow
+Back Slice
+While locked on, hold left or right and tap forward twice, then attack at the right time.
+Quickly circle around and hit 'em where it hurts!\nSome enemies are more vulnerable to attacks from behind, and many have a small chance to lose any equipped chest armor. Higher tiers of armor are harder to knock off, even harder if enchanted with Unbreaking; Sharpness weapons gain a bonus to disarmor.\nNote that attacking too early, too late, or not from behind will only result in a standard attack.
+Attack Angle: %d degrees
+Disarmor Chance: %d%%
+Attack an enemy's vulnerable backside
+Heart Container
+Adds one full heart
+Dash
+While locked on, press the attack key while blocking to dash forward.
+Dash into an enemy at high speed, knocking the target back and inflicting minor damage. An effective dash requires sufficient space between you and your foe.
+Knockback: %d blocks
+Minimum Range: %s blocks
+Dash attack knocks target back
+Dodge
+Tap left or right to dodge an incoming attack. Must be locked on.
+Evading a blow takes more than quick feet - it's all about timing. Dodge early and the enemy is likely to adjust; dodge at just the right moment to gain up to a 20% bonus in addition to the base evasion chance.
+Base Dodge Chance: %d%%
+Max Timing Bonus: +%d%%
+Actively evade incoming blows
+Ending Blow
+While locked on and after striking the same opponent consecutively two or more times, quickly tap forward twice and attack.
+Throw an enemy off balance with consecutive blows and press the advantage with a ferocious attack to finish the enemy off.\nWhen used to finish off an enemy, bonus experience is awarded equal to the skill level of the player, plus an additional amount up to the final remaining health value of the slain foe.\nThis skill is not without risk, however; should the enemy survive, you will be flat-footed and vulnerable for the duration listed, or twice that time if your attack misses completely. Reckless use of this skill may very well result in an untimely demise.
+Finish off a vulnerable enemy
+Leaping Blow
+Hold block while locked on to a target and jump into the air; upon landing, you will automatically perform a leaping slash. Shield is not required.
+A powerful technique, the leaping blow is capable of striking and debilitating many foes at once. Enemies within the area of effect are weakened in addition to taking damage.\nTargets are affected based on their proximity to the center of the attack path; those further to the sides suffer less damage and a reduced weakness duration.\nDamage is calculated based on the attack bonus of the weapon used to perform the attack, plus bonus damage proportional to the skill level of the attacker.
+A multi-target leaping slash
+Mortal Draw
+While locked on and empty- handed, hold the block key and press attack right as an enemy's strike is about to land; requires a sword to be in the hotbar.
+Battoujutsu, also known as the art of unsheathing or drawing the sword, is one of the most difficult and deadly skills to master.\nWhen executed properly, the incoming attack is not only entirely neutralized, but the attacker is left completely vulnerable to attack, allowing the sword master to strike with the utmost efficacy.\nA successful battoujutsu inflicts double damage to the target, including all enchantment bonuses. This skill cannot be used in quick succession, as the sword must be placed back in its sheath before it may again be drawn.
+A devastating quick-draw sword technique
+Parry
+While locked on, tap back just as an incoming attack is about to land to parry. Only weapon- or item-based attacks may be parried.
+Parrying is a fundamental defensive skill, even more powerful than blocking as it will completely negate damage when successful, as well as possibly disarming an attacker. The chance to disarm is affected greatly by timing, and is the sole deciding factor amongst opponents of equal skill.\nNote that it is impossible to parry natural attacks such as the feared zombie punch or creeper blast; only attacks with weapons or items may be parried.
+Base Disarm Chance: %d%%
+Max Timing Bonus: +%d%%
+Max Attacks Parried: %d
+Actively parry incoming attacks
+Rising Cut
+While locked on, crouch by pressing the sneak key, then jump and attack. 
+Fling an enemy into the air with an upward slash, following close behind for a possible second attack, in addition to the damage the target will take upon hitting the ground.
+Rising slash flings enemy upward
+Spin Attack
+While locked on, hold left or right to charge up; if using vanilla keys, both must be pressed and held, first one then the other, with the first key pressed determining the direction of the spin.
+Useful when surrounded by enemies, the player spins around once in a circle, damaging all within range for the same amount as a standard attack.
+Maximum Spins: %d
+Attacks all enemies in 360 degree arc
+Super Spin Attack
+Quickly tap the attack key while already spinning to spin an extra 360 degrees, up to the maximum arc.
+This skill improves upon the basic Spin Attack, but only when at full health. Benefits include increased range and the ability to spin multiple times. Note that exhaustion is added for each additional spin.
+Attacks all enemies in 720+ degree arc
+Basic Technique
+Press the Z-Targeting key, default 'x', with a target in clear sight and within the maximum range.
+The most basic technique revolves around awareness of one's opponents, always keeping an enemy in sight. This is the foundation of all other combat skills, and is typically referred to as "locking on."\nConsecutive strikes while locked on build upon each other to form a "combo," each strike becoming more powerful than the last as the combo grows, provided that each strike is dealt before the timer expires. Landing a blow resets the timer for the next strike.\nThe combo ends when one of the following occurs: the maximum combo size is reached, the combo timer expires before the next successful strike, or the player suffers damage from a single source exceeding their damage tolerance.
+Max Combo Size: %d
+Damage Tolerance: %s
+Target foes and perform deadly combos
+Sword Beam
+While wielding a sword and locked on, first crouch by sneaking, then attack.
+By channeling vital energy through the sword, one can unleash a powerful attack capable of striking foes from afar.\nDamage is a percentage of the sword's attack bonus; however, the beam's attack power diminishes with each target struck.\nIn order to perform such a technique, one must be at or near full health.
+Max Missing Hearts: %f
+Shoot a powerful beam of energy
+Sword Break
+Tap 'down' or 'back' while blocking just as the foe's strike is about to land.
+A hard parry that greatly damages any weapon thus struck, while at the same blocking the attack. Like any parry, it must be well timed to be effective.
+Damage: up to %d durability
+Damage or destroy an opponent's weapon

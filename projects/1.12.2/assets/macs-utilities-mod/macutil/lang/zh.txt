@@ -1,0 +1,503 @@
+Pedestal Bottom
+Pedestal Top
+Pedestal
+Dense Coal Ore
+Dense Iron Ore
+Dense Gold Ore
+Dense Redstone Ore
+Dense Diamond Ore
+Dense Nether Quartz Ore
+Dense Lapis Ore
+Compressed Cobblestone
+Double Compressed Cobblestone
+Triple Compressed Cobblestone
+Quadruple Compressed Cobblestone
+Quintuple Compressed Cobblestone
+Sextuple Compressed Cobblestone
+Septuple Compressed Cobblestone
+Octuple Compressed Cobblestone
+Nonuple Compressed Cobblestone
+Decuple Compressed Cobblestone
+Stone Stairs
+Granite Stairs
+Diorite Stairs
+Andesite Stairs
+Polished Granite Stairs
+Polished Diorite Stairs
+Polished Andesite Stairs
+Dirt Stairs
+Oak Log Stairs
+Spruce Log Stairs
+Birch Log Stairs
+Jungle Log Stairs
+Acacia Log Stairs
+Dark Oak Log Stairs
+White Wool Stairs
+Orange Wool Stairs
+Magenta Wool Stairs
+Light Blue Wool Stairs
+Yellow Wool Stairs
+Lime Wool Stairs
+Pink Wool Stairs
+Gray Wool Stairs
+Light Gray Wool Stairs
+Cyan Wool Stairs
+Purple Wool Stairs
+Blue Wool Stairs
+Brown Wool Stairs
+Green Wool Stairs
+Red Wool Stairs
+Black Wool Stairs
+White Terracotta Stairs
+Orange Terracotta Stairs
+Magenta Terracotta Stairs
+Light Blue Terracotta Stairs
+Yellow Terracotta Stairs
+Lime Terracotta Stairs
+Pink Terracotta Stairs
+Gray Terracotta Stairs
+Light Gray Terracotta Stairs
+Cyan Terracotta Stairs
+Purple Terracotta Stairs
+Blue Terracotta Stairs
+Brown Terracotta Stairs
+Green Terracotta Stairs
+Red Terracotta Stairs
+Black Terracotta Stairs
+White Concrete Stairs
+Orange Concrete Stairs
+Magenta Concrete Stairs
+Light Blue Concrete Stairs
+Yellow Concrete Stairs
+Lime Concrete Stairs
+Pink Concrete Stairs
+Gray Concrete Stairs
+Light Gray Concrete Stairs
+Cyan Concrete Stairs
+Purple Concrete Stairs
+Blue Concrete Stairs
+Brown Concrete Stairs
+Green Concrete Stairs
+Red Concrete Stairs
+Black Concrete Stairs
+Mossy Cobblestone Stairs
+Glowstone Stairs
+Red Nether Brick Stairs
+Mossy Stone Brick Stairs
+Cracked Stone Brick Stairs
+Chiseled Stone Brick Stairs
+End Stone Stairs
+End Stone Brick Stairs
+Terracotta Stairs
+Sea Lantern Stairs
+Bone Block Stairs
+Podzol Stairs
+Coarse Dirt Stairs
+Stone Wall
+Granite Wall
+Diorite Wall
+Andesite Wall
+Polished Granite Wall
+Polished Diorite Wall
+Polished Andesite Wall
+Dirt Wall
+Oak Log Wall
+Spruce Log Wall
+Birch Log Wall
+Jungle Log Wall
+Acacia Log Wall
+Dark Oak Log Wall
+White Wool Wall
+Orange Wool Wall
+Magenta Wool Wall
+Light Blue Wool Wall
+Yellow Wool Wall
+Lime Wool Wall
+Pink Wool Wall
+Gray Wool Wall
+Light Gray Wool Wall
+Cyan Wool Wall
+Purple Wool Wall
+Blue Wool Wall
+Brown Wool Wall
+Green Wool Wall
+Red Wool Wall
+Black Wool Wall
+White Terracotta Wall
+Orange Terracotta Wall
+Magenta Terracotta Wall
+Light Blue Terracotta Wall
+Yellow Terracotta Wall
+Lime Terracotta Wall
+Pink Terracotta Wall
+Gray Terracotta Wall
+Light Gray Terracotta Wall
+Cyan Terracotta Wall
+Purple Terracotta Wall
+Blue Terracotta Wall
+Brown Terracotta Wall
+Green Terracotta Wall
+Red Terracotta Wall
+Black Terracotta Wall
+White Concrete Wall
+Orange Concrete Wall
+Magenta Concrete Wall
+Light Blue Concrete Wall
+Yellow Concrete Wall
+Lime Concrete Wall
+Pink Concrete Wall
+Gray Concrete Wall
+Light Gray Concrete Wall
+Cyan Concrete Wall
+Purple Concrete Wall
+Blue Concrete Wall
+Brown Concrete Wall
+Green Concrete Wall
+Red Concrete Wall
+Black Concrete Wall
+Glowstone Wall
+Red Nether Brick Wall
+Cracked Stone Brick Wall
+Chiseled Stone Brick Wall
+Stone Brick Wall
+End Stone Wall
+End Stone Bricks Wall
+Nether Brick Wall
+Terracotta Wall
+Prismarine Wall
+Prismarine Bricks Wall
+Dark Prismarine Wall
+Sea Lantern Wall
+Bone Block Wall
+Grass Block Wall
+Podzol Wall
+Coarse Dirt Wall
+Mossy Stone Bricks Wall
+Stone Fence
+Granite Fence
+Diorite Fence
+Andesite Fence
+Polished Granite Fence
+Polished Diorite Fence
+Polished Andesite Fence
+Dirt Fence
+Oak Log Fence
+Spruce Log Fence
+Birch Log Fence
+Jungle Log Fence
+Acacia Log Fence
+Dark Oak Log Fence
+White Wool Fence
+Orange Wool Fence
+Magenta Wool Fence
+Light Blue Wool Fence
+Yellow Wool Fence
+Lime Wool Fence
+Pink Wool Fence
+Gray Wool Fence
+Light Gray Wool Fence
+Cyan Wool Fence
+Purple Wool Fence
+Blue Wool Fence
+Brown Wool Fence
+Green Wool Fence
+Red Wool Fence
+Black Wool Fence
+White Terracotta Fence
+Orange Terracotta Fence
+Magenta Terracotta Fence
+Light Blue Terracotta Fence
+Yellow Terracotta Fence
+Lime Terracotta Fence
+Pink Terracotta Fence
+Gray Terracotta Fence
+Light Gray Terracotta Fence
+Cyan Terracotta Fence
+Purple Terracotta Fence
+Blue Terracotta Fence
+Brown Terracotta Fence
+Green Terracotta Fence
+Red Terracotta Fence
+Black Terracotta Fence
+White Concrete Fence
+Orange Concrete Fence
+Magenta Concrete Fence
+Light Blue Concrete Fence
+Yellow Concrete Fence
+Lime Concrete Fence
+Pink Concrete Fence
+Gray Concrete Fence
+Light Gray Concrete Fence
+Cyan Concrete Fence
+Purple Concrete Fence
+Blue Concrete Fence
+Brown Concrete Fence
+Green Concrete Fence
+Red Concrete Fence
+Black Concrete Fence
+Glowstone Fence
+Red Nether Brick Fence
+Cracked Stone Brick Fence
+Chiseled Stone Brick Fence
+Stone Brick Fence
+End Stone Fence
+End Stone Bricks Fence
+Nether Brick Fence
+Terracotta Fence
+Prismarine Fence
+Prismarine Bricks Fence
+Dark Prismarine Fence
+Sea Lantern Fence
+Bone Block Fence
+Grass Block Fence
+Podzol Fence
+Coarse Dirt Fence
+Mossy Stone Bricks Fence
+Mac's Utilities - Walls
+Mac's Utilities - Stairs
+Mac's Utilities - Fences
+Teleporter
+Stone Rod
+Wool Rod
+Terracotta Rod
+Concrete Rod
+Nether Rod
+End Stone Rod
+Prismarine Rod
+Muddy Pig
+White Lamp
+Orange Lamp
+Magenta Lamp
+Light Blue Lamp
+Yellow Lamp
+Lime Lamp
+Pink Lamp
+Gray Lamp
+Light Gray Lamp
+Cyan Lamp
+Purple Lamp
+Blue Lamp
+Brown Lamp
+Green Lamp
+Red Lamp
+Black Lamp
+RGB Lamp
+Berries Crop
+Lamp
+Basalt
+Limestone
+Marble
+Carved Oak Planks
+Carved Spruce Planks
+Carved Birch Planks
+Carved Dark Oak Planks
+Carved Acacia Planks
+Carved Jungle Planks
+Carved Stone
+Carved Granite
+Carved Diorite
+Carved Andesite
+Carved Polished Granite
+Carved Polished Diorite
+Carved Polished Andesite
+Granite Cobblestone
+Diorite Cobblestone
+Andesite Cobblestone
+Cracked Sandstone
+Cracked Quartz
+Cracked Red Sandstone
+Cracked Soul Sandstone
+Cracked Obsidian
+Granite Bricks
+Diorite Bricks
+Andesite Bricks
+Quartz Bricks
+Sandstone Bricks
+Red Sandstone Bricks
+Soul Sandstone Bricks
+Obsidian Bricks
+Magma Block Bricks
+Basalt Bricks
+Limestone Bricks
+Marble Bricks
+Polished Quartz
+Polished Sandstone
+Polished Sandstone
+Polished Soul Sandstone
+Polished Obsidian
+Polished Basalt
+Polished Marble
+Soul Sandstone
+Blue Crystal
+Green Crystal
+Indigo Crystal
+Orange Crystal
+Red Crystal
+Violet Crystal
+White Crystal
+Yellow Crystal
+Black Stained Planks
+Blue Stained Planks
+Brown Stained Planks
+Cyan Stained Planks
+Gray Stained Planks
+Green Stained Planks
+Light Blue Stained Planks
+Lime Stained Planks
+Magenta Stained Planks
+Orange Stained Planks
+Pink Stained Planks
+Purple Stained Planks
+Red Stained Planks
+Light Gray Stained Planks
+White Stained Planks
+Yellow Stained Planks
+Black Chair (Oak)
+Blue Chair (Oak)
+Brown Chair (Oak)
+Cyan Chair (Oak)
+Gray Chair (Oak)
+Green Chair (Oak)
+Light Blue Chair (Oak)
+Lime Chair (Oak)
+Magenta Chair (Oak)
+Orange Chair (Oak)
+Pink Chair (Oak)
+Purple Chair (Oak)
+Red Chair (Oak)
+Light Gray Chair (Oak)
+White Chair (Oak)
+Yellow Chair (Oak)
+Black Chair (Birch)
+Blue Chair (Birch)
+Brown Chair (Birch)
+Cyan Chair (Birch)
+Gray Chair (Birch)
+Green Chair (Birch)
+Light Blue Chair (Birch)
+Lime Chair (Birch)
+Magenta Chair (Birch)
+Orange Chair (Birch)
+Pink Chair (Birch)
+Purple Chair (Birch)
+Red Chair (Birch)
+Light Gray Chair (Birch)
+White Chair (Birch)
+Yellow Chair (Birch)
+Black Chair (Spruce)
+Blue Chair (Spruce)
+Brown Chair (Spruce)
+Cyan Chair (Spruce)
+Gray Chair (Spruce)
+Green Chair (Spruce)
+Light Blue Chair (Spruce)
+Lime Chair (Spruce)
+Magenta Chair (Spruce)
+Orange Chair (Spruce)
+Pink Chair (Spruce)
+Purple Chair (Spruce)
+Red Chair (Spruce)
+Light Gray Chair (Spruce)
+White Chair (Spruce)
+Yellow Chair (Spruce)
+Black Chair (Dark Oak)
+Blue Chair (Dark Oak)
+Brown Chair (Dark Oak)
+Cyan Chair (Dark Oak)
+Gray Chair (Dark Oak)
+Green Chair (Dark Oak)
+Light Blue Chair (Dark Oak)
+Lime Chair (Dark Oak)
+Magenta Chair (Dark Oak)
+Orange Chair (Dark Oak)
+Pink Chair (Dark Oak)
+Purple Chair (Dark Oak)
+Red Chair (Dark Oak)
+Light Gray Chair (Dark Oak)
+White Chair (Dark Oak)
+Yellow Chair (Dark Oak)
+Black Chair (Jungle)
+Blue Chair (Jungle)
+Brown Chair (Jungle)
+Cyan Chair (Jungle)
+Gray Chair (Jungle)
+Green Chair (Jungle)
+Light Blue Chair (Jungle)
+Lime Chair (Jungle)
+Magenta Chair (Jungle)
+Orange Chair (Jungle)
+Pink Chair (Jungle)
+Purple Chair (Jungle)
+Red Chair (Jungle)
+Light Gray Chair (Jungle)
+White Chair (Jungle)
+Yellow Chair (Jungle)
+Black Chair (Acacia)
+Blue Chair (Acacia)
+Brown Chair (Acacia)
+Cyan Chair (Acacia)
+Gray Chair (Acacia)
+Green Chair (Acacia)
+Light Blue Chair (Acacia)
+Lime Chair (Acacia)
+Magenta Chair (Acacia)
+Orange Chair (Acacia)
+Pink Chair (Acacia)
+Purple Chair (Acacia)
+Red Chair (Acacia)
+Light Gray Chair (Acacia)
+White Chair (Acacia)
+Yellow Chair (Acacia)
+Oak Table
+Oak Table
+Oak Table
+Oak Table
+Oak Table
+Oak Table
+Birch Table
+Birch Table
+Birch Table
+Birch Table
+Birch Table
+Birch Table
+Spruce Table
+Spruce Table
+Spruce Table
+Spruce Table
+Spruce Table
+Spruce Table
+Dark Oak Table
+Dark Oak Table
+Dark Oak Table
+Dark Oak Table
+Dark Oak Table
+Dark Oak Table
+Acacia Table
+Acacia Table
+Acacia Table
+Acacia Table
+Acacia Table
+Acacia Table
+Jungle Table
+Jungle Table
+Jungle Table
+Jungle Table
+Jungle Table
+Jungle Table
+Toxic Waste
+Wood Chisel
+Stone Chisel
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Emerald Pickaxe
+Emerald Axe
+Emerald Sword
+Emerald Hoe
+Emerald Shovel
+Berries
+Berry Seeds
+Sun Stone
+Moon Stone
+Usage: /getblock <x> <y> <z> OR /getblock <x> <z>

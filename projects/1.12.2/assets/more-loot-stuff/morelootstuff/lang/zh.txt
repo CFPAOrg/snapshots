@@ -1,0 +1,2 @@
+/morelootstuff <biome>
+/morelootstuff biome

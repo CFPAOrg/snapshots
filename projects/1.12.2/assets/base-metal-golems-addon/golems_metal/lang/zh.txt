@@ -1,0 +1,65 @@
+Adamantine Golem
+Antimony Golem
+Aquarium Golem
+Bismuth Golem
+Brass Golem
+Bronze Golem
+Cold Iron Golem
+Copper Golem
+Cupronickel Golem
+Electrum Golem
+Invar Golem
+Lead Golem
+Mithril Golem
+Nickel Golem
+Pewter Golem
+Platinum Golem
+Silver Golem
+Star-Steel Golem
+Steel Golem
+Tin Golem
+Zinc Golem
+Aluminum Golem
+Aluminum Brass Golem
+Beryllium Golem
+Boron Golem
+Cadmium Golem
+Chromium Golem
+Galvanized Steel Golem
+Iridium Golem
+Magnesium Golem
+Manganse Golem
+Nichrome Golem
+Osmium Golem
+Plutonium Golem
+Rutile Golem
+Stainless Steel Golem
+Tantalum Golem
+Thorium Golem
+Titanium Golem
+Tungsten Golem
+Uranium Golem
+Zirconium Golem
+Lithium Golem
+Niter Golem
+Phosphorus Golem
+Potash Golem
+Salt Golem
+Saltpeter Golem
+Silicon Golem
+Sulfur Golem
+Damage resistance
+Powerful against %s creatures
+undead
+aquatic
+tough
+fiery
+Immune to magic
+Fast!
+Slowly heals
+Lights fires
+Poisons creatures
+Heavy!
+Dangerous when wet
+May combust randomly
+Dissolves in water

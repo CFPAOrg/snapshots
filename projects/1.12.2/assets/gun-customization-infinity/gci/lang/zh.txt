@@ -1,0 +1,93 @@
+Gun Customization: Infinity
+Cartridge
+Attachment
+Attachments
+Optic
+Accessory
+Barrel
+Underbarrel
+Auxiliary
+Ammo
+Magazine
+Paint
+--
+--
+--
+--
+--
+--
+--
+--
+Gun Table
+AK-74M
+M16A4
+5.56×45mm
+5.45×39mm
+12G Buckshot
+12G Dart
+12G Frag
+12G Slug
+.44 Magnum
+.338 Magnum
+Reflex
+Coyote
+Kobra
+Holo
+HD-33
+PKA-S
+IRNV
+FLIR
+M145
+Prisma
+PK-A
+ACOG
+JGM-4
+PSO-1
+CL6X
+PKS-07
+Rifle Scope
+Hunter
+Ballistic
+Variable Zoom
+Magnifier
+Flash Light
+Tactical Light
+Laser Sight
+Tri Beam Laser
+Green Laser Sight
+Laser Light Combo
+Range Finder
+Heavy Barrel
+Suppressor
+LS06 Suppressor
+PBS-4 Suppressor
+R2 Suppressor
+Flash Hider
+Compensator
+Muzzle Brake
+Duckbill
+Modified Choke
+Full Choke
+Ergo Grip
+Angled Grip
+Stubby Grip
+Vertical Grip
+Folding Grip
+Potato Grip
+Bipod
+Straight Pull
+12G Buckshot
+12G Dart
+12G Frag
+12G Slug
+Quick Switch
+Extended (+10)
+Black Paint
+White Paint
+Red Paint
+Blue Paint
+Yellow Paint
+Green Paint
+Pink Paint
+Turquoise Paint
+Orange Paint

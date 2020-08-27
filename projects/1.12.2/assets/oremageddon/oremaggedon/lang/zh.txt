@@ -1,0 +1,251 @@
+Shell Fossil
+Sulphur Crystal
+Stardust
+Hellfire Crystal
+Fungal Spores
+Edenite
+Cryolite
+Eden Apple
+Lumen Fruit
+Golden Lumen Fruit
+Golden Lumen Fruit
+Frostwalking Boots
+Snowball Staff
+Broken Shell Fossil
+Depleted Edenite
+Putrid Lumen Fruit
+Roast Mushroom
+Block of Edenite
+Block of Cryolite
+Edenite Planter
+Edenite Planter
+Edenite Planter
+Life Staff
+Bone Fossil Ore
+Shell Fossil Ore
+Sulphur Ore
+Celestial Stone
+Bone Fossil Ore
+Shell Fossil Ore
+Coal Ore
+Iron Ore
+Gold Ore
+Diamond Ore
+Emerald Ore
+Redstone Ore
+Lapis Lazuli Ore
+Sulphur Ore
+Bone Fossil Ore
+Shell Fossil Ore
+Coal Ore
+Iron Ore
+Gold Ore
+Diamond Ore
+Emerald Ore
+Redstone Ore
+Lapis Lazuli Ore
+Sulphur Ore
+Bone Fossil Ore
+Shell Fossil Ore
+Coal Ore
+Iron Ore
+Gold Ore
+Diamond Ore
+Emerald Ore
+Redstone Ore
+Lapis Lazuli Ore
+Sulphur Ore
+Brimstone
+Carpeted Mossy Stone
+Bone Fossil Ore
+Shell Fossil Ore
+Coal Ore
+Iron Ore
+Gold Ore
+Diamond Ore
+Emerald Ore
+Redstone Ore
+Lapis Lazuli Ore
+Sulphur Ore
+Bone Fossil Ore
+Shell Fossil Ore
+Coal Ore
+Iron Ore
+Gold Ore
+Diamond Ore
+Emerald Ore
+Redstone Ore
+Lapis Lazuli Ore
+Sulphur Ore
+Icy Stone
+Bone Fossil Ore
+Shell Fossil Ore
+Coal Ore
+Iron Ore
+Gold Ore
+Diamond Ore
+Emerald Ore
+Redstone Ore
+Lapis Lazuli Ore
+Sulphur Ore
+Fruit-Bearing Mossy Stone
+Edenite Ore
+Cryolite Ore
+Sulphur Lamp
+White Stained Sulphur Lamp
+Orange Stained Sulphur Lamp
+Magenta Stained Sulphur Lamp
+Light Blue Stained Sulphur Lamp
+Yellow Stained Sulphur Lamp
+Lime Stained Sulphur Lamp
+Pink Stained Sulphur Lamp
+Gray Stained Sulphur Lamp
+Light Gray Stained Sulphur Lamp
+Cyan Stained Sulphur Lamp
+Purple Stained Sulphur Lamp
+Blue Stained Sulphur Lamp
+Brown Stained Sulphur Lamp
+Green Stained Sulphur Lamp
+Red Stained Sulphur Lamp
+Black Stained Sulphur Lamp
+Diorite Bricks
+Granite Bricks
+Block of Sulphur
+Andesite Bricks
+Smooth Andesite
+Smooth Diorite
+Smooth Granite
+Celestial End Stone
+Nether Sulphur Ore
+Nether Gold Ore
+Silverfish Nest
+Mossy Stone
+Overgrown Cave Block
+Icy Cave Block
+Cryolite Ore
+Blue Ice
+Purple Ice
+Emerald Cave Block
+Carpeted Sickly Mossy Stone
+Sickly Mossy Stone
+Sickly Cave Block
+Fruit-Bearing Sickly Mossy Stone
+Depleted Edenite Ore
+Mycelium Stone
+Mycelium Cave Block
+Silverfish Cave Block
+Gravel Cave Block
+Copper Scaffolding
+Iron Scaffolding
+Glowshroom
+Large Glowshroom
+Large Mushroom
+Large Mushroom
+Large Stalagmite
+Large Stalagmite
+Large Stalagmite
+Large Stalagmite
+Large Stalactite
+Large Stalactite
+Large Stalactite
+Large Stalactite
+Stalagmite
+Stalagmite
+Stalagmite
+Stalagmite
+Stalactite
+Stalactite
+Stalactite
+Stalactite
+Stalactite Block
+Small Stalactite Block
+Purple Icicle
+Blue Icicle
+Smooth Andesite Stairs
+Smooth Diorite Stairs
+Smooth Granite Stairs
+Andesite Bricks Stairs
+Diorite Bricks Stairs
+Granite Bricks Stairs
+Charged
+Potion of Energy
+Splash Potion of Energy
+Lingering Potion of Energy
+Arrow of Energy
+Drained
+Potion of Fatigue
+Splash Potion of Fatigue
+Lingering Potion of Fatigue
+Arrow of Fatigue
+Fortitude
+Potion of Fortitude
+Splash Potion of Fortitude
+Lingering Potion of Fortitude
+Arrow of Fortitude
+Starstruck
+Potion of Dazing
+Splash Potion of Dazing
+Lingering Potion of Dazing
+Arrow of Dazing
+Nether Quartz Ore
+Nether Hellfire Ore
+Block of Hellfire
+Ice Machine
+Ice Machine
+Ice Machine
+Ice Machine
+Ice Machine
+Block of Depleted Edenite
+Edenite Grower
+Chandelier Plant
+Wilting Chandelier Plant
+Gelon
+Gelon
+Slime Stew
+Sporing Mycelium Stone
+Sickly Mossy Cobblestone
+Sandstone Cave Block
+Bone Fossil Ore
+Shell Fossil Ore
+Coal Ore
+Iron Ore
+Gold Ore
+Diamond Ore
+Emerald Ore
+Redstone Ore
+Lapis Lazuli Ore
+Sulphur Ore
+Stalactite
+Stalagmite
+Large Stalactite
+Large Stalagmite
+Crying Obsidian
+Respawn Anchor
+Block of Depleted Cryolite
+Depleted Cryolite
+Sporing Mycelium
+Depleted Cryolite Ore
+Stone
+Stone
+Large Mushroom Spawning Block
+Large Mushroom Spawning Block
+Nether Sulphur Ore
+Nether Hellfire Ore
+Nether Gold Ore
+Infested End Stone
+Block of Morphite
+Morphite Ore
+Morphite
+Thawing Cave Block
+Glowshroom Spawning Block
+Web Spawning Block
+Large Roast Mushroom
+Smooth Andesite Monster Egg
+Smooth Diorite Monster Egg
+Smooth Granite Monster Egg
+Mossy Stone Monster Egg
+Icy Stone Monster Egg
+Sickly Mossy Stone Monster Egg
+Sandstone Monster Egg
+Silverfish Cave Stone
+Oremageddon

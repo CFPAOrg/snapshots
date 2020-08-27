@@ -1,0 +1,26 @@
+Cobalt Ingot
+Silver Ingot
+Block of Cobalt
+Cobalt Ore
+Block of Silver
+Silver Ore
+Cobalt Sword
+Cobalt Shovel
+Cobalt Pickaxe
+Cobalt Axe
+Cobalt Hoe
+Silver Sword
+Silver Shovel
+Silver Pickaxe
+Silver Axe
+Silver Hoe
+Cobalt Helmet
+Cobalt Chestplate
+Cobalt Leggings
+Cobalt Boots
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Cobalt Apple
+Silver Apple

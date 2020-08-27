@@ -1,0 +1,32 @@
+MineTraps
+Nails
+Toxin
+Toxin Bucket
+Barbed Wire
+Barbed Wire Fence
+Bear Trap
+Mine
+Fall Trap
+Fall Trap
+Fall Trap
+Fall Trap
+Fall Trap
+Fall Trap
+Fall Trap
+Fall Trap
+Nail Trap
+Obstacle
+Razor Wire
+Spikes
+Spikes
+Toxic Spikes
+Toxic Spikes
+Toxic Mine
+Toxic Nail Trap
+Mud
+Quicksand
+Chest Bomb
+Toxin
+Wall Spikes
+Wall Spikes
+Toxin

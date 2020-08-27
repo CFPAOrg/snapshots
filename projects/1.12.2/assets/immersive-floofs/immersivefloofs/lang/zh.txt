@@ -1,0 +1,4 @@
+Dynamic Floof Cartridge
+Crafted Floof Cartridge
+Random Floof Cartridge
+%s has been floofed by %s!

@@ -1,0 +1,4 @@
+item.gnomed:gnomehat.name=Gnome Hat
+itemGroup.gnomed=Gnomed
+entity.gnomed:Gnome.name=Gnome
+gnomed.config.title=Gnomed Config

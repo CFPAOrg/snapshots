@@ -1,0 +1,8 @@
+Deaths: %1$s Rank: %2$s
+You have died %s times.
+You are ranked %s on the server.
+DC: Resetting deaths for all players
+DC: Resetting deaths for %s
+DC: %s has no deaths.
+No deaths have occured on this server yet.
+Death Leaderboard:

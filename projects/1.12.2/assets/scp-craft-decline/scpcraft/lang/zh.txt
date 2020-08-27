@@ -1,0 +1,186 @@
+Class-D Guy
+SCP-173
+SCP-111
+SCP-457
+SCP-019-2
+Cowborg
+Creeper Drone
+Pig Bot
+Spitron
+Testifinator
+Zomborg
+SCP-1000
+SCP-049
+SCP-131
+SCP-096
+SCP-096 Docile
+SCP-096 Cry
+SCP-629
+SCP-999
+SCP-106
+SCP-538
+SCP-080
+SCP-280
+SCP-058
+SCP-594
+SCP-594 Naked
+SCP-966
+SCP-053
+Class-D Guy SCP-027
+Rat
+SCP-023
+SCP-087-1
+SCP-1440
+SCP-1507
+SCP-352
+SCP-096 Docile Old
+SCP-096 Old
+SCP-472
+SCP-682
+Gas Mask
+Class-D Chestplate
+Class-D Pants
+Class-D Boots
+§eKeycard Lv1
+§6Keycard Lv2
+§4Keycard Lv3
+§9Omni Keycard
+SCP-143 Sword
+SCP-143 Spade
+SCP-143 Axe
+SCP-143 Pickaxe
+SCP-143 Hoe
+SCP-217
+Cow DNA With Clockwork Virus
+Creeper DNA With Clockwork Virus
+Pig DNA With Clockwork Virus
+Spider DNA With Clockwork Virus
+Testificate DNA With Clockwork Virus
+Zombie DNA With Clockwork Virus
+SCP-912 Helmet
+SCP-912 Chestplate
+SCP-912 Pants
+SCP-912 Boots
+Infra-Red Glasses
+SCP-1023-ARC
+SCP-458
+SCP-500
+SCP-500
+SCP-063
+SCP-1025
+SCP-420-J
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP Document
+SCP-173 Pearl
+SCP-111 Pearl
+SCP-457 Pearl
+SCP-1000 Pearl
+SCP-049 Pearl
+SCP-131 Pearl
+SCP-096 Pearl
+SCP-629 Pearl
+SCP-999 Pearl
+SCP-106 Pearl
+SCP-538 Pearl
+SCP-080 Pearl
+SCP-280 Pearl
+SCP-058 Pearl
+SCP-143 Pearl
+SCP-409 Pearl
+SCP-594 Pearl
+SCP-966 Pearl
+SCP-053 Pearl
+SCP-027 Pearl
+SCP-822 Pearl
+SCP-002 Pearl
+SCP-023 Pearl
+SCP-087 Pearl
+SCP-1440 Pearl
+SCP-079 Pearl
+SCP-1507 Pearl
+SCP-352 Pearl
+SCP-006 Pearl
+SCP-472 Pearl
+Wrench
+SCP-109
+SCP-006
+SCP-354
+Reinforced Iron
+Blood
+Keycard Slot Lv1
+Keycard Slot Lv2
+Keycard Slot Lv3
+Omni Keycard Slot 
+Smoke Block
+Corroded Iron Block
+Corroded Iron Door
+Sliding Door
+SCP-143 Leaves
+SCP-143 Log
+SCP-143 Sapling
+SCP-143 Plank
+Electric Wool
+Granite
+§7SCP-409
+SCP-822
+Grate
+Marble
+Oak Chair
+Stone Chair
+Marble Chair
+Granite Chair
+Oak Table
+Stone Table
+Marble Table
+Granite Table
+Flesh
+Bone
+SCP-§k079
+%s rotted away from SCP-106
+%s got cut in SCP-143
+%s got eaten by SCP-002
+%s stared at SCP-023
+%s got smashed away by SCP-096
+%s got electrocuted by SCP-594
+%s got crystalized
+%s became mad
+%s got his neck broken by SCP-173
+Electricity
+SCP-002
+Crystalization
+Madness
+Bloodstone
+Bloodstone Soft
+Bloodstone Medium
+SCP Blocks
+SCP Items
+SCPs

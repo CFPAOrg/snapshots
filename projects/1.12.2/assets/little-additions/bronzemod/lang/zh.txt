@@ -1,0 +1,26 @@
+Bronze Mod Tab
+Copper Ingot
+Copper Nugget
+Copper Dust
+Tin Ingot
+Tin Nugget
+Tin Dust
+Bronze Ingot
+Bronze Nugget
+Bronze Dust
+Coal Dust
+Gold Dust
+Iron Dust
+PCB
+Block of Copper
+Copper Ore
+Block of Tin
+Tin Ore
+Block of Bronze
+Machine Case
+Alloy Merger
+Crusher
+Bronze Furnace
+Alloy Merger
+Crusher
+Bronze Furnace

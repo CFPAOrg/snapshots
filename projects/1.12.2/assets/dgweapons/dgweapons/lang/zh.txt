@@ -1,0 +1,193 @@
+DG Weapons
+DG Items
+DG Tools
+DG Almost Done Items
+DG Buffs
+DG Armors
+Blunt katana blade
+Tama-hagane
+Tama-hagane ingot mix
+Raw steel katana blade
+Katana blade
+Mechanical parts
+Small iron blade
+Katana hilt
+Gear
+Spring
+Screws
+Screw
+Gasket kit
+Raw warhammer head
+Raw crowbar
+Warhammer head
+Big wooden hilt
+Wrench
+Wrench
+Wrench
+Wrench
+Wrench
+Wrench
+Wrench
+Whetstone
+Whetstone
+Whetstone
+Whetstone
+Whetstone
+Whetstone
+Chisel
+Chisel
+Chisel
+Chisel
+Chisel
+Chisel
+Hammer
+Hammer
+Hammer
+Hammer
+Hammer
+Hammer
+Hammer
+Biopolymer
+Plastic
+Plastic mix
+Short iron pipe
+Scrap metal
+Scrap metal §8(x5)
+Nails
+Gas system
+Metal can
+Blunt small iron blade
+Raw small iron blade
+Flax
+Flax fiber
+Cloth fragment
+Fabric
+Small wooden hilt
+Axe head
+Iron blade
+Raw iron blade
+Blunt iron blade
+Hilt
+Syringe
+Needle
+Blunt axe head
+Raw axe head
+Rock
+Bandage
+Diamond sword blade
+Diamond sword handle
+Gold sword blade
+Gold sword handle
+Stone sword blade
+Stone sword handle
+Wooden sword blade
+Wooden sword handle
+Almost done katana
+Almost done baseball bat
+Almost done small axe
+Almost done knuckle-duster
+Almost done golf club
+Almost done bottle
+Almost done dagger wrench
+Almost done sword
+Almost done crowbar
+Almost done pipe
+Almost done hunting knife
+Almost done warhammer
+Sterids
+Baseball bat
+Baseball bat
+Baseball bat
+Katana
+Katana
+Katana
+Spiked baseball bat
+Spiked baseball bat
+Spiked baseball bat
+Small axe
+Small axe
+Small axe
+Spiked plank
+Spiked plank
+Spiked plank
+Flame katana
+Flame katana
+Flame katana
+Bottle
+Bottle
+Bottle
+Broken bottle
+Broken bottle
+Broken bottle
+Nigger knife
+Golf club
+Golf club
+Golf club
+Dagger wrench
+Dagger wrench
+Dagger wrench
+Sword
+Sword
+Sword
+Brass knuckles
+Brass knuckles
+Brass knuckles
+Crowbar
+Crowbar
+Crowbar
+Pipe
+Pipe
+Pipe
+Hunting knife
+Hunting knife
+Hunting knife
+Warhammer
+Warhammer
+Warhammer
+Purple fiber hood
+Purple fiber jumper
+Gray fiber trousers
+Light gray boots
+Wasteland Psycho
+Grey jeans
+Grey boots
+Red cap
+White t-shirt
+Grey bike jacket
+Black bike jacket
+Grey mask
+Orange jumper §8[Close]
+Orange jumper §8[Open]
+Purple jumper
+Bleeding
+Bleeding
+§6§n§oRight Click§r §9§n§oto complete the Weapon
+§9§n§oItem Quality:§r §6Perfect
+§9§n§oItem Quality:§r §2Good
+§9§n§oItem Quality:§r §4Bad
+§9§n§oItem Ability:§r §a§lStop bleeding
+§c§lTest Item
+§9§n§oWeapon Quality:§r §6Perfect
+§9§n§oWeapon Quality:§r §2Good
+§9§n§oWeapon Quality:§r §4Bad
+§6§n§oLegendary Weapon
+§r
+§9§n§oWeapon Quality:§r §6Perfect
+§9§n§oWeapon Quality:§r §2Good
+§9§n§oWeapon Quality:§r §4Bad
+§9§n§oWeapon Ability:§r §4§lBURN!
+§9§n§oAmount of Uses:§r §c§l1
+§9§n§oAmount of Uses:§r §c§l2
+§9§n§oAmount of Uses:§r §a§l3
+§9§n§oAmount of Uses:§r §a§l4
+§9§n§oAmount of Uses:§r §a§l5
+§9§n§oAmount of Uses:§r §e§l6
+§9§n§oAmount of Uses:§r §e§l7
+§9§n§oAmount of Uses:§r §e§l8
+§9§n§oAmount of Uses:§r §e§l9
+§9§n§oAmount of Uses:§r §e§l0
+§9§n§oArmor Ability:§r §a§lStop bleeding
+§9§n§oArmor Ability:§r §8§lHide player nick
+%1$s bled to death
+DGArmors
+Normal

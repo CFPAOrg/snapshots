@@ -1,0 +1,73 @@
+CedKilleur's Tinkers AddOn
+Kappa Ingot
+Mini Kappa Ingot
+Kappa Nugget
+Kappa Paste
+_3Can be used to upgrade Tinker's Construct Tools_p_4Can only be applied to tools made entirely of Kappa material
+Golden Kappa
+_3Can be used to upgrade Tinker's Construct Tools_p_2Must be combined with Kappa Paste in a Tool Forge
+Mini Kappa Paste
+_3Can be used to upgrade Tinker's Construct Tools_p_4Can only be applied to tools made entirely of Mini Kappa material
+Kappa Medkit
+Kappa Flask
+Kappa Flask Charger
+Kappa Flask Tier 1
+_3Each charge gives full health and $1s Regen I._p_3Each charge has a 1 minutes cooldown_p_3You can only carry 1 flask at a time
+_4You can't carry more than one flask at a time
+Kappa Flask Tier 2
+_3Each charge gives full health and $1s Regen I._p_3Each charge has a 1 minutes cooldown_p_3You can only carry 1 flask at a time
+_4You can't carry more than one flask at a time
+Unsettled Ingot
+_4Explode after 10s_p_2Can only be crafted in a Vanilla crafting table
+Kappa EXP Converter
+_2Convert $EXP EXP into a $ITEM
+Multiple Projectiles Modifier
+_3Can be used to upgrade Kappa Shuriken_p_4Makes shurikens fire 5 projectiles at once
+Bleeding Modifier
+_3Can be used to upgrade Kappa Weapons_p_4Makes weapons apply bleeding debuff
+Lightning Modifier
+_3Can be used to upgrade Kappa Weapons_p_4Makes weapons do chain lightning
+Big Kappa Paste
+_3Can be used to upgrade Kappa Shuriken Damage up to 415
+Kappaxel
+Kappaxel I
+Kappaxel II
+Kappa Pickaxe
+Kappa Axe
+Kappa Shovel
+Kappa Helmet
+Kappa Chestplate
+Kappa Leggings
+Kappa Boots
+Tactical Combat Burger
+Forknife (Fatty food injector)
+Fatty liquid injector
+Block of Kappa
+Block of Mini Kappa
+Kappa Anvil
+_2Unbreakable
+Kappa Hopper
+Molten Kappa
+Molten Mini Kappa
+Kappa
+Mini Kappa
+Kappa
+Lord Kappa helps you, you have 20% Critical Chance
+Strange
+Strange, so strange...
+Sharpaste
+Add exponential damage
+Mini Sharpaste
+Add exponential damage
+Big Sharpaste
+Add a lot of damage
+Multiple Projectiles
+Send multiple projectiles in a cone
+Bleeding
+Adds bleeding damage
+Enchant/Disenchant
+Item is too damaged
+Invalid command usage.
+Bleeding
+%1$s died to bleeding injuries
+%1$s was shocked to death

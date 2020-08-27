@@ -1,0 +1,25 @@
+Darkness
+Darkness in the Overworld
+Disables minimal brightness level in the Overworld dimension.
+Darkness in the Nether
+Disables minimal brightness level in the Nether dimension.
+Darkness in the End
+Disables minimal brightness level in the End dimension.
+Darkness with sky
+Disables minimal brightness level in the other dimensions with sky.
+Darkness without sky
+Disables minimal brightness level in the other dimensions without sky.
+No fog in the Nether
+Disables red fog in the End dimension (noticeable with “Night Vision” effect).
+No fog in the End
+Disables pink fog in the End dimension (noticeable with “Night Vision” effect).
+Hardcore Darkness
+Pitch-black nights. Disables dynamic moon light.
+Moon Phases Brightness
+Moon light for each of the 8 moon phases.
+Blacklist by ID
+Blacklist dimensions by ID.
+Blacklist by name
+Blacklist dimensions by name.
+Disable config GUI
+Disables in-game config GUI.

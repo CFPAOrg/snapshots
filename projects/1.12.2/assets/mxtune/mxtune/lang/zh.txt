@@ -1,0 +1,387 @@
+mxTune
+Making Music Starts with Paper
+Paper and Ink
+You need to dirty your hands
+Write Music
+Put pen to the paper
+Buzzing your Lips
+Play Brass Instruments
+Bing Bam Bada-Rum Bing Bong
+Get the Rhythm On with those Percussion
+Strum Thrum Pling Twang
+Pluck those Strings and Grind some Riffs
+Mellow and Smooth, or Raspy and Sassy
+Makethose Reedy Tones Real
+Rosin, Bow and String
+Strings of Joy, Wonder and Melancholy!
+Mellifluous Euphony
+Put Wind in the Pipes
+A Lip Numbing Experience
+Play All the Brass
+Fingers Mallets Sticks
+Play All the Percussion
+Calluses and Broken Strings
+Plucked Them All
+Single Reed!? Too Easy
+Wet All The Reeds
+Twisting Pegs and Crossing Bridges
+Play All the Strings
+Hyperventilated on the Edge
+Played All the Pipes
+Musical Automata
+Craft machines to play music
+Mechanical Genius
+Crafted All Mellifluous Automata
+Spinet Piano
+Music Paper
+Right click to enter MML
+"Sheet Music" - Should never be seen unless the Name is removed.
+Error: No MML Found!
+Lute
+Ukulele
+Mandolin
+Whistle
+Roncadora
+Flute
+Chalumeau
+Tuba
+Lyre
+Electric Guitar
+Violin
+Cello
+Harp
+Tuned Flute
+Tuned Whistle
+Bass Drum
+Snare Drum
+Cymbels
+Hand Chimes
+Recorder
+Trumpet
+Harpsichord
+Harpsichord Coupled
+Standard Perc. Set
+Orchesta Perc. Set
+Piano
+Title
+Shift + right click to insert/remove music
+Creatve Staff of Music
+Shift-Right-Click: Open Playlist Manager, Ctrl+Right-Click: Apply Playlist to Current Chunk, Sneak+Ctrl+Right-Click: Apply Playlist to Current World
+Chunk Tool
+Right-Click to Start
+Gui Test
+Right-Click to open Gui under test
+Band Amp
+Once placed in the world, right click to open inventory. Add up to 12 instruments loaded with sheet music. Activate using a button, or sneak + right click.
+Acoustic Piano
+Electric Piano
+FM Piano
+Harpsichord
+Celeste
+Glockenspiel
+Music Box
+Vibraphone
+Xylophone
+Pipe Organ
+Accordion
+Harmonica
+Nylon Guitar
+Steel Guitar
+Jazz Guitar
+Overdrive Guitar
+Distortion Guitar
+Acoustic Bass
+Fingered Bass
+Pick Bass
+Violin
+Viola
+Cello
+Double Bass
+Pizzicato
+Harp
+Timpani
+Strings
+Slow Strings
+Synth Strings
+Concert Choir
+Orchestra Hit
+Trumpet
+Trombone
+Tuba
+Muted Trumpet
+Brass Section
+Soprano Sax
+Alto Sax
+Tenor Sax
+Baritone Sax
+Oboe
+English Horn
+Bassoon
+Clarinet
+Piccolo
+Flute
+Recorder
+Pan Flute
+Irish Tin Whistle
+Ocarina
+Sitar
+Banjo
+Shamisen
+Koto
+Bagpipes
+Fiddle
+Shenai
+Steel Drums
+Taiko Drums
+Melodic Tom
+Coupled Harpsichord
+Square Wave
+Saw Wave
+Pipe Organ 2
+Sine Wave
+M Lute
+M Ukulele
+M Mandolin
+M Whistle
+M Roncadora
+M Flute
+M Chalumeau
+M Tuba
+M Lyre
+M Electric Guitar
+M Piano
+M Violin
+M Cello
+M Harp
+T Flute
+T Whistle
+M Bass Drum
+M Snare
+M Cymbals
+M Hand Chime
+Standard Set
+Orchestra Set
+No Sheet Music Found
+mxTune
+Music Plays
+mxTune General Settings
+mxTune General
+mxTune Client Settings
+mxTune Client
+mxTune Recipe Settings
+mxTune Recipe
+General Settings
+General Settings
+Disable JAM Party Right Click
+Disables joining parties when clicking on another player that's hosting a JAM session. Also disables the JAM party management gui's.
+Listener Range
+The radius around a music source in blocks in which a player can hear music.
+Show Welcome Status Message
+Exactly as the name implies, if true the welcome message is displayed.
+Jam Abort Distance
+The maximum distance between group members. Exceeding this distance will stop the music.
+More Debug Messages
+Shows more debug messages in the console/log window of the launcher and latest log file. Also enables debug text in the instrument overlay.
+Automatically configure sound channels
+Automatically configure sound channels
+Vanilla Music
+Music Options
+Disable Creative Music
+Disable Creative Mode Music
+Disable Credits Music
+Disable Credits Music
+Disable End Dragon Music
+Disable End Dragon Music
+Disable End Music
+Disable End Music
+Disable Game Music
+Disable Game Mode Music
+Disable Menu Music
+Disable Menu Music
+Disable Nether Music
+Disable Nether Music
+Normal sound channels (manual)
+Number of normal sound channels to configure in the sound system (manual)
+Streaming sound channels (manual)
+Number of streaming sound channels to configure in the sound system (manual)
+Show player name in window title
+Updates on logon and/or changing dimension
+MML Site Link
+Enter a valid URL. Please test the URL thoroughly. If it is not a valid link it will appear RED in the MML Simple Editor dialog.
+Enabled Recipes
+Remove a recipe to disable it. Alternately append _off. *** Requires MC Restart - Cannot be changed while IN-WORLD ***
+soundRangeInfinityAllowed <player> [true|false]
+mxTuneServerUpdateAllowed <player> [true|false]
+mxTune Server Update Refused. Ask the Server Admin for rights.
+Open Party
+Music Options
+A-Z
+Z-A
+Normal
+ [Managed by Owner]
+Play
+Play Part
+Play All
+Stop
+New
+Import
+Open
+Save
+Save As
+Pick File
+Paste MML
+Save/Done
+Send
+Select
+Import MML
+Manage Music
+Open Folder
+Refresh
+Paste from Clipboard
+Copy to Clipboard
+*Write*
+*Upload*
++
+-
+Total Duration:
+Search:
+Title:
+Author:
+Source:
+Melody:
+Chord %s:
+Jam Session
+Join this Group?
+mxTune Music Options
+Whitelist
+Players
+Blacklist
+mxTune Volume
+Mute Off
+Mute Others
+Mute Blacklist
+Allow Whitelist
+Mute All
+HUD Position
+Adjust mxTune HUD
+HUD Size
+MML Simple Editor
+No Soundbank loaded
+Enter a Title!
+Paste MML in clipboard format!
+Instruments
+Title / MML@:
+Ignore Parse Errors
+Lock
+[Unlocked]: Top and Bottom inventory access is enabled. Non-owners can view contents. Start playing by SHIFT RIGHT-CLICK-ing the block.
+[Locked]: Top and Bottom inventory access is disabled. Non-owners cannot view contents. Non owners can start playing by RIGHT-CLICK-ing the block.
+Locked
+Unlocked
+Backside Redstone Input Toggle
+Enables or Disables Redstone input from the Backside.
+Plays when the input changes state from off to on.
+Input Enabled
+Input Disabled
+Leftside Redstone Output Toggle
+Enables or Disables Redstone Output from the Leftside.
+Outputs a single 10 tick pulse at the end of a song.
+Output Enabled
+Output Disabled
+Rightside Redstone Output Toggle
+Enables or Disables Redstone Output from the Rightside.
+Outputs a single 10 tick pulse at the end of a song.
+Output Enabled
+Output Disabled
+Sound Range Selector
+Selects the range in Blocks that music can he heard.
+[Normal]: 32 Blocks; [Infinity]: No Falloff (Only availble when enabled by a server administrator) Dependant on mod configuration "General Settings" "Listener Range" setting.
+Infinite sound range is not allowed. Ask the server administrator to enable.
+Chunk Tool
+File Selector
+Opens a staging folder. COPY MML files into this folder that you want to add to your personal in game library. This is a staging area! Do not MOVE your files here permananely!
+Only needed it the file list fails to refresh automatically after dropping MML files into the folder.
+Click the Refresh button after adding or removing files.
+MML Music Importer
+MML Music Library
+World: '%s' | Chunk( x: %s, x: %s ) '%s'
+This Chunk: x: %s, x: %s, Playlist name: %s
+Starting Chunk: x: %s, x: %s
+Ending Chunk: x: %s, x: %s
+Total Chunks to update: %s
+Playlist guid: %s
+Help: Shift-Right-Click: Open Chunk Playlist Manager, Ctrl+Right-Click: Apply Playlist to Current Chunk, Sneak+Ctrl+Right-Click: Apply Playlist to Current World
+Selected Playlist to Apply: '%s'
+Chunk Playlist update successful.
+World Playlist update successful.
+Cannot apply the '[ Empty Playlist / No Music ]' to a world.
+Playlist Manager
+Music Files  selected: %s
+Playlists
+Day List
+Night List
+Playlist Name
+Playlist Title
+Status Log
+To Day List
+To Night List
+Delete
+Double-Click Playlist Name to Select it for Applying to to a Chunk, (Hold)-Ctrl+Click to (Multi)-Select
+Hold Ctrl + Left-Mouse-Click
+Hold Ctrl + Spacebar and use Up/Down arrow keys.
+%s - To toggle rows selection.
+%s - To clear
+Click entry to show songs in the Day and Night lists.
+Double-Click entry to apply it to the Staff of Music.
+Default Playlists:
+%s - Apply to remove a playlist. World/Biome/Chunk
+%s - Apply to Chunks that you don't want World-Dimemsion/Biome background music.
+Upload Playlist: %s
+Uploading %s of %s: %s
+MxTune Music File (.mxt) is missing or corrupt: %s
+Song Not Found in Music Library! %s of %s: %s
+Set Staff of Music Playlist to: %s
+Failed to Set Staff of Music Playlist!
+Playing (%s) %s
+MXT Filename:
+Status
+Chars: %s, Duration: %s, Metadata: %s
+Volume
+Pan Left
+Pan Right
+Reverb
+Chorus
+Last Song Playlist: '%s'-%s, Song Duration: %s
+Last Song Title: '%s'
+Night
+Day
+[null]
+[ No Playlist ]
+[ No Music ]
+Ready to play music.
+MIDI subsystem failure! Unable to play music!
+Increase memory, change JVM options and/or reduce the number of mods used.
+If using a large sound font, try a smaller one.
+No Soundbank loaded
+Can't join a group because Music Options [Mute All] is enabled.
+Can't join %s's group because they are muted in Music Options.
+Cannot sleep while in a JAM.
+The Master Volume is OFF! Can't Play!
+The Jukebox/Note Blocks Volume is OFF! Can't Play!
+Joined %s's group
+%s joined the group
+Can't join %s's group. Too many members.
+%s can't join group. Too many members.
+Can't join a group if you are a member of a group.
+%s is not the leader of the group.
+No Error. %s
+Unexpected type $s
+Unable to create folder: %s and/or file: %s
+Network Timeout: request took longer than > %s seconds.
+Network Data Error. %s
+Unexpected data error. %s
+MML server side validation failure! Please review the log files.
+Out of Music Paper!
+"You don't have permission to update server files."
+Normal
+Infinity
+Musician

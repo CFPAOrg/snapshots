@@ -1,0 +1,665 @@
+Touhou Little Maid: Main
+Touhou Little Maid: Garage Kit
+Touhou Little Maid: Chair
+Touhou Little Maid: Spell Card
+Touhou Little Maid: Maid Model Coupon
+Touhou Little Maid
+Danmaku
+Marisa's Broom
+Chair
+Cake Box
+Rinnosuke Morichika
+Maid Fairy
+Suitcase
+Backpack
+Trolley Audio
+Maid Vehicle
+Scarecrow
+Portable Audio
+Power Point
+Kappa's Compass
+Hakurei's Gohei
+§6Ultramarine Orb Elixir
+§6Explosion Protect Bauble
+§6Fire Protect Bauble
+§6Projectile Protect Bauble
+§6Potion Protect Bauble
+§6Fall Protect Bauble
+§6Drown Protect Bauble
+§6Tombstone Bauble
+§6Nimble Fabric
+Marisa's Broom
+Aya's Camera
+Photo
+Chair
+Hata Sasimono
+Album
+Shrine Lamp
+Spell Card
+Debug Danmaku Tool
+NPC Maid Tool
+Substitute Jizo
+Maid Model Coupon
+Gashapon
+Gashapon Coin
+Maid Backpack
+Suitcase
+Trolley Audio
+Cat Cart
+Wheel Chair
+Rickshaw
+Scarecrow
+Portable Audio
+Chisel
+Extinguisher
+Power Point
+Garage Kit
+Maid Interaction Panel
+Altar
+Tombstone
+Gashapon Machines
+§cUsage: /hata <reload>
+Has reloaded all hata texture
+§cUsage: /touhou_little_maid <power|maid_num> <get|set|add|min> <player> [value]
+Current Power: %.2f
+Current Maid Num: %d
+§cUsage: /spell_card <reload>
+Has reloaded all custom spell card
+§cUsage: /draw_coupon <reload>
+Has reloaded all draw coupon
+§cUsage: /maid_res <reload>
+§cTips: This command may not reload some resources
+Reload Time: %.3f ms
+Mode: %d
+Press the Alt key and scroll the mouse wheel to switch modes.
+Right click on the block to set the coordinates, then right click on the maid binding coordinates.
+Shift right click on the ground clear the coordinates.
+Need to work with the maid's home mode
+Current Mode: %s
+Remaining Usage Times: %d
+Entity Name: %s
+Model Name: %s
+This Photo Is Missing Maid Data
+Maid Name: %s
+Being able to capture maid, at least in most cases...
+Shfit right click on the top of the block to place it.
+Shift left hit can destroy it.
+Right click on the top of the block to place it.
+Shift left hit can destroy it.
+Shift right click can open skin gui.
+Input
+Output
+Blacklist
+Whitelist
+§4Warning: This item has many problems and will be removed in a future version. Please do not use and craft!
+Right click on the maid to apply hata sasimono.
+Storage Situation: %d/%d
+Storage Power: %s
+The item can not be crafted, you need to build an altar to spawn a maid.
+For craft details, please refer to JEI.
+Author: %s
+Version: %s
+Spell Cooldown: %d ticks
+Only For Debug
+Right click on the maid to make it invulnerability, creative only
+Maid Model: %s
+Draw a gashapon by right-click on gashapon coin or emerald (default).
+§a[Maid Bauble]
+Need to be placed in the maid's bauble inventory
+Player Name: %s
+Text: %s
+[Special]
+Write point success!
+Write point fail!
+§4Write fail: dupplicate point!
+§4Write fail: point is too far!
+§4Write fail: point list is full!
+Compass pos cleared!
+IO Mode: Input
+IO Mode: Output
+Filter Mode: Blacklist
+Filter Mode: Whitelist
+This damnable place can't place the maid.
+This damnable photo don't have NBT data.
+You don't have enough power.
+Tombstone Place Fail!
+Tombstone Has Been Taken Back!
+[{"text":"[Touhou Little Maid] ","color":"green","bold":true},{"text":"Click Here","color":"gold","underlined":true,"bold":false,"clickEvent":{"action":"open_url","value":"https://media.forgecdn.net/files/2731/963/Patchouli-1.0-20.jar"},"hoverEvent":{"action":"show_text","value":"https://www.curseforge.com/minecraft/mc-mods/patchouli"}},{"text":" To Install Patchouli Mod To Get The Manual","color":"yellow","bold":false}]
+Only creative mode player can ride it, but you can disable it by modifying the configuration.
+Current Type: %s
+You can no longer tame maids, you have reached the limit (%d/%d)
+Model switch is disabled.
+Please set this NPC model as maid model.
+§b[Small BackPack]
+§a[Middle BackPack]
+§c[Big BackPack]
+Backpack level not match, need %s§r but is %s§r.
+Backpack level is biggest.
+Reloading resource information...
+Slash blade position is changed!
+Maid Pos Cleared!
+Entity Riding: ON
+Entity Riding: OFF
+Your lack of knowledge does not know how to use this item
+Please right click on the clay block
+Please have a photo of the maid in your offhand
+Maid Death Pos:
+JourneyMap:
+Click to create waypoint.
+Ctrl + click to view on map.
+Single Point
+Muti-Point Reentry
+Muti-Point Closure
+Set Range
+None
+§4§lHOME MODE IS DISABLE
+§6§lUnset Pos
+§a§lMaid Pos: %d, %d, %d
+The song is already playing ~
+This song does not exist, please check whether it is removed
+%1$s was killed by %2$s using danmaku
+%1$s was shot by %2$s using danmaku
+%1$s was pummeled by %2$s using danmaku
+Maid Config
+Maid Tamed Item
+Maid Temptation Item
+Maid Talk Interval (tick)
+Maid Pickup Sound Interval (Pickup Counts)
+Maid Hurt Sound Interval (tick)
+Maid Always Show Hat
+Maid Enabled Tasks
+Disable Player Change Maid Skin
+Owner Max Maid Num
+Vanilla Config
+Change XP Orb Texture
+Change Slime Model To Yukkuri
+Change Totem Model To Life Point
+Mob Config
+Maid Fairy Power Point
+Maid Fairy Spawn Probability
+Rinnosuke Power Point
+Rinnosuke Spawn Probability
+Misc Config
+Shirne Lamp Effect Cost
+Shrine Lamp Max Storage
+Player Death Loss Power Point
+Only Creative Player Can Ride Broom
+Power Point HUD Position X
+Power Point HUD Position Y
+Override NPC Render
+Only creative player can change chair model
+Only creative player can destroy chair
+Will the danmaku be affected by the fluid?
+Give Guide Book?
+Gashapon Config
+Purchase Gashapon Item
+Purchase Gashapon Price
+UR Level Gashapon's Weights
+SSR Level Gashapon's Weights
+SR Level Gashapon's Weights
+R Level Gashapon's Weights
+N Level Gashapon's Weights
+Music Config
+Player Name Reg
+Receive Music
+Pellet
+Ball
+Orbs
+Big Ball
+Bubble
+Heart
+Jellybean
+Amulet
+Star
+Big Star
+Petal
+Knife
+Master Spark
+Bullet
+Kunai
+Rain Drop
+Arrow Head
+Butterfly
+Glowey Ball
+Idle
+Attack
+Bow
+Danmaku
+Farm
+Sugarcane
+Melon
+Cocoa
+Grass
+Snow
+Feed
+Shears
+Milk
+Torch
+Breed
+Extinguishing
+HP: %f/%f
+AR: %f/20.0
+AT: %f
+Exp: %d
+Main
+Inventory
+Bauble
+Skill (WIP)
+Pick Mode Is Enable.
+Pick Mode Is Disable.
+Click this button to set whether the maid takes the initiative to pick up the entity item.
+Home Mode Is Enable.
+Home Mode Is Disable.
+Click this button to set whether the maid will follow the player.
+Change Skin
+Change Hata Sasimono
+Close
+Open Sound Credit GUI
+Open Maid Resources Pack Download GUI
+Show Maid Pos
+Clear Maid Pos
+Maid Riding Setting
+Close
+Show/Hide Floor
+Return
+Beg Status
+Walk Status
+Sit Status
+Normal Ride Status
+Ride Broom Status
+Show Helmet
+Show Chest Plate
+Show Leggings
+Show Boots
+Show Main Hand Item
+Show Off Hand Item
+Show Hata Sasimono
+Show Arrow
+Apply Data
+Height
+Show Ref Character
+Shift Click To Make Ten Times Modification
+Gravity
+Floating
+Loaded Animation File: %s
+Load Debug Animation File
+File Alteration: ON
+File Alteration: OFF
+Reset Animation
+Apply Texture
+Close
+Disassembly
+Show Sasimono
+Hide Sasimono
+Scroll the mouse wheel to switch styles
+Player: %s
+Storage: %s
+Cost: %s/h
+Put One
+Put All
+Take One
+Take All
+Not Download
+Downloaded
+Downloading
+Need Update
+REMEMBER TO LOAD THE PACK
+Author: %s
+,
+Size: %s
+Upload Time: %s
+License: %s
+There seems to be something wrong with the network...
+Please click on the top left button and wait a few seconds
+Reload
+All Resources Pack
+Maid Resources Pack
+Chair Resources Pack
+Sound Resources Pack
+Open Resources Gui
+Please slide the mouse wheel to scroll the inventory.
+JavaScript File
+Close
+The name of the player skin you want to use:
+The display text on the scarecrow brand:
+ID Illegal
+Importer: %s
+§c§l[LIST] §6§l%s
+%s %s Create
+Track
+Play
+Tags: §9%s
+Description: %s
+§nSchedule: %d/%d
+Track Name
+Artists
+Album
+Time
+The mod detects that the NetEase Cloud Music playlist is empty. The reasons may be as follows:\n\n- NetEase Cloud Music is not open for use in your region\n- Your current network environment cannot connect to NetEase Cloud Music server\n- Netease Cloud Music blocks the IP you use\n- Other unknown network issues\n\nCurrently, only NetEase Cloud Music is supported, so only players from China Mainland can use it, we apologize for this.\nHowever, we will add more support from other music websites in the future, so stay tuned.\n\nPlease note: This is a network problem between you and NetEase Cloud Music, not a mod bug!\n\n[Press Esc to exit this interface]
+Version: %s
+Date: %s
+Shift Click To Open The Details GUI
+Sound Pack List
+Double Click Open The Url
+Double Click Play The Sound
+Name
+Count
+Touhou Project Model
+Default Model
+Deafult Chair Model
+Reimu Hakurei
+Ran Yakumo
+Momiji Inubashiri
+Satori Komeiji
+Reisen Udongein Inaba
+Kanako Yasaka
+Sekibanki
+Hata no Kokoro
+Nitori Kawashiro
+Sanae Kochiya
+Sakuya Izayoi
+Iku Nagae
+Cirno
+Daiyousei
+Kaguya Houraisan
+Suwako Moriya
+Wakasagihime
+Flandre Scarlet
+Fujiwara no Mokou
+Kisume
+Chen
+Suika Ibuki
+Star Sapphire
+Youmu Konpaku
+Luna Child
+Remilia Scarlet
+Sunny Milk
+Alice Margatroid
+Alice
+Patchouli Knowledge
+Hong Meiling
+Koakuma
+Letty Whiterock
+Lunasa Prismriver
+Merlin Prismriver
+Lyrica Prismriver
+Marisa Kirisame
+Tenshi Hinanawi
+Lily White
+Lily White (Black)
+Koishi Komeiji
+Utsuho Reiuji
+Rin Kaenbyou
+Rumia
+Okina Matara
+Mystia Lorelei
+Yachie Kitcho
+Yuyuko Saigyouji
+Shion Yorigami
+Sagume Kishin
+Yukari Yakumo
+Tewi Inaba
+Wriggle Nightbug
+Keine Kamishirasawa
+Eirin Yagokoro
+Mima
+Yuuka Kazami
+Komachi Onozuka
+Eiki Shiki, Yamaxanadu
+Aya Shameimaru
+Medicine Melancholy
+Shizuha Aki
+Hina Kagiyama
+Yamame Kurodani
+Yuugi Hoshiguma
+Minoriko Aki
+Parsee Mizuhashi
+Nazrin
+Minamitsu Murasa
+Kogasa Tatara
+Nue Houjuu
+Byakuren Hijiri
+Ichirin Kumoi
+Shou Toramaru
+Toyosatomimi no Miko
+Seiga Kaku
+Mononobe no Futo
+Mamizou Futatsuiwa
+Yoshika Miyako
+Kyouko Kasodani
+Soga no Tojiko
+Kagerou Imaizumi
+Seija Kijin
+Shinmyoumaru Sukuna
+Raiko Horikawa
+Keiki Haniyasushin
+Narumi Yatadera
+Seiran
+Junko
+Ringo
+Yatsuhashi Tsukumo
+Benben Tsukumo
+Hecatia Lapislazuli
+Miyoi Okunoda
+Yumemi Okazaki
+Kutaka Niwatari
+Clownpiece
+Doremy Sweet
+Eika Ebisu
+Eternity Larva
+Hieda no Akyuu
+Hatate Himekaidou
+Kasen Ibaraki
+Mayumi Joutouguu
+Aunn Komano
+Saki Kurokoma
+Maribel Hearn
+Kosuzu Motoori
+Satono Nishida
+Nemuno Sakata
+Mai Teireida
+Tokiko
+Renko Usami
+Sumireko Usami
+Urumi Ushizaki
+Watatsuki no Toyohime
+Watatsuki no Yorihime
+Joon Yorigami
+§7Shrine Maiden of Paradise
+§7Shikigami of the Gap Youkai
+§7The Petty Patrol Tengu
+§7The Girl Even the Vengeful Spirits Fear
+§7Lunatic Moon Rabbit
+§7The Avatar of Mountains and Lakes
+§7The Rokurokubi Horror
+§7The Expressive Poker Face
+§7Super Youkai Warhead
+§7Newbie Goddess of the Mountain
+§7Maid of the Scarlet Devil Mansion
+§7Beautiful Scarlet Cloth
+§7Fairy of the Ice
+§7Lunate Elf
+§7Eternal Princess
+§7The Highest of Native Gods
+§7Mermaid Living in Fresh Water
+§7Sister of the Devil
+§7Figure of the Person of Hourai
+§7The Fearsome Well Spirit
+§7Black Cat of Bad Omens
+§7Tiny Night Parade of One Hundred Demons
+§7Pouring Starlight
+§7Half-Human Half-Phantom Gardener
+§7Silent Moonlight
+§7The Scarlet Devil
+§7Shining Sunlight
+§7Seven-Colored Puppeteer
+§7Girl of Death
+§7The Unmoving Great Library
+§7Chinese Girl
+§7？？？
+§7What Winter Left Behind
+§7Poltergeist Violinist
+§7Poltergeist Trumpeter
+§7Poltergeist Keyboardist
+§7Ordinary Magician
+§7Girl of the Sphere of Neither Perception nor Non-Perception
+§7Fairy Herald of Spring
+§7The Closed Eyes of Love
+§7Scorching, Troublesome Divine Flame
+§7Hell's Traffic Accident
+§7Youkai of the Dusk
+§7The Ultimate, Absolute Secret God
+§7Night Sparrow Apparition
+§7Matriarch of the Kiketsu Family
+§7Dreaming Ghost
+§7The Most-Despicable and Disastrous Elder Twin Sister
+§7Goddess Who Invites Unfortunate Slips of the Tongue
+§7Youkai of Boundaries
+§7White Rabbit of Good Fortune
+§7A Bug of Light Wriggling in the Dark
+§7History-Eating Half Beast
+§7Brain of the Moon
+§7Evil Spirit
+§7Flower Master of the Four Seasons
+§7Guide of the Sanzu River
+§7Supreme Judge of Paradise
+§7Traditional Reporter of Fantasy
+§7Little Sweet Poison
+§7Symbol of Loneliness and Demise
+§7Nagashi-bina of the Hidden God
+§7The Bright Net in the Dark Cave
+§7The So-Called Unexplainable Phenomenon
+§7Symbol of Abundance and Plenty
+§7The Jealousy Beneath the Earth's Crust
+§7The Little Dowser General
+§7The Ghost Left From the Shipwreck Accident
+§7The Cheery Forgotten Umbrella
+§7The Unidentified Fantastic Flying Girl
+§7The Sealed Great Magician
+§7The Great Wheel, Having Guarded and Been Guarded
+§7Disciple of Bishamonten
+§7Shoutoku Taoist
+§7The Wicked Hermit Who Passes Through Walls
+§7The Shikaisen from Ancient Japan
+§7The Bake-danuki with Ten Transformations
+§7Loyal Undead
+§7Sutra Chanting Yamabiko
+§7Ghost of the Descendant of the Gods
+§7The Bamboo Forest's Loup-Garou
+§7Counterattacking Amanojaku
+§7Descendent of the Inchlings
+§7Phantasmal Percussionist
+§7The Sculptor God Crafted by Utter Isolation
+§7The Magical Jizo who Manifested in the Forest
+§7The Pale Blue Eagle Ravi
+§7-
+§7The Orange Eagle Ravi
+§7Tsukumogami of an Aging Koto
+§7Tsukumogami of an Aging Biwa
+§7Goddess of Hell
+§7The Poster Girl of Geidontei, the Fantasy Pub
+§7Fantasy Legend
+§7Clerical God of Hell's Checkpoint
+§7Fairy of Hell
+§7Ruler of Dreams
+§7Stillborn Idol of the Riverbed
+§7The Butterfly Fairy who Approaches God
+§7Memory of Gensokyo
+§7Modern-Day Spirit Photography Reporter
+§7The One-Armed, Horned Hermit
+§7Haniwa Lance Corporal
+§7The Guardian Beast Devoted to Shintoism and Buddhism
+§7Matriarch of the Keiga Family
+§7-
+§7Bibliophile with a Deciphering Eye
+§7The All-Too-Dangerous Backup Dancers
+§7The Yamanba who Surpasses This Floating World's Barriers
+§7The All-Too-Dangerous Backup Dancers
+§7-
+§7-
+§7Expose the Esoteric! The Secret Sealing Club's First President
+§7Parental Guardian of Ancient Fish
+§7The Moon Princess Connecting Sea and Mountain
+§7The Moon Princess Possessed by Divine Spirits
+§7The Most-Despicable and Disastrous Younger Twin Sister
+Cushion
+Class Desk
+Class Chair
+Kotatsu
+Play Station
+Tall Stool
+Low Stool
+Barbecue Booth
+Barbecue Booth
+Long Stool
+Square Table
+Mahjong Table
+Beach Chair
+Parasol
+Water Wheel
+Saisen Bako
+Well
+Torii
+Ema
+Anti-collision Bucket
+Park Bench
+Rinnosuke Children's Toys
+Moto
+Shinmyoumaru's Bowl
+Default Sound
+This voice was delivered by Amitoro's Voice Material Studio
+Night Sign "Night Bird"
+Metal Sign "Metal Fatigue"
+Magic Sign "Milky Way"
+Border Sign "Boundary Between Wave and Particle"
+Border Sign "Boundary Between Wave and Particle" 3D
+Maid Idel Sound
+Maid Attack Sound
+Maid Range Attack Sound
+Maid Danmaku Sttack Sound
+Maid Farm Sound
+Maid Feed Sound
+Maid Shears Sound
+Maid Get Milk Sound
+Maid Torch Sound
+Maid Feed Animal Sound
+Extinguishing Sound
+Maid Find Target Sound
+Maid Hurt Sound
+Maid Fire Hurt Sound
+Maid Player Hurt Sound
+Maid Tamed Sound
+Maid Get Item Sound
+Maid Death Sound
+Maid Feel Hot Sound
+Maid Feel Cold Sound
+Maid Rain Sound
+Maid Snow Sound
+Maid Morning Sound
+Maid Night Sound
+Credit Sound
+Camera Use Sound
+Album Open Sound
+Altar Craft Sound
+Rinnosuke Ambient Sound
+Rinnosuke Death Sound
+Rinnosuke Hurt Sound
+Box Open Sound
+Compass Select Point Sound
+Audio Music Sound
+Mode: %s
+Has Hata Sasimono
+Invulnerable
+Maid Owner: %s
+Mode:
+Has Hata Sasimono
+Invulnerable
+Maid Owner: %s
+Altar Craft
+Effect: %s
+Craft an Item
+Spawn New Maid
+Reborn Maid From Garage Kit
+Spawn Light Bolt
+Memorizable Gensokyo
+A mod about the maid and the touhou project.$(br2)Thanks to Snownee for help in coding. $(br)Thanks to Succinum, Pajinyi, ZeniCrow, Tian_mi, Paulzzh, Yuriscat and other artists for producing excellent models and textures.$(br)Thanks to Verclene, the author of little maid mob mod.

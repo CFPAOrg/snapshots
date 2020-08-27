@@ -1,0 +1,126 @@
+Spotlight
+The SpotLight Mod
+Config saver
+Config saver
+Add Key
+Are you sure you want to remove this key ?
+Alpha: 
+Angles
+Angle %s: 
+Back
+Properties
+Scroll speed: 
+Blue: 
+Bold
+Cancel
+Colors
+Configs
+Create Key
+Erase Key
+Delete Key
+Spotlight - %s
+Double
+Green: 
+Italic
+Beam height: 
+Mode Beam
+Mode Text
+Obfuscated
+Off
+On
+Overwrite Key
+Red: 
+Reset Time
+Auto. rotation %s: %s
+Reverse rotation %s: %s
+Rotation speed %s: 
+Secondary lazer: %s
+Shadow
+Sides: 
+Simple
+Main beam size: 
+Sec. beam size: 
+Smooth Mode
+Strike throught
+Text & colors
+Text height: 
+Text scale: 
+Textures
+3D Text
+Time: 
+Timeline
+Timeline %s
+Translate
+Translate speed: 
+Reverse translate
+Underline
+This spotlight is locked you can't open it!
+This spotlight is locked you can't break it!
+Create a key at the given time.
+Set the time for the key.
+This button get you back to the previous menu.
+Here you can change the rotations of the beams.
+Here there are some other options for the beams.
+This slider adjust the alpha component of the main beam between 0 and 1.
+This slider adjusts the blue component of the main beam between 0 and 255.
+This slider adjusts the green component of the main beam between 0 and 255.
+This slider adjusts the red component of the main beam between 0 and 255.
+This slider adjust the alpha component of the second beam between 0 and 1.
+This slider adjusts the blue component of the second beam between 0 and 255.
+This slider adjusts the green component of the second beam between 0 and 255.
+This slider adjusts the red component of the second beam between 0 and 255.
+This button takes you to the configuration interface of the beam's colors. The colors of the two beams are independent and uses the standard RGB color system. This is how colors are displayed on your screen.
+Open the configs saving screen.
+You can put a disk here to save the current spotlight's configuration in it.
+The disk you put in the slot above will get here.
+You can put a disk here to load it's configuration into the spotlight.
+The disk placed above will get here.
+Place a disk here to erase it.
+The disk from above will get here empty.
+You just click on this button, it show/hide help.
+Toggle the current spotlight's mode between beam and text.
+This slider adjusts an angle of the beams.
+This button toggle the beam's automatic rotation around the selected axis.
+This button allows you to reverse or not the beam's automatic rotation for the selected axis.
+This slider adjusts the beam's automatic speed on a scale of 0-200 for the selected axis.
+Select the X axis.
+Select the Y axis.
+Select the Z axis.
+This slider adjusts the angle of the text.
+This button toggle the text's automatic rotation.
+This button allows you to reverse or not the text's automatic rotation.
+This slide bar adjusts the text's automatic speed on a scale of 0-200.
+This slider adjusts the height of the beams.
+This slider adjusts the text height on a scale of 0 to 100.
+This slider adjusts the text size on a scale of 0 to 100.
+This button put the text in bold.
+This button strike the text.
+This button underline the text.
+This button put the text in italic.
+This button obfuscate the text.
+This button display the text shadow or not.
+This slider adjusts the thickness of the main beam.
+This slider adjusts the thickness of the secondary beam.
+This button allows you to toggle the secondary beam.
+This button toggles between single and double laser (in other words the beam will go in the two opposite directions).
+This slider determine the number of sides of the beam.
+You can change the text and its color right there.
+This slider adjusts the blue component of the text between 0 and 255.
+This slider adjusts the green component of the text between 0 and 255.
+This slider adjusts the red component of the text between 0 and 255.
+Write the text to display here.
+Define if the spotlight need to be powered by redstone to be active.
+You can change the text's rotation there.
+Some properties for the text.
+You can change the beam's texture right there.
+When you put something in this slot the main beam will take its texture.
+When you put something in this slot the secondary beam will take its texture.
+This button allows you to add one key at a selected time, this key takes all the values of the spotlight at the time of the key's creation.
+This button deletes the selected key, a confirmation will be required.
+This button resets the time of the timeline to 0.
+This button toggles the smooth mode, when the mode is not active laser values change when a key is reached, otherwise the values change gradually (whenever possible).
+This represents the timeline, you can see the green bar indicating the current time, indicative graduations and saved key (red cross) by clicking on the cross you selected it.
+Here's a great part of this block, the timeline. This is a place you can configure key which store configuration to reach at the given time. For example you can create a color gradient.
+This button enables or disables the flow of time to the timeline.
+Click this button to create the key to the specified time just above.
+This slider allows you to choose at which time key will be created.

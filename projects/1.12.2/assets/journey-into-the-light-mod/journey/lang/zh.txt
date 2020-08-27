@@ -1,0 +1,1433 @@
+Nethic Furnace
+Nethic Furnace
+Chris Geddes - Underwater World
+Chris Geddes - Blue Water
+Chris Geddes - Race Star
+Chris Geddes - Comp Begins
+Chris Geddes - Deep Blue
+Chris Geddes - Race Shore
+Dizzlepop12 - untitled_disc
+Dizzlepop12 - Bog
+Dizzlepop12 - Clouds
+Dizzlepop12 - Stalagmite
+The_SlayerMC - Gold
+The_SlayerMC - Gate
+Dizzlepop12 - Journey Into the Light
+Dizzlepop12 - Sizzle
+Dizzlepop12 - Firefly
+Dizzlepop12 - Snow Bells
+Hot Touch
+Water Walker
+Knowledge Table
+Summoning Table
+Efficiency
+Uses Remaining
+Infinite
+Uses
+Essence
+Dark Energy
+Ranged Damage
+Unbreakable
+On hit
+Withers foe for
+seconds
+Spawns boss
+Spawns pet
+Time: 
+You've recieved %s
+Incubator
+I have some great deals!
+I've got some nice valuables!
+Greetings, weary traveller!
+I have some great deals!
+I've got some nice valuables!
+Greetings, weary traveller!
+Welcome welcome!
+Hello!
+Good to see you!
+Time for a Journey
+Unfamiliar Substance
+Dungeon Looter
+Burning Horizons
+Bad Cows Go to the Nether
+Mushrooms, Tigers, and Bears! Oh My!
+Colder than Ice
+Hostile Royality
+Dark, dark depths
+Overgrown Wasteland
+The Enchanted Jungle
+Ornate Sky Paradise
+Agressive Caverns
+Tiny Companion
+Giant Birds are Pets too...
+Fire Brawl
+Killer of Kings
+Cooking with Metal
+Nether Bullfighting
+Witherer of the Withering
+Soul Reclaimer
+Gone Fishin'
+Rough Flight
+Planting the Trees
+Reforestation
+Hero or Enemy?
+Plunderer of the Sky
+Craft a Sapphire Sword
+Obtain Sapphire
+Obtain a dungeon gemstone
+Unlock the Boiling Point Dimension
+Kill a Hell Cow
+Kill a Hongo
+Unlock the Frozen Lands Dimension
+Unlock the Euca Dimension
+Unlock the Depths Dimension
+Unlock the Corba Dimension
+Unlock the Terrania Dimension
+Unlock the Cloudia Dimension
+Kill an Underground Mob
+Tame a Ferret
+Spawn a Pet Roc
+Kill the Blazier Boss
+Kill the Eudor Boss
+Kill the Corallator Boss
+Kill the Nether Beast Boss
+Kill the Withering Beast Boss
+Kill the Soul Watcher Boss
+Kill the Scale Boss
+Kill the Thunderbird Boss
+Kill the Logger Boss
+Kill the Sentry King Boss
+Kill the Terranian Protector Boss
+Kill the Sky Stalker Boss
+Phoenix
+Shiverwing
+Goldwing
+Roc
+Woodpecker
+Cloud Flyer
+Current version: %s
+Unable to get latest version. Check your internet connection.
+Your version is up to date!
+Update is available! Latest version: %s
+You can get it %s!
+here
+Follow %s on twitter for update teasers.
+Please, contact with the authors of %s to fix this issue
+Not enough space for boss to spawn
+Cannot be called upon unless in the %s dimension.
+You're playing with hot fire. It's not too late to turn back...
+It sucked all the energy out of this world, don't let it suck the energy out of you...
+The purple flying fish monster is not happy...
+You will regret this mistake for the rest of your life - if you'll still have one, that is...
+You'll get chopped to pieces with this one...
+The blue blubby fish monster has been summoned!
+The King has been summoned!
+The thunderbird is not pleased with its awakening...
+It's sole purpose was to protect this land. Why would you try to destroy it?
+Calcia has been summoned!
+The Nether Beast has been summoned!
+The Withering Beast has been summoned!
+The Soul Watcher has been summoned!
+Overworld
+Nether
+End
+Euca
+Boiling Point
+Cloudia
+Corba
+Depths
+Frozen Lands
+Terrania
+Senterian Labyrinth
+We never saw it, but we know it - the Divine land Corba was birthed by the o' powerful Rock and Eye. Never forget the day, the hour, the second he - The True One - the all powerful Rock and Eye - cometh unto the great world he created, to seek his revenge on the wrong-doers who dare disrespect his land.
+I have to make this quick Clancy... I'm not sure how much time I have left... I'm not sure how much time our reality has left. These horrid machines... they're evil. They've pioneered an art form of killing. These Sentries... I'm certain they will destroy reality as we know it if they become too powerful. They - I think they've found me... I hope this reaches you. Please take all of the other contents of my Ender Chest I've left you. They're yours now. Goodbye, my friend.
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Chapter 9
+Chapter 10
+Traveling To The Frozen Lands
+Voyaging To The Boiling Point
+Ascending To Euca
+Falling To The Depths
+Untangling Corba
+Enchanting Terrania
+Fluffing Cloudia
+Turn Back
+Journey Into the Light
+Successfully Installed Journey Into the Light
+Lunium
+Shadium
+Bloodcrust
+Celestium
+Korite
+Mekyum
+Storon
+Flairium
+Des
+Orbadite
+Molten Lunium
+Molten Shadium
+Molten Bloodcrust
+Molten Celestium
+Molten Korite
+Molten Mekyum
+Molten Storon
+Molten Flairium
+Molten Des
+Molten Orbadite
+JITL: Armor
+JITL: Blocks
+JITL: Crops
+JITL: Decoration
+JITL: Interactive Blocks
+JITL: Items
+JITL: Portal Blocks
+JITL: Spawners
+JITL: Tools
+JITL: Utilities
+JITL: Weapons
+Air Root
+Ancient Catalyst
+Ancient Obelisk
+Ancient Socket
+Ancient Stone
+Ancient Runic Stone
+Ancient Runic Stone
+Ancient Runic Stone
+Ancient Runic Stone
+Ancient Machine Block
+Ash
+Ashual Block
+Ashual Ore
+Black Block
+Blazier Bricks
+Blazium Block
+Blazium Ore
+Bleedheart Fruit
+Bleedstone
+Blood Bricks
+Blood Catalyst
+Blood Lamp
+Blood Pillar
+Blood Rock
+Blood Rune
+Blue Cloudia Cloud
+Blue Gem Block
+Blue Gems
+Tall Bogshroom
+Small Bogshrooms
+Bogberry Bush
+Bogweed
+Bogwood Leaves
+Bogwood Log
+Bogwood Sapling
+Boil Bricks
+Boil Cobble
+Boil Pillar
+Boil Shingle
+Boil Square Brick
+Boil Chain
+Boil Chest
+Boil Gate
+Brison Bars
+Boiling Lamp
+Boiling Log
+Boiling Portal
+Boiling Portal Frame
+Boil Lock
+Boiling Sapling
+Soul Crystal
+Soul Crystal
+Soul Crystal
+Soul Crystal
+Soul Crystal
+Soul Crystal
+Soul Crystal
+Soul Crystal
+Soul Crystal
+Soul Crystal
+Boss Spawner
+Bradberry Bush
+Brittle Ice
+Burning Leaves
+Burnt Grass
+Candy Cane
+Carved Blood Rock
+Cave Vine
+Celestium Block
+Celestium Ore
+Charred Grass
+Cloud
+Cloud Altar
+Cloudia Flower
+Cloudia Tall Grass
+Cloudia Brick
+Cloudia Brick Stairs
+Cloudia Chest
+Cloudia Cobblestone
+Cloudia Dirt
+Cloudia Grass
+Cloudia Lamp
+Cloudia Leaves
+Cloudia Log
+Cloudia Pillar
+Cloudia Portal
+Cloudia Portal Frame
+Cloudia Post
+Cloudia Rock
+Cloudia Tile
+Cloudia Tile Stairs
+Cloudia Wall
+Cloudwood Planks
+Compact Nether Brick
+Corba Brick Stairs
+Corba Stone
+Corba Cobblestone
+Corba Stone
+Corba Stone
+Corba Stone
+Corba Plank Double Slab
+Corba Plank Slab
+Corba Plank Stairs
+Corba Wall
+Blue Flower
+Corba Chest
+Dark Purple Flower
+Corba Flower
+Corba Grass
+Corba Grass Path
+Corba Ladder
+Corba Lamp
+Corba Leaves
+Light Purple Flower
+Corba Log
+Corba Pillar
+Corba Plank
+Corba Portal
+Corba Portal Frame
+Corba Post
+Red Flower
+Corba Sapling
+Corba Sentry Brick
+Speckled Flower
+Corba Stone
+Corba Tall Grass
+Crisp Grass
+Crumbling Plant
+Darkbloom
+Dark Brick
+Dark Floor
+Darkly Gate
+Darkly Lock
+Dark Shingle
+Death Grass
+Depths Crystal
+Depths Lamp
+Depths Blue Flower
+Depths Bookshelf
+Depths Brick
+Depths Carpet
+Depths Chest
+Depths Cobblestone
+Depths Dirt
+Depths Flower
+Depths Gate
+Depths Glass
+Depths Grass
+Depths Leaves
+Depths Light
+Depths Lock
+Depths Log
+Depths Pillar
+Depths Plank
+Depths Portal
+Depths Portal Frame
+Depths Sapling
+Depths Shingle
+Depths Stairs
+Depths Stone
+Depths Tile
+Des Block
+Des Ore
+Diamond Loot Box
+Dungeon Brick
+Dungeon Carved Brick
+Carved Dungeon Brick Fence
+Carved Dungeon Brick Stairs
+Dungeon Brick Fence
+Dungeon Brick Stairs
+Dungeon Chiseled Brick
+Chiseled Dungeon Brick Fence
+Chiseled Dungeon Brick Stairs
+Dungeon Cracked Brick
+Cracked Dungeon Brick Fence
+Cracked Dungeon Brick Stairs
+Dungeon Lamp
+Dungeon Lamp Fence
+Dungeon Lamp Stairs
+Earthen Heatflower
+Earthen Short Nethigrass
+Earthen Tall Nethigrass
+Earthenwood Leaves
+Earthenwood Log
+Earthenwood Planks
+Earthen Netherrack
+Earthen Sapling
+Elder Block
+Tall Enchanted Shroom
+Enchanted Shrooms
+Enderillium Block
+Enderillium Ore
+Euca Dungeon Brick Stairs
+Euca Dungeon Bricks
+Euca Dungeon Tile
+Euca Gold Stone
+Euca Dungeon Bricks
+Euca Dungeon Bricks
+Gold Flower
+Silver Short Grass
+Silver Sprouts
+Silver Tall Grass
+Euca Dungeon Bricks
+Euca Dungeon Bricks
+Euca Blue Flower
+Euca Bricks
+Euca Chest
+Dark Green Euca Leaves
+Euca Dirt
+Golden Euca Leaves
+Golden Euca Log
+Golden Euca Stairs
+Euca Grass
+Light Green Euca Leaves
+Euca Portal
+Euca Portal Frame
+Euca Pumpkin
+Euca Sapling
+Euca Grass
+Silver Euca Leaves
+Euca Stone
+Euca Tall Flowers
+Euca Tall Grass
+Euca Tile
+Essential Fire
+Firestone Ore
+Flairium Block
+Flairium Ore
+Flame Flower
+Frostberry Thorn
+Frostbiter Spawner
+Frozen Blooms
+Frozen Bricks
+Frozen Chest
+Frozen Dirt
+Frozen Flower
+Frozen Glass
+Frozen Grass
+Ice Sapling
+Frozen Lamp
+Frozen Leaves
+Frozen Log
+Frozen Planks
+Frozen Portal
+Frozen Portal Frame
+Frozen Sapling
+Frozen Stone
+Blue Glowshroom
+Green Glowshroom
+Red Glowshroom
+Gold Loot Box
+Goldbot Spawner
+Golden Bloom
+Golden Bulb
+Golden Stalks
+Golden Euca Plank
+Goldite Bulb
+Goldite Dirt
+Goldite Sunflower
+Goldite Grass
+Goldite Oak Log
+Goldite Stalks
+Gorbite Block
+Gorbite Ore
+Green Gem Block
+Grindstone
+Heat Sand
+Nethic Soil
+Hell Bell
+Hell Thorn
+Hellbot Spawner
+Hellshroom
+Hellstone Block
+Hellstone Ore
+HellThornRoot
+Hellwing Spawner
+Hot Brick
+Hot Brick Fence
+Hot Brick Stairs
+Hot Glass
+Hot Ground
+Ice Bud
+Ice Bush
+Ice Leaves
+Ice Log
+Ice Stone
+Icicle
+Redstone Igniter
+Redstone Igniter
+Incubator
+Incubator
+Inferno Plant
+Iridium Block
+Iridium Ore
+Iron Loot Box
+Journey Chest
+Juiceberry Bush
+Korite Block
+Korite Ore
+Deconstructed Lament
+Lament Box of Fire
+Lament Box of Heaven
+Lament Box of Decay
+Lament Box of Darkness
+Lament Box of Light
+Lament Box of Hell
+Lament Box of Death
+Lament Box of Life
+Large Nether Brick
+Lava Bloom
+Lava Rock
+Light Blue Cloudia Cloud
+Locked Chest
+Lunite Block
+Lunite Ore
+Lunium Block
+Lunium Ore
+Mage Wall
+Magic Explosive
+Mekyum Block
+Mekyum Ore
+Mini Ghast Spawner
+Mossy Essence Stone
+Nether Chest
+Deadblood Sapling
+Netherweed
+Nethican Sludge
+Nethic Dungeon Bricks
+Nethic Gemstone Block
+Nethic Grass
+Nethic Lamp
+Obelisk
+Observer Spawner
+Orbadite Block
+Orbadite Ore
+Overgrown Loot Box
+Overseer Elder Spawner
+Overseer Spawner
+Perma Flower
+Pink Cloudia Cloud
+Purple Gem Block
+Purplian Spawner
+Red Gems
+Rubble
+Sapphire Block
+Sapphire Ore
+Scorched Cactus
+Scorched Rubble
+Scorched Stalagmite
+Scorched Stalagmite
+Scorched Stalagmite
+Scorched Stalagmite
+Screamer Spawner
+Senterian Heart Block
+Senterian Heart Block
+Eye of the Heart
+Senterian Altar
+Senterian Bars
+Senterian Bricks
+Senterian Carved Rock
+Senterian Floor
+Senterian Glass
+Senterian Guardian Lamp
+Senterian Light Lamp
+Senterian Mellow Lamp
+senterianPortal
+Senterian Portal Frame
+Senterian Post
+Senterian Rock
+Sentry Lock
+Shadium Block
+Shadium Ore
+Shiver Flower
+Silverbot Spawner
+Sizzleberry Bush
+Deadblood Leaves
+Deadblood Log
+Sizzling Post
+Smithstone
+Smooth Glass
+Sorcerer Spawner
+Starlight Golem Spawner
+Starlight Transporter Spawner
+Stone Crafting Table
+Storon Block
+Storon Ore
+Summoning Table
+Swamp lily
+Swamp Shelf
+Swamp Fly Bottle
+Tainted Mud
+Tall Crumbling Plant
+Blue Tall Glowshroom
+Green Tall Glowshroom
+Red Tall Glowshroom
+Tall Golden Stalks
+Tall Goldite Stalks
+Tall Molten Plant
+Tall Terranian Shroom
+Tangleberry Bush
+Terranian Shroom
+Terrania Chest
+Terrania Lamp
+Terranian Flower
+Terranian Bars
+Terranian Dark Panels
+Terranian Dirt
+Terranian Grass
+Terrania Leaves
+Terranian Log
+Terranian Panels
+Terranian Post
+Terranian Stone
+Terranian Tallgrass
+Terrania Vine
+Terrania Portal
+Terrania Portal Frame
+Terrania Sapling
+Terrashroom Block
+Terrashroom Block
+Trophy
+Blazier Trophy
+Corallator Trophy
+Eudor Trophy
+Logger Trophy
+Nether Beast Trophy
+Thunderbird Trophy
+Scale Trophy
+Sentry King Trophy
+Soul Watcher Trophy
+Sky Stalker Trophy
+Terranian Protector Trophy
+Withering Beast Trophy
+Volcanic Sand
+White Block
+Witherwood Leaves
+Witherwood Log
+Workshop Carpet
+Workshop Stairs
+Workshop Stone
+Workshop Fence
+Yellow Gem Block
+Air Melon
+Air Root Seed
+Amulet of the Depths
+Amulet of the Dynaster
+Empty Amulet
+Amulet of Glacial Bloodlust
+Amulet of Eternal Magma
+Ancient Eye of Opening
+Ancient Piece
+Ancient Shard
+Ancient Chunk
+Ancient Fragment
+Aquastone
+Aquatic Knife
+Ash
+Ash Dust
+Back Biter
+Balmy Teardrop
+Base Essence
+Beastly Stomach
+Bedrock Shovel
+Burning Fireball
+Blazing Bow
+Blazing Fireball
+Blazium Gem
+Bleedheart Fruit
+Bleedstone
+Bleedstone Dust
+Blood
+Blood Knife
+Blood Wielder
+Blue Gem
+Blue Honglowshroom
+Blue Water
+Bogberry
+Bog
+Boiling Blade
+Boiling Piercer
+Boiling Skull
+Boil Key
+Boiling Powder
+Bradberry
+Bronzed Battleaxe
+Bubble Sword
+Calcia Orb
+Calcia Sword
+Cave Crystal
+Cave Dust
+Cavern
+Celekium Battleaxe
+Celestite Battleaxe
+Celestium Axe
+Celestium Dust
+Celestium Hoe
+Celestium Ingot
+Celestium Multi Tool
+Celestium Pickaxe
+Celestium Shovel
+Celestium Sword
+Champions Sword
+Chaos Cannon
+Lucky Charm
+Charm of Vinestranding
+Charm of Waterbending
+Charred Blade
+Charred Bow
+Charred Knife
+Cherry Candy Cane
+Chest Key
+Chocolate Bar
+Cloud Buckler
+Cloudia Orb
+Cloudia Portal Gem
+Cloud Puff
+Cloud Slicer
+Clouds
+Cold Clump
+Collector Rock
+Competition Begins
+Concentrated Blood
+Conjuring Staff
+Cooked Bird Wing
+Gem of Peculiar Smelting
+Corba Piercer
+Corba Portal Gem
+Corba Stick
+Core Expender
+Core Mender
+Corveggies
+Corveggie
+Kracken Canes
+Kracken Cane Seeds
+Crake Bulb
+Crake Bulb Seeds
+Crystal Ball
+Crystal Blade
+Crystal Eye
+Crystal Flake
+Crystalized Battleaxe
+Crystalized Hammer
+Cursed Tome
+Dark Matter Gemstone
+Dark Crystal
+Dark Enforcer
+Dark Gem
+Dark Key
+Darkness Bow
+Dark Orb
+Dark Pine Sword
+Dark Terra Bow
+Dark Terrarian Soil
+Dawn Breaker
+Death Cap
+Death Piercer
+Deep Blue
+Demonic Skull
+Demonic Bomb
+Demonic Bone
+Demonic Dust
+Demonic Eye
+Wither Sword
+Depths Bow
+Depths Darksword
+Depths Flake
+Depths Key
+Depths Piercer
+Depths Portal Gem
+Depths Slayer
+Des Axe
+Des Hoe
+Des Ingot
+Des Multi Tool
+Des Pickaxe
+Des Shovel
+Des Sword
+Creative Sword
+Diamond Dust
+Diamond Multi Tool
+Dooms Bringer
+Dragons Tooth
+Earthen Crystal
+Earthen Hammer
+Elder Key
+Enchanted Leaf
+Enchanted Terrastar
+Enderillium Dust
+Enderillium Shard
+Essence Buckler
+Essence Catalyst
+Essence Shuriken
+Essence Arrow
+Euca Hopper Egg
+Incubated Euca Hopper Egg
+Euca Meat
+Euca Piercer
+Euca Portal Gem
+Euca Portal Piece
+Euca Portal Piece
+Euca Portal Piece
+Euca Tablet
+Valuable Crown
+Eye Blaster
+Fiery Stabber
+Fire Bomb
+Firefly
+Firestone Clump
+Fire Wand
+Flairium Axe
+Flairium Dust
+Flairium Hoe
+Flairium Ingot
+Flairium Multi Tool
+Flairium Pickaxe
+Flairium Shovel
+Flairium Sword
+Flame Bow
+Flame Coin
+Raw Flaming Beef
+Cooked Flaming Beef
+Flaming Bow
+Flaming Ghast Tentacale
+Flaming Hammer
+Flaming Hide
+Flaming Spring
+Flaming Sprocket
+Floro Pedal
+Floro Seeds
+Fluffy Blade
+Fluffy Bow
+Fluffy Feather
+Forest Plasma
+Freezing Tablet
+Fried Egg
+Fried Flaming Tentacale
+Fried Ghast Tentacale
+Frostbitten Bow
+Frostbitten Piercer
+Frostbitten Sword
+Frost Flake
+Frost Gem
+Frosty Bow
+Frosty Gift
+Frosty Piercer
+Frosty Sword
+Frozen Bow
+Frozen Iceball
+Frozen Piercer
+Fruity Candy Cane
+Fusion Bow
+Gate Keys
+Gate
+Ghast Tentacale
+Glacial Blade
+Glossy Eye
+Glowa
+Glowa Seeds
+Glowshroom
+Glowshroom Powder
+Gold Clump
+Gold Dust
+Golder Dust
+Gold Multi Tool
+Gold
+Golem Bow
+Golem Chunk
+Golem Sword
+Gorbite Axe
+Gorbite Dust
+Gorbite Gem
+Gorbite Hoe
+Gorbite Multi Tool
+Gorbite Pickaxe
+Gorbite Shovel
+Gorbite Sword
+Green Gem
+Green Honglowshroom
+Hammer of Creative Spellbinding
+Hateful Heart
+Healers Blade
+Heart Stone
+Heart Container
+Heart Container
+Heart of the Sentry
+Heart Container
+Heart Container
+Hellcrust Ingot
+Hell Shards
+Bloodcrust Axe
+Hellstone Clump
+hellstone Dust
+Bloodcrust Hoe
+Hellstone Ingot
+Bloodcrust Multi Tool
+Bloodcrust Pickaxe
+Bloodcrust Shovel
+Bloodcrust Sword
+Hell Turtle Shell
+Hoe of Earth Loving
+Hoe Of Eternal Life
+Honglowshroom
+Hongoshroom
+Horn
+Iceflake
+Ice Wand
+Iridium
+Iron Dust
+Iron Multi Tool
+Jelly Beans
+Journey Into the Light
+Juiceberry
+Kings Sword
+Korite Axe
+Korite Hoe
+Korite Ingot
+Korite Multi Tool
+Korite Pickaxe
+Korite Shovel
+Korite Sword
+Lament Deconstructor of Fire
+Lament Deconstructor of Heavan
+Lament Deconstructor of Decay
+Lament Deconstructor of Darkness
+Lament Deconstructor of Light
+Lament Deconstructor of Hell
+Lament Deconstructor of Death
+Lament Deconstructor of Life
+Lavender Bow
+Light Buckler
+Lightning Wand
+Light Terrarian Soil
+Enchanted Log
+Logger's Bow
+Loggers Sword
+Loot Pouch
+Loot Pouch
+Loot Pouch
+Lore Scroll
+Lost Soul
+Lunite Chunk
+Lunium Axe
+Lunium Clump
+Lunium Dust
+Lunium Hoe
+Lunium Ingot
+Lunium Multi Tool
+Lunium Pickaxe
+Lunium Shovel
+Lunium Sword
+Magic Bomb
+Magic Dust
+Magic Pot of Destruction
+Magic Thread of Tethering
+Mantle Bow
+Mekyum Axe
+Storon Hoe
+Mekyum Ingot
+Mekyum Multi Tool
+Mekyum Pickaxe
+Mekyum Shovel
+Mekyum Sword
+Mellium Crystal
+Metal Disk
+Mint Candy Cane
+Molten Knife
+Moon of Eternal Night
+Multi Tool of Eternal Smelting
+Mysterious Disk
+Natures Blade
+Nature Tablet
+Nether Beast Orb
+Netherbeast Sword
+Nether Plasma
+Nethic Obstructor
+Nethic Axe
+Nethic Hammer
+Nethic Pickaxe
+Nethic Piercer
+Nethic Shovel
+Golden Chicken
+Golden Fish
+Golden Mutton
+Golden Porkchop
+Golden Potato
+Golden Rabbit
+Golden Steak
+Golden Wing
+Obsidian Rod
+Ocean Plasma
+Golden Chicken
+Golden Fish
+Golden Mutton
+Golden Porkchop
+Golden Potato
+Golden Rabbit
+Golden Steak
+Golden Wing
+Orbadite Axe
+Orbadite Dust
+Orbadite Hoe
+Orbadite Ingot
+Orbadite Multi Tool
+Orbadite Pickaxe
+Orbadite Shovel
+Orbadite Sword
+Overgrown Bow
+Overgrown Hammer
+Overgrown Natureball
+Overgrown Staff
+Overseeing Eye
+Overseeing Tablet
+Overseer Bow
+Pedal Sword
+Peppermint
+Pet Food
+Pickaxe of Good Fortune
+Poison Bow
+Poison Sword
+Purple Gem
+Purple Powder
+Race to Shore
+Race Star
+Red Honglowshroom
+Reinforced Crystal Ingot
+Reinforced Crystal Sword
+Reinforced Stone Ingot
+Reinforced Stone Sword
+Ring of Clear Vision
+Ring of Strong Immunity
+Ring of Great Spelunking
+Ring of Good Health
+Ring of Safe Living
+Ring of Protected Movement
+Ring of Inverse Decay
+Robot Egg
+Incubated Robot Egg
+Roc Egg
+Incubated Roc Egg
+Essence Feather
+Rock Launcher
+Rocky Battleaxe
+Rocky Hammer
+Bird Wing
+Roc's Wing
+Roc Sword
+Royal Blade
+Royal Bow
+Royal Disk
+Royal Hammer
+Royal Stabber
+Sapphire Gem
+Sapphire Axe
+Sapphire Dust
+Sapphire Hoe
+Sapphire Multi Tool
+Sapphire Pickaxe
+Sapphire Shovel
+Sapphire Sword
+Scale
+Scale Bow
+Aquatic Egg
+Senterian Soul
+Sentient Pinion of Blood
+Sentient Pinion of Destruction
+Sentient Pinion of Light
+Sentrium Crystal
+Sentry Disk
+Sentry Key
+Sentry Node of Blood
+Sentry Node of Destruction
+Sentient Node of Light
+Sentry Observer
+Sentry Rock
+Sentry Eye
+Eye of the Sentry
+Sentry Sword
+Shadium Axe
+Shadium Clump
+Shadium Dust
+Shadium Hoe
+Shadium Ingot
+Shadium Multi Tool
+Shadium Pickaxe
+Shadium Shovel
+Shadium Sword
+Shimmer Dust
+Shiverwolf Egg
+Incubated Shiverwolf Egg
+Silver Clump
+Sizzleberry
+Sizzle
+Sizzler Sword
+Sizzling Eye
+Sizzling Knife
+Skull Of Decay
+Sky Piercer
+Slimeberry
+Slimun
+Slimy Pickaxe
+Slug Slime
+Smithstone
+Smithstone Dust
+Snake Flesh
+Snake Skin
+Snow Bells
+Snowsheet
+Snow Shoveler
+Soulstone
+Soulless Eye
+Spawner Bar
+Spawner Clump
+Spine Berries
+Spine Berry Seeds
+Spring Bow
+Spyclopse Eye
+Staff Base
+Staff of Crystal
+Staff of Divine Stone
+Staff Of Enlightenment
+Staff Of Greenpace
+Staff of Hellstone
+Stalactite
+Staring Bow
+Starlight Blade
+Starlight Bow
+Stone Clump
+Stone Multi Tool
+Stone Stick
+Storon Axe
+Storon Hoe
+Storon Ingot
+Storon Multi Tool
+Storon Pickaxe
+Storon Shovel
+Storon Sword
+Storum Battleaxe
+Strong Essence Potion
+Sunset Piercer
+Swamp Lily
+Sword of the Thunderbird
+Tangleberry
+Teleportation Staff
+Tempest Battleaxe
+Terra Buckler
+Terralight Blade
+Terralight Bow
+Terrana Sword
+Terrania Portal Gem
+Terrashroom
+Terrastar
+Terrian Bow
+Terrolica Sword
+Terronic Blade
+Test Bug
+The Wraith
+Thunderbird Battleaxe
+Leader's Pearl
+Thunder Blade
+Tomato
+Tomato Seeds
+Totem of Impeccable Strength
+Tree Hugger
+Underwater World
+untitled_disc
+Vanilla Wafer
+Vinestrand Blade
+Volcanic Stone
+Volite Sword
+Wand Base
+Wasteful Bow
+Weak Essence Potion
+Withering Soul
+Witheringbeast Sword
+Withic Obstructor
+Withic Blade
+Withic Dust
+Withic Hammer
+Withic Soul
+Withic Spine
+Wizards Star
+Woodland Bow
+Wooden Multi Tool
+Experience Catalyst
+Yellow Gem
+Zat Pedal
+Zat Seeds
+Blazehorn Helmet
+Blazehorn Chestplate
+Blazehorn Leggings
+Blazehorn Boots
+Bleedrock Helmet
+Bleedrock Chestplate
+Bleedrock Leggings
+Bleedrock Boots
+Bloodcrust Helmet
+Bloodcrust Chestplate
+Bloodcrust Leggings
+Bloodcrust Boots
+Bronzed Helmet
+Bronzed Chestplate
+Bronzed Leggings
+Bronzed Boots
+Celestium Helmet
+Celestium Chestplate
+Celestium Leggings
+Celestium Boots
+Char Skull Helmet
+Char Skull Chestplate
+Char Skull Leggings
+Char Skull Boots
+Corbark Helmet
+Corbark Chestplate
+Corbark Leggings
+Corbark Boots
+Crystal Flake Helmet
+Crystal Flake Chestplate
+Crystal Flake Leggings
+Crystal Flake Boots
+Darkly Helmet
+Darkly Chestplate
+Darkly Leggings
+Darkly Boots
+Depths Helmet
+Depths Chestplate
+Depths Leggings
+Depths Boots
+Enlightener Helmet
+Enlightener Chestplate
+Enlightener Leggings
+Enlightener Boots
+Firebound Helmet
+Firebound Chestplate
+Firebound Leggings
+Firebound Boots
+Flairium Helmet
+Flairium Chestplate
+Flairium Leggings
+Flairium Boots
+Flame Helmet
+Flame Chestplate
+Flame Leggings
+Flame Boots
+Frostbitten Helmet
+Frostbitten Chestplate
+Frostbitten Leggings
+Frostbitten Boots
+Goldite Helmet
+Goldite Chestplate
+Goldite Leggings
+Goldite Boots
+Gorbite Helmet
+Gorbite Chestplate
+Gorbite Leggings
+Gorbite Boots
+Mask of Hellmetal
+Hellstone Helmet
+Hellstone Chestplate
+Hellstone Leggings
+Hellstone Boots
+Hollow Helmet
+Hollow Chestplate
+Hollow Leggings
+Hollow Boots
+Leapers Helmet
+Leapers Chestplate
+Leapers Leggings
+Leapers Boots
+Lightstone Helmet
+Lightstone Chestplate
+Lightstone Leggings
+Lightstone Boots
+Livegreen Helmet
+Livegreen Chestplate
+Livegreen Leggings
+Livegreen Boots
+Lunium Helmet
+Lunium Chestplate
+Lunium Leggings
+Lunium Boots
+Orbadite Helmet
+Orbadite Chestplate
+Orbadite Leggings
+Orbadite Boots
+Sapphire Helmet
+Sapphire Chestplate
+Sapphire Leggings
+Sapphire Boots
+Shadium Helmet
+Shadium Chestplate
+Shadium Leggings
+Shadium Boots
+Snakeskin Helmet
+Snakeskin Chestplate
+Snakeskin Leggings
+Snakeskin Boots
+Starlight Helmet
+Starlight Chestplate
+Starlight Leggings
+Starlight Boots
+Tree Huggers Helmet
+Tree Huggers Chestplate
+Tree Huggers Leggings
+Tree Huggers Boots
+Twilight Helmet
+Twilight Chestplate
+Twilight Leggings
+Twilight Boots
+Alloy Mender
+Arana King
+Nether Beast
+Big Hongo
+Blacksmith
+Blazier
+Blizzard
+Blue Honglow
+Boil Trader
+Boom Boom
+Burning Light
+Calcia
+Caveling
+Cave Mage
+Cavurn
+Cloud Flower
+Cloud Ghost
+Corallator
+Crystal Cluster
+Darkener
+Darkness Crawler0
+Dark Sorcerer
+Deapths Beast
+Deapther Hunter
+Dunewerm
+Dynaster
+Ender Crawler
+Ender Leaper
+Escaped Convict
+Euca Charger
+Euca Hopper
+Eudor
+Fire Mage
+Flame Lotus
+Floro
+Fourfa
+Frightener
+Frozen Frost Biter
+Frozen Merchant
+Frozen Troll
+Gold Bot
+Golder
+Goldite Mage
+Green Honglow
+Guardian of Destruction
+Hellbot
+Hell Cow
+Hell Turtle
+Hellwing
+Ice Golem
+Ice Mage
+Ice Man
+Inferno Blaze
+Jungle Golem
+Jungle Spider
+Jungle Turtle
+Lava Snake
+Leaf Blower
+Lightener
+Logger
+Mage
+Magma Blaze
+Medium Hongo
+Mini-Ghast
+Mini Sentry Lord
+Mini Sentry Stalker
+Mini Sentry Walker
+Nature Mage
+Observer
+Overgrown Merchant
+Overseer
+Overseer Elder
+Permafraust
+Pet Robot
+Purplian
+Reaper
+Red Honglow
+Red Tordo
+Robot
+Rockite Golem
+Rockite Smasher
+Sand Crawler
+Scale
+Screamer
+Sentry Block
+Sentry Heart
+Sentry King
+Sentry Lord
+Sentry Stalker
+Sentry Walker
+Shatterer
+Shimmerer
+Shivering Bushwalker
+Sjoveromg Shrieker
+Shiver Wolf
+Silver Bot
+Sky Eel
+Sky Stalker
+Small Hongo
+Soul Watcher
+Spectre
+Spiked Beast
+Spyclopse
+Staring Guardian
+Starlight Blacksmith
+Starlight Golem
+Starlight Transporter
+Starlight Villager
+Starlight Walker
+Stone Walker
+Surface Seer
+Swamp Fly
+Roc
+Temple Guardian
+Terragrow
+Terralight
+Terranian Enchanter
+Terraian Protector
+Terranian Trader
+Terra Scatterer
+Terrashroom
+Purple Slug
+The Hooded
+Thunderbird
+Tordo
+Tree Golem
+Turducken
+Withering Beast
+Witherspine
+Wood Creature
+Wraith

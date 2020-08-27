@@ -1,0 +1,221 @@
+Yz Ceti
+Wolf 1061
+Trappist 1
+Kepler 1649
+Yz Ceti A
+Trappist 1 A
+Wolf 1061 A
+Kepler 1649 A
+Yz Ceti B
+Yz Ceti C
+Yz Ceti D
+Wolf 1061 B
+Wolf 1061 C
+Wolf 1061 D
+Trappist 1 B
+Trappist 1 C
+Trappist 1 D
+Trappist 1 E
+Trappist 1 F
+Trappist 1 G
+Trappist 1 H
+Kepler 1649b
+Kepler 1649c
+§eWormhole
+§cBy Continuing you agree on the terms that you will
+§cnot distribute this development build unless prior
+§cpermissions are granted by the mod developer§r
+§bThe Current ExoPlanets version Is in Early Beta!§r
+This means that there may be things in the mod that do not work as intended.
+This is either by deisgn as it may not be finished and/or optimized.
+If there are any bugs that are found with compatibility please visit my discord.
+and report the issue.
+§e(To disable this from appearing, set §6B:warnOnBetaBuild§r§e to false in §bcore.cfg§r§e file in configs)§r
+Discord Invite
+There was a problem while trying to open Discord Invite Link
+Exoplanets Settings
+Core Settings
+Exoplanets Dimension ID's
+Solar Systems Settings
+Solar System Tier Requirements
+Solar System Map Positions
+Yz Ceti Tier
+Wolf 1061 Tier
+Trappist 1 System Tier
+Disable Yz Ceti System
+Disable Wolf 1061 System
+Disable Trappist 1 System
+Disable Kepler 1649 System
+Hide / Disable Unfinished Systems
+Yz Ceti System Coords
+Wolf 1061 System Coords
+Trappist 1 System Coords
+Kepler 1649 System Coords
+Yz Ceti B
+Yz Ceti C
+Yz Ceti D
+Wolf 1061 B
+Wolf 1061 C
+Wolf 1061 D
+Trappist 1 B
+Trappist 1 C
+Trappist 1 D
+Trappist 1 E
+Trappist 1 F
+Trappist 1 G
+Trappist 1 H
+Kepler 1649 B
+Kepler 1649 C
+Check Version
+Overworld Ores
+Realism Mode
+Warn on Beta Build
+
+§6Exo Decoration§r
+§aExo Terrain§r
+§eExo Items§r
+Communication Relay
+RAID Cluster
+RAID Controller
+Lower RAID Controller
+Electronic Panel
+Data Monitor
+Grating
+Stipe Brating
+Satellite Antenna
+Console Stand
+Floor Grating
+(§eYz Ceti B§r) Loose Sediment
+(§eYz Ceti B§r) Loose Sediment 2
+(§eYz Ceti B§r) Gravel
+(§eYz Ceti B§r) Igneous Rock
+(§eYz Ceti B§r) Metamorphic Rock
+(§eYz Ceti B§r) Sedimentary Rock
+(§6Yz Ceti C§r) Loose Sediment
+(§6Yz Ceti C§r) Loose Sediment 2
+(§6Yz Ceti C§r) Gravel
+(§6Yz Ceti C§r) Igneous Rock
+(§6Yz Ceti C§r) Metamorphic Rock
+(§6Yz Ceti C§r) Sedimentary Rock
+(§bYz Ceti D§r) Loose Sediment
+(§bYz Ceti D§r) Loose Sediment 2
+(§bYz Ceti D§r) Gravel
+(§bYz Ceti D§r) Igneous Rock
+(§bYz Ceti D§r) Metamorphic Rock
+(§bYz Ceti D§r) Sedimentary Rock
+(§9Trappist1 1c§r) Surface Rock
+(§aTrappist1 1e§r)
+(§aTrappist1 1e§r) Dirt
+(§aTrappist1 1e§r) Strange Grass
+(§aTrappist1 1e§r) Planetary Stone
+(§9Trappist1 1c§r) Dirt
+(§9Trappist1 1c§r) Dirt
+§cVolcanic Cooled Chunk
+§cVolcanic Molten Chunk
+§cVolcanic Ash Surface
+Hydralic Bottom Support
+Hydralic Middle Beam
+Hydralic Top Support
+Slanted Horizontal Block
+Slanted Roof
+Lever Door Controller
+Button Door Controller
+Gui Door Controller
+Alarm Lamp
+Alarm Lamp
+Wall Light
+Wall Light
+MetalBlock Lamp
+Meta Lamp Block
+Cellar Lamp
+Cellar Lamp
+Inset Lamp
+Inset Lamp
+Bronze Block
+Brass Block
+Steel Block
+2219-Aluminum Block
+Copper Ore
+Tin Ore
+Lead Ore
+Nickel Ore
+Platinum Ore
+Aluminium Ore
+Titanium Ore
+Tungsten Ore
+Silver Ore
+Zinc Ore
+Copper Block
+Tin Block
+Lead Block
+Nickel Block
+Platinum Block
+Aluminium Block
+Titanium Block
+Tungsten Block
+Silver Block
+Zinc Block
+Alloy Refinery
+Metal Furnace
+Bronze Alloy Dust
+Brass Alloy Dust
+Steel Alloy Dust
+2219-Aluminum Alloy Dust
+Bronze Alloy Ingot
+Brass Alloy Ingot
+Steel Alloy Ingot
+2219-Aluminum Alloy Ingot
+Copper Dust
+Tin Dust
+Lead Dust
+Nickel Dust
+Platinum Dust
+Aluminium Dust
+Titanium Dust
+Tungsten Dust
+Silver Dust
+Zinc Dust
+Copper Ingot
+Tin Ingot
+Lead Ingot
+Nickel Ingot
+Platinum Ingot
+Aluminium Ingot
+Titanium Ingot
+Tungsten Ingot
+Silver Ingot
+Zinc Ingot
+Copper Sheet
+Tin Sheet
+Lead Sheet
+Nickel Sheet
+Platinum Sheet
+Aluminium Sheet
+Titanium Sheet
+Tungsten Sheet
+Silver Sheet
+Zinc Sheet
+Copper Gear
+Tin Gear
+Lead Gear
+Nickel Gear
+Platinum Gear
+Aluminium Gear
+Titanium Gear
+Tungsten Gear
+Silver Gear
+Zinc Gear
+Bronze Alloy Sheet
+Brass Alloy Sheet
+Steel Alloy Sheet
+2219-Aluminum Alloy Sheet
+Bronze Alloy Gear
+Brass Alloy Gear
+Steel Alloy Gear
+2219-Aluminum Alloy Sheet
+EXO1 Planetary Rocket
+Molten Mantle
+Molten Mantle
+Alloy Refinery (Exoplanets)
+Ores cook more slowly and with more fuel, but will produce dust in addition to the usual ingot.
+WIP

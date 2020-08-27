@@ -1,0 +1,42 @@
+Site-78 Logo
+Purple Office Bottom
+Purple Office Line
+Purple Office Top
+Blue Office Bottom
+Blue Office Line
+Blue Office Top
+Grey Office Bottom
+Grey Office Line
+Grey Office Top
+Light Blue Office Top
+Light Blue Office Line
+Light Blue Office Bottom
+Red Office Top
+Red Office Line
+Red Office Bottom
+Black Office Top
+Black Office Line
+Black Office Bottom
+Yellow Office Top
+Yellow Office Line
+Yellow Office Bottom
+Green Office Top
+Green Office Line
+Green Office Bottom
+Dark Green Office Top
+Dark Green Office Line
+Dark Green Office Bottom
+Orange Office Top
+Orange Office Line
+Orange Office Bottom
+Tesla Block
+Tesla Frame Top No Line
+Tesla Frame Top Line
+Tesla Frame Middle No Line
+Tesla Frame Middle Line
+Tesla Frame Bottom No Line
+Tesla Frame Bottom Line
+Flat Light
+Flat Light On
+%1$s had a Shocking experience
+Site-78

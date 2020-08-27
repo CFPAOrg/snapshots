@@ -1,0 +1,4328 @@
+/timetfc <add|query|set> [args...]
+Expected <add|query|set> after /timetfc
+Expected [daytime|day|gametime|playerticks|calendarticks] after /timetfc query
+Expected [<ticks>|day|night|monthlength <value>] after /timetfc set
+Expected [days|months|years] <value> after /timetfc add
+Set Month Length to %d days.
+Time set to the next daylight
+Time set to the next nighttime
+Day time set to %d
+Added %d days to time (%d ticks)
+Added %d months to time (%d ticks)
+Added %d years to time (%d ticks)
+Added %d ticks to time
+Calendar ticks is %d
+Player ticks is %d
+Game time is %d ticks
+Current day is %d
+Current day time is %d
+Set Player Time to %d.
+Set Calendar Time to %s.
+This command has been disabled by TFC. Use /timetfc instead!
+/playertfc <get|set|add|reset> [nutrition|food|saturation|water|skill <name>] [value]
+Expected <get|set|add|reset> after /playertfc
+Expected [nutrition|food|saturation|water|skill <name>] after /playertfc %s
+Expected <name> after /playertfc %s
+Expected [value] after /playertfc %s
+Can't set / add nutrients directly as it's based on food history. Run /playertfc reset nutrients instead.
+Unknown skill: %s
+Must be used by a player
+Reset nutrients
+Average Nutrition: %s
+ - %s: %s
+Last Eaten: %d Hunger, %s Saturation, %s Decay Modifier.
+ - %s: %s
+Added %.2f to skill %s
+Set %s to %.2f
+Hunger: %d
+Set hunger to %d
+Saturation: %.2f
+Set saturation to %.2f
+Water: %.1f%%
+Set water to %.1f%%
+/findveins [all|<vein name>] <radius> [dump|rate]
+Can only be used by a player.
+No Vein found with name %s
+Dumping all veins in specified radius, this is gonna take a while...
+Dumping vein rates in specified radius, this is gonna take a while...
+Failed to load dimension %d
+Chunks Remaining: %d / %d
+Found vein %s at %s
+File saved at %s
+Error while trying to write dump file: %s
+/tfcdebuginfodump - write a lot of debug info to the log... like, A LOT. Don't use unless a dev asks you to.
+/maketree [wood] -> Grows a tree of the type specified.
+Missing Wood argument! /maketree [wood]
+Tree type %s not found!
+Conditions not met to make tree here!
+/heat <amount> -> sets the itemheat to amount.
+Missing amount argument! /heat <amount>
+The item in your mainhand does not have the item heat capability!
+Can only be used by a player.
+/stripworld <radiusInBlocks> -> [DANGER] Strips all stone variant blocks + water.
+Missing radius! /stripworld <radiusInBlocks>
+Done!
+Will decay in about %s day(s)!
+§fTool Class:§7 %s
+§fTool Classes:
+§fOre Dictionary name:§7 %s
+§fOre Dictionary names:
+§fMetal:§7 %s
+%d units
+%d / %d units
+§6%d total units
+%d units / §6%d total
+Smelt in %s
+ - Liquid
+ - Solid
+Empty
+Contains %1$d mB of %2$s
+%d mB
+Contains %1$dx %2$s
+ and %1$dx %2$s
+Contains %1$dx %2$s
+Empty
+Empty
+%1$dx %2$s
+Can Weld
+Can Work
+Danger!!
+Plans
+This Anvil is too low tier!
+There is no flux in the anvil!
+The item(s) are not hot enough to work!
+The item(s) can't be welded!
+There is no hammer in the anvil!
+That would destroy the input!
+Result:
+Seal Barrel
+Unseal Barrel
+Cooling
+Calendar
+Season : %s
+Day : %s
+Date : %s
+%s %s %02d, %04d
+PT: %d | CT: %d
+Expires on: %s
+Rotten - I wouldn't eat that.
+Never Expires
+Nutrition:
+ - Saturation: %s%%
+ - Water: %s%%
+ - %s: %s
+Hold (Shift) for Nutrition Info
+%sToo cold%s
+%sToo dry%s
+%sToo hot%s
+Rainfall:
+Temperature:
+%sGood%s
+%sToo wet%s
+Ore
+Fuel
+Melt
+Invalid Structure!
+Seal Large Vessel
+Unseal Large Vessel
+Seal Powderkeg
+Unseal Powderkeg
+This area seems to be overworked. You probably wouldn't find much.
+Skill Bonus: %0.1f%%
+Contains %1$d mB of %2$s
+< 1 unit
+Previous Page
+Next Page
+Empty
+Add Ingredients
+Boiling
+Servings: %d
+Fertilized
+Will hatch in %d days
+Will hatch today!
+This %s is too old to mate.
+This %s has low familiarity to mate.
+This %s is pregnant!
+This %s is resting from today's mating.
+This %s is too old.
+This %s is too young.
+This %s has low familiarity.
+This is a male!
+This is a male!
+This %s wool has not grown up yet.
+This %s is not ready to be milked.
+This %s is not ready to lay eggs.
+Found %s
+Found traces of %s
+Found a small sample of %s
+Found a medium sample of %s
+Found a large sample of %s
+Found a very large sample of %s
+Found nothing of interest.
+Spawn point set.
+This bed is too uncomfortable to sleep.
+Smoked
+Brined
+Brining
+Salted
+Pickled
+Preserved
+Vinegar preserved
+Charcoal Grilled
+Wood Grilled
+Pickling
+Brining
+Preserving in vinegar
+Prospecting: %s
+Smithing: %s
+Agriculture: %s
+Butchering: %s
+Novice
+Adept
+Expert
+Master
+Crafting GUI
+Place Item Holder Block
+Change Item Mode
+Stack food
+Spawn Fuzzing Radius
+Flat Bedrock
+Ravine Rarity
+Ravine Height
+Ravine Variability
+Surface Ravine Rarity
+Surface Ravine Height
+Surface Ravine Variability
+River Ravine Rarity
+General Settings
+TerraFirmaCraft general mod configuration and compatibility
+Debug Settings
+Enable
+Activates some extra wand features. Enables extra item tooltips.
+Debug Worldgen (DANGER)
+Debug worldgen [DANGER] Your world will be affected! Do not use on your proper world files!
+Debug Worldgen (safe)
+Debug worldgen [safe] This will print out debug into duing world gen and create some image mapsp, does not affect the world.
+Override Settings
+Various override settings, some for compatibility
+Enable Ingot Piles
+Enable ingot pile placement in world.
+Enable Log Piles
+Enable log pile placement in world.
+Enable Thatch Bed
+Enable the creation of thatch beds.
+Enable Grass Path
+Enable the creation of grass paths.
+Enable Stone Anvil
+Enable the creation of stone anvils.
+Enable Torch Override
+Turn this off if you have conflicts with other mods.
+Torch Burnout Time
+Enable TFC Lava/Water Mixing
+Overrides lava and water making vanilla stones to TFC variants.
+Default level-type Override
+If true, TFC will try and force the `level-type` setting to `tfc_classic` during DedicatedServer startup or define it as default world type for clients.
+Force Default Ore Gen File
+If true, TFC will override default ore gen file. Pack Makers: Disable this to keep your ore gen file from being reset to default.
+Remove Vanilla Recipes
+Remove Vanilla Loots
+Force No Vanilla Natural Regeneration
+If true, this will force the gamerule naturalRegeneration to be false. Note: this DOES NOT AFFECT TFC's natural regeneration. If you set naturalRegeneration to true, then you will have both TFC regeneration and normal vanilla regeneration (which is much faster).
+Force Replace Vanilla Animals
+If true, this will replace vanilla animals with the TFC counterpart under any spawning circumstances (ie: mob spawner, etc).
+Fallable settings
+Fallable blocks configuration
+Enable Fallable Blocks
+If false, fallable blocks (ie: dirt, stone) will never fall.
+Falling Blocks Destroy Ores
+If false, fallable blocks (ie: dirt, stone) will never destroy ore blocks.
+Falling Blocks Destroy Items
+If false, fallable blocks (ie: dirt, stone) will never destroy loose items.
+Falling Blocks Hurt Entities
+If false, fallable blocks (ie: dirt, stone) will never hurt entities.
+Rock Collapse Chance
+Chance that mining a raw rock triggers a collapse.
+Propagate Collapse Chance
+Chance that collapsing blocks propagate the collapse. Influenced by distance from epicenter of collapse.
+Horizontal Support Range
+The horizontal radius of the support range of support beams.
+Upwards Support Range
+The upwards range support range of support beams.
+Downwards Support Range
+The downwards support range of support beams.
+Chiseling Causes Collapses
+Should chiseling raw stone blocks cause collapses?
+Explosion Causes Collapses
+Should exploding raw stone blocks cause collapses?
+Difficulty Settings
+Animal Respawn Count
+This controls how many animals (any kind) are loaded (by respawn) / player. Higher values means more animals near a player, which in turn raises difficulty and meat abundance (caution, a value too high can also negatively impact performance).
+Mob Respawn Count
+This controls how many mobs are loaded(by respawn) / player. Higher values means more mobs near a player, which in turn raises difficulty (caution, a value too high may also negatively impact performance).
+Prevent Mobs On Surface
+Prevent mob spawning on surface?
+Give Vanilla Mobs Equipment
+Give wrought iron weapons and armor to vanilla mobs?
+Tree Settings
+Enable / Disable TerraFirmaCraft Tree Mechanics
+Enable Felling
+Enable trees being fully cut by axes. Disable it if you want other mods to handle tree felling.
+Enable Hammering for Sticks
+Enable smacking logs with a hammer giving sticks.
+Requires Axe
+Should logs require tools (axes and saws, or hammers for sticks) to be cut? If false, breaking logs with an empty hand will not drop logs.
+Enable Saplings
+If false, leaves will not drop saplings.
+Stone Axe Log Return Rate
+Chance per log for an item to drop when using a stone axe.
+Leaf Stick Drop Chance
+Normal leaf drop chance for sticks
+Bonus Leaf Stick Drop Chance
+Chance that leaves will drop more sticks when harvested with configured tool classes.
+Leaf Stick Drop Chance Tool Classes
+Tool classes that have the configured bonus to drop more sticks when harvesting leaves.
+Spawn Protection Settings
+Prevent Hostile Mobs
+Should living in a chunk prevent hostile mob spawning over time?
+Prevent Predators
+Should living in a chunk prevent predators spawning over time?
+Minimum Y Level for Mobs
+The min Y value a spawn has to be for spawn protection to prevent mobs. Anything below it will not be prevented.
+Maximum Y Level for Mobs
+The max Y value a spawn has to be for spawn protection to prevent mobs. Anything above it will not be prevented.
+Minimum Y Level for Predators
+The min Y value a spawn has to be for spawn protection to prevent predators. Anything below it will not be prevented.
+Maximum Y Level for Predators
+The max Y value a spawn has to be for spawn protection to prevent predators. Anything above it will not be prevented.
+Damage Type Settings
+Slashing Damage Sources
+Damage Source Types that will default to Slashing damage.
+Piercing Damage Sources
+Damage Source Types that will default to Piercing damage.
+Crushing Damage Sources
+Damage Source Types that will default to Crushing damage.
+Slashing Damage Entities
+Damage Source Entities that will default to Slashing damage.
+Piercing Damage Entities
+Damage Source Entities that will default to Piercing damage.
+Crushing Damage Entities
+Damage Source Entities that will default to Crushing damage.
+Player Settings
+Inventory Crafting Table
+Enable a 3x3 crafting inventory via key binding.
+Player Minimum Health Modifier
+Player Maximum Health Modifier
+Player Thirst Decay
+Player Natural Regeneration Modifier
+Peaceful Difficulty Passive Stats Regen
+Should the player receive passive regeneration of health, food, and thirst, while in peaceful mode similar to vanilla?
+Hunger Passive Exhaustion Modifier
+Nutrition Rotation Hunger Window
+The amount of replenished hunger before the player's nutrition will lose the first food consumed. Most TFC foods have 4 hunger. Example: Multiply Vanilla hunger(20) by 4 to get one food bar worth of food before the first food is lost from the cycle.
+Drink Delay
+Delay (in ticks) for drinking water by hand
+Thirst debuff chance on salty drink
+Chance that a salty drink apply a thirst effect.
+Quiver Search Locations
+Which inventory slots will ammo refill/pickup search for quivers?
+World Gen Settings
+Various aspects of world generation
+Hemisphere Type
+Temperature Mode
+This controls how temperature is affected by how far from equator you are.
+Latitude Temperature Modifier
+If Cyclic, this controls the length (in blocks) of the temperature regions. The temperature values change in a wave-like pattern (sine wave). Wandering straight in a direction increases or decreases temperature. When you travel this many blocks, the temperature begins changing in the other direction.
+Clay Deposity Rarity
+The rarity for clay pits to occur. On average 1 / N chunks will have a clay deposit, if the chunk in question is valid for clay to spawn.
+Clay Rainfall Threshold
+The minimum rainfall in an area required for clay to spawn. By default this is the same threshold as dry grass.
+Loose Rocks Frequency
+The number of attempts per chunk to spawn loose rocks. Includes surface ore samples.
+Stick Density Modifier
+This controls the number of sticks generated on chunk generation. The number of trees in the area and flora density is also a factor in this.
+Loose Rocks Vein Scan
+Rainfall Spread Factor
+This controls how spread the rainfall distribution is. Higher values means the world will be distributed towards the extremes more, making more deserts and rain forests. WARNING: This can cause very weird world generation conditions.
+Flora Diversity Spread Factor
+This controls how spread the flora diversity distribution is. Higher values means the world will be distributed towards the extremes more, making forests have much more different kinds of trees. WARNING: This can cause very weird world generation conditions.
+Flora Density Spread Factor
+This controls how spread the flora density distribution is. Higher values means the world will be distributed towards the extremes more, making more dense forest pockets. WARNING: This can cause very weird world generation conditions.
+Respawnable Creatures
+This controls which registered entities can respawn in TFC biomes. You must specify by following the pattern 'modid:entity <rarity> <minGroupSpawn> <maxGroupSpawn>'. Invalid entries will be ignored.
+World Regen Settings
+Min Time
+The minimum time for a chunk to be unoccupied for it's resources (berry bushes, debris and crops) to naturally regenerate. (In days). After this amount, regeneration will scale up based on how long since this duration, up to a maximum of 4x.
+Debris Modifier
+The weight for loose rocks and sticks regeneration in the world.
+Food Settings
+Settings for various aspects of food, from decay to abundance.
+Decay Modifier
+Decay Stack Time
+The number of hours to which initial food decay will be synced. When a food item is dropped, it's initial expiration date will be rounded to the closest multiple of this (in hours).
+Enable Crop Death
+If false, crops will never die under any circumstances.
+Wild Crops Rarity
+Berry Bush Rarity
+Fruit Tree Rarity
+Crop Growth Time Modifier
+Modifier for how long crops take to grow.
+Berry Bush Time Modifier
+Modifier for how long berry bushes take to grow fruits.
+Fruit Tree Time Modifier
+Modifier for how long fruit trees take to grow trunks / leaves / fruits.
+Misc Settings
+Settings for various miscellaneous things.
+Default Month Length
+The default length of a month (in days) when a new world is started. This can be changed in existing worlds via the /timetfc command.
+Plant Growth Rate
+Leaf Movement Modifier
+Berry Bush Movement Modifier
+Snow Movement Modifier
+Minimum Plant Movement Modifier
+Stone Gem Drop Chance
+Chance that mining a raw stone will drop a gem. Gem grade is random from: 16/31 Chipped, 8/31 Flawed, 4/31 Normal, 2/31 Flawless and 1/31 Exquisite.
+Firestarter Success Chance
+Chance for the fire starter to be successful
+Nugget Metal Amount
+The amount of metal contained in a small ore / nugget.
+Poor Ore Metal Amount
+The amount of metal contained in a poor ore.
+Normal Ore Metal Amount
+The amount of metal contained in a normal ore.
+Rich Ore Metal Amount
+The amount of metal contained in a rich ore.
+Iron Ore Dictionary in Wrought Iron
+Add iron ore dictionary (ie: ingotIron, oreIron) to wrought iron items?
+Plate Ore Dictionary in Sheets
+Add plate ore dictionary (plateIron, plateBronze) to sheets?
+Wooden Bucket Fluid Whitelist
+Allowed fluids to be picked up by the wooden bucket.
+Blue Steel Bucket Whitelist
+List of fluids allowed to be picked up by blue steel bucket
+Red Steel Bucket Whitelist
+List of fluids allowed to be picked up by red steel bucket
+Pluckable Entities
+Entities that drop a feather when shift right clicked.
+Pluckable Entities Damage Per Feather
+How much damage is done to an entity when a feather is plucked.
+Rock Mining Time Modifier
+Log Mining Time Modifier
+Device Settings
+Various configuration settings for devices (ie: Bloomery, Small Vessel, Barrel)
+Temperature Settings
+Global Temperature Modifier
+Heating Temperature Modifier
+Barrel
+Tank Storage
+How much fluid (mB) can a barrel hold?
+Fluid Whitelist
+List of fluids allowed to be inserted into a barrel.
+Blast Furnace
+Consumption
+Bloomery
+Ticks
+Crucible
+Tank Storage
+How much metal (units / mB) can a crucible hold?
+Accept Pouring from All Slots
+Let crucibles accept pouring metal (from small vessels / molds) from all 9 input slots at the same time.
+Pouring Speed
+How fast should crucibles accept fluids from molds / small vessel?
+Charcoal Pit
+Ticks
+Charcoal Forge
+Rain drop burning ticks removal
+Number of burning ticks that is removed when the charcoal forge is on rain (random ticks). This effectively makes the charcoal forge consumes more fuel when it is raining above it.
+Fire Pit
+Ticks
+Rain drop burning ticks removal
+Number of burning ticks that is removed when the fire pit is on rain (random ticks). This effectively makes the fire pit consumes more fuel when it is raining above it.
+Pit Kiln
+Ticks
+Lamp
+Tank Storage
+How much fuel (mB) can a metal lamps hold?
+Burn Rate
+Accepted Fuels
+Which fluids are valid fuels for lamps?
+Chisel
+Has Delay
+Does the chisel have a delay on use?
+Hammer in Offhand
+If true, hammer must be in offhand for chisel use. If false, hammer can be in offhand or toolbar.
+Small Vessel
+Tank Storage
+How much metal (units / mB) can a small vessel hold?
+Sluice
+Tank Storage
+Tank Storage
+The radius sluice works, in chunks.
+Ticks
+The amount of ticks a sluice uses to work.
+Ore Chance
+Chance that a sluice operation produce small ore.
+Gem Chance
+Chance that a sluice operation produce gems.
+Diamond Chance
+Chance that a diamond is dropped when sluice produce gems.
+Client Settings
+Tooltip Settings
+Show Item Tool Class Tooltip
+Show ItemStack tool classes when advanced tooltips are enabled. (F3+H)
+Show Item Ore Dictionary Tooltip
+Show ItemStack OreDictionary matches when advanced tooltips are enabled. (F3+H)
+Show Item NBT Tooltip
+Show ItemStack NBT on the tooltip when advanced tooltips are enabled. (F3+H)
+Prospectors Pick Output to Actionbar
+Should the prospectors pick output to the actionbar? (the space just above the hotbar)
+Ore Tooltip Mode
+Mode used on ore tooltips.
+Specific Decay Tooltip Mode
+Mode used on decay tooltips.
+Time Tooltip Info Mode
+Mode used on time tooltips.
+Display Settings
+Health Display Format
+Use Vanilla Health Bar
+Disable TFC health bar and use vanilla instead?
+Use Vanilla Hunger Bar
+Disable TFC hunger bar and use vanilla instead?
+Hide Thirst Bar
+Hide the thirst bar?
+Rotten Food Overlay Color
+Animals Settings
+Various animals configuration like gestation periods, number of children and spawn rarity.
+Alpaca
+Sheep
+Cow
+Goat
+Chicken
+Duck
+Pig
+Camel
+Llama
+Horse
+Donkey
+Mule
+Ocelot
+Wolf
+Bear
+Polar Bear
+Lion
+Panther
+Saber Tooth
+Hyena
+Deer
+Parrot
+Pheasant
+Rabbit
+Adulthood
+How many days until this animal is a full grown adult?
+Elderly
+Gestation
+How many days until this animal gives birth?
+Hatch
+How many days it is needed for this animal finish hatching?
+Babies per Gestation
+How many babies are born when this animal gives birth?
+Wool Ticks Cooldown
+How many ticks are needed for this animal grow back wool?
+Milk Ticks Cooldown
+How many ticks it is needed for this animal give milk?
+Egg Laying Ticks Cooldown
+How many ticks it is needed for this animal to lay eggs?
+Old Death Chance
+Chunk Generation Spawn Rarity
+Hunted Entities
+This controls which registered entities are hunted by this animals (unless tamed), in priority order. You must specify by 'modid:entity'. Invalid entries will be ignored.
+Food List
+This controls which items are considered food for this animal. You must specify by 'ore:tag' or 'modid:item [meta]'. Invalid entries will be ignored.
+Accept Rotten Foods
+Does this animal eat rotten foods?
+TFC Misc
+TFC Rock & Soil Blocks
+TFC Rock Items
+TFC Wood
+TFC Decorations
+TFC Pottery
+TFC Metal
+TFC Gems
+TFC Foodstuffs
+TFC Plants
+Green Dye
+Red Dye
+Yellow Dye
+Blue Dye
+Black Dye
+Brown Dye
+White Dye
+TFC Classic
+Unknown Alloy
+Bismuth
+Bismuth Bronze
+Black Bronze
+Brass
+Bronze
+Copper
+Gold
+Lead
+Nickel
+Rose Gold
+Silver
+Tin
+Zinc
+Sterling Silver
+Wrought Iron
+Pig Iron
+Steel
+Platinum
+Black Steel
+Blue Steel
+Red Steel
+Weak Steel
+Black Weak Steel
+Blue Weak Steel
+Red Weak Steel
+High Carbon Steel
+Black High Carbon Steel
+Blue High Carbon Steel
+Red High Carbon Steel
+Sedimentary
+Metamorphic
+Igneous Intrusive
+Igneous Extrusive
+Tier 0
+Tier I
+Tier II
+Tier III
+Tier IV
+Tier V
+Tier VI
+Tiny
+Very Small
+Small
+Normal
+Large
+Very Large
+Huge
+Very Light
+Light
+Medium
+Heavy
+Very Heavy
+Warming
+Hot
+Very Hot
+Faint Red
+Dark Red
+Bright Red
+Orange
+Yellow
+Yellow White
+White
+Brilliant White
+Catching Fire
+Lit
+Light Hit
+Medium Hit
+Hard Hit
+Draw
+Bend
+Punch
+Shrink
+Upset
+Hit Any
+Hit Not Last
+Hit Last
+Hit Second Last
+Hit Third Last
+Draw Any
+Draw Last
+Draw Not Last
+Draw Second Last
+Draw Third Last
+Punch Any
+Punch Last
+Punch Not Last
+Punch Second Last
+Punch Third Last
+Bend Any
+Bend Last
+Bend Not Last
+Bend Second Last
+Bend Third Last
+Upset Any
+Upset Last
+Upset Not Last
+Upset Second Last
+Upset Third Last
+Shrink Any
+Shrink Last
+Shrink Not Last
+Shrink Second Last
+Shrink Third Last
+Winter
+Late Winter
+Early Spring
+Spring
+Late Spring
+Early Summer
+Summer
+Late Summer
+Early Autumn
+Autumn
+Late Autumn
+Early Winter
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Grain
+Vegetables
+Fruit
+Protein
+Dairy
+Alloying recipes
+Anvil recipes
+Barrel recipes
+Blast Furnace recipes
+Bloomery recipes
+Casting recipes
+Chisel Smoothing recipes
+Heating recipes
+Clay knapping
+Fire clay knapping
+Leather knapping
+Stone knapping
+Metal Heating recipes
+Loom recipes
+Quern recipes
+Rock Layer Ores
+Vein Information
+Welding recipes
+Instant
+%d hours
+Used for firing pottery and melting your first metals. Place up to 4 items (Default Hotkey: V) into a 1x1 hole, then fill (right-click) with 8 straw and 8 logs and light it with a fire starter or drop a torch on top. Recipe is complete after the fire on top goes out.
+Items can be placed on the ground, mostly for placing into a pit kiln. Use the Place key (default V) to place each item (up to 4) on a single block.
+Category
+Layers
+Top
+Middle
+Bottom
+Min Y
+Max Y
+Rarity
+%s%% chunks
+Loose Rock
+Salt Water
+Fresh Water
+Hot Spring Water
+Rum
+Beer
+Whiskey
+Rye Whiskey
+Corn Whiskey
+Sake
+Vodka
+Cider
+Vinegar
+Brine
+Olive Oil
+Olive Oil Water
+Tannin
+Limewater
+Milk
+Curdled Milk
+Vinegar Milk
+Molten Bismuth
+Molten Bismuth Bronze
+Molten Black Bronze
+Molten Brass
+Molten Bronze
+Molten Copper
+Molten Gold
+Molten Lead
+Molten Nickel
+Molten Rose Gold
+Molten Silver
+Molten Tin
+Molten Zinc
+Molten Sterling Silver
+Molten Wrought Iron
+Molten Pig Iron
+Molten Steel
+Molten Platinum
+Molten Black Steel
+Molten Blue Steel
+Molten Red Steel
+Molten Weak Steel
+Molten Weak Blue Steel
+Molten Weak Red Steel
+Molten High Carbon Steel
+Molten High Carbon Blue Steel
+Molten High Carbon Red Steel
+Molten High Carbon Black Steel
+Unknown Molten Metal
+White Dye
+Orange Dye
+Magenta Dye
+Light Blue Dye
+Yellow Dye
+Lime Dye
+Pink Dye
+Gray Dye
+Light Gray Dye
+Cyan Dye
+Purple Dye
+Blue Dye
+Brown Dye
+Green Dye
+Red Dye
+Black Dye
+Native Copper
+Native Gold
+Native Platinum
+Native Silver
+Hematite
+Cassiterite
+Bismuthinite
+Garnierite
+Malachite
+Magnetite
+Limonite
+Sphalerite
+Tetrahedrite
+Bituminous Coal
+Lignite
+Kaolinite
+Graphite
+Kimberlite
+Cinnabar
+Cryolite
+Saltpeter
+Sylvite
+Borax
+Gypsum
+Lapis Lazuli
+Surface Native Copper
+Surface Cassiterite
+Surface Bismuthinite
+Surface Sphalerite
+Surface Tetrahedrite
+TFC Debug Block
+Placed Items
+Debris
+Pit Kiln
+Charcoal Forge
+Peat
+Peat Grass
+Thatch
+Firepit
+Bellows
+Crucible
+Torch
+Blast Furnace
+Bloomery
+Fire Bricks
+Quern
+Large Vessel
+Fire Clay
+Aggregate
+Sluice
+Ice
+Sea Ice
+Nest Box
+Powderkeg
+Cyan Alabaster Bricks
+Black Alabaster Bricks
+Magenta Alabaster Bricks
+Orange Alabaster Bricks
+Lime Alabaster Bricks
+ Alabaster Bricks
+Blue Alabaster Bricks
+Purple Alabaster Bricks
+Light Blue Alabaster Bricks
+Gray Alabaster Bricks
+Light Gray Alabaster Bricks
+Yellow Alabaster Bricks
+Brown Alabaster Bricks
+Pink Alabaster Bricks
+Green Alabaster Bricks
+White Alabaster Bricks
+Red Alabaster Bricks
+Cyan Alabaster
+Black Alabaster
+Magenta Alabaster
+Orange Alabaster
+Lime Alabaster
+ Alabaster
+Blue Alabaster
+Purple Alabaster
+Light Blue Alabaster
+Gray Alabaster
+Light Gray Alabaster
+Yellow Alabaster
+Brown Alabaster
+Pink Alabaster
+Green Alabaster
+White Alabaster
+Red Alabaster
+Cyan Smooth Alabaster
+Black Smooth Alabaster
+Magenta Smooth Alabaster
+Orange Smooth Alabaster
+Lime Smooth Alabaster
+ Smooth Alabaster
+Blue Smooth Alabaster
+Purple Smooth Alabaster
+Light Blue Smooth Alabaster
+Gray Smooth Alabaster
+Light Gray Smooth Alabaster
+Yellow Smooth Alabaster
+Brown Smooth Alabaster
+Pink Smooth Alabaster
+Green Smooth Alabaster
+White Smooth Alabaster
+Red Smooth Alabaster
+Raw Granite
+Raw Diorite
+Raw Gabbro
+Raw Shale
+Raw Claystone
+Raw Rocksalt
+Raw Limestone
+Raw Conglomerate
+Raw Dolomite
+Raw Chert
+Raw Chalk
+Raw Rhyolite
+Raw Basalt
+Raw Andesite
+Raw Dacite
+Raw Quartzite
+Raw Slate
+Raw Phyllite
+Raw Schist
+Raw Gneiss
+Raw Marble
+Smooth Granite
+Smooth Diorite
+Smooth Gabbro
+Smooth Shale
+Smooth Claystone
+Smooth Rocksalt
+Smooth Limestone
+Smooth Conglomerate
+Smooth Dolomite
+Smooth Chert
+Smooth Chalk
+Smooth Rhyolite
+Smooth Basalt
+Smooth Andesite
+Smooth Dacite
+Smooth Quartzite
+Smooth Slate
+Smooth Phyllite
+Smooth Schist
+Smooth Gneiss
+Smooth Marble
+Granite Cobble
+Diorite Cobble
+Gabbro Cobble
+Shale Cobble
+Claystone Cobble
+Rocksalt Cobble
+Limestone Cobble
+Conglomerate Cobble
+Dolomite Cobble
+Chert Cobble
+Chalk Cobble
+Rhyolite Cobble
+Basalt Cobble
+Andesite Cobble
+Dacite Cobble
+Quartzite Cobble
+Slate Cobble
+Phyllite Cobble
+Schist Cobble
+Gneiss Cobble
+Marble Cobble
+Granite Bricks
+Diorite Bricks
+Gabbro Bricks
+Shale Bricks
+Claystone Bricks
+Rocksalt Bricks
+Limestone Bricks
+Conglomerate Bricks
+Dolomite Bricks
+Chert Bricks
+Chalk Bricks
+Rhyolite Bricks
+Basalt Bricks
+Andesite Bricks
+Dacite Bricks
+Quartzite Bricks
+Slate Bricks
+Phyllite Bricks
+Schist Bricks
+Gneiss Bricks
+Marble Bricks
+Granite Sand
+Diorite Sand
+Gabbro Sand
+Shale Sand
+Claystone Sand
+Rocksalt Sand
+Limestone Sand
+Conglomerate Sand
+Dolomite Sand
+Chert Sand
+Chalk Sand
+Rhyolite Sand
+Basalt Sand
+Andesite Sand
+Dacite Sand
+Quartzite Sand
+Slate Sand
+Phyllite Sand
+Schist Sand
+Gneiss Sand
+Marble Sand
+Granite Gravel
+Diorite Gravel
+Gabbro Gravel
+Shale Gravel
+Claystone Gravel
+Rocksalt Gravel
+Limestone Gravel
+Conglomerate Gravel
+Dolomite Gravel
+Chert Gravel
+Chalk Gravel
+Rhyolite Gravel
+Basalt Gravel
+Andesite Gravel
+Dacite Gravel
+Quartzite Gravel
+Slate Gravel
+Phyllite Gravel
+Schist Gravel
+Gneiss Gravel
+Marble Gravel
+Granite Dirt
+Diorite Dirt
+Gabbro Dirt
+Shale Dirt
+Claystone Dirt
+Rocksalt Dirt
+Limestone Dirt
+Conglomerate Dirt
+Dolomite Dirt
+Chert Dirt
+Chalk Dirt
+Rhyolite Dirt
+Basalt Dirt
+Andesite Dirt
+Dacite Dirt
+Quartzite Dirt
+Slate Dirt
+Phyllite Dirt
+Schist Dirt
+Gneiss Dirt
+Marble Dirt
+Granite Grass
+Diorite Grass
+Gabbro Grass
+Shale Grass
+Claystone Grass
+Rocksalt Grass
+Limestone Grass
+Conglomerate Grass
+Dolomite Grass
+Chert Grass
+Chalk Grass
+Rhyolite Grass
+Basalt Grass
+Andesite Grass
+Dacite Grass
+Quartzite Grass
+Slate Grass
+Phyllite Grass
+Schist Grass
+Gneiss Grass
+Marble Grass
+Granite Clay Grass
+Diorite Clay Grass
+Gabbro Clay Grass
+Shale Clay Grass
+Claystone Clay Grass
+Rocksalt Clay Grass
+Limestone Clay Grass
+Conglomerate Clay Grass
+Dolomite Clay Grass
+Chert Clay Grass
+Chalk Clay Grass
+Rhyolite Clay Grass
+Basalt Clay Grass
+Andesite Clay Grass
+Dacite Clay Grass
+Quartzite Clay Grass
+Slate Clay Grass
+Phyllite Clay Grass
+Schist Clay Grass
+Gneiss Clay Grass
+Marble Clay Grass
+Granite Clay
+Diorite Clay
+Gabbro Clay
+Shale Clay
+Claystone Clay
+Rocksalt Clay
+Limestone Clay
+Conglomerate Clay
+Dolomite Clay
+Chert Clay
+Chalk Clay
+Rhyolite Clay
+Basalt Clay
+Andesite Clay
+Dacite Clay
+Quartzite Clay
+Slate Clay
+Phyllite Clay
+Schist Clay
+Gneiss Clay
+Marble Clay
+Dry Granite Grass
+Dry Diorite Grass
+Dry Gabbro Grass
+Dry Shale Grass
+Dry Claystone Grass
+Dry Rocksalt Grass
+Dry Limestone Grass
+Dry Conglomerate Grass
+Dry Dolomite Grass
+Dry Chert Grass
+Dry Chalk Grass
+Dry Rhyolite Grass
+Dry Basalt Grass
+Dry Andesite Grass
+Dry Dacite Grass
+Dry Quartzite Grass
+Dry Slate Grass
+Dry Phyllite Grass
+Dry Schist Grass
+Dry Gneiss Grass
+Dry Marble Grass
+Granite Path
+Diorite Path
+Gabbro Path
+Shale Path
+Claystone Path
+Rocksalt Path
+Limestone Path
+Conglomerate Path
+Dolomite Path
+Chert Path
+Chalk Path
+Rhyolite Path
+Basalt Path
+Andesite Path
+Dacite Path
+Quartzite Path
+Slate Path
+Phyllite Path
+Schist Path
+Gneiss Path
+Marble Path
+Granite Farmland
+Diorite Farmland
+Gabbro Farmland
+Shale Farmland
+Claystone Farmland
+Rocksalt Farmland
+Limestone Farmland
+Conglomerate Farmland
+Dolomite Farmland
+Chert Farmland
+Chalk Farmland
+Rhyolite Farmland
+Basalt Farmland
+Andesite Farmland
+Dacite Farmland
+Quartzite Farmland
+Slate Farmland
+Phyllite Farmland
+Schist Farmland
+Gneiss Farmland
+Marble Farmland
+Smooth Granite Stairs
+Smooth Diorite Stairs
+Smooth Gabbro Stairs
+Smooth Shale Stairs
+Smooth Claystone Stairs
+Smooth Rocksalt Stairs
+Smooth Limestone Stairs
+Smooth Conglomerate Stairs
+Smooth Dolomite Stairs
+Smooth Chert Stairs
+Smooth Chalk Stairs
+Smooth Rhyolite Stairs
+Smooth Basalt Stairs
+Smooth Andesite Stairs
+Smooth Dacite Stairs
+Smooth Quartzite Stairs
+Smooth Slate Stairs
+Smooth Phyllite Stairs
+Smooth Schist Stairs
+Smooth Gneiss Stairs
+Smooth Marble Stairs
+Granite Cobble Stairs
+Diorite Cobble Stairs
+Gabbro Cobble Stairs
+Shale Cobble Stairs
+Claystone Cobble Stairs
+Rocksalt Cobble Stairs
+Limestone Cobble Stairs
+Conglomerate Cobble Stairs
+Dolomite Cobble Stairs
+Chert Cobble Stairs
+Chalk Cobble Stairs
+Rhyolite Cobble Stairs
+Basalt Cobble Stairs
+Andesite Cobble Stairs
+Dacite Cobble Stairs
+Quartzite Cobble Stairs
+Slate Cobble Stairs
+Phyllite Cobble Stairs
+Schist Cobble Stairs
+Gneiss Cobble Stairs
+Marble Cobble Stairs
+Granite Brick Stairs
+Diorite Brick Stairs
+Gabbro Brick Stairs
+Shale Brick Stairs
+Claystone Brick Stairs
+Rocksalt Brick Stairs
+Limestone Brick Stairs
+Conglomerate Brick Stairs
+Dolomite Brick Stairs
+Chert Brick Stairs
+Chalk Brick Stairs
+Rhyolite Brick Stairs
+Basalt Brick Stairs
+Andesite Brick Stairs
+Dacite Brick Stairs
+Quartzite Brick Stairs
+Slate Brick Stairs
+Phyllite Brick Stairs
+Schist Brick Stairs
+Gneiss Brick Stairs
+Marble Brick Stairs
+Smooth Granite Slab
+Smooth Diorite Slab
+Smooth Gabbro Slab
+Smooth Shale Slab
+Smooth Claystone Slab
+Smooth Rocksalt Slab
+Smooth Limestone Slab
+Smooth Conglomerate Slab
+Smooth Dolomite Slab
+Smooth Chert Slab
+Smooth Chalk Slab
+Smooth Rhyolite Slab
+Smooth Basalt Slab
+Smooth Andesite Slab
+Smooth Dacite Slab
+Smooth Quartzite Slab
+Smooth Slate Slab
+Smooth Phyllite Slab
+Smooth Schist Slab
+Smooth Gneiss Slab
+Smooth Marble Slab
+Granite Cobble Slab
+Diorite Cobble Slab
+Gabbro Cobble Slab
+Shale Cobble Slab
+Claystone Cobble Slab
+Rocksalt Cobble Slab
+Limestone Cobble Slab
+Conglomerate Cobble Slab
+Dolomite Cobble Slab
+Chert Cobble Slab
+Chalk Cobble Slab
+Rhyolite Cobble Slab
+Basalt Cobble Slab
+Andesite Cobble Slab
+Dacite Cobble Slab
+Quartzite Cobble Slab
+Slate Cobble Slab
+Phyllite Cobble Slab
+Schist Cobble Slab
+Gneiss Cobble Slab
+Marble Cobble Slab
+Granite Brick Slab
+Diorite Brick Slab
+Gabbro Brick Slab
+Shale Brick Slab
+Claystone Brick Slab
+Rocksalt Brick Slab
+Limestone Brick Slab
+Conglomerate Brick Slab
+Dolomite Brick Slab
+Chert Brick Slab
+Chalk Brick Slab
+Rhyolite Brick Slab
+Basalt Brick Slab
+Andesite Brick Slab
+Dacite Brick Slab
+Quartzite Brick Slab
+Slate Brick Slab
+Phyllite Brick Slab
+Schist Brick Slab
+Gneiss Brick Slab
+Marble Brick Slab
+Smooth Granite Double Slab
+Smooth Diorite Double Slab
+Smooth Gabbro Double Slab
+Smooth Shale Double Slab
+Smooth Claystone Double Slab
+Smooth Rocksalt Double Slab
+Smooth Limestone Double Slab
+Smooth Conglomerate Double Slab
+Smooth Dolomite Double Slab
+Smooth Chert Double Slab
+Smooth Chalk Double Slab
+Smooth Rhyolite Double Slab
+Smooth Basalt Double Slab
+Smooth Andesite Double Slab
+Smooth Dacite Double Slab
+Smooth Quartzite Double Slab
+Smooth Slate Double Slab
+Smooth Phyllite Double Slab
+Smooth Schist Double Slab
+Smooth Gneiss Double Slab
+Smooth Marble Double Slab
+Granite Cobble Double Slab
+Diorite Cobble Double Slab
+Gabbro Cobble Double Slab
+Shale Cobble Double Slab
+Claystone Cobble Double Slab
+Rocksalt Cobble Double Slab
+Limestone Cobble Double Slab
+Conglomerate Cobble Double Slab
+Dolomite Cobble Double Slab
+Chert Cobble Double Slab
+Chalk Cobble Double Slab
+Rhyolite Cobble Double Slab
+Basalt Cobble Double Slab
+Andesite Cobble Double Slab
+Dacite Cobble Double Slab
+Quartzite Cobble Double Slab
+Slate Cobble Double Slab
+Phyllite Cobble Double Slab
+Schist Cobble Double Slab
+Gneiss Cobble Double Slab
+Marble Cobble Double Slab
+Granite Brick Double Slab
+Diorite Brick Double Slab
+Gabbro Brick Double Slab
+Shale Brick Double Slab
+Claystone Brick Double Slab
+Rocksalt Brick Double Slab
+Limestone Brick Double Slab
+Conglomerate Brick Double Slab
+Dolomite Brick Double Slab
+Chert Brick Double Slab
+Chalk Brick Double Slab
+Rhyolite Brick Double Slab
+Basalt Brick Double Slab
+Andesite Brick Double Slab
+Dacite Brick Double Slab
+Quartzite Brick Double Slab
+Slate Brick Double Slab
+Phyllite Brick Double Slab
+Schist Brick Double Slab
+Gneiss Brick Double Slab
+Marble Brick Double Slab
+Granite Native Copper
+Granite Native Gold
+Granite Native Platinum
+Granite Hematite
+Granite Native Silver
+Granite Cassiterite
+Granite Galena
+Granite Bismuthinite
+Granite Garnierite
+Granite Malachite
+Granite Magnetite
+Granite Limonite
+Granite Sphalerite
+Granite Tetrahedrite
+Granite Bituminous Coal
+Granite Lignite
+Granite Kaolinite
+Granite Gypsum
+Granite Satinspar
+Granite Selenite
+Granite Graphite
+Granite Kimberlite
+Granite Petrified Wood
+Granite Sulfur
+Granite Jet
+Granite Microcline
+Granite Pitchblende
+Granite Cinnabar
+Granite Cryolite
+Granite Saltpeter
+Granite Serpentine
+Granite Sylvite
+Granite Borax
+Granite Olivine
+Granite Lapis Lazuli
+Diorite Native Copper
+Diorite Native Gold
+Diorite Native Platinum
+Diorite Hematite
+Diorite Native Silver
+Diorite Cassiterite
+Diorite Galena
+Diorite Bismuthinite
+Diorite Garnierite
+Diorite Malachite
+Diorite Magnetite
+Diorite Limonite
+Diorite Sphalerite
+Diorite Tetrahedrite
+Diorite Bituminous Coal
+Diorite Lignite
+Diorite Kaolinite
+Diorite Gypsum
+Diorite Satinspar
+Diorite Selenite
+Diorite Graphite
+Diorite Kimberlite
+Diorite Petrified Wood
+Diorite Sulfur
+Diorite Jet
+Diorite Microcline
+Diorite Pitchblende
+Diorite Cinnabar
+Diorite Cryolite
+Diorite Saltpeter
+Diorite Serpentine
+Diorite Sylvite
+Diorite Borax
+Diorite Olivine
+Diorite Lapis Lazuli
+Gabbro Native Copper
+Gabbro Native Gold
+Gabbro Native Platinum
+Gabbro Hematite
+Gabbro Native Silver
+Gabbro Cassiterite
+Gabbro Galena
+Gabbro Bismuthinite
+Gabbro Garnierite
+Gabbro Malachite
+Gabbro Magnetite
+Gabbro Limonite
+Gabbro Sphalerite
+Gabbro Tetrahedrite
+Gabbro Bituminous Coal
+Gabbro Lignite
+Gabbro Kaolinite
+Gabbro Gypsum
+Gabbro Satinspar
+Gabbro Selenite
+Gabbro Graphite
+Gabbro Kimberlite
+Gabbro Petrified Wood
+Gabbro Sulfur
+Gabbro Jet
+Gabbro Microcline
+Gabbro Pitchblende
+Gabbro Cinnabar
+Gabbro Cryolite
+Gabbro Saltpeter
+Gabbro Serpentine
+Gabbro Sylvite
+Gabbro Borax
+Gabbro Olivine
+Gabbro Lapis Lazuli
+Shale Native Copper
+Shale Native Gold
+Shale Native Platinum
+Shale Hematite
+Shale Native Silver
+Shale Cassiterite
+Shale Galena
+Shale Bismuthinite
+Shale Garnierite
+Shale Malachite
+Shale Magnetite
+Shale Limonite
+Shale Sphalerite
+Shale Tetrahedrite
+Shale Bituminous Coal
+Shale Lignite
+Shale Kaolinite
+Shale Gypsum
+Shale Satinspar
+Shale Selenite
+Shale Graphite
+Shale Kimberlite
+Shale Petrified Wood
+Shale Sulfur
+Shale Jet
+Shale Microcline
+Shale Pitchblende
+Shale Cinnabar
+Shale Cryolite
+Shale Saltpeter
+Shale Serpentine
+Shale Sylvite
+Shale Borax
+Shale Olivine
+Shale Lapis Lazuli
+Claystone Native Copper
+Claystone Native Gold
+Claystone Native Platinum
+Claystone Hematite
+Claystone Native Silver
+Claystone Cassiterite
+Claystone Galena
+Claystone Bismuthinite
+Claystone Garnierite
+Claystone Malachite
+Claystone Magnetite
+Claystone Limonite
+Claystone Sphalerite
+Claystone Tetrahedrite
+Claystone Bituminous Coal
+Claystone Lignite
+Claystone Kaolinite
+Claystone Gypsum
+Claystone Satinspar
+Claystone Selenite
+Claystone Graphite
+Claystone Kimberlite
+Claystone Petrified Wood
+Claystone Sulfur
+Claystone Jet
+Claystone Microcline
+Claystone Pitchblende
+Claystone Cinnabar
+Claystone Cryolite
+Claystone Saltpeter
+Claystone Serpentine
+Claystone Sylvite
+Claystone Borax
+Claystone Olivine
+Claystone Lapis Lazuli
+Rocksalt Native Copper
+Rocksalt Native Gold
+Rocksalt Native Platinum
+Rocksalt Hematite
+Rocksalt Native Silver
+Rocksalt Cassiterite
+Rocksalt Galena
+Rocksalt Bismuthinite
+Rocksalt Garnierite
+Rocksalt Malachite
+Rocksalt Magnetite
+Rocksalt Limonite
+Rocksalt Sphalerite
+Rocksalt Tetrahedrite
+Rocksalt Bituminous Coal
+Rocksalt Lignite
+Rocksalt Kaolinite
+Rocksalt Gypsum
+Rocksalt Satinspar
+Rocksalt Selenite
+Rocksalt Graphite
+Rocksalt Kimberlite
+Rocksalt Petrified Wood
+Rocksalt Sulfur
+Rocksalt Jet
+Rocksalt Microcline
+Rocksalt Pitchblende
+Rocksalt Cinnabar
+Rocksalt Cryolite
+Rocksalt Saltpeter
+Rocksalt Serpentine
+Rocksalt Sylvite
+Rocksalt Borax
+Rocksalt Olivine
+Rocksalt Lapis Lazuli
+Limestone Native Copper
+Limestone Native Gold
+Limestone Native Platinum
+Limestone Hematite
+Limestone Native Silver
+Limestone Cassiterite
+Limestone Galena
+Limestone Bismuthinite
+Limestone Garnierite
+Limestone Malachite
+Limestone Magnetite
+Limestone Limonite
+Limestone Sphalerite
+Limestone Tetrahedrite
+Limestone Bituminous Coal
+Limestone Lignite
+Limestone Kaolinite
+Limestone Gypsum
+Limestone Satinspar
+Limestone Selenite
+Limestone Graphite
+Limestone Kimberlite
+Limestone Petrified Wood
+Limestone Sulfur
+Limestone Jet
+Limestone Microcline
+Limestone Pitchblende
+Limestone Cinnabar
+Limestone Cryolite
+Limestone Saltpeter
+Limestone Serpentine
+Limestone Sylvite
+Limestone Borax
+Limestone Olivine
+Limestone Lapis Lazuli
+Conglomerate Native Copper
+Conglomerate Native Gold
+Conglomerate Native Platinum
+Conglomerate Hematite
+Conglomerate Native Silver
+Conglomerate Cassiterite
+Conglomerate Galena
+Conglomerate Bismuthinite
+Conglomerate Garnierite
+Conglomerate Malachite
+Conglomerate Magnetite
+Conglomerate Limonite
+Conglomerate Sphalerite
+Conglomerate Tetrahedrite
+Conglomerate Bituminous Coal
+Conglomerate Lignite
+Conglomerate Kaolinite
+Conglomerate Gypsum
+Conglomerate Satinspar
+Conglomerate Selenite
+Conglomerate Graphite
+Conglomerate Kimberlite
+Conglomerate Petrified Wood
+Conglomerate Sulfur
+Conglomerate Jet
+Conglomerate Microcline
+Conglomerate Pitchblende
+Conglomerate Cinnabar
+Conglomerate Cryolite
+Conglomerate Saltpeter
+Conglomerate Serpentine
+Conglomerate Sylvite
+Conglomerate Borax
+Conglomerate Olivine
+Conglomerate Lapis Lazuli
+Dolomite Native Copper
+Dolomite Native Gold
+Dolomite Native Platinum
+Dolomite Hematite
+Dolomite Native Silver
+Dolomite Cassiterite
+Dolomite Galena
+Dolomite Bismuthinite
+Dolomite Garnierite
+Dolomite Malachite
+Dolomite Magnetite
+Dolomite Limonite
+Dolomite Sphalerite
+Dolomite Tetrahedrite
+Dolomite Bituminous Coal
+Dolomite Lignite
+Dolomite Kaolinite
+Dolomite Gypsum
+Dolomite Satinspar
+Dolomite Selenite
+Dolomite Graphite
+Dolomite Kimberlite
+Dolomite Petrified Wood
+Dolomite Sulfur
+Dolomite Jet
+Dolomite Microcline
+Dolomite Pitchblende
+Dolomite Cinnabar
+Dolomite Cryolite
+Dolomite Saltpeter
+Dolomite Serpentine
+Dolomite Sylvite
+Dolomite Borax
+Dolomite Olivine
+Dolomite Lapis Lazuli
+Chert Native Copper
+Chert Native Gold
+Chert Native Platinum
+Chert Hematite
+Chert Native Silver
+Chert Cassiterite
+Chert Galena
+Chert Bismuthinite
+Chert Garnierite
+Chert Malachite
+Chert Magnetite
+Chert Limonite
+Chert Sphalerite
+Chert Tetrahedrite
+Chert Bituminous Coal
+Chert Lignite
+Chert Kaolinite
+Chert Gypsum
+Chert Satinspar
+Chert Selenite
+Chert Graphite
+Chert Kimberlite
+Chert Petrified Wood
+Chert Sulfur
+Chert Jet
+Chert Microcline
+Chert Pitchblende
+Chert Cinnabar
+Chert Cryolite
+Chert Saltpeter
+Chert Serpentine
+Chert Sylvite
+Chert Borax
+Chert Olivine
+Chert Lapis Lazuli
+Chalk Native Copper
+Chalk Native Gold
+Chalk Native Platinum
+Chalk Hematite
+Chalk Native Silver
+Chalk Cassiterite
+Chalk Galena
+Chalk Bismuthinite
+Chalk Garnierite
+Chalk Malachite
+Chalk Magnetite
+Chalk Limonite
+Chalk Sphalerite
+Chalk Tetrahedrite
+Chalk Bituminous Coal
+Chalk Lignite
+Chalk Kaolinite
+Chalk Gypsum
+Chalk Satinspar
+Chalk Selenite
+Chalk Graphite
+Chalk Kimberlite
+Chalk Petrified Wood
+Chalk Sulfur
+Chalk Jet
+Chalk Microcline
+Chalk Pitchblende
+Chalk Cinnabar
+Chalk Cryolite
+Chalk Saltpeter
+Chalk Serpentine
+Chalk Sylvite
+Chalk Borax
+Chalk Olivine
+Chalk Lapis Lazuli
+Rhyolite Native Copper
+Rhyolite Native Gold
+Rhyolite Native Platinum
+Rhyolite Hematite
+Rhyolite Native Silver
+Rhyolite Cassiterite
+Rhyolite Galena
+Rhyolite Bismuthinite
+Rhyolite Garnierite
+Rhyolite Malachite
+Rhyolite Magnetite
+Rhyolite Limonite
+Rhyolite Sphalerite
+Rhyolite Tetrahedrite
+Rhyolite Bituminous Coal
+Rhyolite Lignite
+Rhyolite Kaolinite
+Rhyolite Gypsum
+Rhyolite Satinspar
+Rhyolite Selenite
+Rhyolite Graphite
+Rhyolite Kimberlite
+Rhyolite Petrified Wood
+Rhyolite Sulfur
+Rhyolite Jet
+Rhyolite Microcline
+Rhyolite Pitchblende
+Rhyolite Cinnabar
+Rhyolite Cryolite
+Rhyolite Saltpeter
+Rhyolite Serpentine
+Rhyolite Sylvite
+Rhyolite Borax
+Rhyolite Olivine
+Rhyolite Lapis Lazuli
+Basalt Native Copper
+Basalt Native Gold
+Basalt Native Platinum
+Basalt Hematite
+Basalt Native Silver
+Basalt Cassiterite
+Basalt Galena
+Basalt Bismuthinite
+Basalt Garnierite
+Basalt Malachite
+Basalt Magnetite
+Basalt Limonite
+Basalt Sphalerite
+Basalt Tetrahedrite
+Basalt Bituminous Coal
+Basalt Lignite
+Basalt Kaolinite
+Basalt Gypsum
+Basalt Satinspar
+Basalt Selenite
+Basalt Graphite
+Basalt Kimberlite
+Basalt Petrified Wood
+Basalt Sulfur
+Basalt Jet
+Basalt Microcline
+Basalt Pitchblende
+Basalt Cinnabar
+Basalt Cryolite
+Basalt Saltpeter
+Basalt Serpentine
+Basalt Sylvite
+Basalt Borax
+Basalt Olivine
+Basalt Lapis Lazuli
+Andesite Native Copper
+Andesite Native Gold
+Andesite Native Platinum
+Andesite Hematite
+Andesite Native Silver
+Andesite Cassiterite
+Andesite Galena
+Andesite Bismuthinite
+Andesite Garnierite
+Andesite Malachite
+Andesite Magnetite
+Andesite Limonite
+Andesite Sphalerite
+Andesite Tetrahedrite
+Andesite Bituminous Coal
+Andesite Lignite
+Andesite Kaolinite
+Andesite Gypsum
+Andesite Satinspar
+Andesite Selenite
+Andesite Graphite
+Andesite Kimberlite
+Andesite Petrified Wood
+Andesite Sulfur
+Andesite Jet
+Andesite Microcline
+Andesite Pitchblende
+Andesite Cinnabar
+Andesite Cryolite
+Andesite Saltpeter
+Andesite Serpentine
+Andesite Sylvite
+Andesite Borax
+Andesite Olivine
+Andesite Lapis Lazuli
+Dacite Native Copper
+Dacite Native Gold
+Dacite Native Platinum
+Dacite Hematite
+Dacite Native Silver
+Dacite Cassiterite
+Dacite Galena
+Dacite Bismuthinite
+Dacite Garnierite
+Dacite Malachite
+Dacite Magnetite
+Dacite Limonite
+Dacite Sphalerite
+Dacite Tetrahedrite
+Dacite Bituminous Coal
+Dacite Lignite
+Dacite Kaolinite
+Dacite Gypsum
+Dacite Satinspar
+Dacite Selenite
+Dacite Graphite
+Dacite Kimberlite
+Dacite Petrified Wood
+Dacite Sulfur
+Dacite Jet
+Dacite Microcline
+Dacite Pitchblende
+Dacite Cinnabar
+Dacite Cryolite
+Dacite Saltpeter
+Dacite Serpentine
+Dacite Sylvite
+Dacite Borax
+Dacite Olivine
+Dacite Lapis Lazuli
+Quartzite Native Copper
+Quartzite Native Gold
+Quartzite Native Platinum
+Quartzite Hematite
+Quartzite Native Silver
+Quartzite Cassiterite
+Quartzite Galena
+Quartzite Bismuthinite
+Quartzite Garnierite
+Quartzite Malachite
+Quartzite Magnetite
+Quartzite Limonite
+Quartzite Sphalerite
+Quartzite Tetrahedrite
+Quartzite Bituminous Coal
+Quartzite Lignite
+Quartzite Kaolinite
+Quartzite Gypsum
+Quartzite Satinspar
+Quartzite Selenite
+Quartzite Graphite
+Quartzite Kimberlite
+Quartzite Petrified Wood
+Quartzite Sulfur
+Quartzite Jet
+Quartzite Microcline
+Quartzite Pitchblende
+Quartzite Cinnabar
+Quartzite Cryolite
+Quartzite Saltpeter
+Quartzite Serpentine
+Quartzite Sylvite
+Quartzite Borax
+Quartzite Olivine
+Quartzite Lapis Lazuli
+Slate Native Copper
+Slate Native Gold
+Slate Native Platinum
+Slate Hematite
+Slate Native Silver
+Slate Cassiterite
+Slate Galena
+Slate Bismuthinite
+Slate Garnierite
+Slate Malachite
+Slate Magnetite
+Slate Limonite
+Slate Sphalerite
+Slate Tetrahedrite
+Slate Bituminous Coal
+Slate Lignite
+Slate Kaolinite
+Slate Gypsum
+Slate Satinspar
+Slate Selenite
+Slate Graphite
+Slate Kimberlite
+Slate Petrified Wood
+Slate Sulfur
+Slate Jet
+Slate Microcline
+Slate Pitchblende
+Slate Cinnabar
+Slate Cryolite
+Slate Saltpeter
+Slate Serpentine
+Slate Sylvite
+Slate Borax
+Slate Olivine
+Slate Lapis Lazuli
+Phyllite Native Copper
+Phyllite Native Gold
+Phyllite Native Platinum
+Phyllite Hematite
+Phyllite Native Silver
+Phyllite Cassiterite
+Phyllite Galena
+Phyllite Bismuthinite
+Phyllite Garnierite
+Phyllite Malachite
+Phyllite Magnetite
+Phyllite Limonite
+Phyllite Sphalerite
+Phyllite Tetrahedrite
+Phyllite Bituminous Coal
+Phyllite Lignite
+Phyllite Kaolinite
+Phyllite Gypsum
+Phyllite Satinspar
+Phyllite Selenite
+Phyllite Graphite
+Phyllite Kimberlite
+Phyllite Petrified Wood
+Phyllite Sulfur
+Phyllite Jet
+Phyllite Microcline
+Phyllite Pitchblende
+Phyllite Cinnabar
+Phyllite Cryolite
+Phyllite Saltpeter
+Phyllite Serpentine
+Phyllite Sylvite
+Phyllite Borax
+Phyllite Olivine
+Phyllite Lapis Lazuli
+Schist Native Copper
+Schist Native Gold
+Schist Native Platinum
+Schist Hematite
+Schist Native Silver
+Schist Cassiterite
+Schist Galena
+Schist Bismuthinite
+Schist Garnierite
+Schist Malachite
+Schist Magnetite
+Schist Limonite
+Schist Sphalerite
+Schist Tetrahedrite
+Schist Bituminous Coal
+Schist Lignite
+Schist Kaolinite
+Schist Gypsum
+Schist Satinspar
+Schist Selenite
+Schist Graphite
+Schist Kimberlite
+Schist Petrified Wood
+Schist Sulfur
+Schist Jet
+Schist Microcline
+Schist Pitchblende
+Schist Cinnabar
+Schist Cryolite
+Schist Saltpeter
+Schist Serpentine
+Schist Sylvite
+Schist Borax
+Schist Olivine
+Schist Lapis Lazuli
+Gneiss Native Copper
+Gneiss Native Gold
+Gneiss Native Platinum
+Gneiss Hematite
+Gneiss Native Silver
+Gneiss Cassiterite
+Gneiss Galena
+Gneiss Bismuthinite
+Gneiss Garnierite
+Gneiss Malachite
+Gneiss Magnetite
+Gneiss Limonite
+Gneiss Sphalerite
+Gneiss Tetrahedrite
+Gneiss Bituminous Coal
+Gneiss Lignite
+Gneiss Kaolinite
+Gneiss Gypsum
+Gneiss Satinspar
+Gneiss Selenite
+Gneiss Graphite
+Gneiss Kimberlite
+Gneiss Petrified Wood
+Gneiss Sulfur
+Gneiss Jet
+Gneiss Microcline
+Gneiss Pitchblende
+Gneiss Cinnabar
+Gneiss Cryolite
+Gneiss Saltpeter
+Gneiss Serpentine
+Gneiss Sylvite
+Gneiss Borax
+Gneiss Olivine
+Gneiss Lapis Lazuli
+Marble Native Copper
+Marble Native Gold
+Marble Native Platinum
+Marble Hematite
+Marble Native Silver
+Marble Cassiterite
+Marble Galena
+Marble Bismuthinite
+Marble Garnierite
+Marble Malachite
+Marble Magnetite
+Marble Limonite
+Marble Sphalerite
+Marble Tetrahedrite
+Marble Bituminous Coal
+Marble Lignite
+Marble Kaolinite
+Marble Gypsum
+Marble Satinspar
+Marble Selenite
+Marble Graphite
+Marble Kimberlite
+Marble Petrified Wood
+Marble Sulfur
+Marble Jet
+Marble Microcline
+Marble Pitchblende
+Marble Cinnabar
+Marble Cryolite
+Marble Saltpeter
+Marble Serpentine
+Marble Sylvite
+Marble Borax
+Marble Olivine
+Marble Lapis Lazuli
+Ash Log
+Aspen Log
+Birch Log
+Chestnut Log
+Douglas Fir Log
+Hickory Log
+Maple Log
+Oak Log
+Pine Log
+Sequoia Log
+Spruce Log
+Sycamore Log
+White Cedar Log
+Willow Log
+Kapok Log
+Acacia Log
+Rosewood Log
+Blackwood Log
+Palm Log
+Ash Planks
+Aspen Planks
+Birch Planks
+Chestnut Planks
+Douglas Fir Planks
+Hickory Planks
+Maple Planks
+Oak Planks
+Pine Planks
+Sequoia Planks
+Spruce Planks
+Sycamore Planks
+White Cedar Planks
+Willow Planks
+Kapok Planks
+Acacia Planks
+Rosewood Planks
+Blackwood Planks
+Palm Planks
+Ash Leaves
+Aspen Leaves
+Birch Leaves
+Chestnut Leaves
+Douglas Fir Leaves
+Hickory Leaves
+Maple Leaves
+Oak Leaves
+Pine Leaves
+Sequoia Leaves
+Spruce Leaves
+Sycamore Leaves
+White Cedar Leaves
+Willow Leaves
+Kapok Leaves
+Acacia Leaves
+Rosewood Leaves
+Blackwood Leaves
+Palm Leaves
+Ash Fence
+Aspen Fence
+Birch Fence
+Chestnut Fence
+Douglas Fir Fence
+Hickory Fence
+Maple Fence
+Oak Fence
+Pine Fence
+Sequoia Fence
+Spruce Fence
+Sycamore Fence
+White Cedar Fence
+Willow Fence
+Kapok Fence
+Acacia Fence
+Rosewood Fence
+Blackwood Fence
+Palm Fence
+Ash Fence Gate
+Aspen Fence Gate
+Birch Fence Gate
+Chestnut Fence Gate
+Douglas Fir Fence Gate
+Hickory Fence Gate
+Maple Fence Gate
+Oak Fence Gate
+Pine Fence Gate
+Sequoia Fence Gate
+Spruce Fence Gate
+Sycamore Fence Gate
+White Cedar Fence Gate
+Willow Fence Gate
+Kapok Fence Gate
+Acacia Fence Gate
+Rosewood Fence Gate
+Blackwood Fence Gate
+Palm Fence Gate
+Ash Chest
+Aspen Chest
+Birch Chest
+Chestnut Chest
+Douglas Fir Chest
+Hickory Chest
+Maple Chest
+Oak Chest
+Pine Chest
+Sequoia Chest
+Spruce Chest
+Sycamore Chest
+White Cedar Chest
+Willow Chest
+Kapok Chest
+Acacia Chest
+Rosewood Chest
+Blackwood Chest
+Palm Chest
+Trapped Ash Chest
+Trapped Aspen Chest
+Trapped Birch Chest
+Trapped Chestnut Chest
+Trapped Douglas Fir Chest
+Trapped Hickory Chest
+Trapped Maple Chest
+Trapped Oak Chest
+Trapped Pine Chest
+Trapped Sequoia Chest
+Trapped Spruce Chest
+Trapped Sycamore Chest
+Trapped White Cedar Chest
+Trapped Willow Chest
+Trapped Kapok Chest
+Trapped Acacia Chest
+Trapped Rosewood Chest
+Trapped Blackwood Chest
+Trapped Palm Chest
+Ash Workbench
+Aspen Workbench
+Birch Workbench
+Chestnut Workbench
+Douglas Fir Workbench
+Hickory Workbench
+Maple Workbench
+Oak Workbench
+Pine Workbench
+Sequoia Workbench
+Spruce Workbench
+Sycamore Workbench
+White Cedar Workbench
+Willow Workbench
+Kapok Workbench
+Acacia Workbench
+Rosewood Workbench
+Blackwood Workbench
+Palm Workbench
+Ash Bookshelf
+Aspen Bookshelf
+Birch Bookshelf
+Chestnut Bookshelf
+Douglas Fir Bookshelf
+Hickory Bookshelf
+Maple Bookshelf
+Oak Bookshelf
+Pine Bookshelf
+Sequoia Bookshelf
+Spruce Bookshelf
+Sycamore Bookshelf
+White Cedar Bookshelf
+Willow Bookshelf
+Kapok Bookshelf
+Acacia Bookshelf
+Rosewood Bookshelf
+Blackwood Bookshelf
+Palm Bookshelf
+Ash Button
+Aspen Button
+Birch Button
+Chestnut Button
+Douglas Fir Button
+Hickory Button
+Maple Button
+Oak Button
+Pine Button
+Sequoia Button
+Spruce Button
+Sycamore Button
+White Cedar Button
+Willow Button
+Kapok Button
+Acacia Button
+Rosewood Button
+Blackwood Button
+Palm Button
+Ash Tool Rack
+Aspen Tool Rack
+Birch Tool Rack
+Chestnut Tool Rack
+Douglas Fir Tool Rack
+Hickory Tool Rack
+Maple Tool Rack
+Oak Tool Rack
+Pine Tool Rack
+Sequoia Tool Rack
+Spruce Tool Rack
+Sycamore Tool Rack
+White Cedar Tool Rack
+Willow Tool Rack
+Kapok Tool Rack
+Acacia Tool Rack
+Rosewood Tool Rack
+Blackwood Tool Rack
+Palm Tool Rack
+Ash Barrel
+Aspen Barrel
+Birch Barrel
+Chestnut Barrel
+Douglas Fir Barrel
+Hickory Barrel
+Maple Barrel
+Oak Barrel
+Pine Barrel
+Sequoia Barrel
+Spruce Barrel
+Sycamore Barrel
+White Cedar Barrel
+Willow Barrel
+Kapok Barrel
+Acacia Barrel
+Rosewood Barrel
+Blackwood Barrel
+Palm Barrel
+Ash Barrel (Sealed)
+Aspen Barrel (Sealed)
+Birch Barrel (Sealed)
+Chestnut Barrel (Sealed)
+Douglas Fir Barrel (Sealed)
+Hickory Barrel (Sealed)
+Maple Barrel (Sealed)
+Oak Barrel (Sealed)
+Pine Barrel (Sealed)
+Sequoia Barrel (Sealed)
+Spruce Barrel (Sealed)
+Sycamore Barrel (Sealed)
+White Cedar Barrel (Sealed)
+Willow Barrel (Sealed)
+Kapok Barrel (Sealed)
+Acacia Barrel (Sealed)
+Rosewood Barrel (Sealed)
+Blackwood Barrel (Sealed)
+Palm Barrel (Sealed)
+Ash Loom
+Aspen Loom
+Birch Loom
+Chestnut Loom
+Douglas Fir Loom
+Hickory Loom
+Maple Loom
+Oak Loom
+Pine Loom
+Sequoia Loom
+Spruce Loom
+Sycamore Loom
+White Cedar Loom
+Willow Loom
+Kapok Loom
+Acacia Loom
+Rosewood Loom
+Blackwood Loom
+Palm Loom
+Ash Support Beam
+Aspen Support Beam
+Birch Support Beam
+Chestnut Support Beam
+Douglas Fir Support Beam
+Hickory Support Beam
+Maple Support Beam
+Oak Support Beam
+Pine Support Beam
+Sequoia Support Beam
+Spruce Support Beam
+Sycamore Support Beam
+White Cedar Support Beam
+Willow Support Beam
+Kapok Support Beam
+Acacia Support Beam
+Rosewood Support Beam
+Blackwood Support Beam
+Palm Support Beam
+Granite Cobble Wall
+Diorite Cobble Wall
+Gabbro Cobble Wall
+Shale Cobble Wall
+Claystone Cobble Wall
+Rocksalt Cobble Wall
+Limestone Cobble Wall
+Conglomerate Cobble Wall
+Dolomite Cobble Wall
+Chert Cobble Wall
+Chalk Cobble Wall
+Rhyolite Cobble Wall
+Basalt Cobble Wall
+Andesite Cobble Wall
+Dacite Cobble Wall
+Quartzite Cobble Wall
+Slate Cobble Wall
+Phyllite Cobble Wall
+Schist Cobble Wall
+Gneiss Cobble Wall
+Marble Cobble Wall
+Granite Brick Wall
+Diorite Brick Wall
+Gabbro Brick Wall
+Shale Brick Wall
+Claystone Brick Wall
+Rocksalt Brick Wall
+Limestone Brick Wall
+Conglomerate Brick Wall
+Dolomite Brick Wall
+Chert Brick Wall
+Chalk Brick Wall
+Rhyolite Brick Wall
+Basalt Brick Wall
+Andesite Brick Wall
+Dacite Brick Wall
+Quartzite Brick Wall
+Slate Brick Wall
+Phyllite Brick Wall
+Schist Brick Wall
+Gneiss Brick Wall
+Marble Brick Wall
+Granite Smooth Wall
+Diorite Smooth Wall
+Gabbro Smooth Wall
+Shale Smooth Wall
+Claystone Smooth Wall
+Rocksalt Smooth Wall
+Limestone Smooth Wall
+Conglomerate Smooth Wall
+Dolomite Smooth Wall
+Chert Smooth Wall
+Chalk Smooth Wall
+Rhyolite Smooth Wall
+Basalt Smooth Wall
+Andesite Smooth Wall
+Dacite Smooth Wall
+Quartzite Smooth Wall
+Slate Smooth Wall
+Phyllite Smooth Wall
+Schist Smooth Wall
+Gneiss Smooth Wall
+Marble Smooth Wall
+TFC Flora
+Allium
+Athyrium Fern
+Badderlocks
+Barrel Cactus
+Black Orchid
+Blood Lily
+Blue Orchid
+Butterfly Milkweed
+Marigold
+Canna Lily
+Broadleaf Cattail
+Dandelion
+Duckweed
+Field Horsetail
+Fountain Grass
+Foxglove
+Goldenrod
+Grape Hyacinth
+Gutweed
+Scarlet Star Bromeliad
+Azure Bluet
+Labrador Tea
+Lady Fern
+Licorice Fern
+Lotus
+Mead's Milkweed
+Morning Glory
+Moss
+Nasturtium
+Orchard Grass
+Ostrich Fern
+Oxeye Daisy
+Pampas Grass
+Russian Sage
+Water Lettuce
+Poppy
+Porcini Mushroom
+Primrose
+Pasque Flower
+Rattan
+Reindeer Lichen
+Rose
+Scouringrush Horsetail
+Ryegrass
+Sacred Datura
+Sagebrush
+Sago Pondweed
+Sapphire Tower
+Sargassum
+Scutch Grass
+Pink Snapdragon
+Red Snapdragon
+White Snapdragon
+Yellow Snapdragon
+Spanish Moss
+Bird of Paradise Flower
+Sugar Cane
+Switchgrass
+Sword Fern
+Tall Fescue Grass
+Timothy Grass
+Toquilla Palm
+Tree Fern
+Trillium
+Tropical Milkweed
+Orange Tulip
+Pink Tulip
+Red Tulip
+White Tulip
+Flaming Sword Bromeliad
+Water Canna
+Water Lily
+Yucca
+Ash Door
+Aspen Door
+Birch Door
+Chestnut Door
+Douglas Fir Door
+Hickory Door
+Maple Door
+Oak Door
+Pine Door
+Sequoia Door
+Spruce Door
+Sycamore Door
+White Cedar Door
+Willow Door
+Kapok Door
+Acacia Door
+Rosewood Door
+Blackwood Door
+Palm Door
+Ash Trapdoor
+Aspen Trapdoor
+Birch Trapdoor
+Chestnut Trapdoor
+Douglas Fir Trapdoor
+Hickory Trapdoor
+Maple Trapdoor
+Oak Trapdoor
+Pine Trapdoor
+Sequoia Trapdoor
+Spruce Trapdoor
+Sycamore Trapdoor
+White Cedar Trapdoor
+Willow Trapdoor
+Kapok Trapdoor
+Acacia Trapdoor
+Rosewood Trapdoor
+Blackwood Trapdoor
+Palm Trapdoor
+Ash Stairs
+Aspen Stairs
+Birch Stairs
+Chestnut Stairs
+Douglas Fir Stairs
+Hickory Stairs
+Maple Stairs
+Oak Stairs
+Pine Stairs
+Sequoia Stairs
+Spruce Stairs
+Sycamore Stairs
+White Cedar Stairs
+Willow Stairs
+Kapok Stairs
+Acacia Stairs
+Rosewood Stairs
+Blackwood Stairs
+Palm Stairs
+Ash Slab
+Aspen Slab
+Birch Slab
+Chestnut Slab
+Douglas Fir Slab
+Hickory Slab
+Maple Slab
+Oak Slab
+Pine Slab
+Sequoia Slab
+Spruce Slab
+Sycamore Slab
+White Cedar Slab
+Willow Slab
+Kapok Slab
+Acacia Slab
+Rosewood Slab
+Blackwood Slab
+Palm Slab
+Ash Double Slab
+Aspen Double Slab
+Birch Double Slab
+Chestnut Double Slab
+Douglas Fir Double Slab
+Hickory Double Slab
+Maple Double Slab
+Oak Double Slab
+Pine Double Slab
+Sequoia Double Slab
+Spruce Double Slab
+Sycamore Double Slab
+White Cedar Double Slab
+Willow Double Slab
+Kapok Double Slab
+Acacia Double Slab
+Rosewood Double Slab
+Blackwood Double Slab
+Palm Double Slab
+Ash Sapling
+Aspen Sapling
+Birch Sapling
+Chestnut Sapling
+Douglas Fir Sapling
+Hickory Sapling
+Maple Sapling
+Oak Sapling
+Pine Sapling
+Sequoia Sapling
+Spruce Sapling
+Sycamore Sapling
+White Cedar Sapling
+Willow Sapling
+Kapok Sapling
+Acacia Sapling
+Rosewood Sapling
+Blackwood Sapling
+Palm Sapling
+Banana Sapling
+Cherry Sapling
+Green Apple Sapling
+Lemon Sapling
+Olive Sapling
+Orange Sapling
+Peach Sapling
+Plum Sapling
+Red Apple Sapling
+Banana Leaves
+Cherry Leaves
+Green Apple Leaves
+Lemon Leaves
+Olive Leaves
+Orange Leaves
+Peach Leaves
+Plum Leaves
+Red Apple Leaves
+Blackberry Bush
+Blueberry Bush
+Bunchberry Bush
+Cloudberry Bush
+Cranberry Bush
+Elderberry Bush
+Gooseberry Bush
+Raspberry Bush
+Snowberry Bush
+Strawberry Bush
+Wintergreen Berry Bush
+Granite Button
+Diorite Button
+Gabbro Button
+Shale Button
+Claystone Button
+Rocksalt Button
+Limestone Button
+Conglomerate Button
+Dolomite Button
+Chert Button
+Chalk Button
+Rhyolite Button
+Basalt Button
+Andesite Button
+Dacite Button
+Quartzite Button
+Slate Button
+Phyllite Button
+Schist Button
+Gneiss Button
+Marble Button
+Granite Button
+Granite Pressure Plate
+Diorite Pressure Plate
+Gabbro Pressure Plate
+Shale Pressure Plate
+Claystone Pressure Plate
+Rocksalt Pressure Plate
+Limestone Pressure Plate
+Conglomerate Pressure Plate
+Dolomite Pressure Plate
+Chert Pressure Plate
+Chalk Pressure Plate
+Rhyolite Pressure Plate
+Basalt Pressure Plate
+Andesite Pressure Plate
+Dacite Pressure Plate
+Quartzite Pressure Plate
+Slate Pressure Plate
+Phyllite Pressure Plate
+Schist Pressure Plate
+Gneiss Pressure Plate
+Marble Pressure Plate
+Granite Pressure Plate
+Barley
+Beets
+Cabbage
+Carrots
+Garlic
+Green Beans
+Jute
+Maize
+Oats
+Onion
+Potatoes
+Red Bell Peppers
+Rice
+Rye
+Soybeans
+Squash
+Sugarcane
+Tomatoes
+Wheat
+Yellow Bell Peppers
+Bismuth Lamp
+Bismuth Bronze Lamp
+Black Bronze Lamp
+Brass Lamp
+Bronze Lamp
+Copper Lamp
+Gold Lamp
+Lead Lamp
+Nickel Lamp
+Rose Gold Lamp
+Silver Lamp
+Tin Lamp
+Zinc Lamp
+Sterling Silver Lamp
+Wrought Iron Lamp
+Pig Iron Lamp
+Steel Lamp
+Platinum Lamp
+Black Steel Lamp
+Blue Steel Lamp
+Red Steel Lamp
+%s Bismuth Lamp
+%s Bismuth Bronze Lamp
+%s Black Bronze Lamp
+%s Brass Lamp
+%s Bronze Lamp
+%s Copper Lamp
+%s Gold Lamp
+%s Lead Lamp
+%s Nickel Lamp
+%s Rose Gold Lamp
+%s Silver Lamp
+%s Tin Lamp
+%s Zinc Lamp
+%s Sterling Silver Lamp
+%s Wrought Iron Lamp
+%s Pig Iron Lamp
+%s Steel Lamp
+%s Platinum Lamp
+%s Black Steel Lamp
+%s Blue Steel Lamp
+%s Red Steel Lamp
+TFC Debug Wand
+Firestarter
+Straw
+Leather
+Spindle
+Quern Handstone
+Bucket
+%s Bucket
+Jug
+%s Jug
+Unfired Clay Flower Pot
+Mortar
+Halter
+Wrought Iron Grill
+Alabaster Brick
+Gold Rod
+Wrought Iron Rod
+Steel Rod
+Brass Mechanisms
+Glue
+Native Copper
+Native Gold
+Native Platinum
+Hematite
+Native Silver
+Cassiterite
+Galena
+Bismuthinite
+Garnierite
+Malachite
+Magnetite
+Limonite
+Sphalerite
+Tetrahedrite
+Bituminous Coal
+Lignite
+Kaolinite
+Gypsum
+Satinspar
+Selenite
+Graphite
+Kimberlite
+Petrified Wood
+Sulfur
+Jet
+Microcline
+Pitchblende
+Cinnabar
+Cryolite
+Saltpeter
+Serpentine
+Sylvite
+Borax
+Olivine
+Lapis Lazuli
+Poor Native Copper
+Poor Native Gold
+Poor Native Platinum
+Poor Hematite
+Poor Native Silver
+Poor Cassiterite
+Poor Galena
+Poor Bismuthinite
+Poor Garnierite
+Poor Malachite
+Poor Magnetite
+Poor Limonite
+Poor Sphalerite
+Poor Tetrahedrite
+Poor Bituminous Coal
+Poor Lignite
+Poor Kaolinite
+Poor Gypsum
+Poor Satinspar
+Poor Selenite
+Poor Graphite
+Poor Kimberlite
+Poor Petrified Wood
+Poor Sulfur
+Poor Jet
+Poor Microcline
+Poor Pitchblende
+Poor Cinnabar
+Poor Cryolite
+Poor Saltpeter
+Poor Serpentine
+Poor Sylvite
+Poor Borax
+Poor Olivine
+Poor Lapis Lazuli
+Rich Native Copper
+Rich Native Gold
+Rich Native Platinum
+Rich Hematite
+Rich Native Silver
+Rich Cassiterite
+Rich Galena
+Rich Bismuthinite
+Rich Garnierite
+Rich Malachite
+Rich Magnetite
+Rich Limonite
+Rich Sphalerite
+Rich Tetrahedrite
+Rich Bituminous Coal
+Rich Lignite
+Rich Kaolinite
+Rich Gypsum
+Rich Satinspar
+Rich Selenite
+Rich Graphite
+Rich Kimberlite
+Rich Petrified Wood
+Rich Sulfur
+Rich Jet
+Rich Microcline
+Rich Pitchblende
+Rich Cinnabar
+Rich Cryolite
+Rich Saltpeter
+Rich Serpentine
+Rich Sylvite
+Rich Borax
+Rich Olivine
+Rich Lapis Lazuli
+Native Copper Nugget
+Native Gold Nugget
+Native Platinum Nugget
+Small Hematite
+Native Silver Nugget
+Small Cassiterite
+Small Galena
+Small Bismuthinite
+Small Garnierite
+Small Malachite
+Small Magnetite
+Small Limonite
+Small Sphalerite
+Small Tetrahedrite
+Small Bituminous Coal
+Small Lignite
+Small Kaolinite
+Small Gypsum
+Small Satinspar
+Small Selenite
+Small Graphite
+Small Kimberlite
+Small Petrified Wood
+Small Sulfur
+Small Jet
+Small Microcline
+Small Pitchblende
+Small Cinnabar
+Small Cryolite
+Small Saltpeter
+Small Serpentine
+Small Sylvite
+Small Borax
+Small Olivine
+Small Lapis Lazuli
+Granite Rock
+Diorite Rock
+Gabbro Rock
+Shale Rock
+Claystone Rock
+Rocksalt Rock
+Limestone Rock
+Conglomerate Rock
+Dolomite Rock
+Chert Rock
+Chalk Rock
+Rhyolite Rock
+Basalt Rock
+Andesite Rock
+Dacite Rock
+Quartzite Rock
+Slate Rock
+Phyllite Rock
+Schist Rock
+Gneiss Rock
+Marble Rock
+Granite Rock
+Granite Brick
+Diorite Brick
+Gabbro Brick
+Shale Brick
+Claystone Brick
+Rocksalt Brick
+Limestone Brick
+Conglomerate Brick
+Dolomite Brick
+Chert Brick
+Chalk Brick
+Rhyolite Brick
+Basalt Brick
+Andesite Brick
+Dacite Brick
+Quartzite Brick
+Slate Brick
+Phyllite Brick
+Schist Brick
+Gneiss Brick
+Marble Brick
+Granite Brick
+Bunch of Sticks
+Ash Lumber
+Aspen Lumber
+Birch Lumber
+Chestnut Lumber
+Douglas Fir Lumber
+Hickory Lumber
+Maple Lumber
+Oak Lumber
+Pine Lumber
+Sequoia Lumber
+Spruce Lumber
+Sycamore Lumber
+White Cedar Lumber
+Willow Lumber
+Kapok Lumber
+Acacia Lumber
+Rosewood Lumber
+Blackwood Lumber
+Palm Lumber
+Ash Boat
+Aspen Boat
+Birch Boat
+Chestnut Boat
+Douglas Fir Boat
+Hickory Boat
+Maple Boat
+Oak Boat
+Pine Boat
+Sequoia Boat
+Spruce Boat
+Sycamore Boat
+White Cedar Boat
+Willow Boat
+Kapok Boat
+Acacia Boat
+Rosewood Boat
+Blackwood Boat
+Palm Boat
+Ash Door
+Aspen Door
+Birch Door
+Chestnut Door
+Douglas Fir Door
+Hickory Door
+Maple Door
+Oak Door
+Pine Door
+Sequoia Door
+Spruce Door
+Sycamore Door
+White Cedar Door
+Willow Door
+Kapok Door
+Acacia Door
+Rosewood Door
+Blackwood Door
+Palm Door
+Agate
+Amethyst
+Beryl
+Diamond
+Emerald
+Garnet
+Jade
+Jasper
+Opal
+Ruby
+Sapphire
+Topaz
+Tourmaline
+Flawed Agate
+Flawed Amethyst
+Flawed Beryl
+Flawed Diamond
+Flawed Emerald
+Flawed Garnet
+Flawed Jade
+Flawed Jasper
+Flawed Opal
+Flawed Ruby
+Flawed Sapphire
+Flawed Topaz
+Flawed Tourmaline
+Flawless Agate
+Flawless Amethyst
+Flawless Beryl
+Flawless Diamond
+Flawless Emerald
+Flawless Garnet
+Flawless Jade
+Flawless Jasper
+Flawless Opal
+Flawless Ruby
+Flawless Sapphire
+Flawless Topaz
+Flawless Tourmaline
+Chipped Agate
+Chipped Amethyst
+Chipped Beryl
+Chipped Diamond
+Chipped Emerald
+Chipped Garnet
+Chipped Jade
+Chipped Jasper
+Chipped Opal
+Chipped Ruby
+Chipped Sapphire
+Chipped Topaz
+Chipped Tourmaline
+Exquisite Agate
+Exquisite Amethyst
+Exquisite Beryl
+Exquisite Diamond
+Exquisite Emerald
+Exquisite Garnet
+Exquisite Jade
+Exquisite Jasper
+Exquisite Opal
+Exquisite Ruby
+Exquisite Sapphire
+Exquisite Topaz
+Exquisite Tourmaline
+Bismuth Ingot
+Bismuth Bronze Ingot
+Black Bronze Ingot
+Brass Ingot
+Bronze Ingot
+Copper Ingot
+Gold Ingot
+Lead Ingot
+Nickel Ingot
+Rose Gold Ingot
+Silver Ingot
+Tin Ingot
+Zinc Ingot
+Sterling Silver Ingot
+Wrought Iron Ingot
+Pig Iron Ingot
+Steel Ingot
+Platinum Ingot
+Black Steel Ingot
+Blue Steel Ingot
+Red Steel Ingot
+Bismuth Double Ingot
+Bismuth Bronze Double Ingot
+Black Bronze Double Ingot
+Brass Double Ingot
+Bronze Double Ingot
+Copper Double Ingot
+Gold Double Ingot
+Lead Double Ingot
+Nickel Double Ingot
+Rose Gold Double Ingot
+Silver Double Ingot
+Tin Double Ingot
+Zinc Double Ingot
+Sterling Silver Double Ingot
+Wrought Iron Double Ingot
+Pig Iron Double Ingot
+Steel Double Ingot
+Platinum Double Ingot
+Black Steel Double Ingot
+Blue Steel Double Ingot
+Red Steel Double Ingot
+Bismuth Scrap
+Bismuth Bronze Scrap
+Black Bronze Scrap
+Brass Scrap
+Bronze Scrap
+Copper Scrap
+Gold Scrap
+Lead Scrap
+Nickel Scrap
+Rose Gold Scrap
+Silver Scrap
+Tin Scrap
+Zinc Scrap
+Sterling Silver Scrap
+Wrought Iron Scrap
+Pig Iron Scrap
+Steel Scrap
+Platinum Scrap
+Black Steel Scrap
+Blue Steel Scrap
+Red Steel Scrap
+Bismuth Dust
+Bismuth Bronze Dust
+Black Bronze Dust
+Brass Dust
+Bronze Dust
+Copper Dust
+Gold Dust
+Lead Dust
+Nickel Dust
+Rose Gold Dust
+Silver Dust
+Tin Dust
+Zinc Dust
+Sterling Silver Dust
+Wrought Iron Dust
+Pig Iron Dust
+Steel Dust
+Platinum Dust
+Black Steel Dust
+Blue Steel Dust
+Red Steel Dust
+Bismuth Nugget
+Bismuth Bronze Nugget
+Black Bronze Nugget
+Brass Nugget
+Bronze Nugget
+Copper Nugget
+Gold Nugget
+Lead Nugget
+Nickel Nugget
+Rose Gold Nugget
+Silver Nugget
+Tin Nugget
+Zinc Nugget
+Sterling Silver Nugget
+Wrought Iron Nugget
+Pig Iron Nugget
+Steel Nugget
+Platinum Nugget
+Black Steel Nugget
+Blue Steel Nugget
+Red Steel Nugget
+Bismuth Sheet
+Bismuth Bronze Sheet
+Black Bronze Sheet
+Brass Sheet
+Bronze Sheet
+Copper Sheet
+Gold Sheet
+Lead Sheet
+Nickel Sheet
+Rose Gold Sheet
+Silver Sheet
+Tin Sheet
+Zinc Sheet
+Sterling Silver Sheet
+Wrought Iron Sheet
+Pig Iron Sheet
+Steel Sheet
+Platinum Sheet
+Black Steel Sheet
+Blue Steel Sheet
+Red Steel Sheet
+Bismuth Double Sheet
+Bismuth Bronze Double Sheet
+Black Bronze Double Sheet
+Brass Double Sheet
+Bronze Double Sheet
+Copper Double Sheet
+Gold Double Sheet
+Lead Double Sheet
+Nickel Double Sheet
+Rose Gold Double Sheet
+Silver Double Sheet
+Tin Double Sheet
+Zinc Double Sheet
+Sterling Silver Double Sheet
+Wrought Iron Double Sheet
+Pig Iron Double Sheet
+Steel Double Sheet
+Platinum Double Sheet
+Black Steel Double Sheet
+Blue Steel Double Sheet
+Red Steel Double Sheet
+Bismuth Bronze Anvil
+Black Bronze Anvil
+Bronze Anvil
+Copper Anvil
+Wrought Iron Anvil
+Steel Anvil
+Black Steel Anvil
+Blue Steel Anvil
+Red Steel Anvil
+Bismuth Bronze Tuyere
+Black Bronze Tuyere
+Bronze Tuyere
+Copper Tuyere
+Wrought Iron Tuyere
+Steel Tuyere
+Black Steel Tuyere
+Blue Steel Tuyere
+Red Steel Tuyere
+Bismuth Bronze Pickaxe
+Black Bronze Pickaxe
+Bronze Pickaxe
+Copper Pickaxe
+Wrought Iron Pickaxe
+Steel Pickaxe
+Black Steel Pickaxe
+Blue Steel Pickaxe
+Red Steel Pickaxe
+Bismuth Bronze Pickaxe Head
+Black Bronze Pickaxe Head
+Bronze Pickaxe Head
+Copper Pickaxe Head
+Wrought Iron Pickaxe Head
+Steel Pickaxe Head
+Black Steel Pickaxe Head
+Blue Steel Pickaxe Head
+Red Steel Pickaxe Head
+Bismuth Bronze Shovel
+Black Bronze Shovel
+Bronze Shovel
+Copper Shovel
+Wrought Iron Shovel
+Steel Shovel
+Black Steel Shovel
+Blue Steel Shovel
+Red Steel Shovel
+Bismuth Bronze Shovel Head
+Black Bronze Shovel Head
+Bronze Shovel Head
+Copper Shovel Head
+Wrought Iron Shovel Head
+Steel Shovel Head
+Black Steel Shovel Head
+Blue Steel Shovel Head
+Red Steel Shovel Head
+Bismuth Bronze Axe
+Black Bronze Axe
+Bronze Axe
+Copper Axe
+Wrought Iron Axe
+Steel Axe
+Black Steel Axe
+Blue Steel Axe
+Red Steel Axe
+Bismuth Bronze Axe Head
+Black Bronze Axe Head
+Bronze Axe Head
+Copper Axe Head
+Wrought Iron Axe Head
+Steel Axe Head
+Black Steel Axe Head
+Blue Steel Axe Head
+Red Steel Axe Head
+Bismuth Bronze Hoe
+Black Bronze Hoe
+Bronze Hoe
+Copper Hoe
+Wrought Iron Hoe
+Steel Hoe
+Black Steel Hoe
+Blue Steel Hoe
+Red Steel Hoe
+Bismuth Bronze Hoe Head
+Black Bronze Hoe Head
+Bronze Hoe Head
+Copper Hoe Head
+Wrought Iron Hoe Head
+Steel Hoe Head
+Black Steel Hoe Head
+Blue Steel Hoe Head
+Red Steel Hoe Head
+Bismuth Bronze Chisel
+Black Bronze Chisel
+Bronze Chisel
+Copper Chisel
+Wrought Iron Chisel
+Steel Chisel
+Black Steel Chisel
+Blue Steel Chisel
+Red Steel Chisel
+Bismuth Bronze Chisel Head
+Black Bronze Chisel Head
+Bronze Chisel Head
+Copper Chisel Head
+Wrought Iron Chisel Head
+Steel Chisel Head
+Black Steel Chisel Head
+Blue Steel Chisel Head
+Red Steel Chisel Head
+Bismuth Bronze Sword
+Black Bronze Sword
+Bronze Sword
+Copper Sword
+Wrought Iron Sword
+Steel Sword
+Black Steel Sword
+Blue Steel Sword
+Red Steel Sword
+Bismuth Bronze Sword Blade
+Black Bronze Sword Blade
+Bronze Sword Blade
+Copper Sword Blade
+Wrought Iron Sword Blade
+Steel Sword Blade
+Black Steel Sword Blade
+Blue Steel Sword Blade
+Red Steel Sword Blade
+Bismuth Bronze Mace
+Black Bronze Mace
+Bronze Mace
+Copper Mace
+Wrought Iron Mace
+Steel Mace
+Black Steel Mace
+Blue Steel Mace
+Red Steel Mace
+Bismuth Bronze Mace Head
+Black Bronze Mace Head
+Bronze Mace Head
+Copper Mace Head
+Wrought Iron Mace Head
+Steel Mace Head
+Black Steel Mace Head
+Blue Steel Mace Head
+Red Steel Mace Head
+Bismuth Bronze Saw
+Black Bronze Saw
+Bronze Saw
+Copper Saw
+Wrought Iron Saw
+Steel Saw
+Black Steel Saw
+Blue Steel Saw
+Red Steel Saw
+Bismuth Bronze Saw Blade
+Black Bronze Saw Blade
+Bronze Saw Blade
+Copper Saw Blade
+Wrought Iron Saw Blade
+Steel Saw Blade
+Black Steel Saw Blade
+Blue Steel Saw Blade
+Red Steel Saw Blade
+Bismuth Bronze Shears
+Black Bronze Shears
+Bronze Shears
+Copper Shears
+Wrought Iron Shears
+Steel Shears
+Black Steel Shears
+Blue Steel Shears
+Red Steel Shears
+Bismuth Bronze Shield
+Black Bronze Shield
+Bronze Shield
+Copper Shield
+Wrought Iron Shield
+Steel Shield
+Black Steel Shield
+Blue Steel Shield
+Red Steel Shield
+Bismuth Bronze Javelin
+Black Bronze Javelin
+Bronze Javelin
+Copper Javelin
+Wrought Iron Javelin
+Steel Javelin
+Black Steel Javelin
+Blue Steel Javelin
+Red Steel Javelin
+Bismuth Bronze Javelin Head
+Black Bronze Javelin Head
+Bronze Javelin Head
+Copper Javelin Head
+Wrought Iron Javelin Head
+Steel Javelin Head
+Black Steel Javelin Head
+Blue Steel Javelin Head
+Red Steel Javelin Head
+Bismuth Bronze Hammer
+Black Bronze Hammer
+Bronze Hammer
+Copper Hammer
+Wrought Iron Hammer
+Steel Hammer
+Black Steel Hammer
+Blue Steel Hammer
+Red Steel Hammer
+Bismuth Bronze Hammer Head
+Black Bronze Hammer Head
+Bronze Hammer Head
+Copper Hammer Head
+Wrought Iron Hammer Head
+Steel Hammer Head
+Black Steel Hammer Head
+Blue Steel Hammer Head
+Red Steel Hammer Head
+Bismuth Bronze Prospector's Pickaxe
+Black Bronze Prospector's Pickaxe
+Bronze Prospector's Pickaxe
+Copper Prospector's Pickaxe
+Wrought Iron Prospector's Pickaxe
+Steel Prospector's Pickaxe
+Black Steel Prospector's Pickaxe
+Blue Steel Prospector's Pickaxe
+Red Steel Prospector's Pickaxe
+Bismuth Bronze Prospector's Pickaxe Head
+Black Bronze Prospector's Pickaxe Head
+Bronze Prospector's Pickaxe Head
+Copper Prospector's Pickaxe Head
+Wrought Iron Prospector's Pickaxe Head
+Steel Prospector's Pickaxe Head
+Black Steel Prospector's Pickaxe Head
+Blue Steel Prospector's Pickaxe Head
+Red Steel Prospector's Pickaxe Head
+Bismuth Bronze Knife
+Black Bronze Knife
+Bronze Knife
+Copper Knife
+Wrought Iron Knife
+Steel Knife
+Black Steel Knife
+Blue Steel Knife
+Red Steel Knife
+Bismuth Bronze Knife Blade
+Black Bronze Knife Blade
+Bronze Knife Blade
+Copper Knife Blade
+Wrought Iron Knife Blade
+Steel Knife Blade
+Black Steel Knife Blade
+Blue Steel Knife Blade
+Red Steel Knife Blade
+Bismuth Bronze Scythe
+Black Bronze Scythe
+Bronze Scythe
+Copper Scythe
+Wrought Iron Scythe
+Steel Scythe
+Black Steel Scythe
+Blue Steel Scythe
+Red Steel Scythe
+Bismuth Bronze Scythe Blade
+Black Bronze Scythe Blade
+Bronze Scythe Blade
+Copper Scythe Blade
+Wrought Iron Scythe Blade
+Steel Scythe Blade
+Black Steel Scythe Blade
+Blue Steel Scythe Blade
+Red Steel Scythe Blade
+Bismuth Bronze Chestplate
+Black Bronze Chestplate
+Bronze Chestplate
+Copper Chestplate
+Wrought Iron Chestplate
+Steel Chestplate
+Black Steel Chestplate
+Blue Steel Chestplate
+Red Steel Chestplate
+Bismuth Bronze Greaves
+Black Bronze Greaves
+Bronze Greaves
+Copper Greaves
+Wrought Iron Greaves
+Steel Greaves
+Black Steel Greaves
+Blue Steel Greaves
+Red Steel Greaves
+Bismuth Bronze Boots
+Black Bronze Boots
+Bronze Boots
+Copper Boots
+Wrought Iron Boots
+Steel Boots
+Black Steel Boots
+Blue Steel Boots
+Red Steel Boots
+Blue Steel Bucket
+Red Steel Bucket
+%s Bucket
+%s Bucket
+Bismuth Bronze Helmet
+Black Bronze Helmet
+Bronze Helmet
+Copper Helmet
+Wrought Iron Helmet
+Steel Helmet
+Black Steel Helmet
+Blue Steel Helmet
+Red Steel Helmet
+Unfinished Bismuth Bronze Chestplate
+Unfinished Black Bronze Chestplate
+Unfinished Bronze Chestplate
+Unfinished Copper Chestplate
+Unfinished Wrought Iron Chestplate
+Unfinished Steel Chestplate
+Unfinished Black Steel Chestplate
+Unfinished Blue Steel Chestplate
+Unfinished Red Steel Chestplate
+Unfinished Bismuth Bronze Boots
+Unfinished Black Bronze Boots
+Unfinished Bronze Boots
+Unfinished Copper Boots
+Unfinished Wrought Iron Boots
+Unfinished Steel Boots
+Unfinished Black Steel Boots
+Unfinished Blue Steel Boots
+Unfinished Red Steel Boots
+Unfinished Bismuth Bronze Helmet
+Unfinished Black Bronze Helmet
+Unfinished Bronze Helmet
+Unfinished Copper Helmet
+Unfinished Wrought Iron Helmet
+Unfinished Steel Helmet
+Unfinished Black Steel Helmet
+Unfinished Blue Steel Helmet
+Unfinished Red Steel Helmet
+Unfinished Bismuth Bronze Greaves
+Unfinished Black Bronze Greaves
+Unfinished Bronze Greaves
+Unfinished Copper Greaves
+Unfinished Wrought Iron Greaves
+Unfinished Steel Greaves
+Unfinished Black Steel Greaves
+Unfinished Blue Steel Greaves
+Unfinished Red Steel Greaves
+Bismuth Lamp
+Bismuth Bronze Lamp
+Black Bronze Lamp
+Brass Lamp
+Bronze Lamp
+Copper Lamp
+Gold Lamp
+Lead Lamp
+Nickel Lamp
+Rose Gold Lamp
+Silver Lamp
+Tin Lamp
+Zinc Lamp
+Sterling Silver Lamp
+Wrought Iron Lamp
+Pig Iron Lamp
+Steel Lamp
+Platinum Lamp
+Black Steel Lamp
+Blue Steel Lamp
+Red Steel Lamp
+Rock Axe Head
+Rock Shovel Head
+Rock Hoe Head
+Rock Knife Blade
+Rock Javelin Head
+Rock Hammer Head
+Rock Axe Head
+Rock Shovel Head
+Rock Hoe Head
+Rock Knife Blade
+Rock Javelin Head
+Rock Hammer Head
+Rock Axe Head
+Rock Shovel Head
+Rock Hoe Head
+Rock Knife Blade
+Rock Javelin Head
+Rock Hammer Head
+Rock Axe Head
+Rock Shovel Head
+Rock Hoe Head
+Rock Knife Blade
+Rock Javelin Head
+Rock Hammer Head
+Rock Axe
+Rock Shovel
+Rock Hoe
+Rock Knife
+Rock Javelin
+Rock Hammer
+Rock Axe
+Rock Shovel
+Rock Hoe
+Rock Knife
+Rock Javelin
+Rock Hammer
+Rock Axe
+Rock Shovel
+Rock Hoe
+Rock Knife
+Rock Javelin
+Rock Hammer
+Rock Axe
+Rock Shovel
+Rock Hoe
+Rock Knife
+Rock Javelin
+Rock Hammer
+Unshaped High Carbon Steel
+Unshaped Black High Carbon Steel
+Unshaped Blue High Carbon Steel
+Unshaped Red High Carbon Steel
+Unshaped Weak Steel
+Unshaped Black Weak Steel
+Unshaped Blue Weak Steel
+Unshaped Red Weak Steel
+High Carbon Steel Ingot
+Black High Carbon Steel Ingot
+Blue High Carbon Steel Ingot
+Red High Carbon Steel Ingot
+Weak Steel Ingot
+Black Weak Steel Ingot
+Blue Weak Steel Ingot
+Red Weak Steel Ingot
+Unshaped Unknown Metal
+Unknown Metal Ingot
+Empty Goldpan
+Goldpan with Sand
+Goldpan with Clay
+Goldpan with Dirt
+Goldpan with Gravel
+Flux
+Coke
+Kaolinite Powder
+Graphite Powder
+Sulfur Powder
+Saltpeter Powder
+Hematite Powder
+Lapis Lazuli Powder
+Limonite Powder
+Malachite Powder
+Salt
+Fertilizer
+Charcoal Powder
+Unshaped Bismuth
+Unshaped Bismuth Bronze
+Unshaped Black Bronze
+Unshaped Brass
+Unshaped Bronze
+Unshaped Copper
+Unshaped Gold
+Unshaped Lead
+Unshaped Nickel
+Unshaped Rose Gold
+Unshaped Silver
+Unshaped Tin
+Unshaped Zinc
+Unshaped Sterling Silver
+Unshaped Wrought Iron
+Unshaped Pig Iron
+Unshaped Platinum
+Unshaped Steel
+Unshaped Black Steel
+Unshaped Blue Steel
+Unshaped Red Steel
+Unshaped Weak Steel
+Unshaped Weak Black Steel
+Unshaped Weak Blue Steel
+Unshaped Weak Red Steel
+Unshaped High Carbon Steel
+Unshaped High Carbon Black Steel
+Unshaped High Carbon Blue Steel
+Unshaped High Carbon Red Steel
+Empty Ingot Mold
+Unknown Alloy
+Pick Head Mold
+Shovel Head Mold
+Axe Head Mold
+Hoe Head Mold
+Chisel Head Mold
+Sword Blade Mold
+Mace Head Mold
+Saw Blade Mold
+Javelin Head Mold
+Hammer Head Mold
+Prospectors Pickaxe Head Mold
+Knife Blade Mold
+Scythe Blade Mold
+Bronze Pick Head Mold
+Bronze Shovel Head Mold
+Bronze Axe Head Mold
+Bronze Hoe Head Mold
+Bronze Chisel Head Mold
+Bronze Sword Blade Mold
+Bronze Mace Head Mold
+Bronze Saw Blade Mold
+Bronze Javelin Head Mold
+Bronze Hammer Head Mold
+Bronze Prospectors Pickaxe Head Mold
+Bronze Knife Blade Mold
+Bronze Scythe Blade Mold
+Black Bronze Pick Head Mold
+Black Bronze Shovel Head Mold
+Black Bronze Axe Head Mold
+Black Bronze Hoe Head Mold
+Black Bronze Chisel Head Mold
+Black Bronze Sword Blade Mold
+Black Bronze Mace Head Mold
+Black Bronze Saw Blade Mold
+Black Bronze Javelin Head Mold
+Black Bronze Hammer Head Mold
+Black Bronze Prospectors Pickaxe Head Mold
+Black Bronze Knife Blade Mold
+Black Bronze Scythe Blade Mold
+Bismuth Bronze Pick Head Mold
+Bismuth Bronze Shovel Head Mold
+Bismuth Bronze Axe Head Mold
+Bismuth Bronze Hoe Head Mold
+Bismuth Bronze Chisel Head Mold
+Bismuth Bronze Sword Blade Mold
+Bismuth Bronze Mace Head Mold
+Bismuth Bronze Saw Blade Mold
+Bismuth Bronze Javelin Head Mold
+Bismuth Bronze Hammer Head Mold
+Bismuth Bronze Prospectors Pickaxe Head Mold
+Bismuth Bronze Knife Blade Mold
+Bismuth Bronze Scythe Blade Mold
+Copper Pick Head Mold
+Copper Shovel Head Mold
+Copper Axe Head Mold
+Copper Hoe Head Mold
+Copper Chisel Head Mold
+Copper Sword Blade Mold
+Copper Mace Head Mold
+Copper Saw Blade Mold
+Copper Javelin Head Mold
+Copper Hammer Head Mold
+Copper Prospectors Pickaxe Head Mold
+Copper Knife Blade Mold
+Copper Scythe Blade Mold
+Unfired Ingot Mold
+Unfired Pick Head Mold
+Unfired Shovel Head Mold
+Unfired Axe Head Mold
+Unfired Hoe Head Mold
+Unfired Chisel Head Mold
+Unfired Sword Blade Mold
+Unfired Mace Head Mold
+Unfired Saw Blade Mold
+Unfired Javelin Head Mold
+Unfired Hammer Head Mold
+Unfired Prospectors Pickaxe Head Mold
+Unfired Knife Blade Mold
+Unfired Scythe Blade Mold
+Small Vessel
+Small Unfired Vessel
+Small White Vessel
+Small Orange Vessel
+Small Magenta Vessel
+Small Light Blue Vessel
+Small Yellow Vessel
+Small Lime Vessel
+Small Pink Vessel
+Small Gray Vessel
+Small Light Gray Vessel
+Small Cyan Vessel
+Small Purple Vessel
+Small Blue Vessel
+Small Brown Vessel
+Small Green Vessel
+Small Red Vessel
+Small Black Vessel
+Small Unfired White Vessel
+Small Unfired Orange Vessel
+Small Unfired Magenta Vessel
+Small Unfired Light Blue Vessel
+Small Unfired Yellow Vessel
+Small Unfired Lime Vessel
+Small Unfired Pink Vessel
+Small Unfired Gray Vessel
+Small Unfired Light Gray Vessel
+Small Unfired Cyan Vessel
+Small Unfired Purple Vessel
+Small Unfired Blue Vessel
+Small Unfired Brown Vessel
+Small Unfired Green Vessel
+Small Unfired Red Vessel
+Small Unfired Black Vessel
+Unfired Large Vessel
+Spindle Head
+Unfired Spindle Head
+Ceramic Pot
+Unfired Pot
+Unfired Jug
+Ceramic Bowl
+Unfired Bowl
+Fire Brick
+Unfired Fire Brick
+Fire Clay
+Unfired Clay Brick
+Small Raw Hide
+Medium Raw Hide
+Large Raw Hide
+Small Soaked Hide
+Medium Soaked Hide
+Large Soaked Hide
+Small Scraped Hide
+Medium Scraped Hide
+Large Scraped Hide
+Small Prepared Hide
+Medium Prepared Hide
+Large Prepared Hide
+Small Sheep Skin
+Medium Sheep Skin
+Large Sheep Skin
+Banana
+Blackberry
+Blueberry
+Bunchberry
+Cherry
+Cloudberry
+Cranberry
+Elderberry
+Gooseberry
+Green Apple
+Lemon
+Olive
+Olive Paste
+Orange
+Peach
+Plum
+Raspberry
+Red Apple
+Snowberry
+Strawberry
+Wintergreen Berry
+Barley
+Barley Grain
+Barley Flour
+Barley Dough
+Barley Bread
+Maize
+Maize Grain
+Cornbread
+Cornmeal Flour
+Cornmeal Dough
+Oat
+Oat Grain
+Oat Flour
+Oat Dough
+Oat Bread
+Rice
+Rice Grain
+Rice Flour
+Rice Dough
+Rice Bread
+Rye
+Rye Grain
+Rye Flour
+Rye Dough
+Rye Bread
+Wheat
+Wheat Grain
+Wheat Flour
+Wheat Dough
+Wheat Bread
+Beet
+Cabbage
+Carrot
+Garlic
+Green Bean
+Green Bell Pepper
+Onion
+Potato
+Red Bell Pepper
+Seaweed
+Soybean
+Squash
+Tomato
+Yellow Bell Pepper
+Cheese
+Cooked Egg
+Sugarcane
+Raw Beef
+Raw Pork
+Raw Chicken
+Raw Mutton
+Raw Fish
+Raw Bear Meat
+Raw Calamari
+Raw Horse Meat
+Raw Pheasant
+Raw Venison
+Raw Rabbit Meat
+Raw Wolf Meat
+Raw Hyena Meat
+Raw Duck
+Raw Chevon
+Raw Gran Feline Meat
+Raw Camelidae
+Cooked Beef
+Cooked Pork
+Cooked Chicken
+Cooked Mutton
+Cooked Fish
+Cooked Bear Meat
+Cooked Calamari
+Cooked Horse Meat
+Cooked Pheasant
+Cooked Venison
+Cooked Rabbit Meat
+Cooked Wolf Meat
+Cooked Hyena Meat
+Cooked Duck
+Cooked Chevon
+Cooked Gran Feline
+Cooked Camelidae
+Barley Bread Sandwich
+Cornbread Sandwich
+Rye Bread Sandwich
+Oat Bread Sandwich
+Wheat Bread Sandwich
+Rice Bread Sandwich
+Wholesome Soup
+Tasty Soup
+Filling Soup
+Hearty Soup
+Creamy Soup
+Cruchy Salad
+Sweet Salad
+Healthy Salad
+Flavorful Salad
+Disgusting Salad
+Barley Seeds
+Beet Seeds
+Cabbage Seeds
+Carrot Seeds
+Garlic Seeds
+Green Bean Seeds
+Jute Seeds
+Maize Seeds
+Oat Seeds
+Onion Seeds
+Potato Seeds
+Red Bell Pepper Seeds
+Rice Seeds
+Rye Seeds
+Soybean Seeds
+Squash Seeds
+Sugarcane Seeds
+Tomato Seeds
+Wheat Seeds
+Yellow Bell Pepper Seeds
+Pumpkin Seeds
+Melon Seeds
+Jute
+Jute Fiber
+Dirty Jute Net
+Jute Net
+Jute Disc
+Olive Jute Disc
+Burlap Cloth
+Raw Bloom
+Refined Bloom
+Raw Iron Bloom
+Refined Iron Bloom
+Wool
+Wool Yarn
+Wool Cloth
+Silk Cloth
+Quiver
+Sheep
+Cow
+Bear
+Pig
+Chicken
+Deer
+Pheasant
+Rabbit
+Wolf
+Horse
+Donkey
+Mule
+Parrot
+Llama
+Polar Bear
+Alpaca
+Duck
+Goat
+Black Panther
+Ocelot
+Saber Tooth
+Camel
+Lion
+Hyena
+%1$s died of dehydration
+%1$s died of food poisoning
+%1$s died by having it's feathers plucked
+Overburdened
+Thirst
+Food Poisoning
+Sheep♂
+Sheep♀
+Bull
+Cow
+Bear♂
+Bear♀
+Pig♂
+Pig♀
+Rooster
+Chicken
+Buck
+Doe
+Pheasant♂
+Pheasant♀
+Rabbit♂
+Rabbit♀
+Wolf♂
+Wolf♀
+Stallion
+Mare
+Donkey♂
+Donkey♀
+Mule♂
+Mule♀
+Parrot♂
+Parrot♀
+Llama♂
+Llama♀
+Polar Bear♂
+Polar Bear♀
+Alpaca♂
+Alpaca♀
+Drake
+Duck
+Goat♂
+Goat♀
+Ocelot♂
+Ocelot♀
+Cat♂
+Cat♀
+Panther♂
+Panther♀
+Saber Tooth♂
+Saber Tooth♀
+Camel♂
+Camel♀
+Lion
+Lioness
+Hyena♂
+Hyena♀
+Ceramic item breaks
+Firestarter sizzles
+The sound of music!!!
+Javelin thrown
+Rooster cries
+Quern grinds
+Bellows puff
+Dirt slides
+Rock slides
+Hammer bangs on anvil
+Deer snorts
+Deer cries
+Deer hurts
+Deer dies
+Bear grunts
+Bear cries
+Baby bear cries
+Bear hurts
+Bear dies
+Pheasant clucks
+Baby pheasant clucks
+Pheasant hurts
+Pheasant dies
+Alpaca bleats
+Alpaca bleats
+Alpaca hurt
+Alpaca dies
+Footsteps
+Duck clucks
+Duck clucks
+Duck hurt
+Duck dies
+Goat baahs
+Goat baahs
+Goat hurt
+Goat dies
+Camel grunts
+Camel cries
+Camel hurt
+Camel dies
+Panther grunts
+Panther cries
+Panther hurt
+Panther dies
+Saber Tooth grunts
+Saber Tooth cries
+Saber Tooth hurt
+Saber Tooth dies
+Lion grunts
+Lion roars
+Lion hurt
+Lion dies
+Hyena grunts
+Hyena cries
+Hyena hurts
+Hyena dies
+Crickets
+Frogs
+TerraFirmaCraft
+TFC's main line of progression.
+Just a Rock
+Pick up a Stone from the ground.
+Paleolithic!
+Enter the Stone Age by knapping a stone tool.
+Grasping at Straws
+Cut some grass with a knife or scythe to get straw.
+Timberrr!
+Use an axe to get cut down a tree.
+Embers
+Craft a firestarter from two sticks.
+The Fire Pit
+Throw a log and three stick to the ground, then light them up.
+A Better Fuel
+Make charcoal by lighting some log piles on a pit and covering them.
+Locating Clay
+Find and dig clay for pottery.
+Handicrafts
+Knap a piece of pottery from clay and fire it in a pit kiln.
+D'OH!
+Get an Unknown Ingot from a botched alloy.
+Hammer Time
+Hit some igneous stone with a hammer to make your first anvil.
+Pouring Metal
+Craft a fired mold with which to cast a metal tool.
+The Copper Age
+Enter the Copper Age by making a copper tool.
+Time to Mine (Finally!)
+Craft a pickaxe.
+Carpenter
+Craft a saw.
+Do a Barrel Roll!
+Craft a barrel using lumber made with your saw.
+The Grind
+ Craft a Quern.
+In Flux
+Get some flux to start welding.
+Dropping an Anvil
+Craft a Copper Anvil from double ingots made via welding.
+The Flattening
+Craft a metal sheet from a double ingot.
+Take Cover!
+Craft a shield from a double sheet.
+Soak and Scrape
+Soak a raw hide in limewater, then scrape it on top of a log.
+Genuine Leather
+Soak a scraped hide in fresh water and then in tannin.
+Blow You Away
+Use leather to make a bellows.
+The Bronze Age
+Enter the Bronze Age by crafting any Bronze Anvil.
+Ironworks
+Craft a Bloomery.
+In Bloom
+Use the bloomery to produce an iron bloom.
+The Iron Age
+Enter the Iron Age getting a wrought iron ingot.
+Knight in Shining Armor
+Equip a full iron armor set.
+Blast Off!
+Craft a Blast Furnace.
+Fireproof
+Craft some fire clay.
+Making a Chimney
+Make four fire brick blocks, for building a blast furnace.
+Metallurgic!
+Knap a Crucible from fire clay.
+Industrialized
+Get a Steel Ingot.
+Light My Fire
+Craft a Flint and Steel.
+Back In Black
+Get a Black Steel Ingot.
+Blue Ogre
+Get a Blue Steel Ingot.
+Red Ogre
+Get a Red Steel Ingot.
+Super Hot Sauce
+Craft a Blue Steel Bucket.
+Tsunami
+Craft a Red Steel Bucket.
+All This for a Bucket?!
+Combine the Red and Blue Steel Buckets into a vanilla Bucket.
+TerraFirmaCraft World
+Explore TFC's world for resources.
+Gatherer
+Get seeds from a wild crop.
+Farmer
+Harvest a fully grown crop.
+Baking Bread
+Make a loaf of bread.
+Botanist
+Get the seeds of every crop.
+Stupid Onions...
+Find a Rutabaga.
+Making Friends
+Familiarize an animal.
+Man's Best Friend
+Reach maximum familiarity with a wolf.
+Spinning Away
+Craft a spindle to turn wool into string.
+Loony Loom
+Craft a loom with which to turn string into cloth.
+Good Night's Rest
+Craft a bed using wool or silk cloth made in the loom.
+Hunter
+Kill an animal.
+Bear in Mind
+Kill a bear.
+A Weird Rock
+Pick up nugget from the ground.
+Prospecting
+Craft a prospector's pick.
+Geologist
+Get a rock from every stone type and a specimen from every gem.
+DIAM- Oh Wait...
+Find Diamonds.
+Carboniferous
+Find Bituminous Coal or Lignite.
+Writing Stone
+Find Graphite.
+Pink Unicorn
+Find Kaolinite.
+Good for your Plants
+Find Sylvite.
+Pretty Ironic
+Find Hematite, Limonite or Magnetite Ore.
+Gold Rush
+Find Navite Gold Ore.
+Silver Bullet
+Find Navite Silver Ore.
+Dime and Nickel
+Find Garnierite Ore.
+Contains %s
+Flux
+Air Temperature: %dºC
+Contains %d units of %s
+A guide for TFC-TNG, a total conversion mod for 1.12.2
+%d Minutes Remaining
+%d Hours Remaining
+%d Ticks Remaining
+Unlit
+Needs %d Straw
+Needs %d Logs
+Making: %s
+No Recipe
+Contains %dmB of %s
+Sealed: %s
+Making: %d units of %s
+Ores: %d/%d
+Fuel: %d/%d
+Not Formed
+Harvesting Seasons:
+Mature
+Dead Crop
+Wild Crop
+Growth: %s
+Growing
+Not Growing
+Can Milk
+Can Mate
+Has Eggs
+Becomes adult in %s
+Familiarized
+Not familiarized
+Animal is old
+Pregnant
+Shearable

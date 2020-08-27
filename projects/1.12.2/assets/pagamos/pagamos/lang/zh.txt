@@ -1,0 +1,55 @@
+Pagamos Portal Block
+Crystal Ice
+Cobble-Ice-Stone
+Crystal Stone
+Igloo Brick
+Packed Snow
+Freezer
+Running Freezer
+Marble
+Crystal Water
+Flowing Crystal Water
+Block of Amethyst
+Block of Sapphire
+Frozen Amethyst Ore
+Frozen Sapphire Ore
+Amethyst Ore
+Sapphire Ore
+Blue Fire
+Ice from a Creeper
+Stick of Ice
+Ice Shard
+Crystal-Stone Dust
+Ice Brick
+Crystal Gem
+Flint and Lapis
+Chisel
+Creeper Dust
+Feather of a Crystal Phoenix
+Amethyst Gem
+Sapphire Gem
+Ice Pickaxe
+Ice Shovel
+Ice Sword
+Ice Axe
+Crystal Spear
+Amethyst Pickaxe
+Amethyst Sword
+Amethyst Shovel
+Amethyst Spear
+Ice Creeper
+Crystal Phoenix
+Yeti
+Ice TNT
+Crystal Spear
+Phoenix Fireball
+Tail of the Crystal Phoenix
+Entering the Pagamos
+Leaving the Pagamos
+Pagamos
+Cold Portal lights
+Cold wind blows
+Crystal Phoenix screeches
+Crystal Phoenix fires
+Crystal Phoenix dies
+Ice cracks

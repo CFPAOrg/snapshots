@@ -1,0 +1,30 @@
+Lasso
+Mob Farm
+Wooden Mob Farm
+Stone Mob Farm
+Iron Mob Farm
+Golden Mob Farm
+Diamond Mob Farm
+Emerald Mob Farm
+Inferno Mob Farm
+Ultimate Mob Farm
+Tiny Mob Farm
+Cannot capture boss mobs.
+This mob is blacklisted.
+This mob needs higher farm tiers.
+Disabled by redstone.
+Insert a lasso to activate.
+Right click on block to release mob.
+Mob: %s
+Health: %d/%d
+Mob is hostile.
+Right click on mob to capture.
+Hold %s<SHIFT>%s for stats.
+Generates loot every %d seconds.
+Lasso durability loss:
+Cannot farm hostile mobs.
+- %d%% chance to loss no durability
+- %d%% chance to loss %d durability
+Disable with redstone.
+Items are ejected to
+adjacent containers.

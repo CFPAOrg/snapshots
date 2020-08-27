@@ -1,0 +1,18 @@
+More Fuels
+Coke
+Bituminous Coal
+Can of Slim-o-line
+Coal Dust
+Compressed Pellet Fuel
+Empty Glass Orb (Untempered)
+Empty Glass Orb (Tempered)
+Filled Glass Orb (Lava)
+Pellet Fuel
+Lava Crystals
+Bituminous Coal Ore
+Coke Block
+Bituminous Coal Block
+Infinite Fuel (Creative Only)
+Lava Ore
+Pellet Fuel Block
+Compressed Pellet Fuel Block

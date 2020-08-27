@@ -1,0 +1,1651 @@
+%1$s was stabbed by a loose spring. %2$s was the negligent watchmaker.
+%1$s was stabbed by a loose spring.
+You already memorized this information.
+You memorize the note and dispose of the crumpled scrap of paper.
+You feel more confident in your ability to breed %1$s with %2$s to make %3$s!
+Aliases: %s
+Available Sub-Commands:
+Permission Level: %s
+You do not have permission to use this command.
+Various commands for Forestry
+Format: /%s <sub-command>
+- %s : Version information
+Prints current version
+Format: /%s
+- %s : List of Forestry Modules
+Lists all Forestry Modules. Green are active, red disabled.
+Format: /%s
+- %s : Information on a specific Module
+Prints information on a specific Module
+Format: /%s <module-name>
+Type '%s' for help.
+No information available for module %s.
+Forestry %1$s for Minecraft %2$s (Latest: %3$s).
+Fire Dampener
+Reduces maximum output to 10 RF/t
+Preserves fuel output
+Electric Boost I
+Increases output by 10 RF/t
+Increases intake by 4 EU/t
+Electric Boost II
+Increases output by 20 RF/t
+Increases intake by 7 EU/t
+Electric Choke
+Reduces output by 5 RF/t
+Reduces intake by 1 EU/t
+Electric Efficiency
+Reduces intake by 1 EU/t
+Speed Boost I
+Increases Speed by 12.5%
+Increases Power Use by 5%
+Speed Boost II
+Increases Speed by 25%
+Increases Power Use by 10%
+Machine Efficiency
+Decreases Power Use by 10%
+Not Available
+Nothing
+Electrical Engine
+In Electrical Engines
+Automatic Farm
+Automatic Farms
+Manual Farm
+Manual Farms
+Machine Upgrade
+Socketed Machines
+Cacti
+End
+Gourds
+Jungle
+Mushroom
+Nether
+Flowers
+Wheat
+Snow
+Ethanol
+Biomass
+Liquid Glass
+Honey
+Crushed Ice
+Fruit Juice
+Short Mead
+Milk
+Seed Oil
+Ethanol
+Biomass
+Liquid Glass
+Honey
+Crushed Ice
+Fruit Juice
+Short Mead
+Milk
+Seed Oil
+Access
+Active
+Player
+Trader Station
+Authority
+Classification
+Extinct
+Encyclopedia Minecraftia could not provide an entry for this specimen.
+Analytics available
+Territory
+Arid
+Beach
+Portable Genetic Analyzer
+Supply bee, sapling, butterfly or an other individual and provide honey or honeydew as a pacifier.
+Artificial Origin
+Behaviour
+%s Generations in Captivity
+Possible Mutations
+Natural Origin
+Possible Produce
+Possible Specialty
+Active Species
+Inactive Species
+Products
+Mutations
+Further Mutations
+Resultant Mutations
+This individual has currently no integration for the database.
+Blank
+Cave Dwelling
+Climate
+Cold
+Crop
+Current Biome
+Current Output
+Damp
+Derelict
+Desert
+Did you know
+Diurnal
+Drones
+Effect
+Empty
+Empty Socket
+Multiblock Camouflage Slot
+Camouflage Slot
+Removable with a Soldering Iron
+Energy
+Environment
+Evolution
+Mated
+Fertility
+Fireproof
+Flower Type
+Tolerant Flyer
+Tolerant Flyer
+General
+Heat
+Hellish
+Hot
+Humidity
+Humidity Tolerance
+Hybrid
+Icy
+(You Cheater!)
+GENOME IMPRINTER
+Inactive
+Life
+Lifespan
+Normal
+Examine Specimens
+Place a genetic sample in the center to begin. Place more in the left slots and examine them for help.
+Attempt No. %s
+I have found a curious specimen on my travels.
+This strange fellow needs further investigation.
+Elated, I wanted to start at once with my research.
+I was amazed at the wondrous nature of it.
+The specimen twitched, while I inspected it more closely.
+Strange markings on the underside made me curious.
+This will be the talk of the society when I am done investigating.
+After some prodding I discovered an interesting new lead.
+I scratched my head at this discovery and questioned everything.
+I thought my eyes deceived me, but there it was.
+A previously unseen dot led me to question the specimen's classification.
+My screams of frustration had the housekeeper look into my study in worry.
+In a frenzy and on the verge of despair, I ripped up all the notes!
+This... just doesn't make any sense!
+It just cannot be. It didn't do that before!
+The sledgehammer barely made a dent, so I sent for the chainsaw.
+I swear it was looking at me, with its beady, cruel, little eyes.
+Is that laughter? Do I hear laughter? Who is laughing here?
+EUREKA!
+Wondrous! My name will go down in history!
+My colleagues will be impressed!
+I will be the envy of everyone at the society!
+Yes!
+All is lost.
+I consign my notes to the fire.
+Why? I had made such great strides at first...
+Failed. Again.
+Oh my...
+for every attached
+From
+Name your trade station
+Trade station has nothing to trade.
+No trade station of that name available.
+Please send
+Please find your order attached.
+1 order from %SENDER was filled.
+%COUNT orders from %SENDER were filled.
+To
+Receive
+Send
+Maximum Energy
+Maximum Input
+Maximum
+Metabolism
+Nether
+Nocturnal
+No effect
+Owner
+Page
+Plains
+Princ.
+Produce
+Queens
+N
+S
+E
+W
+Yes
+No
+Average
+Gigantic
+Normal
+Slowest
+Slower
+Slow
+Fast
+Faster
+Fastest
+Maximum
+Smallest
+Smaller
+Small
+Large
+Larger
+Largest
+Lowest
+Lower
+Low
+High
+Higher
+Highest
+Both 1
+Both 2
+Both 3
+Both 4
+Both 5
+Down 1
+Down 2
+Down 3
+Down 4
+Down 5
+None
+Up 1
+Up 2
+Up 3
+Up 4
+Up 5
+Shortest
+Shorter
+Short
+Shortened
+Normal
+Elongated
+Long
+Longer
+Longest
+Size
+%USED/%SIZE Slots
+Species
+Species
+Production
+Pollination
+Stored
+Temperature
+Tolerance
+Temperature Tol.
+Hold shift for details
+%,d / %,d mB
+Triple
+Unknown genome
+Warm
+Water
+Worker
+Camouflage Spray Can
+A full apiarist's suit will protect you from all negative bee effects.
+Bee Suits!
+Bees only work in biomes that suit their species. Use your portable analyzer and habitat locator to find out in which.
+Choose your biome!
+Crossbreeding drones and princesses of different species may net you offspring with a new species.
+Breed your bees!
+Any bee will need some type of flower in the vicinity. Some rather mundane flowers, others very exotic ones.
+Bees need flowers
+Only jubilant bees will produce their specialty. Make sure to have them in their preferred climate.
+Make your bee happy!
+Engines going into forced cooldown will also lose a significant chunk of their stored energy.
+Cooldown means energy loss!
+Main task of carpenters is the compression of your surplus resources. Many bulk blocks and items can be packaged into crates.
+Crate your Surplus!
+Engines are capable of buffering a lesser amount of energy if it cannot be transmitted to the target.
+Buffering Energy!
+An engine's energy output is measured in RF/t, which stands for "Redstone Flux per tick". Each second has 20 ticks.
+Say Redstone Flux!
+You can use a wide variety of fuels for your biogas engine: Biomass, seed oil, honey, milk and even water!
+Use all the fuels!
+Though you can use water in a biogas engine, it is terribly inefficient and will constantly consume lava.
+Careful with water!
+Different fuels will net you different energy outputs in a biogas engine. Outputs range from 10 RF/t to 50 RF/t.
+Choose your fuel!
+Contrary to peat-fired engines disabled biogas engines will not waste the biomass currently in the system.
+Fuel is conserved
+Peat-fired engines can use untreated peat, but they can also use bituminous peat to double their energy output.
+Use all the fuels!
+Disabled peat-fired engines continue to burn peat already removed from the stash without generating energy from it.
+Beware wasting energy!
+You can use batteries to run your electrical engines without needing to wire them up.
+Charge those batteries!
+Electrical engines can be outfitted with circuit boards to choke their power output to 10 RF/t and also reduce their energy demand.
+Regulate Output
+Jungle flowers are ferns or vines.
+What's a jungle flower?
+Netherwart are the nether flowers.
+What's a nether flower?
+Engines can overheat if the energy they produce is not consumed. Reaching melting point will force them into cooldown.
+Beware Overheating!
+Bio generators accept both biomass and biofuel. They are at their most efficient with biofuel.
+Use all the fuels!
+After some time, the Habitat Locator will point straight to the nearest suitable biome. When found, the indicator will spin.
+Habitat Locator 101!
+Many different kinds of foods can be made from honey and other bee products.
+Grab foodstuff!
+Peat can be farmed in automatic peat bogs, but when you start out, you might want to try harvesting a bit of peat by hand.
+No Bog Needed!
+Given the correct ingredients, your moistener can also create mossy cobblestone or mossy stone bricks.
+Want some mossy cobble?
+Machines of this type do not require any power to operate.
+No power required
+Bog earth directly adjacent to water will mature to peat. Use a shovel to harvest it.
+Harvest Peat!
+If you are stuck with remaining liquid in a machine's tank, you can click the tank with a pipette to empty it.
+Empty tanks with the pipette
+Sending letters costs stamps. To a base fee of 1n, every attachment adds another 1n of cost.
+Pay the Ferryman
+Even an unpowered raintank will collect rain. However to bottle the water, energy from an engine is required.
+Bottling Requires Energy!
+Your fermenter can not only create biomass, you can also use honeydew and liquid honey to make some short mead.
+Get your energy drink!
+Ash can be used to create fertilizer and is required to refine bituminous peat.
+Use your ash!
+Crated %s
+Crate with unknown content
+No
+HIGHEST
+HIGHER
+HIGH
+NORMAL
+LOW
+LOWEST
+It is impossible to decipher the washed out scribbles.
+The note has become unreadable and is worthless.
+§aSpecies researched!
+§e'%1$s'§7 (%2$s)
+§aMutation discovered!
+§e'%SPEC1'§7 and §e'%SPEC2'§7.
+Chance for success is §9%s§7.
+New species is §d'%s'§7.
+Occurs within a %s biome.
+Occurs within biomes like: %s
+During the day.
+During the night.
+Requires humidity between %LOW and %HIGH.
+Requires %s humidity.
+Requires temperature between %LOW and %HIGH.
+Requires %s temperature.
+Requires %s as a foundation.
+Occurs between %START and %END.
+(Locked Mode)
+(Receiving Mode)
+(Resupply Mode)
+Has Mail
+Has Work
+Fuel
+Germlings
+Input
+Paper
+Resources
+Stamps
+Buffer
+Missing Drone
+Missing Queen or Princess
+No Frames
+Yes
+Ambrosia
+Apatite
+Apiarist's Backpack
+Apiarist's Shoes
+Apiarist's Shirt
+Apiarist's Hat
+Apiarist's Pants
+Ash
+Ash Block
+Ash Block
+Ash Block
+Ash Block
+Habitat Locator
+Minecart with Bee House
+Minecart with Apiary
+Cocoa Comb
+Darkened Comb
+Dripping Comb
+Frozen Comb
+Honey Comb
+Irradiated Comb
+Mellow Comb
+Mossy Comb
+Mysterious Comb
+Omega Comb
+Parched Comb
+Powdery Comb
+Reddened Comb
+Silky Comb
+Simmering Comb
+Stringy Comb
+Wheaten Comb
+Beeswax
+Habitat Locator
+Bituminous Peat
+Broken Pickaxe
+Broken Shovel
+Survivalist's Pickaxe
+Survivalist's Shovel
+Can
+%s Can
+Carton
+Basic Circuit Board
+Enhanced Circuit Board
+Intricate Circuit Board
+Refined Circuit Board
+Fits %s Electron Tube.
+Fits %s Electron Tubes.
+Dissipation Charge
+Use on a Rainmaker to stop the rain.
+Ice Shard
+Pulsating Dust
+Pulsating Mesh
+Scented Paneling
+Camouflaged Paneling
+Silk Wisp
+Woven Silk
+Crate
+Decaying Wheat
+Compost
+Fertilizer
+Impregnated Frame
+Proven Frame
+Untreated Frame
+Durability: %,d
+Uses: %,d
+Production: %.2fx
+Genetic Decay: %.2fx
+Cherry
+Chestnut
+Date
+Lemon
+Papaya
+Plum
+Walnut
+Bronze Gear
+Copper Gear
+Tin Gear
+Hardened Casing
+Honeydew
+Portable Analyzer
+Handheld Genetic Analyzer for bees, saplings, and butterflies.
+%s Charges
+Charged Drop
+Honey Drop
+Omega Drop
+Honeyed Slice
+Honey Pot
+Impregnated Casing
+Imprinter
+Infuser
+Bronze Ingot
+Copper Ingot
+Tin Ingot
+Iodine Capsule
+Use on a Rainmaker to make it rain.
+Pickaxe Kit
+Shovel Kit
+Letter
+Mouldy Wheat
+Mulch
+Spectacles
+Wear to see pollinated leaves and errors on multiblocks.
+Impregnated Stick
+Peat
+Phosphor
+Pipette
+Crystalline Pollen Cluster
+Pollen Cluster
+Propolis
+Pulsating Propolis
+Silky Propolis
+Sticky Propolis
+Refractory Capsule
+%s Capsule
+Refractory Wax
+Wax with a high melting point.
+%s's Notes
+Use this note in your hand to gain its knowledge.
+Royal Jelly
+Scoop
+Break hives to collect bees.
+Soldering Iron
+Solders Electron Tubes to Circuit Boards.
+Bee Smoker
+Calms wild bees
+Stamp (1n)
+Stamp (2n)
+Stamp (5n)
+Stamp (10n)
+Stamp (20n)
+Stamp (50n)
+Stamp (100n)
+Stamp
+Sturdy Casing
+Copper Electron Tube
+Tin Electron Tube
+Bronze Electron Tube
+Iron Electron Tube
+Golden Electron Tube
+Diamantine Electron Tube
+Obsidian Electron Tube
+Blazing Electron Tube
+Rubberised Electron Tube
+Emerald Electron Tube
+Apatine Electron Tube
+Lapis Electron Tube
+Ender Electron Tube
+Orchid Electron Tube
+Used to program circuit boards.
+Wax Capsule
+Can't hold hot liquids.
+%s Capsule
+Wax Cast
+Wood Pulp
+Wrench
+Shift-Use to rotate blocks.
+Camouflage Spray Can
+Forestry Apiculture
+Forestry Arboriculture
+Forestry
+Forestry Lepidopterology
+Forestry Agriculture
+Analyzer
+Escritoire
+Database
+Electrical Engine
+Converts EU to RF.
+Peat-fired Engine
+Generates RF from peat.
+Biogas Engine
+Generates RF from organic fluids and lava.
+Bio Generator
+Generates EU from Biomass or Ethanol.
+Clockwork Engine
+Generates small amounts of RF. Right-click to wind it up.
+Bottler
+Carpenter
+Centrifuge
+Fermenter
+Moistener
+Squeezer
+Still
+Rainmaker
+Thermionic Fabricator
+Rain Tank
+Worktable
+Mailbox
+Trade Station
+Stamp Collector
+Apatite Ore
+Copper Ore
+Tin Ore
+Block of Apatite
+Block of Copper
+Block of Tin
+Block of Bronze
+Ash Bricks
+Ash Brick Stairs
+Humus
+Bog Earth
+Peat
+Cocoa Comb Block
+Darkened Comb Block
+Dripping Comb Block
+Frozen Comb Block
+Honey Comb Block
+Irradiated Comb Block
+Mellow Comb Block
+Mossy Comb Block
+Mysterious Comb Block
+Omega Comb Block
+Parched Comb Block
+Powdery Comb Block
+Reddened Comb Block
+Silky Comb Block
+Simmering Comb Block
+Stringy Comb Block
+Wheaten Comb Block
+Adventuring Backpack
+Woven Adventuring Backpack
+Building Backpack
+Woven Building Backpack
+Digging Backpack
+Woven Digging Backpack
+Foresting Backpack
+Woven Foresting Backpack
+Hunting Backpack
+Woven Hunting Backpack
+Mining Backpack
+Woven Mining Backpack
+Rain
+Only tolerant fliers can work in the rain.
+No drone
+Mating requires a drone present.
+No flowers
+Hive members are not finding the right flowers. Use the portable analyzer to learn their flower preference.
+No queen
+Supply this hive with a queen or a princess and a drone.
+Sky obstructed
+The hive requires direct sunlight from above.
+Not daytime
+The bees can only work during the daytime.
+Not dark enough
+The bees can only work in darkness.
+Not bright enough
+The bees have trouble navigating in the dark.
+Not nighttime
+The bees can only work during the night.
+Too Hot
+The bees are melting in the heat here and unable to work. Use a Habitat Locator to find a cooler climate.
+Too Cold
+The bees are huddled together to survive the freezing cold here. Use a Habitat Locator to find a warmer climate.
+Too Humid
+The climate here has made the bees' wings too damp to fly. Use a Habitat Locator to find a dryer climate.
+Too Dry
+The dry climate here has made the bees parched and unable to work. Use a Habitat Locator to find a wetter climate.
+No Power
+This machine requires RF energy from an engine to function.
+Requires Redstone
+This machine requires a redstone signal to activate it.
+Disabled by Redstone
+This machine is being disabled by a redstone signal.
+No recipe
+No matching recipe was found for the supplied resources.
+Missing resources
+More resources need to be supplied for operation.
+Inventory needs resources
+Resources need to be added to the machine's inventory to begin crafting this recipe.
+Missing liquid resources
+More liquid resources need to be supplied for operation.
+No inventory space
+Empty this machine's inventory.
+Tank Full
+Empty this machine's liquid tank.
+Not dark enough
+A lower light level is required for operation.
+No rain
+Operation is only possible when it is raining.
+Never rains
+This location never receives rain.
+Sky obstructed
+Clear the area above this machine so it can gather rain.
+Honey required
+This gadget requires honey drops or honeydew for operation.
+Nothing to analyze
+Supply a specimen to analyze.
+Forced Cooldown
+The engine has overheated and must cool down before it can start again.
+No electricity
+Your world is barren of any electricity. (Install IndustrialCraft\u00b2.)
+No fuel
+This engine requires fuel to run. Replenish this machine's fuel supplies.
+Not warmed up
+This engine requires a heat source to run. Refill the heating tank.
+Need Stamps
+The trade station requires more stamps to pay postage.
+Need Paper
+The trade station requires more paper to send letters.
+Need Supplies
+The trade station requires more supplies to send.
+No Trade Set
+The trade station requires items to Send and Receive.
+Invalid Name
+A Trade Station name must consist of letters and numbers only.
+Not Unique
+Trade Station names must be unique and this name is already taken.
+No Recipient
+You need to address your letter to a recipient to send it.
+Stamps Needed
+Apply more stamps to pay the postal service.
+Layout Mismatch
+Amount of tubes does not match size of circuit board.
+Board Missing
+Insert a circuit board to solder the selected tubes onto it.
+No Layouts Found
+No layouts available due to the current game settings.
+No Farmland
+Smooth sandstone, bricks or stone bricks create a platform the farm will build on.
+No Fertilizer
+Farms require fertilizer for function. Compost is insufficient.
+No Water
+Depending on rainfall, temperature and humidity farms need to be supplied with varying amounts of water.
+Apiarist
+%1$s encountered a swarm of bees. %2$s stole their apiarist's suit.
+%1$s encountered a swarm of bees. That had to sting.
+%1$s was killed by wild bees. %2$s stole their apiarist's suit.
+%1$s was killed by wild bees. They should have used a Smoker.
+%1$s was ended by an unfriendly sting while fighting %2$s.
+%1$s was ended by an unfriendly sting.
+%1$s walked into Chernobyl without their helmet on. %2$s watched and cackled.
+%1$s walked into Chernobyl without their helmet on.
+%1$s was slain by heroic bees! %2$s is forever in their debt.
+%1$s was slain by heroic bees!
+Aggress.
+Beatific
+Creeper
+Drunkard
+Explorer
+Freezing
+Fertile
+Heroic
+Flammable
+Ends
+Poison
+Mycophilic
+None
+Radioact.
+Reanimation
+Repulsion
+Resurrection
+Snow
+Simplifies beebreeding by drastically increasing mutation rate and removing the chance for genetic fatigue.
+Reducing mutation rate slightly while increasing lifespan of individual queens by 50%%.
+Halves mutation rate, increases lifespan of individual queens by 500%% and reduces fertility by 20%%.
+Cuts mutation rate to 20%%, increases lifespan tenfold and reduces fertility by 40%%.
+Recommended mode for the normal player.
+Drone
+%SPECIES %TYPE
+Larvae
+%SPECIES %TYPE
+Princess
+%SPECIES %TYPE
+Queen
+%SPECIES %TYPE
+%PRIMARY-%SECONDARY Hybrid
+Austere
+Avenging
+Boggy
+Common
+Cultivated
+Darkened
+Demonic
+Diligent
+Edenic
+Ender
+Exotic
+Fiendish
+Forest
+Frugal
+Glacial
+Hermitic
+Heroic
+Icy
+Imperial
+Industrious
+Leporine
+Majestic
+Marshy
+Meadows
+Merry
+Miry
+Modest
+Monastic
+Noble
+Omega
+Phantasmal
+Reddened
+Rural
+Farmerly
+Agrarian
+Secluded
+Sinister
+Spectral
+Steadfast
+Tipsy
+Tricky
+Tropical
+Unweary
+Valiant
+Vengeful
+Vindictive
+Wintry
+Ignoble Stock
+Pristine Stock
+- %s : Beekeeping Commands
+Commands relating to beekeeping.
+Format: /%s <sub-command>
+- %s : Give Bees
+Give a player drones, princesses, queens, or larvae.
+Format: /%s <species-name> <bee-type> [<player-name>]
+Available bee types: %s
+%1$s was given a %2$s %3$s.
+- %s : Beekeeping Mode Commands
+Commands relating to Beekeeping Modes.
+Format: /%s <sub-command>
+- %s : Beekeeping Mode Info
+Information about current and available beekeeping modes.
+Format: /%s <mode-name>
+- %s : Beekeeping Mode Set
+Set the beekeeping mode for world.
+Format: /%s [<world-#>] <mode-name>
+- %s : Save Beekeeping Statistics
+Save beekeeping statistics to file.
+Format: /%s [<player-name>]
+Beekeeping statistics for %s on %s:
+No mode called '%s' is available.
+Current: %1$s (#%2$s)
+Available modes: %s
+Mode set to %s.
+A mode called '%s' is not available.
+Log file could not be created. Failed to save statistics.
+Cannot write to log file. Failed to save statistics.
+Write operation threw an exception. Failed to save statistics.
+No statistics found.
+Saved statistics for player %s
+Discovered
+X
+Blacklisted
+BL
+Not counted for the species total
+NC
+Mode: %s
+"Doesn't reek as much as the alternative. Gets the job done, eh?"|Myrathi, Cannie Beekeeper
+Dangerous and volatile; Beekeepers are advised to stay in full suit whenever near.|Beekeeping 101
+"The walls of my house began to crumble and I heard the roof creaking over my head, but I cared not! I felt the stabs of a thousand little insects on my glove as I grabbed the new queen."|Anonymous
+"I saw a cow get stung by one of these once. Seconds later, it started sprouting mushrooms all over! ... A photo? Uh, didn't take one."|"Sir" Sengir, madman
+Considered the beginner apiarist's badge of participation.|Beekeeping 101
+Fast working bee; Thinks anything but opera is beneath it.|Beekeeping 101
+Attracted by the power of alchemically bound matter, this species was a powerful source of energy.|Beekeeper's Lexicon
+Born in the fires of the nether and being a descendant of generations of nether bees has caused this species to turn into a true demon.|Beekeeping 101
+Mostly noted as a stepping stone for the industrious line of bees.|Beekeeping 101
+"I furiously scribbled in my notebook, drawing sketches of the images I felt seeping into my brain while I was watching the insects perform their strange little dance."|Beekeeping 101
+"I found one of these seemingly hermitical insects in a villager's apiary. It was torpid, obviously ripped from its world and longing for a fragment from it."|Beekeeping 101
+"The fever shook me and my apiarist's suit was drenched with cold sweat, but with trembling hands I finally managed to pull one of these from my apiary."|Beekeeping 101
+Commonly seen in large expanses of prairie, the breadbasket of nations.|Beekeeping 101
+Experienced nether apiarist's have been reporting severe attacks by their bees. Caution is advised.|Beekeeping 101
+One of the most common pests in forests; Mostly docile.|Beekeeping 101
+Generations of bees baked in the sun to produce this species.|Beekeeping 101
+"Winter is coming!"|E. Stark, beekeeper
+"My dear colleague! I noticed the bees you sent me refuse to wash and are growing full beards. Care to explain?"|Binnie, Apiarist
+Elaborate legends have surrounded this species. Will defend its hive to its death against any hostiles.|Apiarist's Grimoire
+Temperatures inside hives inhabited by this species will drop until ice shards form.|Beekeeping 101
+Highly sought after bee; Specialises in the production of precious royal jelly.|Beekeeping 101
+Highly sought after bee; Specialises in the production of exquisite pollen.|Beekeeping 101
+"I swear! It was tiny, had wings and I definitely saw fluffy little rabbit ears! ... No! I am not drunk!"|"Sir" Sengir, madman
+"Off with their heads!"|Queen of Hearts
+"Seriously? Mushrooms? Get out of here!"|Beekeeping 101
+Infests mostly plains in temperate climates; Mostly docile.|Beekeeping 101
+"Hohoho!"|Merry bee
+"How do bees even pollinate fungi?"|Mezz, Junior Apiarist
+Hot and arid climates have forced this species to adapt to a degree which will not allow it to survive in significantly friendlier climates.|Beekeeping 101
+"I remained austere and said to him: 'Not only a princess, but also a whole pile of emeralds for a measly drone? That's extortion!'|Beekeeping 101
+"There is no more noble occupation in the world than to breed another bee."|Binnie, Apiarist
+"I am Alpha and Omega, the beginning and the end, the first and the last."|Pahimar, beekeeper
+"Whatever you do, do not, I repeat, DO NOT drop the dragon e..."|"Sir" Sengir, Last Words
+Requiring massive amounts of alchemically bound matter, these little fellows could flood a world in energy.|Beekeeper's Lexicon
+"Rain in May promises much hay."|M. Ages, Rural Beekeeper
+"Crossbreeding with the desert kind was a mistake. My bees withdrew more and more from the outside world."|Beekeeping 101
+Not many bee species are able to survive in the nether. And even those are severly affected by their hellish environment.|Beekeeping 101
+"I was unsure whether it was alive as it lay there in the palm of my hand, glimmering and pulsating, oozing a coldness I never felt before. Then I heard the pile of bones behind me rattle..."|Beekeeping 101
+Considered extinct until some were found by adventurers in a deep dungeon.|Apiarist's Grimoire
+"Dance my pretties! Dance!"|Tipsy Witch of the East
+"Trick or Tricky Treat!"|Tricky Bee
+"My travels along the jungle river allowed me to catch many of these poisonous specimen. Unfortunately I had lost my only austere branch to crocodiles a while back."|Beekeeping 101
+Unweary. Then they die.|Beekeeping 101
+A rare subspecies rarely seen cohabiting in mundane hives.|Apiarist's Grimoire
+"Veni, vidi, vici!"|Apinus Julius Caesar
+"It ate my face! It ate my face!"|K.M.
+Common, but winter-hardened bee tribe; Cultivation in warmer climates is a challenge.|Beekeeping 101
+Agrarian
+Austere
+Boggy
+Common
+End
+Festive
+Frozen
+Heroic
+Industrious
+Infernal
+Monastic
+Noble
+Reddened
+Tropical
+Vengeful
+Princess
+Drone
+Queen
+Multi-Block: 3x3x3 with 3x1x3 wood slabs on the top
+Alveary
+Alveary Swarmer
+Alveary Fan
+Alveary Heater
+Alveary Hygroregulator
+Alveary Stabiliser
+Alveary Sieve
+Apiary
+Apiarist's Chest
+Bee House
+Forest Hive
+Meadows Hive
+Modest Hive
+Tropical Hive
+Ender Hive
+Wintry Hive
+Marshy Hive
+Swarm Hive
+Lit Dyed Candle
+Unlit Dyed Candle
+Lit Candle
+Unlit Candle
+Candle Stump
+Forester's Manual
+Crafting
+About the book
+§oThese scraps of knowledge have been obtained and compiled by Binnie, and represent the remains of Beekeeping 101 and Forester's Almanac, two books by a mad apiarist know only as 'Sir' Sengir.§r
+| Binnie, Editor
+Categories
+Core
+Lepidopterology
+Mail
+Habitat Former
+Beekeeping
+Arboriculture
+Farming
+Genetics
+The MultiBlock is not connected to a controller. This could be due to lag, or a bug. If the problem persists, try breaking and re-placing the block.
+(%s) - Block is not valid for use in the machine's interior.
+A multiblock part is incompatible with this type (%s).
+The multiblock is too small. It must be at least %dx%dx%d in size.
+The multiblock is too large, it may be at most %d blocks wide.
+The multiblock is too large, it may be at most %d blocks high.
+The multiblock is too large, it may be at most %d blocks deep.
+The multiblock is too small, it must be at least %d blocks wide.
+The multiblock is too small, it must be at least %d blocks high.
+The multiblock is too small, it must be at least %d blocks deep.
+The Alveary must have wooden slabs on top.
+The alveary needs space around the top for the bees to enter and exit.
+The Alveary must have plain alveary blocks for the top level.
+The Alveary must have plain alveary blocks for the interior.
+The Farm must have plain farm blocks for the third level.
+The Farm must have plain farm blocks for the interior.
+The farm must have a gearbox to accept power and do work.
+Alveary
+Farm
+Arborist
+None
+- %s : Treekeeping Commands
+Commands relating to trees.
+Format:/%s <sub-command>
+- %s : Spawn Tree
+Spawn a tree near the player.
+Format:/%s <species-name> [<player-name>]
+- %s : Spawn Forest
+Spawn a small forest of trees near the player.
+Format:/%s <species-name> [<player-name>]
+- %s : Treekeeping Mode Commands
+Commands relating to Treekeeping Modes.
+Format: /%s <sub-command>
+- %s : Treekeeping Mode Info
+Information about current and available treekeeping modes.
+Format: /%s <mode-name>
+- %s : Treekeeping Mode Set
+Set the treekeeping mode for world.
+Format: /%s [<world-#>] <mode-name>
+- %s : Save Treekeeping Statistics
+Save treekeeping statistics to file.
+Format: /%s [<player-name>]
+Treekeeping statistics for %s on %s:
+Widespread birch tree, which on average is of smaller height.|Codex Lignum
+Small tree. In its natural form it will bear cherries which will need to undergo a ripening period.|Codex Lignum
+Tall, deciduous tree with large trunk. Naturally occuring chestnut trees carry fruits which require some time to ripe.|Codex Lignum
+Tall, deciduous tree. It has been reclassified recently as being in the Malvaceae family.|Codex Lignum
+Common tree species whose apple-bearing properties are the subject of much song and dance.|Codex Lignum
+Tall, evergreen trees with valuable timber. Wood and bark are pleasantly scented. Will only thrive in tropical climes.|Codex Lignum
+Tall, deciduous tree with large trunk. Naturally occuring walnut trees carry fruits which require some time to ripe.|Codex Lignum
+Large, deciduous tree. White willows are fast-growing. Have only been observed to occur in damp climates.|Codex Lignum
+Jungle
+Nuts
+Pomes
+Prunes
+Apple
+Cherry
+Chestnut
+Cocoa
+Dates
+Lemon
+None
+Papaya
+Plum
+Walnut
+Family
+Fireproof
+Fruits
+Girth
+Height
+Matures
+Soil
+Saplings
+Sappiness
+Supports
+Yield
+Combustibility
+Carbonization
+Blossom
+%SPECIES %TYPE
+Germling
+%SPECIES %TYPE
+Pollen
+%SPECIES %TYPE
+Sapling
+%SPECIES %TYPE
+Leaves
+%SPECIES %TYPE
+Wood Pile
+%SPECIES %TYPE
+Wood Pile
+Decorative Wood Pile
+Loam
+Ash Block
+Block of Charcoal
+%PRIMARY-%SECONDARY Hybrid
+Acacia
+Apple Oak
+Balsa
+Blue Mahoe
+Bull Pine
+Coast Sequoia
+Common Walnut
+Dark Oak
+Date Palm
+Desert Acacia
+Giant Sequoia
+Grandidier's Baobab
+Hill Cherry
+Jungle
+Kapok
+Lemon
+Mundane Larch
+Myrtle Ebony
+Papaya
+Plum
+Red Spruce
+Silver Birch
+Silver Lime
+Sipiri
+Sugar Maple
+Sweet Chestnut
+Teak
+Wenge
+White Poplar
+White Willow
+Yellow Meranti
+Ipe
+Padauk
+Cocobolo
+Zebrawood
+%TYPE Fence
+%TYPE Fence Gate
+%TYPE Wood
+%TYPE Wood Planks
+%TYPE Wood Slab
+%TYPE Wood Slab
+%TYPE Stairs
+%TYPE Door
+Larch
+Teak
+Desert Acacia
+Lime
+Chestnut
+Wenge
+Baobab
+Sequoia
+Kapok
+Ebony
+Mahogany
+Balsa
+Willow
+Walnut
+Greenheart
+Cherry
+Mahoe
+Poplar
+Palm
+Papaya
+Pine
+Plum
+Maple
+Citrus
+Giant Sequoia
+Ipe
+Padauk
+Cocobolo
+Zebrawood
+%s (Fireproof)
+Grafter
+Proven Grafter
+Arborist's Chest
+Sapling
+Leaves
+Pod
+Manual %s
+Managed %s
+Arboretum
+Crop Farm
+Shroom Farm
+Succulent Farm
+Peat Bog
+Infernal Farm
+Reed Farm
+Orchard
+Gourd Farm
+Cocoa Plantation
+Ender Farm
+Orchid Farm
+Rubber Plantation
+Farm
+By Heat
+By Humidity
+Overall
+By Rainfall
+Hydration Required
+Use a soldering iron to turn your tree farm into any kind of farm you like.
+Program your farms!
+Soil goes into the left slots, seeds or saplings into the right slots of the reservoir on the top right part.
+Soil goes left, seeds go right!
+Smooth sandstone, bricks or stone bricks create a platform the farm will build on.
+Lay out your farmland!
+All farms need fertilizer to work. Compost or mulch will not suffice.
+Fertilizer needed!
+Use gearboxes to attach engines or power lines to your farm.
+Supply power!
+Hatches are a pipe or tube's best friend. Use them to automate transport.
+Batten down the hatches!
+Apart from the automatic farms there are manual farms which will only maintain the farm, but not build it.
+Manual farms!
+Almost all farms require water. Use valve blocks for automation.
+Supply water!
+Fertilizer
+Water Tank
+Soil
+Multi-Block: 3x4x3 - 5x4x5
+Material:
+Farm Block
+Farm Gearbox
+Farm Hatch
+Farm Valve
+Farm Control
+Mushroom
+Mushroom
+Arboretum
+Tree Farm
+Farm
+Crop Farm
+Mushroom Farm
+Infernal Farm
+Netherwart Farm
+Gourd Farm
+Melon and Pumpkin Farm
+Ender Farm
+Chorus Flower and Ender Lily Farm
+Peat Bog
+Peat Farm
+Rubber Farm
+Flexible Casing
+%s (Manual)
+%s (Managed)
+N
+S
+E
+W
+This item has been deprecated
+Place in crafting grid to get some resources back
+Greenhouse Block
+Greenhouse Energy Distributor
+Greenhouse Control
+Greenhouse Screen
+Greenhouse Roof Window
+Greenhouse Window
+Greenhouse Fan
+Greenhouse Heater
+Greenhouse Dehumidifier
+Greenhouse Humidifier
+Greenhouse Hygroregulator
+Habitat Former
+Habitat Screen
+Targeted: %s
+Value: %s
+Default: %s
+Temperature
+Humidity
+Habitats
+Selection
+Range
+%s Blocks
+Circular Mode Enabled
+Circular Mode Disabled
+Preview Mode Enabled
+Preview Mode Disabled
+Habitat Former
+Range
+Resources
+Speed
+Preview Mode: Active
+Preview Mode: Inactive
+Position '%s, %s, %s', Dimension '%s'
+Not Linked
+Temperature: %s
+Humidity: %s
+Temperature: %s, Humidity: %s
+No State Found
+Click and done!
+You can use the habitat buttons, the two climate bars in the upper center or the two text fields to change the targeted climate.
+What do you need?
+The habitat former uses energy to alter its temperature. And fluids like lava, water or crushed ice to alter its humidity and a small amount of its temperature.
+Everything you want
+Additional to the other options you can use the slot next to the habitat buttons to change the targeted climate to the preferred climate of a bee. Simply click with a bee on it.
+Wrong Resource
+The habitat former cannot reach the targeted humidity with the inserted fluid.
+- %s : Butterfly Commands
+Various commands related to butterflies
+Format: /%s <sub-command>
+- %s : Kills all Butterflies
+Kills all Butterflies in loaded chunks
+Format: /%s [<dimension#>]
+Killed %d butterflies
+Hybrid: %PRIMARY-%SECONDARY
+Butterfly
+%SPECIES %TYPE
+Serum
+%SPECIES %TYPE
+Caterpillar
+%SPECIES %TYPE
+Cocoon
+%SPECIES %TYPE
+Brimstone Moth
+Latticed Heath
+Blue Duke
+Menelaus Blue Morpho
+Peleides Blue Morpho
+Rhetenor Blue Morpho
+Blue Wing
+Comma
+Diana Fritillary
+Glasswing
+Glassy Tiger
+Leopard Lacewing
+Malachite
+Monarch
+Painted Beauty
+Postman
+Speckled Wood
+Canary Speckled Wood
+Madeiran Speckled Wood
+Emerald Peacock
+Black Swallowtail
+Citrus Swallowtail
+Spicebush Swallowtail
+Thoas Swallowtail
+Zebra Swallowtail
+Brimstone
+Cabbage White
+Gozora Azure
+Orange Tip
+Palaeno Sulphur
+Common Clouded Yellow
+Eastern Bath White
+Holly Blue
+Atlas Moth
+Bombyx Mori Moth
+Possible Butterfly Loot
+Possible Caterpillar Loot
+Possible Cocoon Loot
+None
+Butterfly
+Lepidopterist's Backpack
+Moth
+Lepidopterist's Chest
+Cannot resend letter.
+- %s : Mail System Commands
+Various commands related to the mail system
+Format: /%s <sub-command>
+- %s : A list of all trade stations.
+Lists all trade stations and their available trades.
+Format: /%s
+- %s : Toggle virtual mode on a specified trade station.
+Toggles virtual mode on a specified trade station. This mode does not consume items.
+Format: /%s <trade-station-name>
+No trade station by the name of '%s' was found.
+Set virtualization for '%s' to %s.
+Trade station is full.
+Trade station demands more.
+Trade station ran out of paper.
+Trade station ran out of stamps.
+Trade station has run out of supplies.
+Recipient's mailbox is full.
+Letter is not sendable.
+Letter is not sufficiently stamped.
+Recipient has no mailbox.
+Trade is available.
+Trade station cannot send the response letter. %s
+Can only write one letter at a time.
+Use
+Close
+Trade
+All
+Offline
+Online
+No trades available.
+for
+%s will trade
+Catalogue
+Lists all available Trade Station trades.
+Apiarist's Pipe
+Genetic Filter
+Genetic Filter
+Filter Selection
+Anything
+Closed
+Items
+Cave-Dwellers
+Strong Flyers
+Nocturnal
+Pure-Bred
+Pure Cave-Dwellers
+Pure Flyers
+Pure Nocturnal
+Any Bees
+Queen
+Drones
+Princesses
+Any Tree
+Sapling
+Pollen
+Any Butterfly
+Butterfly
+Caterpillar
+Serum
+Cocoon
+Adds bees, beekeeping and bee products. Affects world generation.
+Adds additional tree species and products.
+Adds backpacks.
+Adds a guide book that contains information about all other modules.
+Adds wood piles, loam and a charcoal production.
+Core mechanics for Forestry. Required by all other modules.
+Adds crates.
+Adds automatic farms for a wide variety of products.
+Adds a new storage block for bees / trees and butterflies.
+Adds several RF engines.
+Adds a wide variety of machines to craft, produce and process products.
+Adds automatic multiblock farm for a wide variety of products.
+Adds fluids, fluid blocks, and fluid containers.
+Adds food.
+Adds a greenhouse multiblock.
+Butterflies. Shiny.
+Adds Forestry's mail and trade system.
+Adds a filter for sorting items with genetic material
+Adds a crafting table that can save 8 recipes.
+Compatibility module for Actually Additions.
+Compatibility module for Better With Mods. Enables farming hemp.
+Compatibility module for BuildCraft. Currently version 7.99.
+Compatibility module for Biomes O Plenty. Enables farming BoP saplings.
+Compatibility module for EnderIO.
+Compatibility module for Extra Utilities. Enables farming ender lilies and red orchid.
+Compatibility module for HarvestCraft. Enables farming HarvestCraft plants and trees.
+Compatibility module for IC2. Adds electrical engine and generator for power conversion.
+Compatibility module for Immersive Engineering.
+Compatibility module for Mystical Agriculture. Enables farming Mystical Agriculture crops.
+Compatibility module for Natura. Enables farming Natura saplings.
+Compatibility module for Roots.
+Compatibility module for Rustic.
+Compatibility module for Tech reborn. Enables harvesting rubber from rubber trees.
+Performance
+Particle Effects
+Enables particle effects. Note that Forestry respects Minecraft's reduced particle video settings.
+Backpack Resupply
+Enable backpack resupply. You may want to set this to false on busy servers.
+World Generation
+Retrogen
+Creates Forestry world generation in chunks that were created before the mod was added.
+Forced Retrogen
+Creates Forestry world generation in all chunks, even if they were generated there before.
+Generate Apatite
+Generates apatite ore blocks in the world.
+Generate Copper
+Generates copper ore blocks in the world.
+Generate Tin
+Generates tin ore blocks in the world.
+Ore generation Dimension Blacklist
+Disables the generation of all ore in the specified dimensions. Enter one dimension id per line.
+Beehives Generation Amount
+Sets how many beehives spawn in the world.
+Debug Beehive Generation
+Force Forestry to generate a beehive at every possible location. (This will break your world. Only useful to developers)
+Beehive Generation Dimension Blacklist
+Disables the generation of all hives in the specified dimensions. Enter one dimension id per line.
+Disables the generation of a specific hive in a specific biome or in a biome with a specific biome type. Just add the registry name of the biome or the name of the biome type to the property of the hive. Every biome type / registry name has to be in a seperate line. The global type can be used to blacklist a biome from all hive generation.
+Generate Villagers
+Generates Forestry villagers and their houses.
+Crafting
+Craft Bronze
+Enables the crafting recipe for bronze.
+Craft Stamps
+Enables the crafting recipe for stamps. Disable to use stamps as a currency.
+Disabled Stamps
+Disables the crafting recipe for certain stamps.
+Tweaks
+Mail Alert
+Enables the new mail alert box.
+Horizontal Position
+Horizontal Position of the mail alert box on the screen.
+Vertical Position
+Vertical Position of the mail alert box on the screen.
+Hints
+Enables the hints tab on machine and engine guis.
+Tab Speed
+Set the speed at which the gui side tabs open and close.
+Energy Tab
+Display the energy statistics tab on energy consumers.
+Liquid Tooltip
+Display liquid amounts in tank tooltips.
+Permissions
+Enables access restrictions on Forestry machines.
+Version Check
+Enables update and version check notice.
+Humus Degrade Delimiter
+Set how many stages humus has before it turns into sand.
+Farm Size
+Sets the size multiplier of the farmland.
+Farm Fertilizer
+Sets the multiplier of the multifarm and the cultivation farms. All cultivation farms alway use the double amount of fertilizer.
+Square Farms
+Makes farms use a square layout instead of a diamond one.
+EnderLily Farm Support
+Enables farm support for Extra Utilities Ender-lily seeds.
+Red Orchid Farm Support
+Enables farm support for Extra Utilities Red Orchid.
+Magical Crops Farm Support
+Enables farm support for Magical Crops.
+Cultivation Farm Size
+Sets the size of the farmland that is used by all cultivation farms.
+Ring Cultivation Farms
+Makes cultivation farms use a ring layout like the layout of the old farms. The farmland size of the ring layout is always one block smaller.
+Inner Ring Size
+Sets the size of the inner ring of the ring layout.
+Capsule Pickup
+Enables the function that cans and capsules can pick up fluids from the world.
+Reuseable Capsules
+Capsules are no longer consumed after being emptied.
+Amount Base
+The base amount that the wood pile will drop if the wall blocks are no registered pile waal blocks.
+Wall Check Range
+Sets the amount of blocks that the wood pile will check if it is a valid charcoal pile wall block.
+Forester's Manual
+Players who enter the world for the first time get a Forester's Manual.
+Genetics
+Pollinate Vanilla Trees
+Allow bees to pollinate vanilla tree leaves. When disabled, vanilla trees must be analyzed before they can be pollinated.
+Analyzer Block Energy Usage
+Energy use of Analyzer Block per work cycle.
+Research Mutation Multiplier
+Multiplies the chance of a mutation when it has been discovered in the Escritoire.
+Research Mutation Max
+The maximum percentage boost that can be applied by researching a mutation in the Escritoire.
+Difficulty
+Game Mode
+Set to your preferred game mode. Mismatch with the server may cause visual glitches with recipes.
+Recreate Definitions
+Forces recreation of the game mode definitions in config/forestry/gamemodes.
+Structures
+Disabled Structures
+List specific structures to disable them.
+Add fertilizers to Forestry. An entry has to look like this: modID:itemName:MetaData;fertilizerValue. You need to separate every entry in a separate line. You can't remove auto generated entries you only can deactivate them if you set their value to 0.
+Fluids
+Enables %s fluid.
+Fluid Blocks
+Enables %s in-world fluid block.
+Debug Mode
+Enable Debug mode (only useful to developers).
+Beekeeping Mode
+Change the beekeeping mode.
+Second Princess Chance
+Percent chance of a second princess drop, for limited/skyblock maps.
+Accepted Flowers
+Accepted flowers allow bees to work. Format is 'modid:name:meta', one per line. The format for wildcard  metadata is 'modid:name'.
+Plantable Flowers
+Plantable flowers are placed by bees. All plantable flowers are automatically accepted flowers. Format is 'modid:name:meta', one per line. The format for wildcard  metadata is 'modid:name'.
+Max Flowers Spawned
+The maximum number of flowers for hives to spawn nearby over time.
+Ticks per Cycle
+The number of ticks per bee work cycle.
+Peaceful Hive Damage
+Whether bees can damage a player playing on peaceful mode.
+Underwater Hive Damage
+Whether bees can damage a player while they are underwater.
+Defend Hive Damage
+The bees only attack the player if he starts to destroy the hive.
+Player Hive Damage
+Whether bees can damage other entities than the player.
+Leaf Self Pollination
+If true bees will pollinate leaves with themselves to speed up getting a homozgous genome.
+Ignoble Decay
+Whether ignoble bees will eventually die out.
+Species Blacklist
+Add species to blacklist identified by their uid, one per line.
+Get the butterfly spawn rarity by their uid, one per line.
+Butterfly Spawn Limit
+Butterflies will stop natural spawning once this limit is reached.
+Spawn Butterflies From Leaves
+Whether butterflies should spawn from the leaves of trees.
+Butterfly Maximum
+New butterflies will stay in item form and will not take flight once this limit is reached.
+Maximum Distance To Home
+Butterflies will fly home if they are too far away from it.
+Butterfly Pollination
+Allow butterflies to pollinate leaves.
+Generate Butterfly Cocoons
+Whether cocoons containing butterfiles should generate in the world
+Butterfly Cocoon Frequency
+How often butterfly cocoons should generate
+Serum Drop Chance
+How often cocoons should drop a serum
+Second Serum Drop Chance
+How often cocoons should drop a second serum
+Loot drops from cocoons. Format is modid:name:meta;chance
+Add itemStacks for the %s's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
+Add ore dictionary names for the %s's backpack here in the format 'oreDictName'. Regular expressions may also be used.
+Added items. The format is 'modid:meta:name'. For wildcard metadata the format is 'modid:name'.
+Blacklisted items. The format is 'modid:meta:name'. For wildcard metadata the format is 'modid:name'.
+Added oredict. Format is 'oreDictName'. Regular expressions may also be used. See backpack config for more information.
+Blacklisted oredict. Format is 'oreDictName'. Regular expressions may also be used. See backpack config for more information.
+Game Mode
+Modifies the energy required to activate machines, as well as the max amount of energy stored and accepted.
+Modifies the time a piece of fertilizer lasts in a farm.
+modifies the energy provided by ethanol in a Bio Generator.
+modifies the energy provided by ethanol in Buildcraft Combustion Engines.
+modifies the energy provided by Biomass in a Bio Generator.
+modifies the energy provided by Biomass in Biogas Engines.
+amount of fertilizer yielded by the recipe using apatite.
+amount of fertilizer yielded by the recipe using ash.
+amount of compost yielded by the recipe using wheat.
+amount of compost yielded by the recipe using ash.
+amount of humus yielded by the recipe using fertilizer.
+amount of humus yielded by the recipe using compost.
+amount of bog earth yielded by the recipe using buckets.
+amount of bog earth yielded by the recipes using cans, cells or capsules.
+amount yielded by the recipe for tin cans.
+amount yielded by the recipe for wax capsules.
+amount yielded by the recipe for refractory capsules.
+modifies the amount of cycles fertilizer can keep a fermenter going.
+modifies the amount of cycles compost can keep a fermenter going.
+modifies the amount of cycles mulch can keep a fermenter going.
+modifies the amount of biomass per cycle a fermenter will produce using fertilizer.
+modifies the amount of biomass per cycle a fermenter will produce using compost.
+modifies the amount of biomass per cycle a fermenter will produce using mulch.
+modifies the base amount of biomass a sapling will yield in a fermenter, affected by sappiness trait.
+modifies the amount of biomass a piece of cactus will yield in a fermenter.
+modifies the amount of biomass a piece of wheat will yield in a fermenter.
+modifies the amount of biomass a piece of sugar cane will yield in a fermenter.
+modifies the amount of biomass a mushroom will yield in a fermenter.
+modifies the amount of seed oil squeezed from a single seed. other sources are based off this.
+modifies the amount of juice squeezed from a single apple. other sources are based off this.
+modifies the chance of mulch per squeezed apple.
+Enable the clockwork engine.
+Redstone Flux
+Enable Redstone Flux power support.
+MJ
+Enable MJ power support.
+Tesla
+Enable Tesla power support.
+Power Display Mode
+The format power will be displayed in in engine/machine interfaces.
+Enabled machines.
+List of enabled machines. Note that some things may be impossible to do if you change this!
+New custom bee name
+New custom tree name
+Forest Drone
+New Dark Oak Pollen Name
+New custom bee species name
+New custom tree species name
+New Forest drone species name when used in a beealyzer
+New Dark Oak pollen species name when used in a treealyzer
+New custom adjective
+New custom adjective for slowest worker speed, replacing forestry.allele.slowest
+New custom adjective for slowest flower pollination, replacing forestry.allele.slowest
+New custom adjective for low yield, replacing forestry.allele.low
+Slowest Worker
+Chestnut Stairs
+Kapok Wood Planks
+Wenge Wood Slab
+Mahogany Wood
+Larch Fence
+Place Forestry Frames in an Apiary to improve the bees' production rate and reduce the genetic decay of Ignoble bees.
+Pieces of the Apiarist's Suit protect the wearer from negative bee effects. A full suit offers complete protection.
+The Habitat Locator searches for the closest ideal habitat for a bee. When it has located a spot, it will point the way there. When the current location is ideal, it will spin steadily.
+The Scoop is used to break bee hives found in the world, it will collect the bees inside. It can also be used to catch butterflies by right-clicking them.
+Creative-only. Creates hybrid bees of any type.
+Used to infuse Mead with Pollen Clusters and create Curative Mead.
+Circuit Boards can be fitted with Electron Tubes by using a Soldering Iron. Once complete, they can be placed in the sockets on machine guis. Use a Soldering Iron to remove them from a socket.
+Right click with the Soldering Iron in hand to open the soldering gui. There, you can select the type of circuit to make and attach Electron Tubes to Circuit Boards. Can be used to remove a circuit board from a socket.
+Electron Tubes can be attached to Circuit Boards using a Soldering Iron. They have many purposes displayed on the tooltip, which depend on the circuit type selected in the Soldering Iron. Once soldered, they cannot be removed from a Circuit Board.
+Rich soil that can grow plants and doesn't require water. Degrades into sand over time.
+Slowly turns into peat if left to soak near water for a while.
+Block version of the Portable Genetic Analyzer. Requires power and liquid honey.
+Play a matching mini-game to research bee, tree, and butterfly mutations. Gives research notes that boost mutation rates, and other rewards.
+Can pick up small amounts of liquid. In Forestry GUIs, you can hold a pipette and click the tanks to fill or drain them directly.
+A stackable package that contains a bronze shovel. Use it in your hand to open.
+A stackable package that contains a bronze pickaxe. Use it in your hand to open.
+Rich fertilizer. Can be used as bonemeal on crops and saplings. Required in order to run a Forestry farm.
+Collects water when it rains. Can automatically output water from the bottom side.
+Advanced crafting table with an inventory. Remembers up to 9 recipes. Has the ability to choose the crafting result when there is a recipe conflict.
+Guarantees a sapling drop when breaking Forestry leaves. Has a very limited number of uses.
+Guarantees a sapling drop when breaking Forestry leaves. They can only be purchased from villagers.
+Allows players to send letters to trade stations and other players. Opening any mailbox will show the player their own mail.
+An automatic mailbox that lets players set up a trading deal.
+Creative-only. Collects all the stamps used by mailing letters. Useful for servers with a stamp economy.
+Extra inventory that can hold whatever is set in the configs in /config/forestry/backpacks.cfg
+Extra inventory that automatically picks up building-related items.
+Extra inventory that automatically picks up dirt, cobble, and other low-value mining-related items.
+Extra inventory that automatically picks up plants and related items.
+Extra inventory that automatically picks up mob drops and related items.
+Extra inventory that automatically picks up ores and valuable mining-related items.
+Extra inventory that automatically picks up bees.
+Extra inventory that automatically picks up butterflies.
+Causes Rain
+Stops Rain
+Speed: %s
+Duration: %s ticks
+Farming
+Soil
+Germlings
+Products
+Charcoal Pile
+Chance: %s
+The amount of this item is affected by the fortune enchantment.

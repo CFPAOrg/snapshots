@@ -1,0 +1,46 @@
+Super Diamond
+Iron Rod
+Super Diamond Helmet
+Super Diamond Chestplate
+Super Diamond Leggings
+Super Diamond Boots
+Super Diamond Sword
+Super Diamond Pickaxe
+Super Diamond Axe
+Super Diamond Shovel
+Super Diamond Hoe
+Flint Helmet
+Flint Chestplate
+Flint Leggings
+Flint Boots
+Flint Sword
+Flint Pickaxe
+Flint Axe
+Flint Shovel
+Flint Hoe
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Emerald Sword
+Emerald Pickaxe
+Emerald Axe
+Emerald Shovel
+Emerald Hoe
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Obsidian Sword
+Obsidian Pickaxe
+Obsidian Axe
+Obsidian Shovel
+Obsidian Hoe
+Diamond Shears
+Flint Shears
+Obsidian Shears
+Gold Shears
+Emerald Shears
+Super Diamond Block
+Flint Block
+Mo' Utilities Mod

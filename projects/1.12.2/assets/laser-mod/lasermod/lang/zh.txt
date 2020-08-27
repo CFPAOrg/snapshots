@@ -1,0 +1,86 @@
+Laser
+Laser Catcher
+Laser Tool Charger
+Modification Station (§4WIP§r)
+Crystallizer
+Laser Projector
+Basic Redstone Fluid Tank
+Laser Gun (§4WIP§r)
+Wrench (§4WIP§r)
+Laser Tool Base
+Laser Crystal
+IR Glasses
+Upgrade Base
+Laser Pickaxe
+Laser Axe
+Laser Shovel
+Laser Sword
+Laser Hoe
+Laser Chestplate (§4WIP§r)
+Laser Boots (§4WIP§r)
+Laser Helmet (§4WIP§r)
+Speed Upgrade
+Mining Upgrade
+Fire Upgrade
+Fire Upgrade
+Color Upgrade
+Mode Upgrade
+Silence Upgrade
+Customizable Upgrade
+More Lines Upgrade
+Damage Upgrade
+Damage Upgrade
+Damage Upgrade
+Damage Upgrade
+No Damage Upgrade
+Pull Upgrade
+Push Upgrade
+Redstone Fluid
+Laser Upgrades
+options...
+POWER
+Normal
+Invisible
+Laser Mode:
+Red
+Green
+Blue
+Silenced:
+Yes
+No
+Tool Charger
+Modification Station
+Crystallizer
+Laser Projector
+display text
+display item
+Rotate
+Player
+Options..
+Lines
+Scale
+Height
+Rotation
+Rotation Speed
+Reset
+Lines Rotate
+Can Be Used For: 
+Laser Tools
+Laser Mod
+Laser Mod Upgrades
+Laser Ambient
+Laser Activation
+%s has been incinerated by a laser
+Laser Damage
+Damage Increase
+The amount of damage that every Damage Upgrade add (default:2)
+Enable Update Checker
+Wheter or not to Check for updates when you join a world (default:true)
+Update type
+Wich version to check for when the updatechecker is used (this can only be:"latest" or "recommended")
+Blocks
+Items
+General
+Laser Mod Config
+Toggle Armor (§4WIP§r)
+Laser Mod

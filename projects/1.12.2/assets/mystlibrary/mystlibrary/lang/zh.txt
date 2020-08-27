@@ -1,0 +1,122 @@
+%1$s Color
+%1$s Length
+%1$s Phase
+%1$s Direction
+Biome
+Biome List
+Biome Controller
+Lighting
+Weather
+Terrain
+Visual
+Small Feature
+Medium Feature
+Large Feature
+Effect
+Sun
+Moon
+Starfield
+Doodad
+Crystaline Block
+Fluid Block
+Organic Block
+Solid Block
+Structural Block
+Sea Block
+Terrain Block
+Uncommon Sunset
+Sunset
+Angle
+Period
+Phase
+Color
+Color Gradient
+Angle
+Period
+Phase
+Basic Color
+Basic Color Gradient
+Large Feature
+Medium Feature
+Small Feature
+Balance
+Believe
+Celestial
+Chain
+Change
+Chaos
+Civilization
+Constraint
+Contradict
+Control
+Convey
+Creativity
+Cycle
+Dependence
+Discover
+Dynamic
+Elevate
+Encourage
+Energy
+Entropy
+Ethereal
+Exist
+Explore
+Flow
+Force
+Form
+Future
+Growth
+Harmony
+Honor
+Image
+Infinite
+Inhibit
+Intelligence
+Love
+Machine
+Merge
+Momentum
+Motion
+Mutual
+Nature
+Nurture
+Order
+Possibility
+Power
+Question
+Rebirth
+Remember
+Resilience
+Resurrect
+Sacrifice
+Society
+Spur
+Static
+Stimulate
+Survival
+Sustain
+System
+Terrain
+Time
+Tradition
+Transform
+Void
+Weave
+Wisdom
+Black
+Blue
+Cyan
+Dark Green
+Green
+Grey
+Magenta
+Maroon
+Navy
+Olive
+Purple
+Red
+Silver
+Teal
+White
+Yellow

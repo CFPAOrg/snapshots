@@ -1,0 +1,24 @@
+Aluminum Golem
+Bronze Golem
+Coal Coke Golem
+Constantan Golem
+Copper Golem
+Electrum Golem
+Enderium Golem
+Hardened Glass Golem
+Invar Golem
+Iridium Golem
+Lead Golem
+Lumium Golem
+Mana-Infused Golem
+Nickel Golem
+Platinum Golem
+Rockwool Golem
+Signalum Golem
+Silver Golem
+Steel Golem
+Tin Golem
+Immune to magic
+Speedy
+Heavy!
+Extra damage to Undead

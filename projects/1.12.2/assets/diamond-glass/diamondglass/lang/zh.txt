@@ -1,0 +1,83 @@
+English
+United States
+en_us
+Diamond Glass
+Diamond Glass
+Diamond Glass Pane 
+Diamond Glass Stairs 
+Diamond Glass Slab 
+Diamond Sand
+Diamond Sandstone
+Smooth Diamond Sandstone
+Chiseled Diamond Sandstone
+Diamond Sandstone Stairs 
+Smooth Diamond Sandstone Stairs 
+Chiseled Diamond Sandstone Stairs 
+Diamond Sandstone Slab 
+Smooth Diamond Sandstone Slab 
+Chiseled Diamond Sandstone Slab 
+Diamonium
+Diamond Glass Black
+Diamond Glass Blue
+Diamond Glass Brown
+Diamond Glass Gray
+Diamond Glass Green
+Diamond Glass Light Blue
+Diamond Glass Light Gray
+Diamond Glass Lime
+Diamond Glass Magenta
+Diamond Glass Orange
+Diamond Glass Pink
+Diamond Glass Purple
+Diamond Glass Red
+Diamond Glass White
+Diamond Glass Yellow
+Diamond Glass Pane Black
+Diamond Glass Pane Blue
+Diamond Glass Pane Brown
+Diamond Glass Pane Gray
+Diamond Glass Pane Green
+Diamond Glass Pane Light Blue
+Diamond Glass Pane Light Gray
+Diamond Glass Pane Lime
+Diamond Glass Pane Magenta
+Diamond Glass Pane Orange
+Diamond Glass Pane Pink
+Diamond Glass Pane Purple
+Diamond Glass Pane Red
+Diamond Glass Pane White
+Diamond Glass Pane Yellow
+Diamond Glass Slab Black
+Diamond Glass Slab Blue
+Diamond Glass Slab Brown
+Diamond Glass Slab Gray
+Diamond Glass Slab Green
+Diamond Glass Slab Light Blue
+Diamond Glass Slab Light Gray
+Diamond Glass Slab Lime
+Diamond Glass Slab Magenta
+Diamond Glass Slab Orange
+Diamond Glass Slab Pink
+Diamond Glass Slab Purple
+Diamond Glass Slab Red
+Diamond Glass Slab White
+Diamond Glass Slab Yellow
+Diamond Glass Stairs Black
+Diamond Glass Stairs Blue
+Diamond Glass Stairs Brown
+Diamond Glass Stairs Gray
+Diamond Glass Stairs Green
+Diamond Glass Stairs Lightblue
+Diamond Glass Stairs Lightgray
+Diamond Glass Stairs Lime
+Diamond Glass Stairs Magenta
+Diamond Glass Stairs Orange
+Diamond Glass Stairs Pink
+Diamond Glass Stairs Purple
+Diamond Glass Stairs Red
+Diamond Glass Stairs White
+Diamond Glass Stairs Yellow
+Rainbow Diamond Glass
+Rainbow Diamond Glass Stairs
+Rainbow Diamond Glass Slab
+Rainbow Diamond Glass Pane

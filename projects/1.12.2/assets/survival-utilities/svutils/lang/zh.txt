@@ -1,0 +1,51 @@
+Flint Shard
+Barbed Arrow
+Prismarine Arrow
+Flint Spikes
+Proven Shovel
+Stream Axe
+Rotator
+Sickle
+Hand Plow
+Flint Throwing Knife
+Wood Mattock
+Gold Mattock
+Stone Mattock
+Iron Mattock
+Diamond Mattock
+Loaf
+Observer Deactivator
+Rake
+Bait
+Noteblock Detuner
+Meat Strips
+Footprints
+Footprints
+Footprints
+Lava Sponge
+Wet Lava Sponge
+Flint Spikes
+Lightning Rod
+Dull Brick
+Dull Brick Slab
+Dull Brick Slab
+Dull Brick Stairs
+Red Brick
+Red Brick Slab
+Red Brick Slab
+Red Brick Stairs
+Rope Ladder
+Bear Trap
+Broken Bear Trap
+Bear Trap (Snapped)
+Deactivated Observer
+Zombie Bait
+Survival Utilities
+Searing
+Beheading
+Light Footed
+Autosmelts the blocks that you break
+Drops the vanilla heads of mobs you kill and player heads
+For boots, prevents you from leaving footprints
+%1$s fell on spikes
+%1$s was chomped by a bear trap

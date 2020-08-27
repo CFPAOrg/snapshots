@@ -1,0 +1,145 @@
+Empty Syringe
+Titan Injection
+Royal Blood Injection
+Lamp
+Flare Gun
+Sword
+Reinforced Pickaxe
+Bullet
+Empty Flare
+Black Flare
+Blue Flare
+Green Flare
+Purple Flare
+Red Flare
+Yellow Flare
+Gas Cartridge
+Glowing Ore Rock
+Empty Test Tube
+Filled Test Tube
+Ultrahard Steel Ingot
+Thunderspear
+Blade
+Needle
+Grapeshot
+High Explosive Shell
+Cannon
+Mobile Cannon
+Empty Rifle
+Loaded Rifle
+Rifle Barrel
+Cannon Barrel
+Rifle Shaft
+Trigger
+Cannon Wheel
+Handle
+Fan
+Blade Canister
+Turbine
+Spool
+Cable
+Belt
+Three Dimensional Maneuver Gear
+Army Leggins
+Army Boots
+Scouts Jacket
+Garrison Jacket
+Military Police Jacket
+Cadets Jacket
+Iceburst Shard
+Military Police Emblem
+Garrison Emblem
+Cadets Emblem
+Scouts Emblem
+Basement Key
+Ultrahard Steel Nugget
+Blade Part
+Iceburst Canister
+Ring
+Goggles
+Glasses
+Scouts Cape
+Military Police Cape
+Garrison Cape
+Sash
+Eyepatch Left
+Eyepatch Right
+Monocle Left
+Monocle Right
+Red Necklace
+Green Necklace
+Purple Necklace
+Eldian Armband
+Scarf
+Ascot
+Reinforced Diamond
+Knife
+Royal Blood
+Hat
+Glowing Ore
+Blast Furnace
+Iceburst Stone
+Wall
+Vaporator
+Pipe
+Gas Tank
+Air Light
+Flare
+Cannon
+High Explosive Shell
+Grapeshot
+Armored Titan
+Colossal Titan
+Attack Titan
+Orange Lightning Bolt
+Mobile Cannon
+Hook
+Gas
+Press Shift to show controls
+Press Ctrl to show more info
+Fluid
+Amount
+This tank is empty
+ - Shoot Flare
+ - Open inventory
+ - equip/unequip Handles
+ - switch Blades
+ - reload/shoot Rifle
+ - open inventory
+Shards
+ - mount to Cannon
+ - to load/shoot Cannon
+ - mount to Mobile Cannon
+ - to load/shoot Mobile Cannon
+ - fill Gas Cartridge when focusing Gas Tank
+Gas
+Will explode/evaporate when exposed to heat, should be stored in Iceburst Canister
+ - toggle ODM Gear Mode
+ - toogle Boost Mode
+ - pull to Hooks
+ - extend Cables
+ - shoot both Hooks
+ - shoot left Hook
+ - shoot right Hook
+Gas
+Blades
+Reduce fall damage by 
+Blast Furnace
+Vaporator
+Open AoM Inventory
+Equip Handles
+Reload Blades
+Shoot Hooks
+Toggle ODM Gear Mode
+Toggle Boost Mode
+Pull to Hooks
+Extend Cables
+Upward Boost
+Shoot Left Hook
+Shoot Right Hook
+Shoot Hooks
+Attack on Minecraft
+ODM Gear basic controls
+ODM Gear default controls
+ODM Gear advanced controls
+Attack on Minecraft

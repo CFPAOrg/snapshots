@@ -1,0 +1,85 @@
+Loyalty Medals
+Certificate of loyalty
+Reward for joining
+Wood Loyalty Medal
+Reward for playing 5 hours
+Cheese Loyalty Medal
+Reward for playing 10 hours
+Glass Loyalty Medal
+Reward for playing 20 hours
+Glowstone Loyalty Medal
+Reward for playing 40 hours
+Bronze Loyalty Medal
+Reward for playing 80 hours
+Silver Loyalty Medal
+Reward for playing 100 hours
+Gold Loyalty Medal
+Reward for playing 150 hours
+Obsidian Loyalty Medal
+Reward for playing 200 hours
+Diamond Loyalty Medal
+Reward for playing 250 hours
+Emerald Loyalty Medal
+Reward for playing 300 hours
+Ruby Loyalty Medal
+Reward for playing 400 hours
+Sapphire Loyalty Medal
+Reward for playing 500 hours
+Amethyst Loyalty Medal
+Reward for playing 600 hours
+Uranium Loyalty Medal
+Reward for playing 235 hours
+Stop Loyalty Medal
+Reward for playing 10.000 hours
+Irenium Loyalty Medal
+Reward for playing 11 hours
+Allium Loyalty Medal
+Reward for playing 101 hours
+Pluto Loyalty Medal
+Reward for playing 153 hours
+Missing Loyalty Medal
+Reward for playing 404 hours
+Iskallium Loyalty Medal
+Reward for playing 85 hours
+§6Certificate of playing§r
+§6Wooden Loyalty Medal§r
+§6Cheese Loyalty Medal§r
+§fGlass Loyalty Medal§r
+§6Glowstone Loyalty Medal§r
+§6Bronze Loyalty Medal§r
+§7Silver Loyalty Medal§r
+§6Gold Loyalty Medal§r
+§5Obsidian Loyalty Medal§r
+§bDiamond Loyalty Medal§r
+§2Emerald Loyalty Medal§r
+§2Uranium Loyalty Medal§r
+§4Ruby Loyalty Medal§r
+§1Sapphire Loyalty Medal§r
+§5Amethyst Loyalty Medal§r
+§4Stop Loyalty Medal§r
+§5Missing Loyalty Medal§r
+§6Pluto Loyalty Medal§r
+§6Irenium Loyalty Medal§r
+§dAllium Loyalty Medal§r
+§aIskallium Loyalty Medal§r
+Rewarded for 5 hours of playtime
+Rewarded for 10 hours of playtime
+Rewarded for 20 hours of playtime
+Rewarded for 40 hours of playtime
+Rewarded for 80 hours of playtime
+Rewarded for 100 hours of playtime
+Rewarded for playing a day in pluto time
+Rewarded for 150 hours of playtime
+Rewarded for 200 hours of playtime
+Rewarded for 235 hours of playtime
+Rewarded for 250 hours of playtime
+Rewarded for 300 hours of playtime
+§d404 description not found§r
+Rewarded for 400 hours of playtime
+Rewarded for 500 hours of playtime
+Rewarded for 600 hours of playtime
+Rewared for 10.000 hours of playtime
+Rewarded for 11 hours of playtime
+Rewarded for 101 hours of playtime
+§2Rewarded for 85 hours of playtime§r
+Real Time Played

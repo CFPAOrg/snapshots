@@ -1,0 +1,50 @@
+Break
+Attack
+Eat
+Drink
+Block
+Pull Bow
+Place Block
+Use Item
+Interact
+Inventory
+Close Inventory
+Swap Hands
+Dismount
+Jump
+Sneak
+Drop Item
+Pickup Stack
+Pickup Item
+Quick Move
+Place Stack
+Place Item
+Select a Controller
+Settings
+Remap Buttons
+Settings
+Remap Buttons
+Back
+Auto Select
+Dead Zone
+Dead Zone: %s
+Rotation Speed
+Rotation Speed: %s
+Mouse Speed
+Mouse Speed: %s
+Render Mini Player
+Virtual Mouse
+Console Hotbar
+Vibration
+Cursor Type
+Icons
+Invert Look
+Default
+Playstation
+Xbox
+Light
+Dark
+Console
+Controller
+Connected
+Disconnected

@@ -1,0 +1,314 @@
+Hydroponic Grow Bed
+Harvester
+Water Filler
+CO2 Scrubber
+CO2 Diffuser
+Nutrient Injector
+Hydroponic Grow Light
+Hydroponic Frame
+Aquaponic Frame
+Aquaponic Glass
+Aquaponic Base
+Aquaponic Controller
+Aquaponic Port
+Red Bulb
+Green Bulb
+Blue Bulb
+UV Bulb
+Nozzle Component
+Long Spray Nozzle
+Smart Spray Nozzle
+Precision Spray Nozzle
+Fertilizer
+Processor
+Shredder
+Waste Collector
+Shredded Plastic
+Shredded Plant
+Shredded Starch
+Plastic Waste
+Fabricator Filament
+Block of Bioplastic
+Block of Clear Bioplastic
+Bioplastic Rod
+Bioplastic Sheet
+Basic Machine Case
+Fabricator
+Bioplastic Ladder
+Bioplastic Tissue Scaffold
+Turbine
+Paper Waste
+Paper Pulp
+Shredded Paper
+Shredded Plastic Block
+Shredded Plant Block
+Shredded Starch Block
+Solar Cooker
+Empty Syringe
+Raw Synthetic Beef
+Raw Synthetic Chicken
+Raw Synthetic Porkchop
+Cooked Synthetic Beef
+Cooked Synthetic Chicken
+Cooked Synthetic Porkchop
+Synthetic Silk
+Synthetic Slime Ball
+Synthetic Leather
+Algae
+Algae Bar
+Cooked Algae Bar
+Meal Replacement Powder
+Meal Replacement Drink
+Plastic Bottle
+Tissue Bioreactor
+Tissue Scaffolder
+Algae Bioreactor
+Piezoelectric Generator
+Solar Panel
+Solar Glass
+Battery
+Biomass
+Biochar
+Biomass Generator
+Tidal Generator
+Wind Generator
+Biochar Block
+Algorithmic Optimizer
+Blank Circuit Board
+Basic Circuit Board
+Advanced Circuit Board
+Superior Circuit Board
+Guide Light
+Smart Speaker
+Hydroponic Grow Bed
+Harvester
+Water Filler
+CO2 Scrubber
+CO2 Diffuser
+Nutrient Injector
+Hydroponic Grow Light
+Hydroponic Frame
+Aquaponic Frame
+Aquaponic Glass
+Aquaponic Base
+Aquaponic Controller
+Aquaponic Port
+Processor
+Shredder
+Waste Collector
+Block of Bioplastic
+Block of Clear Bioplastic
+Basic Machine Case
+Fabricator
+Bioplastic Ladder
+Shredded Plastic Block
+Shredded Plant Block
+Shredded Starch Block
+Solar Cooker
+Tissue Bioreactor
+Tissue Scaffolder
+Algae Bioreactor
+Piezoelectric Generator
+Solar Panel
+Solar Glass
+Battery
+Biomass Generator
+Tidal Generator
+Wind Generator
+Biochar Block
+Algorithmic Optimizer
+Guide Light
+Smart Speaker
+Hydroponic Grow Bed
+Harvester
+Water Filler
+CO2 Scrubber
+CO2 Diffuser
+Nutrient Injector
+Hydroponic Grow Light
+Hydroponic Frame
+Aquaponic Frame
+Aquaponic Glass
+Aquaponic Base
+Aquaponic Controller
+Aquaponic Port
+Processor
+Shredder
+Waste Collector
+Block of Bioplastic
+Block of Clear Bioplastic
+Basic Machine Case
+Fabricator
+Bioplastic Ladder
+Shredded Plastic Block
+Shredded Plant Block
+Shredded Starch Block
+Solar Cooker
+Tissue Bioreactor
+Tissue Scaffolder
+Algae Bioreactor
+Piezoelectric Generator
+Solar Panel
+Solar Glass
+Battery
+Biomass Generator
+Tidal Generator
+Wind Generator
+Biochar Block
+Algorithmic Optimizer
+Guide Light
+Smart Speaker
+Carbon Dioxide
+Carbon Dioxide
+Nutrient Fluid
+Nutrient Fluid
+Polluted Dirt
+Polluted Dirt
+Polluted Dirt
+Polluted Sand
+Polluted Sand
+Polluted Sand
+Polluted Gravel
+Polluted Gravel
+Polluted Gravel
+Aquaponic Tank
+Emerging Technology
+Burns Biomass to produce energy.
+Processes animal tissues into usable samples.
+Uses CO2 to produce Algae. Produces faster with Grow Light and bulb above.
+Slowly collects waste plastic and other items when placed in water.
+Uses direct sunlight to cook food items.
+Automates the printing of plastic components.
+Fills adjacent fluid tanks with water.
+Harvests crops automatically.
+Captures CO2 from the surrounding atmosphere.
+Diffuses CO2 to boost surround plants' growth.
+Injects nutrients into water to produce Nutrient Fluid.
+Plants grown on this block can receive a growth boost.
+Provides a growth boost to plants grown below.
+Generates a tiny amount of energy when stepped on.
+Processes raw materials into usable plastics.
+Forms Tissue Samples into synthetic animal products.
+Shreds plants and plastic items into raw materials for the Processor.
+Generates energy when in sunlight.
+Transparent Solar Panel which generates energy if one of two blocks in front are in sunlight.
+Generates energy using the movement of wind.
+Generates energy using the movement of tides.
+Stores energy for later use. Input on Green side, output on Red.
+Increases the efficiency of adjacent machines.
+The main control block for an Aquaponic Tank
+An automation port for an Aquaponic Tank
+A decorative plastic frame
+Responds to messages sent by the player
+A nozzle used by the Diffuser.
+A crafting ingredient used to create nozzles.
+Multiplies the range and effectiveness of the Diffuser by %1$s and %2$s respectively.
+Multiplies the range of the Diffuser by %s.
+Multiplies the effectiveness of the Diffuser by %s.
+Used in the Optimiser. Provides %s Cores.
+A bulb used in a Hydroponic Grow Light.
+An empty syringe used for collecting tissue samples from animals.
+Raw Synthetic %s Meat
+Cooked Synthetic %s Meat
+Sample of %s Tissue
+Syringe of %s Tissue
+Looks like %s meat
+Tastes like %s meat
+A sample containing %s tissue.
+A syringe containing %s tissue.
+Requires %sRF per tick.
+Requires %smB of fluid per tick.
+Requires %smB of water per tick.
+Requires %smB of CO2 per tick.
+Requires %sC heat per tick.
+Provides a %s percent growth boost per tick;
+Only functions in Ocean, Deep Ocean and Beach biomes.
+Requires at least %s surrounding water blocks.
+Requires at least %s surrounding air blocks.
+Must be placed at water's surface.
+(x2 when at level between Y%1$s and Y%2$s)
+Generates %sRF per tick.
+Provides %smB of fluid per tick.
+Provides %smB of water per tick.
+Provides %smB of CO2 per tick.
+Generates %sK heat per tick.
+Provides a %s percent chance of growth boost per tick.
+Gains %1$sK in sunlight and loses %2$sK in darkness.
+Boosts plant growth up to %s blocks below.
+Boosts plant growth up to %s blocks to the North, East, South or West sides.
+Boosts machine efficiency up to %s blocks to the North, East, South or West sides.
+Can store up to %sRF of energy.
+Can store up to %smB of fluid.
+Can store up to %smB of CO2.
+Can store up to %smB of water.
+Right click to use.
+Press SHIFT for more details.
+Base (Medium): 
+Base (Fluid): 
+Boost (Medium): 
+Boost (Fluid): 
+Light Total: 
+Base: 
+Boost: 
+Max range: 
+Affected Plants: 
+Growth boost from bulb: x%s
+Grow Light or bulb not found.
+Energy Storage
+Fluid Storage
+Gas Storage
+Temperature
+Growth Modifiers
+Error
+Unable to fabricate item
+Insufficient energy
+Insufficient items in input
+Output full
+Invalid output item
+Invalid input item
+Program 
+Requires 
+Assign a Core to this boost.
+Unassign a Core from this boost.
+%s Cores remaining.
+Reduces resource usage by %s percent.
+Reduces processing time by %s percent.
+Set %s side to Input (Currently Output)
+Set %s side to Output (Currently Input)
+New fish are kept in tank
+New fish are moved to output
+Emerging Technology - Configuration
+Disable Machine
+Prevent this machine from being crafted and appearing in Creative Tab
+Hydroponics
+Configure Grow Bed, Grow Light, Harvester, Filler, Scrubber, Diffuser and Injector here
+Hydroponic Grow Bed
+Hydroponic Grow Light
+Harvester
+Water Filler
+CO2 Scrubber
+CO2 Diffuser
+Nutrient Injector
+Polymers
+Configure World Generation, Shredder, Processor, Fabricator and Collector here
+Shredder
+Processor
+Fabricator
+Waste Collector
+World Generation
+Synthetics
+Configure Bioreactors, Scaffolder and Solar Cooker here
+Tissue Bioreactor
+Algae Bioreactor
+Tissue Scaffolder
+Solar Cooker
+Electrics
+Configure Solar Panel, Solar Glass, Tidal Generator, Biomass Generator, Piezoelectric Generator and Battery here
+Solar Panel
+Solar Glass
+Tidal Generator
+Biomass Generator
+Piezoelectric Generator
+Battery
+Wind Generator
+Algorithmic Optimizer

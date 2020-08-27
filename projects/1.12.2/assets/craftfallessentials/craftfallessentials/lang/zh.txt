@@ -1,0 +1,276 @@
+1$ Coin
+5$ Coin
+10$ Coin
+100$ Coin
+1,000$ Coin
+10,000$ Coin
+Twinkie
+Lore Book
+Train Door
+Convention Door
+The Pickaxe Of War
+Chainsaw
+Code Fragment
+Aether
+Reality Stone
+Fabric of Reality
+Craftfall Badge
+Celios Gauntlet
+Craftfall Shield
+Frostnir
+Ultimate Frostnir
+Snowbreaker
+Torn Terexian Watcher Suit
+In the final days of the war the watchers would scout ahead, seeking shelter and passage for all who should need it
+Torn Terexian Watcher Hood
+Torn Terexian Watcher Robes
+Torn Terexian Watcher Pants
+Torn Terexian Watcher Boots
+ATM
+Cashier
+Shelf
+Metal Crate
+Oak Crate
+Spruce Crate
+Pole
+Simulation Block
+Simulation Block
+Simulation Block
+Simulation Block
+Simulation Block
+Simulation Block
+Celios Station Model
+Bundle of Wires
+Green Circuit Panel
+Blue Circuit Panel
+Vent
+Vent
+Server
+Server
+Server
+Decorated Iron Block
+Decorated Iron Block
+Decorated Iron Block
+Decorated Iron Block
+Vantablack
+Gray Convention Brick
+Beige Convention Brick
+Convention Carpet
+Convention Floor
+Convention Metal
+Convention Interior
+Convention Exterior
+Iron Light
+Iron Light
+Iron Light
+Iron Light
+Iron Light
+Iron Light
+Iron Light
+Steel Light
+Steel Light
+Steel Light
+Steel Light
+Steel Light
+Steel Light
+Steel Light
+Steel Divider
+Steel Divider
+Steel Divider
+Steel Divider
+Steel Divider
+Steel Divider
+Steel Divider
+Steel Bars
+Road Light
+Metal Grate
+Glowing Greenscreen
+Greenscreen
+Glowing Bluescreen
+Bluescreen
+Overhead Light
+Jail Cell
+Jail Door
+Snowed Stone
+Sewer Water
+Very Serious Table. 100% Serious. I took Notes - Swirtzly
+Simulation Grass
+Simulation Dirt
+Simulation Wood
+Simulation Planks
+Simulation Leaves
+Malekith
+Aether
+You awaken from a long sleep...
+You are a scientist from Green Industries. Lucas Green himself has asked you to investigate the mysterious city Snowpoint.
+Now you are arriving at Snowpoint City station, ready to start an adventure of your own...
+presents...
+Craftfall
+Turn Into Bubbles
+Turns blocks and entities into bubbles
+Create Fake Item
+Create fake items
+Create Fake Block
+Create fake block
+/money [player] OR /money <set/withdraw/deposit> <player> [amount]
+Your balance: %s$
+%s's balance: %s$
+Set %s's balance to %s$
+Withdrawn %s$ from %s's balance
+That player doesn't have enough money!
+You need to hold coins in your hand to deposit it!
+Deposited %s$ to %s's balance
+/cutscenes <cutscene> [pause] OR /cutscenes <cutscene> <player> [pause]
+That cutscene does not exist!
+/popup <player> <title> <text>
+/rules
+/reply <message>
+/sit
+You must be standing on ground to sit down!
+/jail set <jail cell> <player> OR /jail imprison <player> OR /jail release <player> OR /jail emptycell <cell> OR /jail info [cell] OR /jail add <cell id> <x> <y> <z> [dim] OR /jail remove <cell>
+This jail cell does not exist!
+This jail cell already contains %s!
+%s was put into jail cell '%s'.
+There is no free jail cell!
+This player is not in jail!
+%s got released from jail cell '%s'.
+This jail cell does not contain a player!
+Jail cell '%s' contains %s. (Pos: %s, %s, %s in dim %s)
+Jail cell '%s' contains no player. (Pos: %s, %s, %s in dim %s)
+Jail cell '%s' was added. (Pos: %s, %s, %s in dim %s)
+A jail cell with the id '%s' already exists!
+Jail cell '%s' was removed.
+/lorebook <list|add|remove> [player] [book]
+Added all lore books to player!
+Lore book was successfully added!
+Was not able to add lore book!
+Removed all lore books from player!
+Lore book was successfully removed!
+Was not able to remove lore book!
+/reloadbroadcasts
+§9§l[§7§lBROADCAST§9§l] §r
+Broadcast messages have been reloaded!
+/broadcast <message>
+§9§l[§7§lBROADCAST§9§l] §r
+/freeze <player>
+You have been frozen!
+You have been unfrozen!
+You froze %s!
+You unfroze %s!
+/nameitem <name>
+You have changed the name of '%s' to '%s'
+You are not holding an item in your hand!
+/painting
+There is no painting in front of you!
+You have successfully changed that painting!
+/snowfix <radius>
+%s snow blocks removed, %s new ones added
+/tps
+TPS: %s/20
+Max Memory: %sMB
+Memory Usage: (%s) %sMB
+Free Memory: %sMB
+/regions reload
+Regions reloaded! (%s regions found)
+Example Regions have been stored to a file!
+Region visibility has been toggled!
+/enderchest <player>
+/modlist <player>
+%s's mods:
+/resourcepacks <player>
+%s's packs:
+/checkfake [player]
+You are not holding any item!
+%s is not holding any item!
+You are holding a fake item
+%s is holding a fake item
+You are not holding a fake item
+%s is not holding a fake item
+/blocklog
+The Blocklog is busy right now
+You are now a Blocklog inspector
+You are no longer a Blocklog inspector
+No interaction found for %s, %s, %s
+Block: %s
+Player: %s
+Action: %s
+Time: %s
+/cleartracker <all|space|reality|power|mind|soul|time>
+Removed every stonekeeper from the infinity tracker
+Removed %s stonekeeper from the infinity tracker
+There is no such stone!
+/persistentsound <player> <sound>
+The sound %s does not exist!
+§a%s §8» §7%s
+Celion Wrist Mounted Assisted Teleportation Device MK III
+Teleportation
+Communication
+Keep Inv
+Send TPA
+Players
+Options
+Locations of Infinity Stones:
+Find ∞
+§lLast Seen:§r XYZ: %s/%s/%s in dimension %s
+Lore Books
+%s$ was paid to keep items.
+Following cutscenes were not found in the cutscenes folder:
+Do you want to download them?
+Missing cutscenes
+This popup can be disabled in the config.
+Download
+Close
+Read more
+News
+Set Home
+Go Back
+On
+Off
+The cutscene '%s' was successfully downloaded!
+CraftfallEssentials requires FFmpeg to play cutscenes inside the game. If you want to view those please download FFmpeg. In case you dont want to download this, the mod will view text popups to summarize the missing cutscene.
+CraftfallEssentials requires FFmpeg to play cutscenes inside the game. If you want to view those please download FFmpeg and place its contents in a 'ffmpeg' folder in your Minecraft directory. In case you dont want to install this, the mod will view text popups to summarize the missing cutscene.
+Download FFmpeg
+Rules
+Deposit
+Withdraw
+You bought this chunk for %s$.
+You don't have enough money to buy this chunk!
+Current Chunk Price: %s$
+If you unclaim a chunk, the team leader will get 50$ as a refund.
+Your balance was reset due to a global money reset
+$%,d
+Agree
+Are you sure you have read everything? Ignoring the rules can lead to you being jailed or even banned!
+Something is preventing you from taking this...
+Red
+Green
+Blue
+Save
+Celios Device Color
+Changing the color costs you %s$!
+You can't use commands in jail!
+Transfer
+You don't have enough money!
+You transfered $%s to %s!
+You received $%s from %s!
+That player can't be found!
+Updated balance:
+Space Stone
+Power Stone
+Reality Stone
+Time Stone
+Soul Stone
+Mind Stone
+Missing...
+The new stonekeeper of the %s is %s!
+Money
+PVP
+%s tried to join with a VPN. They have been kicked.
+Hello %s, \n We have detected that you're using a VPN! \n Please turn it off in order to join the server! \n NOTE: You have not been banned!
+CraftfallEssentials
+Has permission to use abilities here, on the client
+Has permission to use abilities here, on the server
+New Balance
+Press %s to open!
+Acquired Celios Device!
+You are currently jailed!

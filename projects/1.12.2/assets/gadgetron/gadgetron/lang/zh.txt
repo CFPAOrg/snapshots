@@ -1,0 +1,202 @@
+Adamantine Ingot
+Carbonox Ingot
+Trillium Ingot
+Titanium Ingot
+Adamantine Dust
+Carbonox Dust
+Trillium Dust
+Titanium Dust
+Raritanium Rod
+Titanium Reinforced Black Leather
+Belt
+Lead-Platinum Blend
+Redstone-Glowstone Blend
+Tin-Silver Blend
+Silicon
+Adamantine Plate
+Carbonox Plate
+Trillium Plate
+Titanium Plate
+Raritanium Shard
+Conducting Metal Ingot
+Raritanium Enhanced Plate
+Conducting Metal Wire
+Circuit
+Raritanium Hammer
+Raritanium Pickaxe
+Raritanium Axe
+Raritanium Sword
+Raritanium Hoe
+Raritanium Shovel
+Adamantine Pickaxe
+Adamantine Axe
+Adamantine Sword
+Adamantine Hoe
+Adamantine Shovel
+Carbonox Pickaxe
+Carbonox Axe
+Carbonox Sword
+Carbonox Hoe
+Carbonox Shovel
+Trillium Pickaxe
+Trillium Axe
+Trillium Sword
+Trillium Hoe
+Trillium Shovel
+Titanium Pickaxe
+Titanium Axe
+Titanium Sword
+Titanium Hoe
+Titanium Shovel
+PDA 
+Power Distribution A-tuner
+Poisonous
+Bound to
+in
+Not bound
+Right click to put on belt
+To open belt gui when equipped press
+On contact with the pickaxe head applies �2Poison II�r for 30 seconds
+On contact with the axe head applies �2Poison II�r for 30 seconds
+On contact with the sword blade applies �2Poison II�r for 30 seconds
+On contact with the hoe head applies �2Poison II�r for 30 seconds
+On contact with the shovel head applies �2Poison II�r for 30 seconds
+Carrying this ore will apply the �2Poison I�r effect
+A rare hard crystal has the same durability as Adamantine
+A hard metal has the same durability as Raritanium
+A very hard metal, its durability is far superior to Adamantine, Raritanium and Trillium
+A hard poisonous metal, its durability is superior to Adamantine, but inferior to Carbonox
+A belt that can be equiped and can safely store 27 slots of items and other items if other gadgetron mods are used
+The Power Distribution A-tuner or shorten PDA, is used to connect battery to machines
+Does only work in the same dimension as the battery
+Raritanium Crystal
+Adamantine Ore
+Carbonox Ore
+Trillium Ore
+Titanium Ore
+Adamantine Block
+Carbonox Block
+Trillium Block
+Titanium Block
+Trillium
+Machine Block
+Basic Fuel Generator
+Basic Coal Generator
+Basic Battery
+Basic Fluid Smelter
+Basic Extractor
+Basic Processor
+Basic Fabricator
+Intermediate Fuel Generator
+Intermediate Coal Generator
+Intermediate Battery
+Intermediate Fluid Smelter
+Intermediate Extractor
+Intermediate Processor
+Intermediate Fabricator
+Advanced Fuel Generator
+Advanced Coal Generator
+Advanced Battery
+Advanced Fluid Smelter
+Advanced Extractor
+Advanced Processor
+Advanced Fabricator
+Trillium
+Empty
+Progress
+Energy Stored
+Push
+Pull
+Input
+Capacity
+Top
+Front
+Left
+Right
+Back
+Bottom
+Auto Input
+Auto Output
+Items
+Fluid
+Close
+I/O Config
+Output/B
+Show belt
+Battery
+Coal Generator
+Fuel Generator
+Fluid Smelter
+Extractor
+Processor
+Fabricator
+Burns: %ds
+Generate: %dRF/t
+Gadgetron
+Gadgetron Machines
+Gadgetron
+Trillium ore cause poison
+Trillium tools cause poison
+Worldgen
+Raritanium
+Adamantine
+Carbonox
+Trillium
+Titanium
+Retrogen ores
+Only works once for every chunk
+Log retrogen messages
+Generate ore
+Ore veins per chunk
+Minimum ores in a vein 
+Maximum ores in a vein
+Minimum height a vein can spawn
+Maximum height a vein can spawn
+Dimension blacklist
+Input dimension ids 
+Ore replaces block type
+Input only one block, using mod_id:name or minecraft:name
+Machines
+RF/t consumption
+RF capacity
+Generate mB per operation
+Tank capacity
+Speed modifier
+mB/T consumption
+Consume mB/T per operation
+RF/t generation
+Output RF/t
+Input RF/t
+Ticks between auto I/O
+Max fluid auto I/O
+Basic Coal Generator
+Intermediate Coal Generator
+Advanced Coal Generator
+Basic Fuel Generator
+Intermediate Fuel Generator
+Advanced Fuel Generator
+Basic Battery
+Intermediate Battery
+Advanced Battery
+Basic Fluid Smelter
+Intermediate Fluid Smelter
+Advanced Fluid Smelter
+Basic Fabricator
+Intermediate Fabricator
+Advanced Fabricator
+Basic Extractor
+Intermediate Extractor
+Advanced Extractor
+Basic Processor
+Intermediate Processor
+Advanced Processor
+Gadgetron
+Open belt gui
+Delivering power to
+blocks
+Failed to add block to output list, check if the battery still exists
+PDA bound to block
+PDA unbounded
+Only blocks from the same dimension can added
+You cannot equip another belt
+You have no belt on

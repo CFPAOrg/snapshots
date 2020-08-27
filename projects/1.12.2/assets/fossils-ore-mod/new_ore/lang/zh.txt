@@ -1,0 +1,13 @@
+Fossil Ingot
+Fossil Ore
+Fossil Shovel
+Fossil Boots
+Fossil Chestplate
+Fossil Pickaxe
+Fossil Hoe
+Fossil Block
+Fossil Sword
+Fossil Leggings
+Fossil
+Fossil Axe
+Fossil Helmet

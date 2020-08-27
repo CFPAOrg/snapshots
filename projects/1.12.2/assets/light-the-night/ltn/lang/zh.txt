@@ -1,0 +1,105 @@
+Swamp Mud
+Bioluminescent Mushroom
+Bioluminescent Mushrooms
+Purple Glow Wood
+Foxfire Wood
+Purple Glow Leaves
+Blue Glow Leaves
+Green Glow Leaves
+Red Glow Leaves
+Yellow Glow Leaves
+Purple Glow Sapling
+Blue Glow Sapling
+Green Glow Sapling
+Red Glow Sapling
+Yellow Glow Sapling
+Purple Glow Wood Planks
+Blue Glow Wood Planks
+Green Glow Wood Planks
+Red Glow Wood Planks
+Yellow Glow Wood Planks
+Rotten Planks
+Purple Glow Wood Slab
+Blue Glow Wood Slab
+Green Glow Wood Slab
+Red Glow Wood Slab
+Yellow Glow Wood Slab
+Rotten Wood Slab
+Purple Glow Wood Stairs
+Blue Glow Wood Stairs
+Green Glow Wood Stairs
+Red Glow Wood Stairs
+Yellow Glow Wood Stairs
+Rotten Stairs
+Purple Glow Wood Fence Gate
+Purple Glow Wood Fence
+Blue Glow Wood Fence
+Blue Glow Wood Fence Gate
+Green Glow Wood Fence
+Green Glow Wood Fence Gate
+Red Glow Wood Fence
+Red Glow Wood Fence Gate
+Yellow Glow Wood Fence
+Yellow Glow Wood Fence Gate
+Infernal Ice
+Bioluminescent Fungus
+Firefly Jar
+Blue Glow Wood
+Green Glow Wood
+Red Glow Wood
+Yellow Glow Wood
+Small Glowshroom Pot
+Large Glowshroom Pot
+Bent Glowshroom Pot
+Straightened Glowshroom Pot
+Red Glow Sapling Pot
+Green Glow Sapling Pot
+Blue Glow Sapling Pot
+Yellow Glow Sapling Pot
+Purple Glow Sapling Pot
+Dynamic Purple Glow Tree
+Dynamic Red Glow Tree
+Dynamic Green Glow Tree
+Dynamic Blue Glow Tree
+Dynamic Yellow Glow Tree
+Dynamic Leaves
+Purple Glow Tree Seeds
+Red Glow Tree Seeds
+Green Glow Tree Seeds
+Blue Glow Tree Seeds
+Yellow Glow Tree Seeds
+Glowing Plankton Water
+Do Not Tread
+Powerful magical energy is trapped within
+Bubbles under water and produces colorful flames at night
+Light the Night
+Light the Night
+Pick up a glowing mushroom
+Stinky
+Dig up some swamp mud
+Sparkling
+Catch some fireflies in a bottle
+Collect the Rainbow
+Collect all the glowing tree saplings
+Fire in Ice!
+Mine or craft infernal ice
+Illumination
+Potion of Light
+Splash Potion of Light
+Lingering Potion of Light
+Arrow of Light
+Enable Trees
+Enable Infernal Ice Explosions
+Enable Glowshrooms
+Enable Infernal Ice Freezing
+Glow Water Texture Brightening
+Enable Foxfire
+Enable Infernal Ice
+Enable Glowing Water
+Enable Swamp Mud/Wisps
+Enable Glowshroom Spreading
+Enable Foxfire Spreading
+Enable Obtaining Firefly Jars
+Enable Potion of Light
+Brewing stands are stupid!
+Glowing Goo

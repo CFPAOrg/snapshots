@@ -1,0 +1,544 @@
+Extra Vanilla
+Extra Vanilla Fake Blocks
+Extra Vanilla 2 Armors
+Extra Vanilla 2 Foodstuffs
+Extra Vanilla 2 Materials
+Extra Vanilla 2 Tools & Weapons
+Extra Vanilla 2 Blocks
+Extra Vanilla 2 Fake Blocks
+Redstone Apple
+Active Redstone Apple
+Emerald Apple
+Lapis Apple
+Diamond Apple
+Iron Apple
+Glowstone Apple
+Redstone Apple
+Active Redstone Apple
+Emerald Apple
+Lapis Apple
+Diamond Apple
+Iron Apple
+Glowstone Apple
+Roasted Apple
+Chocolate Apple
+Roasted Carrot
+Breadslice
+Toast
+Toasted Bread
+Nether Wart Soup
+Chocolate Cake
+Cheese Slice
+Beef Sandwich
+Porkchop Sandwich
+Mutton Sandwich
+Cod Sandwich
+Salmon Sandwich
+Toasted Beef Sandwich
+Toasted Porkchop Sandwich
+Toasted Mutton Sandwich
+Toasted Cod Sandwich
+Toasted Salmon Sandwich
+Beef Sandwich with Cheese
+Porkchop Sandwich with Cheese
+Mutton Sandwich with Cheese
+Cod Sandwich with Cheese
+Salmon Sandwich with Cheese
+Toasted Beef Sandwich with Cheese
+Toasted Porkchop Sandwich with Cheese
+Toasted Mutton Sandwich with Cheese
+Toasted Cod Sandwich with Cheese
+Toasted Salmon Sandwich with Cheese
+Beef Sandwich with Fried Egg
+Porkchop Sandwich with Fried Egg
+Mutton Sandwich with Fried Egg
+Cod Sandwich with Fried Egg
+Salmon Sandwich with Fried Egg
+Toasted Beef Sandwich with Fried Egg
+Toasted Porkchop Sandwich with Fried Egg
+Toasted Mutton Sandwich with Fried Egg
+Toasted Cod Sandwich with Fried Egg
+Toasted Salmon Sandwich with Fried Egg
+Beef Sandwich with Cheese and Fried Egg
+Porkchop Sandwich with Cheese and Fried Egg
+Mutton Sandwich with Cheese and Fried Egg
+Cod Sandwich with Cheese and Fried Egg
+Salmon Sandwich with Cheese and Fried Egg
+Toasted Beef Sandwich with Cheese and Fried Egg
+Toasted Porkchop Sandwich with Cheese and Fried Egg
+Toasted Mutton Sandwich with Cheese and Fried Egg
+Toasted Cod Sandwich with Cheese and Fried Egg
+Toasted Salmon Sandwich with Cheese and Fried Egg
+Iron Stick
+Wood Dust
+Chain
+Lapis Dust
+Lapis Mud
+Redstone Mud
+Glowstone Mud
+Ender Dust
+Ender Mud
+Glowstone Ingot
+Black Seeds
+Blue Seeds
+Light Blue Seeds
+Red Seeds
+Orange Seeds
+Yellow Seeds
+Lime Seeds
+Green Seeds
+Brown Seeds
+Cyan Seeds
+Purple Seeds
+Pink Seeds
+Magenta Seeds
+White Seeds
+Gray Seeds
+Silver Seeds
+Molten Iron
+Obsidian Dust
+Nether Dust
+Obsidian Ingot
+Obsidian Mud
+Molten Iron with Nether Dust
+Netherite Ingot
+TeleStick
+Advanced TeleStick
+Iron Cutter
+Stone Cutter
+Fried Egg
+Cooked Flesh
+Shield Handle
+Melon Juice
+Apple Juice
+Carrot Juice
+Cactus Fruit Juice
+Chocolate Milk
+Milk
+Pumpkin Soup
+Carrot Soup
+Cheese
+Cheese
+Ender Sword
+Big Ender Sword
+Ender Ingot
+Diamond Shears
+Golden Shears
+Emerald Shears
+Obsidian Shears
+Emerald Sword
+Emerald Axe
+Emerald Pickaxe
+Emerald Shovel
+Emerald Hoe
+Emerald Helmet
+Emerald Chestplate
+Emerald Leggings
+Emerald Boots
+Lapis Sword
+Lapis Axe
+Lapis Pickaxe
+Lapis Shovel
+Lapis Hoe
+Lapis Helmet
+Lapis Chestplate
+Lapis Leggings
+Lapis Boots
+Lapis Ingot
+Glowstone Sword
+Glowstone Axe
+Glowstone Pickaxe
+Glowstone Shovel
+Glowstone Hoe
+Glowstone Battleaxe
+Big Glowstone Sword
+Redstone Axe
+Redstone Sword
+Redstone Pickaxe
+Redstone Hoe
+Redstone Shovel
+Redstone Helmet
+Redstone Chestplate
+Redstone Leggings
+Redstone Boots
+Redstone Ingot
+Active Redstone Axe
+Active Redstone Sword
+Active Redstone Pickaxe
+Active Redstone Hoe
+Active Redstone Shovel
+Active Redstone Helmet
+Active Redstone Chestplate
+Active Redstone Leggings
+Active Redstone Boots
+Active Redstone Ingot
+Obsidian Axe
+Obsidian Sword
+Obsidian Pickaxe
+Obsidian Hoe
+Obsidian Shovel
+Obsidian Helmet
+Obsidian Chestplate
+Obsidian Leggings
+Obsidian Boots
+Netherite Axe
+Netherite Sword
+Netherite Pickaxe
+Netherite Hoe
+Netherite Shovel
+Netherite Helmet
+Netherite Chestplate
+Netherite Leggings
+Netherite Boots
+Nether Axe
+Nether Sword
+Nether Pickaxe
+Nether Hoe
+Nether Shovel
+Nether Helmet
+Nether Chestplate
+Nether Leggings
+Nether Boots
+Hardened Leather Cap
+Hardened Leather Tunic
+Hardened Leather Leggings
+Hardened Leather Boots
+Hardened Leather
+Prismarine Helmet
+Prismarine Chestplate
+Prismarine Leggings
+Prismarine Boots
+Glowstone Helmet
+Glowstone Chestplate
+Glowstone Leggings
+Glowstone Boots
+Oak Helmet
+Oak Chestplate
+Oak Leggings
+Oak Boots
+Birch Helmet
+Birch Chestplate
+Birch Leggings
+Birch Boots
+Dark Oak Helmet
+Dark Oak Chestplate
+Dark Oak Leggings
+Dark Oak Boots
+Jungle Helmet
+Jungle Chestplate
+Jungle Leggings
+Jungle Boots
+Acacia Helmet
+Acacia Chestplate
+Acacia Leggings
+Acacia Boots
+Spruce Helmet
+Spruce Chestplate
+Spruce Leggings
+Spruce Boots
+Brown Villager Robe
+Brown Villager Sleeves
+White Villager Robe
+White Villager Sleeves
+Green Villager Robe
+Green Villager Sleeves
+Purple Villager Robe
+Purple Villager Sleeves
+Villager Shoes
+Big Redstone Sword
+Big Active Redstone Sword
+Big Lapis Sword
+Big Emerald Sword
+Big Wooden Sword
+Big Iron Sword
+Big Golden Sword
+Big Stone Sword
+Big Diamond Sword
+Big Obsidian Sword
+Big Netherite Sword
+Big Nether Sword
+Redstone Battleaxe
+Active Redstone Battleaxe
+Obsidian Battleaxe
+Lapis Battleaxe
+Emerald Battleaxe
+Diamond Battleaxe
+Golden Battleaxe
+Iron Battleaxe
+Stone Battleaxe
+Wooden Battleaxe
+Netherite Battleaxe
+Nether Battleaxe
+Andesite Sword
+Andesite Axe
+Andesite Pickaxe
+Andesite Shovel
+Andesite Hoe
+Andesite Battleaxe
+Big Andesite Sword
+Granite Sword
+Granite Axe
+Granite Pickaxe
+Granite Shovel
+Granite Hoe
+Granite Battleaxe
+Big Granite Sword
+Diorite Sword
+Diorite Axe
+Diorite Pickaxe
+Diorite Shovel
+Diorite Hoe
+Diorite Battleaxe
+Big Diorite Sword
+Birch Sword
+Birch Axe
+Birch Pickaxe
+Birch Shovel
+Birch Hoe
+Big Birch Sword
+Birch Battleaxe
+Spruce Sword
+Spruce Axe
+Spruce Pickaxe
+Spruce Shovel
+Spruce Hoe
+Big Spruce Sword
+Spruce Battleaxe
+Acacia Sword
+Acacia Axe
+Acacia Pickaxe
+Acacia Shovel
+Acacia Hoe
+Big Acacia Sword
+Acacia Battleaxe
+Dark Oak Sword
+Dark Oak Axe
+Dark Oak Pickaxe
+Dark Oak Shovel
+Dark Oak Hoe
+Big Dark Oak Sword
+Dark Oak Battleaxe
+Jungle Sword
+Jungle Axe
+Jungle Pickaxe
+Jungle Shovel
+Jungle Hoe
+Big Jungle Sword
+Jungle Battleaxe
+Oak Battleaxe
+Big Oak Sword
+Smooth Stone
+Smooth Quartz 
+Smooth Sandstone
+Red Smooth Sandstone
+Andesite Bricks
+Granite Bricks
+Diorite Bricks
+Mixed Bricks
+Sandy Bricks
+Sandstone Bricks
+Red Sandstone Bricks
+Sandstone Bricks
+Red Sandstone Bricks
+Carved Melon
+Carved Pumpkin
+Magma Bricks
+Obsidian Bricks
+Lapis Bricks
+Glowstone Bricks
+Redstone Bricks
+Iron Ladder
+Acacia Stripped Log
+Acacia Stripped Wood
+Acacia Wood
+Oak Stripped Log
+Oak Stripped Wood
+Oak Wood
+Dark Oak Stripped Log
+Dark Oak Stripped Wood
+Dark Oak Wood
+Spruce Stripped Log
+Spruce Stripped Wood
+Spruce Wood
+Jungle Stripped Log
+Jungle Stripped Wood
+Jungle Wood
+Birch Stripped Log
+Birch Stripped Wood
+Birch Wood
+Block of Lapis
+Block of Glowstone
+Block of Redstone
+Block of Active Redstone
+Block of Netherite
+Black Stained Planks
+Blue Stained Planks
+Brown Stained Planks
+Gray Stained Planks
+Green Stained Planks
+Light Blue Stained Planks
+Lime Stained Planks
+Magenta Stained Planks
+Orange Stained Planks
+Cyan Stained Planks
+Pink Stained Planks
+Purple Stained Planks
+Red Stained Planks
+Silver Stained Planks
+White Stained Planks
+Yellow Stained Planks
+Black Stained Bricks
+Blue Stained Bricks
+Brown Stained Bricks
+Gray Stained Bricks
+Green Stained Bricks
+Light Blue Stained Bricks
+Lime Stained Bricks
+Magenta Stained Bricks
+Orange Stained Bricks
+Cyan Stained Bricks
+Pink Stained Bricks
+Purple Stained Bricks
+Red Stained Bricks
+Silver Stained Bricks
+White Stained Bricks
+Yellow Stained Bricks
+Black Quilted Wool
+Blue Quilted Wool
+Brown Quilted Wool
+Gray Quilted Wool
+Green Quilted Wool
+Light Blue Quilted Wool
+Lime Quilted Wool
+Magenta Quilted Wool
+Orange Quilted Wool
+Cyan Quilted Wool
+Pink Quilted Wool
+Purple Quilted Wool
+Red Quilted Wool
+Silver Quilted Wool
+White Quilted Wool
+Yellow Quilted Wool
+Black Grass
+Blue Grass
+Brown Grass
+Gray Grass
+Green Grass
+Light Blue Grass
+Lime Grass
+Magenta Grass
+Orange Grass
+Cyan Grass
+Pink Grass
+Purple Grass
+Red Grass
+Silver Grass
+White Grass
+Yellow Grass
+Smooth Stone
+Smooth Quartz 
+Smooth Sandstone
+Red Smooth Sandstone
+Andesite Bricks
+Granite Bricks
+Diorite Bricks
+Mixed Bricks
+Sandy Bricks
+Sandstone Bricks
+Red Sandstone Bricks
+Sandstone Bricks
+Red Sandstone Bricks
+Carved Melon
+Carved Pumpkin
+Magma Bricks
+Block of Lapis
+Block of Glowstone
+Block of Redstone
+Block  of Active Redstone
+Black Stained Planks
+Blue Stained Planks
+Brown Stained Planks
+Gray Stained Planks
+Green Stained Planks
+Light Blue Stained Planks
+Lime Stained Planks
+Magenta Stained Planks
+Orange Stained Planks
+Cyan Stained Planks
+Pink Stained Planks
+Purple Stained Planks
+Red Stained Planks
+Silver Stained Planks
+White Stained Planks
+Yellow Stained Planks
+Black Stained Bricks
+Blue Stained Bricks
+Brown Stained Bricks
+Gray Stained Bricks
+Green Stained Bricks
+Light Blue Stained Bricks
+Lime Stained Bricks
+Magenta Stained Bricks
+Orange Stained Bricks
+Cyan Stained Bricks
+Pink Stained Bricks
+Purple Stained Bricks
+Red Stained Bricks
+Silver Stained Bricks
+White Stained Bricks
+Yellow Stained Bricks
+Black Quilted Wool
+Blue Quilted Wool
+Brown Quilted Wool
+Gray Quilted Wool
+Green Quilted Wool
+Light Blue Quilted Wool
+Lime Quilted Wool
+Magenta Quilted Wool
+Orange Quilted Wool
+Cyan Quilted Wool
+Pink Quilted Wool
+Purple Quilted Wool
+Red Quilted Wool
+Silver Quilted Wool
+White Quilted Wool
+Yellow Quilted Wool
+Black Grass
+Blue Grass
+Brown Grass
+Gray Grass
+Green Grass
+Light Blue Grass
+Lime Grass
+Magenta Grass
+Orange Grass
+Cyan Grass
+Pink Grass
+Purple Grass
+Red Grass
+Silver Grass
+White Grass
+Yellow Grass
+Dirt
+Andesite
+Diorite
+Granite
+Stone
+Bricks
+Acacia Planks
+Oak Planks
+Dark Oak Planks
+Birch Planks
+Jungle Planks
+Spruce Planks
+Block of Quartz
+Chiseled Quartz Block
+Prismarine
+Prismarine Bricks
+Dark Prismarine
+Sand
+Red Sand
+Polished Andesite
+Polished Diorite
+Polished Granite
+Stone Bricks

@@ -1,0 +1,912 @@
+Live Structure Remover
+Magic Pyramid Block
+Magic Tower Block
+Magic Enchantment Room Block
+Magic Lighthouse Block
+Magic House Block
+Magic Wooden Pen Block
+Magic Iron Pen Block
+Magic Netherbrick Pen Block
+Magic Huge Tree Block
+Magic Wheat Farm Block
+Magic Storehouse Block
+Magic Trapped House Block
+Magic Trapped House Block
+Magic Waterslide Block
+Magic Bunker Block
+Magic Arena Block
+Magic Lava-Arena Block
+Magic Sugar Cane Farm Block
+Magic Melon Farm Block
+Magic Pumpkin Farm Block
+Magic Prison Block
+Magic Prison Block
+Magic Rollercoaster Block
+Magic Skyscraper Block
+Magic Torchpattern Block
+Magic Airplane Block
+Magic Boat Block
+Magic Airballoon Block
+Magic Plane Block
+Magic Dungeon Block
+Magic Huge Pyramid Block
+Magic CastleTower Block
+Magic Haunted House Block
+Magic Mega Skyscraper Block
+Magic House Block
+Magic House Block
+Magic Stadium Block
+Magic Floating Sphere Block
+Magic Stadium Block
+Magic Rollercoaster Block
+Magic Column Block
+Magic Glass House Block
+Magic Standard Brick House Block
+Magic Street Block
+Magic Shelter Block
+Grass
+Park East
+Parking Garage East
+Parking Garage North
+Parking Garage South
+Parking Garage West
+Parking Lots East
+Parking Lots North
+Parking Lots South
+Parking Lots West
+Park North
+Park South
+Park West
+Plaza Fountain
+Plaza
+Soccer Stadium East-West
+Soccer Stadium North-South
+Square
+Square Tree East
+Square Tree North
+Square Tree South
+Square Tree West
+Carrots East-West
+Carrots North-South
+Farm East
+Farm North
+Farm South
+Farm West
+Potatoes
+Stable East-West
+Stable North-South
+Wheat
+Blue East
+Blue North
+Blue South
+Blue West
+Brick East
+Brick North
+Brick South
+Brick West
+Chimney East
+Chimney North
+Chimney South
+Chimney West
+Computer Chip East
+Computer Chip North
+Computer Chip South
+Computer Chip West
+Green East
+Green North
+Green South
+Hardened Clay West
+Light Blue East
+Light Blue North
+Light Blue South
+Light Blue West
+3D Printing East
+3D Printing North
+3D Printing South
+3D Printing West
+Blue East
+Blue North
+Blue South
+Blue West
+Brick East
+Brick East-West
+Brick North
+Brick North-South
+Brick South
+Brick West
+Brown East
+Brown East II
+Brown North
+Brown North II
+Brown South
+Brown West
+Brown South II
+Brown West II
+Chimney East
+Chimney North
+Chimney South
+Chimney West
+Green East
+Green North
+Green South
+Green West
+Iron East
+Iron North
+Iron South
+Iron West
+Parabolic Antenna East
+Parabolic Antenna North
+Parabolic Antenna South
+Parabolic Antenna West
+Watertank
+Telescope East
+Telescope North
+Telescope South
+Telescope West
+Blue East
+Blue North
+Blue South
+Blue West
+Brick East
+Brick North
+Brick South
+Brick West
+Brown East
+Brown North
+Brown South
+Brown West
+Chemical Press East-West
+Chemical Press North-South
+Chimney East
+Chimney North
+Chimney South
+Chimney West
+Green East
+Green North
+Green South
+Green West
+Ice East
+Ice North
+Ice South
+Ice West
+Sandstone East
+Sandstone North
+Sandstone South
+Sandstone West
+Watertank East
+Watertank North
+Watertank South
+Watertank West
+High Density - Brick East-West
+High Density - Brick North-South
+High Density - Cyan East
+High Density - Cyan North
+High Density - Cyan South
+High Density - Cyan West
+High Density - Hole On Top East
+High Density - Hole On Top North
+High Density - Hole On Top South
+High Density - Hole On Top West
+High Density - Light Blue East-West
+High Density - Light Blue North-South
+High Density - Spirol Building East
+High Density - Spirol Building North
+High Density - Spirol Building South
+High Density - Spirol Building West
+Low Density - Blue East
+Low Density - Blue North
+Low Density - Blue South
+Low Density - Blue West
+Low Density - Green East
+Low Density - Green North
+Low Density - Green South
+Low Density - Green West
+Low Density - White East
+Low Density - White North
+Low Density - White South
+Low Density - White West
+Low Density - Yellow East
+Low Density - Yellow North
+Low Density - Yellow South
+Low Density - Yellow West
+Medium Density - Cyan East
+Medium Density - Cyan North
+Medium Density - Cyan South
+Medium Density - Cyan West
+Medium Density - Light Blue East
+Medium Density - Light Blue North
+Medium Density - Light Blue South
+Medium Density - Light Blue West
+Medium Density - Pink East
+Medium Density - Pink North
+Medium Density - Pink South
+Medium Density - Pink West
+Medium Density - Sandstone East
+Medium Density - Sandstone North
+Medium Density - Sandstone South
+Medium Density - Sandstone West
+Fire Service Big East
+Fire Service Big North
+Fire Service Big South
+Fire Service Big West
+Fire Service Small East
+Fire Service Small North
+Fire Service Small South
+Fire Service Small West
+ Hospital Big East
+Hospital Big North
+Hospital Big South
+Hospital Big West
+Hospital Small East
+Hospital Small North
+Hospital Small South
+Hospital Small West
+Library East-West
+Library North-South
+Police Big East
+Police Big North
+Police Big South
+Police Big West
+Police Small East
+Police Small North
+Police Small South
+Police Small West
+School Big North-East
+School Big North-West
+School Big South-East
+School Big South-West
+School Small North-East
+School Small North-West
+School Small South-East
+School Small South-West
+Townhall Big East-West
+Townhall Big North-South
+Townhall Small East
+Townhall Small North
+Townhall Small South
+Townhall Small West
+University East
+University North
+University South
+University West
+$ Block
+$$$ Brick Big East
+$$$ Brick Big North
+$$$ Brick Big South
+$$$ Brick Big West
+$$$ Brick Small
+$$ Grey East
+$$ Grey North
+$$ Grey South
+$$ Grey West
+$$$ Modern East
+$$$ Modern North
+$$$ Modern South
+$$$ Modern West
+$$ Red East-West
+$$ Red North-South
+$ Round
+$ Stone East
+$ Stone North
+$ Stone South
+$ Stone West
+$$$ Stone East
+$$$ Stone North
+$$$ Stone South
+$$$ Stone West
+$$ Yellow
+$$$ Blue East
+$$ Blue East-West
+$$$ Blue North
+$$ Blue North-South
+$$$ Blue South
+$$$ Blue West
+$$$ Brick East
+$ Brick East-West
+$$$ Brick North
+$ Brick North-South
+$$$ Brick South
+$$$ Brick West
+$$ Green Grey East
+$$ Green Grey North
+$$ Green Grey South
+$$ Green Grey West
+$$$ Red Corner North-East
+$$$ Red Corner North-West
+$$$ Red Corner South-East
+$$$ Red Corner South-West
+$$ Yellow East
+$$ Yellow North
+$$ Yellow South
+$$ Yellow West
+$ Stone East
+$ Stone North
+$ Stone South
+$ Stone West
+$$$ Stone East
+$$$ Stone North
+$$$ Stone South
+$$$ Stone West
+$$$ Yellow East
+$$$ Yellow North
+$$$ Yellow South
+$$$ Yellow West
+$$ Beige East
+$$ Beige North
+$$ Beige South
+$$ Beige West
+$ Cyan East
+$ Cyan North
+$ Cyan South
+$ Cyan West
+$ Green East
+$ Green North
+$ Green South
+$ Green West
+$$ Green East II
+$$ Green North II
+$$ Green South II
+$$ Green West II
+$ Light Blue East
+$ Light Blue North
+$ Light Blue South
+$ Light Blue West
+$$ Light Blue East II
+$$ Light Blue North II
+$$ Light Blue South II
+$$ Light Blue West II
+$- Light Grey East
+$ Light Grey North
+$ Light Grey South
+$ Light Grey West
+$$$ Modern East
+$$$ Modern North
+$$$ Modern South
+$$$ Modern West
+$ Orange East
+$ Orange North
+$ Orange South
+$ Orange West
+$$ Red East
+$$ Red North
+$$ Red South
+$$ Red West
+$$$ Stone East
+$$$ Stone North
+$$$ Stone South
+$$$ Stone West
+$$ White East
+$$ White North
+$$ White South
+$$ White West
+$$$ Wood East
+$$$ Wood North
+$$$ Wood South
+$$$ Wood West
+$ Yellow East
+$ Yellow North
+$ Yellow South
+$ Yellow West
+$$ Yellow East II
+$$ Yellow North II
+$$ Yellow South II
+$$ Yellow West II
+$$ Blue Green East
+$$ Blue Green North
+$$ Blue Green South
+$$ Blue Green West
+$$ Blue Red East
+$$ Blue Red North
+$$ Blue Red South
+$$ Blue Red West
+$$$ Brick East
+$$$ Brick North
+$$$ Brick South
+$$$ Brick West
+$ Horizontal East
+$ Horizontal North
+$ Horizontal South
+$ Horizontal West
+$$ Orange Green East
+$$ Orange Green North
+$$ Orange Green South
+$$ Orange Green West
+$$$ Quartz East
+$$$ Quartz North
+$$$ Quartz South
+$$$ Quartz West
+$$$ Red Green East
+$$$ Red Green North
+$$$ Red Green South
+$$$ Red Green West
+$ Roof East
+$ Roof North
+$ Roof South
+$ Roof West
+$$$ Stone 1 East-West
+$$$ Stone 1 North-South
+$$$ Stone 2 East-West
+$$$ Stone 2 North-South
+$$$ Stone Corner North-East
+$$$ Stone Corner North-West
+$$$ Stone Corner South-East
+$$$ Stone Corner South-West
+$ Stone East
+Medium Density - Stone End North-East-West
+$$$ Stone End North-South-East
+$$$ Stone End North-South-West
+$$$ Stone End South-East-West
+$ Stone North
+$ Stone South
+$ Stone West
+$ Vertical East
+$ Vertical North
+$ Vertical South
+$ Vertical West
+$$ Yellow Red East
+$$ Yellow Red North
+$$ Yellow Red South
+$$ Yellow Red West
+Quartz East-West
+Quartz North-South
+Brick East
+Brick North
+Brick South
+Brick West
+Green East
+Green North
+Green South
+Green West
+Orange East
+Orange North
+Orange South
+Orange West
+Pink East
+Pink North
+Pink South
+Pink West
+Modern East
+Modern North
+Modern South
+Modern West
+Quartz East
+Quartz North
+Quartz South
+Quartz West
+Runway East-West - Building North
+Runway East-West - Building South
+Runway North-South - Building East
+Runway North-South - Building West
+Avenue 1 East-West
+Avenue 1 North-South
+Avenue 2 East-West
+Avenue 2 North-South
+Avenue E East
+Avenue E North
+Avenue E South
+Avenue E West
+Avenue L North-East
+Avenue L North-West
+Avenue L South-East
+Avenue L South-West
+Avenue T North-East-West
+Avenue T North-South-East
+Avenue T North-South-West
+Avenue T South-East-West
+Avenue X
+Bridge Avenue 1 East-West
+Bridge Avenue 1 North-South
+Bridge Avenue 2 North-South
+Bridge Avenue 2 East-West
+Bridge Avenue 3 East-West
+Bridge Avenue 3 North-South
+Bridge Avenue 4 East-West
+Bridge Avenue 4 North-South
+Bridge Avenue L North-East
+Bridge Avenue L North-West
+Bridge Avenue L South-East
+Bridge Avenue L South-West
+Bridge Highway 1 East-West
+Bridge Highway 1 North-South
+Bridge Highway 2 East-West
+Bridge Highway 2 North-South
+Bridge Highway 3 East-West
+Bridge Highway 3 North-South
+Bridge Highway 4 East-West
+Bridge Highway 4 North-South
+Bridge Highway L North-East
+Bridge Highway L North-West
+Bridge Highway L South-East
+Bridge Highway L South-West
+Bridge Road 1 East-West
+Bridge Road 1 North-South
+Bridge Road 2 East-West
+Bridge Road 2 North-South
+Bridge Road L North-East
+Bridge Road L North-West
+Bridge Road L South-East
+Bridge Road L South-West
+Bridge Street 1 East-West
+Bridge Street 1 North-South
+Bridge Street 2 East-West
+Bridge Street 2 North-South
+Bridge Street L North-East
+Bridge Street L North-West
+Bridge Street L South-East
+Bridge Street L South-West
+Connector Avenue <> Street -1- Avenue East [] Street North-West-side
+Connector Avenue <> Street -1- Avenue East [] Street South-West-side
+Connector Avenue <> Street -1- Avenue North [] Street South-East-side
+Connector Avenue <> Street -1- Avenue North [] Street South-West-side
+Connector Avenue <> Street -1- Avenue South [] Street North-East-side
+Connector Avenue <> Street -1- Avenue South [] Street North-West-side
+Connector Avenue <> Street -1- Avenue West [] Street North-East-side
+Connector Avenue <> Street -1- Avenue West [] Street South-East-side
+Connector Avenue <> Street -L- Avenue East [] Street North
+Connector Avenue <> Street -L- Avenue East [] Street South
+Connector Avenue <> Street -L- Avenue North [] Street East
+Connector Avenue <> Street -L- Avenue North [] Street West
+Connector Avenue <> Street -L- Avenue South [] Street East
+Connector Avenue <> Street -L- Avenue South [] Street West
+Connector Avenue <> Street -L- Avenue West [] Street North
+Connector Avenue <> Street -L- Avenue West [] Street South
+Connector Avenue <> Street -T- Avenue East [] Street North-South
+Connector Avenue <> Street -T- Avenue East-West [] Street North
+Connector Avenue <> Street -T- Avenue East-West [] Street South
+Connector Avenue <> Street -T- Avenue North-South [] Street East
+Connector Avenue <> Street -T- Avenue North-South [] Street West
+Connector Avenue <> Street -T- Avenue North [] Street East-West
+Connector Avenue <> Street -T- Avenue South [] Street East-West
+Connector Avenue <> Street -T- Avenue West [] Street North-South
+Connector Avenue <> Street -X- Avenue East-West [] Street North-South
+Connector Avenue <> Street -X- Avenue North-South [] Street East-West
+Connector Avenue <>  Bridge - Avenue Bridge East [] Avenue West
+Connector Avenue <> Bridge - Avenue Bridge North [] Avenue South
+Connector Avenue <> Bridge - Avenue Bridge South [] Avenue North
+Connector Avenue <> Bridge - Avenue Bridge West [] Avenue East
+Connector Road <> Bridge - Road Bridge East [] Road West
+Connector Road <> Bridge - Road Bridge North [] Road South
+Connector Road <> Bridge - Road Brdige South [] Road North
+Connector Road <> Bridge - Road Bridge West [] Road East
+Connector Street <> Bridge - Street Bridge East [] Street West
+Connector Street <> Bridge - Street Bridge North [] Street South
+Connector Street <> Bridge - Street Bridge South [] Street North
+Connector Street <> Bridge - Street Bridge West [] Street East
+Connector Highway <> Avenue - Highway East [] Avenue West
+Connector Highway <> Avenue - Highway North [] Avenue South
+Connector Highway <> Avenue - Highway South [] Avenue North
+Connector Highway <> Avenue - Highway West [] Avenue East
+Connector Highway Floor <> Avenue - Highway Floor East [] Avenue West
+Connector Highway Floor <> Avenue - Highway Floor North [] Avenue South
+Connector Highway Floor <> Avenue - Highway Floor South [] Avenue North
+Connector Highway Floor <> Avenue - Highway Floor West [] Avenue East
+Connector Highway <> Highway Floor - Highway East [] Highway Floor West
+Connector Highway <> Highway Floor - Highway North [] Highway Floor South
+Connector Highway <> Highway Floor - Highway South [] Highway Floor North
+Connector Highway <> Highway Floor - Highway West [] Highway Floor East
+Big East
+Big North
+Big South
+Big West
+Side 1-Corner North-East
+Side 1-Corner North-West
+Side 1-Corner South-East
+Side 1-Corner South-West
+Side 2-Corner Crane East
+Side 2-Corner Crane North
+Side 2-Corner Crane South
+Side 2-Corner Crane West
+Side 2-Corner East
+Side 2-Corner North
+Side 2-Corner South
+Side 2-Corner West
+Side 3-Corner NorthEast-NorthWest-SouthEast
+Side 3-Corner NorthEast-NorthWest-SouthWest
+Side 3-Corner NorthEast-SouthEast-SouthWest
+Side 3-Corner NorthWest-SouthEast-SouthWest
+Small East
+Small North
+Small South
+Small West
+Highway 0,5 East-West-North-side
+Highway 0,5 East-West-South-side
+Highway 0,5 North-South-East-side
+Highway 0,5 North-South-West-side
+Highway 1 East-West
+Highway 1 North-South
+Highway 2 East-West
+Highway 2 North-South
+Highway Driveway East-West-East-side
+Highway Driveway East-West-West-side
+Highway Driveway & Exit East-West-East-side
+Highway Driveway & Exit East-West-West-side
+Highway Driveway & Exit North-South-North-side
+Highway Driveway & Exit North-South-South-side
+Highway Driveway North-South-North-side
+Highway Driveway North-South-South-side
+Highway Exit East-West-East-side
+Highway Exit East-West-West-side
+Highway Exit North-South-North-side
+Highway Exit North-South-South-side
+Highway Floor 0,5 East-West-North-side
+Highway Floor 0,5 East-West-South-side
+Highway Floor 0,5 North-South-East-side
+Highway Floor 0,5 North-South-West-side
+Highway Floor 1 East-West
+Highway Floor 1 North-South
+Highway Floor 2 East-West
+Highway Floor 2 North-South
+Highway Floor Driveway East-West-East-side
+Highway Floor Driveway East-West-West-side
+Highway Floor Driveway & Exit East-West-East-side
+Highway Floor Driveway & Exit East-West-West-side
+Highway Floor Driveway & Exit North-South-North-side
+Highway Floor Driveway & Exit North-South-South-side
+Highway Floor Driveway North-South-North-side
+Highway Floor Driveway North-South-South-side
+Highway Floor Exit East-West-East-side
+Highway Floor Exit East-West-West-side
+Highway Floor Exit North-South-North-side
+Highway Floor Exit North-South-South-side
+Highway Floor L North-East
+Highway Floor L North-West
+Highway Floor L South-East
+L South-West
+Highway Floor T North-East-West
+Highway Floor T North-South-East
+Highway Floor T North-South-West
+Highway Floor T South-East-West
+Highway Floor X
+Highway L North-East
+Highway L North-West
+Highway L South-East
+Highway L South-West
+Highway T North-East-West
+Highway T North-South-East
+Highway T North-South-West
+Highway T South-East-West
+Highway X
+Connector Hightram <> Tram - Hightram East [] Tram West
+Connector Hightram <> Tram - Hightram North [] Tram South
+Connector Hightram <> Tram - Hightram South [] Tram North
+Connector Hightram <> Tram - Hightram West [] Tram East
+Hightram 1 East-West
+Hightram 1 North-South
+Hightram E East
+Hightram E North
+Hightram E South
+Hightram E West
+Hightram L North-East
+Hightram L North-West
+Hightram L South-East
+Hightram L South-West
+Hightram Station East-West
+Hightram Station North-South
+Hightram X
+Tram 1 East-West
+Tram 1 North-South
+Tram E East
+Tram E North
+Tram E South
+Tram E West
+Tram L North-East
+Tram L North-West
+Tram L South-East
+Tram L South-West
+Track 1 East-West
+Track 1 North-South
+Track E East
+Track E North
+Track E South
+Track E West
+Track L North-East
+Track L North-West
+Track L South-East
+Track L South-West
+Tram Station East-West
+Tram Station North-South
+Tram X
+Road 1 East-West
+Road 1 North-South
+Road E East
+Road E North
+Road E South
+Road E West
+Road L North-East
+Road L North-West
+Road L South-East
+Road L South-West
+Road T North-East-West
+Road T North-South-East
+Road T North-South-West
+Road T South-East-West
+Road X
+Street 1 East-West
+Street 1 North-South
+Street E East
+Street E North
+Street E South
+Street E West
+Street L North-East
+Street L North-West
+Street L South-East
+Street L South-West
+Street Roundabout
+Street T North-East-West
+Street T North-South-East
+Street T North-South-West
+Street T South-East-West
+Street X
+1-Corner North-East
+1-Corner North-West
+1-Corner South-East
+1-Corner South-West
+2-Corner East
+2-Corner North
+2-Corner South
+2-Corner West
+3-Corner NorthEast-NorthWest-SouthEast
+3-Corner NorthEast-NorthWest-SouthWest
+3-Corner SouthEast-SouthWest-NorthEast
+3-Corner SouthEast-SouthWest-NorthWest
+4-Corner
+Power Nuclear East
+Power Nuclear North
+Power Nuclear South
+Power Nuclear West
+Power Oil Coal East
+Power Oil Coal North
+Power Oil Coal West
+Power Oil Coal South
+Power Solar
+Power Wind East
+Power Wind North
+Power Wind South
+Power Wind West
+Pumpjack East-West
+Pumpjack North-South
+Scrap Burning East
+Scrap Burning North
+Scrap Burning South
+Scrap Burning West
+Scrap Heap East
+Scrap Heap North
+Scrap Heap South
+Scrap Heap West
+Scrap Recyclye East
+Scrap Recycle North
+Scrap Recycle South
+Scrap Recycle West
+Water Pump East
+Water Pump North
+Water Pump South
+Water Pump West
+Water Tower
+Water Treatment East
+Water Treatment North
+Water Treatment South
+Water Treatment West
+Big Brick/Quartz Building
+Sandstone Building
+Lighthouse
+Stables
+Survivalists' Shack #01
+Survivalists' Shack #02
+Survivalists' Shack #03
+Survivalists' Shack #04
+Big Wooden House #02
+Big Wooden House #03
+Survivalists' Shack #05
+Survivalists' Shack #06
+Temple
+Small Sandstone Building
+Wooden Building
+Big Wooden House
+Checkerboard Generator
+Atlantis Generator
+World Magnifier
+Snow Covered House
+Magic Storehouse Block
+Remove a 16x16 Structure
+16x16 and 256 high
+16x16 and 32 high
+16x16 and 8 high
+Remove a 32x32 Structure
+32x32 and 16 high
+32x32 and 256 high
+32x32 and 8 high
+Remove a 64x64 Structure
+64x64 and 256 high
+Remove a 1 high Structure
+8x8 and 16 high
+8x8 and 256 high
+8x8 and 32 high
+Remove last placed structure
+Survival Structures
+Decoration
+Food
+Industry - High Density
+Industry - Medium Density
+Industry - Low Density
+Office
+Public
+Residental - Enormous Density
+Residental - High Density
+Residental - Medium Density
+Residental - Low Density
+Shopping - High Density
+Transport - Airport
+Transport - Harbour
+Transport - Public
+Transport - Roads
+Transport - Water
+Utility
+Structure Removers
+Other Structures
+World Generation (WATCH OUT)
+Live Structures
+Airship #02
+Building Complex
+Airship
+Miner Tent #03
+Miner Tent #02
+Lighthouse
+Miner Tent
+Nether Entrance Building
+Brick House
+Survivalists' Shack #08
+Survivalists' Shack #07
+Tent Camp
+Wooden House
+Cloud Generator
+Sandstone House Complex
+Immense Shopping Arcade
+Immense Quartz Building
+Brick Office
+Small Palace
+Sandstone Church
+Sandstone Villa
+Sandstone House
+Sandstone Chapel
+Brick 'n Planks Building
+Immense Palace
+Wooden Cabin
+Sandstone Palace
+Windmill
+Airballoon
+Airplane
+Boat
+Airship #02
+Airship #01
+F16
+Helicopter
+Fair - Freefall
+Mill
+Cinema
+Flying Helicopter
+Game Over Block
+Challenge One
+Challenge Two
+Challenge Three
+Challenge Four
+Challenge Five
+Challenge Six
+Challenge Seven
+Challenge Eight
+Challenge Nine
+Challenge Ten
+BlackRock
+Bus
+Double Decker Bus
+Ferris Wheel
+Christmas House
+Christmas House #2
+Christmas House #3
+Santa's Sleigh
+Santa's Sleigh #2
+Giant Snowman
+Giant Christmas Tree
+Christmas Marketplace
+Watermill
+Add a new structure!
+Your Own Structures!

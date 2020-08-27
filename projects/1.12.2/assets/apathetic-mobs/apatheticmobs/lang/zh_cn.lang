@@ -1,0 +1,3 @@
+commands.apatheticmobs.aw.usage=/apatheticwhitelist <get/add/remove> <playername>
+commands.apatheticmobs.aw.playerfailed=Player not found!
+commands.apatheticmobs.aw.playerfound= is already whitelisted!

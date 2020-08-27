@@ -1,0 +1,8 @@
+End Iron Ore
+End Emerald Ore
+End Gold Ore
+End Redstone Ore
+End Ores
+End Lapis Ore
+End Coal Ore
+End Diamond Ore

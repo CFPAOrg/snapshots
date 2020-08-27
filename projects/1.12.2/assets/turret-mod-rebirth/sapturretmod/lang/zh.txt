@@ -1,0 +1,490 @@
+Turret Assembly Table
+Misc Stuff
+Turrets
+Ammunition
+Repair Kits
+Upgrades
+The assembly table is an essential part for your turret cravings, as it crafts any item and turret you need or want.\n\nTo operate it you need power as well as the items required for the item you want to craft. It currently only accepts Redstone Flux as energy.\n\nIf you think it's too slow or you want to automate it, there are a couple of upgrades available.
+Electrolyte Generator
+This machine creates energy from items (mostly food) with high enough acid or base by reacting with the electrolyte within them.\nThe more items are put in it, the higher the efficiency of the generator.\n\nEach item has its own effectiveness and decay time, which dictate how much power can be generated in total. The effectiveness level also influences the amount of power the generator can produce in a moment, but there is only so much the generator can transfer internally, so there is a cap of 200 RF/t.\n\nItems used up in the generator may produce byproducts, which could be §2trash§0 or rarely something §dvaluable§0.
+Turret Info Tablet
+Gives information about the\nitems in the Turret Mod.
+Defense Turret
+Name: %s
+Health: %s HP
+Turret Control Unit
+TCU (Turret Control Unit)
+TCU (Turret Corrosion Unity)
+TCU (Trigger Capacity Uranus)
+TCU (Timmy Cleans Utilities)
+TCU (Transient Colossal Uppercut)
+This item is a configuration and info tool for placed turrets.\n\nLooking at a turret with this tool in hand shows an info label on it with information about its name, health and ammo.\n\nRight-Clicking a turret with it will open a GUI that lets you see detailed info and configure it, like targets and upgrades.
+Automation Upgrade
+Used in the Turret Assembly Table
+This enables automation of the assembly table. Once this is applied, a button will appear where you can toggle the assembly table between manual and automation mode.\n\nIn manual mode it will act like without the upgrade, crafting items on your command.\n\nIn automation mode, you can tell it to craft a specific item. Once the items and the power are available, it'll start crafting and keep crafting until it runs out of ingredients, energy or space in the output slot.\nYou cannot change the item crafted until you cancel it.
+Speed Upgrade
+Used in the Turret Assembly Table
+This optimizes the assembly process and makes the assembly table 4x faster. Since this optimization isn't free to come by, it'll increase the energy consumption of the current crafting operation by 10%% (after the 4x increase of RF/t).
+Filter Upgrade
+Used in the Turret Assembly Table
+This will filter what's going into the assembly table.\nAfter right-clicking you can configure the filter. In empty slots can go anything. In configured slots can only go the item configured (obviously), but those items won't go anywhere else, not even in empty configured slots.\nShift-right-click clears the filter.\n\nThe filter operates not only on the user-side of things (putting stuff into the table via GUI) but also with external insertion devices like the hopper.\n\nPlease note that you can't configure the stack size of items, thus it will always try to put a whole stack (depends on how many items can be stacked together) in a slot.\n\nf you want to put in more than 1 stack into the table, you can configure 2 or more slots with the same item.
+Configured
+Right-click to configure, Shift-right-click to clear config.
+Arrow Bolt
+Arrow Bolt Pack
+Shotgun Shell
+Shotgun Shell Pack
+Cryo Cell SG1
+Cryo Cell SN1 Pack
+Cryo Cell SG2
+Cryo Cell SN2 Pack
+Cryo Cell SG3
+Cryo Cell SN3 Pack
+Revolver Bullets
+Revolver Bullet Pack
+Minigun Rounds
+Minigun Rounds Pack
+Electrolyte Cell
+Electrolyte Cell Pack
+Flux Cell
+Flux Cell Pack
+Fuel Tank
+Fuel Tank Pack
+Repair Kit 05HS
+Repair Kit 10HS
+Repair Kit 15HS
+Repair Kit 20HS
+Repair Kit 01H40R
+Turret Upgrade
+Empty
+This is the crafting base for all other upgrades. Not applicable to anything.
+Health I
+Increases the maximum turret health by 25%% .\n\nThis upgrade strengthens the structure of the turret chassis.\nIt will not increase the turrets health automatically! You must heal it afterwards.
+Health II
+Increases the maximum turret health by an additional 25%% (50%% in total).\n\nThis upgrade further strengthens the structure of the turret chassis.\nIt will not increase the turrets health automatically! You must heal it afterwards.
+Health III
+Increases the maximum turret health by an additional 25%% (75%% in total).\n\nThis upgrade strengthens the structure of the turret chassis even further.\nIt will not increase the turrets health automatically! You must heal it afterwards.
+Health IV
+Increases the maximum turret health by an additional 25%% (100%% in total).\n\nThis upgrade strengthens the structure of the turret chassis to the maximum. Note that it isn't applicable to turrets higher than Tier 3, as their structure won't allow further manipulation.\nIt will not increase the turrets health automatically! You must heal it afterwards.
+Reload I
+Decreases the reload time by 15%% .\n\nIt cools down the parts of the loading mechanism, so it can work faster at the same temperature.\nBe careful with faster shooting turrets, mobs that get hit will get some kind of immunity aura that usually lasts a second. Those with that aura won't get hurt, thus wasting ammunition.\n\nNotice: The Forcefield Turret will use this upgrade to increase its regeneration speed by the same percentage.
+Reload II
+Decreases the reload time by an additional 35%% (50%% in total).\n\nIt cools down the parts of the loading mechanism better, so the reload can be done even quicker at the same temperature.\n\nNotice: The Forcefield Turret will use this upgrade to increase its regeneration speed by the same percentage.
+Upgrade Storage I
+Adds 9 more upgrade slots (18 in total).\n\nProvides an upgrade co-processor to handle 9 more upgrades.
+Upgrade Storage II
+Adds 9 more upgrade slots (27 in total).\n\nProvides an upgrade co-processor to handle 9 more upgrades.
+Upgrade Storage III
+Adds 9 more upgrade slots (36 in total).\n\nProvides an upgrade co-processor to handle 9 more upgrades.
+Ammunition Storage
+Increases ammo storage by 100%% .\n\nDuplicates the ammo container inside the turret for more ammunition storage.
+Smart Targeting
+Adds a targeting co-processor for smarter target selection. This unlocks a new tab in the TCU that gives you finer targeting control.\n\nThe target list supersedes these settings, meaning if it's set to target tamed creatures, it still won't shoot at tamed wolves if wolves are not set as a target.\n\nBy default, the co-processor is configured to ignore entities targeted by turrets of the same type. The TCU allows further customization:\n\n§3Turret Awareness§0\nChecks surrounding turrets and only allows entities that are not targeted, if enabled.\n\n§3Tamed Awareness§0\nChecks tamed entities and, if configured, their owners.\n\n§3Age Awareness§0\nChecks the age of a targeted entity and only allows either children or adults, if enabled.\n\n§3Count Awareness§0\nCounts targetable entities and compares either the sum of all types (global) or each sum of each type (individual; e.g. sum of cows and sum of pigs). Allows only targeting if the amount is / amounts are above or below the specified value. The value can be between 0 and 256 (inclusive).
+Economy I
+Reduces ammo consumption by an average of 10%% .\n\nCoats the ammo container of a turret with the dust of an emerald, after which the turret has a chance to not consume ammo.
+Economy II
+Reduces ammo consumption by an additional average of 35%% .\n\nReplaces components of the ammo container with gold parts and strengthens the effect of the emerald coating with diamond dust, so the chance of the turret not consuming ammo will be further increased.
+Infinitas Oeconomia
+Stops ammo consumption altogether when ammo container is filled.\n\nCoats the ammo container of a turret with the magic of the Infinity enchantment. The container will then never deplete its supply, but it must be filled to the max with rounds, otherwise it will resort to the other Economy upgrades to reduce ammo usage.
+Ender Gain Medium
+Enables damage on fire-resistant entities and increases damage output for the Laser Turret.\n\nReplaces the standard redstone based gain medium with an ender pearl based one inside the turret. The new frequency of the laser fired will inflict damage to anything with fire immunity and also adds bonus damage to everything else.
+Fuel Purifier
+Enables damage on fire-resistant entities and increases damage output for the Flamethrower Turret.\n\nModifies the tank filters to act as a catalyst which purifies the fuel for the turret. The flames will burn blue and damage anything, even fire-resistent entities, with a higher damage value. Be careful, though! Blocks hit by the flames may catch on fire.
+Personal Shield
+Attaches a weak forcefield generator to a turret.\n\nThe shield protects a turret for 20 hitpoints from any attack until its depleted, which will then recover itself slowly. It does not regenerate itself when active.
+Shield Projectile Deflector
+Allows the Forcefield Turret to protect an area from projectiles.\n\nThe forcefield generated by the turret will be able to deflect projectiles it can recognise as such. No guarantee for projectiles not made by the gods of the vanilla!
+Shield Explosion Absorber
+Allows the Forcefield Turret to protect blocks and entities (which aren't a target) within its perimeter from explosions.\n\nThe forcefield structure is changed to make it stronger and thus resist explosions. Each block and each entity protected will decrease the hitpoints of the shield by 2 HP.
+Shield Amplifier I
+Increases the radius of the Forcefield Turret to 16 blocks and hitpoints of the forcefield to 150 HP.\n\nAdds a booster to the forcefield generator to increase hitpoints and range of the protective shield.
+Shield Amplifier II
+Increases the radius of the Forcefield Turret to 24 blocks and hitpoints of the forcefield to 250 HP.\n\nAdds a secondary booster to the forcefield generator to further increase hitpoints and range of the protective shield.
+Crossbow Turret (T1)
+Meant for basic defense and beginners. Not very strong but one of the cheapest to make.
+Shotgun Turret (T1)
+Used for basic crowd control. Very weak but can hit multiple targets at once, due to its ammo dispersing into multiple projectiles.
+Cryolator Turret (T1)
+This one is of the supporting kind, as its not dealing any damage, but will slow down any target that it hits.\n\nIt'll only attack a target if it's not already slowed down, though, to not waste ammo.
+Revolver Turret (T2)
+Can be seen as the upgraded version of the Crossbow Turret, as it has more range, greater health and deals more damage, although with less knockback effect.
+Minigun Turret (T2)
+Deals low amounts of damage per projectile, but compensates for it with a rapid firing rate.\n\nDue to its high output, and since its shooting compartments aren't directly inside the head, it can store double the amount of rounds (512).
+Forcefield Turret (T2)
+This supportive turret creates a forcefield around it that protects the area from any intruders.\n\nTargets within the forcefield will immediately be pushed out, but make sure they don't get stuck, because the shield will quickly drain out in an attempt to get the entity out.
+Laser Turret (T3)
+Going with the theme, this can be considered as the upgraded version of the Crossbow and Revolver Turret. With more health, higher damage and firing rate, this can burn anything alive.\n\nIf the target is immune to fire, the turret can't damage it, so be careful to not let it waste ammo on nether creatures (or upgrade it).
+Flamethrower Turret (T3)
+This turret deals large amounts of damage on a rather short distance. Not only that, but it operates in an area of effect, meaning it can hit multiple targets in front of it.\n\nOh yeah, it deals fire damage if it wasn't obvious, thus it can't damage anything with fire-resistance if not upgraded.
+Arrow Bolt
+Used by the Crossbow Turret. Projectiles have a tiny knockback effect and act like standard arrows, just smaller. Very precise.\n\nCan be packaged, whose items will provide 16x ammo.
+Shotgun Shell
+Used by the Shotgun Turret. One shell turns into 6 dispersed pebble projectiles when shot, which have no knockback effect.\nDoes not cause any immunity to the target, thus targets hit by multiple pebbles will take damage from all of them.\n\nCan be packaged, whose items will provide 16x ammo.
+Cryo Cell
+Used by the Cryolator Turret. This ammunition comes in 3 versions, which applies different slowness effects:\nCell SG1: Slowness I for 15s\nCell SG2: Slowness III for 10s\nCell SG3: Slowness V for 5s.\n\nDoes not cause immunity and any damage to the target.\n\nCan be packaged, whose items will provide 16x ammo.
+Revolver Bullets
+Used by the Revolver Turret, it has the same knockback effect like the Shotgun projectiles, but do more damage than the Arrow bolts from the Crossbow Turret. Unlike other ammo types, this provides double the rounds.\n\nCan be packaged, whose items will provide 16x ammo.
+Minigun Rounds
+Used by the Minigun Turret. Cartridges contain seeds which do little damage and no knockback, but like the shotgun pebbles, they do not cause any immunity to the target. This, in combination with the rapid firing rate of the turret, compensate for their weakness.\nDue to the rapid firing rate, a cartridge provides 4 shots instead of the usual 1.\n\nCan be packaged, whose items will provide 16x ammo.
+Electrolyte Cell
+Used by the Forcefield Turret. Provides energy necessary to charge up the forcefield.\n\nCan be packaged, whose items will provide 16x ammo.
+Flux Cell
+Used by the Laser Turret. Lasers have no knockback effect and don't damage anything immune to fire (unless upgraded), but deal quite a decent amount of damage and also sets the target on fire for 5 seconds.\n\nCan be packaged, whose items will provide 16x ammo.
+Fuel Tank
+Used by the Flamethrower Turret. Flames have, like lasers, no knockback effect and are ineffective against fire-resistant targets (unless upgraded). They deal a hefty amount of damage and sets targets on fire for 5 seconds.\nLike the minigun cartridges, a tank provides 16 shots, due to the rapid firing rate of the turret.\n\nCan be packaged, whose items will provide 16x ammo.
+Info about this mod
+Turrets
+Ammunition
+Upgrades
+Miscellaneous
+About
+Health
+Range
+Ammo Capacity
+Ammo Useable
+Assembly Recipe
+Crafting Table Recipe
+Damage Per Projectile
+Turret Applicable
+Rounds Provided
+Upgrade Prerequisite
+%.1f HP
+%d Rounds
+%s Blocks
+%.2fx efficiency
+decays in %s
+Name:
+Version:
+Author:
+Credits:
+Health: %s
+Ammo: %s
+Target: %s
+Pers. Shield: %s
+Pers. Shield: Recovering %s
+Shield: %s
+Shield: Recovering %s
+Turret Info
+Entity Target Settings
+Player Target Settings
+Smart Target Settings
+Upgrades
+Dismantle Turret
+Activate Turret
+Deactivate Turret
+Show Range
+Hide Range
+Select All
+Deselect All
+Select Monster
+Select Animals
+Select Other
+Whitelist Mode
+Blacklist Mode
+Eject All Upgrades
+Ignore other turrets
+Ignore entities targeted\nby turrets of the same type
+Ignore entities targeted\nby turrets of all types
+Target all tamed creatures
+Only target tamed creatures\nfrom targeted players
+Don't target tamed creatures
+Target children and adults
+Target only children
+Target only adults
+Ignore entity count
+Don't target anything if global\nentity amount is less than...
+Don't target anything if global\nentity amount is greater than...
+Don't target entities of the\nsame type if amount of\nthat type is less than...
+Don't target entities of the\nsame type if amount of\nthat type is greater than...
+You need a chest in your inventory to dismantle!
+Turret Awareness
+Tamed Awareness
+Age Awareness
+Count Awareness
+Cancel
+Automate
+Manual
+Crafting:
+using %d RF/t
+Effectiveness:
+Power generated:
+Turret idles
+Turret gathers
+Turret breaks
+Turret damaged
+Shotgun Turret shoots
+Cryolator Turret shoots
+Minigun Turret shoots
+Revolver Turret shoots
+Laser Turret shoots
+Flamethrower Turret fires
+Sniper Turret shoots
+Healer Turret heals
+Flak Turret launches
+Artillery Turret shoots
+Bullet ricochets
+Projectile splashes
+Shield engages
+Turret Assembly Table
+Energy consumed:
+Processing time:
+Requires:
+Only Applicable On:
+<Hold Shift>
+Base for further upgrades. Not applicable to anything.
+Health I
+Increases the turret health by 25% .
+Health II
+Increases the turret health by an additional 25% (50% overall).
+Health III
+Increases the turret health by an additional 25% (75% overall).
+Health IV
+Increases the turret health by an additional 25% (100% overall).
+Reload I
+Decreases the reload time by 15% .
+Reload II
+Decreases the reload time by an additional 35% (50% overall).
+Upgrade Storage I
+Increases the available upgrade slots by 9.
+Upgrade Storage II
+Increases the available upgrade slots by 9.
+Upgrade Storage III
+Increases the available upgrade slots by 9.
+Ammunition Storage
+Increases the available ammo storage by 320 units.
+Turret Mod: Turrets
+Turret Mod: Items
+Turret Mod: Upgrades
+Arrows
+Turret which shoots pebbles. It has the same stats as the T1 turret, but makes the lowest damage. Ideal for hitting multiple targets at once.
+Pebbles
+Turret which shoots seeds. It has double the health as the T1 turrets, the fastest cooldown time but makes low damage. Ideal for crowd control in combination with the T1 Shotgun Turret.
+Wheat seeds
+Melon seeds
+Pumpkin seeds
+This turret has double the health and damage, +8 blocks more range, shoots twice as fast and is more expensive than the Crossbow Turret. Ideal for intermediate defense systems.
+Bullets
+This turret can be considered as the upgraded version of the Revolver turret. It shoots lasers which deal 6 HP of damage, it has 60 HP of health and 1.5 times more range! Choose one of these turrets for your advanced defense system.
+Red Laser (Redstone)
+Blue Laser (Lapis Lazuli)
+This turret is ideal to burn your enemies into ashes! It is naturally immune to fire itself and has the same stats as the Laser Turret, except it does half the damage and technically shoots rapidly.
+Fire
+This turret is there if you want to snipe enemies in your area or just make sure there are no enemies! It has a really high range, although it has less health than the T3 Laser turret and a really high cooldown time!
+Plasma
+Use this turret if you want to shoot flying stuff like Ghasts. It has an enormous range of 50 blocks, horizontally as well as upwards. If you give it the fitting rocket, you can increase that range up to 100 blocks!
+Ballistic Rocket TB50
+Ballistic Rocket TB75
+Ballistic Rocket TB100
+Guided Rocket TG50
+Guided Rocket TG75
+Guided Rocket TG100
+This is one of the most powerful turrets you've ever seen! And because of that, it's rather expensive. It's projectiles can go through targets without losing velocity, hitting a maximum of 9 Entities behind the first one!
+Ender Shards
+You want some high-ranged AOE? Then use this turret! It is the most expensive turret but really powerful! It can fire different types of Artillery shells, so be aware what you're using!
+This supporter turret can slowdown enemies, although without dealing any damage. Give the other turrets the time needed to kill their targets with this turret!
+Snowballs
+You are bored from collecting XP orbs after a fight or just don't want to miss one? Or do you want to store your collected XP somewhere? This turret can collect nearby XP orbs and store them.
+You ever wanted to protect you from incoming projectiles? To walk safely through the Nether without need for glass tunnels? Or just to protect those villagers from those damn Zombies? The Forcefield Turret generates a protecting shield around it!
+This is the medic under the turrets. It will heal nearby turrets if they get damaged. It is ideal if you don't want to waste a hell lot of healing items for your turrets! Also it is more resistant against explosions than a chest.
+Health Beam (Glistering Melon)
+Health Beam (Golden Carrots)
+Health Beam (Gold Nugget)
+Chest Grabber
+Let your turret grab the content from chests with this upgrade! Put chests to the sides or below the turret, so that it can reach them.
+Control Seat
+Ride your turret with this upgrade! Either right-click and choose \"Ride Turret\" in the Settings GUI or shift-right-click the turret to ride it. To get off, just right-click again with the TCU or nothing in your hands. To shoot press the Turret Shoot Key (F)
+XP Collector
+Let your turrets collect and store XP from killed targets! All you have to do when the turret cannot store any more XP is to choose \"Get Experience\" in the TCU Settings GUI.
+Infinite Ammo
+Don't want to let turrets waste ammo? Then this upgrade is the right! The turret won't consume ammo, but keep in mind, that you still need one projectile in the Turret!
+More EXP Storage
+Wanna have more XP storage for your turret? Upgrade your turret with this and it will store 8 times more XP than before!
+Fire Immunity
+Don't let your turret burn down! Use this upgrade if you want to make sure no fiery creature can set it on fire or no lava can destroy it!
+Piercing
+With this upgrade, projectiles can fly through enemies, hitting others behind it. Use this for the most efficiency.
+Economy
+Do you want to waste less ammunition? The Economy upgrade will duplicate each bullet before it gets shoot out. Means the need of ammo will be cut in half!
+Purifying Flames
+This upgrade increases the efficiency of the Flamethrower by purifying the flames it shoots. Flames will do slightly more damage, pierce through enemies, set them longer on fire and will glow in a nice blue.
+Ender-Hurting
+This upgrade will allow turrets to damage Enderman due to their weakness: Water. The projectiles will get a liquid core which is poisonous to them!
+Precision
+Once upgraded with this, every projectile will hit the target with 99.9% accuracy!
+Slowdown II
+Slowdown your targets even more with this upgrade!
+Movement Blocking
+Entirely blocks the movement of a target! Don't let your turrets get endangered by incoming, revengeful enemies!
+Turret-XP Collecting
+You want to get the XP from your turrets and store it in the Collector? Then upgrade it with this! The Collector turret is then able to extract the XP from nearby turrets.
+Item Collecting
+You're afraid of losing your items upon death or just don't want to run around to get your drops from fought mobs? With this upgrade the Collector turret can store items in adjacent chests! Put chests to the sides or below the turret, so that it can reach them.
+Range Increase I
+You think the shield is too small? Then upgrade your Forcefield Turret with this to increase the shield's size up to 16 blocks.
+Range Increase II
+You still think the shield not big enough? This upgrade will allow the Forcefield turret to generate a shield with a size of 32 blocks!
+Shield Strenghtener
+This upgrade will increase the shield points from your Forcefield Turret up to 5000. A stronger shield for hordes of enemies!
+Shield Healer
+A shield will be healed 5 times faster than regular whilst upgraded with this one!
+Density Increaser
+If you don't want to let mobs get to your defense, use this upgrade! It increases the density of the shield, so that mobs (which are marked in the target list) will be pushed out of the Forcefield.
+Range Extender
+Use the power of gold to increase the range of the Collector turret! Reach further distant items and XP, to be exact in a range of 64 blocks!
+Description
+Basic Values
+Ammo and Health Items
+Upgrades
+Turret Info - Description
+Turret Info - Values
+Turret Info - Items
+Turret Info - Upgrades
+max. ammo capacity
+The maximal capacity of ammunition this turret can hold.
+max. health points
+The maximal health points this turret can have.
+upper Y-Range
+The upper Y-Range defines the range the turret can look for enemies above its head.
+lower Y-Range
+The lower Y-Range defines the range the turret can look for enemies below its base.
+X-Range
+The X-Range defines the range the turret can look for enemies horizontally.
+Damage
+The damage the turret deals to an entity each projectile.
+max. Experience capacity
+The max. capacity of Experience the turret can hold after upgraded with the XP upgrade.
+hover over an icon above to see the information.
+hover over an entry to see the information.
+%d blocks
+Ammo Items
+Healing Items
+projectile|projectiles
+%d / %d projectiles
+health point|health points
+%d / %d health points
+Requires: %s
+TCU - Targets
+Monsters
+Animals
+Other Entities
+Information
+Targets
+Settings
+TCU - Informations
+Health
+Ammunition
+Shield Points
+Type
+Experience Points
+upgrade not available
+Miscellaneous
+Turret name:
+Owner:
+Target:
+Scanning for targets
+Has Mobile Base:
+TCU - Upgrades
+TCU - Settings
+Dismantle Turret
+Target unique targets
+%s : on
+%s : off
+Get experience
+Dismount from mobile base
+Ride Turret
+Frequency
+Activate Turret
+Deactivate Turret
+Turret-Laptop - General
+Turret-Laptop - Targets
+Turret-Laptop - Upgrades
+Turret-Laptop - Miscellaneous
+Upgrade-Items
+Program Turrets
+General Settings
+Status Label
+Enable Status Label
+Disable Status Label
+Change TurretCam Crosshair
+Enable Turrets
+Disable Turrets
+Reset Targeted Entities
+Custom Name
+Enable Unique Targeting
+Disable Unique Targeting
+Dismantled Turret Storage
+Turret Shoot Key
+Range
+name: %s
+frequency: %s
+new targets
+new upgrades
+Explosion Radius: %s
+Spreads Fire
+Dispersing Shrapnels
+Ground-Griefing
+Turret Laptop
+Crossbow Turret (T1)
+Shotgun Turret (T1)
+Minigun Turret (T2)
+Revolver Turret (T2)
+Laser Turret (T3)
+Flamethrower Turret (T3)
+Sniper Turret (T4)
+FLAK Turret (T4)
+Railgun Turret (T5)
+Artillery Turret (T5)
+Snowball Turret (TS)
+Collector Turret (TS)
+Forcefield Turret (TS)
+Healing Turret (TS)
+Ammo Items
+Arrow Pack
+Pebbles
+Pebble
+Bullets
+Bullet Pack
+FT Fuel
+FT Fuel Pack
+Glistering Melon Bundle
+Ender Pearl Bundle
+Turret Control Unit
+Turret Info Book
+Mobile Base
+High Tech Turret Module
+TB50 Ballistic Rocket
+TB75 Ballistic Rocket
+TB100 Ballistic Rocket
+TG50 Guided Rocket
+TG75 Guided Rocket
+TG100 Guided Rocket
+Artillery Shell
+Artillery Shell
+Big Artillery Shell
+Big Artillery Shell
+Napalm Artillery Shell
+Napalm Artillery Shell
+Big Napalm Artillery Shell
+Big Napalm Artillery Shell
+Frag Artillery Shell
+Frag Artillery Shell
+Turret Music Disc
+Kubbi - Tidal Force
+Turret Mod
+Turret Mod Menu
+Get the Infos!
+Read the Turret Info Book
+First Strike!
+Cause your first death with your turret
+Multi-Kill!
+Kill multiple targets with your Shotgun Turret
+Take The Control!
+Use the TCU on a turret for the first time
+Cam-Kill!
+Kill something while riding your turret
+Upgrade Your Stuff!
+Upgrade one of your turrets for the first time
+Piercing Blast!
+Cause 10 Kills in 10 seconds with your T2 Minigun Turret
+Turret labels will be rendered
+Turret labels won't be rendered

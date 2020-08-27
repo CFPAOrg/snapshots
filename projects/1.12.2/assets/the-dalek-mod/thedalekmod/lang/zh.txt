@@ -1,0 +1,1212 @@
+%s's Sonic Screwdriver
+From Creative
+Uses: %s
+Music Disc
+Music Disc
+Music Disc
+Dalek Mod Theme - 2014 (Anniversary Edition)
+Dalek Mod Theme - 2020
+Dalek Mod Cyber Theme
+RGB Roundel
+RGB Roundel
+RGB Roundel
+RGB Roundel
+RGB Strip
+RGB Strip
+RGB Strip
+RGB Strip
+Rainbow Strip
+Rainbow Strip
+Rainbow Strip
+Rainbow Strip
+Granite Roundel
+Granite Roundel
+White Concrete Roundel
+White Concrete Roundel
+Rainbow Roundel
+Rainbow Roundel
+Rainbow Roundel
+Rainbow Roundel
+TARDIM Roundel
+SB-129 Time Machine Door
+SB-129 Time Machine Wall
+SB-129 Time Machine Control Panel
+SB-129 Time Machine Light
+Blue Quartz Stair
+Judoon Blaster
+The Moment Activated
+The Moment
+Ruth Tardis Door
+Ruth Tardis Door
+Dalek Radio
+Master Tardis Floor
+Master Dark Tardis Roundel A
+Master Dark Tardis Roundel B
+Master Tardis Interior Door
+Master Tardis Roundel A
+Master Tardis Roundel B
+Master Tardis Roundel C
+Master Tardis Pillar
+Crystaline Block
+Player Locator Panel
+Random Coordinate Panel
+Sandstone Bricks
+Force Field Control Panel
+Copper Wall
+Copper Roundel
+Present
+ Brachaki Hexagon
+Brachaki Floormat
+Hellbent Floormat
+Dalek Hoverbout
+ImageLoader
+Screwdriver
+Steampunk Screwdriver
+Unit Jeep
+Unit Gun
+River's Diary
+SWD Elytra
+Cybus Elytra
+NIS Elytra
+Cyber-Tear Elytra
+Dalek 1963 1 Elytra
+Dalek 1963 2 Elytra
+Dalek 2005 Elytra
+Davros Elytra
+Imperial Dalek Elytra
+Red Dalek Supreme Elytra
+Renegade Dalek Elytra
+Dalek Sec Elytra
+1966 TARDIS Elytra
+2005 TARDIS Elytra
+2014 TARDIS Elytra
+Baker TARDIS Elytra
+ River Song's Sonic Screwdriver
+Weeping Angel Elytra
+Spawn Sontaran
+Spawn Menoptera
+Tornado Elytra
+Sonic USB
+Gun Vector
+Bio Damper
+Tardis Shell
+M16
+Alphameson
+Adipose Fat
+Zygon Tongue
+Mary Poppins' Umbrella
+Brass Axe
+Brass Hoe
+Cyber Gun
+Stasis Cube
+Spawn Cyber Master
+Spawn Ood
+Gauss Rifle
+Vortex Manipulator
+Fob Watch
+Spectre
+50's Launcher
+XP9 - Laser Gun
+Sonic Cane
+Yale Key
+Second Doctors' Sonic Screwdriver
+Eight Doctors' Sonic Screwdriver
+Gell Guard
+Sonic Lipstick
+Gallifrey Falls Painting
+Mars Titanium Ore
+Rusted Iron Ore
+Mars Quartz Ore
+Mars Emerald Ore
+Rusted Iron
+Crystaline
+Crystaline Ore
+Untempered Schism
+§4Red§r Candycane Block
+§dPink§r Candycane Block
+§5Purple§r Candycane Block
+§9Violet§r Candycane Block
+§1Blue§r Candycane Block
+§aGreen§r Candycane Block
+§eYellow§r Candycane Block
+§cOrange§r Candycane Block
+§4Red§r Candycane Block §7(§4Full§7)§r
+§dPink§r Candycane Block §7(§dFull§7)§r
+§5Purple§r Candycane Block §7(§5Full§7)§r
+§9Violet§r Candycane Block §7(§9Full§7)§r
+§1Blue§r Candycane Block §7(§1Full§7)§r
+§aGreen§r Candycane Block §7(§aFull§7)§r
+§eYellow§r Candycane Block §7(§eFull§7)§r
+§cOrange§r Candycane Block §7(§cFull§7)§r
+Log Fire
+Varos Sand
+Chronotis Console
+Classic Dirt
+Kerblam Box
+Crystaline Goggle
+Crystaline Roundel
+Crystaline Mic
+Crystaline Pipe
+Dalek Emperor
+Crystaline Handbrake
+Brachaki Roundel Interior Door
+Crystaline Interior Door
+Crystaline Pillar
+Crystaline Rotor
+Crystaline Slab
+Brachaki Scanner
+Brachaki Fault Locator 1
+Brachaki Fault Locator 2
+BrachakiFault Locator 3
+Brachaki Fault Locator 4
+Brachaki Fault Locator 5
+Ruth Roundel
+Ruth Roundel
+Ruth Roundel
+Ruth Roundel
+Ruth Roundel
+Ruth Roundel
+Thirteen Doctor Statue
+Boti Painting
+Elixir Of Life
+Rusty Cyberman
+Cyber Drone
+Spawn Tomb Cyberman
+Spawn Tomb Cyber Controller
+Spawn 80's Cyber Leader
+Spawn 80's Cyberman
+Vortis Rock
+Vortis Sand
+Vortis Crystal
+Vortis Brick
+Vortis Quartz Ore
+Vortis Blue Quartz Ore
+Vortis Gold Ore
+Vortis Diamond Ore
+Vortis Crystaline Ore
+Blue Quartz
+Blue Quartz Block
+Dalek Mod Default TARDIS
+Chameleon Circuit Panel
+Toyota Hexagon
+Toyota Hexagon
+Toyota Hexagon Lightstrip
+Toyota Hexagon Roundel
+Toyota Hexagon Roundel
+Toyota Hexagon
+Toyota Hexagon Roundel Lightstrip
+Toyota Upper Wall
+Toyota Upper Wall
+Toyota Upper Wall
+Toyota Hexagon Roundel Lightstrip
+Toyota Hexagon Roundel
+Toyota Hexagon Roundel
+Toyota Hexagon
+Toyota Hexagon Lightstrip
+Toyota Hexagon
+Toyota §7(§cOrange§7)§r Console
+Toyota §7(§cBlue§7)§r Console
+Toyota Control Table
+Toyota Rotor §7(§cOrange§7)
+Toyota Front Panel §7(§cMid§7)
+Toyota Communications Panel
+Toyota Crank Panel
+Toyota Outer Doorway
+Toyota Front Panel §7(§cLeft§7)
+Toyota Front Panel §7(§cRight§7)
+Toyota Lever
+Toyota Grating §7(§cA§7)
+Toyota Grating §7(§cB§7)
+Toyota Handbrake
+Toyota Helm
+Toyota Small Chalkboard
+Toyota Monitor Panel
+Toyota Bookshelf
+Toyota Bookshelf §7(§cSmall§7)
+Tall Chalkboard
+Toyota Telepathic Panel
+Toyota Pillar Block
+Toyota Railing
+Toyota Railing
+Toyota Chair
+Toyota Spinning Light
+Toyota Spinning Light
+Toyota Whirligig §7(§cClockwise§7)
+Toyota Whirligig §7(§cCounter-Clockwise§7)
+Toyota Platform §7(§cLight§7)
+Toyota Platform
+Toyota Roof
+Toyota Roof Light
+Toyota Whirligig §7(§cSmall§7)
+Toyota Whirligig Light §7(§cSmall§7)
+Toyota Console Block
+Rani Console
+Toyota Platform §7(§cNo Light§7)
+Toyota Spinning Light Divider
+§7Toyota §9Railing§r
+Rani Wall
+Rani Roundel
+Rani Pillar
+Rani Panel
+§7Toyota Railing§r
+Toyota Roof Slab
+Toyota Platform Slab
+Toyota Console Slab
+Toyota Console Stairs
+Toyota Interior Door [8-10]
+Toyota Armchair
+Toyota Hatstand
+Toyota Rotor §7(§cBlue§7)
+Toyota Corridors
+Toyota Corridors §7(§cBlue§7)
+Toyota Corridor Entrance
+Toyota Pillar
+TARDIS Chair
+Copper Console
+Copper Chair
+Copper Monitor
+Copper Atom Accelerator
+Copper Handbrake
+Copper Console Divider
+Copper Red Lever
+Copper Spinner
+Copper Light Tube
+Copper Gramophone
+Copper Switch Panel
+Copper Keyboard
+Copper Rotor
+Copper Corridor
+Copper Corridor Door (Closed)
+Copper Corridor Door (Open)
+Copper Corridor Junction
+Coral Platform
+Coral Roof
+Coral Wall
+Coral Wall Divider
+Coral Wiring
+Coral Console Light.
+Coral Wall Divider
+Coral Stone
+Coral Floor
+Coral Wall Divider
+Coral Wall Divider
+Coral Wall Divider
+Coral Wall Divider
+Coral Roof Divider
+Coral Wall Divider
+Coral Sandstone
+Coral Roof Divider Stairs
+Coral Stone Stairs
+Forest In Box
+Backright Coral Panel
+Front Coral Panel
+Coral Interior Door
+Coral Handbrake
+Coral Lever
+Green Coral Panel
+Light Coral Panel
+Silver Coral Panel
+Coral Railing
+Coral Monitor
+Coral Rotor
+Coral Pillar
+Coral Console
+Coral Pillar
+Wooden Rails
+Dalek Mod TARDIS Monitor
+Copper Monitor
+Coral Chair
+Coral Monitor
+Coral Entrance Ramp
+Coral Mesh Slab
+Coral Sandstone Slab
+Coral Stone Slab
+War Doctors Console
+8th Doctors Monitor
+7/8th Doctors Console
+Seventh Doctor Classic Console
+Wooden Console Wall Divider Top
+Wooden Console Wall Divider Top
+Wooden Console Wall Divider
+Wooden Console Stair Railing
+Wooden Console Pillar
+Wooden Console Roundel
+Wooden Console §7Glass§r Roundel
+Wooden Console §dGlass§r Roundel
+Wooden Console §eGlass§r Roundel
+Wooden Console Wall Top
+Wooden Console Stair Railing Slab
+Wooden Console Pillar Slab
+Fourth Doctor Hatstand §7(§cScarf§7)
+Wooden Console Chair
+Wooden Console Table
+Wooden Monitor Wall
+Wooden Console
+Classic TARDIS Monitor
+Time Monster Console
+Hartnell Console
+Food Machine
+Hartnell Back Panel
+Hartnell Side Back Panel
+Hartnell Side Front Panel
+Hartnell Rotor
+Hartnell Back Wall
+Hell Bent Console
+Hartnell Lightbox
+Hartnell Armilarry Sphere
+Hartnell Pole
+Hartnell Side Door
+Hartnell Roundel Door
+Hartnell Hexagon Floor
+Hartnell Roundel
+Hartnell Roundel
+Hartnell Roundel Bottom
+Hartnell Roundel Blowup
+Hartnell Roundel Blowup
+Hartnell Wall
+Hartnell Chair
+Hartnell Armilarry Sphere
+Power Hexagon
+Hellbent Pole
+Hellbent Pole Hemi-Sphere
+Hellbent Roundel Door
+§7Black Roundel§r
+§7Black Roundel§r
+§bYellow Roundel§r
+§bYellow Roundel§r
+Yellow Roundel
+Yellow Roundel
+White Roundel
+White Roundel
+§7Gray Roundel§r
+§7Gray Roundel§r
+§6Dalekanium Roundel§r
+§6Dalekanium Roundel§r
+§7Steel Roundel§r
+§7Steel Roundel§r
+§bIce Roundel§r
+§bIce Roundel§r
+Blocky Roundel
+Blocky Roundel
+§7Master's Roundel§r
+§7Master's Roundel§r
+Toyota Floor Roundel
+Toyota Wall Roundel
+Toyota Steel Wall Roundel
+§cOld Coral Roundel§r
+§5Epsilon Roundel§r
+Toyota Steel Wall Roundel
+Brown Door Roundel
+Brown Door Roundel
+§eCartoon Roundel§r
+§eCartoon Roundel§r
+White Door Roundel
+White Door Roundel
+White Solid Roundel
+White Solid Roundel
+§bBlue Solid Roundel§r
+§bBlue Solid Roundel§r
+§cOrange Dot Roundel§r
+§cOrange Dot Roundel§r
+§3Blue Dot Roundel§r
+§3Blue Dot Roundel§r
+Wooden Roundel
+Wooden Roundel
+Coral Roundel
+Small Coral Roundel
+§7Gray Roundel§r
+§7Gray Roundel§r
+Filthy Roundel
+Filthy Roundel
+White Roundel Door Section Left
+White Roundel Door Section Right
+White Roundel Door Section Top Left
+White Roundel Door Section Top Right
+Brown Roundel Door Section Left
+Brown Roundel Door Section Right
+Brown Roundel Door Section Top Left
+Brown Roundel Door Section Top Right
+Floor Grate
+TARDIS Command Panel §7(§cWIP§7)
+Dalek Mod Handbrake
+Toyota Platform Stairs
+1x1 TARDIS Interior Door
+Hat Stand
+TARDIS Door Hitbox
+Chalkboard
+TARDIS Door Surround
+TARDIS Lamp
+TARDIS Wall
+§5Epsilon Outline§r
+TARDIS Wall
+TARDIS Floor
+TARDIS Wall
+TARDIS Steel Wall
+Lower TARDIS Wall §7(§bBlue§7)
+Lower TARDIS Wall §7(§cOrange§7)
+Dalek Mod TARDIS Floor Mesh
+Eighties Roundel Container
+TARDIS Flight Panel
+2 Wide TARDIS Door
+Clockwork TARDIS Console
+TARDIS Door With Surround
+TARDIS Command Block §7(§cWIP§7)
+Classic Roundel Container
+TARDIS Wall Display
+TARDIS Monitor
+United States Flag
+Hexagon Roundel
+Hexagon Roundel ALT
+Roundel Half
+Roundel Full
+2013 Dalek Mod TARDIS Rotor
+Darkened Bricks
+Dark Bricks
+Cracked Bricks
+Cracked Darkened Bricks
+Cracked Dark Bricks
+Gray Bricks
+Cracked Gray Bricks
+Brown Bricks
+Cracked Brown Bricks
+Yellow Bricks
+Cracked Yellow Bricks
+Green Bricks
+Cracked Green Bricks
+Aged Bricks
+Cracked Aged Bricks
+Mossy Bricks
+Classic TNT
+Classic Cobblestone
+Classic Brick
+Classic Mossy Cobblestone
+Classic Gold Ore
+Classic Gravel
+Classic Leaves
+Classic Grass
+Classic Gold
+Classic Iron
+Classic Teal Wool
+Classic Aqua Wool
+Classic Gray Wool
+Classic Magenta Wool
+Classic Green Wool
+Classic Cyan Wool
+Classic Yellow Wool
+Classic Red Wool
+Classic Lime Wool
+Classic Orange Wool
+Classic Blue Wool
+Classic Indigo Wool
+Classic Violet Wool
+Classic Pink Wool
+Classic Black Wool
+Classic White Wool
+Omicron Persei 8 Rock
+Omicron Persei 8 Rock
+Trenzlore Rock
+Granite
+Mars Rock
+Mars Sand
+Mars Sand
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Moon Rock
+Skaro Sand
+Skaro Stone
+Cave Game Grass
+Cave Game Cobblestone
+Gallifrey Grass
+Gallifrey Dirt
+Gallifrey Leaves
+Gallifrey Sand
+Gallifrey Stone
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalek City Block
+Dalekamite
+Dalekanium Block
+Dalekanium Ore
+Dalek Pumpkin
+Clockwork Block
+Clockwork Block
+Light Red Clockwork Block
+Light Blue Clockwork Block
+Yellow Clockwork Block
+Lime Clockwork Block
+Magenta Clockwork Block
+Gray Clockwork Block
+White Clockwork Block
+Blue Clockwork Block
+Orange Clockwork Block
+Green Clockwork Block
+Red Clockwork Block
+Dark Gray Clockwork Block
+Plastic Block
+White Plastic Block
+Orange Plastic Block
+Light Red Plastic Block
+Light Blue Plastic Block
+Yellow Plastic Block
+Lime Plastic Block
+Magenta Plastic Block
+Gray Plastic Block
+Light Gray Plastic Block
+Cyan Plastic Block
+Purple Plastic Block
+Blue Plastic Block
+Brown Plastic Block
+Green Plastic Block
+Red Plastic Block
+Black Plastic Block
+Silicate Ore
+Zeiton 7 ore
+Titanium Ore
+Steel Block
+Zeiton Block
+First Doctor Statue
+Second Doctor Statue
+Third Doctor Statue
+Fourth Doctor Statue
+Fifth Doctor Statue
+Sixth Doctor Statue
+Seventh Doctor Statue
+Eighth Doctor Statue.
+War Doctor Statue
+Ninth Doctor Statue
+Tenth Doctor Statue
+Eleventh Doctor Statue
+Twelfth Doctor Statue
+Dr. Who Statue
+Toyota Pillar Top
+Copper Interior Doors
+Hartnell Interior Doors
+Toyota Interior Doors [7B]
+Troughton Interior Doors
+Hologram
+Handles
+Image loader §7(§cRename to work§7)
+Redstone Lamp On
+[TCN/MDL] Model Loader
+Chunk Render §7(§cWIP§7)
+Transparent Block
+Transparent Block Light
+Chroma Key Block §7(§cGreen Screen§7)
+Cheese Ore
+Oxygen Tank
+Lamp Post
+Office Chair
+Nitro-9
+Sonic Screwdriver Charger
+Totter's Lane Gate §7(§9Left§7)
+Totter's Lane Gate §7(§9Right§7)
+Key to Time
+Hand in a jar
+Entity Manipulator
+Shop NPC
+SWDJ Model Loader §7(§cRename to work§7)
+Solar Panel
+Command Block
+Fat Block
+Explosive Bauble
+Santa Hat
+Twelfth Doctor's Sonic Screwdriver
+Thirteenth Doctor's Sonic Screwdriver
+Sonic Shades
+Eleventh Doctor's Sonic Screwdriver
+Tenth Doctor's Sonic Screwdriver
+Laser Screwdriver
+Seventh Doctors' Sonic Screwdriver
+Romana's Sonic Screwdriver
+ Fourth Doctor's Sonic Screwdriver
+Sonic Blaster
+2Dis
+HireSWD: Spaceblock's Sonic Screwdriver
+HireSWD: DrWho's Sonic
+3rd / 12th Sonic Screwdriver Hybrid
+Ed's Screwdriver
+Toaster...
+TARDIS Key
+Stattenheim Remote
+§5Brass Pickaxe
+Dalekanium Sword
+Dalekanium Battleaxe
+Steel Sword
+test
+Aces Baseball Bat
+§5Brass Sword
+Rift Sword
+§4Dashing Sword
+The Doctor's Spoon
+Timelord Staser
+Dalek Gunstick
+10th Doctor's Water Pistol
+Ammo
+Doctor's Space Suit Helmet
+Doctor's Space Suit Jacket
+Doctor's Space Suit Leggings
+Doctor's Space Suit Boots
+Nasa Space Suit Leggings
+Nasa Space Suit Torso
+Nasa Space Suit Boots
+Nasa Space Suit Helmet
+Nasa Orange Space Suit Leggings
+Nasa Orange Space Suit Torso
+Nasa Orange Space Suit Boots
+Nasa Orange Space Suit Helmet
+SWD Space Program Suit Leggings
+SWD Space Program Suit Torso
+SWD Space Program Suit Boots
+SWD Space Program Suit Helmet
+4th Doctor's Hat
+Fez
+Gas Mask
+4th Doctor's Scarf
+7th Doctor's Hat
+Bow Tie
+Black Glasses
+3D Glasses
+First Doctor's Hat
+3rd Doctor's Cloak
+6th Doctor's Coat
+2nd Doctor's Fur Coat
+Top Hat
+Aces Jacket
+Stetson
+Dalekanium Leggings
+Dalekanium Torso
+Dalekanium Boots
+Dalekanium Helmet
+Steel Leggings
+Steel Torso
+Steel Boots
+Steel Helmet
+§6§lDalek §e§lCookie
+Steel Ingot
+Dalekanium Ingot
+Zeiton 7 Crystal
+§5Brass Ingot
+Titanium Ore
+Titanium Ingot
+Silicon
+Larvaegun Spawner
+Zarbi Spawner
+Electronic Circuit
+§3Credit
+Chunk of Plastic
+§5Clockwork
+Oxygen Canister
+Davros Chair
+§6Bessie
+Spawn Delorean
+Spawn Snowman
+Spawn Timelord
+Spawn Chancellery Guard
+K9 Spawner
+Aussie K9 Spawner
+K9's Tail
+K9's Body
+K9's Head
+K9's Regeneration Unit
+Cybermat
+Cyborg Hand
+Lightsaber
+Unrefined Sonic Crystal
+Sonic Crystal
+Crystal ore
+Wooden Sonic
+Timey Wimey Detector
+Taser
+Sonic Screwdriver
+Sonic Screwdriver
+Sonic Screwdriver
+Ak-47
+Zygon Detector
+Rosalina Wand
+Spawn Earthshock Cyberman
+Spawn Cyberman
+Spawn Cyber Villager
+Spawn Tenth Planet Cyberman
+Spawn Cyber Leader
+Spawn Patient 1
+Spawn Patient 2
+Spawn Patient 3
+Spawn Invasion Cyberman
+Spawn Auton A
+Spawn Auton B
+Spawn Auton C
+Spawn Auton D
+Spawn Auton E
+Spawn Auton F
+Spawn Auton G
+Spawn Auton H
+Spawn Auton I
+Spawn Clockwork Droid A
+Spawn Clockwork Droid B
+Spawn Clockwork Droid C
+Spawn Adipose
+Spawn Empty Child
+Spawn Gaskmask Zombie A
+Spawn Gaskmask Zombie B
+Spawn Gaskmask Zombie C
+Spawn Gaskmask Zombie D
+Spawn Gaskmask Zombie E
+Spawn Gaskmask Zombie F
+Spawn Gaskmask Zombie G
+Spawn Gaskmask Zombie H
+Spawn Gaskmask Zombie I
+Spawn Snowman
+Spawn Snowman
+Spawn iSnowman
+Spawn Weeping Angel
+Handles
+§5Solar Cell
+§2Story Mode?
+Hat.
+Spanner
+Tardis Chameleon Cartridge
+Tardis Chameleon Cartridge
+Toaster
+Spawn Classic Player
+Spawn Silence
+Spawn Toclafane
+ODM Gear
+Adrics Star
+Spawn Whisperman
+Second Doctors Recorder
+Adipose Pill
+Swear to jesus
+Spawn Ice Warrior
+7th Doc Umbrella
+Radiation Pill
+UNIT Pistol
+Family of Blood Gun
+Christmas Tree Spawner
+Wreath
+Christmas Tree
+Ambient Door
+Fez [2]
+Gingerbread Interior Door
+Fireplace
+Chimney
+Painting
+Sonic Screwdriver Charging Station
+Phaser
+River Song's Revolver
+Spawn Zygon
+Spawn Timelord
+Unrefined Steel Ore
+Unrefined Steel Ingot
+Steel Goop
+Laser
+Aces Pulse Wave
+Gell Guard
+Rocket
+Mondan
+Auton
+Adipose
+Clockwork Droid
+Gasmask Zombie
+Snowman
+A CHAIR
+Cyberman
+Bessie
+TARDIS
+K9
+Explosive Bauble
+Davros Chair
+Delorean
+Weeping Angel
+Story Mode
+K9 Regen
+Menoptera
+Snowman
+Christmas Tree
+Cybermat
+Block John
+Dalek
+Silence
+Classic Player
+Toclafane
+Whisper Man
+Ice Warrior
+Beam
+Zygon
+Sontaran
+Ood
+Zarbi
+Larvaegun
+Judoon
+UNIT RPG
+Food Cube
+Dalekanium Nugget
+Roundel Containment
+Bookshelf
+Dalek Mod: Misc
+Dalek Mod: Weapons
+Dalek Mod: Clothing
+Dalek Mod: TARDIS
+Dalek Mod: Gadgets 
+Dalek Mod: Seasonal
+Dalek Mod: Blocks
+Dalek Mod: Food
+Dalek Mod: Tardis Blocks
+Dalek Mod: Mobs
+Dalek Mod: Decorations
+Dalek Mod: Items
+Dalek Mod: Survival Blocks
+Dalek Mod: Image Loader
+Oxygen Tank Refiller
+§cCommand Not Found!
+§cInvalid Parameters!
+§TARDIS does not exist!
+§cThis command cannot be used in this dimension!
+§cBlock does not exist!
+§cYou do not have permission!
+§cThis is not your TARDIS!
+§aAdded fez to creative inventory!
+§cColor must be in HEX format (IE: #FFFFFF)
+§aCleared %s %s from the cache.
+§cThe cache clearing process is running.
+§aReloaded all resources.
+§cSonic shades are not google GLASS!
+§cWearing google GLASS is not recommended, it attracts daleks.
+§c§lAn Angel has stolen your Tardis key!
+§c§lThe Config has been reset!
+§c§lThe Config has been saved!
+This command is player only!
+Your Tardis is now rematerializing
+Your Tardis is now dematerialising
+Your landing position was invalid. The TARDIS could not move.
+Are you sure you pressed the right button?
+Calculating safe place to land..
+All of your regenerations have been stored!
+1 regeneration has been transferred to the watch.
+Fob Watch is full!
+You already have a full regeneration cycle!
+All stored regenerations have been transferred!
+You have added 1 regeneration.
+The fob watch is empty!
+The Vortex Manipulator has no charges left!
+The Vortex Manipulator doesn't have enough charges!
+You can't use the vortex manipulator in the tardis dimension!
+No next skin for Alex (Emtpty)
+No next skin for Steve (Empty)
+Skinpacks
+Sonic Shades sonic
+Classic inventory
+Sonic explosions
+Overlay Toggle
+Configurations for client side
+Configurations for both client & server side
+Mob Options
+Debug Options
+Dimension Config
+Tardis
+Toggle Suicidal Dalek explosions
+Toggle the explosiveness of SWD Daleks
+Toggle Angels breaking light sources
+Toggle Angels teleporting players
+Toggle the Dalek mods custom Title screen
+Toggle Sonic Shade commands
+Disables the usage of the Sonic Blaster
+Toggle the need for Spacesuits
+Toggle Acid rain
+Max Tardis's Per Player
+Enable Max Tardis per Player
+Regeneration
+Toggle Player Tracking
+Windows XP Shutdown
+Wind
+OW
+Probably leave a message at the tone (or something).
+TV Static
+Old gate opening
+CEASE.wav
+Never insult Matt's fetishes...
+Access Gallifrey for only 2.99!
+Lightsaber Ignites
+Lightsaber Extinguishes
+Lighsaber Swings
+Hand In Jar
+Walking on classic grass
+Classic Explosion
+Gunshot
+Time Lord Gunshot
+Water Pistol shot
+Horn Beeps
+Car Engine runs
+Uncharted Waters
+Transfer
+Mr. Smith Opening
+She's Always a Woman to Me
+Four Beats
+HA! Get Rick Rolled!
+Auton shoots
+Laser shoots
+Fly and Blaze and Slice!
+Delete!
+Cyberman Shooting
+You are Incompatable
+Metallic Footsteps
+You will become like us
+I hate this song!
+You will become like us
+You will be destroyed!
+Excellent!
+Destroy them!
+Emotions are a weakness!
+You will become like us!
+You will be destroyed!
+We are the cybermen!
+Are you my Mommy?
+Affirmative!
+Power Supply, failing...
+Maximum Defense Mode!
+I am K9 Mark 3 
+Commencing Orientation Protocals
+Threat detected!
+Laser shoots
+Still fully functional!
+Lights failing
+Whoosh
+Weeping Angel moves
+Angel Screech
+Angel Screech
+moo... MOO!
+moo...
+Destroy!
+Exterminate!
+Exterminate!
+Ex-Term-Inate...
+You will be EXTERMINATED!!
+Stay where you are!
+Dalek Screams
+Emergency Temporal Shift!
+Laser Shoots
+Laser Shoots
+SWD Shoots
+Davros move
+EX-TER-MINATE!
+THE STORM. IS. HERE!
+Dalek Storm Dies
+Dalek Storm Theme
+Emergency Temporal Shift!
+Annihilate!
+Daleks cannot be defeated!
+Exterminate them!
+Exterminate!
+Exterminate!
+You will face extermination!
+Locate and Destroy!
+Nothing can stop the Daleks!
+One Dalek is capable of extermating all!
+Our enemy approaches!
+Where are the Space Travelers?
+We Obey!
+You will be exterminated!
+Advance!
+Alert! Alert! Alert!
+Do not move!
+Emergency! Emergency!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Hault!
+I Obey!
+Daleks do not show pity!
+Pity!
+Persue! Persue!
+We will take our rightful place!
+Seek! Locate! Exterminate!
+Seek! Locate! Exterminate!
+Superior Beings!
+Surrender!
+Surrender or you will be exterminated!
+Surrender or you will be exterminated!
+You will surrender!
+You must be exterminated!
+You are an enemy of the Daleks!
+Exterminate!
+The Daleks are the superior being!
+We are here to exterminate you!
+Reinforcements Requested!
+Do not move! Stay where you are!
+You will be exterminated!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Stay where you are!
+You are an enemy of the Daleks!
+You will be exterminated!
+Do not move!
+Exterminate!
+Hault!
+Hault! At once!
+Stay where you are!
+Stay! Where! You! Are!
+Stay where you are!
+You are trapped!
+Alert! Alert!
+You will come with us!
+Daleks rule supreme!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+The Humans will be exterminated!
+The Humans will surrender!
+Resistance is useless!
+You will be exterminated!
+Sonic Vibrations
+Sonic Vibrations
+Sonic Vibrations
+Sonic Vibrations
+Sonic Vibrations
+Sonic Vibrations
+Sonic Vibrations
+Laser Screwdriver Laser
+Tick!
+SURPRISE!
+Vacuuming RAM
+Exploding Bauble decimates
+Exploding Bauble thrown
+Footsteps
+Toyota TARDIS Quick flight
+TARDIS Dematerialization
+TARDIS Rematialization
+Thirteen Hum
+Coral Hum
+War Hum
+Toyota Hum
+TARDIS Malfunctions
+TARDIS Fails to land
+Circuit added
+TARDIS Hums
+TARDIS Powers down
+TARDIS Rematialization Loop
+Doors are locked
+Cloiser Bell Rings
+TARDIS Basedrum
+TARDIS Flight
+Copper Handbrake Pulled
+Coral Handbrake Pulled
+Gold Lever Pulled
+Gold Lever Pushed
+Toyota Handbrake Pushed
+Toyota Handbrake Pulled
+TARDIS Flight
+TARDIS Door Closes
+TARDIS Door Opens
+TARDIS Door Opens
+TARDIS Door Closes
+TARDIS Door Closes
+TARDIS Door Opens
+TARDIS Door Open
+TARDIS Door Closed
+Anti-Radiation
+Music Disc
+I am the Doctor
+Music Disc
+The Dark and Endless Dalek Night
+Music Disc
+Resonance of the Daleks
+Music Disc
+Conquest of the Cybermen
+Music Disc
+Rise of Cybermasters
+Music Disc
+Army of Zarbi
+UNIT Badge 2
+UNIT Badge
+Egg Shells
+ Egg Shell
+Safe
+War Interior Door
+2006 Coral Door
+§c§lHail and Farewell §6%1$s
+Block of Cheese
+Copper Ore
+Zeiton Ore
+Copper Ore
+Sillicate Ore
+Diamond Ore
+Gallifrey Grass
+White-Point Star ore
+White-Point Star
+Green Brick Stairs
+Yellow Clay Ore
+Green Clay Ore
+Gallifrey Brick
+Gallifrey Chiseled Brick
+Gallifrey Brick Stairs
+Gallifrey Brick Slab
+Varos Lapiz Ore
+Varos Plastic Ore
+Mars Lonsdaleite Ore
+Yellow Clay
+Green Clay
+Yellow Brick
+Green Brick
+Lonsdaleite
+Lonsdaleite Pickaxe
+Thana Plant
+Azbantium
+Judoon
+Steel Axe
+Steel Hoe
+Steel Pickaxe
+Steel Battleaxe
+Steel Mace
+Waffle
+Gear
+Dimensional Circuit
+Temporal Map
+Spawn Mondan #1
+Spawn Mondan #2
+Spawn Mondan #3
+Spawn Cyberaid Cyberman
+Spawn Warrior Cyberman
+Grey Brick Stairs
+Silicon Block

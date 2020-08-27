@@ -1,0 +1,42 @@
+Traverse
+Brown Autumnal Leaves
+Brown Autumnal Sapling
+Orange Autumnal Leaves
+Orange Autumnal Sapling
+Red Autumnal Leaves
+Red Autumnal Sapling
+Yellow Autumnal Leaves
+Yellow Autumnal Sapling
+Fir Sapling
+Fir Leaves
+Fir Wood
+Fir Wood Planks
+Fir Wood Stairs
+Fir Wood Slab
+Fir Door
+Fir Fence
+Fir Fence Gate
+Red Rock
+Red Rock Bricks
+Red Rock Brick Stairs
+Red Rock Bricks Slab
+Chiseled Red Rock Bricks
+Cracked Red Rock Bricks
+Red Rock Slab
+Red Rock Cobblestone
+Red Rock Cobblestone Stairs
+Red Rock Cobblestone Slab
+Red Rock Cobblestone Wall
+Crag Rock
+Crag Rock Bricks
+Crag Rock Brick Stairs
+Crag Rock Bricks Slab
+Chiseled Crag Rock Bricks
+Cracked Crag Rock Bricks
+Crag Rock Slab
+Crag Rock Cobblestone
+Crag Rock Cobblestone Stairs
+Crag Rock Cobblestone Slab
+Crag Rock Cobblestone Wall
+Dead Grass
+Cold Grass

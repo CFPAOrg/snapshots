@@ -1,0 +1,19 @@
+Sand
+Red Sand
+Gravel
+Soul Sand
+Magma
+Ice
+Slime
+Cement
+Asphalt
+Cement Block
+Cement Slab
+Cement Double Slab
+Cement Stairs
+Cement Wall
+Asphalt Block
+Asphalt Slab
+Asphalt Double Slab
+Asphalt Stairs
+Asphalt Wall

@@ -1,0 +1,1755 @@
+Pump
+Fuel Rod (Uranium)
+Depleted Fuel Rod (Uranium)
+Fusion Module
+Empty Fuel Rod
+Charged Redstone
+Charged Glowstone
+Charged Ender Pearl
+Large Pile of Redstone
+Large Pile of Glowstone
+Big Ender Pearl
+Memory Card
+Linker
+Tablet House
+Tablet
+Battery
+Display
+Tiered Processor
+Linked Chipset
+Connection Modem
+Titanium Plate
+Uranium Dust
+Flint Axe Head
+Flint Axe
+Controller Box Connection Modem
+Wrench
+Entity Tracker
+Portable Solar Panel
+Portable Energy Cell
+Holotape
+Magnetic Card
+Electrical Magnetic Card
+Door
+Nuclear Waste Bucket
+Wrench
+Multimeter
+Empty Wire Coil
+Sulfur
+Tiny Pile of Sulfur
+Acid Paper
+Big Note Book
+Magnifying Glass
+Note Book
+Multi-Tool
+Multi-Tool: Wrench
+Multi-Tool: Switch
+Multi-Tool: Field Transporter
+Multi-Tool: ID Writer
+Identity Card
+Blank Card
+Security Station ID Card
+Power Link Card
+ForceDuct
+Multi-Tool: Configurator
+ForceDuct (Empty)
+Configurator
+Portable Comparator
+Range Upgrade
+Range Upgrade: Width
+Range Upgrade: Height
+Projector Lens
+Projector Module: Cube
+Projector Module: Containment
+Projector Module: Tube
+Projector Module: Wall
+Projector Option: Zapper
+Projector Option: Field Fusion (WIP)
+Projector Option: Sponge
+Projector Option: Block Breaker
+Efficiency Upgrade
+1k Storage Cell
+4k Storage Cell
+16k Storage Cell
+64k Storage Cell
+Acceleration Card
+Black Pattern
+Encoded Pattern
+Crafting Card
+Iron Rod
+Crushed Sulfur Ore
+Crushed Nether Sulfur Ore
+Hammer
+Iron Hammer
+Bronze Hammer
+Flint Hammer
+Enderium Hammer
+Steel Hammer
+Flint Hammer
+Hot Iron Ingot
+Hot Copper Ingot
+Hot Tin Ingot
+Hot Iron Hammer Head
+Hot Copper Hammer Head
+Hot Tin Hammer Head
+Iron Hammer Head
+Copper Hammer Head
+Tin Hammer Head
+Obsidian Hammer
+Aluminum Hammer
+Titanium Hammer
+Copper Hammer
+Tin Hammer
+Blue Metal Hammer
+Nickel Hammer
+Platinum Hammer
+Advanced Alloy Hammer MK1
+Advanced Alloy Hammer MK2
+Diamond Hammer
+Speed Upgrade
+Basic Extruder Module
+Advanced Extruder Module
+Elite Extruder Module
+Ultimate Extruder Module
+Raw Mercury
+Bauxite Dust
+Mercury Crystal
+Upgrade Frame
+Mortar and Pestle
+Stone Bowl
+Netherrack Dust
+Bottle of Resin
+Tree Tap
+Bronze Wire Cutters
+Steel Wire Cutters
+Quartz Wire Cutters
+Titanium Wire Cutters
+Advanced Alloy Wire Cutters MK1
+Advanced Alloy Wire Cutters MK2
+Enderium Wire Cutters
+Aluminum Wire Cutters
+Refined Clay
+Refined Brick
+Flint Hammer Head
+Basic Circuit
+Normal Circuit
+Advanced Circuit
+Elite Circuit
+Basic Circuit Components
+Normal Circuit Components
+Advanced Circuit Components
+Elite Circuit Components
+Basic Circuit Plate
+Advanced Circuit Plate
+Bronze Pipe
+Coal Coke
+Soldering Alloy Ingot
+Raw Silicon
+Silicon
+Silicon Plate
+Rubber
+Glass Dust
+Glass Fiber
+Glass Mesh
+Raw Circuit Board
+Iron Wire Cutters
+Tungsten Plate
+Tungsten Dust
+Tiny Pile of Tungsten Dust
+Tungsten Ingot
+Tungsten Nugget
+Tungsten Crystal
+Crushed Tungstate Ore
+Crushed End Tungstate Ore
+Tungstate Shard
+Tungstate Clump
+Tungsten Research Component
+Tungstensteel Wire Cutters
+Wolframium Hammer
+Wolframium Grinder
+Tungstate Dust
+Hot Tungstensteel Ingot
+Hot Tungsten Ingot
+Tungsten Wire Coil
+Tungsten Wire
+Tungstensteel Plate
+Tungstensteel Ingot
+Tungstensteel Dust
+Tiny Pile of Tungstensteel Dust
+Tungstensteel Hammer
+Tungstensteel Nugget
+Tungstensteel Research Component
+Enderium Base Dust
+Cupronickel Ingot
+Cupronickel Heating Coil
+Tin Turbine
+Generator
+Solar Panel Component MK1
+Steel Pipe
+Electric Motor
+Plastic Sheet
+Crushed Monazit Ore
+Crushed End Monazit Ore
+Basic Card
+Raw Basic Circuit Plate
+Raw Normal Circuit Plate
+Raw Advanced Circuit Plate
+Raw Elite Circuit Plate
+Unassembled Basic Circuit Plate
+Unassembled Normal Circuit Plate
+Unassembled Advanced Circuit Plate
+Unassembled Elite Circuit Plate
+Circuit Drawing Pen (Filled)
+Empty Blueprint
+Empty Big Blueprint
+Basic Circuit Blueprint
+Normal Circuit Blueprint
+Advanced Circuit Blueprint
+Elite Circuit Blueprint
+Impure Fluix Crystal
+Impure Fluix Dust
+Fluix Reactor Blueprint
+Advanced Fluix Reactor Blueprint
+Acid Resistant Ink Bottle
+Circuit Drawing Pen (Empty)
+Quantum Circuit
+Fluix Circuit
+Quantum Circuit Blueprint
+Fluix Circuit Blueprint
+Raw Chalk
+Photoactive Basic Circuit Plate
+Photoactive Advanced Circuit Plate
+Chalk
+Tin Can
+Photactive Material Can
+UV Light Bulb
+Research Table Upgrade (Unknown)
+Research Table Upgrade (Bronze)
+Research Table Upgrade (Electrical)
+Photoactive Material Can
+Basic Chipset
+Basic Chipset Blueprint
+Advanced Chipset
+Advanced Chipset Blueprint
+Fluix Chipset
+Fluix Chipset Blueprint
+Quantum Chipset
+Quantum Chipset Blueprint
+Laser Module
+Blueprint Fluix Empty
+Raw Electrical Steel Dust
+Electrical Steel Ingot
+Electrical Steel Plate
+Research Table Upgrade (MV Electrical)
+Research Table Upgrade (HV Electrical)
+Obsidian Rod
+Flint Pickaxe
+Flint Pickaxe Head
+Flint Sword
+Flint Sword Head
+Flint Hoe
+Flint Hoe Head
+Flint Shovel
+Flint Shovel Head
+Diamond Pickaxe Head
+Diamond Axe Head
+Diamond Hoe Head
+Diamond Shovel Head
+Diamond Sword Head
+Copper Axe
+Copper Pickaxe
+Copper Shovel
+Copper Hoe
+Copper Sword
+Bronze Axe
+Bronze Pickaxe
+Bronze Shovel
+Bronze Hoe
+Bronze Sword
+Brass Plate
+Brass Ingot
+Brass Dust
+Brass Nugget
+Research Component Base
+RF Converter Module
+Tesla Converter Module
+Basic Processor
+Basic Memory
+Basic Controller Motherboard
+Basic Server Tower Motherboard
+Basic Chipset
+Heat Conducting Paste Can
+Small Heat Sink
+Large Heat Sink
+Small Fan
+Large Fan
+Logic Processor
+Arithmetic Logic Unit
+Memory Unit
+Central Unit
+Quartz
+Logic Processor Blueprint
+Vulcainzing Agents
+Stone Dust
+Crushed Obsidian
+Steel Rod
+Rosin
+Bottle of Concentrated Resin
+Steel Axe
+Steel Pickaxe
+Steel Shovel
+Steel Hoe
+Steel Sword
+Build Guide
+Uranium 235
+Uranium 238
+Uranium 235 Nugget
+Blueprint
+Basic Circuit
+Normal Circuit
+Advanced Circuit
+Elite Circuit
+Basic Circuit Components
+Normal Circuit Components
+Advanced Circuit Components
+Elite Circuit Components
+Raw Basic Circuit
+Raw Normal Circuit
+Raw Advanced Circuit
+Raw Elite Circuit
+Unassembled Basic Circuit
+Unassembled Normal Circuit
+Unassembled Advanced Circuit
+Unassembled Elite Circuit
+Small Circuit Panel
+Large Circuit Panel
+Small Photoactive Circuit Panel
+Large Photoactive Circuit Panel
+Basic Chipset
+Advanced Chipset
+Basic Chipset Base
+Advanced Chipset Base
+Advanced Alloy Base
+Copper Mesh
+Electron Tube
+Nixie Tube
+Bronze Grinder
+Steel Grinder
+Diamond Grinder
+Redstone Crystal
+Tin Lightweight Casing
+Steel Lightweight Casing
+Titanium Lightweight Casing
+Chrome Plate
+Chrome Ingot
+Chrome Dust
+Tiny Pile of Chrome Dust
+Chrome Wire
+Chrome Nugget
+Chrome Crystal
+Chrome Wire Coil
+Crushed Chrome Ore
+Crushed Nether Chrome Ore
+Crushed End Chrome Ore
+Chrome Research Component
+Chrome Shard
+Dirty Chrome Dust
+Chrome Clump
+Titanium Plate
+Titanium Ingot
+Titanium Dust
+Tiny Pile of Titanium Dust
+Titanium Wire
+Titanium Nugget
+Titanium Crystal
+Titanium Wire Coil
+Crushed Titanium Ore
+Crushed Nether Titanium Ore
+Crushed End Titanium Ore
+Titanium Research Component
+Titanium Shard
+Dirty Titanium Dust
+Titanium Clump
+Copper Plate
+Copper Ingot
+Copper Dust
+Tiny Pile of Copper Dust
+Copper Wire
+Copper Nugget
+Copper Crystal
+Copper Wire Coil
+Crushed Copper Ore
+Crushed Nether Copper Ore
+Crushed End Copper Ore
+Copper Research Component
+Copper Shard
+Dirty Copper Dust
+Copper Clump
+Tin Plate
+Tin Ingot
+Tin Dust
+Tiny Pile of Tin Dust
+Tin Wire
+Tin Nugget
+Tin Crystal
+Tin Wire Coil
+Crushed Tin Ore
+Crushed Nether Tin Ore
+Crushed End Tin Ore
+Tin Research Component
+Tin Shard
+Dirty Tin Dust
+Tin Clump
+Nickel Plate
+Nickel Ingot
+Nickel Dust
+Tiny Pile of Nickel Dust
+Nickel Wire
+Nickel Nugget
+Nickel Crystal
+Nickel Wire Coil
+Crushed Nickel Ore
+Crushed Nether Nickel Ore
+Crushed End Nickel Ore
+Nickel Research Component
+Nickel Shard
+Dirty Nickel Dust
+Nickel Clump
+Platinum Plate
+Platinum Ingot
+Platinum Dust
+Tiny Pile of Platinum Dust
+Platinum Wire
+Platinum Nugget
+Platinum Crystal
+Platinum Wire Coil
+Crushed Platinum Ore
+Crushed Nether Platinum Ore
+Crushed End Platinum Ore
+Platinum Research Component
+Platinum Shard
+Dirty Platinum Dust
+Platinum Clump
+Advanced Alloy MK1 Plate
+Advanced Alloy MK1 Ingot
+Advanced Alloy MK1 Dust
+Tiny Pile of Advanced Alloy MK1 Dust
+Advanced Alloy MK1 Wire
+Advanced Alloy MK1 Nugget
+Advanced Alloy MK1 Crystal
+Advanced Alloy MK1 Wire Coil
+Crushed Advanced Alloy MK1 Ore
+Crushed Nether Advanced Alloy MK1 Ore
+Crushed End Advanced Alloy MK1 Ore
+Advanced Alloy MK1 Research Component
+Advanced Alloy MK1 Shard
+Dirty Advanced Alloy MK1 Dust
+Advanced Alloy MK1 Clump
+Advanced Alloy MK2 Plate
+Advanced Alloy MK2 Ingot
+Advanced Alloy MK2 Dust
+Tiny Pile of Advanced Alloy MK2 Dust
+Advanced Alloy MK2 Wire
+Advanced Alloy MK2 Nugget
+Advanced Alloy MK2 Crystal
+Advanced Alloy MK2 Wire Coil
+Crushed Advanced Alloy MK2 Ore
+Crushed Nether Advanced Alloy MK2 Ore
+Crushed End Advanced Alloy MK2 Ore
+Advanced Alloy MK2 Research Component
+Advanced Alloy MK2 Shard
+Dirty Advanced Alloy MK2 Dust
+Advanced Alloy MK2 Clump
+Uranium Plate
+Uranium Ingot
+Uranium Dust
+Tiny Pile of Uranium Dust
+Uranium Wire
+Uranium Nugget
+Uranium Crystal
+Uranium Wire Coil
+Crushed Uranium Ore
+Crushed Nether Uranium Ore
+Crushed End Uranium Ore
+Uranium Research Component
+Uranium Shard
+Dirty Uranium Dust
+Uranium Clump
+Blue Metal Plate
+Blue Metal Ingot
+Blue Metal Dust
+Tiny Pile of Blue Metal Dust
+Blue Metal Wire
+Blue Metal Nugget
+Blue Metal Crystal
+Blue Metal Wire Coil
+Crushed Blue Metal Ore
+Crushed Nether Blue Metal Ore
+Crushed End Blue Metal Ore
+Blue Metal Research Component
+Blue Metal Shard
+Dirty Blue Metal Dust
+Blue Metal Clump
+Greenium Plate
+Greenium Ingot
+Greenium Dust
+Tiny Pile of Greenium Dust
+Greenium Wire
+Greenium Nugget
+Greenium Crystal
+Greenium Wire Coil
+Crushed Greenium Ore
+Crushed Nether Greenium Ore
+Crushed End Greenium Ore
+Greenium Research Component
+Greenium Shard
+Dirty Greenium Dust
+Greenium Clump
+Iron Plate
+Iron Ingot
+Iron Dust
+Tiny Pile of Iron Dust
+Iron Wire
+Iron Nugget
+Iron Crystal
+Iron Wire Coil
+Crushed Iron Ore
+Crushed Nether Iron Ore
+Crushed End Iron Ore
+Iron Research Component
+Iron Shard
+Dirty Iron Dust
+Iron Clump
+Gold Plate
+Gold Ingot
+Gold Dust
+Tiny Pile of Gold Dust
+Gold Wire
+Gold Nugget
+Gold Crystal
+Gold Wire Coil
+Crushed Gold Ore
+Crushed Nether Gold Ore
+Crushed End Gold Ore
+Gold Research Component
+Gold Shard
+Dirty Gold Dust
+Gold Clump
+Red Diamond Plate
+Red Diamond Ingot
+Red Diamond Dust
+Tiny Pile of Red Diamond Dust
+Red Diamond Wire
+Red Diamond Nugget
+Red Diamond
+Red Diamond Wire Coil
+Crushed Red Diamond Ore
+Crushed Nether Red Diamond Ore
+Crushed End Red Diamond Ore
+Red Diamond Research Component
+Red Diamond Shard
+Dirty Red Diamond Dust
+Red Diamond Clump
+Quartz Plate
+Quartz Ingot
+Quartz Dust
+Tiny Pile of Quartz Dust
+Quartz Wire
+Quartz Nugget
+Quartz
+Quartz Wire Coil
+Crushed Quartz Ore
+Crushed Nether Quartz Ore
+Crushed End Quartz Ore
+Quartz Research Component
+Quartz Shard
+Dirty Quartz Dust
+Quartz Clump
+Silver Plate
+Silver Ingot
+Silver Dust
+Tiny Pile of Silver Dust
+Silver Wire
+Silver Nugget
+Silver Crystal
+Silver Wire Coil
+Crushed Silver Ore
+Crushed Nether Silver Ore
+Crushed End Silver Ore
+Silver Research Component
+Silver Shard
+Dirty Silver Dust
+Silver Clump
+Lapis Lazuli Plate
+Lapis Lazuli Ingot
+Lapis Lazuli Dust
+Tiny Pile of Lapis Lazuli Dust
+Lapis Lazuli Wire
+Lapis Lazuli Nugget
+Lapis Lazuli
+Lapis Lazuli Wire Coil
+Crushed Lapis Lazuli Ore
+Crushed Nether Lapis Lazuli Ore
+Crushed End Lapis Lazuli Ore
+Lapis Lazuli Research Component
+Lapis Lazuli Shard
+Dirty Lapis Lazuli Dust
+Lapis Lazuli Clump
+Lead Plate
+Lead Ingot
+Lead Dust
+Tiny Pile of Lead Dust
+Lead Wire
+Lead Nugget
+Lead Crystal
+Lead Wire Coil
+Crushed Lead Ore
+Crushed Nether Lead Ore
+Crushed End Lead Ore
+Lead Research Component
+Lead Shard
+Dirty Lead Dust
+Lead Clump
+Obsidian Plate
+Obsidian Ingot
+Obsidian Dust
+Tiny Pile of Obsidian Dust
+Obsidian Wire
+Obsidian Nugget
+Obsidian
+Obsidian Wire Coil
+Crushed Obsidian Ore
+Crushed Nether Obsidian Ore
+Crushed End Obsidian Ore
+Obsidian Research Component
+Obsidian Shard
+Dirty Obsidian Dust
+Obsidian Clump
+Nether Quartz Plate
+Nether Quartz Ingot
+Nether Quartz Dust
+Tiny Pile of Nether Quartz Dust
+Nether Quartz Wire
+Nether Quartz Nugget
+Nether Quartz
+Nether Quartz Wire Coil
+Crushed Nether Quartz Ore
+Crushed Nether Nether Quartz Ore
+Crushed End Nether Quartz Ore
+Nether Quartz Research Component
+Nether Quartz Shard
+Dirty Nether Quartz Dust
+Nether Quartz Clump
+Lithium Plate
+Lithium Ingot
+Lithium Dust
+Tiny Pile of Lithium Dust
+Lithium Wire
+Lithium Nugget
+Lithium Crystal
+Lithium Wire Coil
+Crushed Lithium Ore
+Crushed Nether Lithium Ore
+Crushed End Lithium Ore
+Lithium Research Component
+Lithium Shard
+Dirty Lithium Dust
+Lithium Clump
+Red Alloy Plate
+Red Alloy Ingot
+Redstone Dust
+Tiny Pile of Redstone Dust
+Red Alloy Wire
+Redstone Nugget
+Redstone Crystal
+Red Alloy Wire Coil
+Crushed Redstone Ore
+Crushed Nether Redstone Ore
+Crushed End Redstone Ore
+Red Alloy Research Component
+Redstone Shard
+Dirty Redstone Dust
+Redstone Clump
+Diamond Plate
+Diamond Ingot
+Diamond Dust
+Tiny Pile of Diamond Dust
+Diamond Wire
+Diamond Nugget
+Diamond
+Diamond Wire Coil
+Crushed Diamond Ore
+Crushed Nether Diamond Ore
+Crushed End Diamond Ore
+Diamond Research Component
+Diamond Shard
+Dirty Diamond Dust
+Diamond Clump
+Glowstone Plate
+Glowstone Ingot
+Glowstone Dust
+Tiny Pile of Glowstone Dust
+Glowstone Wire
+Glowstone Nugget
+Glowstone Crystal
+Glowstone Wire Coil
+Crushed Glowstone Ore
+Crushed Nether Glowstone Ore
+Crushed End Glowstone Ore
+Glowstone Research Component
+Glowstone Shard
+Dirty Glowstone Dust
+Glowstone Clump
+Zinc Plate
+Zinc Ingot
+Zinc Dust
+Tiny Pile of Zinc Dust
+Zinc Wire
+Zinc Nugget
+Zinc Crystal
+Zinc Wire Coil
+Crushed Zinc Ore
+Crushed Nether Zinc Ore
+Crushed End Zinc Ore
+Zinc Research Component
+Zinc Shard
+Dirty Zinc Dust
+Zinc Clump
+Mercury Plate
+Mercury Ingot
+Mercury Dust
+Tiny Pile of Mercury Dust
+Mercury Wire
+Mercury Nugget
+Mercury
+Mercury Wire Coil
+Crushed Mercury Ore
+Crushed Nether Mercury Ore
+Crushed End Mercury Ore
+Mercury Research Component
+Mercury Shard
+Dirty Mercury Dust
+Mercury Clump
+Enderium Plate
+Enderium Ingot
+Enderium Dust
+Tiny Pile of Enderium Dust
+Enderium Wire
+Enderium Nugget
+Enderium Crystal
+Enderium Wire Coil
+Crushed Enderium Ore
+Crushed Nether Enderium Ore
+Crushed Enderium Ore
+Enderium Research Component
+Enderium Shard
+Dirty Enderium Dust
+Enderium Clump
+Steel Plate
+Steel Ingot
+Steel Dust
+Tiny Pile of Steel Dust
+Steel Wire
+Steel Nugget
+Steel Crystal
+Steel Wire Coil
+Crushed Steel Ore
+Crushed Nether Steel Ore
+Crushed End Steel Ore
+Steel Research Component
+Steel Shard
+Dirty Steel Dust
+Steel Clump
+Electrum Plate
+Electrum Ingot
+Electrum Dust
+Tiny Pile of Electrum Dust
+Electrum Wire
+Electrum Nugget
+Electrum Crystal
+Electrum Wire Coil
+Crushed Electrum Ore
+Crushed Nether Electrum Ore
+Crushed End Electrum Ore
+Electrum Research Component
+Electrum Shard
+Dirty Electrum Dust
+Electrum Clump
+Coal Plate
+Coal Ingot
+Coal Dust
+Tiny Pile of Coal Dust
+Coal Wire
+Coal Nugget
+Coal Crystal
+Coal Wire Coil
+Crushed Coal Ore
+Crushed Nether Coal Ore
+Crushed End Coal Ore
+Coal Research Component
+Coal Shard
+Dirty Coal Dust
+Coal Clump
+Sky Quartz Plate
+Sky Quartz Ingot
+Sky Quartz Dust
+Tiny Pile of Sky Quartz Dust
+Sky Quartz Wire
+Sky Quartz Nugget
+Sky Quartz
+Sky Quartz Wire Coil
+Crushed Sky Quartz Ore
+Crushed Nether Sky Quartz Ore
+Crushed End Sky Quartz Ore
+Sky Quartz Research Component
+Sky Quartz Shard
+Dirty Sky Quartz Dust
+Sky Quartz Clump
+Fluix Plate
+Fluix Ingot
+Fluix Dust
+Tiny Pile of Fluix Dust
+Fluix Wire
+Fluix Nugget
+Fluix Crystal
+Fluix Wire Coil
+Crushed Fluix Ore
+Crushed Nether Fluix Ore
+Crushed End Fluix Ore
+Fluix Research Component
+Fluix Shard
+Dirty Fluix Dust
+Fluix Clump
+Bronze Plate
+Bronze Ingot
+Bronze Dust
+Tiny Pile of Bronze Dust
+Bronze Wire
+Bronze Nugget
+Bronze Crystal
+Bronze Wire Coil
+Crushed Bronze Ore
+Crushed Nether Bronze Ore
+Crushed End Bronze Ore
+Bronze Research Component
+Bronze Shard
+Dirty Bronze Dust
+Bronze Clump
+Aluminum Plate
+Aluminum Ingot
+Aluminum Dust
+Tiny Pile of Aluminum Dust
+Aluminum Wire
+Aluminum Nugget
+Aluminum Crystal
+Aluminum Wire Coil
+Crushed Bauxite Ore
+Crushed Nether Bauxite Ore
+Crushed End Aluminum Ore
+Aluminum Research Component
+Aluminum Shard
+Dirty Aluminum Dust
+Aluminum Clump
+Glass Cable - Fluix
+Glass Cable - White
+Glass Cable - Orange
+Glass Cable - Magenta
+Glass Cable - Light Blue
+Glass Cable - Yellow
+Glass Cable - Lime
+Glass Cable - Pink
+Glass Cable - Gray
+Glass Cable - Light Gray
+Glass Cable - Cyan
+Glass Cable - Purple
+Glass Cable - Blue
+Glass Cable - Brown
+Glass Cable - Green
+Glass Cable - Red
+Glass Cable - Black
+Covered Cable - Fluix
+Covered Cable - White
+Covered Cable - Orange
+Covered Cable - Magenta
+Covered Cable - Light Blue
+Covered Cable - Yellow
+Covered Cable - Lime
+Covered Cable - Pink
+Covered Cable - Gray
+Covered Cable - Light Gray
+Covered Cable - Cyan
+Covered Cable - Purple
+Covered Cable - Blue
+Covered Cable - Brown
+Covered Cable - Green
+Covered Cable - Red
+Covered Cable - Black
+Smart Cable - Fluix
+Smart Cable - White
+Smart Cable - Orange
+Smart Cable - Magenta
+Smart Cable - Light Blue
+Smart Cable - Yellow
+Smart Cable - Lime
+Smart Cable - Pink
+Smart Cable - Gray
+Smart Cable - Light Gray
+Smart Cable - Cyan
+Smart Cable - Purple
+Smart Cable - Blue
+Smart Cable - Brown
+Smart Cable - Green
+Smart Cable - Red
+Smart Cable - Black
+Large Bandwidth Cable - Fluix
+Large Bandwidth Cable - White
+Large Bandwidth Cable - Orange
+Large Bandwidth Cable - Magenta
+Large Bandwidth Cable - Light Blue
+Large Bandwidth Cable - Yellow
+Large Bandwidth Cable - Lime
+Large Bandwidth Cable - Pink
+Large Bandwidth Cable - Gray
+Large Bandwidth Cable - Light Gray
+Large Bandwidth Cable - Cyan
+Large Bandwidth Cable - Purple
+Large Bandwidth Cable - Blue
+Large Bandwidth Cable - Brown
+Large Bandwidth Cable - Green
+Large Bandwidth Cable - Red
+Large Bandwidth Cable - Black
+Fusion Core
+Fusion Energy Injector
+Ender Memory
+Tritium
+Hot Coolant
+Fusion Compound
+Plasma
+Deuterium
+Enriched Plasma
+Coolant
+Fusion Charger
+Fusion Controller
+Multiblock Casing
+Basic Machine Frame
+Steel Machine Frame
+Chrome Machine Frame
+Titanium Machine Frame
+Fusion Fluid Injector
+Fusion Fluid Extractor
+Multiblock Energy Port
+Multiblock Hatch
+Multiblock Fluid Hatch
+Multiblock Heat Port
+Multiblock Pressure Port
+Hydrogen
+Centrifuge
+Electrolyzer
+Multiblock Fuel Rod
+Energy Cell Frame
+Energy Cell Side
+Energy Cell Core
+Advanced Multiblock Casing
+Proxy
+Energy Sensor
+Fusion Pre Heater
+Coolant Tower
+Multiblock Compressor
+Basic Monitor
+GPU
+Tablet Access Point
+Tablet Controller
+Antenna
+Wireless Peripheral
+Antenna Controller
+Tablet Crafter
+Wireless Charger
+Item Proxy
+Controller Box
+Ender Player Sensor
+Computer Controlled Advanced Command Block
+Camera
+Jammer
+Holotape Writer
+Holotape Reader
+Magnetic Card Device
+Magnetic Card Reader
+Door
+Redstone Port
+Computer Regulator
+Generator
+MK1 Laser Energy Transmitter
+MK1 Energy Storage
+Platinum Ore
+Blue Metal Ore
+Copper Ore
+Tin Ore
+Nickel Ore
+Titanium Ore
+Red Diamond Ore
+Quartz Ore
+Silver Ore
+Lead Ore
+MK2 Laser Energy Transmitter
+MK3 Laser Energy Transmitter
+MK2 Energy Storage
+MK3 Energy Storage
+Uranium Ore
+Lithium Ore
+Zinc Ore
+Research Table
+HV Transformer
+MV Transformer
+Configurable Chest
+Force Converter
+Lava Generator
+Force Capacitor
+Security Station
+Force Field Projector
+Force Field
+Defense Station
+Basic Terminal
+Drive
+Energy Acceptor
+Interface
+Crafting Controller
+Creative Energy Cell
+Pattern Terminal
+Molecular Assembler
+Chrome Ore
+Sulfur Ore
+Mercury Ore
+Bauxite Ore
+Rubber Wood
+Crusher
+Sky Quartz Ore
+Cyanite Ore
+Rubber Leaves
+Aluminum Block
+Advanced Alloy MK1 Block
+Advanced Alloy MK2 Block
+Blue Metal Block
+Bronze Block
+Sky Quartz Block
+Chrome Block
+Copper Block
+Electrum Block
+Enderium Block
+Fluix Block
+Greenium Block
+Lead Block
+Brass Block
+Nickel Block
+Quartz Block
+Red Diamond Block
+Silver Block
+Steel Block
+Tin Block
+Titanium Block
+Uranium Block
+Zinc Block
+Plate Bending Machine
+Platinum Block
+Wiremill
+Coiler Plant
+Sky Stone
+Oil
+Basic Tank
+Rubber Sapling
+Basic Boiler
+Advanced Boiler
+Advanced Tank
+Water Collector
+Elite Tank
+Ultimate Tank
+Steam Crusher
+Steam Furnace
+Steam Alloy Smelter
+Advanced Steam Furnace
+Advanced Steam Crusher
+Steam Plate Bending Machine
+Electric Furnace
+Induction Furnace
+Alloy Smelter
+Tree Tap
+Bronze Machine Frame
+Crafting Terminal
+Basic Solar Panel
+Coal Coke Block
+Steam Soldering Station
+Coke Oven Bricks
+Blast Furnace Bricks
+Coke Oven
+Blast Furnace
+Laser Transformer
+Laser to HV Transformer
+Basic Turbine
+Battery Box
+Tungsten Block
+Tungstensteel Block
+Tungstate Ore
+Soldering Station
+Pump
+Fluid Transposer
+Industrial Blast Furnace
+Monazit Ore
+End Monazit Ore
+Refinery Controller
+Steel Slab
+Refinery Heater
+Output Hatch
+Engineering Block
+Aluminum Machine Frame
+Hardened Glass
+Hardened Ender Glass
+Steel Fence
+Advanced Turbine
+Charger
+Geothermal Generator
+Liquid Fueled Generator
+Geothermal Boiler
+Liquid Fueled Boiler
+Advanced Liquid Fueled Boiler
+UV Lightbox
+Plastic Processing Factory Controller
+Hardened Glass Pane
+Sulfuric Acid
+Steam Mixer
+Mixer
+Laser Engraver
+Storage System Controller
+Burnt Sky Stone
+Flint Block
+Sulfur Block
+Red Alloy Block
+HV Capacitor
+Steel Boiler
+Rubber Boiler
+Steam Rubber Processor
+Electrical Rubber Processor
+Nether Blue Metal Ore
+Nether Copper Ore
+Nether Tin Ore
+Nether Nickel Ore
+End Nickel Ore
+Nether Titanium Ore
+End Titanium Ore
+Nether Red Diamond Ore
+Nether Platinum Ore
+End Platinum Ore
+Nether Silver Ore
+End Silver Ore
+Nether Uranium Ore
+Nether Zinc Ore
+Nether Chrome Ore
+Nether Sulfur Ore
+Nether Bauxite Ore
+End Tungstate Ore
+Enderium Ore
+Network Router
+Advanced Network Router
+Machine Base
+Steel Scaffolding
+Iron Sheets
+Steel Sheets
+MV Laser Receiver
+HV Laser Receiver
+Large Battery Box
+MV Battery Box
+HV Battery Box
+Nether Iron Ore
+Nether Gold Ore
+Nether Lapis Ore
+Nether Redstone Ore
+Nether Diamond Ore
+End Gold Ore
+End Diamond Ore
+Improved Blast Furnace
+Conveyor Belt (Slow)
+Conveyor Belt
+Conveyor Belt Slope (Up)
+Conveyor Belt Slope (Down)
+Conveyor Belt (Omnidirectional) (Slow)
+Conveyor Belt (Omnidirectional)
+Oil Shale
+Oil Sand
+Template
+Oil Sand
+Aluminum Sheets
+Open Crate
+Creative Generator
+Furnace Generator
+Extracting Conveyor Belt
+Advanced Water Collector
+MV Cable
+HV Cable
+LV Cable
+Item Duct (WIP)
+Filter (WIP)
+Servo (WIP)
+Import Bus
+Export Bus
+Storage Bus
+Interface
+FluidDuct
+Fluid Servo
+Basic Terminal
+Crafting Terminal
+Pattern Terminal
+FluidDuct (Opaque)
+SteamDuct
+Owner:
+Mode:
+Input
+Output
+Empty
+Fluid:
+Energy Stored:
+Capacity: %,d mB
+Stored: %,d / %,d mB
+!!! WARNING: TICK SPEEDING DETECTED !!!
+Tick speeding is disabled. Skipping all non normal ticks.
+Use the Multimeter
+Advanced Crafing
+Crushing
+Wiremill
+Required Level: %d
+Plate Bending Machine
+Alloy Smelter
+Recipe Level: %s
+Heat Required: %,d K
+Blast Furnace
+Process Time: %d tick(s)
+Basic Blast Furnace Required
+Coiler Plant
+Electrical Required
+Mixing
+UV Light Box
+Laser Engraving
+In World Crafting
+Output chance: %s
+Tank filled with 1000 mb of fluid
+Coke Oven
+Required Researches:
+Hold [SHIFT] to show required researches.
+Research Tree
+Scientist Villager Trades
+Multiblock Hatch
+Multiblock Fluid Port
+Tablet Crafter
+Item Proxy
+Generator
+Research Table
+Item Amount: %d
+Requirements
+Running...
+Missing
+Required Researches
+Copy
+Configure Lens
+Write Card
+New
+Edit
+Delete
+Power Drain
+Action Range
+Inform Range
+Next
+Select Amount
+Start
+%,d / %,d mB
+Pattern Options
+Please Wait
+Time (in ticks):
+Use Ore Dictionary
+Ignore Ore Dictionary
+Use Metadata
+Ignore Metadata
+Use NBT
+Ignore NBT
+> %s
+  %s
+Amount: %s
+Thermal Capacity: %,d K
+Refinery
+Plastic Factory
+Right click to change stack size
+Shift to decrease stack size
+Ctrl to change stack size by %d
+High Redstone
+Low Redstone
+Switch
+Ignore
+Share Power with Touching Machines
+Don't Share Power
+ <-
+Balance power in all connected capacitors
+Transfers all the power into this capacitor
+Player
+Generic
+Priority:
+Missing Steel Boiler on Top
+Invalid Table Level
+Missing Required Scans
+Basic
+Bronze
+Electrical
+MV
+Advanced
+Laboratory
+Research
+Acids
+Power
+Power II
+Hammer
+Mortar and Pestle
+Bronze Age
+Basic Boiler
+Basic Bronze Machines
+Bronze Alloy Smelter
+Bronze Plate Bending Machine
+Refined Bricks
+Coke Oven
+Blast Furnace
+Advanced Boiler
+Advanced Steam Furnace
+Advanced Steam Crusher
+Rubber Processing
+Basic Turbine
+Soldering
+Multimeter
+LV Cable
+Battery Box
+Basic LV Machines
+LV Wire Processing
+Speed Upgrade
+LV Plate Bender
+LV Alloy Smelter
+LV Pump
+Electrical Soldering Station
+Industrial Blast Furnace
+Fluid Transposer
+Water Collector
+Advanced Tank
+LV Solar Panel
+MV Transformer
+MV Cable
+MV Circuit
+MV Machines
+Refinery
+Multiblock Components
+Electrolyzer
+Centrifuge
+Advanced Multiblock Parts
+Plastic Processing
+Advanced Circuit
+HV Cable
+HV Transformer
+HV Machines
+Elite Tank
+Ultimate Tank
+Configurable Chest & Open Crate
+Advanced Extruder Module
+Advanced Steam Turbine
+Charger
+Configurator
+Geothermal Boiler
+Geothermal Generator
+UV Lightbox
+Liquid Fueled Boiler
+Liquid Fueled Advanced Boiler
+Liquid Fueled Generator
+Laser Engraver
+Basic Chipset
+Advanced Chipset
+Elite Extruder Module
+Machine Upgrades
+Power Converter Upgrades
+Electrical Rubber Processor
+Steam Mixer
+Mixer
+Improved Blast Furnace
+FluidDuct
+Conveyor Belts
+EnderLink Power
+Advanced Water Collector
+Energy
+Capacity
+Range
+Linked Devices
+Master
+Block Modification
+Configuration
+Field Transport
+Stay In Area
+Have Inventory
+Use Switch
+Rights Modification
+Access Denied.
+%sAccess Denied.
+N/A
+[%s] 
+Access Granted.
+%sAccess Granted.
+%sSuccess: Transmission Complete
+%sFail: Detected Obstacle.
+%sNot Enough Power, please charge.
+Inform
+Kill
+Search Inventory
+Kill All
+Kill Hostile
+Kill Friendly
+!!!! [Area Defense] You have illegal goods. %s will be confiscated !!!!
+!!!! [Security Station][%s] Warning: You are now in Scanning range !!!!
+!!!! [Area Defense] Get out immediately, you have no right to be here !!!!
+!!!! [Area Defense] You have been warned. !!!!
+!!!! [Area Defense] Leave or Die !!!!
+Sort By Item Amount
+Sort By Item Name
+Sort By Mod
+Auto Search
+Standard Search
+Auto Search Keep
+Standard Search Keep
+JEI Synced Auto Search
+JEI Synced Standard Search
+JEI Synced Auto Search Keep
+JEI Synced Standard Search Keep
+Show Stored and Craftable
+Show Stored Only
+Show Crafting Only
+White List
+Black List
+Not Enough Crafting CPUs or Memory installed
+Missing Items
+Crafting Status
+To Craft: %s
+Available: %s
+Missing: %s
+Stored: %d
+Crafting: %s
+Crafting CPU: %s
+Automatic
+No Crafting CPUs are Available
+#%d
+Craft
+Crafting Plan - %s Bytes Used : %s Operations : Time ~ %s:%s
+Storage: %s : Processors: %s
+Stored Only
+Stored and Craftable
+Item is in the invalid hand, use it in the Main hand.
+[%s] %s
+Active
+Inactive
+Output Slots Stuffed
+Missing Required Researches
+Wrong Station
+Crafting Failed
+Too Complex Crafting
+%s * %d
+Basic
+Bronze Upgrade
+Electrical Upgrade
+Electrical II Upgrade
+Electrical III Upgrade
+Soldering
+Electrical Soldering
+[%s] Crafting Failed! Error: %s.
+Automatic Backup Started. Server may lag a bit.
+Automatic Backup Success. Next backup: %d minutes later.
+Automatic Backup Failed. Retry: %d minutes later.
+%s started a backup.
+[Tom's Mod Backup] Backup Already Running
+Completed
+Not Enough Durability remaining in %s item
+Invalid
+Click To Craft
+AE Like Controls
+Refined Storage Like Controls
+Tall Terminal
+Centered Terminal
+Wide Terminal
+Match Meta
+Ignore Meta
+Match NBT
+Ignore NBT
+Match Mod
+Ignore Mod
+Show Everything
+Only Show Filtered
+I/O Mode
+Insert Only
+Extract Only
+View Only
+Disabled
+OreDictionary
+Normal
+Unformatted
+Partitioned
+%s signal found.
+%s signal lost.
+Tablet Linked
+Tablet Unlinked
+Tier
+Invalid Tier
+Durability
+Charge
+Used %d of %d bytes.
+Device: %s
+Efficiency: %s
+Recipe:
+ Uses: %s
+ Outputs:
+ Inputs:
+   %s
+Invalid Recipe
+Rotation: %s
+Put the item into a crafting grid to change the rotation.
+Username
+Rights:
+ *  %s
+Position (X,Y,Z): %d, %d, %d
+Speed
+Energy Stored: %s
+Fluid Stored: %s %d/%d
+Has Stored Items
+Accepts: %s.
+Requires 1 Redstone And 1 Silicon Plate
+Requires 1 Gold Dust And 3 Silicon Plate
+Requires 1 Fluix Dust And 5 Silicon Plate
+Requires 1 Platinum Dust And 8 Silicon Plate
+Invalid Powerlink Card or Device is out of range.
+This tool is only usable for crafting/nnerfed by Tom's Mod
+Hold SHIFT to show information
+Processor tier: %d
+Processor Cores: %d
+Maximum Memory: %d Bytes
+Maximum Channels: %d
+Maximum Server Towers: %d
+Average Energy Usage: %d Units/tick
+Processor Clock Speed: %d %s
+MHz
+GHz
+Can Be Placed Into a Server Tower: %s
+Memory Tier: %d
+Memory: %d Bytes
+Supported Processor Tiers: %s
+Supported Memory Tiers: %s
+Supported Chipset Tiers: %s
+Memory Slots: %d
+Bus Speed: %d Bits/tick
+Max Supported Channels: %d
+Max Supported Server Towers: %d
+Power Usage: %d Units/tick
+Max Power Transfer: %d/tick
+Can Be Inserted into Server Towers: %s
+Can Communicate with Server Towers: %s
+Max Auto Crafting Tasks: %d
+Requires 2 Gold Nuggets And 1 Silicon Plate
+Recipe: Break Obsidian with bronze level hammer, or Obsidian block in the crusher.
+Formatting Mode: %s
+%d x %s
+, or 
+Currently Showing: %s
+%d of %d
+All
+Blueprint: %s
+Generates %d ELP/t when active
+Uses %d ELP/t when active
+Uses 1 ELP/200 mb of water collected
+Basic Fluix Reactor
+Advanced Fluix Reactor
+Basic Circuit
+Normal Circuit
+Advanced Circuit
+Elite Circuit
+Basic Chipset
+Normal Chipset
+Advanced Chipset
+Elite Chipset
+Elite Circuit Template
+Energy Stored %s: %d/%d
+Burn Time Left: %d
+Currently Burning: %s
+Contains: %s
+Device Stats:
+Ready: %s
+Yes
+No
+|  %s
+Name: %s
+Working Cycle: %s
+Active: %s
+Injectors Ready: %s
+Formed: %s
+Fluid Stored: %s mb/%s mb
+Tank %s
+Fluid Name: %s
+Empty
+Position Saved
+Destination Obstructed
+There is nothing to configure!
+[%s] Fail: Object not in Switch-enabled mode.
+Comparator Value: %d
+[Field Security] 
+[Storage System] Auto-Crafting started. Crafting: %s, Crafting Time ~ %d min(s) %d sec.
+[Storage System] Auto-Crafting calculation failed! Error: %s.
+[CPU %s] Currently Crafting: %s.
+[CPU %s] No Crafting Job.
+Waiting For:
+%s,
+%s ...
+Stored:
+Crafting for %d min(s) %d sec, %d min(s) %d sec remaining.
+Crafting for %d min(s) %d sec, %d min(s) %d sec remaining. Delay: %d min(s) %d sec.
+[CPU %s] Cancelled Crafting %s. Crafted for %d min(s) %d sec, %d min(s) %d sec remained.
+[CPU %s] Do you wand to cancel the crafting? Crafting: %s. Crafting for %d min(s) %d sec, %d min(s) %d sec remaining.
+Sneak Click to Cancel Crafting.
+Redstone Mode: Active with Redstone
+Redstone Mode: Active without Redstone
+Scanning Successful
+Can't use tree tap on this side.
+Can't use tree tap on a closed hole. Use an axe to open it.
+Mode: Step Up
+Mode: Step Down
+Link Successful
+Working at: %d, %d, %d.
+Upgrade Failed.
+Clearing: %s.
+Hold Sneak to drop item
+Tom's Mod Buckets
+Tom's Mod Energy
+Tom's Mod Materials
+Tom's Mod Items
+Tom's Mod Blocks
+Tom's Mod Transport
+Tom's Mod Storage
+Tom's Mod Tools & Combat
+Tom's Mod Defense
+Tom's Mod Factory
+Plasma
+Enriched Plasma
+Deuterium
+Tritium
+Coolant
+Fusion Compound
+Hot Coolant
+Hydrogen
+Steam
+Titanium Ore Slurry
+Clean Uranium Ore Slurry
+Lithium Ore Slurry
+Clean Tin Ore Slurry
+Gold Ore Slurry
+Zinc Ore Slurry
+Clean Nickel Ore Slurry
+Clean Copper Ore Slurry
+Chrome Ore Slurry
+Clean Gold Ore Slurry
+Clean Silver Ore Slurry
+Tin Ore Slurry
+Clean Zinc Ore Slurry
+Clean Lithium Ore Slurry
+Platinum Ore Slurry
+Iron Ore Slurry
+Clean Platinum Ore Slurry
+Clean Iron Ore Slurry
+Nickel Ore Slurry
+Copper Ore Slurry
+Uranium Ore Slurry
+Silver Ore Slurry
+Lead Ore Slurry
+Clean Chrome Ore Slurry
+Clean Lead Ore Slurry
+Clean Blue Metal Ore Slurry
+Titanium Ore Slurry
+Blue Metal Ore Slurry
+Clean Bauxite Ore Slurry
+Bauxite Ore Slurry
+Clean Enderium Ore Slurry
+Enderium Ore Slurry
+Clean Mercury Ore Slurry
+Mercury Ore Slurry
+Clean Tungstate Ore Slurry
+Tungstate Ore Slurry
+Oil
+Sulfuric Acid
+Hydrogen Chloride
+Water
+Lava
+Creosote Oil
+Oxygen
+Fuel
+LPG
+Kerosene
+Photoactive Liquid
+Heat Conducting Paste
+Resin
+Iron Chloride
+Concentrated Resin
+Tom's Mod
+Tablet Up
+Tablet Down
+Tablet Left
+Tablet Right
+Tablet Enter
+Tablet Back
+Tablet Interact
+Tablet Menu
+Configure
+Tablet Function 1
+Tablet Function 2
+Tablet Function 3
+Tablet Function 4
+%s was fried by a forcefield!
+%s disregarded the warnings and was fried!
+%1$s tried to swim in acid
+/tm_waypoint <function>
+/tm_server_waypoint <function>
+/tm_server_waypoint add <waypoint name> <group> <x> <y> <z> <dimension> [icon location] [color] [reloadable] [beam type] [label type] [beam texture]
+/tm_waypoint add <waypoint name> <group> <x> <y> <z> <dimension> <player name> [icon location] [color] [reloadable] [beam type] [label type] [beam texture]
+/tm_server_waypoint remove <waypoint name> <group>
+/tm_waypoint remove <waypoint name> <group> <player name>
+/tm_research <give|take> <name|*> [player] | /tm_research <clearScans>
+Unknown research '%s'
+Player %s already has research %s
+Player %s doesn't have research %s
+Successfully given all researches to %s
+Successfully given %s the research %s
+Successfully taken all researches from %s
+Successfully taken the research %s from %s
+/tm_reload
+Successfully reloaded Tom's Mod configs and recipes.
+Time to Research
+Craft a Research Table.
+This is not basic tap
+Craft a Tree Tap.
+Getting insulated
+Put a glass bottle on a tree tap wait until its full.
+Scientist
+Fluix
+White
+Orange
+Magenta
+Light Blue
+Yellow
+Lime
+Pink
+Gray
+Light Gray
+Cyan
+Purple
+Blue
+Brown
+Green
+Red
+Black
+Center
+North
+South
+East
+West
+Up
+Down
+Energy Type:

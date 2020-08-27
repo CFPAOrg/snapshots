@@ -1,0 +1,31 @@
+A new %s version is available
+You are using a Beta version of %s
+You are using an Alpha version of %s
+Sugi Wood
+Sugi Leaves
+Sugi Fallen Leaves
+Sugi Sapling
+Sugi Wood Planks
+Sugi Wood Slab
+Sugi Wood Stairs
+Sugi Fence
+Sugi Fence Gate
+Sugi Chest of Drawers
+Contained Sugi Chest of Drawers
+Sugi Forest Portal
+Mystical Sap
+Sugi Wooden Sword
+Sugi Wooden Pickaxe
+Sugi Wooden Axe
+Sugi Wooden Shovel
+Sugi Wooden Hoe
+Sugi
+SugiForest Configuration
+Version Notify
+Whether or not to notify when a new SugiForest version is available.
+Fallen Sugi Leaves
+When grew the Sugi Tree, generate the Sugi Fallen Leaves on under.
+Sugi Trees on Hills
+Specify the generation rate of sugi trees on hills. If specify 0, sugi trees will be not generated in there.
+Sugi Forest Generation Weight
+Specify the generation weight for Sugi Forest.

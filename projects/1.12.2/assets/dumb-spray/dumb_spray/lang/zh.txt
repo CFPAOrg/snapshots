@@ -1,0 +1,15 @@
+Instant Dumbness
+Instant Super Dumbness
+Potion of Dumbness
+Potion of Super Dumbness
+Lingering Potion of Dumbness
+Lingering Potion of Super Dumbness
+Splash Potion of Dumbness
+Splash Potion of Super Dumbness
+Arrow of Dumbness
+Arrow of Super Dumbness
+Enable Default Brewing Recipes
+Add default brewing recipes for two dumbness potions from this mod. Set it to false if you want to remove those defualt recipes.
+Enable Dumb Command
+Add a command that can make all target entities dumb (equivalent to using normal Potion of Dumbness on target). Set it to false if you dislike it.
+/dumb <target>

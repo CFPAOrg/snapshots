@@ -1,0 +1,16 @@
+Signpost Customisation
+Custom Signposts
+(%s blocks)
+Angle
+Coords
+Angle:
+Oak Signpost
+Spruce Signpost
+Birch Signpost
+Jungle Signpost
+Acacia Signpost
+Dark Oak Signpost
+Cobblestone Signpost
+Nether Brick Signpost
+Sandstone Signpost
+Red Sandstone Signpost

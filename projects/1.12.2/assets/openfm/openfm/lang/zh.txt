@@ -1,0 +1,32 @@
+Radio
+Speaker
+Radio Tuner
+Memory Card
+OpenFM
+Play
+Stop
+Volume Up
+Volume Down
+Previous Bookmark
+Next Bookmark
+Save Bookmark
+Delete Bookmark
+Paste
+Clear
+Close
+Lock
+Unlock
+Redstone On
+Redstone Off
+Screen Color
+Screen Text
+Save to Memory Card
+Load from Memory Card
+[OpenFM] Selected Speaker
+[OpenFM] Speaker Added
+[OpenFM] Could not add speaker. Max 10 allowed!
+[OpenFM] That speaker is already bound to this radio!
+[OpenFM] Could not add speaker. Unknown error!
+[OpenFM] Invalid StreamURL.
+[OpenFM] Stream is incorrect format.
+[OpenFM] No speaker selected!

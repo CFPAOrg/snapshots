@@ -1,0 +1,34 @@
+0,01€
+0,02€
+0,05€
+0,10€
+0,20€
+0,50€
+1,00€
+2,00€
+5,00€
+10,00€
+20,00€
+50,00€
+100,00€
+200,00€
+500,00€
+Wallet
+Credit Card
+ATM Machine
+Dipo's Money Mod
+Exchanger
+ATM Machine
+ATM Input
+ATM Output
+Someone is already using the ATM machine, you will have to wait...
+Your credit card is not signed! Do you want to sign it ? (Confirm with the green button)
+Welcome! Enter your new 4-digit PIN code which will be assigned to this credit card. (Confirm with the green button)
+Welcome @s! Enter your PIN to continue. (Confirm with the green button)
+Your PIN code wasn't correct. Pay attantion, you have only @s attempts. (Confirm with the green button)
+Your credit card has been eaten due to 3 incorrect attempts. You can craft a new one with gold ingot, 5€ and redstone.
+Your PIN code was successfully created. Enter your PIN to continue. (Confirm with the green button)
+Your balance: @s€
+⬆
+⬇
+€

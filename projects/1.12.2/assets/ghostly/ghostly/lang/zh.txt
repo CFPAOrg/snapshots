@@ -1,0 +1,324 @@
+Ghostly Config
+Logging
+Set to true to enable debug logging.\n§eNote: Uses INFO level, not DEBUG level.
+Mob Settings
+Control settings for certain mobs
+Possessed Swords
+Control whether Possessed Swords exist.\n§eWARNING: ALL POSSESSED WEAPONS ARE BUGGY AND\n§eNEARLY IMPOSSIBLE TO HIT!
+Shade Spawn Rate (Nether)
+Control the spawn rate of Shades in the Nether.
+Shade Spawn Rate (Overworld)
+Control the spawn rate of Shades in the Overworld.
+Shade Spawn Rate (End)
+Control the spawn rate of Shades in the End.
+Darkness Mage Spawn Rate
+Control the spawn rate of Darkness Mages.
+Spiritual Turret Spawn Rate
+Control the spawn rate of Spiritual Turrets.
+Sickened Spider Spawn Rate
+Control the spawn rate of Sickened Spiders.
+Mutated Wolf Cold Forest Spawn Rate
+Control the spawn rate of Mutated Wolves in cold forests (any biome that is considered to be cold and a forest by Forge).
+Mutated Wolf Forest Spawn Rate
+Control the spawn rate of Mutated Wolves in forests (any biome that is considered to be not cold and a forest by Forge).
+Mutated Horse Plains Spawn Rate
+Control the spawn rate of Mutated Horses in plains (any biome that is considered to be not a savanna and a plains by Forge).
+Mutated Horse Savanna Spawn Rate
+Control the spawn rate of Mutated Horses in savannas (any biome that is considered to be a savanna by Forge).
+Mutated Cow Spawn Rate
+Control the spawn rate of Mutated Cows.
+Mutated Ocelot Spawn Rate
+Control the spawn rate of Mutated Ocelots.
+Mutated Pig Spawn Rate
+Control the spawn rate of Mutated Pigs.
+Mutated Donkey Plains Spawn Rate
+Control the spawn rate of Mutated Donkeys in plains (any biome that is considered to be not a savanna and a plains by Forge).
+Mutated Donkey Savanna Spawn Rate
+Control the spawn rate of Mutated Donkeys in savannas (any biome that is considered to be a savanna by Forge).
+Mutated Sheep Spawn Rate
+Control the spawn rate of Mutated Sheep.
+Mutated Llama Mountains Spawn Rate
+Control the spawn rate of Mutated Llamas in mountains (any biome that is considered to be mountains, not cold, and not snowy by Forge).
+Mutated Llama High Savanna Spawn Rate
+Control the spawn rate of Mutated Llamas in high savannas (any biome that is considered to be a savanna by Forge and has a base height greater than 1.1).
+Shade Dissipation Light Level
+Control the light level at which Shades dissipate.\n§e1.0 will make Shades never dissipate.\n§e-0.1 will make Shades always dissipate.
+Darkness Mage Dissipation Light Level
+Control the light level at which Darkness Mages dissipate.\n§e1.0 will make Darkness Mages never dissipate.\n§e-0.1 will make Darkness Mages always dissipate.
+Shades
+Control whether Shades exist.
+Infested Endermen
+Control whether Infested Endermen exist.
+Darkness Mages
+Control whether Darkness Mages exist.
+Shadow Remnants
+Control whether Shadow Remnants exist.
+Spiritual Turrets
+Control whether Spiritual Turrets exist.\n§eWARNING: BUGGY AND DIFFICULLT TO FIGHT!
+Sickened Spiders
+Control whether Sickened Spiders exist.
+Mutated Wolves
+Control whether Mutated Wolves exist.
+Mutated Horses
+Control whether Mutated Horses exist.
+Mutated Cows
+Control whether Mutated Cows exist.
+Mutated Ocelots
+Control whether Mutated Ocelots exist.
+Mutated Pigs
+Control whether Mutated Pigs exist.
+Mutated Donkeys
+Control whether Mutated Donkeys exist.
+Mutated Sheep
+Control whether Mutated Sheep exist.
+Mutated Llamas
+Control whether Mutated Llamas exist.
+Possessed Sword Spawn Rate
+Control the spawn rate of Possessed Swords.
+Infested Endermen Spawn Rate
+Control the spawn rate of Infested Endermen.
+Infested Endermen Infest Other Endermen
+Control whether Infested Endermen will infest other\n§eEndermen (should no longer be an ender pearl farming exploit).
+Shades Infest Endermen
+Control whether Shades infest Endermen.
+Shades Possess Undead
+Control whether Shades will possess compatible undead mobs when at 1/4 health or lower.
+Shade Possession Eye Type
+Control what eye type Possessed Undead will have when possessed by a Shade.\n§eThe default value is two red eyes (supports multi-colored eyes); eye type is forced to be the set value when a Shade possesses a compatible undead mob.
+Shadow Remnant Chance
+Mutated Wolf Fleeing Health Percentage
+Mutated Horse Fleeing Health Percentage
+Mutated Cow Fleeing Health Percentage
+Mutated Ocelot Fleeing Health Percentage
+Mutated Pig Fleeing Health Percentage
+Mutated Donkey Fleeing Health Percentage
+Mutated Sheep Fleeing Health Percentage
+Mutated Llama Fleeing Health Percentage
+Mutated Horse Armor Spawning Iron Chance
+Mutated Horse Armor Spawning Gold Chance
+Mutated Horse Armor Spawning Diamond Chance
+Possessed Wither Skeleton Fortress Restriction
+Turn this off to disable Possessed Wither Skeletons\n§espawning only in Nether Fortresses.
+Possessed Zombie Spawn Rate
+Control the spawn rate of Possessed Zombies.
+Possessed Skeleton Spawn Rate
+Control the spawn rate of Possessed Skeletons.
+Possessed Skeleton Fortress Spawn Rate
+Control the spawn rate of Possessed Skeletons in Nether Fortresses.
+Possessed Husk Spawn Rate
+Control the spawn rate of Possessed Husks.
+Possessed Stray Spawn Rate
+Control the spawn rate of Possessed Strays.
+Possessed Wither Skeleton Spawn Rate
+Control the spawn rate of Possessed Wither Skeletons.\n§eOnly works if Possessed Wither Skeleton Fortress Restriction is off.
+Possessed Wither Skeleton Fortress Spawn Rate
+Control the spawn rate of Possessed Wither Skeletons in Nether Fortresses.
+Possessed Zombies
+Control whether Possessed Zombies exist.
+Possessed Husks
+Control whether Possessed Husks exist.
+Possessed Skeletons
+Control whether Possessed Skeletons exist.
+Possessed Strays
+Control whether Possessed Strays exist.
+Possessed Wither Skeletons
+Control whether Possessed Wither Skeletons exist.
+Possessed Wither Hunchbone Spawn Rate
+Control the spawn rate of Possessed Wither Hunchbones.
+Possessed Wither Hunchbone Fortress Spawn Rate
+Control the spawn rate of Possessed Wither Hunchbones in Nether Fortresses.
+Possessed Wither Hunchbone Restriction
+Turn this off to disable Possessed Wither Hunchbones\n§espawning only in Nether Fortresses.
+Possessed Withered Zombie Spawn Rate
+Control the spawn rate of Possessed Withered Zombies.
+Possessed Hunchbone Spawn Rate
+Control the spawn rate of Possessed Hunchbones.
+Possessed Hunchbone Fortress Spawn Rate
+Control the spawn rate of Possessed Hunchbones in Nether Fortresses.
+Possessed Withered Zombies
+Control whether Possessed Withered Zombies exist.
+Possessed Wither Hunchbones
+Control whether Possessed Wither Hunchbones exist.
+Possessed Hunchbones
+Control whether Possessed Hunchbones exist.
+Possessed Boxer Wither Skeleton Spawn Rate
+Control the spawn rate of Possessed Boxer Wither Skeletons.
+Possessed Boxer Wither Skeleton Fortress Spawn Rate
+Control the spawn rate of Possessed Boxer Wither Skeletons in Nether Fortresses.
+Possessed Boxer Wither Skeleton Fortress Restriction
+Turn this off to disable Possessed Boxer Wither Skeletons\n§espawning only in Nether Fortresses.
+Possessed Boxer Zombie Spawn Rate
+Control the spawn rate of Possessed Boxer Zombies.
+Possessed Boxer Skeleton Spawn Rate
+Control the spawn rate of Possessed Boxer Skeletons.
+Possessed Boxer Skeleton Fortress Spawn Rate
+Control the spawn rate of Possessed Boxer Skeletons in Nether Fortresses.
+Possessed Boxer Husk Spawn Rate
+Control the spawn rate of Possessed Boxer Husks.
+Possessed Boxer Stray Spawn Rate
+Control the spawn rate of Possessed Boxer Strays.
+Possessed Boxer Zombies
+Control whether Possessed Boxer Zombies exist.
+Possessed Boxer Husks
+Control whether Possessed Boxer Husks exist.
+Possessed Boxer Skeletons
+Control whether Possessed Boxer Skeletons exist.
+Possessed Boxer Strays
+Control whether Possessed Boxer Strays exist.
+Possessed Boxer Wither Skeletons
+Control whether Possessed Boxer Wither Skeletons exist.
+Aesthetics Settings
+Control some aesthetic settings.
+Shade Possess Undead Effects
+Whether to spawn particles when a Shade possesses a compatible undead mob.
+Multi-color Possessed Zombie Eyes
+Control whether Possessed Zombies have multi-color eyes.
+Multi-color Possessed Husk Eyes
+Control whether Possessed Husks have multi-color eyes.
+Multi-color Possessed Skeleton Eyes
+Control whether Possessed Skeletons have multi-color eyes.
+Multi-color Possessed Stray Eyes
+Control whether Possessed Strays have multi-color eyes.
+Multi-color Possessed Wither Skeleton Eyes
+Control whether Possessed Wither Skeletons have multi-color eyes.
+Multi-color Possessed Zombie Eyes Chance
+One in §ox§r§e Possessed Zombies will have multi-color eyes.\n§eSet to 0 to disable Possessed Zombies having multi-colored eyes.
+Multi-color Possessed Husk Eyes Chance
+One in §ox§r§e Possessed Husks will have multi-color eyes.\n§eSet to 0 to disable Possessed Husks having multi-colored eyes.
+Multi-color Possessed Skeleton Eyes Chance
+One in §ox§r§e Possessed Skeletons will have multi-color eyes.\n§eSet to 0 to disable Possessed Skeletons having multi-colored eyes.
+Multi-color Possessed Stray Eyes Chance
+One in §ox§r§e Possessed Strays will have multi-color eyes.\n§eSet to 0 to disable Possessed Strays having multi-colored eyes.
+Multi-color Possessed Wither Skeleton Eyes Chance
+One in §ox§r§e Possessed Wither Skeletons will have multi-color eyes.\n§eSet to 0 to disable Possessed Wither Skeletons having multi-colored eyes.
+Multi-color Possessed Wither Hunchbone Eyes
+Control whether Possessed Wither Hunchbones have multi-color eyes.
+Multi-color Possessed Hunchbone Eyes
+Control whether Possessed Hunchbones have multi-color eyes.
+Multi-color Possessed Withered Zombie Eyes
+Control whether Possessed Withered Zombies have multi-color eyes.
+Multi-color Possessed Wither Hunchbone Eyes Chance
+One in §ox§r§e Possessed Wither Hunchboness will have multi-color eyes.\n§eSet to 0 to disable Possessed Wither Hunchbones having multi-colored eyes.
+Multi-color Possessed Hunchbone Eyes Chance
+One in §ox§r§e Possessed Hunchbones will have multi-color eyes.\n§eSet to 0 to disable Possessed Hunchbones having multi-colored eyes.
+Multi-color Possessed Withered Zombie Eyes Chance
+One in §ox§r§e Possessed Withered Zombies will have multi-color eyes.\n§eSet to 0 to disable Withered Zombies having multi-colored eyes.
+Multi-color Possessed Boxer Zombie Eyes
+Control whether Possessed Boxer Zombies have multi-color eyes.
+Multi-color Possessed Boxer Husk Eyes
+Control whether Possessed Boxer Husks have multi-color eyes.
+Multi-color Possessed Boxer Skeleton Eyes
+Control whether Possessed Boxer Skeletons have multi-color eyes.
+Multi-color Possessed Boxer Stray Eyes
+Control whether Possessed Boxer Strays have multi-color eyes.
+Multi-color Possessed Boxer Wither Skeleton Eyes
+Control whether Possessed Boxer Wither Skeletons have multi-color eyes.
+Multi-color Possessed Boxer Zombie Eyes Chance
+One in §ox§r§e Possessed Boxer Zombies will have multi-color eyes.
+Multi-color Possessed Boxer Husk Eyes Chance
+One in §ox§r§e Possessed Boxer Husks will have multi-color eyes.\n§eSet to 0 to disable Possessed Husks having multi-colored eyes.
+Multi-color Possessed Boxer Skeleton Eyes Chance
+One in §ox§r§e Possessed Boxer Skeletons will have multi-color eyes.\n§eSet to 0 to disable Possessed Skeletons having multi-colored eyes.
+Multi-color Possessed Boxer Stray Eyes Chance
+One in §ox§r§e Possessed Boxer Strays will have multi-color eyes.\n§eSet to 0 to disable Possessed Strays having multi-colored eyes.
+Multi-color Possessed Boxer Wither Skeleton Eyes Chance
+One in §ox§r§e Possessed Boxer Wither Skeletons will have multi-color eyes.\n§eSet to 0 to disable Possessed Wither Skeletons having multi-colored eyes.
+Audio
+Audio settings for Ghostly mobs.
+Alternate Shade Audio
+Whether Shades use an alternate set of sounds. May not apply to all sounds.
+Alternate Darkness Mage Audio
+Whether Darkness Mages use an alternate set of sounds. May not apply to all sounds.
+Shade
+Possessed Sword
+Possessed Zombie
+Possessed Skeleton
+Possessed Husk
+Possessed Wither Skeleton
+Possessed Stray
+Infested Enderman
+Possessed Boxer Zombie
+Possessed Boxer Skeleton
+Possessed Boxer Husk
+Possessed Boxer Wither Skeleton
+Possessed Boxer Stray
+Possessed Hunchbone
+Possessed Wither Hunchbone
+Possessed Withered Zombie
+Arrow of Corporeality
+Tipped Arrow of Corporeality
+Spectral Arrow of Corporeality
+Dusted Arrow of Corporeality
+Spiritual Turret
+Shadow Remnant
+Venom Arrow
+Venom Spectral Arrow
+Sickened Spider
+Venom Arrow of Corporeality
+Spectral Venom Arrow of Corporeality
+Dusted Venom Arrow of Corporeality
+Darkness Mage
+Mutated Wolf
+Mutated Horse
+Mutated Cow
+Mutated Ocelot
+Mutated Pig
+Mutated Donkey
+Mutated Sheep
+Mutated Llama
+Corporealite Ore
+Block of Corporealite
+Sword of Corporeality
+Axe of Corporeality
+Pickaxe of Corporeality
+Shovel of Corporeality
+Hoe of Corporeality
+Bow of Corporeality
+Corporealite Ingot
+Corporealite Nugget
+Dusted Arrow of Corporeality
+Shadow Dust
+Venomstring
+Venombow
+Sickened Spider Eye
+Venombow of Corporeality
+Darkness Mage Flesh
+Ghostly Combat
+Ghostly Tools
+Ghostly Blocks
+Ghostly Miscellaneous
+Ghostly Foodstuffs
+What's This?
+Obtain Corporealite Ore
+Acquire Corporealware
+Obtain a Corporealite Ingot
+Isn't it Pickaxe of Corporeality
+Obtain a Pickaxe of Corporeality
+Ghostly
+The root advancement for Ghostly
+Evil Spirits, Beware
+Obtain a Bow of Corporeality
+The Spirits Dislike You
+Be killed by any Possessed Undead, or a Shade. Unaffected by mod compatibility
+You've Angered the Spirits
+Be killed by all Possessed Undead, and a Shade. Unaffected by mod compatibility
+Spirit Vanquisher
+Kill any Possessed Undead, or a Shade. Unaffected by mod compatibility
+Spirits Vanquished
+Kill all Possessed Undead, and a Shade. Unaffected by mod compatibility
+Venomous and Ranged
+Obtain a Venombow
+Partially incorporeal entities hit with this take full damage
+Partially incorporeal entities hit or shot with this take full damage
+Damages and knocks back partially incorporeal entities by 1.5x
+Accepted by normal bows, however will be counted as an ordinary arrow
+You should probably only use this with a Bow of Corporeality or Venombow of Corporeality
+Withers all fully corporeal entities, if possible
+Dust arrows with this to make them damage and knock back partially incorporeal entities by 1.5x
+They will also wither all fully corporeal entities, if possible
+Can be used to make Venombows and Venombows of Corporeality
+Anything shot with this will be poisoned, if possible
+Will not accept Tipped Arrows or Dusted Arrows of Corporeality
+Will not accept Tipped Arrows, but will accept Dusted Arrows of Corporeality
+%s died by expelling too many pieces from itself
+%s was shadow-orbed by %s

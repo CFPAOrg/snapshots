@@ -1,0 +1,12 @@
+item.ingot_carbon.name=Carbon Ingot
+item.carbon_sword.name=Carbon Sword
+item.carbon_pickaxe.name=Carbon Pickaxe
+item.carbon_shovel.name=Carbon Shovel
+item.carbon_axe.name=Carbon Axe
+item.carbon_hoe.name=Carbon Hoe
+item.carbon_helm.name=Carbon Helm
+item.carbon_chestplate.name=Carbon Chestplate
+item.carbon_leggins.name=Carbon Leggins
+item.carbon_boots.name=Carbon Boots
+tile.ore_carbon.name=Carbon Ore
+tile.carbon_block.name=Carbon Block

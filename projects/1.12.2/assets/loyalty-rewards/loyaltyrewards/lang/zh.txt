@@ -1,0 +1,5 @@
+Loyalty Rewards Config
+You have been rewarded for playing
+Reward for %s
+Inventory is full, reward was dropped near you.
+Real Time Played

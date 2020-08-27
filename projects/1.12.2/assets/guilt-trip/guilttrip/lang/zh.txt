@@ -1,0 +1,24 @@
+Maximum mob ghosts
+Maximum mob ghost age
+Animal Guilt Multiplier
+Ghost all kills
+Ghost player kills
+Ghost Player Lasts Forever
+Ghost animal kills
+Ghost boss kills
+Ghost mob kills
+Ghost walking animations
+Ghost look animations
+Render Ghosts
+Maximum number of mob ghosts allowed to articulate the player's head
+Maximum number of ticks a ghost is allowed to live before it disappears.\nSet to 0 for endless living ghosts.
+How much more should killing an animal make you feel guilty?\nThis value is multiplied with the Max Ghost Age config
+Turn all kills to ghosts?
+If all kills are off, turn player kills into ghosts? (You murderer)
+Do ghost players last forever? (Until replaced by the ghosts of others)
+If all kills are off, turn animal kills into ghosts?
+If all kills are off, turn boss kills into ghosts?
+If all kills are off, turn mob kills into ghosts?\nThis is separate from animal kills.
+Enable the walking animations of ghosts?
+Enable the looking animations of ghosts?
+Render the ghosts around the heads of players?

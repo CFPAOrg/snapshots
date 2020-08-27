@@ -1,0 +1,13 @@
+item.iron_hook.name=Iron hook
+item.excluder.name=Excluder
+tile.accelerate_torch.name=Accelerate torch
+tile.rose.name=Rose
+tile.furnace_iron.name=Iron furnace
+tile.furnace_gold.name=Gold furnace
+tile.furnace_diamond.name=Diamond furnace
+tile.furnace_hell.name=Hell furnace
+itemGroup.tweakscraft=Tweaks craft
+message.speed_changed=Speed changed
+message.mode_changed=Mode changed
+message.stopped=Stopped
+gui.excluder.title=Excluder

@@ -1,0 +1,16 @@
+TNT_Exploder
+Uzi
+Pistol
+Shotgun_body
+equipment Inventory
+Rifle_round
+Shotgun_pump
+Shotgun
+Katana
+Upgraded_Shotgun
+Gun_Ammo
+Rifle
+Weapons
+BaseBall_bat
+Shotgun_Shell
+Bullet

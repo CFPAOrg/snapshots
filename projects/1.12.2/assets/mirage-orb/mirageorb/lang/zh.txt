@@ -1,0 +1,7 @@
+Mirage Orb
+Mirage Orb
+Right Click to create a ghost of yourself
+Attacking mobs will think this is you...
+%ss until ready to use again
+You need %sx %s!
+Player Ghost

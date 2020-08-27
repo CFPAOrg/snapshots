@@ -1,0 +1,48 @@
+Mystical Adaptations
+§eInferium Seed Extractor
+§aPrudentium Seed Extractor
+§6Intermedium Seed Extractor
+§bSuperium Seed Extractor
+§cSupremium Seed Extractor
+§5Insanium Seed Extractor
+§5Insanium Tool Core
+§5Insanium Armor Core
+§5Insanium Arrow Head
+§5Insanium Fertilization Core
+§5Insanium Apple
+§5Insanium Helmet
+§5Insanium Chestplate
+§5Insanium Leggings
+§5Insanium Boots
+§5Insanium Hoe
+§5Insanium Shovel
+§5Insanium Arrow
+§5Insanium Bow
+§5Insanium Sword
+§5Insanium Watering Can
+§5Insanium Pickaxe
+§5Insanium Shears
+§5Insanium Paxel
+§5Insanium Axe
+§5Insanium Scythe
+§5Insanium Sickle
+§5Insanium Fishing Rod
+Block of Nether Stars
+Block of Silicon
+Block of HOP Graphite
+§5Insanium Furnace
+§5Insanium Seed Reprocessor
+Seed Extractor
+Can be obtained from killing mobs using a Seed Extractor of Tier
+or higher.
+Drop Chance:
+Doubles drops obtained from shearing entities
+Hungerless
+Instantly breaks obsidian
+Catches fish faster than normal
+Breaks all Logs above the target block
+§eObs: §79x9x9 if applied to Insanium Sickle
+§eObs: §77x7 if applied to Insanium Scythe
+Insanium Furnace
+Insanium
+Insanium

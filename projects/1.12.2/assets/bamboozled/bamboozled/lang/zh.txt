@@ -1,0 +1,21 @@
+Bamboozled
+Bamboo Stalks
+Bundle of Bamboo
+Place in sunlight to create dried bamboo
+Bundle of Dried Bamboo
+Can be crafted into various decorations
+Dried Bamboo Slab
+Dried Bamboo Stairs
+Bamboo Wall
+Bamboo Planks
+Bamboo Vertical Planks
+Bamboo Planks Slab
+Bamboo Planks Stairs
+Rope
+Halite
+Pile of Salt
+Block of Salt
+Dried Bamboo Stalks
+Can be crafted into various decorations
+Falling Block of Salt
+Drying %d%%

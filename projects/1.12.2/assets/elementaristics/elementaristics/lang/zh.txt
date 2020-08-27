@@ -1,0 +1,556 @@
+0.035F
+0.05F
+75
+Elementaristics
+Elementaristic Essences
+Client
+Nexus Update Interval
+Mind Dimension ID
+Elementaristics' Particle Amount
+Show Magan Bar
+Aspect-based Cultist Textures
+Intoxicated
+Trance
+Focused
+Dread
+Contentment
+Ecstasy
+Fear
+Laughter
+Silence
+Shared Health
+Potential
+A Father's Blessing
+Gaseous Form
+Crystalline Shield
+Fireball Charge
+Counterspell Field
+%1$s felt the wind's rage
+%1$s felt the wind's rage invoked by %2$s
+"%1$s felt the wind's rage invoked by %2$s using %3$s
+%1$s's mind collapsed
+%1$s's mind collapsed because of %2$s
+"%1$s's mind collapsed because of %2$s using %3$s
+%1$s saw him
+%1$s saw him because of %2$s
+"%1$s saw him because of %2$s using %3$s
+Dragon's Breath
+Generic Projectile
+Nullifying Projectile
+Mana Projectile
+Fiery Projectile
+Watery Projectile
+Heavy Projectile
+Air Projectile
+Magan Projectile
+Ancient Call
+Call of Damnation
+Fireball Charge
+Cleanse
+Blink
+Crystal Protection
+Gaseous Form
+Counterspell
+Far Reach
+Elder Root
+Vibrant Quartz
+Chaotic Matter
+Maganized Matter
+Acceleration Module
+Unrefined Aether Cluster
+Unrefined Air Cluster
+Unrefined Earth Cluster
+Unrefined Fire Cluster
+Unrefined Water Cluster
+Magic Laudanum
+Bundle of Herbs
+Opium Petal
+Opium Seeds
+Blank Essence
+Ash
+Protoplasmic Sample
+Archaic Hammer Head
+Clot of Blood
+Mirror of the Soul
+Air Essence
+Hammer of Heat
+Sacrificial Dagger
+Heart of Stone
+Empty Tympanum
+Chaotic Incantation
+Incantation of Light
+Hungry Incantation
+Incantation of Forging
+Incantation of Recruitment
+Conflagrating Incantation
+Incantation of Wind
+Incantation of Gaia
+Incantation of Stars
+Incantation of the Depths
+Incantation of Compression
+Incantation of the Sun
+Incantation of the Moon
+Incantation of the Sky
+Binding Incantation
+Unbinding Incantation
+Sharing Incantation
+Incantation of Reforging
+Glorious Incantation
+Hollow Incantation
+Occult Contract
+Dimensional Nexus
+Cult Badge
+Golden Thread
+Purest Water
+Living Sparks
+Purest Earth
+Captured Motion
+Stardust
+Brightest Sparks
+Redmost Wine
+Battling Thoughts
+Self-sustaining Vacuum
+Tangible Lightning
+Everchanging Moss
+Arcane Gem
+Ordering Catalyst
+Entropizing Catalyst
+Flesh of the Lamb
+Dead Soul
+Soul Powder
+Astral Body Matter
+Dormant Seed
+Arcane Tincture
+Iron Thaumagral
+Golden Thaumagral
+Wooden Thaumagral
+Stone Thaumagral
+Diamond Thaumagral
+Maganatic Accumulator
+Channeling Tool
+Aquatic Body
+Winged Key
+Energized Gunpowder
+Phial of Nectar
+Clear Water
+Human Heart
+Splendorous Eye
+Reflection of the Sun
+Closed Lock
+Fragment of the Mother
+Glassblood Toxin
+A strong poison that drains magic, too
+Winter's Breath
+First comes the winter's breath, then comes the hunger
+Sandthroat Poison
+Concentrated Sandthroat Poison
+ouch ouch soup hot owie
+Air Scale
+Earth Scale
+Fire Scale
+Water Scale
+Aether Scale
+Air Essence
+Earth Essence
+Water Essence
+Fire Essence
+Aether Essence
+Ice Essence
+Life Essence
+Crystal Essence
+Soul Essence
+Light Essence
+Essence of Emptiness
+Magan Essence
+Mana Essence
+Electricity Essence
+Order Essence
+Chaos Essence
+Body Essence
+Mind Essence
+Essence of the Wood
+Essence of the Night
+Enriched Stone
+Fabric of Reason
+Fabric of Passion
+Silver Thread
+Runed Stone
+Golden Thread
+Pedestal
+Purifier
+Concentrator
+Tunneler
+Filter Holder
+Reactor
+Essence Casing
+Altar
+Infusion Basin
+Aphrodium
+Phobaryllis
+Laetatium
+Horryllis
+Risium
+Tacituryllis
+Shimmershroom
+Moss
+Everchanging Moss
+Arcane Combustion Generator
+Occult Energy Core
+Redstone Transmitter
+Redstone Emulator
+Supplying Manipulator
+Passivity Manipulator
+Symbol from-and-to Nothingness
+Symbol of an Idiot
+Symbol of the Fire Dragon
+Symbol of the Aether Dragon
+Symbol of the Air Dragon
+Symbol of the Earth Dragon
+Symbol of the Water Dragon
+Symbol of the Gate-and-Key
+Symbol of the Dreamer
+Symbol of the Angel
+Symbol of the Storm
+Symbol of the Knight
+Symbol of the Sun
+Symbol of the Harbinger
+Symbol of the Fasting Queen
+Symbol of the Goat in the Wood
+Symbol of the Moth
+Symbol of the Thread
+Symbol of the Mirror
+Symbol of the Dancer
+Symbol of the Feasting King
+Symbol of the Mother
+Symbol of the Golden Moon
+Symbol of the Witch
+Soul Changer (Creative Only)
+The Truly Occult Energy Core Of Occult Truth (Creative Only)
+Elementaristics
+Cthulhu's Dream Journal
+Influencing, isn't it?
+SPLASHING
+Far below
+Without the clonk
+Whoosh!
+Not of the giant kind
+Flux free
+Behold: technology!
+Just a frame of bones?
+There shall be glory!
+Fresh!
+Shogglings for the people
+Far above, but just space
+Beyond the Inner Threshold
+Know
+The Mind
+Broken Boundaries
+Rethought Possibilities
+Reforged Boundaries
+Forged Possibilities
+Nothingness
+Burn a Bundle of Herbs at night, while carrying a Book
+Build a Lightning Pedestal to create essences using items
+Build a Concentrator to influence items with other items to create new items
+Build an arcane dishwasher
+Invoke the powers of chaos!
+Invoke the purest heat, the arcane one
+Build a Tunneler to accelerate item particles
+Build a Reactor to let (al-)chemicals react
+Build an Infusion Basin to infuse items with essences
+Build a Channeling Tool
+Build a Heart of Stone
+Build a Splendorous Eye
+Craft Purest Water
+Tame a Protoplasmic Slime
+Study the essence of space
+Connect the Wake with the Mind and Beyond
+Identify your Soul
+Enter The Mind
+Kill the Silver Thread
+Refine your mind
+Reforge your body
+Forge the Golden Thread
+From and to Nothingness!
+Liber Elementium
+The Elementaristics are the discipline from Nothingness, and they focus on how to dance beyond it.$(br)However, as no normal human has unlimited knowledge or an unceasing memory, this book covers the latter for them.
+Angels know blood
+Ticks needed:
+I could have a rather interesting time when burning this...
+Durability Bonus:
+Damage Bonus:
+Spellslots:
+Knowing me, knowing you
+It's not lunacy, it's just bloodshed
+Warm to the touch, hot to the target
+Relatively weak, compared to its non-arcane version
+Can be used as fuel
+Is it you or is it me, would you know or would you see?
+Will you ever know what you have done after drinking this?
+Wolves shall devour the Lamb
+Smells like
+Bound Aspect:
+Current Power:
+Current Magan:
+Bound X-Coordinates:
+Bound Y-Coordinates:
+Bound Z-Coordinates:
+Current Spell:
+No current Spell
+Owner:
+Acquaintances:
+Aspects:
+Power:
+Rite:
+Magan needed:
+Item Power needed:
+Soul needed:
+Aspects needed:
+Enlightenment's Sighing
+The Feast on the Soul
+Chaos Rite
+Forging Rite
+Lunatic's Rite
+Soul's Conflagration
+Wind's Wrath
+Gaia's Gaze
+Space Exilation
+Astral Drowning
+Compression of the Soul
+Rite of the Sun
+Rite of the Moon
+Rite of the Shifting Clouds
+Rite of the Shared Frame
+Rite of the Falling Towers
+Reshaping Rite
+Rite of the Patchwork
+Glorious Rite
+Rite of the Hollow Soul
+Rite of the Pact
+Silver Thread
+Cultist
+Protoplasmic Slime
+Dimensional Nexus
+Aether Elemental
+Elementaristics
+Next
+Previous
+Slime Master Key
+Current Tasks:
+Go to
+Fetch
+Grab a stack
+Store a stack
+Navigate to
+Wait
+Collect
+Store
+Current Mode:
+Local Item Power:
+Progress:
+Progress: §2ready
+Local Aspects:
+Aspects Needed:
+Current Energy:
+Draining Energy from:
+Transferring Energy to:
+(too far!)
+Bound to
+Deity:
+Nexus at
+Current Magan:
+Bound Position:
+Set Bound Position to
+§2Successfully added task
+§cThere are too many tasks specified for another to be added
+§2Cleared stored tasks
+§2The Protoplasmic Slime will execute the given tasks
+§dThe Protoplasmic Slime will now not execute tasks
+§cNo timer specified
+§6"Before magic, there were seven children in Nothingness"
+§6"When magic was born, one lost his skin"
+§6"Anguish remained"
+§6"Do you know that tale?"
+This is more potent than I thought... I might experience visions
+The Cultist will stay here
+The Cultist will closely follow you
+This Cultist is not part of your cult
+The Protoplasmic Slime will stick here
+The Protoplasmic Slime will stick with you
+The Protoplasmic Slime will go after its tasks
+Copied tasks to the Thaumagral
+Block must have an inventory
+Viewing stats for Cultist:
+Cultist's aspect:
+Current Magan:
+Your current soul is a
+You switched to a
+Your current soul is unknown
+Viewing stats for
+Your maximum magan is
+Your current magan is
+Your magan regeneration rate per tick is
+Your ascension stage:
+Your cultist count:
+There's too many artificial souls here
+There must be more space for the cultists to appear
+Visiting the Mind without having any loyal Cultists sounds like a foolish idea
+There's already a Silver Thread in the area
+Tick time:
+Hour:
+It's the hour of
+No deity is governing
+This shrine belongs to
+This deity is active for 1000 ticks after tick time
+Locked Spell
+§6The heart unfolds in the weave to show a Magan Soul influence!
+§bHere, the heart is the feather which it is weighted against. Here is an Air Soul influence.
+§2As the heart spots an Earth Soul influence, it feels like it is one of stone once again.
+§1The blood of the heart jumps and flows as it spots a Water Soul influence.
+§cThe heart beats stronger than it did before as it spots a Fire Soul influence.
+§dThe heart is a skull and the heart is a string. This is a Mana Soul influence.
+§4The heart falls apart but is then rethought in the influence of an Unstable Soul!
+§7The heart stops beating, but it will not die either, as it is in a Immutable Soul influence.
+§fThe heart is awash with vitality as it sports a Balanced Soul influence!
+§eThe heart sings a song that should not be heard in this world.
+§0The heart spots a force of the ancient, a force that should not be found in the world.
+§3This place is not a part of this world. This place serves something else.
+§9This place feels.
+§8This is not a place, this is a machine.
+§fThe Garden?
+§fThe Thought?
+§4The Legacy?
+§4Deprived of a body, the heart throbs in your hand.
+The Golden Thread needs more space
+§6Walls have been broken. Walls that were limiting.
+§6The mind has been reforged, and next is the body.
+§6The body has been reforged. The skin felt like clay, but it hardened.
+§6Ecstasy spreads, but will sooner wayne. But it always wants to leave something... contentment, ideally.
+§6The earth revolves around the sun, and it never stops existing... but on times, we won't see it, and these times are times of dread.
+§6As the sun is not seen, darkness arises. The darkness consumes, the darkness spreads fear.
+§6And as the mind gets used to the fear, suddenly it stops. And as it stops, all sound stops.
+§6And suddenly we laugh.
+§6The fire roars and so does my soul... and I shall burn forever.
+§6The water flows, the water feels... and the water feels me.
+§6The air swirls and I swirl with it...  and the harmony persists.
+§6The heart moves, the world moves... and I am the center.
+§6The fabric was stitched and so was I... and I am a masterpiece.
+§6I am me... not the true me, but less of a lie.
+§6I persisted... and I will persist.
+§6My walls hold my sanity in, but keep the knowledge out... and my walls crumble.
+§6The fabric was stitched... but I was the string.
+§6The Great Dreamer sleeps... but I have awoken.
+§6Dragons don't roar, they sing... and the world shall hear me.
+§6Magan Soul
+§1Water Soul
+§cFire Soul
+§bAir Soul
+§2Earth Soul
+§dMana Soul
+§4Unstable Soul
+§7Immutable Soul
+§fBalanced Soul
+§eDragon Soul
+§0Ancient Soul
+§3Servant's Soul
+§9Sentient Soul
+§8Mechanical Soul
+§fFirst Soul
+§fTrue Soul
+§4Apostle's Soul
+§bAir
+§cFire
+§1Water
+§2Earth
+§5Aether
+§4Life
+§3Crystal
+§fIce
+§eLight
+§7Soul
+§cBody
+§dMana
+§8Emptiness
+§3Mind
+§9Electricity
+§8Chaos
+§fOrder
+§6Magan
+§6The Wood
+§8The Night
+The God from-and-to-Nothingness
+The Blind Idiot God
+The Dragon of Aether
+The Dragon of Fire
+The Dragon of Earth
+The Dragon of Water
+The Dragon of Air
+The Gate-and-Key
+The Dreamer
+The Angel
+The Storm
+The Knight
+The Sun
+The Harbinger
+The Fasting Queen
+The Goat in the Wood
+The Moth
+The Thread
+The Mirror
+The Dancer
+The Feasting King
+The Mother of Life
+The Golden Moon
+The Witch
+Elementaristics
+The Elementaristics
+As I think about it... the knowledge of this book could be useful with my research on the Elementaristics, yet another school of magic.<BR>I will need another book for this work.
+Essence Creation
+I sense potential support for the creation of elementaristic essences. However, I will need to invest some time in research.
+My research was successful!<BR>I can now create essences with a template, a "Blank Essence". This template closely resembles the structure of elementaristic essences and has an affinity for simple reactions.<LINE><PAGE>In order to create a Blank Essence, I will need to obtain Quartz and Chaotic Matter, matter that was through some alchemical reactions. Blank Essences may be transformed into other essences, depending on how I manipulate them.
+Creating Fire Essence
+Creating Water Essence
+Creating Earth Essence
+Creating Air Essence
+Creating Aether Essence
+Creating Light Essence
+Creating Ice Essence
+Creating Life Essence
+Creating Crystal Essence
+I could perform some experiments to find another way of creating this essence.
+The experiments were successful. I have added the recipe to this entry.
+Material Studies: Maganized Matter
+I could enhance my repertoire of materials by studying a rather unconventional material...Maganized Matter. <BR> While it seems like a bad idea to use a material of such weirdly definable consistency, golems made out of it seem stable. <BR>Furthermore, these golems are incredibly light, yet they are more durable and stronger than other lightweight golems.
+Examine a piece of Maganized Matter
+Maganized Matter
+These golems are light, yet durable.
+Material Studies: Protoplasm
+Protoplasm is a sticky organic material capable of repairing itself.<BR>Is this a good idea? <BR><BR><BR><BR><BR><BR><BR><BR><BR>Maybe.
+Examine a piece of Protoplasm
+Protoplasm
+These golems are organic...
+Focus Effect: Stabilize
+My recent discoveries have shown that stabilizing abnormalities in infusion matrices is indeed possible. <BR>I should invest research in creating an according focus effect.
+This stabilization effect will (when cast on an Infusion Matrix) increase the target's stability for a bit.<BR>This could be useful in some infusions.
+Shimmershroom
+Recently, I started experiments with intoxicating herbs... relatively expensive intoxicating herbs.<BR>I could invest research into finding a cheap way of short intoxication.<BR>Maybe I should start by looking at a familiar fungus, one that already has minor intoxicating effects.
+Inspecting these mushrooms has proven useful; however, I will need to investigate further, and find ways of enhancing this fungus' properties.<BR>Examining rather occult manifestations of the mind will prove useful.
+I have completed my research.<BR>This modified fungus will intoxicate anyone that touches it, for a short period of time.<BR>It's quite smelly.
+Examine Vishrooms
+Examine Fabric of Passion
+Examine Fabric of Reason
+Stabilize
+Stabilizes infusion matrices.
+Intensity
+Focus Effect: Close Rifts
+Now that I have found a way of removing flux rifts, I should invest into reducing the cost of doing so.<BR>A focus would be optimal.
+This focus is able of closing rifts matching its power at the cost of flux (which can be decreased). <BR>Removing flux rifts with the pure power of a focus seems to have its downsides. The destroyed rift won't drop any useful objects and will just disappear.
+Close Rifts
+Completely removes flux rifts at the cost of flux generation. No items will drop.
+Power
+Cleanliness
+Worst
+Bad
+Adequate
+Good
+Perfect

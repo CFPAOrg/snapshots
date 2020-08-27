@@ -1,0 +1,26 @@
+Player Info
+/skilltree <action> [Player] [Skill]
+Successfully reset Player [%s]
+Successfully gave [%s] points to Player [%s]
+Successfully removed [%s] points from Player [%s]
+Successfully removed Skill [%s] from Player [%s]
+Successfully gave Skill [%s] to Player [%s]
+Successfully gave Player [%s] all Skills
+Invalid command: [%s]
+Unable to give [%s] points to Player [%s]
+Unable to give Player [%s] Skill [%s]: Already Owned
+Unable to give Player [%s] Skill [%s]
+Unable to remove Skill [%s] from Player [%s]
+Unable to remove from Player [%s] Skill [%s]: Already not Owned
+Available SkillPoints: %s
+Health: %s(%s%s)
+Attack Damage: %s(%s%s)
+Attack Speed: %s(%s%s)
+Armor: %s(%s%s)
+Toughness: %s(%s%s)
+Move Speed: %s(%s%s)
+Knockback Resistance: %s(%s%s)
+Luck: %s(%s%s)
+Needs %s Levels
+Needs %s
+Needs %s Skill Points

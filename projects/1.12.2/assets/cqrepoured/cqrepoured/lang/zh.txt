@@ -1,0 +1,531 @@
+Chocolate Quest Repoured Blocks
+Chocolate Quest Repoured Items
+CQR Dungeon Placers
+Banners
+Exporter Chests
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+CQR-banner marker
+White eyes of the wither skull
+Orange eyes of the wither skull
+Magenta eyes of the wither skull
+Light blue eyes of the wither skull
+Yellow eyes of the wither skull
+Light green eyes of the wither skull
+Pink eyes of the wither skull
+Gray eyes of the wither skull
+Silver eyes of the wither skull
+Cyan eyes of the wither skull
+Purple eyes of the wither skull
+Blue eyes of the wither skull
+Brown eyes of the wither skull
+Green eyes of the wither skull
+Red eyes of the wither skull
+Black eyes of the wither skull
+White wither skull
+Orange wither skull
+Magenta wither skull
+Light blue wither skull
+Yellow wither skull
+Light green wither skull
+Pink wither skull
+Gray wither skull
+Silver wither skull
+Cyan wither skull
+Purple wither skull
+Blue wither skull
+Brown wither skull
+Green wither skull
+Red wither skull
+Black wither skull
+White flames
+Orange flames
+Magenta flames
+Light blue flames
+Yellow flames
+Light green flames
+Pink flames
+Gray flames
+Silver flames
+Cyan flames
+Purple flames
+Blue flames
+Brown flames
+Green flames
+Red flames
+Black flames
+White emerald gem
+Orange emerald gem
+Magenta emerald gem
+Light blue emerald gem
+Yellow emerald gem
+Light green emerald gem
+Pink emerald gem
+Gray emerald gem
+Silver emerald gem
+Cyan emerald gem
+Purple emerald gem
+Blue emerald gem
+Brown emerald gem
+Green emerald gem
+Red emerald gem
+Black emerald gem
+White bones of the dead
+Orange bones of the dead
+Magenta bones of the dead
+Light blue bones of the dead
+Yellow bones of the dead
+Light green bones of the dead
+Pink bones of the dead
+Gray bones of the dead
+Silver bones of the dead
+Cyan bones of the dead
+Purple bones of the dead
+Blue bones of the dead
+Brown bones of the dead
+Green bones of the dead
+Red bones of the dead
+Black bones of the dead
+White flag fabric
+Orange flag fabric
+Magenta flag fabric
+Light blue flag fabric
+Yellow flag fabric
+Lime flag fabric
+Pink flag fabric
+Gray flag fabric
+Silver flag fabric
+Cyan flag fabric
+Purple flag fabric
+Blue flag fabric
+Brown flag fabric
+Green flag fabric
+Red flag fabric
+Black flag fabric
+White border sticking
+Orange border sticking
+Magenta border sticking
+Blue border sticking
+Yellow border sticking
+Lime border sticking
+Pink border sticking
+Gray border sticking
+Silver border sticking
+Cyan border sticking
+Purple border sticking
+Blue border sticking
+Brown border sticking
+Green border sticking
+Red border sticking
+Black border sticking
+White ragged fabric
+Orange ragged fabric
+Magenta ragged fabric
+Light blue ragged fabric
+Yellow ragged fabric
+Lime ragged fabric
+Pink ragged fabric
+Gray ragged fabric
+Silver ragged fabric
+Cyan ragged fabric
+Purple ragged fabric
+Blue ragged fabric
+Brown ragged fabric
+Green ragged fabric
+Red ragged fabric
+Black ragged fabric
+White walker face
+Orange walker face
+Magenta walker face
+Light blue walker face
+Yellow walker face
+Lime walker face
+Pink walker face
+Gray walker face
+Silver walker face
+Cyan walker face
+Purple walker face
+Blue walker face
+Brown walker face
+Green walker face
+Red walker face
+Black walker face
+Reputation
+Faction
+Your reputation
+Killed members
+Homes destroyed
+Drops
+Backpack
+Alchemy Bag
+Creative only block for exporting dungeons. Select the area you want to export, and then save it.
+Splits the structure into 16x16x16 cubes for usually faster exportation and generation. Recommended to keep checked.
+Uses coordinates relative to the exporter block. The Selection Helper item takes care wether this is checked or not.
+Ignores all entities which are not listed in cqrepoured.cfg -> advanced -> specialEntities. Recommended to keep checked.
+Super Tool (Creative Only)
+Healing Potion
+Teleport Stone
+Soul Bottle
+Mob To Spawner Tool
+Spawner Converter
+Badge
+Backpack
+Spiked Glove
+Alchemy Bag
+Selection Selector Helper
+Path Tool
+Cursed Bone
+Dummy Shield
+Dragon Helmet
+Iron Dagger
+Diamond Dagger
+Monking Dagger
+Ninja Dagger
+Turtle Sword
+Spider Sword
+Bull Battle Axe
+Moonlight
+Sunshine
+Pigman Shield
+Pirate Shield
+Specter Shield
+Goblin Shield
+Mummy Shield
+Rainbow Shield
+Rusted Shield
+Turtles Shield
+Triton Shield
+Walker Sword
+Walker King Shield
+Ice Bull Shield
+Carl
+Dragon Shield
+Fiery Shield
+Goblin Shield
+Monkey Shield
+Moon Shield
+Bandaged Shield
+Pigman Shield
+Pirate Shield
+Pirate Shield
+Rainbow Shield
+Mirror Shield
+Rusted Shield
+Skeleton Shield
+Specter Shield
+Spider Shield
+Sun Shield
+Tomb Shield
+Triton Shield
+Turtle Infantry Shield
+Warped Shield
+Walker Shield
+Walker Shield
+Zombie Shield
+Monking Great Sword
+Bull Greatsword
+Diamond Greatsword
+Iron Greatsword
+Diamond Spear
+Iron Spear
+Attack Range
+Staff
+Fire Staff
+Vampiric Staff
+Wind Staff
+Poison Staff
+Spider Staff
+Gun Staff
+Healing Staff
+Thunder Staff
+Revolver
+Captain Revolver
+Musket
+Musket with Iron Dagger
+Musket with Diamond Dagger
+Musket with Monking Dagger
+Iron Bullets
+Gold Bullets
+Diamond Bullets
+Fiery Bullets
+Cannon Ball
+Flamethrower
+Bubble Gun
+Advanced Bubble Gun
+Hookshot
+Longshot
+Cloud Boots
+Golden Feather
+Monking Bone
+King Crown
+Inquisition Helmet
+Inquisition Chestplate
+Inquisition Leggings
+Inquisition Boots
+Bull Helmet
+Bull Chestplate
+Bull Leggings
+Bull Boots
+Bull Leather
+Bull Horn
+Turtle Helmet
+Turtle Chestplate
+Turtle Leggings
+Turtle Boots
+Turtle Scale
+Slime Helmet
+Slime Chestplate
+Slime Leggings
+Slime Boots
+Regenerating Slime Ball
+Spider Helmet
+Spider Chestplate
+Spider Leggings
+Spider Boots
+Spider Leather
+Giant Spider Poison
+Heavy Diamond Helmet
+Heavy Diamond Chestplate
+Heavy Diamond Leggings
+Heavy Diamond Boots
+Heavy Iron Helmet
+Heavy Iron Chestplate
+Heavy Iron Leggings
+Heavy Iron Boots
+Dyable Iron Helmet
+Dyable Iron Chestplate
+Dyable Iron Leggings
+Dyable Iron Boots
+Dyable Diamond Helmet
+Dyable Diamond Chestplate
+Dyable Diamond Leggings
+Dyable Diamond Boots
+Exporter Block
+Spawner
+Null Block
+Unlit Torch
+Oak Table
+Spruce Table
+Birch Table
+Jungle Table
+Acacia Table
+Dark Oak Table
+Boss Block
+Force Field Nexus (NYI)
+Carved Andesite
+Andesite Pillar
+Andesite Cube
+Andesite Scale
+Andesite Square
+Small Andesite Bricks
+Large Andesite Bricks
+Carved Diorite
+Diorite Pillar
+Diorite Cube
+Diorite Scale
+Diorite Square
+Small Diorite Bricks
+Large Diorite Bricks
+Carved Granite
+Granite Pillar
+Granite Cube
+Granite Scale
+Granite Square
+Small Granite Bricks
+Large Granite Bricks
+Carved Prismarine
+Prismarine Pillar
+Prismarine Cube
+Prismarine Square
+Small Prismarine Bricks
+Large Prismarine Bricks
+Carved Endstone
+Endstone Pillar
+Endstone Cube
+Endstone Scale
+Endstone Square
+Small Endstone Bricks
+Carved Purpur
+Purpur Cube
+Purpur Scale
+Small Purpur Bricks
+Large Purpur Bricks
+Carved Red Netherbrick
+Red Netherbrick Pillar
+Red Netherbrick Cube
+Red Netherbrick Scale
+Red Netherbrick Square
+Large Red Netherbricks
+Stone Pillar
+Stone Cube
+Stone Scale
+Stone Square
+Small Stone Bricks
+Exporter Chest Treasure
+Exporter Chest Food
+Exporter Chest Equipment
+Exporter Chest Utility
+Exporter Chest - Village Blacksmith
+Exporter Chest - Bonus Chest
+Exporter Chest - Dungeon
+Exporter Chest - End City
+Exporter Chest - Igloo
+Exporter Chest - Jungle Chest
+Exporter Chest - Jungle Dispenser
+Exporter Chest - Woodland Mansion
+Exporter Chest - Mineshaft
+Exporter Chest - Nether Fortress
+Exporter Chest - Pyramid
+Exporter Chest - Stronghold Corridor
+Exporter Chest - Stronghold Library
+Exporter Chest - Stronghold Mine
+Exporter Chest - Custom 1
+Exporter Chest - Custom 2
+Exporter Chest - Custom 3
+Exporter Chest - Custom 4
+Exporter Chest - Custom 5
+Exporter Chest - Custom 6
+Exporter Chest - Custom 7
+Exporter Chest - Custom 8
+Exporter Chest - Custom 9
+Exporter Chest - Custom 10
+Exporter Chest - Custom 11
+Exporter Chest - Custom 12
+Exporter Chest - Custom 13
+Exporter Chest - Custom 14
+Lich Phylactery
+Wear the spider to become the spider. A full set allows you to climb walls and jump much higher.
+Flowing forth from the fangs that made this simple sword a hero's blade, Shelob's poison can't be stayed once your foe is stuck with this blade.
+Wear the bull to become the bull. A full set allows you to charge forward at great speed, and destroy anything in your path.
+Hold right click to strike a large area.
+The turtle's power, should you fashion a full set from its shell, will allow you to regain health much faster. The shell prevents most damage from the rear, as well.
+With a full set of the regenerating goo touching your skin, you can feel your maximum health overflowing, and whenever you are damaged, a small slime may appear which can restore your health, if you can reach it.
+Those who tread to the angels song the prophets say can do no wrong. A single leap becomes a bound, a brisk walk breaks the speed of sound, no fall can stop the chosen few, and with these boots, that includes you. 
+You can feel the power of the dragon coursing through your veins. Attacks that once were a threat to you seem meaningless now, yet your own strikes are twice as strong!
+Right click while moving to leap forward
+Right click while moving to leap forward. They say the wielder of this dagger could, at will, vanish without a trace. You can probably mimic this behavior with a sneaking right-click, but while you'll vanish from sight, you won't go far. 
+Grux right-click ground. Make earthquake. Travel forward. Smash enemies real good. Grux like.
+Legend has it that any who fired an arrow upon the walker king would find a sword in their back and the king behind them. Perhaps collecting both his sword and his shield would allow you the same ability?
+Click right click to fire, requires bullets.
+Bullet Damage
+Ignite on hit
+Fire Rate
+Accuracy
+Hold shift to view description
+Rear Damage
+Charging...
+Ability on cooldown, Remaining time: 
+Drink to restore 2 hearts.
+A mystical object created by an ancient race. Hold Right click to set a position, then do it again to teleport there. Sneak while holding Right-click to remove the saved location.
+Current Position:
+The flames consume those who cross your path, a simple right-click and they'll feel your wrath. Also lights torches.
+Right-click to shoot your goo, my dude.
+It's a gun on a stick. Man, those dwarves are geniuses.
+A left-click restores the health that you need, I don't actually remember what this does, but I had to make descriptions for all of these out of greed.
+Contains:
+Empty
+Left-click a mob to store it, right-click to summon that mob. Can be put in a single use spawner so that spawner spawns the stored mob.
+Undertech Prototype Fyrebird mk7 22mm nozzle flame expulsion unit. A right-mouse press should expel fire directly forwards. Internal Gel Cartridges should be able to extract slime from anywhere in the inventory. Current model requires regular reload, as no regenerating source of slime has been discovered. 
+Creative only item. Right-click with it to open a GUI, items placed in this GUI can be accessed later by left-clicking any mob with this badge again, and will be dropped when the attached mob is killed.
+Right-click to open.
+Right-click to open. Only stores potions.
+Right-click to shoot hook. Once the hook hits a wooden block, you will be pulled to it.
+Right-click to shoot hook. Once the hook hits a block, you will be pulled to it.
+Right-click to shoot hook. Once the hook hits a block, you will be pulled to it.
+Right-click to shoot hook. Once the hook hits a block, you can hold right-click to move closer to it, and sneak while doing so to move away from it.
+Right-click to shoot web. Once the hook hits a block, you can hold right-click to move closer to it, and sneak while doing so to move away from it.
+Right-click to shoot hook. Once the hook hits a block, you can hold right-click to move closer to it, and sneak while doing so to move away from it.
+The inscription on the blade reads "My power can only be awakened in the light of the moon"
+The inscription on the blade reads "My power can only be awakened in the light of the sun"
+Attack Damage during the Night
+Attack Damage during the Day
+This rod radiates dark energy, as you hold it in your hand. If you move it near your ear, you will hear its demand. Its call is simple: "Right-click with me" and when you do then you will see, a projectile it does emit. Though the damage is slight, if you land it just right, it will heal you when it does hit. 
+Whatever this is supposed to do, it doesn't work yet. #TODO
+Whatever this is supposed to do, it doesn't work yet. #TODO
+Missing #TODO
+Missing #TODO
+A well-made weapon with longer reach than swords. Right-click to charge an extended thrust.
+Mob to be summoned:
+A rough approximation of what a shield is supposed to look like. Will not protect you from attacks. An exported dummy that is holding this will instead be holding the usual shield for its mob type when its dungeon generates.
+Lightning Protection
+Boarman
+Dummy
+Dwarf
+Enderman
+Goblin
+Golem
+Gremlin
+Illager
+NPC
+Mandril
+Minotaur
+Mummy
+Ogre
+Orc
+Pirate
+Skeleton
+Spectre
+Triton
+Abyss Walker
+Zombie
+Giant Endermite
+Giant Silverfish
+Giant Lava Silverfish
+Giant Swamp Silverfish
+Nether Dragon
+Giant Tortoise
+Lich
+Necromancer
+Boarmage
+Abyss Walker King
+Pirate Captain
+Shelob
+<TECHNICAL_ENTITY>summoning pentagram
+Walker King
+<TECHNICAL_ENTITY>Walker Tornado
+Traitor Parrot
+Chocolate Quest Repoured
+Welcome to Chocolate Quest Repoured!
+Ha! Got You!
+Get killed by a CQR mob
+Unworthy Opponent
+Lose against a CQR boss
+Not so friendly...
+Encounter the walkers
+Challenger of the Chocolate
+Defeat a CQR Boss
+Champion of the Chocolate
+Defeat every CQR Boss at least once
+Wear the turtle!
+Now i'm a tank! Obtain a full set of turtle armor
+This girl is on fire
+Defeat a boarmage
+Enough of that magic already!
+Defeat a lich
+A worthy opponent
+Defeat a walker king
+Rise and die
+Defeat a necromancer
+It wasn't godzilla
+Defeat a nether dragon
+You spin me right round...
+Defeat a giant tortoise
+Arrr!
+Defeat the pirate captain
+Who's the captain now?
+Acquire the pirate captain's weapons
+The only good spider...
+...is a dead spider! Defeat a giant spider

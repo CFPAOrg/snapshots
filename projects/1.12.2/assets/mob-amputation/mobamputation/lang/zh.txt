@@ -1,0 +1,26 @@
+Gib live time
+Gib ground time
+Blood Effects
+Blood Particle Amount
+Blood Splurting from Wounds
+Green blood colour
+Player Gibbing
+Gib pushes entities
+Headless Death
+Tool Effect
+Gibbing Chance
+Projectile That Affects Gibs
+Projectile Damage Gibbing
+Length of time gibs can live (entirely)
+Length of time gibs can live once they hit the ground
+Should gibbing have blood?
+Amount of blood particles spawned per gib
+Should blood splurt out from the wound of the gib?
+Should blood be green instead of red?
+Can players be gibbed?
+Do gibs actively push mobs in its path?
+Should mobs without heads take massive damage?
+Should tools affect gibbing chance?
+Chance that mobs will gib.\nOnly when Tool Effect is off.
+Additional projectiles which affects gibbing.\nDefault chance is 100%\n\n<EntityName OR ClassName>: <Chance out of 100>, <EntityName OR ClassName>, <EntityName OR ClassName> etc\n\nEG:"Arrow: 100, Snowball: 50, net.minecraft.entity.EntityWhatever: 75"
+Allow projectiles that cause damage to mobs to gib?

@@ -1,0 +1,6 @@
+Stone Catalysts
+Cobblestone Catalysts
+Flowing Lava
+Stone Catalyst, ,Replaces water source when hit by flowing lava above, ,Place catalyst below water source
+Cobblestone Catalyst, ,Replaces lava flow when it touches water, ,Place catalyst below lava flow
+StoneCatalysts allows generation of alternate stone variants with a standard cobble gen. Simply place the catalyst below where the stone or cobble block would normally generate and the block will instead generate as the same block as the catalyst

@@ -1,0 +1,36 @@
+Light Containment Zone Wall2
+SCP049 LABEL
+SCP939 LABEL
+SCP-096
+Light Containment Zone Floor
+Mesh Floor
+Light Containment Zone Bottom
+SCP-173
+SCP009 LABEL
+SCP096 LABEL
+Ceiling Lamp
+Metal Pillar
+Light Containment Zone Wall1
+SCP939
+Reinforced Glass
+SCP035 LABEL
+SCP173 LABEL
+SCP682
+SCP682 LABEL
+Heavy Containment Zone Bottom
+Entrance Zone Floor
+SCP035
+Heavy Containment Zone Floor
+Entrance Zone Wall
+Roof
+Entrance Zone Bottom
+SCP001
+Heavy Containment Zone Wall
+SCP-049
+Light Containment Zone TOP
+Reinforced Iron
+Heavy Containment Zone TOP
+SCP001 LABEL
+SCP:The Laboratory
+SCP009
+Entrance Zone TOP

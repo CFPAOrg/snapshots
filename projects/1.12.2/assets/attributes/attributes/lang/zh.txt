@@ -1,0 +1,8 @@
+Passive Damage
+Grants a Passive Damage-Boost, Scales with Attack Level.
+Passive Resistance
+Grants a Passive Resistance-Boost, Scales with Defense.
+Passive Mining-Speed
+Grants a Passive Mining-Speed Boost, Scales with Mining.
+Adaptation
+Absorb The Very Essence of Your Enemies With Each Attack!

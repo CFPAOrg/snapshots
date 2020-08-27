@@ -1,0 +1,26 @@
+WorldEditCUI Options
+Toggle CUI visibility
+Clear WorldEdit selection
+Toggle Chunk Border
+WorldEditCUI
+OK
+Cuboid Edge Colour
+Cuboid Grid Colour
+Cuboid First Point Colour
+Cuboid Second Point Colour
+Polygon Grid Colour
+Polygon Edge Colour
+Polygon Point Colour
+Ellipsoid Grid Colour
+Ellipsoid Centre Point Colour
+Cylinder Grid Colour
+Cylinder Edge Colour
+Cylinder Centre Point Colour
+Chunk Boundary
+Chunk Grid
+Compatibility Options
+Promiscuous Mode (send /we cui all the time)
+Always on top (mod compatibility)
+Display Colours
+Advanced Options
+Clear displayed regions when <§aClear§r> is pressed

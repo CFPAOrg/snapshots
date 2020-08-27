@@ -1,0 +1,102 @@
+Ember
+Ember Helmet
+Ember Chestplate
+Ember Leggings
+Ember Boots
+Copper Ingot
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Nickel Ingot
+Nickel Helmet
+Nickel Chestplate
+Nickel Leggings
+Nickel Boots
+Steel Ingot
+Steel Helmet
+Steel Chestplate
+Steel Leggings
+Steel Boots
+Silver Ingot
+Silver Helmet
+Silver Chestplate
+Silver Leggings
+Silver Boots
+Heated Iron Ingot
+Carbon Infused Iron Ingot
+Steel and Iron Billet
+Copper and Nickel Billet
+Silver and Gold Billet
+Damascus Steel Ingot
+Mokume Gane Ingot
+Oak Mokume Ingot
+Iron Dust
+Coal Dust
+Glass Ball
+Glass Frame
+Reinforced Glass Frame
+Grain of Sand
+Grain of Dirt
+Grain of Gravel
+Grain of Dust
+DeiTerra
+Copper Ore
+Copper Block
+Nickel Ore
+Nickel Block
+Silver Ore
+Silver Block
+Steel Block
+Randonium Ore
+Block of Ember
+Ore of Ember
+Oak Ore
+Block of Dust
+Clear Glass
+Blast Resistant Glass
+Marble
+Marblestone
+Marble Bricks
+Chiseled Marble Bricks
+Cracked Marble Bricks
+Copper Pickaxe
+Copper Axe
+Copper Hoe
+Copper Shovel
+Copper Sword
+Nickel Pickaxe
+Nickel Axe
+Nickel Hoe
+Nickel Shovel
+Nickel Sword
+Silver Pickaxe
+Silver Axe
+Silver Hoe
+Silver Shovel
+Silver Sword
+Steel Pickaxe
+Steel Axe
+Steel Hoe
+Steel Shovel
+Steel Sword
+Damascus Steel Pickaxe
+Damascus Steel Axe
+Damascus Steel Hoe
+Damascus Steel Shovel
+Damascus Steel Sword
+Mokume Gane Pickaxe
+Mokume Gane Axe
+Mokume Gane Hoe
+Mokume Gane Shovel
+Mokume Gane Sword
+Oak Mokume Pickaxe
+Oak Mokume Axe
+Oak Mokume Hoe
+Oak Mokume Shovel
+Oak Mokume Sword
+Ember Pickaxe
+Ember Axe
+Ember Hoe
+Ember Shovel
+Ember Sword

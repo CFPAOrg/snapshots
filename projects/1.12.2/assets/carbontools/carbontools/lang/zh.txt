@@ -1,0 +1,12 @@
+Carbon Ingot
+Carbon Sword
+Carbon Pickaxe
+Carbon Shovel
+Carbon Axe
+Carbon Hoe
+Carbon Helm
+Carbon Chestplate
+Carbon Leggins
+Carbon Boots
+Carbon Ore
+Carbon Block

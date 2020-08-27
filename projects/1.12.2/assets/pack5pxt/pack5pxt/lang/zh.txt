@@ -1,0 +1,22 @@
+Pack 5PXT
+Bogie [0]
+Loco Seat
+Steam & Coal Mixture
+Bogie [NULL]
+ DIR-Update for Wagon[1]
+Steam (and Coal) Engine
+Locomotive [1] Diesel
+Locomotive [2] Steam
+Wagon [1] Flatbed
+Wagon [2] Box
+Wagon [3] Tanker
+Wagon [4] Passenger
+5PXT Standard Gauge
+5PXT 4m Straight
+5PXT 8m Straight Slope UP
+5PXT 8m Straight Slope DOWN
+5PXT 2m 90deg Curve Right
+5PXT 2m 90deg Curve Left
+Steam And Coal [HIGH]
+Steam And Coal [LOW]
+Steam And Coal

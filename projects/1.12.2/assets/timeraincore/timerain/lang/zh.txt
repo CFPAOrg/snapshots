@@ -1,0 +1,36 @@
+Timerain
+Timerain Configuration
+Other
+Other config options.
+Use low resolution textures
+Use low resolution textures for T-Shirts. Enabling it may increase Performance and prevent crashes.
+Dr. Gadget
+Saviour Plushie
+Evil Plushie
+Melon Hero Plushie
+Ender Hero Plushie
+§o44 - Shirt§r
+§oZunge - Shirt§r
+Doritos
+Melon Hero Helmet
+Melon Hero Chestplate
+Melon Hero Leggings
+Melon Hero Boots
+Melon Hero Sword
+Ender Hero Helmet
+Ender Hero Chestplate
+Ender Hero Leggings
+Ender Hero Boots
+Ender Hero Sword
+Evil Helmet
+Evil Chestplate
+Evil Leggings
+Evil Boots
+Saviour Helmet
+Saviour Chestplate
+Saviour Leggings
+Saviour Boots
+Mortum Helmet
+Mortum Chestplate
+Mortum Leggings
+Mortum Boots

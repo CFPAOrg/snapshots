@@ -1,0 +1,101 @@
+Tannin Bottle
+Tannin Bucket
+Cow Hide
+Pig Skin
+Horse Hide
+Wolf Pelt
+Polar Bear Hide
+Mooshroom Hide
+Llama Hide
+Donkey Pelt
+Mule Pelt
+Scraped Hide
+Washed Hide
+Prepared Hide
+Bark
+Spruce Bark
+Birch Bark
+Jungle Bark
+Acacia Bark
+Dark Oak Bark
+Tannins
+Leather Sheet
+Leather Strip
+Ender Pack
+Pack
+Red Pack
+Orange Pack
+Yellow Pack
+Lime Pack
+Green Pack
+Cyan Pack
+Light Blue Pack
+Blue Pack
+Magenta Pack
+Purple Pack
+Pink Pack
+Silver Pack
+Grey Pack
+Black Pack
+Debarked Oak Log
+Debarked Spruce Log
+Debarked Birch Log
+Debarked Jungle Log
+Debarked Acacia Log
+Debarked Dark Oak Log
+Fluid Tannins
+Oak Barrel
+Oak Sealed Barrel
+Spruce Barrel
+Spruce Sealed Barrel
+Birch Barrel
+Birch Sealed Barrel
+Jungle Barrel
+Jungle Sealed Barrel
+Acacia Barrel
+Acacia Sealed Barrel
+Dark Oak Barrel
+Dark Oak Sealed Barrel
+Oak Drying Rack
+Spruce Drying Rack
+Birch Drying Rack
+Jungle Drying Rack
+Acacia Drying Rack
+Dark Oak Drying Rack
+Tool Scraping
+Leather Works
+Tattered Leather Tunic
+Tattered Leather Cap
+Tattered Leather Pants
+Tattered Leather Boots
+Leather Repair Kit
+Leather Cap
+Leather Tunic
+Leather Pants
+Leather Boots
+This item is not allowed in this bag
+Leather Trunk
+Leather Trunk
+Oak Bark
+Spruce Bark
+Birch Bark
+Jungle Bark
+Acacia Bark
+Dark Oak Bark
+Deer Hide
+Wild Boar Hide
+Tannin
+Red Leather Trunk
+Orange Leather Trunk
+Yellow Leather Trunk
+Lime Leather Trunk
+Green Leather Trunk
+Cyan Leather Trunk
+Light Blue Leather Trunk
+Blue Leather Trunk
+Purple Leather Trunk
+Magenta Leather Trunk
+Pink Leather Trunk
+Gray Leather Trunk
+Silver Leather Trunk
+Black Leather Trunk

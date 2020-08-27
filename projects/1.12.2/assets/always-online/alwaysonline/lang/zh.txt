@@ -1,0 +1,25 @@
+Invalid password!
+Password
+Share world
+Share!
+Browse online
+No connection!
+Playing
+Discord Rich Presence
+Search: 
+Default server proudly hosted by ZeithTheWolf & Heroku
+§2ENABLED
+§4DISABLED
+Sharing with world...
+Unable to obtain external IP (connection to "http://checkip.amazonaws.com/" failed). Aborting share. :(
+Share complete!
+Normal connection failed. Attempting port-forward!
+Port-forward complete. Validating connection...
+Connection is still not established. Waiting 10 more seconds before second attempt...
+Connection established.
+Port-forward impossible. Aborting share. :(
+Share failed! :(
+Unable to open LAN world. Aborting share. :(
+Discord Rich Presence Activated!
+Connecting to %s server...
+Authorizing on %s server...
