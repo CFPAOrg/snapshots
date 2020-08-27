@@ -1,119 +1,119 @@
 Platine Stick
-Sand Spell Bullet
-Relic: Emeraud
+沙子术式子弹
+遗迹: 绿宝石
 Platine
-Armor Ring
-Black Entity Diamond
-Platine Leggings
-Splash Dragon Virus
-Ender Spell Bullet
+护甲指环
+黑色实体钻石
+Platine 护腿
+喷溅型龙病毒
+末影术式子弹
 HeroKiller
-Black Entity Body
-Redstone Creeper Spawn Egg
-Black Entity Diamond
-Black Entity Boots
-Ice Spell Bullet
-Assassin
-Hero Dust
-Fight Ring
-Etain Leggings
-Ground Wizard
-Dragon Virus Spawn Egg
-Black Grass
-Hero Leggings
-Orc King
-Villager Archer Spawn Egg
-Lightning Spell Block
-Got BlackEntityPowder
-Black Biome
-Arrow of Dragon Virus
-Deadly Ring
-OMEGA TNT spell
-Relic: Bow
-Dragon Virus
-Dead Hoe
-Black Entity Charged Powder
-You are a Hero
-Villager Knight Spawn Egg
-Black Entity Helmet
-Ice Spell
-Black Entity heart
-Fly Ring
-Hero Gem
-OMEGA Black Entity Core
-Sun Glass
-Laser Sword
-TNT Spell Bullet
-Infected Zombie
-TNT Spell Block
-Sun Glass
-Sun Glass
-Etain Sword
-Spell Book Tier:3
-Craft WizardBook
-Powerful Sword
-Redstone Ghast
-Wizard Body
-Orc
-AdventureFight
-RelicBlock:Sword
-Black Orc
-Fly Ring
-Platine Helmet
-Orc
-Orc King
-Etain Ore
-Redstone Ghast Spawn Egg
-Upgrade SpellBook Tier:1
-Hero Body
-Got BlackEntityHunterDiamond
-Powerful Essence
-Fight Ring
-Hero Sword
-Redstone Ghast Tentacles9
-Platine Pickaxe
-Ice Ring
-Restone Creeper Spawn
-Black Entity Spell Bullet
-Splash Dragon Virus
-Villager King
-Enter in Black Entity Dimension
-Black Entity Spell
-Platine Block
-Tanzanite Sword
-Etain Block
-Orc King Spawn Egg
-Black Dirt
-Restone Creeper Spawn
-Tanzanite Ore
-Got BlackEntityDiamond
-Water Wizard Monster
+黑色实体体
+红石爬行者刷怪蛋
+黑色实体钻石
+黑色实体靴子
+冰术式子弹
+刺客
+英雄之尘
+战斗指环
+伊顿护腿
+地面魔法师
+龙病毒刷怪蛋
+黑色草方块
+英雄护腿
+兽人 · 国王
+村民射手刷怪蛋
+闪电符咒方块
+得到了黑名单类型
+黑色生物群系
+龙病毒之箭
+致命指环
+欧米伽 TNT 术式
+遗迹: 弓
+龙病毒
+亡灵锄
+黑色实体充能粉末
+你是英雄
+村民骑士刷怪蛋
+黑色实体头盔
+冰咒
+黑色实体心脏
+飞行指环
+英雄宝石
+欧米伽黑色实体核心
+太阳玻璃
+镭射剑
+TNT 术式子弹
+感染僵尸
+TNT 术式方块
+太阳玻璃
+太阳玻璃
+精华剑
+法术书等级: 3
+合成巫术书
+强力剑
+红石恶魂
+魔法师之身
+兽人
+冒险之战
+剩余方块: 剑
+黑色兽人
+飞行指环
+Platine 头盔
+兽人
+兽人 · 国王
+精华矿石
+红石恶魂刷怪蛋
+升级魔法书等级: 1
+英雄主体
+获得 BlackEntityHunterDiamond
+强力精华
+战斗指环
+英雄之剑
+红石恶魂帐篷 9
+铂镐
+寒冰戒指
+红石爬行者刷怪蛋
+黑色实体术式子弹
+喷溅型龙病毒
+村民王
+在黑色实体维度输入物品
+黑色实体咒语
+铂块
+Tanz石剑
+精华块
+兽人 · 国王刷怪蛋
+黑色泥土
+红石爬行者刷怪蛋
+Tanz石矿石
+得到了黑色实体钻石
+水巫师 · 怪物
 Platine Body
-Redstone Creeper Leg4
-Villager Knight
-Redstone Ghast Tentacle
-TNT Spell
-Hero Helmet
-Redstone Ghast
-Platine Hoe
+红石爬行者腿 4
+村民骑士
+红石恶魂触须
+TNT 术式
+英雄头盔
+红石恶魂
+铂锄
 Platine Stick
-Etain Hoe
-Ground Wizard Monster
+精金锄
+地面巫师怪物
 Platine Ore
-Sun Glass
-Smelt Tanzanite ore
-RelicBlock:Bow
-Ice Wizard
-Black Entity
+太阳玻璃
+熔炼 tanz石矿石
+遗物块: 弓
+寒冰巫师
+黑色实体
 HeroKiller
-Black Entity heart
-Sand Spell Block
-Tanzanite Chestplate
-Discover HeroDust
-Water Ring
-RelicBlock: Emeraud
-Etain Boots
-Relic: Sword
-Dead Hoe
-Spell Book Tier:3
-Redstone Creeper Charged Body
+黑色实体心脏
+沙子法术方块
+Tanz石胸甲
+发现 HeroDust
+水之指环
+遗物块: 绿宝石
+精华靴子
+遗迹: 剑
+亡灵锄
+法术书等级: 3
+红石爬行者胸甲

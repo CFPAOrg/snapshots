@@ -1,93 +1,93 @@
 Platine Showel
 Platine Showel
-Cosmic Snake
-Evoker Wand
-Redstone Creeper Body
-Redstone Ghast Spawn
-Black Assasin
-Fake Block
-Water Wizard
-Hero Boots
-Black Hunter Entity Spawn Egg
-Black Entity Powder
-Black Entity Hunter Diamond
-Black Entity Guardian
-Lightning Wand
-Hero Dust
-Etain Helmet
-Laser Wand
-Redstone Ghast Spawn
-Dragon Virus
-Tanzanite Shovel
-Fire Spell Bullet
-Redstone Creeper Leg
-Ring
-Craft HeroSword
+寰宇蛇
+唤魔法杖
+红石爬行者车身
+红石恶魂刷怪蛋
+黑色阿萨辛
+假方块
+水魔法师
+英雄靴子
+黑色猎人实体刷怪蛋
+黑色实体粉
+黑色实体猎人钻石
+黑色实体守卫
+闪电星杖
+英雄之尘
+伊顿头盔
+镭射星杖
+红石恶魂刷怪蛋
+龙病毒
+Tanz石锹
+火焰术式子弹
+红石爬行者腿
+指环
+合成英雄
 Etain
-Hero Boots
+英雄靴子
 Etain Showel
-Lightning Spell
-Air Monster
-Black Entity Stone
-Villager King Spawn
-Dragon Virus
-OMEGA Black Entity Spawn Egg
-Evoker Wand
-Black Dirt
-Tanzanite Boots
-OMEGA Black Entity Core
-Giant Worm Spawn Egg
-Platine Hoe
-Redstone Monster Spawn Egg
-Lingering Dragon Virus
-Villager King Spawn
-LaserWandBullet
-Villager Archer
+闪电咒语
+空气怪物
+黑色实体石
+村民王刷怪蛋
+龙病毒
+欧米伽黑色实体刷怪蛋
+唤魔法杖
+黑色泥土
+Tanz石靴子
+欧米伽黑色实体核心
+巨虫刷怪蛋
+铂锄
+红石怪物刷怪蛋
+滞留型龙病毒
+村民王刷怪蛋
+镭射霰弹
+村民射手
 Platine
-Upgrade SpellBook Tier:2
-Sun Glass
-Black Entity Powder
-Infected Zombie
-Black Entity Chargedpowder
-Fire Ring
-OMEGA Black Entity
-Craft an HeroGem
-Black Entity Powder
-Infected Creeper
-Infected Spider Spawn Egg
-Platine Helmet
-Wizard Helmet
-HeroKiller Spawn Egg
-Infected Spider
-RelicBlock: Bow
-Upgrade Black Entity Powder
-Assassin
-RelicBlock:Emeraud
-Redstone Ghast Charge
-Sun Glass
-Platine Block
-Fire Ring
-LaserWandBullet
-Boss Chest
-Redstone Bottle
-Cosmic Snake Spawn Egg
-Platine Boots
-Mine Platine
-Redstone Monster
-Nether Silverfish
-Fire Spell
-Tanzanite Pickaxe
-Redstone Ghats Head
-Redstone Ghast Charge
-Craft the frist SpellBook
-Black Hunter Entity Diamond
-TNT Spell
-Black Hunter Entity
-Ender Spell
-Platine Axe
-Mini Boss Chest
-Black Entity Stone
-Villager Knight
-Black Entity Sword
-Spell Book Tier:1
-Black Entity Powder Block
+升级魔法书等级: 2
+太阳玻璃
+黑色实体粉
+感染僵尸
+黑色实体充能粉
+火戒
+欧米伽黑色实体
+制作一个 HeroGem
+黑色实体粉
+感染的爬行者
+被感染的蜘蛛刷怪蛋
+Platine 头盔
+巫师头盔
+HeroKiller 刷怪蛋
+被感染的蜘蛛
+遗物块: 弓
+升级黑色实体粉
+刺客
+遗物块: 绿宝石
+红石恶魂盾徽
+太阳玻璃
+铂块
+火戒
+镭射霰弹
+Boss 箱子
+红石瓶
+寰宇蛇刷怪蛋
+Platine 靴子
+开采 Platine
+红石怪物
+下界 silver虫
+火之魔
+Tanz石镐
+红石高止山脉头颅
+红石恶魂盾徽
+制作黑心魔法书
+黑色猎人钻石
+TNT 术式
+黑色猎人实体
+末影法术
+铂斧
+迷你 Boss 箱
+黑色实体石
+村民骑士
+黑色实体剑
+法术书等级: 1
+黑色实体粉末块

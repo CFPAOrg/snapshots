@@ -1,8 +1,8 @@
-Escape Rope
-Flashlight
-Ender Lantern
-Mining Lantern
-Mining Helmet
-Explorer's Hat
-Cowboy Hat
- Adventure Tools Config
+逃生绳
+手电筒
+末影灯笼
+采矿灯笼
+采矿头盔
+探险家帽子
+牛仔帽子
+冒险工具配置
